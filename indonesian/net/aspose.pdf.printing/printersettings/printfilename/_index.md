@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrintFileName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PrinterSettings. Menunjukkan nama file printer
+title: "PrinterSettings.PrintFileName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PrinterSettings. Menunjukkan nama printerfile."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.printing/printersettings/printfilename/
 ---
-## Properti PrinterSettings.PrintFileName
+## PrinterSettings.PrintFileName property
 
 Menunjukkan nama file printer.
 
@@ -16,6 +16,8 @@ public string PrintFileName { get; set; }
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableCellBuilder.AddParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableCellBuilder. Tambahkan paragraf ke sel tabel
+title: "TableCellBuilder.AddParagraph"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableCellBuilder. Menambahkan paragraf ke sel tabel"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/tablecellbuilder/addparagraph/
 ---
-## Metode TableCellBuilder.AddParagraph
+## TableCellBuilder.AddParagraph method
 
 Tambahkan paragraf ke sel tabel.
 
@@ -16,15 +16,17 @@ public TableCellBuilder AddParagraph(params BaseParagraph[] paragraph)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| paragraph | BaseParagraph[] |  |
+| paragraf | BaseParagraph[] |  |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi dari [`TableCellBuilder`](../) saat ini.
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../../../aspose.pdf/baseparagraph/)
-* kelas [TableCellBuilder](../)
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
+* class [TableCellBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

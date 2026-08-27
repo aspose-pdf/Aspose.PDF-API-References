@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Parse
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Coba untuk mengurai string dan mengekstrak dari komponen persegi panjang llx lly urx ury
+title: "Rectangle.Parse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Mencoba mengurai string dan mengekstrak komponen persegi panjang llx lly urx ury darinya"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/rectangle/parse/
 ---
-## Metode Rectangle.Parse
+## Rectangle.Parse method
 
-Coba untuk mengurai string dan mengekstrak dari komponen persegi panjang llx, lly, urx, ury.
+Mencoba mengurai string dan mengekstrak komponen persegi panjang llx, lly, urx, ury darinya.
 
 ```csharp
 public static Rectangle Parse(string value)
@@ -16,14 +16,16 @@ public static Rectangle Parse(string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | String untuk diurai. |
+| nilai | String | String untuk diurai. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek Rectangle.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

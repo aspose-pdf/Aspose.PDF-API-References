@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfViewer. Mengambil atau mengatur mode presentasi formulir
+title: "PdfViewer.FormPresentationMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfViewer. Mendapatkan atau mengatur mode presentasi formulir"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/pdfviewer/formpresentationmode/
 ---
-## Properti PdfViewer.FormPresentationMode
+## PdfViewer.FormPresentationMode property
 
-Mengambil atau mengatur mode presentasi formulir.
+Mendapatkan atau mengatur mode presentasi formulir.
 
 ```csharp
 public FormPresentationMode FormPresentationMode { get; set; }
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

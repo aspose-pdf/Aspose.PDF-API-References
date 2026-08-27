@@ -1,12 +1,12 @@
 ---
-title: ClosePath.ClosePath
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ClosePath. Menginisialisasi operator
+title: "ClosePath.ClosePath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ClosePath. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/closepath/closepath/
 ---
-## Konstruktor ClosePath
+## ClosePath constructor
 
 Menginisialisasi operator.
 
@@ -16,6 +16,8 @@ public ClosePath()
 
 ### Lihat Juga
 
-* kelas [ClosePath](../)
+* class [ClosePath](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

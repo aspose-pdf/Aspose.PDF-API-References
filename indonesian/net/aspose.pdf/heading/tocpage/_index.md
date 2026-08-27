@@ -1,12 +1,12 @@
 ---
-title: Heading.TocPage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Heading. Mendapatkan halaman yang berisi heading ini
+title: "Heading.TocPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Heading. Mendapatkan halaman yang berisi heading ini"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/heading/tocpage/
 ---
-## Properti Heading.TocPage
+## Heading.TocPage property
 
 Mendapatkan halaman yang berisi heading ini.
 
@@ -16,7 +16,9 @@ public Page TocPage { get; set; }
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [Heading](../)
+* class [Page](../../page/)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

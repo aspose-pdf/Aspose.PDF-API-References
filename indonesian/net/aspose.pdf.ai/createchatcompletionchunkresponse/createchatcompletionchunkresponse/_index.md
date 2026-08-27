@@ -1,12 +1,12 @@
 ---
-title: CreateChatCompletionChunkResponse.CreateChatCompletionChunkResponse
-second_title: Aspose.PDF for .NET API Reference
-description: CreateChatCompletionChunkResponse constructor. The default constructor
+title: "CreateChatCompletionChunkResponse.CreateChatCompletionChunkResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CreateChatCompletionChunkResponse. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/createchatcompletionchunkresponse/createchatcompletionchunkresponse/
 ---
-## Konstruktor CreateChatCompletionChunkResponse
+## CreateChatCompletionChunkResponse constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public CreateChatCompletionChunkResponse()
 
 ### Lihat Juga
 
-* kelas [CreateChatCompletionChunkResponse](../)
+* class [CreateChatCompletionChunkResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

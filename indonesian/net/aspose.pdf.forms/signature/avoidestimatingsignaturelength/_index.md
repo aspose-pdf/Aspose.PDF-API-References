@@ -1,25 +1,27 @@
 ---
-title: Signature.AvoidEstimatingSignatureLength
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Signature. Mendapatkan dan mengatur opsi yang berarti apakah untuk menghindari memperkirakan panjang tanda tangan
+title: "Signature.AvoidEstimatingSignatureLength"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Signature. Mendapatkan dan mengatur opsi yang menentukan apakah menghindari perkiraan panjang tanda tangan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/signature/avoidestimatingsignaturelength/
 ---
-## Properti Signature.AvoidEstimatingSignatureLength
+## Signature.AvoidEstimatingSignatureLength property
 
-Mendapatkan dan mengatur opsi yang berarti apakah untuk menghindari memperkirakan panjang tanda tangan.
+Mendapatkan dan mengatur opsi yang berarti apakah menghindari perkiraan panjang tanda tangan.
 
 ```csharp
 public bool AvoidEstimatingSignatureLength { get; set; }
 ```
 
-## Keterangan
+## Catatan
 
-Menghindari untuk memperkirakan panjang tanda tangan sebelum mendokumentasikan tanda tangan. Digunakan untuk menandatangani melalui [`CustomSignHash`](../customsignhash/) dan melalui [`ExternalSignature`](../../externalsignature/). Jika [`CustomSignHash`](../customsignhash/) mengembalikan tanda tangan yang lebih panjang dari [`DefaultSignatureLength`](../defaultsignaturelength/), maka [`SignatureLengthMismatchException`](../../../aspose.pdf.security/signaturelengthmismatchexception/) akan dilemparkan. Nilai default adalah `false`.
+Menghindari perkiraan panjang tanda tangan sebelum dokumen ditandatangani. Digunakan untuk penandatanganan melalui [`CustomSignHash`](../customsignhash/) dan melalui [`ExternalSignature`](../../externalsignature/). Jika [`CustomSignHash`](../customsignhash/) mengembalikan tanda tangan yang lebih panjang daripada [`DefaultSignatureLength`](../defaultsignaturelength/), maka [`SignatureLengthMismatchException`](../../../aspose.pdf.security/signaturelengthmismatchexception/) akan dilempar. Nilai default adalah `false`.
 
 ### Lihat Juga
 
-* kelas [Signature](../)
-* ruang nama [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

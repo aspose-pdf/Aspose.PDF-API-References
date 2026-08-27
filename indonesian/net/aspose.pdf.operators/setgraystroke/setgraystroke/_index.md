@@ -1,12 +1,12 @@
 ---
-title: SetGrayStroke.SetGrayStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetGrayStroke. Menginisialisasi operator dengan warna yang ditentukan
+title: "SetGrayStroke.SetGrayStroke"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetGrayStroke. Menginisialisasi operator dengan warna yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setgraystroke/setgraystroke/
 ---
-## Konstruktor SetGrayStroke
+## SetGrayStroke constructor
 
 Menginisialisasi operator dengan warna yang ditentukan.
 
@@ -16,10 +16,12 @@ public SetGrayStroke(double gray)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| gray | Double | Tingkat nilai abu-abu. |
+| abu-abu | Double | Level nilai abu-abu. |
 
 ### Lihat Juga
 
-* kelas [SetGrayStroke](../)
+* class [SetGrayStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BatesNArtifact.BatesNArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BatesNArtifact. Menginisialisasi instance baru dari kelas BatesNArtifact. Konstruktor ini bersifat internal dan membuat instance artefak header dengan nilai default
+title: "BatesNArtifact.BatesNArtifact"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor BatesNArtifact. Menginisialisasi instance baru dari kelas BatesNArtifact. Konstruktor ini bersifat internal dan membuat instance artefak header dengan nilai default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/batesnartifact/batesnartifact/
 ---
-## Konstruktor BatesNArtifact
+## BatesNArtifact constructor
 
 Menginisialisasi instance baru dari kelas [`BatesNArtifact`](../). Konstruktor ini bersifat internal dan membuat instance artefak header dengan nilai default.
 
@@ -16,6 +16,8 @@ public BatesNArtifact()
 
 ### Lihat Juga
 
-* kelas [BatesNArtifact](../)
+* class [BatesNArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

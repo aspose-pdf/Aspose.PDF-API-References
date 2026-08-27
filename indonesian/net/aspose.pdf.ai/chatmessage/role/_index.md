@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.Role
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ChatMessage. Mengambil atau menetapkan peran penulis pesan
+title: "ChatMessage.Role"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ChatMessage properti. Mendapatkan atau mengatur peran penulis pesan."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/chatmessage/role/
 ---
-## Properti ChatMessage.Role
+## ChatMessage.Role property
 
-Mengambil atau menetapkan peran penulis pesan.
+Mendapatkan atau mengatur peran penulis pesan.
 
 ```csharp
 public string Role { get; set; }
@@ -16,6 +16,8 @@ public string Role { get; set; }
 
 ### Lihat Juga
 
-* kelas [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

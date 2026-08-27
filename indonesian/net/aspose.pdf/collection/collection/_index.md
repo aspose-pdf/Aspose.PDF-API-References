@@ -1,12 +1,12 @@
 ---
-title: Collection.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Collection. Menginisialisasi objek Collection baru
+title: "Collection.Collection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Collection. Menginisialisasi objek Collection baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/collection/collection/
 ---
-## Konstruktor Collection
+## Collection constructor
 
 Menginisialisasi objek Collection baru.
 
@@ -16,6 +16,8 @@ public Collection()
 
 ### Lihat Juga
 
-* kelas [Collection](../)
+* class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

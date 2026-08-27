@@ -1,12 +1,12 @@
 ---
-title: ResizeOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ResizeOptions. Mendapatkan atau mengatur ukuran halaman baru
+title: "ResizeOptions.PageSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ResizeOptions property. Mendapatkan atau mengatur ukuran halaman baru"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/resizeoptions/pagesize/
 ---
-## Properti ResizeOptions.PageSize
+## ResizeOptions.PageSize property
 
 Mendapatkan atau mengatur ukuran halaman baru.
 
@@ -16,7 +16,9 @@ public PageSize PageSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [ResizeOptions](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [ResizeOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: SquareAnnotation.SquareAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SquareAnnotation. Konstruktor untuk digunakan dengan Generator
+title: "SquareAnnotation.SquareAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SquareAnnotation. Konstruktor untuk digunakan dengan Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/squareannotation/squareannotation/
@@ -16,7 +16,7 @@ public SquareAnnotation(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Dokumen tempat anotasi akan dibuat. |
+| document | Document | Document tempat anotasi akan dibuat. |
 
 ### Lihat Juga
 
@@ -29,7 +29,7 @@ public SquareAnnotation(Document document)
 
 ## SquareAnnotation(Page, Rectangle) {#constructor_1}
 
-Membuat anotasi Persegi baru pada halaman yang ditentukan.
+Membuat anotasi Square baru pada halaman yang ditentukan.
 
 ```csharp
 public SquareAnnotation(Page page, Rectangle rect)
@@ -37,8 +37,8 @@ public SquareAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, mendefinisikan lokasi anotasi di halaman. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
 
 ### Lihat Juga
 
@@ -47,3 +47,5 @@ public SquareAnnotation(Page page, Rectangle rect)
 * class [SquareAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

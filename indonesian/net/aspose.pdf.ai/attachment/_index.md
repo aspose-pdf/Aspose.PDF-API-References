@@ -1,14 +1,14 @@
 ---
-title: Class Attachment
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.Lampiran. Mewakili daftar file yang dilampirkan pada pesan dan alat yang seharusnya ditambahkan
+title: "Kelas Attachment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.Attachment. Mewakili daftar file yang dilampirkan pada pesan dan alat yang harus ditambahkan ke mereka."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.ai/attachment/
 ---
-## Kelas Lampiran
+## Attachment class
 
-Mewakili daftar file yang dilampirkan pada pesan, dan alat yang seharusnya ditambahkan.
+Mewakili daftar file yang dilampirkan pada pesan, dan alat yang harus ditambahkan.
 
 ```csharp
 public class Attachment
@@ -18,16 +18,18 @@ public class Attachment
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Lampiran](attachment/)() | Konstruktor default. |
+| [Attachment](attachment/)() | Konstruktor default. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/attachment/fileid/) { get; set; } | Mendapatkan atau menetapkan ID dari File yang dilampirkan. |
-| [Alat](../../aspose.pdf.ai/attachment/tools/) { get; set; } | Mendapatkan atau menetapkan jenis alat yang dilampirkan pada File. |
+| [FileId](../../aspose.pdf.ai/attachment/fileid/) { get; set; } | Mendapatkan atau mengatur ID File yang dilampirkan. |
+| [Tools](../../aspose.pdf.ai/attachment/tools/) { get; set; } | Mendapatkan atau mengatur tipe alat yang File tersebut dilampirkan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

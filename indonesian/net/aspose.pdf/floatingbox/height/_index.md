@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FloatingBox. Mendapatkan atau menetapkan nilai float yang menunjukkan tinggi dari kotak mengambang
+title: "FloatingBox.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FloatingBox. Mendapatkan atau mengatur nilai float yang menunjukkan tinggi kotak mengambang"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/floatingbox/height/
 ---
-## Properti FloatingBox.Height
+## FloatingBox.Height property
 
-Mendapatkan atau menetapkan nilai float yang menunjukkan tinggi dari kotak mengambang.
+Mendapatkan atau mengatur nilai float yang menunjukkan tinggi kotak mengambang.
 
 ```csharp
 public double Height { get; set; }
@@ -16,6 +16,8 @@ public double Height { get; set; }
 
 ### Lihat Juga
 
-* kelas [FloatingBox](../)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

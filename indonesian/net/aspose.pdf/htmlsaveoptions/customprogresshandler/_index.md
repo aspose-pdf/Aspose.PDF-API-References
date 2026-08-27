@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. Handler ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode handler yang menunjukkan kemajuan di konsol adalah
+title: "HtmlSaveOptions.CustomProgressHandler"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang HtmlSaveOptions. Penangkap ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses. Contoh kode penangkap yang menampilkan kemajuan di konsol adalah"
 type: docs
 weight: 280
 url: /id/net/aspose.pdf/htmlsaveoptions/customprogresshandler/
 ---
 ## HtmlSaveOptions.CustomProgressHandler field
 
-Handler ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode handler yang menunjukkan kemajuan di konsol adalah :
+Handler ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode handler yang menampilkan kemajuan di konsol adalah:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -54,3 +54,5 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

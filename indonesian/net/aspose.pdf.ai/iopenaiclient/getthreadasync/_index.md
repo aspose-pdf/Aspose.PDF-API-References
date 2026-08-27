@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Mengambil detail dari thread tertentu secara asinkron
+title: "IOpenAIClient.GetThreadAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Mengambil detail thread tertentu secara asinkron"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf.ai/iopenaiclient/getthreadasync/
 ---
-## Metode IOpenAIClient.GetThreadAsync
+## IOpenAIClient.GetThreadAsync method
 
-Mengambil detail dari thread tertentu secara asinkron.
+Mengambil detail thread tertentu secara asynchronous.
 
 ```csharp
 public Task<ThreadResponse> GetThreadAsync(string threadId, 
@@ -17,22 +17,24 @@ public Task<ThreadResponse> GetThreadAsync(string threadId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threadId | String | ID dari thread yang akan diambil. |
+| threadId | String | ID thread yang akan diambil. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi detail dari thread.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi detail thread.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilemparkan ketika thread Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [ThreadResponse](../../threadresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadResponse](../../threadresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

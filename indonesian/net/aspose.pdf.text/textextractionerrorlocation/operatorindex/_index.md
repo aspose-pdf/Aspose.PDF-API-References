@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.OperatorIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionErrorLocation. Indeks teks yang menunjukkan operator dalam koleksi operator aliran konten yang menyebabkan kesalahan ekstraksi teks
+title: "TextExtractionErrorLocation.OperatorIndex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionErrorLocation. Indeks operator yang menampilkan teks dalam koleksi operator aliran konten yang menyebabkan kesalahan ekstraksi teks"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/textextractionerrorlocation/operatorindex/
 ---
-## Properti TextExtractionErrorLocation.OperatorIndex
+## TextExtractionErrorLocation.OperatorIndex property
 
-Indeks teks yang menunjukkan operator dalam aliran konten (koleksi operator) yang menyebabkan kesalahan ekstraksi teks.
+Indeks operator penampilan teks dalam aliran konten (koleksi operator) yang menyebabkan kesalahan ekstraksi teks.
 
 ```csharp
 public int OperatorIndex { get; }
@@ -16,6 +16,8 @@ public int OperatorIndex { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionErrorLocation](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

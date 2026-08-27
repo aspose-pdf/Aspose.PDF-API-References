@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur tipe objek yang selalu thread.run
+title: "RunResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur tipe objek yang selalu berupa thread.run."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.ai/runresponse/object/
 ---
-## Properti RunResponse.Object
+## RunResponse.Object property
 
-Mendapatkan atau mengatur tipe objek, yang selalu thread.run.
+Menentukan atau mengatur tipe objek, yang selalu thread.run.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

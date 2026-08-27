@@ -1,14 +1,14 @@
 ---
-title: Artifact.LeftMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Artifact. Margin kiri dari artefak. Jika posisi ditentukan secara eksplisit dalam properti Posisi, nilai ini diabaikan
+title: "Artifact.LeftMargin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Artifact. Margin kiri artefak. Jika posisi ditentukan secara eksplisit dalam properti Position, nilai ini diabaikan"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/artifact/leftmargin/
 ---
-## Properti Artifact.LeftMargin
+## Artifact.LeftMargin property
 
-Margin kiri dari artefak. Jika posisi ditentukan secara eksplisit (dalam properti Posisi) nilai ini diabaikan.
+Margin kiri artefak. Jika posisi ditentukan secara eksplisit (pada properti Position) nilai ini diabaikan.
 
 ```csharp
 public double LeftMargin { get; set; }
@@ -16,6 +16,8 @@ public double LeftMargin { get; set; }
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

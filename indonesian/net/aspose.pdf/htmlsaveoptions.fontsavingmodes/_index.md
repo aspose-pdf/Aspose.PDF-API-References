@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.FontSavingModes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlSaveOptionsFontSavingModes dari Aspose.Pdf. Mengenumerasi mode yang dapat digunakan untuk menyimpan font yang dirujuk dalam PDF yang disimpan
+title: "Enum HtmlSaveOptions.FontSavingModes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.HtmlSaveOptionsFontSavingModes enum. Mengenumerasi mode yang dapat digunakan untuk menyimpan font yang direferensikan dalam PDF yang disimpan"
 type: docs
-weight: 5630
+weight: 5760
 url: /id/net/aspose.pdf/htmlsaveoptions.fontsavingmodes/
 ---
-## Enumerasi HtmlSaveOptions.FontSavingModes
+## HtmlSaveOptions.FontSavingModes enumeration
 
-Mengenumerasi mode yang dapat digunakan untuk menyimpan font yang dirujuk dalam PDF yang disimpan.
+Mengenumerasi mode yang dapat digunakan untuk menyimpan font yang direferensikan dalam PDF yang disimpan.
 
 ```csharp
 public enum FontSavingModes
@@ -18,14 +18,16 @@ public enum FontSavingModes
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| AlwaysSaveAsWOFF | `0` | Semua font yang dirujuk akan disimpan dan dirujuk sebagai font WOFF. |
-| AlwaysSaveAsTTF | `1` | Semua font yang dirujuk akan disimpan dan dirujuk sebagai font TTF. |
-| AlwaysSaveAsEOT | `2` | Semua font yang dirujuk akan disimpan dan dirujuk sebagai font EOT. |
-| SaveInAllFormats | `3` | Semua font yang dirujuk akan disimpan (dan dirujuk dalam CSS) sebagai 3 file independen: EOT, TTH, WOFF. Ini meningkatkan ukuran data keluaran tetapi membuat keluaran cocok untuk mayoritas besar browser web. |
-| DontSave | `4` | Semua font yang dirujuk tidak akan disimpan. |
+| AlwaysSaveAsWOFF | `0` | Semua font yang direferensikan akan disimpan dan direferensikan sebagai font WOFF. |
+| AlwaysSaveAsTTF | `1` | Semua font yang direferensikan akan disimpan dan direferensikan sebagai font TTF. |
+| AlwaysSaveAsEOT | `2` | Semua font yang direferensikan akan disimpan dan direferensikan sebagai font EOT. |
+| SaveInAllFormats | `3` | Semua font yang direferensikan akan disimpan (dan direferensikan dalam CSS) sebagai 3 file terpisah: EOT, TTH, WOFF. Ini meningkatkan ukuran data keluaran tetapi membuat keluaran cocok untuk mayoritas besar browser web. |
+| DontSave | `4` | Semua font yang direferensikan tidak akan disimpan. |
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../htmlsaveoptions/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Circle.PosX
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Circle. Mengambil atau mengatur nilai float yang menunjukkan koordinat x dari pusat lingkaran
+title: "Circle.PosX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Circle. Mendapatkan atau mengatur nilai float yang menunjukkan koordinat x dari pusat circle"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.drawing/circle/posx/
 ---
-## Properti Circle.PosX
+## Circle.PosX property
 
-Mengambil atau mengatur nilai float yang menunjukkan koordinat x dari pusat lingkaran.
+Mendapatkan atau mengatur nilai float yang menunjukkan koordinat x pusat lingkaran.
 
 ```csharp
 public double PosX { get; set; }
@@ -16,6 +16,8 @@ public double PosX { get; set; }
 
 ### Lihat Juga
 
-* kelas [Circle](../)
+* class [Circle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

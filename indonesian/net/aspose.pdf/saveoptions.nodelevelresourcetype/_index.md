@@ -1,14 +1,14 @@
 ---
-title: Enum SaveOptions.NodeLevelResourceType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SaveOptionsNodeLevelResourceType Aspose.Pdf. mengenumerasi jenis sumber daya eksternal yang disimpan yang mungkin
+title: "Enum SaveOptions.NodeLevelResourceType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.SaveOptionsNodeLevelResourceType. Mengenumerasi tipe-tipe kemungkinan dari sumber eksternal yang disimpan"
 type: docs
-weight: 9930
+weight: 10080
 url: /id/net/aspose.pdf/saveoptions.nodelevelresourcetype/
 ---
-## Enumerasi SaveOptions.NodeLevelResourceType
+## SaveOptions.NodeLevelResourceType enumeration
 
-mengenumerasi jenis sumber daya eksternal yang disimpan yang mungkin
+menyebutkan jenis-jenis yang mungkin dari sumber daya eksternal yang disimpan
 
 ```csharp
 public enum NodeLevelResourceType
@@ -18,11 +18,13 @@ public enum NodeLevelResourceType
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Gambar | `0` | Berarti bahwa sumber daya yang disediakan adalah gambar |
-| Font | `1` | Berarti bahwa sumber daya yang disediakan adalah font |
+| Image | `0` | Berarti bahwa sumber daya yang diberikan adalah gambar |
+| Font | `1` | Berarti bahwa sumber daya yang diberikan adalah font |
 
 ### Lihat Juga
 
-* kelas [SaveOptions](../saveoptions/)
+* class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ExportFromDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormDataConverter. Mengekspor data dari database ke tabel
+title: "FormDataConverter.ExportFromDataBase"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormDataConverter. Mengekspor data dari basis data ke tabel"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/formdataconverter/exportfromdatabase/
 ---
-## Metode FormDataConverter.ExportFromDataBase
+## FormDataConverter.ExportFromDataBase method
 
-Mengekspor data dari database ke tabel.
+Ekspor data dari basis data ke tabel.
 
 ```csharp
 public void ExportFromDataBase(string connectString, DataType dbType)
@@ -16,7 +16,7 @@ public void ExportFromDataBase(string connectString, DataType dbType)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| connectString | String | String koneksi untuk database. |
+| connectString | String | String koneksi untuk basis data. |
 | dbType | DataType | Tipe koneksi: OLEDB atau ODBC. |
 
 ## Contoh
@@ -38,3 +38,5 @@ fc.ExportFromDataBase(connection, DataType.OLEDB);
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

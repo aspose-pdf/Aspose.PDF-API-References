@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetAssistantsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Mengambil daftar asisten secara asinkron
+title: "OpenAIClient.GetAssistantsAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Mengambil daftar asisten secara asinkron"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.ai/openaiclient/getassistantsasync/
 ---
-## Metode OpenAIClient.GetAssistantsAsync
+## OpenAIClient.GetAssistantsAsync method
 
 Mengambil daftar asisten secara asinkron.
 
@@ -18,17 +18,19 @@ public Task<AssistantListResponse> GetAssistantsAsync(
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| queryParameters | AssistantListQueryParameters | Parameter kueri opsional untuk memfilter daftar asisten. |
+| queryParameters | AssistantListQueryParameters | Parameter kueri opsional untuk menyaring daftar asisten. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi daftar asisten.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi daftar asisten.
 
 ### Lihat Juga
 
-* kelas [AssistantListResponse](../../assistantlistresponse/)
-* kelas [AssistantListQueryParameters](../../assistantlistqueryparameters/)
-* kelas [OpenAIClient](../)
+* class [AssistantListResponse](../../assistantlistresponse/)
+* class [AssistantListQueryParameters](../../assistantlistqueryparameters/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

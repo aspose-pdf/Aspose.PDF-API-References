@@ -1,14 +1,14 @@
 ---
-title: Position.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Position. Menginisialisasi instance baru dari kelas Position
+title: "Position.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Position. Menginisialisasi instance baru dari kelas Position."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/position/position/
 ---
-## Konstruktor Position
+## Position constructor
 
-Menginisialisasi instance baru dari kelas [`Position`](../)
+Menginisialisasi instance baru dari kelas [`Position`](../).
 
 ```csharp
 public Position(double xIndent, double yIndent)
@@ -21,6 +21,8 @@ public Position(double xIndent, double yIndent)
 
 ### Lihat Juga
 
-* kelas [Position](../)
+* class [Position](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum EditOperationsOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Comparison.EditOperationsOrder. Menentukan urutan operasi edit
+title: "Enum EditOperationsOrder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Comparison.EditOperationsOrder. Menentukan urutan operasi edit."
 type: docs
-weight: 3180
+weight: 3290
 url: /id/net/aspose.pdf.comparison/editoperationsorder/
 ---
-## Enumerasi EditOperationsOrder
+## EditOperationsOrder enumeration
 
-Menentukan urutan operasi edit.
+Menentukan urutan operasi penyuntingan.
 
 ```csharp
 public enum EditOperationsOrder
@@ -18,10 +18,12 @@ public enum EditOperationsOrder
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| InsertFirst | `0` | Operasi sisipkan sebelum operasi hapus. |
-| DeleteFirst | `1` | Operasi hapus sebelum operasi sisipkan. |
+| InsertFirst | `0` | Operasi penyisipan sebelum operasi penghapusan. |
+| DeleteFirst | `1` | Operasi penghapusan sebelum operasi penyisipan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

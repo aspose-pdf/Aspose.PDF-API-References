@@ -1,14 +1,14 @@
 ---
-title: PositionSettings.IsKeptWithNext
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PositionSettings. Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap di halaman yang sama bersama dengan paragraf berikutnya. Default adalah false
+title: "PositionSettings.IsKeptWithNext"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PositionSettings properti. Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap berada di halaman yang sama bersama paragraf berikutnya. Defaultnya false"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.tagged/positionsettings/iskeptwithnext/
 ---
-## Properti PositionSettings.IsKeptWithNext
+## PositionSettings.IsKeptWithNext property
 
-Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap di halaman yang sama bersama dengan paragraf berikutnya. Default adalah false.
+Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap berada di halaman yang sama bersama paragraf berikutnya. Nilai default adalah false.
 
 ```csharp
 public bool IsKeptWithNext { get; set; }
@@ -16,6 +16,8 @@ public bool IsKeptWithNext { get; set; }
 
 ### Lihat Juga
 
-* kelas [PositionSettings](../)
+* class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

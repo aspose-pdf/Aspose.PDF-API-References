@@ -1,12 +1,12 @@
 ---
-title: PrintController.PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PrintController. Konstruktor default
+title: "PrintController.PrintController"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PrintController. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/printcontroller/printcontroller/
 ---
-## Konstruktor PrintController
+## PrintController constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PrintController()
 
 ### Lihat Juga
 
-* kelas [PrintController](../)
+* class [PrintController](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

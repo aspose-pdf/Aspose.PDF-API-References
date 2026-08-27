@@ -1,12 +1,12 @@
 ---
-title: Class CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DataEditor.CosPdfBoolean. Kelas ini mewakili tipe boolean
+title: "Kelas CosPdfBoolean"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.DataEditor.CosPdfBoolean. Kelas ini mewakili tipe boolean."
 type: docs
-weight: 3410
+weight: 3530
 url: /id/net/aspose.pdf.dataeditor/cospdfboolean/
 ---
-## Kelas CosPdfBoolean
+## CosPdfBoolean class
 
 Kelas ini mewakili tipe boolean.
 
@@ -18,7 +18,7 @@ public sealed class CosPdfBoolean : CosPdfPrimitive
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CosPdfBoolean](cospdfboolean/)(bool) | Menginisialisasi instance baru dari kelas PdfBoolean. |
+| [CosPdfBoolean](cospdfboolean/)(bool) | Menginisialisasi sebuah instance baru dari kelas PdfBoolean. |
 
 ## Properti
 
@@ -31,16 +31,18 @@ public sealed class CosPdfBoolean : CosPdfPrimitive
 | Nama | Deskripsi |
 | --- | --- |
 | override [Equals](../../aspose.pdf.dataeditor/cospdfboolean/equals/)(object) | Menentukan bahwa objek yang ditentukan sama dengan objek saat ini. |
-| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfboolean/gethashcode/)() | Mendapatkan hashcode untuk objek saat ini. |
-| override [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfboolean/tocospdfboolean/)() | Mencoba mengonversi instance ini menjadi `CosPdfBoolean`. |
-| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Mencoba mengonversi instance ini menjadi [`CosPdfDictionary`](../cospdfdictionary/). |
-| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Mencoba mengonversi instance ini menjadi [`CosPdfName`](../cospdfname/). |
-| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Mencoba mengonversi instance ini menjadi [`CosPdfNumber`](../cospdfnumber/). |
-| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Mencoba mengonversi instance ini menjadi [`CosPdfString`](../cospdfstring/). |
-| override [ToString](../../aspose.pdf.dataeditor/cospdfboolean/tostring/)() | Mengembalikan String yang mewakili `CosPdfBoolean` saat ini. |
+| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfboolean/gethashcode/)() | Dapatkan hashcode untuk objek saat ini. |
+| override [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfboolean/tocospdfboolean/)() | Mencoba meng-cast instance ini ke `CosPdfBoolean`. |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Mencoba meng-cast instance ini ke [`CosPdfDictionary`](../cospdfdictionary/). |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Mencoba meng-cast instance ini ke [`CosPdfName`](../cospdfname/). |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Mencoba meng-cast instance ini ke [`CosPdfNumber`](../cospdfnumber/). |
+| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Mencoba meng-cast instance ini ke [`CosPdfString`](../cospdfstring/). |
+| override [ToString](../../aspose.pdf.dataeditor/cospdfboolean/tostring/)() | Mengembalikan sebuah String yang mewakili `CosPdfBoolean` saat ini. |
 
 ### Lihat Juga
 
-* kelas [CosPdfPrimitive](../cospdfprimitive/)
+* class [CosPdfPrimitive](../cospdfprimitive/)
 * namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
+
+

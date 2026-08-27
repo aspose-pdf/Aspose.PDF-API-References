@@ -1,7 +1,7 @@
 ---
-title: AddVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Menambahkan grafik vektor di dalam persegi panjang yang diberikan ke halaman.
+title: "AddVectorGraphics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Menambahkan grafik vektor di dalam persegi panjang yang diberikan ke halaman."
 type: docs
 weight: 360
 url: /id/net/aspose.pdf/page/addvectorgraphics/
@@ -14,12 +14,12 @@ Menambahkan grafik vektor di dalam persegi panjang yang diberikan ke halaman.
 public void AddVectorGraphics(SubPathCollection pathsToAdd, Rectangle rectangle = null)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pathsToAdd | SubPathCollection | koleksi grafik vektor. |
-| rectangle | Rectangle | Subpathes akan ditambahkan ke halaman jika berada di dalam area persegi panjang. |
+| persegi panjang | Rectangle | Subpathes akan ditambahkan ke halaman jika berada di dalam area persegi panjang. |
 
-### See Also
+### Lihat Juga
 
 * class [SubPathCollection](../../../aspose.pdf.vector/subpathcollection)
 * class [Rectangle](../../rectangle)

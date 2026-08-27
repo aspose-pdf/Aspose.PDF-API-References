@@ -1,29 +1,31 @@
 ---
-title: Enum ReplaceTextStrategy.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction enum. Tindakan yang dilakukan jika font tidak mengandung karakter yang diperlukan
+title: "Enum ReplaceTextStrategy.NoCharacterAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction enum. Tindakan yang harus dilakukan jika font tidak mengandung karakter yang diperlukan"
 type: docs
-weight: 4680
+weight: 4800
 url: /id/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
 ---
 ## ReplaceTextStrategy.NoCharacterAction enumeration
 
-Tindakan yang dilakukan jika font tidak mengandung karakter yang diperlukan
+Tindakan yang harus dilakukan jika font tidak mengandung karakter yang diperlukan
 
 ```csharp
 public enum NoCharacterAction
 ```
 
-### Values
+### Nilai
 
-| Name | Value | Description |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| ThrowException | `0` | Lempar pengecualian |
-| UseStandardFont | `1` | Ganti font dengan font standar yang mengandung karakter yang diperlukan |
-| ReplaceAnyway | `2` | Ganti teks tanpa penggantian font |
+| ThrowException | `0` | Melempar pengecualian |
+| UseStandardFont | `1` | Ganti font ke font standar yang mengandung karakter yang diperlukan |
+| ReplaceAnyway | `2` | Ganti teks tetap tanpa substitusi font |
 
-### See Also
+### Lihat Juga
 
 * class [ReplaceTextStrategy](../replacetextstrategy/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

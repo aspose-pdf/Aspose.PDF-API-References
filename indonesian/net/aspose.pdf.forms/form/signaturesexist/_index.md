@@ -1,14 +1,14 @@
 ---
-title: Form.SignaturesExist
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Jika diatur, dokumen mengandung setidaknya satu bidang tanda tangan
+title: "Form.SignaturesExist"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Jika diatur, dokumen berisi setidaknya satu bidang tanda tangan"
 type: docs
-weight: 140
+weight: 160
 url: /id/net/aspose.pdf.forms/form/signaturesexist/
 ---
-## Properti Form.SignaturesExist
+## Form.SignaturesExist property
 
-Jika diatur, dokumen mengandung setidaknya satu bidang tanda tangan.
+Jika diatur, dokumen berisi setidaknya satu bidang tanda tangan.
 
 ```csharp
 public bool SignaturesExist { get; set; }
@@ -16,6 +16,8 @@ public bool SignaturesExist { get; set; }
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

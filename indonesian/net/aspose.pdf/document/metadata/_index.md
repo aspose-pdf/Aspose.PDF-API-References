@@ -1,14 +1,14 @@
 ---
-title: Document.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Metadata dokumen. Dokumen PDF dapat mencakup informasi umum seperti judul dokumen, penulis, dan tanggal pembuatan serta modifikasi. Informasi global tentang dokumen tersebut, berbeda dengan konten atau strukturnya, disebut metadata dan dimaksudkan untuk membantu dalam pengkatalogan dan pencarian dokumen di basis data eksternal.
+title: "Document.Metadata"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Metadata dokumen. Sebuah dokumen PDF dapat mencakup informasi umum seperti judul dokumen, penulis, serta tanggal pembuatan dan modifikasi. Informasi global tentang dokumen tersebut, berbeda dengan isi atau strukturnya, disebut metadata dan dimaksudkan untuk membantu dalam pengkatalogan dan pencarian dokumen di basis data eksternal."
 type: docs
-weight: 360
+weight: 380
 url: /id/net/aspose.pdf/document/metadata/
 ---
-## Properti Document.Metadata
+## Document.Metadata property
 
-Metadata dokumen. (Dokumen PDF dapat mencakup informasi umum, seperti judul dokumen, penulis, dan tanggal pembuatan serta modifikasi. Informasi global tentang dokumen tersebut (berbeda dengan konten atau strukturnya) disebut metadata dan dimaksudkan untuk membantu dalam pengkatalogan dan pencarian dokumen di basis data eksternal.)
+Metadata dokumen. (Sebuah dokumen PDF dapat mencakup informasi umum, seperti judul dokumen, penulis, serta tanggal pembuatan dan modifikasi. Informasi global tentang dokumen (berlawanan dengan isi atau strukturnya) disebut metadata dan dimaksudkan untuk membantu dalam pengkatalogan dan pencarian dokumen di basis data eksternal.)
 
 ```csharp
 public Metadata Metadata { get; }
@@ -16,7 +16,9 @@ public Metadata Metadata { get; }
 
 ### Lihat Juga
 
-* kelas [Metadata](../../metadata/)
-* kelas [Document](../)
+* class [Metadata](../../metadata/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Append
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Menambahkan halaman yang dipilih dari array dokumen dalam portStreams. Dokumen hasil mencakup firstInputFile dan semua halaman dokumen portStreams dalam rentang startPage hingga endPage
+title: "PdfFileEditor.Append"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PdfFileEditor. Menambahkan halaman yang dipilih dari array dokumen dalam portStreams. Dokumen hasil mencakup firstInputFile dan semua halaman dokumen portStreams dalam rentang startPage hingga endPage."
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.facades/pdffileeditor/append/
 ---
 ## Append(Stream, Stream[], int, int, Stream) {#append_1}
 
-Menambahkan halaman, yang dipilih dari array dokumen dalam portStreams. Dokumen hasil mencakup firstInputFile dan semua halaman dokumen portStreams dalam rentang startPage hingga endPage.
+Menambahkan halaman, yang dipilih dari array dokumen di portStreams. Dokumen hasil mencakup firstInputFile dan semua halaman dokumen portStreams dalam rentang startPage hingga endPage.
 
 ```csharp
 public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -17,15 +17,15 @@ public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream Pdf input. |
+| inputStream | Stream | Aliran Pdf masukan. |
 | portStreams | Stream[] | Dokumen untuk menyalin halaman dari. |
 | startPage | Int32 | Halaman mulai dalam dokumen portStreams. |
 | endPage | Int32 | Halaman berakhir dalam dokumen portStreams. |
-| outputStream | Stream | Stream Pdf output. |
+| outputStream | Stream | Aliran Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -40,7 +40,7 @@ fileEditor.Append(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -61,9 +61,9 @@ public bool Append(string inputFile, string[] portFiles, int startPage, int endP
 | portFiles | String[] | Dokumen untuk menyalin halaman dari. |
 | startPage | Int32 | Halaman mulai dalam dokumen portFiles. |
 | endPage | Int32 | Halaman berakhir dalam dokumen portFiles. |
-| outputFile | String | Dokumen Pdf output. |
+| outputFile | String | Dokumen Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -76,7 +76,7 @@ fileEditor.Append("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -84,7 +84,7 @@ fileEditor.Append("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "
 
 ## Append(string, string, int, int, string) {#append_2}
 
-Menambahkan halaman, yang dipilih dari portFile dalam rentang dari startPage hingga endPage, di portFile di akhir firstInputFile.
+Menambahkan halaman, yang dipilih dari portFile dalam rentang dari startPage hingga endPage, di portFile pada akhir firstInputFile.
 
 ```csharp
 public bool Append(string inputFile, string portFile, int startPage, int endPage, string outputFile)
@@ -96,9 +96,9 @@ public bool Append(string inputFile, string portFile, int startPage, int endPage
 | portFile | String | Halaman dari file Pdf. |
 | startPage | Int32 | Halaman mulai dalam portFile. |
 | endPage | Int32 | Halaman berakhir dalam portFile. |
-| outputFile | String | Dokumen Pdf output. |
+| outputFile | String | Dokumen Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -111,7 +111,7 @@ fileEditor.Append("input.pdf", "file1.pdf",  3, 5, "outfile.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -119,7 +119,7 @@ fileEditor.Append("input.pdf", "file1.pdf",  3, 5, "outfile.pdf");
 
 ## Append(Stream, Stream, int, int, Stream) {#append}
 
-Menambahkan halaman, yang dipilih dari portStream dalam rentang dari startPage hingga endPage, di portStream di akhir firstInputStream.
+Menambahkan halaman, yang dipilih dari portStream dalam rentang dari startPage hingga endPage, di portStream pada akhir firstInputStream.
 
 ```csharp
 public bool Append(Stream inputStream, Stream portStream, int startPage, int endPage, 
@@ -128,15 +128,15 @@ public bool Append(Stream inputStream, Stream portStream, int startPage, int end
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file input. |
-| portStream | Stream | Halaman dari Stream file Pdf. |
-| startPage | Int32 | Halaman mulai dalam Stream portFile. |
-| endPage | Int32 | Halaman berakhir dalam Stream portFile. |
-| outputStream | Stream | Stream file Pdf output. |
+| inputStream | Stream | Aliran file masukan. |
+| portStream | Stream | Halaman dari aliran file Pdf. |
+| startPage | Int32 | Halaman dimulai di aliran portFile. |
+| endPage | Int32 | Halaman berakhir di aliran portFile. |
+| outputStream | Stream | Aliran file Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -150,6 +150,8 @@ fileEditor.Append(instream, stream1,  3, 5, "outfile.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

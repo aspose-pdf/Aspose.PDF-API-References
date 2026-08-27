@@ -1,14 +1,14 @@
 ---
-title: XFA.GetFieldTemplate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XFA. Mengembalikan node XML dari template field XFA
+title: "XFA.GetFieldTemplate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XFA. Mengembalikan node XML dari templat bidang XFA"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.forms/xfa/getfieldtemplate/
 ---
-## Metode XFA.GetFieldTemplate
+## XFA.GetFieldTemplate method
 
-Mengembalikan node XML dari template field XFA.
+Mengembalikan node XML dari templat bidang XFA.
 
 ```csharp
 public XmlNode GetFieldTemplate(string fieldName)
@@ -16,14 +16,16 @@ public XmlNode GetFieldTemplate(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Jalur dari field yang template-nya harus ditemukan. |
+| fieldName | String | Jalur bidang yang templatnya harus ditemukan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Node XL dengan template field.
+Node XL dengan templat bidang.
 
 ### Lihat Juga
 
-* kelas [XFA](../)
+* class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel mulai dari indeks yang ditentukan dari array target.
+title: "CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel mulai dari indeks yang ditentukan pada array target."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.vector/subpathcollection/copyto/
 ---
 ## SubPathCollection.CopyTo method
 
-Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan dari array target.
+Mengopi seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan pada array target.
 
 ```csharp
 public void CopyTo(SubPath[] array, int arrayIndex)
@@ -17,7 +17,7 @@ public void CopyTo(SubPath[] array, int arrayIndex)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | array | SubPath[] | Array objek yang akan disalin. |
-| arrayIndex | Int32 | Indeks awal dari mana penyalinan akan dimulai. |
+| arrayIndex | Int32 | Indeks mulai dari mana penyalinan akan dimulai. |
 
 ### Lihat Juga
 

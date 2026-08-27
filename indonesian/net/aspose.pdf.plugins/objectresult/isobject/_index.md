@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.IsObject
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ObjectResult. Menunjukkan apakah hasilnya adalah objek
+title: "ObjectResult.IsObject"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ObjectResult. Menunjukkan apakah hasilnya berupa objek"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/objectresult/isobject/
 ---
-## Properti ObjectResult.IsObject
+## ObjectResult.IsObject property
 
 Menunjukkan apakah hasilnya adalah objek.
 
@@ -14,12 +14,14 @@ Menunjukkan apakah hasilnya adalah objek.
 public bool IsObject { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-`true` jika hasilnya adalah objek; jika tidak `false`.
+`true` jika hasilnya berupa objek; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [ObjectResult](../)
+* class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

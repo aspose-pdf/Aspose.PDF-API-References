@@ -1,14 +1,14 @@
 ---
-title: BatesNArtifact.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BatesNArtifact. Mengambil atau mengatur prefiks yang akan ditambahkan ke nomor Bates
+title: "BatesNArtifact.Prefix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BatesNArtifact. Mendapatkan atau mengatur awalan yang akan ditambahkan ke nomor Bates"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/batesnartifact/prefix/
 ---
-## Properti BatesNArtifact.Prefix
+## BatesNArtifact.Prefix property
 
-Mengambil atau mengatur prefiks yang akan ditambahkan ke nomor Bates.
+Mendapatkan atau mengatur awalan yang akan ditambahkan ke nomor Bates.
 
 ```csharp
 public string Prefix { get; set; }
@@ -16,6 +16,8 @@ public string Prefix { get; set; }
 
 ### Lihat Juga
 
-* kelas [BatesNArtifact](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

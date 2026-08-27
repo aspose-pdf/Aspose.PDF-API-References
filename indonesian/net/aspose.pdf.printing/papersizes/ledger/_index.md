@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Ledger
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas ledger 17 in. x 11 in
+title: "PaperSizes.Ledger"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSizes. Kertas Ledger 17 in. x 11 in"
 type: docs
 weight: 620
 url: /id/net/aspose.pdf.printing/papersizes/ledger/
 ---
-## Bidang PaperSizes.Ledger
+## PaperSizes.Ledger field
 
-Kertas ledger (17 in. x 11 in.).
+Kertas Ledger (17 in. x 11 in.).
 
 ```csharp
 public static readonly PaperSize Ledger;
@@ -16,7 +16,9 @@ public static readonly PaperSize Ledger;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

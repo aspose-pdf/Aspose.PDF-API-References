@@ -1,14 +1,14 @@
 ---
-title: Artifact.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Properti artefak. Mengambil atau mengatur sudut rotasi artefak
+title: "Artifact.Rotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Artifact. Mendapatkan atau mengatur sudut rotasi artefak."
 type: docs
 weight: 170
 url: /id/net/aspose.pdf/artifact/rotation/
 ---
-## Properti Artifact.Rotation
+## Artifact.Rotation property
 
-Mengambil atau mengatur sudut rotasi artefak.
+Mendapatkan atau mengatur sudut rotasi artefak.
 
 ```csharp
 public double Rotation { get; set; }
@@ -16,6 +16,8 @@ public double Rotation { get; set; }
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

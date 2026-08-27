@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur status dari run yang bisa berupa antrian, sedang_diproses, memerlukan_tindakan, membatalkan, dibatalkan, gagal, selesai, tidak_lengkap, atau kedaluwarsa
+title: "RunResponse.Status"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur status run yang dapat berupa queued, in_progress, requires_action, cancelling, cancelled, failed, completed, incomplete, atau expired"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.ai/runresponse/status/
 ---
-## Properti RunResponse.Status
+## RunResponse.Status property
 
-Mendapatkan atau mengatur status dari run, yang bisa berupa antrian, sedang_diproses, memerlukan_tindakan, membatalkan, dibatalkan, gagal, selesai, tidak_lengkap, atau kedaluwarsa.
+Menentukan atau mengatur status run, yang dapat berupa queued, in_progress, requires_action, cancelling, cancelled, failed, completed, incomplete, atau expired.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

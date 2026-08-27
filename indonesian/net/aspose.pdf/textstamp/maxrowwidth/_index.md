@@ -1,12 +1,12 @@
 ---
-title: TextStamp.MaxRowWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Tinggi baris maksimum untuk opsi WordWrap
+title: "TextStamp.MaxRowWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Tinggi baris maksimum untuk opsi WordWrap"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/textstamp/maxrowwidth/
 ---
-## Properti TextStamp.MaxRowWidth
+## TextStamp.MaxRowWidth property
 
 Tinggi baris maksimum untuk opsi WordWrap.
 
@@ -16,6 +16,8 @@ public double MaxRowWidth { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.TransparencyAction
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Tindakan untuk objek yang dimasker gambar
+title: "PdfFormatConversionOptions.TransparencyAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Aksi untuk objek gambar yang dimask."
 type: docs
-weight: 210
+weight: 220
 url: /id/net/aspose.pdf/pdfformatconversionoptions/transparencyaction/
 ---
-## Properti PdfFormatConversionOptions.TransparencyAction
+## PdfFormatConversionOptions.TransparencyAction property
 
-Tindakan untuk objek yang dimasker gambar
+Aksi untuk objek gambar yang dimask.
 
 ```csharp
 public ConvertTransparencyAction TransparencyAction { get; set; }
@@ -20,3 +20,5 @@ public ConvertTransparencyAction TransparencyAction { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

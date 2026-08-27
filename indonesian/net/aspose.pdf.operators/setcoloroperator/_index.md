@@ -1,14 +1,14 @@
 ---
-title: Class SetColorOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetColorOperator. Kelas yang mewakili operasi pengaturan warna
+title: "Kelas SetColorOperator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetColorOperator kelas. Kelas yang mewakili operasi set warna"
 type: docs
-weight: 7640
+weight: 7780
 url: /id/net/aspose.pdf.operators/setcoloroperator/
 ---
-## Kelas SetColorOperator
+## SetColorOperator class
 
-Kelas yang mewakili operasi pengaturan warna.
+Kelas yang merepresentasikan operasi pengaturan warna.
 
 ```csharp
 public abstract class SetColorOperator : Operator
@@ -24,13 +24,15 @@ public abstract class SetColorOperator : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Menerima pengunjung IOperatorSelector yang menyediakan pemrosesan operator. |
+| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Menerima visitor IOperatorSelector yang menyediakan pemrosesan operator. |
 | abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/)() | Mengembalikan warna yang ditentukan oleh operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateCustomActionLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat tautan ke tindakan kustom dalam dokumen PDF
+title: "PdfContentEditor.CreateCustomActionLink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat tautan ke aksi khusus dalam dokumen PDF"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/
 ---
-## Metode PdfContentEditor.CreateCustomActionLink
+## PdfContentEditor.CreateCustomActionLink method
 
-Membuat tautan ke tindakan kustom dalam dokumen PDF.
+Membuat tautan ke aksi khusus dalam dokumen PDF.
 
 ```csharp
 public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color, Enum[] actionName)
@@ -17,9 +17,9 @@ public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan akan dibuat. |
+| originalPage | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan akan dibuat. |
 | color | Color | Warna persegi panjang untuk klik aktif. |
-| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan item menu yang dieksekusi di penampil Acrobat. |
+| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan mengeksekusi item menu di penampil Acrobat. |
 
 ## Contoh
 
@@ -34,6 +34,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

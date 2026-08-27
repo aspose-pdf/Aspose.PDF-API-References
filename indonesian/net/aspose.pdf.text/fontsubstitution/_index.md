@@ -1,12 +1,12 @@
 ---
-title: Class FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.FontSubstitution. Mewakili kelas dasar untuk strategi substitusi font
+title: "Kelas FontSubstitution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.FontSubstitution kelas. Mewakili kelas dasar untuk strategi substitusi font"
 type: docs
-weight: 10580
+weight: 10760
 url: /id/net/aspose.pdf.text/fontsubstitution/
 ---
-## Kelas FontSubstitution
+## FontSubstitution class
 
 Mewakili kelas dasar untuk strategi substitusi font.
 
@@ -18,3 +18,5 @@ public class FontSubstitution
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

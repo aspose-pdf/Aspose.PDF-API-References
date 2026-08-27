@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.WithMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ThreadMessageCreateRequest. Mengatur metadata untuk permintaan pesan thread
+title: "ThreadMessageCreateRequest.WithMetadata"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ThreadMessageCreateRequest. Mengatur metadata untuk permintaan pesan thread"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.ai/threadmessagecreaterequest/withmetadata/
 ---
-## Metode ThreadMessageCreateRequest.WithMetadata
+## ThreadMessageCreateRequest.WithMetadata method
 
 Mengatur metadata untuk permintaan pesan thread.
 
@@ -18,12 +18,14 @@ public ThreadMessageCreateRequest WithMetadata(Dictionary<string, string> metada
 | --- | --- | --- |
 | metadata | Dictionary`2 | Kamus metadata yang akan diatur. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instansi saat ini dari [`ThreadMessageCreateRequest`](../).
+Instance saat ini dari [`ThreadMessageCreateRequest`](../).
 
 ### Lihat Juga
 
-* kelas [ThreadMessageCreateRequest](../)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

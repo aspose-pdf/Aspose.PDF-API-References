@@ -1,7 +1,7 @@
 ---
-title: PageDate.DayComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DayComponent. Mendapatkan string format untuk komponen hari
+title: "PageDate.DayComponent.GetFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DayComponent. Mendapatkan string format untuk komponen hari"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pagedate.daycomponent/getformat/
@@ -14,12 +14,14 @@ Mendapatkan string format untuk komponen hari.
 public string GetFormat()
 ```
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah string yang mewakili format hari.
+String yang mewakili format hari.
 
-### See Also
+### Lihat Juga
 
 * class [DayComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

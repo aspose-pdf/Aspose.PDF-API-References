@@ -1,14 +1,14 @@
 ---
-title: IconFit.ScalingModeToName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IconFit. Mengonversi objek mode skala menjadi nama
+title: "IconFit.ScalingModeToName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IconFit. Mengonversi objek mode skala menjadi nama"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/iconfit/scalingmodetoname/
 ---
-## Metode IconFit.ScalingModeToName
+## IconFit.ScalingModeToName method
 
-Mengonversi objek mode skala menjadi nama.
+Mengonversi objek mode penskalaan menjadi nama.
 
 ```csharp
 public static string ScalingModeToName(ScalingMode mode)
@@ -18,7 +18,7 @@ public static string ScalingModeToName(ScalingMode mode)
 | --- | --- | --- |
 | mode | ScalingMode | Objek mode skala. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama mode skala.
 
@@ -28,3 +28,5 @@ Nama mode skala.
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

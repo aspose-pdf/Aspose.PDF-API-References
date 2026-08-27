@@ -1,7 +1,7 @@
 ---
-title: IllustrationElement.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IllustrationElement. Menambahkan gambar ke elemen ilustrasi saat ini
+title: "IllustrationElement.SetImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IllustrationElement. Menambahkan gambar ke elemen ilustrasi saat ini"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/illustrationelement/setimage/
@@ -21,7 +21,7 @@ public virtual void SetImage(string imageSrc, double imageResolution = 300m)
 
 ### Lihat Juga
 
-* kelas [IllustrationElement](../)
+* class [IllustrationElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,6 +43,8 @@ public virtual void SetImage(string imageSrc, double imageWidth, double imageHei
 
 ### Lihat Juga
 
-* kelas [IllustrationElement](../)
+* class [IllustrationElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

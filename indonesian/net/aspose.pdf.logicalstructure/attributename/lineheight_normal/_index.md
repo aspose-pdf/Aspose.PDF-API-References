@@ -1,14 +1,14 @@
 ---
-title: AttributeName.LineHeight_Normal
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Atribut LineHeight Normal Sesuaikan tinggi baris untuk menyertakan nilai non-nol yang ditentukan untuk BaselineShift
+title: "AttributeName.LineHeight_Normal"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut LineHeight Normal  Sesuaikan tinggi baris untuk menyertakan nilai bukan nol yang ditentukan untuk BaselineShift"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.logicalstructure/attributename/lineheight_normal/
 ---
-## Field AttributeName.LineHeight_Normal
+## AttributeName.LineHeight_Normal field
 
-Atribut LineHeight: Normal - Sesuaikan tinggi baris untuk menyertakan nilai non-nol yang ditentukan untuk BaselineShift.
+Atribut LineHeight: Normal - Sesuaikan tinggi baris untuk menyertakan nilai nonnol yang ditentukan untuk BaselineShift.
 
 ```csharp
 public static readonly AttributeName LineHeight_Normal;
@@ -16,6 +16,8 @@ public static readonly AttributeName LineHeight_Normal;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

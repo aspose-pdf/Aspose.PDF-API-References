@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCrossSection. Mendapatkan atau mengatur warna bidang pemotongan
+title: "PDF3DCrossSection.CuttingPlaneColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DCrossSection. Mendapatkan atau mengatur warna bidang pemotongan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanecolor/
 ---
-## Properti PDF3DCrossSection.CuttingPlaneColor
+## PDF3DCrossSection.CuttingPlaneColor property
 
 Mendapatkan atau mengatur warna bidang pemotongan.
 
@@ -14,13 +14,15 @@ Mendapatkan atau mengatur warna bidang pemotongan.
 public Color CuttingPlaneColor { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Warna bidang pemotongan.
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [PDF3DCrossSection](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

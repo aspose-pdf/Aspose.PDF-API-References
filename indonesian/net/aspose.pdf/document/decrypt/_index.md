@@ -1,14 +1,14 @@
 ---
-title: Document.Decrypt
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Mendekripsi dokumen. Panggil kemudian Simpan untuk mendapatkan versi dokumen yang terdekripsi
+title: "Document.Decrypt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Mendekripsi dokumen. Panggil kemudian Save untuk memperoleh versi dokumen yang didekripsi"
 type: docs
-weight: 600
+weight: 620
 url: /id/net/aspose.pdf/document/decrypt/
 ---
-## Metode Document.Decrypt
+## Document.Decrypt method
 
-Mendekripsi dokumen. Panggil kemudian Simpan untuk mendapatkan versi dokumen yang terdekripsi.
+Mendekripsi document. Panggil kemudian Save untuk memperoleh versi document yang telah didekripsi.
 
 ```csharp
 public void Decrypt()
@@ -16,20 +16,20 @@ public void Decrypt()
 
 ### Contoh
 
-Kode sampel berikut menunjukkan cara mendekripsi file PDF.
+Kode contoh berikut menunjukkan cara mendekripsi file PDF.
 
 ```csharp
 [C#]
-	// The path to your PDF File.
+	// Jalur ke File PDF Anda.
 	string pdfFilePath = "YOUR_PDF_FILE_PATH";
 
-	// Open document
+	// Buka dokumen
 	using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD"))
 	{
-		// Decrypt PDF
+		// Dekripsi PDF
 		document.Decrypt();
 
-		// Save updated PDF
+		// Simpan PDF yang diperbarui
 		document.Save(pdfFilePath);
 	}
 ```
@@ -53,6 +53,8 @@ Kode sampel berikut menunjukkan cara mendekripsi file PDF.
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

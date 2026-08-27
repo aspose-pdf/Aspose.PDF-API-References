@@ -1,14 +1,14 @@
 ---
-title: Interface ITeXOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.ITeXOutputDirectory. Antarmuka direktori keluaran TeX yang digeneralisasi
+title: "Antarmuka ITeXOutputDirectory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.ITeXOutputDirectory. Antarmuka dari direktori output TeX yang umum"
 type: docs
-weight: 5830
+weight: 5960
 url: /id/net/aspose.pdf/itexoutputdirectory/
 ---
-## Antarmuka ITeXOutputDirectory
+## ITeXOutputDirectory interface
 
-Antarmuka direktori keluaran TeX yang digeneralisasi.
+Antarmuka direktori output TeX yang umum.
 
 ```csharp
 public interface ITeXOutputDirectory : ITeXInputDirectory
@@ -22,6 +22,8 @@ public interface ITeXOutputDirectory : ITeXInputDirectory
 
 ### Lihat Juga
 
-* antarmuka [ITeXInputDirectory](../itexinputdirectory/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* interface [ITeXInputDirectory](../itexinputdirectory/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

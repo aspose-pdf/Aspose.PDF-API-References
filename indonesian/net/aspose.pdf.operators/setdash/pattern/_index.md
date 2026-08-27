@@ -1,14 +1,14 @@
 ---
-title: SetDash.Pattern
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetDash. Pola dash. Elemen array harus berupa angka yang menentukan panjang dash dan celah yang bergantian. Dalam kasus array dengan satu elemen, panjang dash dan celah adalah sama.
+title: "SetDash.Pattern"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetDash. Pola dash. Elemen array harus berupa angka yang menentukan panjang dash dan celah yang bergantian. Jika array memiliki satu elemen, panjang dash dan celah adalah sama."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/setdash/pattern/
 ---
-## Properti SetDash.Pattern
+## SetDash.Pattern property
 
-Pola dash. Elemen array harus berupa angka yang menentukan panjang dash dan celah yang bergantian. Dalam kasus array dengan satu elemen, panjang dash dan celah adalah sama.
+Pola dash. Elemen array harus berupa angka yang menentukan panjang dash dan celah yang bergantian. Jika array hanya memiliki satu elemen, panjang dash dan celah akan sama.
 
 ```csharp
 public int[] Pattern { get; set; }
@@ -16,6 +16,8 @@ public int[] Pattern { get; set; }
 
 ### Lihat Juga
 
-* kelas [SetDash](../)
+* class [SetDash](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

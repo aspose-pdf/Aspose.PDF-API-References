@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.GetViewsArray
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DArtwork. Mendapatkan array tampilan
+title: "PDF3DArtwork.GetViewsArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DArtwork. Mendapatkan array tampilan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/pdf3dartwork/getviewsarray/
 ---
-## Metode PDF3DArtwork.GetViewsArray
+## PDF3DArtwork.GetViewsArray method
 
 Mendapatkan array tampilan.
 
@@ -14,13 +14,15 @@ Mendapatkan array tampilan.
 public PDF3DView[] GetViewsArray()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Array tampilan.
 
 ### Lihat Juga
 
-* kelas [PDF3DView](../../pdf3dview/)
-* kelas [PDF3DArtwork](../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

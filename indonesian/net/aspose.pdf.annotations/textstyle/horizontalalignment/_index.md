@@ -1,14 +1,14 @@
 ---
-title: TextStyle.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStyle. Penjajaran teks. Nilai yang valid adalah Kiri Pusat Kanan
+title: "TextStyle.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStyle. Perataan teks. Nilai yang valid adalah Left Center Rigth"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/textstyle/horizontalalignment/
 ---
-## Properti TextStyle.HorizontalAlignment
+## TextStyle.HorizontalAlignment property
 
-Penjajaran teks. Nilai yang valid adalah: Kiri, Pusat, Kanan.
+Perataan teks. Nilai yang valid adalah: Kiri, Tengah, Kanan.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

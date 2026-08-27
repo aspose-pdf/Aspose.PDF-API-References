@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileSpecification. Mendapatkan item koleksi dari spesifikasi file
+title: "FileSpecification.CollectionItem"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FileSpecification. Mendapatkan item koleksi dari spesifikasi file"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/filespecification/collectionitem/
 ---
-## Properti FileSpecification.CollectionItem
+## FileSpecification.CollectionItem property
 
 Mendapatkan item koleksi dari spesifikasi file.
 
@@ -16,7 +16,9 @@ public CollectionItem CollectionItem { get; }
 
 ### Lihat Juga
 
-* kelas [CollectionItem](../../collectionitem/)
-* kelas [FileSpecification](../)
+* class [CollectionItem](../../collectionitem/)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

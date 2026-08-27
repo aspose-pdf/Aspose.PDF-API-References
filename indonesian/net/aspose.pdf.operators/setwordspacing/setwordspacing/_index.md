@@ -1,12 +1,12 @@
 ---
-title: SetWordSpacing.SetWordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetWordSpacing. Menginisialisasi operator
+title: "SetWordSpacing.SetWordSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetWordSpacing. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setwordspacing/setwordspacing/
 ---
-## Konstruktor SetWordSpacing
+## SetWordSpacing constructor
 
 Menginisialisasi operator.
 
@@ -16,10 +16,12 @@ public SetWordSpacing(double wordSpacing)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| wordSpacing | Double | Jarak antar kata. |
+| wordSpacing | Double | Spasi kata. |
 
 ### Lihat Juga
 
-* kelas [SetWordSpacing](../)
+* class [SetWordSpacing](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

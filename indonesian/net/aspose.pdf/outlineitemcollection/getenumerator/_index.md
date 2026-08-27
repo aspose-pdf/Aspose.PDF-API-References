@@ -1,25 +1,27 @@
 ---
-title: OutlineItemCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OutlineItemCollection. Mengembalikan enumerator yang mengiterasi melalui koleksi
+title: "OutlineItemCollection.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OutlineItemCollection. Mengembalikan enumerator yang mengiterasi koleksi"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf/outlineitemcollection/getenumerator/
 ---
-## Metode OutlineItemCollection.GetEnumerator
+## OutlineItemCollection.GetEnumerator method
 
-Mengembalikan enumerator yang mengiterasi melalui koleksi.
+Mengembalikan enumerator yang mengiterasi koleksi.
 
 ```csharp
 public override IEnumerator<OutlineItemCollection> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah objek System.Collections.IEnumerator yang dapat digunakan untuk mengiterasi melalui koleksi.
+Objek System.Collections.IEnumerator yang dapat digunakan untuk mengiterasi koleksi.
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

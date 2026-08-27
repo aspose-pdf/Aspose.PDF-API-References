@@ -1,12 +1,12 @@
 ---
-title: Class Header
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Header. Mewakili pengaturan header
+title: "Kelas Header"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Header. Mewakili pengaturan header."
 type: docs
-weight: 5410
+weight: 5530
 url: /id/net/aspose.pdf/header/
 ---
-## Kelas Header
+## Header class
 
 Mewakili pengaturan header.
 
@@ -30,6 +30,8 @@ public sealed class Header : HorizontalAlignment
 
 ### Lihat Juga
 
-* kelas [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextState.RenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextState. Mengambil atau mengatur mode rendering teks
+title: "TextState.RenderingMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextState. Mendapatkan atau mengatur mode render teks."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.text/textstate/renderingmode/
 ---
-## Properti TextState.RenderingMode
+## TextState.RenderingMode property
 
-Mengambil atau mengatur mode rendering teks.
+Mendapatkan atau mengatur mode render teks.
 
 ```csharp
 public virtual TextRenderingMode RenderingMode { get; set; }
@@ -20,3 +20,5 @@ public virtual TextRenderingMode RenderingMode { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

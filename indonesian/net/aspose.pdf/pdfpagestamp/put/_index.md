@@ -1,14 +1,14 @@
 ---
-title: PdfPageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfPageStamp. Tempel stempel pada halaman yang ditentukan
+title: "PdfPageStamp.Put"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfPageStamp. Menempatkan stempel pada halaman yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pdfpagestamp/put/
 ---
-## Metode PdfPageStamp.Put
+## PdfPageStamp.Put method
 
-Tempel stempel pada halaman yang ditentukan.
+Letakkan stempel pada halaman yang ditentukan.
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat stempel akan ditempatkan. |
+| halaman | Halaman | Halaman tempat stempel akan ditempatkan. |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PdfPageStamp](../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: Color.SlateGray
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF708090
+title: "Color.SlateGray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FF708090"
 type: docs
 weight: 1270
 url: /id/net/aspose.pdf/color/slategray/
 ---
-## Properti Color.SlateGray
+## Color.SlateGray property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF708090.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FF708090.
 
 ```csharp
 public static Color SlateGray { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

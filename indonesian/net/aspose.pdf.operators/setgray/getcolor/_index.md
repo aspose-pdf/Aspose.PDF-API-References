@@ -1,12 +1,12 @@
 ---
-title: SetGray.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SetGray. Mengembalikan warna yang ditentukan oleh operator
+title: "SetGray.getColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SetGray. Mengembalikan warna yang ditentukan oleh operator"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.operators/setgray/getcolor/
 ---
-## Metode SetGray.getColor
+## SetGray.getColor method
 
 Mengembalikan warna yang ditentukan oleh operator.
 
@@ -14,12 +14,14 @@ Mengembalikan warna yang ditentukan oleh operator.
 public override Color getColor()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Warna yang ditentukan oleh operator.
 
 ### Lihat Juga
 
-* kelas [SetGray](../)
+* class [SetGray](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

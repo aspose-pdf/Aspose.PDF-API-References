@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.SignatureAppearanceStream
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileSignature. Mengatur atau mendapatkan tampilan grafis untuk tanda tangan. Nilai properti mewakili aliran gambar
+title: "PdfFileSignature.SignatureAppearanceStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileSignature. Mengatur atau mendapatkan tampilan grafis untuk tanda tangan. Nilai properti mewakili aliran gambar"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdffilesignature/signatureappearancestream/
 ---
-## Properti PdfFileSignature.SignatureAppearanceStream
+## PdfFileSignature.SignatureAppearanceStream property
 
 Mengatur atau mendapatkan tampilan grafis untuk tanda tangan. Nilai properti mewakili aliran gambar.
 
@@ -16,6 +16,8 @@ public Stream SignatureAppearanceStream { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

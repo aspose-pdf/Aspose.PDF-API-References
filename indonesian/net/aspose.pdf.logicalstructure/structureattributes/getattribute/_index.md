@@ -1,12 +1,12 @@
 ---
-title: StructureAttributes.GetAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttributes. Mendapatkan StructureAttribute berdasarkan AttributeKey
+title: "StructureAttributes.GetAttribute"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureAttributes. Mengambil StructureAttribute berdasarkan AttributeKey"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/structureattributes/getattribute/
 ---
-## Metode StructureAttributes.GetAttribute
+## StructureAttributes.GetAttribute method
 
 Mendapatkan StructureAttribute berdasarkan AttributeKey.
 
@@ -16,16 +16,18 @@ public StructureAttribute GetAttribute(AttributeKey key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | AttributeKey | AttributeKey. |
+| kunci | AttributeKey | AttributeKey. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 StructureAttribute
 
 ### Lihat Juga
 
-* kelas [StructureAttribute](../../structureattribute/)
-* kelas [AttributeKey](../../attributekey/)
-* kelas [StructureAttributes](../)
+* class [StructureAttribute](../../structureattribute/)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

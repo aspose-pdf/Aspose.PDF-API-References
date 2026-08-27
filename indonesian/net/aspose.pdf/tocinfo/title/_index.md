@@ -1,14 +1,14 @@
 ---
-title: TocInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TocInfo. Mengambil atau mengatur judul daftar isi
+title: "TocInfo.Title"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TocInfo. Mendapatkan atau mengatur judul daftar isi"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/tocinfo/title/
 ---
-## Properti TocInfo.Title
+## TocInfo.Title property
 
-Mengambil atau mengatur judul daftar isi.
+Mendapatkan atau mengatur judul daftar isi.
 
 ```csharp
 public TextFragment Title { get; set; }
@@ -16,7 +16,9 @@ public TextFragment Title { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../../aspose.pdf.text/textfragment/)
-* kelas [TocInfo](../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

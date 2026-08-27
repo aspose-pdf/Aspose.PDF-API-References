@@ -1,7 +1,7 @@
 ---
-title: AppearanceDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AppearanceDictionary. Menghapus kunci dari kamus
+title: "AppearanceDictionary.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AppearanceDictionary. Menghapus kunci dari kamus"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.annotations/appearancedictionary/remove/
@@ -16,13 +16,13 @@ public bool Remove(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci yang akan dihapus dari kamus. |
+| kunci | String | Kunci yang akan dihapus dari kamus. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika kunci berhasil dihapus.
 
-### See Also
+### Lihat Juga
 
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -42,13 +42,15 @@ public bool Remove(KeyValuePair<string, XForm> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Pasangan kunci/nilai yang akan dihapus. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika pasangan ditemukan dan dihapus.
 
-### See Also
+### Lihat Juga
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

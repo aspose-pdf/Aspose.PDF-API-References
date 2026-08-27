@@ -1,12 +1,12 @@
 ---
-title: PdfToXlsOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfToXlsOptions. Mendapatkan nama operasi
+title: "PdfToXlsOptions.OperationName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfToXlsOptions properti. Mendapatkan nama operasi"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/pdftoxlsoptions/operationname/
 ---
-## Properti PdfToXlsOptions.OperationName
+## PdfToXlsOptions.OperationName property
 
 Mendapatkan nama operasi.
 
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### Lihat Juga
 
-* kelas [PdfToXlsOptions](../)
+* class [PdfToXlsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

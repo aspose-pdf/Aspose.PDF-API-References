@@ -1,12 +1,12 @@
 ---
-title: Interface IImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.IImageDescriptionCopilot. Mewakili copilot deskripsi gambar untuk mengekstrak deskripsi gambar menggunakan model AI
+title: "Antarmuka IImageDescriptionCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.IImageDescriptionCopilot. Mewakili copilot deskripsi gambar untuk mengekstrak deskripsi gambar menggunakan model AI"
 type: docs
-weight: 510
+weight: 530
 url: /id/net/aspose.pdf.ai/iimagedescriptioncopilot/
 ---
-## Antarmuka IImageDescriptionCopilot
+## IImageDescriptionCopilot interface
 
 Mewakili copilot deskripsi gambar untuk mengekstrak deskripsi gambar menggunakan model AI.
 
@@ -18,10 +18,12 @@ public interface IImageDescriptionCopilot : IAICopilot
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | Secara asinkron mendapatkan deskripsi gambar untuk gambar dari dokumen PDF. |
+| [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | Secara asynchronous mendapatkan deskripsi gambar untuk gambar dari dokumen PDF. |
 
 ### Lihat Juga
 
-* antarmuka [IAICopilot](../iaicopilot/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* interface [IAICopilot](../iaicopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

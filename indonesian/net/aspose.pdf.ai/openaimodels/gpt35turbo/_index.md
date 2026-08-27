@@ -1,12 +1,12 @@
 ---
-title: OpenAIModels.Gpt35Turbo
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIModels. Mendapatkan pengidentifikasi untuk model GPT3.5 Turbo
+title: "OpenAIModels.Gpt35Turbo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIModels properti. Mengambil pengidentifikasi untuk model GPT3.5 Turbo"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/openaimodels/gpt35turbo/
 ---
-## Properti OpenAIModels.Gpt35Turbo
+## OpenAIModels.Gpt35Turbo property
 
 Mendapatkan pengidentifikasi untuk model GPT-3.5 Turbo.
 
@@ -16,6 +16,8 @@ public static string Gpt35Turbo { get; }
 
 ### Lihat Juga
 
-* kelas [OpenAIModels](../)
+* class [OpenAIModels](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

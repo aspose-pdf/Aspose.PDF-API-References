@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Hide
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ImagePlacement. Hapus gambar dari halaman
+title: "ImagePlacement.Hide"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ImagePlacement. Menghapus gambar dari halaman"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/imageplacement/hide/
 ---
-## Metode ImagePlacement.Hide
+## ImagePlacement.Hide method
 
 Hapus gambar dari halaman.
 
@@ -16,6 +16,8 @@ public void Hide()
 
 ### Lihat Juga
 
-* kelas [ImagePlacement](../)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

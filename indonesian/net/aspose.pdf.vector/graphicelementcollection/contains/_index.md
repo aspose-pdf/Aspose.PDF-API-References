@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicElementCollection. Menentukan apakah suatu elemen ada dalam koleksi
+title: "GraphicElementCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicElementCollection. Menentukan apakah sebuah elemen berada dalam koleksi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.vector/graphicelementcollection/contains/
 ---
-## Metode GraphicElementCollection.Contains
+## GraphicElementCollection.Contains method
 
-Menentukan apakah suatu elemen ada dalam koleksi.
+Menentukan apakah sebuah elemen berada dalam koleksi.
 
 ```csharp
 public bool Contains(GraphicElement item)
@@ -16,15 +16,17 @@ public bool Contains(GraphicElement item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | GraphicElement | [`GraphicElement`](../../graphicelement/) yang dicari. |
+| item | GraphicElement | [`GraphicElement`](../../graphicelement/) untuk dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika elemen ditemukan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [GraphicElement](../../graphicelement/)
-* kelas [GraphicElementCollection](../)
-* ruang nama [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

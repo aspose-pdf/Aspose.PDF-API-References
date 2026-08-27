@@ -1,14 +1,14 @@
 ---
-title: TiffSettings.TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TiffSettings. Menginisialisasi instance baru dari kelas TiffSettings
+title: "TiffSettings.TiffSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TiffSettings. Menginisialisasi sebuah instance baru dari kelas TiffSettings"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.devices/tiffsettings/tiffsettings/
 ---
 ## TiffSettings() {#constructor}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings()
@@ -16,7 +16,7 @@ public TiffSettings()
 
 ### Lihat Juga
 
-* kelas [TiffSettings](../)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public TiffSettings()
 
 ## TiffSettings(ShapeType) {#constructor_7}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(ShapeType shapeType)
@@ -37,7 +37,7 @@ public TiffSettings(ShapeType shapeType)
 ### Lihat Juga
 
 * enum [ShapeType](../../shapetype/)
-* kelas [TiffSettings](../)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,7 +45,7 @@ public TiffSettings(ShapeType shapeType)
 
 ## TiffSettings(CompressionType) {#constructor_2}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(CompressionType compressionType)
@@ -53,12 +53,12 @@ public TiffSettings(CompressionType compressionType)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| compressionType | CompressionType | Tipe kompresi. |
+| compressionType | CompressionType | Jenis kompresi. |
 
 ### Lihat Juga
 
 * enum [CompressionType](../../compressiontype/)
-* kelas [TiffSettings](../)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -66,7 +66,7 @@ public TiffSettings(CompressionType compressionType)
 
 ## TiffSettings(ColorDepth) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(ColorDepth colorDepth)
@@ -79,7 +79,7 @@ public TiffSettings(ColorDepth colorDepth)
 ### Lihat Juga
 
 * enum [ColorDepth](../../colordepth/)
-* kelas [TiffSettings](../)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -87,7 +87,7 @@ public TiffSettings(ColorDepth colorDepth)
 
 ## TiffSettings(Margins) {#constructor_6}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(Margins margins)
@@ -99,8 +99,8 @@ public TiffSettings(Margins margins)
 
 ### Lihat Juga
 
-* kelas [Margins](../../margins/)
-* kelas [TiffSettings](../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -108,7 +108,7 @@ public TiffSettings(Margins margins)
 
 ## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
@@ -116,7 +116,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| compressionType | CompressionType | Tipe kompresi. |
+| compressionType | CompressionType | Jenis kompresi. |
 | colorDepth | ColorDepth | Kedalaman warna. |
 | margins | Margins | Margin. |
 
@@ -124,8 +124,8 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
-* kelas [Margins](../../margins/)
-* kelas [TiffSettings](../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -133,7 +133,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -142,17 +142,17 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| compressionType | CompressionType | Tipe kompresi. |
+| compressionType | CompressionType | Jenis kompresi. |
 | colorDepth | ColorDepth | Kedalaman warna. |
 | margins | Margins | Margin. |
-| skipBlankPages | Boolean | jika diatur ke `true` perlu melewati halaman kosong. |
+| skipBlankPages | Boolean | jika diatur ke `true` perlu melewatkan halaman kosong. |
 
 ### Lihat Juga
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
-* kelas [Margins](../../margins/)
-* kelas [TiffSettings](../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -160,7 +160,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -169,19 +169,19 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| compressionType | CompressionType | Tipe kompresi. |
+| compressionType | CompressionType | Jenis kompresi. |
 | colorDepth | ColorDepth | Kedalaman warna. |
 | margins | Margins | Margin. |
-| skipBlankPages | Boolean | jika diatur ke `true` perlu melewati halaman kosong. |
+| skipBlankPages | Boolean | jika diatur ke `true` perlu melewatkan halaman kosong. |
 | shapeType | ShapeType | Tipe bentuk. |
 
 ### Lihat Juga
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
-* kelas [Margins](../../margins/)
+* class [Margins](../../margins/)
 * enum [ShapeType](../../shapetype/)
-* kelas [TiffSettings](../)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -189,7 +189,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(bool) {#constructor_8}
 
-Menginisialisasi instance baru dari kelas [`TiffSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(bool skipBlankPages)
@@ -197,10 +197,12 @@ public TiffSettings(bool skipBlankPages)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| skipBlankPages | Boolean | jika diatur ke `true` [melewati halaman kosong]. |
+| skipBlankPages | Boolean | jika diatur ke `true` [lewatkan halaman kosong]. |
 
 ### Lihat Juga
 
-* kelas [TiffSettings](../)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

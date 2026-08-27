@@ -1,7 +1,7 @@
 ---
-title: InvalidFormTypeOperationException.InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor InvalidFormTypeOperationException. Menginisialisasi instance baru dari kelas InvalidFormTypeOperationException
+title: "InvalidFormTypeOperationException.InvalidFormTypeOperationException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor InvalidFormTypeOperationException. Menginisialisasi instance baru dari kelas InvalidFormTypeOperationException"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
@@ -16,7 +16,7 @@ public InvalidFormTypeOperationException()
 
 ### Lihat Juga
 
-* kelas [InvalidFormTypeOperationException](../)
+* class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ public InvalidFormTypeOperationException(string message)
 
 ### Lihat Juga
 
-* kelas [InvalidFormTypeOperationException](../)
+* class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public InvalidFormTypeOperationException(string message)
 
 ## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
 
-Menginisialisasi instance baru dari kelas [`InvalidFormTypeOperationException`](../) dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
+Menginisialisasi instance baru dari kelas [`InvalidFormTypeOperationException`](../) dengan pesan error yang ditentukan dan referensi ke inner exception yang menjadi penyebab exception ini.
 
 ```csharp
 public InvalidFormTypeOperationException(string message, Exception innerException)
@@ -52,12 +52,12 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan alasan pengecualian. |
+| message | String | Pesan error yang menjelaskan alasan pengecualian. |
 | innerException | Exception | Pengecualian yang menjadi penyebab pengecualian saat ini, atau referensi null (Nothing dalam Visual Basic) jika tidak ada pengecualian dalam yang ditentukan. |
 
 ### Lihat Juga
 
-* kelas [InvalidFormTypeOperationException](../)
+* class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -65,7 +65,7 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 ## InvalidFormTypeOperationException(Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`InvalidFormTypeOperationException`](../) dengan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
+Menginisialisasi instance baru dari kelas [`InvalidFormTypeOperationException`](../) dengan referensi ke inner exception yang menjadi penyebab exception ini.
 
 ```csharp
 public InvalidFormTypeOperationException(Exception innerException)
@@ -77,6 +77,8 @@ public InvalidFormTypeOperationException(Exception innerException)
 
 ### Lihat Juga
 
-* kelas [InvalidFormTypeOperationException](../)
+* class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PDF3DAnnotation.SetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DAnnotation. Mengatur pratinjau gambar
+title: "PDF3DAnnotation.SetImagePreview"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DAnnotation. Menetapkan pratinjau gambar"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/
@@ -16,11 +16,11 @@ public void SetImagePreview(string filename)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file pratinjau gambar. |
+| nama file | String | Nama file pratinjau gambar. |
 
 ### Lihat Juga
 
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,6 +40,8 @@ public void SetImagePreview(Stream image)
 
 ### Lihat Juga
 
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

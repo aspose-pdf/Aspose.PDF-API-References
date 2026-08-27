@@ -1,12 +1,12 @@
 ---
-title: MarginInfo.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarginInfo. Mendapatkan atau mengatur nilai float yang menunjukkan margin kiri
+title: "MarginInfo.Left"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MarginInfo properti. Mendapatkan atau mengatur nilai float yang menunjukkan margin kiri"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/margininfo/left/
 ---
-## Properti MarginInfo.Kiri
+## MarginInfo.Left property
 
 Mendapatkan atau mengatur nilai float yang menunjukkan margin kiri.
 
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

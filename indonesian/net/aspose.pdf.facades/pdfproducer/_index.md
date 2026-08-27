@@ -1,14 +1,14 @@
 ---
-title: Class PdfProducer
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfProducer. Mewakili kelas untuk memproduksi PDF dari format lain. Contoh ini menunjukkan cara memproduksi file Pdf dari file CGM
+title: "Kelas PdfProducer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.PdfProducer. Mewakili kelas untuk menghasilkan PDF dari format lain. Contoh ini menunjukkan cara menghasilkan file Pdf dari file CGM"
 type: docs
-weight: 4610
+weight: 4730
 url: /id/net/aspose.pdf.facades/pdfproducer/
 ---
-## Kelas PdfProducer
+## PdfProducer class
 
-Mewakili kelas untuk memproduksi PDF dari format lain. Contoh ini menunjukkan cara memproduksi file Pdf dari file CGM.
+Mewakili kelas untuk menghasilkan PDF dari format lain. Contoh ini menunjukkan cara menghasilkan file Pdf dari file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -16,11 +16,11 @@ string outputFile = "myPdf.pdf";
 try
 {
     PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
-    // Success produced pdf file.
+    // Berhasil menghasilkan file pdf.
 }
 catch (InvalidCgmFileFormatException e)
 {
-    //  Do something...
+    //  Lakukan sesuatu...
 }
 ```
 
@@ -32,16 +32,18 @@ public abstract class PdfProducer
 
 | Nama | Deskripsi |
 | --- | --- |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce)(Stream, ImportFormat, Stream) | Memproduksi aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara memproduksi aliran Pdf dari aliran CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_1)(Stream, ImportFormat, string) | Memproduksi file PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara memproduksi file Pdf dari aliran CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_2)(Stream, ImportOptions, Stream) | Memproduksi file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara memproduksi aliran Pdf dari aliran CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_3)(Stream, ImportOptions, string) | Memproduksi file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara memproduksi file Pdf dari aliran CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_4)(string, ImportFormat, Stream) | Memproduksi aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara memproduksi aliran Pdf dari file CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_5)(string, ImportFormat, string) | Memproduksi file PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara memproduksi file Pdf dari file CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_6)(string, ImportOptions, Stream) | Memproduksi aliran PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara memproduksi aliran Pdf dari file CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_7)(string, ImportOptions, string) | Memproduksi file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara memproduksi file Pdf dari file CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce)(Stream, ImportFormat, Stream) | Hasilkan aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari aliran CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_1)(Stream, ImportFormat, string) | Hasilkan file PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari aliran CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_2)(Stream, ImportOptions, Stream) | Hasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari aliran CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_3)(Stream, ImportOptions, string) | Hasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari aliran CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_4)(string, ImportFormat, Stream) | Hasilkan aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari file CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_5)(string, ImportFormat, string) | Hasilkan file PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari file CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_6)(string, ImportOptions, Stream) | Hasilkan aliran PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari file CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_7)(string, ImportOptions, string) | Hasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari file CGM. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

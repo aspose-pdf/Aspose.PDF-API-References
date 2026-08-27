@@ -1,26 +1,28 @@
 ---
-title: Form.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mendapatkan enumerasi dari field form
+title: "Form.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mendapatkan enumerasi field formulir"
 type: docs
-weight: 260
+weight: 280
 url: /id/net/aspose.pdf.forms/form/getenumerator/
 ---
-## Metode Form.GetEnumerator
+## Form.GetEnumerator method
 
-Mendapatkan enumerasi dari field form.
+Mendapatkan enumerasi bidang formulir.
 
 ```csharp
 public IEnumerator<WidgetAnnotation> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Enumerator field.
 
 ### Lihat Juga
 
-* kelas [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* kelas [Form](../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

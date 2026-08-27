@@ -1,12 +1,12 @@
 ---
-title: ImagesDifference.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ImagesDifference. Melakukan operasi pembersihan yang diperlukan sebelum objek dihancurkan
+title: "ImagesDifference.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ImagesDifference. Melakukan operasi pembersihan yang diperlukan sebelum objek dihancurkan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.comparison/imagesdifference/dispose/
 ---
-## Metode ImagesDifference.Dispose
+## ImagesDifference.Dispose method
 
 Melakukan operasi pembersihan yang diperlukan sebelum objek dihancurkan.
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [ImagesDifference](../)
+* class [ImagesDifference](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

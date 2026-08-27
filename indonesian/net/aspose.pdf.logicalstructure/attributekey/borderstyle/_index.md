@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut BorderStyle Pemilik atribut Layout
+title: "AttributeKey.BorderStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. BorderStyle atribut Layout atribut pemilik"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.logicalstructure/attributekey/borderstyle/
 ---
-## Bidang AttributeKey.BorderStyle
+## AttributeKey.BorderStyle field
 
-Atribut BorderStyle (Pemilik atribut Layout).
+Atribut BorderStyle (pemilik atribut Layout).
 
 ```csharp
 public static readonly AttributeKey BorderStyle;
@@ -16,6 +16,8 @@ public static readonly AttributeKey BorderStyle;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

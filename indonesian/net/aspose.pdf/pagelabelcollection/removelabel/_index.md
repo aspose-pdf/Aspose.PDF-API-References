@@ -1,12 +1,12 @@
 ---
-title: PageLabelCollection.RemoveLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageLabelCollection. Hapus label berdasarkan indeks halaman indeks halaman dimulai dari 0
+title: "PageLabelCollection.RemoveLabel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageLabelCollection. Menghapus label berdasarkan indeks halaman; indeks halaman dimulai dari 0"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pagelabelcollection/removelabel/
 ---
-## Metode PageLabelCollection.RemoveLabel
+## PageLabelCollection.RemoveLabel method
 
 Hapus label berdasarkan indeks halaman (indeks halaman dimulai dari 0).
 
@@ -18,12 +18,14 @@ public bool RemoveLabel(int pageIndex)
 | --- | --- | --- |
 | pageIndex | Int32 | Indeks halaman tempat label harus dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika operasi berhasil dilaksanakan.
+true jika operasi berhasil dijalankan.
 
 ### Lihat Juga
 
-* kelas [PageLabelCollection](../)
+* class [PageLabelCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

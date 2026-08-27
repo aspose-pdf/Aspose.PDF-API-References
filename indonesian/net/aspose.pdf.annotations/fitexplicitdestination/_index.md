@@ -1,14 +1,14 @@
 ---
-title: Class FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.FitExplicitDestination. Mewakili tujuan eksplisit yang menampilkan halaman dengan kontennya diperbesar cukup untuk menampilkan seluruh halaman dalam jendela baik secara horizontal maupun vertikal. Jika faktor pembesaran horizontal dan vertikal yang diperlukan berbeda, gunakan yang lebih kecil dari keduanya, memusatkan halaman dalam jendela di dimensi lainnya.
+title: "Kelas FitExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.FitExplicitDestination class. Mewakili tujuan eksplisit yang menampilkan halaman dengan isinya diperbesar cukup untuk menyesuaikan seluruh halaman dalam jendela baik secara horizontal maupun vertikal. Jika faktor pembesaran horizontal dan vertikal yang diperlukan berbeda, gunakan yang lebih kecil di antara keduanya dengan memusatkan halaman dalam jendela pada dimensi lainnya."
 type: docs
-weight: 1760
+weight: 1850
 url: /id/net/aspose.pdf.annotations/fitexplicitdestination/
 ---
-## Kelas FitExplicitDestination
+## FitExplicitDestination class
 
-Mewakili tujuan eksplisit yang menampilkan halaman dengan kontennya diperbesar cukup untuk menampilkan seluruh halaman dalam jendela baik secara horizontal maupun vertikal. Jika faktor pembesaran horizontal dan vertikal yang diperlukan berbeda, gunakan yang lebih kecil dari keduanya, memusatkan halaman dalam jendela di dimensi lainnya.
+Merepresentasikan tujuan eksplisit yang menampilkan halaman dengan isinya diperbesar cukup untuk menyesuaikan seluruh halaman dalam jendela baik secara horizontal maupun vertikal. Jika faktor pembesaran horizontal dan vertikal yang diperlukan berbeda, gunakan yang lebih kecil di antara keduanya, dengan memusatkan halaman dalam jendela pada dimensi lainnya.
 
 ```csharp
 public sealed class FitExplicitDestination : ExplicitDestination
@@ -32,10 +32,12 @@ public sealed class FitExplicitDestination : ExplicitDestination
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring/)() | Mengonversi status objek menjadi nilai string. Contoh: "1 Fit". |
+| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring/)() | Mengonversi keadaan objek menjadi nilai string. Contoh: "1 Fit". |
 
 ### Lihat Juga
 
-* kelas [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

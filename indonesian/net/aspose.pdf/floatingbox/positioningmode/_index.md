@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.PositioningMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FloatingBox. Menentukan varian untuk menentukan lokasi FloatingBox di halaman
+title: "FloatingBox.PositioningMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FloatingBox. Menentukan varian untuk menentukan lokasi FloatingBox pada halaman"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/floatingbox/positioningmode/
 ---
-## Properti FloatingBox.PositioningMode
+## FloatingBox.PositioningMode property
 
-Menentukan varian untuk menentukan lokasi FloatingBox di halaman.
+Menentukan varian untuk menentukan lokasi FloatingBox pada halaman.
 
 ```csharp
 public ParagraphPositioningMode PositioningMode { get; set; }
@@ -20,3 +20,5 @@ public ParagraphPositioningMode PositioningMode { get; set; }
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

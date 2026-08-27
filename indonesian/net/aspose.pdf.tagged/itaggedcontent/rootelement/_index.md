@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.RootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ITaggedContent. Mendapatkan elemen Struktur root dari struktur logis dokumen PDF
+title: "ITaggedContent.RootElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent properti. Mendapatkan akar StructureElement dari struktur logis dokumen PDF"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.tagged/itaggedcontent/rootelement/
 ---
-## Properti ITaggedContent.RootElement
+## ITaggedContent.RootElement property
 
-Mendapatkan [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) root dari struktur logis dokumen PDF.
+Mendapatkan akar [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) dari struktur logis dokumen PDF.
 
 ```csharp
 public StructureElement RootElement { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) root dari struktur logis dokumen PDF.
+Akar [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) dari struktur logis dokumen PDF.
 
 ### Lihat Juga
 
-* kelas [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

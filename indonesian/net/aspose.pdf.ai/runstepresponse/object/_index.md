@@ -1,12 +1,12 @@
 ---
-title: RunStepResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunStepResponse. Mendapatkan atau mengatur tipe objek yang selalu thread.run.step
+title: "RunStepResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "RunStepResponse properti. Mendapatkan atau menetapkan tipe objek yang selalu thread.run.step."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.ai/runstepresponse/object/
 ---
-## Properti RunStepResponse.Object
+## RunStepResponse.Object property
 
 Mendapatkan atau mengatur tipe objek, yang selalu thread.run.step.
 
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunStepResponse](../)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

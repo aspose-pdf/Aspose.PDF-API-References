@@ -1,14 +1,14 @@
 ---
-title: Table.Broken
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tabel. Mendapatkan atau mengatur tabel vertikal yang rusak
+title: "Table.Broken"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Table. Mendapatkan atau mengatur pemutusan vertikal tabel"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/table/broken/
 ---
-## Properti Table.Broken
+## Table.Broken property
 
-Mendapatkan atau mengatur tabel vertikal yang rusak;
+Mendapatkan atau mengatur tabel vertikal rusak;
 
 ```csharp
 public TableBroken Broken { get; set; }
@@ -20,3 +20,5 @@ public TableBroken Broken { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

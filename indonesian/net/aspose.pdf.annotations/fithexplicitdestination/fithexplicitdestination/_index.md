@@ -1,7 +1,7 @@
 ---
-title: FitHExplicitDestination.FitHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FitHExplicitDestination. Membuat tujuan eksplisit lokal
+title: "FitHExplicitDestination.FitHExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FitHExplicitDestination konstruktor. Membuat tujuan eksplisit lokal"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/fithexplicitdestination/fithexplicitdestination/
@@ -16,8 +16,8 @@ public FitHExplicitDestination(Page page, double top)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman tujuan. |
-| top | Double | Koordinat vertikal atas yang diposisikan di tepi atas jendela. |
+| halaman | Halaman | Objek halaman tujuan. |
+| atas | Double | Koordinat vertikal atas ditempatkan pada tepi atas jendela. |
 
 ### Lihat Juga
 
@@ -38,11 +38,13 @@ public FitHExplicitDestination(int pageNumber, double top)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Nomor halaman tujuan dari dokumen jarak jauh. |
-| top | Double | Koordinat vertikal atas yang diposisikan di tepi atas jendela. |
+| pageNumber | Int32 | Nomor halaman tujuan dari dokumen remote. |
+| atas | Double | Koordinat vertikal atas ditempatkan pada tepi atas jendela. |
 
 ### Lihat Juga
 
 * class [FitHExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

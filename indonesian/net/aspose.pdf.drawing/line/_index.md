@@ -1,12 +1,12 @@
 ---
-title: Class Line
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Drawing.Line. Mewakili garis
+title: "Kelas Line"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Drawing.Line. Mewakili garis"
 type: docs
-weight: 3960
+weight: 4080
 url: /id/net/aspose.pdf.drawing/line/
 ---
-## Kelas Garis
+## Line class
 
 Mewakili garis.
 
@@ -25,7 +25,7 @@ public sealed class Line : Shape
 | Nama | Deskripsi |
 | --- | --- |
 | [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau mengatur objek [`GraphInfo`](../shape/graphinfo/) yang menunjukkan informasi grafik, seperti warna, lebar garis, dll. |
-| [PositionArray](../../aspose.pdf.drawing/line/positionarray/) { get; set; } | Mendapatkan atau mengatur objek [`PositionArray`](./positionarray/) yang menunjukkan array posisi. Array ini terdiri dari koordinat setiap titik kontrol garis. secara langsung. |
+| [PositionArray](../../aspose.pdf.drawing/line/positionarray/) { get; set; } | Mendapatkan atau mengatur objek [`PositionArray`](./positionarray/) yang menunjukkan array posisi. Array tersebut terdiri dari koordinat setiap titik kontrol garis secara langsung. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Mendapatkan atau mengatur teks untuk bentuk |
 
 ## Metode
@@ -36,6 +36,8 @@ public sealed class Line : Shape
 
 ### Lihat Juga
 
-* kelas [Shape](../shape/)
+* class [Shape](../shape/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

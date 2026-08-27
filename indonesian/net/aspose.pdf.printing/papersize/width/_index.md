@@ -1,14 +1,14 @@
 ---
-title: PaperSize.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PaperSize. Mendapatkan atau mengatur lebar kertas dalam seratus inci
+title: "PaperSize.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PaperSize. Mendapatkan atau mengatur lebar kertas dalam satuan seratus bagian inci"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.printing/papersize/width/
 ---
-## Properti PaperSize.Width
+## PaperSize.Width property
 
-Mendapatkan atau mengatur lebar kertas, dalam seratus inci.
+Mendapatkan atau mengatur lebar kertas, dalam seratus bagian inci.
 
 ```csharp
 public int Width { get; set; }
@@ -16,6 +16,8 @@ public int Width { get; set; }
 
 ### Lihat Juga
 
-* kelas [PaperSize](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

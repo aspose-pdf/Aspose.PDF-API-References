@@ -1,7 +1,7 @@
 ---
-title: ImageStamp.ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ImageStamp. Menginisialisasi instance baru dari kelas ImageStamp
+title: "ImageStamp.ImageStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ImageStamp. Menginisialisasi instance baru dari kelas ImageStamp"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/imagestamp/imagestamp/
@@ -20,7 +20,7 @@ public ImageStamp(Stream image)
 
 ### Lihat Juga
 
-* kelas [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,6 +40,8 @@ public ImageStamp(string fileName)
 
 ### Lihat Juga
 
-* kelas [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

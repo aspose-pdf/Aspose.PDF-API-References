@@ -1,25 +1,27 @@
 ---
-title: XmpField.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpField. Mendapatkan prefix
+title: "XmpField.Prefix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpField. Mengambil awalan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/xmpfield/prefix/
 ---
-## Properti XmpField.Prefix
+## XmpField.Prefix property
 
-Mendapatkan prefix.
+Mendapatkan prefiks.
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Prefix.
+Awalan.
 
 ### Lihat Juga
 
-* kelas [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

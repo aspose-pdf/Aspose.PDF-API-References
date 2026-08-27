@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfBookmarkEditor. Membuat bookmark untuk semua halaman
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfBookmarkEditor. Membuat bookmark untuk semua halaman"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
@@ -25,7 +25,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -68,8 +68,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [Bookmark](../../bookmark/)
-* kelas [PdfBookmarkEditor](../)
+* class [Bookmark](../../bookmark/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -86,8 +86,8 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | color | Color | Warna judul. |
-| boldFlag | Boolean | Bendera atribusi tebal. |
-| italicFlag | Boolean | Bendera atribusi miring. |
+| boldFlag | Boolean | Bendera atribut tebal. |
+| italicFlag | Boolean | Bendera atribut miring. |
 
 ## Contoh
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

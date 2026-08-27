@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Mendapatkan properti teks dari cap. Lihat TextState untuk detailnya
+title: "TextStamp.TextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Mendapatkan properti teks dari stempel. Lihat TextState untuk detail"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/textstamp/textstate/
 ---
-## Properti TextStamp.TextState
+## TextStamp.TextState property
 
-Mendapatkan properti teks dari cap. Lihat `TextState` untuk detailnya.
+Mendapatkan properti teks dari stempel. Lihat `TextState` untuk detail.
 
 ```csharp
 public TextState TextState { get; }
@@ -16,7 +16,9 @@ public TextState TextState { get; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [TextStamp](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

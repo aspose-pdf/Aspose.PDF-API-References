@@ -1,14 +1,14 @@
 ---
-title: MCRElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Metode MCRElement. Mengikat elemen struktur ke operator aliran konten BDC
+title: "MCRElement.Tag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode MCRElement. Mengikat elemen struktur ke operator BDC aliran konten"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/mcrelement/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-Mengikat elemen struktur ke operator aliran konten BDC.
+Mengaitkan elemen struktur ke operator BDC pada aliran konten.
 
 ```csharp
 public override MCRElement Tag(BDC bdc)
@@ -18,14 +18,14 @@ public override MCRElement Tag(BDC bdc)
 | --- | --- | --- |
 | bdc | BDC | Operator bdc aliran konten. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Elemen MCRElementStructure.
 
 ### Lihat Juga
 
-* kelas [BDC](../../../aspose.pdf.operators/bdc/)
-* kelas [MCRElement](../)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ Elemen MCRElementStructure.
 
 ## Tag(XForm) {#tag_3}
 
-Mengikat elemen struktur ke aliran konten XForm.
+Mengaitkan elemen struktur ke XForm pada aliran konten.
 
 ```csharp
 public override OBJRElement Tag(XForm form)
@@ -41,17 +41,17 @@ public override OBJRElement Tag(XForm form)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| form | XForm | Form Pdf. |
+| formulir | XForm | Formulir Pdf. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Elemen OBJRElementStructure.
 
 ### Lihat Juga
 
-* kelas [OBJRElement](../../objrelement/)
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [MCRElement](../)
+* class [OBJRElement](../../objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -59,7 +59,7 @@ Elemen OBJRElementStructure.
 
 ## Tag(XImage) {#tag_4}
 
-Mengikat elemen struktur ke XImage.
+Mengaitkan elemen struktur ke XImage.
 
 ```csharp
 public override OBJRElement Tag(XImage image)
@@ -69,15 +69,15 @@ public override OBJRElement Tag(XImage image)
 | --- | --- | --- |
 | image | XImage | Gambar Pdf. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Elemen OBJRElementStructure.
 
 ### Lihat Juga
 
-* kelas [OBJRElement](../../objrelement/)
-* kelas [XImage](../../../aspose.pdf/ximage/)
-* kelas [MCRElement](../)
+* class [OBJRElement](../../objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -85,7 +85,7 @@ Elemen OBJRElementStructure.
 
 ## Tag(Artifact) {#tag}
 
-Mengikat elemen struktur ke Artifact.
+Mengaitkan elemen struktur ke Artifact.
 
 ```csharp
 public override MCRElement Tag(Artifact artifact)
@@ -93,16 +93,16 @@ public override MCRElement Tag(Artifact artifact)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| artifact | Artifact | Artefak Pdf. |
+| artefak | Artefak | Artefak Pdf. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Elemen MCRElementStructure.
 
 ### Lihat Juga
 
-* kelas [Artifact](../../../aspose.pdf/artifact/)
-* kelas [MCRElement](../)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
@@ -110,7 +110,7 @@ Elemen MCRElementStructure.
 
 ## Tag(Annotation) {#tag_2}
 
-Mengikat elemen struktur ke Annotation.
+Mengaitkan elemen struktur ke Annotation.
 
 ```csharp
 public override OBJRElement Tag(Annotation annotation)
@@ -120,14 +120,16 @@ public override OBJRElement Tag(Annotation annotation)
 | --- | --- | --- |
 | annotation | Annotation | Anotasi Pdf. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Elemen OBJRElementStructure.
 
 ### Lihat Juga
 
-* kelas [OBJRElement](../../objrelement/)
-* kelas [Annotation](../../../aspose.pdf.annotations/annotation/)
-* kelas [MCRElement](../)
+* class [OBJRElement](../../objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

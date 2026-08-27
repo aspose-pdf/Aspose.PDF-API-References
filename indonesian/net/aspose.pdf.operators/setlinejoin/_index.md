@@ -1,14 +1,14 @@
 ---
-title: Class SetLineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetLineJoin. Kelas yang mewakili operator j untuk mengatur gaya sambungan garis
+title: "Kelas SetLineJoin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetLineJoin kelas. Kelas yang merepresentasikan operator j yang menetapkan gaya sambungan garis"
 type: docs
-weight: 7760
+weight: 7900
 url: /id/net/aspose.pdf.operators/setlinejoin/
 ---
-## Kelas SetLineJoin
+## SetLineJoin class
 
-Kelas yang mewakili operator j (mengatur gaya sambungan garis).
+Kelas yang merepresentasikan operator j (mengatur gaya sambungan garis).
 
 ```csharp
 public class SetLineJoin : Operator
@@ -32,12 +32,14 @@ public class SetLineJoin : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinejoin/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/setlinejoin/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

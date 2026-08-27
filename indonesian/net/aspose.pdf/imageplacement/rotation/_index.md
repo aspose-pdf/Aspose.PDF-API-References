@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacement. Mendapatkan sudut rotasi dari Gambar
+title: "ImagePlacement.Rotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImagePlacement. Mendapatkan sudut rotasi Image"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/imageplacement/rotation/
 ---
-## Properti ImagePlacement.Rotation
+## ImagePlacement.Rotation property
 
-Mendapatkan sudut rotasi dari Gambar.
+Mendapatkan sudut rotasi gambar.
 
 ```csharp
 public float Rotation { get; }
@@ -16,6 +16,8 @@ public float Rotation { get; }
 
 ### Lihat Juga
 
-* kelas [ImagePlacement](../)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

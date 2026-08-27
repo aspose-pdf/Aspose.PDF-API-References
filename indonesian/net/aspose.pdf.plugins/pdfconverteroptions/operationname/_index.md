@@ -1,12 +1,12 @@
 ---
-title: PdfConverterOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfConverterOptions. Mengembalikan nama operasi
+title: "PdfConverterOptions.OperationName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfConverterOptions. Mengembalikan nama operasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdfconverteroptions/operationname/
 ---
-## Properti PdfConverterOptions.OperationName
+## PdfConverterOptions.OperationName property
 
 Mengembalikan nama operasi.
 
@@ -16,6 +16,8 @@ public abstract string OperationName { get; }
 
 ### Lihat Juga
 
-* kelas [PdfConverterOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

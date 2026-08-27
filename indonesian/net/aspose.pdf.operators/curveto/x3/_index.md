@@ -1,14 +1,14 @@
 ---
-title: CurveTo.X3
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang CurveTo. Mengambil atau mengatur koordinat X3
+title: "CurveTo.X3"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang CurveTo. Mendapatkan atau mengatur koordinat X3"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.operators/curveto/x3/
 ---
-## Bidang CurveTo.X3
+## CurveTo.X3 field
 
-Mengambil atau mengatur koordinat X3.
+Mendapatkan atau mengatur koordinat X3.
 
 ```csharp
 public double X3;
@@ -16,6 +16,8 @@ public double X3;
 
 ### Lihat Juga
 
-* kelas [CurveTo](../)
+* class [CurveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

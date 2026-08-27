@@ -1,12 +1,12 @@
 ---
-title: Class Document.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DocumentRepairOptions. Mewakili opsi untuk memperbaiki dokumen PDF
+title: "Kelas Document.RepairOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.DocumentRepairOptions class. Mewakili opsi untuk memperbaiki dokumen PDF"
 type: docs
-weight: 3840
+weight: 3960
 url: /id/net/aspose.pdf/document.repairoptions/
 ---
-## Kelas Document.RepairOptions
+## Document.RepairOptions class
 
 Mewakili opsi untuk memperbaiki dokumen PDF.
 
@@ -24,7 +24,7 @@ public sealed class RepairOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | Mendapatkan atau menetapkan nilai yang menunjukkan apakah akan memulihkan nomor generasi yang salah dalam referensi ke objek tidak langsung selama proses perbaikan. |
+| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah akan memulihkan nomor generasi yang salah dalam referensi ke objek tidak langsung selama proses perbaikan. |
 
 ## Catatan
 
@@ -32,6 +32,8 @@ Kelas ini menyediakan cara untuk menyesuaikan proses perbaikan dokumen PDF.
 
 ### Lihat Juga
 
-* kelas [Document](../document/)
+* class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

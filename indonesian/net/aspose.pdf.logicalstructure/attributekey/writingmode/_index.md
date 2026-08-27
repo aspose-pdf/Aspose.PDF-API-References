@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.WritingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut WritingMode Pemilik atribut Layout
+title: "AttributeKey.WritingMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. WritingMode atribut Layout atribut pemilik"
 type: docs
 weight: 410
 url: /id/net/aspose.pdf.logicalstructure/attributekey/writingmode/
 ---
-## Bidang AttributeKey.WritingMode
+## AttributeKey.WritingMode field
 
-Atribut WritingMode (Pemilik atribut Layout).
+Atribut WritingMode (pemilik atribut Tabel).
 
 ```csharp
 public static readonly AttributeKey WritingMode;
@@ -16,6 +16,8 @@ public static readonly AttributeKey WritingMode;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

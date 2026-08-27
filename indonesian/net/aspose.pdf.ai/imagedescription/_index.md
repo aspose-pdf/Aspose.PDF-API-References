@@ -1,12 +1,12 @@
 ---
-title: Class ImageDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.ImageDescription. Mewakili deskripsi gambar
+title: "Kelas ImageDescription"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.ImageDescription. Mewakili deskripsi gambar"
 type: docs
-weight: 610
+weight: 660
 url: /id/net/aspose.pdf.ai/imagedescription/
 ---
-## Kelas ImageDescription
+## ImageDescription class
 
 Mewakili deskripsi gambar.
 
@@ -24,13 +24,15 @@ public class ImageDescription
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } | Mengambil atau menetapkan deskripsi yang terkait dengan gambar. |
-| [ImageBytes](../../aspose.pdf.ai/imagedescription/imagebytes/) { get; set; } | Mengambil atau menetapkan array byte yang mewakili gambar. |
-| [Name](../../aspose.pdf.ai/imagedescription/name/) { get; set; } | Mengambil atau menetapkan nama gambar. |
-| [PageNumber](../../aspose.pdf.ai/imagedescription/pagenumber/) { get; set; } | Mengambil atau menetapkan nomor halaman tempat gambar berada. |
-| [Rectangle](../../aspose.pdf.ai/imagedescription/rectangle/) { get; set; } | Mengambil atau menetapkan informasi persegi panjang dari gambar. |
+| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } | Mendapatkan atau mengatur deskripsi yang terkait dengan gambar. |
+| [ImageBytes](../../aspose.pdf.ai/imagedescription/imagebytes/) { get; set; } | Mendapatkan atau mengatur array byte yang mewakili gambar. |
+| [Name](../../aspose.pdf.ai/imagedescription/name/) { get; set; } | Mendapatkan atau mengatur nama gambar. |
+| [PageNumber](../../aspose.pdf.ai/imagedescription/pagenumber/) { get; set; } | Mendapatkan atau mengatur nomor halaman tempat gambar berada. |
+| [Rectangle](../../aspose.pdf.ai/imagedescription/rectangle/) { get; set; } | Mendapatkan atau mengatur informasi persegi panjang gambar. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

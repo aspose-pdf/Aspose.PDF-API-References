@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.MoveStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Mengubah posisi stempel di halaman
+title: "PdfContentEditor.MoveStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor metode. Mengubah posisi stempel pada halaman"
 type: docs
 weight: 410
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/movestamp/
 ---
-## Metode PdfContentEditor.MoveStamp
+## PdfContentEditor.MoveStamp method
 
-Mengubah posisi stempel di halaman.
+Mengubah posisi stempel pada halaman.
 
 ```csharp
 public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
@@ -17,12 +17,14 @@ public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageNumber | Int32 | Nomor halaman. |
-| stampIndex | Int32 | Indeks stempel di halaman. |
-| x | Double | Posisi horizontal stempel yang baru. |
-| y | Double | Posisi vertikal stempel yang baru. |
+| stampIndex | Int32 | Indeks stempel pada halaman. |
+| x | Double | Posisi horizontal stempel baru. |
+| y | Double | Posisi vertikal stempel baru. |
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

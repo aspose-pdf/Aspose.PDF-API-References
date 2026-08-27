@@ -1,14 +1,14 @@
 ---
-title: Class Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Watermark. Mewakili watermark dari halaman
+title: "Kelas Watermark"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Watermark. Mewakili watermark pada halaman."
 type: docs
-weight: 11300
+weight: 11490
 url: /id/net/aspose.pdf/watermark/
 ---
-## Kelas Watermark
+## Watermark class
 
-Mewakili watermark dari halaman.
+Mewakili watermark halaman.
 
 ```csharp
 public class Watermark
@@ -18,18 +18,20 @@ public class Watermark
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Watermark](watermark/#constructor)(Image) | Menginisialisasi objek watermark dengan gambar. |
-| [Watermark](watermark/#constructor_1)(Image, Rectangle) | Menginisialisasi objek watermark dengan gambar dan posisinya di halaman. |
+| [Watermark](watermark/#constructor)(Image) | Menginisialisasi objek watermark dengan sebuah gambar. |
+| [Watermark](watermark/#constructor_1)(Image, Rectangle) | Menginisialisasi objek watermark dengan gambar dan posisinya pada halaman. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Available](../../aspose.pdf/watermark/available/) { get; } | Mendapatkan tanda bahwa watermark ada. |
-| [Image](../../aspose.pdf/watermark/image/) { get; } | Mendapatkan gambar dari watermark. |
-| [Position](../../aspose.pdf/watermark/position/) { get; } | Mendapatkan posisi gambar watermark di halaman. |
+| [Available](../../aspose.pdf/watermark/available/) { get; } | Mendapatkan flag bahwa watermark ada. |
+| [Image](../../aspose.pdf/watermark/image/) { get; } | Mendapatkan gambar watermark. |
+| [Position](../../aspose.pdf/watermark/position/) { get; } | Mendapatkan posisi gambar watermark pada halaman. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

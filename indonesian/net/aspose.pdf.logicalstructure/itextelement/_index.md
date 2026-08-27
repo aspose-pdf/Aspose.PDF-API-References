@@ -1,14 +1,14 @@
 ---
-title: Interface ITextElement
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.LogicalStructure.ITextElement. Antarmuka untuk menyajikan elemen struktur teks
+title: "Antarmuka ITextElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.LogicalStructure.ITextElement. Antarmuka untuk menyajikan elemen struktur teks."
 type: docs
-weight: 6410
+weight: 6550
 url: /id/net/aspose.pdf.logicalstructure/itextelement/
 ---
-## Antarmuka ITextElement
+## ITextElement interface
 
-Antarmuka untuk menyajikan elemen struktur teks.
+Antarmuka untuk menampilkan elemen struktur teks.
 
 ```csharp
 public interface ITextElement
@@ -30,3 +30,5 @@ public interface ITextElement
 
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

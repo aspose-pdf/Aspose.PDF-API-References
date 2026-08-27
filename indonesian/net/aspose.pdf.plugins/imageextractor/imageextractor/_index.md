@@ -1,12 +1,12 @@
 ---
-title: ImageExtractor.ImageExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ImageExtractor. Konstruktor default
+title: "ImageExtractor.ImageExtractor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ImageExtractor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/imageextractor/imageextractor/
 ---
-## Konstruktor ImageExtractor
+## ImageExtractor constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ImageExtractor()
 
 ### Lihat Juga
 
-* kelas [ImageExtractor](../)
+* class [ImageExtractor](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

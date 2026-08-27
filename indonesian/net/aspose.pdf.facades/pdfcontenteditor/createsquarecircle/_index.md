@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateSquareCircle
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi persegi-lingkaran
+title: "PdfContentEditor.CreateSquareCircle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat anotasi squarecircle"
 type: docs
 weight: 280
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createsquarecircle/
 ---
-## Metode PdfContentEditor.CreateSquareCircle
+## PdfContentEditor.CreateSquareCircle method
 
 Membuat anotasi persegi-lingkaran.
 
@@ -17,12 +17,12 @@ public void CreateSquareCircle(Rectangle rect, string contents, Color clr, bool 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| contents | String | Isi dari anotasi. |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| isi | String | Isi anotasi. |
 | clr | Color | Warna persegi atau lingkaran. |
-| square | Boolean | Benar (persegi), salah (lingkaran). |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| borderWidth | Int32 | Lebar batas dari persegi atau lingkaran. |
+| persegi | Boolean | True (persegi), false (lingkaran). |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| borderWidth | Int32 | Lebar batas persegi atau lingkaran. |
 
 ## Contoh
 
@@ -36,6 +36,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImageUrl.Detail
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageUrl. Mendapatkan atau mengatur tingkat detail gambar jika ditentukan oleh pengguna. rendah menggunakan lebih sedikit token, Anda dapat memilih resolusi tinggi menggunakan tinggi
+title: "ImageUrl.Detail"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageUrl. Mendapatkan atau mengatur tingkat detail gambar jika ditentukan oleh pengguna. 'low' menggunakan lebih sedikit token, Anda dapat memilih resolusi tinggi dengan menggunakan 'high'"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/imageurl/detail/
 ---
-## Properti ImageUrl.Detail
+## ImageUrl.Detail property
 
-Mendapatkan atau mengatur tingkat detail gambar jika ditentukan oleh pengguna. rendah menggunakan lebih sedikit token, Anda dapat memilih resolusi tinggi menggunakan tinggi.
+Mendapatkan atau mengatur tingkat detail gambar jika ditentukan oleh pengguna. low menggunakan lebih sedikit token, Anda dapat memilih resolusi tinggi dengan menggunakan high.
 
 ```csharp
 public string Detail { get; set; }
@@ -16,6 +16,8 @@ public string Detail { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageUrl](../)
+* class [ImageUrl](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

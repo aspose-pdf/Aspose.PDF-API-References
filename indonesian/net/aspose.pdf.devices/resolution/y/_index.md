@@ -1,12 +1,12 @@
 ---
-title: Resolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Resolusi. Mendapatkan atau mengatur resolusi gambar vertikal
+title: "Resolution.Y"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Resolution. Mendapatkan atau mengatur resolusi gambar vertikal"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.devices/resolution/y/
 ---
-## Properti Resolution.Y
+## Resolution.Y property
 
 Mendapatkan atau mengatur resolusi gambar vertikal.
 
@@ -16,6 +16,8 @@ public int Y { get; set; }
 
 ### Lihat Juga
 
-* kelas [Resolution](../)
+* class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

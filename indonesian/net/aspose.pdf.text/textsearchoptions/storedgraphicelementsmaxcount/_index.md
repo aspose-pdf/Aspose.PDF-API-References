@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.StoredGraphicElementsMaxCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextSearchOptions. Mendapatkan atau mengatur nilai yang membatasi pencarian untuk grafik terkait teks di halaman untuk jumlah elemen yang ditentukan. Nilai default adalah 250. Atur nilai yang lebih kecil jika terjadi masalah kinerja, coba nilai yang lebih besar jika beberapa elemen grafik tidak ditemukan.
+title: "TextSearchOptions.StoredGraphicElementsMaxCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextSearchOptions. Mendapatkan atau mengatur nilai yang membatasi pencarian grafik terkait teks seperti garis bawah, latar belakang, dll. pada halaman untuk jumlah elemen yang ditentukan. Nilai default adalah 250. Tetapkan nilai lebih kecil jika ada masalah kinerja, coba nilai lebih besar jika beberapa elemen grafik tidak ditemukan."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount/
 ---
-## Properti TextSearchOptions.StoredGraphicElementsMaxCount
+## TextSearchOptions.StoredGraphicElementsMaxCount property
 
-Mendapatkan atau mengatur nilai yang membatasi pencarian untuk grafik terkait teks (garis bawah, latar belakang, dll.) di halaman untuk jumlah elemen yang ditentukan. Nilai default adalah 250. Atur nilai yang lebih kecil jika terjadi masalah kinerja, coba nilai yang lebih besar jika beberapa elemen grafik tidak ditemukan.
+Mendapatkan atau mengatur nilai yang membatasi pencarian grafik terkait teks (garis bawah, latar belakang, dll.) pada halaman untuk jumlah elemen yang ditentukan. Nilai default adalah 250. Atur nilai lebih kecil jika ada masalah kinerja, coba nilai lebih besar jika beberapa elemen grafik tidak ditemukan.
 
 ```csharp
 public int StoredGraphicElementsMaxCount { get; set; }
@@ -16,6 +16,8 @@ public int StoredGraphicElementsMaxCount { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextSearchOptions](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

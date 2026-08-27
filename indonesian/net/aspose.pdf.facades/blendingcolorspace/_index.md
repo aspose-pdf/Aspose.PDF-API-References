@@ -1,14 +1,14 @@
 ---
-title: Enum BlendingColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Facades.BlendingColorSpace. Kelas ini mewakili ruang warna pencampuran
+title: "Enum BlendingColorSpace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.BlendingColorSpace enum. Kelas mewakili ruang warna pencampuran"
 type: docs
-weight: 4180
+weight: 4300
 url: /id/net/aspose.pdf.facades/blendingcolorspace/
 ---
-## Enumerasi BlendingColorSpace
+## BlendingColorSpace enumeration
 
-Kelas ini mewakili ruang warna pencampuran.
+Kelas yang mewakili ruang warna blending.
 
 ```csharp
 public enum BlendingColorSpace
@@ -27,3 +27,5 @@ public enum BlendingColorSpace
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

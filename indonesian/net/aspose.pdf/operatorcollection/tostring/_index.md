@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Mengembalikan representasi teks dari operator
+title: "OperatorCollection.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OperatorCollection. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf/operatorcollection/tostring/
 ---
-## Metode OperatorCollection.ToString
+## OperatorCollection.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

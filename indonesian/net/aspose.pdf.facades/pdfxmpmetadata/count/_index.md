@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfXmpMetadata. Mendapatkan jumlah item dalam koleksi
+title: "PdfXmpMetadata.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfXmpMetadata. Mendapatkan jumlah item dalam koleksi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/count/
 ---
-## Properti PdfXmpMetadata.Count
+## PdfXmpMetadata.Count property
 
 Mendapatkan jumlah item dalam koleksi.
 
@@ -24,6 +24,8 @@ Console.WriteLine("Count = " + pxm.Count);
 
 ### Lihat Juga
 
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

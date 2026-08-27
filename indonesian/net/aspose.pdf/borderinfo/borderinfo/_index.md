@@ -1,7 +1,7 @@
 ---
-title: BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BorderInfo. Menginisialisasi instance baru dari kelas BorderInfo
+title: "BorderInfo.BorderInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BorderInfo konstruktor. Menginisialisasi instance baru dari kelas BorderInfo"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/borderinfo/borderinfo/
@@ -16,7 +16,7 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| borderSide | BorderSide | Menunjukkan informasi sisi batas. Misalnya: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Menunjukkan info sisi batas. Misalnya: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
 | borderColor | Color | Warna batas. |
 
 ### Lihat Juga
@@ -55,7 +55,7 @@ public BorderInfo(BorderSide borderSide)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| borderSide | BorderSide | Menunjukkan informasi sisi batas. Misalnya: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Menunjukkan info sisi batas. Misalnya: (BorderSide.Left &#x7C; BorderSide.Top). |
 
 ### Lihat Juga
 
@@ -76,8 +76,8 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| borderSide | BorderSide | Menunjukkan informasi sisi batas. Misalnya: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | Lebar batas. |
+| borderSide | BorderSide | Menunjukkan info sisi batas. Misalnya: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | Lebar border. |
 
 ### Lihat Juga
 
@@ -98,8 +98,8 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| borderSide | BorderSide | Menunjukkan informasi sisi batas. Misalnya: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | Lebar batas. |
+| borderSide | BorderSide | Menunjukkan info sisi batas. Misalnya: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | Lebar border. |
 | borderColor | Color | Warna batas. |
 
 ### Lihat Juga
@@ -122,8 +122,8 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| borderSide | BorderSide | Menunjukkan informasi sisi batas. Misalnya: (BorderSide.Left &#x7C; BorderSide.Top). |
-| info | GraphInfo | Informasi batas. |
+| borderSide | BorderSide | Menunjukkan info sisi batas. Misalnya: (BorderSide.Left &#x7C; BorderSide.Top). |
+| info | GraphInfo | Info border. |
 
 ### Lihat Juga
 
@@ -132,3 +132,5 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.RunAndGetAssistantResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Menjalankan asisten dengan threadId yang ditentukan dan runCreateRequest dan secara asinkron mendapatkan respons asisten
+title: "OpenAIClient.RunAndGetAssistantResponseAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Menjalankan asisten dengan threadId dan runCreateRequest yang ditentukan serta secara asinkron mendapatkan respons asisten"
 type: docs
-weight: 440
+weight: 450
 url: /id/net/aspose.pdf.ai/openaiclient/runandgetassistantresponseasync/
 ---
-## Metode OpenAIClient.RunAndGetAssistantResponseAsync
+## OpenAIClient.RunAndGetAssistantResponseAsync method
 
-Menjalankan asisten dengan threadId yang ditentukan dan runCreateRequest, dan secara asinkron mendapatkan respons asisten.
+Menjalankan assistant dengan threadId dan runCreateRequest yang ditentukan, dan secara asynchronous mendapatkan respons assistant.
 
 ```csharp
 public Task<string> RunAndGetAssistantResponseAsync(string threadId, 
@@ -17,17 +17,19 @@ public Task<string> RunAndGetAssistantResponseAsync(string threadId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threadId | String | ID dari thread. |
+| threadId | String | ID thread. |
 | runCreateRequest | RunCreateRequest | Permintaan pembuatan run. |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah tugas yang mewakili operasi asinkron dengan string respons asisten.
 
 ### Lihat Juga
 
-* kelas [RunCreateRequest](../../runcreaterequest/)
-* kelas [OpenAIClient](../)
+* class [RunCreateRequest](../../runcreaterequest/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

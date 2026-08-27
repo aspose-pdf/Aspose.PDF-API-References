@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Font
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Jenis font dari teks field
+title: "FormFieldFacade.Font"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade property. Jenis font teks field"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/formfieldfacade/font/
 ---
-## Properti FormFieldFacade.Font
+## FormFieldFacade.Font property
 
-Jenis font dari teks field.
+Jenis font teks bidang.
 
 ```csharp
 public FontStyle Font { get; set; }
@@ -20,3 +20,5 @@ public FontStyle Font { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

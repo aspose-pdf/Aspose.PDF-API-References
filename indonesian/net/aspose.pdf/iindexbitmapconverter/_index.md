@@ -1,14 +1,14 @@
 ---
-title: Interface IIndexBitmapConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.IIndexBitmapConverter. Antarmuka ini dideklarasikan untuk algoritma kustomisasi kuantisasi. Pengguna dapat mengimplementasikan realisasi mereka sendiri dari algoritma ini, misalnya algoritma yang berbasis kode unmanaged
+title: "Interface IIndexBitmapConverter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Interface Aspose.Pdf.IIndexBitmapConverter. Antarmuka ini dideklarasikan untuk algoritma kustomisasi kuantisasi. Pengguna dapat mengimplementasikan realisasi mereka sendiri dari algoritma ini, misalnya algoritma berbasis kode tidak terkelola."
 type: docs
-weight: 5770
+weight: 5900
 url: /id/net/aspose.pdf/iindexbitmapconverter/
 ---
-## Antarmuka IIndexBitmapConverter
+## IIndexBitmapConverter interface
 
-Antarmuka ini dideklarasikan untuk algoritma kustomisasi kuantisasi. Pengguna dapat mengimplementasikan realisasi mereka sendiri dari algoritma ini (misalnya algoritma yang berbasis kode unmanaged).
+Antarmuka ini dideklarasikan untuk menyesuaikan algoritma kuantisasi. Pengguna dapat mengimplementasikan realisasi mereka sendiri dari algoritma ini (misalnya algoritma berbasis kode tak terkelola).
 
 ```csharp
 public interface IIndexBitmapConverter
@@ -26,3 +26,5 @@ public interface IIndexBitmapConverter
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

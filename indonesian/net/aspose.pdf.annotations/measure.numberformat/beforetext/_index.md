@@ -1,7 +1,7 @@
 ---
-title: Measure.NumberFormat.BeforeText
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberFormat. Teks yang akan digabungkan di sebelah kiri label
+title: "Measure.NumberFormat.BeforeText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "NumberFormat properti. Teks yang akan digabungkan di sebelah kiri label"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/measure.numberformat/beforetext/
@@ -14,8 +14,10 @@ Teks yang akan digabungkan di sebelah kiri label.
 public string BeforeText { get; set; }
 ```
 
-### See Also
+### Lihat Juga
 
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

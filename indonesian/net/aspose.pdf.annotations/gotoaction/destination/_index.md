@@ -1,14 +1,14 @@
 ---
-title: GoToAction.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GoToAction. Mendapatkan atau mengatur tujuan untuk melompat
+title: "GoToAction.Destination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GoToAction. Mendapatkan atau mengatur tujuan untuk melompat ke"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/gotoaction/destination/
 ---
-## Properti GoToAction.Destination
+## GoToAction.Destination property
 
-Mendapatkan atau mengatur tujuan untuk melompat.
+Mendapatkan atau mengatur tujuan untuk melompat ke.
 
 ```csharp
 public virtual IAppointment Destination { get; set; }
@@ -16,7 +16,9 @@ public virtual IAppointment Destination { get; set; }
 
 ### Lihat Juga
 
-* antarmuka [IAppointment](../../iappointment/)
-* kelas [GoToAction](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* interface [IAppointment](../../iappointment/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

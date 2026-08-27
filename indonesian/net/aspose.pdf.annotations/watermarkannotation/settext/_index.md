@@ -1,12 +1,12 @@
 ---
-title: WatermarkAnnotation.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode WatermarkAnnotation. Atur teks anotasi
+title: "WatermarkAnnotation.SetText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode WatermarkAnnotation. Mengatur teks anotasi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/watermarkannotation/settext/
 ---
-## Metode WatermarkAnnotation.SetText
+## WatermarkAnnotation.SetText method
 
 Atur teks anotasi.
 
@@ -16,11 +16,13 @@ public void SetText(FormattedText text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | FormattedText | Nilai teks. |
+| teks | FormattedText | Nilai teks. |
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* kelas [WatermarkAnnotation](../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

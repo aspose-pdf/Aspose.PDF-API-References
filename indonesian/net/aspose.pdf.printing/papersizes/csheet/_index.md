@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.CSheet
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas C 17 in. oleh 22 in
+title: "PaperSizes.CSheet"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSizes. Kertas C 17 in. x 22 in"
 type: docs
 weight: 370
 url: /id/net/aspose.pdf.printing/papersizes/csheet/
 ---
-## Bidang PaperSizes.CSheet
+## PaperSizes.CSheet field
 
-Kertas C (17 in. oleh 22 in.).
+Kertas C (17 in. x 22 in.).
 
 ```csharp
 public static readonly PaperSize CSheet;
@@ -16,7 +16,9 @@ public static readonly PaperSize CSheet;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

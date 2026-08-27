@@ -1,14 +1,14 @@
 ---
-title: Class StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.StreamDataSource. Mewakili sumber data stream untuk operasi muat dan simpan dari sebuah plugin
+title: "Kelas StreamDataSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.StreamDataSource. Mewakili sumber data aliran untuk operasi memuat dan menyimpan plugin"
 type: docs
-weight: 9290
+weight: 9440
 url: /id/net/aspose.pdf.plugins/streamdatasource/
 ---
-## Kelas StreamDataSource
+## StreamDataSource class
 
-Mewakili sumber data stream untuk operasi muat dan simpan dari sebuah plugin.
+Mewakili sumber data stream untuk operasi muat dan simpan sebuah plugin.
 
 ```csharp
 public sealed class StreamDataSource : IDataSource
@@ -18,17 +18,19 @@ public sealed class StreamDataSource : IDataSource
 
 | Nama | Deskripsi |
 | --- | --- |
-| [StreamDataSource](streamdatasource/)(Stream) | Menginisialisasi sumber data stream baru dengan objek stream yang ditentukan. |
+| [StreamDataSource](streamdatasource/)(Stream) | Menginisialisasi sumber data aliran baru dengan objek aliran yang ditentukan. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Data](../../aspose.pdf.plugins/streamdatasource/data/) { get; } | Mendapatkan objek stream dari sumber data saat ini. |
-| [DataType](../../aspose.pdf.plugins/streamdatasource/datatype/) { get; } | Tipe sumber data (stream). |
+| [Data](../../aspose.pdf.plugins/streamdatasource/data/) { get; } | Mendapatkan objek aliran dari sumber data saat ini. |
+| [DataType](../../aspose.pdf.plugins/streamdatasource/datatype/) { get; } | Jenis sumber data (aliran). |
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../idatasource/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IDataSource](../idatasource/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Font.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Font. Mengukur string
+title: "Font.MeasureString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Font. Mengukur string."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.text/font/measurestring/
 ---
-## Metode Font.MeasureString
+## Font.MeasureString method
 
 Mengukur string.
 
@@ -16,15 +16,17 @@ public double MeasureString(string str, float fontSize)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| str | String | String. |
+| str | String | String tersebut. |
 | fontSize | Single | Ukuran font. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Lebar string yang diwakili dengan font ini dan ukuran yang ditentukan.
+Lebar string yang direpresentasikan dengan font ini dan ukuran yang ditentukan.
 
 ### Lihat Juga
 
-* kelas [Font](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

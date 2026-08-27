@@ -1,14 +1,14 @@
 ---
-title: Class FormFlattenSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FormFlattenSelectedFieldsOptions. Mewakili opsi untuk meratakan bidang yang dipilih bukan anotasi dalam dokumen oleh plugin FormFlattener
+title: "Kelas FormFlattenSelectedFieldsOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.FormFlattenSelectedFieldsOptions. Menyatakan opsi untuk meratakan bidang yang dipilih, bukan anotasi, dalam dokumen oleh plugin FormFlattener"
 type: docs
-weight: 8740
+weight: 8870
 url: /id/net/aspose.pdf.plugins/formflattenselectedfieldsoptions/
 ---
-## Kelas FormFlattenSelectedFieldsOptions
+## FormFlattenSelectedFieldsOptions class
 
-Mewakili opsi untuk meratakan bidang yang dipilih (bukan anotasi) dalam dokumen oleh [`FormFlattener`](../formflattener/) plugin.
+Menyatakan opsi untuk meratakan bidang yang dipilih (bukan anotasi) dalam dokumen oleh plugin [`FormFlattener`](../formflattener/)
 
 ```csharp
 public class FormFlattenSelectedFieldsOptions : FormFlattenerOptions
@@ -25,17 +25,19 @@ public class FormFlattenSelectedFieldsOptions : FormFlattenerOptions
 | Nama | Deskripsi |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Mengembalikan koleksi data plugin Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk hasil operasi penyimpanan. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form.... |
 
 ### Lihat Juga
 
-* kelas [FormFlattenerOptions](../formflatteneroptions/)
+* class [FormFlattenerOptions](../formflatteneroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

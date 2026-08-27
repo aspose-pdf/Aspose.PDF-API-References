@@ -1,12 +1,12 @@
 ---
-title: Class BaseOperatorCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.BaseOperatorCollection. Mewakili kelas dasar untuk koleksi operator
+title: "Kelas BaseOperatorCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.BaseOperatorCollection. Mewakili kelas dasar untuk koleksi operator."
 type: docs
-weight: 2830
+weight: 2940
 url: /id/net/aspose.pdf/baseoperatorcollection/
 ---
-## Kelas BaseOperatorCollection
+## BaseOperatorCollection class
 
 Mewakili kelas dasar untuk koleksi operator.
 
@@ -19,8 +19,8 @@ public abstract class BaseOperatorCollection : ICollection<Operator>
 | Nama | Deskripsi |
 | --- | --- |
 | abstract [Count](../../aspose.pdf/baseoperatorcollection/count/) { get; } | Mendapatkan jumlah operator dalam koleksi. |
-| abstract [IsFastTextExtractionMode](../../aspose.pdf/baseoperatorcollection/isfasttextextractionmode/) { get; } | Menunjukkan apakah koleksi dibatasi untuk ekstraksi teks cepat |
-| abstract [IsReadOnly](../../aspose.pdf/baseoperatorcollection/isreadonly/) { get; } | Mengembalikan true jika koleksi hanya baca. |
+| abstract [IsFastTextExtractionMode](../../aspose.pdf/baseoperatorcollection/isfasttextextractionmode/) { get; } | Menunjukkan apakah koleksi dibatasi untuk ekstraksi teks cepat. |
+| abstract [IsReadOnly](../../aspose.pdf/baseoperatorcollection/isreadonly/) { get; } | Mengembalikan true jika koleksi bersifat read only. |
 | abstract [Item](../../aspose.pdf/baseoperatorcollection/item/) { get; set; } | Mendapatkan operator berdasarkan indeksnya. |
 
 ## Metode
@@ -28,8 +28,8 @@ public abstract class BaseOperatorCollection : ICollection<Operator>
 | Nama | Deskripsi |
 | --- | --- |
 | abstract [Add](../../aspose.pdf/baseoperatorcollection/add/)(Operator) | Menambahkan operator baru ke dalam koleksi. |
-| abstract [CancelUpdate](../../aspose.pdf/baseoperatorcollection/cancelupdate/)() | Membatalkan pembaruan terakhir. Metode ini dapat dipanggil ketika perubahan tidak seharusnya memicu pembaruan konten. |
-| abstract [Clear](../../aspose.pdf/baseoperatorcollection/clear/)() | Menghapus koleksi. |
+| abstract [CancelUpdate](../../aspose.pdf/baseoperatorcollection/cancelupdate/)() | Membatalkan pembaruan terakhir. Metode ini dapat dipanggil ketika perubahan tidak boleh memicu pembaruan konten. |
+| abstract [Clear](../../aspose.pdf/baseoperatorcollection/clear/)() | Mengosongkan koleksi. |
 | abstract [Contains](../../aspose.pdf/baseoperatorcollection/contains/)(Operator) | Memeriksa apakah operator ada dalam koleksi. |
 | abstract [CopyTo](../../aspose.pdf/baseoperatorcollection/copyto/)(Operator[], int) | Menyalin operator ke dalam daftar operator. |
 | abstract [GetEnumerator](../../aspose.pdf/baseoperatorcollection/getenumerator/)() | Mengembalikan enumerator untuk koleksi |
@@ -40,6 +40,8 @@ public abstract class BaseOperatorCollection : ICollection<Operator>
 
 ### Lihat Juga
 
-* kelas [Operator](../operator/)
+* class [Operator](../operator/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

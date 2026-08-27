@@ -1,12 +1,12 @@
 ---
-title: Form.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mengembalikan objek sinkronisasi
+title: "Form.SyncRoot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Mengembalikan objek sinkronisasi."
 type: docs
-weight: 150
+weight: 170
 url: /id/net/aspose.pdf.forms/form/syncroot/
 ---
-## Properti Form.SyncRoot
+## Form.SyncRoot property
 
 Mengembalikan objek sinkronisasi.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

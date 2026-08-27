@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfToImageOptions. Mengatur sumber data penyimpanan baru. Hanya bisa berupa . Jika Anda ingin menyimpan gambar ke dalam aliran memori, lewati null sebagai parameter
+title: "PdfToImageOptions.AddOutput"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfToImageOptions. Menetapkan sumber data penyimpanan baru. Hanya dapat berupa . Jika Anda ingin menyimpan gambar ke dalam aliran memori, berikan null sebagai parameter"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.plugins/pdftoimageoptions/addoutput/
 ---
-## Metode PdfToImageOptions.AddOutput
+## PdfToImageOptions.AddOutput method
 
-Mengatur sumber data penyimpanan baru. Hanya bisa berupa . Jika Anda ingin menyimpan gambar ke dalam aliran memori, lewati null sebagai parameter.
+Mengatur sumber data penyimpanan baru. Hanya dapat berupa . Jika Anda ingin menyimpan gambar ke aliran memori, berikan null sebagai parameter.
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -20,7 +20,9 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../../idatasource/)
-* kelas [PdfToImageOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

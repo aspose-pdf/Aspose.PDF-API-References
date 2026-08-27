@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderWidthThick
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang FormFieldFacade. Mendefinisikan lebar batas tebal
+title: "FormFieldFacade.BorderWidthThick"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade field. Menetapkan lebar batas tebal"
 type: docs
 weight: 360
 url: /id/net/aspose.pdf.facades/formfieldfacade/borderwidththick/
 ---
-## Bidang FormFieldFacade.BorderWidthThick
+## FormFieldFacade.BorderWidthThick field
 
 Mendefinisikan lebar batas tebal.
 
@@ -16,6 +16,8 @@ public const float BorderWidthThick;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

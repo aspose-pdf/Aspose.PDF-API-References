@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ForegroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur warna latar depan teks. Nilai default Biru
+title: "SignatureCustomAppearance.ForegroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur warna latar depan teks. Nilai default Blue"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/
 ---
-## Properti SignatureCustomAppearance.ForegroundColor
+## SignatureCustomAppearance.ForegroundColor property
 
-Mendapatkan/mengatur warna latar depan (warna teks). Nilai default: Biru.
+Mendapatkan/mengatur warna latar depan (warna teks). Nilai default: Blue.
 
 ```csharp
 public Color ForegroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color ForegroundColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [SignatureCustomAppearance](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

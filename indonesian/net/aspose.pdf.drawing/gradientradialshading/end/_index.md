@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GradientRadialShading. Mendapatkan atau mengatur titik pusat lingkaran akhir
+title: "GradientRadialShading.End"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GradientRadialShading. Mendapatkan atau mengatur titik pusat lingkaran akhir"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.drawing/gradientradialshading/end/
 ---
-## Properti GradientRadialShading.Akhir
+## GradientRadialShading.End property
 
 Mendapatkan atau mengatur titik pusat lingkaran akhir.
 
@@ -16,7 +16,9 @@ public Point End { get; set; }
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [GradientRadialShading](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

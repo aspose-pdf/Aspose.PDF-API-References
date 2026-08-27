@@ -1,25 +1,27 @@
 ---
-title: Color.Snow
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFFFAFA
+title: "Color.Snow"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFFFFAFA"
 type: docs
 weight: 1280
 url: /id/net/aspose.pdf/color/snow/
 ---
-## Properti Color.Snow
+## Color.Snow property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFFAFA.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FFFFFAFA.
 
 ```csharp
 public static Color Snow { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.AddListItem
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Menambahkan item baru ke dalam kotak daftar
+title: "FormEditor.AddListItem"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Menambahkan item baru ke list box"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/formeditor/addlistitem/
 ---
 ## AddListItem(string, string) {#addlistitem}
 
-Menambahkan item baru ke dalam kotak daftar.
+Menambahkan item baru ke list box.
 
 ```csharp
 public void AddListItem(string fieldName, string itemName)
@@ -16,7 +16,7 @@ public void AddListItem(string fieldName, string itemName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field di mana item baru akan ditambahkan. |
+| fieldName | String | Nama field yang akan ditambahkan item baru. |
 | itemName | String | Nama item baru. |
 
 ## Contoh
@@ -28,7 +28,7 @@ formEditor.AddListItem("listBoxField", "Item 4 (New Item)");
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ formEditor.AddListItem("listBoxField", "Item 4 (New Item)");
 
 ## AddListItem(string, string[]) {#addlistitem_1}
 
-Menambahkan item baru dengan nilai Ekspor ke field kotak daftar yang sudah ada, hanya untuk field kotak kombinasi AcroForm.
+Tambahkan item baru dengan nilai Export ke bidang list box yang ada, hanya untuk bidang combo box AcroForm.
 
 ```csharp
 public void AddListItem(string fieldName, string[] exportName)
@@ -44,7 +44,7 @@ public void AddListItem(string fieldName, string[] exportName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field di mana item akan ditambahkan. |
+| fieldName | String | Nama field yang akan ditambahkan item. |
 | exportName | String[] | Array string yang menunjukkan item daftar baru dengan Nilai Ekspor, yaitu (Label Item, Nilai Ekspor). |
 
 ## Contoh
@@ -56,6 +56,8 @@ fe.AddListItem("listboxField", new string[] { "4", "Item4(Added)" });
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

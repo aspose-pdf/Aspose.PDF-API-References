@@ -1,12 +1,12 @@
 ---
-title: TabStops.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TabStops. Mengkloning objek TabStops baru
+title: "TabStops.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TabStops. Mengkloning objek TabStops baru."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/tabstops/clone/
 ---
-## Metode TabStops.Clone
+## TabStops.Clone method
 
 Mengkloning objek [`TabStops`](../) baru.
 
@@ -14,12 +14,14 @@ Mengkloning objek [`TabStops`](../) baru.
 public object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek [`TabStops`](../) baru.
+Objek [`TabStops`](../) yang baru.
 
 ### Lihat Juga
 
-* kelas [TabStops](../)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

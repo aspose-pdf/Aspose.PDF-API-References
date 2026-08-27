@@ -1,14 +1,14 @@
 ---
-title: NumberField.NumberField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor NumberField. Menginisialisasi instance baru dari kelas NumberField
+title: "NumberField.NumberField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor NumberField. Menginisialisasi sebuah instance baru dari kelas NumberField"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/numberfield/numberfield/
 ---
 ## NumberField() {#constructor}
 
-Menginisialisasi instance baru dari kelas [`NumberField`](../).
+Menginisialisasi sebuah instance baru dari kelas [`NumberField`](../).
 
 ```csharp
 public NumberField()
@@ -16,7 +16,7 @@ public NumberField()
 
 ### Lihat Juga
 
-* kelas [NumberField](../)
+* class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public NumberField()
 
 ## NumberField(Page, Rectangle) {#constructor_2}
 
-Menginisialisasi instance baru dari kelas [`NumberField`](../).
+Menginisialisasi sebuah instance baru dari kelas [`NumberField`](../).
 
 ```csharp
 public NumberField(Page page, Rectangle rect)
@@ -32,14 +32,14 @@ public NumberField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat field teks ditempatkan. |
-| rect | Rectangle | Persegi panjang tempat field akan ditempatkan di halaman. |
+| halaman | Halaman | Page tempat bidang teks ditempatkan. |
+| rect | Rectangle | Rectangle tempat bidang akan ditempatkan pada halaman. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [NumberField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -47,7 +47,7 @@ public NumberField(Page page, Rectangle rect)
 
 ## NumberField(Document, Rectangle) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`NumberField`](../).
+Menginisialisasi sebuah instance baru dari kelas [`NumberField`](../).
 
 ```csharp
 public NumberField(Document doc, Rectangle rect)
@@ -55,13 +55,15 @@ public NumberField(Document doc, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field akan dibuat. |
-| rect | Rectangle | Persegi panjang dari field. |
+| doc | Document | Document di mana bidang akan dibuat. |
+| rect | Rectangle | Rectangle bidang tersebut. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [NumberField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mendapatkan jumlah field pada formulir ini
+title: "Form.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Mendapatkan jumlah field pada formulir ini"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.forms/form/count/
 ---
-## Properti Form.Count
+## Form.Count property
 
-Mendapatkan jumlah field pada formulir ini.
+Mendapatkan jumlah bidang pada formulir ini.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

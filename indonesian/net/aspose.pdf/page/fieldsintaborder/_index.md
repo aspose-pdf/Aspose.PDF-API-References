@@ -1,14 +1,14 @@
 ---
-title: Page.FieldsInTabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan daftar objek Field dalam urutan Tab di halaman ini
+title: "Page.FieldsInTabOrder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan daftar objek Field dalam urutan Tab pada halaman ini"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/page/fieldsintaborder/
 ---
-## Properti Page.FieldsInTabOrder
+## Page.FieldsInTabOrder property
 
-Mendapatkan daftar objek Field dalam urutan Tab di halaman ini.
+Mendapatkan daftar objek Field dalam urutan Tab pada halaman ini.
 
 ```csharp
 public IList<Field> FieldsInTabOrder { get; }
@@ -16,7 +16,9 @@ public IList<Field> FieldsInTabOrder { get; }
 
 ### Lihat Juga
 
-* kelas [Field](../../../aspose.pdf.forms/field/)
-* kelas [Page](../)
+* class [Field](../../../aspose.pdf.forms/field/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

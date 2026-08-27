@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.Note
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang StrukturTipeStandar. Catatan Sebuah item teks penjelasan seperti catatan kaki atau catatan akhir yang dirujuk dari dalam tubuh dokumen. Ini mungkin memiliki tipe struktur label Lbl sebagai anak. Catatan tersebut dapat disertakan sebagai anak dari elemen struktur dalam teks tubuh yang merujuk kepadanya atau dapat disertakan di tempat lain seperti di bagian catatan akhir dan diakses melalui tipe struktur referensi Reference
+title: "StructureTypeStandard.Note"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang StructureTypeStandard. Note Sebuah item teks penjelas seperti catatan kaki atau catatan akhir yang dirujuk dari dalam isi dokumen. Itu dapat memiliki tipe struktur label Lbl sebagai anak. Catatan tersebut dapat dimasukkan sebagai anak dari elemen struktur dalam teks isi yang merujuk kepadanya atau dapat dimasukkan di tempat lain seperti pada bagian catatan akhir dan diakses melalui tipe struktur referensi Reference"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/note/
 ---
-## Bidang StrukturTipeStandar.Catatan
+## StructureTypeStandard.Note field
 
-(Catatan) Sebuah item teks penjelasan, seperti catatan kaki atau catatan akhir, yang dirujuk dari dalam tubuh dokumen. Ini mungkin memiliki label (tipe struktur Lbl) sebagai anak. Catatan tersebut dapat disertakan sebagai anak dari elemen struktur dalam teks tubuh yang merujuk kepadanya, atau dapat disertakan di tempat lain (seperti di bagian catatan akhir) dan diakses melalui referensi (tipe struktur Reference).
+(Catatan) Sebuah item teks penjelasan, seperti catatan kaki atau catatan akhir, yang dirujuk dari dalam badan dokumen. Itu mungkin memiliki label (tipe struktur Lbl) sebagai anak. Catatan tersebut dapat disertakan sebagai anak elemen struktur dalam teks badan yang merujuk kepadanya, atau dapat disertakan di tempat lain (seperti di bagian catatan akhir) dan diakses melalui referensi (tipe struktur Reference).
 
-PDF yang ditandai tidak menetapkan penempatan catatan kaki dalam urutan konten halaman. Mereka dapat berada baik di dalam teks atau di akhir halaman, atas kebijakan penulis yang sesuai.
+Tagged PDF tidak menentukan penempatan catatan kaki dalam urutan konten halaman. Mereka dapat berada secara inline atau di akhir halaman, tergantung pada keputusan penulis yang mematuhi standar.
 
 ```csharp
 public static readonly StructureTypeStandard Note;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard Note;
 
 ### Lihat Juga
 
-* kelas [StrukturTipeStandar](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

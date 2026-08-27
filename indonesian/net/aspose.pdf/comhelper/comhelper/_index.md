@@ -1,12 +1,12 @@
 ---
-title: ComHelper.ComHelper
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ComHelper. Konstruktor default
+title: "ComHelper.ComHelper"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ComHelper. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/comhelper/comhelper/
 ---
-## Konstruktor ComHelper
+## ComHelper constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ComHelper()
 
 ### Lihat Juga
 
-* kelas [ComHelper](../)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

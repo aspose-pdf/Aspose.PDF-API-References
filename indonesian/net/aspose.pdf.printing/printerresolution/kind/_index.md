@@ -1,12 +1,12 @@
 ---
-title: PrinterResolution.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PrinterResolution. Mendapatkan nilai yang menunjukkan jenis resolusi printer
+title: "PrinterResolution.Kind"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PrinterResolution properti. Mendapatkan nilai yang menunjukkan jenis resolusi printer"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.printing/printerresolution/kind/
 ---
-## Properti PrinterResolution.Kind
+## PrinterResolution.Kind property
 
 Mendapatkan nilai yang menunjukkan jenis resolusi printer.
 
@@ -20,3 +20,5 @@ public PrinterResolutionKind Kind { get; set; }
 * class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

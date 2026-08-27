@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompletionResponse. Mendapatkan atau mengatur pengidentifikasi unik untuk penyelesaian obrolan
+title: "CompletionResponse.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CompletionResponse properti. Mendapatkan atau mengatur pengidentifikasi unik untuk chat completion"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/completionresponse/id/
 ---
-## Properti CompletionResponse.Id
+## CompletionResponse.Id property
 
 Mendapatkan atau mengatur pengidentifikasi unik untuk penyelesaian obrolan.
 
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* kelas [CompletionResponse](../)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

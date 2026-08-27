@@ -1,25 +1,27 @@
 ---
-title: CosPdfName.ToCosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfName. Mencoba mengonversi instance ini menjadi CosPdfName
+title: "CosPdfName.ToCosPdfName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfName. Mencoba meng-cast instance ini ke CosPdfName"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.dataeditor/cospdfname/tocospdfname/
 ---
-## Metode CosPdfName.ToCosPdfName
+## CosPdfName.ToCosPdfName method
 
-Mencoba mengonversi instance ini menjadi [`CosPdfName`](../).
+Mencoba meng-cast instance ini ke [`CosPdfName`](../).
 
 ```csharp
 public override CosPdfName ToCosPdfName()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-null jika instance bukan [`CosPdfName`](../) jika tidak [`CosPdfName`](../).
+null jika instance bukan [`CosPdfName`](../) selain [`CosPdfName`](../).
 
 ### Lihat Juga
 
-* kelas [CosPdfName](../)
+* class [CosPdfName](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

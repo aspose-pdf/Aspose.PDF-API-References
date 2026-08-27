@@ -1,12 +1,12 @@
 ---
-title: Enum SvgLoadOptions.ConversionEngines
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SvgLoadOptions.ConversionEngines dari Aspose.Pdf. Mengenumerasi mesin konversi yang dapat digunakan untuk konversi
+title: "Enum SvgLoadOptions.ConversionEngines"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.SvgLoadOptionsConversionEngines enum. Mengenumerasi mesin konversi yang dapat digunakan untuk konversi"
 type: docs
-weight: 10220
+weight: 10400
 url: /id/net/aspose.pdf/svgloadoptions.conversionengines/
 ---
-## Enumerasi SvgLoadOptions.ConversionEngines
+## SvgLoadOptions.ConversionEngines enumeration
 
 Mengenumerasi mesin konversi yang dapat digunakan untuk konversi
 
@@ -18,11 +18,13 @@ public enum ConversionEngines
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| LegacyEngine | `0` | Mewakili mesin konversi SVG ke PDF yang lama. |
-| NewEngine | `1` | Mewakili mesin konversi SVG ke PDF yang baru. |
+| LegacyEngine | `0` | Mewakili mesin konversi SVG ke PDF lama. |
+| NewEngine | `1` | Mewakili mesin konversi SVG ke PDF baru. |
 
 ### Lihat Juga
 
-* kelas [SvgLoadOptions](../svgloadoptions/)
+* class [SvgLoadOptions](../svgloadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.Lines
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Artifact. Baris teks multiline artifact
+title: "Artifact.Lines"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Artifact. Baris-baris artefak teks multiline."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/artifact/lines/
 ---
-## Properti Artifact.Lines
+## Artifact.Lines property
 
-Baris dari artifact teks multiline.
+Baris-baris artefak teks multiline.
 
 ```csharp
 public List<string> Lines { get; }
@@ -16,6 +16,8 @@ public List<string> Lines { get; }
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

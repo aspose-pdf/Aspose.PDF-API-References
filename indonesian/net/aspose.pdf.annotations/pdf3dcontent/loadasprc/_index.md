@@ -1,7 +1,7 @@
 ---
-title: PDF3DContent.LoadAsPRC
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DContent. Memuat konten 3D dengan nama file yang ditentukan dalam format PRC
+title: "PDF3DContent.LoadAsPRC"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DContent. Memuat konten 3D dengan nama file yang ditentukan sebagai format PRC"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/
@@ -16,11 +16,11 @@ public void LoadAsPRC(string filename)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file. |
+| nama file | String | Nama file. |
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void LoadAsPRC(string filename)
 
 ## LoadAsPRC(Stream) {#loadasprc_1}
 
-Memuat konten 3D dari stream dalam format PRC.
+Memuat konten 3D dari aliran dalam format PRC.
 
 ```csharp
 public void LoadAsPRC(Stream stream)
@@ -36,11 +36,11 @@ public void LoadAsPRC(Stream stream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Stream konten 3D. |
+| stream | Stream | Aliran konten 3D. |
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,10 +56,12 @@ public void LoadAsPRC(byte[] stream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Byte[] | Stream. |
+| stream | Byte[] | Aliran. |
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

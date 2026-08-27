@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ContentsResizeValue. Menginisialisasi nilai yang dihitung secara otomatis
+title: "PdfFileEditor.ContentsResizeValue.Auto"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ContentsResizeValue. Menginisialisasi nilai yang dihitung secara otomatis"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/
 ---
-## Metode PdfFileEditor.ContentsResizeValue.Auto
+## PdfFileEditor.ContentsResizeValue.Auto method
 
 Menginisialisasi nilai yang dihitung secara otomatis.
 
@@ -14,12 +14,14 @@ Menginisialisasi nilai yang dihitung secara otomatis.
 public static ContentsResizeValue Auto()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi nilai baru.
 
 ### Lihat Juga
 
-* kelas [ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderPartStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang BorderPartStyle. Mewakili warna garis batas
+title: "SaveOptions.BorderPartStyle.Color"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BorderPartStyle field. Mewakili warna garis batas"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/saveoptions.borderpartstyle/color/
 ---
-## Bidang SaveOptions.BorderPartStyle.Color
+## SaveOptions.BorderPartStyle.Color field
 
-Mewakili warna garis batas
+Mewakili warna garis border
 
 ```csharp
 public Color Color;
@@ -16,6 +16,8 @@ public Color Color;
 
 ### Lihat Juga
 
-* kelas [BorderPartStyle](../)
+* class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

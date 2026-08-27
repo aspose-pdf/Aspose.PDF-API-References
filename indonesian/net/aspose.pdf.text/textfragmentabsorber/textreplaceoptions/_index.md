@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentAbsorber. Mengambil atau mengatur opsi penggantian teks. Opsi ini mendefinisikan perilaku ketika teks fragmen diganti menjadi lebih pendek/panjang
+title: "TextFragmentAbsorber.TextReplaceOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentAbsorber. Mendapatkan atau mengatur opsi penggantian teks. Opsi tersebut menentukan perilaku ketika teks fragmen diganti menjadi lebih pendek/panjang."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.text/textfragmentabsorber/textreplaceoptions/
 ---
-## Properti TextFragmentAbsorber.TextReplaceOptions
+## TextFragmentAbsorber.TextReplaceOptions property
 
-Mengambil atau mengatur opsi penggantian teks. Opsi ini mendefinisikan perilaku ketika teks fragmen diganti menjadi lebih pendek/panjang.
+Mendapatkan atau mengatur opsi penggantian teks. Opsi-opsi tersebut menentukan perilaku ketika teks fragmen diganti menjadi lebih pendek/panjang.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }
@@ -16,7 +16,9 @@ public TextReplaceOptions TextReplaceOptions { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextReplaceOptions](../../textreplaceoptions/)
-* kelas [TextFragmentAbsorber](../)
+* class [TextReplaceOptions](../../textreplaceoptions/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

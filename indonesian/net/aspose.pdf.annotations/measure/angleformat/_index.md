@@ -1,14 +1,14 @@
 ---
-title: Measure.AngleFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Measure. Sebuah array format angka untuk pengukuran sudut
+title: "Measure.AngleFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Measure property. Array format angka untuk pengukuran sudut"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/measure/angleformat/
 ---
-## Properti Measure.AngleFormat
+## Measure.AngleFormat property
 
-Sebuah array format angka untuk pengukuran sudut.
+Array format angka untuk pengukuran sudut.
 
 ```csharp
 public NumberFormatList AngleFormat { get; set; }
@@ -16,7 +16,9 @@ public NumberFormatList AngleFormat { get; set; }
 
 ### Lihat Juga
 
-* kelas [NumberFormatList](../../measure.numberformatlist/)
-* kelas [Measure](../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TocInfo.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TocInfo. Menginisialisasi instance baru dari kelas TocInfo
+title: "TocInfo.TocInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TocInfo. Menginisialisasi instance baru dari kelas TocInfo"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/tocinfo/tocinfo/
 ---
-## Konstruktor TocInfo
+## TocInfo constructor
 
 Menginisialisasi instance baru dari kelas [`TocInfo`](../).
 
@@ -16,6 +16,8 @@ public TocInfo()
 
 ### Lihat Juga
 
-* kelas [TocInfo](../)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

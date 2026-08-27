@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Mengatur token prompt maksimum untuk opsi kopilot deskripsi gambar
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions method. Mengatur token prompt maksimum untuk opsi copilot deskripsi gambar"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxprompttokens/
 ---
-## Metode OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
+## OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens method
 
-Mengatur token prompt maksimum untuk opsi kopilot deskripsi gambar.
+Mengatur token prompt maksimum untuk opsi copilot deskripsi gambar.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTo
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | Token prompt maksimum yang akan diatur. |
+| maxPromptTokens | Nullable`1 | Token prompt maksimum yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

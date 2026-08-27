@@ -1,12 +1,12 @@
 ---
-title: ISaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ISaveTarget. Tipe file atau stream target penyimpanan
+title: "ISaveTarget.SaveTarget"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ISaveTarget. Jenis file atau stream target penyimpanan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/isavetarget/savetarget/
 ---
-## Properti ISaveTarget.SaveTarget
+## ISaveTarget.SaveTarget property
 
 Tipe target penyimpanan (file atau stream).
 
@@ -14,9 +14,9 @@ Tipe target penyimpanan (file atau stream).
 public DataType SaveTarget { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah [`DataType`](../../datatype/) objek yang mewakili data keluaran.
+Sebuah objek [`DataType`](../../datatype/) yang mewakili data keluaran.
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Sebuah [`DataType`](../../datatype/) objek yang mewakili data keluaran.
 * interface [ISaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CancelRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Membatalkan run yang ada dalam sebuah thread secara asinkron
+title: "IOpenAIClient.CancelRunAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Membatalkan run yang ada dalam thread secara asinkron"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/iopenaiclient/cancelrunasync/
 ---
-## Metode IOpenAIClient.CancelRunAsync
+## IOpenAIClient.CancelRunAsync method
 
-Membatalkan run yang ada dalam sebuah thread secara asinkron.
+Membatalkan run yang ada di dalam thread secara asynchronous.
 
 ```csharp
 public Task<RunResponse> CancelRunAsync(string threadId, string runId, 
@@ -17,24 +17,26 @@ public Task<RunResponse> CancelRunAsync(string threadId, string runId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threadId | String | ID dari thread yang berisi run yang akan dibatalkan. |
-| runId | String | ID dari run yang akan dibatalkan. |
+| threadId | String | ID thread yang berisi run yang akan dibatalkan. |
+| runId | String | ID run yang akan dibatalkan. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembatalan run.
+Task yang mewakili operasi asinkron. Hasil task berisi respons dari pembatalan run.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika run Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID run null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [RunResponse](../../runresponse/)
-* antarmuka [IOpenAIClient](../)
+* class [RunResponse](../../runresponse/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

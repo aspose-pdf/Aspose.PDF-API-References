@@ -1,14 +1,14 @@
 ---
-title: TextState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextState. Mendapatkan atau mengatur jarak kata dari teks
+title: "TextState.WordSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextState. Mendapatkan atau mengatur spasi kata pada teks."
 type: docs
-weight: 190
+weight: 200
 url: /id/net/aspose.pdf.text/textstate/wordspacing/
 ---
-## Properti TextState.WordSpacing
+## TextState.WordSpacing property
 
-Mendapatkan atau mengatur jarak kata dari teks.
+Mendapatkan atau mengatur spasi kata pada teks.
 
 ```csharp
 public virtual float WordSpacing { get; set; }
@@ -16,6 +16,8 @@ public virtual float WordSpacing { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

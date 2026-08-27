@@ -1,14 +1,14 @@
 ---
-title: Delegate PdfQueryPageSettingsEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Mewakili metode yang menangani acara PdfQueryPageSettings dari PdfViewer
+title: "Delegasi PdfQueryPageSettingsEventHandler"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mewakili metode yang menangani peristiwa PdfQueryPageSettings dari PdfViewer"
 type: docs
-weight: 4620
+weight: 4740
 url: /id/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
-## Delegasi PdfQueryPageSettingsEventHandler
+## PdfQueryPageSettingsEventHandler delegate
 
-Mewakili metode yang menangani acara [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) dari [`PdfViewer`](../pdfviewer/).
+Mewakili metode yang menangani peristiwa [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) dari [`PdfViewer`](../pdfviewer/).
 
 ```csharp
 public delegate void PdfQueryPageSettingsEventHandler(object sender, 
@@ -17,13 +17,15 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sender | Object | Sumber dari acara. |
-| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | Sebuah [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) yang berisi data acara. |
-| currentPageInfo | PdfPrintPageInfo | Info halaman yang sedang dicetak saat ini. |
+| sender | Object | Sumber peristiwa. |
+| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | Sebuah [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) yang berisi data peristiwa. |
+| currentPageInfo | PdfPrintPageInfo | Info halaman yang sedang dicetak. |
 
 ### Lihat Juga
 
-* kelas [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
-* kelas [PdfPrintPageInfo](../pdfprintpageinfo/)
+* class [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
+* class [PdfPrintPageInfo](../pdfprintpageinfo/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

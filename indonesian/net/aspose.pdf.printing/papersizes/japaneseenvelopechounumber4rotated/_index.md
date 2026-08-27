@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeChouNumber4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Amplop Chou 4 Jepang yang diputar
+title: "PaperSizes.JapaneseEnvelopeChouNumber4Rotated"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PaperSizes. Amplop Chou 4 Jepang yang diputar"
 type: docs
 weight: 530
 url: /id/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber4rotated/
 ---
-## Bidang PaperSizes.JapaneseEnvelopeChouNumber4Rotated
+## PaperSizes.JapaneseEnvelopeChouNumber4Rotated field
 
-Amplop Chou #4 Jepang yang diputar.
+Amplop Chou #4 Jepang diputar.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeChouNumber4Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseEnvelopeChouNumber4Rotated;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

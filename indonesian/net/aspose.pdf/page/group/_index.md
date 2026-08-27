@@ -1,12 +1,12 @@
 ---
-title: Page.Group
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan atau mengatur kelas atribut grup yang menentukan atribut grup halaman untuk digunakan dalam model pencitraan transparan
+title: "Page.Group"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur kelas atribut grup yang menentukan atribut grup halaman untuk digunakan dalam model pencitraan transparan."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/page/group/
 ---
-## Properti Page.Group
+## Page.Group property
 
 Mendapatkan atau mengatur kelas atribut grup yang menentukan atribut grup halaman untuk digunakan dalam model pencitraan transparan.
 
@@ -16,7 +16,9 @@ public Group Group { get; set; }
 
 ### Lihat Juga
 
-* kelas [Group](../../group/)
-* kelas [Page](../)
+* class [Group](../../group/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

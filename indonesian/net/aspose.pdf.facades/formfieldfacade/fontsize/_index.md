@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Ukuran teks field
+title: "FormFieldFacade.FontSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade properti. Ukuran teks bidang"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/formfieldfacade/fontsize/
 ---
-## Properti FormFieldFacade.FontSize
+## FormFieldFacade.FontSize property
 
-Ukuran teks field.
+Ukuran teks bidang.
 
 ```csharp
 public float FontSize { get; set; }
@@ -16,6 +16,8 @@ public float FontSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

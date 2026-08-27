@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Properti EmbeddedFileCollection. Mendapatkan nilai yang menunjukkan apakah akses ke koleksi ini disinkronkan aman untuk thread
+title: "EmbeddedFileCollection.IsSynchronized"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti EmbeddedFileCollection. Mendapatkan nilai yang menunjukkan apakah akses ke koleksi ini disinkronkan dan aman untuk thread"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/embeddedfilecollection/issynchronized/
 ---
-## Properti EmbeddedFileCollection.IsSynchronized
+## EmbeddedFileCollection.IsSynchronized property
 
 Mendapatkan nilai yang menunjukkan apakah akses ke koleksi ini disinkronkan (aman untuk thread).
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Lihat Juga
 
-* kelas [EmbeddedFileCollection](../)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

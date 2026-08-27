@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.SubmitPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SubmitFormAction. Jika diatur, dokumen akan dikirim sebagai PDF menggunakan tipe konten MIME application/pdf
+title: "SubmitFormAction.SubmitPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field SubmitFormAction. Jika diatur, dokumen harus dikirim sebagai PDF menggunakan tipe konten MIME application/pdf."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.annotations/submitformaction/submitpdf/
 ---
-## Bidang SubmitFormAction.SubmitPdf
+## SubmitFormAction.SubmitPdf field
 
-Jika diatur, dokumen akan dikirim sebagai PDF, menggunakan tipe konten MIME application/pdf.
+Jika diatur, dokumen harus dikirim sebagai PDF, menggunakan tipe konten MIME application/pdf.
 
 ```csharp
 public const int SubmitPdf;
@@ -16,6 +16,8 @@ public const int SubmitPdf;
 
 ### Lihat Juga
 
-* kelas [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

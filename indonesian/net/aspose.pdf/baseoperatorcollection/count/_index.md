@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseOperatorCollection. Mendapatkan jumlah operator dalam koleksi
+title: "BaseOperatorCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BaseOperatorCollection property. Mendapatkan jumlah operator dalam koleksi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/baseoperatorcollection/count/
 ---
-## Properti BaseOperatorCollection.Count
+## BaseOperatorCollection.Count property
 
 Mendapatkan jumlah operator dalam koleksi.
 
@@ -16,6 +16,8 @@ public abstract int Count { get; }
 
 ### Lihat Juga
 
-* kelas [BaseOperatorCollection](../)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

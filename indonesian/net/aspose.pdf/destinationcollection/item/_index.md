@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DestinationCollection. Mendapatkan objek tujuan berdasarkan indeks
+title: "DestinationCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DestinationCollection. Mendapatkan objek tujuan berdasarkan indeks"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/destinationcollection/item/
 ---
-## Indeks DestinationCollection
+## DestinationCollection indexer
 
 Mendapatkan objek tujuan berdasarkan indeks.
 
@@ -18,12 +18,14 @@ public KeyValuePair<string, object> this[int index] { get; }
 | --- | --- |
 | index | Indeks tujuan yang akan diambil. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Tujuan.
+Destination.
 
 ### Lihat Juga
 
-* kelas [DestinationCollection](../)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

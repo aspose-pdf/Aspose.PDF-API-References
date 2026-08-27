@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.Error
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseResponse. Mendapatkan atau mengatur kesalahan respons HTTP
+title: "BaseResponse.Error"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BaseResponse. Mendapatkan atau mengatur kesalahan respons HTTP"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/baseresponse/error/
 ---
-## Properti BaseResponse.Error
+## BaseResponse.Error property
 
 Mendapatkan atau mengatur kesalahan respons HTTP.
 
@@ -16,7 +16,9 @@ public Error Error { get; set; }
 
 ### Lihat Juga
 
-* kelas [Error](../../error/)
-* kelas [BaseResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Error](../../error/)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

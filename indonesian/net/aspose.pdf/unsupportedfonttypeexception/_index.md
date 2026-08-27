@@ -1,14 +1,14 @@
 ---
-title: Class UnsupportedFontTypeException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.UnsupportedFontTypeException. Pengecualian yang dilemparkan ketika jenis font tidak didukung
+title: "Kelas UnsupportedFontTypeException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.UnsupportedFontTypeException. Pengecualian yang dilemparkan ketika tipe font tidak didukung"
 type: docs
-weight: 11170
+weight: 11360
 url: /id/net/aspose.pdf/unsupportedfonttypeexception/
 ---
-## Kelas UnsupportedFontTypeException
+## UnsupportedFontTypeException class
 
-Pengecualian yang dilemparkan ketika jenis font tidak didukung.
+Pengecualian yang dilemparkan ketika tipe font tidak didukung.
 
 ```csharp
 public sealed class UnsupportedFontTypeException : PdfException
@@ -24,6 +24,8 @@ public sealed class UnsupportedFontTypeException : PdfException
 
 ### Lihat Juga
 
-* kelas [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

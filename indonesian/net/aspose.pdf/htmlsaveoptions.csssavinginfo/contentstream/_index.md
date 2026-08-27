@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: Field CssSavingInfo. Diatur oleh konverter. Mewakili konten biner dari CSS yang disimpan
+title: "HtmlSaveOptions.CssSavingInfo.ContentStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CssSavingInfo field. Diatur oleh konverter. Mewakili konten biner CSS yang disimpan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream/
 ---
 ## HtmlSaveOptions.CssSavingInfo.ContentStream field
 
-Diatur oleh konverter. Mewakili konten biner dari CSS yang disimpan
+Diatur oleh konverter. Mewakili konten biner CSS yang disimpan
 
 ```csharp
 public Stream ContentStream;
@@ -19,3 +19,5 @@ public Stream ContentStream;
 * class [CssSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

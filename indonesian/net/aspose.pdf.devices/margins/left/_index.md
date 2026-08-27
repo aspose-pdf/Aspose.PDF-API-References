@@ -1,25 +1,27 @@
 ---
-title: Margins.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Margins. Mendapatkan atau mengatur kiri
+title: "Margins.Left"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Margins. Mendapatkan atau mengatur nilai kiri"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.devices/margins/left/
 ---
-## Properti Margins.Kiri
+## Margins.Left property
 
-Mendapatkan atau mengatur kiri.
+Mengambil atau mengatur bagian kiri.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Kiri.
+Bagian kiri.
 
 ### Lihat Juga
 
-* kelas [Margins](../)
+* class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

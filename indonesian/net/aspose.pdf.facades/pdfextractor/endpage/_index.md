@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfExtractor. Mendapatkan atau menetapkan halaman akhir dalam rentang halaman di mana operasi ekstraksi akan dilakukan
+title: "PdfExtractor.EndPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfExtractor. Mendapatkan atau mengatur halaman akhir dalam rentang halaman tempat operasi ekstraksi akan dilakukan."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdfextractor/endpage/
 ---
-## Properti PdfExtractor.EndPage
+## PdfExtractor.EndPage property
 
-Mendapatkan atau menetapkan halaman akhir dalam rentang halaman di mana operasi ekstraksi akan dilakukan.
+Mendapatkan atau mengatur halaman akhir dalam rentang halaman tempat operasi ekstraksi akan dilakukan.
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -24,6 +24,8 @@ public int EndPage { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

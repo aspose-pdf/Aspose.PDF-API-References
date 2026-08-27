@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageLayoutTwoColumnLeft
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang ViewerPreference. Tampilkan halaman dalam dua kolom dengan halaman bernomor ganjil di sebelah kanan
+title: "ViewerPreference.PageLayoutTwoColumnLeft"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Menampilkan halaman dalam dua kolom dengan halaman bernomor ganjil di sebelah kanan"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnleft/
 ---
-## Bidang ViewerPreference.PageLayoutTwoColumnLeft
+## ViewerPreference.PageLayoutTwoColumnLeft field
 
 Tampilkan halaman dalam dua kolom, dengan halaman bernomor ganjil di sebelah kanan
 
@@ -16,6 +16,8 @@ public const int PageLayoutTwoColumnLeft;
 
 ### Lihat Juga
 
-* kelas [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

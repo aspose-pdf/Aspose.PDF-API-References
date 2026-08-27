@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.GetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mendapatkan Nama Nilai
+title: "StructureAttribute.GetNameValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureAttribute. Mengambil Nama Nilai"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 ---
-## Metode StructureAttribute.GetNameValue
+## StructureAttribute.GetNameValue method
 
 Mendapatkan Nama Nilai.
 
@@ -14,13 +14,15 @@ Mendapatkan Nama Nilai.
 public AttributeName GetNameValue()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama Nilai.
 
 ### Lihat Juga
 
-* kelas [AttributeName](../../attributename/)
-* kelas [StructureAttribute](../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

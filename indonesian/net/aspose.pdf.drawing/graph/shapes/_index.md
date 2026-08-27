@@ -1,14 +1,14 @@
 ---
-title: Graph.Shapes
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Graph. Mengambil atau mengatur koleksi Shapes yang menunjukkan semua bentuk dalam grafik
+title: "Graph.Shapes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Graph. Mendapatkan atau mengatur koleksi Shapes yang menunjukkan semua shapes dalam graph"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.drawing/graph/shapes/
 ---
-## Properti Graph.Shapes
+## Graph.Shapes property
 
-Mengambil atau mengatur koleksi `Shapes` yang menunjukkan semua bentuk dalam grafik.
+Mendapatkan atau mengatur koleksi `Shapes` yang menunjukkan semua shapes dalam graph.
 
 ```csharp
 public BoundsCheckableList<Shape> Shapes { get; set; }
@@ -16,8 +16,10 @@ public BoundsCheckableList<Shape> Shapes { get; set; }
 
 ### Lihat Juga
 
-* kelas [BoundsCheckableList&lt;T&gt;](../../../aspose.pdf/boundscheckablelist-1/)
-* kelas [Shape](../../shape/)
-* kelas [Graph](../)
+* class [BoundsCheckableList&lt;T&gt;](../../../aspose.pdf/boundscheckablelist-1/)
+* class [Shape](../../shape/)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

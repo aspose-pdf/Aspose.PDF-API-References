@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentAbsorber. Mengambil atau mengatur opsi ekstraksi teks
+title: "TextFragmentAbsorber.ExtractionOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentAbsorber. Mendapatkan atau mengatur opsi ekstraksi teks."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/textfragmentabsorber/extractionoptions/
 ---
-## Properti TextFragmentAbsorber.OpsiEkstraksi
+## TextFragmentAbsorber.ExtractionOptions property
 
-Mengambil atau mengatur opsi ekstraksi teks.
+Mendapatkan atau mengatur opsi ekstraksi teks.
 
 ```csharp
 public override TextExtractionOptions ExtractionOptions { get; set; }
@@ -16,7 +16,9 @@ public override TextExtractionOptions ExtractionOptions { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionOptions](../../textextractionoptions/)
-* kelas [TextFragmentAbsorber](../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

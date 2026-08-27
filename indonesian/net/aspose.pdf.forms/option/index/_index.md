@@ -1,14 +1,14 @@
 ---
-title: Option.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Option. Mendapatkan indeks dari opsi
+title: "Option.Index"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Option. Mendapatkan indeks opsi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/option/index/
 ---
-## Properti Option.Index
+## Option.Index property
 
-Mendapatkan indeks dari opsi.
+Mendapatkan indeks opsi.
 
 ```csharp
 public int Index { get; }
@@ -16,6 +16,8 @@ public int Index { get; }
 
 ### Lihat Juga
 
-* kelas [Option](../)
+* class [Option](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

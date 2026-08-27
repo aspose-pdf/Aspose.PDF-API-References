@@ -1,12 +1,12 @@
 ---
-title: TableElement.ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan atau mengatur penyesuaian kolom tabel
+title: "TableElement.ColumnAdjustment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TableElement. Mendapatkan atau mengatur penyesuaian kolom tabel"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.logicalstructure/tableelement/columnadjustment/
 ---
-## Properti TableElement.ColumnAdjustment
+## TableElement.ColumnAdjustment property
 
 Mendapatkan atau mengatur penyesuaian kolom tabel.
 
@@ -20,3 +20,5 @@ public ColumnAdjustment ColumnAdjustment { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

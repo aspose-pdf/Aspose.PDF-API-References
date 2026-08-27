@@ -1,25 +1,27 @@
 ---
-title: ThreadMessageListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ThreadMessageListQueryParameters. Mendapatkan parameter kueri untuk daftar pesan thread
+title: "ThreadMessageListQueryParameters.GetQueryParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ThreadMessageListQueryParameters. Mengambil parameter kueri untuk menampilkan pesan thread"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/threadmessagelistqueryparameters/getqueryparameters/
 ---
-## Metode ThreadMessageListQueryParameters.GetQueryParameters
+## ThreadMessageListQueryParameters.GetQueryParameters method
 
-Mendapatkan parameter kueri untuk daftar pesan thread.
+Mendapatkan parameter kueri untuk menampilkan pesan thread.
 
 ```csharp
 public string GetQueryParameters()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String parameter kueri.
 
 ### Lihat Juga
 
-* kelas [ThreadMessageListQueryParameters](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: UnsupportedFontTypeException.UnsupportedFontTypeException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor UnsupportedFontTypeException. Menginisialisasi instance baru dari kelas UnsupportedFontTypeException
+title: "UnsupportedFontTypeException.UnsupportedFontTypeException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor UnsupportedFontTypeException. Menginisialisasi instance baru dari kelas UnsupportedFontTypeException"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/unsupportedfonttypeexception/unsupportedfonttypeexception/
@@ -20,7 +20,7 @@ public UnsupportedFontTypeException(string message)
 
 ### Lihat Juga
 
-* kelas [UnsupportedFontTypeException](../)
+* class [UnsupportedFontTypeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public UnsupportedFontTypeException(string message)
 
 ## UnsupportedFontTypeException(string, Exception) {#constructor_2}
 
-Menginisialisasi instance baru dari kelas [`UnsupportedFontTypeException`](../) dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
+Menginisialisasi instance baru dari kelas [`UnsupportedFontTypeException`](../) dengan pesan error yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
 
 ```csharp
 public UnsupportedFontTypeException(string message, Exception innerException)
@@ -36,12 +36,12 @@ public UnsupportedFontTypeException(string message, Exception innerException)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan alasan pengecualian. |
+| message | String | Pesan error yang menjelaskan alasan pengecualian. |
 | innerException | Exception | Pengecualian yang menjadi penyebab pengecualian saat ini, atau referensi null (Nothing dalam Visual Basic) jika tidak ada pengecualian dalam yang ditentukan. |
 
 ### Lihat Juga
 
-* kelas [UnsupportedFontTypeException](../)
+* class [UnsupportedFontTypeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -61,6 +61,8 @@ public UnsupportedFontTypeException(Exception innerException)
 
 ### Lihat Juga
 
-* kelas [UnsupportedFontTypeException](../)
+* class [UnsupportedFontTypeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

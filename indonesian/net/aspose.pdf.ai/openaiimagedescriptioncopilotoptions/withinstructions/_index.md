@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Mengatur instruksi untuk opsi kopilot deskripsi gambar
+title: "OpenAIImageDescriptionCopilotOptions.WithInstructions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions metode. Mengatur instruksi untuk opsi copilot deskripsi gambar"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withinstructions/
 ---
-## Metode OpenAIImageDescriptionCopilotOptions.WithInstructions
+## OpenAIImageDescriptionCopilotOptions.WithInstructions method
 
-Mengatur instruksi untuk opsi kopilot deskripsi gambar.
+Mengatur instruksi untuk opsi copilot deskripsi gambar.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithInstructions(string instructions)
@@ -18,12 +18,14 @@ public OpenAIImageDescriptionCopilotOptions WithInstructions(string instructions
 | --- | --- | --- |
 | instructions | String | Instruksi yang akan diatur. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

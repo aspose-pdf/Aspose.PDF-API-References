@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.VerticalAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfPageEditor. Mendapatkan atau Mengatur perataan vertikal konten PDF asli di halaman hasil, default adalah VerticalAlignmentType.Bottom
+title: "PdfPageEditor.VerticalAlignmentType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfPageEditor property. Mendapatkan atau Mengatur penyelarasan vertikal konten PDF asli pada halaman hasil, defaultnya adalah VerticalAlignmentType.Bottom"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdfpageeditor/verticalalignmenttype/
 ---
-## Properti PdfPageEditor.VerticalAlignmentType
+## PdfPageEditor.VerticalAlignmentType property
 
-Mendapatkan atau Mengatur perataan vertikal konten PDF asli di halaman hasil, default adalah VerticalAlignmentType.Bottom.
+Mendapatkan atau Mengatur perataan vertikal konten PDF asli pada halaman hasil, default adalah VerticalAlignmentType.Bottom.
 
 ```csharp
 public VerticalAlignment VerticalAlignmentType { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignmentType { get; set; }
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

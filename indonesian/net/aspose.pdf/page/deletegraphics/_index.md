@@ -1,12 +1,12 @@
 ---
-title: Page.DeleteGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Page. Menghapus grafik dari halaman. Bekerja lebih cepat daripada menghapus elemen satu per satu dengan metode Remove
+title: "Page.DeleteGraphics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Menghapus grafik dari halaman. Bekerja lebih cepat daripada menghapus elemen satu per satu dengan metode Remove."
 type: docs
 weight: 410
 url: /id/net/aspose.pdf/page/deletegraphics/
 ---
-## Metode Page.DeleteGraphics
+## Page.DeleteGraphics method
 
 Menghapus grafik dari halaman. Bekerja lebih cepat daripada menghapus elemen satu per satu dengan metode [`Remove`](../../../aspose.pdf.vector/graphicelement/remove/).
 
@@ -20,7 +20,9 @@ public void DeleteGraphics(GraphicElementCollection elementsToDelete)
 
 ### Lihat Juga
 
-* kelas [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
-* kelas [Page](../)
+* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

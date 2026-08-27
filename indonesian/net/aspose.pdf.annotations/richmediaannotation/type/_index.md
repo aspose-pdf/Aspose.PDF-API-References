@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RichMediaAnnotation. Mendapatkan atau mengatur jenis konten. Nilai yang mungkin Audio Video
+title: "RichMediaAnnotation.Type"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RichMediaAnnotation. Mendapatkan atau mengatur tipe konten. Nilai yang mungkin Audio Video"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/richmediaannotation/type/
 ---
-## Properti RichMediaAnnotation.Type
+## RichMediaAnnotation.Type property
 
-Mendapatkan atau mengatur jenis konten. Nilai yang mungkin: Audio, Video.
+Mengambil atau mengatur tipe konten. Nilai yang mungkin: Audio, Video.
 
 ```csharp
 public ContentType Type { get; set; }
@@ -20,3 +20,5 @@ public ContentType Type { get; set; }
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

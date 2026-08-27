@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.SetContent
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RichMediaAnnotation. Atur aliran konten
+title: "RichMediaAnnotation.SetContent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RichMediaAnnotation. Mengatur aliran konten"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.annotations/richmediaannotation/setcontent/
 ---
-## Metode RichMediaAnnotation.SetContent
+## RichMediaAnnotation.SetContent method
 
-Atur aliran konten.
+Mengatur aliran konten.
 
 ```csharp
 public void SetContent(string fileName, Stream audio)
@@ -21,6 +21,8 @@ public void SetContent(string fileName, Stream audio)
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

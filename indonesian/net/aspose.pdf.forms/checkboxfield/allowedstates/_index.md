@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.AllowedStates
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CheckboxField. Mengembalikan daftar status yang diizinkan
+title: "CheckboxField.AllowedStates"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CheckboxField. Mengembalikan daftar keadaan yang diizinkan."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/checkboxfield/allowedstates/
 ---
-## Properti CheckboxField.AllowedStates
+## CheckboxField.AllowedStates property
 
 Mengembalikan daftar status yang diizinkan.
 
@@ -16,6 +16,8 @@ public List<string> AllowedStates { get; }
 
 ### Lihat Juga
 
-* kelas [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

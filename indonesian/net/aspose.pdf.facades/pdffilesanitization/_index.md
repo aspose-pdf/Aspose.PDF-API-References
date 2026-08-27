@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfFileSanitization. Mewakili API sanitasi dan pemulihan. Gunakan ini jika Anda tidak dapat membuat/membuka dokumen dengan cara lain
+title: "Kelas PdfFileSanitization"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.PdfFileSanitization kelas. Mewakili API sanitasi dan pemulihan. Gunakan jika Anda tidak dapat membuat/membuka dokumen dengan cara lain."
 type: docs
-weight: 4540
+weight: 4660
 url: /id/net/aspose.pdf.facades/pdffilesanitization/
 ---
-## Kelas PdfFileSanitization
+## PdfFileSanitization class
 
-Mewakili API sanitasi dan pemulihan. Gunakan ini jika Anda tidak dapat membuat/membuka dokumen dengan cara lain.
+Mewakili API sanitasi dan pemulihan. Gunakan jika Anda tidak dapat membuat/membuka dokumen dengan cara lain.
 
 ```csharp
 public sealed class PdfFileSanitization : SaveableFacade
@@ -24,9 +24,9 @@ public sealed class PdfFileSanitization : SaveableFacade
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Mendapatkan facade dokumen yang sedang dikerjakan. |
-| [Log](../../aspose.pdf.facades/pdffilesanitization/log/) { get; } | Setelah file disimpan, Anda dapat memeriksa apa yang telah dilakukan dengan file. |
-| [UseRebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer/) { get; set; } | Memungkinkan untuk menghasilkan xref dan trailer baru untuk dokumen. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Mendapatkan facade dokumen yang sedang diproses. |
+| [Log](../../aspose.pdf.facades/pdffilesanitization/log/) { get; } | Setelah file disimpan Anda dapat memeriksa apa yang telah dilakukan pada file. |
+| [UseRebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer/) { get; set; } | Memungkinkan untuk menghasilkan xref dan trailer baru untuk document. |
 | [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom/) { get; set; } | Memungkinkan untuk menghapus data setelah data pdf |
 | [UseTrimTop](../../aspose.pdf.facades/pdffilesanitization/usetrimtop/) { get; set; } | Memungkinkan untuk menghapus data sebelum data pdf. |
 
@@ -40,7 +40,7 @@ public sealed class PdfFileSanitization : SaveableFacade
 | override [Close](../../aspose.pdf.facades/pdffilesanitization/close/)() | Menutup facade. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Membuang facade. |
 | [RebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer/)() | Menghapus xref lama dengan trailer dan membuat xref baru dengan trailer. |
-| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover/)() | Memulihkan dokumen. Gunakan properti untuk menyesuaikan. |
+| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover/)() | Memulihkan Document. Gunakan properti untuk menyesuaikan. |
 | override [Save](../../aspose.pdf.facades/pdffilesanitization/save/#save)(Stream) | Menyimpan PDF hasil ke aliran. |
 | override [Save](../../aspose.pdf.facades/pdffilesanitization/save/#save_1)(string) | Menyimpan PDF hasil ke file. |
 | [TrimBottom](../../aspose.pdf.facades/pdffilesanitization/trimbottom/)() | Menghapus data setelah %%EOF terakhir. |
@@ -48,6 +48,8 @@ public sealed class PdfFileSanitization : SaveableFacade
 
 ### Lihat Juga
 
-* kelas [SaveableFacade](../saveablefacade/)
+* class [SaveableFacade](../saveablefacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RichTextBoxField. Mendapatkan atau mengatur perataan dari kotak teks kaya
+title: "RichTextBoxField.Justify"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "RichTextBoxField properti. Mendapatkan atau mengatur perataan kotak teks kaya"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/richtextboxfield/justify/
 ---
-## Properti RichTextBoxField.Justify
+## RichTextBoxField.Justify property
 
-Mendapatkan atau mengatur perataan dari kotak teks kaya.
+Mendapatkan atau mengatur perataan kotak teks kaya.
 
 ```csharp
 public Justification Justify { get; set; }
@@ -20,3 +20,5 @@ public Justification Justify { get; set; }
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

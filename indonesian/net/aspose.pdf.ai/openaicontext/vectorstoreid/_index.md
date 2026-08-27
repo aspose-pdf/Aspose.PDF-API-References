@@ -1,14 +1,14 @@
 ---
-title: OpenAIContext.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIContext. Mendapatkan atau mengatur ID Toko Vektor
+title: "OpenAIContext.VectorStoreId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIContext properti. Mendapatkan atau mengatur Vector Store ID"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/openaicontext/vectorstoreid/
 ---
-## Properti OpenAIContext.VectorStoreId
+## OpenAIContext.VectorStoreId property
 
-Mendapatkan atau mengatur ID Toko Vektor.
+Mendapatkan atau mengatur ID Penyimpanan Vektor.
 
 ```csharp
 public string VectorStoreId { get; set; }
@@ -16,6 +16,8 @@ public string VectorStoreId { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIContext](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

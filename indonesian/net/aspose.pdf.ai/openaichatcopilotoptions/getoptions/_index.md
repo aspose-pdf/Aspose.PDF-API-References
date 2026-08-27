@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Mendapatkan OpenAIChatCopilotOptions saat ini
+title: "OpenAIChatCopilotOptions.GetOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilotOptions. Mendapatkan OpenAIChatCopilotOptions saat ini"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/
 ---
-## Metode OpenAIChatCopilotOptions.GetOptions
+## OpenAIChatCopilotOptions.GetOptions method
 
 Mendapatkan [`OpenAIChatCopilotOptions`](../) saat ini.
 
@@ -14,12 +14,14 @@ Mendapatkan [`OpenAIChatCopilotOptions`](../) saat ini.
 public OpenAIChatCopilotOptions GetOptions()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

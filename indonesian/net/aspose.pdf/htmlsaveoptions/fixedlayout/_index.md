@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.FixedLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlSaveOptions. Mendapatkan atau menetapkan nilai yang menunjukkan apakah HTML dibuat sebagai tata letak tetap
+title: "HtmlSaveOptions.FixedLayout"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti HtmlSaveOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah HTML tersebut dibuat sebagai tata letak tetap."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/htmlsaveoptions/fixedlayout/
 ---
-## Properti HtmlSaveOptions.FixedLayout
+## HtmlSaveOptions.FixedLayout property
 
-Mendapatkan atau menetapkan nilai yang menunjukkan apakah HTML dibuat sebagai tata letak tetap.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah HTML tersebut dibuat sebagai tata letak tetap.
 
 ```csharp
 public bool FixedLayout { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-`true` jika [tata letak tetap]; jika tidak, `false`.
+`true` jika [fixed layout]; lainnya, `false`.
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

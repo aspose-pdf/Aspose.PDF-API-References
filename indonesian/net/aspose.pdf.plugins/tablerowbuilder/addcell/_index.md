@@ -1,12 +1,12 @@
 ---
-title: TableRowBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableRowBuilder. Tambahkan sel ke baris tabel
+title: "TableRowBuilder.AddCell"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableRowBuilder. Menambahkan sel ke baris tabel."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/tablerowbuilder/addcell/
 ---
-## Metode TableRowBuilder.AddCell
+## TableRowBuilder.AddCell method
 
 Tambahkan sel ke baris tabel.
 
@@ -14,13 +14,15 @@ Tambahkan sel ke baris tabel.
 public virtual TableCellBuilder AddCell()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instansi dari [`TableCellBuilder`](../../tablecellbuilder/) yang dibuat.
+Instansi dari `TableCellBuilder` yang dibuat [`TableCellBuilder`](../../tablecellbuilder/).
 
 ### Lihat Juga
 
-* kelas [TableCellBuilder](../../tablecellbuilder/)
-* kelas [TableRowBuilder](../)
+* class [TableCellBuilder](../../tablecellbuilder/)
+* class [TableRowBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

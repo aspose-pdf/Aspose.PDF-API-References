@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.GetPrefixByNamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfXmpMetadata. Mendapatkan prefix berdasarkan namespace URI
+title: "PdfXmpMetadata.GetPrefixByNamespaceURI"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfXmpMetadata. Mengambil awalan berdasarkan namespace URI"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/getprefixbynamespaceuri/
 ---
-## Metode PdfXmpMetadata.GetPrefixByNamespaceURI
+## PdfXmpMetadata.GetPrefixByNamespaceURI method
 
-Mendapatkan prefix berdasarkan namespace URI.
+Mendapatkan prefiks berdasarkan URI namespace.
 
 ```csharp
 public string GetPrefixByNamespaceURI(string namespaceURI)
@@ -18,9 +18,9 @@ public string GetPrefixByNamespaceURI(string namespaceURI)
 | --- | --- | --- |
 | namespaceURI | String | Namespace URI. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nilai prefix.
+Nilai awalan.
 
 ## Contoh
 
@@ -31,6 +31,8 @@ Console.WriteLine(xmp.GetPrefixByNamespaceURI("http://ns.adobe.com/xap/1.0/"));
 
 ### Lihat Juga
 
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

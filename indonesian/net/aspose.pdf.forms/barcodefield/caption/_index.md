@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BarcodeField. Mendapatkan keterangan dari objek barcode
+title: "BarcodeField.Caption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BarcodeField properti. Mendapatkan caption dari objek barcode"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/barcodefield/caption/
 ---
-## Properti BarcodeField.Caption
+## BarcodeField.Caption property
 
-Mendapatkan keterangan dari objek barcode.
+Mendapatkan keterangan dari objek kode batang.
 
 ```csharp
 public string Caption { get; }
@@ -16,6 +16,8 @@ public string Caption { get; }
 
 ### Lihat Juga
 
-* kelas [BarcodeField](../)
+* class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

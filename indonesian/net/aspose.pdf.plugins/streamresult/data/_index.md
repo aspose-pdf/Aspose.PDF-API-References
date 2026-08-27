@@ -1,12 +1,12 @@
 ---
-title: StreamResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StreamResult. Mendapatkan data mentah
+title: "StreamResult.Data"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StreamResult. Mengambil data mentah"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/streamresult/data/
 ---
-## Properti StreamResult.Data
+## StreamResult.Data property
 
 Mendapatkan data mentah.
 
@@ -14,12 +14,14 @@ Mendapatkan data mentah.
 public object Data { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah `object` yang mewakili data keluaran.
+`object` yang mewakili data output.
 
 ### Lihat Juga
 
-* kelas [StreamResult](../)
+* class [StreamResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

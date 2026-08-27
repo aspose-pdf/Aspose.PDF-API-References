@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.GetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DAnnotation. Mendapatkan pratinjau gambar
+title: "PDF3DAnnotation.GetImagePreview"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DAnnotation method. Mendapatkan pratinjau gambar"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/getimagepreview/
 ---
-## Metode PDF3DAnnotation.GetImagePreview
+## PDF3DAnnotation.GetImagePreview method
 
 Mendapatkan pratinjau gambar.
 
@@ -14,12 +14,14 @@ Mendapatkan pratinjau gambar.
 public Stream GetImagePreview()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Pratinjau gambar sebagai stream.
+Pratinjau gambar sebagai aliran.
 
 ### Lihat Juga
 
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

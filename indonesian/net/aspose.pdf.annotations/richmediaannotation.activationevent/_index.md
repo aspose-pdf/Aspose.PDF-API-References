@@ -1,12 +1,12 @@
 ---
-title: Enum RichMediaAnnotation.ActivationEvent
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent. Peristiwa yang mengaktifkan anotasi
+title: "Enum RichMediaAnnotation.ActivationEvent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent. Peristiwa yang mengaktifkan anotasi."
 type: docs
-weight: 2490
+weight: 2580
 url: /id/net/aspose.pdf.annotations/richmediaannotation.activationevent/
 ---
-## Enumerasi RichMediaAnnotation.ActivationEvent
+## RichMediaAnnotation.ActivationEvent enumeration
 
 Peristiwa yang mengaktifkan anotasi.
 
@@ -18,12 +18,14 @@ public enum ActivationEvent
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Klik | `0` | Diaktifkan dengan mengklik anotasi. |
-| HalamanBuka | `1` | Diaktifkan saat halaman dibuka. |
-| HalamanTampak | `2` | Diaktifkan saat halaman menjadi terlihat. |
+| Click | `0` | Diaktifkan dengan mengklik anotasi. |
+| PageOpen | `1` | Diaktifkan saat halaman dibuka. |
+| PageVisible | `2` | Diaktifkan ketika halaman menjadi terlihat. |
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../richmediaannotation/)
+* class [RichMediaAnnotation](../richmediaannotation/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

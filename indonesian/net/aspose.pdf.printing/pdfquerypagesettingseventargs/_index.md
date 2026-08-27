@@ -1,14 +1,14 @@
 ---
-title: Class PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs. Menyediakan data untuk acara PdfQueryPageSettings
+title: "Kelas PdfQueryPageSettingsEventArgs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs. Menyediakan data untuk peristiwa PdfQueryPageSettings"
 type: docs
-weight: 9640
+weight: 9790
 url: /id/net/aspose.pdf.printing/pdfquerypagesettingseventargs/
 ---
-## Kelas PdfQueryPageSettingsEventArgs
+## PdfQueryPageSettingsEventArgs class
 
-Menyediakan data untuk acara [`PdfQueryPageSettings`](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/).
+Menyediakan data untuk peristiwa [`PdfQueryPageSettings`](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/).
 
 ```csharp
 public class PdfQueryPageSettingsEventArgs : CancelEventArgs
@@ -24,9 +24,11 @@ public class PdfQueryPageSettingsEventArgs : CancelEventArgs
 
 | Nama | Deskripsi |
 | --- | --- |
-| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | Mendapatkan atau menetapkan pengaturan halaman untuk halaman yang akan dicetak. |
+| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | Mendapatkan atau mengatur pengaturan halaman untuk halaman yang akan dicetak. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TableElement.Broken
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan atau mengatur pemisahan vertikal tabel
+title: "TableElement.Broken"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableElement properti. Mendapatkan atau mengatur kerusakan vertikal tabel"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.logicalstructure/tableelement/broken/
 ---
-## Properti TableElement.Broken
+## TableElement.Broken property
 
-Mendapatkan atau mengatur pemisahan vertikal tabel;
+Mendapatkan atau mengatur tabel vertikal rusak;
 
 ```csharp
 public TableBroken Broken { get; set; }
@@ -20,3 +20,5 @@ public TableBroken Broken { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

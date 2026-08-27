@@ -1,12 +1,12 @@
 ---
-title: TextBuilder.AppendParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextBuilder. Menambahkan paragraf teks ke halaman Pdf
+title: "TextBuilder.AppendParagraph"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextBuilder. Menambahkan paragraf teks ke halaman Pdf."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/textbuilder/appendparagraph/
 ---
-## Metode TextBuilder.AppendParagraph
+## TextBuilder.AppendParagraph method
 
 Menambahkan paragraf teks ke halaman Pdf.
 
@@ -27,31 +27,33 @@ Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// buat paragraf teks
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// atur persegi panjang paragraf
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// atur opsi pembungkus kata
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// tambahkan baris string
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// tambahkan paragraf ke halaman Pdf dengan TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// simpan dokumen Pdf
 doc.Save(outFile);
 ```
 
 ### Lihat Juga
 
-* kelas [TextParagraph](../../textparagraph/)
-* kelas [TextBuilder](../)
+* class [TextParagraph](../../textparagraph/)
+* class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

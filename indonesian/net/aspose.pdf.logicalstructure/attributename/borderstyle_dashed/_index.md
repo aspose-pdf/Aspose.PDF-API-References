@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Dashed
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Attribute BorderStyle Dashed  Border adalah serangkaian segmen garis pendek
+title: "AttributeName.BorderStyle_Dashed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut BorderStyle Dashed  Garis batas adalah serangkaian segmen garis pendek"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.logicalstructure/attributename/borderstyle_dashed/
 ---
-## Field AttributeName.BorderStyle_Dashed
+## AttributeName.BorderStyle_Dashed field
 
-Attribute BorderStyle: Dashed - Border adalah serangkaian segmen garis pendek.
+Atribut BorderStyle: Dashed - Garis batas merupakan rangkaian segmen garis pendek.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Dashed;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Dashed;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

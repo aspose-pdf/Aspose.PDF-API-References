@@ -1,25 +1,27 @@
 ---
-title: StructureAttribute.GetArrayNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mendapatkan Array Nomor Nilai
+title: "StructureAttribute.GetArrayNumberValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureAttribute metode. Mengambil Nilai Number Array"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/
 ---
-## Metode StructureAttribute.GetArrayNumberValue
+## StructureAttribute.GetArrayNumberValue method
 
-Mendapatkan Array Nomor Nilai.
+Mendapatkan Value Number Array.
 
 ```csharp
 public double?[] GetArrayNumberValue()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Array Nomor Nilai.
+Nilai Number Array.
 
 ### Lihat Juga
 
-* kelas [StructureAttribute](../)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

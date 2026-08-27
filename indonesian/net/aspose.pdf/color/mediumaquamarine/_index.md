@@ -1,25 +1,27 @@
 ---
-title: Color.MediumAquamarine
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF66CDAA
+title: "Color.MediumAquamarine"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF66CDAA"
 type: docs
 weight: 830
 url: /id/net/aspose.pdf/color/mediumaquamarine/
 ---
-## Properti Color.MediumAquamarine
+## Color.MediumAquamarine property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF66CDAA.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FF66CDAA.
 
 ```csharp
 public static Color MediumAquamarine { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

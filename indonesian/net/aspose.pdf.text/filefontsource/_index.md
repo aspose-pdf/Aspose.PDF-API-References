@@ -1,14 +1,14 @@
 ---
-title: Class FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.FileFontSource. Mewakili sumber file font tunggal
+title: "Kelas FileFontSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.FileFontSource. Mewakili sumber berkas font tunggal"
 type: docs
-weight: 10490
+weight: 10670
 url: /id/net/aspose.pdf.text/filefontsource/
 ---
-## Kelas FileFontSource
+## FileFontSource class
 
-Mewakili sumber file font tunggal.
+Mewakili sumber berkas font tunggal.
 
 ```csharp
 public sealed class FileFontSource : FontSource
@@ -30,10 +30,12 @@ public sealed class FileFontSource : FontSource
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Memeriksa apakah objek sumber file font sama. |
+| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Periksa apakah objek sumber file font sama. |
 
 ### Lihat Juga
 
-* kelas [FontSource](../fontsource/)
+* class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

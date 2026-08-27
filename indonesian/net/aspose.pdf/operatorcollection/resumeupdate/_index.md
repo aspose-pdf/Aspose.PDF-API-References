@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Melanjutkan pembaruan dokumen. Memperbarui aliran konten jika ada perubahan yang tertunda. Menandai semua operator sebagai berubah jika parameter invalidate adalah true
+title: "OperatorCollection.ResumeUpdate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OperatorCollection. Melanjutkan pembaruan dokumen. Memperbarui aliran konten jika ada perubahan yang tertunda. Menandai semua operator sebagai berubah jika parameter invalidate bernilai true"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf/operatorcollection/resumeupdate/
 ---
 ## ResumeUpdate(bool) {#resumeupdate_1}
 
-Melanjutkan pembaruan dokumen. Memperbarui aliran konten jika ada perubahan yang tertunda. Menandai semua operator sebagai "berubah" jika parameter invalidate adalah true.
+Melanjutkan pembaruan dokumen. Memperbarui aliran konten jika ada perubahan yang tertunda. Menandai semua operator sebagai "changed" jika parameter invalidate bernilai true.
 
 ```csharp
 public void ResumeUpdate(bool updateAll)
@@ -20,7 +20,7 @@ public void ResumeUpdate(bool updateAll)
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,6 +36,8 @@ public override void ResumeUpdate()
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

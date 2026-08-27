@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.ForceCombs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextBoxField. Mendapatkan atau mengatur bendera yang menunjukkan apakah bidang dibagi menjadi posisi yang terpisah
+title: "TextBoxField.ForceCombs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextBoxField properti. Mendapatkan atau mengatur flag yang menunjukkan apakah bidang dibagi menjadi posisi berjarak"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/textboxfield/forcecombs/
 ---
-## Properti TextBoxField.ForceCombs
+## TextBoxField.ForceCombs property
 
-Mendapatkan atau mengatur bendera yang menunjukkan apakah bidang dibagi menjadi posisi yang terpisah.
+Mendapatkan atau mengatur flag yang menunjukkan apakah bidang dibagi menjadi posisi berjarak.
 
 ```csharp
 public bool ForceCombs { get; set; }
@@ -16,6 +16,8 @@ public bool ForceCombs { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextBoxField](../)
+* class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

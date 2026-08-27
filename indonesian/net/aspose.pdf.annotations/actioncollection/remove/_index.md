@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ActionCollection. Menghapus item dari koleksi
+title: "ActionCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ActionCollection. Menghapus item dari koleksi"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.annotations/actioncollection/remove/
 ---
-## Metode ActionCollection.Remove
+## ActionCollection.Remove method
 
 Menghapus item dari koleksi.
 
@@ -18,13 +18,15 @@ public bool Remove(PdfAction item)
 | --- | --- | --- |
 | item | PdfAction | Item yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Tidak diimplementasikan.
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../pdfaction/)
-* kelas [ActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

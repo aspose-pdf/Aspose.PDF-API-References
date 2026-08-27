@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.HeaderFooterData. Mewakili data pagination untuk header dan footer
+title: "Kelas HeaderFooterData"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.HeaderFooterData. Mewakili data paginasi untuk header dan footer"
 type: docs
-weight: 5440
+weight: 5560
 url: /id/net/aspose.pdf/headerfooterdata/
 ---
-## Kelas HeaderFooterData
+## HeaderFooterData class
 
-Mewakili data pagination untuk header dan footer.
+Mewakili data paginasi untuk header dan footer.
 
 ```csharp
 public class HeaderFooterData
@@ -31,3 +31,5 @@ public class HeaderFooterData
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

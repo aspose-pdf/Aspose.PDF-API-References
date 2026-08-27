@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ImagePlacementCollection. Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel mulai dari indeks yang ditentukan dari array target
+title: "ImagePlacementCollection.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ImagePlacementCollection metode. Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel mulai dari indeks yang ditentukan pada array target"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/imageplacementcollection/copyto/
 ---
-## Metode ImagePlacementCollection.CopyTo
+## ImagePlacementCollection.CopyTo method
 
-Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan dari array target
+Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan pada array target.
 
 ```csharp
 public void CopyTo(ImagePlacement[] array, int index)
@@ -17,11 +17,13 @@ public void CopyTo(ImagePlacement[] array, int index)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | array | ImagePlacement[] | Array objek yang akan disalin. |
-| index | Int32 | Indeks awal dari mana penyalinan akan dimulai. |
+| index | Int32 | Indeks mulai dari mana penyalinan akan dimulai. |
 
 ### Lihat Juga
 
-* kelas [ImagePlacement](../../imageplacement/)
-* kelas [ImagePlacementCollection](../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

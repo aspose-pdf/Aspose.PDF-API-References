@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.CryptographicStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Field SignatureAlgorithmInfo. Mendapatkan standar kriptografi yang digunakan untuk menandatangani dokumen PDF
+title: "SignatureAlgorithmInfo.CryptographicStandard"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field SignatureAlgorithmInfo. Mendapatkan standar kriptografi yang digunakan untuk menandatangani dokumen PDF"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/
 ---
-## Field SignatureAlgorithmInfo.CryptographicStandard
+## SignatureAlgorithmInfo.CryptographicStandard field
 
 Mendapatkan standar kriptografi yang digunakan untuk menandatangani dokumen PDF.
 
@@ -20,3 +20,5 @@ public readonly CryptographicStandard CryptographicStandard;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

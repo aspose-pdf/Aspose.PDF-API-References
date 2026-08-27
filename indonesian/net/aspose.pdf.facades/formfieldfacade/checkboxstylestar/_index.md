@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleStar
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang FormFieldFacade. Mendefinisikan gaya kotak centang bintang
+title: "FormFieldFacade.CheckBoxStyleStar"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade bidang. Menentukan gaya kotak centang bintang"
 type: docs
 weight: 440
 url: /id/net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
 ---
-## Bidang FormFieldFacade.CheckBoxStyleStar
+## FormFieldFacade.CheckBoxStyleStar field
 
 Mendefinisikan gaya kotak centang bintang.
 
@@ -16,6 +16,8 @@ public const int CheckBoxStyleStar;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

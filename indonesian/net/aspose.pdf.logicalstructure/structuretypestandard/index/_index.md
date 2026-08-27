@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Indeks Sebuah urutan entri yang berisi teks identifikasi disertai elemen referensi yang menunjukkan kejadian teks yang ditentukan dalam tubuh utama dokumen
+title: "StructureTypeStandard.Index"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Index Sebuah urutan entri yang berisi teks identifikasi disertai elemen referensi yang menunjukkan kemunculan teks yang ditentukan dalam tubuh utama dokumen."
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/index/
 ---
-## Field StructureTypeStandard.Index
+## StructureTypeStandard.Index field
 
-(Indeks) Sebuah urutan entri yang berisi teks identifikasi disertai elemen referensi yang menunjukkan kejadian teks yang ditentukan dalam tubuh utama dokumen.
+(Index) Sebuah urutan entri yang berisi teks identifikasi disertai elemen referensi yang menunjukkan kemunculan teks yang ditentukan dalam badan utama sebuah dokumen.
 
 ```csharp
 public static readonly StructureTypeStandard Index;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Index;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

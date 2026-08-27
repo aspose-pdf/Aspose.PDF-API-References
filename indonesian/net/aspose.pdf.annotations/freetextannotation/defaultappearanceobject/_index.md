@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.DefaultAppearanceObject
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FreeTextAnnotation. Objek yang mewakili penampilan default dari anotasi FreeText
+title: "FreeTextAnnotation.DefaultAppearanceObject"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FreeTextAnnotation. Objek yang mewakili penampilan default anotasi FreeText"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/freetextannotation/defaultappearanceobject/
 ---
-## Properti FreeTextAnnotation.DefaultAppearanceObject
+## FreeTextAnnotation.DefaultAppearanceObject property
 
-Objek yang mewakili penampilan default dari anotasi FreeText.
+Objek yang mewakili tampilan default anotasi FreeText.
 
 ```csharp
 public DefaultAppearance DefaultAppearanceObject { get; }
@@ -16,7 +16,9 @@ public DefaultAppearance DefaultAppearanceObject { get; }
 
 ### Lihat Juga
 
-* kelas [DefaultAppearance](../../defaultappearance/)
-* kelas [FreeTextAnnotation](../)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

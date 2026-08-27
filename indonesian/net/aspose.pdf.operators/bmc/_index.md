@@ -1,14 +1,14 @@
 ---
-title: Class BMC
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.BMC. Kelas yang mewakili operator BMC Mulai urutan konten yang ditandai
+title: "Kelas BMC"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.BMC kelas. Kelas yang merepresentasikan operator BMC untuk memulai urutan konten bertanda."
 type: docs
-weight: 7120
+weight: 7260
 url: /id/net/aspose.pdf.operators/bmc/
 ---
-## Kelas BMC
+## BMC class
 
-Kelas yang mewakili operator BMC (Mulai urutan konten yang ditandai).
+Kelas yang mewakili operator BMC (Begin marked-content sequence).
 
 ```csharp
 public class BMC : Operator
@@ -25,18 +25,20 @@ public class BMC : Operator
 | Nama | Deskripsi |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indeks operator dalam daftar operator halaman. |
-| [Tag](../../aspose.pdf.operators/bmc/tag/) { get; set; } | Mendapatkan atau mengatur tag konten yang ditandai |
+| [Tag](../../aspose.pdf.operators/bmc/tag/) { get; set; } | Mendapatkan atau mengatur tag konten yang ditandai. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bmc/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/bmc/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/bmc/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

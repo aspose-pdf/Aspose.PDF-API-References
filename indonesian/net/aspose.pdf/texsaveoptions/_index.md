@@ -1,14 +1,14 @@
 ---
-title: Class TeXSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.TeXSaveOptions. Opsi penyimpanan untuk ekspor ke format TeX
+title: "Kelas TeXSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.TeXSaveOptions. Opsi penyimpanan untuk ekspor ke format TeX"
 type: docs
-weight: 10400
+weight: 10580
 url: /id/net/aspose.pdf/texsaveoptions/
 ---
-## Kelas TeXSaveOptions
+## TeXSaveOptions class
 
-Opsi penyimpanan untuk ekspor ke format TeX
+Opsi penyimpanan untuk mengekspor ke format TeX
 
 ```csharp
 public class TeXSaveOptions : UnifiedSaveOptions
@@ -24,27 +24,27 @@ public class TeXSaveOptions : UnifiedSaveOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Mendapatkan atau menetapkan nilai boolean yang menunjukkan apakah glyph font akan disimpan sementara saat menyiapkan halaman aps. Meningkatkan kinerja konversi pdf ke format lain tetapi meningkatkan konsumsi memori. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Mendapatkan atau menetapkan nilai boolean yang menunjukkan apakah objek Response akan ditutup setelah dokumen disimpan ke dalam respons. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Atribut ini mengaktifkan fungsionalitas untuk mengekstrak gambar atau teks untuk dokumen PDF dengan sublayer OCR. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Mendapatkan atau mengatur nilai boolean yang menunjukkan apakah glif font akan di-cache saat menyiapkan halaman aps. Meningkatkan kinerja konversi PDF ke format lain tetapi meningkatkan konsumsi memori. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Mendapatkan atau mengatur nilai boolean yang menunjukkan apakah objek Response akan ditutup setelah dokumen disimpan ke dalam respons. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Atribut ini mengaktifkan fungsionalitas untuk mengekstrak gambar atau teks dari dokumen PDF dengan sublayer OCR. |
 | [OutDirectoryPath](../../aspose.pdf/texsaveoptions/outdirectorypath/) { get; set; } | Properti untuk parameter _outDirectoryPath. |
 | [PagesCount](../../aspose.pdf/texsaveoptions/pagescount/) { get; } | Mengembalikan jumlah halaman setelah konversi. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format penyimpanan data. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan apakah Lanjutkan atau Hentikan. Lanjutkan adalah tindakan default dan operasi Simpan berlanjut, namun pengguna juga dapat mengembalikan Hentikan, dalam hal ini operasi Simpan harus dihentikan. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan apa pun yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan Continue atau Abort. Continue adalah tindakan default dan operasi Save berlanjut, namun pengguna juga dapat mengembalikan Abort yang berarti operasi Save harus berhenti. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AddFontEncs](../../aspose.pdf/texsaveoptions/addfontencs/)(params string[]) | Menambahkan pengkodean font ke daftar pengkodean font |
-| [ClearFontEncs](../../aspose.pdf/texsaveoptions/clearfontencs/)() | Menghapus daftar pengkodean font |
+| [AddFontEncs](../../aspose.pdf/texsaveoptions/addfontencs/)(params string[]) | Menambahkan ancoding font ke daftar encoding font |
+| [ClearFontEncs](../../aspose.pdf/texsaveoptions/clearfontencs/)() | Mengosongkan daftar encoding font |
 
 ## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
-| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Memproses halaman dalam beberapa utas. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Terkadang PDF mengandung gambar latar belakang (halaman atau sel tabel) yang dibangun dari beberapa gambar latar belakang ubin yang sama yang diletakkan berdekatan. Dalam kasus seperti itu, perender format target (misalnya MsWord untuk format DOCS) terkadang menghasilkan batas yang terlihat antara bagian gambar latar belakang, karena teknik mereka dalam menghaluskan tepi gambar (anti-aliasing) berbeda dari Acrobat Reader. Jika terlihat bahwa dokumen yang diekspor mengandung batas yang terlihat antara bagian gambar latar belakang yang sama, silakan coba gunakan pengaturan ini untuk menghilangkan efek yang tidak diinginkan itu. PERHATIAN! Optimasi kualitas ini biasanya secara signifikan memperlambat konversi, jadi, silakan gunakan opsi ini hanya ketika benar-benar diperlukan. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Proses halaman dengan beberapa thread. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Terkadang PDF berisi gambar latar belakang (halaman atau sel tabel) yang dibangun dari beberapa gambar latar belakang berulang yang ditempatkan berdekatan. Dalam kasus seperti itu, renderer format target (mis. MsWord untuk format DOCS) kadang menghasilkan batas yang terlihat antara bagian-bagian gambar latar belakang, karena teknik penyamaran tepi gambar (anti-aliasing) mereka berbeda dari Acrobat Reader. Jika tampak bahwa dokumen yang diekspor mengandung batas terlihat antara bagian-bagian gambar latar belakang yang sama, silakan coba gunakan pengaturan ini untuk menghilangkan efek yang tidak diinginkan. PERHATIAN! Optimasi kualitas ini biasanya secara signifikan memperlambat konversi, jadi, harap gunakan opsi ini hanya ketika benar‑benar diperlukan. |
 
 ## Contoh
 
@@ -52,21 +52,21 @@ Contoh berikut menunjukkan cara mengonversi file PDF ke file TeX
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Jalur ke direktori dokumen.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// Jalur ke File PDF Anda.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf");
 
-	// The path to output TeX File.
+	// Jalur ke file TeX output.
 	var texFile= Path.Combine(dataDir, "PDF-to-TeX.tex");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
-		// Initialize TeXSaveOptions	
+		// Inisialisasi TeXSaveOptions	
 		TeXSaveOptions saveOptions = new TeXSaveOptions();
 		
-		// Save TeX file
+		// Simpan file TeX
 		pdfDocument.Save(texFile, saveOptions);
 	}
 ```
@@ -94,6 +94,8 @@ Contoh berikut menunjukkan cara mengonversi file PDF ke file TeX
 
 ### Lihat Juga
 
-* kelas [UnifiedSaveOptions](../unifiedsaveoptions/)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

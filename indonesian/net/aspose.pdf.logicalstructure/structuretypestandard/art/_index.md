@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Art
-second_title: Aspose.PDF for .NET API Reference
-description: StrukturTypeStandard field. Artikel Sebuah tubuh teks yang relatif mandiri yang merupakan narasi atau eksposisi tunggal. Artikel harus terpisah; artinya, mereka tidak boleh mengandung artikel lain sebagai elemen penyusun.
+title: "StructureTypeStandard.Art"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field StructureTypeStandard. Artikel Sebuah badan teks yang relatif mandiri yang membentuk satu narasi atau eksposisi. Artikel harus terpisah, artinya tidak boleh berisi artikel lain sebagai elemen konstituen"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/art/
 ---
-## StrukturTypeStandard.Art field
+## StructureTypeStandard.Art field
 
-(Artikel) Sebuah tubuh teks yang relatif mandiri yang merupakan narasi atau eksposisi tunggal. Artikel harus terpisah; artinya, mereka tidak boleh mengandung artikel lain sebagai elemen penyusun.
+(Article) Sebuah badan teks yang relatif mandiri yang membentuk satu narasi atau eksposisi tunggal. Artikel harus terpisah; yaitu, mereka tidak boleh berisi artikel lain sebagai elemen konstituen.
 
 ```csharp
 public static readonly StructureTypeStandard Art;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Art;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

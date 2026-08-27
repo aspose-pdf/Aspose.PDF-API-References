@@ -1,12 +1,12 @@
 ---
-title: Table.GetWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Tabel. Dapatkan lebar
+title: "Table.GetWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Table. Dapatkan lebar"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf/table/getwidth/
 ---
-## Metode Table.GetWidth
+## Table.GetWidth method
 
 Dapatkan lebar.
 
@@ -14,12 +14,14 @@ Dapatkan lebar.
 public double GetWidth()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Lebar tabel
 
 ### Lihat Juga
 
-* kelas [Table](../)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

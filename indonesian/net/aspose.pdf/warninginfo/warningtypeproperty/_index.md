@@ -1,22 +1,22 @@
 ---
-title: WarningInfo.WarningTypeProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WarningInfo. Mengembalikan jenis peringatan
+title: "WarningInfo.WarningTypeProperty"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti WarningInfo. Mengembalikan tipe peringatan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/warninginfo/warningtypeproperty/
 ---
-## Properti WarningInfo.WarningTypeProperty
+## WarningInfo.WarningTypeProperty property
 
-Mengembalikan jenis peringatan.
+Mengembalikan tipe peringatan.
 
 ```csharp
 public WarningType WarningTypeProperty { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-jenis peringatan
+tipe peringatan
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ jenis peringatan
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

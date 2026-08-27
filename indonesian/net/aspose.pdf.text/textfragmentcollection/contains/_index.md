@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentCollection. Menentukan apakah koleksi mengandung nilai tertentu
+title: "TextFragmentCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentCollection. Menentukan apakah koleksi berisi nilai tertentu"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.text/textfragmentcollection/contains/
 ---
-## Metode TextFragmentCollection.Contains
+## TextFragmentCollection.Contains method
 
-Menentukan apakah koleksi mengandung nilai tertentu.
+Menentukan apakah koleksi berisi nilai tertentu.
 
 ```csharp
 public bool Contains(TextFragment item)
@@ -18,13 +18,15 @@ public bool Contains(TextFragment item)
 | --- | --- | --- |
 | item | TextFragment | Objek yang akan dicari dalam koleksi |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika item ditemukan dalam koleksi; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../textfragment/)
-* kelas [TextFragmentCollection](../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

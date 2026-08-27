@@ -1,7 +1,7 @@
 ---
-title: PdfViewer.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfViewer. Menginisialisasi facade
+title: "PdfViewer.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfViewer. Menginisialisasi facade"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.facades/pdfviewer/bindpdf/
@@ -20,7 +20,7 @@ public void BindPdf(string srcFile)
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,7 +40,7 @@ public void BindPdf(Stream srcStream)
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,7 +60,9 @@ public void BindPdf(Document srcDoc)
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfViewer](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

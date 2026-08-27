@@ -1,14 +1,14 @@
 ---
-title: TextProperties.IsTextSizeSpecified
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextProperties. Mendapatkan atau mengatur nilai yang menunjukkan apakah properti TextSize ditentukan
+title: "TextProperties.IsTextSizeSpecified"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextProperties. Mengambil atau mengatur nilai yang menunjukkan apakah properti TextSize telah ditentukan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/textproperties/istextsizespecified/
 ---
-## Properti TextProperties.IsTextSizeSpecified
+## TextProperties.IsTextSizeSpecified property
 
-Mendapatkan atau mengatur nilai yang menunjukkan apakah properti [`TextSize`](../textsize/) ditentukan.
+Mengambil atau mengatur nilai yang menunjukkan apakah properti [`TextSize`](../textsize/) telah ditentukan.
 
 ```csharp
 public bool IsTextSizeSpecified { get; }
@@ -16,6 +16,8 @@ public bool IsTextSizeSpecified { get; }
 
 ### Lihat Juga
 
-* kelas [TextProperties](../)
+* class [TextProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

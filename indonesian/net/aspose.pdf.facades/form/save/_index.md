@@ -1,7 +1,7 @@
 ---
-title: Form.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Menyimpan dokumen ke dalam file yang ditentukan
+title: "Form.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Menyimpan dokumen ke file yang ditentukan."
 type: docs
 weight: 340
 url: /id/net/aspose.pdf.facades/form/save/
@@ -20,7 +20,7 @@ public override void Save(string destFile)
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,6 +40,8 @@ public override void Save(Stream destStream)
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

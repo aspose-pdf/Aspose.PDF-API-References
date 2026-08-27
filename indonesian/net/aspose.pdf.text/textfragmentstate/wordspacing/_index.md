@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentState. Mengambil atau mengatur jarak kata dari teks
+title: "TextFragmentState.WordSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentState. Mendapatkan atau mengatur spasi kata pada teks"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.text/textfragmentstate/wordspacing/
 ---
-## Properti TextFragmentState.WordSpacing
+## TextFragmentState.WordSpacing property
 
-Mengambil atau mengatur jarak kata dari teks.
+Mendapatkan atau mengatur spasi kata pada teks.
 
 ```csharp
 public override float WordSpacing { get; set; }
@@ -16,6 +16,8 @@ public override float WordSpacing { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.DefaultEncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SoundSampleData. Nilai default untuk format pengkodean
+title: "SoundSampleData.DefaultEncodingFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang SoundSampleData. Nilai default untuk format enkoding"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/soundsampledata/defaultencodingformat/
 ---
-## Bidang SoundSampleData.DefaultEncodingFormat
+## SoundSampleData.DefaultEncodingFormat field
 
-Nilai default untuk format pengkodean.
+Nilai default untuk format enkoding.
 
 ```csharp
 public const SoundSampleDataEncodingFormat DefaultEncodingFormat;
@@ -20,3 +20,5 @@ public const SoundSampleDataEncodingFormat DefaultEncodingFormat;
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CollectionField.V
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CollectionField. Mendapatkan visibilitas awal dari field di antarmuka pengguna. Nilai default true
+title: "CollectionField.V"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CollectionField. Mendapatkan visibilitas awal bidang dalam antarmuka pengguna. Nilai default true"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/collectionfield/v/
 ---
-## Properti CollectionField.V
+## CollectionField.V property
 
-Mendapatkan visibilitas awal dari field di antarmuka pengguna. Nilai default: true.
+Mendapatkan visibilitas awal bidang dalam antarmuka pengguna. Nilai default: true.
 
 ```csharp
 public bool V { get; }
@@ -16,6 +16,8 @@ public bool V { get; }
 
 ### Lihat Juga
 
-* kelas [CollectionField](../)
+* class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

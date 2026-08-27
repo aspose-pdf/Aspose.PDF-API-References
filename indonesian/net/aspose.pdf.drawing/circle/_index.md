@@ -1,12 +1,12 @@
 ---
-title: Class Circle
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Drawing.Circle. Mewakili lingkaran
+title: "Kelas Circle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Drawing.Circle. Mewakili lingkaran"
 type: docs
-weight: 3890
+weight: 4010
 url: /id/net/aspose.pdf.drawing/circle/
 ---
-## Kelas Lingkaran
+## Circle class
 
 Mewakili lingkaran.
 
@@ -24,11 +24,11 @@ public sealed class Circle : Shape
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau menetapkan objek [`GraphInfo`](../shape/graphinfo/) yang menunjukkan informasi grafik, seperti warna, lebar garis, dll. |
-| [PosX](../../aspose.pdf.drawing/circle/posx/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan koordinat x dari pusat lingkaran. |
-| [PosY](../../aspose.pdf.drawing/circle/posy/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan koordinat y dari pusat lingkaran. |
-| [Radius](../../aspose.pdf.drawing/circle/radius/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan jari-jari lingkaran. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Mendapatkan atau menetapkan teks untuk bentuk |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau mengatur objek [`GraphInfo`](../shape/graphinfo/) yang menunjukkan informasi grafik, seperti warna, lebar garis, dll. |
+| [PosX](../../aspose.pdf.drawing/circle/posx/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan koordinat x pusat lingkaran. |
+| [PosY](../../aspose.pdf.drawing/circle/posy/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan koordinat y pusat lingkaran. |
+| [Radius](../../aspose.pdf.drawing/circle/radius/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan radius lingkaran. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Mendapatkan atau mengatur teks untuk bentuk |
 
 ## Metode
 
@@ -38,6 +38,8 @@ public sealed class Circle : Shape
 
 ### Lihat Juga
 
-* kelas [Shape](../shape/)
+* class [Shape](../shape/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

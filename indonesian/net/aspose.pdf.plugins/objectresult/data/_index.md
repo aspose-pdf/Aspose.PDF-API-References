@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ObjectResult. Mendapatkan data mentah
+title: "ObjectResult.Data"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ObjectResult. Mendapatkan data mentah"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/objectresult/data/
 ---
-## Properti ObjectResult.Data
+## ObjectResult.Data property
 
 Mendapatkan data mentah.
 
@@ -14,12 +14,14 @@ Mendapatkan data mentah.
 public object Data { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah `object` yang mewakili data keluaran.
+`object` yang mewakili data output.
 
 ### Lihat Juga
 
-* kelas [ObjectResult](../)
+* class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

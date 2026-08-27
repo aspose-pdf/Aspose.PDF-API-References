@@ -1,14 +1,14 @@
 ---
-title: Class NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.NamedAction. Mewakili tindakan bernama yang diharapkan didukung oleh aplikasi penampil PDF
+title: "Kelas NamedAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.NamedAction class. Mewakili aksi bernama yang diharapkan didukung oleh aplikasi penampil PDF."
 type: docs
-weight: 2120
+weight: 2210
 url: /id/net/aspose.pdf.annotations/namedaction/
 ---
-## Kelas NamedAction
+## NamedAction class
 
-Mewakili tindakan bernama yang diharapkan didukung oleh aplikasi penampil PDF.
+Mewakili aksi bernama yang diharapkan didukung oleh aplikasi penampil PDF.
 
 ```csharp
 public sealed class NamedAction : PdfAction
@@ -24,17 +24,19 @@ public sealed class NamedAction : PdfAction
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | Mendapatkan atau menetapkan tindakan yang akan dilakukan. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Tindakan berikutnya dalam urutan. |
+| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | Mendapatkan atau mengatur aksi yang akan dilakukan. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Aksi berikutnya dalam urutan. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk Tindakan ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk ECMAScript Action. |
 
 ### Lihat Juga
 
-* kelas [PdfAction](../pdfaction/)
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreResponse.VectorStoreResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor VectorStoreResponse. Konstruktor default
+title: "VectorStoreResponse.VectorStoreResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor VectorStoreResponse. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/vectorstoreresponse/vectorstoreresponse/
 ---
-## Konstruktor VectorStoreResponse
+## VectorStoreResponse constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public VectorStoreResponse()
 
 ### Lihat Juga
 
-* kelas [VectorStoreResponse](../)
+* class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

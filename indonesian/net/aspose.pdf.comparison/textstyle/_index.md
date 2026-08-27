@@ -1,12 +1,12 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Comparison.TextStyle. Mewakili kelas gaya teks
+title: "Class TextStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Comparison.TextStyle. Mewakili kelas gaya teks"
 type: docs
-weight: 3330
+weight: 3440
 url: /id/net/aspose.pdf.comparison/textstyle/
 ---
-## Kelas TextStyle
+## TextStyle class
 
 Mewakili kelas gaya teks.
 
@@ -31,3 +31,5 @@ public class TextStyle
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

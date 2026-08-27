@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.I
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Matrix3D. Anggota I dari matriks transformasi
+title: "Matrix3D.I"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Matrix3D. Anggota I dari matriks transformasi"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/matrix3d/i/
 ---
-## Properti Matrix3D.I
+## Matrix3D.I property
 
 Anggota I dari matriks transformasi.
 
@@ -16,6 +16,8 @@ public double I { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix3D](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

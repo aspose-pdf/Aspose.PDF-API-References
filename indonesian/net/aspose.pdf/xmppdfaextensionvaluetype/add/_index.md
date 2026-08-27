@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpPdfAExtensionValueType. Tambahkan bidang baru
+title: "XmpPdfAExtensionValueType.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpPdfAExtensionValueType. Menambahkan bidang baru"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/xmppdfaextensionvaluetype/add/
 ---
-## Metode XmpPdfAExtensionValueType.Add
+## XmpPdfAExtensionValueType.Add method
 
 Tambahkan bidang baru.
 
@@ -16,11 +16,13 @@ public void Add(XmpPdfAExtensionField field)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | Bidang yang akan ditambahkan. |
+| bidang | XmpPdfAExtensionField | Bidang yang akan ditambahkan. |
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* kelas [XmpPdfAExtensionValueType](../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

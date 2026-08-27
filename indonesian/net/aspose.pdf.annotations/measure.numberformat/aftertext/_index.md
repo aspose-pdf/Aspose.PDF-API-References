@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.AfterText
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberFormat. Teks yang akan digabungkan setelah label
+title: "Measure.NumberFormat.AfterText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti NumberFormat. Teks yang akan digabungkan setelah label"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/measure.numberformat/aftertext/
 ---
-## Properti Measure.NumberFormat.AfterText
+## Measure.NumberFormat.AfterText property
 
 Teks yang akan digabungkan setelah label
 
@@ -16,6 +16,8 @@ public string AfterText { get; set; }
 
 ### Lihat Juga
 
-* kelas [NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

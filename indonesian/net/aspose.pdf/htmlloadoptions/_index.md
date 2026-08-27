@@ -1,12 +1,12 @@
 ---
-title: Class HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.HtmlLoadOptions. Mewakili opsi untuk memuat/mengimpor file html ke dalam dokumen pdf
+title: "Class HtmlLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.HtmlLoadOptions class. Mewakili opsi untuk memuat/mengimpor file html ke dalam dokumen pdf"
 type: docs
-weight: 5530
+weight: 5660
 url: /id/net/aspose.pdf/htmlloadoptions/
 ---
-## Kelas HtmlLoadOptions
+## HtmlLoadOptions class
 
 Mewakili opsi untuk memuat/mengimpor file html ke dalam dokumen pdf.
 
@@ -18,31 +18,31 @@ public sealed class HtmlLoadOptions : LoadOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [HtmlLoadOptions](htmlloadoptions/#constructor)() | Membuat opsi muat untuk mengonversi html menjadi dokumen pdf dengan jalur dasar kosong. |
-| [HtmlLoadOptions](htmlloadoptions/#constructor_1)(string) | Membuat opsi muat untuk mengonversi html menjadi dokumen pdf dengan jalur dasar yang ditentukan. |
+| [HtmlLoadOptions](htmlloadoptions/#constructor)() | Membuat opsi pemuatan untuk mengonversi html menjadi dokumen pdf dengan jalur dasar kosong. |
+| [HtmlLoadOptions](htmlloadoptions/#constructor_1)(string) | Membuat opsi pemuatan untuk mengonversi html menjadi dokumen pdf dengan jalur dasar yang ditentukan. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | Jalur/url dasar untuk file html. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau menetapkan flag untuk menonaktifkan batasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan untuk melakukan operasi dengan font yang dilarang oleh lisensi font ini, misalnya memungkinkan untuk menyematkan font ke dalam dokumen PDF meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
-| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Mendapatkan atau menetapkan jenis media yang mungkin digunakan selama rendering. |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Mendapatkan atau menetapkan atribut yang menentukan pengkodean yang digunakan untuk dokumen ini pada saat parsing. Jika atribut ini null, pengkodean akan ditentukan dari atribut set karakter dokumen. |
-| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Mendapatkan atau menetapkan penyematan font ke dokumen hasil |
-| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | Mendapatkan atau menetapkan flag yang menentukan bahwa aturan @page yang didefinisikan dalam css akan menggantikan nilai yang ditentukan dalam PageInfo. |
-| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | Mendapatkan atau menetapkan rendering semua dokumen ke satu halaman |
+| [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | Jalur/URL dasar untuk file html. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau mengatur bendera untuk menonaktifkan semua pembatasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan melakukan operasi dengan font yang dilarang oleh lisensi font tersebut, misalnya memungkinkan menyematkan font ke dalam PDF document meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
+| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Mendapatkan atau mengatur tipe media yang mungkin digunakan selama rendering. |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Mendapatkan atau mengatur atribut yang menentukan enkoding yang digunakan untuk dokumen ini pada saat parsing. Jika atribut ini null, enkoding akan ditentukan dari atribut set karakter dokumen. |
+| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Mendapatkan atau mengatur penyematan font ke dokumen hasil |
+| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | Mendapatkan atau mengatur flag yang menentukan bahwa aturan @page yang didefinisikan dalam css akan menimpa nilai yang didefinisikan dalam PageInfo. |
+| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | Mendapatkan atau mengatur rendering seluruh dokumen ke satu halaman |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Mewakili format file yang dijelaskan oleh [`LoadOptions`](../loadoptions/). |
-| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Mendapatkan atau menetapkan informasi halaman dokumen |
-| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | Mendapatkan atau menetapkan opsi tata letak. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan baik Lanjutkan atau Hentikan. Lanjutkan adalah tindakan default dan operasi Muat berlanjut, namun pengguna juga dapat mengembalikan Hentikan di mana kasus operasi Muat harus dihentikan. |
+| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Mendapatkan atau mengatur info halaman dokumen |
+| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | Mendapatkan atau mengatur opsi tata letak. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan apa pun yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan apakah Continue atau Abort. Continue adalah tindakan default dan operasi Load berlanjut, namun pengguna juga dapat mengembalikan Abort yang berarti operasi Load harus berhenti. |
 
 ## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | Terkadang perlu untuk menghindari penggunaan pemuat internal sumber daya eksternal (seperti gambar atau CSS) dan menyediakan metode kustom yang akan mendapatkan sumber daya yang diminta dari suatu tempat. Misalnya, selama penggunaan Aspose.PDF di cloud, akses langsung ke file yang dirujuk tidak mungkin: dalam kasus seperti itu, beberapa kode kustom yang dimasukkan ke dalam metode khusus harus digunakan, dan delegasi yang merujuk metode tersebut harus ditugaskan ke atribut ini. |
-| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | Jika pemuatan data eksternal yang dirujuk dalam HTML memerlukan kredensial, Anda dapat menempatkannya ke dalam parameter ini - mereka akan digunakan selama pemuatan sumber daya eksternal |
+| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | Terkadang diperlukan untuk menghindari penggunaan pemuat internal sumber daya eksternal (seperti gambar atau CSS) dan menyediakan metode khusus yang akan mengambil sumber daya yang diminta dari suatu tempat. Misalnya, selama penggunaan Aspose.PDF di cloud akses langsung ke file yang direferensikan tidak memungkinkan: dalam kasus seperti itu kode khusus yang dimasukkan ke dalam metode khusus harus digunakan, dan delegasi yang merujuk ke metode tersebut harus ditetapkan ke atribut ini. |
+| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | Jika pemuatan data eksternal yang direferensikan dalam HTML memerlukan kredensial, Anda dapat menaruhnya ke parameter ini - mereka akan digunakan selama pemuatan sumber daya eksternal |
 
 ## Contoh
 
@@ -50,21 +50,21 @@ Contoh berikut menunjukkan cara mengonversi file HTML ke file PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Jalur ke direktori dokumen.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your HTML File.
+	// Jalur ke File HTML Anda.
 	string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
 
-	// The path to output PDF File.
+	// Jalur ke file PDF output.
 	string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
 
-	// Initialize HtmlLoadOptions	
+	// Inisialisasi HtmlLoadOptions	
 	HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions))
 	{ 
-		// Save PDF file
+		// Simpan file PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -93,6 +93,8 @@ Contoh berikut menunjukkan cara mengonversi file HTML ke file PDF
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../loadoptions/)
+* class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

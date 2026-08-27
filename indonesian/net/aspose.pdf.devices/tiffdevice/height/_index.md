@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffDevice. Mendapatkan tinggi output gambar
+title: "TiffDevice.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TiffDevice. Mendapatkan tinggi keluaran gambar"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.devices/tiffdevice/height/
 ---
-## Properti TiffDevice.Height
+## TiffDevice.Height property
 
 Mendapatkan tinggi output gambar.
 
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### Lihat Juga
 
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

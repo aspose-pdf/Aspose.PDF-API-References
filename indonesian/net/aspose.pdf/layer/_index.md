@@ -1,14 +1,14 @@
 ---
-title: Class Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Layer. Mewakili sebuah layer dalam halaman PDF
+title: "Kelas Layer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Layer. Mewakili lapisan dalam halaman PDF"
 type: docs
-weight: 6060
+weight: 6190
 url: /id/net/aspose.pdf/layer/
 ---
-## Kelas Layer
+## Layer class
 
-Mewakili sebuah layer dalam halaman PDF.
+Mewakili lapisan dalam halaman PDF.
 
 ```csharp
 public class Layer
@@ -18,29 +18,31 @@ public class Layer
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Layer](layer/)(string, string) | Menginisialisasi sebuah instance baru dari kelas `Layer`. |
+| [Layer](layer/)(string, string) | Menginisialisasi instance baru dari kelas `Layer`. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Contents](../../aspose.pdf/layer/contents/) { get; } | Mendapatkan konten layer. |
-| [Id](../../aspose.pdf/layer/id/) { get; } | Mendapatkan id layer. |
-| [Locked](../../aspose.pdf/layer/locked/) { get; } | Mendapatkan nilai yang menunjukkan apakah layer terkunci. |
-| [Name](../../aspose.pdf/layer/name/) { get; } | Mendapatkan nama layer. |
+| [Contents](../../aspose.pdf/layer/contents/) { get; } | Mendapatkan konten lapisan. |
+| [Id](../../aspose.pdf/layer/id/) { get; } | Mendapatkan id lapisan. |
+| [Locked](../../aspose.pdf/layer/locked/) { get; } | Mendapatkan nilai yang menunjukkan apakah lapisan terkunci. |
+| [Name](../../aspose.pdf/layer/name/) { get; } | Mendapatkan nama lapisan. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Delete](../../aspose.pdf/layer/delete/)() | Menghapus layer saat ini dari dokumen PDF. |
-| [Flatten](../../aspose.pdf/layer/flatten/)(bool) | Meratakan layer yang ditentukan. |
-| [Lock](../../aspose.pdf/layer/lock/)() | Mengunci layer. |
-| [Save](../../aspose.pdf/layer/save/#save)(Stream) | Menyimpan layer saat ini ke dokumen PDF. |
-| [Save](../../aspose.pdf/layer/save/#save_1)(string) | Menyimpan layer saat ini ke dokumen PDF. |
-| [Unlock](../../aspose.pdf/layer/unlock/)() | Membuka kunci layer. |
+| [Delete](../../aspose.pdf/layer/delete/)() | Menghapus lapisan saat ini dari dokumen PDF. |
+| [Flatten](../../aspose.pdf/layer/flatten/)(bool) | Meratakan lapisan yang ditentukan. |
+| [Lock](../../aspose.pdf/layer/lock/)() | Mengunci lapisan. |
+| [Save](../../aspose.pdf/layer/save/#save)(Stream) | Menyimpan lapisan saat ini ke dokumen PDF. |
+| [Save](../../aspose.pdf/layer/save/#save_1)(string) | Menyimpan lapisan saat ini ke dokumen PDF. |
+| [Unlock](../../aspose.pdf/layer/unlock/)() | Membuka kunci lapisan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

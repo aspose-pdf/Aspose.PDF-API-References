@@ -1,14 +1,14 @@
 ---
-title: Class FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.FormattedText. Kelas yang mewakili teks terformat. Mengandung informasi tentang teks dan warna, ukuran, gaya.
+title: "Kelas FormattedText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.FormattedText kelas. Kelas yang mewakili teks terformat. Berisi informasi tentang teks serta warna, ukuran, dan gaya."
 type: docs
-weight: 4350
+weight: 4470
 url: /id/net/aspose.pdf.facades/formattedtext/
 ---
-## Kelas FormattedText
+## FormattedText class
 
-Kelas yang mewakili teks terformat. Mengandung informasi tentang teks dan warna, ukuran, gaya.
+Kelas yang mewakili teks terformat. Berisi informasi tentang teks serta warna, ukuran, dan gaya nya.
 
 ```csharp
 public sealed class FormattedText
@@ -28,7 +28,7 @@ public sealed class FormattedText
 | [FormattedText](formattedtext/#constructor_11)(string, Color, Color, string, EncodingType, bool, float) | Menginisialisasi FormattedText. |
 | [FormattedText](formattedtext/#constructor_7)(string, Color, FontStyle, EncodingType, bool, float, float) | Menginisialisasi FormattedText. |
 | [FormattedText](formattedtext/#constructor_2)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) | Menginisialisasi FormattedText. |
-| [FormattedText](formattedtext/#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Menginisialisasi FormattedText. |
+| [FormattedText](formattedtext/#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Inisialisasi FormattedText. |
 | [FormattedText](formattedtext/#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | Menginisialisasi FormattedText. |
 | [FormattedText](formattedtext/#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | Menginisialisasi FormattedText. |
 
@@ -43,8 +43,8 @@ public sealed class FormattedText
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | Menambahkan baris baru ke objek FormattedText dan mengatur newLineText ke teks baris berikutnya. |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | Menambahkan baris baru ke objek FormattedText dan mengatur newLineText ke teks baris berikutnya. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | Menambahkan baris baru ke objek FormattedText dan menetapkan newLineText ke teks baris berikutnya. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | Menambahkan baris baru ke objek FormattedText dan menetapkan newLineText ke teks baris berikutnya. |
 | [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | Memeriksa apakah teks adalah CJK (Cina, Jepang, atau Korea). |
 | [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | Mengubah gaya font FormattedText untuk font CJK (Cina, Jepang, atau Korea). |
 
@@ -52,3 +52,5 @@ public sealed class FormattedText
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

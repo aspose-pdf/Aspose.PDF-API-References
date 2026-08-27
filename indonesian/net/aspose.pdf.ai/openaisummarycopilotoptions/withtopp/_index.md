@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAISummaryCopilotOptions. Mengatur nilai top P untuk opsi copilot ringkasan
+title: "OpenAISummaryCopilotOptions.WithTopP"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAISummaryCopilotOptions. Menetapkan nilai top P untuk opsi copilot ringkasan"
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/withtopp/
 ---
-## Metode OpenAISummaryCopilotOptions.WithTopP
+## OpenAISummaryCopilotOptions.WithTopP method
 
 Mengatur nilai top P untuk opsi copilot ringkasan.
 
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithTopP(double? topP)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| topP | Nullable`1 | Nilai top P yang akan diatur. |
+| topP | Nullable`1 | Nilai top P yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

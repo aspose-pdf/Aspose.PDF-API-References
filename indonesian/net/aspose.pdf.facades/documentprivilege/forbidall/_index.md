@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.ForbidAll
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Semua Dilarang
+title: "DocumentPrivilege.ForbidAll"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Semua Dilarang."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/documentprivilege/forbidall/
 ---
-## Properti DocumentPrivilege.ForbidAll
+## DocumentPrivilege.ForbidAll property
 
-Semua Dilarang.
+Semua dilarang.
 
 ```csharp
 public static DocumentPrivilege ForbidAll { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege ForbidAll { get; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

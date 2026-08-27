@@ -1,14 +1,14 @@
 ---
-title: Enum ExcelSaveOptions.ExcelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ExcelSaveOptionsExcelFormat dari Aspose.Pdf. Memungkinkan untuk menentukan format file .xlsx .xls/xml atau csv. Nilai default adalah XLSX
+title: "Enum ExcelSaveOptions.ExcelFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.ExcelSaveOptionsExcelFormat. Memungkinkan menentukan format file .xlsx .xls/xml atau csv. Nilai default adalah XLSX"
 type: docs
-weight: 4090
+weight: 4210
 url: /id/net/aspose.pdf/excelsaveoptions.excelformat/
 ---
-## Enumerasi ExcelSaveOptions.ExcelFormat
+## ExcelSaveOptions.ExcelFormat enumeration
 
-Memungkinkan untuk menentukan format file .xlsx, .xls/xml atau csv. Nilai default adalah XLSX;
+Memungkinkan menentukan format file .xlsx, .xls/xml atau csv. Nilai default adalah XLSX;
 
 ```csharp
 public enum ExcelFormat
@@ -19,13 +19,15 @@ public enum ExcelFormat
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | XMLSpreadSheet2003 | `0` | Format XML Excel 2003 |
-| XLSX | `1` | Format File Office Open XML (.xlsx) |
-| CSV | `2` | Format File nilai yang dipisahkan koma (CSV) |
-| XLSM | `3` | Format File Office Open XML yang diaktifkan makro (.xlsm) |
+| XLSX | `1` | Format Berkas Office Open XML (.xlsx) |
+| CSV | `2` | Sebuah format berkas nilai yang dipisahkan koma (CSV) |
+| XLSM | `3` | Sebuah format berkas Office Open XML (.xlsm) yang mendukung makro |
 | ODS | `4` | Spreadsheet OpenDocument |
 
 ### Lihat Juga
 
-* kelas [ExcelSaveOptions](../excelsaveoptions/)
+* class [ExcelSaveOptions](../excelsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

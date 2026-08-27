@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.UnitLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberFormat. Sebuah string teks yang menentukan label untuk menampilkan unit
+title: "Measure.NumberFormat.UnitLabel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti NumberFormat. String teks yang menentukan label untuk menampilkan satuan"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.annotations/measure.numberformat/unitlabel/
 ---
-## Properti Measure.NumberFormat.UnitLabel
+## Measure.NumberFormat.UnitLabel property
 
-Sebuah string teks yang menentukan label untuk menampilkan unit.
+String teks yang menentukan label untuk menampilkan satuan.
 
 ```csharp
 public string UnitLabel { get; set; }
@@ -16,6 +16,8 @@ public string UnitLabel { get; set; }
 
 ### Lihat Juga
 
-* kelas [NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.GlyphPosition. Kelas ini menggambarkan teks dan posisi yang digunakan dengan operator TJ untuk mengatur glyph dengan posisi
+title: "Kelas GlyphPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operators.GlyphPosition. Kelas yang menjelaskan teks dan posisi yang digunakan dengan operator TJ untuk mengatur glyph dengan posisi"
 type: docs
-weight: 7420
+weight: 7560
 url: /id/net/aspose.pdf.operators/glyphposition/
 ---
-## Kelas GlyphPosition
+## GlyphPosition class
 
-Kelas ini menggambarkan teks dan posisi yang digunakan dengan operator TJ (mengatur glyph dengan posisi)
+Kelas yang menjelaskan teks dan posisi untuk digunakan dengan operator TJ (mengatur glif dengan posisi)
 
 ```csharp
 public class GlyphPosition
@@ -19,16 +19,18 @@ public class GlyphPosition
 | Nama | Deskripsi |
 | --- | --- |
 | [GlyphPosition](glyphposition/#constructor)(string) | Konstruktor untuk Glyph Position. |
-| [GlyphPosition](glyphposition/#constructor_1)(string, double) | Mengkonstruksi posisi glyph. |
+| [GlyphPosition](glyphposition/#constructor_1)(string, double) | Membuat glyph position. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Posisi dari teks dalam operator. |
-| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | Teks dari operator. |
+| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Posisi di luar teks dalam operator. |
+| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | Teks operator. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

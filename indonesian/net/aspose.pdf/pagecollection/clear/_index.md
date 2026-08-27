@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Hapus koleksi halaman
+title: "PageCollection.Clear"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PageCollection. Menghapus koleksi halaman"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/pagecollection/clear/
 ---
-## Metode PageCollection.Clear
+## PageCollection.Clear method
 
-Hapus koleksi halaman.
+Menghapus semua halaman dalam koleksi.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Lihat Juga
 
-* kelas [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

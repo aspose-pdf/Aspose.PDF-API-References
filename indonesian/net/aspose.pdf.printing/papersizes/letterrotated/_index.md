@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterRotated
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas letter yang diputar 11 in. x 8.5 in
+title: "PaperSizes.LetterRotated"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PaperSizes. Kertas Letter yang diputar 11 in. x 8.5 in"
 type: docs
 weight: 690
 url: /id/net/aspose.pdf.printing/papersizes/letterrotated/
 ---
-## Bidang PaperSizes.LetterRotated
+## PaperSizes.LetterRotated field
 
-Kertas letter yang diputar (11 in. x 8.5 in.).
+Kertas Letter diputar (11 in. x 8.5 in.).
 
 ```csharp
 public static readonly PaperSize LetterRotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize LetterRotated;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

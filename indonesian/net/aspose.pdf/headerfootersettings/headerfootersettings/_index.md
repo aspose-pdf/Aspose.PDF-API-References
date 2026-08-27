@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HeaderFooterSettings. Konstruktor default
+title: "HeaderFooterSettings.HeaderFooterSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HeaderFooterSettings konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/headerfootersettings/headerfootersettings/
 ---
-## Konstruktor HeaderFooterSettings
+## HeaderFooterSettings constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public HeaderFooterSettings()
 
 ### Lihat Juga
 
-* kelas [HeaderFooterSettings](../)
+* class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

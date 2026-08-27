@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Number10Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Amplop 10 4.125 in. x 9.5 in
+title: "PaperSizes.Number10Envelope"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. Amplop 10 4.125 in. x 9.5 in"
 type: docs
 weight: 740
 url: /id/net/aspose.pdf.printing/papersizes/number10envelope/
 ---
-## Bidang PaperSizes.Number10Envelope
+## PaperSizes.Number10Envelope field
 
 Amplop #10 (4.125 in. x 9.5 in.).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize Number10Envelope;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TOCI
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Item daftar isi Anggota individu dari daftar isi. Anak dari entri ini dapat berupa salah satu dari jenis struktur berikut
+title: "StructureTypeStandard.TOCI"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field StructureTypeStandard. Item daftar isi Anggota individu dari sebuah daftar isi. Anak dari entri ini dapat berupa salah satu tipe struktur berikut"
 type: docs
 weight: 450
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
-## Field StructureTypeStandard.TOCI
+## StructureTypeStandard.TOCI field
 
-(Item daftar isi) Anggota individu dari daftar isi. Anak dari entri ini dapat berupa salah satu dari jenis struktur berikut:
+(Item daftar isi) Sebuah anggota individu dari daftar isi. Anak entri ini dapat berupa salah satu tipe struktur berikut:
 
 **Lbl**
 
@@ -16,11 +16,11 @@ Sebuah label
 
 **Reference**
 
-Sebuah referensi ke judul dan nomor halaman
+Referensi ke judul dan nomor halaman
 
 **NonStruct**
 
-Elemen non-struktur untuk membungkus artefak pemimpin
+Elemen non‑struktur untuk membungkus artefak pemimpin
 
 **P**
 
@@ -28,7 +28,7 @@ Teks deskriptif
 
 **TOC**
 
-Elemen daftar isi untuk tabel daftar isi hierarkis, seperti yang dijelaskan untuk entri TOC
+Elemen daftar isi untuk tabel isi hierarkis, seperti yang dijelaskan untuk entri TOC
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;
@@ -36,6 +36,8 @@ public static readonly StructureTypeStandard TOCI;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

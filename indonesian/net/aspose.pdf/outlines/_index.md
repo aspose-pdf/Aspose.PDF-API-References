@@ -1,14 +1,14 @@
 ---
-title: Class Outlines
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Outlines. Kelas ini menggambarkan koleksi garis besar
+title: "Kelas Outlines"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Outlines. Kelas ini menggambarkan koleksi outline."
 type: docs
-weight: 8020
+weight: 8160
 url: /id/net/aspose.pdf/outlines/
 ---
-## Kelas Garis Besar
+## Outlines class
 
-Kelas ini menggambarkan koleksi garis besar.
+Kelas menggambarkan kumpulan outline.
 
 ```csharp
 public abstract class Outlines : ICollection<OutlineItemCollection>
@@ -19,22 +19,24 @@ public abstract class Outlines : ICollection<OutlineItemCollection>
 | Nama | Deskripsi |
 | --- | --- |
 | abstract [Count](../../aspose.pdf/outlines/count/) { get; } | Mendapatkan jumlah. |
-| abstract [IsReadOnly](../../aspose.pdf/outlines/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca. |
-| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount/) { get; } | Mendapatkan total jumlah item garis besar di semua level dalam hierarki garis besar dokumen. |
+| abstract [IsReadOnly](../../aspose.pdf/outlines/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan apakah koleksi bersifat read-only. |
+| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount/) { get; } | Mendapatkan total jumlah item outline pada semua level dalam hierarki outline dokumen. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| abstract [Add](../../aspose.pdf/outlines/add/)(OutlineItemCollection) | Menambahkan item garis besar ke koleksi. |
-| abstract [Clear](../../aspose.pdf/outlines/clear/)() | Menghapus semua item dari koleksi. |
+| abstract [Add](../../aspose.pdf/outlines/add/)(OutlineItemCollection) | Menambahkan item outline ke koleksi. |
+| abstract [Clear](../../aspose.pdf/outlines/clear/)() | Mengosongkan semua item dari koleksi. |
 | abstract [Contains](../../aspose.pdf/outlines/contains/)(OutlineItemCollection) | Selalu melempar NotImplementedException. |
-| abstract [CopyTo](../../aspose.pdf/outlines/copyto/)(OutlineItemCollection[], int) | Menyalin entri garis besar ke dalam System.Array, mulai dari indeks System.Array tertentu. |
-| abstract [GetEnumerator](../../aspose.pdf/outlines/getenumerator/)() | Mengembalikan enumerator yang mengiterasi melalui koleksi. |
-| abstract [Remove](../../aspose.pdf/outlines/remove/)(OutlineItemCollection) | Menghapus item koleksi garis besar. |
+| abstract [CopyTo](../../aspose.pdf/outlines/copyto/)(OutlineItemCollection[], int) | Menyalin entri outline ke System.Array, mulai pada indeks System.Array tertentu. |
+| abstract [GetEnumerator](../../aspose.pdf/outlines/getenumerator/)() | Mengembalikan enumerator yang mengiterasi koleksi. |
+| abstract [Remove](../../aspose.pdf/outlines/remove/)(OutlineItemCollection) | Menghapus item koleksi outline. |
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../outlineitemcollection/)
+* class [OutlineItemCollection](../outlineitemcollection/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

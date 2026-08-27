@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TR
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Baris tabel Sebuah baris judul atau data dalam tabel. Ini dapat berisi sel header tabel dan sel data tabel. tipe struktur TH dan TD
+title: "StructureTypeStandard.TR"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field StructureTypeStandard. Baris tabel Baris berisi judul atau data dalam sebuah tabel. Bisa berisi sel header tabel dan sel data tabel dengan tipe struktur TH dan TD"
 type: docs
 weight: 460
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/tr/
 ---
-## Field StructureTypeStandard.TR
+## StructureTypeStandard.TR field
 
-(Baris tabel) Sebuah baris judul atau data dalam tabel. Ini dapat berisi sel header tabel dan sel data tabel (tipe struktur TH dan TD).
+(Table row) Baris judul atau data dalam sebuah tabel. Itu dapat berisi sel header tabel dan sel data tabel (tipe struktur TH dan TD).
 
 ```csharp
 public static readonly StructureTypeStandard TR;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TR;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

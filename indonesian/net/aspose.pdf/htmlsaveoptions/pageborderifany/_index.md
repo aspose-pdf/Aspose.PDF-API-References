@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.PageBorderIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. Atribut ini mewakili sekumpulan pengaturan yang digunakan untuk menggambar batas jika ada di dokumen HTML hasil di sekitar area yang mewakili halaman PDF sumber. Pada dasarnya, ini berkaitan dengan menunjukkan tepi kertas halaman, bukan batas halaman yang dirujuk dalam halaman PDF itu sendiri.
+title: "HtmlSaveOptions.PageBorderIfAny"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang HtmlSaveOptions. Atribut ini mewakili sekumpulan pengaturan yang digunakan untuk menggambar batas (jika ada) dalam dokumen HTML hasil di sekitar area yang mewakili halaman PDF sumber. Pada dasarnya ini berkaitan dengan penampilan tepi kertas halaman, bukan batas halaman yang direferensikan dalam halaman PDF itu sendiri."
 type: docs
 weight: 360
 url: /id/net/aspose.pdf/htmlsaveoptions/pageborderifany/
 ---
 ## HtmlSaveOptions.PageBorderIfAny field
 
-Atribut ini mewakili sekumpulan pengaturan yang digunakan untuk menggambar batas (jika ada) di dokumen HTML hasil di sekitar area yang mewakili halaman PDF sumber. Pada dasarnya, ini berkaitan dengan menunjukkan tepi kertas halaman, bukan batas halaman yang dirujuk dalam halaman PDF itu sendiri.
+Atribut ini mewakili sekumpulan pengaturan yang digunakan untuk menggambar batas (jika ada) dalam dokumen HTML hasil di sekitar area yang mewakili halaman PDF sumber. Pada dasarnya ini berkaitan dengan penampilan tepi kertas halaman, bukan batas halaman yang direferensikan dalam halaman PDF itu sendiri.
 
 ```csharp
 public BorderInfo PageBorderIfAny;
 ```
 
-### See Also
+### Lihat Juga
 
 * class [BorderInfo](../../saveoptions.borderinfo/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

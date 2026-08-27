@@ -1,25 +1,27 @@
 ---
-title: Graph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Graph. Kloning grafik
+title: "Graph.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Graph. Menggandakan grafik"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.drawing/graph/clone/
 ---
-## Metode Graph.Clone
+## Graph.Clone method
 
-Kloning grafik.
+Menggandakan grafik.
 
 ```csharp
 public override object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [Graph](../)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.HtmlMediaType. Menentukan jenis media yang mungkin digunakan selama rendering
+title: "Enum HtmlMediaType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.HtmlMediaType enum. Menentukan tipe media yang mungkin digunakan selama rendering"
 type: docs
-weight: 5540
+weight: 5670
 url: /id/net/aspose.pdf/htmlmediatype/
 ---
-## Enumerasi HtmlMediaType
+## HtmlMediaType enumeration
 
-Menentukan jenis media yang mungkin digunakan selama rendering.
+Menentukan tipe media yang mungkin digunakan selama rendering.
 
 ```csharp
 public enum HtmlMediaType
@@ -25,3 +25,5 @@ public enum HtmlMediaType
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

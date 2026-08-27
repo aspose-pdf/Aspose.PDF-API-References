@@ -1,25 +1,27 @@
 ---
-title: Color.Transparent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan oleh sistem
+title: "Color.Transparent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem"
 type: docs
 weight: 1350
 url: /id/net/aspose.pdf/color/transparent/
 ---
-## Properti Color.Transparent
+## Color.Transparent property
 
-Mendapatkan warna yang ditentukan oleh sistem.
+Mendapatkan warna yang didefinisikan sistem.
 
 ```csharp
 public static Color Transparent { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan oleh sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

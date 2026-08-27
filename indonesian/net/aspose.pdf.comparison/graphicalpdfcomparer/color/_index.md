@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphicalPdfComparer. Mengambil dan mengatur warna bendera perubahan. Warna default adalah merah
+title: "GraphicalPdfComparer.Color"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphicalPdfComparer. Mendapatkan dan mengatur warna bendera perubahan. Warna default adalah merah"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.comparison/graphicalpdfcomparer/color/
 ---
-## Properti GraphicalPdfComparer.Color
+## GraphicalPdfComparer.Color property
 
-Mengambil dan mengatur warna bendera perubahan. Warna default adalah merah.
+Mendapatkan dan mengatur warna bendera perubahan. Warna default adalah merah.
 
 ```csharp
 public Color Color { get; set; }
@@ -16,7 +16,9 @@ public Color Color { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [GraphicalPdfComparer](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

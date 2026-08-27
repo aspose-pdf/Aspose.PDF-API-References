@@ -1,12 +1,12 @@
 ---
-title: Artifact.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Artifact. Status teks untuk teks artefak
+title: "Artifact.TextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Artifact property. Status teks untuk teks artefak"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf/artifact/textstate/
 ---
-## Properti Artifact.TextState
+## Artifact.TextState property
 
 Status teks untuk teks artefak.
 
@@ -16,7 +16,9 @@ public TextState TextState { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [Artifact](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

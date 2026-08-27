@@ -1,14 +1,14 @@
 ---
-title: Enum Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Printing.Duplex. Menentukan pengaturan duplex printer
+title: "Enum Duplex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Printing.Duplex enum. Menentukan pengaturan duplex printer"
 type: docs
-weight: 9530
+weight: 9680
 url: /id/net/aspose.pdf.printing/duplex/
 ---
-## Enumerasi Duplex
+## Duplex enumeration
 
-Menentukan pengaturan duplex printer.
+Menentukan pengaturan dupleks printer.
 
 ```csharp
 public enum Duplex
@@ -27,3 +27,5 @@ public enum Duplex
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

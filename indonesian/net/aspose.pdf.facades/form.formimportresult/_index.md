@@ -1,14 +1,14 @@
 ---
-title: Class Form.FormImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.FormFormImportResult. Kelas yang menggambarkan hasil jika impor field
+title: "Kelas Form.FormImportResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.FormFormImportResult. Kelas yang menggambarkan hasil impor bidang"
 type: docs
-weight: 4300
+weight: 4420
 url: /id/net/aspose.pdf.facades/form.formimportresult/
 ---
-## Kelas Form.FormImportResult
+## Form.FormImportResult class
 
-Kelas yang menggambarkan hasil jika impor field.
+Kelas yang menjelaskan hasil impor bidang.
 
 ```csharp
 public class FormImportResult
@@ -18,11 +18,13 @@ public class FormImportResult
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FieldName](../../aspose.pdf.facades/form.formimportresult/fieldname) { get; } | Nama lengkap dari field. |
-| [Status](../../aspose.pdf.facades/form.formimportresult/status) { get; } | Status dari impor field. |
+| [FieldName](../../aspose.pdf.facades/form.formimportresult/fieldname) { get; } | Nama lengkap bidang. |
+| [Status](../../aspose.pdf.facades/form.formimportresult/status) { get; } | Status impor bidang. |
 
 ### Lihat Juga
 
-* kelas [Form](../form/)
+* class [Form](../form/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

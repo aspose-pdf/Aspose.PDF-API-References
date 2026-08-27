@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCross
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang FormFieldFacade. Mendefinisikan gaya kotak centang silang
+title: "FormFieldFacade.CheckBoxStyleCross"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade bidang. Menentukan gaya kotak centang silang"
 type: docs
 weight: 410
 url: /id/net/aspose.pdf.facades/formfieldfacade/checkboxstylecross/
 ---
-## Bidang FormFieldFacade.CheckBoxStyleCross
+## FormFieldFacade.CheckBoxStyleCross field
 
 Mendefinisikan gaya kotak centang silang.
 
@@ -16,6 +16,8 @@ public const int CheckBoxStyleCross;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.SetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mengatur Nama Nilai
+title: "StructureAttribute.SetNameValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureAttribute. Menetapkan Nama Nilai"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/setnamevalue/
 ---
-## Metode StructureAttribute.SetNameValue
+## StructureAttribute.SetNameValue method
 
 Mengatur Nama Nilai.
 
@@ -16,11 +16,13 @@ public void SetNameValue(AttributeName name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | AttributeName | Nama Nilai yang Diizinkan. |
+| nama | AttributeName | Nama Nilai yang Diizinkan. |
 
 ### Lihat Juga
 
-* kelas [AttributeName](../../attributename/)
-* kelas [StructureAttribute](../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

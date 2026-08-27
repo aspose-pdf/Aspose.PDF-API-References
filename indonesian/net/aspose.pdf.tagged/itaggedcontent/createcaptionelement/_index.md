@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateCaptionElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat CaptionElement
+title: "ITaggedContent.CreateCaptionElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat CaptionElement"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 ---
-## Metode ITaggedContent.CreateCaptionElement
+## ITaggedContent.CreateCaptionElement method
 
 Membuat [`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement/).
 
@@ -14,13 +14,15 @@ Membuat [`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement/)
 public CaptionElement CreateCaptionElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

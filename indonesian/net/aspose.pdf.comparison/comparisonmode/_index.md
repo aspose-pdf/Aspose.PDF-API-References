@@ -1,12 +1,12 @@
 ---
-title: Enum ComparisonMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Comparison.ComparisonMode. Enumerasi mode perbandingan
+title: "Enum ComparisonMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Comparison.ComparisonMode enum. Enumerasi mode perbandingan"
 type: docs
-weight: 3140
+weight: 3250
 url: /id/net/aspose.pdf.comparison/comparisonmode/
 ---
-## Enumerasi ComparisonMode
+## ComparisonMode enumeration
 
 Enumerasi mode perbandingan.
 
@@ -19,10 +19,12 @@ public enum ComparisonMode
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Normal | `0` | Mode normal. Hanya spasi dalam fragmen teks yang diperhitungkan (tergantung pada cara dokumen dihasilkan.) |
-| IgnoreSpaces | `1` | Semua spasi diabaikan. Perubahan hanya dicari dalam kata-kata. |
-| ParseSpaces | `2` | Mode ini mirip dengan normal, tetapi berusaha untuk memperhitungkan jarak visual antara fragmen teks berdasarkan jarak. Mengenali jumlah spasi antara fragmen mungkin tidak akurat karena ini sangat tergantung pada bagaimana dokumen dihasilkan. Jika dokumen dibuat oleh generator yang berbeda, mungkin ada ketidakakuratan dalam membandingkan spasi antara fragmen teks. |
+| IgnoreSpaces | `1` | Semua spasi diabaikan. Perubahan dicari hanya dalam kata. |
+| ParseSpaces | `2` | Mode ini mirip dengan mode normal, tetapi berusaha memperhitungkan jarak visual antar fragmen teks berdasarkan jarak. Mengenali jumlah spasi antar fragmen mungkin tidak akurat karena sangat bergantung pada cara dokumen dihasilkan. Jika dokumen dibuat oleh generator yang berbeda, mungkin terdapat ketidakakuratan dalam membandingkan spasi antar fragmen teks. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

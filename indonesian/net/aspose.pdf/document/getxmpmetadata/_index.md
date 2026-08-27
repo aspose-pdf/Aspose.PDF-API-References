@@ -1,14 +1,14 @@
 ---
-title: Document.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Dapatkan metadata XMP dari dokumen
+title: "Document.GetXmpMetadata"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode Document. Dapatkan metadata XMP dari dokumen"
 type: docs
-weight: 690
+weight: 710
 url: /id/net/aspose.pdf/document/getxmpmetadata/
 ---
-## Metode Document.GetXmpMetadata
+## Document.GetXmpMetadata method
 
-Dapatkan metadata XMP dari dokumen.
+Mendapatkan metadata XMP dari document.
 
 ```csharp
 public void GetXmpMetadata(Stream stream)
@@ -20,6 +20,8 @@ public void GetXmpMetadata(Stream stream)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

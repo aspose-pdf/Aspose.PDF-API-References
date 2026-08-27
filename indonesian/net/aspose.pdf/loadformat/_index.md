@@ -1,12 +1,12 @@
 ---
-title: Enum LoadFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.LoadFormat. Menentukan format pemuatan
+title: "Enum LoadFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.LoadFormat. Menentukan format pemuatan"
 type: docs
-weight: 6110
+weight: 6250
 url: /id/net/aspose.pdf/loadformat/
 ---
-## Enumerasi LoadFormat
+## LoadFormat enumeration
 
 Menentukan format pemuatan.
 
@@ -18,26 +18,28 @@ public enum LoadFormat
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| CGM | `0` | berarti pemuatan dokumen dalam format CGM |
-| HTML | `1` | berarti pemuatan dokumen dalam format HTML |
-| EPUB | `2` | berarti pemuatan dokumen dalam format EPUB (format khusus buku elektronik) |
-| XML | `3` | berarti pemuatan dokumen dalam format XML (XML khusus yang mewakili struktur logis dokumen PDF) |
-| XSLFO | `4` | berarti pemuatan dokumen dalam format XSLFO |
-| PCL | `5` | berarti pemuatan dokumen dalam format PCL |
-| XPS | `6` | berarti pemuatan dokumen dalam format XPS |
-| TEX | `7` | berarti pemuatan dokumen dalam format TEX - format editor teks Latex |
-| SVG | `8` | berarti pemuatan dokumen dalam format SVG - format editor teks Latex |
-| MHT | `9` | berarti pemuatan dokumen dalam format MHT (yaitu format HTML yang dikemas) |
-| PS | `10` | berarti pemuatan dokumen dalam format PS (format dokumen PostScript) |
-| MD | `11` | berarti pemuatan dokumen dalam format MD (markdown). |
-| TXT | `12` | berarti pemuatan dokumen dalam format TXT. |
-| APS | `13` | berarti pemuatan dokumen dalam format APS. |
-| PDFXML | `14` | Struktur dokumen PDF internal dalam format XML. |
-| OFD | `15` | berarti pemuatan dokumen dalam format OFD. |
-| DJVU | `16` | berarti pemuatan dokumen dalam format Djvu. |
-| CDR | `17` | berarti pemuatan dokumen dalam format CDR. |
+| CGM | `0` | berarti memuat dokumen dalam format CGM |
+| HTML | `1` | berarti memuat dokumen dalam format HTML |
+| EPUB | `2` | berarti memuat dokumen dalam format EPUB (format khusus untuk e-book) |
+| XML | `3` | berarti memuat dokumen dalam format XML (XML khusus yang merepresentasikan struktur logis dokumen PDF) |
+| XSLFO | `4` | berarti memuat dokumen dalam format XSLFO |
+| PCL | `5` | berarti memuat dokumen dalam format PCL |
+| XPS | `6` | berarti memuat dokumen dalam format XPS |
+| TEX | `7` | berarti memuat dokumen dalam format TEX - format editor teks LaTeX |
+| SVG | `8` | berarti memuat dokumen dalam format SVG - format editor teks LaTeX |
+| MHT | `9` | berarti memuat dokumen dalam format MHT (yaitu format HTML terkompresi) |
+| PS | `10` | berarti memuat dokumen dalam format PS (format dokumen PostScript) |
+| MD | `11` | berarti dokumen dimuat dalam format MD (markdown). |
+| TXT | `12` | berarti dokumen dimuat dalam format TXT. |
+| APS | `13` | berarti memuat dokumen dalam format APS. |
+| PDFXML | `14` | Struktur internal dokumen PDF dalam format XML. |
+| OFD | `15` | berarti memuat dokumen dalam format OFD. |
+| DJVU | `16` | menandakan memuat dokumen dalam format Djvu. |
+| CDR | `17` | menandakan memuat dokumen dalam format CDR. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

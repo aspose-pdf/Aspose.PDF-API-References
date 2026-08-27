@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Mengambil rincian dari run tertentu dalam sebuah thread secara asinkron
+title: "OpenAIClient.GetRunAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Mengambil detail run tertentu dalam thread secara asinkron"
 type: docs
-weight: 250
+weight: 260
 url: /id/net/aspose.pdf.ai/openaiclient/getrunasync/
 ---
-## Metode OpenAIClient.GetRunAsync
+## OpenAIClient.GetRunAsync method
 
-Mengambil rincian dari run tertentu dalam sebuah thread secara asinkron.
+Mengambil detail run tertentu dalam thread secara asinkron.
 
 ```csharp
 public Task<RunResponse> GetRunAsync(string threadId, string runId, 
@@ -18,23 +18,25 @@ public Task<RunResponse> GetRunAsync(string threadId, string runId,
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | threadId | String | ID dari thread yang berisi run. |
-| runId | String | ID dari run yang akan diambil. |
+| runId | String | ID run yang akan diambil. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi rincian dari run.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi detail run.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika run Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID run null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [RunResponse](../../runresponse/)
-* kelas [OpenAIClient](../)
+* class [RunResponse](../../runresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

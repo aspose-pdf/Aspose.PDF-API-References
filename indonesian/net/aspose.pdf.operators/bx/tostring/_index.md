@@ -1,12 +1,12 @@
 ---
-title: BX.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BX. Mengembalikan representasi teks dari operator
+title: "BX.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BX. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/bx/tostring/
 ---
-## Metode BX.ToString
+## BX.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [BX](../)
+* class [BX](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

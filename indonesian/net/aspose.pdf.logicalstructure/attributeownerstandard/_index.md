@@ -1,12 +1,12 @@
 ---
-title: Class AttributeOwnerStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.LogicalStructure.AttributeOwnerStandard. Mewakili Pemilik Atribut Standar
+title: "Kelas AttributeOwnerStandard"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "kelas Aspose.Pdf.LogicalStructure.AttributeOwnerStandard. Mewakili Pemilik Atribut Standar"
 type: docs
-weight: 6230
+weight: 6370
 url: /id/net/aspose.pdf.logicalstructure/attributeownerstandard/
 ---
-## Kelas AttributeOwnerStandard
+## AttributeOwnerStandard class
 
 Mewakili Pemilik Atribut Standar.
 
@@ -18,7 +18,7 @@ public sealed class AttributeOwnerStandard
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Owner](../../aspose.pdf.logicalstructure/attributeownerstandard/owner/) { get; } | Mendapatkan Pemilik Atribut. |
+| [Owner](../../aspose.pdf.logicalstructure/attributeownerstandard/owner/) { get; } | Dapatkan Pemilik Atribut. |
 
 ## Metode
 
@@ -47,3 +47,5 @@ public sealed class AttributeOwnerStandard
 
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

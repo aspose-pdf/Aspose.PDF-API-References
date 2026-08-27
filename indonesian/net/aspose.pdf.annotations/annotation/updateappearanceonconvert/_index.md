@@ -1,14 +1,14 @@
 ---
-title: Annotation.UpdateAppearanceOnConvert
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Jika benar, penampilan anotasi akan diperbarui sebelum mengonversi dokumen PF menjadi gambar. Ini memungkinkan konversi bidang dengan benar tetapi mungkin memerlukan lebih banyak waktu
+title: "Annotation.UpdateAppearanceOnConvert"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Jika true, tampilan anotasi akan diperbarui sebelum mengonversi dokumen PF menjadi gambar. Ini memungkinkan konversi bidang dengan benar tetapi mungkin membutuhkan lebih banyak waktu"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/
 ---
-## Properti Annotation.UpdateAppearanceOnConvert
+## Annotation.UpdateAppearanceOnConvert property
 
-Jika benar, penampilan anotasi akan diperbarui sebelum mengonversi dokumen PF menjadi gambar. Ini memungkinkan konversi bidang dengan benar tetapi mungkin memerlukan lebih banyak waktu.
+Jika true, tampilan anotasi akan diperbarui sebelum mengonversi dokumen PF menjadi gambar. Ini memungkinkan konversi bidang secara benar tetapi mungkin memerlukan lebih banyak waktu.
 
 ```csharp
 public static bool UpdateAppearanceOnConvert { get; set; }
@@ -16,6 +16,8 @@ public static bool UpdateAppearanceOnConvert { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

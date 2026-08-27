@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.TextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextAnnotation. Konstruktor untuk anotasi saat digunakan dalam Generator
+title: "TextAnnotation.TextAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextAnnotation. Konstruktor untuk anotasi ketika digunakan dalam Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/textannotation/textannotation/
 ---
 ## TextAnnotation(Document) {#constructor}
 
-Konstruktor untuk anotasi saat digunakan dalam Generator.
+Konstruktor untuk anotasi ketika digunakan dalam Generator.
 
 ```csharp
 public TextAnnotation(Document document)
@@ -16,7 +16,7 @@ public TextAnnotation(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Dokumen tempat anotasi teks akan dibuat. |
+| document | Document | Document tempat anotasi teks akan dibuat. |
 
 ### Lihat Juga
 
@@ -29,7 +29,7 @@ public TextAnnotation(Document document)
 
 ## TextAnnotation(Page, Rectangle) {#constructor_1}
 
-Membuat anotasi Teks baru pada halaman yang ditentukan.
+Membuat anotasi Text baru pada halaman yang ditentukan.
 
 ```csharp
 public TextAnnotation(Page page, Rectangle rect)
@@ -37,8 +37,8 @@ public TextAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, yang mendefinisikan lokasi anotasi di halaman. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
 
 ### Lihat Juga
 
@@ -47,3 +47,5 @@ public TextAnnotation(Page page, Rectangle rect)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

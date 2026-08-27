@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RemoveField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Hapus field dari formulir
+title: "FormEditor.RemoveField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Menghapus field dari formulir"
 type: docs
 weight: 210
 url: /id/net/aspose.pdf.facades/formeditor/removefield/
 ---
-## Metode FormEditor.RemoveField
+## FormEditor.RemoveField method
 
-Hapus field dari formulir.
+Menghapus field dari formulir.
 
 ```csharp
 public void RemoveField(string fieldName)
@@ -28,6 +28,8 @@ formEditor.RemoveField("textField");
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarginInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarginInfo. Mendapatkan atau menetapkan nilai float yang menunjukkan margin bawah
+title: "MarginInfo.Bottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MarginInfo properti. Mendapatkan atau mengatur nilai float yang menunjukkan margin bawah"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/margininfo/bottom/
 ---
-## Properti MarginInfo.Bottom
+## MarginInfo.Bottom property
 
-Mendapatkan atau menetapkan nilai float yang menunjukkan margin bawah.
+Mendapatkan atau mengatur nilai float yang menunjukkan margin bawah.
 
 ```csharp
 public double Bottom { get; set; }
@@ -16,6 +16,8 @@ public double Bottom { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

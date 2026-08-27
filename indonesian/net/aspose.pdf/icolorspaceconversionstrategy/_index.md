@@ -1,12 +1,12 @@
 ---
-title: Interface IColorSpaceConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.IColorSpaceConversionStrategy. Antarmuka untuk strategi konversi ruang warna
+title: "Antarmuka IColorSpaceConversionStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.IColorSpaceConversionStrategy. Antarmuka untuk strategi konversi ruang warna"
 type: docs
-weight: 5760
+weight: 5890
 url: /id/net/aspose.pdf/icolorspaceconversionstrategy/
 ---
-## Antarmuka IColorSpaceConversionStrategy
+## IColorSpaceConversionStrategy interface
 
 Antarmuka untuk strategi konversi ruang warna.
 
@@ -24,3 +24,5 @@ public interface IColorSpaceConversionStrategy
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

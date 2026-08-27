@@ -1,14 +1,14 @@
 ---
-title: IconFit.ScalingReasonToName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IconFit. Mengonversi objek alasan skala menjadi nama
+title: "IconFit.ScalingReasonToName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IconFit. Mengonversi objek alasan skala menjadi nama"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.forms/iconfit/scalingreasontoname/
 ---
-## Metode IconFit.ScalingReasonToName
+## IconFit.ScalingReasonToName method
 
-Mengonversi objek alasan skala menjadi nama.
+Mengonversi objek alasan penskalaan menjadi nama.
 
 ```csharp
 public static string ScalingReasonToName(ScalingReason reason)
@@ -16,11 +16,11 @@ public static string ScalingReasonToName(ScalingReason reason)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| reason | ScalingReason | Objek alasan skala yang akan dikonversi. |
+| alasan | ScalingReason | Objek alasan skala yang akan dikonversi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nama dari alasan skala.
+Nama alasan skala.
 
 ### Lihat Juga
 
@@ -28,3 +28,5 @@ Nama dari alasan skala.
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

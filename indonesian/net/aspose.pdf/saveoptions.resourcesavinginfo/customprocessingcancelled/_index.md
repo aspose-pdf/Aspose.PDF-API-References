@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.ResourceSavingInfo.CustomProcessingCancelled
-second_title: Aspose.PDF for .NET API Reference
-description: Field ResourceSavingInfo. flag ini harus diatur ke true dalam kode kustom jika karena beberapa alasan file yang diusulkan harus diproses tidak dengan kode kustom tetapi dengan kode konverter itu sendiri dengan cara standar untuk konverter. Jadi, pengaturannya yang diatur ke true berarti bahwa kode kustom tidak memproses file yang direferensikan dan konverter harus menangani itu sendiri.
+title: "SaveOptions.ResourceSavingInfo.CustomProcessingCancelled"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field ResourceSavingInfo. Bendera ini harus diset ke true dalam kode khusus jika karena alasan tertentu file yang diusulkan harus diproses bukan dengan kode khusus tetapi dengan kode konverter itu sendiri dengan cara standar untuk konverter. Jadi mengatur ke true berarti bahwa kode khusus tidak memproses file yang dirujuk dan konverter harus menanganinya sendiri baik dalam hal penyimpanan maupun penamaan file yang dirujuk."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled/
 ---
-## Field SaveOptions.ResourceSavingInfo.CustomProcessingCancelled
+## SaveOptions.ResourceSavingInfo.CustomProcessingCancelled field
 
-flag ini harus diatur ke "true" dalam kode kustom jika karena beberapa alasan file yang diusulkan harus diproses tidak dengan kode kustom tetapi dengan kode konverter itu sendiri dengan cara standar untuk konverter. Jadi, pengaturannya yang diatur ke true berarti bahwa kode kustom tidak memproses file yang direferensikan dan konverter harus menangani itu sendiri (dalam kedua arti - untuk menyimpan di suatu tempat dan untuk penamaan dalam file yang direferensikan).
+bendera ini harus disetel ke "true" dalam kode khusus jika karena alasan tertentu file yang diusulkan harus diproses bukan dengan kode khusus melainkan dengan kode konverter itu sendiri dengan cara standar konverter. Jadi, pengaturannya disetel ke true berarti bahwa kode khusus tidak memproses file yang dirujuk dan konverter harus menanganinya sendiri (dalam kedua konteks - untuk menyimpan di suatu tempat dan untuk penamaan dalam file referensi).
 
 ```csharp
 public bool CustomProcessingCancelled;
@@ -16,6 +16,8 @@ public bool CustomProcessingCancelled;
 
 ### Lihat Juga
 
-* kelas [ResourceSavingInfo](../)
+* class [ResourceSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

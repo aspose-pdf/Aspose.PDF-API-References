@@ -1,14 +1,14 @@
 ---
-title: Class SystemFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.SystemFontSource. Mewakili semua font yang terinstal di sistem
+title: "Kelas SystemFontSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.SystemFontSource. Mewakili semua font yang terpasang di sistem"
 type: docs
-weight: 10730
+weight: 10910
 url: /id/net/aspose.pdf.text/systemfontsource/
 ---
-## Kelas SystemFontSource
+## SystemFontSource class
 
-Mewakili semua font yang terinstal di sistem.
+Mewakili semua font yang terpasang pada sistem.
 
 ```csharp
 public sealed class SystemFontSource : FontSource
@@ -24,10 +24,12 @@ public sealed class SystemFontSource : FontSource
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | Memeriksa apakah objek sumber font sistem sama. |
+| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | Periksa apakah objek sumber font sistem sama. |
 
 ### Lihat Juga
 
-* kelas [FontSource](../fontsource/)
+* class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

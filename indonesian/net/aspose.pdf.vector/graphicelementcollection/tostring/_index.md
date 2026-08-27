@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicElementCollection. Mendapatkan representasi string dari koleksi ini
+title: "GraphicElementCollection.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicElementCollection. Mendapatkan representasi string dari koleksi ini."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.vector/graphicelementcollection/tostring/
 ---
-## Metode GraphicElementCollection.ToString
+## GraphicElementCollection.ToString method
 
 Mendapatkan representasi string dari koleksi ini.
 
@@ -14,12 +14,14 @@ Mendapatkan representasi string dari koleksi ini.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-String.
+String tersebut.
 
 ### Lihat Juga
 
-* kelas [GraphicElementCollection](../)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

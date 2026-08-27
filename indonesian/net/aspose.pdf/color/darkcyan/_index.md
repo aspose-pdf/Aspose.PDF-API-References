@@ -1,12 +1,12 @@
 ---
-title: Color.DarkCyan
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF008B8B
+title: "Color.DarkCyan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FF008B8B"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf/color/darkcyan/
 ---
-## Properti Color.DarkCyan
+## Color.DarkCyan property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF008B8B.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF008B8B.
 public static Color DarkCyan { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

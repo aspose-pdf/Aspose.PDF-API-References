@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.Assembly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Memungkinkan penggabungan file
+title: "DocumentPrivilege.Assembly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Mengizinkan perakitan file"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/documentprivilege/assembly/
 ---
-## Properti DocumentPrivilege.Assembly
+## DocumentPrivilege.Assembly property
 
-Memungkinkan penggabungan file.
+Mengizinkan perakitan file.
 
 ```csharp
 public static DocumentPrivilege Assembly { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege Assembly { get; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

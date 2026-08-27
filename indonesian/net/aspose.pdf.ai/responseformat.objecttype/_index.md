@@ -1,12 +1,12 @@
 ---
-title: Class ResponseFormat.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.ResponseFormatObjectType. Mewakili nilai objek dalam format respons
+title: "Kelas ResponseFormat.ObjectType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.ResponseFormatObjectType. Mewakili nilai objek dalam format respons"
 type: docs
-weight: 970
+weight: 1050
 url: /id/net/aspose.pdf.ai/responseformat.objecttype/
 ---
-## Kelas ResponseFormat.ObjectType
+## ResponseFormat.ObjectType class
 
 Mewakili nilai objek dalam format respons.
 
@@ -24,10 +24,12 @@ public class ObjectType
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ResponseType](../../aspose.pdf.ai/responseformat.objecttype/responsetype) { get; set; } | Mendapatkan atau mengatur jenis nilai objek. |
+| [ResponseType](../../aspose.pdf.ai/responseformat.objecttype/responsetype) { get; set; } | Mendapatkan atau mengatur tipe nilai objek. |
 
 ### Lihat Juga
 
-* kelas [ResponseFormat](../responseformat/)
+* class [ResponseFormat](../responseformat/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

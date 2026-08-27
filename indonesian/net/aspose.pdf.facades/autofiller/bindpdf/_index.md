@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AutoFiller. Mengikat file Pdf
+title: "AutoFiller.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AutoFiller. Mengikat file Pdf"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/autofiller/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Mengikat file Pdf.
+Mengikat sebuah file Pdf.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -20,7 +20,7 @@ public void BindPdf(string srcFile)
 
 ### Lihat Juga
 
-* kelas [AutoFiller](../)
+* class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Mengikat file Pdf.
+Mengikat sebuah file Pdf.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -36,11 +36,11 @@ public void BindPdf(Stream srcStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| srcStream | Stream | Aliran file Pdf. |
+| srcStream | Stream | Stream file Pdf. |
 
 ### Lihat Juga
 
-* kelas [AutoFiller](../)
+* class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -48,7 +48,7 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-Mengikat dokumen Pdf.
+Mengikat sebuah dokumen Pdf.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -60,7 +60,9 @@ public void BindPdf(Document srcDoc)
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [AutoFiller](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

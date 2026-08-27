@@ -1,14 +1,14 @@
 ---
-title: Page.AddGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Page. Menambahkan grafik ke halaman. Bekerja lebih cepat daripada menambahkan elemen satu per satu dengan metode AddOnPage
+title: "Page.AddGraphics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Menambahkan grafik ke halaman. Lebih cepat dibandingkan menambahkan elemen satu per satu dengan metode AddOnPage"
 type: docs
 weight: 340
 url: /id/net/aspose.pdf/page/addgraphics/
 ---
-## Metode Page.AddGraphics
+## Page.AddGraphics method
 
-Menambahkan grafik ke halaman. Bekerja lebih cepat daripada menambahkan elemen satu per satu dengan [`AddOnPage`](../../../aspose.pdf.vector/graphicelement/addonpage/) metode.
+Menambahkan grafik ke halaman. Lebih cepat dibandingkan menambahkan elemen satu per satu dengan metode [`AddOnPage`](../../../aspose.pdf.vector/graphicelement/addonpage/).
 
 ```csharp
 public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle = null)
@@ -17,12 +17,14 @@ public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle =
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | elements | GraphicElementCollection | Koleksi grafik. |
-| rectangle | Rectangle | Elemen akan ditambahkan ke halaman jika berada di dalam area persegi panjang. Jika persegi panjang null, semua elemen grafik akan ditambahkan |
+| persegi panjang | Rectangle | Elemen akan ditambahkan ke halaman jika berada di dalam area persegi panjang. Jika persegi panjang null, semua elemen grafik akan ditambahkan |
 
 ### Lihat Juga
 
-* kelas [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
-* kelas [Rectangle](../../rectangle/)
-* kelas [Page](../)
+* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IPlugin.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IPlugin. Mengisi plugin untuk diproses dengan opsi yang ditentukan
+title: "IPlugin.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IPlugin. Membebankan plugin untuk memproses dengan opsi yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/iplugin/process/
 ---
-## Metode IPlugin.Process
+## IPlugin.Process method
 
-Mengisi plugin untuk diproses dengan opsi yang ditentukan
+Menjalankan plugin dengan opsi yang ditentukan
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -18,14 +18,16 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- | --- |
 | options | IPluginOptions | Objek opsi yang berisi instruksi untuk plugin |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek ResultContainer yang berisi hasil dari pemrosesan
+Objek ResultContainer yang berisi hasil pemrosesan
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* antarmuka [IPlugin](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* interface [IPlugin](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

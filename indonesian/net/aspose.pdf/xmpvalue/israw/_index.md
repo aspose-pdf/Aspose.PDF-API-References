@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsRaw
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpValue. Nilai tidak didukung/tidak diketahui dan kode XML mentah disediakan
+title: "XmpValue.IsRaw"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpValue. Nilai tidak didukung/tidak diketahui dan kode XML mentah disediakan"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/xmpvalue/israw/
 ---
-## Properti XmpValue.IsRaw
+## XmpValue.IsRaw property
 
 Nilai tidak didukung/tidak diketahui dan kode XML mentah disediakan.
 
@@ -14,12 +14,14 @@ Nilai tidak didukung/tidak diketahui dan kode XML mentah disediakan.
 public bool IsRaw { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika nilai yang dikembalikan sebagai data mentah.
+True jika nilai dikembalikan sebagai data mentah.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

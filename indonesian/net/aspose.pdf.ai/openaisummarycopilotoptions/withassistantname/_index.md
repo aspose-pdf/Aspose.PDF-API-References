@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAISummaryCopilotOptions. Mengatur nama asisten untuk opsi copilot ringkasan
+title: "OpenAISummaryCopilotOptions.WithAssistantName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAISummaryCopilotOptions. Menetapkan nama asisten untuk opsi copilot ringkasan"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/withassistantname/
 ---
-## Metode OpenAISummaryCopilotOptions.WithAssistantName
+## OpenAISummaryCopilotOptions.WithAssistantName method
 
-Mengatur nama asisten untuk opsi copilot ringkasan.
+Mengatur nama asisten untuk opsi summary copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| assistantName | String | Nama asisten yang akan diatur. |
+| assistantName | String | Nama asisten yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

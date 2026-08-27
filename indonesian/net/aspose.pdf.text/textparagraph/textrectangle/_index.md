@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.TextRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextParagraph. Mendapatkan persegi panjang dari teks yang ditempatkan pada paragraf
+title: "TextParagraph.TextRectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextParagraph. Mendapatkan persegi panjang teks yang ditempatkan pada paragraf."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.text/textparagraph/textrectangle/
 ---
-## Properti TextParagraph.TextRectangle
+## TextParagraph.TextRectangle property
 
-Mendapatkan persegi panjang dari teks yang ditempatkan pada paragraf.
+Mendapatkan rectangle teks yang ditempatkan ke paragraf.
 
 ```csharp
 public Rectangle TextRectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle TextRectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [TextParagraph](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Meratakan field yang ditentukan dengan nama field yang sepenuhnya memenuhi syarat. Field lainnya akan tetap tidak dapat diubah. Jika fieldName tidak valid, semua field akan tetap tidak dapat diubah.
+title: "Form.FlattenField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Meratakan bidang yang ditentukan dengan nama bidang yang sepenuhnya memenuhi syarat. Semua bidang lain akan tetap tidak dapat diubah. Jika fieldName tidak valid, semua bidang akan tetap tidak dapat diubah."
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/form/flattenfield/
 ---
-## Metode Form.FlattenField
+## Form.FlattenField method
 
-Meratakan field yang ditentukan dengan nama field yang sepenuhnya memenuhi syarat. Field lainnya akan tetap tidak dapat diubah. Jika fieldName tidak valid, semua field akan tetap tidak dapat diubah.
+Menyatukan bidang tertentu dengan nama bidang yang sepenuhnya memenuhi syarat. Semua bidang lain akan tetap tidak dapat diubah. Jika fieldName tidak valid, semua bidang akan tetap tidak dapat diubah.
 
 ```csharp
 public void FlattenField(string fieldName)
@@ -16,7 +16,7 @@ public void FlattenField(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang akan diratakan. |
+| fieldName | String | Nama bidang yang akan diratakan. |
 
 ## Contoh
 
@@ -27,6 +27,8 @@ form.FlattenField("textField");
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

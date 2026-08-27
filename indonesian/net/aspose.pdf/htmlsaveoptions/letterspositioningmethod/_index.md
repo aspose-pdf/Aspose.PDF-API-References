@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.LettersPositioningMethod
-second_title: Aspose.PDF for .NET API Reference
-description: Field HtmlSaveOptions. Mengatur mode penempatan huruf dalam kata di HTML hasil
+title: "HtmlSaveOptions.LettersPositioningMethod"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlSaveOptions field. Menetapkan mode penempatan huruf dalam kata pada HTML hasil."
 type: docs
 weight: 350
 url: /id/net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/
 ---
-## Field HtmlSaveOptions.LettersPositioningMethod
+## HtmlSaveOptions.LettersPositioningMethod field
 
-Mengatur mode penempatan huruf dalam kata di HTML hasil
+Mengatur mode penempatan huruf dalam kata pada HTML hasil
 
 ```csharp
 public LettersPositioningMethods LettersPositioningMethod;
@@ -20,3 +20,5 @@ public LettersPositioningMethods LettersPositioningMethod;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

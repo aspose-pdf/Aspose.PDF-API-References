@@ -1,14 +1,14 @@
 ---
-title: PopupAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PopupAnnotation. Mendapatkan atau menetapkan sebuah flag yang menentukan apakah anotasi pop-up harus ditampilkan terbuka secara awal
+title: "PopupAnnotation.Open"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PopupAnnotation. Mendapatkan atau mengatur flag yang menentukan apakah anotasi popup harus ditampilkan terbuka pada awalnya"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/popupannotation/open/
 ---
-## Properti PopupAnnotation.Open
+## PopupAnnotation.Open property
 
-Mendapatkan atau menetapkan sebuah flag yang menentukan apakah anotasi pop-up harus ditampilkan terbuka secara awal.
+Mendapatkan atau mengatur flag yang menentukan apakah anotasi pop-up harus awalnya ditampilkan terbuka.
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### Lihat Juga
 
-* kelas [PopupAnnotation](../)
+* class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.GetButtonOptionValues
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengambil bidang opsi tombol radio dan nilai terkait berdasarkan nama bidang. Metode ini memiliki arti untuk grup tombol radio
+title: "Form.GetButtonOptionValues"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mendapatkan bidang opsi tombol radio dan nilai terkait berdasarkan nama bidang. Metode ini berguna untuk grup tombol radio"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
-## Metode Form.GetButtonOptionValues
+## Form.GetButtonOptionValues method
 
-Mengambil bidang opsi tombol radio dan nilai terkait berdasarkan nama bidang. Metode ini memiliki arti untuk grup tombol radio.
+Mendapatkan bidang opsi tombol radio dan nilai terkait berdasarkan nama bidang. Metode ini berguna untuk grup tombol radio.
 
 ```csharp
 public Dictionary<string, string> GetButtonOptionValues(string fieldName)
@@ -18,9 +18,9 @@ public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 | --- | --- | --- |
 | fieldName | String | Nama Bidang |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Tabel hash nilai opsi yang dikunci berdasarkan nama item formulir
+Tabel hash nilai opsi yang diindeks oleh nama item formulir
 
 ## Contoh
 
@@ -33,6 +33,8 @@ Console.WriteLine(values["Black"].ToString());
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

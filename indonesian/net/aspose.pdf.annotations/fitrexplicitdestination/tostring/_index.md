@@ -1,25 +1,27 @@
 ---
-title: FitRExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FitRExplicitDestination. Mengonversi status objek menjadi nilai string. Contoh 1 FitR 100 200 300 400
+title: "FitRExplicitDestination.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FitRExplicitDestination method. Mengonversi keadaan objek menjadi nilai string. Contoh 1 FitR 100 200 300 400"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/fitrexplicitdestination/tostring/
 ---
-## Metode FitRExplicitDestination.ToString
+## FitRExplicitDestination.ToString method
 
-Mengonversi status objek menjadi nilai string. Contoh: "1 FitR 100 200 300 400".
+Mengonversi keadaan objek menjadi nilai string. Contoh: "1 FitR 100 200 300 400".
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nilai string yang mewakili status objek.
+Nilai string yang mewakili keadaan objek.
 
 ### Lihat Juga
 
-* kelas [FitRExplicitDestination](../)
+* class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

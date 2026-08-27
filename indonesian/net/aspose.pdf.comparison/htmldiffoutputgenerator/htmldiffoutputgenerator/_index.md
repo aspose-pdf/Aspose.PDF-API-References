@@ -1,14 +1,14 @@
 ---
-title: HtmlDiffOutputGenerator.HtmlDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HtmlDiffOutputGenerator. Membuat sebuah instance dari kelas HtmlDiffOutputGenerator
+title: "HtmlDiffOutputGenerator.HtmlDiffOutputGenerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor HtmlDiffOutputGenerator. Membuat instance dari kelas HtmlDiffOutputGenerator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.comparison/htmldiffoutputgenerator/htmldiffoutputgenerator/
 ---
 ## HtmlDiffOutputGenerator() {#constructor}
 
-Membuat sebuah instance dari kelas [`HtmlDiffOutputGenerator`](../).
+Membuat instance dari kelas [`HtmlDiffOutputGenerator`](../).
 
 ```csharp
 public HtmlDiffOutputGenerator()
@@ -16,7 +16,7 @@ public HtmlDiffOutputGenerator()
 
 ### Lihat Juga
 
-* kelas [HtmlDiffOutputGenerator](../)
+* class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public HtmlDiffOutputGenerator()
 
 ## HtmlDiffOutputGenerator(OutputTextStyle) {#constructor_1}
 
-Membuat sebuah instance dari kelas [`HtmlDiffOutputGenerator`](../).
+Membuat instance dari kelas [`HtmlDiffOutputGenerator`](../).
 
 ```csharp
 public HtmlDiffOutputGenerator(OutputTextStyle textStyle)
@@ -36,7 +36,9 @@ public HtmlDiffOutputGenerator(OutputTextStyle textStyle)
 
 ### Lihat Juga
 
-* kelas [OutputTextStyle](../../outputtextstyle/)
-* kelas [HtmlDiffOutputGenerator](../)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

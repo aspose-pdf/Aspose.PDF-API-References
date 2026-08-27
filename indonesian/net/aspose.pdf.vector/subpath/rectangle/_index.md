@@ -1,12 +1,12 @@
 ---
-title: SubPath.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: SubPath property.
+title: "SubPath.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SubPath."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.vector/subpath/rectangle/
 ---
-## Properti SubPath.Rectangle
+## SubPath.Rectangle property
 
 ```csharp
 public override Rectangle Rectangle { get; }
@@ -14,7 +14,9 @@ public override Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [SubPath](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SubPath](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

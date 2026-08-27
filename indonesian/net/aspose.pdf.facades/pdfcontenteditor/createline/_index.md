@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateLine
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi garis
+title: "PdfContentEditor.CreateLine"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat anotasi garis"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createline/
 ---
-## Metode PdfContentEditor.CreateLine
+## PdfContentEditor.CreateLine method
 
 Membuat anotasi garis.
 
@@ -17,18 +17,18 @@ public void CreateLine(Rectangle rect, string contents, float x1, float y1, floa
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| contents | String | Isi dari anotasi. |
-| x1 | Single | Koordinat horizontal awal dari garis. |
-| y1 | Single | Koordinat vertikal awal dari garis. |
-| x2 | Single | Koordinat horizontal akhir dari garis. |
-| y2 | Single | Koordinat vertikal akhir dari garis. |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| border | Int32 | Lebar batas dalam poin. Jika nilai ini 0, tidak ada batas yang digambar. Nilai default adalah 1. |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| isi | String | Isi anotasi. |
+| x1 | Single | Koordinat horizontal awal garis. |
+| y1 | Single | Koordinat vertikal awal garis. |
+| x2 | Single | Koordinat horizontal akhir garis. |
+| y2 | Single | Koordinat vertikal akhir garis. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| border | Int32 | Lebar border dalam poin. Jika nilai ini 0 tidak ada border yang digambar. Nilai default adalah 1. |
 | clr | Color | Warna garis. |
-| borderStyle | String | Gaya batas yang menentukan lebar dan pola garis putus-putus yang akan digunakan dalam menggambar garis. Nilai ini bisa: "S" (Solid), "D" (Dashed), "B" (Beveled), "I" (Inset), "U" (Underline). |
-| dashArray | Int32[] | Array garis putus-putus yang mendefinisikan pola garis putus-putus dan celah yang akan digunakan dalam menggambar batas putus-putus. Jika digunakan, borderSyle harus diatur sesuai dengan "D". |
-| LEArray | String[] | Array dari dua nilai yang masing-masing menentukan gaya awal dan akhir dari garis yang digambar. Nilai dapat berupa: "Square", "Circle", "Diamond", "OpenArrow", "ClosedArrow", "None", "Butt", "ROpenArrow", "RClosedArrow", "Slash". |
+| borderStyle | String | Gaya border yang menentukan lebar dan pola dash yang akan digunakan untuk menggambar garis. Nilai ini dapat: "S" (Solid), "D" (Dashed), "B" (Beveled), "I" (Inset), "U" (Underline). |
+| dashArray | Int32[] | Array dash yang mendefinisikan pola dash dan celah yang akan digunakan untuk menggambar border dash. Jika digunakan, borderSyle harus disetel ke "D". |
+| LEArray | String[] | Array dua nilai yang masing-masing menentukan gaya awal dan akhir garis gambar. Nilai dapat berupa: "Square", "Circle", "Diamond", "OpenArrow", "ClosedArrow", "None", "Butt", "ROpenArrow", "RClosedArrow", "Slash". |
 
 ## Contoh
 
@@ -42,6 +42,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

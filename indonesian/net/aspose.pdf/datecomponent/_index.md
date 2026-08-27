@@ -1,12 +1,12 @@
 ---
-title: Class DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DateComponent. Mewakili kelas dasar untuk komponen tanggal dengan atribut format
+title: "Kelas DateComponent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.DateComponent. Mewakili kelas dasar untuk komponen tanggal dengan atribut format."
 type: docs
-weight: 3490
+weight: 3610
 url: /id/net/aspose.pdf/datecomponent/
 ---
-## Kelas DateComponent
+## DateComponent class
 
 Mewakili kelas dasar untuk komponen tanggal dengan atribut format.
 
@@ -24,7 +24,7 @@ public class DateComponent
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Mendapatkan atau menetapkan format untuk komponen tanggal. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Mendapatkan atau mengatur format untuk komponen tanggal. |
 
 ## Metode
 
@@ -36,3 +36,5 @@ public class DateComponent
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

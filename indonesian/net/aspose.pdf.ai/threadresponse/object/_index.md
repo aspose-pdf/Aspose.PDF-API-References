@@ -1,12 +1,12 @@
 ---
-title: ThreadResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadResponse. Mendapatkan atau mengatur tipe objek yang selalu thread
+title: "ThreadResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ThreadResponse property. Mendapatkan atau mengatur tipe objek yang selalu berupa thread"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/threadresponse/object/
 ---
-## Properti ThreadResponse.Object
+## ThreadResponse.Object property
 
 Mendapatkan atau mengatur tipe objek, yang selalu thread.
 
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [ThreadResponse](../)
+* class [ThreadResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

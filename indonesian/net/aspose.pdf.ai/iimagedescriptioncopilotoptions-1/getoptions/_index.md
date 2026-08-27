@@ -1,25 +1,27 @@
 ---
-title: IImageDescriptionCopilotOptions1.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IImageDescriptionCopilotOptions. Mendapatkan opsi dari tipe TOptions
+title: "IImageDescriptionCopilotOptions1.GetOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IImageDescriptionCopilotOptions. Mendapatkan opsi dengan tipe TOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/
 ---
 ## IImageDescriptionCopilotOptions&lt;TOptions&gt;.GetOptions method
 
-Mendapatkan opsi dari tipe *TOptions*.
+Mendapatkan opsi dengan tipe *TOptions*.
 
 ```csharp
 public TOptions GetOptions()
 ```
 
-### Return Value
+### Nilai Kembalian
 
-Opsi dari tipe *TOptions*.
+Opsi dengan tipe *TOptions*.
 
-### See Also
+### Lihat Juga
 
 * interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureTextState. Mendapatkan atau mengatur strikeout untuk teks
+title: "StructureTextState.StrikeOut"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureTextState. Mendapatkan atau mengatur garis coret pada teks."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.logicalstructure/structuretextstate/strikeout/
 ---
-## Properti StructureTextState.StrikeOut
+## StructureTextState.StrikeOut property
 
-Mendapatkan atau mengatur strikeout untuk teks.
+Mendapatkan atau mengatur coret untuk teks.
 
 ```csharp
 public bool? StrikeOut { get; set; }
@@ -16,10 +16,12 @@ public bool? StrikeOut { get; set; }
 
 ## Catatan
 
-Dapat bernilai null. Gunakan null untuk mewarisi properti `StrikeOut` dari elemen struktur induk.
+Bisa bernilai null. Gunakan null untuk mewarisi properti `StrikeOut` dari elemen struktur induk.
 
 ### Lihat Juga
 
-* kelas [StructureTextState](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

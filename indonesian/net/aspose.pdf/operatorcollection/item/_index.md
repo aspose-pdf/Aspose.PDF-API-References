@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OperatorCollection. Mendapatkan operator berdasarkan indeksnya
+title: "OperatorCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OperatorCollection properti. Mendapatkan operator berdasarkan indeksnya"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/operatorcollection/item/
 ---
-## Indeks OperatorCollection
+## OperatorCollection indexer
 
 Mendapatkan operator berdasarkan indeksnya.
 
@@ -18,7 +18,7 @@ public override Operator this[int index] { get; set; }
 | --- | --- |
 | index | Indeks operator. Penomoran dimulai dari 1. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Operator dari indeks yang diminta
 
@@ -34,7 +34,9 @@ Operator first = oc[1];
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

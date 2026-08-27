@@ -1,25 +1,27 @@
 ---
-title: Color.GreenYellow
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFADFF2F
+title: "Color.GreenYellow"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FFADFF2F"
 type: docs
 weight: 540
 url: /id/net/aspose.pdf/color/greenyellow/
 ---
-## Properti Color.GreenYellow
+## Color.GreenYellow property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFADFF2F.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFADFF2F.
 
 ```csharp
 public static Color GreenYellow { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

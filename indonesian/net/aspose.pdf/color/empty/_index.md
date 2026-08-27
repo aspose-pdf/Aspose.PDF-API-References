@@ -1,12 +1,12 @@
 ---
-title: Color.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang warna. Mewakili warna kosong
+title: "Color.Empty"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang Color. Mewakili warna kosong"
 type: docs
 weight: 1430
 url: /id/net/aspose.pdf/color/empty/
 ---
-## Bidang Color.Empty
+## Color.Empty field
 
 Mewakili warna kosong.
 
@@ -16,6 +16,8 @@ public static Color Empty;
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

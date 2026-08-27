@@ -1,14 +1,14 @@
 ---
-title: GlyphPosition.GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor GlyphPosition. Membangun posisi glyph
+title: "GlyphPosition.GlyphPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor GlyphPosition. Membuat posisi glyph"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/glyphposition/glyphposition/
 ---
 ## GlyphPosition(string, double) {#constructor_1}
 
-Membangun posisi glyph.
+Membuat glyph position.
 
 ```csharp
 public GlyphPosition(string text, double position)
@@ -16,12 +16,12 @@ public GlyphPosition(string text, double position)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Nilai teks. |
-| position | Double | Nilai posisi. |
+| teks | String | Nilai teks. |
+| posisi | Double | Nilai posisi. |
 
 ### Lihat Juga
 
-* kelas [GlyphPosition](../)
+* class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public GlyphPosition(string text, double position)
 
 ## GlyphPosition(string) {#constructor}
 
-Konstruktor untuk Posisi Glyph.
+Konstruktor untuk Glyph Position.
 
 ```csharp
 public GlyphPosition(string text)
@@ -37,10 +37,12 @@ public GlyphPosition(string text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Nilai teks. |
+| teks | String | Nilai teks. |
 
 ### Lihat Juga
 
-* kelas [GlyphPosition](../)
+* class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

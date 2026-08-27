@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ImagePlacement. Ganti gambar dalam koleksi dengan gambar lain
+title: "ImagePlacement.Replace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ImagePlacement. Mengganti gambar dalam koleksi dengan gambar lain"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/imageplacement/replace/
 ---
-## Metode ImagePlacement.Replace
+## ImagePlacement.Replace method
 
 Ganti gambar dalam koleksi dengan gambar lain.
 
@@ -20,6 +20,8 @@ public void Replace(Stream image)
 
 ### Lihat Juga
 
-* kelas [ImagePlacement](../)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

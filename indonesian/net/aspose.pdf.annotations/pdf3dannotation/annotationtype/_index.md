@@ -1,22 +1,22 @@
 ---
-title: PDF3DAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DAnnotation. Mendapatkan jenis anotasi
+title: "PDF3DAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DAnnotation. Mendapatkan tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/annotationtype/
 ---
-## Properti PDF3DAnnotation.AnnotationType
+## PDF3DAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Jenis anotasi.
+Tipe anotasi.
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Jenis anotasi.
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

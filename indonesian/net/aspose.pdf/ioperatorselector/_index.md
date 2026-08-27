@@ -1,14 +1,14 @@
 ---
-title: Interface IOperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.IOperatorSelector. Mendefinisikan Pengunjung untuk mengunjungi berbagai operator pdf
+title: "Antarmuka IOperatorSelector"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.IOperatorSelector. Mendefinisikan Visitor untuk mengunjungi operator pdf yang berbeda"
 type: docs
-weight: 5790
+weight: 5920
 url: /id/net/aspose.pdf/ioperatorselector/
 ---
-## Antarmuka IOperatorSelector
+## IOperatorSelector interface
 
-Mendefinisikan Pengunjung untuk mengunjungi berbagai operator pdf.
+Mendefinisikan Visitor untuk mengunjungi berbagai operator pdf.
 
 ```csharp
 public interface IOperatorSelector
@@ -91,9 +91,11 @@ public interface IOperatorSelector
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_70)(ShFill) | Kunjungi/pilih operator sh. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_71)(ShowText) | Kunjungi/pilih operator Tj. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_72)(Stroke) | Kunjungi/pilih operator S. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_73)(TextOperator) | Kunjungi/pilih operator teks mana pun. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_73)(TextOperator) | Kunjungi/pilih operator teks apa pun. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

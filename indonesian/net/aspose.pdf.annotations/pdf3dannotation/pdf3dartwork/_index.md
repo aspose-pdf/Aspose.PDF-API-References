@@ -1,26 +1,28 @@
 ---
-title: PDF3DAnnotation.Pdf3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DAnnotation. Mendapatkan Karya 3D
+title: "PDF3DAnnotation.Pdf3DArtwork"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DAnnotation. Mendapatkan Artwork 3D"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/
 ---
-## Properti PDF3DAnnotation.Pdf3DArtwork
+## PDF3DAnnotation.Pdf3DArtwork property
 
-Mendapatkan Karya 3D.
+Mendapatkan Karya Seni 3D.
 
 ```csharp
 public PDF3DArtwork Pdf3DArtwork { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Karya 3D PDF3.
+Artwork PDF3D.
 
 ### Lihat Juga
 
-* kelas [PDF3DArtwork](../../pdf3dartwork/)
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

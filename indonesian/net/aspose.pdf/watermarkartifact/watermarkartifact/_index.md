@@ -1,14 +1,14 @@
 ---
-title: WatermarkArtifact.WatermarkArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor WatermarkArtifact. Membuat instance dari artefak Watermark
+title: "WatermarkArtifact.WatermarkArtifact"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor WatermarkArtifact. Membuat instance dari artefak Watermark"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/watermarkartifact/watermarkartifact/
 ---
-## Konstruktor WatermarkArtifact
+## WatermarkArtifact constructor
 
-Membuat instance dari artefak Watermark.
+Membuat instance artefak Watermark.
 
 ```csharp
 public WatermarkArtifact()
@@ -16,6 +16,8 @@ public WatermarkArtifact()
 
 ### Lihat Juga
 
-* kelas [WatermarkArtifact](../)
+* class [WatermarkArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class LlamaChatCompletionResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.LlamaChatCompletionResponse. Mewakili respons penyelesaian obrolan yang dikembalikan oleh model berdasarkan input yang diberikan
+title: "Kelas LlamaChatCompletionResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.LlamaChatCompletionResponse. Mewakili respons penyelesaian obrolan yang dikembalikan oleh model berdasarkan input yang diberikan."
 type: docs
-weight: 690
+weight: 740
 url: /id/net/aspose.pdf.ai/llamachatcompletionresponse/
 ---
-## Kelas LlamaChatCompletionResponse
+## LlamaChatCompletionResponse class
 
 Mewakili respons penyelesaian obrolan yang dikembalikan oleh model, berdasarkan input yang diberikan.
 
@@ -25,7 +25,7 @@ public class LlamaChatCompletionResponse : BaseResponse
 | Nama | Deskripsi |
 | --- | --- |
 | [Choices](../../aspose.pdf.ai/llamachatcompletionresponse/choices/) { get; set; } | Mendapatkan atau mengatur daftar pilihan penyelesaian obrolan. Bisa lebih dari satu jika n lebih besar dari 1. |
-| [Created](../../aspose.pdf.ai/llamachatcompletionresponse/created/) { get; set; } | Mendapatkan atau mengatur timestamp Unix (dalam detik) saat penyelesaian obrolan dibuat. |
+| [Created](../../aspose.pdf.ai/llamachatcompletionresponse/created/) { get; set; } | Mendapatkan atau mengatur cap waktu Unix (dalam detik) saat penyelesaian obrolan dibuat. |
 | [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Mendapatkan atau mengatur detail respons. |
 | [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Mendapatkan atau mengatur kesalahan respons HTTP. |
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Mendapatkan atau mengatur informasi kesalahan. |
@@ -47,6 +47,8 @@ public class LlamaChatCompletionResponse : BaseResponse
 
 ### Lihat Juga
 
-* kelas [BaseResponse](../baseresponse/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [BaseResponse](../baseresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

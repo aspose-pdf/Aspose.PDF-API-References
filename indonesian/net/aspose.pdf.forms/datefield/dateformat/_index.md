@@ -1,25 +1,27 @@
 ---
-title: DateField.DateFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DateField. Mengambil atau mengatur format tanggal
+title: "DateField.DateFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DateField. Mendapatkan atau mengatur format tanggal"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/datefield/dateformat/
 ---
-## Properti DateField.DateFormat
+## DateField.DateFormat property
 
-Mengambil atau mengatur format tanggal.
+Mendapatkan atau mengatur format tanggal.
 
 ```csharp
 public string DateFormat { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Format tanggal. Default dd/MM/yyyy
 
 ### Lihat Juga
 
-* kelas [DateField](../)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

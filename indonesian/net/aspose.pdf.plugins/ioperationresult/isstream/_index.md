@@ -1,25 +1,27 @@
 ---
-title: IOperationResult.IsStream
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IOperationResult. Menunjukkan apakah hasilnya adalah aliran keluaran
+title: "IOperationResult.IsStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti IOperationResult. Menunjukkan apakah hasil berupa stream keluaran."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/ioperationresult/isstream/
 ---
-## Properti IOperationResult.IsStream
+## IOperationResult.IsStream property
 
-Menunjukkan apakah hasilnya adalah aliran keluaran.
+Menunjukkan apakah hasilnya merupakan aliran keluaran.
 
 ```csharp
 public bool IsStream { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-`true` jika hasilnya adalah objek aliran; jika tidak `false`.
+`true` jika hasilnya berupa objek stream; jika tidak, `false`.
 
 ### Lihat Juga
 
-* antarmuka [IOperationResult](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* kumpulan [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

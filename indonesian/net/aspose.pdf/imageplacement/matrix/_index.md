@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacement. Matriks transformasi saat ini untuk gambar ini
+title: "ImagePlacement.Matrix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImagePlacement. Matriks transformasi saat ini untuk gambar ini"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/imageplacement/matrix/
 ---
-## Properti ImagePlacement.Matrix
+## ImagePlacement.Matrix property
 
 Matriks transformasi saat ini untuk gambar ini.
 
@@ -16,7 +16,9 @@ public Matrix Matrix { get; }
 
 ### Lihat Juga
 
-* kelas [Matrix](../../matrix/)
-* kelas [ImagePlacement](../)
+* class [Matrix](../../matrix/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

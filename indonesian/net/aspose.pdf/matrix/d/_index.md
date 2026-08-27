@@ -1,14 +1,14 @@
 ---
-title: Matrix.D
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Matrix. Anggota D dari matriks transformasi
+title: "Matrix.D"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Matrix. Anggota D dari matriks transformasi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/matrix/d/
 ---
-## Properti Matrix.D
+## Matrix.D property
 
-Anggota D dari matriks transformasi.
+Anggota D dari Matrix transformasi.
 
 ```csharp
 public double D { get; set; }
@@ -16,6 +16,8 @@ public double D { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

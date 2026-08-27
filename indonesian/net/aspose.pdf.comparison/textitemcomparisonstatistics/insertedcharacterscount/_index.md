@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.InsertedCharactersCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextItemComparisonStatistics. Mendapatkan dan mengatur jumlah karakter yang disisipkan
+title: "TextItemComparisonStatistics.InsertedCharactersCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextItemComparisonStatistics. Mendapatkan dan mengatur jumlah karakter yang disisipkan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/
 ---
-## Properti TextItemComparisonStatistics.InsertedCharactersCount
+## TextItemComparisonStatistics.InsertedCharactersCount property
 
 Mendapatkan dan mengatur jumlah karakter yang disisipkan.
 
@@ -16,6 +16,8 @@ public int InsertedCharactersCount { get; }
 
 ### Lihat Juga
 
-* kelas [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageLabel.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageLabel. Mengambil atau mengatur gaya penomoran
+title: "PageLabel.NumberingStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageLabel properti. Mengambil atau mengatur gaya penomoran"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pagelabel/numberingstyle/
 ---
-## Properti PageLabel.NumberingStyle
+## PageLabel.NumberingStyle property
 
-Mengambil atau mengatur gaya penomoran.
+Mendapatkan atau mengatur gaya penomoran.
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle NumberingStyle { get; set; }
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

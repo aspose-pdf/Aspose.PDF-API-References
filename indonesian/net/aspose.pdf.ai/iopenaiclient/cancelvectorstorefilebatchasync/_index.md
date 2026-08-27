@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CancelVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Membatalkan batch file penyimpanan vektor tertentu secara asinkron
+title: "IOpenAIClient.CancelVectorStoreFileBatchAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode IOpenAIClient. Membatalkan batch file vector store tertentu secara asinkron"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/iopenaiclient/cancelvectorstorefilebatchasync/
 ---
-## Metode IOpenAIClient.CancelVectorStoreFileBatchAsync
+## IOpenAIClient.CancelVectorStoreFileBatchAsync method
 
-Membatalkan batch file penyimpanan vektor tertentu secara asinkron.
+Membatalkan batch file vector store tertentu secara asynchronous.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -17,11 +17,11 @@ public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor yang berisi batch file yang akan dibatalkan. |
-| fileBatchId | String | ID dari batch file yang akan dibatalkan. |
+| vectorStoreId | String | ID vector store yang berisi batch file yang akan dibatalkan. |
+| fileBatchId | String | ID batch file yang akan dibatalkan. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembatalan batch file.
 
@@ -29,12 +29,14 @@ Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pem
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID batch file penyimpanan vektor adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID batch file vector store bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

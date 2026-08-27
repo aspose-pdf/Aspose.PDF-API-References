@@ -1,14 +1,14 @@
 ---
-title: ComboBoxField.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ComboBoxField. Mendapatkan atau mengatur status dapat diedit dari field
+title: "ComboBoxField.Editable"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ComboBoxField properti. Mendapatkan atau mengatur status dapat diedit dari bidang"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/comboboxfield/editable/
 ---
-## Properti ComboBoxField.Editable
+## ComboBoxField.Editable property
 
-Mendapatkan atau mengatur status dapat diedit dari field.
+Mendapatkan atau mengatur status dapat diedit dari bidang.
 
 ```csharp
 public bool Editable { get; set; }
@@ -16,6 +16,8 @@ public bool Editable { get; set; }
 
 ### Lihat Juga
 
-* kelas [ComboBoxField](../)
+* class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.FileHyperlink. Mewakili objek hyperlink file
+title: "Kelas FileHyperlink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.FileHyperlink. Mewakili objek hyperlink file"
 type: docs
-weight: 4830
+weight: 4950
 url: /id/net/aspose.pdf/filehyperlink/
 ---
-## Kelas FileHyperlink
+## FileHyperlink class
 
 Mewakili objek hyperlink file.
 
@@ -18,18 +18,20 @@ public sealed class FileHyperlink : Hyperlink
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FileHyperlink](filehyperlink/#constructor)() | Menginisialisasi instance baru dari kelas `FileHyperlink`. |
-| [FileHyperlink](filehyperlink/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `FileHyperlink`. |
+| [FileHyperlink](filehyperlink/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `FileHyperlink`. |
+| [FileHyperlink](filehyperlink/#constructor_1)(string) | Menginisialisasi sebuah instance baru dari kelas `FileHyperlink`. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Mendapatkan atau menetapkan sebuah flag yang menentukan apakah akan membuka dokumen tujuan di jendela baru (hanya mempengaruhi dokumen PDF). |
-| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | Mendapatkan atau menetapkan jalur ke file. |
+| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Mendapatkan atau mengatur flag yang menentukan apakah membuka dokumen tujuan dalam jendela baru (hanya memengaruhi dokumen PDF). |
+| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | Mendapatkan atau mengatur jalur ke file. |
 
 ### Lihat Juga
 
-* kelas [Hyperlink](../hyperlink/)
+* class [Hyperlink](../hyperlink/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

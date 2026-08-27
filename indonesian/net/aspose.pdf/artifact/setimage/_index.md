@@ -1,7 +1,7 @@
 ---
-title: Artifact.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Mengatur gambar artefak
+title: "Artifact.SetImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Menetapkan gambar artefak."
 type: docs
 weight: 280
 url: /id/net/aspose.pdf/artifact/setimage/
@@ -20,7 +20,7 @@ public void SetImage(Stream imageStream)
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,10 +36,12 @@ public void SetImage(string imageName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageName | String | Nama file gambar. |
+| imageName | String | Nama berkas gambar. |
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

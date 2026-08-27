@@ -1,7 +1,7 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FontCollection. Memeriksa apakah font ada dalam koleksi font
+title: "FontCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FontCollection. Memeriksa apakah font ada dalam koleksi font"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/fontcollection/contains/
@@ -16,13 +16,13 @@ public bool Contains(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama font. |
+| nama | String | Nama font. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika koleksi berisi font dengan nama yang ditentukan.
 
-### See Also
+### Lihat Juga
 
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -42,13 +42,15 @@ public bool Contains(Font item)
 | --- | --- | --- |
 | item | Font | Objek yang akan dicari dalam koleksi |
 
-### Return Value
+### Nilai Kembalian
 
 true jika item ditemukan dalam koleksi; jika tidak, false.
 
-### See Also
+### Lihat Juga
 
 * class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.GetOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DRenderMode. Mendapatkan opasitas
+title: "PDF3DRenderMode.GetOpacity"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DRenderMode. Mengambil opasitas"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/getopacity/
 ---
-## Metode PDF3DRenderMode.GetOpacity
+## PDF3DRenderMode.GetOpacity method
 
 Mendapatkan opasitas.
 
@@ -14,12 +14,14 @@ Mendapatkan opasitas.
 public double GetOpacity()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 System.Double.
 
 ### Lihat Juga
 
-* kelas [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

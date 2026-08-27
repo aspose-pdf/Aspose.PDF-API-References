@@ -1,14 +1,14 @@
 ---
-title: StreamDataSource.DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StreamDataSource. Tipe aliran sumber data
+title: "StreamDataSource.DataType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StreamDataSource. Tipe aliran sumber data"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/streamdatasource/datatype/
 ---
-## Properti StreamDataSource.DataType
+## StreamDataSource.DataType property
 
-Tipe sumber data (aliran).
+Jenis sumber data (aliran).
 
 ```csharp
 public DataType DataType { get; }
@@ -20,3 +20,5 @@ public DataType DataType { get; }
 * class [StreamDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

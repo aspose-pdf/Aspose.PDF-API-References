@@ -1,14 +1,14 @@
 ---
-title: Enum PdfToHtmlOptions.SaveDataType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType. Menentukan tipe output dari file HTML
+title: "Enum PdfToHtmlOptions.SaveDataType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType. Menentukan tipe output file HTML"
 type: docs
-weight: 9110
+weight: 9260
 url: /id/net/aspose.pdf.plugins/pdftohtmloptions.savedatatype/
 ---
-## Enumerasi PdfToHtmlOptions.SaveDataType
+## PdfToHtmlOptions.SaveDataType enumeration
 
-Menentukan tipe output dari file HTML.
+Menentukan tipe output file HTML.
 
 ```csharp
 public enum SaveDataType
@@ -18,12 +18,14 @@ public enum SaveDataType
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| FileWithExternalResources | `0` | Simpan HTMl ke file dengan sumber daya eksternal |
-| FileWithEmbeddedResources | `1` | Simpan HTMl ke file dengan sumber daya tersemat |
-| StreamWithEmbeddedResources | `2` | Simpan HTMl ke aliran file dengan sumber daya tersemat |
+| FileWithExternalResources | `0` | Simpan HTML ke file dengan sumber daya eksternal |
+| FileWithEmbeddedResources | `1` | Simpan HTML ke file dengan sumber daya tersemat |
+| StreamWithEmbeddedResources | `2` | Simpan HTML ke aliran file dengan sumber daya tersemat |
 
 ### Lihat Juga
 
-* kelas [PdfToHtmlOptions](../pdftohtmloptions/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* kumpulan [Aspose.PDF](../../)
+* class [PdfToHtmlOptions](../pdftohtmloptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

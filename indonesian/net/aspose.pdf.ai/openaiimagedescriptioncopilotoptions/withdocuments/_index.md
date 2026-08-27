@@ -1,7 +1,7 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Mengatur koleksi dokumen untuk opsi copilot deskripsi gambar
+title: "OpenAIImageDescriptionCopilotOptions.WithDocuments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions metode. Mengatur koleksi dokumen untuk opsi copilot deskripsi gambar"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocuments/
@@ -16,16 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection doc
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | Koleksi dokumen yang akan diatur. |
+| documentCollection | DocumentCollection | Koleksi dokumen yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [DocumentCollection](../../documentcollection/)
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,14 +43,14 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfD
 | --- | --- | --- |
 | pdfDocuments | List`1 | Daftar dokumen PDF yang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [PdfDocument](../../pdfdocument/)
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -68,12 +68,14 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<string> filePaths
 | --- | --- | --- |
 | filePaths | List`1 | Daftar jalur file yang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

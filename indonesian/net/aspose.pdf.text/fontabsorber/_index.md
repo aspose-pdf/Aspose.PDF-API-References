@@ -1,14 +1,14 @@
 ---
-title: Class FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.FontAbsorber. Mewakili objek penyerap font. Melakukan pencarian untuk font dan memberikan akses ke hasil pencarian melalui koleksi Fonts
+title: "Kelas FontAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.FontAbsorber. Mewakili objek penyerap font. Melakukan pencarian font dan menyediakan akses ke hasil pencarian melalui koleksi Fonts."
 type: docs
-weight: 10520
+weight: 10700
 url: /id/net/aspose.pdf.text/fontabsorber/
 ---
-## Kelas FontAbsorber
+## FontAbsorber class
 
-Mewakili objek penyerap font. Melakukan pencarian untuk font dan memberikan akses ke hasil pencarian melalui koleksi [`Fonts`](./fonts/).
+Mewakili objek penyerap font. Melakukan pencarian font dan menyediakan akses ke hasil pencarian melalui koleksi [`Fonts`](./fonts/).
 
 ```csharp
 public class FontAbsorber
@@ -30,10 +30,12 @@ public class FontAbsorber
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Dokumen) | Melakukan pencarian pada dokumen yang ditentukan. |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Dokumen, int, int) | Melakukan pencarian dalam rentang halaman yang ditentukan dari dokumen. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document) | Melakukan pencarian pada dokumen yang ditentukan. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document, int, int) | Melakukan pencarian dalam rentang halaman yang ditentukan dari dokumen. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

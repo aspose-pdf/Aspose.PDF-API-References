@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Required
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi diperlukan atau tidak jika akan diatur
+title: "FormFieldOptions.Required"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/dimodifikasi wajib diisi atau tidak jika akan diatur."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.plugins/formfieldoptions/required/
 ---
-## Properti FormFieldOptions.Required
+## FormFieldOptions.Required property
 
-Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi diperlukan atau tidak (jika akan diatur).
+Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah wajib atau tidak (jika akan diatur).
 
 ```csharp
 public bool? Required { get; set; }
@@ -16,6 +16,8 @@ public bool? Required { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldOptions](../)
+* class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

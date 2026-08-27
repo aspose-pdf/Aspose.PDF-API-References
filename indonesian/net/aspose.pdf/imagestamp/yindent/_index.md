@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageStamp. Mendapatkan dan mengatur koordinat stempel vertikal yang dimulai dari bawah
+title: "ImageStamp.YIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageStamp. Mengambil dan mengatur koordinat stempel vertikal mulai dari bagian bawah"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/imagestamp/yindent/
 ---
-## Properti ImageStamp.YIndent
+## ImageStamp.YIndent property
 
-Mendapatkan dan mengatur koordinat stempel vertikal, dimulai dari bawah.
+Mendapatkan dan mengatur koordinat stempel vertikal, mulai dari bawah.
 
 ```csharp
 public override double YIndent { get; set; }
@@ -16,6 +16,8 @@ public override double YIndent { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

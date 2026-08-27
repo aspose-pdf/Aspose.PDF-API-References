@@ -1,7 +1,7 @@
 ---
-title: DocumentFactory.CreateDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DocumentFactory. Buat dokumen
+title: "DocumentFactory.CreateDocument"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "DocumentFactory metode. Membuat dokumen"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/documentfactory/createdocument/
@@ -14,16 +14,16 @@ Buat dokumen.
 public Document CreateDocument(Stream input, LoadOptions options)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran input. |
+| masukan | Stream | Aliran masukan. |
 | options | LoadOptions | Opsi pemuatan dokumen. |
 
-### Return Value
+### Nilai Kembalian
 
 Dokumen yang dibuat.
 
-### See Also
+### Lihat Juga
 
 * class [Document](../../document/)
 * class [LoadOptions](../../loadoptions/)
@@ -41,11 +41,11 @@ Buat dokumen kosong.
 public Document CreateDocument()
 ```
 
-### Return Value
+### Nilai Kembalian
 
 Dokumen yang dibuat.
 
-### See Also
+### Lihat Juga
 
 * class [Document](../../document/)
 * class [DocumentFactory](../)
@@ -62,15 +62,15 @@ Muat dokumen dari aliran.
 public Document CreateDocument(Stream input)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran input. |
+| masukan | Stream | Aliran masukan. |
 
-### Return Value
+### Nilai Kembalian
 
 Dokumen yang dibuat.
 
-### See Also
+### Lihat Juga
 
 * class [Document](../../document/)
 * class [DocumentFactory](../)
@@ -87,16 +87,16 @@ Muat dokumen yang dilindungi kata sandi dari aliran.
 public Document CreateDocument(Stream input, string password)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran sumber. |
-| password | String | Kata sandi untuk akses ke dokumen. |
+| masukan | Stream | Stream sumber. |
+| kata sandi | String | Kata sandi untuk mengakses dokumen. |
 
-### Return Value
+### Nilai Kembalian
 
 Dokumen yang dibuat.
 
-### See Also
+### Lihat Juga
 
 * class [Document](../../document/)
 * class [DocumentFactory](../)
@@ -113,17 +113,19 @@ Muat dokumen dari file.
 public Document CreateDocument(string fileName)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fileName | String | Nama file PDF. |
 
-### Return Value
+### Nilai Kembalian
 
 Dokumen yang dibuat.
 
-### See Also
+### Lihat Juga
 
 * class [Document](../../document/)
 * class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

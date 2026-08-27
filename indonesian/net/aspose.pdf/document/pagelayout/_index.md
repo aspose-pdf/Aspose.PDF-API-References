@@ -1,14 +1,14 @@
 ---
-title: Document.PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mengambil atau mengatur tata letak halaman yang akan digunakan saat dokumen dibuka
+title: "Document.PageLayout"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur tata letak halaman yang akan digunakan saat dokumen dibuka"
 type: docs
-weight: 450
+weight: 470
 url: /id/net/aspose.pdf/document/pagelayout/
 ---
-## Properti Document.PageLayout
+## Document.PageLayout property
 
-Mengambil atau mengatur tata letak halaman yang akan digunakan saat dokumen dibuka.
+Mendapatkan atau mengatur tata letak halaman yang akan digunakan saat dokumen dibuka.
 
 ```csharp
 public PageLayout PageLayout { get; set; }
@@ -20,3 +20,5 @@ public PageLayout PageLayout { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

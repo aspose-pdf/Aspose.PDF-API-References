@@ -1,12 +1,12 @@
 ---
-title: Class PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PageSize. Kelas yang mewakili ukuran halaman dalam dokumen PDF
+title: "Kelas PageSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.PageSize. Kelas yang mewakili ukuran halaman dalam dokumen PDF"
 type: docs
-weight: 8250
+weight: 8390
 url: /id/net/aspose.pdf/pagesize/
 ---
-## Kelas PageSize
+## PageSize class
 
 Kelas yang mewakili ukuran halaman dalam dokumen PDF.
 
@@ -37,10 +37,12 @@ public sealed class PageSize
 | static [PageLegal](../../aspose.pdf/pagesize/pagelegal/) { get; } | Ukuran Legal (356x216 mm). |
 | static [PageLetter](../../aspose.pdf/pagesize/pageletter/) { get; } | Ukuran Letter (279x216 mm). |
 | [Height](../../aspose.pdf/pagesize/height/) { get; set; } | Mendapatkan atau mengatur tinggi halaman. |
-| [IsLandscape](../../aspose.pdf/pagesize/islandscape/) { get; set; } | Mendapatkan orientasi halaman. Mengembalikan true jika ini adalah orientasi lanskap dan false jika ini adalah potret. |
+| [IsLandscape](../../aspose.pdf/pagesize/islandscape/) { get; set; } | Mendapatkan orientasi halaman. Mengembalikan true jika ini orientasi lanskap dan false jika ini potret. |
 | [Width](../../aspose.pdf/pagesize/width/) { get; set; } | Mendapatkan atau mengatur lebar halaman. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

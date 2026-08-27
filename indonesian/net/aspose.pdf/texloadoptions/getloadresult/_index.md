@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.GetLoadResult
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXLoadOptions. Mendapatkan hasil untuk pemuatan TeX dan kompilasi - apakah semuanya berjalan lancar atau ada komentar/yang salah
+title: "TeXLoadOptions.GetLoadResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TeXLoadOptions. Mendapatkan hasil untuk pemuatan dan kompilasi TeX, apakah semuanya berjalan lancar atau ada komentar/galat."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/texloadoptions/getloadresult/
 ---
-## Metode TeXLoadOptions.GetLoadResult
+## TeXLoadOptions.GetLoadResult method
 
-Mendapatkan hasil untuk pemuatan TeX dan kompilasi - apakah semuanya berjalan lancar atau ada komentar/yang salah.
+Mendapatkan hasil untuk pemuatan dan kompilasi TeX - apakah semuanya berjalan lancar atau ada komentar/galat.
 
 ```csharp
 public TeXLoadResult GetLoadResult()
@@ -20,3 +20,5 @@ public TeXLoadResult GetLoadResult()
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor EncryptedPayload. Inisialisasi instance payload terenkripsi
+title: "EncryptedPayload.EncryptedPayload"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor EncryptedPayload. Menginisialisasi instance payload terenkripsi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
-## Konstruktor EncryptedPayload
+## EncryptedPayload constructor
 
 Inisialisasi instance payload terenkripsi.
 
@@ -20,7 +20,9 @@ public EncryptedPayload(FileSpecification fileSpecification)
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../filespecification/)
-* kelas [EncryptedPayload](../)
+* class [FileSpecification](../../filespecification/)
+* class [EncryptedPayload](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineAnnotation. Satuan ukuran yang ditentukan untuk anotasi ini
+title: "LineAnnotation.Measure"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LineAnnotation. Satuan ukuran yang ditentukan untuk anotasi ini"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.annotations/lineannotation/measure/
 ---
-## Properti LineAnnotation.Measure
+## LineAnnotation.Measure property
 
 Satuan ukuran yang ditentukan untuk anotasi ini.
 
@@ -16,7 +16,9 @@ public Measure Measure { get; set; }
 
 ### Lihat Juga
 
-* kelas [Measure](../../measure/)
-* kelas [LineAnnotation](../)
+* class [Measure](../../measure/)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Mengatur model untuk opsi copilot chat
+title: "OpenAIChatCopilotOptions.WithModel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilotOptions. Menetapkan model untuk opsi copilot obrolan"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/
 ---
-## Metode OpenAIChatCopilotOptions.WithModel
+## OpenAIChatCopilotOptions.WithModel method
 
-Mengatur model untuk opsi copilot chat.
+Mengatur model untuk opsi copilot obrolan.
 
 ```csharp
 public OpenAIChatCopilotOptions WithModel(string model)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithModel(string model)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| model | String | Model yang akan diatur. |
+| model | String | Model yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

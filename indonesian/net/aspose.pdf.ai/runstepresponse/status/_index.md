@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunStepResponse. Mendapatkan atau mengatur status langkah yang dijalankan yang dapat berupa in_progress, cancelled, failed, completed, atau expired
+title: "RunStepResponse.Status"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunStepResponse. Mendapatkan atau mengatur status langkah yang dijalankan yang dapat berupa in_progress, cancelled, failed, completed, atau expired"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.ai/runstepresponse/status/
 ---
-## Properti RunStepResponse.Status
+## RunStepResponse.Status property
 
-Mendapatkan atau mengatur status langkah yang dijalankan, yang dapat berupa in_progress, cancelled, failed, completed, atau expired.
+Mendapatkan atau mengatur status run step, yang dapat berupa in_progress, cancelled, failed, completed, atau expired.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunStepResponse](../)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

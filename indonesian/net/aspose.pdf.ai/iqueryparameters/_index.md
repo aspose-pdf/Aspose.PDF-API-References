@@ -1,12 +1,12 @@
 ---
-title: Interface IQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.IQueryParameters. Mewakili parameter kueri untuk permintaan API
+title: "Antarmuka IQueryParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.IQueryParameters. Mewakili parameter kueri untuk permintaan API"
 type: docs
-weight: 550
+weight: 600
 url: /id/net/aspose.pdf.ai/iqueryparameters/
 ---
-## Antarmuka IQueryParameters
+## IQueryParameters interface
 
 Mewakili parameter kueri untuk permintaan API.
 
@@ -24,3 +24,5 @@ public interface IQueryParameters
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

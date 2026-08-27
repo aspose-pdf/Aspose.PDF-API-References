@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableCellElement. Mendapatkan atau mengatur padding
+title: "TableCellElement.Margin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableCellElement properti. Mendapatkan atau mengatur padding"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/tablecellelement/margin/
 ---
-## Properti TableCellElement.Margin
+## TableCellElement.Margin property
 
 Mendapatkan atau mengatur padding.
 
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../../../aspose.pdf/margininfo/)
-* kelas [TableCellElement](../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

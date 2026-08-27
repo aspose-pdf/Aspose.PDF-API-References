@@ -1,7 +1,7 @@
 ---
-title: OpenAISummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilot method.
+title: "OpenAISummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAISummaryCopilot."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/openaisummarycopilot/getsummarydocumentasync/
@@ -14,8 +14,8 @@ public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationTok
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [OpenAISummaryCopilot](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -30,8 +30,10 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo,
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PageInfo](../../../aspose.pdf/pageinfo/)
-* kelas [OpenAISummaryCopilot](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

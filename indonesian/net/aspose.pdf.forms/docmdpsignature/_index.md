@@ -1,14 +1,14 @@
 ---
-title: Class DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Forms.DocMDPSignature. Mewakili kelas jenis tanda tangan deteksi dan pencegahan modifikasi dokumen MDP
+title: "Kelas DocMDPSignature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Forms.DocMDPSignature class. Mewakili kelas tipe tanda tangan deteksi dan pencegahan modifikasi MDP dokumen."
 type: docs
-weight: 5030
+weight: 5150
 url: /id/net/aspose.pdf.forms/docmdpsignature/
 ---
-## Kelas DocMDPSignature
+## DocMDPSignature class
 
-Mewakili kelas jenis tanda tangan MDP (deteksi dan pencegahan modifikasi) dokumen.
+Mewakili kelas tipe tanda tangan MDP (deteksi dan pencegahan modifikasi) dokumen.
 
 ```csharp
 public sealed class DocMDPSignature
@@ -30,3 +30,5 @@ public sealed class DocMDPSignature
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

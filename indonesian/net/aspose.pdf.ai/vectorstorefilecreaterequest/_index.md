@@ -1,12 +1,12 @@
 ---
-title: Class VectorStoreFileCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.VectorStoreFileCreateRequest. Buat permintaan file penyimpanan vektor
+title: "Kelas VectorStoreFileCreateRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.VectorStoreFileCreateRequest. Membuat permintaan file vector store."
 type: docs
-weight: 1320
+weight: 1410
 url: /id/net/aspose.pdf.ai/vectorstorefilecreaterequest/
 ---
-## Kelas VectorStoreFileCreateRequest
+## VectorStoreFileCreateRequest class
 
 Buat permintaan file penyimpanan vektor.
 
@@ -24,9 +24,11 @@ public class VectorStoreFileCreateRequest
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/vectorstorefilecreaterequest/fileid/) { get; set; } | Mendapatkan atau menetapkan ID File yang harus digunakan oleh penyimpanan vektor. Berguna untuk alat seperti file_search yang dapat mengakses file. |
+| [FileId](../../aspose.pdf.ai/vectorstorefilecreaterequest/fileid/) { get; set; } | Mendapatkan atau mengatur ID File yang harus digunakan oleh vector store. Berguna untuk alat seperti file_search yang dapat mengakses file. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

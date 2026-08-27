@@ -1,12 +1,12 @@
 ---
-title: Class FileListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.FileListResponse. Mewakili respons daftar file yang berisi daftar respons file
+title: "Kelas FileListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.FileListResponse. Mewakili respons daftar file yang berisi daftar respons file."
 type: docs
-weight: 390
+weight: 410
 url: /id/net/aspose.pdf.ai/filelistresponse/
 ---
-## Kelas FileListResponse
+## FileListResponse class
 
 Mewakili respons daftar file yang berisi daftar respons file.
 
@@ -31,12 +31,14 @@ public class FileListResponse : DataResponse<List<FileResponse>>
 | [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Mendapatkan atau mengatur header respons HTTP. |
 | [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Mendapatkan atau mengatur kode status HTTP. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Menunjukkan apakah respons berhasil. |
-| [Object](../../aspose.pdf.ai/filelistresponse/object/) { get; set; } | Mendapatkan atau mengatur tipe objek, yang selalu berupa daftar. |
+| [Object](../../aspose.pdf.ai/filelistresponse/object/) { get; set; } | Mendapatkan atau mengatur tipe objek, yang selalu berupa list. |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Mendapatkan frasa alasan kesalahan. |
 
 ### Lihat Juga
 
-* kelas [DataResponse&lt;T&gt;](../dataresponse-1/)
-* kelas [FileResponse](../fileresponse/)
+* class [DataResponse&lt;T&gt;](../dataresponse-1/)
+* class [FileResponse](../fileresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

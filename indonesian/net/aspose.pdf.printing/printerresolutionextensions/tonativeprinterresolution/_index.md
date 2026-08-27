@@ -1,14 +1,14 @@
 ---
-title: PrinterResolutionExtensions.ToNativePrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PrinterResolutionExtensions. Mengonversi PrinterResolution ke System.Drawing.Printing.PrinterResolution yang spesifik untuk Windows
+title: "PrinterResolutionExtensions.ToNativePrinterResolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PrinterResolutionExtensions. Mengonversi PrinterResolution ke System.Drawing.Printing.PrinterResolution yang spesifik Windows"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.printing/printerresolutionextensions/tonativeprinterresolution/
 ---
-## Metode PrinterResolutionExtensions.ToNativePrinterResolution
+## PrinterResolutionExtensions.ToNativePrinterResolution method
 
-Mengonversi [`PrinterResolution`](../../printerresolution/) ke System.Drawing.Printing.PrinterResolution yang spesifik untuk Windows.
+Mengonversi [`PrinterResolution`](../../printerresolution/) ke System.Drawing.Printing.PrinterResolution yang spesifik Windows.
 
 ```csharp
 public static PrinterResolution ToNativePrinterResolution(this PrinterResolution printerResolution)
@@ -18,13 +18,15 @@ public static PrinterResolution ToNativePrinterResolution(this PrinterResolution
 | --- | --- | --- |
 | printerResolution | PrinterResolution | Resolusi printer yang akan dikonversi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Resolusi printer Windows.
 
 ### Lihat Juga
 
-* kelas [PrinterResolution](../../printerresolution/)
-* kelas [PrinterResolutionExtensions](../)
+* class [PrinterResolution](../../printerresolution/)
+* class [PrinterResolutionExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

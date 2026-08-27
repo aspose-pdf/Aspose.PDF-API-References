@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Mengekspor konten dari jenis anotasi yang ditentukan ke dalam XFDF
+title: "PdfAnnotationEditor.ExportAnnotationsXfdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAnnotationEditor. Mengekspor konten tipe anotasi yang ditentukan ke XFDF"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
 ---
 ## ExportAnnotationsXfdf(Stream, int, int, string[]) {#exportannotationsxfdf_1}
 
-Mengekspor konten dari jenis anotasi yang ditentukan ke dalam XFDF
+Mengekspor konten dari tipe anotasi yang ditentukan ke XFDF
 
 ```csharp
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, string[] annotTypes)
@@ -16,10 +16,10 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, st
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| xmlOutputStream | Stream | Aliran XFDF keluaran. |
+| xmlOutputStream | Stream | Aliran XFDF output. |
 | start | Int32 | Halaman awal dari mana anotasi dokumen akan diekspor. |
 | end | Int32 | Halaman akhir ke mana anotasi dokumen akan diekspor. |
-| annotTypes | String[] | Array jenis anotasi yang perlu diekspor. |
+| annotTypes | String[] | Array tipe anotasi yang perlu diekspor. |
 
 ## Contoh
 
@@ -35,7 +35,7 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ### Lihat Juga
 
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,7 +43,7 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ## ExportAnnotationsXfdf(Stream, int, int, AnnotationType[]) {#exportannotationsxfdf}
 
-Mengekspor konten dari jenis anotasi yang ditentukan ke dalam XFDF
+Mengekspor konten dari tipe anotasi yang ditentukan ke XFDF
 
 ```csharp
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, 
@@ -52,10 +52,10 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| xmlOutputStream | Stream | Aliran XFDF keluaran. |
+| xmlOutputStream | Stream | Aliran XFDF output. |
 | start | Int32 | Halaman awal dari mana anotasi dokumen akan diekspor. |
 | end | Int32 | Halaman akhir ke mana anotasi dokumen akan diekspor. |
-| annotTypes | AnnotationType[] | Array jenis anotasi yang perlu diekspor. |
+| annotTypes | AnnotationType[] | Array tipe anotasi yang perlu diekspor. |
 
 ## Contoh
 
@@ -72,6 +72,8 @@ using (Stream stream = File.Create("example.xfdf"))
 ### Lihat Juga
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

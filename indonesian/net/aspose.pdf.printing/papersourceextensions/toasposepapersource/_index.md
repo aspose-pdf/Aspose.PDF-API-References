@@ -1,14 +1,14 @@
 ---
-title: PaperSourceExtensions.ToAsposePaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PaperSourceExtensions. Mengonversi System.Drawing.Printing.PaperSource khusus Windows ke PaperSource
+title: "PaperSourceExtensions.ToAsposePaperSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PaperSourceExtensions. Mengonversi System.Drawing.Printing.PaperSource yang spesifik Windows ke PaperSource"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/papersourceextensions/toasposepapersource/
 ---
-## Metode PaperSourceExtensions.ToAsposePaperSource
+## PaperSourceExtensions.ToAsposePaperSource method
 
-Mengonversi System.Drawing.Printing.PaperSource khusus Windows ke [`PaperSource`](../../papersource/).
+Mengonversi System.Drawing.Printing.PaperSource yang spesifik Windows ke [`PaperSource`](../../papersource/).
 
 ```csharp
 public static PaperSource ToAsposePaperSource(this PaperSource nativeSource)
@@ -16,15 +16,17 @@ public static PaperSource ToAsposePaperSource(this PaperSource nativeSource)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| nativeSource | PaperSource | Sumber kertas Windows yang akan dikonversi. |
+| nativeSource | PaperSource | Sumber kertas Windows untuk dikonversi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sumber kertas yang telah dikonversi.
+Sumber kertas yang dikonversi.
 
 ### Lihat Juga
 
-* kelas [PaperSource](../../papersource/)
-* kelas [PaperSourceExtensions](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSourceExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

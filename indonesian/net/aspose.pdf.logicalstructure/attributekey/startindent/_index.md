@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.StartIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut StartIndent Pemilik atribut Layout
+title: "AttributeKey.StartIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeKey. Atribut StartIndent pemilik atribut Layout"
 type: docs
 weight: 310
 url: /id/net/aspose.pdf.logicalstructure/attributekey/startindent/
 ---
-## Bidang AttributeKey.StartIndent
+## AttributeKey.StartIndent field
 
-Atribut StartIndent (Pemilik atribut Layout).
+Atribut StartIndent (pemilik atribut Tata Letak).
 
 ```csharp
 public static readonly AttributeKey StartIndent;
@@ -16,6 +16,8 @@ public static readonly AttributeKey StartIndent;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

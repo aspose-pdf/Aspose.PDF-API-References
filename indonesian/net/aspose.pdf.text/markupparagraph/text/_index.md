@@ -1,14 +1,14 @@
 ---
-title: MarkupParagraph.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupParagraph. Mengambil atau mengatur teks paragraf
+title: "MarkupParagraph.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkupParagraph. Mendapatkan atau mengatur teks paragraf"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/markupparagraph/text/
 ---
-## Properti MarkupParagraph.Text
+## MarkupParagraph.Text property
 
-Mengambil atau mengatur teks paragraf.
+Mendapatkan atau mengatur teks paragraf.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarkupParagraph](../)
+* class [MarkupParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

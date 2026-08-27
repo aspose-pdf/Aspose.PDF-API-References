@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureTextState. Mendapatkan atau mengatur jarak antar baris teks
+title: "StructureTextState.LineSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureTextState. Mendapatkan atau mengatur spasi baris teks"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/structuretextstate/linespacing/
 ---
-## Properti StructureTextState.LineSpacing
+## StructureTextState.LineSpacing property
 
-Mendapatkan atau mengatur jarak antar baris teks.
+Mendapatkan atau mengatur jarak baris teks.
 
 ```csharp
 public float? LineSpacing { get; set; }
 ```
 
-## Keterangan
+## Catatan
 
-Dapat bernilai null. Gunakan null untuk mewarisi properti `LineSpacing` dari elemen struktur induk.
+Bisa bernilai null. Gunakan null untuk mewarisi properti `LineSpacing` dari elemen struktur induk.
 
 ### Lihat Juga
 
-* kelas [StructureTextState](../)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

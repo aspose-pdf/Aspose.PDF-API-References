@@ -1,14 +1,14 @@
 ---
-title: BackgroundArtifact.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BackgroundArtifact. Mendapatkan atau mengatur warna latar belakang artefak latar belakang
+title: "BackgroundArtifact.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BackgroundArtifact. Mendapatkan atau mengatur warna latar belakang artefak"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/backgroundartifact/backgroundcolor/
 ---
-## Properti BackgroundArtifact.BackgroundColor
+## BackgroundArtifact.BackgroundColor property
 
-Mendapatkan atau mengatur warna latar belakang artefak latar belakang
+Mendapatkan atau mengatur warna latar belakang artefak.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../color/)
-* kelas [BackgroundArtifact](../)
+* class [Color](../../color/)
+* class [BackgroundArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

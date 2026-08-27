@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileStamp. Menambahkan stempel ke file
+title: "PdfFileStamp.AddStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileStamp. Menambahkan stamp ke file"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
-## Metode PdfFileStamp.AddStamp
+## PdfFileStamp.AddStamp method
 
 Menambahkan stempel ke file.
 
@@ -16,7 +16,7 @@ public void AddStamp(Stamp stamp)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stamp | Stempel | Objek stempel yang. |
+| stempel | Stempel | Objek Stempel yang. |
 
 ## Contoh
 
@@ -34,7 +34,9 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [Stempel](../../stamp/)
-* kelas [PdfFileStamp](../)
+* class [Stamp](../../stamp/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

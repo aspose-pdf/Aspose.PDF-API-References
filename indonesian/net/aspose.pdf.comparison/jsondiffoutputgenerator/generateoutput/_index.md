@@ -1,7 +1,7 @@
 ---
-title: JsonDiffOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metode JsonDiffOutputGenerator. Menghasilkan output perbedaan antara teks dan menyimpannya ke file
+title: "JsonDiffOutputGenerator.GenerateOutput"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode JsonDiffOutputGenerator. Menghasilkan output perbedaan antara teks dan menyimpannya ke file"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/
@@ -16,13 +16,13 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| diffrences | List`1 | Daftar perbedaan antara teks. |
+| perbedaan | List`1 | Daftar perbedaan antara teks. |
 
-### Return Value
+### Nilai Kembalian
 
 Teks JSON.
 
-### See Also
+### Lihat Juga
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -41,13 +41,13 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| diffrences | List`1 | Daftar perbedaan antara teks. |
+| perbedaan | List`1 | Daftar perbedaan antara teks. |
 
-### Return Value
+### Nilai Kembalian
 
 Teks JSON.
 
-### See Also
+### Lihat Juga
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -66,10 +66,10 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| diffrences | List`1 | Daftar perbedaan antara teks. |
+| perbedaan | List`1 | Daftar perbedaan antara teks. |
 | targetFilePath | String | Jalur file target untuk menyimpan output. |
 
-### See Also
+### Lihat Juga
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -88,12 +88,14 @@ public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFi
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| diffrences | List`1 | Daftar perbedaan antara teks. |
+| perbedaan | List`1 | Daftar perbedaan antara teks. |
 | targetFilePath | String | Jalur file target untuk menyimpan output. |
 
-### See Also
+### Lihat Juga
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

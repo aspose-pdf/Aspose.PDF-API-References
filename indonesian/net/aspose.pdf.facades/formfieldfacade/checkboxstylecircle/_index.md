@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCircle
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang FormFieldFacade. Mendefinisikan gaya kotak centang lingkaran
+title: "FormFieldFacade.CheckBoxStyleCircle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade field. Menetapkan gaya kotak centang lingkaran"
 type: docs
 weight: 400
 url: /id/net/aspose.pdf.facades/formfieldfacade/checkboxstylecircle/
 ---
-## Bidang FormFieldFacade.CheckBoxStyleCircle
+## FormFieldFacade.CheckBoxStyleCircle field
 
 Mendefinisikan gaya kotak centang lingkaran.
 
@@ -16,6 +16,8 @@ public const int CheckBoxStyleCircle;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

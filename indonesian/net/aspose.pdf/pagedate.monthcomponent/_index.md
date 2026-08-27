@@ -1,12 +1,12 @@
 ---
-title: Class PageDate.MonthComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PageDateMonthComponent. Mewakili komponen bulan dari sebuah tanggal
+title: "Kelas PageDate.MonthComponent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.PageDateMonthComponent. Mewakili komponen bulan dari sebuah tanggal"
 type: docs
-weight: 8130
+weight: 8270
 url: /id/net/aspose.pdf/pagedate.monthcomponent/
 ---
-## Kelas PageDate.MonthComponent
+## PageDate.MonthComponent class
 
 Mewakili komponen bulan dari sebuah tanggal.
 
@@ -24,7 +24,7 @@ public class MonthComponent : DateComponent
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Mendapatkan atau menetapkan format untuk komponen tanggal. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Mendapatkan atau mengatur format untuk komponen tanggal. |
 
 ## Metode
 
@@ -35,7 +35,9 @@ public class MonthComponent : DateComponent
 
 ### Lihat Juga
 
-* kelas [DateComponent](../datecomponent/)
-* kelas [PageDate](../pagedate/)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

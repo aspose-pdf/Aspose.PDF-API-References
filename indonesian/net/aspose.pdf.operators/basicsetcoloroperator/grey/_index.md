@@ -1,7 +1,7 @@
 ---
-title: Grey
-second_title: Aspose.PDF for .NET API Reference
-description: Mendapatkan komponen hitam dari warna abu-abu.
+title: "Abu-abu"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mendapatkan komponen hitam dari warna abu-abu."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.operators/basicsetcoloroperator/grey/

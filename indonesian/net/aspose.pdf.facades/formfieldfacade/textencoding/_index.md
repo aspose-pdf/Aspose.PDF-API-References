@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.TextEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Jenis pengkodean teks dari teks field
+title: "FormFieldFacade.TextEncoding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade property. Tipe pengkodean teks dari teks field"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.facades/formfieldfacade/textencoding/
 ---
-## Properti FormFieldFacade.TextEncoding
+## FormFieldFacade.TextEncoding property
 
-Jenis pengkodean teks dari teks field.
+Tipe pengkodean teks dari teks bidang.
 
 ```csharp
 public EncodingType TextEncoding { get; set; }
@@ -20,3 +20,5 @@ public EncodingType TextEncoding { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphicElement. Mendapatkan persegi panjang batas dari GraphicElement
+title: "GraphicElement.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphicElement. Mendapatkan persegi panjang pembatas dari GraphicElement"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.vector/graphicelement/rectangle/
 ---
-## Properti GraphicElement.Rectangle
+## GraphicElement.Rectangle property
 
-Mendapatkan persegi panjang batas dari [`GraphicElement`](../).
+Mendapatkan persegi panjang pembatas dari [`GraphicElement`](../).
 
 ```csharp
 public abstract Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public abstract Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [GraphicElement](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfXmpMetadata. Memeriksa apakah kamus mengandung kunci yang ditentukan
+title: "PdfXmpMetadata.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfXmpMetadata. Memeriksa apakah kamus berisi kunci yang ditentukan"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/contains/
 ---
 ## Contains(string) {#contains_2}
 
-Memeriksa apakah kamus mengandung kunci yang ditentukan.
+Memeriksa apakah kamus berisi kunci yang ditentukan.
 
 ```csharp
 public bool Contains(string key)
@@ -16,11 +16,11 @@ public bool Contains(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci yang akan diperiksa. |
+| kunci | String | Kunci yang akan diperiksa. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True - jika kamus mengandung kunci yang ditentukan; jika tidak, false.
+True - jika kamus berisi kunci yang ditentukan; jika tidak, false.
 
 ## Contoh
 
@@ -34,7 +34,7 @@ if (!xmp.Contains("xmp:Nickname"))
 
 ### Lihat Juga
 
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -42,7 +42,7 @@ if (!xmp.Contains("xmp:Nickname"))
 
 ## Contains(DefaultMetadataProperties) {#contains}
 
-Memeriksa apakah kamus mengandung properti yang ditentukan.
+Memeriksa apakah kamus berisi properti yang ditentukan.
 
 ```csharp
 public bool Contains(DefaultMetadataProperties property)
@@ -50,16 +50,16 @@ public bool Contains(DefaultMetadataProperties property)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| property | DefaultMetadataProperties | Properti yang akan diperiksa. |
+| properti | DefaultMetadataProperties | Properti yang akan diperiksa. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True - jika kamus mengandung properti yang ditentukan; jika tidak, false.
+True - jika kamus berisi properti yang ditentukan; jika tidak, false.
 
 ### Lihat Juga
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -77,13 +77,15 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Pasangan kunci-nilai. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika pasangan ini ditemukan.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../../aspose.pdf/xmpvalue/)
-* kelas [PdfXmpMetadata](../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

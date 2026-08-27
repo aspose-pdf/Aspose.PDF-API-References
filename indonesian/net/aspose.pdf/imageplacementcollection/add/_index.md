@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ImagePlacementCollection. Menambahkan elemen fragmen teks pada indeks yang ditentukan
+title: "ImagePlacementCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ImagePlacementCollection metode. Menambahkan elemen fragmen teks pada indeks yang ditentukan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/imageplacementcollection/add/
 ---
-## Metode ImagePlacementCollection.Add
+## ImagePlacementCollection.Add method
 
 Menambahkan elemen fragmen teks pada indeks yang ditentukan.
 
@@ -16,11 +16,13 @@ public void Add(ImagePlacement fragment)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fragment | ImagePlacement | Elemen fragmen teks yang akan ditambahkan. |
+| fragmen | ImagePlacement | Elemen fragmen teks untuk ditambahkan. |
 
 ### Lihat Juga
 
-* kelas [ImagePlacement](../../imageplacement/)
-* kelas [ImagePlacementCollection](../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Field.ExecuteFieldJavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Field. Menjalankan aksi JavaScript yang ditentukan untuk field
+title: "Field.ExecuteFieldJavaScript"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Field. Menjalankan aksi JavaScript tertentu untuk bidang"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.forms/field/executefieldjavascript/
 ---
-## Metode Field.ExecuteFieldJavaScript
+## Field.ExecuteFieldJavaScript method
 
-Menjalankan aksi JavaScript yang ditentukan untuk field.
+Menjalankan tindakan JavaScript yang ditentukan untuk bidang.
 
 ```csharp
 public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
@@ -20,7 +20,9 @@ public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
 
 ### Lihat Juga
 
-* kelas [JavascriptAction](../../../aspose.pdf.annotations/javascriptaction/)
-* kelas [Field](../)
+* class [JavascriptAction](../../../aspose.pdf.annotations/javascriptaction/)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

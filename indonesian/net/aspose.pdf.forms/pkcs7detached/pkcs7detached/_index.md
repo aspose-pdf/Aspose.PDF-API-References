@@ -1,7 +1,7 @@
 ---
-title: PKCS7Detached.PKCS7Detached
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PKCS7Detached. Menginisialisasi instance baru dari kelas PKCS7Detached
+title: "PKCS7Detached.PKCS7Detached"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PKCS7Detached. Menginisialisasi instance baru dari kelas PKCS7Detached"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
@@ -16,11 +16,11 @@ public PKCS7Detached(Stream image)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Stream | Gambar ini akan menentukan penampilan tanda tangan di halaman. |
+| image | Stream | Gambar ini akan menentukan tampilan tanda tangan pada halaman. |
 
 ### Lihat Juga
 
-* kelas [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,13 +36,13 @@ public PKCS7Detached(Stream image, DigestHashAlgorithm digestHashAlgorithm)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Stream | Gambar ini akan menentukan penampilan tanda tangan di halaman. |
-| digestHashAlgorithm | DigestHashAlgorithm | Algoritma hash untuk menandatangani dokumen. |
+| image | Stream | Gambar ini akan menentukan tampilan tanda tangan pada halaman. |
+| digestHashAlgorithm | DigestHashAlgorithm | Algoritma digest untuk menandatangani dokumen. |
 
 ### Lihat Juga
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* kelas [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,7 +58,7 @@ public PKCS7Detached()
 
 ### Lihat Juga
 
-* kelas [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -74,12 +74,12 @@ public PKCS7Detached(DigestHashAlgorithm digestHashAlgorithm)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| digestHashAlgorithm | DigestHashAlgorithm | Algoritma hash untuk menandatangani dokumen. |
+| digestHashAlgorithm | DigestHashAlgorithm | Algoritma digest untuk menandatangani dokumen. |
 
 ### Lihat Juga
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* kelas [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -95,12 +95,12 @@ public PKCS7Detached(string pfx, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pfx | String | File pfx yang berisi sertifikat untuk penandatanganan. |
-| password | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
+| pfx | String | File Pfx yang berisi sertifikat untuk penandatanganan. |
+| kata sandi | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
 
 ### Lihat Juga
 
-* kelas [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -116,14 +116,14 @@ public PKCS7Detached(string pfx, string password, DigestHashAlgorithm digestHash
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pfx | String | File pfx yang berisi sertifikat untuk penandatanganan. |
-| password | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
-| digestHashAlgorithm | DigestHashAlgorithm | Algoritma hash untuk menandatangani dokumen. |
+| pfx | String | File Pfx yang berisi sertifikat untuk penandatanganan. |
+| kata sandi | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
+| digestHashAlgorithm | DigestHashAlgorithm | Algoritma digest untuk menandatangani dokumen. |
 
 ### Lihat Juga
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* kelas [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -140,11 +140,11 @@ public PKCS7Detached(Stream pfx, string password)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pfx | Stream | Stream dengan data sertifikat yang diatur sebagai pfx. |
-| password | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
+| kata sandi | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
 
 ### Lihat Juga
 
-* kelas [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -161,12 +161,14 @@ public PKCS7Detached(Stream pfx, string password, DigestHashAlgorithm digestHash
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pfx | Stream | Stream dengan data sertifikat yang diatur sebagai pfx. |
-| password | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
-| digestHashAlgorithm | DigestHashAlgorithm | Algoritma hash untuk menandatangani dokumen. |
+| kata sandi | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
+| digestHashAlgorithm | DigestHashAlgorithm | Algoritma digest untuk menandatangani dokumen. |
 
 ### Lihat Juga
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* kelas [PKCS7Detached](../)
+* class [PKCS7Detached](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AppearanceDictionary. Menyalin elemen-elemen dari kamus ke dalam Array mulai dari indeks Array tertentu
+title: "AppearanceDictionary.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AppearanceDictionary. Menyalin elemen kamus ke sebuah Array mulai dari indeks Array tertentu."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.annotations/appearancedictionary/copyto/
 ---
 ## CopyTo(XForm[], int) {#copyto}
 
-Menyalin elemen-elemen dari kamus ke dalam Array, mulai dari indeks Array tertentu.
+Menyalin elemen kamus ke Array, mulai dari indeks Array tertentu.
 
 ```csharp
 public void CopyTo(XForm[] array, int index)
@@ -16,13 +16,13 @@ public void CopyTo(XForm[] array, int index)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| array | XForm[] | Array tempat item harus disalin. |
-| index | Int32 | Indeks tempat item harus disalin. |
+| array | XForm[] | Array di mana item harus disalin. |
+| index | Int32 | Indeks di mana item harus disalin. |
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [AppearanceDictionary](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,9 @@ public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [AppearanceDictionary](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

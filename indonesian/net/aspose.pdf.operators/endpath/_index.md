@@ -1,14 +1,14 @@
 ---
-title: Class EndPath
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.EndPath. Kelas yang mewakili operator n akhir jalur tanpa pengisian atau penekanan
+title: "Kelas EndPath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.EndPath class. Kelas yang mewakili operator n untuk mengakhiri jalur tanpa mengisi atau men-stroke."
 type: docs
-weight: 7360
+weight: 7500
 url: /id/net/aspose.pdf.operators/endpath/
 ---
-## Kelas EndPath
+## EndPath class
 
-Kelas yang mewakili operator n (akhir jalur tanpa pengisian atau penekanan).
+Kelas yang mewakili operator n (end path tanpa mengisi atau stroke).
 
 ```csharp
 public class EndPath : Operator
@@ -30,12 +30,14 @@ public class EndPath : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/endpath/tostring/)() | Representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

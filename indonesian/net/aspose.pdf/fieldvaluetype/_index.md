@@ -1,14 +1,14 @@
 ---
-title: Enum FieldValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.FieldValueType. Mewakili jenis nilai field dalam koleksi skema
+title: "Enum FieldValueType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.FieldValueType. Mewakili tipe nilai bidang dalam koleksi skema"
 type: docs
-weight: 4810
+weight: 4930
 url: /id/net/aspose.pdf/fieldvaluetype/
 ---
-## Enumerasi FieldValueType
+## FieldValueType enumeration
 
-Mewakili jenis nilai field dalam koleksi skema.
+Mewakili tipe nilai bidang dalam koleksi skema.
 
 ```csharp
 public enum FieldValueType
@@ -18,12 +18,14 @@ public enum FieldValueType
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Mewakili nilai untuk jenis yang tidak terdefinisi. |
-| Text | `1` | Mewakili jenis teks. |
-| Number | `2` | Mewakili jenis angka. |
-| Date | `3` | Mewakili jenis tanggal. |
+| None | `0` | Mewakili nilai untuk tipe yang tidak terdefinisi. |
+| Text | `1` | Mewakili tipe teks. |
+| Number | `2` | Mewakili tipe angka. |
+| Date | `3` | Mewakili tipe tanggal. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

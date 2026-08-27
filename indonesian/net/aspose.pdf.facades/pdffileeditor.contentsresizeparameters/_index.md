@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileEditor.ContentsResizeParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters. Kelas untuk menentukan parameter pengubahan ukuran halaman. Memungkinkan untuk mengatur parameter berikut Ukuran halaman hasil dalam satuan ruang default atau dalam persentase dari ukuran halaman awal; Margin Kiri, Atas, Bawah, dan Kanan dalam satuan ruang default atau dalam persentase dari ukuran halaman awal; Beberapa nilai dapat dibiarkan null untuk perhitungan otomatis. Nilai-nilai ini akan dihitung dari sisa ukuran halaman setelah perhitungan nilai yang ditentukan secara eksplisit. Kelas ini digunakan dalam metode ResizeContents.
+title: "Kelas PdfFileEditor.ContentsResizeParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters. Kelas untuk menentukan parameter pengubahan ukuran halaman. Memungkinkan mengatur parameter berikut: ukuran halaman hasil (lebar, tinggi) dalam satuan ruang default atau dalam persen ukuran halaman awal; margin Kiri, Atas, Bawah, dan Kanan dalam satuan ruang default atau dalam persen ukuran halaman awal; beberapa nilai dapat dibiarkan null untuk perhitungan otomatis. Nilai-nilai ini akan dihitung dari sisa ukuran halaman setelah perhitungan nilai yang ditentukan secara eksplisit. Misalnya jika lebar halaman = 100 dan lebar halaman baru ditentukan 60 satuan, maka margin kiri dan kanan dihitung otomatis: (100 - 60) / 2 = 15. Kelas ini digunakan dalam metode ResizeContents."
 type: docs
-weight: 4480
+weight: 4600
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/
 ---
-## Kelas PdfFileEditor.ContentsResizeParameters
+## PdfFileEditor.ContentsResizeParameters class
 
-Kelas untuk menentukan parameter pengubahan ukuran halaman. Memungkinkan untuk mengatur parameter berikut: Ukuran halaman hasil (lebar, tinggi) dalam satuan ruang default atau dalam persentase dari ukuran halaman awal; Margin Kiri, Atas, Bawah, dan Kanan dalam satuan ruang default atau dalam persentase dari ukuran halaman awal; Beberapa nilai dapat dibiarkan null untuk perhitungan otomatis. Nilai-nilai ini akan dihitung dari sisa ukuran halaman setelah perhitungan nilai yang ditentukan secara eksplisit. Misalnya: jika lebar halaman = 100 dan lebar halaman baru yang ditentukan 60 unit, maka margin kiri dan kanan dihitung secara otomatis: (100 - 60) / 2 = 15. Kelas ini digunakan dalam metode ResizeContents.
+Kelas untuk menentukan parameter pengubahan ukuran halaman. Memungkinkan mengatur parameter berikut: ukuran halaman hasil (lebar, tinggi) dalam satuan ruang default atau dalam persen ukuran halaman awal; margin Kiri, Atas, Bawah, dan Kanan dalam satuan ruang default atau dalam persen ukuran halaman awal; beberapa nilai dapat dibiarkan null untuk perhitungan otomatis. Nilai-nilai ini akan dihitung dari sisa ukuran halaman setelah perhitungan nilai yang ditentukan secara eksplisit. Misalnya: jika lebar halaman = 100 dan lebar halaman baru ditentukan 60 satuan, maka margin kiri dan kanan dihitung otomatis: (100 - 60) / 2 = 15. Kelas ini digunakan dalam metode ResizeContents.
 
 ```csharp
 public class ContentsResizeParameters
@@ -18,7 +18,7 @@ public class ContentsResizeParameters
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor)() | Membuat parameter pengubahan ukuran di mana semua nilai diatur ke "otomatis". Margin dan ukuran konten dapat ditentukan kemudian jika diperlukan. |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor)() | Membuat parameter pengubahan ukuran di mana semua nilai diatur ke "auto". Margin dan ukuran konten kemudian dapat ditentukan jika diperlukan. |
 | [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Membuat parameter pengubahan ukuran dengan nilai margin dan ukuran konten yang ditentukan. |
 
 ## Properti
@@ -36,15 +36,17 @@ public class ContentsResizeParameters
 
 | Nama | Deskripsi |
 | --- | --- |
-| static [ContentSize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize)(double, double) | Membuat parameter pengubahan ukuran dengan ukuran konten yang ditentukan. |
-| static [ContentSizePercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent)(double, double) | Membuat parameter pengubahan ukuran dengan ukuran konten yang ditentukan dalam persentase dari ukuran halaman awal. Margin dihitung secara otomatis. |
-| static [Margins](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins)(double, double, double, double) | Membuat parameter pengubahan ukuran dengan nilai margin yang ditentukan. Ukuran konten dihitung secara otomatis. |
-| static [MarginsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent)(double, double, double, double) | Membuat parameter pengubahan ukuran. Margin ditentukan dalam persentase dari ukuran halaman awal. |
-| static [PageResize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize)(double, double) | Membuat parameter pengubahan ukuran untuk pengubahan ukuran halaman. |
-| static [PageResizePct](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct)(double, double) | Membuat parameter pengubahan ukuran untuk pengubahan ukuran halaman. Ukuran baru ditentukan dalam persentase. |
+| static [ContentSize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize)(double, double) | Membuat parameter ubah ukuran dengan ukuran konten yang ditentukan. |
+| static [ContentSizePercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent)(double, double) | Membuat parameter ubah ukuran dengan ukuran konten yang ditentukan dalam persentase ukuran halaman awal. Margin dihitung secara otomatis. |
+| static [Margins](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins)(double, double, double, double) | Membuat parameter ubah ukuran dengan nilai margin yang ditentukan. Ukuran konten dihitung secara otomatis. |
+| static [MarginsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent)(double, double, double, double) | Membuat parameter ubah ukuran. Margin ditentukan dalam persentase ukuran halaman awal. |
+| static [PageResize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize)(double, double) | Membuat parameter ubah ukuran untuk mengubah ukuran halaman. |
+| static [PageResizePct](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct)(double, double) | Membuat parameter ubah ukuran untuk mengubah ukuran halaman. Ukuran baru ditentukan dalam persentase. |
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../pdffileeditor/)
+* class [PdfFileEditor](../pdffileeditor/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CharInfoCollection. Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke koleksi
+title: "CharInfoCollection.SyncRoot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CharInfoCollection. Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke koleksi."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/charinfocollection/syncroot/
 ---
-## Properti CharInfoCollection.SyncRoot
+## CharInfoCollection.SyncRoot property
 
 Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke koleksi.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### Lihat Juga
 
-* kelas [CharInfoCollection](../)
+* class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

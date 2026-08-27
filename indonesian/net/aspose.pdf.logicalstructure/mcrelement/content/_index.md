@@ -1,27 +1,29 @@
 ---
-title: MCRElement.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MCRElement. Mendapatkan konten teks untuk elemen referensi konten yang ditandai
+title: "MCRElement.Content"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MCRElement. Mengambil konten teks untuk elemen referensi markedcontent"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/mcrelement/content/
 ---
-## Properti MCRElement.Content
+## MCRElement.Content property
 
-Mendapatkan konten teks untuk elemen referensi konten yang ditandai.
+Mengambil konten teks untuk elemen referensi marked-content.
 
-Untuk objek yang baru dibuat yang mengimplementasikan [`ITextElement`](../../itextelement/). Null dalam kasus lain.
+Untuk objek yang baru dibuat yang mengimplementasikan [`ITextElement`](../../itextelement/). Nilai null dalam kasus lain.
 
 ```csharp
 public string Content { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Konten teks untuk elemen referensi konten yang ditandai.
+Konten teks untuk elemen referensi marked-content.
 
 ### Lihat Juga
 
-* kelas [MCRElement](../)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

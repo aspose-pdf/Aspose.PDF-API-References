@@ -1,14 +1,14 @@
 ---
-title: StructTreeRootElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructTreeRootElement. Mengikat elemen struktur ke operator aliran konten BDC
+title: "StructTreeRootElement.Tag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructTreeRootElement. Mengikat elemen struktur ke operator BDC aliran konten"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/structtreerootelement/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-Mengikat elemen struktur ke operator aliran konten BDC.
+Mengaitkan elemen struktur ke operator BDC pada aliran konten.
 
 ```csharp
 public override MCRElement Tag(BDC bdc)
@@ -18,11 +18,11 @@ public override MCRElement Tag(BDC bdc)
 | --- | --- | --- |
 | bdc | BDC | Operator bdc aliran konten. |
 
-### Return Value
+### Nilai Kembalian
 
 Elemen MCRElementStructure.
 
-### See Also
+### Lihat Juga
 
 * class [MCRElement](../../mcrelement/)
 * class [BDC](../../../aspose.pdf.operators/bdc/)
@@ -34,7 +34,7 @@ Elemen MCRElementStructure.
 
 ## Tag(XForm) {#tag_3}
 
-Mengikat elemen struktur ke aliran konten XForm.
+Mengaitkan elemen struktur ke XForm pada aliran konten.
 
 ```csharp
 public override OBJRElement Tag(XForm form)
@@ -42,13 +42,13 @@ public override OBJRElement Tag(XForm form)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| form | XForm | Form Pdf. |
+| formulir | XForm | Formulir Pdf. |
 
-### Return Value
+### Nilai Kembalian
 
 Elemen OBJRElementStructure.
 
-### See Also
+### Lihat Juga
 
 * class [OBJRElement](../../objrelement/)
 * class [XForm](../../../aspose.pdf/xform/)
@@ -60,7 +60,7 @@ Elemen OBJRElementStructure.
 
 ## Tag(XImage) {#tag_4}
 
-Mengikat elemen struktur ke XImage.
+Mengaitkan elemen struktur ke XImage.
 
 ```csharp
 public override OBJRElement Tag(XImage image)
@@ -70,11 +70,11 @@ public override OBJRElement Tag(XImage image)
 | --- | --- | --- |
 | image | XImage | Gambar Pdf. |
 
-### Return Value
+### Nilai Kembalian
 
 Elemen OBJRElementStructure.
 
-### See Also
+### Lihat Juga
 
 * class [OBJRElement](../../objrelement/)
 * class [XImage](../../../aspose.pdf/ximage/)
@@ -86,7 +86,7 @@ Elemen OBJRElementStructure.
 
 ## Tag(Artifact) {#tag}
 
-Mengikat elemen struktur ke Artifact.
+Mengaitkan elemen struktur ke Artifact.
 
 ```csharp
 public override MCRElement Tag(Artifact artifact)
@@ -94,13 +94,13 @@ public override MCRElement Tag(Artifact artifact)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| artifact | Artifact | Artefak Pdf. |
+| artefak | Artefak | Artefak Pdf. |
 
-### Return Value
+### Nilai Kembalian
 
 Elemen MCRElementStructure.
 
-### See Also
+### Lihat Juga
 
 * class [MCRElement](../../mcrelement/)
 * class [Artifact](../../../aspose.pdf/artifact/)
@@ -112,7 +112,7 @@ Elemen MCRElementStructure.
 
 ## Tag(Annotation) {#tag_2}
 
-Mengikat elemen struktur ke Annotation.
+Mengaitkan elemen struktur ke Annotation.
 
 ```csharp
 public override OBJRElement Tag(Annotation annotation)
@@ -122,14 +122,16 @@ public override OBJRElement Tag(Annotation annotation)
 | --- | --- | --- |
 | annotation | Annotation | Anotasi Pdf. |
 
-### Return Value
+### Nilai Kembalian
 
 Elemen OBJRElementStructure.
 
-### See Also
+### Lihat Juga
 
 * class [OBJRElement](../../objrelement/)
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

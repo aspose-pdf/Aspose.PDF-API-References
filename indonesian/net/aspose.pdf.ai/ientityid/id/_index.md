@@ -1,12 +1,12 @@
 ---
-title: IEntityId.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IEntityId. Mendapatkan atau mengatur ID entitas
+title: "IEntityId.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "IEntityId properti. Mendapatkan atau mengatur ID dari entitas"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/ientityid/id/
 ---
-## Properti IEntityId.Id
+## IEntityId.Id property
 
 Mendapatkan atau mengatur ID entitas.
 
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* antarmuka [IEntityId](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* interface [IEntityId](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

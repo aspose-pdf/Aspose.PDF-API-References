@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.Urx
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetCharWidthBoundingBox. Koordinat horizontal sudut kanan atas dari persegi panjang batas
+title: "SetCharWidthBoundingBox.Urx"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetCharWidthBoundingBox. Koordinat horizontal kanan atas dari persegi panjang pembatas"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.operators/setcharwidthboundingbox/urx/
 ---
-## Properti SetCharWidthBoundingBox.Urx
+## SetCharWidthBoundingBox.Urx property
 
-Koordinat horizontal sudut kanan atas dari persegi panjang batas.
+Koordinat horizontal kanan-atas dari persegi panjang pembatas.
 
 ```csharp
 public double Urx { get; }
@@ -16,6 +16,8 @@ public double Urx { get; }
 
 ### Lihat Juga
 
-* kelas [SetCharWidthBoundingBox](../)
+* class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

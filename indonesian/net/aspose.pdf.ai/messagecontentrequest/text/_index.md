@@ -1,14 +1,14 @@
 ---
-title: MessageContentRequest.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MessageContentRequest. Mendapatkan atau mengatur konten teks yang merupakan bagian dari sebuah pesan
+title: "MessageContentRequest.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MessageContentRequest property. Mendapatkan atau mengatur konten teks yang merupakan bagian dari pesan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/messagecontentrequest/text/
 ---
-## Properti MessageContentRequest.Text
+## MessageContentRequest.Text property
 
-Mendapatkan atau mengatur konten teks yang merupakan bagian dari sebuah pesan.
+Mendapatkan atau mengatur konten teks yang merupakan bagian dari pesan.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### Lihat Juga
 
-* kelas [MessageContentRequest](../)
+* class [MessageContentRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

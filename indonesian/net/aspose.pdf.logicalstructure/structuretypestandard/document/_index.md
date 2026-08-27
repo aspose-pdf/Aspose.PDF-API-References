@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Dokumen Sebuah dokumen lengkap. Ini adalah elemen akar dari setiap pohon struktur yang mengandung beberapa bagian atau beberapa artikel
+title: "StructureTypeStandard.Document"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Document Sebuah dokumen lengkap. Ini adalah elemen akar dari setiap pohon struktur yang berisi beberapa bagian atau beberapa artikel."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/document/
 ---
-## Field StructureTypeStandard.Document
+## StructureTypeStandard.Document field
 
-(Dokumen) Sebuah dokumen lengkap. Ini adalah elemen akar dari setiap pohon struktur yang mengandung beberapa bagian atau beberapa artikel.
+(Document) Sebuah Document lengkap. Ini adalah elemen akar dari setiap pohon struktur yang berisi beberapa bagian atau beberapa artikel.
 
 ```csharp
 public static readonly StructureTypeStandard Document;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Document;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

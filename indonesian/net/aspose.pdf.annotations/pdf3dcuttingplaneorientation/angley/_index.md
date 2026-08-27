@@ -1,12 +1,12 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleY
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCuttingPlaneOrientation. Mendapatkan atau mengatur sudut ke sumbu Y
+title: "PDF3DCuttingPlaneOrientation.AngleY"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DCuttingPlaneOrientation properti. Mendapatkan atau mengatur sudut ke sumbu Y"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/
 ---
-## Properti PDF3DCuttingPlaneOrientation.AngleY
+## PDF3DCuttingPlaneOrientation.AngleY property
 
 Mendapatkan atau mengatur sudut ke sumbu Y.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur sudut ke sumbu Y.
 public double? AngleY { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Sudut sumbu Y.
 
 ### Lihat Juga
 
-* kelas [PDF3DCuttingPlaneOrientation](../)
+* class [PDF3DCuttingPlaneOrientation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

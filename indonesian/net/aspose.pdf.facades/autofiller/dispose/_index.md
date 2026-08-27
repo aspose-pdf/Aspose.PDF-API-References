@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AutoFiller. Menutup objek dan aliran keluaran
+title: "AutoFiller.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AutoFiller. Menutup objek dan stream output"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/autofiller/dispose/
 ---
-## Metode AutoFiller.Dispose
+## AutoFiller.Dispose method
 
-Menutup objek dan aliran keluaran.
+Menutup objek dan stream output.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [AutoFiller](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MovieAnnotation. Mengambil atau menetapkan judul anotasi film
+title: "MovieAnnotation.Title"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MovieAnnotation. Mendapatkan atau mengatur judul anotasi film"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/movieannotation/title/
 ---
-## Properti MovieAnnotation.Title
+## MovieAnnotation.Title property
 
-Mengambil atau menetapkan judul anotasi film.
+Mendapatkan atau mengatur judul anotasi film.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Lihat Juga
 
-* kelas [MovieAnnotation](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

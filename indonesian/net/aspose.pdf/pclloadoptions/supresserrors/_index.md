@@ -1,14 +1,14 @@
 ---
-title: PclLoadOptions.SupressErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PclLoadOptions. Mengambil atau mengatur nilai boolean yang menunjukkan apakah kesalahan konversi PCL harus disembunyikan
+title: "PclLoadOptions.SupressErrors"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PclLoadOptions field. Mendapatkan atau mengatur nilai boolean yang menunjukkan apakah kesalahan konversi PCL harus ditekan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/pclloadoptions/supresserrors/
 ---
-## Bidang PclLoadOptions.SupressErrors
+## PclLoadOptions.SupressErrors field
 
-Mengambil atau mengatur nilai boolean yang menunjukkan apakah kesalahan konversi PCL harus disembunyikan.
+Mendapatkan atau mengatur nilai boolean yang menunjukkan apakah kesalahan konversi PCL harus ditekan.
 
 ```csharp
 public bool SupressErrors;
@@ -16,6 +16,8 @@ public bool SupressErrors;
 
 ### Lihat Juga
 
-* kelas [PclLoadOptions](../)
+* class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

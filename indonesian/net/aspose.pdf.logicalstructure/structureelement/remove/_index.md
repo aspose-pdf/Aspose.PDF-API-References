@@ -1,14 +1,14 @@
 ---
-title: StructureElement.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureElement. Menghapus elemen dari struktur, referensi ke elemen tersebut dari objek induk, referensi ke elemen tersebut dari objek anak, objek yang sesuai dari dokumen
+title: "StructureElement.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureElement. Menghapus sebuah elemen dari struktur, referensi kepadanya dari objek induk, referensi kepadanya dari objek anak, serta objek yang bersangkutan dari dokumen"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.logicalstructure/structureelement/remove/
 ---
-## Metode StructureElement.Remove
+## StructureElement.Remove method
 
-Menghapus: elemen dari struktur, referensi ke elemen tersebut dari objek induk, referensi ke elemen tersebut dari objek anak, objek yang sesuai dari dokumen.
+Menghapus: sebuah elemen dari struktur, referensi kepadanya dari objek induk, referensi kepadanya dari objek anak, objek yang sesuai dari dokumen.
 
 ```csharp
 public void Remove()
@@ -16,6 +16,8 @@ public void Remove()
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

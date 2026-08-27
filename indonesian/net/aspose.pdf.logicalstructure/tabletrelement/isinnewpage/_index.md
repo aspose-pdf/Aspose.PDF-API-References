@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableTRElement. Mendapatkan baris tetap berada di halaman baru - halaman dengan properti ini harus dicetak ke halaman berikutnya Default false
+title: "TableTRElement.IsInNewPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TableTRElement. Mendapatkan baris tetap berada di halaman baru; halaman dengan properti ini harus dicetak ke halaman berikutnya. Default false"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.logicalstructure/tabletrelement/isinnewpage/
 ---
-## Properti TableTRElement.IsInNewPage
+## TableTRElement.IsInNewPage property
 
-Mendapatkan baris tetap berada di halaman baru - halaman dengan properti ini harus dicetak ke halaman berikutnya Default false.
+Mendapatkan baris tetap berada di halaman baru - halaman dengan properti ini harus dicetak ke halaman berikutnya. Default false.
 
 ```csharp
 public bool IsInNewPage { get; set; }
@@ -16,6 +16,8 @@ public bool IsInNewPage { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableTRElement](../)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

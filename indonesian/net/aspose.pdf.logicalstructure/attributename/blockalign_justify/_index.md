@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BlockAlign_Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Atribut BlockAlign Justify Anak-anak yang disejajarkan dengan kedua tepi sebelum dan sesudah dari persegi panjang konten sel tabel. Anak pertama akan ditempatkan seperti yang dijelaskan untuk Sebelum dan anak terakhir seperti yang dijelaskan untuk Sesudah dengan jarak yang sama antara anak-anak. Jika hanya ada satu anak, itu akan disejajarkan hanya dengan tepi sebelum seperti untuk Sebelum
+title: "AttributeName.BlockAlign_Justify"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeName field. Atribut BlockAlign Justify  Anak-anak disejajarkan dengan kedua tepi before dan after dari persegi panjang konten sel tabel. Anak pertama harus ditempatkan seperti yang dijelaskan untuk Before dan anak terakhir seperti yang dijelaskan untuk After dengan jarak yang sama antar anak. Jika hanya ada satu anak, ia akan disejajarkan hanya dengan tepi before sebagaimana untuk Before."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/attributename/blockalign_justify/
 ---
-## Bidang AttributeName.BlockAlign_Justify
+## AttributeName.BlockAlign_Justify field
 
-Atribut BlockAlign: Justify - Anak-anak yang disejajarkan dengan kedua tepi sebelum dan sesudah dari persegi panjang konten sel tabel. Anak pertama akan ditempatkan seperti yang dijelaskan untuk Sebelum dan anak terakhir seperti yang dijelaskan untuk Sesudah, dengan jarak yang sama antara anak-anak. Jika hanya ada satu anak, itu akan disejajarkan hanya dengan tepi sebelum, seperti untuk Sebelum.
+Atribut BlockAlign: Justify - Anak-anak diselaraskan dengan kedua tepi sebelum dan setelah dari persegi konten sel tabel. Anak pertama harus ditempatkan seperti yang dijelaskan untuk Before dan anak terakhir seperti yang dijelaskan untuk After, dengan jarak yang sama antar anak. Jika hanya ada satu anak, ia harus diselaraskan hanya dengan tepi sebelum, seperti pada Before.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Justify;
@@ -16,6 +16,8 @@ public static readonly AttributeName BlockAlign_Justify;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

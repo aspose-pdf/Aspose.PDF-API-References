@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.ImageResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlSaveOptions. Mendapatkan atau mengatur resolusi untuk rendering gambar
+title: "HtmlSaveOptions.ImageResolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti HtmlSaveOptions. Mendapatkan atau mengatur resolusi untuk rendering gambar."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
-## Properti HtmlSaveOptions.ImageResolution
+## HtmlSaveOptions.ImageResolution property
 
 Mendapatkan atau mengatur resolusi untuk rendering gambar.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur resolusi untuk rendering gambar.
 public int ImageResolution { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Resolusi
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

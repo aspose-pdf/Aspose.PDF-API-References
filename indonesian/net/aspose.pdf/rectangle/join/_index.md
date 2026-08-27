@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Join
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Menggabungkan persegi panjang
+title: "Rectangle.Join"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Menggabungkan persegi panjang"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf/rectangle/join/
 ---
-## Metode Rectangle.Join
+## Rectangle.Join method
 
 Menggabungkan persegi panjang.
 
@@ -18,12 +18,14 @@ public Rectangle Join(Rectangle otherRect)
 | --- | --- | --- |
 | otherRect | Rectangle | Persegi panjang yang akan digabungkan dengan persegi panjang ini. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Persegi panjang yang dijelaskan.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

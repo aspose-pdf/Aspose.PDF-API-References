@@ -1,7 +1,7 @@
 ---
-title: CosPdfNumber.CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CosPdfNumber. Menginisialisasi instance baru dari kelas CosPdfNumber
+title: "CosPdfNumber.CosPdfNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CosPdfNumber. Menginisialisasi instance baru dari kelas CosPdfNumber"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
@@ -16,7 +16,7 @@ public CosPdfNumber()
 
 ### Lihat Juga
 
-* kelas [CosPdfNumber](../)
+* class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,10 +32,12 @@ public CosPdfNumber(double value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Double | Angka. |
+| nilai | Double | Angka tersebut. |
 
 ### Lihat Juga
 
-* kelas [CosPdfNumber](../)
+* class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

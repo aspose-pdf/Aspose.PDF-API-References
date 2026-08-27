@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.PageBreak.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageBreak. Posisi vertikal pemisah halaman
+title: "PdfFileEditor.PageBreak.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageBreak. Posisi vertikal dari pemisah halaman"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdffileeditor.pagebreak/position/
 ---
-## Properti PdfFileEditor.PageBreak.Position
+## PdfFileEditor.PageBreak.Position property
 
 Posisi vertikal pemisah halaman.
 
@@ -16,6 +16,8 @@ public double Position { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageBreak](../)
+* class [PageBreak](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

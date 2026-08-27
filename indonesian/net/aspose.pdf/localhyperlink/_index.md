@@ -1,12 +1,12 @@
 ---
-title: Class LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.LocalHyperlink. Mewakili objek hyperlink lokal
+title: "Kelas LocalHyperlink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.LocalHyperlink kelas. Mewakili objek hyperlink lokal"
 type: docs
-weight: 6170
+weight: 6310
 url: /id/net/aspose.pdf/localhyperlink/
 ---
-## Kelas LocalHyperlink
+## LocalHyperlink class
 
 Mewakili objek hyperlink lokal.
 
@@ -25,11 +25,13 @@ public sealed class LocalHyperlink : Hyperlink
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Mendapatkan atau menetapkan paragraf target. |
-| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Mendapatkan atau menetapkan nomor halaman target. |
+| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Mendapatkan atau mengatur paragraf target. |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Mendapatkan atau mengatur nomor halaman target. |
 
 ### Lihat Juga
 
-* kelas [Hyperlink](../hyperlink/)
+* class [Hyperlink](../hyperlink/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

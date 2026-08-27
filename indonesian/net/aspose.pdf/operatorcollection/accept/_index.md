@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Menerima objek pengunjung IOperatorSelector untuk memproses operator
+title: "OperatorCollection.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OperatorCollection. Menerima objek pengunjung IOperatorSelector untuk memproses operator."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/operatorcollection/accept/
 ---
-## Metode OperatorCollection.Accept
+## OperatorCollection.Accept method
 
 Menerima objek pengunjung IOperatorSelector untuk memproses operator.
 
@@ -16,11 +16,13 @@ public void Accept(IOperatorSelector visitor)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pengunjung | IOperatorSelector | Objek pengunjung |
+| visitor | IOperatorSelector | Objek Visitor |
 
 ### Lihat Juga
 
-* antarmuka [IOperatorSelector](../../ioperatorselector/)
-* kelas [OperatorCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [IOperatorSelector](../../ioperatorselector/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

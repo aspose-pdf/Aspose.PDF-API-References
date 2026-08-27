@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SignatureAlgorithmInfo. Mengonversi objek informasi saat ini ke representasi string-nya
+title: "SignatureAlgorithmInfo.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SignatureAlgorithmInfo. Mengonversi objek informasi saat ini ke representasi stringnya"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.security/signaturealgorithminfo/tostring/
 ---
-## Metode SignatureAlgorithmInfo.ToString
+## SignatureAlgorithmInfo.ToString method
 
 Mengonversi objek informasi saat ini ke representasi string-nya.
 
@@ -14,12 +14,14 @@ Mengonversi objek informasi saat ini ke representasi string-nya.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah string yang mewakili objek informasi saat ini.
+String yang mewakili objek informasi saat ini.
 
 ### Lihat Juga
 
-* kelas [SignatureAlgorithmInfo](../)
+* class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

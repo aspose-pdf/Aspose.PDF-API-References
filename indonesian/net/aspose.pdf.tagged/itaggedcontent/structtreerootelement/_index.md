@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.StructTreeRootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ITaggedContent. Mendapatkan StructTreeRootElement dari dokumen PDF
+title: "ITaggedContent.StructTreeRootElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ITaggedContent. Mendapatkan StructTreeRootElement dari dokumen PDF"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/
 ---
-## Properti ITaggedContent.StructTreeRootElement
+## ITaggedContent.StructTreeRootElement property
 
 Mendapatkan [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) dari dokumen PDF.
 
@@ -14,13 +14,15 @@ Mendapatkan [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/struc
 public StructTreeRootElement StructTreeRootElement { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) dari dokumen PDF.
+[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) of PDF document.
 
 ### Lihat Juga
 
-* kelas [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

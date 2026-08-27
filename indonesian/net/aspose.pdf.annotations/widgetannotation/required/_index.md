@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Required
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WidgetAnnotation. Mendapatkan atau mengatur status diperlukan dari bidang
+title: "WidgetAnnotation.Required"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti WidgetAnnotation. Mendapatkan atau mengatur status wajib dari bidang."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.annotations/widgetannotation/required/
 ---
-## Properti WidgetAnnotation.Required
+## WidgetAnnotation.Required property
 
-Mendapatkan atau mengatur status diperlukan dari bidang.
+Mendapatkan atau mengatur status wajib bidang.
 
 ```csharp
 public bool Required { get; set; }
@@ -16,6 +16,8 @@ public bool Required { get; set; }
 
 ### Lihat Juga
 
-* kelas [WidgetAnnotation](../)
+* class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

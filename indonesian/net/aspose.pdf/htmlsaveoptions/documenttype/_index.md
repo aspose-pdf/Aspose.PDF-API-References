@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.DocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlSaveOptions. Mendapatkan atau mengatur HtmlDocumentType
+title: "HtmlSaveOptions.DocumentType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti HtmlSaveOptions. Mendapatkan atau mengatur HtmlDocumentType."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/htmlsaveoptions/documenttype/
 ---
-## Properti HtmlSaveOptions.DocumentType
+## HtmlSaveOptions.DocumentType property
 
 Mendapatkan atau mengatur [`HtmlDocumentType`](../../htmldocumenttype/).
 
@@ -14,9 +14,9 @@ Mendapatkan atau mengatur [`HtmlDocumentType`](../../htmldocumenttype/).
 public HtmlDocumentType DocumentType { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-[`HtmlDocumentType`](../../htmldocumenttype/).
+The [`HtmlDocumentType`](../../htmldocumenttype/).
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ public HtmlDocumentType DocumentType { get; set; }
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

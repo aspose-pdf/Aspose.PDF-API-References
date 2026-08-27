@@ -1,7 +1,7 @@
 ---
-title: TiffDevice.TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TiffDevice. Menginisialisasi instance baru dari kelas TiffDevice
+title: "TiffDevice.TiffDevice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "konstruktor TiffDevice. Menginisialisasi instance baru dari kelas TiffDevice"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.devices/tiffdevice/tiffdevice/
@@ -16,12 +16,12 @@ public TiffDevice(Resolution resolution)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| resolution | Resolution | Resolusi untuk file gambar hasil. |
+| resolution | Resolusi | Resolusi untuk file gambar hasil. |
 
 ### Lihat Juga
 
-* kelas [Resolution](../../resolution/)
-* kelas [TiffDevice](../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,14 +37,14 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| resolution | Resolution | Resolusi untuk gambar keluaran. |
+| resolution | Resolusi | Resolusi untuk gambar keluaran. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
 
 ### Lihat Juga
 
-* kelas [Resolution](../../resolution/)
-* kelas [TiffSettings](../../tiffsettings/)
-* kelas [TiffDevice](../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,16 +60,16 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| resolution | Resolution | Resolusi untuk gambar keluaran. |
+| resolution | Resolusi | Resolusi untuk gambar keluaran. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Konverter eksternal |
+| konverter | IIndexBitmapConverter | Konverter eksternal |
 
 ### Lihat Juga
 
-* kelas [Resolution](../../resolution/)
-* kelas [TiffSettings](../../tiffsettings/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -89,8 +89,8 @@ public TiffDevice(TiffSettings settings)
 
 ### Lihat Juga
 
-* kelas [TiffSettings](../../tiffsettings/)
-* kelas [TiffDevice](../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -107,13 +107,13 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Konverter eksternal |
+| konverter | IIndexBitmapConverter | Konverter eksternal |
 
 ### Lihat Juga
 
-* kelas [TiffSettings](../../tiffsettings/)
+* class [TiffSettings](../../tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -129,7 +129,7 @@ public TiffDevice()
 
 ### Lihat Juga
 
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -145,16 +145,16 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar keluaran gambar. |
-| height | Int32 | Tinggi keluaran gambar. |
-| resolution | Resolution | Resolusi untuk gambar keluaran. |
+| lebar | Int32 | Lebar output gambar. |
+| tinggi | Int32 | Tinggi output gambar. |
+| resolution | Resolusi | Resolusi untuk gambar keluaran. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
 
 ### Lihat Juga
 
-* kelas [Resolution](../../resolution/)
-* kelas [TiffSettings](../../tiffsettings/)
-* kelas [TiffDevice](../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -171,18 +171,18 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar keluaran gambar. |
-| height | Int32 | Tinggi keluaran gambar. |
-| resolution | Resolution | Resolusi untuk gambar keluaran. |
+| lebar | Int32 | Lebar output gambar. |
+| tinggi | Int32 | Tinggi output gambar. |
+| resolution | Resolusi | Resolusi untuk gambar keluaran. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Konverter eksternal |
+| konverter | IIndexBitmapConverter | Konverter eksternal |
 
 ### Lihat Juga
 
-* kelas [Resolution](../../resolution/)
-* kelas [TiffSettings](../../tiffsettings/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -198,16 +198,16 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageSize | PageSize | Ukuran halaman dari gambar keluaran. |
-| resolution | Resolution | Resolusi untuk gambar keluaran. |
+| pageSize | PageSize | Ukuran halaman gambar output. |
+| resolution | Resolusi | Resolusi untuk gambar keluaran. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [Resolution](../../resolution/)
-* kelas [TiffSettings](../../tiffsettings/)
-* kelas [TiffDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -224,18 +224,18 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageSize | PageSize | Ukuran halaman dari gambar keluaran. |
-| resolution | Resolution | Resolusi untuk gambar keluaran. |
+| pageSize | PageSize | Ukuran halaman gambar output. |
+| resolution | Resolusi | Resolusi untuk gambar keluaran. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Konverter eksternal |
+| konverter | IIndexBitmapConverter | Konverter eksternal |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [Resolution](../../resolution/)
-* kelas [TiffSettings](../../tiffsettings/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -251,14 +251,14 @@ public TiffDevice(int width, int height, Resolution resolution)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar keluaran gambar. |
-| height | Int32 | Tinggi keluaran gambar. |
-| resolution | Resolution | Resolusi untuk gambar keluaran. |
+| lebar | Int32 | Lebar output gambar. |
+| tinggi | Int32 | Tinggi output gambar. |
+| resolution | Resolusi | Resolusi untuk gambar keluaran. |
 
 ### Lihat Juga
 
-* kelas [Resolution](../../resolution/)
-* kelas [TiffDevice](../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -274,14 +274,14 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageSize | PageSize | Ukuran halaman dari gambar keluaran. |
-| resolution | Resolution | Resolusi untuk gambar keluaran. |
+| pageSize | PageSize | Ukuran halaman gambar output. |
+| resolution | Resolusi | Resolusi untuk gambar keluaran. |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [Resolution](../../resolution/)
-* kelas [TiffDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -297,14 +297,14 @@ public TiffDevice(int width, int height, TiffSettings settings)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar keluaran gambar. |
-| height | Int32 | Tinggi keluaran gambar. |
+| lebar | Int32 | Lebar output gambar. |
+| tinggi | Int32 | Tinggi output gambar. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
 
 ### Lihat Juga
 
-* kelas [TiffSettings](../../tiffsettings/)
-* kelas [TiffDevice](../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -320,16 +320,16 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar keluaran gambar. |
-| height | Int32 | Tinggi keluaran gambar. |
+| lebar | Int32 | Lebar output gambar. |
+| tinggi | Int32 | Tinggi output gambar. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Konverter eksternal |
+| konverter | IIndexBitmapConverter | Konverter eksternal |
 
 ### Lihat Juga
 
-* kelas [TiffSettings](../../tiffsettings/)
+* class [TiffSettings](../../tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -345,16 +345,16 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageSize | PageSize | Ukuran halaman dari gambar keluaran. |
+| pageSize | PageSize | Ukuran halaman gambar output. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | Konverter eksternal |
+| konverter | IIndexBitmapConverter | Konverter eksternal |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [TiffSettings](../../tiffsettings/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -370,14 +370,14 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageSize | PageSize | Ukuran halaman dari gambar keluaran. |
+| pageSize | PageSize | Ukuran halaman gambar output. |
 | settings | TiffSettings | Pengaturan Tiff, lihat kelas [`TiffSettings`](../../tiffsettings/). |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [TiffSettings](../../tiffsettings/)
-* kelas [TiffDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -393,12 +393,12 @@ public TiffDevice(int width, int height)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar keluaran gambar. |
-| height | Int32 | Tinggi keluaran gambar. |
+| lebar | Int32 | Lebar output gambar. |
+| tinggi | Int32 | Tinggi output gambar. |
 
 ### Lihat Juga
 
-* kelas [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -414,11 +414,13 @@ public TiffDevice(PageSize pageSize)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageSize | PageSize | Ukuran halaman dari gambar keluaran. |
+| pageSize | PageSize | Ukuran halaman gambar output. |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [TiffDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

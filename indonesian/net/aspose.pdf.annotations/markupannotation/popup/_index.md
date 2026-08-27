@@ -1,12 +1,12 @@
 ---
-title: MarkupAnnotation.Popup
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupAnnotation. Anotasi pop-up untuk memasukkan atau mengedit teks yang terkait dengan anotasi ini
+title: "MarkupAnnotation.Popup"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MarkupAnnotation properti. Anotasi popup untuk memasukkan atau mengedit teks yang terkait dengan anotasi ini"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/markupannotation/popup/
 ---
-## Properti MarkupAnnotation.Popup
+## MarkupAnnotation.Popup property
 
 Anotasi pop-up untuk memasukkan atau mengedit teks yang terkait dengan anotasi ini.
 
@@ -16,7 +16,9 @@ public PopupAnnotation Popup { get; set; }
 
 ### Lihat Juga
 
-* kelas [PopupAnnotation](../../popupannotation/)
-* kelas [MarkupAnnotation](../)
+* class [PopupAnnotation](../../popupannotation/)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

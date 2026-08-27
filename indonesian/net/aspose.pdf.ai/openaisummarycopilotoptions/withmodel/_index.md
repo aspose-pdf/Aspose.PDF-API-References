@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAISummaryCopilotOptions. Mengatur model untuk opsi copilot ringkasan
+title: "OpenAISummaryCopilotOptions.WithModel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAISummaryCopilotOptions metode. Menetapkan model untuk opsi copilot ringkasan"
 type: docs
-weight: 110
+weight: 120
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/withmodel/
 ---
-## Metode OpenAISummaryCopilotOptions.WithModel
+## OpenAISummaryCopilotOptions.WithModel method
 
 Mengatur model untuk opsi copilot ringkasan.
 
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithModel(string model)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| model | String | Model yang akan diatur. |
+| model | String | Model yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

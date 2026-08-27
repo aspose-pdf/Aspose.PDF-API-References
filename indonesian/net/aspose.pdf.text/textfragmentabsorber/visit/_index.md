@@ -1,7 +1,7 @@
 ---
-title: TextFragmentAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentAbsorber. Melakukan pencarian pada halaman yang ditentukan
+title: "TextFragmentAbsorber.Visit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentAbsorber. Melakukan pencarian pada halaman yang ditentukan"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.text/textfragmentabsorber/visit/
@@ -16,39 +16,39 @@ public override void Visit(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman dokumen PDF. |
+| halaman | Halaman | Objek halaman PDF document. |
 
 ## Contoh
 
-Contoh ini menunjukkan cara menemukan teks di halaman pertama dokumen PDF dan mengganti teks tersebut.
+Contoh ini menunjukkan cara menemukan teks pada page pertama document PDF dan mengganti teks tersebut.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// Temukan font yang akan digunakan untuk mengubah font teks dokumen
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 absorber.Visit(doc.Pages[1]);
 
-// Change text of all search occurrences
+// Ubah teks pada semua hasil pencarian
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.Text = "hi world";
 }
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [TextFragmentAbsorber](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -64,36 +64,36 @@ public override void Visit(Document pdf)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pdf | Document | Objek dokumen PDF. |
+| pdf | Document | Objek PDF document. |
 
 ## Contoh
 
-Contoh ini menunjukkan cara menemukan teks pada dokumen PDF dan mengganti teks dari semua kemunculan pencarian.
+Contoh ini menunjukkan cara menemukan teks pada PDF document dan mengganti teks pada semua hasil pencarian.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// Temukan font yang akan digunakan untuk mengubah font teks dokumen
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 absorber.Visit(doc);
 
-// Change text of the first text occurrence
+// Ubah teks pada kemunculan teks pertama
 absorber.TextFragments[1].Text = "hi world";
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [TextFragmentAbsorber](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -101,7 +101,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## Visit(XForm) {#visit_2}
 
-Melakukan pencarian pada objek formulir yang ditentukan.
+Melakukan pencarian pada objek form yang ditentukan.
 
 ```csharp
 public void Visit(XForm xForm)
@@ -109,11 +109,13 @@ public void Visit(XForm xForm)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| xForm | XForm | Objek formulir PDF. |
+| xForm | XForm | Objek formulir Pdf. |
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [TextFragmentAbsorber](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

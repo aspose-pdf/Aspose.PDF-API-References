@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileBatchResponse. Mendapatkan atau mengatur status dari batch file penyimpanan vektor
+title: "VectorStoreFileBatchResponse.Status"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileBatchResponse properti. Mendapatkan atau mengatur status batch file vector store"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/vectorstorefilebatchresponse/status/
 ---
-## Properti VectorStoreFileBatchResponse.Status
+## VectorStoreFileBatchResponse.Status property
 
-Mendapatkan atau mengatur status dari batch file penyimpanan vektor.
+Mendapatkan atau mengatur status batch file penyimpanan vektor.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileBatchResponse](../)
+* class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

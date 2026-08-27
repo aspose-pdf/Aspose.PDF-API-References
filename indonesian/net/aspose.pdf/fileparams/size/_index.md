@@ -1,12 +1,12 @@
 ---
-title: FileParams.Size
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileParams. Ukuran file tersemat yang tidak terkompresi dalam byte
+title: "FileParams.Size"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileParams property. Ukuran file yang disematkan tidak terkompresi dalam byte"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/fileparams/size/
 ---
-## Properti FileParams.Size
+## FileParams.Size property
 
 Ukuran file tersemat yang tidak terkompresi, dalam byte.
 
@@ -16,6 +16,8 @@ public int Size { get; }
 
 ### Lihat Juga
 
-* kelas [FileParams](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

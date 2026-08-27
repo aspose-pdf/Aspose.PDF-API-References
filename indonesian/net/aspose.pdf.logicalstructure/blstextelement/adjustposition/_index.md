@@ -1,12 +1,12 @@
 ---
-title: BLSTextElement.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: BLSTextElement method.
+title: "BLSTextElement.AdjustPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BLSTextElement."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/blstextelement/adjustposition/
 ---
-## Metode BLSTextElement.AdjustPosition
+## BLSTextElement.AdjustPosition method
 
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
@@ -14,7 +14,9 @@ public void AdjustPosition(PositionSettings positionSettings)
 
 ### Lihat Juga
 
-* kelas [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
-* kelas [BLSTextElement](../)
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
+* class [BLSTextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

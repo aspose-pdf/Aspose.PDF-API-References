@@ -1,12 +1,12 @@
 ---
-title: Class FontSubstitutionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.FontSubstitutionCollection. Mewakili koleksi strategi substitusi font
+title: "Kelas FontSubstitutionCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.FontSubstitutionCollection. Mewakili sekumpulan strategi substitusi font."
 type: docs
-weight: 10590
+weight: 10770
 url: /id/net/aspose.pdf.text/fontsubstitutioncollection/
 ---
-## Kelas FontSubstitutionCollection
+## FontSubstitutionCollection class
 
 Mewakili koleksi strategi substitusi font.
 
@@ -28,14 +28,16 @@ public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
 | Nama | Deskripsi |
 | --- | --- |
 | [Add](../../aspose.pdf.text/fontsubstitutioncollection/add/)(FontSubstitution) | Menambahkan objek substitusi font baru ke koleksi. |
-| [Clear](../../aspose.pdf.text/fontsubstitutioncollection/clear/)() | Menghapus koleksi substitusi font. |
-| [Contains](../../aspose.pdf.text/fontsubstitutioncollection/contains/)(FontSubstitution) | Menentukan apakah suatu elemen ada dalam koleksi. |
-| [CopyTo](../../aspose.pdf.text/fontsubstitutioncollection/copyto/)(FontSubstitution[], int) | Menyalin seluruh koleksi ke dalam Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan dari array target |
+| [Clear](../../aspose.pdf.text/fontsubstitutioncollection/clear/)() | Mengosongkan koleksi substitusi font. |
+| [Contains](../../aspose.pdf.text/fontsubstitutioncollection/contains/)(FontSubstitution) | Menentukan apakah sebuah elemen berada dalam koleksi. |
+| [CopyTo](../../aspose.pdf.text/fontsubstitutioncollection/copyto/)(FontSubstitution[], int) | Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan pada array target. |
 | [GetEnumerator](../../aspose.pdf.text/fontsubstitutioncollection/getenumerator/)() | Mengembalikan enumerator untuk seluruh koleksi. |
 | [Remove](../../aspose.pdf.text/fontsubstitutioncollection/remove/)(FontSubstitution) | Menghapus elemen substitusi font. |
 
 ### Lihat Juga
 
-* kelas [FontSubstitution](../fontsubstitution/)
-* ruang nama [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* class [FontSubstitution](../fontsubstitution/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

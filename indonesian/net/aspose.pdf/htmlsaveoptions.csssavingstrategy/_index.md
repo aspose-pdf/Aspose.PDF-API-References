@@ -1,14 +1,14 @@
 ---
-title: Delegate HtmlSaveOptions.CssSavingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Anda dapat menetapkan strategi kustom untuk properti ini yang mengimplementasikan pemrosesan atau/ dan penyimpanan salah satu bagian CSS yang dibuat selama konversi PDF ke HTML. Dalam hal ini, pemrosesan seperti menyimpan ke aliran atau disk harus dilakukan dalam kode kustom tersebut.
+title: "Delegasi HtmlSaveOptions.CssSavingStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Anda dapat menetapkan strategi khusus ke properti ini yang mengimplementasikan pemrosesan dan/atau penyimpanan satu bagian CSSs yang dibuat selama konversi PDF ke HTML. Dalam kasus tersebut, pemrosesan seperti penyimpanan ke aliran atau disk harus dilakukan dalam kode khusus tersebut."
 type: docs
-weight: 5590
+weight: 5720
 url: /id/net/aspose.pdf/htmlsaveoptions.csssavingstrategy/
 ---
-## Delegate HtmlSaveOptions.CssSavingStrategy
+## HtmlSaveOptions.CssSavingStrategy delegate
 
-Anda dapat menetapkan strategi kustom untuk properti ini yang mengimplementasikan pemrosesan atau/ dan penyimpanan salah satu bagian CSS yang dibuat selama konversi PDF ke HTML. Dalam hal ini, pemrosesan (seperti menyimpan ke aliran atau disk) harus dilakukan dalam kode kustom tersebut.
+Anda dapat menetapkan strategi khusus ke properti ini yang mengimplementasikan pemrosesan dan/atau penyimpanan satu bagian CSS yang dibuat selama konversi PDF ke HTML. Dalam kasus tersebut, pemrosesan (seperti penyimpanan ke aliran atau disk) harus dilakukan dalam kode khusus tersebut.
 
 ```csharp
 public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);
@@ -16,11 +16,13 @@ public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| partSavingInfo | CssSavingInfo | mewakili sekumpulan data yang dapat digunakan untuk penyimpanan bagian CSS yang disuplai |
+| partSavingInfo | CssSavingInfo | mewakili sekumpulan data yang dapat digunakan untuk menyimpan bagian CSS yang disediakan |
 
 ### Lihat Juga
 
-* kelas [CssSavingInfo](../htmlsaveoptions.csssavinginfo/)
-* kelas [HtmlSaveOptions](../htmlsaveoptions/)
+* class [CssSavingInfo](../htmlsaveoptions.csssavinginfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

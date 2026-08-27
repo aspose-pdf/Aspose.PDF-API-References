@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.ResourceSavingInfo.ResourceType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ResourceSavingInfo. Diatur oleh konverter. Nama file yang diharapkan yang berasal dari konverter ke kode metode kustom. Dapat digunakan dalam kode kustom untuk memutuskan bagaimana memproses atau di mana menyimpan file tersebut
+title: "SaveOptions.ResourceSavingInfo.ResourceType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ResourceSavingInfo. Diatur oleh konverter. Nama file yang diharapkan yang diteruskan dari konverter ke kode metode khusus. Dapat digunakan dalam kode khusus untuk memutuskan bagaimana memproses atau ke mana menyimpan file tersebut."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/saveoptions.resourcesavinginfo/resourcetype/
 ---
-## Properti SaveOptions.ResourceSavingInfo.ResourceType
+## SaveOptions.ResourceSavingInfo.ResourceType property
 
-Diatur oleh konverter. Nama file yang diharapkan yang berasal dari konverter ke kode metode kustom. Dapat digunakan dalam kode kustom untuk memutuskan bagaimana memproses atau di mana menyimpan file tersebut
+Ditentukan oleh konverter. Nama file yang diharapkan yang diteruskan dari konverter ke kode metode khusus. Dapat digunakan dalam kode khusus untuk memutuskan bagaimana memproses atau dimana menyimpan file tersebut.
 
 ```csharp
 public NodeLevelResourceType ResourceType { get; }
@@ -20,3 +20,5 @@ public NodeLevelResourceType ResourceType { get; }
 * class [ResourceSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

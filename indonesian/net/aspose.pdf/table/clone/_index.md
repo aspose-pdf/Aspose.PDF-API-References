@@ -1,25 +1,27 @@
 ---
-title: Table.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Tabel. Kloning tabel
+title: "Table.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Table. Mengkloning tabel"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf/table/clone/
 ---
-## Metode Table.Clone
+## Table.Clone method
 
-Kloning tabel.
+Gandakan tabel.
 
 ```csharp
 public override object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [Tabel](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

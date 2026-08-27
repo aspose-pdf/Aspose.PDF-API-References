@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.HtmlImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HtmlImageSavingInfo. Konstruktor default
+title: "HtmlSaveOptions.HtmlImageSavingInfo.HtmlImageSavingInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlImageSavingInfo constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/
 ---
-## Konstruktor HtmlSaveOptions.HtmlImageSavingInfo
+## HtmlSaveOptions.HtmlImageSavingInfo constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public HtmlImageSavingInfo()
 
 ### Lihat Juga
 
-* kelas [HtmlImageSavingInfo](../)
+* class [HtmlImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

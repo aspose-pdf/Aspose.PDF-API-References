@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileResponse. Mendapatkan atau mengatur ID dari penyimpanan vektor yang terlampir pada File
+title: "VectorStoreFileResponse.VectorStoreId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileResponse properti. Mendapatkan atau mengatur ID vector store yang File terlampir"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.ai/vectorstorefileresponse/vectorstoreid/
 ---
-## Properti VectorStoreFileResponse.VectorStoreId
+## VectorStoreFileResponse.VectorStoreId property
 
-Mendapatkan atau mengatur ID dari penyimpanan vektor yang terlampir pada File.
+Mendapatkan atau mengatur ID vector store yang File terlampir.
 
 ```csharp
 public string VectorStoreId { get; set; }
@@ -16,6 +16,8 @@ public string VectorStoreId { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

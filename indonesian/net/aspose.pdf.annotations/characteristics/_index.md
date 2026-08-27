@@ -1,12 +1,12 @@
 ---
-title: Class Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.Characteristics. Mewakili karakteristik anotasi
+title: "Kelas Characteristics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.Characteristics. Mewakili karakteristik anotasi."
 type: docs
-weight: 1580
+weight: 1670
 url: /id/net/aspose.pdf.annotations/characteristics/
 ---
-## Kelas Karakteristik
+## Characteristics class
 
 Mewakili karakteristik anotasi
 
@@ -26,3 +26,5 @@ public sealed class Characteristics
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

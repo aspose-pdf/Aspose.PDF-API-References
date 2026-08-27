@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.ToAttemptGetUnderlineFromSource
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextEditOptions. Mendapatkan atau mengatur nilai yang memungkinkan pencarian untuk garis bawah teks di halaman dokumen sumber. Usang. Harap gunakan TextSearchOptions.SearchForTextRelatedGraphics sebagai gantinya.
+title: "TextEditOptions.ToAttemptGetUnderlineFromSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextEditOptions. Mendapatkan atau mengatur nilai yang memungkinkan pencarian garis bawah teks pada halaman dokumen sumber. Usang. Silakan gunakan TextSearchOptions.SearchForTextRelatedGraphics sebagai gantinya."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/
 ---
-## Properti TextEditOptions.ToAttemptGetUnderlineFromSource
+## TextEditOptions.ToAttemptGetUnderlineFromSource property
 
-Mendapatkan atau mengatur nilai yang memungkinkan pencarian untuk garis bawah teks di halaman dokumen sumber. (Usang) Harap gunakan TextSearchOptions.SearchForTextRelatedGraphics sebagai gantinya.
+Mendapatkan atau mengatur nilai yang mengizinkan pencarian garis bawah teks pada halaman dokumen sumber. (Usang) Silakan gunakan TextSearchOptions.SearchForTextRelatedGraphics sebagai gantinya.
 
 ```csharp
 public bool ToAttemptGetUnderlineFromSource { get; set; }
@@ -16,6 +16,8 @@ public bool ToAttemptGetUnderlineFromSource { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextEditOptions](../)
+* class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseOperatorCollection. Mendapatkan operator berdasarkan indeksnya
+title: "BaseOperatorCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BaseOperatorCollection. Mengambil operator berdasarkan indeksnya"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/baseoperatorcollection/item/
 ---
-## Indeks BaseOperatorCollection
+## BaseOperatorCollection indexer
 
 Mendapatkan operator berdasarkan indeksnya.
 
@@ -18,13 +18,15 @@ public abstract Operator this[int index] { get; set; }
 | --- | --- |
 | index | Indeks operator. Penomoran dimulai dari 1. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Operator dari indeks yang diminta
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [BaseOperatorCollection](../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

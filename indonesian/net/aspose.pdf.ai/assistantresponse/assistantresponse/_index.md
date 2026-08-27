@@ -1,12 +1,12 @@
 ---
-title: AssistantResponse.AssistantResponse
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantResponse constructor. The default constructor
+title: "AssistantResponse.AssistantResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor AssistantResponse. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/assistantresponse/assistantresponse/
 ---
-## Konstruktor AssistantResponse
+## AssistantResponse constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public AssistantResponse()
 
 ### Lihat Juga
 
-* kelas [AssistantResponse](../)
+* class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

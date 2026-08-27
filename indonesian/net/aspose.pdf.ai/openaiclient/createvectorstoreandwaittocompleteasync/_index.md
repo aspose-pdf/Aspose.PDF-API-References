@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Membuat penyimpanan vektor baru dan menunggu hingga selesai secara asinkron
+title: "OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Membuat penyimpanan vektor baru dan menunggu hingga selesai secara asinkron."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.ai/openaiclient/createvectorstoreandwaittocompleteasync/
 ---
-## Metode OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
+## OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync method
 
-Membuat penyimpanan vektor baru dan menunggu hingga selesai secara asinkron.
+Membuat vector store baru dan menunggu hingga selesai secara asinkron.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
@@ -18,17 +18,19 @@ public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | Objek permintaan yang berisi detail untuk membuat penyimpanan vektor. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | Objek permintaan yang berisi detail untuk membuat vector store. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan penyimpanan vektor setelah selesai.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan penyimpanan vektor setelah selesai.
 
 ### Lihat Juga
 
-* kelas [VectorStoreResponse](../../vectorstoreresponse/)
-* kelas [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* kelas [OpenAIClient](../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

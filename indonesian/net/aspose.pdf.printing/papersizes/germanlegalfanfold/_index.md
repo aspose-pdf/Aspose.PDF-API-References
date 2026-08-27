@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.GermanLegalFanfold
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Fanfold hukum Jerman 8.5 in. x 13 in
+title: "PaperSizes.GermanLegalFanfold"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PaperSizes. Fanfold legal Jerman 8.5 in. x 13 in"
 type: docs
 weight: 430
 url: /id/net/aspose.pdf.printing/papersizes/germanlegalfanfold/
 ---
-## Bidang PaperSizes.GermanLegalFanfold
+## PaperSizes.GermanLegalFanfold field
 
-Fanfold hukum Jerman (8.5 in. x 13 in.).
+Fanfold legal Jerman (8.5 in. x 13 in.).
 
 ```csharp
 public static readonly PaperSize GermanLegalFanfold;
@@ -16,7 +16,9 @@ public static readonly PaperSize GermanLegalFanfold;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

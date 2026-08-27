@@ -1,14 +1,14 @@
 ---
-title: CustomPrintEventArgs.CustomPrintEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CustomPrintEventArgs. Menginisialisasi CustomPrintEventArgs dengan pengaturan printer dan halaman yang diberikan
+title: "CustomPrintEventArgs.CustomPrintEventArgs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CustomPrintEventArgs. Menginisialisasi CustomPrintEventArgs dengan printer dan pengaturan halaman yang diberikan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/customprinteventargs/customprinteventargs/
 ---
-## Konstruktor CustomPrintEventArgs
+## CustomPrintEventArgs constructor
 
-Menginisialisasi [`CustomPrintEventArgs`](../) dengan pengaturan printer dan halaman yang diberikan.
+Menginisialisasi [`CustomPrintEventArgs`](../) dengan printer dan pengaturan halaman yang diberikan.
 
 ```csharp
 public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings, 
@@ -23,8 +23,10 @@ public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings,
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../../printersettings/)
-* kelas [PageSettings](../../pagesettings/)
-* kelas [CustomPrintEventArgs](../)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../../pagesettings/)
+* class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

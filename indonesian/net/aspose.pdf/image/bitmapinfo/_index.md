@@ -1,12 +1,12 @@
 ---
-title: Image.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Gambar. Mendapatkan atau mengatur byte gambar yang tidak terkompresi
+title: "Image.BitmapInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Image. Mendapatkan atau mengatur byte gambar yang tidak terkompresi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/image/bitmapinfo/
 ---
-## Properti Image.BitmapInfo
+## Image.BitmapInfo property
 
 Mendapatkan atau mengatur byte gambar yang tidak terkompresi.
 
@@ -16,7 +16,9 @@ public BitmapInfo BitmapInfo { get; set; }
 
 ### Lihat Juga
 
-* kelas [BitmapInfo](../../bitmapinfo/)
-* kelas [Gambar](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [BitmapInfo](../../bitmapinfo/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

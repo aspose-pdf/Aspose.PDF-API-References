@@ -1,12 +1,12 @@
 ---
-title: Table.RepeatingColumnsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tabel. Mendapatkan atau mengatur jumlah kolom maksimum untuk tabel
+title: "Table.RepeatingColumnsCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Table. Mendapatkan atau mengatur jumlah kolom maksimum untuk tabel"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf/table/repeatingcolumnscount/
 ---
-## Properti Table.RepeatingColumnsCount
+## Table.RepeatingColumnsCount property
 
 Mendapatkan atau mengatur jumlah kolom maksimum untuk tabel
 
@@ -16,6 +16,8 @@ public int RepeatingColumnsCount { get; set; }
 
 ### Lihat Juga
 
-* kelas [Table](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

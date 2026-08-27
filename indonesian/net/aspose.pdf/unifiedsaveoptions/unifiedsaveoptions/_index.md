@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.UnifiedSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: UnifiedSaveOptions constructor. The default constructor
+title: "UnifiedSaveOptions.UnifiedSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "UnifiedSaveOptions constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/unifiedsaveoptions/unifiedsaveoptions/
 ---
-## Konstruktor UnifiedSaveOptions
+## UnifiedSaveOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public UnifiedSaveOptions()
 
 ### Lihat Juga
 
-* kelas [UnifiedSaveOptions](../)
+* class [UnifiedSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

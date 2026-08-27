@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentAbsorber. Mengambil atau mengatur opsi pencarian. Opsi ini memungkinkan pencarian menggunakan ekspresi reguler
+title: "TextFragmentAbsorber.TextSearchOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentAbsorber. Mendapatkan atau mengatur opsi pencarian. Opsi-opsi ini memungkinkan pencarian menggunakan ekspresi reguler"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/
 ---
-## Properti TextFragmentAbsorber.TextSearchOptions
+## TextFragmentAbsorber.TextSearchOptions property
 
-Mengambil atau mengatur opsi pencarian. Opsi ini memungkinkan pencarian menggunakan ekspresi reguler.
+Mendapatkan atau mengatur opsi pencarian. Opsi-opsi tersebut memungkinkan pencarian menggunakan ekspresi reguler.
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
@@ -19,27 +19,29 @@ public TextSearchOptions TextSearchOptions { get; set; }
 Contoh ini menunjukkan cara melakukan pencarian teks menggunakan ekspresi reguler.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object
+// Buat objek TextFragmentAbsorber
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+// buat absorber untuk mencari semua kata yang dimulai dengan 'h' dan diakhiri dengan 'o' menggunakan ekspresi reguler.
 absorber.Phrase = @"h\w*?o";
 absorber.TextSearchOptions = new TextSearchOptions(true);
 
-// we should find "hello" word and replace it with "Hi"
+// kita harus menemukan kata "hello" dan menggantinya dengan "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Lihat Juga
 
-* kelas [TextSearchOptions](../../textsearchoptions/)
-* kelas [TextFragmentAbsorber](../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

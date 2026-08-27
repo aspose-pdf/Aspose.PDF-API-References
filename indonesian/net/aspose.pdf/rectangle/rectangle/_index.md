@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Rectangle. Konstruktor dari Rectangle
+title: "Rectangle.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Rectangle. Konstruktor Rectangle"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/rectangle/rectangle/
 ---
-## Konstruktor Rectangle
+## Rectangle constructor
 
-Konstruktor dari Rectangle.
+Konstruktor Rectangle.
 
 ```csharp
 public Rectangle(double llx, double lly, double urx, double ury, bool normalizeCoordinates = true)
@@ -16,14 +16,16 @@ public Rectangle(double llx, double lly, double urx, double ury, bool normalizeC
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| llx | Double | X dari sudut kiri bawah. |
-| lly | Double | Y dari sudut kiri bawah. |
-| urx | Double | X dari sudut kanan atas. |
-| ury | Double | Y dari sudut kanan atas. |
-| normalizeCoordinates | Boolean | Normalisasi koordinat dari rectangle. |
+| llx | Double | X sudut kiri bawah. |
+| lly | Double | Y sudut kiri bawah. |
+| urx | Double | X sudut kanan atas. |
+| ury | Double | Y sudut kanan atas. |
+| normalizeCoordinates | Boolean | Normalisasi koordinat persegi panjang. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

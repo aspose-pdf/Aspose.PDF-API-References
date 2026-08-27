@@ -1,12 +1,12 @@
 ---
-title: FitRExplicitDestination.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FitRExplicitDestination. Mendapatkan koordinat vertikal bawah dari persegi panjang yang terlihat
+title: "FitRExplicitDestination.Bottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FitRExplicitDestination property. Mendapatkan koordinat vertikal bawah dari persegi panjang yang terlihat"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/fitrexplicitdestination/bottom/
 ---
-## Properti FitRExplicitDestination.Bottom
+## FitRExplicitDestination.Bottom property
 
 Mendapatkan koordinat vertikal bawah dari persegi panjang yang terlihat.
 
@@ -16,6 +16,8 @@ public double Bottom { get; }
 
 ### Lihat Juga
 
-* kelas [FitRExplicitDestination](../)
+* class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

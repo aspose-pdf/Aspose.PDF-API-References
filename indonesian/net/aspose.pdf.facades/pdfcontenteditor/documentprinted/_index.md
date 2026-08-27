@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentPrinted
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfContentEditor. Jenis acara dokumen. Lakukan aksi setelah mencetak
+title: "PdfContentEditor.DocumentPrinted"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor bidang. Tipe peristiwa dokumen. Menjalankan aksi setelah mencetak"
 type: docs
 weight: 490
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/documentprinted/
 ---
 ## PdfContentEditor.DocumentPrinted field
 
-Jenis acara dokumen. Lakukan aksi setelah mencetak.
+Tipe peristiwa dokumen. Menjalankan aksi setelah pencetakan.
 
 ```csharp
 public const string DocumentPrinted;
@@ -19,3 +19,5 @@ public const string DocumentPrinted;
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

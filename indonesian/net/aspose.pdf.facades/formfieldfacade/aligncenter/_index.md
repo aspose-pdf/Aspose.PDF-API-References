@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignCenter
-second_title: Aspose.PDF for .NET API Reference
-description: Field FormFieldFacade. Mendefinisikan penataan ke gaya tengah
+title: "FormFieldFacade.AlignCenter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade bidang. Menentukan perataan ke gaya tengah"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/formfieldfacade/aligncenter/
 ---
-## Field FormFieldFacade.AlignCenter
+## FormFieldFacade.AlignCenter field
 
-Mendefinisikan penataan ke gaya tengah.
+Mendefinisikan penyelarasan ke gaya tengah.
 
 ```csharp
 public const int AlignCenter;
@@ -16,6 +16,8 @@ public const int AlignCenter;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IncompleteDetails.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor IncompleteDetails. Konstruktor default
+title: "IncompleteDetails.IncompleteDetails"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor IncompleteDetails. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/incompletedetails/incompletedetails/
 ---
-## Konstruktor IncompleteDetails
+## IncompleteDetails constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public IncompleteDetails()
 
 ### Lihat Juga
 
-* kelas [IncompleteDetails](../)
+* class [IncompleteDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

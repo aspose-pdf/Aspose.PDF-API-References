@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Membuat penyelesaian baru secara asinkron
+title: "IOpenAIClient.CreateCompletionAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Membuat completion baru secara asinkron"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/iopenaiclient/createcompletionasync/
 ---
-## Metode IOpenAIClient.CreateCompletionAsync
+## IOpenAIClient.CreateCompletionAsync method
 
 Membuat penyelesaian baru secara asinkron.
 
@@ -20,14 +20,16 @@ public Task<CompletionResponse> CreateCompletionAsync(
 | completionCreateRequest | CompletionCreateRequest | Objek permintaan yang berisi detail untuk membuat penyelesaian. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan penyelesaian.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan penyelesaian.
 
 ### Lihat Juga
 
-* kelas [CompletionResponse](../../completionresponse/)
-* kelas [CompletionCreateRequest](../../completioncreaterequest/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CompletionResponse](../../completionresponse/)
+* class [CompletionCreateRequest](../../completioncreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TocInfo.FormatArray
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TocInfo. Mendapatkan atau mengatur array format untuk daftar isi
+title: "TocInfo.FormatArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TocInfo. Mendapatkan atau mengatur array format untuk daftar isi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/tocinfo/formatarray/
 ---
-## Properti TocInfo.FormatArray
+## TocInfo.FormatArray property
 
 Mendapatkan atau mengatur array format untuk daftar isi.
 
@@ -16,7 +16,9 @@ public LevelFormat[] FormatArray { get; set; }
 
 ### Lihat Juga
 
-* kelas [LevelFormat](../../levelformat/)
-* kelas [TocInfo](../)
+* class [LevelFormat](../../levelformat/)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

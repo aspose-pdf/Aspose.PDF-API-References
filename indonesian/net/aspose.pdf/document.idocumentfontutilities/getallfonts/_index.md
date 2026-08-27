@@ -1,12 +1,12 @@
 ---
-title: Document.IDocumentFontUtilities.GetAllFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IDocumentFontUtilities. Mengembalikan semua font dari dokumen
+title: "Document.IDocumentFontUtilities.GetAllFonts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IDocumentFontUtilities. Mengembalikan semua font dari dokumen"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/document.idocumentfontutilities/getallfonts/
 ---
-## Metode Document.IDocumentFontUtilities.GetAllFonts
+## Document.IDocumentFontUtilities.GetAllFonts method
 
 Mengembalikan semua font dari dokumen
 
@@ -14,13 +14,15 @@ Mengembalikan semua font dari dokumen
 public Font[] GetAllFonts()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 font
 
 ### Lihat Juga
 
-* kelas [Font](../../../aspose.pdf.text/font/)
-* antarmuka [IDocumentFontUtilities](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Font](../../../aspose.pdf.text/font/)
+* interface [IDocumentFontUtilities](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

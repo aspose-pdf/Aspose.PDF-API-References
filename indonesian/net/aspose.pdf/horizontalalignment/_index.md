@@ -1,12 +1,12 @@
 ---
-title: Enum HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.HorizontalAlignment. Menjelaskan perataan horizontal
+title: "Enum HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.HorizontalAlignment. Menjelaskan perataan horizontal"
 type: docs
-weight: 5500
+weight: 5630
 url: /id/net/aspose.pdf/horizontalalignment/
 ---
-## Enumerasi HorizontalAlignment
+## HorizontalAlignment enumeration
 
 Menjelaskan perataan horizontal.
 
@@ -22,10 +22,12 @@ public enum HorizontalAlignment
 | Left | `1` | Rata kiri. |
 | Center | `2` | Perataan tengah. |
 | Right | `3` | Rata kanan. |
-| Justify | `4` | Perataan justify. Teks akan diratakan pada kedua margin kiri dan kanan. |
-| FullJustify | `5` | Mirip dengan perataan 'Justify', kecuali bahwa baris terakhir hanya akan diratakan ke kiri dalam mode 'Justify', sementara dalam mode 'FullJustify' semua baris akan diratakan ke kiri dan kanan. |
+| Justify | `4` | Perataan justify. Teks akan diratakan pada margin kiri dan kanan. |
+| FullJustify | `5` | Mirip dengan perataan 'Justify', kecuali baris terakhir akan hanya diratakan ke kiri dalam mode 'Justify', sementara dalam mode 'FullJustify' semua baris akan diratakan ke kiri dan kanan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFileInfo.PdfFileInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfFileInfo. Menginisialisasi instance baru dari kelas Aspose.Pdf.Facades.PdfFileInfo dengan nilai default
+title: "PdfFileInfo.PdfFileInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfFileInfo. Menginisialisasi instance baru dari kelas Aspose.Pdf.Facades.PdfFileInfo dengan nilai default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/
@@ -16,7 +16,7 @@ public PdfFileInfo()
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public PdfFileInfo(Stream inputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream tempat file input diletakkan. |
+| inputStream | Stream | Stream tempat file input ditempatkan. |
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,18 +52,42 @@ public PdfFileInfo(Stream inputStream, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream tempat file input diletakkan. |
-| password | String | Kata sandi untuk akses ke file. |
+| inputStream | Stream | Stream tempat file input ditempatkan. |
+| kata sandi | String | Kata sandi untuk mengakses file. |
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string) {#constructor_4}
+## PdfFileInfo(Stream, string, ICustomSecurityHandler) {#constructor_4}
+
+Menginisialisasi instance baru dari kelas Aspose.Pdf.Facades.PdfFileInfo.
+
+```csharp
+public PdfFileInfo(Stream inputStream, string password, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| inputStream | Stream | Stream tempat file input ditempatkan. |
+| kata sandi | String | Kata sandi untuk mengakses file. |
+| customSecurityHandler | ICustomSecurityHandler | Handler keamanan khusus. |
+
+### Lihat Juga
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string) {#constructor_5}
 
 Menginisialisasi instance baru dari kelas Aspose.Pdf.Facades.PdfFileInfo.
 
@@ -77,13 +101,13 @@ public PdfFileInfo(string inputFile)
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string, string) {#constructor_5}
+## PdfFileInfo(string, string) {#constructor_6}
 
 Menginisialisasi instance baru dari kelas Aspose.Pdf.Facades.PdfFileInfo.
 
@@ -94,11 +118,34 @@ public PdfFileInfo(string inputFile, string password)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | inputFile | String | Nama file yang berisi file input. |
-| password | String | Kata sandi untuk akses ke file. |
+| kata sandi | String | Kata sandi untuk mengakses file. |
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string, string, ICustomSecurityHandler) {#constructor_7}
+
+Menginisialisasi instance baru dari kelas Aspose.Pdf.Facades.PdfFileInfo.
+
+```csharp
+public PdfFileInfo(string inputFile, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| inputFile | String | Nama file yang berisi file input. |
+| kata sandi | String | Kata sandi untuk mengakses file. |
+| customSecurityHandler | ICustomSecurityHandler | Handler keamanan khusus. |
+
+### Lihat Juga
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -106,7 +153,7 @@ public PdfFileInfo(string inputFile, string password)
 
 ## PdfFileInfo(Document) {#constructor_1}
 
-Menginisialisasi objek [`PdfFileInfo`](../) baru berdasarkan *dokumen*.
+Menginisialisasi objek [`PdfFileInfo`](../) baru berdasarkan *document*.
 
 ```csharp
 public PdfFileInfo(Document document)
@@ -118,7 +165,9 @@ public PdfFileInfo(Document document)
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfFileInfo](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

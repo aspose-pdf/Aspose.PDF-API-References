@@ -1,12 +1,12 @@
 ---
-title: SvgExtractionOptions.AutoGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SvgExtractionOptions. Mendapatkan dan mengatur opsi untuk secara otomatis mengelompokkan subpath menjadi gambar. Opsi ini mengecualikan opsi [`GroupStrength`](../groupstrength/).
+title: "SvgExtractionOptions.AutoGrouping"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SvgExtractionOptions. Mendapatkan dan mengatur opsi untuk secara otomatis mengelompokkan subpath menjadi gambar. Opsi ini mengecualikan opsi GroupStrength"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.vector/svgextractionoptions/autogrouping/
 ---
-## Properti SvgExtractionOptions.AutoGrouping
+## SvgExtractionOptions.AutoGrouping property
 
 Mendapatkan dan mengatur opsi untuk secara otomatis mengelompokkan subpath menjadi gambar. Opsi ini mengecualikan opsi [`GroupStrength`](../groupstrength/).
 
@@ -16,6 +16,8 @@ public bool AutoGrouping { get; set; }
 
 ### Lihat Juga
 
-* kelas [SvgExtractionOptions](../)
+* class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

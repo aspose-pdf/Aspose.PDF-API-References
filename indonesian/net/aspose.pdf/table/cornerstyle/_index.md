@@ -1,14 +1,14 @@
 ---
-title: Table.CornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Tabel. Mengambil atau mengatur gaya sudut batas
+title: "Table.CornerStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Table. Mendapatkan atau mengatur gaya sudut batas"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/table/cornerstyle/
 ---
-## Properti Table.CornerStyle
+## Table.CornerStyle property
 
-Mengambil atau mengatur gaya sudut batas
+Mendapatkan atau mengatur gaya sudut batas.
 
 ```csharp
 public BorderCornerStyle CornerStyle { get; set; }
@@ -20,3 +20,5 @@ public BorderCornerStyle CornerStyle { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

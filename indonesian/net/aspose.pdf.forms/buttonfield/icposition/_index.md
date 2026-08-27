@@ -1,14 +1,14 @@
 ---
-title: ButtonField.ICPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ButtonField. Mendapatkan atau mengatur posisi keterangan ikon
+title: "ButtonField.ICPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ButtonField. Mendapatkan atau mengatur posisi caption ikon."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.forms/buttonfield/icposition/
 ---
-## Properti ButtonField.ICPosition
+## ButtonField.ICPosition property
 
-Mendapatkan atau mengatur posisi keterangan ikon.
+Mendapatkan atau mengatur posisi caption ikon.
 
 ```csharp
 public IconCaptionPosition ICPosition { get; set; }
@@ -20,3 +20,5 @@ public IconCaptionPosition ICPosition { get; set; }
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

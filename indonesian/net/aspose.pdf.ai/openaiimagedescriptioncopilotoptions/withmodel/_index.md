@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Mengatur model untuk opsi copilot deskripsi gambar
+title: "OpenAIImageDescriptionCopilotOptions.WithModel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions method. Mengatur model untuk opsi copilot deskripsi gambar"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmodel/
 ---
-## Metode OpenAIImageDescriptionCopilotOptions.WithModel
+## OpenAIImageDescriptionCopilotOptions.WithModel method
 
 Mengatur model untuk opsi copilot deskripsi gambar.
 
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithModel(string model)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| model | String | Model yang akan diatur. |
+| model | String | Model yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

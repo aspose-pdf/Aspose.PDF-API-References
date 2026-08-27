@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Key
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AttributeKey. Dapatkan Kunci Atribut
+title: "AttributeKey.Key"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey properti. Dapatkan Kunci Atribut"
 type: docs
 weight: 420
 url: /id/net/aspose.pdf.logicalstructure/attributekey/key/
 ---
-## Properti AttributeKey.Key
+## AttributeKey.Key property
 
 Dapatkan Kunci Atribut.
 
@@ -14,12 +14,14 @@ Dapatkan Kunci Atribut.
 public string Key { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Kunci Atribut.
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

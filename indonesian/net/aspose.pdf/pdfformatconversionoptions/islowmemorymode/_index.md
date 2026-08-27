@@ -1,9 +1,9 @@
 ---
-title: PdfFormatConversionOptions.IsLowMemoryMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Apakah mode konversi memori rendah diaktifkan
+title: "PdfFormatConversionOptions.IsLowMemoryMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Apakah mode konversi memori rendah diaktifkan"
 type: docs
-weight: 110
+weight: 120
 url: /id/net/aspose.pdf/pdfformatconversionoptions/islowmemorymode/
 ---
 ## PdfFormatConversionOptions.IsLowMemoryMode property
@@ -16,6 +16,8 @@ public bool IsLowMemoryMode { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFormatConversionOptions](../)
+* class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

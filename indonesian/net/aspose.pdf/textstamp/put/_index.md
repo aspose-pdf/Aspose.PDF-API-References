@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextStamp. Menambahkan cap teks pada halaman
+title: "TextStamp.Put"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextStamp. Menambahkan cap teks pada halaman"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf/textstamp/put/
 ---
-## Metode TextStamp.Put
+## TextStamp.Put method
 
-Menambahkan cap teks pada halaman.
+Menambahkan stempel teks pada halaman.
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman untuk cap. |
+| halaman | Halaman | Halaman untuk menstempel |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [TextStamp](../)
+* class [Page](../../page/)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

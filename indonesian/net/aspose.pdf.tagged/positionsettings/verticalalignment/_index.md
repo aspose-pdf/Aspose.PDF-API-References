@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PositionSettings. Mendapatkan atau mengatur perataan vertikal paragraf
+title: "PositionSettings.VerticalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PositionSettings. Mendapatkan atau mengatur perataan vertikal paragraf"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.tagged/positionsettings/verticalalignment/
 ---
-## Properti PositionSettings.VerticalAlignment
+## PositionSettings.VerticalAlignment property
 
 Mendapatkan atau mengatur perataan vertikal paragraf.
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageLabel.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageLabel. Mendapatkan atau mengatur awalan nomor halaman
+title: "PageLabel.Prefix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageLabel properti. Mengambil atau mengatur awalan nomor halaman"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pagelabel/prefix/
 ---
-## Properti PageLabel.Prefix
+## PageLabel.Prefix property
 
 Mendapatkan atau mengatur awalan nomor halaman.
 
@@ -16,6 +16,8 @@ public string Prefix { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageLabel](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageLabel](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

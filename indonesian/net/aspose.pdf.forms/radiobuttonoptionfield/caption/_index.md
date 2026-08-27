@@ -1,12 +1,12 @@
 ---
-title: RadioButtonOptionField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RadioButtonOptionField. Mendapatkan atau mengatur caption
+title: "RadioButtonOptionField.Caption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RadioButtonOptionField. Mendapatkan atau mengatur caption."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/radiobuttonoptionfield/caption/
 ---
-## Properti RadioButtonOptionField.Caption
+## RadioButtonOptionField.Caption property
 
 Mendapatkan atau mengatur caption.
 
@@ -16,7 +16,9 @@ public TextFragment Caption { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../../aspose.pdf.text/textfragment/)
-* kelas [RadioButtonOptionField](../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

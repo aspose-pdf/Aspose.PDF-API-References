@@ -1,25 +1,27 @@
 ---
-title: XmpField.LocalName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpField. Mengambil atau menetapkan nama lokal
+title: "XmpField.LocalName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpField. Mengambil atau mengatur nama lokal"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/xmpfield/localname/
 ---
-## Properti XmpField.LocalName
+## XmpField.LocalName property
 
-Mengambil atau menetapkan nama lokal.
+Mendapatkan atau mengatur nama lokal.
 
 ```csharp
 public string LocalName { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Nama lokal.
 
 ### Lihat Juga
 
-* kelas [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

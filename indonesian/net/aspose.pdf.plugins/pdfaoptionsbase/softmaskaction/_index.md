@@ -1,22 +1,22 @@
 ---
-title: PdfAOptionsBase.SoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAOptionsBase. Mendapatkan atau mengatur tindakan yang akan diambil selama konversi gambar dengan masker lembut
+title: "PdfAOptionsBase.SoftMaskAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfAOptionsBase. Mendapatkan atau mengatur tindakan yang harus diambil selama konversi gambar dengan soft mask."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.plugins/pdfaoptionsbase/softmaskaction/
 ---
-## Properti PdfAOptionsBase.SoftMaskAction
+## PdfAOptionsBase.SoftMaskAction property
 
-Mendapatkan atau mengatur tindakan yang akan diambil selama konversi gambar dengan masker lembut.
+Mendapatkan atau mengatur tindakan yang akan diambil selama konversi gambar dengan soft mask.
 
 ```csharp
 public ConvertSoftMaskAction SoftMaskAction { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Tindakan untuk mengonversi gambar dengan masker lembut. Nilai dari properti ini adalah enumerasi [`ConvertSoftMaskAction`](../../../aspose.pdf/convertsoftmaskaction/).
+Tindakan untuk mengonversi gambar dengan soft mask. Nilai properti ini adalah enumerasi [`ConvertSoftMaskAction`](../../../aspose.pdf/convertsoftmaskaction/).
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Tindakan untuk mengonversi gambar dengan masker lembut. Nilai dari properti ini 
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

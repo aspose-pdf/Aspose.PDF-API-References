@@ -1,14 +1,14 @@
 ---
-title: Class StructureAttributeCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.LogicalStructure.StructureAttributeCollection. Mewakili koleksi atribut dari elemen struktur
+title: "Kelas StructureAttributeCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.LogicalStructure.StructureAttributeCollection. Mewakili koleksi atribut elemen struktur"
 type: docs
-weight: 6680
+weight: 6820
 url: /id/net/aspose.pdf.logicalstructure/structureattributecollection/
 ---
-## Kelas StructureAttributeCollection
+## StructureAttributeCollection class
 
-Mewakili koleksi atribut dari elemen struktur.
+Mewakili koleksi atribut elemen struktur.
 
 ```csharp
 public class StructureAttributeCollection
@@ -18,10 +18,12 @@ public class StructureAttributeCollection
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | Membuat dan mengembalikan [`StructureAttributes`](../structureattributes/) dari elemen struktur berdasarkan pemilik atribut standar. |
-| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | Mengembalikan [`StructureAttributes`](../structureattributes/) dari elemen struktur berdasarkan pemilik atribut standar. |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | Buat dan kembalikan [`StructureAttributes`](../structureattributes/) dari elemen struktur berdasarkan pemilik atribut standar. |
+| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | Kembalikan [`StructureAttributes`](../structureattributes/) dari elemen struktur berdasarkan pemilik atribut standar. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

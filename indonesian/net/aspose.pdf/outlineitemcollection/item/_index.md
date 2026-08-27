@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutlineItemCollection. Mengambil item outline dari koleksi menggunakan indeks
+title: "OutlineItemCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutlineItemCollection. Mendapatkan item outline dari koleksi menggunakan indeks"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/outlineitemcollection/item/
 ---
-## Indeks OutlineItemCollection
+## OutlineItemCollection indexer
 
-Mengambil item outline dari koleksi menggunakan indeks.
+Mendapatkan item outline dari koleksi menggunakan indeks.
 
 ```csharp
 public OutlineItemCollection this[int index] { get; }
@@ -18,12 +18,14 @@ public OutlineItemCollection this[int index] { get; }
 | --- | --- |
 | index | Indeks dalam koleksi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek OutlineItemCollection.
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

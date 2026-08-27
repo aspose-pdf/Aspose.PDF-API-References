@@ -1,14 +1,14 @@
 ---
-title: TableElement.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan lebar kolom dari tabel
+title: "TableElement.ColumnWidths"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableElement properti. Mendapatkan lebar kolom tabel"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.logicalstructure/tableelement/columnwidths/
 ---
-## Properti TableElement.ColumnWidths
+## TableElement.ColumnWidths property
 
-Mendapatkan lebar kolom dari tabel.
+Mendapatkan lebar kolom tabel.
 
 ```csharp
 public string ColumnWidths { get; set; }
@@ -16,6 +16,8 @@ public string ColumnWidths { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableElement](../)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

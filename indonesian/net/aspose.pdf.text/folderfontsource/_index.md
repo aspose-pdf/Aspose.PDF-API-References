@@ -1,14 +1,14 @@
 ---
-title: Class FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.FolderFontSource. Mewakili folder yang berisi file font
+title: "Kelas FolderFontSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.FolderFontSource. Mewakili folder yang berisi file font"
 type: docs
-weight: 10500
+weight: 10680
 url: /id/net/aspose.pdf.text/folderfontsource/
 ---
-## Kelas FolderFontSource
+## FolderFontSource class
 
-Mewakili folder yang berisi file font.
+Mewakili folder yang berisi berkas font.
 
 ```csharp
 public sealed class FolderFontSource : FontSource
@@ -30,10 +30,12 @@ public sealed class FolderFontSource : FontSource
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Memeriksa apakah objek sumber font folder sama. |
+| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Periksa apakah objek sumber font folder sama. |
 
 ### Lihat Juga
 
-* kelas [FontSource](../fontsource/)
+* class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

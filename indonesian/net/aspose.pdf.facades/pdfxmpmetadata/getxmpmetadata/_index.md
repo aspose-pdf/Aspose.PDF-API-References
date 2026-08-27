@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfXmpMetadata. Dapatkan XmpMetadata dari pdf input dalam format xml
+title: "PdfXmpMetadata.GetXmpMetadata"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfXmpMetadata. Mendapatkan XmpMetadata dari PDF masukan dalam format XML"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
@@ -14,7 +14,7 @@ Dapatkan XmpMetadata dari pdf input dalam format xml.
 public byte[] GetXmpMetadata()
 ```
 
-### Return Value
+### Nilai Kembalian
 
 Byte dari XmpMetadata.
 
@@ -28,7 +28,7 @@ byte[] data = pxm.GetXmpMetadata();
 
 ### Lihat Juga
 
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ byte[] data = pxm.GetXmpMetadata();
 
 ## GetXmpMetadata(string) {#getxmpmetadata_1}
 
-Dapatkan bagian dari XmpMetadata dari pdf input sesuai dengan nama meta.
+Dapatkan bagian dari XmpMetadata pdf input sesuai dengan nama meta.
 
 ```csharp
 public byte[] GetXmpMetadata(string name)
@@ -44,11 +44,11 @@ public byte[] GetXmpMetadata(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama metadata. |
+| nama | String | Nama metadata. |
 
-### Return Value
+### Nilai Kembalian
 
-Byte dari metadata.
+Byte metadata.
 
 ## Contoh
 
@@ -60,6 +60,8 @@ byte[] data = pxm.GetXmpMetadata("dc:creator");
 
 ### Lihat Juga
 
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

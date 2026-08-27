@@ -1,14 +1,14 @@
 ---
-title: Document.GetObjectById
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Mendapatkan objek dengan ID yang ditentukan dalam dokumen
+title: "Document.GetObjectById"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Mendapatkan objek dengan ID tertentu dalam dokumen"
 type: docs
-weight: 680
+weight: 700
 url: /id/net/aspose.pdf/document/getobjectbyid/
 ---
-## Metode Document.GetObjectById
+## Document.GetObjectById method
 
-Mendapatkan objek dengan ID yang ditentukan dalam dokumen.
+Mendapatkan objek dengan ID yang ditentukan dalam document.
 
 ```csharp
 public object GetObjectById(string id)
@@ -18,12 +18,14 @@ public object GetObjectById(string id)
 | --- | --- | --- |
 | id | String | ID objek. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek dengan ID yang ditentukan. Null jika ID tidak ditemukan.
+Objek dengan ID tertentu. Null jika ID tidak ditemukan.
 
 ### Lihat Juga
 
-* kelas [Document](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

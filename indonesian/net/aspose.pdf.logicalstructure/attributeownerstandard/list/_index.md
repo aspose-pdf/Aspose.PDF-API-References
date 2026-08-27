@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.List
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeOwnerStandard. Daftar pemilik atribut
+title: "AttributeOwnerStandard.List"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeOwnerStandard. Pemilik atribut List"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
-## Field AttributeOwnerStandard.List
+## AttributeOwnerStandard.List field
 
-Daftar pemilik atribut.
+Pemilik atribut List.
 
 ```csharp
 public static readonly AttributeOwnerStandard List;
@@ -19,3 +19,5 @@ public static readonly AttributeOwnerStandard List;
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

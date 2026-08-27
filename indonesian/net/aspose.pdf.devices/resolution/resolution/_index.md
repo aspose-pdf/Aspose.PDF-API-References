@@ -1,14 +1,14 @@
 ---
-title: Resolution.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Resolusi. Menginisialisasi instance baru dari kelas Resolusi
+title: "Resolution.Resolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Resolution. Menginisialisasi instance baru dari kelas Resolution"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.devices/resolution/resolution/
 ---
-## Resolusi(int) {#constructor}
+## Resolution(int) {#constructor}
 
-Menginisialisasi instance baru dari kelas [`Resolusi`](../).
+Menginisialisasi instance baru dari kelas [`Resolution`](../).
 
 ```csharp
 public Resolution(int value)
@@ -16,19 +16,19 @@ public Resolution(int value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Int32 | Nilai yang mewakili resolusi horizontal dan vertikal. |
+| nilai | Int32 | Nilai yang mewakili resolusi horizontal dan vertikal. |
 
 ### Lihat Juga
 
-* kelas [Resolusi](../)
+* class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Resolusi(int, int) {#constructor_1}
+## Resolution(int, int) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`Resolusi`](../).
+Menginisialisasi instance baru dari kelas [`Resolution`](../).
 
 ```csharp
 public Resolution(int valueX, int valueY)
@@ -41,6 +41,8 @@ public Resolution(int valueX, int valueY)
 
 ### Lihat Juga
 
-* kelas [Resolusi](../)
+* class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

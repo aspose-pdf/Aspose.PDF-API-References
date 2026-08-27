@@ -1,14 +1,14 @@
 ---
-title: Artifact.CustomType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Artifact. Mendapatkan nama jenis artefak. Dapat digunakan jika jenis artefak tidak standar
+title: "Artifact.CustomType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Artifact. Mengambil nama tipe artifact. Dapat digunakan jika tipe artifact tidak standar"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/artifact/customtype/
 ---
-## Properti Artifact.CustomType
+## Artifact.CustomType property
 
-Mendapatkan nama jenis artefak. Dapat digunakan jika jenis artefak tidak standar.
+Mendapatkan nama tipe artefak. Dapat digunakan jika tipe artefak tidak standar.
 
 ```csharp
 public string CustomType { get; set; }
@@ -16,6 +16,8 @@ public string CustomType { get; set; }
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SvgSaveOptions.SvgImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.SvgSaveOptionsSvgImageSavingInfo. Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan file gambar sumber eksternal selama konversi PDF ke HTML
+title: "Kelas SvgSaveOptions.SvgImageSavingInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.SvgSaveOptionsSvgImageSavingInfo. Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan file gambar sumber daya eksternal selama konversi PDF ke HTML"
 type: docs
-weight: 10260
+weight: 10440
 url: /id/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/
 ---
-## Kelas SvgSaveOptions.SvgImageSavingInfo
+## SvgSaveOptions.SvgImageSavingInfo class
 
-Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan file gambar sumber eksternal selama konversi PDF ke HTML.
+Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan file gambar sumber daya eksternal selama konversi PDF ke HTML.
 
 ```csharp
 public class SvgImageSavingInfo : ResourceSavingInfo
@@ -24,20 +24,22 @@ public class SvgImageSavingInfo : ResourceSavingInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Diatur oleh konverter. Nama file yang diharapkan yang berasal dari konverter ke kode metode kustom. Dapat digunakan dalam kode kustom untuk memutuskan bagaimana memproses atau di mana menyimpan file tersebut. |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Ditentukan oleh konverter. Nama file yang diharapkan yang diteruskan dari konverter ke kode metode khusus. Dapat digunakan dalam kode khusus untuk memutuskan bagaimana memproses atau dimana menyimpan file tersebut. |
 
-## Field
+## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Diatur oleh konverter. Mewakili konten biner dari file yang disimpan. |
-| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Flag ini harus diatur ke "true" dalam kode kustom jika karena alasan tertentu file yang diusulkan harus diproses tidak dengan kode kustom tetapi dengan kode konverter itu sendiri dengan cara standar untuk konverter. Jadi, pengaturannya ke true berarti bahwa kode kustom tidak memproses file yang dirujuk dan konverter harus menangani sendiri (dalam kedua arti - untuk menyimpan di suatu tempat dan untuk penamaan dalam file yang dirujuk). |
-| [ImageType](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype) | Mewakili tipe gambar yang disimpan yang dirujuk dalam HTML. Diatur oleh konverter dan dapat digunakan dalam kode kustom untuk memutuskan apa yang harus dilakukan. |
-| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Diatur oleh konverter. Nama file yang diharapkan yang berasal dari konverter ke kode metode kustom. Dapat digunakan dalam kode kustom untuk memutuskan bagaimana memproses atau di mana menyimpan file tersebut. |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Ditentukan oleh konverter. Mewakili konten biner dari file yang disimpan. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | bendera ini harus disetel ke "true" dalam kode khusus jika karena alasan tertentu file yang diusulkan harus diproses bukan dengan kode khusus melainkan dengan kode konverter itu sendiri dengan cara standar konverter. Jadi, pengaturannya disetel ke true berarti bahwa kode khusus tidak memproses file yang dirujuk dan konverter harus menanganinya sendiri (dalam kedua konteks - untuk menyimpan di suatu tempat dan untuk penamaan dalam file referensi). |
+| [ImageType](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype) | mewakili jenis gambar yang disimpan yang dirujuk dalam HTML. Ditentukan oleh konverter dan dapat digunakan dalam kode khusus untuk memutuskan apa yang harus dilakukan |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Ditentukan oleh konverter. Nama file yang diharapkan yang diteruskan dari konverter ke kode metode khusus. Dapat digunakan dalam kode khusus untuk memutuskan bagaimana memproses atau dimana menyimpan file tersebut. |
 
 ### Lihat Juga
 
-* kelas [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
-* kelas [SvgSaveOptions](../svgsaveoptions/)
+* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* class [SvgSaveOptions](../svgsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

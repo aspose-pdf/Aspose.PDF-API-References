@@ -1,12 +1,12 @@
 ---
-title: Class TableElement
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.LogicalStructure.TableElement. Mewakili elemen struktur Tabel dalam struktur logis
+title: "Kelas TableElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.LogicalStructure.TableElement class. Mewakili elemen struktur Table dalam struktur logis"
 type: docs
-weight: 6780
+weight: 6920
 url: /id/net/aspose.pdf.logicalstructure/tableelement/
 ---
-## Kelas TableElement
+## TableElement class
 
 Mewakili elemen struktur Tabel dalam struktur logis.
 
@@ -24,11 +24,11 @@ public sealed class TableElement : BLSElement, IAdjustPosition
 | [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes/) { get; } | Mendapatkan objek StructureAttributeCollection. |
 | [BackgroundColor](../../aspose.pdf.logicalstructure/tableelement/backgroundcolor/) { get; set; } | Mendapatkan atau mengatur warna latar belakang tabel. |
 | [Border](../../aspose.pdf.logicalstructure/tableelement/border/) { get; set; } | Mendapatkan atau mengatur batas tabel. |
-| [Broken](../../aspose.pdf.logicalstructure/tableelement/broken/) { get; set; } | Mendapatkan atau mengatur tabel vertikal yang terputus; |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Mendapatkan koleksi anak dari objek Elemen. |
+| [Broken](../../aspose.pdf.logicalstructure/tableelement/broken/) { get; set; } | Mendapatkan atau mengatur tabel vertikal rusak; |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Mendapatkan koleksi anak dari objek Element. |
 | [ColumnAdjustment](../../aspose.pdf.logicalstructure/tableelement/columnadjustment/) { get; set; } | Mendapatkan atau mengatur penyesuaian kolom tabel. |
 | [ColumnWidths](../../aspose.pdf.logicalstructure/tableelement/columnwidths/) { get; set; } | Mendapatkan lebar kolom tabel. |
-| [CornerStyle](../../aspose.pdf.logicalstructure/tableelement/cornerstyle/) { get; set; } | Mendapatkan atau mengatur gaya sudut batas |
+| [CornerStyle](../../aspose.pdf.logicalstructure/tableelement/cornerstyle/) { get; set; } | Mendapatkan atau mengatur gaya sudut batas. |
 | [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner/) { get; } | Mendapatkan objek AttributeOwnerStandard. |
 | [DefaultCellBorder](../../aspose.pdf.logicalstructure/tableelement/defaultcellborder/) { get; set; } | Mendapatkan batas sel default. |
 | [DefaultCellPadding](../../aspose.pdf.logicalstructure/tableelement/defaultcellpadding/) { get; set; } | Mendapatkan atau mengatur padding sel default. |
@@ -40,9 +40,9 @@ public sealed class TableElement : BLSElement, IAdjustPosition
 | [IsBroken](../../aspose.pdf.logicalstructure/tableelement/isbroken/) { get; set; } | Mendapatkan atau mengatur apakah tabel terputus - akan dipotong untuk halaman berikutnya. |
 | [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | Mendapatkan atau mengatur bahasa untuk elemen struktur. |
 | [Left](../../aspose.pdf.logicalstructure/tableelement/left/) { get; set; } | Mendapatkan atau mengatur koordinat kiri tabel. |
-| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | Mendapatkan halaman di mana beberapa atau semua elemen anak akan dirender. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Mendapatkan elemen induk. |
-| [RepeatingColumnsCount](../../aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount/) { get; set; } | Mendapatkan atau mengatur jumlah kolom maksimum untuk tabel. |
+| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | Mendapatkan halaman tempat sebagian atau semua elemen anak akan dirender. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Dapatkan elemen induk. |
+| [RepeatingColumnsCount](../../aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount/) { get; set; } | Mendapatkan atau mengatur jumlah maksimum kolom untuk tabel. |
 | [RepeatingRowsCount](../../aspose.pdf.logicalstructure/tableelement/repeatingrowscount/) { get; set; } | Mendapatkan jumlah baris pertama yang diulang untuk beberapa halaman. |
 | [RepeatingRowsStyle](../../aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle/) { get; set; } | Mendapatkan gaya untuk baris yang diulang. |
 | [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | Mendapatkan tipe elemen struktur. |
@@ -54,31 +54,33 @@ public sealed class TableElement : BLSElement, IAdjustPosition
 | Nama | Deskripsi |
 | --- | --- |
 | [AdjustPosition](../../aspose.pdf.logicalstructure/tableelement/adjustposition/)(PositionSettings) |  |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Menambahkan Elemen ke koleksi anak. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Mengubah elemen induk untuk elemen struktur saat ini |
-| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Menghapus semua anak. |
-| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Menghapus ID untuk elemen struktur. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Tambahkan Element ke koleksi anak. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Ubah elemen induk untuk elemen struktur saat ini |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Bersihkan semua anak. |
+| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Bersihkan ID untuk elemen struktur. |
 | [CreateTBody](../../aspose.pdf.logicalstructure/tableelement/createtbody/)() | Membuat [`TableTHeadElement`](../tabletheadelement/) dan menambahkannya ke tabel saat ini. |
 | [CreateTFoot](../../aspose.pdf.logicalstructure/tableelement/createtfoot/)() | Membuat [`TableTFootElement`](../tabletfootelement/) dan menambahkannya ke tabel saat ini. |
 | [CreateTHead](../../aspose.pdf.logicalstructure/tableelement/createthead/)() | Membuat [`TableTHeadElement`](../tabletheadelement/) dan menambahkannya ke tabel saat ini. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Mencari Elemen dari tipe tertentu |
-| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Menghasilkan ID untuk elemen struktur. |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Menyisipkan Elemen ke koleksi anak pada indeks yang ditentukan. |
-| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Menghapus: elemen dari struktur, referensi ke elemen dari objek induk, referensi ke elemen dari objek anak, objek yang sesuai dari dokumen. |
-| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Menghapus elemen dari struktur, referensi ke elemen dari objek induk, referensi ke elemen dari objek anak, dan objek yang sesuai dari dokumen. Menyisipkan objek anak dari objek yang dihapus ke dalam koleksi objek anak induknya yang sebelumnya mulai dari indeks objek yang dihapus. |
-| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Menghapus anak pada. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Temukan Elements dengan tipe tertentu |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Hasilkan ID untuk elemen struktur. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Sisipkan Element ke koleksi anak pada indeks yang ditentukan. |
+| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Menghapus: sebuah elemen dari struktur, referensi kepadanya dari objek induk, referensi kepadanya dari objek anak, objek yang sesuai dari dokumen. |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Menghapus sebuah elemen dari struktur, referensi kepadanya dari objek induk, referensi kepadanya dari objek anak, dan objek yang sesuai dari dokumen. Menyisipkan objek anak dari objek yang dihapus ke dalam koleksi objek anak induk sebelumnya mulai dari indeks objek yang dihapus. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Hapus anak pada. |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Mengatur ID untuk elemen struktur. |
-| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Mengatur tag kustom untuk elemen struktur. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Mengikat elemen struktur ke Anotasi. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Mengikat elemen struktur ke Artefak. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Mengikat elemen struktur ke operator BDC aliran konten. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | Mengikat elemen struktur ke XForm aliran konten. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | Mengikat elemen struktur ke XImage. |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Mengatur tag khusus untuk elemen struktur. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Mengaitkan elemen struktur ke Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Mengaitkan elemen struktur ke Artifact. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Mengaitkan elemen struktur ke operator BDC pada aliran konten. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | Mengaitkan elemen struktur ke XForm pada aliran konten. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | Mengaitkan elemen struktur ke XImage. |
 | override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | Mengembalikan string yang mewakili objek saat ini. |
 
 ### Lihat Juga
 
-* kelas [BLSElement](../blselement/)
-* antarmuka [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
+* class [BLSElement](../blselement/)
+* interface [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

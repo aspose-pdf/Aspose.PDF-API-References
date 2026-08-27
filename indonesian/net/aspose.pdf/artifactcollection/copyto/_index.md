@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ArtifactCollection. Menyalin koleksi ke dalam array
+title: "ArtifactCollection.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ArtifactCollection. Menyalin koleksi ke dalam array"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/artifactcollection/copyto/
 ---
-## Metode ArtifactCollection.CopyTo
+## ArtifactCollection.CopyTo method
 
 Menyalin koleksi ke dalam array.
 
@@ -21,7 +21,9 @@ public void CopyTo(Artifact[] dest, int index)
 
 ### Lihat Juga
 
-* kelas [Artifact](../../artifact/)
-* kelas [ArtifactCollection](../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

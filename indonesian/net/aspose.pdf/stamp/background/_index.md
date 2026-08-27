@@ -1,14 +1,14 @@
 ---
-title: Stamp.Background
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mengatur atau mendapatkan nilai bool yang menunjukkan bahwa konten dicap sebagai latar belakang. Jika nilainya true, konten cap diletakkan di bawah. Secara default, nilainya false, konten cap diletakkan di atas.
+title: "Stamp.Background"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mengatur atau mendapatkan nilai bool yang menunjukkan konten ditandai sebagai latar belakang. Jika nilai true, konten stamp diletakkan di bagian bawah. Secara default nilai false, konten stamp diletakkan di bagian atas."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/stamp/background/
 ---
-## Properti Stamp.Background
+## Stamp.Background property
 
-Mengatur atau mendapatkan nilai bool yang menunjukkan bahwa konten dicap sebagai latar belakang. Jika nilainya true, konten cap diletakkan di bawah. Secara default, nilainya false, konten cap diletakkan di atas.
+Mengatur atau mengambil nilai bool yang menunjukkan konten dicap sebagai latar belakang. Jika nilai true, konten stempel diletakkan di bagian bawah. Secara default, nilai false, konten stempel diletakkan di bagian atas.
 
 ```csharp
 public bool Background { get; set; }
@@ -16,6 +16,8 @@ public bool Background { get; set; }
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

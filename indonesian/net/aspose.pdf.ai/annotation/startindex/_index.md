@@ -1,14 +1,14 @@
 ---
-title: Annotation.StartIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur indeks awal dari teks dalam konten pesan yang perlu diganti
+title: "Annotation.StartIndex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur indeks awal teks dalam konten pesan yang perlu diganti"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/annotation/startindex/
 ---
-## Properti Annotation.StartIndex
+## Annotation.StartIndex property
 
-Mendapatkan atau mengatur indeks awal dari teks dalam konten pesan yang perlu diganti.
+Mendapatkan atau mengatur indeks awal teks dalam konten pesan yang perlu diganti.
 
 ```csharp
 public int StartIndex { get; set; }
@@ -16,6 +16,8 @@ public int StartIndex { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

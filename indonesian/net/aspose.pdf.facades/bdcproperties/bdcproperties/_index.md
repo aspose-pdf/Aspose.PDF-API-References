@@ -1,7 +1,7 @@
 ---
-title: BDCProperties.BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BDCProperties. Konstruktor untuk properti operator BDC
+title: "BDCProperties.BDCProperties"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor BDCProperties. Konstruktor untuk properti operator BDC."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/bdcproperties/bdcproperties/
@@ -21,7 +21,7 @@ public BDCProperties(string lang = null, string expansionText = null)
 
 ### Lihat Juga
 
-* kelas [BDCProperties](../)
+* class [BDCProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,6 +43,8 @@ public BDCProperties(int? mcid, string lang = null, string expansionText = null)
 
 ### Lihat Juga
 
-* kelas [BDCProperties](../)
+* class [BDCProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

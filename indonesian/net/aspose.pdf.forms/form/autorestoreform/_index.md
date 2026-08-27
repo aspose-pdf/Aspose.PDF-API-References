@@ -1,14 +1,14 @@
 ---
-title: Form.AutoRestoreForm
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Jika diatur, bidang formulir yang tidak ada akan dibuat secara otomatis jika ada dalam anotasi
+title: "Form.AutoRestoreForm"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Jika diatur, bidang formulir yang tidak ada akan secara otomatis dibuat jika mereka ada dalam anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/form/autorestoreform/
 ---
-## Properti Form.AutoRestoreForm
+## Form.AutoRestoreForm property
 
-Jika diatur, bidang formulir yang tidak ada akan dibuat secara otomatis jika ada dalam anotasi.
+Jika diatur, bidang formulir yang tidak ada akan secara otomatis dibuat jika mereka ada dalam anotasi.
 
 ```csharp
 public bool AutoRestoreForm { get; set; }
@@ -16,6 +16,8 @@ public bool AutoRestoreForm { get; set; }
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Devices.TiffDevice. Kelas ini membantu menyimpan dokumen pdf halaman demi halaman ke dalam satu gambar tiff
+title: "Kelas TiffDevice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Devices.TiffDevice. Kelas ini membantu menyimpan dokumen pdf halaman per halaman menjadi satu gambar tiff"
 type: docs
-weight: 3700
+weight: 3820
 url: /id/net/aspose.pdf.devices/tiffdevice/
 ---
-## Kelas TiffDevice
+## TiffDevice class
 
-Kelas ini membantu menyimpan dokumen pdf halaman demi halaman ke dalam satu gambar tiff.
+Kelas ini membantu menyimpan halaman dokumen pdf satu per satu ke dalam satu gambar tiff.
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
@@ -18,24 +18,24 @@ public sealed class TiffDevice : DocumentDevice
 
 | Nama | Deskripsi |
 | --- | --- |
-| [TiffDevice](tiffdevice/#constructor)() | Menginisialisasi instance baru dari kelas `TiffDevice` dengan pengaturan default. |
-| [TiffDevice](tiffdevice/#constructor_6)(PageSize) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_1)(Resolution) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_4)(TiffSettings) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_12)(int, int) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_7)(PageSize, Resolution) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_10)(PageSize, TiffSettings) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_2)(Resolution, TiffSettings) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_5)(TiffSettings, IIndexBitmapConverter) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_13)(int, int, Resolution) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_16)(int, int, TiffSettings) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_8)(PageSize, Resolution, TiffSettings) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_14)(int, int, Resolution, TiffSettings) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | Menginisialisasi instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `TiffDevice` dengan pengaturan default. |
+| [TiffDevice](tiffdevice/#constructor_6)(PageSize) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_1)(Resolution) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_4)(TiffSettings) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_12)(int, int) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_7)(PageSize, Resolution) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_10)(PageSize, TiffSettings) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_2)(Resolution, TiffSettings) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_5)(TiffSettings, IIndexBitmapConverter) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_13)(int, int, Resolution) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_16)(int, int, TiffSettings) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_8)(PageSize, Resolution, TiffSettings) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_14)(int, int, Resolution, TiffSettings) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | Menginisialisasi sebuah instance baru dari kelas `TiffDevice`. |
 
 ## Properti
 
@@ -45,40 +45,40 @@ public sealed class TiffDevice : DocumentDevice
 | [Height](../../aspose.pdf.devices/tiffdevice/height/) { get; } | Mendapatkan tinggi output gambar. |
 | [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions/) { get; set; } | Mendapatkan atau mengatur opsi rendering. |
 | [Resolution](../../aspose.pdf.devices/tiffdevice/resolution/) { get; } | Mendapatkan resolusi gambar. |
-| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | Mendapatkan pengaturan untuk memetakan pdf ke dalam gambar tiff. |
+| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | Mendapatkan pengaturan untuk memetakan pdf ke gambar tiff. |
 | [Width](../../aspose.pdf.devices/tiffdevice/width/) { get; } | Mendapatkan lebar output gambar. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Melakukan binarisasi Bradley untuk aliran input. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | Memproses seluruh dokumen dan menyimpan hasilnya ke dalam aliran. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | Memproses seluruh dokumen dan menyimpan hasilnya ke dalam file. |
+| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Lakukan binarisasi Bradley untuk aliran masukan. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | Memproses seluruh dokumen dan menyimpan hasil ke aliran. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | Memproses seluruh dokumen dan menyimpan hasil ke file. |
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process_4)(Page, Stream) |  |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Melakukan beberapa operasi pada halaman yang diberikan dan menyimpan hasilnya ke dalam file. |
-| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Mengonversi halaman dokumen tertentu menjadi tiff dan menyimpannya di aliran output. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Memproses halaman tertentu dari dokumen dan menyimpan hasilnya ke dalam file. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Mengonversi halaman dokumen tertentu menjadi TIFF dan menyimpannya dalam aliran output. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Memproses halaman tertentu dari dokumen dan menyimpan hasilnya ke file. |
 
 ## Contoh
 
-Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar TIFF.
+Contoh berikut menunjukkan cara mengonversi file PDF menjadi gambar TIFF.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Path ke Direktori PDF Anda
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Nama file PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Inisialisasi instance kelas Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Buat objek Resolution 	
 		Resolution resolution = new Resolution(300);
 		
-		// Create TiffSettings object
+		// Buat objek TiffSettings
 		TiffSettings tiffSettings = new TiffSettings
 		{
 			Compression = CompressionType.None,
@@ -87,10 +87,10 @@ Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar TIFF.
 			SkipBlankPages = false
 		};
 
-		// Create TIFF device
+		// Buat perangkat TIFF
 		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 
-		// Convert a PDF document to TIFF image
+		// Konversi dokumen PDF menjadi gambar TIFF
 		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
 	}
 ```
@@ -129,6 +129,8 @@ Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar TIFF.
 
 ### Lihat Juga
 
-* kelas [DocumentDevice](../documentdevice/)
+* class [DocumentDevice](../documentdevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

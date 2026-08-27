@@ -1,14 +1,14 @@
 ---
-title: Form.ImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Hasil dari operasi impor terakhir. Array objek yang menggambarkan hasil impor untuk setiap field
+title: "Form.ImportResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Hasil dari operasi impor terakhir. Array objek yang menjelaskan hasil impor untuk setiap bidang."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/form/importresult/
 ---
-## Properti Form.ImportResult
+## Form.ImportResult property
 
-Hasil dari operasi impor terakhir. Array objek yang menggambarkan hasil impor untuk setiap field.
+Hasil operasi impor terakhir. Array objek yang menjelaskan hasil impor untuk setiap bidang.
 
 ```csharp
 public FormImportResult[] ImportResult { get; }
@@ -16,7 +16,9 @@ public FormImportResult[] ImportResult { get; }
 
 ### Lihat Juga
 
-* kelas [FormImportResult](../../form.formimportresult/)
-* kelas [Form](../)
+* class [FormImportResult](../../form.formimportresult/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

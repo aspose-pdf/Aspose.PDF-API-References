@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.StringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ToolChoice. Mendapatkan atau mengatur nilai string dari ToolChoice
+title: "ToolChoice.StringValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ToolChoice. Mendapatkan atau menetapkan nilai string dari ToolChoice"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/toolchoice/stringvalue/
 ---
-## Properti ToolChoice.StringValue
+## ToolChoice.StringValue property
 
 Mendapatkan atau mengatur nilai string dari ToolChoice.
 
@@ -16,6 +16,8 @@ public string StringValue { get; set; }
 
 ### Lihat Juga
 
-* kelas [ToolChoice](../)
+* class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.PuaTextProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Strategi untuk memproses simbol dari area penggunaan pribadi unicode PUA
+title: "PdfFormatConversionOptions.PuaTextProcessingStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Strategi untuk memproses simbol dari Unicode Private Use Area (PUA)."
 type: docs
-weight: 190
+weight: 200
 url: /id/net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/
 ---
-## Properti PdfFormatConversionOptions.PuaTextProcessingStrategy
+## PdfFormatConversionOptions.PuaTextProcessingStrategy property
 
-Strategi untuk memproses simbol dari area penggunaan pribadi unicode (PUA).
+Strategi untuk memproses simbol dari Unicode Private Use Area (PUA).
 
 ```csharp
 public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
@@ -20,3 +20,5 @@ public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

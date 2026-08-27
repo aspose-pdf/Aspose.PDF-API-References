@@ -1,12 +1,12 @@
 ---
-title: PdfANonSpecificationFlags.PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: PdfANonSpecificationFlags constructor. The default constructor
+title: "PdfANonSpecificationFlags.PdfANonSpecificationFlags"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfANonSpecificationFlags constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 ---
-## Konstruktor PdfANonSpecificationFlags
+## PdfANonSpecificationFlags constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PdfANonSpecificationFlags()
 
 ### Lihat Juga
 
-* kelas [PdfANonSpecificationFlags](../)
+* class [PdfANonSpecificationFlags](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

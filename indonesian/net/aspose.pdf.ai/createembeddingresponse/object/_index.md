@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CreateEmbeddingResponse. Mendapatkan atau menetapkan tipe objek yang selalu berupa daftar
+title: "CreateEmbeddingResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CreateEmbeddingResponse properti. Mendapatkan atau mengatur tipe objek yang selalu berupa list"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/createembeddingresponse/object/
 ---
-## Properti CreateEmbeddingResponse.Object
+## CreateEmbeddingResponse.Object property
 
-Mendapatkan atau menetapkan tipe objek, yang selalu berupa daftar.
+Mendapatkan atau mengatur tipe objek, yang selalu berupa list.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [CreateEmbeddingResponse](../)
+* class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

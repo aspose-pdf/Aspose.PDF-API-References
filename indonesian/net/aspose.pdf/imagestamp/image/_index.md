@@ -1,12 +1,12 @@
 ---
-title: ImageStamp.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageStamp. Mendapatkan aliran gambar yang digunakan untuk stamping
+title: "ImageStamp.Image"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageStamp. Mengambil aliran gambar yang digunakan untuk menstempel"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/imagestamp/image/
 ---
-## Properti ImageStamp.Image
+## ImageStamp.Image property
 
 Mendapatkan aliran gambar yang digunakan untuk stamping.
 
@@ -16,6 +16,8 @@ public Stream Image { get; }
 
 ### Lihat Juga
 
-* kelas [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

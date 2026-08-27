@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetSubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Atur bendera pengiriman tombol kirim
+title: "FormEditor.SetSubmitFlag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Menetapkan bendera submit pada tombol submit"
 type: docs
 weight: 330
 url: /id/net/aspose.pdf.facades/formeditor/setsubmitflag/
 ---
-## Metode FormEditor.SetSubmitFlag
+## FormEditor.SetSubmitFlag method
 
-Atur bendera pengiriman tombol kirim.
+Atur flag submit pada tombol submit.
 
 ```csharp
 public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
@@ -16,12 +16,12 @@ public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama tombol kirim. |
-| submitFormFlag | SubmitFormFlag | Bendera pengiriman. |
+| fieldName | String | Nama tombol submit. |
+| submitFormFlag | SubmitFormFlag | Bendera submit. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika field ditemukan dan bendera pengiriman berhasil diatur.
+true jika field ditemukan dan flag submit berhasil diatur.
 
 ## Contoh
 
@@ -36,3 +36,5 @@ formEditor.SetSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.MarginPartStyle.ValueInPoints
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarginPartStyle. Mewakili margin dalam poin. Harus berupa angka lebih besar dari nol
+title: "SaveOptions.MarginPartStyle.ValueInPoints"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarginPartStyle. Mewakili margin dalam poin. Harus berupa angka lebih besar dari nol"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/saveoptions.marginpartstyle/valueinpoints/
 ---
-## Properti SaveOptions.MarginPartStyle.ValueInPoints
+## SaveOptions.MarginPartStyle.ValueInPoints property
 
 Mewakili margin dalam poin. Harus berupa angka lebih besar dari nol.
 
@@ -16,6 +16,8 @@ public int ValueInPoints { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginPartStyle](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

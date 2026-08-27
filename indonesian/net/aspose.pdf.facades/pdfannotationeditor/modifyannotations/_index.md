@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Memodifikasi anotasi dari tipe yang ditentukan pada rentang halaman yang ditentukan. Ini mendukung untuk memodifikasi properti anotasi berikut Modified, Title, Contents, Color, Subject dan Open
+title: "PdfAnnotationEditor.ModifyAnnotations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfAnnotationEditor method. Memodifikasi anotasi tipe yang ditentukan pada rentang halaman yang ditentukan. Mendukung modifikasi properti anotasi berikut: Modified, Title, Contents, Color, Subject, dan Open."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 ---
-## Metode PdfAnnotationEditor.ModifyAnnotations
+## PdfAnnotationEditor.ModifyAnnotations method
 
-Memodifikasi anotasi dari tipe yang ditentukan pada rentang halaman yang ditentukan. Ini mendukung untuk memodifikasi properti anotasi berikut: Modified, Title, Contents, Color, Subject dan Open.
+Mengubah anotasi dari tipe yang ditentukan pada rentang halaman yang ditentukan. Mendukung pengubahan properti anotasi berikut: Modified, Title, Contents, Color, Subject, dan Open.
 
 ```csharp
 public void ModifyAnnotations(int start, int end, Annotation annotation)
@@ -18,7 +18,7 @@ public void ModifyAnnotations(int start, int end, Annotation annotation)
 | --- | --- | --- |
 | start | Int32 | Nomor halaman awal. |
 | end | Int32 | Nomor halaman akhir. |
-| annotation | Annotation | Objek anotasi yang berisi properti baru. |
+| annotation | Annotation | Objek anotasi berisi properti baru. |
 
 ## Contoh
 
@@ -38,7 +38,9 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [Annotation](../../../aspose.pdf.annotations/annotation/)
-* kelas [PdfAnnotationEditor](../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

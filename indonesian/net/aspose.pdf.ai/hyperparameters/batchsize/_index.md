@@ -1,12 +1,12 @@
 ---
-title: Hyperparameters.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Hyperparameters. Mendapatkan atau mengatur jumlah contoh dalam setiap batch
+title: "Hyperparameters.BatchSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Hyperparameters. Mengambil atau mengatur jumlah contoh dalam setiap batch"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/hyperparameters/batchsize/
 ---
-## Properti Hyperparameters.BatchSize
+## Hyperparameters.BatchSize property
 
 Mendapatkan atau mengatur jumlah contoh dalam setiap batch.
 
@@ -16,6 +16,8 @@ public string BatchSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [Hyperparameters](../)
+* class [Hyperparameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

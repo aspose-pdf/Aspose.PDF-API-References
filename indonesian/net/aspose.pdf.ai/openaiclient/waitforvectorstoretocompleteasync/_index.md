@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Menunggu agar penyimpanan vektor tertentu selesai secara asinkron
+title: "OpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Menunggu sebuah vector store tertentu selesai secara asinkron."
 type: docs
-weight: 500
+weight: 510
 url: /id/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/
 ---
-## Metode OpenAIClient.WaitForVectorStoreToCompleteAsync
+## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-Menunggu agar penyimpanan vektor tertentu selesai secara asinkron.
+Menunggu vector store tertentu selesai secara asynchronous.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
@@ -17,22 +17,24 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor yang akan dipantau hingga selesai. |
+| vectorStoreId | String | ID vector store yang dipantau hingga selesai. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status akhir dari penyimpanan vektor.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi status akhir dari vector store.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreResponse](../../vectorstoreresponse/)
-* kelas [OpenAIClient](../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

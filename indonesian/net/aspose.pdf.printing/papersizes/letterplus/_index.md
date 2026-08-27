@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterPlus
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas letter plus 8.5 in. x 12.69 in
+title: "PaperSizes.LetterPlus"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSizes. Kertas Letter plus 8.5 in. x 12.69 in"
 type: docs
 weight: 680
 url: /id/net/aspose.pdf.printing/papersizes/letterplus/
 ---
-## Bidang PaperSizes.LetterPlus
+## PaperSizes.LetterPlus field
 
-Kertas letter plus (8.5 in. x 12.69 in.).
+Kertas plus surat (8.5 in. x 12.69 in.).
 
 ```csharp
 public static readonly PaperSize LetterPlus;
@@ -16,7 +16,9 @@ public static readonly PaperSize LetterPlus;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

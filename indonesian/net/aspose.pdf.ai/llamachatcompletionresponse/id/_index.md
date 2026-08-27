@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaChatCompletionResponse. Mendapatkan atau menetapkan pengidentifikasi unik untuk penyelesaian obrolan
+title: "LlamaChatCompletionResponse.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LlamaChatCompletionResponse properti. Mendapatkan atau mengatur pengidentifikasi unik untuk chat completion"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/llamachatcompletionresponse/id/
 ---
-## Properti LlamaChatCompletionResponse.Id
+## LlamaChatCompletionResponse.Id property
 
-Mendapatkan atau menetapkan pengidentifikasi unik untuk penyelesaian obrolan.
+Mendapatkan atau mengatur pengidentifikasi unik untuk penyelesaian obrolan.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaChatCompletionResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

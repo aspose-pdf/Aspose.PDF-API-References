@@ -1,7 +1,7 @@
 ---
-title: Cell.Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Cell. Menginisialisasi instance baru dari kelas Cell
+title: "Cell.Cell"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Cell. Menginisialisasi instance baru dari kelas Cell"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/cell/cell/
@@ -16,12 +16,12 @@ public Cell(Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang dari sel dalam koordinat halaman. |
+| rect | Rectangle | Persegi panjang sel dalam koordinat halaman. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [Cell](../)
+* class [Rectangle](../../rectangle/)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,6 +37,8 @@ public Cell()
 
 ### Lihat Juga
 
-* kelas [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

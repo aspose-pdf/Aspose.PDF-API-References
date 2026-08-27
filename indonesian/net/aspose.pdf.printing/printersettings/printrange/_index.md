@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PrinterSettings. Mendapatkan atau mengatur halaman yang diminta pengguna untuk dicetak
+title: "PrinterSettings.PrintRange"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PrinterSettings. Mendapatkan atau mengatur halaman yang diminta pengguna untuk dicetak."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.printing/printersettings/printrange/
 ---
-## Properti PrinterSettings.PrintRange
+## PrinterSettings.PrintRange property
 
 Mendapatkan atau mengatur halaman yang diminta pengguna untuk dicetak.
 
@@ -20,3 +20,5 @@ public PrintRange PrintRange { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

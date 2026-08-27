@@ -1,14 +1,14 @@
 ---
-title: Class TableRowBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.TableRowBuilder. Kelas ini mewakili pembangun untuk baris tabel
+title: "Kelas TableRowBuilder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.TableRowBuilder. Kelas ini mewakili pembuat untuk baris tabel"
 type: docs
-weight: 9370
+weight: 9520
 url: /id/net/aspose.pdf.plugins/tablerowbuilder/
 ---
-## Kelas TableRowBuilder
+## TableRowBuilder class
 
-Kelas ini mewakili pembangun untuk baris tabel.
+Kelas mewakili pembuat baris tabel.
 
 ```csharp
 public class TableRowBuilder : TableBuilder
@@ -18,14 +18,16 @@ public class TableRowBuilder : TableBuilder
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [AddCell](../../aspose.pdf.plugins/tablerowbuilder/addcell/)() | Menambahkan sel ke baris tabel. |
-| override [AddRow](../../aspose.pdf.plugins/tablerowbuilder/addrow/)() | Mengganti AddRow. |
-| [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | Menambahkan tabel baru ke dokumen. |
-| [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | Menyisipkan halaman setelah halaman yang ditentukan. |
-| [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | Menyisipkan halaman sebelum halaman yang ditentukan. |
+| virtual [AddCell](../../aspose.pdf.plugins/tablerowbuilder/addcell/)() | Tambahkan sel ke baris tabel. |
+| override [AddRow](../../aspose.pdf.plugins/tablerowbuilder/addrow/)() | Menimpa AddRow. |
+| [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | Tambahkan tabel baru ke dokumen. |
+| [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | Sisipkan halaman setelah halaman yang ditentukan. |
+| [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | Sisipkan halaman sebelum halaman yang ditentukan. |
 
 ### Lihat Juga
 
-* kelas [TableBuilder](../tablebuilder/)
+* class [TableBuilder](../tablebuilder/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

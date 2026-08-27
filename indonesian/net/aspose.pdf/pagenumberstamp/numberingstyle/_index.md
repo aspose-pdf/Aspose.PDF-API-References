@@ -1,14 +1,14 @@
 ---
-title: PageNumberStamp.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageNumberStamp. Gaya penomoran yang digunakan oleh cap ini
+title: "PageNumberStamp.NumberingStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageNumberStamp. Gaya penomoran yang digunakan oleh stempel ini"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pagenumberstamp/numberingstyle/
 ---
-## Properti PageNumberStamp.NumberingStyle
+## PageNumberStamp.NumberingStyle property
 
-Gaya penomoran yang digunakan oleh cap ini.
+Gaya penomoran yang digunakan oleh stempel ini.
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle NumberingStyle { get; set; }
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

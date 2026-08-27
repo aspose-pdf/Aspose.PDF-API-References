@@ -1,14 +1,14 @@
 ---
-title: FormEditor.MoveField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Atur posisi baru dari field
+title: "FormEditor.MoveField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Menetapkan posisi baru bidang"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.facades/formeditor/movefield/
 ---
-## Metode FormEditor.MoveField
+## FormEditor.MoveField method
 
-Atur posisi baru dari field.
+Mengatur posisi baru field.
 
 ```csharp
 public bool MoveField(string fieldName, float llx, float lly, float urx, float ury)
@@ -16,15 +16,15 @@ public bool MoveField(string fieldName, float llx, float lly, float urx, float u
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang harus dipindahkan. |
-| llx | Single | Abscissa dari sudut kiri bawah field. |
-| lly | Single | Ordinat dari sudut kiri bawah field. |
-| urx | Single | Abscissa dari sudut kanan atas field. |
-| ury | Single | Ordinat dari sudut kanan atas field. |
+| fieldName | String | Nama bidang yang harus dipindahkan. |
+| llx | Single | Absis sudut kiri bawah bidang. |
+| lly | Single | Ordinat sudut kiri bawah bidang. |
+| urx | Single | Absis sudut kanan atas bidang. |
+| ury | Single | Ordinat sudut kanan atas bidang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika posisi field berhasil diubah.
+Benar jika posisi bidang berhasil diubah.
 
 ## Contoh
 
@@ -35,6 +35,8 @@ formEditor.MoveField("textField", 20.5f, 20.3f, 120.6f, 40.8f);
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

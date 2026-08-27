@@ -1,12 +1,12 @@
 ---
-title: MessageContentBase.MessageContentType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MessageContentBase. Mendapatkan atau mengatur jenis konten
+title: "MessageContentBase.MessageContentType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MessageContentBase. Mendapatkan atau mengatur tipe konten"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/messagecontentbase/messagecontenttype/
 ---
-## Properti MessageContentBase.MessageContentType
+## MessageContentBase.MessageContentType property
 
 Mendapatkan atau mengatur jenis konten.
 
@@ -16,6 +16,8 @@ public string MessageContentType { get; set; }
 
 ### Lihat Juga
 
-* kelas [MessageContentBase](../)
+* class [MessageContentBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

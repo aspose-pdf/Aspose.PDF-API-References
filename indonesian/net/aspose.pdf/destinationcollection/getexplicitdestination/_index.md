@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.GetExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DestinationCollection. Mengembalikan tujuan eksplisit berdasarkan nama
+title: "DestinationCollection.GetExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DestinationCollection. Mengembalikan tujuan eksplisit berdasarkan nama"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/destinationcollection/getexplicitdestination/
 ---
-## Metode DestinationCollection.GetExplicitDestination
+## DestinationCollection.GetExplicitDestination method
 
 Mengembalikan tujuan eksplisit berdasarkan nama.
 
@@ -19,13 +19,15 @@ public ExplicitDestination GetExplicitDestination(string destinameName, bool use
 | destinameName | String | Nama tujuan. |
 | useCache | Boolean | Menentukan apakah versi cache dari koleksi digunakan atau tidak. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek ExplicitDestination untuk tujuan yang ditemukan; jika tidak, null.
 
 ### Lihat Juga
 
-* kelas [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
-* kelas [DestinationCollection](../)
+* class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

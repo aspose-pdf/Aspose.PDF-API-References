@@ -1,12 +1,12 @@
 ---
-title: IChatCopilot.DeleteContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IChatCopilot. Menghapus konteks secara asinkron
+title: "IChatCopilot.DeleteContextAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IChatCopilot. Secara asinkron menghapus konteks."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/
 ---
-## Metode IChatCopilot.DeleteContextAsync
+## IChatCopilot.DeleteContextAsync method
 
 Menghapus konteks secara asinkron.
 
@@ -18,12 +18,14 @@ public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
 | --- | --- | --- |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron.
+Tugas yang mewakili operasi asinkron.
 
 ### Lihat Juga
 
-* antarmuka [IChatCopilot](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

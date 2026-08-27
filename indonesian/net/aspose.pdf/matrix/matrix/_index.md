@@ -1,14 +1,14 @@
 ---
-title: Matrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Matrix. Konstruktor membuat matriks standar 1 ke 1 A B C D E F 1 0 0 1 0 0
+title: "Matrix.Matrix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Matrix. Konstruktor membuat matriks standar 1 ke 1  A B C D E F    1 0 0 1 0 0"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/matrix/matrix/
 ---
 ## Matrix() {#constructor}
 
-Konstruktor membuat matriks standar 1 ke 1: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]
+Konstruktor membuat Matrix standar 1 ke 1: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]
 
 ```csharp
 public Matrix()
@@ -22,7 +22,7 @@ Matrix m = new Matrix();
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -30,7 +30,7 @@ Matrix m = new Matrix();
 
 ## Matrix(double[]) {#constructor_3}
 
-Konstruktor menerima matriks dengan representasi array berikut: [ A B C D E F ]
+Konstruktor menerima sebuah Matrix dengan representasi array berikut: [ A B C D E F ]
 
 ```csharp
 public Matrix(double[] matrixArray)
@@ -38,7 +38,7 @@ public Matrix(double[] matrixArray)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrixArray | Double[] | Array data matriks. |
+| matrixArray | Double[] | Array data Matrix. |
 
 ## Contoh
 
@@ -49,7 +49,7 @@ Matrix m = new Matrix(c);
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,7 +57,7 @@ Matrix m = new Matrix(c);
 
 ## Matrix(float[]) {#constructor_4}
 
-Konstruktor menerima matriks dengan representasi array berikut: [ A B C D E F ]
+Konstruktor menerima sebuah Matrix dengan representasi array berikut: [ A B C D E F ]
 
 ```csharp
 public Matrix(float[] matrixArray)
@@ -65,11 +65,11 @@ public Matrix(float[] matrixArray)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrixArray | Single[] | Array data matriks. |
+| matrixArray | Single[] | Array data Matrix. |
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -77,7 +77,7 @@ public Matrix(float[] matrixArray)
 
 ## Matrix(Matrix) {#constructor_1}
 
-Konstruktor menerima matriks untuk membuat salinan
+Konstruktor menerima sebuah Matrix untuk membuat salinan
 
 ```csharp
 public Matrix(Matrix matrix)
@@ -85,11 +85,11 @@ public Matrix(Matrix matrix)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Objek matriks. |
+| matrix | Matrix | Objek Matrix. |
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -97,7 +97,7 @@ public Matrix(Matrix matrix)
 
 ## Matrix(double, double, double, double, double, double) {#constructor_2}
 
-Menginisialisasi matriks transformasi dengan koefisien yang ditentukan.
+Menginisialisasi Matrix transformasi dengan koefisien yang ditentukan.
 
 ```csharp
 public Matrix(double a, double b, double c, double d, double e, double f)
@@ -105,12 +105,12 @@ public Matrix(double a, double b, double c, double d, double e, double f)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| a | Double | Nilai matriks A. |
+| a | Double | Nilai matriks. |
 | b | Double | Nilai matriks B. |
 | c | Double | Nilai matriks C. |
 | d | Double | Nilai matriks D. |
 | e | Double | Nilai matriks E. |
-| f | Double | Nilai matriks F. |
+| f | Double | Nilai matrix F. |
 
 ## Contoh
 
@@ -120,6 +120,8 @@ Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

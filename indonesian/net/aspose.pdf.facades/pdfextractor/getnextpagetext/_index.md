@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Menyimpan teks satu halaman ke file
+title: "PdfExtractor.GetNextPageText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Menyimpan teks satu halaman ke file"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/pdfextractor/getnextpagetext/
@@ -16,7 +16,7 @@ public void GetNextPageText(string outputFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur dan nama file untuk menyimpan teks. |
+| outputFile | String | Jalur file dan nama untuk menyimpan teks. |
 
 ## Contoh
 
@@ -51,7 +51,7 @@ End While
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -59,7 +59,7 @@ End While
 
 ## GetNextPageText(Stream) {#getnextpagetext}
 
-Menyimpan teks satu halaman ke stream.
+Menyimpan teks satu halaman ke aliran.
 
 ```csharp
 public void GetNextPageText(Stream outputStream)
@@ -91,6 +91,8 @@ while (extractor.HasNextPageText())
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

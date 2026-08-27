@@ -1,14 +1,14 @@
 ---
-title: Class SubPathGroup
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Vector.SubPathGroup. Mewakili kelas untuk sekelompok wadah elemen grafis. Objek kelas memiliki kotak pembatas untuk memperhitungkan ukuran grup
+title: "Kelas SubPathGroup"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Vector.SubPathGroup. Mewakili kelas untuk grup kontainer elemen grafik. Objek kelas memiliki kotak pembatas untuk memperhitungkan ukuran grup."
 type: docs
-weight: 11230
+weight: 11420
 url: /id/net/aspose.pdf.vector/subpathgroup/
 ---
-## Kelas SubPathGroup
+## SubPathGroup class
 
-Mewakili kelas untuk sekelompok wadah elemen grafis. Objek kelas memiliki kotak pembatas untuk memperhitungkan ukuran grup.
+Mewakili kelas untuk sekelompok kontainer elemen grafis. Objek kelas memiliki kotak pembatas untuk memperhitungkan ukuran grup.
 
 ```csharp
 public class SubPathGroup
@@ -18,3 +18,5 @@ public class SubPathGroup
 
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

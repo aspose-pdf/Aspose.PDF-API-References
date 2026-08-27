@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Bookmark
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Bookmark. Konstruktor default
+title: "Bookmark.Bookmark"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Bookmark. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/bookmark/bookmark/
 ---
-## Konstruktor Bookmark
+## Bookmark constructor
 
 Konstruktor default.
 
@@ -19,3 +19,5 @@ public Bookmark()
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

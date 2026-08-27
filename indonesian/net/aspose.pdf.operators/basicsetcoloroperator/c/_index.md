@@ -1,12 +1,12 @@
 ---
-title: BasicSetColorOperator.C
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BasicSetColorOperator. Mendapatkan komponen cyan dari warna CMYK
+title: "BasicSetColorOperator.C"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BasicSetColorOperator. Mendapatkan komponen sian dari warna CMYK"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/basicsetcoloroperator/c/
 ---
-## Properti BasicSetColorOperator.C
+## BasicSetColorOperator.C property
 
 Mendapatkan komponen cyan dari warna CMYK.
 
@@ -16,6 +16,8 @@ public double C { get; }
 
 ### Lihat Juga
 
-* kelas [BasicSetColorOperator](../)
+* class [BasicSetColorOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormExporter.FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FormExporter. Konstruktor default
+title: "FormExporter.FormExporter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormExporter constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/formexporter/formexporter/
 ---
-## Konstruktor FormExporter
+## FormExporter constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public FormExporter()
 
 ### Lihat Juga
 
-* kelas [FormExporter](../)
+* class [FormExporter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

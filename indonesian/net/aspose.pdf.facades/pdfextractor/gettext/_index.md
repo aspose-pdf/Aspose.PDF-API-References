@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Menyimpan teks ke file. lihat juga ExtractText
+title: "PdfExtractor.GetText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Menyimpan teks ke file. lihat juga ExtractText"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.facades/pdfextractor/gettext/
@@ -16,11 +16,11 @@ public void GetText(string outputFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur dan nama file untuk menyimpan teks. |
+| outputFile | String | Jalur file dan nama untuk menyimpan teks. |
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,7 +40,7 @@ public void GetText(Stream outputStream)
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -61,6 +61,8 @@ public void GetText(Stream outputStream, bool filterNotAscii)
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

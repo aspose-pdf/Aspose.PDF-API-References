@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageCollection. Mendapatkan jumlah halaman dalam dokumen
+title: "PageCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "properti PageCollection. Mendapatkan jumlah halaman dalam dokumen"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pagecollection/count/
 ---
-## Properti PageCollection.Count
+## PageCollection.Count property
 
 Mendapatkan jumlah halaman dalam dokumen.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

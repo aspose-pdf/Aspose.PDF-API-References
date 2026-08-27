@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConverToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormDataConverter. Metode ini sudah usang. Silakan gunakan ConvertToStreams sebagai gantinya
+title: "FormDataConverter.ConverToStreams"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormDataConverter. Metode ini sudah usang. Silakan gunakan ConvertToStreams sebagai gantinya"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/formdataconverter/convertostreams/
 ---
-## Metode FormDataConverter.ConverToStreams
+## FormDataConverter.ConverToStreams method
 
 Metode ini sudah usang. Silakan gunakan ConvertToStreams() sebagai gantinya.
 
@@ -16,8 +16,8 @@ public void ConverToStreams(Stream[] destStream, DataType destType)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| destStream | Stream[] | Objek stream tujuan. |
-| destType | DataType | Nilai tipe tujuan. |
+| destStream | Stream[] | Objek aliran tujuan. |
+| destType | DataType | Nilai jenis tujuan. |
 
 ### Lihat Juga
 
@@ -25,3 +25,5 @@ public void ConverToStreams(Stream[] destStream, DataType destType)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

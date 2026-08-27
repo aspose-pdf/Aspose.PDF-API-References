@@ -1,12 +1,12 @@
 ---
-title: Document.Repair
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Memperbaiki dokumen yang rusak
+title: "Document.Repair"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Memperbaiki dokumen yang rusak"
 type: docs
-weight: 820
+weight: 840
 url: /id/net/aspose.pdf/document/repair/
 ---
-## Metode Document.Repair
+## Document.Repair method
 
 Memperbaiki dokumen yang rusak.
 
@@ -16,11 +16,13 @@ public void Repair(RepairOptions options = null)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| options | RepairOptions | Parameter opsional dari tipe [`RepairOptions`](../../document.repairoptions/) untuk menentukan pengaturan perbaikan. Jika tidak disediakan, pengaturan default akan digunakan. |
+| options | RepairOptions | Parameter opsional bertipe [`RepairOptions`](../../document.repairoptions/) untuk menentukan pengaturan perbaikan. Jika tidak disediakan, pengaturan default akan digunakan. |
 
 ### Lihat Juga
 
-* kelas [RepairOptions](../../document.repairoptions/)
-* kelas [Document](../)
+* class [RepairOptions](../../document.repairoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

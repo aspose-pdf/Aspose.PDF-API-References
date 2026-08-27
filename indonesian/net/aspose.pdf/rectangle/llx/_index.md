@@ -1,14 +1,14 @@
 ---
-title: Rectangle.LLX
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Koordinat X dari sudut kiri bawah
+title: "Rectangle.LLX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Koordinat X sudut kiri bawah"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/rectangle/llx/
 ---
-## Properti Rectangle.LLX
+## Rectangle.LLX property
 
-Koordinat X dari sudut kiri bawah.
+Koordinat X sudut kiri bawah.
 
 ```csharp
 public double LLX { get; set; }
@@ -16,6 +16,8 @@ public double LLX { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

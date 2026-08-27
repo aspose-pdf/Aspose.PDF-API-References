@@ -1,12 +1,12 @@
 ---
-title: NamedAction.NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor NamedAction. Konstruktor untuk kelas Named Action
+title: "NamedAction.NamedAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor NamedAction. Konstruktor untuk kelas Named Action"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/namedaction/namedaction/
 ---
-## Konstruktor NamedAction
+## NamedAction constructor
 
 Konstruktor untuk kelas Named Action.
 
@@ -16,7 +16,7 @@ public NamedAction(PredefinedAction action)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| action | PredefinedAction | Aksi untuk mana objek ini dibuat. |
+| aksi | PredefinedAction | Aksi untuk mana objek ini dibuat. |
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ public NamedAction(PredefinedAction action)
 * class [NamedAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

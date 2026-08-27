@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.Concatenate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Menggabungkan dua file
+title: "PdfFileEditor.Concatenate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileEditor method. Menggabungkan dua file"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.facades/pdffileeditor/concatenate/
@@ -18,9 +18,9 @@ public bool Concatenate(string firstInputFile, string secInputFile, string outpu
 | --- | --- | --- |
 | firstInputFile | String | File pertama untuk digabungkan. |
 | secInputFile | String | File kedua untuk digabungkan. |
-| outputFile | String | File keluaran. |
+| outputFile | String | File output. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -49,11 +49,11 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream o
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| firstInputStream | Stream | Stream dari file pertama. |
-| secInputStream | Stream | Stream dari file kedua. |
+| firstInputStream | Stream | Stream file pertama. |
+| secInputStream | Stream | Stream file kedua. |
 | outputStream | Stream | Stream tempat file hasil akan disimpan. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -90,7 +90,7 @@ public bool Concatenate(Document[] src, Document dest)
 | src | Document[] | Array dokumen sumber. |
 | dest | Document | Dokumen tujuan. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika penggabungan berhasil.
 
@@ -114,9 +114,9 @@ public bool Concatenate(string[] inputFiles, string outputFile)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | inputFiles | String[] | Array file untuk digabungkan. |
-| outputFile | String | Nama file keluaran. |
+| outputFile | String | Nama file output. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -145,10 +145,10 @@ public bool Concatenate(Stream[] inputStream, Stream outputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream[] | Array stream yang akan digabungkan. |
+| inputStream | Stream[] | Array aliran yang akan digabungkan. |
 | outputStream | Stream | Stream tempat file hasil akan disimpan. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -172,7 +172,7 @@ fileEditor.Concatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ## Concatenate(string, string, string, string) {#concatenate_5}
 
-Menggabungkan dua dokumen Pdf menjadi dokumen Pdf baru dengan halaman secara bergantian dan mengisi tempat kosong dengan halaman kosong. misalnya: dokumen1 memiliki 5 halaman: p1, p2, p3, p4, p5. dokumen2 memiliki 3 halaman: p1', p2', p3'. Menggabungkan kedua dokumen Pdf akan menghasilkan dokumen hasil dengan halaman: p1, p1', p2, p2', p3, p3', p4, halaman kosong, p5, halaman kosong.
+Menggabungkan dua dokumen Pdf menjadi dokumen Pdf baru dengan halaman secara bergantian dan mengisi tempat kosong dengan halaman kosong. contoh: document1 memiliki 5 halaman: p1, p2, p3, p4, p5. document2 memiliki 3 halaman: p1', p2', p3'. Menggabungkan dua dokumen Pdf akan menghasilkan dokumen hasil dengan halaman: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -186,7 +186,7 @@ public bool Concatenate(string firstInputFile, string secInputFile, string blank
 | blankPageFile | String | File PDF dengan halaman kosong. |
 | outputFile | String | File hasil. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -207,7 +207,7 @@ pfe.Concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 
 ## Concatenate(Stream, Stream, Stream, Stream) {#concatenate_2}
 
-Menggabungkan dua dokumen Pdf menjadi dokumen Pdf baru dengan halaman secara bergantian dan mengisi tempat kosong dengan halaman kosong. misalnya: dokumen1 memiliki 5 halaman: p1, p2, p3, p4, p5. dokumen2 memiliki 3 halaman: p1', p2', p3'. Menggabungkan kedua dokumen Pdf akan menghasilkan dokumen hasil dengan halaman: p1, p1', p2, p2', p3, p3', p4, halaman kosong, p5, halaman kosong.
+Menggabungkan dua dokumen Pdf menjadi dokumen Pdf baru dengan halaman secara bergantian dan mengisi tempat kosong dengan halaman kosong. contoh: document1 memiliki 5 halaman: p1, p2, p3, p4, p5. document2 memiliki 3 halaman: p1', p2', p3'. Menggabungkan dua dokumen Pdf akan menghasilkan dokumen hasil dengan halaman: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -216,12 +216,12 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream b
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| firstInputStream | Stream | Stream Pdf pertama. |
-| secInputStream | Stream | Stream Pdf kedua. |
-| blankPageStream | Stream | Stream Pdf dengan halaman kosong. |
-| outputStream | Stream | Stream Pdf keluaran. |
+| firstInputStream | Stream | Aliran Pdf pertama. |
+| secInputStream | Stream | Aliran Pdf kedua. |
+| blankPageStream | Stream | Aliran Pdf dengan halaman kosong. |
+| outputStream | Stream | Aliran Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -243,50 +243,3 @@ fileEditor.Concatenate(new Stream[] { stream1, stream2, blank } , outstream);
 * assembly [Aspose.PDF](../../../)
 
 
-## Concatenate(string[], HttpResponse) {#concatenate_8}
-
-Menggabungkan file dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool Concatenate(string[] inputFiles, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputFiles | String[] | Array file untuk digabungkan. |
-| response | HttpResponse | Objek respons. |
-
-### Return Value
-
-true jika penggabungan berhasil.
-
-### Lihat Juga
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Concatenate(Stream[], HttpResponse) {#concatenate_4}
-
-Menggabungkan file dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool Concatenate(Stream[] inputStream, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream[] | Array stream yang berisi file untuk digabungkan. |
-| response | HttpResponse | Objek respons. |
-
-### Return Value
-
-true jika operasi berhasil.
-
-### Lihat Juga
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

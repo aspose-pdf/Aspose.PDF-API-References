@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToDouble
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpValue. Mengonversi ke double
+title: "XmpValue.ToDouble"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpValue. Mengonversi ke double"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/xmpvalue/todouble/
 ---
-## Metode XmpValue.ToDouble
+## XmpValue.ToDouble method
 
 Mengonversi ke double.
 
@@ -14,12 +14,14 @@ Mengonversi ke double.
 public double ToDouble()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai double.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

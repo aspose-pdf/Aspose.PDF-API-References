@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XYZExplicitDestination. Buat tujuan ke lokasi yang ditentukan dari halaman dengan mempertimbangkan rotasi halaman jika diperlukan
+title: "XYZExplicitDestination.CreateDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XYZExplicitDestination. Membuat tujuan ke lokasi yang ditentukan pada halaman dengan mempertimbangkan rotasi halaman jika diperlukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/
 ---
-## Metode XYZExplicitDestination.CreateDestination
+## XYZExplicitDestination.CreateDestination method
 
-Buat tujuan ke lokasi yang ditentukan dari halaman dengan mempertimbangkan rotasi halaman jika diperlukan.
+Buat tujuan ke lokasi yang ditentukan pada halaman dengan mempertimbangkan rotasi halaman jika diperlukan.
 
 ```csharp
 public static XYZExplicitDestination CreateDestination(Page page, double left, double top, 
@@ -17,19 +17,21 @@ public static XYZExplicitDestination CreateDestination(Page page, double left, d
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman tujuan. |
-| left | Ganda | Posisi kiri di halaman. |
-| top | Ganda | Posisi atas di halaman. |
-| zoom | Ganda | Faktor zoom (0 untuk default). |
-| considerRotation | Boolean | Jika true, posisi akan dihitung ulang sesuai dengan rotasi halaman. |
+| halaman | Halaman | Destination Page. |
+| kiri | Double | Posisi kiri pada halaman. |
+| atas | Double | Posisi atas pada halaman. |
+| zoom | Double | Faktor zoom (0 untuk default). |
+| considerRotation | Boolean | Jika true, posisi akan dihitung ulang sesuai rotasi halaman. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek tujuan.
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [XYZExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

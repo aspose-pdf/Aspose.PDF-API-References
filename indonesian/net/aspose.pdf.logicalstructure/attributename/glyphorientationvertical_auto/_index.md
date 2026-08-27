@@ -1,14 +1,14 @@
 ---
-title: AttributeName.GlyphOrientationVertical_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Atribut GlyphOrientationVertical Auto Menentukan orientasi default untuk teks tergantung pada apakah itu fullwidth selebar tinggi.
+title: "AttributeName.GlyphOrientationVertical_Auto"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeName field. Attribute GlyphOrientationVertical Auto  Menentukan orientasi default untuk teks tergantung apakah teks tersebut lebar penuh setara dengan tingginya"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/
 ---
-## Bidang AttributeName.GlyphOrientationVertical_Auto
+## AttributeName.GlyphOrientationVertical_Auto field
 
-Atribut GlyphOrientationVertical: Auto - Menentukan orientasi default untuk teks, tergantung pada apakah itu fullwidth (selebar tinggi).
+Atribut GlyphOrientationVertical: Auto - Menentukan orientasi default untuk teks, tergantung apakah teks berukuran penuh (sebanyak lebar sama dengan tinggi).
 
 ```csharp
 public static readonly AttributeName GlyphOrientationVertical_Auto;
@@ -16,6 +16,8 @@ public static readonly AttributeName GlyphOrientationVertical_Auto;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

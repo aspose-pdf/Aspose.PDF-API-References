@@ -1,7 +1,7 @@
 ---
-title: GraphicalPdfComparer.ComparePagesToPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicalPdfComparer. Membandingkan halaman secara grafis. Hasil perbandingan ditempatkan dalam dokumen PDF
+title: "GraphicalPdfComparer.ComparePagesToPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicalPdfComparer. Membandingkan halaman secara grafis. Hasil perbandingan ditempatkan dalam dokumen PDF."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/
@@ -16,20 +16,20 @@ public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page1 | Page | Halaman pertama. |
-| page2 | Page | Halaman kedua. |
-| resultPdfPath | String | Jalur ke file pdf target. |
+| page1 | Halaman | Halaman pertama. |
+| page2 | Halaman | Halaman kedua. |
+| resultPdfPath | String | Jalur ke file PDF target. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Jika halaman yang dibandingkan memiliki ukuran yang berbeda. Jika resultPdfPath adalah null atau string kosong. |
+| ArgumentException | Jika halaman yang dibandingkan memiliki ukuran yang berbeda. Jika resultPdfPath bernilai null atau string kosong. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [GraphicalPdfComparer](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,9 +45,9 @@ public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page1 | Page | Halaman pertama. |
-| page2 | Page | Halaman kedua. |
-| pdfDocument | Document | Instansi dokumen pdf. |
+| page1 | Halaman | Halaman pertama. |
+| page2 | Halaman | Halaman kedua. |
+| pdfDocument | Document | Instansi dokumen PDF. |
 
 ### Pengecualian
 
@@ -57,8 +57,10 @@ public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [GraphicalPdfComparer](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

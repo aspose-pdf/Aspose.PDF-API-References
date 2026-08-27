@@ -1,14 +1,14 @@
 ---
-title: Page.TrySaveVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Mencoba untuk menyimpan grafik vektor jika ada di halaman. Format simpan adalah SVG
+title: "Page.TrySaveVectorGraphics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Mencoba menyimpan grafik vektor jika ada pada halaman. Format penyimpanan adalah SVG."
 type: docs
 weight: 550
 url: /id/net/aspose.pdf/page/trysavevectorgraphics/
 ---
-## Metode Page.TrySaveVectorGraphics
+## Page.TrySaveVectorGraphics method
 
-Mencoba untuk menyimpan grafik vektor jika ada di halaman. Format simpan adalah SVG.
+Mencoba menyimpan grafik vektor jika ada pada halaman. Format penyimpanan adalah SVG.
 
 ```csharp
 public bool TrySaveVectorGraphics(string pathToSave)
@@ -16,14 +16,16 @@ public bool TrySaveVectorGraphics(string pathToSave)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pathToSave | String | File keluaran |
+| pathToSave | String | File output |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika halaman mengandung operator konstruksi jalur; jika tidak, False.
+True jika halaman berisi operator konstruksi jalur; jika tidak, False.
 
 ### Lihat Juga
 
-* kelas [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

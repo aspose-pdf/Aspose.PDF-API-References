@@ -1,25 +1,27 @@
 ---
-title: FileSaveTarget.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileSaveTarget. Mendapatkan jalur ke file dari target simpan saat ini
+title: "FileSaveTarget.Path"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileSaveTarget properti. Mendapatkan jalur ke file target penyimpanan saat ini"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/filesavetarget/path/
 ---
-## Properti FileSaveTarget.Path
+## FileSaveTarget.Path property
 
-Mendapatkan jalur ke file dari target simpan saat ini.
+Mendapatkan jalur ke file dari target penyimpanan saat ini.
 
 ```csharp
 public string Path { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah string yang mewakili jalur ke file output.
+String yang mewakili jalur ke file output.
 
 ### Lihat Juga
 
-* kelas [FileSaveTarget](../)
+* class [FileSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfToImageOptions.PageList
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfToImageOptions. Mendapatkan atau mengatur daftar halaman untuk proses
+title: "PdfToImageOptions.PageList"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfToImageOptions. Mendapatkan atau mengatur daftar halaman untuk proses"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.plugins/pdftoimageoptions/pagelist/
 ---
-## Properti PdfToImageOptions.PageList
+## PdfToImageOptions.PageList property
 
 Mendapatkan atau mengatur daftar halaman untuk proses.
 
@@ -16,6 +16,8 @@ public List<int> PageList { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfToImageOptions](../)
+* class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

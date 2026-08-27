@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Mendapatkan atau mengatur halaman tujuan bookmark. Diperlukan jika aksi diatur sebagai string.Empty
+title: "Bookmark.Destination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Mendapatkan atau mengatur halaman tujuan bookmark. Diperlukan jika aksi diatur sebagai string.Empty."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/bookmark/destination/
 ---
-## Properti Bookmark.Destination
+## Bookmark.Destination property
 
 Mendapatkan atau mengatur halaman tujuan bookmark. Diperlukan jika aksi diatur sebagai string.Empty.
 
@@ -16,6 +16,8 @@ public string Destination { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

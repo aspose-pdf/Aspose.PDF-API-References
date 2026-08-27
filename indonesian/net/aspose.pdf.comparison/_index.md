@@ -1,23 +1,25 @@
 ---
-title: Aspose.Pdf.Comparison
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Comparison"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: 
 type: docs
 weight: 60
-url: /net/aspose.pdf.comparison/
+url: /id/net/aspose.pdf.comparison/
 ---
+
+
 ## Kelas
 
 | Kelas | Deskripsi |
 | --- | --- |
 | [ComparisonOptions](./comparisonoptions/) | Mewakili kelas opsi perbandingan dokumen PDF. |
-| [DiffOperation](./diffoperation/) | Mewakili kelas operasi perbedaan. |
+| [DiffOperation](./diffoperation/) | Mewakili kelas operasi diff. |
 | [DocumentComparisonStatistics](./documentcomparisonstatistics/) | Mewakili kelas statistik perbandingan dokumen. |
 | [GraphicalPdfComparer](./graphicalpdfcomparer/) | Mewakili kelas untuk membandingkan dokumen PDF secara grafis. Harus digunakan untuk mencari perubahan kecil, terutama yang bersifat grafis. Untuk membandingkan perubahan konten teks, gunakan kelas perbandingan PDF lainnya. |
-| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | Mewakili kelas untuk menghasilkan representasi html dari perbedaan teks. Baris yang dihapus ditunjukkan dengan tanda paragraf. |
-| [ImagesDifference](./imagesdifference/) | Mewakili kelas hasil dari membandingkan dua halaman PDF. |
+| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | Mewakili kelas untuk menghasilkan representasi html dari perbedaan teks. Pemutusan baris yang dihapus ditandai dengan tanda paragraf. |
+| [ImagesDifference](./imagesdifference/) | Mewakili kelas hasil perbandingan dua halaman PDF. |
 | [JsonDiffOutputGenerator](./jsondiffoutputgenerator/) | Mewakili kelas untuk menampilkan hasil perbandingan dokumen atau halaman PDF dalam format JSON. |
-| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/) | Mewakili kelas untuk menghasilkan representasi markdown dari perbedaan teks. Karena sintaks markdown, tidak mungkin untuk menunjukkan perubahan pada karakter spasi. Pemilihan perubahan membuat penambahan karakter spasi di sekitar format, jika tidak, penampil markdown tidak akan menampilkan teks dengan benar. Baris yang dihapus ditunjukkan dengan - tanda paragraf. |
+| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/) | Mewakili kelas untuk menghasilkan representasi markdown dari perbedaan teks. Karena sintaks markdown, tidak memungkinkan untuk menampilkan perubahan pada karakter spasi. Pemilihan perubahan menambahkan karakter spasi di sekitar pemformatan, jika tidak penampil markdown tidak akan menampilkan teks dengan benar. Pemutusan baris yang dihapus ditandai dengan - tanda paragraf. |
 | [OutputTextStyle](./outputtextstyle/) | Mewakili kelas set gaya untuk menandai perubahan teks. |
 | [PdfOutputGenerator](./pdfoutputgenerator/) | Mewakili kelas untuk menghasilkan representasi PDF dari perbedaan teks. |
 | [SideBySideComparisonOptions](./sidebysidecomparisonoptions/) | Mewakili kelas opsi untuk membandingkan dokumen dengan output berdampingan. |
@@ -36,5 +38,7 @@ url: /net/aspose.pdf.comparison/
 | Enumerasi | Deskripsi |
 | --- | --- |
 | [ComparisonMode](./comparisonmode/) | Enumerasi mode perbandingan. |
-| [EditOperationsOrder](./editoperationsorder/) | Menentukan urutan operasi edit. |
-| [Operation](./operation/) | Mewakili jenis operasi perbedaan. |
+| [EditOperationsOrder](./editoperationsorder/) | Menentukan urutan operasi penyuntingan. |
+| [Operation](./operation/) | Mewakili tipe operasi perbedaan. |
+
+

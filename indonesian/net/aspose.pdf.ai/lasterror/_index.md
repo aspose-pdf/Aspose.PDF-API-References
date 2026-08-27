@@ -1,14 +1,14 @@
 ---
-title: Class LastError
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.LastError. Kesalahan terakhir yang terkait dengan jalankan ini. Akan bernilai null jika tidak ada kesalahan
+title: "Kelas LastError"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.AI.LastError kelas. Kesalahan terakhir yang terkait dengan proses ini. Akan bernilai null jika tidak ada kesalahan"
 type: docs
-weight: 660
+weight: 710
 url: /id/net/aspose.pdf.ai/lasterror/
 ---
-## Kelas LastError
+## LastError class
 
-Kesalahan terakhir yang terkait dengan jalankan ini. Akan bernilai null jika tidak ada kesalahan.
+Kesalahan terakhir yang terkait dengan proses ini. Akan bernilai null jika tidak ada kesalahan.
 
 ```csharp
 public class LastError
@@ -24,10 +24,12 @@ public class LastError
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Code](../../aspose.pdf.ai/lasterror/code/) { get; set; } | Mendapatkan atau menetapkan salah satu dari server_error, rate_limit_exceeded, atau invalid_prompt. |
-| [Message](../../aspose.pdf.ai/lasterror/message/) { get; set; } | Mendapatkan atau menetapkan deskripsi yang dapat dibaca manusia tentang kesalahan. |
+| [Code](../../aspose.pdf.ai/lasterror/code/) { get; set; } | Mendapatkan atau mengatur salah satu dari server_error, rate_limit_exceeded, atau invalid_prompt. |
+| [Message](../../aspose.pdf.ai/lasterror/message/) { get; set; } | Mendapatkan atau mengatur deskripsi yang dapat dibaca manusia untuk kesalahan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.HtmlImageType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlSaveOptionsHtmlImageType Aspose.Pdf. mengenumerasi jenis file gambar yang mungkin disimpan sebagai sumber eksternal selama konversi Pdf ke Html
+title: "Enum HtmlSaveOptions.HtmlImageType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.HtmlSaveOptionsHtmlImageType. Mendaftar jenis-jenis file gambar yang dapat disimpan sebagai sumber eksternal selama konversi Pdf ke Html"
 type: docs
-weight: 5650
+weight: 5780
 url: /id/net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 ---
-## Enumerasi HtmlSaveOptions.HtmlImageType
+## HtmlSaveOptions.HtmlImageType enumeration
 
-mengenumerasi jenis file gambar yang mungkin disimpan sebagai sumber eksternal selama konversi Pdf ke Html
+Mendaftar jenis-jenis file gambar yang dapat disimpan sebagai sumber eksternal selama konversi Pdf ke Html
 
 ```csharp
 public enum HtmlImageType
@@ -24,11 +24,13 @@ public enum HtmlImageType
 | Gif | `3` | Format Gif |
 | Tiff | `4` | Format Tiff |
 | Svg | `5` | Format Svg |
-| ZippedSvg | `6` | Format Svg yang terkompresi |
-| Unknown | `7` | Tidak diketahui - berarti bahwa konverter tidak dapat mendeteksi jenis konten itu sendiri |
+| ZippedSvg | `6` | Format Svg Terkompresi |
+| Unknown | `7` | Tidak diketahui - berarti konverter tidak dapat mendeteksi jenis konten secara otomatis |
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../htmlsaveoptions/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

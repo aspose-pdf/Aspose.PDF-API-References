@@ -1,12 +1,12 @@
 ---
-title: Rows.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rows. Mendapatkan enumerator koleksi
+title: "Rows.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rows. Mendapatkan enumerator koleksi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/rows/getenumerator/
 ---
-## Metode Rows.GetEnumerator
+## Rows.GetEnumerator method
 
 Mendapatkan enumerator koleksi
 
@@ -14,13 +14,15 @@ Mendapatkan enumerator koleksi
 public IEnumerator<Row> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek enumerator.
 
 ### Lihat Juga
 
-* kelas [Row](../../row/)
-* kelas [Rows](../)
+* class [Row](../../row/)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

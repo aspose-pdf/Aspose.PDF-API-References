@@ -1,14 +1,14 @@
 ---
-title: Enum ExtractImageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ExtractImageMode. Mendefinisikan berbagai mode yang dapat digunakan saat mengekstrak gambar dari dokumen
+title: "Enum ExtractImageMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.ExtractImageMode enum. Mendefinisikan mode berbeda yang dapat digunakan saat mengekstrak gambar dari dokumen"
 type: docs
-weight: 4130
+weight: 4250
 url: /id/net/aspose.pdf/extractimagemode/
 ---
-## Enumerasi ExtractImageMode
+## ExtractImageMode enumeration
 
-Mendefinisikan berbagai mode yang dapat digunakan saat mengekstrak gambar dari dokumen.
+Mendefinisikan mode berbeda yang dapat digunakan saat mengekstrak gambar dari dokumen.
 
 ```csharp
 public enum ExtractImageMode
@@ -18,10 +18,12 @@ public enum ExtractImageMode
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| DefinedInResources | `0` | Mendefinisikan mode ekstraksi gambar di mana semua gambar yang didefinisikan dalam sumber untuk halaman tertentu diekstrak. |
-| ActuallyUsed | `1` | Mendefinisikan mode ekstraksi gambar di mana hanya gambar yang sebenarnya ditampilkan di halaman yang diekstrak. |
+| DefinedInResources | `0` | Mendefinisikan mode ekstraksi gambar di mana semua gambar yang didefinisikan dalam sumber daya untuk halaman tertentu diekstrak. |
+| ActuallyUsed | `1` | Mendefinisikan mode ekstraksi gambar di mana hanya gambar-gambar yang sebenarnya ditampilkan pada halaman yang diekstrak. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

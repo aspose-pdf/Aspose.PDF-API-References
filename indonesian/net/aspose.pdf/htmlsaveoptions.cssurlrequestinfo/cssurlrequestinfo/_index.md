@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.CssUrlRequestInfo.CssUrlRequestInfo
-second_title: Aspose.PDF for .NET API Reference
-description: CssUrlRequestInfo constructor. The default constructor
+title: "HtmlSaveOptions.CssUrlRequestInfo.CssUrlRequestInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CssUrlRequestInfo constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/cssurlrequestinfo/
 ---
-## Konstruktor HtmlSaveOptions.CssUrlRequestInfo
+## HtmlSaveOptions.CssUrlRequestInfo constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public CssUrlRequestInfo()
 
 ### Lihat Juga
 
-* kelas [CssUrlRequestInfo](../)
+* class [CssUrlRequestInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

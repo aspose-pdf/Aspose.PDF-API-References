@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.IsNoBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableCellElement. Mengambil atau mengatur sel memiliki batas
+title: "TableCellElement.IsNoBorder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableCellElement properti. Mendapatkan atau mengatur apakah sel memiliki batas"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.logicalstructure/tablecellelement/isnoborder/
 ---
-## Properti TableCellElement.IsNoBorder
+## TableCellElement.IsNoBorder property
 
-Mengambil atau mengatur sel memiliki batas.
+Mendapatkan atau mengatur apakah sel memiliki batas.
 
 ```csharp
 public bool IsNoBorder { get; set; }
@@ -16,6 +16,8 @@ public bool IsNoBorder { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableCellElement](../)
+* class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

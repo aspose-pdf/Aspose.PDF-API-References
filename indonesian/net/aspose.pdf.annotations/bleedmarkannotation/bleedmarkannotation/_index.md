@@ -1,14 +1,14 @@
 ---
-title: BleedMarkAnnotation.BleedMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BleedMarkAnnotation. Menginisialisasi instance baru dari kelas BleedMarkAnnotation
+title: "BleedMarkAnnotation.BleedMarkAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor BleedMarkAnnotation. Menginisialisasi instance baru dari kelas BleedMarkAnnotation"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 ---
-## Konstruktor BleedMarkAnnotation
+## BleedMarkAnnotation constructor
 
-Menginisialisasi instance baru dari kelas [`BleedMarkAnnotation`](../).
+Menginisialisasi sebuah instance baru dari kelas [`BleedMarkAnnotation`](../).
 
 ```csharp
 public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
@@ -16,8 +16,8 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat anotasi akan ditambahkan. |
-| position | PrinterMarkCornerPosition | Posisi tanda bleed di halaman. |
+| halaman | Halaman | Halaman tempat anotasi akan ditambahkan. |
+| posisi | PrinterMarkCornerPosition | Posisi tanda bleed pada halaman. |
 
 ## Catatan
 
@@ -25,8 +25,10 @@ Konstruktor ini membuat sebuah BleedMarkAnnotation dan menambahkannya ke halaman
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* kelas [BleedMarkAnnotation](../)
+* class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

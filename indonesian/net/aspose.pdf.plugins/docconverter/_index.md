@@ -1,12 +1,12 @@
 ---
-title: Class DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.DocConverter. Mewakili plugin DocConverter
+title: "Kelas DocConverter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.DocConverter. Mewakili plugin DocConverter"
 type: docs
-weight: 8530
+weight: 8660
 url: /id/net/aspose.pdf.plugins/docconverter/
 ---
-## Kelas DocConverter
+## DocConverter class
 
 Mewakili plugin `DocConverter`.
 
@@ -24,11 +24,13 @@ public sealed class DocConverter : IDisposable, IPlugin
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/docconverter/dispose/)() | Implementasi dari IDisposable. |
+| [Dispose](../../aspose.pdf.plugins/docconverter/dispose/)() | Implementasi IDisposable. |
 | [Process](../../aspose.pdf.plugins/docconverter/process/)(IPluginOptions) | Memulai pemrosesan `DocConverter` dengan parameter yang ditentukan. |
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

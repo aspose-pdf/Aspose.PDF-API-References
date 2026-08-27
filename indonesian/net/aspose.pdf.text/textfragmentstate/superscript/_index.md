@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentState. Mengambil atau mengatur superskrip dari teks yang diwakili oleh objek TextFragment
+title: "TextFragmentState.Superscript"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentState. Mendapatkan atau mengatur superskrip teks yang direpresentasikan oleh objek TextFragment"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.text/textfragmentstate/superscript/
 ---
-## Properti TextFragmentState.Superscript
+## TextFragmentState.Superscript property
 
-Mengambil atau mengatur superskrip dari teks, yang diwakili oleh objek [`TextFragment`](../../textfragment/).
+Mendapatkan atau mengatur superskrip teks, yang direpresentasikan oleh objek [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override bool Superscript { get; set; }
@@ -16,6 +16,8 @@ public override bool Superscript { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

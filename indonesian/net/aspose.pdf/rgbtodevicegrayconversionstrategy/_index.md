@@ -1,12 +1,12 @@
 ---
-title: Class RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.RgbToDeviceGrayConversionStrategy. Mewakili strategi konversi ruang warna rgb ke abu-abu perangkat
+title: "Kelas RgbToDeviceGrayConversionStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.RgbToDeviceGrayConversionStrategy. Mewakili strategi konversi ruang warna rgb ke device gray"
 type: docs
-weight: 9800
+weight: 9950
 url: /id/net/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
-## Kelas RgbToDeviceGrayConversionStrategy
+## RgbToDeviceGrayConversionStrategy class
 
 Mewakili strategi konversi ruang warna rgb ke abu-abu perangkat.
 
@@ -28,6 +28,8 @@ public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 
 ### Lihat Juga
 
-* antarmuka [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

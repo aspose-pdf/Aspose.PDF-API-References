@@ -1,7 +1,7 @@
 ---
-title: PopupAnnotation.PopupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PopupAnnotation. Konstruktor. untuk digunakan dalam Generator
+title: "PopupAnnotation.PopupAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PopupAnnotation. Konstruktor. untuk digunakan dalam Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/popupannotation/popupannotation/
@@ -37,8 +37,8 @@ public PopupAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, mendefinisikan lokasi anotasi di halaman. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
 
 ### Lihat Juga
 
@@ -47,3 +47,5 @@ public PopupAnnotation(Page page, Rectangle rect)
 * class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

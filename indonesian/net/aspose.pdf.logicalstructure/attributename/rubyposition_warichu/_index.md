@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyPosition_Warichu
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Atribut RubyPosition Warichu Elemen RT dan RP yang terkait harus diformat sebagai warichu mengikuti elemen RB
+title: "AttributeName.RubyPosition_Warichu"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut RubyPosition Warichu  Elemen RT dan RP terkait harus diformat sebagai warichu mengikuti elemen RB"
 type: docs
 weight: 510
 url: /id/net/aspose.pdf.logicalstructure/attributename/rubyposition_warichu/
 ---
-## Field AttributeName.RubyPosition_Warichu
+## AttributeName.RubyPosition_Warichu field
 
-Atribut RubyPosition: Warichu - Elemen RT dan RP yang terkait harus diformat sebagai warichu, mengikuti elemen RB.
+Atribut RubyPosition: Warichu - Elemen RT dan RP terkait harus diformat sebagai warichu, mengikuti elemen RB.
 
 ```csharp
 public static readonly AttributeName RubyPosition_Warichu;
@@ -16,6 +16,8 @@ public static readonly AttributeName RubyPosition_Warichu;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

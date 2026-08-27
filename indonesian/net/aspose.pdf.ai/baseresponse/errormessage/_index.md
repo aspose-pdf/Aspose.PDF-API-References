@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.ErrorMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseResponse. Mendapatkan atau mengatur informasi kesalahan
+title: "BaseResponse.ErrorMessage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BaseResponse. Mendapatkan atau mengatur informasi kesalahan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/baseresponse/errormessage/
 ---
-## Properti BaseResponse.ErrorMessage
+## BaseResponse.ErrorMessage property
 
 Mendapatkan atau mengatur informasi kesalahan.
 
@@ -16,6 +16,8 @@ public string ErrorMessage { get; }
 
 ### Lihat Juga
 
-* kelas [BaseResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

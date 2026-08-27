@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetCharWidthBoundingBox. Perpindahan horizontal glif
+title: "SetCharWidthBoundingBox.Wx"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetCharWidthBoundingBox. Displacement horizontal dari glyph"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.operators/setcharwidthboundingbox/wx/
 ---
-## Properti SetCharWidthBoundingBox.Wx
+## SetCharWidthBoundingBox.Wx property
 
-Perpindahan horizontal glif.
+Displacement horizontal dari glyph.
 
 ```csharp
 public double Wx { get; }
@@ -16,6 +16,8 @@ public double Wx { get; }
 
 ### Lihat Juga
 
-* kelas [SetCharWidthBoundingBox](../)
+* class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

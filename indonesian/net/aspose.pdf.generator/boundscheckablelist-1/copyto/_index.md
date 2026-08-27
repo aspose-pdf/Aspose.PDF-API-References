@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BoundsCheckableList.
+title: "BoundsCheckableList1.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BoundsCheckableList."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.generator/boundscheckablelist-1/copyto/
 ---
-## Metode BoundsCheckableList&lt;T&gt;.CopyTo
+## BoundsCheckableList&lt;T&gt;.CopyTo method
 
 ```csharp
 public void CopyTo(T[] array, int arrayIndex)
@@ -14,6 +14,8 @@ public void CopyTo(T[] array, int arrayIndex)
 
 ### Lihat Juga
 
-* kelas [BoundsCheckableList&lt;T&gt;](../)
-* ruang nama [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

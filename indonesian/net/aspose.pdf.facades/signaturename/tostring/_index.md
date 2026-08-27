@@ -1,25 +1,27 @@
 ---
-title: SignatureName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SignatureName. Mengembalikan representasi string dari instance SignatureName terutama menggunakan namanya
+title: "SignatureName.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SignatureName. Mengembalikan representasi string dari instance SignatureName terutama menggunakan namanya"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/signaturename/tostring/
 ---
-## Metode SignatureName.ToString
+## SignatureName.ToString method
 
-Mengembalikan representasi string dari [`SignatureName`](..//) instance, terutama menggunakan namanya.
+Mengembalikan representasi string dari instance [`SignatureName`](../), terutama menggunakan namanya.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah string yang mewakili nama tanda tangan.
+String yang mewakili nama tanda tangan.
 
 ### Lihat Juga
 
-* kelas [SignatureName](../)
+* class [SignatureName](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

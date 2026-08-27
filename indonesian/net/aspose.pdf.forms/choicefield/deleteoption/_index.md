@@ -1,12 +1,12 @@
 ---
-title: ChoiceField.DeleteOption
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ChoiceField. Menghapus opsi berdasarkan namanya
+title: "ChoiceField.DeleteOption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ChoiceField. Menghapus opsi berdasarkan namanya"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.forms/choicefield/deleteoption/
 ---
-## Metode ChoiceField.DeleteOption
+## ChoiceField.DeleteOption method
 
 Menghapus opsi berdasarkan namanya.
 
@@ -20,6 +20,8 @@ public virtual void DeleteOption(string optionName)
 
 ### Lihat Juga
 
-* kelas [ChoiceField](../)
+* class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

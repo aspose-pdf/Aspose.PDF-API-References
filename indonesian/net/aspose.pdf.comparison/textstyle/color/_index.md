@@ -1,12 +1,12 @@
 ---
-title: TextStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStyle. Mendapatkan dan mengatur warna teks
+title: "TextStyle.Color"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStyle. Mendapatkan dan mengatur warna teks"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.comparison/textstyle/color/
 ---
-## Properti TextStyle.Color
+## TextStyle.Color property
 
 Mendapatkan dan mengatur warna teks.
 
@@ -16,7 +16,9 @@ public Color Color { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [TextStyle](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

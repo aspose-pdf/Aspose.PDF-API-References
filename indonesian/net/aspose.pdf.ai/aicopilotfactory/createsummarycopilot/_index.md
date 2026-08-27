@@ -1,12 +1,12 @@
 ---
-title: AICopilotFactory.CreateSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AICopilotFactory. Membuat copilot ringkasan berdasarkan klien dan opsi
+title: "AICopilotFactory.CreateSummaryCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AICopilotFactory. Membuat copilot ringkasan berdasarkan klien dan opsi"
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.pdf.ai/aicopilotfactory/createsummarycopilot/
 ---
-## Metode AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt;
+## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; method
 
 Membuat copilot ringkasan berdasarkan klien dan opsi.
 
@@ -17,9 +17,11 @@ public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOpt
 
 ### Lihat Juga
 
-* antarmuka [ISummaryCopilot](../../isummarycopilot/)
-* antarmuka [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
-* antarmuka [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* kelas [AICopilotFactory](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

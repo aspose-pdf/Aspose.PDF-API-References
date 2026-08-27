@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ObjectType.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ObjectType. Konstruktor default
+title: "ToolChoice.ObjectType.ObjectType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ObjectType konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/toolchoice.objecttype/objecttype/
 ---
-## Konstruktor ToolChoice.ObjectType
+## ToolChoice.ObjectType constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ObjectType()
 
 ### Lihat Juga
 
-* kelas [ObjectType](../)
+* class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

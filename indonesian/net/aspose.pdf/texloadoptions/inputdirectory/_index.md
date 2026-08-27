@@ -1,12 +1,12 @@
 ---
-title: TeXLoadOptions.InputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TeXLoadOptions. Mendapatkan/mengatur direktori input TeX
+title: "TeXLoadOptions.InputDirectory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TeXLoadOptions. Mendapatkan/mengatur direktori input TeX"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/texloadoptions/inputdirectory/
 ---
-## Properti TeXLoadOptions.InputDirectory
+## TeXLoadOptions.InputDirectory property
 
 Mendapatkan/mengatur direktori input TeX.
 
@@ -16,7 +16,9 @@ public ITeXInputDirectory InputDirectory { get; set; }
 
 ### Lihat Juga
 
-* antarmuka [ITeXInputDirectory](../../itexinputdirectory/)
-* kelas [TeXLoadOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [ITeXInputDirectory](../../itexinputdirectory/)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: SetTextMatrix.SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetTextMatrix. Menginisialisasi operator
+title: "SetTextMatrix.SetTextMatrix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetTextMatrix. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/settextmatrix/settextmatrix/
@@ -25,7 +25,7 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 
 ### Lihat Juga
 
-* kelas [SetTextMatrix](../)
+* class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,7 +45,9 @@ public SetTextMatrix(Matrix m)
 
 ### Lihat Juga
 
-* kelas [Matrix](../../../aspose.pdf/matrix/)
-* kelas [SetTextMatrix](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

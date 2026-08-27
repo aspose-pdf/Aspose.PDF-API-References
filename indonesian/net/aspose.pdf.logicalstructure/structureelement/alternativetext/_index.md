@@ -1,12 +1,12 @@
 ---
-title: StructureElement.AlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureElement. Mendapatkan atau mengatur teks alternatif untuk elemen struktur
+title: "StructureElement.AlternativeText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureElement. Mendapatkan atau menetapkan teks alternatif untuk elemen struktur"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/structureelement/alternativetext/
 ---
-## Properti StructureElement.AlternativeText
+## StructureElement.AlternativeText property
 
 Mendapatkan atau mengatur teks alternatif untuk elemen struktur.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur teks alternatif untuk elemen struktur.
 public string AlternativeText { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Teks alternatif dari elemen struktur.
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

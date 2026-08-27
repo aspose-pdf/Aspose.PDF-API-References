@@ -1,14 +1,14 @@
 ---
-title: TeXMemoryOutputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXMemoryOutputDirectory. Mengembalikan stream untuk dibaca dari
+title: "TeXMemoryOutputDirectory.GetFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TeXMemoryOutputDirectory. Mengembalikan aliran untuk dibaca."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/texmemoryoutputdirectory/getfile/
 ---
-## Metode TeXMemoryOutputDirectory.GetFile
+## TeXMemoryOutputDirectory.GetFile method
 
-Mengembalikan stream untuk dibaca dari.
+Mengembalikan aliran untuk dibaca.
 
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
@@ -18,14 +18,16 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | --- | --- | --- |
 | fileName | String | Nama file. |
 | fullName | String& | Nama file lengkap. |
-| searchSubdirectories | Boolean | Menunjukkan apakah akan mencari file di subdirektori. Dalam implementasi ini tidak berpengaruh. |
+| searchSubdirectories | Boolean | Menunjukkan apakah mencari file di subdirektori. Pada implementasi ini tidak berpengaruh. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Stream.
+Aliran.
 
 ### Lihat Juga
 
-* kelas [TeXMemoryOutputDirectory](../)
+* class [TeXMemoryOutputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

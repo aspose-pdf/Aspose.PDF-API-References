@@ -1,12 +1,12 @@
 ---
-title: Class Position
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.Position. Mewakili objek posisi
+title: "Kelas Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.Position. Mewakili objek posisi"
 type: docs
-weight: 10690
+weight: 10870
 url: /id/net/aspose.pdf.text/position/
 ---
-## Kelas Posisi
+## Position class
 
 Mewakili objek posisi
 
@@ -38,3 +38,5 @@ public sealed class Position
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

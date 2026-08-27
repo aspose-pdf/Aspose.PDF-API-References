@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Mengatur token prompt maksimum untuk opsi copilot chat
+title: "OpenAIChatCopilotOptions.WithMaxPromptTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilotOptions. Menetapkan token prompt maksimum untuk opsi copilot obrolan"
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxprompttokens/
 ---
-## Metode OpenAIChatCopilotOptions.WithMaxPromptTokens
+## OpenAIChatCopilotOptions.WithMaxPromptTokens method
 
-Mengatur token prompt maksimum untuk opsi copilot chat.
+Mengatur token prompt maksimum untuk opsi copilot obrolan.
 
 ```csharp
 public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | Token prompt maksimum yang akan diatur. |
+| maxPromptTokens | Nullable`1 | Token prompt maksimum yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

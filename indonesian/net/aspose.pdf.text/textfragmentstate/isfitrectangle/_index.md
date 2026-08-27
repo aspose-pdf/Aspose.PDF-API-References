@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.IsFitRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentState. Memeriksa apakah string masukan dapat ditempatkan di dalam persegi panjang yang ditentukan
+title: "TextFragmentState.IsFitRectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentState. Memeriksa apakah string input dapat ditempatkan di dalam persegi panjang yang didefinisikan."
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.text/textfragmentstate/isfitrectangle/
 ---
-## Metode TextFragmentState.IsFitRectangle
+## TextFragmentState.IsFitRectangle method
 
-Memeriksa apakah string masukan dapat ditempatkan di dalam persegi panjang yang ditentukan.
+Memeriksa apakah string input dapat ditempatkan di dalam persegi panjang yang didefinisikan.
 
 ```csharp
 public bool IsFitRectangle(string str, Rectangle rect)
@@ -16,16 +16,18 @@ public bool IsFitRectangle(string str, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| str | String | String yang akan diperiksa. |
-| rect | Rectangle | Persegi panjang yang akan diperiksa. |
+| str | String | String untuk diperiksa. |
+| rect | Rectangle | Persegi panjang untuk diperiksa. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika string sesuai dengan persegi panjang; jika tidak, false.
+True jika string cocok dengan persegi panjang; jika tidak false.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [TextFragmentState](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

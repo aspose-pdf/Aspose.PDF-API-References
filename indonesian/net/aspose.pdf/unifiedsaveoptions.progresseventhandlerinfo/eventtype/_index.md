@@ -1,7 +1,7 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.EventType
-second_title: Aspose.PDF for .NET API Reference
-description: Field ProgressEventHandlerInfo. Jenis peristiwa kemajuan yang terjadi
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.EventType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang ProgressEventHandlerInfo. Jenis peristiwa kemajuan yang terjadi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype/
@@ -20,3 +20,5 @@ public ProgressEventType EventType;
 * class [ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

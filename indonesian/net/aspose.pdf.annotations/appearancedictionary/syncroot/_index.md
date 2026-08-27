@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AppearanceDictionary. Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke kamus
+title: "AppearanceDictionary.SyncRoot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AppearanceDictionary. Mengambil objek yang dapat digunakan untuk menyinkronkan akses ke kamus"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/appearancedictionary/syncroot/
 ---
-## Properti AppearanceDictionary.SyncRoot
+## AppearanceDictionary.SyncRoot property
 
 Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke kamus.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### Lihat Juga
 
-* kelas [AppearanceDictionary](../)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

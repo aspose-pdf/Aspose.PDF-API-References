@@ -1,12 +1,12 @@
 ---
-title: Class PdfJavaScriptStripper
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfJavaScriptStripper. Kelas untuk menghapus semua kode Java Script
+title: "Kelas PdfJavaScriptStripper"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.PdfJavaScriptStripper. Kelas untuk menghapus semua kode Java Script."
 type: docs
-weight: 4580
+weight: 4700
 url: /id/net/aspose.pdf.facades/pdfjavascriptstripper/
 ---
-## Kelas PdfJavaScriptStripper
+## PdfJavaScriptStripper class
 
 Kelas untuk menghapus semua kode Java Script.
 
@@ -24,10 +24,12 @@ public sealed class PdfJavaScriptStripper
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip)(Stream, Stream) | Menghapus Java Script dari dokumen. |
-| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip_1)(string, string) | Menghapus Java Script dari dokumen. |
+| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip)(Stream, Stream) | Hapus Java Script dari dokumen. |
+| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip_1)(string, string) | Hapus Java Script dari dokumen. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

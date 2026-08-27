@@ -1,12 +1,12 @@
 ---
-title: Color.DarkSeaGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF8FBC8F
+title: "Color.DarkSeaGreen"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FF8FBC8F"
 type: docs
 weight: 350
 url: /id/net/aspose.pdf/color/darkseagreen/
 ---
-## Properti Color.DarkSeaGreen
+## Color.DarkSeaGreen property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF8FBC8F.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF8FBC8F.
 public static Color DarkSeaGreen { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PDF3DLightingScheme.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DLightingScheme. Mendapatkan jenis skema pencahayaan
+title: "PDF3DLightingScheme.Type"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DLightingScheme. Mendapatkan tipe skema pencahayaan"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
-## Properti PDF3DLightingScheme.Type
+## PDF3DLightingScheme.Type property
 
-Mendapatkan jenis skema pencahayaan.
+Mendapatkan tipe skema pencahayaan.
 
 ```csharp
 public LightingSchemeType Type { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Jenis skema pencahayaan.
+Tipe skema pencahayaan.
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Jenis skema pencahayaan.
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

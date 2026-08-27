@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RadioButtonField. Gaya kotak field
+title: "RadioButtonField.Style"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RadioButtonField. Gaya kotak bidang."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/radiobuttonfield/style/
 ---
-## Properti RadioButtonField.Style
+## RadioButtonField.Style property
 
-Gaya kotak field.
+Gaya kotak bidang.
 
 ```csharp
 public BoxStyle Style { get; set; }
@@ -20,3 +20,5 @@ public BoxStyle Style { get; set; }
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

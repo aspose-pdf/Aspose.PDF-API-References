@@ -1,12 +1,12 @@
 ---
-title: BasicSetColorOperator.G
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BasicSetColorOperator. Mendapatkan komponen hijau dari warna
+title: "BasicSetColorOperator.G"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BasicSetColorOperator. Mendapatkan komponen hijau dari warna"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.operators/basicsetcoloroperator/g/
 ---
-## Properti BasicSetColorOperator.G
+## BasicSetColorOperator.G property
 
 Mendapatkan komponen hijau dari warna
 
@@ -16,6 +16,8 @@ public double G { get; }
 
 ### Lihat Juga
 
-* kelas [BasicSetColorOperator](../)
+* class [BasicSetColorOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

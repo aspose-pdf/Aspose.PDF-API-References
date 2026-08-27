@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PdfFileStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfFileStamp. Konstruktor dari PdfFileStamp. File input dan file output dapat ditentukan melalui properti yang sesuai
+title: "PdfFileStamp.PdfFileStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileStamp constructor. Konstruktor dari PdfFileStamp. File input dan file output dapat ditentukan melalui properti yang sesuai"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/
 ---
 ## PdfFileStamp() {#constructor}
 
-Konstruktor dari PdfFileStamp. File input dan file output dapat ditentukan melalui properti yang sesuai.
+Konstruktor PdfFileStamp. File input dan file output dapat ditentukan melalui properti yang sesuai.
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp();
@@ -22,7 +22,7 @@ public PdfFileStamp()
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,11 +38,13 @@ public PdfFileStamp(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dokumen | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfFileStamp](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

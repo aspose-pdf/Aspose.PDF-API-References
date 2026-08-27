@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageDevice. Mendapatkan atau mengatur mode presentasi formulir
+title: "ImageDevice.FormPresentationMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageDevice. Mendapatkan atau mengatur mode presentasi formulir"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.devices/imagedevice/formpresentationmode/
 ---
-## Properti ImageDevice.FormPresentationMode
+## ImageDevice.FormPresentationMode property
 
 Mendapatkan atau mengatur mode presentasi formulir.
 
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

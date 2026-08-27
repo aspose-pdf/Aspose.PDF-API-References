@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AssistantResponse. Mengambil atau menetapkan deskripsi asisten. Panjang maksimum adalah 512 karakter
+title: "AssistantResponse.Description"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AssistantResponse properti. Mendapatkan atau mengatur deskripsi asisten. Panjang maksimum adalah 512 karakter."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/assistantresponse/description/
 ---
-## Properti AssistantResponse.Deskripsi
+## AssistantResponse.Description property
 
-Mengambil atau menetapkan deskripsi asisten. Panjang maksimum adalah 512 karakter.
+Mendapatkan atau mengatur deskripsi asisten. Panjang maksimum adalah 512 karakter.
 
 ```csharp
 public string Description { get; set; }
@@ -16,6 +16,8 @@ public string Description { get; set; }
 
 ### Lihat Juga
 
-* kelas [AssistantResponse](../)
+* class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

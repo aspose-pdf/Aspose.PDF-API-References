@@ -1,14 +1,14 @@
 ---
-title: Bookmark.BoldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Mengambil atau mengatur bendera tebal dari judul bookmark
+title: "Bookmark.BoldFlag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Mendapatkan atau mengatur flag tebal judul bookmark"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/bookmark/boldflag/
 ---
-## Properti Bookmark.BoldFlag
+## Bookmark.BoldFlag property
 
-Mengambil atau mengatur bendera tebal dari judul bookmark.
+Mendapatkan atau mengatur flag tebal pada judul bookmark.
 
 ```csharp
 public bool BoldFlag { get; set; }
@@ -16,6 +16,8 @@ public bool BoldFlag { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

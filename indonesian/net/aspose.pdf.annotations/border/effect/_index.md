@@ -1,14 +1,14 @@
 ---
-title: Border.Effect
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Border. Mengambil atau mengatur efek border
+title: "Border.Effect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Border. Mendapatkan atau mengatur efek border"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/border/effect/
 ---
-## Properti Border.Effect
+## Border.Effect property
 
-Mengambil atau mengatur efek border.
+Mendapatkan atau mengatur efek border.
 
 ```csharp
 public BorderEffect Effect { get; set; }
@@ -20,3 +20,5 @@ public BorderEffect Effect { get; set; }
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

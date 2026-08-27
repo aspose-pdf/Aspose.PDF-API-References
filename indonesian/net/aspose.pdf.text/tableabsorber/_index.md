@@ -1,14 +1,14 @@
 ---
-title: Class TableAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.TableAbsorber. Mewakili objek penyerap elemen tabel. Melakukan pencarian dan menyediakan akses ke hasil pencarian melalui koleksi TableList
+title: "Kelas TableAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.TableAbsorber class. Mewakili objek penyerap elemen tabel. Melakukan pencarian dan menyediakan akses ke hasil pencarian melalui koleksi TableList."
 type: docs
-weight: 10790
+weight: 10970
 url: /id/net/aspose.pdf.text/tableabsorber/
 ---
-## Kelas TableAbsorber
+## TableAbsorber class
 
-Mewakili objek penyerap elemen tabel. Melakukan pencarian dan menyediakan akses ke hasil pencarian melalui koleksi [`TableList`](./tablelist/).
+Mewakili objek absorber elemen tabel. Melakukan pencarian dan menyediakan akses ke hasil pencarian melalui koleksi [`TableList`](./tablelist/).
 
 ```csharp
 public class TableAbsorber
@@ -25,40 +25,40 @@ public class TableAbsorber
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist/) { get; } | Mengembalikan IList yang hanya baca yang berisi tabel yang ditemukan |
+| virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist/) { get; } | Mengembalikan IList read‑only yang berisi tabel yang ditemukan |
 | virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions/) { get; set; } | Mendapatkan atau mengatur opsi pencarian teks. |
-| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine/) { get; set; } | * Mengaktifkan mesin pengenalan tabel alternatif yang lebih unggul dalam banyak skenario dan mampu mengenali tabel tanpa batas. Belum mendukung pengeditan tabel dan mendapatkan gaya teks. Nilai default adalah false; |
+| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine/) { get; set; } | * Aktifkan mesin pengenalan tabel alternatif yang lebih unggul dalam banyak skenario dan mampu mengenali tabel tanpa batas. Belum mendukung penyuntingan tabel dan mendapatkan gaya teks. Nilai default adalah false; |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Remove](../../aspose.pdf.text/tableabsorber/remove/)(AbsorbedTable) | Menghapus [`AbsorbedTable`](../absorbedtable/) dari halaman. |
-| [Replace](../../aspose.pdf.text/tableabsorber/replace/)(Page, AbsorbedTable, Table) | Mengganti [`AbsorbedTable`](../absorbedtable/) dengan [`Table`](../../aspose.pdf/table/) di halaman. |
-| [Visit](../../aspose.pdf.text/tableabsorber/visit/#visit)(Document) | Mengekstrak tabel di dokumen yang ditentukan. |
-| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit/#visit_1)(Page) | Mengekstrak tabel di halaman yang ditentukan |
+| [Remove](../../aspose.pdf.text/tableabsorber/remove/)(AbsorbedTable) | Menghapus sebuah [`AbsorbedTable`](../absorbedtable/) dari halaman. |
+| [Replace](../../aspose.pdf.text/tableabsorber/replace/)(Page, AbsorbedTable, Table) | Mengganti sebuah [`AbsorbedTable`](../absorbedtable/) dengan [`Table`](../../aspose.pdf/table/) pada halaman. |
+| [Visit](../../aspose.pdf.text/tableabsorber/visit/#visit)(Document) | Mengekstrak tabel dalam dokumen yang ditentukan. |
+| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit/#visit_1)(Page) | Mengekstrak tabel pada halaman yang ditentukan |
 
 ## Contoh
 
-Contoh ini menunjukkan cara menemukan tabel di halaman pertama dokumen PDF dan mengganti teks dalam sel tabel.
+Contoh ini menunjukkan cara menemukan tabel pada halaman pertama dokumen PDF dan mengganti teks dalam sel tabel.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// Buat objek TableAbsorber untuk menemukan tabel
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// Kunjungi halaman pertama dengan absorber
 absorber.Visit(pdfDocument.Pages[1]);
 
-// Get access to first table on page, their first cell and text fragments in it
+// Dapatkan akses ke tabel pertama pada halaman, sel pertama mereka, dan fragmen teks di dalamnya
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// Ubah teks fragmen teks pertama dalam sel
 fragment.Text = "hi world";
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
@@ -66,3 +66,5 @@ doc.Save(@"D:\Tests\output.pdf");
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

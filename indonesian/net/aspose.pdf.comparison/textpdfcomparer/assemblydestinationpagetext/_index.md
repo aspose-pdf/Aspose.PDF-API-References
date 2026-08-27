@@ -1,12 +1,12 @@
 ---
-title: TextPdfComparer.AssemblyDestinationPageText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextPdfComparer. Mengembalikan teks yang diubah dari daftar perubahan
+title: "TextPdfComparer.AssemblyDestinationPageText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextPdfComparer. Mengembalikan teks yang diubah dari daftar perubahan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/
 ---
-## Metode TextPdfComparer.AssemblyDestinationPageText
+## TextPdfComparer.AssemblyDestinationPageText method
 
 Mengembalikan teks yang diubah dari daftar perubahan.
 
@@ -16,15 +16,17 @@ public static string AssemblyDestinationPageText(List<DiffOperation> diffs)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| diffs | List`1 | Daftar perubahan. |
+| perbedaan | List`1 | Daftar perubahan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Teks asli.
 
 ### Lihat Juga
 
-* kelas [DiffOperation](../../diffoperation/)
-* kelas [TextPdfComparer](../)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

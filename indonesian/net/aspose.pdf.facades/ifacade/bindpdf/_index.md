@@ -1,14 +1,14 @@
 ---
-title: IFacade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IFacade. Mengikat dokumen PDF untuk diedit
+title: "IFacade.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IFacade. Mengikat dokumen PDF untuk penyuntingan."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/ifacade/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Mengikat dokumen PDF untuk diedit.
+Mengikat dokumen PDF untuk penyuntingan.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -20,15 +20,15 @@ public void BindPdf(string srcFile)
 
 ### Lihat Juga
 
-* antarmuka [IFacade](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Mengikat dokumen PDF untuk diedit.
+Mengikat dokumen PDF untuk penyuntingan.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -40,15 +40,15 @@ public void BindPdf(Stream srcStream)
 
 ### Lihat Juga
 
-* antarmuka [IFacade](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Document) {#bindpdf}
 
-Mengikat dokumen PDF untuk diedit.
+Mengikat dokumen PDF untuk penyuntingan.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -60,7 +60,9 @@ public void BindPdf(Document srcDoc)
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* antarmuka [IFacade](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

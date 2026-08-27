@@ -1,7 +1,7 @@
 ---
-title: ComboBoxField.ComboBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ComboBoxField. Konstruktor untuk ComboBoxField yang akan digunakan dalam Generator
+title: "ComboBoxField.ComboBoxField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ComboBoxField konstruktor. Konstruktor untuk ComboBoxField yang akan digunakan dalam Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/comboboxfield/comboboxfield/
@@ -24,7 +24,7 @@ public ComboBoxField()
 
 ## ComboBoxField(Document) {#constructor_1}
 
-Membuat field CombBox untuk bekerja dengan Generator.
+Membuat bidang CombBox untuk bekerja dengan Generator.
 
 ```csharp
 public ComboBoxField(Document doc)
@@ -32,7 +32,7 @@ public ComboBoxField(Document doc)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field akan dibuat. |
+| doc | Document | Document di mana bidang akan dibuat. |
 
 ### Lihat Juga
 
@@ -45,7 +45,7 @@ public ComboBoxField(Document doc)
 
 ## ComboBoxField(Page, Rectangle) {#constructor_3}
 
-Konstruktor untuk Field Combobox.
+Konstruktor untuk bidang Combobox.
 
 ```csharp
 public ComboBoxField(Page page, Rectangle rect)
@@ -53,8 +53,8 @@ public ComboBoxField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat field akan diletakkan. |
-| rect | Rectangle | Rectangle yang mendefinisikan ukuran dan posisi field di halaman. |
+| halaman | Halaman | Halaman tempat bidang akan ditempatkan. |
+| rect | Rectangle | Rectangle yang mendefinisikan ukuran dan posisi bidang pada halaman. |
 
 ### Lihat Juga
 
@@ -68,7 +68,7 @@ public ComboBoxField(Page page, Rectangle rect)
 
 ## ComboBoxField(Document, Rectangle) {#constructor_2}
 
-Konstruktor untuk field Combobox.
+Konstruktor untuk bidang Combobox.
 
 ```csharp
 public ComboBoxField(Document doc, Rectangle rect)
@@ -76,8 +76,8 @@ public ComboBoxField(Document doc, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field harus dibuat. |
-| rect | Rectangle | Rectangle yang mendefinisikan ukuran dan posisi field. |
+| doc | Document | Document tempat bidang harus dibuat. |
+| rect | Rectangle | Rectangle yang mendefinisikan ukuran dan posisi bidang. |
 
 ### Lihat Juga
 
@@ -86,3 +86,5 @@ public ComboBoxField(Document doc, Rectangle rect)
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

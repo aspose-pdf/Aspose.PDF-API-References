@@ -1,12 +1,12 @@
 ---
-title: SignatureName.HasSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureName. Menunjukkan apakah tanda tangan ada atau tidak
+title: "SignatureName.HasSignature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureName. Menunjukkan apakah tanda tangan ada atau tidak"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/signaturename/hassignature/
 ---
-## Properti SignatureName.HasSignature
+## SignatureName.HasSignature property
 
 Menunjukkan apakah tanda tangan ada atau tidak.
 
@@ -16,6 +16,8 @@ public bool HasSignature { get; }
 
 ### Lihat Juga
 
-* kelas [SignatureName](../)
+* class [SignatureName](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,45 +1,45 @@
 ---
-title: Class LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.LlamaSummaryCopilot. Menyediakan fungsionalitas untuk mendapatkan ringkasan dokumen menggunakan model AI. Contoh penggunaan untuk membuat klien Llama, mengonfigurasi opsi, dan menggunakan copilot ringkasan. Catatan Copilot ini menggunakan API penyelesaian, sehingga jumlah total teks yang dapat dikirim dibatasi oleh jendela konteks model.
+title: "Kelas LlamaSummaryCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.LlamaSummaryCopilot. Menyediakan fungsionalitas untuk mendapatkan ringkasan dokumen menggunakan model AI. Contoh penggunaan untuk membuat klien Llama, mengonfigurasi opsi, dan menggunakan copilot ringkasan. Catatan: Copilot ini menggunakan API penyelesaian sehingga jumlah total teks yang dapat dikirim dibatasi oleh jendela konteks model."
 type: docs
-weight: 740
+weight: 790
 url: /id/net/aspose.pdf.ai/llamasummarycopilot/
 ---
-## Kelas LlamaSummaryCopilot
+## LlamaSummaryCopilot class
 
-Menyediakan fungsionalitas untuk mendapatkan ringkasan dokumen menggunakan model AI. Contoh penggunaan untuk membuat klien Llama, mengonfigurasi opsi, dan menggunakan copilot ringkasan. Catatan: Copilot ini menggunakan API penyelesaian, sehingga jumlah total teks yang dapat dikirim dibatasi oleh jendela konteks model.
+Menyediakan fungsionalitas untuk mendapatkan ringkasan dokumen menggunakan model AI. Contoh penggunaan membuat klien Llama, mengonfigurasi opsi, dan menggunakan copilot ringkasan. Catatan: Copilot ini menggunakan API penyelesaian, sehingga total teks yang dapat dikirim dibatasi oleh jendela konteks model.
 
 ```csharp
-// Create AI client.
+// Buat klien AI.
 var llamaClient = LlamaClient
    .CreateWithApiKey(ApiKey) // Create Llama client with the API key.
    .Build();
 
-// Create copilot options.
+// Buat opsi copilot.
 var options = LlamaSummaryCopilotOptions
    .Create() // Create options like this, or...
-   //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...create using delegate.
+   //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...membuat menggunakan delegasi.
    .WithTemperature(0.5) // Configure other optional parameters.
    .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
    .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// Buat copilot ringkasan.
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(llamaClient, options);
 
-// Get summary text.
+// Dapatkan teks ringkasan.
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// Dapatkan dokumen ringkasan.
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// Dapatkan dokumen ringkasan dengan info halaman.
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// Simpan ringkasan sebagai dokumen PDF.
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// Simpan ringkasan dengan format yang ditentukan.
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -51,7 +51,7 @@ public class LlamaSummaryCopilot : ISummaryCopilot
 
 | Nama | Deskripsi |
 | --- | --- |
-| [LlamaSummaryCopilot](llamasummarycopilot/)(ILlamaClient, ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | Menginisialisasi instance baru dari kelas `LlamaSummaryCopilot`. |
+| [LlamaSummaryCopilot](llamasummarycopilot/)(ILlamaClient, ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | Menginisialisasi sebuah instance baru dari kelas `LlamaSummaryCopilot`. |
 
 ## Properti
 
@@ -71,6 +71,8 @@ public class LlamaSummaryCopilot : ISummaryCopilot
 
 ### Lihat Juga
 
-* antarmuka [ISummaryCopilot](../isummarycopilot/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* interface [ISummaryCopilot](../isummarycopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

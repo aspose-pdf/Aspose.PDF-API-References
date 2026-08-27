@@ -1,12 +1,12 @@
 ---
-title: XmpField.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpField. Mendapatkan nilai yang menunjukkan apakah instance ini kosong
+title: "XmpField.IsEmpty"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpField. Mengambil nilai yang menunjukkan apakah instance ini kosong"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/xmpfield/isempty/
 ---
-## Properti XmpField.IsEmpty
+## XmpField.IsEmpty property
 
 Mendapatkan nilai yang menunjukkan apakah instance ini kosong.
 
@@ -14,12 +14,14 @@ Mendapatkan nilai yang menunjukkan apakah instance ini kosong.
 public bool IsEmpty { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-`true` jika instance ini kosong; jika tidak, `false`.
+`true` jika instance ini kosong; sebaliknya, `false`.
 
 ### Lihat Juga
 
-* kelas [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

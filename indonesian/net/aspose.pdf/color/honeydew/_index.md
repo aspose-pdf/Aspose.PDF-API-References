@@ -1,25 +1,27 @@
 ---
-title: Color.Honeydew
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFF0FFF0
+title: "Color.Honeydew"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FFF0FFF0"
 type: docs
 weight: 550
 url: /id/net/aspose.pdf/color/honeydew/
 ---
-## Properti Color.Honeydew
+## Color.Honeydew property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFF0FFF0.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFF0FFF0.
 
 ```csharp
 public static Color Honeydew { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

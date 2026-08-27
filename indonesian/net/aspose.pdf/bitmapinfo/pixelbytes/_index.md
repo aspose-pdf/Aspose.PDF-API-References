@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.PixelBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BitmapInfo. Mendapatkan array piksel
+title: "BitmapInfo.PixelBytes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BitmapInfo. Mengambil array piksel"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/bitmapinfo/pixelbytes/
 ---
-## Properti BitmapInfo.PixelBytes
+## BitmapInfo.PixelBytes property
 
 Mendapatkan array piksel.
 
@@ -16,6 +16,8 @@ public byte[] PixelBytes { get; }
 
 ### Lihat Juga
 
-* kelas [BitmapInfo](../)
+* class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

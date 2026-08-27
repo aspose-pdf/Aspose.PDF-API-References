@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay_Right
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Mendapatkan atau mengatur koordinat kanan dari tampilan halaman
+title: "Bookmark.PageDisplay_Right"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Mendapatkan atau mengatur koordinat kanan tampilan halaman"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/bookmark/pagedisplay_right/
 ---
-## Properti Bookmark.PageDisplay_Right
+## Bookmark.PageDisplay_Right property
 
-Mendapatkan atau mengatur koordinat kanan dari tampilan halaman.
+Mendapatkan atau mengatur koordinat kanan tampilan halaman.
 
 ```csharp
 public int PageDisplay_Right { get; set; }
@@ -16,6 +16,8 @@ public int PageDisplay_Right { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Rows.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rows. Mendapatkan atau mengatur baris
+title: "Rows.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rows. Mendapatkan atau mengatur baris"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/rows/item/
 ---
-## Indeks Rows
+## Rows indexer
 
 Mendapatkan atau mengatur baris.
 
@@ -20,7 +20,9 @@ public Row this[int index] { get; set; }
 
 ### Lihat Juga
 
-* kelas [Row](../../row/)
-* kelas [Rows](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

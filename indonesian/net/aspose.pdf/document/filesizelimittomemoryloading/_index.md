@@ -1,14 +1,14 @@
 ---
-title: Document.FileSizeLimitToMemoryLoading
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Dapatkan dan atur batas ukuran file untuk memuat seluruh file ke dalam memori. Nilai diatur dalam megabyte. Nilai default adalah 210 Mb
+title: "Document.FileSizeLimitToMemoryLoading"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan dan mengatur batas ukuran file untuk memuat seluruh file ke memori. Nilainya diatur dalam megabyte. Nilai default adalah 210 Mb"
 type: docs
-weight: 900
+weight: 920
 url: /id/net/aspose.pdf/document/filesizelimittomemoryloading/
 ---
-## Properti Document.FileSizeLimitToMemoryLoading
+## Document.FileSizeLimitToMemoryLoading property
 
-Dapatkan dan atur batas ukuran file untuk memuat seluruh file ke dalam memori. Nilai diatur dalam megabyte. Nilai default adalah 210 Mb.
+Mendapatkan dan mengatur batas ukuran file untuk memuat seluruh file ke memori. Nilainya diatur dalam megabyte. Nilai default adalah 210 Mb.
 
 ```csharp
 public static int FileSizeLimitToMemoryLoading { get; set; }
@@ -16,6 +16,8 @@ public static int FileSizeLimitToMemoryLoading { get; set; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

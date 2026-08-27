@@ -1,12 +1,12 @@
 ---
-title: PageDate.YearComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Metode YearComponent. Mendapatkan string format untuk komponen tahun
+title: "PageDate.YearComponent.GetFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode YearComponent. Mendapatkan string format untuk komponen tahun"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pagedate.yearcomponent/getformat/
 ---
-## Metode PageDate.YearComponent.GetFormat
+## PageDate.YearComponent.GetFormat method
 
 Mendapatkan string format untuk komponen tahun.
 
@@ -14,12 +14,14 @@ Mendapatkan string format untuk komponen tahun.
 public string GetFormat()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah string yang mewakili format tahun.
+Sebuah string yang merepresentasikan format tahun.
 
 ### Lihat Juga
 
-* kelas [YearComponent](../)
+* class [YearComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

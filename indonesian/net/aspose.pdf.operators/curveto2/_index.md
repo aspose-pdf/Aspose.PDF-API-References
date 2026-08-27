@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo2
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.CurveTo2. Kelas yang mewakili operator y - menambahkan kurva ke jalur, titik akhir direplikasi.
+title: "Kelas CurveTo2"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.CurveTo2 kelas. Kelas yang mewakili operator y menambahkan kurva ke jalur dengan titik akhir yang direplikasi"
 type: docs
-weight: 7260
+weight: 7400
 url: /id/net/aspose.pdf.operators/curveto2/
 ---
-## Kelas CurveTo2
+## CurveTo2 class
 
-Kelas yang mewakili operator y (menambahkan kurva ke jalur, titik akhir direplikasi).
+Kelas yang mewakili operator y (append curve ke path, titik akhir direplikasi).
 
 ```csharp
 public class CurveTo2 : Operator
@@ -25,18 +25,20 @@ public class CurveTo2 : Operator
 | Nama | Deskripsi |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indeks operator dalam daftar operator halaman. |
-| [Points](../../aspose.pdf.operators/curveto2/points/) { get; } | Titik-titik dari kurva. |
+| [Points](../../aspose.pdf.operators/curveto2/points/) { get; } | Titik-titik kurva. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto2/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/curveto2/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

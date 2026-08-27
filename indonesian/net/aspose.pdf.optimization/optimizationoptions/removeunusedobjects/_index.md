@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.RemoveUnusedObjects
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizationOptions. Jika flag ini disetel ke true, semua objek dokumen akan diperiksa dan objek yang tidak terpakai akan dihapus dari dokumen
+title: "OptimizationOptions.RemoveUnusedObjects"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizationOptions. Jika flag ini diatur ke true, semua objek dokumen akan diperiksa dan objek yang tidak terpakai, yaitu objek yang tidak memiliki referensi, akan dihapus dari dokumen."
 type: docs
-weight: 110
+weight: 100
 url: /id/net/aspose.pdf.optimization/optimizationoptions/removeunusedobjects/
 ---
-## Properti OptimizationOptions.RemoveUnusedObjects
+## OptimizationOptions.RemoveUnusedObjects property
 
-Jika flag ini disetel ke true, semua objek dokumen akan diperiksa dan objek yang tidak terpakai (yaitu objek yang tidak memiliki referensi) akan dihapus dari dokumen.
+Jika flag ini diatur ke true, semua objek dokumen akan diperiksa dan objek yang tidak terpakai (misalnya objek yang tidak memiliki referensi) akan dihapus dari dokumen.
 
 ```csharp
 public bool RemoveUnusedObjects { get; set; }
@@ -19,3 +19,5 @@ public bool RemoveUnusedObjects { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.FormKey
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionErrorLocation. Nama kunci dari PDF Form XObject di mana kesalahan ekstraksi teks aliran konten telah ditemukan. Tidak kosong jika ObjectType  xForm
+title: "TextExtractionErrorLocation.FormKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionErrorLocation. Nama kunci PDF Form XObject di mana kesalahan ekstraksi teks aliran konten berada. Tidak kosong jika ObjectType xForm"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/textextractionerrorlocation/formkey/
 ---
-## Properti TextExtractionErrorLocation.FormKey
+## TextExtractionErrorLocation.FormKey property
 
-Kunci (nama) dari PDF Form XObject di mana kesalahan ekstraksi teks aliran konten telah ditemukan. Tidak kosong jika ObjectType == 'xForm'.
+Kunci (nama) PDF Form XObject di mana kesalahan ekstraksi teks aliran konten berada. Tidak kosong jika ObjectType == 'xForm'.
 
 ```csharp
 public string FormKey { get; }
@@ -16,6 +16,8 @@ public string FormKey { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionErrorLocation](../)
+* class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

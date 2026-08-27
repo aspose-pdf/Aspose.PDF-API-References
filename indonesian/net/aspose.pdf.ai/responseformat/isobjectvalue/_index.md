@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.IsObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ResponseFormat. Mendapatkan nilai yang menunjukkan apakah format respons adalah nilai objek
+title: "ResponseFormat.IsObjectValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ResponseFormat. Mendapatkan nilai yang menunjukkan apakah format respons adalah nilai objek"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/responseformat/isobjectvalue/
 ---
-## Properti ResponseFormat.IsObjectValue
+## ResponseFormat.IsObjectValue property
 
 Mendapatkan nilai yang menunjukkan apakah format respons adalah nilai objek.
 
@@ -16,6 +16,8 @@ public bool IsObjectValue { get; }
 
 ### Lihat Juga
 
-* kelas [ResponseFormat](../)
+* class [ResponseFormat](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

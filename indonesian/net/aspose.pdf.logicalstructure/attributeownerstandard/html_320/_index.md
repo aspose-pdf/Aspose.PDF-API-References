@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Html_320
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeOwnerStandard. pemilik atribut HTML3.20
+title: "AttributeOwnerStandard.Html_320"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeOwnerStandard field. HTML3.20 pemilik atribut"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/attributeownerstandard/html_320/
 ---
-## Bidang AttributeOwnerStandard.Html_320
+## AttributeOwnerStandard.Html_320 field
 
 Pemilik atribut HTML-3.20.
 
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Html_320;
 
 ### Lihat Juga
 
-* kelas [AttributeOwnerStandard](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

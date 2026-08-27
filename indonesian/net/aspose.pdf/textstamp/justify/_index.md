@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Mendefinisikan perataan teks. Jika properti ini diatur ke true, kedua tepi kiri dan kanan teks akan sejajar. Nilai default false
+title: "TextStamp.Justify"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Menentukan perataan teks. Jika properti ini diatur ke true, kedua tepi kiri dan kanan teks akan rata. Nilai default false"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/textstamp/justify/
 ---
-## Properti TextStamp.Justify
+## TextStamp.Justify property
 
-Mendefinisikan perataan teks. Jika properti ini diatur ke true, kedua tepi kiri dan kanan teks akan sejajar. Nilai default: false.
+Mendefinisikan perataan teks. Jika properti ini disetel ke true, kedua tepi kiri dan kanan teks akan rata. Nilai default: false.
 
 ```csharp
 public bool Justify { get; set; }
@@ -16,6 +16,8 @@ public bool Justify { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

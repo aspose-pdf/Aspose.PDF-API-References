@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.ResourceLoadingResult.ResourceLoadingResult
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ResourceLoadingResult. Membuat instance dari hasil pemuatan
+title: "LoadOptions.ResourceLoadingResult.ResourceLoadingResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ResourceLoadingResult. Membuat instance hasil pemuatan."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/
 ---
-## Konstruktor LoadOptions.ResourceLoadingResult
+## LoadOptions.ResourceLoadingResult constructor
 
-Membuat instance dari hasil pemuatan
+Membuat instance hasil pemuatan
 
 ```csharp
 public ResourceLoadingResult(byte[] data)
@@ -16,10 +16,12 @@ public ResourceLoadingResult(byte[] data)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | Byte[] | hasil pemuatan kustom harus selalu disediakan, bisa berupa array dengan panjang nol jika tidak mungkin mendapatkan hasil apapun |
+| data | Byte[] | Hasil pemuatan khusus harus selalu disediakan, dapat berupa array berukuran nol jika tidak mungkin mendapatkan hasil apa pun. |
 
 ### Lihat Juga
 
-* kelas [ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

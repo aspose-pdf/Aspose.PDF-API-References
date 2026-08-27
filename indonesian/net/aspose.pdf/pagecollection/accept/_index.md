@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Menerima objek pengunjung AnnotationSelector yang menyediakan fungsionalitas untuk bekerja dengan anotasi
+title: "PageCollection.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageCollection. Menerima objek pengunjung AnnotationSelector yang menyediakan fungsionalitas untuk bekerja dengan annotations"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/pagecollection/accept/
 ---
 ## Accept(AnnotationSelector) {#accept}
 
-Menerima objek pengunjung [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) yang menyediakan fungsionalitas untuk bekerja dengan anotasi.
+Menerima objek pengunjung [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) yang menyediakan fungsionalitas untuk bekerja dengan annotations.
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
@@ -20,8 +20,8 @@ public void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* kelas [PageCollection](../)
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,8 +41,8 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ### Lihat Juga
 
-* kelas [ImagePlacementAbsorber](../../imageplacementabsorber/)
-* kelas [PageCollection](../)
+* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -62,8 +62,8 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ### Lihat Juga
 
-* kelas [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
-* kelas [PageCollection](../)
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -83,7 +83,9 @@ public void Accept(TextAbsorber visitor)
 
 ### Lihat Juga
 
-* kelas [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
-* kelas [PageCollection](../)
+* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

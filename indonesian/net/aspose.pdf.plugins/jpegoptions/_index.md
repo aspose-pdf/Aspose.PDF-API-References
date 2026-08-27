@@ -1,12 +1,12 @@
 ---
-title: Class JpegOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.JpegOptions. Mewakili opsi konverter Pdf ke Jpeg untuk plugin Jpeg
+title: "Kelas JpegOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.JpegOptions. Mewakili opsi konverter Pdf ke Jpeg untuk plugin Jpeg"
 type: docs
-weight: 8920
+weight: 9050
 url: /id/net/aspose.pdf.plugins/jpegoptions/
 ---
-## Kelas JpegOptions
+## JpegOptions class
 
 Mewakili opsi konverter Pdf ke Jpeg untuk plugin [`Jpeg`](../jpeg/).
 
@@ -27,7 +27,7 @@ public sealed class JpegOptions : PdfToImageOptions
 | [ConversionMode](../../aspose.pdf.plugins/pdftoimageoptions/conversionmode/) { get; } | Mendapatkan mode konversi gambar. |
 | [Inputs](../../aspose.pdf.plugins/pdftoimageoptions/inputs/) { get; } | Mengembalikan koleksi data plugin [`PdfToImage`](../pdftoimage/). |
 | override [OperationName](../../aspose.pdf.plugins/jpegoptions/operationname/) { get; } | Mengembalikan nama operasi. |
-| [OutputResolution](../../aspose.pdf.plugins/pdftoimageoptions/outputresolution/) { get; set; } | Mendapatkan atau mengatur nilai resolusi dari gambar yang dihasilkan. |
+| [OutputResolution](../../aspose.pdf.plugins/pdftoimageoptions/outputresolution/) { get; set; } | Mendapatkan atau mengatur nilai resolusi gambar yang dihasilkan. |
 | [Outputs](../../aspose.pdf.plugins/pdftoimageoptions/outputs/) { get; } |  |
 | [PageList](../../aspose.pdf.plugins/pdftoimageoptions/pagelist/) { get; set; } | Mendapatkan atau mengatur daftar halaman untuk proses. |
 | [Quality](../../aspose.pdf.plugins/jpegoptions/quality/) { get; set; } | Mendapatkan dan mengatur kualitas Jpeg |
@@ -37,10 +37,12 @@ public sealed class JpegOptions : PdfToImageOptions
 | Nama | Deskripsi |
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/pdftoimageoptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin [`PdfToImage`](../pdftoimage/). |
-| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Mengatur sumber data simpan baru. Hanya bisa berupa . Jika Anda ingin menyimpan gambar ke dalam aliran memori, lewati null sebagai parameter. |
+| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Mengatur sumber data penyimpanan baru. Hanya dapat berupa . Jika Anda ingin menyimpan gambar ke aliran memori, berikan null sebagai parameter. |
 
 ### Lihat Juga
 
-* kelas [PdfToImageOptions](../pdftoimageoptions/)
+* class [PdfToImageOptions](../pdftoimageoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

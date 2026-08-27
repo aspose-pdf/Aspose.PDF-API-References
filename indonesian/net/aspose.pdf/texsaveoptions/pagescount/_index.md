@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.PagesCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TeXSaveOptions. Mengembalikan jumlah halaman setelah konversi
+title: "TeXSaveOptions.PagesCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TeXSaveOptions. Mengembalikan jumlah halaman setelah konversi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/texsaveoptions/pagescount/
 ---
-## Properti TeXSaveOptions.PagesCount
+## TeXSaveOptions.PagesCount property
 
 Mengembalikan jumlah halaman setelah konversi.
 
@@ -16,6 +16,8 @@ public int PagesCount { get; }
 
 ### Lihat Juga
 
-* kelas [TeXSaveOptions](../)
+* class [TeXSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

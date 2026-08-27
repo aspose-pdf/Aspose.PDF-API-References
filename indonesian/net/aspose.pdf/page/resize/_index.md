@@ -1,12 +1,12 @@
 ---
-title: Page.Resize
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Mengubah ukuran halaman
+title: "Page.Resize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Mengubah ukuran halaman"
 type: docs
 weight: 520
 url: /id/net/aspose.pdf/page/resize/
 ---
-## Metode Page.Resize
+## Page.Resize method
 
 Mengubah ukuran halaman.
 
@@ -20,7 +20,9 @@ public void Resize(PageSize targetSize)
 
 ### Lihat Juga
 
-* kelas [PageSize](../../pagesize/)
-* kelas [Page](../)
+* class [PageSize](../../pagesize/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

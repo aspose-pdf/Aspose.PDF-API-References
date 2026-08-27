@@ -1,12 +1,12 @@
 ---
-title: Class PdfExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.PdfExtractorOptions. Mewakili opsi untuk plugin TextExtractor dan ImageExtractor
+title: "Kelas PdfExtractorOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.PdfExtractorOptions. Mewakili opsi untuk plugin TextExtractor dan ImageExtractor."
 type: docs
-weight: 9070
+weight: 9220
 url: /id/net/aspose.pdf.plugins/pdfextractoroptions/
 ---
-## Kelas PdfExtractorOptions
+## PdfExtractorOptions class
 
 Mewakili opsi untuk plugin TextExtractor dan ImageExtractor.
 
@@ -29,10 +29,12 @@ public abstract class PdfExtractorOptions : IPluginOptions
 
 ## Catatan
 
-`PdfExtractorOptions` berisi fungsi dasar untuk menambahkan data (file, aliran) yang mewakili dokumen PDF input. Silakan buat [`TextExtractorOptions`](../textextractoroptions/) atau ImageExtractorOptions sebagai pengganti ini.
+`PdfExtractorOptions` berisi fungsi dasar untuk menambahkan data (file, aliran) yang merepresentasikan input PDF Document. Silakan buat [`TextExtractorOptions`](../textextractoroptions/) atau ImageExtractorOptions sebagai gantinya.
 
 ### Lihat Juga
 
-* antarmuka [IPluginOptions](../ipluginoptions/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

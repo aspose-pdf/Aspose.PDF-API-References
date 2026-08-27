@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FloatingBox. Mendapatkan atau mengatur objek BorderInfo yang menunjukkan informasi batas dari kotak mengambang
+title: "FloatingBox.Border"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FloatingBox. Mendapatkan atau mengatur objek BorderInfo yang menunjukkan informasi batas kotak mengambang"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/floatingbox/border/
 ---
-## Properti FloatingBox.Border
+## FloatingBox.Border property
 
-Mendapatkan atau mengatur objek [`BorderInfo`](../../borderinfo/) yang menunjukkan informasi batas dari kotak mengambang.
+Mendapatkan atau mengatur objek [`BorderInfo`](../../borderinfo/) yang menunjukkan informasi batas kotak mengambang.
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### Lihat Juga
 
-* kelas [BorderInfo](../../borderinfo/)
-* kelas [FloatingBox](../)
+* class [BorderInfo](../../borderinfo/)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

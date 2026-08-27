@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan properti Flags untuk bidang yang dibuat/dimodifikasi jika akan diatur
+title: "FormFieldOptions.Flags"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan properti Flags bagi bidang yang dibuat/dimodifikasi jika akan diatur."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.plugins/formfieldoptions/flags/
 ---
-## Properti FormFieldOptions.Flags
+## FormFieldOptions.Flags property
 
-Mendapatkan/mengatur nilai untuk menentukan properti Flags untuk bidang yang dibuat/dimodifikasi (jika akan diatur).
+Mendapatkan/mengatur nilai untuk menentukan properti Flags untuk bidang yang dibuat/diubah (jika akan diatur).
 
 ```csharp
 public AnnotationFlags? Flags { get; set; }
@@ -20,3 +20,5 @@ public AnnotationFlags? Flags { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

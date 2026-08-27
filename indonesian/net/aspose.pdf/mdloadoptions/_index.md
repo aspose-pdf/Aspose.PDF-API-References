@@ -1,12 +1,12 @@
 ---
-title: Class MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.MdLoadOptions. Opsi pemuatan untuk konversi format Markdown
+title: "Kelas MdLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.MdLoadOptions. Opsi pemuatan untuk konversi format Markdown"
 type: docs
-weight: 6940
+weight: 7080
 url: /id/net/aspose.pdf/mdloadoptions/
 ---
-## Kelas MdLoadOptions
+## MdLoadOptions class
 
 Opsi pemuatan untuk konversi format Markdown.
 
@@ -24,11 +24,11 @@ public class MdLoadOptions : LoadOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau menetapkan flag untuk menonaktifkan batasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan untuk melakukan operasi dengan font yang dilarang oleh lisensi font ini, misalnya memungkinkan untuk menyematkan font ke dalam dokumen PDF meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
-| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | Mendapatkan atau menetapkan flag yang menentukan bahwa aturan @page yang didefinisikan dalam css akan menggantikan nilai yang didefinisikan dalam PageInfo. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau mengatur bendera untuk menonaktifkan semua pembatasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan melakukan operasi dengan font yang dilarang oleh lisensi font tersebut, misalnya memungkinkan menyematkan font ke dalam PDF document meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
+| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | Mendapatkan atau mengatur flag yang menentukan bahwa aturan @page yang didefinisikan dalam css akan menimpa nilai yang didefinisikan dalam PageInfo. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Mewakili format file yang dijelaskan oleh [`LoadOptions`](../loadoptions/). |
-| [PageInfo](../../aspose.pdf/mdloadoptions/pageinfo/) { get; set; } | Mendapatkan atau menetapkan informasi halaman dokumen |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan baik Lanjutkan atau Hentikan. Lanjutkan adalah tindakan default dan operasi Pemuatan berlanjut, namun pengguna juga dapat mengembalikan Hentikan di mana kasus operasi Pemuatan harus dihentikan. |
+| [PageInfo](../../aspose.pdf/mdloadoptions/pageinfo/) { get; set; } | Mendapatkan atau mengatur info halaman dokumen |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan apa pun yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan apakah Continue atau Abort. Continue adalah tindakan default dan operasi Load berlanjut, namun pengguna juga dapat mengembalikan Abort yang berarti operasi Load harus berhenti. |
 
 ## Contoh
 
@@ -36,22 +36,22 @@ Contoh berikut menunjukkan cara mengonversi file MD ke file PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Jalur ke direktori dokumen.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your MD File.
+	// Jalur ke file MD Anda.
 	string mdFile = Path.Combine(dataDir, "MD-to-PDF.md");
 
-	// The path to output PDF File.
+	// Jalur ke file PDF output.
 	string pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf");
 
-	// Initialize MdLoadOptions	
+	// Inisialisasi MdLoadOptions	
 	MdLoadOptions mdLoadOptions = new MdLoadOptions();
 		
 	using (Document pdfDocument = new Document(mdFile, mdLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Simpan file PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -80,6 +80,8 @@ Contoh berikut menunjukkan cara mengonversi file MD ke file PDF
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../loadoptions/)
+* class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

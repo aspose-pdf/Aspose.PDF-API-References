@@ -1,12 +1,12 @@
 ---
-title: Page.SetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Mengatur ukuran halaman untuk halaman
+title: "Page.SetPageSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Mengatur ukuran halaman untuk halaman."
 type: docs
 weight: 540
 url: /id/net/aspose.pdf/page/setpagesize/
 ---
-## Metode Page.SetPageSize
+## Page.SetPageSize method
 
 Mengatur ukuran halaman untuk halaman.
 
@@ -16,11 +16,13 @@ public void SetPageSize(double width, double height)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Double | Lebar halaman. |
-| height | Double | Ukuran halaman. |
+| lebar | Double | Lebar halaman. |
+| tinggi | Double | Ukuran halaman. |
 
 ### Lihat Juga
 
-* kelas [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

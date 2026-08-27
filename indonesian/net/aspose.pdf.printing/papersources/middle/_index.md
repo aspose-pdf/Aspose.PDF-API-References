@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Middle
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSources. Mewakili tempat kertas tengah dari printer
+title: "PaperSources.Middle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSources. Mewakili baki tengah printer"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.printing/papersources/middle/
 ---
-## Bidang PaperSources.Middle
+## PaperSources.Middle field
 
-Mewakili tempat kertas tengah dari printer.
+Mewakili baki tengah printer.
 
 ```csharp
 public static readonly PaperSource Middle;
@@ -16,7 +16,9 @@ public static readonly PaperSource Middle;
 
 ### Lihat Juga
 
-* kelas [PaperSource](../../papersource/)
-* kelas [PaperSources](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

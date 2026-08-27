@@ -1,12 +1,12 @@
 ---
-title: Usage.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor penggunaan. Konstruktor default
+title: "Usage.Usage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Usage. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/usage/usage/
 ---
-## Konstruktor penggunaan
+## Usage constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Usage()
 
 ### Lihat Juga
 
-* kelas [Usage](../)
+* class [Usage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

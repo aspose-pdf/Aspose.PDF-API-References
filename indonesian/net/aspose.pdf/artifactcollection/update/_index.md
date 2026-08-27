@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Update
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ArtifactCollection. Memperbarui artefak di dalam koleksi
+title: "ArtifactCollection.Update"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ArtifactCollection. Perbarui artefak di dalam koleksi"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/artifactcollection/update/
 ---
-## Metode ArtifactCollection.Update
+## ArtifactCollection.Update method
 
 Memperbarui artefak di dalam koleksi.
 
@@ -20,7 +20,9 @@ public void Update(Artifact artifact)
 
 ### Lihat Juga
 
-* kelas [Artefak](../../artifact/)
-* kelas [ArtifactCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

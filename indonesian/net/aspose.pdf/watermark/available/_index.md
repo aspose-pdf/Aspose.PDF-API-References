@@ -1,14 +1,14 @@
 ---
-title: Watermark.Available
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Watermark. Mendapatkan tanda bahwa watermark ada
+title: "Watermark.Available"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Watermark. Mendapatkan flag bahwa watermark ada"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/watermark/available/
 ---
-## Properti Watermark.Tersedia
+## Watermark.Available property
 
-Mendapatkan tanda bahwa watermark ada.
+Mendapatkan flag bahwa watermark ada.
 
 ```csharp
 public bool Available { get; }
@@ -16,6 +16,8 @@ public bool Available { get; }
 
 ### Lihat Juga
 
-* kelas [Watermark](../)
+* class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Opi. Mewakili Open Prepress Interface OPI adalah mekanisme untuk membuat placeholder atau proxy resolusi rendah untuk gambar resolusi tinggi
+title: "Kelas Opi"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Opi class. Mewakili Open Prepress Interface (OPI) yang merupakan mekanisme untuk membuat placeholder beresolusi rendah atau proksi untuk gambar beresolusi tinggi semacam itu."
 type: docs
-weight: 7940
+weight: 8080
 url: /id/net/aspose.pdf/opi/
 ---
-## Kelas Opi
+## Opi class
 
-Mewakili Open Prepress Interface (OPI) adalah mekanisme untuk membuat placeholder resolusi rendah, atau proxy, untuk gambar resolusi tinggi.
+Mewakili Open Prepress Interface (OPI) adalah mekanisme untuk membuat placeholder resolusi rendah, atau proksi, untuk gambar beresolusi tinggi tersebut.
 
 ```csharp
 public sealed class Opi
@@ -24,11 +24,13 @@ public sealed class Opi
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Mendapatkan file eksternal yang berisi gambar proxy resolusi rendah. |
-| [Position](../../aspose.pdf/opi/position/) { get; } | Mendapatkan array delapan angka yang menentukan lokasi pada halaman dari gambar yang dipotong. |
+| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Mendapatkan file eksternal yang berisi gambar proksi beresolusi rendah. |
+| [Position](../../aspose.pdf/opi/position/) { get; } | Mendapatkan array berisi delapan angka dalam format yang menentukan lokasi pada halaman gambar yang dipotong. |
 | [Version](../../aspose.pdf/opi/version/) { get; } | Mendapatkan versi OPI yang dirujuk oleh kamus ini. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

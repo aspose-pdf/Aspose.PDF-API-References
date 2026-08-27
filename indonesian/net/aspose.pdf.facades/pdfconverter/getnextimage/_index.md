@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfConverter. Menyimpan gambar ke file dengan format gambar default jpeg
+title: "PdfConverter.GetNextImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfConverter. Menyimpan gambar ke file dengan format gambar default jpeg"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/pdfconverter/getnextimage/
@@ -16,11 +16,11 @@ public void GetNextImage(string outputFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,13 +36,13 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
-| pageSize | PageSize | Ukuran halaman dari gambar. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
+| pageSize | PageSize | Ukuran halaman gambar. |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [PdfConverter](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,8 +58,8 @@ public void GetNextImage(string outputFile, ImageFormat format)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
+| format | ImageFormat | Format gambar. |
 
 ## Contoh
 
@@ -92,7 +92,7 @@ End While
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -100,7 +100,7 @@ End While
 
 ## GetNextImage(string, PageSize, ImageFormat) {#getnextimage_11}
 
-Menyimpan gambar ke file dengan ukuran halaman dan format gambar yang diberikan.
+Menyimpan gambar ke file dengan Page size dan format gambar yang diberikan.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format)
@@ -108,14 +108,14 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
-| pageSize | PageSize | Ukuran halaman dari gambar. |
-| format | ImageFormat | Format dari gambar. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
+| pageSize | PageSize | Ukuran halaman gambar. |
+| format | ImageFormat | Format gambar. |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [PdfConverter](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -135,7 +135,7 @@ public void GetNextImage(Stream outputStream)
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -152,12 +152,12 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | outputStream | Stream | Stream untuk menyimpan gambar. |
-| pageSize | PageSize | Ukuran halaman dari gambar. |
+| pageSize | PageSize | Ukuran halaman gambar. |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [PdfConverter](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -174,11 +174,11 @@ public void GetNextImage(Stream outputStream, ImageFormat format)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | outputStream | Stream | Stream untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
+| format | ImageFormat | Format gambar. |
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -195,13 +195,13 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | outputStream | Stream | Stream untuk menyimpan gambar. |
-| pageSize | PageSize | Ukuran halaman dari gambar. |
-| format | ImageFormat | Format dari gambar. |
+| pageSize | PageSize | Ukuran halaman gambar. |
+| format | ImageFormat | Format gambar. |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [PdfConverter](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -218,10 +218,10 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
-| imageWidth | Int32 | Lebar gambar, satuan adalah piksel. |
-| imageHeight | Int32 | Tinggi gambar, satuan adalah piksel. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
+| format | ImageFormat | Format gambar. |
+| imageWidth | Int32 | Lebar gambar, satuannya pixel. |
+| imageHeight | Int32 | Tinggi gambar, satuannya pixel. |
 | quality | Int32 | Kualitas file Jpeg (0~100), 0 adalah terendah dan 100 adalah tertinggi |
 
 ## Contoh
@@ -255,7 +255,7 @@ End While
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -273,14 +273,14 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | outputStream | Stream | Stream untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
-| imageWidth | Int32 | Lebar gambar, satuan adalah piksel. |
-| imageHeight | Int32 | Tinggi gambar, satuan adalah piksel. |
+| format | ImageFormat | Format gambar. |
+| imageWidth | Int32 | Lebar gambar, satuannya pixel. |
+| imageHeight | Int32 | Tinggi gambar, satuannya pixel. |
 | quality | Int32 | Kualitas file Jpeg (0~100), 0 adalah terendah dan 100 adalah tertinggi |
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -297,10 +297,10 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
-| imageWidth | Double | Lebar gambar, satuan adalah piksel. |
-| imageHeight | Double | Tinggi gambar, satuan adalah piksel. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
+| format | ImageFormat | Format gambar. |
+| imageWidth | Double | Lebar gambar, satuannya pixel. |
+| imageHeight | Double | Tinggi gambar, satuannya pixel.. |
 | quality | Int32 | Kualitas file Jpeg (0~100), 0 adalah terendah dan 100 adalah tertinggi |
 
 ## Contoh
@@ -338,7 +338,7 @@ End While
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -356,14 +356,14 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | outputStream | Stream | Stream untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
-| imageWidth | Double | Lebar gambar, satuan adalah piksel. |
-| imageHeight | Double | Tinggi gambar, satuan adalah piksel. |
+| format | ImageFormat | Format gambar. |
+| imageWidth | Double | Lebar gambar, satuannya pixel. |
+| imageHeight | Double | Tinggi gambar, satuannya pixel. |
 | quality | Int32 | Kualitas file Jpeg (0~100), 0 adalah terendah dan 100 adalah tertinggi |
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -379,10 +379,10 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
-| imageWidth | Int32 | Lebar gambar, satuan adalah piksel. |
-| imageHeight | Int32 | Tinggi gambar, satuan adalah piksel. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
+| format | ImageFormat | Format gambar. |
+| imageWidth | Int32 | Lebar gambar, satuannya pixel. |
+| imageHeight | Int32 | Tinggi gambar, satuannya pixel. |
 
 ## Contoh
 
@@ -415,7 +415,7 @@ End While
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -432,13 +432,13 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | outputStream | Stream | Stream untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
-| imageWidth | Int32 | Lebar gambar, satuan adalah piksel. |
-| imageHeight | Int32 | Tinggi gambar, satuan adalah piksel. |
+| format | ImageFormat | Format gambar. |
+| imageWidth | Int32 | Lebar gambar, satuannya pixel. |
+| imageHeight | Int32 | Tinggi gambar, satuannya pixel. |
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -455,12 +455,12 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | outputStream | Stream | Stream untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
+| format | ImageFormat | Format gambar. |
 | quality | Int32 | Kualitas file Jpeg (0~100), 0 adalah terendah dan 100 adalah tertinggi |
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -468,7 +468,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 
 ## GetNextImage(Stream, PageSize, ImageFormat, int) {#getnextimage_3}
 
-Menyimpan gambar ke stream dengan ukuran halaman, format gambar, dan kualitas yang diberikan.
+Menyimpan gambar ke stream dengan Page size, format gambar, dan kualitas.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format, int quality)
@@ -477,14 +477,14 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | outputStream | Stream | Stream untuk menyimpan gambar. |
-| pageSize | PageSize | Ukuran halaman dari gambar. |
-| format | ImageFormat | Format dari gambar. |
+| pageSize | PageSize | Ukuran halaman gambar. |
+| format | ImageFormat | Format gambar. |
 | quality | Int32 | Kualitas file Jpeg (0~100), 0 adalah terendah dan 100 adalah tertinggi |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [PdfConverter](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -500,13 +500,13 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
-| format | ImageFormat | Format dari gambar. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
+| format | ImageFormat | Format gambar. |
 | quality | Int32 | Kualitas file Jpeg (0~100), 0 adalah terendah dan 100 adalah tertinggi |
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -514,7 +514,7 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 ## GetNextImage(string, PageSize, ImageFormat, int) {#getnextimage_12}
 
-Menyimpan gambar ke file dengan ukuran halaman, format gambar, dan kualitas yang diberikan.
+Menyimpan gambar ke file dengan Page size, format gambar, dan kualitas.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format, int quality)
@@ -522,14 +522,16 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFile | String | Jalur file dan nama untuk menyimpan gambar. |
-| pageSize | PageSize | Ukuran halaman dari gambar. |
-| format | ImageFormat | Format dari gambar. |
+| outputFile | String | Path dan nama file untuk menyimpan gambar. |
+| pageSize | PageSize | Ukuran halaman gambar. |
+| format | ImageFormat | Format gambar. |
 | quality | Int32 | Kualitas file Jpeg (0~100), 0 adalah terendah dan 100 adalah tertinggi |
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [PdfConverter](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

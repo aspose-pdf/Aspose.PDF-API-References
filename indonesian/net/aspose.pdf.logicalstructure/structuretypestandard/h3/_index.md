@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H3
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang StructureTypeStandard. Judul Tingkat 3 untuk digunakan dalam penulis yang sesuai yang tidak dapat mengelompokkan bagian mereka secara hierarkis dan dengan demikian tidak dapat menentukan tingkat judul dari tingkat pengelompokan.
+title: "StructureTypeStandard.H3"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Level 3 Heading untuk penggunaan dalam penulis yang mematuhi standar yang tidak dapat menumpuk secara hierarkis bagian-bagian mereka dan sehingga tidak dapat menentukan tingkat heading dari tingkat penumpukannya"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/h3/
 ---
-## Bidang StructureTypeStandard.H3
+## StructureTypeStandard.H3 field
 
-Judul Tingkat 3, untuk digunakan dalam penulis yang sesuai yang tidak dapat mengelompokkan bagian mereka secara hierarkis dan dengan demikian tidak dapat menentukan tingkat judul dari tingkat pengelompokan.
+Level 3 Heading, untuk digunakan oleh penulis yang mematuhi standar yang tidak dapat menumpuk secara hierarkis bagian mereka dan sehingga tidak dapat menentukan level heading dari tingkat penumpukannya.
 
 ```csharp
 public static readonly StructureTypeStandard H3;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard H3;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BlockAlign_After
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Atribut BlockAlign Setelah - Setelah tepi dari alokasi persegi panjang anak terakhir sejajar dengan persegi panjang konten sel tabel
+title: "AttributeName.BlockAlign_After"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeName field. Attribute BlockAlign After  Tepi after dari persegi alokasi anak terakhir disejajarkan dengan persegi konten sel tabel"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/attributename/blockalign_after/
 ---
-## Field AttributeName.BlockAlign_After
+## AttributeName.BlockAlign_After field
 
-Atribut BlockAlign: Setelah - Setelah tepi dari persegi panjang alokasi anak terakhir sejajar dengan persegi panjang konten sel tabel.
+Atribut BlockAlign: After - Tepi setelah dari persegi alokasi anak terakhir diselaraskan dengan persegi konten sel tabel.
 
 ```csharp
 public static readonly AttributeName BlockAlign_After;
@@ -16,6 +16,8 @@ public static readonly AttributeName BlockAlign_After;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

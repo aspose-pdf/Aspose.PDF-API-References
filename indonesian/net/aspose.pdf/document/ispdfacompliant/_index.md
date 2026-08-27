@@ -1,14 +1,14 @@
 ---
-title: Document.IsPdfaCompliant
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan apakah dokumen memenuhi standar pdfa
+title: "Document.IsPdfaCompliant"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan apakah dokumen mematuhi PDF/A."
 type: docs
-weight: 310
+weight: 330
 url: /id/net/aspose.pdf/document/ispdfacompliant/
 ---
-## Properti Document.IsPdfaCompliant
+## Document.IsPdfaCompliant property
 
-Mendapatkan apakah dokumen memenuhi standar pdfa.
+Mendapatkan apakah dokumen pdfa mematuhi standar.
 
 ```csharp
 public bool IsPdfaCompliant { get; }
@@ -16,6 +16,8 @@ public bool IsPdfaCompliant { get; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

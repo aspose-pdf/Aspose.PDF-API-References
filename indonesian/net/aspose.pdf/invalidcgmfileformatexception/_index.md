@@ -1,12 +1,12 @@
 ---
-title: Class InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.InvalidCgmFileFormatException. Pengecualian yang dilemparkan ketika file Cgm tidak valid
+title: "Kelas InvalidCgmFileFormatException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.InvalidCgmFileFormatException. Pengecualian yang dilempar ketika file Cgm tidak valid"
 type: docs
-weight: 5980
+weight: 6110
 url: /id/net/aspose.pdf/invalidcgmfileformatexception/
 ---
-## Kelas InvalidCgmFileFormatException
+## InvalidCgmFileFormatException class
 
 Pengecualian yang dilemparkan ketika file Cgm tidak valid.
 
@@ -18,13 +18,15 @@ public sealed class InvalidCgmFileFormatException : InvalidFileFormatException
 
 | Nama | Deskripsi |
 | --- | --- |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor)() | Menginisialisasi instance baru dari kelas `InvalidCgmFileFormatException`. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_1)(Exception) | Menginisialisasi instance baru dari kelas `InvalidCgmFileFormatException` dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_2)(string) | Menginisialisasi instance baru dari kelas `InvalidCgmFileFormatException`. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_3)(string, Exception) | Menginisialisasi instance baru dari kelas `InvalidCgmFileFormatException` dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `InvalidCgmFileFormatException`. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_1)(Exception) | Menginisialisasi sebuah instance baru dari kelas `InvalidCgmFileFormatException` dengan pesan error yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_2)(string) | Menginisialisasi sebuah instance baru dari kelas `InvalidCgmFileFormatException`. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_3)(string, Exception) | Menginisialisasi sebuah instance baru dari kelas `InvalidCgmFileFormatException` dengan pesan error yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
 
 ### Lihat Juga
 
-* kelas [InvalidFileFormatException](../invalidfileformatexception/)
+* class [InvalidFileFormatException](../invalidfileformatexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

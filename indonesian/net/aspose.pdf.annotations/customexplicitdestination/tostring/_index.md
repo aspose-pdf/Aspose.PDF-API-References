@@ -1,12 +1,12 @@
 ---
-title: CustomExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CustomExplicitDestination. Mengonversi ke nomor halaman
+title: "CustomExplicitDestination.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CustomExplicitDestination. Mengonversi ke nomor halaman."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/customexplicitdestination/tostring/
 ---
-## Metode CustomExplicitDestination.ToString
+## CustomExplicitDestination.ToString method
 
 Mengonversi ke nomor halaman.
 
@@ -14,12 +14,14 @@ Mengonversi ke nomor halaman.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nomor halaman.
 
 ### Lihat Juga
 
-* kelas [CustomExplicitDestination](../)
+* class [CustomExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

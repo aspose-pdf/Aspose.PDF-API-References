@@ -1,14 +1,14 @@
 ---
-title: TextState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextState. Mengatur gaya font dari teks
+title: "TextState.FontStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextState. Mengatur gaya font teks."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/textstate/fontstyle/
 ---
-## Properti TextState.FontStyle
+## TextState.FontStyle property
 
-Mengatur gaya font dari teks.
+Mengatur gaya font teks.
 
 ```csharp
 public virtual FontStyles FontStyle { get; set; }
@@ -20,3 +20,5 @@ public virtual FontStyles FontStyle { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

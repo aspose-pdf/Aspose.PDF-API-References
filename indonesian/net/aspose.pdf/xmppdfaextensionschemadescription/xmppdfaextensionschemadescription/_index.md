@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XmpPdfAExtensionSchemaDescription. Menginisialisasi objek baru
+title: "XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XmpPdfAExtensionSchemaDescription. Menginisialisasi objek baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/
 ---
-## Konstruktor XmpPdfAExtensionSchemaDescription
+## XmpPdfAExtensionSchemaDescription constructor
 
 Menginisialisasi objek baru.
 
@@ -16,12 +16,14 @@ public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, str
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| prefix | String | Prefiks. |
+| prefix | String | Awalan. |
 | namespaceURI | String | URI namespace. |
-| description | String | Deskripsi opsional. |
+| deskripsi | String | Deskripsi opsional. |
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionSchemaDescription](../)
+* class [XmpPdfAExtensionSchemaDescription](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

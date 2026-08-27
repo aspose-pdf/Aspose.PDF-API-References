@@ -1,25 +1,27 @@
 ---
-title: GraphInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphInfo. Kloning informasi grafik
+title: "GraphInfo.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphInfo. Mengkloning info grafik."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/graphinfo/clone/
 ---
-## Metode GraphInfo.Clone
+## GraphInfo.Clone method
 
-Kloning informasi grafik.
+Gandakan info grafik.
 
 ```csharp
 public object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [GraphInfo](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.HideToolbar
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Sebuah flag yang menentukan apakah akan menyembunyikan toolbar pembaca yang sesuai ketika dokumen aktif
+title: "ViewerPreference.HideToolbar"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Flag yang menentukan apakah menyembunyikan bilah alat pembaca yang sesuai ketika document aktif"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/viewerpreference/hidetoolbar/
 ---
-## Field ViewerPreference.HideToolbar
+## ViewerPreference.HideToolbar field
 
-Sebuah flag yang menentukan apakah akan menyembunyikan toolbar pembaca yang sesuai ketika dokumen aktif.
+Bendera yang menentukan apakah menyembunyikan bilah alat pembaca yang sesuai ketika dokumen aktif.
 
 ```csharp
 public const int HideToolbar;
@@ -19,3 +19,5 @@ public const int HideToolbar;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

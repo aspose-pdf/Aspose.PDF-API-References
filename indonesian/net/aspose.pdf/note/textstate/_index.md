@@ -1,12 +1,12 @@
 ---
-title: Note.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Note. Mendapatkan atau mengatur status teks catatan
+title: "Note.TextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Note properti. Mendapatkan atau mengatur status teks catatan."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/note/textstate/
 ---
-## Properti Note.TextState
+## Note.TextState property
 
 Mendapatkan atau mengatur status teks catatan.
 
@@ -16,7 +16,9 @@ public TextState TextState { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [Note](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetTextRise. Kelas yang mewakili operator Ts set text rise
+title: "Kelas SetTextRise"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetTextRise kelas. Kelas yang merepresentasikan operator Ts untuk mengatur kenaikan teks."
 type: docs
-weight: 7850
+weight: 7990
 url: /id/net/aspose.pdf.operators/settextrise/
 ---
-## Kelas SetTextRise
+## SetTextRise class
 
-Kelas yang mewakili operator Ts (set text rise).
+Kelas yang merepresentasikan operator Ts (mengatur kenaikan teks).
 
 ```csharp
 public class SetTextRise : TextStateOperator
@@ -25,18 +25,20 @@ public class SetTextRise : TextStateOperator
 | Nama | Deskripsi |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indeks operator dalam daftar operator halaman. |
-| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | Mendapatkan atau mengatur text rise. |
+| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | Mendapatkan atau mengatur kenaikan teks. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [TextStateOperator](../textstateoperator/)
+* class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SetCMYKColor
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetCMYKColor. Kelas yang mewakili operator k untuk mengatur warna CMYK untuk operasi non-stroking
+title: "Kelas SetCMYKColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetCMYKColor kelas. Kelas yang merepresentasikan operator k yang menetapkan warna CMYK untuk operasi nonstroking"
 type: docs
-weight: 7580
+weight: 7720
 url: /id/net/aspose.pdf.operators/setcmykcolor/
 ---
-## Kelas SetCMYKColor
+## SetCMYKColor class
 
-Kelas yang mewakili operator k (mengatur warna CMYK untuk operasi non-stroking).
+Kelas yang merepresentasikan operator k (mengatur warna CMYK untuk operasi non-stroking).
 
 ```csharp
 public class SetCMYKColor : SetColorOperator
@@ -34,13 +34,15 @@ public class SetCMYKColor : SetColorOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcmykcolor/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/setcmykcolor/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [getColor](../../aspose.pdf.operators/setcmykcolor/getcolor/)() | Mengembalikan warna. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [SetColorOperator](../setcoloroperator/)
+* class [SetColorOperator](../setcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

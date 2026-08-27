@@ -1,14 +1,14 @@
 ---
-title: Class SetTextRenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetTextRenderingMode. Kelas yang mewakili operator Tr untuk mengatur mode rendering teks
+title: "Kelas SetTextRenderingMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetTextRenderingMode kelas. Kelas yang mewakili operator Tr mengatur mode rendering teks"
 type: docs
-weight: 7840
+weight: 7980
 url: /id/net/aspose.pdf.operators/settextrenderingmode/
 ---
-## Kelas SetTextRenderingMode
+## SetTextRenderingMode class
 
-Kelas yang mewakili operator Tr (mengatur mode rendering teks).
+Kelas yang merepresentasikan operator Tr (mengatur mode rendering teks).
 
 ```csharp
 public class SetTextRenderingMode : TextStateOperator
@@ -30,12 +30,14 @@ public class SetTextRenderingMode : TextStateOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrenderingmode/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/settextrenderingmode/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [TextStateOperator](../textstateoperator/)
+* class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

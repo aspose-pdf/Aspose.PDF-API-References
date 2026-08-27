@@ -1,12 +1,12 @@
 ---
-title: AttributeName.FromNameAttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AttributeName. Mendapatkan nama atribut untuk kunci atribut
+title: "AttributeName.FromNameAttributeKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AttributeName. Mendapatkan nama atribut untuk kunci atribut"
 type: docs
 weight: 670
 url: /id/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/
 ---
-## Metode AttributeName.FromNameAttributeKey
+## AttributeName.FromNameAttributeKey method
 
 Mendapatkan nama atribut untuk kunci atribut.
 
@@ -16,16 +16,18 @@ public static AttributeName FromNameAttributeKey(string name, AttributeKey attri
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama atribut |
+| nama | String | Nama atribut |
 | attributeKey | AttributeKey | Kunci atribut |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama atribut
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../../attributekey/)
-* kelas [AttributeName](../)
+* class [AttributeKey](../../attributekey/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

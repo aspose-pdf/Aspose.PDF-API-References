@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.Symbology
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BarcodeField. Menentukan teknologi barcode atau glyph mana yang akan digunakan pada anotasi ini, lihat Symbology untuk detailnya
+title: "BarcodeField.Symbology"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BarcodeField. Menentukan teknologi barcode atau glyph yang akan digunakan pada anotasi ini, lihat Symbology untuk detail"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.forms/barcodefield/symbology/
 ---
-## Properti BarcodeField.Symbology
+## BarcodeField.Symbology property
 
-Menentukan teknologi barcode atau glyph mana yang akan digunakan pada anotasi ini, lihat `Symbology` untuk detailnya.
+Menentukan teknologi barcode atau glyph yang akan digunakan pada anotasi ini, lihat `Symbology` untuk detail.
 
 ```csharp
 public Symbology Symbology { get; }
@@ -20,3 +20,5 @@ public Symbology Symbology { get; }
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

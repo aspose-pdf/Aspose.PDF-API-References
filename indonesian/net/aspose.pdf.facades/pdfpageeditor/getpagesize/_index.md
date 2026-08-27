@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.GetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfPageEditor. Mengembalikan ukuran halaman dari halaman yang ditentukan
+title: "PdfPageEditor.GetPageSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfPageEditor. Mengembalikan ukuran halaman dari halaman yang ditentukan"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/pdfpageeditor/getpagesize/
 ---
-## Metode PdfPageEditor.GetPageSize
+## PdfPageEditor.GetPageSize method
 
 Mengembalikan ukuran halaman dari halaman yang ditentukan.
 
@@ -16,9 +16,9 @@ public PageSize GetPageSize(int page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Indeks halaman. Halaman dokumen diberi nomor mulai dari 1. |
+| halaman | Int32 | Indeks halaman. Halaman dokumen diberi nomor mulai dari 1. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Hasil adalah instance dari PageSize. Gunakan properti Width dan Height dari objek yang dikembalikan untuk mendapatkan lebar dan tinggi halaman.
 
@@ -35,7 +35,9 @@ Console.WriteLine("Size of 1st page : " + size.Width + " x " + size.Height);
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [PdfPageEditor](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

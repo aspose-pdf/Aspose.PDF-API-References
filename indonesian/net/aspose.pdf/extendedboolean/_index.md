@@ -1,14 +1,14 @@
 ---
-title: Enum ExtendedBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExtendedBoolean enum. Mewakili tipe boolean yang mendukung nilai Tidak Terdefinisi
+title: "Enum ExtendedBoolean"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.ExtendedBoolean. Mewakili tipe boolean yang mendukung nilai Undefined."
 type: docs
-weight: 4120
+weight: 4240
 url: /id/net/aspose.pdf/extendedboolean/
 ---
-## Enumerasi ExtendedBoolean
+## ExtendedBoolean enumeration
 
-Mewakili tipe boolean yang mendukung nilai Tidak Terdefinisi.
+Mewakili tipe boolean yang mendukung nilai Undefined.
 
 ```csharp
 public enum ExtendedBoolean
@@ -18,11 +18,13 @@ public enum ExtendedBoolean
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Tidak Terdefinisi | `0` | Nilai Tidak Terdefinisi dari ExtendnedBoolean. |
-| Salah | `1` | Nilai Salah dari ExtendnedBoolean. |
-| Benar | `2` | Nilai Benar dari ExtendnedBoolean. |
+| Undefined | `0` | Nilai Undefined dari ExtendedBoolean. |
+| False | `1` | Nilai False dari ExtendedBoolean. |
+| True | `2` | Nilai True dari ExtendedBoolean. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

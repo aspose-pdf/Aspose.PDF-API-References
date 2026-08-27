@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.Update
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RichMediaAnnotation. Memperbarui data dengan parameter yang ditentukan
+title: "RichMediaAnnotation.Update"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RichMediaAnnotation. Memperbarui data dengan parameter yang ditentukan"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.annotations/richmediaannotation/update/
 ---
-## Metode RichMediaAnnotation.Update
+## RichMediaAnnotation.Update method
 
 Memperbarui data dengan parameter yang ditentukan.
 
@@ -16,6 +16,8 @@ public void Update()
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class CreateFineTuningJobResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.CreateFineTuningJobResponse. Mewakili respons dari endpoint Create Fine-Tuning Job
+title: "Kelas CreateFineTuningJobResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.AI.CreateFineTuningJobResponse kelas. Mewakili respons dari endpoint Create FineTuning Job."
 type: docs
-weight: 290
+weight: 300
 url: /id/net/aspose.pdf.ai/createfinetuningjobresponse/
 ---
 ## CreateFineTuningJobResponse class
@@ -14,28 +14,30 @@ Mewakili respons dari endpoint Create Fine-Tuning Job.
 public class CreateFineTuningJobResponse
 ```
 
-## Constructors
+## Konstruktor
 
-| Name | Description |
+| Nama | Deskripsi |
 | --- | --- |
 | [CreateFineTuningJobResponse](createfinetuningjobresponse/)() | Konstruktor default. |
 
-## Properties
+## Properti
 
-| Name | Description |
+| Nama | Deskripsi |
 | --- | --- |
-| [CreatedAt](../../aspose.pdf.ai/createfinetuningjobresponse/createdat/) { get; set; } | Mendapatkan atau menetapkan timestamp Unix (dalam detik) saat pekerjaan fine-tuning dibuat. |
-| [FineTunedModel](../../aspose.pdf.ai/createfinetuningjobresponse/finetunedmodel/) { get; set; } | Mendapatkan atau menetapkan nama model yang telah di-fine-tune, setelah selesai. |
-| [Id](../../aspose.pdf.ai/createfinetuningjobresponse/id/) { get; set; } | Mendapatkan atau menetapkan pengidentifikasi unik untuk pekerjaan fine-tuning. |
-| [Model](../../aspose.pdf.ai/createfinetuningjobresponse/model/) { get; set; } | Mendapatkan atau menetapkan model yang digunakan untuk pekerjaan fine-tuning. |
-| [Object](../../aspose.pdf.ai/createfinetuningjobresponse/object/) { get; set; } | Mendapatkan atau menetapkan tipe objek, yang selalu fine_tuning.job. |
-| [OrganizationId](../../aspose.pdf.ai/createfinetuningjobresponse/organizationid/) { get; set; } | Mendapatkan atau menetapkan organisasi yang memiliki pekerjaan fine-tuning. |
-| [ResultFiles](../../aspose.pdf.ai/createfinetuningjobresponse/resultfiles/) { get; set; } | Mendapatkan atau menetapkan daftar file hasil untuk pekerjaan fine-tuning. |
-| [Status](../../aspose.pdf.ai/createfinetuningjobresponse/status/) { get; set; } | Mendapatkan atau menetapkan status pekerjaan fine-tuning. |
-| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobresponse/trainingfile/) { get; set; } | Mendapatkan atau menetapkan ID file yang diunggah yang berisi data pelatihan. |
-| [ValidationFile](../../aspose.pdf.ai/createfinetuningjobresponse/validationfile/) { get; set; } | Mendapatkan atau menetapkan ID file yang diunggah yang berisi data validasi. |
+| [CreatedAt](../../aspose.pdf.ai/createfinetuningjobresponse/createdat/) { get; set; } | Mendapatkan atau mengatur cap waktu Unix (dalam detik) saat pekerjaan fine-tuning dibuat. |
+| [FineTunedModel](../../aspose.pdf.ai/createfinetuningjobresponse/finetunedmodel/) { get; set; } | Mendapatkan atau mengatur nama model yang telah di-fine-tune, setelah selesai. |
+| [Id](../../aspose.pdf.ai/createfinetuningjobresponse/id/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik untuk pekerjaan fine-tuning. |
+| [Model](../../aspose.pdf.ai/createfinetuningjobresponse/model/) { get; set; } | Mendapatkan atau mengatur model yang digunakan untuk pekerjaan fine-tuning. |
+| [Object](../../aspose.pdf.ai/createfinetuningjobresponse/object/) { get; set; } | Mendapatkan atau mengatur tipe objek, yang selalu fine_tuning.job. |
+| [OrganizationId](../../aspose.pdf.ai/createfinetuningjobresponse/organizationid/) { get; set; } | Mendapatkan atau mengatur organisasi yang memiliki pekerjaan fine-tuning. |
+| [ResultFiles](../../aspose.pdf.ai/createfinetuningjobresponse/resultfiles/) { get; set; } | Mendapatkan atau mengatur daftar file hasil untuk pekerjaan fine-tuning. |
+| [Status](../../aspose.pdf.ai/createfinetuningjobresponse/status/) { get; set; } | Mendapatkan atau mengatur status pekerjaan fine-tuning. |
+| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobresponse/trainingfile/) { get; set; } | Mendapatkan atau mengatur ID file yang diunggah yang berisi data pelatihan. |
+| [ValidationFile](../../aspose.pdf.ai/createfinetuningjobresponse/validationfile/) { get; set; } | Mendapatkan atau mengatur ID file yang diunggah yang berisi data validasi. |
 
-### See Also
+### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Position.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Position. Mendapatkan koordinat X dari objek
+title: "Position.XIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Position. Mengambil koordinat X dari objek."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/position/xindent/
 ---
-## Properti Position.XIndent
+## Position.XIndent property
 
 Mendapatkan koordinat X dari objek
 
@@ -16,6 +16,8 @@ public double XIndent { get; set; }
 
 ### Lihat Juga
 
-* kelas [Position](../)
+* class [Position](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

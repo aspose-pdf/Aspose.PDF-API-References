@@ -1,12 +1,12 @@
 ---
-title: Interface IEntityId
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.IEntityId. Mewakili entitas dengan ID
+title: "Antarmuka IEntityId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.IEntityId. Mewakili entitas dengan ID"
 type: docs
-weight: 490
+weight: 510
 url: /id/net/aspose.pdf.ai/ientityid/
 ---
-## Antarmuka IEntityId
+## IEntityId interface
 
 Mewakili entitas dengan ID.
 
@@ -18,9 +18,11 @@ public interface IEntityId
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Id](../../aspose.pdf.ai/ientityid/id/) { get; set; } | Mendapatkan atau menetapkan ID entitas. |
+| [Id](../../aspose.pdf.ai/ientityid/id/) { get; set; } | Mendapatkan atau mengatur ID entitas. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

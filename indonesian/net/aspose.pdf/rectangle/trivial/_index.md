@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Menginisialisasi rectangle sepele yaitu rectangle dengan posisi dan ukuran nol
+title: "Rectangle.Trivial"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Menginisialisasi persegi panjang trivial yaitu persegi panjang dengan posisi dan ukuran nol"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/rectangle/trivial/
 ---
-## Properti Rectangle.Trivial
+## Rectangle.Trivial property
 
-Menginisialisasi rectangle sepele yaitu rectangle dengan posisi dan ukuran nol.
+Menginisialisasi rectangle trivial, yaitu rectangle dengan posisi dan ukuran nol.
 
 ```csharp
 public static Rectangle Trivial { get; }
@@ -16,6 +16,8 @@ public static Rectangle Trivial { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

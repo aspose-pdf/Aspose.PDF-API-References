@@ -1,14 +1,14 @@
 ---
-title: Class TocGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.TocGenerator. Mewakili plugin TocGenerator Aspose.PDF
+title: "Kelas TocGenerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.TocGenerator. Mewakili plugin Aspose.PDF TocGenerator"
 type: docs
-weight: 9430
+weight: 9580
 url: /id/net/aspose.pdf.plugins/tocgenerator/
 ---
-## Kelas TocGenerator
+## TocGenerator class
 
-Mewakili plugin TocGenerator Aspose.PDF.
+Mewakili plugin Aspose.PDF TocGenerator.
 
 ```csharp
 public sealed class TocGenerator : IDisposable, IPlugin
@@ -24,7 +24,7 @@ public sealed class TocGenerator : IDisposable, IPlugin
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | Implementasi dari IDisposable. Sebenarnya, tidak diperlukan untuk TocGenerator. |
+| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | Implementasi IDisposable. Pada kenyataannya, tidak diperlukan untuk TocGenerator. |
 | [Process](../../aspose.pdf.plugins/tocgenerator/process/)(IPluginOptions) | Memulai pemrosesan PdfGenerator dengan parameter yang ditentukan. |
 
 ## Contoh
@@ -32,21 +32,23 @@ public sealed class TocGenerator : IDisposable, IPlugin
 Contoh ini menunjukkan cara menambahkan TOC ke file PDF.
 
 ```csharp
-// create TocGenerator
+// buat TocGenerator
 var generator = new TocGenerator();
-// create TocOptions object to set instructions
+// buat objek TocOptions untuk mengatur instruksi
 var opt = new TocOptions();
-// add input file paths
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// lakukan proses ekstraksi
 generator.Process(opt);
 ```
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

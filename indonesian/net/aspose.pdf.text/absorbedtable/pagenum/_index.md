@@ -1,12 +1,12 @@
 ---
-title: AbsorbedTable.PageNum
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AbsorbedTable. Mendapatkan nomor halaman yang berisi tabel ini
+title: "AbsorbedTable.PageNum"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AbsorbedTable. Mendapatkan nomor Page yang berisi tabel ini"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/absorbedtable/pagenum/
 ---
-## Properti AbsorbedTable.PageNum
+## AbsorbedTable.PageNum property
 
 Mendapatkan nomor halaman yang berisi tabel ini
 
@@ -16,6 +16,8 @@ public int PageNum { get; }
 
 ### Lihat Juga
 
-* kelas [AbsorbedTable](../)
+* class [AbsorbedTable](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

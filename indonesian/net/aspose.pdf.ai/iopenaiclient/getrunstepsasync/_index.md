@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunStepsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Mengambil daftar langkah untuk run tertentu dalam sebuah thread secara asinkron
+title: "IOpenAIClient.GetRunStepsAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode IOpenAIClient. Mengambil daftar langkah untuk run tertentu dalam thread secara asinkron"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.ai/iopenaiclient/getrunstepsasync/
 ---
-## Metode IOpenAIClient.GetRunStepsAsync
+## IOpenAIClient.GetRunStepsAsync method
 
-Mengambil daftar langkah untuk run tertentu dalam sebuah thread secara asinkron.
+Mengambil daftar langkah untuk run tertentu dalam sebuah thread secara asynchronous.
 
 ```csharp
 public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId, 
@@ -19,11 +19,11 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | threadId | String | ID dari thread yang berisi run. |
-| runId | String | ID dari run untuk mengambil langkah. |
+| runId | String | ID run yang akan diambil langkah-langkahnya. |
 | queryParameters | RunStepListQueryParameters | Parameter kueri opsional untuk memfilter daftar langkah run. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi daftar langkah run.
 
@@ -31,13 +31,15 @@ Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi daftar langkah r
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika run Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID run null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [RunStepListResponse](../../runsteplistresponse/)
-* kelas [RunStepListQueryParameters](../../runsteplistqueryparameters/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunStepListResponse](../../runsteplistresponse/)
+* class [RunStepListQueryParameters](../../runsteplistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

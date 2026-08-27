@@ -1,12 +1,12 @@
 ---
-title: XfdfReader.XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XfdfReader. Konstruktor default
+title: "XfdfReader.XfdfReader"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XfdfReader. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/xfdfreader/xfdfreader/
 ---
-## Konstruktor XfdfReader
+## XfdfReader constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public XfdfReader()
 
 ### Lihat Juga
 
-* kelas [XfdfReader](../)
+* class [XfdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

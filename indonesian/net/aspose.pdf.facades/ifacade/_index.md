@@ -1,14 +1,14 @@
 ---
-title: Interface IFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.Facades.IFacade. Antarmuka fasad umum yang mendefinisikan metode fasad umum
+title: "Antarmuka IFacade"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.Facades.IFacade. Antarmuka facade umum yang mendefinisikan metode facade umum."
 type: docs
-weight: 4360
+weight: 4480
 url: /id/net/aspose.pdf.facades/ifacade/
 ---
-## Antarmuka IFacade
+## IFacade interface
 
-Antarmuka fasad umum yang mendefinisikan metode fasad umum.
+Antarmuka facade umum yang mendefinisikan metode facade umum.
 
 ```csharp
 public interface IFacade : IDisposable
@@ -18,12 +18,14 @@ public interface IFacade : IDisposable
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf)(Dokumen) | Mengikat dokumen PDF untuk diedit. |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_1)(Aliran) | Mengikat dokumen PDF untuk diedit. |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_2)(string) | Mengikat dokumen PDF untuk diedit. |
-| [Close](../../aspose.pdf.facades/ifacade/close/)() | Membebaskan sumber daya yang terkait dengan fasad saat ini. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf)(Document) | Mengikat dokumen PDF untuk penyuntingan. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_1)(Stream) | Mengikat dokumen PDF untuk penyuntingan. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_2)(string) | Mengikat dokumen PDF untuk penyuntingan. |
+| [Close](../../aspose.pdf.facades/ifacade/close/)() | Melepaskan semua sumber daya yang terkait dengan facade saat ini. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

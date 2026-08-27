@@ -1,12 +1,12 @@
 ---
-title: ImageExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageExtractorOptions. Mengembalikan nama operasi
+title: "ImageExtractorOptions.OperationName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ImageExtractorOptions properti. Mengembalikan nama operasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/imageextractoroptions/operationname/
 ---
-## Properti ImageExtractorOptions.OperationName
+## ImageExtractorOptions.OperationName property
 
 Mengembalikan nama operasi.
 
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### Lihat Juga
 
-* kelas [ImageExtractorOptions](../)
+* class [ImageExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.UseTrimBottom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileSanitization. Memungkinkan untuk menghapus data setelah data pdf
+title: "PdfFileSanitization.UseTrimBottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileSanitization. Memungkinkan menghapus data setelah data pdf"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdffilesanitization/usetrimbottom/
 ---
-## Properti PdfFileSanitization.UseTrimBottom
+## PdfFileSanitization.UseTrimBottom property
 
 Memungkinkan untuk menghapus data setelah data pdf
 
@@ -16,6 +16,8 @@ public bool UseTrimBottom { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileSanitization](../)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

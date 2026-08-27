@@ -1,25 +1,27 @@
 ---
-title: Heading.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Heading. Kloning heading dengan semua segmen
+title: "Heading.CloneWithSegments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Heading. Menggandakan heading dengan semua segmen"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/heading/clonewithsegments/
 ---
-## Metode Heading.CloneWithSegments
+## Heading.CloneWithSegments method
 
-Kloning heading dengan semua segmen.
+Menggandakan heading dengan semua segmen.
 
 ```csharp
 public override object CloneWithSegments()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

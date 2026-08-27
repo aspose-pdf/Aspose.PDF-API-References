@@ -1,14 +1,14 @@
 ---
-title: Form.ImportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengimpor konten dari field dari file xfdfxml dan menempatkannya ke dalam pdf baru
+title: "Form.ImportXfdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengimpor konten bidang dari file xfdfxml dan menempatkannya ke PDF baru."
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.facades/form/importxfdf/
 ---
-## Metode Form.ImportXfdf
+## Form.ImportXfdf method
 
-Mengimpor konten dari field dari file xfdf(xml) dan menempatkannya ke dalam pdf baru.
+Mengimpor konten bidang dari file xfdf(xml) dan menaruhnya ke dalam pdf baru.
 
 ```csharp
 public void ImportXfdf(Stream inputXfdfStream)
@@ -16,7 +16,7 @@ public void ImportXfdf(Stream inputXfdfStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputXfdfStream | Stream | Aliran xfdf(xml) input. |
+| inputXfdfStream | Stream | Aliran xfdf(xml) masukan. |
 
 ## Contoh
 
@@ -30,6 +30,8 @@ form.Save();
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

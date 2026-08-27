@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetSignatureNames
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mendapatkan nama semua tanda tangan yang tidak kosong
+title: "PdfFileSignature.GetSignatureNames"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mendapatkan nama semua tanda tangan yang tidak kosong."
 type: docs
 weight: 210
 url: /id/net/aspose.pdf.facades/pdffilesignature/getsignaturenames/
 ---
-## Metode PdfFileSignature.GetSignatureNames
+## PdfFileSignature.GetSignatureNames method
 
 Mendapatkan nama semua tanda tangan yang tidak kosong.
 
@@ -16,11 +16,11 @@ public IList<SignatureName> GetSignatureNames(bool onlyActive = true)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| onlyActive | Boolean | jika true, hanya mengembalikan tanda tangan aktif; jika tidak, mengembalikan semua tanda tangan. |
+| onlyActive | Boolean | jika true, kembalikan hanya tanda tangan yang aktif; jika tidak, kembalikan semua tanda tangan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan IList&lt;SignatureName&gt;.
+Kembalikan IList&lt;SignatureName&gt;.
 
 ## Contoh
 
@@ -61,7 +61,9 @@ Console.WriteLine("totalvision:" + pdfSign.GetTotalRevision())
 
 ### Lihat Juga
 
-* kelas [SignatureName](../../signaturename/)
-* kelas [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacements
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacementAbsorber. Mendapatkan koleksi kejadian penempatan gambar yang disajikan dengan objek [`ImagePlacement`](../../imageplacement/).
+title: "ImagePlacementAbsorber.ImagePlacements"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ImagePlacementAbsorber property. Mendapatkan koleksi kejadian penempatan gambar yang disajikan dengan objek ImagePlacement"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/imageplacementabsorber/imageplacements/
 ---
-## Properti ImagePlacementAbsorber.ImagePlacements
+## ImagePlacementAbsorber.ImagePlacements property
 
-Mendapatkan koleksi kejadian penempatan gambar yang disajikan dengan objek [`ImagePlacement`](../../imageplacement/).
+Mendapatkan koleksi kejadian penempatan gambar yang disajikan dengan objek [`ImagePlacement`](../../imageplacement/)
 
 ```csharp
 public ImagePlacementCollection ImagePlacements { get; }
@@ -16,7 +16,9 @@ public ImagePlacementCollection ImagePlacements { get; }
 
 ### Lihat Juga
 
-* kelas [ImagePlacementCollection](../../imageplacementcollection/)
-* kelas [ImagePlacementAbsorber](../)
+* class [ImagePlacementCollection](../../imageplacementcollection/)
+* class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

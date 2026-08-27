@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestination.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ExplicitDestination. Mendapatkan nomor halaman tujuan
+title: "ExplicitDestination.PageNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ExplicitDestination property. Mendapatkan nomor halaman tujuan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/explicitdestination/pagenumber/
 ---
-## Properti ExplicitDestination.PageNumber
+## ExplicitDestination.PageNumber property
 
 Mendapatkan nomor halaman tujuan
 
@@ -16,6 +16,8 @@ public int PageNumber { get; }
 
 ### Lihat Juga
 
-* kelas [ExplicitDestination](../)
+* class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

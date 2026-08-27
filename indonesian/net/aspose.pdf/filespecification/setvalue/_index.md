@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FileSpecification. Mengatur parameter spesifik aplikasi
+title: "FileSpecification.SetValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileSpecification metode. Menetapkan parameter aplikasi spesifik"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf/filespecification/setvalue/
 ---
-## Metode FileSpecification.SetValue
+## FileSpecification.SetValue method
 
-Mengatur parameter spesifik aplikasi.
+Mengatur parameter khusus aplikasi.
 
 ```csharp
 public void SetValue(string key, string value)
@@ -16,11 +16,13 @@ public void SetValue(string key, string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Nama parameter. |
-| value | String | Nilai parameter baru. |
+| kunci | String | Nama parameter. |
+| nilai | String | Nilai parameter baru. |
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

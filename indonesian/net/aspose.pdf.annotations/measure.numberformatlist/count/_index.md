@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormatList.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberFormatList. Hitung jika item dalam daftar
+title: "Measure.NumberFormatList.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti NumberFormatList. Menghitung jumlah item dalam daftar"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/measure.numberformatlist/count/
 ---
-## Properti Measure.NumberFormatList.Count
+## Measure.NumberFormatList.Count property
 
-Hitung jika item dalam daftar.
+Hitung item dalam daftar.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [NumberFormatList](../)
+* class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

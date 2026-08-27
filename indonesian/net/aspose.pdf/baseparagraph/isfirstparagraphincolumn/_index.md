@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.IsFirstParagraphInColumn
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseParagraph. Mengambil atau mengatur nilai bool yang menunjukkan apakah paragraf ini akan berada di kolom berikutnya. Default adalah false. 
+title: "BaseParagraph.IsFirstParagraphInColumn"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BaseParagraph. Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf ini akan berada di kolom berikutnya. Nilai default adalah false untuk pembuatan pdf"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/
 ---
-## Properti BaseParagraph.IsFirstParagraphInColumn
+## BaseParagraph.IsFirstParagraphInColumn property
 
-Mengambil atau mengatur nilai bool yang menunjukkan apakah paragraf ini akan berada di kolom berikutnya. Default adalah false. (untuk generasi pdf)
+Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf ini akan berada di kolom berikutnya. Defaultnya false. (untuk pdf generation)
 
 ```csharp
 public bool IsFirstParagraphInColumn { get; set; }
@@ -16,6 +16,8 @@ public bool IsFirstParagraphInColumn { get; set; }
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../)
+* class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

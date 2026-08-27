@@ -1,12 +1,12 @@
 ---
-title: Center.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Center. Konstruktor default
+title: "Center.Center"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Center konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/center/center/
 ---
-## Konstruktor Center
+## Center constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Center()
 
 ### Lihat Juga
 
-* kelas [Center](../)
+* class [Center](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

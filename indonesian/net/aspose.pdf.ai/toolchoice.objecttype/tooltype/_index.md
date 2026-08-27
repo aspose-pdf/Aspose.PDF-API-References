@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.ObjectType.ToolType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ObjectType. Mendapatkan atau menetapkan jenis alat. Saat ini hanya fungsi yang didukung
+title: "ToolChoice.ObjectType.ToolType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ObjectType properti. Mendapatkan atau mengatur tipe alat. Saat ini hanya fungsi yang didukung"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/toolchoice.objecttype/tooltype/
 ---
-## Properti ToolChoice.ObjectType.ToolType
+## ToolChoice.ObjectType.ToolType property
 
-Mendapatkan atau menetapkan jenis alat. Saat ini, hanya fungsi yang didukung.
+Mendapatkan atau mengatur tipe alat. Saat ini, hanya fungsi yang didukung.
 
 ```csharp
 public string ToolType { get; set; }
@@ -16,6 +16,8 @@ public string ToolType { get; set; }
 
 ### Lihat Juga
 
-* kelas [ObjectType](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ObjectType](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

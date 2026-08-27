@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfBoolean. Mendapatkan nilai
+title: "CosPdfBoolean.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CosPdfBoolean. Mendapatkan nilai"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.dataeditor/cospdfboolean/value/
 ---
-## Properti CosPdfBoolean.Value
+## CosPdfBoolean.Value property
 
 Mendapatkan nilai.
 
@@ -14,12 +14,14 @@ Mendapatkan nilai.
 public bool Value { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Nilai.
+Nilai tersebut.
 
 ### Lihat Juga
 
-* kelas [CosPdfBoolean](../)
+* class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

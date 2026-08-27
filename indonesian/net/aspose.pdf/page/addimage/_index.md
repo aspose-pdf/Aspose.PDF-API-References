@@ -1,14 +1,14 @@
 ---
-title: Page.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Page. Menambahkan gambar ke halaman dan menempatkannya di tengah persegi panjang yang ditentukan sambil menyimpan proporsi gambar
+title: "Page.AddImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Menambahkan gambar ke halaman dan menempatkannya di tengah persegi panjang yang ditentukan sambil mempertahankan proporsi gambar."
 type: docs
 weight: 350
 url: /id/net/aspose.pdf/page/addimage/
 ---
 ## AddImage(Stream, Rectangle, Rectangle, bool) {#addimage}
 
-Menambahkan gambar ke halaman dan menempatkannya di tengah persegi panjang yang ditentukan sambil menyimpan proporsi gambar.
+Menambahkan gambar ke halaman dan menempatkannya di tengah persegi panjang yang ditentukan sambil mempertahankan proporsi gambar.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null, 
@@ -20,7 +20,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = n
 | imageStream | Stream | Aliran gambar. |
 | imageRect | Rectangle | Posisi gambar. |
 | bbox | Rectangle | Bbox gambar. |
-| autoAdjustRectangle | Boolean | Menyesuaikan gambar di tengah persegi panjang input. |
+| autoAdjustRectangle | Boolean | Sesuaikan gambar di tengah persegi panjang masukan. |
 
 ### Lihat Juga
 
@@ -33,7 +33,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = n
 
 ## AddImage(string, Stream, Rectangle, Rectangle) {#addimage_3}
 
-Menambahkan gambar yang dapat dicari ke halaman dan menempatkannya di tengah persegi panjang yang ditentukan sambil menyimpan proporsi gambar.
+Menambahkan gambar yang dapat dicari ke halaman dan menempatkannya di tengah persegi panjang yang ditentukan sambil mempertahankan proporsi gambar.
 
 ```csharp
 public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
@@ -41,7 +41,7 @@ public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Recta
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| hocr | String | Hocr gambar. |
+| hocr | String | hocr gambar. |
 | imageStream | Stream | Aliran gambar. |
 | imageRect | Rectangle | Posisi gambar. |
 | bbox | Rectangle | Bbox gambar. |
@@ -57,7 +57,7 @@ public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Recta
 
 ## AddImage(Stream, Rectangle, int, int, bool, Rectangle) {#addimage_1}
 
-Menambahkan gambar ke halaman dan menempatkannya tergantung pada posisi persegi panjang gambar.
+Menambahkan gambar pada halaman dan menempatkannya tergantung pada posisi persegi panjang gambar.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, 
@@ -67,10 +67,10 @@ public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, in
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | imageStream | Stream | Aliran gambar. |
-| imageRect | Rectangle | Posisi default gambar di halaman. |
+| imageRect | Rectangle | Posisi default gambar pada halaman. |
 | imageWidth | Int32 | Lebar gambar. |
 | imageHeight | Int32 | Tinggi gambar. |
-| saveImageProportions | Boolean | Jika flag diatur ke true maka gambar ditempatkan di posisi persegi panjang; jika tidak, ukuran persegi panjang menjadi sama dengan ukuran gambar. |
+| saveImageProportions | Boolean | Jika flag diatur ke true maka gambar ditempatkan pada posisi persegi panjang; jika tidak, ukuran persegi panjang menjadi sama dengan ukuran gambar. |
 | bbox | Rectangle | Bbox gambar. |
 
 ### Lihat Juga
@@ -84,7 +84,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, in
 
 ## AddImage(string, Rectangle) {#addimage_2}
 
-Menambahkan gambar ke halaman dan menempatkannya di tengah persegi panjang yang ditentukan sambil menyimpan proporsi gambar.
+Menambahkan gambar ke halaman dan menempatkannya di tengah persegi panjang yang ditentukan sambil mempertahankan proporsi gambar.
 
 ```csharp
 public void AddImage(string imagePath, Rectangle rectangle)
@@ -93,7 +93,7 @@ public void AddImage(string imagePath, Rectangle rectangle)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | imagePath | String | Jalur ke gambar. |
-| rectangle | Rectangle | Posisi gambar. |
+| persegi panjang | Rectangle | Posisi gambar. |
 
 ### Lihat Juga
 
@@ -101,3 +101,5 @@ public void AddImage(string imagePath, Rectangle rectangle)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

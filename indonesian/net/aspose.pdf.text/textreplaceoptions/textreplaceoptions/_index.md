@@ -1,7 +1,7 @@
 ---
-title: TextReplaceOptions.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextReplaceOptions. Menginisialisasi instance baru dari objek TextReplaceOptions untuk ruang lingkup yang ditentukan
+title: "TextReplaceOptions.TextReplaceOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextReplaceOptions. Menginisialisasi instance baru dari objek TextReplaceOptions untuk ruang lingkup yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/
@@ -16,7 +16,7 @@ public TextReplaceOptions(Scope scope)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| scope | Scope | Objek scope. |
+| ruang lingkup | Ruang Lingkup | Objek Ruang Lingkup. |
 
 ### Lihat Juga
 
@@ -29,7 +29,7 @@ public TextReplaceOptions(Scope scope)
 
 ## TextReplaceOptions(ReplaceAdjustment) {#constructor}
 
-Menginisialisasi instance baru dari objek [`TextReplaceOptions`](../) untuk tindakan penggantian yang ditentukan setelah penggantian.
+Menginisialisasi instance baru dari objek [`TextReplaceOptions`](../) untuk aksi setelah penggantian yang ditentukan.
 
 ```csharp
 public TextReplaceOptions(ReplaceAdjustment adjustment)
@@ -37,7 +37,7 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| adjustment | ReplaceAdjustment | Objek ReplaceAdjustment. |
+| penyesuaian | ReplaceAdjustment | Objek ReplaceAdjustment. |
 
 ### Lihat Juga
 
@@ -45,3 +45,5 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

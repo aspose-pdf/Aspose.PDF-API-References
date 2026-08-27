@@ -1,14 +1,14 @@
 ---
-title: Class FitRExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.FitRExplicitDestination. Mewakili tujuan eksplisit yang menampilkan halaman dengan kontennya diperbesar cukup untuk memenuhi persegi panjang yang ditentukan oleh koordinat kiri, bawah, kanan, dan atas sepenuhnya dalam jendela baik secara horizontal maupun vertikal. Jika faktor pembesaran horizontal dan vertikal yang diperlukan berbeda, gunakan yang lebih kecil dari keduanya, memusatkan persegi panjang dalam jendela di dimensi lainnya. Nilai null untuk parameter apa pun dapat mengakibatkan perilaku yang tidak terduga.
+title: "Kelas FitRExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.FitRExplicitDestination class. Mewakili tujuan eksplisit yang menampilkan halaman dengan isinya diperbesar cukup untuk menyesuaikan persegi panjang yang ditentukan oleh koordinat kiri, bawah, kanan, dan atas sepenuhnya dalam jendela baik secara horizontal maupun vertikal. Jika faktor pembesaran horizontal dan vertikal yang diperlukan berbeda, gunakan yang lebih kecil di antara keduanya dengan memusatkan persegi panjang dalam jendela pada dimensi lainnya. Nilai null untuk salah satu parameter dapat menghasilkan perilaku yang tidak dapat diprediksi."
 type: docs
-weight: 1780
+weight: 1870
 url: /id/net/aspose.pdf.annotations/fitrexplicitdestination/
 ---
-## Kelas FitRExplicitDestination
+## FitRExplicitDestination class
 
-Mewakili tujuan eksplisit yang menampilkan halaman dengan kontennya diperbesar cukup untuk memenuhi persegi panjang yang ditentukan oleh koordinat kiri, bawah, kanan, dan atas sepenuhnya dalam jendela baik secara horizontal maupun vertikal. Jika faktor pembesaran horizontal dan vertikal yang diperlukan berbeda, gunakan yang lebih kecil dari keduanya, memusatkan persegi panjang dalam jendela di dimensi lainnya. Nilai null untuk parameter apa pun dapat mengakibatkan perilaku yang tidak terduga.
+Merepresentasikan tujuan eksplisit yang menampilkan halaman dengan isinya diperbesar cukup untuk menyesuaikan persegi panjang yang ditentukan oleh koordinat kiri, bawah, kanan, dan atas sepenuhnya dalam jendela baik secara horizontal maupun vertikal. Jika faktor pembesaran horizontal dan vertikal yang diperlukan berbeda, gunakan yang lebih kecil di antara keduanya, dengan memusatkan persegi panjang dalam jendela pada dimensi lainnya. Nilai null untuk salah satu parameter dapat menghasilkan perilaku yang tidak dapat diprediksi.
 
 ```csharp
 public sealed class FitRExplicitDestination : ExplicitDestination
@@ -36,10 +36,12 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring/)() | Mengonversi status objek menjadi nilai string. Contoh: "1 FitR 100 200 300 400". |
+| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring/)() | Mengonversi keadaan objek menjadi nilai string. Contoh: "1 FitR 100 200 300 400". |
 
 ### Lihat Juga
 
-* kelas [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

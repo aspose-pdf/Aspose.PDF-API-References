@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.AddOnPage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicElement. Menambahkan elemen saat ini di halaman. Jika ada banyak elemen yang harus ditambahkan, lebih baik gunakan AddGraphics
+title: "GraphicElement.AddOnPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicElement. Menambahkan elemen saat ini pada halaman. Jika ada banyak elemen untuk ditambahkan, lebih baik gunakan AddGraphics"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.vector/graphicelement/addonpage/
 ---
-## Metode GraphicElement.AddOnPage
+## GraphicElement.AddOnPage method
 
-Menambahkan elemen saat ini di halaman. Jika ada banyak elemen yang harus ditambahkan, lebih baik gunakan [`AddGraphics`](../../../aspose.pdf/page/addgraphics/).
+Menambahkan elemen saat ini pada halaman. Jika ada banyak elemen yang akan ditambahkan, lebih baik gunakan [`AddGraphics`](../../../aspose.pdf/page/addgraphics/).
 
 ```csharp
 public virtual void AddOnPage(Page destination)
@@ -20,7 +20,9 @@ public virtual void AddOnPage(Page destination)
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [GraphicElement](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum AutoRotateMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Facades.AutoRotateMode. Arah rotasi saat dokumen dicetak
+title: "Enum AutoRotateMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.AutoRotateMode enum. Arah rotasi ketika dokumen dicetak"
 type: docs
-weight: 4160
+weight: 4280
 url: /id/net/aspose.pdf.facades/autorotatemode/
 ---
-## Enumerasi AutoRotateMode
+## AutoRotateMode enumeration
 
-Arah rotasi saat dokumen dicetak.
+Arah rotasi ketika document dicetak.
 
 ```csharp
 public enum AutoRotateMode
@@ -26,3 +26,5 @@ public enum AutoRotateMode
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

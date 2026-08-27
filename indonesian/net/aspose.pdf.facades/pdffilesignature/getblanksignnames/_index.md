@@ -1,25 +1,27 @@
 ---
-title: PdfFileSignature.GetBlankSignNames
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mendapatkan nama semua bidang tanda tangan kosong
+title: "PdfFileSignature.GetBlankSignNames"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mendapatkan nama semua bidang tanda tangan yang kosong"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.facades/pdffilesignature/getblanksignnames/
 ---
-## Metode PdfFileSignature.GetBlankSignNames
+## PdfFileSignature.GetBlankSignNames method
 
-Mendapatkan nama semua bidang tanda tangan kosong.
+Mendapatkan nama semua bidang tanda tangan yang kosong.
 
 ```csharp
 public IList<string> GetBlankSignNames()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Mengembalikan IList.
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

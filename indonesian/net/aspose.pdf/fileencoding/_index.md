@@ -1,14 +1,14 @@
 ---
-title: Enum FileEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.FileEncoding. Pengkodean file yang dilampirkan. Nilai yang mungkin Zip file dikompresi dengan ZIP None file tidak terkompresi
+title: "Enum FileEncoding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.FileEncoding enum. Pengkodean file yang dilampirkan. Nilai yang mungkin Zip file dikompresi dengan ZIP None file tidak dikompresi"
 type: docs
-weight: 4820
+weight: 4940
 url: /id/net/aspose.pdf/fileencoding/
 ---
-## Enumerasi FileEncoding
+## FileEncoding enumeration
 
-Pengkodean file yang dilampirkan. Nilai yang mungkin: Zip - file dikompresi dengan ZIP, None - file tidak terkompresi.
+Pengkodean file terlampir. Nilai yang mungkin: Zip - file dikompresi dengan ZIP, None - file tidak dikompresi.
 
 ```csharp
 public enum FileEncoding
@@ -18,10 +18,12 @@ public enum FileEncoding
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | File tidak terkompresi. |
+| None | `0` | File tidak dikompresi. |
 | Zip | `1` | File dikompresi dengan algoritma ZIP. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

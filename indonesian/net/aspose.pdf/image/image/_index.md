@@ -1,12 +1,12 @@
 ---
-title: Image.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Gambar. Konstruktor default
+title: "Image.Image"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Image. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/image/image/
 ---
-## Konstruktor Gambar
+## Image constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Image()
 
 ### Lihat Juga
 
-* kelas [Gambar](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

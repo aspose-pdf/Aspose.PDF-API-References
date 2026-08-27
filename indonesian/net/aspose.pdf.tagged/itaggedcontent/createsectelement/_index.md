@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateSectElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat SectElement
+title: "ITaggedContent.CreateSectElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat SectElement"
 type: docs
-weight: 260
+weight: 290
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createsectelement/
 ---
-## Metode ITaggedContent.CreateSectElement
+## ITaggedContent.CreateSectElement method
 
 Membuat [`SectElement`](../../../aspose.pdf.logicalstructure/sectelement/).
 
@@ -14,13 +14,15 @@ Membuat [`SectElement`](../../../aspose.pdf.logicalstructure/sectelement/).
 public SectElement CreateSectElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.PosBottomLeft
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp field. Posisi kiri bawah
+title: "PdfFileStamp.PosBottomLeft"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileStamp field. Posisi kiri bawah"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/pdffilestamp/posbottomleft/
@@ -19,3 +19,5 @@ public const int PosBottomLeft;
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

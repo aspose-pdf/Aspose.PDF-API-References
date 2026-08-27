@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpPdfAExtensionSchemaDescription. Mendapatkan deskripsi opsional
+title: "XmpPdfAExtensionSchemaDescription.Description"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpPdfAExtensionSchemaDescription. Mendapatkan deskripsi opsional"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/xmppdfaextensionschemadescription/description/
 ---
-## Properti XmpPdfAExtensionSchemaDescription.Deskripsi
+## XmpPdfAExtensionSchemaDescription.Description property
 
 Mendapatkan deskripsi opsional.
 
@@ -16,6 +16,8 @@ public string Description { get; }
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionSchemaDescription](../)
+* class [XmpPdfAExtensionSchemaDescription](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

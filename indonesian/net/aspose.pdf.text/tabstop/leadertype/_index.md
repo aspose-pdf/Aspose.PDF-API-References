@@ -1,14 +1,14 @@
 ---
-title: TabStop.LeaderType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TabStop. Mengambil atau mengatur enum TabLeaderType yang menunjukkan jenis pemimpin tab
+title: "TabStop.LeaderType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TabStop. Mengambil atau mengatur enum TabLeaderType yang menunjukkan tipe pemimpin tab"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/tabstop/leadertype/
 ---
-## Properti TabStop.LeaderType
+## TabStop.LeaderType property
 
-Mengambil atau mengatur enum [`TabLeaderType`](../../tableadertype/) yang menunjukkan jenis pemimpin tab.
+Mengambil atau mengatur enum [`TabLeaderType`](../../tableadertype/) yang menunjukkan tipe pemimpin tab.
 
 ```csharp
 public TabLeaderType LeaderType { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LeaderType { get; set; }
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

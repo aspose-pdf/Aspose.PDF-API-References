@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.NoCharacterBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextEditOptions. Mendapatkan atau mengatur mode yang mendefinisikan perilaku jika font tidak mengandung karakter yang diminta
+title: "TextEditOptions.NoCharacterBehavior"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextEditOptions. Mendapatkan atau mengatur mode yang menentukan perilaku bila font tidak mengandung karakter yang diminta"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/texteditoptions/nocharacterbehavior/
 ---
-## Properti TextEditOptions.NoCharacterBehavior
+## TextEditOptions.NoCharacterBehavior property
 
-Mendapatkan atau mengatur mode yang mendefinisikan perilaku jika font tidak mengandung karakter yang diminta.
+Mendapatkan atau mengatur mode yang menentukan perilaku bila font tidak mengandung karakter yang diminta.
 
 ```csharp
 public NoCharacterAction NoCharacterBehavior { get; set; }
@@ -20,3 +20,5 @@ public NoCharacterAction NoCharacterBehavior { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

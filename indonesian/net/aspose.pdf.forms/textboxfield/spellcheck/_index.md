@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextBoxField. Mengambil atau mengatur flag pemeriksaan ejaan untuk field. Jika true, field akan diperiksa ejaannya
+title: "TextBoxField.SpellCheck"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextBoxField properti. Mendapatkan atau mengatur flag spellcheck untuk bidang. Jika true, bidang akan diperiksa ejaan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/textboxfield/spellcheck/
 ---
-## Properti TextBoxField.SpellCheck
+## TextBoxField.SpellCheck property
 
-Mengambil atau mengatur flag pemeriksaan ejaan untuk field. Jika true, field akan diperiksa ejaannya.
+Mendapatkan atau mengatur flag pemeriksaan ejaan untuk bidang. Jika true, bidang akan diperiksa ejaannya.
 
 ```csharp
 public bool SpellCheck { get; set; }
@@ -16,6 +16,8 @@ public bool SpellCheck { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextBoxField](../)
+* class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

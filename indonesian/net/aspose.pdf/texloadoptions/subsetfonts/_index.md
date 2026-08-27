@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TeXLoadOptions. Mengambil/mengatur bendera yang menunjukkan apakah akan menyubset font dalam file output atau tidak
+title: "TeXLoadOptions.SubsetFonts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TeXLoadOptions. Mendapatkan/mengatur flag yang menunjukkan apakah font harus disubset dalam file output atau tidak"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/texloadoptions/subsetfonts/
 ---
-## Properti TeXLoadOptions.SubsetFonts
+## TeXLoadOptions.SubsetFonts property
 
-Mengambil/mengatur bendera yang menunjukkan apakah akan menyubset font dalam file output atau tidak.
+Mendapatkan/mengatur flag yang menunjukkan apakah melakukan subset font dalam file output atau tidak.
 
 ```csharp
 public bool SubsetFonts { get; set; }
@@ -16,6 +16,8 @@ public bool SubsetFonts { get; set; }
 
 ### Lihat Juga
 
-* kelas [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

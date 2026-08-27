@@ -1,25 +1,27 @@
 ---
-title: XfaParserOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XfaParserOptions. Mendapatkan atau mengatur ukuran halaman
+title: "XfaParserOptions.PageSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XfaParserOptions. Mendapatkan atau menetapkan ukuran halaman"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.xfaconverter/xfaparseroptions/pagesize/
 ---
-## Properti XfaParserOptions.PageSize
+## XfaParserOptions.PageSize property
 
-Mendapatkan atau mengatur ukuran halaman.
+Mendapatkan atau mengatur ukuran Page.
 
 ```csharp
 public SizeF PageSize { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Ukuran halaman.
 
 ### Lihat Juga
 
-* kelas [XfaParserOptions](../)
+* class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

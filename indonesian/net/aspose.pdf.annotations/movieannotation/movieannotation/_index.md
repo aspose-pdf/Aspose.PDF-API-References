@@ -1,7 +1,7 @@
 ---
-title: MovieAnnotation.MovieAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MovieAnnotation. Konstruktor untuk digunakan dengan Generator
+title: "MovieAnnotation.MovieAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MovieAnnotation. Konstruktor untuk digunakan dengan Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/movieannotation/movieannotation/
@@ -30,7 +30,7 @@ public MovieAnnotation(Document document, string movieFile)
 
 ## MovieAnnotation(Page, Rectangle, string) {#constructor_1}
 
-Membuat anotasi Suara baru di halaman yang ditentukan.
+Membuat anotasi Sound baru pada halaman yang ditentukan.
 
 ```csharp
 public MovieAnnotation(Page page, Rectangle rect, string movieFile)
@@ -38,9 +38,9 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, mendefinisikan lokasi anotasi di halaman. |
-| movieFile | String | File film yang akan diputar saat anotasi diaktifkan. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
+| movieFile | String | File film yang akan diputar ketika anotasi diaktifkan. |
 
 ### Lihat Juga
 
@@ -49,3 +49,5 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

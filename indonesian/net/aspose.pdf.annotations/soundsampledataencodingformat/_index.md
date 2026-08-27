@@ -1,14 +1,14 @@
 ---
-title: Enum SoundSampleDataEncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SoundSampleDataEncodingFormat dari Aspose.Pdf.Annotations. Format pengkodean untuk data sampel suara
+title: "Enum SoundSampleDataEncodingFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.SoundSampleDataEncodingFormat enum. Format enkoding untuk data contoh suara"
 type: docs
-weight: 2580
+weight: 2680
 url: /id/net/aspose.pdf.annotations/soundsampledataencodingformat/
 ---
-## Enumerasi SoundSampleDataEncodingFormat
+## SoundSampleDataEncodingFormat enumeration
 
-Format pengkodean untuk data sampel suara.
+Format enkoding untuk data contoh suara.
 
 ```csharp
 public enum SoundSampleDataEncodingFormat
@@ -18,12 +18,14 @@ public enum SoundSampleDataEncodingFormat
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Raw | `0` | Nilai yang tidak ditentukan atau tidak bertanda dalam rentang 0 hingga 2B - 1. |
-| Signed | `1` | Nilai komplement dua. |
-| muLaw | `2` | Sampel yang dikodekan dengan mu-law. |
-| ALaw | `3` | Sampel yang dikodekan dengan A-law. |
+| Raw | `0` | Nilai yang tidak ditentukan atau tak bertanda dalam rentang 0 hingga 2B - 1. |
+| Signed | `1` | Nilai komplemen dua. |
+| muLaw | `2` | Sampel yang dienkode Mu-law. |
+| ALaw | `3` | Sampel yang dienkode A-law. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

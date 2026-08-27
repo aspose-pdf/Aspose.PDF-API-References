@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.FillIn
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Memungkinkan pengisian formulir dalam file
+title: "DocumentPrivilege.FillIn"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Mengizinkan mengisi formulir dalam file"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/documentprivilege/fillin/
 ---
-## Properti DocumentPrivilege.FillIn
+## DocumentPrivilege.FillIn property
 
-Memungkinkan pengisian formulir dalam file.
+Mengizinkan pengisian formulir dalam file.
 
 ```csharp
 public static DocumentPrivilege FillIn { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege FillIn { get; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

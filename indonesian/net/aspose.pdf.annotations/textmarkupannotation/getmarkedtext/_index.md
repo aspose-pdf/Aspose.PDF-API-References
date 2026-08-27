@@ -1,25 +1,27 @@
 ---
-title: TextMarkupAnnotation.GetMarkedText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextMarkupAnnotation. Mengambil teks di bawah anotasi markup sebagai string
+title: "TextMarkupAnnotation.GetMarkedText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode TextMarkupAnnotation. Mendapatkan teks di bawah markup annotation sebagai string"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/
 ---
-## Metode TextMarkupAnnotation.GetMarkedText
+## TextMarkupAnnotation.GetMarkedText method
 
-Mengambil teks di bawah anotasi markup sebagai string.
+Mendapatkan teks di bawah anotasi markup sebagai string.
 
 ```csharp
 public string GetMarkedText()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-String yang berisi teks yang berada di bawah anotasi markup.
+String yang berisi teks yang berada di bawah markup annotation.
 
 ### Lihat Juga
 
-* kelas [TextMarkupAnnotation](../)
+* class [TextMarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

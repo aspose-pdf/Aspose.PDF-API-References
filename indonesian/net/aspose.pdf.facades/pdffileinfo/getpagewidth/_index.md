@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Mendapatkan lebar halaman yang ditentukan
+title: "PdfFileInfo.GetPageWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileInfo. Mengambil lebar halaman yang ditentukan"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.facades/pdffileinfo/getpagewidth/
 ---
-## Metode PdfFileInfo.GetPageWidth
+## PdfFileInfo.GetPageWidth method
 
-Mendapatkan lebar halaman yang ditentukan.
+Mengambil lebar halaman yang ditentukan.
 
 ```csharp
 public float GetPageWidth(int pageNum)
@@ -18,12 +18,14 @@ public float GetPageWidth(int pageNum)
 | --- | --- | --- |
 | pageNum | Int32 | Nomor halaman. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Lebar halaman.
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

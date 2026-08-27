@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageDevice. Mengambil atau mengatur jenis koordinat halaman Media/Kotak Potong. Nilai CropBox digunakan secara default
+title: "ImageDevice.CoordinateType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageDevice. Mendapatkan atau mengatur tipe koordinat halaman Media/Crop boxes. Nilai CropBox digunakan secara default"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.devices/imagedevice/coordinatetype/
 ---
-## Properti ImageDevice.CoordinateType
+## ImageDevice.CoordinateType property
 
-Mengambil atau mengatur jenis koordinat halaman (Media/Kotak Potong). Nilai CropBox digunakan secara default.
+Mendapatkan atau mengatur tipe koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default.
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }
@@ -20,3 +20,5 @@ public PageCoordinateType CoordinateType { get; set; }
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

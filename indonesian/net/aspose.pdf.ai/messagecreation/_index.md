@@ -1,12 +1,12 @@
 ---
-title: Class MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.MessageCreation. Mewakili pembuatan pesan dengan pengidentifikasi uniknya
+title: "Kelas MessageCreation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.MessageCreation. Mewakili pembuatan pesan dengan pengidentifikasi uniknya."
 type: docs
-weight: 800
+weight: 850
 url: /id/net/aspose.pdf.ai/messagecreation/
 ---
-## Kelas MessageCreation
+## MessageCreation class
 
 Mewakili pembuatan pesan dengan pengidentifikasi uniknya.
 
@@ -24,9 +24,11 @@ public class MessageCreation
 
 | Nama | Deskripsi |
 | --- | --- |
-| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik dari pesan. |
+| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik pesan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

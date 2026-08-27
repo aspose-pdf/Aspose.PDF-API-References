@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.CreateThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Membuat thread baru secara asinkron
+title: "IOpenAIClient.CreateThreadAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Membuat thread baru secara asinkron"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/iopenaiclient/createthreadasync/
 ---
-## Metode IOpenAIClient.CreateThreadAsync
+## IOpenAIClient.CreateThreadAsync method
 
 Membuat thread baru secara asinkron.
 
@@ -20,14 +20,16 @@ public Task<ThreadResponse> CreateThreadAsync(ThreadCreateRequest threadCreateRe
 | threadCreateRequest | ThreadCreateRequest | Objek permintaan yang berisi detail untuk membuat thread. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan thread.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan thread.
 
 ### Lihat Juga
 
-* kelas [ThreadResponse](../../threadresponse/)
-* kelas [ThreadCreateRequest](../../threadcreaterequest/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadResponse](../../threadresponse/)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

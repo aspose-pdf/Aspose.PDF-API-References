@@ -1,12 +1,12 @@
 ---
-title: Class PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PageDate. Mewakili format tanggal yang terdiri dari komponen hari, bulan, dan tahun
+title: "Kelas PageDate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.PageDate. Mewakili format tanggal yang terdiri dari komponen hari, bulan, dan tahun"
 type: docs
-weight: 8110
+weight: 8250
 url: /id/net/aspose.pdf/pagedate/
 ---
-## Kelas PageDate
+## PageDate class
 
 Mewakili format tanggal yang terdiri dari komponen hari, bulan, dan tahun.
 
@@ -24,10 +24,10 @@ public sealed class PageDate
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Day](../../aspose.pdf/pagedate/day/) { get; set; } | Mengambil atau menetapkan komponen hari dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini. |
-| [Delimiter](../../aspose.pdf/pagedate/delimiter/) { get; set; } | Mengambil atau menetapkan pemisah yang digunakan dalam format tanggal. Format tanggal akan diperbarui berdasarkan pemisah ini. |
-| [Month](../../aspose.pdf/pagedate/month/) { get; set; } | Mengambil atau menetapkan komponen bulan dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini. |
-| [Year](../../aspose.pdf/pagedate/year/) { get; set; } | Mengambil atau menetapkan komponen tahun dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini. |
+| [Day](../../aspose.pdf/pagedate/day/) { get; set; } | Mendapatkan atau mengatur komponen hari dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini. |
+| [Delimiter](../../aspose.pdf/pagedate/delimiter/) { get; set; } | Mendapatkan atau mengatur pemisah yang digunakan dalam format tanggal. Format tanggal akan diperbarui berdasarkan pemisah ini. |
+| [Month](../../aspose.pdf/pagedate/month/) { get; set; } | Mendapatkan atau mengatur komponen bulan dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini. |
+| [Year](../../aspose.pdf/pagedate/year/) { get; set; } | Mendapatkan atau mengatur komponen tahun dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini. |
 
 ## Metode
 
@@ -35,7 +35,7 @@ public sealed class PageDate
 | --- | --- |
 | [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | Mengembalikan string tanggal yang diformat berdasarkan format tanggal saat ini. |
 
-## Anggota Lainnya
+## Anggota Lain
 
 | Nama | Deskripsi |
 | --- | --- |
@@ -47,3 +47,5 @@ public sealed class PageDate
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

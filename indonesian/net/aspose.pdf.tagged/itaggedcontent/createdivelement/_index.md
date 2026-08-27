@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateDivElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat DivElement
+title: "ITaggedContent.CreateDivElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat DivElement"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createdivelement/
 ---
-## Metode ITaggedContent.CreateDivElement
+## ITaggedContent.CreateDivElement method
 
 Membuat [`DivElement`](../../../aspose.pdf.logicalstructure/divelement/).
 
@@ -14,13 +14,15 @@ Membuat [`DivElement`](../../../aspose.pdf.logicalstructure/divelement/).
 public DivElement CreateDivElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [DivElement](../../../aspose.pdf.logicalstructure/divelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [DivElement](../../../aspose.pdf.logicalstructure/divelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

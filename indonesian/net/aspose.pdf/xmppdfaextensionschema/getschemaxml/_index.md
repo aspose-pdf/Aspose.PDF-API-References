@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.GetSchemaXml
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpPdfAExtensionSchema. Mengembalikan tag elemen xml li yang mewakili skema dalam pohon xml
+title: "XmpPdfAExtensionSchema.GetSchemaXml"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XmpPdfAExtensionSchema metode. Mengembalikan tag elemen xml  li yang mewakili skema dalam pohon xml"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 ---
-## Metode XmpPdfAExtensionSchema.GetSchemaXml
+## XmpPdfAExtensionSchema.GetSchemaXml method
 
 Mengembalikan elemen xml (tag - li) yang mewakili skema dalam pohon xml.
 
@@ -18,12 +18,14 @@ public XmlElement GetSchemaXml(XmlDocument xmlDocument)
 | --- | --- | --- |
 | xmlDocument | XmlDocument | Dokumen xml sumber. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Elemen xml.
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

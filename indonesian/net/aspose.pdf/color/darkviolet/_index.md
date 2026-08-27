@@ -1,12 +1,12 @@
 ---
-title: Color.DarkViolet
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF9400D3
+title: "Color.DarkViolet"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF9400D3"
 type: docs
 weight: 390
 url: /id/net/aspose.pdf/color/darkviolet/
 ---
-## Properti Color.DarkViolet
+## Color.DarkViolet property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF9400D3.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF9400D3.
 public static Color DarkViolet { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

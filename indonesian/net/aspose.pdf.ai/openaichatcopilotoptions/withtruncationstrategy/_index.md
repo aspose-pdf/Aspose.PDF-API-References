@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Mengatur strategi pemotongan untuk opsi copilot chat
+title: "OpenAIChatCopilotOptions.WithTruncationStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilotOptions. Menetapkan strategi pemotongan untuk opsi copilot obrolan"
 type: docs
-weight: 190
+weight: 200
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/withtruncationstrategy/
 ---
-## Metode OpenAIChatCopilotOptions.WithTruncationStrategy
+## OpenAIChatCopilotOptions.WithTruncationStrategy method
 
-Mengatur strategi pemotongan untuk opsi copilot chat.
+Mengatur strategi pemotongan untuk opsi copilot obrolan.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy truncationStrategy)
@@ -18,13 +18,15 @@ public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy trunca
 | --- | --- | --- |
 | truncationStrategy | TruncationStrategy | Strategi pemotongan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [TruncationStrategy](../../truncationstrategy/)
-* kelas [OpenAIChatCopilotOptions](../)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

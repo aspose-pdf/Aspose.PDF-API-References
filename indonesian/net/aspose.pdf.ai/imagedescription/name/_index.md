@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageDescription. Mendapatkan atau mengatur nama gambar
+title: "ImageDescription.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageDescription. Mendapatkan atau mengatur nama gambar"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/imagedescription/name/
 ---
-## Properti ImageDescription.Name
+## ImageDescription.Name property
 
 Mendapatkan atau mengatur nama gambar.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageDescription](../)
+* class [ImageDescription](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

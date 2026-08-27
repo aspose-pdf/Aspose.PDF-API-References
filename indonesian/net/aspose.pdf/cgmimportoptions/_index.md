@@ -1,14 +1,14 @@
 ---
-title: Class CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.CgmImportOptions. Opsi impor untuk impor dari format Computer Graphics MetafileCGM
+title: "Kelas CgmImportOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.CgmImportOptions class. Opsi impor untuk mengimpor dari format Computer Graphics MetafileCGM"
 type: docs
-weight: 3000
+weight: 3110
 url: /id/net/aspose.pdf/cgmimportoptions/
 ---
-## Kelas CgmImportOptions
+## CgmImportOptions class
 
-Opsi impor untuk impor dari format Computer Graphics Metafile(CGM).
+Opsi impor untuk mengimpor dari format Computer Graphics Metafile (CGM).
 
 ```csharp
 public class CgmImportOptions : ImportOptions
@@ -29,6 +29,8 @@ public class CgmImportOptions : ImportOptions
 
 ### Lihat Juga
 
-* kelas [ImportOptions](../importoptions/)
+* class [ImportOptions](../importoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

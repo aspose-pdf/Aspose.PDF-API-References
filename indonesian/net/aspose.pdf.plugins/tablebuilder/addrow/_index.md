@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableBuilder. Tambahkan baris baru ke tabel
+title: "TableBuilder.AddRow"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableBuilder. Tambahkan baris baru ke tabel"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/tablebuilder/addrow/
 ---
-## Metode TableBuilder.AddRow
+## TableBuilder.AddRow method
 
 Tambahkan baris baru ke tabel.
 
@@ -14,13 +14,15 @@ Tambahkan baris baru ke tabel.
 public virtual TableRowBuilder AddRow()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instansi dari [`TableRowBuilder`](../../tablerowbuilder/).
+Instansi dari [`TableRowBuilder`](../../tablerowbuilder/) saat ini.
 
 ### Lihat Juga
 
-* kelas [TableRowBuilder](../../tablerowbuilder/)
-* kelas [TableBuilder](../)
+* class [TableRowBuilder](../../tablerowbuilder/)
+* class [TableBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

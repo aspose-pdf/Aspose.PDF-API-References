@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFigureElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat FigureElement
+title: "ITaggedContent.CreateFigureElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat FigureElement"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createfigureelement/
 ---
-## Metode ITaggedContent.CreateFigureElement
+## ITaggedContent.CreateFigureElement method
 
 Membuat [`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement/).
 
@@ -14,13 +14,15 @@ Membuat [`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement/).
 public FigureElement CreateFigureElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

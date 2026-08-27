@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.StartingRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GradientRadialShading. Mendapatkan atau mengatur radius lingkaran awal
+title: "GradientRadialShading.StartingRadius"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GradientRadialShading. Mendapatkan atau mengatur radius lingkaran mulai"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.drawing/gradientradialshading/startingradius/
 ---
-## Properti GradientRadialShading.StartingRadius
+## GradientRadialShading.StartingRadius property
 
 Mendapatkan atau mengatur radius lingkaran awal.
 
@@ -16,6 +16,8 @@ public double StartingRadius { get; set; }
 
 ### Lihat Juga
 
-* kelas [GradientRadialShading](../)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

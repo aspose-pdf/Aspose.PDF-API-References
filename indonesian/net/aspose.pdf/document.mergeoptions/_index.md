@@ -1,12 +1,12 @@
 ---
-title: Class Document.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DocumentMergeOptions. Mewakili opsi untuk metode Merge
+title: "Kelas Document.MergeOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.DocumentMergeOptions. Mewakili opsi untuk metode Merge"
 type: docs
-weight: 3830
+weight: 3950
 url: /id/net/aspose.pdf/document.mergeoptions/
 ---
-## Kelas Document.MergeOptions
+## Document.MergeOptions class
 
 Mewakili opsi untuk metode Merge.
 
@@ -24,11 +24,13 @@ public class MergeOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Mendapatkan dan mengatur kebutuhan untuk penyeimbangan pohon halaman. Seluruh pohon halaman dalam dokumen yang dihasilkan akan diseimbangkan. Ini membuat pohon halaman yang seimbang untuk mempercepat akses halaman. |
-| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Mendapatkan dan mengatur jumlah maksimum node dalam level pohon halaman. Default adalah 10. |
+| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Mendapatkan dan mengatur kebutuhan penyeimbangan pohon Page. Seluruh pohon Page dalam dokumen hasil akan diseimbangkan kembali. Ini membuat pohon halaman yang seimbang untuk mempercepat akses halaman. |
+| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Mendapatkan dan mengatur maksimum node pada level pohon halaman. Nilai default adalah 10. |
 
 ### Lihat Juga
 
-* kelas [Document](../document/)
+* class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterExtraTransverse
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas ekstra transversal surat 9.275 in. x 12 in
+title: "PaperSizes.LetterExtraTransverse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. Kertas Letter extra transversal 9.275 in. x 12 in"
 type: docs
 weight: 670
 url: /id/net/aspose.pdf.printing/papersizes/letterextratransverse/
 ---
-## Bidang PaperSizes.LetterExtraTransverse
+## PaperSizes.LetterExtraTransverse field
 
-Kertas ekstra transversal surat (9.275 in. x 12 in.).
+Kertas melintang ekstra surat (9.275 in. x 12 in.).
 
 ```csharp
 public static readonly PaperSize LetterExtraTransverse;
@@ -16,7 +16,9 @@ public static readonly PaperSize LetterExtraTransverse;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

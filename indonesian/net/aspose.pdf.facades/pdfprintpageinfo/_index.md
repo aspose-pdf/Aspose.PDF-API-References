@@ -1,14 +1,14 @@
 ---
-title: Class PdfPrintPageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfPrintPageInfo. Mewakili objek yang berisi informasi halaman cetak saat ini
+title: "Kelas PdfPrintPageInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "kelas Aspose.Pdf.Facades.PdfPrintPageInfo. Mewakili objek yang berisi informasi halaman cetak saat ini."
 type: docs
-weight: 4600
+weight: 4720
 url: /id/net/aspose.pdf.facades/pdfprintpageinfo/
 ---
-## Kelas PdfPrintPageInfo
+## PdfPrintPageInfo class
 
-Mewakili objek yang berisi informasi halaman cetak saat ini.
+Mewakili objek yang berisi informasi halaman pencetakan saat ini.
 
 ```csharp
 public class PdfPrintPageInfo
@@ -24,3 +24,5 @@ public class PdfPrintPageInfo
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

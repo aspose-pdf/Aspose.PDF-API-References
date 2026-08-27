@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.FontUsedKey
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionErrorLocation. Nama kunci dari objek Font PDF yang digunakan untuk menunjukkan operator yang menyebabkan kesalahan ekstraksi teks
+title: "TextExtractionErrorLocation.FontUsedKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionErrorLocation. Nama kunci objek PDF Font yang digunakan untuk menampilkan operator yang menyebabkan kesalahan ekstraksi teks"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textextractionerrorlocation/fontusedkey/
 ---
-## Properti TextExtractionErrorLocation.FontUsedKey
+## TextExtractionErrorLocation.FontUsedKey property
 
-Kunci (nama) dari objek Font PDF yang digunakan untuk menunjukkan operator yang menyebabkan kesalahan ekstraksi teks.
+Kunci (nama) objek PDF Font yang digunakan untuk menampilkan operator yang menyebabkan kesalahan ekstraksi teks.
 
 ```csharp
 public string FontUsedKey { get; }
@@ -16,6 +16,8 @@ public string FontUsedKey { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionErrorLocation](../)
+* class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

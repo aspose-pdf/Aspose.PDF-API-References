@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompletionResponse. Mendapatkan atau mengatur statistik penggunaan untuk permintaan penyelesaian
+title: "CompletionResponse.Usage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CompletionResponse. Mendapatkan atau mengatur statistik penggunaan untuk permintaan penyelesaian"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.ai/completionresponse/usage/
 ---
-## Properti CompletionResponse.Usage
+## CompletionResponse.Usage property
 
 Mendapatkan atau mengatur statistik penggunaan untuk permintaan penyelesaian.
 
@@ -16,7 +16,9 @@ public Usage Usage { get; set; }
 
 ### Lihat Juga
 
-* kelas [Usage](../../usage/)
-* kelas [CompletionResponse](../)
+* class [Usage](../../usage/)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

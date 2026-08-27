@@ -1,12 +1,12 @@
 ---
-title: XmpField.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpField. Mendapatkan nilai sebagai array
+title: "XmpField.ToArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpField. Mengambil nilai sebagai array"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/xmpfield/toarray/
 ---
-## Metode XmpField.ToArray
+## XmpField.ToArray method
 
 Mendapatkan nilai sebagai array.
 
@@ -14,13 +14,15 @@ Mendapatkan nilai sebagai array.
 public XmpValue[] ToArray()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Array.
+Array tersebut.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../xmpvalue/)
-* kelas [XmpField](../)
+* class [XmpValue](../../xmpvalue/)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

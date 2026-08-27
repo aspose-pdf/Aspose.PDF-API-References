@@ -1,14 +1,14 @@
 ---
-title: AbsorbedRow.CompareTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AbsorbedRow. Membandingkan objek AbsorbedRow saat ini dengan objek AbsorbedRow lainnya dan mengembalikan integer yang menunjukkan apakah objek saat ini mendahului, mengikuti, atau berada pada posisi yang sama dalam urutan pengurutan seperti objek lainnya
+title: "AbsorbedRow.CompareTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AbsorbedRow. Membandingkan objek AbsorbedRow saat ini dengan objek AbsorbedRow lainnya dan mengembalikan integer yang menunjukkan apakah objek saat ini mendahului, mengikuti, atau berada pada posisi yang sama dalam urutan penyortiran dibandingkan dengan objek lainnya."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/absorbedrow/compareto/
 ---
-## Metode AbsorbedRow.CompareTo
+## AbsorbedRow.CompareTo method
 
-Membandingkan objek AbsorbedRow saat ini dengan objek AbsorbedRow lainnya dan mengembalikan integer yang menunjukkan apakah objek saat ini mendahului, mengikuti, atau berada pada posisi yang sama dalam urutan pengurutan seperti objek lainnya.
+Membandingkan objek AbsorbedRow saat ini dengan objek AbsorbedRow lain dan mengembalikan sebuah integer yang menunjukkan apakah objek saat ini mendahului, mengikuti, atau berada pada posisi yang sama dalam urutan penyortiran dibandingkan dengan objek lainnya.
 
 ```csharp
 public int CompareTo(AbsorbedRow other)
@@ -16,14 +16,16 @@ public int CompareTo(AbsorbedRow other)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| other | AbsorbedRow | Objek AbsorbedRow untuk dibandingkan dengan objek ini. |
+| lainnya | AbsorbedRow | Objek AbsorbedRow untuk dibandingkan dengan objek ini. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah nilai yang menunjukkan urutan relatif dari objek yang dibandingkan. Nilai kembali memiliki arti sebagai berikut: -1: Objek ini mendahului objek lainnya dalam urutan pengurutan. 0: Objek ini berada pada posisi yang sama dalam urutan pengurutan seperti objek lainnya. 1: Objek ini mengikuti objek lainnya dalam urutan pengurutan.
+Nilai yang menunjukkan urutan relatif dari objek-objek yang dibandingkan. Nilai kembali memiliki arti sebagai berikut: -1: Objek ini mendahului objek lain dalam urutan penyortiran. 0: Objek ini berada pada posisi yang sama dalam urutan penyortiran dengan objek lain. 1: Objek ini mengikuti objek lain dalam urutan penyortiran.
 
 ### Lihat Juga
 
-* kelas [AbsorbedRow](../)
+* class [AbsorbedRow](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FixedPrint.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FixedPrint. Mendapatkan atau mengatur nilai matriks
+title: "FixedPrint.Matrix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FixedPrint. Mendapatkan atau mengatur nilai matriks"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/fixedprint/matrix/
 ---
-## Properti FixedPrint.Matrix
+## FixedPrint.Matrix property
 
 Mendapatkan atau mengatur nilai matriks.
 
@@ -16,7 +16,9 @@ public Matrix Matrix { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix](../../../aspose.pdf/matrix/)
-* kelas [FixedPrint](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [FixedPrint](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

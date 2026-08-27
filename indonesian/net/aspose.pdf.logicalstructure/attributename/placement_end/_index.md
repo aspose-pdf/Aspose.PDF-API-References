@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_End
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Penempatan Akhir Atribut Ditempatkan sehingga tepi akhir dari persegi panjang alokasi elemen bertepatan dengan area referensi terdekat yang membungkus
+title: "AttributeName.Placement_End"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut Placement End  Ditempatkan sehingga tepi akhir dari persegi alokasi elemen bertepatan dengan tepi area referensi terdekat yang mengelilinginya"
 type: docs
 weight: 360
 url: /id/net/aspose.pdf.logicalstructure/attributename/placement_end/
 ---
-## Field AttributeName.Placement_End
+## AttributeName.Placement_End field
 
-Penempatan Atribut: Akhir - Ditempatkan sehingga tepi akhir dari persegi panjang alokasi elemen bertepatan dengan area referensi terdekat yang membungkus.
+Atribut Placement: End - Ditempatkan sehingga tepi akhir dari persegi alokasi elemen bertepatan dengan tepi area referensi terdekat yang membungkus.
 
 ```csharp
 public static readonly AttributeName Placement_End;
@@ -19,3 +19,5 @@ public static readonly AttributeName Placement_End;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

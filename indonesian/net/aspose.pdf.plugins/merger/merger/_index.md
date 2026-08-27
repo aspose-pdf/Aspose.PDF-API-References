@@ -1,12 +1,12 @@
 ---
-title: Merger.Merger
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Merger. Konstruktor default
+title: "Merger.Merger"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Merger konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/merger/merger/
 ---
-## Konstruktor Merger
+## Merger constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Merger()
 
 ### Lihat Juga
 
-* kelas [Merger](../)
+* class [Merger](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

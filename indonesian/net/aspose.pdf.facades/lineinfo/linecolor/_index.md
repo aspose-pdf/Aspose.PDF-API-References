@@ -1,12 +1,12 @@
 ---
-title: LineInfo.LineColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineInfo. Mendapatkan atau mengatur warna garis
+title: "LineInfo.LineColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LineInfo property. Mendapatkan atau menetapkan warna garis"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/lineinfo/linecolor/
 ---
-## Properti LineInfo.LineColor
+## LineInfo.LineColor property
 
 Mendapatkan atau mengatur warna garis.
 
@@ -16,6 +16,8 @@ public Color LineColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [LineInfo](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

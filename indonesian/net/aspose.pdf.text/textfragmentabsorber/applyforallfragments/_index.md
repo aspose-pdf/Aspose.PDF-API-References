@@ -1,20 +1,20 @@
 ---
-title: TextFragmentAbsorber.ApplyForAllFragments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentAbsorber. Menerapkan font untuk semua fragmen teks yang telah diserap. Ini bekerja lebih cepat daripada melakukan looping melalui fragmen jika semua fragmen di halaman telah diserap. Jika tidak, ini bekerja mirip dengan looping.
+title: "TextFragmentAbsorber.ApplyForAllFragments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentAbsorber. Menerapkan font untuk semua fragmen teks yang telah diserap. Ini bekerja lebih cepat daripada melakukan perulangan pada fragmen jika semua fragmen pada halaman telah diserap. Jika tidak, cara kerjanya serupa dengan perulangan."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/
 ---
 ## ApplyForAllFragments(Font) {#applyforallfragments}
 
-Menerapkan font untuk semua fragmen teks yang telah diserap. Ini bekerja lebih cepat daripada melakukan looping melalui fragmen jika semua fragmen di halaman telah diserap. Jika tidak, ini bekerja mirip dengan looping.
+Menerapkan font untuk semua fragmen teks yang diserap. Ini bekerja lebih cepat daripada mengulang melalui fragmen jika semua fragmen pada halaman(s) telah diserap. Jika tidak, ia bekerja serupa dengan pengulangan.
 
 ```csharp
 public void ApplyForAllFragments(Font font)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | font | Font | [`Font`](../../font/) dari teks. |
 
@@ -29,15 +29,15 @@ public void ApplyForAllFragments(Font font)
 
 ## ApplyForAllFragments(float) {#applyforallfragments_2}
 
-Menerapkan ukuran font untuk semua fragmen teks yang telah diserap. Ini bekerja lebih cepat daripada melakukan looping melalui fragmen jika semua fragmen di halaman telah diserap. Jika tidak, ini bekerja mirip dengan looping.
+Menerapkan ukuran font untuk semua fragmen teks yang diserap. Ini bekerja lebih cepat daripada mengulang melalui fragmen jika semua fragmen pada halaman(s) telah diserap. Jika tidak, ia bekerja serupa dengan pengulangan.
 
 ```csharp
 public void ApplyForAllFragments(float fontSize)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fontSize | Single | Ukuran font dari teks. |
+| fontSize | Single | Ukuran font teks. |
 
 ### Lihat Juga
 
@@ -49,16 +49,16 @@ public void ApplyForAllFragments(float fontSize)
 
 ## ApplyForAllFragments(Font, float) {#applyforallfragments_1}
 
-Menerapkan font dan ukuran untuk semua fragmen teks yang telah diserap. Ini bekerja lebih cepat daripada melakukan looping melalui fragmen jika semua fragmen di halaman telah diserap. Jika tidak, ini bekerja mirip dengan looping.
+Menerapkan font dan ukuran untuk semua fragmen teks yang diserap. Ini bekerja lebih cepat daripada mengulang melalui fragmen jika semua fragmen pada halaman(s) telah diserap. Jika tidak, ia bekerja serupa dengan pengulangan.
 
 ```csharp
 public void ApplyForAllFragments(Font font, float fontSize)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | font | Font | [`Font`](../../font/) dari teks. |
-| fontSize | Single | Ukuran font dari teks. |
+| fontSize | Single | Ukuran font teks. |
 
 ### Lihat Juga
 
@@ -66,3 +66,5 @@ public void ApplyForAllFragments(Font font, float fontSize)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

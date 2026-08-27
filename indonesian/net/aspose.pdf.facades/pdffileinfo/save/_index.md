@@ -1,7 +1,7 @@
 ---
-title: PdfFileInfo.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Menyimpan dokumen PDF ke file yang ditentukan
+title: "PdfFileInfo.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileInfo. Menyimpan dokumen PDF ke file yang ditentukan"
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.facades/pdffileinfo/save/
@@ -20,7 +20,7 @@ public override void Save(Stream destStream)
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,6 +40,8 @@ public override void Save(string destFile)
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

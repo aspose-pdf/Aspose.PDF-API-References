@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.AutoRotateMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfViewer. Mendapatkan atau mengatur nilai AutoRotateMode yang menunjukkan arah rotasi
+title: "PdfViewer.AutoRotateMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfViewer properti. Mendapatkan atau mengatur nilai AutoRotateMode yang menunjukkan arah rotasi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdfviewer/autorotatemode/
 ---
-## Properti PdfViewer.AutoRotateMode
+## PdfViewer.AutoRotateMode property
 
 Mendapatkan atau mengatur nilai AutoRotateMode yang menunjukkan arah rotasi
 
@@ -20,3 +20,5 @@ public AutoRotateMode AutoRotateMode { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

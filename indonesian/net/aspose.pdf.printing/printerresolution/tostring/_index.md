@@ -1,25 +1,27 @@
 ---
-title: PrinterResolution.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PrinterResolution. Menyediakan informasi menarik tentang PrinterResolution dalam bentuk String
+title: "PrinterResolution.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PrinterResolution metode. Menyediakan beberapa informasi menarik tentang PrinterResolution dalam bentuk String."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.printing/printerresolution/tostring/
 ---
-## Metode PrinterResolution.ToString
+## PrinterResolution.ToString method
 
-Menyediakan informasi menarik tentang PrinterResolution dalam bentuk String.
+Menyediakan beberapa informasi menarik tentang PrinterResolution dalam bentuk String.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String yang mewakili PrinterResolution.
 
 ### Lihat Juga
 
-* kelas [PrinterResolution](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

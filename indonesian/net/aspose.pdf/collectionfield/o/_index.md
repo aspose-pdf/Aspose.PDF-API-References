@@ -1,14 +1,14 @@
 ---
-title: CollectionField.O
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CollectionField. Mendapatkan urutan relatif dari nama field di antarmuka pengguna. Field harus diurutkan oleh pemroses PDF interaktif dalam urutan menaik
+title: "CollectionField.O"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CollectionField. Mendapatkan urutan relatif nama bidang dalam antarmuka pengguna. Bidang akan diurutkan oleh pemroses PDF interaktif secara naik"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/collectionfield/o/
 ---
-## Properti CollectionField.O
+## CollectionField.O property
 
-Mendapatkan urutan relatif dari nama field di antarmuka pengguna. Field harus diurutkan oleh pemroses PDF interaktif dalam urutan menaik.
+Mendapatkan urutan relatif nama bidang dalam antarmuka pengguna. Bidang-bidang akan diurutkan oleh pemroses PDF interaktif secara naik.
 
 ```csharp
 public int? O { get; }
@@ -16,6 +16,8 @@ public int? O { get; }
 
 ### Lihat Juga
 
-* kelas [CollectionField](../)
+* class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

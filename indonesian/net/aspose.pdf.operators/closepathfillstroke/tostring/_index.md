@@ -1,12 +1,12 @@
 ---
-title: ClosePathFillStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ClosePathFillStroke. Mengembalikan representasi string dari operator
+title: "ClosePathFillStroke.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ClosePathFillStroke. Mengembalikan representasi string dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/closepathfillstroke/tostring/
 ---
-## Metode ClosePathFillStroke.ToString
+## ClosePathFillStroke.ToString method
 
 Mengembalikan representasi string dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi string dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi string
 
 ### Lihat Juga
 
-* kelas [ClosePathFillStroke](../)
+* class [ClosePathFillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

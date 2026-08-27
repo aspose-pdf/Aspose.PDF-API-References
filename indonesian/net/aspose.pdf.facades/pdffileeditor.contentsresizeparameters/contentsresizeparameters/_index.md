@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentsResizeParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ContentsResizeParameters. Membuat parameter ukuran ulang di mana semua nilai diatur ke auto. Margins dan ukuran konten dapat ditentukan kemudian jika diperlukan
+title: "PdfFileEditor.ContentsResizeParameters.ContentsResizeParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ContentsResizeParameters. Membuat parameter resize di mana semua nilai diatur ke otomatis. Margin dan ukuran konten dapat ditentukan kemudian jika diperlukan."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/
 ---
 ## ContentsResizeParameters() {#constructor}
 
-Membuat parameter ukuran ulang di mana semua nilai diatur ke "auto". Margins dan ukuran konten dapat ditentukan kemudian jika diperlukan.
+Membuat parameter pengubahan ukuran di mana semua nilai diatur ke "auto". Margin dan ukuran konten kemudian dapat ditentukan jika diperlukan.
 
 ```csharp
 public ContentsResizeParameters()
@@ -16,7 +16,7 @@ public ContentsResizeParameters()
 
 ### Lihat Juga
 
-* kelas [ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public ContentsResizeParameters()
 
 ## ContentsResizeParameters(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) {#constructor_1}
 
-Membuat parameter ukuran ulang dengan nilai margin dan ukuran konten yang ditentukan.
+Membuat parameter pengubahan ukuran dengan nilai margin dan ukuran konten yang ditentukan.
 
 ```csharp
 public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeValue contentsWidth, 
@@ -43,7 +43,9 @@ public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeVa
 
 ### Lihat Juga
 
-* kelas [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
-* kelas [ContentsResizeParameters](../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

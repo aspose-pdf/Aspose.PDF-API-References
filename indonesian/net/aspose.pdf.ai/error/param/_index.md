@@ -1,12 +1,12 @@
 ---
-title: Error.Param
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Error. Mendapatkan atau mengatur nama parameter
+title: "Error.Param"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Error. Mendapatkan atau mengatur nama parameter"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/error/param/
 ---
-## Properti Error.Param
+## Error.Param property
 
 Mendapatkan atau mengatur nama parameter.
 
@@ -16,6 +16,8 @@ public string Param { get; set; }
 
 ### Lihat Juga
 
-* kelas [Error](../)
+* class [Error](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIAssistantCopilotOptionsBase. Mengambil atau mengatur suhu pengambilan sampel yang digunakan untuk model
+title: "OpenAIAssistantCopilotOptionsBase.Temperature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OpenAIAssistantCopilotOptionsBase. Mendapatkan atau mengatur suhu sampling yang digunakan untuk model"
 type: docs
-weight: 50
+weight: 40
 url: /id/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/
 ---
-## Properti OpenAIAssistantCopilotOptionsBase.Temperature
+## OpenAIAssistantCopilotOptionsBase.Temperature property
 
-Mengambil atau mengatur suhu pengambilan sampel yang digunakan untuk model.
+Mendapatkan atau mengatur suhu sampling yang akan digunakan untuk model.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -16,6 +16,8 @@ public double? Temperature { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIAssistantCopilotOptionsBase](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

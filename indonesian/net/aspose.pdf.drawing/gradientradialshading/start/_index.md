@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.Start
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GradientRadialShading. Mendapatkan atau mengatur titik pusat lingkaran awal
+title: "GradientRadialShading.Start"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GradientRadialShading. Mendapatkan atau mengatur titik pusat lingkaran mulai"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.drawing/gradientradialshading/start/
 ---
-## Properti GradientRadialShading.Start
+## GradientRadialShading.Start property
 
 Mendapatkan atau mengatur titik pusat lingkaran awal.
 
@@ -16,7 +16,9 @@ public Point Start { get; set; }
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [GradientRadialShading](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

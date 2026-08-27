@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.IncrementalUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Jika benar, pembaruan inkremental dilakukan selama penggabungan
+title: "PdfFileEditor.IncrementalUpdates"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Jika true, pembaruan inkremental dilakukan selama penggabungan."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdffileeditor/incrementalupdates/
 ---
-## Properti PdfFileEditor.IncrementalUpdates
+## PdfFileEditor.IncrementalUpdates property
 
-Jika benar, pembaruan inkremental dilakukan selama penggabungan.
+Jika true, pembaruan inkremental dilakukan selama penggabungan.
 
 ```csharp
 public bool IncrementalUpdates { get; set; }
@@ -16,6 +16,8 @@ public bool IncrementalUpdates { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

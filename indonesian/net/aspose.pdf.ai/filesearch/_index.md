@@ -1,12 +1,12 @@
 ---
-title: Class FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.FileSearch. Mewakili sumber daya alat pencarian file
+title: "Kelas FileSearch"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.AI.FileSearch kelas. Mewakili sumber daya alat pencarian file"
 type: docs
-weight: 410
+weight: 430
 url: /id/net/aspose.pdf.ai/filesearch/
 ---
-## Kelas FileSearch
+## FileSearch class
 
 Mewakili sumber daya alat pencarian file.
 
@@ -24,10 +24,12 @@ public class FileSearch
 
 | Nama | Deskripsi |
 | --- | --- |
-| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | Mendapatkan atau menetapkan ID dari penyimpanan vektor yang terpasang pada asisten ini. Maksimum ada 1 penyimpanan vektor yang terpasang pada asisten. |
-| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | Mendapatkan atau menetapkan pembantu untuk membuat penyimpanan vektor dengan file_ids dan melampirkannya ke utas ini. Maksimum ada 1 penyimpanan vektor yang terpasang pada utas. |
+| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | Mendapatkan atau mengatur ID dari vector store yang terlampir pada asisten ini. Dapat ada maksimum 1 vector store yang terlampir pada asisten. |
+| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | Mendapatkan atau mengatur helper untuk membuat vector store dengan file_ids dan melampirkannya ke thread ini. Dapat ada maksimum 1 vector store yang terlampir pada thread. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

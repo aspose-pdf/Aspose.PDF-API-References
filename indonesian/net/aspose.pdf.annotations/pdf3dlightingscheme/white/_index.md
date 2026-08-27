@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.White
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PDF3DLightingScheme. Skema pencahayaan Putih
+title: "PDF3DLightingScheme.White"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PDF3DLightingScheme. Skema pencahayaan Putih"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.annotations/pdf3dlightingscheme/white/
 ---
-## Bidang PDF3DLightingScheme.White
+## PDF3DLightingScheme.White field
 
-Skema pencahayaan "Putih".
+Skema pencahayaan "White".
 
 ```csharp
 public static PDF3DLightingScheme White;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme White;
 
 ### Lihat Juga
 
-* kelas [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

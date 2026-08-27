@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ContentsResizeParameters. Mendapatkan atau mengatur margin kanan pada halaman hasil
+title: "PdfFileEditor.ContentsResizeParameters.RightMargin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ContentsResizeParameters. Mendapatkan atau mengatur margin kanan pada halaman hasil"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/
@@ -20,3 +20,5 @@ public ContentsResizeValue RightMargin { get; set; }
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

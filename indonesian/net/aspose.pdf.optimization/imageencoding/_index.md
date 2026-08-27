@@ -1,14 +1,14 @@
 ---
-title: Enum ImageEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageEncoding Aspose.Pdf.Optimization. Jenis pengkodean gambar
+title: "Enum ImageEncoding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Optimization.ImageEncoding enum. Tipe encoding gambar."
 type: docs
-weight: 7970
+weight: 8110
 url: /id/net/aspose.pdf.optimization/imageencoding/
 ---
-## Enumerasi ImageEncoding
+## ImageEncoding enumeration
 
-Jenis pengkodean gambar.
+Jenis enkoding gambar.
 
 ```csharp
 public enum ImageEncoding
@@ -18,12 +18,14 @@ public enum ImageEncoding
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Unchanged | `0` | Jangan ubah pengkodean. |
-| Jpeg | `1` | Pengkodean JPEG (DCT). |
-| Flate | `2` | Pengkodean Flate. |
-| Jpeg2000 | `3` | Pengkodean JPEG2000 (JPX). |
+| Unchanged | `0` | Jangan ubah encoding. |
+| Jpeg | `1` | Encoding JPEG (DCT). |
+| Flate | `2` | Encoding Flate. |
+| Jpeg2000 | `3` | Encoding JPEG2000 (JPX). |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../)
+
+

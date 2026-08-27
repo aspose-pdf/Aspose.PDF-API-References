@@ -1,14 +1,14 @@
 ---
-title: Annotation.TextHorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mengambil atau mengatur perataan teks untuk anotasi
+title: "Annotation.TextHorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur perataan teks untuk anotasi"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.annotations/annotation/texthorizontalalignment/
 ---
-## Properti Annotation.TextHorizontalAlignment
+## Annotation.TextHorizontalAlignment property
 
-Mengambil atau mengatur perataan teks untuk anotasi.
+Mendapatkan atau mengatur perataan teks untuk anotasi.
 
 ```csharp
 public HorizontalAlignment TextHorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment TextHorizontalAlignment { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

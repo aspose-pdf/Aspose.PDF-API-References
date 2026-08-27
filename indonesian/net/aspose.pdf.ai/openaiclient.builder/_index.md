@@ -1,14 +1,14 @@
 ---
-title: Class OpenAIClient.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.OpenAIClientBuilder. Kelas Builder untuk membuat instance dari OpenAIClient
+title: "Kelas OpenAIClient.Builder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.OpenAIClientBuilder. Kelas Builder untuk membuat sebuah instance dari OpenAIClient"
 type: docs
-weight: 850
+weight: 910
 url: /id/net/aspose.pdf.ai/openaiclient.builder/
 ---
-## Kelas OpenAIClient.Builder
+## OpenAIClient.Builder class
 
-Kelas Builder untuk membuat instance dari [`OpenAIClient`](../openaiclient/).
+Kelas Builder untuk membuat sebuah instance dari [`OpenAIClient`](../openaiclient/).
 
 ```csharp
 public class Builder
@@ -18,20 +18,22 @@ public class Builder
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Builder](../../aspose.pdf.ai/openaiclient.builder/.ctor)(string) | Menginisialisasi instance baru dari kelas `Builder` dengan kunci API. |
+| [Builder](../../aspose.pdf.ai/openaiclient.builder/.ctor)(string) | Menginisialisasi sebuah instance baru dari kelas `Builder` dengan kunci API. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | Membangun dan mengembalikan instance dari [`OpenAIClient`](../openaiclient/) dengan opsi yang dikonfigurasi. |
-| [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) | Mengatur versi API untuk klien. |
-| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | Mengatur domain dasar untuk klien. |
-| [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) | Mengatur ID organisasi untuk klien. |
-| [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) | Mengatur ID proyek untuk klien. |
+| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | Membangun dan mengembalikan sebuah instance dari [`OpenAIClient`](../openaiclient/) dengan opsi yang dikonfigurasi. |
+| [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) | Menetapkan versi API untuk klien. |
+| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | Menetapkan domain dasar untuk klien. |
+| [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) | Menetapkan ID organisasi untuk klien. |
+| [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) | Menetapkan ID proyek untuk klien. |
 
 ### Lihat Juga
 
-* kelas [OpenAIClient](../openaiclient/)
+* class [OpenAIClient](../openaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

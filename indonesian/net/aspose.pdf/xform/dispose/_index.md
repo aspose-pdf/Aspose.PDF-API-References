@@ -1,12 +1,12 @@
 ---
-title: XForm.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XForm. Membebaskan memori
+title: "XForm.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XForm method. Membebaskan memori"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/xform/dispose/
 ---
-## Metode XForm.Dispose
+## XForm.Dispose method
 
 Membebaskan memori
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [XForm](../)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CollectionField.N
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CollectionField. Mendapatkan nama field tekstual yang akan ditampilkan kepada pengguna oleh pemroses PDF interaktif
+title: "CollectionField.N"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CollectionField. Mendapatkan nama bidang teks yang akan ditampilkan kepada pengguna oleh pemroses PDF interaktif"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/collectionfield/n/
 ---
-## Properti CollectionField.N
+## CollectionField.N property
 
-Mendapatkan nama field tekstual yang akan ditampilkan kepada pengguna oleh pemroses PDF interaktif
+Mendapatkan nama bidang teks yang akan ditampilkan kepada pengguna oleh pemroses PDF interaktif
 
 ```csharp
 public string N { get; }
@@ -16,6 +16,8 @@ public string N { get; }
 
 ### Lihat Juga
 
-* kelas [CollectionField](../)
+* class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

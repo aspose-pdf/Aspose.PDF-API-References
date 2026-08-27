@@ -1,25 +1,27 @@
 ---
-title: Color.LightSeaGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF20B2AA
+title: "Color.LightSeaGreen"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF20B2AA"
 type: docs
 weight: 730
 url: /id/net/aspose.pdf/color/lightseagreen/
 ---
-## Properti Color.LightSeaGreen
+## Color.LightSeaGreen property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF20B2AA.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FF20B2AA.
 
 ```csharp
 public static Color LightSeaGreen { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

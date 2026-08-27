@@ -1,14 +1,14 @@
 ---
-title: StrikeOutAnnotation.StrikeOutAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor StrikeOutAnnotation. Membuat anotasi StrikeOut baru di halaman yang ditentukan
+title: "StrikeOutAnnotation.StrikeOutAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor StrikeOutAnnotation. Membuat anotasi StrikeOut baru pada halaman yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/strikeoutannotation/strikeoutannotation/
 ---
-## Konstruktor StrikeOutAnnotation
+## StrikeOutAnnotation constructor
 
-Membuat anotasi StrikeOut baru di halaman yang ditentukan.
+Membuat anotasi StrikeOut baru pada halaman yang ditentukan.
 
 ```csharp
 public StrikeOutAnnotation(Page page, Rectangle rect)
@@ -16,8 +16,8 @@ public StrikeOutAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, yang mendefinisikan lokasi anotasi di halaman. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
 
 ### Lihat Juga
 
@@ -26,3 +26,5 @@ public StrikeOutAnnotation(Page page, Rectangle rect)
 * class [StrikeOutAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

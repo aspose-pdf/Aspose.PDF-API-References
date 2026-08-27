@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileEditor.CorruptedItem
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfFileEditorCorruptedItem. Kelas yang memberikan informasi tentang file yang rusak pada saat penggabungan
+title: "Kelas PdfFileEditor.CorruptedItem"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.PdfFileEditorCorruptedItem. Kelas yang menyediakan informasi tentang file yang rusak saat penggabungan."
 type: docs
-weight: 4500
+weight: 4620
 url: /id/net/aspose.pdf.facades/pdffileeditor.corrupteditem/
 ---
-## Kelas PdfFileEditor.CorruptedItem
+## PdfFileEditor.CorruptedItem class
 
-Kelas yang memberikan informasi tentang file yang rusak pada saat penggabungan.
+Kelas yang menyediakan informasi tentang file yang rusak saat penggabungan.
 
 ```csharp
 public class CorruptedItem
@@ -23,6 +23,8 @@ public class CorruptedItem
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../pdffileeditor/)
+* class [PdfFileEditor](../pdffileeditor/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

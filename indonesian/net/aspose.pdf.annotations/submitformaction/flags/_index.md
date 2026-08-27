@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SubmitFormAction. Mendapatkan atau mengatur flagas dari aksi pengiriman
+title: "SubmitFormAction.Flags"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SubmitFormAction. Mendapatkan atau mengatur flag aksi submit"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/submitformaction/flags/
 ---
-## Properti SubmitFormAction.Flags
+## SubmitFormAction.Flags property
 
-Mendapatkan atau mengatur flagas dari aksi pengiriman
+Mendapatkan atau mengatur flag aksi submit.
 
 ```csharp
 public int Flags { get; set; }
@@ -16,6 +16,8 @@ public int Flags { get; set; }
 
 ### Lihat Juga
 
-* kelas [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

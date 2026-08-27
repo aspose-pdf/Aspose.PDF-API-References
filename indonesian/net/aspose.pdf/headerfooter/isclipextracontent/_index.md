@@ -1,12 +1,12 @@
 ---
-title: HeaderFooter.IsClipExtraContent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HeaderFooter. Mendapatkan atau mengatur apakah memotong konten tambahan
+title: "HeaderFooter.IsClipExtraContent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti HeaderFooter. Mendapatkan atau mengatur apakah memotong konten ekstra"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/headerfooter/isclipextracontent/
 ---
-## Properti HeaderFooter.IsClipExtraContent
+## HeaderFooter.IsClipExtraContent property
 
 Mendapatkan atau mengatur apakah memotong konten tambahan.
 
@@ -16,6 +16,8 @@ public bool IsClipExtraContent { get; set; }
 
 ### Lihat Juga
 
-* kelas [HeaderFooter](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
-* kumpulan [Aspose.PDF](../../../)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

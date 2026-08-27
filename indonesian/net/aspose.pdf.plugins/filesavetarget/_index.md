@@ -1,12 +1,12 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FileSaveTarget. Mewakili target penyimpanan file untuk sebuah plugin
+title: "Kelas FileSaveTarget"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.FileSaveTarget. Menyatakan target penyimpanan file untuk sebuah plugin"
 type: docs
-weight: 8570
+weight: 8700
 url: /id/net/aspose.pdf.plugins/filesavetarget/
 ---
-## Kelas FileSaveTarget
+## FileSaveTarget class
 
 Mewakili target penyimpanan file untuk sebuah plugin.
 
@@ -25,10 +25,12 @@ public class FileSaveTarget : ISaveTarget
 | Nama | Deskripsi |
 | --- | --- |
 | [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | Mendapatkan jalur ke file dari target penyimpanan saat ini. |
-| [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | Tipe dari target penyimpanan (file). |
+| [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | Tipe target penyimpanan (file). |
 
 ### Lihat Juga
 
-* antarmuka [ISaveTarget](../isavetarget/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [ISaveTarget](../isavetarget/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

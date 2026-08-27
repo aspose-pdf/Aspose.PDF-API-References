@@ -1,14 +1,14 @@
 ---
-title: Annotation.Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan karakteristik anotasi
+title: "Annotation.Characteristics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan karakteristik anotasi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/annotation/characteristics/
 ---
-## Properti Annotation.Karakteristik
+## Annotation.Characteristics property
 
-Mendapatkan karakteristik anotasi.
+Mendapatkan karakteristik annotation.
 
 ```csharp
 public Characteristics Characteristics { get; }
@@ -16,7 +16,9 @@ public Characteristics Characteristics { get; }
 
 ### Lihat Juga
 
-* kelas [Karakteristik](../../characteristics/)
-* kelas [Anotasi](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Characteristics](../../characteristics/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

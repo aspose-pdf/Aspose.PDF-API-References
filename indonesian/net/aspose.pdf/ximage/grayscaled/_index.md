@@ -1,14 +1,14 @@
 ---
-title: XImage.Grayscaled
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XImage. Mendapatkan versi gambar yang diubah menjadi skala abu-abu
+title: "XImage.Grayscaled"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XImage. Mendapatkan versi gambar dalam skala abu-abu"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/ximage/grayscaled/
 ---
-## Properti XImage.Grayscaled
+## XImage.Grayscaled property
 
-Mendapatkan versi gambar yang diubah menjadi skala abu-abu.
+Mendapatkan versi gambar dalam skala abu-abu.
 
 ```csharp
 public Image Grayscaled { get; }
@@ -16,6 +16,8 @@ public Image Grayscaled { get; }
 
 ### Lihat Juga
 
-* kelas [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

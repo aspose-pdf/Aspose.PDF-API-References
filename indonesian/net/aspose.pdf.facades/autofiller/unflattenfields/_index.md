@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.UnFlattenFields
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AutoFiller. Menetapkan bidang yang tidak akan diratakan. Jika properti ini tidak diatur, semua bidang akan diratakan
+title: "AutoFiller.UnFlattenFields"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AutoFiller. Menetapkan bidang yang tidak akan diratakan. Jika properti ini tidak diatur, semua bidang akan diratakan."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/autofiller/unflattenfields/
 ---
-## Properti AutoFiller.UnFlattenFields
+## AutoFiller.UnFlattenFields property
 
-Menetapkan bidang yang tidak akan diratakan. Jika properti ini tidak diatur, semua bidang akan diratakan.
+Mengatur bidang yang tidak akan diratakan. Jika properti ini tidak diatur, semua bidang akan diratakan.
 
 ```csharp
 public string[] UnFlattenFields { set; }
@@ -16,6 +16,8 @@ public string[] UnFlattenFields { set; }
 
 ### Lihat Juga
 
-* kelas [AutoFiller](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

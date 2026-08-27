@@ -1,12 +1,12 @@
 ---
-title: Usage.CompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Properti penggunaan. Mendapatkan atau mengatur jumlah token dalam penyelesaian yang dihasilkan
+title: "Usage.CompletionTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Usage. Mendapatkan atau mengatur jumlah token dalam penyelesaian yang dihasilkan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/usage/completiontokens/
 ---
-## Properti Penggunaan.CompletionTokens
+## Usage.CompletionTokens property
 
 Mendapatkan atau mengatur jumlah token dalam penyelesaian yang dihasilkan.
 
@@ -16,6 +16,8 @@ public int CompletionTokens { get; set; }
 
 ### Lihat Juga
 
-* kelas [Penggunaan](../)
+* class [Usage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

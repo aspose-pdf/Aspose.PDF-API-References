@@ -1,14 +1,14 @@
 ---
-title: StampInfo.StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StampInfo. Mendapatkan gambar / bentuk jenis cap
+title: "StampInfo.StampType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StampInfo. Mendapatkan tipe stempel gambar / formulir"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/stampinfo/stamptype/
 ---
-## Properti StampInfo.StampType
+## StampInfo.StampType property
 
-Mendapatkan jenis cap (gambar / bentuk).
+Mendapatkan tipe stempel (gambar / formulir).
 
 ```csharp
 public StampType StampType { get; }
@@ -20,3 +20,5 @@ public StampType StampType { get; }
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

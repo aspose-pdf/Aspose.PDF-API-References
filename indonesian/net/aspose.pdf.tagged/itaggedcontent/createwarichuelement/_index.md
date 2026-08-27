@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateWarichuElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat WarichuElement
+title: "ITaggedContent.CreateWarichuElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat WarichuElement"
 type: docs
-weight: 370
+weight: 400
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
-## Metode ITaggedContent.CreateWarichuElement
+## ITaggedContent.CreateWarichuElement method
 
 Membuat [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/).
 
@@ -14,13 +14,15 @@ Membuat [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/)
 public WarichuElement CreateWarichuElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

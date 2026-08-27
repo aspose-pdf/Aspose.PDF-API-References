@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureTextState. Mendapatkan atau mengatur ukuran font dari teks
+title: "StructureTextState.FontSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureTextState. Mendapatkan atau mengatur ukuran font teks"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.logicalstructure/structuretextstate/fontsize/
 ---
-## Properti StructureTextState.FontSize
+## StructureTextState.FontSize property
 
-Mendapatkan atau mengatur ukuran font dari teks.
+Mendapatkan atau mengatur ukuran font teks.
 
 ```csharp
 public float? FontSize { get; set; }
 ```
 
-## Keterangan
+## Catatan
 
-Dapat bernilai null. Gunakan null untuk mewarisi properti `FontSize` dari elemen struktur induk.
+Bisa bernilai null. Gunakan null untuk mewarisi properti `FontSize` dari elemen struktur induk.
 
 ### Lihat Juga
 
-* kelas [StructureTextState](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfPrintPageInfo.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfPrintPageInfo. Mendapatkan nomor halaman yang sedang dicetak
+title: "PdfPrintPageInfo.PageNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfPrintPageInfo property. Mendapatkan nomor halaman yang sedang dicetak"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdfprintpageinfo/pagenumber/
 ---
-## Properti PdfPrintPageInfo.PageNumber
+## PdfPrintPageInfo.PageNumber property
 
 Mendapatkan nomor halaman yang sedang dicetak;
 
@@ -16,6 +16,8 @@ public int PageNumber { get; }
 
 ### Lihat Juga
 
-* kelas [PdfPrintPageInfo](../)
+* class [PdfPrintPageInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

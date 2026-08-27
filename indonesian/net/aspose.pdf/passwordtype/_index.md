@@ -1,14 +1,14 @@
 ---
-title: Enum PasswordType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.PasswordType. Enum ini mewakili jenis kata sandi yang dikenal digunakan untuk dokumen pdf yang dilindungi kata sandi
+title: "Enum PasswordType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.PasswordType. Enum ini mewakili jenis kata sandi yang diketahui yang digunakan untuk dokumen pdf yang dilindungi kata sandi."
 type: docs
-weight: 8290
+weight: 8430
 url: /id/net/aspose.pdf/passwordtype/
 ---
-## Enumerasi PasswordType
+## PasswordType enumeration
 
-Enum ini mewakili jenis kata sandi yang dikenal digunakan untuk dokumen pdf yang dilindungi kata sandi.
+Enum ini mewakili jenis kata sandi yang dikenal yang digunakan untuk dokumen pdf yang dilindungi kata sandi.
 
 ```csharp
 public enum PasswordType
@@ -18,12 +18,14 @@ public enum PasswordType
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Dokumen Pdf tidak dilindungi kata sandi. |
-| User | `1` | Dokumen Pdf dibuka menggunakan kata sandi buka dokumen (akses terbatas). |
-| Owner | `2` | Dokumen Pdf dibuka menggunakan kata sandi ubah izin (akses penuh). |
-| Inaccessible | `3` | Dokumen Pdf dilindungi kata sandi tetapi baik kata sandi pengguna maupun pemilik tidak kosong dan tidak ada kata sandi yang ditentukan atau kata sandi yang diberikan salah. Jadi tidak mungkin untuk menyimpulkan jenis kata sandi. |
+| None | `0` | Dokumen PDF tidak dilindungi kata sandi. |
+| User | `1` | Dokumen PDF dibuka menggunakan kata sandi pembukaan dokumen (akses terbatas). |
+| Owner | `2` | Dokumen PDF dibuka menggunakan kata sandi perubahan izin (akses penuh). |
+| Inaccessible | `3` | Dokumen PDF dilindungi kata sandi tetapi kata sandi pengguna dan pemilik tidak kosong dan tidak ada kata sandi yang didefinisikan atau kata sandi yang diberikan salah. Jadi tidak mungkin menentukan jenis kata sandi. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

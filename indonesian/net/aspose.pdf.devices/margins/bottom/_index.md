@@ -1,25 +1,27 @@
 ---
-title: Margins.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Margins. Mendapatkan atau mengatur bagian bawah
+title: "Margins.Bottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Margins. Mendapatkan atau mengatur nilai bawah"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.devices/margins/bottom/
 ---
-## Properti Margins.Bottom
+## Margins.Bottom property
 
-Mendapatkan atau mengatur bagian bawah.
+Mengambil atau mengatur bagian bawah.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Bagian bawah.
 
 ### Lihat Juga
 
-* kelas [Margins](../)
+* class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

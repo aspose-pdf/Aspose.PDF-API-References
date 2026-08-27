@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosSidesLeft
-second_title: Aspose.PDF for .NET API Reference
-description: Field PdfFileStamp. Posisi kiri
+title: "PdfFileStamp.PosSidesLeft"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileStamp field. Posisi kiri"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.facades/pdffilestamp/possidesleft/
 ---
-## Field PdfFileStamp.PosSidesLeft
+## PdfFileStamp.PosSidesLeft field
 
 Posisi kiri.
 
@@ -16,6 +16,8 @@ public const int PosSidesLeft;
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

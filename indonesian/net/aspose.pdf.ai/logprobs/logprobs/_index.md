@@ -1,12 +1,12 @@
 ---
-title: Logprobs.Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Logprobs. Konstruktor default
+title: "Logprobs.Logprobs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Logprobs. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/logprobs/logprobs/
 ---
-## Konstruktor Logprobs
+## Logprobs constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Logprobs()
 
 ### Lihat Juga
 
-* kelas [Logprobs](../)
+* class [Logprobs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

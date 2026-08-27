@@ -1,14 +1,14 @@
 ---
-title: Class Shape
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Drawing.Shape. Mewakili bentuk - objek grafik dasar
+title: "Kelas Shape"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Drawing.Shape. Mewakili bentuk objek grafis dasar"
 type: docs
-weight: 4000
+weight: 4120
 url: /id/net/aspose.pdf.drawing/shape/
 ---
-## Kelas Shape
+## Shape class
 
-Mewakili bentuk - objek grafik dasar.
+Mewakili bentuk - objek grafis dasar.
 
 ```csharp
 public abstract class Shape : IBoundsCheckableItem
@@ -18,7 +18,7 @@ public abstract class Shape : IBoundsCheckableItem
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau mengatur objek [`GraphInfo`](./graphinfo/) yang menunjukkan informasi grafik, seperti warna, lebar garis, dll. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau mengatur objek [`GraphInfo`](./graphinfo/) yang menunjukkan info grafik, seperti warna, lebar garis, dll. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Mendapatkan atau mengatur teks untuk bentuk |
 
 ## Metode
@@ -29,6 +29,8 @@ public abstract class Shape : IBoundsCheckableItem
 
 ### Lihat Juga
 
-* antarmuka [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
-* ruang nama [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* interface [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

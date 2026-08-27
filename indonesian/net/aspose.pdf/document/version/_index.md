@@ -1,12 +1,12 @@
 ---
-title: Document.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan versi Pdf dari header file Pdf
+title: "Document.Version"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan versi Pdf dari header file Pdf"
 type: docs
-weight: 530
+weight: 550
 url: /id/net/aspose.pdf/document/version/
 ---
-## Properti Document.Version
+## Document.Version property
 
 Mendapatkan versi Pdf dari header file Pdf.
 
@@ -16,6 +16,8 @@ public string Version { get; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

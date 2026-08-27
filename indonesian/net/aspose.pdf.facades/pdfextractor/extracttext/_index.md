@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Mengekstrak teks dari dokumen Pdf menggunakan pengkodean Unicode
+title: "PdfExtractor.ExtractText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Mengekstrak teks dari dokumen Pdf menggunakan enkoding Unicode."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/pdfextractor/extracttext/
 ---
 ## ExtractText() {#extracttext}
 
-Mengekstrak teks dari dokumen Pdf menggunakan pengkodean Unicode.
+Mengekstrak teks dari dokumen Pdf menggunakan enkoding Unicode.
 
 ```csharp
 public void ExtractText()
@@ -32,7 +32,7 @@ extractor.ExtractText()
 extractor.GetText("D:\Text\text.txt")
 ```
 
-Contoh kedua menunjukkan cara mengekstrak teks dari setiap halaman ke dalam satu file txt.
+Contoh kedua menunjukkan cara mengekstrak teks setiap halaman ke dalam satu file txt.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -63,7 +63,7 @@ End While
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ End While
 
 ## ExtractText(Encoding) {#extracttext_1}
 
-Mengekstrak teks dari dokumen Pdf menggunakan pengkodean yang ditentukan.
+Mengekstrak teks dari dokumen Pdf menggunakan enkoding yang ditentukan.
 
 ```csharp
 public void ExtractText(Encoding encoding)
@@ -79,7 +79,7 @@ public void ExtractText(Encoding encoding)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| encoding | Encoding | Pengkodean dari teks yang diekstrak. |
+| encoding | Enkoding | Enkoding teks yang diekstrak. |
 
 ## Contoh
 
@@ -99,7 +99,7 @@ extractor.ExtractText(Encoding.Unicode)
 extractor.GetText("D:\Text\text.txt")
 ```
 
-Contoh kedua menunjukkan cara mengekstrak teks dari setiap halaman ke dalam satu file txt.
+Contoh kedua menunjukkan cara mengekstrak teks setiap halaman ke dalam satu file txt.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -130,6 +130,8 @@ End While
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

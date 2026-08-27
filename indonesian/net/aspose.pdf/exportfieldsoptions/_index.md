@@ -1,12 +1,12 @@
 ---
-title: Class ExportFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.ExportFieldsOptions. Mewakili kelas dasar opsi untuk mengekspor bidang formulir
+title: "Kelas ExportFieldsOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.ExportFieldsOptions. Mewakili kelas dasar opsi untuk mengekspor bidang formulir."
 type: docs
-weight: 4100
+weight: 4220
 url: /id/net/aspose.pdf/exportfieldsoptions/
 ---
-## Kelas ExportFieldsOptions
+## ExportFieldsOptions class
 
 Mewakili kelas dasar opsi untuk mengekspor bidang formulir.
 
@@ -18,9 +18,11 @@ public abstract class ExportFieldsOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Mendapatkan atau menetapkan nilai yang menunjukkan apakah nilai kata sandi harus diekspor. |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah nilai kata sandi harus diekspor. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

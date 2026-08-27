@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Instructions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur instruksi yang digunakan asisten untuk run ini
+title: "RunResponse.Instructions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur instruksi yang digunakan asisten untuk run ini."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.ai/runresponse/instructions/
 ---
-## Properti RunResponse.Instructions
+## RunResponse.Instructions property
 
-Mendapatkan atau mengatur instruksi yang digunakan asisten untuk run ini.
+Menentukan atau mengatur instruksi yang digunakan asisten untuk run ini.
 
 ```csharp
 public string Instructions { get; set; }
@@ -16,6 +16,8 @@ public string Instructions { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TeXFileSystemInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXFileSystemInputDirectory. Mengembalikan stream untuk dibaca dari
+title: "TeXFileSystemInputDirectory.GetFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TeXFileSystemInputDirectory. Mengembalikan aliran untuk dibaca"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/texfilesysteminputdirectory/getfile/
 ---
-## Metode TeXFileSystemInputDirectory.GetFile
+## TeXFileSystemInputDirectory.GetFile method
 
-Mengembalikan stream untuk dibaca dari.
+Mengembalikan aliran untuk dibaca.
 
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
@@ -20,12 +20,14 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | fullName | String& | Nama file lengkap. |
 | searchSubdirectories | Boolean | Menunjukkan apakah akan mencari file di subdirektori. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Stream.
+Aliran.
 
 ### Lihat Juga
 
-* kelas [TeXFileSystemInputDirectory](../)
+* class [TeXFileSystemInputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

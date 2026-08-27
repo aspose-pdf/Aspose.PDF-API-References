@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormEditor. Mengatur atribut visual dari field
+title: "FormEditor.Facade"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormEditor property. Menetapkan atribut visual field"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/formeditor/facade/
 ---
-## Properti FormEditor.Facade
+## FormEditor.Facade property
 
-Mengatur atribut visual dari field.
+Mengatur atribut visual bidang.
 
 ```csharp
 public FormFieldFacade Facade { get; set; }
@@ -29,7 +29,9 @@ fe.Save();
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../../formfieldfacade/)
-* kelas [FormEditor](../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

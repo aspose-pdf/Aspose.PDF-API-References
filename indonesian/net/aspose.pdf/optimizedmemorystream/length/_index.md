@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.Length
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizedMemoryStream. Ketika dioverride dalam kelas turunan, mendapatkan panjang dalam byte dari stream
+title: "OptimizedMemoryStream.Length"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OptimizedMemoryStream property. Saat dioverride dalam kelas turunan, mendapatkan panjang dalam byte dari stream"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/optimizedmemorystream/length/
 ---
-## Properti OptimizedMemoryStream.Length
+## OptimizedMemoryStream.Length property
 
-Ketika dioverride dalam kelas turunan, mendapatkan panjang dalam byte dari stream.
+Saat dioverride dalam kelas turunan, mendapatkan panjang aliran dalam byte.
 
 ```csharp
 public override long Length { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah nilai long yang mewakili panjang stream dalam byte.
+Nilai long yang mewakili panjang stream dalam byte.
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

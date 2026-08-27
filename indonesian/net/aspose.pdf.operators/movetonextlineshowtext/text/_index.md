@@ -1,12 +1,12 @@
 ---
-title: MoveToNextLineShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MoveToNextLineShowText. Mendapatkan teks operator
+title: "MoveToNextLineShowText.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MoveToNextLineShowText. Mendapatkan teks operator"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/movetonextlineshowtext/text/
 ---
-## Properti MoveToNextLineShowText.Text
+## MoveToNextLineShowText.Text property
 
 Mendapatkan teks operator.
 
@@ -16,6 +16,8 @@ public override string Text { get; }
 
 ### Lihat Juga
 
-* kelas [MoveToNextLineShowText](../)
+* class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

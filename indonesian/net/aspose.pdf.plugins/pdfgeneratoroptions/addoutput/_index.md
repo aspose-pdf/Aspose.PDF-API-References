@@ -1,12 +1,12 @@
 ---
-title: PdfGeneratorOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfGeneratorOptions. Menambahkan sumber data baru ke koleksi data plugin PdfGenerator
+title: "PdfGeneratorOptions.AddOutput"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfGeneratorOptions. Menambahkan sumber data baru ke koleksi data plugin PdfGenerator"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.plugins/pdfgeneratoroptions/addoutput/
 ---
-## Metode PdfGeneratorOptions.AddOutput
+## PdfGeneratorOptions.AddOutput method
 
 Menambahkan sumber data baru ke koleksi data plugin PdfGenerator.
 
@@ -24,3 +24,5 @@ public void AddOutput(IDataSource saveDataSource)
 * class [PdfGeneratorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

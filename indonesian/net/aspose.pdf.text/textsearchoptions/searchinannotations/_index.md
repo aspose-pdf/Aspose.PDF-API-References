@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.SearchInAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextSearchOptions. Mendapatkan atau mengatur nilai yang mengizinkan pencarian teks dalam Anotasi. true - teks akan dicari dalam Anotasi. false - teks dalam Anotasi tidak akan diparsing oleh TextFragmentAbsorber
+title: "TextSearchOptions.SearchInAnnotations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextSearchOptions. Mendapatkan atau mengatur nilai yang memungkinkan pencarian teks dalam Annotations. true  teks akan dicari dalam Annotations. false  teks dalam Annotations tidak akan diproses oleh TextFragmentAbsorber"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.text/textsearchoptions/searchinannotations/
 ---
-## Properti TextSearchOptions.SearchInAnnotations
+## TextSearchOptions.SearchInAnnotations property
 
-Mendapatkan atau mengatur nilai yang mengizinkan pencarian teks dalam Anotasi. true - teks akan dicari dalam Anotasi. false - teks dalam Anotasi tidak akan diparsing oleh TextFragmentAbsorber.
+Mendapatkan atau mengatur nilai yang memungkinkan pencarian teks dalam Annotations. true - teks akan dicari dalam Annotations. false - teks dalam Annotations tidak akan diparse oleh TextFragmentAbsorber.
 
 ```csharp
 public bool SearchInAnnotations { get; set; }
@@ -16,6 +16,8 @@ public bool SearchInAnnotations { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextSearchOptions](../)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

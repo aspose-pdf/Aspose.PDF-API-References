@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupAnnotation. Mendapatkan atau mengatur teks yang akan ditampilkan di bilah judul anotasi
+title: "MarkupAnnotation.Title"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkupAnnotation. Mendapatkan atau mengatur label teks yang akan ditampilkan di bilah judul jendela popup anotasi saat terbuka dan aktif. Entri ini akan mengidentifikasi pengguna yang menambahkan anotasi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/markupannotation/title/
 ---
-## Properti MarkupAnnotation.Title
+## MarkupAnnotation.Title property
 
-Mendapatkan atau mengatur teks yang akan ditampilkan di bilah judul anotasi.
+Mendapatkan atau mengatur label teks yang akan ditampilkan di bilah judul jendela pop-up anotasi saat terbuka dan aktif. Entri ini harus mengidentifikasi pengguna yang menambahkan anotasi.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarkupAnnotation](../)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

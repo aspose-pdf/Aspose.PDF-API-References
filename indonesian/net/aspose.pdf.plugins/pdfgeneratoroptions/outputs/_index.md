@@ -1,14 +1,14 @@
 ---
-title: PdfGeneratorOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfGeneratorOptions. Mendapatkan koleksi target yang ditambahkan untuk hasil operasi penyimpanan
+title: "PdfGeneratorOptions.Outputs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfGeneratorOptions. Mengambil koleksi target yang ditambahkan untuk menyimpan hasil operasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdfgeneratoroptions/outputs/
 ---
-## Properti PdfGeneratorOptions.Outputs
+## PdfGeneratorOptions.Outputs property
 
-Mendapatkan koleksi target yang ditambahkan untuk hasil operasi penyimpanan.
+Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../../idatasource/)
-* kelas [PdfGeneratorOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* interface [IDataSource](../../idatasource/)
+* class [PdfGeneratorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

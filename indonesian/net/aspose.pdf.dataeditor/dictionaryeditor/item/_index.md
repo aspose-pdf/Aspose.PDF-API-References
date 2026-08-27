@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DictionaryEditor. Mendapatkan atau mengatur elemen dengan kunci yang ditentukan
+title: "DictionaryEditor.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "DictionaryEditor properti. Mendapatkan atau menetapkan elemen dengan kunci yang ditentukan."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/item/
 ---
-## Indeks DictionaryEditor
+## DictionaryEditor indexer
 
 Mendapatkan atau mengatur elemen dengan kunci yang ditentukan.
 
@@ -16,9 +16,9 @@ public ICosPdfPrimitive this[string key] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| key | Kunci elemen yang akan diambil atau diatur. |
+| kunci | Kunci elemen yang akan diambil atau ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Elemen dengan kunci yang ditentukan.
 
@@ -26,13 +26,15 @@ Elemen dengan kunci yang ditentukan.
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Kunci adalah null. |
+| ArgumentNullException | Kunci bernilai null. |
 | KeyNotFoundException | Properti diambil dan kunci tidak ditemukan. |
-| ArgumentException | Lempar pengecualian jika kunci tidak dapat diedit/diatur. |
+| ArgumentException | Lemparkan pengecualian jika kunci tidak dapat diedit/disetel. |
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../../icospdfprimitive/)
-* kelas [DictionaryEditor](../)
-* ruang nama [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LineInfo.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineInfo. Mengambil atau mengatur visibilitas sebuah garis
+title: "LineInfo.Visibility"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LineInfo property. Mendapatkan atau menetapkan visibilitas garis"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/lineinfo/visibility/
 ---
-## Properti LineInfo.Visibility
+## LineInfo.Visibility property
 
-Mengambil atau mengatur visibilitas sebuah garis.
+Mendapatkan atau mengatur visibilitas sebuah garis.
 
 ```csharp
 public bool Visibility { get; set; }
@@ -16,6 +16,8 @@ public bool Visibility { get; set; }
 
 ### Lihat Juga
 
-* kelas [LineInfo](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

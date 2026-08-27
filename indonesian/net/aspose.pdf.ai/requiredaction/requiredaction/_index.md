@@ -1,12 +1,12 @@
 ---
-title: RequiredAction.RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: RequiredAction constructor. The default constructor
+title: "RequiredAction.RequiredAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor RequiredAction. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/requiredaction/requiredaction/
 ---
-## Konstruktor RequiredAction
+## RequiredAction constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public RequiredAction()
 
 ### Lihat Juga
 
-* kelas [RequiredAction](../)
+* class [RequiredAction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

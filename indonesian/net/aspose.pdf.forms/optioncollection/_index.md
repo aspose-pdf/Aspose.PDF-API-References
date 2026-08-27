@@ -1,14 +1,14 @@
 ---
-title: Class OptionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Forms.OptionCollection. Kelas yang mewakili koleksi opsi dari bidang pilihan
+title: "Kelas OptionCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Forms.OptionCollection. Kelas yang mewakili koleksi opsi dari bidang pilihan"
 type: docs
-weight: 5160
+weight: 5280
 url: /id/net/aspose.pdf.forms/optioncollection/
 ---
-## Kelas OptionCollection
+## OptionCollection class
 
-Kelas yang mewakili koleksi opsi dari bidang pilihan.
+Kelas yang mewakili koleksi opsi bidang pilihan.
 
 ```csharp
 public sealed class OptionCollection : ICollection<Option>
@@ -19,7 +19,7 @@ public sealed class OptionCollection : ICollection<Option>
 | Nama | Deskripsi |
 | --- | --- |
 | [Count](../../aspose.pdf.forms/optioncollection/count/) { get; } | Mendapatkan jumlah opsi. |
-| [IsReadOnly](../../aspose.pdf.forms/optioncollection/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca. |
+| [IsReadOnly](../../aspose.pdf.forms/optioncollection/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan apakah koleksi hanya-baca. |
 | [IsSynchronized](../../aspose.pdf.forms/optioncollection/issynchronized/) { get; } | Mengembalikan true jika objek disinkronkan. |
 | [Item](../../aspose.pdf.forms/optioncollection/item/) { get; } | Mendapatkan opsi berdasarkan indeks. (2 pengindeks) |
 | [SyncRoot](../../aspose.pdf.forms/optioncollection/syncroot/) { get; } | Objek sinkronisasi dari koleksi. |
@@ -39,6 +39,8 @@ public sealed class OptionCollection : ICollection<Option>
 
 ### Lihat Juga
 
-* kelas [Option](../option/)
-* ruang nama [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* class [Option](../option/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

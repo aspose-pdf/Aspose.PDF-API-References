@@ -1,12 +1,12 @@
 ---
-title: Table.SetColumnTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Tabel. Atur tinggi
+title: "Table.SetColumnTextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Table. Mengatur tinggi"
 type: docs
 weight: 280
 url: /id/net/aspose.pdf/table/setcolumntextstate/
 ---
-## Metode Table.SetColumnTextState
+## Table.SetColumnTextState method
 
 Atur tinggi.
 
@@ -21,7 +21,9 @@ public void SetColumnTextState(int colNumber, TextState textState)
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [Tabel](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

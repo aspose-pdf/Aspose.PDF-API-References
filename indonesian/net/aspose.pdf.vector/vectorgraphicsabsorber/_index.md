@@ -1,12 +1,12 @@
 ---
-title: VectorGraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Mewakili objek penyerap elemen grafik vektor. Melakukan pencarian grafik vektor dan menyediakan akses ke hasil pencarian melalui koleksi [`SubPaths`](./subpaths).
+title: "VectorGraphicsAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mewakili objek penyerap elemen grafik vektor. Melakukan pencarian grafik vektor dan menyediakan akses ke hasil pencarian melalui koleksi SubPaths./vectorgraphicsabsorber/subpaths."
 type: docs
 weight: 8030
 url: /id/net/aspose.pdf.vector/vectorgraphicsabsorber/
 ---
-## Kelas VectorGraphicsAbsorber
+## VectorGraphicsAbsorber class
 
 Mewakili objek penyerap elemen grafik vektor. Melakukan pencarian grafik vektor dan menyediakan akses ke hasil pencarian melalui koleksi [`SubPaths`](./subpaths).
 

@@ -1,14 +1,14 @@
 ---
-title: SelectFont.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SelectFont. Menerima objek pengunjung untuk memproses operator
+title: "SelectFont.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SelectFont. Menerima objek pengunjung untuk memproses operator"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.operators/selectfont/accept/
 ---
-## Metode SelectFont.Accept
+## SelectFont.Accept method
 
-Menerima objek pengunjung untuk memproses operator.
+Menerima objek visitor untuk memproses operator.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -20,7 +20,9 @@ public override void Accept(IOperatorSelector visitor)
 
 ### Lihat Juga
 
-* antarmuka [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* kelas [SelectFont](../)
-* ruang nama [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfXmpMetadata. Menambahkan nilai ke metadata XMP
+title: "PdfXmpMetadata.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfXmpMetadata. Menambahkan nilai ke metadata XMP"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/add/
@@ -16,8 +16,8 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Nama kunci. |
-| value | XmpValue | Nilai yang akan ditambahkan. |
+| kunci | DefaultMetadataProperties | Nama kunci. |
+| nilai | XmpValue | Nilai yang akan ditambahkan. |
 
 ## Contoh
 
@@ -40,7 +40,7 @@ xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 
 ## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-Menambahkan field ekstensi ke dalam metadata.
+Menambahkan bidang ekstensi ke dalam metadata.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
@@ -50,9 +50,9 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | xmpPdfAExtensionObject | XmpPdfAExtensionObject | Objek ekstensi pdf yang akan ditambahkan. |
-| namespacePrefix | String | Prefiks skema. |
-| namespaceUri | String | URI namespace dari skema. |
-| schemaDescription | String | Deskripsi opsional dari skema. |
+| namespacePrefix | String | Awalan skema. |
+| namespaceUri | String | URI namespace skema. |
+| schemaDescription | String | Deskripsi opsional skema. |
 
 ### Lihat Juga
 
@@ -73,8 +73,8 @@ public void Add(string key, XmpValue value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci elemen baru. |
-| value | XmpValue | Nilai dari elemen. |
+| kunci | String | Kunci elemen baru. |
+| nilai | XmpValue | Nilai elemen. |
 
 ## Contoh
 
@@ -103,8 +103,8 @@ public void Add(string key, object value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci elemen baru. |
-| value | Object | Nilai dari elemen. |
+| kunci | String | Kunci elemen baru. |
+| nilai | Object | Nilai elemen. |
 
 ### Lihat Juga
 
@@ -116,7 +116,7 @@ public void Add(string key, object value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-Menambahkan pasangan dengan kunci dan nilai ke dalam kamus.
+Menambahkan pasangan kunci dan nilai ke dalam kamus.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
@@ -132,3 +132,5 @@ public void Add(KeyValuePair<string, XmpValue> item)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

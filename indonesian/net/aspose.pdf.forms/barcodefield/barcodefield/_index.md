@@ -1,7 +1,7 @@
 ---
-title: BarcodeField.BarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BarcodeField. Menginisialisasi instance baru dari kelas BarcodeField
+title: "BarcodeField.BarcodeField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor BarcodeField. Menginisialisasi instance baru dari kelas BarcodeField"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/barcodefield/barcodefield/
@@ -16,14 +16,14 @@ public BarcodeField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat menempatkan barcode baru. |
-| rect | Rectangle | Ukuran barcode yang diberikan dalam bentuk persegi panjang. |
+| halaman | Halaman | Halaman tempat menempatkan barcode baru. |
+| rect | Rectangle | Ukuran barcode diberikan dalam persegi panjang. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [BarcodeField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,13 +39,15 @@ public BarcodeField(Document doc, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field akan dibuat. |
-| rect | Rectangle | Persegi panjang tempat field akan ditempatkan di halaman. |
+| doc | Document | Document di mana bidang akan dibuat. |
+| rect | Rectangle | Rectangle di mana bidang akan ditempatkan pada halaman. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [BarcodeField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ReplaceTextStrategy.ReplaceScope
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ReplaceTextStrategy. Lingkup operasi penggantian mengganti kemunculan pertama atau mengganti semua kemunculan
+title: "ReplaceTextStrategy.ReplaceScope"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ReplaceTextStrategy. Lingkup operasi penggantian mengganti kemunculan pertama atau mengganti semua kemunculan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/replacetextstrategy/replacescope/
 ---
-## Properti ReplaceTextStrategy.ReplaceScope
+## ReplaceTextStrategy.ReplaceScope property
 
-Lingkup operasi penggantian (mengganti kemunculan pertama atau mengganti semua kemunculan).
+Lingkup operasi penggantian (ganti kemunculan pertama atau ganti semua kemunculan).
 
 ```csharp
 public Scope ReplaceScope { get; set; }
@@ -20,3 +20,5 @@ public Scope ReplaceScope { get; set; }
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

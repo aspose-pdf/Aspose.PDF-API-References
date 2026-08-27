@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.TrimTop
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSanitization. Menghapus data sebelum PDF
+title: "PdfFileSanitization.TrimTop"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSanitization. Menghapus data sebelum PDF"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdffilesanitization/trimtop/
 ---
-## Metode PdfFileSanitization.TrimTop
+## PdfFileSanitization.TrimTop method
 
 Menghapus data sebelum %PDF.
 
@@ -16,6 +16,8 @@ public void TrimTop()
 
 ### Lihat Juga
 
-* kelas [PdfFileSanitization](../)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.RemoveValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Hapus nilai kustom dari artefak
+title: "Artifact.RemoveValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Menghapus nilai khusus dari artifact"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf/artifact/removevalue/
 ---
-## Metode Artifact.RemoveValue
+## Artifact.RemoveValue method
 
-Hapus nilai kustom dari artefak.
+Hapus nilai khusus dari artefak.
 
 ```csharp
 public void RemoveValue(string name)
@@ -16,10 +16,12 @@ public void RemoveValue(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama nilai kustom yang akan dihapus. |
+| nama | String | Nama nilai khusus yang akan dihapus. |
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

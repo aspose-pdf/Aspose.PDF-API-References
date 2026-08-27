@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Gambar thumbnail terlihat
+title: "ViewerPreference.PageModeUseThumbs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Gambar thumbnail terlihat"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
 ---
-## Field ViewerPreference.PageModeUseThumbs
+## ViewerPreference.PageModeUseThumbs field
 
 Gambar thumbnail terlihat.
 
@@ -19,3 +19,5 @@ public const int PageModeUseThumbs;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

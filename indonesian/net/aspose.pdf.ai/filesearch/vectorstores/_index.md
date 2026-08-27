@@ -1,14 +1,14 @@
 ---
-title: FileSearch.VectorStores
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileSearch. Mengambil atau menetapkan pembantu untuk membuat penyimpanan vektor dengan file_ids dan melampirkannya ke utas ini. Maksimum ada 1 penyimpanan vektor yang dapat dilampirkan ke utas.
+title: "FileSearch.VectorStores"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FileSearch. Mendapatkan atau menetapkan pembantu untuk membuat penyimpanan vektor dengan file_ids dan melampirkannya ke thread ini. Maksimum dapat ada 1 penyimpanan vektor yang terlampir pada thread."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/filesearch/vectorstores/
 ---
-## Properti FileSearch.VectorStores
+## FileSearch.VectorStores property
 
-Mengambil atau menetapkan pembantu untuk membuat penyimpanan vektor dengan file_ids dan melampirkannya ke utas ini. Maksimum ada 1 penyimpanan vektor yang dapat dilampirkan ke utas ini.
+Mendapatkan atau mengatur helper untuk membuat vector store dengan file_ids dan melampirkannya ke thread ini. Dapat ada maksimum 1 vector store yang terlampir pada thread.
 
 ```csharp
 public List<VectorStore> VectorStores { get; set; }
@@ -16,7 +16,9 @@ public List<VectorStore> VectorStores { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStore](../../vectorstore/)
-* kelas [FileSearch](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStore](../../vectorstore/)
+* class [FileSearch](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

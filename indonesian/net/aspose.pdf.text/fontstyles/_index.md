@@ -1,12 +1,12 @@
 ---
-title: Enum FontStyles
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FontStyles Aspose.Pdf.Text. Menentukan informasi gaya yang diterapkan pada teks
+title: "Enum FontStyles"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Text.FontStyles. Menentukan informasi gaya yang diterapkan pada teks"
 type: docs
-weight: 10570
+weight: 10750
 url: /id/net/aspose.pdf.text/fontstyles/
 ---
-## Enumerasi FontStyles
+## FontStyles enumeration
 
 Menentukan informasi gaya yang diterapkan pada teks.
 
@@ -25,9 +25,11 @@ public enum FontStyles
 
 ## Catatan
 
-Enumerasi ini memiliki atribut FlagsAttribute yang memungkinkan kombinasi dari nilai anggotanya.
+Enum ini memiliki atribut FlagsAttribute yang memungkinkan kombinasi nilai anggotanya.
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

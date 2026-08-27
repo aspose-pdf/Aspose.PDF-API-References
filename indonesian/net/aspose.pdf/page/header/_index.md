@@ -1,26 +1,28 @@
 ---
-title: Page.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Properti halaman. Mengambil atau mengatur header halaman
+title: "Page.Header"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur header halaman."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/page/header/
 ---
-## Properti Page.Header
+## Page.Header property
 
-Mengambil atau mengatur header halaman.
+Mendapatkan atau mengatur header halaman.
 
 ```csharp
 public HeaderFooter Header { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Header halaman.
 
 ### Lihat Juga
 
-* kelas [HeaderFooter](../../headerfooter/)
-* kelas [Page](../)
+* class [HeaderFooter](../../headerfooter/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

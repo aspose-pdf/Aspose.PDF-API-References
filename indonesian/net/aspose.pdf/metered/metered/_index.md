@@ -1,12 +1,12 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Metered. Konstruktor default
+title: "Metered.Metered"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Metered. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/metered/metered/
 ---
-## Konstruktor Metered
+## Metered constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Metered()
 
 ### Lihat Juga
 
-* kelas [Metered](../)
+* class [Metered](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

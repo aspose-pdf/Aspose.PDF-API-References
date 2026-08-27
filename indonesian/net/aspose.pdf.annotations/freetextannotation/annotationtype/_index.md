@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FreeTextAnnotation. Mendapatkan jenis anotasi
+title: "FreeTextAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FreeTextAnnotation. Mendapatkan tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/freetextannotation/annotationtype/
 ---
-## Properti FreeTextAnnotation.AnnotationType
+## FreeTextAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

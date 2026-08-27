@@ -1,12 +1,12 @@
 ---
-title: OutputTextStyle.DeletedStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutputTextStyle. Dapatkan dan atur gaya teks untuk teks yang dihapus
+title: "OutputTextStyle.DeletedStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutputTextStyle. Dapatkan dan atur gaya teks untuk teks yang dihapus"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.comparison/outputtextstyle/deletedstyle/
 ---
-## Properti OutputTextStyle.DeletedStyle
+## OutputTextStyle.DeletedStyle property
 
 Dapatkan dan atur gaya teks untuk teks yang dihapus.
 
@@ -16,7 +16,9 @@ public TextStyle DeletedStyle { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStyle](../../textstyle/)
-* kelas [OutputTextStyle](../)
+* class [TextStyle](../../textstyle/)
+* class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Memotong ke persegi panjang
+title: "Rectangle.Intersect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Berpotongan dengan rectangle lain"
 type: docs
 weight: 210
 url: /id/net/aspose.pdf/rectangle/intersect/
 ---
-## Metode Rectangle.Intersect
+## Rectangle.Intersect method
 
-Memotong ke persegi panjang.
+Berpotongan dengan persegi panjang lain.
 
 ```csharp
 public Rectangle Intersect(Rectangle otherRect)
@@ -16,14 +16,16 @@ public Rectangle Intersect(Rectangle otherRect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| otherRect | Rectangle | Persegi panjang yang akan dipotong dengan persegi panjang ini. |
+| otherRect | Rectangle | Rectangle yang akan dipotong oleh rectangle ini. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Irisan dari persegi panjang; null jika persegi panjang tidak berpotongan.
+Interseksi rectangle; null jika rectangle tidak berpotongan.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

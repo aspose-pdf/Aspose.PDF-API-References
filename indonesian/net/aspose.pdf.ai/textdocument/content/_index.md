@@ -1,14 +1,14 @@
 ---
-title: TextDocument.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextDocument. Mengambil atau mengatur konten dari dokumen teks
+title: "TextDocument.Content"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextDocument. Mendapatkan atau mengatur konten dokumen teks."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/textdocument/content/
 ---
-## Properti TextDocument.Content
+## TextDocument.Content property
 
-Mengambil atau mengatur konten dari dokumen teks.
+Mendapatkan atau mengatur konten Document teks.
 
 ```csharp
 public string Content { get; set; }
@@ -16,6 +16,8 @@ public string Content { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextDocument](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfPageEditor. Menyimpan dokumen yang diubah ke dalam file
+title: "PdfPageEditor.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfPageEditor method. Menyimpan dokumen yang diubah ke dalam file"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/pdfpageeditor/save/
 ---
 ## Save(string) {#save_1}
 
-Menyimpan dokumen yang diubah ke dalam file.
+Menyimpan document yang diubah ke dalam file.
 
 ```csharp
 public override void Save(string outputFile)
@@ -31,7 +31,7 @@ editor.Save("newdocument.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,7 +39,7 @@ editor.Save("newdocument.pdf");
 
 ## Save(Stream) {#save}
 
-Menyimpan dokumen yang diubah ke dalam stream.
+Menyimpan document yang diubah ke dalam stream.
 
 ```csharp
 public override void Save(Stream outputStream)
@@ -62,6 +62,8 @@ editor.Save("newdocument.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

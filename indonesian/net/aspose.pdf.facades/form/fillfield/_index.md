@@ -1,40 +1,14 @@
 ---
-title: Form.FillField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengisi field dengan nilai yang valid sesuai dengan nama field yang sepenuhnya memenuhi syarat. Sebelum mengisi field, setiap nama field dan nilai valid yang sesuai harus diketahui. Baik nama field maupun nilai bersifat case sensitive. Harap dicatat bahwa Aspose.Pdf.Facades hanya mendukung nama field lengkap dan tidak berfungsi dengan nama field parsial, berbeda dengan Aspose.Pdf.Kit. Misalnya, jika field memiliki nama lengkap Form.Subform.TextField, Anda harus menentukan nama lengkap dan bukan TextField. Anda dapat menggunakan properti FieldNames untuk menjelajahi nama field yang ada dan mencari field yang diperlukan berdasarkan nama parsialnya.
+title: "Form.FillField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengisi bidang dengan nilai yang valid berdasarkan nama bidang yang sepenuhnya memenuhi syarat. Sebelum mengisi, semua nama bidang dan nilai valid yang sesuai harus diketahui. Baik nama bidang maupun nilai bersifat sensitif huruf. Harap dicatat bahwa Aspose.Pdf.Facades hanya mendukung nama bidang lengkap dan tidak berfungsi dengan nama bidang parsial, berbeda dengan Aspose.Pdf.Kit. Misalnya, jika bidang memiliki nama lengkap Form.Subform.TextField, Anda harus menentukan nama lengkap, bukan TextField. Anda dapat menggunakan properti FieldNames untuk menjelajahi nama bidang yang ada dan mencari bidang yang diperlukan berdasarkan nama parsialnya."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/form/fillfield/
 ---
-## FillField(string, string, bool) {#fillfield_3}
-
-Mengisi field dengan nilai yang ditentukan.
-
-```csharp
-public bool FillField(string fieldName, string value, bool fitFontSize)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| fieldName | String | Nama field |
-| value | String | Nilai baru dari field |
-| fitFontSize | Boolean | Jika true, ukuran font di kotak edit akan disesuaikan. |
-
-### Return Value
-
-true jika field ditemukan dan berhasil diisi.
-
-### Lihat Juga
-
-* kelas [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## FillField(string, string) {#fillfield_2}
 
-Mengisi field dengan nilai yang valid sesuai dengan nama field yang sepenuhnya memenuhi syarat. Sebelum mengisi field, setiap nama field dan nilai valid yang sesuai harus diketahui. Baik nama field maupun nilai bersifat case sensitive. Harap dicatat bahwa Aspose.Pdf.Facades hanya mendukung nama field lengkap dan tidak berfungsi dengan nama field parsial, berbeda dengan Aspose.Pdf.Kit; Misalnya, jika field memiliki nama lengkap "Form.Subform.TextField", Anda harus menentukan nama lengkap dan bukan "TextField". Anda dapat menggunakan properti FieldNames untuk menjelajahi nama field yang ada dan mencari field yang diperlukan berdasarkan nama parsialnya.
+Isi bidang dengan nilai yang valid sesuai dengan nama bidang yang sepenuhnya memenuhi syarat. Sebelum mengisi bidang, setiap nama bidang dan nilai valid yang sesuai harus diketahui. Baik nama bidang maupun nilai bersifat sensitif huruf. Harap perhatikan bahwa Aspose.Pdf.Facades mendukung hanya nama bidang lengkap dan tidak berfungsi dengan nama bidang parsial, berbeda dengan Aspose.Pdf.Kit; Misalnya jika bidang memiliki nama lengkap "Form.Subform.TextField" Anda harus menentukan nama lengkap dan bukan "TextField". Anda dapat menggunakan properti FieldNames untuk menjelajahi nama bidang yang ada dan mencari bidang yang diperlukan berdasarkan nama parsialnya.
 
 ```csharp
 public bool FillField(string fieldName, string fieldValue)
@@ -42,12 +16,12 @@ public bool FillField(string fieldName, string fieldValue)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang akan diisi. |
-| fieldValue | String | Nilai field yang harus merupakan nilai yang valid untuk beberapa field. |
+| fieldName | String | Nama bidang yang akan diisi. |
+| fieldValue | String | Nilai bidang yang harus merupakan nilai valid untuk beberapa bidang. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika field ditemukan dan berhasil diisi.
+true jika bidang ditemukan dan berhasil diisi.
 
 ## Contoh
 
@@ -58,7 +32,7 @@ form.FillField("LastName",  "Smith");
 ```
 
 ```csharp
-//how to search field by its partial name:
+//cara mencari bidang berdasarkan nama parsialnya:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -71,7 +45,7 @@ foreach(string fieldName in form.FieldNames)
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -79,7 +53,7 @@ foreach(string fieldName in form.FieldNames)
 
 ## FillField(string, int) {#fillfield_1}
 
-Mengisi field kotak radio dengan nilai indeks yang valid sesuai dengan nama field yang sepenuhnya memenuhi syarat. Sebelum mengisi field, hanya nama field yang harus diketahui. Sementara nilai dapat ditentukan berdasarkan indeksnya. Catatan: Hanya berlaku untuk field Radio Box, Combo Box, dan List Box. Harap dicatat bahwa Aspose.Pdf.Facades hanya mendukung nama field lengkap dan tidak berfungsi dengan nama field parsial, berbeda dengan Aspose.Pdf.Kit; Misalnya, jika field memiliki nama lengkap "Form.Subform.ListBoxField", Anda harus menentukan nama lengkap dan bukan "ListBoxField". Anda dapat menggunakan properti FieldNames untuk menjelajahi nama field yang ada dan mencari field yang diperlukan berdasarkan nama parsialnya.
+Isi bidang radio box dengan nilai indeks yang valid sesuai dengan nama bidang yang sepenuhnya memenuhi syarat. Sebelum mengisi bidang, hanya nama bidang yang harus diketahui. Nilai dapat ditentukan dengan indeksnya. Catatan: Hanya berlaku untuk bidang Radio Box, Combo Box, dan List Box. Harap perhatikan bahwa Aspose.Pdf.Facades mendukung hanya nama bidang lengkap dan tidak berfungsi dengan nama bidang parsial, berbeda dengan Aspose.Pdf.Kit; Misalnya jika bidang memiliki nama lengkap "Form.Subform.ListBoxField" Anda harus menentukan nama lengkap dan bukan "ListBoxField". Anda dapat menggunakan properti FieldNames untuk menjelajahi nama bidang yang ada dan mencari bidang yang diperlukan berdasarkan nama parsialnya.
 
 ```csharp
 public bool FillField(string fieldName, int index)
@@ -87,12 +61,12 @@ public bool FillField(string fieldName, int index)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang akan diisi. |
+| fieldName | String | Nama bidang yang akan diisi. |
 | index | Int32 | Indeks item yang dipilih. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika field ditemukan dan berhasil diisi.
+true jika bidang ditemukan dan berhasil diisi.
 
 ## Contoh
 
@@ -104,7 +78,7 @@ form.FillField("radiobuttonField", 2);
 ```
 
 ```csharp
-//how to search field by its partial name:
+//cara mencari bidang berdasarkan nama parsialnya:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -117,7 +91,7 @@ foreach(string fieldName in form.FieldNames)
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -125,7 +99,7 @@ foreach(string fieldName in form.FieldNames)
 
 ## FillField(string, bool) {#fillfield}
 
-Mengisi field kotak centang dengan nilai boolean. Catatan: Hanya berlaku untuk Check Box. Harap dicatat bahwa Aspose.Pdf.Facades hanya mendukung nama field lengkap dan tidak berfungsi dengan nama field parsial, berbeda dengan Aspose.Pdf.Kit; Misalnya, jika field memiliki nama lengkap "Form.Subform.CheckBoxField", Anda harus menentukan nama lengkap dan bukan "CheckBoxField". Anda dapat menggunakan properti FieldNames untuk menjelajahi nama field yang ada dan mencari field yang diperlukan berdasarkan nama parsialnya.
+Isi bidang kotak centang dengan nilai boolean. Catatan: Hanya berlaku untuk Check Box. Harap perhatikan bahwa Aspose.Pdf.Facades mendukung hanya nama bidang lengkap dan tidak berfungsi dengan nama bidang parsial, berbeda dengan Aspose.Pdf.Kit; Misalnya jika bidang memiliki nama lengkap "Form.Subform.CheckBoxField" Anda harus menentukan nama lengkap dan bukan "CheckBoxField". Anda dapat menggunakan properti FieldNames untuk menjelajahi nama bidang yang ada dan mencari bidang yang diperlukan berdasarkan nama parsialnya.
 
 ```csharp
 public bool FillField(string fieldName, bool beChecked)
@@ -133,12 +107,12 @@ public bool FillField(string fieldName, bool beChecked)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang akan diisi. |
-| beChecked | Boolean | Sebuah flag boolean: true berarti mencentang kotak, sedangkan false untuk menghilangkan centang. |
+| fieldName | String | Nama bidang yang akan diisi. |
+| beChecked | Boolean | Bendera boolean: true berarti mencentang kotak, sementara false berarti tidak mencentangnya. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika field ditemukan dan berhasil diisi.
+true jika bidang ditemukan dan berhasil diisi.
 
 ## Contoh
 
@@ -148,7 +122,7 @@ form.FillField("checkboxField", true);
 ```
 
 ```csharp
-//how to search field by its partial name:
+//cara mencari bidang berdasarkan nama parsialnya:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -161,7 +135,7 @@ foreach(string fieldName in form.FieldNames)
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -169,7 +143,7 @@ foreach(string fieldName in form.FieldNames)
 
 ## FillField(string, string[]) {#fillfield_4}
 
-Mengisi field dengan beberapa pilihan. Catatan: hanya untuk Field List Box AcroForm.
+Isi bidang dengan beberapa pilihan. Catatan: hanya untuk AcroForm List Box Field.
 
 ```csharp
 public void FillField(string fieldName, string[] fieldValues)
@@ -177,7 +151,7 @@ public void FillField(string fieldName, string[] fieldValues)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang sepenuhnya memenuhi syarat. |
+| fieldName | String | Nama bidang yang sepenuhnya memenuhi kualifikasi. |
 | fieldValues | String[] | Array string yang berisi beberapa item untuk dipilih. |
 
 ## Contoh
@@ -190,7 +164,7 @@ form.Save();
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -198,7 +172,7 @@ form.Save();
 
 ## FillField(string, string, bool) {#fillfield_3}
 
-Mengisi field dengan nilai yang ditentukan.
+Isi bidang dengan nilai yang ditentukan.
 
 ```csharp
 public bool FillField(string fieldName, string value, bool fitFontSize)
@@ -206,16 +180,18 @@ public bool FillField(string fieldName, string value, bool fitFontSize)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field |
-| value | String | Nilai baru dari field |
-| fitFontSize | Boolean | Jika true, ukuran font di kotak edit akan disesuaikan. |
+| fieldName | String | Nama bidang |
+| nilai | String | Nilai baru bidang |
+| fitFontSize | Boolean | Jika true, ukuran font dalam kotak edit akan disesuaikan. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika field ditemukan dan berhasil diisi.
+true jika bidang ditemukan dan berhasil diisi.
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

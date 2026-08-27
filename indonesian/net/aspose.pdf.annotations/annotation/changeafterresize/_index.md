@@ -1,14 +1,14 @@
 ---
-title: Annotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Annotation. Perbarui parameter dan penampilan sesuai dengan transformasi matriks
+title: "Annotation.ChangeAfterResize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Annotation. Perbarui parameter dan tampilan sesuai dengan transformasi matriks"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.annotations/annotation/changeafterresize/
 ---
-## Metode Annotation.ChangeAfterResize
+## Annotation.ChangeAfterResize method
 
-Perbarui parameter dan penampilan, sesuai dengan transformasi matriks.
+Memperbarui parameter dan tampilan, sesuai dengan transformasi matriks.
 
 ```csharp
 public virtual void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public virtual void ChangeAfterResize(Matrix transform)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| transform | Matriks | Matriks yang digunakan untuk transformasi (ubah ukuran). |
+| transformasi | Matrix | Matrix yang digunakan untuk transformasi (ubah ukuran). |
 
 ### Lihat Juga
 
-* kelas [Matrix](../../../aspose.pdf/matrix/)
-* kelas [Annotation](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

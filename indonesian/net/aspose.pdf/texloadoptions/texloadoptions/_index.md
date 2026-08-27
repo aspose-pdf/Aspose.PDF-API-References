@@ -1,12 +1,12 @@
 ---
-title: TeXLoadOptions.TeXLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TeXLoadOptions. Konstruktor default
+title: "TeXLoadOptions.TeXLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TeXLoadOptions. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/texloadoptions/texloadoptions/
 ---
-## Konstruktor TeXLoadOptions
+## TeXLoadOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public TeXLoadOptions()
 
 ### Lihat Juga
 
-* kelas [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

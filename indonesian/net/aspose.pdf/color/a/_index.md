@@ -1,14 +1,14 @@
 ---
-title: Color.A
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan nilai komponen alpha
+title: "Color.A"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan nilai komponen alfa"
 type: docs
 weight: 1490
 url: /id/net/aspose.pdf/color/a/
 ---
-## Properti Color.A
+## Color.A property
 
-Mendapatkan nilai komponen alpha
+Mendapatkan nilai komponen alfa
 
 ```csharp
 public double A { get; }
@@ -16,6 +16,8 @@ public double A { get; }
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

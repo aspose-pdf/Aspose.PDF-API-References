@@ -1,14 +1,14 @@
 ---
-title: Class KeyedSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Security.KeyedSignatureAlgorithmInfo. Mewakili kelas untuk informasi tentang algoritma tanda tangan yang dikunci
+title: "Kelas KeyedSignatureAlgorithmInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Security.KeyedSignatureAlgorithmInfo. Mewakili kelas untuk informasi tentang algoritma tanda tangan berbasis kunci"
 type: docs
-weight: 9980
+weight: 10160
 url: /id/net/aspose.pdf.security/keyedsignaturealgorithminfo/
 ---
-## Kelas KeyedSignatureAlgorithmInfo
+## KeyedSignatureAlgorithmInfo class
 
-Mewakili kelas untuk informasi tentang algoritma tanda tangan yang dikunci.
+Mewakili kelas untuk informasi tentang algoritma tanda tangan berbasis kunci.
 
 ```csharp
 public abstract class KeyedSignatureAlgorithmInfo : SignatureAlgorithmInfo
@@ -18,7 +18,7 @@ public abstract class KeyedSignatureAlgorithmInfo : SignatureAlgorithmInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Mendapatkan nama dari bidang tanda tangan. |
+| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Mendapatkan nama bidang tanda tangan. |
 
 ## Metode
 
@@ -30,13 +30,15 @@ public abstract class KeyedSignatureAlgorithmInfo : SignatureAlgorithmInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Mendapatkan jenis algoritma tanda tangan yang digunakan untuk menandatangani dokumen PDF. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Mendapatkan tipe algoritma tanda tangan yang digunakan untuk menandatangani dokumen PDF. |
 | readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Mendapatkan standar kriptografi yang digunakan untuk menandatangani dokumen PDF. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk cap waktu, ini adalah algoritma hash digest dengan mana hash dari konten dokumen ditandatangani. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk timestamp, ini adalah algoritma hash digest yang digunakan untuk menandatangani hash konten dokumen. |
 | readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | Mendapatkan ukuran kunci kriptografi yang digunakan oleh algoritma tanda tangan. |
 
 ### Lihat Juga
 
-* kelas [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

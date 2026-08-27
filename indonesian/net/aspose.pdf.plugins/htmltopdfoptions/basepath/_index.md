@@ -1,14 +1,14 @@
 ---
-title: HtmlToPdfOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlToPdfOptions. Jalur/url dasar untuk file html
+title: "HtmlToPdfOptions.BasePath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlToPdfOptions properti. Jalur dasar/url untuk file html"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/htmltopdfoptions/basepath/
 ---
-## Properti HtmlToPdfOptions.BasePath
+## HtmlToPdfOptions.BasePath property
 
-Jalur/url dasar untuk file html.
+Jalur/URL dasar untuk file html.
 
 ```csharp
 public string BasePath { get; set; }
@@ -16,6 +16,8 @@ public string BasePath { get; set; }
 
 ### Lihat Juga
 
-* kelas [HtmlToPdfOptions](../)
+* class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

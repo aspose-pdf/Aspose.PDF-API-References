@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.ESheet
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. E kertas 34 in. oleh 44 in
+title: "PaperSizes.ESheet"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. kertas E 34 in. x 44 in"
 type: docs
 weight: 400
 url: /id/net/aspose.pdf.printing/papersizes/esheet/
 ---
-## Bidang PaperSizes.ESheet
+## PaperSizes.ESheet field
 
-E kertas (34 in. oleh 44 in.).
+Kertas E (34 in. x 44 in.).
 
 ```csharp
 public static readonly PaperSize ESheet;
@@ -16,7 +16,9 @@ public static readonly PaperSize ESheet;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

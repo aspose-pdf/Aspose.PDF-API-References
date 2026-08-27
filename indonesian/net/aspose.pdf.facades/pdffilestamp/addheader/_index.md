@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.AddHeader
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileStamp. Menambahkan header ke halaman
+title: "PdfFileStamp.AddHeader"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileStamp. Menambahkan header ke halaman."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdffilestamp/addheader/
@@ -16,7 +16,7 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formattedText | FormattedText | Teks untuk header dan properti teks. |
+| formattedText | FormattedText | Text untuk header dan properti teks. |
 | topMargin | Single | Margin di bagian atas halaman. |
 
 ## Contoh
@@ -29,8 +29,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,7 +38,7 @@ fileStamp.Close();
 
 ## AddHeader(FormattedText, float, float, float) {#addheader_1}
 
-Menambahkan header ke halaman-halaman file.
+Menambahkan header ke halaman file.
 
 ```csharp
 public void AddHeader(FormattedText formattedText, float topMargin, float leftMargin, 
@@ -61,8 +61,8 @@ stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -70,7 +70,7 @@ stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 
 ## AddHeader(string, float) {#addheader_4}
 
-Menambahkan gambar sebagai header ke halaman-halaman file.
+Menambahkan gambar sebagai header ke halaman file.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin)
@@ -78,7 +78,7 @@ public void AddHeader(string imageFile, float topMargin)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageFile | String | Jalur ke file gambar. |
+| imageFile | String | Path ke file gambar. |
 | topMargin | Single | Margin di bagian atas halaman. |
 
 ## Contoh
@@ -92,7 +92,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -100,7 +100,7 @@ fileStamp.Close();
 
 ## AddHeader(string, float, float, float) {#addheader_5}
 
-Menambahkan gambar sebagai header di halaman-halaman.
+Menambahkan gambar sebagai header pada halaman.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
@@ -108,7 +108,7 @@ public void AddHeader(string imageFile, float topMargin, float leftMargin, float
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageFile | String | Jalur ke file gambar. |
+| imageFile | String | Path ke file gambar. |
 | topMargin | Single | Margin di bagian atas halaman. |
 | leftMargin | Single | Margin di sisi kiri halaman. |
 | rightMargin | Single | Margin di sisi kanan halaman. |
@@ -124,7 +124,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -132,7 +132,7 @@ fileStamp.Close();
 
 ## AddHeader(Stream, float) {#addheader_2}
 
-Menambahkan gambar sebagai header di halaman-halaman.
+Menambahkan gambar sebagai header pada halaman.
 
 ```csharp
 public void AddHeader(Stream imageStream, float topMargin)
@@ -140,7 +140,7 @@ public void AddHeader(Stream imageStream, float topMargin)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageStream | Stream | Stream dari gambar. |
+| imageStream | Stream | Stream gambar. |
 | topMargin | Single | Margin di bagian atas halaman. |
 
 ## Contoh
@@ -154,7 +154,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -186,6 +186,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

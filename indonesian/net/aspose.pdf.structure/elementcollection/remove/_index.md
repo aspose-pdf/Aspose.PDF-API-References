@@ -1,12 +1,12 @@
 ---
-title: ElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ElementCollection. Hapus item dari koleksi
+title: "ElementCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ElementCollection. Menghapus item dari koleksi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.structure/elementcollection/remove/
 ---
-## Metode ElementCollection.Remove
+## ElementCollection.Remove method
 
 Hapus item dari koleksi.
 
@@ -16,15 +16,17 @@ public bool Remove(Element item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | Element | Item yang akan dihapus. |
+| item | Element | Item untuk dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika elemen telah dihapus.
+Benar jika elemen telah dihapus.
 
 ### Lihat Juga
 
-* kelas [Element](../../element/)
-* kelas [ElementCollection](../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

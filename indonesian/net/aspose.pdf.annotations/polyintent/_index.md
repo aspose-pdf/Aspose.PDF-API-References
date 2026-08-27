@@ -1,14 +1,14 @@
 ---
-title: Enum PolyIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.PolyIntent. Mengenumerasi niat dari anotasi poligon atau polilin
+title: "Enum PolyIntent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.PolyIntent enum. Mengenumerasi maksud dari anotasi poligon atau polyline."
 type: docs
-weight: 2300
+weight: 2390
 url: /id/net/aspose.pdf.annotations/polyintent/
 ---
-## Enumerasi PolyIntent
+## PolyIntent enumeration
 
-Mengenumerasi niat dari anotasi poligon atau polilin.
+Menumerasikan maksud anotasi poligon atau polyline.
 
 ```csharp
 public enum PolyIntent
@@ -18,12 +18,14 @@ public enum PolyIntent
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Tidak Terdefinisi | `0` | Status tidak terdefinisi. |
-| PolygonCloud | `1` | Berarti bahwa anotasi dimaksudkan untuk berfungsi sebagai objek awan. |
-| PolyLineDimension | `2` | Menunjukkan bahwa anotasi polilin dimaksudkan untuk berfungsi sebagai dimensi. |
-| PolygonDimension | `3` | Menunjukkan bahwa anotasi poligon dimaksudkan untuk berfungsi sebagai dimensi. |
+| Undefined | `0` | Keadaan tidak terdefinisi. |
+| PolygonCloud | `1` | Berarti anotasi dimaksudkan berfungsi sebagai objek awan. |
+| PolyLineDimension | `2` | Menunjukkan bahwa anotasi polyline dimaksudkan berfungsi sebagai dimensi. |
+| PolygonDimension | `3` | Menunjukkan bahwa anotasi poligon dimaksudkan berfungsi sebagai dimensi. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

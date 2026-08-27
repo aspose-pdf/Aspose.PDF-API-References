@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Mengatur suhu untuk opsi copilot chat
+title: "OpenAIChatCopilotOptions.WithTemperature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilotOptions. Mengatur temperature untuk opsi chat copilot"
 type: docs
-weight: 170
+weight: 180
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/withtemperature/
 ---
-## Metode OpenAIChatCopilotOptions.WithTemperature
+## OpenAIChatCopilotOptions.WithTemperature method
 
-Mengatur suhu untuk opsi copilot chat.
+Mengatur suhu untuk opsi copilot obrolan.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTemperature(double? temperature)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithTemperature(double? temperature)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| temperature | Nullable`1 | Suhu yang akan diatur. |
+| suhu | Nullable`1 | Suhu yang akan diatur. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

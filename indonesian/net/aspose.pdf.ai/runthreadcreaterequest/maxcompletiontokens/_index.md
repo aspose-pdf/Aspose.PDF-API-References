@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunThreadCreateRequest. Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama proses berjalan. Proses akan berusaha sebaik mungkin untuk hanya menggunakan jumlah token penyelesaian yang ditentukan, di berbagai putaran proses. Jika proses melebihi jumlah token penyelesaian yang ditentukan, proses akan berakhir dengan status tidak lengkap. Lihat incomplete_details untuk informasi lebih lanjut.
+title: "RunThreadCreateRequest.MaxCompletionTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunThreadCreateRequest. Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama run. Run akan berusaha sebaik mungkin untuk hanya menggunakan jumlah token penyelesaian yang ditentukan selama beberapa giliran run. Jika run melebihi jumlah token penyelesaian yang ditentukan, run akan berakhir dengan status incomplete. Lihat incomplete_details untuk informasi lebih lanjut."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/runthreadcreaterequest/maxcompletiontokens/
 ---
-## Properti RunThreadCreateRequest.MaxCompletionTokens
+## RunThreadCreateRequest.MaxCompletionTokens property
 
-Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama proses berjalan. Proses akan berusaha sebaik mungkin untuk hanya menggunakan jumlah token penyelesaian yang ditentukan, di berbagai putaran proses. Jika proses melebihi jumlah token penyelesaian yang ditentukan, proses akan berakhir dengan status tidak lengkap. Lihat incomplete_details untuk informasi lebih lanjut.
+Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama run. Run akan berusaha sebaik mungkin hanya menggunakan jumlah token penyelesaian yang ditentukan, melintasi beberapa putaran run. Jika run melebihi jumlah token penyelesaian yang ditentukan, run akan berakhir dengan status incomplete. Lihat incomplete_details untuk info lebih lanjut.
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxCompletionTokens { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunThreadCreateRequest](../)
+* class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

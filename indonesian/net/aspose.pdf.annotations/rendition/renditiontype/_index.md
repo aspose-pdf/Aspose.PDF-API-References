@@ -1,12 +1,12 @@
 ---
-title: Rendition.RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti rendition. Mendapatkan tipe rendition
+title: "Rendition.RenditionType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rendition. Mendapatkan tipe rendition"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/rendition/renditiontype/
 ---
-## Properti Rendition.RenditionType
+## Rendition.RenditionType property
 
 Mendapatkan tipe rendition.
 
@@ -20,3 +20,5 @@ public RenditionType RenditionType { get; }
 * class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

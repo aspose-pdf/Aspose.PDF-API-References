@@ -1,7 +1,7 @@
 ---
-title: PdfFileSignature.ContainsUsageRights
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Memeriksa apakah pdf memiliki hak penggunaan atau tidak
+title: "PdfFileSignature.ContainsUsageRights"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Memeriksa apakah pdf memiliki hak penggunaan atau tidak"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdffilesignature/containsusagerights/
@@ -14,12 +14,14 @@ Memeriksa apakah pdf memiliki hak penggunaan atau tidak.
 public bool ContainsUsageRights()
 ```
 
-### Return Value
+### Nilai Kembalian
 
-Mengembalikan hasil tipe bool.
+Mengembalikan hasil dengan tipe bool.
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

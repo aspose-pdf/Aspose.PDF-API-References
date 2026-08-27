@@ -1,14 +1,14 @@
 ---
-title: Form.AutoRecalculate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Jika diatur, semua field form akan dihitung ulang ketika ada field yang diubah. Nilai default adalah true. Atur ke false untuk meningkatkan kinerja saat mengisi form dengan jumlah field yang dihitung besar.
+title: "Form.AutoRecalculate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Jika diatur, semua bidang formulir akan dihitung ulang ketika ada bidang yang berubah. Nilai default adalah true. Atur ke false untuk meningkatkan kinerja saat mengisi formulir dengan sejumlah besar bidang yang dihitung."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/form/autorecalculate/
 ---
-## Properti Form.AutoRecalculate
+## Form.AutoRecalculate property
 
-Jika diatur, semua field form akan dihitung ulang ketika ada field yang diubah. Nilai default adalah true. Atur ke false untuk meningkatkan kinerja saat mengisi form dengan jumlah field yang dihitung besar.
+Jika diatur, semua bidang formulir akan dihitung ulang ketika ada bidang yang berubah. Nilai default adalah true. Atur ke false untuk meningkatkan kinerja saat mengisi formulir dengan banyak bidang yang dihitung.
 
 ```csharp
 public bool AutoRecalculate { get; set; }
@@ -16,6 +16,8 @@ public bool AutoRecalculate { get; set; }
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

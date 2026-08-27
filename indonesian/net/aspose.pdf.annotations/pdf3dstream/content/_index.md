@@ -1,26 +1,28 @@
 ---
-title: PDF3DStream.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DStream. Mengambil atau mengatur konten
+title: "PDF3DStream.Content"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DStream. Mendapatkan atau mengatur konten"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/pdf3dstream/content/
 ---
-## Properti PDF3DStream.Content
+## PDF3DStream.Content property
 
-Mengambil atau mengatur konten.
+Mendapatkan atau mengatur konten.
 
 ```csharp
 public PDF3DContent Content { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Konten.
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../../pdf3dcontent/)
-* kelas [PDF3DStream](../)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DStream](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

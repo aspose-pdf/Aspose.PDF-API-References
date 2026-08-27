@@ -1,7 +1,7 @@
 ---
-title: PaperSources.Manual
-second_title: Aspose.PDF for .NET API Reference
-description: Sumber kertas umpan manual dari PaperSources
+title: "PaperSources.Manual"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSources. Mewakili sumber kertas umpan manual"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.printing/papersources/manual/
@@ -20,3 +20,5 @@ public static readonly PaperSource Manual;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

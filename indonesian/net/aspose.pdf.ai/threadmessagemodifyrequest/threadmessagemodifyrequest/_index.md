@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageModifyRequest.ThreadMessageModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ThreadMessageModifyRequest. Konstruktor default
+title: "ThreadMessageModifyRequest.ThreadMessageModifyRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ThreadMessageModifyRequest. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/threadmessagemodifyrequest/threadmessagemodifyrequest/
 ---
-## Konstruktor ThreadMessageModifyRequest
+## ThreadMessageModifyRequest constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ThreadMessageModifyRequest()
 
 ### Lihat Juga
 
-* kelas [ThreadMessageModifyRequest](../)
+* class [ThreadMessageModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

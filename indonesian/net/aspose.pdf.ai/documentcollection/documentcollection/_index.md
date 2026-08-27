@@ -1,12 +1,12 @@
 ---
-title: DocumentCollection.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor DocumentCollection. Konstruktor default
+title: "DocumentCollection.DocumentCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor DocumentCollection. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/documentcollection/documentcollection/
 ---
-## Konstruktor DocumentCollection
+## DocumentCollection constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public DocumentCollection()
 
 ### Lihat Juga
 
-* kelas [DocumentCollection](../)
+* class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

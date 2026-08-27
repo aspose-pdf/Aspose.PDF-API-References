@@ -1,12 +1,12 @@
 ---
-title: MoveTo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode MoveTo. Mengembalikan representasi teks dari operator
+title: "MoveTo.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MoveTo metode. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.operators/moveto/tostring/
 ---
-## Metode MoveTo.ToString
+## MoveTo.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [MoveTo](../)
+* class [MoveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

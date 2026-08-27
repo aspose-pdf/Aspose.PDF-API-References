@@ -1,14 +1,14 @@
 ---
-title: Field.Field
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Field. Membuat field untuk digunakan dalam Generator
+title: "Field.Field"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Field. Membuat field untuk digunakan dalam Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/field/field/
 ---
-## Konstruktor Field
+## Field constructor
 
-Membuat field untuk digunakan dalam Generator.
+Membuat bidang untuk digunakan dalam Generator.
 
 ```csharp
 public Field(Document doc)
@@ -16,7 +16,7 @@ public Field(Document doc)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field akan dibuat. |
+| doc | Document | Document di mana bidang akan dibuat. |
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ public Field(Document doc)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

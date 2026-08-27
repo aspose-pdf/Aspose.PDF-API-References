@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XFormCollection. Menghapus item yang ditentukan dari koleksi
+title: "XFormCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XFormCollection. Menghapus item yang ditentukan dari koleksi"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/xformcollection/remove/
 ---
-## Metode XFormCollection.Remove
+## XFormCollection.Remove method
 
 Menghapus item yang ditentukan dari koleksi.
 
@@ -18,13 +18,15 @@ public bool Remove(XForm item)
 | --- | --- | --- |
 | item | XForm | Objek yang akan dihapus |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika item dihapus dari koleksi; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [XForm](../../xform/)
-* kelas [XFormCollection](../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

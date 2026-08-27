@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.ExtractedText
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionError. Teks yang sebenarnya diekstrak
+title: "TextExtractionError.ExtractedText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionError. Teks yang sebenarnya diekstrak"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/textextractionerror/extractedtext/
 ---
-## Properti TextExtractionError.ExtractedText
+## TextExtractionError.ExtractedText property
 
 Teks yang sebenarnya diekstrak.
 
@@ -16,6 +16,8 @@ public string ExtractedText { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionError](../)
+* class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

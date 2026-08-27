@@ -1,12 +1,12 @@
 ---
-title: IColorSpaceConversionStrategy.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IColorSpaceConversionStrategy. Mengonversi halaman dokumen
+title: "IColorSpaceConversionStrategy.Convert"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IColorSpaceConversionStrategy. Mengonversi halaman dokumen"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/icolorspaceconversionstrategy/convert/
 ---
-## Metode IColorSpaceConversionStrategy.Convert
+## IColorSpaceConversionStrategy.Convert method
 
 Mengonversi halaman dokumen.
 
@@ -16,11 +16,13 @@ public void Convert(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen. |
+| halaman | Halaman | Halaman dokumen. |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* antarmuka [IColorSpaceConversionStrategy](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* interface [IColorSpaceConversionStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

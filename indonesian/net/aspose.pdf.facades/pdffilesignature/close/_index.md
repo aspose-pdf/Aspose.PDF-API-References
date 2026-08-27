@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Menutup facade
+title: "PdfFileSignature.Close"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Menutup facade"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdffilesignature/close/
 ---
-## Metode PdfFileSignature.Close
+## PdfFileSignature.Close method
 
 Menutup facade.
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

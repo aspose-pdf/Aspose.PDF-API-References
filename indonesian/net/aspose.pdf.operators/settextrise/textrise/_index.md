@@ -1,14 +1,14 @@
 ---
-title: SetTextRise.TextRise
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetTextRise. Mengambil atau mengatur text rise
+title: "SetTextRise.TextRise"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetTextRise. Mendapatkan atau mengatur kenaikan teks"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/settextrise/textrise/
 ---
-## Properti SetTextRise.TextRise
+## SetTextRise.TextRise property
 
-Mengambil atau mengatur text rise.
+Mendapatkan atau mengatur kenaikan teks.
 
 ```csharp
 public double TextRise { get; set; }
@@ -16,6 +16,8 @@ public double TextRise { get; set; }
 
 ### Lihat Juga
 
-* kelas [SetTextRise](../)
+* class [SetTextRise](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

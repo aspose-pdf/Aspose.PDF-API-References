@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.EndIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut EndIndent pemilik atribut Layout
+title: "AttributeKey.EndIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. EndIndent atribut Layout atribut pemilik"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.logicalstructure/attributekey/endindent/
 ---
-## Bidang AttributeKey.EndIndent
+## AttributeKey.EndIndent field
 
 Atribut EndIndent (pemilik atribut Layout).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey EndIndent;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Id.Original
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Id. Pengidentifikasi permanen berdasarkan isi dokumen pada saat pertama kali dibuat
+title: "Id.Original"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Id. Pengidentifikasi permanen berdasarkan isi dokumen pada saat pertama kali dibuat."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/id/original/
 ---
-## Properti Id.Original
+## Id.Original property
 
-Pengidentifikasi permanen berdasarkan isi dokumen pada saat pertama kali dibuat.
+Pengidentifikasi permanen berdasarkan isi dokumen pada saat dokumen tersebut pertama kali dibuat.
 
 ```csharp
 public string Original { get; }
@@ -16,6 +16,8 @@ public string Original { get; }
 
 ### Lihat Juga
 
-* kelas [Id](../)
+* class [Id](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

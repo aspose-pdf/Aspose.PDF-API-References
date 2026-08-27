@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSizePercent
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ContentsResizeParameters. Membuat parameter ukuran ulang dengan ukuran konten yang ditentukan dalam persentase dari ukuran halaman awal. Margin dihitung secara otomatis
+title: "PdfFileEditor.ContentsResizeParameters.ContentSizePercent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ContentsResizeParameters. Membuat parameter ubah ukuran dengan ukuran konten yang ditentukan dalam persen dari ukuran halaman awal. Margin dihitung secara otomatis"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/
 ---
-## Metode PdfFileEditor.ContentsResizeParameters.ContentSizePercent
+## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
-Membuat parameter ukuran ulang dengan ukuran konten yang ditentukan dalam persentase dari ukuran halaman awal. Margin dihitung secara otomatis.
+Membuat parameter ubah ukuran dengan ukuran konten yang ditentukan dalam persentase ukuran halaman awal. Margin dihitung secara otomatis.
 
 ```csharp
 public static ContentsResizeParameters ContentSizePercent(double width, double height)
@@ -16,15 +16,17 @@ public static ContentsResizeParameters ContentSizePercent(double width, double h
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Double | Lebar konten baru dalam persentase. |
-| height | Double | Tinggi konten baru dalam persentase. |
+| lebar | Double | Lebar konten baru dalam persen. |
+| tinggi | Double | Tinggi konten baru dalam persen. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Parameter ukuran ulang baru.
+Parameter ubah ukuran baru.
 
 ### Lihat Juga
 
-* kelas [ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

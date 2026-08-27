@@ -1,26 +1,28 @@
 ---
-title: Collection.GetSortedCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Koleksi. Mendapatkan koleksi file yang diurutkan sesuai dengan spesifikasi
+title: "Collection.GetSortedCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Collection. Mendapatkan koleksi file yang diurutkan sesuai spesifikasi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/collection/getsortedcollection/
 ---
-## Metode Collection.GetSortedCollection
+## Collection.GetSortedCollection method
 
-Mendapatkan koleksi file yang diurutkan sesuai dengan spesifikasi.
+Mendapatkan koleksi file yang diurutkan sesuai spesifikasi.
 
 ```csharp
 public IList<FileSpecification> GetSortedCollection()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Daftar file yang diurutkan.
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../filespecification/)
-* kelas [Collection](../)
+* class [FileSpecification](../../filespecification/)
+* class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

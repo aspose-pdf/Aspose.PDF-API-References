@@ -1,14 +1,14 @@
 ---
-title: Class PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.PdfAConverter. Mewakili plugin untuk menangani konversi dokumen PDF dalam format PDF/A dan untuk validasi kesesuaian PDF/A
+title: "Kelas PdfAConverter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.PdfAConverter kelas. Mewakili plugin untuk menangani konversi dokumen PDF ke format PDF/A dan untuk validasi kepatuhan PDF/A"
 type: docs
-weight: 9000
+weight: 9150
 url: /id/net/aspose.pdf.plugins/pdfaconverter/
 ---
-## Kelas PdfAConverter
+## PdfAConverter class
 
-Mewakili plugin untuk menangani konversi dokumen PDF dalam format PDF/A dan untuk validasi kesesuaian PDF/A.
+Mewakili plugin untuk menangani konversi dokumen PDF ke format PDF/A dan untuk validasi kepatuhan PDF/A.
 
 ```csharp
 public sealed class PdfAConverter : IPlugin
@@ -28,27 +28,27 @@ public sealed class PdfAConverter : IPlugin
 
 ## Contoh
 
-Contoh ini menunjukkan cara memvalidasi kesesuaian dokumen PDF dengan format PDF/A (PDF/A-1a dalam kasus ini):
+Contoh ini menunjukkan cara memvalidasi kepatuhan dokumen PDF terhadap format PDF/A (PDF/A-1a dalam kasus ini):
 
 ```csharp
-// Create the options class to set up the validation process
+// Buat kelas opsi untuk menyiapkan proses validasi
 var options = new PdfAValidateOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_1A
 };
 
-// Add one or more files to be validated
+// Tambahkan satu atau lebih file untuk divalidasi
 options.AddInput(new FileDataSource("path_to_your_first_pdf_file.pdf")); // replace with your actual file path
 options.AddInput(new FileDataSource("path_to_your_second_pdf_file.pdf"));
-// add more files as needed
+// tambahkan lebih banyak file sesuai kebutuhan
 
-// Create the plugin instance
+// Buat instance plugin
 var plugin = new PdfAConverter();
 
-// Run the validation and get results
+// Jalankan validasi dan dapatkan hasilnya
 var resultContainer = plugin.Process(options);
 
-// Check the resultContainer.ResultCollection property for validation results for each file:
+// Periksa properti resultContainer.ResultCollection untuk hasil validasi setiap file:
 for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 {
     var result = resultContainer.ResultCollection[i];
@@ -57,30 +57,32 @@ for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 }
 ```
 
-Contoh ini menunjukkan cara mengonversi dokumen PDF dalam format PDF/A (PDF/A-3b dalam kasus ini):
+Contoh ini menunjukkan cara mengonversi dokumen PDF ke format PDF/A (PDF/A-3b dalam kasus ini):
 
 ```csharp
-// Create the options class to set up the conversion process
+// Buat kelas opsi untuk menyiapkan proses konversi
 var options = new PdfAConvertOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_3B
 };
 
-// Add the source file
+// Tambahkan file sumber
 options.AddInput(new FileDataSource("path_to_your_pdf_file.pdf")); // replace with your actual file path
 
-// Add the path to save the converted file
+// Tambahkan jalur untuk menyimpan file yang dikonversi
 options.AddOutput(new FileDataSource("path_to_the_converted_file.pdf"));
 
-// Create the plugin instance
+// Buat instance plugin
 var plugin = new PdfAConverter();
 
-// Run the conversion
+// Jalankan konversi
 plugin.Process(options);
 ```
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetGray.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SetGray. Mengembalikan representasi string dari operator
+title: "SetGray.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SetGray. Mengembalikan representasi string dari operator"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.operators/setgray/tostring/
 ---
-## Metode SetGray.ToString
+## SetGray.ToString method
 
 Mengembalikan representasi string dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi string dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi string dari operator.
 
 ### Lihat Juga
 
-* kelas [SetGray](../)
+* class [SetGray](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

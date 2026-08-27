@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.OptimizeTextBoxes
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PptxSaveOptions. Mengalihkan pengenalan kolom teks
+title: "PptxSaveOptions.OptimizeTextBoxes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PptxSaveOptions. Mengaktifkan atau menonaktifkan pengenalan kolom teks"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
 ---
-## Properti PptxSaveOptions.OptimizeTextBoxes
+## PptxSaveOptions.OptimizeTextBoxes property
 
-Mengalihkan pengenalan kolom teks
+Mengaktifkan/menonaktifkan pengenalan kolom teks
 
 ```csharp
 public bool OptimizeTextBoxes { get; set; }
@@ -16,6 +16,8 @@ public bool OptimizeTextBoxes { get; set; }
 
 ### Lihat Juga
 
-* kelas [PptxSaveOptions](../)
+* class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

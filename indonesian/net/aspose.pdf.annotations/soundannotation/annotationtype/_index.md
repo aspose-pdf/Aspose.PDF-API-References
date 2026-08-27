@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SoundAnnotation. Mendapatkan jenis anotasi
+title: "SoundAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SoundAnnotation property. Mendapatkan tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/soundannotation/annotationtype/
 ---
-## Properti SoundAnnotation.AnnotationType
+## SoundAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

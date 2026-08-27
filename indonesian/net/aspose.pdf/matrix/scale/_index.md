@@ -1,14 +1,14 @@
 ---
-title: Matrix.Scale
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matrix. Mengubah skala x dan y dengan matriks menggunakan rumus berikut x1  Ax  Cy y1  Bx  Dy
+title: "Matrix.Scale"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix. Menskalakan x dan y dengan matriks menggunakan rumus berikut x1  Ax  Cy y1  Bx  Dy"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf/matrix/scale/
 ---
 ## Scale(double, double, out double, out double)
 
-Mengubah skala x dan y dengan matriks menggunakan rumus berikut: x1 = A*x + C*y; y1 = B*x + D*y;
+Menskalakan x dan y dengan matriks menggunakan rumus berikut: x1 = A*x + C*y; y1 = B*x + D*y;
 
 ```csharp
 public void Scale(double x, double y, out double x1, out double y1)
@@ -16,14 +16,14 @@ public void Scale(double x, double y, out double x1, out double y1)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| x | Double | Koordinat X input |
-| y | Double | Koordinat Y input |
-| x1 | Double& | Koordinat X output |
-| y1 | Double& | Koordinat Y output |
+| x | Double | Koordinat X masukan |
+| y | Double | Koordinat Y masukan |
+| x1 | Double& | Koordinat X keluaran |
+| y1 | Double& | Koordinat Y keluaran |
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,14 +41,16 @@ public static Matrix Scale(double sx, double sy, Matrix source)
 | --- | --- | --- |
 | sx | Double | Faktor skala untuk sumbu X. |
 | sy | Double | Faktor skala untuk sumbu Y. |
-| source | Matrix | Matriks yang akan diubah skala. |
+| sumber | Matrix | Matriks yang akan diskalakan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Matriks baru yang merupakan hasil dari pengubahan skala matriks sumber.
+Matriks baru yang merupakan hasil skala matriks sumber.
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

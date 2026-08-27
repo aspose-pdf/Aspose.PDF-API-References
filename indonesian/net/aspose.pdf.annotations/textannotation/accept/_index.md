@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextAnnotation. Menerima objek pengunjung untuk memproses anotasi
+title: "TextAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextAnnotation. Menerima objek visitor untuk memproses anotasi"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/textannotation/accept/
 ---
-## Metode TextAnnotation.Accept
+## TextAnnotation.Accept method
 
-Menerima objek pengunjung untuk memproses anotasi.
+Menerima objek visitor untuk memproses anotasi.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [TextAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

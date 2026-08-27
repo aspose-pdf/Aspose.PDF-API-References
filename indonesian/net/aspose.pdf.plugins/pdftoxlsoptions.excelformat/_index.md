@@ -1,12 +1,12 @@
 ---
-title: Enum PdfToXlsOptions.ExcelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Plugins.PdfToXlsOptionsExcelFormat. Memungkinkan untuk menentukan format file .xlsx, .xls/xml, atau csv. Nilai default adalah XLSX
+title: "Enum PdfToXlsOptions.ExcelFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Plugins.PdfToXlsOptionsExcelFormat. Memungkinkan untuk menentukan format file .xlsx .xls/xml atau csv. Nilai default adalah XLSX"
 type: docs
-weight: 9160
+weight: 9310
 url: /id/net/aspose.pdf.plugins/pdftoxlsoptions.excelformat/
 ---
-## Enumerasi PdfToXlsOptions.ExcelFormat
+## PdfToXlsOptions.ExcelFormat enumeration
 
 Memungkinkan untuk menentukan format file .xlsx, .xls/xml, atau csv. Nilai default adalah XLSX.
 
@@ -19,13 +19,15 @@ public enum ExcelFormat
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | XMLSpreadSheet2003 | `0` | Format XML Excel 2003 |
-| XLSX | `1` | Format File Office Open XML (.xlsx) |
-| CSV | `2` | Format File nilai yang dipisahkan koma (CSV) |
-| XLSM | `3` | Format File Office Open XML yang diaktifkan makro (.xlsm) |
+| XLSX | `1` | Format Berkas Office Open XML (.xlsx) |
+| CSV | `2` | Sebuah format berkas nilai yang dipisahkan koma (CSV) |
+| XLSM | `3` | Sebuah format berkas Office Open XML (.xlsm) yang mendukung makro |
 | ODS | `4` | Spreadsheet OpenDocument |
 
 ### Lihat Juga
 
-* kelas [PdfToXlsOptions](../pdftoxlsoptions/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfToXlsOptions](../pdftoxlsoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

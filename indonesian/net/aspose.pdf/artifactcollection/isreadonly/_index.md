@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ArtifactCollection. Mendapatkan apakah koleksi bersifat hanya-baca. Selalu mengembalikan false
+title: "ArtifactCollection.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ArtifactCollection. Mendapatkan apakah koleksi bersifat read‑only. Selalu mengembalikan false"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/artifactcollection/isreadonly/
 ---
-## Properti ArtifactCollection.IsReadOnly
+## ArtifactCollection.IsReadOnly property
 
-Mendapatkan apakah koleksi bersifat hanya-baca. Selalu mengembalikan false.
+Mendapatkan apakah koleksi hanya baca. Selalu mengembalikan false.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Lihat Juga
 
-* kelas [ArtifactCollection](../)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

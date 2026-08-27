@@ -1,14 +1,14 @@
 ---
-title: FormComboBoxFieldSetOptions.Options
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormComboBoxFieldSetOptions. Mendapatkan/mengatur nilai untuk menentukan properti Options untuk bidang yang dimodifikasi jika akan diatur
+title: "FormComboBoxFieldSetOptions.Options"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormComboBoxFieldSetOptions. Mendapatkan/mengatur nilai untuk menentukan properti Options bagi bidang yang dimodifikasi jika akan diatur"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/options/
 ---
-## Properti FormComboBoxFieldSetOptions.Options
+## FormComboBoxFieldSetOptions.Options property
 
-Mendapatkan/mengatur nilai untuk menentukan properti Options untuk bidang yang dimodifikasi (jika akan diatur).
+Mendapatkan/mengatur nilai untuk menentukan properti Options pada bidang yang dimodifikasi (jika akan diatur).
 
 ```csharp
 public List<string> Options { get; set; }
@@ -16,6 +16,8 @@ public List<string> Options { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormComboBoxFieldSetOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormComboBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

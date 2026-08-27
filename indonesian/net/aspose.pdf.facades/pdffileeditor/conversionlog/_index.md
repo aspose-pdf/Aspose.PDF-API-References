@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ConversionLog
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Mendapatkan log proses konversi
+title: "PdfFileEditor.ConversionLog"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Mendapatkan log proses konversi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdffileeditor/conversionlog/
 ---
-## Properti PdfFileEditor.ConversionLog
+## PdfFileEditor.ConversionLog property
 
 Mendapatkan log proses konversi.
 
@@ -16,6 +16,8 @@ public string ConversionLog { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

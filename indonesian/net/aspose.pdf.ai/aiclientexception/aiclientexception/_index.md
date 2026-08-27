@@ -1,14 +1,14 @@
 ---
-title: AIClientException.AIClientException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor AIClientException. Menginisialisasi instance baru dari kelas AIClientException dengan pesan kesalahan yang ditentukan
+title: "AIClientException.AIClientException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor AIClientException. Menginisialisasi instance baru dari kelas AIClientException dengan pesan error yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/aiclientexception/aiclientexception/
 ---
 ## AIClientException(string) {#constructor}
 
-Menginisialisasi instance baru dari kelas [`AIClientException`](../) dengan pesan kesalahan yang ditentukan.
+Menginisialisasi instance baru dari kelas [`AIClientException`](../) dengan pesan error yang ditentukan.
 
 ```csharp
 public AIClientException(string message)
@@ -16,11 +16,11 @@ public AIClientException(string message)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan pengecualian. |
+| message | String | Pesan error yang menjelaskan pengecualian. |
 
 ### Lihat Juga
 
-* kelas [AIClientException](../)
+* class [AIClientException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public AIClientException(string message)
 
 ## AIClientException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`AIClientException`](../) dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
+Menginisialisasi instance baru dari kelas [`AIClientException`](../) dengan pesan error yang ditentukan dan referensi ke pengecualian internal yang menjadi penyebab pengecualian ini.
 
 ```csharp
 public AIClientException(string message, Exception innerException)
@@ -36,11 +36,13 @@ public AIClientException(string message, Exception innerException)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan pengecualian. |
+| message | String | Pesan error yang menjelaskan pengecualian. |
 | innerException | Exception | Pengecualian yang menjadi penyebab pengecualian saat ini. |
 
 ### Lihat Juga
 
-* kelas [AIClientException](../)
+* class [AIClientException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Page.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Properti halaman. Mendapatkan atau mengatur footer halaman
+title: "Page.Footer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur footer halaman"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/page/footer/
 ---
-## Properti Page.Footer
+## Page.Footer property
 
 Mendapatkan atau mengatur footer halaman.
 
@@ -14,7 +14,7 @@ Mendapatkan atau mengatur footer halaman.
 public HeaderFooter Footer { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Footer halaman.
 
@@ -24,3 +24,5 @@ Footer halaman.
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

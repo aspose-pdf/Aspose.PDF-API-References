@@ -1,14 +1,14 @@
 ---
-title: Graph.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Graph. Mengambil atau mengatur nilai float yang menunjukkan lebar grafik. Satuannya adalah poin
+title: "Graph.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Graph. Mendapatkan atau mengatur nilai float yang menunjukkan lebar grafik. Satuannya adalah point"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.drawing/graph/width/
 ---
-## Properti Graph.Width
+## Graph.Width property
 
-Mengambil atau mengatur nilai float yang menunjukkan lebar grafik. Satuannya adalah poin.
+Mendapatkan atau mengatur nilai float yang menunjukkan lebar grafik. Satuannya adalah point.
 
 ```csharp
 public double Width { get; set; }
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### Lihat Juga
 
-* kelas [Graph](../)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

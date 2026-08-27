@@ -1,14 +1,14 @@
 ---
-title: Page.GetPageRect
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Mengembalikan persegi panjang halaman sesuai dengan CropBox atau MediaBox jika CropBox null
+title: "Page.GetPageRect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Mengembalikan persegi panjang halaman berdasarkan CropBox atau MediaBox jika CropBox null."
 type: docs
 weight: 460
 url: /id/net/aspose.pdf/page/getpagerect/
 ---
-## Metode Page.GetPageRect
+## Page.GetPageRect method
 
-Mengembalikan persegi panjang halaman sesuai dengan CropBox (atau MediaBox jika CropBox null).
+Mengembalikan persegi panjang halaman sesuai dengan CropBox-nya (atau MediaBox jika CropBox null).
 
 ```csharp
 public Rectangle GetPageRect(bool considerRotation)
@@ -16,15 +16,17 @@ public Rectangle GetPageRect(bool considerRotation)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| considerRotation | Boolean | Jika true maka rotasi halaman akan dipertimbangkan dalam perhitungan rect. |
+| considerRotation | Boolean | Jika true, rotasi halaman akan dipertimbangkan dalam perhitungan persegi panjang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Persegi panjang halaman.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

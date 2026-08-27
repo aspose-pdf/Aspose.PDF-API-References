@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RichMediaAnnotation. Data dari konten Rich Media
+title: "RichMediaAnnotation.Content"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RichMediaAnnotation. Data konten Rich Media"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/richmediaannotation/content/
 ---
-## Properti RichMediaAnnotation.Content
+## RichMediaAnnotation.Content property
 
-Data dari konten Rich Media.
+Data konten Rich Media.
 
 ```csharp
 public Stream Content { get; }
@@ -16,6 +16,8 @@ public Stream Content { get; }
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

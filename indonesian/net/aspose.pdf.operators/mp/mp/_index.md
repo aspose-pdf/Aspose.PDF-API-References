@@ -1,12 +1,12 @@
 ---
-title: MP.MP
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MP. Menginisialisasi operator
+title: "MP.MP"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MP. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/mp/mp/
 ---
-## Konstruktor MP
+## MP constructor
 
 Menginisialisasi operator.
 
@@ -20,6 +20,8 @@ public MP(string tag)
 
 ### Lihat Juga
 
-* kelas [MP](../)
+* class [MP](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

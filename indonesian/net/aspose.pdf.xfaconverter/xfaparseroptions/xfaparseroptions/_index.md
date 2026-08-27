@@ -1,14 +1,14 @@
 ---
-title: XfaParserOptions.XfaParserOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XfaParserOptions. Menginisialisasi instance baru dari kelas XfaParserOptions
+title: "XfaParserOptions.XfaParserOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XfaParserOptions. Menginisialisasi sebuah instance baru dari kelas XfaParserOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/
 ---
-## Konstruktor XfaParserOptions
+## XfaParserOptions constructor
 
-Menginisialisasi instance baru dari kelas [`XfaParserOptions`](../).
+Menginisialisasi sebuah instance baru dari kelas [`XfaParserOptions`](../).
 
 ```csharp
 public XfaParserOptions(SizeF pageSize)
@@ -20,6 +20,8 @@ public XfaParserOptions(SizeF pageSize)
 
 ### Lihat Juga
 
-* kelas [XfaParserOptions](../)
+* class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

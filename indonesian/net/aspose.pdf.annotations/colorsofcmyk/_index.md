@@ -1,12 +1,12 @@
 ---
-title: Enum ColorsOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ColorsOfCMYK dari Aspose.Pdf.Annotations. Warna yang termasuk dalam model warna CMYK
+title: "Enum ColorsOfCMYK"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.ColorsOfCMYK enum. Warna yang termasuk dalam model warna CMYK"
 type: docs
-weight: 1610
+weight: 1700
 url: /id/net/aspose.pdf.annotations/colorsofcmyk/
 ---
-## Enumerasi ColorsOfCMYK
+## ColorsOfCMYK enumeration
 
 Warna yang termasuk dalam model warna CMYK.
 
@@ -27,3 +27,5 @@ public enum ColorsOfCMYK
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

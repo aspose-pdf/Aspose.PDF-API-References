@@ -1,14 +1,14 @@
 ---
-title: FormEditor.DelListItem
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Hapus item dari bidang daftar
+title: "FormEditor.DelListItem"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormEditor method. Menghapus item dari field daftar"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/formeditor/dellistitem/
 ---
-## Metode FormEditor.DelListItem
+## FormEditor.DelListItem method
 
-Hapus item dari bidang daftar.
+Menghapus item dari field daftar.
 
 ```csharp
 public void DelListItem(string fieldName, string itemName)
@@ -28,6 +28,8 @@ formEditor.DelListItem("listboxField", "item2");
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

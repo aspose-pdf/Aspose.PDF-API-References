@@ -1,12 +1,12 @@
 ---
-title: Class PageDate.DayComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PageDateDayComponent. Mewakili komponen hari dari sebuah tanggal
+title: "Kelas PageDate.DayComponent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.PageDateDayComponent. Mewakili komponen hari dari sebuah tanggal"
 type: docs
-weight: 8120
+weight: 8260
 url: /id/net/aspose.pdf/pagedate.daycomponent/
 ---
-## Kelas PageDate.DayComponent
+## PageDate.DayComponent class
 
 Mewakili komponen hari dari sebuah tanggal.
 
@@ -35,7 +35,9 @@ public class DayComponent : DateComponent
 
 ### Lihat Juga
 
-* kelas [DateComponent](../datecomponent/)
-* kelas [PageDate](../pagedate/)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

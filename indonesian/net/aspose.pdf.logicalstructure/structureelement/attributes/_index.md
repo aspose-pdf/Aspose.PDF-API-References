@@ -1,26 +1,28 @@
 ---
-title: StructureElement.Attributes
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StrukturElemen. Mendapatkan objek StrukturAtributKoleksi
+title: "StructureElement.Attributes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureElement. Mendapatkan objek StructureAttributeCollection"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
-## Properti StrukturElemen.Atribut
+## StructureElement.Attributes property
 
-Mendapatkan objek StrukturAtributKoleksi.
+Mendapatkan objek StructureAttributeCollection.
 
 ```csharp
 public StructureAttributeCollection Attributes { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Objek StrukturAtributKoleksi.
+Objek StructureAttributeCollection.
 
 ### Lihat Juga
 
-* kelas [StrukturAtributKoleksi](../../strukturattributekoleksi/)
-* kelas [StrukturElemen](../)
-* namespace [Aspose.Pdf.StrukturLogis](../../../aspose.pdf.logicalstructure/)
+* class [StructureAttributeCollection](../../structureattributecollection/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

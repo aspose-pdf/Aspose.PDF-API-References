@@ -1,25 +1,27 @@
 ---
-title: StreamSaveTarget.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StreamSaveTarget. Mendapatkan aliran target simpan saat ini
+title: "StreamSaveTarget.Data"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StreamSaveTarget. Mendapatkan aliran dari target penyimpanan saat ini"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/streamsavetarget/data/
 ---
-## Properti StreamSaveTarget.Data
+## StreamSaveTarget.Data property
 
-Mendapatkan aliran target simpan saat ini.
+Mendapatkan stream dari target penyimpanan saat ini.
 
 ```csharp
 public Stream Data { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek aliran yang mewakili data keluaran.
+Objek aliran yang mewakili data output.
 
 ### Lihat Juga
 
-* kelas [StreamSaveTarget](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [StreamSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

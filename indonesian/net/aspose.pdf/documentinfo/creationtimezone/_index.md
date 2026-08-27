@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.CreationTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentInfo. Zona waktu tanggal pembuatan
+title: "DocumentInfo.CreationTimeZone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentInfo. Zona waktu tanggal pembuatan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/documentinfo/creationtimezone/
 ---
-## Properti DocumentInfo.CreationTimeZone
+## DocumentInfo.CreationTimeZone property
 
 Zona waktu tanggal pembuatan.
 
@@ -16,6 +16,8 @@ public TimeSpan CreationTimeZone { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

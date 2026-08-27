@@ -1,12 +1,12 @@
 ---
-title: Class Point
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Point. Mewakili titik dengan koordinat pecahan
+title: "Kelas Point"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Point. Mewakili titik dengan koordinat pecahan"
 type: docs
-weight: 9460
+weight: 9610
 url: /id/net/aspose.pdf/point/
 ---
-## Kelas Point
+## Point class
 
 Mewakili titik dengan koordinat pecahan.
 
@@ -40,3 +40,5 @@ public sealed class Point
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

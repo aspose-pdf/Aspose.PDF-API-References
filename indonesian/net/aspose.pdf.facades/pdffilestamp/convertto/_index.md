@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.ConvertTo
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileStamp. Mengatur format file PDF. File hasil akan disimpan dalam format file yang ditentukan. Jika properti ini tidak ditentukan, maka file akan disimpan dalam format PDF default tanpa konversi.
+title: "PdfFileStamp.ConvertTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileStamp. Mengatur format file PDF. File hasil akan disimpan dalam format file yang ditentukan. Jika properti ini tidak ditentukan, maka file akan disimpan dalam format PDF default tanpa konversi."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdffilestamp/convertto/
 ---
-## Properti PdfFileStamp.ConvertTo
+## PdfFileStamp.ConvertTo property
 
 Mengatur format file PDF. File hasil akan disimpan dalam format file yang ditentukan. Jika properti ini tidak ditentukan, maka file akan disimpan dalam format PDF default tanpa konversi.
 
@@ -20,3 +20,5 @@ public PdfFormat ConvertTo { set; }
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

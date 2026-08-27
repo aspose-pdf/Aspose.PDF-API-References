@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.WithContent
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ThreadMessageCreateRequest. Menambahkan konten pesan ke permintaan pesan thread
+title: "ThreadMessageCreateRequest.WithContent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ThreadMessageCreateRequest. Menambahkan konten pesan ke permintaan pesan thread"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.ai/threadmessagecreaterequest/withcontent/
 ---
-## Metode ThreadMessageCreateRequest.WithContent
+## ThreadMessageCreateRequest.WithContent method
 
 Menambahkan konten pesan ke permintaan pesan thread.
 
@@ -16,15 +16,17 @@ public ThreadMessageCreateRequest WithContent(MessageContentRequest content)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| content | MessageContentRequest | Konten pesan yang akan ditambahkan. |
+| konten | MessageContentRequest | Konten pesan yang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instansi saat ini dari [`ThreadMessageCreateRequest`](../).
+Instance saat ini dari [`ThreadMessageCreateRequest`](../).
 
 ### Lihat Juga
 
-* kelas [MessageContentRequest](../../messagecontentrequest/)
-* kelas [ThreadMessageCreateRequest](../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

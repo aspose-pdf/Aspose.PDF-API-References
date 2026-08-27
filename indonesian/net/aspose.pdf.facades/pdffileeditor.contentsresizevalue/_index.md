@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileEditor.ContentsResizeValue
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfFileEditorContentsResizeValue. Nilai margin atau ukuran konten yang ditentukan dalam persentase dari unit ruang default. Kelas ini digunakan dalam ContentsResizeParameters
+title: "Kelas PdfFileEditor.ContentsResizeValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.PdfFileEditorContentsResizeValue. Nilai margin atau ukuran konten yang ditentukan dalam persentase unit ruang default. Kelas ini digunakan dalam ContentsResizeParameters"
 type: docs
-weight: 4490
+weight: 4610
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/
 ---
-## Kelas PdfFileEditor.ContentsResizeValue
+## PdfFileEditor.ContentsResizeValue class
 
-Nilai margin atau ukuran konten yang ditentukan dalam persentase dari unit ruang default. Kelas ini digunakan dalam ContentsResizeParameters.
+Nilai margin atau ukuran konten yang ditentukan dalam persentase unit ruang default. Kelas ini digunakan dalam ContentsResizeParameters.
 
 ```csharp
 public class ContentsResizeValue
@@ -18,10 +18,10 @@ public class ContentsResizeValue
 
 | Nama | Deskripsi |
 | --- | --- |
-| [IsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent) { get; } | Mengambil true jika nilai dinyatakan dalam persentase; False jika nilai dinyatakan dalam unit default. |
-| [PercentValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue) { set; } | Mengatur nilai dalam persentase dari ukuran halaman. |
+| [IsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent) { get; } | Mengembalikan true jika nilai dinyatakan dalam persentase; False jika nilai dinyatakan dalam unit default. |
+| [PercentValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue) { set; } | Mengatur nilai dalam persentase ukuran halaman. |
 | [UnitValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue) { set; } | Mengatur nilai dalam unit ruang default. |
-| [Value](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/value) { get; } | Mengambil nilai yang ditentukan. Gunakan properti Unit untuk mendapatkan unit nilai. |
+| [Value](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/value) { get; } | Mengembalikan nilai yang ditentukan. Gunakan properti Unit untuk mendapatkan satuan nilai. |
 
 ## Metode
 
@@ -33,6 +33,8 @@ public class ContentsResizeValue
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../pdffileeditor/)
+* class [PdfFileEditor](../pdffileeditor/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

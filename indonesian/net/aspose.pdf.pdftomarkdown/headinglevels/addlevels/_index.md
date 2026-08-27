@@ -1,14 +1,14 @@
 ---
-title: HeadingLevels.AddLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Metode HeadingLevels. Menambahkan tingkat heading. Koleksi ukuran font harus diurutkan berdasarkan ukuran yang menurun
+title: "HeadingLevels.AddLevels"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode HeadingLevels. Menambahkan tingkat heading. Koleksi ukuran font harus diurutkan menurun."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.pdftomarkdown/headinglevels/addlevels/
 ---
-## Metode HeadingLevels.AddLevels
+## HeadingLevels.AddLevels method
 
-Menambahkan tingkat heading. Koleksi ukuran font harus diurutkan berdasarkan ukuran yang menurun.
+Menambahkan tingkat tajuk. Koleksi ukuran font harus diurutkan menurun.
 
 ```csharp
 public void AddLevels(ICollection<double> fontSizes)
@@ -26,6 +26,8 @@ public void AddLevels(ICollection<double> fontSizes)
 
 ### Lihat Juga
 
-* kelas [HeadingLevels](../)
+* class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

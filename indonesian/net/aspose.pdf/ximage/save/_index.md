@@ -1,14 +1,14 @@
 ---
-title: XImage.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XImage. Menyimpan data gambar ke dalam stream sebagai gambar JPEG
+title: "XImage.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XImage. Menyimpan data gambar ke dalam stream sebagai gambar JPEG"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.pdf/ximage/save/
 ---
 ## Save(Stream) {#save}
 
-Menyimpan data gambar ke dalam stream sebagai gambar JPEG.
+Menyimpan data gambar ke dalam aliran sebagai gambar JPEG.
 
 ```csharp
 public void Save(Stream stream)
@@ -20,7 +20,7 @@ public void Save(Stream stream)
 
 ### Lihat Juga
 
-* kelas [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void Save(Stream stream)
 
 ## Save(Stream, ImageFormat) {#save_2}
 
-Menyimpan gambar ke dalam stream dengan format yang diminta.
+Menyimpan gambar ke dalam aliran dengan format yang diminta.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format)
@@ -41,7 +41,7 @@ public void Save(Stream stream, ImageFormat format)
 
 ### Lihat Juga
 
-* kelas [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,7 +49,7 @@ public void Save(Stream stream, ImageFormat format)
 
 ## Save(Stream, int) {#save_1}
 
-Menyimpan data gambar ke dalam stream sebagai gambar JPEG dengan resolusi yang ditentukan.
+Menyimpan data gambar ke dalam aliran sebagai gambar JPEG dengan resolusi yang ditentukan.
 
 ```csharp
 public void Save(Stream stream, int resolution)
@@ -62,7 +62,7 @@ public void Save(Stream stream, int resolution)
 
 ### Lihat Juga
 
-* kelas [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -70,7 +70,7 @@ public void Save(Stream stream, int resolution)
 
 ## Save(Stream, ImageFormat, int) {#save_3}
 
-Menyimpan gambar ke dalam stream dengan format yang diminta dengan resolusi yang ditentukan.
+Menyimpan gambar ke dalam aliran dengan format yang diminta dengan resolusi yang ditentukan.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format, int resolution)
@@ -84,6 +84,8 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 
 ### Lihat Juga
 
-* kelas [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

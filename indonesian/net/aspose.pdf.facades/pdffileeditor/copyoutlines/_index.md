@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.CopyOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Jika benar, maka garis besar akan disalin
+title: "PdfFileEditor.CopyOutlines"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Jika true, maka outline akan disalin."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
-## Properti PdfFileEditor.CopyOutlines
+## PdfFileEditor.CopyOutlines property
 
-Jika benar, maka garis besar akan disalin.
+Jika true maka outline akan disalin.
 
 ```csharp
 public bool CopyOutlines { get; set; }
@@ -16,6 +16,8 @@ public bool CopyOutlines { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

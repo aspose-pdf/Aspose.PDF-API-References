@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfXmpMetadata. Mendapatkan koleksi nilai dalam kamus
+title: "PdfXmpMetadata.Values"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfXmpMetadata. Mendapatkan koleksi nilai dalam kamus"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/values/
 ---
-## Properti PdfXmpMetadata.Values
+## PdfXmpMetadata.Values property
 
 Mendapatkan koleksi nilai dalam kamus.
 
@@ -16,7 +16,9 @@ public ICollection<XmpValue> Values { get; }
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../../aspose.pdf/xmpvalue/)
-* kelas [PdfXmpMetadata](../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

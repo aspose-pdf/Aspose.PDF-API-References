@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionField.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpPdfAExtensionField. Mengembalikan daftar elemen xml yang mewakili field dalam pohon xml
+title: "XmpPdfAExtensionField.GetXml"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpPdfAExtensionField. Mengembalikan daftar elemen xml yang mewakili bidang dalam pohon xml"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/xmppdfaextensionfield/getxml/
 ---
-## Metode XmpPdfAExtensionField.GetXml
+## XmpPdfAExtensionField.GetXml method
 
-Mengembalikan daftar elemen xml yang mewakili field dalam pohon xml.
+Mengembalikan daftar elemen xml yang mewakili bidang dalam pohon xml.
 
 ```csharp
 public override List<XmlElement> GetXml(XmlDocument xmlDocument)
@@ -18,12 +18,14 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 | --- | --- | --- |
 | xmlDocument | XmlDocument | Dokumen xml sumber. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Daftar field.
+Daftar bidang.
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionField](../)
+* class [XmpPdfAExtensionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

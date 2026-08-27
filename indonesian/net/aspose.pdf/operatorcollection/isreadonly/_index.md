@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OperatorCollection. Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca
+title: "OperatorCollection.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OperatorCollection. Mengembalikan nilai yang menunjukkan apakah koleksi bersifat read‑only."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/operatorcollection/isreadonly/
 ---
-## Properti OperatorCollection.IsReadOnly
+## OperatorCollection.IsReadOnly property
 
-Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca.
+Mendapatkan nilai yang menunjukkan apakah koleksi bersifat read-only.
 
 ```csharp
 public override bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public override bool IsReadOnly { get; }
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

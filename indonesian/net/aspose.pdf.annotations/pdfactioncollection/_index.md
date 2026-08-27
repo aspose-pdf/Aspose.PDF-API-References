@@ -1,14 +1,14 @@
 ---
-title: Class PdfActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.PdfActionCollection. Kelas ini menggambarkan daftar tindakan
+title: "Kelas PdfActionCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.PdfActionCollection class. Kelas yang menjelaskan daftar aksi"
 type: docs
-weight: 2280
+weight: 2370
 url: /id/net/aspose.pdf.annotations/pdfactioncollection/
 ---
-## Kelas PdfActionCollection
+## PdfActionCollection class
 
-Kelas ini menggambarkan daftar tindakan.
+Kelas menjelaskan daftar tindakan.
 
 ```csharp
 public class PdfActionCollection : IEnumerable<PdfAction>
@@ -18,19 +18,21 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/pdfactioncollection/count/) { get; } | Mendapatkan jumlah tindakan. |
-| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | Mendapatkan tindakan berdasarkan indeksnya. |
+| [Count](../../aspose.pdf.annotations/pdfactioncollection/count/) { get; } | Mendapatkan jumlah aksi. |
+| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | Mendapatkan aksi berdasarkan indeksnya. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdfactioncollection/add/)(PdfAction) | Menambahkan tindakan ke daftar tindakan. |
-| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | Menghapus tindakan berdasarkan indeks. |
+| [Add](../../aspose.pdf.annotations/pdfactioncollection/add/)(PdfAction) | Menambahkan aksi ke daftar aksi. |
+| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | Menghapus aksi berdasarkan indeks. |
 | [GetEnumerator](../../aspose.pdf.annotations/pdfactioncollection/getenumerator/)() | Mendapatkan enumerator. |
 
 ### Lihat Juga
 
-* kelas [PdfAction](../pdfaction/)
-* ruang nama [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

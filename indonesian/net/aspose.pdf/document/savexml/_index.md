@@ -1,12 +1,12 @@
 ---
-title: Document.SaveXml
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Simpan dokumen ke XML
+title: "Document.SaveXml"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Menyimpan dokumen ke XML"
 type: docs
-weight: 850
+weight: 870
 url: /id/net/aspose.pdf/document/savexml/
 ---
-## Metode Document.SaveXml
+## Document.SaveXml method
 
 Simpan dokumen ke XML.
 
@@ -20,6 +20,8 @@ public void SaveXml(string file)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

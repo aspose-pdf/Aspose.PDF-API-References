@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.Log
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileSanitization. Setelah file disimpan, Anda dapat memeriksa apa yang dilakukan dengan file
+title: "PdfFileSanitization.Log"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileSanitization. Setelah file disimpan Anda dapat memeriksa apa yang telah dilakukan pada file"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdffilesanitization/log/
 ---
-## Properti PdfFileSanitization.Log
+## PdfFileSanitization.Log property
 
-Setelah file disimpan, Anda dapat memeriksa apa yang dilakukan dengan file.
+Setelah file disimpan Anda dapat memeriksa apa yang telah dilakukan pada file.
 
 ```csharp
 public List<string> Log { get; }
@@ -16,6 +16,8 @@ public List<string> Log { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFileSanitization](../)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

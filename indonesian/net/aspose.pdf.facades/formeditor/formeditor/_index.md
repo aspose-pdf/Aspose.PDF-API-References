@@ -1,7 +1,7 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FormEditor. Konstruktor untuk FormEditor
+title: "FormEditor.FormEditor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FormEditor. Konstruktor untuk FormEditor"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/formeditor/formeditor/
@@ -22,7 +22,7 @@ FormEditor formEditor = new FormEditor();
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -30,7 +30,7 @@ FormEditor formEditor = new FormEditor();
 
 ## FormEditor(Document) {#constructor_1}
 
-Menginisialisasi objek [`FormEditor`](../) baru berdasarkan *dokumen*.
+Menginisialisasi objek [`FormEditor`](../) baru berdasarkan *document*.
 
 ```csharp
 public FormEditor(Document document)
@@ -38,11 +38,13 @@ public FormEditor(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [FormEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

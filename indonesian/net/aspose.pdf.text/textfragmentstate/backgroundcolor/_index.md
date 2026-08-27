@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentState. Mengatur warna latar belakang teks yang diwakili oleh objek TextFragment
+title: "TextFragmentState.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentState. Mengatur warna latar belakang teks yang direpresentasikan oleh objek TextFragment"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/textfragmentstate/backgroundcolor/
 ---
-## Properti TextFragmentState.BackgroundColor
+## TextFragmentState.BackgroundColor property
 
-Mengatur warna latar belakang teks, yang diwakili oleh objek [`TextFragment`](../../textfragment/)
+Mengatur warna latar belakang teks, yang direpresentasikan oleh objek [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public override Color BackgroundColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [TextFragmentState](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

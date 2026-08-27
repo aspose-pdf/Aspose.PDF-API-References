@@ -1,14 +1,14 @@
 ---
-title: Element.RemoveChild
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Elemen. Hapus anak di
+title: "Element.RemoveChild"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Elemen. Hapus anak pada"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.logicalstructure/element/removechild/
 ---
-## Metode Element.RemoveChild
+## Element.RemoveChild method
 
-Hapus anak di.
+Hapus anak pada.
 
 ```csharp
 public void RemoveChild(int index)
@@ -20,6 +20,8 @@ public void RemoveChild(int index)
 
 ### Lihat Juga
 
-* kelas [Element](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreatePolygon
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi poligon
+title: "PdfContentEditor.CreatePolygon"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PdfContentEditor. Membuat anotasi poligon"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
 ---
-## Metode PdfContentEditor.CreatePolygon
+## PdfContentEditor.CreatePolygon method
 
 Membuat anotasi poligon.
 
@@ -16,10 +16,10 @@ public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, stri
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| lineInfo | LineInfo | Instansi dari kelas LineInfo. |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| annotRect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| annotContents | String | Isi dari anotasi. |
+| lineInfo | LineInfo | Instansi kelas LineInfo. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| annotRect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| annotContents | String | Isi anotasi. |
 
 ## Contoh
 
@@ -35,7 +35,9 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [LineInfo](../../lineinfo/)
-* kelas [PdfContentEditor](../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

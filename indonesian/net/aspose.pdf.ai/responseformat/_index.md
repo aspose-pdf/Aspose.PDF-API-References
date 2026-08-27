@@ -1,14 +1,14 @@
 ---
-title: Class ResponseFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.ResponseFormat. Mewakili format dari sebuah respons yang bisa berupa nilai string atau nilai objek
+title: "Kelas ResponseFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.ResponseFormat. Menyatakan format respons yang dapat berupa nilai string atau nilai objek."
 type: docs
-weight: 960
+weight: 1040
 url: /id/net/aspose.pdf.ai/responseformat/
 ---
-## Kelas ResponseFormat
+## ResponseFormat class
 
-Mewakili format dari sebuah respons, yang bisa berupa nilai string atau nilai objek.
+Mewakili format respons, yang dapat berupa nilai string atau nilai objek.
 
 ```csharp
 public class ResponseFormat : IStringOrObject<ObjectType>
@@ -26,12 +26,14 @@ public class ResponseFormat : IStringOrObject<ObjectType>
 | --- | --- |
 | [IsObjectValue](../../aspose.pdf.ai/responseformat/isobjectvalue/) { get; } | Mendapatkan nilai yang menunjukkan apakah format respons adalah nilai objek. |
 | [IsStringValue](../../aspose.pdf.ai/responseformat/isstringvalue/) { get; } | Mendapatkan nilai yang menunjukkan apakah format respons adalah nilai string. |
-| [ObjectValue](../../aspose.pdf.ai/responseformat/objectvalue/) { get; set; } | Mendapatkan atau menetapkan nilai objek dari format respons. |
-| [StringValue](../../aspose.pdf.ai/responseformat/stringvalue/) { get; set; } | Mendapatkan atau menetapkan nilai string dari format respons. |
+| [ObjectValue](../../aspose.pdf.ai/responseformat/objectvalue/) { get; set; } | Mendapatkan atau mengatur nilai objek dari format respons. |
+| [StringValue](../../aspose.pdf.ai/responseformat/stringvalue/) { get; set; } | Mendapatkan atau mengatur nilai string dari format respons. |
 
 ### Lihat Juga
 
-* antarmuka [IStringOrObject&lt;T&gt;](../istringorobject-1/)
-* kelas [ObjectType](../responseformat.objecttype/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
+* class [ObjectType](../responseformat.objecttype/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

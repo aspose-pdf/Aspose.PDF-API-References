@@ -1,12 +1,12 @@
 ---
-title: Form.FormSubmitButtonNames
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mendapatkan semua nama tombol kirim formulir
+title: "Form.FormSubmitButtonNames"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Mendapatkan semua nama tombol kirim formulir."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/form/formsubmitbuttonnames/
 ---
-## Properti Form.FormSubmitButtonNames
+## Form.FormSubmitButtonNames property
 
 Mendapatkan semua nama tombol kirim formulir.
 
@@ -27,6 +27,8 @@ foreach(string btn in submits)
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

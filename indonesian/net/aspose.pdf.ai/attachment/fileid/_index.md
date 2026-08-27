@@ -1,14 +1,14 @@
 ---
-title: Attachment.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Attachment. Mengambil atau mengatur ID dari File yang dilampirkan
+title: "Attachment.FileId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Attachment properti. Mendapatkan atau mengatur ID File yang terlampir"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/attachment/fileid/
 ---
-## Properti Attachment.FileId
+## Attachment.FileId property
 
-Mengambil atau mengatur ID dari File yang dilampirkan.
+Mendapatkan atau mengatur ID File yang dilampirkan.
 
 ```csharp
 public string FileId { get; set; }
@@ -16,6 +16,8 @@ public string FileId { get; set; }
 
 ### Lihat Juga
 
-* kelas [Attachment](../)
+* class [Attachment](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

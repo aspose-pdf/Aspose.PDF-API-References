@@ -1,14 +1,14 @@
 ---
-title: CircleAnnotation.CircleAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CircleAnnotation. Konstruktor untuk anotasi lingkaran
+title: "CircleAnnotation.CircleAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CircleAnnotation. Konstruktor untuk anotasi Circle"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/circleannotation/circleannotation/
 ---
 ## CircleAnnotation(Document) {#constructor}
 
-Konstruktor untuk anotasi lingkaran.
+Konstruktor untuk anotasi Circle.
 
 ```csharp
 public CircleAnnotation(Document document)
@@ -29,7 +29,7 @@ public CircleAnnotation(Document document)
 
 ## CircleAnnotation(Page, Rectangle) {#constructor_1}
 
-Membuat anotasi lingkaran baru pada halaman yang ditentukan.
+Membuat anotasi Circle baru pada halaman yang ditentukan.
 
 ```csharp
 public CircleAnnotation(Page page, Rectangle rect)
@@ -37,8 +37,8 @@ public CircleAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang yang diperlukan yang mengatur batas anotasi. |
+| halaman | Halaman | Halaman Document tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang yang diperlukan yang mengatur border anotasi. |
 
 ### Lihat Juga
 
@@ -47,3 +47,5 @@ public CircleAnnotation(Page page, Rectangle rect)
 * class [CircleAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

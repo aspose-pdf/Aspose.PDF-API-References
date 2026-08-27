@@ -1,12 +1,12 @@
 ---
-title: Class DataResponseT
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.DataResponse1T. Mewakili respons data yang berisi data yang ditentukan
+title: "Kelas DataResponseT"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.DataResponse1T. Mewakili respons data yang berisi data yang ditentukan"
 type: docs
-weight: 300
+weight: 310
 url: /id/net/aspose.pdf.ai/dataresponse-1/
 ---
-## Kelas DataResponse&lt;T&gt;
+## DataResponse&lt;T&gt; class
 
 Mewakili respons data yang berisi data yang ditentukan.
 
@@ -28,17 +28,19 @@ public class DataResponse<T> : BaseResponse
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } | Mendapatkan atau menetapkan data dalam respons. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Mendapatkan atau menetapkan detail respons. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Mendapatkan atau menetapkan kesalahan respons HTTP. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Mendapatkan atau menetapkan informasi kesalahan. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Mendapatkan atau menetapkan header respons HTTP. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Mendapatkan atau menetapkan kode status HTTP. |
+| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } | Mendapatkan atau mengatur data dalam respons. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Mendapatkan atau mengatur detail respons. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Mendapatkan atau mengatur kesalahan respons HTTP. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Mendapatkan atau mengatur informasi kesalahan. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Mendapatkan atau mengatur header respons HTTP. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Mendapatkan atau mengatur kode status HTTP. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Menunjukkan apakah respons berhasil. |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Mendapatkan frasa alasan kesalahan. |
 
 ### Lihat Juga
 
-* kelas [BaseResponse](../baseresponse/)
+* class [BaseResponse](../baseresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

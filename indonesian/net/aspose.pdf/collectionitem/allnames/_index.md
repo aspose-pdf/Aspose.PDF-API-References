@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CollectionItem. Mendapatkan koleksi dari semua nama nilai item koleksi
+title: "CollectionItem.AllNames"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CollectionItem properti. Mendapatkan koleksi semua nama nilai item koleksi."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/collectionitem/allnames/
 ---
-## Properti CollectionItem.AllNames
+## CollectionItem.AllNames property
 
-Mendapatkan koleksi dari semua nama nilai item koleksi.
+Mendapatkan koleksi semua nama nilai item koleksi.
 
 ```csharp
 public ICollection<string> AllNames { get; }
@@ -16,6 +16,8 @@ public ICollection<string> AllNames { get; }
 
 ### Lihat Juga
 
-* kelas [CollectionItem](../)
+* class [CollectionItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

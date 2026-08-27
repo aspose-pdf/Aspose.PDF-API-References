@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.ModifyThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Memodifikasi thread yang ada secara asinkron
+title: "IOpenAIClient.ModifyThreadAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Memodifikasi thread yang ada secara asinkron"
 type: docs
 weight: 380
 url: /id/net/aspose.pdf.ai/iopenaiclient/modifythreadasync/
 ---
-## Metode IOpenAIClient.ModifyThreadAsync
+## IOpenAIClient.ModifyThreadAsync method
 
-Memodifikasi thread yang ada secara asinkron.
+Memodifikasi thread yang ada secara asynchronous.
 
 ```csharp
 public Task<ThreadResponse> ModifyThreadAsync(string threadId, 
@@ -17,24 +17,26 @@ public Task<ThreadResponse> ModifyThreadAsync(string threadId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threadId | String | ID dari thread yang akan dimodifikasi. |
+| threadId | String | ID thread yang akan dimodifikasi. |
 | threadModifyRequest | ThreadModifyRequest | Objek permintaan yang berisi detail modifikasi. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari modifikasi thread.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari modifikasi thread.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [ThreadResponse](../../threadresponse/)
-* kelas [ThreadModifyRequest](../../threadmodifyrequest/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadResponse](../../threadresponse/)
+* class [ThreadModifyRequest](../../threadmodifyrequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

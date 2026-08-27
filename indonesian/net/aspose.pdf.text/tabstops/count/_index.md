@@ -1,14 +1,14 @@
 ---
-title: TabStops.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TabStops. Menginisialisasi instance baru dari kelas TabStop dengan posisi yang ditentukan dan menambahkannya ke koleksi TabStops
+title: "TabStops.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TabStops. Menginisialisasi sebuah instance baru dari kelas TabStop dengan posisi yang ditentukan dan menambahkannya ke koleksi TabStops."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/tabstops/count/
 ---
-## Properti TabStops.Count
+## TabStops.Count property
 
-Menginisialisasi instance baru dari kelas [`TabStop`](../../tabstop/) dengan posisi yang ditentukan dan menambahkannya ke koleksi TabStops.
+Menginisialisasi sebuah instance baru dari kelas [`TabStop`](../../tabstop/) dengan posisi yang ditentukan dan menambahkannya ke koleksi TabStops.
 
 ```csharp
 public int Count { get; }
@@ -16,14 +16,16 @@ public int Count { get; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| position | Posisi dari tab stop. |
+| posisi | Posisi tab stop. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek [`TabStop`](../../tabstop/) baru.
+Objek [`TabStop`](../../tabstop/) yang baru.
 
 ### Lihat Juga
 
-* kelas [TabStops](../)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

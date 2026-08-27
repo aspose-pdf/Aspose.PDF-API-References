@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextAbsorber. Mengambil atau mengatur opsi pencarian teks
+title: "TextAbsorber.TextSearchOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextAbsorber. Mendapatkan atau mengatur opsi pencarian teks."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/textabsorber/textsearchoptions/
 ---
-## Properti TextAbsorber.TextSearchOptions
+## TextAbsorber.TextSearchOptions property
 
-Mengambil atau mengatur opsi pencarian teks.
+Mendapatkan atau mengatur opsi pencarian teks.
 
 ```csharp
 public virtual TextSearchOptions TextSearchOptions { get; set; }
@@ -16,11 +16,13 @@ public virtual TextSearchOptions TextSearchOptions { get; set; }
 
 ## Catatan
 
-Memungkinkan untuk mendefinisikan persegi panjang yang membatasi teks yang diekstrak. Secara default, persegi panjang tersebut kosong. Itu berarti batas halaman hanya mendefinisikan wilayah ekstraksi teks.
+Memungkinkan untuk mendefinisikan persegi panjang yang membatasi teks yang diekstrak. Secara default persegi panjang kosong. Itu berarti batas halaman saja yang menentukan wilayah ekstraksi teks.
 
 ### Lihat Juga
 
-* kelas [TextSearchOptions](../../textsearchoptions/)
-* kelas [TextAbsorber](../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

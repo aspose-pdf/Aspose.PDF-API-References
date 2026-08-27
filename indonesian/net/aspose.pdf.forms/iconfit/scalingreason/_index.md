@@ -1,14 +1,14 @@
 ---
-title: IconFit.ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IconFit. Mendapatkan atau mengatur alasan skala
+title: "IconFit.ScalingReason"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti IconFit. Mendapatkan atau mengatur alasan skala"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.forms/iconfit/scalingreason/
 ---
-## Properti IconFit.ScalingReason
+## IconFit.ScalingReason property
 
-Mendapatkan atau mengatur alasan skala.
+Mendapatkan atau mengatur alasan penskalaan.
 
 ```csharp
 public ScalingReason ScalingReason { get; set; }
@@ -20,3 +20,5 @@ public ScalingReason ScalingReason { get; set; }
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class GraphicalPdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Comparison.GraphicalPdfComparer. Mewakili kelas untuk membandingkan dokumen PDF secara grafis. Harus digunakan untuk mencari perubahan kecil yang terutama bersifat grafis. Untuk membandingkan perubahan konten teks, gunakan kelas perbandingan PDF lainnya.
+title: "Kelas GraphicalPdfComparer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Comparison.GraphicalPdfComparer class. Mewakili kelas untuk membandingkan dokumen PDF secara grafis. Harus digunakan untuk mencari perubahan kecil terutama yang bersifat grafis. Untuk membandingkan perubahan konten teks gunakan kelas perbandingan PDF lainnya."
 type: docs
-weight: 3190
+weight: 3300
 url: /id/net/aspose.pdf.comparison/graphicalpdfcomparer/
 ---
-## Kelas GraphicalPdfComparer
+## GraphicalPdfComparer class
 
 Mewakili kelas untuk membandingkan dokumen PDF secara grafis. Harus digunakan untuk mencari perubahan kecil, terutama yang bersifat grafis. Untuk membandingkan perubahan konten teks, gunakan kelas perbandingan PDF lainnya.
 
@@ -25,8 +25,8 @@ public class GraphicalPdfComparer
 | Nama | Deskripsi |
 | --- | --- |
 | [Color](../../aspose.pdf.comparison/graphicalpdfcomparer/color/) { get; set; } | Mendapatkan dan mengatur warna bendera perubahan. Warna default adalah merah. |
-| [Resolution](../../aspose.pdf.comparison/graphicalpdfcomparer/resolution/) { get; set; } | Mendapatkan dan mengatur resolusi gambar yang dihasilkan. Nilai default adalah 150dpi. |
-| [Threshold](../../aspose.pdf.comparison/graphicalpdfcomparer/threshold/) { get; set; } | Mendapatkan dan mengatur nilai ambang dalam persentase. Nilai ini memungkinkan Anda untuk mengabaikan perubahan kecil jika tidak signifikan bagi Anda. Nilai default adalah 0%. |
+| [Resolution](../../aspose.pdf.comparison/graphicalpdfcomparer/resolution/) { get; set; } | Mendapatkan dan mengatur resolusi gambar hasil. Nilai default adalah 150dpi. |
+| [Threshold](../../aspose.pdf.comparison/graphicalpdfcomparer/threshold/) { get; set; } | Mendapatkan dan mengatur nilai ambang dalam persentase. Nilai ini memungkinkan Anda mengabaikan perubahan kecil jika tidak signifikan bagi Anda. Nilai default adalah 0%. |
 
 ## Metode
 
@@ -43,3 +43,5 @@ public class GraphicalPdfComparer
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

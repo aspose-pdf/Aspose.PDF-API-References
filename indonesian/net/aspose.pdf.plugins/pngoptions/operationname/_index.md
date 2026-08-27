@@ -1,12 +1,12 @@
 ---
-title: PngOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PngOptions. Mengembalikan nama operasi
+title: "PngOptions.OperationName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PngOptions. Mengembalikan nama operasi."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pngoptions/operationname/
 ---
-## Properti PngOptions.OperationName
+## PngOptions.OperationName property
 
 Mengembalikan nama operasi.
 
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### Lihat Juga
 
-* kelas [PngOptions](../)
+* class [PngOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

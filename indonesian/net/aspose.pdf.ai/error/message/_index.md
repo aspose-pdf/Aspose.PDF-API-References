@@ -1,12 +1,12 @@
 ---
-title: Error.Message
-second_title: Aspose.PDF for .NET API Reference
-description: Properti kesalahan. Mendapatkan atau mengatur pesan kesalahan
+title: "Error.Message"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Error. Mendapatkan atau mengatur pesan error"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/error/message/
 ---
-## Properti Error.Message
+## Error.Message property
 
 Mendapatkan atau mengatur pesan kesalahan.
 
@@ -16,6 +16,8 @@ public string Message { get; set; }
 
 ### Lihat Juga
 
-* kelas [Error](../)
+* class [Error](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

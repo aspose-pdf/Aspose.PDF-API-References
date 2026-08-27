@@ -1,12 +1,12 @@
 ---
-title: Document.DefaultNodesNumInSubtrees
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang dokumen.
+title: "Document.DefaultNodesNumInSubtrees"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang Document."
 type: docs
-weight: 920
+weight: 940
 url: /id/net/aspose.pdf/document/defaultnodesnuminsubtrees/
 ---
-## Bidang Document.DefaultNodesNumInSubtrees
+## Document.DefaultNodesNumInSubtrees field
 
 ```csharp
 public const byte DefaultNodesNumInSubtrees;
@@ -14,6 +14,8 @@ public const byte DefaultNodesNumInSubtrees;
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

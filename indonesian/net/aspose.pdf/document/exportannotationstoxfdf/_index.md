@@ -1,14 +1,14 @@
 ---
-title: Document.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Mengekspor semua anotasi dokumen ke file XFDF
+title: "Document.ExportAnnotationsToXfdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Mengekspor semua anotasi dokumen ke file XFDF"
 type: docs
-weight: 630
+weight: 650
 url: /id/net/aspose.pdf/document/exportannotationstoxfdf/
 ---
 ## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}
 
-Mengekspor semua anotasi dokumen ke file XFDF
+Mengekspor semua anotasi document ke file XFDF.
 
 ```csharp
 public void ExportAnnotationsToXfdf(string fileName)
@@ -20,7 +20,7 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 ## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf}
 
-Mengekspor semua anotasi dokumen ke dalam stream.
+Mengekspor semua anotasi document ke dalam stream.
 
 ```csharp
 public void ExportAnnotationsToXfdf(Stream stream)
@@ -40,6 +40,8 @@ public void ExportAnnotationsToXfdf(Stream stream)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCrossSectionArray class. Class PDF3DCrossSectionArray
+title: "Kelas PDF3DCrossSectionArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSectionArray kelas. Kelas PDF3DCrossSectionArray"
 type: docs
-weight: 2190
+weight: 2280
 url: /id/net/aspose.pdf.annotations/pdf3dcrosssectionarray/
 ---
-## Kelas PDF3DCrossSectionArray
+## PDF3DCrossSectionArray class
 
 Kelas PDF3DCrossSectionArray.
 
@@ -18,24 +18,26 @@ public class PDF3DCrossSectionArray
 
 | Nama | Deskripsi |
 | --- | --- |
-| [PDF3DCrossSectionArray](pdf3dcrosssectionarray/)(Document) | Menginisialisasi instance baru dari kelas `PDF3DCrossSectionArray`. |
+| [PDF3DCrossSectionArray](pdf3dcrosssectionarray/)(Document) | Menginisialisasi sebuah instance baru dari kelas `PDF3DCrossSectionArray`. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | Mendapatkan jumlah potongan penampang. |
-| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | Mendapatkan atau menetapkan [`PDF3DCrossSection`](../pdf3dcrosssection/) pada indeks yang ditentukan. |
+| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | Mendapatkan jumlah penampang. |
+| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | Mendapatkan atau mengatur [`PDF3DCrossSection`](../pdf3dcrosssection/) pada indeks yang ditentukan. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | Menambahkan potongan penampang yang ditentukan ke array tampilan. |
-| [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | Menghapus semua potongan penampang dari array. |
-| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | Menghapus potongan penampang dari array pada indeks yang ditentukan. |
+| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | Menambahkan penampang yang ditentukan ke array tampilan. |
+| [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | Menghapus semua penampang dari array. |
+| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | Menghapus penampang dari array pada indeks yang ditentukan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

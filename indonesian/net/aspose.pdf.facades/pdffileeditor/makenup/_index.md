@@ -1,153 +1,12 @@
 ---
-title: PdfFileEditor.MakeNUp
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Membuat dokumen NUp dari dua aliran PDF input ke outputStream
+title: "PdfFileEditor.MakeNUp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Membuat dokumen NUp dari dua aliran PDF masukan ke outputStream"
 type: docs
 weight: 310
 url: /id/net/aspose.pdf.facades/pdffileeditor/makenup/
 ---
 ## MakeNUp(Stream, Stream, Stream) {#makenup_2}
-
-Membuat dokumen N-Up dari firstInputFile ke outputFile.
-
-```csharp
-public bool MakeNUp(string inputFile, string outputFile, int x, int y)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputFile | String | Jalur dan nama file pdf input. |
-| outputFile | String | Jalur dan nama file pdf output. |
-| x | Int32 | Jumlah kolom. |
-| y | Int32 | Jumlah baris. |
-
-### Return Value
-
-boolean - True untuk sukses, atau false.
-
-## Contoh
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.MakeNUp("input.pdf", "output.pdf", 3, 3);
-```
-
-### Lihat Juga
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeNUp(Stream, Stream, int, int) {#makenup_2}
-
-Membuat dokumen N-Up dari aliran input dan menyimpan hasilnya ke aliran output.
-
-```csharp
-public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream | Aliran pdf input. |
-| outputStream | Stream | Aliran pdf output. |
-| x | Int32 | Jumlah kolom. |
-| y | Int32 | Jumlah baris. |
-
-### Return Value
-
-boolean - True untuk sukses, atau false.
-
-## Contoh
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
-Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
-pfe.MakeNUp(inputStream, outputStream, 3, 3);
-```
-
-### Lihat Juga
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeNUp(Stream, Stream, int, int, PageSize) {#makenup_3}
-
-Membuat dokumen N-Up dari aliran input pertama ke aliran output.
-
-```csharp
-public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageSize pageSize)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream | Aliran pdf input. |
-| outputStream | Stream | Aliran pdf output. |
-| x | Int32 | Jumlah kolom. |
-| y | Int32 | Jumlah baris. |
-| pageSize | PageSize | Ukuran halaman dari file pdf output. |
-
-### Return Value
-
-True jika operasi berhasil.
-
-## Contoh
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
-Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
-pfe.MakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
-```
-
-### Lihat Juga
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeNUp(string, string, string) {#makenup_10}
-
-Membuat dokumen N-Up dari dua file PDF input ke outputFile. Setiap halaman dari outputFile akan berisi dua halaman, satu halaman dari file input pertama dan satu lagi dari file input kedua. Dua halaman tersebut ditumpuk secara horizontal.
-
-```csharp
-public bool MakeNUp(string firstInputFile, string secondInputFile, string outputFile)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| firstInputFile | String | file input pertama. |
-| secondInputFile | String | file input kedua. |
-| outputFile | String | Jalur dan nama file pdf output. |
-
-### Return Value
-
-boolean - True untuk sukses, atau false.
-
-## Contoh
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.MakeNUp("input1.pdf", "input2.pdf", "output.pdf");
-```
-
-### Lihat Juga
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeNUp(Stream, Stream, Stream) {#makenup_4}
 
 Membuat dokumen N-Up dari dua aliran PDF input ke outputStream.
 
@@ -161,9 +20,9 @@ public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream ou
 | secondInputStream | Stream | aliran input kedua. |
 | outputStream | Stream | Aliran pdf output. |
 
-### Return Value
+### Nilai Kembalian
 
-boolean - True untuk sukses, atau false.
+boolean - True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -185,7 +44,7 @@ pfe.MakeNUp(input1, input2, output);
 
 ## MakeNUp(string[], string, bool) {#makenup_7}
 
-Membuat dokumen N-Up dari beberapa file PDF input ke outputFile. Setiap halaman dari outputFile akan berisi beberapa halaman, yang merupakan kombinasi dari halaman di file input dengan nomor halaman yang sama. Halaman-halaman tersebut ditumpuk secara horizontal jika isSidewise bernilai true dan ditumpuk secara vertikal jika isSidewise bernilai false.
+Membuat dokumen N-Up dari beberapa file PDF input ke outputFile. Setiap halaman outputFile akan berisi beberapa halaman, yang merupakan kombinasi dengan halaman dalam file input pada nomor halaman yang sama. Halaman‑multiple ditumpuk secara horizontal jika isSidewise bernilai true dan ditumpuk secara vertikal jika isSidewise bernilai false.
 
 ```csharp
 public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
@@ -195,11 +54,11 @@ public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 | --- | --- | --- |
 | inputFiles | String[] | File Pdf input. |
 | outputFile | String | Jalur dan nama file pdf output. |
-| isSidewise | Boolean | Cara penumpukan, true untuk horizontal dan false untuk vertikal. |
+| isSidewise | Boolean | Cara ditumpuk, true untuk secara horizontal dan false untuk secara vertikal. |
 
-### Return Value
+### Nilai Kembalian
 
-boolean - True untuk sukses, atau false.
+boolean - True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -218,7 +77,7 @@ pfe.MakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.p
 
 ## MakeNUp(Stream[], Stream, bool) {#makenup_3}
 
-Membuat dokumen N-Up dari beberapa aliran PDF input ke outputStream. Setiap halaman dari outputStream akan berisi beberapa halaman, yang merupakan kombinasi dari halaman di aliran input dengan nomor halaman yang sama. Halaman-halaman tersebut ditumpuk secara horizontal jika isSidewise bernilai true dan ditumpuk secara vertikal jika isSidewise bernilai false.
+Membuat dokumen N-Up dari beberapa aliran PDF input ke outputStream. Setiap halaman outputStream akan berisi beberapa halaman, yang merupakan kombinasi dengan halaman dalam aliran input pada nomor halaman yang sama. Halaman‑multiple ditumpuk secara horizontal jika isSidewise bernilai true dan ditumpuk secara vertikal jika isSidewise bernilai false.
 
 ```csharp
 public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
@@ -228,11 +87,11 @@ public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 | --- | --- | --- |
 | inputStreams | Stream[] | Aliran Pdf input. |
 | outputStream | Stream | Aliran pdf output. |
-| isSidewise | Boolean | Cara penumpukan, true untuk horizontal dan false untuk vertikal. |
+| isSidewise | Boolean | Cara ditumpuk, true untuk secara horizontal dan false untuk secara vertikal. |
 
-### Return Value
+### Nilai Kembalian
 
-boolean - True untuk sukses, atau false.
+boolean - True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -267,11 +126,11 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize 
 | outputFile | String | Jalur dan nama file pdf output. |
 | x | Int32 | Jumlah kolom. |
 | y | Int32 | Jumlah baris. |
-| pageSize | PageSize | Ukuran halaman dari file pdf output. |
+| pageSize | PageSize | Ukuran halaman file pdf output. |
 
-### Return Value
+### Nilai Kembalian
 
-boolean - True untuk sukses, atau false.
+boolean - True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -304,9 +163,9 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y)
 | x | Int32 | Jumlah kolom. |
 | y | Int32 | Jumlah baris. |
 
-### Return Value
+### Nilai Kembalian
 
-boolean - True untuk sukses, atau false.
+boolean - True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -325,7 +184,7 @@ pfe.MakeNUp("input.pdf", "output.pdf", 3, 3);
 
 ## MakeNUp(Stream, Stream, int, int) {#makenup}
 
-Membuat dokumen N-Up dari aliran input dan menyimpan hasilnya ke aliran output.
+Membuat dokumen N-Up dari aliran input dan menyimpan hasil ke aliran output.
 
 ```csharp
 public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
@@ -338,9 +197,9 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 | x | Int32 | Jumlah kolom. |
 | y | Int32 | Jumlah baris. |
 
-### Return Value
+### Nilai Kembalian
 
-boolean - True untuk sukses, atau false.
+boolean - True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -373,9 +232,9 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageS
 | outputStream | Stream | Aliran pdf output. |
 | x | Int32 | Jumlah kolom. |
 | y | Int32 | Jumlah baris. |
-| pageSize | PageSize | Ukuran halaman dari file pdf output. |
+| pageSize | PageSize | Ukuran halaman file pdf output. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -399,7 +258,7 @@ pfe.MakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 
 ## MakeNUp(string, string, string) {#makenup_6}
 
-Membuat dokumen N-Up dari dua file PDF input ke outputFile. Setiap halaman dari outputFile akan berisi dua halaman, satu halaman dari file input pertama dan satu lagi dari file input kedua. Dua halaman tersebut ditumpuk secara horizontal.
+Membuat dokumen N-Up dari dua file PDF input ke outputFile. Setiap halaman outputFile akan berisi dua halaman, satu halaman berasal dari file input pertama dan satu lagi dari file input kedua. Kedua halaman ditumpuk secara horizontal.
 
 ```csharp
 public bool MakeNUp(string firstInputFile, string secondInputFile, string outputFile)
@@ -411,9 +270,9 @@ public bool MakeNUp(string firstInputFile, string secondInputFile, string output
 | secondInputFile | String | file input kedua. |
 | outputFile | String | Jalur dan nama file pdf output. |
 
-### Return Value
+### Nilai Kembalian
 
-boolean - True untuk sukses, atau false.
+boolean - True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -427,3 +286,5 @@ pfe.MakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BoxStyle Aspose.Pdf.Forms. Mewakili gaya untuk menggambar centang di kotak centang
+title: "Enum BoxStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Forms.BoxStyle. Mewakili gaya untuk menggambar centang dalam kotak centang."
 type: docs
-weight: 4960
+weight: 5080
 url: /id/net/aspose.pdf.forms/boxstyle/
 ---
-## Enumerasi BoxStyle
+## BoxStyle enumeration
 
-Mewakili gaya untuk menggambar centang di kotak centang.
+Mewakili gaya untuk menggambar centang dalam kotak centang.
 
 ```csharp
 public enum BoxStyle
@@ -21,7 +21,7 @@ public enum BoxStyle
 | Circle | `0` | Gaya lingkaran. |
 | Check | `1` | Gaya centang. |
 | Cross | `2` | Gaya silang. |
-| Diamond | `3` | Gaya berlian. |
+| Diamond | `3` | Gaya wajik. |
 | Square | `4` | Gaya persegi. |
 | Star | `5` | Gaya bintang. |
 
@@ -29,3 +29,5 @@ public enum BoxStyle
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

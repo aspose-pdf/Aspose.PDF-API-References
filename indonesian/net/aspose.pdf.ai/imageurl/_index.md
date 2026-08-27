@@ -1,12 +1,12 @@
 ---
-title: Class ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.ImageUrl. Mewakili URL gambar dalam konten pesan
+title: "Kelas ImageUrl"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.ImageUrl. Mewakili URL gambar dalam konten pesan."
 type: docs
-weight: 640
+weight: 690
 url: /id/net/aspose.pdf.ai/imageurl/
 ---
-## Kelas ImageUrl
+## ImageUrl class
 
 Mewakili URL gambar dalam konten pesan.
 
@@ -24,10 +24,12 @@ public class ImageUrl
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | Mendapatkan atau menetapkan tingkat detail gambar jika ditentukan oleh pengguna. rendah menggunakan lebih sedikit token, Anda dapat memilih resolusi tinggi menggunakan tinggi. |
-| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | Mendapatkan atau menetapkan URL eksternal gambar, harus berupa jenis gambar yang didukung: jpeg, jpg, png, gif, webp. |
+| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | Mendapatkan atau mengatur tingkat detail gambar jika ditentukan oleh pengguna. low menggunakan lebih sedikit token, Anda dapat memilih resolusi tinggi dengan menggunakan high. |
+| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | Mendapatkan atau mengatur URL eksternal gambar, harus berupa tipe gambar yang didukung: jpeg, jpg, png, gif, webp. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

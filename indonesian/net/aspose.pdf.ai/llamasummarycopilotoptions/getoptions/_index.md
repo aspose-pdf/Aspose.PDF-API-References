@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaSummaryCopilotOptions. Mendapatkan LlamaSummaryCopilotOptions saat ini
+title: "LlamaSummaryCopilotOptions.GetOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaSummaryCopilotOptions. Mendapatkan LlamaSummaryCopilotOptions saat ini"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/
 ---
-## Metode LlamaSummaryCopilotOptions.GetOptions
+## LlamaSummaryCopilotOptions.GetOptions method
 
 Mendapatkan [`LlamaSummaryCopilotOptions`](../) saat ini.
 
@@ -14,12 +14,14 @@ Mendapatkan [`LlamaSummaryCopilotOptions`](../) saat ini.
 public LlamaSummaryCopilotOptions GetOptions()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

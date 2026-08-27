@@ -1,14 +1,14 @@
 ---
-title: Bookmark.ChildItems
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Mengambil atau mengatur anak-anak bookmark
+title: "Bookmark.ChildItems"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Mendapatkan atau mengatur anak bookmark."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/bookmark/childitems/
 ---
-## Properti Bookmark.ChildItems
+## Bookmark.ChildItems property
 
-Mengambil atau mengatur anak-anak bookmark.
+Mendapatkan atau mengatur anak-anak bookmark.
 
 ```csharp
 public Bookmarks ChildItems { get; set; }
@@ -16,7 +16,9 @@ public Bookmarks ChildItems { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmarks](../../bookmarks/)
-* kelas [Bookmark](../)
+* class [Bookmarks](../../bookmarks/)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

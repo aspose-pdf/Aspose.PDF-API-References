@@ -1,14 +1,14 @@
 ---
-title: ColorBarAnnotation.ColorBarAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ColorBarAnnotation. Membuat anotasi ColorBar baru di halaman yang ditentukan
+title: "ColorBarAnnotation.ColorBarAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ColorBarAnnotation. Membuat anotasi ColorBar baru pada halaman yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/colorbarannotation/colorbarannotation/
 ---
-## Konstruktor ColorBarAnnotation
+## ColorBarAnnotation constructor
 
-Membuat anotasi ColorBar baru di halaman yang ditentukan.
+Membuat anotasi ColorBar baru pada halaman yang ditentukan.
 
 ```csharp
 public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = ColorsOfCMYK.Black)
@@ -16,9 +16,9 @@ public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang yang diperlukan yang menetapkan area gambar anotasi. |
-| colorOfCMYK | ColorsOfCMYK | Warna untuk gambar anotasi. |
+| halaman | Halaman | Halaman Document tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang yang diperlukan yang mengatur area gambar anotasi. |
+| colorOfCMYK | ColorsOfCMYK | Warna yang digunakan untuk menggambar anotasi. |
 
 ### Lihat Juga
 
@@ -28,3 +28,5 @@ public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = 
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

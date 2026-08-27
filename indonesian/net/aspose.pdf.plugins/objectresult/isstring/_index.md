@@ -1,25 +1,27 @@
 ---
-title: ObjectResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ObjectResult. Menunjukkan apakah hasilnya adalah string
+title: "ObjectResult.IsString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ObjectResult. Menunjukkan apakah hasilnya berupa string"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/objectresult/isstring/
 ---
-## Properti ObjectResult.IsString
+## ObjectResult.IsString property
 
-Menunjukkan apakah hasilnya adalah string.
+Menunjukkan apakah hasilnya berupa string.
 
 ```csharp
 public bool IsString { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-`true` jika hasilnya adalah string; jika tidak `false`.
+`true` jika hasilnya berupa string; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [ObjectResult](../)
+* class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

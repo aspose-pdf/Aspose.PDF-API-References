@@ -1,22 +1,24 @@
 ---
-title: Aspose.Pdf.Tagged
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged adalah namespace untuk kelas-kelas yang mendukung dokumen PDF Terlabel
+title: "Aspose.Pdf.Tagged"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Tagged adalah namespace untuk kelas yang mendukung dokumen Tagged PDF."
 type: docs
-weight: 250
+weight: 240
 url: /id/net/aspose.pdf.tagged/
 ---
-**Aspose.Pdf.Tagged** adalah namespace untuk kelas-kelas yang mendukung dokumen PDF Terlabel.
+**Aspose.Pdf.Tagged** adalah namespace untuk kelas yang mendukung dokumen Tagged PDF.
 
 ## Kelas
 
 | Kelas | Deskripsi |
 | --- | --- |
 | [PositionSettings](./positionsettings/) | Pengaturan posisi. |
-| [TaggedException](./taggedexception/) | Mewakili pengecualian untuk konten TaggedPDF dari dokumen. |
+| [TaggedException](./taggedexception/) | Mewakili pengecualian untuk konten TaggedPDF dokumen. |
 ## Antarmuka
 
 | Antarmuka | Deskripsi |
 | --- | --- |
-| [IAdjustPosition](./iadjustposition/) | Antarmuka untuk metode pemposisian. |
-| [ITaggedContent](./itaggedcontent/) | Mewakili antarmuka untuk bekerja dengan konten TaggedPdf dari dokumen. |
+| [IAdjustPosition](./iadjustposition/) | Antarmuka untuk metode penempatan. |
+| [ITaggedContent](./itaggedcontent/) | Mewakili antarmuka untuk bekerja dengan konten TaggedPdf dokumen. |
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Scope_Row
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Ruang Lingkup Atribut
+title: "AttributeName.Scope_Row"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut Scope Row"
 type: docs
 weight: 540
 url: /id/net/aspose.pdf.logicalstructure/attributename/scope_row/
 ---
-## Field AttributeName.Scope_Row
+## AttributeName.Scope_Row field
 
-Ruang Lingkup Atribut: Baris.
+Atribut Scope: Row.
 
 ```csharp
 public static readonly AttributeName Scope_Row;
@@ -16,6 +16,8 @@ public static readonly AttributeName Scope_Row;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

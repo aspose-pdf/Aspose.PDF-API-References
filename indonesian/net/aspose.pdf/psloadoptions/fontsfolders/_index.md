@@ -1,14 +1,14 @@
 ---
-title: PsLoadOptions.FontsFolders
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PsLoadOptions. Mengambil atau mengatur jalur folder font
+title: "PsLoadOptions.FontsFolders"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PsLoadOptions. Mendapatkan atau mengatur jalur folder font"
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.pdf/psloadoptions/fontsfolders/
 ---
-## Properti PsLoadOptions.FontsFolders
+## PsLoadOptions.FontsFolders property
 
-Mengambil atau mengatur jalur folder font.
+Mendapatkan atau mengatur jalur folder font.
 
 ```csharp
 public string[] FontsFolders { get; set; }
@@ -16,6 +16,8 @@ public string[] FontsFolders { get; set; }
 
 ### Lihat Juga
 
-* kelas [PsLoadOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [PsLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

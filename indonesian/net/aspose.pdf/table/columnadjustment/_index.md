@@ -1,14 +1,14 @@
 ---
-title: Table.ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tabel. Mengambil atau mengatur penyesuaian kolom tabel
+title: "Table.ColumnAdjustment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Table. Mendapatkan atau mengatur penyesuaian kolom tabel"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/table/columnadjustment/
 ---
-## Properti Table.ColumnAdjustment
+## Table.ColumnAdjustment property
 
-Mengambil atau mengatur penyesuaian kolom tabel.
+Mendapatkan atau mengatur penyesuaian kolom tabel.
 
 ```csharp
 public ColumnAdjustment ColumnAdjustment { get; set; }
@@ -20,3 +20,5 @@ public ColumnAdjustment ColumnAdjustment { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Mengembalikan enumerator untuk koleksi
+title: "OperatorCollection.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OperatorCollection metode. Mengembalikan enumerator untuk koleksi"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/operatorcollection/getenumerator/
 ---
-## Metode OperatorCollection.GetEnumerator
+## OperatorCollection.GetEnumerator method
 
 Mengembalikan enumerator untuk koleksi
 
@@ -14,13 +14,15 @@ Mengembalikan enumerator untuk koleksi
 public override IEnumerator<Operator> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Enumerator koleksi
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

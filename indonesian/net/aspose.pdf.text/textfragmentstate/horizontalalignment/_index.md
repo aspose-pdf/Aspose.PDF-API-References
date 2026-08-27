@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentState. Mendapatkan atau mengatur perataan horizontal untuk teks
+title: "TextFragmentState.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentState. Mendapatkan atau mengatur perataan horizontal untuk teks"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.text/textfragmentstate/horizontalalignment/
 ---
-## Properti TextFragmentState.HorizontalAlignment
+## TextFragmentState.HorizontalAlignment property
 
 Mendapatkan atau mengatur perataan horizontal untuk teks.
 
@@ -24,3 +24,5 @@ HorizontalAlignment.None sama dengan HorizontalAlignment.Left. Perhatikan bahwa 
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

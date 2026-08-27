@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.RichMediaAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor RichMediaAnnotation. Menginisialisasi RichMediaAnnotation
+title: "RichMediaAnnotation.RichMediaAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor RichMediaAnnotation. Menginisialisasi RichMediaAnnotation"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/richmediaannotation/richmediaannotation/
 ---
-## Konstruktor RichMediaAnnotation
+## RichMediaAnnotation constructor
 
 Menginisialisasi RichMediaAnnotation.
 
@@ -16,13 +16,15 @@ public RichMediaAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman tempat objek dibuat. |
-| rect | Persegi Panjang | Koordinat persegi panjang. |
+| halaman | Halaman | Page tempat objek dibuat. |
+| rect | Rectangle | Koordinat Rectangle. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [RichMediaAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Stamp. Menambahkan cap pada halaman
+title: "Stamp.Put"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Stamp. Menambahkan stempel pada halaman"
 type: docs
 weight: 210
 url: /id/net/aspose.pdf/stamp/put/
 ---
-## Metode Stamp.Put
+## Stamp.Put method
 
-Menambahkan cap pada halaman.
+Menambahkan stempel pada halaman.
 
 ```csharp
 public abstract void Put(Page page)
@@ -16,11 +16,13 @@ public abstract void Put(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman untuk menambahkan cap. |
+| halaman | Halaman | Halaman untuk menambahkan stempel. |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [Stamp](../)
+* class [Page](../../page/)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

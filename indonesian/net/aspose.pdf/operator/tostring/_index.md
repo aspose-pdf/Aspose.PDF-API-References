@@ -1,12 +1,12 @@
 ---
-title: Operator.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode operator. Mengembalikan teks operator dan parameternya
+title: "Operator.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Operator. Mengembalikan teks operator dan parameternya"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/operator/tostring/
 ---
-## Metode Operator.ToString
+## Operator.ToString method
 
 Mengembalikan teks operator dan parameternya.
 
@@ -14,12 +14,14 @@ Mengembalikan teks operator dan parameternya.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Teks operator
+Operator teks
 
 ### Lihat Juga
 
-* kelas [Operator](../)
+* class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

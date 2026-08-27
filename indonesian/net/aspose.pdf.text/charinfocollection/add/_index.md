@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CharInfoCollection. Koleksi bersifat read-only melempar NotImplementedException
+title: "CharInfoCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CharInfoCollection. Koleksi bersifat readonly melempar NotImplementedException"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/charinfocollection/add/
 ---
-## Metode CharInfoCollection.Add
+## CharInfoCollection.Add method
 
 Koleksi bersifat read-only, melempar NotImplementedException.
 
@@ -16,11 +16,13 @@ public void Add(CharInfo item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | CharInfo | Item yang akan ditambahkan. |
+| item | CharInfo | Item untuk ditambahkan. |
 
 ### Lihat Juga
 
-* kelas [CharInfo](../../charinfo/)
-* kelas [CharInfoCollection](../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

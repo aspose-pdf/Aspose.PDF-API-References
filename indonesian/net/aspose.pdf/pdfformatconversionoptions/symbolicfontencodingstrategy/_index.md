@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.SymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Strategi untuk menyalin data pengkodean untuk font simbolik jika font TrueType simbolik memiliki lebih dari satu subtable pengkodean
+title: "PdfFormatConversionOptions.SymbolicFontEncodingStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Strategi untuk menyalin data enkoding untuk font simbolik jika font TrueType simbolik memiliki lebih dari satu subtable enkoding"
 type: docs
-weight: 200
+weight: 210
 url: /id/net/aspose.pdf/pdfformatconversionoptions/symbolicfontencodingstrategy/
 ---
-## Properti PdfFormatConversionOptions.SymbolicFontEncodingStrategy
+## PdfFormatConversionOptions.SymbolicFontEncodingStrategy property
 
-Strategi untuk menyalin data pengkodean untuk font simbolik jika font TrueType simbolik memiliki lebih dari satu subtable pengkodean.
+Strategi untuk menyalin data enkoding untuk font simbolik jika font TrueType simbolik memiliki lebih dari satu subtable enkoding.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set; }
@@ -16,7 +16,9 @@ public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set;
 
 ### Lihat Juga
 
-* kelas [PdfASymbolicFontEncodingStrategy](../../pdfasymbolicfontencodingstrategy/)
-* kelas [PdfFormatConversionOptions](../)
+* class [PdfASymbolicFontEncodingStrategy](../../pdfasymbolicfontencodingstrategy/)
+* class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

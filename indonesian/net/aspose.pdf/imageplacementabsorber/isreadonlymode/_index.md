@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber.IsReadOnlyMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacementAbsorber. Mengambil/mengatur mode hanya-baca untuk koleksi operasi parsing. Ini dapat membantu mengatasi pengecualian kehabisan memori
+title: "ImagePlacementAbsorber.IsReadOnlyMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ImagePlacementAbsorber property. Mendapatkan/mengatur mode baca saja untuk koleksi operasi parsing. Ini dapat membantu mencegah pengecualian out of memory"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/imageplacementabsorber/isreadonlymode/
 ---
-## Properti ImagePlacementAbsorber.IsReadOnlyMode
+## ImagePlacementAbsorber.IsReadOnlyMode property
 
-Mengambil/mengatur mode hanya-baca untuk koleksi operasi parsing. Ini dapat membantu mengatasi pengecualian kehabisan memori.
+Mendapatkan/mengatur mode hanya-baca untuk koleksi operasi parsing. Ini dapat membantu mencegah pengecualian kehabisan memori.
 
 ```csharp
 public bool IsReadOnlyMode { get; set; }
@@ -16,6 +16,8 @@ public bool IsReadOnlyMode { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImagePlacementAbsorber](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

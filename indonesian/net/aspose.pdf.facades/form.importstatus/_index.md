@@ -1,14 +1,14 @@
 ---
-title: Enum Form.ImportStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FormImportStatus Aspose.Pdf.Facades. Status dari field yang diimpor
+title: "Enum Form.ImportStatus"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.FormImportStatus enum. Status bidang yang diimpor"
 type: docs
-weight: 4310
+weight: 4430
 url: /id/net/aspose.pdf.facades/form.importstatus/
 ---
-## Enumerasi Form.ImportStatus
+## Form.ImportStatus enumeration
 
-Status dari field yang diimpor
+Status bidang yang diimpor
 
 ```csharp
 public enum ImportStatus
@@ -18,11 +18,13 @@ public enum ImportStatus
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Success | `0` | Field berhasil diimpor |
-| FieldNotFound | `1` | Field dengan nama ini tidak ditemukan dalam formulir dokumen. |
+| Success | `0` | Bidang berhasil diimpor |
+| FieldNotFound | `1` | Bidang dengan nama ini tidak ditemukan dalam formulir dokumen. |
 
 ### Lihat Juga
 
-* kelas [Form](../form/)
+* class [Form](../form/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

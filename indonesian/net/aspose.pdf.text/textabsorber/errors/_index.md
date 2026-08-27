@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Errors
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextAbsorber. Daftar objek TextExtractionError. Ini berisi informasi tentang kesalahan yang ditemukan selama ekstraksi teks. Pencarian kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan ini dapat mengurangi kinerja.
+title: "TextAbsorber.Errors"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextAbsorber. Daftar objek TextExtractionError. Berisi informasi tentang kesalahan yang ditemukan selama ekstraksi teks. Pencarian kesalahan akan dilakukan hanya jika TextSearchOptions.LogTextExtractionErrors bernilai true dan dapat menurunkan kinerja."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/textabsorber/errors/
 ---
-## Properti TextAbsorber.Errors
+## TextAbsorber.Errors property
 
-Daftar [`TextExtractionError`](../../textextractionerror/) objek. Ini berisi informasi tentang kesalahan yang ditemukan selama ekstraksi teks. Pencarian kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan ini dapat mengurangi kinerja.
+Daftar objek [`TextExtractionError`](../../textextractionerror/). Berisi informasi tentang kesalahan yang ditemukan selama ekstraksi teks. Pencarian kesalahan akan dilakukan hanya jika TextSearchOptions.LogTextExtractionErrors = true; dan dapat menurunkan kinerja.
 
 ```csharp
 public List<TextExtractionError> Errors { get; }
@@ -16,7 +16,9 @@ public List<TextExtractionError> Errors { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionError](../../textextractionerror/)
-* kelas [TextAbsorber](../)
+* class [TextExtractionError](../../textextractionerror/)
+* class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

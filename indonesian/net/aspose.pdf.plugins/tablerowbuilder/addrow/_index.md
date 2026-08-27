@@ -1,25 +1,27 @@
 ---
-title: TableRowBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableRowBuilder. Mengganti AddRow
+title: "TableRowBuilder.AddRow"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableRowBuilder. Menimpa AddRow."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/tablerowbuilder/addrow/
 ---
-## Metode TableRowBuilder.AddRow
+## TableRowBuilder.AddRow method
 
-Mengganti AddRow.
+Menimpa AddRow.
 
 ```csharp
 public override TableRowBuilder AddRow()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instansi dari [`TableRowBuilder`](../) saat ini.
+Instansi dari `TableRowBuilder` saat ini [`TableRowBuilder`](../).
 
 ### Lihat Juga
 
-* kelas [TableRowBuilder](../)
+* class [TableRowBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

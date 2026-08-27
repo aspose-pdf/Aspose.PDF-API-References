@@ -1,14 +1,14 @@
 ---
-title: Class AnnotationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.AnnotationCollection. Kelas yang mewakili koleksi anotasi
+title: "Kelas AnnotationCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.AnnotationCollection. Kelas yang mewakili koleksi anotasi"
 type: docs
-weight: 1430
+weight: 1520
 url: /id/net/aspose.pdf.annotations/annotationcollection/
 ---
-## Kelas AnnotationCollection
+## AnnotationCollection class
 
-Kelas yang mewakili koleksi anotasi.
+Kelas yang merepresentasikan koleksi anotasi.
 
 ```csharp
 public sealed class AnnotationCollection : ICollection<Annotation>
@@ -19,7 +19,7 @@ public sealed class AnnotationCollection : ICollection<Annotation>
 | Nama | Deskripsi |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/annotationcollection/count/) { get; } | Mendapatkan jumlah anotasi dalam koleksi. |
-| [IsReadOnly](../../aspose.pdf.annotations/annotationcollection/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca. |
+| [IsReadOnly](../../aspose.pdf.annotations/annotationcollection/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan apakah koleksi hanya-baca. |
 | [IsSynchronized](../../aspose.pdf.annotations/annotationcollection/issynchronized/) { get; } | Mendapatkan nilai yang menunjukkan apakah akses ke Aspose.Pdf.Annotations.AnnotationCollection disinkronkan (aman untuk thread). |
 | [Item](../../aspose.pdf.annotations/annotationcollection/item/) { get; } | Indeks elemen yang akan diambil. |
 | [SyncRoot](../../aspose.pdf.annotations/annotationcollection/syncroot/) { get; } | Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke Aspose.Pdf.Annotations.AnnotationCollection. |
@@ -28,7 +28,7 @@ public sealed class AnnotationCollection : ICollection<Annotation>
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Accept](../../aspose.pdf.annotations/annotationcollection/accept/)(AnnotationSelector) | Menerima pengunjung untuk memproses anotasi. |
+| [Accept](../../aspose.pdf.annotations/annotationcollection/accept/)(AnnotationSelector) | Menerima visitor untuk memproses anotasi. |
 | [Add](../../aspose.pdf.annotations/annotationcollection/add/#add)(Annotation) | Menambahkan anotasi ke koleksi. |
 | [Add](../../aspose.pdf.annotations/annotationcollection/add/#add_1)(Annotation, bool) | Menambahkan anotasi ke koleksi. Jika halaman diputar, maka persegi panjang anotasi akan dihitung ulang sesuai. |
 | [Clear](../../aspose.pdf.annotations/annotationcollection/clear/)() | Menghapus semua anotasi dari koleksi. |
@@ -43,6 +43,8 @@ public sealed class AnnotationCollection : ICollection<Annotation>
 
 ### Lihat Juga
 
-* kelas [Annotation](../annotation/)
-* ruang nama [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [Annotation](../annotation/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

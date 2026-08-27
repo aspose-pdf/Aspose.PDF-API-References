@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetReason
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mendapatkan alasan dari sebuah tanda tangan
+title: "PdfFileSignature.GetReason"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mendapatkan alasan sebuah tanda tangan"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.facades/pdffilesignature/getreason/
 ---
-## Metode PdfFileSignature.GetReason
+## PdfFileSignature.GetReason method
 
-Mendapatkan alasan dari sebuah tanda tangan.
+Mendapatkan alasan tanda tangan.
 
 ```csharp
 public string GetReason(SignatureName signName)
@@ -16,15 +16,17 @@ public string GetReason(SignatureName signName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| signName | SignatureName | Nama dari tanda tangan. |
+| signName | SignatureName | Nama tanda tangan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan hasil dari tipe string.
+Mengembalikan hasil berupa tipe string.
 
 ### Lihat Juga
 
-* kelas [SignatureName](../../signaturename/)
-* kelas [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

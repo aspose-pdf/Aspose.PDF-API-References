@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilot.OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor OpenAISummaryCopilot. Menginisialisasi instance baru dari kelas OpenAISummaryCopilot
+title: "OpenAISummaryCopilot.OpenAISummaryCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor OpenAISummaryCopilot. Menginisialisasi instance baru dari kelas OpenAISummaryCopilot"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/
 ---
-## Konstruktor OpenAISummaryCopilot
+## OpenAISummaryCopilot constructor
 
 Menginisialisasi instance baru dari kelas [`OpenAISummaryCopilot`](../).
 
@@ -17,14 +17,16 @@ public OpenAISummaryCopilot(IOpenAIClient client,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| client | IOpenAIClient | Instance klien OpenAI. |
+| client | IOpenAIClient | Instansi klien OpenAI. |
 | options | ISummaryCopilotOptions`1 | Opsi OpenAI Summary Copilot. |
 
 ### Lihat Juga
 
-* antarmuka [IOpenAIClient](../../iopenaiclient/)
-* antarmuka [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* kelas [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* kelas [OpenAISummaryCopilot](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

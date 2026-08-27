@@ -1,7 +1,7 @@
 ---
-title: Metadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Metadata. Menambahkan nilai ke metadata
+title: "Metadata.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Metadata. Menambahkan nilai ke metadata"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/metadata/add/
@@ -16,8 +16,8 @@ public void Add(string key, XmpValue value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci yang akan ditambahkan. |
-| value | XmpValue | Nilai yang akan ditambahkan. |
+| kunci | String | Kunci yang akan ditambahkan. |
+| nilai | XmpValue | Nilai yang akan ditambahkan. |
 
 ### Lihat Juga
 
@@ -38,8 +38,8 @@ public void Add(string key, object value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci yang akan ditambahkan. |
-| value | Object | Nilai yang akan ditambahkan. |
+| kunci | String | Kunci yang akan ditambahkan. |
+| nilai | Object | Nilai yang akan ditambahkan. |
 
 ### Lihat Juga
 
@@ -59,8 +59,8 @@ public void Add(string prefix, XmpPdfAExtensionObject value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| prefix | String | Prefiks dari ekstensi. |
-| value | XmpPdfAExtensionObject | Nilai yang akan ditambahkan. |
+| prefix | String | Awalan ekstensi. |
+| nilai | XmpPdfAExtensionObject | Nilai yang akan ditambahkan. |
 
 ### Lihat Juga
 
@@ -73,7 +73,7 @@ public void Add(string prefix, XmpPdfAExtensionObject value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add}
 
-Menambahkan pasangan dengan kunci dan nilai ke dalam kamus.
+Menambahkan pasangan kunci dan nilai ke dalam kamus.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
@@ -89,3 +89,5 @@ public void Add(KeyValuePair<string, XmpValue> item)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

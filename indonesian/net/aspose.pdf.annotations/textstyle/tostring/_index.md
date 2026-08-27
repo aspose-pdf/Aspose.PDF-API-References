@@ -1,12 +1,12 @@
 ---
-title: TextStyle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextStyle. Representasi string dari TextStyle
+title: "TextStyle.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextStyle. Representasi string dari TextStyle"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/textstyle/tostring/
 ---
-## Metode TextStyle.ToString
+## TextStyle.ToString method
 
 Representasi string dari TextStyle.
 
@@ -14,12 +14,14 @@ Representasi string dari TextStyle.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi string.
 
 ### Lihat Juga
 
-* kelas [TextStyle](../)
+* class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

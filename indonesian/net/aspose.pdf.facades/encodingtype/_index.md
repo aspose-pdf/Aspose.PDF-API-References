@@ -1,14 +1,14 @@
 ---
-title: Enum EncodingType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum EncodingType Aspose.Pdf.Facades. Mengenumerasi jenis encoding teks menggunakan
+title: "Enum EncodingType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.EncodingType enum. Mengenumerasi tipe encoding teks yang digunakan"
 type: docs
-weight: 4240
+weight: 4360
 url: /id/net/aspose.pdf.facades/encodingtype/
 ---
-## Enumerasi EncodingType
+## EncodingType enumeration
 
-Mengenumerasi jenis encoding teks menggunakan.
+Menumerasikan tipe pengkodean teks yang digunakan.
 
 ```csharp
 public enum EncodingType
@@ -19,14 +19,16 @@ public enum EncodingType
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Identity_h | `0` | Encoding Unicode dengan penulisan horizontal. |
-| Identity_v | `1` | Encoding Unicode dengan penulisan vertikal. |
-| Cp1250 | `2` | Nama encoding teks windows. |
-| Cp1252 | `3` | Nama encoding teks windows. |
-| Cp1257 | `4` | Nama encoding teks windows. |
-| Winansi | `5` | Encoding ansi windows. |
-| Macroman | `6` | Encoding standar Mac os untuk teks Latin. |
+| Identity_v | `1` | Pengkodean Unicode dengan penulisan vertikal. |
+| Cp1250 | `2` | Nama pengkodean teks Windows. |
+| Cp1252 | `3` | Nama pengkodean teks Windows. |
+| Cp1257 | `4` | Nama pengkodean teks Windows. |
+| Winansi | `5` | Pengkodean ANSI Windows. |
+| Macroman | `6` | Pengkodean standar Mac OS untuk teks Latin. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

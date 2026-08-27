@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseParagraph. Mendapatkan atau menetapkan perataan horizontal paragraf
+title: "BaseParagraph.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BaseParagraph. Mendapatkan atau mengatur perataan horizontal paragraf"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/baseparagraph/horizontalalignment/
 ---
-## Properti BaseParagraph.HorizontalAlignment
+## BaseParagraph.HorizontalAlignment property
 
-Mendapatkan atau menetapkan perataan horizontal paragraf
+Mendapatkan atau mengatur perataan horizontal paragraf
 
 ```csharp
 public virtual HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public virtual HorizontalAlignment HorizontalAlignment { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

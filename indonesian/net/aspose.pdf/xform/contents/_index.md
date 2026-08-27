@@ -1,14 +1,14 @@
 ---
-title: XForm.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XForm. Mendapatkan operator dari bentuk
+title: "XForm.Contents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XForm. Mendapatkan operator formulir"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/xform/contents/
 ---
-## Properti XForm.Contents
+## XForm.Contents property
 
-Mendapatkan operator dari bentuk.
+Mendapatkan operator formulir.
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -16,7 +16,9 @@ public OperatorCollection Contents { get; }
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../../operatorcollection/)
-* kelas [XForm](../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

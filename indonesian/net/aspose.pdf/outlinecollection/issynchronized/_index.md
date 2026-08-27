@@ -1,12 +1,12 @@
 ---
-title: OutlineCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutlineCollection. Mendapatkan nilai yang menunjukkan apakah akses ke koleksi ini disinkronkan aman untuk thread
+title: "OutlineCollection.IsSynchronized"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutlineCollection. Mendapatkan nilai yang menunjukkan apakah akses ke koleksi ini disinkronkan aman terhadap thread"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/outlinecollection/issynchronized/
 ---
-## Properti OutlineCollection.IsSynchronized
+## OutlineCollection.IsSynchronized property
 
 Mendapatkan nilai yang menunjukkan apakah akses ke koleksi ini disinkronkan (aman untuk thread).
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Lihat Juga
 
-* kelas [OutlineCollection](../)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

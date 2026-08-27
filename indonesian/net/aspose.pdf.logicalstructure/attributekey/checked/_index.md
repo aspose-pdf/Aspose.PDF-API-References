@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut Checked pemilik atribut PrintField
+title: "AttributeKey.Checked"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. Checked atribut PrintField atribut pemilik"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/attributekey/checked/
 ---
-## Bidang AttributeKey.Checked
+## AttributeKey.Checked field
 
 Atribut Checked (pemilik atribut PrintField).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey Checked;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

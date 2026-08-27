@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.VectorStoreListResponse. Mewakili respons daftar yang berisi data penyimpanan vektor
+title: "Kelas VectorStoreListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.VectorStoreListResponse. Mewakili respons daftar yang berisi data vector store."
 type: docs
-weight: 1370
+weight: 1460
 url: /id/net/aspose.pdf.ai/vectorstorelistresponse/
 ---
-## Kelas VectorStoreListResponse
+## VectorStoreListResponse class
 
-Mewakili respons daftar yang berisi data penyimpanan vektor.
+Mewakili respons daftar yang berisi data vector store.
 
 ```csharp
 public class VectorStoreListResponse : ListDataResponse<List<VectorStoreResponse>>
@@ -38,7 +38,9 @@ public class VectorStoreListResponse : ListDataResponse<List<VectorStoreResponse
 
 ### Lihat Juga
 
-* kelas [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* kelas [VectorStoreResponse](../vectorstoreresponse/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [VectorStoreResponse](../vectorstoreresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

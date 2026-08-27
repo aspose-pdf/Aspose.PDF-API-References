@@ -1,12 +1,12 @@
 ---
-title: PaperSources.AutomaticFeed
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSources. Mewakili sumber kertas umpan otomatis
+title: "PaperSources.AutomaticFeed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSources. Mewakili sumber kertas umpan otomatis"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/papersources/automaticfeed/
 ---
-## Bidang PaperSources.AutomaticFeed
+## PaperSources.AutomaticFeed field
 
 Mewakili sumber kertas umpan otomatis.
 
@@ -16,7 +16,9 @@ public static readonly PaperSource AutomaticFeed;
 
 ### Lihat Juga
 
-* kelas [PaperSource](../../papersource/)
-* kelas [PaperSources](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

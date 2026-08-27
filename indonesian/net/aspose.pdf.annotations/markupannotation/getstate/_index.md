@@ -1,20 +1,20 @@
 ---
-title: MarkupAnnotation.GetState
-second_title: Aspose.PDF for .NET API Reference
-description: Metode MarkupAnnotation. Mendapatkan status anotasi. Perhatikan status yang disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel
+title: "MarkupAnnotation.GetState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MarkupAnnotation metode. Mendapatkan status anotasi. Catatan: status disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.annotations/markupannotation/getstate/
 ---
-## Metode MarkupAnnotation.GetState
+## MarkupAnnotation.GetState method
 
-Mendapatkan status anotasi. Perhatikan, status yang disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel.
+Mendapatkan status anotasi. Catatan, status disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel.
 
 ```csharp
 public AnnotationState GetState()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Status anotasi.
 
@@ -24,3 +24,5 @@ Status anotasi.
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

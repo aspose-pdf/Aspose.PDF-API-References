@@ -1,14 +1,14 @@
 ---
-title: VectorStoreCreateRequest.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreCreateRequest. Mendapatkan atau mengatur daftar ID File yang harus digunakan oleh penyimpanan vektor. Berguna untuk alat seperti file_search yang dapat mengakses file
+title: "VectorStoreCreateRequest.FileIds"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti VectorStoreCreateRequest. Mendapatkan atau mengatur daftar ID File yang harus digunakan oleh vector store. Berguna untuk alat seperti file_search yang dapat mengakses file."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/vectorstorecreaterequest/fileids/
 ---
-## Properti VectorStoreCreateRequest.FileIds
+## VectorStoreCreateRequest.FileIds property
 
-Mendapatkan atau mengatur daftar ID File yang harus digunakan oleh penyimpanan vektor. Berguna untuk alat seperti file_search yang dapat mengakses file.
+Mendapatkan atau mengatur daftar ID File yang harus digunakan vector store. Berguna untuk alat seperti file_search yang dapat mengakses file.
 
 ```csharp
 public List<string> FileIds { get; set; }
@@ -16,6 +16,8 @@ public List<string> FileIds { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreCreateRequest](../)
+* class [VectorStoreCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

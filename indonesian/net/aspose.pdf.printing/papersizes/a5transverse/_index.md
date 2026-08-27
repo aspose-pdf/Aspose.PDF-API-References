@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A5Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas A5 melintang 148 mm x 210 mm
+title: "PaperSizes.A5Transverse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. Kertas A5 transversal 148 mm x 210 mm"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.printing/papersizes/a5transverse/
 ---
-## Bidang PaperSizes.A5Transverse
+## PaperSizes.A5Transverse field
 
-Kertas A5 melintang (148 mm x 210 mm).
+Kertas melintang A5 (148 mm x 210 mm).
 
 ```csharp
 public static readonly PaperSize A5Transverse;
@@ -16,7 +16,9 @@ public static readonly PaperSize A5Transverse;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

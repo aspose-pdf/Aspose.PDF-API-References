@@ -1,7 +1,7 @@
 ---
-title: PdfFileSecurity.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Menginisialisasi facade
+title: "PdfFileSecurity.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSecurity. Menginisialisasi facade"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdffilesecurity/bindpdf/
@@ -20,7 +20,7 @@ public override void BindPdf(string srcFile)
 
 ### Lihat Juga
 
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,6 +40,8 @@ public override void BindPdf(Stream srcStream)
 
 ### Lihat Juga
 
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

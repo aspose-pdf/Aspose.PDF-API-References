@@ -1,14 +1,14 @@
 ---
-title: PaperSource.SourceName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PaperSource. Mengambil atau menetapkan nama sumber kertas
+title: "PaperSource.SourceName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PaperSource. Mendapatkan atau mengatur nama sumber kertas"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.printing/papersource/sourcename/
 ---
-## Properti PaperSource.SourceName
+## PaperSource.SourceName property
 
-Mengambil atau menetapkan nama sumber kertas.
+Mendapatkan atau mengatur nama sumber kertas.
 
 ```csharp
 public string SourceName { get; set; }
@@ -16,6 +16,8 @@ public string SourceName { get; set; }
 
 ### Lihat Juga
 
-* kelas [PaperSource](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

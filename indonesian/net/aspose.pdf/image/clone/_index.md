@@ -1,25 +1,27 @@
 ---
-title: Image.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Gambar. Kloning gambar
+title: "Image.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Image. Klon gambar"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/image/clone/
 ---
-## Metode Image.Clone
+## Image.Clone method
 
-Kloning gambar.
+Gandakan gambar.
 
 ```csharp
 public override object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [Gambar](../)
+* class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

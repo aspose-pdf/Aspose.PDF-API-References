@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Desc
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeKey. Atribut Desc pemilik atribut PrintField
+title: "AttributeKey.Desc"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. Atribut Desc atribut PrintField pemilik"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.logicalstructure/attributekey/desc/
 ---
-## Field AttributeKey.Desc
+## AttributeKey.Desc field
 
 Atribut Desc (pemilik atribut PrintField).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey Desc;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

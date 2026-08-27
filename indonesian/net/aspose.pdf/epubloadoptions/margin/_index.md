@@ -1,12 +1,12 @@
 ---
-title: EpubLoadOptions.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti EpubLoadOptions. Mendapatkan referensi pada objek yang mewakili informasi margin
+title: "EpubLoadOptions.Margin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti EpubLoadOptions. Mendapatkan referensi pada objek yang mewakili informasi margin"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/epubloadoptions/margin/
 ---
-## Properti EpubLoadOptions.Margin
+## EpubLoadOptions.Margin property
 
 Mendapatkan referensi pada objek yang mewakili informasi margin.
 
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../../margininfo/)
-* kelas [EpubLoadOptions](../)
+* class [MarginInfo](../../margininfo/)
+* class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

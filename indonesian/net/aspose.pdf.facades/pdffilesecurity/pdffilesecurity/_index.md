@@ -1,7 +1,7 @@
 ---
-title: PdfFileSecurity.PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfFileSecurity. Inisialisasi objek PdfFileSecurity
+title: "PdfFileSecurity.PdfFileSecurity"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileSecurity konstruktor. Menginisialisasi objek PdfFileSecurity"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
@@ -16,7 +16,7 @@ public PdfFileSecurity()
 
 ### Lihat Juga
 
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfFileSecurity()
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-Menginisialisasi objek baru [`PdfFileSecurity`](../) berdasarkan *dokumen*.
+Menginisialisasi objek [`PdfFileSecurity`](../) baru berdasarkan *dokumen*.
 
 ```csharp
 public PdfFileSecurity(Document document)
@@ -32,11 +32,13 @@ public PdfFileSecurity(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dokumen | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Dokumen](../../../aspose.pdf/document/)
-* kelas [PdfFileSecurity](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

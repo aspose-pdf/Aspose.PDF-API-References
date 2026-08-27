@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ImageDescriptionResult. Konstruktor default
+title: "ImageDescriptionResult.ImageDescriptionResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ImageDescriptionResult. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptionresult/
 ---
-## Konstruktor ImageDescriptionResult
+## ImageDescriptionResult constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ImageDescriptionResult()
 
 ### Lihat Juga
 
-* kelas [ImageDescriptionResult](../)
+* class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

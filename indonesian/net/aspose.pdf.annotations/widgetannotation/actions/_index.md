@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WidgetAnnotation. Mendapatkan tindakan anotasi
+title: "WidgetAnnotation.Actions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti WidgetAnnotation. Mendapatkan aksi anotasi."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/widgetannotation/actions/
 ---
-## Properti WidgetAnnotation.Actions
+## WidgetAnnotation.Actions property
 
-Mendapatkan tindakan anotasi.
+Mendapatkan aksi anotasi.
 
 ```csharp
 public AnnotationActionCollection Actions { get; }
@@ -16,7 +16,9 @@ public AnnotationActionCollection Actions { get; }
 
 ### Lihat Juga
 
-* kelas [AnnotationActionCollection](../../annotationactioncollection/)
-* kelas [WidgetAnnotation](../)
+* class [AnnotationActionCollection](../../annotationactioncollection/)
+* class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

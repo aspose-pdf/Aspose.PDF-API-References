@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.Simplex
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Cetak satu sisi
+title: "ViewerPreference.Simplex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Cetak satu sisi"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf.facades/viewerpreference/simplex/
 ---
-## Field ViewerPreference.Simplex
+## ViewerPreference.Simplex field
 
 Cetak satu sisi.
 
@@ -19,3 +19,5 @@ public const int Simplex;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

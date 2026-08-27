@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ContentsResizeParameters. Membuat parameter ukuran ulang dengan nilai margin yang ditentukan. Ukuran konten dihitung secara otomatis
+title: "PdfFileEditor.ContentsResizeParameters.Margins"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ContentsResizeParameters. Membuat parameter resize dengan nilai margin yang ditentukan. Ukuran konten dihitung secara otomatis."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/
 ---
-## Metode PdfFileEditor.ContentsResizeParameters.Margins
+## PdfFileEditor.ContentsResizeParameters.Margins method
 
-Membuat parameter ukuran ulang dengan nilai margin yang ditentukan. Ukuran konten dihitung secara otomatis.
+Membuat parameter ubah ukuran dengan nilai margin yang ditentukan. Ukuran konten dihitung secara otomatis.
 
 ```csharp
 public static ContentsResizeParameters Margins(double left, double right, double top, double bottom)
@@ -16,17 +16,19 @@ public static ContentsResizeParameters Margins(double left, double right, double
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Double | Margin kiri. |
-| right | Double | Margin kanan. |
-| top | Double | Margin atas. |
-| bottom | Double | Margin bawah. |
+| kiri | Double | Margin kiri. |
+| kanan | Double | Margin kanan. |
+| atas | Double | Margin atas. |
+| bawah | Double | Margin bawah. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Parameter ukuran ulang yang dibuat.
+Parameter resize dibuat.
 
 ### Lihat Juga
 
-* kelas [ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormTextBoxFieldSetOptions.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormTextBoxFieldSetOptions. Mendapatkan/mengatur nilai untuk menentukan properti SpellCheck untuk bidang yang dimodifikasi jika akan diatur
+title: "FormTextBoxFieldSetOptions.SpellCheck"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormTextBoxFieldSetOptions. Mendapatkan/mengatur nilai untuk menentukan properti SpellCheck bagi bidang yang dimodifikasi jika akan diatur"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/formtextboxfieldsetoptions/spellcheck/
 ---
-## Properti FormTextBoxFieldSetOptions.SpellCheck
+## FormTextBoxFieldSetOptions.SpellCheck property
 
 Mendapatkan/mengatur nilai untuk menentukan properti SpellCheck untuk bidang yang dimodifikasi (jika akan diatur).
 
@@ -16,6 +16,8 @@ public bool? SpellCheck { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormTextBoxFieldSetOptions](../)
+* class [FormTextBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

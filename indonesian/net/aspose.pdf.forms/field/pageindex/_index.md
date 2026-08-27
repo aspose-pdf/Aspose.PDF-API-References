@@ -1,14 +1,14 @@
 ---
-title: Field.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Mendapatkan indeks halaman yang berisi field ini
+title: "Field.PageIndex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Mendapatkan indeks halaman yang berisi field ini"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.forms/field/pageindex/
 ---
-## Properti Field.PageIndex
+## Field.PageIndex property
 
-Mendapatkan indeks halaman yang berisi field ini.
+Mendapatkan indeks halaman yang berisi bidang ini.
 
 ```csharp
 public override int PageIndex { get; }
@@ -16,6 +16,8 @@ public override int PageIndex { get; }
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

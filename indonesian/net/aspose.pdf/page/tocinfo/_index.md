@@ -1,12 +1,12 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan atau mengatur informasi daftar isi
+title: "Page.TocInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur info daftar isi."
 type: docs
 weight: 280
 url: /id/net/aspose.pdf/page/tocinfo/
 ---
-## Properti Page.TocInfo
+## Page.TocInfo property
 
 Mendapatkan atau mengatur informasi daftar isi.
 
@@ -14,13 +14,15 @@ Mendapatkan atau mengatur informasi daftar isi.
 public TocInfo TocInfo { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Informasi daftar isi - default null. Jika diatur, halaman ini akan berisi daftar isi.
+Info daftar isi - default null. Jika diatur, halaman ini akan berisi daftar isi.
 
 ### Lihat Juga
 
-* kelas [TocInfo](../../tocinfo/)
-* kelas [Page](../)
+* class [TocInfo](../../tocinfo/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

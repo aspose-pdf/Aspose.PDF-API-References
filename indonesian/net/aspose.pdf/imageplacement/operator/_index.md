@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Operator
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacement. Operator yang digunakan untuk menampilkan gambar
+title: "ImagePlacement.Operator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Operator yang digunakan untuk menampilkan gambar"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/imageplacement/operator/
 ---
-## Properti ImagePlacement.Operator
+## ImagePlacement.Operator property
 
 Operator yang digunakan untuk menampilkan gambar.
 
@@ -16,7 +16,9 @@ public Operator Operator { get; }
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [ImagePlacement](../)
+* class [Operator](../../operator/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

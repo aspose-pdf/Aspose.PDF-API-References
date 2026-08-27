@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.CancelledAt
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunStepResponse. Mendapatkan atau mengatur timestamp Unix dalam detik untuk kapan langkah run dibatalkan
+title: "RunStepResponse.CancelledAt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "RunStepResponse properti. Mendapatkan atau menetapkan cap waktu Unix dalam detik untuk saat langkah run dibatalkan."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/runstepresponse/cancelledat/
 ---
-## Properti RunStepResponse.CancelledAt
+## RunStepResponse.CancelledAt property
 
-Mendapatkan atau mengatur timestamp Unix (dalam detik) untuk kapan langkah run dibatalkan.
+Mendapatkan atau mengatur cap waktu Unix (dalam detik) untuk saat langkah run dibatalkan.
 
 ```csharp
 public long? CancelledAt { get; set; }
@@ -16,6 +16,8 @@ public long? CancelledAt { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunStepResponse](../)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

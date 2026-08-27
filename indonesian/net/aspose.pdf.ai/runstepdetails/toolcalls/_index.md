@@ -1,14 +1,14 @@
 ---
-title: RunStepDetails.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunStepDetails. Mendapatkan atau mengatur rincian panggilan alat
+title: "RunStepDetails.ToolCalls"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunStepDetails. Mendapatkan atau mengatur detail pemanggilan alat"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/runstepdetails/toolcalls/
 ---
-## Properti RunStepDetails.ToolCalls
+## RunStepDetails.ToolCalls property
 
-Mendapatkan atau mengatur rincian panggilan alat.
+Mendapatkan atau mengatur detail pemanggilan alat.
 
 ```csharp
 public List<ToolCall> ToolCalls { get; set; }
@@ -16,7 +16,9 @@ public List<ToolCall> ToolCalls { get; set; }
 
 ### Lihat Juga
 
-* kelas [ToolCall](../../toolcall/)
-* kelas [RunStepDetails](../)
+* class [ToolCall](../../toolcall/)
+* class [RunStepDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

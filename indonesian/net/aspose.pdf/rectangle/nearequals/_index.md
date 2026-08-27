@@ -1,14 +1,14 @@
 ---
-title: Rectangle.NearEquals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Periksa apakah persegi panjang hampir sama yaitu memiliki posisi dan ukuran yang hampir sama hingga delta
+title: "Rectangle.NearEquals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Periksa apakah persegi panjang hampir sama, yaitu memiliki posisi dan ukuran yang hampir sama hingga delta."
 type: docs
 weight: 250
 url: /id/net/aspose.pdf/rectangle/nearequals/
 ---
-## Metode Rectangle.NearEquals
+## Rectangle.NearEquals method
 
-Periksa apakah persegi panjang hampir sama yaitu memiliki posisi dan ukuran yang hampir sama (hingga delta).
+Memeriksa apakah persegi panjang hampir sama, yaitu memiliki posisi dan ukuran yang hampir sama (hingga delta).
 
 ```csharp
 public bool NearEquals(Rectangle other, double delta)
@@ -16,15 +16,17 @@ public bool NearEquals(Rectangle other, double delta)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| other | Rectangle | Persegi panjang yang akan dibandingkan. |
+| lainnya | Rectangle | Rectangle yang akan dibandingkan. |
 | delta | Double | Nilai toleransi perbandingan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika persegi panjang sama, false jika tidak.
+Benar jika persegi panjang sama, salah jika tidak.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

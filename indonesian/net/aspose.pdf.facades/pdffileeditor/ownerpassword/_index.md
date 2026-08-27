@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.OwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Mengatur kata sandi pemilik jika file Pdf input sumber terenkripsi. Properti ini belum diimplementasikan
+title: "PdfFileEditor.OwnerPassword"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Mengatur kata sandi pemilik jika file Pdf sumber input dienkripsi. Properti ini belum diimplementasikan."
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/pdffileeditor/ownerpassword/
 ---
-## Properti PdfFileEditor.OwnerPassword
+## PdfFileEditor.OwnerPassword property
 
-Mengatur kata sandi pemilik jika file Pdf input sumber terenkripsi. Properti ini belum diimplementasikan.
+Menetapkan kata sandi pemilik jika file Pdf sumber terenkripsi. Properti ini belum diimplementasikan.
 
 ```csharp
 public string OwnerPassword { get; set; }
@@ -16,6 +16,8 @@ public string OwnerPassword { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

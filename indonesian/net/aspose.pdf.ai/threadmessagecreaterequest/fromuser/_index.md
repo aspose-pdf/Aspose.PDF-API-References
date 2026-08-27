@@ -1,25 +1,27 @@
 ---
-title: ThreadMessageCreateRequest.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ThreadMessageCreateRequest. Membuat ThreadMessageCreateRequest baru dengan peran diatur ke Pengguna
+title: "ThreadMessageCreateRequest.FromUser"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ThreadMessageCreateRequest. Membuat sebuah ThreadMessageCreateRequest baru dengan peran diatur ke User"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/
 ---
-## Metode ThreadMessageCreateRequest.FromUser
+## ThreadMessageCreateRequest.FromUser method
 
-Membuat [`ThreadMessageCreateRequest`](../) baru dengan peran diatur ke Pengguna.
+Membuat sebuah [`ThreadMessageCreateRequest`](../) baru dengan peran diatur ke User.
 
 ```csharp
 public static ThreadMessageCreateRequest FromUser()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah instance baru dari [`ThreadMessageCreateRequest`](../) dengan peran diatur ke Pengguna.
+Sebuah instance baru dari [`ThreadMessageCreateRequest`](../) dengan peran diatur ke User.
 
 ### Lihat Juga
 
-* kelas [ThreadMessageCreateRequest](../)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

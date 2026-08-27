@@ -1,12 +1,12 @@
 ---
-title: Annotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Annotation. Menerima pengunjung untuk pemrosesan anotasi
+title: "Annotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Annotation. Menerima visitor untuk pemrosesan anotasi"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.annotations/annotation/accept/
 ---
-## Metode Annotation.Accept
+## Annotation.Accept method
 
 Menerima pengunjung untuk pemrosesan anotasi.
 
@@ -20,7 +20,9 @@ public abstract void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [Annotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

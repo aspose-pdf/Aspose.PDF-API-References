@@ -1,12 +1,12 @@
 ---
-title: MCRElement.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MCRElement. Mendapatkan MCID dari objek referensi konten yang ditandai
+title: "MCRElement.MCID"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MCRElement. Mendapatkan MCID dari objek referensi konten yang ditandai"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/mcrelement/mcid/
 ---
-## Properti MCRElement.MCID
+## MCRElement.MCID property
 
 Mendapatkan MCID dari objek referensi konten yang ditandai.
 
@@ -14,12 +14,14 @@ Mendapatkan MCID dari objek referensi konten yang ditandai.
 public int MCID { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 MCID dari objek referensi konten yang ditandai.
 
 ### Lihat Juga
 
-* kelas [MCRElement](../)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AnnotationCollection. Menghapus anotasi yang ditentukan dari koleksi
+title: "AnnotationCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AnnotationCollection. Menghapus annotation yang ditentukan dari koleksi."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.annotations/annotationcollection/remove/
 ---
-## Metode AnnotationCollection.Remove
+## AnnotationCollection.Remove method
 
 Menghapus anotasi yang ditentukan dari koleksi.
 
@@ -16,15 +16,17 @@ public bool Remove(Annotation annotation)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| annotation | Annotation | Anotasi yang akan dihapus. |
+| annotation | Annotation | Annotation yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True - jika anotasi dihapus; jika tidak, false.
+True - jika annotation dihapus; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [AnnotationCollection](../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

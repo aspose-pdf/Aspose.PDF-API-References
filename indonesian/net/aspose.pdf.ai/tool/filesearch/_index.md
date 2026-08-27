@@ -1,12 +1,12 @@
 ---
-title: Tool.FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: Properti alat. Mendapatkan instance alat yang mewakili alat pencarian file
+title: "Tool.FileSearch"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Tool. Mendapatkan instance alat yang mewakili alat pencarian file"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/tool/filesearch/
 ---
-## Properti Tool.FileSearch
+## Tool.FileSearch property
 
 Mendapatkan instance alat yang mewakili alat pencarian file.
 
@@ -16,6 +16,8 @@ public static Tool FileSearch { get; }
 
 ### Lihat Juga
 
-* kelas [Tool](../)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

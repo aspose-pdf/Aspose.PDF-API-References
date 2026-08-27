@@ -1,14 +1,14 @@
 ---
-title: Field.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Field. Atur posisi field
+title: "Field.SetPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Field. Mengatur posisi field"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.forms/field/setposition/
 ---
-## Metode Field.SetPosition
+## Field.SetPosition method
 
-Atur posisi field.
+Atur posisi bidang.
 
 ```csharp
 public virtual void SetPosition(Point point)
@@ -16,11 +16,13 @@ public virtual void SetPosition(Point point)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | Point | Titik di mana field harus diposisikan. |
+| titik | Titik | Titik di mana field harus diposisikan. |
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [Field](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

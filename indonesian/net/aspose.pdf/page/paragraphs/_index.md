@@ -1,12 +1,12 @@
 ---
-title: Page.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan paragraf
+title: "Page.Paragraphs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan paragraf"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf/page/paragraphs/
 ---
-## Properti Page.Paragraphs
+## Page.Paragraphs property
 
 Mendapatkan paragraf.
 
@@ -14,13 +14,15 @@ Mendapatkan paragraf.
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Paragraf.
+Paragraf-paragraf.
 
 ### Lihat Juga
 
-* kelas [Paragraphs](../../paragraphs/)
-* kelas [Page](../)
+* class [Paragraphs](../../paragraphs/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

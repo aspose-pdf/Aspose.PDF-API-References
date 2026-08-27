@@ -1,14 +1,14 @@
 ---
-title: Document.RemovePdfaCompliance
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Hapus kepatuhan pdfa dari dokumen
+title: "Document.RemovePdfaCompliance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Menghapus kepatuhan pdfa dari dokumen"
 type: docs
-weight: 800
+weight: 820
 url: /id/net/aspose.pdf/document/removepdfacompliance/
 ---
-## Metode Document.RemovePdfaCompliance
+## Document.RemovePdfaCompliance method
 
-Hapus kepatuhan pdfa dari dokumen
+Hapus kepatuhan pdfa dari dokumen.
 
 ```csharp
 public void RemovePdfaCompliance()
@@ -16,6 +16,8 @@ public void RemovePdfaCompliance()
 
 ### Lihat Juga
 
-* kelas [Document](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Mengatur jumlah karakter maksimum dari field teks
+title: "FormEditor.SetFieldLimit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Menetapkan jumlah karakter maksimum dari field teks"
 type: docs
 weight: 310
 url: /id/net/aspose.pdf.facades/formeditor/setfieldlimit/
 ---
-## Metode FormEditor.SetFieldLimit
+## FormEditor.SetFieldLimit method
 
-Mengatur jumlah karakter maksimum dari field teks.
+Mengatur jumlah karakter maksimum dari bidang teks.
 
 ```csharp
 public bool SetFieldLimit(string fieldName, int fieldLimit)
@@ -16,10 +16,10 @@ public bool SetFieldLimit(string fieldName, int fieldLimit)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama dari field teks. |
-| fieldLimit | Int32 | Nilai baru dari batas untuk field. |
+| fieldName | String | Nama field teks. |
+| fieldLimit | Int32 | Nilai baru batas untuk field. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika batas field berhasil diatur.
 
@@ -32,6 +32,8 @@ formEditor.SetFieldLimit("textField", 15);
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

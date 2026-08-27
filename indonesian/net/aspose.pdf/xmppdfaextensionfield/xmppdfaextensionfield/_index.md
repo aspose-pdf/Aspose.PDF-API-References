@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionField.XmpPdfAExtensionField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XmpPdfAExtensionField. Menginisialisasi objek
+title: "XmpPdfAExtensionField.XmpPdfAExtensionField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XmpPdfAExtensionField. Menginisialisasi objek"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/
 ---
-## Konstruktor XmpPdfAExtensionField
+## XmpPdfAExtensionField constructor
 
 Menginisialisasi objek.
 
@@ -16,13 +16,15 @@ public XmpPdfAExtensionField(string name, string value, string valueType, string
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama field. |
-| value | String | Nilai field. |
-| valueType | String | Tipe nilai field. |
-| description | String | Deskripsi field. |
+| nama | String | Nama bidang. |
+| nilai | String | Nilai bidang. |
+| valueType | String | Tipe nilai bidang. |
+| deskripsi | String | Deskripsi bidang. |
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionField](../)
+* class [XmpPdfAExtensionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

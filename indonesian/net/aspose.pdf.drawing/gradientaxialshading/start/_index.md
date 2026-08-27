@@ -1,12 +1,12 @@
 ---
-title: GradientAxialShading.Start
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GradientAxialShading. Mendapatkan atau mengatur titik awal
+title: "GradientAxialShading.Start"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GradientAxialShading. Mendapatkan atau mengatur titik awal"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.drawing/gradientaxialshading/start/
 ---
-## Properti GradientAxialShading.Start
+## GradientAxialShading.Start property
 
 Mendapatkan atau mengatur titik awal.
 
@@ -16,7 +16,9 @@ public Point Start { get; set; }
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [GradientAxialShading](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

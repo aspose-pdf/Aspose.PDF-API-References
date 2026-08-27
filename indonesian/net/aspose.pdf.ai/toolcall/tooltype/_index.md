@@ -1,14 +1,14 @@
 ---
-title: ToolCall.ToolType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ToolCall. Mendapatkan atau mengatur jenis alat. Saat ini hanya fungsi yang didukung
+title: "ToolCall.ToolType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ToolCall. Mendapatkan atau mengatur tipe alat. Saat ini hanya fungsi yang didukung"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/toolcall/tooltype/
 ---
-## Properti ToolCall.ToolType
+## ToolCall.ToolType property
 
-Mendapatkan atau mengatur jenis alat. Saat ini, hanya fungsi yang didukung.
+Mendapatkan atau mengatur tipe alat. Saat ini, hanya fungsi yang didukung.
 
 ```csharp
 public string ToolType { get; set; }
@@ -16,6 +16,8 @@ public string ToolType { get; set; }
 
 ### Lihat Juga
 
-* kelas [ToolCall](../)
+* class [ToolCall](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

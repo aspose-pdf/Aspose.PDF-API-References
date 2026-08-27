@@ -1,14 +1,14 @@
 ---
-title: Class TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.TableGenerator. Mewakili plugin TableGenerator Aspose.PDF
+title: "Kelas TableGenerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.TableGenerator. Mewakili plugin Aspose.PDF TableGenerator"
 type: docs
-weight: 9350
+weight: 9500
 url: /id/net/aspose.pdf.plugins/tablegenerator/
 ---
-## Kelas TableGenerator
+## TableGenerator class
 
-Mewakili plugin TableGenerator Aspose.PDF.
+Mewakili plugin Aspose.PDF TableGenerator.
 
 ```csharp
 public sealed class TableGenerator : IDisposable, IPlugin
@@ -24,7 +24,7 @@ public sealed class TableGenerator : IDisposable, IPlugin
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | Implementasi dari IDisposable. Sebenarnya, tidak diperlukan untuk TableGenerator. |
+| [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | Implementasi IDisposable. Faktanya, ini tidak diperlukan untuk TableGenerator. |
 | [Process](../../aspose.pdf.plugins/tablegenerator/process/)(IPluginOptions) | Memulai pemrosesan PdfGenerator dengan parameter yang ditentukan. |
 
 ## Contoh
@@ -32,21 +32,23 @@ public sealed class TableGenerator : IDisposable, IPlugin
 Contoh ini menunjukkan cara menambahkan tabel ke file PDF.
 
 ```csharp
-// create TableGenerator
+// buat TableGenerator
 var generator = new TableGenerator();
-// create TableOptions object to set instructions
+// buat objek TableOptions untuk mengatur instruksi
 var opt = new TableOptions();
-// add input file paths
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// lakukan proses ekstraksi
 generator.Process(opt);
 ```
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BorderInfo. Mendapatkan atau mengatur objek yang menunjukkan sisi kanan dari border
+title: "BorderInfo.Right"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BorderInfo properti. Mendapatkan atau mengatur sisi kanan batas"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/borderinfo/right/
 ---
-## Properti BorderInfo.Right
+## BorderInfo.Right property
 
-Mendapatkan atau mengatur objek yang menunjukkan sisi kanan dari border.
+Mendapatkan atau mengatur objek yang menunjukkan sisi kanan batas.
 
 ```csharp
 public GraphInfo Right { get; set; }
@@ -16,7 +16,9 @@ public GraphInfo Right { get; set; }
 
 ### Lihat Juga
 
-* kelas [GraphInfo](../../graphinfo/)
-* kelas [BorderInfo](../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

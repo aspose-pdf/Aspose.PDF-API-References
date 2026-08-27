@@ -1,12 +1,12 @@
 ---
-title: HtmlToPdfOptions.HtmlToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HtmlToPdfOptions. Konstruktor default
+title: "HtmlToPdfOptions.HtmlToPdfOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlToPdfOptions constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/htmltopdfoptions/htmltopdfoptions/
 ---
-## Konstruktor HtmlToPdfOptions
+## HtmlToPdfOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public HtmlToPdfOptions()
 
 ### Lihat Juga
 
-* kelas [HtmlToPdfOptions](../)
+* class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

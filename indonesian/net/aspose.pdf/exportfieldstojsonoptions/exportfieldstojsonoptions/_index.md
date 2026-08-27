@@ -1,12 +1,12 @@
 ---
-title: ExportFieldsToJsonOptions.ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ExportFieldsToJsonOptions constructor. The default constructor
+title: "ExportFieldsToJsonOptions.ExportFieldsToJsonOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ExportFieldsToJsonOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/
 ---
-## Konstruktor ExportFieldsToJsonOptions
+## ExportFieldsToJsonOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ExportFieldsToJsonOptions()
 
 ### Lihat Juga
 
-* kelas [ExportFieldsToJsonOptions](../)
+* class [ExportFieldsToJsonOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

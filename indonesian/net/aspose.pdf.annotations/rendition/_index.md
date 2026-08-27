@@ -1,14 +1,14 @@
 ---
-title: Class Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.Rendition. Kelas yang menggambarkan objek rendition dari RendtionAnnotation
+title: "Kelas Rendition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.Rendition kelas. Kelas yang menggambarkan objek rendition dari RendtionAnnotation."
 type: docs
-weight: 2430
+weight: 2520
 url: /id/net/aspose.pdf.annotations/rendition/
 ---
-## Kelas Rendition
+## Rendition class
 
-Kelas yang menggambarkan objek rendition dari RendtionAnnotation.
+Kelas yang menjelaskan objek rendition dari RendtionAnnotation.
 
 ```csharp
 public class Rendition
@@ -18,10 +18,12 @@ public class Rendition
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | String teks yang menentukan nama dari rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian nama oleh tindakan JavaScript. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | String teks yang menentukan nama rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian name tree oleh aksi JavaScript. |
 | [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Mendapatkan tipe rendition. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

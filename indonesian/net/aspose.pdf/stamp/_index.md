@@ -1,14 +1,14 @@
 ---
-title: Class Stamp
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Stamp. Kelas abstrak untuk berbagai jenis stempel yang datang sebagai keturunan
+title: "Kelas Stamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Stamp. Kelas abstrak untuk berbagai jenis stempel yang muncul sebagai turunan"
 type: docs
-weight: 10130
+weight: 10310
 url: /id/net/aspose.pdf/stamp/
 ---
-## Kelas Stamp
+## Stamp class
 
-Kelas abstrak untuk berbagai jenis stempel yang datang sebagai keturunan.
+Kelas abstrak untuk berbagai jenis stempel yang muncul sebagai turunan.
 
 ```csharp
 public abstract class Stamp
@@ -18,35 +18,37 @@ public abstract class Stamp
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Background](../../aspose.pdf/stamp/background/) { get; set; } | Mengatur atau mendapatkan nilai bool yang menunjukkan konten dicap sebagai latar belakang. Jika nilainya benar, konten stempel diletakkan di bawah. Secara default, nilainya salah, konten stempel diletakkan di atas. |
-| [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Mendapatkan atau mengatur margin bawah stempel. |
-| virtual [Height](../../aspose.pdf/stamp/height/) { get; set; } | Tinggi yang diinginkan dari stempel di halaman. |
-| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | Mendapatkan atau mengatur perataan horizontal stempel di halaman. |
-| [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | Mendapatkan atau mengatur margin kiri stempel. |
-| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | Mendapatkan atau mengatur nilai untuk menunjukkan opasitas stempel. Nilainya dari 0.0 hingga 1.0. Secara default nilainya adalah 1.0. |
-| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | Mendapatkan atau mengatur nilai untuk menunjukkan opasitas garis luar stempel. Nilainya dari 0.0 hingga 1.0. Secara default nilainya adalah 1.0. |
-| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | Mendapatkan atau mengatur nilai lebar garis luar stempel. Secara default nilainya adalah 1.0. |
-| [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | Mendapatkan atau mengatur margin kanan stempel. |
-| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Mengatur atau mendapatkan rotasi konten stempel sesuai dengan nilai [`Rotation`](../rotation/). Catatan. Properti ini untuk mengatur sudut yang merupakan kelipatan dari 90 derajat (0, 90, 180, 270 derajat). Untuk mengatur sudut sembarang gunakan properti RotateAngle. Jika sudut yang diatur oleh ArbitraryAngle bukan kelipatan dari 90 maka properti Rotate mengembalikan Rotation.None. |
-| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Mendapatkan atau mengatur sudut rotasi stempel dalam derajat. Properti ini memungkinkan untuk mengatur sudut rotasi sembarang. |
-| [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | Mendapatkan atau mengatur margin atas stempel. |
-| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Mendapatkan atau mengatur perataan vertikal stempel di halaman. |
-| virtual [Width](../../aspose.pdf/stamp/width/) { get; set; } | Lebar yang diinginkan dari stempel di halaman. |
+| [Background](../../aspose.pdf/stamp/background/) { get; set; } | Mengatur atau mengambil nilai bool yang menunjukkan konten dicap sebagai latar belakang. Jika nilai true, konten stempel diletakkan di bagian bawah. Secara default, nilai false, konten stempel diletakkan di bagian atas. |
+| [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Mengambil atau mengatur margin bawah stempel. |
+| virtual [Height](../../aspose.pdf/stamp/height/) { get; set; } | Tinggi yang diinginkan untuk stempel pada halaman. |
+| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | Mengambil atau mengatur perataan horizontal stempel pada halaman. |
+| [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | Mengambil atau mengatur margin kiri stempel. |
+| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | Mengambil atau mengatur nilai untuk menunjukkan opasitas stempel. Nilainya dari 0.0 hingga 1.0. Secara default nilai adalah 1.0. |
+| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | Mengambil atau mengatur nilai untuk menunjukkan opasitas garis tepi stempel. Nilainya dari 0.0 hingga 1.0. Secara default nilai adalah 1.0. |
+| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | Mengambil atau mengatur nilai lebar garis tepi stempel. Secara default nilai adalah 1.0. |
+| [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | Mengambil atau mengatur margin kanan stempel. |
+| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Mengatur atau mengambil rotasi konten stempel sesuai nilai [`Rotation`](../rotation/). Catatan. Properti ini untuk mengatur sudut yang merupakan kelipatan 90 derajat (0, 90, 180, 270 derajat). Untuk mengatur sudut arbitrer gunakan properti RotateAngle. Jika sudut yang diatur oleh ArbitraryAngle bukan kelipatan 90 maka properti Rotate mengembalikan Rotation.None. |
+| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Mengambil atau mengatur sudut rotasi stempel dalam derajat. Properti ini memungkinkan pengaturan sudut rotasi arbitrer. |
+| [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | Mengambil atau mengatur margin atas stempel. |
+| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Mengambil atau mengatur perataan vertikal stempel pada halaman. |
+| virtual [Width](../../aspose.pdf/stamp/width/) { get; set; } | Lebar yang diinginkan untuk stempel pada halaman. |
 | virtual [XIndent](../../aspose.pdf/stamp/xindent/) { get; set; } | Koordinat horizontal stempel, dimulai dari kiri. |
-| virtual [YIndent](../../aspose.pdf/stamp/yindent/) { get; set; } | Koordinat vertikal stempel, dimulai dari bawah. |
-| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | Faktor zoom dari stempel. Memungkinkan untuk menskalakan stempel. Harap dicatat bahwa pasangan properti ZoomX dan ZoomY memungkinkan untuk mengatur faktor zoom untuk setiap sumbu secara terpisah. Pengaturan properti ini mengubah kedua properti ZoomX dan ZoomY. Jika ZoomX dan ZoomY berbeda maka properti Zoom mengembalikan nilai ZoomX. |
-| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | Faktor zoom horizontal dari stempel. Memungkinkan untuk menskalakan stempel secara horizontal. |
-| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | Faktor zoom vertikal dari stempel. Memungkinkan untuk menskalakan stempel secara vertikal. |
+| virtual [YIndent](../../aspose.pdf/stamp/yindent/) { get; set; } | Koordinat stempel vertikal, dimulai dari bagian bawah. |
+| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | Faktor zoom stempel. Memungkinkan memperbesar/memperkecil stempel. Harap perhatikan bahwa pasangan properti ZoomX dan ZoomY memungkinkan mengatur faktor zoom untuk setiap sumbu secara terpisah. Pengaturan properti ini mengubah kedua properti ZoomX dan ZoomY. Jika ZoomX dan ZoomY berbeda maka properti Zoom mengembalikan nilai ZoomX. |
+| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | Faktor zoom horizontal stempel. Memungkinkan memperbesar/memperkecil stempel secara horizontal. |
+| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | Faktor zoom vertikal stempel. Memungkinkan memperbesar/memperkecil stempel secara vertikal. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
 | [getStampId](../../aspose.pdf/stamp/getstampid/)() | Mengembalikan ID stempel. |
-| abstract [Put](../../aspose.pdf/stamp/put/)(Page) | Menambahkan stempel di halaman. |
+| abstract [Put](../../aspose.pdf/stamp/put/)(Page) | Menambahkan stempel pada halaman. |
 | [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | Mengatur ID stempel. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

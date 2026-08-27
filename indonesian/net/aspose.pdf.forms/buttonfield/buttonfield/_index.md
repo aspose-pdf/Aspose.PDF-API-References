@@ -1,7 +1,7 @@
 ---
-title: ButtonField.ButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ButtonField. Konstruktor bidang tombol untuk Generator
+title: "ButtonField.ButtonField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ButtonField. Konstruktor bidang tombol untuk Generator."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/buttonfield/buttonfield/
@@ -16,7 +16,7 @@ public ButtonField()
 
 ### Lihat Juga
 
-* kelas [ButtonField](../)
+* class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,14 +32,14 @@ public ButtonField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat tombol akan ditempatkan. |
-| rect | Rectangle | Persegi panjang tempat tombol diletakkan di halaman. |
+| halaman | Halaman | Halaman tempat tombol akan ditempatkan. |
+| rect | Rectangle | Persegi tempat tombol ditempatkan pada halaman. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [ButtonField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,12 +56,14 @@ public ButtonField(Document doc, Rectangle rect)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | doc | Document | Dokumen tempat bidang baru akan dibuat. |
-| rect | Rectangle | Persegi panjang tempat tombol diletakkan di halaman. |
+| rect | Rectangle | Persegi tempat tombol ditempatkan pada halaman. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [ButtonField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OriginalFontSpecification. Mendapatkan nama font asli
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OriginalFontSpecification. Mendapatkan nama font asli."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname/
 ---
-## Properti CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName
+## CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName property
 
-Mendapatkan nama font asli.
+Mengambil nama font asli.
 
 ```csharp
 public string OriginalFontName { get; }
@@ -16,6 +16,8 @@ public string OriginalFontName { get; }
 
 ### Lihat Juga
 
-* kelas [OriginalFontSpecification](../)
+* class [OriginalFontSpecification](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

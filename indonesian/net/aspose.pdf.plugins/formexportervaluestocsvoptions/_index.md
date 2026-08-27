@@ -1,12 +1,12 @@
 ---
-title: Class FormExporterValuesToCsvOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions. Mewakili opsi untuk mengekspor properti Value dari bidang yang ditentukan bukan anotasi
+title: "Kelas FormExporterValuesToCsvOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions. Mewakili opsi untuk mengekspor properti Value dari bidang yang ditentukan, bukan anotasi"
 type: docs
-weight: 8690
+weight: 8820
 url: /id/net/aspose.pdf.plugins/formexportervaluestocsvoptions/
 ---
-## Kelas FormExporterValuesToCsvOptions
+## FormExporterValuesToCsvOptions class
 
 Mewakili opsi untuk mengekspor properti Value dari bidang yang ditentukan (bukan anotasi).
 
@@ -31,11 +31,13 @@ public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form.... |
 
 ### Lihat Juga
 
-* kelas [FormExporterOptions](../formexporteroptions/)
+* class [FormExporterOptions](../formexporteroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

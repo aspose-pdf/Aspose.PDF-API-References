@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaChatCompletionResponse. Mendapatkan atau mengatur statistik penggunaan untuk permintaan penyelesaian
+title: "LlamaChatCompletionResponse.Usage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LlamaChatCompletionResponse properti. Mendapatkan atau mengatur statistik penggunaan untuk permintaan completion"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.ai/llamachatcompletionresponse/usage/
 ---
-## Properti LlamaChatCompletionResponse.Usage
+## LlamaChatCompletionResponse.Usage property
 
 Mendapatkan atau mengatur statistik penggunaan untuk permintaan penyelesaian.
 
@@ -16,7 +16,9 @@ public Usage Usage { get; set; }
 
 ### Lihat Juga
 
-* kelas [Usage](../../usage/)
-* kelas [LlamaChatCompletionResponse](../)
+* class [Usage](../../usage/)
+* class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

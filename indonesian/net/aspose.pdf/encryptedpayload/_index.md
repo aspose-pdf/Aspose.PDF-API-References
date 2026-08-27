@@ -1,14 +1,14 @@
 ---
-title: Class EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.EncryptedPayload. Mewakili payload terenkripsi dalam spesifikasi file
+title: "Kelas EncryptedPayload"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.EncryptedPayload. Mewakili payload terenkripsi dalam spesifikasi file."
 type: docs
-weight: 4040
+weight: 4160
 url: /id/net/aspose.pdf/encryptedpayload/
 ---
-## Kelas EncryptedPayload
+## EncryptedPayload class
 
-Mewakili payload terenkripsi dalam spesifikasi file.
+Mewakili muatan terenkripsi dalam spesifikasi file.
 
 ```csharp
 public sealed class EncryptedPayload
@@ -18,13 +18,13 @@ public sealed class EncryptedPayload
 
 | Nama | Deskripsi |
 | --- | --- |
-| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Menginisialisasi instance payload terenkripsi. |
+| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Inisialisasi instance payload terenkripsi. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Subtype](../../aspose.pdf/encryptedpayload/subtype/) { get; } | Mendapatkan subtype. |
+| [Subtype](../../aspose.pdf/encryptedpayload/subtype/) { get; } | Mendapatkan subtipe. |
 | [Type](../../aspose.pdf/encryptedpayload/type/) { get; } | Mendapatkan tipe. |
 | [Version](../../aspose.pdf/encryptedpayload/version/) { get; } | Mendapatkan nomor versi. |
 
@@ -32,3 +32,5 @@ public sealed class EncryptedPayload
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldsInRect
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengembalikan field di dalam persegi panjang yang ditentukan
+title: "Form.GetFieldsInRect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengembalikan bidang di dalam persegi panjang yang ditentukan."
 type: docs
-weight: 270
+weight: 290
 url: /id/net/aspose.pdf.forms/form/getfieldsinrect/
 ---
-## Metode Form.GetFieldsInRect
+## Form.GetFieldsInRect method
 
-Mengembalikan field di dalam persegi panjang yang ditentukan.
+Mengembalikan bidang di dalam persegi panjang yang ditentukan.
 
 ```csharp
 public Field[] GetFieldsInRect(Rectangle rect)
@@ -16,16 +16,18 @@ public Field[] GetFieldsInRect(Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Persegi Panjang | Persegi panjang di mana field harus ditemukan. |
+| rect | Rectangle | Rectangle tempat bidang harus ditemukan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Array dengan field yang ditemukan.
+Array dengan bidang yang ditemukan.
 
 ### Lihat Juga
 
-* kelas [Field](../../field/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [Form](../)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

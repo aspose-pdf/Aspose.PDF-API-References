@@ -1,14 +1,14 @@
 ---
-title: Dash.Off
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dash. Mendapatkan atau mengatur panjang celah pertama antara garis putus-putus
+title: "Dash.Off"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Dash properti. Mendapatkan atau mengatur panjang gap pertama antara dash"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/dash/off/
 ---
-## Properti Dash.Off
+## Dash.Off property
 
-Mendapatkan atau mengatur panjang celah pertama antara garis putus-putus.
+Mendapatkan atau mengatur panjang celah pertama antara dash.
 
 ```csharp
 public int Off { get; set; }
@@ -16,6 +16,8 @@ public int Off { get; set; }
 
 ### Lihat Juga
 
-* kelas [Dash](../)
+* class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: OperatorCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Menghapus operator dari koleksi
+title: "OperatorCollection.Delete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OperatorCollection. Menghapus operator dari koleksi"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/operatorcollection/delete/
@@ -30,7 +30,7 @@ oc.Delete(3);
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,8 +60,8 @@ oc.Delete(new Operator[] { oc[1] } );
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -77,7 +77,7 @@ public void Delete(IList<Operator> list)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| list | IList`1 | Daftar operator yang akan dihapus |
+| daftar | IList`1 | Daftar operator yang akan dihapus |
 
 ## Contoh
 
@@ -93,7 +93,9 @@ oc.Delete(opList);
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

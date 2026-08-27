@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.Password
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfViewer. Mendapatkan atau mengatur kata sandi dokumen input
+title: "PdfViewer.Password"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfViewer. Mendapatkan atau mengatur kata sandi dokumen input"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/pdfviewer/password/
 ---
-## Properti PdfViewer.Password
+## PdfViewer.Password property
 
 Mendapatkan atau mengatur kata sandi dokumen input.
 
@@ -16,6 +16,8 @@ public string Password { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PdfFileEditor.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfFileEditorPageBreak. Data posisi pemisah halaman
+title: "Kelas PdfFileEditor.PageBreak"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.PdfFileEditorPageBreak. Data posisi pemisah halaman"
 type: docs
-weight: 4510
+weight: 4630
 url: /id/net/aspose.pdf.facades/pdffileeditor.pagebreak/
 ---
-## Kelas PdfFileEditor.PageBreak
+## PdfFileEditor.PageBreak class
 
 Data posisi pemisah halaman.
 
@@ -24,11 +24,13 @@ public class PageBreak
 
 | Nama | Deskripsi |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber) { get; set; } | Nomor halaman (dimulai dari 1) di mana pemisah halaman harus ditambahkan. |
+| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber) { get; set; } | Nomor halaman (dimulai dari 1) tempat pemisah halaman harus ditambahkan. |
 | [Position](../../aspose.pdf.facades/pdffileeditor.pagebreak/position) { get; set; } | Posisi vertikal pemisah halaman. |
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../pdffileeditor/)
-* ruang nama [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

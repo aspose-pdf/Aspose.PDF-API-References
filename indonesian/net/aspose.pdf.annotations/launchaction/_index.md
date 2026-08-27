@@ -1,14 +1,14 @@
 ---
-title: Class LaunchAction
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.LaunchAction. Mewakili tindakan peluncuran yang meluncurkan aplikasi atau membuka atau mencetak dokumen
+title: "Kelas LaunchAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.LaunchAction class. Mewakili aksi peluncuran yang meluncurkan aplikasi atau membuka atau mencetak dokumen"
 type: docs
-weight: 1950
+weight: 2040
 url: /id/net/aspose.pdf.annotations/launchaction/
 ---
-## Kelas LaunchAction
+## LaunchAction class
 
-Mewakili tindakan peluncuran yang meluncurkan aplikasi atau membuka atau mencetak dokumen.
+Mewakili aksi peluncuran yang meluncurkan aplikasi atau membuka atau mencetak dokumen.
 
 ```csharp
 public sealed class LaunchAction : PdfAction
@@ -18,25 +18,27 @@ public sealed class LaunchAction : PdfAction
 
 | Nama | Deskripsi |
 | --- | --- |
-| [LaunchAction](launchaction/#constructor_1)(string) | Membuat tindakan peluncuran. |
-| [LaunchAction](launchaction/#constructor)(Document, string) | Membuat tindakan peluncuran. |
+| [LaunchAction](launchaction/#constructor_1)(string) | Membuat aksi peluncuran. |
+| [LaunchAction](launchaction/#constructor)(Document, string) | Membuat aksi peluncuran. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [File](../../aspose.pdf.annotations/launchaction/file/) { get; set; } | Mendapatkan atau menetapkan aplikasi yang akan diluncurkan atau dokumen yang akan dibuka atau dicetak. |
-| [NewWindow](../../aspose.pdf.annotations/launchaction/newwindow/) { get; set; } | Mendapatkan atau menetapkan sebuah flag yang menentukan apakah akan membuka dokumen tujuan di jendela baru (hanya mempengaruhi dokumen PDF). |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Tindakan berikutnya dalam urutan. |
+| [File](../../aspose.pdf.annotations/launchaction/file/) { get; set; } | Mendapatkan atau mengatur aplikasi yang akan diluncurkan atau dokumen yang akan dibuka atau dicetak. |
+| [NewWindow](../../aspose.pdf.annotations/launchaction/newwindow/) { get; set; } | Mendapatkan atau mengatur flag yang menentukan apakah membuka dokumen tujuan dalam jendela baru (hanya memengaruhi dokumen PDF). |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Aksi berikutnya dalam urutan. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk Tindakan ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk ECMAScript Action. |
 
 ### Lihat Juga
 
-* kelas [PdfAction](../pdfaction/)
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

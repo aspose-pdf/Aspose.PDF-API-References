@@ -1,12 +1,12 @@
 ---
-title: SetLineCap.SetLineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetLineCap. Menginisialisasi operator SetLineCap
+title: "SetLineCap.SetLineCap"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetLineCap. Menginisialisasi operator SetLineCap"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setlinecap/setlinecap/
 ---
-## Konstruktor SetLineCap
+## SetLineCap constructor
 
 Menginisialisasi operator SetLineCap
 
@@ -16,7 +16,7 @@ public SetLineCap(LineCap cap)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cap | LineCap | Gaya cap garis. |
+| penutup | LineCap | Gaya cap garis. |
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ public SetLineCap(LineCap cap)
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

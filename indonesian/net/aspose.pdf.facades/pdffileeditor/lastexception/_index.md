@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.LastException
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Mendapatkan pengecualian terakhir yang terjadi. Dapat digunakan untuk memeriksa alasan kegagalan
+title: "PdfFileEditor.LastException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Mendapatkan pengecualian terakhir yang terjadi. Dapat digunakan untuk memeriksa alasan kegagalan."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/pdffileeditor/lastexception/
 ---
-## Properti PdfFileEditor.LastException
+## PdfFileEditor.LastException property
 
 Mendapatkan pengecualian terakhir yang terjadi. Dapat digunakan untuk memeriksa alasan kegagalan.
 
@@ -32,6 +32,8 @@ if (!pfe.TryConcatenate("file1.pdf", "file2.pdf", "file3.pdf"))
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

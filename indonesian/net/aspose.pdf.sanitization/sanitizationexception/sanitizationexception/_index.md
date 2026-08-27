@@ -1,7 +1,7 @@
 ---
-title: SanitizationException.SanitizationException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SanitizationException. Menginisialisasi instance baru dari kelas SanitizationException
+title: "SanitizationException.SanitizationException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SanitizationException. Menginisialisasi instance baru dari kelas SanitizationException"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/
@@ -16,7 +16,7 @@ public SanitizationException()
 
 ### Lihat Juga
 
-* kelas [SanitizationException](../)
+* class [SanitizationException](../)
 * namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ public SanitizationException(string message)
 
 ### Lihat Juga
 
-* kelas [SanitizationException](../)
+* class [SanitizationException](../)
 * namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public SanitizationException(string message)
 
 ## SanitizationException(string, Exception) {#constructor_3}
 
-Menginisialisasi instance baru dari kelas [`SanitizationException`](../) dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
+Menginisialisasi instance baru dari kelas [`SanitizationException`](../) dengan pesan error yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
 
 ```csharp
 public SanitizationException(string message, Exception innerException)
@@ -52,12 +52,12 @@ public SanitizationException(string message, Exception innerException)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan alasan pengecualian. |
+| message | String | Pesan error yang menjelaskan alasan pengecualian. |
 | innerException | Exception | Pengecualian yang menjadi penyebab pengecualian saat ini, atau referensi null (Nothing dalam Visual Basic) jika tidak ada pengecualian dalam yang ditentukan. |
 
 ### Lihat Juga
 
-* kelas [SanitizationException](../)
+* class [SanitizationException](../)
 * namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
@@ -65,7 +65,7 @@ public SanitizationException(string message, Exception innerException)
 
 ## SanitizationException(Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`SanitizationException`](../) dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
+Menginisialisasi instance baru dari kelas [`SanitizationException`](../) dengan pesan error yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
 
 ```csharp
 public SanitizationException(Exception innerException)
@@ -77,6 +77,8 @@ public SanitizationException(Exception innerException)
 
 ### Lihat Juga
 
-* kelas [SanitizationException](../)
+* class [SanitizationException](../)
 * namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
+
+

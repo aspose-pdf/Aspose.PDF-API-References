@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ToolChoice. Mendapatkan atau mengatur nilai objek dari ToolChoice
+title: "ToolChoice.ObjectValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ToolChoice. Mengambil atau mengatur nilai objek dari ToolChoice"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/toolchoice/objectvalue/
 ---
-## Properti ToolChoice.ObjectValue
+## ToolChoice.ObjectValue property
 
 Mendapatkan atau mengatur nilai objek dari ToolChoice.
 
@@ -16,7 +16,9 @@ public ObjectType ObjectValue { get; set; }
 
 ### Lihat Juga
 
-* kelas [ObjectType](../../toolchoice.objecttype/)
-* kelas [ToolChoice](../)
+* class [ObjectType](../../toolchoice.objecttype/)
+* class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

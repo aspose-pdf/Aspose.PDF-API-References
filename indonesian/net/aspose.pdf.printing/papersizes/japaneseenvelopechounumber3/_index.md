@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeChouNumber3
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Amplop Jepang Chou 3
+title: "PaperSizes.JapaneseEnvelopeChouNumber3"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. amplop Jepang Chou 3"
 type: docs
 weight: 500
 url: /id/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber3/
 ---
-## Bidang PaperSizes.JapaneseEnvelopeChouNumber3
+## PaperSizes.JapaneseEnvelopeChouNumber3 field
 
-Amplop Jepang Chou #3.
+Amplop Chou #3 Jepang.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeChouNumber3;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseEnvelopeChouNumber3;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

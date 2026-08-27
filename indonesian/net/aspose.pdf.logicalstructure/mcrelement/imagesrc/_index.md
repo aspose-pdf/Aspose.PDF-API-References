@@ -1,27 +1,29 @@
 ---
-title: MCRElement.ImageSrc
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MCRElement. Mendapatkan sumber gambar untuk elemen referensi konten yang ditandai
+title: "MCRElement.ImageSrc"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MCRElement. Mengambil sumber gambar untuk elemen referensi markedcontent"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/mcrelement/imagesrc/
 ---
-## Properti MCRElement.ImageSrc
+## MCRElement.ImageSrc property
 
-Mendapatkan sumber gambar untuk elemen referensi konten yang ditandai.
+Mengambil sumber gambar untuk elemen referensi marked-content.
 
-Untuk [`IllustrationElement`](../../illustrationelement/) yang baru dibuat. Null dalam kasus lain.
+Untuk objek yang baru dibuat [`IllustrationElement`](../../illustrationelement/). Nilai null dalam kasus lain.
 
 ```csharp
 public string ImageSrc { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Sumber gambar untuk elemen referensi konten yang ditandai.
+Sumber gambar untuk elemen referensi marked-content.
 
 ### Lihat Juga
 
-* kelas [MCRElement](../)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

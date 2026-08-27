@@ -1,12 +1,12 @@
 ---
-title: Aspose.Pdf.Multithreading
-second_title: Aspose.PDF for .NET API Reference
-description: Namespace Aspose.Pdf.Multithreading menyediakan kelas yang dimaksudkan untuk digunakan dalam skenario multithreaded
+title: "Aspose.Pdf.Multithreading"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Namespace Aspose.Pdf.Multithreading menyediakan kelas yang dimaksudkan untuk digunakan dalam skenario multithread."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.multithreading/
 ---
-Namespace **Aspose.Pdf.Multithreading** menyediakan kelas yang dimaksudkan untuk digunakan dalam skenario multi-threaded.
+**Aspose.Pdf.Multithreading** namespace menyediakan kelas yang dimaksudkan untuk digunakan dalam skenario multi-thread.
 
 ## Kelas
 
@@ -18,3 +18,5 @@ Namespace **Aspose.Pdf.Multithreading** menyediakan kelas yang dimaksudkan untuk
 | Antarmuka | Deskripsi |
 | --- | --- |
 | [IInterruptMonitor](./iinterruptmonitor/) | Mewakili informasi tentang interupsi. |
+
+

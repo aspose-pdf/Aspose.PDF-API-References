@@ -1,14 +1,14 @@
 ---
-title: Class ObjectReferenceCorruptedException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.ObjectReferenceCorruptedException. Mewakili sebuah pengecualian yang dilemparkan ketika referensi objek dalam dokumen PDF ditemukan rusak. Itu berarti tidak ada objek yang ditunjuk oleh tautan
+title: "Kelas ObjectReferenceCorruptedException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.ObjectReferenceCorruptedException. Mewakili pengecualian yang dilemparkan ketika referensi objek dalam dokumen PDF ditemukan rusak. Itu berarti tidak ada objek yang ditunjuk oleh tautan."
 type: docs
-weight: 7040
+weight: 7180
 url: /id/net/aspose.pdf/objectreferencecorruptedexception/
 ---
-## Kelas ObjectReferenceCorruptedException
+## ObjectReferenceCorruptedException class
 
-Mewakili sebuah pengecualian yang dilemparkan ketika referensi objek dalam dokumen PDF ditemukan rusak. Itu berarti tidak ada objek yang ditunjuk oleh tautan.
+Mewakili pengecualian yang dilempar ketika referensi objek dalam dokumen PDF ditemukan rusak. Itu berarti tidak ada objek yang ditunjuk oleh tautan.
 
 ```csharp
 public class ObjectReferenceCorruptedException : PdfException
@@ -16,6 +16,8 @@ public class ObjectReferenceCorruptedException : PdfException
 
 ### Lihat Juga
 
-* kelas [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

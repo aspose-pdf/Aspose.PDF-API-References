@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupAnnotation. Mendapatkan atau mengatur nilai opasitas konstan yang akan digunakan dalam melukis anotasi
+title: "MarkupAnnotation.Opacity"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkupAnnotation. Mendapatkan atau mengatur nilai opasitas konstan yang akan digunakan saat menggambar anotasi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/markupannotation/opacity/
 ---
-## Properti MarkupAnnotation.Opacity
+## MarkupAnnotation.Opacity property
 
-Mendapatkan atau mengatur nilai opasitas konstan yang akan digunakan dalam melukis anotasi.
+Mendapatkan atau mengatur nilai opasitas konstan yang akan digunakan saat menggambar anotasi.
 
 ```csharp
 public double Opacity { get; set; }
@@ -16,6 +16,8 @@ public double Opacity { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarkupAnnotation](../)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

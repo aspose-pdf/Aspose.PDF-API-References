@@ -1,7 +1,7 @@
 ---
-title: OperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Menambahkan operator baru ke dalam koleksi
+title: "OperatorCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OperatorCollection. Menambahkan operator baru ke dalam koleksi."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/operatorcollection/add/
@@ -16,7 +16,7 @@ public override void Add(Operator op)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| op | Operator | Operator yang harus ditambahkan |
+| op | Operator | Operator yang harus ditambahkan. |
 
 ## Contoh
 
@@ -30,8 +30,8 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -47,7 +47,7 @@ public void Add(Operator[] ops)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ops | Operator[] | Array operator yang akan ditambahkan. Setiap operator dapat memiliki indeks apa pun (secara default -1) karena mereka datang ke akhir operator konten yaitu indeks ditetapkan secara otomatis. |
+| ops | Operator[] | Array operator yang akan ditambahkan. Setiap operator dapat memiliki indeks apa pun (secara default -1) karena mereka ditempatkan di akhir operator konten, yaitu indeks ditetapkan secara otomatis. |
 
 ## Contoh
 
@@ -61,8 +61,8 @@ oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -95,7 +95,9 @@ oc.Add(opList);
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

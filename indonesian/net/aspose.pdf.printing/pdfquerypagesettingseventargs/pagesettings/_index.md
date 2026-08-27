@@ -1,12 +1,12 @@
 ---
-title: PdfQueryPageSettingsEventArgs.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfQueryPageSettingsEventArgs. Mendapatkan atau mengatur pengaturan halaman untuk halaman yang akan dicetak
+title: "PdfQueryPageSettingsEventArgs.PageSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfQueryPageSettingsEventArgs properti. Mendapatkan atau mengatur pengaturan halaman untuk halaman yang akan dicetak."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/
 ---
-## Properti PdfQueryPageSettingsEventArgs.PageSettings
+## PdfQueryPageSettingsEventArgs.PageSettings property
 
 Mendapatkan atau mengatur pengaturan halaman untuk halaman yang akan dicetak.
 
@@ -16,7 +16,9 @@ public PageSettings PageSettings { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageSettings](../../pagesettings/)
-* kelas [PdfQueryPageSettingsEventArgs](../)
+* class [PageSettings](../../pagesettings/)
+* class [PdfQueryPageSettingsEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

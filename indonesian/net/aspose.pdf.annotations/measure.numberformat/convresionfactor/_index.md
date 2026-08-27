@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.ConvresionFactor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberFormat. Faktor konversi yang digunakan untuk mengalikan nilai dalam unit parsial dari elemen array format angka sebelumnya untuk mendapatkan nilai dalam unit format angka ini
+title: "Measure.NumberFormat.ConvresionFactor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "NumberFormat properti. Faktor konversi yang digunakan untuk mengalikan nilai dalam satuan parsial dari elemen array format angka sebelumnya guna memperoleh nilai dalam satuan format angka ini"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/measure.numberformat/convresionfactor/
 ---
-## Properti Measure.NumberFormat.ConvresionFactor
+## Measure.NumberFormat.ConvresionFactor property
 
-Faktor konversi yang digunakan untuk mengalikan nilai dalam unit parsial dari elemen array format angka sebelumnya untuk mendapatkan nilai dalam unit format angka ini.
+Faktor konversi yang digunakan untuk mengalikan nilai dalam satuan parsial dari elemen array format angka sebelumnya untuk memperoleh nilai dalam satuan format angka ini.
 
 ```csharp
 public double ConvresionFactor { get; set; }
@@ -16,6 +16,8 @@ public double ConvresionFactor { get; set; }
 
 ### Lihat Juga
 
-* kelas [NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

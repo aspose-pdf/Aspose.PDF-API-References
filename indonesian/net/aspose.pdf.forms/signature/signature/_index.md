@@ -1,7 +1,7 @@
 ---
-title: Signature.Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Signature. Menginisialisasi instance baru dari kelas Signature
+title: "Signature.Signature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Signature. Menginisialisasi instance baru dari kelas Signature"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/signature/signature/
@@ -16,7 +16,7 @@ public Signature()
 
 ### Lihat Juga
 
-* kelas [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public Signature(string pfx, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pfx | String | File pfx yang berisi sertifikat untuk penandatanganan. |
-| password | String | Kata sandi untuk mengakses kunci privat dalam sertifikat. |
+| pfx | String | File Pfx yang berisi sertifikat untuk penandatanganan. |
+| kata sandi | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
 
 ### Lihat Juga
 
-* kelas [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,11 +53,13 @@ public Signature(Stream pfx, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pfx | Stream | Stream dengan data sertifikat yang diorganisir sebagai pfx. |
-| password | String | Kata sandi untuk mengakses kunci privat dalam sertifikat. |
+| pfx | Stream | Stream dengan data sertifikat yang diatur sebagai pfx. |
+| kata sandi | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
 
 ### Lihat Juga
 
-* kelas [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

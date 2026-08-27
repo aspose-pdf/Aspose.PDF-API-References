@@ -1,25 +1,27 @@
 ---
-title: Page.GetNotifications
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Mengembalikan notifikasi tentang operasi di dalam konten halaman. Hanya notifikasi tentang peristiwa paragraf dalam skenario penambahan teks yang didukung saat ini
+title: "Page.GetNotifications"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Mengembalikan notifikasi tentang operasi internal dengan konten halaman. Hanya notifikasi tentang peristiwa paragraf dalam skenario penambahan teks yang didukung saat ini"
 type: docs
 weight: 450
 url: /id/net/aspose.pdf/page/getnotifications/
 ---
-## Metode Page.GetNotifications
+## Page.GetNotifications method
 
-Mengembalikan notifikasi tentang operasi di dalam konten halaman. (Hanya notifikasi tentang peristiwa paragraf dalam skenario penambahan teks yang didukung saat ini.)
+Mengembalikan notifikasi tentang operasi internal dengan konten halaman. (Saat ini hanya notifikasi tentang peristiwa paragraf dalam skenario penambahan teks yang didukung.)
 
 ```csharp
 public string GetNotifications()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-String yang mewakili notifikasi tentang operasi di dalam konten halaman.
+String yang mewakili notifikasi tentang operasi internal dengan konten halaman.
 
 ### Lihat Juga
 
-* kelas [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

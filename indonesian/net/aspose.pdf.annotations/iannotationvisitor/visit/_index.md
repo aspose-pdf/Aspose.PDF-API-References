@@ -1,7 +1,7 @@
 ---
-title: IAnnotationVisitor.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IAnnotationVisitor. Kunjungi/pilih anotasi tautan
+title: "IAnnotationVisitor.Visit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IAnnotationVisitor. Kunjungi/pilih anotasi tautan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/iannotationvisitor/visit/
@@ -58,7 +58,7 @@ public void Visit(TextAnnotation text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | TextAnnotation | Contoh/template objek TextAnnotation. |
+| teks | TextAnnotation | Contoh/template objek TextAnnotation. |
 
 ### Lihat Juga
 
@@ -142,7 +142,7 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | Contoh/template objek StrikeOutAnnotation. |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -163,7 +163,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | Contoh/template objek SquigglyAnnotation. |
+| bergelombang | SquigglyAnnotation | SquigglyAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -184,7 +184,7 @@ public void Visit(PopupAnnotation popup)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| popup | PopupAnnotation | Contoh/template objek PopupAnnotation. |
+| pop-up | PopupAnnotation | PopupAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -205,7 +205,7 @@ public void Visit(LineAnnotation line)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| line | LineAnnotation | Contoh/template objek LineAnnotation. |
+| baris | LineAnnotation | LineAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -226,7 +226,7 @@ public void Visit(CircleAnnotation circle)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| circle | CircleAnnotation | Contoh/template objek CircleAnnotation. |
+| lingkaran | CircleAnnotation | CircleAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -247,7 +247,7 @@ public void Visit(SquareAnnotation square)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| square | SquareAnnotation | Contoh/template objek SquareAnnotation. |
+| persegi | SquareAnnotation | SquareAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -268,7 +268,7 @@ public void Visit(InkAnnotation ink)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ink | InkAnnotation | Contoh/template objek InkAnnotation. |
+| tinta | InkAnnotation | InkAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -281,7 +281,7 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_12}
 
-Kunjungi/pilih anotasi poligon.
+Kunjungi/pilih anotasi polyline.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -289,7 +289,7 @@ public void Visit(PolylineAnnotation polyline)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | Contoh/template objek PolylineAnnotation. |
+| garis polilin | PolylineAnnotation | PolylineAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -310,7 +310,7 @@ public void Visit(PolygonAnnotation polygon)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | Contoh/template objek PolygonAnnotation. |
+| poligon | PolygonAnnotation | PolygonAnnotation objek contoh/template. |
 
 ### Lihat Juga
 
@@ -331,7 +331,7 @@ public void Visit(CaretAnnotation caret)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| caret | CaretAnnotation | Contoh/template objek CaretAnnotation. |
+| tanda sisipan | CaretAnnotation | CaretAnnotation contoh/templat objek. |
 
 ### Lihat Juga
 
@@ -344,7 +344,7 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_18}
 
-Kunjungi/pilih anotasi cap.
+Kunjungi/pilih anotasi stempel.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -352,7 +352,7 @@ public void Visit(StampAnnotation stamp)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stamp | StampAnnotation | Contoh/template objek StampAnnotation. |
+| stempel | StampAnnotation | StampAnnotation contoh/templat objek. |
 
 ### Lihat Juga
 
@@ -373,7 +373,7 @@ public void Visit(WidgetAnnotation widget)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| widget | WidgetAnnotation | Contoh/template objek WidgetAnnotation. |
+| widget | WidgetAnnotation | WidgetAnnotation contoh/templat objek. |
 
 ### Lihat Juga
 
@@ -394,7 +394,7 @@ public void Visit(MovieAnnotation movie)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| movie | MovieAnnotation | Contoh/template objek MovieAnnotation. |
+| film | MovieAnnotation | MovieAnnotation contoh/templat objek. |
 
 ### Lihat Juga
 
@@ -415,7 +415,7 @@ public void Visit(ScreenAnnotation screen)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| screen | ScreenAnnotation | Contoh/template objek ScreenAnnotation. |
+| layar | ScreenAnnotation | ScreenAnnotation contoh/templat objek. |
 
 ### Lihat Juga
 
@@ -428,7 +428,7 @@ public void Visit(ScreenAnnotation screen)
 
 ## Visit(TrimMarkAnnotation) {#visit_21}
 
-Kunjungi/pilih anotasi tanda pemotongan.
+Kunjungi/pilih anotasi tanda potong.
 
 ```csharp
 public void Visit(TrimMarkAnnotation trimMark)
@@ -436,7 +436,7 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | Contoh/template objek [`TrimMarkAnnotation`](../../trimmarkannotation/). |
+| trimMark | TrimMarkAnnotation | Objek [`TrimMarkAnnotation`](../../trimmarkannotation/) contoh/templat. |
 
 ### Lihat Juga
 
@@ -457,7 +457,7 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | Contoh/template objek [`BleedMarkAnnotation`](../../bleedmarkannotation/). |
+| bleedMark | BleedMarkAnnotation | Objek [`BleedMarkAnnotation`](../../bleedmarkannotation/) contoh/templat. |
 
 ### Lihat Juga
 
@@ -478,7 +478,7 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | Contoh/template objek [`RegistrationMarkAnnotation`](../../registrationmarkannotation/). |
+| registrationMark | RegistrationMarkAnnotation | Objek [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) contoh/templat. |
 
 ### Lihat Juga
 
@@ -499,7 +499,7 @@ public void Visit(PageInformationAnnotation pageInformation)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | Contoh/template objek [`PageInformationAnnotation`](../../pageinformationannotation/). |
+| pageInformation | PageInformationAnnotation | Objek [`PageInformationAnnotation`](../../pageinformationannotation/) contoh/templat. |
 
 ### Lihat Juga
 
@@ -507,3 +507,5 @@ public void Visit(PageInformationAnnotation pageInformation)
 * interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

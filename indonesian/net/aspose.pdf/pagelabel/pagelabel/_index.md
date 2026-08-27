@@ -1,12 +1,12 @@
 ---
-title: PageLabel.PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PageLabel. Konstruktor untuk label halaman
+title: "PageLabel.PageLabel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageLabel konstruktor. Konstruktor untuk label halaman"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pagelabel/pagelabel/
 ---
-## Konstruktor PageLabel
+## PageLabel constructor
 
 Konstruktor untuk label halaman.
 
@@ -16,6 +16,8 @@ public PageLabel()
 
 ### Lihat Juga
 
-* kelas [PageLabel](../)
+* class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

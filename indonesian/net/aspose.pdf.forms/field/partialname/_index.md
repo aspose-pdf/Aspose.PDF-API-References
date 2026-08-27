@@ -1,14 +1,14 @@
 ---
-title: Field.PartialName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Mendapatkan atau mengatur nama parsial dari field
+title: "Field.PartialName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Mendapatkan atau mengatur nama parsial dari field"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.forms/field/partialname/
 ---
-## Properti Field.PartialName
+## Field.PartialName property
 
-Mendapatkan atau mengatur nama parsial dari field.
+Mendapatkan atau mengatur nama parsial bidang.
 
 ```csharp
 public string PartialName { get; set; }
@@ -16,6 +16,8 @@ public string PartialName { get; set; }
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PdfFileSignature.GetAccessPermissions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mengembalikan nilai izin akses dokumen bersertifikat berdasarkan jenis tanda tangan MDP
+title: "PdfFileSignature.GetAccessPermissions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mengembalikan nilai izin akses Document yang disertifikasi berdasarkan tipe tanda tangan MDP"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/pdffilesignature/getaccesspermissions/
 ---
-## Metode PdfFileSignature.GetAccessPermissions
+## PdfFileSignature.GetAccessPermissions method
 
-Mengembalikan nilai izin akses dokumen bersertifikat berdasarkan jenis tanda tangan MDP.
+Mengembalikan nilai izin akses dokumen bersertifikat berdasarkan tipe tanda tangan MDP.
 
 ```csharp
 public DocMDPAccessPermissions GetAccessPermissions()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Jika dokumen sedang disertifikasi, maka mengembalikan nilai izin akses; jika tidak, akan dilemparkan.
+Jika Document sedang disertifikasi, maka mengembalikan nilai izin akses; jika tidak, akan dilemparkan.
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Jika dokumen sedang disertifikasi, maka mengembalikan nilai izin akses; jika tid
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

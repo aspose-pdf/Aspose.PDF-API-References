@@ -1,22 +1,22 @@
 ---
-title: PdfBookmarkEditor.ExtractBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfBookmarkEditor. Mengekstrak bookmark dari semua level dari dokumen
+title: "PdfBookmarkEditor.ExtractBookmarks"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfBookmarkEditor. Mengekstrak bookmark dari semua level dalam dokumen"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
 ---
-## EkstrakBookmark() {#extractbookmarks}
+## ExtractBookmarks() {#extractbookmarks}
 
-Mengekstrak bookmark dari semua level dari dokumen.
+Mengekstrak bookmark dari semua level dalam dokumen.
 
 ```csharp
 public Bookmarks ExtractBookmarks()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Koleksi bookmark dari semua bookmark yang ada di dokumen.
+Koleksi bookmark dari semua bookmark yang ada dalam dokumen.
 
 ## Contoh
 
@@ -30,16 +30,16 @@ foreach(Bookmark bm in bms)
 
 ### Lihat Juga
 
-* kelas [Bookmarks](../../bookmarks/)
-* kelas [PdfBookmarkEditor](../)
+* class [Bookmarks](../../bookmarks/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## EkstrakBookmark(bool) {#extractbookmarks_2}
+## ExtractBookmarks(bool) {#extractbookmarks_2}
 
-Mengekstrak bookmark dari semua level dari dokumen.
+Mengekstrak bookmark dari semua level dalam dokumen.
 
 ```csharp
 public Bookmarks ExtractBookmarks(bool upperLevel)
@@ -47,22 +47,22 @@ public Bookmarks ExtractBookmarks(bool upperLevel)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| upperLevel | Boolean | Jika true, hanya mengekstrak bookmark level atas. Jika tidak, mengekstrak semua bookmark secara rekursif. |
+| upperLevel | Boolean | Jika true, mengekstrak hanya bookmark level atas. Jika tidak, mengekstrak semua bookmark secara rekursif. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Daftar bookmark yang diekstrak.
 
 ### Lihat Juga
 
-* kelas [Bookmarks](../../bookmarks/)
-* kelas [PdfBookmarkEditor](../)
+* class [Bookmarks](../../bookmarks/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## EkstrakBookmark(string) {#extractbookmarks_3}
+## ExtractBookmarks(string) {#extractbookmarks_3}
 
 Mengekstrak bookmark dengan judul yang ditentukan.
 
@@ -74,7 +74,7 @@ public Bookmarks ExtractBookmarks(string title)
 | --- | --- | --- |
 | title | String | Judul item yang diekstrak. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Koleksi bookmark memiliki item dengan judul yang sama.
 
@@ -90,16 +90,16 @@ foreach(Bookmark bm in bms)
 
 ### Lihat Juga
 
-* kelas [Bookmarks](../../bookmarks/)
-* kelas [PdfBookmarkEditor](../)
+* class [Bookmarks](../../bookmarks/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## EkstrakBookmark(Bookmark) {#extractbookmarks_1}
+## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
 
-Mengekstrak anak-anak dari bookmark dengan judul seperti di bookmark yang ditentukan.
+Mengekstrak anak‑anak bookmark dengan judul seperti pada bookmark yang ditentukan.
 
 ```csharp
 public Bookmarks ExtractBookmarks(Bookmark bookmark)
@@ -109,7 +109,7 @@ public Bookmarks ExtractBookmarks(Bookmark bookmark)
 | --- | --- | --- |
 | bookmark | Bookmark | Bookmark yang ditentukan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Koleksi bookmark dengan bookmark anak.
 
@@ -127,8 +127,10 @@ foreach(Bookmark bm in bms)
 
 ### Lihat Juga
 
-* kelas [Bookmarks](../../bookmarks/)
-* kelas [Bookmark](../../bookmark/)
-* kelas [PdfBookmarkEditor](../)
+* class [Bookmarks](../../bookmarks/)
+* class [Bookmark](../../bookmark/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

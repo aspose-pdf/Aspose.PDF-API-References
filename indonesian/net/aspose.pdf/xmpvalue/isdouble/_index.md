@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsDouble
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpValue. Mengembalikan true jika nilai adalah nilai titik mengambang
+title: "XmpValue.IsDouble"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpValue. Mengembalikan true jika nilai adalah nilai floating point"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/xmpvalue/isdouble/
 ---
-## Properti XmpValue.IsDouble
+## XmpValue.IsDouble property
 
 Mengembalikan true jika nilai adalah nilai titik mengambang.
 
@@ -16,6 +16,8 @@ public bool IsDouble { get; }
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

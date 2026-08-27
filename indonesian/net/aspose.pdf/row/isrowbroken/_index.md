@@ -1,14 +1,14 @@
 ---
-title: Row.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Row. Mendapatkan apakah baris dapat diputuskan antara dua halaman
+title: "Row.IsRowBroken"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Row. Menentukan apakah baris dapat dipisah antara dua halaman"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/row/isrowbroken/
 ---
-## Properti Row.IsRowBroken
+## Row.IsRowBroken property
 
-Mendapatkan apakah baris dapat diputuskan antara dua halaman
+Mendapatkan apakah baris dapat dipisah antara dua halaman
 
 ```csharp
 public bool IsRowBroken { get; set; }
@@ -16,6 +16,8 @@ public bool IsRowBroken { get; set; }
 
 ### Lihat Juga
 
-* kelas [Row](../)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

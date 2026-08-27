@@ -1,14 +1,14 @@
 ---
-title: Opi.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Opi. Mendapatkan file eksternal yang berisi gambar proxy resolusi rendah
+title: "Opi.FileSpecification"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Opi. Mendapatkan file eksternal yang berisi gambar proksi resolusi rendah"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/opi/filespecification/
 ---
-## Properti Opi.FileSpecification
+## Opi.FileSpecification property
 
-Mendapatkan file eksternal yang berisi gambar proxy resolusi rendah.
+Mendapatkan file eksternal yang berisi gambar proksi beresolusi rendah.
 
 ```csharp
 public string FileSpecification { get; }
@@ -16,6 +16,8 @@ public string FileSpecification { get; }
 
 ### Lihat Juga
 
-* kelas [Opi](../)
+* class [Opi](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

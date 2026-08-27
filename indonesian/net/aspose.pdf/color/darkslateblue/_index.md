@@ -1,12 +1,12 @@
 ---
-title: Color.DarkSlateBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF483D8B
+title: "Color.DarkSlateBlue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FF483D8B"
 type: docs
 weight: 360
 url: /id/net/aspose.pdf/color/darkslateblue/
 ---
-## Properti Color.DarkSlateBlue
+## Color.DarkSlateBlue property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF483D8B.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF483D8B.
 public static Color DarkSlateBlue { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.FontColor. Kelas yang mewakili warna teks
+title: "Class FontColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.FontColor class. Kelas yang mewakili warna teks"
 type: docs
-weight: 4270
+weight: 4390
 url: /id/net/aspose.pdf.facades/fontcolor/
 ---
-## Kelas FontColor
+## FontColor class
 
 Kelas yang mewakili warna teks.
 
@@ -33,3 +33,5 @@ public sealed class FontColor
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

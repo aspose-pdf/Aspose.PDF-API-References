@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Table
-second_title: Aspose.PDF for .NET API Reference
-description: StrukturTypeStandard field. Tabel Sebuah tata letak dua dimensi dari sel data persegi panjang yang mungkin memiliki substruktur yang kompleks. Ini berisi satu atau lebih struktur tipe baris tabel TR sebagai anak atau kepala tabel opsional struktur tipe THead diikuti oleh satu atau lebih elemen tubuh tabel struktur tipe TBody dan footer tabel opsional struktur tipe TFoot. Selain itu, sebuah tabel dapat memiliki keterangan struktur tipe Caption sebagai anak pertama atau terakhirnya.
+title: "StructureTypeStandard.Table"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Table Sebuah tata letak dua dimensi dari sel data persegi panjang yang mungkin memiliki substruktur yang kompleks. Itu berisi satu atau lebih baris tabel tipe struktur TR sebagai anak atau kepala tabel opsional tipe struktur THead diikuti oleh satu atau lebih elemen tubuh tabel tipe struktur TBody dan footer tabel opsional tipe struktur TFoot. Selain itu, sebuah tabel dapat memiliki caption tipe struktur Caption sebagai anak pertama atau terakhirnya."
 type: docs
 weight: 380
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/table/
 ---
-## StrukturTypeStandard.Table field
+## StructureTypeStandard.Table field
 
-(Tabel) Sebuah tata letak dua dimensi dari sel data persegi panjang, yang mungkin memiliki substruktur yang kompleks. Ini berisi satu atau lebih baris tabel (struktur tipe TR) sebagai anak; atau kepala tabel opsional (struktur tipe THead) diikuti oleh satu atau lebih elemen tubuh tabel (struktur tipe TBody) dan footer tabel opsional (struktur tipe TFoot). Selain itu, sebuah tabel dapat memiliki keterangan (struktur tipe Caption) sebagai anak pertama atau terakhirnya.
+(Tabel) Sebuah tata letak dua dimensi dari sel data persegi panjang, yang mungkin memiliki substruktur kompleks. Ia berisi satu atau lebih baris tabel (tipe struktur TR) sebagai anak; atau kepala tabel opsional (tipe struktur THead) diikuti oleh satu atau lebih elemen tubuh tabel (tipe struktur TBody) dan kaki tabel opsional (tipe struktur TFoot). Selain itu, sebuah tabel dapat memiliki caption (tipe struktur Caption) sebagai anak pertama atau terakhirnya.
 
 ```csharp
 public static readonly StructureTypeStandard Table;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Table;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

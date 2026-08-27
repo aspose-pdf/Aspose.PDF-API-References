@@ -1,25 +1,27 @@
 ---
-title: XImage.ImageMask
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XImage. Mendapatkan sebuah flag yang menunjukkan apakah gambar harus diperlakukan sebagai masker gambar lihat 8.9.6 Gambar Terkelupas. Jika flag ini benar, nilai BitsPerComponent harus 1 dan Mask serta ColorSpace tidak boleh ditentukan; area yang tidak terkelupas akan dicat menggunakan warna non-stroking saat ini. Nilai default false
+title: "XImage.ImageMask"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XImage. Mendapatkan flag yang menunjukkan apakah gambar harus diperlakukan sebagai image mask lihat 8.9.6 Masked Images. Jika flag ini true, nilai BitsPerComponent harus 1 dan Mask serta ColorSpace tidak boleh ditentukan; area yang tidak dimask akan diwarnai menggunakan warna nonstroking saat ini. Nilai default false."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/ximage/imagemask/
 ---
-## Properti XImage.ImageMask
+## XImage.ImageMask property
 
-Mendapatkan sebuah flag yang menunjukkan apakah gambar harus diperlakukan sebagai masker gambar (lihat 8.9.6, "Gambar Terkelupas"). Jika flag ini benar, nilai BitsPerComponent harus 1 dan Mask serta ColorSpace tidak boleh ditentukan; area yang tidak terkelupas akan dicat menggunakan warna non-stroking saat ini. Nilai default: false.
+Mendapatkan flag yang menunjukkan apakah gambar harus diperlakukan sebagai mask gambar (lihat 8.9.6, "Masked Images"). Jika flag ini true, nilai BitsPerComponent harus 1 dan Mask serta ColorSpace tidak boleh ditentukan; area yang tidak dimask akan dilukis menggunakan warna non-stroking saat ini. Nilai default: false.
 
 ```csharp
 public bool ImageMask { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Benar jika gambar adalah masker gambar.
+True jika gambar adalah image mask.
 
 ### Lihat Juga
 
-* kelas [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

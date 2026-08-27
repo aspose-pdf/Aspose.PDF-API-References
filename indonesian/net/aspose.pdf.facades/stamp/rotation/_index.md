@@ -1,14 +1,14 @@
 ---
-title: Stamp.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mendapatkan atau mengatur rotasi cap dalam derajat
+title: "Stamp.Rotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau menetapkan rotasi stamp dalam derajat."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/stamp/rotation/
 ---
-## Properti Stamp.Rotation
+## Stamp.Rotation property
 
-Mendapatkan atau mengatur rotasi cap dalam derajat.
+Mendapatkan atau mengatur rotasi stempel dalam derajat.
 
 ```csharp
 public float Rotation { get; set; }
@@ -27,6 +27,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

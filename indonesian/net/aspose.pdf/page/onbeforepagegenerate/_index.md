@@ -1,12 +1,12 @@
 ---
-title: Page.OnBeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: Acara halaman. Acara untuk menyesuaikan header dan footer
+title: "Page.OnBeforePageGenerate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Peristiwa Page. Peristiwa untuk menyesuaikan header dan footer"
 type: docs
 weight: 320
 url: /id/net/aspose.pdf/page/onbeforepagegenerate/
 ---
-## Acara Page.OnBeforePageGenerate
+## Page.OnBeforePageGenerate event
 
 Acara untuk menyesuaikan header dan footer.
 
@@ -20,3 +20,5 @@ public event BeforePageGenerate OnBeforePageGenerate;
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

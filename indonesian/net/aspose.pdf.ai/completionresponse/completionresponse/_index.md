@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.CompletionResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CompletionResponse. Konstruktor default
+title: "CompletionResponse.CompletionResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CompletionResponse konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/completionresponse/completionresponse/
 ---
-## Konstruktor CompletionResponse
+## CompletionResponse constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public CompletionResponse()
 
 ### Lihat Juga
 
-* kelas [CompletionResponse](../)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

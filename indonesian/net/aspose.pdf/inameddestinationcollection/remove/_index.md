@@ -1,12 +1,12 @@
 ---
-title: INamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode INamedDestinationCollection. Menghapus tujuan berdasarkan namanya
+title: "INamedDestinationCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode INamedDestinationCollection. Menghapus tujuan berdasarkan namanya"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/inameddestinationcollection/remove/
 ---
-## Metode INamedDestinationCollection.Remove
+## INamedDestinationCollection.Remove method
 
 Menghapus tujuan berdasarkan namanya.
 
@@ -16,10 +16,12 @@ public void Remove(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nilai nama. |
+| nama | String | Nilai nama. |
 
 ### Lihat Juga
 
-* antarmuka [INamedDestinationCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

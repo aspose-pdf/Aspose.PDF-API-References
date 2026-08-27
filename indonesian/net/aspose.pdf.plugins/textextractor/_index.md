@@ -1,12 +1,12 @@
 ---
-title: Class TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.TextExtractor. Mewakili plugin TextExtractor
+title: "Kelas TextExtractor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.TextExtractor. Mewakili plugin TextExtractor"
 type: docs
-weight: 9380
+weight: 9530
 url: /id/net/aspose.pdf.plugins/textextractor/
 ---
-## Kelas TextExtractor
+## TextExtractor class
 
 Mewakili plugin TextExtractor.
 
@@ -24,7 +24,7 @@ public class TextExtractor : PdfExtractor
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Implementasi dari IDisposable. Sebenarnya, tidak diperlukan untuk PdfExtractor. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Implementasi IDisposable. Sebenarnya, ini tidak diperlukan untuk PdfExtractor. |
 | [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | Memulai pemrosesan PdfExtractor dengan parameter yang ditentukan. |
 
 ## Catatan
@@ -36,25 +36,27 @@ Objek `TextExtractor` digunakan untuk mengekstrak teks dalam dokumen PDF.
 Contoh ini menunjukkan cara mengekstrak konten teks dari dokumen PDF.
 
 ```csharp
-// create TextExtractor object to extract text in PDF contents
+// buat objek TextExtractor untuk mengekstrak teks dalam konten PDF
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions
+    // buat TextExtractorOptions
     textExtractorOptions = new TextExtractorOptions();
     
-    // add input file path to data sources
+    // tambahkan jalur file input ke sumber data
     textExtractorOptions.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // lakukan proses ekstraksi
     ResultContainer resultContainer = extractor.Process(textExtractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // dapatkan teks yang diekstrak dari objek ResultContainer
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../pdfextractor/)
+* class [PdfExtractor](../pdfextractor/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

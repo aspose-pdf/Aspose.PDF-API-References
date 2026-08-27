@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderPartStyle.LineType
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang BorderPartStyle. Mewakili jenis garis batas, misalnya Garis Putus-putus atau Padat
+title: "SaveOptions.BorderPartStyle.LineType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BorderPartStyle field. Mewakili tipe garis batas, mis. Dashed atau Solid"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/saveoptions.borderpartstyle/linetype/
 ---
 ## SaveOptions.BorderPartStyle.LineType field
 
-Mewakili jenis garis batas - misalnya Garis Putus-putus atau Padat
+Mewakili tipe garis border - mis. Garis putus-putus atau Padat
 
 ```csharp
 public HtmlBorderLineType LineType;
@@ -20,3 +20,5 @@ public HtmlBorderLineType LineType;
 * class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

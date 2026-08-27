@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut ringkasan Pemilik atribut tabel
+title: "AttributeKey.Summary"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. Atribut Summary atribut Table pemilik"
 type: docs
 weight: 320
 url: /id/net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
-## Bidang AttributeKey.Summary
+## AttributeKey.Summary field
 
-Atribut ringkasan (Pemilik atribut tabel).
+Atribut Summary (pemilik atribut Tabel).
 
 ```csharp
 public static readonly AttributeKey Summary;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Summary;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

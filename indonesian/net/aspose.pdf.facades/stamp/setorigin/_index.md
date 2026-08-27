@@ -1,14 +1,14 @@
 ---
-title: Stamp.SetOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Stamp. Menetapkan posisi di halaman tempat stempel akan ditempatkan
+title: "Stamp.SetOrigin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Stamp. Menetapkan posisi pada halaman tempat stempel akan ditempatkan"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.facades/stamp/setorigin/
 ---
-## Metode Stamp.SetOrigin
+## Stamp.SetOrigin method
 
-Menetapkan posisi di halaman tempat stempel akan ditempatkan.
+Mengatur posisi pada halaman tempat stempel akan ditempatkan.
 
 ```csharp
 public void SetOrigin(float originX, float originY)
@@ -21,6 +21,8 @@ public void SetOrigin(float originX, float originY)
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

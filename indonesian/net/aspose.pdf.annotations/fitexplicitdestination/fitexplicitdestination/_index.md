@@ -1,7 +1,7 @@
 ---
-title: FitExplicitDestination.FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FitExplicitDestination. Membuat tujuan eksplisit lokal
+title: "FitExplicitDestination.FitExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FitExplicitDestination konstruktor. Membuat tujuan eksplisit lokal"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestination/
@@ -16,7 +16,7 @@ public FitExplicitDestination(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman tujuan. |
+| halaman | Halaman | Objek halaman tujuan. |
 
 ### Lihat Juga
 
@@ -37,10 +37,12 @@ public FitExplicitDestination(int pageNumber)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Nomor halaman tujuan dari dokumen jarak jauh. |
+| pageNumber | Int32 | Nomor halaman tujuan dari dokumen remote. |
 
 ### Lihat Juga
 
 * class [FitExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

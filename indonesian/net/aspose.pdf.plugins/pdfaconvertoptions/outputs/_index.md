@@ -1,14 +1,14 @@
 ---
-title: PdfAConvertOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAConvertOptions. Mendapatkan koleksi sumber data target yang ditambahkan untuk hasil operasi penyimpanan
+title: "PdfAConvertOptions.Outputs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfAConvertOptions. Mendapatkan koleksi target yang ditambahkan berupa file atau sumber data stream untuk menyimpan hasil operasi."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdfaconvertoptions/outputs/
 ---
-## Properti PdfAConvertOptions.Outputs
+## PdfAConvertOptions.Outputs property
 
-Mendapatkan koleksi sumber data target yang ditambahkan (file atau stream) untuk hasil operasi penyimpanan.
+Mendapatkan koleksi target yang ditambahkan (sumber data file atau stream) untuk hasil operasi penyimpanan.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../../idatasource/)
-* kelas [PdfAConvertOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAConvertOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

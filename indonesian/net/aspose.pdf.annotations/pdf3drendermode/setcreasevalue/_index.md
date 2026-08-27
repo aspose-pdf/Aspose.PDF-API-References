@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.SetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DRenderMode. Mengatur nilai crease
+title: "PDF3DRenderMode.SetCreaseValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DRenderMode method. Mengatur nilai crease"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 ---
-## Metode PDF3DRenderMode.SetCreaseValue
+## PDF3DRenderMode.SetCreaseValue method
 
-Mengatur nilai crease.
+Mengatur nilai lipatan.
 
 ```csharp
 public PDF3DRenderMode SetCreaseValue(double creaseValue)
@@ -18,12 +18,14 @@ public PDF3DRenderMode SetCreaseValue(double creaseValue)
 | --- | --- | --- |
 | creaseValue | Double | Nilai crease. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 PDF3DRenderMode.
 
 ### Lihat Juga
 
-* kelas [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

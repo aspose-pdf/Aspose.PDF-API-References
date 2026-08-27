@@ -1,12 +1,12 @@
 ---
-title: FileResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileResponse. Mendapatkan atau mengatur tipe objek yang selalu berupa file
+title: "FileResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FileResponse. Mendapatkan atau mengatur tipe objek yang selalu file"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/fileresponse/object/
 ---
-## Properti FileResponse.Object
+## FileResponse.Object property
 
 Mendapatkan atau mengatur tipe objek, yang selalu berupa file.
 
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileResponse](../)
+* class [FileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

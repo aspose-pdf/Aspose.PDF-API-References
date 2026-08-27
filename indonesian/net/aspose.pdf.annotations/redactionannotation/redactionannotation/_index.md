@@ -1,7 +1,7 @@
 ---
-title: RedactionAnnotation.RedactionAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor RedactionAnnotation. Konstruktor untuk RedactionAnnotation. Untuk digunakan dalam Generator
+title: "RedactionAnnotation.RedactionAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor RedactionAnnotation. Konstruktor untuk RedactionAnnotation. Untuk digunakan dalam Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/redactionannotation/redactionannotation/
@@ -16,7 +16,7 @@ public RedactionAnnotation(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Dokumen tempat anotasi baru akan dibuat. |
+| document | Document | Document dimana anotasi baru akan dibuat. |
 
 ### Lihat Juga
 
@@ -37,8 +37,8 @@ public RedactionAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat anotasi akan ditempatkan. |
-| rect | Rectangle | Posisi anotasi di halaman. |
+| halaman | Halaman | Page dimana anotasi akan ditempatkan. |
+| rect | Rectangle | Posisi anotasi pada halaman. |
 
 ### Lihat Juga
 
@@ -47,3 +47,5 @@ public RedactionAnnotation(Page page, Rectangle rect)
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

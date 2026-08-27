@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageInfo. Mendapatkan atau mengatur lebar halaman
+title: "PageInfo.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageInfo. Mendapatkan atau mengatur lebar halaman"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/pageinfo/width/
 ---
-## Properti PageInfo.Width
+## PageInfo.Width property
 
 Mendapatkan atau mengatur lebar halaman.
 
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageInfo](../)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

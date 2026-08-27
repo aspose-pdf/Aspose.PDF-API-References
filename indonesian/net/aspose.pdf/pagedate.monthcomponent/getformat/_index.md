@@ -1,7 +1,7 @@
 ---
-title: PageDate.MonthComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Metode MonthComponent. Mendapatkan string format untuk komponen bulan
+title: "PageDate.MonthComponent.GetFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode MonthComponent. Mendapatkan string format untuk komponen bulan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pagedate.monthcomponent/getformat/
@@ -14,12 +14,14 @@ Mendapatkan string format untuk komponen bulan.
 public string GetFormat()
 ```
 
-### Return Value
+### Nilai Kembalian
 
 Sebuah string yang mewakili format bulan.
 
-### See Also
+### Lihat Juga
 
 * class [MonthComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

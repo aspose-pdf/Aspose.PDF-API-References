@@ -1,12 +1,12 @@
 ---
-title: PageCollection.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Menghapus data yang di-cache
+title: "PageCollection.FreeMemory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PageCollection. Menghapus data cache"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/pagecollection/freememory/
 ---
-## Metode PageCollection.FreeMemory
+## PageCollection.FreeMemory method
 
 Menghapus data yang di-cache
 
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### Lihat Juga
 
-* kelas [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

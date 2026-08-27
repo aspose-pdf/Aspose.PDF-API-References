@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentCollection. Mengambil elemen fragmen teks pada indeks yang ditentukan
+title: "TextFragmentCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentCollection. Mengambil elemen fragmen teks pada indeks yang ditentukan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/textfragmentcollection/item/
 ---
-## Pengindeks TextFragmentCollection
+## TextFragmentCollection indexer
 
-Mengambil elemen fragmen teks pada indeks yang ditentukan.
+Mendapatkan elemen fragmen teks pada indeks yang ditentukan.
 
 ```csharp
 public TextFragment this[int index] { get; }
@@ -18,13 +18,15 @@ public TextFragment this[int index] { get; }
 | --- | --- |
 | index | Indeks dalam koleksi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek TextFragment.
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../textfragment/)
-* kelas [TextFragmentCollection](../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

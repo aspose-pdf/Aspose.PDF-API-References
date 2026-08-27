@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITHIN
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor bidang. DI Pembagian Horizontal
+title: "PdfPageEditor.SPLITHIN"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PdfPageEditor. IN Horizontal Split"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf.facades/pdfpageeditor/splithin/
 ---
-## Bidang PdfPageEditor.SPLITHIN
+## PdfPageEditor.SPLITHIN field
 
-PEMISAHAN Horizontal IN
+Pemisahan Horizontal IN
 
 ```csharp
 public const int SPLITHIN;
@@ -16,6 +16,8 @@ public const int SPLITHIN;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

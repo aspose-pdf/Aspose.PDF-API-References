@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Mengambil atau menetapkan nilai string yang digunakan sebagai cap di halaman
+title: "TextStamp.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Mendapatkan atau mengatur nilai string yang digunakan sebagai stempel pada halaman"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/textstamp/value/
 ---
-## Properti TextStamp.Value
+## TextStamp.Value property
 
-Mengambil atau menetapkan nilai string yang digunakan sebagai cap di halaman.
+Mendapatkan atau mengatur nilai string yang digunakan sebagai stempel pada halaman.
 
 ```csharp
 public string Value { get; set; }
@@ -16,6 +16,8 @@ public string Value { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

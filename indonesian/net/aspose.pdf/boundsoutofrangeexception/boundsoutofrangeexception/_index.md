@@ -1,7 +1,7 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BoundsOutOfRangeException. Menginisialisasi instance baru dari kelas BoundsOutOfRangeException
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor BoundsOutOfRangeException. Menginisialisasi instance baru dari kelas BoundsOutOfRangeException"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/boundsoutofrangeexception/boundsoutofrangeexception/
@@ -16,7 +16,7 @@ public BoundsOutOfRangeException()
 
 ### Lihat Juga
 
-* kelas [BoundsOutOfRangeException](../)
+* class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public BoundsOutOfRangeException(string message)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan alasan untuk pengecualian. |
+| message | String | Pesan error yang menjelaskan alasan pengecualian. |
 
 ### Lihat Juga
 
-* kelas [BoundsOutOfRangeException](../)
+* class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public BoundsOutOfRangeException(string message)
 
 ## BoundsOutOfRangeException(string, double, double) {#constructor_2}
 
-Menginisialisasi instance baru dari kelas [`BoundsOutOfRangeException`](../) dengan pesan kesalahan yang ditentukan dan dimensi item.
+Menginisialisasi instance baru dari kelas [`BoundsOutOfRangeException`](../) dengan pesan kesalahan dan dimensi item yang ditentukan.
 
 ```csharp
 public BoundsOutOfRangeException(string message, double containerWidth, double containerHeight)
@@ -52,12 +52,14 @@ public BoundsOutOfRangeException(string message, double containerWidth, double c
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan alasan untuk pengecualian. |
+| message | String | Pesan error yang menjelaskan alasan pengecualian. |
 | containerWidth | Double | Lebar kontainer. |
 | containerHeight | Double | Tinggi kontainer. |
 
 ### Lihat Juga
 
-* kelas [BoundsOutOfRangeException](../)
+* class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

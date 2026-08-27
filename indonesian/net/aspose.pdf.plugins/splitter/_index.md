@@ -1,12 +1,12 @@
 ---
-title: Class Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.Splitter. Mewakili plugin Splitter
+title: "Kelas Splitter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.Splitter class. Mewakili plugin Splitter"
 type: docs
-weight: 9280
+weight: 9430
 url: /id/net/aspose.pdf.plugins/splitter/
 ---
-## Kelas Splitter
+## Splitter class
 
 Mewakili plugin `Splitter`.
 
@@ -28,24 +28,26 @@ public class Splitter : IPlugin
 
 ## Contoh
 
-Contoh ini menunjukkan cara membagi dokumen PDF.
+Contoh ini menunjukkan cara memecah dokumen PDF.
 
 ```csharp
-// create Splitter
+// buat Splitter
 var splitter = new Splitter();
-// create SplitOptions object to set instructions
+// buat objek SplitOptions untuk mengatur instruksi
 var opt = new SplitOptions();
-// add input file paths
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath));
-// set output file paths
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath1));
 opt.AddOutput(new FileDataSource(outputPath2));
-// perform the process
+// lakukan proses
 splitter.Process(opt);
 ```
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

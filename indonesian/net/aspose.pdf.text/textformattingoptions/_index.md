@@ -1,14 +1,14 @@
 ---
-title: Class TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.OpsiFormatTeks. Mewakili opsi format teks
+title: "Kelas TextFormattingOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.TextFormattingOptions kelas. Mewakili opsi pemformatan teks"
 type: docs
-weight: 10910
+weight: 11090
 url: /id/net/aspose.pdf.text/textformattingoptions/
 ---
-## Kelas OpsiFormatTeks
+## TextFormattingOptions class
 
-Mewakili opsi format teks
+Mewakili opsi pemformatan teks
 
 ```csharp
 public sealed class TextFormattingOptions : TextOptions
@@ -18,21 +18,23 @@ public sealed class TextFormattingOptions : TextOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [OpsiFormatTeks](textformattingoptions/#constructor)() | Menginisialisasi instance baru dari objek `OpsiFormatTeks` dengan mode pembungkus kata yang tidak terdefinisi. |
-| [OpsiFormatTeks](textformattingoptions/#constructor_1)(ModePembungkusKata) | Menginisialisasi instance baru dari objek `OpsiFormatTeks` untuk mode pembungkus kata yang ditentukan. |
+| [TextFormattingOptions](textformattingoptions/#constructor)() | Menginisialisasi instance baru dari objek `TextFormattingOptions` dengan mode pembungkus kata yang tidak terdefinisi. |
+| [TextFormattingOptions](textformattingoptions/#constructor_1)(WordWrapMode) | Menginisialisasi instance baru dari objek `TextFormattingOptions` untuk mode pembungkus kata yang ditentukan. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [IndentasiBarisPertama](../../aspose.pdf.text/textformattingoptions/firstlineindent/) { get; set; } | Mendapatkan atau menetapkan nilai indentasi baris pertama. |
-| [SimbolTandaHubung](../../aspose.pdf.text/textformattingoptions/hyphensymbol/) { get; set; } | Mendapatkan atau menetapkan simbol tanda hubung yang digunakan dalam proses pemisahan kata. |
-| [JarakAntarBaris](../../aspose.pdf.text/textformattingoptions/linespacing/) { get; set; } | Mendapatkan atau menetapkan mode jarak antar baris. Nilai default adalah ModeJarakAntarBaris.FontSize |
-| [IndentasiBarisSelanjutnya](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent/) { get; set; } | Mendapatkan atau menetapkan nilai indentasi baris selanjutnya. |
-| [ModePembungkus](../../aspose.pdf.text/textformattingoptions/wrapmode/) { get; set; } | Mendapatkan atau menetapkan mode pembungkus kata. Nilai default adalah ModePembungkusKata.NoWrap |
+| [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent/) { get; set; } | Mendapatkan atau mengatur nilai indentasi baris pertama. |
+| [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol/) { get; set; } | Mendapatkan atau mengatur simbol hyphen yang digunakan dalam proses hyphenation. |
+| [LineSpacing](../../aspose.pdf.text/textformattingoptions/linespacing/) { get; set; } | Mendapatkan atau mengatur mode spasi baris. Nilai default adalah LineSpacingMode.FontSize |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent/) { get; set; } | Mendapatkan atau mengatur nilai indentasi baris berikutnya. |
+| [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode/) { get; set; } | Mendapatkan atau mengatur mode pembungkus kata. Nilai default adalah WordWrapMode.NoWrap |
 
 ### Lihat Juga
 
-* kelas [OpsiTeks](../textoptions/)
+* class [TextOptions](../textoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

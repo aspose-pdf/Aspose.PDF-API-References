@@ -1,14 +1,14 @@
 ---
-title: Class TabStop
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.TabStop. Mewakili posisi Tab stop kustom dalam sebuah paragraf
+title: "Kelas TabStop"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.TabStop. Mewakili posisi Tab khusus dalam paragraf"
 type: docs
-weight: 10770
+weight: 10950
 url: /id/net/aspose.pdf.text/tabstop/
 ---
-## Kelas TabStop
+## TabStop class
 
-Mewakili posisi Tab stop kustom dalam sebuah paragraf.
+Mewakili posisi henti Tab khusus dalam paragraf.
 
 ```csharp
 public class TabStop
@@ -25,12 +25,14 @@ public class TabStop
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | Mendapatkan atau menetapkan enum [`AlignmentType`](./alignmenttype/) yang menunjukkan jenis penyelarasan tab. |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan bahwa instance `TabStop` ini sudah terpasang pada [`TextFragment`](../textfragment/) dan menjadi hanya baca |
-| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | Mendapatkan atau menetapkan enum [`TabLeaderType`](../tableadertype/) yang menunjukkan jenis pemimpin tab. |
-| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan posisi tab stop. |
+| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | Mendapatkan atau mengatur enum [`AlignmentType`](./alignmenttype/) yang menunjukkan tipe perataan tab. |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan bahwa instance `TabStop` ini sudah terhubung ke [`TextFragment`](../textfragment/) dan menjadi readonly |
+| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | Mendapatkan atau mengatur enum [`TabLeaderType`](../tableadertype/) yang menunjukkan tipe pemimpin tab. |
+| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan posisi tab stop. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

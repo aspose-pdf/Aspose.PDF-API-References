@@ -1,12 +1,12 @@
 ---
-title: Class MessageContentRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.MessageContentRequest. Konten pesan dalam array teks dan/atau gambar
+title: "Kelas MessageContentRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.MessageContentRequest. Konten pesan dalam array teks dan/atau gambar"
 type: docs
-weight: 780
+weight: 830
 url: /id/net/aspose.pdf.ai/messagecontentrequest/
 ---
-## Kelas MessageContentRequest
+## MessageContentRequest class
 
 Konten pesan dalam array teks dan/atau gambar.
 
@@ -24,10 +24,10 @@ public class MessageContentRequest : MessageContentBase
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Mendapatkan atau menetapkan file gambar dalam konten pesan. |
-| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Mendapatkan atau menetapkan URL gambar dalam konten pesan. |
-| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Mendapatkan atau menetapkan jenis konten. |
-| [Text](../../aspose.pdf.ai/messagecontentrequest/text/) { get; set; } | Mendapatkan atau menetapkan konten teks yang merupakan bagian dari pesan. |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Mendapatkan atau mengatur File gambar dalam konten sebuah pesan. |
+| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Mendapatkan atau mengatur URL gambar dalam konten pesan. |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Mendapatkan atau mengatur jenis konten. |
+| [Text](../../aspose.pdf.ai/messagecontentrequest/text/) { get; set; } | Mendapatkan atau mengatur konten teks yang merupakan bagian dari pesan. |
 
 ## Metode
 
@@ -39,6 +39,8 @@ public class MessageContentRequest : MessageContentBase
 
 ### Lihat Juga
 
-* kelas [MessageContentBase](../messagecontentbase/)
+* class [MessageContentBase](../messagecontentbase/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

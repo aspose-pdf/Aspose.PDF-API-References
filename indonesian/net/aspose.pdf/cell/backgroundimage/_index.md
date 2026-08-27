@@ -1,12 +1,12 @@
 ---
-title: Cell.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Cell. Mendapatkan atau mengatur gambar latar belakang
+title: "Cell.BackgroundImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Cell. Mendapatkan atau mengatur gambar latar belakang"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/cell/backgroundimage/
 ---
-## Properti Cell.BackgroundImage
+## Cell.BackgroundImage property
 
 Mendapatkan atau mengatur gambar latar belakang
 
@@ -16,7 +16,9 @@ public Image BackgroundImage { get; set; }
 
 ### Lihat Juga
 
-* kelas [Gambar](../../image/)
-* kelas [Cell](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Image](../../image/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

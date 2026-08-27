@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.FontFamilyName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur nama keluarga font. Itu harus ada dalam dokumen. Nilai default Arial
+title: "SignatureCustomAppearance.FontFamilyName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur nama keluarga font. Harus ada dalam dokumen. Nilai default Arial"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/
 ---
-## Properti SignatureCustomAppearance.FontFamilyName
+## SignatureCustomAppearance.FontFamilyName property
 
-Mendapatkan/mengatur nama keluarga font. Itu harus ada dalam dokumen. Nilai default: Arial.
+Mendapatkan/mengatur nama keluarga font. Harus ada dalam dokumen. Nilai default: Arial.
 
 ```csharp
 public string FontFamilyName { get; set; }
@@ -16,6 +16,8 @@ public string FontFamilyName { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

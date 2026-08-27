@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaCopilotOptionsBase. Mengambil atau mengatur suhu pengambilan yang digunakan untuk model
+title: "LlamaCopilotOptionsBase.Temperature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LlamaCopilotOptionsBase. Mendapatkan atau mengatur suhu sampling yang akan digunakan untuk model"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/llamacopilotoptionsbase/temperature/
 ---
-## Properti LlamaCopilotOptionsBase.Temperature
+## LlamaCopilotOptionsBase.Temperature property
 
-Mengambil atau mengatur suhu pengambilan yang digunakan untuk model.
+Mendapatkan atau mengatur suhu sampling yang akan digunakan untuk model.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -16,6 +16,8 @@ public double? Temperature { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaCopilotOptionsBase](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* kumpulan [Aspose.PDF](../../../)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

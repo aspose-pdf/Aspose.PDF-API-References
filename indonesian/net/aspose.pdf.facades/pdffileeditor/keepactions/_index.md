@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.KeepActions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Jika benar, tindakan akan disalin dari dokumen sumber. Nilai default benar
+title: "PdfFileEditor.KeepActions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileEditor property. Jika true aksi akan disalin dari dokumen sumber. Nilai default true"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdffileeditor/keepactions/
 ---
-## Properti PdfFileEditor.KeepActions
+## PdfFileEditor.KeepActions property
 
-Jika benar, tindakan akan disalin dari dokumen sumber. Nilai default: benar.
+Jika true tindakan akan disalin dari dokumen sumber. Nilai default: true.
 
 ```csharp
 public bool KeepActions { get; set; }
@@ -16,6 +16,8 @@ public bool KeepActions { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

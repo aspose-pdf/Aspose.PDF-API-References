@@ -1,7 +1,7 @@
 ---
-title: TableAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableAbsorber. Mengekstrak tabel pada halaman yang ditentukan
+title: "TableAbsorber.Visit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableAbsorber. Mengekstrak tabel pada halaman yang ditentukan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/tableabsorber/visit/
@@ -14,31 +14,31 @@ Mengekstrak tabel pada halaman yang ditentukan
 public virtual void Visit(Page page)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman dokumen Pdf. |
+| halaman | Halaman | Objek halaman dokumen Pdf. |
 
 ## Contoh
 
 Contoh ini menunjukkan cara mengekstrak tabel pada halaman pertama dokumen PDF.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// Buat objek TableAbsorber untuk menemukan tabel
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// Kunjungi halaman pertama dengan absorber
 absorber.Visit(doc.Pages[1]);
 
-// Get access to first table on page, their first cell and text fragments in it
+// Dapatkan akses ke tabel pertama pada halaman, sel pertama mereka, dan fragmen teks di dalamnya
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// Ubah teks fragmen teks pertama dalam sel
 fragment.Text = "hi world";
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
@@ -59,31 +59,31 @@ Mengekstrak tabel dalam dokumen yang ditentukan.
 public void Visit(Document pdf)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pdf | Document | Objek dokumen Pdf. |
+| pdf | Document | Objek Pdf pocument. |
 
 ## Contoh
 
 Contoh ini menunjukkan cara mengekstrak tabel pada halaman pertama dokumen PDF.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// Buat objek TableAbsorber untuk menemukan tabel
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// Kunjungi halaman pertama dengan absorber
 absorber.Visit(doc);
 
-// Get access to first table on page, their first cell and text fragments in it
+// Dapatkan akses ke tabel pertama pada halaman, sel pertama mereka, dan fragmen teks di dalamnya
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// Ubah teks fragmen teks pertama dalam sel
 fragment.Text = "hi world";
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
@@ -93,3 +93,5 @@ doc.Save(@"D:\Tests\output.pdf");
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

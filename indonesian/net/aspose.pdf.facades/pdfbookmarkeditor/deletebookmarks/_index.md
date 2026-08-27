@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.DeleteBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfBookmarkEditor. Menghapus semua bookmark dari dokumen PDF
+title: "PdfBookmarkEditor.DeleteBookmarks"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfBookmarkEditor. Menghapus semua bookmark dari dokumen PDF"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/
@@ -25,7 +25,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,6 +54,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

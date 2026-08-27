@@ -1,140 +1,12 @@
 ---
-title: PdfFileEditor.TryMakeNUp
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Membuat dokumen NUp dari firstInputFile ke outputFile
+title: "PdfFileEditor.TryMakeNUp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Membuat dokumen NUp dari firstInputFile ke outputFile"
 type: docs
 weight: 440
 url: /id/net/aspose.pdf.facades/pdffileeditor/trymakenup/
 ---
 ## TryMakeNUp(string, string, int, int) {#trymakenup_4}
-
-Membuat dokumen N-up dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TryMakeNUp(string inputFile, int x, int y, PageSize pageSize, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputFile | String | Jalur ke file sumber. |
-| x | Int32 | Jumlah kolom. |
-| y | Int32 | Jumlah baris. |
-| pageSize | PageSize | Ukuran halaman dalam file hasil. |
-| response | HttpResponse | Objek HttpResponse di mana hasil akan disimpan. |
-
-### Return Value
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Remarks
-
-Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeNUp(Stream, int, int, PageSize, HttpResponse) {#trymakenup}
-
-Membuat dokumen N-up dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TryMakeNUp(Stream inputStream, int x, int y, PageSize pageSize, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream | Stream dari dokumen sumber. |
-| x | Int32 | Jumlah kolom. |
-| y | Int32 | Jumlah baris. |
-| pageSize | PageSize | Ukuran halaman dalam file hasil. |
-| response | HttpResponse | Objek HttpResponse di mana hasil akan disimpan. |
-
-### Return Value
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Remarks
-
-Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeNUp(string, int, int, HttpResponse) {#trymakenup_7}
-
-Membuat dokumen N-up dan menyimpan hasilnya ke dalam HttpResponse.
-
-```csharp
-public bool TryMakeNUp(string inputFile, int x, int y, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputFile | String | Nama file sumber. |
-| x | Int32 | Jumlah kolom. |
-| y | Int32 | Jumlah baris. |
-| response | HttpResponse | Objek HttpResponse di mana hasil akan disimpan. |
-
-### Return Value
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Remarks
-
-Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeNUp(Stream, int, int, HttpResponse) {#trymakenup_1}
-
-Membuat dokumen N-up dan menyimpan hasilnya ke dalam HttpResponse.
-
-```csharp
-public bool TryMakeNUp(Stream inputStream, int x, int y, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream | Stream dari dokumen input. |
-| x | Int32 | Jumlah kolom. |
-| y | Int32 | Jumlah baris. |
-| response | HttpResponse | HttpResponse di mana hasil akan disimpan. |
-
-### Return Value
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Remarks
-
-Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeNUp(string, string, int, int) {#trymakenup_8}
 
 Membuat dokumen N-Up dari firstInputFile ke outputFile.
 
@@ -149,22 +21,22 @@ public bool TryMakeNUp(string inputFile, string outputFile, int x, int y)
 | x | Int32 | Jumlah kolom. |
 | y | Int32 | Jumlah baris. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
 Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -174,7 +46,7 @@ bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3);
 
 ## TryMakeNUp(Stream, Stream, int, int) {#trymakenup}
 
-Membuat dokumen N-Up dari stream input dan menyimpan hasilnya ke dalam stream output.
+Membuat dokumen N-Up dari aliran input dan menyimpan hasil ke aliran output.
 
 ```csharp
 public bool TryMakeNUp(Stream inputStream, Stream outputStream, int x, int y)
@@ -182,20 +54,20 @@ public bool TryMakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream pdf input. |
-| outputStream | Stream | Stream pdf output. |
+| inputStream | Stream | Aliran pdf input. |
+| outputStream | Stream | Aliran pdf output. |
 | x | Int32 | Jumlah kolom. |
 | y | Int32 | Jumlah baris. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
 Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -204,7 +76,7 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -214,7 +86,7 @@ bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3);
 
 ## TryMakeNUp(Stream, Stream, int, int, PageSize) {#trymakenup_1}
 
-Membuat dokumen N-Up dari stream input pertama ke stream output.
+Membuat dokumen N-Up dari aliran input pertama ke aliran output.
 
 ```csharp
 public bool TryMakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageSize pageSize)
@@ -222,21 +94,21 @@ public bool TryMakeNUp(Stream inputStream, Stream outputStream, int x, int y, Pa
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream pdf input. |
-| outputStream | Stream | Stream pdf output. |
+| inputStream | Stream | Aliran pdf input. |
+| outputStream | Stream | Aliran pdf output. |
 | x | Int32 | Jumlah kolom. |
 | y | Int32 | Jumlah baris. |
-| pageSize | PageSize | Ukuran halaman dari file pdf output. |
+| pageSize | PageSize | Ukuran halaman file pdf output. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
 Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -245,7 +117,7 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
@@ -256,7 +128,7 @@ bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 
 ## TryMakeNUp(string, string, string) {#trymakenup_6}
 
-Membuat dokumen N-Up dari dua file PDF input ke outputFile. Setiap halaman dari outputFile akan berisi dua halaman, satu halaman dari file input pertama dan satu halaman dari file input kedua. Dua halaman tersebut ditumpuk secara horizontal.
+Membuat dokumen N-Up dari dua file PDF input ke outputFile. Setiap halaman outputFile akan berisi dua halaman, satu halaman berasal dari file input pertama dan satu lagi dari file input kedua. Kedua halaman ditumpuk secara horizontal.
 
 ```csharp
 public bool TryMakeNUp(string firstInputFile, string secondInputFile, string outputFile)
@@ -268,22 +140,22 @@ public bool TryMakeNUp(string firstInputFile, string secondInputFile, string out
 | secondInputFile | String | file input kedua. |
 | outputFile | String | Jalur dan nama file pdf output. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false
 
-## Remarks
+## Catatan
 
 Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -293,7 +165,7 @@ bool result = pfe.TryMakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 
 ## TryMakeNUp(Stream, Stream, Stream) {#trymakenup_2}
 
-Membuat dokumen N-Up dari dua stream PDF input ke outputStream.
+Membuat dokumen N-Up dari dua aliran PDF input ke outputStream.
 
 ```csharp
 public bool TryMakeNUp(Stream firstInputStream, Stream secondInputStream, Stream outputStream)
@@ -301,19 +173,19 @@ public bool TryMakeNUp(Stream firstInputStream, Stream secondInputStream, Stream
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| firstInputStream | Stream | stream input pertama. |
-| secondInputStream | Stream | stream input kedua. |
-| outputStream | Stream | Stream pdf output. |
+| firstInputStream | Stream | aliran input pertama. |
+| secondInputStream | Stream | aliran input kedua. |
+| outputStream | Stream | Aliran pdf output. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false
 
-## Remarks
+## Catatan
 
 Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -323,7 +195,7 @@ Stream output = new FileStream("output.pdf");
 bool result = pfe.TryMakeNUp(input1, input2, output);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -333,7 +205,7 @@ bool result = pfe.TryMakeNUp(input1, input2, output);
 
 ## TryMakeNUp(string[], string, bool) {#trymakenup_7}
 
-Membuat dokumen N-Up dari beberapa file PDF input ke outputFile. Setiap halaman dari outputFile akan berisi beberapa halaman, yang merupakan kombinasi dari halaman-halaman dalam file input dengan nomor halaman yang sama. Beberapa halaman ditumpuk secara horizontal jika isSidewise bernilai true dan ditumpuk secara vertikal jika isSidewise bernilai false.
+Membuat dokumen N-Up dari beberapa file PDF input ke outputFile. Setiap halaman outputFile akan berisi beberapa halaman, yang merupakan kombinasi dengan halaman dalam file input pada nomor halaman yang sama. Halaman‑multiple ditumpuk secara horizontal jika isSidewise bernilai true dan ditumpuk secara vertikal jika isSidewise bernilai false.
 
 ```csharp
 public bool TryMakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
@@ -343,24 +215,24 @@ public bool TryMakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 | --- | --- | --- |
 | inputFiles | String[] | File Pdf input. |
 | outputFile | String | Jalur dan nama file pdf output. |
-| isSidewise | Boolean | Cara penumpukan, true untuk horizontal dan false untuk vertikal. |
+| isSidewise | Boolean | Cara ditumpuk, true untuk secara horizontal dan false untuk secara vertikal. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
 Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.pdf", false);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -370,7 +242,7 @@ bool result = pfe.TryMakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.
 
 ## TryMakeNUp(Stream[], Stream, bool) {#trymakenup_3}
 
-Membuat dokumen N-Up dari beberapa stream PDF input ke outputStream. Setiap halaman dari outputStream akan berisi beberapa halaman, yang merupakan kombinasi dari halaman-halaman dalam stream input dengan nomor halaman yang sama. Beberapa halaman ditumpuk secara horizontal jika isSidewise bernilai true dan ditumpuk secara vertikal jika isSidewise bernilai false.
+Membuat dokumen N-Up dari beberapa aliran PDF input ke outputStream. Setiap halaman outputStream akan berisi beberapa halaman, yang merupakan kombinasi dengan halaman dalam aliran input pada nomor halaman yang sama. Halaman‑multiple ditumpuk secara horizontal jika isSidewise bernilai true dan ditumpuk secara vertikal jika isSidewise bernilai false.
 
 ```csharp
 public bool TryMakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
@@ -378,19 +250,19 @@ public bool TryMakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewi
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStreams | Stream[] | Stream Pdf input. |
-| outputStream | Stream | Stream pdf output. |
-| isSidewise | Boolean | Cara penumpukan, true untuk horizontal dan false untuk vertikal. |
+| inputStreams | Stream[] | Aliran Pdf input. |
+| outputStream | Stream | Aliran pdf output. |
+| isSidewise | Boolean | Cara ditumpuk, true untuk secara horizontal dan false untuk secara vertikal. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
 Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -401,7 +273,7 @@ Stream output = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TryMakeNUp(new Stream[] { stream1, stream2, stream3 }, output, false);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -423,26 +295,28 @@ public bool TryMakeNUp(string inputFile, string outputFile, int x, int y, PageSi
 | outputFile | String | Jalur dan nama file pdf output. |
 | x | Int32 | Jumlah kolom. |
 | y | Int32 | Jumlah baris. |
-| pageSize | PageSize | Ukuran halaman dari file pdf output. |
+| pageSize | PageSize | Ukuran halaman file pdf output. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
 Metode TryMakeNUp mirip dengan metode MakeNUp, kecuali metode TryMakeNUp tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3, PageSize.A4);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

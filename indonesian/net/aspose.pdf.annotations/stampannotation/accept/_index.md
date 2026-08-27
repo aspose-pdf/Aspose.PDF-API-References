@@ -1,14 +1,14 @@
 ---
-title: StampAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StampAnnotation. Menerima pengunjung AnnotationSelector saat menjelajahi koleksi anotasi
+title: "StampAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StampAnnotation. Menerima pengunjung AnnotationSelector saat menelusuri koleksi anotasi"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/stampannotation/accept/
 ---
-## Metode StampAnnotation.Accept
+## StampAnnotation.Accept method
 
-Menerima [`AnnotationSelector`](../../annotationselector/) pengunjung saat menjelajahi koleksi anotasi.
+Menerima pengunjung [`AnnotationSelector`](../../annotationselector/) saat menelusuri koleksi anotasi.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [StampAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

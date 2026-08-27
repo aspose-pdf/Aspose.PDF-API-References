@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Properti EmbeddedFileCollection. Mengembalikan daftar kunci lampiran file
+title: "EmbeddedFileCollection.Keys"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti EmbeddedFileCollection. Mengembalikan daftar kunci lampiran file"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/embeddedfilecollection/keys/
 ---
-## Properti EmbeddedFileCollection.Keys
+## EmbeddedFileCollection.Keys property
 
 Mengembalikan daftar kunci lampiran file.
 
@@ -16,6 +16,8 @@ public List<string> Keys { get; }
 
 ### Lihat Juga
 
-* kelas [EmbeddedFileCollection](../)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageNumber.Offset
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageNumber. Mendapatkan atau menetapkan offset yang akan ditambahkan ke indeks halaman
+title: "PageNumber.Offset"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageNumber property. Mendapatkan atau mengatur offset yang akan ditambahkan ke indeks halaman."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/pagenumber/offset/
 ---
-## Properti PageNumber.Offset
+## PageNumber.Offset property
 
-Mendapatkan atau menetapkan offset yang akan ditambahkan ke indeks halaman.
+Mendapatkan atau mengatur offset yang akan ditambahkan ke indeks halaman.
 
 ```csharp
 public int Offset { get; set; }
@@ -16,6 +16,8 @@ public int Offset { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageNumber](../)
+* class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

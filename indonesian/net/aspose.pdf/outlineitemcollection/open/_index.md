@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutlineItemCollection. Mendapatkan atau mengatur status terbuka true/false untuk item outline
+title: "OutlineItemCollection.Open"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OutlineItemCollection properti. Mendapatkan atau mengatur status terbuka true/false untuk item outline"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/outlineitemcollection/open/
 ---
-## Properti OutlineItemCollection.Open
+## OutlineItemCollection.Open property
 
 Mendapatkan atau mengatur status terbuka (true/false) untuk item outline.
 
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

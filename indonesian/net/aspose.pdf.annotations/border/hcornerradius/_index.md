@@ -1,14 +1,14 @@
 ---
-title: Border.HCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Border. Mendapatkan atau mengatur radius sudut horizontal
+title: "Border.HCornerRadius"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Border. Mendapatkan atau mengatur jari-jari sudut horizontal"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/border/hcornerradius/
 ---
-## Properti Border.HCornerRadius
+## Border.HCornerRadius property
 
-Mendapatkan atau mengatur radius sudut horizontal.
+Mendapatkan atau mengatur jari-jari sudut horizontal.
 
 ```csharp
 public double HCornerRadius { get; set; }
@@ -16,6 +16,8 @@ public double HCornerRadius { get; set; }
 
 ### Lihat Juga
 
-* kelas [Border](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class StringResult
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.StringResult. Mewakili hasil operasi dalam bentuk string
+title: "Kelas StringResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.StringResult. Mewakili hasil operasi dalam bentuk string"
 type: docs
-weight: 9320
+weight: 9470
 url: /id/net/aspose.pdf.plugins/stringresult/
 ---
-## Kelas StringResult
+## StringResult class
 
 Mewakili hasil operasi dalam bentuk string.
 
@@ -21,7 +21,7 @@ public sealed class StringResult : IOperationResult
 | [Data](../../aspose.pdf.plugins/stringresult/data/) { get; } | Mendapatkan data mentah. |
 | [IsFile](../../aspose.pdf.plugins/stringresult/isfile/) { get; } | Menunjukkan apakah hasilnya adalah jalur ke file output. |
 | [IsStream](../../aspose.pdf.plugins/stringresult/isstream/) { get; } | Menunjukkan apakah hasilnya adalah jalur ke file output. |
-| [IsString](../../aspose.pdf.plugins/stringresult/isstring/) { get; } | Menunjukkan apakah hasilnya adalah string. |
+| [IsString](../../aspose.pdf.plugins/stringresult/isstring/) { get; } | Menunjukkan apakah hasilnya berupa string. |
 | [Text](../../aspose.pdf.plugins/stringresult/text/) { get; } | Mengembalikan representasi string dari hasil. |
 
 ## Metode
@@ -34,6 +34,8 @@ public sealed class StringResult : IOperationResult
 
 ### Lihat Juga
 
-* antarmuka [IOperationResult](../ioperationresult/)
+* interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

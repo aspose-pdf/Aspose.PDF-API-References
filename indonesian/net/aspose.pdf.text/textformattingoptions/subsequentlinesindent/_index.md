@@ -1,14 +1,14 @@
 ---
-title: TextFormattingOptions.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFormattingOptions. Mendapatkan atau mengatur nilai indentasi untuk baris berikutnya
+title: "TextFormattingOptions.SubsequentLinesIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFormattingOptions. Mengambil atau mengatur nilai indent baris berikutnya"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/textformattingoptions/subsequentlinesindent/
 ---
-## Properti TextFormattingOptions.SubsequentLinesIndent
+## TextFormattingOptions.SubsequentLinesIndent property
 
-Mendapatkan atau mengatur nilai indentasi untuk baris berikutnya.
+Mendapatkan atau mengatur nilai indentasi baris berikutnya.
 
 ```csharp
 public float SubsequentLinesIndent { get; set; }
@@ -16,6 +16,8 @@ public float SubsequentLinesIndent { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFormattingOptions](../)
+* class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

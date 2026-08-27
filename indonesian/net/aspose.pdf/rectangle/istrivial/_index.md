@@ -1,14 +1,14 @@
 ---
-title: Rectangle.IsTrivial
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Memeriksa apakah rectangle adalah trivial yaitu memiliki ukuran dan posisi nol
+title: "Rectangle.IsTrivial"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Memeriksa apakah persegi panjang bersifat trivial, yaitu memiliki ukuran dan posisi nol."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/rectangle/istrivial/
 ---
-## Properti Rectangle.IsTrivial
+## Rectangle.IsTrivial property
 
-Memeriksa apakah rectangle adalah trivial yaitu memiliki ukuran dan posisi nol.
+Memeriksa apakah persegi panjang bersifat trivial, yaitu memiliki ukuran dan posisi nol.
 
 ```csharp
 public bool IsTrivial { get; }
@@ -16,6 +16,8 @@ public bool IsTrivial { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSources.SmallFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSources. Mewakili tempat untuk kertas format lebih kecil
+title: "PaperSources.SmallFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSources. Mewakili baki untuk kertas format kecil"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.printing/papersources/smallformat/
 ---
 ## PaperSources.SmallFormat field
 
-Mewakili tempat untuk kertas format lebih kecil.
+Mewakili baki untuk kertas format kecil.
 
 ```csharp
 public static readonly PaperSource SmallFormat;
@@ -20,3 +20,5 @@ public static readonly PaperSource SmallFormat;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

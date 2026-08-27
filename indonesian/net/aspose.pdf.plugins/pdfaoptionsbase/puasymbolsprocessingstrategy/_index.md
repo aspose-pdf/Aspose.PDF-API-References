@@ -1,22 +1,22 @@
 ---
-title: PdfAOptionsBase.PuaSymbolsProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAOptionsBase. Mendapatkan atau mengatur strategi untuk memproses simbol Area Penggunaan Pribadi PUA dalam dokumen PDF
+title: "PdfAOptionsBase.PuaSymbolsProcessingStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfAOptionsBase. Mendapatkan atau mengatur strategi untuk memproses simbol Private Use Area (PUA) dalam dokumen PDF."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.plugins/pdfaoptionsbase/puasymbolsprocessingstrategy/
 ---
-## Properti PdfAOptionsBase.PuaSymbolsProcessingStrategy
+## PdfAOptionsBase.PuaSymbolsProcessingStrategy property
 
-Mendapatkan atau mengatur strategi untuk memproses simbol Area Penggunaan Pribadi (PUA) dalam dokumen PDF.
+Mendapatkan atau mengatur strategi untuk memproses simbol Private Use Area (PUA) dalam dokumen PDF.
 
 ```csharp
 public PuaProcessingStrategy PuaSymbolsProcessingStrategy { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Strategi untuk memproses simbol PUA. Defaultnya adalah None untuk dokumen yang sesuai dengan Level B, dan SurroundPuaTextWithEmptyActualText untuk dokumen yang sesuai dengan Level A.
+Strategi untuk memproses simbol PUA. Defaultnya adalah None untuk dokumen konformitas Level B, dan **SurroundPuaTextWithEmptyActualText** untuk dokumen konformitas Level A.
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Strategi untuk memproses simbol PUA. Defaultnya adalah None untuk dokumen yang s
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Form.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Forms.FormFlattenSettings. Kelas yang menggambarkan pengaturan untuk prosedur pemadatan Form
+title: "Kelas Form.FlattenSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Forms.FormFlattenSettings kelas. Kelas yang menjelaskan pengaturan untuk prosedur pelurusan Form."
 type: docs
-weight: 5080
+weight: 5200
 url: /id/net/aspose.pdf.forms/form.flattensettings/
 ---
-## Kelas Form.FlattenSettings
+## Form.FlattenSettings class
 
-Kelas yang menggambarkan pengaturan untuk prosedur pemadatan Form.
+Kelas yang menjelaskan pengaturan untuk prosedur pelurusan Formulir.
 
 ```csharp
 public class FlattenSettings
@@ -24,13 +24,15 @@ public class FlattenSettings
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions) { get; set; } | Jika true, redaksi yang ditentukan akan diterapkan |
-| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents) { get; set; } | Jika diatur, pemformatan dan acara JavaScript lainnya akan dipanggil. True secara default. |
-| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons) { get; set; } | Jika diatur, tombol akan dihapus dari dokumen yang dipadatkan. False secara default. |
-| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances) { get; set; } | Jika diatur, semua penampilan field akan dihasilkan kembali sebelum pemadatan. Opsi ini mungkin membantu jika field dipadatkan dengan tidak benar. Opsi ini mungkin mengurangi kinerja. Secara default diatur ke false. |
+| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions) { get; set; } | Jika true, anotasi Redaction yang ditentukan akan diterapkan |
+| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents) { get; set; } | Jika diatur, pemformatan dan peristiwa JavaScript lainnya akan dipanggil. True secara default. |
+| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons) { get; set; } | Jika diatur, tombol akan dihapus dari dokumen yang diratakan. False secara default. |
+| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances) { get; set; } | Jika diatur, semua tampilan bidang akan dibuat ulang sebelum perataan. Opsi ini dapat membantu jika bidang diratakan secara tidak benar. Opsi ini dapat menurunkan kinerja. Secara default diatur ke false. |
 
 ### Lihat Juga
 
-* kelas [Form](../form/)
+* class [Form](../form/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

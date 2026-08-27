@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfXmpMetadata. Mendapatkan objek enumerator dari kamus
+title: "PdfXmpMetadata.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfXmpMetadata. Mendapatkan objek enumerator dari kamus"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/getenumerator/
 ---
-## Metode PdfXmpMetadata.GetEnumerator
+## PdfXmpMetadata.GetEnumerator method
 
 Mendapatkan objek enumerator dari kamus.
 
@@ -14,13 +14,15 @@ Mendapatkan objek enumerator dari kamus.
 public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek enumerator.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../../aspose.pdf/xmpvalue/)
-* kelas [PdfXmpMetadata](../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

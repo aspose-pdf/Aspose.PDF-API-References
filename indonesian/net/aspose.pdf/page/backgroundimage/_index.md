@@ -1,14 +1,14 @@
 ---
-title: Page.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan atau mengatur gambar latar untuk halaman hanya untuk generator, tidak diisi saat membaca dokumen
+title: "Page.BackgroundImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur gambar latar belakang untuk halaman hanya untuk generator, tidak diisi saat membaca dokumen."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/page/backgroundimage/
 ---
-## Properti Page.BackgroundImage
+## Page.BackgroundImage property
 
-Mendapatkan atau mengatur gambar latar untuk halaman (hanya untuk generator, tidak diisi saat membaca dokumen).
+Mendapatkan atau mengatur gambar latar belakang untuk halaman (hanya untuk generator, tidak diisi saat membaca dokumen).
 
 ```csharp
 public Image BackgroundImage { get; set; }
@@ -16,7 +16,9 @@ public Image BackgroundImage { get; set; }
 
 ### Lihat Juga
 
-* kelas [Gambar](../../image/)
-* kelas [Halaman](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Image](../../image/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

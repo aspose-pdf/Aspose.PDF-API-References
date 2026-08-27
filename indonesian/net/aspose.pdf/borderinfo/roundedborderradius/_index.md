@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.RoundedBorderRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BorderInfo. Mendapatkan atau mengatur radius batas yang membulat
+title: "BorderInfo.RoundedBorderRadius"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BorderInfo. Mendapatkan atau mengatur radius border melengkung"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/borderinfo/roundedborderradius/
 ---
-## Properti BorderInfo.RoundedBorderRadius
+## BorderInfo.RoundedBorderRadius property
 
-Mendapatkan atau mengatur radius batas yang membulat
+Mendapatkan atau mengatur radius batas melengkung
 
 ```csharp
 public double RoundedBorderRadius { get; set; }
@@ -16,6 +16,8 @@ public double RoundedBorderRadius { get; set; }
 
 ### Lihat Juga
 
-* kelas [BorderInfo](../)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

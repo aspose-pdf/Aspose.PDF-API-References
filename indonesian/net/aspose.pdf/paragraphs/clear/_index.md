@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Paragraphs. Hapus paragraf
+title: "Paragraphs.Clear"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Paragraphs. Menghapus semua paragraf"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/paragraphs/clear/
 ---
-## Metode Paragraphs.Clear
+## Paragraphs.Clear method
 
-Hapus paragraf.
+Bersihkan paragraf.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Lihat Juga
 
-* kelas [Paragraphs](../)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

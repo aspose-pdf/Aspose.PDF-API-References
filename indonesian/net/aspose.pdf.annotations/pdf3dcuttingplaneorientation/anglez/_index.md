@@ -1,12 +1,12 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleZ
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCuttingPlaneOrientation. Mendapatkan atau mengatur sudut ke sumbu Z
+title: "PDF3DCuttingPlaneOrientation.AngleZ"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DCuttingPlaneOrientation properti. Mendapatkan atau mengatur sudut ke sumbu Z"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/
 ---
-## Properti PDF3DCuttingPlaneOrientation.AngleZ
+## PDF3DCuttingPlaneOrientation.AngleZ property
 
 Mendapatkan atau mengatur sudut ke sumbu Z.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur sudut ke sumbu Z.
 public double? AngleZ { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Sudut ke sumbu Z.
 
 ### Lihat Juga
 
-* kelas [PDF3DCuttingPlaneOrientation](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

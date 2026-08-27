@@ -1,7 +1,7 @@
 ---
-title: Form.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Form. Konstruktor Form tanpa parameter
+title: "Form.Form"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Form. Konstruktor Form tanpa parameter"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/form/form/
@@ -21,7 +21,7 @@ public Form()
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -47,7 +47,7 @@ Form form = new Form("PdfForm.pdf");
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -55,7 +55,7 @@ Form form = new Form("PdfForm.pdf");
 
 ## Form(Stream) {#constructor_4}
 
-Konstruktor untuk form.
+Konstruktor untuk formulir.
 
 ```csharp
 public Form(Stream srcStream)
@@ -63,7 +63,7 @@ public Form(Stream srcStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| srcStream | Stream | aliran sumber. |
+| srcStream | Stream | stream sumber. |
 
 ## Contoh
 
@@ -73,7 +73,7 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -81,7 +81,7 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ## Form(Document) {#constructor_1}
 
-Menginisialisasi objek [`Form`](../) baru berdasarkan *dokumen*.
+Menginisialisasi objek [`Form`](../) baru berdasarkan *document*.
 
 ```csharp
 public Form(Document document)
@@ -93,7 +93,9 @@ public Form(Document document)
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Form](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi lampiran file
+title: "PdfContentEditor.CreateFileAttachment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor method. Membuat anotasi lampiran file"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
@@ -15,13 +15,13 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
     string name)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| contents | String | Isi dari anotasi. |
-| filePath | String | Jalur file yang akan dilampirkan. |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| name | String | Nama ikon yang akan digunakan untuk menampilkan anotasi. Nilai ini dapat berupa: "Graph", "PushPin", "Paperclip", "Tag". |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| isi | String | Isi anotasi. |
+| filePath | String | Jalur file akan dilampirkan. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| nama | String | Nama ikon akan digunakan saat menampilkan anotasi. Nilai ini dapat berupa: "Graph", "PushPin", "Paperclip", "Tag". |
 
 ## Contoh
 
@@ -50,14 +50,14 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
     string name, double opacity)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| contents | String | Isi dari anotasi. |
-| filePath | String | Jalur file yang akan dilampirkan. |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| name | String | Nama ikon yang akan digunakan untuk menampilkan anotasi. Nilai ini dapat berupa: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Opasitas ikon dari 0 hingga 1: 0 - sepenuhnya transparan, 1 - sepenuhnya tidak transparan. |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| isi | String | Isi anotasi. |
+| filePath | String | Jalur file akan dilampirkan. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| nama | String | Nama ikon akan digunakan saat menampilkan anotasi. Nilai ini dapat berupa: "Graph", "PushPin", "Paperclip", "Tag". |
+| opasitas | Double | Opasitas ikon dari 0 hingga 1: 0 - sepenuhnya transparan, 1 - sepenuhnya opak. |
 
 ## Contoh
 
@@ -86,14 +86,14 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
     string attachmentName, int page, string name)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| contents | String | Isi dari anotasi. |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| isi | String | Isi anotasi. |
 | attachmentStream | Stream | Aliran file lampiran. |
 | attachmentName | String | Nama lampiran. |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| name | String | Nama ikon yang akan digunakan untuk menampilkan anotasi. Nilai ini dapat berupa: "Graph", "PushPin", "Paperclip", "Tag". |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| nama | String | Nama ikon akan digunakan saat menampilkan anotasi. Nilai ini dapat berupa: "Graph", "PushPin", "Paperclip", "Tag". |
 
 ## Contoh
 
@@ -125,15 +125,15 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
     string attachmentName, int page, string name, double opacity)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| contents | String | Isi dari anotasi. |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| isi | String | Isi anotasi. |
 | attachmentStream | Stream | Aliran file lampiran. |
 | attachmentName | String | Nama lampiran. |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| name | String | Nama ikon yang akan digunakan untuk menampilkan anotasi. Nilai ini dapat berupa: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Opasitas ikon dari 0 hingga 1: 0 - sepenuhnya transparan, 1 - sepenuhnya tidak transparan. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| nama | String | Nama ikon akan digunakan saat menampilkan anotasi. Nilai ini dapat berupa: "Graph", "PushPin", "Paperclip", "Tag". |
+| opasitas | Double | Opasitas ikon dari 0 hingga 1: 0 - sepenuhnya transparan, 1 - sepenuhnya opak. |
 
 ## Contoh
 
@@ -153,3 +153,5 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

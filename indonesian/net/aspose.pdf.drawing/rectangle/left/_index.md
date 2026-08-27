@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Mendapatkan atau mengatur nilai float yang menunjukkan posisi kiri dari persegi panjang
+title: "Rectangle.Left"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur nilai float yang menunjukkan posisi kiri dari rectangle"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.drawing/rectangle/left/
 ---
-## Properti Rectangle.Kiri
+## Rectangle.Left property
 
-Mendapatkan atau mengatur nilai float yang menunjukkan posisi kiri dari persegi panjang.
+Mendapatkan atau mengatur nilai float yang menunjukkan posisi kiri persegi panjang.
 
 ```csharp
 public double Left { get; set; }
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

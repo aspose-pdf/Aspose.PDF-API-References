@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlLoadOptions. Jalur/url dasar untuk file html
+title: "HtmlLoadOptions.BasePath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlLoadOptions property. Jalur dasar/url untuk file html"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/htmlloadoptions/basepath/
 ---
-## Properti HtmlLoadOptions.BasePath
+## HtmlLoadOptions.BasePath property
 
-Jalur/url dasar untuk file html.
+Jalur/URL dasar untuk file html.
 
 ```csharp
 public string BasePath { get; }
@@ -16,6 +16,8 @@ public string BasePath { get; }
 
 ### Lihat Juga
 
-* kelas [HtmlLoadOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

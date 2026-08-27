@@ -1,12 +1,12 @@
 ---
-title: Graph.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Graph. Mendapatkan atau mengatur koordinat atas tabel
+title: "Graph.Top"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Graph. Mendapatkan atau mengatur koordinat atas tabel"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.drawing/graph/top/
 ---
-## Properti Graph.Top
+## Graph.Top property
 
 Mendapatkan atau mengatur koordinat atas tabel.
 
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### Lihat Juga
 
-* kelas [Graph](../)
-* ruang nama [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

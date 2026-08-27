@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut warna Pemilik atribut Layout
+title: "AttributeKey.Color"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. Color atribut Layout atribut pemilik"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.logicalstructure/attributekey/color/
 ---
-## Bidang AttributeKey.Color
+## AttributeKey.Color field
 
-Atribut warna (Pemilik atribut Layout).
+Atribut Color (pemilik atribut Layout).
 
 ```csharp
 public static readonly AttributeKey Color;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Color;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

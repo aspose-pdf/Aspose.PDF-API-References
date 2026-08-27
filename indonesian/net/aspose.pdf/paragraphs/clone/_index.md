@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Paragraphs. Mengkloning objek Clone baru
+title: "Paragraphs.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Paragraphs. Mengkloning objek Clone baru"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/paragraphs/clone/
 ---
-## Metode Paragraphs.Clone
+## Paragraphs.Clone method
 
 Mengkloning objek `Clone` baru.
 
@@ -14,12 +14,14 @@ Mengkloning objek `Clone` baru.
 public object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek `Clone` baru.
 
 ### Lihat Juga
 
-* kelas [Paragraphs](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ColorBarAnnotation.ColorOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ColorBarAnnotation. Mendapatkan atau mengatur warna salah satu cyan magenta kuning hitam untuk mana anotasi digambar
+title: "ColorBarAnnotation.ColorOfCMYK"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ColorBarAnnotation. Mendapatkan atau mengatur warna (satu dari cyan, magenta, kuning, hitam) yang digunakan untuk menggambar anotasi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/colorbarannotation/colorofcmyk/
 ---
-## Properti ColorBarAnnotation.ColorOfCMYK
+## ColorBarAnnotation.ColorOfCMYK property
 
-Mendapatkan atau mengatur warna (salah satu dari cyan, magenta, kuning, hitam) untuk mana anotasi digambar.
+Mendapatkan atau mengatur warna (salah satu cyan, magenta, yellow, black) untuk anotasi yang digambar.
 
 ```csharp
 public ColorsOfCMYK ColorOfCMYK { get; set; }
@@ -20,3 +20,5 @@ public ColorsOfCMYK ColorOfCMYK { get; set; }
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

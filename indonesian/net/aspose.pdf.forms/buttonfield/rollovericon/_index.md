@@ -1,14 +1,14 @@
 ---
-title: ButtonField.RolloverIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ButtonField. Mengambil atau mengatur ikon rollover dari tombol yang akan ditampilkan ketika pengguna menggerakkan kursor ke area aktifnya tanpa menekan tombol mouse
+title: "ButtonField.RolloverIcon"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ButtonField. Mendapatkan atau mengatur ikon rollover tombol yang akan ditampilkan ketika pengguna menggerakkan kursor ke area aktifnya tanpa menekan tombol mouse."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.forms/buttonfield/rollovericon/
 ---
-## Properti ButtonField.RolloverIcon
+## ButtonField.RolloverIcon property
 
-Mengambil atau mengatur ikon rollover dari tombol yang akan ditampilkan ketika pengguna menggerakkan kursor ke area aktifnya tanpa menekan tombol mouse.
+Mendapatkan atau mengatur ikon rollover tombol yang akan ditampilkan ketika pengguna menggerakkan kursor ke area aktifnya tanpa menekan tombol mouse.
 
 ```csharp
 public XForm RolloverIcon { get; set; }
@@ -16,7 +16,9 @@ public XForm RolloverIcon { get; set; }
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [ButtonField](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

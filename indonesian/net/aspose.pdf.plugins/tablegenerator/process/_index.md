@@ -1,12 +1,12 @@
 ---
-title: TableGenerator.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableGenerator. Memulai pemrosesan PdfGenerator dengan parameter yang ditentukan
+title: "TableGenerator.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableGenerator. Memulai pemrosesan PdfGenerator dengan parameter yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/tablegenerator/process/
 ---
-## Metode TableGenerator.Process
+## TableGenerator.Process method
 
 Memulai pemrosesan PdfGenerator dengan parameter yang ditentukan.
 
@@ -16,11 +16,11 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| options | IPluginOptions | Objek opsi yang berisi instruksi untuk PdfGenerator. |
+| options | IPluginOptions | Sebuah objek opsi berisi instruksi untuk PdfGenerator. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek ResultContainer yang berisi hasil dari operasi.
+Sebuah objek ResultContainer berisi hasil dari operasi tersebut.
 
 ### Pengecualian
 
@@ -30,8 +30,10 @@ Objek ResultContainer yang berisi hasil dari operasi.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [TableGenerator](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [TableGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

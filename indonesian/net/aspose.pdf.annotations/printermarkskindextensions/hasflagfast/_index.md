@@ -1,14 +1,14 @@
 ---
-title: PrinterMarksKindExtensions.HasFlagFast
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PrinterMarksKindExtensions. Menentukan apakah nilai saat ini mencakup sebuah flag yang ditentukan
+title: "PrinterMarksKindExtensions.HasFlagFast"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PrinterMarksKindExtensions. Menentukan apakah nilai saat ini mencakup flag yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
 ---
-## Metode PrinterMarksKindExtensions.HasFlagFast
+## PrinterMarksKindExtensions.HasFlagFast method
 
-Menentukan apakah nilai saat ini mencakup sebuah flag yang ditentukan.
+Menentukan apakah nilai saat ini mencakup flag yang ditentukan.
 
 ```csharp
 public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind flag)
@@ -19,7 +19,7 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 | value | PrinterMarksKind | Nilai saat ini dari enumerasi [`PrinterMarksKind`](../../printermarkskind/). |
 | flag | PrinterMarksKind | Flag yang akan diperiksa. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 `true` jika flag termasuk dalam nilai saat ini; jika tidak, `false`.
 
@@ -29,3 +29,5 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 * class [PrinterMarksKindExtensions](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

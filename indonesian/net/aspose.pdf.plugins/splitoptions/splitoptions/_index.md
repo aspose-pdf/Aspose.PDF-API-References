@@ -1,12 +1,12 @@
 ---
-title: SplitOptions.SplitOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SplitOptions. Konstruktor default
+title: "SplitOptions.SplitOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SplitOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/splitoptions/splitoptions/
 ---
-## Konstruktor SplitOptions
+## SplitOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public SplitOptions()
 
 ### Lihat Juga
 
-* kelas [SplitOptions](../)
+* class [SplitOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

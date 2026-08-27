@@ -1,14 +1,14 @@
 ---
-title: Enum SubmitFormFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SubmitFormFlag Aspose.Pdf.Facades. Enumerasi kemungkinan bendera pengiriman formulir
+title: "Enum SubmitFormFlag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.SubmitFormFlag enum. Enumerasi flag submit form yang mungkin"
 type: docs
-weight: 4750
+weight: 4870
 url: /id/net/aspose.pdf.facades/submitformflag/
 ---
-## Enumerasi SubmitFormFlag
+## SubmitFormFlag enumeration
 
-Enumerasi kemungkinan bendera pengiriman formulir.
+Enumerasi flag formulir submit yang mungkin.
 
 ```csharp
 [Flags]
@@ -24,9 +24,11 @@ public enum SubmitFormFlag
 | Xfdf | `2` | Data akan dikembalikan dalam format XFDF. |
 | FdfWithComments | `3` | Data akan dikembalikan dalam format FDF dengan komentar. |
 | XfdfWithComments | `4` | Data akan dikembalikan dalam format XFDF dengan komentar. |
-| Pdf | `5` | Seluruh file PDF akan dikirim. |
+| Pdf | `5` | Seluruh file PDF akan dikirimkan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

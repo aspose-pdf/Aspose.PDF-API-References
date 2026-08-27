@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.ExtractionAreaBound
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SvgExtractionOptions. Mendapatkan dan mengatur persegi panjang batas yang mendefinisikan area ekstraksi untuk ekstraksi SVG
+title: "SvgExtractionOptions.ExtractionAreaBound"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SvgExtractionOptions. Mendapatkan dan mengatur persegi panjang pembatas yang mendefinisikan area ekstraksi untuk ekstraksi SVG"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.vector/svgextractionoptions/extractionareabound/
 ---
-## Properti SvgExtractionOptions.ExtractionAreaBound
+## SvgExtractionOptions.ExtractionAreaBound property
 
-Mendapatkan dan mengatur persegi panjang batas yang mendefinisikan area ekstraksi untuk ekstraksi SVG.
+Mendapatkan dan mengatur persegi panjang pembatas yang mendefinisikan area ekstraksi untuk ekstraksi SVG.
 
 ```csharp
 public Rectangle ExtractionAreaBound { get; set; }
@@ -16,7 +16,9 @@ public Rectangle ExtractionAreaBound { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [SvgExtractionOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

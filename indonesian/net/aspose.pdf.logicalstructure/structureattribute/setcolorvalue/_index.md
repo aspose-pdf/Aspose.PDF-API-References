@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.SetColorValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mengatur Warna Nilai
+title: "StructureAttribute.SetColorValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureAttribute metode. Mengatur Nilai Warna"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/
 ---
-## Metode StructureAttribute.SetColorValue
+## StructureAttribute.SetColorValue method
 
 Mengatur Warna Nilai.
 
@@ -16,11 +16,13 @@ public void SetColorValue(Color color)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| color | Color | Warna. |
+| color | Color | Color. |
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [StructureAttribute](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

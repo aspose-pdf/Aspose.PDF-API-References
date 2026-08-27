@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Placement
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut penempatan Pemilik atribut tata letak
+title: "AttributeKey.Placement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field AttributeKey. Atribut Placement pemilik atribut Layout"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.logicalstructure/attributekey/placement/
 ---
-## Bidang AttributeKey.Placement
+## AttributeKey.Placement field
 
-Atribut penempatan (Pemilik atribut tata letak).
+Atribut Placement (pemilik atribut Layout).
 
 ```csharp
 public static readonly AttributeKey Placement;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Placement;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

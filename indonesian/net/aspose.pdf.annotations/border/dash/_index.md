@@ -1,14 +1,14 @@
 ---
-title: Border.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Border. Mengambil atau mengatur pola garis putus-putus
+title: "Border.Dash"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Border. Mendapatkan atau mengatur pola dash"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/border/dash/
 ---
-## Properti Border.Dash
+## Border.Dash property
 
-Mengambil atau mengatur pola garis putus-putus.
+Mendapatkan atau mengatur pola dash.
 
 ```csharp
 public Dash Dash { get; set; }
@@ -16,7 +16,9 @@ public Dash Dash { get; set; }
 
 ### Lihat Juga
 
-* kelas [Dash](../../dash/)
-* kelas [Border](../)
+* class [Dash](../../dash/)
+* class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

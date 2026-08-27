@@ -1,14 +1,14 @@
 ---
-title: Form.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mendapatkan daftar nama field pada form
+title: "Form.FieldNames"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Mendapatkan daftar nama bidang pada formulir."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/form/fieldnames/
 ---
-## Properti Form.FieldNames
+## Form.FieldNames property
 
-Mendapatkan daftar nama field pada form.
+Mendapatkan daftar nama bidang pada formulir.
 
 ```csharp
 public string[] FieldNames { get; }
@@ -27,6 +27,8 @@ foreach(string field in fields)
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MarkdownSaveOptions.EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkdownSaveOptions. Mendapatkan atau mengatur gaya penekanan untuk dokumen yang dihasilkan
+title: "MarkdownSaveOptions.EmphasisStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkdownSaveOptions. Mendapatkan atau mengatur gaya penekanan untuk dokumen yang dihasilkan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/markdownsaveoptions/emphasisstyle/
 ---
-## Properti MarkdownSaveOptions.EmphasisStyle
+## MarkdownSaveOptions.EmphasisStyle property
 
 Mendapatkan atau mengatur gaya penekanan untuk dokumen yang dihasilkan.
 
@@ -20,3 +20,5 @@ public EmphasisStyle EmphasisStyle { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

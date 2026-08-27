@@ -1,12 +1,12 @@
 ---
-title: FileDataSource.FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FileDataSource. Menginisialisasi sumber data file baru dengan jalur yang ditentukan
+title: "FileDataSource.FileDataSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FileDataSource. Menginisialisasi sumber data file baru dengan jalur yang ditentukan."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/filedatasource/filedatasource/
 ---
-## Konstruktor FileDataSource
+## FileDataSource constructor
 
 Menginisialisasi sumber data file baru dengan jalur yang ditentukan.
 
@@ -16,10 +16,12 @@ public FileDataSource(string path)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| path | String | Sebuah string yang mewakili jalur ke file sumber. |
+| jalur | String | String yang mewakili jalur ke file sumber. |
 
 ### Lihat Juga
 
-* kelas [FileDataSource](../)
+* class [FileDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

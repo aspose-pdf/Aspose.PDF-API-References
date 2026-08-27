@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OutputIntents. Menambahkan sebuah output intent ke koleksi
+title: "OutputIntents.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OutputIntents. Menambahkan output intent ke koleksi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/outputintents/add/
 ---
-## Metode OutputIntents.Add
+## OutputIntents.Add method
 
-Menambahkan sebuah output intent ke koleksi.
+Menambahkan output intent ke koleksi.
 
 ```csharp
 public void Add(OutputIntent item)
@@ -22,12 +22,14 @@ public void Add(OutputIntent item)
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *item* adalah null. |
+| ArgumentNullException | Item *item* adalah null. |
 | InvalidOperationException | Dokumen yang berisi koleksi tidak memiliki katalog untuk mengakses OutputIntents. |
 
 ### Lihat Juga
 
-* kelas [OutputIntent](../../outputintent/)
-* kelas [OutputIntents](../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

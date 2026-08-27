@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfXmpMetadata. Mencoba untuk menemukan kunci dalam kamus dan mengambil nilai jika ditemukan
+title: "PdfXmpMetadata.TryGetValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfXmpMetadata. Mencoba menemukan kunci dalam kamus dan mengambil nilai jika ditemukan"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/trygetvalue/
 ---
-## Metode PdfXmpMetadata.TryGetValue
+## PdfXmpMetadata.TryGetValue method
 
-Mencoba untuk menemukan kunci dalam kamus dan mengambil nilai jika ditemukan.
+Mencoba menemukan kunci dalam kamus dan mengambil nilai jika ditemukan.
 
 ```csharp
 public bool TryGetValue(string key, out XmpValue value)
@@ -16,16 +16,18 @@ public bool TryGetValue(string key, out XmpValue value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| kunci | String | Kunci untuk mencari dalam kamus. |
+| kunci | String | Kunci untuk dicari dalam kamus. |
 | nilai | XmpValue& | Nilai yang diambil. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika kunci ditemukan.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../../aspose.pdf/xmpvalue/)
-* kelas [PdfXmpMetadata](../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Heading.IsInList
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Heading. Mendapatkan heading yang seharusnya ada dalam daftar toc
+title: "Heading.IsInList"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Heading. Mendapatkan apakah heading harus berada dalam daftar toc"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/heading/isinlist/
 ---
-## Properti Heading.IsInList
+## Heading.IsInList property
 
-Mendapatkan heading yang seharusnya ada dalam daftar toc.
+Mendapatkan apakah heading harus berada dalam daftar toc.
 
 ```csharp
 public bool IsInList { get; set; }
@@ -16,6 +16,8 @@ public bool IsInList { get; set; }
 
 ### Lihat Juga
 
-* kelas [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

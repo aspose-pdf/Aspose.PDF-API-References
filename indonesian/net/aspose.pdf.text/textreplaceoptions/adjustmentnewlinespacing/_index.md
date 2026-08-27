@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.AdjustmentNewLineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextReplaceOptions. Mendapatkan atau mengatur nilai spasi baris yang digunakan jika penyesuaian penggantian dipaksa untuk membuat baris teks baru. Nilai yang diharapkan adalah pengali ukuran font dari teks yang diganti. Default adalah 1.2
+title: "TextReplaceOptions.AdjustmentNewLineSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextReplaceOptions. Mendapatkan atau mengatur nilai spasi baris yang digunakan jika penyesuaian penggantian dipaksa untuk membuat baris teks baru. Nilai yang diharapkan adalah pengali ukuran font dari teks yang diganti. Defaultnya adalah 1.2"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing/
 ---
-## Properti TextReplaceOptions.AdjustmentNewLineSpacing
+## TextReplaceOptions.AdjustmentNewLineSpacing property
 
-Mendapatkan atau mengatur nilai spasi baris yang digunakan jika penyesuaian penggantian dipaksa untuk membuat baris teks baru. Nilai yang diharapkan adalah pengali ukuran font dari teks yang diganti. Default adalah 1.2.
+Mendapatkan atau mengatur nilai spasi baris yang digunakan jika penyesuaian penggantian dipaksa membuat baris teks baru. Nilai yang diharapkan adalah pengganda ukuran font teks yang diganti. Default adalah 1,2.
 
 ```csharp
 public double AdjustmentNewLineSpacing { get; set; }
@@ -16,6 +16,8 @@ public double AdjustmentNewLineSpacing { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextReplaceOptions](../)
+* class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

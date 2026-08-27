@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menghapus beberapa stempel di halaman yang ditentukan berdasarkan indeks stempel
+title: "PdfContentEditor.DeleteStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Menghapus beberapa stempel pada halaman yang ditentukan berdasarkan indeks stempel"
 type: docs
 weight: 330
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
-## Metode PdfContentEditor.DeleteStamp
+## PdfContentEditor.DeleteStamp method
 
-Menghapus beberapa stempel di halaman yang ditentukan berdasarkan indeks stempel.
+Menghapus beberapa stempel pada halaman yang ditentukan berdasarkan indeks stempel.
 
 ```csharp
 public void DeleteStamp(int pageNumber, int[] index)
@@ -30,6 +30,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Id
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Id. Mewakili struktur pengidentifikasi file
+title: "Kelas Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Id. Mewakili struktur pengidentifikasi file"
 type: docs
-weight: 5850
+weight: 5980
 url: /id/net/aspose.pdf/id/
 ---
-## Kelas Id
+## Id class
 
 Mewakili struktur pengidentifikasi file.
 
@@ -18,8 +18,8 @@ public class Id
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dimodifikasi](../../aspose.pdf/id/modified/) { get; } | Mengubah pengidentifikasi berdasarkan konten dokumen pada saat terakhir diperbarui. |
-| [Asli](../../aspose.pdf/id/original/) { get; } | Pengidentifikasi permanen berdasarkan konten dokumen pada saat pertama kali dibuat. |
+| [Modified](../../aspose.pdf/id/modified/) { get; } | Mengubah pengidentifikasi berdasarkan isi dokumen pada saat terakhir diperbarui. |
+| [Original](../../aspose.pdf/id/original/) { get; } | Pengidentifikasi permanen berdasarkan isi dokumen pada saat dokumen tersebut pertama kali dibuat. |
 
 ## Contoh
 
@@ -33,3 +33,5 @@ string modified = doc.Id.Modified;
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

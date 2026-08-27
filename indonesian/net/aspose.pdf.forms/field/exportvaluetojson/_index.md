@@ -1,14 +1,14 @@
 ---
-title: Field.ExportValueToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Field. Mengekspor konten dari field yang ditentukan ke dalam aliran JSON. Nilai field tombol tidak diekspor
+title: "Field.ExportValueToJson"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Field. Mengekspor konten bidang yang ditentukan ke aliran JSON. Nilai bidang tombol tidak diekspor."
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.forms/field/exportvaluetojson/
 ---
-## Metode Field.ExportValueToJson
+## Field.ExportValueToJson method
 
-Mengekspor konten dari field yang ditentukan ke dalam aliran JSON. Nilai field tombol tidak diekspor.
+Mengekspor konten bidang yang ditentukan ke aliran JSON. Nilai bidang tombol tidak diekspor.
 
 ```csharp
 public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
@@ -16,8 +16,8 @@ public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputJsonStream | Stream | Aliran JSON keluaran di mana data field akan ditulis. |
-| indented | Boolean | Opsional. Menentukan apakah keluaran JSON harus diindentas untuk keterbacaan yang lebih baik. Nilai default adalah true. |
+| outputJsonStream | Stream | Aliran JSON output tempat data bidang akan ditulis. |
+| diindent | Boolean | Opsional. Menentukan apakah output JSON harus diindent untuk meningkatkan keterbacaan. Nilai default adalah true. |
 
 ## Contoh
 
@@ -31,6 +31,8 @@ fs.Close();
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

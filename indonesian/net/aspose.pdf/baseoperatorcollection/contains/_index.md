@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BaseOperatorCollection. Memeriksa apakah operator ada dalam koleksi
+title: "BaseOperatorCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BaseOperatorCollection. Memeriksa apakah operator ada dalam koleksi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/baseoperatorcollection/contains/
 ---
-## Metode BaseOperatorCollection.Contains
+## BaseOperatorCollection.Contains method
 
 Memeriksa apakah operator ada dalam koleksi.
 
@@ -16,15 +16,17 @@ public abstract bool Contains(Operator item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | Operator | Item operator yang akan dicari. |
+| item | Operator | Item operator untuk dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika item ditemukan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [BaseOperatorCollection](../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

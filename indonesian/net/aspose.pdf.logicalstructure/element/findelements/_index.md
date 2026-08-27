@@ -1,14 +1,14 @@
 ---
-title: Element.FindElements
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Elemen. Temukan Elemen dari tipe tertentu
+title: "Element.FindElements"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Elemen. Temukan Elemen dengan tipe tertentu"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.logicalstructure/element/findelements/
 ---
-## Metode Element.FindElements&lt;T&gt;
+## Element.FindElements&lt;T&gt; method
 
-Temukan Elemen dari tipe tertentu
+Temukan Elements dengan tipe tertentu
 
 ```csharp
 public List<T> FindElements<T>(bool recursiveSearch = false)
@@ -17,15 +17,17 @@ public List<T> FindElements<T>(bool recursiveSearch = false)
 
 | Parameter | Deskripsi |
 | --- | --- |
-| T | Tipe Elemen Struktur untuk pencarian |
+| T | Tipe Struktur Elemen untuk pencarian |
 | recursiveSearch | (Opsional) Pencarian Rekursif (default false, hanya mencari dari anak langsung) |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Daftar Elemen yang ditemukan
 
 ### Lihat Juga
 
-* kelas [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

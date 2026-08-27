@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfViewer. Mencetak dokumen Pdf dengan pengaturan. Jika ukuran dokumen tidak sesuai dengan ukuran halaman, itu akan diperpanjang untuk sesuai dengan ukuran halaman
+title: "PdfViewer.PrintDocumentWithSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfViewer. Mencetak dokumen Pdf dengan pengaturan. Jika ukuran dokumen tidak sesuai dengan ukuran halaman, maka akan diperluas agar sesuai dengan ukuran halaman"
 type: docs
 weight: 330
 url: /id/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-Mencetak dokumen Pdf dengan pengaturan. Jika ukuran dokumen tidak sesuai dengan ukuran halaman, itu akan diperpanjang untuk sesuai dengan ukuran halaman.
+Mencetak dokumen Pdf dengan pengaturan. Jika ukuran dokumen tidak sesuai dengan ukuran halaman, akan diperluas agar sesuai dengan ukuran halaman.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
@@ -53,13 +53,13 @@ iewer.PrintDocumentWithSettings(pgs, ps)
 iewer.Close()
 ```
 
-objek printerSettings digunakan untuk mencetak dokumen. objek pageSettings.PrinterSettings diabaikan.
+Objek printerSettings digunakan untuk mencetak dokumen. Objek pageSettings.PrinterSettings diabaikan.
 
 ### Lihat Juga
 
-* kelas [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* kelas [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* kelas [PdfViewer](../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -67,7 +67,7 @@ objek printerSettings digunakan untuk mencetak dokumen. objek pageSettings.Print
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-Mencetak dokumen Pdf dengan pengaturan printer. Ukuran halaman keluaran akan sesuai dengan ukuran halaman pertama dokumen.
+Mencetak dokumen Pdf dengan pengaturan printer. Ukuran halaman output akan menyesuaikan ukuran halaman pertama dokumen.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
@@ -107,7 +107,9 @@ iewer.ClosePdfFile()
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* kelas [PdfViewer](../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

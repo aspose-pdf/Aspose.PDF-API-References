@@ -1,12 +1,12 @@
 ---
-title: Enum StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Facades.StampType. Menjelaskan jenis stempel
+title: "Enum StampType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.StampType enum. Menjelaskan tipe stempel"
 type: docs
-weight: 4740
+weight: 4860
 url: /id/net/aspose.pdf.facades/stamptype/
 ---
-## Enumerasi StampType
+## StampType enumeration
 
 Menjelaskan jenis stempel.
 
@@ -25,3 +25,5 @@ public enum StampType
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

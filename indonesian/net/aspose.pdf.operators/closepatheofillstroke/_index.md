@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathEOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.ClosePathEOFillStroke. Kelas yang mewakili operator b untuk menutup, mengisi, dan menggambar jalur menggunakan aturan genap-ganjil
+title: "Kelas ClosePathEOFillStroke"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.ClosePathEOFillStroke class. Kelas yang mewakili operator b untuk menutup, mengisi, dan menggores jalur menggunakan aturan evenodd."
 type: docs
-weight: 7200
+weight: 7340
 url: /id/net/aspose.pdf.operators/closepatheofillstroke/
 ---
-## Kelas ClosePathEOFillStroke
+## ClosePathEOFillStroke class
 
-Kelas yang mewakili operator b* (menutup, mengisi, dan menggambar jalur menggunakan aturan genap-ganjil).
+Kelas yang mewakili operator b* (close, fill, dan stroke path menggunakan aturan even-odd).
 
 ```csharp
 public class ClosePathEOFillStroke : Operator
@@ -30,12 +30,14 @@ public class ClosePathEOFillStroke : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

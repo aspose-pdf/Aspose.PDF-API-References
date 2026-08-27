@@ -1,14 +1,14 @@
 ---
-title: Enum TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.TabOrder. Urutan tab di halaman
+title: "Enum TabOrder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.TabOrder. Urutan tab pada Page."
 type: docs
-weight: 10270
+weight: 10450
 url: /id/net/aspose.pdf/taborder/
 ---
-## Enumerasi TabOrder
+## TabOrder enumeration
 
-Urutan tab di halaman
+Urutan tab pada halaman
 
 ```csharp
 public enum TabOrder
@@ -28,3 +28,5 @@ public enum TabOrder
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

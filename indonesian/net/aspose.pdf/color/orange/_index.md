@@ -1,25 +1,27 @@
 ---
-title: Color.Orange
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFFA500
+title: "Color.Orange"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Color properti. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFFFA500"
 type: docs
 weight: 1010
 url: /id/net/aspose.pdf/color/orange/
 ---
-## Properti Color.Orange
+## Color.Orange property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFA500.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFFA500.
 
 ```csharp
 public static Color Orange { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

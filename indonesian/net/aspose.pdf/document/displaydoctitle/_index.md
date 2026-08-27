@@ -1,14 +1,14 @@
 ---
-title: Document.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mengambil atau mengatur flag yang menentukan apakah bilah judul jendela dokumen harus menampilkan judul dokumen
+title: "Document.DisplayDocTitle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur flag yang menentukan apakah bilah judul jendela dokumen harus menampilkan judul dokumen."
 type: docs
-weight: 120
+weight: 130
 url: /id/net/aspose.pdf/document/displaydoctitle/
 ---
-## Properti Document.DisplayDocTitle
+## Document.DisplayDocTitle property
 
-Mengambil atau mengatur flag yang menentukan apakah bilah judul jendela dokumen harus menampilkan judul dokumen.
+Mendapatkan atau mengatur flag yang menentukan apakah bilah judul jendela dokumen harus menampilkan judul dokumen.
 
 ```csharp
 public bool DisplayDocTitle { get; set; }
@@ -25,6 +25,8 @@ bool value = document.DisplayDocTitle;
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

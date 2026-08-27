@@ -1,7 +1,7 @@
 ---
-title: OperatorSelector.OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor OperatorSelector. Menginisialisasi instance baru dari kelas Selector
+title: "OperatorSelector.OperatorSelector"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor OperatorSelector. Menginisialisasi instance baru dari kelas Selector"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/operatorselector/operatorselector/
@@ -16,7 +16,7 @@ public OperatorSelector()
 
 ### Lihat Juga
 
-* kelas [OperatorSelector](../)
+* class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public OperatorSelector()
 
 ## OperatorSelector(Operator) {#constructor_1}
 
-Menginisialisasi [`OperatorSelector`](../) baru.
+Menginisialisasi baru [`OperatorSelector`](../).
 
 ```csharp
 public OperatorSelector(Operator op)
@@ -36,7 +36,9 @@ public OperatorSelector(Operator op)
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorSelector](../)
+* class [Operator](../../operator/)
+* class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

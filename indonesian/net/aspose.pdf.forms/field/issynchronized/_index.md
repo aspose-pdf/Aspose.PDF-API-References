@@ -1,14 +1,14 @@
 ---
-title: Field.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Mengembalikan true jika kamus disinkronkan
+title: "Field.IsSynchronized"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Mengembalikan true jika kamus tersinkronisasi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.forms/field/issynchronized/
 ---
-## Properti Field.IsSynchronized
+## Field.IsSynchronized property
 
-Mengembalikan true jika kamus disinkronkan.
+Mengembalikan true jika dictionary disinkronkan.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

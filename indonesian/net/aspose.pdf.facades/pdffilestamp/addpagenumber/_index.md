@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.AddPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileStamp. Tambahkan nomor halaman ke file. Teks nomor halaman dapat mengandung tanda # yang akan diganti dengan nomor halaman. Nomor halaman ditempatkan di bagian bawah halaman yang terpusat secara horizontal
+title: "PdfFileStamp.AddPageNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileStamp. Menambahkan nomor halaman ke file. Teks nomor halaman dapat berisi tanda  yang akan diganti dengan nomor halaman. Nomor halaman ditempatkan di bagian bawah halaman dan dipusatkan secara horizontal."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/pdffilestamp/addpagenumber/
 ---
 ## AddPageNumber(string) {#addpagenumber_4}
 
-Tambahkan nomor halaman ke file. Teks nomor halaman dapat mengandung tanda # yang akan diganti dengan nomor halaman. Nomor halaman ditempatkan di bagian bawah halaman yang terpusat secara horizontal.
+Menambahkan nomor halaman ke file. Teks nomor halaman dapat berisi tanda # yang akan diganti dengan nomor halaman. Nomor halaman ditempatkan di bagian bawah halaman secara horizontal di tengah.
 
 ```csharp
 public void AddPageNumber(string formatString)
@@ -28,7 +28,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ fileStamp.Close();
 
 ## AddPageNumber(FormattedText) {#addpagenumber}
 
-Menambahkan nomor halaman ke halaman. Nomor halaman dapat mengandung tanda # yang akan diganti dengan nomor halaman. Nomor halaman ditempatkan di bagian bawah halaman yang terpusat secara horizontal.
+Menambahkan nomor halaman ke halaman. Nomor halaman dapat berisi tanda # yang akan diganti dengan nomor halaman. Nomor halaman ditempatkan di bagian bawah halaman secara horizontal di tengah.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText)
@@ -44,7 +44,7 @@ public void AddPageNumber(FormattedText formattedText)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formattedText | FormattedText | String format untuk nomor halaman yang direpresentasikan sebagai FormattedText. |
+| formattedText | FormattedText | String format untuk nomor halaman direpresentasikan sebagai FormattedText. |
 
 ## Contoh
 
@@ -56,8 +56,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,11 +75,11 @@ public void AddPageNumber(string formatString, int position, float leftMargin, f
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | formatString | String | String format untuk nomor halaman. |
-| position | Int32 | Posisi di mana nomor halaman akan ditempatkan di halaman. 0-tengah bawah, 1-kanan bawah, 2-kanan atas, 3 - sisi kanan, 4 - tengah atas, 5 - kiri bawah, 6 - sisi kiri, 7 - kiri atas. Anda dapat menggunakan konstanta berikut: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | Single | Margin di tepi kiri halaman. |
-| rightMargin | Single | Margin di tepi kanan halaman. |
-| topMargin | Single | Margin di tepi atas halaman. |
-| bottomMargin | Single | Margin di tepi bawah halaman. |
+| posisi | Int32 | Posisi di mana nomor halaman akan ditempatkan pada halaman. 0‑tengah bawah, 1‑kanan bawah, 2‑kanan atas, 3‑sisi kanan, 4‑tengah atas,5‑kiri bawah,6‑sisi kiri,7‑kiri atas. Anda dapat menggunakan konstanta berikut: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | Single | Margin pada tepi kiri halaman. |
+| rightMargin | Single | Margin pada tepi kanan halaman. |
+| topMargin | Single | Margin pada tepi atas halaman. |
+| bottomMargin | Single | Margin pada tepi bawah halaman. |
 
 ## Contoh
 
@@ -91,7 +91,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -99,7 +99,7 @@ fileStamp.Close();
 
 ## AddPageNumber(string, float, float) {#addpagenumber_7}
 
-Menambahkan nomor halaman di posisi yang ditentukan di halaman.
+Menambahkan nomor halaman pada posisi yang ditentukan di halaman.
 
 ```csharp
 public void AddPageNumber(string formatString, float x, float y)
@@ -107,9 +107,9 @@ public void AddPageNumber(string formatString, float x, float y)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formatString | String | String format. String format dapat mengandung tanda # yang akan diganti dengan nomor halaman. |
-| x | Single | Koordinat X dari nomor halaman. |
-| y | Single | Koordinat Y dari nomor halaman. |
+| formatString | String | String format. String format dapat berisi tanda # yang akan diganti dengan nomor halaman. |
+| x | Single | Koordinat X nomor halaman. |
+| y | Single | Koordinat Y nomor halaman. |
 
 ## Contoh
 
@@ -121,7 +121,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -139,11 +139,11 @@ public void AddPageNumber(FormattedText formattedText, int position, float leftM
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | formattedText | FormattedText | Objek FormattedText yang merepresentasikan format nomor halaman dan properti teks. |
-| position | Int32 | Posisi di mana nomor halaman akan ditempatkan di halaman. 0-tengah bawah, 1-kanan bawah, 2-kanan atas, 3 - sisi kanan, 4 - tengah atas, 5 - kiri bawah, 6 - sisi kiri, 7 - kiri atas. Anda dapat menggunakan konstanta berikut: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | Single | Margin di tepi kiri halaman. |
-| rightMargin | Single | Margin di tepi kanan halaman. |
-| topMargin | Single | Margin di tepi atas halaman. |
-| bottomMargin | Single | Margin di tepi bawah halaman. |
+| posisi | Int32 | Posisi di mana nomor halaman akan ditempatkan pada halaman. 0‑tengah bawah, 1‑kanan bawah, 2‑kanan atas, 3‑sisi kanan, 4‑tengah atas,5‑kiri bawah,6‑sisi kiri,7‑kiri atas. Anda dapat menggunakan konstanta berikut: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | Single | Margin pada tepi kiri halaman. |
+| rightMargin | Single | Margin pada tepi kanan halaman. |
+| topMargin | Single | Margin pada tepi atas halaman. |
+| bottomMargin | Single | Margin pada tepi bawah halaman. |
 
 ## Contoh
 
@@ -155,8 +155,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -164,7 +164,7 @@ fileStamp.Close();
 
 ## AddPageNumber(FormattedText, float, float) {#addpagenumber_3}
 
-Menambahkan nomor halaman di posisi yang ditentukan di halaman.
+Menambahkan nomor halaman pada posisi yang ditentukan di halaman.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText, float x, float y)
@@ -172,9 +172,9 @@ public void AddPageNumber(FormattedText formattedText, float x, float y)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formattedText | FormattedText | Teks terformat yang merepresentasikan format nomor halaman dan properti teks. String format dapat mengandung tanda # yang akan diganti dengan nomor halaman. |
-| x | Single | Koordinat X dari nomor halaman. |
-| y | Single | Koordinat Y dari nomor halaman. |
+| formattedText | FormattedText | Teks terformat yang mewakili format nomor halaman dan properti teks. String format dapat berisi tanda # yang akan digantikan dengan nomor halaman. |
+| x | Single | Koordinat X nomor halaman. |
+| y | Single | Koordinat Y nomor halaman. |
 
 ## Contoh
 
@@ -186,8 +186,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -203,8 +203,8 @@ public void AddPageNumber(string formatString, int position)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formatString | String | Format nomor halaman. Teks ini dapat mengandung # yang akan diganti dengan nomor halaman. |
-| position | Int32 | Posisi di mana nomor halaman akan ditempatkan di halaman. 0-tengah bawah, 1-kanan bawah, 2-kanan atas, 3 - sisi kanan, 4 - tengah atas, 5 - kiri bawah, 6 - sisi kiri, 7 - kiri atas. Anda dapat menggunakan konstanta berikut: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formatString | String | Format nomor halaman. Teks ini dapat berisi # yang akan digantikan dengan nomor halaman. |
+| posisi | Int32 | Posisi di mana nomor halaman akan ditempatkan pada halaman. 0‑tengah bawah, 1‑kanan bawah, 2‑kanan atas, 3‑sisi kanan, 4‑tengah atas,5‑kiri bawah,6‑sisi kiri,7‑kiri atas. Anda dapat menggunakan konstanta berikut: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
 ## Contoh
 
@@ -216,7 +216,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -232,8 +232,8 @@ public void AddPageNumber(FormattedText formattedText, int position)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formattedText | FormattedText | Objek FormattedText yang berisi format nomor halaman dan properti teks. Teks ini dapat mengandung # yang akan diganti dengan nomor halaman. |
-| position | Int32 | Posisi di mana nomor halaman akan ditempatkan di halaman. 0-tengah bawah, 1-kanan bawah, 2-kanan atas, 3 - sisi kanan, 4 - tengah atas, 5 - kiri bawah, 6 - sisi kiri, 7 - kiri atas. Anda dapat menggunakan konstanta berikut: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formattedText | FormattedText | Objek FormattedText yang berisi format nomor halaman dan properti teks. Teks ini dapat berisi # yang akan digantikan dengan nomor halaman. |
+| posisi | Int32 | Posisi di mana nomor halaman akan ditempatkan pada halaman. 0‑tengah bawah, 1‑kanan bawah, 2‑kanan atas, 3‑sisi kanan, 4‑tengah atas,5‑kiri bawah,6‑sisi kiri,7‑kiri atas. Anda dapat menggunakan konstanta berikut: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
 ## Contoh
 
@@ -245,7 +245,9 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

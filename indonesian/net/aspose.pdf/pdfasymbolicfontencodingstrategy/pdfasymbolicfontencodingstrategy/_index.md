@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfASymbolicFontEncodingStrategy. Konstruktor. Mengatur subtable default mac 10
+title: "PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfASymbolicFontEncodingStrategy. Konstruktor. Menetapkan subtabel default mac 10"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/
 ---
 ## PdfASymbolicFontEncodingStrategy() {#constructor}
 
-Konstruktor. Mengatur subtable default (mac 1,0)
+Konstruktor. Menetapkan sub‑tabel default (mac 1,0)
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy()
@@ -16,7 +16,7 @@ public PdfASymbolicFontEncodingStrategy()
 
 ### Lihat Juga
 
-* kelas [PdfASymbolicFontEncodingStrategy](../)
+* class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| priorityQueue | Queue`1 | antrian subtable encoding untuk diiterasi |
+| priorityQueue | Queue`1 | antrian subtabel enkoding untuk diiterasi |
 
 ### Lihat Juga
 
-* kelas [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
-* kelas [PdfASymbolicFontEncodingStrategy](../)
+* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
+* class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,11 +53,13 @@ public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingT
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | subtable encoding yang akan digunakan sebagai prioritas dibandingkan subtable mac(1,0) |
+| preferredEncodingTable | CMapEncodingTableType | subtabel enkoding yang akan digunakan dengan prioritas lebih tinggi daripada subtabel mac (1,0) |
 
 ### Lihat Juga
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* kelas [PdfASymbolicFontEncodingStrategy](../)
+* class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

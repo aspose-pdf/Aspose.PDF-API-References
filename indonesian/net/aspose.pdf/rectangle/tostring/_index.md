@@ -1,25 +1,27 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Mendapatkan representasi string dari rectangle
+title: "Rectangle.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Mendapatkan representasi string persegi panjang"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf/rectangle/tostring/
 ---
-## Metode Rectangle.ToString
+## Rectangle.ToString method
 
-Mendapatkan representasi string dari rectangle.
+Mendapatkan representasi string persegi panjang.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String memiliki format llx,lly,urx,ury.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

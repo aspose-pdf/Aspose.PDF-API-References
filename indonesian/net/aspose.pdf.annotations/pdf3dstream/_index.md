@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DStream class. Class PDF3DStream
+title: "Kelas PDF3DStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.PDF3DStream. Kelas PDF3DStream"
 type: docs
-weight: 2230
+weight: 2320
 url: /id/net/aspose.pdf.annotations/pdf3dstream/
 ---
-## Kelas PDF3DStream
+## PDF3DStream class
 
 Kelas PDF3DStream.
 
@@ -18,7 +18,7 @@ public class PDF3DStream
 
 | Nama | Deskripsi |
 | --- | --- |
-| [PDF3DStream](pdf3dstream/)(Dokumen, PDF3DArtwork) | Menginisialisasi instance baru dari kelas `PDF3DStream`. |
+| [PDF3DStream](pdf3dstream/)(Document, PDF3DArtwork) | Menginisialisasi instance baru dari kelas `PDF3DStream`. |
 
 ## Properti
 
@@ -30,3 +30,5 @@ public class PDF3DStream
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

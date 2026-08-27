@@ -1,14 +1,14 @@
 ---
-title: Artifact.ArtifactHorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Artifact. Penjajaran horizontal artefak. Jika posisi ditentukan secara eksplisit dalam properti Posisi, nilai ini diabaikan
+title: "Artifact.ArtifactHorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Artifact. Penyelarasan horizontal artifact. Jika posisi ditentukan secara eksplisit dalam properti Position, nilai ini diabaikan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/artifact/artifacthorizontalalignment/
 ---
-## Properti Artifact.ArtifactHorizontalAlignment
+## Artifact.ArtifactHorizontalAlignment property
 
-Penjajaran horizontal artefak. Jika posisi ditentukan secara eksplisit (dalam properti Posisi) nilai ini diabaikan.
+Perataan horizontal artefak. Jika posisi ditentukan secara eksplisit (pada properti Position) nilai ini diabaikan.
 
 ```csharp
 public HorizontalAlignment ArtifactHorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment ArtifactHorizontalAlignment { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

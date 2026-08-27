@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentAbsorber. Mendapatkan koleksi kejadian pencarian yang disajikan dengan objek TextFragment
+title: "TextFragmentAbsorber.TextFragments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentAbsorber. Mendapatkan koleksi kejadian pencarian yang disajikan dengan objek TextFragment."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.text/textfragmentabsorber/textfragments/
 ---
-## Properti TextFragmentAbsorber.TextFragments
+## TextFragmentAbsorber.TextFragments property
 
-Mendapatkan koleksi kejadian pencarian yang disajikan dengan objek [`TextFragment`](../../textfragment/) .
+Mendapatkan koleksi kejadian pencarian yang disajikan dengan objek [`TextFragment`](../../textfragment/).
 
 ```csharp
 public TextFragmentCollection TextFragments { get; set; }
@@ -16,34 +16,36 @@ public TextFragmentCollection TextFragments { get; set; }
 
 ## Contoh
 
-Contoh ini menunjukkan cara menemukan teks di halaman pertama dokumen PDF dan mengganti semua kejadian pencarian dengan teks baru.
+Contoh ini menunjukkan cara menemukan teks pada halaman pertama dokumen PDF dan mengganti semua kejadian pencarian dengan teks baru.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// Temukan font yang akan digunakan untuk mengubah font teks dokumen
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Change text of all search occurrences
+// Ubah teks pada semua hasil pencarian
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.Text = "hi world";
 }
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Lihat Juga
 
-* kelas [TextFragmentCollection](../../textfragmentcollection/)
-* kelas [TextFragmentAbsorber](../)
+* class [TextFragmentCollection](../../textfragmentcollection/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

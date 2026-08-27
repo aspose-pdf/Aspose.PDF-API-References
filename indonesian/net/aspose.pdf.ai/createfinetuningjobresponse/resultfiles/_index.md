@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobResponse.ResultFiles
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CreateFineTuningJobResponse. Mendapatkan atau mengatur daftar file hasil untuk pekerjaan fine-tuning
+title: "CreateFineTuningJobResponse.ResultFiles"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CreateFineTuningJobResponse. Mendapatkan atau mengatur daftar file hasil untuk pekerjaan penyetelan halus"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.ai/createfinetuningjobresponse/resultfiles/
 ---
-## Properti CreateFineTuningJobResponse.ResultFiles
+## CreateFineTuningJobResponse.ResultFiles property
 
 Mendapatkan atau mengatur daftar file hasil untuk pekerjaan fine-tuning.
 
@@ -16,6 +16,8 @@ public List<string> ResultFiles { get; set; }
 
 ### Lihat Juga
 
-* kelas [CreateFineTuningJobResponse](../)
+* class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

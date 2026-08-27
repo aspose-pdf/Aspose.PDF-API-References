@@ -1,14 +1,14 @@
 ---
-title: Page.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Menambahkan cap ke halaman. Cap bisa berupa gambar nomor halaman atau teks sederhana, misalnya, beberapa logo
+title: "Page.AddStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode Page. Menempatkan stempel ke halaman. Stempel dapat berupa gambar nomor halaman atau teks sederhana, misalnya logo."
 type: docs
 weight: 360
 url: /id/net/aspose.pdf/page/addstamp/
 ---
-## Metode Page.AddStamp
+## Page.AddStamp method
 
-Menambahkan cap ke halaman. Cap bisa berupa nomor halaman, gambar, atau teks sederhana, misalnya, beberapa logo.
+Menempatkan stempel ke halaman. Stempel dapat berupa nomor halaman, gambar, atau teks sederhana, misalnya logo.
 
 ```csharp
 public void AddStamp(Stamp stamp)
@@ -16,11 +16,13 @@ public void AddStamp(Stamp stamp)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stamp | Stamp | Cap yang akan ditambahkan ke halaman. Setiap cap memiliki koordinat dan properti yang sesuai dengan jenis cap, yaitu nilai gambar atau teks. |
+| stempel | Stempel | Stempel yang akan ditambahkan pada halaman. Setiap stempel memiliki koordinatnya dan properti yang sesuai terkait jenis stempel, yaitu nilai gambar atau teks. |
 
 ### Lihat Juga
 
-* kelas [Stamp](../../stamp/)
-* kelas [Page](../)
+* class [Stamp](../../stamp/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

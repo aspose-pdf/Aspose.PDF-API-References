@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Menyimpan lampiran ke dalam file
+title: "PdfExtractor.GetAttachment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Menyimpan lampiran ke dalam file"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/pdfextractor/getattachment/
 ---
 ## GetAttachment(string) {#getattachment_1}
 
-Menyimpan lampiran ke dalam file.
+Menyimpan lampiran ke file.
 
 ```csharp
 public void GetAttachment(string outputPath)
@@ -20,7 +20,7 @@ public void GetAttachment(string outputPath)
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,15 +28,15 @@ public void GetAttachment(string outputPath)
 
 ## GetAttachment() {#getattachment}
 
-Menyimpan semua file lampiran ke dalam stream.
+Menyimpan semua file lampiran ke aliran.
 
 ```csharp
 public MemoryStream[] GetAttachment()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Array stream dari file lampiran dalam dokumen pdf.
+Array aliran dari file lampiran dalam dokumen pdf.
 
 ## Contoh
 
@@ -92,6 +92,8 @@ for(Integer i = 0 i<tempStreams.Length i++)
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

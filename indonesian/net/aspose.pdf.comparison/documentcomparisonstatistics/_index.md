@@ -1,12 +1,12 @@
 ---
-title: Class DocumentComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Comparison.DocumentComparisonStatistics. Mewakili kelas statistik perbandingan dokumen
+title: "Kelas DocumentComparisonStatistics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Comparison.DocumentComparisonStatistics. Mewakili kelas statistik perbandingan dokumen"
 type: docs
-weight: 3170
+weight: 3280
 url: /id/net/aspose.pdf.comparison/documentcomparisonstatistics/
 ---
-## Kelas DocumentComparisonStatistics
+## DocumentComparisonStatistics class
 
 Mewakili kelas statistik perbandingan dokumen.
 
@@ -33,6 +33,8 @@ public class DocumentComparisonStatistics : TextItemComparisonStatistics
 
 ### Lihat Juga
 
-* kelas [TextItemComparisonStatistics](../textitemcomparisonstatistics/)
+* class [TextItemComparisonStatistics](../textitemcomparisonstatistics/)
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

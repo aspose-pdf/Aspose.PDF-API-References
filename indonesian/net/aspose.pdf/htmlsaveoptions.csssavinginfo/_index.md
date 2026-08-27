@@ -1,29 +1,31 @@
 ---
-title: Class HtmlSaveOptions.CssSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.HtmlSaveOptionsCssSavingInfo. Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan CSS kustom selama konversi PDF ke format HTML
+title: "Kelas HtmlSaveOptions.CssSavingInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.HtmlSaveOptionsCssSavingInfo. Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan khusus CSS selama konversi PDF ke format HTML"
 type: docs
-weight: 5580
+weight: 5710
 url: /id/net/aspose.pdf/htmlsaveoptions.csssavinginfo/
 ---
-## Kelas HtmlSaveOptions.CssSavingInfo
+## HtmlSaveOptions.CssSavingInfo class
 
-Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan CSS kustom selama konversi PDF ke format HTML
+Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan khusus CSS selama konversi PDF ke format HTML
 
 ```csharp
 public class CssSavingInfo
 ```
 
-## Field
+## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream) | Diatur oleh konverter. Mewakili konten biner dari CSS yang disimpan |
-| [CssNumber](../../aspose.pdf/htmlsaveoptions.csssavinginfo/cssnumber) | Diatur oleh konverter. Selama konversi beberapa file CSS dibuat. Properti ini menunjukkan urutan file CSS yang disimpan selama konversi. Ini dapat digunakan dalam logika kode kustom untuk memutuskan bagaimana memproses atau di mana menyimpan konten CSS |
-| [SupposedURL](../../aspose.pdf/htmlsaveoptions.csssavinginfo/supposedurl) | Diatur oleh konverter. Nama file yang diharapkan yang berasal dari konverter ke kode metode kustom. Dapat digunakan dalam kode kustom untuk memutuskan bagaimana memproses atau di mana menyimpan konten |
+| [ContentStream](../../aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream) | Diatur oleh konverter. Mewakili konten biner CSS yang disimpan |
+| [CssNumber](../../aspose.pdf/htmlsaveoptions.csssavinginfo/cssnumber) | Diatur oleh konverter. Selama konversi beberapa file CSS dibuat. Properti ini menunjukkan urutan file CSS yang disimpan selama konversi. Ini dapat digunakan dalam logika kode khusus untuk memutuskan bagaimana memproses atau dimana menyimpan konten CSS |
+| [SupposedURL](../../aspose.pdf/htmlsaveoptions.csssavinginfo/supposedurl) | Ditentukan oleh konverter. Nama file yang diharapkan yang dikirim dari konverter ke kode metode khusus. Dapat digunakan dalam kode khusus untuk memutuskan bagaimana memproses atau dimana menyimpan konten. |
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../htmlsaveoptions/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

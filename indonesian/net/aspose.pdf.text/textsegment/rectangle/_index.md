@@ -1,14 +1,14 @@
 ---
-title: TextSegment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextSegment. Mendapatkan persegi panjang dari TextSegment
+title: "TextSegment.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextSegment. Mendapatkan persegi panjang dari TextSegment"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/textsegment/rectangle/
 ---
-## Properti TextSegment.Rectangle
+## TextSegment.Rectangle property
 
-Mendapatkan persegi panjang dari TextSegment
+Mendapatkan persegi panjang dari TextSegment.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [TextSegment](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.HasField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Periksa apakah formulir sudah memiliki field yang ditentukan
+title: "Form.HasField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Memeriksa apakah formulir sudah memiliki bidang yang ditentukan"
 type: docs
-weight: 280
+weight: 300
 url: /id/net/aspose.pdf.forms/form/hasfield/
 ---
 ## HasField(Field) {#hasfield}
 
-Periksa apakah formulir sudah memiliki field yang ditentukan.
+Periksa apakah formulir sudah memiliki bidang yang ditentukan.
 
 ```csharp
 public bool HasField(Field field)
@@ -16,16 +16,16 @@ public bool HasField(Field field)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field | Field | Field yang akan diperiksa. |
+| bidang | Bidang | Field untuk diperiksa. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 `true` jika nama field yang ditentukan ditambahkan ke Form; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [Field](../../field/)
-* kelas [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ public bool HasField(Field field)
 
 ## HasField(string) {#hasfield_1}
 
-Menentukan apakah field dengan nama yang ditentukan sudah ditambahkan ke Form.
+Menentukan apakah bidang dengan nama yang ditentukan sudah ditambahkan ke Form.
 
 ```csharp
 public bool HasField(string fieldName)
@@ -43,13 +43,13 @@ public bool HasField(string fieldName)
 | --- | --- | --- |
 | fieldName | String | [`PartialName`](../../field/partialname/) atau [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) dari field. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 `true` jika nama field yang ditentukan ditambahkan ke Form; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,7 +57,7 @@ public bool HasField(string fieldName)
 
 ## HasField(string, bool) {#hasfield_2}
 
-Menentukan apakah field dengan nama yang ditentukan sudah ditambahkan ke Form, dengan kemampuan untuk melihat ke dalam hierarki anak field.
+Menentukan apakah bidang dengan nama yang ditentukan sudah ditambahkan ke Form, dengan kemampuan untuk melihat hierarki anak bidang.
 
 ```csharp
 public bool HasField(string fieldName, bool searchChildren)
@@ -66,14 +66,16 @@ public bool HasField(string fieldName, bool searchChildren)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fieldName | String | [`PartialName`](../../field/partialname/) atau [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) dari field. |
-| searchChildren | Boolean | Ketika diatur ke `true`, seluruh hierarki field formulir akan dicari untuk *fieldName* yang diminta (perhatikan bahwa dalam kasus ini [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) dari field yang diperlukan harus diberikan sebagai *fieldName*). |
+| searchChildren | Boolean | Ketika disetel ke `true` seluruh hierarki field formulir akan dicari untuk *fieldName* yang diminta (catatan bahwa dalam kasus ini [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) dari field yang diperlukan harus diberikan sebagai *fieldName*). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 `true` jika nama field yang ditentukan ditambahkan ke Form; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

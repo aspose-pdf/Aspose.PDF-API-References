@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LinkAnnotation. Sebuah tujuan yang akan ditampilkan saat anotasi diaktifkan
+title: "LinkAnnotation.Destination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LinkAnnotation property. Tujuan yang akan ditampilkan ketika anotasi diaktifkan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/linkannotation/destination/
 ---
-## Properti LinkAnnotation.Destination
+## LinkAnnotation.Destination property
 
-Sebuah tujuan yang akan ditampilkan saat anotasi diaktifkan.
+Tujuan yang akan ditampilkan ketika anotasi diaktifkan.
 
 ```csharp
 public IAppointment Destination { get; set; }
@@ -16,7 +16,9 @@ public IAppointment Destination { get; set; }
 
 ### Lihat Juga
 
-* antarmuka [IAppointment](../../iappointment/)
-* kelas [LinkAnnotation](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* interface [IAppointment](../../iappointment/)
+* class [LinkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

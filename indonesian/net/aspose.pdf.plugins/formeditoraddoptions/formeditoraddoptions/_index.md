@@ -1,12 +1,12 @@
 ---
-title: FormEditorAddOptions.FormEditorAddOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FormEditorAddOptions. Menginisialisasi instance baru dari objek PdfFormAddFieldsOptions
+title: "FormEditorAddOptions.FormEditorAddOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormEditorAddOptions constructor. Menginisialisasi instance baru dari objek PdfFormAddFieldsOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/formeditoraddoptions/formeditoraddoptions/
 ---
-## Konstruktor FormEditorAddOptions
+## FormEditorAddOptions constructor
 
 Menginisialisasi instance baru dari objek !:PdfFormAddFieldsOptions.
 
@@ -16,11 +16,13 @@ public FormEditorAddOptions(List<FormFieldCreateOptions> fieldsCreateOptions)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldsCreateOptions | List`1 | Daftar anak FormFieldCreateOptions yang mengatur opsi untuk setiap field yang ditambahkan. Setiap elemen dalam daftar sesuai dengan satu field yang akan ditambahkan. |
+| fieldsCreateOptions | List`1 | Daftar anak FormFieldCreateOptions yang mengatur opsi untuk setiap bidang yang ditambahkan. Setiap elemen dalam daftar sesuai dengan satu bidang yang akan ditambahkan. |
 
 ### Lihat Juga
 
-* kelas [FormFieldCreateOptions](../../formfieldcreateoptions/)
-* kelas [FormEditorAddOptions](../)
+* class [FormFieldCreateOptions](../../formfieldcreateoptions/)
+* class [FormEditorAddOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Stamp.BindImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Stamp. Mengatur gambar sebagai stempel
+title: "Stamp.BindImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Stamp. Menetapkan gambar sebagai stempel"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/stamp/bindimage/
@@ -16,7 +16,7 @@ public void BindImage(string imageFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageFile | String | Nama dan jalur file gambar. |
+| imageFile | String | Nama file gambar dan jalurnya. |
 
 ## Contoh
 
@@ -30,7 +30,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -50,6 +50,8 @@ public void BindImage(Stream image)
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

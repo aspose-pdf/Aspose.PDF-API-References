@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.ModDate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentInfo. Mendapatkan atau mengatur tanggal modifikasi dokumen
+title: "DocumentInfo.ModDate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "DocumentInfo property. Mendapatkan atau mengatur tanggal modifikasi dokumen"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/documentinfo/moddate/
 ---
-## Properti DocumentInfo.ModDate
+## DocumentInfo.ModDate property
 
 Mendapatkan atau mengatur tanggal modifikasi dokumen.
 
@@ -16,6 +16,8 @@ public DateTime ModDate { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

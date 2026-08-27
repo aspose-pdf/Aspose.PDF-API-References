@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizationOptions. Font akan diubah menjadi subset jika diatur ke true
+title: "OptimizationOptions.SubsetFonts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizationOptions. Font akan dikonversi menjadi subset jika diatur ke true."
 type: docs
-weight: 130
+weight: 120
 url: /id/net/aspose.pdf.optimization/optimizationoptions/subsetfonts/
 ---
-## Properti OptimizationOptions.SubsetFonts
+## OptimizationOptions.SubsetFonts property
 
-Font akan diubah menjadi subset jika diatur ke true.
+Font akan dikonversi menjadi subset jika diatur ke true.
 
 ```csharp
 public bool SubsetFonts { get; set; }
@@ -16,6 +16,8 @@ public bool SubsetFonts { get; set; }
 
 ### Lihat Juga
 
-* kelas [OptimizationOptions](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

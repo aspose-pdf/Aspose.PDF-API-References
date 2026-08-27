@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.SubscriptAndSuperscriptConversion
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkdownSaveOptions. Mendapatkan dan mengatur izin untuk mengonversi subskrip dan superskrip. Nilai ini adalah true secara default
+title: "MarkdownSaveOptions.SubscriptAndSuperscriptConversion"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkdownSaveOptions. Mendapatkan dan mengatur izin untuk mengonversi subskrip dan superskrip. Nilai ini true secara default"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/markdownsaveoptions/subscriptandsuperscriptconversion/
 ---
-## Properti MarkdownSaveOptions.SubscriptAndSuperscriptConversion
+## MarkdownSaveOptions.SubscriptAndSuperscriptConversion property
 
-Mendapatkan dan mengatur izin untuk mengonversi subskrip dan superskrip. Nilai ini adalah true secara default.
+Mendapatkan dan mengatur izin untuk mengonversi subskrip dan superskrip. Nilai ini bernilai true secara default.
 
 ```csharp
 public bool SubscriptAndSuperscriptConversion { get; set; }
@@ -16,6 +16,8 @@ public bool SubscriptAndSuperscriptConversion { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarkdownSaveOptions](../)
+* class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

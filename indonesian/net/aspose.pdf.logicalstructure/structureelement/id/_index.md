@@ -1,12 +1,12 @@
 ---
-title: StructureElement.ID
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureElement. Mendapatkan ID untuk elemen struktur
+title: "StructureElement.ID"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureElement. Mendapatkan ID untuk elemen struktur"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.logicalstructure/structureelement/id/
 ---
-## Properti StructureElement.ID
+## StructureElement.ID property
 
 Mendapatkan ID untuk elemen struktur.
 
@@ -14,12 +14,14 @@ Mendapatkan ID untuk elemen struktur.
 public string ID { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 ID dari elemen struktur.
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

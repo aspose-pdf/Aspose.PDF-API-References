@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AppearanceDictionary. Mengembalikan objek IDictionaryEnumerator untuk kamus
+title: "AppearanceDictionary.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AppearanceDictionary. Mengembalikan objek IDictionaryEnumerator untuk kamus"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.annotations/appearancedictionary/getenumerator/
 ---
-## Metode AppearanceDictionary.GetEnumerator
+## AppearanceDictionary.GetEnumerator method
 
 Mengembalikan objek IDictionaryEnumerator untuk kamus.
 
@@ -14,13 +14,15 @@ Mengembalikan objek IDictionaryEnumerator untuk kamus.
 public IEnumerator<KeyValuePair<string, XForm>> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Enumerator dari kamus.
+Enumerator kamus.
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [AppearanceDictionary](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

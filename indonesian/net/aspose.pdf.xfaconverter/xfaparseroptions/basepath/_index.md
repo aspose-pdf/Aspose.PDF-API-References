@@ -1,12 +1,12 @@
 ---
-title: XfaParserOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XfaParserOptions. Mendapatkan atau mengatur jalur dasar
+title: "XfaParserOptions.BasePath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XfaParserOptions. Mendapatkan atau mengatur jalur dasar"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/
 ---
-## Properti XfaParserOptions.BasePath
+## XfaParserOptions.BasePath property
 
 Mendapatkan atau mengatur jalur dasar.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur jalur dasar.
 public Uri BasePath { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Jalur dasar.
 
 ### Lihat Juga
 
-* kelas [XfaParserOptions](../)
+* class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

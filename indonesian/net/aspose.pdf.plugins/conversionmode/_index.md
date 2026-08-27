@@ -1,14 +1,14 @@
 ---
-title: Enum ConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Plugins.ConversionMode. Mendefinisikan mode konversi dari dokumen keluaran
+title: "Enum ConversionMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Plugins.ConversionMode. Menentukan mode konversi dokumen output"
 type: docs
-weight: 8500
+weight: 8630
 url: /id/net/aspose.pdf.plugins/conversionmode/
 ---
-## Enumerasi ConversionMode
+## ConversionMode enumeration
 
-Mendefinisikan mode konversi dari dokumen keluaran.
+Mendefinisikan mode konversi dokumen output.
 
 ```csharp
 public enum ConversionMode
@@ -18,11 +18,13 @@ public enum ConversionMode
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| TextBox | `0` | Mode ini cepat dan baik untuk mempertahankan tampilan asli dari file PDF, tetapi kemampuan edit dari dokumen yang dihasilkan bisa terbatas. |
-| Flow | `1` | Mode pengenalan penuh, mesin melakukan pengelompokan dan analisis multi-level untuk mengembalikan niat asli penulis dokumen dan menghasilkan dokumen yang dapat diedit secara maksimal. Kekurangannya adalah dokumen keluaran mungkin terlihat berbeda dari file PDF asli. |
+| TextBox | `0` | Mode ini cepat dan baik untuk mempertahankan tampilan asli file PDF secara maksimal, tetapi kemampuan mengedit Document yang dihasilkan dapat terbatas. |
+| Flow | `1` | Mode pengenalan penuh, mesin melakukan pengelompokan dan analisis multi‑tingkat untuk mengembalikan maksud penulis Document asli dan menghasilkan Document yang dapat diedit secara maksimal. Kekurangannya, Document output mungkin terlihat berbeda dari file PDF asli. |
 | EnhancedFlow | `2` | Mode Flow alternatif yang mendukung pengenalan tabel. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

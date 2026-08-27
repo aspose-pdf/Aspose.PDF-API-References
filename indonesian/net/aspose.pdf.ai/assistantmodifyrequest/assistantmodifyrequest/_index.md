@@ -1,12 +1,12 @@
 ---
-title: AssistantModifyRequest.AssistantModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantModifyRequest constructor. The default constructor
+title: "AssistantModifyRequest.AssistantModifyRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AssistantModifyRequest konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/assistantmodifyrequest/assistantmodifyrequest/
 ---
-## Konstruktor AssistantModifyRequest
+## AssistantModifyRequest constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public AssistantModifyRequest()
 
 ### Lihat Juga
 
-* kelas [AssistantModifyRequest](../)
+* class [AssistantModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

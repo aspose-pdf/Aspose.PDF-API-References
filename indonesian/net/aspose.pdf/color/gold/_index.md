@@ -1,25 +1,27 @@
 ---
-title: Color.Gold
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFFD700
+title: "Color.Gold"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FFFFD700"
 type: docs
 weight: 500
 url: /id/net/aspose.pdf/color/gold/
 ---
-## Properti Color.Gold
+## Color.Gold property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFD700.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFFD700.
 
 ```csharp
 public static Color Gold { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: GoToAction.GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor GoToAction. Konstruktor untuk kelas GoToAction
+title: "GoToAction.GoToAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "konstruktor GoToAction. Konstruktor untuk kelas GoToAction"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/gotoaction/gotoaction/
@@ -16,12 +16,12 @@ public GoToAction(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek tujuan Aspose.Pdf.Page untuk melompat ke. |
+| halaman | Halaman | objek tujuan Aspose.Pdf.Page untuk melompat ke |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [GoToAction](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,15 +37,15 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tujuan. |
+| halaman | Halaman | Destination Page. |
 | type | ExplicitDestinationType | Tipe tujuan. |
-| values | Double[] | Parameter aksi. |
+| nilai | Double[] | Parameter aksi. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
-* kelas [GoToAction](../)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -65,8 +65,8 @@ public GoToAction(ExplicitDestination destination)
 
 ### Lihat Juga
 
-* kelas [ExplicitDestination](../../explicitdestination/)
-* kelas [GoToAction](../)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -74,7 +74,7 @@ public GoToAction(ExplicitDestination destination)
 
 ## GoToAction(Document, string) {#constructor_2}
 
-Aksi yang terhubung dengan Tujuan Bernama.
+Aksi yang terhubung dengan Named Destination.
 
 ```csharp
 public GoToAction(Document doc, string name)
@@ -83,11 +83,13 @@ public GoToAction(Document doc, string name)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | doc | Document | Dokumen tempat aksi akan dibuat. |
-| name | String | Nama tujuan. |
+| nama | String | Nama tujuan. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [GoToAction](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

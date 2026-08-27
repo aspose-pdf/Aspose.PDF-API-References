@@ -1,14 +1,14 @@
 ---
-title: Class HtmlToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.HtmlToPdfOptions. Mewakili opsi konverter HTML ke PDF untuk plugin Html
+title: "Kelas HtmlToPdfOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.HtmlToPdfOptions. Mewakili opsi konversi HTML ke PDF untuk plugin Html"
 type: docs
-weight: 8830
+weight: 8960
 url: /id/net/aspose.pdf.plugins/htmltopdfoptions/
 ---
-## Kelas HtmlToPdfOptions
+## HtmlToPdfOptions class
 
-Mewakili opsi konverter HTML ke PDF untuk plugin [`Html`](../html/).
+Mewakili opsi konversi HTML ke PDF untuk plugin [`Html`](../html/).
 
 ```csharp
 public sealed class HtmlToPdfOptions : PdfConverterOptions
@@ -24,13 +24,13 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BasePath](../../aspose.pdf.plugins/htmltopdfoptions/basepath/) { get; set; } | Jalur/url dasar untuk file html. |
-| [HtmlMediaType](../../aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/) { get; set; } | Mendapatkan atau mengatur jenis media yang mungkin digunakan selama rendering. |
+| [BasePath](../../aspose.pdf.plugins/htmltopdfoptions/basepath/) { get; set; } | Jalur/URL dasar untuk file html. |
+| [HtmlMediaType](../../aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/) { get; set; } | Mendapatkan atau mengatur tipe media yang mungkin digunakan selama rendering. |
 | [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Mengembalikan koleksi data plugin PdfConverterOptions. |
-| [IsRenderToSinglePage](../../aspose.pdf.plugins/htmltopdfoptions/isrendertosinglepage/) { get; set; } | Mendapatkan atau mengatur rendering semua dokumen ke satu halaman. |
+| [IsRenderToSinglePage](../../aspose.pdf.plugins/htmltopdfoptions/isrendertosinglepage/) { get; set; } | Mendapatkan atau mengatur rendering seluruh dokumen ke satu halaman. |
 | override [OperationName](../../aspose.pdf.plugins/htmltopdfoptions/operationname/) { get; } | Mendapatkan nama operasi. |
 | [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
-| [PageInfo](../../aspose.pdf.plugins/htmltopdfoptions/pageinfo/) { get; set; } | Mendapatkan atau mengatur informasi halaman dokumen. |
+| [PageInfo](../../aspose.pdf.plugins/htmltopdfoptions/pageinfo/) { get; set; } | Mendapatkan atau mengatur info halaman dokumen. |
 | [PageLayoutOption](../../aspose.pdf.plugins/htmltopdfoptions/pagelayoutoption/) { get; set; } | Mendapatkan atau mengatur opsi tata letak. |
 
 ## Metode
@@ -42,6 +42,8 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 ### Lihat Juga
 
-* kelas [PdfConverterOptions](../pdfconverteroptions/)
+* class [PdfConverterOptions](../pdfconverteroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

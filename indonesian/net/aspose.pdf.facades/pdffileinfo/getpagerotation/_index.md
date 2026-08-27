@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Mendapatkan rotasi halaman yang ditentukan
+title: "PdfFileInfo.GetPageRotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileInfo. Mendapatkan rotasi halaman yang ditentukan"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.facades/pdffileinfo/getpagerotation/
 ---
-## Metode PdfFileInfo.GetPageRotation
+## PdfFileInfo.GetPageRotation method
 
-Mendapatkan rotasi halaman yang ditentukan.
+Mengambil rotasi halaman yang ditentukan.
 
 ```csharp
 public int GetPageRotation(int pageNum)
@@ -18,12 +18,14 @@ public int GetPageRotation(int pageNum)
 | --- | --- | --- |
 | pageNum | Int32 | Nomor halaman. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Rotasi halaman. Nilainya bisa 0, 90, 180, 270.
+Rotasi halaman. Nilainya dapat berupa 0,90,180,270.
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LineTo.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineTo. Koordinat Y dari titik garis
+title: "LineTo.Y"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LineTo. Koordinat Y dari titik garis"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/lineto/y/
 ---
-## Properti LineTo.Y
+## LineTo.Y property
 
-Koordinat Y dari titik garis.
+Koordinat Y titik garis.
 
 ```csharp
 public double Y { get; set; }
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### Lihat Juga
 
-* kelas [LineTo](../)
+* class [LineTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

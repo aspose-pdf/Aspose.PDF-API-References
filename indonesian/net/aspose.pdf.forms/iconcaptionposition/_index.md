@@ -1,12 +1,12 @@
 ---
-title: Enum IconCaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum IconCaptionPosition Aspose.Pdf.Forms. Menjelaskan posisi ikon
+title: "Enum IconCaptionPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Forms.IconCaptionPosition. Menjelaskan posisi ikon"
 type: docs
-weight: 5110
+weight: 5230
 url: /id/net/aspose.pdf.forms/iconcaptionposition/
 ---
-## Enumerasi IconCaptionPosition
+## IconCaptionPosition enumeration
 
 Menjelaskan posisi ikon.
 
@@ -24,9 +24,11 @@ public enum IconCaptionPosition
 | CaptionAboveIcon | `3` | Keterangan berada di atas ikon. |
 | CaptionToTheRight | `4` | Keterangan di sebelah kanan. |
 | CaptionToTheLeft | `5` | Keterangan di sebelah kiri. |
-| CaptionOverlaid | `6` | Keterangan ditumpangkan. |
+| CaptionOverlaid | `6` | Keterangan ditumpuk. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

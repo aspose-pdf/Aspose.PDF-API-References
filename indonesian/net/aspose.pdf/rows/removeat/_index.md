@@ -1,14 +1,14 @@
 ---
-title: Rows.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rows. Hapus baris pada posisi dari koleksi
+title: "Rows.RemoveAt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rows. Hapus baris pada posisi dari koleksi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/rows/removeat/
 ---
-## Metode Rows.RemoveAt
+## Rows.RemoveAt method
 
-Hapus baris pada posisi dari koleksi.
+Menghapus baris di posisi dari koleksi.
 
 ```csharp
 public void RemoveAt(int index)
@@ -20,6 +20,8 @@ public void RemoveAt(int index)
 
 ### Lihat Juga
 
-* kelas [Rows](../)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.DefaultSamplingRate
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SoundSampleData. Nilai default untuk SamplingRate
+title: "SoundSampleData.DefaultSamplingRate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang SoundSampleData. Nilai default untuk SamplingRate"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/soundsampledata/defaultsamplingrate/
 ---
-## Bidang SoundSampleData.DefaultSamplingRate
+## SoundSampleData.DefaultSamplingRate field
 
 Nilai default untuk SamplingRate.
 
@@ -16,6 +16,8 @@ public const long DefaultSamplingRate;
 
 ### Lihat Juga
 
-* kelas [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

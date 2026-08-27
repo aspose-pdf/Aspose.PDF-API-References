@@ -1,14 +1,14 @@
 ---
-title: Signature.UseLtv
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Signature. Mendapatkan/mengatur bendera validasi ltv
+title: "Signature.UseLtv"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Signature. Mendapatkan/mengatur flag validasi ltv"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.forms/signature/useltv/
 ---
-## Properti Signature.UseLtv
+## Signature.UseLtv property
 
-Mendapatkan/mengatur bendera validasi ltv.
+Mendapatkan/mengatur flag validasi ltv.
 
 ```csharp
 public bool UseLtv { get; set; }
@@ -16,6 +16,8 @@ public bool UseLtv { get; set; }
 
 ### Lihat Juga
 
-* kelas [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

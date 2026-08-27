@@ -1,14 +1,14 @@
 ---
-title: Resources.Images
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Sumber. Mendapatkan koleksi gambar Images
+title: "Resources.Images"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Resources. Mengambil koleksi gambar Images."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/resources/images/
 ---
-## Properti Sumber.Dokumen
+## Resources.Images property
 
-Mendapatkan koleksi gambar `Images`
+Mengambil koleksi gambar `Images`.
 
 ```csharp
 public XImageCollection Images { get; }
@@ -16,7 +16,9 @@ public XImageCollection Images { get; }
 
 ### Lihat Juga
 
-* kelas [XImageCollection](../../ximagecollection/)
-* kelas [Sumber](../)
+* class [XImageCollection](../../ximagecollection/)
+* class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

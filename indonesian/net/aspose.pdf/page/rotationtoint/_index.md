@@ -1,14 +1,14 @@
 ---
-title: Page.RotationToInt
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Menerjemahkan anggota enumerasi rotasi menjadi nilai integer
+title: "Page.RotationToInt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Menerjemahkan anggota enumerasi rotasi menjadi nilai integer."
 type: docs
 weight: 570
 url: /id/net/aspose.pdf/page/rotationtoint/
 ---
-## Metode Page.RotationToInt
+## Page.RotationToInt method
 
-Menerjemahkan anggota enumerasi rotasi menjadi nilai integer.
+Menerjemahkan anggota enumerasi rotasi ke nilai integer.
 
 ```csharp
 public static int RotationToInt(Rotation rotation)
@@ -16,15 +16,17 @@ public static int RotationToInt(Rotation rotation)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rotasi | Rotasi | Anggota enumerasi rotasi. |
+| rotasi | Rotation | Anggota enumerasi Rotation. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai integer yang sesuai
 
 ### Lihat Juga
 
-* enum [Rotasi](../../rotation/)
-* class [Halaman](../)
+* enum [Rotation](../../rotation/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

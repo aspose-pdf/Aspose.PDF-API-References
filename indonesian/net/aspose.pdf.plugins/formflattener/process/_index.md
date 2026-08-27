@@ -1,12 +1,12 @@
 ---
-title: FormFlattener.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormFlattener. Memulai pemrosesan FormFlattener dengan parameter yang ditentukan
+title: "FormFlattener.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFlattener method. Memulai pemrosesan FormFlattener dengan parameter yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/formflattener/process/
 ---
-## Metode FormFlattener.Process
+## FormFlattener.Process method
 
 Memulai pemrosesan FormFlattener dengan parameter yang ditentukan.
 
@@ -18,20 +18,22 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- | --- |
 | options | IPluginOptions | Objek opsi yang berisi instruksi untuk FormFlattener. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek ResultContainer yang berisi hasil dari operasi.
+Sebuah objek ResultContainer yang berisi hasil operasi.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Jika options tidak benar. |
+| ArgumentException | Jika opsi tidak benar. |
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [FormFlattener](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormFlattener](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXMemoryOutputDirectory. Mengembalikan aliran untuk ditulis
+title: "TeXMemoryOutputDirectory.GetOutputFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TeXMemoryOutputDirectory. Mengembalikan aliran untuk ditulis."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/texmemoryoutputdirectory/getoutputfile/
 ---
-## Metode TeXMemoryOutputDirectory.GetOutputFile
+## TeXMemoryOutputDirectory.GetOutputFile method
 
 Mengembalikan aliran untuk ditulis.
 
@@ -19,12 +19,14 @@ public Stream GetOutputFile(string fileName, out string fullName)
 | fileName | String | Nama file. |
 | fullName | String& | Nama file lengkap. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Aliran.
 
 ### Lihat Juga
 
-* kelas [TeXMemoryOutputDirectory](../)
+* class [TeXMemoryOutputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

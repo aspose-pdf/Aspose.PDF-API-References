@@ -1,14 +1,14 @@
 ---
-title: Document.Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mengambil atau mengatur opsi penanganan mode duplex cetak yang akan digunakan saat mencetak file dari dialog cetak
+title: "Document.Duplex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur opsi penanganan mode duplex cetak yang digunakan saat mencetak file dari dialog cetak"
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.pdf/document/duplex/
 ---
-## Properti Document.Duplex
+## Document.Duplex property
 
-Mengambil atau mengatur opsi penanganan mode duplex cetak yang akan digunakan saat mencetak file dari dialog cetak.
+Mendapatkan atau mengatur opsi penanganan mode duplex cetak yang digunakan saat mencetak file dari dialog cetak.
 
 ```csharp
 public PrintDuplex Duplex { get; set; }
@@ -20,3 +20,5 @@ public PrintDuplex Duplex { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

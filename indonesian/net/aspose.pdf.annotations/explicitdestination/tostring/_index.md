@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ExplicitDestination. Mengembalikan representasi string dari objek ExplicitDestination
+title: "ExplicitDestination.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ExplicitDestination method. Mengembalikan representasi string dari objek ExplicitDestination"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/explicitdestination/tostring/
 ---
-## Metode ExplicitDestination.ToString
+## ExplicitDestination.ToString method
 
 Mengembalikan representasi string dari objek ExplicitDestination.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi string dari objek ExplicitDestination.
 public abstract string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi string.
 
 ### Lihat Juga
 
-* kelas [ExplicitDestination](../)
+* class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

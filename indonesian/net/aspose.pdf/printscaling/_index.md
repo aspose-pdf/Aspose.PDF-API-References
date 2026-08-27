@@ -1,12 +1,12 @@
 ---
-title: Enum PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PrintScaling Aspose.Pdf. Opsi skala halaman yang harus dipilih ketika dialog cetak ditampilkan untuk dokumen ini
+title: "Enum PrintScaling"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.PrintScaling. Opsi skala halaman yang akan dipilih ketika dialog cetak ditampilkan untuk dokumen ini"
 type: docs
-weight: 9510
+weight: 9660
 url: /id/net/aspose.pdf/printscaling/
 ---
-## Enumerasi PrintScaling
+## PrintScaling enumeration
 
 Opsi skala halaman yang harus dipilih ketika dialog cetak ditampilkan untuk dokumen ini.
 
@@ -25,3 +25,5 @@ public enum PrintScaling
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

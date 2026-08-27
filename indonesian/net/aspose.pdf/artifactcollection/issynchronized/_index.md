@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ArtifactCollection. Apakah objek ini disinkronkan
+title: "ArtifactCollection.IsSynchronized"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ArtifactCollection. Apakah objek ini tersinkronisasi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/artifactcollection/issynchronized/
 ---
-## Properti ArtifactCollection.IsSynchronized
+## ArtifactCollection.IsSynchronized property
 
 Apakah objek ini disinkronkan.
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Lihat Juga
 
-* kelas [ArtifactCollection](../)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

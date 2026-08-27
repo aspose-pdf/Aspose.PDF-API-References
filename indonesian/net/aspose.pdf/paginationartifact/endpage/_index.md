@@ -1,14 +1,14 @@
 ---
-title: PaginationArtifact.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PaginationArtifact. Mendapatkan atau mengatur nomor halaman akhir untuk artefak. Nilainya harus lebih besar dari atau sama dengan 0. Jika nilai kurang dari 0 diatur, itu akan disesuaikan menjadi 0. Nilai default 0 berarti tidak ada batasan halaman akhir.
+title: "PaginationArtifact.EndPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PaginationArtifact. Mendapatkan atau mengatur nomor halaman akhir untuk artefak. Nilai harus lebih besar atau sama dengan 0. Jika nilai yang lebih kecil dari 0 diatur, akan disesuaikan menjadi 0. Nilai default 0 berarti tidak ada batas halaman akhir"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/paginationartifact/endpage/
 ---
-## Properti PaginationArtifact.EndPage
+## PaginationArtifact.EndPage property
 
-Mendapatkan atau mengatur nomor halaman akhir untuk artefak. Nilainya harus lebih besar dari atau sama dengan 0. Jika nilai kurang dari 0 diatur, itu akan disesuaikan menjadi 0. Nilai default 0 berarti tidak ada batasan halaman akhir.
+Mendapatkan atau mengatur nomor halaman akhir untuk artefak. Nilai harus lebih besar atau sama dengan 0. Jika nilai yang lebih kecil dari 0 diatur, akan disesuaikan menjadi 0. Nilai default 0 berarti tidak ada batas halaman akhir.
 
 ```csharp
 public int EndPage { get; set; }
@@ -16,6 +16,8 @@ public int EndPage { get; set; }
 
 ### Lihat Juga
 
-* kelas [PaginationArtifact](../)
+* class [PaginationArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

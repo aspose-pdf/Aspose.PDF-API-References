@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor DocumentInfo. Inisialisasi instance DocumentInfo
+title: "DocumentInfo.DocumentInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor DocumentInfo. Menginisialisasi instance DocumentInfo"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/documentinfo/documentinfo/
 ---
-## Konstruktor DocumentInfo
+## DocumentInfo constructor
 
 Inisialisasi instance DocumentInfo.
 
@@ -16,11 +16,13 @@ public DocumentInfo(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Info dari dokumen ini akan digunakan untuk inisialisasi. |
+| document | Document | Informasi dokumen ini akan digunakan untuk inisialisasi. |
 
 ### Lihat Juga
 
-* kelas [Document](../../document/)
-* kelas [DocumentInfo](../)
+* class [Document](../../document/)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

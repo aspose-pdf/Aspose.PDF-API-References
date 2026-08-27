@@ -1,12 +1,12 @@
 ---
-title: IncorrectCMapUsageException.IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor IncorrectCMapUsageException. Menginisialisasi instance baru dari kelas IncorrectCMapUsageException
+title: "IncorrectCMapUsageException.IncorrectCMapUsageException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "IncorrectCMapUsageException konstruktor. Menginisialisasi instance baru dari kelas IncorrectCMapUsageException"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/incorrectcmapusageexception/incorrectcmapusageexception/
 ---
-## Konstruktor IncorrectCMapUsageException
+## IncorrectCMapUsageException constructor
 
 Menginisialisasi instance baru dari kelas [`IncorrectCMapUsageException`](../).
 
@@ -20,6 +20,8 @@ public IncorrectCMapUsageException(string message)
 
 ### Lihat Juga
 
-* kelas [IncorrectCMapUsageException](../)
+* class [IncorrectCMapUsageException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

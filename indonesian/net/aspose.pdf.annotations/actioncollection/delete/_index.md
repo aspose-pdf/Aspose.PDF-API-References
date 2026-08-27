@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ActionCollection. Menghapus aksi dari koleksi berdasarkan indeks
+title: "ActionCollection.Delete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ActionCollection. Menghapus aksi dari koleksi berdasarkan indeks"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.annotations/actioncollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Menghapus aksi dari koleksi berdasarkan indeks.
+Menghapus tindakan dari koleksi berdasarkan indeks.
 
 ```csharp
 public void Delete(int index)
@@ -20,7 +20,7 @@ public void Delete(int index)
 
 ### Lihat Juga
 
-* kelas [ActionCollection](../)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void Delete(int index)
 
 ## Delete() {#delete}
 
-Hapus semua aksi.
+Hapus semua tindakan.
 
 ```csharp
 public void Delete()
@@ -36,6 +36,8 @@ public void Delete()
 
 ### Lihat Juga
 
-* kelas [ActionCollection](../)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

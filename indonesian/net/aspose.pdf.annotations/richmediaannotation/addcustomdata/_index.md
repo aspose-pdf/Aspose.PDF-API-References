@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.AddCustomData
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RichMediaAnnotation. Tambahkan data bernama kustom misalnya yang diperlukan untuk skrip flash
+title: "RichMediaAnnotation.AddCustomData"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RichMediaAnnotation. Tambahkan data bernama khusus, misalnya yang diperlukan untuk skrip flash"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/richmediaannotation/addcustomdata/
 ---
-## Metode RichMediaAnnotation.AddCustomData
+## RichMediaAnnotation.AddCustomData method
 
-Tambahkan data bernama kustom (misalnya yang diperlukan untuk skrip flash).
+Menambahkan data bernama khusus (misalnya diperlukan untuk skrip flash).
 
 ```csharp
 public void AddCustomData(string name, Stream data)
@@ -16,11 +16,13 @@ public void AddCustomData(string name, Stream data)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama data. |
+| nama | String | Nama data. |
 | data | Stream | Data. |
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

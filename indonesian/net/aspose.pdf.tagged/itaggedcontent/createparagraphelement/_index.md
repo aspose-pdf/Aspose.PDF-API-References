@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateParagraphElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat ParagraphElement
+title: "ITaggedContent.CreateParagraphElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat ParagraphElement"
 type: docs
-weight: 200
+weight: 230
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/
 ---
-## Metode ITaggedContent.CreateParagraphElement
+## ITaggedContent.CreateParagraphElement method
 
 Membuat [`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragraphelement/).
 
@@ -14,13 +14,15 @@ Membuat [`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragrapheleme
 public ParagraphElement CreateParagraphElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [ParagraphElement](../../../aspose.pdf.logicalstructure/paragraphelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [ParagraphElement](../../../aspose.pdf.logicalstructure/paragraphelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

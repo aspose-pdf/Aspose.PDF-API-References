@@ -1,12 +1,12 @@
 ---
-title: Class Html
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.Html. Mewakili plugin Html
+title: "Kelas Html"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.Html. Mewakili plugin Html"
 type: docs
-weight: 8820
+weight: 8950
 url: /id/net/aspose.pdf.plugins/html/
 ---
-## Kelas Html
+## Html class
 
 Mewakili plugin `Html`.
 
@@ -24,41 +24,43 @@ public sealed class Html : IDisposable, IPlugin
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/html/dispose/)() | Implementasi dari IDisposable. |
+| [Dispose](../../aspose.pdf.plugins/html/dispose/)() | Implementasi IDisposable. |
 | [Process](../../aspose.pdf.plugins/html/process/)(IPluginOptions) | Memulai pemrosesan `Html` dengan parameter yang ditentukan. |
 
 ## Contoh
 
-Contoh ini menunjukkan cara mengonversi PDF menjadi dokumen HTML.
+Contoh ini menunjukkan cara mengonversi PDF ke dokumen HTML.
 
 ```csharp
-// create Html
+// buat Html
 var converter = new Html();
-// create PdfToHtmlOptions object to set output data type as file with embedded resources
+// buat objek PdfToHtmlOptions untuk mengatur tipe data output sebagai file dengan sumber daya tersemat
 var opt = new PdfToHtmlOptions(PdfToHtmlOptions.SaveDataType.FileWithEmbeddedResources);
-// add input file path
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
-Contoh ini menunjukkan cara mengonversi HTML menjadi dokumen PDF.
+Contoh ini menunjukkan cara mengonversi HTML ke dokumen PDF.
 
 ```csharp
-// create Html
+// buat Html
 var converter = new Html();
-// create HtmlToPdfOptions
+// buat HtmlToPdfOptions
 var opt = new HtmlToPdfOptions();
-// add input file path
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

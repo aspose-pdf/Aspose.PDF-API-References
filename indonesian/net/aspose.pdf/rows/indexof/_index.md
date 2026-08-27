@@ -1,12 +1,12 @@
 ---
-title: Rows.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rows. Mengembalikan indeks baris dalam koleksi
+title: "Rows.IndexOf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rows. Mengembalikan indeks baris dalam koleksi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/rows/indexof/
 ---
-## Metode Rows.IndexOf
+## Rows.IndexOf method
 
 Mengembalikan indeks baris dalam koleksi.
 
@@ -18,13 +18,15 @@ public int IndexOf(Row row)
 | --- | --- | --- |
 | row | Row | Baris yang ada. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Indeks baris
 
 ### Lihat Juga
 
-* kelas [Row](../../row/)
-* kelas [Rows](../)
+* class [Row](../../row/)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

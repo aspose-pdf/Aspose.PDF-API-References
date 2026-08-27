@@ -1,25 +1,27 @@
 ---
-title: Cell.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Cell. Kloning sel
+title: "Cell.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Cell. Mengkloning sel"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/cell/clone/
 ---
-## Metode Cell.Clone
+## Cell.Clone method
 
-Kloning sel.
+Menggandakan sel.
 
 ```csharp
 public object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

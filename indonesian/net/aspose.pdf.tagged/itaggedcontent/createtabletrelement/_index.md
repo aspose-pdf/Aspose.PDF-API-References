@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTRElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat TableTRElement
+title: "ITaggedContent.CreateTableTRElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat TableTRElement"
 type: docs
-weight: 340
+weight: 370
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createtabletrelement/
 ---
-## Metode ITaggedContent.CreateTableTRElement
+## ITaggedContent.CreateTableTRElement method
 
 Membuat [`TableTRElement`](../../../aspose.pdf.logicalstructure/tabletrelement/).
 
@@ -14,13 +14,15 @@ Membuat [`TableTRElement`](../../../aspose.pdf.logicalstructure/tabletrelement/)
 public TableTRElement CreateTableTRElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [TableTRElement](../../../aspose.pdf.logicalstructure/tabletrelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [TableTRElement](../../../aspose.pdf.logicalstructure/tabletrelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

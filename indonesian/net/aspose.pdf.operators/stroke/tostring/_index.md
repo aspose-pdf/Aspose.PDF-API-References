@@ -1,12 +1,12 @@
 ---
-title: Stroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Stroke. Mengembalikan representasi teks dari operator
+title: "Stroke.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Stroke. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/stroke/tostring/
 ---
-## Metode Stroke.ToString
+## Stroke.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [Stroke](../)
+* class [Stroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

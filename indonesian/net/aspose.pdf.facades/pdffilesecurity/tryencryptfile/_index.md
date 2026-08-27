@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryEncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Mengenkripsi file Pdf dengan userpassword dan ownerpassword dan mengatur hak akses dokumen. User password dan owner password dapat bernilai null atau kosong. Owner password akan diganti dengan string acak jika owner password input bernilai null atau kosong. Tidak melempar pengecualian jika proses gagal
+title: "PdfFileSecurity.TryEncryptFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileSecurity method. Mengenkripsi file Pdf dengan kata sandi pengguna dan kata sandi pemilik serta mengatur hak akses documents. Kata sandi pengguna dan kata sandi pemilik dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik masukan bernilai null atau kosong. Tidak melempar pengecualian jika proses gagal"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
 ---
-## Metode PdfFileSecurity.TryEncryptFile
+## PdfFileSecurity.TryEncryptFile method
 
-Mengenkripsi file Pdf dengan userpassword dan ownerpassword dan mengatur hak akses dokumen. User password dan owner password dapat bernilai null atau kosong. Owner password akan diganti dengan string acak jika owner password input bernilai null atau kosong. Tidak melempar pengecualian jika proses gagal.
+Mengenkripsi file Pdf dengan userpassword dan ownerpassword serta mengatur hak istimewa dokumen untuk akses. Kata sandi pengguna dan kata sandi pemilik dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik masukan bernilai null atau kosong. Tidak melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -17,14 +17,14 @@ public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPr
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| userPassword | String | User password. |
-| ownerPassword | String | Owner password. |
-| privilege | DocumentPrivilege | Atur hak akses. |
-| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit dan KeySize.x256 untuk enkripsi 256 bit. |
+| userPassword | String | Kata sandi pengguna. |
+| ownerPassword | String | Password pemilik. |
+| hak | DocumentPrivilege | Atur hak. |
+| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit, dan KeySize.x256 untuk enkripsi 256 bit. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -44,8 +44,10 @@ Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", Doc
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

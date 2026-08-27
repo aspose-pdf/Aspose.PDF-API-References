@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.LineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphInfo. Mendapatkan atau mengatur nilai float yang menunjukkan lebar garis dari grafik
+title: "GraphInfo.LineWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphInfo. Mendapatkan atau mengatur nilai float yang menunjukkan lebar garis grafik."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/graphinfo/linewidth/
 ---
-## Properti GraphInfo.LineWidth
+## GraphInfo.LineWidth property
 
-Mendapatkan atau mengatur nilai float yang menunjukkan lebar garis dari grafik.
+Mendapatkan atau mengatur nilai float yang menunjukkan lebar garis grafik.
 
 ```csharp
 public float LineWidth { get; set; }
@@ -16,6 +16,8 @@ public float LineWidth { get; set; }
 
 ### Lihat Juga
 
-* kelas [GraphInfo](../)
+* class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

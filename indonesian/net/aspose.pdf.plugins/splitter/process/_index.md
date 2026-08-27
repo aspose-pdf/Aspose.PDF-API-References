@@ -1,12 +1,12 @@
 ---
-title: Splitter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Splitter. Memulai pemrosesan Splitter dengan parameter yang ditentukan
+title: "Splitter.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Splitter. Memulai pemrosesan Splitter dengan parameter yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/splitter/process/
 ---
-## Metode Splitter.Process
+## Splitter.Process method
 
 Memulai pemrosesan [`Splitter`](../) dengan parameter yang ditentukan.
 
@@ -18,9 +18,9 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- | --- |
 | options | IPluginOptions | Objek opsi yang berisi instruksi untuk [`Splitter`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah objek ResultContainer yang berisi hasil dari operasi.
+Sebuah objek ResultContainer yang berisi hasil operasi.
 
 ### Pengecualian
 
@@ -30,8 +30,10 @@ Sebuah objek ResultContainer yang berisi hasil dari operasi.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [Splitter](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Splitter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

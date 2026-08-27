@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadMessageResponse. Mengambil atau mengatur konten pesan dalam array teks dan/atau gambar
+title: "ThreadMessageResponse.Content"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ThreadMessageResponse. Mendapatkan atau mengatur konten pesan dalam sebuah array teks dan/atau gambar."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/threadmessageresponse/content/
 ---
-## Properti ThreadMessageResponse.Content
+## ThreadMessageResponse.Content property
 
-Mengambil atau mengatur konten pesan dalam array teks dan/atau gambar.
+Mendapatkan atau mengatur konten pesan dalam sebuah array teks dan/atau gambar.
 
 ```csharp
 public List<MessageContentResponse> Content { get; set; }
@@ -16,7 +16,9 @@ public List<MessageContentResponse> Content { get; set; }
 
 ### Lihat Juga
 
-* kelas [MessageContentResponse](../../messagecontentresponse/)
-* kelas [ThreadMessageResponse](../)
+* class [MessageContentResponse](../../messagecontentresponse/)
+* class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

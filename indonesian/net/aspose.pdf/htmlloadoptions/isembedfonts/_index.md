@@ -1,12 +1,12 @@
 ---
-title: HtmlLoadOptions.IsEmbedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlLoadOptions. Mendapatkan atau mengatur penyematan font ke dokumen hasil
+title: "HtmlLoadOptions.IsEmbedFonts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlLoadOptions property. Mendapatkan atau mengatur penyematan font ke dokumen hasil"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/htmlloadoptions/isembedfonts/
 ---
-## Properti HtmlLoadOptions.IsEmbedFonts
+## HtmlLoadOptions.IsEmbedFonts property
 
 Mendapatkan atau mengatur penyematan font ke dokumen hasil
 
@@ -16,6 +16,8 @@ public bool IsEmbedFonts { get; set; }
 
 ### Lihat Juga
 
-* kelas [HtmlLoadOptions](../)
+* class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

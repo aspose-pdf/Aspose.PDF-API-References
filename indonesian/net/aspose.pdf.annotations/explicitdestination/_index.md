@@ -1,14 +1,14 @@
 ---
-title: Class ExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.ExplicitDestination. Mewakili kelas dasar untuk tujuan eksplisit dalam dokumen PDF
+title: "Kelas ExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.ExplicitDestination kelas. Mewakili kelas dasar untuk tujuan eksplisit dalam PDF document"
 type: docs
-weight: 1680
+weight: 1770
 url: /id/net/aspose.pdf.annotations/explicitdestination/
 ---
-## Kelas ExplicitDestination
+## ExplicitDestination class
 
-Mewakili kelas dasar untuk tujuan eksplisit dalam dokumen PDF.
+Merepresentasikan kelas dasar untuk tujuan eksplisit dalam dokumen PDF.
 
 ```csharp
 public abstract class ExplicitDestination : IAppointment
@@ -34,3 +34,5 @@ public abstract class ExplicitDestination : IAppointment
 * interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Items
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Sebuah array string yang masing-masing mewakili opsi dari field combo box/list/radio box
+title: "FormFieldFacade.Items"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade properti. Array string masing-masing mewakili opsi dari bidang kotak kombo/daftar/kotak radio"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/formfieldfacade/items/
 ---
-## Properti FormFieldFacade.Items
+## FormFieldFacade.Items property
 
-Sebuah array string, masing-masing mewakili opsi dari field combo box/list/radio box.
+Array string, masing-masing mewakili opsi bidang kotak kombinasi/daftar/kotak radio.
 
 ```csharp
 public string[] Items { get; set; }
@@ -16,6 +16,8 @@ public string[] Items { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

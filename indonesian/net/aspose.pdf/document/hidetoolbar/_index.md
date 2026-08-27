@@ -1,12 +1,12 @@
 ---
-title: Document.HideToolBar
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dokumen. Mendapatkan atau mengatur flag yang menentukan apakah toolbar harus disembunyikan saat dokumen aktif
+title: "Document.HideToolBar"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur flag yang menentukan apakah toolbar harus disembunyikan ketika dokumen aktif"
 type: docs
-weight: 240
+weight: 260
 url: /id/net/aspose.pdf/document/hidetoolbar/
 ---
-## Properti Document.HideToolBar
+## Document.HideToolBar property
 
 Mendapatkan atau mengatur flag yang menentukan apakah toolbar harus disembunyikan saat dokumen aktif.
 
@@ -25,6 +25,8 @@ bool value = document.HideToolBar;
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

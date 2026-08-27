@@ -1,14 +1,14 @@
 ---
-title: Enum SignatureAlgorithmType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SignatureAlgorithmType Aspose.Pdf.Security. Mengenumerasi jenis algoritma tanda tangan yang digunakan untuk tanda tangan digital
+title: "Enum SignatureAlgorithmType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Security.SignatureAlgorithmType. Mengenumerasi jenis-jenis algoritma tanda tangan yang digunakan untuk tanda tangan digital"
 type: docs
-weight: 10010
+weight: 10190
 url: /id/net/aspose.pdf.security/signaturealgorithmtype/
 ---
-## Enumerasi SignatureAlgorithmType
+## SignatureAlgorithmType enumeration
 
-Mengenumerasi jenis algoritma tanda tangan yang digunakan untuk tanda tangan digital.
+Menumerasikan jenis algoritma tanda tangan yang digunakan untuk tanda tangan digital.
 
 ```csharp
 public enum SignatureAlgorithmType
@@ -28,3 +28,5 @@ public enum SignatureAlgorithmType
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

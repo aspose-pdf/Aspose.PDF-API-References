@@ -1,14 +1,14 @@
 ---
-title: RunResponse.ThreadId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur ID dari thread yang dieksekusi sebagai bagian dari run ini
+title: "RunResponse.ThreadId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur ID thread yang dijalankan sebagai bagian dari run ini."
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.ai/runresponse/threadid/
 ---
-## Properti RunResponse.ThreadId
+## RunResponse.ThreadId property
 
-Mendapatkan atau mengatur ID dari thread yang dieksekusi sebagai bagian dari run ini.
+Menentukan atau mengatur ID thread yang dieksekusi sebagai bagian dari run ini.
 
 ```csharp
 public string ThreadId { get; set; }
@@ -16,6 +16,8 @@ public string ThreadId { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

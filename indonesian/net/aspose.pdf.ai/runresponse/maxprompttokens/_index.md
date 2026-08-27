@@ -1,14 +1,14 @@
 ---
-title: RunResponse.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur jumlah maksimum token prompt yang ditentukan telah digunakan selama proses berjalan
+title: "RunResponse.MaxPromptTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur jumlah maksimum token prompt yang ditentukan telah digunakan selama run"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.ai/runresponse/maxprompttokens/
 ---
-## Properti RunResponse.MaxPromptTokens
+## RunResponse.MaxPromptTokens property
 
-Mendapatkan atau mengatur jumlah maksimum token prompt yang ditentukan telah digunakan selama proses berjalan.
+Menentukan atau mengatur jumlah maksimum token prompt yang ditentukan telah digunakan selama run.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxPromptTokens { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

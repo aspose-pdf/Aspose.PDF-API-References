@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphicalPdfComparer. Mendapatkan dan mengatur resolusi gambar yang dihasilkan. Nilai default adalah 150dpi
+title: "GraphicalPdfComparer.Resolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphicalPdfComparer. Mendapatkan dan mengatur resolusi gambar hasil. Nilai default adalah 150dpi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/
 ---
-## Properti GraphicalPdfComparer.Resolution
+## GraphicalPdfComparer.Resolution property
 
-Mendapatkan dan mengatur resolusi gambar yang dihasilkan. Nilai default adalah 150dpi.
+Mendapatkan dan mengatur resolusi gambar hasil. Nilai default adalah 150dpi.
 
 ```csharp
 public Resolution Resolution { get; set; }
@@ -16,7 +16,9 @@ public Resolution Resolution { get; set; }
 
 ### Lihat Juga
 
-* kelas [Resolution](../../../aspose.pdf.devices/resolution/)
-* kelas [GraphicalPdfComparer](../)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

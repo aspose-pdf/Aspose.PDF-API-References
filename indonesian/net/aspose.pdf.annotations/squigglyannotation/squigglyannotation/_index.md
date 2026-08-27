@@ -1,14 +1,14 @@
 ---
-title: SquigglyAnnotation.SquigglyAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SquigglyAnnotation. Membuat anotasi Squiggly baru di halaman yang ditentukan
+title: "SquigglyAnnotation.SquigglyAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SquigglyAnnotation. Membuat anotasi Squiggly baru pada halaman yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/squigglyannotation/squigglyannotation/
 ---
-## Konstruktor SquigglyAnnotation
+## SquigglyAnnotation constructor
 
-Membuat anotasi Squiggly baru di halaman yang ditentukan.
+Membuat anotasi Squiggly baru pada halaman yang ditentukan.
 
 ```csharp
 public SquigglyAnnotation(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public SquigglyAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Persegi Panjang | Persegi panjang anotasi, yang mendefinisikan lokasi anotasi di halaman. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [SquigglyAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SquigglyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

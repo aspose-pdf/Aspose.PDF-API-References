@@ -1,14 +1,14 @@
 ---
-title: FontAbsorber.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FontAbsorber. Mendapatkan koleksi kejadian pencarian yang disajikan dengan objek Font
+title: "FontAbsorber.Fonts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FontAbsorber. Mendapatkan koleksi kemunculan pencarian yang ditampilkan dengan objek Font"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/fontabsorber/fonts/
 ---
-## Properti FontAbsorber.Fonts
+## FontAbsorber.Fonts property
 
-Mendapatkan koleksi kejadian pencarian yang disajikan dengan objek [`Font`](../../font/) .
+Mendapatkan koleksi kemunculan pencarian yang ditampilkan dengan objek [`Font`](../../font/)
 
 ```csharp
 public FontCollection Fonts { get; }
@@ -16,7 +16,9 @@ public FontCollection Fonts { get; }
 
 ### Lihat Juga
 
-* kelas [FontCollection](../../fontcollection/)
-* kelas [FontAbsorber](../)
+* class [FontCollection](../../fontcollection/)
+* class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

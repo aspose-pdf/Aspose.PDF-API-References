@@ -1,14 +1,14 @@
 ---
-title: Class OptimizedMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.OptimizedMemoryStream. Mendefinisikan MemoryStream yang dapat menampung kapasitas lebih standar
+title: "Kelas OptimizedMemoryStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.OptimizedMemoryStream. Mendefinisikan MemoryStream yang dapat menampung kapasitas standar lebih besar"
 type: docs
-weight: 7990
+weight: 8130
 url: /id/net/aspose.pdf/optimizedmemorystream/
 ---
-## Kelas OptimizedMemoryStream
+## OptimizedMemoryStream class
 
-Mendefinisikan MemoryStream yang dapat menampung kapasitas lebih standar
+Mendefinisikan MemoryStream yang dapat berisi kapasitas standar lebih besar.
 
 ```csharp
 public class OptimizedMemoryStream : Stream
@@ -27,27 +27,27 @@ public class OptimizedMemoryStream : Stream
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BufferSize](../../aspose.pdf/optimizedmemorystream/buffersize/) { get; set; } | Mendapatkan atau menetapkan ukuran buffer yang mendasari. |
-| override [CanRead](../../aspose.pdf/optimizedmemorystream/canread/) { get; } | Ketika dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah stream saat ini mendukung pembacaan. |
-| override [CanSeek](../../aspose.pdf/optimizedmemorystream/canseek/) { get; } | Ketika dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah stream saat ini mendukung pencarian. |
-| override [CanWrite](../../aspose.pdf/optimizedmemorystream/canwrite/) { get; } | Ketika dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah stream saat ini mendukung penulisan. |
-| [FreeOnDispose](../../aspose.pdf/optimizedmemorystream/freeondispose/) { get; set; } | Mendapatkan atau menetapkan nilai yang menunjukkan apakah akan membebaskan buffer yang mendasari saat dibuang. |
-| override [Length](../../aspose.pdf/optimizedmemorystream/length/) { get; } | Ketika dioverride dalam kelas turunan, mendapatkan panjang dalam byte dari stream. |
-| override [Position](../../aspose.pdf/optimizedmemorystream/position/) { get; set; } | Ketika dioverride dalam kelas turunan, mendapatkan atau menetapkan posisi dalam stream saat ini. |
+| [BufferSize](../../aspose.pdf/optimizedmemorystream/buffersize/) { get; set; } | Mendapatkan atau mengatur ukuran buffer yang mendasari. |
+| override [CanRead](../../aspose.pdf/optimizedmemorystream/canread/) { get; } | Saat dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung pembacaan. |
+| override [CanSeek](../../aspose.pdf/optimizedmemorystream/canseek/) { get; } | Saat dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung pencarian. |
+| override [CanWrite](../../aspose.pdf/optimizedmemorystream/canwrite/) { get; } | Saat dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung penulisan. |
+| [FreeOnDispose](../../aspose.pdf/optimizedmemorystream/freeondispose/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah akan membebaskan buffer yang mendasari saat dibuang. |
+| override [Length](../../aspose.pdf/optimizedmemorystream/length/) { get; } | Saat dioverride dalam kelas turunan, mendapatkan panjang aliran dalam byte. |
+| override [Position](../../aspose.pdf/optimizedmemorystream/position/) { get; set; } | Saat dioverride dalam kelas turunan, mendapatkan atau mengatur posisi dalam aliran saat ini. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
 | override [Flush](../../aspose.pdf/optimizedmemorystream/flush/)() | Fungsi yang dioverride. |
-| override [Read](../../aspose.pdf/optimizedmemorystream/read/#read)(byte[], int, int) | Ketika dioverride dalam kelas turunan, membaca urutan byte dari stream saat ini dan memajukan posisi dalam stream dengan jumlah byte yang dibaca. |
-| override [ReadByte](../../aspose.pdf/optimizedmemorystream/readbyte/)() | Membaca satu byte dari stream dan memajukan posisi dalam stream dengan satu byte, atau mengembalikan -1 jika di akhir stream. |
-| override [Seek](../../aspose.pdf/optimizedmemorystream/seek/)(long, SeekOrigin) | Ketika dioverride dalam kelas turunan, menetapkan posisi dalam stream saat ini. |
-| override [SetLength](../../aspose.pdf/optimizedmemorystream/setlength/)(long) | Ketika dioverride dalam kelas turunan, menetapkan panjang stream saat ini. |
-| [ToArray](../../aspose.pdf/optimizedmemorystream/toarray/)() | Mengonversi stream saat ini menjadi array byte. |
-| override [Write](../../aspose.pdf/optimizedmemorystream/write/#write)(byte[], int, int) | Ketika dioverride dalam kelas turunan, menulis urutan byte ke stream saat ini dan memajukan posisi saat ini dalam stream ini dengan jumlah byte yang ditulis. |
-| override [WriteByte](../../aspose.pdf/optimizedmemorystream/writebyte/)(byte) | Menulis satu byte ke posisi saat ini dalam stream dan memajukan posisi dalam stream dengan satu byte. |
-| [WriteTo](../../aspose.pdf/optimizedmemorystream/writeto/)(Stream) | Menulis ke stream yang ditentukan. |
+| override [Read](../../aspose.pdf/optimizedmemorystream/read/#read)(byte[], int, int) | Saat dioverride dalam kelas turunan, membaca urutan byte dari aliran saat ini dan memajukan posisi dalam aliran sebesar jumlah byte yang dibaca. |
+| override [ReadByte](../../aspose.pdf/optimizedmemorystream/readbyte/)() | Membaca satu byte dari aliran dan memajukan posisi dalam aliran satu byte, atau mengembalikan -1 jika berada di akhir aliran. |
+| override [Seek](../../aspose.pdf/optimizedmemorystream/seek/)(long, SeekOrigin) | Saat dioverride dalam kelas turunan, mengatur posisi dalam aliran saat ini. |
+| override [SetLength](../../aspose.pdf/optimizedmemorystream/setlength/)(long) | Saat dioverride dalam kelas turunan, mengatur panjang aliran saat ini. |
+| [ToArray](../../aspose.pdf/optimizedmemorystream/toarray/)() | Mengonversi aliran saat ini menjadi array byte. |
+| override [Write](../../aspose.pdf/optimizedmemorystream/write/#write)(byte[], int, int) | Ketika dioverride dalam kelas turunan, menulis urutan byte ke aliran saat ini dan memajukan posisi saat ini dalam aliran ini sebanyak jumlah byte yang ditulis. |
+| override [WriteByte](../../aspose.pdf/optimizedmemorystream/writebyte/)(byte) | Menulis satu byte ke posisi saat ini dalam aliran dan memajukan posisi dalam aliran sebesar satu byte. |
+| [WriteTo](../../aspose.pdf/optimizedmemorystream/writeto/)(Stream) | Menulis ke aliran yang ditentukan. |
 
 ## Bidang
 
@@ -59,3 +59,5 @@ public class OptimizedMemoryStream : Stream
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

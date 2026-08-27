@@ -1,7 +1,7 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Membuat instance baru dari OpenAIImageDescriptionCopilotOptions
+title: "OpenAIImageDescriptionCopilotOptions.Create"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions method. Membuat instance baru dari OpenAIImageDescriptionCopilotOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
@@ -14,11 +14,11 @@ Membuat instance baru dari [`OpenAIImageDescriptionCopilotOptions`](../).
 public static OpenAIImageDescriptionCopilotOptions Create()
 ```
 
-### Return Value
+### Nilai Kembalian
 
-Instance baru dari [`OpenAIImageDescriptionCopilotOptions`](../).
+Sebuah instance baru dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,23 +28,25 @@ Instance baru dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ## Create(Action&lt;OpenAIImageDescriptionCopilotOptions&gt;) {#create_1}
 
-Membuat instance dari [`OpenAIImageDescriptionCopilotOptions`](../) dan mengkonfigurasinya menggunakan delegasi yang diberikan.
+Membuat sebuah instance dari [`OpenAIImageDescriptionCopilotOptions`](../) dan mengkonfigurasinya menggunakan delegasi yang disediakan.
 
 ```csharp
 public static OpenAIImageDescriptionCopilotOptions Create(
     Action<OpenAIImageDescriptionCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| config | Action`1 | Delegasi untuk mengkonfigurasi opsi. |
+| konfigurasi | Action`1 | Delegasi untuk mengkonfigurasi opsi. |
 
-### Return Value
+### Nilai Kembalian
 
 Instance yang telah dikonfigurasi dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

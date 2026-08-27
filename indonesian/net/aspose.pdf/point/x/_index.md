@@ -1,12 +1,12 @@
 ---
-title: Point.X
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Point. Nilai koordinat X
+title: "Point.X"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Point. Nilai koordinat X"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/point/x/
 ---
-## Properti Point.X
+## Point.X property
 
 Nilai koordinat X.
 
@@ -16,6 +16,8 @@ public double X { get; set; }
 
 ### Lihat Juga
 
-* kelas [Point](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithSummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAISummaryCopilotOptions. Mengatur prompt ringkasan untuk opsi copilot ringkasan
+title: "OpenAISummaryCopilotOptions.WithSummaryPrompt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAISummaryCopilotOptions metode. Menetapkan prompt ringkasan untuk opsi copilot ringkasan"
 type: docs
-weight: 120
+weight: 130
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/withsummaryprompt/
 ---
-## Metode OpenAISummaryCopilotOptions.WithSummaryPrompt
+## OpenAISummaryCopilotOptions.WithSummaryPrompt method
 
 Mengatur prompt ringkasan untuk opsi copilot ringkasan.
 
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| summaryPrompt | String | Prompt ringkasan yang akan diatur. |
+| summaryPrompt | String | Prompt ringkasan yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

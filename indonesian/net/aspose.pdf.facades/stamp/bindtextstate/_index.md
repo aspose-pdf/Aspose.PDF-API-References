@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Stamp. Mengatur status teks dari teks cap
+title: "Stamp.BindTextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Stamp. Menetapkan keadaan teks dari teks stempel"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/stamp/bindtextstate/
 ---
-## Metode Stamp.BindTextState
+## Stamp.BindTextState method
 
-Mengatur status teks dari teks cap.
+Mengatur keadaan teks dari teks stempel.
 
 ```csharp
 public void BindTextState(TextState textState)
@@ -20,7 +20,9 @@ public void BindTextState(TextState textState)
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [Stamp](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

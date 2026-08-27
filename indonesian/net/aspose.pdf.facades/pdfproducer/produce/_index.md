@@ -1,14 +1,14 @@
 ---
-title: PdfProducer.Produce
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfProducer. Menghasilkan aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari aliran CGM
+title: "PdfProducer.Produce"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfProducer. Menghasilkan aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari aliran CGM."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-Menghasilkan aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari aliran CGM.
+Hasilkan aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari aliran CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -26,16 +26,16 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Aliran input. |
+| inputStream | Stream | Aliran masukan. |
 | format | ImportFormat | Format impor. |
 | outputStream | Stream | Aliran PDF keluaran. |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Eksepsi ini dilemparkan ketika sebuah file tidak valid. |
-| ArgumentNullException | Aliran input atau keluaran adalah null |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Pengecualian dilempar ketika file tidak valid. |
+| ArgumentNullException | Aliran masukan atau keluaran bernilai null |
 
 ### Lihat Juga
 
@@ -48,7 +48,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-Menghasilkan aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari file CGM.
+Hasilkan aliran PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -65,17 +65,17 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFileName | String | Nama file input. |
+| inputFileName | String | Nama file masukan. |
 | format | ImportFormat | Format impor. |
 | outputStream | Stream | Aliran PDF keluaran. |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Eksepsi ini dilemparkan ketika sebuah file tidak valid. |
-| ArgumentNullException | Aliran keluaran adalah null |
-| ArgumentException | Nama file input adalah string kosong |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Pengecualian dilempar ketika file tidak valid. |
+| ArgumentNullException | Aliran keluaran bernilai null |
+| ArgumentException | Nama file masukan berupa string kosong |
 
 ### Lihat Juga
 
@@ -88,7 +88,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-Menghasilkan file PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari aliran CGM.
+Hasilkan file PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari aliran CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -106,17 +106,17 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Aliran input. |
+| inputStream | Stream | Aliran masukan. |
 | format | ImportFormat | Format impor. |
-| outputFileName | String | Nama file PDF keluaran |
+| outputFileName | String | File PDF keluaran |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Eksepsi ini dilemparkan ketika sebuah file tidak valid. |
-| ArgumentNullException | Aliran input adalah null |
-| ArgumentException | Nama file keluaran adalah string kosong |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Pengecualian dilempar ketika file tidak valid. |
+| ArgumentNullException | Aliran masukan bernilai null |
+| ArgumentException | Nama file keluaran berupa string kosong |
 
 ### Lihat Juga
 
@@ -129,7 +129,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-Menghasilkan file PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari file CGM.
+Hasilkan file PDF menggunakan format impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -143,16 +143,16 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFileName | String | Nama file input. |
+| inputFileName | String | Nama file masukan. |
 | format | ImportFormat | Format impor. |
-| outputFileName | String | Nama file PDF keluaran |
+| outputFileName | String | File PDF keluaran |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Eksepsi ini dilemparkan ketika sebuah file tidak valid. |
-| ArgumentException | Nama file input atau keluaran adalah string kosong |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Pengecualian dilempar ketika file tidak valid. |
+| ArgumentException | Nama file masukan atau keluaran berupa string kosong |
 
 ### Lihat Juga
 
@@ -165,7 +165,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-Menghasilkan aliran PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari file CGM.
+Hasilkan aliran PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -183,17 +183,17 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFileName | String | Nama file input. |
+| inputFileName | String | Nama file masukan. |
 | options | ImportOptions | Opsi impor. |
 | outputStream | Stream | Aliran PDF keluaran. |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Eksepsi ini dilemparkan ketika sebuah file tidak valid. |
-| ArgumentNullException | Aliran keluaran adalah null |
-| ArgumentException | Nama file input adalah string kosong |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Pengecualian dilempar ketika file tidak valid. |
+| ArgumentNullException | Aliran keluaran bernilai null |
+| ArgumentException | Nama file masukan berupa string kosong |
 
 ### Lihat Juga
 
@@ -206,7 +206,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-Menghasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari aliran CGM.
+Hasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari aliran CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -224,17 +224,17 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Aliran input. |
+| inputStream | Stream | Aliran masukan. |
 | options | ImportOptions | Opsi impor. |
-| outputFileName | String | Nama file PDF keluaran. |
+| outputFileName | String | File PDF keluaran. |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Eksepsi ini dilemparkan ketika sebuah file tidak valid. |
-| ArgumentNullException | Aliran input adalah null |
-| ArgumentException | Nama file keluaran adalah string kosong |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Pengecualian dilempar ketika file tidak valid. |
+| ArgumentNullException | Aliran masukan bernilai null |
+| ArgumentException | Nama file keluaran berupa string kosong |
 
 ### Lihat Juga
 
@@ -247,7 +247,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-Menghasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari file CGM.
+Hasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan file Pdf dari file CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -262,16 +262,16 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFileName | String | Nama file input. |
+| inputFileName | String | Nama file masukan. |
 | options | ImportOptions | Opsi impor. |
-| outputFileName | String | Nama file PDF keluaran. |
+| outputFileName | String | Aliran PDF keluaran. |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Eksepsi ini dilemparkan ketika sebuah file tidak valid. |
-| ArgumentException | Nama file input atau keluaran adalah string kosong |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Pengecualian dilempar ketika file tidak valid. |
+| ArgumentException | Nama file masukan atau keluaran berupa string kosong |
 
 ### Lihat Juga
 
@@ -284,7 +284,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-Menghasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari aliran CGM.
+Hasilkan file PDF menggunakan opsi impor yang ditentukan. Contoh ini menunjukkan cara menghasilkan aliran Pdf dari aliran CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -303,16 +303,16 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Aliran input. |
+| inputStream | Stream | Aliran masukan. |
 | options | ImportOptions | Opsi impor. |
 | outputStream | Stream | Aliran PDF keluaran. |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Eksepsi ini dilemparkan ketika sebuah file tidak valid. |
-| ArgumentNullException | Aliran input atau keluaran adalah null. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Pengecualian dilempar ketika file tidak valid. |
+| ArgumentNullException | Aliran masukan atau keluaran bernilai null. |
 
 ### Lihat Juga
 
@@ -320,3 +320,5 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ToolResources.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ToolResources. Mengambil atau mengatur sumber daya alat interpreter kode
+title: "ToolResources.CodeInterpreter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ToolResources. Mendapatkan atau mengatur sumber daya alat penafsir kode."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/toolresources/codeinterpreter/
 ---
-## Properti ToolResources.CodeInterpreter
+## ToolResources.CodeInterpreter property
 
-Mengambil atau mengatur sumber daya alat interpreter kode.
+Mendapatkan atau mengatur sumber daya alat code_interpreter.
 
 ```csharp
 public CodeInterpreter CodeInterpreter { get; set; }
@@ -16,7 +16,9 @@ public CodeInterpreter CodeInterpreter { get; set; }
 
 ### Lihat Juga
 
-* kelas [CodeInterpreter](../../codeinterpreter/)
-* kelas [ToolResources](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CodeInterpreter](../../codeinterpreter/)
+* class [ToolResources](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

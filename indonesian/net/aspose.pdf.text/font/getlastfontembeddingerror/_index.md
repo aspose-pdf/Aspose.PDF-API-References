@@ -1,25 +1,27 @@
 ---
-title: Font.GetLastFontEmbeddingError
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Font. Tujuan dari metode ini adalah untuk mengembalikan deskripsi kesalahan jika upaya untuk menyematkan font gagal. Jika tidak ada kasus kesalahan, ia mengembalikan string kosong
+title: "Font.GetLastFontEmbeddingError"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Font. Tujuan metode ini adalah mengembalikan deskripsi kesalahan jika upaya menyematkan font gagal. Jika tidak ada kesalahan, metode ini mengembalikan string kosong."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.text/font/getlastfontembeddingerror/
 ---
-## Metode Font.GetLastFontEmbeddingError
+## Font.GetLastFontEmbeddingError method
 
-Tujuan dari metode ini - untuk mengembalikan deskripsi kesalahan jika upaya untuk menyematkan font gagal. Jika tidak ada kasus kesalahan, ia mengembalikan string kosong.
+Tujuan metode ini - mengembalikan deskripsi kesalahan jika upaya menyematkan font gagal. Jika tidak ada kasus kesalahan, akan mengembalikan string kosong.
 
 ```csharp
 public string GetLastFontEmbeddingError()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Deskripsi kesalahan
 
 ### Lihat Juga
 
-* kelas [Font](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

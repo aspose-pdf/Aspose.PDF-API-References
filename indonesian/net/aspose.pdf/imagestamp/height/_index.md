@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageStamp. Mendapatkan atau mengatur tinggi gambar. Mengatur gambar ini memungkinkan untuk mengubah ukuran gambar secara vertikal
+title: "ImageStamp.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageStamp. Mengambil atau mengatur tinggi gambar. Mengatur gambar ini memungkinkan skala gambar secara vertikal"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/imagestamp/height/
 ---
-## Properti ImageStamp.Height
+## ImageStamp.Height property
 
-Mendapatkan atau mengatur tinggi gambar. Mengatur gambar ini memungkinkan untuk mengubah ukuran gambar secara vertikal.
+Mendapatkan atau mengatur tinggi gambar. Mengatur gambar ini memungkinkan penskalaan gambar secara vertikal.
 
 ```csharp
 public override double Height { get; set; }
@@ -16,6 +16,8 @@ public override double Height { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

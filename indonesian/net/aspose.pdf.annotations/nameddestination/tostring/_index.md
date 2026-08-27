@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode NamedDestination. Mengonversi tujuan menjadi nilai string
+title: "NamedDestination.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode NamedDestination. Mengonversi tujuan menjadi nilai string"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/nameddestination/tostring/
 ---
-## Metode NamedDestination.ToString
+## NamedDestination.ToString method
 
 Mengonversi tujuan menjadi nilai string.
 
@@ -14,12 +14,14 @@ Mengonversi tujuan menjadi nilai string.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai string.
 
 ### Lihat Juga
 
-* kelas [NamedDestination](../)
+* class [NamedDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

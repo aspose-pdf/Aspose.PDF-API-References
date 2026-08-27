@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Role
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut peran pemilik atribut PrintField
+title: "AttributeKey.Role"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. Role atribut PrintField atribut pemilik"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.logicalstructure/attributekey/role/
 ---
-## Bidang AttributeKey.Role
+## AttributeKey.Role field
 
-Atribut peran (pemilik atribut PrintField).
+Atribut Role (pemilik atribut PrintField).
 
 ```csharp
 public static readonly AttributeKey Role;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Role;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

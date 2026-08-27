@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentState. Mendapatkan atau mengatur skala horizontal dari teks yang diwakili oleh objek TextFragment
+title: "TextFragmentState.HorizontalScaling"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentState. Mendapatkan atau mengatur skala horizontal teks yang direpresentasikan oleh objek TextFragment"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.text/textfragmentstate/horizontalscaling/
 ---
-## Properti TextFragmentState.HorizontalScaling
+## TextFragmentState.HorizontalScaling property
 
-Mendapatkan atau mengatur skala horizontal dari teks, yang diwakili oleh objek [`TextFragment`](../../textfragment/).
+Mendapatkan atau mengatur skala horizontal teks, yang direpresentasikan oleh objek [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override float HorizontalScaling { get; set; }
@@ -16,6 +16,8 @@ public override float HorizontalScaling { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

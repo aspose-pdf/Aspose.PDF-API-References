@@ -1,14 +1,14 @@
 ---
-title: WebHyperlink.Url
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WebHyperlink. Mendapatkan atau mengatur url web
+title: "WebHyperlink.Url"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "WebHyperlink property. Mendapatkan atau mengatur URL web"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/webhyperlink/url/
 ---
-## Properti WebHyperlink.Url
+## WebHyperlink.Url property
 
-Mendapatkan atau mengatur url web.
+Mendapatkan atau mengatur URL web.
 
 ```csharp
 public string Url { get; set; }
@@ -16,6 +16,8 @@ public string Url { get; set; }
 
 ### Lihat Juga
 
-* kelas [WebHyperlink](../)
+* class [WebHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

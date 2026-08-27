@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentCollection. Mengembalikan enumerator untuk seluruh koleksi
+title: "TextFragmentCollection.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentCollection. Mengembalikan enumerator untuk seluruh koleksi"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.text/textfragmentcollection/getenumerator/
 ---
-## Metode TextFragmentCollection.GetEnumerator
+## TextFragmentCollection.GetEnumerator method
 
 Mengembalikan enumerator untuk seluruh koleksi.
 
@@ -14,13 +14,15 @@ Mengembalikan enumerator untuk seluruh koleksi.
 public IEnumerator<TextFragment> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek enumerator.
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../textfragment/)
-* kelas [TextFragmentCollection](../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

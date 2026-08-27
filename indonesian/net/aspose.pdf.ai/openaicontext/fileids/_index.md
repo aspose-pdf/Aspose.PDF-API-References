@@ -1,12 +1,12 @@
 ---
-title: OpenAIContext.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIContext. Mendapatkan atau mengatur daftar ID File
+title: "OpenAIContext.FileIds"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIContext properti. Mendapatkan atau mengatur daftar File IDs"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/openaicontext/fileids/
 ---
-## Properti OpenAIContext.FileIds
+## OpenAIContext.FileIds property
 
 Mendapatkan atau mengatur daftar ID File.
 
@@ -16,6 +16,8 @@ public List<string> FileIds { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIContext](../)
+* class [OpenAIContext](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

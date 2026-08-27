@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.EncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SoundSampleData. Mengambil atau mengatur format pengkodean
+title: "SoundSampleData.EncodingFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SoundSampleData. Mendapatkan atau mengatur format enkoding"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/soundsampledata/encodingformat/
 ---
-## Properti SoundSampleData.EncodingFormat
+## SoundSampleData.EncodingFormat property
 
-Mengambil atau mengatur format pengkodean.
+Mendapatkan atau mengatur format enkoding.
 
 ```csharp
 public SoundSampleDataEncodingFormat EncodingFormat { get; set; }
@@ -20,3 +20,5 @@ public SoundSampleDataEncodingFormat EncodingFormat { get; set; }
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

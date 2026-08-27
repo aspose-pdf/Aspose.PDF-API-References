@@ -1,12 +1,12 @@
 ---
-title: JavaScriptCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode JavaScriptCollection. Menghapus JavaScript berdasarkan namanya
+title: "JavaScriptCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode JavaScriptCollection. Menghapus JavaScript berdasarkan namanya"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/javascriptcollection/remove/
 ---
-## Metode JavaScriptCollection.Remove
+## JavaScriptCollection.Remove method
 
 Menghapus JavaScript berdasarkan namanya.
 
@@ -16,14 +16,16 @@ public bool Remove(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Nilai kunci. |
+| kunci | String | Nilai kunci. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True - jika javascript dihapus; jika tidak, false.
+True - jika JavaScript dihapus; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [JavaScriptCollection](../)
+* class [JavaScriptCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

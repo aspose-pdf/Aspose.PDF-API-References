@@ -1,14 +1,14 @@
 ---
-title: TextDevice.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextDevice. Mengambil atau mengatur opsi ekstraksi teks
+title: "TextDevice.ExtractionOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextDevice. Mendapatkan atau mengatur opsi ekstraksi teks"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.devices/textdevice/extractionoptions/
 ---
-## Properti TextDevice.OpsiEkstraksi
+## TextDevice.ExtractionOptions property
 
-Mengambil atau mengatur opsi ekstraksi teks.
+Mendapatkan atau mengatur opsi ekstraksi teks.
 
 ```csharp
 public TextExtractionOptions ExtractionOptions { get; set; }
@@ -22,19 +22,21 @@ Contoh ini menunjukkan cara mengekstrak teks dalam urutan mentah.
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// buat perangkat teks
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-// convert the page and save text to the stream
+// konversi halaman dan simpan teks ke aliran
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// gunakan teks yang diekstrak
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 
 ### Lihat Juga
 
-* kelas [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* kelas [TextDevice](../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

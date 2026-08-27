@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.AddMarginsPct
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Mengubah ukuran konten halaman dan menambahkan margin yang ditentukan. Margin ditentukan dalam persentase dari ukuran halaman awal
+title: "PdfFileEditor.AddMarginsPct"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Mengubah ukuran konten halaman dan menambahkan margin yang ditentukan. Margin ditentukan dalam persentase ukuran halaman awal."
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-Mengubah ukuran konten halaman dan menambahkan margin yang ditentukan. Margin ditentukan dalam persentase dari ukuran halaman awal.
+Mengubah ukuran konten halaman dan menambahkan margin yang ditentukan. Margin ditentukan dalam persentase ukuran halaman awal.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -17,17 +17,17 @@ public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Stream | Stream yang berisi dokumen sumber. |
+| sumber | Stream | Aliran yang berisi dokumen sumber. |
 | destination | Stream | Stream tempat dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
-| leftMargin | Double | Margin kiri dalam persentase dari ukuran halaman awal. |
-| rightMargin | Double | Margin kanan dalam persentase dari ukuran halaman awal. |
-| topMargin | Double | Margin atas dalam persentase dari ukuran halaman awal. |
-| bottomMargin | Double | Margin bawah dalam persentase dari ukuran halaman awal. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| leftMargin | Double | Margin kiri dalam persentase ukuran halaman awal. |
+| rightMargin | Double | Margin kanan dalam persentase ukuran halaman awal. |
+| topMargin | Double | Margin atas dalam persentase ukuran halaman awal. |
+| bottomMargin | Double | Margin bawah dalam persentase ukuran halaman awal. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika tindakan berhasil dilakukan.
+true jika aksi berhasil dilakukan.
 
 ## Contoh
 
@@ -36,22 +36,22 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //process pages 1, 2, 3
+    //proses halaman 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //margin kiri adalah 15% dari lebar halaman
     15, 
-    //right margin is 10% of page width
+    //margin kanan adalah 10% dari lebar halaman
     10, 
-    //top margin is 20% of page width
+    //margin atas adalah 20% dari lebar halaman
     20, 
-    //bottom margin is 5% of page width
+    //margin bawah adalah 5% dari lebar halaman
     5);
     dest.Close();
 ```
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -59,7 +59,7 @@ fileEditor.AddMarginsPct(src, dest,
 
 ## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
 
-Mengubah ukuran konten halaman dan menambahkan margin yang ditentukan. Margin ditentukan dalam persentase dari ukuran halaman awal.
+Mengubah ukuran konten halaman dan menambahkan margin yang ditentukan. Margin ditentukan dalam persentase ukuran halaman awal.
 
 ```csharp
 public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
@@ -68,37 +68,39 @@ public bool AddMarginsPct(string source, string destination, int[] pages, double
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | String | Jalur ke dokumen sumber. |
+| sumber | String | Jalur ke dokumen sumber. |
 | destination | String | Jalur tempat dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
-| leftMargin | Double | Margin kiri dalam persentase dari ukuran halaman awal. |
-| rightMargin | Double | Margin kanan dalam persentase dari ukuran halaman awal. |
-| topMargin | Double | Margin atas dalam persentase dari ukuran halaman awal. |
-| bottomMargin | Double | Margin bawah dalam persentase dari ukuran halaman awal. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| leftMargin | Double | Margin kiri dalam persentase ukuran halaman awal. |
+| rightMargin | Double | Margin kanan dalam persentase ukuran halaman awal. |
+| topMargin | Double | Margin atas dalam persentase ukuran halaman awal. |
+| bottomMargin | Double | Margin bawah dalam persentase ukuran halaman awal. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika pengubahan ukuran berhasil
+true jika perubahan ukuran berhasil
 
 ## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //proses halaman 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //margin kiri adalah 15% dari lebar halaman
     15, 
-    //right margin is 10% of page width
+    //margin kanan adalah 10% dari lebar halaman
     10, 
-    //top margin is 20% of page width
+    //margin atas adalah 20% dari lebar halaman
     20, 
-    //bottom margin is 5% of page width
+    //margin bawah adalah 5% dari lebar halaman
     5);
 ```
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

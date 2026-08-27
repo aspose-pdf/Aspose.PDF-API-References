@@ -1,12 +1,12 @@
 ---
-title: AIClientBase.PollingIntervalSeconds
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AIClientBase. Mendapatkan atau mengatur interval polling dalam detik
+title: "AIClientBase.PollingIntervalSeconds"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AIClientBase. Mendapatkan atau mengatur interval polling dalam detik."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/aiclientbase/pollingintervalseconds/
 ---
-## Properti AIClientBase.PollingIntervalSeconds
+## AIClientBase.PollingIntervalSeconds property
 
 Mendapatkan atau mengatur interval polling dalam detik.
 
@@ -16,6 +16,8 @@ public int PollingIntervalSeconds { get; set; }
 
 ### Lihat Juga
 
-* kelas [AIClientBase](../)
+* class [AIClientBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

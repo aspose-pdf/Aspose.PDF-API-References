@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Mengatur token penyelesaian maksimum untuk opsi kopilot deskripsi gambar
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions metode. Mengatur token penyelesaian maksimum untuk opsi copilot deskripsi gambar"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxcompletiontokens/
 ---
-## Metode OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens
+## OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens method
 
-Mengatur token penyelesaian maksimum untuk opsi kopilot deskripsi gambar.
+Mengatur token penyelesaian maksimum untuk opsi copilot deskripsi gambar.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxComp
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | Token penyelesaian maksimum yang akan diatur. |
+| maxCompletionTokens | Nullable`1 | Token penyelesaian maksimum yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Artifact. Mendapatkan teks dari artefak
+title: "Artifact.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Artifact. Mendapatkan teks artefak."
 type: docs
 weight: 190
 url: /id/net/aspose.pdf/artifact/text/
 ---
-## Properti Artifact.Text
+## Artifact.Text property
 
-Mendapatkan teks dari artefak.
+Mendapatkan teks artefak.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

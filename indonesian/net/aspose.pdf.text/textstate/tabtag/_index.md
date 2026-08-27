@@ -1,25 +1,27 @@
 ---
-title: TextState.TabTag
-second_title: Aspose.PDF for .NET API Reference
-description: Field TextState. Anda dapat menempatkan tag ini dalam teks untuk menyatakan tabulasi
+title: "TextState.TabTag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextState. Anda dapat menempatkan tag ini dalam teks untuk mendeklarasikan tabulasi."
 type: docs
-weight: 210
+weight: 180
 url: /id/net/aspose.pdf.text/textstate/tabtag/
 ---
-## Field TextState.TabTag
+## TextState.TabTag property
 
 Anda dapat menempatkan tag ini dalam teks untuk menyatakan tabulasi.
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
 ## Catatan
 
-Ini hanya berpengaruh jika digunakan bersama dengan [`TabStops`](../../tabstops/).
+Ini hanya berpengaruh bila dipasangkan dengan [`TabStops`](../../tabstops/).
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

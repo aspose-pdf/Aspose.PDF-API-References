@@ -1,12 +1,12 @@
 ---
-title: Html.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Html. Memulai pemrosesan Html dengan parameter yang ditentukan
+title: "Html.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Html. Memulai pemrosesan Html dengan parameter yang ditentukan."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/html/process/
 ---
-## Metode Html.Process
+## Html.Process method
 
 Memulai pemrosesan [`Html`](../) dengan parameter yang ditentukan.
 
@@ -18,14 +18,16 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- | --- |
 | options | IPluginOptions | Objek opsi yang berisi instruksi untuk [`Html`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek [`ResultContainer`](../../resultcontainer/) yang berisi hasil dari operasi.
+Sebuah objek [`ResultContainer`](../../resultcontainer/) yang berisi hasil operasi.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [Html](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

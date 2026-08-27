@@ -1,14 +1,14 @@
 ---
-title: Annotation.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mengambil atau mengatur teks dalam konten pesan yang perlu diganti
+title: "Annotation.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur teks dalam konten pesan yang perlu diganti"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/annotation/text/
 ---
-## Properti Annotation.Text
+## Annotation.Text property
 
-Mengambil atau mengatur teks dalam konten pesan yang perlu diganti.
+Mendapatkan atau mengatur teks dalam konten pesan yang perlu diganti.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

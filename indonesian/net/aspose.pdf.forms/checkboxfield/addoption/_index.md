@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CheckboxField. Menambahkan checkbox baru ke dalam grup checkbox di mana paling banyak satu dari checkbox dapat dicentang pada satu waktu. Checkbox baru ditambahkan ke bagian bawah grup
+title: "CheckboxField.AddOption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CheckboxField. Menambahkan kotak centang baru ke dalam grup kotak centang di mana paling banyak satu kotak centang dapat dipilih pada satu waktu. Kotak centang baru ditambahkan ke bagian bawah grup"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/checkboxfield/addoption/
 ---
 ## AddOption(string) {#addoption}
 
-Menambahkan checkbox baru ke dalam grup checkbox, di mana paling banyak satu dari checkbox dapat dicentang pada satu waktu. Checkbox baru ditambahkan ke bagian bawah grup.
+Menambahkan kotak centang baru ke dalam grup kotak centang, di mana paling banyak satu kotak centang dapat dicentang pada satu waktu. Kotak centang baru ditambahkan ke bagian bawah grup.
 
 ```csharp
 public void AddOption(string optionName)
@@ -16,11 +16,11 @@ public void AddOption(string optionName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| optionName | String | Nilai dari opsi yang diwakili oleh checkbox yang ditambahkan. |
+| optionName | String | Nilai opsi yang diwakili oleh kotak centang yang ditambahkan. |
 
 ### Lihat Juga
 
-* kelas [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void AddOption(string optionName)
 
 ## AddOption(string, Rectangle) {#addoption_1}
 
-Menambahkan checkbox baru ke dalam grup checkbox, di mana paling banyak satu dari checkbox dapat dicentang pada satu waktu.
+Menambahkan kotak centang baru ke dalam grup kotak centang, di mana paling banyak satu kotak centang dapat dicentang pada satu waktu.
 
 ```csharp
 public void AddOption(string optionName, Rectangle rect)
@@ -36,13 +36,13 @@ public void AddOption(string optionName, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| optionName | String | Nilai dari opsi yang diwakili oleh checkbox yang ditambahkan. |
-| rect | Rectangle | Persegi panjang dari checkbox yang ditambahkan. |
+| optionName | String | Nilai opsi yang diwakili oleh kotak centang yang ditambahkan. |
+| rect | Rectangle | Rectangle dari kotak centang yang ditambahkan. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [CheckboxField](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -50,7 +50,7 @@ public void AddOption(string optionName, Rectangle rect)
 
 ## AddOption(string, int, Rectangle) {#addoption_2}
 
-Menambahkan checkbox baru ke dalam grup checkbox, di mana paling banyak satu dari checkbox dapat dicentang pada satu waktu.
+Menambahkan kotak centang baru ke dalam grup kotak centang, di mana paling banyak satu kotak centang dapat dicentang pada satu waktu.
 
 ```csharp
 public void AddOption(string optionName, int page, Rectangle rect)
@@ -58,13 +58,15 @@ public void AddOption(string optionName, int page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| optionName | String | Nilai dari opsi yang diwakili oleh checkbox yang ditambahkan. |
-| page | Int32 | Nomor halaman di mana checkbox yang ditambahkan harus ditempatkan. |
-| rect | Rectangle | Persegi panjang dari checkbox yang ditambahkan di halaman. |
+| optionName | String | Nilai opsi yang diwakili oleh kotak centang yang ditambahkan. |
+| halaman | Int32 | Nomor halaman tempat kotak centang yang ditambahkan harus ditempatkan. |
+| rect | Rectangle | Rectangle dari kotak centang yang ditambahkan pada halaman. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [CheckboxField](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

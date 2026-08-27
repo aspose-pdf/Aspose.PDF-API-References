@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.MultiSelect
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ChoiceField. Mendapatkan atau mengatur bendera multiselection
+title: "ChoiceField.MultiSelect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ChoiceField. Mendapatkan atau mengatur flag multiselection"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/choicefield/multiselect/
 ---
-## Properti ChoiceField.MultiSelect
+## ChoiceField.MultiSelect property
 
-Mendapatkan atau mengatur bendera multiselection.
+Mendapatkan atau mengatur flag multiseleksi.
 
 ```csharp
 public bool MultiSelect { get; set; }
@@ -16,6 +16,8 @@ public bool MultiSelect { get; set; }
 
 ### Lihat Juga
 
-* kelas [ChoiceField](../)
+* class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

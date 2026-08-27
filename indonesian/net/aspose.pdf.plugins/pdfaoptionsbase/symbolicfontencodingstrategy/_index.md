@@ -1,30 +1,32 @@
 ---
-title: PdfAOptionsBase.SymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAOptionsBase. Mendapatkan atau mengatur strategi untuk pengkodean font simbolik saat mengonversi ke format PDF/A
+title: "PdfAOptionsBase.SymbolicFontEncodingStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfAOptionsBase. Mendapatkan atau mengatur strategi untuk mengenkode font simbolik saat mengonversi ke format PDF/A."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.plugins/pdfaoptionsbase/symbolicfontencodingstrategy/
 ---
-## Properti PdfAOptionsBase.SymbolicFontEncodingStrategy
+## PdfAOptionsBase.SymbolicFontEncodingStrategy property
 
-Mendapatkan atau mengatur strategi untuk pengkodean font simbolik saat mengonversi ke format PDF/A.
+Mendapatkan atau mengatur strategi untuk mengenkode font simbolik saat mengonversi ke format PDF/A.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Strategi pengkodean font simbolik.
+Strategi enkoding font simbolik.
 
 ## Catatan
 
-Properti ini memungkinkan Anda untuk mengontrol subtable CMap mana yang akan disalin ke dalam dokumen hasil dalam kasus ketika font simbolik TrueType asli dalam dokumen sumber mengandung beberapa subtabel CMap.
+Properti ini memungkinkan Anda mengontrol subtable CMap mana yang akan disalin ke dokumen hasil dalam kasus ketika font simbolik TrueType asli di dokumen sumber berisi beberapa subtable CMap.
 
 ### Lihat Juga
 
-* kelas [PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
-* kelas [PdfAOptionsBase](../)
+* class [PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
+* class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

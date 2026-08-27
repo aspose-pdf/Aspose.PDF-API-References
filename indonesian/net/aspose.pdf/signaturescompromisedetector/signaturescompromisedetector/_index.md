@@ -1,12 +1,12 @@
 ---
-title: SignaturesCompromiseDetector.SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SignaturesCompromiseDetector. Membuat sebuah instance dari kelas SignaturesCompromiseDetector
+title: "SignaturesCompromiseDetector.SignaturesCompromiseDetector"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SignaturesCompromiseDetector. Membuat sebuah instance dari kelas SignaturesCompromiseDetector"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/signaturescompromisedetector/signaturescompromisedetector/
 ---
-## Konstruktor SignaturesCompromiseDetector
+## SignaturesCompromiseDetector constructor
 
 Membuat sebuah instance dari kelas [`SignaturesCompromiseDetector`](../).
 
@@ -20,7 +20,9 @@ public SignaturesCompromiseDetector(Document document)
 
 ### Lihat Juga
 
-* kelas [Document](../../document/)
-* kelas [SignaturesCompromiseDetector](../)
+* class [Document](../../document/)
+* class [SignaturesCompromiseDetector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

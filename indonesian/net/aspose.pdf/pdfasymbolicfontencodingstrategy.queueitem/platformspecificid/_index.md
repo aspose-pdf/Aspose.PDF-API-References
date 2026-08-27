@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti QueueItem. Pengidentifikasi encoding spesifik platform untuk tabel encoding
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti QueueItem. Pengidentifikasi enkoding platformspesifik untuk subtable enkoding"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid/
 ---
-## Properti PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId
+## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId property
 
-Pengidentifikasi encoding spesifik platform untuk tabel encoding
+Pengidentifikasi enkoding spesifik platform untuk subtabel enkoding
 
 ```csharp
 public ushort PlatformSpecificId { get; set; }
@@ -16,6 +16,8 @@ public ushort PlatformSpecificId { get; set; }
 
 ### Lihat Juga
 
-* kelas [QueueItem](../)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

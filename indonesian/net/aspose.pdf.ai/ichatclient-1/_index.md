@@ -1,12 +1,12 @@
 ---
-title: Interface IChatClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.IChatClient1TOptions. Mewakili antarmuka untuk klien obrolan dengan opsi tertentu
+title: "Antarmuka IChatClientTOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.IChatClient1TOptions. Mewakili antarmuka untuk klien obrolan dengan opsi spesifik"
 type: docs
-weight: 460
+weight: 480
 url: /id/net/aspose.pdf.ai/ichatclient-1/
 ---
-## IChatClient&lt;TOptions&gt; antarmuka
+## IChatClient&lt;TOptions&gt; interface
 
 Mewakili antarmuka untuk klien obrolan dengan opsi tertentu.
 
@@ -16,7 +16,7 @@ public interface IChatClient<in TOptions> : IAIClient
 
 | Parameter | Deskripsi |
 | --- | --- |
-| TOptions | Tipe opsi untuk klien obrolan. |
+| TOptions | The type opsi untuk klien obrolan. |
 
 ## Metode
 
@@ -26,6 +26,8 @@ public interface IChatClient<in TOptions> : IAIClient
 
 ### Lihat Juga
 
-* antarmuka [IAIClient](../iaiclient/)
+* interface [IAIClient](../iaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

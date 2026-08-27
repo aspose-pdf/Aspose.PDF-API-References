@@ -1,20 +1,20 @@
 ---
-title: FileSaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileSaveTarget. Jenis file target simpan
+title: "FileSaveTarget.SaveTarget"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileSaveTarget properti. Tipe file target penyimpanan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/filesavetarget/savetarget/
 ---
-## Properti FileSaveTarget.SaveTarget
+## FileSaveTarget.SaveTarget property
 
-Jenis target simpan (file).
+Tipe target penyimpanan (file).
 
 ```csharp
 public DataType SaveTarget { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah objek [`DataType`](../../datatype/) yang mewakili data keluaran.
 
@@ -24,3 +24,5 @@ Sebuah objek [`DataType`](../../datatype/) yang mewakili data keluaran.
 * class [FileSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

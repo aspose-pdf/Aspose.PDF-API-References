@@ -1,7 +1,7 @@
 ---
-title: TextStamp.TextStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextStamp. Menginisialisasi instance baru dari kelas TextStamp
+title: "TextStamp.TextStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextStamp. Menginisialisasi instance baru dari kelas TextStamp"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/textstamp/textstamp/
@@ -16,11 +16,11 @@ public TextStamp(string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai cap. |
+| nilai | String | Nilai stamp. |
 
 ### Lihat Juga
 
-* kelas [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,13 +36,13 @@ public TextStamp(string value, TextState textState)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai cap. |
-| textState | TextState | Status teks cap. |
+| nilai | String | Nilai stamp. |
+| textState | TextState | Status teks stamp. |
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [TextStamp](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,11 +58,13 @@ public TextStamp(FormattedText formattedText)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formattedText | FormattedText | Objek FormattedText yang berisi teks dari cap. |
+| formattedText | FormattedText | Objek FormattedText yang berisi teks stempel. |
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* kelas [TextStamp](../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

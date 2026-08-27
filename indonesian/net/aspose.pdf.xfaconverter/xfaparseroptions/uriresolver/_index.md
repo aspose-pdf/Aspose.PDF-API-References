@@ -1,12 +1,12 @@
 ---
-title: XfaParserOptions.UriResolver
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XfaParserOptions. Mendapatkan atau mengatur resolver URI
+title: "XfaParserOptions.UriResolver"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XfaParserOptions. Mendapatkan atau menetapkan resolver URI"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.xfaconverter/xfaparseroptions/uriresolver/
 ---
-## Properti XfaParserOptions.UriResolver
+## XfaParserOptions.UriResolver property
 
 Mendapatkan atau mengatur resolver URI.
 
@@ -14,13 +14,15 @@ Mendapatkan atau mengatur resolver URI.
 public UriResolver UriResolver { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Resolver URI.
 
 ### Lihat Juga
 
-* kelas [UriResolver](../../../aspose.foundation.uriresolver/uriresolver/)
-* kelas [XfaParserOptions](../)
+* class [UriResolver](../../../aspose.foundation.uriresolver/uriresolver/)
+* class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

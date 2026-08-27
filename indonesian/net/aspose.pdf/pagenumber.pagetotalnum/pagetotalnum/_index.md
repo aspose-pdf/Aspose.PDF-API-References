@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageTotalNum.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: PageTotalNum constructor. The default constructor
+title: "PageNumber.PageTotalNum.PageTotalNum"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageTotalNum constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pagenumber.pagetotalnum/pagetotalnum/
 ---
-## Konstruktor PageNumber.PageTotalNum
+## PageNumber.PageTotalNum constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PageTotalNum()
 
 ### Lihat Juga
 
-* kelas [PageTotalNum](../)
+* class [PageTotalNum](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EOFillStroke.EOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor EOFillStroke. Menginisialisasi operator
+title: "EOFillStroke.EOFillStroke"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor EOFillStroke. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/eofillstroke/eofillstroke/
 ---
-## Konstruktor EOFillStroke
+## EOFillStroke constructor
 
 Menginisialisasi operator.
 
@@ -16,6 +16,8 @@ public EOFillStroke()
 
 ### Lihat Juga
 
-* kelas [EOFillStroke](../)
+* class [EOFillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

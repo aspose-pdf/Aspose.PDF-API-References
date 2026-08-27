@@ -1,14 +1,14 @@
 ---
-title: Artifact.Artifact
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor artefak. Konstruktor artefak dengan tipe dan subtipe yang ditentukan
+title: "Artifact.Artifact"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Artifact constructor. Konstruktor artefak dengan tipe dan subtipe yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/artifact/artifact/
 ---
 ## Artifact(string, string) {#constructor_1}
 
-Konstruktor artefak dengan tipe dan subtipe yang ditentukan
+Konstruktor artifact dengan tipe dan subtipe yang ditentukan
 
 ```csharp
 public Artifact(string type, string subType)
@@ -21,7 +21,7 @@ public Artifact(string type, string subType)
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public Artifact(string type, string subType)
 
 ## Artifact(ArtifactType, ArtifactSubtype) {#constructor}
 
-Konstruktor artefak dengan tipe dan subtipe yang ditentukan
+Konstruktor artifact dengan tipe dan subtipe yang ditentukan
 
 ```csharp
 public Artifact(ArtifactType type, ArtifactSubtype subType)
@@ -38,12 +38,14 @@ public Artifact(ArtifactType type, ArtifactSubtype subType)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | type | ArtifactType | Tipe artefak. |
-| subType | ArtifactSubtype | Subtipe artefak. |
+| subType | ArtifactSubtype | Subtype artefak. |
 
 ### Lihat Juga
 
 * enum [ArtifactType](../../artifact.artifacttype/)
 * enum [ArtifactSubtype](../../artifact.artifactsubtype/)
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

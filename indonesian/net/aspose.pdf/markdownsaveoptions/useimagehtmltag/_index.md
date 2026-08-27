@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.UseImageHtmlTag
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkdownSaveOptions. Mendapatkan dan mengatur izin untuk menggunakan tag img untuk menyisipkan gambar di sebelah kiri dan kanan teks. Dalam hal ini, di penampil markdown, teks akan membungkus gambar.
+title: "MarkdownSaveOptions.UseImageHtmlTag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkdownSaveOptions. Mendapatkan dan mengatur izin penggunaan tag img untuk menyisipkan gambar di kiri dan kanan teks. Dalam hal ini, pada penampil markdown teks akan melilit di sekitar gambar."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/markdownsaveoptions/useimagehtmltag/
 ---
-## Properti MarkdownSaveOptions.UseImageHtmlTag
+## MarkdownSaveOptions.UseImageHtmlTag property
 
-Mendapatkan dan mengatur izin untuk menggunakan tag img untuk menyisipkan gambar di sebelah kiri dan kanan teks. Dalam hal ini, di penampil markdown, teks akan membungkus gambar.
+Mendapatkan dan mengatur izin penggunaan tag img untuk menyisipkan gambar di kiri dan kanan teks. Dalam hal ini, di penampil markdown, teks akan melilit gambar.
 
 ```csharp
 public bool UseImageHtmlTag { get; set; }
@@ -16,6 +16,8 @@ public bool UseImageHtmlTag { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarkdownSaveOptions](../)
+* class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

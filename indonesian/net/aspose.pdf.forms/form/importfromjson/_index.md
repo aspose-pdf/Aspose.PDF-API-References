@@ -1,9 +1,9 @@
 ---
-title: Form.ImportFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengimpor bidang formulir PDF dari format JSON yang disediakan dalam aliran
+title: "Form.ImportFromJson"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengimpor field formulir PDF dari format JSON yang disediakan dalam stream"
 type: docs
-weight: 290
+weight: 310
 url: /id/net/aspose.pdf.forms/form/importfromjson/
 ---
 ## ImportFromJson(Stream) {#importfromjson}
@@ -16,11 +16,11 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Aliran untuk membaca input JSON dari. |
+| stream | Stream | Stream untuk membaca input JSON. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Koleksi dari [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) yang menunjukkan hasil operasi impor untuk setiap bidang formulir.
+Koleksi [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) yang menunjukkan hasil operasi impor untuk setiap field formulir.
 
 ## Contoh
 
@@ -34,8 +34,8 @@ document.Save();
 
 ### Lihat Juga
 
-* kelas [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* kelas [Form](../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -51,11 +51,11 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileName | String | Nama file untuk membaca input JSON dari. |
+| fileName | String | Nama file untuk membaca input JSON. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Koleksi dari [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) yang menunjukkan hasil operasi impor untuk setiap bidang formulir.
+Koleksi [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) yang menunjukkan hasil operasi impor untuk setiap field formulir.
 
 ## Contoh
 
@@ -68,7 +68,9 @@ document.Save();
 
 ### Lihat Juga
 
-* kelas [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* kelas [Form](../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

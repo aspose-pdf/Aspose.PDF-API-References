@@ -1,12 +1,12 @@
 ---
-title: Class AssistantListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.AssistantListResponse. Mewakili respons yang berisi daftar respons asisten
+title: "Kelas AssistantListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.AssistantListResponse. Mewakili respons yang berisi daftar respons asisten"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.ai/assistantlistresponse/
 ---
-## Kelas AssistantListResponse
+## AssistantListResponse class
 
 Mewakili respons yang berisi daftar respons asisten.
 
@@ -38,7 +38,9 @@ public class AssistantListResponse : ListDataResponse<List<AssistantResponse>>
 
 ### Lihat Juga
 
-* kelas [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* kelas [AssistantResponse](../assistantresponse/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [AssistantResponse](../assistantresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

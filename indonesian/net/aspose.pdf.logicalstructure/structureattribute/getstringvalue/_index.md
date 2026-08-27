@@ -1,25 +1,27 @@
 ---
-title: StructureAttribute.GetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mendapatkan Value String
+title: "StructureAttribute.GetStringValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureAttribute metode. Mengambil Nilai String"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 ---
-## Metode StructureAttribute.GetStringValue
+## StructureAttribute.GetStringValue method
 
-Mendapatkan Value String.
+Mendapatkan String Nilai.
 
 ```csharp
 public string GetStringValue()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Value String.
+Nilai String.
 
 ### Lihat Juga
 
-* kelas [StructureAttribute](../)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.RemoveDocumentOpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menghapus aksi buka dari dokumen. Operasi ini berguna saat menggabungkan beberapa dokumen yang menggunakan aksi 'GoTo' eksplisit saat startup
+title: "PdfContentEditor.RemoveDocumentOpenAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Menghapus aksi buka dari dokumen. Operasi ini berguna saat menggabungkan beberapa dokumen yang menggunakan aksi GoTo eksplisit saat startup."
 type: docs
 weight: 430
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction/
 ---
-## Metode PdfContentEditor.RemoveDocumentOpenAction
+## PdfContentEditor.RemoveDocumentOpenAction method
 
-Menghapus aksi buka dari dokumen. Operasi ini berguna saat menggabungkan beberapa dokumen yang menggunakan aksi 'GoTo' eksplisit saat startup.
+Menghapus aksi buka dari dokumen. Operasi ini berguna saat menggabungkan beberapa dokumen yang menggunakan aksi 'GoTo' eksplisit saat memulai.
 
 ```csharp
 public void RemoveDocumentOpenAction()
@@ -25,6 +25,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

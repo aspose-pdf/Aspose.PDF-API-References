@@ -1,14 +1,14 @@
 ---
-title: Class DocumentFactory
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DocumentFactory. Kelas yang memungkinkan untuk membuat/memuat dokumen dari berbagai jenis
+title: "Class DocumentFactory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.DocumentFactory class. Kelas yang memungkinkan untuk membuat/memuat dokumen dari berbagai tipe."
 type: docs
-weight: 3860
+weight: 3980
 url: /id/net/aspose.pdf/documentfactory/
 ---
-## Kelas DocumentFactory
+## DocumentFactory class
 
-Kelas yang memungkinkan untuk membuat/memuat dokumen dari berbagai jenis.
+Kelas yang memungkinkan untuk membuat/memuat dokumen dengan berbagai tipe.
 
 ```csharp
 public class DocumentFactory
@@ -24,13 +24,15 @@ public class DocumentFactory
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument)() | Membuat dokumen kosong. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_1)(Stream) | Memuat dokumen dari aliran. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_4)(string) | Memuat dokumen dari file. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_2)(Stream, LoadOptions) | Membuat dokumen. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | Memuat dokumen yang dilindungi kata sandi dari aliran. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument)() | Buat dokumen kosong. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_1)(Stream) | Muat dokumen dari aliran. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_4)(string) | Muat dokumen dari file. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_2)(Stream, LoadOptions) | Buat dokumen. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | Muat dokumen yang dilindungi kata sandi dari aliran. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

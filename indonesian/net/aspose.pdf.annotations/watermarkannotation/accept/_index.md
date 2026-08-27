@@ -1,12 +1,12 @@
 ---
-title: WatermarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode WatermarkAnnotation. Terapkan pengunjung untuk anotasi
+title: "WatermarkAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode WatermarkAnnotation. Menerapkan visitor untuk anotasi"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/watermarkannotation/accept/
 ---
-## Metode WatermarkAnnotation.Accept
+## WatermarkAnnotation.Accept method
 
 Terapkan pengunjung untuk anotasi.
 
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [WatermarkAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

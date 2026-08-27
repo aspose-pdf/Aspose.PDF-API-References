@@ -1,7 +1,7 @@
 ---
-title: PageNumberStamp.PageNumberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PageNumberStamp. Menginisialisasi instance baru dari kelas PageNumberStamp
+title: "PageNumberStamp.PageNumberStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PageNumberStamp. Menginisialisasi instance baru dari kelas PageNumberStamp"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pagenumberstamp/pagenumberstamp/
@@ -20,7 +20,7 @@ public PageNumberStamp(string format)
 
 ### Lihat Juga
 
-* kelas [PageNumberStamp](../)
+* class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ public PageNumberStamp()
 
 ### Lihat Juga
 
-* kelas [PageNumberStamp](../)
+* class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public PageNumberStamp()
 
 ## PageNumberStamp(FormattedText) {#constructor_1}
 
-Membuat PageNumberStamp dengan teks terformat.
+Membuat PageNumberStamp dengan teks yang diformat.
 
 ```csharp
 public PageNumberStamp(FormattedText formattedText)
@@ -56,7 +56,9 @@ public PageNumberStamp(FormattedText formattedText)
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* kelas [PageNumberStamp](../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

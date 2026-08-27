@@ -1,12 +1,12 @@
 ---
-title: Class Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Paragraphs. Kelas ini mewakili koleksi paragraf
+title: "Kelas Paragraphs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Paragraphs class. Kelas ini mewakili koleksi paragraf"
 type: docs
-weight: 8280
+weight: 8420
 url: /id/net/aspose.pdf/paragraphs/
 ---
-## Kelas Paragraf
+## Paragraphs class
 
 Kelas ini mewakili koleksi paragraf.
 
@@ -24,25 +24,27 @@ public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Count](../../aspose.pdf/paragraphs/count/) { get; } | Mendapatkan jumlah paragraf. |
-| [Item](../../aspose.pdf/paragraphs/item/) { get; set; } | Mendapatkan atau menetapkan paragraf dari atau ke koleksi. |
+| [Count](../../aspose.pdf/paragraphs/count/) { get; } | Dapatkan jumlah paragraf. |
+| [Item](../../aspose.pdf/paragraphs/item/) { get; set; } | Mendapatkan atau mengatur paragraf dari atau ke koleksi. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Add](../../aspose.pdf/paragraphs/add/)(BaseParagraph) | Menambahkan paragraf ke koleksi. |
-| [Clear](../../aspose.pdf/paragraphs/clear/)() | Menghapus semua paragraf. |
-| [Clone](../../aspose.pdf/paragraphs/clone/)() | Mengkloning objek baru [`Clone`](./clone/). |
+| [Add](../../aspose.pdf/paragraphs/add/)(BaseParagraph) | Tambahkan paragraf ke koleksi. |
+| [Clear](../../aspose.pdf/paragraphs/clear/)() | Bersihkan paragraf. |
+| [Clone](../../aspose.pdf/paragraphs/clone/)() | Mengkloning objek [`Clone`](./clone/) baru. |
 | [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator/)() | Mendapatkan enumerator. |
-| [GetRange](../../aspose.pdf/paragraphs/getrange/)(int, int) | Menghapus rentang paragraf. |
-| [Insert](../../aspose.pdf/paragraphs/insert/)(int, BaseParagraph) | Menyisipkan paragraf ke koleksi. |
-| [InsertRange](../../aspose.pdf/paragraphs/insertrange/)(int, IEnumerable&lt;BaseParagraph&gt;) | Menyisipkan elemen dari koleksi ke dalam daftar pada indeks yang ditentukan. |
-| [Remove](../../aspose.pdf/paragraphs/remove/)(BaseParagraph) | Menghapus paragraf dari koleksi. |
-| [RemoveRange](../../aspose.pdf/paragraphs/removerange/)(int, int) | Menghapus rentang paragraf. |
+| [GetRange](../../aspose.pdf/paragraphs/getrange/)(int, int) | Hapus rentang paragraf. |
+| [Insert](../../aspose.pdf/paragraphs/insert/)(int, BaseParagraph) | Sisipkan paragraf ke koleksi. |
+| [InsertRange](../../aspose.pdf/paragraphs/insertrange/)(int, IEnumerable&lt;BaseParagraph&gt;) | Menyisipkan elemen-elemen koleksi ke dalam daftar pada indeks yang ditentukan. |
+| [Remove](../../aspose.pdf/paragraphs/remove/)(BaseParagraph) | Hapus paragraf dari koleksi. |
+| [RemoveRange](../../aspose.pdf/paragraphs/removerange/)(int, int) | Hapus rentang paragraf. |
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../baseparagraph/)
+* class [BaseParagraph](../baseparagraph/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

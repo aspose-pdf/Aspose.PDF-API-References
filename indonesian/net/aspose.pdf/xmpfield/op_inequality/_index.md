@@ -1,12 +1,12 @@
 ---
-title: XmpField.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpField. Mengimplementasikan operator
+title: "XmpField.op_Inequality"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpField. Mengimplementasikan operator"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/xmpfield/op_inequality/
 ---
-## Operator Ketidaksamaan XmpField
+## XmpField Inequality operator
 
 Mengimplementasikan operator !=.
 
@@ -16,15 +16,17 @@ public static bool operator !=(XmpField field1, XmpField field2)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field1 | XmpField | Field1. |
-| field2 | XmpField | Field2. |
+| field1 | XmpField | field1 tersebut. |
+| field2 | XmpField | field2 tersebut. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Hasil dari operator.
+Hasil operator.
 
 ### Lihat Juga
 
-* kelas [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

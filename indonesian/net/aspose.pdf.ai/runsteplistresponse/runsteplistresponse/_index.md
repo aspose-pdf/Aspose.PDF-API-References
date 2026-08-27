@@ -1,12 +1,12 @@
 ---
-title: RunStepListResponse.RunStepListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor RunStepListResponse. Konstruktor default
+title: "RunStepListResponse.RunStepListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor RunStepListResponse. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/runsteplistresponse/runsteplistresponse/
 ---
-## Konstruktor RunStepListResponse
+## RunStepListResponse constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public RunStepListResponse()
 
 ### Lihat Juga
 
-* kelas [RunStepListResponse](../)
+* class [RunStepListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

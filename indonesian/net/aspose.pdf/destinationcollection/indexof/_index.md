@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DestinationCollection. Mengembalikan indeks tujuan dalam koleksi
+title: "DestinationCollection.IndexOf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DestinationCollection. Mengembalikan indeks tujuan dalam koleksi."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/destinationcollection/indexof/
 ---
-## Metode DestinationCollection.IndexOf
+## DestinationCollection.IndexOf method
 
 Mengembalikan indeks tujuan dalam koleksi.
 
@@ -16,14 +16,16 @@ public int IndexOf(KeyValuePair<string, object> value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | KeyValuePair`2 | Nilai yang dicari. |
+| nilai | KeyValuePair`2 | Nilai yang dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Indeks tujuan dalam koleksi.
 
 ### Lihat Juga
 
-* kelas [DestinationCollection](../)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

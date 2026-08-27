@@ -1,12 +1,12 @@
 ---
-title: Error.ErrorType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Error. Mendapatkan atau mengatur tipe kesalahan
+title: "Error.ErrorType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Error. Mendapatkan atau mengatur tipe error"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/error/errortype/
 ---
-## Properti Error.ErrorType
+## Error.ErrorType property
 
 Mendapatkan atau mengatur tipe kesalahan.
 
@@ -16,6 +16,8 @@ public string ErrorType { get; set; }
 
 ### Lihat Juga
 
-* kelas [Error](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengembalikan flag dari field
+title: "Form.GetFieldFlag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengembalikan flag bidang"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/form/getfieldflag/
 ---
-## Metode Form.GetFieldFlag
+## Form.GetFieldFlag method
 
-Mengembalikan flag dari field.
+Mengembalikan flag bidang.
 
 ```csharp
 public PropertyFlag GetFieldFlag(string fieldName)
@@ -16,9 +16,9 @@ public PropertyFlag GetFieldFlag(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field |
+| fieldName | String | Nama bidang |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Flag properti (ReadOnly/ Required/NoExport
 
@@ -38,3 +38,5 @@ if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

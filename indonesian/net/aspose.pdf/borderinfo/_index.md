@@ -1,12 +1,12 @@
 ---
-title: Class BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.BorderInfo. Kelas ini mewakili batas untuk elemen grafis
+title: "Kelas BorderInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "kelas Aspose.Pdf.BorderInfo. Kelas ini mewakili batas untuk elemen grafis"
 type: docs
-weight: 2900
+weight: 3010
 url: /id/net/aspose.pdf/borderinfo/
 ---
-## Kelas BorderInfo
+## BorderInfo class
 
 Kelas ini mewakili batas untuk elemen grafis.
 
@@ -29,11 +29,11 @@ public sealed class BorderInfo : ICloneable
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Bottom](../../aspose.pdf/borderinfo/bottom/) { get; set; } | Mendapatkan atau menetapkan objek yang menunjukkan bagian bawah batas. |
-| [Left](../../aspose.pdf/borderinfo/left/) { get; set; } | Mendapatkan atau menetapkan objek yang menunjukkan sisi kiri batas. |
-| [Right](../../aspose.pdf/borderinfo/right/) { get; set; } | Mendapatkan atau menetapkan objek yang menunjukkan sisi kanan batas. |
-| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Mendapatkan atau menetapkan radius batas yang membulat |
-| [Top](../../aspose.pdf/borderinfo/top/) { get; set; } | Mendapatkan atau menetapkan objek yang menunjukkan batas atas. |
+| [Bottom](../../aspose.pdf/borderinfo/bottom/) { get; set; } | Mendapatkan atau mengatur objek yang menunjukkan bagian bawah batas. |
+| [Left](../../aspose.pdf/borderinfo/left/) { get; set; } | Mendapatkan atau mengatur objek yang menunjukkan sisi kiri batas. |
+| [Right](../../aspose.pdf/borderinfo/right/) { get; set; } | Mendapatkan atau mengatur objek yang menunjukkan sisi kanan batas. |
+| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Mendapatkan atau mengatur radius batas melengkung |
+| [Top](../../aspose.pdf/borderinfo/top/) { get; set; } | Mendapatkan atau mengatur objek yang menunjukkan batas atas. |
 
 ## Metode
 
@@ -45,3 +45,5 @@ public sealed class BorderInfo : ICloneable
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

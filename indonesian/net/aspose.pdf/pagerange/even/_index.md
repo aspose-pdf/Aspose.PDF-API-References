@@ -1,14 +1,14 @@
 ---
-title: PageRange.Even
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageRange. Mengambil atau mengatur pengaturan untuk halaman genap
+title: "PageRange.Even"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageRange. Mendapatkan atau mengatur pengaturan untuk halaman genap"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pagerange/even/
 ---
-## Properti PageRange.Even
+## PageRange.Even property
 
-Mengambil atau mengatur pengaturan untuk halaman genap.
+Mendapatkan atau mengatur pengaturan untuk halaman genap.
 
 ```csharp
 public byte Even { get; set; }
@@ -16,6 +16,8 @@ public byte Even { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageRange](../)
+* class [PageRange](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.ReplaceImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Mengganti gambar yang ditentukan pada halaman yang ditentukan dari dokumen PDF dengan gambar lain
+title: "PdfContentEditor.ReplaceImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Mengganti gambar yang ditentukan pada halaman yang ditentukan dari dokumen PDF dengan gambar lain"
 type: docs
 weight: 440
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/replaceimage/
 ---
-## Metode PdfContentEditor.ReplaceImage
+## PdfContentEditor.ReplaceImage method
 
 Mengganti gambar yang ditentukan pada halaman yang ditentukan dari dokumen PDF dengan gambar lain.
 
@@ -16,9 +16,9 @@ public void ReplaceImage(int pageNumber, int index, string imageFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Nomor halaman di mana gambar diganti. |
+| pageNumber | Int32 | Jumlah halaman tempat gambar diganti. |
 | index | Int32 | Indeks objek gambar yang harus diganti. |
-| imageFile | String | File gambar yang akan digunakan untuk mengganti. |
+| imageFile | String | File gambar akan digunakan untuk penggantian. |
 
 ## Contoh
 
@@ -31,6 +31,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

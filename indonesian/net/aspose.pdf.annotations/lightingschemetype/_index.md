@@ -1,14 +1,14 @@
 ---
-title: Enum LightingSchemeType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum LightingSchemeType Aspose.Pdf.Annotations.LightingSchemeType. Enum LightingSchemeType sekumpulan jenis skema pencahayaan
+title: "Enum LightingSchemeType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Annotations.LightingSchemeType. Enum LightingSchemeType kumpulan tipe skema pencahayaan"
 type: docs
-weight: 1970
+weight: 2060
 url: /id/net/aspose.pdf.annotations/lightingschemetype/
 ---
-## Enumerasi LightingSchemeType
+## LightingSchemeType enumeration
 
-Enum LightingSchemeType: sekumpulan jenis skema pencahayaan.
+Enum LightingSchemeType: sekumpulan tipe skema pencahayaan.
 
 ```csharp
 public enum LightingSchemeType
@@ -35,3 +35,5 @@ public enum LightingSchemeType
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

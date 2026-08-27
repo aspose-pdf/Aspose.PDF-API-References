@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mengatur Nilai Nomor
+title: "StructureAttribute.SetNumberValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureAttribute metode. Mengatur Nilai Number"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/setnumbervalue/
 ---
-## Metode StructureAttribute.SetNumberValue
+## StructureAttribute.SetNumberValue method
 
-Mengatur Nilai Nomor.
+Mengatur Nomor Nilai.
 
 ```csharp
 public void SetNumberValue(double number)
@@ -16,10 +16,12 @@ public void SetNumberValue(double number)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| number | Double | Nilai Nomor. |
+| angka | Double | Nilai Number. |
 
 ### Lihat Juga
 
-* kelas [StructureAttribute](../)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

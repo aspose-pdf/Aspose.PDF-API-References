@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Language
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureElement. Mendapatkan atau mengatur bahasa untuk elemen struktur
+title: "StructureElement.Language"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureElement property. Mendapatkan atau menetapkan bahasa untuk elemen struktur."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.logicalstructure/structureelement/language/
 ---
-## Properti StructureElement.Language
+## StructureElement.Language property
 
 Mendapatkan atau mengatur bahasa untuk elemen struktur.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur bahasa untuk elemen struktur.
 public string Language { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Bahasa dari elemen struktur.
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

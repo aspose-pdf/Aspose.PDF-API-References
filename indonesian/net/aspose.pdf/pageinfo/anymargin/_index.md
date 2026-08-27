@@ -1,14 +1,14 @@
 ---
-title: PageInfo.AnyMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageInfo. Mengambil atau mengatur margin halaman untuk halaman mana pun kecuali yang pertama
+title: "PageInfo.AnyMargin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageInfo property. Mendapatkan atau mengatur margin halaman untuk semua halaman kecuali yang pertama"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pageinfo/anymargin/
 ---
-## Properti PageInfo.AnyMargin
+## PageInfo.AnyMargin property
 
-Mengambil atau mengatur margin halaman untuk halaman mana pun kecuali yang pertama.
+Mendapatkan atau mengatur margin halaman untuk setiap halaman kecuali yang pertama.
 
 ```csharp
 public MarginInfo AnyMargin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo AnyMargin { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../../margininfo/)
-* kelas [PageInfo](../)
+* class [MarginInfo](../../margininfo/)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

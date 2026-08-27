@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ResizeContentsPct
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Mengubah ukuran konten halaman dokumen. Mengurangi konten halaman dan menambahkan margin. Ukuran konten baru ditentukan dalam persentase
+title: "PdfFileEditor.ResizeContentsPct"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileEditor method. Mengubah ukuran konten halaman dokumen. Mengecilkan konten halaman dan menambahkan margin. Ukuran konten baru ditentukan dalam persentase."
 type: docs
 weight: 330
 url: /id/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/
 ---
 ## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
 
-Mengubah ukuran konten halaman dokumen. Mengurangi konten halaman dan menambahkan margin. Ukuran konten baru ditentukan dalam persentase.
+Mengubah ukuran konten halaman dokumen. Memperkecil konten halaman dan menambahkan margin. Ukuran konten baru ditentukan dalam persen.
 
 ```csharp
 public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -17,13 +17,13 @@ public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, do
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Stream | Stream yang berisi dokumen sumber. |
+| sumber | Stream | Aliran yang berisi dokumen sumber. |
 | destination | Stream | Stream tempat dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
 | newWidth | Double | Lebar baru konten halaman dalam persentase. |
 | newHeight | Double | Tinggi baru konten halaman dalam persentase. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika berhasil diubah ukurannya.
 
@@ -34,19 +34,19 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizePct(src, dest, 
-//resize all pages of document
+//ubah ukuran semua halaman dokumen
 null, 
-//new contents width = 60% of initial size
+//lebar konten baru = 60% dari ukuran awal
 60, 
-//new contents height = 60% of initial size
+//tinggi konten baru = 60% dari ukuran awal
 60);
-// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
-// The same for top and bottom margins.
+// Sisa area halaman akan kosong (margin halaman). Ukuran margin kiri dan kanan adalah (100% - 60%) / 2 = 20%
+// Hal yang sama untuk margin atas dan bawah.
 ```
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,7 +54,7 @@ null,
 
 ## ResizeContentsPct(string, string, int[], double, double) {#resizecontentspct_1}
 
-Mengubah ukuran konten halaman dokumen. Mengurangi konten halaman dan menambahkan margin. Ukuran konten baru ditentukan dalam persentase.
+Mengubah ukuran konten halaman dokumen. Memperkecil konten halaman dan menambahkan margin. Ukuran konten baru ditentukan dalam persen.
 
 ```csharp
 public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, 
@@ -63,33 +63,35 @@ public bool ResizeContentsPct(string source, string destination, int[] pages, do
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | String | Jalur ke dokumen sumber. |
+| sumber | String | Jalur ke dokumen sumber. |
 | destination | String | Jalur tempat dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
 | newWidth | Double | Lebar baru konten halaman dalam persentase. |
 | newHeight | Double | Tinggi baru konten halaman dalam persentase. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika pengubahan ukuran berhasil.
+true jika perubahan ukuran berhasil.
 
 ## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizePct("input.pdf", "output.pdf",
-//resize all pages of document
+//ubah ukuran semua halaman dokumen
 null, 
-//new contents width = 60% of initial size
+//lebar konten baru = 60% dari ukuran awal
 60, 
-//new contents height = 60% of initial size
+//tinggi konten baru = 60% dari ukuran awal
 60);
-// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
-// The same for top and bottom margins.
+// Sisa area halaman akan kosong (margin halaman). Ukuran margin kiri dan kanan adalah (100% - 60%) / 2 = 20%
+// Hal yang sama untuk margin atas dan bawah.
 ```
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

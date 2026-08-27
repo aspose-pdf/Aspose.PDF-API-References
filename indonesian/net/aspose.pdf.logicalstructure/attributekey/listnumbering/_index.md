@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.ListNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut ListNumbering pemilik atribut List
+title: "AttributeKey.ListNumbering"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. ListNumbering atribut List atribut pemilik"
 type: docs
 weight: 210
 url: /id/net/aspose.pdf.logicalstructure/attributekey/listnumbering/
 ---
-## Bidang AttributeKey.ListNumbering
+## AttributeKey.ListNumbering field
 
 Atribut ListNumbering (pemilik atribut List).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey ListNumbering;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

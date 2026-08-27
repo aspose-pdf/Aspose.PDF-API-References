@@ -1,12 +1,12 @@
 ---
-title: SetGlyphsPositionShowText.SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetGlyphsPositionShowText. Konstruktor untuk operator TJ
+title: "SetGlyphsPositionShowText.SetGlyphsPositionShowText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetGlyphsPositionShowText. Konstruktor untuk operator TJ"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setglyphspositionshowtext/setglyphspositionshowtext/
 ---
-## Konstruktor SetGlyphsPositionShowText
+## SetGlyphsPositionShowText constructor
 
 Konstruktor untuk operator TJ.
 
@@ -20,7 +20,9 @@ public SetGlyphsPositionShowText(IEnumerable<GlyphPosition> glyphPositions)
 
 ### Lihat Juga
 
-* kelas [GlyphPosition](../../glyphposition/)
-* kelas [SetGlyphsPositionShowText](../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

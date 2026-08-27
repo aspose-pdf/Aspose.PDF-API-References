@@ -1,17 +1,19 @@
 ---
-title: Aspose.Pdf.Generator
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Generator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: 
 type: docs
 weight: 170
-url: /net/aspose.pdf.generator/
+url: /id/net/aspose.pdf.generator/
 ---
+
+
 ## Kelas
 
 | Kelas | Deskripsi |
 | --- | --- |
 | [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Mewakili BoundsCheckableList - pembungkus di sekitar System.Collections.Generic.List. |
-| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Mewakili pengecualian yang terjadi ketika suatu item tidak muat dalam dimensi kontainer yang diberikan. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Mewakili pengecualian yang terjadi ketika sebuah item tidak muat dalam dimensi kontainer yang diberikan. |
 ## Antarmuka
 
 | Antarmuka | Deskripsi |
@@ -21,4 +23,6 @@ url: /net/aspose.pdf.generator/
 
 | Enumerasi | Deskripsi |
 | --- | --- |
-| [BoundsCheckMode](./boundscheckmode/) | Menentukan perilaku untuk pemeriksaan batas saat menambahkan item ke koleksi. |
+| [BoundsCheckMode](./boundscheckmode/) | Menentukan perilaku untuk pemeriksaan batas saat menambahkan item ke dalam koleksi. |
+
+

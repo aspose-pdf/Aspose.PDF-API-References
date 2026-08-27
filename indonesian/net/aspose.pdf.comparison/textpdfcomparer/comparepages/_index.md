@@ -1,12 +1,12 @@
 ---
-title: TextPdfComparer.ComparePages
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextPdfComparer. Membandingkan halaman dokumen
+title: "TextPdfComparer.ComparePages"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextPdfComparer. Membandingkan halaman dokumen"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.comparison/textpdfcomparer/comparepages/
 ---
-## Metode TextPdfComparer.ComparePages
+## TextPdfComparer.ComparePages method
 
 Membandingkan halaman dokumen.
 
@@ -16,19 +16,21 @@ public static List<DiffOperation> ComparePages(Page page1, Page page2, Compariso
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page1 | Page | Halaman pertama. |
-| page2 | Page | Halaman kedua. |
+| page1 | Halaman | Halaman pertama. |
+| page2 | Halaman | Halaman kedua. |
 | options | ComparisonOptions | Opsi perbandingan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Daftar perubahan.
 
 ### Lihat Juga
 
-* kelas [DiffOperation](../../diffoperation/)
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [ComparisonOptions](../../comparisonoptions/)
-* kelas [TextPdfComparer](../)
+* class [DiffOperation](../../diffoperation/)
+* class [Page](../../../aspose.pdf/page/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

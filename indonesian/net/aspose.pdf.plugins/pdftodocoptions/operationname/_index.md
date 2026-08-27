@@ -1,12 +1,12 @@
 ---
-title: PdfToDocOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfToDocOptions. Mendapatkan nama operasi
+title: "PdfToDocOptions.OperationName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfToDocOptions. Mengambil nama operasi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/pdftodocoptions/operationname/
 ---
-## Properti PdfToDocOptions.OperationName
+## PdfToDocOptions.OperationName property
 
 Mendapatkan nama operasi.
 
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### Lihat Juga
 
-* kelas [PdfToDocOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfToDocOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

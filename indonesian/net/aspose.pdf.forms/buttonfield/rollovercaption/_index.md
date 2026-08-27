@@ -1,14 +1,14 @@
 ---
-title: ButtonField.RolloverCaption
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ButtonField. Mengambil atau mengatur keterangan rollover tombol yang akan ditampilkan ketika pengguna menggerakkan kursor ke area aktifnya tanpa menekan tombol mouse
+title: "ButtonField.RolloverCaption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ButtonField. Mendapatkan atau mengatur keterangan rollover tombol yang akan ditampilkan ketika pengguna menggerakkan kursor ke area aktifnya tanpa menekan tombol mouse"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/buttonfield/rollovercaption/
 ---
-## Properti ButtonField.RolloverCaption
+## ButtonField.RolloverCaption property
 
-Mengambil atau mengatur keterangan rollover tombol yang akan ditampilkan ketika pengguna menggerakkan kursor ke area aktifnya tanpa menekan tombol mouse.
+Mendapatkan atau mengatur caption rollover tombol yang akan ditampilkan ketika pengguna menggerakkan kursor ke area aktifnya tanpa menekan tombol mouse.
 
 ```csharp
 public string RolloverCaption { get; set; }
@@ -16,6 +16,8 @@ public string RolloverCaption { get; set; }
 
 ### Lihat Juga
 
-* kelas [ButtonField](../)
+* class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

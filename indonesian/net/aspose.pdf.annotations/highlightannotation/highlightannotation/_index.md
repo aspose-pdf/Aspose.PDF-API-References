@@ -1,14 +1,14 @@
 ---
-title: HighlightAnnotation.HighlightAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HighlightAnnotation. Membuat anotasi Highlight baru di halaman yang ditentukan
+title: "HighlightAnnotation.HighlightAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HighlightAnnotation konstruktor. Membuat Highlight Annotation baru pada halaman yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/highlightannotation/highlightannotation/
 ---
-## Konstruktor HighlightAnnotation
+## HighlightAnnotation constructor
 
-Membuat anotasi Highlight baru di halaman yang ditentukan.
+Membuat anotasi Sorotan baru pada halaman yang ditentukan.
 
 ```csharp
 public HighlightAnnotation(Page page, Rectangle rect)
@@ -16,8 +16,8 @@ public HighlightAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, yang mendefinisikan lokasi anotasi di halaman. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
 
 ### Lihat Juga
 
@@ -26,3 +26,5 @@ public HighlightAnnotation(Page page, Rectangle rect)
 * class [HighlightAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

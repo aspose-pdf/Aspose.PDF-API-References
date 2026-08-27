@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Memulai pemrosesan PdfExtractor dengan parameter yang ditentukan
+title: "PdfExtractor.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Memulai pemrosesan PdfExtractor dengan parameter yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdfextractor/process/
 ---
-## Metode PdfExtractor.Process
+## PdfExtractor.Process method
 
 Memulai pemrosesan PdfExtractor dengan parameter yang ditentukan.
 
@@ -18,14 +18,16 @@ public ResultContainer Process(IPluginOptions pdfExtractorOptions)
 | --- | --- | --- |
 | pdfExtractorOptions | IPluginOptions | Objek opsi yang berisi instruksi untuk PdfExtractor. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek ResultContainer yang berisi hasil ekstraksi.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [PdfExtractor](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

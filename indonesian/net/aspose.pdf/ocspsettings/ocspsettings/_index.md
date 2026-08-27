@@ -1,14 +1,14 @@
 ---
-title: OcspSettings.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor OcspSettings. Menginisialisasi instance baru dari kelas OcspSettings
+title: "OcspSettings.OcspSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor OcspSettings. Menginisialisasi sebuah instance baru dari kelas OcspSettings"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/ocspsettings/ocspsettings/
 ---
-## Konstruktor OcspSettings
+## OcspSettings constructor
 
-Menginisialisasi instance baru dari kelas [`OcspSettings`](../).
+Menginisialisasi sebuah instance baru dari kelas [`OcspSettings`](../).
 
 ```csharp
 public OcspSettings(string serverUrl)
@@ -20,6 +20,8 @@ public OcspSettings(string serverUrl)
 
 ### Lihat Juga
 
-* kelas [OcspSettings](../)
+* class [OcspSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

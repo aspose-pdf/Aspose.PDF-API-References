@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.A
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Matrix3D. Anggota dari matriks transformasi
+title: "Matrix3D.A"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Matrix3D. Anggota A dari matriks transformasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/matrix3d/a/
 ---
-## Properti Matrix3D.A
+## Matrix3D.A property
 
-Anggota dari matriks transformasi.
+Anggota A dari Matrix transformasi.
 
 ```csharp
 public double A { get; set; }
@@ -16,6 +16,8 @@ public double A { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix3D](../)
+* class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

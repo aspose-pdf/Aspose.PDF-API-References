@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HeaderFooterSettings. Mengambil atau mengatur pengaturan footer
+title: "HeaderFooterSettings.Footer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HeaderFooterSettings property. Mendapatkan atau mengatur pengaturan footer"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/headerfootersettings/footer/
 ---
-## Properti HeaderFooterSettings.Footer
+## HeaderFooterSettings.Footer property
 
-Mengambil atau mengatur pengaturan footer.
+Mendapatkan atau mengatur pengaturan footer.
 
 ```csharp
 public Footer Footer { get; set; }
@@ -16,7 +16,9 @@ public Footer Footer { get; set; }
 
 ### Lihat Juga
 
-* kelas [Footer](../../footer/)
-* kelas [HeaderFooterSettings](../)
+* class [Footer](../../footer/)
+* class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

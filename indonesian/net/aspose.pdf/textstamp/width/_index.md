@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Lebar yang diinginkan dari cap di halaman
+title: "TextStamp.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Lebar yang diinginkan untuk cap pada halaman"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/textstamp/width/
 ---
-## Properti TextStamp.Width
+## TextStamp.Width property
 
-Lebar yang diinginkan dari cap di halaman.
+Lebar yang diinginkan untuk stempel pada halaman.
 
 ```csharp
 public override double Width { get; set; }
@@ -16,6 +16,8 @@ public override double Width { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ISummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ISummaryCopilot. Secara asinkron mendapatkan dokumen PDF ringkasan
+title: "ISummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ISummaryCopilot. Secara asinkron mendapatkan dokumen PDF ringkasan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/
 ---
 ## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync_1}
 
-Secara asinkron mendapatkan dokumen PDF ringkasan.
+Mendapatkan dokumen PDF ringkasan secara asynchronous.
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationToken = default)
@@ -18,22 +18,22 @@ public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationTok
 | --- | --- | --- |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah tugas yang mewakili operasi asinkron dengan dokumen ringkasan.
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* antarmuka [ISummaryCopilot](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Document](../../../aspose.pdf/document/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync}
 
-Secara asinkron mendapatkan dokumen PDF ringkasan untuk informasi halaman yang ditentukan.
+Mendapatkan dokumen PDF ringkasan untuk informasi halaman yang ditentukan secara asynchronous.
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo, 
@@ -45,14 +45,16 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo,
 | pageInfo | PageInfo | Informasi halaman untuk menghasilkan dokumen ringkasan. |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah tugas yang mewakili operasi asinkron dengan dokumen ringkasan.
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PageInfo](../../../aspose.pdf/pageinfo/)
-* antarmuka [ISummaryCopilot](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

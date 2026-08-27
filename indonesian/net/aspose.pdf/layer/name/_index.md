@@ -1,14 +1,14 @@
 ---
-title: Layer.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Layer. Mendapatkan nama layer
+title: "Layer.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Layer. Mendapatkan nama layer."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/layer/name/
 ---
-## Properti Layer.Name
+## Layer.Name property
 
-Mendapatkan nama layer.
+Mendapatkan nama lapisan.
 
 ```csharp
 public string Name { get; }
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

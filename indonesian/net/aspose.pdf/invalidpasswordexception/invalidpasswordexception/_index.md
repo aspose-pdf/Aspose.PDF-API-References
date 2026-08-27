@@ -1,7 +1,7 @@
 ---
-title: InvalidPasswordException.InvalidPasswordException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor InvalidPasswordException. Menginisialisasi instance baru dari kelas InvalidPasswordException
+title: "InvalidPasswordException.InvalidPasswordException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor InvalidPasswordException. Menginisialisasi instance baru dari kelas InvalidPasswordException"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/invalidpasswordexception/invalidpasswordexception/
@@ -20,7 +20,7 @@ public InvalidPasswordException(string message)
 
 ### Lihat Juga
 
-* kelas [InvalidPasswordException](../)
+* class [InvalidPasswordException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public InvalidPasswordException(string message)
 
 ## InvalidPasswordException(string, Exception) {#constructor_2}
 
-Menginisialisasi instance baru dari kelas [`InvalidPasswordException`](../) dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
+Menginisialisasi instance baru dari kelas [`InvalidPasswordException`](../) dengan pesan error yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
 
 ```csharp
 public InvalidPasswordException(string message, Exception innerException)
@@ -36,12 +36,12 @@ public InvalidPasswordException(string message, Exception innerException)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan alasan pengecualian. |
+| message | String | Pesan error yang menjelaskan alasan pengecualian. |
 | innerException | Exception | Pengecualian yang menjadi penyebab pengecualian saat ini, atau referensi null (Nothing dalam Visual Basic) jika tidak ada pengecualian dalam yang ditentukan. |
 
 ### Lihat Juga
 
-* kelas [InvalidPasswordException](../)
+* class [InvalidPasswordException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -61,6 +61,8 @@ public InvalidPasswordException(Exception innerException)
 
 ### Lihat Juga
 
-* kelas [InvalidPasswordException](../)
+* class [InvalidPasswordException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

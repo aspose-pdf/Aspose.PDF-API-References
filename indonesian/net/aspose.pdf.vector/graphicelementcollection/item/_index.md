@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti KoleksiElemenGrafis. Mendapatkan elemen GraphicElement pada indeks yang ditentukan
+title: "GraphicElementCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphicElementCollection. Mendapatkan elemen GraphicElement pada indeks yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.vector/graphicelementcollection/item/
 ---
-## Indeks KoleksiElemenGrafis
+## GraphicElementCollection indexer
 
 Mendapatkan elemen [`GraphicElement`](../../graphicelement/) pada indeks yang ditentukan.
 
@@ -18,13 +18,15 @@ public GraphicElement this[int index] { get; }
 | --- | --- |
 | index | Indeks dalam koleksi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 [`GraphicElement`](../../graphicelement/).
 
 ### Lihat Juga
 
-* kelas [GraphicElement](../../graphicelement/)
-* kelas [GraphicElementCollection](../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

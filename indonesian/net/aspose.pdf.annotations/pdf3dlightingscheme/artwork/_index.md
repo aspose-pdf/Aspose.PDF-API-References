@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.Artwork
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PDF3DLightingScheme. Skema pencahayaan Artwork
+title: "PDF3DLightingScheme.Artwork"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PDF3DLightingScheme. Skema pencahayaan Artwork"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/pdf3dlightingscheme/artwork/
 ---
-## Bidang PDF3DLightingScheme.Artwork
+## PDF3DLightingScheme.Artwork field
 
 Skema pencahayaan "Artwork".
 
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Artwork;
 
 ### Lihat Juga
 
-* kelas [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

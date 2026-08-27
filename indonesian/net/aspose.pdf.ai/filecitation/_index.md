@@ -1,14 +1,14 @@
 ---
-title: Class FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.FileCitation. Mewakili kutipan file
+title: "Kelas FileCitation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.FileCitation. Mewakili kutipan file."
 type: docs
-weight: 360
+weight: 380
 url: /id/net/aspose.pdf.ai/filecitation/
 ---
-## Kelas FileCitation
+## FileCitation class
 
-Mewakili kutipan file.
+Mewakili sitasi file.
 
 ```csharp
 public class FileCitation
@@ -24,9 +24,11 @@ public class FileCitation
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | Mendapatkan atau mengatur ID dari File tertentu yang menjadi sumber kutipan. |
+| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | Mendapatkan atau mengatur ID File spesifik yang menjadi sumber kutipan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

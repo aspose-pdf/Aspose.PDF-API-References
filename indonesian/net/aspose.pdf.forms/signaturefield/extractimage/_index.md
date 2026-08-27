@@ -1,24 +1,24 @@
 ---
-title: SignatureField.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SignatureField. Mengekstrak gambar tanda tangan sebagai aliran yang dikodekan jpeg
+title: "SignatureField.ExtractImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SignatureField. Mengekstrak gambar tanda tangan sebagai aliran terkode jpeg."
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.pdf.forms/signaturefield/extractimage/
 ---
 ## ExtractImage() {#extractimage}
 
-Mengekstrak gambar tanda tangan sebagai aliran yang dikodekan jpeg.
+Mengekstrak gambar tanda tangan sebagai aliran terenkode jpeg.
 
 ```csharp
 public Stream ExtractImage()
 ```
 
-### Return Value
+### Nilai Kembalian
 
-Jika gambar berhasil ditemukan maka mengembalikan objek aliran yang dikodekan jpeg; jika tidak, null.
+Jika gambar berhasil ditemukan maka mengembalikan objek aliran terkode jpeg; jika tidak, null.
 
-### See Also
+### Lihat Juga
 
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -28,22 +28,24 @@ Jika gambar berhasil ditemukan maka mengembalikan objek aliran yang dikodekan jp
 
 ## ExtractImage(ImageFormat) {#extractimage_1}
 
-Mengekstrak gambar tanda tangan sebagai aliran yang dikodekan.
+Mengekstrak gambar tanda tangan sebagai aliran terenkode.
 
 ```csharp
 public Stream ExtractImage(ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| format | ImageFormat | Format gambar untuk pengkodean. |
+| format | ImageFormat | Format gambar untuk enkoding. |
 
-### Return Value
+### Nilai Kembalian
 
-Jika gambar berhasil ditemukan maka mengembalikan objek aliran yang dikodekan; jika tidak, null.
+Jika gambar berhasil ditemukan maka mengembalikan objek encodedstream; jika tidak, null.
 
-### See Also
+### Lihat Juga
 
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ContentsResizeParameters. Mengambil atau mengatur margin bawah pada halaman hasil
+title: "PdfFileEditor.ContentsResizeParameters.BottomMargin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ContentsResizeParameters. Mendapatkan atau mengatur margin bawah pada halaman hasil."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.BottomMargin property
 
-Mengambil atau mengatur margin bawah pada halaman hasil.
+Mendapatkan atau mengatur margin bawah pada halaman hasil.
 
 ```csharp
 public ContentsResizeValue BottomMargin { get; set; }
@@ -20,3 +20,5 @@ public ContentsResizeValue BottomMargin { get; set; }
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

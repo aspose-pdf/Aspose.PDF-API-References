@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultPropertyNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Skema bidang XmpPdfAExtension. URI namespace properti default
+title: "XmpPdfAExtensionSchema.DefaultPropertyNamespaceUri"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XmpPdfAExtensionSchema bidang. Namespace properti default uri"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri/
 ---
-## Bidang XmpPdfAExtensionSchema.DefaultPropertyNamespaceUri
+## XmpPdfAExtensionSchema.DefaultPropertyNamespaceUri field
 
-Uri namespace properti default.
+URI namespace properti default.
 
 ```csharp
 public const string DefaultPropertyNamespaceUri;
@@ -16,6 +16,8 @@ public const string DefaultPropertyNamespaceUri;
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

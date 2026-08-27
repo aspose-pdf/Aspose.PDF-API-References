@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlPageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.HtmlPageLayoutOption. Menentukan bendera yang bersama dengan opsi lain menentukan ukuran dan tata letak halaman
+title: "Enum HtmlPageLayoutOption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.HtmlPageLayoutOption enum. Menentukan flag yang bersama opsi lain menentukan ukuran dan tata letak halaman"
 type: docs
-weight: 5550
+weight: 5680
 url: /id/net/aspose.pdf/htmlpagelayoutoption/
 ---
-## Enumerasi HtmlPageLayoutOption
+## HtmlPageLayoutOption enumeration
 
-Menentukan bendera yang bersama dengan opsi lain menentukan ukuran dan tata letak halaman.
+Menentukan flag yang bersama opsi lain menentukan ukuran dan tata letak halaman.
 
 ```csharp
 public enum HtmlPageLayoutOption
@@ -18,11 +18,13 @@ public enum HtmlPageLayoutOption
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Nilai default yang menunjukkan bahwa HtmlPageLayoutOption tidak akan mempengaruhi ukuran dan tata letak halaman. |
-| FitToWidestContentWidth | `3` | Menunjukkan bahwa lebar halaman ditentukan dari ukuran konten itu sendiri, bukan dari lebar halaman yang ditentukan. |
-| ScaleToPageWidth | `256` | Menunjukkan bahwa konten dokumen akan diskalakan agar sesuai dengan halaman. |
+| None | `0` | Nilai default yang menunjukkan bahwa HtmlPageLayoutOption tidak akan memengaruhi ukuran dan tata letak halaman. |
+| FitToWidestContentWidth | `3` | Menunjukkan bahwa lebar Page ditentukan dari ukuran konten itu sendiri, bukan dari lebar Page yang ditentukan. |
+| ScaleToPageWidth | `256` | Menunjukkan bahwa konten Document akan diskalakan agar sesuai dengan Page. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

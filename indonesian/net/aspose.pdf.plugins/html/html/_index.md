@@ -1,12 +1,12 @@
 ---
-title: Html.Html
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Html. Konstruktor default
+title: "Html.Html"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Html. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/html/html/
 ---
-## Konstruktor Html
+## Html constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Html()
 
 ### Lihat Juga
 
-* kelas [Html](../)
+* class [Html](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

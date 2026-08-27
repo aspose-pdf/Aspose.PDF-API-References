@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XImageCollection. Mendapatkan array nama gambar
+title: "XImageCollection.Names"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XImageCollection. Mengambil array nama gambar"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/ximagecollection/names/
 ---
-## Properti XImageCollection.Names
+## XImageCollection.Names property
 
 Mendapatkan array nama gambar.
 
@@ -16,6 +16,8 @@ public string[] Names { get; }
 
 ### Lihat Juga
 
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

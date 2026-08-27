@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.SourcePage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphicElement. Mendapatkan halaman dari mana elemen grafis diambil
+title: "GraphicElement.SourcePage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphicElement. Mendapatkan halaman tempat elemen grafis diambil"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.vector/graphicelement/sourcepage/
 ---
-## Properti GraphicElement.SourcePage
+## GraphicElement.SourcePage property
 
-Mendapatkan halaman dari mana elemen grafis diambil.
+Mendapatkan halaman dari mana elemen grafis diekstrak.
 
 ```csharp
 public Page SourcePage { get; }
@@ -16,7 +16,9 @@ public Page SourcePage { get; }
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [GraphicElement](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. Mewakili pengaturan perataan horizontal untuk header dan footer
+title: "Kelas HeaderFooterSettings.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. Menyatakan pengaturan perataan horizontal untuk header dan footer"
 type: docs
-weight: 5460
+weight: 5580
 url: /id/net/aspose.pdf/headerfootersettings.horizontalalignment/
 ---
-## Kelas HeaderFooterSettings.HorizontalAlignment
+## HeaderFooterSettings.HorizontalAlignment class
 
-Mewakili pengaturan perataan horizontal untuk header dan footer.
+Menyatakan pengaturan perataan horizontal untuk header dan footer.
 
 ```csharp
 public class HorizontalAlignment
@@ -30,6 +30,8 @@ public class HorizontalAlignment
 
 ### Lihat Juga
 
-* kelas [HeaderFooterSettings](../headerfootersettings/)
+* class [HeaderFooterSettings](../headerfootersettings/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

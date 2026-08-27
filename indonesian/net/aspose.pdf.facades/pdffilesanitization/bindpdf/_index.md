@@ -1,7 +1,7 @@
 ---
-title: PdfFileSanitization.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSanitization. Mengikat file Pdf untuk Sanitasi
+title: "PdfFileSanitization.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSanitization. Mengikat file Pdf untuk disanitasi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/pdffilesanitization/bindpdf/
@@ -20,7 +20,7 @@ public override void BindPdf(string inputFile)
 
 ### Lihat Juga
 
-* kelas [PdfFileSanitization](../)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,11 @@ public override void BindPdf(Stream inputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Aliran pdf yang akan diedit. |
+| inputStream | Stream | Stream pdf yang akan diedit. |
 
 ### Lihat Juga
 
-* kelas [PdfFileSanitization](../)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,7 +60,9 @@ public override void BindPdf(Document srcDoc)
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfFileSanitization](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

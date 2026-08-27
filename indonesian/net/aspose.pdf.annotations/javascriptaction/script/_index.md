@@ -1,12 +1,12 @@
 ---
-title: JavascriptAction.Script
-second_title: Aspose.PDF for .NET API Reference
-description: Properti JavascriptAction. Mengambil atau mengatur kode javascript
+title: "JavascriptAction.Script"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti JavascriptAction. Mendapatkan atau mengatur kode javascript"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/javascriptaction/script/
 ---
-## Properti JavascriptAction.Script
+## JavascriptAction.Script property
 
 Mengambil atau mengatur kode javascript.
 
@@ -16,6 +16,8 @@ public string Script { get; set; }
 
 ### Lihat Juga
 
-* kelas [JavascriptAction](../)
+* class [JavascriptAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

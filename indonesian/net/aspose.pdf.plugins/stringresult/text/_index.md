@@ -1,12 +1,12 @@
 ---
-title: StringResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StringResult. Mengembalikan representasi string dari hasil
+title: "StringResult.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StringResult. Mengembalikan representasi string dari hasil"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/stringresult/text/
 ---
-## Properti StringResult.Text
+## StringResult.Text property
 
 Mengembalikan representasi string dari hasil.
 
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### Lihat Juga
 
-* kelas [StringResult](../)
+* class [StringResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

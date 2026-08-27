@@ -1,14 +1,14 @@
 ---
-title: Form.RemoveFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Menghapus penampilan field pada indeks yang ditentukan. Jika hanya satu penampilan anak yang tersisa, metode ini menyematkannya ke dalam field
+title: "Form.RemoveFieldAppearance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Menghapus tampilan bidang pada indeks yang ditentukan. Jika hanya tersisa satu tampilan anak, metode ini menyematkannya ke dalam bidang."
 type: docs
-weight: 310
+weight: 330
 url: /id/net/aspose.pdf.forms/form/removefieldappearance/
 ---
-## Metode Form.RemoveFieldAppearance
+## Form.RemoveFieldAppearance method
 
-Menghapus penampilan field pada indeks yang ditentukan. Jika hanya satu penampilan anak yang tersisa, metode ini menyematkannya ke dalam field.
+Menghapus tampilan bidang pada indeks yang ditentukan. Jika hanya satu tampilan anak yang tersisa, metode menyematkannya ke dalam bidang.
 
 ```csharp
 public void RemoveFieldAppearance(Field field, int appearanceIndex)
@@ -16,12 +16,14 @@ public void RemoveFieldAppearance(Field field, int appearanceIndex)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field | Field | Field dengan penampilan. |
-| appearanceIndex | Int32 | Indeks penampilan. |
+| bidang | Bidang | Bidang dengan tampilan. |
+| appearanceIndex | Int32 | Indeks tampilan. |
 
 ### Lihat Juga
 
-* kelas [Field](../../field/)
-* kelas [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

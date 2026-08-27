@@ -1,14 +1,14 @@
 ---
-title: TextStamp.WordWrap
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Mendefinisikan pembungkus kata. Jika properti ini diatur ke true dan nilai Width ditentukan, teks akan dipisahkan menjadi beberapa baris untuk sesuai dengan lebar yang ditentukan. Nilai default false
+title: "TextStamp.WordWrap"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Menentukan pembungkus kata. Jika properti ini diatur ke true dan nilai Width ditentukan, teks akan dipisah menjadi beberapa baris agar sesuai dengan lebar yang ditentukan. Nilai default false"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/textstamp/wordwrap/
 ---
-## Properti TextStamp.WordWrap
+## TextStamp.WordWrap property
 
-Mendefinisikan pembungkus kata. Jika properti ini diatur ke true dan nilai Width ditentukan, teks akan dipisahkan menjadi beberapa baris untuk sesuai dengan lebar yang ditentukan. Nilai default: false.
+Menentukan pembungkus kata. Jika properti ini diatur ke true dan nilai Width ditentukan, teks akan dipisah menjadi beberapa baris agar sesuai dengan lebar yang ditentukan. Nilai default: false.
 
 ```csharp
 public bool WordWrap { get; set; }
@@ -16,6 +16,8 @@ public bool WordWrap { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

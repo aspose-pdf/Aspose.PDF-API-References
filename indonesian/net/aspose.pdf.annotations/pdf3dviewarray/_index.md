@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DViewArray class. Class PDF3DViewArray
+title: "Kelas PDF3DViewArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.PDF3DViewArray. Kelas PDF3DViewArray"
 type: docs
-weight: 2250
+weight: 2340
 url: /id/net/aspose.pdf.annotations/pdf3dviewarray/
 ---
-## Kelas PDF3DViewArray
+## PDF3DViewArray class
 
 Kelas PDF3DViewArray.
 
@@ -19,7 +19,7 @@ public class PDF3DViewArray
 | Nama | Deskripsi |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dviewarray/count/) { get; } | Mendapatkan jumlah tampilan. |
-| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | Mendapatkan atau mengatur [`PDF3DView`](../pdf3dview/) untuk array tampilan pada indeks yang ditentukan. |
+| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | Mendapatkan atau mengatur [`PDF3DView`](../pdf3dview/) ke array tampilan pada indeks yang ditentukan. |
 
 ## Metode
 
@@ -33,3 +33,5 @@ public class PDF3DViewArray
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

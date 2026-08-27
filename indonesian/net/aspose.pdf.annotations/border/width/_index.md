@@ -1,12 +1,12 @@
 ---
-title: Border.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Border. Mendapatkan atau mengatur lebar border
+title: "Border.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Border. Mendapatkan atau mengatur lebar border"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/border/width/
 ---
-## Properti Border.Width
+## Border.Width property
 
 Mendapatkan atau mengatur lebar border.
 
@@ -16,6 +16,8 @@ public int Width { get; set; }
 
 ### Lihat Juga
 
-* kelas [Border](../)
+* class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

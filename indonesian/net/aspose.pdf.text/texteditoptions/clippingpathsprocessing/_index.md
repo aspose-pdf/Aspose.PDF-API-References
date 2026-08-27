@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.ClippingPathsProcessing
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextEditOptions. Mendapatkan mode untuk memproses jalur pemotongan dari teks yang diedit
+title: "TextEditOptions.ClippingPathsProcessing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextEditOptions. Mendapatkan mode untuk memproses jalur pemotongan teks yang diedit."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/texteditoptions/clippingpathsprocessing/
 ---
-## Properti TextEditOptions.ClippingPathsProcessing
+## TextEditOptions.ClippingPathsProcessing property
 
-Mendapatkan mode untuk memproses jalur pemotongan dari teks yang diedit.
+Mendapatkan mode untuk memproses jalur pemotongan (clipping path) teks yang disunting.
 
 ```csharp
 public ClippingPathsProcessingMode ClippingPathsProcessing { get; set; }
@@ -20,3 +20,5 @@ public ClippingPathsProcessingMode ClippingPathsProcessing { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageMarkup. Mendapatkan koleksi MarkupParagraph yang ditemukan di halaman
+title: "PageMarkup.Paragraphs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageMarkup. Mendapatkan koleksi MarkupParagraph yang ditemukan pada halaman."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/pagemarkup/paragraphs/
 ---
-## Properti PageMarkup.Paragraphs
+## PageMarkup.Paragraphs property
 
-Mendapatkan koleksi [`MarkupParagraph`](../../markupparagraph/) yang ditemukan di halaman.
+Mendapatkan koleksi [`MarkupParagraph`](../../markupparagraph/) yang ditemukan pada halaman.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }
@@ -16,7 +16,9 @@ public List<MarkupParagraph> Paragraphs { get; }
 
 ### Lihat Juga
 
-* kelas [MarkupParagraph](../../markupparagraph/)
-* kelas [PageMarkup](../)
+* class [MarkupParagraph](../../markupparagraph/)
+* class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

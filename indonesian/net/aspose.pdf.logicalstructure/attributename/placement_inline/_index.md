@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Inline
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Penempatan Atribut Inline Dikemas dalam arah progresi-inline dalam BLSE yang membungkus
+title: "AttributeName.Placement_Inline"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut Placement Inline  Dipadatkan dalam arah inlineprogression di dalam BLSE yang melingkupi"
 type: docs
 weight: 370
 url: /id/net/aspose.pdf.logicalstructure/attributename/placement_inline/
 ---
-## Field AttributeName.Placement_Inline
+## AttributeName.Placement_Inline field
 
-Penempatan Atribut: Inline - Dikemas dalam arah progresi-inline dalam BLSE yang membungkus.
+Atribut Placement: Inline - Dipadatkan dalam arah inline-progresi di dalam BLSE yang membungkus.
 
 ```csharp
 public static readonly AttributeName Placement_Inline;
@@ -19,3 +19,5 @@ public static readonly AttributeName Placement_Inline;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

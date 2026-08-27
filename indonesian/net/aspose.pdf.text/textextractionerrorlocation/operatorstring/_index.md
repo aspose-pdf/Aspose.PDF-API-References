@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.OperatorString
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionErrorLocation. Teks yang menunjukkan operator yang menyebabkan kesalahan ekstraksi teks
+title: "TextExtractionErrorLocation.OperatorString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionErrorLocation. Teks yang menampilkan operator yang menyebabkan kesalahan ekstraksi teks"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/textextractionerrorlocation/operatorstring/
 ---
-## Properti TextExtractionErrorLocation.OperatorString
+## TextExtractionErrorLocation.OperatorString property
 
-Teks yang menunjukkan operator yang menyebabkan kesalahan ekstraksi teks.
+Operator penampilan teks yang menyebabkan kesalahan ekstraksi teks.
 
 ```csharp
 public string OperatorString { get; }
@@ -16,6 +16,8 @@ public string OperatorString { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionErrorLocation](../)
+* class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

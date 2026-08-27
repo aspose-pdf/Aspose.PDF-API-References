@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileResponse. Mendapatkan atau menetapkan tipe objek yang selalu vector_store.file
+title: "VectorStoreFileResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileResponse properti. Mendapatkan atau mengatur tipe objek yang selalu vector_store.file"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/vectorstorefileresponse/object/
 ---
-## Properti VectorStoreFileResponse.Object
+## VectorStoreFileResponse.Object property
 
-Mendapatkan atau menetapkan tipe objek, yang selalu vector_store.file.
+Mendapatkan atau mengatur tipe objek, yang selalu vector_store.file.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

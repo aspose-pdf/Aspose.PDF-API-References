@@ -1,14 +1,14 @@
 ---
-title: Class AutoFiller
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.AutoFiller. Mewakili kelas untuk menerima data dari database atau sumber data lain, mengisinya ke dalam bidang yang dirancang dari template pdf dan akhirnya menghasilkan file atau stream pdf baru. Ini memiliki dua mode input file template input sebagai stream atau file pdf. Ini memiliki empat jenis mode output satu stream yang digabungkan, satu file yang digabungkan, banyak stream kecil, banyak file kecil. Ini dapat menerima data literal yang terkandung dalam System.Data.DataTable
+title: "Kelas AutoFiller"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.AutoFiller. Mewakili kelas untuk menerima data dari basis data atau sumber data lain, mengisi data tersebut ke dalam bidang yang dirancang pada template pdf dan pada akhirnya menghasilkan file pdf atau stream baru. Memiliki dua mode input file template: sebagai stream atau file pdf. Memiliki empat jenis mode output: satu stream gabungan, satu file gabungan, banyak stream kecil, banyak file kecil. Dapat menerima data literal yang terdapat dalam System.Data.DataTable."
 type: docs
-weight: 4150
+weight: 4270
 url: /id/net/aspose.pdf.facades/autofiller/
 ---
-## Kelas AutoFiller
+## AutoFiller class
 
-Mewakili kelas untuk menerima data dari database atau sumber data lain, mengisinya ke dalam bidang yang dirancang dari template pdf dan akhirnya menghasilkan file atau stream pdf baru. Ini memiliki dua mode input file template: input sebagai stream atau file pdf. Ini memiliki empat jenis mode output: satu stream yang digabungkan, satu file yang digabungkan, banyak stream kecil, banyak file kecil. Ini dapat menerima data literal yang terkandung dalam System.Data.DataTable.
+Mewakili kelas untuk menerima data dari basis data atau sumber data lain, mengisi data tersebut ke dalam bidang yang dirancang pada templat pdf dan pada akhirnya menghasilkan file atau aliran pdf baru. Kelas ini memiliki dua mode masukan file templat: masukan sebagai aliran atau file pdf. Ia memiliki empat tipe mode keluaran: satu aliran gabungan, satu file gabungan, banyak aliran kecil, banyak file kecil. Ia dapat menerima data literal yang terdapat dalam System.Data.DataTable.
 
 ```csharp
 public sealed class AutoFiller : ISaveableFacade
@@ -24,21 +24,21 @@ public sealed class AutoFiller : ISaveableFacade
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | Mendapatkan atau mengatur nama file dasar jika banyak file kecil akan dihasilkan. File yang dihasilkan akan seperti "BasicFileName0","BasicFileName1",... Ini bekerja dengan properti lain [`GeneratingPath`](./generatingpath/)GeneratingPath. |
-| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | Mendapatkan atau mengatur Jalur Generasi dari file pdf kecil jika banyak file pdf kecil akan dihasilkan. Ini bekerja dengan properti lain [`BasicFileName`](./basicfilename/)BasicFileName. Salah satu dari empat mode output. |
-| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | Mendapatkan atau mengatur banyak Output Streams. Salah satu dari empat mode output. |
+| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | Mengambil atau mengatur nama file dasar jika banyak file kecil akan dihasilkan. File yang dihasilkan akan berupa \"BasicFileName0\",\"BasicFileName1\",... Ini bekerja dengan properti lain [`GeneratingPath`](./generatingpath/)GeneratingPath. |
+| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | Mengambil atau mengatur Jalur Generasi file pdf kecil jika banyak file pdf kecil akan dihasilkan. Ini bekerja dengan properti lain [`BasicFileName`](./basicfilename/)BasicFileName. Salah satu dari empat mode output. |
+| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | Mengambil atau mengatur banyak Output Streams. Salah satu dari empat mode output. |
 | [UnFlattenFields](../../aspose.pdf.facades/autofiller/unflattenfields/) { set; } | Mengatur bidang yang tidak akan diratakan. Jika properti ini tidak diatur, semua bidang akan diratakan. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf)(Document) | Mengikat dokumen Pdf. |
-| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_1)(Stream) | Mengikat file Pdf. |
-| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_2)(string) | Mengikat file Pdf. |
-| [Close](../../aspose.pdf.facades/autofiller/close/)() | Menutup objek dan output streams. |
-| [Dispose](../../aspose.pdf.facades/autofiller/dispose/)() | Menutup objek dan output streams. |
-| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | Mengimpor data tipe DataTable. Setiap nama kolom dari dataTable harus sama dengan satu nama bidang dari template pdf dengan memperhatikan huruf besar kecil. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf)(Document) | Mengikat sebuah dokumen Pdf. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_1)(Stream) | Mengikat sebuah file Pdf. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_2)(string) | Mengikat sebuah file Pdf. |
+| [Close](../../aspose.pdf.facades/autofiller/close/)() | Menutup objek dan stream output. |
+| [Dispose](../../aspose.pdf.facades/autofiller/dispose/)() | Menutup objek dan stream output. |
+| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | Mengimpor data tipe DataTable. Setiap nama kolom dari dataTable harus sama dengan nama satu bidang pada template pdf dengan memperhatikan huruf besar/kecil. |
 | [Save](../../aspose.pdf.facades/autofiller/save/#save_1)(Stream) | Menyimpan semua pdf. |
 | [Save](../../aspose.pdf.facades/autofiller/save/#save_2)(string) | Menyimpan semua pdf. |
 
@@ -46,14 +46,14 @@ public sealed class AutoFiller : ISaveableFacade
 
 ```csharp
 [C#]
-//Note: mail.pdf is a template pdf which has seven text fields. NorthWind.mdb is the microsoft access db.
-////Common part: Get the data from the database NorthWind.mdb fill it into the DataTable.
+//Catatan: mail.pdf adalah file pdf templat yang memiliki tujuh bidang teks. NorthWind.mdb adalah basis data Microsoft Access.
+////Bagian umum: Dapatkan data dari basis data NorthWind.mdb dan isi ke dalam DataTable.
 			
 OleDbCommand mQueryCommand;
 OleDbDataAdapter mDbDataAdapter;
 OleDbConnection mDbConnection;
 
-//Construct the data table.
+//Bangun tabel data.
 DataTable mDataTable = new DataTable("MailMerge");
 DataColumnCollection columns = mDataTable.Columns;
 columns.Add("CompanyName",typeof(string));
@@ -65,7 +65,7 @@ columns.Add("Country",typeof(string));
 columns.Add("Heading",typeof(string));
 
 
-//Connect to the database source and query the data.
+//Hubungkan ke sumber basis data dan kueri data.
 mDbConnection = new OleDbConnection();
 mDbConnection.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + 
 DbPath + "NorthWind.mdb";
@@ -88,10 +88,10 @@ for (int i = 0; i<mDataTable.Rows.Count;i++)
 
 mDbDataAdapter.Dispose();
 mDbConnection.Close();
-////End of Common part.
+////Akhir Bagian umum.
 
-////case one:
-////Input template pdf is a pdf file and output is a big merged stream.		
+////kasus satu:
+////Template pdf masukan adalah file pdf dan keluaran adalah aliran gabungan besar.		
  
 AutoFiller autoFiller = new AutoFiller();
 		
@@ -101,8 +101,8 @@ autoFiller.OutputStream = Response.OutputStream;
 autoFiller.ImportDataTable(mDataTable);
 autoFiller.Save();
 
-////case two:
-////Input template pdf is a pdf file and output is a lot of small files.
+////kasus dua:
+////Template pdf masukan adalah file pdf dan keluaran adalah banyak file kecil.
 AutoFiller autoFiller = new AutoFiller();
 		
 autoFiller.InputFileName = "mail.pdf";
@@ -187,6 +187,8 @@ autoFiller.Save()
 
 ### Lihat Juga
 
-* antarmuka [ISaveableFacade](../isaveablefacade/)
+* interface [ISaveableFacade](../isaveablefacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.EnableSignatureSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mengambil atau mengatur bendera untuk mengelola sanitasi bidang tanda tangan. Diaktifkan secara default
+title: "Document.EnableSignatureSanitization"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur flag untuk mengelola sanitasi bidang tanda tangan. Diaktifkan secara default"
 type: docs
-weight: 170
+weight: 190
 url: /id/net/aspose.pdf/document/enablesignaturesanitization/
 ---
-## Properti Document.EnableSignatureSanitization
+## Document.EnableSignatureSanitization property
 
-Mengambil atau mengatur bendera untuk mengelola sanitasi bidang tanda tangan. Diaktifkan secara default.
+Mendapatkan atau mengatur flag untuk mengelola sanitasi bidang tanda tangan. Diaktifkan secara default.
 
 ```csharp
 public bool EnableSignatureSanitization { get; set; }
@@ -16,6 +16,8 @@ public bool EnableSignatureSanitization { get; set; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

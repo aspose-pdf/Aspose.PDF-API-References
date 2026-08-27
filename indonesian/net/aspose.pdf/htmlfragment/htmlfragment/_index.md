@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.HtmlFragment
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HtmlFragment. Menginisialisasi instance baru dari kelas HtmlFragment
+title: "HtmlFragment.HtmlFragment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlFragment constructor. Menginisialisasi instance baru dari kelas HtmlFragment"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/htmlfragment/htmlfragment/
 ---
-## Konstruktor HtmlFragment
+## HtmlFragment constructor
 
 Menginisialisasi instance baru dari kelas HtmlFragment.
 
@@ -16,10 +16,12 @@ public HtmlFragment(string text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Teks fragmen |
+| teks | String | Teks fragmen |
 
 ### Lihat Juga
 
-* kelas [HtmlFragment](../)
+* class [HtmlFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

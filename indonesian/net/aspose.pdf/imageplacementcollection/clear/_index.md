@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ImagePlacementCollection. Menghapus semua item dari koleksi
+title: "ImagePlacementCollection.Clear"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ImagePlacementCollection metode. Menghapus semua item dari koleksi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/imageplacementcollection/clear/
 ---
-## Metode ImagePlacementCollection.Clear
+## ImagePlacementCollection.Clear method
 
-Menghapus semua item dari koleksi.
+Mengosongkan semua item dari koleksi.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Lihat Juga
 
-* kelas [ImagePlacementCollection](../)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

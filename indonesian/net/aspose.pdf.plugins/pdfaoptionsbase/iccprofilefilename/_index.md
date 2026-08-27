@@ -1,25 +1,27 @@
 ---
-title: PdfAOptionsBase.IccProfileFileName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAOptionsBase. Mendapatkan atau mengatur nama file profil ICC International Color Consortium yang akan digunakan untuk konversi PDF/A sebagai pengganti yang default
+title: "PdfAOptionsBase.IccProfileFileName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfAOptionsBase. Mendapatkan atau mengatur nama file profil ICC International Color Consortium yang akan digunakan untuk konversi PDF/A menggantikan yang default."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/pdfaoptionsbase/iccprofilefilename/
 ---
-## Properti PdfAOptionsBase.IccProfileFileName
+## PdfAOptionsBase.IccProfileFileName property
 
-Mendapatkan atau mengatur nama file profil ICC (International Color Consortium) yang akan digunakan untuk konversi PDF/A sebagai pengganti yang default.
+Mendapatkan atau mengatur nama file profil ICC (International Color Consortium) yang akan digunakan untuk konversi PDF/A menggantikan yang default.
 
 ```csharp
 public string IccProfileFileName { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Nama file profil ICC.
 
 ### Lihat Juga
 
-* kelas [PdfAOptionsBase](../)
+* class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

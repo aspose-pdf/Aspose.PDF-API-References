@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur pengenal yang dapat dirujuk dalam endpoint API
+title: "RunResponse.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur pengidentifikasi yang dapat direferensikan dalam endpoint API."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.ai/runresponse/id/
 ---
-## Properti RunResponse.Id
+## RunResponse.Id property
 
-Mendapatkan atau mengatur pengenal, yang dapat dirujuk dalam endpoint API.
+Mendapatkan atau mengatur pengidentifikasi, yang dapat direferensikan dalam endpoint API.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

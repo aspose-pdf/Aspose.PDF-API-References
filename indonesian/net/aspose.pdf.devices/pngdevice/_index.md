@@ -1,14 +1,14 @@
 ---
-title: Class PngDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Devices.PngDevice. Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke dalam png
+title: "Kelas PngDevice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Devices.PngDevice. Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke png"
 type: docs
-weight: 3650
+weight: 3770
 url: /id/net/aspose.pdf.devices/pngdevice/
 ---
-## Kelas PngDevice
+## PngDevice class
 
-Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke dalam png.
+Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke format png.
 
 ```csharp
 public sealed class PngDevice : ImageDevice
@@ -41,28 +41,29 @@ public sealed class PngDevice : ImageDevice
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/pngdevice/process/#process)(Page, Stream) | Mengonversi halaman menjadi png dan menyimpannya di aliran output. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Mengonversi page menjadi Bitmap. |
+| override [Process](../../aspose.pdf.devices/pngdevice/process/#process)(Page, Stream) | Mengonversi halaman menjadi png dan menyimpannya di aliran keluaran. |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Melakukan beberapa operasi pada halaman yang diberikan dan menyimpan hasilnya ke dalam file. |
 
 ## Contoh
 
-Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar PNG.
+Contoh berikut menunjukkan cara mengonversi file PDF ke Gambar PNG.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Path ke Direktori PDF Anda
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Nama file PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Inisialisasi instance kelas Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Buat objek Resolution 	
 		Resolution resolution = new Resolution(300);
 
-		// Initialize PngDevice	
+		// Inisialisasi PngDevice	
 		PngDevice pngDevice = new PngDevice(resolution);
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
 		{
@@ -70,10 +71,10 @@ Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar PNG.
 			new FileStream($"{dataDir}image{pageCount}_out.png",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// Konversi halaman tertentu dan simpan gambar ke aliran
 				pngDevice.Process(pdfDocument.Pages[pageCount], pngStream);
 
-				// Close stream
+				// Tutup aliran
 				pngStream.Close();
 			}
 		}
@@ -110,6 +111,8 @@ Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar PNG.
 
 ### Lihat Juga
 
-* kelas [ImageDevice](../imagedevice/)
+* class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

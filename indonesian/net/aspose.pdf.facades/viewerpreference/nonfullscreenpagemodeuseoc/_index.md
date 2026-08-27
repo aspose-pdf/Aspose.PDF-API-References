@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOC
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang ViewerPreference. Panel grup konten opsional terlihat
+title: "ViewerPreference.NonFullScreenPageModeUseOC"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Panel grup konten opsional terlihat"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/
 ---
-## Bidang ViewerPreference.NonFullScreenPageModeUseOC
+## ViewerPreference.NonFullScreenPageModeUseOC field
 
 Panel grup konten opsional terlihat.
 
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseOC;
 
 ### Lihat Juga
 
-* kelas [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

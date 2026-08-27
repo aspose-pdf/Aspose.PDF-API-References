@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowFillIn
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Mengatur izin yang memungkinkan pengisian formulir atau tidak. true diizinkan dan false dilarang
+title: "DocumentPrivilege.AllowFillIn"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Menetapkan izin yang mengizinkan mengisi formulir atau tidak. true berarti mengizinkan dan false berarti dilarang"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/documentprivilege/allowfillin/
 ---
-## Properti DocumentPrivilege.AllowFillIn
+## DocumentPrivilege.AllowFillIn property
 
-Mengatur izin yang memungkinkan pengisian formulir atau tidak. true diizinkan dan false dilarang.
+Mengatur izin yang mengizinkan pengisian formulir atau tidak. true berarti diizinkan dan false berarti dilarang.
 
 ```csharp
 public bool AllowFillIn { get; set; }
@@ -16,6 +16,8 @@ public bool AllowFillIn { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

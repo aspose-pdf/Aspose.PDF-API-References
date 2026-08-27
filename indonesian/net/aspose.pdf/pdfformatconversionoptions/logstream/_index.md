@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.LogStream
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Stream tempat komentar akan disimpan
+title: "PdfFormatConversionOptions.LogStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Aliran tempat komentar akan disimpan."
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.pdf/pdfformatconversionoptions/logstream/
 ---
-## Properti PdfFormatConversionOptions.LogStream
+## PdfFormatConversionOptions.LogStream property
 
-Stream tempat komentar akan disimpan.
+Aliran tempat komentar akan disimpan.
 
 ```csharp
 public Stream LogStream { get; set; }
@@ -16,6 +16,8 @@ public Stream LogStream { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFormatConversionOptions](../)
+* class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

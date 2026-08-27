@@ -1,25 +1,27 @@
 ---
-title: StructureAttribute.GetNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mendapatkan Nilai Angka
+title: "StructureAttribute.GetNumberValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureAttribute metode. Mengambil Nilai Number"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/
 ---
-## Metode StructureAttribute.GetNumberValue
+## StructureAttribute.GetNumberValue method
 
-Mendapatkan Nilai Angka.
+Mendapatkan Nomor Nilai.
 
 ```csharp
 public double? GetNumberValue()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nilai Angka.
+Nilai Number.
 
 ### Lihat Juga
 
-* kelas [StructureAttribute](../)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextResponse.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextResponse. Mendapatkan atau mengatur daftar anotasi untuk pesan
+title: "TextResponse.Annotations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextResponse properti. Mendapatkan atau mengatur daftar anotasi untuk pesan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/textresponse/annotations/
 ---
-## Properti TextResponse.Annotations
+## TextResponse.Annotations property
 
 Mendapatkan atau mengatur daftar anotasi untuk pesan.
 
@@ -16,7 +16,9 @@ public List<Annotation> Annotations { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [TextResponse](../)
+* class [Annotation](../../annotation/)
+* class [TextResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

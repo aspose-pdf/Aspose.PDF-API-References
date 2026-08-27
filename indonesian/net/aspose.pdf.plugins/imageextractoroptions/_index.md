@@ -1,12 +1,12 @@
 ---
-title: Class ImageExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.ImageExtractorOptions. Mewakili opsi ekstraksi gambar untuk plugin ImageExtractor
+title: "Class ImageExtractorOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.ImageExtractorOptions class. Mewakili opsi ekstraksi gambar untuk plugin ImageExtractor."
 type: docs
-weight: 8900
+weight: 9030
 url: /id/net/aspose.pdf.plugins/imageextractoroptions/
 ---
-## Kelas ImageExtractorOptions
+## ImageExtractorOptions class
 
 Mewakili opsi ekstraksi gambar untuk plugin ImageExtractor.
 
@@ -35,10 +35,12 @@ public sealed class ImageExtractorOptions : PdfExtractorOptions
 
 ## Catatan
 
-Ini mewarisi fungsi untuk menambahkan data (file, aliran) yang mewakili dokumen PDF input.
+Ini mewarisi fungsi untuk menambahkan data (files, streams) yang merepresentasikan dokumen PDF input.
 
 ### Lihat Juga
 
-* kelas [PdfExtractorOptions](../pdfextractoroptions/)
+* class [PdfExtractorOptions](../pdfextractoroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentSaved
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor field. Tipe acara dokumen. Lakukan aksi setelah menyimpan
+title: "PdfContentEditor.DocumentSaved"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PdfContentEditor. Jenis peristiwa dokumen. Menjalankan aksi setelah penyimpanan"
 type: docs
 weight: 500
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/documentsaved/
 ---
 ## PdfContentEditor.DocumentSaved field
 
-Tipe acara dokumen. Lakukan aksi setelah menyimpan.
+Tipe peristiwa dokumen. Menjalankan aksi setelah penyimpanan.
 
 ```csharp
 public const string DocumentSaved;
@@ -19,3 +19,5 @@ public const string DocumentSaved;
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

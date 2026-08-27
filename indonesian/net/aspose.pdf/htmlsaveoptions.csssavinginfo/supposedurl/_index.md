@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssSavingInfo.SupposedURL
-second_title: Aspose.PDF for .NET API Reference
-description: CssSavingInfo field. Diatur oleh konverter. Nama file yang diharapkan yang berasal dari konverter ke kode metode kustom Dapat digunakan dalam kode kustom untuk memutuskan bagaimana memproses atau di mana menyimpan konten
+title: "HtmlSaveOptions.CssSavingInfo.SupposedURL"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field CssSavingInfo. Diatur oleh konverter. Nama file yang diharapkan yang diteruskan dari konverter ke kode metode khusus. Dapat digunakan dalam kode khusus untuk memutuskan bagaimana memproses atau dimana menyimpan konten"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/htmlsaveoptions.csssavinginfo/supposedurl/
 ---
 ## HtmlSaveOptions.CssSavingInfo.SupposedURL field
 
-Diatur oleh konverter. Nama file yang diharapkan yang berasal dari konverter ke kode metode kustom Dapat digunakan dalam kode kustom untuk memutuskan bagaimana memproses atau di mana menyimpan konten
+Ditentukan oleh konverter. Nama file yang diharapkan yang dikirim dari konverter ke kode metode khusus. Dapat digunakan dalam kode khusus untuk memutuskan bagaimana memproses atau dimana menyimpan konten.
 
 ```csharp
 public string SupposedURL;
@@ -19,3 +19,5 @@ public string SupposedURL;
 * class [CssSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

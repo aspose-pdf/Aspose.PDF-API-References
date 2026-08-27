@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCrossSection. Mendapatkan atau mengatur orientasi bidang pemotongan
+title: "PDF3DCrossSection.CuttingPlaneOrientation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DCrossSection. Mendapatkan atau mengatur orientasi bidang pemotongan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/
 ---
-## Properti PDF3DCrossSection.CuttingPlaneOrientation
+## PDF3DCrossSection.CuttingPlaneOrientation property
 
 Mendapatkan atau mengatur orientasi bidang pemotongan.
 
@@ -14,7 +14,7 @@ Mendapatkan atau mengatur orientasi bidang pemotongan.
 public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Orientasi bidang pemotongan.
 
@@ -22,11 +22,13 @@ Orientasi bidang pemotongan.
 
 | pengecualian | kondisi |
 | --- | --- |
-| Pengecualian | Hanya satu dari nilai yang boleh Null |
+| Exception | Hanya satu dari nilai-nilai tersebut yang boleh Null |
 
 ### Lihat Juga
 
-* kelas [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
-* kelas [PDF3DCrossSection](../)
+* class [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

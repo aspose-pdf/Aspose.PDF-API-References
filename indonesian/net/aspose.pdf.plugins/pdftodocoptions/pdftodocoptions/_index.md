@@ -1,7 +1,7 @@
 ---
-title: PdfToDocOptions.PdfToDocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfToDocOptions. Menginisialisasi instance baru dari objek PdfToDocOptions dengan opsi default
+title: "PdfToDocOptions.PdfToDocOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfToDocOptions. Menginisialisasi instance baru dari objek PdfToDocOptions dengan opsi default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/pdftodocoptions/pdftodocoptions/
@@ -16,7 +16,7 @@ public PdfToDocOptions()
 
 ### Lihat Juga
 
-* kelas [PdfToDocOptions](../)
+* class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,6 +39,8 @@ public PdfToDocOptions(SaveFormat format, ConversionMode mode)
 
 * enum [SaveFormat](../../saveformat/)
 * enum [ConversionMode](../../conversionmode/)
-* kelas [PdfToDocOptions](../)
+* class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

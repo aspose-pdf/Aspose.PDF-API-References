@@ -1,12 +1,12 @@
 ---
-title: Class PdfAction
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.PdfAction. Mewakili Aksi dalam dokumen PDF
+title: "Kelas PdfAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.PdfAction kelas. Mewakili Aksi dalam dokumen PDF"
 type: docs
-weight: 2270
+weight: 2360
 url: /id/net/aspose.pdf.annotations/pdfaction/
 ---
-## Kelas PdfAction
+## PdfAction class
 
 Mewakili Aksi dalam dokumen PDF
 
@@ -24,10 +24,12 @@ public abstract class PdfAction : IAppointment
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk Aksi ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk ECMAScript Action. |
 
 ### Lihat Juga
 
-* antarmuka [IAppointment](../iappointment/)
-* ruang nama [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* interface [IAppointment](../iappointment/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

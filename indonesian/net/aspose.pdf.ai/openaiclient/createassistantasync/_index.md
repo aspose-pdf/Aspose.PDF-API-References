@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Membuat asisten baru secara asinkron
+title: "OpenAIClient.CreateAssistantAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Membuat assistant baru secara asinkron"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/openaiclient/createassistantasync/
 ---
-## Metode OpenAIClient.CreateAssistantAsync
+## OpenAIClient.CreateAssistantAsync method
 
-Membuat asisten baru secara asinkron.
+Membuat asisten baru secara asynchronous.
 
 ```csharp
 public Task<AssistantResponse> CreateAssistantAsync(AssistantCreateRequest assistantCreateRequest, 
@@ -17,17 +17,19 @@ public Task<AssistantResponse> CreateAssistantAsync(AssistantCreateRequest assis
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| assistantCreateRequest | AssistantCreateRequest | Objek permintaan yang berisi detail untuk membuat asisten. |
+| assistantCreateRequest | AssistantCreateRequest | Objek permintaan yang berisi detail untuk membuat assistant. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan asisten.
+Task yang mewakili operasi asinkron. Hasil task berisi respons dari pembuatan assistant.
 
 ### Lihat Juga
 
-* kelas [AssistantResponse](../../assistantresponse/)
-* kelas [AssistantCreateRequest](../../assistantcreaterequest/)
-* kelas [OpenAIClient](../)
+* class [AssistantResponse](../../assistantresponse/)
+* class [AssistantCreateRequest](../../assistantcreaterequest/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

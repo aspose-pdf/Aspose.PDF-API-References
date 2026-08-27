@@ -1,14 +1,14 @@
 ---
-title: Class GifDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Devices.GifDevice. Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke dalam gif
+title: "Kelas GifDevice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "kelas Aspose.Pdf.Devices.GifDevice. Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke gif"
 type: docs
-weight: 3600
+weight: 3720
 url: /id/net/aspose.pdf.devices/gifdevice/
 ---
-## Kelas GifDevice
+## GifDevice class
 
-Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke dalam gif.
+Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke format gif.
 
 ```csharp
 public sealed class GifDevice : ImageDevice
@@ -29,7 +29,7 @@ public sealed class GifDevice : ImageDevice
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Mendapatkan atau mengatur jenis koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Mendapatkan atau mengatur tipe koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default. |
 | [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Mendapatkan atau mengatur mode presentasi formulir. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Mendapatkan tinggi output gambar. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Mendapatkan atau mengatur opsi rendering. |
@@ -40,6 +40,7 @@ public sealed class GifDevice : ImageDevice
 
 | Nama | Deskripsi |
 | --- | --- |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Mengonversi page menjadi Bitmap. |
 | override [Process](../../aspose.pdf.devices/gifdevice/process/#process)(Page, Stream) | Mengonversi halaman menjadi gif dan menyimpannya di aliran output. |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Melakukan beberapa operasi pada halaman yang diberikan dan menyimpan hasilnya ke dalam file. |
 
@@ -49,19 +50,19 @@ Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar GIF.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Path ke Direktori PDF Anda
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Nama file PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Inisialisasi instance kelas Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Buat objek Resolution 	
 		Resolution resolution = new Resolution(300);
 
-		// Initialize GifDevice	
+		// Inisialisasi GifDevice	
 		GifDevice gifDevice = new GifDevice(resolution);
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
 		{
@@ -69,10 +70,10 @@ Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar GIF.
 			new FileStream($"{dataDir}image{pageCount}_out.gif",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// Konversi halaman tertentu dan simpan gambar ke aliran
 				gifDevice.Process(pdfDocument.Pages[pageCount], gifStream);
 
-				// Close stream
+				// Tutup aliran
 				gifStream.Close();
 			}
 		}
@@ -109,6 +110,8 @@ Contoh berikut menunjukkan cara mengonversi file PDF menjadi Gambar GIF.
 
 ### Lihat Juga
 
-* kelas [ImageDevice](../imagedevice/)
+* class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

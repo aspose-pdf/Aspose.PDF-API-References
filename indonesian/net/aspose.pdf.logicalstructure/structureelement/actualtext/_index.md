@@ -1,12 +1,12 @@
 ---
-title: StructureElement.ActualText
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureElement. Mendapatkan atau mengatur teks aktual untuk elemen struktur
+title: "StructureElement.ActualText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureElement. Mendapatkan atau mengatur teks aktual untuk elemen struktur"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/structureelement/actualtext/
 ---
-## Properti StructureElement.ActualText
+## StructureElement.ActualText property
 
 Mendapatkan atau mengatur teks aktual untuk elemen struktur.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur teks aktual untuk elemen struktur.
 public string ActualText { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Teks aktual dari elemen struktur.
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

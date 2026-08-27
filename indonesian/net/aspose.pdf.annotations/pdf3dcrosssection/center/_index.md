@@ -1,26 +1,28 @@
 ---
-title: PDF3DCrossSection.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCrossSection. Mendapatkan atau menetapkan pusat rotasi potongan lintang
+title: "PDF3DCrossSection.Center"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DCrossSection. Mendapatkan atau mengatur pusat rotasi penampang"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/pdf3dcrosssection/center/
 ---
-## Properti PDF3DCrossSection.Center
+## PDF3DCrossSection.Center property
 
-Mendapatkan atau menetapkan pusat rotasi potongan lintang.
+Mendapatkan atau mengatur pusat rotasi penampang.
 
 ```csharp
 public Point3D Center { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Pusat.
 
 ### Lihat Juga
 
-* kelas [Point3D](../../../aspose.pdf/point3d/)
-* kelas [PDF3DCrossSection](../)
+* class [Point3D](../../../aspose.pdf/point3d/)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Table.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Tabel. Mendapatkan batas sel default
+title: "Table.DefaultColumnWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Table. Mendapatkan batas sel default"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/table/defaultcolumnwidth/
 ---
-## Properti Table.DefaultColumnWidth
+## Table.DefaultColumnWidth property
 
 Mendapatkan batas sel default;
 
@@ -16,6 +16,8 @@ public string DefaultColumnWidth { get; set; }
 
 ### Lihat Juga
 
-* kelas [Table](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

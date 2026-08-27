@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageStamp. Mendapatkan dan mengatur koordinat stempel horizontal yang dimulai dari kiri
+title: "ImageStamp.XIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageStamp. Mengambil dan mengatur koordinat stempel horizontal mulai dari kiri"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/imagestamp/xindent/
 ---
-## Properti ImageStamp.XIndent
+## ImageStamp.XIndent property
 
-Mendapatkan dan mengatur koordinat stempel horizontal, dimulai dari kiri.
+Mendapatkan dan mengatur koordinat stempel horizontal, mulai dari kiri.
 
 ```csharp
 public override double XIndent { get; set; }
@@ -16,6 +16,8 @@ public override double XIndent { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

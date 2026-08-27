@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.AddFooter
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileStamp. Menambahkan footer ke halaman dokumen
+title: "PdfFileStamp.AddFooter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileStamp. Menambahkan footer ke halaman-halaman dokumen"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdffilestamp/addfooter/
@@ -28,8 +28,8 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,8 +60,8 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [PdfFileStamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -77,7 +77,7 @@ public void AddFooter(string imageFile, float bottomMargin)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageFile | String | Nama dan jalur file gambar. |
+| imageFile | String | Nama file gambar dan jalurnya. |
 | bottomMargin | Single | Margin di bagian bawah halaman. |
 
 ## Contoh
@@ -91,7 +91,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -99,7 +99,7 @@ fileStamp.Close();
 
 ## AddFooter(string, float, float, float) {#addfooter_5}
 
-Menambahkan gambar sebagai footer dari halaman.
+Menambahkan gambar sebagai footer halaman.
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin, float leftMargin, float rightMargin)
@@ -107,7 +107,7 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageFile | String | Nama dan jalur file gambar. |
+| imageFile | String | Nama file gambar dan path. |
 | bottomMargin | Single | Margin di bagian bawah halaman. |
 | leftMargin | Single | Margin di sisi kiri halaman. |
 | rightMargin | Single | Margin di sisi kanan halaman. |
@@ -123,7 +123,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -131,7 +131,7 @@ fileStamp.Close();
 
 ## AddFooter(Stream, float) {#addfooter_2}
 
-Menambahkan gambar sebagai footer dari halaman.
+Menambahkan gambar sebagai footer halaman.
 
 ```csharp
 public void AddFooter(Stream imageStream, float bottomMargin)
@@ -139,7 +139,7 @@ public void AddFooter(Stream imageStream, float bottomMargin)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageStream | Stream | Stream yang berisi data gambar. |
+| imageStream | Stream | Stream berisi data gambar. |
 | bottomMargin | Single | Margin di bagian bawah halaman. |
 
 ## Contoh
@@ -153,7 +153,7 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -161,7 +161,7 @@ fileStamp.Close();
 
 ## AddFooter(Stream, float, float, float) {#addfooter_3}
 
-Menambahkan gambar sebagai footer dari halaman.
+Menambahkan gambar sebagai footer halaman.
 
 ```csharp
 public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, float rightMargin)
@@ -169,7 +169,7 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageStream | Stream | Stream yang berisi data gambar. |
+| imageStream | Stream | Stream berisi data gambar. |
 | bottomMargin | Single | Margin di bagian bawah halaman. |
 | leftMargin | Single | Margin di sisi kiri halaman. |
 | rightMargin | Single | Margin di sisi kanan halaman. |
@@ -185,6 +185,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

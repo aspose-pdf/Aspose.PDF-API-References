@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.B4
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas B4 250 mm x 353 mm
+title: "PaperSizes.B4"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. kertas B4 250 mm x 353 mm"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.printing/papersizes/b4/
 ---
-## Bidang PaperSizes.B4
+## PaperSizes.B4 field
 
 Kertas B4 (250 mm x 353 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize B4;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

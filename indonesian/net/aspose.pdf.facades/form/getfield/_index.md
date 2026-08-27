@@ -1,14 +1,14 @@
 ---
-title: Form.GetField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mendapatkan nilai field sesuai dengan nama field-nya
+title: "Form.GetField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengambil nilai bidang sesuai dengan nama bidangnya"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.facades/form/getfield/
 ---
-## Metode Form.GetField
+## Form.GetField method
 
-Mendapatkan nilai field sesuai dengan nama field-nya.
+Mendapatkan nilai bidang berdasarkan nama bidangnya.
 
 ```csharp
 public string GetField(string fieldName)
@@ -16,11 +16,11 @@ public string GetField(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang sepenuhnya terqualifikasi. |
+| fieldName | String | Nama bidang yang sepenuhnya memenuhi kualifikasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nilai field.
+Nilai bidang.
 
 ## Contoh
 
@@ -31,6 +31,8 @@ Console.WriteLine("Field value = " + form.GetField("Field1"));
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Resources. Kelas yang mewakili sumber halaman
+title: "Kelas Resources"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Resources. Kelas yang mewakili sumber daya halaman"
 type: docs
-weight: 9770
+weight: 9920
 url: /id/net/aspose.pdf/resources/
 ---
-## Kelas Sumber
+## Resources class
 
-Kelas yang mewakili sumber halaman.
+Kelas yang mewakili sumber daya halaman.
 
 ```csharp
 public sealed class Resources
@@ -18,19 +18,19 @@ public sealed class Resources
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Fonts](../../aspose.pdf/resources/fonts/) { get; } | Mendapatkan koleksi sumber [`Fonts`](./fonts/) |
-| [Forms](../../aspose.pdf/resources/forms/) { get; } | Mendapatkan koleksi formulir [`Forms`](./forms/) |
-| [Images](../../aspose.pdf/resources/images/) { get; } | Mendapatkan koleksi gambar [`Images`](./images/) |
+| [Fonts](../../aspose.pdf/resources/fonts/) { get; } | Mendapatkan koleksi sumber daya [`Fonts`](./fonts/) |
+| [Forms](../../aspose.pdf/resources/forms/) { get; } | Mendapatkan koleksi [`Forms`](./forms/) |
+| [Images](../../aspose.pdf/resources/images/) { get; } | Mendapatkan koleksi [`Images`](./images/) |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FreeMemory](../../aspose.pdf/resources/freememory/)() | Menghapus data yang di-cache, membebaskan memori, dll. |
-| [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Mendapatkan semua ExGStates dari sumber. |
-| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Mengembalikan koleksi font. Jika sumber tidak mengandung entri font, itu akan dibuat tergantung pada flag CreateIfAbsent. |
+| [FreeMemory](../../aspose.pdf/resources/freememory/)() | Membersihkan data cache, membebaskan memori, dll. |
+| [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Mendapatkan semua ExGStates dari sumber daya. |
+| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Mengembalikan koleksi font. Jika sumber daya tidak berisi entri font, maka akan dibuat tergantung pada flag CreateIfAbsent. |
 
-## Anggota Lainnya
+## Anggota Lain
 
 | Nama | Deskripsi |
 | --- | --- |
@@ -40,3 +40,5 @@ public sealed class Resources
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

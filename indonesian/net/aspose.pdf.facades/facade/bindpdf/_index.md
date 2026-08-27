@@ -1,7 +1,7 @@
 ---
-title: Facade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode facade. Menginisialisasi facade
+title: "Facade.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Facade. Menginisialisasi facade"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/facade/bindpdf/
@@ -20,7 +20,7 @@ public virtual void BindPdf(string srcFile)
 
 ### Lihat Juga
 
-* kelas [Facade](../)
+* class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,7 +40,7 @@ public virtual void BindPdf(Stream srcStream)
 
 ### Lihat Juga
 
-* kelas [Facade](../)
+* class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,7 +60,9 @@ public virtual void BindPdf(Document srcDoc)
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Facade](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

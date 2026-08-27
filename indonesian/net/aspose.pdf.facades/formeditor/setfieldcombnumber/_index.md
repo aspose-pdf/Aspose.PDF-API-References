@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldCombNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Mengatur jumlah comb untuk bidang teks tunggal reguler yang secara otomatis dibagi menjadi sebanyak posisi atau comb yang terdistribusi secara merata sesuai dengan nilai parameter combNumber
+title: "FormEditor.SetFieldCombNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Menetapkan jumlah comb untuk bidang teks satu baris reguler; bidang tersebut secara otomatis dibagi menjadi sebanyak posisi atau comb yang berjarak sama sesuai nilai parameter combNumber"
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.facades/formeditor/setfieldcombnumber/
 ---
-## Metode FormEditor.SetFieldCombNumber
+## FormEditor.SetFieldCombNumber method
 
-Mengatur jumlah comb untuk bidang teks tunggal reguler (bidang secara otomatis dibagi menjadi sebanyak posisi yang terdistribusi secara merata, atau comb, sesuai dengan nilai parameter combNumber).
+Mengatur jumlah comb untuk field teks satu baris reguler (field secara otomatis dibagi menjadi sebanyak posisi yang berjarak sama, atau comb, sesuai nilai parameter combNumber).
 
 ```csharp
 public bool SetFieldCombNumber(string fieldName, int combNumber)
@@ -19,9 +19,9 @@ public bool SetFieldCombNumber(string fieldName, int combNumber)
 | fieldName | String | Nama bidang yang memenuhi syarat. |
 | combNumber | Int32 | Jumlah comb untuk membagi bidang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Jika berhasil, kembalikan true; jika tidak, false.
+Jika berhasil, mengembalikan true; jika tidak, false.
 
 ## Contoh
 
@@ -32,6 +32,8 @@ formEditor.SetFieldCombNumber("textCombField", 5);
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePopup
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi pop-up dalam dokumen PDF
+title: "PdfContentEditor.CreatePopup"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat anotasi popup dalam dokumen PDF"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createpopup/
 ---
-## Metode PdfContentEditor.CreatePopup
+## PdfContentEditor.CreatePopup method
 
-Membuat anotasi pop-up dalam dokumen PDF.
+Membuat anotasi popup dalam dokumen PDF.
 
 ```csharp
 public void CreatePopup(Rectangle rect, string contents, bool open, int page)
@@ -16,10 +16,10 @@ public void CreatePopup(Rectangle rect, string contents, bool open, int page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| contents | String | Isi dari anotasi. |
-| open | Boolean | Sebuah flag yang menentukan apakah anotasi pop-up harus ditampilkan terbuka pada awalnya. |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| isi | String | Isi anotasi. |
+| buka | Boolean | Bendera yang menentukan apakah anotasi pop-up harus ditampilkan terbuka pada awalnya. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
 
 ## Contoh
 
@@ -32,6 +32,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

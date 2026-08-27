@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BaseOperatorCollection. Menyalin operator ke dalam daftar operator
+title: "BaseOperatorCollection.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BaseOperatorCollection. Menyalin operator ke dalam daftar operator"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/baseoperatorcollection/copyto/
 ---
-## Metode BaseOperatorCollection.CopyTo
+## BaseOperatorCollection.CopyTo method
 
 Menyalin operator ke dalam daftar operator.
 
@@ -17,11 +17,13 @@ public abstract void CopyTo(Operator[] array, int index)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | array | Operator[] | Array dengan operator yang harus disalin. Array ini harus berupa Object[] atau Operator[]. |
-| index | Int32 | Indeks awal dari mana operator akan disalin |
+| index | Int32 | Indeks mulai dari mana operator akan disalin |
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [BaseOperatorCollection](../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

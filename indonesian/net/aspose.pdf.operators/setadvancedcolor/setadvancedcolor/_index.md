@@ -1,7 +1,7 @@
 ---
-title: SetAdvancedColor.SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetAdvancedColor. Menginisialisasi operator
+title: "SetAdvancedColor.SetAdvancedColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetAdvancedColor. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
@@ -16,7 +16,7 @@ public SetAdvancedColor()
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,7 +37,7 @@ public SetAdvancedColor(double g, string patternName)
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,7 +57,7 @@ public SetAdvancedColor(double g)
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -80,7 +80,7 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -104,7 +104,7 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -124,7 +124,7 @@ public SetAdvancedColor(string patternName)
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -141,10 +141,12 @@ public SetAdvancedColor(double[] colors, string patternName)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | patternName | Double[] | Nama pola. |
-| colors | String | Array warna. |
+| warna | String | Array warna. |
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColor](../)
+* class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

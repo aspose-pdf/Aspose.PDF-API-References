@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseParagraph. Mendapatkan atau mengatur margin luar untuk paragraf untuk generasi pdf
+title: "BaseParagraph.Margin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BaseParagraph. Mendapatkan atau mengatur margin luar untuk paragraf dalam pembuatan pdf"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/baseparagraph/margin/
 ---
-## Properti BaseParagraph.Margin
+## BaseParagraph.Margin property
 
-Mendapatkan atau mengatur margin luar untuk paragraf (untuk generasi pdf)
+Mendapatkan atau mengatur margin luar untuk paragraf (untuk pembuatan PDF)
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../../margininfo/)
-* kelas [BaseParagraph](../)
+* class [MarginInfo](../../margininfo/)
+* class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

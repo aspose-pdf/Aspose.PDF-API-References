@@ -1,14 +1,14 @@
 ---
-title: Signature.ByteRange
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Signature. Sebuah array pasangan bilangan bulat offset byte awal panjang dalam byte yang akan menggambarkan rentang byte yang tepat untuk perhitungan digest
+title: "Signature.ByteRange"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Signature. Sebuah array pasangan bilangan bulat yang menunjukkan offset byte mulai dan panjang dalam byte yang menggambarkan rentang byte tepat untuk perhitungan digest"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.forms/signature/byterange/
 ---
-## Properti Signature.ByteRange
+## Signature.ByteRange property
 
-Sebuah array pasangan bilangan bulat (offset byte awal, panjang dalam byte) yang akan menggambarkan rentang byte yang tepat untuk perhitungan digest.
+Array pasangan integer (offset byte mulai, panjang dalam byte) yang harus menggambarkan rentang byte yang tepat untuk perhitungan digest.
 
 ```csharp
 public int[] ByteRange { get; }
@@ -16,6 +16,8 @@ public int[] ByteRange { get; }
 
 ### Lihat Juga
 
-* kelas [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

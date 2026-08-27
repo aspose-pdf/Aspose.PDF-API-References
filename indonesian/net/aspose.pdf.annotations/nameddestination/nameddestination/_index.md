@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor NamedDestination. Buat tujuan bernama
+title: "NamedDestination.NamedDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor NamedDestination. Membuat tujuan bernama"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/nameddestination/nameddestination/
 ---
-## Konstruktor NamedDestination
+## NamedDestination constructor
 
 Buat tujuan bernama.
 
@@ -16,8 +16,8 @@ public NamedDestination(Document doc, string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat tujuan bernama harus dibuat. |
-| name | String | Nama yang dirujuk oleh tujuan. |
+| doc | Document | Document tempat tujuan bernama harus dibuat. |
+| nama | String | Nama yang dituju oleh tujuan. |
 
 ### Lihat Juga
 
@@ -25,3 +25,5 @@ public NamedDestination(Document doc, string name)
 * class [NamedDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

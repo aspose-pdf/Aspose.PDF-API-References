@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.FindByValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ArtifactCollection. Menemukan artefak berdasarkan nilai kustom
+title: "ArtifactCollection.FindByValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ArtifactCollection. Menemukan artefak berdasarkan nilai khusus"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/artifactcollection/findbyvalue/
 ---
-## Metode ArtifactCollection.FindByValue
+## ArtifactCollection.FindByValue method
 
-Menemukan artefak berdasarkan nilai kustom.
+Menemukan artefak berdasarkan nilai khusus.
 
 ```csharp
 public List<Artifact> FindByValue(string name, string expectedValue)
@@ -16,16 +16,18 @@ public List<Artifact> FindByValue(string name, string expectedValue)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama nilai kustom. |
-| expectedValue | String | Nilai yang dicari. |
+| nama | String | Nama nilai khusus. |
+| expectedValue | String | Nilai yang akan dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Daftar artefak yang ditemukan.
 
 ### Lihat Juga
 
-* kelas [Artifact](../../artifact/)
-* kelas [ArtifactCollection](../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

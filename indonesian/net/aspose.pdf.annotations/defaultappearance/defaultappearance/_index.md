@@ -1,14 +1,14 @@
 ---
-title: DefaultAppearance.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor DefaultAppearance. Konstruktor dari DefaultAppearance
+title: "DefaultAppearance.DefaultAppearance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor DefaultAppearance. Konstruktor dari DefaultAppearance"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/defaultappearance/defaultappearance/
 ---
 ## DefaultAppearance() {#constructor}
 
-Konstruktor dari DefaultAppearance.
+Konstruktor DefaultAppearance.
 
 ```csharp
 public DefaultAppearance()
@@ -16,7 +16,7 @@ public DefaultAppearance()
 
 ### Lihat Juga
 
-* kelas [DefaultAppearance](../)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public DefaultAppearance()
 
 ## DefaultAppearance(string, double, Color) {#constructor_2}
 
-Konstruktor dari DefaultAppearance.
+Konstruktor DefaultAppearance.
 
 ```csharp
 public DefaultAppearance(string fontName, double fontSize, Color textColor)
@@ -38,7 +38,7 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 
 ### Lihat Juga
 
-* kelas [DefaultAppearance](../)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,7 +46,7 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 
 ## DefaultAppearance(Font, double, Color) {#constructor_1}
 
-Konstruktor dari Default Appearance. Font yang telah dibuat sebelumnya dapat ditentukan sebagai font default.
+Konstruktor Default Appearance. Font yang sebelumnya dibuat dapat ditentukan sebagai font default.
 
 ```csharp
 public DefaultAppearance(Font font, double fontSize, Color textColor)
@@ -60,7 +60,9 @@ public DefaultAppearance(Font font, double fontSize, Color textColor)
 
 ### Lihat Juga
 
-* kelas [Font](../../../aspose.pdf.text/font/)
-* kelas [DefaultAppearance](../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

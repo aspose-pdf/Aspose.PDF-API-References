@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.IsPdfFile
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileInfo. Memeriksa apakah input sumber adalah file PDF yang valid
+title: "PdfFileInfo.IsPdfFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileInfo property. Memeriksa apakah input sumber merupakan file PDF yang valid"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdffileinfo/ispdffile/
 ---
-## Properti PdfFileInfo.IsPdfFile
+## PdfFileInfo.IsPdfFile property
 
-Memeriksa apakah input sumber adalah file PDF yang valid.
+Memeriksa apakah sumber input adalah file PDF yang valid.
 
 ```csharp
 public bool IsPdfFile { get; }
@@ -16,6 +16,8 @@ public bool IsPdfFile { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

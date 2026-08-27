@@ -1,12 +1,12 @@
 ---
-title: TextState.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextState. Mendapatkan atau mengatur perataan horizontal untuk teks
+title: "TextState.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextState. Mendapatkan atau mengatur perataan horizontal untuk teks."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.text/textstate/horizontalalignment/
 ---
-## Properti TextState.HorizontalAlignment
+## TextState.HorizontalAlignment property
 
 Mendapatkan atau mengatur perataan horizontal untuk teks.
 
@@ -24,3 +24,5 @@ HorizontalAlignment.None sama dengan HorizontalAlignment.Left. Perhatikan bahwa 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

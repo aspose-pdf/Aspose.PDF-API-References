@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeYouNumber4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Field UkuranKertas. Amplop Jepang You 4 diputar
+title: "PaperSizes.JapaneseEnvelopeYouNumber4Rotated"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes field. amplop You 4 Jepang yang diputar"
 type: docs
 weight: 590
 url: /id/net/aspose.pdf.printing/papersizes/japaneseenvelopeyounumber4rotated/
 ---
-## Bidang PaperSizes.JapaneseEnvelopeYouNumber4Rotated
+## PaperSizes.JapaneseEnvelopeYouNumber4Rotated field
 
-Amplop Jepang You #4 diputar.
+Jepang You #4 amplop terputar.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeYouNumber4Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseEnvelopeYouNumber4Rotated;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

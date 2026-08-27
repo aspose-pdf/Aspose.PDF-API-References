@@ -1,14 +1,14 @@
 ---
-title: DateField.DateField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor DateField. Menginisialisasi instance baru dari DateField
+title: "DateField.DateField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor DateField. Menginisialisasi sebuah instance baru dari DateField"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/datefield/datefield/
 ---
 ## DateField() {#constructor}
 
-Menginisialisasi instance baru dari [`DateField`](../)
+Menginisialisasi sebuah instance baru dari [`DateField`](../)
 
 ```csharp
 public DateField()
@@ -16,7 +16,7 @@ public DateField()
 
 ### Lihat Juga
 
-* kelas [DateField](../)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public DateField(Document doc)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field akan dibuat. |
+| doc | Document | Document di mana bidang akan dibuat. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [DateField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,7 +45,7 @@ public DateField(Document doc)
 
 ## DateField(Page, Rectangle) {#constructor_3}
 
-Menginisialisasi instance baru dari [`DateField`](../)
+Menginisialisasi sebuah instance baru dari [`DateField`](../)
 
 ```csharp
 public DateField(Page page, Rectangle rect)
@@ -53,14 +53,14 @@ public DateField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman yang diperlukan untuk membuat. |
-| rect | Rectangle | Persegi panjang tempat field teks akan ditempatkan di halaman. |
+| halaman | Halaman | Halaman diperlukan untuk membuat. |
+| rect | Rectangle | Rectangle tempat bidang teks akan ditempatkan pada halaman. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [DateField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -68,7 +68,7 @@ public DateField(Page page, Rectangle rect)
 
 ## DateField(Document, Rectangle) {#constructor_2}
 
-Menginisialisasi instance baru dari [`DateField`](../)
+Menginisialisasi sebuah instance baru dari [`DateField`](../)
 
 ```csharp
 public DateField(Document doc, Rectangle rect)
@@ -76,13 +76,15 @@ public DateField(Document doc, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field akan dibuat. |
-| rect | Rectangle | Persegi panjang dari field. |
+| doc | Document | Document di mana bidang akan dibuat. |
+| rect | Rectangle | Rectangle bidang tersebut. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [DateField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

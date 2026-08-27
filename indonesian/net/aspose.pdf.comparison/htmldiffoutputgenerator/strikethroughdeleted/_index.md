@@ -1,14 +1,14 @@
 ---
-title: HtmlDiffOutputGenerator.StrikethroughDeleted
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlDiffOutputGenerator. Dapatkan atau atur gaya garis coret textdecoration untuk operasi penghapusan. Nilai default adalah False
+title: "HtmlDiffOutputGenerator.StrikethroughDeleted"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti HtmlDiffOutputGenerator. Mendapatkan atau mengatur gaya textdecoration linethrough untuk operasi delete. Nilai default adalah False"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/
 ---
-## Properti HtmlDiffOutputGenerator.StrikethroughDeleted
+## HtmlDiffOutputGenerator.StrikethroughDeleted property
 
-Dapatkan atau atur gaya text-decoration: garis coret untuk operasi penghapusan. Nilai default adalah `False`.
+Dapatkan atau atur gaya text-decoration: line-through untuk operasi delete. Nilai default adalah `False`.
 
 ```csharp
 public bool StrikethroughDeleted { get; set; }
@@ -16,6 +16,8 @@ public bool StrikethroughDeleted { get; set; }
 
 ### Lihat Juga
 
-* kelas [HtmlDiffOutputGenerator](../)
+* class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

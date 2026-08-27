@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.DeleteOperationsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextItemComparisonStatistics. Mendapatkan dan mengatur jumlah operasi penghapusan
+title: "TextItemComparisonStatistics.DeleteOperationsCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextItemComparisonStatistics. Mendapatkan dan mengatur jumlah operasi penghapusan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/
 ---
-## Properti TextItemComparisonStatistics.DeleteOperationsCount
+## TextItemComparisonStatistics.DeleteOperationsCount property
 
 Mendapatkan dan mengatur jumlah operasi penghapusan.
 
@@ -16,6 +16,8 @@ public int DeleteOperationsCount { get; }
 
 ### Lihat Juga
 
-* kelas [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignLeft
-second_title: Aspose.PDF for .NET API Reference
-description: Field FormFieldFacade. Mendefinisikan gaya perataan ke kiri
+title: "FormFieldFacade.AlignLeft"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade field. Menetapkan penyelarasan ke gaya kiri"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.facades/formfieldfacade/alignleft/
 ---
-## Field FormFieldFacade.AlignLeft
+## FormFieldFacade.AlignLeft field
 
-Mendefinisikan gaya perataan ke kiri.
+Mendefinisikan penyelarasan ke gaya kiri.
 
 ```csharp
 public const int AlignLeft;
@@ -16,6 +16,8 @@ public const int AlignLeft;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

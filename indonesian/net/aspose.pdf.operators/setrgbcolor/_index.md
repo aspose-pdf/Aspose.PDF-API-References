@@ -1,14 +1,14 @@
 ---
-title: Class SetRGBColor
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetRGBColor. Kelas yang mewakili operator rg untuk mengatur warna RGB untuk operator non-stroking
+title: "Kelas SetRGBColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operators.SetRGBColor. Kelas yang merepresentasikan operator rg mengatur warna RGB untuk operator non-stroke"
 type: docs
-weight: 7790
+weight: 7930
 url: /id/net/aspose.pdf.operators/setrgbcolor/
 ---
-## Kelas SetRGBColor
+## SetRGBColor class
 
-Kelas yang mewakili operator rg (mengatur warna RGB untuk operator non-stroking).
+Kelas yang merepresentasikan operator rg (mengatur warna RGB untuk operator non-stroking).
 
 ```csharp
 public class SetRGBColor : SetColorOperator
@@ -34,13 +34,15 @@ public class SetRGBColor : SetColorOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setrgbcolor/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/setrgbcolor/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [getColor](../../aspose.pdf.operators/setrgbcolor/getcolor/)() | Mengembalikan warna yang ditentukan oleh operator. |
 | override [ToString](../../aspose.pdf.operators/setrgbcolor/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [SetColorOperator](../setcoloroperator/)
+* class [SetColorOperator](../setcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

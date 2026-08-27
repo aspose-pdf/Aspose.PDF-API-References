@@ -1,12 +1,12 @@
 ---
-title: PdfXmlLoadOptions.PdfXmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfXmlLoadOptions. Konstruktor default
+title: "PdfXmlLoadOptions.PdfXmlLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfXmlLoadOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pdfxmlloadoptions/pdfxmlloadoptions/
 ---
-## Konstruktor PdfXmlLoadOptions
+## PdfXmlLoadOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PdfXmlLoadOptions()
 
 ### Lihat Juga
 
-* kelas [PdfXmlLoadOptions](../)
+* class [PdfXmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

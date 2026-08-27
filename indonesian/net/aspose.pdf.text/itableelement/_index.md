@@ -1,12 +1,12 @@
 ---
-title: Interface ITableElement
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.Text.ITableElement. Antarmuka ini mewakili elemen tabel yang ada yang diekstrak oleh TableAbsorber
+title: "Antarmuka ITableElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.ITableElement antarmuka. Antarmuka ini mewakili elemen tabel yang ada yang diekstrak oleh TableAbsorber"
 type: docs
-weight: 10620
+weight: 10800
 url: /id/net/aspose.pdf.text/itableelement/
 ---
-## Antarmuka ITableElement
+## ITableElement interface
 
 Antarmuka ini mewakili elemen tabel yang ada yang diekstrak oleh TableAbsorber.
 
@@ -18,9 +18,11 @@ public interface ITableElement
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | Mendapatkan persegi panjang yang menggambarkan posisi elemen tabel di halaman |
+| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | Mendapatkan persegi panjang yang menggambarkan posisi elemen tabel pada halaman |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

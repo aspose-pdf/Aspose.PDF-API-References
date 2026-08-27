@@ -1,14 +1,14 @@
 ---
-title: PaginationArtifact.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PaginationArtifact. Mengambil atau menetapkan nomor halaman awal untuk artefak. Nilainya harus lebih besar dari atau sama dengan 1. Jika nilai kurang dari 1 ditetapkan, itu akan disesuaikan menjadi 1
+title: "PaginationArtifact.StartPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PaginationArtifact. Mendapatkan atau mengatur nomor halaman awal untuk artefak. Nilai harus lebih besar atau sama dengan 1. Jika nilai yang lebih kecil dari 1 diatur, akan disesuaikan menjadi 1"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/paginationartifact/startpage/
 ---
-## Properti PaginationArtifact.StartPage
+## PaginationArtifact.StartPage property
 
-Mengambil atau menetapkan nomor halaman awal untuk artefak. Nilainya harus lebih besar dari atau sama dengan 1. Jika nilai kurang dari 1 ditetapkan, itu akan disesuaikan menjadi 1.
+Mendapatkan atau mengatur nomor halaman mulai untuk artefak. Nilai harus lebih besar atau sama dengan 1. Jika nilai yang lebih kecil dari 1 diatur, akan disesuaikan menjadi 1.
 
 ```csharp
 public int StartPage { get; set; }
@@ -16,6 +16,8 @@ public int StartPage { get; set; }
 
 ### Lihat Juga
 
-* kelas [PaginationArtifact](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [PaginationArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

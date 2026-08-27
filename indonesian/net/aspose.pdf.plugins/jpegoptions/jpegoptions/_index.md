@@ -1,12 +1,12 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor JpegOptions. Konstruktor default
+title: "JpegOptions.JpegOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor JpegOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/jpegoptions/jpegoptions/
 ---
-## Konstruktor JpegOptions
+## JpegOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public JpegOptions()
 
 ### Lihat Juga
 
-* kelas [JpegOptions](../)
+* class [JpegOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

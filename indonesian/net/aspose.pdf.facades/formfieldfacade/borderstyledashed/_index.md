@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleDashed
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang FormFieldFacade. Mendefinisikan gaya batas putus-putus
+title: "FormFieldFacade.BorderStyleDashed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang FormFieldFacade. Mendefinisikan gaya batas dash"
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.facades/formfieldfacade/borderstyledashed/
 ---
-## Bidang FormFieldFacade.BorderStyleDashed
+## FormFieldFacade.BorderStyleDashed field
 
 Mendefinisikan gaya batas putus-putus.
 
@@ -16,6 +16,8 @@ public const int BorderStyleDashed;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

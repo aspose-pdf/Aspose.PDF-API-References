@@ -1,14 +1,14 @@
 ---
-title: Stamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Tinggi yang diinginkan dari cap di halaman
+title: "Stamp.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Tinggi yang diinginkan dari stamp pada halaman"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/stamp/height/
 ---
-## Properti Stamp.Height
+## Stamp.Height property
 
-Tinggi yang diinginkan dari cap di halaman.
+Tinggi yang diinginkan untuk stempel pada halaman.
 
 ```csharp
 public virtual double Height { get; set; }
@@ -16,6 +16,8 @@ public virtual double Height { get; set; }
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XmpValue. Konstruktor untuk nilai string
+title: "XmpValue.XmpValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XmpValue. Konstruktor untuk nilai string"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xmpvalue/xmpvalue/
@@ -16,11 +16,11 @@ public XmpValue(string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai string. |
+| nilai | String | Nilai string. |
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,11 @@ public XmpValue(int value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Int32 | Nilai integer. |
+| nilai | Int32 | Nilai integer. |
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -48,7 +48,7 @@ public XmpValue(int value)
 
 ## XmpValue(double) {#constructor_1}
 
-Konstruktor untuk nilai floating point.
+Konstruktor untuk nilai titik mengambang.
 
 ```csharp
 public XmpValue(double value)
@@ -56,11 +56,11 @@ public XmpValue(double value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Double | Nilai double. |
+| nilai | Double | Nilai double. |
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -76,11 +76,11 @@ public XmpValue(DateTime value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | DateTime | Nilai tanggal dan waktu. |
+| nilai | DateTime | Nilai tanggal dan waktu. |
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -100,6 +100,8 @@ public XmpValue(XmpValue[] array)
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

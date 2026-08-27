@@ -1,14 +1,14 @@
 ---
-title: Class TextExtractionErrorLocation
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.TextExtractionErrorLocation. Mewakili lokasi dalam dokumen PDF di mana kesalahan ekstraksi teks telah muncul
+title: "Kelas TextExtractionErrorLocation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.TextExtractionErrorLocation class. Mewakili lokasi dalam PDF document tempat kesalahan ekstraksi teks muncul"
 type: docs
-weight: 10880
+weight: 11060
 url: /id/net/aspose.pdf.text/textextractionerrorlocation/
 ---
-## Kelas TextExtractionErrorLocation
+## TextExtractionErrorLocation class
 
-Mewakili lokasi dalam dokumen PDF di mana kesalahan ekstraksi teks telah muncul.
+Mewakili lokasi dalam dokumen PDF tempat kesalahan ekstraksi teks muncul.
 
 ```csharp
 public sealed class TextExtractionErrorLocation
@@ -18,14 +18,14 @@ public sealed class TextExtractionErrorLocation
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FontUsedKey](../../aspose.pdf.text/textextractionerrorlocation/fontusedkey/) { get; } | Kunci (nama) objek Font PDF yang digunakan untuk menampilkan operator yang menyebabkan kesalahan ekstraksi teks. |
-| [FormKey](../../aspose.pdf.text/textextractionerrorlocation/formkey/) { get; } | Kunci (nama) dari PDF Form XObject di mana kesalahan ekstraksi teks aliran konten telah ditemukan. Tidak kosong jika ObjectType == 'xForm'. |
-| [ObjectType](../../aspose.pdf.text/textextractionerrorlocation/objecttype/) { get; } | Tipe objek PDF (Halaman atau xForm) di mana kesalahan ekstraksi teks aliran konten telah ditemukan. |
-| [OperatorIndex](../../aspose.pdf.text/textextractionerrorlocation/operatorindex/) { get; } | Indeks operator penampil teks dalam aliran konten (koleksi operator) yang menyebabkan kesalahan ekstraksi teks. |
-| [OperatorString](../../aspose.pdf.text/textextractionerrorlocation/operatorstring/) { get; } | Teks operator penampil yang menyebabkan kesalahan ekstraksi teks. |
-| [PageNumber](../../aspose.pdf.text/textextractionerrorlocation/pagenumber/) { get; } | Nomor halaman dokumen di mana kesalahan ekstraksi teks telah ditemukan. |
-| [Path](../../aspose.pdf.text/textextractionerrorlocation/path/) { get; } | Lokasi dokumen PDF di mana kesalahan ekstraksi teks telah muncul. |
-| [TextStartPoint](../../aspose.pdf.text/textextractionerrorlocation/textstartpoint/) { get; } | Kunci (nama) objek Font PDF yang digunakan untuk menampilkan operator yang menyebabkan kesalahan ekstraksi teks. |
+| [FontUsedKey](../../aspose.pdf.text/textextractionerrorlocation/fontusedkey/) { get; } | Kunci (nama) objek PDF Font yang digunakan untuk menampilkan operator yang menyebabkan kesalahan ekstraksi teks. |
+| [FormKey](../../aspose.pdf.text/textextractionerrorlocation/formkey/) { get; } | Kunci (nama) PDF Form XObject di mana kesalahan ekstraksi teks aliran konten berada. Tidak kosong jika ObjectType == 'xForm'. |
+| [ObjectType](../../aspose.pdf.text/textextractionerrorlocation/objecttype/) { get; } | Tipe objek PDF (Page atau xForm) di mana kesalahan ekstraksi teks aliran konten berada. |
+| [OperatorIndex](../../aspose.pdf.text/textextractionerrorlocation/operatorindex/) { get; } | Indeks operator penampilan teks dalam aliran konten (koleksi operator) yang menyebabkan kesalahan ekstraksi teks. |
+| [OperatorString](../../aspose.pdf.text/textextractionerrorlocation/operatorstring/) { get; } | Operator penampilan teks yang menyebabkan kesalahan ekstraksi teks. |
+| [PageNumber](../../aspose.pdf.text/textextractionerrorlocation/pagenumber/) { get; } | Nomor Page Document tempat kesalahan ekstraksi teks berada. |
+| [Path](../../aspose.pdf.text/textextractionerrorlocation/path/) { get; } | Lokasi PDF Document tempat kesalahan ekstraksi teks muncul. |
+| [TextStartPoint](../../aspose.pdf.text/textextractionerrorlocation/textstartpoint/) { get; } | Kunci (nama) objek PDF Font yang digunakan untuk menampilkan operator yang menyebabkan kesalahan ekstraksi teks. |
 
 ## Metode
 
@@ -37,3 +37,5 @@ public sealed class TextExtractionErrorLocation
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

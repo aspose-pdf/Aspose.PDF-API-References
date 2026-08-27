@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileSpecification. Mendapatkan atau mengatur format encoding. Nilai yang mungkin Zip - file dikompresi dengan ZIP None - file tidak dikompresi
+title: "FileSpecification.Encoding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileSpecification properti. Mendapatkan atau menetapkan format enkoding. Nilai yang mungkin: Zip  file dikompresi dengan ZIP; None  file tidak dikompresi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/filespecification/encoding/
 ---
-## Properti FileSpecification.Encoding
+## FileSpecification.Encoding property
 
-Mendapatkan atau mengatur format encoding. Nilai yang mungkin: Zip - file dikompresi dengan ZIP, None - file tidak dikompresi.
+Mendapatkan atau mengatur format enkoding. Nilai yang mungkin: Zip - file dikompresi dengan ZIP, None - file tidak dikompresi.
 
 ```csharp
 public FileEncoding Encoding { get; set; }
@@ -20,3 +20,5 @@ public FileEncoding Encoding { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

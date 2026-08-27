@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FontSubstitutionCollection. Mengembalikan enumerator untuk seluruh koleksi
+title: "FontSubstitutionCollection.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FontSubstitutionCollection. Mengembalikan enumerator untuk seluruh koleksi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.text/fontsubstitutioncollection/getenumerator/
 ---
-## Metode FontSubstitutionCollection.GetEnumerator
+## FontSubstitutionCollection.GetEnumerator method
 
 Mengembalikan enumerator untuk seluruh koleksi.
 
@@ -14,13 +14,15 @@ Mengembalikan enumerator untuk seluruh koleksi.
 public IEnumerator<FontSubstitution> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek enumerator
 
 ### Lihat Juga
 
-* kelas [FontSubstitution](../../fontsubstitution/)
-* kelas [FontSubstitutionCollection](../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

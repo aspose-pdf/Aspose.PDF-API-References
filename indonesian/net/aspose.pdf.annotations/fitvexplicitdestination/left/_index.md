@@ -1,12 +1,12 @@
 ---
-title: FitVExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FitVExplicitDestination. Mendapatkan koordinat horizontal kiri yang diposisikan di tepi kiri jendela
+title: "FitVExplicitDestination.Left"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FitVExplicitDestination properti. Mendapatkan koordinat horizontal kiri yang diposisikan di tepi kiri jendela"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/fitvexplicitdestination/left/
 ---
-## Properti FitVExplicitDestination.Left
+## FitVExplicitDestination.Left property
 
 Mendapatkan koordinat horizontal kiri yang diposisikan di tepi kiri jendela.
 
@@ -16,6 +16,8 @@ public double Left { get; }
 
 ### Lihat Juga
 
-* kelas [FitVExplicitDestination](../)
+* class [FitVExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

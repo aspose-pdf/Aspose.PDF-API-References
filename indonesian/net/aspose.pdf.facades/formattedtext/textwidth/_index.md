@@ -1,12 +1,12 @@
 ---
-title: FormattedText.TextWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormattedText. Mendapatkan lebar teks
+title: "FormattedText.TextWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormattedText. Mendapatkan lebar teks."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/formattedtext/textwidth/
 ---
-## Properti FormattedText.TextWidth
+## FormattedText.TextWidth property
 
 Mendapatkan lebar teks.
 
@@ -16,6 +16,8 @@ public float TextWidth { get; }
 
 ### Lihat Juga
 
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

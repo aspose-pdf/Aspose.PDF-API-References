@@ -1,14 +1,14 @@
 ---
-title: MediaClipData.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MediaClipData. Mengembalikan spesifikasi file yang berisi data media aktual
+title: "MediaClipData.Data"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MediaClipData. Mengembalikan spesifikasi file yang berisi data media sebenarnya"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/mediaclipdata/data/
 ---
-## Properti MediaClipData.Data
+## MediaClipData.Data property
 
-Mengembalikan spesifikasi file yang berisi data media aktual.
+Kembalikan spesifikasi file yang berisi data media sebenarnya.
 
 ```csharp
 public FileSpecification Data { get; }
@@ -16,7 +16,9 @@ public FileSpecification Data { get; }
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../../aspose.pdf/filespecification/)
-* kelas [MediaClipData](../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [MediaClipData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

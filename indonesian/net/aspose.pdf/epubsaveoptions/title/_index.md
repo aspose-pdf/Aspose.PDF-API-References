@@ -1,14 +1,14 @@
 ---
-title: EpubSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Properti EpubSaveOptions. Mendapatkan atau mengatur judul dokumen EPUB
+title: "EpubSaveOptions.Title"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti EpubSaveOptions. Mendapatkan atau mengatur judul dokumen EPUB"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/epubsaveoptions/title/
 ---
-## Properti EpubSaveOptions.Title
+## EpubSaveOptions.Title property
 
-Mendapatkan atau mengatur judul dokumen EPUB.
+Mengambil atau mengatur judul dokumen EPUB.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Lihat Juga
 
-* kelas [EpubSaveOptions](../)
+* class [EpubSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

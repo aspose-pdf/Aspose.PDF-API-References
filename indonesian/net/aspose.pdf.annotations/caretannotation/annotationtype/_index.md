@@ -1,14 +1,14 @@
 ---
-title: CaretAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CaretAnnotation. Mendapatkan jenis anotasi
+title: "CaretAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CaretAnnotation. Mendapatkan tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/caretannotation/annotationtype/
 ---
-## Properti CaretAnnotation.AnnotationType
+## CaretAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

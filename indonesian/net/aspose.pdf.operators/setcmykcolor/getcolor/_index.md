@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SetCMYKColor. Mengembalikan warna
+title: "SetCMYKColor.getColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SetCMYKColor. Mengembalikan warna"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.operators/setcmykcolor/getcolor/
 ---
-## Metode SetCMYKColor.getColor
+## SetCMYKColor.getColor method
 
 Mengembalikan warna.
 
@@ -14,12 +14,14 @@ Mengembalikan warna.
 public override Color getColor()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Warna yang ditentukan oleh operator.
 
 ### Lihat Juga
 
-* kelas [SetCMYKColor](../)
+* class [SetCMYKColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

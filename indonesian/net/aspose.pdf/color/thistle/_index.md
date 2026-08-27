@@ -1,25 +1,27 @@
 ---
-title: Color.Thistle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFD8BFD8
+title: "Color.Thistle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFD8BFD8"
 type: docs
 weight: 1330
 url: /id/net/aspose.pdf/color/thistle/
 ---
-## Properti Color.Thistle
+## Color.Thistle property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFD8BFD8.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FFD8BFD8.
 
 ```csharp
 public static Color Thistle { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

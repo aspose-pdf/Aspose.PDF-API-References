@@ -1,14 +1,14 @@
 ---
-title: Document.Direction
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan atau mengatur urutan bacaan teks L2R dari kiri ke kanan atau R2L dari kanan ke kiri
+title: "Document.Direction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur urutan baca teks L2R kiri ke kanan atau R2L kanan ke kiri"
 type: docs
-weight: 100
+weight: 110
 url: /id/net/aspose.pdf/document/direction/
 ---
-## Properti Document.Direction
+## Document.Direction property
 
-Mendapatkan atau mengatur urutan bacaan teks: L2R (dari kiri ke kanan) atau R2L (dari kanan ke kiri).
+Mendapatkan atau mengatur urutan baca teks: L2R (kiri ke kanan) atau R2L (kanan ke kiri).
 
 ```csharp
 public Direction Direction { get; set; }
@@ -20,3 +20,5 @@ public Direction Direction { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

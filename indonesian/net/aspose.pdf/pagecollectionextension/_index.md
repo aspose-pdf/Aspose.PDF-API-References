@@ -1,14 +1,14 @@
 ---
-title: Class PageCollectionExtension
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PageCollectionExtension. Mewakili metode ekstensi untuk memperbarui pagination header dan footer
+title: "Kelas PageCollectionExtension"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.PageCollectionExtension. Mewakili metode ekstensi untuk memperbarui penomoran header dan footer"
 type: docs
 weight: 8080
 url: /id/net/aspose.pdf/pagecollectionextension/
 ---
-## Kelas PageCollectionExtension
+## PageCollectionExtension class
 
-Mewakili metode ekstensi untuk memperbarui pagination header dan footer.
+Mewakili metode ekstensi untuk memperbarui penomoran header dan footer.
 
 ```csharp
 public static class PageCollectionExtension
@@ -18,9 +18,11 @@ public static class PageCollectionExtension
 
 | Nama | Deskripsi |
 | --- | --- |
-| static [UpdatePagination](../../aspose.pdf/pagecollectionextension/updatepagination/)(this PageCollection) | Memperbarui nomor halaman dan tanggal header dan footer untuk semua halaman. Ini akan berfungsi jika dokumen memiliki setidaknya satu artefak pagination dengan data pengaturan khusus. Semua halaman dalam koleksi akan diperbarui dengan artefak sumber sesuai dengan pengaturannya. |
+| static [UpdatePagination](../../aspose.pdf/pagecollectionextension/updatepagination/)(this PageCollection) | Memperbarui nomor halaman dan tanggal header serta footer untuk semua halaman. Ini akan berfungsi jika dokumen memiliki setidaknya satu artefak penomoran dengan data pengaturan khusus. Semua halaman dalam koleksi akan diperbarui dengan artefak sumber sesuai dengan pengaturannya. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

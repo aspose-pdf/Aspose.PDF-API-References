@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CharInfoCollection. Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel mulai dari indeks yang ditentukan dari array target
+title: "CharInfoCollection.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CharInfoCollection. Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel mulai dari indeks yang ditentukan pada array target"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.text/charinfocollection/copyto/
 ---
-## Metode CharInfoCollection.CopyTo
+## CharInfoCollection.CopyTo method
 
-Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan dari array target
+Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan pada array target.
 
 ```csharp
 public void CopyTo(CharInfo[] array, int index)
@@ -17,11 +17,13 @@ public void CopyTo(CharInfo[] array, int index)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | array | CharInfo[] | Array objek yang akan disalin. |
-| index | Int32 | Indeks awal dari mana penyalinan akan dimulai. |
+| index | Int32 | Indeks mulai dari mana penyalinan akan dimulai. |
 
 ### Lihat Juga
 
-* kelas [CharInfo](../../charinfo/)
-* kelas [CharInfoCollection](../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

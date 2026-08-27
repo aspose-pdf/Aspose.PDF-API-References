@@ -1,12 +1,12 @@
 ---
-title: Rectangle.ToPoints
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Mengonversi persegi panjang menjadi array titik QuadPoints
+title: "Rectangle.ToPoints"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Mengonversi rectangle menjadi array titik QuadPoints"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf/rectangle/topoints/
 ---
-## Metode Rectangle.ToPoints
+## Rectangle.ToPoints method
 
 Mengonversi persegi panjang menjadi array titik ("QuadPoints").
 
@@ -14,13 +14,15 @@ Mengonversi persegi panjang menjadi array titik ("QuadPoints").
 public Point[] ToPoints()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Array titik.
 
 ### Lihat Juga
 
-* kelas [Point](../../point/)
-* kelas [Rectangle](../)
+* class [Point](../../point/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

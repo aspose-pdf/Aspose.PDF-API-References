@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.DeleteImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menghapus gambar yang ditentukan pada halaman yang ditentukan
+title: "PdfContentEditor.DeleteImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Menghapus gambar yang ditentukan pada halaman yang ditentukan."
 type: docs
 weight: 320
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/deleteimage/
@@ -17,7 +17,7 @@ public void DeleteImage(int pageNumber, int[] index)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageNumber | Int32 | Nomor halaman di mana gambar harus dihapus. |
-| index | Int32[] | Sebuah array yang mewakili indeks gambar. |
+| index | Int32[] | Sebuah array mewakili indeks gambar. |
 
 ## Contoh
 
@@ -30,7 +30,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -55,6 +55,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

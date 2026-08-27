@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionObject
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.XmpPdfAExtensionObject. Mewakili kelas dasar untuk instance tipe nilai properti field
+title: "Kelas XmpPdfAExtensionObject"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.XmpPdfAExtensionObject class. Mewakili kelas dasar untuk instance tipe nilai properti bidang."
 type: docs
-weight: 11450
+weight: 11640
 url: /id/net/aspose.pdf/xmppdfaextensionobject/
 ---
-## Kelas XmpPdfAExtensionObject
+## XmpPdfAExtensionObject class
 
-Mewakili kelas dasar untuk field, properti, instance tipe nilai.
+Mewakili kelas dasar untuk instance field, property, dan value type.
 
 ```csharp
 public abstract class XmpPdfAExtensionObject
@@ -18,8 +18,8 @@ public abstract class XmpPdfAExtensionObject
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Mengambil deskripsi. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Mengambil atau mengatur nilai. |
+| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Mendapatkan deskripsi. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Mendapatkan atau mengatur nilai. |
 
 ## Metode
 
@@ -31,3 +31,5 @@ public abstract class XmpPdfAExtensionObject
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

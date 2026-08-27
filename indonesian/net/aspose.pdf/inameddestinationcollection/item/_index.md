@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti INamedDestinationCollection. Mengambil atau mengatur tujuan berdasarkan namanya
+title: "INamedDestinationCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti INamedDestinationCollection. Mendapatkan atau mengatur tujuan berdasarkan namanya"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/inameddestinationcollection/item/
 ---
-## Indeks INamedDestinationCollection
+## INamedDestinationCollection indexer
 
-Mengambil atau mengatur tujuan berdasarkan namanya.
+Mendapatkan atau mengatur tujuan berdasarkan namanya.
 
 ```csharp
 public IAppointment this[string name] { get; set; }
@@ -16,15 +16,17 @@ public IAppointment this[string name] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| name | Nilai nama. |
+| nama | Nilai nama. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek tujuan.
 
 ### Lihat Juga
 
-* antarmuka [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* antarmuka [INamedDestinationCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

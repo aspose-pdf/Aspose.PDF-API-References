@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfXmpMetadata. Menghapus elemen dengan kunci yang ditentukan
+title: "PdfXmpMetadata.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfXmpMetadata. Menghapus elemen dengan kunci yang ditentukan"
 type: docs
 weight: 210
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/remove/
@@ -16,7 +16,7 @@ public void Remove(DefaultMetadataProperties key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Kunci dari elemen yang akan dihapus. |
+| kunci | DefaultMetadataProperties | Kunci elemen yang akan dihapus. |
 
 ## Contoh
 
@@ -45,9 +45,9 @@ public bool Remove(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci yang akan dihapus. |
+| kunci | String | Kunci yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika kunci dihapus; jika tidak, false.
 
@@ -79,7 +79,7 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Pasangan kunci/nilai yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika pasangan ditemukan dan dihapus.
 
@@ -89,3 +89,5 @@ true jika pasangan ditemukan dan dihapus.
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

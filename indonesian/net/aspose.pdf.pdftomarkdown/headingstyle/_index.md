@@ -1,14 +1,14 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.HeadingStyle enum. Menentukan gaya serialisasi yang tersedia untuk judul. Untuk spesifikasi lihat CommonMark ATX headings masing-masing CommonMark Setext headings
+title: "Enum HeadingStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.PdfToMarkdown.HeadingStyle enum. Menentukan gaya serialisasi yang tersedia untuk heading. Untuk spesifikasi lihat heading ATX CommonMark dan heading Setext CommonMark."
 type: docs
 weight: 8390
 url: /id/net/aspose.pdf.pdftomarkdown/headingstyle/
 ---
-## Enumerasi HeadingStyle
+## HeadingStyle enumeration
 
-Menentukan gaya serialisasi yang tersedia untuk judul. Untuk spesifikasi lihat CommonMark - ATX headings, masing-masing CommonMark - Setext headings.
+Mendefinisikan gaya serialisasi yang tersedia untuk heading. Untuk spesifikasi lihat CommonMark - ATX headings, serta CommonMark - Setext headings.
 
 ```csharp
 public enum HeadingStyle
@@ -18,10 +18,12 @@ public enum HeadingStyle
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Atx | `0` | Menambahkan awalan '#' pada judul |
-| Setext | `1` | Menggarisbawahi level 1 dan 2 judul dengan "======" masing-masing "------" |
+| Atx | `0` | Awali heading dengan '#' |
+| Setext | `1` | Garis bawah heading level 1 dan 2 dengan "======" dan "------" masing-masing |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../)
+
+

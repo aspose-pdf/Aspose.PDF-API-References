@@ -1,14 +1,14 @@
 ---
-title: XImage.Rename
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XImage. Mengganti nama gambar dan mengganti semua referensi ke gambar dengan nama baru
+title: "XImage.Rename"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XImage. Mengganti nama gambar dan menggantikan semua referensi ke gambar dengan nama baru"
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.pdf/ximage/rename/
 ---
-## Metode XImage.Rename
+## XImage.Rename method
 
-Mengganti nama gambar dan mengganti semua referensi ke gambar dengan nama baru
+Mengganti nama gambar dan menggantikan semua referensi ke gambar dengan nama baru
 
 ```csharp
 public void Rename(string name)
@@ -16,10 +16,12 @@ public void Rename(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama gambar baru. |
+| nama | String | Nama gambar baru. |
 
 ### Lihat Juga
 
-* kelas [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

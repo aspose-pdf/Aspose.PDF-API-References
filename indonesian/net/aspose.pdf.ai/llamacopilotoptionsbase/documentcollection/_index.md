@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaCopilotOptionsBase. Mengambil atau menetapkan koleksi dokumen yang akan diproses
+title: "LlamaCopilotOptionsBase.DocumentCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LlamaCopilotOptionsBase. Mendapatkan atau mengatur koleksi dokumen yang akan diproses"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/
 ---
-## Properti LlamaCopilotOptionsBase.DocumentCollection
+## LlamaCopilotOptionsBase.DocumentCollection property
 
-Mengambil atau menetapkan koleksi dokumen yang akan diproses.
+Mendapatkan atau mengatur koleksi dokumen yang akan diproses.
 
 ```csharp
 public DocumentCollection DocumentCollection { get; set; }
@@ -16,7 +16,9 @@ public DocumentCollection DocumentCollection { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentCollection](../../documentcollection/)
-* kelas [LlamaCopilotOptionsBase](../)
+* class [DocumentCollection](../../documentcollection/)
+* class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

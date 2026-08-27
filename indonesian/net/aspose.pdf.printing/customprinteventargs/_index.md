@@ -1,14 +1,14 @@
 ---
-title: Class CustomPrintEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Printing.CustomPrintEventArgs. Menyediakan data untuk acara CustomPrint
+title: "Kelas CustomPrintEventArgs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Printing.CustomPrintEventArgs. Menyediakan data untuk peristiwa CustomPrint."
 type: docs
-weight: 9520
+weight: 9670
 url: /id/net/aspose.pdf.printing/customprinteventargs/
 ---
-## Kelas CustomPrintEventArgs
+## CustomPrintEventArgs class
 
-Menyediakan data untuk acara [`CustomPrint`](../../aspose.pdf.facades/pdfviewer/customprint/).
+Menyediakan data untuk peristiwa [`CustomPrint`](../../aspose.pdf.facades/pdfviewer/customprint/).
 
 ```csharp
 public class CustomPrintEventArgs : EventArgs
@@ -18,7 +18,7 @@ public class CustomPrintEventArgs : EventArgs
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CustomPrintEventArgs](customprinteventargs/)(string, PrinterSettings, PageSettings) | Menginisialisasi `CustomPrintEventArgs` dengan pengaturan printer dan halaman yang diberikan. |
+| [CustomPrintEventArgs](customprinteventargs/)(string, PrinterSettings, PageSettings) | Menginisialisasi `CustomPrintEventArgs` dengan printer dan pengaturan halaman yang diberikan. |
 
 ## Bidang
 
@@ -32,3 +32,5 @@ public class CustomPrintEventArgs : EventArgs
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

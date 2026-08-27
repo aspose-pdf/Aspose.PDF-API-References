@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Mengatur nama asisten untuk opsi kopilot deskripsi gambar
+title: "OpenAIImageDescriptionCopilotOptions.WithAssistantName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions metode. Mengatur nama asisten untuk opsi copilot deskripsi gambar"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withassistantname/
 ---
-## Metode OpenAIImageDescriptionCopilotOptions.WithAssistantName
+## OpenAIImageDescriptionCopilotOptions.WithAssistantName method
 
-Mengatur nama asisten untuk opsi kopilot deskripsi gambar.
+Mengatur nama asisten untuk opsi copilot deskripsi gambar.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantName)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantNa
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| assistantName | String | Nama asisten yang akan diatur. |
+| assistantName | String | Nama asisten yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SaveNewInfoWithXmp
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Mengubah properti yang ditentukan secara eksplisit dengan mengatur informasi file, properti lainnya tetap
+title: "PdfFileInfo.SaveNewInfoWithXmp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileInfo. Mengubah properti yang ditentukan secara eksplisit dengan mengatur informasi file, properti lainnya tetap."
 type: docs
 weight: 320
 url: /id/net/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/
 ---
-## Metode PdfFileInfo.SaveNewInfoWithXmp
+## PdfFileInfo.SaveNewInfoWithXmp method
 
-Mengubah properti yang ditentukan secara eksplisit dengan mengatur informasi file, properti lainnya tetap.
+Mengubah properti yang ditentukan secara eksplisit dengan mengatur informasi file, properti lain tetap.
 
 ```csharp
 public bool SaveNewInfoWithXmp(string outputFileName)
@@ -16,14 +16,16 @@ public bool SaveNewInfoWithXmp(string outputFileName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputFileName | String | File keluaran. |
+| outputFileName | String | File output. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

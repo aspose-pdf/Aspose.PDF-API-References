@@ -1,12 +1,12 @@
 ---
-title: Heading.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Heading. Mendapatkan level
+title: "Heading.Level"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Heading. Mendapatkan level"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/heading/level/
 ---
-## Properti Heading.Level
+## Heading.Level property
 
 Mendapatkan level.
 
@@ -16,6 +16,8 @@ public int Level { get; set; }
 
 ### Lihat Juga
 
-* kelas [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class BaseResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.BaseResponse. Kelas dasar untuk respons API
+title: "Kelas BaseResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.BaseResponse. Kelas dasar untuk respons API"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.ai/baseresponse/
 ---
-## Kelas BaseResponse
+## BaseResponse class
 
 Kelas dasar untuk respons API.
 
@@ -30,3 +30,5 @@ public abstract class BaseResponse
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

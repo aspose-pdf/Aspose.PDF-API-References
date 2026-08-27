@@ -1,14 +1,14 @@
 ---
-title: Class RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.RunStepDetails. Rincian langkah eksekusi
+title: "Kelas RunStepDetails"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.RunStepDetails. Detail langkah eksekusi."
 type: docs
-weight: 1030
+weight: 1110
 url: /id/net/aspose.pdf.ai/runstepdetails/
 ---
-## Kelas RunStepDetails
+## RunStepDetails class
 
-Rincian langkah eksekusi.
+Detail langkah run.
 
 ```csharp
 public class RunStepDetails
@@ -24,11 +24,13 @@ public class RunStepDetails
 
 | Nama | Deskripsi |
 | --- | --- |
-| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | Mendapatkan atau mengatur rincian pembuatan pesan. |
-| [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | Mendapatkan atau mengatur jenis langkah eksekusi. |
-| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | Mendapatkan atau mengatur rincian panggilan alat. |
+| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | Mendapatkan atau mengatur detail pembuatan pesan. |
+| [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | Mendapatkan atau mengatur tipe langkah eksekusi. |
+| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | Mendapatkan atau mengatur detail pemanggilan alat. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Cells.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Cells. Jumlah item
+title: "Cells.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Cells property. Jumlah item"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/cells/count/
 ---
-## Properti Cells.Count
+## Cells.Count property
 
 Jumlah item.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [Cells](../)
+* class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

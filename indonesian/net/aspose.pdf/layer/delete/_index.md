@@ -1,12 +1,12 @@
 ---
-title: Layer.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Layer. Menghapus lapisan saat ini dari dokumen PDF
+title: "Layer.Delete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Layer. Menghapus layer saat ini dari dokumen PDF."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/layer/delete/
 ---
-## Metode Layer.Delete
+## Layer.Delete method
 
 Menghapus lapisan saat ini dari dokumen PDF.
 
@@ -16,6 +16,8 @@ public void Delete()
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

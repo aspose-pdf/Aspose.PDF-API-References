@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfConverter. Mendapatkan atau mengatur opsi rendering
+title: "PdfConverter.RenderingOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfConverter. Mendapatkan atau mengatur opsi rendering."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdfconverter/renderingoptions/
 ---
-## Properti PdfConverter.RenderingOptions
+## PdfConverter.RenderingOptions property
 
 Mendapatkan atau mengatur opsi rendering.
 
@@ -16,7 +16,9 @@ public RenderingOptions RenderingOptions { get; set; }
 
 ### Lihat Juga
 
-* kelas [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* kelas [PdfConverter](../)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

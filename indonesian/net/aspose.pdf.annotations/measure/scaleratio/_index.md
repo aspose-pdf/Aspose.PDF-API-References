@@ -1,14 +1,14 @@
 ---
-title: Measure.ScaleRatio
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Measure. Sebuah string teks yang menyatakan rasio skala dari gambar
+title: "Measure.ScaleRatio"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Measure property. String teks yang menyatakan rasio skala gambar"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/measure/scaleratio/
 ---
-## Properti Measure.ScaleRatio
+## Measure.ScaleRatio property
 
-Sebuah string teks yang menyatakan rasio skala dari gambar.
+String teks yang menyatakan rasio skala gambar.
 
 ```csharp
 public string ScaleRatio { get; set; }
@@ -16,6 +16,8 @@ public string ScaleRatio { get; set; }
 
 ### Lihat Juga
 
-* kelas [Measure](../)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

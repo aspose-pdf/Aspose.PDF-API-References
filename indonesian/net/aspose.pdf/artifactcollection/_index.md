@@ -1,14 +1,14 @@
 ---
-title: Class ArtifactCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.ArtifactCollection. Kelas ini mewakili koleksi artefak
+title: "Kelas ArtifactCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.ArtifactCollection. Kelas ini mewakili koleksi artefak"
 type: docs
-weight: 2800
+weight: 2900
 url: /id/net/aspose.pdf/artifactcollection/
 ---
-## Kelas ArtifactCollection
+## ArtifactCollection class
 
-Kelas ini mewakili koleksi artefak.
+Kelas mewakili koleksi artefak.
 
 ```csharp
 public class ArtifactCollection : ICollection<Artifact>
@@ -19,7 +19,7 @@ public class ArtifactCollection : ICollection<Artifact>
 | Nama | Deskripsi |
 | --- | --- |
 | [Count](../../aspose.pdf/artifactcollection/count/) { get; } | Mendapatkan jumlah artefak dalam koleksi. |
-| [IsReadOnly](../../aspose.pdf/artifactcollection/isreadonly/) { get; } | Mendapatkan apakah koleksi bersifat hanya-baca. Selalu mengembalikan false. |
+| [IsReadOnly](../../aspose.pdf/artifactcollection/isreadonly/) { get; } | Mendapatkan apakah koleksi hanya baca. Selalu mengembalikan false. |
 | [IsSynchronized](../../aspose.pdf/artifactcollection/issynchronized/) { get; } | Apakah objek ini disinkronkan. |
 | [Item](../../aspose.pdf/artifactcollection/item/) { get; } | Mendapatkan artefak berdasarkan indeks. Indeks dimulai dari 1. |
 | [SyncRoot](../../aspose.pdf/artifactcollection/syncroot/) { get; } | Mendapatkan objek sinkronisasi dari koleksi. |
@@ -32,12 +32,14 @@ public class ArtifactCollection : ICollection<Artifact>
 | [CopyTo](../../aspose.pdf/artifactcollection/copyto/)(Artifact[], int) | Menyalin koleksi ke dalam array. |
 | [Delete](../../aspose.pdf/artifactcollection/delete/#delete)(Artifact) | Menghapus artefak yang ditentukan. |
 | [Delete](../../aspose.pdf/artifactcollection/delete/#delete_1)(int) | Menghapus artefak berdasarkan indeksnya. |
-| [FindByValue](../../aspose.pdf/artifactcollection/findbyvalue/)(string, string) | Mencari artefak berdasarkan nilai kustom. |
+| [FindByValue](../../aspose.pdf/artifactcollection/findbyvalue/)(string, string) | Menemukan artefak berdasarkan nilai khusus. |
 | [GetEnumerator](../../aspose.pdf/artifactcollection/getenumerator/)() | Mendapatkan enumerator untuk koleksi. |
 | [Update](../../aspose.pdf/artifactcollection/update/)(Artifact) | Memperbarui artefak di dalam koleksi. |
 
 ### Lihat Juga
 
-* kelas [Artifact](../artifact/)
+* class [Artifact](../artifact/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

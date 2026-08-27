@@ -1,12 +1,12 @@
 ---
-title: TextMarkupAnnotation.GetMarkedTextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextMarkupAnnotation. Mendapatkan teks di bawah anotasi markup sebagai TextFragmentCollection
+title: "TextMarkupAnnotation.GetMarkedTextFragments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode TextMarkupAnnotation. Mendapatkan teks di bawah anotasi markup sebagai TextFragmentCollection"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 ---
-## Metode TextMarkupAnnotation.GetMarkedTextFragments
+## TextMarkupAnnotation.GetMarkedTextFragments method
 
 Mendapatkan teks di bawah anotasi markup sebagai [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/).
 
@@ -14,13 +14,15 @@ Mendapatkan teks di bawah anotasi markup sebagai [`TextFragmentCollection`](../.
 public TextFragmentCollection GetMarkedTextFragments()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/) yang berisi [`TextFragment`](../../../aspose.pdf.text/textfragment/) yang berada di bawah anotasi markup.
+[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/) containing [`TextFragment`](../../../aspose.pdf.text/textfragment/)s that is under markup annotation.
 
 ### Lihat Juga
 
-* kelas [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
-* kelas [TextMarkupAnnotation](../)
+* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextMarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

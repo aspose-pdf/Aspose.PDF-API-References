@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentInfo. Mendapatkan atau mengatur tanggal pembuatan dokumen
+title: "DocumentInfo.CreationDate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentInfo. Mendapatkan atau mengatur tanggal pembuatan dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/documentinfo/creationdate/
 ---
-## Properti DocumentInfo.TanggalPembuatan
+## DocumentInfo.CreationDate property
 
 Mendapatkan atau mengatur tanggal pembuatan dokumen.
 
@@ -16,6 +16,8 @@ public DateTime CreationDate { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

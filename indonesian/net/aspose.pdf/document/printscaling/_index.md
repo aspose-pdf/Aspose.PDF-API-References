@@ -1,12 +1,12 @@
 ---
-title: Document.PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan atau mengatur opsi skala halaman yang akan dipilih ketika dialog cetak ditampilkan untuk dokumen ini
+title: "Document.PrintScaling"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur opsi skala halaman yang akan dipilih ketika dialog cetak ditampilkan untuk dokumen ini"
 type: docs
-weight: 510
+weight: 530
 url: /id/net/aspose.pdf/document/printscaling/
 ---
-## Properti Document.PrintScaling
+## Document.PrintScaling property
 
 Mendapatkan atau mengatur opsi skala halaman yang akan dipilih ketika dialog cetak ditampilkan untuk dokumen ini.
 
@@ -20,3 +20,5 @@ public PrintScaling PrintScaling { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

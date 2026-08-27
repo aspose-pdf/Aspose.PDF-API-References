@@ -1,12 +1,12 @@
 ---
-title: Class CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.CompletionFunction. Mewakili objek fungsi
+title: "Kelas CompletionFunction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.CompletionFunction. Mewakili objek fungsi"
 type: docs
-weight: 230
+weight: 240
 url: /id/net/aspose.pdf.ai/completionfunction/
 ---
-## Kelas CompletionFunction
+## CompletionFunction class
 
 Mewakili objek fungsi.
 
@@ -24,9 +24,11 @@ public class CompletionFunction
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | Mendapatkan atau menetapkan nama fungsi yang akan dipanggil. |
+| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | Mendapatkan atau mengatur nama fungsi yang akan dipanggil. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

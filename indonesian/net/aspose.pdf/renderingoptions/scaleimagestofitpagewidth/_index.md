@@ -1,20 +1,20 @@
 ---
-title: ScaleImagesToFitPageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Mendapatkan atau mengatur nilai yang digunakan untuk mengubah ukuran semua gambar di halaman agar sesuai dengan lebar halaman.
+title: "ScaleImagesToFitPageWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mendapatkan atau mengatur nilai yang digunakan untuk mengubah skala semua gambar pada halaman agar sesuai dengan lebar halaman."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/renderingoptions/scaleimagestofitpagewidth/
 ---
 ## RenderingOptions.ScaleImagesToFitPageWidth property
 
-Mendapatkan atau mengatur nilai yang digunakan untuk mengubah ukuran semua gambar di halaman agar sesuai dengan lebar halaman.
+Mendapatkan atau mengatur nilai yang digunakan untuk mengubah skala semua gambar pada halaman agar sesuai dengan lebar halaman.
 
 ```csharp
 public bool ScaleImagesToFitPageWidth { get; set; }
 ```
 
-### See Also
+### Lihat Juga
 
 * class [RenderingOptions](../../renderingoptions)
 * namespace [Aspose.Pdf](../../renderingoptions)

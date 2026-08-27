@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.EncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Mengenkripsi file Pdf dengan userpassword dan ownerpassword dan mengatur hak akses dokumen. User password dan owner password dapat null atau kosong. Owner password akan diganti dengan string acak jika owner password input adalah null atau kosong. Menghasilkan pengecualian jika proses gagal
+title: "PdfFileSecurity.EncryptFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSecurity. Mengenkripsi file Pdf dengan kata sandi pengguna dan kata sandi pemilik serta mengatur hak akses dokumen. Kata sandi pengguna dan kata sandi pemilik dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik yang diberikan null atau kosong. Melemparkan pengecualian jika proses gagal"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdffilesecurity/encryptfile/
 ---
 ## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
-Mengenkripsi file Pdf dengan userpassword dan ownerpassword dan mengatur hak akses dokumen. User password dan owner password dapat null atau kosong. Owner password akan diganti dengan string acak jika owner password input adalah null atau kosong. Menghasilkan pengecualian jika proses gagal.
+Mengenkripsi file Pdf dengan kata sandi pengguna dan kata sandi pemilik serta mengatur hak akses dokumen. Kata sandi pengguna dan kata sandi pemilik dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik yang dimasukkan bernilai null atau kosong. Melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -17,14 +17,14 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| userPassword | String | User password. |
-| ownerPassword | String | Owner password. |
-| privilege | DocumentPrivilege | Atur hak akses. |
-| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit dan KeySize.x256 untuk enkripsi 256 bit. |
+| userPassword | String | Kata sandi pengguna. |
+| ownerPassword | String | Password pemilik. |
+| hak | DocumentPrivilege | Atur hak. |
+| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit, dan KeySize.x256 untuk enkripsi 256 bit. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses.
+True untuk keberhasilan.
 
 ## Contoh
 
@@ -54,7 +54,7 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
-Mengenkripsi file Pdf dengan userpassword dan ownerpassword dan mengatur hak akses dokumen. User password dan owner password dapat null atau kosong. Owner password akan diganti dengan string acak jika owner password input adalah null atau kosong. Terdapat 6 kombinasi nilai KeySize dan Algorithm yang mungkin. Namun (KeySize.x40, Algorithm.AES) dan (KeySize.x256, Algorithm.RC4) tidak valid dan pengecualian yang sesuai akan diangkat jika kit menemui kombinasi ini. Menghasilkan pengecualian jika proses gagal.
+Mengenkripsi file Pdf dengan kata sandi pengguna dan kata sandi pemilik serta mengatur hak akses dokumen. Kata sandi pengguna dan kata sandi pemilik dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik yang dimasukkan bernilai null atau kosong. Terdapat 6 kombinasi kemungkinan nilai KeySize dan Algorithm. Namun (KeySize.x40, Algorithm.AES) dan (KeySize.x256, Algorithm.RC4) tidak valid dan pengecualian yang sesuai akan diangkat jika kit menemukan kombinasi ini. Melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -63,15 +63,15 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| userPassword | String | User password. |
-| ownerPassword | String | Owner password. |
-| privilege | DocumentPrivilege | Atur hak akses. |
-| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit dan KeySize.x256 untuk enkripsi 256 bit. |
+| userPassword | String | Kata sandi pengguna. |
+| ownerPassword | String | Password pemilik. |
+| hak | DocumentPrivilege | Atur hak. |
+| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit, dan KeySize.x256 untuk enkripsi 256 bit. |
 | cipher | Algorithm | Algorithm.AES untuk mengenkripsi menggunakan algoritma AES atau Algorithm.RC4 untuk enkripsi RC4. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses.
+True untuk keberhasilan.
 
 ## Contoh
 
@@ -97,3 +97,5 @@ fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

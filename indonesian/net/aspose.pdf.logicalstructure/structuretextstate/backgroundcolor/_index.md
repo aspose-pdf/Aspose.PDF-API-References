@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureTextState. Mendapatkan atau mengatur warna latar belakang teks
+title: "StructureTextState.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureTextState. Mendapatkan atau mengatur warna latar belakang teks"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/
 ---
-## Properti StructureTextState.BackgroundColor
+## StructureTextState.BackgroundColor property
 
 Mendapatkan atau mengatur warna latar belakang teks.
 
@@ -16,11 +16,13 @@ public Color BackgroundColor { get; set; }
 
 ## Catatan
 
-Dapat bernilai null. Gunakan null untuk mewarisi properti `BackgroundColor` dari elemen struktur induk.
+Bisa bernilai null. Gunakan null untuk mewarisi properti `BackgroundColor` dari elemen struktur induk.
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [StructureTextState](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

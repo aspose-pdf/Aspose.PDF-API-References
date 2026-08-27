@@ -1,12 +1,12 @@
 ---
-title: Left.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Left. Konstruktor default
+title: "Left.Left"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor kiri. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/left/left/
 ---
-## Konstruktor Left
+## Left constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Left()
 
 ### Lihat Juga
 
-* kelas [Left](../)
+* class [Left](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

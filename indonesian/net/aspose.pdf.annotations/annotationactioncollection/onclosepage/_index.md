@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnClosePage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationActionCollection. Mendapatkan atau mengatur tindakan yang akan dilakukan ketika halaman yang berisi anotasi ditutup
+title: "AnnotationActionCollection.OnClosePage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi yang akan dilakukan ketika halaman yang berisi anotasi ditutup"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/annotationactioncollection/onclosepage/
 ---
-## Properti AnnotationActionCollection.OnClosePage
+## AnnotationActionCollection.OnClosePage property
 
-Mendapatkan atau mengatur tindakan yang akan dilakukan ketika halaman yang berisi anotasi ditutup.
+Mendapatkan atau mengatur aksi yang akan dilakukan ketika halaman yang berisi anotasi ditutup.
 
 ```csharp
 public PdfAction OnClosePage { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnClosePage { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../pdfaction/)
-* kelas [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

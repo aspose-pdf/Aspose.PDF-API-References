@@ -1,7 +1,7 @@
 ---
-title: ITaggedContent.CreateHeaderElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat HeaderElement
+title: "ITaggedContent.CreateHeaderElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat HeaderElement"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createheaderelement/
@@ -14,15 +14,15 @@ Membuat [`HeaderElement`](../../../aspose.pdf.logicalstructure/headerelement/).
 public HeaderElement CreateHeaderElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,15 +37,17 @@ public HeaderElement CreateHeaderElement(int level)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| level | Int32 | Tingkat Header. Harus 1, 2, 3, 4, 5 atau 6. |
+| tingkat | Int32 | Tingkat Header. Harus 1, 2, 3, 4, 5 atau 6. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

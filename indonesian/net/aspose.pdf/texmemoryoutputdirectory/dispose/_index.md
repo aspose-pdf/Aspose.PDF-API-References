@@ -1,14 +1,14 @@
 ---
-title: TeXMemoryOutputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXMemoryOutputDirectory. Menghapus instance
+title: "TeXMemoryOutputDirectory.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TeXMemoryOutputDirectory. Membebaskan instance."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/texmemoryoutputdirectory/dispose/
 ---
-## Metode TeXMemoryOutputDirectory.Dispose
+## TeXMemoryOutputDirectory.Dispose method
 
-Menghapus instance.
+Membuang instance.
 
 ```csharp
 public virtual void Dispose()
@@ -16,6 +16,8 @@ public virtual void Dispose()
 
 ### Lihat Juga
 
-* kelas [TeXMemoryOutputDirectory](../)
+* class [TeXMemoryOutputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

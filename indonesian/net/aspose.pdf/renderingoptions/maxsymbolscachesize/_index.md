@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions.MaxSymbolsCacheSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RenderingOptions. Jumlah maksimum simbol dalam cache simbol. Nilai default adalah 100
+title: "RenderingOptions.MaxSymbolsCacheSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RenderingOptions. Jumlah maksimum simbol dalam cache simbol. Nilai default adalah 100"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/renderingoptions/maxsymbolscachesize/
 ---
-## Properti RenderingOptions.MaxSymbolsCacheSize
+## RenderingOptions.MaxSymbolsCacheSize property
 
 Jumlah maksimum simbol dalam cache simbol. Nilai default adalah 100.
 
@@ -16,6 +16,8 @@ public int MaxSymbolsCacheSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

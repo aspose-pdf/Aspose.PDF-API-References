@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.Info
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutputIntent. Mengambil atau mengatur teks yang dapat dibaca manusia yang berisi informasi tambahan atau komentar tentang perangkat target yang dimaksud atau kondisi produksi
+title: "OutputIntent.Info"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutputIntent. Mendapatkan atau mengatur teks yang dapat dibaca manusia yang berisi informasi tambahan atau komentar tentang perangkat target yang dimaksud atau kondisi produksi."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/outputintent/info/
 ---
-## Properti OutputIntent.Info
+## OutputIntent.Info property
 
-Mengambil atau mengatur teks yang dapat dibaca manusia yang berisi informasi tambahan atau komentar tentang perangkat target yang dimaksud atau kondisi produksi.
+Mendapatkan atau mengatur teks yang dapat dibaca manusia yang berisi informasi tambahan atau komentar tentang perangkat target yang dimaksud atau kondisi produksi.
 
 ```csharp
 public string Info { get; set; }
@@ -16,6 +16,8 @@ public string Info { get; set; }
 
 ### Lihat Juga
 
-* kelas [OutputIntent](../)
+* class [OutputIntent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

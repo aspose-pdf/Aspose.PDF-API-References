@@ -1,25 +1,27 @@
 ---
-title: CosPdfName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfName. Mengembalikan String yang mewakili CosPdfName saat ini
+title: "CosPdfName.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfName. Mengembalikan sebuah String yang merepresentasikan CosPdfName saat ini"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.dataeditor/cospdfname/tostring/
 ---
-## Metode CosPdfName.ToString
+## CosPdfName.ToString method
 
-Mengembalikan String yang mewakili [`CosPdfName`](../) saat ini.
+Mengembalikan sebuah String yang merepresentasikan [`CosPdfName`](../) saat ini.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah String yang mewakili [`CosPdfName`](../) saat ini.
+Sebuah String yang merepresentasikan [`CosPdfName`](../) saat ini.
 
 ### Lihat Juga
 
-* kelas [CosPdfName](../)
+* class [CosPdfName](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ExpiresAfter.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: ExpiresAfter constructor. The default constructor
+title: "ExpiresAfter.ExpiresAfter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ExpiresAfter constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/expiresafter/expiresafter/
 ---
-## Konstruktor ExpiresAfter
+## ExpiresAfter constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ExpiresAfter()
 
 ### Lihat Juga
 
-* kelas [ExpiresAfter](../)
+* class [ExpiresAfter](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

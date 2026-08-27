@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.DisableFontLicenseVerifications
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LoadOptions. Mendapatkan atau mengatur bendera untuk menonaktifkan batasan lisensi untuk semua font saat memuat file. Ketika benar, memungkinkan untuk melakukan operasi dengan font yang dilarang oleh lisensi font ini, misalnya memungkinkan untuk menyematkan font ke dalam dokumen PDF meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default salah
+title: "LoadOptions.DisableFontLicenseVerifications"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LoadOptions. Mendapatkan atau mengatur flag untuk menonaktifkan semua pembatasan lisensi pada semua font saat memuat file. Ketika true, memungkinkan melakukan operasi dengan font yang dilarang oleh lisensi font tersebut, misalnya memungkinkan menyematkan font ke dalam dokumen PDF meskipun aturan lisensi melarang penyematan untuk font ini. Secara default false."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/loadoptions/disablefontlicenseverifications/
 ---
-## Properti LoadOptions.DisableFontLicenseVerifications
+## LoadOptions.DisableFontLicenseVerifications property
 
-Mendapatkan atau mengatur bendera untuk menonaktifkan batasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan untuk melakukan operasi dengan font yang dilarang oleh lisensi font ini, misalnya memungkinkan untuk menyematkan font ke dalam dokumen PDF meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`.
+Mendapatkan atau mengatur bendera untuk menonaktifkan semua pembatasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan melakukan operasi dengan font yang dilarang oleh lisensi font tersebut, misalnya memungkinkan menyematkan font ke dalam PDF document meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`.
 
 ```csharp
 public bool DisableFontLicenseVerifications { get; set; }
@@ -16,10 +16,12 @@ public bool DisableFontLicenseVerifications { get; set; }
 
 ## Catatan
 
-Hati-hati saat menggunakan bendera ini. Ketika diatur, itu berarti bahwa orang yang mengatur bendera ini, mengambil semua tanggung jawab atas kemungkinan pelanggaran lisensi/hukum pada dirinya sendiri. Jadi dia mengambilnya dengan risikonya sendiri. Sangat disarankan untuk menggunakan bendera ini hanya ketika Anda sepenuhnya yakin bahwa Anda tidak melanggar undang-undang hak cipta.
+Berhati-hatilah saat menggunakan flag ini. Ketika flag ini diaktifkan, berarti orang yang mengaturnya mengambil semua tanggung jawab atas kemungkinan pelanggaran lisensi/hukum atas dirinya sendiri. Jadi ia menanggung risikonya sendiri. Sangat disarankan untuk menggunakan flag ini hanya ketika Anda yakin sepenuhnya bahwa Anda tidak melanggar hukum hak cipta.
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [LoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

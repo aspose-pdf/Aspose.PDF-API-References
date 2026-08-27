@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Rtf_105
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeOwnerStandard. Pemilik atribut RTF1.05
+title: "AttributeOwnerStandard.Rtf_105"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeOwnerStandard. Pemilik atribut RTF1.05"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/
 ---
-## Bidang AttributeOwnerStandard.Rtf_105
+## AttributeOwnerStandard.Rtf_105 field
 
 Pemilik atribut RTF-1.05.
 
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Rtf_105;
 
 ### Lihat Juga
 
-* kelas [AttributeOwnerStandard](../)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

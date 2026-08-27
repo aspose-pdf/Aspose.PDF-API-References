@@ -1,7 +1,7 @@
 ---
-title: ShowText.ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ShowText. Menginisialisasi operator Tj
+title: "ShowText.ShowText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ShowText. Menginisialisasi operator Tj"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/showtext/showtext/
@@ -17,11 +17,11 @@ public ShowText(int index, string text)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks operator dalam daftar operator. |
-| text | String | argumen dari operator. |
+| teks | String | argumen operator. |
 
 ### Lihat Juga
 
-* kelas [ShowText](../)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,11 +37,11 @@ public ShowText(string text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | argumen dari operator. |
+| teks | String | argumen operator. |
 
 ### Lihat Juga
 
-* kelas [ShowText](../)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,13 +57,13 @@ public ShowText(string text, Font font)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | teks yang akan ditambahkan. |
+| teks | String | teks untuk ditambahkan. |
 | font | Font | font yang digunakan untuk menggambar teks. |
 
 ### Lihat Juga
 
-* kelas [Font](../../../aspose.pdf.text/font/)
-* kelas [ShowText](../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -79,6 +79,8 @@ public ShowText()
 
 ### Lihat Juga
 
-* kelas [ShowText](../)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.AddFieldScript
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Tambahkan JavaScript untuk bidang PushButton. Jika acara lama ada, acara baru ditambahkan setelahnya
+title: "FormEditor.AddFieldScript"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Tambahkan JavaScript untuk bidang PushButton. Jika acara lama ada, acara baru ditambahkan setelahnya."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/formeditor/addfieldscript/
 ---
-## Metode FormEditor.AddFieldScript
+## FormEditor.AddFieldScript method
 
-Tambahkan JavaScript untuk bidang PushButton. Jika acara lama ada, acara baru ditambahkan setelahnya.
+Tambahkan JavaScript untuk bidang PushButton. Jika acara lama ada, acara baru akan ditambahkan setelahnya.
 
 ```csharp
 public bool AddFieldScript(string fieldName, string script)
@@ -16,15 +16,17 @@ public bool AddFieldScript(string fieldName, string script)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama bidang yang sepenuhnya memenuhi syarat. |
-| script | String | Java script yang akan ditambahkan/ditempatkan ke dalam bidang tombol dorong. |
+| fieldName | String | Nama bidang yang sepenuhnya memenuhi kualifikasi. |
+| skrip | String | Skrip Java yang akan ditambahkan/ditempatkan ke dalam bidang tombol push. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika skrip berhasil ditambahkan.
+Benar jika skrip berhasil ditambahkan.
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Field.IsSharedField
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Properti untuk dukungan Generator. Digunakan ketika field ditambahkan ke header atau footer. Jika benar, field ini akan dibuat sekali dan tampilannya akan terlihat di semua halaman dokumen. Jika salah, field terpisah akan dibuat untuk setiap halaman dokumen.
+title: "Field.IsSharedField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Properti untuk dukungan Generator. Digunakan ketika field ditambahkan ke header atau footer. Jika true, field ini akan dibuat sekali dan penampilannya akan terlihat pada semua halaman dokumen. Jika false, field terpisah akan dibuat untuk setiap halaman dokumen."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/field/issharedfield/
 ---
-## Properti Field.IsSharedField
+## Field.IsSharedField property
 
-Properti untuk dukungan Generator. Digunakan ketika field ditambahkan ke header atau footer. Jika benar, field ini akan dibuat sekali dan tampilannya akan terlihat di semua halaman dokumen. Jika salah, field terpisah akan dibuat untuk setiap halaman dokumen.
+Properti untuk dukungan Generator. Digunakan ketika field ditambahkan ke header atau footer. Jika true, field ini akan dibuat satu kali dan penampilannya akan terlihat pada semua page Document. Jika false, field terpisah akan dibuat untuk setiap page Document.
 
 ```csharp
 public bool IsSharedField { get; set; }
@@ -16,6 +16,8 @@ public bool IsSharedField { get; set; }
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

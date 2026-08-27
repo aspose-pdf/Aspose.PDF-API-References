@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfConverter. Menginisialisasi objek PdfConverter baru
+title: "PdfConverter.PdfConverter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfConverter. Menginisialisasi objek PdfConverter baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdfconverter/pdfconverter/
@@ -16,7 +16,7 @@ public PdfConverter()
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfConverter()
 
 ## PdfConverter(Document) {#constructor_1}
 
-Menginisialisasi objek [`PdfConverter`](../) baru berdasarkan *dokumen*.
+Menginisialisasi objek [`PdfConverter`](../) baru berdasarkan *document*.
 
 ```csharp
 public PdfConverter(Document document)
@@ -32,11 +32,13 @@ public PdfConverter(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dokumen | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Dokumen](../../../aspose.pdf/document/)
-* kelas [PdfConverter](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

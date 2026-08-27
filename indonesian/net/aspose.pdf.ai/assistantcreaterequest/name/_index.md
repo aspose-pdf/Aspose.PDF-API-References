@@ -1,14 +1,14 @@
 ---
-title: AssistantCreateRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AssistantCreateRequest. Mengambil atau mengatur nama asisten. Panjang maksimum adalah 256 karakter
+title: "AssistantCreateRequest.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AssistantCreateRequest. Mendapatkan atau mengatur nama asisten. Panjang maksimum adalah 256 karakter."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/assistantcreaterequest/name/
 ---
-## Properti AssistantCreateRequest.Name
+## AssistantCreateRequest.Name property
 
-Mengambil atau mengatur nama asisten. Panjang maksimum adalah 256 karakter.
+Mendapatkan atau mengatur nama asisten. Panjang maksimum adalah 256 karakter.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [AssistantCreateRequest](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AssistantCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

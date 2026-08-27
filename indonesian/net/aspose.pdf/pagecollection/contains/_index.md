@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Menentukan apakah instansi ini mengandung objek
+title: "PageCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageCollection. Menentukan apakah instance ini berisi objek tersebut"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/pagecollection/contains/
 ---
-## Metode PageCollection.Contains
+## PageCollection.Contains method
 
-Menentukan apakah instansi ini mengandung objek.
+Menentukan apakah instance ini berisi objek tersebut.
 
 ```csharp
 public bool Contains(Page item)
@@ -16,11 +16,11 @@ public bool Contains(Page item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | Page | Item tersebut. |
+| item | Halaman | Item tersebut. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-`true` jika [mengandung] [item yang ditentukan]; jika tidak, `false`.
+`true` jika [contains] [the specified item]; sebaliknya, `false`.
 
 ### Pengecualian
 
@@ -30,7 +30,9 @@ public bool Contains(Page item)
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

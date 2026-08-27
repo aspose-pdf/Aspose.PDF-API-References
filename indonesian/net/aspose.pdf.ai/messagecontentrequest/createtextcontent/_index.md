@@ -1,12 +1,12 @@
 ---
-title: MessageContentRequest.CreateTextContent
-second_title: Aspose.PDF for .NET API Reference
-description: Metode MessageContentRequest. Membuat konten teks untuk sebuah pesan
+title: "MessageContentRequest.CreateTextContent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MessageContentRequest method. Membuat konten teks untuk sebuah pesan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/messagecontentrequest/createtextcontent/
 ---
-## Metode MessageContentRequest.CreateTextContent
+## MessageContentRequest.CreateTextContent method
 
 Membuat konten teks untuk sebuah pesan.
 
@@ -16,14 +16,16 @@ public static MessageContentRequest CreateTextContent(string text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks dari pesan. |
+| teks | String | Konten teks pesan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah instance baru dari MessageContentRequest dengan konten teks.
+Instansi baru MessageContentRequest dengan konten teks.
 
 ### Lihat Juga
 
-* kelas [MessageContentRequest](../)
+* class [MessageContentRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Metadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Metadata. Menghapus entri dari metadata
+title: "Metadata.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Metadata. Menghapus entri dari metadata"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf/metadata/remove/
@@ -16,15 +16,15 @@ public bool Remove(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci entri yang akan dihapus. |
+| kunci | String | Kunci entri yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika kunci dihapus; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -42,13 +42,15 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Pasangan kunci/nilai yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika pasangan ditemukan dan dihapus.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../xmpvalue/)
-* kelas [Metadata](../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

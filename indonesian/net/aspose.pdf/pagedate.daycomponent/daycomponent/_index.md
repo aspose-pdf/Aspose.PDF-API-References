@@ -1,12 +1,12 @@
 ---
-title: PageDate.DayComponent.DayComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor DayComponent. Konstruktor default
+title: "PageDate.DayComponent.DayComponent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor DayComponent. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pagedate.daycomponent/daycomponent/
 ---
-## Konstruktor PageDate.DayComponent
+## PageDate.DayComponent constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public DayComponent()
 
 ### Lihat Juga
 
-* kelas [DayComponent](../)
+* class [DayComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.TaggedContent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan akses ke konten TaggedPdf
+title: "Document.TaggedContent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Document properti. Mendapatkan akses ke konten TaggedPdf."
 type: docs
-weight: 520
+weight: 540
 url: /id/net/aspose.pdf/document/taggedcontent/
 ---
-## Properti Document.TaggedContent
+## Document.TaggedContent property
 
 Mendapatkan akses ke konten TaggedPdf.
 
@@ -19,34 +19,34 @@ public ITaggedContent TaggedContent { get; }
 Contoh ini menunjukkan cara menggunakan konten bertag untuk membuat dokumen baru dengan header, paragraf, dan gambar.
 
 ```csharp
-// Create new document
+// Buat dokumen baru
 Document document = new Document();
 
-// Get the tagged content
+// Dapatkan konten yang ditandai
 ITaggedContent taggedContent = document.TaggedContent;
 
-// Set language for document
+// Atur bahasa untuk dokumen
 taggedContent.SetLanguage("en-US");
 
-// Set title for PDF document
+// Atur judul untuk dokumen PDF
 taggedContent.SetTitle("Example document");
 
-// Creating and adding Section
+// Membuat dan menambahkan Section
 SectElement sect = taggedContent.CreateSectElement();
 taggedContent.RootElement.AppendChild(sect);
 
-// Create Header
+// Buat Header
 HeaderElement h1 = taggedContent.CreateHeaderElement(1);
 h1.SetText("The Header");
 sect.AppendChild(h1);
 
-// Create paragraph
+// Buat paragraf
 ParagraphElement p = taggedContent.CreateParagraphElement();
 p.SetTag("Paragraph");
 p.SetText("The text of paragraph.");
 sect.AppendChild(p);
 
-// Create illustration
+// Buat ilustrasi
 IllustrationElement figure1 = taggedContent.CreateFigureElement();
 sect.AppendChild(figure1);
 figure1.AlternativeText = "Figure 1";
@@ -54,13 +54,15 @@ figure1.Title = "Image 1";
 figure1.SetTag("Fig");
 figure1.SetImage("path/of/image.jpg");
 
-// Save document
+// Simpan dokumen
 document.Save("example.pdf");
 ```
 
 ### Lihat Juga
 
-* antarmuka [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
-* kelas [Document](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

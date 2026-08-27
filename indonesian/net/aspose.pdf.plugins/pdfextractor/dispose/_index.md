@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Implementasi dari IDisposable. Sebenarnya tidak diperlukan untuk PdfExtractor
+title: "PdfExtractor.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Implementasi IDisposable. Sebenarnya tidak diperlukan untuk PdfExtractor"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/pdfextractor/dispose/
 ---
-## Metode PdfExtractor.Dispose
+## PdfExtractor.Dispose method
 
-Implementasi dari IDisposable. Sebenarnya, itu tidak diperlukan untuk PdfExtractor.
+Implementasi IDisposable. Sebenarnya, ini tidak diperlukan untuk PdfExtractor.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

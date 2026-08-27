@@ -1,14 +1,14 @@
 ---
-title: Class GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.GoToAction. Mewakili aksi go-to yang mengubah tampilan ke lokasi halaman tujuan tertentu dan faktor pembesaran
+title: "Kelas GoToAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.GoToAction class. Mewakili aksi goto yang mengubah tampilan ke lokasi halaman tujuan yang ditentukan serta faktor perbesaran."
 type: docs
-weight: 1830
+weight: 1920
 url: /id/net/aspose.pdf.annotations/gotoaction/
 ---
-## Kelas GoToAction
+## GoToAction class
 
-Mewakili aksi go-to yang mengubah tampilan ke tujuan tertentu (halaman, lokasi, dan faktor pembesaran).
+Merepresentasikan aksi pergi-ke yang mengubah tampilan ke tujuan yang ditentukan (halaman, lokasi, dan faktor pembesaran).
 
 ```csharp
 public class GoToAction : PdfAction
@@ -20,7 +20,7 @@ public class GoToAction : PdfAction
 | --- | --- |
 | [GoToAction](gotoaction/#constructor_1)(ExplicitDestination) | Konstruktor. |
 | [GoToAction](gotoaction/#constructor_3)(Page) | Konstruktor untuk kelas GoToAction. |
-| [GoToAction](gotoaction/#constructor_2)(Document, string) | Aksi yang terhubung dengan Tujuan Bernama. |
+| [GoToAction](gotoaction/#constructor_2)(Document, string) | Aksi yang terhubung dengan Named Destination. |
 | [GoToAction](gotoaction/#constructor_4)(Page, ExplicitDestinationType, params double[]) | Konstruktor untuk kelas GoToAction. |
 
 ## Properti
@@ -34,10 +34,12 @@ public class GoToAction : PdfAction
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk Aksi ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk ECMAScript Action. |
 
 ### Lihat Juga
 
-* kelas [PdfAction](../pdfaction/)
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

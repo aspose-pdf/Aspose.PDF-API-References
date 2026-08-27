@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LevelFormat. Mendapatkan atau mengatur garis putus TOC
+title: "LevelFormat.LineDash"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LevelFormat. Mendapatkan atau mengatur dash garis TOC"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/levelformat/linedash/
 ---
-## Properti LevelFormat.LineDash
+## LevelFormat.LineDash property
 
-Mendapatkan atau mengatur garis putus TOC.
+Mendapatkan atau mengatur dash garis TOC.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

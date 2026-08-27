@@ -1,12 +1,12 @@
 ---
-title: TableElement.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan atau mengatur koordinat atas tabel
+title: "TableElement.Top"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableElement properti. Mendapatkan atau mengatur koordinat atas tabel"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.logicalstructure/tableelement/top/
 ---
-## Properti TableElement.Top
+## TableElement.Top property
 
 Mendapatkan atau mengatur koordinat atas tabel.
 
@@ -16,6 +16,8 @@ public float Top { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableElement](../)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

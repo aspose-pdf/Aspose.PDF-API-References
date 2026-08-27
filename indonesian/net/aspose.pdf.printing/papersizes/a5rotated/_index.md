@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A5Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas A5 diputar 210 mm x 148 mm
+title: "PaperSizes.A5Rotated"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PaperSizes. Kertas A5 yang diputar 210 mm x 148 mm"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.printing/papersizes/a5rotated/
 ---
-## Bidang PaperSizes.A5Rotated
+## PaperSizes.A5Rotated field
 
 Kertas A5 diputar (210 mm x 148 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize A5Rotated;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

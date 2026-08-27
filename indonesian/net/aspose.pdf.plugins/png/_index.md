@@ -1,12 +1,12 @@
 ---
-title: Class Png
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.Png. Mewakili plugin Pdf ke Png
+title: "Kelas Png"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.Png. Mewakili plugin Pdf ke Png"
 type: docs
-weight: 9170
+weight: 9320
 url: /id/net/aspose.pdf.plugins/png/
 ---
-## Kelas Png
+## Png class
 
 Mewakili plugin Pdf ke Png.
 
@@ -24,11 +24,13 @@ public sealed class Png : PdfToImage
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementasi dari . Sebenarnya, tidak perlu untuk . |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementasi dari . Sebenarnya, tidak diperlukan untuk . |
 | [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Memulai pemrosesan dengan parameter yang ditentukan. |
 
 ### Lihat Juga
 
-* kelas [PdfToImage](../pdftoimage/)
+* class [PdfToImage](../pdftoimage/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.Default
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Mendapatkan objek PdfFormatConversionOptions dengan parameter default
+title: "PdfFormatConversionOptions.Default"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Mendapatkan objek PdfFormatConversionOptions dengan parameter default."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pdfformatconversionoptions/default/
 ---
-## Properti PdfFormatConversionOptions.Default
+## PdfFormatConversionOptions.Default property
 
 Mendapatkan objek PdfFormatConversionOptions dengan parameter default
 
@@ -16,6 +16,8 @@ public static PdfFormatConversionOptions Default { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFormatConversionOptions](../)
+* class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

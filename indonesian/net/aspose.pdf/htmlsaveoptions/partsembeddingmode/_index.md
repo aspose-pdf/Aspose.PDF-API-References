@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.PartsEmbeddingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Field HtmlSaveOptions. Ini mendefinisikan apakah file yang direferensikan akan disematkan ke dalam file HTML utama atau akan dihasilkan sebagai entitas biner terpisah
+title: "HtmlSaveOptions.PartsEmbeddingMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlSaveOptions field. Ini menentukan apakah file yang direferensikan seperti HTML, Font, Image, CSS akan disematkan ke dalam file HTML utama atau akan dihasilkan sebagai entitas biner terpisah."
 type: docs
 weight: 390
 url: /id/net/aspose.pdf/htmlsaveoptions/partsembeddingmode/
 ---
-## Field HtmlSaveOptions.PartsEmbeddingMode
+## HtmlSaveOptions.PartsEmbeddingMode field
 
-Ini mendefinisikan apakah file yang direferensikan (HTML, Fonts, Images, CSSes) akan disematkan ke dalam file HTML utama atau akan dihasilkan sebagai entitas biner terpisah
+Ini menentukan apakah file yang direferensikan (HTML, Font, Gambar, CSS) akan disematkan ke dalam file HTML utama atau akan dihasilkan sebagai entitas biner terpisah
 
 ```csharp
 public PartsEmbeddingModes PartsEmbeddingMode;
@@ -20,3 +20,5 @@ public PartsEmbeddingModes PartsEmbeddingMode;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

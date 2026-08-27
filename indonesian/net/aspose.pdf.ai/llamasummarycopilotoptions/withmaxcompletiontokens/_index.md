@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaSummaryCopilotOptions. Mengatur token penyelesaian maksimum untuk opsi copilot ringkasan
+title: "LlamaSummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaSummaryCopilotOptions. Mengatur token penyelesaian maksimum untuk opsi copilot ringkasan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/
 ---
-## Metode LlamaSummaryCopilotOptions.WithMaxCompletionTokens
+## LlamaSummaryCopilotOptions.WithMaxCompletionTokens method
 
 Mengatur token penyelesaian maksimum untuk opsi copilot ringkasan.
 
@@ -16,14 +16,16 @@ public LlamaSummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionToke
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | Token penyelesaian maksimum yang akan diatur. |
+| maxCompletionTokens | Nullable`1 | Token penyelesaian maksimum yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

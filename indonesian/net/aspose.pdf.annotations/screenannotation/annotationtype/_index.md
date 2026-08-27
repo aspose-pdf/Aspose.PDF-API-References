@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ScreenAnnotation. Mendapatkan jenis anotasi
+title: "ScreenAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ScreenAnnotation properti. Mendapatkan tipe Annotation"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/screenannotation/annotationtype/
 ---
-## Properti ScreenAnnotation.AnnotationType
+## ScreenAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [ScreenAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

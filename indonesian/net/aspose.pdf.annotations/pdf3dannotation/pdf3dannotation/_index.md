@@ -1,7 +1,7 @@
 ---
-title: PDF3DAnnotation.PDF3DAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PDF3DAnnotation. Menginisialisasi instance baru dari kelas PDF3DAnnotation
+title: "PDF3DAnnotation.PDF3DAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PDF3DAnnotation. Menginisialisasi instance baru dari kelas PDF3DAnnotation"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/pdf3dannotation/
@@ -16,16 +16,16 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman. |
+| halaman | Halaman | Halaman. |
 | rect | Rectangle | Persegi panjang. |
-| pdf3DArtwork | PDF3DArtwork | Karya 3D. |
+| pdf3DArtwork | PDF3DArtwork | Karya Seni 3D. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [PDF3DArtwork](../../pdf3dartwork/)
-* kelas [PDF3DAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -42,23 +42,25 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman. |
+| halaman | Halaman | Halaman. |
 | rect | Rectangle | Persegi panjang. |
-| pdf3DArtwork | PDF3DArtwork | Karya 3D. |
-| activation | PDF3DActivation | Mode aktivasi. |
+| pdf3DArtwork | PDF3DArtwork | Karya Seni 3D. |
+| aktivasi | PDF3DActivation | Mode aktivasi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| Exception | Aliran 3D sudah ditambahkan ke Karya 3D saat ini |
+| Exception | Aliran 3D sudah ditambahkan ke Artwork 3D saat ini |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [PDF3DArtwork](../../pdf3dartwork/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
 * enum [PDF3DActivation](../../pdf3dactivation/)
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

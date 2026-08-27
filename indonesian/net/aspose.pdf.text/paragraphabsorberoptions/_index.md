@@ -1,12 +1,12 @@
 ---
-title: Class ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.ParagraphAbsorberOptions. Mewakili opsi untuk ParagraphAbsorber
+title: "Kelas ParagraphAbsorberOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.ParagraphAbsorberOptions. Mewakili opsi untuk ParagraphAbsorber"
 type: docs
-weight: 10680
+weight: 10860
 url: /id/net/aspose.pdf.text/paragraphabsorberoptions/
 ---
-## Kelas ParagraphAbsorberOptions
+## ParagraphAbsorberOptions class
 
 Mewakili opsi untuk [`ParagraphAbsorber`](../paragraphabsorber/).
 
@@ -24,11 +24,13 @@ public sealed class ParagraphAbsorberOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [SearchRectangle](../../aspose.pdf.text/paragraphabsorberoptions/searchrectangle/) { get; set; } | Mendapatkan atau menetapkan persegi panjang pencarian paragraf. |
-| [SectionUnbreakingHorizontalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakinghorizontaloverride/) { get; set; } | Mendapatkan atau menetapkan panjang maksimum zona dengan 'tingkat pengisian nol' yang tidak akan diperlakukan sebagai pemisah bagian horizontal yang sebenarnya (sebagai fraksi dari lebar / tinggi halaman). Nilai default adalah 0.005. |
-| [SectionUnbreakingVerticalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakingverticaloverride/) { get; set; } | Mendapatkan atau menetapkan panjang maksimum zona dengan 'tingkat pengisian nol' yang tidak akan diperlakukan sebagai pemisah bagian vertikal yang sebenarnya (sebagai fraksi dari lebar / tinggi halaman). Nilai default adalah 0.005. |
+| [SearchRectangle](../../aspose.pdf.text/paragraphabsorberoptions/searchrectangle/) { get; set; } | Mengambil atau mengatur persegi panjang pencarian paragraf. |
+| [SectionUnbreakingHorizontalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakinghorizontaloverride/) { get; set; } | Mengambil atau mengatur panjang maksimum zona dengan 'zero filling level' yang tidak akan diperlakukan sebagai pemisah bagian horizontal sebenarnya (sebagai fraksi lebar / tinggi halaman). Nilai default adalah 0.005. |
+| [SectionUnbreakingVerticalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakingverticaloverride/) { get; set; } | Mengambil atau mengatur panjang maksimum zona dengan 'zero filling level' yang tidak akan diperlakukan sebagai pemisah bagian vertikal sebenarnya (sebagai fraksi lebar / tinggi halaman). Nilai default adalah 0.005. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Menyisipkan halaman kosong ke dalam koleksi pada posisi yang ditentukan. Jika dokumen sudah berisi halaman dengan ukuran yang bervariasi, ukuran halaman yang paling sering muncul akan dipilih. Jika hanya ada dua halaman yang berbeda, ukuran halaman pertama akan digunakan.
+title: "PageCollection.Insert"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageCollection. Menyisipkan Page kosong ke dalam koleksi pada posisi yang ditentukan. Jika Document sudah berisi pages dengan ukuran yang bervariasi, ukuran page yang paling sering muncul akan dipilih. Jika hanya ada dua pages yang berbeda, ukuran page pertama akan digunakan."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/pagecollection/insert/
 ---
 ## Insert(int) {#insert}
 
-Menyisipkan halaman kosong ke dalam koleksi pada posisi yang ditentukan. Jika dokumen sudah berisi halaman dengan ukuran yang bervariasi, ukuran halaman yang paling sering muncul akan dipilih. Jika hanya ada dua halaman yang berbeda, ukuran halaman pertama akan digunakan.
+Masukkan halaman kosong ke dalam koleksi pada posisi yang ditentukan. Jika dokumen sudah berisi halaman dengan ukuran yang berbeda-beda, ukuran halaman yang paling sering muncul akan dipilih. Jika hanya ada dua halaman yang berbeda, ukuran halaman pertama akan digunakan.
 
 ```csharp
 public Page Insert(int pageNumber)
@@ -16,16 +16,16 @@ public Page Insert(int pageNumber)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Posisi halaman baru. |
+| pageNumber | Int32 | Posisi Page baru. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Halaman yang disisipkan.
+Page yang disisipkan.
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ Halaman yang disisipkan.
 
 ## Insert(int, Page) {#insert_1}
 
-Menyisipkan halaman ke dalam koleksi halaman di tempat yang ditentukan.
+Menyisipkan halaman ke dalam koleksi halaman pada tempat yang ditentukan.
 
 ```csharp
 public Page Insert(int pageNumber, Page entity)
@@ -41,17 +41,17 @@ public Page Insert(int pageNumber, Page entity)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Indeks halaman yang diperlukan dalam koleksi. |
-| entity | Page | Halaman yang akan disisipkan. |
+| pageNumber | Int32 | Indeks page yang diperlukan dalam koleksi. |
+| entitas | Halaman | Page yang akan disisipkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Halaman yang disisipkan.
+Page yang disisipkan.
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -67,13 +67,13 @@ public void Insert(int pageNumber, ICollection<Page> pages)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Posisi awal halaman baru. |
-| pages | ICollection`1 | Koleksi halaman. |
+| pageNumber | Int32 | Posisi awal pages baru. |
+| halaman | ICollection`1 | Koleksi Pages. |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -89,12 +89,14 @@ public void Insert(int pageNumber, Page[] pages)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Nomor awal halaman baru. |
-| pages | Page[] | Array halaman yang akan disisipkan. |
+| pageNumber | Int32 | Jumlah awal pages baru. |
+| halaman | Page[] | Array pages yang akan disisipkan. |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

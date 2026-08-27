@@ -1,12 +1,12 @@
 ---
-title: Stamp.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mendapatkan atau mengatur nomor halaman
+title: "Stamp.PageNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau mengatur nomor halaman"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/stamp/pagenumber/
 ---
-## Properti Stamp.PageNumber
+## Stamp.PageNumber property
 
 Mendapatkan atau mengatur nomor halaman.
 
@@ -16,6 +16,8 @@ public int PageNumber { get; set; }
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

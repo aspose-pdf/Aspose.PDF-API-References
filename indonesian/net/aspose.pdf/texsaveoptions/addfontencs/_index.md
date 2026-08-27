@@ -1,14 +1,14 @@
 ---
-title: TeXSaveOptions.AddFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXSaveOptions. Menambahkan pengkodean font ke daftar pengkodean font
+title: "TeXSaveOptions.AddFontEncs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TeXSaveOptions. Menambahkan enkoding font ke daftar enkoding font"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/texsaveoptions/addfontencs/
 ---
-## Metode TeXSaveOptions.AddFontEncs
+## TeXSaveOptions.AddFontEncs method
 
-Menambahkan pengkodean font ke daftar pengkodean font
+Menambahkan ancoding font ke daftar encoding font
 
 ```csharp
 public void AddFontEncs(params string[] fontEncs)
@@ -16,10 +16,12 @@ public void AddFontEncs(params string[] fontEncs)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fontEncs | String[] | Pengkodean font. |
+| fontEncs | String[] | Enkoding font. |
 
 ### Lihat Juga
 
-* kelas [TeXSaveOptions](../)
+* class [TeXSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

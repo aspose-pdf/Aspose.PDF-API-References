@@ -1,25 +1,27 @@
 ---
-title: Color.LightCoral
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFF08080
+title: "Color.LightCoral"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Color properti. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFF08080"
 type: docs
 weight: 660
 url: /id/net/aspose.pdf/color/lightcoral/
 ---
-## Properti Color.LightCoral
+## Color.LightCoral property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFF08080.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFF08080.
 
 ```csharp
 public static Color LightCoral { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

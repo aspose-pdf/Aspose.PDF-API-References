@@ -1,25 +1,27 @@
 ---
-title: Color.Orchid
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFDA70D6
+title: "Color.Orchid"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFDA70D6"
 type: docs
 weight: 1030
 url: /id/net/aspose.pdf/color/orchid/
 ---
-## Properti Color.Orchid
+## Color.Orchid property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFDA70D6.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFDA70D6.
 
 ```csharp
 public static Color Orchid { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

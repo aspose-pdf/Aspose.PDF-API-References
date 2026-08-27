@@ -1,12 +1,12 @@
 ---
-title: TextStyle.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStyle. Mendapatkan dan mengatur warna latar belakang
+title: "TextStyle.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStyle. Mendapatkan dan mengatur warna latar belakang"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.comparison/textstyle/backgroundcolor/
 ---
-## Properti TextStyle.BackgroundColor
+## TextStyle.BackgroundColor property
 
 Mendapatkan dan mengatur warna latar belakang.
 
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [TextStyle](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

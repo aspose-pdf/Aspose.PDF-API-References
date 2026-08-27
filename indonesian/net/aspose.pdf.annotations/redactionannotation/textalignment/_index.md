@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RedactionAnnotation. Mendapatkan atau mengatur. Penjajaran Teks Overlay
+title: "RedactionAnnotation.TextAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RedactionAnnotation. Mendapatkan atau mengatur Penjajaran Overlay Text"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.annotations/redactionannotation/textalignment/
 ---
-## Properti RedactionAnnotation.TextAlignment
+## RedactionAnnotation.TextAlignment property
 
-Mendapatkan atau mengatur. Penjajaran Teks Overlay.
+Mendapatkan atau mengatur. Penjajaran Overlay Text.
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment TextAlignment { get; set; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

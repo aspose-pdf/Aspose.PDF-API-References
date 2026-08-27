@@ -1,14 +1,14 @@
 ---
-title: ListBoxField.TopIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ListBoxField. Mendapatkan atau mengatur indeks elemen teratas yang terlihat dari daftar
+title: "ListBoxField.TopIndex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ListBoxField. Mengambil atau mengatur indeks elemen teratas yang terlihat dalam daftar."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.forms/listboxfield/topindex/
 ---
-## Properti ListBoxField.TopIndex
+## ListBoxField.TopIndex property
 
-Mendapatkan atau mengatur indeks elemen teratas yang terlihat dari daftar.
+Mendapatkan atau mengatur indeks elemen teratas yang terlihat dalam daftar.
 
 ```csharp
 public int TopIndex { get; set; }
@@ -16,6 +16,8 @@ public int TopIndex { get; set; }
 
 ### Lihat Juga
 
-* kelas [ListBoxField](../)
+* class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

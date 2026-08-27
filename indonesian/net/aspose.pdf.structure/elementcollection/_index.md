@@ -1,12 +1,12 @@
 ---
-title: Class ElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Structure.ElementCollection. Koleksi elemen struktur logis dasar
+title: "Kelas ElementCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Structure.ElementCollection kelas. Koleksi elemen struktur logis dasar"
 type: docs
-weight: 10150
+weight: 10330
 url: /id/net/aspose.pdf.structure/elementcollection/
 ---
-## Kelas ElementCollection
+## ElementCollection class
 
 Koleksi elemen struktur logis dasar.
 
@@ -19,17 +19,19 @@ public class ElementCollection : IEnumerable<Element>
 | Nama | Deskripsi |
 | --- | --- |
 | [Count](../../aspose.pdf.structure/elementcollection/count/) { get; } | Jumlah elemen. |
-| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | Mendapatkan Elemen berdasarkan indeks. |
+| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | Mendapatkan Element berdasarkan indeks. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetEnumerator](../../aspose.pdf.structure/elementcollection/getenumerator/)() | Mengembalikan enumerator yang mengiterasi melalui koleksi. |
-| [Remove](../../aspose.pdf.structure/elementcollection/remove/)(Element) | Menghapus item dari koleksi. |
+| [GetEnumerator](../../aspose.pdf.structure/elementcollection/getenumerator/)() | Mengembalikan enumerator yang mengiterasi koleksi. |
+| [Remove](../../aspose.pdf.structure/elementcollection/remove/)(Element) | Hapus item dari koleksi. |
 
 ### Lihat Juga
 
-* kelas [Element](../element/)
-* ruang nama [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
+* class [Element](../element/)
+* namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../)
+
+

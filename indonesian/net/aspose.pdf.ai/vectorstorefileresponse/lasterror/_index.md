@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.LastError
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileResponse. Mendapatkan atau mengatur kesalahan terakhir yang terkait dengan file penyimpanan vektor ini. Akan bernilai null jika tidak ada kesalahan
+title: "VectorStoreFileResponse.LastError"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileResponse properti. Mendapatkan atau mengatur kesalahan terakhir yang terkait dengan file vector store ini. Akan menjadi null jika tidak ada kesalahan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/vectorstorefileresponse/lasterror/
 ---
-## Properti VectorStoreFileResponse.LastError
+## VectorStoreFileResponse.LastError property
 
-Mendapatkan atau mengatur kesalahan terakhir yang terkait dengan file penyimpanan vektor ini. Akan bernilai null jika tidak ada kesalahan.
+Mendapatkan atau mengatur error terakhir yang terkait dengan file vector store ini. Akan menjadi null jika tidak ada error.
 
 ```csharp
 public LastError LastError { get; set; }
@@ -16,7 +16,9 @@ public LastError LastError { get; set; }
 
 ### Lihat Juga
 
-* kelas [LastError](../../lasterror/)
-* kelas [VectorStoreFileResponse](../)
+* class [LastError](../../lasterror/)
+* class [VectorStoreFileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

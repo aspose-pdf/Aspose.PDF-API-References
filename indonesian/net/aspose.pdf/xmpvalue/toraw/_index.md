@@ -1,25 +1,27 @@
 ---
-title: XmpValue.ToRaw
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpValue. Kode XML mentah untuk nilai yang tidak diketahui/tidak didukung
+title: "XmpValue.ToRaw"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpValue. Kode XML mentah untuk nilai yang tidak diketahui/ tidak didukung"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf/xmpvalue/toraw/
 ---
-## Metode XmpValue.ToRaw
+## XmpValue.ToRaw method
 
-Kode XML mentah untuk nilai yang tidak diketahui/tidak didukung.
+Kode XML mentah untuk nilai yang tidak diketahui/ tidak didukung.
 
 ```csharp
 public XmlNode ToRaw()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Node XML untuk nilai ini.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

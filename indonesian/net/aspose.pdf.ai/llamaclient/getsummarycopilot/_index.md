@@ -1,14 +1,14 @@
 ---
-title: LlamaClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaClient. Mendapatkan instance dari ISummaryCopilot dengan opsi yang ditentukan
+title: "LlamaClient.GetSummaryCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaClient. Mendapatkan instance dari ISummaryCopilot dengan opsi yang ditentukan."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/llamaclient/getsummarycopilot/
 ---
-## Metode LlamaClient.GetSummaryCopilot
+## LlamaClient.GetSummaryCopilot method
 
-Mendapatkan instance dari [`ISummaryCopilot`](../../isummarycopilot/) dengan opsi yang ditentukan.
+Mendapatkan instance [`ISummaryCopilot`](../../isummarycopilot/) dengan opsi yang ditentukan.
 
 ```csharp
 public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<LlamaSummaryCopilotOptions> options)
@@ -18,15 +18,17 @@ public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<LlamaSummaryCopi
 | --- | --- | --- |
 | options | ISummaryCopilotOptions`1 | Opsi untuk copilot ringkasan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah instance dari [`ISummaryCopilot`](../../isummarycopilot/).
 
 ### Lihat Juga
 
-* antarmuka [ISummaryCopilot](../../isummarycopilot/)
-* antarmuka [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* kelas [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
-* kelas [LlamaClient](../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
+* class [LlamaClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Re.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Re. Mengembalikan representasi teks dari operator
+title: "Re.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Re metode. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.operators/re/tostring/
 ---
-## Metode Re.ToString
+## Re.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [Re](../)
+* class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

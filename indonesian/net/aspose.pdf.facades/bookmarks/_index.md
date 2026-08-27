@@ -1,12 +1,12 @@
 ---
-title: Class Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.Bookmarks. Mewakili koleksi objek Bookmark
+title: "Kelas Bookmarks"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.Bookmarks. Mewakili koleksi objek Bookmark."
 type: docs
-weight: 4200
+weight: 4320
 url: /id/net/aspose.pdf.facades/bookmarks/
 ---
-## Kelas Bookmark
+## Bookmarks class
 
 Mewakili koleksi objek [`Bookmark`](../bookmark/).
 
@@ -22,6 +22,8 @@ public sealed class Bookmarks : List<Bookmark>
 
 ### Lihat Juga
 
-* kelas [Bookmark](../bookmark/)
+* class [Bookmark](../bookmark/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

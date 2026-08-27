@@ -1,7 +1,7 @@
 ---
-title: PdfViewer.PdfViewer
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfViewer. Menginisialisasi objek PdfViewer baru
+title: "PdfViewer.PdfViewer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfViewer. Menginisialisasi objek PdfViewer baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdfviewer/pdfviewer/
@@ -16,7 +16,7 @@ public PdfViewer()
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public PdfViewer(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Objek dokumen. |
+| document | Document | Objek Document. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfViewer](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

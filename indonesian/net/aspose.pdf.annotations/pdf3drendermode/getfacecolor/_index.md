@@ -1,25 +1,27 @@
 ---
-title: PDF3DRenderMode.GetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DRenderMode. Mendapatkan warna wajah
+title: "PDF3DRenderMode.GetFaceColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DRenderMode. Mengambil warna permukaan"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/
 ---
-## Metode PDF3DRenderMode.GetFaceColor
+## PDF3DRenderMode.GetFaceColor method
 
-Mendapatkan warna wajah.
+Mendapatkan warna permukaan.
 
 ```csharp
 public object GetFaceColor()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek.
+Object.
 
 ### Lihat Juga
 
-* kelas [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

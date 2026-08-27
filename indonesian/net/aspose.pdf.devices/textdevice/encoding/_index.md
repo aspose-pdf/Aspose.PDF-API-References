@@ -1,14 +1,14 @@
 ---
-title: TextDevice.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextDevice. Mendapatkan atau mengatur encoding teks yang diekstrak
+title: "TextDevice.Encoding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextDevice. Mendapatkan atau mengatur enkoding teks yang diekstrak"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.devices/textdevice/encoding/
 ---
-## Properti TextDevice.Encoding
+## TextDevice.Encoding property
 
-Mendapatkan atau mengatur encoding teks yang diekstrak.
+Mendapatkan atau mengatur enkoding teks yang diekstrak.
 
 ```csharp
 public Encoding Encoding { get; set; }
@@ -16,24 +16,26 @@ public Encoding Encoding { get; set; }
 
 ## Contoh
 
-Contoh ini menunjukkan cara merepresentasikan teks yang diekstrak dalam encoding UTF-8.
+Contoh ini menunjukkan cara merepresentasikan teks yang diekstrak dalam enkoding UTF-8.
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// buat perangkat teks
 TextDevice device = new TextDevice(Encoding.UTF8);
 
-// convert the page and save text to the stream
+// konversi halaman dan simpan teks ke aliran
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// gunakan teks yang diekstrak
 extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 ```
 
 ### Lihat Juga
 
-* kelas [TextDevice](../)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

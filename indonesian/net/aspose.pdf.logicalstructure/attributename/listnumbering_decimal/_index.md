@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_Decimal
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Daftar Attribute ListNumbering Desimal  Angka desimal arab.
+title: "AttributeName.ListNumbering_Decimal"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut ListNumbering Decimal  Angka Arab desimal 19 1099"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.logicalstructure/attributename/listnumbering_decimal/
 ---
-## Field AttributeName.ListNumbering_Decimal
+## AttributeName.ListNumbering_Decimal field
 
-Daftar Attribute ListNumbering: Desimal - Angka desimal arab (1-9, 10-99, ...).
+Atribut ListNumbering: Decimal - Angka Arab desimal (1-9, 10-99, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_Decimal;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_Decimal;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

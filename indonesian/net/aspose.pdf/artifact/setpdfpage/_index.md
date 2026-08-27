@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetPdfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Mengatur halaman PDF yang ditempatkan di halaman dokumen sebagai artefak
+title: "Artifact.SetPdfPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Menetapkan halaman PDF yang ditempatkan pada halaman dokumen sebagai artefak."
 type: docs
 weight: 310
 url: /id/net/aspose.pdf/artifact/setpdfpage/
 ---
-## Metode Artifact.SetPdfPage
+## Artifact.SetPdfPage method
 
-Mengatur halaman PDF yang ditempatkan di halaman dokumen sebagai artefak.
+Mengatur halaman PDF yang ditempatkan pada halaman dokumen sebagai artefak.
 
 ```csharp
 public void SetPdfPage(Page page)
@@ -16,11 +16,13 @@ public void SetPdfPage(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman yang ditempatkan sebagai Artefak. |
+| halaman | Halaman | Halaman yang ditempatkan sebagai Artifcact. |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [Artifact](../)
+* class [Page](../../page/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

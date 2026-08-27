@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.CosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CosPdfDictionary. Membuat sebuah kamus dari sumber daya
+title: "CosPdfDictionary.CosPdfDictionary"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CosPdfDictionary. Membuat kamus dari sumber daya"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 ---
-## Konstruktor CosPdfDictionary
+## CosPdfDictionary constructor
 
-Membuat sebuah kamus dari sumber daya.
+Membuat kamus dari sumber daya.
 
 ```csharp
 public CosPdfDictionary(Resources resources)
@@ -16,17 +16,19 @@ public CosPdfDictionary(Resources resources)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| resources | Resources | Sumber daya dengan kamus untuk digunakan. |
+| resources | Resources | Resources dengan kamus untuk pekerjaan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Sumber daya adalah null. |
+| ArgumentNullException | Resources bernilai null. |
 
 ### Lihat Juga
 
-* kelas [Resources](../../../aspose.pdf/resources/)
-* kelas [CosPdfDictionary](../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

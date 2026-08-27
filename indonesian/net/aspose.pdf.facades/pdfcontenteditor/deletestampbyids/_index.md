@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.DeleteStampByIds
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menghapus stempel dengan ID yang ditentukan dari semua halaman dokumen
+title: "PdfContentEditor.DeleteStampByIds"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor metode. Menghapus stempel dengan ID yang ditentukan dari semua halaman dokumen"
 type: docs
 weight: 350
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyids/
@@ -29,7 +29,7 @@ contentEditor.Save("outfile.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,7 +37,7 @@ contentEditor.Save("outfile.pdf");
 
 ## DeleteStampByIds(int, int[]) {#deletestampbyids}
 
-Menghapus stempel di halaman yang ditentukan dengan beberapa ID stempel.
+Menghapus stempel pada halaman yang ditentukan berdasarkan beberapa ID stempel.
 
 ```csharp
 public void DeleteStampByIds(int pageNumber, int[] stampIds)
@@ -59,6 +59,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

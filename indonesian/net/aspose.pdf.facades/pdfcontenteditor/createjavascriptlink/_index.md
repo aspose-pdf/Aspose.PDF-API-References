@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateJavaScriptLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat tautan ke JavaScript dalam dokumen PDF
+title: "PdfContentEditor.CreateJavaScriptLink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat tautan ke JavaScript dalam dokumen PDF"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/
 ---
-## Metode PdfContentEditor.CreateJavaScriptLink
+## PdfContentEditor.CreateJavaScriptLink method
 
 Membuat tautan ke JavaScript dalam dokumen PDF.
 
@@ -18,7 +18,7 @@ public void CreateJavaScriptLink(string code, Rectangle rect, int originalPage, 
 | --- | --- | --- |
 | code | String | Kode JavaScript. |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan akan dibuat. |
+| originalPage | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan akan dibuat. |
 | color | Color | Warna persegi panjang untuk klik aktif. |
 
 ## Contoh
@@ -33,6 +33,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SelectFont. Kelas yang mewakili operator Tf untuk mengatur font dan ukuran teks
+title: "Kelas SelectFont"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SelectFont class. Kelas yang mewakili operator Tf untuk mengatur font dan ukuran teks"
 type: docs
-weight: 7550
+weight: 7690
 url: /id/net/aspose.pdf.operators/selectfont/
 ---
-## Kelas SelectFont
+## SelectFont class
 
 Kelas yang mewakili operator Tf (mengatur font dan ukuran teks).
 
@@ -32,12 +32,14 @@ public class SelectFont : TextStateOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/selectfont/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/selectfont/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/selectfont/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [TextStateOperator](../textstateoperator/)
+* class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

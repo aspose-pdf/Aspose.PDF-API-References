@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AppearanceDictionary. Menentukan apakah kamus ini mengandung kunci yang ditentukan
+title: "AppearanceDictionary.ContainsKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AppearanceDictionary. Menentukan apakah kamus ini berisi kunci yang ditentukan"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.annotations/appearancedictionary/containskey/
 ---
-## Metode AppearanceDictionary.ContainsKey
+## AppearanceDictionary.ContainsKey method
 
-Menentukan apakah kamus ini mengandung kunci yang ditentukan.
+Menentukan apakah kamus ini berisi kunci yang ditentukan.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci untuk dicari di dalam kamus. |
+| kunci | String | Kunci untuk dicari dalam kamus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika kunci ditemukan.
 
 ### Lihat Juga
 
-* kelas [AppearanceDictionary](../)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

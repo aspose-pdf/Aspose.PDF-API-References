@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacement. Mendapatkan halaman yang berisi gambar
+title: "ImagePlacement.Page"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImagePlacement. Mendapatkan halaman yang berisi gambar"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/imageplacement/page/
 ---
-## Properti ImagePlacement.Page
+## ImagePlacement.Page property
 
 Mendapatkan halaman yang berisi gambar.
 
@@ -16,7 +16,9 @@ public Page Page { get; }
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [ImagePlacement](../)
+* class [Page](../../page/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

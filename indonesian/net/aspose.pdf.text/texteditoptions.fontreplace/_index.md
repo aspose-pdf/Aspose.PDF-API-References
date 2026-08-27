@@ -1,12 +1,12 @@
 ---
-title: Enum TextEditOptions.FontReplace
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TextEditOptionsFontReplace Aspose.Pdf.Text. Perilaku penggantian font
+title: "Enum TextEditOptions.FontReplace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.TextEditOptionsFontReplace enum. Perilaku penggantian font"
 type: docs
-weight: 10840
+weight: 11020
 url: /id/net/aspose.pdf.text/texteditoptions.fontreplace/
 ---
-## Enumerasi TextEditOptions.FontReplace
+## TextEditOptions.FontReplace enumeration
 
 Perilaku penggantian font.
 
@@ -19,10 +19,12 @@ public enum FontReplace
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Default | `0` | Tidak ada perubahan tambahan yang dilakukan selama penggantian font. |
-| RemoveUnusedFonts | `1` | Font yang menjadi tidak terpakai selama penggantian font akan dihapus dari dokumen yang dihasilkan. |
+| RemoveUnusedFonts | `1` | Font yang menjadi tidak terpakai selama penggantian font akan dihapus dari dokumen hasil. |
 
 ### Lihat Juga
 
-* kelas [TextEditOptions](../texteditoptions/)
+* class [TextEditOptions](../texteditoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

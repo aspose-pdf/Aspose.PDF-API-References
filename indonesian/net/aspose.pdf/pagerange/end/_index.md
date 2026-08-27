@@ -1,12 +1,12 @@
 ---
-title: PageRange.End
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageRange. Mendapatkan atau mengatur nomor halaman akhir
+title: "PageRange.End"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageRange. Mendapatkan atau mengatur nomor halaman akhir"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pagerange/end/
 ---
-## Properti PageRange.End
+## PageRange.End property
 
 Mendapatkan atau mengatur nomor halaman akhir.
 
@@ -16,6 +16,8 @@ public int End { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageRange](../)
+* class [PageRange](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

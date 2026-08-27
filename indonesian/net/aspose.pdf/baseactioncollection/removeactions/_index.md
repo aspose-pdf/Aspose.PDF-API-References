@@ -1,14 +1,14 @@
 ---
-title: BaseActionCollection.RemoveActions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BaseActionCollection. Menghapus semua aksi dari anotasi
+title: "BaseActionCollection.RemoveActions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode BaseActionCollection. Menghapus semua aksi anotasi."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/baseactioncollection/removeactions/
 ---
-## Metode BaseActionCollection.RemoveActions
+## BaseActionCollection.RemoveActions method
 
-Menghapus semua aksi dari anotasi.
+Menghapus semua aksi pada anotasi.
 
 ```csharp
 public void RemoveActions()
@@ -16,6 +16,8 @@ public void RemoveActions()
 
 ### Lihat Juga
 
-* kelas [BaseActionCollection](../)
+* class [BaseActionCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

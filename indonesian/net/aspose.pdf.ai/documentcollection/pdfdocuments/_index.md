@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.PdfDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentCollection. Mendapatkan atau menetapkan koleksi dokumen PDF yang akan diproses
+title: "DocumentCollection.PdfDocuments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentCollection. Mendapatkan atau mengatur koleksi dokumen PDF yang akan diproses."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/documentcollection/pdfdocuments/
 ---
-## Properti DocumentCollection.PdfDocuments
+## DocumentCollection.PdfDocuments property
 
-Mendapatkan atau menetapkan koleksi dokumen PDF yang akan diproses.
+Mendapatkan atau mengatur kumpulan Document PDF yang akan diproses.
 
 ```csharp
 public List<PdfDocument> PdfDocuments { get; set; }
@@ -16,7 +16,9 @@ public List<PdfDocument> PdfDocuments { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfDocument](../../pdfdocument/)
-* kelas [DocumentCollection](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [PdfDocument](../../pdfdocument/)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

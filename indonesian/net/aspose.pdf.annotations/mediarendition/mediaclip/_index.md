@@ -1,14 +1,14 @@
 ---
-title: MediaRendition.MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MediaRendition. Mengambil atau mengatur objek klip media yang terkait dengan rendisi
+title: "MediaRendition.MediaClip"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MediaRendition. Mendapatkan atau mengatur objek klip media yang terkait dengan rendition."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/mediarendition/mediaclip/
 ---
-## Properti MediaRendition.MediaClip
+## MediaRendition.MediaClip property
 
-Mengambil atau mengatur objek klip media yang terkait dengan rendisi.
+Mendapatkan atau mengatur objek klip media yang terkait dengan rendisi.
 
 ```csharp
 public MediaClip MediaClip { get; }
@@ -16,7 +16,9 @@ public MediaClip MediaClip { get; }
 
 ### Lihat Juga
 
-* kelas [MediaClip](../../mediaclip/)
-* kelas [MediaRendition](../)
+* class [MediaClip](../../mediaclip/)
+* class [MediaRendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

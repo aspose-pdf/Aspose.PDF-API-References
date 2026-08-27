@@ -1,14 +1,14 @@
 ---
-title: CharInfo.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CharInfo. Mendapatkan posisi karakter
+title: "CharInfo.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CharInfo. Mendapatkan posisi karakter"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/charinfo/position/
 ---
-## Properti CharInfo.Position
+## CharInfo.Position property
 
-Mendapatkan posisi karakter.
+Mengambil posisi karakter.
 
 ```csharp
 public Position Position { get; }
@@ -16,7 +16,9 @@ public Position Position { get; }
 
 ### Lihat Juga
 
-* kelas [Position](../../position/)
-* kelas [CharInfo](../)
+* class [Position](../../position/)
+* class [CharInfo](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfXmpMetadata. Mengembalikan true jika koleksi memiliki ukuran tetap
+title: "PdfXmpMetadata.IsFixedSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfXmpMetadata. Mengembalikan true jika koleksi memiliki ukuran tetap"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/isfixedsize/
 ---
-## Properti PdfXmpMetadata.IsFixedSize
+## PdfXmpMetadata.IsFixedSize property
 
 Mengembalikan true jika koleksi memiliki ukuran tetap.
 
@@ -16,6 +16,8 @@ public bool IsFixedSize { get; }
 
 ### Lihat Juga
 
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

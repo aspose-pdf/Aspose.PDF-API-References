@@ -1,12 +1,12 @@
 ---
-title: Color.DarkSalmon
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFE9967A
+title: "Color.DarkSalmon"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFE9967A"
 type: docs
 weight: 340
 url: /id/net/aspose.pdf/color/darksalmon/
 ---
-## Properti Color.DarkSalmon
+## Color.DarkSalmon property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFE9967A.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFE9967A.
 public static Color DarkSalmon { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

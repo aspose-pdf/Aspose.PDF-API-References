@@ -1,12 +1,12 @@
 ---
-title: PsLoadOptions.PsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PsLoadOptions. Konstruktor default
+title: "PsLoadOptions.PsLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PsLoadOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/psloadoptions/psloadoptions/
 ---
-## Konstruktor PsLoadOptions
+## PsLoadOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PsLoadOptions()
 
 ### Lihat Juga
 
-* kelas [PsLoadOptions](../)
+* class [PsLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

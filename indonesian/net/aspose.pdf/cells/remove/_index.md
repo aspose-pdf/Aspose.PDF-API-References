@@ -1,12 +1,12 @@
 ---
-title: Cells.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Cells. Hapus set sel dari koleksi
+title: "Cells.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Cells method. Hapus set sel dari koleksi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/cells/remove/
 ---
-## Metode Cells.Remove
+## Cells.Remove method
 
 Hapus set sel dari koleksi.
 
@@ -16,11 +16,13 @@ public void Remove(Cell cell)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cell | Cell | Objek sel. |
+| sel | Sel | Objek sel. |
 
 ### Lihat Juga
 
-* kelas [Cell](../../cell/)
-* kelas [Cells](../)
+* class [Cell](../../cell/)
+* class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

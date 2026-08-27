@@ -1,12 +1,12 @@
 ---
-title: Form.XFA
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mendapatkan data XFA dari formulir jika ada
+title: "Form.XFA"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Mengambil data XFA dari formulir jika ada."
 type: docs
-weight: 170
+weight: 190
 url: /id/net/aspose.pdf.forms/form/xfa/
 ---
-## Properti Form.XFA
+## Form.XFA property
 
 Mendapatkan data XFA dari formulir (jika ada).
 
@@ -16,7 +16,9 @@ public XFA XFA { get; }
 
 ### Lihat Juga
 
-* kelas [XFA](../../xfa/)
-* kelas [Form](../)
+* class [XFA](../../xfa/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

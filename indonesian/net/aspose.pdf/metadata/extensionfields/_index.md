@@ -1,12 +1,12 @@
 ---
-title: Metadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Metadata. Mendapatkan kamus bidang ekstensi
+title: "Metadata.ExtensionFields"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Metadata. Mendapatkan kamus bidang ekstensi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/metadata/extensionfields/
 ---
-## Properti Metadata.ExtensionFields
+## Metadata.ExtensionFields property
 
 Mendapatkan kamus bidang ekstensi.
 
@@ -16,7 +16,9 @@ public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
-* kelas [Metadata](../)
+* class [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

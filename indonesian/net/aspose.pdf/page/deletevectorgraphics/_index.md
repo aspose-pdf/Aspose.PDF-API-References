@@ -1,7 +1,7 @@
 ---
-title: DeleteVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Menghapus grafik vektor dari halaman.
+title: "DeleteVectorGraphics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Menghapus grafik vektor dari halaman."
 type: docs
 weight: 410
 url: /id/net/aspose.pdf/page/deletevectorgraphics/
@@ -14,11 +14,11 @@ Menghapus grafik vektor dari halaman.
 public void DeleteVectorGraphics(SubPathCollection pathsToDelete)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pathsToDelete | SubPathCollection | koleksi grafik vektor yang akan dihapus dari halaman. |
 
-### See Also
+### Lihat Juga
 
 * class [SubPathCollection](../../../aspose.pdf.vector/subpathcollection)
 * class [Page](../../page)

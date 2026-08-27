@@ -1,14 +1,14 @@
 ---
-title: ShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ShowText. Teks dari operator
+title: "ShowText.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ShowText. Teks operator"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/showtext/text/
 ---
-## Properti ShowText.Text
+## ShowText.Text property
 
-Teks dari operator.
+Teks operator.
 
 ```csharp
 public override string Text { get; set; }
@@ -16,6 +16,8 @@ public override string Text { get; set; }
 
 ### Lihat Juga
 
-* kelas [ShowText](../)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

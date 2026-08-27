@@ -1,14 +1,14 @@
 ---
-title: Class ElementList
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.LogicalStructure.ElementList. Mewakili koleksi terurut dari elemen
+title: "Kelas ElementList"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.LogicalStructure.ElementList kelas. Mewakili koleksi terurut elemen"
 type: docs
-weight: 6330
+weight: 6470
 url: /id/net/aspose.pdf.logicalstructure/elementlist/
 ---
-## Kelas ElementList
+## ElementList class
 
-Mewakili koleksi terurut dari elemen.
+Mewakili koleksi terurut elemen.
 
 ```csharp
 public abstract class ElementList : IEnumerable<Element>
@@ -19,17 +19,19 @@ public abstract class ElementList : IEnumerable<Element>
 | Nama | Deskripsi |
 | --- | --- |
 | abstract [Count](../../aspose.pdf.logicalstructure/elementlist/count/) { get; } | Mendapatkan jumlah elemen dalam ElementList. |
-| virtual [ElementOf](../../aspose.pdf.logicalstructure/elementlist/elementof/) { get; } | Mendapatkan elemen pada indeks yang diberikan. |
+| virtual [ElementOf](../../aspose.pdf.logicalstructure/elementlist/elementof/) { get; } | Mendapatkan sebuah elemen pada indeks yang diberikan. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.pdf.logicalstructure/elementlist/getenumerator/)() | Mendapatkan enumerator yang mengiterasi melalui koleksi elemen. |
-| abstract [Item](../../aspose.pdf.logicalstructure/elementlist/item/)(int) | Mengambil elemen pada indeks yang diberikan. |
+| abstract [GetEnumerator](../../aspose.pdf.logicalstructure/elementlist/getenumerator/)() | Mendapatkan enumerator yang mengiterasi koleksi elemen. |
+| abstract [Item](../../aspose.pdf.logicalstructure/elementlist/item/)(int) | Mengambil sebuah elemen pada indeks yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Element](../element/)
+* class [Element](../element/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

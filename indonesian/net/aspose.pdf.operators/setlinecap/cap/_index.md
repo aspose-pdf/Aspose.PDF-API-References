@@ -1,14 +1,14 @@
 ---
-title: SetLineCap.Cap
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetLineCap. Mendapatkan atau mengatur gaya tutup garis
+title: "SetLineCap.Cap"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetLineCap. Mendapatkan atau mengatur gaya cap garis"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/setlinecap/cap/
 ---
-## Properti SetLineCap.Cap
+## SetLineCap.Cap property
 
-Mendapatkan atau mengatur gaya tutup garis.
+Mendapatkan atau mengatur gaya ujung garis.
 
 ```csharp
 public LineCap Cap { get; set; }
@@ -20,3 +20,5 @@ public LineCap Cap { get; set; }
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

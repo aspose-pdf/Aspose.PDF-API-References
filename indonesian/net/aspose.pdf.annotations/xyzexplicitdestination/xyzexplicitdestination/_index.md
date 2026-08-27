@@ -1,7 +1,7 @@
 ---
-title: XYZExplicitDestination.XYZExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XYZExplicitDestination. Membuat tujuan eksplisit lokal
+title: "XYZExplicitDestination.XYZExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XYZExplicitDestination. Membuat tujuan eksplisit lokal"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/
@@ -16,15 +16,15 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman tujuan. |
-| left | Double | Koordinat horizontal kiri dari sudut kiri atas jendela. |
-| top | Double | Koordinat vertikal atas dari sudut kiri atas jendela. |
+| halaman | Halaman | Objek halaman tujuan. |
+| kiri | Double | Koordinat horizontal kiri dari sudut kiri atas jendela. |
+| atas | Double | Koordinat vertikal atas dari sudut kiri atas jendela. |
 | zoom | Double | Faktor zoom. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [XYZExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,13 +40,15 @@ public XYZExplicitDestination(int pageNumber, double left, double top, double zo
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Nomor halaman tujuan dari dokumen jarak jauh. |
-| left | Double | Koordinat horizontal kiri dari sudut kiri atas jendela. |
-| top | Double | Koordinat vertikal atas dari sudut kiri atas jendela. |
+| pageNumber | Int32 | Nomor halaman tujuan dari dokumen remote. |
+| kiri | Double | Koordinat horizontal kiri dari sudut kiri atas jendela. |
+| atas | Double | Koordinat vertikal atas dari sudut kiri atas jendela. |
 | zoom | Double | Faktor zoom. |
 
 ### Lihat Juga
 
-* kelas [XYZExplicitDestination](../)
+* class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

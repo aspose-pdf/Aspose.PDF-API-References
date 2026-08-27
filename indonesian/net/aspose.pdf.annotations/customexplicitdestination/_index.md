@@ -1,14 +1,14 @@
 ---
-title: Class CustomExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.CustomExplicitDestination. Mewakili tujuan eksplisit kustom
+title: "Kelas CustomExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.CustomExplicitDestination. Mewakili tujuan eksplisit khusus"
 type: docs
-weight: 1640
+weight: 1730
 url: /id/net/aspose.pdf.annotations/customexplicitdestination/
 ---
-## Kelas CustomExplicitDestination
+## CustomExplicitDestination class
 
-Mewakili tujuan eksplisit kustom.
+Mewakili tujuan eksplisit khusus.
 
 ```csharp
 public sealed class CustomExplicitDestination : ExplicitDestination
@@ -29,6 +29,8 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 ### Lihat Juga
 
-* kelas [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

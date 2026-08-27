@@ -1,14 +1,14 @@
 ---
-title: Form.AddFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Menambahkan penampilan tambahan dari field ke halaman tertentu dari dokumen di lokasi yang ditentukan
+title: "Form.AddFieldAppearance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Menambahkan tampilan tambahan bidang ke halaman tertentu dari dokumen pada lokasi yang ditentukan."
 type: docs
-weight: 200
+weight: 220
 url: /id/net/aspose.pdf.forms/form/addfieldappearance/
 ---
-## Metode Form.AddFieldAppearance
+## Form.AddFieldAppearance method
 
-Menambahkan penampilan tambahan dari field ke halaman tertentu dari dokumen di lokasi yang ditentukan.
+Menambahkan tampilan tambahan bidang ke halaman tertentu dari dokumen pada lokasi yang ditentukan.
 
 ```csharp
 public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
@@ -16,9 +16,9 @@ public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field | Field | Field yang penampilannya harus ditambahkan pada form. |
-| pageNumber | Int32 | Nomor halaman tempat field harus ditempatkan. |
-| rect | Rectangle | Persegi panjang di mana field akan ditempatkan. |
+| bidang | Bidang | Bidang yang tampilanannya harus ditambahkan pada formulir. |
+| pageNumber | Int32 | Nomor halaman tempat bidang harus ditempatkan. |
+| rect | Rectangle | Persegi panjang tempat bidang akan ditempatkan. |
 
 ### Lihat Juga
 
@@ -27,3 +27,5 @@ public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

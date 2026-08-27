@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnCalculate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi untuk menghitung nilai field
+title: "AnnotationActionCollection.OnCalculate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi untuk menghitung nilai bidang"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/annotationactioncollection/oncalculate/
 ---
-## Properti AnnotationActionCollection.OnCalculate
+## AnnotationActionCollection.OnCalculate property
 
-Mendapatkan atau mengatur aksi untuk menghitung nilai field.
+Mendapatkan atau mengatur aksi untuk menghitung nilai bidang.
 
 ```csharp
 public PdfAction OnCalculate { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnCalculate { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../pdfaction/)
-* kelas [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

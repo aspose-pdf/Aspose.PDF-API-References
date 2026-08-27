@@ -1,25 +1,27 @@
 ---
-title: ThreadMessageCreateRequest.FromAssistant
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ThreadMessageCreateRequest. Membuat ThreadMessageCreateRequest baru dengan peran diatur ke Asisten
+title: "ThreadMessageCreateRequest.FromAssistant"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ThreadMessageCreateRequest. Membuat ThreadMessageCreateRequest baru dengan peran diatur ke Assistant"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/threadmessagecreaterequest/fromassistant/
 ---
-## Metode ThreadMessageCreateRequest.FromAssistant
+## ThreadMessageCreateRequest.FromAssistant method
 
-Membuat [`ThreadMessageCreateRequest`](../) baru dengan peran diatur ke Asisten.
+Membuat [`ThreadMessageCreateRequest`](../) baru dengan peran diatur ke Assistant.
 
 ```csharp
 public static ThreadMessageCreateRequest FromAssistant()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah instance baru dari [`ThreadMessageCreateRequest`](../) dengan peran diatur ke Asisten.
+Instansi baru dari [`ThreadMessageCreateRequest`](../) dengan peran diatur ke Assistant.
 
 ### Lihat Juga
 
-* kelas [ThreadMessageCreateRequest](../)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

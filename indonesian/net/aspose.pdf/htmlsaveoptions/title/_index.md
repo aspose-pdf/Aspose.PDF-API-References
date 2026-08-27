@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlSaveOptions. Mendapatkan atau mengatur judul halaman HTML
+title: "HtmlSaveOptions.Title"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti HtmlSaveOptions. Mendapatkan atau mengatur judul halaman HTML."
 type: docs
 weight: 210
 url: /id/net/aspose.pdf/htmlsaveoptions/title/
 ---
-## Properti HtmlSaveOptions.Title
+## HtmlSaveOptions.Title property
 
 Mendapatkan atau mengatur judul halaman HTML.
 
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

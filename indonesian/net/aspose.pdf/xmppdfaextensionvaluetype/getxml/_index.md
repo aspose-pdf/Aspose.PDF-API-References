@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpPdfAExtensionValueType. Mengembalikan daftar elemen xml yang mewakili tipe nilai dalam pohon xml
+title: "XmpPdfAExtensionValueType.GetXml"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpPdfAExtensionValueType. Mengembalikan daftar elemen xml yang mewakili tipe nilai dalam pohon xml"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/xmppdfaextensionvaluetype/getxml/
 ---
-## Metode XmpPdfAExtensionValueType.GetXml
+## XmpPdfAExtensionValueType.GetXml method
 
 Mengembalikan daftar elemen xml yang mewakili tipe nilai dalam pohon xml.
 
@@ -18,12 +18,14 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 | --- | --- | --- |
 | xmlDocument | XmlDocument | Dokumen xml sumber. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Daftar elemen xml.
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionValueType](../)
+* class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Optimizer.Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Optimizer. Konstruktor default
+title: "Optimizer.Optimizer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Optimizer. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/optimizer/optimizer/
 ---
-## Konstruktor Optimizer
+## Optimizer constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Optimizer()
 
 ### Lihat Juga
 
-* kelas [Optimizer](../)
+* class [Optimizer](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

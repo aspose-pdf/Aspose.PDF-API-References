@@ -1,12 +1,12 @@
 ---
-title: Enum PdfAStandardVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Plugins.PdfAStandardVersion. Menentukan versi standar PDF/A untuk dokumen PDF
+title: "Enum PdfAStandardVersion"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.PdfAStandardVersion enum. Menentukan versi standar PDF/A untuk sebuah dokumen PDF."
 type: docs
-weight: 9020
+weight: 9170
 url: /id/net/aspose.pdf.plugins/pdfastandardversion/
 ---
-## Enumerasi PdfAStandardVersion
+## PdfAStandardVersion enumeration
 
 Menentukan versi standar PDF/A untuk dokumen PDF.
 
@@ -27,8 +27,13 @@ public enum PdfAStandardVersion
 | PDF_A_3A | `6` | Menentukan versi standar PDF/A-3a. |
 | PDF_A_3B | `7` | Menentukan versi standar PDF/A-3b. |
 | PDF_A_3U | `8` | Menentukan versi standar PDF/A-3u. |
+| PDF_A_4 | `9` | Menentukan versi standar PDF/A-4. |
+| PDF_A_4E | `10` | Menentukan versi standar PDF/A-4e. |
+| PDF_A_4F | `11` | Menentukan versi standar PDF/A-4f. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

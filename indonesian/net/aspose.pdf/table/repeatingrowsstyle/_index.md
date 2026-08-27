@@ -1,12 +1,12 @@
 ---
-title: Table.RepeatingRowsStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Tabel. Mendapatkan gaya untuk baris yang diulang
+title: "Table.RepeatingRowsStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Table. Mendapatkan gaya untuk baris yang berulang"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf/table/repeatingrowsstyle/
 ---
-## Properti Table.RepeatingRowsStyle
+## Table.RepeatingRowsStyle property
 
 Mendapatkan gaya untuk baris yang diulang
 
@@ -16,7 +16,9 @@ public TextState RepeatingRowsStyle { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [Table](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class RunListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.RunListResponse. Mewakili respons daftar yang berisi data run
+title: "Kelas RunListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.RunListResponse. Menyatakan respons daftar yang berisi data run."
 type: docs
-weight: 1000
+weight: 1080
 url: /id/net/aspose.pdf.ai/runlistresponse/
 ---
-## Kelas RunListResponse
+## RunListResponse class
 
 Mewakili respons daftar yang berisi data run.
 
@@ -38,7 +38,9 @@ public class RunListResponse : ListDataResponse<List<RunResponse>>
 
 ### Lihat Juga
 
-* kelas [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* kelas [RunResponse](../runresponse/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [RunResponse](../runresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

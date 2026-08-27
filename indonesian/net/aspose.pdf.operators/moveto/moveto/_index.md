@@ -1,14 +1,14 @@
 ---
-title: MoveTo.MoveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MoveTo. Menginisialisasi operator pindah baru !Operators.m
+title: "MoveTo.MoveTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MoveTo konstruktor. Menginisialisasi operator move to baru pada Operators.m"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/moveto/moveto/
 ---
-## Konstruktor MoveTo
+## MoveTo constructor
 
-Menginisialisasi operator !:Operators.m (pindah ke) baru.
+Menginisialisasi operator baru !:Operators.m (move to).
 
 ```csharp
 public MoveTo(double x, double y)
@@ -21,6 +21,8 @@ public MoveTo(double x, double y)
 
 ### Lihat Juga
 
-* kelas [MoveTo](../)
+* class [MoveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetColorStroke. Mendapatkan atau mengatur komponen kuning
+title: "SetColorStroke.Y"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetColorStroke. Mendapatkan atau mengatur komponen kuning"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.operators/setcolorstroke/y/
 ---
-## Properti SetColorStroke.Y
+## SetColorStroke.Y property
 
 Mendapatkan atau mengatur komponen kuning.
 
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### Lihat Juga
 
-* kelas [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

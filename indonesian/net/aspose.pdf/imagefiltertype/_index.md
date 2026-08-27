@@ -1,14 +1,14 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ImageFilterType. Enumerasi yang mewakili jenis filter gambar
+title: "Enum ImageFilterType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.ImageFilterType. Enumerasi yang mewakili tipe filter gambar."
 type: docs
-weight: 5890
+weight: 6020
 url: /id/net/aspose.pdf/imagefiltertype/
 ---
-## Enumerasi ImageFilterType
+## ImageFilterType enumeration
 
-Enumerasi yang mewakili jenis filter gambar.
+Enumerasi yang mewakili tipe filter gambar.
 
 ```csharp
 public enum ImageFilterType
@@ -21,9 +21,11 @@ public enum ImageFilterType
 | Jpeg2000 | `0` | Jpeg 2000. |
 | Jpeg | `1` | Jpeg. |
 | Flate | `2` | Flate. |
-| CCITTFax | `3` | CCIT Fax. |
+| CCITTFax | `3` | Fax CCIT. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

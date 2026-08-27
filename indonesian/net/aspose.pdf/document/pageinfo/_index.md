@@ -1,26 +1,28 @@
 ---
-title: Document.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan atau mengatur informasi halaman. hanya untuk generator, tidak diisi saat membaca dokumen.
+title: "Document.PageInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "properti Document. Mendapatkan atau mengatur info halaman. hanya untuk generator tidak diisi saat membaca dokumen"
 type: docs
-weight: 430
+weight: 450
 url: /id/net/aspose.pdf/document/pageinfo/
 ---
-## Properti Document.PageInfo
+## Document.PageInfo property
 
-Mendapatkan atau mengatur informasi halaman. (hanya untuk generator, tidak diisi saat membaca dokumen)
+Mendapatkan atau mengatur info halaman. (hanya untuk generator, tidak diisi saat membaca dokumen)
 
 ```csharp
 public PageInfo PageInfo { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Informasi halaman.
+Info halaman.
 
 ### Lihat Juga
 
-* kelas [PageInfo](../../pageinfo/)
-* kelas [Document](../)
+* class [PageInfo](../../pageinfo/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

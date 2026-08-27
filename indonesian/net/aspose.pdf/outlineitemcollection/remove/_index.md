@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OutlineItemCollection. Hapus item koleksi outline
+title: "OutlineItemCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OutlineItemCollection. Menghapus item koleksi outline"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf/outlineitemcollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-Hapus item koleksi outline.
+Menghapus item koleksi outline.
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -18,11 +18,11 @@ public override bool Remove(OutlineItemCollection item)
 | --- | --- | --- |
 | item | OutlineItemCollection | Item yang akan dihapus. |
 
-### Return Value
+### Nilai Kembalian
 
 True - jika item dihapus; jika tidak, false.
 
-### See Also
+### Lihat Juga
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -32,7 +32,7 @@ True - jika item dihapus; jika tidak, false.
 
 ## Remove(int) {#remove_1}
 
-Hapus item berdasarkan indeks.
+Menghapus item berdasarkan indeks.
 
 ```csharp
 public void Remove(int index)
@@ -42,8 +42,10 @@ public void Remove(int index)
 | --- | --- | --- |
 | index | Int32 | Indeks item yang akan dihapus. |
 
-### See Also
+### Lihat Juga
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

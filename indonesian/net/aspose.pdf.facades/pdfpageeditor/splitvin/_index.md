@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.SPLITVIN
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Dalam Pembagian Vertikal
+title: "PdfPageEditor.SPLITVIN"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfPageEditor field. Dalam Pembagian Vertikal"
 type: docs
 weight: 310
 url: /id/net/aspose.pdf.facades/pdfpageeditor/splitvin/
 ---
-## Bidang PdfPageEditor.SPLITVIN
+## PdfPageEditor.SPLITVIN field
 
 Dalam Pembagian Vertikal
 
@@ -16,6 +16,8 @@ public const int SPLITVIN;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

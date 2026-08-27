@@ -1,12 +1,12 @@
 ---
-title: Matrix.Reverse
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matrix. Menghitung matriks terbalik
+title: "Matrix.Reverse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix. Menghitung matriks terbalik"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf/matrix/reverse/
 ---
-## Metode Matrix.Reverse
+## Matrix.Reverse method
 
 Menghitung matriks terbalik.
 
@@ -14,7 +14,7 @@ Menghitung matriks terbalik.
 public Matrix Reverse()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Matriks terbalik.
 
@@ -27,6 +27,8 @@ Matrix m1 = m.Reverse();
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Drawing.PatternColorSpace. Mewakili kelas pola dasar
+title: "Kelas PatternColorSpace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Drawing.PatternColorSpace kelas. Mewakili kelas pola dasar"
 type: docs
-weight: 3980
+weight: 4100
 url: /id/net/aspose.pdf.drawing/patterncolorspace/
 ---
-## Kelas PatternColorSpace
+## PatternColorSpace class
 
 Mewakili kelas pola dasar.
 
@@ -18,3 +18,5 @@ public abstract class PatternColorSpace
 
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

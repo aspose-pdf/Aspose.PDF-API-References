@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XFormCollection. Menghapus data yang di-cache, membebaskan memori, dll.
+title: "XFormCollection.FreeMemory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XFormCollection. Menghapus data cache, membebaskan memori, dll"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/xformcollection/freememory/
 ---
-## Metode XFormCollection.FreeMemory
+## XFormCollection.FreeMemory method
 
-Menghapus data yang di-cache, membebaskan memori, dll.
+Membersihkan data cache, membebaskan memori, dll.
 
 ```csharp
 public void FreeMemory()
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### Lihat Juga
 
-* kelas [XFormCollection](../)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

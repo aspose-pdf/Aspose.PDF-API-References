@@ -1,12 +1,12 @@
 ---
-title: StructureElement.DefaultAttributeOwner
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureElement. Mendapatkan objek AttributeOwnerStandard
+title: "StructureElement.DefaultAttributeOwner"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureElement. Mendapatkan objek AttributeOwnerStandard"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.logicalstructure/structureelement/defaultattributeowner/
 ---
-## Properti StructureElement.DefaultAttributeOwner
+## StructureElement.DefaultAttributeOwner property
 
 Mendapatkan objek AttributeOwnerStandard.
 
@@ -14,13 +14,15 @@ Mendapatkan objek AttributeOwnerStandard.
 public AttributeOwnerStandard DefaultAttributeOwner { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Objek AttributeOwnerStandard.
 
 ### Lihat Juga
 
-* kelas [AttributeOwnerStandard](../../attributeownerstandard/)
-* kelas [StructureElement](../)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

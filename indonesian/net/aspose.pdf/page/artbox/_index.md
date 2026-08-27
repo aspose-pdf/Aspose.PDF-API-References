@@ -1,14 +1,14 @@
 ---
-title: Page.ArtBox
-second_title: Aspose.PDF for .NET API Reference
-description: Properti halaman. Mendapatkan atau mengatur kotak seni dari halaman
+title: "Page.ArtBox"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur art box halaman"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/page/artbox/
 ---
-## Properti Page.ArtBox
+## Page.ArtBox property
 
-Mendapatkan atau mengatur kotak seni dari halaman.
+Mendapatkan atau mengatur art box halaman.
 
 ```csharp
 public Rectangle ArtBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle ArtBox { get; set; }
 
 ## Contoh
 
-Contoh menunjukkan cara mendapatkan kotak seni dari halaman:
+Contoh menunjukkan cara mendapatkan art box halaman:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,7 +25,9 @@ Rectangle artBox = document.Pages[1].ArtBox;
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

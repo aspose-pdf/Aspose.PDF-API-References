@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompletionResponse. Mendapatkan atau mengatur tipe objek yang selalu chat.completion
+title: "CompletionResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CompletionResponse properti. Mendapatkan atau mengatur tipe objek yang selalu chat.completion"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/completionresponse/object/
 ---
-## Properti CompletionResponse.Object
+## CompletionResponse.Object property
 
 Mendapatkan atau mengatur tipe objek, yang selalu chat.completion.
 
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [CompletionResponse](../)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

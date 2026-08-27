@@ -1,25 +1,27 @@
 ---
-title: XmpValue.ToDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpValue. Mengembalikan kamus yang berisi nilai-nilai bernama
+title: "XmpValue.ToDictionary"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpValue. Mengembalikan kamus yang berisi nilai bernama"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/xmpvalue/todictionary/
 ---
-## Metode XmpValue.ToDictionary
+## XmpValue.ToDictionary method
 
-Mengembalikan kamus yang berisi nilai-nilai bernama.
+Mengembalikan kamus yang berisi nilai bernama.
 
 ```csharp
 public Dictionary<string, XmpValue> ToDictionary()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai kamus.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

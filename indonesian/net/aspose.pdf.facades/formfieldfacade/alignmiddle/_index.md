@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: Field FormFieldFacade. Mendefinisikan penempatan vertikal sebagai gaya tengah
+title: "FormFieldFacade.AlignMiddle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang FormFieldFacade. Mendefinisikan perataan vertikal sebagai gaya tengah"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.facades/formfieldfacade/alignmiddle/
 ---
-## Field FormFieldFacade.AlignMiddle
+## FormFieldFacade.AlignMiddle field
 
-Mendefinisikan penempatan vertikal sebagai gaya tengah.
+Mendefinisikan penyelarasan vertikal sebagai gaya tengah.
 
 ```csharp
 public const int AlignMiddle;
@@ -16,6 +16,8 @@ public const int AlignMiddle;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

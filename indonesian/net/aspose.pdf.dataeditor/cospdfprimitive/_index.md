@@ -1,12 +1,12 @@
 ---
-title: Class CosPdfPrimitive
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DataEditor.CosPdfPrimitive. Kelas ini mewakili tipe publik dasar CosPdfPrimitive
+title: "Kelas CosPdfPrimitive"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.DataEditor.CosPdfPrimitive. Kelas ini mewakili tipe publik dasar CosPdfPrimitive"
 type: docs
-weight: 3450
+weight: 3570
 url: /id/net/aspose.pdf.dataeditor/cospdfprimitive/
 ---
-## Kelas CosPdfPrimitive
+## CosPdfPrimitive class
 
 Kelas ini mewakili tipe publik dasar `CosPdfPrimitive`.
 
@@ -18,14 +18,16 @@ public abstract class CosPdfPrimitive : ICosPdfPrimitive
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Mencoba mengonversi instance ini menjadi [`CosPdfBoolean`](../cospdfboolean/). |
-| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Mencoba mengonversi instance ini menjadi [`CosPdfDictionary`](../cospdfdictionary/). |
-| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Mencoba mengonversi instance ini menjadi [`CosPdfName`](../cospdfname/). |
-| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Mencoba mengonversi instance ini menjadi [`CosPdfNumber`](../cospdfnumber/). |
-| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Mencoba mengonversi instance ini menjadi [`CosPdfString`](../cospdfstring/). |
+| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Mencoba meng-cast instance ini ke [`CosPdfBoolean`](../cospdfboolean/). |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Mencoba meng-cast instance ini ke [`CosPdfDictionary`](../cospdfdictionary/). |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Mencoba meng-cast instance ini ke [`CosPdfName`](../cospdfname/). |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Mencoba meng-cast instance ini ke [`CosPdfNumber`](../cospdfnumber/). |
+| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Mencoba meng-cast instance ini ke [`CosPdfString`](../cospdfstring/). |
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../icospdfprimitive/)
-* ruang nama [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* interface [ICosPdfPrimitive](../icospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.HasNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfConverter. Menunjukkan apakah file pdf memiliki lebih banyak gambar atau tidak
+title: "PdfConverter.HasNextImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfConverter. Menunjukkan apakah file pdf memiliki lebih banyak gambar atau tidak"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.facades/pdfconverter/hasnextimage/
 ---
-## Metode PdfConverter.HasNextImage
+## PdfConverter.HasNextImage method
 
 Menunjukkan apakah file pdf memiliki lebih banyak gambar atau tidak.
 
@@ -14,12 +14,14 @@ Menunjukkan apakah file pdf memiliki lebih banyak gambar atau tidak.
 public bool HasNextImage()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Dapat mengambil lebih banyak gambar atau tidak, true jika bisa, atau false.
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

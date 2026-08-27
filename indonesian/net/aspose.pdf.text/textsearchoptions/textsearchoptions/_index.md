@@ -1,7 +1,7 @@
 ---
-title: TextSearchOptions.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextSearchOptions. Menginisialisasi instance baru dari objek TextSearchOptions. Menentukan mode penggunaan ekspresi reguler
+title: "TextSearchOptions.TextSearchOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextSearchOptions. Menginisialisasi instance baru dari objek TextSearchOptions. Menentukan mode penggunaan ekspresi reguler"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textsearchoptions/textsearchoptions/
@@ -16,11 +16,11 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| isRegularExpressionUsed | Boolean | Nilai yang menunjukkan bahwa ekspresi reguler digunakan. |
+| isRegularExpressionUsed | Boolean | Nilai yang menunjukkan bahwa regularexpression digunakan. |
 
 ### Lihat Juga
 
-* kelas [TextSearchOptions](../)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,12 +36,12 @@ public TextSearchOptions(Rectangle rectangle)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang yang mencakup teks yang diekstrak. |
+| persegi panjang | Rectangle | Persegi panjang yang mencakup teks yang diekstrak. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [TextSearchOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,7 +49,7 @@ public TextSearchOptions(Rectangle rectangle)
 
 ## TextSearchOptions(Rectangle, bool) {#constructor_1}
 
-Menginisialisasi instance baru dari objek [`TextSearchOptions`](../). Menentukan persegi panjang yang membatasi teks yang dicari dan mode penggunaan ekspresi reguler.
+Menginisialisasi instance baru dari objek [`TextSearchOptions`](../). Menentukan persegi panjang yang membatasi teks yang dicari dan mode penggunaan regular expression.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
@@ -57,12 +57,14 @@ public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang yang mencakup teks yang diekstrak. |
-| isRegularExpressionUsed | Boolean | Nilai yang menunjukkan bahwa ekspresi reguler digunakan. |
+| persegi panjang | Rectangle | Persegi panjang yang mencakup teks yang diekstrak. |
+| isRegularExpressionUsed | Boolean | Nilai yang menunjukkan bahwa regularexpression digunakan. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [TextSearchOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

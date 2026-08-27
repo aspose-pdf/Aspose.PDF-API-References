@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.NumberOfChoices
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaChatCompletionRequest. Menetapkan atau mendapatkan berapa banyak pilihan penyelesaian obrolan yang akan dihasilkan untuk setiap pesan input
+title: "LlamaChatCompletionRequest.NumberOfChoices"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LlamaChatCompletionRequest. Mengatur atau mengambil berapa banyak pilihan penyelesaian obrolan yang dihasilkan untuk setiap pesan masukan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/llamachatcompletionrequest/numberofchoices/
 ---
-## Properti LlamaChatCompletionRequest.NumberOfChoices
+## LlamaChatCompletionRequest.NumberOfChoices property
 
-Menetapkan atau mendapatkan berapa banyak pilihan penyelesaian obrolan yang akan dihasilkan untuk setiap pesan input.
+Mengatur atau mendapatkan berapa banyak pilihan penyelesaian obrolan yang dihasilkan untuk setiap pesan masuk.
 
 ```csharp
 public int? NumberOfChoices { get; set; }
@@ -16,6 +16,8 @@ public int? NumberOfChoices { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaChatCompletionRequest](../)
+* class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

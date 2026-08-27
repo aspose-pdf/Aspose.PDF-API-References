@@ -1,14 +1,14 @@
 ---
-title: Class SetAdvancedColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetAdvancedColorStroke. Kelas yang mewakili operator SCN untuk mengatur warna untuk operasi garis
+title: "Kelas SetAdvancedColorStroke"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetAdvancedColorStroke class. Kelas yang mewakili operator SCN untuk mengatur warna pada operasi stroking"
 type: docs
-weight: 7570
+weight: 7710
 url: /id/net/aspose.pdf.operators/setadvancedcolorstroke/
 ---
-## Kelas SetAdvancedColorStroke
+## SetAdvancedColorStroke class
 
-Kelas yang mewakili operator SCN (mengatur warna untuk operasi garis).
+Kelas yang mewakili operator SCN (mengatur warna untuk operasi stroking).
 
 ```csharp
 public class SetAdvancedColorStroke : BasicSetColorAndPatternOperator
@@ -45,13 +45,15 @@ public class SetAdvancedColorStroke : BasicSetColorAndPatternOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setadvancedcolorstroke/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/setadvancedcolorstroke/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [getColor](../../aspose.pdf.operators/setadvancedcolorstroke/getcolor/)() | Mengembalikan warna yang ditentukan oleh operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
+* class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

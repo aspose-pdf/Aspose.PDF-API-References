@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.DefaultOfBitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SoundSampleData. Nilai default untuk parameter BitsPerchannel
+title: "SoundSampleData.DefaultOfBitsPerChannel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang SoundSampleData. Nilai default untuk parameter BitsPerchannel"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/
 ---
-## Bidang SoundSampleData.DefaultOfBitsPerChannel
+## SoundSampleData.DefaultOfBitsPerChannel field
 
 Nilai default untuk parameter BitsPerchannel.
 
@@ -16,6 +16,8 @@ public const int DefaultOfBitsPerChannel;
 
 ### Lihat Juga
 
-* kelas [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

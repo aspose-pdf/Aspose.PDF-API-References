@@ -1,12 +1,12 @@
 ---
-title: PageInformationAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageInformationAnnotation. Menerima pengunjung untuk pemrosesan anotasi
+title: "PageInformationAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageInformationAnnotation. Menerima visitor untuk pemrosesan anotasi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/pageinformationannotation/accept/
 ---
-## Metode PageInformationAnnotation.Accept
+## PageInformationAnnotation.Accept method
 
 Menerima pengunjung untuk pemrosesan anotasi.
 
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [PageInformationAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [PageInformationAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mendapatkan atau menetapkan pengidentifikasi cap
+title: "Stamp.StampId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau menetapkan identifier stamp"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/stamp/stampid/
 ---
-## Properti Stamp.StampId
+## Stamp.StampId property
 
-Mendapatkan atau menetapkan pengidentifikasi cap.
+Mendapatkan atau mengatur pengidentifikasi stempel.
 
 ```csharp
 public int StampId { get; set; }
@@ -16,6 +16,8 @@ public int StampId { get; set; }
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

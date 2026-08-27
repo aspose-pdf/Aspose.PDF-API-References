@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.ResourceLoadingResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ResourceLoadingResult. Data biner yang dimuat dengan pemuat kustom, harus diatur setelah pemuatan
+title: "LoadOptions.ResourceLoadingResult.Data"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ResourceLoadingResult. Data biner yang dimuat dengan pemuat khusus harus diatur setelah pemuatan."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/loadoptions.resourceloadingresult/data/
 ---
-## Properti LoadOptions.ResourceLoadingResult.Data
+## LoadOptions.ResourceLoadingResult.Data property
 
-Data biner yang dimuat dengan pemuat kustom - harus diatur setelah pemuatan
+Data biner yang dimuat dengan pemuat khusus - harus diatur setelah pemuatan
 
 ```csharp
 public byte[] Data { get; }
@@ -16,6 +16,8 @@ public byte[] Data { get; }
 
 ### Lihat Juga
 
-* kelas [ResourceLoadingResult](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

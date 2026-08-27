@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Paragraphs. Menyisipkan paragraf ke koleksi
+title: "Paragraphs.Insert"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Paragraphs. Menyisipkan paragraf ke dalam koleksi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/paragraphs/insert/
 ---
-## Metode Paragraphs.Insert
+## Paragraphs.Insert method
 
-Menyisipkan paragraf ke koleksi.
+Sisipkan paragraf ke koleksi.
 
 ```csharp
 public void Insert(int index, BaseParagraph paragraph)
@@ -17,11 +17,13 @@ public void Insert(int index, BaseParagraph paragraph)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks untuk paragraf. |
-| paragraph | BaseParagraph | Paragraf. |
+| paragraf | BaseParagraph | Paragraf. |
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../../baseparagraph/)
-* kelas [Paragraphs](../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

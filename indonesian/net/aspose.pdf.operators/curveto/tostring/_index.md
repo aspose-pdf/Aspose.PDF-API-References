@@ -1,12 +1,12 @@
 ---
-title: CurveTo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CurveTo. Mengembalikan representasi teks dari operator
+title: "CurveTo.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CurveTo. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.operators/curveto/tostring/
 ---
-## Metode CurveTo.ToString
+## CurveTo.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [CurveTo](../)
+* class [CurveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

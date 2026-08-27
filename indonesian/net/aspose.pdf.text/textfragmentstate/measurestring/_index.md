@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentState. Mengukur string
+title: "TextFragmentState.MeasureString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentState. Mengukur string"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf.text/textfragmentstate/measurestring/
 ---
-## Metode TextFragmentState.MeasureString
+## TextFragmentState.MeasureString method
 
 Mengukur string.
 
@@ -16,14 +16,16 @@ public override double MeasureString(string str)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| str | String | String. |
+| str | String | String tersebut. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Lebar string.
 
 ### Lihat Juga
 
-* kelas [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XFA.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XFA. Daftar nama field dalam template formulir
+title: "XFA.FieldNames"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XFA. Daftar nama bidang dalam templat formulir"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/xfa/fieldnames/
 ---
-## Properti XFA.FieldNames
+## XFA.FieldNames property
 
-Daftar nama field dalam template formulir.
+Daftar nama bidang dalam templat formulir.
 
 ```csharp
 public string[] FieldNames { get; }
@@ -16,6 +16,8 @@ public string[] FieldNames { get; }
 
 ### Lihat Juga
 
-* kelas [XFA](../)
+* class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

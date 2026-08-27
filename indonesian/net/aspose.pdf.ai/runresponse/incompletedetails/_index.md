@@ -1,14 +1,14 @@
 ---
-title: RunResponse.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur rincian mengapa run tidak lengkap. Akan bernilai null jika run tidak tidak lengkap
+title: "RunResponse.IncompleteDetails"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur detail mengapa run tidak lengkap. Akan bernilai null jika run tidak tidak lengkap"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.ai/runresponse/incompletedetails/
 ---
-## Properti RunResponse.IncompleteDetails
+## RunResponse.IncompleteDetails property
 
-Mendapatkan atau mengatur rincian mengapa run tidak lengkap. Akan bernilai null jika run tidak tidak lengkap.
+Menentukan atau mengatur detail mengapa run tidak lengkap. Akan bernilai null jika run tidak tidak lengkap.
 
 ```csharp
 public IncompleteDetails IncompleteDetails { get; set; }
@@ -16,7 +16,9 @@ public IncompleteDetails IncompleteDetails { get; set; }
 
 ### Lihat Juga
 
-* kelas [IncompleteDetails](../../incompletedetails/)
-* kelas [RunResponse](../)
+* class [IncompleteDetails](../../incompletedetails/)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

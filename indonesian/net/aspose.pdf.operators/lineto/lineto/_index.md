@@ -1,12 +1,12 @@
 ---
-title: LineTo.LineTo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor LineTo. Menginisialisasi operator garis
+title: "LineTo.LineTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor LineTo. Menginisialisasi operator garis"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/lineto/lineto/
 ---
-## Konstruktor LineTo
+## LineTo constructor
 
 Menginisialisasi operator garis.
 
@@ -21,6 +21,8 @@ public LineTo(double x, double y)
 
 ### Lihat Juga
 
-* kelas [LineTo](../)
+* class [LineTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.setStampId
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Stamp. Mengatur Id cap
+title: "Stamp.setStampId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Stamp. Mengatur Id stamp"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf/stamp/setstampid/
 ---
-## Metode Stamp.setStampId
+## Stamp.setStampId method
 
-Mengatur Id cap.
+Mengatur ID stempel.
 
 ```csharp
 public void setStampId(int value)
@@ -16,10 +16,12 @@ public void setStampId(int value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Int32 | Nilai baru dari ID Cap. |
+| nilai | Int32 | Nilai baru dari ID Stamp. |
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

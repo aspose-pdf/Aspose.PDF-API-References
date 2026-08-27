@@ -1,7 +1,7 @@
 ---
-title: PdfFileSignature.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Buat tanda tangan pada dokumen pdf
+title: "PdfFileSignature.Sign"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Membuat tanda tangan pada dokumen pdf"
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.facades/pdffilesignature/sign/
@@ -17,12 +17,12 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman di mana tanda tangan dibuat. |
+| halaman | Int32 | Nomor halaman tempat tanda tangan dibuat. |
 | SigReason | String | Alasan tanda tangan. |
 | SigContact | String | Kontak tanda tangan. |
 | SigLocation | String | Lokasi tanda tangan. |
-| visible | Boolean | Visibilitas tanda tangan. |
-| annotRect | Rectangle | Rect tanda tangan. |
+| terlihat | Boolean | Visibilitas tanda tangan. |
+| annotRect | Rectangle | Kotak tanda tangan. |
 
 ## Contoh
 
@@ -58,7 +58,7 @@ pdfSign.Save(outFile)
 
 ## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
 
-Tandatangani dokumen dengan jenis tanda tangan yang diberikan.
+Tandatangani dokumen dengan tipe tanda tangan yang diberikan.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -67,13 +67,13 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman di mana tanda tangan dibuat. |
+| halaman | Int32 | Nomor halaman tempat tanda tangan dibuat. |
 | SigReason | String | Alasan tanda tangan. |
 | SigContact | String | Kontak tanda tangan. |
 | SigLocation | String | Lokasi tanda tangan. |
-| visible | Boolean | Visibilitas tanda tangan. |
-| annotRect | Rectangle | Rect tanda tangan. |
-| sig | Signature | Jenis tanda tangan, bisa PKCS1, PKCS7 dan PKCS7Detached. |
+| terlihat | Boolean | Visibilitas tanda tangan. |
+| annotRect | Rectangle | Kotak tanda tangan. |
+| sig | Tanda Tangan | Jenis tanda tangan, dapat berupa PKCS1, PKCS7, dan PKCS7Detached. |
 
 ## Contoh
 
@@ -109,7 +109,7 @@ pdfSign.Save()
 
 ## Sign(int, bool, Rectangle, Signature) {#sign}
 
-Tandatangani dokumen dengan jenis tanda tangan yang diberikan.
+Tandatangani dokumen dengan tipe tanda tangan yang diberikan.
 
 ```csharp
 public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
@@ -117,10 +117,10 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman di mana tanda tangan dibuat. |
-| visible | Boolean | Visibilitas tanda tangan. |
-| annotRect | Rectangle | Rect tanda tangan. |
-| sig | Signature | Jenis tanda tangan, bisa PKCS1, PKCS7 dan PKCS7Detached. Data seperti alasan tanda tangan, kontak, dan lokasi harus sudah ada dalam objek ini (lihat properti yang sesuai). |
+| halaman | Int32 | Nomor halaman tempat tanda tangan dibuat. |
+| terlihat | Boolean | Visibilitas tanda tangan. |
+| annotRect | Rectangle | Kotak tanda tangan. |
+| sig | Tanda Tangan | Jenis tanda tangan, dapat berupa PKCS1, PKCS7, dan PKCS7Detached. Data seperti alasan tanda tangan, kontak, dan lokasi harus sudah ada dalam objek ini (lihat properti yang sesuai). |
 
 ## Contoh
 
@@ -163,7 +163,7 @@ pdfSign.Save()
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-Tandatangani dokumen dengan jenis tanda tangan yang diberikan yang ditempatkan di bidang tanda tangan yang sudah ada. Sebelum menandatangani, bidang tanda tangan harus kosong, yaitu bidang tidak boleh mengandung kamus tanda tangan. Dengan demikian, dokumen pdf sudah memiliki bidang tanda tangan, Anda tidak perlu menyediakan tempat untuk menempelkan tanda tangan, halaman dan rectangle yang sesuai diambil dari bidang tanda tangan yang ditemukan berdasarkan nama tanda tangan (lihat parameter SigName).
+Tandatangani dokumen dengan tipe tanda tangan yang diberikan yang ditempatkan di bidang tanda tangan yang sudah ada. Sebelum menandatangani, bidang tanda tangan harus kosong, yaitu tidak boleh berisi kamus tanda tangan. Karena dokumen pdf sudah memiliki bidang tanda tangan, Anda tidak perlu menentukan tempat untuk menempelkan tanda tangan, halaman dan persegi panjang yang sesuai diambil dari bidang tanda tangan yang ditemukan berdasarkan nama tanda tangan (lihat parameter SigName).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -176,7 +176,7 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 | SigReason | String | Alasan tanda tangan. |
 | SigContact | String | Kontak tanda tangan. |
 | SigLocation | String | Lokasi tanda tangan. |
-| sig | Signature | Jenis tanda tangan, bisa PKCS1, PKCS7 dan PKCS7Detached. |
+| sig | Tanda Tangan | Jenis tanda tangan, dapat berupa PKCS1, PKCS7, dan PKCS7Detached. |
 
 ## Contoh
 
@@ -211,7 +211,7 @@ pdfSign.Save()
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-Tandatangani dokumen dengan jenis tanda tangan yang diberikan yang ditempatkan di bidang tanda tangan yang sudah ada. Sebelum menandatangani, dokumen pdf harus sudah memiliki bidang tanda tangan, halaman dan rectangle yang sesuai diambil dari bidang tanda tangan yang ditemukan berdasarkan nama tanda tangan (lihat parameter SigName).
+Tandatangani dokumen dengan tipe tanda tangan yang diberikan yang ditempatkan di bidang tanda tangan yang sudah ada. Sebelum menandatangani, dokumen pdf seharusnya sudah memiliki bidang tanda tangan, halaman dan persegi panjang yang sesuai diambil dari bidang tanda tangan yang ditemukan berdasarkan nama tanda tangan (lihat parameter SigName).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -220,14 +220,14 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman di mana tanda tangan dibuat. |
+| halaman | Int32 | Nomor halaman tempat tanda tangan dibuat. |
 | SigName | String | Nama bidang tanda tangan. |
 | SigReason | String | Alasan tanda tangan. |
 | SigContact | String | Kontak tanda tangan. |
 | SigLocation | String | Lokasi tanda tangan. |
-| visible | Boolean | Visibilitas tanda tangan. |
-| annotRect | Rectangle | Rect tanda tangan. |
-| sig | Signature | Jenis tanda tangan, bisa PKCS1, PKCS7 dan PKCS7Detached. |
+| terlihat | Boolean | Visibilitas tanda tangan. |
+| annotRect | Rectangle | Kotak tanda tangan. |
+| sig | Tanda Tangan | Jenis tanda tangan, dapat berupa PKCS1, PKCS7, dan PKCS7Detached. |
 
 ## Contoh
 
@@ -263,7 +263,7 @@ pdfSign.Save(outFile)
 
 ## Sign(string, Signature) {#sign_4}
 
-Tandatangani dokumen dengan jenis tanda tangan yang diberikan yang ditempatkan di bidang tanda tangan yang sudah ada. Sebelum menandatangani, bidang tanda tangan harus kosong, yaitu bidang tidak boleh mengandung kamus tanda tangan. Dengan demikian, dokumen pdf sudah memiliki bidang tanda tangan, Anda tidak perlu menyediakan tempat untuk menempelkan tanda tangan, halaman dan rectangle yang sesuai diambil dari bidang tanda tangan yang ditemukan berdasarkan nama tanda tangan (lihat parameter SigName). Data seperti alasan tanda tangan, kontak, dan lokasi harus disediakan oleh properti yang sesuai dari objek Signature sig.
+Tandatangani dokumen dengan tipe tanda tangan yang diberikan yang ditempatkan di bidang tanda tangan yang sudah ada. Sebelum menandatangani, bidang tanda tangan harus kosong, yaitu tidak boleh berisi kamus tanda tangan. Karena dokumen pdf sudah memiliki bidang tanda tangan, Anda tidak perlu menentukan tempat untuk menempelkan tanda tangan, halaman dan persegi panjang yang sesuai diambil dari bidang tanda tangan yang ditemukan berdasarkan nama tanda tangan (lihat parameter SigName). Data seperti alasan tanda tangan, kontak, dan lokasi harus disediakan melalui properti yang sesuai dari objek Signature sig.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -272,7 +272,7 @@ public void Sign(string SigName, Signature sig)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | SigName | String | Nama bidang tanda tangan. |
-| sig | Signature | Jenis tanda tangan, bisa PKCS1 (objek Pkcs1Signature), PKCS7 dan PKCS7 terpisah (objek Pkcs7Signature) |
+| sig | Tanda Tangan | Jenis tanda tangan, dapat berupa PKCS1 (objek Pkcs1Signature), PKCS7, dan PKCS7 detached (objek Pkcs7Signature) |
 
 ## Contoh
 
@@ -308,3 +308,5 @@ pdfSign.Save()
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

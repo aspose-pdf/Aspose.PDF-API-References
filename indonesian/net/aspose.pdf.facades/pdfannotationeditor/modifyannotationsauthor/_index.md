@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotationsAuthor
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Memodifikasi penulis anotasi pada rentang halaman yang ditentukan
+title: "PdfAnnotationEditor.ModifyAnnotationsAuthor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAnnotationEditor. Mengubah penulis anotasi pada rentang halaman yang ditentukan"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
 ---
-## Metode PdfAnnotationEditor.ModifyAnnotationsAuthor
+## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 
-Memodifikasi penulis anotasi pada rentang halaman yang ditentukan.
+Mengubah penulis anotasi pada rentang halaman yang ditentukan.
 
 ```csharp
 public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string desAuthor)
@@ -18,7 +18,7 @@ public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string
 | --- | --- | --- |
 | start | Int32 | Nomor halaman awal. |
 | end | Int32 | Nomor halaman akhir. |
-| srcAuthor | String | Penulis yang harus dimodifikasi. |
+| srcAuthor | String | Penulis yang harus diubah. |
 | desAuthor | String | Penulis baru. |
 
 ## Contoh
@@ -32,6 +32,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

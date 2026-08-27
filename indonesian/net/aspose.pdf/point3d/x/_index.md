@@ -1,12 +1,12 @@
 ---
-title: Point3D.X
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Point3D. Nilai koordinat X
+title: "Point3D.X"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Point3D. Nilai koordinat X"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/point3d/x/
 ---
-## Properti Point3D.X
+## Point3D.X property
 
 Nilai koordinat X.
 
@@ -16,6 +16,8 @@ public double X { get; set; }
 
 ### Lihat Juga
 
-* kelas [Point3D](../)
+* class [Point3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

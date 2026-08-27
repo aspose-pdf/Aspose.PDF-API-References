@@ -1,14 +1,14 @@
 ---
-title: BDCProperties.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BDCProperties. Mendapatkan/mengatur nilai Bahasa
+title: "BDCProperties.Lang"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BDCProperties. Mendapatkan/mengatur nilai Bahasa."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/bdcproperties/lang/
 ---
-## Properti BDCProperties.Lang
+## BDCProperties.Lang property
 
-Mendapatkan/mengatur nilai Bahasa.
+Mendapatkan/mengatur nilai Language.
 
 ```csharp
 public string Lang { get; set; }
@@ -16,6 +16,8 @@ public string Lang { get; set; }
 
 ### Lihat Juga
 
-* kelas [BDCProperties](../)
+* class [BDCProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.CenterWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dokumen. Mendapatkan atau mengatur flag yang menentukan apakah posisi jendela dokumen akan dipusatkan di layar
+title: "Document.CenterWindow"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur flag yang menentukan apakah posisi jendela dokumen akan dipusatkan di layar"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/document/centerwindow/
 ---
-## Properti Document.CenterWindow
+## Document.CenterWindow property
 
 Mendapatkan atau mengatur flag yang menentukan apakah posisi jendela dokumen akan dipusatkan di layar.
 
@@ -25,6 +25,8 @@ bool value = document.CenterWindow;
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SetColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetColorStroke. Kelas yang mewakili operator SC untuk mengatur warna untuk operator warna garis.
+title: "Kelas SetColorStroke"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetColorStroke class. Kelas yang mewakili operator SC untuk mengatur warna pada operator warna stroking."
 type: docs
-weight: 7680
+weight: 7820
 url: /id/net/aspose.pdf.operators/setcolorstroke/
 ---
-## Kelas SetColorStroke
+## SetColorStroke class
 
-Kelas yang mewakili operator SC untuk mengatur warna untuk operator warna garis.
+Kelas yang merepresentasikan operator SC (mengatur warna untuk operasi stroking).
 
 ```csharp
 public class SetColorStroke : BasicSetColorOperator
@@ -19,10 +19,10 @@ public class SetColorStroke : BasicSetColorOperator
 | Nama | Deskripsi |
 | --- | --- |
 | [SetColorStroke](setcolorstroke/#constructor)() | Menginisialisasi operator. |
-| [SetColorStroke](setcolorstroke/#constructor_1)(double) | Mengatur warna untuk operator garis untuk ruang warna DeviceGray, CalGray, dan Indexed. |
-| [SetColorStroke](setcolorstroke/#constructor_4)(double[]) | Konstruktor yang memungkinkan untuk mengatur komponen warna. |
-| [SetColorStroke](setcolorstroke/#constructor_2)(double, double, double) | Mengatur warna untuk operator garis untuk ruang warna DeviceRGB, CalRGB, dan Lab. |
-| [SetColorStroke](setcolorstroke/#constructor_3)(double, double, double, double) | Mengatur warna untuk operator garis untuk ruang warna CMYK. |
+| [SetColorStroke](setcolorstroke/#constructor_1)(double) | Atur warna untuk operator stroking pada ruang warna DeviceGray, CalGray, dan Indexed. |
+| [SetColorStroke](setcolorstroke/#constructor_4)(double[]) | Konstruktor yang memungkinkan mengatur komponen warna. |
+| [SetColorStroke](setcolorstroke/#constructor_2)(double, double, double) | Atur warna untuk operator stroking pada ruang warna DeviceRGB, CalRGB, dan Lab. |
+| [SetColorStroke](setcolorstroke/#constructor_3)(double, double, double, double) | Atur warna untuk operator stroking pada ruang warna CMYK. |
 
 ## Properti
 
@@ -43,13 +43,15 @@ public class SetColorStroke : BasicSetColorOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor/)() | Mengembalikan warna yang ditentukan oleh operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [BasicSetColorOperator](../basicsetcoloroperator/)
+* class [BasicSetColorOperator](../basicsetcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

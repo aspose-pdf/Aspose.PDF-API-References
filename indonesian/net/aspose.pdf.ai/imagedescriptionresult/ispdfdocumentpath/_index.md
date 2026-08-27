@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.IsPdfDocumentPath
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageDescriptionResult. Mendapatkan nilai yang menunjukkan apakah ImageDescriptionResult berisi jalur dokumen PDF
+title: "ImageDescriptionResult.IsPdfDocumentPath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageDescriptionResult. Mendapatkan nilai yang menunjukkan apakah ImageDescriptionResult berisi jalur dokumen PDF"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/
 ---
-## Properti ImageDescriptionResult.IsPdfDocumentPath
+## ImageDescriptionResult.IsPdfDocumentPath property
 
 Mendapatkan nilai yang menunjukkan apakah ImageDescriptionResult berisi jalur dokumen PDF.
 
@@ -16,6 +16,8 @@ public bool IsPdfDocumentPath { get; }
 
 ### Lihat Juga
 
-* kelas [ImageDescriptionResult](../)
+* class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

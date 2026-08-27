@@ -1,14 +1,14 @@
 ---
-title: GS.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GS. Mengambil atau mengatur nama sumber daya status grafik
+title: "GS.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GS. Mendapatkan atau mengatur nama sumber daya keadaan grafis"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/gs/name/
 ---
-## Properti GS.Name
+## GS.Name property
 
-Mengambil atau mengatur nama sumber daya status grafik.
+Mendapatkan atau mengatur nama sumber daya keadaan grafis.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [GS](../)
-* ruang nama [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class FillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.FillStroke. Kelas yang mewakili operator B untuk mengisi dan menggambar jalur menggunakan aturan winding nonzero
+title: "Kelas FillStroke"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.FillStroke kelas. Kelas yang merepresentasikan operator B yang mengisi dan men-stroke jalur menggunakan aturan winding nonzero"
 type: docs
-weight: 7380
+weight: 7520
 url: /id/net/aspose.pdf.operators/fillstroke/
 ---
-## Kelas FillStroke
+## FillStroke class
 
-Kelas yang mewakili operator B (mengisi dan menggambar jalur menggunakan aturan winding nonzero)
+Kelas yang mewakili operator B (mengisi dan menggambar jalur menggunakan aturan lilitan non-zero)
 
 ```csharp
 public class FillStroke : Operator
@@ -30,12 +30,14 @@ public class FillStroke : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/fillstroke/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

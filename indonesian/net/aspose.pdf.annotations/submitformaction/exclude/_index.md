@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.Exclude
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SubmitFormAction. Jika dikosongkan, array Fields menentukan bidang mana yang akan disertakan dalam pengiriman
+title: "SubmitFormAction.Exclude"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang SubmitFormAction. Jika tidak diatur, array Fields menentukan bidang mana yang akan disertakan dalam pengiriman"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/submitformaction/exclude/
 ---
-## Bidang SubmitFormAction.Exclude
+## SubmitFormAction.Exclude field
 
-Jika dikosongkan, array Fields menentukan bidang mana yang akan disertakan dalam pengiriman.
+Jika tidak diatur, array Fields menentukan bidang mana yang akan disertakan dalam pengiriman.
 
 ```csharp
 public const int Exclude;
@@ -16,6 +16,8 @@ public const int Exclude;
 
 ### Lihat Juga
 
-* kelas [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

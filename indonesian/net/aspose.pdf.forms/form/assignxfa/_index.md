@@ -1,14 +1,14 @@
 ---
-title: Form.AssignXfa
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengatur XFA dari formulir ke nilai yang ditentukan
+title: "Form.AssignXfa"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Menetapkan XFA formulir ke nilai yang ditentukan."
 type: docs
-weight: 210
+weight: 230
 url: /id/net/aspose.pdf.forms/form/assignxfa/
 ---
-## Metode Form.AssignXfa
+## Form.AssignXfa method
 
-Mengatur XFA dari formulir ke nilai yang ditentukan.
+Mengatur XFA formulir ke nilai yang ditentukan.
 
 ```csharp
 public void AssignXfa(XmlDocument xml)
@@ -20,6 +20,8 @@ public void AssignXfa(XmlDocument xml)
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

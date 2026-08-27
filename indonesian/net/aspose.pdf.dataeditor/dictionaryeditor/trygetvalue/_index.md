@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DictionaryEditor. Untuk akses ke tipe data sederhana seperti string, nama, bool, angka. Mengembalikan null untuk tipe lain
+title: "DictionaryEditor.TryGetValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DictionaryEditor. Untuk mengakses tipe data sederhana seperti string, name, bool, number. Mengembalikan null untuk tipe lain."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/trygetvalue/
 ---
-## Metode DictionaryEditor.TryGetValue
+## DictionaryEditor.TryGetValue method
 
-Untuk akses ke tipe data sederhana seperti string, nama, bool, angka. Mengembalikan null untuk tipe lain.
+Untuk mengakses tipe data sederhana seperti string, nama, bool, number. Mengembalikan null untuk tipe lainnya.
 
 ```csharp
 public bool TryGetValue(string key, out ICosPdfPrimitive value)
@@ -16,16 +16,18 @@ public bool TryGetValue(string key, out ICosPdfPrimitive value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Nilai kunci |
-| value | ICosPdfPrimitive& | mengembalikan [`ICosPdfPrimitive`](../../icospdfprimitive/) untuk kunci atau null. |
+| kunci | String | Nilai kunci |
+| value | ICosPdfPrimitive& | returns [`ICosPdfPrimitive`](../../icospdfprimitive/) untuk kunci atau null. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan true jika [`ICosPdfPrimitive`](../../icospdfprimitive/) seperti string, nama, bool, angka. Mengembalikan false untuk semua tipe lain.
+Mengembalikan true jika [`ICosPdfPrimitive`](../../icospdfprimitive/) berupa string, name, bool, number. Mengembalikan false untuk semua tipe lainnya.
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../../icospdfprimitive/)
-* kelas [DictionaryEditor](../)
-* ruang nama [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

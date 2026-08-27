@@ -1,12 +1,12 @@
 ---
-title: MCRElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode MCRElement. Mengembalikan string yang mewakili objek saat ini
+title: "MCRElement.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode MCRElement. Mengembalikan string yang mewakili objek saat ini"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/mcrelement/tostring/
 ---
-## Metode MCRElement.ToString
+## MCRElement.ToString method
 
 Mengembalikan string yang mewakili objek saat ini.
 
@@ -14,12 +14,14 @@ Mengembalikan string yang mewakili objek saat ini.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String yang mewakili objek saat ini.
 
 ### Lihat Juga
 
-* kelas [MCRElement](../)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

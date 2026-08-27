@@ -1,14 +1,14 @@
 ---
-title: ColumnInfo.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ColumnInfo. Mengambil atau mengatur nilai int yang menunjukkan jumlah kolom
+title: "ColumnInfo.ColumnCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ColumnInfo. Mendapatkan atau mengatur nilai int yang menunjukkan jumlah kolom"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/columninfo/columncount/
 ---
-## Properti ColumnInfo.ColumnCount
+## ColumnInfo.ColumnCount property
 
-Mengambil atau mengatur nilai int yang menunjukkan jumlah kolom.
+Mendapatkan atau mengatur nilai int yang menunjukkan jumlah kolom.
 
 ```csharp
 public int ColumnCount { get; set; }
@@ -16,6 +16,8 @@ public int ColumnCount { get; set; }
 
 ### Lihat Juga
 
-* kelas [ColumnInfo](../)
+* class [ColumnInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

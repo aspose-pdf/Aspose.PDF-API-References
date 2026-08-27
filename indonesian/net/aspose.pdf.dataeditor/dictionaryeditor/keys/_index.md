@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DictionaryEditor. Koleksi kunci yang dapat diedit
+title: "DictionaryEditor.Keys"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DictionaryEditor. Kumpulan kunci yang dapat diedit"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/keys/
 ---
-## Properti DictionaryEditor.Keys
+## DictionaryEditor.Keys property
 
 Koleksi kunci yang dapat diedit.
 
@@ -16,6 +16,8 @@ public ICollection<string> Keys { get; }
 
 ### Lihat Juga
 
-* kelas [DictionaryEditor](../)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

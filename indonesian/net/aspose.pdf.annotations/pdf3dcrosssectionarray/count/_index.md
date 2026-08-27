@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCrossSectionArray. Mendapatkan jumlah penampang
+title: "PDF3DCrossSectionArray.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DCrossSectionArray. Mendapatkan jumlah cross section"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
 ---
-## Properti PDF3DCrossSectionArray.Count
+## PDF3DCrossSectionArray.Count property
 
 Mendapatkan jumlah penampang.
 
@@ -14,12 +14,14 @@ Mendapatkan jumlah penampang.
 public int Count { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Jumlah penampang.
+Jumlah cross section.
 
 ### Lihat Juga
 
-* kelas [PDF3DCrossSectionArray](../)
+* class [PDF3DCrossSectionArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

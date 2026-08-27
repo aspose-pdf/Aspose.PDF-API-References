@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableTRElement. Mendapatkan atau menetapkan margin default untuk sel baris
+title: "TableTRElement.DefaultCellPadding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TableTRElement. Mendapatkan atau mengatur margin default untuk sel baris"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellpadding/
 ---
-## Properti TableTRElement.DefaultCellPadding
+## TableTRElement.DefaultCellPadding property
 
-Mendapatkan atau menetapkan margin default untuk sel baris.
+Mendapatkan atau mengatur margin default untuk sel baris.
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo DefaultCellPadding { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../../../aspose.pdf/margininfo/)
-* kelas [TableTRElement](../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

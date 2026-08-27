@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Start
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Penempatan Awal Atribut Ditempatkan sehingga tepi awal dari persegi panjang alokasi elemen bertepatan dengan area referensi terdekat yang membungkus
+title: "AttributeName.Placement_Start"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeName field. Atribut Placement Start  Ditempatkan sehingga tepi start dari persegi alokasi elemen bertepatan dengan tepi area referensi terdekat yang membungkusnya."
 type: docs
 weight: 380
 url: /id/net/aspose.pdf.logicalstructure/attributename/placement_start/
 ---
-## Field AttributeName.Placement_Start
+## AttributeName.Placement_Start field
 
-Penempatan Atribut: Awal - Ditempatkan sehingga tepi awal dari persegi panjang alokasi elemen bertepatan dengan area referensi terdekat yang membungkus.
+Atribut Placement: Start - Ditempatkan sehingga tepi awal dari persegi alokasi elemen bertepatan dengan tepi area referensi terdekat yang membungkus.
 
 ```csharp
 public static readonly AttributeName Placement_Start;
@@ -19,3 +19,5 @@ public static readonly AttributeName Placement_Start;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

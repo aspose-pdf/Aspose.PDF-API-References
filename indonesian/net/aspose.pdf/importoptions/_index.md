@@ -1,14 +1,14 @@
 ---
-title: Class ImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.ImportOptions. Tipe ImportOptions menyimpan tingkat abstraksi pada opsi impor individu
+title: "Kelas ImportOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.ImportOptions. Tipe ImportOptions menyimpan tingkat abstraksi pada opsi impor individual"
 type: docs
-weight: 5950
+weight: 6080
 url: /id/net/aspose.pdf/importoptions/
 ---
-## Kelas ImportOptions
+## ImportOptions class
 
-Tipe ImportOptions menyimpan tingkat abstraksi pada opsi impor individu.
+Tipe ImportOptions memegang tingkat abstraksi pada masing-masing opsi impor.
 
 ```csharp
 public abstract class ImportOptions
@@ -24,3 +24,5 @@ public abstract class ImportOptions
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

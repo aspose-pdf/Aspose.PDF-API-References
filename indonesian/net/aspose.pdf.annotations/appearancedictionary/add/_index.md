@@ -1,7 +1,7 @@
 ---
-title: AppearanceDictionary.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AppearanceDictionary. Tambahkan X form untuk kunci yang ditentukan
+title: "AppearanceDictionary.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AppearanceDictionary. Menambahkan formulir X untuk kunci yang ditentukan"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/appearancedictionary/add/
@@ -16,13 +16,13 @@ public void Add(string key, XForm value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci elemen. |
-| value | XForm | Nilai objek XForm. |
+| kunci | String | Kunci elemen. |
+| nilai | XForm | Nilai objek XForm. |
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [AppearanceDictionary](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -30,7 +30,7 @@ public void Add(string key, XForm value)
 
 ## Add(KeyValuePair&lt;string, XForm&gt;) {#add}
 
-Menambahkan pasangan dengan kunci dan nilai ke dalam kamus.
+Menambahkan pasangan kunci dan nilai ke dalam kamus.
 
 ```csharp
 public void Add(KeyValuePair<string, XForm> item)
@@ -42,7 +42,9 @@ public void Add(KeyValuePair<string, XForm> item)
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [AppearanceDictionary](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

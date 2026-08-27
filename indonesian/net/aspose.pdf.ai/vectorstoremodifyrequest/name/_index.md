@@ -1,14 +1,14 @@
 ---
-title: VectorStoreModifyRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreModifyRequest. Mengambil atau mengatur nama dari penyimpanan vektor
+title: "VectorStoreModifyRequest.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti VectorStoreModifyRequest. Mendapatkan atau mengatur nama toko vektor"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/vectorstoremodifyrequest/name/
 ---
-## Properti VectorStoreModifyRequest.Name
+## VectorStoreModifyRequest.Name property
 
-Mengambil atau mengatur nama dari penyimpanan vektor.
+Mendapatkan atau mengatur nama vector store.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreModifyRequest](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

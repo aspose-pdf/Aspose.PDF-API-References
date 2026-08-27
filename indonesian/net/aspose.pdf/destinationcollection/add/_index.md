@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DestinationCollection. Menambahkan item yang ditentukan. Koleksi bersifat hanya-baca. Selalu melempar pengecualian NotSupportedException
+title: "DestinationCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DestinationCollection. Menambahkan item yang ditentukan. Koleksi bersifat hanya-baca. Selalu melempar pengecualian NotSupportedException"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/destinationcollection/add/
 ---
-## Metode DestinationCollection.Add
+## DestinationCollection.Add method
 
-Menambahkan item yang ditentukan. Koleksi bersifat hanya-baca. Selalu melempar pengecualian NotSupportedException.
+Menambahkan item yang ditentukan. Koleksi bersifat read-only. Selalu melemparkan pengecualian NotSupportedException.
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -26,6 +26,8 @@ public void Add(KeyValuePair<string, object> item)
 
 ### Lihat Juga
 
-* kelas [DestinationCollection](../)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

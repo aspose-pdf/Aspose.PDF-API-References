@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FontSubstitutionCollection. Menambahkan objek substitusi font baru ke koleksi
+title: "FontSubstitutionCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FontSubstitutionCollection. Menambahkan objek substitusi font baru ke koleksi"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/fontsubstitutioncollection/add/
 ---
-## Metode FontSubstitutionCollection.Add
+## FontSubstitutionCollection.Add method
 
 Menambahkan objek substitusi font baru ke koleksi.
 
@@ -16,11 +16,13 @@ public void Add(FontSubstitution fontSubstitution)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fontSubstitution | FontSubstitution | Strategi substitusi font. |
+| fontSubstitution | FontSubstitution | Strategi substitusi Font. |
 
 ### Lihat Juga
 
-* kelas [FontSubstitution](../../fontsubstitution/)
-* kelas [FontSubstitutionCollection](../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

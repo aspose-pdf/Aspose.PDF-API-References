@@ -1,14 +1,14 @@
 ---
-title: PdfToXlsOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfToXlsOptions. Format keluaran
+title: "PdfToXlsOptions.Format"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfToXlsOptions properti. Format output"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdftoxlsoptions/format/
 ---
-## Properti PdfToXlsOptions.Format
+## PdfToXlsOptions.Format property
 
-Format keluaran.
+Format output.
 
 ```csharp
 public ExcelFormat Format { get; set; }
@@ -20,3 +20,5 @@ public ExcelFormat Format { get; set; }
 * class [PdfToXlsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

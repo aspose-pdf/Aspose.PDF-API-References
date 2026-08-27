@@ -1,12 +1,12 @@
 ---
-title: DocumentComparisonStatistics.DocumentComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentComparisonStatistics constructor. The default constructor
+title: "DocumentComparisonStatistics.DocumentComparisonStatistics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor DocumentComparisonStatistics. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.comparison/documentcomparisonstatistics/documentcomparisonstatistics/
 ---
-## Konstruktor DocumentComparisonStatistics
+## DocumentComparisonStatistics constructor
 
 Konstruktor default.
 
@@ -19,3 +19,5 @@ public DocumentComparisonStatistics()
 * class [DocumentComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

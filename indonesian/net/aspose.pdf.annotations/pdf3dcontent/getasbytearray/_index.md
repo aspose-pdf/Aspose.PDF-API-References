@@ -1,12 +1,12 @@
 ---
-title: PDF3DContent.GetAsByteArray
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DContent. Mendapatkan konten 3D sebagai array byte
+title: "PDF3DContent.GetAsByteArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DContent. Mendapatkan konten 3D sebagai array byte"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/pdf3dcontent/getasbytearray/
 ---
-## Metode PDF3DContent.GetAsByteArray
+## PDF3DContent.GetAsByteArray method
 
 Mendapatkan konten 3D sebagai array byte.
 
@@ -14,12 +14,14 @@ Mendapatkan konten 3D sebagai array byte.
 public byte[] GetAsByteArray()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 System.Byte[].
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

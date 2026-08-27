@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.ShowTerminalOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TeXLoadOptions. Mengambil/mengatur bendera yang menunjukkan apakah akan menampilkan output terminal di konsol
+title: "TeXLoadOptions.ShowTerminalOutput"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TeXLoadOptions. Mendapatkan/mengatur flag yang menunjukkan apakah menampilkan output terminal pada konsol."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/texloadoptions/showterminaloutput/
 ---
-## Properti TeXLoadOptions.ShowTerminalOutput
+## TeXLoadOptions.ShowTerminalOutput property
 
-Mengambil/mengatur bendera yang menunjukkan apakah akan menampilkan output terminal di konsol.
+Mendapatkan/mengatur flag yang menunjukkan apakah menampilkan output terminal di konsol.
 
 ```csharp
 public bool ShowTerminalOutput { get; set; }
@@ -16,6 +16,8 @@ public bool ShowTerminalOutput { get; set; }
 
 ### Lihat Juga
 
-* kelas [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

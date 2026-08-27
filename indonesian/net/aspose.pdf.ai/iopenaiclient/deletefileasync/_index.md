@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.DeleteFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Menghapus file tertentu secara asinkron
+title: "IOpenAIClient.DeleteFileAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Menghapus file tertentu secara asinkron"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.ai/iopenaiclient/deletefileasync/
 ---
-## Metode IOpenAIClient.DeleteFileAsync
+## IOpenAIClient.DeleteFileAsync method
 
 Menghapus file tertentu secara asinkron.
 
@@ -17,22 +17,24 @@ public Task<DeleteStatusResponse> DeleteFileAsync(string fileId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileId | String | ID dari file yang akan dihapus. |
+| fileId | String | ID file yang akan dihapus. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status dari operasi penghapusan.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi status operasi penghapusan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID file adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika Id file null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [DeleteStatusResponse](../../deletestatusresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

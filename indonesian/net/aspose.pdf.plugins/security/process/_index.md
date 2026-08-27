@@ -1,12 +1,12 @@
 ---
-title: Security.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode keamanan. Memulai pemrosesan Keamanan dengan parameter yang ditentukan
+title: "Security.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Security. Memulai pemrosesan Security dengan parameter yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/security/process/
 ---
-## Metode Security.Process
+## Security.Process method
 
 Memulai pemrosesan [`Security`](../) dengan parameter yang ditentukan.
 
@@ -18,9 +18,9 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- | --- |
 | options | IPluginOptions | Objek opsi yang berisi instruksi untuk [`Security`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek ResultContainer yang berisi hasil dari operasi.
+Objek ResultContainer yang berisi hasil operasi.
 
 ### Pengecualian
 
@@ -30,8 +30,10 @@ Objek ResultContainer yang berisi hasil dari operasi.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [Security](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Security](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Document.BindXml
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Mengikat xml ke dokumen
+title: "Document.BindXml"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode Document. Mengikat xml ke dokumen"
 type: docs
-weight: 550
+weight: 570
 url: /id/net/aspose.pdf/document/bindxml/
 ---
 ## BindXml(string) {#bindxml_3}
@@ -20,7 +20,7 @@ public void BindXml(string file)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ public void BindXml(string xmlFile, string xslFile)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -62,7 +62,7 @@ public void BindXml(Stream xmlStream, Stream xslStream)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -80,11 +80,11 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 | --- | --- | --- |
 | xmlStream | Stream | Aliran xml. |
 | xslStream | Stream | Aliran xsl jika XSLT digunakan. |
-| settings | XmlReaderSettings | Pengaturan pembaca xml. |
+| pengaturan | XmlReaderSettings | Pengaturan pembaca xml. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -104,6 +104,8 @@ public void BindXml(Stream stream)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

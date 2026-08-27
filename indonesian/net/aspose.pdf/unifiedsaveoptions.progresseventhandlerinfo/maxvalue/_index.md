@@ -1,7 +1,7 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue
-second_title: Aspose.PDF for .NET API Reference
-description: Field ProgressEventHandlerInfo. Nilai maksimum yang mungkin dari nilai kemajuan
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang ProgressEventHandlerInfo. Nilai maksimum yang mungkin dari nilai kemajuan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue/
@@ -19,3 +19,5 @@ public int MaxValue;
 * class [ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

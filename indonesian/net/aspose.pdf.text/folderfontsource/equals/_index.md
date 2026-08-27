@@ -1,12 +1,12 @@
 ---
-title: FolderFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FolderFontSource. Periksa apakah objek sumber font folder sama
+title: "FolderFontSource.Equals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FolderFontSource. Memeriksa apakah objek sumber font folder sama."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/folderfontsource/equals/
 ---
-## Metode FolderFontSource.Equals
+## FolderFontSource.Equals method
 
 Periksa apakah objek sumber font folder sama.
 
@@ -18,12 +18,14 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | Objek sumber font folder yang akan dibandingkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika kedua objek adalah sumber font folder yang ditargetkan ke folder yang sama.
+Benar jika kedua objek adalah sumber font folder yang ditujukan ke folder yang sama.
 
 ### Lihat Juga
 
-* kelas [FolderFontSource](../)
+* class [FolderFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FloatingBox. Mendapatkan atau mengatur informasi kolom
+title: "FloatingBox.ColumnInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FloatingBox. Mendapatkan atau mengatur informasi kolom"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/floatingbox/columninfo/
 ---
-## Properti FloatingBox.ColumnInfo
+## FloatingBox.ColumnInfo property
 
 Mendapatkan atau mengatur informasi kolom
 
@@ -16,7 +16,9 @@ public ColumnInfo ColumnInfo { get; set; }
 
 ### Lihat Juga
 
-* kelas [ColumnInfo](../../columninfo/)
-* kelas [FloatingBox](../)
+* class [ColumnInfo](../../columninfo/)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

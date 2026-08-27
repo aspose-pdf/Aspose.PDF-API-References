@@ -1,14 +1,14 @@
 ---
-title: Class SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetTextMatrix. Kelas yang mewakili operator Tm set text matrix
+title: "Kelas SetTextMatrix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetTextMatrix class. Kelas yang mewakili operator Tm mengatur matriks teks"
 type: docs
-weight: 7830
+weight: 7970
 url: /id/net/aspose.pdf.operators/settextmatrix/
 ---
-## Kelas SetTextMatrix
+## SetTextMatrix class
 
-Kelas yang mewakili operator Tm (set text matrix).
+Kelas yang merepresentasikan operator Tm (mengatur matriks teks).
 
 ```csharp
 public class SetTextMatrix : TextPlaceOperator
@@ -32,12 +32,14 @@ public class SetTextMatrix : TextPlaceOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextmatrix/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/settextmatrix/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/settextmatrix/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [TextPlaceOperator](../textplaceoperator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+
