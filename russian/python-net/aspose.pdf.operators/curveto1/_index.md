@@ -1,0 +1,34 @@
+---
+title: "CurveTo1"
+second_title: "Aspose.PDF for Python via .NET справочник API"
+description: "Класс, представляющий оператор v (append curve to path, initial point replicated)."
+type: docs
+weight: 160
+url: /ru/python-net/aspose.pdf.operators/curveto1/
+---
+
+## CurveTo1 class
+
+Класс, представляющий оператор v (append curve to path, initial point replicated).
+
+Тип CurveTo1 раскрывает следующие члены:
+## Конструкторы
+| Имя | Описание |
+| :- | :- |
+| CurveTo1(x2, y2, x3, y3) | Инициализирует новый экземпляр класса CurveTo1 |
+## Свойства
+| Имя | Описание |
+| :- | :- |
+| index | Индекс оператора в списке операторов страницы. |
+| точки | Точки кривой. |
+## Методы
+| Имя | Описание |
+| :- | :- |
+| accept(visitor) | Принимает селектор оператора. |
+| is_text_show_operator(op) | Определяет, является ли оператор оператором, отвечающим за вывод текста (Tj, TJ и т.д.) |
+
+### См. также
+
+* namespace [aspose.pdf.operators](/pdf/python-net/aspose.pdf.operators/)
+* assembly [Aspose.PDF](/pdf/python-net/)
+
