@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor 方法。为指定页面创建书签
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfBookmarkEditor 方法。为指定页面创建书签"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
 ---
 ## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
 
-为指定页面创建书签。
+为指定的 page 创建书签。
 
 ```csharp
 public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
@@ -28,7 +28,7 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -38,7 +38,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
 
-为指定页面创建书签。
+为指定的 pages 创建书签。
 
 ```csharp
 public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
@@ -58,8 +58,10 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

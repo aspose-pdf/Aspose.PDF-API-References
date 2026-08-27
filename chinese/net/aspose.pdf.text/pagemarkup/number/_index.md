@@ -1,21 +1,23 @@
 ---
-title: PageMarkup.Number
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkup 属性。获取处理后的页码
+title: "PageMarkup.Number"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageMarkup 属性。获取已处理的页面编号"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/pagemarkup/number/
 ---
-## PageMarkup.Number 属性
+## PageMarkup.Number property
 
-获取处理后的页码。
+获取已处理的页面编号。
 
 ```csharp
 public int Number { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageMarkup](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

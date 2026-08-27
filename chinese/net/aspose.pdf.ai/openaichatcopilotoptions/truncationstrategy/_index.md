@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 属性。获取或设置线程的截断策略
+title: "OpenAIChatCopilotOptions.TruncationStrategy"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 属性。获取或设置线程的截断策略"
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/truncationstrategy/
 ---
-## OpenAIChatCopilotOptions.TruncationStrategy 属性
+## OpenAIChatCopilotOptions.TruncationStrategy property
 
 获取或设置线程的截断策略。
 
@@ -20,3 +20,5 @@ public TruncationStrategy TruncationStrategy { get; set; }
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

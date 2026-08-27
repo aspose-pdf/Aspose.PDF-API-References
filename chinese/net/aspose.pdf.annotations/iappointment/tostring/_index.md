@@ -1,12 +1,12 @@
 ---
-title: IAppointment.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: IAppointment 方法。返回字符串表示
+title: "IAppointment.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IAppointment 方法。返回字符串表示形式"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/iappointment/tostring/
 ---
-## IAppointment.ToString 方法
+## IAppointment.ToString method
 
 返回字符串表示
 
@@ -18,8 +18,10 @@ public string ToString()
 
 字符串表示。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IAppointment](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IAppointment](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

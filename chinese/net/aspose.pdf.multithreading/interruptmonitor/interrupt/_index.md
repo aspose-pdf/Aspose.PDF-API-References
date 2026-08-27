@@ -1,21 +1,23 @@
 ---
-title: InterruptMonitor.Interrupt
-second_title: Aspose.PDF for .NET API Reference
-description: InterruptMonitor 方法。发送中断操作的请求
+title: "InterruptMonitor.Interrupt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "InterruptMonitor 方法。发送请求以中断操作"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.multithreading/interruptmonitor/interrupt/
 ---
-## InterruptMonitor.Interrupt 方法
+## InterruptMonitor.Interrupt method
 
-发送中断操作的请求。
+发送请求以中断操作。
 
 ```csharp
 public virtual void Interrupt()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [InterruptMonitor](../)
-* 命名空间 [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
-* 程序集 [Aspose.PDF](../../../)
+* class [InterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../../)
+
+

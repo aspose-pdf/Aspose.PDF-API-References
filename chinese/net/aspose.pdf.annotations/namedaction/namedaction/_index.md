@@ -1,12 +1,12 @@
 ---
-title: NamedAction.NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: NamedAction 构造函数。Named Action 类的构造函数
+title: "NamedAction.NamedAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "NamedAction 构造函数。用于 Named Action 类的构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/namedaction/namedaction/
 ---
-## NamedAction 构造函数
+## NamedAction constructor
 
 Named Action 类的构造函数。
 
@@ -16,11 +16,13 @@ public NamedAction(PredefinedAction action)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| action | PredefinedAction | 为此对象创建的动作。 |
+| 操作 | PredefinedAction | 为此对象创建的操作。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [PredefinedAction](../../predefinedaction/)
 * class [NamedAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

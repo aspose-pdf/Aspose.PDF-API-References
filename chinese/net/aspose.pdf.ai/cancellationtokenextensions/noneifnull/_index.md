@@ -1,14 +1,14 @@
 ---
-title: CancellationTokenExtensions.NoneIfNull
-second_title: Aspose.PDF for .NET API Reference
-description: CancellationTokenExtensions 方法。如果输入的 CancellationToken 为 null，则返回 CancellationToken.None；否则返回输入的 CancellationToken
+title: "CancellationTokenExtensions.NoneIfNull"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CancellationTokenExtensions 方法。若输入的 CancellationToken 为 null，则返回 CancellationToken.None；否则返回输入的 CancellationToken"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/
 ---
-## CancellationTokenExtensions.NoneIfNull 方法
+## CancellationTokenExtensions.NoneIfNull method
 
-如果输入的 CancellationToken 为 null，则返回 CancellationToken.None；否则返回输入的 CancellationToken。
+如果输入的 CancellationToken 为 null，则返回 CancellationToken.None；否则，返回输入的 CancellationToken。
 
 ```csharp
 public static CancellationToken NoneIfNull(this CancellationToken? cancellationToken)
@@ -16,14 +16,16 @@ public static CancellationToken NoneIfNull(this CancellationToken? cancellationT
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| cancellationToken | Nullable`1 | 输入的 CancellationToken（可为 null）。 |
+| cancellationToken | Nullable`1 | 输入的 CancellationToken（可为空）。 |
 
 ### 返回值
 
 基于输入的 CancellationToken 值。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CancellationTokenExtensions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CancellationTokenExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

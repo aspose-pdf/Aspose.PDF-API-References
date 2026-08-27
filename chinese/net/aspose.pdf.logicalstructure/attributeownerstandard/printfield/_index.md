@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.PrintField
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard 字段。PrintField 属性所有者
+title: "AttributeOwnerStandard.PrintField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeOwnerStandard 字段。PrintField 属性所有者"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/printfield/
 ---
-## AttributeOwnerStandard.PrintField 字段
+## AttributeOwnerStandard.PrintField field
 
 PrintField 属性所有者。
 
@@ -14,8 +14,10 @@ PrintField 属性所有者。
 public static readonly AttributeOwnerStandard PrintField;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeOwnerStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

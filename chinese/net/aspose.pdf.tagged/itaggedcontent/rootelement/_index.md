@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.RootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 属性。获取 PDF 文档逻辑结构的根 StructureElement
+title: "ITaggedContent.RootElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 属性。获取 PDF 文档逻辑结构的根 StructureElement。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/rootelement/
 ---
-## ITaggedContent.RootElement 属性
+## ITaggedContent.RootElement property
 
-获取根 [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) 的 PDF 文档逻辑结构。
+获取 PDF 文档逻辑结构的根 [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/)。
 
 ```csharp
 public StructureElement RootElement { get; }
 ```
 
-### 属性值
+### Property Value
 
-根 [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) 的 PDF 文档逻辑结构。
+PDF 文档逻辑结构的根 [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/)。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

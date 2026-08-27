@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 方法。设置聊天助手选项的 top P 值
+title: "OpenAIChatCopilotOptions.WithTopP"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 方法。设置聊天副驾驶选项的 top P 值"
 type: docs
-weight: 180
+weight: 190
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/withtopp/
 ---
-## OpenAIChatCopilotOptions.WithTopP 方法
+## OpenAIChatCopilotOptions.WithTopP method
 
-设置聊天助手选项的 top P 值。
+设置聊天副驾驶选项的 top P 值。
 
 ```csharp
 public OpenAIChatCopilotOptions WithTopP(double? topP)
@@ -22,8 +22,10 @@ public OpenAIChatCopilotOptions WithTopP(double? topP)
 
 当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

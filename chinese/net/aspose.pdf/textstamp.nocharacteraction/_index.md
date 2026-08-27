@@ -1,14 +1,14 @@
 ---
-title: Enum TextStamp.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TextStampNoCharacterAction 枚举。如果字体不包含所需字符，则执行的操作
+title: "枚举 TextStamp.NoCharacterAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.TextStampNoCharacterAction 枚举。字体不包含所需字符时执行的操作。"
 type: docs
-weight: 11090
+weight: 11280
 url: /zh/net/aspose.pdf/textstamp.nocharacteraction/
 ---
-## TextStamp.NoCharacterAction 枚举
+## TextStamp.NoCharacterAction enumeration
 
-如果字体不包含所需字符，则执行的操作。
+当字体不包含所需字符时执行的操作。
 
 ```csharp
 public enum NoCharacterAction
@@ -18,13 +18,15 @@ public enum NoCharacterAction
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| ThrowException | `0` | 如果字体不包含字符串的所有字符，则抛出异常。 |
+| ThrowException | `0` | 如果字体不包含字符串中的所有字符，将抛出异常。 |
 | UseStandardFont | `1` | 将字体替换为包含所需字符的标准字体。 |
-| ReplaceAnyway | `2` | 无论如何替换文本，而不进行字体替换。 |
-| UseCustomReplacementFont | `3` | 将字体替换为定义的替代字体。 |
+| ReplaceAnyway | `2` | 仍然替换文本，而不进行字体替换。 |
+| UseCustomReplacementFont | `3` | 将字体替换为已定义的替代字体。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextStamp](../textstamp/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

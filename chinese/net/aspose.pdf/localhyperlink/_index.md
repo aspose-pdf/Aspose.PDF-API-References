@@ -1,12 +1,12 @@
 ---
-title: Class LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LocalHyperlink 类。表示本地超链接对象
+title: "类 LocalHyperlink"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LocalHyperlink 类。表示本地超链接对象"
 type: docs
-weight: 6170
+weight: 6310
 url: /zh/net/aspose.pdf/localhyperlink/
 ---
-## LocalHyperlink 类
+## LocalHyperlink class
 
 表示本地超链接对象。
 
@@ -26,10 +26,12 @@ public sealed class LocalHyperlink : Hyperlink
 | 名称 | 描述 |
 | --- | --- |
 | [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | 获取或设置目标段落。 |
-| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | 获取或设置目标页码。 |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | 获取或设置目标 Page 编号。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Hyperlink](../hyperlink/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIAssistantCopilotOptionsBase 属性。获取或设置在运行过程中可以使用的最大提示令牌数
+title: "OpenAIAssistantCopilotOptionsBase.MaxPromptTokens"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIAssistantCopilotOptionsBase 属性。获取或设置在运行期间可能使用的最大提示令牌数"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxprompttokens/
 ---
-## OpenAIAssistantCopilotOptionsBase.MaxPromptTokens 属性
+## OpenAIAssistantCopilotOptionsBase.MaxPromptTokens property
 
-获取或设置在运行过程中可以使用的最大提示令牌数。
+获取或设置在运行期间可能使用的提示令牌的最大数量。
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxPromptTokens { get; set; }
 * class [OpenAIAssistantCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: SoundSampleData.SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData 构造函数。初始化新的声音样本数据
+title: "SoundSampleData.SoundSampleData"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SoundSampleData 构造函数。初始化新的声音样本数据"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/soundsampledata/soundsampledata/
@@ -83,7 +83,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 | samplingRate | Int64 | 采样率。 |
 | numberOfSoundChannels | Int32 | 声道数量。 |
 | bitsPerChannel | Int32 | 每个通道每个样本值的位数。 |
-| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | 样本数据的编码格式。 |
+| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | 示例数据的编码格式。 |
 
 ### 另请参见
 
@@ -91,3 +91,5 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

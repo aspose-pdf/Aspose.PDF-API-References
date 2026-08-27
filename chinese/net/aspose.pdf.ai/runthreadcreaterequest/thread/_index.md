@@ -1,22 +1,24 @@
 ---
-title: RunThreadCreateRequest.Thread
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest 属性。获取或设置创建线程的请求
+title: "RunThreadCreateRequest.Thread"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RunThreadCreateRequest 属性。获取或设置用于创建线程的请求。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.ai/runthreadcreaterequest/thread/
 ---
-## RunThreadCreateRequest.Thread 属性
+## RunThreadCreateRequest.Thread property
 
-获取或设置创建线程的请求。
+获取或设置用于创建线程的请求。
 
 ```csharp
 public ThreadCreateRequest Thread { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ThreadCreateRequest](../../threadcreaterequest/)
-* 类 [RunThreadCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

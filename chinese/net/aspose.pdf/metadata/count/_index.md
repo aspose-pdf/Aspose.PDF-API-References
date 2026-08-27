@@ -1,21 +1,23 @@
 ---
-title: Metadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: 元数据属性。获取集合中元素的数量
+title: "Metadata.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Metadata 属性。 获取集合中元素的计数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/metadata/count/
 ---
-## Metadata.Count 属性
+## Metadata.Count property
 
-获取集合中元素的数量。
+获取集合中元素的计数。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColumnAdjustment 枚举。列举列调整类型
+title: "枚举 ColumnAdjustment"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ColumnAdjustment 枚举。枚举列调整类型"
 type: docs
-weight: 3110
+weight: 3220
 url: /zh/net/aspose.pdf/columnadjustment/
 ---
-## ColumnAdjustment 枚举
+## ColumnAdjustment enumeration
 
-列举列调整类型。
+枚举列调整类型。
 
 ```csharp
 public enum ColumnAdjustment
@@ -22,7 +22,9 @@ public enum ColumnAdjustment
 | AutoFitToContent | `1` | 自动适应内容。 |
 | AutoFitToWindow | `2` | 自动适应窗口。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

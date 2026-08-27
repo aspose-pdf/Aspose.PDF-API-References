@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.G
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D 属性。变换矩阵的 G 成员
+title: "Matrix3D.G"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Matrix3D 属性。G 是变换 matrix 的成员"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/matrix3d/g/
 ---
-## Matrix3D.G 属性
+## Matrix3D.G property
 
 变换矩阵的 G 成员。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/matrix3d/g/
 public double G { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix3D](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfPageEditor.PdfPageEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 构造函数。PdfPageEditor 类的构造函数
+title: "PdfPageEditor.PdfPageEditor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageEditor 构造函数。PdfPageEditor 类的构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
@@ -32,7 +32,7 @@ public PdfPageEditor(Document document)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 应该被处理的文档对象。 |
+| 文档 | Document | 应处理的 Document 对象。 |
 
 ### 另请参见
 
@@ -40,3 +40,5 @@ public PdfPageEditor(Document document)
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 属性。空矩形
+title: "Rectangle.Empty"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 属性。空矩形"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/rectangle/empty/
 ---
-## Rectangle.Empty 属性
+## Rectangle.Empty property
 
 空矩形
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/rectangle/empty/
 public static Rectangle Empty { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

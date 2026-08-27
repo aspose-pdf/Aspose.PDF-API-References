@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 方法。检查操作符是否存在于集合中
+title: "BaseOperatorCollection.Contains"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseOperatorCollection 方法。检查集合中是否存在运算符"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/baseoperatorcollection/contains/
 ---
-## BaseOperatorCollection.Contains 方法
+## BaseOperatorCollection.Contains method
 
 检查操作符是否存在于集合中。
 
@@ -16,15 +16,17 @@ public abstract bool Contains(Operator item)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Operator | 要查找的操作符项。 |
+| item | 运算符 | 要查找的 Operator 项。 |
 
 ### 返回值
 
-如果找到项，则为 true；否则为 false。
+True - 如果找到项；否则为 false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../operator/)
-* 类 [BaseOperatorCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

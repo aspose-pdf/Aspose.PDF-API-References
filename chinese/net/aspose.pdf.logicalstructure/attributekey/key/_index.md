@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Key
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 属性。获取属性键
+title: "AttributeKey.Key"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeKey 属性。获取属性键"
 type: docs
 weight: 420
 url: /zh/net/aspose.pdf.logicalstructure/attributekey/key/
 ---
-## AttributeKey.Key 属性
+## AttributeKey.Key property
 
 获取属性键。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.logicalstructure/attributekey/key/
 public string Key { get; }
 ```
 
-### 属性值
+### Property Value
 
 属性键。
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeKey](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

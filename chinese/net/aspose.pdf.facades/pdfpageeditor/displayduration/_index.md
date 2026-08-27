@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.DisplayDuration
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 属性。获取或设置页面的显示持续时间
+title: "PdfPageEditor.DisplayDuration"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageEditor 属性。获取或设置页面的显示持续时间"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/displayduration/
 ---
-## PdfPageEditor.DisplayDuration 属性
+## PdfPageEditor.DisplayDuration property
 
 获取或设置页面的显示持续时间。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdfpageeditor/displayduration/
 public int DisplayDuration { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfPageEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldSetOptions.FormFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldSetOptions 构造函数。默认构造函数
+title: "FormFieldSetOptions.FormFieldSetOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormFieldSetOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/formfieldsetoptions/formfieldsetoptions/
 ---
-## FormFieldSetOptions 构造函数
+## FormFieldSetOptions constructor
 
 默认构造函数。
 
@@ -16,6 +16,8 @@ public FormFieldSetOptions()
 
 ### 另请参见
 
-* 类 [FormFieldSetOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

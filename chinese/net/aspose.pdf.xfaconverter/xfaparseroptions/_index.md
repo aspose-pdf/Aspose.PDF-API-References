@@ -1,36 +1,38 @@
 ---
-title: Class XfaParserOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XfaConverter.XfaParserOptions class. 处理相关数据封装的类
+title: "类 XfaParserOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.XfaConverter.XfaParserOptions 类。用于处理相关数据封装的类。"
 type: docs
-weight: 11370
+weight: 11560
 url: /zh/net/aspose.pdf.xfaconverter/xfaparseroptions/
 ---
 ## XfaParserOptions class
 
-处理相关数据封装的类
+用于处理相关数据封装的类
 
 ```csharp
 public class XfaParserOptions
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [XfaParserOptions](xfaparseroptions/)(SizeF) | 初始化 `XfaParserOptions` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [BasePath](../../aspose.pdf.xfaconverter/xfaparseroptions/basepath/) { get; set; } | 获取或设置基础路径。 |
-| [EmulateRequierdGroups](../../aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/) { get; set; } | 如果此属性为真，则将为所需的 Xfa “排除组” 绘制额外的红色矩形。此属性的引入是因为在将 Xfa 表单的表示转换为标准时缺少排除组的类似物。默认值为假。 |
+| [BasePath](../../aspose.pdf.xfaconverter/xfaparseroptions/basepath/) { get; set; } | 获取或设置基路径。 |
+| [EmulateRequierdGroups](../../aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/) { get; set; } | 如果此属性为 true，则会为必需的 Xfa "排除组"绘制额外的红色矩形。引入此属性是因为在将 Xfa 表单表示转换为标准时缺少排除组的对应项。默认值为 false。 |
 | [PageSize](../../aspose.pdf.xfaconverter/xfaparseroptions/pagesize/) { get; set; } | 获取或设置页面的大小。 |
-| [Signed](../../aspose.pdf.xfaconverter/xfaparseroptions/signed/) { get; set; } | 如果此属性为真，则文档将使用 Xfa 表单流进行转换（如果存在）。如果为假，则将忽略 Xfa 表单流。此属性的引入是因为不清楚如何计算用于检查签名的校验和。 |
+| [Signed](../../aspose.pdf.xfaconverter/xfaparseroptions/signed/) { get; set; } | 如果此属性为 true，则文档将在使用 xfa 表单流（如果存在）的情况下进行转换；如果为 false，则 xfa 表单流将被忽略。引入此属性是因为尚不清楚如何计算用于校验签名的校验和。 |
 | [UriResolver](../../aspose.pdf.xfaconverter/xfaparseroptions/uriresolver/) { get; set; } | 获取或设置 URI 解析器。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.XfaConverter](../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../)
+
+

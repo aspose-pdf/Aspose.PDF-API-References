@@ -1,12 +1,12 @@
 ---
-title: PageLabelCollection.GetLabel
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabelCollection 方法。通过页面索引获取页面标签，页面索引从 0 开始
+title: "PageLabelCollection.GetLabel"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageLabelCollection 方法。通过页索引获取页面标签，页索引从 0 开始"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pagelabelcollection/getlabel/
 ---
-## PageLabelCollection.GetLabel 方法
+## PageLabelCollection.GetLabel method
 
 通过页面索引获取页面标签（页面索引从 0 开始）。
 
@@ -20,11 +20,13 @@ public PageLabel GetLabel(int pageIndex)
 
 ### 返回值
 
-指定页面索引的页面标签，如果页面标签不存在则返回 null。
+指定页索引的页面标签，如果不存在则为 null。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageLabel](../../pagelabel/)
-* 类 [PageLabelCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageLabel](../../pagelabel/)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

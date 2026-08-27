@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment 属性。获取或设置字体
+title: "HtmlFragment.TextState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlFragment 属性。获取或设置字体。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/htmlfragment/textstate/
 ---
-## HtmlFragment.TextState 属性
+## HtmlFragment.TextState property
 
 获取或设置字体
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/htmlfragment/textstate/
 public TextState TextState { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextState](../../../aspose.pdf.text/textstate/)
-* 类 [HtmlFragment](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

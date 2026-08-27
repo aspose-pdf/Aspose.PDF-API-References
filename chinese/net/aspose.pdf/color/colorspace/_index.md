@@ -1,12 +1,12 @@
 ---
-title: Color.ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: 颜色属性。获取颜色所表示的颜色空间
+title: "Color.ColorSpace"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 属性。获取颜色所表示的颜色空间"
 type: docs
 weight: 1500
 url: /zh/net/aspose.pdf/color/colorspace/
 ---
-## Color.ColorSpace 属性
+## Color.ColorSpace property
 
 获取颜色所表示的颜色空间。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/color/colorspace/
 public ColorSpace ColorSpace { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [ColorSpace](../../colorspace/)
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [ColorSpace](../../colorspace/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

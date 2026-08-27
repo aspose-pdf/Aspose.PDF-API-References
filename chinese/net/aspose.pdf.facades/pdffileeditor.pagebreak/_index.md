@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileEditor.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorPageBreak 类。页面断开位置的数据
+title: "类 PdfFileEditor.PageBreak"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.PdfFileEditorPageBreak 类。分页符位置的数据"
 type: docs
-weight: 4510
+weight: 4630
 url: /zh/net/aspose.pdf.facades/pdffileeditor.pagebreak/
 ---
-## PdfFileEditor.PageBreak 类
+## PdfFileEditor.PageBreak class
 
-页面断开位置的数据。
+分页符位置的数据。
 
 ```csharp
 public class PageBreak
@@ -18,17 +18,19 @@ public class PageBreak
 
 | 名称 | 描述 |
 | --- | --- |
-| [PageBreak](../../aspose.pdf.facades/pdffileeditor.pagebreak/.ctor)(int, double) | 创建 PageBreak 对象的构造函数。 |
+| [PageBreak](../../aspose.pdf.facades/pdffileeditor.pagebreak/.ctor)(int, double) | 用于创建 PageBreak 对象的构造函数。 |
 
 ## 属性
 
 | 名称 | 描述 |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber) { get; set; } | 必须添加页面断开的页面编号（从 1 开始）。 |
-| [Position](../../aspose.pdf.facades/pdffileeditor.pagebreak/position) { get; set; } | 页面断开的垂直位置。 |
+| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber) { get; set; } | 必须添加分页符的页号（从 1 开始）。 |
+| [Position](../../aspose.pdf.facades/pdffileeditor.pagebreak/position) { get; set; } | 分页符的垂直位置。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileEditor](../pdffileeditor/)
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreResponse.Name
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse 属性。获取或设置向量存储的名称
+title: "VectorStoreResponse.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreResponse 属性。获取或设置向量存储的名称"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.ai/vectorstoreresponse/name/
 ---
-## VectorStoreResponse.Name 属性
+## VectorStoreResponse.Name property
 
 获取或设置向量存储的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/vectorstoreresponse/name/
 public string Name { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

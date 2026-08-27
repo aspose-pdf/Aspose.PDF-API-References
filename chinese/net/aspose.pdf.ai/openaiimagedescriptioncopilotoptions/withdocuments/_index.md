@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions 方法。设置图像描述助手选项的文档集合
+title: "OpenAIImageDescriptionCopilotOptions.WithDocuments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIImageDescriptionCopilotOptions 方法。设置图像描述协助选项的文档集合"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-设置图像描述助手选项的文档集合。
+设置图像描述副驾驶选项的文档集合。
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -22,18 +22,18 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection doc
 
 当前的 [`OpenAIImageDescriptionCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [DocumentCollection](../../documentcollection/)
-* 类 [OpenAIImageDescriptionCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-将多个 PDF 文档添加到图像描述助手选项的文档集合中。
+向图像描述副驾驶选项的文档集合添加多个 PDF 文档。
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -47,18 +47,18 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfD
 
 当前的 [`OpenAIImageDescriptionCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [PdfDocument](../../pdfdocument/)
-* 类 [OpenAIImageDescriptionCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_2}
 
-将多个文档路径添加到图像描述助手选项的文档集合中。
+向图像描述副驾驶选项的文档集合添加多个文档路径。
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(List<string> filePaths)
@@ -72,8 +72,10 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<string> filePaths
 
 当前的 [`OpenAIImageDescriptionCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [OpenAIImageDescriptionCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

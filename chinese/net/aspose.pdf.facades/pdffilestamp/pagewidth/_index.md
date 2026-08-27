@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 属性。获取输入文件中第一页的宽度
+title: "PdfFileStamp.PageWidth"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileStamp 属性。获取输入文件中第一页的宽度。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdffilestamp/pagewidth/
 ---
-## PdfFileStamp.PageWidth 属性
+## PdfFileStamp.PageWidth property
 
 获取输入文件中第一页的宽度。
 
@@ -22,8 +22,10 @@ Console.WriteLine("Width = " + fileStamp.PageWidth);
 fileStamp.Close();
 ```
 
-### 另见
+### 另请参见
 
-* 类 [PdfFileStamp](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

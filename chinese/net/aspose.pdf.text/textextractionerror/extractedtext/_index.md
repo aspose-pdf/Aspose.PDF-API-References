@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.ExtractedText
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError 属性。实际提取的文本
+title: "TextExtractionError.ExtractedText"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextExtractionError 属性。实际提取的文本"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/textextractionerror/extractedtext/
 ---
-## TextExtractionError.ExtractedText 属性
+## TextExtractionError.ExtractedText property
 
 实际提取的文本。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/textextractionerror/extractedtext/
 public string ExtractedText { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextExtractionError](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

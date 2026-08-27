@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SetOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode 方法。设置不透明度
+title: "PDF3DRenderMode.SetOpacity"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DRenderMode 方法。设置不透明度"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/setopacity/
 ---
-## PDF3DRenderMode.SetOpacity 方法
+## PDF3DRenderMode.SetOpacity method
 
 设置不透明度。
 
@@ -16,14 +16,16 @@ public PDF3DRenderMode SetOpacity(double opacity)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| opacity | Double | 不透明度。 |
+| 不透明度 | Double | 不透明度。 |
 
 ### 返回值
 
-PDF3DRenderMode。
+PDF3DRenderMode.
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DRenderMode](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

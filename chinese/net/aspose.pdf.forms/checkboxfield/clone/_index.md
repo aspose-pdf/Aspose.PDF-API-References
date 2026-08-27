@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField 方法。克隆复选框
+title: "CheckboxField.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CheckboxField 方法。克隆复选框"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.forms/checkboxfield/clone/
 ---
-## CheckboxField.Clone 方法
+## CheckboxField.Clone method
 
 克隆复选框。
 
@@ -20,6 +20,8 @@ public override object Clone()
 
 ### 另请参见
 
-* 类 [CheckboxField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

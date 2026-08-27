@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetRectangleValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute 方法。设置值矩形
+title: "StructureAttribute.SetRectangleValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureAttribute 方法。设置 Value Rectangle"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/
 ---
-## StructureAttribute.SetRectangleValue 方法
+## StructureAttribute.SetRectangleValue method
 
-设置值矩形。
+设置 Value Rectangle。
 
 ```csharp
 public void SetRectangleValue(Rectangle rectangle)
@@ -16,11 +16,13 @@ public void SetRectangleValue(Rectangle rectangle)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 矩形。 |
+| 矩形 | Rectangle | Rectangle. |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../../aspose.pdf/rectangle/)
-* 类 [StructureAttribute](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

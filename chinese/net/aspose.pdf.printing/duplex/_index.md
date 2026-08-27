@@ -1,14 +1,14 @@
 ---
-title: Enum Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.Duplex 枚举。指定打印机的双面设置
+title: "枚举 Duplex"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Printing.Duplex 枚举。指定打印机的双面设置"
 type: docs
-weight: 9530
+weight: 9680
 url: /zh/net/aspose.pdf.printing/duplex/
 ---
-## 双面枚举
+## Duplex enumeration
 
-指定打印机的双面设置。
+指定打印机的双面打印设置。
 
 ```csharp
 public enum Duplex
@@ -18,12 +18,14 @@ public enum Duplex
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| 默认 | `-1` | 打印机的默认双面设置。 |
-| 单面 | `1` | 单面打印。 |
-| 水平 | `3` | 双面，水平打印。 |
-| 垂直 | `2` | 双面，垂直打印。 |
+| Default | `-1` | 打印机的默认双面设置。 |
+| Simplex | `1` | 单面打印。 |
+| Horizontal | `3` | 双面（横向）打印。 |
+| Vertical | `2` | 双面（纵向）打印。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PDF3DLightingScheme.PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme 构造函数。初始化 PDF3DLightingScheme 类的新实例
+title: "PDF3DLightingScheme.PDF3DLightingScheme"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DLightingScheme 构造函数。初始化 PDF3DLightingScheme 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/
@@ -16,9 +16,9 @@ public PDF3DLightingScheme(LightingSchemeType type)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| type | LightingSchemeType | 照明方案类型。 |
+| 类型 | LightingSchemeType | 照明方案类型。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [LightingSchemeType](../../lightingschemetype/)
 * class [PDF3DLightingScheme](../)
@@ -45,8 +45,10 @@ public PDF3DLightingScheme(string typeName)
 | --- | --- |
 | ArgumentException | 未知的照明方案类型参数 |
 
-### 另请参阅
+### 另请参见
 
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

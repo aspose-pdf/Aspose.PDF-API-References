@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ImportIntoDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter 方法。将数据从表导入数据库
+title: "FormDataConverter.ImportIntoDataBase"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormDataConverter 方法。从表格导入数据到数据库"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/formdataconverter/importintodatabase/
 ---
-## FormDataConverter.ImportIntoDataBase 方法
+## FormDataConverter.ImportIntoDataBase method
 
-将数据从表导入数据库。
+将表格中的数据导入数据库。
 
 ```csharp
 public void ImportIntoDataBase(string connectString, DataType dbType)
@@ -16,8 +16,8 @@ public void ImportIntoDataBase(string connectString, DataType dbType)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| connectString | 字符串 | 数据库的连接字符串。 |
-| dbType | 数据类型 | 数据库连接的类型：OLEDB 或 ODBC。 |
+| connectString | String | 数据库的连接字符串。 |
+| dbType | DataType | 数据库连接的类型：OLEDB 或 ODBC。 |
 
 ## 示例
 
@@ -38,7 +38,9 @@ fc.ImportIntoDataBase(connection, DataType.OLEDB);
 
 ### 另请参见
 
-* 枚举 [DataType](../../datatype/)
-* 类 [FormDataConverter](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [DataType](../../datatype/)
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

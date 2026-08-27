@@ -1,12 +1,12 @@
 ---
-title: Class PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageLabel 类。表示页面标签范围的类
+title: "类 PageLabel"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PageLabel 类。表示页面标签范围的类。"
 type: docs
-weight: 8160
+weight: 8300
 url: /zh/net/aspose.pdf/pagelabel/
 ---
-## PageLabel 类
+## PageLabel class
 
 表示页面标签范围的类。
 
@@ -25,10 +25,12 @@ public class PageLabel
 | 名称 | 描述 |
 | --- | --- |
 | [NumberingStyle](../../aspose.pdf/pagelabel/numberingstyle/) { get; set; } | 获取或设置编号样式。 |
-| [Prefix](../../aspose.pdf/pagelabel/prefix/) { get; set; } | 获取或设置页面编号前缀。 |
+| [Prefix](../../aspose.pdf/pagelabel/prefix/) { get; set; } | 获取或设置页码前缀。 |
 | [StartingValue](../../aspose.pdf/pagelabel/startingvalue/) { get; set; } | 获取或设置页面编号范围的起始值。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

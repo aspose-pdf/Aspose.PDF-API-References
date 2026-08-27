@@ -1,14 +1,14 @@
 ---
-title: PdfProducer.Produce
-second_title: Aspose.PDF for .NET API Reference
-description: PdfProducer 方法。使用指定的导入格式生成 PDF 流。此示例演示如何从 CGM 流生成 Pdf 流
+title: "PdfProducer.Produce"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfProducer 方法。使用指定的导入格式生成 PDF 流。本示例展示了如何从 CGM 流生成 Pdf 流。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-使用指定的导入格式生成 PDF 流。此示例演示如何从 CGM 流生成 Pdf 流。
+使用指定的导入格式生成 PDF 流。此示例展示如何从 CGM 流生成 Pdf 流。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -27,14 +27,14 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 输入流。 |
-| format | ImportFormat | 导入格式。 |
+| 格式 | ImportFormat | 导入格式。 |
 | outputStream | Stream | 输出 PDF 流。 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时抛出异常。 |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时会抛出异常。 |
 | ArgumentNullException | 输入或输出流为 null |
 
 ### 另请参见
@@ -48,7 +48,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-使用指定的导入格式生成 PDF 流。此示例演示如何从 CGM 文件生成 Pdf 流。
+使用指定的导入格式生成 PDF 流。此示例展示如何从 CGM 文件生成 Pdf 流。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -66,14 +66,14 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFileName | String | 输入文件名。 |
-| format | ImportFormat | 导入格式。 |
+| 格式 | ImportFormat | 导入格式。 |
 | outputStream | Stream | 输出 PDF 流。 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时抛出异常。 |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时会抛出异常。 |
 | ArgumentNullException | 输出流为 null |
 | ArgumentException | 输入文件名为空字符串 |
 
@@ -88,7 +88,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-使用指定的导入格式生成 PDF 文件。此示例演示如何从 CGM 流生成 Pdf 文件。
+使用指定的导入格式生成 PDF 文件。此示例展示如何从 CGM 流生成 Pdf 文件。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -107,14 +107,14 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 输入流。 |
-| format | ImportFormat | 导入格式。 |
+| 格式 | ImportFormat | 导入格式。 |
 | outputFileName | String | 输出 PDF 文件 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时抛出异常。 |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时会抛出异常。 |
 | ArgumentNullException | 输入流为 null |
 | ArgumentException | 输出文件名为空字符串 |
 
@@ -129,7 +129,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-使用指定的导入格式生成 PDF 文件。此示例演示如何从 CGM 文件生成 Pdf 文件。
+使用指定的导入格式生成 PDF 文件。此示例展示如何从 CGM 文件生成 Pdf 文件。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -144,14 +144,14 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFileName | String | 输入文件名。 |
-| format | ImportFormat | 导入格式。 |
+| 格式 | ImportFormat | 导入格式。 |
 | outputFileName | String | 输出 PDF 文件 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时抛出异常。 |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时会抛出异常。 |
 | ArgumentException | 输入或输出文件名为空字符串 |
 
 ### 另请参见
@@ -165,7 +165,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-使用指定的导入选项生成 PDF 流。此示例演示如何从 CGM 文件生成 Pdf 流。
+使用指定的导入选项生成 PDF 流。此示例展示如何从 CGM 文件生成 Pdf 流。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -191,7 +191,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 | 异常 | 条件 |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时抛出异常。 |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时会抛出异常。 |
 | ArgumentNullException | 输出流为 null |
 | ArgumentException | 输入文件名为空字符串 |
 
@@ -206,7 +206,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-使用指定的导入选项生成 PDF 文件。此示例演示如何从 CGM 流生成 Pdf 文件。
+使用指定的导入选项生成 PDF 文件。此示例展示如何从 CGM 流生成 Pdf 文件。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -232,7 +232,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 | 异常 | 条件 |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时抛出异常。 |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时会抛出异常。 |
 | ArgumentNullException | 输入流为 null |
 | ArgumentException | 输出文件名为空字符串 |
 
@@ -247,7 +247,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-使用指定的导入选项生成 PDF 文件。此示例演示如何从 CGM 文件生成 Pdf 文件。
+使用指定的导入选项生成 PDF 文件。此示例展示了如何从 CGM 文件生成 Pdf 文件。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -270,7 +270,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 | 异常 | 条件 |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时抛出异常。 |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时会抛出异常。 |
 | ArgumentException | 输入或输出文件名为空字符串 |
 
 ### 另请参见
@@ -284,7 +284,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-使用指定的导入选项生成 PDF 文件。此示例演示如何从 CGM 流生成 Pdf 流。
+使用指定的导入选项生成 PDF 文件。此示例展示如何从 CGM 流生成 Pdf 流。
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -311,7 +311,7 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 
 | 异常 | 条件 |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时抛出异常。 |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 当文件无效时会抛出异常。 |
 | ArgumentNullException | 输入或输出流为 null。 |
 
 ### 另请参见
@@ -320,3 +320,5 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

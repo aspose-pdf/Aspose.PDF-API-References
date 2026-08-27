@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.Copies
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings 属性。获取或设置要打印的副本数量
+title: "PrinterSettings.Copies"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PrinterSettings property. 获取或设置要打印的副本数"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.printing/printersettings/copies/
 ---
-## PrinterSettings.Copies 属性
+## PrinterSettings.Copies property
 
 获取或设置要打印的副本数量。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.printing/printersettings/copies/
 public short Copies { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PrinterSettings](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

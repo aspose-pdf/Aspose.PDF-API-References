@@ -1,9 +1,9 @@
 ---
-title: Class OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.OcspSettings 类。表示在签名过程中使用的 ocsp 设置
+title: "类 OcspSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.OcspSettings 类。表示在签名过程中使用的 OCSP 设置"
 type: docs
-weight: 7050
+weight: 7190
 url: /zh/net/aspose.pdf/ocspsettings/
 ---
 ## OcspSettings class
@@ -14,20 +14,22 @@ url: /zh/net/aspose.pdf/ocspsettings/
 public class OcspSettings
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [OcspSettings](ocspsettings/)(string) | 初始化 `OcspSettings` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | 获取或设置 OCSP 请求的超时时间（以毫秒为单位）。 |
-| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | 获取和设置 ocsp 服务器的 URL。 |
+| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | 获取或设置 OCMP 请求的超时时间（毫秒）。 |
+| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | 获取和设置 ocsp 服务器 URL。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

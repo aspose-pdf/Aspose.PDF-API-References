@@ -1,21 +1,23 @@
 ---
-title: ListBoxField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField 属性。获取或设置所选项目的索引。项目编号从 1 开始
+title: "ListBoxField.Selected"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ListBoxField 属性。获取或设置所选项的索引。项目从 1 开始编号。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/listboxfield/selected/
 ---
-## ListBoxField.Selected 属性
+## ListBoxField.Selected property
 
-获取或设置所选项目的索引。项目编号从 1 开始。
+获取或设置所选项的索引。项目从 1 开始编号。
 
 ```csharp
 public override int Selected { set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ListBoxField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: LineInfo.LineColor
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo 属性。获取或设置线条的颜色
+title: "LineInfo.LineColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LineInfo 属性。获取或设置线的颜色"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/lineinfo/linecolor/
 ---
-## LineInfo.LineColor 属性
+## LineInfo.LineColor property
 
-获取或设置线条的颜色。
+获取或设置线的颜色。
 
 ```csharp
 public Color LineColor { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [LineInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

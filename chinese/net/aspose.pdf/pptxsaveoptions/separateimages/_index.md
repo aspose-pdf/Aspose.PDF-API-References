@@ -1,21 +1,23 @@
 ---
-title: PptxSaveOptions.SeparateImages
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions 属性。如果设置为 true，则图像与所有其他图形分开
+title: "PptxSaveOptions.SeparateImages"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PptxSaveOptions 属性。如果设置为 true，则图像会从所有其他图形中分离出来"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/pptxsaveoptions/separateimages/
 ---
-## PptxSaveOptions.SeparateImages 属性
+## PptxSaveOptions.SeparateImages property
 
-如果设置为 true，则图像与所有其他图形分开
+如果设置为 true，则图像会从所有其他图形中分离出来
 
 ```csharp
 public bool SeparateImages { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PptxSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

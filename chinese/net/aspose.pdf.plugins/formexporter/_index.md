@@ -1,12 +1,12 @@
 ---
-title: Class FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormExporter 类。表示 FormExporter 插件
+title: "类 FormExporter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FormExporter 类。表示 FormExporter 插件"
 type: docs
-weight: 8670
+weight: 8800
 url: /zh/net/aspose.pdf.plugins/formexporter/
 ---
-## FormExporter 类
+## FormExporter class
 
 表示 FormExporter 插件。
 
@@ -24,10 +24,12 @@ public sealed class FormExporter : IPlugin
 
 | 名称 | 描述 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formexporter/process/)(IPluginOptions) | 使用指定参数开始 FormExporter 处理。 |
+| [Process](../../aspose.pdf.plugins/formexporter/process/)(IPluginOptions) | 使用指定的参数启动 FormExporter 处理。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IPlugin](../iplugin/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

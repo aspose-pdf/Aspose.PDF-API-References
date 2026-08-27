@@ -1,21 +1,23 @@
 ---
-title: BaseOperatorCollection.IsFastTextExtractionMode
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 属性。指示集合是否仅限于快速文本提取
+title: "BaseOperatorCollection.IsFastTextExtractionMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseOperatorCollection 属性。指示集合是否限制为快速文本提取"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/baseoperatorcollection/isfasttextextractionmode/
 ---
-## BaseOperatorCollection.IsFastTextExtractionMode 属性
+## BaseOperatorCollection.IsFastTextExtractionMode property
 
-指示集合是否仅限于快速文本提取
+指示集合是否限制为快速文本提取。
 
 ```csharp
 public abstract bool IsFastTextExtractionMode { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseOperatorCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

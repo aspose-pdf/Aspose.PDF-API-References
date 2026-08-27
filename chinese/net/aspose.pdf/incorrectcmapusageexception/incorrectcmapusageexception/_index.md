@@ -1,12 +1,12 @@
 ---
-title: IncorrectCMapUsageException.IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: IncorrectCMapUsageException 构造函数。初始化 IncorrectCMapUsageException 类的新实例
+title: "IncorrectCMapUsageException.IncorrectCMapUsageException"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IncorrectCMapUsageException 构造函数。初始化 IncorrectCMapUsageException 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/incorrectcmapusageexception/incorrectcmapusageexception/
 ---
-## IncorrectCMapUsageException 构造函数
+## IncorrectCMapUsageException constructor
 
 初始化 [`IncorrectCMapUsageException`](../) 类的新实例。
 
@@ -16,10 +16,12 @@ public IncorrectCMapUsageException(string message)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | 字符串 | 消息。 |
+| 消息 | String | 该消息。 |
 
-### 另见
+### 另请参见
 
-* 类 [IncorrectCMapUsageException](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [IncorrectCMapUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

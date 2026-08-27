@@ -1,14 +1,14 @@
 ---
-title: Color.Parse
-second_title: Aspose.PDF for .NET API Reference
-description: Color 方法。从字符串中提取颜色组件
+title: "Color.Parse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 方法。提取字符串中的颜色分量。"
 type: docs
 weight: 1480
 url: /zh/net/aspose.pdf/color/parse/
 ---
-## Color.Parse 方法
+## Color.Parse method
 
-从字符串中提取颜色组件。
+从字符串中提取颜色分量。
 
 ```csharp
 public static Color Parse(string value)
@@ -16,14 +16,16 @@ public static Color Parse(string value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | 字符串 | 包含颜色组件值的字符串。 |
+| 值 | String | 包含颜色分量值的字符串。 |
 
 ### 返回值
 
-颜色对象。
+Color 对象。
 
-### 另见
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

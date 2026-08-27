@@ -1,12 +1,12 @@
 ---
-title: PDF3DContent.Extension
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent 属性。获取扩展名
+title: "PDF3DContent.Extension"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DContent 属性。获取扩展名"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/pdf3dcontent/extension/
 ---
-## PDF3DContent.Extension 属性
+## PDF3DContent.Extension property
 
 获取扩展名。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.annotations/pdf3dcontent/extension/
 public string Extension { get; }
 ```
 
-### 属性值
+### Property Value
 
-扩展名。
+扩展。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DContent](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

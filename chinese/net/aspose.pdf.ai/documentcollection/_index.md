@@ -1,12 +1,12 @@
 ---
-title: Class DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.DocumentCollection 类。表示要处理的文档集合
+title: "类 DocumentCollection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.DocumentCollection 类。表示要处理的文档集合"
 type: docs
-weight: 320
+weight: 340
 url: /zh/net/aspose.pdf.ai/documentcollection/
 ---
-## DocumentCollection 类
+## DocumentCollection class
 
 表示要处理的文档集合。
 
@@ -28,7 +28,9 @@ public class DocumentCollection
 | [PdfDocuments](../../aspose.pdf.ai/documentcollection/pdfdocuments/) { get; set; } | 获取或设置要处理的 PDF 文档集合。 |
 | [TextDocuments](../../aspose.pdf.ai/documentcollection/textdocuments/) { get; set; } | 获取或设置要处理的文本文档集合。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

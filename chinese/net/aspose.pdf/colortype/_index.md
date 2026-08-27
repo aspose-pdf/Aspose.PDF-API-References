@@ -1,12 +1,12 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorType 枚举。指定页面上元素的颜色类型
+title: "枚举 ColorType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ColorType 枚举。指定页面上元素的颜色类型。"
 type: docs
-weight: 3100
+weight: 3210
 url: /zh/net/aspose.pdf/colortype/
 ---
-## ColorType 枚举
+## ColorType enumeration
 
 指定页面上元素的颜色类型。
 
@@ -25,5 +25,7 @@ public enum ColorType
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

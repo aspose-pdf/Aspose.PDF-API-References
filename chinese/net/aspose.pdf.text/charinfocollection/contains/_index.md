@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection 方法。确定集合是否包含特定值
+title: "CharInfoCollection.Contains"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CharInfoCollection 方法。确定集合是否包含特定值"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.text/charinfocollection/contains/
 ---
-## CharInfoCollection.Contains 方法
+## CharInfoCollection.Contains method
 
 确定集合是否包含特定值。
 
@@ -20,11 +20,13 @@ public bool Contains(CharInfo item)
 
 ### 返回值
 
-如果在集合中找到 item，则为 true；否则为 false。
+如果在集合中找到项则为 true；否则为 false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CharInfo](../../charinfo/)
-* 类 [CharInfoCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.DoConvert
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter 方法。进行一些初步工作以将 pdf 文档转换为图像
+title: "PdfConverter.DoConvert"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfConverter 方法。执行一些初始化工作，以将 pdf 文档转换为图像"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.facades/pdfconverter/doconvert/
 ---
-## PdfConverter.DoConvert 方法
+## PdfConverter.DoConvert method
 
-进行一些初步工作以将 pdf 文档转换为图像。
+执行一些初始化工作以将 pdf 文档转换为图像。
 
 ```csharp
 public void DoConvert()
@@ -43,8 +43,10 @@ While converter.HasNextImage()
 End While
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfConverter](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。将所有文档注释导出到 XFDF 文件
+title: "Document.ExportAnnotationsToXfdf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。将所有文档注释导出为 XFDF 文件"
 type: docs
-weight: 630
+weight: 650
 url: /zh/net/aspose.pdf/document/exportannotationstoxfdf/
 ---
 ## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}
 
-将所有文档注释导出到 XFDF 文件
+将所有文档注释导出到 XFDF 文件。
 
 ```csharp
 public void ExportAnnotationsToXfdf(string fileName)
@@ -16,13 +16,13 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fileName | 字符串 | XFDF 文件名 |
+| fileName | String | XFDF 文件名 |
 
-### 另见
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public void ExportAnnotationsToXfdf(Stream stream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | 流 | 存储 XFDF 的流。 |
+| stream | Stream | 用于存储 XFDF 的流。 |
 
-### 另见
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

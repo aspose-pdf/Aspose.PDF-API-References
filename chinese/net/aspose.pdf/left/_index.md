@@ -1,12 +1,12 @@
 ---
-title: Class Left
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Left 类。表示页眉和页脚数据的左对齐设置
+title: "类 Left"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Left 类。表示页眉和页脚数据的左对齐设置。"
 type: docs
-weight: 6070
+weight: 6200
 url: /zh/net/aspose.pdf/left/
 ---
-## Left 类
+## Left class
 
 表示页眉和页脚数据的左对齐设置。
 
@@ -27,8 +27,10 @@ public sealed class Left : HeaderFooterData
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | 获取或设置日期设置。 |
 | [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | 获取或设置页码设置。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [HeaderFooterData](../headerfooterdata/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection 方法。删除字体源元素
+title: "FontSourceCollection.Delete"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontSourceCollection 方法。删除字体源元素"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.text/fontsourcecollection/delete/
 ---
-## FontSourceCollection.Delete 方法
+## FontSourceCollection.Delete method
 
 删除字体源元素。
 
@@ -18,9 +18,11 @@ public void Delete(FontSource fontSource)
 | --- | --- | --- |
 | fontSource | FontSource | 将被删除的 FontSource 对象。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [FontSource](../../fontsource/)
-* 类 [FontSourceCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

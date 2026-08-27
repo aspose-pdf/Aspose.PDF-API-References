@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 方法。将轮廓项添加到集合中
+title: "OutlineItemCollection.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineItemCollection 方法。向集合添加大纲项"
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/outlineitemcollection/add/
 ---
-## OutlineItemCollection.Add 方法
+## OutlineItemCollection.Add method
 
-将轮廓项添加到集合中。
+向集合中添加大纲项。
 
 ```csharp
 public override void Add(OutlineItemCollection outline)
@@ -16,10 +16,12 @@ public override void Add(OutlineItemCollection outline)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outline | OutlineItemCollection | 要添加的轮廓项。 |
+| 大纲 | OutlineItemCollection | 要添加的大纲项。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

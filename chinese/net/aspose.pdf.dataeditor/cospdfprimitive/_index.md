@@ -1,14 +1,14 @@
 ---
-title: Class CosPdfPrimitive
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.CosPdfPrimitive 类。该类表示基本公共类型 CosPdfPrimitive
+title: "类 CosPdfPrimitive"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.DataEditor.CosPdfPrimitive 类。此类表示基础公共类型 CosPdfPrimitive"
 type: docs
-weight: 3450
+weight: 3570
 url: /zh/net/aspose.pdf.dataeditor/cospdfprimitive/
 ---
-## CosPdfPrimitive 类
+## CosPdfPrimitive class
 
-该类表示基本公共类型 `CosPdfPrimitive`。
+此类表示基础公共类型 `CosPdfPrimitive`。
 
 ```csharp
 public abstract class CosPdfPrimitive : ICosPdfPrimitive
@@ -24,8 +24,10 @@ public abstract class CosPdfPrimitive : ICosPdfPrimitive
 | virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | 尝试将此实例转换为 [`CosPdfNumber`](../cospdfnumber/)。 |
 | virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | 尝试将此实例转换为 [`CosPdfString`](../cospdfstring/)。 |
 
-### 另见
+### 另请参见
 
-* 接口 [ICosPdfPrimitive](../icospdfprimitive/)
-* 命名空间 [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../)
+* interface [ICosPdfPrimitive](../icospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../)
+
+

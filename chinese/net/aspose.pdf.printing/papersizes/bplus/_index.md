@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.BPlus
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。SuperB/SuperB/A3 纸张 305 毫米 x 487 毫米
+title: "PaperSizes.BPlus"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。SuperB/SuperB/A3 纸 305 mm × 487 mm"
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf.printing/papersizes/bplus/
 ---
-## PaperSizes.BPlus 字段
+## PaperSizes.BPlus field
 
-SuperB/SuperB/A3 纸张（305 毫米 x 487 毫米）。
+SuperB/SuperB/A3 纸 (305 mm × 487 mm)。
 
 ```csharp
 public static readonly PaperSize BPlus;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

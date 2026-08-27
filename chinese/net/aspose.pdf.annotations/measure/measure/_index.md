@@ -1,14 +1,14 @@
 ---
-title: Measure.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: Measure 构造函数。为测量注释创建 Measure 对象
+title: "Measure.Measure"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Measure 构造函数。创建用于测量注释的 Measure 对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/measure/measure/
 ---
-## Measure 构造函数
+## Measure constructor
 
-为测量注释创建 Measure 对象。
+创建用于测量注释的 Measure 对象。
 
 ```csharp
 public Measure(Annotation annotation)
@@ -16,11 +16,13 @@ public Measure(Annotation annotation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 将绑定的注释。 |
+| 批注 | 批注 | 将绑定测量的 Annotation。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Annotation](../../annotation/)
-* 类 [Measure](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

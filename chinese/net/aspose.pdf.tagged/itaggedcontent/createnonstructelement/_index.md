@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateNonStructElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。创建 NonStructElement
+title: "ITaggedContent.CreateNonStructElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。创建 NonStructElement"
 type: docs
-weight: 180
+weight: 210
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 ---
-## ITaggedContent.CreateNonStructElement 方法
+## ITaggedContent.CreateNonStructElement method
 
 创建 [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement/)。
 
@@ -16,11 +16,13 @@ public NonStructElement CreateNonStructElement()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

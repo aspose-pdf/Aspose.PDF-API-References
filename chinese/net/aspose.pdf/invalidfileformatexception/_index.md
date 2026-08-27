@@ -1,12 +1,12 @@
 ---
-title: Class InvalidFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.InvalidFileFormatException 类。当文件无效时抛出的异常
+title: "类 InvalidFileFormatException"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.InvalidFileFormatException 类。当文件无效时抛出的异常"
 type: docs
-weight: 5990
+weight: 6120
 url: /zh/net/aspose.pdf/invalidfileformatexception/
 ---
-## InvalidFileFormatException 类
+## InvalidFileFormatException class
 
 当文件无效时抛出的异常。
 
@@ -21,10 +21,12 @@ public class InvalidFileFormatException : PdfException
 | [InvalidFileFormatException](invalidfileformatexception/#constructor)() | 初始化 `InvalidFileFormatException` 类的新实例。 |
 | [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | 初始化 `InvalidFileFormatException` 类的新实例，并引用导致此异常的内部异常。 |
 | [InvalidFileFormatException](invalidfileformatexception/#constructor_2)(string) | 初始化 `InvalidFileFormatException` 类的新实例。 |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | 初始化 `InvalidFileFormatException` 类的新实例，指定错误消息并引用导致此异常的内部异常。 |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | 初始化 `InvalidFileFormatException` 类的新实例，使用指定的错误消息并引用导致此异常的内部异常。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfException](../pdfexception/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

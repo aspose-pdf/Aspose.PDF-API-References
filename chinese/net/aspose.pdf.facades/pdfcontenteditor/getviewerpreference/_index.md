@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.GetViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。返回视图偏好
+title: "PdfContentEditor.GetViewerPreference"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。返回视图首选项"
 type: docs
 weight: 390
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 ---
-## PdfContentEditor.GetViewerPreference 方法
+## PdfContentEditor.GetViewerPreference method
 
-返回视图偏好。
+返回视图首选项。
 
 ```csharp
 public int GetViewerPreference()
@@ -16,7 +16,7 @@ public int GetViewerPreference()
 
 ### 返回值
 
-返回一组 ViewerPrefernece 标志
+返回 ViewerPrefernece 标志集合
 
 ## 示例
 
@@ -28,8 +28,10 @@ if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
 { // ... }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

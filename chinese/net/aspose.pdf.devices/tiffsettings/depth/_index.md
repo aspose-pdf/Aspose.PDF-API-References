@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Depth
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings 属性。获取或设置颜色深度
+title: "TiffSettings.Depth"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffSettings 属性。获取或设置颜色深度"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.devices/tiffsettings/depth/
 ---
-## TiffSettings.Depth 属性
+## TiffSettings.Depth property
 
 获取或设置颜色深度。
 
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf.devices/tiffsettings/depth/
 public ColorDepth Depth { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 颜色深度。
 
@@ -22,9 +22,11 @@ public ColorDepth Depth { get; set; }
 
 默认值为 ColorDepth.Default
 
-### 另请参阅
+### 另请参见
 
 * enum [ColorDepth](../../colordepth/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

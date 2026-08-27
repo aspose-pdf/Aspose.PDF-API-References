@@ -1,12 +1,12 @@
 ---
-title: PdfActionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection 方法。获取枚举器
+title: "PdfActionCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfActionCollection 方法。获取枚举器"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/pdfactioncollection/getenumerator/
 ---
-## PdfActionCollection.GetEnumerator 方法
+## PdfActionCollection.GetEnumerator method
 
 获取枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<PdfAction> GetEnumerator()
 
 PDfAction 枚举器。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAction](../../pdfaction/)
-* 类 [PdfActionCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

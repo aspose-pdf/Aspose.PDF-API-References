@@ -1,7 +1,7 @@
 ---
-title: OBJRElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: OBJRElement 方法。将结构元素绑定到内容流 BDC 操作符
+title: "OBJRElement.Tag"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OBJRElement 方法。将结构元素绑定到内容流 BDC 操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/objrelement/tag/
@@ -22,7 +22,7 @@ public override MCRElement Tag(BDC bdc)
 
 MCRElementStructure 元素。
 
-### 另见
+### 另请参见
 
 * class [MCRElement](../../mcrelement/)
 * class [BDC](../../../aspose.pdf.operators/bdc/)
@@ -42,13 +42,13 @@ public override OBJRElement Tag(XForm form)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| form | XForm | Pdf 表单。 |
+| 表单 | XForm | Pdf 表单。 |
 
 ### 返回值
 
 OBJRElementStructure 元素。
 
-### 另见
+### 另请参见
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [OBJRElement](../)
@@ -67,13 +67,13 @@ public override OBJRElement Tag(XImage image)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| image | XImage | Pdf 图像。 |
+| 图像 | XImage | Pdf 图像。 |
 
 ### 返回值
 
 OBJRElementStructure 元素。
 
-### 另见
+### 另请参见
 
 * class [XImage](../../../aspose.pdf/ximage/)
 * class [OBJRElement](../)
@@ -92,13 +92,13 @@ public override MCRElement Tag(Artifact artifact)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| artifact | Artifact | Pdf 工件。 |
+| 工件 | 工件 | Pdf 工件。 |
 
 ### 返回值
 
 MCRElementStructure 元素。
 
-### 另见
+### 另请参见
 
 * class [MCRElement](../../mcrelement/)
 * class [Artifact](../../../aspose.pdf/artifact/)
@@ -118,15 +118,17 @@ public override OBJRElement Tag(Annotation annotation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | Pdf 注释。 |
+| 批注 | 批注 | Pdf 注释。 |
 
 ### 返回值
 
 OBJRElementStructure 元素。
 
-### 另见
+### 另请参见
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [OBJRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

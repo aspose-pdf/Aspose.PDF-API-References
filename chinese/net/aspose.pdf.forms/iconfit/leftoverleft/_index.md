@@ -1,21 +1,23 @@
 ---
-title: IconFit.LeftoverLeft
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit 属性。获取或设置分配给图标左侧的空间
+title: "IconFit.LeftoverLeft"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IconFit 属性。获取或设置在图标左侧分配的空间"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/iconfit/leftoverleft/
 ---
-## IconFit.LeftoverLeft 属性
+## IconFit.LeftoverLeft property
 
-获取或设置分配给图标左侧的空间。
+获取或设置图标左侧的留白空间。
 
 ```csharp
 public double LeftoverLeft { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [IconFit](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [IconFit](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

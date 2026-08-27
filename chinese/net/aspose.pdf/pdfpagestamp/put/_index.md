@@ -1,12 +1,12 @@
 ---
-title: PdfPageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageStamp 方法。在指定页面上放置印章
+title: "PdfPageStamp.Put"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageStamp 方法。将印章放置在指定页面上。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/pdfpagestamp/put/
 ---
-## PdfPageStamp.Put 方法
+## PdfPageStamp.Put method
 
 在指定页面上放置印章。
 
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 放置印章的页面。 |
+| 页面 | 页面 | 印章将被放置的页面。 |
 
-### 另见
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [PdfPageStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

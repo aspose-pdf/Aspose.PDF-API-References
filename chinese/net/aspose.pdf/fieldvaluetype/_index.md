@@ -1,12 +1,12 @@
 ---
-title: Enum FieldValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldValueType 枚举。表示模式集合中字段值的类型
+title: "枚举 FieldValueType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.FieldValueType 枚举。表示模式集合中字段值的类型"
 type: docs
-weight: 4810
+weight: 4930
 url: /zh/net/aspose.pdf/fieldvaluetype/
 ---
-## FieldValueType 枚举
+## FieldValueType enumeration
 
 表示模式集合中字段值的类型。
 
@@ -23,7 +23,9 @@ public enum FieldValueType
 | Number | `2` | 表示数字类型。 |
 | Date | `3` | 表示日期类型。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

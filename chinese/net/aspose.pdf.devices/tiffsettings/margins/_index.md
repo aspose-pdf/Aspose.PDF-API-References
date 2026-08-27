@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings 属性。获取边距
+title: "TiffSettings.Margins"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffSettings 属性。获取边距"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.devices/tiffsettings/margins/
 ---
-## TiffSettings.Margins 属性
+## TiffSettings.Margins property
 
 获取边距。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.devices/tiffsettings/margins/
 public Margins Margins { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Margins](../../margins/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

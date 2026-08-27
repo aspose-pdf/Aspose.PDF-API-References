@@ -1,12 +1,12 @@
 ---
-title: Document.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。文档级别的 JavaScript 集合
+title: "Document.JavaScript"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。文档级别的 JavaScript 集合"
 type: docs
-weight: 340
+weight: 360
 url: /zh/net/aspose.pdf/document/javascript/
 ---
-## Document.JavaScript 属性
+## Document.JavaScript property
 
 文档级别的 JavaScript 集合。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/document/javascript/
 public JavaScriptCollection JavaScript { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [JavaScriptCollection](../../javascriptcollection/)
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../../javascriptcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

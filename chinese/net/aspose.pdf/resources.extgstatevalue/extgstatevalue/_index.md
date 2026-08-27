@@ -1,19 +1,21 @@
 ---
-title: Resources.ExtGStateValue.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: ExtGStateValue 构造函数。
+title: "Resources.ExtGStateValue.ExtGStateValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ExtGStateValue 构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/resources.extgstatevalue/extgstatevalue/
 ---
-## Resources.ExtGStateValue 构造函数
+## Resources.ExtGStateValue constructor
 
 ```csharp
 public ExtGStateValue(string name)
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ExtGStateValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ExtGStateValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

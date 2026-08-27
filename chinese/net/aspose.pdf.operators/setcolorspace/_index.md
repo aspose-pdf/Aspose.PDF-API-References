@@ -1,14 +1,14 @@
 ---
-title: Class SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetColorSpace 类。表示用于非描边操作的 cs 操作符设置颜色空间的类
+title: "类 SetColorSpace"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.SetColorSpace 类。类表示 cs 操作符用于为非描边操作设置颜色空间"
 type: docs
-weight: 7660
+weight: 7800
 url: /zh/net/aspose.pdf.operators/setcolorspace/
 ---
 ## SetColorSpace class
 
-表示 cs 操作符（为非描边操作设置颜色空间）
+表示 cs 运算符的类（为非描边操作设置颜色空间）
 
 ```csharp
 public class SetColorSpace : Operator
@@ -35,8 +35,10 @@ public class SetColorSpace : Operator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

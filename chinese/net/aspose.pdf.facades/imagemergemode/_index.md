@@ -1,12 +1,12 @@
 ---
-title: Enum ImageMergeMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ImageMergeMode 枚举。表示合并图像的模式
+title: "枚举 ImageMergeMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.ImageMergeMode 枚举。表示合并图像的模式"
 type: docs
-weight: 4380
+weight: 4500
 url: /zh/net/aspose.pdf.facades/imagemergemode/
 ---
-## ImageMergeMode 枚举
+## ImageMergeMode enumeration
 
 表示合并图像的模式。
 
@@ -22,7 +22,9 @@ public enum ImageMergeMode
 | Horizontal | `2` | 图像水平合并。 |
 | Center | `3` | 图像居中对齐。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

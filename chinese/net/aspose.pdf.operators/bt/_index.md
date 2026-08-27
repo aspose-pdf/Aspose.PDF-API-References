@@ -1,14 +1,14 @@
 ---
-title: Class BT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BT 类。表示 BT 操作符文本块开始
+title: "类 BT"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.BT 类。表示 BT 操作符文本块开始的类"
 type: docs
-weight: 7130
+weight: 7270
 url: /zh/net/aspose.pdf.operators/bt/
 ---
-## BT 类
+## BT class
 
-表示 BT 操作符（文本块开始）。
+表示 BT 操作符的类（Begin of text block）。
 
 ```csharp
 public class BT : BlockTextOperator
@@ -31,11 +31,13 @@ public class BT : BlockTextOperator
 | 名称 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/bt/accept/)(IOperatorSelector) | 接受访问者对象以处理操作符。 |
-| override [ToString](../../aspose.pdf.operators/bt/tostring/)() | 生成操作符的文本代码。 |
+| override [ToString](../../aspose.pdf.operators/bt/tostring/)() | 生成运算符的文本代码。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [BlockTextOperator](../blocktextoperator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [BlockTextOperator](../blocktextoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

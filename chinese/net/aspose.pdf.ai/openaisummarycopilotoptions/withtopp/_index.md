@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions 方法。设置摘要助手选项的 top P 值
+title: "OpenAISummaryCopilotOptions.WithTopP"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAISummaryCopilotOptions 方法。设置摘要副驾驶选项的 top P 值。"
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/aspose.pdf.ai/openaisummarycopilotoptions/withtopp/
 ---
-## OpenAISummaryCopilotOptions.WithTopP 方法
+## OpenAISummaryCopilotOptions.WithTopP method
 
-设置摘要助手选项的 top P 值。
+设置摘要协作员选项的 top P 值。
 
 ```csharp
 public OpenAISummaryCopilotOptions WithTopP(double? topP)
@@ -22,8 +22,10 @@ public OpenAISummaryCopilotOptions WithTopP(double? topP)
 
 当前的 [`OpenAISummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAISummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

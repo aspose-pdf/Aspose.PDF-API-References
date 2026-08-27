@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.WriteTo
-second_title: Aspose.PDF for .NET API Reference
-description: 优化的MemoryStream 方法。写入指定的流
+title: "OptimizedMemoryStream.WriteTo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptimizedMemoryStream 方法。写入指定的流"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/optimizedmemorystream/writeto/
 ---
-## 优化的MemoryStream.WriteTo 方法
+## OptimizedMemoryStream.WriteTo method
 
 写入指定的流。
 
@@ -20,6 +20,8 @@ public void WriteTo(Stream stream)
 
 ### 另请参见
 
-* 类 [OptimizedMemoryStream](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

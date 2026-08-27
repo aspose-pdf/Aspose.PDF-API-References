@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateBibEntryElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。创建 BibEntryElement
+title: "ITaggedContent.CreateBibEntryElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。创建 BibEntryElement"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 ---
-## ITaggedContent.CreateBibEntryElement 方法
+## ITaggedContent.CreateBibEntryElement method
 
 创建 [`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement/)。
 
@@ -16,11 +16,13 @@ public BibEntryElement CreateBibEntryElement()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

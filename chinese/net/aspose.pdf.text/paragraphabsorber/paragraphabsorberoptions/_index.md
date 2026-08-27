@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber 属性。获取或设置 ParagraphAbsorberOptions
+title: "ParagraphAbsorber.ParagraphAbsorberOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ParagraphAbsorber 属性。获取或设置 ParagraphAbsorberOptions"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/
 ---
-## ParagraphAbsorber.ParagraphAbsorberOptions 属性
+## ParagraphAbsorber.ParagraphAbsorberOptions property
 
 获取或设置 ParagraphAbsorberOptions。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/
 public ParagraphAbsorberOptions ParagraphAbsorberOptions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
-* 类 [ParagraphAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

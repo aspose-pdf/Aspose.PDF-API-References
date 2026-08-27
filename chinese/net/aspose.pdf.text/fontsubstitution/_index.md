@@ -1,12 +1,12 @@
 ---
-title: Class FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontSubstitution 类。表示字体替换策略的基类
+title: "类 FontSubstitution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.FontSubstitution 类。表示字体替换策略的基类。"
 type: docs
-weight: 10580
+weight: 10760
 url: /zh/net/aspose.pdf.text/fontsubstitution/
 ---
-## 字体替换类
+## FontSubstitution class
 
 表示字体替换策略的基类。
 
@@ -14,7 +14,9 @@ url: /zh/net/aspose.pdf.text/fontsubstitution/
 public class FontSubstitution
 ```
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

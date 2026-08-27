@@ -1,21 +1,23 @@
 ---
-title: WidgetAnnotation.Required
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation 属性。获取或设置字段的必需状态
+title: "WidgetAnnotation.Required"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "WidgetAnnotation 属性。获取或设置字段的必填状态"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.annotations/widgetannotation/required/
 ---
-## WidgetAnnotation.Required 属性
+## WidgetAnnotation.Required property
 
-获取或设置字段的必需状态。
+获取或设置字段的必填状态。
 
 ```csharp
 public bool Required { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [WidgetAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

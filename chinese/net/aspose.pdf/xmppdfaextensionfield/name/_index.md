@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionField.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionField 属性。字段名称。字段名称必须是有效的 XML 元素名称
+title: "XmpPdfAExtensionField.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionField 属性。字段名称。字段名称必须是有效的 XML 元素名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/xmppdfaextensionfield/name/
 ---
-## XmpPdfAExtensionField.Name 属性
+## XmpPdfAExtensionField.Name property
 
 字段名称。字段名称必须是有效的 XML 元素名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmppdfaextensionfield/name/
 public string Name { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionField](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

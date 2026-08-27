@@ -1,21 +1,23 @@
 ---
-title: Page.Number
-second_title: Aspose.PDF for .NET API Reference
-description: 页面属性。获取页面编号
+title: "Page.Number"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 属性。获取页面的编号。"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf/page/number/
 ---
-## Page.Number 属性
+## Page.Number property
 
-获取页面编号。
+获取页面的页码。
 
 ```csharp
 public int Number { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

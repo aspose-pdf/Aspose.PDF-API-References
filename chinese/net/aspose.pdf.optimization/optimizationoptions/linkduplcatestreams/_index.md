@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.LinkDuplcateStreams
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions 属性。如果此标志设置为 true，资源流将被分析。如果发现重复流（即流内容相等），则这些流将作为一个对象存储。这在某些情况下可以减少文档大小，例如当同一文档被多次连接时。
+title: "OptimizationOptions.LinkDuplcateStreams"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptimizationOptions 属性。如果此标志设置为 true，将分析资源流。如果发现重复流，即流内容相同，则这些流将存储为一个对象。这在某些情况下可以减小文档大小，例如同一文档被多次拼接时"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.optimization/optimizationoptions/linkduplcatestreams/
 ---
-## OptimizationOptions.LinkDuplcateStreams 属性
+## OptimizationOptions.LinkDuplcateStreams property
 
-如果此标志设置为 true，资源流将被分析。如果发现重复流（即流内容相等），则这些流将作为一个对象存储。这在某些情况下可以减少文档大小（例如，当同一文档被多次连接时）。
+如果此标志设置为 true，资源流将被分析。如果发现重复的流（即流内容相同），这些流将合并为一个对象。这在某些情况下可以减小文档大小（例如，同一文档被多次拼接时）。
 
 ```csharp
 public bool LinkDuplcateStreams { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OptimizationOptions](../)
-* 命名空间 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

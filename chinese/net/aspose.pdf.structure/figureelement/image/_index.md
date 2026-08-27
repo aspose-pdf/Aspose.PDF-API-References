@@ -1,12 +1,12 @@
 ---
-title: FigureElement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: FigureElement 属性。获取图形结构元素的值
+title: "FigureElement.Image"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FigureElement 属性。获取图形结构元素的值"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.structure/figureelement/image/
 ---
-## FigureElement.Image 属性
+## FigureElement.Image property
 
 获取图形结构元素的值。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.structure/figureelement/image/
 public Image Image { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FigureElement](../)
-* 命名空间 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FigureElement](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

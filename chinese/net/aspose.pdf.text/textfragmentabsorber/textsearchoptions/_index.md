@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber 属性。获取或设置搜索选项。选项允许使用正则表达式进行搜索
+title: "TextFragmentAbsorber.TextSearchOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentAbsorber 属性。获取或设置搜索选项。该选项启用使用正则表达式的搜索。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/
 ---
-## TextFragmentAbsorber.TextSearchOptions 属性
+## TextFragmentAbsorber.TextSearchOptions property
 
-获取或设置搜索选项。选项允许使用正则表达式进行搜索。
+获取或设置搜索选项。该选项启用使用正则表达式的搜索。
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
@@ -16,30 +16,32 @@ public TextSearchOptions TextSearchOptions { get; set; }
 
 ## 示例
 
-该示例演示如何使用正则表达式执行文本搜索。
+示例演示如何使用正则表达式执行文本搜索。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object
+// 创建 TextFragmentAbsorber 对象
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+// 使吸收器使用正则表达式搜索所有以 'h' 开头并以 'o' 结尾的单词。
 absorber.Phrase = @"h\w*?o";
 absorber.TextSearchOptions = new TextSearchOptions(true);
 
-// we should find "hello" word and replace it with "Hi"
+// 我们应该找到 "hello" 单词并将其替换为 "Hi"。
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextSearchOptions](../../textsearchoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

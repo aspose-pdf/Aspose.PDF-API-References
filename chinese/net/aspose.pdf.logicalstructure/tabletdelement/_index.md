@@ -1,14 +1,14 @@
 ---
-title: Class TableTDElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.TableTDElement 类。表示表的逻辑结构中的 TD 结构元素
+title: "类 TableTDElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LogicalStructure.TableTDElement 类。表示表的逻辑结构中的 TD 结构元素。"
 type: docs
-weight: 6810
+weight: 6950
 url: /zh/net/aspose.pdf.logicalstructure/tabletdelement/
 ---
-## TableTDElement 类
+## TableTDElement class
 
-表示表的逻辑结构中的 TD 结构元素。
+表示表格逻辑结构中的 TD 结构元素。
 
 ```csharp
 public sealed class TableTDElement : TableCellElement
@@ -28,13 +28,13 @@ public sealed class TableTDElement : TableCellElement
 | [ColSpan](../../aspose.pdf.logicalstructure/tablecellelement/colspan/) { get; set; } | 获取或设置列跨度。 |
 | [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner/) { get; } | 获取 AttributeOwnerStandard 对象。 |
 | [DefaultCellTextState](../../aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate/) { get; set; } | 获取或设置默认单元格文本状态。 |
-| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | 获取或设置结构元素的扩展文本。 |
+| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | 获取或设置结构元素的展开文本。 |
 | [ID](../../aspose.pdf.logicalstructure/structureelement/id/) { get; } | 获取结构元素的 ID。 |
 | [IsNoBorder](../../aspose.pdf.logicalstructure/tablecellelement/isnoborder/) { get; set; } | 获取或设置单元格是否有边框。 |
-| [IsWordWrapped](../../aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/) { get; set; } | 获取或设置单元格文本是否换行。 |
+| [IsWordWrapped](../../aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/) { get; set; } | 获取或设置单元格的文本自动换行。 |
 | [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | 获取或设置结构元素的语言。 |
-| [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin/) { get; set; } | 获取或设置内边距。 |
-| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | 获取某些或所有子元素将被渲染的页面。 |
+| [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin/) { get; set; } | 获取或设置填充。 |
+| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | 获取将渲染部分或全部子元素的页面。 |
 | [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | 获取父元素。 |
 | [RowSpan](../../aspose.pdf.logicalstructure/tablecellelement/rowspan/) { get; set; } | 获取或设置行跨度。 |
 | [StructureTextState](../../aspose.pdf.logicalstructure/tablecellelement/structuretextstate/) { get; } | 获取当前元素的 StructureTextState 对象。 |
@@ -47,28 +47,30 @@ public sealed class TableTDElement : TableCellElement
 | 名称 | 描述 |
 | --- | --- |
 | [AdjustPosition](../../aspose.pdf.logicalstructure/tablecellelement/adjustposition/)(PositionSettings) |  |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | 将元素附加到子集合。 |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | 将 Element 添加到子集合中。 |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | 更改当前结构元素的父元素 |
-| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | 清除所有子元素。 |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | 清除所有子项。 |
 | [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | 清除结构元素的 ID。 |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | 查找给定类型的元素 |
 | [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | 为结构元素生成 ID。 |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | 在指定索引处将元素插入到子集合。 |
-| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | 从结构中移除元素，从父对象中移除对它的引用，从子对象中移除对它的引用，从文档中移除相应的对象。 |
-| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | 从结构中移除元素，从父对象中移除对它的引用，从子对象中移除对它的引用，并从文档中移除相应的对象。将被移除对象的子对象插入到其前父对象的子对象集合中，从被移除对象的索引开始。 |
-| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | 移除指定位置的子元素。 |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | 在指定索引处将元素插入子集合中。 |
+| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | 移除：结构中的元素、父对象对它的引用、子对象对它的引用以及相应的 Document 对象。 |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | 从结构中移除元素、父对象对它的引用、子对象对它的引用以及相应的 Document 对象。将被移除对象的子对象插入到其原父对象的子集合中，起始索引为被移除对象的索引。 |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | 移除指定位置的子对象。 |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | 设置结构元素的 ID。 |
-| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | 设置结构元素的自定义标签。 |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | 为结构元素设置自定义标签。 |
 | [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext/)(string) |  |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | 将结构元素绑定到注释。 |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | 将结构元素绑定到工件。 |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | 将结构元素绑定到 Annotation。 |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | 将结构元素绑定到 Artifact。 |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | 将结构元素绑定到内容流 BDC 操作符。 |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | 将结构元素绑定到内容流 XForm。 |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | 将结构元素绑定到 XImage。 |
 | override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | 返回表示当前对象的字符串。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableCellElement](../tablecellelement/)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../)
+* class [TableCellElement](../tablecellelement/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

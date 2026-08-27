@@ -1,7 +1,7 @@
 ---
-title: TextStateOperator.TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextStateOperator 构造函数。初始化 TextStateOperator
+title: "TextStateOperator.TextStateOperator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextStateOperator 构造函数。初始化 TextStateOperator"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/textstateoperator/textstateoperator/
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf.operators/textstateoperator/textstateoperator/
 public TextStateOperator()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,7 +24,7 @@ public TextStateOperator()
 
 ## TextStateOperator(TextProperties) {#constructor_1}
 
-初始化 TextStateOperator，允许传递 TextProperties。
+初始化 TextStateoperator，允许传递 TextProperties。
 
 ```csharp
 public TextStateOperator(TextProperties textProperties)
@@ -34,9 +34,11 @@ public TextStateOperator(TextProperties textProperties)
 | --- | --- | --- |
 | textProperties | TextProperties | 文本属性。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

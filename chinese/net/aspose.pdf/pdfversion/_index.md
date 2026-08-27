@@ -1,14 +1,14 @@
 ---
-title: Enum PdfVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfVersion 枚举。此枚举表示 pdf 文件的版本
+title: "枚举 PdfVersion"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PdfVersion 枚举。此枚举表示 PDF 文件的版本。"
 type: docs
-weight: 8450
+weight: 8580
 url: /zh/net/aspose.pdf/pdfversion/
 ---
-## PdfVersion 枚举
+## PdfVersion enumeration
 
-此枚举表示 pdf 文件的版本。
+此枚举表示 PDF 文件的版本。
 
 ```csharp
 public enum PdfVersion
@@ -28,7 +28,9 @@ public enum PdfVersion
 | v_1_7 | `7` |  |
 | v_2_0 | `8` |  |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreModifyRequest.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreModifyRequest 属性。获取或设置向量存储的过期策略
+title: "VectorStoreModifyRequest.ExpiresAfter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreModifyRequest 属性。获取或设置向量存储的过期策略。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/
 ---
-## VectorStoreModifyRequest.ExpiresAfter 属性
+## VectorStoreModifyRequest.ExpiresAfter property
 
 获取或设置向量存储的过期策略。
 
@@ -20,3 +20,5 @@ public ExpiresAfter ExpiresAfter { get; set; }
 * class [VectorStoreModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

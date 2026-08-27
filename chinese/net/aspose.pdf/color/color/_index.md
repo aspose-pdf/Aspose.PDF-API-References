@@ -1,12 +1,12 @@
 ---
-title: Color.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Color 构造函数。默认构造函数
+title: "Color.Color"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/color/color/
 ---
-## Color 构造函数
+## Color constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/color/color/
 public Color()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

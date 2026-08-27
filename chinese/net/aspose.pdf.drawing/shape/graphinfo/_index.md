@@ -1,22 +1,24 @@
 ---
-title: Shape.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Shape 属性。获取或设置一个 GraphInfo 对象，该对象指示图形信息，如颜色、线宽等
+title: "Shape.GraphInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Shape 属性。获取或设置一个 GraphInfo 对象，指示图形信息，例如颜色、线宽等。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/shape/graphinfo/
 ---
-## Shape.GraphInfo 属性
+## Shape.GraphInfo property
 
-获取或设置一个 `GraphInfo` 对象，该对象指示图形信息，如颜色、线宽等。
+获取或设置一个指示图表信息（如颜色、线宽等）的 `GraphInfo` 对象。
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphInfo](../../../aspose.pdf/graphinfo/)
-* 类 [Shape](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [Shape](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

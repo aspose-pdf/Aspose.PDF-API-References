@@ -1,12 +1,12 @@
 ---
-title: PdfXmlSaveOptions.PdfXmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmlSaveOptions 构造函数。默认构造函数
+title: "PdfXmlSaveOptions.PdfXmlSaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfXmlSaveOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pdfxmlsaveoptions/pdfxmlsaveoptions/
 ---
-## PdfXmlSaveOptions 构造函数
+## PdfXmlSaveOptions constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public PdfXmlSaveOptions()
 * class [PdfXmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

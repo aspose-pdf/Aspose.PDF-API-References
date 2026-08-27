@@ -1,12 +1,12 @@
 ---
-title: Enum Operation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.Operation 枚举。表示差异操作类型
+title: "枚举 Operation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Comparison.Operation 枚举。表示差异操作类型"
 type: docs
-weight: 3260
+weight: 3370
 url: /zh/net/aspose.pdf.comparison/operation/
 ---
-## 操作枚举
+## Operation enumeration
 
 表示差异操作类型。
 
@@ -22,7 +22,9 @@ public enum Operation
 | Delete | `1` | 删除操作。 |
 | Insert | `2` | 插入操作。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

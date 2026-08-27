@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 方法。 从集合中删除项目，抛出 NotImplementedException
+title: "OptionCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptionCollection 方法。从集合中移除项，抛出 NotImplementedException"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.forms/optioncollection/remove/
 ---
-## OptionCollection.Remove 方法
+## OptionCollection.Remove method
 
-从集合中删除项目，抛出 NotImplementedException。
+从集合中移除项，抛出 NotImplementedException。
 
 ```csharp
 public bool Remove(Option item)
@@ -16,15 +16,17 @@ public bool Remove(Option item)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Option | 要删除的操作项目。 |
+| item | Option | 要移除的 Operator 项。 |
 
 ### 返回值
 
 抛出 NotImplementedException
 
-### 另请参阅
+### 另请参见
 
-* 类 [Option](../../option/)
-* 类 [OptionCollection](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

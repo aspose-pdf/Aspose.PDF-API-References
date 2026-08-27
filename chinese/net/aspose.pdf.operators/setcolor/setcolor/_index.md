@@ -1,7 +1,7 @@
 ---
-title: SetColor.SetColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor 构造函数。初始化操作符
+title: "SetColor.SetColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetColor 构造函数。初始化操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setcolor/setcolor/
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf.operators/setcolor/setcolor/
 public SetColor()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,7 +24,7 @@ public SetColor()
 
 ## SetColor(double) {#constructor_1}
 
-为 DeviceGray、CalGray 和 Indexed 颜色空间的描边操作符设置颜色。
+为描边操作符在 DeviceGray、CalGray 和 Indexed 颜色空间设置颜色。
 
 ```csharp
 public SetColor(double g)
@@ -34,7 +34,7 @@ public SetColor(double g)
 | --- | --- | --- |
 | g | Double | 颜色值。 |
 
-### 另请参阅
+### 另请参见
 
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -44,7 +44,7 @@ public SetColor(double g)
 
 ## SetColor(double, double, double) {#constructor_2}
 
-为 DeviceRGB、CalRGB 和 Lab 颜色空间的描边操作符设置颜色。
+为描边操作符在 DeviceRGB、CalRGB 和 Lab 颜色空间设置颜色
 
 ```csharp
 public SetColor(double r, double g, double b)
@@ -56,7 +56,7 @@ public SetColor(double r, double g, double b)
 | g | Double | 绿色分量。 |
 | b | Double | 蓝色分量。 |
 
-### 另请参阅
+### 另请参见
 
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -66,7 +66,7 @@ public SetColor(double r, double g, double b)
 
 ## SetColor(double, double, double, double) {#constructor_3}
 
-为 CMYK 颜色空间的非描边操作符设置颜色。
+为非描边操作符设置 CMYK 颜色空间的颜色
 
 ```csharp
 public SetColor(double c, double m, double y, double k)
@@ -75,11 +75,11 @@ public SetColor(double c, double m, double y, double k)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | c | Double | 青色分量。 |
-| m | Double | 品红色分量。 |
+| m | Double | 品红分量。 |
 | y | Double | 黄色分量。 |
 | k | Double | 黑色分量。 |
 
-### 另请参阅
+### 另请参见
 
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -89,7 +89,7 @@ public SetColor(double c, double m, double y, double k)
 
 ## SetColor(double[]) {#constructor_4}
 
-允许指定颜色分量的构造函数。
+构造函数，允许指定颜色分量。
 
 ```csharp
 public SetColor(double[] color)
@@ -97,10 +97,12 @@ public SetColor(double[] color)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Double[] | 颜色分量数组。 |
+| 颜色 | Double[] | 颜色分量数组。 |
 
-### 另请参阅
+### 另请参见
 
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

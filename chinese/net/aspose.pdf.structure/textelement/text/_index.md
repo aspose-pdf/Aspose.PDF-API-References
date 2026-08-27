@@ -1,12 +1,12 @@
 ---
-title: TextElement.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextElement 属性。获取文本结构元素的值
+title: "TextElement.Text"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextElement 属性。获取文本结构元素的值"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.structure/textelement/text/
 ---
-## TextElement.Text 属性
+## TextElement.Text property
 
 获取文本结构元素的值。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.structure/textelement/text/
 public string Text { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextElement](../)
-* 命名空间 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextElement](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

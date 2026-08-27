@@ -1,14 +1,14 @@
 ---
-title: Interface IChatCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IChatCopilotOptions1TOptions 接口。表示具有特定类型的聊天助手选项的接口
+title: "接口 IChatCopilotOptionsTOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.IChatCopilotOptions1TOptions 接口。表示具有特定类型的聊天副驾驶选项的接口"
 type: docs
-weight: 480
+weight: 500
 url: /zh/net/aspose.pdf.ai/ichatcopilotoptions-1/
 ---
-## IChatCopilotOptions&lt;TOptions&gt; 接口
+## IChatCopilotOptions&lt;TOptions&gt; interface
 
-表示具有特定类型的聊天助手选项的接口。
+表示具有特定类型的聊天副驾驶选项接口。
 
 ```csharp
 public interface IChatCopilotOptions<out TOptions>
@@ -16,7 +16,7 @@ public interface IChatCopilotOptions<out TOptions>
 
 | 参数 | 描述 |
 | --- | --- |
-| TOptions | 聊天助手的选项类型。 |
+| TOptions | 聊天副驾驶选项的类型。 |
 
 ## 方法
 
@@ -26,5 +26,7 @@ public interface IChatCopilotOptions<out TOptions>
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

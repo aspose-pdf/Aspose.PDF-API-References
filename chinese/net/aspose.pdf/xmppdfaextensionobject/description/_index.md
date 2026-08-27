@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionObject.Description
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionObject 属性。获取描述
+title: "XmpPdfAExtensionObject.Description"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionObject 属性。获取描述。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/xmppdfaextensionobject/description/
 ---
-## XmpPdfAExtensionObject.Description 属性
+## XmpPdfAExtensionObject.Description property
 
 获取描述。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmppdfaextensionobject/description/
 public string Description { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionObject](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

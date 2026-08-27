@@ -1,12 +1,12 @@
 ---
-title: Field.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: 字段属性。同步对象
+title: "Field.SyncRoot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Field 属性。同步对象。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.forms/field/syncroot/
 ---
-## Field.SyncRoot 属性
+## Field.SyncRoot property
 
 同步对象。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/field/syncroot/
 public object SyncRoot { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Field](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

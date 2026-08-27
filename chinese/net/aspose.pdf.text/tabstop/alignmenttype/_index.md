@@ -1,22 +1,24 @@
 ---
-title: TabStop.AlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: TabStop 属性。获取或设置一个 AlignmentType 枚举，指示制表符对齐类型
+title: "TabStop.AlignmentType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TabStop 属性。获取或设置指示制表对齐类型的 AlignmentType 枚举"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/tabstop/alignmenttype/
 ---
-## TabStop.AlignmentType 属性
+## TabStop.AlignmentType property
 
-获取或设置一个 `AlignmentType` 枚举，指示制表符对齐类型。
+获取或设置指示制表对齐类型的 `AlignmentType` 枚举。
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [TabAlignmentType](../../tabalignmenttype/)
-* 类 [TabStop](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [TabAlignmentType](../../tabalignmenttype/)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

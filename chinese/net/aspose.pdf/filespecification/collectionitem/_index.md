@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 属性。获取文件规范的集合项
+title: "FileSpecification.CollectionItem"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileSpecification 属性。获取文件规范的集合项"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/filespecification/collectionitem/
 ---
-## FileSpecification.CollectionItem 属性
+## FileSpecification.CollectionItem property
 
 获取文件规范的集合项。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/filespecification/collectionitem/
 public CollectionItem CollectionItem { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CollectionItem](../../collectionitem/)
-* 类 [FileSpecification](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CollectionItem](../../collectionitem/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.Y
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator 属性。获取 CMYK 颜色的黄色组件
+title: "BasicSetColorOperator.Y"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BasicSetColorOperator 属性。获取 CMYK 颜色的黄色分量"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.operators/basicsetcoloroperator/y/
 ---
-## BasicSetColorOperator.Y 属性
+## BasicSetColorOperator.Y property
 
-获取 CMYK 颜色的黄色组件。
+获取 CMYK 颜色的黄色分量。
 
 ```csharp
 public double Y { get; }
@@ -16,6 +16,8 @@ public double Y { get; }
 
 ### 另请参见
 
-* 类 [BasicSetColorOperator](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

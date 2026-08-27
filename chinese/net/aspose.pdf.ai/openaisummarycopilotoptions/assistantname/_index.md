@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.AssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions 属性。获取或设置助手的名称
+title: "OpenAISummaryCopilotOptions.AssistantName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAISummaryCopilotOptions 属性。获取或设置助手的名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/openaisummarycopilotoptions/assistantname/
 ---
-## OpenAISummaryCopilotOptions.AssistantName 属性
+## OpenAISummaryCopilotOptions.AssistantName property
 
 获取或设置助手的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/openaisummarycopilotoptions/assistantname/
 public string AssistantName { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAISummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

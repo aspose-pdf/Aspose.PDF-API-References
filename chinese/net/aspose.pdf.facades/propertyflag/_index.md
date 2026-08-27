@@ -1,12 +1,12 @@
 ---
-title: Enum PropertyFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PropertyFlag 枚举。可能字段标志的枚举
+title: "枚举 PropertyFlag"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.PropertyFlag 枚举。可能的字段标志的枚举"
 type: docs
-weight: 4660
+weight: 4780
 url: /zh/net/aspose.pdf.facades/propertyflag/
 ---
-## PropertyFlag 枚举
+## PropertyFlag enumeration
 
 可能字段标志的枚举。
 
@@ -23,7 +23,9 @@ public enum PropertyFlag
 | NoExport | `2` | 字段不可导出。 |
 | InvalidFlag | `3` | 无效的字段标志。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

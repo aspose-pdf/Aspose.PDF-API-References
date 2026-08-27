@@ -1,33 +1,35 @@
 ---
-title: Class VectorStore
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStore 类。一个帮助创建带有 file_ids 的向量存储并将其附加到此线程的助手。线程中最多可以附加 1 个向量存储。
+title: "类 VectorStore"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.VectorStore 类。用于使用 file_ids 创建向量存储并将其附加到此线程的助手。每个线程最多只能附加 1 个向量存储"
 type: docs
-weight: 1260
+weight: 1350
 url: /zh/net/aspose.pdf.ai/vectorstore/
 ---
 ## VectorStore class
 
-一个帮助创建带有 file_ids 的向量存储并将其附加到此线程的助手。线程中最多可以附加 1 个向量存储。
+一个帮助程序，用于使用 file_ids 创建向量存储并将其附加到此线程。每个线程最多只能附加 1 个向量存储。
 
 ```csharp
 public class VectorStore
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [VectorStore](vectorstore/)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/vectorstore/fileids/) { get; set; } | 获取或设置要添加到向量存储的文件 ID 列表。向量存储中最多可以有 10000 个文件。 |
-| [Metadata](../../aspose.pdf.ai/vectorstore/metadata/) { get; set; } | 获取或设置可以附加到向量存储的一组 16 个键值对。这对于以结构化格式存储有关向量存储的附加信息非常有用。键的最大长度为 64 个字符，值的最大长度为 512 个字符。 |
+| [FileIds](../../aspose.pdf.ai/vectorstore/fileids/) { get; set; } | 获取或设置要添加到向量存储的文件 ID 列表。向量存储中最多可包含 10000 个文件。 |
+| [Metadata](../../aspose.pdf.ai/vectorstore/metadata/) { get; set; } | 获取或设置可附加到向量存储的 16 对键值对。这对于以结构化格式存储关于向量存储的附加信息很有用。键的最大长度为 64 个字符，值的最大长度为 512 个字符。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

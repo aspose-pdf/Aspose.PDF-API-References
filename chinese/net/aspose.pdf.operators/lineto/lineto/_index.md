@@ -1,14 +1,14 @@
 ---
-title: LineTo.LineTo
-second_title: Aspose.PDF for .NET API Reference
-description: LineTo 构造函数。初始化线操作符
+title: "LineTo.LineTo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LineTo 构造函数。初始化线操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/lineto/lineto/
 ---
-## LineTo 构造函数
+## LineTo constructor
 
-初始化线操作符。
+初始化直线操作符。
 
 ```csharp
 public LineTo(double x, double y)
@@ -24,3 +24,5 @@ public LineTo(double x, double y)
 * class [LineTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Annotation.Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: 注释属性。获取注释特性
+title: "Annotation.Characteristics"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Annotation 属性。获取注释的特性"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/annotation/characteristics/
 ---
-## 注释.特性属性
+## Annotation.Characteristics property
 
-获取注释特性。
+获取 Annotation 特性。
 
 ```csharp
 public Characteristics Characteristics { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [特性](../../characteristics/)
-* 类 [注释](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Characteristics](../../characteristics/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: MarkdownSaveOptions.UseImageHtmlTag
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions 属性。获取和设置允许使用 img 标签将图像插入文本的左侧和右侧。在这种情况下，在 markdown 查看器中，文本将围绕图像换行。
+title: "MarkdownSaveOptions.UseImageHtmlTag"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkdownSaveOptions 属性。获取并设置使用 img 标签在文本左右插入图像的允许性。在这种情况下，markdown 查看器中的文本将环绕图像换行。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/markdownsaveoptions/useimagehtmltag/
 ---
-## MarkdownSaveOptions.UseImageHtmlTag 属性
+## MarkdownSaveOptions.UseImageHtmlTag property
 
-获取和设置允许使用 img 标签将图像插入文本的左侧和右侧。在这种情况下，在 markdown 查看器中，文本将围绕图像换行。
+获取和设置是否允许使用 img 标签在文本左侧或右侧插入图像。在这种情况下，markdown 查看器中，文本将环绕图像换行。
 
 ```csharp
 public bool UseImageHtmlTag { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarkdownSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

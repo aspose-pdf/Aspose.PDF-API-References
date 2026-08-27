@@ -1,14 +1,14 @@
 ---
-title: Form.ExportFdf
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。将 pdf 字段的内容导出到 fdf 流
+title: "Form.ExportFdf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。将 pdf 中字段的内容导出到 fdf 流。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/form/exportfdf/
 ---
-## Form.ExportFdf 方法
+## Form.ExportFdf method
 
-将 pdf 字段的内容导出到 fdf 流。
+将 PDF 字段的内容导出到 fdf 流中。
 
 ```csharp
 public void ExportFdf(Stream outputFdfStream)
@@ -27,8 +27,10 @@ form.ExportFdf(stream);
 stream.Close();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

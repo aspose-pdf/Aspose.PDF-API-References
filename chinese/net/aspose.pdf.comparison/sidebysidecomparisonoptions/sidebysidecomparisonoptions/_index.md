@@ -1,12 +1,12 @@
 ---
-title: SideBySideComparisonOptions.SideBySideComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SideBySideComparisonOptions 构造函数。默认构造函数
+title: "SideBySideComparisonOptions.SideBySideComparisonOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SideBySideComparisonOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.comparison/sidebysidecomparisonoptions/sidebysidecomparisonoptions/
 ---
-## SideBySideComparisonOptions 构造函数
+## SideBySideComparisonOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.comparison/sidebysidecomparisonoptions/sidebysidecompari
 public SideBySideComparisonOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SideBySideComparisonOptions](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SideBySideComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

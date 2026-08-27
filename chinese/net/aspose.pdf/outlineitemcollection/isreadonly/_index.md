@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 属性。获取一个值，指示集合是否为只读
+title: "OutlineItemCollection.IsReadOnly"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineItemCollection 属性。获取一个值，指示集合是否为只读"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/outlineitemcollection/isreadonly/
 ---
-## OutlineItemCollection.IsReadOnly 属性
+## OutlineItemCollection.IsReadOnly property
 
 获取一个值，指示集合是否为只读。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/outlineitemcollection/isreadonly/
 public override bool IsReadOnly { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

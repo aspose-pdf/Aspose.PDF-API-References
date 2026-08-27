@@ -1,14 +1,14 @@
 ---
-title: Class License
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.License 类。提供方法来授权组件
+title: "类 License"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.License 类。提供对组件进行授权的方法"
 type: docs
-weight: 6090
+weight: 6220
 url: /zh/net/aspose.pdf/license/
 ---
-## 许可证类
+## License class
 
-提供方法来授权组件。
+提供对组件进行授权的方法。
 
 ```csharp
 public class License
@@ -20,14 +20,23 @@ public class License
 | --- | --- |
 | [License](license/)() | 默认构造函数。 |
 
+## 属性
+
+| 名称 | 描述 |
+| --- | --- |
+| [LicenseInfo](../../aspose.pdf/license/licenseinfo/) { get; } | 获取当前授权信息。 |
+
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | 授权组件。 |
-| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | 授权组件。 |
+| [ClearLicense](../../aspose.pdf/license/clearlicense/)() | 清除当前授权。 |
+| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | 为组件授权。 |
+| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | 为组件授权。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

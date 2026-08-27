@@ -1,21 +1,23 @@
 ---
-title: TextStamp.AutoAdjustFontSizeToFitStampRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp 属性。如果启用，字体大小将自动调整以适应大小为 Width 和 Height 的印章矩形。默认宽度和高度源自页面矩形
+title: "TextStamp.AutoAdjustFontSizeToFitStampRectangle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextStamp 属性。如果启用，字体大小将自动调整以适应宽度和高度为 Width 与 Height 的 Stamp Rectangle。默认的宽度和高度取自 Page Rectangle。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/
 ---
-## TextStamp.AutoAdjustFontSizeToFitStampRectangle 属性
+## TextStamp.AutoAdjustFontSizeToFitStampRectangle property
 
-如果启用，字体大小将自动调整以适应大小为: [`Width`](../width/) 和 [`Height`](../height/) 的印章矩形。默认宽度和高度源自页面矩形。
+如果启用，字体大小将自动调整以适应尺寸为 [`Width`](../width/) 和 [`Height`](../height/) 的 Stamp Rectangle。默认的宽度和高度取自 Page Rectangle。
 
 ```csharp
 public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

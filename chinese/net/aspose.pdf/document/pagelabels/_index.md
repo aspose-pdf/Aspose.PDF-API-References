@@ -1,12 +1,12 @@
 ---
-title: Document.PageLabels
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取文档中的页面标签
+title: "Document.PageLabels"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取文档中的页面标签"
 type: docs
-weight: 440
+weight: 460
 url: /zh/net/aspose.pdf/document/pagelabels/
 ---
-## Document.PageLabels 属性
+## Document.PageLabels property
 
 获取文档中的页面标签。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/document/pagelabels/
 public PageLabelCollection PageLabels { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageLabelCollection](../../pagelabelcollection/)
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageLabelCollection](../../pagelabelcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

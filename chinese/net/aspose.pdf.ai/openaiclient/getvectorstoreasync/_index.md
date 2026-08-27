@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。异步检索特定向量存储的详细信息
+title: "OpenAIClient.GetVectorStoreAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。异步检索特定向量存储的详细信息"
 type: docs
-weight: 330
+weight: 340
 url: /zh/net/aspose.pdf.ai/openaiclient/getvectorstoreasync/
 ---
-## OpenAIClient.GetVectorStoreAsync 方法
+## OpenAIClient.GetVectorStoreAsync method
 
 异步检索特定向量存储的详细信息。
 
@@ -17,8 +17,8 @@ public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| vectorStoreId | 字符串 | 要检索的向量存储的 ID。 |
-| cancellationToken | 可空`1 | 取消操作的令牌。 |
+| vectorStoreId | String | 要检索的向量存储 ID。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -28,11 +28,13 @@ public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId,
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当向量存储 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当向量存储 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreResponse](../../vectorstoreresponse/)
-* 类 [OpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

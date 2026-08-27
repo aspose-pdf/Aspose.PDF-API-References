@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Css_200
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard 字段。CSS2.00 属性所有者
+title: "AttributeOwnerStandard.Css_200"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeOwnerStandard 字段。CSS2.00 属性所有者"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/css_200/
 ---
-## AttributeOwnerStandard.Css_200 字段
+## AttributeOwnerStandard.Css_200 field
 
 CSS-2.00 属性所有者。
 
@@ -14,8 +14,10 @@ CSS-2.00 属性所有者。
 public static readonly AttributeOwnerStandard Css_200;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeOwnerStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

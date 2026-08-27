@@ -1,12 +1,12 @@
 ---
-title: Table.Table
-second_title: Aspose.PDF for .NET API Reference
-description: 表构造函数。默认构造函数
+title: "Table.Table"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Table 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/table/table/
 ---
-## 表构造函数
+## Table constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/table/table/
 public Table()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Table](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

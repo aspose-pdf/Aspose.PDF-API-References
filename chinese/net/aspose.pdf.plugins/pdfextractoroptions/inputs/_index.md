@@ -1,22 +1,24 @@
 ---
-title: PdfExtractorOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractorOptions 属性。返回 PdfExtractor 插件数据集合
+title: "PdfExtractorOptions.Inputs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractorOptions 属性。返回 PdfExtractor 插件数据集合"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/pdfextractoroptions/inputs/
 ---
-## PdfExtractorOptions.Inputs 属性
+## PdfExtractorOptions.Inputs property
 
-返回 PdfExtractor 插件数据集合。
+返回 PdfExtractor 插件的数据集合。
 
 ```csharp
 public List<IDataSource> Inputs { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IDataSource](../../idatasource/)
-* 类 [PdfExtractorOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

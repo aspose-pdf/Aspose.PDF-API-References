@@ -1,21 +1,23 @@
 ---
-title: TextSearchOptions.IsRegularExpressionUsed
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions 属性。获取或设置正则表达式是否被使用的指示
+title: "TextSearchOptions.IsRegularExpressionUsed"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextSearchOptions 属性。获取或设置指示是否使用正则表达式的标志。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/textsearchoptions/isregularexpressionused/
 ---
-## TextSearchOptions.IsRegularExpressionUsed 属性
+## TextSearchOptions.IsRegularExpressionUsed property
 
-获取或设置正则表达式是否被使用的指示。
+获取或设置指示是否使用正则表达式。
 
 ```csharp
 public bool IsRegularExpressionUsed { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextSearchOptions](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

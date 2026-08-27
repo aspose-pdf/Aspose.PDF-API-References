@@ -1,22 +1,24 @@
 ---
-title: LineAnnotation.Starting
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation 属性。获取或设置线的起点
+title: "LineAnnotation.Starting"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LineAnnotation 属性。获取或设置线的起始点"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.annotations/lineannotation/starting/
 ---
-## LineAnnotation.Starting 属性
+## LineAnnotation.Starting property
 
-获取或设置线的起点。
+获取或设置线的起始点。
 
 ```csharp
 public Point Starting { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Point](../../../aspose.pdf/point/)
-* 类 [LineAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

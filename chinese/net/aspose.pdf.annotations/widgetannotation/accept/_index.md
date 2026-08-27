@@ -1,12 +1,12 @@
 ---
-title: WidgetAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation 方法。接受访问者
+title: "WidgetAnnotation.Accept"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "WidgetAnnotation 方法。接受访问者"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/widgetannotation/accept/
 ---
-## WidgetAnnotation.Accept 方法
+## WidgetAnnotation.Accept method
 
 接受访问者。
 
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | 要接受的访问者。 |
+| 访问者 | AnnotationSelector | 待接受的访问者。 |
 
-### 另见
+### 另请参见
 
-* 类 [AnnotationSelector](../../annotationselector/)
-* 类 [WidgetAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

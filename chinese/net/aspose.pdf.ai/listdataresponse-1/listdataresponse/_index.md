@@ -1,12 +1,12 @@
 ---
-title: ListDataResponse1.ListDataResponse
-second_title: Aspose.PDF for .NET API Reference
-description: ListDataResponse 构造函数。默认构造函数
+title: "ListDataResponse1.ListDataResponse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ListDataResponse 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/listdataresponse-1/listdataresponse/
 ---
-## ListDataResponse&lt;T&gt; 构造函数
+## ListDataResponse&lt;T&gt; constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/listdataresponse-1/listdataresponse/
 public ListDataResponse()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ListDataResponse&lt;T&gt;](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ListDataResponse&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

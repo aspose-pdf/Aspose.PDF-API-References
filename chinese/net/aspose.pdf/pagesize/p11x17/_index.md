@@ -1,12 +1,12 @@
 ---
-title: PageSize.P11x17
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize 属性。11x17 英寸格式
+title: "PageSize.P11x17"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSize 属性。11x17 英寸格式"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/pagesize/p11x17/
 ---
-## PageSize.P11x17 属性
+## PageSize.P11x17 property
 
 11x17 英寸格式。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/pagesize/p11x17/
 public static PageSize P11x17 { get; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [PageSize](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

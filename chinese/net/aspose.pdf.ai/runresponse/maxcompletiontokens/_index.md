@@ -1,21 +1,23 @@
 ---
-title: RunResponse.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse 属性。获取或设置在运行过程中指定的最大完成令牌数
+title: "RunResponse.MaxCompletionTokens"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RunResponse 属性。获取或设置在运行期间已使用的最大完成令牌数。"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.ai/runresponse/maxcompletiontokens/
 ---
-## RunResponse.MaxCompletionTokens 属性
+## RunResponse.MaxCompletionTokens property
 
-获取或设置在运行过程中指定的最大完成令牌数。
+获取或设置在运行期间已使用的最大完成令牌数。
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RunResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

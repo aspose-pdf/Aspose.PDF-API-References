@@ -1,14 +1,14 @@
 ---
-title: Class EI
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EI 类。表示 EI 操作符结束内联图像对象的类
+title: "类 EI"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.EI 类。类表示 EI 操作符 结束内联图像对象"
 type: docs
-weight: 7290
+weight: 7430
 url: /zh/net/aspose.pdf.operators/ei/
 ---
-## EI 类
+## EI class
 
-表示 EI 操作符（结束内联图像对象）。
+表示 EI 操作符的类（End inline image object）。
 
 ```csharp
 public class EI : Operator
@@ -34,8 +34,10 @@ public class EI : Operator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

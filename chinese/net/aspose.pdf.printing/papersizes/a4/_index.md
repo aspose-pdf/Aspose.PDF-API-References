@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.A4
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。A4 纸 210 毫米 x 297 毫米
+title: "PaperSizes.A4"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。A4 纸 210 mm × 297 mm"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.printing/papersizes/a4/
 ---
-## PaperSizes.A4 字段
+## PaperSizes.A4 field
 
-A4 纸（210 毫米 x 297 毫米）。
+A4 纸 (210 mm × 297 mm).
 
 ```csharp
 public static readonly PaperSize A4;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

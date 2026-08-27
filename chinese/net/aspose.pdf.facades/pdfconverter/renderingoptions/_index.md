@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter 属性。获取或设置渲染选项
+title: "PdfConverter.RenderingOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfConverter 属性。获取或设置渲染选项"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdfconverter/renderingoptions/
 ---
-## PdfConverter.RenderingOptions 属性
+## PdfConverter.RenderingOptions property
 
 获取或设置渲染选项。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.facades/pdfconverter/renderingoptions/
 public RenderingOptions RenderingOptions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

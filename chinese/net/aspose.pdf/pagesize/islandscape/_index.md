@@ -1,21 +1,23 @@
 ---
-title: PageSize.IsLandscape
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize 属性。获取页面方向。如果是横向方向则返回 true，如果是纵向方向则返回 false
+title: "PageSize.IsLandscape"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSize 属性。获取页面方向。如果是横向则返回 true，若为纵向则返回 false"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/pagesize/islandscape/
 ---
-## PageSize.IsLandscape 属性
+## PageSize.IsLandscape property
 
-获取页面方向。如果是横向方向则返回 true，如果是纵向方向则返回 false。
+获取页面方向。若为横向则返回 true，若为纵向则返回 false。
 
 ```csharp
 public bool IsLandscape { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

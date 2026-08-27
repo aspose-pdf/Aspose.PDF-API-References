@@ -1,22 +1,24 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacements
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementAbsorber 属性。获取以 ImagePlacement 对象呈现的图像放置实例集合
+title: "ImagePlacementAbsorber.ImagePlacements"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagePlacementAbsorber 属性。获取以 ImagePlacement 对象呈现的图像放置实例的集合"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/imageplacementabsorber/imageplacements/
 ---
-## ImagePlacementAbsorber.ImagePlacements 属性
+## ImagePlacementAbsorber.ImagePlacements property
 
-获取以 [`ImagePlacement`](../../imageplacement/) 对象呈现的图像放置实例集合。
+获取以 [`ImagePlacement`](../../imageplacement/) 对象呈现的图像放置实例的集合。
 
 ```csharp
 public ImagePlacementCollection ImagePlacements { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImagePlacementCollection](../../imageplacementcollection/)
-* 类 [ImagePlacementAbsorber](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../../imageplacementcollection/)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

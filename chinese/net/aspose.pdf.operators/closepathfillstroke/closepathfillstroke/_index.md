@@ -1,12 +1,12 @@
 ---
-title: ClosePathFillStroke.ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: ClosePathFillStroke 构造函数。初始化操作符
+title: "ClosePathFillStroke.ClosePathFillStroke"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ClosePathFillStroke 构造函数。初始化运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/closepathfillstroke/closepathfillstroke/
 ---
-## ClosePathFillStroke 构造函数
+## ClosePathFillStroke constructor
 
 初始化操作符。
 
@@ -16,6 +16,8 @@ public ClosePathFillStroke()
 
 ### 另请参见
 
-* 类 [ClosePathFillStroke](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ClosePathFillStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

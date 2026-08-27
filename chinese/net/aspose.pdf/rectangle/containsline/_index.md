@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ContainsLine
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 方法。确定矩形是否包含由两个点表示的线
+title: "Rectangle.ContainsLine"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。确定矩形是否包含由两个点表示的线段"
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf/rectangle/containsline/
 ---
-## Rectangle.ContainsLine 方法
+## Rectangle.ContainsLine method
 
-确定矩形是否包含由两个点表示的线。
+确定矩形是否包含由两点表示的线段。
 
 ```csharp
 public bool ContainsLine(double x1, double y1, double x2, double y2)
@@ -16,17 +16,19 @@ public bool ContainsLine(double x1, double y1, double x2, double y2)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x1 | Double | 线的起点的 X 坐标。 |
-| y1 | Double | 线的起点的 Y 坐标。 |
-| x2 | Double | 线的终点的 X 坐标。 |
-| y2 | Double | 线的终点的 Y 坐标。 |
+| x1 | Double | 线段起点的 X 坐标。 |
+| y1 | Double | 线段起点的 Y 坐标。 |
+| x2 | Double | 线段终点的 X 坐标。 |
+| y2 | Double | 线段终点的 Y 坐标。 |
 
 ### 返回值
 
-`true` 如果矩形包含该线；否则，`false`。
+`true` 如果矩形包含该线段；否则为 `false`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

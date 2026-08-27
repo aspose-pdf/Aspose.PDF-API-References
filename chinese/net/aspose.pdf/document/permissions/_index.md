@@ -1,12 +1,12 @@
 ---
-title: Document.Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取文档的权限
+title: "Document.Permissions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取文档的权限"
 type: docs
-weight: 490
+weight: 510
 url: /zh/net/aspose.pdf/document/permissions/
 ---
-## Document.Permissions 属性
+## Document.Permissions property
 
 获取文档的权限。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/document/permissions/
 public int Permissions { get; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

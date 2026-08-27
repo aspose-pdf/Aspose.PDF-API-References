@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosSidesLeft
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 字段。左侧位置
+title: "PdfFileStamp.PosSidesLeft"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileStamp 字段。左侧位置"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.facades/pdffilestamp/possidesleft/
 ---
-## PdfFileStamp.PosSidesLeft 字段
+## PdfFileStamp.PosSidesLeft field
 
 左侧位置。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdffilestamp/possidesleft/
 public const int PosSidesLeft;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileStamp](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

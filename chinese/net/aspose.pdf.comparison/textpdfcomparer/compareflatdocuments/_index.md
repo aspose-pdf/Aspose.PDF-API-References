@@ -1,14 +1,14 @@
 ---
-title: TextPdfComparer.CompareFlatDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer 方法。逐页比较两个文档。文档作为一个整体进行比较。在比较文本之前，文档页面的文本被合并为一个文本
+title: "TextPdfComparer.CompareFlatDocuments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextPdfComparer 方法。逐页比较两个文档。文档整体进行比较。在比较文本之前，文档页面的文本会合并为一个文本。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/
 ---
 ## CompareFlatDocuments(Document, Document, ComparisonOptions) {#compareflatdocuments}
 
-逐页比较两个文档。文档作为一个整体进行比较。在比较文本之前，文档页面的文本被合并为一个文本。
+逐页比较两个文档。文档整体进行比较。在比较文本之前，文档页面的文本会合并为一个文本。
 
 ```csharp
 public static List<DiffOperation> CompareFlatDocuments(Document document1, Document document2, 
@@ -25,7 +25,7 @@ public static List<DiffOperation> CompareFlatDocuments(Document document1, Docum
 
 更改列表。
 
-### 另见
+### 另请参见
 
 * class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
@@ -38,7 +38,7 @@ public static List<DiffOperation> CompareFlatDocuments(Document document1, Docum
 
 ## CompareFlatDocuments(Document, Document, ComparisonOptions, string) {#compareflatdocuments_1}
 
-逐页比较两个文档。结果保存在 PDF 文件中。文档作为一个整体进行比较。在比较文本之前，文档页面的文本被合并为一个文本。
+逐页比较两个文档。结果保存在 PDF 文件中。文档整体进行比较。在比较文本之前，文档页面的文本会合并为一个文本。
 
 ```csharp
 public static List<DiffOperation> CompareFlatDocuments(Document document1, Document document2, 
@@ -50,13 +50,13 @@ public static List<DiffOperation> CompareFlatDocuments(Document document1, Docum
 | document1 | Document | 第一个文档。 |
 | document2 | Document | 第二个文档。 |
 | options | ComparisonOptions | 比较选项。 |
-| resultPdfDocumentPath | String | 保存比较结果的 PDF 文件路径。 |
+| resultPdfDocumentPath | String | 用于保存比较结果的 pdf 文件路径。 |
 
 ### 返回值
 
 更改列表。
 
-### 另见
+### 另请参见
 
 * class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
@@ -64,3 +64,5 @@ public static List<DiffOperation> CompareFlatDocuments(Document document1, Docum
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

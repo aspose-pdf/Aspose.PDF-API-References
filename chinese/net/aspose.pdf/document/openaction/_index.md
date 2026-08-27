@@ -1,14 +1,14 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取或设置在文档打开时执行的操作
+title: "Document.OpenAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取或设置文档打开时执行的操作"
 type: docs
-weight: 390
+weight: 410
 url: /zh/net/aspose.pdf/document/openaction/
 ---
-## Document.OpenAction 属性
+## Document.OpenAction property
 
-获取或设置在文档打开时执行的操作。
+获取或设置文档打开时执行的操作。
 
 ```csharp
 public IAppointment OpenAction { get; set; }
@@ -23,9 +23,11 @@ Document document = new Document("sample.pdf");
 IAppointment value = document.OpenAction;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

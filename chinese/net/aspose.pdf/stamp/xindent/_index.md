@@ -1,21 +1,23 @@
 ---
-title: Stamp.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp 属性。水平印章坐标，从左侧开始
+title: "Stamp.XIndent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Stamp 属性。水平印章坐标，从左侧开始"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/stamp/xindent/
 ---
-## Stamp.XIndent 属性
+## Stamp.XIndent property
 
-水平印章坐标，从左侧开始。
+印章的水平坐标，起始于左侧。
 
 ```csharp
 public virtual double XIndent { get; set; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Stamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

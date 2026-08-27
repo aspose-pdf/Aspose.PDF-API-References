@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。通过印章索引删除指定页面上的多个印章
+title: "PdfContentEditor.DeleteStamp"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。根据印章索引删除指定页面上的多个印章"
 type: docs
 weight: 330
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
-## PdfContentEditor.DeleteStamp 方法
+## PdfContentEditor.DeleteStamp method
 
-通过印章索引删除指定页面上的多个印章。
+按图章索引删除指定页面上的多个图章。
 
 ```csharp
 public void DeleteStamp(int pageNumber, int[] index)
@@ -16,7 +16,7 @@ public void DeleteStamp(int pageNumber, int[] index)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageNumber | Int32 | 要删除印章的页面编号。 |
+| pageNumber | Int32 | 将删除 stamp 的页码。 |
 | index | Int32[] | 印章索引。 |
 
 ## 示例
@@ -28,8 +28,10 @@ contentEditor.DeleteStamp(1, new int[] { 2, 3, 5} );
 contentEditor.Save("outfile.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

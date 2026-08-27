@@ -1,25 +1,27 @@
 ---
-title: TextState.TabTag
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 字段。您可以在文本中放置此标签以声明制表符
+title: "TextState.TabTag"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextState 属性。您可以在文本中放置此标签以声明制表符"
 type: docs
-weight: 210
+weight: 180
 url: /zh/net/aspose.pdf.text/textstate/tabtag/
 ---
-## TextState.TabTag 字段
+## TextState.TabTag property
 
 您可以在文本中放置此标签以声明制表符。
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
 ## 备注
 
-它仅在与 [`TabStops`](../../tabstops/) 配合使用时有效。
+它仅在与 [`TabStops`](../../tabstops/) 配合使用时生效。
 
 ### 另请参见
 
-* 类 [TextState](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

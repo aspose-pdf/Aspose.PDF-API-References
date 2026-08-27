@@ -1,12 +1,12 @@
 ---
-title: Class PageNumber.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageNumberPageTotalNum 类。表示页码格式中的总页数组件
+title: "类 PageNumber.PageTotalNum"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PageNumberPageTotalNum 类。表示页码格式中总页数组件"
 type: docs
-weight: 8220
+weight: 8360
 url: /zh/net/aspose.pdf/pagenumber.pagetotalnum/
 ---
-## PageNumber.PageTotalNum 类
+## PageNumber.PageTotalNum class
 
 表示页码格式中的总页数组件。
 
@@ -20,8 +20,10 @@ public sealed class PageTotalNum
 | --- | --- |
 | [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | 默认构造函数。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageNumber](../pagenumber/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

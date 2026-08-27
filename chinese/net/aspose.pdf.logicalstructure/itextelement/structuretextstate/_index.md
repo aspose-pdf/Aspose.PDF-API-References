@@ -1,12 +1,12 @@
 ---
-title: ITextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: ITextElement 属性。获取文本结构元素的 StructureTextState 对象
+title: "ITextElement.StructureTextState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITextElement 属性。获取文本结构元素的 StructureTextState 对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 ---
-## ITextElement.StructureTextState 属性
+## ITextElement.StructureTextState property
 
 获取文本结构元素的 StructureTextState 对象。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 public StructureTextState StructureTextState { get; }
 ```
 
-### 属性值
+### Property Value
 
 文本结构元素的 StructureTextState 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTextState](../../structuretextstate/)
-* 接口 [ITextElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* interface [ITextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

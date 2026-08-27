@@ -1,12 +1,12 @@
 ---
-title: PDF3DView.ViewName
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView 属性。获取或设置视图的名称
+title: "PDF3DView.ViewName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DView 属性。获取或设置视图的名称"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/pdf3dview/viewname/
 ---
-## PDF3DView.ViewName 属性
+## PDF3DView.ViewName property
 
 获取或设置视图的名称。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.annotations/pdf3dview/viewname/
 public string ViewName { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 视图的名称。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DView](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

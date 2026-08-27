@@ -1,21 +1,23 @@
 ---
-title: PDF3DRenderMode.TransparentBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode 字段。透明边界框渲染模式
+title: "PDF3DRenderMode.TransparentBoundingBox"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DRenderMode 字段。TransparentBoundingBox 渲染模式"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/
 ---
-## PDF3DRenderMode.TransparentBoundingBox 字段
+## PDF3DRenderMode.TransparentBoundingBox field
 
-“透明边界框”渲染模式。
+该 "TransparentBoundingBox" 渲染模式。
 
 ```csharp
 public static PDF3DRenderMode TransparentBoundingBox;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DRenderMode](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class ObjectResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ObjectResult 类。表示以字符串形式的操作结果
+title: "类 ObjectResult"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.ObjectResult 类。表示以字符串形式的操作结果"
 type: docs
-weight: 8950
+weight: 9080
 url: /zh/net/aspose.pdf.plugins/objectresult/
 ---
-## ObjectResult 类
+## ObjectResult class
 
 表示以字符串形式的操作结果。
 
@@ -33,8 +33,10 @@ public sealed class ObjectResult : IOperationResult
 | [ToStream](../../aspose.pdf.plugins/objectresult/tostream/)() | 尝试将结果转换为流对象。 |
 | override [ToString](../../aspose.pdf.plugins/objectresult/tostring/)() | 尝试将结果转换为字符串。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IOperationResult](../ioperationresult/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IOperationResult](../ioperationresult/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

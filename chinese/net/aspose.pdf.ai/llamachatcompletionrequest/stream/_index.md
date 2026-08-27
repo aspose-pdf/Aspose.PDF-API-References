@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionRequest 属性。设置或获取是否流式传输响应
+title: "LlamaChatCompletionRequest.Stream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaChatCompletionRequest 属性。设置或获取是否流式传输响应"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.ai/llamachatcompletionrequest/stream/
 ---
-## LlamaChatCompletionRequest.Stream 属性
+## LlamaChatCompletionRequest.Stream property
 
 设置或获取是否流式传输响应。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/llamachatcompletionrequest/stream/
 public bool? Stream { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [LlamaChatCompletionRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

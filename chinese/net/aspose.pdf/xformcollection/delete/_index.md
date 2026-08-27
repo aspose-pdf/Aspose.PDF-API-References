@@ -1,7 +1,7 @@
 ---
-title: XFormCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 方法。 从集合中删除 XForm
+title: "XFormCollection.Delete"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFormCollection 方法。从集合中删除 XForm"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/xformcollection/delete/
@@ -18,7 +18,7 @@ public void Delete(int index)
 | --- | --- | --- |
 | index | Int32 | 必须删除的 XForm 的索引 |
 
-### 另请参阅
+### 另请参见
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,7 +34,7 @@ public void Delete(int index)
 public void Delete()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,7 +44,7 @@ public void Delete()
 
 ## Delete(string) {#delete_2}
 
-通过表单名称从集合中删除 XForm。
+按表单名称从集合中删除 XForm。
 
 ```csharp
 public void Delete(string name)
@@ -52,10 +52,12 @@ public void Delete(string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 要删除的 XForm 的名称。 |
+| 名称 | String | 要删除的 XForm 的名称。 |
 
-### 另请参阅
+### 另请参见
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

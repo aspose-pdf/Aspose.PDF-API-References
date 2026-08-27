@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.CopyLogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 属性。如果为真，则在执行连接时复制文件的逻辑结构
+title: "PdfFileEditor.CopyLogicalStructure"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 属性。如果为 true，则在执行合并时复制文件的逻辑结构"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/pdffileeditor/copylogicalstructure/
 ---
-## PdfFileEditor.CopyLogicalStructure 属性
+## PdfFileEditor.CopyLogicalStructure property
 
-如果为真，则在执行连接时复制文件的逻辑结构。
+如果为 true，则在执行合并时复制文件的逻辑结构。
 
 ```csharp
 public bool CopyLogicalStructure { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

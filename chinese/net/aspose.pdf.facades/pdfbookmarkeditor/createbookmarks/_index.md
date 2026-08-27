@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor 方法。为所有页面创建书签
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfBookmarkEditor 方法。为所有页面创建书签"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
 ---
 ## CreateBookmarks() {#createbookmarks}
 
-为所有页面创建书签。
+为所有 pages 创建书签。
 
 ```csharp
 public void CreateBookmarks()
@@ -23,7 +23,7 @@ editor.CreateBookmarks();
 editor.Save("example_out.pdf");
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -33,7 +33,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Bookmark) {#createbookmarks_1}
 
-在文档中创建指定的书签。该方法可用于形成嵌套书签层次结构。
+在 document 中创建指定的书签。此方法可用于形成嵌套书签层次结构。
 
 ```csharp
 public void CreateBookmarks(Bookmark bookmark)
@@ -41,7 +41,7 @@ public void CreateBookmarks(Bookmark bookmark)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| bookmark | Bookmark | 将添加到文档中的书签。 |
+| 书签 | 书签 | 书签将被添加到文档中。 |
 
 ## 示例
 
@@ -66,7 +66,7 @@ editor.CreateBookmarks(bm);
 editor.Save("example_out.pdf");
 ```
 
-### 另见
+### 另请参见
 
 * class [Bookmark](../../bookmark/)
 * class [PdfBookmarkEditor](../)
@@ -77,7 +77,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Color, bool, bool) {#createbookmarks_2}
 
-使用指定的颜色和样式（粗体、斜体）为所有页面创建书签。
+为所有 pages 创建书签，使用指定的颜色和样式（粗体、斜体）。
 
 ```csharp
 public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
@@ -85,7 +85,7 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | 标题的颜色。 |
+| 颜色 | Color | 标题的颜色。 |
 | boldFlag | Boolean | 粗体属性的标志。 |
 | italicFlag | Boolean | 斜体属性的标志。 |
 
@@ -98,8 +98,10 @@ editor.CreateBookmarks(System.Drawing.Color.Red, true, true);
 editor.Save("example_out.pdf");
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

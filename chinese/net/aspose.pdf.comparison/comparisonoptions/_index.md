@@ -1,12 +1,12 @@
 ---
-title: Class ComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.ComparisonOptions 类。表示 PDF 文档比较选项类
+title: "类 ComparisonOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Comparison.ComparisonOptions 类。表示 PDF 文档比较选项类"
 type: docs
-weight: 3150
+weight: 3260
 url: /zh/net/aspose.pdf.comparison/comparisonoptions/
 ---
-## ComparisonOptions 类
+## ComparisonOptions class
 
 表示 PDF 文档比较选项类。
 
@@ -24,13 +24,15 @@ public class ComparisonOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [EditOperationsOrder](../../aspose.pdf.comparison/comparisonoptions/editoperationsorder/) { get; set; } | 获取和设置编辑操作顺序。 |
+| [EditOperationsOrder](../../aspose.pdf.comparison/comparisonoptions/editoperationsorder/) { get; set; } | 获取和设置编辑操作的顺序。 |
 | [ExcludeAreas1](../../aspose.pdf.comparison/comparisonoptions/excludeareas1/) { get; set; } | 获取和设置排除区域。用于比较方法中的第一页或文档。此选项可以与 [`ExcludeTables`](./excludetables/) 一起设置。此选项不能与 [`ExtractionArea`](./extractionarea/) 选项一起设置。 |
 | [ExcludeAreas2](../../aspose.pdf.comparison/comparisonoptions/excludeareas2/) { get; set; } | 获取和设置排除区域。用于比较方法中的第二页或文档。此选项可以与 [`ExcludeTables`](./excludetables/) 一起设置。此选项不能与 [`ExtractionArea`](./extractionarea/) 选项一起设置。 |
-| [ExcludeTables](../../aspose.pdf.comparison/comparisonoptions/excludetables/) { get; set; } | 获取和设置决定是否排除表格进行比较的选项。此选项不能与 [`ExtractionArea`](./extractionarea/) 选项一起设置。默认值为 `false`。 |
-| [ExtractionArea](../../aspose.pdf.comparison/comparisonoptions/extractionarea/) { get; set; } | 获取和设置将比较页面文本的矩形区域。此选项不能与 [`ExcludeTables`](./excludetables/)、[`ExcludeAreas1`](./excludeareas1/) 和 [`ExcludeAreas2`](./excludeareas2/) 选项一起设置。 |
+| [ExcludeTables](../../aspose.pdf.comparison/comparisonoptions/excludetables/) { get; set; } | 获取和设置决定是否在比较中排除表格的选项。此选项不能与 [`ExtractionArea`](./extractionarea/) 选项一起设置。默认值为 `false`。 |
+| [ExtractionArea](../../aspose.pdf.comparison/comparisonoptions/extractionarea/) { get; set; } | 获取和设置页面文本比较的矩形区域。此选项不能与 [`ExcludeTables`](./excludetables/)、[`ExcludeAreas1`](./excludeareas1/) 和 [`ExcludeAreas2`](./excludeareas2/) 选项一起设置。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

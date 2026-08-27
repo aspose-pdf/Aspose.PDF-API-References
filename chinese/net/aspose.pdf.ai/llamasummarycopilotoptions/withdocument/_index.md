@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions 方法。将文本文档添加到摘要助手选项的文档集合中
+title: "LlamaSummaryCopilotOptions.WithDocument"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaSummaryCopilotOptions 方法。向摘要协助选项的文档集合中添加文本文档"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-将文本文档添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加文本文档。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
@@ -22,18 +22,18 @@ public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 当前的 [`LlamaSummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextDocument](../../textdocument/)
-* 类 [LlamaSummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-将 PDF 文档添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加 PDF 文档。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -47,18 +47,18 @@ public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 当前的 [`LlamaSummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfDocument](../../pdfdocument/)
-* 类 [LlamaSummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(string) {#withdocument_2}
 
-将文档路径添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加文档路径。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(string filePath)
@@ -72,8 +72,10 @@ public LlamaSummaryCopilotOptions WithDocument(string filePath)
 
 当前的 [`LlamaSummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [LlamaSummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

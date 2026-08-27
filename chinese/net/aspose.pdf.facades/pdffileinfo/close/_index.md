@@ -1,21 +1,23 @@
 ---
-title: PdfFileInfo.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 方法。反初始化实例
+title: "PdfFileInfo.Close"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileInfo 方法。对实例进行反初始化"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.facades/pdffileinfo/close/
 ---
-## PdfFileInfo.Close 方法
+## PdfFileInfo.Close method
 
-反初始化实例。
+对实例进行反初始化。
 
 ```csharp
 public override void Close()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

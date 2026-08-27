@@ -1,25 +1,27 @@
 ---
-title: CosPdfNumber.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber 属性。获取值
+title: "CosPdfNumber.Value"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfNumber 属性。获取该值"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.dataeditor/cospdfnumber/value/
 ---
-## CosPdfNumber.Value 属性
+## CosPdfNumber.Value property
 
-获取值。
+获取该值。
 
 ```csharp
 public double Value { get; }
 ```
 
-### 属性值
+### Property Value
 
-该值。
+值。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfNumber](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

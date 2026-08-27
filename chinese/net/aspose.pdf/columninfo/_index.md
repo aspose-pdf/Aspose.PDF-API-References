@@ -1,14 +1,14 @@
 ---
-title: Class ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColumnInfo 类。该类表示列的信息
+title: "类 ColumnInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ColumnInfo 类。此类表示列信息。"
 type: docs
-weight: 3120
+weight: 3230
 url: /zh/net/aspose.pdf/columninfo/
 ---
-## ColumnInfo 类
+## ColumnInfo class
 
-该类表示列的信息。
+此类表示列信息。
 
 ```csharp
 public sealed class ColumnInfo
@@ -25,10 +25,12 @@ public sealed class ColumnInfo
 | 名称 | 描述 |
 | --- | --- |
 | [ColumnCount](../../aspose.pdf/columninfo/columncount/) { get; set; } | 获取或设置一个整数值，指示列的数量。 |
-| [ColumnSpacing](../../aspose.pdf/columninfo/columnspacing/) { get; set; } | 获取或设置一个字符串，包含列之间的间距。每个间距的值应由空格分隔。默认单位是点，但也支持厘米和英寸。例如，“120 2.5cm 1.5inch”。 |
-| [ColumnWidths](../../aspose.pdf/columninfo/columnwidths/) { get; set; } | 获取或设置一个字符串，包含列的宽度。每列的值应由空格分隔。默认单位是点，但也支持厘米、英寸和可用宽度的百分比。例如，“120 2.5cm 1.5inch”。 |
+| [ColumnSpacing](../../aspose.pdf/columninfo/columnspacing/) { get; set; } | 获取或设置一个字符串，包含列之间的间距。每个间距的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）和英寸（inch）。例如，\"120 2.5cm 1.5inch\"。 |
+| [ColumnWidths](../../aspose.pdf/columninfo/columnwidths/) { get; set; } | 获取或设置一个字符串，包含列的宽度。每列的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）、英寸（inch）以及可用宽度的百分比。例如，\"120 2.5cm 1.5inch\"。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

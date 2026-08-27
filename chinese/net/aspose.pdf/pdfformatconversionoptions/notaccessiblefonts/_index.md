@@ -1,21 +1,23 @@
 ---
-title: PdfFormatConversionOptions.NotAccessibleFonts
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 属性。该属性是外部属性。它包含在上次 PDF/A 转换中未在计算机上找到的所有字体（字体名称）。
+title: "PdfFormatConversionOptions.NotAccessibleFonts"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFormatConversionOptions 属性。此属性为输出属性。它保存所有在上一次 PDF/A 转换时未在计算机上找到的字体名称"
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/notaccessiblefonts/
 ---
-## PdfFormatConversionOptions.NotAccessibleFonts 属性
+## PdfFormatConversionOptions.NotAccessibleFonts property
 
-该属性是外部属性。它包含在上次 PDF/A 转换中未在计算机上找到的所有字体（字体名称）。
+此属性为输出属性。它保存上一次 PDF/A 转换时未在计算机上找到的所有字体（字体名称）。
 
 ```csharp
 public string[] NotAccessibleFonts { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFormatConversionOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

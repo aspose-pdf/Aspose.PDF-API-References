@@ -1,19 +1,21 @@
 ---
-title: OpenAISummaryCopilot.HasContext
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilot 属性。
+title: "OpenAISummaryCopilot.HasContext"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAISummaryCopilot 属性。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/openaisummarycopilot/hascontext/
 ---
-## OpenAISummaryCopilot.HasContext 属性
+## OpenAISummaryCopilot.HasContext property
 
 ```csharp
 public bool HasContext { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAISummaryCopilot](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

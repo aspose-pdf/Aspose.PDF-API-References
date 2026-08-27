@@ -1,21 +1,23 @@
 ---
-title: SignOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptions 属性。现有签名字段的名称。为 Null 时创建一个新字段
+title: "SignOptions.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SignOptions 属性。现有签名字段的名称。Null 表示创建新字段"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.plugins/signoptions/name/
 ---
-## SignOptions.Name 属性
+## SignOptions.Name property
 
-现有签名字段的名称。为 Null 时创建一个新字段。
+现有签名字段的名称。为 Null 时将创建新字段。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SignOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

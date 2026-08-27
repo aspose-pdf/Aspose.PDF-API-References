@@ -1,21 +1,23 @@
 ---
-title: Artifact.SaveUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact 方法。保存所有在 BeginUpdates 调用后对 artifact 所做的更新
+title: "Artifact.SaveUpdates"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Artifact 方法。保存在调用 BeginUpdates 之后对工件所做的所有更新。"
 type: docs
 weight: 270
 url: /zh/net/aspose.pdf/artifact/saveupdates/
 ---
-## Artifact.SaveUpdates 方法
+## Artifact.SaveUpdates method
 
-保存所有在 BeginUpdates() 调用后对 artifact 所做的更新。
+保存自 BeginUpdates() 调用后对工件所做的所有更新。
 
 ```csharp
 public void SaveUpdates()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Artifact](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

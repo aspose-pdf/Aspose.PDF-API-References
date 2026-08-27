@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.DashArray
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo 属性。获取或设置虚线数组
+title: "GraphInfo.DashArray"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphInfo 属性。获取或设置虚线数组"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/graphinfo/dasharray/
 ---
-## GraphInfo.DashArray 属性
+## GraphInfo.DashArray property
 
 获取或设置虚线数组。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/graphinfo/dasharray/
 public int[] DashArray { get; set; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [GraphInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

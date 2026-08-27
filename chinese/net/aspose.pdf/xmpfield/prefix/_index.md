@@ -1,12 +1,12 @@
 ---
-title: XmpField.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 属性。获取前缀
+title: "XmpField.Prefix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpField 属性。获取前缀"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/xmpfield/prefix/
 ---
-## XmpField.Prefix 属性
+## XmpField.Prefix property
 
 获取前缀。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf/xmpfield/prefix/
 public string Prefix { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 前缀。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpField](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Resources 类。表示页面资源的类
+title: "类 Resources"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Resources 类。表示页面资源的类"
 type: docs
-weight: 9770
+weight: 9920
 url: /zh/net/aspose.pdf/resources/
 ---
-## Resources 类
+## Resources class
 
 表示页面资源的类。
 
@@ -28,7 +28,7 @@ public sealed class Resources
 | --- | --- |
 | [FreeMemory](../../aspose.pdf/resources/freememory/)() | 清除缓存数据，释放内存等。 |
 | [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | 从资源中获取所有 ExGStates。 |
-| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | 返回字体集合。如果资源不包含字体条目，则将根据 CreateIfAbsent 标志创建。 |
+| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | 返回字体集合。如果资源中不包含字体条目，则会根据 CreateIfAbsent 标志创建。 |
 
 ## 其他成员
 
@@ -36,7 +36,9 @@ public sealed class Resources
 | --- | --- |
 | class [ExtGStateValue](../../aspose.pdf/resources.extgstatevalue) | 表示具有某些值的 ExtGStates。 |
 
-### 另请参阅
+### 另请参见
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

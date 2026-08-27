@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.H3
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 字段。用于无法按层次嵌套其部分的合规写入者的 3 级标题，因此无法根据其嵌套级别确定标题的级别。
+title: "StructureTypeStandard.H3"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureTypeStandard 字段。级别 3 标题，用于无法层次嵌套其章节的符合规范的写入器，因此无法从嵌套级别确定标题的层级。"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/h3/
 ---
-## StructureTypeStandard.H3 字段
+## StructureTypeStandard.H3 field
 
-3 级标题，用于无法按层次嵌套其部分的合规写入者，因此无法根据其嵌套级别确定标题的级别。
+三级标题，供无法层级嵌套章节且因此无法从嵌套层级确定标题级别的符合规范的写入器使用。
 
 ```csharp
 public static readonly StructureTypeStandard H3;
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

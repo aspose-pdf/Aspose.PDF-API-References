@@ -1,12 +1,12 @@
 ---
-title: Interface IEntityId
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IEntityId 接口。表示具有 ID 的实体
+title: "接口 IEntityId"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.IEntityId 接口。表示具有 ID 的实体。"
 type: docs
-weight: 490
+weight: 510
 url: /zh/net/aspose.pdf.ai/ientityid/
 ---
-## IEntityId 接口
+## IEntityId interface
 
 表示具有 ID 的实体。
 
@@ -20,7 +20,9 @@ public interface IEntityId
 | --- | --- |
 | [Id](../../aspose.pdf.ai/ientityid/id/) { get; set; } | 获取或设置实体的 ID。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

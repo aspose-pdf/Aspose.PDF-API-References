@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.IncludeAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction 字段。如果设置，提交的 FDF 文件将包括底层 PDF 文档中的所有标记注释
+title: "SubmitFormAction.IncludeAnnotations"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SubmitFormAction 字段。如果设置，提交的 FDF 文件应包括底层 PDF 文档中的所有标记注释。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/submitformaction/includeannotations/
 ---
-## SubmitFormAction.IncludeAnnotations 字段
+## SubmitFormAction.IncludeAnnotations field
 
-如果设置，提交的 FDF 文件将包括底层 PDF 文档中的所有标记注释。
+如果设置，则提交的 FDF 文件应包含底层 PDF 文档中的所有标记注释。
 
 ```csharp
 public const int IncludeAnnotations;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SubmitFormAction](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

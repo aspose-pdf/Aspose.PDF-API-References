@@ -1,12 +1,12 @@
 ---
-title: FieldSerializationResult.ErrorMessages
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult 属性。获取与序列化过程相关的错误消息
+title: "FieldSerializationResult.ErrorMessages"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FieldSerializationResult 属性。获取与序列化过程相关的错误信息"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/fieldserializationresult/errormessages/
 ---
-## FieldSerializationResult.ErrorMessages 属性
+## FieldSerializationResult.ErrorMessages property
 
 获取与序列化过程相关的错误消息。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf/fieldserializationresult/errormessages/
 public HashSet<string> ErrorMessages { get; }
 ```
 
-### 属性值
+### Property Value
 
-一组错误消息。
+一组错误信息。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FieldSerializationResult](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

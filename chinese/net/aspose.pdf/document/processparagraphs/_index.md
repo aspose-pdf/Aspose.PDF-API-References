@@ -1,21 +1,23 @@
 ---
-title: Document.ProcessParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。处理生成器的段落
+title: "Document.ProcessParagraphs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。为生成器处理段落。"
 type: docs
-weight: 780
+weight: 800
 url: /zh/net/aspose.pdf/document/processparagraphs/
 ---
-## Document.ProcessParagraphs 方法
+## Document.ProcessParagraphs method
 
-处理生成器的段落。
+为生成器处理段落。
 
 ```csharp
 public void ProcessParagraphs()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

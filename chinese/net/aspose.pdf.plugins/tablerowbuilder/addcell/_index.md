@@ -1,14 +1,14 @@
 ---
-title: TableRowBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowBuilder 方法。将单元格添加到表格行
+title: "TableRowBuilder.AddCell"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableRowBuilder 方法。向表行添加单元格"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/tablerowbuilder/addcell/
 ---
-## TableRowBuilder.AddCell 方法
+## TableRowBuilder.AddCell method
 
-将单元格添加到表格行。
+向表格行添加单元格。
 
 ```csharp
 public virtual TableCellBuilder AddCell()
@@ -16,11 +16,13 @@ public virtual TableCellBuilder AddCell()
 
 ### 返回值
 
-创建的 [`TableCellBuilder`](../../tablecellbuilder/) 实例。
+已创建的 [`TableCellBuilder`](../../tablecellbuilder/) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableCellBuilder](../../tablecellbuilder/)
-* 类 [TableRowBuilder](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableCellBuilder](../../tablecellbuilder/)
+* class [TableRowBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

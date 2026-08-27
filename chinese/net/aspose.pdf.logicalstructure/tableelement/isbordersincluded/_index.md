@@ -1,12 +1,12 @@
 ---
-title: TableElement.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement 属性。获取或设置列宽中包含的边框
+title: "TableElement.IsBordersIncluded"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableElement 属性。获取或设置列宽中是否包含边框"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
 ---
-## TableElement.IsBordersIncluded 属性
+## TableElement.IsBordersIncluded property
 
 获取或设置列宽中包含的边框。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
 public bool IsBordersIncluded { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

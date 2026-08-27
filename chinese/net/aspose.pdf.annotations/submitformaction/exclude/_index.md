@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.Exclude
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction 字段。如果清除，Fields 数组指定要包含在提交中的字段
+title: "SubmitFormAction.Exclude"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SubmitFormAction 字段。如果未设置，Fields 数组指定要在提交中包含的字段。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/submitformaction/exclude/
 ---
-## SubmitFormAction.Exclude 字段
+## SubmitFormAction.Exclude field
 
-如果清除，Fields 数组指定要包含在提交中的字段。
+如果未设置，则 Fields 数组指定要在提交中包含的字段。
 
 ```csharp
 public const int Exclude;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SubmitFormAction](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

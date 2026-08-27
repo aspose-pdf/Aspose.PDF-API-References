@@ -1,9 +1,9 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FileSaveTarget 类。表示插件的文件保存目标
+title: "类 FileSaveTarget"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FileSaveTarget 类。表示插件的文件保存目标"
 type: docs
-weight: 8570
+weight: 8700
 url: /zh/net/aspose.pdf.plugins/filesavetarget/
 ---
 ## FileSaveTarget class
@@ -14,21 +14,23 @@ url: /zh/net/aspose.pdf.plugins/filesavetarget/
 public class FileSaveTarget : ISaveTarget
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [FileSaveTarget](filesavetarget/)(string) | 使用指定路径初始化新的文件保存目标。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | 获取当前保存目标的文件路径。 |
 | [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | 保存目标的类型（文件）。 |
 
-### See Also
+### 另请参见
 
 * interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

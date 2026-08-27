@@ -1,14 +1,14 @@
 ---
-title: IStringOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: IStringOutputGenerator 方法。根据文本之间的差异生成输出并将其保存到文件
+title: "IStringOutputGenerator.GenerateOutput"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IStringOutputGenerator 方法。根据文本之间的差异生成输出并将其保存到文件。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/
 ---
 ## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
 
-根据文本之间的差异生成输出并将其保存到文件。
+根据文本之间的差异生成输出并将其保存到文件中。
 
 ```csharp
 public string GenerateOutput(List<DiffOperation> diffrences)
@@ -22,18 +22,18 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 输出的文本表示。
 
-### 另见
+### 另请参见
 
-* 类 [DiffOperation](../../diffoperation/)
-* 接口 [IStringOutputGenerator](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* interface [IStringOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_1}
 
-根据文本之间的差异生成输出并将其保存到文件。
+根据文本之间的差异生成输出并将其保存到文件中。
 
 ```csharp
 public string GenerateOutput(List<List<DiffOperation>> diffrences)
@@ -47,9 +47,11 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 输出的文本表示。
 
-### 另见
+### 另请参见
 
-* 类 [DiffOperation](../../diffoperation/)
-* 接口 [IStringOutputGenerator](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* interface [IStringOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

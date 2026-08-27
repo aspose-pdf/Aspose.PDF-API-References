@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 属性。设置字段的视觉属性
+title: "FormEditor.Facade"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 属性。设置字段的可视属性。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/formeditor/facade/
 ---
-## FormEditor.Facade 属性
+## FormEditor.Facade property
 
-设置字段的视觉属性。
+设置字段的可视属性。
 
 ```csharp
 public FormFieldFacade Facade { get; set; }
@@ -27,9 +27,11 @@ fe.DecorateField("textField");
 fe.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormFieldFacade](../../formfieldfacade/)
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderInfo.BottomStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo 字段。表示边框的底部部分（如果有的话）
+title: "SaveOptions.BorderInfo.BottomStyleIfAny"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BorderInfo 字段。表示边框的底部部分（如果有）。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/saveoptions.borderinfo/bottomstyleifany/
 ---
-## SaveOptions.BorderInfo.BottomStyleIfAny 字段
+## SaveOptions.BorderInfo.BottomStyleIfAny field
 
-表示边框的底部部分（如果有的话）
+表示边框的底部部分（如果有）
 
 ```csharp
 public BorderPartStyle BottomStyleIfAny;
@@ -20,3 +20,5 @@ public BorderPartStyle BottomStyleIfAny;
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

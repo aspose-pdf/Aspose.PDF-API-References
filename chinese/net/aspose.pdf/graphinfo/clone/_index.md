@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo 方法。克隆图形信息
+title: "GraphInfo.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphInfo 方法。克隆图形信息"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/graphinfo/clone/
 ---
-## GraphInfo.Clone 方法
+## GraphInfo.Clone method
 
 克隆图形信息。
 
@@ -18,8 +18,10 @@ public object Clone()
 
 克隆的对象
 
-### 另见
+### 另请参见
 
-* 类 [GraphInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

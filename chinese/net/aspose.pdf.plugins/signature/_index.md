@@ -1,12 +1,12 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Signature 类。表示签名插件
+title: "类 Signature"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.Signature 类。表示 Signature 插件"
 type: docs
-weight: 9260
+weight: 9410
 url: /zh/net/aspose.pdf.plugins/signature/
 ---
-## 签名类
+## Signature class
 
 表示 `Signature` 插件。
 
@@ -24,27 +24,29 @@ public sealed class Signature : IPlugin
 
 | 名称 | 描述 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | 使用指定参数开始 `Signature` 处理。 |
+| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | 使用指定参数启动 `Signature` 处理。 |
 
 ## 示例
 
-该示例演示如何签署 PDF 文档。
+此示例演示如何对 PDF 文档进行签名。
 
 ```csharp
-// create Signature
+// 创建 Signature
 var plugin = new Signature();
-// create SignOptions object to set instructions
+// 创建 SignOptions 对象以设置指令
 var opt = new SignOptions(inputPfx, inputPfxPassword);
-// add input file path
+// 添加输入文件路径
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 设置输出文件路径
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// 执行该过程
 plugin.Process(opt);
 ```
 
 ### 另请参见
 
-* 接口 [IPlugin](../iplugin/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

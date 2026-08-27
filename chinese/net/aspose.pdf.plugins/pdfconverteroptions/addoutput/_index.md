@@ -1,14 +1,14 @@
 ---
-title: PdfConverterOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverterOptions 方法。将新的数据源添加到 PdfToXLSXConverterOptions 插件数据集合中
+title: "PdfConverterOptions.AddOutput"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfConverterOptions 方法。向 PdfToXLSXConverterOptions 插件数据集合添加新的数据源"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.plugins/pdfconverteroptions/addoutput/
 ---
-## PdfConverterOptions.AddOutput 方法
+## PdfConverterOptions.AddOutput method
 
-将新的数据源添加到 PdfToXLSXConverterOptions 插件数据集合中。
+向 PdfToXLSXConverterOptions 插件数据集合添加新的数据源。
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -24,9 +24,11 @@ public void AddOutput(IDataSource saveDataSource)
 | --- | --- |
 | NotImplementedException |  |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IDataSource](../../idatasource/)
-* 类 [PdfConverterOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

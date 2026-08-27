@@ -1,12 +1,12 @@
 ---
-title: Rows.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Rows 方法。获取集合的枚举器
+title: "Rows.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rows 方法。获取集合的枚举器"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/rows/getenumerator/
 ---
-## Rows.GetEnumerator 方法
+## Rows.GetEnumerator method
 
 获取集合的枚举器
 
@@ -18,9 +18,11 @@ public IEnumerator<Row> GetEnumerator()
 
 枚举器对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Row](../../row/)
-* 类 [Rows](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: HeaderFooter.HeaderFooter
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter 构造函数。默认构造函数
+title: "HeaderFooter.HeaderFooter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HeaderFooter 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/headerfooter/headerfooter/
 ---
-## HeaderFooter 构造函数
+## HeaderFooter constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/headerfooter/headerfooter/
 public HeaderFooter()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HeaderFooter](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ToolCall.Id
-second_title: Aspose.PDF for .NET API Reference
-description: ToolCall 属性。获取或设置工具调用的 ID
+title: "ToolCall.Id"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ToolCall 属性。获取或设置工具调用的 ID"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/toolcall/id/
 ---
-## ToolCall.Id 属性
+## ToolCall.Id property
 
 获取或设置工具调用的 ID。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/toolcall/id/
 public string Id { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ToolCall](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.GetViewsArray
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DArtwork 方法。获取视图数组
+title: "PDF3DArtwork.GetViewsArray"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DArtwork method. 获取视图数组"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/pdf3dartwork/getviewsarray/
 ---
-## PDF3DArtwork.GetViewsArray 方法
+## PDF3DArtwork.GetViewsArray method
 
 获取视图数组。
 
@@ -18,9 +18,11 @@ public PDF3DView[] GetViewsArray()
 
 视图数组。
 
-### 另见
+### 另请参见
 
-* 类 [PDF3DView](../../pdf3dview/)
-* 类 [PDF3DArtwork](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

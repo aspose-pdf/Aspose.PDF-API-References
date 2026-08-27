@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormatList.Count
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList 属性。列表中项目的计数
+title: "Measure.NumberFormatList.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "NumberFormatList 属性。计数列表中的项目。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/measure.numberformatlist/count/
 ---
-## Measure.NumberFormatList.Count 属性
+## Measure.NumberFormatList.Count property
 
 列表中项目的计数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/measure.numberformatlist/count/
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [NumberFormatList](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

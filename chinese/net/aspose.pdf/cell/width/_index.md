@@ -1,12 +1,12 @@
 ---
-title: Cell.Width
-second_title: Aspose.PDF for .NET API Reference
-description: 单元格属性。获取或设置列宽
+title: "Cell.Width"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Cell 属性。获取或设置列宽度"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/cell/width/
 ---
-## Cell.Width 属性
+## Cell.Width property
 
 获取或设置列宽。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/cell/width/
 public double Width { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Cell](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class RenditionAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenditionAction 类。控制多媒体内容播放的演绎动作
+title: "类 RenditionAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.RenditionAction 类。控制多媒体内容播放的呈现操作。"
 type: docs
-weight: 2440
+weight: 2530
 url: /zh/net/aspose.pdf.annotations/renditionaction/
 ---
-## RenditionAction 类
+## RenditionAction class
 
-控制多媒体内容播放的演绎动作。
+控制多媒体内容播放的呈现操作。
 
 ```csharp
 public sealed class RenditionAction : PdfAction
@@ -18,19 +18,21 @@ public sealed class RenditionAction : PdfAction
 
 | 名称 | 描述 |
 | --- | --- |
-| [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript/) { get; set; } | 获取或设置与该动作相关联的 JavaScript 代码。 |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | 顺序中的下一个动作。 |
-| [Rendition](../../aspose.pdf.annotations/renditionaction/rendition/) { get; } | 获取或设置与该动作相关联的演绎。 |
-| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation/) { get; set; } | 触发该动作时要执行的操作。 |
+| [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript/) { get; set; } | 获取或设置与该操作关联的 JavaScript 代码。 |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | 序列中的下一个操作。 |
+| [Rendition](../../aspose.pdf.annotations/renditionaction/rendition/) { get; } | 获取或设置与该操作关联的呈现。 |
+| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation/) { get; set; } | 当操作被触发时要执行的操作。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | 获取 ECMAScript 动作的字符串。 |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | 获取 ECMAScript 操作的字符串。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAction](../pdfaction/)
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

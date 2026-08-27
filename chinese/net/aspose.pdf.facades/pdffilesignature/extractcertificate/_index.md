@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 方法。提取单个 X.509 证书作为流
+title: "PdfFileSignature.ExtractCertificate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSignature 方法。将签名的单个 X.509 证书提取为流。"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdffilesignature/extractcertificate/
 ---
-## PdfFileSignature.ExtractCertificate 方法
+## PdfFileSignature.ExtractCertificate method
 
-提取签名的单个 X.509 证书作为流。
+提取签名的单个 X.509 证书为流。
 
 ```csharp
 public Stream ExtractCertificate(SignatureName signName)
@@ -24,7 +24,9 @@ public Stream ExtractCertificate(SignatureName signName)
 
 ### 另请参见
 
-* 类 [SignatureName](../../signaturename/)
-* 类 [PdfFileSignature](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

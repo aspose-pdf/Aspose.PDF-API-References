@@ -1,22 +1,24 @@
 ---
-title: EncryptionOptions.DocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionOptions 属性。有关文档权限的详细信息，请参见权限
+title: "EncryptionOptions.DocumentPrivilege"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EncryptionOptions 属性。文档权限，请参阅 Permissions 了解详情"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.plugins/encryptionoptions/documentprivilege/
 ---
-## EncryptionOptions.DocumentPrivilege 属性
+## EncryptionOptions.DocumentPrivilege property
 
-文档权限，详细信息请参见 [`Permissions`](../../../aspose.pdf/permissions/)。
+文档权限，请参阅 [`Permissions`](../../../aspose.pdf/permissions/) 了解详情。
 
 ```csharp
 public DocumentPrivilege DocumentPrivilege { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* 类 [EncryptionOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

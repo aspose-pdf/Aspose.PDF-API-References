@@ -1,21 +1,23 @@
 ---
-title: OptionCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 属性。获取一个值，指示集合是否为只读
+title: "OptionCollection.IsReadOnly"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptionCollection 属性。获取指示集合是否只读的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/optioncollection/isreadonly/
 ---
-## OptionCollection.IsReadOnly 属性
+## OptionCollection.IsReadOnly property
 
-获取一个值，指示集合是否为只读。
+获取指示集合是否只读的值。
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OptionCollection](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

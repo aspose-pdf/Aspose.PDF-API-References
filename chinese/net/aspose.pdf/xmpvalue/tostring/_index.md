@@ -1,7 +1,7 @@
 ---
-title: XmpValue.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 方法。返回 XmpValue 的字符串表示
+title: "XmpValue.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 方法。返回 XmpValue 的字符串表示形式"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf/xmpvalue/tostring/
@@ -18,11 +18,11 @@ public override string ToString()
 
 字符串表示。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,8 +42,10 @@ public string ToString(IFormatProvider formatProvider)
 
 字符串表示。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

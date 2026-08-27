@@ -1,12 +1,12 @@
 ---
-title: TocOptions.TocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TocOptions 构造函数。默认构造函数
+title: "TocOptions.TocOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TocOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/tocoptions/tocoptions/
 ---
-## TocOptions 构造函数
+## TocOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/tocoptions/tocoptions/
 public TocOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TocOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TocOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

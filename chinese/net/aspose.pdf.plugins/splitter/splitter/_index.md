@@ -1,12 +1,12 @@
 ---
-title: Splitter.Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: Splitter 构造函数。默认构造函数
+title: "Splitter.Splitter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Splitter 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/splitter/splitter/
 ---
-## Splitter 构造函数
+## Splitter constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/splitter/splitter/
 public Splitter()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Splitter](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Splitter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

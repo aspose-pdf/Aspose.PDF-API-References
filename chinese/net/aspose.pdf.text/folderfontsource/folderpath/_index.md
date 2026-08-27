@@ -1,12 +1,12 @@
 ---
-title: FolderFontSource.FolderPath
-second_title: Aspose.PDF for .NET API Reference
-description: FolderFontSource 属性。包含字体文件的文件夹路径
+title: "FolderFontSource.FolderPath"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FolderFontSource 属性。包含字体文件的文件夹路径"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/folderfontsource/folderpath/
 ---
-## FolderFontSource.FolderPath 属性
+## FolderFontSource.FolderPath property
 
 包含字体文件的文件夹路径。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/folderfontsource/folderpath/
 public string FolderPath { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FolderFontSource](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

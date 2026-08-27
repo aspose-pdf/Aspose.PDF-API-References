@@ -1,9 +1,9 @@
 ---
-title: Class FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FixedPrint 类。表示水印注释的固定打印数据
+title: "类 FixedPrint"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.FixedPrint 类。表示水印注释的固定打印数据。"
 type: docs
-weight: 1800
+weight: 1890
 url: /zh/net/aspose.pdf.annotations/fixedprint/
 ---
 ## FixedPrint class
@@ -14,15 +14,17 @@ url: /zh/net/aspose.pdf.annotations/fixedprint/
 public class FixedPrint
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation/) { get; set; } | 获取或设置水平平移。 |
 | [Matrix](../../aspose.pdf.annotations/fixedprint/matrix/) { get; set; } | 获取或设置矩阵值。 |
 | [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation/) { get; set; } | 获取或设置垂直平移。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

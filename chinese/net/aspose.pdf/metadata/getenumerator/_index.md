@@ -1,12 +1,12 @@
 ---
-title: Metadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: 元数据方法。返回字典枚举器
+title: "Metadata.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Metadata 方法。 返回字典枚举器"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/metadata/getenumerator/
 ---
-## Metadata.GetEnumerator 方法
+## Metadata.GetEnumerator method
 
 返回字典枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 
 枚举器。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../../xmpvalue/)
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

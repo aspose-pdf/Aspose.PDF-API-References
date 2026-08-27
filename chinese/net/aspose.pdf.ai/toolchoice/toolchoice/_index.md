@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: ToolChoice 构造函数。默认构造函数
+title: "ToolChoice.ToolChoice"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ToolChoice 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/toolchoice/toolchoice/
 ---
-## ToolChoice 构造函数
+## ToolChoice constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/toolchoice/toolchoice/
 public ToolChoice()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ToolChoice](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

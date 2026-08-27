@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute 方法。设置值名称数组
+title: "StructureAttribute.SetArrayValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureAttribute 方法。设置 Value Name Array"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/
 ---
-## StructureAttribute.SetArrayValue 方法
+## StructureAttribute.SetArrayValue method
 
-设置值名称数组。
+设置 Value Name Array。
 
 ```csharp
 public void SetArrayValue(AttributeName[] array)
@@ -16,11 +16,13 @@ public void SetArrayValue(AttributeName[] array)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| array | AttributeName[] | 允许的值名称数组。 |
+| 数组 | AttributeName[] | 可允许的 Value Names 数组。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeName](../../attributename/)
-* 类 [StructureAttribute](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

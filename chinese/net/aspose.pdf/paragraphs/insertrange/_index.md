@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.InsertRange
-second_title: Aspose.PDF for .NET API Reference
-description: 段落方法。将集合的元素插入到指定索引的列表中
+title: "Paragraphs.InsertRange"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Paragraphs 方法。在指定索引处将集合的元素插入列表"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/paragraphs/insertrange/
 ---
-## Paragraphs.InsertRange 方法
+## Paragraphs.InsertRange method
 
-将集合的元素插入到指定索引的列表中。
+在指定索引处将集合的元素插入列表。
 
 ```csharp
 public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
@@ -17,11 +17,13 @@ public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | index | Int32 | 索引值。 |
-| collection | IEnumerable`1 | 集合。 |
+| 集合 | IEnumerable`1 | 集合。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseParagraph](../../baseparagraph/)
-* 类 [Paragraphs](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Id.Original
-second_title: Aspose.PDF for .NET API Reference
-description: Id 属性。基于文档在最初创建时内容的永久标识符
+title: "Id.Original"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Id 属性。基于文档在最初创建时的内容的永久标识符。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/id/original/
 ---
-## Id.Original 属性
+## Id.Original property
 
 基于文档在最初创建时内容的永久标识符。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/id/original/
 public string Original { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Id](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Id](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

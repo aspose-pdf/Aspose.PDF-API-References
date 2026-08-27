@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs 方法。获取枚举器
+title: "Paragraphs.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Paragraphs 方法。获取枚举器"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/paragraphs/getenumerator/
 ---
-## Paragraphs.GetEnumerator 方法
+## Paragraphs.GetEnumerator method
 
 获取枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<BaseParagraph> GetEnumerator()
 
 枚举器对象。
 
-### 另见
+### 另请参见
 
-* 类 [BaseParagraph](../../baseparagraph/)
-* 类 [Paragraphs](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

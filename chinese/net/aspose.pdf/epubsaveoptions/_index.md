@@ -1,14 +1,14 @@
 ---
-title: Class EpubSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EpubSaveOptions class. 保存导出到EPUB格式的选项
+title: "类 EpubSaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.EpubSaveOptions 类。导出为 EPUB 格式的保存选项"
 type: docs
-weight: 4060
+weight: 4180
 url: /zh/net/aspose.pdf/epubsaveoptions/
 ---
 ## EpubSaveOptions class
 
-保存导出到EPUB格式的选项
+导出为 EPUB 格式的保存选项
 
 ```csharp
 public class EpubSaveOptions : UnifiedSaveOptions
@@ -24,43 +24,43 @@ public class EpubSaveOptions : UnifiedSaveOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置一个布尔值，指示在准备aps页面时是否将字体字形缓存。提高将PDF转换为其他格式的性能，但会增加内存消耗。 |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置一个布尔值，指示在文档保存到响应后，Response对象是否会被关闭。 |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | 此属性启用从具有OCR子层的PDF文档中提取图像或文本的功能。 |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置布尔值，以指示在准备 APS 页面时是否缓存字体字形。可提升 PDF 转换为其他格式的性能，但会增加内存消耗。 |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置布尔值，以指示文档保存到响应后是否关闭 Response 对象。 |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | 此属性启用了从带有 OCR 子层的 PDF 文档中提取图像或文本的功能。 |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | 数据保存的格式。 |
-| [Title](../../aspose.pdf/epubsaveoptions/title/) { get; set; } | 获取或设置EPUB文档标题。 |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler返回ReturnAction枚举项，指定继续或中止。继续是默认操作，保存操作继续进行，但用户也可以返回中止，在这种情况下，保存操作应停止。 |
+| [Title](../../aspose.pdf/epubsaveoptions/title/) { get; set; } | 获取或设置 EPUB 文档标题。 |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定 Continue（继续）或 Abort（中止）。Continue 为默认操作，保存操作将继续；但用户也可以返回 Abort，此时保存操作应停止。 |
 
 ## 字段
 
 | 名称 | 描述 |
 | --- | --- |
-| [ContentRecognitionMode](../../aspose.pdf/epubsaveoptions/contentrecognitionmode/) | 当PDF文件（通常具有固定布局）被转换时，转换引擎尝试执行分组和多级分析，以恢复原始文档作者的意图并生成流式布局的结果。此属性调整该转换以适应所需的内容识别方法。 |
+| [ContentRecognitionMode](../../aspose.pdf/epubsaveoptions/contentrecognitionmode/) | 当 PDF 文件（通常具有固定布局）被转换时，转换引擎会尝试进行分组和多层次分析，以恢复原始文档作者的意图并生成流式布局的结果。此属性用于针对不同的内容识别方法微调该转换。 |
 | [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | 在多个线程中处理页面。 |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | 有时PDF包含由几个相同的平铺背景图像构成的背景图像（页面或表格单元格）。在这种情况下，目标格式的渲染器（例如MsWord用于DOCS格式）有时会在背景图像的部分之间生成可见边界，因为它们的图像边缘平滑（抗锯齿）技术与Acrobat Reader不同。如果导出的文档看起来包含这样的可见边界，请尝试使用此设置消除这种不必要的效果。注意！这种质量优化通常会显著减慢转换速度，因此，请仅在确实必要时使用此选项。 |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | 有时 PDF 包含由多个相同的平铺背景图像拼接而成的页面或表格单元格的背景图像。在这种情况下，目标格式的渲染器（例如 MsWord 用于 DOCS 格式）有时会在背景图像的各部分之间生成可见的边界，因为它们的图像边缘平滑（抗锯齿）技术与 Acrobat Reader 不同。如果导出的文档看起来在相同背景图像的各部分之间出现了此类可见边界，请尝试使用此设置以消除该不良效果。注意！此质量优化通常会显著降低转换速度，因此请仅在确实必要时使用此选项。 |
 
 ## 示例
 
-以下示例演示如何将PDF文件转换为EPUB文件
+以下示例展示了如何将 PDF 文件转换为 EPUB 文件
 
 ```csharp
 	[C#]
-	// The path to the documents directory.
+	// 文档目录的路径。
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// PDF 文件的路径。
 	var pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf");
 
-	// The path to output EPUB File.
+	// 输出 EPUB 文件的路径。
 	var epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
 
-		// Initialize EpubSaveOptions 	
+		// 初始化 EpubSaveOptions 	
 		EpubSaveOptions saveOptions = new EpubSaveOptions();
 		
-		// Save EPUB file
+		// 保存 EPUB 文件
 		pdfDocument.Save(epubFile, saveOptions);
 	}
 ````
@@ -87,8 +87,10 @@ public class EpubSaveOptions : UnifiedSaveOptions
     End Using
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [UnifiedSaveOptions](../unifiedsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

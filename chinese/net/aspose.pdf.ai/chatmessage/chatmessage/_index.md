@@ -1,7 +1,7 @@
 ---
-title: ChatMessage.ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage 构造函数。初始化 ChatMessage 类的新实例
+title: "ChatMessage.ChatMessage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ChatMessage 构造函数。初始化 ChatMessage 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/chatmessage/chatmessage/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.ai/chatmessage/chatmessage/
 public ChatMessage()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ChatMessage](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,11 +32,13 @@ public ChatMessage(string role, string content)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| role | 字符串 | 此消息作者的角色。 |
-| content | 字符串 | 消息的内容。 |
+| role | String | 此消息作者的角色。 |
+| content | String | 消息的内容。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ChatMessage](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

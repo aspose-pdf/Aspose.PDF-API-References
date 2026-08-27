@@ -1,14 +1,14 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmphasisStyle 枚举。定义了可用于强调和强强调的可用序列化样式。有关规范，请参见 CommonMark 强调和强强调
+title: "枚举 EmphasisStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.EmphasisStyle 枚举。定义可用的强调和强强调的序列化样式。有关规范，请参见 CommonMark  Emphasis and strong emphasis"
 type: docs
-weight: 4020
+weight: 4140
 url: /zh/net/aspose.pdf/emphasisstyle/
 ---
-## EmphasisStyle 枚举
+## EmphasisStyle enumeration
 
-定义了可用于强调和强强调的可用序列化样式。有关规范，请参见 CommonMark - 强调和强强调。
+定义可用的强调和强强调的序列化样式。有关规范，请参阅 CommonMark - Emphasis and strong emphasis。
 
 ```csharp
 public enum EmphasisStyle
@@ -21,7 +21,9 @@ public enum EmphasisStyle
 | Asterisk | `0` | 使用 '*' 和 '**' 来表示（强）强调文本。 |
 | Underscore | `1` | 使用 '_' 和 '__' 来表示（强）强调文本。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

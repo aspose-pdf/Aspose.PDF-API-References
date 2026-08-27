@@ -1,12 +1,12 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromFdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 方法。 从 FDF 文件导入所有注释
+title: "PdfAnnotationEditor.ImportAnnotationsFromFdf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAnnotationEditor 方法。导入所有来自 FDF 文件的注释。"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/
 ---
-## PdfAnnotationEditor.ImportAnnotationsFromFdf 方法
+## PdfAnnotationEditor.ImportAnnotationsFromFdf method
 
 从 FDF 文件导入所有注释。
 
@@ -16,7 +16,7 @@ public void ImportAnnotationsFromFdf(string fdfFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fdfFile | 字符串 | 输入的 FDF 文件。 |
+| fdfFile | String | 输入的 FDF 文件。 |
 
 ## 示例
 
@@ -27,8 +27,10 @@ editor.ImportAnnotationsFromFdf("annots.fdf");
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

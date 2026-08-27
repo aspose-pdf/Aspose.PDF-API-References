@@ -1,12 +1,12 @@
 ---
-title: BaseActionCollection.RemoveActions
-second_title: Aspose.PDF for .NET API Reference
-description: BaseActionCollection 方法。移除注释的所有操作
+title: "BaseActionCollection.RemoveActions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseActionCollection 方法。移除注释的所有操作。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/baseactioncollection/removeactions/
 ---
-## BaseActionCollection.RemoveActions 方法
+## BaseActionCollection.RemoveActions method
 
 移除注释的所有操作。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/baseactioncollection/removeactions/
 public void RemoveActions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseActionCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseActionCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

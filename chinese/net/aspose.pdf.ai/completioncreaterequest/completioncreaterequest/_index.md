@@ -1,12 +1,12 @@
 ---
-title: CompletionCreateRequest.CompletionCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest 构造函数。默认构造函数
+title: "CompletionCreateRequest.CompletionCreateRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CompletionCreateRequest 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/completioncreaterequest/completioncreaterequest/
 ---
-## CompletionCreateRequest 构造函数
+## CompletionCreateRequest constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public CompletionCreateRequest()
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

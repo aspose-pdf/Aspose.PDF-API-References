@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor 属性。可编辑键的集合
+title: "DictionaryEditor.Keys"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DictionaryEditor 属性。可编辑键的集合。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.dataeditor/dictionaryeditor/keys/
 ---
-## DictionaryEditor.Keys 属性
+## DictionaryEditor.Keys property
 
 可编辑键的集合。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.dataeditor/dictionaryeditor/keys/
 public ICollection<string> Keys { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DictionaryEditor](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

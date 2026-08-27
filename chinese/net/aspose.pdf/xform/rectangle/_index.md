@@ -1,12 +1,12 @@
 ---
-title: XForm.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: XForm 属性。获取或设置表单的矩形
+title: "XForm.Rectangle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XForm 属性。获取或设置表单的矩形"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/xform/rectangle/
 ---
-## XForm.Rectangle 属性
+## XForm.Rectangle property
 
 获取或设置表单的矩形。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/xform/rectangle/
 public Rectangle Rectangle { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../rectangle/)
-* 类 [XForm](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

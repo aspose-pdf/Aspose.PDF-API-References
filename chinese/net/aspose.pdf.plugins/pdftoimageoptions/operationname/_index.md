@@ -1,12 +1,12 @@
 ---
-title: PdfToImageOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions 属性。返回操作名称
+title: "PdfToImageOptions.OperationName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfToImageOptions 属性。返回操作名称"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.plugins/pdftoimageoptions/operationname/
 ---
-## PdfToImageOptions.OperationName 属性
+## PdfToImageOptions.OperationName property
 
 返回操作名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/pdftoimageoptions/operationname/
 public virtual string OperationName { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfToImageOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

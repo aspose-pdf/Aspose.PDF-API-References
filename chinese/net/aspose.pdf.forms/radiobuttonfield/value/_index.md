@@ -1,12 +1,12 @@
 ---
-title: RadioButtonField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField 属性。获取或设置字段的值
+title: "RadioButtonField.Value"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RadioButtonField 属性。获取或设置字段的值"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.forms/radiobuttonfield/value/
 ---
-## RadioButtonField.Value 属性
+## RadioButtonField.Value property
 
 获取或设置字段的值。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/radiobuttonfield/value/
 public override string Value { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RadioButtonField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

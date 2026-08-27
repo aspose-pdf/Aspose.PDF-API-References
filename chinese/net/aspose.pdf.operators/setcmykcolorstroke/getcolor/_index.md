@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColorStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColorStroke 方法。返回 RGB 颜色
+title: "SetCMYKColorStroke.getColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetCMYKColorStroke 方法。返回 RGB 颜色"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.operators/setcmykcolorstroke/getcolor/
 ---
-## SetCMYKColorStroke.getColor 方法
+## SetCMYKColorStroke.getColor method
 
 返回 RGB 颜色
 
@@ -16,10 +16,12 @@ public override Color getColor()
 
 ### 返回值
 
-由操作符指定的颜色。
+运算符指定的颜色。
 
-### 另见
+### 另请参见
 
-* 类 [SetCMYKColorStroke](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetCMYKColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

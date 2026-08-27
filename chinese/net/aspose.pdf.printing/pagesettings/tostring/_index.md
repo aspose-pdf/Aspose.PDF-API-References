@@ -1,14 +1,14 @@
 ---
-title: PageSettings.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings 方法。以字符串形式提供有关 PageSettings 的一些有趣信息
+title: "PageSettings.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSettings 方法。以字符串形式提供有关 PageSettings 的一些有趣信息"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.printing/pagesettings/tostring/
 ---
-## PageSettings.ToString 方法
+## PageSettings.ToString method
 
-以字符串形式提供有关 PageSettings 的一些有趣信息。
+以字符串形式提供有关 PageSettings 的一些有用信息。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 表示 PageSettings 的字符串。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSettings](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

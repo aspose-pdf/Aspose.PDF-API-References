@@ -1,12 +1,12 @@
 ---
-title: XmpField.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField property. Gets xmllang qualifier
+title: "XmpField.Lang"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpField 属性。获取 xmllang 限定符"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/xmpfield/lang/
 ---
-## XmpField.Lang 属性
+## XmpField.Lang property
 
 获取 xml:lang 限定符。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmpfield/lang/
 public static XmpField Lang { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpField](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureElement.SetId
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement 方法。为结构元素设置 ID
+title: "StructureElement.SetId"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureElement 方法。为结构元素设置 ID。"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.logicalstructure/structureelement/setid/
 ---
-## StructureElement.SetId 方法
+## StructureElement.SetId method
 
-为结构元素设置 ID。
+设置结构元素的 ID。
 
 ```csharp
 public void SetId(string id)
@@ -16,10 +16,12 @@ public void SetId(string id)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| id | 字符串 | 结构元素的 ID 值 |
+| id | String | 结构元素的 ID 值 |
 
-### 另见
+### 另请参见
 
-* 类 [StructureElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

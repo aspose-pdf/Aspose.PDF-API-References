@@ -1,12 +1,12 @@
 ---
-title: FileSaveTarget.Path
-second_title: Aspose.PDF for .NET API Reference
-description: FileSaveTarget 属性。获取当前保存目标的文件路径
+title: "FileSaveTarget.Path"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileSaveTarget 属性。 获取当前保存目标文件的路径"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/filesavetarget/path/
 ---
-## FileSaveTarget.Path 属性
+## FileSaveTarget.Path property
 
 获取当前保存目标的文件路径。
 
@@ -18,8 +18,10 @@ public string Path { get; }
 
 一个表示输出文件路径的字符串。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileSaveTarget](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

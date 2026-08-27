@@ -1,12 +1,12 @@
 ---
-title: PaperSizeExtensions.ToAsposePaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizeExtensions 方法。将 Windows 特定的 System.Drawing.Printing.PaperSize 转换为 PaperSize
+title: "PaperSizeExtensions.ToAsposePaperSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizeExtensions 方法。将 Windows 特定的 System.Drawing.Printing.PaperSize 转换为 PaperSize"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.printing/papersizeextensions/toasposepapersize/
 ---
-## PaperSizeExtensions.ToAsposePaperSize 方法
+## PaperSizeExtensions.ToAsposePaperSize method
 
 将 Windows 特定的 System.Drawing.Printing.PaperSize 转换为 [`PaperSize`](../../papersize/)。
 
@@ -20,11 +20,13 @@ public static PaperSize ToAsposePaperSize(this PaperSize nativeSize)
 
 ### 返回值
 
-转换后的纸张大小。
+已转换的纸张大小。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizeExtensions](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizeExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

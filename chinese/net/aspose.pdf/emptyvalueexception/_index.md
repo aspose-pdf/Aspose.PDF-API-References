@@ -1,9 +1,9 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmptyValueException 类。当请求的值不存在时抛出的异常
+title: "类 EmptyValueException"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.EmptyValueException 类。当请求的值不存在时抛出的异常。"
 type: docs
-weight: 4030
+weight: 4150
 url: /zh/net/aspose.pdf/emptyvalueexception/
 ---
 ## EmptyValueException class
@@ -14,15 +14,17 @@ url: /zh/net/aspose.pdf/emptyvalueexception/
 public class EmptyValueException : PdfException
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [EmptyValueException](emptyvalueexception/#constructor)() | 初始化 `EmptyValueException` 类的新实例。 |
 | [EmptyValueException](emptyvalueexception/#constructor_1)(string) | 构造函数。 |
 
-### See Also
+### 另请参见
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

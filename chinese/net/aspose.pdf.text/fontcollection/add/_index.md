@@ -1,14 +1,14 @@
 ---
-title: FontCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection 方法。将新字体添加到字体资源并返回自动分配的字体资源名称
+title: "FontCollection.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontCollection 方法。向字体资源添加新字体，并返回自动分配的字体资源名称"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/fontcollection/add/
 ---
-## FontCollection.Add 方法
+## FontCollection.Add method
 
-将新字体添加到字体资源并返回自动分配的字体资源名称。
+向字体资源添加新字体并返回自动分配的字体资源名称。
 
 ```csharp
 public void Add(Font newFont, out string resName)
@@ -19,9 +19,11 @@ public void Add(Font newFont, out string resName)
 | newFont | Font | 字体对象。 |
 | resName | String& | 自动分配的资源项名称。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

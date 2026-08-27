@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.StringValue
-second_title: Aspose.PDF for .NET API Reference
-description: ResponseFormat 属性。获取或设置响应格式的字符串值
+title: "ResponseFormat.StringValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ResponseFormat 属性。获取或设置响应格式的字符串值。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.ai/responseformat/stringvalue/
 ---
-## ResponseFormat.StringValue 属性
+## ResponseFormat.StringValue property
 
 获取或设置响应格式的字符串值。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/responseformat/stringvalue/
 public string StringValue { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ResponseFormat](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ResponseFormat](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

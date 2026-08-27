@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.DecodeAllPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 方法。获取当前 PDF 文件的页面
+title: "PdfViewer.DecodeAllPages"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfViewer 方法。获取当前 pdf 文件的页面"
 type: docs
 weight: 270
 url: /zh/net/aspose.pdf.facades/pdfviewer/decodeallpages/
 ---
-## PdfViewer.DecodeAllPages 方法
+## PdfViewer.DecodeAllPages method
 
-获取当前 PDF 文件的页面。
+获取当前 pdf 文件的页面。
 
 ```csharp
 public Bitmap[] DecodeAllPages()
@@ -18,8 +18,10 @@ public Bitmap[] DecodeAllPages()
 
 返回 Pdf 页面图像的数组。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfViewer](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

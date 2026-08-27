@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.ExclNonUserAnnots
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction 字段。如果设置，它将仅包括那些 T 条目与当前用户的名称匹配的标记注释
+title: "SubmitFormAction.ExclNonUserAnnots"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SubmitFormAction 字段。如果设置，它应仅包含那些 T 条目匹配当前用户名称的标记注释"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/submitformaction/exclnonuserannots/
 ---
-## SubmitFormAction.ExclNonUserAnnots 字段
+## SubmitFormAction.ExclNonUserAnnots field
 
-如果设置，它将仅包括那些 T 条目与当前用户的名称匹配的标记注释。
+如果设置，则仅应包含那些 T 条目匹配当前用户名称的标记注释。
 
 ```csharp
 public const int ExclNonUserAnnots;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SubmitFormAction](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

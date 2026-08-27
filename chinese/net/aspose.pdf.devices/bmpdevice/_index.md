@@ -1,67 +1,68 @@
 ---
-title: Class BmpDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.BmpDevice 类。表示图像设备，帮助将 PDF 文档页面保存为 BMP
+title: "类 BmpDevice"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Devices.BmpDevice 类。表示帮助将 pdf 文档页面保存为 bmp 的图像设备。"
 type: docs
-weight: 3520
+weight: 3640
 url: /zh/net/aspose.pdf.devices/bmpdevice/
 ---
 ## BmpDevice class
 
-表示图像设备，帮助将 PDF 文档页面保存为 BMP。
+表示帮助将 PDF 文档页面保存为 bmp 的图像设备。
 
 ```csharp
 public sealed class BmpDevice : ImageDevice
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [BmpDevice](bmpdevice/#constructor)() | 使用默认分辨率初始化 `BmpDevice` 类的新实例。 |
-| [BmpDevice](bmpdevice/#constructor_2)(PageSize) | 使用提供的页面大小初始化 `BmpDevice` 类的新实例，默认分辨率 (=150)。 |
-| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | 初始化 `BmpDevice` 类的新实例。结果图像文件的分辨率，请参见 [`Resolution`](../resolution/) 类。 |
-| [BmpDevice](bmpdevice/#constructor_4)(int, int) | 使用提供的图像尺寸初始化 `BmpDevice` 类的新实例，默认分辨率 (=150)。 |
-| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | 使用提供的页面大小和分辨率初始化 `BmpDevice` 类的新实例。 |
+| [BmpDevice](bmpdevice/#constructor_2)(PageSize) | 使用提供的页面尺寸和默认分辨率（=150）初始化 `BmpDevice` 类的新实例。 |
+| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | 初始化 `BmpDevice` 类的新实例。结果图像文件的分辨率，请参阅 [`Resolution`](../resolution/) 类。 |
+| [BmpDevice](bmpdevice/#constructor_4)(int, int) | 使用提供的图像尺寸和默认分辨率（=150）初始化 `BmpDevice` 类的新实例。 |
+| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | 使用提供的页面尺寸和分辨率初始化 `BmpDevice` 类的新实例。 |
 | [BmpDevice](bmpdevice/#constructor_5)(int, int, Resolution) | 使用提供的图像尺寸和分辨率初始化 `BmpDevice` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | 获取或设置页面坐标类型（媒体/裁剪框）。默认使用 CropBox 值。 |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | 获取或设置页面坐标类型（Media/Crop 框）。默认使用 CropBox 值。 |
 | [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | 获取或设置表单呈现模式。 |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | 获取图像输出高度。 |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | 获取或设置渲染选项。 |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | 获取图像分辨率。 |
 | [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | 获取图像输出宽度。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | 将页面转换为 BMP 并将其保存在输出流中。 |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | 将页面转换为位图。 |
+| override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | 将页面转换为 bmp 并将其保存到输出流中。 |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 对给定页面执行某些操作并将结果保存到文件中。 |
 
-## Examples
+## 示例
 
-以下示例演示如何将 PDF 文件转换为 BMP 图像。
+下面的示例展示了如何将 PDF 文件转换为 BMP 图像。
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// 您的 PDF 目录路径。
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// PDF 文件的文件名。
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// initialize instance of Document class
+	// 初始化 Document 类的实例
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// 创建 Resolution 对象 \t
 		Resolution resolution = new Resolution(300);
 
-		// initialize BmpDevice	
+		// 初始化 BmpDevice	
 		BmpDevice bmpDevice = new BmpDevice(resolution);
 
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
@@ -70,10 +71,10 @@ public sealed class BmpDevice : ImageDevice
 			new FileStream($"{dataDir}image{pageCount}_out.bmp",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// 转换特定页面并将图像保存到流中
 				bmpDevice.Process(pdfDocument.Pages[pageCount], bmpStream);
 
-				// Close stream
+				// 关闭流
 				bmpStream.Close();
 			}
 		}
@@ -110,8 +111,10 @@ public sealed class BmpDevice : ImageDevice
 	End Using
 ```
 
-### See Also
+### 另请参见
 
 * class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

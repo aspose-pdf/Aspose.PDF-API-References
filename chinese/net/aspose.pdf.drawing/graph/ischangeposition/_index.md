@@ -1,21 +1,23 @@
 ---
-title: Graph.IsChangePosition
-second_title: Aspose.PDF for .NET API Reference
-description: 图形属性。获取或设置处理段落后更改当前的位置。（默认值为 true）
+title: "Graph.IsChangePosition"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Graph 属性。获取或设置在处理段落后更改当前位置信息。默认 true"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.drawing/graph/ischangeposition/
 ---
-## Graph.IsChangePosition 属性
+## Graph.IsChangePosition property
 
-获取或设置处理段落后更改当前的位置。（默认值为 true）
+获取或设置在处理段落后更改当前位置。（默认 true）
 
 ```csharp
 public bool IsChangePosition { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Graph](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

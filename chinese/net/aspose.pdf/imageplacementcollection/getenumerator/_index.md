@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection 方法。返回整个集合的枚举器
+title: "ImagePlacementCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagePlacementCollection 方法。返回整个集合的枚举器"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/imageplacementcollection/getenumerator/
 ---
-## ImagePlacementCollection.GetEnumerator 方法
+## ImagePlacementCollection.GetEnumerator method
 
 返回整个集合的枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<ImagePlacement> GetEnumerator()
 
 枚举器对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImagePlacement](../../imageplacement/)
-* 类 [ImagePlacementCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

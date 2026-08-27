@@ -1,42 +1,44 @@
 ---
-title: Class FitBHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FitBHExplicitDestination 类。表示明确的目标，该目标显示页面的垂直坐标顶部位于窗口的顶部边缘，并且页面的内容放大到刚好足以使其边界框的整个宽度适合窗口内。顶部的空值指定该参数的当前值将保持不变。
+title: "类 FitBHExplicitDestination"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.FitBHExplicitDestination 类。表示显式目标，显示页面时将垂直坐标 top 定位在窗口的顶部边缘，并将页面内容放大到恰好使其边界框的整个宽度适合窗口。top 为 null 值表示保留该参数的当前值不变。"
 type: docs
-weight: 1740
+weight: 1830
 url: /zh/net/aspose.pdf.annotations/fitbhexplicitdestination/
 ---
 ## FitBHExplicitDestination class
 
-表示明确的目标，该目标显示页面的垂直坐标顶部位于窗口的顶部边缘，并且页面的内容放大到刚好足以使其边界框的整个宽度适合窗口内。顶部的空值指定该参数的当前值将保持不变。
+表示显式目标，该目标显示页面，并将垂直坐标 top 定位在窗口的上边缘，同时将页面内容放大到恰好使其边界框的整个宽度适合窗口。top 为 null 值表示保留该参数的当前值不变。
 
 ```csharp
 public sealed class FitBHExplicitDestination : ExplicitDestination
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [FitBHExplicitDestination](fitbhexplicitdestination/#constructor_2)(int, double) | 创建远程明确目标。 |
-| [FitBHExplicitDestination](fitbhexplicitdestination/#constructor_1)(Page, double) | 创建本地明确目标。 |
+| [FitBHExplicitDestination](fitbhexplicitdestination/#constructor_2)(int, double) | 创建远程显式目标。 |
+| [FitBHExplicitDestination](fitbhexplicitdestination/#constructor_1)(Page, double) | 创建本地显式目标。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | 获取目标页面对象 |
 | [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | 获取目标页面编号 |
-| [Top](../../aspose.pdf.annotations/fitbhexplicitdestination/top/) { get; } | 获取位于窗口顶部边缘的垂直坐标顶部。 |
+| [Top](../../aspose.pdf.annotations/fitbhexplicitdestination/top/) { get; } | 获取定位在窗口顶部边缘的垂直坐标 top。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitbhexplicitdestination/tostring/)() | 将对象状态转换为字符串值。示例：“1 FitBH 100”。 |
+| override [ToString](../../aspose.pdf.annotations/fitbhexplicitdestination/tostring/)() | 将对象状态转换为字符串值。例如："1 FitBH 100"。 |
 
-### See Also
+### 另请参见
 
 * class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

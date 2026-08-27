@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 方法。使用设置打印 Pdf 文档。如果文档大小与页面大小不符，将扩展以适应页面大小
+title: "PdfViewer.PrintDocumentWithSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfViewer 方法。使用设置打印 Pdf 文档。如果文档尺寸与页面尺寸不匹配，将会扩展以适应页面尺寸"
 type: docs
 weight: 330
 url: /zh/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-使用设置打印 Pdf 文档。如果文档大小与页面大小不符，将扩展以适应页面大小。
+使用设置打印 Pdf document。如果 document 大小与页面尺寸不匹配，将扩展以适配页面尺寸。
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
@@ -17,7 +17,7 @@ public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | pageSettings | PageSettings | 打印文档的页面设置。 |
-| printerSettings | PrinterSettings | 打印文档的打印设置。 |
+| printerSettings | PrinterSettings | 打印文档的打印机设置。 |
 
 ## 示例
 
@@ -53,9 +53,9 @@ iewer.PrintDocumentWithSettings(pgs, ps)
 iewer.Close()
 ```
 
-printerSettings 对象用于打印文档。pageSettings.PrinterSettings 对象被忽略。
+printerSettings 对象用于打印文档。pageSettings.PrinterSettings 对象将被忽略。
 
-### 另见
+### 另请参见
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
@@ -67,7 +67,7 @@ printerSettings 对象用于打印文档。pageSettings.PrinterSettings 对象�
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-使用打印机设置打印 Pdf 文档。输出页面大小将适应文档的第一页大小。
+使用打印机设置打印 Pdf document。输出页面大小将适配该 document 的首页大小。
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
@@ -75,7 +75,7 @@ public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | 打印文档的打印设置。 |
+| printerSettings | PrinterSettings | 打印文档的打印机设置。 |
 
 ## 示例
 
@@ -105,9 +105,11 @@ iewer.PrintDocumentWithSettings(ps);
 iewer.ClosePdfFile()
 ```
 
-### 另见
+### 另请参见
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

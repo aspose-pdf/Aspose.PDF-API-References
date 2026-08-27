@@ -1,12 +1,12 @@
 ---
-title: NumberField.AllowedChars
-second_title: Aspose.PDF for .NET API Reference
-description: NumberField 属性。获取或设置允许的字符
+title: "NumberField.AllowedChars"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "NumberField 属性。获取或设置允许的字符。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/numberfield/allowedchars/
 ---
-## NumberField.AllowedChars 属性
+## NumberField.AllowedChars property
 
 获取或设置允许的字符。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.forms/numberfield/allowedchars/
 public string AllowedChars { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-允许的字符字符串。默认值为 0123456789
+允许的字符字符串。默认是 0123456789。
 
-### 另请参阅
+### 另请参见
 
-* 类 [NumberField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

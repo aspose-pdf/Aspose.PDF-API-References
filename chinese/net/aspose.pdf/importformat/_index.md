@@ -1,12 +1,12 @@
 ---
-title: Enum ImportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImportFormat 枚举。指定导入格式
+title: "枚举 ImportFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ImportFormat 枚举。指定导入格式。"
 type: docs
-weight: 5940
+weight: 6070
 url: /zh/net/aspose.pdf/importformat/
 ---
-## ImportFormat 枚举
+## ImportFormat enumeration
 
 指定导入格式。
 
@@ -20,7 +20,9 @@ public enum ImportFormat
 | --- | --- | --- |
 | Cgm | `1` | 计算机图形元文件格式。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

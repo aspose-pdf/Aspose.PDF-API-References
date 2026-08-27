@@ -1,12 +1,12 @@
 ---
-title: FormFlattener.FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: FormFlattener 构造函数。默认构造函数
+title: "FormFlattener.FormFlattener"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormFlattener 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/formflattener/formflattener/
 ---
-## FormFlattener 构造函数
+## FormFlattener constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/formflattener/formflattener/
 public FormFlattener()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormFlattener](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormFlattener](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

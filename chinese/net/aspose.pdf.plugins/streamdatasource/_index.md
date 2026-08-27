@@ -1,9 +1,9 @@
 ---
-title: Class StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.StreamDataSource 类。表示插件的加载和保存操作的流数据源
+title: "类 StreamDataSource"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.StreamDataSource 类。表示插件加载和保存操作的流数据源"
 type: docs
-weight: 9290
+weight: 9440
 url: /zh/net/aspose.pdf.plugins/streamdatasource/
 ---
 ## StreamDataSource class
@@ -14,21 +14,23 @@ url: /zh/net/aspose.pdf.plugins/streamdatasource/
 public sealed class StreamDataSource : IDataSource
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [StreamDataSource](streamdatasource/)(Stream) | 使用指定的流对象初始化新的流数据源。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/streamdatasource/data/) { get; } | 获取当前数据源的流对象。 |
-| [DataType](../../aspose.pdf.plugins/streamdatasource/datatype/) { get; } | 数据源的类型（流）。 |
+| [DataType](../../aspose.pdf.plugins/streamdatasource/datatype/) { get; } | 数据源类型（流）。 |
 
-### See Also
+### 另请参见
 
 * interface [IDataSource](../idatasource/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

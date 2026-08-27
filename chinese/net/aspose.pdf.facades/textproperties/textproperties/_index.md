@@ -1,14 +1,14 @@
 ---
-title: TextProperties.TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties 构造函数。为指定的文本大小创建 TextProperties 对象
+title: "TextProperties.TextProperties"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextProperties 构造函数。创建指定文本大小的 TextProperties 对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/textproperties/textproperties/
 ---
-## TextProperties 构造函数
+## TextProperties constructor
 
-为指定的文本大小创建 [`TextProperties`](../) 对象
+创建用于指定文本大小的 [`TextProperties`](../) 对象
 
 ```csharp
 public TextProperties(double textSize)
@@ -20,6 +20,8 @@ public TextProperties(double textSize)
 
 ### 另请参见
 
-* 类 [TextProperties](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

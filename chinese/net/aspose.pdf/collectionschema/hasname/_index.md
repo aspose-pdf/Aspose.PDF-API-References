@@ -1,14 +1,14 @@
 ---
-title: CollectionSchema.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema 方法。确定指定名称是否存在于架构中
+title: "CollectionSchema.HasName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CollectionSchema 方法。确定指定的名称是否存在于模式中"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/collectionschema/hasname/
 ---
-## CollectionSchema.HasName 方法
+## CollectionSchema.HasName method
 
-确定指定名称是否存在于架构中。
+确定指定名称是否存在于模式中。
 
 ```csharp
 public bool HasName(string name)
@@ -16,14 +16,16 @@ public bool HasName(string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | 字符串 | 要检查的名称。 |
+| 名称 | String | 要检查的名称。 |
 
 ### 返回值
 
-如果指定名称存在于架构中，则为 `true`；否则为 `false`。
+如果指定的名称存在于模式中则为 `true`；否则为 `false`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CollectionSchema](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

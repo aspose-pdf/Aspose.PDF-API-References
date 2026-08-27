@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 方法。删除大纲集合项
+title: "OutlineItemCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineItemCollection 方法。移除大纲集合项。"
 type: docs
 weight: 290
 url: /zh/net/aspose.pdf/outlineitemcollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-删除大纲集合项。
+移除大纲集合项。
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -20,19 +20,19 @@ public override bool Remove(OutlineItemCollection item)
 
 ### 返回值
 
-True - 如果项已删除；否则，false。
+True - 如果已移除项；否则为 false。
 
-### 另见
+### 另请参见
 
-* 类 [OutlineItemCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(int) {#remove_1}
 
-通过索引删除项。
+按索引移除项。
 
 ```csharp
 public void Remove(int index)
@@ -42,8 +42,10 @@ public void Remove(int index)
 | --- | --- | --- |
 | index | Int32 | 要删除的项的索引。 |
 
-### 另见
+### 另请参见
 
-* 类 [OutlineItemCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

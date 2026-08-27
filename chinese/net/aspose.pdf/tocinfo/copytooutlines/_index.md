@@ -1,21 +1,23 @@
 ---
-title: TocInfo.CopyToOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo 属性。获取或设置是否将 TOC 复制到大纲
+title: "TocInfo.CopyToOutlines"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TocInfo 属性。获取或设置是否将目录复制到大纲"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/tocinfo/copytooutlines/
 ---
-## TocInfo.CopyToOutlines 属性
+## TocInfo.CopyToOutlines property
 
-获取或设置是否将 TOC 复制到大纲。
+获取或设置是否将目录复制到大纲。
 
 ```csharp
 public bool CopyToOutlines { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TocInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum Artifact.ArtifactSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ArtifactArtifactSubtype 枚举。可能的文档子类型的枚举
+title: "枚举 Artifact.ArtifactSubtype"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ArtifactArtifactSubtype 枚举。可能的工件子类型"
 type: docs
-weight: 2780
+weight: 2880
 url: /zh/net/aspose.pdf/artifact.artifactsubtype/
 ---
-## Artifact.ArtifactSubtype 枚举
+## Artifact.ArtifactSubtype enumeration
 
-可能的文档子类型的枚举。
+可能的 Artifact 子类型的枚举。
 
 ```csharp
 public enum ArtifactSubtype
@@ -18,15 +18,17 @@ public enum ArtifactSubtype
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Header | `0` | 头部文档。 |
-| Footer | `1` | 页脚文档。 |
-| Watermark | `2` | 水印文档。 |
-| Background | `3` | 背景文档。 |
-| Undefined | `4` | 文档子类型未定义或未知。 |
-| BatesN | `5` | Bates 编号文档。 |
+| Header | `0` | 页眉工件。 |
+| Footer | `1` | 页脚工件。 |
+| Watermark | `2` | 水印工件。 |
+| Background | `3` | 背景工件。 |
+| Undefined | `4` | 工件子类型未定义或未知。 |
+| BatesN | `5` | Bates 编号工件。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Artifact](../artifact/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

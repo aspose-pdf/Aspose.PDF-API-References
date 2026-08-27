@@ -1,12 +1,12 @@
 ---
-title: EX.EX
-second_title: Aspose.PDF for .NET API Reference
-description: EX 构造函数。初始化操作符
+title: "EX.EX"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EX 构造函数。初始化操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/ex/ex/
 ---
-## EX 构造函数
+## EX constructor
 
 初始化操作符。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/ex/ex/
 public EX()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [EX](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EX](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

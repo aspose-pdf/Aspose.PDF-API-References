@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.SaveTransparentTexts
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 字段。Pdf 可以包含可以选择到剪贴板的透明文本（通常发生在文档包含图像和从中提取的 OCR 文本时）。此设置告诉转换器我们是否需要将这些文本作为透明可选择文本保存到结果 HTML 中
+title: "HtmlSaveOptions.SaveTransparentTexts"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 字段。PDF 可能包含可复制到剪贴板的透明文本，这通常发生在文档中包含图像和 OCR 提取的文本时。此设置告知转换器是否需要将此类文本保存为透明且可选中的文本，以在生成的 HTML 中呈现。"
 type: docs
 weight: 430
 url: /zh/net/aspose.pdf/htmlsaveoptions/savetransparenttexts/
 ---
-## HtmlSaveOptions.SaveTransparentTexts 字段
+## HtmlSaveOptions.SaveTransparentTexts field
 
-Pdf 可以包含可以选择到剪贴板的透明文本（通常发生在文档包含图像和从中提取的 OCR 文本时）。此设置告诉转换器我们是否需要将这些文本作为透明可选择文本保存到结果 HTML 中
+PDF 可能包含可复制到剪贴板的透明文本（通常发生在文档包含图像和从中提取的 OCR 文本时）。此设置告诉转换器是否需要将此类文本保存为结果 HTML 中的透明可选文本。
 
 ```csharp
 public bool SaveTransparentTexts;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.Category
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 属性。获取标准结构类型的类别
+title: "StructureTypeStandard.Category"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureTypeStandard property. 获取 Standard Structure Type 的类别"
 type: docs
 weight: 500
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 ---
-## StructureTypeStandard.Category 属性
+## StructureTypeStandard.Category property
 
 获取标准结构类型的类别。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 public StructureTypeCategory Category { get; }
 ```
 
-### 属性值
+### Property Value
 
-标准结构类型的类别。
+Standard Structure Type 的类别。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTypeCategory](../../structuretypecategory/)
-* 类 [StructureTypeStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../../structuretypecategory/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

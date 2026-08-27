@@ -1,25 +1,27 @@
 ---
-title: ExportFieldsOptions.ExportPasswordValue
-second_title: Aspose.PDF for .NET API Reference
-description: ExportFieldsOptions 属性。获取或设置一个值，指示密码值是否应被导出
+title: "ExportFieldsOptions.ExportPasswordValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ExportFieldsOptions 属性。获取或设置一个值，指示是否应导出密码值"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/exportfieldsoptions/exportpasswordvalue/
 ---
-## ExportFieldsOptions.ExportPasswordValue 属性
+## ExportFieldsOptions.ExportPasswordValue property
 
-获取或设置一个值，指示密码值是否应被导出。
+获取或设置一个值，指示是否应导出密码值。
 
 ```csharp
 public bool ExportPasswordValue { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-`true` 如果密码值应被导出；否则，`false`。
+`true` 表示应导出密码值；否则为 `false`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ExportFieldsOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ExportFieldsOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

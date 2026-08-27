@@ -1,12 +1,12 @@
 ---
-title: MessageContentBase.ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: MessageContentBase 属性。获取或设置消息内容中的图像 URL
+title: "MessageContentBase.ImageUrl"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MessageContentBase 属性。获取或设置消息内容中的图像 URL"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/messagecontentbase/imageurl/
 ---
-## MessageContentBase.ImageUrl 属性
+## MessageContentBase.ImageUrl property
 
 获取或设置消息内容中的图像 URL。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.ai/messagecontentbase/imageurl/
 public ImageUrl ImageUrl { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ImageUrl](../../imageurl/)
 * class [MessageContentBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

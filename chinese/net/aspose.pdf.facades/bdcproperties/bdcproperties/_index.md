@@ -1,7 +1,7 @@
 ---
-title: BDCProperties.BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: BDCProperties 构造函数。BDC 操作符属性的构造函数
+title: "BDCProperties.BDCProperties"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BDCProperties 构造函数。BDC 运算符属性的构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/bdcproperties/bdcproperties/
@@ -16,14 +16,14 @@ public BDCProperties(string lang = null, string expansionText = null)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| lang | 字符串 | 语言标签。 |
-| expansionText | 字符串 | 扩展文本。 |
+| lang | String | Lang 标签。 |
+| expansionText | String | 扩展文本。 |
 
 ### 另请参见
 
-* 类 [BDCProperties](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,12 +37,14 @@ public BDCProperties(int? mcid, string lang = null, string expansionText = null)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| mcid | 可空`1 | MCID。 |
-| lang | 字符串 | 语言标签。 |
-| expansionText | 字符串 | 扩展文本。 |
+| mcid | Nullable`1 | MCID。 |
+| lang | String | Lang 标签。 |
+| expansionText | String | 扩展文本。 |
 
 ### 另请参见
 
-* 类 [BDCProperties](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

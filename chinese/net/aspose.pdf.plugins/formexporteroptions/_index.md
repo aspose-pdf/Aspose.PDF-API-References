@@ -1,9 +1,9 @@
 ---
-title: Class FormExporterOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormExporterOptions class. 表示 FormExporter 插件的选项
+title: "类 FormExporterOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FormExporterOptions 类。表示 FormExporter 插件的选项"
 type: docs
-weight: 8680
+weight: 8810
 url: /zh/net/aspose.pdf.plugins/formexporteroptions/
 ---
 ## FormExporterOptions class
@@ -14,22 +14,24 @@ url: /zh/net/aspose.pdf.plugins/formexporteroptions/
 public abstract class FormExporterOptions : FormOptions
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | 返回 Form.... 插件数据集合。 |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 获取用于保存操作结果的添加目标集合。 |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | 返回 Form.... 插件的数据集合。 |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 获取已添加目标的集合，用于保存操作结果。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | 将新的数据源添加到 Form... 插件数据集合。 |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | 将新的数据源添加到 Form... 插件数据集合。 |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | 向 Form... 插件的数据集合添加新数据源。 |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | 向 Form... 插件的数据集合添加新数据源。 |
 
-### See Also
+### 另请参见
 
 * class [FormOptions](../formoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

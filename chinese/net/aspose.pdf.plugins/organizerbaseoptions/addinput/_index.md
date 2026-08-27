@@ -1,14 +1,14 @@
 ---
-title: OrganizerBaseOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: OrganizerBaseOptions 方法。将新的数据源添加到 PdfOrganizer 插件数据集合
+title: "OrganizerBaseOptions.AddInput"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OrganizerBaseOptions 方法。向 PdfOrganizer 插件数据集合添加新的数据源"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.plugins/organizerbaseoptions/addinput/
 ---
-## OrganizerBaseOptions.AddInput 方法
+## OrganizerBaseOptions.AddInput method
 
-将新的数据源添加到 PdfOrganizer 插件数据集合。
+向 PdfOrganizer 插件的数据集合添加新数据源。
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -18,9 +18,11 @@ public void AddInput(IDataSource dataSource)
 | --- | --- | --- |
 | dataSource | IDataSource | 要添加的数据源。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IDataSource](../../idatasource/)
-* 类 [OrganizerBaseOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

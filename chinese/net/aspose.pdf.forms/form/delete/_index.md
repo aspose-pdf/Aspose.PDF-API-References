@@ -1,9 +1,9 @@
 ---
-title: Form.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。 从表单中删除字段
+title: "Form.Delete"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。删除表单中的字段。"
 type: docs
-weight: 230
+weight: 250
 url: /zh/net/aspose.pdf.forms/form/delete/
 ---
 ## Delete(Field) {#delete}
@@ -16,9 +16,9 @@ public void Delete(Field field)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| field | Field | 必须删除的字段。 |
+| 字段 | 字段 | 必须删除的字段。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Field](../../field/)
 * class [Form](../)
@@ -29,7 +29,7 @@ public void Delete(Field field)
 
 ## Delete(string) {#delete_1}
 
-通过名称从表单中删除字段。
+按名称从表单中删除字段。
 
 ```csharp
 public void Delete(string fieldName)
@@ -37,10 +37,12 @@ public void Delete(string fieldName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 必须删除的字段名称。 |
+| fieldName | String | 必须删除的字段的名称。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

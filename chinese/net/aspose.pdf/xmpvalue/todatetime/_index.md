@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToDateTime
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 方法。转换为日期时间
+title: "XmpValue.ToDateTime"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 方法。转换为日期时间"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/xmpvalue/todatetime/
 ---
-## XmpValue.ToDateTime 方法
+## XmpValue.ToDateTime method
 
 转换为日期时间。
 
@@ -18,8 +18,10 @@ public DateTime ToDateTime()
 
 DateTime 值。
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

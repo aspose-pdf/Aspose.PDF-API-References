@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetSubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 方法。设置提交按钮的提交标志
+title: "FormEditor.SetSubmitFlag"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 方法。设置提交按钮的提交标志。"
 type: docs
 weight: 330
 url: /zh/net/aspose.pdf.facades/formeditor/setsubmitflag/
 ---
-## FormEditor.SetSubmitFlag 方法
+## FormEditor.SetSubmitFlag method
 
 设置提交按钮的提交标志。
 
@@ -30,9 +30,11 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitFlag.
 formEditor.SetSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [SubmitFormFlag](../../submitformflag/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

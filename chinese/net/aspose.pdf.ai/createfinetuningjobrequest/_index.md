@@ -1,12 +1,12 @@
 ---
-title: Class CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CreateFineTuningJobRequest 类。表示对创建微调作业端点的请求
+title: "类 CreateFineTuningJobRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.CreateFineTuningJobRequest 类。表示针对 Create FineTuning Job 端点的请求"
 type: docs
-weight: 280
+weight: 290
 url: /zh/net/aspose.pdf.ai/createfinetuningjobrequest/
 ---
-## CreateFineTuningJobRequest 类
+## CreateFineTuningJobRequest class
 
 表示对创建微调作业端点的请求。
 
@@ -25,10 +25,12 @@ public class CreateFineTuningJobRequest
 | 名称 | 描述 |
 | --- | --- |
 | [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | 获取或设置用于微调作业的超参数。 |
-| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | 获取或设置要微调的模型名称。您可以选择支持的模型之一。 |
-| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | 获取或设置包含训练数据的上传文件的 ID。 |
+| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | 获取或设置要微调的模型名称。您可以选择受支持的模型之一。 |
+| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | 获取或设置包含训练数据的已上传文件的 ID。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement 属性。获取当前元素的 StructureTextState 对象
+title: "TableCellElement.StructureTextState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableCellElement 属性。获取当前元素的 StructureTextState 对象"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/
 ---
-## TableCellElement.StructureTextState 属性
+## TableCellElement.StructureTextState property
 
 获取当前元素的 StructureTextState 对象。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/
 public StructureTextState StructureTextState { get; }
 ```
 
-### 属性值
+### Property Value
 
 当前元素的 StructureTextState 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTextState](../../structuretextstate/)
-* 类 [TableCellElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

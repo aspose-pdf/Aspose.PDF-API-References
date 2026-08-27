@@ -1,14 +1,14 @@
 ---
-title: SignaturesCompromiseDetector.Check
-second_title: Aspose.PDF for .NET API Reference
-description: SignaturesCompromiseDetector 方法。检查文档的数字签名是否被篡改
+title: "SignaturesCompromiseDetector.Check"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SignaturesCompromiseDetector 方法。检查文档的数字签名是否受损"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/signaturescompromisedetector/check/
 ---
-## SignaturesCompromiseDetector.Check 方法
+## SignaturesCompromiseDetector.Check method
 
-检查文档的数字签名是否被篡改。
+检查 Document 的数字签名是否被破坏。
 
 ```csharp
 public bool Check(out CompromiseCheckResult compromiseCheckResult)
@@ -20,15 +20,17 @@ public bool Check(out CompromiseCheckResult compromiseCheckResult)
 
 ### 返回值
 
-如果未检测到签名的篡改，则返回 True。
+如果未检测到签名受损，则为 True。
 
 ## 备注
 
 对没有数字签名的文档使用此方法将返回 `True`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
-* 类 [SignaturesCompromiseDetector](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
+* class [SignaturesCompromiseDetector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

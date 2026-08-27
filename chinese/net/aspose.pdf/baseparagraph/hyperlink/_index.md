@@ -1,22 +1,24 @@
 ---
-title: BaseParagraph.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph 属性。获取或设置用于 PDF 生成器的片段超链接
+title: "BaseParagraph.Hyperlink"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseParagraph 属性。获取或设置片段的超链接，用于 PDF 生成器。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/baseparagraph/hyperlink/
 ---
-## BaseParagraph.Hyperlink 属性
+## BaseParagraph.Hyperlink property
 
-获取或设置用于 PDF 生成器的片段超链接。
+获取或设置片段超链接（用于 PDF 生成器）。
 
 ```csharp
 public virtual Hyperlink Hyperlink { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Hyperlink](../../hyperlink/)
-* 类 [BaseParagraph](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Hyperlink](../../hyperlink/)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

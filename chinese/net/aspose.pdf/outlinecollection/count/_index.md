@@ -1,21 +1,23 @@
 ---
-title: OutlineCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 属性。集合项的数量。请不要与 VisibleCount 混淆：VisibleCount 获取所有级别上可见大纲项的数量。
+title: "OutlineCollection.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineCollection 属性。集合项的计数。请不要与 VisibleCount 混淆，VisibleCount 获取所有层级中可见大纲项的数量。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/outlinecollection/count/
 ---
-## OutlineCollection.Count 属性
+## OutlineCollection.Count property
 
-集合项的数量。请不要与 VisibleCount 混淆：VisibleCount 获取所有级别上可见大纲项的数量。
+集合项的计数。请不要与 VisibleCount 混淆：VisibleCount 获取所有层级中可见大纲项的数量。
 
 ```csharp
 public override int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

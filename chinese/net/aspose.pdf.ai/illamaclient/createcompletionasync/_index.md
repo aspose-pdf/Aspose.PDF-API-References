@@ -1,12 +1,12 @@
 ---
-title: ILlamaClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ILlamaClient 方法。 在 Llama 服务中创建聊天完成请求
+title: "ILlamaClient.CreateCompletionAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ILlamaClient 方法。创建 Llama 服务中的聊天完成请求"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/illamaclient/createcompletionasync/
 ---
-## ILlamaClient.CreateCompletionAsync 方法
+## ILlamaClient.CreateCompletionAsync method
 
 在 Llama 服务中创建聊天完成请求。
 
@@ -25,10 +25,12 @@ public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
 
 聊天完成响应。
 
-### 另请参阅
+### 另请参见
 
-* 类 [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
-* 类 [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
-* 接口 [ILlamaClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
+* class [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
+* interface [ILlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

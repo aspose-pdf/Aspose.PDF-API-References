@@ -1,21 +1,23 @@
 ---
-title: Paragraphs.Count
-second_title: Aspose.PDF for .NET API Reference
-description: 段落属性。获取段落数量
+title: "Paragraphs.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Paragraphs 属性。获取段落计数"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/paragraphs/count/
 ---
-## 段落.计数属性
+## Paragraphs.Count property
 
-获取段落数量。
+获取段落计数。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Paragraphs](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

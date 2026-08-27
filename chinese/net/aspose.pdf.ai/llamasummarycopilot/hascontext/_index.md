@@ -1,19 +1,21 @@
 ---
-title: LlamaSummaryCopilot.HasContext
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilot property.
+title: "LlamaSummaryCopilot.HasContext"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaSummaryCopilot 属性。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/llamasummarycopilot/hascontext/
 ---
-## LlamaSummaryCopilot.HasContext 属性
+## LlamaSummaryCopilot.HasContext property
 
 ```csharp
 public bool HasContext { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [LlamaSummaryCopilot](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

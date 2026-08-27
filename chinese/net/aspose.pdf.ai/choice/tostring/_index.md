@@ -1,21 +1,23 @@
 ---
-title: Choice.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Choice 方法。返回选择的内容作为字符串
+title: "Choice.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Choice 方法。返回选择的内容字符串"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.ai/choice/tostring/
 ---
-## Choice.ToString 方法
+## Choice.ToString method
 
-返回选择的内容作为字符串。
+以字符串形式返回选项的内容。
 
 ```csharp
 public override string ToString()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Choice](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Choice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

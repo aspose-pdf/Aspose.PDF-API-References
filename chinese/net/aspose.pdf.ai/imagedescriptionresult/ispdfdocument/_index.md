@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.IsPdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult 属性。获取一个值，指示 ImageDescriptionResult 是否包含 PDF 文档
+title: "ImageDescriptionResult.IsPdfDocument"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImageDescriptionResult 属性。获取一个值，指示 ImageDescriptionResult 是否包含 PDF 文档"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/imagedescriptionresult/ispdfdocument/
 ---
-## ImageDescriptionResult.IsPdfDocument 属性
+## ImageDescriptionResult.IsPdfDocument property
 
 获取一个值，指示 ImageDescriptionResult 是否包含 PDF 文档。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/imagedescriptionresult/ispdfdocument/
 public bool IsPdfDocument { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImageDescriptionResult](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreModifyRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreModifyRequest 属性。获取或设置向量存储的名称
+title: "VectorStoreModifyRequest.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreModifyRequest 属性。获取或设置向量存储的名称。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/vectorstoremodifyrequest/name/
 ---
-## VectorStoreModifyRequest.Name 属性
+## VectorStoreModifyRequest.Name property
 
 获取或设置向量存储的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/vectorstoremodifyrequest/name/
 public string Name { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreModifyRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.StartEndPageEventArgs 类。提供 PdfViewer 类的 StartPage 和 EndPage 事件的数据
+title: "类 StartEndPageEventArgs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Printing.StartEndPageEventArgs 类。提供 PdfViewer 类的 StartPage 和 EndPage 事件的数据。"
 type: docs
-weight: 9710
+weight: 9860
 url: /zh/net/aspose.pdf.printing/startendpageeventargs/
 ---
-## StartEndPageEventArgs 类
+## StartEndPageEventArgs class
 
-提供 [`StartPage`](../../aspose.pdf.facades/pdfviewer/startpage/) 和 [`EndPage`](../../aspose.pdf.facades/pdfviewer/endpage/) 事件的数据，属于 [`PdfViewer`](../../aspose.pdf.facades/pdfviewer/) 类。
+提供 [`StartPage`](../../aspose.pdf.facades/pdfviewer/startpage/) 和 [`EndPage`](../../aspose.pdf.facades/pdfviewer/endpage/) 事件的 [`PdfViewer`](../../aspose.pdf.facades/pdfviewer/) 类的数据。
 
 ```csharp
 public sealed class StartEndPageEventArgs : EventArgs
@@ -25,11 +25,13 @@ public sealed class StartEndPageEventArgs : EventArgs
 | 名称 | 描述 |
 | --- | --- |
 | readonly [CurrentCopy](../../aspose.pdf.printing/startendpageeventargs/currentcopy/) | 获取当前正在打印的副本编号。 |
-| readonly [CurrentPage](../../aspose.pdf.printing/startendpageeventargs/currentpage/) | 获取当前正在打印的页面编号。 |
+| readonly [CurrentPage](../../aspose.pdf.printing/startendpageeventargs/currentpage/) | 获取当前正在打印的页码。 |
 | readonly [TotalCopies](../../aspose.pdf.printing/startendpageeventargs/totalcopies/) | 获取要打印的副本总数。 |
-| readonly [TotalPages](../../aspose.pdf.printing/startendpageeventargs/totalpages/) | 获取要打印的页面总数。 |
+| readonly [TotalPages](../../aspose.pdf.printing/startendpageeventargs/totalpages/) | 获取要打印的页数总计。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

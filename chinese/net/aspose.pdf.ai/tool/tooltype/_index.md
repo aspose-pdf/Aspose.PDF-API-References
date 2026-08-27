@@ -1,21 +1,23 @@
 ---
-title: Tool.ToolType
-second_title: Aspose.PDF for .NET API Reference
-description: 工具属性。获取或设置工具的类型。目前仅支持功能
+title: "Tool.ToolType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Tool 属性。获取或设置工具的类型。目前仅支持 function。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.ai/tool/tooltype/
 ---
-## Tool.ToolType 属性
+## Tool.ToolType property
 
-获取或设置工具的类型。目前，仅支持功能。
+获取或设置工具的类型。目前仅支持 function。
 
 ```csharp
 public string ToolType { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Tool](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 属性。指示单选按钮是水平排列还是垂直排列的标志，默认值为 true
+title: "FormEditor.RadioHoriz"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 属性。指示单选按钮是水平还是垂直排列的标志，默认值为 true。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
-## FormEditor.RadioHoriz 属性
+## FormEditor.RadioHoriz property
 
-指示单选按钮是水平排列还是垂直排列的标志，默认值为 true。
+指示单选按钮是水平还是垂直排列的标志，默认值为 true。
 
 ```csharp
 public bool RadioHoriz { get; set; }
@@ -25,8 +25,10 @@ formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 3
 formEditor.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

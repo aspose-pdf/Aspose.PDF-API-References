@@ -1,7 +1,7 @@
 ---
-title: ImageStamp.ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp 构造函数。初始化 ImageStamp 类的新实例
+title: "ImageStamp.ImageStamp"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImageStamp 构造函数。初始化 ImageStamp 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/imagestamp/imagestamp/
@@ -16,13 +16,13 @@ public ImageStamp(Stream image)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Stream | 包含图像数据的流。 |
+| 图像 | Stream | 包含图像数据的流。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImageStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public ImageStamp(string fileName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fileName | String | 包含图像的文件名。 |
+| fileName | String | 包含图像的文件名称。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImageStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

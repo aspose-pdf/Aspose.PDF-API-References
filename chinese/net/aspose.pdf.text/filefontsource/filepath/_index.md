@@ -1,12 +1,12 @@
 ---
-title: FileFontSource.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: FileFontSource 属性。字体文件的路径
+title: "FileFontSource.FilePath"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileFontSource 属性。字体文件的路径"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/filefontsource/filepath/
 ---
-## FileFontSource.FilePath 属性
+## FileFontSource.FilePath property
 
 字体文件的路径。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/filefontsource/filepath/
 public string FilePath { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileFontSource](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

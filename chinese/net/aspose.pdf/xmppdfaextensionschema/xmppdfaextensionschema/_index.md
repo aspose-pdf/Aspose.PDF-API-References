@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.XmpPdfAExtensionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 构造函数。初始化新对象
+title: "XmpPdfAExtensionSchema.XmpPdfAExtensionSchema"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionSchema 构造函数。初始化新对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/xmppdfaextensionschema/
 ---
-## XmpPdfAExtensionSchema 构造函数
+## XmpPdfAExtensionSchema constructor
 
 初始化新对象。
 
@@ -24,3 +24,5 @@ public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

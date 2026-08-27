@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 字段。文档大纲可见
+title: "ViewerPreference.NonFullScreenPageModeUseOutlines"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ViewerPreference 字段。文档大纲可见"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines/
 ---
-## ViewerPreference.NonFullScreenPageModeUseOutlines 字段
+## ViewerPreference.NonFullScreenPageModeUseOutlines field
 
 文档大纲可见。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutline
 public const int NonFullScreenPageModeUseOutlines;
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

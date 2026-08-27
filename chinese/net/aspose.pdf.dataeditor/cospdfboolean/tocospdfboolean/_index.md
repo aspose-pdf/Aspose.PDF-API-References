@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.ToCosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean 方法。尝试将此实例转换为 CosPdfBoolean
+title: "CosPdfBoolean.ToCosPdfBoolean"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfBoolean 方法。尝试将此实例转换为 CosPdfBoolean"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.dataeditor/cospdfboolean/tocospdfboolean/
 ---
-## CosPdfBoolean.ToCosPdfBoolean 方法
+## CosPdfBoolean.ToCosPdfBoolean method
 
 尝试将此实例转换为 [`CosPdfBoolean`](../)。
 
@@ -16,10 +16,12 @@ public override CosPdfBoolean ToCosPdfBoolean()
 
 ### 返回值
 
-如果实例不是 [`CosPdfBoolean`](../)，则返回 null，否则返回 [`CosPdfBoolean`](../)。
+如果实例不是 [`CosPdfBoolean`](../) 则为 null，否则为 [`CosPdfBoolean`](../)。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfBoolean](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

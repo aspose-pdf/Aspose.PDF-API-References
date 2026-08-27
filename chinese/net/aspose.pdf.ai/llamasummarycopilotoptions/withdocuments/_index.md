@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions 方法。设置摘要助手选项的文档集合
+title: "LlamaSummaryCopilotOptions.WithDocuments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaSummaryCopilotOptions 方法。设置摘要协助选项的文档集合"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-设置摘要助手选项的文档集合。
+设置摘要协作员选项的文档集合。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -22,18 +22,18 @@ public LlamaSummaryCopilotOptions WithDocuments(DocumentCollection documentColle
 
 当前的 [`LlamaSummaryCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [DocumentCollection](../../documentcollection/)
-* 类 [LlamaSummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentCollection](../../documentcollection/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-将多个文本文档添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加多个文本文档。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -47,18 +47,18 @@ public LlamaSummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments
 
 当前的 [`LlamaSummaryCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [TextDocument](../../textdocument/)
-* 类 [LlamaSummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-将多个 PDF 文档添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加多个 PDF 文档。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -72,18 +72,18 @@ public LlamaSummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 当前的 [`LlamaSummaryCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [PdfDocument](../../pdfdocument/)
-* 类 [LlamaSummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-将多个文档路径添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加多个文档路径。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<string> filePaths)
@@ -97,8 +97,10 @@ public LlamaSummaryCopilotOptions WithDocuments(List<string> filePaths)
 
 当前的 [`LlamaSummaryCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [LlamaSummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PKCS7Detached.PKCS7Detached
-second_title: Aspose.PDF for .NET API Reference
-description: PKCS7Detached 构造函数。初始化 PKCS7Detached 类的新实例
+title: "PKCS7Detached.PKCS7Detached"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PKCS7Detached 构造函数。初始化 PKCS7Detached 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
@@ -16,13 +16,13 @@ public PKCS7Detached(Stream image)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Stream | 此图像将定义页面上的签名外观。 |
+| 图像 | Stream | 此图像将在页面上定义签名外观。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PKCS7Detached](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,15 +36,15 @@ public PKCS7Detached(Stream image, DigestHashAlgorithm digestHashAlgorithm)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Stream | 此图像将定义页面上的签名外观。 |
-| digestHashAlgorithm | DigestHashAlgorithm | 用于签署文档的摘要算法。 |
+| 图像 | Stream | 此图像将在页面上定义签名外观。 |
+| digestHashAlgorithm | DigestHashAlgorithm | 用于对文档进行签名的摘要算法。 |
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* 类 [PKCS7Detached](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -56,11 +56,11 @@ public PKCS7Detached(Stream image, DigestHashAlgorithm digestHashAlgorithm)
 public PKCS7Detached()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PKCS7Detached](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,14 +74,14 @@ public PKCS7Detached(DigestHashAlgorithm digestHashAlgorithm)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| digestHashAlgorithm | DigestHashAlgorithm | 用于签署文档的摘要算法。 |
+| digestHashAlgorithm | DigestHashAlgorithm | 用于对文档进行签名的摘要算法。 |
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* 类 [PKCS7Detached](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -98,11 +98,11 @@ public PKCS7Detached(string pfx, string password)
 | pfx | String | 包含用于签名的证书的 Pfx 文件。 |
 | password | String | 用于访问证书中私钥的密码。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PKCS7Detached](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -118,14 +118,14 @@ public PKCS7Detached(string pfx, string password, DigestHashAlgorithm digestHash
 | --- | --- | --- |
 | pfx | String | 包含用于签名的证书的 Pfx 文件。 |
 | password | String | 用于访问证书中私钥的密码。 |
-| digestHashAlgorithm | DigestHashAlgorithm | 用于签署文档的摘要算法。 |
+| digestHashAlgorithm | DigestHashAlgorithm | 用于对文档进行签名的摘要算法。 |
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* 类 [PKCS7Detached](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -142,11 +142,11 @@ public PKCS7Detached(Stream pfx, string password)
 | pfx | Stream | 以 pfx 形式组织的证书数据流。 |
 | password | String | 用于访问证书中私钥的密码。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PKCS7Detached](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -162,11 +162,13 @@ public PKCS7Detached(Stream pfx, string password, DigestHashAlgorithm digestHash
 | --- | --- | --- |
 | pfx | Stream | 以 pfx 形式组织的证书数据流。 |
 | password | String | 用于访问证书中私钥的密码。 |
-| digestHashAlgorithm | DigestHashAlgorithm | 用于签署文档的摘要算法。 |
+| digestHashAlgorithm | DigestHashAlgorithm | 用于对文档进行签名的摘要算法。 |
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* 类 [PKCS7Detached](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

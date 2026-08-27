@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.UseDiskBuffer
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 属性。如果使用此选项，则目标文档将定期保存在磁盘上，并且进一步的连接将作为增量更新应用于它。
+title: "PdfFileEditor.UseDiskBuffer"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 属性。如果使用此选项，目标文档将定期保存到磁盘，并且后续的合并将作为增量更新应用于该文档。"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.facades/pdffileeditor/usediskbuffer/
 ---
-## PdfFileEditor.UseDiskBuffer 属性
+## PdfFileEditor.UseDiskBuffer property
 
-如果使用此选项，则目标文档将定期保存在磁盘上，并且进一步的连接将作为增量更新应用于它。
+如果使用此选项，则目标文档将定期保存到磁盘，后续的合并将作为增量更新应用于该文档。
 
 ```csharp
 public bool UseDiskBuffer { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

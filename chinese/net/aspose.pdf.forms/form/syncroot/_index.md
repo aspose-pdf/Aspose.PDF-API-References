@@ -1,12 +1,12 @@
 ---
-title: Form.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: 表单属性。返回同步对象
+title: "Form.SyncRoot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 属性。返回同步对象"
 type: docs
-weight: 150
+weight: 170
 url: /zh/net/aspose.pdf.forms/form/syncroot/
 ---
-## Form.SyncRoot 属性
+## Form.SyncRoot property
 
 返回同步对象。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/form/syncroot/
 public object SyncRoot { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

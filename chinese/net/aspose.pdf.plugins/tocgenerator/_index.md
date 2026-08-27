@@ -1,12 +1,12 @@
 ---
-title: Class TocGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.TocGenerator 类。表示 Aspose.PDF TocGenerator 插件
+title: "类 TocGenerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.TocGenerator 类。表示 Aspose.PDF TocGenerator 插件"
 type: docs
-weight: 9430
+weight: 9580
 url: /zh/net/aspose.pdf.plugins/tocgenerator/
 ---
-## TocGenerator 类
+## TocGenerator class
 
 表示 Aspose.PDF TocGenerator 插件。
 
@@ -24,29 +24,31 @@ public sealed class TocGenerator : IDisposable, IPlugin
 
 | 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | IDisposable 的实现。实际上，对于 TocGenerator 来说并不是必需的。 |
+| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | 实现 IDisposable。事实上，对 TocGenerator 来说并非必需。 |
 | [Process](../../aspose.pdf.plugins/tocgenerator/process/)(IPluginOptions) | 使用指定参数启动 PdfGenerator 处理。 |
 
 ## 示例
 
-该示例演示如何将 TOC 添加到 PDF 文件中。
+此示例演示如何向 PDF 文件添加目录（TOC）。
 
 ```csharp
-// create TocGenerator
+// 创建 TocGenerator
 var generator = new TocGenerator();
-// create TocOptions object to set instructions
+// 创建 TocOptions 对象以设置指令
 var opt = new TocOptions();
-// add input file paths
+// 添加输入文件路径
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// 设置输出文件路径
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// 执行提取过程
 generator.Process(opt);
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IPlugin](../iplugin/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

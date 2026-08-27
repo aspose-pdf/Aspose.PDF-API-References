@@ -1,12 +1,12 @@
 ---
-title: OutputIntents.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents 方法。 从集合中移除特定输出意图的第一次出现
+title: "OutputIntents.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutputIntents 方法。 从集合中移除特定输出意图的首次出现。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/outputintents/remove/
 ---
-## OutputIntents.Remove 方法
+## OutputIntents.Remove method
 
 从集合中移除特定输出意图的第一次出现。
 
@@ -20,11 +20,13 @@ public bool Remove(OutputIntent item)
 
 ### 返回值
 
-`true` 如果 *item* 成功从集合中移除；`false` 如果 *item* 在原始集合中未找到。
+`true` 表示 *item* 已成功从集合中移除；`false` 表示在原始集合中未找到 *item*。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutputIntent](../../outputintent/)
-* 类 [OutputIntents](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

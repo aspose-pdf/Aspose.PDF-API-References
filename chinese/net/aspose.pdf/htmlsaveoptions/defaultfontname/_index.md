@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.DefaultFontName
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 属性。指定用于替代任何未嵌入且未安装在系统中的文档字体的已安装字体的名称。如果为 null，则使用默认替代字体。
+title: "HtmlSaveOptions.DefaultFontName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 属性。指定已安装字体的名称，用于替代任何未嵌入且系统中未安装的 Document 字体。如果为 null，则使用默认的替代字体。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/htmlsaveoptions/defaultfontname/
 ---
-## HtmlSaveOptions.DefaultFontName 属性
+## HtmlSaveOptions.DefaultFontName property
 
-指定用于替代任何未嵌入且未安装在系统中的文档字体的已安装字体的名称。如果为 null，则使用默认替代字体。
+指定已安装字体的名称，用于替代系统中未嵌入且未安装的文档字体。如果为 null，则使用默认替代字体。
 
 ```csharp
 public string DefaultFontName { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 字体名称
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

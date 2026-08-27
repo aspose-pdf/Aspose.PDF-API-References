@@ -1,12 +1,12 @@
 ---
-title: PdfExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractorOptions 属性。返回操作名称
+title: "PdfExtractorOptions.OperationName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractorOptions 属性。返回操作名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/pdfextractoroptions/operationname/
 ---
-## PdfExtractorOptions.OperationName 属性
+## PdfExtractorOptions.OperationName property
 
 返回操作名称
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/pdfextractoroptions/operationname/
 public virtual string OperationName { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractorOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

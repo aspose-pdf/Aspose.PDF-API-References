@@ -1,14 +1,14 @@
 ---
-title: Enum BlendingColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.BlendingColorSpace 枚举。类表示混合颜色空间
+title: "枚举 BlendingColorSpace"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.BlendingColorSpace 枚举。类表示混合颜色空间"
 type: docs
-weight: 4180
+weight: 4300
 url: /zh/net/aspose.pdf.facades/blendingcolorspace/
 ---
-## BlendingColorSpace 枚举
+## BlendingColorSpace enumeration
 
-类表示混合颜色空间。
+表示混合颜色空间的类。
 
 ```csharp
 public enum BlendingColorSpace
@@ -23,7 +23,9 @@ public enum BlendingColorSpace
 | DeviceRGB | `2` | 混合颜色空间设置为 DeviceRGB。 |
 | DeviceCMYK | `3` | 混合颜色空间设置为 DeviceCMYK。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

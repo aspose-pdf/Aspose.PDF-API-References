@@ -1,14 +1,14 @@
 ---
-title: Document.PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取或设置在显示此文档的打印对话框时应选择的页面缩放选项
+title: "Document.PrintScaling"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取或设置在为此文档显示打印对话框时应选择的页面缩放选项。"
 type: docs
-weight: 510
+weight: 530
 url: /zh/net/aspose.pdf/document/printscaling/
 ---
-## Document.PrintScaling 属性
+## Document.PrintScaling property
 
-获取或设置在显示此文档的打印对话框时应选择的页面缩放选项。
+获取或设置在为此文档显示打印对话框时应选择的页面缩放选项。
 
 ```csharp
 public PrintScaling PrintScaling { get; set; }
@@ -20,3 +20,5 @@ public PrintScaling PrintScaling { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

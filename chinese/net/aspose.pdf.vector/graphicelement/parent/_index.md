@@ -1,12 +1,12 @@
 ---
-title: GraphicElement.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement 属性。获取元素所在的当前 XFormPlacement
+title: "GraphicElement.Parent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElement 属性。获取元素所在的当前 XFormPlacement"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.vector/graphicelement/parent/
 ---
-## GraphicElement.Parent 属性
+## GraphicElement.Parent property
 
 获取元素所在的当前 [`XFormPlacement`](../../xformplacement/)。
 
@@ -16,7 +16,9 @@ public XFormPlacement Parent { get; }
 
 ### 另请参见
 
-* 类 [XFormPlacement](../../xformplacement/)
-* 类 [GraphicElement](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XFormPlacement](../../xformplacement/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

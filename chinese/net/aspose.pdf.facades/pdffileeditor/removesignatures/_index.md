@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.RemoveSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 属性。如果为真，则所有签名将从字段中移除（字段将保留）；否则，您可能会获得无效的签名。
+title: "PdfFileEditor.RemoveSignatures"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 属性。如果为 true，所有签名将从字段中移除，字段将保留，否则可能导致无效签名。"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.facades/pdffileeditor/removesignatures/
 ---
-## PdfFileEditor.RemoveSignatures 属性
+## PdfFileEditor.RemoveSignatures property
 
-如果为真，则所有签名将从字段中移除（字段将保留）；否则，您可能会获得无效的签名。
+如果为 true，所有签名将从字段中移除（字段保留）；否则，可能会出现无效签名。
 
 ```csharp
 public bool RemoveSignatures { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

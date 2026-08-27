@@ -1,21 +1,23 @@
 ---
-title: PageSize.A3
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize 属性。A3 尺寸 420x297 毫米
+title: "PageSize.A3"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSize 属性。A3 大小 420x297 mm"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/pagesize/a3/
 ---
-## PageSize.A3 属性
+## PageSize.A3 property
 
-A3 尺寸 (420x297 毫米)。
+A3 尺寸 (420x297 mm)。
 
 ```csharp
 public static PageSize A3 { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

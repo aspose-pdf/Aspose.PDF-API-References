@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 方法。将操作符插入集合
+title: "BaseOperatorCollection.Insert"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseOperatorCollection 方法。将运算符插入集合"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/baseoperatorcollection/insert/
 ---
-## BaseOperatorCollection.Insert 方法
+## BaseOperatorCollection.Insert method
 
-将操作符插入集合。
+将运算符插入集合中。
 
 ```csharp
 public abstract void Insert(int index, Operator op)
@@ -16,12 +16,14 @@ public abstract void Insert(int index, Operator op)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 新操作符必须添加的索引 |
-| op | Operator | 将要插入的操作符 |
+| index | Int32 | 必须添加新运算符的索引 |
+| op | 运算符 | 将被插入的运算符 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../operator/)
-* 类 [BaseOperatorCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

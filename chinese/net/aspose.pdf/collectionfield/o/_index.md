@@ -1,12 +1,12 @@
 ---
-title: CollectionField.O
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionField 属性。获取字段名称在用户界面中的相对顺序。字段应由交互式 PDF 处理器按升序排序
+title: "CollectionField.O"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CollectionField 属性。获取字段名称在用户界面中的相对顺序。字段应由交互式 PDF 处理器按升序排序"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/collectionfield/o/
 ---
-## CollectionField.O 属性
+## CollectionField.O property
 
 获取字段名称在用户界面中的相对顺序。字段应由交互式 PDF 处理器按升序排序。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/collectionfield/o/
 public int? O { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CollectionField](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CollectionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

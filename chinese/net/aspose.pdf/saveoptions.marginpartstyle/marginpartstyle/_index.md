@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginPartStyle.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: MarginPartStyle 构造函数。创建 MarginPartStyle 类的实例并设置其值（以点为单位）
+title: "SaveOptions.MarginPartStyle.MarginPartStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarginPartStyle 构造函数。创建 MarginPartStyle 类的实例并以点为单位设置其值"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/
 ---
 ## MarginPartStyle(int) {#constructor_1}
 
-创建 MarginPartStyle 类的实例并设置其值（以点为单位）
+创建 MarginPartStyle 类的实例并以点为单位设置其值
 
 ```csharp
 public MarginPartStyle(int valueInPoints)
@@ -20,15 +20,15 @@ public MarginPartStyle(int valueInPoints)
 
 ### 另请参见
 
-* 类 [MarginPartStyle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MarginPartStyle(bool) {#constructor}
 
-创建 MarginPartStyle 类的实例并初始化其值（以点为单位）
+创建 MarginPartStyle 类的实例并以点为单位初始化其值
 
 ```csharp
 public MarginPartStyle(bool isAuto)
@@ -40,6 +40,8 @@ public MarginPartStyle(bool isAuto)
 
 ### 另请参见
 
-* 类 [MarginPartStyle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

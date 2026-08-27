@@ -1,14 +1,14 @@
 ---
-title: Form.ImportFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。 从流中导入提供的 JSON 格式的 PDF 表单字段
+title: "Form.ImportFromJson"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。将流中提供的 JSON 格式的 PDF 表单字段导入。"
 type: docs
-weight: 290
+weight: 310
 url: /zh/net/aspose.pdf.forms/form/importfromjson/
 ---
 ## ImportFromJson(Stream) {#importfromjson}
 
-从流中导入提供的 JSON 格式的 PDF 表单字段。
+从流中提供的 JSON 格式导入 PDF 表单字段。
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
@@ -20,7 +20,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 
 ### 返回值
 
-一个 [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) 的集合，指示每个表单字段的导入操作结果。
+一个集合，包含每个表单字段的导入操作结果，见 [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/)。
 
 ## 示例
 
@@ -32,18 +32,18 @@ fs.Close();
 document.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportFromJson(string) {#importfromjson_1}
 
-从指定文件中导入提供的 JSON 格式的 PDF 表单字段。
+从指定文件中提供的 JSON 格式导入 PDF 表单字段。
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
@@ -55,7 +55,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 
 ### 返回值
 
-一个 [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) 的集合，指示每个表单字段的导入操作结果。
+一个集合，包含每个表单字段的导入操作结果，见 [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/)。
 
 ## 示例
 
@@ -66,9 +66,11 @@ document.Form.ImportFormFieldsFromJson(jsonPath);
 document.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

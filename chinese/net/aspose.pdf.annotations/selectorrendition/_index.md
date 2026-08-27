@@ -1,14 +1,14 @@
 ---
-title: Class SelectorRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SelectorRendition 类。该类描述选择器表现
+title: "类 SelectorRendition"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.SelectorRendition 类。类描述选择器呈现"
 type: docs
-weight: 2520
+weight: 2620
 url: /zh/net/aspose.pdf.annotations/selectorrendition/
 ---
-## SelectorRendition 类
+## SelectorRendition class
 
-该类描述选择器表现。
+描述选择器呈现的类。
 
 ```csharp
 public sealed class SelectorRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class SelectorRendition : Rendition
 
 | 名称 | 描述 |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | 文本字符串，指定用于用户界面和通过 JavaScript 动作进行名称树查找的表现名称。 |
-| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | 获取表现数组。 |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | 获取表现类型。 |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | 用于用户界面以及通过 JavaScript 操作进行名称树查找的呈现名称的文本字符串。 |
+| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | 获取 renditions 数组。 |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | 获取呈现类型。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rendition](../rendition/)
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* class [Rendition](../rendition/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

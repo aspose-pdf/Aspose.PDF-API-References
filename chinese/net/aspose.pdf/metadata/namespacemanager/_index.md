@@ -1,12 +1,12 @@
 ---
-title: Metadata.NamespaceManager
-second_title: Aspose.PDF for .NET API Reference
-description: 元数据属性。获取命名空间管理器
+title: "Metadata.NamespaceManager"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Metadata 属性。 获取命名空间管理器"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/metadata/namespacemanager/
 ---
-## Metadata.NamespaceManager 属性
+## Metadata.NamespaceManager property
 
 获取命名空间管理器。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/metadata/namespacemanager/
 public XmlNamespaceManager NamespaceManager { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

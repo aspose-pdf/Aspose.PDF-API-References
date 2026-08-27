@@ -1,12 +1,12 @@
 ---
-title: INamedDestinationCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection 属性。获取目标名称的数组
+title: "INamedDestinationCollection.Names"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "INamedDestinationCollection 属性。获取目标名称的数组"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/inameddestinationcollection/names/
 ---
-## INamedDestinationCollection.Names 属性
+## INamedDestinationCollection.Names property
 
 获取目标名称的数组。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/inameddestinationcollection/names/
 public string[] Names { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [INamedDestinationCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

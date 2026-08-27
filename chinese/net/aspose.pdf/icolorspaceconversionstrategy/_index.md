@@ -1,14 +1,14 @@
 ---
-title: Interface IColorSpaceConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IColorSpaceConversionStrategy 接口。用于颜色空间转换策略的接口
+title: "接口 IColorSpaceConversionStrategy"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.IColorSpaceConversionStrategy 接口。用于颜色空间转换策略的接口。"
 type: docs
-weight: 5760
+weight: 5890
 url: /zh/net/aspose.pdf/icolorspaceconversionstrategy/
 ---
-## IColorSpaceConversionStrategy 接口
+## IColorSpaceConversionStrategy interface
 
-用于颜色空间转换策略的接口。
+颜色空间转换策略的接口。
 
 ```csharp
 public interface IColorSpaceConversionStrategy
@@ -20,7 +20,9 @@ public interface IColorSpaceConversionStrategy
 | --- | --- |
 | [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert/)(Page) | 转换文档的页面。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

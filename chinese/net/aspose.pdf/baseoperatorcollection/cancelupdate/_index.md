@@ -1,21 +1,23 @@
 ---
-title: BaseOperatorCollection.CancelUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 方法。取消最后一次更新。此方法可以在更改不应引发内容更新时调用。
+title: "BaseOperatorCollection.CancelUpdate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseOperatorCollection 方法。取消上一次更新。当更改不应触发内容更新时，可以调用此方法"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/baseoperatorcollection/cancelupdate/
 ---
-## BaseOperatorCollection.CancelUpdate 方法
+## BaseOperatorCollection.CancelUpdate method
 
-取消最后一次更新。此方法可以在更改不应引发内容更新时调用。
+取消上一次更新。当更改不应触发内容更新时，可调用此方法。
 
 ```csharp
 public abstract void CancelUpdate()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseOperatorCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: WarningInfo.WarningMessage
-second_title: Aspose.PDF for .NET API Reference
-description: WarningInfo 属性。返回警告消息的字符串表示
+title: "WarningInfo.WarningMessage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "WarningInfo 属性。返回警告消息的字符串表示"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/warninginfo/warningmessage/
 ---
-## WarningInfo.WarningMessage 属性
+## WarningInfo.WarningMessage property
 
 返回警告消息的字符串表示。
 
@@ -18,8 +18,10 @@ public string WarningMessage { get; }
 
 警告消息
 
-### 另见
+### 另请参见
 
-* 类 [WarningInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [WarningInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

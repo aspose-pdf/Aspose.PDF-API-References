@@ -1,21 +1,23 @@
 ---
-title: BaseOperatorCollection.SuppressUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 方法。抑制更新内容数据。在调用 ResumeUpdate 之前，内容流不会更新。
+title: "BaseOperatorCollection.SuppressUpdate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseOperatorCollection 方法。抑制内容数据的更新。内容流将在调用 ResumeUpdate 之前不会更新"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/baseoperatorcollection/suppressupdate/
 ---
-## BaseOperatorCollection.SuppressUpdate 方法
+## BaseOperatorCollection.SuppressUpdate method
 
-抑制更新内容数据。在调用 ResumeUpdate 之前，内容流不会更新。
+抑制内容数据的更新。内容流在调用 ResumeUpdate 之前不会被更新。
 
 ```csharp
 public abstract void SuppressUpdate()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseOperatorCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

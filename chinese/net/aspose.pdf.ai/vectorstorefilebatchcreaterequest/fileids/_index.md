@@ -1,21 +1,23 @@
 ---
-title: VectorStoreFileBatchCreateRequest.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchCreateRequest 属性。获取或设置向量存储应使用的文件 ID 列表。对于可以访问文件的工具，如 file_search，非常有用。
+title: "VectorStoreFileBatchCreateRequest.FileIds"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreFileBatchCreateRequest 属性。获取或设置向量存储应使用的文件 ID 列表。对于可以访问文件的 file_search 等工具很有用"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/
 ---
-## VectorStoreFileBatchCreateRequest.FileIds 属性
+## VectorStoreFileBatchCreateRequest.FileIds property
 
-获取或设置向量存储应使用的文件 ID 列表。对于可以访问文件的工具，如 file_search，非常有用。
+获取或设置向量存储应使用的文件 ID 列表。对于能够访问文件的 file_search 等工具很有用。
 
 ```csharp
 public List<string> FileIds { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreFileBatchCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState 属性。获取或设置文本的水平对齐方式
+title: "TextFragmentState.HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentState 属性。获取或设置文本的水平对齐方式。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.text/textfragmentstate/horizontalalignment/
 ---
-## TextFragmentState.HorizontalAlignment 属性
+## TextFragmentState.HorizontalAlignment property
 
 获取或设置文本的水平对齐方式。
 
@@ -18,9 +18,11 @@ public override HorizontalAlignment HorizontalAlignment { get; set; }
 
 HorizontalAlignment.None 等于 HorizontalAlignment.Left。请注意，TextFragmentState.VerticalAlignment 属性仅在新文档生成场景中有效。
 
-### 另请参阅
+### 另请参见
 
 * enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

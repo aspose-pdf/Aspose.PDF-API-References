@@ -1,19 +1,21 @@
 ---
-title: Document.DefaultNodesNumInSubtrees
-second_title: Aspose.PDF for .NET API Reference
-description: 文档字段。
+title: "Document.DefaultNodesNumInSubtrees"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 字段。"
 type: docs
-weight: 920
+weight: 940
 url: /zh/net/aspose.pdf/document/defaultnodesnuminsubtrees/
 ---
-## Document.DefaultNodesNumInSubtrees 字段
+## Document.DefaultNodesNumInSubtrees field
 
 ```csharp
 public const byte DefaultNodesNumInSubtrees;
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

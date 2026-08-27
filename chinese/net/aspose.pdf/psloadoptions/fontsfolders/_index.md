@@ -1,12 +1,12 @@
 ---
-title: PsLoadOptions.FontsFolders
-second_title: Aspose.PDF for .NET API Reference
-description: PsLoadOptions 属性。获取或设置字体文件夹路径
+title: "PsLoadOptions.FontsFolders"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PsLoadOptions 属性。获取或设置字体文件夹路径"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.pdf/psloadoptions/fontsfolders/
 ---
-## PsLoadOptions.FontsFolders 属性
+## PsLoadOptions.FontsFolders property
 
 获取或设置字体文件夹路径。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/psloadoptions/fontsfolders/
 public string[] FontsFolders { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PsLoadOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PsLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

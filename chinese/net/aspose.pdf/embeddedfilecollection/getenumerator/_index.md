@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection 方法。返回集合枚举器
+title: "EmbeddedFileCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EmbeddedFileCollection 方法。返回集合的枚举器"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/embeddedfilecollection/getenumerator/
 ---
-## EmbeddedFileCollection.GetEnumerator 方法
+## EmbeddedFileCollection.GetEnumerator method
 
 返回集合枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<FileSpecification> GetEnumerator()
 
 集合的枚举器。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileSpecification](../../filespecification/)
-* 类 [EmbeddedFileCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

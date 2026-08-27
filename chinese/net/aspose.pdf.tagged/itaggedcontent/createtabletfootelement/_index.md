@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTFootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。创建 TableTFootElement
+title: "ITaggedContent.CreateTableTFootElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。创建 TableTFootElement"
 type: docs
-weight: 310
+weight: 340
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
-## ITaggedContent.CreateTableTFootElement 方法
+## ITaggedContent.CreateTableTFootElement method
 
 创建 [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/)。
 
@@ -16,11 +16,13 @@ public TableTFootElement CreateTableTFootElement()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

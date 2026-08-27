@@ -1,12 +1,12 @@
 ---
-title: TextStyle.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle 属性。字体大小
+title: "TextStyle.FontSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextStyle 属性。字体大小"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/textstyle/fontsize/
 ---
-## TextStyle.FontSize 属性
+## TextStyle.FontSize property
 
 字体大小。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/textstyle/fontsize/
 public double FontSize { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextStyle](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

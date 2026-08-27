@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PDF for .NET API Reference
-description: 矩形属性。矩形的高度
+title: "Rectangle.Height"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 属性。矩形的高度"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/rectangle/height/
 ---
-## Rectangle.Height 属性
+## Rectangle.Height property
 
 矩形的高度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/rectangle/height/
 public double Height { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

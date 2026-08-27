@@ -1,30 +1,30 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings 构造函数。使用默认打印机初始化 PageSettings 类的新实例
+title: "PageSettings.PageSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSettings 构造函数。使用默认打印机初始化 PageSettings 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.printing/pagesettings/pagesettings/
 ---
 ## PageSettings() {#constructor}
 
-使用默认打印机初始化 [`PageSettings`](../) 类的新实例。
+使用默认打印机初始化一个新的 [`PageSettings`](../) 类实例。
 
 ```csharp
 public PageSettings()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSettings](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageSettings(PrinterSettings) {#constructor_1}
 
-使用指定的打印机初始化 [`PageSettings`](../) 类的新实例。
+使用指定的打印机初始化一个新的 [`PageSettings`](../) 类实例。
 
 ```csharp
 public PageSettings(PrinterSettings printerSettings)
@@ -40,9 +40,11 @@ public PageSettings(PrinterSettings printerSettings)
 | --- | --- |
 | ArgumentNullException | *printerSettings* 为 null。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PrinterSettings](../../printersettings/)
-* 类 [PageSettings](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

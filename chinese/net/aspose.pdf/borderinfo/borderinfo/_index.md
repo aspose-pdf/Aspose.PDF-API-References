@@ -1,7 +1,7 @@
 ---
-title: BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo 构造函数。初始化 BorderInfo 类的新实例
+title: "BorderInfo.BorderInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BorderInfo 构造函数。初始化 BorderInfo 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/borderinfo/borderinfo/
@@ -16,10 +16,10 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 指示边框侧面的信息。例如: (int)(BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderSide | BorderSide | 指示边框侧信息。例如：(int)(BorderSide.Left &#x7C; BorderSide.Top)。 |
 | borderColor | Color | 边框颜色。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [BorderSide](../../borderside/)
 * class [Color](../../color/)
@@ -37,7 +37,7 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 public BorderInfo()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -55,9 +55,9 @@ public BorderInfo(BorderSide borderSide)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 指示边框侧面的信息。例如: (BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderSide | BorderSide | 指示边框侧信息。例如：(BorderSide.Left &#x7C; BorderSide.Top)。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [BorderSide](../../borderside/)
 * class [BorderInfo](../)
@@ -76,10 +76,10 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 指示边框侧面的信息。例如: (BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderSide | BorderSide | 指示边框侧信息。例如：(BorderSide.Left &#x7C; BorderSide.Top)。 |
 | borderWidth | Single | 边框的宽度。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [BorderSide](../../borderside/)
 * class [BorderInfo](../)
@@ -98,11 +98,11 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 指示边框侧面的信息。例如: (BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderSide | BorderSide | 指示边框侧信息。例如：(BorderSide.Left &#x7C; BorderSide.Top)。 |
 | borderWidth | Single | 边框的宽度。 |
 | borderColor | Color | 边框颜色。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [BorderSide](../../borderside/)
 * class [Color](../../color/)
@@ -122,13 +122,15 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 指示边框侧面的信息。例如: (BorderSide.Left &#x7C; BorderSide.Top)。 |
-| info | GraphInfo | 边框信息。 |
+| borderSide | BorderSide | 指示边框侧信息。例如：(BorderSide.Left &#x7C; BorderSide.Top)。 |
+| 信息 | GraphInfo | 边框信息。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [BorderSide](../../borderside/)
 * class [GraphInfo](../../graphinfo/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

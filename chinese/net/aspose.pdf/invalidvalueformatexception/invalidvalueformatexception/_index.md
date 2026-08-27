@@ -1,7 +1,7 @@
 ---
-title: InvalidValueFormatException.InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidValueFormatException 构造函数。初始化 InvalidValueFormatException 类的新实例
+title: "InvalidValueFormatException.InvalidValueFormatException"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "InvalidValueFormatException 构造函数。初始化 InvalidValueFormatException 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
 public InvalidValueFormatException()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [InvalidValueFormatException](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [InvalidValueFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,10 +32,12 @@ public InvalidValueFormatException(string message)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | 字符串 | 异常消息。 |
+| 消息 | String | 异常消息。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [InvalidValueFormatException](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [InvalidValueFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TimestampAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.TimestampAlgorithmInfo 类。表示有关时间戳签名算法的信息的类
+title: "类 TimestampAlgorithmInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Security.TimestampAlgorithmInfo 类。表示用于时间戳签名算法信息的类"
 type: docs
-weight: 10030
+weight: 10210
 url: /zh/net/aspose.pdf.security/timestampalgorithminfo/
 ---
-## TimestampAlgorithmInfo 类
+## TimestampAlgorithmInfo class
 
-表示有关时间戳签名算法的信息的类。
+表示有关时间戳签名算法信息的类。
 
 ```csharp
 public sealed class TimestampAlgorithmInfo : SignatureAlgorithmInfo
@@ -30,13 +30,15 @@ public sealed class TimestampAlgorithmInfo : SignatureAlgorithmInfo
 
 | 名称 | 描述 |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | 获取用于签署 PDF 文档的签名算法类型。 |
-| readonly [ContentHashAlgorithm](../../aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/) | 获取对文档内容进行哈希并使用 [`DigestHashAlgorithm`](../signaturealgorithminfo/digesthashalgorithm/) 签名的哈希算法。 |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | 获取用于签署 PDF 文档的密码标准。 |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 获取用于签名的摘要哈希算法。对于时间戳，这是用于签署文档内容哈希的摘要哈希算法。 |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | 获取用于对 PDF 文档签名的签名算法类型。 |
+| readonly [ContentHashAlgorithm](../../aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/) | 获取对文档内容进行哈希并随后使用 [`DigestHashAlgorithm`](../signaturealgorithminfo/digesthashalgorithm/) 签名的哈希算法。 |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | 获取用于对 PDF 文档签名的加密标准。 |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 获取用于签名的摘要哈希算法。对于时间戳，这是用于对文档内容哈希进行签名的摘要哈希算法。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [SignatureAlgorithmInfo](../signaturealgorithminfo/)
-* 命名空间 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* 程序集 [Aspose.PDF](../../)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

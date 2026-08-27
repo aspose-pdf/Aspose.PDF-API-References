@@ -1,14 +1,14 @@
 ---
-title: PdfAction.GetECMAScriptString
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAction 方法。获取 ECMAScript 动作的字符串
+title: "PdfAction.GetECMAScriptString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAction 方法。获取 ECMAScript 操作的字符串"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/pdfaction/getecmascriptstring/
 ---
-## PdfAction.GetECMAScriptString 方法
+## PdfAction.GetECMAScriptString method
 
-获取 ECMAScript 动作的字符串。
+获取 ECMAScript 操作的字符串。
 
 ```csharp
 public string GetECMAScriptString()
@@ -16,10 +16,12 @@ public string GetECMAScriptString()
 
 ### 返回值
 
-返回 ECMAScript 动作的 JS 条目的字符串，否则返回 null。
+返回 ECMAScript 操作的 JS 条目的字符串，若无则返回 null。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAction](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

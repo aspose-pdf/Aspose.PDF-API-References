@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest 方法。创建一个新的 ThreadMessageCreateRequest，角色设置为用户
+title: "ThreadMessageCreateRequest.FromUser"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ThreadMessageCreateRequest 方法。创建一个角色设置为 User 的新 ThreadMessageCreateRequest"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/
 ---
-## ThreadMessageCreateRequest.FromUser 方法
+## ThreadMessageCreateRequest.FromUser method
 
-创建一个新的 [`ThreadMessageCreateRequest`](../)，角色设置为用户。
+创建一个角色设置为 User 的新 [`ThreadMessageCreateRequest`](../)。
 
 ```csharp
 public static ThreadMessageCreateRequest FromUser()
@@ -16,10 +16,12 @@ public static ThreadMessageCreateRequest FromUser()
 
 ### 返回值
 
-一个新的 [`ThreadMessageCreateRequest`](../) 实例，角色设置为用户。
+一个角色设置为 User 的新 [`ThreadMessageCreateRequest`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ThreadMessageCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

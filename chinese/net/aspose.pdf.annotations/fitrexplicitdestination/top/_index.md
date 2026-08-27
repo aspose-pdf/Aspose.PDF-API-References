@@ -1,12 +1,12 @@
 ---
-title: FitRExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: FitRExplicitDestination 属性。获取可见矩形的顶部垂直坐标
+title: "FitRExplicitDestination.Top"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FitRExplicitDestination 属性。获取可见矩形的顶部垂直坐标。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/fitrexplicitdestination/top/
 ---
-## FitRExplicitDestination.Top 属性
+## FitRExplicitDestination.Top property
 
 获取可见矩形的顶部垂直坐标。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/fitrexplicitdestination/top/
 public double Top { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FitRExplicitDestination](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

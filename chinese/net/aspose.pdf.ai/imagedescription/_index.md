@@ -1,12 +1,12 @@
 ---
-title: Class ImageDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ImageDescription 类。表示图像描述
+title: "类 ImageDescription"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.ImageDescription 类。表示图像描述"
 type: docs
-weight: 610
+weight: 660
 url: /zh/net/aspose.pdf.ai/imagedescription/
 ---
-## ImageDescription 类
+## ImageDescription class
 
 表示图像描述。
 
@@ -24,13 +24,15 @@ public class ImageDescription
 
 | 名称 | 描述 |
 | --- | --- |
-| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } | 获取或设置与图像相关的描述。 |
+| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } | 获取或设置与图像关联的描述。 |
 | [ImageBytes](../../aspose.pdf.ai/imagedescription/imagebytes/) { get; set; } | 获取或设置表示图像的字节数组。 |
 | [Name](../../aspose.pdf.ai/imagedescription/name/) { get; set; } | 获取或设置图像的名称。 |
 | [PageNumber](../../aspose.pdf.ai/imagedescription/pagenumber/) { get; set; } | 获取或设置图像所在的页码。 |
 | [Rectangle](../../aspose.pdf.ai/imagedescription/rectangle/) { get; set; } | 获取或设置图像的矩形信息。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

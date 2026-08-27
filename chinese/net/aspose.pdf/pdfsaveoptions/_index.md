@@ -1,46 +1,46 @@
 ---
-title: Class PdfSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfSaveOptions 类。导出到 Pdf 格式的保存选项
+title: "类 PdfSaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PdfSaveOptions 类。导出为 PDF 格式的保存选项。"
 type: docs
-weight: 8430
+weight: 8570
 url: /zh/net/aspose.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
 
-导出到 Pdf 格式的保存选项
+导出为 PDF 格式的保存选项。
 
 ```csharp
 public class PdfSaveOptions : SaveOptions
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [PdfSaveOptions](pdfsaveoptions/)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置一个布尔值，指示在准备 aps 页面时是否将字体字形缓存。提高将 pdf 转换为其他格式的性能，但会增加内存消耗。 |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置一个布尔值，指示在文档保存到响应后，Response 对象是否会被关闭。 |
-| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | 默认用于计算机上缺失字体的字体名称。当保存到 PDF 的 PDF 文档包含在文档本身和设备上不可用的字体时，API 会用默认字体替换这些字体（如果在设备上找到的字体与 [`DefaultFontName`](./defaultfontname/) 匹配） |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置布尔值，以指示在准备 APS 页面时是否缓存字体字形。可提升 PDF 转换为其他格式的性能，但会增加内存消耗。 |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置布尔值，以指示文档保存到响应后是否关闭 Response 对象。 |
+| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | 默认使用的字体名称用于计算机上缺失的字体。当保存为 PDF 的文档中包含在文档本身和设备上不可用的字体时，API 会将这些字体替换为默认字体（如果设备上存在具有 [`DefaultFontName`](./defaultfontname/) 的字体）。 |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | 数据保存的格式。 |
 | [TempPath](../../aspose.pdf/pdfsaveoptions/temppath/) { get; set; } | 临时文件的路径。 |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler 返回 ReturnAction 枚举项，指定继续或中止。继续是默认操作，保存操作将继续，但用户也可以返回中止，在这种情况下，保存操作应停止。 |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定 Continue（继续）或 Abort（中止）。Continue 为默认操作，保存操作将继续；但用户也可以返回 Abort，此时保存操作应停止。 |
 
-## Examples
+## 示例
 
-以下示例演示如何在保存 PDF 时设置默认字体名称
+以下示例展示了在保存 PDF 时如何设置默认字体名称。
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// 文档目录的路径。
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// Load an existing PDF document with missing font
+	// 加载一个缺少字体的现有 PDF 文档。
 	string documentName = dataDir + "input.pdf";
 	string fontName = "Arial";
 	using (System.IO.FileStream fs = new System.IO.FileStream(documentName, System.IO.FileMode.Open))
@@ -48,7 +48,7 @@ public class PdfSaveOptions : SaveOptions
 	{
 		PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
 
-		// Specify Default Font Name
+		// 指定默认字体名称。
 		pdfSaveOptions.DefaultFontName = fontName;
 		document.Save(dataDir + "output_out.pdf", pdfSaveOptions);
 	}
@@ -76,8 +76,10 @@ public class PdfSaveOptions : SaveOptions
     End Using
 ```
 
-### See Also
+### 另请参见
 
 * class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

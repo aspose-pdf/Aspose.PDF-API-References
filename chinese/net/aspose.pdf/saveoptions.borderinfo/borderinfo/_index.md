@@ -1,7 +1,7 @@
 ---
-title: SaveOptions.BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo 构造函数。创建 BorderInfo 类的实例
+title: "SaveOptions.BorderInfo.BorderInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BorderInfo 构造函数。创建 BorderInfo 类的实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/saveoptions.borderinfo/borderinfo/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.pdf/saveoptions.borderinfo/borderinfo/
 public BorderInfo()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BorderInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderPartStyle) {#constructor_1}
 
-创建 BorderInfo 类的实例，并使用从提供的边框样式复制的属性初始化边框的所有元素（顶部、左侧、右侧、底部）
+创建 BorderInfo 类的实例，并使用从提供的边框样式复制的属性初始化边框的所有元素（Top、Left、Right、Bottom）
 
 ```csharp
 public BorderInfo(BorderPartStyle commonStyle)
@@ -32,11 +32,13 @@ public BorderInfo(BorderPartStyle commonStyle)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| commonStyle | BorderPartStyle | 将用于边框所有元素（左、右、上、下）的边框部分样式 |
+| commonStyle | BorderPartStyle | 用于边框所有元素（左、右、上、下）的边框部分样式。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* 类 [BorderInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: BoundsCheckableList1.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 方法。 从 System.Collections.Generic.List 中删除所有元素
+title: "BoundsCheckableList1.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BoundsCheckableList 方法。 从 System.Collections.Generic.List 中移除所有元素"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.generator/boundscheckablelist-1/clear/
 ---
-## BoundsCheckableList&lt;T&gt;.Clear 方法
+## BoundsCheckableList&lt;T&gt;.Clear method
 
-从 System.Collections.Generic.List 中删除所有元素。
+从 System.Collections.Generic.List 中移除所有元素。
 
 ```csharp
 public void Clear()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BoundsCheckableList&lt;T&gt;](../)
-* 命名空间 [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

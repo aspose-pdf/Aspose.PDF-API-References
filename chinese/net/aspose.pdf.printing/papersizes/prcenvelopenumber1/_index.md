@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber1
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。1 个信封 102 毫米 x 165 毫米
+title: "PaperSizes.PrcEnvelopeNumber1"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。1 号信封 102 mm × 165 mm"
 type: docs
 weight: 860
 url: /zh/net/aspose.pdf.printing/papersizes/prcenvelopenumber1/
 ---
-## PaperSizes.PrcEnvelopeNumber1 字段
+## PaperSizes.PrcEnvelopeNumber1 field
 
-#1 个信封 (102 毫米 x 165 毫米)。
+#1 信封（102 mm × 165 mm）。
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber1;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

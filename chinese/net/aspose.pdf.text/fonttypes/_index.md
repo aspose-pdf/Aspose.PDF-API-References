@@ -1,14 +1,14 @@
 ---
-title: Enum FontTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontTypes 枚举。支持的字体类型枚举
+title: "枚举 FontTypes"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.FontTypes 枚举。支持的字体类型枚举"
 type: docs
-weight: 10600
+weight: 10780
 url: /zh/net/aspose.pdf.text/fonttypes/
 ---
-## FontTypes 枚举
+## FontTypes enumeration
 
-支持的字体类型枚举。
+受支持的字体类型枚举。
 
 ```csharp
 public enum FontTypes
@@ -21,7 +21,9 @@ public enum FontTypes
 | TTF | `0` | TTF 字体类型 |
 | OTF | `1` | OTF 字体类型 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

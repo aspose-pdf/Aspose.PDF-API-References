@@ -1,12 +1,12 @@
 ---
-title: TableRowCollectionElement.CreateTR
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowCollectionElement 方法。创建 TableTRElement 并将其添加到当前表格
+title: "TableRowCollectionElement.CreateTR"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableRowCollectionElement 方法。创建 TableTRElement 并将其添加到当前表格"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 ---
-## TableRowCollectionElement.CreateTR 方法
+## TableRowCollectionElement.CreateTR method
 
 创建 [`TableTRElement`](../../tabletrelement/) 并将其添加到当前表格。
 
@@ -16,11 +16,13 @@ public virtual TableTRElement CreateTR()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableTRElement](../../tabletrelement/)
-* 类 [TableRowCollectionElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableTRElement](../../tabletrelement/)
+* class [TableRowCollectionElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

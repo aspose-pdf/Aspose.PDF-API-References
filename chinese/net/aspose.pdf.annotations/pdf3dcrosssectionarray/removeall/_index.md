@@ -1,21 +1,23 @@
 ---
-title: PDF3DCrossSectionArray.RemoveAll
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray 方法。 从数组中移除所有截面
+title: "PDF3DCrossSectionArray.RemoveAll"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DCrossSectionArray 方法。移除数组中的所有横截面"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/
 ---
-## PDF3DCrossSectionArray.RemoveAll 方法
+## PDF3DCrossSectionArray.RemoveAll method
 
-从数组中移除所有截面。
+从数组中移除所有横截面。
 
 ```csharp
 public void RemoveAll()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DCrossSectionArray](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

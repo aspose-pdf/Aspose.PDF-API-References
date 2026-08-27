@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.ParentType
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlImageSavingInfo 字段。保存的图像可以与 HTML 本身相关，也可以从嵌入到 HTML 的 SVG 中提取。此属性可以告诉自定义代码处理图像的父级类型。它由转换器设置，并可以在自定义代码中使用，以决定对该图像应该做什么，例如，自定义代码可以决定将图像保存到哪里或如何在父内容中引用它。
+title: "HtmlSaveOptions.HtmlImageSavingInfo.ParentType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlImageSavingInfo 字段。保存的图像可以属于 HTML 本身，或者可以从嵌入到 HTML 的 SVG 中提取。此属性可以告诉自定义代码处理图像的父级类型。它由转换器设置，可在自定义代码中用于决定对该图像应执行的操作，例如自定义代码可以决定将图像保存到何处或在父内容中如何引用它。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo.ParentType 字段
+## HtmlSaveOptions.HtmlImageSavingInfo.ParentType field
 
-保存的图像可以与 HTML 本身相关，也可以从嵌入到 HTML 的 SVG 中提取。此属性可以告诉自定义代码处理图像的父级类型。它由转换器设置，并可以在自定义代码中使用，以决定对该图像应该做什么（例如，自定义代码可以决定将图像保存到哪里或如何在父内容中引用它）。
+已保存的图像可以属于 HTML 本身，也可以从嵌入到 HTML 的 SVG 中提取。此属性可告知自定义代码处理图像的父级类型。它由转换器设置，可在自定义代码中使用，以决定对该图像应执行的操作（例如，自定义代码可以决定图像保存的位置或在父级内容中如何引用它）。
 
 ```csharp
 public ImageParentTypes ParentType;
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [ImageParentTypes](../../htmlsaveoptions.imageparenttypes/)
 * class [HtmlImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

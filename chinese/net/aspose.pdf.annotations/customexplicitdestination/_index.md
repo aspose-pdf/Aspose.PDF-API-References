@@ -1,9 +1,9 @@
 ---
-title: Class CustomExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CustomExplicitDestination 类。表示自定义显式目标
+title: "类 CustomExplicitDestination"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.CustomExplicitDestination 类。表示自定义显式目标。"
 type: docs
-weight: 1640
+weight: 1730
 url: /zh/net/aspose.pdf.annotations/customexplicitdestination/
 ---
 ## CustomExplicitDestination class
@@ -14,21 +14,23 @@ url: /zh/net/aspose.pdf.annotations/customexplicitdestination/
 public sealed class CustomExplicitDestination : ExplicitDestination
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | 获取目标页面对象 |
 | [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | 获取目标页面编号 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring/)() | 转换为页面编号。 |
+| override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring/)() | 转换为页码。 |
 
-### See Also
+### 另请参见
 
 * class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 属性。当无法将某些字体嵌入 PDF 文档时的选项
+title: "PdfFormatConversionOptions.FontEmbeddingOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFormatConversionOptions 属性。当无法将某些字体嵌入 PDF 文档时的选项"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 ---
-## PdfFormatConversionOptions.FontEmbeddingOptions 属性
+## PdfFormatConversionOptions.FontEmbeddingOptions property
 
 当无法将某些字体嵌入 PDF 文档时的选项。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FontEmbeddingOptions](../../fontembeddingoptions/)
-* 类 [PdfFormatConversionOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontEmbeddingOptions](../../fontembeddingoptions/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

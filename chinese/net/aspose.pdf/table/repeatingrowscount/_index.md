@@ -1,21 +1,23 @@
 ---
-title: Table.RepeatingRowsCount
-second_title: Aspose.PDF for .NET API Reference
-description: 表属性。获取在多个页面上重复的前几行的计数
+title: "Table.RepeatingRowsCount"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Table 属性。获取在多个页面上重复的首行数量"
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf/table/repeatingrowscount/
 ---
-## Table.RepeatingRowsCount 属性
+## Table.RepeatingRowsCount property
 
-获取在多个页面上重复的前几行的计数
+获取在多个页面上重复的首行数
 
 ```csharp
 public int RepeatingRowsCount { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Table](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

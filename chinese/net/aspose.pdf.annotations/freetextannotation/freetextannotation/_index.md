@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.FreeTextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation 构造函数。与生成器一起使用的构造函数
+title: "FreeTextAnnotation.FreeTextAnnotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FreeTextAnnotation 构造函数。用于 Generator 的构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/freetextannotation/freetextannotation/
 ---
 ## FreeTextAnnotation(Document, DefaultAppearance) {#constructor}
 
-与生成器一起使用的构造函数。
+用于 Generator 的构造函数。
 
 ```csharp
 public FreeTextAnnotation(Document document, DefaultAppearance appearance)
@@ -16,10 +16,10 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 将创建注释的文档。 |
-| appearance | DefaultAppearance | 默认外观 |
+| 文档 | Document | 将创建注释的 Document。 |
+| 外观 | DefaultAppearance | 默认外观 |
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DefaultAppearance](../../defaultappearance/)
@@ -31,7 +31,7 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 ## FreeTextAnnotation(Page, Rectangle, DefaultAppearance) {#constructor_1}
 
-在指定页面上创建新的自由文本注释。
+在指定页面上创建新的 FreeText 注释。
 
 ```csharp
 public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearance)
@@ -39,11 +39,11 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 应该创建注释的文档页面。 |
-| rect | Rectangle | 注释矩形，定义注释在页面上的位置。 |
-| appearance | DefaultAppearance | 用于格式化文本的默认外观。 |
+| 页面 | 页面 | 应创建注释的 Document 页面。 |
+| rect | Rectangle | 注释 Rectangle，定义注释在页面上的位置。 |
+| 外观 | DefaultAppearance | 用于格式化文本的默认外观。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -51,3 +51,5 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

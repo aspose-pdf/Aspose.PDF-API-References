@@ -1,12 +1,12 @@
 ---
-title: Class HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterSettings 类。表示页眉和页脚工件的设置
+title: "类 HeaderFooterSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HeaderFooterSettings 类。表示页眉和页脚构件的设置。"
 type: docs
-weight: 5450
+weight: 5570
 url: /zh/net/aspose.pdf/headerfootersettings/
 ---
-## HeaderFooterSettings 类
+## HeaderFooterSettings class
 
 表示页眉和页脚工件的设置。
 
@@ -28,7 +28,9 @@ public sealed class HeaderFooterSettings
 | [Header](../../aspose.pdf/headerfootersettings/header/) { get; set; } | 获取或设置页眉设置。 |
 | [PageRange](../../aspose.pdf/headerfootersettings/pagerange/) { get; set; } | 获取或设置页眉和页脚设置的页面范围。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

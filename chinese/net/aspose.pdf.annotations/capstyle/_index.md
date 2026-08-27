@@ -1,14 +1,14 @@
 ---
-title: Enum CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CapStyle 枚举。墨水注释线的线条结束样式
+title: "枚举 CapStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.CapStyle 枚举。Ink 注释线的线端样式。"
 type: docs
-weight: 1540
+weight: 1630
 url: /zh/net/aspose.pdf.annotations/capstyle/
 ---
-## CapStyle 枚举
+## CapStyle enumeration
 
-墨水注释线的线条结束样式。
+墨迹注释线的线端样式。
 
 ```csharp
 public enum CapStyle
@@ -18,10 +18,12 @@ public enum CapStyle
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| 矩形 | `1` | 结束为矩形。 |
-| 圆角 | `2` | 结束为圆角。 |
+| Rectangular | `1` | 结束是矩形的。 |
+| Rounded | `2` | 结束是圆形的。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DateField.DateFormat
-second_title: Aspose.PDF for .NET API Reference
-description: DateField 属性。获取或设置日期格式
+title: "DateField.DateFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DateField 属性。获取或设置日期格式"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/datefield/dateformat/
 ---
-## DateField.DateFormat 属性
+## DateField.DateFormat property
 
 获取或设置日期格式。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.forms/datefield/dateformat/
 public string DateFormat { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-日期格式。默认 dd/MM/yyyy
+日期格式。默认值 dd/MM/yyyy
 
-### 另请参阅
+### 另请参见
 
-* 类 [DateField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

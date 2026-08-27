@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 方法。将附件存储到文件中
+title: "PdfExtractor.GetAttachment"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractor 方法。将附件存储到文件中。"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/pdfextractor/getattachment/
@@ -16,13 +16,13 @@ public void GetAttachment(string outputPath)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputPath | 字符串 | 附件将存储的目录路径。空值或空字符串表示附件将放置在应用程序目录中。 |
+| outputPath | String | 附件存储的目录路径。null 或空字符串表示附件将放置在应用程序目录中。 |
 
 ### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -92,6 +92,8 @@ for(Integer i = 0 i<tempStreams.Length i++)
 
 ### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

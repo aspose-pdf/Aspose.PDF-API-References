@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 方法。删除集合中的指定项
+title: "XFormCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFormCollection 方法。删除集合中指定的项"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/xformcollection/remove/
 ---
-## XFormCollection.Remove 方法
+## XFormCollection.Remove method
 
-删除集合中的指定项。
+删除集合中指定的项。
 
 ```csharp
 public bool Remove(XForm item)
@@ -20,11 +20,13 @@ public bool Remove(XForm item)
 
 ### 返回值
 
-如果项已从集合中删除，则为 true；否则为 false。
+如果已从集合中删除该项则为 true；否则为 false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../../xform/)
-* 类 [XFormCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

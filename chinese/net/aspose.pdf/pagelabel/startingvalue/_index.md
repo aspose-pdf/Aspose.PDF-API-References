@@ -1,12 +1,12 @@
 ---
-title: PageLabel.StartingValue
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabel 属性。获取或设置页面编号范围的起始值
+title: "PageLabel.StartingValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageLabel 属性。获取或设置页码编号范围的起始值"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/pagelabel/startingvalue/
 ---
-## PageLabel.StartingValue 属性
+## PageLabel.StartingValue property
 
 获取或设置页面编号范围的起始值。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/pagelabel/startingvalue/
 public int StartingValue { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageLabel](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageLabel](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

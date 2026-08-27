@@ -1,14 +1,14 @@
 ---
-title: CommonFigureAnnotation.CommonFigureAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: CommonFigureAnnotation 构造函数。用于生成器的构造函数
+title: "CommonFigureAnnotation.CommonFigureAnnotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CommonFigureAnnotation 构造函数。用于在 Generator 中使用的构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/commonfigureannotation/commonfigureannotation/
 ---
-## CommonFigureAnnotation 构造函数
+## CommonFigureAnnotation constructor
 
-用于生成器的构造函数。
+在 Generator 中使用的构造函数。
 
 ```csharp
 public CommonFigureAnnotation(Document document)
@@ -16,7 +16,7 @@ public CommonFigureAnnotation(Document document)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 注释将放置的文档。 |
+| 文档 | Document | 注释将被放置的 Document。 |
 
 ### 另请参见
 
@@ -24,3 +24,5 @@ public CommonFigureAnnotation(Document document)
 * class [CommonFigureAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.C
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D 属性。变换矩阵的 C 成员
+title: "Matrix3D.C"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Matrix3D 属性。C 是变换 matrix 的成员"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/matrix3d/c/
 ---
-## Matrix3D.C 属性
+## Matrix3D.C property
 
 变换矩阵的 C 成员。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/matrix3d/c/
 public double C { get; set; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Matrix3D](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

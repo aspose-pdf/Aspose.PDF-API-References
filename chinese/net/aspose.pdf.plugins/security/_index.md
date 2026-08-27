@@ -1,12 +1,12 @@
 ---
-title: Class Security
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Security 类。表示安全插件
+title: "类 Security"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.Security 类。表示 Security 插件"
 type: docs
-weight: 9230
+weight: 9380
 url: /zh/net/aspose.pdf.plugins/security/
 ---
-## 安全类
+## Security class
 
 表示 `Security` 插件。
 
@@ -24,42 +24,44 @@ public sealed class Security : IPlugin
 
 | 名称 | 描述 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/security/process/)(IPluginOptions) | 使用指定参数开始 `Security` 处理。 |
+| [Process](../../aspose.pdf.plugins/security/process/)(IPluginOptions) | 使用指定的参数启动 `Security` 处理。 |
 
 ## 示例
 
-该示例演示如何加密 PDF 文档。
+示例演示如何加密 PDF document。
 
 ```csharp
-// create Security 
+// 创建 Security 
 var plugin = new Security();
-// create EncryptionOptions object to set instructions
+// 创建 EncryptionOptions 对象以设置指令
 var opt = new EncryptionOptions("123456", "qwerty", DocumentPrivilege.ForbidAll));
-// add input file path
+// 添加输入文件路径
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 设置输出文件路径
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// 执行该过程
 plugin.Process(opt);
 ```
 
-该示例演示如何解密 PDF 文档。
+示例演示如何解密 PDF document。
 
 ```csharp
-// create Security 
+// 创建 Security 
 var plugin = new Security();
-// create DecryptionOptions object to set instructions
+// 创建 DecryptionOptions 对象以设置指令
 var opt = new DecryptionOptions("123456"));
-// add input file path
+// 添加输入文件路径
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 设置输出文件路径
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// 执行该过程
 plugin.Process(opt);
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IPlugin](../iplugin/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

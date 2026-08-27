@@ -1,12 +1,12 @@
 ---
-title: MessageCreation.MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: MessageCreation 构造函数。默认构造函数
+title: "MessageCreation.MessageCreation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MessageCreation 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/messagecreation/messagecreation/
 ---
-## MessageCreation 构造函数
+## MessageCreation constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public MessageCreation()
 * class [MessageCreation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

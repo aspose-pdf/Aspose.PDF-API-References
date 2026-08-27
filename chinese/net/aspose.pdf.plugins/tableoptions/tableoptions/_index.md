@@ -1,12 +1,12 @@
 ---
-title: TableOptions.TableOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TableOptions 构造函数。默认构造函数
+title: "TableOptions.TableOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableOptions 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/tableoptions/tableoptions/
 ---
-## TableOptions 构造函数
+## TableOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/tableoptions/tableoptions/
 public TableOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

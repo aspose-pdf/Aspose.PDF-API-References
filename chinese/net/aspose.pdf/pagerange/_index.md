@@ -1,12 +1,12 @@
 ---
-title: Class PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageRange 类。表示页眉和页脚设置的页面范围
+title: "类 PageRange"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PageRange 类。表示页眉和页脚设置的页面范围。"
 type: docs
-weight: 8240
+weight: 8380
 url: /zh/net/aspose.pdf/pagerange/
 ---
-## PageRange 类
+## PageRange class
 
 表示页眉和页脚设置的页面范围。
 
@@ -24,12 +24,14 @@ public sealed class PageRange
 
 | 名称 | 描述 |
 | --- | --- |
-| [End](../../aspose.pdf/pagerange/end/) { get; set; } | 获取或设置结束页码。 |
+| [End](../../aspose.pdf/pagerange/end/) { get; set; } | 获取或设置结束页号。 |
 | [Even](../../aspose.pdf/pagerange/even/) { get; set; } | 获取或设置偶数页的设置。 |
 | [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | 获取或设置奇数页的设置。 |
-| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | 获取或设置起始页码。 |
+| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | 获取或设置起始页号。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

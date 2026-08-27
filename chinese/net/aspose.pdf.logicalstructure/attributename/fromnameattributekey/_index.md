@@ -1,14 +1,14 @@
 ---
-title: AttributeName.FromNameAttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 方法。获取属性键的属性名称
+title: "AttributeName.FromNameAttributeKey"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeName 方法。获取属性键的属性名称"
 type: docs
 weight: 670
 url: /zh/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/
 ---
-## AttributeName.FromNameAttributeKey 方法
+## AttributeName.FromNameAttributeKey method
 
-获取属性键的属性名称。
+获取属性键对应的属性名称。
 
 ```csharp
 public static AttributeName FromNameAttributeKey(string name, AttributeKey attributeKey)
@@ -16,16 +16,18 @@ public static AttributeName FromNameAttributeKey(string name, AttributeKey attri
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | 字符串 | 属性名称 |
+| 名称 | String | 属性名称 |
 | attributeKey | AttributeKey | 属性键 |
 
 ### 返回值
 
 属性名称
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeKey](../../attributekey/)
-* 类 [AttributeName](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

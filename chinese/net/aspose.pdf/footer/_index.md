@@ -1,12 +1,12 @@
 ---
-title: Class Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Footer 类。表示页脚设置
+title: "类 Footer"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Footer 类。表示页脚设置。"
 type: docs
-weight: 4920
+weight: 5040
 url: /zh/net/aspose.pdf/footer/
 ---
-## 页脚类
+## Footer class
 
 表示页脚设置。
 
@@ -24,12 +24,14 @@ public sealed class Footer : HorizontalAlignment
 
 | 名称 | 描述 |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | 获取或设置中心对齐设置。 |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | 获取或设置居中对齐设置。 |
 | [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | 获取或设置左对齐设置。 |
 | [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | 获取或设置右对齐设置。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

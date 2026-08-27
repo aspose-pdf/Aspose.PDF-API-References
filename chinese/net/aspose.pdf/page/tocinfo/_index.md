@@ -1,12 +1,12 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: 页面属性。获取或设置目录信息
+title: "Page.TocInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 属性。获取或设置目录信息"
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf/page/tocinfo/
 ---
-## Page.TocInfo 属性
+## Page.TocInfo property
 
 获取或设置目录信息。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf/page/tocinfo/
 public TocInfo TocInfo { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-目录信息 - 默认值为 null。如果设置，则该页面将包含目录。
+目录信息 - 默认 null。如果设置，则此页面将包含目录。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TocInfo](../../tocinfo/)
-* 类 [Page](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TocInfo](../../tocinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive 方法。ICosPdfPrimitive 实例的字符串表示
+title: "ICosPdfPrimitive.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ICosPdfPrimitive 方法。实例 ICosPdfPrimitive 的字符串表示"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
 ---
-## ICosPdfPrimitive.ToString 方法
+## ICosPdfPrimitive.ToString method
 
-[`ICosPdfPrimitive`](../) 实例的字符串表示。
+实例 [`ICosPdfPrimitive`](../) 的字符串表示。
 
 ```csharp
 public string ToString()
@@ -16,10 +16,12 @@ public string ToString()
 
 ### 返回值
 
-[`ICosPdfPrimitive`](../) 实例的字符串表示值。
+实例 [`ICosPdfPrimitive`](../) 的字符串表示的值。
 
-### 另见
+### 另请参见
 
-* 接口 [ICosPdfPrimitive](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

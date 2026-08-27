@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 方法。从另一个 PDF 文档的数组中将指定的注释导入文档
+title: "PdfAnnotationEditor.ImportAnnotations"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAnnotationEditor 方法。从另一个 PDF 文档数组中将指定的注释导入文档"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-从另一个 PDF 文档的数组中将指定的注释导入文档。
+从另一个 PDF 文档数组将指定的注释导入到文档中。
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
@@ -30,7 +30,7 @@ editor.ImportAnnotations(paths, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### 另见
+### 另请参见
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -41,7 +41,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-从另一个 PDF 文档的数组中将注释导入文档。
+从另一个 PDF 文档数组将注释导入到文档中。
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
@@ -61,7 +61,7 @@ editor.ImportAnnotations(paths);
 editor.Save("example_out.pdf");
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -71,7 +71,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-从另一个 PDF 文档流的数组中将指定的注释导入文档。
+从另一个 PDF 文档流数组将指定的注释导入到文档中。
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
@@ -79,7 +79,7 @@ public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotTy
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotFileStream | Stream[] | 包含源注释的 PDF 文档流的数组。 |
+| annotFileStream | Stream[] | 包含源注释的 PDF 文档流数组。 |
 | annotType | AnnotationType[] | 要导入的注释类型。 |
 
 ## 示例
@@ -97,7 +97,7 @@ stream[0].Close();
 stream[1].Close();
 ```
 
-### 另见
+### 另请参见
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -108,7 +108,7 @@ stream[1].Close();
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-从另一个 PDF 文档流的数组中将注释导入文档。
+从另一个 PDF 文档流数组将注释导入到文档中。
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
@@ -116,7 +116,7 @@ public void ImportAnnotations(Stream[] annotFileStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotFileStream | Stream[] | 包含源注释的 PDF 文档流的数组。 |
+| annotFileStream | Stream[] | 包含源注释的 PDF 文档流数组。 |
 
 ## 示例
 
@@ -132,8 +132,10 @@ streams[0].Close();
 streams[1].Close();
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

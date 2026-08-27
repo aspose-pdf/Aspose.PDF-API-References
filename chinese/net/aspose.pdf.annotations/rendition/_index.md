@@ -1,14 +1,14 @@
 ---
-title: Class Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Rendition 类。描述 RendtionAnnotation 的 Rendition 对象的类
+title: "类 Rendition"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.Rendition 类。描述 RendtionAnnotation 的呈现对象的类。"
 type: docs
-weight: 2430
+weight: 2520
 url: /zh/net/aspose.pdf.annotations/rendition/
 ---
-## Rendition 类
+## Rendition class
 
-描述 RendtionAnnotation 的 Rendition 对象的类。
+描述 RendtionAnnotation 的呈现对象的类。
 
 ```csharp
 public class Rendition
@@ -18,10 +18,12 @@ public class Rendition
 
 | 名称 | 描述 |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | 文本字符串，指定用于用户界面和通过 JavaScript 动作进行名称树查找的 Rendition 名称。 |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | 获取 Rendition 类型。 |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | 用于用户界面以及通过 JavaScript 操作进行名称树查找的呈现名称的文本字符串。 |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | 获取呈现类型。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

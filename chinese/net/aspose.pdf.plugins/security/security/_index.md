@@ -1,12 +1,12 @@
 ---
-title: Security.Security
-second_title: Aspose.PDF for .NET API Reference
-description: 安全构造函数。默认构造函数
+title: "Security.Security"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Security 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/security/security/
 ---
-## 安全构造函数
+## Security constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/security/security/
 public Security()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Security](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Security](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

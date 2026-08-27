@@ -1,12 +1,12 @@
 ---
-title: StreamResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: StreamResult 方法。尝试将结果转换为文件
+title: "StreamResult.ToFile"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StreamResult 方法. 尝试将结果转换为文件"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.plugins/streamresult/tofile/
 ---
-## StreamResult.ToFile 方法
+## StreamResult.ToFile method
 
 尝试将结果转换为文件。
 
@@ -16,10 +16,12 @@ public string ToFile()
 
 ### 返回值
 
-如果结果是文件，则返回表示输出文件路径的字符串；否则返回 `null`。
+如果结果是文件，则表示输出文件路径的字符串；否则为 `null`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StreamResult](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StreamResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

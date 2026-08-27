@@ -1,21 +1,23 @@
 ---
-title: Artifact.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact 方法。处理工件
+title: "Artifact.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Artifact 方法。释放工件"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf/artifact/dispose/
 ---
-## Artifact.Dispose 方法
+## Artifact.Dispose method
 
-处理工件。
+释放工件。
 
 ```csharp
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Artifact](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

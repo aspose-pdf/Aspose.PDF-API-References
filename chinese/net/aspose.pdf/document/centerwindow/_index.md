@@ -1,14 +1,14 @@
 ---
-title: Document.CenterWindow
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取或设置标志，指定文档窗口的位置是否将在屏幕上居中
+title: "Document.CenterWindow"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取或设置标志，指定文档窗口的位置是否居中显示在屏幕上"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/document/centerwindow/
 ---
-## Document.CenterWindow 属性
+## Document.CenterWindow property
 
-获取或设置标志，指定文档窗口的位置是否将在屏幕上居中。
+获取或设置标志，指定文档窗口的位置是否居中显示在屏幕上。
 
 ```csharp
 public bool CenterWindow { get; set; }
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.CenterWindow;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

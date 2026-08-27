@@ -1,12 +1,12 @@
 ---
-title: SoundData.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData 属性。获取或设置样本数据的编码格式
+title: "SoundData.Encoding"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SoundData 属性。获取或设置样本数据的编码格式"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/sounddata/encoding/
 ---
-## SoundData.Encoding 属性
+## SoundData.Encoding property
 
 获取或设置样本数据的编码格式。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.annotations/sounddata/encoding/
 public SoundEncoding Encoding { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [SoundEncoding](../../soundencoding/)
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

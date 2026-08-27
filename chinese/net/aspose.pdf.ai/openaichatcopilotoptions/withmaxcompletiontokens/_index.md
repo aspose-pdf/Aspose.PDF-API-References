@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 方法。设置聊天助手选项的最大完成令牌
+title: "OpenAIChatCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 方法。设置聊天副驾驶选项的最大完成令牌数"
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxcompletiontokens/
 ---
-## OpenAIChatCopilotOptions.WithMaxCompletionTokens 方法
+## OpenAIChatCopilotOptions.WithMaxCompletionTokens method
 
-设置聊天助手选项的最大完成令牌。
+设置聊天副驾驶选项的最大完成 token 数。
 
 ```csharp
 public OpenAIChatCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | 要设置的最大完成令牌。 |
+| maxCompletionTokens | Nullable`1 | 要设置的最大完成令牌数。 |
 
 ### 返回值
 
-当前实例的 [`OpenAIChatCopilotOptions`](../)。
+当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

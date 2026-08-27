@@ -1,20 +1,22 @@
 ---
-title: XFormPlacement.Position
-second_title: Aspose.PDF for .NET API Reference
-description: XFormPlacement property.
+title: "XFormPlacement.Position"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFormPlacement 属性。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.vector/xformplacement/position/
 ---
-## XFormPlacement.Position 属性
+## XFormPlacement.Position property
 
 ```csharp
 public override Point Position { set; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Point](../../../aspose.pdf/point/)
-* 类 [XFormPlacement](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [XFormPlacement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

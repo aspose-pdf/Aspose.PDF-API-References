@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.H6
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 字段。用于无法按层次嵌套其部分的符合标准的写入者的第六级标题，因此无法根据其嵌套级别确定标题的级别。
+title: "StructureTypeStandard.H6"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureTypeStandard 字段。级别 6 标题，用于无法层次嵌套其章节的符合规范的写入器，因此无法从嵌套级别确定标题的层级。"
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/h6/
 ---
-## StructureTypeStandard.H6 字段
+## StructureTypeStandard.H6 field
 
-第六级标题，用于无法按层次嵌套其部分的符合标准的写入者，因此无法根据其嵌套级别确定标题的级别。
+六级标题，供无法层级嵌套章节且因此无法从嵌套层级确定标题级别的符合规范的写入器使用。
 
 ```csharp
 public static readonly StructureTypeStandard H6;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTypeStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

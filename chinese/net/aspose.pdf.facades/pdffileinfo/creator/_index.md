@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.Creator
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 属性。获取或设置 PDF 文档的创建者信息
+title: "PdfFileInfo.Creator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileInfo 属性。获取或设置 PDF 文档的 Creator 信息。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/pdffileinfo/creator/
 ---
-## PdfFileInfo.Creator 属性
+## PdfFileInfo.Creator property
 
 获取或设置 PDF 文档的创建者信息。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdffileinfo/creator/
 public string Creator { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

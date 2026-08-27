@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.All
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions 方法。创建一个所有选项都激活的优化策略。请注意，仅激活那些不会改变文档任何功能的选项。即，图像压缩和字体解除嵌入将不会启用（并且可以手动嵌入）。
+title: "OptimizationOptions.All"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptimizationOptions 方法。创建所有选项均已激活的优化策略。请注意，仅激活不会改变文档任何功能的选项。例如，图像压缩和字体取消嵌入将不会启用，需手动嵌入"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.optimization/optimizationoptions/all/
 ---
-## OptimizationOptions.All 方法
+## OptimizationOptions.All method
 
-创建一个所有选项都激活的优化策略。请注意，仅激活那些不会改变文档任何功能的选项。即，图像压缩和字体解除嵌入将不会启用（并且可以手动嵌入）。
+创建包含所有已激活选项的优化策略。请注意，仅激活不会改变文档任何功能的选项。例如，图像压缩和字体取消嵌入将不会被启用（可手动嵌入）。
 
 ```csharp
 public static OptimizationOptions All()
@@ -18,8 +18,10 @@ public static OptimizationOptions All()
 
 OptimizationOptions 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OptimizationOptions](../)
-* 命名空间 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WebHyperlink 类。表示网页超链接对象
+title: "类 WebHyperlink"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.WebHyperlink 类。表示网页超链接对象。"
 type: docs
-weight: 11320
+weight: 11510
 url: /zh/net/aspose.pdf/webhyperlink/
 ---
-## WebHyperlink 类
+## WebHyperlink class
 
 表示网页超链接对象。
 
@@ -27,8 +27,10 @@ public sealed class WebHyperlink : Hyperlink
 | --- | --- |
 | [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | 获取或设置网页 URL。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Hyperlink](../hyperlink/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

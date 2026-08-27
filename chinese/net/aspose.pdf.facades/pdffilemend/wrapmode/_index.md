@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.WrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend 属性。设置或获取换行算法。请参见 WordWrapMode 和 IsWordWrap
+title: "PdfFileMend.WrapMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileMend 属性。设置或获取换行算法。参见 WordWrapMode 和 IsWordWrap"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/pdffilemend/wrapmode/
 ---
-## PdfFileMend.WrapMode 属性
+## PdfFileMend.WrapMode property
 
-设置或获取换行算法。请参见 WordWrapMode 和 IsWordWrap。
+设置或获取换行算法。参见 WordWrapMode 和 IsWordWrap。
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }
@@ -20,3 +20,5 @@ public WordWrapMode WrapMode { get; set; }
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

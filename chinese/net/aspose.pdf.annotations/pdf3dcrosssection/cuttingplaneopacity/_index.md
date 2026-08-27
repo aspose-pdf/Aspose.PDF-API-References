@@ -1,31 +1,33 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection 属性。获取或设置切割平面不透明度
+title: "PDF3DCrossSection.CuttingPlaneOpacity"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DCrossSection 属性。获取或设置切割平面的不透明度"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/
 ---
-## PDF3DCrossSection.CuttingPlaneOpacity 属性
+## PDF3DCrossSection.CuttingPlaneOpacity property
 
-获取或设置切割平面不透明度。
+获取或设置切割平面的不透明度。
 
 ```csharp
 public double CuttingPlaneOpacity { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-切割平面不透明度。
+切割平面的不透明度。
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| Exception | 数字必须在范围 [0 , 1] 内 |
+| Exception | 数字必须在范围 [0 , 1] 之内 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DCrossSection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

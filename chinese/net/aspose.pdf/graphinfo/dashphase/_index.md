@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.DashPhase
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo 属性。获取或设置虚线相位
+title: "GraphInfo.DashPhase"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphInfo 属性。获取或设置虚线相位"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/graphinfo/dashphase/
 ---
-## GraphInfo.DashPhase 属性
+## GraphInfo.DashPhase property
 
 获取或设置虚线相位。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/graphinfo/dashphase/
 public int DashPhase { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

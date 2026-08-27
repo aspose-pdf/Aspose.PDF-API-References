@@ -1,12 +1,12 @@
 ---
-title: ImagesDifference.Height
-second_title: Aspose.PDF for .NET API Reference
-description: ImagesDifference 属性。差异的高度
+title: "ImagesDifference.Height"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagesDifference 属性。差异的高度"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.comparison/imagesdifference/height/
 ---
-## ImagesDifference.Height 属性
+## ImagesDifference.Height property
 
 差异的高度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.comparison/imagesdifference/height/
 public int Height { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImagesDifference](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

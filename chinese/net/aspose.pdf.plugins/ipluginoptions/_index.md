@@ -1,20 +1,22 @@
 ---
-title: Interface IPluginOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.IPluginOptions 接口。定义具体插件选项应实现的通用方法的插件选项接口
+title: "接口 IPluginOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.IPluginOptions 接口。通用插件选项接口，定义具体插件选项应实现的公共方法。"
 type: docs
-weight: 8870
+weight: 9000
 url: /zh/net/aspose.pdf.plugins/ipluginoptions/
 ---
-## IPluginOptions 接口
+## IPluginOptions interface
 
-定义具体插件选项应实现的通用方法的插件选项接口。
+通用插件选项接口，定义具体插件选项应实现的公共方法。
 
 ```csharp
 public interface IPluginOptions
 ```
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

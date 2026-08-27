@@ -1,12 +1,12 @@
 ---
-title: MessageContentRequest.CreateImageFileContent
-second_title: Aspose.PDF for .NET API Reference
-description: MessageContentRequest 方法。为消息创建图像文件内容
+title: "MessageContentRequest.CreateImageFileContent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MessageContentRequest 方法。为消息创建图像文件内容"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/messagecontentrequest/createimagefilecontent/
 ---
-## MessageContentRequest.CreateImageFileContent 方法
+## MessageContentRequest.CreateImageFileContent method
 
 为消息创建图像文件内容。
 
@@ -16,15 +16,17 @@ public static MessageContentRequest CreateImageFileContent(string fileId, string
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fileId | 字符串 | 图像文件的 ID。 |
-| detail | 字符串 | 图像文件的详细信息。如果用户指定，则指定图像的详细级别。“low”使用更少的令牌，您可以选择使用“high”来获得高分辨率。默认值为“auto”。 |
+| fileId | String | 图像文件的 ID |
+| 细节 | String | 图像文件的细节。指定如果用户指定的图像细节级别。\"low\" 使用更少的标记，您可以通过使用 \"high\" 选择高分辨率。默认是 \"auto\"。 |
 
 ### 返回值
 
-一个新的 MessageContentRequest 实例，包含 ImageFile 内容。
+MessageContentRequest 的新实例，包含 ImageFile 内容。
 
-### 另请参阅
+### 另请参见
 
-* 类 [MessageContentRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MessageContentRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

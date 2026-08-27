@@ -1,67 +1,67 @@
 ---
-title: Class SvgSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SvgSaveOptions 类。导出到 SVG 格式的保存选项
+title: "类 SvgSaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.SvgSaveOptions 类。导出为 SVG 格式的保存选项。"
 type: docs
-weight: 10230
+weight: 10410
 url: /zh/net/aspose.pdf/svgsaveoptions/
 ---
 ## SvgSaveOptions class
 
-导出到 SVG 格式的保存选项
+导出为 SVG 格式的保存选项。
 
 ```csharp
 public class SvgSaveOptions : UnifiedSaveOptions
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [SvgSaveOptions](svgsaveoptions/)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置一个布尔值，指示在准备 aps 页面时是否将字体字形缓存。提高将 PDF 转换为其他格式的性能，但会增加内存消耗。 |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置一个布尔值，指示在文档保存到响应后，Response 对象是否会被关闭。 |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | 此属性启用从具有 OCR 子层的 PDF 文档中提取图像或文本的功能。 |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置布尔值，以指示在准备 APS 页面时是否缓存字体字形。可提升 PDF 转换为其他格式的性能，但会增加内存消耗。 |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置布尔值，以指示文档保存到响应后是否关闭 Response 对象。 |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | 此属性启用了从带有 OCR 子层的 PDF 文档中提取图像或文本的功能。 |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | 数据保存的格式。 |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler 返回 ReturnAction 枚举项，指定继续或中止。继续是默认操作，保存操作将继续，但用户也可以返回中止，在这种情况下，保存操作应停止。 |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定 Continue（继续）或 Abort（中止）。Continue 为默认操作，保存操作将继续；但用户也可以返回 Abort，此时保存操作应停止。 |
 
-## Fields
+## 字段
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive/) | 指定输出是否将作为一个 zip-档案创建。请参阅“TreatTargetFileNameAsDirectory”选项的注释，以查看多页源文档的 SVG 文件命名规则，这些规则也适用于压缩的输出文件集。 |
-| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/) | 此字段可以包含在转换过程中必须使用的保存策略（如果存在），用于自定义处理嵌入到保存的 SVG 中的创建的引用外部图像文件（如嵌入的 BMP 或 JPEG）。该策略必须处理资源并返回表示生成的 SVG 中保存资源的期望 URI 的字符串。如果出于某种原因，必须由转换器的代码本身处理此或那种文件，而不是自定义代码，请在自定义代码中设置“imageSavingInfo”参数变量的标志“CustomProcessingCancelled”。它向转换器发出信号，指示必须在转换器本身中完成处理该资源的所有必要步骤，就好像没有任何外部自定义代码。 |
+| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive/) | 指定输出是否将创建为一个 zip 压缩包。请参阅 'TreatTargetFileNameAsDirectory' 选项的注释，以了解多页源文档的页面 SVG 文件命名规则，这些规则同样适用于压缩的输出文件集。 |
+| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/) | 此字段可以包含在转换期间必须使用的保存策略（如果存在），用于对创建的引用外部图像文件（如嵌入的 BMP 或 JPEG）进行自定义处理，这些图像文件会嵌入保存的 SVG 中。该策略必须处理资源并返回表示生成的 SVG 中已保存资源的期望 URI 的字符串。如果出于某种原因必须由转换器的代码本身而不是自定义代码来处理此文件或该文件，请在自定义代码中设置 'CustomProcessingCancelled' 标志于 'imageSavingInfo' 参数的变量。它向转换器指示所有必要的资源处理步骤必须在转换器内部完成，就像没有任何外部自定义代码一样。 |
 | [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | 在多个线程中处理页面。 |
 | [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels/) | 指定是否将输出文档从排版点缩放到像素。 |
-| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/) | 此选项定义是否将创建与请求的输出文件同名的目标目录（如果尚不存在），而不是请求的输出文件本身。如果是，则该目录将包含所有页面的输出 SVG 图像（如下所述）。如果不是，除第一个页面外的其他页面的输出文件将精确地在请求的目录中创建，作为主输出文件，但文件名将包含后缀 _[2...n]，由页面编号定义，例如，如果您定义输出文件为 "C:\AsposeTests\output.svg"，并且输出将包含多个页面的 svg 文件，则页面的文件也将在目录 "C:\AsposeTests\" 中创建，并具有名称 'output.svg'，'output_2.svg'，'output_3.svg' 等等。 |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | 有时 PDF 包含由几个相同的平铺背景图像构成的背景图像（页面或表格单元格）。在这种情况下，目标格式的渲染器（例如 MsWord 的 DOCS 格式）有时会在背景图像的部分之间生成可见的边界，因为它们的图像边缘平滑（抗锯齿）技术与 Acrobat Reader 不同。如果导出的文档看起来包含相同背景图像部分之间的可见边界，请尝试使用此设置来消除这种不必要的效果。注意！此质量优化通常会显著减慢转换速度，因此，请仅在确实必要时使用此选项。 |
+| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/) | 此选项定义是否在目标输出文件不存在时创建与请求的输出文件同名的目标目录，而不是直接创建输出文件本身。这样，目录将包含所有页面的输出 SVG 图像（如下所述）。如果选择否，则除第一页之外的页面输出文件将直接在请求的目录中创建，文件名会带有 _[2...n] 后缀，由页码决定。例如，如果您将输出文件定义为 "C:\\AsposeTests\\output.svg"，且输出包含多个页面的 SVG 文件，则页面文件也会在目录 "C:\\AsposeTests\\" 中创建，名称分别为 'output.svg'、'output_2.svg'、'output_3.svg' 等。 |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | 有时 PDF 包含由多个相同的平铺背景图像拼接而成的页面或表格单元格的背景图像。在这种情况下，目标格式的渲染器（例如 MsWord 用于 DOCS 格式）有时会在背景图像的各部分之间生成可见的边界，因为它们的图像边缘平滑（抗锯齿）技术与 Acrobat Reader 不同。如果导出的文档看起来在相同背景图像的各部分之间出现了此类可见边界，请尝试使用此设置以消除该不良效果。注意！此质量优化通常会显著降低转换速度，因此请仅在确实必要时使用此选项。 |
 
-## Examples
+## 示例
 
-以下示例演示如何将 PDF 文件转换为 SVG 文件
+以下示例展示了如何将 PDF 文件转换为 SVG 文件
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// 文档目录的路径。
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// PDF 文件的路径。
 	var pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf");
 
-	// The path to output SVG File.
+	// 输出 SVG 文件的路径。
 	var svgFile= Path.Combine(dataDir, "PDF-to-SVG.svg");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
-		// Initialize SvgSaveOptions	
+		// 初始化 SvgSaveOptions	
 		SvgSaveOptions saveOptions = new SvgSaveOptions();
 		
-		// Save SVG file
+		// 保存 SVG 文件
 		pdfDocument.Save(svgFile, saveOptions);
 	}
 ```
@@ -87,8 +87,10 @@ public class SvgSaveOptions : UnifiedSaveOptions
     End Using
 ```
 
-### See Also
+### 另请参见
 
 * class [UnifiedSaveOptions](../unifiedsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

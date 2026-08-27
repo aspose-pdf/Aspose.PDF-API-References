@@ -1,12 +1,12 @@
 ---
-title: Opi.Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Opi 构造函数。构造函数
+title: "Opi.Opi"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Opi 构造函数。构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/opi/opi/
 ---
-## Opi 构造函数
+## Opi constructor
 
 构造函数。
 
@@ -20,7 +20,9 @@ public Opi(XForm xform)
 
 ### 另请参见
 
-* 类 [XForm](../../xform/)
-* 类 [Opi](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

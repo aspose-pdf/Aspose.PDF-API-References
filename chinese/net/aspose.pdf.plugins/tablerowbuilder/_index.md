@@ -1,14 +1,14 @@
 ---
-title: Class TableRowBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.TableRowBuilder 类。该类表示表格行的构建器
+title: "类 TableRowBuilder"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.TableRowBuilder 类。该类表示表格行的构建器"
 type: docs
-weight: 9370
+weight: 9520
 url: /zh/net/aspose.pdf.plugins/tablerowbuilder/
 ---
-## TableRowBuilder 类
+## TableRowBuilder class
 
-该类表示表格行的构建器。
+类表示表格行的构建器。
 
 ```csharp
 public class TableRowBuilder : TableBuilder
@@ -21,11 +21,13 @@ public class TableRowBuilder : TableBuilder
 | virtual [AddCell](../../aspose.pdf.plugins/tablerowbuilder/addcell/)() | 向表格行添加单元格。 |
 | override [AddRow](../../aspose.pdf.plugins/tablerowbuilder/addrow/)() | 重写 AddRow。 |
 | [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | 向文档添加新表格。 |
-| [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | 在指定页面后插入页面。 |
-| [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | 在指定页面前插入页面。 |
+| [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | 在指定页面之后插入页面。 |
+| [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | 在指定页面之前插入页面。 |
 
-### 另见
+### 另请参见
 
-* 类 [TableBuilder](../tablebuilder/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* class [TableBuilder](../tablebuilder/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

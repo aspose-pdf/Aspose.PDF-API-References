@@ -1,12 +1,12 @@
 ---
-title: Heading.DestinationPage
-second_title: Aspose.PDF for .NET API Reference
-description: 标题属性。获取目标页面
+title: "Heading.DestinationPage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Heading 属性。获取目标页面"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/heading/destinationpage/
 ---
-## 标题.目标页面属性
+## Heading.DestinationPage property
 
 获取目标页面。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/heading/destinationpage/
 public Page DestinationPage { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [Heading](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

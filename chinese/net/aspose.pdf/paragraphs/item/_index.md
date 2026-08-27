@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Item
-second_title: Aspose.PDF for .NET API Reference
-description: 段落属性。获取或设置来自或到集合的段落
+title: "Paragraphs.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Paragraphs 属性。获取或设置集合中的段落"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/paragraphs/item/
 ---
-## 段落索引器
+## Paragraphs indexer
 
-获取或设置来自或到集合的段落。
+获取或设置集合中的段落。
 
 ```csharp
 public BaseParagraph this[int index] { get; set; }
@@ -24,3 +24,5 @@ public BaseParagraph this[int index] { get; set; }
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PDF3DRenderMode.PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode 构造函数。初始化 PDF3DRenderMode 类的新实例
+title: "PDF3DRenderMode.PDF3DRenderMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DRenderMode 构造函数。初始化 PDF3DRenderMode 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
@@ -16,14 +16,14 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| subtype | RenderModeType | 渲染模式类型。 |
+| 子类型 | RenderModeType | 渲染模式类型。 |
 
 ### 另请参见
 
-* 枚举 [RenderModeType](../../rendermodetype/)
-* 类 [PDF3DRenderMode](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [RenderModeType](../../rendermodetype/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,7 +37,7 @@ public PDF3DRenderMode(string typeName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| typeName | String | 类型名称。 |
+| typeName | String | 类型的名称。 |
 
 ### 异常
 
@@ -47,6 +47,8 @@ public PDF3DRenderMode(string typeName)
 
 ### 另请参见
 
-* 类 [PDF3DRenderMode](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextFragmentCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection 属性。获取一个值，指示对集合的访问是否是同步的（线程安全）。
+title: "TextFragmentCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentCollection 属性。获取一个值，指示对集合的访问是否同步且线程安全"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textfragmentcollection/issynchronized/
 ---
-## TextFragmentCollection.IsSynchronized 属性
+## TextFragmentCollection.IsSynchronized property
 
-获取一个值，指示对集合的访问是否是同步的（线程安全）。
+获取指示对集合的访问是否已同步（线程安全）的值。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

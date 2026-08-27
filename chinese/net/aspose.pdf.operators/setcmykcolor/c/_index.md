@@ -1,21 +1,23 @@
 ---
-title: SetCMYKColor.C
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColor 属性。获取或设置青色组件
+title: "SetCMYKColor.C"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetCMYKColor 属性。获取或设置青色分量"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/setcmykcolor/c/
 ---
-## SetCMYKColor.C 属性
+## SetCMYKColor.C property
 
-获取或设置青色组件。
+获取或设置青色分量。
 
 ```csharp
 public double C { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SetCMYKColor](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection 方法。 从集合中移除项目
+title: "ElementCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ElementCollection 方法。从集合中移除项"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.structure/elementcollection/remove/
 ---
-## ElementCollection.Remove 方法
+## ElementCollection.Remove method
 
-从集合中移除项目。
+从集合中移除项。
 
 ```csharp
 public bool Remove(Element item)
@@ -16,15 +16,17 @@ public bool Remove(Element item)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Element | 要移除的项目。 |
+| item | Element | 要移除的项。 |
 
 ### 返回值
 
-如果元素被移除，则为真。
+如果已移除元素则为 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Element](../../element/)
-* 类 [ElementCollection](../)
-* 命名空间 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

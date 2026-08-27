@@ -1,14 +1,14 @@
 ---
-title: HighlightAnnotation.HighlightAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: HighlightAnnotation 构造函数。 在指定页面上创建新的高亮注释
+title: "HighlightAnnotation.HighlightAnnotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HighlightAnnotation 构造函数。 在指定页面上创建新的 Highlight 注释"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/highlightannotation/highlightannotation/
 ---
-## HighlightAnnotation 构造函数
+## HighlightAnnotation constructor
 
-在指定页面上创建新的高亮注释。
+在指定页面上创建新的 Highlight 注释。
 
 ```csharp
 public HighlightAnnotation(Page page, Rectangle rect)
@@ -16,8 +16,8 @@ public HighlightAnnotation(Page page, Rectangle rect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 应该创建注释的文档页面。 |
-| rect | Rectangle | 注释矩形，定义注释在页面上的位置。 |
+| 页面 | 页面 | 应创建注释的 Document 页面。 |
+| rect | Rectangle | 注释 Rectangle，定义注释在页面上的位置。 |
 
 ### 另请参见
 
@@ -26,3 +26,5 @@ public HighlightAnnotation(Page page, Rectangle rect)
 * class [HighlightAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

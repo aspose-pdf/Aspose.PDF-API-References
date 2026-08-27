@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice 属性。获取图像输出宽度
+title: "TiffDevice.Width"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffDevice 属性。获取图像输出宽度"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.devices/tiffdevice/width/
 ---
-## TiffDevice.Width 属性
+## TiffDevice.Width property
 
 获取图像输出宽度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.devices/tiffdevice/width/
 public int Width { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

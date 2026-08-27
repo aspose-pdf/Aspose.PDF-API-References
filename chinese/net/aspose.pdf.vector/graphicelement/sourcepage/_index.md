@@ -1,12 +1,12 @@
 ---
-title: GraphicElement.SourcePage
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement 属性。获取提取图形元素的页面
+title: "GraphicElement.SourcePage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElement 属性。获取提取该图形元素的页面"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.vector/graphicelement/sourcepage/
 ---
-## GraphicElement.SourcePage 属性
+## GraphicElement.SourcePage property
 
 获取提取图形元素的页面。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.vector/graphicelement/sourcepage/
 public Page SourcePage { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../../../aspose.pdf/page/)
-* 类 [GraphicElement](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

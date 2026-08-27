@@ -1,12 +1,12 @@
 ---
-title: XfdfReader.ReadFields
-second_title: Aspose.PDF for .NET API Reference
-description: XfdfReader 方法。 从 XFDF 文件导入字段值
+title: "XfdfReader.ReadFields"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XfdfReader 方法。导入来自 XFDF 文件的字段值"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/xfdfreader/readfields/
 ---
-## XfdfReader.ReadFields 方法
+## XfdfReader.ReadFields method
 
 从 XFDF 文件导入字段值。
 
@@ -17,11 +17,13 @@ public static void ReadFields(Stream stream, Document document)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 包含 XFDF 数据的流。 |
-| document | Document | 将导入字段数据的文档。 |
+| 文档 | Document | 将导入字段数据的文档。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [XfdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

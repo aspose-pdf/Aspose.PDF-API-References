@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 字段。一个标志，指定窗口标题栏是否应显示文档标题
+title: "ViewerPreference.DisplayDocTitle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ViewerPreference 字段。一个标志，指定窗口标题栏是否应显示文档标题"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/viewerpreference/displaydoctitle/
 ---
-## ViewerPreference.DisplayDocTitle 字段
+## ViewerPreference.DisplayDocTitle field
 
-一个标志，指定窗口的标题栏是否应显示文档标题
+指定窗口标题栏是否应显示文档标题的标志。
 
 ```csharp
 public const int DisplayDocTitle;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ViewerPreference](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

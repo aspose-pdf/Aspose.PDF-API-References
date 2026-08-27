@@ -1,12 +1,12 @@
 ---
-title: TiffOptions.TiffOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions 构造函数。默认构造函数
+title: "TiffOptions.TiffOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/tiffoptions/tiffoptions/
 ---
-## TiffOptions 构造函数
+## TiffOptions constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public TiffOptions()
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

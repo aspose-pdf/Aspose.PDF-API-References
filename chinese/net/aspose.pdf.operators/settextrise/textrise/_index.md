@@ -1,12 +1,12 @@
 ---
-title: SetTextRise.TextRise
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextRise 属性。获取或设置文本上升
+title: "SetTextRise.TextRise"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetTextRise 属性。获取或设置文本上升"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/settextrise/textrise/
 ---
-## SetTextRise.TextRise 属性
+## SetTextRise.TextRise property
 
 获取或设置文本上升。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/settextrise/textrise/
 public double TextRise { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [SetTextRise](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

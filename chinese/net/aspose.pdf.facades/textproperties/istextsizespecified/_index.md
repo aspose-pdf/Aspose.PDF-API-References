@@ -1,21 +1,23 @@
 ---
-title: TextProperties.IsTextSizeSpecified
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties 属性。获取或设置一个值，该值指示是否指定了 TextSize 属性
+title: "TextProperties.IsTextSizeSpecified"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextProperties 属性。获取或设置指示是否已指定 TextSize 属性的值"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/textproperties/istextsizespecified/
 ---
-## TextProperties.IsTextSizeSpecified 属性
+## TextProperties.IsTextSizeSpecified property
 
-获取或设置一个值，该值指示是否指定了 [`TextSize`](../textsize/) 属性。
+获取或设置指示是否已指定 [`TextSize`](../textsize/) 属性的值。
 
 ```csharp
 public bool IsTextSizeSpecified { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextProperties](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

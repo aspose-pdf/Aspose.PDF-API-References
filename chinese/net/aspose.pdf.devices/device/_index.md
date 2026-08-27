@@ -1,20 +1,22 @@
 ---
-title: Class Device
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.Device 类。所有类型设备的抽象类。Device 用于以某种格式表示 PDF 文档。例如，文档页面可以表示为图像或文本。
+title: "Device 类。"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Devices.Device 类。所有设备类型的抽象类。Device 用于以某种格式表示 pdf 文档。例如，文档页面可以表示为图像或文本。"
 type: docs
-weight: 3550
+weight: 3670
 url: /zh/net/aspose.pdf.devices/device/
 ---
-## Device 类
+## Device class
 
-所有类型设备的抽象类。Device 用于以某种格式表示 PDF 文档。例如，文档页面可以表示为图像或文本。
+所有设备类型的抽象类。设备用于以某种格式表示 PDF 文档。例如，文档页面可以表示为图像或文本。
 
 ```csharp
 public abstract class Device
 ```
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

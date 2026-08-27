@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings 属性。获取或设置段落的外边距
+title: "PositionSettings.Margin"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PositionSettings 属性。获取或设置段落的外部边距"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.tagged/positionsettings/margin/
 ---
-## PositionSettings.Margin 属性
+## PositionSettings.Margin property
 
 获取或设置段落的外边距。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.tagged/positionsettings/margin/
 public MarginInfo Margin { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [MarginInfo](../../../aspose.pdf/margininfo/)
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

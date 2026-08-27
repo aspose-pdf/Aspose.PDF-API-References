@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 方法。返回集合枚举器
+title: "AnnotationCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AnnotationCollection 方法。返回集合的枚举器"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.annotations/annotationcollection/getenumerator/
 ---
-## AnnotationCollection.GetEnumerator 方法
+## AnnotationCollection.GetEnumerator method
 
-返回集合枚举器。
+返回集合的枚举器。
 
 ```csharp
 public IEnumerator<Annotation> GetEnumerator()
@@ -18,9 +18,11 @@ public IEnumerator<Annotation> GetEnumerator()
 
 枚举器对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [Annotation](../../annotation/)
-* 类 [AnnotationCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

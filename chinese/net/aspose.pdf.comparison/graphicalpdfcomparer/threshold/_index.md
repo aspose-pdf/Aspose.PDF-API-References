@@ -1,21 +1,23 @@
 ---
-title: GraphicalPdfComparer.Threshold
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer 属性。获取和设置百分比的阈值。此值允许您忽略小的变化，如果它们对您来说并不重要。默认值为 0
+title: "GraphicalPdfComparer.Threshold"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicalPdfComparer 属性。获取和设置阈值（百分比）。如果变化不显著，此值可让您忽略细微变化。默认值为 0。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.comparison/graphicalpdfcomparer/threshold/
 ---
-## GraphicalPdfComparer.Threshold 属性
+## GraphicalPdfComparer.Threshold property
 
-获取和设置百分比的阈值。此值允许您忽略小的变化，如果它们对您来说并不重要。默认值为 0%。
+获取和设置阈值（百分比）。如果更改不显著，此值可让您忽略细微变化。默认值为 0%。
 
 ```csharp
 public double Threshold { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphicalPdfComparer](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Row.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: 行属性。获取行是否可以在两个页面之间断开
+title: "Row.IsRowBroken"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Row 属性。获取行是否可以在两页之间断开"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/row/isrowbroken/
 ---
-## Row.IsRowBroken 属性
+## Row.IsRowBroken property
 
-获取行是否可以在两个页面之间断开
+获取行是否可以在两页之间断开
 
 ```csharp
 public bool IsRowBroken { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Row](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

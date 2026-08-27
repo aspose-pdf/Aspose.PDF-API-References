@@ -1,25 +1,27 @@
 ---
-title: Margins.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Margins 属性。获取或设置左边距
+title: "Margins.Left"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Margins 属性。获取或设置左侧。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.devices/margins/left/
 ---
-## Margins.Left 属性
+## Margins.Left property
 
-获取或设置左边距。
+获取或设置左侧。
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-左边距。
+左侧。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Margins](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

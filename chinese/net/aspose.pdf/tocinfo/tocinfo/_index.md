@@ -1,12 +1,12 @@
 ---
-title: TocInfo.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo 构造函数。初始化 TocInfo 类的新实例
+title: "TocInfo.TocInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TocInfo 构造函数。初始化 TocInfo 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/tocinfo/tocinfo/
 ---
-## TocInfo 构造函数
+## TocInfo constructor
 
 初始化 [`TocInfo`](../) 类的新实例。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/tocinfo/tocinfo/
 public TocInfo()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TocInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

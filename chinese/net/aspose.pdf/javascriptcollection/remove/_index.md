@@ -1,12 +1,12 @@
 ---
-title: JavaScriptCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: JavaScriptCollection 方法。通过名称移除 JavaScript
+title: "JavaScriptCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "JavaScriptCollection 方法。按名称移除 JavaScript"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/javascriptcollection/remove/
 ---
-## JavaScriptCollection.Remove 方法
+## JavaScriptCollection.Remove method
 
 通过名称移除 JavaScript。
 
@@ -16,14 +16,16 @@ public bool Remove(string key)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | 字符串 | 键值。 |
+| 键 | String | 键值。 |
 
 ### 返回值
 
-如果 JavaScript 被移除，则为 true；否则为 false。
+True - 如果已移除 javascript；否则为 false。
 
-### 另见
+### 另请参见
 
-* 类 [JavaScriptCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

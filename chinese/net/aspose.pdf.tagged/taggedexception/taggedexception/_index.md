@@ -1,12 +1,12 @@
 ---
-title: TaggedException.TaggedException
-second_title: Aspose.PDF for .NET API Reference
-description: TaggedException 构造函数。初始化 TaggedException 类的新实例
+title: "TaggedException.TaggedException"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TaggedException 构造函数。初始化 TaggedException 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.tagged/taggedexception/taggedexception/
 ---
-## TaggedException 构造函数
+## TaggedException constructor
 
 初始化 [`TaggedException`](../) 类的新实例。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.tagged/taggedexception/taggedexception/
 public TaggedException()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TaggedException](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TaggedException](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

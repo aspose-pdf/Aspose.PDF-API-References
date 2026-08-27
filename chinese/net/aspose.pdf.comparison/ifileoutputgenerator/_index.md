@@ -1,14 +1,14 @@
 ---
-title: Interface IFileOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.IFileOutputGenerator 接口。表示用于生成文本之间差异输出到文件的接口
+title: "接口 IFileOutputGenerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Comparison.IFileOutputGenerator 接口。表示用于将文本差异输出到文件的接口"
 type: docs
-weight: 3210
+weight: 3320
 url: /zh/net/aspose.pdf.comparison/ifileoutputgenerator/
 ---
-## IFileOutputGenerator 接口
+## IFileOutputGenerator interface
 
-表示用于生成文本之间差异输出到文件的接口。
+表示用于将文本差异输出到文件的接口。
 
 ```csharp
 public interface IFileOutputGenerator
@@ -18,10 +18,12 @@ public interface IFileOutputGenerator
 
 | 名称 | 描述 |
 | --- | --- |
-| [GenerateOutput](../../aspose.pdf.comparison/ifileoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;, string) | 根据文本之间的差异生成输出并将其保存到文件。 |
-| [GenerateOutput](../../aspose.pdf.comparison/ifileoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | 根据文本之间的差异生成输出并将其保存到文件。 |
+| [GenerateOutput](../../aspose.pdf.comparison/ifileoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;, string) | 根据文本之间的差异生成输出并将其保存到文件中。 |
+| [GenerateOutput](../../aspose.pdf.comparison/ifileoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | 根据文本之间的差异生成输出并将其保存到文件中。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

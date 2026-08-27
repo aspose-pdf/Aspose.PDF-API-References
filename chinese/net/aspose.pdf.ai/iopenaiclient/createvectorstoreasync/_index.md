@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 方法。异步创建一个新的向量存储
+title: "IOpenAIClient.CreateVectorStoreAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOpenAIClient 方法。异步创建新的向量存储"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.ai/iopenaiclient/createvectorstoreasync/
 ---
-## IOpenAIClient.CreateVectorStoreAsync 方法
+## IOpenAIClient.CreateVectorStoreAsync method
 
-异步创建一个新的向量存储。
+异步创建新的向量存储。
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAsync(
@@ -23,12 +23,14 @@ public Task<VectorStoreResponse> CreateVectorStoreAsync(
 
 ### 返回值
 
-表示异步操作的任务。任务结果包含来自向量存储创建的响应。
+表示异步操作的任务。任务结果包含向量存储创建的响应。
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreResponse](../../vectorstoreresponse/)
-* 类 [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* 接口 [IOpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: WebHyperlink.Url
-second_title: Aspose.PDF for .NET API Reference
-description: WebHyperlink 属性。获取或设置网页 URL
+title: "WebHyperlink.Url"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "WebHyperlink 属性。获取或设置网页 URL"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/webhyperlink/url/
 ---
-## WebHyperlink.Url 属性
+## WebHyperlink.Url property
 
 获取或设置网页 URL。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/webhyperlink/url/
 public string Url { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [WebHyperlink](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

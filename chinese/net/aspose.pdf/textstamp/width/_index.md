@@ -1,12 +1,12 @@
 ---
-title: TextStamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp 属性。印章在页面上的期望宽度
+title: "TextStamp.Width"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextStamp 属性。印章在页面上期望的宽度"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/textstamp/width/
 ---
-## TextStamp.Width 属性
+## TextStamp.Width property
 
 印章在页面上的期望宽度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/textstamp/width/
 public override double Width { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

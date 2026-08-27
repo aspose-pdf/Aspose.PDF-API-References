@@ -1,14 +1,14 @@
 ---
-title: Class TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.TextDocument 类。表示一个具有名称和内容的文本文档
+title: "类 TextDocument"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.TextDocument 类。表示具有名称和内容的文本文档"
 type: docs
-weight: 1090
+weight: 1170
 url: /zh/net/aspose.pdf.ai/textdocument/
 ---
-## TextDocument 类
+## TextDocument class
 
-表示一个具有名称和内容的文本文档。
+表示具有名称和内容的文本文件。
 
 ```csharp
 public class TextDocument
@@ -27,7 +27,9 @@ public class TextDocument
 | [Content](../../aspose.pdf.ai/textdocument/content/) { get; set; } | 获取或设置文本文档的内容。 |
 | [Name](../../aspose.pdf.ai/textdocument/name/) { get; set; } | 获取或设置文本文档的名称。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

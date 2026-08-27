@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.CreateVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 方法。异步创建新的向量存储文件
+title: "IOpenAIClient.CreateVectorStoreFileAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOpenAIClient 方法。异步创建新的向量存储文件"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.ai/iopenaiclient/createvectorstorefileasync/
 ---
-## IOpenAIClient.CreateVectorStoreFileAsync 方法
+## IOpenAIClient.CreateVectorStoreFileAsync method
 
 异步创建新的向量存储文件。
 
@@ -18,9 +18,9 @@ public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorSto
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| vectorStoreId | 字符串 | 将要创建文件的向量存储的 ID。 |
+| vectorStoreId | String | 文件将被创建的向量存储的 ID。 |
 | vectorStoreFileCreateRequest | VectorStoreFileCreateRequest | 包含创建文件详细信息的请求对象。 |
-| cancellationToken | 可空`1 | 用于取消操作的令牌。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -30,12 +30,14 @@ public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorSto
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当向量存储 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当向量存储 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* 类 [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
-* 接口 [IOpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* class [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

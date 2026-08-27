@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 属性。获取字典中包含的元素数量
+title: "AppearanceDictionary.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AppearanceDictionary 属性。获取字典中包含的元素数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/count/
 ---
-## AppearanceDictionary.Count 属性
+## AppearanceDictionary.Count property
 
 获取字典中包含的元素数量。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/appearancedictionary/count/
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AppearanceDictionary](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

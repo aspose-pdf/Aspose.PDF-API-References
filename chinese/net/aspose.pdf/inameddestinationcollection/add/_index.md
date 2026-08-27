@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection 方法。添加新的命名目标
+title: "INamedDestinationCollection.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "INamedDestinationCollection 方法。添加新的命名目标"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/inameddestinationcollection/add/
 ---
-## INamedDestinationCollection.Add 方法
+## INamedDestinationCollection.Add method
 
-添加新的命名目标。
+添加新的已命名目标。
 
 ```csharp
 public void Add(string name, IAppointment appointment)
@@ -16,12 +16,14 @@ public void Add(string name, IAppointment appointment)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | 字符串 | 名称值。 |
-| appointment | IAppointment | 预约对象。 |
+| 名称 | String | 名称值。 |
+| 约会 | IAppointment | Appointment 对象。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* 接口 [INamedDestinationCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

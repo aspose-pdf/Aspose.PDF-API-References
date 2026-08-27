@@ -1,12 +1,12 @@
 ---
-title: WidgetAnnotation.ReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation 属性。获取或设置字段的只读状态
+title: "WidgetAnnotation.ReadOnly"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "WidgetAnnotation 属性。获取或设置字段的只读状态"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/widgetannotation/readonly/
 ---
-## WidgetAnnotation.ReadOnly 属性
+## WidgetAnnotation.ReadOnly property
 
 获取或设置字段的只读状态。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/widgetannotation/readonly/
 public bool ReadOnly { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [WidgetAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

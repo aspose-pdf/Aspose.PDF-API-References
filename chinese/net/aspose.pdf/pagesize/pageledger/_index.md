@@ -1,21 +1,23 @@
 ---
-title: PageSize.PageLedger
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize 属性。账本大小 432x279 毫米
+title: "PageSize.PageLedger"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSize 属性。Ledger 大小 432x279 mm"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/pagesize/pageledger/
 ---
-## PageSize.PageLedger 属性
+## PageSize.PageLedger property
 
-账本大小 (432x279 毫米)。
+Ledger 尺寸 (432x279 mm)。
 
 ```csharp
 public static PageSize PageLedger { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

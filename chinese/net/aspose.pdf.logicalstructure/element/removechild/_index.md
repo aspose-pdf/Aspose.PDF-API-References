@@ -1,14 +1,14 @@
 ---
-title: Element.RemoveChild
-second_title: Aspose.PDF for .NET API Reference
-description: Element 方法。移除子元素
+title: "Element.RemoveChild"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Element 方法。在指定位置移除子项"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.logicalstructure/element/removechild/
 ---
-## Element.RemoveChild 方法
+## Element.RemoveChild method
 
-移除子元素。
+移除指定位置的子对象。
 
 ```csharp
 public void RemoveChild(int index)
@@ -18,8 +18,10 @@ public void RemoveChild(int index)
 | --- | --- | --- |
 | index | Int32 | 子元素索引。 |
 
-### 另见
+### 另请参见
 
-* 类 [Element](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

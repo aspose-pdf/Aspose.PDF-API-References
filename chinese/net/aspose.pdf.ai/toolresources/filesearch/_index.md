@@ -1,12 +1,12 @@
 ---
-title: ToolResources.FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: ToolResources 属性。获取或设置文件搜索工具资源
+title: "ToolResources.FileSearch"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ToolResources 属性。获取或设置文件搜索工具资源"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/toolresources/filesearch/
 ---
-## ToolResources.FileSearch 属性
+## ToolResources.FileSearch property
 
 获取或设置文件搜索工具资源。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.ai/toolresources/filesearch/
 public FileSearch FileSearch { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileSearch](../../filesearch/)
-* 类 [ToolResources](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileSearch](../../filesearch/)
+* class [ToolResources](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

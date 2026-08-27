@@ -1,12 +1,12 @@
 ---
-title: TabStops.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: TabStops 方法。克隆一个新的 TabStops 对象
+title: "TabStops.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TabStops 方法。克隆一个新的 TabStops 对象"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/tabstops/clone/
 ---
-## TabStops.Clone 方法
+## TabStops.Clone method
 
 克隆一个新的 [`TabStops`](../) 对象。
 
@@ -20,6 +20,8 @@ public object Clone()
 
 ### 另请参见
 
-* 类 [TabStops](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

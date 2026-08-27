@@ -1,14 +1,14 @@
 ---
-title: Form.ImportXml
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。导入xml文件中的字段内容并将其放入新的pdf中
+title: "Form.ImportXml"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。将 xml 文件中字段的内容导入并放入新的 pdf。"
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf.facades/form/importxml/
 ---
 ## ImportXml(Stream) {#importxml}
 
-导入xml文件中的字段内容并将其放入新的pdf中。
+从 xml 文件导入字段内容并将其放入新的 pdf。
 
 ```csharp
 public void ImportXml(Stream inputXmlStream)
@@ -16,7 +16,7 @@ public void ImportXml(Stream inputXmlStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputXmlStream | Stream | 从中读取要导入的XML的流。 |
+| inputXmlStream | Stream | 读取导入用 XML 的流。 |
 
 ## 示例
 
@@ -27,7 +27,7 @@ form.ImportXml(fs);
 form.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -37,7 +37,7 @@ form.Save();
 
 ## ImportXml(Stream, bool) {#importxml_1}
 
-导入xml文件中的字段内容并将其放入新的pdf中。
+从 xml 文件导入字段内容并将其放入新的 pdf。
 
 ```csharp
 public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
@@ -45,11 +45,13 @@ public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputXmlStream | Stream | 输入xml流。 |
-| IgnoreFormTemplateChanges | Boolean | 如果此参数为true，则所有XFA表单模板的更改将不会被保存 |
+| inputXmlStream | Stream | 输入的 xml 流。 |
+| IgnoreFormTemplateChanges | Boolean | 如果此参数为 true，则所有对 XFA 表单模板的更改都不会被保存。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Graph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: 图形方法。克隆图形
+title: "Graph.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Graph 方法。克隆图形。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.drawing/graph/clone/
 ---
-## Graph.Clone 方法
+## Graph.Clone method
 
-克隆图形。
+克隆图表。
 
 ```csharp
 public override object Clone()
@@ -18,8 +18,10 @@ public override object Clone()
 
 克隆的对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [Graph](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

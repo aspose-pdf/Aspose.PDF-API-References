@@ -1,12 +1,12 @@
 ---
-title: Enum ShapeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.ShapeType 枚举。此枚举表示提取图像的形状类型
+title: "枚举 ShapeType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Devices.ShapeType 枚举。此枚举表示提取图像的形状类型"
 type: docs
-weight: 3670
+weight: 3790
 url: /zh/net/aspose.pdf.devices/shapetype/
 ---
-## ShapeType 枚举
+## ShapeType enumeration
 
 此枚举表示提取图像的形状类型。
 
@@ -22,7 +22,9 @@ public enum ShapeType
 | Landscape | `1` | 横向形状。 |
 | Portrait | `2` | 纵向形状。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class RootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Structure.RootElement 类。根结构元素
+title: "类 RootElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Structure.RootElement 类。根结构元素"
 type: docs
-weight: 10170
+weight: 10350
 url: /zh/net/aspose.pdf.structure/rootelement/
 ---
-## RootElement 类
+## RootElement class
 
 根结构元素。
 
@@ -18,11 +18,11 @@ public class RootElement : Element
 
 | 名称 | 描述 |
 | --- | --- |
-| virtual [ActualText](../../aspose.pdf.structure/element/actualtext/) { get; set; } | （可选；PDF 1.4）作为结构元素及其子元素的确切替代文本。此替代文本（应尽可能适用于较小的内容）在提取文档内容以支持残疾用户的可访问性或其他目的时非常有用。 |
-| virtual [Alt](../../aspose.pdf.structure/element/alt/) { get; set; } | （可选）结构元素及其子元素的可读形式的替代描述，在提取文档内容以支持残疾用户的可访问性或其他目的时非常有用。 |
+| virtual [ActualText](../../aspose.pdf.structure/element/actualtext/) { get; set; } | (可选；PDF 1.4) 文本是结构元素及其子元素的精确替代。此替代文本（应尽可能适用于最小的内容块）在提取文档内容以支持残障用户的可访问性或用于其他目的时非常有用。 |
+| virtual [Alt](../../aspose.pdf.structure/element/alt/) { get; set; } | (可选) 结构元素及其子元素的人类可读形式的替代描述，在提取文档内容以支持残障用户的可访问性或用于其他目的时非常有用。 |
 | [Children](../../aspose.pdf.structure/element/children/) { get; } | 获取子元素集合。 |
-| virtual [E](../../aspose.pdf.structure/element/e/) { get; set; } | （可选；PDF 1.5）缩写的扩展形式。 |
-| virtual [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | （可选；PDF 1.4）指定结构元素中所有文本的自然语言，除非被嵌套结构元素或标记内容的语言规范覆盖。 |
+| virtual [E](../../aspose.pdf.structure/element/e/) { get; set; } | (可选；PDF 1.5) 缩写的展开形式。 |
+| virtual [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | (可选；PDF 1.4) 指定结构元素中所有文本的自然语言的语言，除非被嵌套结构元素或标记内容的语言规范覆盖。 |
 
 ## 方法
 
@@ -30,8 +30,10 @@ public class RootElement : Element
 | --- | --- |
 | [Remove](../../aspose.pdf.structure/element/remove/)() | 移除元素。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Element](../element/)
-* 命名空间 [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../)
+* class [Element](../element/)
+* namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../)
+
+

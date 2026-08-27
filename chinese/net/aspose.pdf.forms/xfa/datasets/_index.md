@@ -1,21 +1,23 @@
 ---
-title: XFA.Datasets
-second_title: Aspose.PDF for .NET API Reference
-description: XFA 属性。XFA 表单的 XFA 数据集组件
+title: "XFA.Datasets"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFA property. XFA 表单的 XFA Datasets 组件"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/xfa/datasets/
 ---
-## XFA.Datasets 属性
+## XFA.Datasets property
 
-XFA 表单的 XFA 数据集组件。
+XFA Datasets 组件是 XFA 表单的一部分。
 
 ```csharp
 public XmlNode Datasets { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XFA](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

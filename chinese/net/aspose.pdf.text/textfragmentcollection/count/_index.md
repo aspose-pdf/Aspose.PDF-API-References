@@ -1,21 +1,23 @@
 ---
-title: TextFragmentCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection 属性。获取集合中实际包含的 TextFragment 对象元素的数量
+title: "TextFragmentCollection.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentCollection 属性。获取集合中实际包含的 TextFragment 对象元素的数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textfragmentcollection/count/
 ---
-## TextFragmentCollection.Count 属性
+## TextFragmentCollection.Count property
 
-获取实际包含在集合中的 [`TextFragment`](../../textfragment/) 对象元素的数量。
+获取集合中实际包含的 [`TextFragment`](../../textfragment/) 对象元素的数量。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

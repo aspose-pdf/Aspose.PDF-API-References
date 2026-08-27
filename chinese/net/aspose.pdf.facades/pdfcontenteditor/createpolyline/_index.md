@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePolyLine
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。创建多线段注释
+title: "PdfContentEditor.CreatePolyLine"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。创建折线注释"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/
 ---
-## PdfContentEditor.CreatePolyLine 方法
+## PdfContentEditor.CreatePolyLine method
 
-创建多线段注释。
+创建折线注释。
 
 ```csharp
 public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,8 +17,8 @@ public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, str
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | lineInfo | LineInfo | LineInfo 类的实例。 |
-| page | Int32 | 注释将被创建的原始页面的编号。 |
-| annotRect | Rectangle | 定义注释在页面上位置的注释矩形。 |
+| 页面 | Int32 | 注释将被创建的原始页面编号。 |
+| annotRect | Rectangle | 注释矩形定义了注释在页面上的位置。 |
 | annotContents | String | 注释的内容。 |
 
 ## 示例
@@ -33,9 +33,11 @@ editor.CreatePolyLine(lineInfo, 1 , new System.Drawing.Rectangle(0, 0, 0, 0), "W
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [LineInfo](../../lineinfo/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

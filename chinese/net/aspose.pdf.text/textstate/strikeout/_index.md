@@ -1,12 +1,12 @@
 ---
-title: TextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 属性。获取或设置由 TextSegment 对象表示的文本的删除线
+title: "TextState.StrikeOut"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextState 属性。获取或设置由 TextSegment 对象表示的文本的删除线"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.text/textstate/strikeout/
 ---
-## TextState.StrikeOut 属性
+## TextState.StrikeOut property
 
 获取或设置由 [`TextSegment`](../../textsegment/) 对象表示的文本的删除线
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/textstate/strikeout/
 public virtual bool StrikeOut { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextState](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

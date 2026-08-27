@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection 方法。返回集合枚举器
+title: "XImageCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XImageCollection 方法。返回集合枚举器"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/ximagecollection/getenumerator/
 ---
-## XImageCollection.GetEnumerator 方法
+## XImageCollection.GetEnumerator method
 
-返回集合枚举器。
+返回集合的枚举器。
 
 ```csharp
 public IEnumerator<XImage> GetEnumerator()
@@ -18,9 +18,11 @@ public IEnumerator<XImage> GetEnumerator()
 
 集合的枚举器
 
-### 另请参阅
+### 另请参见
 
-* 类 [XImage](../../ximage/)
-* 类 [XImageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

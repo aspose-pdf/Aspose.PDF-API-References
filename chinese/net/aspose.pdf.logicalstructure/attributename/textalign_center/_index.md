@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextAlign_Center
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 字段。属性 TextAlign Center - 在开始和结束边缘之间居中
+title: "AttributeName.TextAlign_Center"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeName 字段。属性 TextAlign Center  位于起始边缘和结束边缘之间居中"
 type: docs
 weight: 550
 url: /zh/net/aspose.pdf.logicalstructure/attributename/textalign_center/
 ---
-## AttributeName.TextAlign_Center 字段
+## AttributeName.TextAlign_Center field
 
-属性 TextAlign: Center - 在开始和结束边缘之间居中。
+属性 TextAlign：居中 - 位于起始边缘和结束边缘之间的居中位置。
 
 ```csharp
 public static readonly AttributeName TextAlign_Center;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeName](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

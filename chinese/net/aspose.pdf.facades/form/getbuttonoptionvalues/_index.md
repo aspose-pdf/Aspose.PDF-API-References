@@ -1,12 +1,12 @@
 ---
-title: Form.GetButtonOptionValues
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。根据字段名称获取单选按钮选项字段及相关值。此方法对单选按钮组有意义。
+title: "Form.GetButtonOptionValues"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。根据字段名获取单选按钮选项字段及相关值。此方法对单选按钮组有意义"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
-## Form.GetButtonOptionValues 方法
+## Form.GetButtonOptionValues method
 
 根据字段名称获取单选按钮选项字段及相关值。此方法对单选按钮组有意义。
 
@@ -16,7 +16,7 @@ public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | 字符串 | 字段名称 |
+| fieldName | String | 字段名称 |
 
 ### 返回值
 
@@ -31,8 +31,10 @@ Console.WriteLine(values["White"].ToString());
 Console.WriteLine(values["Black"].ToString());
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

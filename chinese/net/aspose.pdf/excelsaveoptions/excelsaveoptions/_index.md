@@ -1,12 +1,12 @@
 ---
-title: ExcelSaveOptions.ExcelSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ExcelSaveOptions 构造函数。默认构造函数
+title: "ExcelSaveOptions.ExcelSaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ExcelSaveOptions 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/excelsaveoptions/excelsaveoptions/
 ---
-## ExcelSaveOptions 构造函数
+## ExcelSaveOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/excelsaveoptions/excelsaveoptions/
 public ExcelSaveOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ExcelSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

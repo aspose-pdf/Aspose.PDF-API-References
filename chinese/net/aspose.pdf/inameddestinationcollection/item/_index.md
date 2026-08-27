@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection 属性。通过名称获取或设置目标
+title: "INamedDestinationCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "INamedDestinationCollection 属性。按名称获取或设置目标"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/inameddestinationcollection/item/
 ---
-## INamedDestinationCollection 索引器
+## INamedDestinationCollection indexer
 
-通过名称获取或设置目标。
+获取或设置按名称指定的目标。
 
 ```csharp
 public IAppointment this[string name] { get; set; }
@@ -16,15 +16,17 @@ public IAppointment this[string name] { get; set; }
 
 | 参数 | 描述 |
 | --- | --- |
-| name | 名称值。 |
+| 名称 | 名称值。 |
 
 ### 返回值
 
 目标对象。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* 接口 [INamedDestinationCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

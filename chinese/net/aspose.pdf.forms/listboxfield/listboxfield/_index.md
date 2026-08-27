@@ -1,20 +1,20 @@
 ---
-title: ListBoxField.ListBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField 构造函数。用于生成器的 ListBoxField 构造函数
+title: "ListBoxField.ListBoxField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ListBoxField 构造函数。用于 Generator 的 ListBoxField"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/listboxfield/listboxfield/
 ---
 ## ListBoxField() {#constructor}
 
-用于生成器的 ListBoxField 构造函数。
+用于 Generator 的 ListBoxField 构造函数。
 
 ```csharp
 public ListBoxField()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -32,10 +32,10 @@ public ListBoxField(Page page, Rectangle rect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 列表框将放置的页面。 |
-| rect | Rectangle | 列表框将在页面上放置的矩形。 |
+| 页面 | 页面 | 放置列表框的 Page。 |
+| rect | Rectangle | 在页面上放置列表框的 Rectangle。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -55,13 +55,15 @@ public ListBoxField(Document doc, Rectangle rect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 此字段将属于的文档。 |
-| rect | Rectangle | 列表框将放置的矩形。 |
+| 文档 | Document | 此字段所属的 Document。 |
+| rect | Rectangle | 放置列表框的 Rectangle。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

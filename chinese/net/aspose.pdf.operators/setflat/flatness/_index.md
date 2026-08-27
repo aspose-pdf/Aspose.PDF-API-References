@@ -1,21 +1,23 @@
 ---
-title: SetFlat.Flatness
-second_title: Aspose.PDF for .NET API Reference
-description: SetFlat 属性。获取或设置平坦度
+title: "SetFlat.Flatness"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetFlat 属性。获取或设置平滑度。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/setflat/flatness/
 ---
-## SetFlat.Flatness 属性
+## SetFlat.Flatness property
 
-获取或设置平坦度。
+获取或设置平整度。
 
 ```csharp
 public double Flatness { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SetFlat](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

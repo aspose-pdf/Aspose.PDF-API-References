@@ -1,12 +1,12 @@
 ---
-title: PptxSaveOptions.OptimizeTextBoxes
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions 属性。切换文本列识别
+title: "PptxSaveOptions.OptimizeTextBoxes"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PptxSaveOptions 属性。切换文本列识别"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
 ---
-## PptxSaveOptions.OptimizeTextBoxes 属性
+## PptxSaveOptions.OptimizeTextBoxes property
 
 切换文本列识别
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
 public bool OptimizeTextBoxes { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PptxSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

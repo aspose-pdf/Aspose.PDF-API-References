@@ -1,12 +1,12 @@
 ---
-title: Opi.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Opi 属性。获取包含低分辨率代理图像的外部文件
+title: "Opi.FileSpecification"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Opi 属性。获取包含低分辨率代理图像的外部文件"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/opi/filespecification/
 ---
-## Opi.FileSpecification 属性
+## Opi.FileSpecification property
 
 获取包含低分辨率代理图像的外部文件。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/opi/filespecification/
 public string FileSpecification { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Opi](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

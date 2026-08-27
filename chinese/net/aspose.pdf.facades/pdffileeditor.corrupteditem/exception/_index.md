@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.CorruptedItem.Exception
-second_title: Aspose.PDF for .NET API Reference
-description: CorruptedItem 属性。为此文件抛出的异常，指示文件存在问题
+title: "PdfFileEditor.CorruptedItem.Exception"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CorruptedItem 属性。针对该文件抛出的异常，表示文件存在问题"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdffileeditor.corrupteditem/exception/
 ---
-## PdfFileEditor.CorruptedItem.Exception 属性
+## PdfFileEditor.CorruptedItem.Exception property
 
-为此文件抛出的异常，指示文件存在问题。
+针对该文件抛出的异常，指示文件存在问题。
 
 ```csharp
 public Exception Exception { get; }
@@ -19,3 +19,5 @@ public Exception Exception { get; }
 * class [CorruptedItem](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

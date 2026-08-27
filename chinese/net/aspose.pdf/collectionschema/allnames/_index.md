@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema 属性。获取所有模式字段名称
+title: "CollectionSchema.AllNames"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CollectionSchema 属性。获取所有模式字段名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/collectionschema/allnames/
 ---
-## CollectionSchema.AllNames 属性
+## CollectionSchema.AllNames property
 
 获取所有模式的字段名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/collectionschema/allnames/
 public ICollection<string> AllNames { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CollectionSchema](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

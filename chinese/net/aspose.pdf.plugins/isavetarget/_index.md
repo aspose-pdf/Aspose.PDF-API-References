@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ISaveTarget 接口。定义具体操作结果保存目标应实现的公共成员的一般保存目标接口
+title: "接口 ISaveTarget"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.ISaveTarget 接口。通用保存目标接口，定义具体操作结果保存目标应实现的公共成员。"
 type: docs
-weight: 8880
+weight: 9010
 url: /zh/net/aspose.pdf.plugins/isavetarget/
 ---
-## ISaveTarget 接口
+## ISaveTarget interface
 
-定义具体操作结果保存目标应实现的公共成员的一般保存目标接口。
+通用保存目标接口，定义具体操作结果保存目标应实现的公共成员。
 
 ```csharp
 public interface ISaveTarget
@@ -20,7 +20,9 @@ public interface ISaveTarget
 | --- | --- |
 | [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | 保存目标的类型（文件或流）。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

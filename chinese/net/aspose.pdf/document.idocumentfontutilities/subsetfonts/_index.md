@@ -1,14 +1,14 @@
 ---
-title: Document.IDocumentFontUtilities.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: IDocumentFontUtilities 方法。对文档中的所有字体进行子集处理
+title: "Document.IDocumentFontUtilities.SubsetFonts"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IDocumentFontUtilities 方法。对文档中的所有字体进行子集化"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/document.idocumentfontutilities/subsetfonts/
 ---
-## Document.IDocumentFontUtilities.SubsetFonts 方法
+## Document.IDocumentFontUtilities.SubsetFonts method
 
-对文档中的所有字体进行子集处理
+对 document 中的所有字体进行子集化。
 
 ```csharp
 public void SubsetFonts(FontSubsetStrategy subsetStrategy)
@@ -18,9 +18,11 @@ public void SubsetFonts(FontSubsetStrategy subsetStrategy)
 | --- | --- | --- |
 | subsetStrategy | FontSubsetStrategy | 策略 |
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [FontSubsetStrategy](../../fontsubsetstrategy/)
-* 接口 [IDocumentFontUtilities](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [FontSubsetStrategy](../../fontsubsetstrategy/)
+* interface [IDocumentFontUtilities](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Signature.Location
-second_title: Aspose.PDF for .NET API Reference
-description: 签名属性。签名的 CPU 主机名或物理位置
+title: "Signature.Location"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Signature 属性。签名的 CPU 主机名或物理位置"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.forms/signature/location/
 ---
-## Signature.Location 属性
+## Signature.Location property
 
-签名的 CPU 主机名或物理位置。
+签署的 CPU 主机名或物理位置。
 
 ```csharp
 public string Location { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

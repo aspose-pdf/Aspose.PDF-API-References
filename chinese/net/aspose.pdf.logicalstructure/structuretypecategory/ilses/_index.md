@@ -1,21 +1,23 @@
 ---
-title: StructureTypeCategory.ILSEs
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory 字段。行内级结构元素 ILSEs 描述了 BLSE 中内容的布局，沿着行内进展方向进行。
+title: "StructureTypeCategory.ILSEs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureTypeCategory 字段。内联级结构元素 ILSEs 描述在内联进程方向上 BLSE 中内容的布局。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.logicalstructure/structuretypecategory/ilses/
 ---
-## StructureTypeCategory.ILSEs 字段
+## StructureTypeCategory.ILSEs field
 
-行内级结构元素 (ILSEs) 描述了 BLSE 中内容的布局，沿着行内进展方向进行。
+行内级结构元素（ILSE）描述 BLSE 内部内容的布局，沿行内进程方向进行。
 
 ```csharp
 public static readonly StructureTypeCategory ILSEs;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTypeCategory](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

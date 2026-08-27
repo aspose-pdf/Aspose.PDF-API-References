@@ -1,14 +1,14 @@
 ---
-title: Interface ILlamaClient
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ILlamaClient 接口。表示与 Llama API 交互的客户端接口
+title: "接口 ILlamaClient"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.ILlamaClient 接口。表示用于与 Llama API 交互的客户端接口"
 type: docs
-weight: 530
+weight: 550
 url: /zh/net/aspose.pdf.ai/illamaclient/
 ---
-## ILlamaClient 接口
+## ILlamaClient interface
 
-表示与 Llama API 交互的客户端接口。
+表示用于与 Llama API 交互的客户端接口。
 
 ```csharp
 public interface ILlamaClient
@@ -20,7 +20,9 @@ public interface ILlamaClient
 | --- | --- |
 | [CreateCompletionAsync](../../aspose.pdf.ai/illamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | 在 Llama 服务中创建聊天完成请求。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

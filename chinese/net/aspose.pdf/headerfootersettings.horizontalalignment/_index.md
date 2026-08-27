@@ -1,12 +1,12 @@
 ---
-title: Class HeaderFooterSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment 类。表示页眉和页脚的水平对齐设置
+title: "类 HeaderFooterSettings.HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment 类。表示页眉和页脚的水平对齐设置"
 type: docs
-weight: 5460
+weight: 5580
 url: /zh/net/aspose.pdf/headerfootersettings.horizontalalignment/
 ---
-## HeaderFooterSettings.HorizontalAlignment 类
+## HeaderFooterSettings.HorizontalAlignment class
 
 表示页眉和页脚的水平对齐设置。
 
@@ -28,8 +28,10 @@ public class HorizontalAlignment
 | [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | 获取或设置左对齐设置。 |
 | [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | 获取或设置右对齐设置。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [HeaderFooterSettings](../headerfootersettings/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [HeaderFooterSettings](../headerfootersettings/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

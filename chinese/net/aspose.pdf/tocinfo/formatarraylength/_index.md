@@ -1,21 +1,23 @@
 ---
-title: TocInfo.FormatArrayLength
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo 属性。获取或设置格式数组长度
+title: "TocInfo.FormatArrayLength"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TocInfo 属性。获取或设置格式数组长度"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/tocinfo/formatarraylength/
 ---
-## TocInfo.FormatArrayLength 属性
+## TocInfo.FormatArrayLength property
 
-获取或设置格式数组长度
+获取或设置格式数组的长度
 
 ```csharp
 public int FormatArrayLength { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TocInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

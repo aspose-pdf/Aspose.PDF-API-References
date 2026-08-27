@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 字段。文档大纲和缩略图均不可见
+title: "ViewerPreference.NonFullScreenPageModeUseNone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ViewerPreference 字段。文档大纲和缩略图均不可见"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 ---
-## ViewerPreference.NonFullScreenPageModeUseNone 字段
+## ViewerPreference.NonFullScreenPageModeUseNone field
 
 文档大纲和缩略图均不可见。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 public const int NonFullScreenPageModeUseNone;
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

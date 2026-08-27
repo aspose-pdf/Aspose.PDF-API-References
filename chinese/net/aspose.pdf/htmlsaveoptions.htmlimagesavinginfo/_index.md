@@ -1,14 +1,14 @@
 ---
-title: Class HtmlSaveOptions.HtmlImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlImageSavingInfo 类。此类表示与 PDF 转换为 HTML 过程中外部资源图像文件保存相关的数据集
+title: "类 HtmlSaveOptions.HtmlImageSavingInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HtmlSaveOptionsHtmlImageSavingInfo 类。此类表示在 PDF 转换为 HTML 期间与外部资源图像文件保存相关的一组数据。"
 type: docs
-weight: 5640
+weight: 5770
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo 类
+## HtmlSaveOptions.HtmlImageSavingInfo class
 
-此类表示与 PDF 转换为 HTML 过程中外部资源图像文件保存相关的数据集。
+此类表示与 PDF 转换为 HTML 期间外部资源图像文件保存相关的一组数据。
 
 ```csharp
 public class HtmlImageSavingInfo : ResourceSavingInfo
@@ -24,23 +24,25 @@ public class HtmlImageSavingInfo : ResourceSavingInfo
 
 | 名称 | 描述 |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | 由转换器设置。假定的文件名，从转换器传递到自定义方法的代码中。可以在自定义代码中使用，以决定如何处理或保存该文件 |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | 由转换器设置。假定的文件名从转换器传递到自定义方法的代码，可在自定义代码中使用，以决定如何处理或将文件保存在哪里。 |
 
 ## 字段
 
 | 名称 | 描述 |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | 由转换器设置。表示保存文件的二进制内容。 |
-| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | 如果由于某种原因提议的文件应以标准转换器方式而不是自定义代码进行处理，则此标志必须在自定义代码中设置为“true”。因此，将其设置为 true 意味着自定义代码未处理引用的文件，转换器必须自行处理（在保存到某处和在引用文件中命名的两个方面）。 |
-| [HtmlHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber) | 告诉自定义代码保存的图像属于生成的 HTML 页面文件集的哪个页面。如果关闭按页面拆分，则此值始终包含 '1'，因为在这种情况下只生成一个 HTML 页面。 |
-| [ImageType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype) | 表示在 HTML 中引用的保存图像的类型。由转换器设置，可以在自定义代码中使用以决定应采取何种措施 |
-| [ParentType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype) | 保存的图像可以属于 HTML 本身或可以从嵌入到 HTML 中的 SVG 中提取。此属性可以告诉自定义代码处理图像的父级类型。由转换器设置，可以在自定义代码中使用以决定应对该图像采取何种措施（例如，自定义代码可以决定将图像保存到何处或如何在父内容中引用它）。 |
-| [PdfHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber) | 告诉自定义代码保存的图像属于原始 PDF 文档的哪个页面。由于可能不会保存原始文档的所有页面，因此此值告诉我们原始 PDF 中的主页面编号。如果由于某种原因原始页面编号未知，则始终返回 '1' |
-| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | 由转换器设置。假定的文件名，从转换器传递到自定义方法的代码中。可以在自定义代码中使用，以决定如何处理或保存该文件 |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | 由转换器设置。表示已保存文件的二进制内容。 |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | 如果出于某些原因建议的文件应由转换器的代码而非自定义代码进行处理，则必须在自定义代码中将此标志设置为 \"true\"。因此，将此设置为 true 表示自定义代码未处理引用的文件，转换器必须自行处理它（包括保存位置和在引用文件中的命名）。 |
+| [HtmlHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber) | 指示自定义代码保存的图像对应于生成的 HTML 页面文件集合中的哪一页。如果关闭分页，此值始终为 '1'，因为此情况下只生成一个 HTML 页面。 |
+| [ImageType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype) | 表示在 HTML 中引用的已保存图像的类型。由转换器设置，可在自定义代码中使用以决定应执行的操作 |
+| [ParentType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype) | 已保存的图像可以属于 HTML 本身，也可以从嵌入到 HTML 的 SVG 中提取。此属性可告知自定义代码处理图像的父级类型。它由转换器设置，可在自定义代码中使用，以决定对该图像应执行的操作（例如，自定义代码可以决定图像保存的位置或在父级内容中如何引用它）。 |
+| [PdfHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber) | 告知自定义代码已保存图像对应原始 PDF 文档的哪一页。由于可能并非原始文档的所有页面都会被保存，此值指示在原始 PDF 中的宿主页码。如果由于某种原因原始页码未知，则始终返回 “1”。 |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | 由转换器设置。假定的文件名从转换器传递到自定义方法的代码，可在自定义代码中使用，以决定如何处理或将文件保存在哪里。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
-* 类 [HtmlSaveOptions](../htmlsaveoptions/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

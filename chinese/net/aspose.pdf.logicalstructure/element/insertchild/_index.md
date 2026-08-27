@@ -1,14 +1,14 @@
 ---
-title: Element.InsertChild
-second_title: Aspose.PDF for .NET API Reference
-description: Element 方法。将元素插入到指定索引的子元素集合中
+title: "Element.InsertChild"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Element 方法。将 Element 插入到子元素集合的指定索引位置"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.logicalstructure/element/insertchild/
 ---
-## Element.InsertChild 方法
+## Element.InsertChild method
 
-将元素插入到指定索引的子元素集合中。
+在指定索引处将元素插入子集合中。
 
 ```csharp
 public Element InsertChild(Element element, int index, bool checkIfCanBeInserted = true)
@@ -16,13 +16,13 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| element | Element | 要添加的元素对象。 |
-| index | Int32 | 元素索引。 |
+| 元素 | Element | 要添加的 Element 对象。 |
+| index | Int32 | Element 索引。 |
 | checkIfCanBeInserted | Boolean | 检查是否可以插入。 |
 
 ### 返回值
 
-已添加的元素。
+已添加的 Element。
 
 ### 异常
 
@@ -30,8 +30,10 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 | --- | --- |
 | [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Element](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

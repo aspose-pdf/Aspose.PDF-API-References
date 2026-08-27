@@ -1,21 +1,23 @@
 ---
-title: XFA.XDP
-second_title: Aspose.PDF for .NET API Reference
-description: XFA 属性。XML 数据包包含所有 XFA 表单组件在一个 XML 容器内
+title: "XFA.XDP"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFA 属性。XML Data Package 将所有 XFA 表单组件封装在外围 XML 容器中"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.forms/xfa/xdp/
 ---
-## XFA.XDP 属性
+## XFA.XDP property
 
-XML 数据包（所有 XFA 表单组件在一个 XML 容器内）。
+XML 数据包（所有位于外围 XML 容器中的 XFA 表单组件）。
 
 ```csharp
 public XmlDocument XDP { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XFA](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

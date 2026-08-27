@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection 方法。删除 GraphicElement 元素
+title: "GraphicElementCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElementCollection 方法。删除 GraphicElement 元素"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.vector/graphicelementcollection/remove/
 ---
-## GraphicElementCollection.Remove 方法
+## GraphicElementCollection.Remove method
 
 删除 [`GraphicElement`](../../graphicelement/) 元素。
 
@@ -20,11 +20,13 @@ public bool Remove(GraphicElement item)
 
 ### 返回值
 
-如果找到元素，则为 true；否则为 false。
+True - 如果找到元素；否则，false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphicElement](../../graphicelement/)
-* 类 [GraphicElementCollection](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

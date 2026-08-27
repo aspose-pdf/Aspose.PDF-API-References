@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.IsParagraphHasMargin
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment 属性。获取或设置段落是否具有默认边距，否则边距为 0
+title: "HtmlFragment.IsParagraphHasMargin"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlFragment 属性。获取或设置段落是否具有默认边距，否则边距为 0。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/htmlfragment/isparagraphhasmargin/
 ---
-## HtmlFragment.IsParagraphHasMargin 属性
+## HtmlFragment.IsParagraphHasMargin property
 
 获取或设置段落是否具有默认边距，否则边距为 0
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/htmlfragment/isparagraphhasmargin/
 public bool IsParagraphHasMargin { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlFragment](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

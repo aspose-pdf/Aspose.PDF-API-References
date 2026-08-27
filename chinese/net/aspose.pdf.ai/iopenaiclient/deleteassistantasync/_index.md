@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.DeleteAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 方法。异步删除现有助手
+title: "IOpenAIClient.DeleteAssistantAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOpenAIClient 方法。异步删除现有助手。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.ai/iopenaiclient/deleteassistantasync/
 ---
-## IOpenAIClient.DeleteAssistantAsync 方法
+## IOpenAIClient.DeleteAssistantAsync method
 
-异步删除现有助手。
+异步删除现有的助手。
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId, 
@@ -17,8 +17,8 @@ public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| assistantId | 字符串 | 要删除的助手的 ID。 |
-| cancellationToken | 可空`1 | 取消操作的令牌。 |
+| assistantId | String | 要删除的助手的 ID。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -28,11 +28,13 @@ public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId,
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当助手 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当助手 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [DeleteStatusResponse](../../deletestatusresponse/)
-* 接口 [IOpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

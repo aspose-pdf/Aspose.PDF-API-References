@@ -1,14 +1,14 @@
 ---
-title: Enum PdfToImageOptions.ImageConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToImageOptionsImageConversionMode 枚举。定义在将 PDF 文档转换为 Jpeg 图像时可以使用的不同模式。请参见 JpegOptions 类
+title: "枚举 PdfToImageOptions.ImageConversionMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.PdfToImageOptionsImageConversionMode 枚举。定义在将 PDF 文档转换为 Jpeg 图像时可使用的不同模式。参见 JpegOptions 类。"
 type: docs
-weight: 9140
+weight: 9290
 url: /zh/net/aspose.pdf.plugins/pdftoimageoptions.imageconversionmode/
 ---
-## PdfToImageOptions.ImageConversionMode 枚举
+## PdfToImageOptions.ImageConversionMode enumeration
 
-定义在将 PDF 文档转换为 Jpeg 图像时可以使用的不同模式。请参见 [`JpegOptions`](../jpegoptions/) 类。
+定义在将 PDF 文档转换为 Jpeg 图像时可使用的不同模式。参见 [`JpegOptions`](../jpegoptions/) 类。
 
 ```csharp
 public enum ImageConversionMode
@@ -20,8 +20,10 @@ public enum ImageConversionMode
 | --- | --- | --- |
 | None | `0` | 默认模式。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfToImageOptions](../pdftoimageoptions/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* class [PdfToImageOptions](../pdftoimageoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.GetDifference
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer 方法。获取页面图像之间的差异。结果包含比较的第一页的图像和一个差异数组。
+title: "GraphicalPdfComparer.GetDifference"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicalPdfComparer 方法。获取页面图像之间的差异。结果包含比较后的第一页图像以及差异数组"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/
 ---
-## GraphicalPdfComparer.GetDifference 方法
+## GraphicalPdfComparer.GetDifference method
 
-获取页面图像之间的差异。结果包含比较的第一页的图像和一个差异数组。
+获取页面图像之间的差异。结果包含第一页的比较图像以及差异数组。
 
 ```csharp
 public ImagesDifference GetDifference(Page page1, Page page2)
@@ -16,23 +16,25 @@ public ImagesDifference GetDifference(Page page1, Page page2)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page1 | Page | 第一页。 |
-| page2 | Page | 第二页。 |
+| page1 | 页面 | 第一页。 |
+| page2 | 页面 | 第二页。 |
 
 ### 返回值
 
-[`ImagesDifference`](../../imagesdifference/) 实例。
+该 [`ImagesDifference`](../../imagesdifference/) 实例。
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 如果被比较的页面大小不同。 |
+| ArgumentException | 如果被比较的页面尺寸不同。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImagesDifference](../../imagesdifference/)
-* 类 [Page](../../../aspose.pdf/page/)
-* 类 [GraphicalPdfComparer](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImagesDifference](../../imagesdifference/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

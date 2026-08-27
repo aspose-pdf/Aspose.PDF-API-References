@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.TextColor
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance 属性。获取或设置默认外观中文本的颜色
+title: "DefaultAppearance.TextColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DefaultAppearance 属性。获取或设置默认外观中文本的颜色。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/defaultappearance/textcolor/
 ---
-## DefaultAppearance.TextColor 属性
+## DefaultAppearance.TextColor property
 
 获取或设置默认外观中文本的颜色。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/defaultappearance/textcolor/
 public Color TextColor { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

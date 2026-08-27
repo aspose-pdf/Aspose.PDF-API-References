@@ -1,21 +1,23 @@
 ---
-title: XFA.Template
-second_title: Aspose.PDF for .NET API Reference
-description: XFA属性。XFA表单的XFA模板组件
+title: "XFA.Template"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFA 属性。XFA Template 是 XFA 表单的组件"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.forms/xfa/template/
 ---
-## XFA.Template 属性
+## XFA.Template property
 
-XFA 表单的 XFA 模板组件。
+XFA Template 组件是 XFA 表单的一部分。
 
 ```csharp
 public XmlNode Template { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XFA](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

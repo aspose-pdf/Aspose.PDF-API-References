@@ -1,14 +1,14 @@
 ---
-title: Class MoveTextPositionSetLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.MoveTextPositionSetLeading 类。表示 TD 操作符移动位置并设置行距的类
+title: "类 MoveTextPositionSetLeading"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.MoveTextPositionSetLeading 类。类表示 TD 运算符移动位置并设置行距"
 type: docs
-weight: 7490
+weight: 7630
 url: /zh/net/aspose.pdf.operators/movetextpositionsetleading/
 ---
 ## MoveTextPositionSetLeading class
 
-表示 TD 操作符（移动位置并设置行距）。
+表示运算符 TD（移动位置并设置行距）的类。
 
 ```csharp
 public class MoveTextPositionSetLeading : TextPlaceOperator
@@ -36,8 +36,10 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextPlaceOperator](../textplaceoperator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。移除文档中的所有字段并替换为它们的值
+title: "Document.Flatten"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。移除文档中的所有字段，并用其值替代"
 type: docs
-weight: 640
+weight: 660
 url: /zh/net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}
 
-移除文档中的所有字段并替换为它们的值。
+从文档中移除所有字段并用其值替代。
 
 ```csharp
 public void Flatten()
@@ -24,7 +24,7 @@ public void Flatten()
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
-移除文档中的所有字段（和注释）并替换为它们的值。
+从文档中移除所有字段（以及注释），并用其值替代。
 
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)
@@ -40,3 +40,5 @@ public void Flatten(FlattenSettings flattenSettings)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

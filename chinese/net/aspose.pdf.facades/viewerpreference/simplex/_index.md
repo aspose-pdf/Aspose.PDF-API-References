@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.Simplex
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 字段。打印单面
+title: "ViewerPreference.Simplex"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ViewerPreference 字段。单面打印"
 type: docs
 weight: 290
 url: /zh/net/aspose.pdf.facades/viewerpreference/simplex/
 ---
-## ViewerPreference.Simplex 字段
+## ViewerPreference.Simplex field
 
-打印单面。
+单面打印。
 
 ```csharp
 public const int Simplex;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ViewerPreference](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

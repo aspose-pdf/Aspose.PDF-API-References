@@ -1,14 +1,14 @@
 ---
-title: Document.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取文档操作。该属性是 DocumentActions 类的实例，允许获取/设置 BeforClosing、BeforSaving 等操作
+title: "Document.Actions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取文档操作。此属性是 DocumentActions 类的实例，允许获取/设置 BeforClosing、BeforSaving 等操作。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/document/actions/
 ---
-## Document.Actions 属性
+## Document.Actions property
 
-获取文档操作。该属性是 DocumentActions 类的实例，允许获取/设置 BeforClosing、BeforSaving 等操作。
+获取文档操作。此属性是 DocumentActions 类的实例，允许获取/设置 BeforClosing、BeforSaving 等操作。
 
 ```csharp
 public DocumentActionCollection Actions { get; }
@@ -24,9 +24,11 @@ Aspose.Pdf.Annotations.DocumentActionCollection actions = document.Actions;
 Aspose.Pdf.Annotations.PdfAction afterSavingAction = actions.AfterSaving;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

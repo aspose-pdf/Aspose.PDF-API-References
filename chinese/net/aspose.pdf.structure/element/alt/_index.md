@@ -1,14 +1,14 @@
 ---
-title: Element.Alt
-second_title: Aspose.PDF for .NET API Reference
-description: Element 属性。可选的结构元素及其子元素的备用描述，以人类可读的形式呈现，这在提取文档内容以支持残疾用户的可访问性或其他目的时非常有用
+title: "Element.Alt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Element 属性。可选的结构元素及其子元素的替代描述（人类可读形式），在为残障用户提供可访问性或其他用途时提取文档内容时非常有用。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.structure/element/alt/
 ---
-## Element.Alt 属性
+## Element.Alt property
 
-（可选）结构元素及其子元素的备用描述，以人类可读的形式呈现，这在提取文档内容以支持残疾用户的可访问性或其他目的时非常有用。
+(可选) 结构元素及其子元素的人类可读形式的替代描述，在提取文档内容以支持残障用户的可访问性或用于其他目的时非常有用。
 
 ```csharp
 public virtual string Alt { get; set; }
@@ -16,6 +16,8 @@ public virtual string Alt { get; set; }
 
 ### 另请参见
 
-* 类 [Element](../)
-* 命名空间 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

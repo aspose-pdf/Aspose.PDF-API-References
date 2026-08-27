@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementAbsorber 构造函数。默认构造函数
+title: "ImagePlacementAbsorber.ImagePlacementAbsorber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagePlacementAbsorber 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 ---
-## ImagePlacementAbsorber 构造函数
+## ImagePlacementAbsorber constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 public ImagePlacementAbsorber()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: EncryptionOptions.CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionOptions 属性。加密算法详见 CryptoAlgorithm
+title: "EncryptionOptions.CryptoAlgorithm"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EncryptionOptions 属性。加密算法，请参阅 CryptoAlgorithm 了解详情"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/encryptionoptions/cryptoalgorithm/
 ---
-## EncryptionOptions.CryptoAlgorithm 属性
+## EncryptionOptions.CryptoAlgorithm property
 
-加密算法，详见 `CryptoAlgorithm`。
+加密算法，请参阅 `CryptoAlgorithm` 了解详情。
 
 ```csharp
 public CryptoAlgorithm CryptoAlgorithm { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
-* 类 [EncryptionOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

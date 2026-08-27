@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId
-second_title: Aspose.PDF for .NET API Reference
-description: ProgressEventHandlerInfo 字段。唯一的文档 ID
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ProgressEventHandlerInfo 字段。唯一的文档 ID"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/
 ---
-## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId 字段
+## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId field
 
 唯一的文档 ID。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/
 public Guid DocumentId;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ProgressEventHandlerInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

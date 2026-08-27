@@ -1,12 +1,12 @@
 ---
-title: Class OpenAIClient.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIClientBuilder 类。用于创建 OpenAIClient 实例的构建器类
+title: "类 OpenAIClient.Builder"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.OpenAIClientBuilder 类。用于创建 OpenAIClient 实例的构建器类。"
 type: docs
-weight: 850
+weight: 910
 url: /zh/net/aspose.pdf.ai/openaiclient.builder/
 ---
-## OpenAIClient.Builder 类
+## OpenAIClient.Builder class
 
 用于创建 [`OpenAIClient`](../openaiclient/) 实例的构建器类。
 
@@ -24,14 +24,16 @@ public class Builder
 
 | 名称 | 描述 |
 | --- | --- |
-| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | 构建并返回一个具有配置选项的 [`OpenAIClient`](../openaiclient/) 实例。 |
-| [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) | 为客户端设置 API 版本。 |
-| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | 为客户端设置基础域。 |
-| [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) | 为客户端设置组织 ID。 |
-| [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) | 为客户端设置项目 ID。 |
+| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | 构建并返回一个使用已配置选项的 [`OpenAIClient`](../openaiclient/) 实例。 |
+| [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) | 设置客户端的 API 版本。 |
+| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | 设置客户端的基础域名。 |
+| [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) | 设置客户端的组织 ID。 |
+| [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) | 设置客户端的项目 ID。 |
 
-### 另见
+### 另请参见
 
-* 类 [OpenAIClient](../openaiclient/)
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* class [OpenAIClient](../openaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

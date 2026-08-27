@@ -1,14 +1,14 @@
 ---
-title: BatesNArtifact.NumberOfDigits
-second_title: Aspose.PDF for .NET API Reference
-description: BatesNArtifact 属性。获取或设置 Bates 编号的数字位数。值必须在 3 到 15 之间（包括 3 和 15）。如果设置的值小于 3，则将调整为 3。如果设置的值大于 15，则将调整为 15。默认值为 6
+title: "BatesNArtifact.NumberOfDigits"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BatesNArtifact 属性。获取或设置 Bates 编号的位数。该值必须在 3 到 15（含）之间。如果设置的值小于 3，将自动调整为 3；如果设置的值大于 15，将自动调整为 15。默认值为 6。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/batesnartifact/numberofdigits/
 ---
-## BatesNArtifact.NumberOfDigits 属性
+## BatesNArtifact.NumberOfDigits property
 
-获取或设置 Bates 编号的数字位数。值必须在 3 到 15 之间（包括 3 和 15）。如果设置的值小于 3，则将调整为 3。如果设置的值大于 15，则将调整为 15。默认值为 6。
+获取或设置 Bates 编号的位数。该值必须在 3 到 15（含）之间。如果设置的值小于 3，将自动调整为 3；如果设置的值大于 15，将自动调整为 15。默认值为 6。
 
 ```csharp
 public int NumberOfDigits { get; set; }
@@ -19,3 +19,5 @@ public int NumberOfDigits { get; set; }
 * class [BatesNArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

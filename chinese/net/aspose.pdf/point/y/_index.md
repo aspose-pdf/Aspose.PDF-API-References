@@ -1,12 +1,12 @@
 ---
-title: Point.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Point 属性。Y 坐标值
+title: "Point.Y"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Point 属性。Y 坐标值"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/point/y/
 ---
-## Point.Y 属性
+## Point.Y property
 
 Y 坐标值。
 
@@ -14,8 +14,10 @@ Y 坐标值。
 public double Y { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Point](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

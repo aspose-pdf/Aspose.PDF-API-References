@@ -1,12 +1,12 @@
 ---
-title: Class StreamResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.StreamResult 类。表示以 Stream 形式的操作结果
+title: "类 StreamResult"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.StreamResult 类。表示以 Stream 形式的操作结果"
 type: docs
-weight: 9300
+weight: 9450
 url: /zh/net/aspose.pdf.plugins/streamresult/
 ---
-## StreamResult 类
+## StreamResult class
 
 表示以 Stream 形式的操作结果。
 
@@ -30,8 +30,10 @@ public sealed class StreamResult : IOperationResult
 | [ToFile](../../aspose.pdf.plugins/streamresult/tofile/)() | 尝试将结果转换为文件。 |
 | [ToStream](../../aspose.pdf.plugins/streamresult/tostream/)() | 尝试将结果转换为流对象。 |
 
-### 另见
+### 另请参见
 
-* 接口 [IOperationResult](../ioperationresult/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IOperationResult](../ioperationresult/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

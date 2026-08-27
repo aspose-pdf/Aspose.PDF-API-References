@@ -1,21 +1,23 @@
 ---
-title: Heading.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Heading 属性。获取此标题的顶部 Y 值
+title: "Heading.Top"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Heading 属性。获取此标题的顶部 Y 坐标。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/heading/top/
 ---
-## Heading.Top 属性
+## Heading.Top property
 
-获取此标题的顶部 Y 值。
+获取此标题的顶部 Y 坐标。
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Heading](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum LaunchActionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LaunchActionOperation 枚举。枚举在执行启动操作时对文档执行的操作
+title: "枚举 LaunchActionOperation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.LaunchActionOperation 枚举。枚举在执行启动操作时对文档执行的操作"
 type: docs
-weight: 1960
+weight: 2050
 url: /zh/net/aspose.pdf.annotations/launchactionoperation/
 ---
-## LaunchActionOperation 枚举
+## LaunchActionOperation enumeration
 
 枚举在执行启动操作时对文档执行的操作。
 
@@ -22,7 +22,9 @@ public enum LaunchActionOperation
 | Open | `1` | 打开文档。 |
 | Print | `2` | 打印文档。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

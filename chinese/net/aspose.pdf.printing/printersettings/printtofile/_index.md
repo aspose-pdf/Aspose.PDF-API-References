@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrintToFile
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings 属性。指示是否将打印输出到文件而不是端口
+title: "PrinterSettings.PrintToFile"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PrinterSettings property. 指示是否将打印输出到文件而不是端口"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.printing/printersettings/printtofile/
 ---
-## PrinterSettings.PrintToFile 属性
+## PrinterSettings.PrintToFile property
 
 指示是否将打印输出到文件而不是端口。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.printing/printersettings/printtofile/
 public bool PrintToFile { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PrinterSettings](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

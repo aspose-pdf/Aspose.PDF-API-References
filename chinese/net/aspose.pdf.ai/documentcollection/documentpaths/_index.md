@@ -1,12 +1,12 @@
 ---
-title: DocumentCollection.DocumentPaths
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentCollection 属性。获取或设置要处理的文档路径集合
+title: "DocumentCollection.DocumentPaths"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocumentCollection 属性。获取或设置待处理的文档路径集合。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/documentcollection/documentpaths/
 ---
-## DocumentCollection.DocumentPaths 属性
+## DocumentCollection.DocumentPaths property
 
 获取或设置要处理的文档路径集合。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/documentcollection/documentpaths/
 public List<string> DocumentPaths { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentCollection](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

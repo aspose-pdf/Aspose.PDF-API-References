@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.ClearState
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation 方法。清除注释的状态和状态模型。例如，清除注释的审阅状态。请注意，存储在其他文本注释中的状态，其中包含状态和状态模型键。
+title: "MarkupAnnotation.ClearState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkupAnnotation 方法。清除注释的状态和状态模型。例如，清除注释的审阅状态。注意其他具有 state 和 statemodel 键的文本注释中存储的状态"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.annotations/markupannotation/clearstate/
 ---
-## MarkupAnnotation.ClearState 方法
+## MarkupAnnotation.ClearState method
 
-清除注释的状态和状态模型。例如，清除注释的审阅状态。请注意，存储在其他文本注释中的状态，其中包含状态和状态模型键。
+清除注释的状态和状态模型。例如，清除注释的审阅状态。注意，状态存储在具有 state 和 statemodel 键的其他文本注释中。
 
 ```csharp
 public void ClearState()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarkupAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

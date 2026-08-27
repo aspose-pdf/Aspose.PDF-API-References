@@ -1,12 +1,12 @@
 ---
-title: Re.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Re 属性。矩形的高度
+title: "Re.Height"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Re 属性。矩形的高度"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/re/height/
 ---
-## Re.Height 属性
+## Re.Height property
 
 矩形的高度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/re/height/
 public double Height { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Re](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

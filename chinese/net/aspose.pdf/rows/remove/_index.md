@@ -1,12 +1,12 @@
 ---
-title: Rows.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Rows 方法。 从集合中移除行
+title: "Rows.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rows 方法。从集合中移除行"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/rows/remove/
 ---
-## Rows.Remove 方法
+## Rows.Remove method
 
 从集合中移除行。
 
@@ -16,11 +16,13 @@ public void Remove(Row row)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| row | Row | 现有的行。 |
+| 行 | 行 | 现有的行。 |
 
-### 另见
+### 另请参见
 
-* 类 [Row](../../row/)
-* 类 [Rows](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

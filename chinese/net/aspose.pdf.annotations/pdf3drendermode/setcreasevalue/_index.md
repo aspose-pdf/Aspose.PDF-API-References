@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode 方法。设置折痕值
+title: "PDF3DRenderMode.SetCreaseValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DRenderMode 方法。设置折痕值。"
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 ---
-## PDF3DRenderMode.SetCreaseValue 方法
+## PDF3DRenderMode.SetCreaseValue method
 
 设置折痕值。
 
@@ -20,10 +20,12 @@ public PDF3DRenderMode SetCreaseValue(double creaseValue)
 
 ### 返回值
 
-PDF3DRenderMode。
+PDF3DRenderMode.
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DRenderMode](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

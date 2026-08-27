@@ -1,14 +1,14 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineCap 枚举。线帽样式应指定在开放子路径和虚线的末端（如果有）在描边时使用的形状
+title: "枚举 LineCap"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.LineCap 枚举。线帽样式应指定在描边时用于开放子路径和虚线端点的形状（如果有的话）"
 type: docs
-weight: 7440
+weight: 7580
 url: /zh/net/aspose.pdf.operators/linecap/
 ---
-## LineCap 枚举
+## LineCap enumeration
 
-线帽样式应指定在开放子路径（和虚线，如果有）在描边时使用的形状。
+线帽样式应指定在描边时用于开放子路径（以及虚线，如有）的端点形状。
 
 ```csharp
 public enum LineCap
@@ -18,11 +18,13 @@ public enum LineCap
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| ButtCap | `0` | 平头帽。描边将在路径的端点处被平整切断。路径的末端不会有突起。 |
-| RoundCap | `1` | 圆头帽。将在端点周围绘制一个直径等于线宽的半圆弧，并将其填充。 |
-| SquareCap | `2` | 突出的方头帽。描边将在路径的端点处延续，延续的距离等于线宽的一半，并将被平整切断。 |
+| ButtCap | `0` | 平帽。描边在路径端点处呈方形结束，且不会超出路径末端。 |
+| RoundCap | `1` | 圆帽。将在端点周围绘制直径等于线宽的半圆弧，并填充。 |
+| SquareCap | `2` | 投射方形帽。描边将在路径端点之外继续延伸，距离为线宽的一半，并呈方形结束。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

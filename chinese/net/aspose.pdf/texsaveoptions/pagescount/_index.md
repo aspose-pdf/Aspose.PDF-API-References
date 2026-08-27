@@ -1,21 +1,23 @@
 ---
-title: TeXSaveOptions.PagesCount
-second_title: Aspose.PDF for .NET API Reference
-description: TeXSaveOptions 属性。返回转换后的页面数量
+title: "TeXSaveOptions.PagesCount"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TeXSaveOptions 属性。返回转换后 pages 的数量。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/texsaveoptions/pagescount/
 ---
-## TeXSaveOptions.PagesCount 属性
+## TeXSaveOptions.PagesCount property
 
-返回转换后的页面数量。
+返回转换后的页数。
 
 ```csharp
 public int PagesCount { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TeXSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

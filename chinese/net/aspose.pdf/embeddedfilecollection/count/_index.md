@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection 属性。获取集合中嵌入文件的数量
+title: "EmbeddedFileCollection.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EmbeddedFileCollection 属性。获取集合中嵌入文件的数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/embeddedfilecollection/count/
 ---
-## EmbeddedFileCollection.Count 属性
+## EmbeddedFileCollection.Count property
 
 获取集合中嵌入文件的数量。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/embeddedfilecollection/count/
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [EmbeddedFileCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ElementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection 属性。元素的数量
+title: "ElementCollection.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ElementCollection 属性。元素的计数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.structure/elementcollection/count/
 ---
-## ElementCollection.Count 属性
+## ElementCollection.Count property
 
-元素的数量。
+元素的计数。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ElementCollection](../)
-* 命名空间 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

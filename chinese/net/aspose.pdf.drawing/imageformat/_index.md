@@ -1,12 +1,12 @@
 ---
-title: Enum ImageFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.ImageFormat 枚举。此枚举表示图像格式
+title: "枚举 ImageFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Drawing.ImageFormat 枚举。此枚举表示图像格式"
 type: docs
-weight: 3950
+weight: 4070
 url: /zh/net/aspose.pdf.drawing/imageformat/
 ---
-## ImageFormat 枚举
+## ImageFormat enumeration
 
 此枚举表示图像格式。
 
@@ -29,7 +29,9 @@ public enum ImageFormat
 | Wmf | `8` | Wmf 格式。 |
 | Exif | `9` | Exif 格式。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

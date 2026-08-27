@@ -1,14 +1,14 @@
 ---
-title: Class PdfPrintPageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfPrintPageInfo 类。表示一个包含当前打印页面信息的对象
+title: "类 PdfPrintPageInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.PdfPrintPageInfo 类。表示包含当前打印页面信息的对象"
 type: docs
-weight: 4600
+weight: 4720
 url: /zh/net/aspose.pdf.facades/pdfprintpageinfo/
 ---
-## PdfPrintPageInfo 类
+## PdfPrintPageInfo class
 
-表示一个包含当前打印页面信息的对象。
+表示包含当前打印页面信息的对象。
 
 ```csharp
 public class PdfPrintPageInfo
@@ -18,9 +18,11 @@ public class PdfPrintPageInfo
 
 | 名称 | 描述 |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber/) { get; } | 获取当前打印的页面编号； |
+| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber/) { get; } | 获取当前打印的页码； |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

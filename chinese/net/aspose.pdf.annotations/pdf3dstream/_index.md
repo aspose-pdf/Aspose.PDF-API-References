@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DStream class. Class PDF3DStream
+title: "类 PDF3DStream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.PDF3DStream 类。类 PDF3DStream"
 type: docs
-weight: 2230
+weight: 2320
 url: /zh/net/aspose.pdf.annotations/pdf3dstream/
 ---
-## PDF3DStream 类
+## PDF3DStream class
 
-Class PDF3DStream。
+类 PDF3DStream。
 
 ```csharp
 public class PDF3DStream
@@ -28,5 +28,7 @@ public class PDF3DStream
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

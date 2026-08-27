@@ -1,21 +1,23 @@
 ---
-title: CrashReportOptions.ApplicationTitle
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions 属性。发生异常的库名称
+title: "CrashReportOptions.ApplicationTitle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CrashReportOptions 属性。异常发生的库的名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/crashreportoptions/applicationtitle/
 ---
-## CrashReportOptions.ApplicationTitle 属性
+## CrashReportOptions.ApplicationTitle property
 
-发生异常的库名称。
+异常发生的库名称。
 
 ```csharp
 public string ApplicationTitle { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CrashReportOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FontCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection 方法。返回整个集合的枚举器
+title: "FontCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontCollection 方法。返回整个集合的枚举器"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.text/fontcollection/getenumerator/
 ---
-## FontCollection.GetEnumerator 方法
+## FontCollection.GetEnumerator method
 
 返回整个集合的枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<Font> GetEnumerator()
 
 枚举器对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Font](../../font/)
-* 类 [FontCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.StructTreeRootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 属性。获取 PDF 文档的 StructTreeRootElement
+title: "ITaggedContent.StructTreeRootElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 属性。获取 PDF Document 的 StructTreeRootElement"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/
 ---
-## ITaggedContent.StructTreeRootElement 属性
+## ITaggedContent.StructTreeRootElement property
 
-获取 [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) 的 PDF 文档。
+获取 PDF Document 的 [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/)。
 
 ```csharp
 public StructTreeRootElement StructTreeRootElement { get; }
 ```
 
-### 属性值
+### Property Value
 
-[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) 的 PDF 文档。
+[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) of PDF document.
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: RadioButtonField.RadioButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField 构造函数。RadiouttonField 的构造函数
+title: "RadioButtonField.RadioButtonField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RadioButtonField constructor. RadiouttonField 的构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
@@ -16,9 +16,9 @@ public RadioButtonField(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 放置单选按钮的页面。 |
+| 页面 | 页面 | 放置单选按钮的页面。 |
 
-### 另见
+### 另请参见
 
 * class [Page](../../../aspose.pdf/page/)
 * class [RadioButtonField](../)
@@ -37,11 +37,13 @@ public RadioButtonField(Document doc)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 创建单选按钮的文档。 |
+| 文档 | Document | 创建单选按钮的文档。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

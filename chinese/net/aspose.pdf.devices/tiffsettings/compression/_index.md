@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Compression
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings 属性。获取或设置压缩类型
+title: "TiffSettings.Compression"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffSettings 属性。获取或设置压缩类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.devices/tiffsettings/compression/
 ---
-## TiffSettings.Compression 属性
+## TiffSettings.Compression property
 
 获取或设置压缩类型。
 
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf.devices/tiffsettings/compression/
 public CompressionType Compression { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 压缩类型。
 
@@ -22,9 +22,11 @@ public CompressionType Compression { get; set; }
 
 默认值为 CompressionType.LZW
 
-### 另请参阅
+### 另请参见
 
 * enum [CompressionType](../../compressiontype/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

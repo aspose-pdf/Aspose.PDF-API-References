@@ -1,14 +1,14 @@
 ---
-title: Class GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.GlyphPosition 类。该类描述了与操作符 TJ 一起使用的文本和位置（设置带位置的字形）
+title: "类 GlyphPosition"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.GlyphPosition 类。描述与 TJ 操作符一起使用的文本和位置以设置带位置的字形的类"
 type: docs
-weight: 7420
+weight: 7560
 url: /zh/net/aspose.pdf.operators/glyphposition/
 ---
-## GlyphPosition 类
+## GlyphPosition class
 
-该类描述了与操作符 TJ（设置带位置的字形）一起使用的文本和位置
+描述用于运算符 TJ（设置带位置的字形）的文本和位置的类
 
 ```csharp
 public class GlyphPosition
@@ -25,10 +25,12 @@ public class GlyphPosition
 
 | 名称 | 描述 |
 | --- | --- |
-| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | 操作符中文本的位置。 |
-| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | 操作符的文本。 |
+| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | 操作符中相对于文本的偏移位置。 |
+| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | 运算符的文本。 |
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

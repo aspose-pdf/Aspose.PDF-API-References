@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageListResponse.ThreadMessageListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageListResponse 构造函数。默认构造函数
+title: "ThreadMessageListResponse.ThreadMessageListResponse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ThreadMessageListResponse 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/threadmessagelistresponse/threadmessagelistresponse/
 ---
-## ThreadMessageListResponse 构造函数
+## ThreadMessageListResponse constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/threadmessagelistresponse/threadmessagelistresponse/
 public ThreadMessageListResponse()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ThreadMessageListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

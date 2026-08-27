@@ -1,12 +1,12 @@
 ---
-title: Bookmark.PageDisplay_Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: 书签属性。获取或设置页面显示的缩放因子
+title: "Bookmark.PageDisplay_Zoom"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Bookmark 属性。获取或设置页面显示的缩放因子"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.facades/bookmark/pagedisplay_zoom/
 ---
-## Bookmark.PageDisplay_Zoom 属性
+## Bookmark.PageDisplay_Zoom property
 
 获取或设置页面显示的缩放因子。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/bookmark/pagedisplay_zoom/
 public int PageDisplay_Zoom { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Bookmark](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

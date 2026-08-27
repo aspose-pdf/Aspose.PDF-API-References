@@ -1,12 +1,12 @@
 ---
-title: Class CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CodeInterpreter 类。表示代码解释器工具资源
+title: "类 CodeInterpreter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.CodeInterpreter 类。表示代码解释器工具资源"
 type: docs
-weight: 210
+weight: 220
 url: /zh/net/aspose.pdf.ai/codeinterpreter/
 ---
-## CodeInterpreter 类
+## CodeInterpreter class
 
 表示代码解释器工具资源。
 
@@ -24,9 +24,11 @@ public class CodeInterpreter
 
 | 名称 | 描述 |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | 获取或设置可用于代码解释器工具的文件 ID 列表。工具最多可以关联 20 个文件。 |
+| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | 获取或设置提供给 code_interpreter 工具的文件 ID 列表。该工具最多可关联 20 个文件。 |
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

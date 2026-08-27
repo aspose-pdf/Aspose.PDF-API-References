@@ -1,12 +1,12 @@
 ---
-title: PdfToHtmlOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToHtmlOptions 属性。获取操作的名称
+title: "PdfToHtmlOptions.OperationName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfToHtmlOptions 属性。获取操作的名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/pdftohtmloptions/operationname/
 ---
-## PdfToHtmlOptions.OperationName 属性
+## PdfToHtmlOptions.OperationName property
 
 获取操作的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/pdftohtmloptions/operationname/
 public override string OperationName { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfToHtmlOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfToHtmlOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

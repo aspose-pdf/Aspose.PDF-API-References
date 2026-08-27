@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.GraphicElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection 构造函数。初始化新的集合
+title: "GraphicElementCollection.GraphicElementCollection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElementCollection 构造函数。初始化新的集合"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.vector/graphicelementcollection/graphicelementcollection/
 ---
-## GraphicElementCollection 构造函数
+## GraphicElementCollection constructor
 
 初始化新的集合。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.vector/graphicelementcollection/graphicelementcollection
 public GraphicElementCollection()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphicElementCollection](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PaperSource.PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource 构造函数。使用默认属性初始化 PaperSource 类的新实例
+title: "PaperSource.PaperSource"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSource 构造函数。使用默认属性初始化 PaperSource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.printing/papersource/papersource/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.pdf.printing/papersource/papersource/
 public PaperSource()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSource](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PaperSource(PaperSourceKind, string) {#constructor_1}
 
-使用指定的类型和名称初始化 [`PaperSource`](../) 类的新实例。
+使用指定的 kind 和 name 初始化 [`PaperSource`](../) 类的新实例。
 
 ```csharp
 public PaperSource(PaperSourceKind kind, string name)
@@ -32,12 +32,14 @@ public PaperSource(PaperSourceKind kind, string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| kind | PaperSourceKind | 纸张来源的类型。 |
-| name | String | 纸张来源的名称。 |
+| 类型 | PaperSourceKind | 纸张来源的类型。 |
+| 名称 | String | 纸张来源的名称。 |
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [PaperSourceKind](../../papersourcekind/)
-* 类 [PaperSource](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [PaperSourceKind](../../papersourcekind/)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

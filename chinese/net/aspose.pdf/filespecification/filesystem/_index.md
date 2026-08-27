@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.FileSystem
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 属性。获取或设置文件系统的名称
+title: "FileSpecification.FileSystem"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileSpecification 属性。获取或设置文件系统的名称"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/filespecification/filesystem/
 ---
-## FileSpecification.FileSystem 属性
+## FileSpecification.FileSystem property
 
 获取或设置文件系统的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/filespecification/filesystem/
 public string FileSystem { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileSpecification](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

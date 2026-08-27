@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetReason
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 方法。获取签名的原因
+title: "PdfFileSignature.GetReason"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSignature 方法。获取签名的原因"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.facades/pdffilesignature/getreason/
 ---
-## PdfFileSignature.GetReason 方法
+## PdfFileSignature.GetReason method
 
 获取签名的原因。
 
@@ -22,9 +22,11 @@ public string GetReason(SignatureName signName)
 
 返回字符串类型的结果。
 
-### 另见
+### 另请参见
 
-* 类 [SignatureName](../../signaturename/)
-* 类 [PdfFileSignature](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

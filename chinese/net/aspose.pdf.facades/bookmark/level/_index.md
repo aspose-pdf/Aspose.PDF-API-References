@@ -1,21 +1,23 @@
 ---
-title: Bookmark.Level
-second_title: Aspose.PDF for .NET API Reference
-description: 书签属性。获取或设置书签层级
+title: "Bookmark.Level"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Bookmark 属性。获取或设置书签的层级"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/bookmark/level/
 ---
-## Bookmark.Level 属性
+## Bookmark.Level property
 
-获取或设置书签的层级。
+获取或设置书签的层级级别。
 
 ```csharp
 public int Level { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Bookmark](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

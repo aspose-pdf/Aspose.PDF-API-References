@@ -1,14 +1,14 @@
 ---
-title: Enum Algorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Algorithm 枚举。表示可以用于加密 PDF 文档的算法
+title: "枚举 Algorithm"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.Algorithm enum. 表示可用于加密 pdf 文档的算法"
 type: docs
-weight: 4140
+weight: 4260
 url: /zh/net/aspose.pdf.facades/algorithm/
 ---
-## 算法枚举
+## Algorithm enumeration
 
-表示可以用于加密 PDF 文档的算法。
+表示可用于加密 pdf 文档的算法。
 
 ```csharp
 public enum Algorithm
@@ -21,7 +21,9 @@ public enum Algorithm
 | RC4 | `0` | RC4 算法。 |
 | AES | `1` | AES 算法。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

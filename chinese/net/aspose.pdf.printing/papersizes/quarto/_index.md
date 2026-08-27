@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Quarto
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。四开纸 215 毫米 x 275 毫米
+title: "PaperSizes.Quarto"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。Quarto 纸张 215 mm × 275 mm"
 type: docs
 weight: 1060
 url: /zh/net/aspose.pdf.printing/papersizes/quarto/
 ---
-## PaperSizes.Quarto 字段
+## PaperSizes.Quarto field
 
-四开纸（215 毫米 x 275 毫米）。
+Quarto 纸 (215 mm × 275 mm).
 
 ```csharp
 public static readonly PaperSize Quarto;
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

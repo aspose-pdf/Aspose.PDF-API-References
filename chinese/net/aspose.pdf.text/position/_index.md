@@ -1,14 +1,14 @@
 ---
-title: Class Position
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.Position 类。表示一个位置对象
+title: "类 Position"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.Position 类。表示一个位置对象"
 type: docs
-weight: 10690
+weight: 10870
 url: /zh/net/aspose.pdf.text/position/
 ---
-## 位置类
+## Position class
 
-表示一个位置对象
+表示一个位置对象。
 
 ```csharp
 public sealed class Position
@@ -31,10 +31,12 @@ public sealed class Position
 
 | 名称 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/position/equals/)(object) | 确定指定对象是否等于当前 `Position` 对象。 |
+| override [Equals](../../aspose.pdf.text/position/equals/)(object) | 确定指定的对象是否等于当前的 `Position` 对象。 |
 | override [ToString](../../aspose.pdf.text/position/tostring/)() | 获取当前 `Position` 对象的字符串表示。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

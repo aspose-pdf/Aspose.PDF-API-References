@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Role
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 字段。角色属性 PrintField 属性所有者
+title: "AttributeKey.Role"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeKey 字段. Role 属性 PrintField 属性 所有者"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.logicalstructure/attributekey/role/
 ---
-## AttributeKey.Role 字段
+## AttributeKey.Role field
 
-角色属性（PrintField 属性所有者）。
+Role 属性 (PrintField 属性所有者).
 
 ```csharp
 public static readonly AttributeKey Role;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeKey](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

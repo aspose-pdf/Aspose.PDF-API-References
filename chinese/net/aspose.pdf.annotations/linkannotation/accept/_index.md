@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: LinkAnnotation 方法。接受访问者对象以处理注释
+title: "LinkAnnotation.Accept"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LinkAnnotation 方法。接受访问者对象来处理注释"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/linkannotation/accept/
 ---
-## LinkAnnotation.Accept 方法
+## LinkAnnotation.Accept method
 
-接受访问者对象以处理注释。
+接受访问者对象以处理该注释。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | 访问者对象。 |
+| 访问者 | AnnotationSelector | Visitor 对象。 |
 
-### 另见
+### 另请参见
 
-* 类 [AnnotationSelector](../../annotationselector/)
-* 类 [LinkAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [LinkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

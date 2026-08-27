@@ -1,12 +1,12 @@
 ---
-title: BI.BI
-second_title: Aspose.PDF for .NET API Reference
-description: BI 构造函数。初始化操作符
+title: "BI.BI"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BI 构造函数。初始化操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/bi/bi/
 ---
-## BI 构造函数
+## BI constructor
 
 初始化操作符。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/bi/bi/
 public BI()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [BI](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BI](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

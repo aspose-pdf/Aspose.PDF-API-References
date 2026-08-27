@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 方法。检查集合是否包含给定项
+title: "OutlineItemCollection.Contains"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineItemCollection 方法。检查集合是否包含给定的项"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf/outlineitemcollection/contains/
 ---
-## OutlineItemCollection.Contains 方法
+## OutlineItemCollection.Contains method
 
-检查集合是否包含给定项。
+检查集合是否包含给定的项。
 
 ```csharp
 public override bool Contains(OutlineItemCollection item)
@@ -20,10 +20,12 @@ public override bool Contains(OutlineItemCollection item)
 
 ### 返回值
 
-True - 如果找到项；否则，false。
+True - 如果找到项；否则为 false。
 
 ### 另请参见
 
-* 类 [OutlineItemCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

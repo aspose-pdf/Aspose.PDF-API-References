@@ -1,14 +1,14 @@
 ---
-title: Table.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: 表方法。克隆表
+title: "Table.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Table 方法。克隆表格"
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/table/clone/
 ---
-## Table.Clone 方法
+## Table.Clone method
 
-克隆表。
+克隆表格。
 
 ```csharp
 public override object Clone()
@@ -18,8 +18,10 @@ public override object Clone()
 
 克隆的对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [Table](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

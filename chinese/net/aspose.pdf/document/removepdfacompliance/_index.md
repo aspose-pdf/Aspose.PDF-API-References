@@ -1,12 +1,12 @@
 ---
-title: Document.RemovePdfaCompliance
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。 从文档中移除 pdfa 合规性
+title: "Document.RemovePdfaCompliance"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。移除文档的 pdfa 合规性"
 type: docs
-weight: 800
+weight: 820
 url: /zh/net/aspose.pdf/document/removepdfacompliance/
 ---
-## Document.RemovePdfaCompliance 方法
+## Document.RemovePdfaCompliance method
 
 从文档中移除 pdfa 合规性
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/document/removepdfacompliance/
 public void RemovePdfaCompliance()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

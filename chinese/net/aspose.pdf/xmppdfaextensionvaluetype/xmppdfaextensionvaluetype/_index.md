@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 构造函数。初始化新对象
+title: "XmpPdfAExtensionValueType.XmpPdfAExtensionValueType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionValueType 构造函数。初始化新对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/
 ---
-## XmpPdfAExtensionValueType 构造函数
+## XmpPdfAExtensionValueType constructor
 
 初始化新对象。
 
@@ -17,13 +17,15 @@ public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| type | 字符串 | 值类型。 |
-| namespaceUri | 字符串 | 命名空间 URI。 |
-| prefix | 字符串 | 前缀。 |
-| description | 字符串 | 描述。 |
+| 类型 | String | 值类型。 |
+| namespaceUri | String | 命名空间 URI。 |
+| prefix | String | 前缀。 |
+| description | String | 描述。 |
 
 ### 另请参见
 
-* 类 [XmpPdfAExtensionValueType](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

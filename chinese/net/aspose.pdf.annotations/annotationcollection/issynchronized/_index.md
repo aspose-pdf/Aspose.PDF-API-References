@@ -1,21 +1,23 @@
 ---
-title: AnnotationCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 属性。获取一个值，指示访问 Aspose.Pdf.Annotations.AnnotationCollection 是否是同步的（线程安全）。
+title: "AnnotationCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AnnotationCollection 属性。获取一个值，指示对 Aspose.Pdf.Annotations.AnnotationCollection 的访问是否为同步的线程安全。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/annotationcollection/issynchronized/
 ---
-## AnnotationCollection.IsSynchronized 属性
+## AnnotationCollection.IsSynchronized property
 
-获取一个值，指示访问 Aspose.Pdf.Annotations.AnnotationCollection 是否是同步的（线程安全）。
+获取一个值，指示对 Aspose.Pdf.Annotations.AnnotationCollection 的访问是否已同步（线程安全）。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AnnotationCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

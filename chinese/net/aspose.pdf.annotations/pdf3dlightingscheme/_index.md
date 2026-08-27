@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DLightingScheme class. Class PDF3DLightingScheme
+title: "类 PDF3DLightingScheme"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.PDF3DLightingScheme 类。PDF3DLightingScheme 类"
 type: docs
-weight: 2210
+weight: 2300
 url: /zh/net/aspose.pdf.annotations/pdf3dlightingscheme/
 ---
-## PDF3DLightingScheme 类
+## PDF3DLightingScheme class
 
-Class PDF3DLightingScheme。
+类 PDF3DLightingScheme。
 
 ```csharp
 public class PDF3DLightingScheme
@@ -35,16 +35,18 @@ public class PDF3DLightingScheme
 | static [Blue](../../aspose.pdf.annotations/pdf3dlightingscheme/blue/) | “Blue” 照明方案。 |
 | static [CAD](../../aspose.pdf.annotations/pdf3dlightingscheme/cad/) | “Cad” 照明方案。 |
 | static [Cube](../../aspose.pdf.annotations/pdf3dlightingscheme/cube/) | “Cube” 照明方案。 |
-| static [Day](../../aspose.pdf.annotations/pdf3dlightingscheme/day/) | “Day” 照明方案。 |
-| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard/) | “Hard” 照明方案。 |
-| static [Headlamp](../../aspose.pdf.annotations/pdf3dlightingscheme/headlamp/) | “Headlamp” 照明方案。 |
-| static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night/) | “Night” 照明方案。 |
-| static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none/) | “None” 照明方案。 |
-| static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary/) | “Primary” 照明方案。 |
-| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | “Red” 照明方案。 |
-| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | “White” 照明方案。 |
+| static [Day](../../aspose.pdf.annotations/pdf3dlightingscheme/day/) | 该 "Day" 照明方案。 |
+| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard/) | 该 "Hard" 照明方案。 |
+| static [Headlamp](../../aspose.pdf.annotations/pdf3dlightingscheme/headlamp/) | 该 "Headlamp" 照明方案。 |
+| static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night/) | 该 "Night" 照明方案。 |
+| static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none/) | 该 "None" 照明方案。 |
+| static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary/) | 该 "Primary" 照明方案。 |
+| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | 该 "Red" 照明方案。 |
+| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | 该 "White" 照明方案。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

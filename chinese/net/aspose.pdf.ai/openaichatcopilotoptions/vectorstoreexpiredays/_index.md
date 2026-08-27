@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.VectorStoreExpireDays
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 属性。获取或设置向量存储过期前的天数
+title: "OpenAIChatCopilotOptions.VectorStoreExpireDays"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 属性。获取或设置向量存储过期前的天数"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/vectorstoreexpiredays/
 ---
-## OpenAIChatCopilotOptions.VectorStoreExpireDays 属性
+## OpenAIChatCopilotOptions.VectorStoreExpireDays property
 
 获取或设置向量存储过期前的天数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/vectorstoreexpiredays/
 public int VectorStoreExpireDays { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

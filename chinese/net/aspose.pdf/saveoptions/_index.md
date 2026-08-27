@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptions 类。SaveOptions 类型持有单个保存选项的抽象级别
+title: "类 SaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.SaveOptions 类。SaveOptions 类型在各个保存选项上保持抽象层级。"
 type: docs
-weight: 9870
+weight: 10020
 url: /zh/net/aspose.pdf/saveoptions/
 ---
-## SaveOptions 类
+## SaveOptions class
 
-SaveOptions 类型持有单个保存选项的抽象级别
+SaveOptions 类型在各个保存选项上保持抽象层次。
 
 ```csharp
 public abstract class SaveOptions
@@ -18,12 +18,14 @@ public abstract class SaveOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置一个布尔值，指示在准备 aps 页面时是否缓存字体字形。提高将 PDF 转换为其他格式的性能，但会增加内存消耗。 |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置一个布尔值，指示在文档保存到响应后，Response 对象是否会被关闭。 |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置布尔值，以指示在准备 APS 页面时是否缓存字体字形。可提升 PDF 转换为其他格式的性能，但会增加内存消耗。 |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置布尔值，以指示文档保存到响应后是否关闭 Response 对象。 |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | 数据保存的格式。 |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler 返回 ReturnAction 枚举项，指定继续或中止。继续是默认操作，保存操作将继续，但用户也可以返回中止，在这种情况下，保存操作应停止。 |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定 Continue（继续）或 Abort（中止）。Continue 为默认操作，保存操作将继续；但用户也可以返回 Abort，此时保存操作应停止。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

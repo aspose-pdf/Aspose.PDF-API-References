@@ -1,12 +1,12 @@
 ---
-title: Position.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Position 方法。获取当前 Position 对象的字符串表示
+title: "Position.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Position 方法。获取当前 Position 对象的字符串表示"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/position/tostring/
 ---
-## Position.ToString 方法
+## Position.ToString method
 
 获取当前 [`Position`](../) 对象的字符串表示。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Position 对象的字符串表示。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Position](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

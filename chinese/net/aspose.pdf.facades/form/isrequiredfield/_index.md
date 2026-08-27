@@ -1,14 +1,14 @@
 ---
-title: Form.IsRequiredField
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。确定字段是否为必填项
+title: "Form.IsRequiredField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。确定字段是否为必填。"
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf.facades/form/isrequiredfield/
 ---
-## Form.IsRequiredField 方法
+## Form.IsRequiredField method
 
-确定字段是否为必填项。
+确定字段是否为必填。
 
 ```csharp
 public bool IsRequiredField(string fieldName)
@@ -16,14 +16,16 @@ public bool IsRequiredField(string fieldName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | 字符串 | 字段的名称。 |
+| fieldName | String | 字段的名称。 |
 
 ### 返回值
 
-True - 字段是必填的；否则，返回 false。
+True - 字段为必填；否则为 false。
 
-### 另见
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

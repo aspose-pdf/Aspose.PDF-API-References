@@ -1,12 +1,12 @@
 ---
-title: CurveTo.Points
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo 属性。曲线的点
+title: "CurveTo.Points"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CurveTo 属性。曲线的点"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/curveto/points/
 ---
-## CurveTo.Points 属性
+## CurveTo.Points property
 
 曲线的点。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.operators/curveto/points/
 public Point[] Points { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Point](../../../aspose.pdf/point/)
 * class [CurveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

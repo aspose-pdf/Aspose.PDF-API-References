@@ -1,19 +1,21 @@
 ---
-title: Resources.ExtGStateValue.Name
-second_title: Aspose.PDF for .NET API Reference
-description: ExtGStateValue property.
+title: "Resources.ExtGStateValue.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ExtGStateValue 属性。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/resources.extgstatevalue/name/
 ---
-## Resources.ExtGStateValue.Name 属性
+## Resources.ExtGStateValue.Name property
 
 ```csharp
 public string Name { get; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [ExtGStateValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ExtGStateValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

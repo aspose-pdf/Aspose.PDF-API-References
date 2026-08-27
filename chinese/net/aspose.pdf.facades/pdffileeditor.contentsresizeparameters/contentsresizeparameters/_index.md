@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentsResizeParameters
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters 构造函数。创建所有值设置为自动的调整参数。如果需要，可以稍后指定边距和内容大小。
+title: "PdfFileEditor.ContentsResizeParameters.ContentsResizeParameters"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ContentsResizeParameters 构造函数。创建所有值均设置为自动的调整大小参数。以后可以根据需要指定边距和内容尺寸。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/
 ---
 ## ContentsResizeParameters() {#constructor}
 
-创建所有值设置为“自动”的调整参数。如果需要，可以稍后指定边距和内容大小。
+创建所有值设置为 “auto” 的调整大小参数。以后可以根据需要指定边距和内容尺寸。
 
 ```csharp
 public ContentsResizeParameters()
@@ -24,7 +24,7 @@ public ContentsResizeParameters()
 
 ## ContentsResizeParameters(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) {#constructor_1}
 
-使用指定的边距值和内容大小创建调整参数。
+创建具有指定边距值和内容尺寸的调整大小参数。
 
 ```csharp
 public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeValue contentsWidth, 
@@ -47,3 +47,5 @@ public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeVa
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Outlines.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines 方法。将大纲项添加到集合
+title: "Outlines.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Outlines 方法。向集合添加大纲项"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/outlines/add/
 ---
-## Outlines.Add 方法
+## Outlines.Add method
 
-将大纲项添加到集合中。
+向集合中添加大纲项。
 
 ```csharp
 public abstract void Add(OutlineItemCollection item)
@@ -18,9 +18,11 @@ public abstract void Add(OutlineItemCollection item)
 | --- | --- | --- |
 | item | OutlineItemCollection | 要添加的大纲项。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../../outlineitemcollection/)
-* 类 [Outlines](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

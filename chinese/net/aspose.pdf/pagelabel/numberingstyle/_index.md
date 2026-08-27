@@ -1,12 +1,12 @@
 ---
-title: PageLabel.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabel 属性。获取或设置编号样式
+title: "PageLabel.NumberingStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageLabel 属性。获取或设置编号样式"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pagelabel/numberingstyle/
 ---
-## PageLabel.NumberingStyle 属性
+## PageLabel.NumberingStyle property
 
 获取或设置编号样式。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/pagelabel/numberingstyle/
 public NumberingStyle NumberingStyle { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [NumberingStyle](../../numberingstyle/)
-* 类 [PageLabel](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [NumberingStyle](../../numberingstyle/)
+* class [PageLabel](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

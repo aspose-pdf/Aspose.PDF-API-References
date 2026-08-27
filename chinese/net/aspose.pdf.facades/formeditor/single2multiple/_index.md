@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Single2Multiple
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 方法。将单行文本字段更改为多行文本字段
+title: "FormEditor.Single2Multiple"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 方法。将单行文本字段更改为多行文本字段"
 type: docs
 weight: 350
 url: /zh/net/aspose.pdf.facades/formeditor/single2multiple/
 ---
-## FormEditor.Single2Multiple 方法
+## FormEditor.Single2Multiple method
 
 将单行文本字段更改为多行文本字段。
 
@@ -16,7 +16,7 @@ public bool Single2Multiple(string fieldName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | 字符串 | 合格的字段名称。 |
+| fieldName | String | 完整的字段名称。 |
 
 ### 返回值
 
@@ -29,8 +29,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.Single2Multiple("textField");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

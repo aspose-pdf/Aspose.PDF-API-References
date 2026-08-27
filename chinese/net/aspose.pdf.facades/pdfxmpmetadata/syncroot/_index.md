@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 属性。获取集合的同步对象
+title: "PdfXmpMetadata.SyncRoot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfXmpMetadata 属性。获取集合的同步对象。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/syncroot/
 ---
-## PdfXmpMetadata.SyncRoot 属性
+## PdfXmpMetadata.SyncRoot property
 
 获取集合的同步对象。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/syncroot/
 public object SyncRoot { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfXmpMetadata](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

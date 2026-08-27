@@ -1,21 +1,23 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultSchemaNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 字段。默认架构命名空间前缀
+title: "XmpPdfAExtensionSchema.DefaultSchemaNamespacePrefix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionSchema 字段。默认模式命名空间前缀"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix/
 ---
-## XmpPdfAExtensionSchema.DefaultSchemaNamespacePrefix 字段
+## XmpPdfAExtensionSchema.DefaultSchemaNamespacePrefix field
 
-默认架构命名空间前缀。
+默认模式命名空间前缀。
 
 ```csharp
 public const string DefaultSchemaNamespacePrefix;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionSchema](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

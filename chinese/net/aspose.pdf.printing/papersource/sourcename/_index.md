@@ -1,12 +1,12 @@
 ---
-title: PaperSource.SourceName
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource 属性。获取或设置纸张来源的名称
+title: "PaperSource.SourceName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSource 属性。获取或设置纸张来源的名称"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.printing/papersource/sourcename/
 ---
-## PaperSource.SourceName 属性
+## PaperSource.SourceName property
 
 获取或设置纸张来源的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.printing/papersource/sourcename/
 public string SourceName { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSource](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

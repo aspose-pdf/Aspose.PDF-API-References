@@ -1,12 +1,12 @@
 ---
-title: TextFragment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment 属性。获取 TextFragment 的矩形
+title: "TextFragment.Rectangle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragment 属性。获取 TextFragment 的矩形。"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.text/textfragment/rectangle/
 ---
-## TextFragment.Rectangle 属性
+## TextFragment.Rectangle property
 
 获取 TextFragment 的矩形
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.text/textfragment/rectangle/
 public Rectangle Rectangle { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../../aspose.pdf/rectangle/)
-* 类 [TextFragment](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

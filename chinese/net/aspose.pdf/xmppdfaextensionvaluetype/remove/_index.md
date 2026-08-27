@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 方法。 从字段列表中移除字段
+title: "XmpPdfAExtensionValueType.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionValueType 方法。从字段列表中移除该字段"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/remove/
 ---
-## XmpPdfAExtensionValueType.Remove 方法
+## XmpPdfAExtensionValueType.Remove method
 
-从字段列表中移除字段。
+从字段列表中移除该字段。
 
 ```csharp
 public void Remove(XmpPdfAExtensionField field)
@@ -16,11 +16,13 @@ public void Remove(XmpPdfAExtensionField field)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | 要移除的字段。 |
+| 字段 | XmpPdfAExtensionField | 要移除的字段。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* 类 [XmpPdfAExtensionValueType](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

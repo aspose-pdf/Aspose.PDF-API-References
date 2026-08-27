@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions 构造函数。为指定的无字符行为模式初始化 TextEditOptions 对象的新实例
+title: "TextEditOptions.TextEditOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextEditOptions 构造函数。为指定的无字符行为模式初始化 TextEditOptions 对象的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-为指定的无字符行为模式初始化 [`TextEditOptions`](../) 对象的新实例。
+为指定的无字符行为模式初始化 [`TextEditOptions`](../) 对象的新实例
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
@@ -18,7 +18,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 | --- | --- | --- |
 | noCharacterBehavior | NoCharacterAction | 无字符行为模式对象。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [NoCharacterAction](../../texteditoptions.nocharacteraction/)
 * class [TextEditOptions](../)
@@ -29,7 +29,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ## TextEditOptions(FontReplace) {#constructor_1}
 
-为指定的字体替换行为模式初始化 [`TextEditOptions`](../) 对象的新实例。
+为指定的字体替换行为模式初始化 [`TextEditOptions`](../) 对象的新实例
 
 ```csharp
 public TextEditOptions(FontReplace fontReplaceBehavior)
@@ -39,7 +39,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 | --- | --- | --- |
 | fontReplaceBehavior | FontReplace | 字体替换行为对象。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [FontReplace](../../texteditoptions.fontreplace/)
 * class [TextEditOptions](../)
@@ -50,7 +50,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ## TextEditOptions(bool) {#constructor}
 
-为指定的语言转换权限初始化 [`TextEditOptions`](../) 对象的新实例。
+为指定的语言转换权限初始化 [`TextEditOptions`](../) 对象的新实例
 
 ```csharp
 public TextEditOptions(bool allowLanguageTransformation)
@@ -60,7 +60,7 @@ public TextEditOptions(bool allowLanguageTransformation)
 | --- | --- | --- |
 | allowLanguageTransformation | Boolean | 如果设置为 true，则允许语言转换。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -80,9 +80,11 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 | --- | --- | --- |
 | languageTransformationBehavior | LanguageTransformation | 语言转换行为对象。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

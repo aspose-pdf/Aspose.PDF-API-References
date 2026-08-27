@@ -1,12 +1,12 @@
 ---
-title: FreeTextAnnotation.Callout
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation 属性。指定标注线的点数组
+title: "FreeTextAnnotation.Callout"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FreeTextAnnotation 属性。指定标注线的点数组"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/freetextannotation/callout/
 ---
-## FreeTextAnnotation.Callout 属性
+## FreeTextAnnotation.Callout property
 
 指定标注线的点数组。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.annotations/freetextannotation/callout/
 public Point[] Callout { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Point](../../../aspose.pdf/point/)
-* 类 [FreeTextAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

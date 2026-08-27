@@ -1,21 +1,23 @@
 ---
-title: TableAbsorber.UseFlowEngine
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber 属性。启用一种替代的表格识别引擎，该引擎在许多场景中表现优越，并且能够识别没有边框的表格。尚不支持编辑表格和获取文本样式。默认值为 false
+title: "TableAbsorber.UseFlowEngine"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableAbsorber 属性。启用一种在多种场景下更为出色且能够识别无边框表格的替代表格识别引擎。尚不支持编辑表格和获取文本样式。默认值为 false"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/tableabsorber/useflowengine/
 ---
-## TableAbsorber.UseFlowEngine 属性
+## TableAbsorber.UseFlowEngine property
 
-* 启用一种替代的表格识别引擎，该引擎在许多场景中表现优越，并且能够识别没有边框的表格。尚不支持编辑表格和获取文本样式。默认值为 false;
+* Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders. Doesn't support editing tables and getting text styles yet. Default value is false;
 
 ```csharp
 public bool UseFlowEngine { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

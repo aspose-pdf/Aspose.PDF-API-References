@@ -1,12 +1,12 @@
 ---
-title: TextExtractor.TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractor 构造函数。默认构造函数
+title: "TextExtractor.TextExtractor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextExtractor 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/textextractor/textextractor/
 ---
-## TextExtractor 构造函数
+## TextExtractor constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/textextractor/textextractor/
 public TextExtractor()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [TextExtractor](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

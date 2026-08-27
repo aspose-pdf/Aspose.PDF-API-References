@@ -1,21 +1,23 @@
 ---
-title: PageCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 属性。返回对象是否已同步的布尔值
+title: "PageCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageCollection 属性。返回对象已同步时为 true"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/pagecollection/issynchronized/
 ---
-## PageCollection.IsSynchronized 属性
+## PageCollection.IsSynchronized property
 
-返回对象是否已同步的布尔值。
+如果对象已同步则返回 true。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

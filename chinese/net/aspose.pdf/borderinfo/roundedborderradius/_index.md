@@ -1,12 +1,12 @@
 ---
-title: BorderInfo.RoundedBorderRadius
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo 属性。获取或设置圆角边框半径
+title: "BorderInfo.RoundedBorderRadius"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BorderInfo 属性。获取或设置圆角边框半径。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/borderinfo/roundedborderradius/
 ---
-## BorderInfo.RoundedBorderRadius 属性
+## BorderInfo.RoundedBorderRadius property
 
 获取或设置圆角边框半径
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/borderinfo/roundedborderradius/
 public double RoundedBorderRadius { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BorderInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

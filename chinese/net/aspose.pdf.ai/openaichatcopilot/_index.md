@@ -1,27 +1,27 @@
 ---
-title: Class OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIChatCopilot 类。表示一个聊天助手，用于通过 AI 模型与文档进行交互。创建 OpenAI 客户端、配置选项以及使用 ChatCopilot 与用户查询进行交互和管理对话上下文的示例用法。
+title: "类 OpenAIChatCopilot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.OpenAIChatCopilot 类。表示用于通过 AI 模型与文档交互的聊天副驾驶。示例用法包括创建 OpenAI 客户端、配置选项以及使用 ChatCopilot 与用户查询交互并管理对话上下文。"
 type: docs
-weight: 820
+weight: 880
 url: /zh/net/aspose.pdf.ai/openaichatcopilot/
 ---
-## OpenAIChatCopilot 类
+## OpenAIChatCopilot class
 
-表示一个聊天助手，用于通过 AI 模型与文档进行交互。创建 OpenAI 客户端、配置选项以及使用 ChatCopilot 与用户查询进行交互和管理对话上下文的示例用法。
+表示用于通过 AI 模型与文档交互的聊天副驾驶。示例演示如何创建 OpenAI 客户端、配置选项，并使用 ChatCopilot 与用户查询交互以及管理对话上下文。
 
 ```csharp
-// Create AI client.
+// 创建 AI 客户端。
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .WithOrganization("org_123")
     .Build(); // Build.
 
-// Create copilot options.
+// 创建副驾驶选项。
 var options = OpenAIChatCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...使用委托创建。
     .WithModel(OpenAIModels.Gpt35Turbo) // Configure other optional parameters.
     .WithTemperature(0.5)
     .WithTopP(1)
@@ -29,43 +29,43 @@ var options = OpenAIChatCopilotOptions
     .WithContextBackupJsonPath("PathToContextBackup") // Supply context backup to resume the conversation session.
     .WithRestoreContextFromBackup(true); // If set to true, the context 
 
-// Create summary copilot.
+// 创建摘要副驾驶。
 var chatCopilot = AICopilotFactory.CreateChatCopilot(openAiClient, options);
 
-// Get response on a user query.
+// 获取用户查询的响应。
 string copilotResponse1 = await chatCopilot.GetResponseAsync("user message");
 
-// Get response on a list of queries.
+// 获取查询列表的响应。
 string copilotResponse2 = await chatCopilot.GetResponseAsync(new List<string>
 {
     "message1",
     "message2"
 });
 
-// Save summary as PDF document.
+// 将摘要保存为 PDF 文档。
 await chatCopilot.SaveResponseAsync("message1", "outputPath");
 
-// Save summary with specified format.
+// 使用指定格式保存摘要。
 await chatCopilot.SaveResponseAsync("message1", "outputPath", SaveFormat.DocX);
 
-// Save summary as PDF document.
+// 将摘要保存为 PDF 文档。
 await chatCopilot.SaveResponseAsync(new List<string>
 {
     "message1",
     "message2"
 }, "outputPath");
 
-// Save summary with specified format.
+// 使用指定格式保存摘要。
 await chatCopilot.SaveResponseAsync(new List<string>
 {
     "message1",
     "message2"
 }, "outputPath", SaveFormat.DocX);
 
-// Save the context.
+// 保存上下文。
 await chatCopilot.SaveContextAsync("outputPath");
 
-// Delete the context.
+// 删除上下文。
 await chatCopilot.DeleteContextAsync();
 ```
 
@@ -98,8 +98,10 @@ public class OpenAIChatCopilot : IChatCopilot
 | [SaveResponseAsync](../../aspose.pdf.ai/openaichatcopilot/saveresponseasync/#saveresponseasync)(List&lt;string&gt;, string, SaveFormat, CancellationToken?) |  |
 | [SaveResponseAsync](../../aspose.pdf.ai/openaichatcopilot/saveresponseasync/#saveresponseasync_2)(string, string, SaveFormat, CancellationToken?) |  |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IChatCopilot](../ichatcopilot/)
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IChatCopilot](../ichatcopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Document 方法。关闭此文档使用的所有资源
+title: "Document.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。关闭此文档使用的所有资源"
 type: docs
-weight: 610
+weight: 630
 url: /zh/net/aspose.pdf/document/dispose/
 ---
-## Document.Dispose 方法
+## Document.Dispose method
 
 关闭此文档使用的所有资源。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/document/dispose/
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection 方法。 从列表中移除所有操作符
+title: "OperatorCollection.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OperatorCollection 方法。从列表中移除所有运算符。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/operatorcollection/clear/
 ---
-## OperatorCollection.Clear 方法
+## OperatorCollection.Clear method
 
-从列表中移除所有操作符。
+从列表中移除所有运算符。
 
 ```csharp
 public override void Clear()
@@ -23,8 +23,10 @@ Document doc = new Document("input.pdf");
 doc.Pages[1].Clear();
 ```
 
-### 另见
+### 另请参见
 
-* 类 [OperatorCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

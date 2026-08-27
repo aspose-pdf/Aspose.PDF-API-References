@@ -1,14 +1,14 @@
 ---
-title: SetColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor 方法。返回操作员指定的颜色
+title: "SetColor.getColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetColor 方法。返回操作符指定的颜色"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.operators/setcolor/getcolor/
 ---
-## SetColor.getColor 方法
+## SetColor.getColor method
 
-返回操作员指定的颜色。
+返回操作符指定的颜色。
 
 ```csharp
 public override Color getColor()
@@ -16,10 +16,12 @@ public override Color getColor()
 
 ### 返回值
 
-操作员颜色。
+Operator color.
 
-### 另请参阅
+### 另请参见
 
-* 类 [SetColor](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

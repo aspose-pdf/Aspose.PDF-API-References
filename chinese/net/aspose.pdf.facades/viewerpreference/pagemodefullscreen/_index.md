@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PageModeFullScreen
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 字段。全屏模式，没有菜单栏、窗口控制或任何其他窗口可见
+title: "ViewerPreference.PageModeFullScreen"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ViewerPreference 字段。全屏模式，不显示菜单栏、窗口控件或任何其他窗口"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.facades/viewerpreference/pagemodefullscreen/
 ---
-## ViewerPreference.PageModeFullScreen 字段
+## ViewerPreference.PageModeFullScreen field
 
-全屏模式，没有菜单栏、窗口控制或任何其他窗口可见。
+全屏模式，不显示菜单栏、窗口控制或任何其他窗口。
 
 ```csharp
 public const int PageModeFullScreen;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ViewerPreference](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.MarginInfo 类。该类表示不同对象的边距
+title: "类 MarginInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.MarginInfo 类。此类表示不同对象的页边距。"
 type: docs
-weight: 6900
+weight: 7040
 url: /zh/net/aspose.pdf/margininfo/
 ---
-## MarginInfo 类
+## MarginInfo class
 
-该类表示不同对象的边距。
+此类表示不同对象的边距。
 
 ```csharp
 public sealed class MarginInfo : ICloneable
@@ -19,16 +19,16 @@ public sealed class MarginInfo : ICloneable
 | 名称 | 描述 |
 | --- | --- |
 | [MarginInfo](margininfo/#constructor)() | 初始化 `MarginInfo` 类的新实例。 |
-| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | 矩形的构造函数。 |
+| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | Rectangle 的构造函数。 |
 
 ## 属性
 
 | 名称 | 描述 |
 | --- | --- |
-| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | 获取或设置一个浮点值，表示底部边距。 |
-| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | 获取或设置一个浮点值，表示左侧边距。 |
-| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | 获取或设置一个浮点值，表示右侧边距。 |
-| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | 获取或设置一个浮点值，表示顶部边距。 |
+| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | 获取或设置表示底部页边距的浮点值。 |
+| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | 获取或设置表示左侧页边距的浮点值。 |
+| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | 获取或设置表示右侧页边距的浮点值。 |
+| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | 获取或设置表示顶部页边距的浮点值。 |
 
 ## 方法
 
@@ -36,7 +36,9 @@ public sealed class MarginInfo : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/margininfo/clone/)() | 克隆一个新的 `MarginInfo` 对象。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

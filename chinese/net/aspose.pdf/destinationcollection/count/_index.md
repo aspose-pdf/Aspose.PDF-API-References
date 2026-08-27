@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection 属性。获取集合中包含的元素数量
+title: "DestinationCollection.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DestinationCollection 属性。获取集合中包含的元素数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/destinationcollection/count/
 ---
-## DestinationCollection.Count 属性
+## DestinationCollection.Count property
 
 获取集合中包含的元素数量。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/destinationcollection/count/
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DestinationCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

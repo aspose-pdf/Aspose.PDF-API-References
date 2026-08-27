@@ -1,21 +1,23 @@
 ---
-title: Document.PickTrayByPdfSize
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取或设置一个标志，指定是否应使用 PDF 页面大小来选择输入纸盘
+title: "Document.PickTrayByPdfSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取或设置标志，指定是否使用 PDF 页面尺寸来选择输入纸盘"
 type: docs
-weight: 500
+weight: 520
 url: /zh/net/aspose.pdf/document/picktraybypdfsize/
 ---
-## Document.PickTrayByPdfSize 属性
+## Document.PickTrayByPdfSize property
 
-获取或设置一个标志，指定是否应使用 PDF 页面大小来选择输入纸盘。
+获取或设置标志，指定是否使用 PDF 页面尺寸来选择输入纸盘。
 
 ```csharp
 public bool PickTrayByPdfSize { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

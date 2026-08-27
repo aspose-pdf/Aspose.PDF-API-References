@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.DisableFontLicenseVerifications
-second_title: Aspose.PDF for .NET API Reference
-description: LoadOptions 属性。获取或设置标志以在加载文件时禁用所有字体的任何许可证限制。当为 true 时，允许执行被该字体许可证禁止的字体操作，例如允许将字体嵌入 PDF 文档，即使许可证规则禁止该字体的嵌入。默认值为 false
+title: "LoadOptions.DisableFontLicenseVerifications"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LoadOptions 属性。获取或设置在加载文件时禁用所有字体的任何许可证限制的标志。为 true 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也允许将字体嵌入 PDF 文档。默认值为 false。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/loadoptions/disablefontlicenseverifications/
 ---
-## LoadOptions.DisableFontLicenseVerifications 属性
+## LoadOptions.DisableFontLicenseVerifications property
 
-获取或设置标志以在加载文件时禁用所有字体的任何许可证限制。当 `true` 时，允许执行被该字体许可证禁止的字体操作，例如允许将字体嵌入 PDF 文档，即使许可证规则禁止该字体的嵌入。默认值为 `false`。
+获取或设置在加载文件时禁用所有字体的任何许可证限制的标志。当 `true` 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也可以将字体嵌入 PDF 文档。默认值为 `false`。
 
 ```csharp
 public bool DisableFontLicenseVerifications { get; set; }
@@ -16,10 +16,12 @@ public bool DisableFontLicenseVerifications { get; set; }
 
 ## 备注
 
-使用此标志时要小心。当设置此标志时，意味着设置此标志的人承担所有可能的许可证/法律违规责任。因此，他自担风险。强烈建议仅在您完全确信不会违反版权法时使用此标志。
+使用此标志时请小心。设置后意味着设置此标志的人自行承担可能的许可证/法律违规的全部责任。因此风险由其自行承担。强烈建议仅在完全确信不会侵犯版权法时才使用此标志。
 
-### 另请参阅
+### 另请参见
 
-* 类 [LoadOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection 方法。将新操作符添加到集合中
+title: "OperatorCollection.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OperatorCollection 方法。向集合中添加新运算符"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/operatorcollection/add/
 ---
 ## Add(Operator) {#add}
 
-将新操作符添加到集合中。
+向集合中添加新运算符。
 
 ```csharp
 public override void Add(Operator op)
@@ -16,11 +16,11 @@ public override void Add(Operator op)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| op | Operator | 必须添加的操作符 |
+| op | 运算符 | 必须添加的运算符 |
 
 ## 示例
 
-示例演示如何将操作符添加到 page.contents 的末尾。
+示例演示如何将运算符添加到 page.contents 的末尾。
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -28,7 +28,7 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.q());
 doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
@@ -39,7 +39,7 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ## Add(Operator[]) {#add_1}
 
-在内容操作符的末尾添加操作符。
+在内容运算符的末尾添加运算符。
 
 ```csharp
 public void Add(Operator[] ops)
@@ -47,11 +47,11 @@ public void Add(Operator[] ops)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| ops | Operator[] | 要添加的操作符数组。每个操作符可以具有任何索引（默认值为 -1），因为它们会被添加到内容操作符的末尾，即索引会自动分配。 |
+| ops | Operator[] | 要添加的运算符数组。每个运算符可以具有任意索引（默认值为 -1），因为它们会被放置在内容运算符的末尾，即索引会自动分配。 |
 
 ## 示例
 
-示例演示如何将操作符添加到页面内容的末尾。
+示例演示如何将运算符添加到页面内容的末尾。
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -59,7 +59,7 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q() } );
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
@@ -70,7 +70,7 @@ oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q
 
 ## Add(ICollection&lt;Operator&gt;) {#add_2}
 
-将其他集合中的所有操作符添加到集合中。
+将其他集合中的所有运算符添加到集合中。
 
 ```csharp
 public void Add(ICollection<Operator> ops)
@@ -78,11 +78,11 @@ public void Add(ICollection<Operator> ops)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| ops | ICollection`1 | 包含将要添加的操作符的集合。 |
+| ops | ICollection`1 | 包含将被添加的运算符的集合。 |
 
 ## 示例
 
-示例演示如何将操作符集合添加到页面内容中。
+示例演示如何将运算符集合添加到页面内容。
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -93,9 +93,11 @@ opList.Add(new Operators.Q());
 oc.Add(opList);
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextAbsorber 类。表示文本的吸收器对象。执行文本提取并通过 Text 对象提供对结果的访问
+title: "类 TextAbsorber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.TextAbsorber 类。表示文本的吸收器对象。执行文本提取并通过 Text 对象提供对结果的访问。"
 type: docs
-weight: 10800
+weight: 10980
 url: /zh/net/aspose.pdf.text/textabsorber/
 ---
-## TextAbsorber 类
+## TextAbsorber class
 
 表示文本的吸收器对象。执行文本提取并通过 [`Text`](./text/) 对象提供对结果的访问。
 
@@ -27,9 +27,9 @@ public class TextAbsorber
 
 | 名称 | 描述 |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | [`TextExtractionError`](../textextractionerror/) 对象的列表。它包含在文本提取过程中发现的错误的信息。仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会搜索错误；这可能会降低性能。 |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | [`TextExtractionError`](../textextractionerror/) 对象的列表。它包含在文本提取期间发现的错误信息。仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；这可能会降低性能。 |
 | virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | 获取或设置文本提取选项。 |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | 值指示在文本提取过程中是否发现错误。仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会搜索错误；这可能会降低性能。 |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | 该值指示在文本提取期间是否发现错误。仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；这可能会降低性能。 |
 | virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | 获取 `TextAbsorber` 在 PDF 文档或页面上提取的文本。 |
 | virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | 获取或设置文本搜索选项。 |
 
@@ -37,34 +37,36 @@ public class TextAbsorber
 
 | 名称 | 描述 |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Document) | 提取指定文档上的文本 |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | 提取指定页面上的文本 |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | 提取指定 XForm 上的文本。 |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Document) | 在指定的文档上提取文本 |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | 在指定的页面上提取文本 |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | 在指定的 XForm 上提取文本。 |
 
 ## 备注
 
-`TextAbsorber` 对象用于从 Pdf 文档或文档的页面中提取文本。
+`TextAbsorber` 对象用于从 PDF 文档或文档的页面中提取文本。
 
 ## 示例
 
-该示例演示如何提取第一个 PDF 文档页面上的文本。
+此示例演示如何在第一个 PDF 文档页面上提取文本。
 
 ```csharp
-// open document
+// 打开文档
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// 创建 TextAbsorber 对象以提取文本
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for first page
+// 为第一页接受吸收器
 doc.Pages[1].Accept(absorber);
 
-// get the extracted text
+// 获取提取的文本
 string extractedText = absorber.Text;
 
 ```
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

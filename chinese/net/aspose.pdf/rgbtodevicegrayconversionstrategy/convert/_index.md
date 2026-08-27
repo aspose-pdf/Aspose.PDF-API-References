@@ -1,12 +1,12 @@
 ---
-title: RgbToDeviceGrayConversionStrategy.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: RgbToDeviceGrayConversionStrategy 方法。转换文档的页面
+title: "RgbToDeviceGrayConversionStrategy.Convert"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RgbToDeviceGrayConversionStrategy 方法。将文档页面转换。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/rgbtodevicegrayconversionstrategy/convert/
 ---
-## RgbToDeviceGrayConversionStrategy.Convert 方法
+## RgbToDeviceGrayConversionStrategy.Convert method
 
 转换文档的页面。
 
@@ -16,11 +16,13 @@ public void Convert(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 文档的页面。 |
+| 页面 | 页面 | 文档的页面。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [RgbToDeviceGrayConversionStrategy](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [RgbToDeviceGrayConversionStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

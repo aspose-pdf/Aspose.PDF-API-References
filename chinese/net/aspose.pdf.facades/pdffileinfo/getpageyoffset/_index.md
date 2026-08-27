@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageYOffset
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 方法。获取指定页面显示区域的垂直偏移量
+title: "PdfFileInfo.GetPageYOffset"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileInfo 方法。获取指定页面显示区域的垂直偏移"
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf.facades/pdffileinfo/getpageyoffset/
 ---
-## PdfFileInfo.GetPageYOffset 方法
+## PdfFileInfo.GetPageYOffset method
 
-获取指定页面显示区域的垂直偏移量。
+获取指定页面显示区域的垂直偏移。
 
 ```csharp
 public float GetPageYOffset(int pageNum)
@@ -20,10 +20,12 @@ public float GetPageYOffset(int pageNum)
 
 ### 返回值
 
-页面显示区域的垂直偏移量。
+页面显示区域的垂直偏移。
 
-### 另见
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

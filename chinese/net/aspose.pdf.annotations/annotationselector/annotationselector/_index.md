@@ -1,7 +1,7 @@
 ---
-title: AnnotationSelector.AnnotationSelector
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationSelector 构造函数。初始化 AnnotationSelector 类的新实例
+title: "AnnotationSelector.AnnotationSelector"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AnnotationSelector 构造函数。初始化 AnnotationSelector 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/annotationselector/annotationselector/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.annotations/annotationselector/annotationselector/
 public AnnotationSelector()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AnnotationSelector](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,11 +32,13 @@ public AnnotationSelector(Annotation annotation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 要选择的注释。此对象仅描述我们希望找到的注释具有的一些特征，例如注释的类型。 |
+| 批注 | 批注 | 待选择的注释。此对象仅描述我们希望找到的注释具备的一些特性，例如注释的类型。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Annotation](../../annotation/)
-* 类 [AnnotationSelector](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

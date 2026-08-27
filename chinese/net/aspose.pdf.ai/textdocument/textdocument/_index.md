@@ -1,12 +1,12 @@
 ---
-title: TextDocument.TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: TextDocument 构造函数。默认构造函数
+title: "TextDocument.TextDocument"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextDocument 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/textdocument/textdocument/
 ---
-## TextDocument 构造函数
+## TextDocument constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/textdocument/textdocument/
 public TextDocument()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [TextDocument](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

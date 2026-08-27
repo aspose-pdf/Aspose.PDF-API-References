@@ -1,56 +1,59 @@
 ---
-title: Class PKCS7
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.PKCS7 class. 表示符合互联网RFC 2315 PKCS 7加密消息语法版本1.5的PKCS7对象。文档字节范围的SHA1摘要被封装在PKCS7 SignedData字段中。
+title: "类 PKCS7"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Forms.PKCS7 类。表示符合 Internet RFC 2315 PKCS 7 加密消息语法第 1.5 版规范的 PKCS7 对象。文档字节范围的 SHA1 摘要被封装在 PKCS7 SignedData 字段中。"
 type: docs
-weight: 5180
+weight: 5300
 url: /zh/net/aspose.pdf.forms/pkcs7/
 ---
 ## PKCS7 class
 
-表示符合互联网RFC 2315的PKCS#7对象，PKCS #7：加密消息语法，版本1.5。文档字节范围的`SHA1 digest`被封装在PKCS#7 SignedData字段中。
+表示符合 PKCS#7 规范（Internet RFC 2315，PKCS #7：密码消息语法，版本 1.5）的 PKCS#7 对象。文档字节范围的 `SHA1 digest` 被封装在 PKCS#7 SignedData 字段中。
 
 ```csharp
 public sealed class PKCS7 : Signature
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [PKCS7](pkcs7/#constructor)() | 初始化`PKCS7`类的新实例。 |
-| [PKCS7](pkcs7/#constructor_1)(Stream, string) | 初始化`PKCS7`类的新实例。 |
-| [PKCS7](pkcs7/#constructor_2)(string, string) | 初始化`PKCS7`类的新实例。 |
+| [PKCS7](pkcs7/#constructor)() | 初始化 `PKCS7` 类的新实例。 |
+| [PKCS7](pkcs7/#constructor_1)(Stream, string) | 初始化 `PKCS7` 类的新实例。 |
+| [PKCS7](pkcs7/#constructor_2)(string, string) | 初始化 `PKCS7` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Authority](../../aspose.pdf.forms/signature/authority/) { get; set; } | 签署文档的个人或机构的名称。 |
-| [AvoidEstimatingSignatureLength](../../aspose.pdf.forms/signature/avoidestimatingsignaturelength/) { get; set; } | 获取和设置一个选项，表示是否避免估算签名的长度。 |
-| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | 描述用于摘要计算的确切字节范围的整数对数组（起始字节偏移量，字节长度）。 |
-| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | 签署人提供的信息，以便接收者能够联系签署人以验证签名，例如电话号码。 |
+| [AvoidEstimatingSignatureLength](../../aspose.pdf.forms/signature/avoidestimatingsignaturelength/) { get; set; } | 获取或设置一个选项，表示是否避免估计签名的长度。 |
+| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | 一个整数对数组（起始字节偏移量，字节长度），用于描述摘要计算的精确字节范围。 |
+| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | 签名者提供的信息，以便收件人联系签名者验证签名，例如电话号码。 |
 | [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | 获取/设置自定义外观。 |
-| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | 自定义签署文档哈希的委托。 |
+| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | 用于自定义签署文档哈希的委托。 |
 | [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | 签署时间。 |
-| [DefaultSignatureLength](../../aspose.pdf.forms/signature/defaultsignaturelength/) { get; set; } | 获取或设置签名数据的默认长度（以字节为单位）。 |
-| [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | 签署的CPU主机名或物理位置。 |
-| [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | 获取/设置ocsp设置。 |
-| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | 签署的原因，例如（我同意，Pip B.）。 |
-| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | 强制显示/隐藏签名属性。如果ShowProperties为true，签名字段具有预定义的外观格式（表示字符串）： ------------------------------------------- 由{certificate subject}数字签名 日期：{signature.Date} 原因：{signature.Reason} 位置：{signature.Location} ------------------------------------------- 其中{X}是X值的占位符。签名也可以有图像，在这种情况下，列出的字符串会覆盖图像。默认情况下ShowProperties为true。 |
+| [DefaultSignatureLength](../../aspose.pdf.forms/signature/defaultsignaturelength/) { get; set; } | 获取或设置签名数据的默认字节长度。 |
+| [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | 签署的 CPU 主机名或物理位置。 |
+| [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | 获取/设置 OCSP 设置。 |
+| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | 签署原因，例如（I agree, Pip B.）。 |
+| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | 强制显示/隐藏签名属性。如果 ShowProperties 为 true，签名字段将具有预定义的外观格式（字符串表示）： ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- 其中 {X} 为 X 值的占位符。签名也可以包含图像，在此情况下上述字符串会放置在图像上。ShowProperties 默认为 true。 |
 | [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | 获取/设置时间戳设置。 |
-| [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | 获取/设置ltv验证标志。 |
+| [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | 获取/设置 LTV 验证标志。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | 检索有关签名中使用的签名算法的信息。 |
-| [Verify](../../aspose.pdf.forms/signature/verify/)() | 验证文档与此签名的关系，如果文档有效则返回true，否则返回false。 |
-| [Verify](../../aspose.pdf.forms/signature/verify/)(ValidationOptions, out ValidationResult) | 验证文档与此签名的关系，如果文档有效则返回true，否则返回false。 |
+| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | 检索关于签名中使用的签名算法的信息。 |
+| [Verify](../../aspose.pdf.forms/signature/verify/)() | 验证文档相对于此签名的有效性，如果文档有效则返回 true，否则返回 false。 |
+| [Verify](../../aspose.pdf.forms/signature/verify/)(ValidationOptions, out ValidationResult) | 验证文档相对于此签名的有效性，如果文档有效则返回 true，否则返回 false。 |
+| [Verify](../../aspose.pdf.forms/signature/verify/)(X509Certificate2, ValidationOptions, out ValidationResult) | 验证文档相对于此签名的有效性，如果文档有效则返回 true，否则返回 false。验证使用外部公钥证书进行。 |
 
-### See Also
+### 另请参见
 
 * class [Signature](../signature/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

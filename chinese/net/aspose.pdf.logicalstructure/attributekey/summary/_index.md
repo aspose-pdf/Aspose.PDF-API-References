@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 字段。摘要属性 表属性所有者
+title: "AttributeKey.Summary"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeKey 字段。Summary 属性 Table 属性 所有者"
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
-## AttributeKey.Summary 字段
+## AttributeKey.Summary field
 
-摘要属性（表属性所有者）。
+Summary 属性 (Table 属性所有者).
 
 ```csharp
 public static readonly AttributeKey Summary;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeKey](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

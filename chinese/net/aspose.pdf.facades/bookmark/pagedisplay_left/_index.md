@@ -1,21 +1,23 @@
 ---
-title: Bookmark.PageDisplay_Left
-second_title: Aspose.PDF for .NET API Reference
-description: 书签属性。获取或设置页面显示的左坐标
+title: "Bookmark.PageDisplay_Left"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Bookmark 属性。获取或设置页面显示的左坐标"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/bookmark/pagedisplay_left/
 ---
-## Bookmark.PageDisplay_Left 属性
+## Bookmark.PageDisplay_Left property
 
-获取或设置页面显示的左坐标。
+获取或设置页面显示的左侧坐标。
 
 ```csharp
 public int PageDisplay_Left { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Bookmark](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

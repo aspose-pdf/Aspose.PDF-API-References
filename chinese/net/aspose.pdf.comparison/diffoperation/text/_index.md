@@ -1,12 +1,12 @@
 ---
-title: DiffOperation.Text
-second_title: Aspose.PDF for .NET API Reference
-description: DiffOperation 属性。获取和设置操作文本
+title: "DiffOperation.Text"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DiffOperation 属性。获取和设置操作文本"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.comparison/diffoperation/text/
 ---
-## DiffOperation.Text 属性
+## DiffOperation.Text property
 
 获取和设置操作文本。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.comparison/diffoperation/text/
 public string Text { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DiffOperation](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DiffOperation](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

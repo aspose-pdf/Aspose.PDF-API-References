@@ -1,14 +1,14 @@
 ---
-title: Interface IAppointment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.IAppointment 接口。表示操作和目标的一般接口
+title: "接口 IAppointment"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.IAppointment 接口。表示用于操作和目标的通用接口"
 type: docs
-weight: 1900
+weight: 1990
 url: /zh/net/aspose.pdf.annotations/iappointment/
 ---
-## IAppointment 接口
+## IAppointment interface
 
-表示操作和目标的一般接口。
+表示用于操作和目标的通用接口。
 
 ```csharp
 public interface IAppointment
@@ -22,5 +22,7 @@ public interface IAppointment
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

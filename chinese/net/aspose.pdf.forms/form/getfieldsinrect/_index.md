@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldsInRect
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。返回指定矩形内的字段
+title: "Form.GetFieldsInRect"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。返回指定矩形内的字段。"
 type: docs
-weight: 270
+weight: 290
 url: /zh/net/aspose.pdf.forms/form/getfieldsinrect/
 ---
-## Form.GetFieldsInRect 方法
+## Form.GetFieldsInRect method
 
-返回指定矩形内的字段。
+返回位于指定矩形内的字段。
 
 ```csharp
 public Field[] GetFieldsInRect(Rectangle rect)
@@ -16,16 +16,18 @@ public Field[] GetFieldsInRect(Rectangle rect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | 矩形 | 应该找到字段的矩形。 |
+| rect | Rectangle | 应在其中查找字段的矩形。 |
 
 ### 返回值
 
 包含找到的字段的数组。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Field](../../field/)
-* 类 [Rectangle](../../../aspose.pdf/rectangle/)
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

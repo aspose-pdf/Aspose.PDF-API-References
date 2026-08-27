@@ -1,12 +1,12 @@
 ---
-title: MoveTextPosition.MoveTextPosition
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTextPosition 构造函数。初始化操作符
+title: "MoveTextPosition.MoveTextPosition"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MoveTextPosition 构造函数。初始化操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/movetextposition/movetextposition/
 ---
-## MoveTextPosition 构造函数
+## MoveTextPosition constructor
 
 初始化操作符。
 
@@ -19,8 +19,10 @@ public MoveTextPosition(double x, double y)
 | x | Double | 文本位置的 X 坐标。 |
 | y | Double | 文本位置的 Y 坐标。 |
 
-### 另请参阅
+### 另请参见
 
 * class [MoveTextPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

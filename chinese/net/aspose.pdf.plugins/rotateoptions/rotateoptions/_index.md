@@ -1,12 +1,12 @@
 ---
-title: RotateOptions.RotateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: RotateOptions 构造函数。默认构造函数
+title: "RotateOptions.RotateOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RotateOptions 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/rotateoptions/rotateoptions/
 ---
-## RotateOptions 构造函数
+## RotateOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/rotateoptions/rotateoptions/
 public RotateOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RotateOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RotateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Bookmark.TitleColor
-second_title: Aspose.PDF for .NET API Reference
-description: 书签属性。获取或设置书签标题的颜色
+title: "Bookmark.TitleColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Bookmark 属性。获取或设置书签标题的颜色"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.facades/bookmark/titlecolor/
 ---
-## Bookmark.TitleColor 属性
+## Bookmark.TitleColor property
 
 获取或设置书签标题的颜色。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/bookmark/titlecolor/
 public Color TitleColor { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

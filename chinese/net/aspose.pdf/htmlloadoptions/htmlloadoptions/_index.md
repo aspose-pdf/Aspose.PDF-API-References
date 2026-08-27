@@ -1,7 +1,7 @@
 ---
-title: HtmlLoadOptions.HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions 构造函数。创建用于将 html 转换为 pdf 文档的加载选项，基路径为空
+title: "HtmlLoadOptions.HtmlLoadOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlLoadOptions 构造函数。创建用于将 html 转换为 pdf 文档的加载选项，基路径为空"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/htmlloadoptions/htmlloadoptions/
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf/htmlloadoptions/htmlloadoptions/
 public HtmlLoadOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -32,10 +32,12 @@ public HtmlLoadOptions(string basePath)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| basePath | String | html 文件的基路径/url。 |
+| basePath | String | HTML 文件的基础路径/URL。 |
 
-### 另请参阅
+### 另请参见
 
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

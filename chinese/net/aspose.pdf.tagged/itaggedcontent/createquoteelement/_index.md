@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。创建 QuoteElement
+title: "ITaggedContent.CreateQuoteElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。创建 QuoteElement"
 type: docs
-weight: 230
+weight: 260
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/
 ---
-## ITaggedContent.CreateQuoteElement 方法
+## ITaggedContent.CreateQuoteElement method
 
 创建 [`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/)。
 
@@ -16,11 +16,13 @@ public QuoteElement CreateQuoteElement()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

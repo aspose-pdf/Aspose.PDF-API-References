@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConvertToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter 方法。将表中的数据转换为流
+title: "FormDataConverter.ConvertToStreams"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormDataConverter 方法。将表格中的数据转换为流"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/formdataconverter/converttostreams/
 ---
-## FormDataConverter.ConvertToStreams 方法
+## FormDataConverter.ConvertToStreams method
 
 将表中的数据转换为流。
 
@@ -16,8 +16,8 @@ public void ConvertToStreams(Stream[] destStream, DataType destType)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destStream | Stream[] | 存储数据的流。 |
-| destType | DataType | 存储数据的类型。有效值为：XML, FDF, XFDF。 |
+| destStream | Stream[] | 数据将被存储的流。 |
+| destType | DataType | 存储数据的类型。有效值包括：XML、FDF、XFDF。 |
 
 ## 示例
 
@@ -39,9 +39,11 @@ fc.Table = table;
 fc.ConvertToStreams(new Stream[] { stream }, DataType.XML);
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

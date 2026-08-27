@@ -1,21 +1,23 @@
 ---
-title: TextExtractionErrorLocation.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation 属性。文本提取错误所在的文档页面编号
+title: "TextExtractionErrorLocation.PageNumber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextExtractionErrorLocation 属性。文本提取错误所在的文档页号"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/textextractionerrorlocation/pagenumber/
 ---
-## TextExtractionErrorLocation.PageNumber 属性
+## TextExtractionErrorLocation.PageNumber property
 
-文本提取错误所在的文档页面编号。
+文本提取错误所在的文档页码。
 
 ```csharp
 public int PageNumber { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextExtractionErrorLocation](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

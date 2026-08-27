@@ -1,12 +1,12 @@
 ---
-title: Document.NamedDestinations
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。文档中命名目标的集合
+title: "Document.NamedDestinations"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。文档中 Named Destination 的集合"
 type: docs
-weight: 370
+weight: 390
 url: /zh/net/aspose.pdf/document/nameddestinations/
 ---
-## Document.NamedDestinations 属性
+## Document.NamedDestinations property
 
 文档中命名目标的集合。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/document/nameddestinations/
 public NamedDestinationCollection NamedDestinations { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [NamedDestinationCollection](../../nameddestinationcollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

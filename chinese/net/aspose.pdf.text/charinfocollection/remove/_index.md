@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection 方法。集合是只读的，抛出 NotImplementedException
+title: "CharInfoCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CharInfoCollection 方法。集合为只读时抛出 NotImplementedException"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.text/charinfocollection/remove/
 ---
-## CharInfoCollection.Remove 方法
+## CharInfoCollection.Remove method
 
-集合是只读的，抛出 NotImplementedException。
+集合为只读，抛出 NotImplementedException。
 
 ```csharp
 public bool Remove(CharInfo item)
@@ -24,7 +24,9 @@ NotImplementedException
 
 ### 另请参见
 
-* 类 [CharInfo](../../charinfo/)
-* 类 [CharInfoCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

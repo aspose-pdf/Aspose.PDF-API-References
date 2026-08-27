@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnReleaseMouseBtn
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection 属性。获取或设置在鼠标按钮释放时要执行的操作，位于注释的活动区域内
+title: "AnnotationActionCollection.OnReleaseMouseBtn"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AnnotationActionCollection 属性。获取或设置当鼠标按钮在 Annotation 的活动区域内释放时要执行的操作"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn/
 ---
-## AnnotationActionCollection.OnReleaseMouseBtn 属性
+## AnnotationActionCollection.OnReleaseMouseBtn property
 
-获取或设置在鼠标按钮释放时要执行的操作，位于注释的活动区域内。
+获取或设置当鼠标按钮在注释的活动区域内被释放时执行的操作。
 
 ```csharp
 public PdfAction OnReleaseMouseBtn { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnReleaseMouseBtn { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

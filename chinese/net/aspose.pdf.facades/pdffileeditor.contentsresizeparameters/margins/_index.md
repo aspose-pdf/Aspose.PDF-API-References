@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters 方法。创建具有指定边距值的调整大小参数。内容大小会自动计算。
+title: "PdfFileEditor.ContentsResizeParameters.Margins"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ContentsResizeParameters 方法。创建具有指定边距值的调整大小参数。内容尺寸会自动计算"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/
 ---
-## PdfFileEditor.ContentsResizeParameters.Margins 方法
+## PdfFileEditor.ContentsResizeParameters.Margins method
 
-创建具有指定边距值的调整大小参数。内容大小会自动计算。
+创建使用指定边距值的调整大小参数。内容尺寸会自动计算。
 
 ```csharp
 public static ContentsResizeParameters Margins(double left, double right, double top, double bottom)
@@ -17,16 +17,18 @@ public static ContentsResizeParameters Margins(double left, double right, double
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | left | Double | 左边距。 |
-| right | Double | 右边距。 |
-| top | Double | 上边距。 |
+| 右 | Double | 右边距。 |
+| 上 | Double | 上边距。 |
 | bottom | Double | 下边距。 |
 
 ### 返回值
 
-创建的调整大小参数。
+已创建调整大小参数。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ContentsResizeParameters](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.HasNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 方法。指示是否可以获取更多文本
+title: "PdfExtractor.HasNextPageText"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractor 方法。指示是否可以获取更多文本"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.facades/pdfextractor/hasnextpagetext/
 ---
-## PdfExtractor.HasNextPageText 方法
+## PdfExtractor.HasNextPageText method
 
 指示是否可以获取更多文本。
 
@@ -20,7 +20,7 @@ public bool HasNextPageText()
 
 ## 示例
 
-该示例演示了 `HasNextPageText` 属性在文本提取场景中的用法。
+示例演示了在文本提取场景中 `HasNextPageText` 属性的用法。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -49,8 +49,10 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload 构造函数。初始化加密负载实例
+title: "EncryptedPayload.EncryptedPayload"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EncryptedPayload 构造函数。初始化加密负载实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
-## EncryptedPayload 构造函数
+## EncryptedPayload constructor
 
 初始化加密负载实例。
 
@@ -20,7 +20,9 @@ public EncryptedPayload(FileSpecification fileSpecification)
 
 ### 另请参见
 
-* 类 [FileSpecification](../../filespecification/)
-* 类 [EncryptedPayload](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

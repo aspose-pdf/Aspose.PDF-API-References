@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.ReasonLabel
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance 属性。获取/设置原因标签。默认值为原因
+title: "SignatureCustomAppearance.ReasonLabel"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SignatureCustomAppearance 属性。获取/设置原因标签。默认值 Reason"
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/
 ---
-## SignatureCustomAppearance.ReasonLabel 属性
+## SignatureCustomAppearance.ReasonLabel property
 
-获取/设置原因标签。默认值：“原因”。
+获取/设置原因标签。默认值："Reason"。
 
 ```csharp
 public string ReasonLabel { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SignatureCustomAppearance](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

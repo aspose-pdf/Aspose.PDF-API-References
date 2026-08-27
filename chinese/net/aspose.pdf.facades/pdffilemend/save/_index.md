@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend 方法。将 PDF 文档保存到指定文件
+title: "PdfFileMend.Save"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileMend 方法。将 PDF 文档保存到指定文件。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdffilemend/save/
 ---
 ## Save(string) {#save_1}
 
-将 PDF 文档保存到指定文件。
+将 PDF 文档保存到指定的文件中。
 
 ```csharp
 public override void Save(string destFile)
@@ -16,19 +16,19 @@ public override void Save(string destFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destFile | 字符串 | 目标文件。 |
+| destFile | String | 目标文件。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileMend](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-将 PDF 文档保存到指定流。
+将 PDF 文档保存到指定的流中。
 
 ```csharp
 public override void Save(Stream destStream)
@@ -36,10 +36,12 @@ public override void Save(Stream destStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destStream | 流 | 目标流。 |
+| destStream | Stream | 目标流。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileMend](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

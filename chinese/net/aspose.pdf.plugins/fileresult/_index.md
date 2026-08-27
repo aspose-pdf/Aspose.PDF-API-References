@@ -1,14 +1,14 @@
 ---
-title: Class FileResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FileResult 类。表示以字符串路径形式的操作结果
+title: "类 FileResult"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FileResult 类。表示以文件路径字符串形式的操作结果"
 type: docs
-weight: 8560
+weight: 8690
 url: /zh/net/aspose.pdf.plugins/fileresult/
 ---
-## FileResult 类
+## FileResult class
 
-表示以字符串路径形式的操作结果。
+表示以文件路径字符串形式的操作结果。
 
 ```csharp
 public sealed class FileResult : IOperationResult
@@ -30,8 +30,10 @@ public sealed class FileResult : IOperationResult
 | [ToFile](../../aspose.pdf.plugins/fileresult/tofile/)() | 尝试将结果转换为文件。 |
 | [ToStream](../../aspose.pdf.plugins/fileresult/tostream/)() | 尝试将结果转换为流对象。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IOperationResult](../ioperationresult/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IOperationResult](../ioperationresult/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

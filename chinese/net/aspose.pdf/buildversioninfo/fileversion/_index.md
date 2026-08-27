@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo 字段。文件版本
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BuildVersionInfo 字段。文件版本"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/buildversioninfo/fileversion/
 ---
-## BuildVersionInfo.FileVersion 字段
+## BuildVersionInfo.FileVersion field
 
 文件版本
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/buildversioninfo/fileversion/
 public const string FileVersion;
 ```
 
-### 另见
+### 另请参见
 
-* 类 [BuildVersionInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

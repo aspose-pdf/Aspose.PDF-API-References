@@ -1,21 +1,23 @@
 ---
-title: Row.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Row 属性。获取行的高度
+title: "Row.MinRowHeight"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Row 属性。获取行的高度"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/row/minrowheight/
 ---
-## Row.MinRowHeight 属性
+## Row.MinRowHeight property
 
-获取行的高度；
+获取行高；
 
 ```csharp
 public double MinRowHeight { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Row](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

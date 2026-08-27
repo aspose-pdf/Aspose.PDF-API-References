@@ -1,21 +1,23 @@
 ---
-title: SvgExtractionOptions.GroupStrength
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions 属性。获取和设置将子路径分组为图像的强度选项。允许您配置子路径的分组程度。值的范围是从 0 到 1。值为 0 对应于 [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/) 选项被启用。值为 1 将为页面上的所有矢量路径创建单个图像。该选项在 [`AutoGrouping`](../autogrouping/) 为 false 时有效。默认值为 `0.8`。
+title: "SvgExtractionOptions.GroupStrength"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SvgExtractionOptions 属性。获取和设置一个选项，子路径分组为图像的强度。允许您配置子路径分组的程度。取值范围为 0 到 1。值为 0 对应于启用 ExtractEverySubPathToSvg 选项。值为 1 将为页面上的所有矢量路径创建单个图像。当 AutoGrouping 为 false 时，此选项生效。默认值为 0.8。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.vector/svgextractionoptions/groupstrength/
 ---
-## SvgExtractionOptions.GroupStrength 属性
+## SvgExtractionOptions.GroupStrength property
 
-获取和设置将子路径分组为图像的强度选项。允许您配置子路径的分组程度。值的范围是从 0 到 1。值为 0 对应于 [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/) 选项被启用。值为 1 将为页面上的所有矢量路径创建单个图像。该选项在 [`AutoGrouping`](../autogrouping/) 为 false 时有效。默认值为 `0.8`。
+获取和设置一个选项，子路径分组为图像的强度。允许您配置子路径分组的程度。取值范围为 0 到 1。值为 0 对应于启用 [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/) 选项。值为 1 将为页面上的所有矢量路径创建单个图像。当 [`AutoGrouping`](../autogrouping/) 为 false 时，此选项生效。默认值为 `0.8`。
 
 ```csharp
 public double GroupStrength { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SvgExtractionOptions](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

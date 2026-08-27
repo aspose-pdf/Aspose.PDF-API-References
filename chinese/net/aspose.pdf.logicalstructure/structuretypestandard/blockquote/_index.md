@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.BlockQuote
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 字段。块引用由一个或多个段落组成，这些段落归属于周围文本的作者以外的某个人
+title: "StructureTypeStandard.BlockQuote"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureTypeStandard field. Block quotation 块引用 由一个或多个段落组成的文本片段，归属于除周围文本作者之外的其他人"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/blockquote/
 ---
-## StructureTypeStandard.BlockQuote 字段
+## StructureTypeStandard.BlockQuote field
 
-（块引用）由一个或多个段落组成，这些段落归属于周围文本的作者以外的某个人。
+(Block quotation) 由一个或多个段落组成的文本片段，归属给除周围文本作者之外的其他人。
 
 ```csharp
 public static readonly StructureTypeStandard BlockQuote;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTypeStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

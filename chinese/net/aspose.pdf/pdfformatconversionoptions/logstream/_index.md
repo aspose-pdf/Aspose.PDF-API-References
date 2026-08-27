@@ -1,21 +1,23 @@
 ---
-title: PdfFormatConversionOptions.LogStream
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 属性。存储注释的流
+title: "PdfFormatConversionOptions.LogStream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFormatConversionOptions 属性。用于存储注释的流"
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/logstream/
 ---
-## PdfFormatConversionOptions.LogStream 属性
+## PdfFormatConversionOptions.LogStream property
 
-存储注释的流。
+用于存储注释的流。
 
 ```csharp
 public Stream LogStream { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFormatConversionOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

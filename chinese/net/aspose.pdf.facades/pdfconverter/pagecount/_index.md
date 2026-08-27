@@ -1,21 +1,23 @@
 ---
-title: PdfConverter.PageCount
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter 属性。获取页面计数
+title: "PdfConverter.PageCount"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfConverter 属性。获取页面计数。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/pdfconverter/pagecount/
 ---
-## PdfConverter.PageCount 属性
+## PdfConverter.PageCount property
 
-获取页面计数。
+获取页数。
 
 ```csharp
 public int PageCount { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfConverter](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

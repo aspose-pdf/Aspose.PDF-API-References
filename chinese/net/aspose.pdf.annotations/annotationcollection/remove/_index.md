@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 方法。删除集合中的指定注释
+title: "AnnotationCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AnnotationCollection 方法。删除集合中指定的注释"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.annotations/annotationcollection/remove/
 ---
-## AnnotationCollection.Remove 方法
+## AnnotationCollection.Remove method
 
-删除集合中的指定注释。
+从集合中删除指定的注释。
 
 ```csharp
 public bool Remove(Annotation annotation)
@@ -16,15 +16,17 @@ public bool Remove(Annotation annotation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 将被删除的注释。 |
+| 批注 | 批注 | 将被删除的注释。 |
 
 ### 返回值
 
-如果注释被移除，则为 true；否则为 false。
+True - 如果注释已删除；否则为 false。
 
-### 另见
+### 另请参见
 
-* 类 [Annotation](../../annotation/)
-* 类 [AnnotationCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

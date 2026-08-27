@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor 方法。 从 DictionaryEditor 中删除具有指定键的元素
+title: "DictionaryEditor.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DictionaryEditor 方法。删除 DictionaryEditor 中具有指定键的元素。"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.dataeditor/dictionaryeditor/remove/
@@ -16,17 +16,17 @@ public bool Remove(string key)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | 字符串 | 要删除的元素的键。 |
+| 键 | String | 要删除的元素的键。 |
 
 ### 返回值
 
-如果元素成功删除，则为 true；否则为 false。如果在原始字典中未找到键，或者键不可编辑，则此方法也返回 false。
+如果成功删除元素则返回 true；否则返回 false。如果在原始字典中未找到键或键不可编辑，此方法也返回 false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [DictionaryEditor](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,11 +44,13 @@ public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### 返回值
 
-如果 item 成功从 [`DictionaryEditor`](../) 中删除，则为 true；否则为 false。如果在原始 [`DictionaryEditor`](../) 中未找到 item，则此方法也返回 false。
+如果成功从 [`DictionaryEditor`](../) 中删除项则返回 true；否则返回 false。如果在原始 [`DictionaryEditor`](../) 中未找到该项，此方法也返回 false。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [ICosPdfPrimitive](../../icospdfprimitive/)
-* 类 [DictionaryEditor](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.MIMEType
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 属性。获取嵌入文件的子类型
+title: "FileSpecification.MIMEType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileSpecification 属性。获取嵌入文件的子类型"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/filespecification/mimetype/
 ---
-## FileSpecification.MIMEType 属性
+## FileSpecification.MIMEType property
 
 获取嵌入文件的子类型
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/filespecification/mimetype/
 public string MIMEType { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileSpecification](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

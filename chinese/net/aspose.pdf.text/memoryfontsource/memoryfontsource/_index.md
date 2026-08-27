@@ -1,12 +1,12 @@
 ---
-title: MemoryFontSource.MemoryFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: MemoryFontSource 构造函数。初始化 MemoryFontSource 类的新实例
+title: "MemoryFontSource.MemoryFontSource"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MemoryFontSource 构造函数。 初始化 MemoryFontSource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/memoryfontsource/memoryfontsource/
 ---
-## MemoryFontSource 构造函数
+## MemoryFontSource constructor
 
 初始化 [`MemoryFontSource`](../) 类的新实例。
 
@@ -20,6 +20,8 @@ public MemoryFontSource(byte[] fontBytes)
 
 ### 另请参见
 
-* 类 [MemoryFontSource](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

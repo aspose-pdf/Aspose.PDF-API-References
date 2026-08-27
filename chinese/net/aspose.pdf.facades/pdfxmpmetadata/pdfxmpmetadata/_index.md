@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.PdfXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 构造函数。PdfXmpMetadata 的构造函数
+title: "PdfXmpMetadata.PdfXmpMetadata"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfXmpMetadata 构造函数。PdfXmpMetadata 的构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/
@@ -21,7 +21,7 @@ PdfXmlMetadata xmp = new PdfXmpMetadata();
 xmp.BindPdf("input.pdf");
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -31,7 +31,7 @@ xmp.BindPdf("input.pdf");
 
 ## PdfXmpMetadata(Document) {#constructor_1}
 
-基于 *document* 初始化新的 [`PdfXmpMetadata`](../) 对象。
+在 *document* 的基础上初始化新的 [`PdfXmpMetadata`](../) 对象。
 
 ```csharp
 public PdfXmpMetadata(Document document)
@@ -39,11 +39,13 @@ public PdfXmpMetadata(Document document)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| 文档 | Document | Pdf 文档。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

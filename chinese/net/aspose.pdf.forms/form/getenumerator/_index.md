@@ -1,12 +1,12 @@
 ---
-title: Form.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。获取表单字段的枚举
+title: "Form.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。获取表单字段的枚举。"
 type: docs
-weight: 260
+weight: 280
 url: /zh/net/aspose.pdf.forms/form/getenumerator/
 ---
-## Form.GetEnumerator 方法
+## Form.GetEnumerator method
 
 获取表单字段的枚举。
 
@@ -18,9 +18,11 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 
 字段枚举器。
 
-### 另请参阅
+### 另请参见
 
-* 类 [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextAbsorber.HasErrors
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber 属性。值指示在文本提取过程中是否发现错误。仅当 TextSearchOptions.LogTextExtractionErrors 为 true 时才会执行错误搜索；这可能会降低性能。
+title: "TextAbsorber.HasErrors"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextAbsorber 属性。该值指示在文本提取期间是否发现错误。仅当 TextSearchOptions.LogTextExtractionErrors 为 true 时才会搜索错误，这可能会降低性能。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/textabsorber/haserrors/
 ---
-## TextAbsorber.HasErrors 属性
+## TextAbsorber.HasErrors property
 
-值指示在文本提取过程中是否发现错误。仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；这可能会降低性能。
+该值指示在文本提取期间是否发现错误。仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；这可能会降低性能。
 
 ```csharp
 public bool HasErrors { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

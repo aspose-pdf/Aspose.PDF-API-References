@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.ToPage
-second_title: Aspose.PDF for .NET API Reference
-description: 打印机设置属性。获取或设置最后一页打印。
+title: "PrinterSettings.ToPage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PrinterSettings property. 获取或设置要打印的最后一页"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.printing/printersettings/topage/
 ---
-## PrinterSettings.ToPage 属性
+## PrinterSettings.ToPage property
 
 获取或设置要打印的最后一页。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.printing/printersettings/topage/
 public int ToPage { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PrinterSettings](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

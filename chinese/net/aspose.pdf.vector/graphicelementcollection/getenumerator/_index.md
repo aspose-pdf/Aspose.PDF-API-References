@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection 方法。返回整个集合的枚举器
+title: "GraphicElementCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElementCollection 方法。返回整个集合的枚举器"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.vector/graphicelementcollection/getenumerator/
 ---
-## GraphicElementCollection.GetEnumerator 方法
+## GraphicElementCollection.GetEnumerator method
 
 返回整个集合的枚举器。
 
@@ -20,7 +20,9 @@ public IEnumerator<GraphicElement> GetEnumerator()
 
 ### 另请参见
 
-* 类 [GraphicElement](../../graphicelement/)
-* 类 [GraphicElementCollection](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RemoveField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 方法。 从表单中移除字段
+title: "FormEditor.RemoveField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 方法。从表单中移除字段"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.facades/formeditor/removefield/
 ---
-## FormEditor.RemoveField 方法
+## FormEditor.RemoveField method
 
 从表单中移除字段。
 
@@ -16,7 +16,7 @@ public void RemoveField(string fieldName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | 字符串 | 必须移除的字段名称。 |
+| fieldName | String | 必须移除的字段名称。 |
 
 ## 示例
 
@@ -28,6 +28,8 @@ formEditor.RemoveField("textField");
 
 ### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

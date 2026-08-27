@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。创建具有指定操作的书签
+title: "PdfContentEditor.CreateBookmarksAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。创建具有指定操作的书签"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
-## PdfContentEditor.CreateBookmarksAction 方法
+## PdfContentEditor.CreateBookmarksAction method
 
-创建具有指定操作的书签。
+使用指定操作创建书签。
 
 ```csharp
 public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool italicFlag, 
@@ -17,13 +17,13 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| title | 字符串 | 书签的标题。 |
-| color | 颜色 | 书签标题的颜色。 |
-| boldFlag | 布尔值 | 粗体属性的标志。 |
-| italicFlag | 布尔值 | 斜体属性的标志。 |
-| file | 字符串 | 当操作类型为 "GoToR" 或 "Launch" 时所需的另一个文件或应用程序。 |
-| actionType | 字符串 | 操作类型。值可以是： "GoToR", "Launch", "GoTo", "URI"。 |
-| destination | 字符串 | 本地目标或远程目标或 URL。 |
+| title | String | 书签的标题。 |
+| 颜色 | Color | 书签标题的颜色。 |
+| boldFlag | Boolean | 粗体属性的标志。 |
+| italicFlag | Boolean | 斜体属性的标志。 |
+| file | String | 当操作类型为 "GoToR" 或 "Launch" 时，需要另一个文件或应用程序。 |
+| actionType | String | 操作类型。其值可以是："GoToR"、"Launch"、"GoTo"、"URI"。 |
+| destination | String | 本地目标、远程目标或 URL。 |
 
 ## 示例
 
@@ -35,8 +35,10 @@ editor.CreateBookmarksAction("bookmark title",
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

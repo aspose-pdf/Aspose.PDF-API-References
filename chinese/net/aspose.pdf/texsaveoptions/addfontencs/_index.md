@@ -1,14 +1,14 @@
 ---
-title: TeXSaveOptions.AddFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: TeXSaveOptions 方法。将字体编码添加到字体编码列表
+title: "TeXSaveOptions.AddFontEncs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TeXSaveOptions 方法。向字体编码列表添加一个字体 ancoding。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/texsaveoptions/addfontencs/
 ---
-## TeXSaveOptions.AddFontEncs 方法
+## TeXSaveOptions.AddFontEncs method
 
-将字体编码添加到字体编码列表
+向字体编码列表添加字体编码。
 
 ```csharp
 public void AddFontEncs(params string[] fontEncs)
@@ -16,10 +16,12 @@ public void AddFontEncs(params string[] fontEncs)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fontEncs | String[] | 字体编码。 |
+| fontEncs | String[] | 字体 encs。 |
 
 ### 另请参见
 
-* 类 [TeXSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

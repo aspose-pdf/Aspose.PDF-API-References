@@ -1,14 +1,14 @@
 ---
-title: Font.GetLastFontEmbeddingError
-second_title: Aspose.PDF for .NET API Reference
-description: Font 方法。此方法的目的是在尝试嵌入字体失败时返回错误描述。如果没有错误情况，它将返回空字符串。
+title: "Font.GetLastFontEmbeddingError"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Font 方法。此方法的目标是返回尝试嵌入字体失败时的错误描述。如果没有错误情况，则返回空字符串"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.text/font/getlastfontembeddingerror/
 ---
-## Font.GetLastFontEmbeddingError 方法
+## Font.GetLastFontEmbeddingError method
 
-此方法的目的是在尝试嵌入字体失败时返回错误描述。如果没有错误情况，它将返回空字符串。
+此方法的目标是返回嵌入字体失败时的错误描述。如果没有错误情况，则返回空字符串。
 
 ```csharp
 public string GetLastFontEmbeddingError()
@@ -18,8 +18,10 @@ public string GetLastFontEmbeddingError()
 
 错误描述
 
-### 另请参阅
+### 另请参见
 
-* 类 [Font](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

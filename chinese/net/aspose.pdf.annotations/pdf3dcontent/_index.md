@@ -1,9 +1,9 @@
 ---
-title: Class PDF3DContent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DContent class. Class PDF3DContent
+title: "类 PDF3DContent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.PDF3DContent 类。类 PDF3DContent"
 type: docs
-weight: 2170
+weight: 2260
 url: /zh/net/aspose.pdf.annotations/pdf3dcontent/
 ---
 ## PDF3DContent class
@@ -14,35 +14,37 @@ url: /zh/net/aspose.pdf.annotations/pdf3dcontent/
 public class PDF3DContent
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [PDF3DContent](pdf3dcontent/#constructor)() | 初始化 `PDF3DContent` 类的新实例。 |
 | [PDF3DContent](pdf3dcontent/#constructor_1)(string) | 初始化 `PDF3DContent` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Extension](../../aspose.pdf.annotations/pdf3dcontent/extension/) { get; } | 获取扩展名。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [GetAsByteArray](../../aspose.pdf.annotations/pdf3dcontent/getasbytearray/)() | 获取 3D 内容作为字节数组。 |
-| [GetAsStream](../../aspose.pdf.annotations/pdf3dcontent/getasstream/)() | 获取 3D 内容作为流。 |
-| [Load](../../aspose.pdf.annotations/pdf3dcontent/load/)(string) | 使用指定的文件名加载 3D 内容。 |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc)(byte[]) | 从字节数组加载 3D 内容为 PRC 格式。 |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc_1)(Stream) | 从流加载 3D 内容为 PRC 格式。 |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc_2)(string) | 使用指定的文件名加载 3D 内容为 PRC 格式。 |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d)(byte[]) | 从字节数组加载 3D 内容为 U3D 格式。 |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_1)(Stream) | 从流加载 3D 内容为 U3D 格式。 |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_2)(string) | 使用指定的文件名加载 3D 内容为 U3D 格式。 |
+| [GetAsByteArray](../../aspose.pdf.annotations/pdf3dcontent/getasbytearray/)() | 获取 3D 内容的字节数组。 |
+| [GetAsStream](../../aspose.pdf.annotations/pdf3dcontent/getasstream/)() | 获取 3D 内容的流。 |
+| [Load](../../aspose.pdf.annotations/pdf3dcontent/load/)(string) | 加载具有指定文件名的 3D 内容。 |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc)(byte[]) | 从字节数组加载 PRC 格式的 3D 内容。 |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc_1)(Stream) | 从流加载 PRC 格式的 3D 内容。 |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc_2)(string) | 加载具有指定文件名的 3D 内容，使用 PRC 格式。 |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d)(byte[]) | 加载来自字节数组的 3D 内容，使用 U3D 格式。 |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_1)(Stream) | 加载来自流的 3D 内容，使用 U3D 格式。 |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_2)(string) | 加载具有指定文件名的 3D 内容，使用 U3D 格式。 |
 | [SaveToFile](../../aspose.pdf.annotations/pdf3dcontent/savetofile/)(string) | 将 3D 内容保存到文件。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

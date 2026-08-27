@@ -1,12 +1,12 @@
 ---
-title: Curve.Curve
-second_title: Aspose.PDF for .NET API Reference
-description: Curve 构造函数。初始化 Curve 类的新实例
+title: "Curve.Curve"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Curve 构造函数。初始化 Curve 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/curve/curve/
 ---
-## Curve 构造函数
+## Curve constructor
 
 初始化 [`Curve`](../) 类的新实例。
 
@@ -16,10 +16,12 @@ public Curve(float[] positionArray)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| positionArray | Single[] | 曲线控制点的位置数组。应该有四个控制点，因此数组的长度应该是八。 |
+| positionArray | Single[] | 曲线的控制点位置数组。应该有四个控制点，因此数组长度应为八。 |
 
-### 另见
+### 另请参见
 
-* 类 [Curve](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Curve](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

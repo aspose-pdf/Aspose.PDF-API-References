@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.MakeBooklet
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 方法。将输入文件制作成输出文件的小册子
+title: "PdfFileEditor.MakeBooklet"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 方法。将输入文件制作成小册子并输出到输出文件。"
 type: docs
 weight: 300
 url: /zh/net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
 ## MakeBooklet(string, string) {#makebooklet_4}
 
-将输入文件制作成输出文件的小册子。
+从输入文件创建小册子并输出到输出文件。
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile)
@@ -16,12 +16,12 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入 pdf 文件路径和名称。 |
-| outputFile | String | 输出 pdf 文件路径和名称。 |
+| inputFile | String | 输入 pdf 文件的路径和名称。 |
+| outputFile | String | 输出 pdf 文件的路径和名称。 |
 
 ### 返回值
 
-boolean - 成功返回 true，失败返回 false。
+布尔值 - 成功为 True，失败为 false。
 
 ## 示例
 
@@ -30,7 +30,7 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf");
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -40,7 +40,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf");
 
 ## MakeBooklet(Stream, Stream) {#makebooklet}
 
-将输入流制作成输出流的小册子。
+从 InputStream 创建小册子并输出到 outputStream。
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream)
@@ -53,7 +53,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 
 ### 返回值
 
-如果操作成功，则返回 true。
+如果操作成功则为 True。
 
 ## 示例
 
@@ -64,7 +64,7 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream);
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -74,7 +74,7 @@ pfe.MakeBooklet(inputStream, outputStream);
 
 ## MakeBooklet(string, string, PageSize) {#makebooklet_5}
 
-将输入文件制作成输出文件的小册子。
+从 inputFile 创建小册子并输出到 outputFile。
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
@@ -82,13 +82,13 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入 pdf 文件路径和名称。 |
-| outputFile | String | 输出 pdf 文件路径和名称。 |
-| pageSize | PageSize | 输出 pdf 文件的页面大小。 |
+| inputFile | String | 输入 pdf 文件的路径和名称。 |
+| outputFile | String | 输出 pdf 文件的路径和名称。 |
+| pageSize | PageSize | 输出 pdf 文件的页面尺寸。 |
 
 ### 返回值
 
-如果操作成功，则返回 true。
+如果操作成功则为 True。
 
 ## 示例
 
@@ -97,7 +97,7 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 ```
 
-### 另见
+### 另请参见
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
@@ -108,7 +108,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_1}
 
-将输入流制作成小册子并将结果保存到输出流中。
+从输入流创建小册子并将结果保存到输出流。
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
@@ -118,11 +118,11 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 | --- | --- | --- |
 | inputStream | Stream | 输入 PDF 流。 |
 | outputStream | Stream | 输出 pdf 流。 |
-| pageSize | PageSize | 输出 pdf 文件的页面大小。 |
+| pageSize | PageSize | 输出 pdf 文件的页面尺寸。 |
 
 ### 返回值
 
-如果操作成功，则返回 true。
+如果操作成功则为 True。
 
 ## 示例
 
@@ -133,7 +133,7 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 ```
 
-### 另见
+### 另请参见
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
@@ -144,7 +144,7 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
-从 firstInputFile 制作自定义小册子到 outputFile。
+从 firstInputFile 创建自定义小册子并输出到 outputFile。
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
@@ -153,13 +153,13 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 输入文件。 |
-| outputFile | String | 输出 pdf 文件路径和名称。 |
+| outputFile | String | 输出 pdf 文件的路径和名称。 |
 | leftPages | Int32[] | 小册子的左侧页面。 |
 | rightPages | Int32[] | 小册子的右侧页面。 |
 
 ### 返回值
 
-boolean - 成功返回 true，失败返回 false。
+布尔值 - 成功为 True，失败为 false。
 
 ## 示例
 
@@ -168,7 +168,7 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -178,7 +178,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
-从 firstInputStream 制作自定义小册子到 outputStream。
+从 firstInputStream 创建自定义小册子并输出到 outputStream。
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, int[] rightPages)
@@ -193,7 +193,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 
 ### 返回值
 
-boolean - 成功返回 true，失败返回 false。
+布尔值 - 成功为 True，失败为 false。
 
 ## 示例
 
@@ -204,7 +204,7 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### 另见
+### 另请参见
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -214,7 +214,7 @@ pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
-从 firstInputFile 制作自定义小册子到 outputFile。
+从 firstInputFile 创建自定义小册子并输出到 outputFile。
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
@@ -224,14 +224,14 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 输入文件。 |
-| outputFile | String | 输出 pdf 文件路径和名称。 |
-| pageSize | PageSize | 输出 pdf 文件的页面大小。 |
+| outputFile | String | 输出 pdf 文件的路径和名称。 |
+| pageSize | PageSize | 输出 pdf 文件的页面尺寸。 |
 | leftPages | Int32[] | 左侧页面。 |
 | rightPages | Int32[] | 右侧页面。 |
 
 ### 返回值
 
-boolean - 成功返回 true，失败返回 false。
+布尔值 - 成功为 True，失败为 false。
 
 ## 示例
 
@@ -240,7 +240,7 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### 另见
+### 另请参见
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
@@ -251,7 +251,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
 
-从 firstInputStream 制作小册子到 outputStream。
+从 firstInputStream 创建小册子并输出到 outputStream。
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
@@ -262,13 +262,13 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 | --- | --- | --- |
 | inputStream | Stream | 输入流。 |
 | outputStream | Stream | 输出 pdf 流。 |
-| pageSize | PageSize | 输出 pdf 文件的页面大小。 |
+| pageSize | PageSize | 输出 pdf 文件的页面尺寸。 |
 | leftPages | Int32[] | 左侧页面。 |
 | rightPages | Int32[] | 右侧页面。 |
 
 ### 返回值
 
-boolean - 成功返回 true，失败返回 false。
+布尔值 - 成功为 True，失败为 false。
 
 ## 示例
 
@@ -279,7 +279,7 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### 另见
+### 另请参见
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
@@ -287,114 +287,3 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, n
 * assembly [Aspose.PDF](../../../)
 
 
-## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
-
-从源文件制作小册子并将结果存储到 HttpResponse 对象中。
-
-```csharp
-public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| 参数 | 类型 | 描述 |
-| --- | --- | --- |
-| inputFile | String | 源文件路径。 |
-| pageSize | PageSize | 所需的页面大小。 |
-| leftPages | Int32[] | 要放置在左侧的页面编号数组。 |
-| rightPages | Int32[] | 要放置在右侧的页面编号数组。 |
-| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
-
-### 返回值
-
-如果操作成功，则返回 true。
-
-### 另见
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#makebooklet}
-
-从 PDF 文件制作小册子并将其存储到 HttpResponse 中。
-
-```csharp
-public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| 参数 | 类型 | 描述 |
-| --- | --- | --- |
-| inputStream | Stream | 输入文档流。 |
-| pageSize | PageSize | 所需的页面大小。 |
-| leftPages | Int32[] | 将放置在左侧的页面编号数组。 |
-| rightPages | Int32[] | 将放置在右侧的页面编号数组。 |
-| response | HttpResponse | HttpResponse 对象。 |
-
-### 返回值
-
-如果操作成功，则返回 true。
-
-### 另见
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(string, PageSize, HttpResponse) {#makebooklet_7}
-
-从源文件制作小册子并将结果存储到 HttpResponse 对象中。
-
-```csharp
-public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
-```
-
-| 参数 | 类型 | 描述 |
-| --- | --- | --- |
-| inputFile | String | 源文件路径。 |
-| pageSize | PageSize | 输出文件中的所需页面大小。 |
-| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
-
-### 返回值
-
-如果操作成功，则返回 true。
-
-### 另见
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(Stream, PageSize, HttpResponse) {#makebooklet_1}
-
-从源文件制作小册子并将结果存储到 HttpResponse。
-
-```csharp
-public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
-```
-
-| 参数 | 类型 | 描述 |
-| --- | --- | --- |
-| inputStream | Stream | 输入文档流。 |
-| pageSize | PageSize | 输出文件中的所需页面大小。 |
-| response | HttpResponse | 将保存结果的响应对象。 |
-
-### 返回值
-
-如果小册子成功构建，则返回 true。
-
-### 另见
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

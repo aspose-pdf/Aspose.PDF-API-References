@@ -1,14 +1,14 @@
 ---
-title: Class StructureAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureAttributes 类。表示标准属性拥有者的结构元素属性
+title: "类 StructureAttributes"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributes 类。表示标准属性所有者的结构元素属性"
 type: docs
-weight: 6690
+weight: 6830
 url: /zh/net/aspose.pdf.logicalstructure/structureattributes/
 ---
-## 结构属性类
+## StructureAttributes class
 
-表示标准属性拥有者的结构元素属性。
+表示标准属性所有者的结构元素属性。
 
 ```csharp
 public class StructureAttributes
@@ -18,7 +18,7 @@ public class StructureAttributes
 
 | 名称 | 描述 |
 | --- | --- |
-| [Owner](../../aspose.pdf.logicalstructure/structureattributes/owner/) { get; } | 获取标准属性拥有者。 |
+| [Owner](../../aspose.pdf.logicalstructure/structureattributes/owner/) { get; } | 获取标准属性所有者。 |
 
 ## 方法
 
@@ -27,7 +27,9 @@ public class StructureAttributes
 | [GetAttribute](../../aspose.pdf.logicalstructure/structureattributes/getattribute/)(AttributeKey) | 通过 AttributeKey 获取 StructureAttribute。 |
 | [SetAttribute](../../aspose.pdf.logicalstructure/structureattributes/setattribute/)(StructureAttribute) | 将 StructureAttribute 设置到 StructureAttributes 中。 |
 
-### 另见
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

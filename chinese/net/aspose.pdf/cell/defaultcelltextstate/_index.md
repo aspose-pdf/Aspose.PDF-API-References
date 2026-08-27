@@ -1,12 +1,12 @@
 ---
-title: Cell.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: 单元格属性。获取或设置默认单元格文本状态
+title: "Cell.DefaultCellTextState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Cell 属性。获取或设置默认单元格文本状态"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/cell/defaultcelltextstate/
 ---
-## Cell.DefaultCellTextState 属性
+## Cell.DefaultCellTextState property
 
 获取或设置默认单元格文本状态。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/cell/defaultcelltextstate/
 public TextState DefaultCellTextState { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../../../aspose.pdf.text/textstate/)
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 方法。将结果 PDF 文档保存到文件
+title: "PdfViewer.Save"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfViewer 方法。将生成的 PDF Document 保存到文件。"
 type: docs
 weight: 360
 url: /zh/net/aspose.pdf.facades/pdfviewer/save/
 ---
 ## Save(string) {#save_1}
 
-将结果 PDF 文档保存到文件。
+将结果 PDF 文档保存到文件中。
 
 ```csharp
 public void Save(string destFile)
@@ -16,19 +16,19 @@ public void Save(string destFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destFile | 字符串 | 输出 PDF 文档的路径。 |
+| destFile | String | 输出 PDF Document 的路径。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfViewer](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-将结果 PDF 文档保存到流。
+将结果 PDF 文档保存到流中。
 
 ```csharp
 public void Save(Stream destStream)
@@ -36,10 +36,12 @@ public void Save(Stream destStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destStream | 流 | 输出 PDF 文档的流。 |
+| destStream | Stream | 输出 PDF Document 的流。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfViewer](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

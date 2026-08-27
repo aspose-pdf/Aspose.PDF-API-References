@@ -1,12 +1,12 @@
 ---
-title: LlamaCopilotOptionsBase.SystemInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaCopilotOptionsBase 属性。获取或设置包含助手系统指令的文本文件的文件路径
+title: "LlamaCopilotOptionsBase.SystemInstructions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaCopilotOptionsBase 属性。获取或设置包含助手系统指令的文本文件的文件路径"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/
 ---
-## LlamaCopilotOptionsBase.SystemInstructions 属性
+## LlamaCopilotOptionsBase.SystemInstructions property
 
 获取或设置包含助手系统指令的文本文件的文件路径。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/
 public string SystemInstructions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [LlamaCopilotOptionsBase](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

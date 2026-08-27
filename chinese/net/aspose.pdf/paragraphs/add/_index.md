@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Add
-second_title: Aspose.PDF for .NET API Reference
-description: 段落方法。将段落添加到集合
+title: "Paragraphs.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Paragraphs 方法。向集合添加段落"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/paragraphs/add/
 ---
-## Paragraphs.Add 方法
+## Paragraphs.Add method
 
-将段落添加到集合中。
+向集合添加段落。
 
 ```csharp
 public void Add(BaseParagraph paragraph)
@@ -16,11 +16,13 @@ public void Add(BaseParagraph paragraph)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| paragraph | BaseParagraph | 段落。 |
+| 段落 | BaseParagraph | 段落。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseParagraph](../../baseparagraph/)
-* 类 [Paragraphs](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

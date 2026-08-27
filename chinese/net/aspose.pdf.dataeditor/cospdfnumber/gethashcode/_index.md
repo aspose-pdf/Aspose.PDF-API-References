@@ -1,12 +1,12 @@
 ---
-title: CosPdfNumber.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber 方法。获取当前对象的哈希码
+title: "CosPdfNumber.GetHashCode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfNumber 方法。获取当前对象的哈希码。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.dataeditor/cospdfnumber/gethashcode/
 ---
-## CosPdfNumber.GetHashCode 方法
+## CosPdfNumber.GetHashCode method
 
 获取当前对象的哈希码。
 
@@ -18,8 +18,10 @@ public override int GetHashCode()
 
 当前对象的哈希码。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfNumber](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

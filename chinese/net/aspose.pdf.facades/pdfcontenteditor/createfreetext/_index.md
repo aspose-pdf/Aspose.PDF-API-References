@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateFreeText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。 在 PDF 文档中创建自由文本注释
+title: "PdfContentEditor.CreateFreeText"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。 在 PDF 文档中创建自由文本注释。"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/
 ---
-## PdfContentEditor.CreateFreeText 方法
+## PdfContentEditor.CreateFreeText method
 
 在 PDF 文档中创建自由文本注释
 
@@ -16,9 +16,9 @@ public void CreateFreeText(Rectangle rect, string contents, int page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | 矩形 | 定义注释在页面上位置的注释矩形。 |
-| contents | 字符串 | 注释的内容。 |
-| page | Int32 | 将创建文本注释的原始页面编号。 |
+| rect | Rectangle | 注释矩形定义了注释在页面上的位置。 |
+| 内容 | String | 注释的内容。 |
+| 页面 | Int32 | 将创建文本注释的原始页码。 |
 
 ## 示例
 
@@ -29,8 +29,10 @@ editor.CreateFreeText(new System.Drawing.Rectangle(0, 0, 100, 100), "Welcome to 
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

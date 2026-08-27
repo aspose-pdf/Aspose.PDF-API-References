@@ -1,14 +1,14 @@
 ---
-title: PaperSize.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize 方法。提供有关 PaperSize 的一些有趣信息，以字符串形式表示
+title: "PaperSize.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSize 方法。以字符串形式提供有关 PaperSize 的一些有用信息"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.printing/papersize/tostring/
 ---
-## PaperSize.ToString 方法
+## PaperSize.ToString method
 
-提供有关 PaperSize 的一些有趣信息，以字符串形式表示。
+以字符串形式提供有关 PaperSize 的一些有用信息。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 表示 PaperSize 的字符串。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary 属性。获取或设置具有指定键的元素
+title: "CosPdfDictionary.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfDictionary 属性。获取或设置具有指定键的元素"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.dataeditor/cospdfdictionary/item/
 ---
-## CosPdfDictionary 索引器
+## CosPdfDictionary indexer
 
 获取或设置具有指定键的元素。
 
@@ -16,7 +16,7 @@ public ICosPdfPrimitive this[string key] { get; set; }
 
 | 参数 | 描述 |
 | --- | --- |
-| key | 要获取或设置的元素的键。 |
+| 键 | 要获取或设置的元素的键。 |
 
 ### 返回值
 
@@ -30,9 +30,11 @@ public ICosPdfPrimitive this[string key] { get; set; }
 | KeyNotFoundException | 检索属性时未找到键。 |
 | ArgumentException | 如果键无法编辑/设置则抛出异常。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [ICosPdfPrimitive](../../icospdfprimitive/)
-* 类 [CosPdfDictionary](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

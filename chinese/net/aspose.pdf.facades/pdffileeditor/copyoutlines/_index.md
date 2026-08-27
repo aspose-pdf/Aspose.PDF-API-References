@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.CopyOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 属性。如果为真，则轮廓将被复制
+title: "PdfFileEditor.CopyOutlines"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 属性。如果为 true，则会复制大纲。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
-## PdfFileEditor.CopyOutlines 属性
+## PdfFileEditor.CopyOutlines property
 
-如果为真，则轮廓将被复制。
+如果为 true，则复制大纲。
 
 ```csharp
 public bool CopyOutlines { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: IOperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: IOperatorSelector 方法。访问/选择 f 操作符
+title: "IOperatorSelector.Visit"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOperatorSelector 方法。访问/选择 f 操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/ioperatorselector/visit/
@@ -50,7 +50,7 @@ public void Visit(ObsoleteFill F)
 
 ## Visit(EOFill) {#visit_20}
 
-访问/选择操作符 f*。
+访问/选择 操作符 f*。
 
 ```csharp
 public void Visit(EOFill f_)
@@ -58,7 +58,7 @@ public void Visit(EOFill f_)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| f_ | EOFill | 填充路径操作符（偶数-奇数规则）。 |
+| f_ | EOFill | 填充路径操作符（奇偶规则）。 |
 
 ### 另请参见
 
@@ -134,7 +134,7 @@ public void Visit(GS gs)
 
 ## Visit(ClosePath) {#visit_6}
 
-访问/选择 h 操作符。
+访问/选择 h 运算符。
 
 ```csharp
 public void Visit(ClosePath h)
@@ -163,7 +163,7 @@ public void Visit(SetFlat i)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| i | SetFlat | 设置平坦度容差操作符。 |
+| i | SetFlat | 设置平滑度容差操作符。 |
 
 ### 另请参见
 
@@ -289,7 +289,7 @@ public void Visit(EndPath n)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| n | EndPath | 结束路径操作符（不填充或描边）。 |
+| n | 结束路径 | 结束路径操作符（不进行填充或描边）。 |
 
 ### 另请参见
 
@@ -352,7 +352,7 @@ public void Visit(Re re)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| re | Re | 将矩形附加到路径操作符。 |
+| re | Re | 向路径追加矩形操作符。 |
 
 ### 另请参见
 
@@ -457,7 +457,7 @@ public void Visit(LineTo l)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| l | LineTo | 将直线段附加到路径操作符。 |
+| l | LineTo | 向路径追加直线段操作符。 |
 
 ### 另请参见
 
@@ -478,7 +478,7 @@ public void Visit(MoveTo m)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| m | MoveTo | 开始新的子路径操作符。 |
+| m | MoveTo | 开始新子路径操作符。 |
 
 ### 另请参见
 
@@ -499,7 +499,7 @@ public void Visit(SetWordSpacing Tw)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Tw | SetWordSpacing | 设置单词间距操作符。 |
+| Tw | SetWordSpacing | 设置字距操作符。 |
 
 ### 另请参见
 
@@ -512,7 +512,7 @@ public void Visit(SetWordSpacing Tw)
 
 ## Visit(ClosePathStroke) {#visit_9}
 
-访问/选择 s 操作符。
+访问/选择 s 运算符。
 
 ```csharp
 public void Visit(ClosePathStroke s)
@@ -541,7 +541,7 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | 移动文本位置并设置行距操作符。 |
+| TD | MoveTextPositionSetLeading | 移动文本位置并设置行距的操作符。 |
 
 ### 另请参见
 
@@ -562,7 +562,7 @@ public void Visit(SelectFont Tf)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Tf | SelectFont | 设置文本字体和大小操作符。 |
+| Tf | SelectFont | 设置文本字体和大小的操作符。 |
 
 ### 另请参见
 
@@ -583,7 +583,7 @@ public void Visit(ShowText Tj)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Tj | ShowText | 显示文本操作符。 |
+| Tj | ShowText | 显示文本的操作符。 |
 
 ### 另请参见
 
@@ -604,7 +604,7 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | 显示文本操作符（允许单个字形定位）。 |
+| TJ | SetGlyphsPositionShowText | 显示文本的操作符（允许单个字形定位）。 |
 
 ### 另请参见
 
@@ -625,7 +625,7 @@ public void Visit(SetTextLeading TL)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| TL | SetTextLeading | 设置文本行距操作符。 |
+| TL | SetTextLeading | 设置文本行距的操作符。 |
 
 ### 另请参见
 
@@ -646,7 +646,7 @@ public void Visit(SetTextMatrix Tm)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Tm | SetTextMatrix | 设置文本矩阵和文本行矩阵操作符。 |
+| Tm | SetTextMatrix | 设置文本矩阵和文本行矩阵的操作符。 |
 
 ### 另请参见
 
@@ -667,7 +667,7 @@ public void Visit(SetTextRenderingMode Tr)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | 设置文本渲染模式操作符。 |
+| Tr | SetTextRenderingMode | 设置文本渲染模式的操作符。 |
 
 ### 另请参见
 
@@ -688,7 +688,7 @@ public void Visit(SetTextRise Ts)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Ts | SetTextRise | 设置文本上升操作符。 |
+| Ts | SetTextRise | 设置文本上升的操作符。 |
 
 ### 另请参见
 
@@ -709,7 +709,7 @@ public void Visit(Stroke S)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| S | Stroke | 描边路径操作符。 |
+| S | 描边 | 描边路径操作符。 |
 
 ### 另请参见
 
@@ -772,7 +772,7 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | 设置颜色操作符（用于描边操作，基于 ICC 和特殊颜色空间）。 |
+| SCN | SetAdvancedColorStroke | 设置颜色操作符（用于描边操作、ICCBased 和特殊颜色空间）。 |
 
 ### 另请参见
 
@@ -793,7 +793,7 @@ public void Visit(SetAdvancedColor scn)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| scn | SetAdvancedColor | 设置颜色操作符（用于非描边操作，基于 ICC 和特殊颜色空间）。 |
+| scn | SetAdvancedColor | 设置颜色操作符（用于非描边操作、ICCBased 和特殊颜色空间）。 |
 
 ### 另请参见
 
@@ -814,7 +814,7 @@ public void Visit(ShFill sh)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sh | ShFill | 用阴影模式定义的区域绘制操作符。 |
+| sh | ShFill | 使用着色图案操作符绘制定义的区域。 |
 
 ### 另请参见
 
@@ -835,7 +835,7 @@ public void Visit(MoveToNextLine T_)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| T_ | MoveToNextLine | 移动到下一行的开始操作符。 |
+| T_ | MoveToNextLine | 移动到下一行文本起始位置的操作符。 |
 
 ### 另请参见
 
@@ -856,7 +856,7 @@ public void Visit(SetCharacterSpacing Tc)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | 设置字符间距操作符。 |
+| Tc | SetCharacterSpacing | 设置字符间距的操作符。 |
 
 ### 另请参见
 
@@ -877,7 +877,7 @@ public void Visit(MoveTextPosition Td)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Td | MoveTextPosition | 移动文本位置操作符。 |
+| Td | MoveTextPosition | 移动文本位置的操作符。 |
 
 ### 另请参见
 
@@ -890,7 +890,7 @@ public void Visit(MoveTextPosition Td)
 
 ## Visit(CurveTo2) {#visit_13}
 
-访问/选择 y 操作符。
+访问/选择 y 运算符。
 
 ```csharp
 public void Visit(CurveTo2 y)
@@ -898,7 +898,7 @@ public void Visit(CurveTo2 y)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| y | CurveTo2 | 将曲线段附加到路径操作符（最终点复制）。 |
+| y | CurveTo2 | 将曲线段追加到路径操作符（终点复制）。 |
 
 ### 另请参见
 
@@ -919,7 +919,7 @@ public void Visit(EOClip W_)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| W_ | EOClip | 设置剪切路径操作符（偶数-奇数规则）。 |
+| W_ | EOClip | 设置剪裁路径操作符（奇偶规则）。 |
 
 ### 另请参见
 
@@ -953,7 +953,7 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 ## Visit(CurveTo1) {#visit_12}
 
-访问/选择 v 操作符。
+访问/选择 v 运算符。
 
 ```csharp
 public void Visit(CurveTo1 v)
@@ -961,7 +961,7 @@ public void Visit(CurveTo1 v)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| v | CurveTo1 | 将曲线段附加到路径操作符（初始点复制）。 |
+| v | CurveTo1 | 将曲线段追加到路径操作符（初始点复制）。 |
 
 ### 另请参见
 
@@ -974,7 +974,7 @@ public void Visit(CurveTo1 v)
 
 ## Visit(Clip) {#visit_5}
 
-访问/选择 W 操作符。
+访问/选择 W 运算符。
 
 ```csharp
 public void Visit(Clip W)
@@ -982,7 +982,7 @@ public void Visit(Clip W)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| W | Clip | 设置剪切路径操作符（非零环绕数规则）。 |
+| W | Clip | 设置剪裁路径操作符（非零环绕数规则）。 |
 
 ### 另请参见
 
@@ -1024,7 +1024,7 @@ public void Visit(SetLineJoin j)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| j | SetLineJoin | 设置线连接样式操作符。 |
+| j | SetLineJoin | 设置线段连接样式的操作符。 |
 
 ### 另请参见
 
@@ -1045,7 +1045,7 @@ public void Visit(EX EX)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| EX | EX | 结束兼容性部分操作符。 |
+| EX | EX | 结束兼容性节的操作符。 |
 
 ### 另请参见
 
@@ -1066,7 +1066,7 @@ public void Visit(ET ET)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| ET | ET | 结束文本对象操作符。 |
+| ET | ET | 结束文本对象的操作符。 |
 
 ### 另请参见
 
@@ -1087,7 +1087,7 @@ public void Visit(EMC EMC)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| EMC | EMC | 结束标记内容序列操作符。 |
+| EMC | EMC | 结束标记内容序列的操作符。 |
 
 ### 另请参见
 
@@ -1108,7 +1108,7 @@ public void Visit(EI EI)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| EI | EI | 结束内联图像对象操作符。 |
+| EI | EI | 结束内联图像对象的操作符。 |
 
 ### 另请参见
 
@@ -1121,7 +1121,7 @@ public void Visit(EI EI)
 
 ## Visit(DP) {#visit_15}
 
-访问/选择 DP 操作符。
+访问/选择 DP 运算符。
 
 ```csharp
 public void Visit(DP DP)
@@ -1142,7 +1142,7 @@ public void Visit(DP DP)
 
 ## Visit(Do) {#visit_14}
 
-访问/选择 Do 操作符。
+访问/选择 Do 运算符。
 
 ```csharp
 public void Visit(Do Do)
@@ -1150,7 +1150,7 @@ public void Visit(Do Do)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| Do | Do | 调用命名的 XObject 操作符。 |
+| Do | Do | 调用已命名 XObject 的操作符。 |
 
 ### 另请参见
 
@@ -1171,7 +1171,7 @@ public void Visit(SetDash d)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| d | SetDash | 设置线条虚线模式操作符。 |
+| d | SetDash | 设置线段虚线模式的操作符。 |
 
 ### 另请参见
 
@@ -1192,7 +1192,7 @@ public void Visit(SetCharWidth d0)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| d0 | SetCharWidth | 设置 Type 3 字体中的字形宽度操作符。 |
+| d0 | SetCharWidth | 设置 Type 3 字体中字形宽度的操作符。 |
 
 ### 另请参见
 
@@ -1213,7 +1213,7 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | 设置 Type 3 字体中的字形宽度和边界框操作符。 |
+| d1 | SetCharWidthBoundingBox | 设置 Type 3 字体中字形宽度和边界框的操作符。 |
 
 ### 另请参见
 
@@ -1268,7 +1268,7 @@ public void Visit(SetColorSpace cs)
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
-访问/选择 cm 操作符。
+访问/选择 cm 运算符。
 
 ```csharp
 public void Visit(ConcatenateMatrix cm)
@@ -1276,7 +1276,7 @@ public void Visit(ConcatenateMatrix cm)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | 将矩阵连接到当前变换矩阵操作符。 |
+| cm | ConcatenateMatrix | 将矩阵连接到当前变换矩阵的操作符。 |
 
 ### 另请参见
 
@@ -1289,7 +1289,7 @@ public void Visit(ConcatenateMatrix cm)
 
 ## Visit(CurveTo) {#visit_11}
 
-访问/选择 c 操作符。
+访问/选择 c 运算符。
 
 ```csharp
 public void Visit(CurveTo c)
@@ -1297,7 +1297,7 @@ public void Visit(CurveTo c)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| c | CurveTo | 将曲线段附加到路径操作符（三个控制点）。 |
+| c | CurveTo | 向路径追加曲线段的操作符（三个控制点）。 |
 
 ### 另请参见
 
@@ -1310,7 +1310,7 @@ public void Visit(CurveTo c)
 
 ## Visit(BX) {#visit_4}
 
-访问/选择 BX 操作符。
+访问/选择 BX 运算符。
 
 ```csharp
 public void Visit(BX BX)
@@ -1318,7 +1318,7 @@ public void Visit(BX BX)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| BX | BX | 开始兼容性部分操作符。 |
+| BX | BX | 开始兼容性节的操作符。 |
 
 ### 另请参见
 
@@ -1331,7 +1331,7 @@ public void Visit(BX BX)
 
 ## Visit(BT) {#visit_3}
 
-访问/选择 BT 操作符。
+访问/选择 BT 运算符。
 
 ```csharp
 public void Visit(BT BT)
@@ -1339,7 +1339,7 @@ public void Visit(BT BT)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| BT | BT | 开始文本对象操作符。 |
+| BT | BT | 开始文本对象的操作符。 |
 
 ### 另请参见
 
@@ -1352,7 +1352,7 @@ public void Visit(BT BT)
 
 ## Visit(BMC) {#visit_2}
 
-访问/选择 BMC 操作符。
+访问/选择 BMC 运算符。
 
 ```csharp
 public void Visit(BMC BMC)
@@ -1360,7 +1360,7 @@ public void Visit(BMC BMC)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| BMC | BMC | 开始标记内容序列操作符。 |
+| BMC | BMC | 开始标记内容序列的操作符。 |
 
 ### 另请参见
 
@@ -1373,7 +1373,7 @@ public void Visit(BMC BMC)
 
 ## Visit(BI) {#visit_1}
 
-访问/选择 BI 操作符。
+访问/选择 BI 运算符。
 
 ```csharp
 public void Visit(BI BI)
@@ -1381,7 +1381,7 @@ public void Visit(BI BI)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| BI | BI | 开始内联图像对象操作符。 |
+| BI | BI | 开始内联图像对象的操作符。 |
 
 ### 另请参见
 
@@ -1394,7 +1394,7 @@ public void Visit(BI BI)
 
 ## Visit(BDC) {#visit}
 
-访问/选择 BDC 操作符。
+访问/选择 BDC 运算符。
 
 ```csharp
 public void Visit(BDC BDC)
@@ -1402,7 +1402,7 @@ public void Visit(BDC BDC)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| BDC | BDC | 开始标记内容序列操作符（带属性列表）。 |
+| BDC | BDC | 开始标记内容序列的操作符（带属性列表）。 |
 
 ### 另请参见
 
@@ -1423,7 +1423,7 @@ public void Visit(FillStroke B)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| B | FillStroke | 填充并描边路径操作符（非零环绕数规则）。 |
+| B | FillStroke | 填充并描边路径的操作符（非零环绕数规则）。 |
 
 ### 另请参见
 
@@ -1436,7 +1436,7 @@ public void Visit(FillStroke B)
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
-访问/选择 b 操作符。
+访问/选择 b 运算符。
 
 ```csharp
 public void Visit(ClosePathFillStroke b)
@@ -1444,7 +1444,7 @@ public void Visit(ClosePathFillStroke b)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| b | ClosePathFillStroke | 关闭、填充并描边路径操作符（非零环绕数规则）。 |
+| b | ClosePathFillStroke | 关闭、填充并描边路径的操作符（非零环绕数规则）。 |
 
 ### 另请参见
 
@@ -1465,7 +1465,7 @@ public void Visit(EOFillStroke B_)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| B_ | EOFillStroke | 填充并描边路径操作符（偶数-奇数规则）。 |
+| B_ | EOFillStroke | 填充并描边路径的操作符（奇偶规则）。 |
 
 ### 另请参见
 
@@ -1478,7 +1478,7 @@ public void Visit(EOFillStroke B_)
 
 ## Visit(ClosePathEOFillStroke) {#visit_7}
 
-访问/选择 b* 操作符。
+访问/选择 b* 运算符。
 
 ```csharp
 public void Visit(ClosePathEOFillStroke b_)
@@ -1486,7 +1486,7 @@ public void Visit(ClosePathEOFillStroke b_)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | 关闭、填充并描边路径操作符（偶数-奇数规则）。 |
+| b_ | ClosePathEOFillStroke | 关闭、填充并描边路径操作符（奇偶规则）。 |
 
 ### 另请参见
 
@@ -1507,7 +1507,7 @@ public void Visit(MoveToNextLineShowText _)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | 移动到下一行并显示文本操作符。 |
+| _ | MoveToNextLineShowText | 移动到下一行并显示文本的操作符。 |
 
 ### 另请参见
 
@@ -1528,7 +1528,7 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | 设置单词和字符间距，移动到下一行并显示文本操作符。 |
+| __ | SetSpacingMoveToNextLineShowText | 设置字间距和字符间距，移动到下一行，并显示文本的操作符。 |
 
 ### 另请参见
 
@@ -1541,7 +1541,7 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 ## Visit(TextOperator) {#visit_73}
 
-访问/选择任何文本操作符。
+访问/选择 任意文本操作符。
 
 ```csharp
 public void Visit(TextOperator textOperator)
@@ -1549,7 +1549,7 @@ public void Visit(TextOperator textOperator)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| textOperator | TextOperator | 通用文本操作符，用于选择相应的 PDF 操作符集。 |
+| textOperator | TextOperator | 通用文本操作符，用于选择相应 pdf 操作符的集合。 |
 
 ### 另请参见
 
@@ -1557,3 +1557,5 @@ public void Visit(TextOperator textOperator)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

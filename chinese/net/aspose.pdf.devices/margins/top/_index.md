@@ -1,12 +1,12 @@
 ---
-title: Margins.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Margins 属性。获取或设置顶部
+title: "Margins.Top"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Margins 属性。获取或设置顶部。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.devices/margins/top/
 ---
-## Margins.Top 属性
+## Margins.Top property
 
 获取或设置顶部。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.devices/margins/top/
 public int Top { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 顶部。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Margins](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FileResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: FileResponse 属性。获取或设置文件创建时的 Unix 时间戳（以秒为单位）
+title: "FileResponse.CreatedAt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileResponse 属性。获取或设置文件创建时的 Unix 时间戳（秒）。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/fileresponse/createdat/
 ---
-## FileResponse.CreatedAt 属性
+## FileResponse.CreatedAt property
 
-获取或设置文件创建时的 Unix 时间戳（以秒为单位）。
+获取或设置文件创建时的 Unix 时间戳（秒）。
 
 ```csharp
 public long CreatedAt { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

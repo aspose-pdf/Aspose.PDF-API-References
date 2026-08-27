@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection 方法。集合是只读的。始终抛出 NotSupportedException 异常
+title: "DestinationCollection.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DestinationCollection 方法。集合是只读的。始终抛出 NotSupportedException 异常"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/destinationcollection/clear/
 ---
-## DestinationCollection.Clear 方法
+## DestinationCollection.Clear method
 
 集合是只读的。始终抛出 NotSupportedException 异常。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/destinationcollection/clear/
 public void Clear()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DestinationCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

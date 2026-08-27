@@ -1,14 +1,14 @@
 ---
-title: Class NamedDestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.NamedDestinationCollection 类。该类表示所有目的地的集合（一个名称树将名称字符串映射到目的地，见 12.3.2.3 “命名目的地”，见 7.7.4 “名称字典”）在 PDF 文档中。
+title: "类 NamedDestinationCollection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.NamedDestinationCollection 类。该类表示所有目标的集合，一个名称树将名称字符串映射到目标，参见 PDF 文档中的 12.3.2.3 Named Destinations 和 7.7.4 Name Dictionary。"
 type: docs
-weight: 7010
+weight: 7150
 url: /zh/net/aspose.pdf/nameddestinationcollection/
 ---
-## NamedDestinationCollection 类
+## NamedDestinationCollection class
 
-该类表示所有目的地的集合（一个名称树将名称字符串映射到目的地（见 12.3.2.3，“命名目的地”）和（见 7.7.4，“名称字典”））在 PDF 文档中。
+类表示 pdf 文档中所有目标的集合（一个将名称字符串映射到目标的名称树（参见 12.3.2.3，“Named Destinations”）以及（参见 7.7.4，“Name Dictionary”））。
 
 ```csharp
 public class NamedDestinationCollection : INamedDestinationCollection
@@ -18,19 +18,21 @@ public class NamedDestinationCollection : INamedDestinationCollection
 
 | 名称 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf/nameddestinationcollection/count/) { get; } | 命名目的地的数量。 |
-| [Item](../../aspose.pdf/nameddestinationcollection/item/) { get; set; } | 通过名称获取或设置约会。 |
-| [Names](../../aspose.pdf/nameddestinationcollection/names/) { get; } | 目的地名称的列表。 |
+| [Count](../../aspose.pdf/nameddestinationcollection/count/) { get; } | 命名目标的计数。 |
+| [Item](../../aspose.pdf/nameddestinationcollection/item/) { get; set; } | 获取或设置按名称的约定。 |
+| [Names](../../aspose.pdf/nameddestinationcollection/names/) { get; } | 目标名称列表。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [Add](../../aspose.pdf/nameddestinationcollection/add/)(string, IAppointment) | 添加新的命名目的地。 |
-| [Remove](../../aspose.pdf/nameddestinationcollection/remove/)(string) | 删除命名目的地。 |
+| [Add](../../aspose.pdf/nameddestinationcollection/add/)(string, IAppointment) | 添加新的命名目标。 |
+| [Remove](../../aspose.pdf/nameddestinationcollection/remove/)(string) | 删除命名目标。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [INamedDestinationCollection](../inameddestinationcollection/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* interface [INamedDestinationCollection](../inameddestinationcollection/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

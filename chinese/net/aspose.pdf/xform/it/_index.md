@@ -1,12 +1,12 @@
 ---
-title: XForm.IT
-second_title: Aspose.PDF for .NET API Reference
-description: XForm 属性。获取表单 IT。表单 IT 是描述 XObject 意图的名称
+title: "XForm.IT"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XForm 属性。获取表单 IT。表单 IT 是描述 XObject 意图的名称。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/xform/it/
 ---
-## XForm.IT 属性
+## XForm.IT property
 
 获取表单 IT。表单 IT 是描述 XObject 意图的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xform/it/
 public string IT { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

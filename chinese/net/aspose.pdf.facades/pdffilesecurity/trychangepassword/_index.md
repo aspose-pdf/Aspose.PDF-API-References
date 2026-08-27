@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 方法。通过所有者密码更改用户密码和所有者密码，同时保持原始安全设置。新用户密码和新所有者密码可以为 null 或空。如果新所有者密码为 null 或空，则所有者密码将被随机字符串替换。如果处理失败，则不会抛出异常。
+title: "PdfFileSecurity.TryChangePassword"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSecurity 方法。通过所有者密码更改用户密码和所有者密码，同时保持原始安全设置。新的用户密码和新的所有者密码可以为 null 或为空。如果新的所有者密码为 null 或为空，所有者密码将被随机字符串替换。过程失败时不抛出异常。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/trychangepassword/
 ---
 ## TryChangePassword(string, string, string) {#trychangepassword}
 
-通过所有者密码更改用户密码和所有者密码，同时保持原始安全设置。新用户密码和新所有者密码可以为 null 或空。如果新所有者密码为 null 或空，则所有者密码将被随机字符串替换。如果处理失败，则不会抛出异常。
+通过所有者密码更改用户密码和所有者密码，保持原始安全设置。新的用户密码和新的所有者密码可以为 null 或为空。如果新的所有者密码为 null 或为空，所有者密码将被随机字符串替代。处理失败时不抛出异常。
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -17,12 +17,12 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | ownerPassword | String | 原始所有者密码。 |
-| newUserPassword | String | 新用户密码。 |
-| newOwnerPassword | String | 新所有者密码。 |
+| newUserPassword | String | 新的用户密码。 |
+| newOwnerPassword | String | 新的所有者密码。 |
 
 ### 返回值
 
-成功返回 true，失败返回 false。
+成功时返回 true，或返回 false。
 
 ## 示例
 
@@ -40,7 +40,7 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
  Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner")	
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -50,7 +50,7 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize) {#trychangepassword_1}
 
-通过所有者密码更改用户密码和密码，允许重置 Pdf 文档安全性。新用户密码和新所有者密码可以为 null 或空。如果新所有者密码为 null 或空，则所有者密码将被随机字符串替换。如果处理失败，则不会抛出异常。
+通过所有者密码更改用户密码和密码，允许重置 Pdf 文档安全性。新的用户密码和新的所有者密码可以为 null 或为空。如果新的所有者密码为 null 或为空，所有者密码将被随机字符串替代。处理失败时不抛出异常。
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
@@ -60,14 +60,14 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword,
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | ownerPassword | String | 原始所有者密码。 |
-| newUserPassword | String | 新用户密码。 |
-| newOwnerPassword | String | 新所有者密码。 |
-| privilege | DocumentPrivilege | 重置安全性。 |
+| newUserPassword | String | 新的用户密码。 |
+| newOwnerPassword | String | 新的所有者密码。 |
+| 特权 | DocumentPrivilege | 重置安全。 |
 | keySize | KeySize | KeySize.x40 表示 40 位加密，KeySize.x128 表示 128 位加密，KeySize.x256 表示 256 位加密。 |
 
 ### 返回值
 
-成功返回 true，失败返回 false。
+成功返回 true，否则返回 false。
 
 ## 示例
 
@@ -85,7 +85,7 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -97,7 +97,7 @@ Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newown
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#trychangepassword_2}
 
-通过所有者密码更改用户密码和密码，允许重置 Pdf 文档安全性。新用户密码和新所有者密码可以为 null 或空。如果新所有者密码为 null 或空，则所有者密码将被随机字符串替换。KeySize 和 Algorithm 值有 6 种可能的组合。然而 (KeySize.x40, Algorithm.AES) 和 (KeySize.x256, Algorithm.RC4) 是无效的，如果遇到此组合，将引发相应的异常。如果处理失败，则不会抛出异常。
+通过所有者密码更改用户密码和密码，允许重置 Pdf 文档安全性。新的用户密码和新的所有者密码可以为 null 或为空。如果新的所有者密码为 null 或为空，所有者密码将被随机字符串替代。KeySize 和 Algorithm 值共有 6 种可能的组合。然而 (KeySize.x40, Algorithm.AES) 和 (KeySize.x256, Algorithm.RC4) 是无效的，如果工具遇到此组合将抛出相应的异常。处理失败时不抛出异常。
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
@@ -107,15 +107,15 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword,
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | ownerPassword | String | 原始所有者密码。 |
-| newUserPassword | String | 新用户密码。 |
-| newOwnerPassword | String | 新所有者密码。 |
-| privilege | DocumentPrivilege | 重置安全性。 |
+| newUserPassword | String | 新的用户密码。 |
+| newOwnerPassword | String | 新的所有者密码。 |
+| 特权 | DocumentPrivilege | 重置安全。 |
 | keySize | KeySize | KeySize.x40 表示 40 位加密，KeySize.x128 表示 128 位加密，KeySize.x256 表示 256 位加密。 |
-| cipher | Algorithm | Algorithm.AES 使用 AES 算法加密或 Algorithm.RC4 进行 RC4 加密。 |
+| cipher | Algorithm | Algorithm.AES 用于使用 AES 算法加密，或 Algorithm.RC4 用于 RC4 加密。 |
 
 ### 返回值
 
-成功返回 true，失败返回 false。
+成功返回 true，否则返回 false。
 
 ## 示例
 
@@ -133,7 +133,7 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -141,3 +141,5 @@ Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner"
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

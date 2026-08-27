@@ -1,12 +1,12 @@
 ---
-title: Class ElementList
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.ElementList 类。表示元素的有序集合
+title: "类 ElementList"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LogicalStructure.ElementList 类。表示元素的有序集合"
 type: docs
-weight: 6330
+weight: 6470
 url: /zh/net/aspose.pdf.logicalstructure/elementlist/
 ---
-## ElementList 类
+## ElementList class
 
 表示元素的有序集合。
 
@@ -18,7 +18,7 @@ public abstract class ElementList : IEnumerable<Element>
 
 | 名称 | 描述 |
 | --- | --- |
-| abstract [Count](../../aspose.pdf.logicalstructure/elementlist/count/) { get; } | 获取 ElementList 中元素的数量。 |
+| abstract [Count](../../aspose.pdf.logicalstructure/elementlist/count/) { get; } | 获取 ElementList 中的元素数量。 |
 | virtual [ElementOf](../../aspose.pdf.logicalstructure/elementlist/elementof/) { get; } | 获取给定索引处的元素。 |
 
 ## 方法
@@ -28,8 +28,10 @@ public abstract class ElementList : IEnumerable<Element>
 | abstract [GetEnumerator](../../aspose.pdf.logicalstructure/elementlist/getenumerator/)() | 获取一个枚举器，用于遍历元素集合。 |
 | abstract [Item](../../aspose.pdf.logicalstructure/elementlist/item/)(int) | 检索给定索引处的元素。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Element](../element/)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../)
+* class [Element](../element/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

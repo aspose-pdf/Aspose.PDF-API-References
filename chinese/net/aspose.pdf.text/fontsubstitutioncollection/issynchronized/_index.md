@@ -1,21 +1,23 @@
 ---
-title: FontSubstitutionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection 属性。获取一个值，指示对集合的访问是否是同步的（线程安全）。
+title: "FontSubstitutionCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontSubstitutionCollection 属性。获取一个值，指示对集合的访问是否已同步且线程安全"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/fontsubstitutioncollection/issynchronized/
 ---
-## FontSubstitutionCollection.IsSynchronized 属性
+## FontSubstitutionCollection.IsSynchronized property
 
-获取一个值，指示对集合的访问是否是同步的（线程安全）。
+获取指示对集合的访问是否已同步（线程安全）的值。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FontSubstitutionCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PageInfo.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo 属性。获取或设置页面边距
+title: "PageInfo.Margin"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageInfo 属性。获取或设置页面边距"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/pageinfo/margin/
 ---
-## PageInfo.Margin 属性
+## PageInfo.Margin property
 
-获取或设置页面边距。
+获取或设置 page 边距。
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarginInfo](../../margininfo/)
-* 类 [PageInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

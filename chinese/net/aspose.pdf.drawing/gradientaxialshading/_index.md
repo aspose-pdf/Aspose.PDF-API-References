@@ -1,14 +1,14 @@
 ---
-title: Class GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientAxialShading 类。表示渐变轴向阴影类
+title: "类 GradientAxialShading"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Drawing.GradientAxialShading 类。表示渐变轴向着色类"
 type: docs
-weight: 3920
+weight: 4040
 url: /zh/net/aspose.pdf.drawing/gradientaxialshading/
 ---
-## GradientAxialShading 类
+## GradientAxialShading class
 
-表示渐变轴向阴影类。
+表示渐变轴向着色类。
 
 ```csharp
 public class GradientAxialShading : PatternColorSpace
@@ -30,8 +30,10 @@ public class GradientAxialShading : PatternColorSpace
 | [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | 获取或设置起始点。 |
 | [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | 获取或设置起始颜色。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PatternColorSpace](../patterncolorspace/)
-* 命名空间 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

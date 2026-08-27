@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions 方法。设置新的保存数据源。只能是一个。如果您想将图像保存到内存流中，请将 null 作为参数传递
+title: "PdfToImageOptions.AddOutput"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfToImageOptions 方法。设置新的保存数据源。只能是 .（此处可能缺少类型）。如果想将图像保存到内存流，请将参数设为 null。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.plugins/pdftoimageoptions/addoutput/
 ---
-## PdfToImageOptions.AddOutput 方法
+## PdfToImageOptions.AddOutput method
 
-设置新的保存数据源。只能是一个。如果您想将图像保存到内存流中，请将 null 作为参数传递。
+设置新的保存数据源。只能是 a 。如果想将图像保存到内存流中，请将参数设为 null。
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -18,9 +18,11 @@ public void AddOutput(IDataSource saveDataSource)
 | --- | --- | --- |
 | saveDataSource | IDataSource | 保存数据源。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IDataSource](../../idatasource/)
-* 类 [PdfToImageOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

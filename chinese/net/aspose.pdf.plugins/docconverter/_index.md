@@ -1,9 +1,9 @@
 ---
-title: Class DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.DocConverter 类。表示 DocConverter 插件
+title: "类 DocConverter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.DocConverter 类。表示 DocConverter 插件。"
 type: docs
-weight: 8530
+weight: 8660
 url: /zh/net/aspose.pdf.plugins/docconverter/
 ---
 ## DocConverter class
@@ -14,21 +14,23 @@ url: /zh/net/aspose.pdf.plugins/docconverter/
 public sealed class DocConverter : IDisposable, IPlugin
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [DocConverter](docconverter/)() | 默认构造函数。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/docconverter/dispose/)() | IDisposable 的实现。 |
-| [Process](../../aspose.pdf.plugins/docconverter/process/)(IPluginOptions) | 使用指定参数开始 `DocConverter` 处理。 |
+| [Dispose](../../aspose.pdf.plugins/docconverter/dispose/)() | 实现 IDisposable。 |
+| [Process](../../aspose.pdf.plugins/docconverter/process/)(IPluginOptions) | 使用指定的参数启动 `DocConverter` 处理。 |
 
-### See Also
+### 另请参见
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

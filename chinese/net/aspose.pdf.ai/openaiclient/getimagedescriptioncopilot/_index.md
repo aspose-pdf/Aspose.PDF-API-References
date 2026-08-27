@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。获取具有指定选项的 IImageDescriptionCopilot 实例
+title: "OpenAIClient.GetImageDescriptionCopilot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。获取具有指定选项的 IImageDescriptionCopilot 实例。"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.ai/openaiclient/getimagedescriptioncopilot/
 ---
-## OpenAIClient.GetImageDescriptionCopilot 方法
+## OpenAIClient.GetImageDescriptionCopilot method
 
 获取具有指定选项的 [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) 实例。
 
@@ -17,17 +17,19 @@ public IImageDescriptionCopilot GetImageDescriptionCopilot(
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | IImageDescriptionCopilotOptions`1 | 图像描述助手的选项。 |
+| options | IImageDescriptionCopilotOptions`1 | 图像描述副驾驶的选项。 |
 
 ### 返回值
 
-一个 [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) 实例。
+[`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) 的实例。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* 接口 [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* 类 [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
-* 类 [OpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

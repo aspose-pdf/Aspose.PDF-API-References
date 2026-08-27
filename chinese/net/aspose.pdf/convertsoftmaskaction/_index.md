@@ -1,14 +1,14 @@
 ---
-title: Enum ConvertSoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ConvertSoftMaskAction 枚举。此操作表示用于转换带有软蒙版的图像的操作
+title: "枚举 ConvertSoftMaskAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ConvertSoftMaskAction 枚举。此操作表示对带软掩码的图像进行转换的动作"
 type: docs
-weight: 3370
+weight: 3490
 url: /zh/net/aspose.pdf/convertsoftmaskaction/
 ---
-## ConvertSoftMaskAction 枚举
+## ConvertSoftMaskAction enumeration
 
-此操作表示用于转换带有软蒙版的图像的操作。
+此操作表示带软掩码的图像转换操作。
 
 ```csharp
 public enum ConvertSoftMaskAction
@@ -19,9 +19,11 @@ public enum ConvertSoftMaskAction
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Default | `0` | 使用默认策略。 |
-| ConvertToStencilMask | `1` | 软蒙版将被转换为模板蒙版。 |
+| ConvertToStencilMask | `1` | 软掩码将转换为模板掩码。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

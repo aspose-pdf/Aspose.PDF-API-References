@@ -1,12 +1,12 @@
 ---
-title: Cells.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Cells 方法。获取集合的枚举器
+title: "Cells.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Cells 方法。获取集合的枚举器"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/cells/getenumerator/
 ---
-## Cells.GetEnumerator 方法
+## Cells.GetEnumerator method
 
 获取集合的枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<Cell> GetEnumerator()
 
 枚举器对象。
 
-### 另见
+### 另请参见
 
-* 类 [Cell](../../cell/)
-* 类 [Cells](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

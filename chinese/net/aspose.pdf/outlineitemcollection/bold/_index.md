@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Bold
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 属性。获取或设置此大纲项标题文本的粗体标志
+title: "OutlineItemCollection.Bold"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineItemCollection 属性。获取或设置此大纲项标题文本的粗体标志。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/outlineitemcollection/bold/
 ---
-## OutlineItemCollection.Bold 属性
+## OutlineItemCollection.Bold property
 
 获取或设置此大纲项标题文本的粗体标志
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/outlineitemcollection/bold/
 public bool Bold { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

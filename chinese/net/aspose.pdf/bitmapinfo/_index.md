@@ -1,12 +1,12 @@
 ---
-title: Class BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BitmapInfo 类。包含像素数组和位图信息的对象
+title: "类 BitmapInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.BitmapInfo 类。对象包含像素数组和位图信息。"
 type: docs
-weight: 2860
+weight: 2970
 url: /zh/net/aspose.pdf/bitmapinfo/
 ---
-## BitmapInfo 类
+## BitmapInfo class
 
 包含像素数组和位图信息的对象。
 
@@ -18,7 +18,7 @@ public class BitmapInfo
 
 | 名称 | 描述 |
 | --- | --- |
-| [BitmapInfo](bitmapinfo/)(byte[], int, int, PixelFormat) | 创建类的新实例。 |
+| [BitmapInfo](bitmapinfo/)(byte[], int, int, PixelFormat) | 创建该类的新实例。 |
 
 ## 属性
 
@@ -29,7 +29,9 @@ public class BitmapInfo
 | [PixelBytes](../../aspose.pdf/bitmapinfo/pixelbytes/) { get; } | 获取像素数组。 |
 | [Width](../../aspose.pdf/bitmapinfo/width/) { get; } | 获取位图的宽度。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.ConvertPageToPNGMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。将页面转换为 DSR OMR OCR 图像流的 PNG
+title: "Document.ConvertPageToPNGMemoryStream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。将页面转换为 PNG，以用于 DSR OMR OCR 图像流"
 type: docs
-weight: 590
+weight: 610
 url: /zh/net/aspose.pdf/document/convertpagetopngmemorystream/
 ---
-## Document.ConvertPageToPNGMemoryStream 方法
+## Document.ConvertPageToPNGMemoryStream method
 
-将页面转换为 DSR、OMR、OCR 图像流的 PNG。
+将页面转换为 PNG，以用于 DSR、OMR、OCR 图像流。
 
 ```csharp
 public MemoryStream ConvertPageToPNGMemoryStream(Page page)
@@ -16,15 +16,17 @@ public MemoryStream ConvertPageToPNGMemoryStream(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 要转换的页面。 |
+| 页面 | 页面 | 要转换的页面。 |
 
 ### 返回值
 
 图像流。
 
-### 另见
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

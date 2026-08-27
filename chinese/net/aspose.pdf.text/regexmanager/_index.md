@@ -1,14 +1,14 @@
 ---
-title: Class RegexManager
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.RegexManager 类。提供可配置超时设置的正则表达式操作的包装器
+title: "类 RegexManager"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.RegexManager 类。提供一个包装器，用于正则表达式操作，并具有可配置的超时设置"
 type: docs
-weight: 10700
+weight: 10880
 url: /zh/net/aspose.pdf.text/regexmanager/
 ---
-## RegexManager 类
+## RegexManager class
 
-提供可配置超时设置的正则表达式操作的包装器。
+提供一个用于正则表达式操作的包装器，具有可配置的超时设置。
 
 ```csharp
 public static class RegexManager
@@ -18,9 +18,11 @@ public static class RegexManager
 
 | 名称 | 描述 |
 | --- | --- |
-| static [MatchTimeout](../../aspose.pdf.text/regexmanager/matchtimeout/) { get; set; } | 获取或设置库中正则表达式操作的超时。默认值为 1000 毫秒。 |
+| static [MatchTimeout](../../aspose.pdf.text/regexmanager/matchtimeout/) { get; set; } | 获取或设置库中正则表达式操作的超时时间。默认值为 1000 毫秒。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

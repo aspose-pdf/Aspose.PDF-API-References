@@ -1,12 +1,12 @@
 ---
-title: Document.IsRepairNeeded
-second_title: Aspose.PDF for .NET API Reference
-description: Document 方法。检查文档是否需要调用 Repair 方法
+title: "Document.IsRepairNeeded"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。检查文档是否需要调用 Repair 方法"
 type: docs
-weight: 720
+weight: 740
 url: /zh/net/aspose.pdf/document/isrepairneeded/
 ---
-## Document.IsRepairNeeded 方法
+## Document.IsRepairNeeded method
 
 检查文档是否需要调用 Repair 方法。
 
@@ -16,15 +16,17 @@ public bool IsRepairNeeded(out RepairOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | RepairOptions& | 填充的 RepairOptions，建议在 Repair 方法中使用 |
+| options | RepairOptions& | 已填充的 RepairOptions 建议在 Repair 方法中使用 |
 
 ### 返回值
 
-返回填充的选项，以便在 Repair 方法中使用
+返回已填充的选项，以在 Repair 方法中使用
 
-### 另请参阅
+### 另请参见
 
-* 类 [RepairOptions](../../document.repairoptions/)
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RepairOptions](../../document.repairoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

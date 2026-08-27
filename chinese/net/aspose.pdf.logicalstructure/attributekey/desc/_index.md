@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Desc
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 字段。Desc 属性 PrintField 属性所有者
+title: "AttributeKey.Desc"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeKey 字段. Desc 属性 PrintField 属性 所有者"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.logicalstructure/attributekey/desc/
 ---
-## AttributeKey.Desc 字段
+## AttributeKey.Desc field
 
 Desc 属性（PrintField 属性所有者）。
 
@@ -14,8 +14,10 @@ Desc 属性（PrintField 属性所有者）。
 public static readonly AttributeKey Desc;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeKey](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection 方法。清除字体源集合
+title: "FontSourceCollection.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontSourceCollection 方法。清除字体源集合"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/fontsourcecollection/clear/
 ---
-## FontSourceCollection.Clear 方法
+## FontSourceCollection.Clear method
 
 清除字体源集合。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/fontsourcecollection/clear/
 public void Clear()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [FontSourceCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

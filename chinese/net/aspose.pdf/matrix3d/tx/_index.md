@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.Tx
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D 属性。变换矩阵的 Tx 成员
+title: "Matrix3D.Tx"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Matrix3D 属性。Tx 为变换矩阵的成员"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/matrix3d/tx/
 ---
-## Matrix3D.Tx 属性
+## Matrix3D.Tx property
 
 变换矩阵的 Tx 成员。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/matrix3d/tx/
 public double Tx { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix3D](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

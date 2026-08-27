@@ -1,12 +1,12 @@
 ---
-title: Cell.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: 单元格属性。获取或设置对齐方式
+title: "Cell.Alignment"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Cell 属性。获取或设置对齐方式"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/cell/alignment/
 ---
-## Cell.Alignment 属性
+## Cell.Alignment property
 
 获取或设置对齐方式。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/cell/alignment/
 public HorizontalAlignment Alignment { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [HorizontalAlignment](../../horizontalalignment/)
-* 类 [Cell](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [HorizontalAlignment](../../horizontalalignment/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

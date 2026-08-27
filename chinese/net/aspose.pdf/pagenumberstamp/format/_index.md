@@ -1,21 +1,23 @@
 ---
-title: PageNumberStamp.Format
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp 属性。用于印刷页码的字符串值。值必须包含字符 '#'，在印刷过程中将其替换为页码。
+title: "PageNumberStamp.Format"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageNumberStamp 属性。用于标记页码的字符串值。值必须包含字符 char ，该字符在标记过程中会被页码替换。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pagenumberstamp/format/
 ---
-## PageNumberStamp.Format 属性
+## PageNumberStamp.Format property
 
-用于印刷页码的字符串值。值必须包含字符 '#'，在印刷过程中将其替换为页码。
+用于标记页码的字符串值。该值必须包含字符 ‘#’，在标记过程中会被页码替换。
 
 ```csharp
 public string Format { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageNumberStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

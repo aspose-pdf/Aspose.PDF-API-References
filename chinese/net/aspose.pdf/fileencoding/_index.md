@@ -1,14 +1,14 @@
 ---
-title: Enum FileEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FileEncoding 枚举。附加文件的编码。可能的值 Zip - 文件使用 ZIP 压缩，None - 文件未压缩
+title: "枚举 FileEncoding"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.FileEncoding 枚举。附加文件的编码。可能的值：Zip 文件使用 ZIP 压缩；None 文件未压缩。"
 type: docs
-weight: 4820
+weight: 4940
 url: /zh/net/aspose.pdf/fileencoding/
 ---
-## FileEncoding 枚举
+## FileEncoding enumeration
 
-附加文件的编码。可能的值：Zip - 文件使用 ZIP 压缩，None - 文件未压缩。
+附件文件的编码。可能的取值：Zip - 文件使用 ZIP 压缩，None - 文件未压缩。
 
 ```csharp
 public enum FileEncoding
@@ -21,7 +21,9 @@ public enum FileEncoding
 | None | `0` | 文件未压缩。 |
 | Zip | `1` | 文件使用 ZIP 算法压缩。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

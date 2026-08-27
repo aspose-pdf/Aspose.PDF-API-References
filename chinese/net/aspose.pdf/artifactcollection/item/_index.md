@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection 属性。通过索引获取工件。索引从 1 开始
+title: "ArtifactCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ArtifactCollection 属性。按索引获取工件。索引从 1 开始"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/artifactcollection/item/
 ---
-## ArtifactCollection 索引器
+## ArtifactCollection indexer
 
-通过索引获取工件。索引从 1 开始。
+按索引获取工件。索引从 1 开始。
 
 ```csharp
 public Artifact this[int index] { get; }
@@ -22,9 +22,11 @@ public Artifact this[int index] { get; }
 
 页面上的工件。
 
-### 另请参阅
+### 另请参见
 
 * class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

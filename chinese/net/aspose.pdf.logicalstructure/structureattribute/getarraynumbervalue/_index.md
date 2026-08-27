@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetArrayNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute 方法。获取值数字数组
+title: "StructureAttribute.GetArrayNumberValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureAttribute 方法。获取 Value Number Array"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/
 ---
-## StructureAttribute.GetArrayNumberValue 方法
+## StructureAttribute.GetArrayNumberValue method
 
-获取值数字数组。
+获取 Value Number Array。
 
 ```csharp
 public double?[] GetArrayNumberValue()
@@ -16,10 +16,12 @@ public double?[] GetArrayNumberValue()
 
 ### 返回值
 
-值数字数组。
+Value Number Array.
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureAttribute](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

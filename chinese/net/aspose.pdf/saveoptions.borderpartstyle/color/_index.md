@@ -1,21 +1,23 @@
 ---
-title: SaveOptions.BorderPartStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: BorderPartStyle 字段。表示边框线的线条颜色
+title: "SaveOptions.BorderPartStyle.Color"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BorderPartStyle 字段。表示边框线的颜色"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/saveoptions.borderpartstyle/color/
 ---
-## SaveOptions.BorderPartStyle.Color 字段
+## SaveOptions.BorderPartStyle.Color field
 
-表示边框线的线条颜色
+表示边框线的颜色
 
 ```csharp
 public Color Color;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BorderPartStyle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BorderPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

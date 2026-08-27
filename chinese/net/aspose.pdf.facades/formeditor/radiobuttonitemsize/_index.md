@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioButtonItemSize
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 属性。获取或设置添加新单选按钮字段时单选按钮项的大小
+title: "FormEditor.RadioButtonItemSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 属性。获取或设置在添加新单选按钮字段时单选按钮项的大小。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/
 ---
-## FormEditor.RadioButtonItemSize 属性
+## FormEditor.RadioButtonItemSize property
 
-获取或设置单选按钮项的大小（当添加新单选按钮字段时）。
+获取或设置单选按钮项的大小（当添加新的单选按钮字段时）。
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
@@ -24,8 +24,10 @@ formEditor.Save();
 public double RadioButtonItemSize { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

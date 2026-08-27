@@ -1,12 +1,12 @@
 ---
-title: TextFragment.Segments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment 属性。获取当前 TextFragment 的文本段
+title: "TextFragment.Segments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragment 属性。获取当前 TextFragment 的文本段。"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.text/textfragment/segments/
 ---
-## TextFragment.Segments 属性
+## TextFragment.Segments property
 
 获取当前 [`TextFragment`](../) 的文本段。
 
@@ -16,23 +16,23 @@ public TextSegmentCollection Segments { get; set; }
 
 ## 备注
 
-简单来说，[`TextSegment`](../../textsegment/) 对象是 [`TextFragment`](../) 对象的子对象。高级用户可以直接访问段以执行更复杂的文本编辑场景。有关详细信息，请查看 [`TextFragment`](../) 对象描述。
+简而言之，[`TextSegment`](../../textsegment/) 对象是 [`TextFragment`](../) 对象的子对象。高级用户可以直接访问段以执行更复杂的文本编辑场景。有关详细信息，请查看 [`TextFragment`](../) 对象的描述。
 
 ## 示例
 
-该示例演示如何导航所有 [`TextSegment`](../../textsegment/) 对象在 [`TextFragment`](../) 内部。
+示例演示如何遍历 [`TextFragment`](../) 中的所有 [`TextSegment`](../../textsegment/) 对象。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// 创建 TextFragmentAbsorber 对象以查找所有 "hello world" 文本出现
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// Navigate all text segments and out their text and placement info
+// 遍历所有文本段并输出它们的文本和位置信息。
 foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 {
     Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
@@ -42,12 +42,14 @@ foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentAbsorber](../../textfragmentabsorber/)
-* 类 [Document](../../../aspose.pdf/document/)
-* 类 [TextSegment](../../textsegment/)
-* 类 [TextSegmentCollection](../../textsegmentcollection/)
-* 类 [TextFragment](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../../textsegmentcollection/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

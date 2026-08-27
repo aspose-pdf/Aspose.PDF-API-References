@@ -1,12 +1,12 @@
 ---
-title: Interface IStringOrObjectT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IStringOrObject1T 接口。表示可以是字符串值或对象值的对象
+title: "接口 IStringOrObjectT"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.IStringOrObject1T 接口。表示可以是字符串值或对象值的对象。"
 type: docs
-weight: 570
+weight: 620
 url: /zh/net/aspose.pdf.ai/istringorobject-1/
 ---
-## IStringOrObject&lt;T&gt; 接口
+## IStringOrObject&lt;T&gt; interface
 
 表示可以是字符串值或对象值的对象。
 
@@ -28,7 +28,9 @@ public interface IStringOrObject<T>
 | [ObjectValue](../../aspose.pdf.ai/istringorobject-1/objectvalue/) { get; set; } | 获取或设置对象值。 |
 | [StringValue](../../aspose.pdf.ai/istringorobject-1/stringvalue/) { get; set; } | 获取或设置字符串值。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

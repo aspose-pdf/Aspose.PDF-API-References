@@ -1,14 +1,14 @@
 ---
-title: XImage.GetNameInCollection
-second_title: Aspose.PDF for .NET API Reference
-description: XImage 方法。返回其集合中图像的名称
+title: "XImage.GetNameInCollection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XImage 方法。返回图像在其集合中的名称"
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.pdf/ximage/getnameincollection/
 ---
-## XImage.GetNameInCollection 方法
+## XImage.GetNameInCollection method
 
-返回其集合中图像的名称。
+返回图像在其集合中的名称。
 
 ```csharp
 public string GetNameInCollection()
@@ -18,8 +18,10 @@ public string GetNameInCollection()
 
 图像键（名称）。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XImage](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

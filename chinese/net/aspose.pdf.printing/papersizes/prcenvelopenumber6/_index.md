@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber6
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。6号信封 120 毫米 x 230 毫米
+title: "PaperSizes.PrcEnvelopeNumber6"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。6 号信封 120 mm × 230 mm"
 type: docs
 weight: 980
 url: /zh/net/aspose.pdf.printing/papersizes/prcenvelopenumber6/
 ---
-## PaperSizes.PrcEnvelopeNumber6 字段
+## PaperSizes.PrcEnvelopeNumber6 field
 
-#6 号信封 (120 毫米 x 230 毫米)。
+#6 信封（120 mm × 230 mm）。
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber6;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

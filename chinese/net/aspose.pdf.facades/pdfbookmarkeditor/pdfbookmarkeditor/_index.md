@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.PdfBookmarkEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor 构造函数。初始化新的 PdfBookmarkEditor 对象
+title: "PdfBookmarkEditor.PdfBookmarkEditor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfBookmarkEditor 构造函数。初始化新的 PdfBookmarkEditor 对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
 public PdfBookmarkEditor()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfBookmarkEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfBookmarkEditor(Document) {#constructor_1}
 
-基于 *document* 初始化新的 [`PdfBookmarkEditor`](../) 对象。
+在 *document* 的基础上初始化新的 [`PdfBookmarkEditor`](../) 对象。
 
 ```csharp
 public PdfBookmarkEditor(Document document)
@@ -32,11 +32,13 @@ public PdfBookmarkEditor(Document document)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| 文档 | Document | Pdf 文档。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../../../aspose.pdf/document/)
-* 类 [PdfBookmarkEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

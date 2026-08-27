@@ -1,21 +1,23 @@
 ---
-title: XFA.Config
-second_title: Aspose.PDF for .NET API Reference
-description: XFA property. XFA Config component of an XFA form
+title: "XFA.Config"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFA 属性。XFA Config 组件是 XFA 表单的一部分"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/xfa/config/
 ---
-## XFA.Config 属性
+## XFA.Config property
 
-XFA 表单的 XFA 配置组件。
+XFA Config 组件是 XFA 表单的一部分。
 
 ```csharp
 public XmlNode Config { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XFA](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ISummaryCopilot.GetSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilot 方法。异步获取摘要
+title: "ISummaryCopilot.GetSummaryAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ISummaryCopilot 方法。异步获取摘要"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/isummarycopilot/getsummaryasync/
 ---
-## ISummaryCopilot.GetSummaryAsync 方法
+## ISummaryCopilot.GetSummaryAsync method
 
 异步获取摘要。
 
@@ -20,10 +20,12 @@ public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = defau
 
 ### 返回值
 
-表示异步操作的任务，包含摘要字符串。
+表示带有摘要字符串的异步操作的任务。
 
-### 另见
+### 另请参见
 
-* 接口 [ISummaryCopilot](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

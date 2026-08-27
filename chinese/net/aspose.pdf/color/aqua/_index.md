@@ -1,14 +1,14 @@
 ---
-title: Color.Aqua
-second_title: Aspose.PDF for .NET API Reference
-description: 颜色属性。获取一个具有 ARGB 值 c FF00FFFF 的系统定义颜色
+title: "Color.Aqua"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 属性。获取系统定义的颜色，其 ARGB 值为 c FF00FFFF"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/color/aqua/
 ---
-## Color.Aqua 属性
+## Color.Aqua property
 
-获取一个具有 ARGB 值的系统定义颜色 \c \#FF00FFFF。
+获取系统定义的颜色，其 ARGB 值为 \c \#FF00FFFF。
 
 ```csharp
 public static Color Aqua { get; }
@@ -16,10 +16,12 @@ public static Color Aqua { get; }
 
 ### 返回值
 
-表示一个系统定义颜色的 A。
+A 表示系统定义的颜色。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

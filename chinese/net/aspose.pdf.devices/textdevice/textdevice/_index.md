@@ -1,7 +1,7 @@
 ---
-title: TextDevice.TextDevice
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice 构造函数。使用文本提取选项初始化 TextDevice 的新实例
+title: "TextDevice.TextDevice"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextDevice 构造函数。使用文本提取选项初始化 TextDevice 的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/textdevice/textdevice/
@@ -20,10 +20,10 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ### 另请参见
 
-* 类 [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* 类 [TextDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,9 +37,9 @@ public TextDevice()
 
 ### 另请参见
 
-* 类 [TextDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,19 +53,19 @@ public TextDevice(Encoding encoding)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | 提取文本的编码 |
+| 编码 | 编码 | 提取文本的编码 |
 
 ### 另请参见
 
-* 类 [TextDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextDevice(TextExtractionOptions, Encoding) {#constructor_2}
 
-为指定的编码和文本提取选项初始化 [`TextDevice`](../) 的新实例。
+为指定的编码并使用文本提取选项初始化 [`TextDevice`](../) 的新实例。
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
@@ -74,11 +74,13 @@ public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | 文本提取选项。 |
-| encoding | Encoding | 提取文本的编码。 |
+| 编码 | 编码 | 提取文本的编码。 |
 
 ### 另请参见
 
-* 类 [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* 类 [TextDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

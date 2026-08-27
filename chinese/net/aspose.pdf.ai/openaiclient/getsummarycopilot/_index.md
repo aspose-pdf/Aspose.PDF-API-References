@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。获取具有指定选项的 ISummaryCopilot 实例
+title: "OpenAIClient.GetSummaryCopilot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。获取具有指定选项的 ISummaryCopilot 实例。"
 type: docs
-weight: 290
+weight: 300
 url: /zh/net/aspose.pdf.ai/openaiclient/getsummarycopilot/
 ---
-## OpenAIClient.GetSummaryCopilot 方法
+## OpenAIClient.GetSummaryCopilot method
 
 获取具有指定选项的 [`ISummaryCopilot`](../../isummarycopilot/) 实例。
 
@@ -17,17 +17,19 @@ public ISummaryCopilot GetSummaryCopilot(
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | 摘要助手的选项。 |
+| options | ISummaryCopilotOptions`1 | 摘要副驾驶的选项。 |
 
 ### 返回值
 
-一个 [`ISummaryCopilot`](../../isummarycopilot/) 实例。
+[`ISummaryCopilot`](../../isummarycopilot/) 的实例。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [ISummaryCopilot](../../isummarycopilot/)
-* 接口 [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* 类 [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* 类 [OpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

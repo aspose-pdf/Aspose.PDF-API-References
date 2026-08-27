@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.TryConcatenate
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 方法。连接两个文件
+title: "PdfFileEditor.TryConcatenate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 方法。合并两个文件"
 type: docs
 weight: 390
 url: /zh/net/aspose.pdf.facades/pdffileeditor/tryconcatenate/
@@ -16,17 +16,17 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string ou
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| firstInputFile | String | 第一个要连接的文件。 |
-| secInputFile | String | 第二个要连接的文件。 |
+| firstInputFile | String | 要合并的第一个文件。 |
+| secInputFile | String | 要合并的第二个文件。 |
 | outputFile | String | 输出文件。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为 false。
+如果操作成功完成则为 true；否则为 false。
 
 ## 备注
 
-TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操作失败，TryConcatenate 方法不会抛出异常。
+TryConcatenate 方法类似于 Concatenate 方法，但如果操作失败，TryConcatenate 方法不会抛出异常。
 
 ## 示例
 
@@ -53,16 +53,16 @@ public bool TryConcatenate(Document[] src, Document dest)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| src | Document[] | 源文档数组。 |
-| dest | Document | 目标文档。 |
+| src | Document[] | 源 Document 数组。 |
+| dest | Document | 目标 Document。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为 false。
+如果操作成功完成则为 true；否则为 false。
 
 ## 备注
 
-TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操作失败，TryConcatenate 方法不会抛出异常。
+TryConcatenate 方法类似于 Concatenate 方法，但如果操作失败，TryConcatenate 方法不会抛出异常。
 
 ### 另请参见
 
@@ -75,7 +75,7 @@ TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操�
 
 ## TryConcatenate(string[], string) {#tryconcatenate_5}
 
-将文件连接成一个文件。
+将多个文件连接为一个文件。
 
 ```csharp
 public bool TryConcatenate(string[] inputFiles, string outputFile)
@@ -83,16 +83,16 @@ public bool TryConcatenate(string[] inputFiles, string outputFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFiles | String[] | 要连接的文件数组。 |
+| inputFiles | String[] | 要合并的文件数组。 |
 | outputFile | String | 输出文件的名称。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为 false。
+如果操作成功完成则为 true；否则为 false。
 
 ## 备注
 
-TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操作失败，TryConcatenate 方法不会抛出异常。
+TryConcatenate 方法类似于 Concatenate 方法，但如果操作失败，TryConcatenate 方法不会抛出异常。
 
 ## 示例
 
@@ -119,16 +119,16 @@ public bool TryConcatenate(Stream[] inputStream, Stream outputStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream[] | 要连接的流数组。 |
-| outputStream | Stream | 存储结果文件的流。 |
+| inputStream | Stream[] | 要合并的流数组。 |
+| outputStream | Stream | 存放结果文件的流。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为 false。
+如果操作成功完成则为 true；否则为 false。
 
 ## 备注
 
-TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操作失败，TryConcatenate 方法不会抛出异常。
+TryConcatenate 方法类似于 Concatenate 方法，但如果操作失败，TryConcatenate 方法不会抛出异常。
 
 ## 示例
 
@@ -150,7 +150,7 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ## TryConcatenate(string, string, string, string) {#tryconcatenate_4}
 
-将两个 Pdf 文档合并为一个新的 Pdf 文档，页面交替排列，并用空白页填充空白位置。例如：document1 有 5 页：p1, p2, p3, p4, p5。document2 有 3 页：p1', p2', p3'。合并这两个 Pdf 文档将生成结果文档，页面为：p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage。
+将两个 Pdf 文档交替合并为一个新的 Pdf 文档，并用空白页填充缺失的页面。例如：document1 有 5 页：p1、p2、p3、p4、p5。document2 有 3 页：p1'、p2'、p3'。合并这两个 Pdf 文档后，结果文档的页面顺序为：p1、p1'、p2、p2'、p3、p3'、p4、blankpage、p5、blankpage。
 
 ```csharp
 public bool TryConcatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -161,16 +161,16 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string bl
 | --- | --- | --- |
 | firstInputFile | String | 第一个文件。 |
 | secInputFile | String | 第二个文件。 |
-| blankPageFile | String | 带有空白页的 PDF 文件。 |
+| blankPageFile | String | 包含空白页的 PDF 文件。 |
 | outputFile | String | 结果文件。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为 false。
+如果操作成功完成则为 true；否则为 false。
 
 ## 备注
 
-TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操作失败，TryConcatenate 方法不会抛出异常。
+TryConcatenate 方法类似于 Concatenate 方法，但如果操作失败，TryConcatenate 方法不会抛出异常。
 
 ## 示例
 
@@ -189,7 +189,7 @@ bool result = pfe.TryConcatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf"
 
 ## TryConcatenate(Stream, Stream, Stream, Stream) {#tryconcatenate_1}
 
-将两个 Pdf 文档合并为一个新的 Pdf 文档，页面交替排列，并用空白页填充空白位置。例如：document1 有 5 页：p1, p2, p3, p4, p5。document2 有 3 页：p1', p2', p3'。合并这两个 Pdf 文档将生成结果文档，页面为：p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage。
+将两个 Pdf 文档交替合并为一个新的 Pdf 文档，并用空白页填充缺失的页面。例如：document1 有 5 页：p1、p2、p3、p4、p5。document2 有 3 页：p1'、p2'、p3'。合并这两个 Pdf 文档后，结果文档的页面顺序为：p1、p1'、p2、p2'、p3、p3'、p4、blankpage、p5、blankpage。
 
 ```csharp
 public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -200,16 +200,16 @@ public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Strea
 | --- | --- | --- |
 | firstInputStream | Stream | 第一个 Pdf 流。 |
 | secInputStream | Stream | 第二个 Pdf 流。 |
-| blankPageStream | Stream | 带有空白页的 Pdf 流。 |
+| blankPageStream | Stream | 带空白页的 Pdf 流。 |
 | outputStream | Stream | 输出 Pdf 流。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为 false。
+如果操作成功完成则为 true；否则为 false。
 
 ## 备注
 
-TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操作失败，TryConcatenate 方法不会抛出异常。
+TryConcatenate 方法类似于 Concatenate 方法，但如果操作失败，TryConcatenate 方法不会抛出异常。
 
 ## 示例
 
@@ -229,58 +229,3 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2, blank } , outs
 * assembly [Aspose.PDF](../../../)
 
 
-## TryConcatenate(string[], HttpResponse) {#tryconcatenate_7}
-
-连接文件并将结果保存到 HttpResponse 对象中。
-
-```csharp
-public bool TryConcatenate(string[] inputFiles, HttpResponse response)
-```
-
-| 参数 | 类型 | 描述 |
-| --- | --- | --- |
-| inputFiles | String[] | 要连接的文件数组。 |
-| response | HttpResponse | 响应对象。 |
-
-### 返回值
-
-如果操作成功完成，则为 true；否则为 false。
-
-## 备注
-
-TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操作失败，TryConcatenate 方法不会抛出异常。
-
-### 另请参见
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryConcatenate(Stream[], HttpResponse) {#tryconcatenate_3}
-
-连接文件并将结果存储到 HttpResponse 对象中。
-
-```csharp
-public bool TryConcatenate(Stream[] inputStream, HttpResponse response)
-```
-
-| 参数 | 类型 | 描述 |
-| --- | --- | --- |
-| inputStream | Stream[] | 包含要连接的文件的流数组。 |
-| response | HttpResponse | 响应对象。 |
-
-### 返回值
-
-如果操作成功完成，则为 true；否则为 false。
-
-## 备注
-
-TryConcatenate 方法类似于 Concatenate 方法，不同之处在于如果操作失败，TryConcatenate 方法不会抛出异常。
-
-### 另请参见
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

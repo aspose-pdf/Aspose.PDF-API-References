@@ -1,12 +1,12 @@
 ---
-title: TrimMarkAnnotation.TrimMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: TrimMarkAnnotation 构造函数。初始化 TrimMarkAnnotation 类的新实例
+title: "TrimMarkAnnotation.TrimMarkAnnotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TrimMarkAnnotation 构造函数。初始化 TrimMarkAnnotation 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/trimmarkannotation/trimmarkannotation/
 ---
-## TrimMarkAnnotation 构造函数
+## TrimMarkAnnotation constructor
 
 初始化 [`TrimMarkAnnotation`](../) 类的新实例。
 
@@ -16,17 +16,19 @@ public TrimMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 注释将添加到的页面。 |
-| position | PrinterMarkCornerPosition | 裁剪标记在页面上的位置。 |
+| 页面 | 页面 | 注释将被添加的页面。 |
+| position | PrinterMarkCornerPosition | 页面上裁切标记的位置。 |
 
 ## 备注
 
 此构造函数创建一个 TrimMarkAnnotation 并将其添加到指定页面的指定位置。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../../../aspose.pdf/page/)
-* 枚举 [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* 类 [TrimMarkAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
+* class [TrimMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

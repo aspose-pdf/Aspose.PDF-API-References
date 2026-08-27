@@ -1,14 +1,14 @@
 ---
-title: PDF3DCrossSectionArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray 属性。获取或设置指定索引处的 PDF3DCrossSection
+title: "PDF3DCrossSectionArray.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DCrossSectionArray 属性。获取或设置指定索引处的 PDF3DCrossSection"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/
 ---
-## PDF3DCrossSectionArray 索引器
+## PDF3DCrossSectionArray indexer
 
-获取或设置指定索引处的 [`PDF3DCrossSection`](../../pdf3dcrosssection/)。
+获取或设置指定索引处的 [`PDF3DCrossSection`](../../pdf3dcrosssection/)
 
 ```csharp
 public PDF3DCrossSection this[int index] { get; set; }
@@ -16,17 +16,17 @@ public PDF3DCrossSection this[int index] { get; set; }
 
 | 参数 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 该索引。 |
 
 ### 返回值
 
-截面。
+横截面。
 
 ### 异常
 
-| exception | condition |
+| 异常 | 条件 |
 | --- | --- |
-| IndexOutOfRangeException | 无效索引：索引应在 [1..n] 范围内，其中 n 等于截面数量。 |
+| IndexOutOfRangeException | 无效的索引：索引应在范围 [1..n] 内，其中 n 等于横截面计数。 |
 
 ### 另请参见
 
@@ -34,3 +34,5 @@ public PDF3DCrossSection this[int index] { get; set; }
 * class [PDF3DCrossSectionArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

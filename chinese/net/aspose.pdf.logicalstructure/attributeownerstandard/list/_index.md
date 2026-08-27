@@ -1,21 +1,23 @@
 ---
-title: AttributeOwnerStandard.List
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard 字段。列出属性所有者
+title: "AttributeOwnerStandard.List"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeOwnerStandard 字段。List 属性所有者"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
-## AttributeOwnerStandard.List 字段
+## AttributeOwnerStandard.List field
 
-列出属性所有者。
+列表属性所有者。
 
 ```csharp
 public static readonly AttributeOwnerStandard List;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeOwnerStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

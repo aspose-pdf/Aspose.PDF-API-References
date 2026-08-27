@@ -1,12 +1,12 @@
 ---
-title: ChatMessage.Role
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage 属性。获取或设置消息作者的角色
+title: "ChatMessage.Role"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ChatMessage 属性。获取或设置消息作者的角色。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.ai/chatmessage/role/
 ---
-## ChatMessage.Role 属性
+## ChatMessage.Role property
 
 获取或设置消息作者的角色。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/chatmessage/role/
 public string Role { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ChatMessage](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ArtifactCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection 属性。这个对象是否已同步
+title: "ArtifactCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ArtifactCollection 属性。此对象是否已同步"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/artifactcollection/issynchronized/
 ---
-## ArtifactCollection.IsSynchronized 属性
+## ArtifactCollection.IsSynchronized property
 
-这个对象是否已同步。
+此对象是否已同步。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ArtifactCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

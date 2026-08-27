@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.Name
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescription 属性。获取或设置图像的名称
+title: "ImageDescription.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImageDescription 属性。获取或设置图像的名称"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/imagedescription/name/
 ---
-## ImageDescription.Name 属性
+## ImageDescription.Name property
 
 获取或设置图像的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/imagedescription/name/
 public string Name { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImageDescription](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

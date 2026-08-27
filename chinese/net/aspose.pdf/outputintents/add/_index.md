@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents 方法。将输出意图添加到集合中
+title: "OutputIntents.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutputIntents 方法。向集合添加一个输出意图"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/outputintents/add/
 ---
-## OutputIntents.Add 方法
+## OutputIntents.Add method
 
-将输出意图添加到集合中。
+向集合添加一个输出意图。
 
 ```csharp
 public void Add(OutputIntent item)
@@ -22,12 +22,14 @@ public void Add(OutputIntent item)
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *item* 为 null。 |
-| InvalidOperationException | 包含集合的文档没有目录来访问 OutputIntents。 |
+| ArgumentNullException | 该 *item* 为 null。 |
+| InvalidOperationException | 包含该集合的文档没有目录来访问 OutputIntents。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutputIntent](../../outputintent/)
-* 类 [OutputIntents](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

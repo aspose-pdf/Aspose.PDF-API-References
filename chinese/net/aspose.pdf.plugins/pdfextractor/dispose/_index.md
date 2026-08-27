@@ -1,21 +1,23 @@
 ---
-title: PdfExtractor.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 方法。IDisposable 的实现。实际上，对于 PdfExtractor 来说并不是必需的
+title: "PdfExtractor.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractor 方法。实现 IDisposable。实际上对 PdfExtractor 并非必需。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/pdfextractor/dispose/
 ---
-## PdfExtractor.Dispose 方法
+## PdfExtractor.Dispose method
 
-IDisposable 的实现。实际上，对于 PdfExtractor 来说并不是必需的。
+实现 IDisposable。实际上，对 PdfExtractor 并非必要。
 
 ```csharp
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

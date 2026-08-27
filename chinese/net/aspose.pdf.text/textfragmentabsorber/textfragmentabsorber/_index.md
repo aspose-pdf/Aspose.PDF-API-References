@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextFragmentAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber 构造函数。初始化一个新的 TextFragmentAbsorber 实例，该实例执行文档或页面的所有文本段落的搜索
+title: "TextFragmentAbsorber.TextFragmentAbsorber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentAbsorber 构造函数。初始化一个新的 TextFragmentAbsorber 实例，用于搜索文档或页面的所有文本段落。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber() {#constructor}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 实例，该实例执行文档或页面的所有文本段落的搜索。
+初始化一个新的 [`TextFragmentAbsorber`](../) 实例，用于搜索文档或页面的所有文本段落。
 
 ```csharp
 public TextFragmentAbsorber()
@@ -16,46 +16,46 @@ public TextFragmentAbsorber()
 
 ## 备注
 
-执行文本搜索，并通过 [`TextFragments`](../textfragments/) 集合提供对搜索结果的访问。
+执行文本搜索并通过 [`TextFragments`](../textfragments/) 集合提供对搜索结果的访问。
 
 ## 示例
 
-该示例演示如何在第一个 PDF 文档页面上查找文本并替换文本。
+示例演示了如何在 PDF 文档的第一页查找文本并替换该文本。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// 查找用于更改文档文本字体的字体
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object
+// 创建 TextFragmentAbsorber 对象
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// Make the absorber to search all "hello world" text occurrences
+// 让吸收器搜索所有 \"hello world\" 文本出现。
 absorber.Phrase = "hello world";
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// Change text of the first text occurrence
+// 更改第一次文本出现的内容。
 absorber.TextFragments[1].Text = "hi world";
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(TextEditOptions) {#constructor_1}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 实例，带有文本编辑选项，该实例执行文档或页面的所有文本段落的搜索。
+初始化一个新的 [`TextFragmentAbsorber`](../) 实例，带有文本编辑选项，用于搜索文档或页面的所有文本段落。
 
 ```csharp
 public TextFragmentAbsorber(TextEditOptions textEditOptions)
@@ -63,45 +63,45 @@ public TextFragmentAbsorber(TextEditOptions textEditOptions)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| textEditOptions | TextEditOptions | 文本编辑选项（允许启用某些编辑功能）。 |
+| textEditOptions | TextEditOptions | 文本编辑选项（允许开启某些编辑功能）。 |
 
 ## 备注
 
-执行文本搜索，并通过 [`TextFragments`](../textfragments/) 集合提供对搜索结果的访问。
+执行文本搜索并通过 [`TextFragments`](../textfragments/) 集合提供对搜索结果的访问。
 
 ## 示例
 
-该示例演示如何在第一个 PDF 文档页面上查找所有文本片段并替换它们的字体。
+示例演示了如何在 PDF 文档的第一页查找所有文本片段并替换它们的字体。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object
+// 创建 TextFragmentAbsorber 对象
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new TextEditOptions(TextEditOptions.FontReplace.RemoveUnusedFonts));
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// Find Courier font
+// 查找 Courier 字体
 Pdf.Text.Font font = FontRepository.FindFont("Courier");
 
-// Set the font for all the text fragments
+// 为所有文本片段设置字体。
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.TextState.Font = font;
 }
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextEditOptions](../../texteditoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -123,40 +123,40 @@ public TextFragmentAbsorber(string phrase)
 
 ## 示例
 
-该示例演示如何在第一个 PDF 文档页面上查找文本并替换文本及其字体。
+示例演示了如何在第一个 PDF 文档页上查找文本并替换该文本及其字体。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// 查找用于更改文档文本字体的字体
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// 创建 TextFragmentAbsorber 对象以查找所有 "hello world" 文本出现
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// Change text and font of the first text occurrence
+// 更改首次文本出现的文本和字体
 absorber.TextFragments[1].Text = "hi world";
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex) {#constructor_6}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 类实例，用于指定的 System.Text.RegularExpressions.Regex 类对象。
+为指定的 System.Text.RegularExpressions.Regex 类对象初始化一个新的 [`TextFragmentAbsorber`](../) 类实例。
 
 ```csharp
 public TextFragmentAbsorber(Regex regex)
@@ -164,7 +164,7 @@ public TextFragmentAbsorber(Regex regex)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| regex | Regex | [`TextFragmentAbsorber`](../) 搜索的 System.Text.RegularExpressions.Regex 类对象 |
+| regex | Regex | [`TextFragmentAbsorber`](../) 搜索的 System.Text.RegularExpressions.Regex 类对象。 |
 
 ## 备注
 
@@ -172,40 +172,40 @@ public TextFragmentAbsorber(Regex regex)
 
 ## 示例
 
-该示例演示如何在第一个 PDF 文档页面上查找文本并替换文本及其字体。
+示例演示了如何在第一个 PDF 文档页上查找文本并替换该文本及其字体。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// 查找用于更改文档文本字体的字体
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextAbsorber object to find all instances of the input regex
+// 创建 TextAbsorber 对象以查找输入正则表达式的所有实例。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"));
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// we should find "hello" word and replace it with "Hi"
+// 我们应该找到 "hello" 单词并将其替换为 "Hi"。
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions) {#constructor_4}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 类实例，用于指定的文本短语和文本搜索选项。
+为指定的文本短语和文本搜索选项初始化一个新的 [`TextFragmentAbsorber`](../) 类实例。
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
@@ -214,7 +214,7 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | phrase | String | [`TextFragmentAbsorber`](../) 搜索的短语 |
-| textSearchOptions | TextSearchOptions | 文本搜索选项（允许启用某些搜索功能。例如，使用正则表达式搜索） |
+| textSearchOptions | TextSearchOptions | 文本搜索选项（允许开启某些搜索功能。例如，使用正则表达式搜索） |
 
 ## 备注
 
@@ -222,35 +222,35 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
 
 ## 示例
 
-该示例演示如何在第一个 PDF 文档页面上使用正则表达式查找文本并替换文本。
+示例演示了如何在第一页 PDF 文档上使用正则表达式查找文本并替换该文本。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// 创建 TextFragmentAbsorber 对象，使用正则表达式搜索所有以 'h' 开头并以 'o' 结尾的单词。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// we should find "hello" word and replace it with "Hi"
+// 我们应该找到 "hello" 单词并将其替换为 "Hi"。
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
  
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextSearchOptions](../../textsearchoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextSearchOptions) {#constructor_8}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 类实例，用于指定的文本短语和文本搜索选项。
+为指定的文本短语和文本搜索选项初始化一个新的 [`TextFragmentAbsorber`](../) 类实例。
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
@@ -258,8 +258,8 @@ public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| regex | Regex | [`TextFragmentAbsorber`](../) 搜索的 System.Text.RegularExpressions.Regex 类对象 |
-| textSearchOptions | TextSearchOptions | 文本搜索选项（允许启用某些搜索功能。） |
+| regex | Regex | [`TextFragmentAbsorber`](../) 搜索的 System.Text.RegularExpressions.Regex 类对象。 |
+| textSearchOptions | TextSearchOptions | 文本搜索选项（允许开启某些搜索功能。） |
 
 ## 备注
 
@@ -267,35 +267,35 @@ public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
 
 ## 示例
 
-该示例演示如何在第一个 PDF 文档页面上使用正则表达式查找文本并替换文本。
+示例演示了如何在第一页 PDF 文档上使用正则表达式查找文本并替换该文本。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// 创建 TextFragmentAbsorber 对象，使用正则表达式搜索所有以 'h' 开头并以 'o' 结尾的单词。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"), new TextSearchOptions(true));
 
-// we should find "hello" word and replace it with "Hi"
+// 我们应该找到 "hello" 单词并将其替换为 "Hi"。
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextSearchOptions](../../textsearchoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex[], TextSearchOptions) {#constructor_9}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 类实例，用于指定的文本短语和文本搜索选项。
+为指定的文本短语和文本搜索选项初始化一个新的 [`TextFragmentAbsorber`](../) 类实例。
 
 ```csharp
 public TextFragmentAbsorber(Regex[] regexes, TextSearchOptions textSearchOptions)
@@ -304,18 +304,18 @@ public TextFragmentAbsorber(Regex[] regexes, TextSearchOptions textSearchOptions
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | regexes | Regex[] | [`TextFragmentAbsorber`](../) 搜索的 System.Text.RegularExpressions.Regex 类对象数组。 |
-| textSearchOptions | TextSearchOptions | 文本搜索选项（允许启用某些搜索功能）。 |
+| textSearchOptions | TextSearchOptions | 文本搜索选项（允许开启某些搜索功能）。 |
 
 ## 备注
 
-执行指定短语数组的文本搜索，并通过 [`RegexResults`](../regexresults/) 字典提供对搜索结果的访问。
+对指定的短语数组执行文本搜索，并通过 [`RegexResults`](../regexresults/) 字典提供对搜索结果的访问。
 
 ## 示例
 
-该示例演示如何在第一个 PDF 文档页面上使用正则表达式数组查找文本。
+示例演示了如何在第一页 PDF 文档上使用正则表达式数组查找文本。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
 var regexes = new Regex[]
@@ -323,25 +323,25 @@ var regexes = new Regex[]
 new Regex( @"expression1", RegexOptions.IgnoreCase),
 new Regex( @"expression2", RegexOptions.IgnoreCase),
 };
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// 创建 TextFragmentAbsorber 对象，使用正则表达式搜索所有以 'h' 开头并以 'o' 结尾的单词。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
 doc.Pages[1].Accept(absorber);
-// Get results of 
+// 获取结果
 var results = absorber.RegexResults;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextSearchOptions](../../textsearchoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions, TextEditOptions) {#constructor_5}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 类实例，用于指定的文本短语、文本搜索选项和文本编辑选项。
+为指定的文本短语、文本搜索选项和文本编辑选项初始化一个新的 [`TextFragmentAbsorber`](../) 类实例。
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions, 
@@ -351,8 +351,8 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions,
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | phrase | String | [`TextFragmentAbsorber`](../) 搜索的短语 |
-| textSearchOptions | TextSearchOptions | 文本搜索选项（允许启用某些搜索功能。例如，使用正则表达式搜索） |
-| textEditOptions | TextEditOptions | 文本编辑选项（允许启用某些编辑功能）。 |
+| textSearchOptions | TextSearchOptions | 文本搜索选项（允许开启某些搜索功能。例如，使用正则表达式搜索） |
+| textEditOptions | TextEditOptions | 文本编辑选项（允许开启某些编辑功能）。 |
 
 ## 备注
 
@@ -360,36 +360,36 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions,
 
 ## 示例
 
-该示例演示如何在第一个 PDF 文档页面上使用正则表达式查找文本并替换文本。
+示例演示了如何在第一页 PDF 文档上使用正则表达式查找文本并替换该文本。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// 创建 TextFragmentAbsorber 对象，使用正则表达式搜索所有以 'h' 开头并以 'o' 结尾的单词。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// we should find "hello" word and replace it with "Hi"
+// 我们应该找到 "hello" 单词并将其替换为 "Hi"。
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextSearchOptions](../../textsearchoptions/)
-* 类 [TextEditOptions](../../texteditoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextEditOptions) {#constructor_3}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 类实例，用于指定的文本短语和文本编辑选项。
+为指定的文本短语和文本编辑选项初始化一个新的 [`TextFragmentAbsorber`](../) 类实例。
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
@@ -398,24 +398,24 @@ public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | phrase | String | [`TextFragmentAbsorber`](../) 搜索的短语 |
-| textEditOptions | TextEditOptions | 文本编辑选项（允许启用某些编辑功能）。 |
+| textEditOptions | TextEditOptions | 文本编辑选项（允许开启某些编辑功能）。 |
 
 ## 备注
 
 执行指定短语的文本搜索，并通过 [`TextFragments`](../textfragments/) 集合提供对搜索结果的访问。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextEditOptions](../../texteditoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextEditOptions) {#constructor_7}
 
-初始化一个新的 [`TextFragmentAbsorber`](../) 类实例，用于指定的文本短语和文本编辑选项。
+为指定的文本短语和文本编辑选项初始化一个新的 [`TextFragmentAbsorber`](../) 类实例。
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
@@ -423,16 +423,18 @@ public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| regex | Regex | [`TextFragmentAbsorber`](../) 搜索的 System.Text.RegularExpressions.Regex 类对象 |
-| textEditOptions | TextEditOptions | 文本编辑选项（允许启用某些编辑功能）。 |
+| regex | Regex | [`TextFragmentAbsorber`](../) 搜索的 System.Text.RegularExpressions.Regex 类对象。 |
+| textEditOptions | TextEditOptions | 文本编辑选项（允许开启某些编辑功能）。 |
 
 ## 备注
 
 执行指定短语的文本搜索，并通过 [`TextFragments`](../textfragments/) 集合提供对搜索结果的访问。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextEditOptions](../../texteditoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

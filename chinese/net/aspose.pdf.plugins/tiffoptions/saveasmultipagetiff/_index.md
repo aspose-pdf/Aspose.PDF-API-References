@@ -1,21 +1,23 @@
 ---
-title: TiffOptions.SaveAsMultiPageTiff
-second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions 属性。获取和设置允许将所有页面保存为一个多页 tiff 的标志
+title: "TiffOptions.SaveAsMultiPageTiff"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffOptions 属性。获取和设置允许将所有页面保存为单个多页 TIFF 的标志。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.plugins/tiffoptions/saveasmultipagetiff/
 ---
-## TiffOptions.SaveAsMultiPageTiff 属性
+## TiffOptions.SaveAsMultiPageTiff property
 
-获取和设置允许将所有页面保存为一个多页 tiff 的标志。
+获取并设置允许将所有页面保存为单个多页 tiff 的标志。
 
 ```csharp
 public bool SaveAsMultiPageTiff { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

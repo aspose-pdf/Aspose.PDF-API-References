@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilot method.
+title: "LlamaSummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaSummaryCopilot 方法。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/llamasummarycopilot/getsummarydocumentasync/
@@ -12,7 +12,7 @@ url: /zh/net/aspose.pdf.ai/llamasummarycopilot/getsummarydocumentasync/
 public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationToken = default)
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [LlamaSummaryCopilot](../)
@@ -28,10 +28,12 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo,
     CancellationToken? cancellationToken = default)
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [LlamaSummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

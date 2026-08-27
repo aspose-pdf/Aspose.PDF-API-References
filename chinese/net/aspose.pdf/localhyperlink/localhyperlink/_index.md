@@ -1,7 +1,7 @@
 ---
-title: LocalHyperlink.LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: LocalHyperlink 构造函数。初始化 LocalHyperlink 类的新实例
+title: "LocalHyperlink.LocalHyperlink"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LocalHyperlink 构造函数。初始化 LocalHyperlink 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/localhyperlink/localhyperlink/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf/localhyperlink/localhyperlink/
 public LocalHyperlink()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [LocalHyperlink](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,9 +34,11 @@ public LocalHyperlink(BaseParagraph target)
 | --- | --- | --- |
 | target | BaseParagraph | 目标段落。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseParagraph](../../baseparagraph/)
-* 类 [LocalHyperlink](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

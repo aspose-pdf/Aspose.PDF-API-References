@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.ObjectType.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectType 构造函数。默认构造函数
+title: "ResponseFormat.ObjectType.ObjectType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ObjectType 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/responseformat.objecttype/objecttype/
 ---
-## ResponseFormat.ObjectType 构造函数
+## ResponseFormat.ObjectType constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/responseformat.objecttype/objecttype/
 public ObjectType()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ObjectType](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ObjectType](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

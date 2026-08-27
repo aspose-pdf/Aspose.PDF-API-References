@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.UnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 属性。解决 Unicode 映射问题的规则。可以为 null
+title: "PdfFormatConversionOptions.UnicodeProcessingRules"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFormatConversionOptions 属性。解决 Unicode 映射问题的规则。可以为 null"
 type: docs
-weight: 220
+weight: 230
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/unicodeprocessingrules/
 ---
-## PdfFormatConversionOptions.UnicodeProcessingRules 属性
+## PdfFormatConversionOptions.UnicodeProcessingRules property
 
 解决 Unicode 映射问题的规则。可以为 null。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/pdfformatconversionoptions/unicodeprocessingrules/
 public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ToUnicodeProcessingRules](../../tounicodeprocessingrules/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

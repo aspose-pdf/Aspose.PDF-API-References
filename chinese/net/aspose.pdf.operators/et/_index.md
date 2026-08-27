@@ -1,14 +1,14 @@
 ---
-title: Class ET
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ET 类。表示操作符 ET 文本块结束
+title: "类 ET"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.ET 类。表示运算符 ET（文本块结束）的类"
 type: docs
-weight: 7340
+weight: 7480
 url: /zh/net/aspose.pdf.operators/et/
 ---
-## ET 类
+## ET class
 
-表示操作符 ET（文本块结束）。
+表示运算符 ET（文本块结束）的类。
 
 ```csharp
 public class ET : BlockTextOperator
@@ -31,11 +31,13 @@ public class ET : BlockTextOperator
 | 名称 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | 接受访问者对象以处理操作符。 |
-| override [ToString](../../aspose.pdf.operators/et/tostring/)() | 生成操作符的文本代码。 |
+| override [ToString](../../aspose.pdf.operators/et/tostring/)() | 生成运算符的文本代码。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [BlockTextOperator](../blocktextoperator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [BlockTextOperator](../blocktextoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

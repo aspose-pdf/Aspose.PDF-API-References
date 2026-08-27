@@ -1,12 +1,12 @@
 ---
-title: IChatClient1.GetChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: IChatClient 方法。获取具有指定选项的 IChatCopilot 实例
+title: "IChatClient1.GetChatCopilot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IChatClient 方法。获取具有指定选项的 IChatCopilot 实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/ichatclient-1/getchatcopilot/
 ---
-## IChatClient&lt;TOptions&gt;.GetChatCopilot 方法
+## IChatClient&lt;TOptions&gt;.GetChatCopilot method
 
 获取具有指定选项的 [`IChatCopilot`](../../ichatcopilot/) 实例。
 
@@ -16,16 +16,18 @@ public IChatCopilot GetChatCopilot(IChatCopilotOptions<TOptions> options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | IChatCopilotOptions`1 | 聊天助手的选项。 |
+| options | IChatCopilotOptions`1 | 聊天副驾驶的选项。 |
 
 ### 返回值
 
-一个 [`IChatCopilot`](../../ichatcopilot/) 实例。
+[`IChatCopilot`](../../ichatcopilot/) 的实例。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IChatCopilot](../../ichatcopilot/)
-* 接口 [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* 接口 [IChatClient&lt;TOptions&gt;](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IChatCopilot](../../ichatcopilot/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* interface [IChatClient&lt;TOptions&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

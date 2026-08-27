@@ -1,12 +1,12 @@
 ---
-title: PrintController.PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController 构造函数。默认构造函数
+title: "PrintController.PrintController"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PrintController 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/printcontroller/printcontroller/
 ---
-## PrintController 构造函数
+## PrintController constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/printcontroller/printcontroller/
 public PrintController()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [PrintController](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

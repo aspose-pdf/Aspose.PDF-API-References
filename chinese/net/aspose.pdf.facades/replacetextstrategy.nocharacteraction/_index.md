@@ -1,14 +1,14 @@
 ---
-title: Enum ReplaceTextStrategy.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction 枚举。如果字体不包含所需字符，则执行的操作
+title: "枚举 ReplaceTextStrategy.NoCharacterAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction enum. 当字体不包含所需字符时执行的操作"
 type: docs
-weight: 4680
+weight: 4800
 url: /zh/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
 ---
-## ReplaceTextStrategy.NoCharacterAction 枚举
+## ReplaceTextStrategy.NoCharacterAction enumeration
 
-如果字体不包含所需字符，则执行的操作
+当字体不包含所需字符时执行的操作
 
 ```csharp
 public enum NoCharacterAction
@@ -20,10 +20,12 @@ public enum NoCharacterAction
 | --- | --- | --- |
 | ThrowException | `0` | 抛出异常 |
 | UseStandardFont | `1` | 将字体替换为包含所需字符的标准字体 |
-| ReplaceAnyway | `2` | 无论如何替换文本而不进行字体替换 |
+| ReplaceAnyway | `2` | 仍然替换文本而不进行字体替换 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ReplaceTextStrategy](../replacetextstrategy/)
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

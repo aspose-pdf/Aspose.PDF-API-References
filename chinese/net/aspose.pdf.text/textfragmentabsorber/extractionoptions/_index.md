@@ -1,12 +1,12 @@
 ---
-title: TextFragmentAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber 属性。获取或设置文本提取选项
+title: "TextFragmentAbsorber.ExtractionOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentAbsorber 属性。获取或设置文本提取选项。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/extractionoptions/
 ---
-## TextFragmentAbsorber.ExtractionOptions 属性
+## TextFragmentAbsorber.ExtractionOptions property
 
 获取或设置文本提取选项。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.text/textfragmentabsorber/extractionoptions/
 public override TextExtractionOptions ExtractionOptions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextExtractionOptions](../../textextractionoptions/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

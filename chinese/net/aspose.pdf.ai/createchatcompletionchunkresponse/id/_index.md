@@ -1,12 +1,12 @@
 ---
-title: CreateChatCompletionChunkResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: CreateChatCompletionChunkResponse 属性。获取或设置聊天完成的唯一标识符。每个块具有相同的 ID
+title: "CreateChatCompletionChunkResponse.Id"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CreateChatCompletionChunkResponse 属性。获取或设置聊天完成的唯一标识符。每个块具有相同的 ID"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/createchatcompletionchunkresponse/id/
 ---
-## CreateChatCompletionChunkResponse.Id 属性
+## CreateChatCompletionChunkResponse.Id property
 
 获取或设置聊天完成的唯一标识符。每个块具有相同的 ID。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/createchatcompletionchunkresponse/id/
 public string Id { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CreateChatCompletionChunkResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CreateChatCompletionChunkResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

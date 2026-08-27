@@ -1,14 +1,14 @@
 ---
-title: PdfAOptionsBase.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase 方法。将新的数据源添加到集合中
+title: "PdfAOptionsBase.AddInput"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAOptionsBase 方法。向集合添加新的数据源"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.plugins/pdfaoptionsbase/addinput/
 ---
-## PdfAOptionsBase.AddInput 方法
+## PdfAOptionsBase.AddInput method
 
-将新的数据源添加到集合中
+向集合中添加新的数据源。
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -20,7 +20,9 @@ public void AddInput(IDataSource dataSource)
 
 ### 另请参见
 
-* 接口 [IDataSource](../../idatasource/)
-* 类 [PdfAOptionsBase](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

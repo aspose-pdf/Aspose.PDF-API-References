@@ -1,14 +1,14 @@
 ---
-title: Enum TextEditOptions.ClippingPathsProcessingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode 枚举。剪切路径处理模式
+title: "枚举 TextEditOptions.ClippingPathsProcessingMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode 枚举。裁剪路径处理模式"
 type: docs
-weight: 10830
+weight: 11010
 url: /zh/net/aspose.pdf.text/texteditoptions.clippingpathsprocessingmode/
 ---
-## TextEditOptions.ClippingPathsProcessingMode 枚举
+## TextEditOptions.ClippingPathsProcessingMode enumeration
 
-剪切路径处理模式
+裁剪路径处理模式
 
 ```csharp
 public enum ClippingPathsProcessingMode
@@ -18,12 +18,14 @@ public enum ClippingPathsProcessingMode
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| KeepIntact | `0` | 保持原始页面布局的剪切路径。（默认） |
-| Expand | `1` | 在编辑文本需要更多空间的情况下，原始剪切路径将被扩展。 |
-| Remove | `2` | 在编辑文本需要更多空间的情况下，原始剪切路径将被移除。注意：由于剪切路径可能相互影响，移除它可能导致页面布局出现意外结果。 |
+| KeepIntact | `0` | 保留原始页面布局的裁剪路径。（默认） |
+| Expand | `1` | 如果编辑文本需要更多空间，原始裁剪路径将被扩展。 |
+| Remove | `2` | 如果编辑后的文本需要更多空间，原始裁剪路径将被移除。注意：由于裁剪路径可能相互作用，移除它可能导致页面布局出现意外结果。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextEditOptions](../texteditoptions/)
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* class [TextEditOptions](../texteditoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: 页面属性。获取页面内容流中的操作符集合。操作符集合
+title: "Page.Contents"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 属性。获取页面内容流中操作符的集合。OperatorCollection"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/page/contents/
 ---
-## 页面.内容属性
+## Page.Contents property
 
-获取页面内容流中的操作符集合。 [`操作符集合`](../../operatorcollection/)
+获取页面内容流中操作符的集合。 [`OperatorCollection`](../../operatorcollection/)
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -27,9 +27,11 @@ foreach(Operator op in contents)
 }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [操作符集合](../../operatorcollection/)
-* 类 [页面](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

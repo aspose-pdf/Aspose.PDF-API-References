@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary 属性。获取一个值，指示 CosPdfDictionary 是否为只读
+title: "CosPdfDictionary.IsReadOnly"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfDictionary 属性。获取一个值，指示 CosPdfDictionary 是否为只读"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.dataeditor/cospdfdictionary/isreadonly/
 ---
-## CosPdfDictionary.IsReadOnly 属性
+## CosPdfDictionary.IsReadOnly property
 
 获取一个值，指示 [`CosPdfDictionary`](../) 是否为只读。
 
@@ -18,8 +18,10 @@ public bool IsReadOnly { get; }
 
 如果 [`CosPdfDictionary`](../) 为只读，则为 true；否则为 false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfDictionary](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

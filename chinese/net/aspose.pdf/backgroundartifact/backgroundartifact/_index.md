@@ -1,12 +1,12 @@
 ---
-title: BackgroundArtifact.BackgroundArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: BackgroundArtifact 构造函数。初始化 BackgroundArtifact 对象
+title: "BackgroundArtifact.BackgroundArtifact"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BackgroundArtifact 构造函数。初始化 BackgroundArtifact 对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/backgroundartifact/backgroundartifact/
 ---
-## BackgroundArtifact 构造函数
+## BackgroundArtifact constructor
 
 初始化 BackgroundArtifact 对象。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/backgroundartifact/backgroundartifact/
 public BackgroundArtifact()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BackgroundArtifact](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BackgroundArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

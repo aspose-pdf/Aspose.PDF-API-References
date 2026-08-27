@@ -1,12 +1,12 @@
 ---
-title: Border.Style
-second_title: Aspose.PDF for .NET API Reference
-description: 边框属性。获取或设置边框样式
+title: "Border.Style"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Border 属性。获取或设置边框样式"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/border/style/
 ---
-## Border.Style 属性
+## Border.Style property
 
 获取或设置边框样式。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.annotations/border/style/
 public BorderStyle Style { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [BorderStyle](../../borderstyle/)
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

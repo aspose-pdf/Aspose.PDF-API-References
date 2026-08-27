@@ -1,12 +1,12 @@
 ---
-title: CosPdfNumber.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber 方法。返回一个表示当前 CosPdfNumber 的字符串
+title: "CosPdfNumber.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfNumber 方法。返回表示当前 CosPdfNumber 的字符串"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.dataeditor/cospdfnumber/tostring/
 ---
-## CosPdfNumber.ToString 方法
+## CosPdfNumber.ToString method
 
 返回一个表示当前 [`CosPdfNumber`](../) 的字符串。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 一个表示当前 [`CosPdfNumber`](../) 的字符串。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfNumber](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

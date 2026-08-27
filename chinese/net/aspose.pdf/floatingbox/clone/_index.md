@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox 方法。克隆一个新的 FloatingBox 对象。浮动框中的段落不会被克隆
+title: "FloatingBox.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FloatingBox 方法。克隆一个新的 FloatingBox 对象。浮动框中的段落不会被克隆"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/floatingbox/clone/
 ---
-## FloatingBox.Clone 方法
+## FloatingBox.Clone method
 
 克隆一个新的 [`FloatingBox`](../) 对象。浮动框中的段落不会被克隆。
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 新的 [`FloatingBox`](../) 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FloatingBox](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

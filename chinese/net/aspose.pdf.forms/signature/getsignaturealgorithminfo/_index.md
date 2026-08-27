@@ -1,14 +1,14 @@
 ---
-title: Signature.GetSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: 签名方法。检索有关签名中使用的签名算法的信息
+title: "Signature.GetSignatureAlgorithmInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Signature 方法。检索签名中使用的签名算法的信息"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 ---
-## Signature.GetSignatureAlgorithmInfo 方法
+## Signature.GetSignatureAlgorithmInfo method
 
-检索有关签名中使用的签名算法的信息。
+检索关于签名中使用的签名算法的信息。
 
 ```csharp
 public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
@@ -20,7 +20,9 @@ public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
 
 ### 另请参见
 
-* 类 [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
-* 类 [Signature](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

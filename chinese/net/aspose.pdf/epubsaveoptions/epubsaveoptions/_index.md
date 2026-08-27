@@ -1,12 +1,12 @@
 ---
-title: EpubSaveOptions.EpubSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: EpubSaveOptions 构造函数。默认构造函数
+title: "EpubSaveOptions.EpubSaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EpubSaveOptions 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/epubsaveoptions/epubsaveoptions/
 ---
-## EpubSaveOptions 构造函数
+## EpubSaveOptions constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public EpubSaveOptions()
 * class [EpubSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

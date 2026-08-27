@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CreateComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer 方法。获取比较统计信息
+title: "TextPdfComparer.CreateComparisonStatistics"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextPdfComparer 方法。获取比较统计信息"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/
@@ -16,13 +16,13 @@ public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffO
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| diffs | List`1 | 变更列表。 |
+| 差异 | List`1 | 更改列表。 |
 
 ### 返回值
 
 统计信息。
 
-### 另请参阅
+### 另请参见
 
 * class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
 * class [DiffOperation](../../diffoperation/)
@@ -43,16 +43,18 @@ public static DocumentComparisonStatistics CreateComparisonStatistics(
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| diffs | List`1 | 变更列表。 |
+| 差异 | List`1 | 更改列表。 |
 
 ### 返回值
 
 统计信息。
 
-### 另请参阅
+### 另请参见
 
 * class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
 * class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

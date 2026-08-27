@@ -1,12 +1,12 @@
 ---
-title: Class Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Hyperparameters 类。表示用于微调作业的超参数
+title: "类 Hyperparameters"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.Hyperparameters 类。表示用于微调作业的超参数"
 type: docs
-weight: 430
+weight: 450
 url: /zh/net/aspose.pdf.ai/hyperparameters/
 ---
-## 超参数类
+## Hyperparameters class
 
 表示用于微调作业的超参数。
 
@@ -26,7 +26,9 @@ public class Hyperparameters
 | --- | --- |
 | [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | 获取或设置每个批次中的示例数量。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Form.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: 表单属性。如果对象是线程安全的，则返回 true
+title: "Form.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 属性。如果对象是线程安全的，则返回 true"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.pdf.forms/form/issynchronized/
 ---
-## Form.IsSynchronized 属性
+## Form.IsSynchronized property
 
 如果对象是线程安全的，则返回 true。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/form/issynchronized/
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

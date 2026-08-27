@@ -1,25 +1,27 @@
 ---
-title: SetColorStroke.G
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke 属性。获取或设置绿色组件
+title: "SetColorStroke.G"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetColorStroke 属性。获取或设置绿色分量"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.operators/setcolorstroke/g/
 ---
-## SetColorStroke.G 属性
+## SetColorStroke.G property
 
-获取或设置绿色组件。
+获取或设置绿色分量。
 
 ```csharp
 public double G { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-绿色的级别从 0.0 到 1.0
+绿色的水平范围为 0.0 到 1.0
 
-### 另请参阅
+### 另请参见
 
-* 类 [SetColorStroke](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

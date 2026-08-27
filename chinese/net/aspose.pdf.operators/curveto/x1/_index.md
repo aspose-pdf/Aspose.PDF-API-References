@@ -1,12 +1,12 @@
 ---
-title: CurveTo.X1
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo 字段。获取或设置 X1 坐标
+title: "CurveTo.X1"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CurveTo 字段。获取或设置 X1 坐标"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/curveto/x1/
 ---
-## CurveTo.X1 字段
+## CurveTo.X1 field
 
 获取或设置 X1 坐标。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/curveto/x1/
 public double X1;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CurveTo](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

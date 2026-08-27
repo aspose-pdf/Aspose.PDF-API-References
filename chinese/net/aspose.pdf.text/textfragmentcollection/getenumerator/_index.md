@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection 方法。返回整个集合的枚举器
+title: "TextFragmentCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentCollection 方法。返回整个集合的枚举器"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.text/textfragmentcollection/getenumerator/
 ---
-## TextFragmentCollection.GetEnumerator 方法
+## TextFragmentCollection.GetEnumerator method
 
 返回整个集合的枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<TextFragment> GetEnumerator()
 
 枚举器对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragment](../../textfragment/)
-* 类 [TextFragmentCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.NamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 属性。获取命名空间 URI
+title: "XmpPdfAExtensionValueType.NamespaceUri"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionValueType 属性。获取命名空间 URI"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/
 ---
-## XmpPdfAExtensionValueType.NamespaceUri 属性
+## XmpPdfAExtensionValueType.NamespaceUri property
 
 获取命名空间 URI。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/
 public string NamespaceUri { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionValueType](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

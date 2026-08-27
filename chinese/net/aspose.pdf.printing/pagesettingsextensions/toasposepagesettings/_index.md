@@ -1,14 +1,14 @@
 ---
-title: PageSettingsExtensions.ToAsposePageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettingsExtensions 方法。将特定于 Windows 的 System.Drawing.Printing.PageSettings 转换为 PageSettings
+title: "PageSettingsExtensions.ToAsposePageSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSettingsExtensions 方法。将 Windows 特定的 System.Drawing.Printing.PageSettings 转换为 PageSettings"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/
 ---
-## PageSettingsExtensions.ToAsposePageSettings 方法
+## PageSettingsExtensions.ToAsposePageSettings method
 
-将特定于 Windows 的 System.Drawing.Printing.PageSettings 转换为 [`PageSettings`](../../pagesettings/)。
+将 Windows 特定的 System.Drawing.Printing.PageSettings 转换为 [`PageSettings`](../../pagesettings/)。
 
 ```csharp
 public static PageSettings ToAsposePageSettings(this PageSettings nativeSettings)
@@ -20,11 +20,13 @@ public static PageSettings ToAsposePageSettings(this PageSettings nativeSettings
 
 ### 返回值
 
-转换后的页面设置。
+已转换的页面设置。
 
-### 另见
+### 另请参见
 
-* 类 [PageSettings](../../pagesettings/)
-* 类 [PageSettingsExtensions](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSettings](../../pagesettings/)
+* class [PageSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

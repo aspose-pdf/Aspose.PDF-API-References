@@ -1,12 +1,12 @@
 ---
-title: PageDate.MonthComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: MonthComponent 方法。获取月份组件的格式字符串
+title: "PageDate.MonthComponent.GetFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MonthComponent 方法。获取月份组件的格式字符串。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pagedate.monthcomponent/getformat/
 ---
-## PageDate.MonthComponent.GetFormat 方法
+## PageDate.MonthComponent.GetFormat method
 
 获取月份组件的格式字符串。
 
@@ -16,10 +16,12 @@ public string GetFormat()
 
 ### 返回值
 
-一个表示月份格式的字符串。
+表示月份格式的字符串。
 
-### 另请参阅
+### 另请参见
 
-* 类 [MonthComponent](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MonthComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

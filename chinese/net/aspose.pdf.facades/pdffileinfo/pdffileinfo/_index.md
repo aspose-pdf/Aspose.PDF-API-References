@@ -1,7 +1,7 @@
 ---
-title: PdfFileInfo.PdfFileInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 构造函数。使用默认值初始化 Aspose.Pdf.Facades.PdfFileInfo 类的新实例
+title: "PdfFileInfo.PdfFileInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileInfo 构造函数。使用默认值初始化 Aspose.Pdf.Facades.PdfFileInfo 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/
 public PdfFileInfo()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,13 +32,13 @@ public PdfFileInfo(Stream inputStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入文件所在的流。 |
+| inputStream | Stream | 放置输入文件的流。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,18 +52,42 @@ public PdfFileInfo(Stream inputStream, string password)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入文件所在的流。 |
+| inputStream | Stream | 放置输入文件的流。 |
 | password | String | 访问文件的密码。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string) {#constructor_4}
+## PdfFileInfo(Stream, string, ICustomSecurityHandler) {#constructor_4}
+
+初始化 Aspose.Pdf.Facades.PdfFileInfo 类的新实例。
+
+```csharp
+public PdfFileInfo(Stream inputStream, string password, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| inputStream | Stream | 放置输入文件的流。 |
+| password | String | 访问文件的密码。 |
+| customSecurityHandler | ICustomSecurityHandler | 自定义安全处理程序。 |
+
+### 另请参见
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string) {#constructor_5}
 
 初始化 Aspose.Pdf.Facades.PdfFileInfo 类的新实例。
 
@@ -75,15 +99,15 @@ public PdfFileInfo(string inputFile)
 | --- | --- | --- |
 | inputFile | String | 包含输入文件的文件名。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string, string) {#constructor_5}
+## PdfFileInfo(string, string) {#constructor_6}
 
 初始化 Aspose.Pdf.Facades.PdfFileInfo 类的新实例。
 
@@ -96,11 +120,34 @@ public PdfFileInfo(string inputFile, string password)
 | inputFile | String | 包含输入文件的文件名。 |
 | password | String | 访问文件的密码。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string, string, ICustomSecurityHandler) {#constructor_7}
+
+初始化 Aspose.Pdf.Facades.PdfFileInfo 类的新实例。
+
+```csharp
+public PdfFileInfo(string inputFile, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| inputFile | String | 包含输入文件的文件名。 |
+| password | String | 访问文件的密码。 |
+| customSecurityHandler | ICustomSecurityHandler | 自定义安全处理程序。 |
+
+### 另请参见
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -114,11 +161,13 @@ public PdfFileInfo(Document document)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| 文档 | Document | Pdf 文档。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../../../aspose.pdf/document/)
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

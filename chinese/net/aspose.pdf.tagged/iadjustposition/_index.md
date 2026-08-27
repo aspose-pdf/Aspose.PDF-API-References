@@ -1,14 +1,14 @@
 ---
-title: Interface IAdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged.IAdjustPosition 接口。用于定位方法的接口
+title: "接口 IAdjustPosition"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Tagged.IAdjustPosition 接口。用于定位方法的接口"
 type: docs
-weight: 10300
+weight: 10480
 url: /zh/net/aspose.pdf.tagged/iadjustposition/
 ---
-## IAdjustPosition 接口
+## IAdjustPosition interface
 
-用于定位方法的接口。
+定位方法的接口。
 
 ```csharp
 public interface IAdjustPosition
@@ -20,7 +20,9 @@ public interface IAdjustPosition
 | --- | --- |
 | [AdjustPosition](../../aspose.pdf.tagged/iadjustposition/adjustposition/)(PositionSettings) | 调整位置。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Option.Index
-second_title: Aspose.PDF for .NET API Reference
-description: 选项属性。获取选项的索引
+title: "Option.Index"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Option 属性。获取选项的索引"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/option/index/
 ---
-## Option.Index 属性
+## Option.Index property
 
 获取选项的索引。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/option/index/
 public int Index { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Option](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Option](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

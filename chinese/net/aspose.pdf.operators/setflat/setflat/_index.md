@@ -1,12 +1,12 @@
 ---
-title: SetFlat.SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: SetFlat 构造函数。初始化操作符
+title: "SetFlat.SetFlat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetFlat 构造函数。初始化运算符。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setflat/setflat/
 ---
-## SetFlat 构造函数
+## SetFlat constructor
 
 初始化操作符。
 
@@ -16,10 +16,12 @@ public SetFlat(double flatness)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| flatness | Double | 平坦度的值。 |
+| flatness | Double | 平滑度的值。 |
 
-### 另见
+### 另请参见
 
-* 类 [SetFlat](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

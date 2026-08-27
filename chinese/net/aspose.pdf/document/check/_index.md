@@ -1,12 +1,12 @@
 ---
-title: Document.Check
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。验证文档
+title: "Document.Check"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。验证文档"
 type: docs
-weight: 570
+weight: 590
 url: /zh/net/aspose.pdf/document/check/
 ---
-## Document.Check 方法
+## Document.Check method
 
 验证文档。
 
@@ -16,14 +16,16 @@ public bool Check(bool doRepair)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| doRepair | 布尔值 | 如果为真，发现的问题将被修复。 |
+| doRepair | Boolean | 如果为 true，将修复发现的问题。 |
 
 ### 返回值
 
-如果文档被修复，则为真；否则，为假。
+True - 如果文档已修复；否则为 false。
 
-### 另见
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

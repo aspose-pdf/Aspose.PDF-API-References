@@ -1,14 +1,14 @@
 ---
-title: Class MessageContentResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageContentResponse 类。响应消息的内容为文本和/或图像的数组
+title: "类 MessageContentResponse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.MessageContentResponse 类。响应消息的内容，以文本和/或图像数组的形式呈现。"
 type: docs
-weight: 790
+weight: 840
 url: /zh/net/aspose.pdf.ai/messagecontentresponse/
 ---
-## MessageContentResponse 类
+## MessageContentResponse class
 
-响应消息的内容为文本和/或图像的数组。
+响应消息的内容，以文本和/或图像的数组形式呈现。
 
 ```csharp
 public class MessageContentResponse : MessageContentBase
@@ -26,11 +26,13 @@ public class MessageContentResponse : MessageContentBase
 | --- | --- |
 | [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | 获取或设置消息内容中的图像文件。 |
 | [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | 获取或设置消息内容中的图像 URL。 |
-| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | 获取或设置内容的类型。 |
-| [Text](../../aspose.pdf.ai/messagecontentresponse/text/) { get; set; } | 获取或设置消息的一部分的文本内容。 |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | 获取或设置内容类型。 |
+| [Text](../../aspose.pdf.ai/messagecontentresponse/text/) { get; set; } | 获取或设置消息中包含的文本内容。 |
 
-### 另见
+### 另请参见
 
-* 类 [MessageContentBase](../messagecontentbase/)
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* class [MessageContentBase](../messagecontentbase/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

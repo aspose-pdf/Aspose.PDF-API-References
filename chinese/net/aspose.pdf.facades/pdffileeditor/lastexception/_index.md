@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.LastException
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 属性。获取最后发生的异常。可用于检查失败的原因
+title: "PdfFileEditor.LastException"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 属性。获取最近发生的异常。可用于检查失败原因。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.facades/pdffileeditor/lastexception/
 ---
-## PdfFileEditor.LastException 属性
+## PdfFileEditor.LastException property
 
-获取最后发生的异常。可用于检查失败的原因。
+获取最近发生的异常。可用于检查失败原因。
 
 ```csharp
 public Exception LastException { get; }
@@ -30,8 +30,10 @@ if (!pfe.TryConcatenate("file1.pdf", "file2.pdf", "file3.pdf"))
 }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: 矩形构造函数。矩形的构造函数
+title: "Rectangle.Rectangle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 构造函数。Rectangle 的构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/rectangle/rectangle/
 ---
-## 矩形构造函数
+## Rectangle constructor
 
-矩形的构造函数。
+Rectangle 的构造函数。
 
 ```csharp
 public Rectangle(double llx, double lly, double urx, double ury, bool normalizeCoordinates = true)
@@ -22,8 +22,10 @@ public Rectangle(double llx, double lly, double urx, double ury, bool normalizeC
 | ury | Double | 右上角的 Y 坐标。 |
 | normalizeCoordinates | Boolean | 规范化矩形的坐标。 |
 
-### 另见
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

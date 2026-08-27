@@ -1,14 +1,14 @@
 ---
-title: Class TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.TextResponse 类。表示消息中包含的文本内容
+title: "类 TextResponse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.TextResponse 类。表示消息中包含的文本内容"
 type: docs
-weight: 1100
+weight: 1190
 url: /zh/net/aspose.pdf.ai/textresponse/
 ---
-## TextResponse 类
+## TextResponse class
 
-表示消息中包含的文本内容。
+表示消息的一部分的文本内容。
 
 ```csharp
 public class TextResponse
@@ -27,7 +27,9 @@ public class TextResponse
 | [Annotations](../../aspose.pdf.ai/textresponse/annotations/) { get; set; } | 获取或设置消息的注释列表。 |
 | [Value](../../aspose.pdf.ai/textresponse/value/) { get; set; } | 获取或设置消息的文本。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

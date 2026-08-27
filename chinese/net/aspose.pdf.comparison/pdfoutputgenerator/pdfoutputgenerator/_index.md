@@ -1,7 +1,7 @@
 ---
-title: PdfOutputGenerator.PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: PdfOutputGenerator 构造函数。创建 PdfOutputGenerator 类的实例
+title: "PdfOutputGenerator.PdfOutputGenerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfOutputGenerator 构造函数。创建 PdfOutputGenerator 类的实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/
 public PdfOutputGenerator()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfOutputGenerator](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,14 +32,14 @@ public PdfOutputGenerator(PageInfo pageInfo)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageInfo | PageInfo | 页面大小和边距设置。 |
+| pageInfo | PageInfo | 页面尺寸和边距设置。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageInfo](../../../aspose.pdf/pageinfo/)
-* 类 [PdfOutputGenerator](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,14 +53,14 @@ public PdfOutputGenerator(OutputTextStyle textStyle)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | 更改文本的样式。 |
+| textStyle | OutputTextStyle | 已更改文本的样式。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutputTextStyle](../../outputtextstyle/)
-* 类 [PdfOutputGenerator](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,13 +74,15 @@ public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | 更改文本的样式。 |
-| pageInfo | PageInfo | 页面大小和边距设置。 |
+| textStyle | OutputTextStyle | 已更改文本的样式。 |
+| pageInfo | PageInfo | 页面尺寸和边距设置。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutputTextStyle](../../outputtextstyle/)
-* 类 [PageInfo](../../../aspose.pdf/pageinfo/)
-* 类 [PdfOutputGenerator](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

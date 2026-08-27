@@ -1,21 +1,23 @@
 ---
-title: XmpValue.IsStructure
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 属性。返回 true 如果 XmpValue 代表结构
+title: "XmpValue.IsStructure"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 属性。返回 true 如果 XmpValue 表示结构"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/xmpvalue/isstructure/
 ---
-## XmpValue.IsStructure 属性
+## XmpValue.IsStructure property
 
-返回 true 如果 XmpValue 代表结构。
+如果 XmpValue 表示结构，则返回 true。
 
 ```csharp
 public bool IsStructure { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

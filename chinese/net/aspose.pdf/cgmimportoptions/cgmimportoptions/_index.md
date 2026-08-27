@@ -1,12 +1,12 @@
 ---
-title: CgmImportOptions.CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CgmImportOptions 构造函数。默认构造函数
+title: "CgmImportOptions.CgmImportOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CgmImportOptions 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 ---
-## CgmImportOptions 构造函数
+## CgmImportOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 public CgmImportOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [CgmImportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

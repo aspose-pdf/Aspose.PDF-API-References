@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement 属性。获取图像的分辨率
+title: "ImagePlacement.Resolution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagePlacement 属性。获取图像的分辨率"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/imageplacement/resolution/
 ---
-## ImagePlacement.Resolution 属性
+## ImagePlacement.Resolution property
 
 获取图像的分辨率。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/imageplacement/resolution/
 public Resolution Resolution { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

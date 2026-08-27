@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection 方法。清除集合中的所有项
+title: "XImageCollection.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XImageCollection 方法。清除集合中的所有项。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/ximagecollection/clear/
 ---
-## XImageCollection.Clear 方法
+## XImageCollection.Clear method
 
 清除集合中的所有项。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/ximagecollection/clear/
 public void Clear()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XImageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

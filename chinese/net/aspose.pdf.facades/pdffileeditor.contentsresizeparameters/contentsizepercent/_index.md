@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSizePercent
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters 方法。创建具有指定内容大小的调整参数，以初始页面大小的百分比表示。边距会自动计算。
+title: "PdfFileEditor.ContentsResizeParameters.ContentSizePercent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ContentsResizeParameters 方法。创建具有指定内容大小（以初始页面尺寸的百分比表示）的调整大小参数。边距会自动计算。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/
 ---
-## PdfFileEditor.ContentsResizeParameters.ContentSizePercent 方法
+## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
-创建具有指定内容大小的调整参数，以初始页面大小的百分比表示。边距会自动计算。
+创建内容尺寸以初始 Page 尺寸百分比指定的调整大小参数。边距会自动计算。
 
 ```csharp
 public static ContentsResizeParameters ContentSizePercent(double width, double height)
@@ -16,15 +16,17 @@ public static ContentsResizeParameters ContentSizePercent(double width, double h
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Double | 新内容宽度的百分比。 |
-| height | Double | 新内容高度的百分比。 |
+| 宽度 | Double | 新内容宽度（百分比）。 |
+| 高度 | Double | 新内容高度（百分比）。 |
 
 ### 返回值
 
-新的调整参数。
+新的调整大小参数。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ContentsResizeParameters](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

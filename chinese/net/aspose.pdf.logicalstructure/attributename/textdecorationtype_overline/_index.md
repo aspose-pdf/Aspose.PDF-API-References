@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextDecorationType_Overline
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 字段。属性 TextDecorationType Overline 一条在文本上方的线
+title: "AttributeName.TextDecorationType_Overline"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeName 字段。属性 TextDecorationType Overline  文本上方的一条线"
 type: docs
 weight: 610
 url: /zh/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/
 ---
-## AttributeName.TextDecorationType_Overline 字段
+## AttributeName.TextDecorationType_Overline field
 
-属性 TextDecorationType: Overline - 一条在文本上方的线。
+属性 TextDecorationType：上划线 - 文本上方有一条线。
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Overline;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeName](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

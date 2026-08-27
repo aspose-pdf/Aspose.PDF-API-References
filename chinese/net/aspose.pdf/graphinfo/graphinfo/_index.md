@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo 构造函数。默认构造函数
+title: "GraphInfo.GraphInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphInfo 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/graphinfo/graphinfo/
 ---
-## GraphInfo 构造函数
+## GraphInfo constructor
 
 默认构造函数。
 
@@ -16,6 +16,8 @@ public GraphInfo()
 
 ### 另请参见
 
-* 类 [GraphInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

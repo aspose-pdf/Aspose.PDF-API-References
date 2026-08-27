@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.ExcludeFontsStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 属性。排除多余字体并减少文档文件大小的策略。仅当标志 [`OptimizeFileSize`](../optimizefilesize/) 设置为 true 时，此参数才有意义。默认情况下使用策略 SubsetFonts 和 RemoveDuplicatedFonts 的组合。
+title: "PdfFormatConversionOptions.ExcludeFontsStrategy"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFormatConversionOptions 属性。用于排除多余字体并减小文档文件大小的策略。仅当 OptimizeFileSize 标志设为 true 时此参数才有意义。默认使用 SubsetFonts 和 RemoveDuplicatedFonts 两种策略的组合"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/excludefontsstrategy/
 ---
-## PdfFormatConversionOptions.ExcludeFontsStrategy 属性
+## PdfFormatConversionOptions.ExcludeFontsStrategy property
 
-排除多余字体并减少文档文件大小的策略。仅当标志 [`OptimizeFileSize`](../optimizefilesize/) 设置为 true 时，此参数才有意义。默认情况下使用策略 SubsetFonts 和 RemoveDuplicatedFonts 的组合。
+排除多余字体并减小文档文件大小的策略。仅当标志 [`OptimizeFileSize`](../optimizefilesize/) 设置为 true 时此参数才有意义。默认使用 SubsetFonts 和 RemoveDuplicatedFonts 组合策略。
 
 ```csharp
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [RemoveFontsStrategy](../../pdfformatconversionoptions.removefontsstrategy/)
-* 类 [PdfFormatConversionOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [RemoveFontsStrategy](../../pdfformatconversionoptions.removefontsstrategy/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

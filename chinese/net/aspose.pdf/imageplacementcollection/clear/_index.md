@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection 方法。清除集合中的所有项
+title: "ImagePlacementCollection.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagePlacementCollection 方法。清除集合中的所有项"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/imageplacementcollection/clear/
 ---
-## ImagePlacementCollection.Clear 方法
+## ImagePlacementCollection.Clear method
 
 清除集合中的所有项。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/imageplacementcollection/clear/
 public void Clear()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImagePlacementCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

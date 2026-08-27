@@ -1,12 +1,12 @@
 ---
-title: Enum ReturnAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ReturnAction 枚举。枚举表示在调用 Warning 方法时的程序工作流操作
+title: "枚举 ReturnAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ReturnAction 枚举。该枚举表示在调用 Warning 方法时的程序工作流操作"
 type: docs
-weight: 9790
+weight: 9940
 url: /zh/net/aspose.pdf/returnaction/
 ---
-## ReturnAction 枚举
+## ReturnAction enumeration
 
 枚举表示在调用 [`Warning`](../iwarningcallback/warning/) 方法时的程序工作流操作。
 
@@ -23,5 +23,7 @@ public enum ReturnAction
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

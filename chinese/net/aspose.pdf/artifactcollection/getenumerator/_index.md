@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection 方法。获取集合的枚举器
+title: "ArtifactCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ArtifactCollection 方法。获取集合的枚举器"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/artifactcollection/getenumerator/
 ---
-## ArtifactCollection.GetEnumerator 方法
+## ArtifactCollection.GetEnumerator method
 
 获取集合的枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<Artifact> GetEnumerator()
 
 枚举器对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Artifact](../../artifact/)
-* 类 [ArtifactCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

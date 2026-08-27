@@ -1,12 +1,12 @@
 ---
-title: Class FormEditorAddOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditorAddOptions 类。表示通过 FormEditor 插件向文档添加字段的选项
+title: "类 FormEditorAddOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FormEditorAddOptions 类。表示通过 FormEditor 插件向文档添加字段的选项"
 type: docs
-weight: 8630
+weight: 8760
 url: /zh/net/aspose.pdf.plugins/formeditoraddoptions/
 ---
-## FormEditorAddOptions 类
+## FormEditorAddOptions class
 
 表示通过 [`FormEditor`](../formeditor/) 插件向文档添加字段的选项。
 
@@ -24,18 +24,20 @@ public sealed class FormEditorAddOptions : FormEditorOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | 返回 Form.... 插件数据集合。 |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 获取用于保存操作结果的添加目标集合。 |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | 返回 Form.... 插件的数据集合。 |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 获取已添加目标的集合，用于保存操作结果。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | 将新的数据源添加到 Form... 插件数据集合。 |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | 将新的数据源添加到 Form... 插件数据集合。 |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | 向 Form... 插件的数据集合添加新数据源。 |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | 向 Form... 插件的数据集合添加新数据源。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditorOptions](../formeditoroptions/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* class [FormEditorOptions](../formeditoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

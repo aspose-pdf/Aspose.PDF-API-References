@@ -1,14 +1,14 @@
 ---
-title: DocumentDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentDevice 方法。每个设备代表对文档的某种操作，例如，我们可以将 PDF 文档转换为另一种格式
+title: "DocumentDevice.Process"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocumentDevice 方法。每个设备表示对 document 的某种操作，例如我们可以将 pdf document 转换为其他格式。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/documentdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-每个设备代表对文档的某种操作，例如，我们可以将 PDF 文档转换为另一种格式。
+每个设备表示对文档的某些操作，例如我们可以将 pdf 文档转换为其他格式。
 
 ```csharp
 public abstract void Process(Document document, int fromPage, int toPage, Stream output)
@@ -16,12 +16,12 @@ public abstract void Process(Document document, int fromPage, int toPage, Stream
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 要处理的文档。 |
+| 文档 | Document | 要处理的 document。 |
 | fromPage | Int32 | 定义开始处理的页面。 |
 | toPage | Int32 | 定义要处理的最后一页。 |
 | output | Stream | 定义存储处理结果的流。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
@@ -40,10 +40,10 @@ public void Process(Document document, Stream output)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 要处理的文档。 |
+| 文档 | Document | 要处理的 document。 |
 | output | Stream | 定义存储处理结果的流。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
@@ -62,10 +62,10 @@ public void Process(Document document, string outputFileName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 要处理的文档。 |
+| 文档 | Document | 要处理的 document。 |
 | outputFileName | String | 定义存储处理结果的文件。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
@@ -84,14 +84,16 @@ public void Process(Document document, int fromPage, int toPage, string outputFi
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 要处理的文档。 |
-| fromPage | Int32 | 开始处理的第一页。 |
+| 文档 | Document | 要处理的 document。 |
+| fromPage | Int32 | 要开始处理的第一页。 |
 | toPage | Int32 | 处理的最后一页。 |
 | outputFileName | String | 定义存储处理结果的文件。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

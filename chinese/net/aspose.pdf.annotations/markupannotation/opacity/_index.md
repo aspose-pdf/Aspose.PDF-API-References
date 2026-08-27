@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation 属性。获取或设置用于绘制注释的常量不透明度值
+title: "MarkupAnnotation.Opacity"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkupAnnotation 属性。获取或设置用于绘制注释的固定不透明度值"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/markupannotation/opacity/
 ---
-## MarkupAnnotation.Opacity 属性
+## MarkupAnnotation.Opacity property
 
-获取或设置用于绘制注释的常量不透明度值。
+获取或设置用于绘制注释的固定不透明度值。
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarkupAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

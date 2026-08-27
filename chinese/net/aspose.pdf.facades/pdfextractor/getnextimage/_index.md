@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 方法。 从 PDF 文档中检索下一个图像。 注意：必须在使用此方法之前调用 ExtractImage
+title: "PdfExtractor.GetNextImage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractor 方法。从 PDF 文档中检索下一张图像。注意，必须先调用 ExtractImage 才能使用此方法"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-从 PDF 文档中检索下一个图像。 注意：必须在使用此方法之前调用 ExtractImage。
+检索 PDF 文档中的下一张图像。注意：在使用此方法之前必须先调用 ExtractImage。
 
 ```csharp
 public bool GetNextImage(string outputFile)
@@ -16,11 +16,11 @@ public bool GetNextImage(string outputFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFile | 字符串 | 存储图像的文件 |
+| outputFile | String | 存放图像的文件 |
 
 ### 返回值
 
-如果图像成功提取，则返回 true
+如果图像成功提取则返回 true
 
 ## 示例
 
@@ -35,17 +35,17 @@ while (extractor.HasNextImage())
 }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-使用给定的图像格式从 PDF 文档中检索下一个图像。 注意：必须在使用此方法之前调用 ExtractImage。
+检索 PDF 文档中的下一张图像并使用给定的图像格式。注意：在使用此方法之前必须先调用 ExtractImage。
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
@@ -53,24 +53,24 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFile | 字符串 | 存储图像的文件 |
-| format | ImageFormat | 图像的格式。 |
+| outputFile | String | 存放图像的文件 |
+| 格式 | ImageFormat | 图像的格式。 |
 
 ### 返回值
 
-如果图像成功提取，则返回 true
+如果图像成功提取则返回 true
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
 
-从 PDF 文件中检索下一个图像，并将其存储到具有给定图像格式的流中。
+检索 PDF 文件中的下一张图像并使用给定的图像格式将其存入流中。
 
 ```csharp
 public bool GetNextImage(Stream outputStream, ImageFormat format)
@@ -78,24 +78,24 @@ public bool GetNextImage(Stream outputStream, ImageFormat format)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | 流 | 将保存图像数据的流 |
-| format | ImageFormat | 图像的格式。 |
+| outputStream | Stream | 保存图像数据的流 |
+| 格式 | ImageFormat | 图像的格式。 |
 
 ### 返回值
 
-如果图像成功提取，则返回 true。
+如果图像成功提取则返回 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream) {#getnextimage}
 
-从 PDF 文件中检索下一个图像，并将其存储到流中。
+检索 PDF 文件中的下一张图像并将其存入流中。
 
 ```csharp
 public bool GetNextImage(Stream outputStream)
@@ -103,14 +103,16 @@ public bool GetNextImage(Stream outputStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | 流 | 将保存图像数据的流 |
+| outputStream | Stream | 保存图像数据的流 |
 
 ### 返回值
 
-如果图像成功提取，则返回 true。
+如果图像成功提取则返回 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

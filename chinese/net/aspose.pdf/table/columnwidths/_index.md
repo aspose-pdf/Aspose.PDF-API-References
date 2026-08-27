@@ -1,21 +1,23 @@
 ---
-title: Table.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: 表属性。获取表的列宽
+title: "Table.ColumnWidths"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Table 属性。获取表的列宽。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/table/columnwidths/
 ---
-## 表.列宽属性
+## Table.ColumnWidths property
 
-获取表的列宽。
+获取表格的列宽。
 
 ```csharp
 public string ColumnWidths { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Table](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

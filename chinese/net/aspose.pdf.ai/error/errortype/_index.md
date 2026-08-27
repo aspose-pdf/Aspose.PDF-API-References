@@ -1,12 +1,12 @@
 ---
-title: Error.ErrorType
-second_title: Aspose.PDF for .NET API Reference
-description: 错误属性。获取或设置错误类型
+title: "Error.ErrorType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Error 属性。获取或设置错误类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/error/errortype/
 ---
-## Error.ErrorType 属性
+## Error.ErrorType property
 
 获取或设置错误类型。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/error/errortype/
 public string ErrorType { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Error](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

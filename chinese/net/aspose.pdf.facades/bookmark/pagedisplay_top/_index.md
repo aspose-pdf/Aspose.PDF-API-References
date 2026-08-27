@@ -1,12 +1,12 @@
 ---
-title: Bookmark.PageDisplay_Top
-second_title: Aspose.PDF for .NET API Reference
-description: 书签属性。获取或设置页面显示的顶部坐标
+title: "Bookmark.PageDisplay_Top"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Bookmark 属性。获取或设置页面显示的顶部坐标"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/bookmark/pagedisplay_top/
 ---
-## Bookmark.PageDisplay_Top 属性
+## Bookmark.PageDisplay_Top property
 
 获取或设置页面显示的顶部坐标。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/bookmark/pagedisplay_top/
 public int PageDisplay_Top { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Bookmark](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

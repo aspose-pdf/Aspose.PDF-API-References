@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsDouble
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 属性。如果值是浮点值，则返回 true
+title: "XmpValue.IsDouble"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 属性。返回 true 如果值是浮点数"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/xmpvalue/isdouble/
 ---
-## XmpValue.IsDouble 属性
+## XmpValue.IsDouble property
 
 如果值是浮点值，则返回 true。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmpvalue/isdouble/
 public bool IsDouble { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

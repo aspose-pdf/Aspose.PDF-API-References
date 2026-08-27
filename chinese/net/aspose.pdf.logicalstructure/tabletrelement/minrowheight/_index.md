@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement 属性。获取行的高度
+title: "TableTRElement.MinRowHeight"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableTRElement 属性。获取行的高度"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 ---
-## TableTRElement.MinRowHeight 属性
+## TableTRElement.MinRowHeight property
 
 获取行的高度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 public double MinRowHeight { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableTRElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

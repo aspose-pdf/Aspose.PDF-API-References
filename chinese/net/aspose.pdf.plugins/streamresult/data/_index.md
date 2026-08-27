@@ -1,12 +1,12 @@
 ---
-title: StreamResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: StreamResult 属性。获取原始数据
+title: "StreamResult.Data"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StreamResult 属性。获取原始数据"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/streamresult/data/
 ---
-## StreamResult.Data 属性
+## StreamResult.Data property
 
 获取原始数据。
 
@@ -16,10 +16,12 @@ public object Data { get; }
 
 ### 返回值
 
-一个 `object` 表示输出数据。
+表示输出数据的 `object`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StreamResult](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StreamResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

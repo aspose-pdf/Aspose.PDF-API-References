@@ -1,22 +1,24 @@
 ---
-title: Form.Type
-second_title: Aspose.PDF for .NET API Reference
-description: 表单属性。获取表单的类型。可能的值为标准、静态、动态
+title: "Form.Type"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 属性。获取表单的类型。可能的值有 Standard、Static、Dynamic。"
 type: docs
-weight: 160
+weight: 180
 url: /zh/net/aspose.pdf.forms/form/type/
 ---
-## 表单类型属性
+## Form.Type property
 
-获取表单的类型。可能的值为：标准、静态、动态。
+获取表单的类型。可能的值有：Standard、Static、Dynamic。
 
 ```csharp
 public FormType Type { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [FormType](../../formtype/)
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [FormType](../../formtype/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

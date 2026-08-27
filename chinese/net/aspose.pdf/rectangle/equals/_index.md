@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 方法。检查矩形是否相等，即是否具有相同的位置和大小
+title: "Rectangle.Equals"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。检查矩形是否相等，即具有相同的位置和大小"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf/rectangle/equals/
 ---
-## Rectangle.Equals 方法
+## Rectangle.Equals method
 
-检查矩形是否相等，即是否具有相同的位置和大小。
+检查矩形是否相等，即位置和大小相同。
 
 ```csharp
 public bool Equals(Rectangle other)
@@ -20,10 +20,12 @@ public bool Equals(Rectangle other)
 
 ### 返回值
 
-如果矩形相等则为真，否则为假。
+如果矩形相等则为 true，否则为 false。
 
 ### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

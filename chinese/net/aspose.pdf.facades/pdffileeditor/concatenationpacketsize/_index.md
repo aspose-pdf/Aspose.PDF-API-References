@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.ConcatenationPacketSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 属性。在 UseDiskBuffer 设置为 true 时，连接之前合并的文档数量。
+title: "PdfFileEditor.ConcatenationPacketSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 属性。在 UseDiskBuffer 设置为 true 时，在进行新的增量更新之前已串联的文档数量。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/pdffileeditor/concatenationpacketsize/
 ---
-## PdfFileEditor.ConcatenationPacketSize 属性
+## PdfFileEditor.ConcatenationPacketSize property
 
-在 UseDiskBuffer 设置为 true 时，连接之前合并的文档数量。
+当 UseDiskBuffer 设置为 true 时，在进行合并期间，在进行新的增量更新之前已合并的文档数量。
 
 ```csharp
 public int ConcatenationPacketSize { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.PeachPuff
-second_title: Aspose.PDF for .NET API Reference
-description: 颜色属性。获取一个具有 ARGB 值 c FFFFDAB9 的系统定义颜色
+title: "Color.PeachPuff"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 属性。获取系统定义的颜色，其 ARGB 值为 c FFFFDAB9"
 type: docs
 weight: 1090
 url: /zh/net/aspose.pdf/color/peachpuff/
 ---
-## Color.PeachPuff 属性
+## Color.PeachPuff property
 
-获取一个具有 ARGB 值的系统定义颜色 \c \#FFFFDAB9。
+获取系统定义的颜色，其 ARGB 值为 \c \#FFFFDAB9。
 
 ```csharp
 public static Color PeachPuff { get; }
@@ -16,10 +16,12 @@ public static Color PeachPuff { get; }
 
 ### 返回值
 
-表示一个系统定义颜色。
+A 表示系统定义的颜色。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

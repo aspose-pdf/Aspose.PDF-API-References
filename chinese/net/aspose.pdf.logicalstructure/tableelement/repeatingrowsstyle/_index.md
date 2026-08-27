@@ -1,12 +1,12 @@
 ---
-title: TableElement.RepeatingRowsStyle
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement 属性。获取重复行的样式
+title: "TableElement.RepeatingRowsStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableElement 属性。获取重复行的样式。"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle/
 ---
-## TableElement.RepeatingRowsStyle 属性
+## TableElement.RepeatingRowsStyle property
 
 获取重复行的样式。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle/
 public TextState RepeatingRowsStyle { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../../../aspose.pdf.text/textstate/)
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

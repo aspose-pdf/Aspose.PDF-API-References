@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.WithContents
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest 方法。设置线程消息请求的消息内容
+title: "ThreadMessageCreateRequest.WithContents"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ThreadMessageCreateRequest 方法。设置线程消息请求的消息内容"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.ai/threadmessagecreaterequest/withcontents/
 ---
-## ThreadMessageCreateRequest.WithContents 方法
+## ThreadMessageCreateRequest.WithContents method
 
 设置线程消息请求的消息内容。
 
@@ -20,11 +20,13 @@ public ThreadMessageCreateRequest WithContents(List<MessageContentRequest> conte
 
 ### 返回值
 
-当前 [`ThreadMessageCreateRequest`](../) 实例。
+当前的 [`ThreadMessageCreateRequest`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [MessageContentRequest](../../messagecontentrequest/)
-* 类 [ThreadMessageCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

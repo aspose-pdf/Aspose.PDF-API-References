@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Items
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 属性。设置将添加到新创建的列表框或组合框的项目
+title: "FormEditor.Items"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 属性。设置将在新创建的列表框或组合框中添加的项"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/formeditor/items/
 ---
-## FormEditor.Items 属性
+## FormEditor.Items property
 
 设置将添加到新创建的列表框或组合框的项目。
 
@@ -21,8 +21,10 @@ formEditor.Save();
 public string[] Items { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

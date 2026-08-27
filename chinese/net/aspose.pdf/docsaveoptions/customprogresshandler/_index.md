@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions 字段。此处理程序可用于处理转换进度事件，例如，它可以用于显示进度条或关于当前处理页面数量的消息，显示进度的控制台处理程序代码示例如下：
+title: "DocSaveOptions.CustomProgressHandler"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocSaveOptions 字段。此处理程序可用于处理转换进度事件，例如可用于显示进度条或当前已处理页面数量的消息。以下是显示控制台进度的处理程序代码示例"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/docsaveoptions/customprogresshandler/
 ---
-## DocSaveOptions.CustomProgressHandler 字段
+## DocSaveOptions.CustomProgressHandler field
 
-此处理程序可用于处理转换进度事件，例如，它可以用于显示进度条或关于当前处理页面数量的消息，显示进度的控制台处理程序代码示例如下：
+此处理程序可用于处理转换进度事件，例如可用于显示进度条或当前已处理页面数量的消息，以下是显示控制台进度的处理程序代码示例：
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -48,9 +48,11 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ```
 
-### 另请参阅
+### 另请参见
 
 * delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

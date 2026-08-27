@@ -1,21 +1,23 @@
 ---
-title: LlamaCopilotOptionsBase.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaCopilotOptionsBase 属性。获取或设置在运行过程中可以使用的最大完成令牌数
+title: "LlamaCopilotOptionsBase.MaxCompletionTokens"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaCopilotOptionsBase 属性。获取或设置在运行期间可能使用的最大完成标记数"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/
 ---
-## LlamaCopilotOptionsBase.MaxCompletionTokens 属性
+## LlamaCopilotOptionsBase.MaxCompletionTokens property
 
-获取或设置在运行过程中可以使用的最大完成令牌数。
+获取或设置在运行期间可能使用的最大完成标记数。
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [LlamaCopilotOptionsBase](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

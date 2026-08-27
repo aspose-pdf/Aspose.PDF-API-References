@@ -1,9 +1,9 @@
 ---
-title: Class AttributeOwnerStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.AttributeOwnerStandard 类。表示标准属性所有者
+title: "类 AttributeOwnerStandard"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LogicalStructure.AttributeOwnerStandard 类。表示标准属性所有者。"
 type: docs
-weight: 6230
+weight: 6370
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/
 ---
 ## AttributeOwnerStandard class
@@ -14,22 +14,22 @@ url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/
 public sealed class AttributeOwnerStandard
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Owner](../../aspose.pdf.logicalstructure/attributeownerstandard/owner/) { get; } | 获取属性所有者。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.logicalstructure/attributeownerstandard/tostring/)() | 返回一个表示当前对象的字符串。 |
-| [explicit operator](../../aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/) | 执行从字符串到 `AttributeOwnerStandard` 的显式转换。 |
+| override [ToString](../../aspose.pdf.logicalstructure/attributeownerstandard/tostring/)() | 返回表示当前对象的字符串。 |
+| [explicit operator](../../aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/) | 执行从 String 到 `AttributeOwnerStandard` 的显式转换。 |
 
-## Fields
+## 字段
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | static readonly [Css_100](../../aspose.pdf.logicalstructure/attributeownerstandard/css_100/) | CSS-1.00 属性所有者。 |
 | static readonly [Css_200](../../aspose.pdf.logicalstructure/attributeownerstandard/css_200/) | CSS-2.00 属性所有者。 |
@@ -40,10 +40,12 @@ public sealed class AttributeOwnerStandard
 | static readonly [Oeb_100](../../aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/) | OEB-1.00 属性所有者。 |
 | static readonly [PrintField](../../aspose.pdf.logicalstructure/attributeownerstandard/printfield/) | PrintField 属性所有者。 |
 | static readonly [Rtf_105](../../aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/) | RTF-1.05 属性所有者。 |
-| static readonly [Table](../../aspose.pdf.logicalstructure/attributeownerstandard/table/) | 表格属性所有者。 |
+| static readonly [Table](../../aspose.pdf.logicalstructure/attributeownerstandard/table/) | 表属性所有者。 |
 | static readonly [Xml_100](../../aspose.pdf.logicalstructure/attributeownerstandard/xml_100/) | XML-1.0.0 属性所有者。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

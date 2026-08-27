@@ -1,14 +1,14 @@
 ---
-title: AssistantListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantListQueryParameters 方法。获取列出助手的查询参数
+title: "AssistantListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AssistantListQueryParameters 方法。获取列出助理的查询参数"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/
 ---
-## AssistantListQueryParameters.GetQueryParameters 方法
+## AssistantListQueryParameters.GetQueryParameters method
 
-获取列出助手的查询参数。
+获取列出助理的查询参数。
 
 ```csharp
 public string GetQueryParameters()
@@ -18,8 +18,10 @@ public string GetQueryParameters()
 
 查询参数字符串。
 
-### 另见
+### 另请参见
 
-* 类 [AssistantListQueryParameters](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AssistantListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

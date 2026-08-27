@@ -1,40 +1,42 @@
 ---
-title: Class GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.GoToURIAction 类。表示一个 URI 动作，导致 URI 被解析
+title: "类 GoToURIAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.GoToURIAction 类。表示导致解析 URI 的 URI 操作"
 type: docs
-weight: 1850
+weight: 1940
 url: /zh/net/aspose.pdf.annotations/gotouriaction/
 ---
 ## GoToURIAction class
 
-表示一个 URI 动作，导致 URI 被解析。
+表示 URI 操作，会解析 URI。
 
 ```csharp
 public sealed class GoToURIAction : PdfAction
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [GoToURIAction](gotouriaction/)(string) | 创建 `GoToURIAction` 类的实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | 序列中的下一个动作。 |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | 序列中的下一个操作。 |
 | [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | 获取或设置要解析的统一资源标识符。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | 获取 ECMAScript 动作的字符串。 |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | 获取 ECMAScript 操作的字符串。 |
 
-### See Also
+### 另请参见
 
 * class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureElement.StructureType
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement 属性。获取结构元素的类型
+title: "StructureElement.StructureType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureElement 属性。获取结构元素的类型"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
-## StructureElement.StructureType 属性
+## StructureElement.StructureType property
 
 获取结构元素的类型。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 public StructureTypeStandard StructureType { get; }
 ```
 
-### 属性值
+### Property Value
 
-StructureTypeStandard 结构元素的对象。
+StructureTypeStandard 对象（结构元素）。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTypeStandard](../../structuretypestandard/)
-* 类 [StructureElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../../structuretypestandard/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

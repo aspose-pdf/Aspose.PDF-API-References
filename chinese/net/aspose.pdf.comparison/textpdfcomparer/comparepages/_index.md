@@ -1,12 +1,12 @@
 ---
-title: TextPdfComparer.ComparePages
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer 方法。比较文档页面
+title: "TextPdfComparer.ComparePages"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextPdfComparer 方法。比较文档页面"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.comparison/textpdfcomparer/comparepages/
 ---
-## TextPdfComparer.ComparePages 方法
+## TextPdfComparer.ComparePages method
 
 比较文档页面。
 
@@ -16,15 +16,15 @@ public static List<DiffOperation> ComparePages(Page page1, Page page2, Compariso
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page1 | Page | 第一页。 |
-| page2 | Page | 第二页。 |
+| page1 | 页面 | 第一页。 |
+| page2 | 页面 | 第二页。 |
 | options | ComparisonOptions | 比较选项。 |
 
 ### 返回值
 
 更改列表。
 
-### 另见
+### 另请参见
 
 * class [DiffOperation](../../diffoperation/)
 * class [Page](../../../aspose.pdf/page/)
@@ -32,3 +32,5 @@ public static List<DiffOperation> ComparePages(Page page1, Page page2, Compariso
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

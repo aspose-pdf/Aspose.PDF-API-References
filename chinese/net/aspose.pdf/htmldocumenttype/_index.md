@@ -1,12 +1,12 @@
 ---
-title: Enum HtmlDocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlDocumentType 枚举。表示 Html 文档类型的枚举
+title: "枚举 HtmlDocumentType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HtmlDocumentType 枚举。表示 Html 文档类型的枚举。"
 type: docs
-weight: 5510
+weight: 5640
 url: /zh/net/aspose.pdf/htmldocumenttype/
 ---
-## HtmlDocumentType 枚举
+## HtmlDocumentType enumeration
 
 表示 Html 文档类型的枚举。
 
@@ -23,5 +23,7 @@ public enum HtmlDocumentType
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Document.RemoveMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。 从文档中删除元数据
+title: "Document.RemoveMetadata"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。 从文档中移除元数据"
 type: docs
-weight: 790
+weight: 810
 url: /zh/net/aspose.pdf/document/removemetadata/
 ---
-## Document.RemoveMetadata 方法
+## Document.RemoveMetadata method
 
-从文档中删除元数据。
+从文档中移除元数据。
 
 ```csharp
 public void RemoveMetadata()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

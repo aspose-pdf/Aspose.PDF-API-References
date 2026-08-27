@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 方法。获取指定页面的宽度
+title: "PdfFileInfo.GetPageWidth"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileInfo 方法。获取指定页面的宽度。"
 type: docs
 weight: 260
 url: /zh/net/aspose.pdf.facades/pdffileinfo/getpagewidth/
 ---
-## PdfFileInfo.GetPageWidth 方法
+## PdfFileInfo.GetPageWidth method
 
 获取指定页面的宽度。
 
@@ -22,8 +22,10 @@ public float GetPageWidth(int pageNum)
 
 页面的宽度。
 
-### 另见
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

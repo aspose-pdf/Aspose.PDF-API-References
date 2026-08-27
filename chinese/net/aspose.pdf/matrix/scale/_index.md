@@ -1,14 +1,14 @@
 ---
-title: Matrix.Scale
-second_title: Aspose.PDF for .NET API Reference
-description: 矩阵方法。使用以下公式缩放 x 和 y：x1 = Ax + Cy; y1 = Bx + Dy
+title: "Matrix.Scale"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Matrix 方法。使用以下公式通过矩阵缩放 x 和 y：x1  Ax  Cy y1  Bx  Dy"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf/matrix/scale/
 ---
 ## Scale(double, double, out double, out double)
 
-使用以下公式缩放 x 和 y：x1 = A*x + C*y; y1 = B*x + D*y;
+使用以下公式对 x 和 y 进行缩放：x1 = A*x + C*y; y1 = B*x + D*y；
 
 ```csharp
 public void Scale(double x, double y, out double x1, out double y1)
@@ -21,11 +21,11 @@ public void Scale(double x, double y, out double x1, out double y1)
 | x1 | Double& | 输出 X 坐标 |
 | y1 | Double& | 输出 Y 坐标 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,14 +41,16 @@ public static Matrix Scale(double sx, double sy, Matrix source)
 | --- | --- | --- |
 | sx | Double | X 轴的缩放因子。 |
 | sy | Double | Y 轴的缩放因子。 |
-| source | Matrix | 要缩放的矩阵。 |
+| 源 | Matrix | 用于缩放的矩阵。 |
 
 ### 返回值
 
-一个新的矩阵，是缩放源矩阵的结果。
+一个新的矩阵，是对源矩阵进行缩放后的结果。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

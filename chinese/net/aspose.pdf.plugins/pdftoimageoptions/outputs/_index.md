@@ -1,20 +1,22 @@
 ---
-title: PdfToImageOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions 属性。
+title: "PdfToImageOptions.Outputs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfToImageOptions 属性。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.plugins/pdftoimageoptions/outputs/
 ---
-## PdfToImageOptions.Outputs 属性
+## PdfToImageOptions.Outputs property
 
 ```csharp
 public List<IDataSource> Outputs { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IDataSource](../../idatasource/)
-* 类 [PdfToImageOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

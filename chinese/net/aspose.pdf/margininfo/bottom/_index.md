@@ -1,21 +1,23 @@
 ---
-title: MarginInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo 属性。获取或设置一个浮点值，表示底部边距
+title: "MarginInfo.Bottom"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarginInfo 属性。获取或设置指示底部边距的 float 值"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/margininfo/bottom/
 ---
-## MarginInfo.Bottom 属性
+## MarginInfo.Bottom property
 
-获取或设置一个浮点值，表示底部边距。
+获取或设置表示底部页边距的浮点值。
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarginInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

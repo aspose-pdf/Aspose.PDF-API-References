@@ -1,12 +1,12 @@
 ---
-title: Enum PrinterMarkSidePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarkSidePosition 枚举。表示页面上注册标记的位置
+title: "枚举 PrinterMarkSidePosition"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.PrinterMarkSidePosition 枚举。表示页面上登记标记的位置"
 type: docs
-weight: 2370
+weight: 2460
 url: /zh/net/aspose.pdf.annotations/printermarksideposition/
 ---
-## PrinterMarkSidePosition 枚举
+## PrinterMarkSidePosition enumeration
 
 表示页面上注册标记的位置。
 
@@ -18,12 +18,14 @@ public enum PrinterMarkSidePosition
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Top | `0` | 将标记放置在页面的上边距。 |
-| Bottom | `1` | 将标记放置在页面的下边距。 |
-| Left | `2` | 将标记放置在页面的左边距。 |
-| Right | `3` | 将标记放置在页面的右边距。 |
+| Top | `0` | 将标记放置在页面的顶部边距。 |
+| Bottom | `1` | 将标记放置在页面的底部边距。 |
+| Left | `2` | 将标记放置在页面的左侧边距。 |
+| Right | `3` | 将标记放置在页面的右侧边距。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

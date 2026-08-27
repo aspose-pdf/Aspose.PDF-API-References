@@ -1,12 +1,12 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.BoxStyle 枚举。表示在复选框中绘制勾选的样式
+title: "枚举 BoxStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Forms.BoxStyle 枚举。表示在复选框中绘制勾选的样式"
 type: docs
-weight: 4960
+weight: 5080
 url: /zh/net/aspose.pdf.forms/boxstyle/
 ---
-## BoxStyle 枚举
+## BoxStyle enumeration
 
 表示在复选框中绘制勾选的样式。
 
@@ -20,12 +20,14 @@ public enum BoxStyle
 | --- | --- | --- |
 | Circle | `0` | 圆形样式。 |
 | Check | `1` | 勾选样式。 |
-| Cross | `2` | 叉形样式。 |
+| Cross | `2` | 十字样式。 |
 | Diamond | `3` | 菱形样式。 |
-| Square | `4` | 正方形样式。 |
+| Square | `4` | 方形样式。 |
 | Star | `5` | 星形样式。 |
 
-### 另见
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

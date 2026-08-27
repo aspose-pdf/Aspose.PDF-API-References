@@ -1,12 +1,12 @@
 ---
-title: Rows.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: Rows 方法。 从集合中移除指定位置的行
+title: "Rows.RemoveAt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rows 方法。从集合中移除指定位置的行"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/rows/removeat/
 ---
-## Rows.RemoveAt 方法
+## Rows.RemoveAt method
 
 从集合中移除指定位置的行。
 
@@ -18,8 +18,10 @@ public void RemoveAt(int index)
 | --- | --- | --- |
 | index | Int32 | 集合索引。 |
 
-### 另见
+### 另请参见
 
-* 类 [Rows](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateLocalLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。创建 PDF 文档中的本地链接
+title: "PdfContentEditor.CreateLocalLink"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。创建 PDF Document 中的本地链接"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/
@@ -17,11 +17,11 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 活动点击的矩形。 |
-| desPage | Int32 | 目标页面。 |
-| originalPage | Int32 | 创建与本地链接绑定的矩形的原始页面编号。 |
-| clr | Color | 活动点击的矩形颜色。 |
-| actionName | Enum[] | 与在 Acrobat 查看器中执行菜单项对应的动作数组（PredefinedAction 枚举的成员）。 |
+| rect | Rectangle | 用于激活点击的矩形。 |
+| desPage | Int32 | 目标页面 |
+| originalPage | Int32 | 将创建绑定本地链接的矩形的原始页码 |
+| clr | Color | 用于激活点击的矩形颜色。 |
+| actionName | Enum[] | 对应在 Acrobat 查看器中执行菜单项的操作数组（PredefinedAction 枚举的成员）。 |
 
 ## 示例
 
@@ -34,7 +34,7 @@ editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -52,10 +52,10 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 活动点击的矩形。 |
-| desPage | Int32 | 目标页面。 |
-| originalPage | Int32 | 创建与本地链接绑定的矩形的原始页面编号。 |
-| clr | Color | 活动点击的矩形颜色。 |
+| rect | Rectangle | 用于激活点击的矩形。 |
+| desPage | Int32 | 目标页面 |
+| originalPage | Int32 | 将创建绑定本地链接的矩形的原始页码 |
+| clr | Color | 用于激活点击的矩形颜色。 |
 
 ## 示例
 
@@ -67,7 +67,7 @@ editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -85,9 +85,9 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 活动点击的矩形。 |
-| desPage | Int32 | 目标页面。 |
-| originalPage | Int32 | 创建与本地链接绑定的矩形的原始页面编号。 |
+| rect | Rectangle | 用于激活点击的矩形。 |
+| desPage | Int32 | 目标页面 |
+| originalPage | Int32 | 将创建绑定本地链接的矩形的原始页码 |
 
 ## 示例
 
@@ -98,8 +98,10 @@ editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100), 2, 1});
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.IncludeAppendSaves
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction 字段。如果设置，提交的 FDF 文件将包含所有增量更新的内容
+title: "SubmitFormAction.IncludeAppendSaves"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SubmitFormAction 字段。如果设置，提交的 FDF 文件应包括所有增量更新的内容。"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.annotations/submitformaction/includeappendsaves/
 ---
-## SubmitFormAction.IncludeAppendSaves 字段
+## SubmitFormAction.IncludeAppendSaves field
 
-如果设置，提交的 FDF 文件将包含所有增量更新的内容。
+如果设置，则提交的 FDF 文件应包含所有增量更新的内容。
 
 ```csharp
 public const int IncludeAppendSaves;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SubmitFormAction](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

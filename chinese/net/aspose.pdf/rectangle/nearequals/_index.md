@@ -1,14 +1,14 @@
 ---
-title: Rectangle.NearEquals
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 方法。检查矩形是否近似相等，即位置和大小近似相同（在 delta 范围内）
+title: "Rectangle.NearEquals"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。检查矩形是否近似相等，即位置和尺寸在 delta 范围内相近。"
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf/rectangle/nearequals/
 ---
-## Rectangle.NearEquals 方法
+## Rectangle.NearEquals method
 
-检查矩形是否近似相等，即位置和大小近似相同（在 delta 范围内）。
+检查矩形是否近似相等，即位置和大小在（至多 delta）范围内接近相同。
 
 ```csharp
 public bool NearEquals(Rectangle other, double delta)
@@ -21,10 +21,12 @@ public bool NearEquals(Rectangle other, double delta)
 
 ### 返回值
 
-如果矩形相等则返回 true，否则返回 false。
+如果矩形相等则为 true，否则为 false。
 
-### 另见
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

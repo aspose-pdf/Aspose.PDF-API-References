@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchFileListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchFileListQueryParameters 方法。获取列出存储文件批处理文件的查询参数
+title: "VectorStoreFileBatchFileListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreFileBatchFileListQueryParameters 方法。获取列出存储文件批次文件的查询参数"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/
 ---
-## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters 方法
+## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters method
 
-获取列出存储文件批处理文件的查询参数。
+获取列出存储文件批次文件的查询参数。
 
 ```csharp
 public string GetQueryParameters()
@@ -18,8 +18,10 @@ public string GetQueryParameters()
 
 查询参数字符串。
 
-### 另见
+### 另请参见
 
-* 类 [VectorStoreFileBatchFileListQueryParameters](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

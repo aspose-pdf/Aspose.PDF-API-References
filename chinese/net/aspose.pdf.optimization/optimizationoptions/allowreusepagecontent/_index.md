@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.AllowReusePageContent
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions 属性。如果为真，则在文档为相等页面优化时将重用页面内容
+title: "OptimizationOptions.AllowReusePageContent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptimizationOptions 属性。如果为 true，页面内容将在文档针对相同页面进行优化时被复用。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/
 ---
-## OptimizationOptions.AllowReusePageContent 属性
+## OptimizationOptions.AllowReusePageContent property
 
-如果为真，则在文档为相等页面优化时将重用页面内容。
+如果为 true，则在文档针对相同页面进行优化时，页面内容将被复用。
 
 ```csharp
 public bool AllowReusePageContent { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OptimizationOptions](../)
-* 命名空间 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

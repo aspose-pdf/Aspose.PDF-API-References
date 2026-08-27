@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 方法。返回集合中选项的枚举器
+title: "OptionCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptionCollection 方法。返回集合中选项的枚举器"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.forms/optioncollection/getenumerator/
 ---
-## OptionCollection.GetEnumerator 方法
+## OptionCollection.GetEnumerator method
 
 返回集合中选项的枚举器。
 
@@ -18,9 +18,11 @@ public IEnumerator<Option> GetEnumerator()
 
 选项枚举器。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Option](../../option/)
-* 类 [OptionCollection](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+
