@@ -1,265 +1,108 @@
 ---
-title: Operator
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示运算符的抽象类。
+title: "Operator"
+linktitle: "Operator"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示运算符的抽象类。"
 type: docs
-weight: 232
+weight: 3180
 url: /zh/java/com.aspose.pdf/operator/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Operator
+
 ```
-public abstract class Operator
+public abstract class Operator extends Object
 ```
 
 表示运算符的抽象类。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Operator(int index, ICommand command)](#Operator-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | 仅供内部使用！ |
+| [Operator](#Operator-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | 仅供内部使用！ |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | 接受提供运算符处理的访问者 IOperatorSelector。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getCommand()](#getCommand--) | 获取命令 |
-| [getCommandName()](#getCommandName--) | 获取操作员名称。 |
-| [getIndex()](#getIndex--) | 获取页面操作符列表中的操作符索引。 |
-| [getParameters()](#getParameters--) | 获取运算符参数数组。 |
-| [hashCode()](#hashCode--) |  |
-| [isTextShowOperator(Operator op)](#isTextShowOperator-com.aspose.pdf.Operator-) | 判断操作符是否为负责文本输出的操作符（Tj、TJ等） |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [reset()](#reset--) | 仅供内部使用 |
-| [setIndex(int value)](#setIndex-int-) | 在页面操作符列表中设置操作符索引。 |
-| [toString()](#toString--) | 将命令和参数转换为字符串表示形式。 |
-| [toString(IPdfPrimitive primitive)](#toString-com.aspose.pdf.engine.data.IPdfPrimitive-) | 根据 PDF 规范返回 Pdf 原语（字符串、数组、字典等）的文本表示。 |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Operator(int index, ICommand command) {#Operator-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public Operator(int index, ICommand command)
-```
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | 接受访问者 IOperatorSelector，提供运算符处理。 |
+| [createFromCommandName](#createFromCommandName-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | 通过名称创建 com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand 实例的操作符。 |
+| [equals](#equals-com.aspose.pdf.Operator-) | 将此实例与给定对象进行比较。 |
+| [getCommand](#getCommand--) | 获取命令 |
+| [getCommandName](#getCommandName--) | 获取操作符名称。 |
+| [getIndex](#getIndex--) | 获取页面操作符列表中的操作符索引。 |
+| [isTextShowOperator](#isTextShowOperator-com.aspose.pdf.Operator-) | 确定该操作符是否负责文本输出的操作符（Tj、TJ 等）。 |
+| [setIndex](#setIndex-int-) | 设置页面操作符列表中的操作符索引。 |
+| [toString](#toString--) | 将命令和参数转换为字符串表示形式。 |
+| [valueEquals](#valueEquals-com.aspose.pdf.Operator-) | 将此实例与给定对象进行比较。 |
 
-
+### Operator {#Operator-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
 仅供内部使用！
 
-运算符的构造函数。通过命令对象和运算符索引创建运算符。
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
+接受访问者 IOperatorSelector，提供运算符处理。
 
-**参数：**
+### createFromCommandName {#createFromCommandName-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+通过名称创建 com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand 实例的操作符。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| index | int | 运算符列表中运算符的索引 |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | 操作员的命令对象 |
+### equals {#equals-com.aspose.pdf.Operator-}
+将此实例与给定对象进行比较。
 
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
+### getCommand {#getCommand--}
 ```
-public abstract void accept(IOperatorSelector visitor)
+public com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand getCommand()
 ```
-
-
-接受提供运算符处理的访问者 IOperatorSelector。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | 访客对象 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getCommand() {#getCommand--}
-```
-public ICommand getCommand()
-```
-
 
 获取命令
 
-**退货：**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) ICommand 对象
-### getCommandName() {#getCommandName--}
+**Returns:**
+ICommand 对象
+
+### getCommandName {#getCommandName--}
 ```
 public String getCommandName()
 ```
 
+获取操作符名称。
 
-获取操作员名称。
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getIndex() {#getIndex--}
+### getIndex {#getIndex--}
 ```
 public int getIndex()
 ```
 
-
 获取页面操作符列表中的操作符索引。
 
-**退货：**
-int - 整数值
-### getParameters() {#getParameters--}
-```
-public ArrayList<CommandParameter> getParameters()
-```
+**Returns:**
+int 值
 
+### isTextShowOperator {#isTextShowOperator-com.aspose.pdf.Operator-}
+确定该操作符是否负责文本输出的操作符（Tj、TJ 等）。
 
-获取运算符参数数组。
-
-**退货：**
-java.util.ArrayList<com.aspose.pdf.engine.commondata.pagecontent.operators.commands.CommandParameter> - CommandParameter 值的 ArrayList
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isTextShowOperator(Operator op) {#isTextShowOperator-com.aspose.pdf.Operator-}
-```
-public static boolean isTextShowOperator(Operator op)
-```
-
-
-判断操作符是否为负责文本输出的操作符（Tj、TJ等）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| op | [Operator](../../com.aspose.pdf/operator) | 运算符对象 |
-
-**退货：**
-boolean - 如果这是文本输出运算符则为真
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### reset() {#reset--}
-```
-public void reset()
-```
-
-
-仅供内部使用
-
-### setIndex(int value) {#setIndex-int-}
+### setIndex {#setIndex-int-}
 ```
 public void setIndex(int value)
 ```
 
+设置页面操作符列表中的操作符索引。
 
-在页面操作符列表中设置操作符索引。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### toString() {#toString--}
+### toString {#toString--}
 ```
 public String toString()
 ```
 
-
 将命令和参数转换为字符串表示形式。
 
-**退货：**
-java.lang.String - 运算符文本
-### toString(IPdfPrimitive primitive) {#toString-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public static String toString(IPdfPrimitive primitive)
-```
+**Returns:**
+操作符文本
 
-
-根据 PDF 规范返回 Pdf 原语（字符串、数组、字典等）的文本表示。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| primitive | [IPdf原始](../../com.aspose.pdf.engine.data/ipdfprimitive) | Primitive |
-
-**退货：**
-java.lang.String - 原语的文本表示
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### valueEquals {#valueEquals-com.aspose.pdf.Operator-}
+将此实例与给定对象进行比较。

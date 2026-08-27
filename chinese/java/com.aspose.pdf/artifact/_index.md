@@ -1,841 +1,472 @@
 ---
-title: Artifact
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 类表示 PDF 工件对象。
+title: "Artifact"
+linktitle: "Artifact"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示 PDF Artifact 对象的类。"
 type: docs
-weight: 28
+weight: 190
 url: /zh/java/com.aspose.pdf/artifact/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Artifact
 
-**所有已实现的接口：**
-com.aspose.ms.System.IDisposable, java.io.Closeable
+**All Implemented Interfaces:**
+com.aspose.ms.System.IDisposable, Closeable, AutoCloseable
+
 ```
-public class Artifact implements System.IDisposable, Closeable
+public class Artifact extends Object implements com.aspose.ms.System.IDisposable, Closeable
 ```
 
-类表示 PDF 工件对象。
+表示 PDF Artifact 对象的类。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties)](#Artifact-com.aspose.pdf.ArtifactCollection-com.aspose.pdf.Artifact.ArtifactContext-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--com.aspose.pdf.engine.data.IPdfDictionary-) | 从页面读取工件时使用此构造函数。 |
-| [Artifact(String type, String subType)](#Artifact-java.lang.String-java.lang.String-) | 具有指定类型和子类型的工件的构造函数 |
-| [Artifact(int type, int subType)](#Artifact-int-int-) | 具有指定类型和子类型的工件的构造函数 |
+| [Artifact](#Artifact-com.aspose.pdf.Artifact.ArtifactType-com.aspose.pdf.Artifact.ArtifactSubtype-) | 具有指定类型和子类型的 Artifact 构造函数 |
+| [Artifact](#Artifact-com.aspose.pdf.ArtifactCollection-com.aspose.pdf.Artifact.ArtifactContext-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.engine.data.IPdfDictionary-) | 当从页面读取 Artifact 时使用此构造函数。 |
+| [Artifact](#Artifact-java.lang.String-java.lang.String-) | 具有指定类型和子类型的 Artifact 构造函数 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [beginUpdates()](#beginUpdates--) | 开始删除更新。 |
-| [close()](#close--) | 关闭此文档使用的所有资源。 |
-| [dispose()](#dispose--) | 处理工件。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getArtifactHorizontalAlignment()](#getArtifactHorizontalAlignment--) | 获取工件的水平对齐方式。 |
-| [getArtifactVerticalAlignment()](#getArtifactVerticalAlignment--) | 获取工件的垂直对齐方式。 |
-| [getBottomMargin()](#getBottomMargin--) | 获取工件的底部边距。 |
-| [getClass()](#getClass--) |  |
-| [getContents()](#getContents--) | 获取工件内部运算符的集合。 |
-| [getCustomSubtype()](#getCustomSubtype--) | 获取工件子类型的名称。 |
-| [getCustomType()](#getCustomType--) | 获取工件类型的名称。 |
-| [getForm()](#getForm--) | 获取工件的 XForm（如果使用 XForm）。 |
-| [getImage()](#getImage--) | 获取工件的图像（如果存在）。 |
-| [getLeftMargin()](#getLeftMargin--) | 获取工件的左边距。 |
-| [getLines()](#getLines--) | 多行文本工件的行。 |
-| [getOpacity()](#getOpacity--) | 获取工件的不透明度。 |
-| [getPosition()](#getPosition--) | 获取神器位置。 |
-| [getRectangle()](#getRectangle--) | 获取工件的矩形。 |
-| [getRightMargin()](#getRightMargin--) | 获取工件的右边距。 |
-| [getRotation()](#getRotation--) | 获取神器旋转角度。 |
-| [getSubtype()](#getSubtype--) | 获取工件子类型。 |
-| [getText()](#getText--) | 获取工件的文本。 |
-| [getTextState()](#getTextState--) | 工件文本的文本状态。 |
-| [getTopMargin()](#getTopMargin--) | 获取工件的顶部边距。 |
-| [getType()](#getType--) | 获取工件类型。 |
-| [getValue(String name)](#getValue-java.lang.String-) | 获取工件的自定义值。 |
-| [hashCode()](#hashCode--) |  |
-| [isBackground()](#isBackground--) | 如果为真，则工件放置在页面内容后面。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [removeValue(String name)](#removeValue-java.lang.String-) | 从工件中删除自定义值。 |
-| [saveUpdates()](#saveUpdates--) | 保存在调用 BeginUpdates() 之后进行的工件中的所有更新。 |
-| [setArtifactHorizontalAlignment(int value)](#setArtifactHorizontalAlignment-int-) | 获取工件的水平对齐方式。 |
-| [setArtifactVerticalAlignment(int value)](#setArtifactVerticalAlignment-int-) | 设置工件的垂直对齐方式。 |
-| [setBackground(boolean value)](#setBackground-boolean-) | 如果为真，则工件放置在页面内容后面。 |
-| [setBottomMargin(double value)](#setBottomMargin-double-) | 设置工件的底部边距。 |
-| [setCustomSubtype(String value)](#setCustomSubtype-java.lang.String-) |  |
-| [setCustomType(String value)](#setCustomType-java.lang.String-) | 设置工件类型的名称。 |
-| [setImage(InputStream imageStream)](#setImage-java.io.InputStream-) | 设置工件的图像。 |
-| [setImage(String imageName)](#setImage-java.lang.String-) | 设置工件的图像。 |
-| [setLeftMargin(double value)](#setLeftMargin-double-) | 设置工件的左边距。 |
-| [setLinesAndState(String[] text, TextState textState)](#setLinesAndState-java.lang.String---com.aspose.pdf.TextState-) | 设置工件的文本和文本属性。 |
-| [setOpacity(double value)](#setOpacity-double-) | 设置工件的不透明度。 |
-| [setPdfPage(Page page)](#setPdfPage-com.aspose.pdf.Page-) | 将放置在文档页面上的 PDF 页面设置为工件。 |
-| [setPosition(Point value)](#setPosition-com.aspose.pdf.Point-) | 设置工件位置。 |
-| [setRightMargin(double value)](#setRightMargin-double-) | 设置工件的右边距。 |
-| [setRotation(double value)](#setRotation-double-) | 设置工件旋转角度。 |
-| [setSubtype(int value)](#setSubtype-int-) | 设置工件子类型。 |
-| [setText(FormattedText formattedText)](#setText-com.aspose.pdf.facades.FormattedText-) | 设置工件的文本。 |
-| [setText(String value)](#setText-java.lang.String-) | 设置工件的文本。 |
-| [setTextAndState(String text, TextState textState)](#setTextAndState-java.lang.String-com.aspose.pdf.TextState-) | 设置工件的文本和文本属性。 |
-| [setTextState(TextState value)](#setTextState-com.aspose.pdf.TextState-) | 工件文本的文本状态。 |
-| [setTopMargin(double value)](#setTopMargin-double-) | 设置工件的上边距。 |
-| [setType(int value)](#setType-int-) | 设置工件类型。 |
-| [setValue(String name, String value)](#setValue-java.lang.String-java.lang.String-) | 设置工件的自定义值。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties) {#Artifact-com.aspose.pdf.ArtifactCollection-com.aspose.pdf.Artifact.ArtifactContext-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--com.aspose.pdf.engine.data.IPdfDictionary-}
-```
-public Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties)
-```
+| [beginUpdates](#beginUpdates--) | 开始已删除的更新。若需要对同一 Artifact 进行多次更改以提升性能，请使用此功能。通常在每次更改 Artifact 属性时，Artifact 操作器都会被修改，这会导致每次更改 Artifact 时页面内容都被重新写入。为避免此效果，请将所有 Artifact 更新放在 StartUpdates/SaveUpdates 调用之间。这样只会更改页面内容一次。Artifact art = doc.getPages().get_Item(1).getArtifacts().get_Item(1); art.beginUpdates(); art.setOpacity ( 0.3f); art.setPosition ( new Point(10,10)); art.setRotation (30); art.saveUpdates(); |
+| [close](#close--) | 关闭此文档使用的所有资源。 |
+| [dispose](#dispose--) | 释放该工件。此方法已过时，请改用 close()。 |
+| [getArtifactHorizontalAlignment](#getArtifactHorizontalAlignment--) | 获取工件的水平对齐方式。如果在 Position 属性中显式指定了位置，则此值将被忽略。 |
+| [getArtifactVerticalAlignment](#getArtifactVerticalAlignment--) | 获取工件的垂直对齐方式。如果在 Position 属性中显式指定了位置，则此值将被忽略。 |
+| [getBottomMargin](#getBottomMargin--) | 获取工件的底部边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。 |
+| [getContents](#getContents--) | 获取工件内部操作符的集合。 |
+| [getCustomSubtype](#getCustomSubtype--) | 获取工件子类型的名称。如果工件子类型不是标准子类型，可使用此属性。 |
+| [getCustomType](#getCustomType--) | 获取工件类型的名称。如果工件类型非标准，可使用此属性。 |
+| [getForm](#getForm--) | 获取工件的 XForm（如果使用了 XForm）。 |
+| [getImage](#getImage--) | 获取工件的图像（如果存在）。 |
+| [getLeftMargin](#getLeftMargin--) | 获取工件的左侧边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。 |
+| [getLines](#getLines--) | 多行文本工件的行。 |
+| [getOpacity](#getOpacity--) | 获取工件的不透明度。可能的取值范围为 0..1。 |
+| [getPosition](#getPosition--) | 获取工件的位置。如果指定了此属性，则边距和对齐方式将被忽略。 |
+| [getRectangle](#getRectangle--) | 获取工件的矩形。 |
+| [getRightMargin](#getRightMargin--) | 获取工件的右侧边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。 |
+| [getRotation](#getRotation--) | 获取工件的旋转角度。 |
+| [getSubtype](#getSubtype--) | 获取工件子类型。如果工件具有非标准子类型，可通过 CustomSubtype 读取子类型名称。 |
+| [getText](#getText--) | 获取工件的文本。 |
+| [getTextState](#getTextState--) | 工件文本的文本状态。 |
+| [getTopMargin](#getTopMargin--) | 获取工件的顶部边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。 |
+| [getType](#getType--) | 获取工件类型。 |
+| [getValue](#getValue-java.lang.String-) | 获取工件的自定义值。 |
+| [isBackground](#isBackground--) | 如果为 true，工件将放置在页面内容后面。 |
+| [removeValue](#removeValue-java.lang.String-) | 从工件中移除自定义值。 |
+| [saveUpdates](#saveUpdates--) | 在调用 BeginUpdates() 之后，对工件所做的所有更新都会被保存。 |
+| [setArtifactHorizontalAlignment](#setArtifactHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | 获取工件的水平对齐方式。 |
+| [setArtifactVerticalAlignment](#setArtifactVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | 设置工件的垂直对齐方式。 |
+| [setBackground](#setBackground-boolean-) | 如果为 true，工件将放置在页面内容后面。 |
+| [setBottomMargin](#setBottomMargin-double-) | 设置工件的底部边距。 |
+| [setCustomSubtype](#setCustomSubtype-java.lang.String-) |  |
+| [setCustomType](#setCustomType-java.lang.String-) | 设置工件类型的名称。如果工件类型为非标准类型，可使用此属性。 |
+| [setImage](#setImage-java.io.InputStream-) | 设置工件的图像。 |
+| [setImage](#setImage-java.lang.String-) | 设置工件的图像。 |
+| [setLeftMargin](#setLeftMargin-double-) | 设置工件的左侧边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。 |
+| [setLinesAndState](#setLinesAndState-java.lang.String:A-com.aspose.pdf.TextState-) | 设置工件的文本及其属性。允许指定多行。 |
+| [setOpacity](#setOpacity-double-) | 设置工件的不透明度。可能的取值范围为 0..1。 |
+| [setPageNumberReplacementString](#setPageNumberReplacementString-java.lang.String-) | 设置将被页码替换的字符串。默认值为 #。 |
+| [setPdfPage](#setPdfPage-com.aspose.pdf.Page-) | 设置作为工件放置在文档页上的 PDF 页面。 |
+| [setPosition](#setPosition-com.aspose.pdf.Point-) | 设置工件的位置。 |
+| [setRightMargin](#setRightMargin-double-) | 设置工件的右侧边距。 |
+| [setRotation](#setRotation-double-) | 设置工件的旋转角度。 |
+| [setSubtype](#setSubtype-com.aspose.pdf.Artifact.ArtifactSubtype-) | 设置工件的子类型。 |
+| [setText](#setText-com.aspose.pdf.facades.FormattedText-) | 设置工件的文本。 |
+| [setText](#setText-java.lang.String-) | 设置工件的文本。 |
+| [setTextAndState](#setTextAndState-java.lang.String-com.aspose.pdf.TextState-) | 设置工件的文本及其属性。 |
+| [setTextState](#setTextState-com.aspose.pdf.TextState-) | 工件文本的文本状态。 |
+| [setTopMargin](#setTopMargin-double-) | 设置工件的顶部边距。 |
+| [setType](#setType-com.aspose.pdf.Artifact.ArtifactType-) | 设置工件类型。 |
+| [setValue](#setValue-java.lang.String-java.lang.String-) | 设置工件的自定义值。 |
 
+### Artifact {#Artifact-com.aspose.pdf.Artifact.ArtifactType-com.aspose.pdf.Artifact.ArtifactSubtype-}
+具有指定类型和子类型的 Artifact 构造函数
 
-从页面读取工件时使用此构造函数。 ARtifactCollection 传递页面资源、初始矩阵、工件的运算符（“内容”）和属性字典。
+### Artifact {#Artifact-com.aspose.pdf.ArtifactCollection-com.aspose.pdf.Artifact.ArtifactContext-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.engine.data.IPdfDictionary-}
+当从页面读取 Artifact 时使用此构造函数。
 
-**参数：**
+### Artifact {#Artifact-java.lang.String-java.lang.String-}
+具有指定类型和子类型的 Artifact 构造函数
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| owner | [ArtifactCollection](../../com.aspose.pdf/artifactcollection) | ArtifactCollection 对象 |
-| context | com.aspose.pdf.Artifact.ArtifactContext | ArtifactContext 对象 |
-| _contents | com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Operator> | 运算符集合 |
-| _properties | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) | IPDFDictionary 对象 |
-
-### Artifact(String type, String subType) {#Artifact-java.lang.String-java.lang.String-}
-```
-public Artifact(String type, String subType)
-```
-
-
-具有指定类型和子类型的工件的构造函数
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| type | java.lang.String | 工件类型的名称。 |
-| subType | java.lang.String | 工件子类型的名称。 |
-
-### Artifact(int type, int subType) {#Artifact-int-int-}
-```
-public Artifact(int type, int subType)
-```
-
-
-具有指定类型和子类型的工件的构造函数
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| type | int | 工件类型。 |
-| subType | int | 工件子类型。 |
-
-### beginUpdates() {#beginUpdates--}
+### beginUpdates {#beginUpdates--}
 ```
 public void beginUpdates()
 ```
 
+开始已删除的更新。若需要对同一 Artifact 进行多次更改以提升性能，请使用此功能。通常在每次更改 Artifact 属性时，Artifact 操作器都会被修改，这会导致每次更改 Artifact 时页面内容都被重新写入。为避免此效果，请将所有 Artifact 更新放在 StartUpdates/SaveUpdates 调用之间。这样只会更改页面内容一次。Artifact art = doc.getPages().get_Item(1).getArtifacts().get_Item(1); art.beginUpdates(); art.setOpacity ( 0.3f); art.setPosition ( new Point(10,10)); art.setRotation (30); art.saveUpdates();
 
-开始删除更新。如果您需要对同一工件进行多项更改以提高性能，请使用此功能。通常在更改工件属性时随时更改工件运算符。每次更改工件时，这都会导致页面内容发生变化。为了避免这种影响，将所有工件更新放在 StartUpdates/SaveUpdates 调用之间。这只允许更改页面内容一次。
-
-```
-Artifact art = doc.getPages().get_Item(1).getArtifacts().get_Item(1);
-  art.beginUpdates();
-  art.setOpacity ( 0.3f);
-  art.setPosition ( new Point(10,10));
-  art.setRotation (30);
-  art.saveUpdates();
-```
-
-### close() {#close--}
+### close {#close--}
 ```
 public void close()
 ```
 
-
 关闭此文档使用的所有资源。
 
-### dispose() {#dispose--}
+### dispose {#dispose--}
 ```
-public void dispose()
-```
-
-
-处理工件。
-
-此方法已过时，请改用 close() 。
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
+@Deprecated public void dispose()
 ```
 
+释放该工件。此方法已过时，请改用 close()。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getArtifactHorizontalAlignment() {#getArtifactHorizontalAlignment--}
+### getArtifactHorizontalAlignment {#getArtifactHorizontalAlignment--}
 ```
-public int getArtifactHorizontalAlignment()
+public HorizontalAlignment getArtifactHorizontalAlignment()
 ```
 
+获取工件的水平对齐方式。如果在 Position 属性中显式指定了位置，则此值将被忽略。
 
-获取工件的水平对齐方式。如果明确指定位置（在 Position 属性中），则忽略此值。
+**Returns:**
+HorizontalAlignment 值 @see HorizontalAlignment
 
-**退货：**
-int - HorizontalAlignment 值
-### getArtifactVerticalAlignment() {#getArtifactVerticalAlignment--}
+### getArtifactVerticalAlignment {#getArtifactVerticalAlignment--}
 ```
-public int getArtifactVerticalAlignment()
+public VerticalAlignment getArtifactVerticalAlignment()
 ```
 
+获取工件的垂直对齐方式。如果在 Position 属性中显式指定了位置，则此值将被忽略。
 
-获取工件的垂直对齐方式。如果明确指定位置（在 Position 属性中），则忽略此值。
+**Returns:**
+VerticalAlignment 值。@see VerticalAlignment
 
-**退货：**
-int - VerticalAlignment 值。
-### getBottomMargin() {#getBottomMargin--}
+### getBottomMargin {#getBottomMargin--}
 ```
 public double getBottomMargin()
 ```
 
+获取工件的底部边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。
 
-获取工件的底部边距。如果明确指定位置（在 Position 属性中），则忽略此值。
+**Returns:**
+底部边距。
 
-**退货：**
-双底边距。
-### getClass() {#getClass--}
+### getContents {#getContents--}
 ```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getContents() {#getContents--}
-```
-public List<Operator> getContents()
+public List < Operator > getContents()
 ```
 
+获取工件内部操作符的集合。
 
-获取工件内部运算符的集合。
+**Returns:**
+列出工件的内部操作符。
 
-**退货：**
-java.util.List<com.aspose.pdf.Operator> - 列出工件内部运算符。
-### getCustomSubtype() {#getCustomSubtype--}
+### getCustomSubtype {#getCustomSubtype--}
 ```
 public String getCustomSubtype()
 ```
 
+获取工件子类型的名称。如果工件子类型不是标准子类型，可使用此属性。
 
-获取工件子类型的名称。如果工件子类型不是标准子类型，则可以使用。
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getCustomType() {#getCustomType--}
+### getCustomType {#getCustomType--}
 ```
 public String getCustomType()
 ```
 
+获取工件类型的名称。如果工件类型非标准，可使用此属性。
 
-获取工件类型的名称。如果工件类型是非标准的，则可以使用。
+**Returns:**
+字符串工件名称
 
-**退货：**
-java.lang.String - 字符串工件名称
-### getForm() {#getForm--}
+### getForm {#getForm--}
 ```
 public XForm getForm()
 ```
 
+获取工件的 XForm（如果使用了 XForm）。
 
-获取工件的 XForm（如果使用 XForm）。
+**Returns:**
+XForm 对象
 
-**退货：**
-[XForm](../../com.aspose.pdf/xform) 变形对象
-### getImage() {#getImage--}
+### getImage {#getImage--}
 ```
 public XImage getImage()
 ```
 
-
 获取工件的图像（如果存在）。
 
-**退货：**
-[XImage](../../com.aspose.pdf/ximage)-XImage 对象
-### getLeftMargin() {#getLeftMargin--}
+**Returns:**
+XImage 对象
+
+### getLeftMargin {#getLeftMargin--}
 ```
 public double getLeftMargin()
 ```
 
+获取工件的左侧边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。
 
-获取工件的左边距。如果明确指定位置（在 Position 属性中），则忽略此值。
+**Returns:**
+工件的左边距。
 
-**退货：**
-双 - 人工制品的左边距。
-### getLines() {#getLines--}
+### getLines {#getLines--}
 ```
-public final List<String> getLines()
+public final List < String > getLines()
 ```
-
 
 多行文本工件的行。
 
-**退货：**
-java.util.List<java.lang.String> - 字符串列表
-### getOpacity() {#getOpacity--}
+**Returns:**
+字符串列表
+
+### getOpacity {#getOpacity--}
 ```
 public double getOpacity()
 ```
 
+获取工件的不透明度。可能的取值范围为 0..1。
 
-获取工件的不透明度。可能的值在 0..1 范围内。
+**Returns:**
+工件的不透明度。
 
-**退货：**
-双 - 神器的不透明度。
-### getPosition() {#getPosition--}
+### getPosition {#getPosition--}
 ```
 public Point getPosition()
 ```
 
+获取工件的位置。如果指定了此属性，则边距和对齐方式将被忽略。
 
-获取神器位置。如果指定了此属性，则边距和对齐方式将被忽略。
+**Returns:**
+工件位置。
 
-**退货：**
-[Point](../../com.aspose.pdf/point) - 工件位置。
-### getRectangle() {#getRectangle--}
+### getRectangle {#getRectangle--}
 ```
 public Rectangle getRectangle()
 ```
 
-
 获取工件的矩形。
 
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 矩形对象
-### getRightMargin() {#getRightMargin--}
+**Returns:**
+Rectangle 对象
+
+### getRightMargin {#getRightMargin--}
 ```
 public double getRightMargin()
 ```
 
+获取工件的右侧边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。
 
-获取工件的右边距。如果明确指定位置（在 Position 属性中），则忽略此值。
+**Returns:**
+工件的右边距。
 
-**退货：**
-双 - 神器的右边距。
-### getRotation() {#getRotation--}
+### getRotation {#getRotation--}
 ```
 public double getRotation()
 ```
 
+获取工件的旋转角度。
 
-获取神器旋转角度。
+**Returns:**
+工件的旋转角度。
 
-**退货：**
-双神器旋转角度。
-### getSubtype() {#getSubtype--}
+### getSubtype {#getSubtype--}
 ```
-public int getSubtype()
+public Artifact.ArtifactSubtype getSubtype()
 ```
 
+获取工件子类型。如果工件具有非标准子类型，可通过 CustomSubtype 读取子类型名称。
 
-获取工件子类型。如果工件具有非标准子类型，则可以通过 CustomSubtype 读取子类型的名称。
+**Returns:**
+工件子类型。 @see ArtifactSubtype
 
-**退货：**
-int - 工件子类型。
-### getText() {#getText--}
+### getText {#getText--}
 ```
 public String getText()
 ```
 
-
 获取工件的文本。
 
-**退货：**
-java.lang.String - 字符串值
-### getTextState() {#getTextState--}
+**Returns:**
+字符串值
+
+### getTextState {#getTextState--}
 ```
 public final TextState getTextState()
 ```
 
-
 工件文本的文本状态。
 
-**退货：**
-[TextState](../../com.aspose.pdf/textstate) - 文本状态实例
-### getTopMargin() {#getTopMargin--}
+**Returns:**
+TextState 实例
+
+### getTopMargin {#getTopMargin--}
 ```
 public double getTopMargin()
 ```
 
+获取工件的顶部边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。
 
-获取工件的顶部边距。如果明确指定位置（在 Position 属性中），则忽略此值。
+**Returns:**
+工件的上边距。
 
-**退货：**
-工件的双顶边距。
-### getType() {#getType--}
+### getType {#getType--}
 ```
-public int getType()
+public Artifact.ArtifactType getType()
 ```
-
 
 获取工件类型。
 
-**退货：**
-int - 工件类型值。
-### getValue(String name) {#getValue-java.lang.String-}
-```
-public String getValue(String name)
-```
+**Returns:**
+工件类型值。 @see ArtifactType
 
-
+### getValue {#getValue-java.lang.String-}
 获取工件的自定义值。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| name | java.lang.String | 值的名称。 |
-
-**退货：**
-java.lang.String - 值，如果值不存在则为 null。
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isBackground() {#isBackground--}
+### isBackground {#isBackground--}
 ```
 public boolean isBackground()
 ```
 
+如果为 true，工件将放置在页面内容后面。
 
-如果为真，则工件放置在页面内容后面。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
+### removeValue {#removeValue-java.lang.String-}
+从工件中移除自定义值。
 
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### removeValue(String name) {#removeValue-java.lang.String-}
-```
-public void removeValue(String name)
-```
-
-
-从工件中删除自定义值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| name | java.lang.String | 要删除的自定义值的名称。 |
-
-### saveUpdates() {#saveUpdates--}
+### saveUpdates {#saveUpdates--}
 ```
 public void saveUpdates()
 ```
 
+在调用 BeginUpdates() 之后，对工件所做的所有更新都会被保存。
 
-保存在调用 BeginUpdates() 之后进行的工件中的所有更新。
-
-### setArtifactHorizontalAlignment(int value) {#setArtifactHorizontalAlignment-int-}
-```
-public void setArtifactHorizontalAlignment(int value)
-```
-
-
+### setArtifactHorizontalAlignment {#setArtifactHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 获取工件的水平对齐方式。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | 工件的水平对齐。 |
-
-### setArtifactVerticalAlignment(int value) {#setArtifactVerticalAlignment-int-}
-```
-public void setArtifactVerticalAlignment(int value)
-```
-
-
+### setArtifactVerticalAlignment {#setArtifactVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 设置工件的垂直对齐方式。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | 工件的垂直对齐。 |
-
-### setBackground(boolean value) {#setBackground-boolean-}
+### setBackground {#setBackground-boolean-}
 ```
 public void setBackground(boolean value)
 ```
 
+如果为 true，工件将放置在页面内容后面。
 
-如果为真，则工件放置在页面内容后面。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setBottomMargin(double value) {#setBottomMargin-double-}
+### setBottomMargin {#setBottomMargin-double-}
 ```
 public void setBottomMargin(double value)
 ```
 
-
 设置工件的底部边距。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 底边距。 |
+| 值 |  | 底部边距。 |
 
-### setCustomSubtype(String value) {#setCustomSubtype-java.lang.String-}
-```
-public void setCustomSubtype(String value)
-```
+### setCustomSubtype {#setCustomSubtype-java.lang.String-}
 
 
+### setCustomType {#setCustomType-java.lang.String-}
+设置工件类型的名称。如果工件类型为非标准类型，可使用此属性。
 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
-### setCustomType(String value) {#setCustomType-java.lang.String-}
-```
-public void setCustomType(String value)
-```
-
-
-设置工件类型的名称。如果工件类型是非标准的，则可以使用。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串工件名称 |
-
-### setImage(InputStream imageStream) {#setImage-java.io.InputStream-}
-```
-public void setImage(InputStream imageStream)
-```
-
-
+### setImage {#setImage-java.io.InputStream-}
 设置工件的图像。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| imageStream | java.io.InputStream | 包含图像数据的流。 |
-
-### setImage(String imageName) {#setImage-java.lang.String-}
-```
-public void setImage(String imageName)
-```
-
-
+### setImage {#setImage-java.lang.String-}
 设置工件的图像。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| imageName | java.lang.String | 图像文件的名称。 |
-
-### setLeftMargin(double value) {#setLeftMargin-double-}
+### setLeftMargin {#setLeftMargin-double-}
 ```
 public void setLeftMargin(double value)
 ```
 
+设置工件的左侧边距。如果在 Position 属性中显式指定了位置，则此值将被忽略。
 
-设置工件的左边距。如果明确指定位置（在 Position 属性中），则忽略此值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 工件的左边距。 |
+| 值 |  | 工件的左边距。 |
 
-### setLinesAndState(String[] text, TextState textState) {#setLinesAndState-java.lang.String---com.aspose.pdf.TextState-}
-```
-public void setLinesAndState(String[] text, TextState textState)
-```
+### setLinesAndState {#setLinesAndState-java.lang.String:A-com.aspose.pdf.TextState-}
+设置工件的文本及其属性。允许指定多行。
 
-
-设置工件的文本和文本属性。允许指定多行。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| text | java.lang.String[] | 文本字符串数组。 |
-| textState | [TextState](../../com.aspose.pdf/textstate) | 文本属性。 |
-
-### setOpacity(double value) {#setOpacity-double-}
+### setOpacity {#setOpacity-double-}
 ```
 public void setOpacity(double value)
 ```
 
+设置工件的不透明度。可能的取值范围为 0..1。
 
-设置工件的不透明度。可能的值在 0..1 范围内。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 工件的不透明度。 |
+| 值 |  | 工件的不透明度。 |
 
-### setPdfPage(Page page) {#setPdfPage-com.aspose.pdf.Page-}
-```
-public void setPdfPage(Page page)
-```
+### setPageNumberReplacementString {#setPageNumberReplacementString-java.lang.String-}
+设置将被页码替换的字符串。默认值为 #。
 
+### setPdfPage {#setPdfPage-com.aspose.pdf.Page-}
+设置作为工件放置在文档页上的 PDF 页面。
 
-将放置在文档页面上的 PDF 页面设置为工件。
+### setPosition {#setPosition-com.aspose.pdf.Point-}
+设置工件的位置。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | 作为 Artifcact 放置的页面。 |
-
-### setPosition(Point value) {#setPosition-com.aspose.pdf.Point-}
-```
-public void setPosition(Point value)
-```
-
-
-设置工件位置。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Point](../../com.aspose.pdf/point) | 工件位置。 |
-
-### setRightMargin(double value) {#setRightMargin-double-}
+### setRightMargin {#setRightMargin-double-}
 ```
 public void setRightMargin(double value)
 ```
 
+设置工件的右侧边距。
 
-设置工件的右边距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 工件的右边距。 |
+| 值 |  | 工件的右边距。 |
 
-### setRotation(double value) {#setRotation-double-}
+### setRotation {#setRotation-double-}
 ```
 public void setRotation(double value)
 ```
 
+设置工件的旋转角度。
 
-设置工件旋转角度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 神器旋转角度。 |
+| 值 |  | 工件的旋转角度。 |
 
-### setSubtype(int value) {#setSubtype-int-}
-```
-public void setSubtype(int value)
-```
+### setSubtype {#setSubtype-com.aspose.pdf.Artifact.ArtifactSubtype-}
+设置工件的子类型。
 
-
-设置工件子类型。如果工件具有非标准子类型，则可以通过 CustomSubtype 读取子类型的名称。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | 工件子类型。 |
-
-### setText(FormattedText formattedText) {#setText-com.aspose.pdf.facades.FormattedText-}
-```
-public void setText(FormattedText formattedText)
-```
-
-
+### setText {#setText-com.aspose.pdf.facades.FormattedText-}
 设置工件的文本。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 包含工件文本的 FormattedText 对象。 |
-
-### setText(String value) {#setText-java.lang.String-}
-```
-public void setText(String value)
-```
-
-
+### setText {#setText-java.lang.String-}
 设置工件的文本。
 
-**参数：**
+### setTextAndState {#setTextAndState-java.lang.String-com.aspose.pdf.TextState-}
+设置工件的文本及其属性。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setTextAndState(String text, TextState textState) {#setTextAndState-java.lang.String-com.aspose.pdf.TextState-}
-```
-public void setTextAndState(String text, TextState textState)
-```
-
-
-设置工件的文本和文本属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| text | java.lang.String | 文本字符串。 |
-| textState | [TextState](../../com.aspose.pdf/textstate) | 文本状态。 |
-
-### setTextState(TextState value) {#setTextState-com.aspose.pdf.TextState-}
-```
-public final void setTextState(TextState value)
-```
-
-
+### setTextState {#setTextState-com.aspose.pdf.TextState-}
 工件文本的文本状态。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [TextState](../../com.aspose.pdf/textstate) | 文本状态实例 |
-
-### setTopMargin(double value) {#setTopMargin-double-}
+### setTopMargin {#setTopMargin-double-}
 ```
 public void setTopMargin(double value)
 ```
 
+设置工件的顶部边距。
 
-设置工件的上边距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 神器的上边距。 |
+| 值 |  | 工件的上边距。 |
 
-### setType(int value) {#setType-int-}
-```
-public void setType(int value)
-```
-
-
+### setType {#setType-com.aspose.pdf.Artifact.ArtifactType-}
 设置工件类型。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | 工件类型。 |
-
-### setValue(String name, String value) {#setValue-java.lang.String-java.lang.String-}
-```
-public void setValue(String name, String value)
-```
-
-
+### setValue {#setValue-java.lang.String-java.lang.String-}
 设置工件的自定义值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| name | java.lang.String | 自定义值的名称。 |
-| value | java.lang.String | 工件中的自定义值。 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |

@@ -1,222 +1,110 @@
 ---
-title: ToUnicodeProcessingRules
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 此类描述可用于解决 Adobe Preflight 错误文本无法映射到 Unicode 的规则。
+title: "ToUnicodeProcessingRules"
+linktitle: "ToUnicodeProcessingRules"
+second_title: "Aspose.PDF for Java API 参考"
+description: "此类描述了可用于解决 Adobe Preflight 错误 \"Text cannot be mapped to Unicode\" 的规则。"
 type: docs
-weight: 392
+weight: 5380
 url: /zh/java/com.aspose.pdf/tounicodeprocessingrules/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.ToUnicodeProcessingRules
+
 ```
-public class ToUnicodeProcessingRules
+public class ToUnicodeProcessingRules extends Object
 ```
 
-此类描述可用于解决 Adobe Preflight 错误“文本无法映射到 Unicode”的规则。
+此类描述可用于解决 Adobe Preflight 错误 "Text cannot be mapped to Unicode" 的规则。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [ToUnicodeProcessingRules()](#ToUnicodeProcessingRules--) | 构造函数 |
-| [ToUnicodeProcessingRules(boolean removeSpaces)](#ToUnicodeProcessingRules-boolean-) | 构造函数 |
-| [ToUnicodeProcessingRules(boolean removeSpaces, boolean mapNonLinkedUnicodesOnSpace)](#ToUnicodeProcessingRules-boolean-boolean-) | 构造函数 |
+| [ToUnicodeProcessingRules](#ToUnicodeProcessingRules--) | 初始化 {@link ToUnicodeProcessingRules} 类的新实例。 |
+| [ToUnicodeProcessingRules](#ToUnicodeProcessingRules-boolean-) | 使用指定的移除 CMap 名称中空格的选项，初始化 {@link ToUnicodeProcessingRules} 类的新实例。 |
+| [ToUnicodeProcessingRules](#ToUnicodeProcessingRules-boolean-boolean-) | 使用指定的选项，初始化 {@link ToUnicodeProcessingRules} 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getMapNonLinkedSymbolsOnSpace()](#getMapNonLinkedSymbolsOnSpace--) | 某些字体不提供有关某些文本符号的 unicode 的信息。 |
-| [getRemoveSpacesFromCMapNames()](#getRemoveSpacesFromCMapNames--) | 某些字体具有名称中带有空格的 ToUnicode 字符代码映射。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setMapNonLinkedSymbolsOnSpace(boolean value)](#setMapNonLinkedSymbolsOnSpace-boolean-) | 某些字体不提供有关某些文本符号的 unicode 的信息。 |
-| [setRemoveSpacesFromCMapNames(boolean value)](#setRemoveSpacesFromCMapNames-boolean-) | 某些字体具有名称中带有空格的 ToUnicode 字符代码映射。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### ToUnicodeProcessingRules() {#ToUnicodeProcessingRules--}
+| [getMapNonLinkedSymbolsOnSpace](#getMapNonLinkedSymbolsOnSpace--) | 某些字体未提供某些文本符号的 Unicode 信息。这种信息缺失会导致错误 "Text cannot be mapped to Unicode"。使用此标志可将未链接的符号映射为 Unicode "空格"(代码 32)。 |
+| [getRemoveSpacesFromCMapNames](#getRemoveSpacesFromCMapNames--) | 某些字体的 ToUnicode 字符码映射名称中包含空格。这些空格可能导致 Unicode 文本映射错误。此标志用于从 ToUnicode 字符码映射名称中移除空格。默认值为 false。 |
+| [setMapNonLinkedSymbolsOnSpace](#setMapNonLinkedSymbolsOnSpace-boolean-) | 某些字体未提供某些文本符号的 Unicode 信息。这种信息缺失会导致错误 "Text cannot be mapped to Unicode"。使用此标志可将未链接的符号映射为 Unicode "空格"(代码 32)。 |
+| [setRemoveSpacesFromCMapNames](#setRemoveSpacesFromCMapNames-boolean-) | 某些字体的 ToUnicode 字符码映射名称中包含空格。这些空格可能导致 Unicode 文本映射错误。此标志用于从 ToUnicode 字符码映射名称中移除空格。默认值为 false。 |
+
+### ToUnicodeProcessingRules {#ToUnicodeProcessingRules--}
 ```
 public ToUnicodeProcessingRules()
 ```
 
+初始化 {@link ToUnicodeProcessingRules} 类的新实例。
 
-构造函数
-
-### ToUnicodeProcessingRules(boolean removeSpaces) {#ToUnicodeProcessingRules-boolean-}
+### ToUnicodeProcessingRules {#ToUnicodeProcessingRules-boolean-}
 ```
 public ToUnicodeProcessingRules(boolean removeSpaces)
 ```
 
+使用指定的移除 CMap 名称中空格的选项，初始化 {@link ToUnicodeProcessingRules} 类的新实例。
 
-构造函数
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| removeSpaces | boolean | 设置 RemoveSpacesFromCMapNames 标志 |
+| removeSpaces |  | 一个布尔值，指示是否从 CMap 名称中移除空格。 |
 
-### ToUnicodeProcessingRules(boolean removeSpaces, boolean mapNonLinkedUnicodesOnSpace) {#ToUnicodeProcessingRules-boolean-boolean-}
+### ToUnicodeProcessingRules {#ToUnicodeProcessingRules-boolean-boolean-}
 ```
 public ToUnicodeProcessingRules(boolean removeSpaces, boolean mapNonLinkedUnicodesOnSpace)
 ```
 
+使用指定的选项，初始化 {@link ToUnicodeProcessingRules} 类的新实例。
 
-构造函数
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| removeSpaces | boolean | 设置 RemoveSpacesFromCMapNames 标志 |
-| mapNonLinkedUnicodesOnSpace | boolean | 设置 MapNonLinkedSymbolsOnSpace 标志 |
+| removeSpaces |  | 指示是否应从 CMap 名称中移除空格。 |
+| mapNonLinkedUnicodesOnSpace |  | 指示是否应将未链接的 Unicode 符号映射为空格。 |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getMapNonLinkedSymbolsOnSpace() {#getMapNonLinkedSymbolsOnSpace--}
+### getMapNonLinkedSymbolsOnSpace {#getMapNonLinkedSymbolsOnSpace--}
 ```
 public boolean getMapNonLinkedSymbolsOnSpace()
 ```
 
+某些字体未提供某些文本符号的 Unicode 信息。这种信息缺失会导致错误 "Text cannot be mapped to Unicode"。使用此标志可将未链接的符号映射为 Unicode "空格"(代码 32)。
 
-某些字体不提供有关某些文本符号的 unicode 的信息。缺少信息会导致错误“文本无法映射到 Unicode”。使用此标志将非链接符号映射到 unicode“空格”（代码 32）上。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getRemoveSpacesFromCMapNames() {#getRemoveSpacesFromCMapNames--}
+### getRemoveSpacesFromCMapNames {#getRemoveSpacesFromCMapNames--}
 ```
 public boolean getRemoveSpacesFromCMapNames()
 ```
 
+某些字体的 ToUnicode 字符码映射名称中包含空格。这些空格可能导致 Unicode 文本映射错误。此标志用于从 ToUnicode 字符码映射名称中移除空格。默认值为 false。
 
-某些字体具有名称中带有空格的 ToUnicode 字符代码映射。这些空格可能会调用 unicode 文本映射错误。此标志命令从 ToUnicode 字符代码映射的名称中删除空格。默认为假。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setMapNonLinkedSymbolsOnSpace(boolean value) {#setMapNonLinkedSymbolsOnSpace-boolean-}
+### setMapNonLinkedSymbolsOnSpace {#setMapNonLinkedSymbolsOnSpace-boolean-}
 ```
 public void setMapNonLinkedSymbolsOnSpace(boolean value)
 ```
 
+某些字体未提供某些文本符号的 Unicode 信息。这种信息缺失会导致错误 "Text cannot be mapped to Unicode"。使用此标志可将未链接的符号映射为 Unicode "空格"(代码 32)。
 
-某些字体不提供有关某些文本符号的 unicode 的信息。缺少信息会导致错误“文本无法映射到 Unicode”。使用此标志将非链接符号映射到 unicode“空格”（代码 32）上。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setRemoveSpacesFromCMapNames(boolean value) {#setRemoveSpacesFromCMapNames-boolean-}
+### setRemoveSpacesFromCMapNames {#setRemoveSpacesFromCMapNames-boolean-}
 ```
 public void setRemoveSpacesFromCMapNames(boolean value)
 ```
 
+某些字体的 ToUnicode 字符码映射名称中包含空格。这些空格可能导致 Unicode 文本映射错误。此标志用于从 ToUnicode 字符码映射名称中移除空格。默认值为 false。
 
-某些字体具有名称中带有空格的 ToUnicode 字符代码映射。这些空格可能会调用 unicode 文本映射错误。此标志命令从 ToUnicode 字符代码映射的名称中删除空格。默认为假。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 布尔值 |

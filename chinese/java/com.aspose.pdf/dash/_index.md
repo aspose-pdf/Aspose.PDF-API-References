@@ -1,198 +1,113 @@
 ---
-title: Dash
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示虚线模式的类。
+title: "Dash"
+linktitle: "Dash"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示线段虚线模式的类。"
 type: docs
-weight: 80
+weight: 910
 url: /zh/java/com.aspose.pdf/dash/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Dash
+
 ```
-public final class Dash
+public final class Dash extends Object
 ```
 
-表示虚线模式的类。
+表示线段虚线模式的类。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Dash(int on, int off)](#Dash-int-int-) | Dash 的构造函数。 |
+| [Dash](#Dash-int:A-) | Dash 的构造函数。定义用于绘制虚线边框的破折号和间隙模式。 |
+| [Dash](#Dash-int-int-) | Dash 的构造函数。定义使用指定的破折号和间隙的虚线边框，该破折号和间隙在整个虚线边框中保持不变。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getOff()](#getOff--) | 获取破折号之间的间隙长度。 |
-| [getOn()](#getOn--) | 获取或设置破折号的长度。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setOff(int value)](#setOff-int-) | 设置破折号之间的间隙长度。 |
-| [setOn(int value)](#setOn-int-) | 设置破折号的长度。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Dash(int on, int off) {#Dash-int-int-}
+| [getOff](#getOff--) | 获取或设置第一个破折号之间间隙的长度。 |
+| [getOn](#getOn--) | 获取或设置第一个破折号的长度。 |
+| [getPattern](#getPattern--) | 获取定义用于绘制虚线边框的破折号和间隙模式的 dash 数组。 |
+| [setOff](#setOff-int-) | 获取或设置第一个破折号之间间隙的长度。 |
+| [setOn](#setOn-int-) | 获取或设置第一个破折号的长度。 |
+
+### Dash {#Dash-int:A-}
+```
+public Dash(int[] pattern)
+```
+
+Dash 的构造函数。定义用于绘制虚线边框的破折号和间隙模式。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| 模式 |  | 一个 dash 数组（至少两个值），定义用于绘制虚线边框的破折号和间隙模式。 |
+
+### Dash {#Dash-int-int-}
 ```
 public Dash(int on, int off)
 ```
 
+Dash 的构造函数。定义使用指定的破折号和间隙的虚线边框，该破折号和间隙在整个虚线边框中保持不变。
 
-Dash 的构造函数。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| on | int | 破折号的长度。 |
-| off | int | 间隙的长度。 |
+| 开启 |  | 破折号的长度。 |
+| 关闭 |  | 间隙的长度。 |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### getOff {#getOff--}
 ```
-public boolean equals(Object arg0)
+public final int getOff()
 ```
 
+获取或设置第一个破折号之间间隙的长度。
 
+**Returns:**
+int 值
 
+### getOn {#getOn--}
+```
+public final int getOn()
+```
 
-**参数：**
+获取或设置第一个破折号的长度。
 
-| 范围 | 类型 | 描述 |
+**Returns:**
+int 值
+
+### getPattern {#getPattern--}
+```
+public final int[] getPattern()
+```
+
+获取定义用于绘制虚线边框的破折号和间隙模式的 dash 数组。
+
+**Returns:**
+int 数组
+
+### setOff {#setOff-int-}
+```
+public final void setOff(int value)
+```
+
+获取或设置第一个破折号之间间隙的长度。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| 值 |  | int 值 |
 
-**退货：**
-布尔值
-### getClass() {#getClass--}
+### setOn {#setOn-int-}
 ```
-public final native Class<?> getClass()
+public final void setOn(int value)
 ```
 
+获取或设置第一个破折号的长度。
 
-
-
-**退货：**
-java.lang.Class<?>
-### getOff() {#getOff--}
-```
-public int getOff()
-```
-
-
-获取破折号之间的间隙长度。
-
-**退货：**
-int - 整数值
-### getOn() {#getOn--}
-```
-public int getOn()
-```
-
-
-获取或设置破折号的长度。
-
-**退货：**
-int - 整数值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setOff(int value) {#setOff-int-}
-```
-public void setOff(int value)
-```
-
-
-设置破折号之间的间隙长度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
-
-### setOn(int value) {#setOn-int-}
-```
-public void setOn(int value)
-```
-
-
-设置破折号的长度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | 整数值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | int 值 |

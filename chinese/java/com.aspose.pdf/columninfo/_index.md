@@ -1,225 +1,89 @@
 ---
-title: ColumnInfo
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 此类表示列信息。
+title: "ColumnInfo"
+linktitle: "ColumnInfo"
+second_title: "Aspose.PDF for Java API 参考"
+description: "此类表示列的信息。"
 type: docs
-weight: 67
+weight: 730
 url: /zh/java/com.aspose.pdf/columninfo/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.ColumnInfo
+
 ```
-public final class ColumnInfo
+public final class ColumnInfo extends Object
 ```
 
-此类表示列信息。
+此类表示列的信息。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [ColumnInfo()](#ColumnInfo--) | 初始化 ColumnInfo 类的新实例。 |
+| [ColumnInfo](#ColumnInfo--) | 初始化 ColumnInfo 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getColumnCount()](#getColumnCount--) | 获取指示列数的 int 值。 |
-| [getColumnSpacing()](#getColumnSpacing--) | 获取或设置包含列间距的字符串。 |
-| [getColumnWidths()](#getColumnWidths--) | 获取或设置包含列宽的字符串。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setColumnCount(int value)](#setColumnCount-int-) | 设置指示列数的 int 值。 |
-| [setColumnSpacing(String value)](#setColumnSpacing-java.lang.String-) | 获取或设置包含列间距的字符串。 |
-| [setColumnWidths(String value)](#setColumnWidths-java.lang.String-) | 获取或设置包含列宽的字符串。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### ColumnInfo() {#ColumnInfo--}
+| [getColumnCount](#getColumnCount--) | 获取指示列数的整数值。 |
+| [getColumnSpacing](#getColumnSpacing--) | <p> 获取或设置一个包含列间距的字符串。每个间距的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）和英寸（inch）。例如，\"120 2.5cm 1.5inch\"。 </p><hr> <p> 如果未设置此属性，将对每个间距使用默认值 0。 </p> |
+| [getColumnWidths](#getColumnWidths--) | 获取或设置一个包含列宽的字符串。每列的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）、英寸（inch）以及可用宽度的百分比。例如，\"120 2.5cm 1.5inch\" |
+| [setColumnCount](#setColumnCount-int-) | 设置指示列数的整数值。 |
+| [setColumnSpacing](#setColumnSpacing-java.lang.String-) | <p> 获取或设置一个包含列间距的字符串。每个间距的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）和英寸（inch）。例如，\"120 2.5cm 1.5inch\"。 </p><hr> <p> 如果未设置此属性，将对每个间距使用默认值 0。 </p> |
+| [setColumnWidths](#setColumnWidths-java.lang.String-) | 获取或设置一个包含列宽的字符串。每列的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）、英寸（inch）以及可用宽度的百分比。例如，\"120 2.5cm 1.5inch\" |
+
+### ColumnInfo {#ColumnInfo--}
 ```
 public ColumnInfo()
 ```
 
-
 初始化 ColumnInfo 类的新实例。
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getColumnCount() {#getColumnCount--}
+### getColumnCount {#getColumnCount--}
 ```
 public int getColumnCount()
 ```
 
+获取指示列数的整数值。
 
-获取指示列数的 int 值。
+**Returns:**
+列计数
 
-**退货：**
-int - 列数
-### getColumnSpacing() {#getColumnSpacing--}
+### getColumnSpacing {#getColumnSpacing--}
 ```
 public String getColumnSpacing()
 ```
 
+<p> 获取或设置一个包含列间距的字符串。每个间距的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）和英寸（inch）。例如，\"120 2.5cm 1.5inch\"。 </p><hr> <p> 如果未设置此属性，将对每个间距使用默认值 0。 </p>
 
-获取或设置包含列间距的字符串。每个间距的值应该用空格分隔。默认单位为点，但也支持厘米和英寸。例如，“120 2.5cm 1.5inch”。
+**Returns:**
+字符串值
 
---------------------
-
-如果未设置此属性，则每个间距将使用默认值 0。
-
-**退货：**
-java.lang.String - 字符串值
-### getColumnWidths() {#getColumnWidths--}
+### getColumnWidths {#getColumnWidths--}
 ```
 public String getColumnWidths()
 ```
 
+获取或设置一个包含列宽的字符串。每列的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）、英寸（inch）以及可用宽度的百分比。例如，\"120 2.5cm 1.5inch\"
 
-获取或设置包含列宽的字符串。每列的值应该用空格分隔。默认单位是点，但也支持厘米、英寸和可用宽度的百分比。例如，“120 2.5cm 1.5inch”
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setColumnCount(int value) {#setColumnCount-int-}
+### setColumnCount {#setColumnCount-int-}
 ```
 public void setColumnCount(int value)
 ```
 
+设置指示列数的整数值。
 
-设置指示列数的 int 值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 列数 |
+| 值 |  | 列计数 |
 
-### setColumnSpacing(String value) {#setColumnSpacing-java.lang.String-}
-```
-public void setColumnSpacing(String value)
-```
+### setColumnSpacing {#setColumnSpacing-java.lang.String-}
+<p> 获取或设置一个包含列间距的字符串。每个间距的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）和英寸（inch）。例如，\"120 2.5cm 1.5inch\"。 </p><hr> <p> 如果未设置此属性，将对每个间距使用默认值 0。 </p>
 
-
-获取或设置包含列间距的字符串。每个间距的值应该用空格分隔。默认单位为点，但也支持厘米和英寸。例如，“120 2.5cm 1.5inch”。
-
---------------------
-
-如果未设置此属性，则每个间距将使用默认值 0。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setColumnWidths(String value) {#setColumnWidths-java.lang.String-}
-```
-public void setColumnWidths(String value)
-```
-
-
-获取或设置包含列宽的字符串。每列的值应该用空格分隔。默认单位是点，但也支持厘米、英寸和可用宽度的百分比。例如，“120 2.5cm 1.5inch”
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### setColumnWidths {#setColumnWidths-java.lang.String-}
+获取或设置一个包含列宽的字符串。每列的数值应以空格分隔。默认单位是点（point），但也支持厘米（cm）、英寸（inch）以及可用宽度的百分比。例如，\"120 2.5cm 1.5inch\"

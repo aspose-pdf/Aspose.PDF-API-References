@@ -1,162 +1,62 @@
 ---
-title: AbsorbedTable
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示页面上存在的表
+title: "AbsorbedTable"
+linktitle: "AbsorbedTable"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示页面上存在的表格"
 type: docs
-weight: 13
+weight: 30
 url: /zh/java/com.aspose.pdf/absorbedtable/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.AbsorbedTable
 
-**所有已实现的接口：**
-[com.aspose.pdf.ITableElement](../../com.aspose.pdf/itableelement)
+**All Implemented Interfaces:**
+ITableElement, Comparable < AbsorbedTable >
+
 ```
-public class AbsorbedTable implements ITableElement
+public class AbsorbedTable extends Object implements ITableElement , Comparable < AbsorbedTable >
 ```
 
-表示页面上存在的表
+表示页面上存在的表格
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getPageNum()](#getPageNum--) | 获取包含此表的页码 |
-| [getRectangle()](#getRectangle--) | 获取描述页面上表格位置的矩形 |
-| [getRowList()](#getRowList--) | 获取包含表行的只读 IList |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
+| [compareTo](#compareTo-com.aspose.pdf.AbsorbedTable-) | 比较当前的 AbsorbedTable 对象与另一个 AbsorbedTable 对象，并返回一个整数，指示当前对象在排序顺序中是位于前面、后面，还是与另一个对象处于相同位置。 |
+| [getPageNum](#getPageNum--) | 获取包含此表格的页码 |
+| [getRectangle](#getRectangle--) | 获取描述表格在页面上位置的矩形 |
+| [getRowList](#getRowList--) | <p> 获取只读 IList，包含表格的行 </p> |
 
+### compareTo {#compareTo-com.aspose.pdf.AbsorbedTable-}
+比较当前的 AbsorbedTable 对象与另一个 AbsorbedTable 对象，并返回一个整数，指示当前对象在排序顺序中是位于前面、后面，还是与另一个对象处于相同位置。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getPageNum() {#getPageNum--}
+### getPageNum {#getPageNum--}
 ```
 public int getPageNum()
 ```
 
+获取包含此表格的页码
 
-获取包含此表的页码
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getRectangle() {#getRectangle--}
+### getRectangle {#getRectangle--}
 ```
 public Rectangle getRectangle()
 ```
 
+获取描述表格在页面上位置的矩形
 
-获取描述页面上表格位置的矩形
+**Returns:**
+Rectangle 对象
 
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 矩形对象
-### getRowList() {#getRowList--}
+### getRowList {#getRowList--}
 ```
-public List<AbsorbedRow> getRowList()
-```
-
-
-获取包含表行的只读 IList
-
-**退货：**
-java.util.List<com.aspose.pdf.AbsorbedRow> - IGenericList 对象
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
+public List < AbsorbedRow > getRowList()
 ```
 
+<p> 获取只读 IList，包含表格的行 </p>
 
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+{@code IGenericList<AbsorbedRow>} 对象

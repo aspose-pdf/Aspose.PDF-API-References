@@ -1,340 +1,192 @@
 ---
-title: Arc
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 代表圆弧。
+title: "弧"
+linktitle: "弧"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示弧线。"
 type: docs
 weight: 10
 url: /zh/java/com.aspose.pdf.drawing/arc/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.drawing.Shape](../../com.aspose.pdf.drawing/shape)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.drawing.Shape com.aspose.pdf.drawing.Arc, com.aspose.pdf.drawing.Shape, com.aspose.pdf.drawing.Arc
+
+**All Implemented Interfaces:**
+IBoundsCheckableItem
+
 ```
 public final class Arc extends Shape
 ```
 
-代表圆弧。
+表示弧线。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Arc()](#Arc--) | 仅供内部使用 |
-| [Arc(double posX, double posY, double radius, double alpha, double beta)](#Arc-double-double-double-double-double-) | 初始化 Arc 类的新实例。 |
+| [Arc](#Arc--) | 仅供内部使用 |
+| [Arc](#Arc-double-double-double-double-double-) | 初始化 {@code Arc} 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAlpha()](#getAlpha--) | 获取指示圆弧起始角度的浮点值。 |
-| [getBeta()](#getBeta--) | 获取指示圆弧结束角度的浮点值。 |
-| [getClass()](#getClass--) |  |
-| [getGraphInfo()](#getGraphInfo--) | 获取指示图形信息的对象，如颜色、线宽等。 |
-| [getPosX()](#getPosX--) | 获取指示圆弧中心 x 坐标的浮点值。 |
-| [getPosY()](#getPosY--) | 获取指示圆弧中心的 y 坐标的浮点值。 |
-| [getRadius()](#getRadius--) | 获取指示圆弧半径的浮点值。 |
-| [getText()](#getText--) | 获取或设置形状的文本 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setAlpha(double value)](#setAlpha-double-) | 设置指示圆弧起始角度的浮点值。 |
-| [setBeta(double value)](#setBeta-double-) | 设置指示圆弧结束角度的浮点值。 |
-| [setGraphInfo(GraphInfo value)](#setGraphInfo-com.aspose.pdf.GraphInfo-) | 设置指示图形信息的对象，如颜色、线宽等。 |
-| [setPosX(double value)](#setPosX-double-) | 设置指示圆弧中心 x 坐标的浮点值。 |
-| [setPosY(double value)](#setPosY-double-) | 设置指示圆弧中心 y 坐标的浮点值。 |
-| [setRadius(double value)](#setRadius-double-) | 设置指示圆弧半径的浮点值。 |
-| [setText(TextFragment value)](#setText-com.aspose.pdf.TextFragment-) | 获取或设置形状的文本 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Arc() {#Arc--}
+| [checkBounds](#checkBounds-double-double-) | 检查该项是否适合给定容器尺寸（包括边界）。 |
+| [getAlpha](#getAlpha--) | 获取指示弧起始角度的 float 值。 |
+| [getBeta](#getBeta--) | 获取指示弧结束角度的 float 值。 |
+| [getPosX](#getPosX--) | 获取指示弧线中心 x 坐标的浮点值。 |
+| [getPosY](#getPosY--) | 获取指示弧线中心 y 坐标的浮点值。 |
+| [getRadius](#getRadius--) | 获取指示弧半径的 float 值。 |
+| [setAlpha](#setAlpha-double-) | 设置指示弧起始角度的 float 值。 |
+| [setBeta](#setBeta-double-) | 设置指示弧结束角度的 float 值。 |
+| [setPosX](#setPosX-double-) | 设置指示弧线中心 x 坐标的浮点值。 |
+| [setPosY](#setPosY-double-) | 设置指示弧线中心 y 坐标的浮点值。 |
+| [setRadius](#setRadius-double-) | 设置指示弧半径的 float 值。 |
+
+### Arc {#Arc--}
 ```
 public Arc()
 ```
 
-
 仅供内部使用
 
-### Arc(double posX, double posY, double radius, double alpha, double beta) {#Arc-double-double-double-double-double-}
+### Arc {#Arc-double-double-double-double-double-}
 ```
 public Arc(double posX, double posY, double radius, double alpha, double beta)
 ```
 
+初始化 {@code Arc} 类的新实例。
 
-初始化 Arc 类的新实例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| posX | double | 圆弧中心点的 x 坐标。 |
-| posY | double | 圆弧中心点的 y 坐标。 |
-| radius | double | 圆弧的半径值。 |
-| alpha | double | 圆弧的起始角度值。 |
-| beta | double | 圆弧的结束角度值。 |
+| posX |  | 弧的中心点的 x 坐标。 |
+| posY |  | 弧的中心点的 y 坐标。 |
+| 半径 |  | 弧的半径值。 |
+| alpha |  | 弧的起始角度值。 |
+| beta |  | 弧的结束角度值。 |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### checkBounds {#checkBounds-double-double-}
 ```
-public boolean equals(Object arg0)
+public boolean checkBounds(double containerWidth, double containerHeight)
 ```
 
+检查该项是否适合给定容器尺寸（包括边界）。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| containerWidth |  |  |
+| containerHeight |  |  |
 
-**退货：**
-布尔值
-### getAlpha() {#getAlpha--}
+**Returns:**
+如果匹配则为 true；否则为 false。
+
+### getAlpha {#getAlpha--}
 ```
 public double getAlpha()
 ```
 
+获取指示弧起始角度的 float 值。
 
-获取指示圆弧起始角度的浮点值。
+**Returns:**
+alpha 值。
 
-**退货：**
-double - alpha 值。
-### getBeta() {#getBeta--}
+### getBeta {#getBeta--}
 ```
 public double getBeta()
 ```
 
+获取指示弧结束角度的 float 值。
 
-获取指示圆弧结束角度的浮点值。
+**Returns:**
+beta 值
 
-**退货：**
-双贝塔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getGraphInfo() {#getGraphInfo--}
-```
-public GraphInfo getGraphInfo()
-```
-
-
-获取指示图形信息的对象，如颜色、线宽等。
-
-**退货：**
-[GraphInfo](../../com.aspose.pdf/graphinfo) 指示图形信息的对象。
-### getPosX() {#getPosX--}
+### getPosX {#getPosX--}
 ```
 public double getPosX()
 ```
 
+获取指示弧线中心 x 坐标的浮点值。
 
-获取指示圆弧中心 x 坐标的浮点值。
+**Returns:**
+弧的中心的 x 坐标。
 
-**退货：**
-double - 圆弧中心的 x 坐标。
-### getPosY() {#getPosY--}
+### getPosY {#getPosY--}
 ```
 public double getPosY()
 ```
 
+获取指示弧线中心 y 坐标的浮点值。
 
-获取指示圆弧中心的 y 坐标的浮点值。
+**Returns:**
+弧的中心的 y 坐标。
 
-**退货：**
-double - 圆弧中心的 y 坐标。
-### getRadius() {#getRadius--}
+### getRadius {#getRadius--}
 ```
 public double getRadius()
 ```
 
+获取指示弧半径的 float 值。
 
-获取指示圆弧半径的浮点值。
+**Returns:**
+指示弧半径的值。
 
-**退货：**
-double - 指示圆弧半径的值。
-### getText() {#getText--}
-```
-public TextFragment getText()
-```
-
-
-获取或设置形状的文本
-
-**退货：**
-[TextFragment](../../com.aspose.pdf/textfragment) - TextFragment 对象
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setAlpha(double value) {#setAlpha-double-}
+### setAlpha {#setAlpha-double-}
 ```
 public void setAlpha(double value)
 ```
 
+设置指示弧起始角度的 float 值。
 
-设置指示圆弧起始角度的浮点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 阿尔法值。 |
+| 值 |  | alpha 值。 |
 
-### setBeta(double value) {#setBeta-double-}
+### setBeta {#setBeta-double-}
 ```
 public void setBeta(double value)
 ```
 
+设置指示弧结束角度的 float 值。
 
-设置指示圆弧结束角度的浮点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 贝塔值 |
+| 值 |  | beta 值 |
 
-### setGraphInfo(GraphInfo value) {#setGraphInfo-com.aspose.pdf.GraphInfo-}
-```
-public void setGraphInfo(GraphInfo value)
-```
-
-
-设置指示图形信息的对象，如颜色、线宽等。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [GraphInfo](../../com.aspose.pdf/graphinfo) | 指示图形信息。 |
-
-### setPosX(double value) {#setPosX-double-}
+### setPosX {#setPosX-double-}
 ```
 public void setPosX(double value)
 ```
 
+设置指示弧线中心 x 坐标的浮点值。
 
-设置指示圆弧中心 x 坐标的浮点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 圆弧中心的 x 坐标。 |
+| 值 |  | 弧的中心的 x 坐标。 |
 
-### setPosY(double value) {#setPosY-double-}
+### setPosY {#setPosY-double-}
 ```
 public void setPosY(double value)
 ```
 
+设置指示弧线中心 y 坐标的浮点值。
 
-设置指示圆弧中心 y 坐标的浮点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 圆弧中心的 y 坐标。 |
+| 值 |  | 弧的中心的 y 坐标。 |
 
-### setRadius(double value) {#setRadius-double-}
+### setRadius {#setRadius-double-}
 ```
 public void setRadius(double value)
 ```
 
+设置指示弧半径的 float 值。
 
-设置指示圆弧半径的浮点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 表示圆弧的半径。 |
-
-### setText(TextFragment value) {#setText-com.aspose.pdf.TextFragment-}
-```
-public void setText(TextFragment value)
-```
-
-
-获取或设置形状的文本
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [TextFragment](../../com.aspose.pdf/textfragment) | 文本片段对象 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 指示弧半径的。 |

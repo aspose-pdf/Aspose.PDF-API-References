@@ -1,248 +1,162 @@
 ---
-title: Element
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示逻辑结构中元素的基类。
+title: "Element"
+linktitle: "Element"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示逻辑结构中元素的基类。"
 type: docs
 weight: 10
 url: /zh/java/com.aspose.pdf.tagged.logicalstructure.elements/element/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.elements.Element
+
 ```
-public abstract class Element
+public abstract class Element extends Object
 ```
 
 表示逻辑结构中元素的基类。
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [<T>findElements(Class<T> typeOfTboolean)](#-T-findElements-java.lang.Class-T--) | 查找给定类型的元素 |
-| [<T>findElements(Class<T> typeOfT, boolean recursiveSearch)](#-T-findElements-java.lang.Class-T--boolean-) | 查找给定类型的元素 |
-| [appendChild(Element element)](#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-) | 将 /Aspose.Pdf.LogicalStructure.Element 附加到子集合。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getChildElements()](#getChildElements--) | 获取 Element 对象的子集合。 |
-| [getClass()](#getClass--) |  |
-| [getElementEngine()](#getElementEngine--) | 获取父元素。 |
-| [getParentElement()](#getParentElement--) | 获取 Element 对象的父集合。 |
-| [getTaggedContent()](#getTaggedContent--) |  |
-| [getTrailer()](#getTrailer--) | 内部法 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setParentElement(Element parentElement)](#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-) |  |
-| [toString()](#toString--) | 返回表示当前对象的字符串。 |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### <T>findElements(Class<T> typeOfTboolean) {#-T-findElements-java.lang.Class-T--}
+| [appendChild](#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-) | 将 {@code /Aspose.Pdf.LogicalStructure.Element} 追加到子集合中。 |
+| [appendChild](#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-boolean-) | 将 {@code /Aspose.Pdf.LogicalStructure.Element} 追加到子集合中。 |
+| [clearChilds](#clearChilds--) | 清除所有子项。 |
+| [findElements](#findElements-java.lang.Class-) | 查找给定类型的元素 |
+| [findElements](#findElements-java.lang.Class-boolean-) | 查找给定类型的元素 |
+| [getChildElements](#getChildElements--) | 获取 {@code Element} 对象的子集合。 |
+| [getElementEngine](#getElementEngine--) | 获取父元素。 |
+| [getParentElement](#getParentElement--) | 获取 {@code Element} 对象的父集合。 |
+| [getTaggedContent](#getTaggedContent--) |  |
+| [getTrailer](#getTrailer--) | 内部方法 |
+| [insertChild](#insertChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-int-) | 在指定索引处将 {@code /Aspose.Pdf.LogicalStructure.Element} 插入到子集合中。 |
+| [insertChild](#insertChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-int-boolean-) | 在指定索引处将 {@code /Aspose.Pdf.LogicalStructure.Element} 插入到子集合中。 |
+| [preSave](#preSave--) |  |
+| [removeChild](#removeChild-int-) | 在此处移除子节点。 |
+| [setParentElement](#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-) |  |
+| [tag](#tag-com.aspose.pdf.Annotation-) | 将结构元素绑定到 Annotation。 |
+| [tag](#tag-com.aspose.pdf.Artifact-) | 将结构元素绑定到 Artifact。 |
+| [tag](#tag-com.aspose.pdf.operators.BDC-) | 将结构元素绑定到内容流 BDC 运算符。 |
+| [tag](#tag-com.aspose.pdf.XForm-) | 将结构元素绑定到内容流 XForm。 |
+| [tag](#tag-com.aspose.pdf.XImage-) | 将结构元素绑定到 XImage。 |
+| [toString](#toString--) | 返回表示当前对象的字符串。 |
+
+### appendChild {#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
+将 {@code /Aspose.Pdf.LogicalStructure.Element} 追加到子集合中。
+
+### appendChild {#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-boolean-}
+将 {@code /Aspose.Pdf.LogicalStructure.Element} 追加到子集合中。
+
+### clearChilds {#clearChilds--}
 ```
-public List<T> <T>findElements(Class<T> typeOfTboolean)
+public final void clearChilds()
 ```
 
+清除所有子项。
 
+### findElements {#findElements-java.lang.Class-}
 查找给定类型的元素
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| typeOfTboolean | java.lang.Class<T> | 类实例 |
-
-**退货：**
-java.util.列表<T> 找到的元素列表
-### <T>findElements(Class<T> typeOfT, boolean recursiveSearch) {#-T-findElements-java.lang.Class-T--boolean-}
-```
-public List<T> <T>findElements(Class<T> typeOfT, boolean recursiveSearch)
-```
-
-
+### findElements {#findElements-java.lang.Class-boolean-}
 查找给定类型的元素
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| typeOfT | java.lang.Class<T> | 类实例 |
-| recursiveSearch | boolean | （可选）递归搜索（默认 false，仅从直接子项搜索） |
-
-**退货：**
-java.util.列表<T> 找到的元素列表
-### appendChild(Element element) {#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
-```
-public final Element appendChild(Element element)
-```
-
-
-将 /Aspose.Pdf.LogicalStructure.Element 附加到子集合。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| element | [Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) |  /Aspose.Pdf.LogicalStructure.Element 对象添加。 |
-
-**退货：**
-[Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) - 添加了/Aspose.Pdf.LogicalStructure.Element。
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getChildElements() {#getChildElements--}
+### getChildElements {#getChildElements--}
 ```
 public final ElementList getChildElements()
 ```
 
+获取 {@code Element} 对象的子集合。
 
-获取 Element 对象的子集合。
+**Returns:**
+值：{@code Element} 对象的子集合。
 
-**退货：**
-[ElementList](../../com.aspose.pdf.tagged.logicalstructure/elementlist) - 值：元素对象的子集合。
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getElementEngine() {#getElementEngine--}
+### getElementEngine {#getElementEngine--}
 ```
 public final ElementPdfEngine getElementEngine()
 ```
 
-
 获取父元素。
 
-**退货：**
-[ElementPdfEngine](../../com.aspose.pdf.tagged.logicalstructure/elementpdfengine) - 值：父元素。
-### getParentElement() {#getParentElement--}
+**Returns:**
+值：父元素。
+
+### getParentElement {#getParentElement--}
 ```
 public final Element getParentElement()
 ```
 
+获取 {@code Element} 对象的父集合。
 
-获取 Element 对象的父集合。
+**Returns:**
+值：{@code Element} 对象的父集合。
 
-**退货：**
-[Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) - 值：元素对象的父集合。
-### getTaggedContent() {#getTaggedContent--}
+### getTaggedContent {#getTaggedContent--}
 ```
 public final ITaggedContent getTaggedContent()
 ```
 
 
 
-
-**退货：**
-[ITaggedContent](../../com.aspose.pdf.tagged/itaggedcontent)
-### getTrailer() {#getTrailer--}
+### getTrailer {#getTrailer--}
 ```
-public final ITrailerable getTrailer()
+public final com.aspose.pdf.engine.data.ITrailerable getTrailer()
 ```
 
+内部方法
 
-内部法
+**Returns:**
+内部元素
 
-**退货：**
-[ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) - 内部元素
-### hashCode() {#hashCode--}
+### insertChild {#insertChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-int-}
+在指定索引处将 {@code /Aspose.Pdf.LogicalStructure.Element} 插入到子集合中。
+
+### insertChild {#insertChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-int-boolean-}
+在指定索引处将 {@code /Aspose.Pdf.LogicalStructure.Element} 插入到子集合中。
+
+### preSave {#preSave--}
 ```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
+public void preSave()
 ```
 
 
 
-
-### notifyAll() {#notifyAll--}
+### removeChild {#removeChild-int-}
 ```
-public final native void notifyAll()
-```
-
-
-
-
-### setParentElement(Element parentElement) {#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
-```
-public void setParentElement(Element parentElement)
+public final void removeChild(int index)
 ```
 
+在此处移除子节点。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| parentElement | [Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) |  |
+| 索引 |  | 子元素索引。 |
 
-### toString() {#toString--}
+### setParentElement {#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
+
+
+### tag {#tag-com.aspose.pdf.Annotation-}
+将结构元素绑定到 Annotation。
+
+### tag {#tag-com.aspose.pdf.Artifact-}
+将结构元素绑定到 Artifact。
+
+### tag {#tag-com.aspose.pdf.operators.BDC-}
+将结构元素绑定到内容流 BDC 运算符。
+
+### tag {#tag-com.aspose.pdf.XForm-}
+将结构元素绑定到内容流 XForm。
+
+### tag {#tag-com.aspose.pdf.XImage-}
+将结构元素绑定到 XImage。
+
+### toString {#toString--}
 ```
 public String toString()
 ```
 
-
 返回表示当前对象的字符串。
 
-**退货：**
-java.lang.String - 表示当前对象的字符串。
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+表示当前对象的字符串。

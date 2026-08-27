@@ -1,581 +1,326 @@
 ---
-title: StructureTextState
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示 Text Structure Elements 和 TaggedContent ITextElement ITaggedContent 的文本状态设置
+title: "StructureTextState"
+linktitle: "StructureTextState"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示文本结构元素和标记内容（ITextElement、ITaggedContent）的文本状态设置。"
 type: docs
-weight: 19
+weight: 120
 url: /zh/java/com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState
+
 ```
-public class StructureTextState
+public class StructureTextState extends Object
 ```
 
-表示 Text Structure Elements 和 TaggedContent (ITextElement, ITaggedContent) 的文本状态设置
+表示文本结构元素和标记内容（ITextElement、ITaggedContent）的文本状态设置。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [StructureTextState()](#StructureTextState--) | 默认构造函数 |
+| [StructureTextState](#StructureTextState--) | 默认构造函数 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [createTextState()](#createTextState--) | 创建文本状态 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBackgroundColor()](#getBackgroundColor--) | 获取或设置文本的背景颜色。 |
-| [getCharacterSpacing()](#getCharacterSpacing--) | 获取或设置文本的字符间距。 |
-| [getClass()](#getClass--) |  |
-| [getFont()](#getFont--) | 获取或设置文本的字体。 |
-| [getFontSize()](#getFontSize--) | 获取或设置文本的字体大小。 |
-| [getFontStyle()](#getFontStyle--) | 获取或设置文本的字体样式。 |
-| [getForegroundColor()](#getForegroundColor--) | 获取或设置文本的前景色。 |
-| [getHorizontalScaling()](#getHorizontalScaling--) | 获取或设置文本的水平缩放比例。 |
-| [getLineSpacing()](#getLineSpacing--) | 获取或设置文本的行间距。 |
-| [getMarginInfo()](#getMarginInfo--) | 获取或设置块结构元素的边距。 |
-| [getStrikeOut()](#getStrikeOut--) | 获取或设置文本的删除线。 |
-| [getSubscript()](#getSubscript--) | 获取或设置文本的下标。 |
-| [getSuperscript()](#getSuperscript--) | 获取或设置文本的上标。 |
-| [getUnderline()](#getUnderline--) | 获取或设置文本的下划线。 |
-| [getWordSpacing()](#getWordSpacing--) | 获取或设置文本的字间距。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | 获取或设置文本的背景颜色。 |
-| [setCharacterSpacing(Float value)](#setCharacterSpacing-java.lang.Float-) | 获取或设置文本的字符间距。 |
-| [setFont(Font value)](#setFont-com.aspose.pdf.Font-) | 获取或设置文本的字体。 |
-| [setFontSize(Float value)](#setFontSize-java.lang.Float-) | 获取或设置文本的字体大小。 |
-| [setFontStyle(Integer value)](#setFontStyle-java.lang.Integer-) | 获取或设置文本的字体样式。 |
-| [setForegroundColor(Color value)](#setForegroundColor-com.aspose.pdf.Color-) | 获取或设置文本的前景色。 |
-| [setHorizontalScaling(Float value)](#setHorizontalScaling-java.lang.Float-) | 获取或设置文本的水平缩放比例。 |
-| [setLineSpacing(Float value)](#setLineSpacing-java.lang.Float-) | 获取或设置文本的行间距。 |
-| [setMarginInfo(MarginInfo value)](#setMarginInfo-com.aspose.pdf.MarginInfo-) | 获取或设置块结构元素的边距。 |
-| [setStrikeOut(Boolean value)](#setStrikeOut-java.lang.Boolean-) | 获取或设置文本的删除线。 |
-| [setSubscript(Boolean value)](#setSubscript-java.lang.Boolean-) | 获取或设置文本的下标。 |
-| [setSuperscript(Boolean value)](#setSuperscript-java.lang.Boolean-) | 获取或设置文本的上标。 |
-| [setUnderline(Boolean value)](#setUnderline-java.lang.Boolean-) | 获取或设置文本的下划线。 |
-| [setWordSpacing(Float value)](#setWordSpacing-java.lang.Float-) | 获取或设置文本的字间距。 |
-| [toString()](#toString--) |  |
-| [update(StructureTextState structureTextState)](#update-com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState-) | 更新元素 |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### StructureTextState() {#StructureTextState--}
+| [createTextState](#createTextState--) | 创建文本状态 |
+| [getBackgroundColor](#getBackgroundColor--) | 获取或设置文本的背景颜色。可以为 null。使用 null 可从父结构元素继承 {@code BackgroundColor} 属性。 |
+| [getCharacterSpacing](#getCharacterSpacing--) | 获取或设置文本的字符间距。可以为 null。使用 null 可从父结构元素继承 {@code CharacterSpacing} 属性。 |
+| [getFont](#getFont--) | 获取或设置文本的字体。可以为 null。使用 null 可从父结构元素继承 {@code Font} 属性。 |
+| [getFontSize](#getFontSize--) | 获取或设置文本的字体大小。可以为 null。使用 null 可从父结构元素继承 {@code FontSize} 属性。 |
+| [getFontStyle](#getFontStyle--) | 获取或设置文本的字体样式。可以为 null。使用 null 可从父结构元素继承 {@code FontStyle} 属性。 |
+| [getForegroundColor](#getForegroundColor--) | 获取或设置文本的前景颜色。可以为 null。使用 null 可从父结构元素继承 {@code ForegroundColor} 属性。 |
+| [getHorizontalAlignment](#getHorizontalAlignment--) | 获取或设置段落的水平对齐方式 |
+| [getHorizontalScaling](#getHorizontalScaling--) | 获取或设置文本的水平缩放。可以为 null。使用 null 可从父结构元素继承 {@code HorizontalScaling} 属性。 |
+| [getLineSpacing](#getLineSpacing--) | 获取或设置文本的行间距。可以为 null。使用 null 可从父结构元素继承 {@code LineSpacing} 属性。 |
+| [getMarginInfo](#getMarginInfo--) | 获取或设置块结构元素的边距。 |
+| [getStrikeOut](#getStrikeOut--) | 获取或设置文本的删除线。可以为 null。使用 null 可从父结构元素继承 {@code StrikeOut} 属性。 |
+| [getSubscript](#getSubscript--) | 获取或设置文本的下标。可以为 null。使用 null 可从父结构元素继承 {@code Subscript} 属性。 |
+| [getSuperscript](#getSuperscript--) | 获取或设置文本的上标。可以为 null。使用 null 可从父结构元素继承 {@code Superscript} 属性。 |
+| [getUnderline](#getUnderline--) | 获取或设置文本的下划线。可以为 null。使用 null 可从父结构元素继承 {@code Underline} 属性。 |
+| [getVerticalAlignment](#getVerticalAlignment--) | 获取或设置段落的垂直对齐方式 |
+| [getWordSpacing](#getWordSpacing--) | 获取或设置文本的字间距。可以为 null。使用 null 可从父结构元素继承 {@code WordSpacing} 属性。 |
+| [isFirstParagraphInColumn](#isFirstParagraphInColumn--) | 获取或设置一个布尔值，指示此段落是否将在下一列。默认值为 false。 |
+| [isInLineParagraph](#isInLineParagraph--) | 获取或设置段落是否为内联。默认值为 false。 |
+| [isInNewPage](#isInNewPage--) | 获取或设置一个布尔值，强制此段落在新页面生成。默认值为 false。 |
+| [isKeptWithNext](#isKeptWithNext--) | 获取或设置一个布尔值，指示当前段落是否与下一个段落保持在同一页。默认值为 false。 |
+| [setBackgroundColor](#setBackgroundColor-com.aspose.pdf.Color-) | 获取或设置文本的背景颜色。可以为 null。使用 null 可从父结构元素继承 {@code BackgroundColor} 属性。 |
+| [setCharacterSpacing](#setCharacterSpacing-com.aspose.ms.System.Nullable-) | 获取或设置文本的字符间距。 |
+| [setFont](#setFont-com.aspose.pdf.Font-) | 获取或设置文本的字体。可以为 null。使用 null 可从父结构元素继承 {@code Font} 属性。 |
+| [setFontSize](#setFontSize-com.aspose.ms.System.Nullable-) | 获取或设置文本的字体大小。 |
+| [setFontStyle](#setFontStyle-com.aspose.ms.System.Nullable-) | 获取或设置文本的字体样式。 |
+| [setForegroundColor](#setForegroundColor-com.aspose.pdf.Color-) | 获取或设置文本的前景颜色。可以为 null。使用 null 可从父结构元素继承 {@code ForegroundColor} 属性。 |
+| [setHorizontalScaling](#setHorizontalScaling-com.aspose.ms.System.Nullable-) | 获取或设置文本的水平缩放。 |
+| [setLineSpacing](#setLineSpacing-com.aspose.ms.System.Nullable-) | 获取或设置文本的行间距。 |
+| [setMarginInfo](#setMarginInfo-com.aspose.pdf.MarginInfo-) | 获取或设置块结构元素的边距。 |
+| [setStrikeOut](#setStrikeOut-com.aspose.ms.System.Nullable-) | 获取或设置文本的删除线。 |
+| [setSubscript](#setSubscript-com.aspose.ms.System.Nullable-) | 获取或设置文本的下标。 |
+| [setSuperscript](#setSuperscript-com.aspose.ms.System.Nullable-) | 获取或设置文本的上标。 |
+| [setUnderline](#setUnderline-com.aspose.ms.System.Nullable-) | 获取或设置文本的下划线。 |
+| [setWordSpacing](#setWordSpacing-com.aspose.ms.System.Nullable-) | 获取或设置文本的字间距。 |
+| [update](#update-com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState-) | 更新元素 |
+
+### StructureTextState {#StructureTextState--}
 ```
 public StructureTextState()
 ```
 
-
 默认构造函数
 
-### createTextState() {#createTextState--}
+### createTextState {#createTextState--}
 ```
 public final TextState createTextState()
 ```
 
-
 创建文本状态
 
-**退货：**
-[TextState](../../com.aspose.pdf/textstate) - 文本状态实例
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
+**Returns:**
+TextState 实例
 
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getBackgroundColor() {#getBackgroundColor--}
+### getBackgroundColor {#getBackgroundColor--}
 ```
 public final Color getBackgroundColor()
 ```
 
+获取或设置文本的背景颜色。可以为 null。使用 null 可从父结构元素继承 {@code BackgroundColor} 属性。
 
-获取或设置文本的背景颜色。
+**Returns:**
+Color 实例
 
-可以为空。使用 null 从父结构元素继承 BackgroundColor 属性。
-
-**退货：**
-[Color](../../com.aspose.pdf/color) 颜色实例
-### getCharacterSpacing() {#getCharacterSpacing--}
+### getCharacterSpacing {#getCharacterSpacing--}
 ```
-public final Float[] getCharacterSpacing()
+public final com.aspose.ms.System.Nullable< Float > getCharacterSpacing()
 ```
 
+获取或设置文本的字符间距。可以为 null。使用 null 可从父结构元素继承 {@code CharacterSpacing} 属性。
 
-获取或设置文本的字符间距。
+**Returns:**
+浮点数组
 
-可以为空。使用 null 从父结构元素继承 CharacterSpacing 属性。
-
-**退货：**
-java.lang.Float[- 浮动数组
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getFont() {#getFont--}
+### getFont {#getFont--}
 ```
 public final Font getFont()
 ```
 
+获取或设置文本的字体。可以为 null。使用 null 可从父结构元素继承 {@code Font} 属性。
 
-获取或设置文本的字体。
+**Returns:**
+字体实例
 
-可以为空。使用 null 从父结构元素继承 Font 属性。
-
-**退货：**
-[Font](../../com.aspose.pdf/font) 字体实例
-### getFontSize() {#getFontSize--}
+### getFontSize {#getFontSize--}
 ```
-public final Float[] getFontSize()
+public final com.aspose.ms.System.Nullable< Float > getFontSize()
 ```
 
+获取或设置文本的字体大小。可以为 null。使用 null 可从父结构元素继承 {@code FontSize} 属性。
 
-获取或设置文本的字体大小。
+**Returns:**
+浮点数组
 
-可以为空。使用 null 从父结构元素继承 FontSize 属性。
-
-**退货：**
-java.lang.Float[- 浮动数组
-### getFontStyle() {#getFontStyle--}
+### getFontStyle {#getFontStyle--}
 ```
-public final Integer[] getFontStyle()
+public final com.aspose.ms.System.Nullable< Integer > getFontStyle()
 ```
 
+获取或设置文本的字体样式。可以为 null。使用 null 可从父结构元素继承 {@code FontStyle} 属性。
 
-获取或设置文本的字体样式。
+**Returns:**
+整数数组
 
-可以为空。使用 null 从父结构元素继承 FontStyle 属性。
-
-**退货：**
-java.lang.整数[- 整数数组
-### getForegroundColor() {#getForegroundColor--}
+### getForegroundColor {#getForegroundColor--}
 ```
 public final Color getForegroundColor()
 ```
 
+获取或设置文本的前景颜色。可以为 null。使用 null 可从父结构元素继承 {@code ForegroundColor} 属性。
 
-获取或设置文本的前景色。
+**Returns:**
+Color 实例
 
-可以为空。使用 null 从父结构元素继承 ForegroundColor 属性。
-
-**退货：**
-[Color](../../com.aspose.pdf/color) 颜色实例
-### getHorizontalScaling() {#getHorizontalScaling--}
+### getHorizontalAlignment {#getHorizontalAlignment--}
 ```
-public final Float[] getHorizontalScaling()
+public final com.aspose.ms.System.Nullable< HorizontalAlignment > getHorizontalAlignment()
 ```
 
+获取或设置段落的水平对齐方式
 
-获取或设置文本的水平缩放比例。
+**Returns:**
+HorizontalAlignment 元素
 
-可以为空。使用 null 从父结构元素继承 HorizontalScaling 属性。
-
-**退货：**
-java.lang.Float[- 浮动数组
-### getLineSpacing() {#getLineSpacing--}
+### getHorizontalScaling {#getHorizontalScaling--}
 ```
-public final Float[] getLineSpacing()
+public final com.aspose.ms.System.Nullable< Float > getHorizontalScaling()
 ```
 
+获取或设置文本的水平缩放。可以为 null。使用 null 可从父结构元素继承 {@code HorizontalScaling} 属性。
 
-获取或设置文本的行间距。
+**Returns:**
+浮点数组
 
-可以为空。使用 null 从父结构元素继承 LineSpacing 属性。
-
-**退货：**
-java.lang.Float[- 浮动数组
-### getMarginInfo() {#getMarginInfo--}
+### getLineSpacing {#getLineSpacing--}
 ```
-public final MarginInfo getMarginInfo()
+public final com.aspose.ms.System.Nullable< Float > getLineSpacing()
 ```
 
+获取或设置文本的行间距。可以为 null。使用 null 可从父结构元素继承 {@code LineSpacing} 属性。
+
+**Returns:**
+浮点数组
+
+### getMarginInfo {#getMarginInfo--}
+```
+@Deprecated public final MarginInfo getMarginInfo()
+```
 
 获取或设置块结构元素的边距。
 
-**退货：**
-[MarginInfo](../../com.aspose.pdf/margininfo) MarginInfo 实例
-### getStrikeOut() {#getStrikeOut--}
+**Returns:**
+MarginInfo 实例 @deprecated 使用 IAdjustPosition.AdjustPosition(PositionSettings positionSettings) 方法来设置位置设置
+
+### getStrikeOut {#getStrikeOut--}
 ```
-public final Boolean[] getStrikeOut()
-```
-
-
-获取或设置文本的删除线。
-
-可以为空。使用 null 从父结构元素继承 StrikeOut 属性。
-
-**退货：**
-java.lang.布尔值[- 布尔数组
-### getSubscript() {#getSubscript--}
-```
-public final Boolean[] getSubscript()
+public final com.aspose.ms.System.Nullable< Boolean > getStrikeOut()
 ```
 
+获取或设置文本的删除线。可以为 null。使用 null 可从父结构元素继承 {@code StrikeOut} 属性。
 
-获取或设置文本的下标。
+**Returns:**
+布尔数组
 
-可以为空。使用 null 从父结构元素继承 Subscript 属性。
-
-**退货：**
-java.lang.布尔值[- 布尔数组
-### getSuperscript() {#getSuperscript--}
+### getSubscript {#getSubscript--}
 ```
-public final Boolean[] getSuperscript()
+public final com.aspose.ms.System.Nullable< Boolean > getSubscript()
 ```
 
+获取或设置文本的下标。可以为 null。使用 null 可从父结构元素继承 {@code Subscript} 属性。
 
-获取或设置文本的上标。
+**Returns:**
+布尔数组
 
-可以为空。使用 null 从父结构元素继承 Superscript 属性。
-
-**退货：**
-java.lang.布尔值[- 布尔数组
-### getUnderline() {#getUnderline--}
+### getSuperscript {#getSuperscript--}
 ```
-public final Boolean[] getUnderline()
+public final com.aspose.ms.System.Nullable< Boolean > getSuperscript()
 ```
 
+获取或设置文本的上标。可以为 null。使用 null 可从父结构元素继承 {@code Superscript} 属性。
 
-获取或设置文本的下划线。
+**Returns:**
+布尔数组
 
-可以为空。使用 null 从父结构元素继承 Underline 属性。
-
-**退货：**
-java.lang.布尔值[- 布尔数组
-### getWordSpacing() {#getWordSpacing--}
+### getUnderline {#getUnderline--}
 ```
-public final Float[] getWordSpacing()
+public final com.aspose.ms.System.Nullable< Boolean > getUnderline()
 ```
 
+获取或设置文本的下划线。可以为 null。使用 null 可从父结构元素继承 {@code Underline} 属性。
 
-获取或设置文本的字间距。
+**Returns:**
+布尔数组
 
-可以为空。使用 null 从父结构元素继承 WordSpacing 属性。
-
-**退货：**
-java.lang.Float[- 浮动数组
-### hashCode() {#hashCode--}
+### getVerticalAlignment {#getVerticalAlignment--}
 ```
-public native int hashCode()
+public final com.aspose.ms.System.Nullable< VerticalAlignment > getVerticalAlignment()
 ```
 
+获取或设置段落的垂直对齐方式
 
+**Returns:**
+VerticalAlignment 元素
 
-
-**退货：**
-整数
-### notify() {#notify--}
+### getWordSpacing {#getWordSpacing--}
 ```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
+public final com.aspose.ms.System.Nullable< Float > getWordSpacing()
 ```
 
+获取或设置文本的字间距。可以为 null。使用 null 可从父结构元素继承 {@code WordSpacing} 属性。
 
+**Returns:**
+浮点数组
 
-
-### setBackgroundColor(Color value) {#setBackgroundColor-com.aspose.pdf.Color-}
+### isFirstParagraphInColumn {#isFirstParagraphInColumn--}
 ```
-public final void setBackgroundColor(Color value)
-```
-
-
-获取或设置文本的背景颜色。
-
-可以为空。使用 null 从父结构元素继承 BackgroundColor 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | 颜色实例 |
-
-### setCharacterSpacing(Float value) {#setCharacterSpacing-java.lang.Float-}
-```
-public final void setCharacterSpacing(Float value)
+public final com.aspose.ms.System.Nullable< Boolean > isFirstParagraphInColumn()
 ```
 
+获取或设置一个布尔值，指示此段落是否将在下一列。默认值为 false。
 
+**Returns:**
+布尔值
+
+### isInLineParagraph {#isInLineParagraph--}
+```
+public final com.aspose.ms.System.Nullable< Boolean > isInLineParagraph()
+```
+
+获取或设置段落是否为内联。默认值为 false。
+
+**Returns:**
+布尔值
+
+### isInNewPage {#isInNewPage--}
+```
+public final com.aspose.ms.System.Nullable< Boolean > isInNewPage()
+```
+
+获取或设置一个布尔值，强制此段落在新页面生成。默认值为 false。
+
+**Returns:**
+布尔值
+
+### isKeptWithNext {#isKeptWithNext--}
+```
+public final com.aspose.ms.System.Nullable< Boolean > isKeptWithNext()
+```
+
+获取或设置一个布尔值，指示当前段落是否与下一个段落保持在同一页。默认值为 false。
+
+**Returns:**
+布尔值
+
+### setBackgroundColor {#setBackgroundColor-com.aspose.pdf.Color-}
+获取或设置文本的背景颜色。可以为 null。使用 null 可从父结构元素继承 {@code BackgroundColor} 属性。
+
+### setCharacterSpacing {#setCharacterSpacing-com.aspose.ms.System.Nullable-}
 获取或设置文本的字符间距。
 
-可以为空。使用 null 从父结构元素继承 CharacterSpacing 属性。
+### setFont {#setFont-com.aspose.pdf.Font-}
+获取或设置文本的字体。可以为 null。使用 null 可从父结构元素继承 {@code Font} 属性。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Float | 浮动值 |
-
-### setFont(Font value) {#setFont-com.aspose.pdf.Font-}
-```
-public final void setFont(Font value)
-```
-
-
-获取或设置文本的字体。
-
-可以为空。使用 null 从父结构元素继承 Font 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Font](../../com.aspose.pdf/font) | 字体实例 |
-
-### setFontSize(Float value) {#setFontSize-java.lang.Float-}
-```
-public final void setFontSize(Float value)
-```
-
-
+### setFontSize {#setFontSize-com.aspose.ms.System.Nullable-}
 获取或设置文本的字体大小。
 
-可以为空。使用 null 从父结构元素继承 FontSize 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Float | 浮动值 |
-
-### setFontStyle(Integer value) {#setFontStyle-java.lang.Integer-}
-```
-public final void setFontStyle(Integer value)
-```
-
-
+### setFontStyle {#setFontStyle-com.aspose.ms.System.Nullable-}
 获取或设置文本的字体样式。
 
-可以为空。使用 null 从父结构元素继承 FontStyle 属性。
+### setForegroundColor {#setForegroundColor-com.aspose.pdf.Color-}
+获取或设置文本的前景颜色。可以为 null。使用 null 可从父结构元素继承 {@code ForegroundColor} 属性。
 
-**参数：**
+### setHorizontalScaling {#setHorizontalScaling-com.aspose.ms.System.Nullable-}
+获取或设置文本的水平缩放。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Integer | FontStyle 元素值 |
-
-### setForegroundColor(Color value) {#setForegroundColor-com.aspose.pdf.Color-}
-```
-public final void setForegroundColor(Color value)
-```
-
-
-获取或设置文本的前景色。
-
-可以为空。使用 null 从父结构元素继承 ForegroundColor 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | 颜色实例 |
-
-### setHorizontalScaling(Float value) {#setHorizontalScaling-java.lang.Float-}
-```
-public final void setHorizontalScaling(Float value)
-```
-
-
-获取或设置文本的水平缩放比例。
-
-可以为空。使用 null 从父结构元素继承 HorizontalScaling 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Float | 浮动值 |
-
-### setLineSpacing(Float value) {#setLineSpacing-java.lang.Float-}
-```
-public final void setLineSpacing(Float value)
-```
-
-
+### setLineSpacing {#setLineSpacing-com.aspose.ms.System.Nullable-}
 获取或设置文本的行间距。
 
-可以为空。使用 null 从父结构元素继承 LineSpacing 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Float | 浮动值 |
-
-### setMarginInfo(MarginInfo value) {#setMarginInfo-com.aspose.pdf.MarginInfo-}
-```
-public final void setMarginInfo(MarginInfo value)
-```
-
-
+### setMarginInfo {#setMarginInfo-com.aspose.pdf.MarginInfo-}
 获取或设置块结构元素的边距。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo 实例 |
-
-### setStrikeOut(Boolean value) {#setStrikeOut-java.lang.Boolean-}
-```
-public final void setStrikeOut(Boolean value)
-```
-
-
+### setStrikeOut {#setStrikeOut-com.aspose.ms.System.Nullable-}
 获取或设置文本的删除线。
 
-可以为空。使用 null 从父结构元素继承 StrikeOut 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Boolean | 布尔值 |
-
-### setSubscript(Boolean value) {#setSubscript-java.lang.Boolean-}
-```
-public final void setSubscript(Boolean value)
-```
-
-
+### setSubscript {#setSubscript-com.aspose.ms.System.Nullable-}
 获取或设置文本的下标。
 
-可以为空。使用 null 从父结构元素继承 Subscript 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Boolean | 布尔值 |
-
-### setSuperscript(Boolean value) {#setSuperscript-java.lang.Boolean-}
-```
-public final void setSuperscript(Boolean value)
-```
-
-
+### setSuperscript {#setSuperscript-com.aspose.ms.System.Nullable-}
 获取或设置文本的上标。
 
-可以为空。使用 null 从父结构元素继承 Superscript 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Boolean | 布尔值 |
-
-### setUnderline(Boolean value) {#setUnderline-java.lang.Boolean-}
-```
-public final void setUnderline(Boolean value)
-```
-
-
+### setUnderline {#setUnderline-com.aspose.ms.System.Nullable-}
 获取或设置文本的下划线。
 
-可以为空。使用 null 从父结构元素继承 Underline 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Boolean | 布尔值 |
-
-### setWordSpacing(Float value) {#setWordSpacing-java.lang.Float-}
-```
-public final void setWordSpacing(Float value)
-```
-
-
+### setWordSpacing {#setWordSpacing-com.aspose.ms.System.Nullable-}
 获取或设置文本的字间距。
 
-可以为空。使用 null 从父结构元素继承 WordSpacing 属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.Float | 浮动值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### update(StructureTextState structureTextState) {#update-com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState-}
-```
-public final void update(StructureTextState structureTextState)
-```
-
-
+### update {#update-com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState-}
 更新元素
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| structureTextState | [StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) | StructureTextState 实例 |
-
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |

@@ -1,385 +1,229 @@
 ---
-title: BaseParagraph
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 代表一个抽象的基础对象，可以添加到pagedoc.Paragraphs.Add。
+title: "BaseParagraph"
+linktitle: "BaseParagraph"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示可以添加到页面的抽象基对象（doc.Paragraphs.Add()）。"
 type: docs
-weight: 34
+weight: 280
 url: /zh/java/com.aspose.pdf/baseparagraph/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.BaseParagraph
 
-**所有已实现的接口：**
+**All Implemented Interfaces:**
 com.aspose.ms.System.ICloneable
+
 ```
-public abstract class BaseParagraph implements System.ICloneable
+public abstract class BaseParagraph extends Object implements com.aspose.ms.System.ICloneable
 ```
 
-表示可以添加到页面的抽象基础对象(doc.Paragraphs.Add())。
+表示可以添加到页面的抽象基对象（doc.Paragraphs.Add()）。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [BaseParagraph()](#BaseParagraph--) |  |
+| [BaseParagraph](#BaseParagraph--) |  |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [deepClone()](#deepClone--) | 克隆此实例。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getHorizontalAlignment()](#getHorizontalAlignment--) | 获取段落的水平对齐方式 |
-| [getHyperlink()](#getHyperlink--) | 获取片段超链接（用于 pdf 生成器）。 |
-| [getMargin()](#getMargin--) | 获取段落的外边距（用于生成 pdf） |
-| [getVerticalAlignment()](#getVerticalAlignment--) | 获取段落的垂直对齐方式 |
-| [getZIndex()](#getZIndex--) | 获取一个 int 值，该值指示图形的 Z 顺序。 |
-| [hashCode()](#hashCode--) |  |
-| [isFirstParagraphInColumn()](#isFirstParagraphInColumn--) | 获取或设置一个 bool 值，该值指示该段落是否位于下一列。 |
-| [isInLineParagraph()](#isInLineParagraph--) | 获取一个段落是内联的。 |
-| [isInNewPage()](#isInNewPage--) | 获取强制此段落在新页面生成的 bool 值。 |
-| [isKeptWithNext()](#isKeptWithNext--) | 获取一个布尔值，该值指示当前段落是否与下一段保持在同一页面中。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setFirstParagraphInColumn(boolean value)](#setFirstParagraphInColumn-boolean-) | 获取或设置一个 bool 值，该值指示该段落是否位于下一列。 |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | 设置段落的水平对齐方式 |
-| [setHyperlink(Hyperlink value)](#setHyperlink-com.aspose.pdf.Hyperlink-) | 设置超链接（用于 pdf 生成器）。 |
-| [setInLineParagraph(boolean value)](#setInLineParagraph-boolean-) | 设置一个段落是内联的。 |
-| [setInNewPage(boolean value)](#setInNewPage-boolean-) | 设置一个布尔值，强制此段落在新页面生成。 |
-| [setKeptWithNext(boolean value)](#setKeptWithNext-boolean-) | 设置一个布尔值，指示当前段落是否与下一段保持在同一页面中。 |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | 设置段落的外边距（用于生成 pdf） |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | 设置段落的垂直对齐方式 |
-| [setZIndex(int value)](#setZIndex-int-) | 设置一个指示图形 Z 顺序的 int 值。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### BaseParagraph() {#BaseParagraph--}
+| [deepClone](#deepClone--) | 克隆此实例。虚方法。始终返回 null。 |
+| [getHorizontalAlignment](#getHorizontalAlignment--) | 获取段落的水平对齐方式 |
+| [getHyperlink](#getHyperlink--) | / * / * 获取或设置段落是否为脚注。默认值为 false。（用于 pdf 生成） / * / * |
+| [getMargin](#getMargin--) | 获取段落的外边距（用于 pdf 生成） |
+| [getVerticalAlignment](#getVerticalAlignment--) | 获取段落的垂直对齐方式 |
+| [getZIndex](#getZIndex--) | 获取一个整数值，指示图形的 Z 顺序。ZIndex 较大的图形将覆盖 ZIndex 较小的图形。ZIndex 可以为负数。ZIndex 为负的图形将位于页面文本之后。 |
+| [isFirstParagraphInColumn](#isFirstParagraphInColumn--) | 获取或设置一个布尔值，指示此段落是否位于下一列。默认值为 false。（用于 pdf 生成） |
+| [isInLineParagraph](#isInLineParagraph--) | 获取段落是否为内联。默认值为 false。（用于 pdf 生成） |
+| [isInNewPage](#isInNewPage--) | 获取一个布尔值，强制此段落在新页面生成。默认值为 false。（用于 pdf 生成） |
+| [isKeptWithNext](#isKeptWithNext--) | 获取一个布尔值，指示当前段落是否与下一段落保持在同一页。默认值为 false。（用于 pdf 生成） |
+| [setFirstParagraphInColumn](#setFirstParagraphInColumn-boolean-) | 获取或设置一个布尔值，指示此段落是否位于下一列。默认值为 false。（用于 pdf 生成） |
+| [setHorizontalAlignment](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | 设置段落的水平对齐方式 |
+| [setHyperlink](#setHyperlink-com.aspose.pdf.Hyperlink-) | 设置超链接（用于 pdf 生成器）。 |
+| [setInLineParagraph](#setInLineParagraph-boolean-) | 设置段落为内联。默认值为 false。（用于 pdf 生成） |
+| [setInNewPage](#setInNewPage-boolean-) | 设置一个布尔值，强制此段落在新页面生成。默认值为 false。（用于 pdf 生成） |
+| [setKeptWithNext](#setKeptWithNext-boolean-) | 设置一个布尔值，指示当前段落是否与下一段落保持在同一页。默认值为 false。（用于 pdf 生成） |
+| [setMargin](#setMargin-com.aspose.pdf.MarginInfo-) | 设置段落的外边距（用于 pdf 生成） |
+| [setVerticalAlignment](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | 设置段落的垂直对齐方式 |
+| [setZIndex](#setZIndex-int-) | 设置一个整数值，指示图形的 Z 顺序。ZIndex 较大的图形将覆盖 ZIndex 较小的图形。ZIndex 可以为负数。ZIndex 为负的图形将位于页面文本之后。 |
+
+### BaseParagraph {#BaseParagraph--}
 ```
 public BaseParagraph()
 ```
 
 
-### deepClone() {#deepClone--}
+
+### deepClone {#deepClone--}
 ```
 public Object deepClone()
 ```
 
+克隆此实例。虚方法。始终返回 null。
 
-克隆此实例。虚拟方法。始终返回空值。
+**Returns:**
+空
 
-**退货：**
-java.lang.Object - 空
-### equals(Object arg0) {#equals-java.lang.Object-}
+### getHorizontalAlignment {#getHorizontalAlignment--}
 ```
-public boolean equals(Object arg0)
+public HorizontalAlignment getHorizontalAlignment()
 ```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getHorizontalAlignment() {#getHorizontalAlignment--}
-```
-public int getHorizontalAlignment()
-```
-
 
 获取段落的水平对齐方式
 
-**退货：**
-int - HorizontalAlignment 值
-### getHyperlink() {#getHyperlink--}
+**Returns:**
+HorizontalAlignment 值 @see HorizontalAlignment
+
+### getHyperlink {#getHyperlink--}
 ```
 public Hyperlink getHyperlink()
 ```
 
+/ * / * 获取或设置段落是否为脚注。默认值为 false。（用于 pdf 生成） / * / *
 
-获取片段超链接（用于 pdf 生成器）。
+**Returns:**
+布尔值 /
 
-**退货：**
-[Hyperlink](../../com.aspose.pdf/hyperlink) - 片段超链接（用于 pdf 生成器）。
-### getMargin() {#getMargin--}
+### getMargin {#getMargin--}
 ```
 public MarginInfo getMargin()
 ```
 
+获取段落的外边距（用于 pdf 生成）
 
-获取段落的外边距（用于生成 pdf）
+**Returns:**
+MarginInfo 值
 
-**退货：**
-[MarginInfo](../../com.aspose.pdf/margininfo) - 保证金信息值
-### getVerticalAlignment() {#getVerticalAlignment--}
+### getVerticalAlignment {#getVerticalAlignment--}
 ```
-public int getVerticalAlignment()
+public VerticalAlignment getVerticalAlignment()
 ```
-
 
 获取段落的垂直对齐方式
 
-**退货：**
-int - VerticalAlignment 元素
-### getZIndex() {#getZIndex--}
+**Returns:**
+VerticalAlignment 元素 @see VerticalAlignment
+
+### getZIndex {#getZIndex--}
 ```
 public int getZIndex()
 ```
 
+获取一个整数值，指示图形的 Z 顺序。ZIndex 较大的图形将覆盖 ZIndex 较小的图形。ZIndex 可以为负数。ZIndex 为负的图形将位于页面文本之后。
 
-获取一个 int 值，该值指示图形的 Z 顺序。具有较大 ZIndex 的图形将被放置在具有较小 ZIndex 的图形之上。 ZIndex 可以是负数。具有负 ZIndex 的图形将放置在页面中文本的后面。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isFirstParagraphInColumn() {#isFirstParagraphInColumn--}
+### isFirstParagraphInColumn {#isFirstParagraphInColumn--}
 ```
 public boolean isFirstParagraphInColumn()
 ```
 
+获取或设置一个布尔值，指示此段落是否位于下一列。默认值为 false。（用于 pdf 生成）
 
-获取或设置一个 bool 值，该值指示该段落是否位于下一列。默认为 false。（用于生成 pdf）
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isInLineParagraph() {#isInLineParagraph--}
+### isInLineParagraph {#isInLineParagraph--}
 ```
 public boolean isInLineParagraph()
 ```
 
+获取段落是否为内联。默认值为 false。（用于 pdf 生成）
 
-获取一个段落是内联的。默认为 false。（用于生成 pdf）
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isInNewPage() {#isInNewPage--}
+### isInNewPage {#isInNewPage--}
 ```
 public boolean isInNewPage()
 ```
 
+获取一个布尔值，强制此段落在新页面生成。默认值为 false。（用于 pdf 生成）
 
-获取强制此段落在新页面生成的 bool 值。默认为 false。（用于生成 pdf）
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isKeptWithNext() {#isKeptWithNext--}
+### isKeptWithNext {#isKeptWithNext--}
 ```
 public boolean isKeptWithNext()
 ```
 
+获取一个布尔值，指示当前段落是否与下一段落保持在同一页。默认值为 false。（用于 pdf 生成）
 
-获取一个布尔值，该值指示当前段落是否与下一段保持在同一页面中。默认为 false。（用于生成 pdf）
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setFirstParagraphInColumn(boolean value) {#setFirstParagraphInColumn-boolean-}
+### setFirstParagraphInColumn {#setFirstParagraphInColumn-boolean-}
 ```
 public void setFirstParagraphInColumn(boolean value)
 ```
 
+获取或设置一个布尔值，指示此段落是否位于下一列。默认值为 false。（用于 pdf 生成）
 
-获取或设置一个 bool 值，该值指示该段落是否位于下一列。默认为 false。（用于生成 pdf）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
-```
-public void setHorizontalAlignment(int value)
-```
-
-
+### setHorizontalAlignment {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 设置段落的水平对齐方式
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | HorizontalAlignment 值 |
-
-### setHyperlink(Hyperlink value) {#setHyperlink-com.aspose.pdf.Hyperlink-}
-```
-public void setHyperlink(Hyperlink value)
-```
-
-
+### setHyperlink {#setHyperlink-com.aspose.pdf.Hyperlink-}
 设置超链接（用于 pdf 生成器）。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Hyperlink](../../com.aspose.pdf/hyperlink) | 超链接（用于 pdf 生成器）。 |
-
-### setInLineParagraph(boolean value) {#setInLineParagraph-boolean-}
+### setInLineParagraph {#setInLineParagraph-boolean-}
 ```
 public void setInLineParagraph(boolean value)
 ```
 
+设置段落为内联。默认值为 false。（用于 pdf 生成）
 
-设置一个段落是内联的。默认为 false。（用于生成 pdf）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setInNewPage(boolean value) {#setInNewPage-boolean-}
+### setInNewPage {#setInNewPage-boolean-}
 ```
 public void setInNewPage(boolean value)
 ```
 
+设置一个布尔值，强制此段落在新页面生成。默认值为 false。（用于 pdf 生成）
 
-设置一个布尔值，强制此段落在新页面生成。默认为 false。（用于生成 pdf）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setKeptWithNext(boolean value) {#setKeptWithNext-boolean-}
+### setKeptWithNext {#setKeptWithNext-boolean-}
 ```
 public final void setKeptWithNext(boolean value)
 ```
 
+设置一个布尔值，指示当前段落是否与下一段落保持在同一页。默认值为 false。（用于 pdf 生成）
 
-设置一个布尔值，指示当前段落是否与下一段保持在同一页面中。默认为 false。（用于生成 pdf）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public void setMargin(MarginInfo value)
-```
+### setMargin {#setMargin-com.aspose.pdf.MarginInfo-}
+设置段落的外边距（用于 pdf 生成）
 
-
-设置段落的外边距（用于生成 pdf）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo 对象 |
-
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
-```
-public void setVerticalAlignment(int value)
-```
-
-
+### setVerticalAlignment {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 设置段落的垂直对齐方式
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | VerticalAlignment 元素 |
-
-### setZIndex(int value) {#setZIndex-int-}
+### setZIndex {#setZIndex-int-}
 ```
 public void setZIndex(int value)
 ```
 
+设置一个整数值，指示图形的 Z 顺序。ZIndex 较大的图形将覆盖 ZIndex 较小的图形。ZIndex 可以为负数。ZIndex 为负的图形将位于页面文本之后。
 
-设置一个指示图形 Z 顺序的 int 值。具有较大 ZIndex 的图形将被放置在具有较小 ZIndex 的图形之上。 ZIndex 可以是负数。具有负 ZIndex 的图形将放置在页面中文本的后面。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | int 值 |

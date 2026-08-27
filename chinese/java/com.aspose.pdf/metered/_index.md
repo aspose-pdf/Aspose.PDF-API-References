@@ -1,188 +1,61 @@
 ---
-title: Metered
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 提供设置计量密钥的方法。
+title: "Metered"
+linktitle: "Metered"
+second_title: "Aspose.PDF for Java API 参考"
+description: "<p> 提供设置计量密钥的方法。 </p> <hr> 在此示例中，将尝试设置计量的公钥和私钥 <pre> 组件 jar 文件：Metered matered =."
 type: docs
-weight: 221
+weight: 3060
 url: /zh/java/com.aspose.pdf/metered/
 ---
-**遗产：**
-java.lang.Object
-```
-public class Metered
-```
-
-提供设置计量密钥的方法。
-
---------------------
-
-在此示例中，将尝试设置计量公钥和私钥
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Metered
 
 ```
-The component jar file:
-  
- 	Metered matered = new Metered();
- 	matered.setMeteredKey("PublicKey", "PrivateKey");
+public class Metered extends Object
 ```
+
+<p> 提供设置计量密钥的方法。 </p> <hr> 在此示例中，将尝试设置计量的公钥和私钥 <pre> The component jar file: Metered matered = new Metered(); matered.setMeteredKey("PublicKey", "PrivateKey"); </pre>
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Metered()](#Metered--) | 初始化此类的新实例。 |
+| [Metered](#Metered--) | 初始化此类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getConsumptionCredit()](#getConsumptionCredit--) | 获得消费信用 |
-| [getConsumptionQuantity()](#getConsumptionQuantity--) | 获取消费文件大小 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | 设置计量公钥和私钥 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Metered() {#Metered--}
+| [getConsumptionCredit](#getConsumptionCredit--) | 获取消耗额度 |
+| [getConsumptionQuantity](#getConsumptionQuantity--) | 获取消耗文件大小 |
+| [setMeteredKey](#setMeteredKey-java.lang.String-java.lang.String-) | 设置计量的公钥和私钥 |
+
+### Metered {#Metered--}
 ```
 public Metered()
 ```
 
-
 初始化此类的新实例。
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### getConsumptionCredit {#getConsumptionCredit--}
 ```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
+public static com.aspose.ms.System.Decimal getConsumptionCredit() throws Exception
 ```
 
+获取消耗额度
 
+**Returns:**
+消耗数量 @throws Exception 如果 Metered API 出现问题。
 
-
-**退货：**
-java.lang.Class<?>
-### getConsumptionCredit() {#getConsumptionCredit--}
+### getConsumptionQuantity {#getConsumptionQuantity--}
 ```
-public static double getConsumptionCredit()
-```
-
-
-获得消费信用
-
-**退货：**
-双倍消费数量
-### getConsumptionQuantity() {#getConsumptionQuantity--}
-```
-public static double getConsumptionQuantity()
+public static com.aspose.ms.System.Decimal getConsumptionQuantity() throws Exception
 ```
 
+获取消耗文件大小
 
-获取消费文件大小
+**Returns:**
+消耗数量 @throws Exception 如果 Metered API 出现问题。
 
-**退货：**
-双倍消费数量
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setMeteredKey(String publicKey, String privateKey) {#setMeteredKey-java.lang.String-java.lang.String-}
-```
-public void setMeteredKey(String publicKey, String privateKey)
-```
-
-
-设置计量公钥和私钥
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| publicKey | java.lang.String | 公钥 |
-| privateKey | java.lang.String | 私钥 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### setMeteredKey {#setMeteredKey-java.lang.String-java.lang.String-}
+设置计量的公钥和私钥

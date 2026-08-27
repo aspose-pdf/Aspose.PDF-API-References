@@ -1,151 +1,73 @@
 ---
-title: AbsorbedCell
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示页面上存在的表格单元格
+title: "AbsorbedCell"
+linktitle: "AbsorbedCell"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示页面上存在的表格单元格"
 type: docs
 weight: 10
 url: /zh/java/com.aspose.pdf/absorbedcell/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.AbsorbedCell
 
-**所有已实现的接口：**
-[com.aspose.pdf.ITableElement](../../com.aspose.pdf/itableelement)
+**All Implemented Interfaces:**
+ITableElement, Comparable < AbsorbedCell >
+
 ```
-public class AbsorbedCell implements ITableElement
+public class AbsorbedCell extends Object implements ITableElement , Comparable < AbsorbedCell >
 ```
 
 表示页面上存在的表格单元格
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getRectangle()](#getRectangle--) | 获取描述页面上单元格位置的矩形 |
-| [getTextFragments()](#getTextFragments--) | 获取描述单元格中包含的文本的 TextFragment 对象的集合 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### equals(Object arg0) {#equals-java.lang.Object-}
+| [compareTo](#compareTo-com.aspose.pdf.AbsorbedCell-) | 比较当前的 AbsorbedCell 对象与另一个 AbsorbedCell 对象，并返回一个整数，指示当前对象在排序顺序中是位于前面、后面，还是与另一个对象处于相同位置。 |
+| [getBorderInfo](#getBorderInfo--) | 当 FlowEngine.TableAbsorber.UseFlowEngine 属性设置为 true 时，返回单元格的边框信息。 |
+| [getColSpan](#getColSpan--) | 当 TableAbsorber.UseFlowEngine 属性设置为 true 时，返回单元格应跨越的列数。 |
+| [getRectangle](#getRectangle--) | 获取描述单元格在页面上位置的矩形 |
+| [getTextFragments](#getTextFragments--) | 获取 {@code TextFragment} 对象的集合，这些对象描述单元格中包含的文本 |
+
+### compareTo {#compareTo-com.aspose.pdf.AbsorbedCell-}
+比较当前的 AbsorbedCell 对象与另一个 AbsorbedCell 对象，并返回一个整数，指示当前对象在排序顺序中是位于前面、后面，还是与另一个对象处于相同位置。
+
+### getBorderInfo {#getBorderInfo--}
 ```
-public boolean equals(Object arg0)
+public final BorderInfo getBorderInfo()
 ```
 
+当 FlowEngine.TableAbsorber.UseFlowEngine 属性设置为 true 时，返回单元格的边框信息。
 
+**Returns:**
+BorderInfo 实例
 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
+### getColSpan {#getColSpan--}
 ```
-public final native Class<?> getClass()
+public final int getColSpan()
 ```
 
+当 TableAbsorber.UseFlowEngine 属性设置为 true 时，返回单元格应跨越的列数。
 
+**Returns:**
+int 值
 
-
-**退货：**
-java.lang.Class<?>
-### getRectangle() {#getRectangle--}
+### getRectangle {#getRectangle--}
 ```
 public Rectangle getRectangle()
 ```
 
+获取描述单元格在页面上位置的矩形
 
-获取描述页面上单元格位置的矩形
+**Returns:**
+Rectangle 对象
 
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 矩形对象
-### getTextFragments() {#getTextFragments--}
+### getTextFragments {#getTextFragments--}
 ```
 public TextFragmentCollection getTextFragments()
 ```
 
+获取 {@code TextFragment} 对象的集合，这些对象描述单元格中包含的文本
 
-获取描述单元格中包含的文本的 TextFragment 对象的集合
-
-**退货：**
-[TextFragmentCollection](../../com.aspose.pdf/textfragmentcollection) TextFragmentCollection 对象
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+TextFragmentCollection 对象

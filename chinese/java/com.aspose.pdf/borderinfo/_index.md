@@ -1,258 +1,172 @@
 ---
-title: SaveOptions.BorderInfo
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 此类的实例表示有关可能淹没在某些结果文档中的边框的信息。
+title: "BorderInfo"
+linktitle: "BorderInfo"
+second_title: "Aspose.PDF for Java API 参考"
+description: "此类表示图形元素的边框。"
 type: docs
-weight: 10
-url: /zh/java/com.aspose.pdf/saveoptions.borderinfo/
+weight: 370
+url: /zh/java/com.aspose.pdf/borderinfo/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.BorderInfo
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable
+
 ```
-public static class SaveOptions.BorderInfo
+public final class BorderInfo extends Object implements com.aspose.ms.System.ICloneable
 ```
 
-此类的实例表示有关可能淹没在某些结果文档中的边框的信息。
+此类表示图形元素的边框。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [BorderInfo()](#BorderInfo--) | 创建 BorderInfo 类的实例 |
-| [BorderInfo(SaveOptions.BorderPartStyle commonStyle)](#BorderInfo-com.aspose.pdf.SaveOptions.BorderPartStyle-) | 创建 BorderInfo 类的实例并使用从提供的边框样式复制的属性初始化 border(Top, Left, Right, Bottom) 的所有元素 |
+| [BorderInfo](#BorderInfo--) | 初始化 {@code BorderInfo} 类的新实例。 |
+| [BorderInfo](#BorderInfo-int-) | 初始化 {@code BorderInfo} 类的新实例。 |
+| [BorderInfo](#BorderInfo-int-com.aspose.pdf.Color-) | 初始化 {@code BorderInfo} 类的新实例。 |
+| [BorderInfo](#BorderInfo-int-float-) | 初始化 {@code BorderInfo} 类的新实例。 |
+| [BorderInfo](#BorderInfo-int-float-com.aspose.pdf.Color-) | 初始化 {@code BorderInfo} 类的新实例。 |
+| [BorderInfo](#BorderInfo-int-com.aspose.pdf.GraphInfo-) | 初始化 {@code BorderInfo} 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBottomStyleIfAny()](#getBottomStyleIfAny--) | 代表边框的底部（如果有的话） |
-| [getClass()](#getClass--) |  |
-| [getLeftStyleIfAny()](#getLeftStyleIfAny--) | 表示边框的左侧部分（如果有） |
-| [getRightStyleIfAny()](#getRightStyleIfAny--) | 代表边框的右边部分（如果有的话） |
-| [getTopStyleIfAny()](#getTopStyleIfAny--) | 代表边框的顶部（如果有的话） |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBottomStyleIfAny(SaveOptions.BorderPartStyle bottomStyleIfAny)](#setBottomStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-) | 代表边框的底部（如果有的话） |
-| [setLeftStyleIfAny(SaveOptions.BorderPartStyle leftStyleIfAny)](#setLeftStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-) | 表示边框的左侧部分（如果有） |
-| [setRightStyleIfAny(SaveOptions.BorderPartStyle rightStyleIfAny)](#setRightStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-) | 代表边框的右边部分（如果有的话） |
-| [setTopStyleIfAny(SaveOptions.BorderPartStyle topStyleIfAny)](#setTopStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-) | 代表边框的顶部（如果有的话） |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### BorderInfo() {#BorderInfo--}
+| [deepClone](#deepClone--) | 克隆一个新的 BorderInfo 对象。 |
+| [getBottom](#getBottom--) | 获取指示边框底部的对象。 |
+| [getLeft](#getLeft--) | 获取指示边框左侧的 {@code GraphInfo} 对象。 |
+| [getRight](#getRight--) | 获取指示边框右侧的 {@code GraphInfo} 对象。 |
+| [getRoundedBorderRadius](#getRoundedBorderRadius--) | 获取圆角边框半径。 |
+| [getTop](#getTop--) | 获取指示顶部边框的 {@code GraphInfo} 对象。 |
+| [setBottom](#setBottom-com.aspose.pdf.GraphInfo-) | 设置指示边框底部的对象。 |
+| [setLeft](#setLeft-com.aspose.pdf.GraphInfo-) | 设置指示边框左侧的 {@code GraphInfo} 对象。 |
+| [setRight](#setRight-com.aspose.pdf.GraphInfo-) | 设置指示边框右侧的 {@code GraphInfo} 对象。 |
+| [setRoundedBorderRadius](#setRoundedBorderRadius-double-) | 设置圆角边框半径。 |
+| [setTop](#setTop-com.aspose.pdf.GraphInfo-) | 设置指示边框顶部的 {@code GraphInfo} 对象。 |
+
+### BorderInfo {#BorderInfo--}
 ```
 public BorderInfo()
 ```
 
+初始化 {@code BorderInfo} 类的新实例。
 
-创建 BorderInfo 类的实例
-
-### BorderInfo(SaveOptions.BorderPartStyle commonStyle) {#BorderInfo-com.aspose.pdf.SaveOptions.BorderPartStyle-}
+### BorderInfo {#BorderInfo-int-}
 ```
-public BorderInfo(SaveOptions.BorderPartStyle commonStyle)
+public BorderInfo(int borderSide)
 ```
 
+初始化 {@code BorderInfo} 类的新实例。
 
-创建 BorderInfo 类的实例并使用从提供的边框样式复制的属性初始化 border(Top, Left, Right, Bottom) 的所有元素
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| commonStyle | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | 将用于所有边框元素的边框部分样式（左、右、上、下） |
+| borderSide |  | 指示边框侧信息。例如：(BorderSide.Left \ | BorderSide.Top). |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### BorderInfo {#BorderInfo-int-com.aspose.pdf.Color-}
+初始化 {@code BorderInfo} 类的新实例。
+
+### BorderInfo {#BorderInfo-int-float-}
 ```
-public boolean equals(Object arg0)
+public BorderInfo(int borderSide, float borderWidth)
 ```
 
+初始化 {@code BorderInfo} 类的新实例。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| borderSide |  | 指示边框侧信息。例如：(BorderSide.Left \ | BorderSide.Top). |
+| borderWidth |  | 边框的宽度。 |
 
-**退货：**
-布尔值
-### getBottomStyleIfAny() {#getBottomStyleIfAny--}
+### BorderInfo {#BorderInfo-int-float-com.aspose.pdf.Color-}
+初始化 {@code BorderInfo} 类的新实例。
+
+### BorderInfo {#BorderInfo-int-com.aspose.pdf.GraphInfo-}
+初始化 {@code BorderInfo} 类的新实例。
+
+### deepClone {#deepClone--}
 ```
-public SaveOptions.BorderPartStyle getBottomStyleIfAny()
-```
-
-
-代表边框的底部（如果有的话）
-
-**退货：**
-[BorderPartStyle](../../com.aspose.pdf/borderpartstyle) - BorderPartStyle 实例
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
+public Object deepClone()
 ```
 
+克隆一个新的 BorderInfo 对象。
 
+**Returns:**
+新的 BorderInfo 对象。
 
-
-**退货：**
-java.lang.Class<?>
-### getLeftStyleIfAny() {#getLeftStyleIfAny--}
+### getBottom {#getBottom--}
 ```
-public SaveOptions.BorderPartStyle getLeftStyleIfAny()
-```
-
-
-表示边框的左侧部分（如果有）
-
-**退货：**
-[BorderPartStyle](../../com.aspose.pdf/borderpartstyle) - BorderPartStyle 实例
-### getRightStyleIfAny() {#getRightStyleIfAny--}
-```
-public SaveOptions.BorderPartStyle getRightStyleIfAny()
+public GraphInfo getBottom()
 ```
 
+获取指示边框底部的对象。
 
-代表边框的右边部分（如果有的话）
+**Returns:**
+bottom
 
-**退货：**
-[BorderPartStyle](../../com.aspose.pdf/borderpartstyle) - BorderPartStyle 实例
-### getTopStyleIfAny() {#getTopStyleIfAny--}
+### getLeft {#getLeft--}
 ```
-public SaveOptions.BorderPartStyle getTopStyleIfAny()
-```
-
-
-代表边框的顶部（如果有的话）
-
-**退货：**
-[BorderPartStyle](../../com.aspose.pdf/borderpartstyle) - BorderPartStyle 实例
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
+public GraphInfo getLeft()
 ```
 
+获取指示边框左侧的 {@code GraphInfo} 对象。
 
+**Returns:**
+指示边框左侧的对象。
 
-
-**退货：**
-整数
-### notify() {#notify--}
+### getRight {#getRight--}
 ```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
+public GraphInfo getRight()
 ```
 
+获取指示边框右侧的 {@code GraphInfo} 对象。
 
+**Returns:**
+指示边框右侧的对象。
 
-
-### setBottomStyleIfAny(SaveOptions.BorderPartStyle bottomStyleIfAny) {#setBottomStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-}
+### getRoundedBorderRadius {#getRoundedBorderRadius--}
 ```
-public void setBottomStyleIfAny(SaveOptions.BorderPartStyle bottomStyleIfAny)
+public double getRoundedBorderRadius()
 ```
 
+获取圆角边框半径。
 
-代表边框的底部（如果有的话）
+**Returns:**
+值
 
-**参数：**
+### getTop {#getTop--}
+```
+public GraphInfo getTop()
+```
 
-| 范围 | 类型 | 描述 |
+获取指示顶部边框的 {@code GraphInfo} 对象。
+
+**Returns:**
+指示顶部边框的对象
+
+### setBottom {#setBottom-com.aspose.pdf.GraphInfo-}
+设置指示边框底部的对象。
+
+### setLeft {#setLeft-com.aspose.pdf.GraphInfo-}
+设置指示边框左侧的 {@code GraphInfo} 对象。
+
+### setRight {#setRight-com.aspose.pdf.GraphInfo-}
+设置指示边框右侧的 {@code GraphInfo} 对象。
+
+### setRoundedBorderRadius {#setRoundedBorderRadius-double-}
+```
+public void setRoundedBorderRadius(double value)
+```
+
+设置圆角边框半径。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| bottomStyleIfAny | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | BorderPartStyle 实例 |
+| 值 |  | double 值 |
 
-### setLeftStyleIfAny(SaveOptions.BorderPartStyle leftStyleIfAny) {#setLeftStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-}
-```
-public void setLeftStyleIfAny(SaveOptions.BorderPartStyle leftStyleIfAny)
-```
-
-
-表示边框的左侧部分（如果有）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| leftStyleIfAny | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | BorderPartStyle 实例 |
-
-### setRightStyleIfAny(SaveOptions.BorderPartStyle rightStyleIfAny) {#setRightStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-}
-```
-public void setRightStyleIfAny(SaveOptions.BorderPartStyle rightStyleIfAny)
-```
-
-
-代表边框的右边部分（如果有的话）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| rightStyleIfAny | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | BorderPartStyle 实例 |
-
-### setTopStyleIfAny(SaveOptions.BorderPartStyle topStyleIfAny) {#setTopStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-}
-```
-public void setTopStyleIfAny(SaveOptions.BorderPartStyle topStyleIfAny)
-```
-
-
-代表边框的顶部（如果有的话）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| topStyleIfAny | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | BorderPartStyle 实例 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### setTop {#setTop-com.aspose.pdf.GraphInfo-}
+设置指示边框顶部的 {@code GraphInfo} 对象。

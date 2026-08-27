@@ -1,532 +1,278 @@
 ---
-title: Stamp
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 班级代表邮票。
+title: "印章"
+linktitle: "印章"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示印章的类。"
 type: docs
-weight: 59
+weight: 700
 url: /zh/java/com.aspose.pdf.facades/stamp/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.facades.Stamp
+
 ```
-public final class Stamp
+public final class Stamp extends Object
 ```
 
-班级代表邮票。
+表示印章的类。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Stamp()](#Stamp--) | Stamp 对象的构造函数。 |
+| [Stamp](#Stamp--) | Stamp 对象的构造函数。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [bindImage(InputStream image)](#bindImage-java.io.InputStream-) | 设置将用作图章的图像。 |
-| [bindImage(String imageFile)](#bindImage-java.lang.String-) | 将图像设置为图章。 |
-| [bindLogo(FormattedText formattedText)](#bindLogo-com.aspose.pdf.facades.FormattedText-) | 将文本设置为图章。 |
-| [bindPdf(InputStream pdfStream, int pageNumber)](#bindPdf-java.io.InputStream-int-) | 设置 PDF 文件和将用作图章的页数。 |
-| [bindPdf(String pdfFile, int pageNumber)](#bindPdf-java.lang.String-int-) | 设置 PDF 文件和将用作图章的页数。 |
-| [bindTextState(TextState textState)](#bindTextState-com.aspose.pdf.TextState-) | 设置戳记文本的文本状态。 |
-| [close()](#close--) | 关闭这个实例 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBlendingSpace()](#getBlendingSpace--) | 获取一个 BlendingColorSpace 值，该值定义用于在页面上执行透明度和混合操作的颜色空间。 |
-| [getClass()](#getClass--) |  |
-| [getOpacity()](#getOpacity--) | 获取图章的不透明度。 |
-| [getPageNumber()](#getPageNumber--) | 获取页码。 |
-| [getPages()](#getPages--) | 获取包含将受标记影响的页数的数组。 |
-| [getQuality()](#getQuality--) | 以百分比获取图像标记的质量。 |
-| [getRotation()](#getRotation--) | 获取图章的旋转度数。 |
-| [getStampId()](#getStampId--) | 获取邮票的标识符。 |
-| [hashCode()](#hashCode--) |  |
-| [isBackground()](#isBackground--) | 获取后台状态。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBackground(boolean value)](#setBackground-boolean-) | 设置后台状态。 |
-| [setBlendingSpace(int value)](#setBlendingSpace-int-) | 设置一个 BlendingColorSpace 值，该值定义用于在页面上执行透明度和混合操作的颜色空间。 |
-| [setImageSize(float width, float height)](#setImageSize-float-float-) | 设置图像标记的大小。 |
-| [setOpacity(float value)](#setOpacity-float-) | 设置图章的不透明度。 |
-| [setOrigin(float originX, float originY)](#setOrigin-float-float-) | 设置页面上放置图章的位置。 |
-| [setPageNumber(int value)](#setPageNumber-int-) | 设置页码。 |
-| [setPages(int[] value)](#setPages-int---) | 设置包含将受标记影响的页数的数组。 |
-| [setQuality(int value)](#setQuality-int-) | 以百分比设置图像标记的质量。 |
-| [setRotation(float value)](#setRotation-float-) | 获取或设置图章的旋转度数。 |
-| [setStampId(int value)](#setStampId-int-) | 设置邮票的标识符。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Stamp() {#Stamp--}
+| [bindImage](#bindImage-java.io.InputStream-) | 设置将用作印章的图像。 |
+| [bindImage](#bindImage-java.lang.String-) | <p> 将图像设置为印章。 </p> <hr> <pre> PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf"); Stamp stamp = new Stamp(); stamp.bindImage("image.jpg"); fileStamp.addStamp(stamp); fileStamp.close(); </pre> |
+| [bindLogo](#bindLogo-com.aspose.pdf.facades.FormattedText-) | 将文本设置为印章。 |
+| [bindPdf](#bindPdf-java.io.InputStream-int-) | <p> 设置将用作印章的 PDF 文件和页码。 </p> <hr> <pre> PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf"); Stamp stamp = new Stamp(); //First page will be used as stamp. InputStream stream = new FileInputStream("stamp.pdf"); stamp.bindPdf(stream, 1); fileStamp.addStamp(stamp); fileStamp.close(); </pre> |
+| [bindPdf](#bindPdf-java.lang.String-int-) | <p> 设置将用作印章的 PDF 文件和页码。 </p> <hr> <pre> PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf"); Stamp stamp = new Stamp(); //First page will be used as stamp. stamp.bindPdf("stamp.pdf", 1); stamp.isBackground (true); fileStamp.addStamp(stamp); fileStamp.close(); </pre> |
+| [bindTextState](#bindTextState-com.aspose.pdf.TextState-) | 设置印章文本的文本状态。 |
+| [close](#close--) | 关闭此实例 |
+| [getBlendingSpace](#getBlendingSpace--) | 获取一个 BlendingColorSpace 值，该值定义用于在页面上执行透明度和混合操作的颜色空间。 |
+| [getOpacity](#getOpacity--) | 获取印章的不透明度。 |
+| [getPageNumber](#getPageNumber--) | 获取页码。 |
+| [getPages](#getPages--) | 获取受印章影响的页面编号数组。 |
+| [getQuality](#getQuality--) | 获取图像印章的质量（百分比）。有效值 0..100%。 |
+| [getRotation](#getRotation--) | 获取印章的旋转角度（度）。 |
+| [getStampId](#getStampId--) | 获取印章的标识符。 |
+| [isBackground](#isBackground--) | 获取背景状态。如果为 true，印章将作为页面的背景放置。默认设置为 false。 |
+| [setBackground](#setBackground-boolean-) | 设置背景状态。如果为 true，印章将作为页面的背景放置。默认设置为 false。 |
+| [setBlendingSpace](#setBlendingSpace-com.aspose.pdf.facades.BlendingColorSpace-) | 设置一个 BlendingColorSpace 值，该值定义用于在页面上执行透明度和混合操作的颜色空间。 |
+| [setImageSize](#setImageSize-float-float-) | 设置图像印章的大小。图像将根据指定的值进行缩放。 |
+| [setOpacity](#setOpacity-float-) | 设置印章的不透明度。 |
+| [setOrigin](#setOrigin-float-float-) | 设置印章将在页面上的放置位置。 |
+| [setPageNumber](#setPageNumber-int-) | 设置页码。 |
+| [setPages](#setPages-int:A-) | <p> 设置受印章影响的页面编号数组。如果 Pages = null，则文档的所有页面都会受到影响。 </p> |
+| [setQuality](#setQuality-int-) | 设置图像印章的质量（百分比）。有效值 0..100%。 |
+| [setRotation](#setRotation-float-) | <p> 获取或设置印章的旋转角度（以度为单位）。 </p> |
+| [setStampId](#setStampId-int-) | 设置印章的标识符。 |
+
+### Stamp {#Stamp--}
 ```
 public Stamp()
 ```
 
-
 Stamp 对象的构造函数。
 
-### bindImage(InputStream image) {#bindImage-java.io.InputStream-}
-```
-public void bindImage(InputStream image)
-```
+### bindImage {#bindImage-java.io.InputStream-}
+设置将用作印章的图像。
 
+### bindImage {#bindImage-java.lang.String-}
+<p> 将图像设置为印章。 </p> <hr> <pre> PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf"); Stamp stamp = new Stamp(); stamp.bindImage("image.jpg"); fileStamp.addStamp(stamp); fileStamp.close(); </pre>
 
-设置将用作图章的图像。
+### bindLogo {#bindLogo-com.aspose.pdf.facades.FormattedText-}
+将文本设置为印章。
 
-**参数：**
+### bindPdf {#bindPdf-java.io.InputStream-int-}
+<p> 设置将用作印章的 PDF 文件和页码。 </p> <hr> <pre> PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf"); Stamp stamp = new Stamp(); //First page will be used as stamp. InputStream stream = new FileInputStream("stamp.pdf"); stamp.bindPdf(stream, 1); fileStamp.addStamp(stamp); fileStamp.close(); </pre>
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| image | java.io.InputStream | 包含图像数据的流。 |
+### bindPdf {#bindPdf-java.lang.String-int-}
+<p> 设置将用作印章的 PDF 文件和页码。 </p> <hr> <pre> PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf"); Stamp stamp = new Stamp(); //First page will be used as stamp. stamp.bindPdf("stamp.pdf", 1); stamp.isBackground (true); fileStamp.addStamp(stamp); fileStamp.close(); </pre>
 
-### bindImage(String imageFile) {#bindImage-java.lang.String-}
-```
-public void bindImage(String imageFile)
-```
+### bindTextState {#bindTextState-com.aspose.pdf.TextState-}
+设置印章文本的文本状态。
 
-
-将图像设置为图章。
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- Stamp stamp = new Stamp();
- stamp.bindImage("image.jpg");
- fileStamp.addStamp(stamp);
- fileStamp.close();
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| imageFile | java.lang.String | 图像文件名和路径。 |
-
-### bindLogo(FormattedText formattedText) {#bindLogo-com.aspose.pdf.facades.FormattedText-}
-```
-public void bindLogo(FormattedText formattedText)
-```
-
-
-将文本设置为图章。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 指定文本和文本属性的 FormattedText 对象。 |
-
-### bindPdf(InputStream pdfStream, int pageNumber) {#bindPdf-java.io.InputStream-int-}
-```
-public void bindPdf(InputStream pdfStream, int pageNumber)
-```
-
-
-设置 PDF 文件和将用作图章的页数。
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- Stamp stamp = new Stamp();
- //第一页将用作邮票。
- InputStream stream = new FileInputStream("stamp.pdf");
- stamp.bindPdf(stream, 1);
- fileStamp.addStamp(stamp);
- fileStamp.close();
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pdfStream | java.io.InputStream | 包含 PDF 文档的流。 |
-| pageNumber | int | 将用作图章的文档的页面索引。 |
-
-### bindPdf(String pdfFile, int pageNumber) {#bindPdf-java.lang.String-int-}
-```
-public void bindPdf(String pdfFile, int pageNumber)
-```
-
-
-设置 PDF 文件和将用作图章的页数。
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- Stamp stamp = new Stamp();
- //第一页将用作邮票。
- stamp.bindPdf("stamp.pdf", 1);
- stamp.isBackground (true);
- fileStamp.addStamp(stamp);
- fileStamp.close();
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pdfFile | java.lang.String | PDF 文件的路径。 |
-| pageNumber | int | PDF 文件中的页数 |
-
-### bindTextState(TextState textState) {#bindTextState-com.aspose.pdf.TextState-}
-```
-public void bindTextState(TextState textState)
-```
-
-
-设置戳记文本的文本状态。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| textState | [TextState](../../com.aspose.pdf/textstate) | 指定文本属性的 TextState 对象。 |
-
-### close() {#close--}
+### close {#close--}
 ```
 public void close()
 ```
 
+关闭此实例
 
-关闭这个实例
-
-### equals(Object arg0) {#equals-java.lang.Object-}
+### getBlendingSpace {#getBlendingSpace--}
 ```
-public boolean equals(Object arg0)
+public BlendingColorSpace getBlendingSpace()
 ```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getBlendingSpace() {#getBlendingSpace--}
-```
-public int getBlendingSpace()
-```
-
 
 获取一个 BlendingColorSpace 值，该值定义用于在页面上执行透明度和混合操作的颜色空间。
 
-**退货：**
-int - 整数值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+int 值 @see BlendingColorSpace
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### getOpacity() {#getOpacity--}
+### getOpacity {#getOpacity--}
 ```
 public float getOpacity()
 ```
 
+获取印章的不透明度。
 
-获取图章的不透明度。
+**Returns:**
+float 值
 
-**退货：**
-float - 浮点值
-### getPageNumber() {#getPageNumber--}
+### getPageNumber {#getPageNumber--}
 ```
 public int getPageNumber()
 ```
 
-
 获取页码。
 
-**退货：**
-int - 整数值
-### getPages() {#getPages--}
+**Returns:**
+int 值
+
+### getPages {#getPages--}
 ```
 public int[] getPages()
 ```
 
+获取受印章影响的页面编号数组。
 
-获取包含将受标记影响的页数的数组。
+**Returns:**
+int 数组
 
-**退货：**
-整数[] - 整数数组
-### getQuality() {#getQuality--}
+### getQuality {#getQuality--}
 ```
 public int getQuality()
 ```
 
+获取图像印章的质量（百分比）。有效值 0..100%。
 
-以百分比获取图像标记的质量。价值 0..100%。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getRotation() {#getRotation--}
+### getRotation {#getRotation--}
 ```
 public float getRotation()
 ```
 
+获取印章的旋转角度（度）。
 
-获取图章的旋转度数。
+**Returns:**
+float 值
 
-**退货：**
-float - 浮点值
-### getStampId() {#getStampId--}
+### getStampId {#getStampId--}
 ```
 public int getStampId()
 ```
 
+获取印章的标识符。
 
-获取邮票的标识符。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isBackground() {#isBackground--}
+### isBackground {#isBackground--}
 ```
 public boolean isBackground()
 ```
 
+获取背景状态。如果为 true，印章将作为页面的背景放置。默认设置为 false。
 
-获取后台状态。如果为真，邮票将作为垃圾邮件页面的背景放置。默认情况下设置为 false。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBackground(boolean value) {#setBackground-boolean-}
+### setBackground {#setBackground-boolean-}
 ```
 public void setBackground(boolean value)
 ```
 
+设置背景状态。如果为 true，印章将作为页面的背景放置。默认设置为 false。
 
-设置后台状态。如果为真，邮票将作为垃圾邮件页面的背景放置。默认情况下设置为 false。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setBlendingSpace(int value) {#setBlendingSpace-int-}
-```
-public void setBlendingSpace(int value)
-```
-
-
+### setBlendingSpace {#setBlendingSpace-com.aspose.pdf.facades.BlendingColorSpace-}
 设置一个 BlendingColorSpace 值，该值定义用于在页面上执行透明度和混合操作的颜色空间。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | 整数值 |
-
-### setImageSize(float width, float height) {#setImageSize-float-float-}
+### setImageSize {#setImageSize-float-float-}
 ```
 public void setImageSize(float width, float height)
 ```
 
+设置图像印章的大小。图像将根据指定的值进行缩放。
 
-设置图像标记的大小。图像将根据指定的值进行缩放。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | float | 图像宽度。 |
-| height | float | 图像高度。 |
+| 宽度 |  | 图像宽度。 |
+| 高度 |  | 图像高度。 |
 
-### setOpacity(float value) {#setOpacity-float-}
+### setOpacity {#setOpacity-float-}
 ```
 public void setOpacity(float value)
 ```
 
+设置印章的不透明度。
 
-设置图章的不透明度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 浮点值 |
+| 值 |  | float 值 |
 
-### setOrigin(float originX, float originY) {#setOrigin-float-float-}
+### setOrigin {#setOrigin-float-float-}
 ```
 public void setOrigin(float originX, float originY)
 ```
 
+设置印章将在页面上的放置位置。
 
-设置页面上放置图章的位置。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| originX | float | 图章的 X 坐标。 |
-| originY | float | 图章的 Y 坐标。 |
+| originX |  | 印章的 X 坐标。 |
+| originY |  | 印章的 Y 坐标。 |
 
-### setPageNumber(int value) {#setPageNumber-int-}
+### setPageNumber {#setPageNumber-int-}
 ```
 public void setPageNumber(int value)
 ```
 
-
 设置页码。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setPages(int[] value) {#setPages-int---}
+### setPages {#setPages-int:A-}
 ```
 public void setPages(int[] value)
 ```
 
-
-设置包含将受标记影响的页数的数组。如果 Pages = null 文档的所有页面都会受到影响。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int[] | 整型数组
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- Stamp stamp = new com.aspose.pdf.facades.Stamp();
- stamp.bindLogo(new FormattedText(text));
- //只在第 1、4 和 6 页上盖章。
- stamp.setPages(new int[] { 1, 4, 6 });
- fileStamp.addStamp(stamp);
- fileStamp.close();
-``` |
-
-### setQuality(int value) {#setQuality-int-}
-```
-public void setQuality(int 值)
-```
-
-
-Sets quality of image stamp in percent. Valiued values 0..100%.
+<p> 设置受印章影响的页面编号数组。如果 Pages = null，则文档的所有页面都会受到影响。 </p>
 
 **Parameters:**
-| Parameter | Type | Description |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int value |
+| 值 |  | int 数组 <hr> <pre> PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf"); Stamp stamp = new com.aspose.pdf.facades.Stamp(); stamp.bindLogo(new FormattedText(text)); //put stamp only on 1st, 4th and 6th page. stamp.setPages(new int[] { 1, 4, 6 }); fileStamp.addStamp(stamp); fileStamp.close(); </pre> |
 
-### setRotation(float value) {#setRotation-float-}
+### setQuality {#setQuality-int-}
 ```
-public void setRotation（浮动值）
+public void setQuality(int value)
 ```
 
-
-Gets or sets rotation of the stamp in degrees.
+设置图像印章的质量（百分比）。有效值 0..100%。
 
 **Parameters:**
-| Parameter | Type | Description |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | float value
+| 值 |  | int 值 |
 
---------------------
-
+### setRotation {#setRotation-float-}
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
- 邮票 stamp = new Stamp();
- stamp.bindLogo(new FormattedText("STAMP"));
- stamp.setRotation(90);
- fileStamp.addStamp(邮票);
- 文件戳.close();
-``` |
-
-### setStampId(int value) {#setStampId-int-}
-```
-public void setStampId(int 值)
+public void setRotation(float value)
 ```
 
-
-Sets identifier of stamp.
+<p> 获取或设置印章的旋转角度（以度为单位）。 </p>
 
 **Parameters:**
-| Parameter | Type | Description |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int value |
+| 值 |  | float 值 <hr> <pre> PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf"); Stamp stamp = new Stamp(); stamp.bindLogo(new FormattedText("STAMP")); stamp.setRotation(90); fileStamp.addStamp(stamp); fileStamp.close(); </pre> |
 
-### toString() {#toString--}
+### setStampId {#setStampId-int-}
 ```
-公共字符串 toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-公共最终无效等待（）
+public void setStampId(int value)
 ```
 
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
+设置印章的标识符。
 
 **Parameters:**
-| Parameter | Type | Description |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-公共最终无效等待（长 arg0，int arg1）
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | int 值 |

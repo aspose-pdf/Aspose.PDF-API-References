@@ -1,442 +1,203 @@
 ---
-title: Font
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示字体对象。
+title: "字体"
+linktitle: "字体"
+second_title: "Aspose.PDF for Java API 参考"
+description: "<p> 表示字体对象。 </p> <hr> <pre> 示例演示如何在首页搜索文本并更改首次搜索出现的字体。 // Open document Document doc."
 type: docs
-weight: 130
+weight: 1650
 url: /zh/java/com.aspose.pdf/font/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Font
 
-**所有已实现的接口：**
-java.lang.Cloneable
-```
-public final class Font implements Cloneable
-```
-
-表示字体对象。
-
---------------------
+**All Implemented Interfaces:**
+Cloneable
 
 ```
-The example demonstrates how to search text on first page and change font of a first search occurrence.
- 
-  
-  //打开文档
-  Document doc = new Document("input.pdf");
-  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
-  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
-  //接受第一页的吸收器
-  doc.getPages().get_Item(1).accept(absorber);
-  
-  //创建字体并将其标记为嵌入
-  Font font = FontRepository.findFont("Arial");
-  font.isEmbedded(true);
-  
-  //更改第一个文本出现的字体
-  absorber.getTextFragments().get_Item(1).getTextState().setFont( font);
-  
-  
-  //保存文件
-  doc.save("output.pdf");
+public final class Font extends Object implements Cloneable
 ```
+
+<p> 表示字体对象。 </p> <hr> <pre> 示例演示如何在首页搜索文本并更改首次搜索出现的字体。 // Open document Document doc = new Document(\"input.pdf\"); // Create TextFragmentAbsorber object to find all \"hello world\" text occurrences TextFragmentAbsorber absorber = new TextFragmentAbsorber(\"hello world\"); // Accept the absorber for first page doc.getPages().get_Item(1).accept(absorber); // Create font and mark it to be embedded Font font = FontRepository.findFont(\"Arial\"); font.isEmbedded(true); // Change font of the first text occurrence absorber.getTextFragments().get_Item(1).getTextState().setFont( font); // Save document doc.save(\"output.pdf\"); </pre> @see TextFragmentAbsorber @see FontRepository @see IDocument
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [doesFontContainAllCharacters(String value)](#doesFontContainAllCharacters-java.lang.String-) | 确定字体是否包含指定的字符 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBaseFont()](#getBaseFont--) | 获取 PDF 字体对象的 BaseFont 值。 |
-| [getClass()](#getClass--) |  |
-| [getDecodedFontName()](#getDecodedFontName--) | 有时 PDF 字体（通常是中文/日文/韩文字体）可能有特定的字体名称。 |
-| [getFontName()](#getFontName--) | 获取 Font 对象的字体名称。 |
-| [getFontOptions()](#getFontOptions--) | 调整字体行为的有用属性 |
-| [getIFont()](#getIFont--) | 系统字体对象。 |
-| [getIPdfFont()](#getIPdfFont--) | PDF 字体对象。 |
-| [getLastFontEmbeddingError()](#getLastFontEmbeddingError--) | 此方法的一个目标 - 如果尝试嵌入字体失败，则返回错误描述。 |
-| [getType()](#getType--) | 字体类型名称 |
-| [hashCode()](#hashCode--) |  |
-| [isAccessible()](#isAccessible--) | 获取指示字体是否存在（安装）在系统中。 |
-| [isEmbedded()](#isEmbedded--) | 获取一个值，该值指示是否嵌入字体。 |
-| [isSubset()](#isSubset--) | 获取一个值，该值指示该字体是否是一个子集。 |
-| [measureString(String str, float fontSize)](#measureString-java.lang.String-float-) | 测量字符串。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [save(OutputStream stream)](#save-java.io.OutputStream-) | 将字体保存到流中。 |
-| [setEmbedded(boolean value)](#setEmbedded-boolean-) | 设置一个值，该值指示是否嵌入字体。 |
-| [setSubset(boolean value)](#setSubset-boolean-) | 设置一个值，该值指示字体是否为子集。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### doesFontContainAllCharacters(String value) {#doesFontContainAllCharacters-java.lang.String-}
+| [doesFontContainAllCharacters](#doesFontContainAllCharacters-java.lang.String-) | 确定字体是否包含指定字符 |
+| [getActualFontName](#getActualFontName--) | <p> 获取已初始化的 {@code Font} 对象的实际字体名称。即使字体已被替换或在 PDF 中有内部名称。如果字体未初始化，则返回空字符串。 </p> |
+| [getAscentPoint](#getAscentPoint-java.lang.String-float-) | 测量最大上升点。 |
+| [getBaseFont](#getBaseFont--) | 获取 PDF 字体对象的 BaseFont 值。也称为字体的 PostScript 名称。 |
+| [getDecodedFontName](#getDecodedFontName--) | 有时 PDF 字体（通常是中、日、韩字体）可能具有特定的字体名称。该名称是 PDF 字体属性 \"BaseFont\" 的值，有时该属性会以十六进制形式表示。如果直接读取此名称，可能会呈现为不可读的形式。要获取可读形式，需要按照该字体的特定规则解码字体名称。此属性返回解码后的字体名称，因此在遇到不可读的 {@code FontName} 时使用它。如果属性 {@code FontName} 已是可读形式，则此属性与 {@code FontName} 相同，因此在任何需要获取可读字体名称的情况下都可以使用此属性。 |
+| [getDescentPoint](#getDescentPoint-java.lang.String-float-) | 测量最大下降点。 |
+| [getFontName](#getFontName--) | <p> 获取 {@code Font} 对象的字体名称。 </p> |
+| [getFontOptions](#getFontOptions--) | 用于调节字体行为的有用属性 |
+| [getIFont](#getIFont--) | <p> 系统字体对象。 </p> <hr> <p> 仅供内部使用 </p> |
+| [getIPdfFont](#getIPdfFont--) | <p> Pdf 字体对象。 </p> <hr> <p> 仅供内部使用 </p> |
+| [getLastFontEmbeddingError](#getLastFontEmbeddingError--) | 此方法的目标是返回嵌入字体失败时的错误描述。如果没有错误情况，则返回空字符串。 |
+| [getType](#getType--) | 字体的类型名称 |
+| [isAccessible](#isAccessible--) | <p> 获取指示字体是否已在系统中存在（已安装）的状态。 </p> |
+| [isEmbedded](#isEmbedded--) | <p> 获取指示字体是否已嵌入的值。基于 IFont 的字体将自动进行子集化并嵌入 </p> <hr> <pre> 以下示例演示如何查找字体、标记为嵌入、在文档页面上搜索文本并替换文本字体。 // Create font and mark it to be embedded com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont(\"Arial\"); font.isEmbedded ( true); // open document com.aspose.pdf.Document doc = new com.aspose.pdf.Document(\"D:\\\\Tests\\\\input.pdf\"); // create TextFragmentAbsorber object to find all \"hello world\" text occurrences com.aspose.pdf.TextFragmentAbsorber absorber = new com.aspose.pdf.TextFragmentAbsorber(\"hello world\"); // accept the absorber for first page doc.getPages().get_Item(1).accept(absorber); // change font for the first text occurrence absorber.getTextFragments().get_Item(1).getTextState().setFont(font); // save document doc.save(\"D:\\\\Tests\\\\output.pdf\"); </pre> |
+| [isSubset](#isSubset--) | <p> 获取指示字体是否为子集的值。基于 IFont 的字体将自动进行子集化并嵌入 </p> <hr> <pre> 示例演示如何在首页搜索文本并获取指示字体是否为子集的值。 // Open document Document doc = new Document(\"D:\\\\Tests\\\\input.pdf\"); // Create TextFragmentAbsorber object to find all \"hello world\" text occurrences TextFragmentAbsorber absorber = new TextFragmentAbsorber(\"hello world\"); // Accept the absorber for first page doc.getPages().get_Item(1).accept(absorber); // View font's IsSubset value of first text occurrence if(absorber.TextFragments[1].TextState.Font.IsSubset) System.out.println(\"the font is a subset\"); </pre> |
+| [measureString](#measureString-java.lang.String-float-) | 测量字符串。 |
+| [save](#save-java.io.OutputStream-) | 将字体保存到流中。请注意，字体会保存为中间的 TTF 格式，仅用于原始文档的转换副本。该字体文件不应在原始文档上下文之外使用。 |
+| [setEmbedded](#setEmbedded-boolean-) | 设置一个指示字体是否已嵌入的值。基于 IFont 的字体将自动进行子集化并嵌入。 |
+| [setSubset](#setSubset-boolean-) | 设置一个指示字体是否为子集的值。基于 IFont 的字体将自动进行子集化并嵌入。 |
+
+### doesFontContainAllCharacters {#doesFontContainAllCharacters-java.lang.String-}
+确定字体是否包含指定字符
+
+### getActualFontName {#getActualFontName--}
 ```
-public boolean doesFontContainAllCharacters(String value)
+public String getActualFontName()
 ```
 
+<p> 获取已初始化的 {@code Font} 对象的实际字体名称。即使字体已被替换或在 PDF 中有内部名称。如果字体未初始化，则返回空字符串。 </p>
 
-确定字体是否包含指定的字符
+**Returns:**
+字符串值 <hr> <pre> 示例演示如何在首页搜索文本并查看首次文本出现的实际字体名称。 // Open document Document doc = new Document(@"D:\Tests\input.pdf"); // Create TextFragmentAbsorber object to find all "hello world" text occurrences TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world"); // Accept the absorber for first page doc.getPages().get_Item(1).accept(absorber); // View actual font name of first text occurrence System.out.println(absorber.getTextFragments().get_Item(1).getTextState().getFont().getActualFontName()); </pre> @see TextFragmentAbsorber @see IDocument
 
-**参数：**
+### getAscentPoint {#getAscentPoint-java.lang.String-float-}
+测量最大上升点。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-**退货：**
-boolean - 如果文本中的所有字符都出现在当前字体中，则为 true。
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getBaseFont() {#getBaseFont--}
+### getBaseFont {#getBaseFont--}
 ```
 public final String getBaseFont()
 ```
 
-
 获取 PDF 字体对象的 BaseFont 值。也称为字体的 PostScript 名称。
 
-**退货：**
-java.lang.String - 字符串值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+字符串值
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### getDecodedFontName() {#getDecodedFontName--}
+### getDecodedFontName {#getDecodedFontName--}
 ```
 public String getDecodedFontName()
 ```
 
+有时 PDF 字体（通常是中、日、韩字体）可能具有特定的字体名称。该名称是 PDF 字体属性 \"BaseFont\" 的值，有时该属性会以十六进制形式表示。如果直接读取此名称，可能会呈现为不可读的形式。要获取可读形式，需要按照该字体的特定规则解码字体名称。此属性返回解码后的字体名称，因此在遇到不可读的 {@code FontName} 时使用它。如果属性 {@code FontName} 已是可读形式，则此属性与 {@code FontName} 相同，因此在任何需要获取可读字体名称的情况下都可以使用此属性。
 
-有时 PDF 字体（通常是中文/日文/韩文字体）可能有特定的字体名称。此名称是 PDF 字体属性“BaseFont”的值，有时此属性可以用十六进制形式表示。如果直接读取这个名称，它可能会以不可读的形式表示。为了获得可读形式，有必要根据该字体的特定规则解码字体名称。此属性返回解码后的字体名称，因此在遇到不可读的 FontName 时使用它。如果属性 FontName 具有可读形式，则此属性将与 FontName 相同，因此您可以在需要以可读形式获取字体名称的任何情况下使用此属性。
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getFontName() {#getFontName--}
+### getDescentPoint {#getDescentPoint-java.lang.String-float-}
+测量最大下降点。
+
+### getFontName {#getFontName--}
 ```
 public String getFontName()
 ```
 
+<p> 获取 {@code Font} 对象的字体名称。 </p>
 
-获取 Font 对象的字体名称。
+**Returns:**
+字符串值 <hr> <pre> 示例演示如何在首页搜索文本并查看首次文本出现的字体名称。 // Open document Document doc = new Document(@"D:\Tests\input.pdf"); // Create TextFragmentAbsorber object to find all "hello world" text occurrences TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world"); // Accept the absorber for first page doc.getPages().get_Item(1).accept(absorber); // View font name of first text occurrence System.out.println(absorber.getTextFragments().get_Item(1).getTextState().getFont().getFontName()); </pre> @see TextFragmentAbsorber @see IDocument
 
-**退货：**
-java.lang.String - 字符串值
-
---------------------
-
-```
-The example demonstrates how to search text on first page and view font name of a first text occurrence.
- 
-  //打开文档
-  Document doc = new Document(@"D:\Tests\input.pdf");
-  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
-  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
-  //接受第一页的吸收器
-  doc.getPages().get_Item(1).accept(absorber);
-  
-  //查看第一个文本出现的字体名称
-  System.out.println(absorber.getTextFragments().get_Item(1).getTextState().getFont().getFontName());
-```
-### getFontOptions() {#getFontOptions--}
+### getFontOptions {#getFontOptions--}
 ```
 public IFontOptions getFontOptions()
 ```
 
+用于调节字体行为的有用属性
 
-调整字体行为的有用属性
+**Returns:**
+IFontOptions 对象
 
-**退货：**
-[IFontOptions](../../com.aspose.pdf/ifontoptions) IFontOptions 对象
-### getIFont() {#getIFont--}
+### getIFont {#getIFont--}
 ```
-public IFont getIFont()
-```
-
-
-系统字体对象。
-
---------------------
-
-仅供内部使用
-
-**退货：**
-[IFont](../../com.aspose.font/ifont)-IFont 对象
-### getIPdfFont() {#getIPdfFont--}
-```
-public IPdfFont getIPdfFont()
+public com.aspose.font.IFont getIFont()
 ```
 
+<p> 系统字体对象。 </p> <hr> <p> 仅供内部使用 </p>
 
-PDF 字体对象。
+**Returns:**
+IFont 对象
 
---------------------
+### getIPdfFont {#getIPdfFont--}
+```
+public com.aspose.pdf.engine.commondata.text.fonts.IPdfFont getIPdfFont()
+```
 
-仅供内部使用
+<p> Pdf 字体对象。 </p> <hr> <p> 仅供内部使用 </p>
 
-**退货：**
-[IPdfFont](../../com.aspose.pdf.engine.commondata.text.fonts/ipdffont) IPdfFont 对象
-### getLastFontEmbeddingError() {#getLastFontEmbeddingError--}
+**Returns:**
+IPdfFont 对象
+
+### getLastFontEmbeddingError {#getLastFontEmbeddingError--}
 ```
 public String getLastFontEmbeddingError()
 ```
 
+此方法的目标是返回嵌入字体失败时的错误描述。如果没有错误情况，则返回空字符串。
 
-此方法的一个目标 - 如果尝试嵌入字体失败，则返回错误描述。如果没有错误情况，它返回空字符串。
+**Returns:**
+错误描述
 
-**退货：**
-java.lang.String - 错误描述
-### getType() {#getType--}
+### getType {#getType--}
 ```
 public String getType()
 ```
 
+字体的类型名称
 
-字体类型名称
+**Returns:**
+字符串对象
 
-**退货：**
-java.lang.String - 字符串对象
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isAccessible() {#isAccessible--}
+### isAccessible {#isAccessible--}
 ```
 public boolean isAccessible()
 ```
 
+<p> 获取指示字体是否已在系统中存在（已安装）的状态。 </p>
 
-获取指示字体是否存在（安装）在系统中。
+**Returns:**
+布尔值 <hr> <pre> 示例演示如何在首页搜索文本并获取指示字体是否已安装在系统中的值。 // Open document Document doc = new Document("D:\\Tests\\input.pdf"); // Create TextFragmentAbsorber object to find all "hello world" text occurrences TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world"); // Accept the absorber for first page doc.getPages().get_Item(1).accept(absorber); // View font's IsSubset value of first text occurrence if (absorber.getTextFragments().get_Item(1).getTextState().getFont() .isAccessible()) System.out.println("the font is installed in the system"); </pre> <hr> <p> 某些操作在系统中找不到的字体上不可用。 </p>
 
-**退货：**
-boolean - 布尔值
-
---------------------
-
-```
-The example demonstrates how to search text on first page and get the value that indicates whether the font is installed in the system.
- 
- //打开文档
- Document doc = new Document("D:\\Tests\\input.pdf");
- //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
- TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- 
- //接受第一页的吸收器
- doc.getPages().get_Item(1).accept(absorber);
- 
- //查看第一个文本出现的字体的 IsSubset 值
- if (absorber.getTextFragments().get_Item(1).getTextState().getFont()
- 		.isAccessible())
- 	System.out.println("the font is installed in the system");
-```
-
---------------------
-
-对于系统中找不到的字体，某些操作不可用。
-### isEmbedded() {#isEmbedded--}
+### isEmbedded {#isEmbedded--}
 ```
 public boolean isEmbedded()
 ```
 
+<p> 获取一个指示字体是否已嵌入的值。基于 IFont 的字体将自动进行子集化并嵌入 </p> <hr> <pre> 以下示例演示如何查找字体、将其标记为嵌入、在文档页面上搜索文本并替换文本的字体。 // Create font and mark it to be embedded com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Arial"); font.isEmbedded ( true); // open document com.aspose.pdf.Document doc = new com.aspose.pdf.Document("D:\\Tests\\input.pdf"); // create TextFragmentAbsorber object to find all "hello world" text occurrences com.aspose.pdf.TextFragmentAbsorber absorber = new com.aspose.pdf.TextFragmentAbsorber("hello world"); // accept the absorber for first page doc.getPages().get_Item(1).accept(absorber); // change font for the first text occurrence absorber.getTextFragments().get_Item(1).getTextState().setFont(font); // save document doc.save("D:\\Tests\\output.pdf"); </pre>
 
-获取一个值，该值指示是否嵌入字体。基于IFont的字体会自动进行子集嵌入
+**Returns:**
+布尔值 @see TextFragmentAbsorber @see FontRepository @see IDocument
 
---------------------
-
-```
-The following example demonstrates how to find a font, mark it as embedded, search text on the document's page and replace the text font.
- 
-	      //创建字体并将其标记为嵌入
-	      com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Arial");
-	      font.isEmbedded ( true);
-	      //打开文件
-	      com.aspose.pdf.Document doc = new com.aspose.pdf.Document("D:\\Tests\\input.pdf");
-	      //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
-	      com.aspose.pdf.TextFragmentAbsorber absorber = new com.aspose.pdf.TextFragmentAbsorber("hello world");
-	      //接受第一页的吸收器
-	      doc.getPages().get_Item(1).accept(absorber);
-	      //更改第一个文本出现的字体
-	      absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
-	      //保存文档
-	      doc.save("D:\\Tests\\output.pdf");
-```
-
-**退货：**
-boolean - 布尔值
-### isSubset() {#isSubset--}
+### isSubset {#isSubset--}
 ```
 public boolean isSubset()
 ```
 
+<p> 获取一个指示字体是否为子集的值。基于 IFont 的字体将自动进行子集化并嵌入 </p> <hr> <pre> 示例演示如何在首页搜索文本并获取指示字体是否为子集的值。 // Open document Document doc = new Document("D:\\Tests\\input.pdf"); // Create TextFragmentAbsorber object to find all "hello world" text occurrences TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world"); // Accept the absorber for first page doc.getPages().get_Item(1).accept(absorber); // View font's IsSubset value of first text occurrence if(absorber.TextFragments[1].TextState.Font.IsSubset) System.out.println("the font is a subset"); </pre>
 
-获取一个值，该值指示该字体是否是一个子集。基于IFont的字体会自动进行子集嵌入
+**Returns:**
+布尔值 @see TextFragmentAbsorber @see IDocument
 
---------------------
-
-```
-The example demonstrates how to search text on first page and get the value that indicates whether the font is a subset.
-  
-	       //打开文档
-	       Document doc = new Document("D:\\Tests\\input.pdf");
-	       //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
-	       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-	       
-	       //接受第一页的吸收器
-	       doc.getPages().get_Item(1).accept(absorber);
-	       
-	       //查看第一个文本出现的字体的 IsSubset 值
-	       if(absorber.TextFragments[1].TextState.Font.IsSubset)
-	          System.out.println("the font is a subset");
-```
-
-**退货：**
-boolean - 布尔值
-### measureString(String str, float fontSize) {#measureString-java.lang.String-float-}
-```
-public double measureString(String str, float fontSize)
-```
-
-
+### measureString {#measureString-java.lang.String-float-}
 测量字符串。
 
-**参数：**
+### save {#save-java.io.OutputStream-}
+将字体保存到流中。请注意，字体会保存为中间的 TTF 格式，仅用于原始文档的转换副本。该字体文件不应在原始文档上下文之外使用。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| str | java.lang.String | 字符串。 |
-| fontSize | float | 字体大小。 |
-
-**退货：**
-double - 使用此字体和指定大小表示的字符串的宽度。
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### save(OutputStream stream) {#save-java.io.OutputStream-}
-```
-public void save(OutputStream stream)
-```
-
-
-将字体保存到流中。请注意，字体保存为中间 TTF 格式，仅用于原始文档的转换副本。字体文件不打算在原始文档上下文之外使用。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| stream | java.io.OutputStream | OutputStream 来保存字体。 |
-
-### setEmbedded(boolean value) {#setEmbedded-boolean-}
+### setEmbedded {#setEmbedded-boolean-}
 ```
 public void setEmbedded(boolean value)
 ```
 
+设置一个指示字体是否已嵌入的值。基于 IFont 的字体将自动进行子集化并嵌入。
 
-设置一个值，该值指示是否嵌入字体。基于IFont的字体会自动进行子集嵌入
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setSubset(boolean value) {#setSubset-boolean-}
+### setSubset {#setSubset-boolean-}
 ```
 public void setSubset(boolean value)
 ```
 
+设置一个指示字体是否为子集的值。基于 IFont 的字体将自动进行子集化并嵌入。
 
-设置一个值，该值指示字体是否为子集。基于IFont的字体会自动进行子集嵌入
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 布尔值 |

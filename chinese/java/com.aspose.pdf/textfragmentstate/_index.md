@@ -1,895 +1,517 @@
 ---
-title: TextFragmentState
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示文本片段的文本状态。
+title: "TextFragmentState"
+linktitle: "TextFragmentState"
+second_title: "Aspose.PDF for Java API 参考"
+description: "<p> 表示文本片段的文本状态。 </p> <hr> <pre> 示例演示如何使用 {@code TextState} 对象更改文本的颜色和字体大小。 // Open.</pre>"
 type: docs
-weight: 375
+weight: 5150
 url: /zh/java/com.aspose.pdf/textfragmentstate/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.TextState](../../com.aspose.pdf/textstate)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.TextState com.aspose.pdf.TextFragmentState, com.aspose.pdf.TextState, com.aspose.pdf.TextFragmentState
+
 ```
 public final class TextFragmentState extends TextState
 ```
 
-表示文本片段的文本状态。
+<p> 表示文本片段的文本状态。 </p> <hr> <pre> 示例演示如何使用 {@code TextState} 对象更改文本的颜色和字体大小。 // 打开文档 Document doc = new Document("D:\\Tests\\input.pdf"); // 创建 TextFragmentAbsorber 对象以查找所有 "hello world" 文本出现 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world"); // 接受第一页的吸收器 doc.getPages().get(1).accept(absorber); // 更改第一次文本出现的前景色 absorber.TgetextFragments().get(1).getTextState().setForegroundColor ( java.awt.Color.RED); // 更改第一次文本出现的字体大小 absorber.getTextFragments().get(1).getTextState().setFontSize ( 15); // 保存文档 doc.save("D:\\Tests\\output.pdf"); </pre> <hr> <p> 提供了一种更改文本以下属性的方法： font ({@code TextFragmentState.Font} property) font size ({@code TextFragmentState.FontSize} property) font style ( {@code TextFragmentState.FontStyle} property) foreground color ( {@code TextFragmentState.ForegroundColor} property) background color ( {@code TextFragmentState.BackgroundColor} property) </p> <p> 请注意，修改 {@code TextFragmentState} 属性可能会更改内部 {@code TextFragment.Segments} 集合，因为 TextFragment 是一个聚合对象，它可能会重新排列内部段或将它们合并为单个段。如果您的需求是保持 {@code TextFragment.Segments} 集合不变，请单独更改内部段。 </p> @see TextFragmentAbsorber @see IDocument
 
---------------------
-
-```
-The example demonstrates how to change text color and font size of the text with ```
-TextState
-``` object.
- 
-  //打开文档
-  Document doc = new Document("D:\\Tests\\input.pdf");
-  
-  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
-  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
-  //接受第一页的吸收器
-  doc.getPages().get(1).accept(absorber);
-  
-  //更改第一个文本出现的前景色
-  absorber.TgetextFragments().get(1).getTextState().setForegroundColor ( java.awt.Color.RED);
-  //更改第一个文本出现的字体大小
-  absorber.getTextFragments().get(1).getTextState().setFontSize ( 15);
-  
-  //保存文件
-  doc.save("D:\\Tests\\output.pdf");
-```
-
---------------------
-
-提供更改文本以下属性的方法：字体（TextFragmentState.Font 属性）字体大小（TextFragmentState.FontSize 属性）字体样式（TextFragmentState.FontStyle 属性）前景颜色（TextFragmentState.ForegroundColor 属性）背景颜色（TextFragmentState.BackgroundColor 属性）请注意，更改 TextFragmentState 属性可能会更改内部 TextFragment.Segments 集合，因为 TextFragment 是一个聚合对象，它可能会重新排列内部段或将它们合并为单个段。如果您的要求是保持 TextFragment.Segments 集合不变，请单独更改内部段。
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [TextFragmentState(TextFragment fragment)](#TextFragmentState-com.aspose.pdf.TextFragment-) | 使用指定的 TextFragment 对象初始化 TextFragmentState 对象的新实例。 |
-## 领域
+| [TextFragmentState](#TextFragmentState-com.aspose.pdf.TextFragment-) | 使用指定的 {@code TextFragment} 对象初始化 {@code TextFragmentState} 对象的新实例。此 {@code TextFragmentState} 初始化不受支持。TextFragmentState 仅在 {@code TextFragment.TextState} 属性中可用。 |
 
-| 场地 | 描述 |
-| --- | --- |
-| [TabTag](#TabTag) | 您可以将此标记放在文本中以声明列表。 |
-| [TabstopDefaultValue](#TabstopDefaultValue) | 默认字体空格字符宽度列表的默认值。 |
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [applyChangesFrom(TextState textState)](#applyChangesFrom-com.aspose.pdf.TextState-) | 应用来自另一个 textState 的设置 |
-| [applyChangesFrom(TextState textState, boolean groupChangesOnly)](#applyChangesFrom-com.aspose.pdf.TextState-boolean-) | 应用来自另一个 textState 的设置 |
-| [calculateFontSize(String str, Rectangle rect)](#calculateFontSize-java.lang.String-com.aspose.pdf.Rectangle-) | 计算矩形的字体大小。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBackgroundColor()](#getBackgroundColor--) | 设置文本的背景颜色，由 TextFragment 对象表示 |
-| [getCharacterSpacing()](#getCharacterSpacing--) | 获取文本的字符间距，由 TextFragment 对象表示。 |
-| [getClass()](#getClass--) |  |
-| [getDrawTextRectangleBorder()](#getDrawTextRectangleBorder--) | 获取是否绘制文本矩形边框的标志。 |
-| [getFont()](#getFont--) | 获取文本的字体，由 TextFragment 对象表示 |
-| [getFontSize()](#getFontSize--) | 获取文本的字体大小，由 TextFragment 对象表示 |
-| [getFontStyle()](#getFontStyle--) | 设置文本的字体样式，由 TextFragment 对象表示 |
-| [getForegroundColor()](#getForegroundColor--) | 获取文本的前景色，由 TextFragment 对象表示 |
-| [getFormattingOptions()](#getFormattingOptions--) | 获取或设置格式化选项。 |
-| [getHorizontalAlignment()](#getHorizontalAlignment--) | 获取文本的水平对齐方式。 |
-| [getHorizontalScaling()](#getHorizontalScaling--) | 获取由 TextFragment 对象表示的文本的水平缩放。 |
-| [getLineSpacing()](#getLineSpacing--) | 获取文本的行间距。 |
-| [getRenderingMode()](#getRenderingMode--) | 获取或设置文本的渲染模式。 |
-| [getRotation()](#getRotation--) | 获取或设置以度为单位的旋转角度。 |
-| [getStrikeOut()](#getStrikeOut--) | 获取文本的删除线，由 TextFragment 对象表示 |
-| [getStrokingColor()](#getStrokingColor--) | 获取或设置TextFragment渲染的颜色描边操作（描边文字、矩形边框） |
-| [getTabStops()](#getTabStops--) | 获取文本的制表位。 |
-| [getTextHeight()](#getTextHeight--) | 获取文本高度，由 TextFragment 对象表示 |
-| [getUnderline()](#getUnderline--) | 获取或设置文本的下划线，由[TextFragment](../../com.aspose.pdf/textfragment)目的 |
-| [getWordSpacing()](#getWordSpacing--) | 获取文本的字间距。 |
-| [hashCode()](#hashCode--) |  |
-| [isInvisible()](#isInvisible--) | 获取文本的不可见性。 |
-| [isSubscript()](#isSubscript--) | 获取或设置文本的下标，由 TextFragment 对象表示。 |
-| [isSuperscript()](#isSuperscript--) | 获取或设置文本的上标，由 TextFragment 对象表示。 |
-| [isUnderline()](#isUnderline--) | 获取文本的下划线，由 TextFragment 对象表示 |
-| [measureString(String str)](#measureString-java.lang.String-) | 测量字符串。 |
-| [measureString(String str, boolean insideLine)](#measureString-java.lang.String-boolean-) | 测量字符串。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | 设置文本的背景颜色，由[TextFragment](../../com.aspose.pdf/textfragment)目的 |
-| [setCharacterSpacing(float value)](#setCharacterSpacing-float-) | 设置文本的字符间距，由 TextFragment 对象表示。 |
-| [setDrawTextRectangleBorder(boolean value)](#setDrawTextRectangleBorder-boolean-) | 设置文本矩形边框是否绘制标志。 |
-| [setFont(Font value)](#setFont-com.aspose.pdf.Font-) | 设置文本的字体，由 TextFragment 对象表示 |
-| [setFontSize(float value)](#setFontSize-float-) | 设置文本的字体大小，由 TextFragment 对象表示 |
-| [setFontSizeSuppressedUpdate(float value)](#setFontSizeSuppressedUpdate-float-) | 设置希望抑制更新的文本的字体大小。 |
-| [setFontStyle(int value)](#setFontStyle-int-) | 设置文本的字体样式，由[TextFragment](../../com.aspose.pdf/textfragment)目的 |
-| [setFontSuppressedUpdate(Font value)](#setFontSuppressedUpdate-com.aspose.pdf.Font-) | 获取希望抑制更新的文本字体。 |
-| [setForegroundColor(Color value)](#setForegroundColor-com.aspose.pdf.Color-) | 设置文本的前景色，由 TextFragment 对象表示 |
-| [setFormattingOptions(TextFormattingOptions value)](#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-) | 获取或设置格式化选项。 |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | 设置文本的水平对齐方式。 |
-| [setHorizontalScaling(float value)](#setHorizontalScaling-float-) | 设置文本的水平缩放，由 TextFragment 对象表示。 |
-| [setInvisible(boolean value)](#setInvisible-boolean-) | 设置文本的不可见性。 |
-| [setLineSpacing(float value)](#setLineSpacing-float-) | 设置文本的行间距。 |
-| [setRenderingMode(int value)](#setRenderingMode-int-) | 获取或设置文本的渲染模式。 |
-| [setRotation(double value)](#setRotation-double-) | 获取或设置以度为单位的旋转角度。 |
-| [setStrikeOut(boolean value)](#setStrikeOut-boolean-) | 为文本设置删除线，由 TextFragment 对象表示 |
-| [setStrokingColor(Color value)](#setStrokingColor-com.aspose.pdf.Color-) | 获取或设置TextFragment渲染的颜色描边操作（描边文字、矩形边框） |
-| [setSubscript(boolean value)](#setSubscript-boolean-) | 获取或设置文本的下标，由 TextFragment 对象表示。 |
-| [setSuperscript(boolean value)](#setSuperscript-boolean-) | 获取或设置文本的上标，由 TextFragment 对象表示。 |
-| [setUnderline(boolean value)](#setUnderline-boolean-) | 为文本设置下划线，由 TextFragment 对象表示 |
-| [setWordSpacing(float value)](#setWordSpacing-float-) | 设置文本的字间距。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### TextFragmentState(TextFragment fragment) {#TextFragmentState-com.aspose.pdf.TextFragment-}
-```
-public TextFragmentState(TextFragment fragment)
-```
+| [applyChangesFrom](#applyChangesFrom-com.aspose.pdf.TextState-) | <p> 应用来自另一个 textState 的设置 </p> |
+| [applyChangesFrom](#applyChangesFrom-com.aspose.pdf.TextState-boolean-) | 应用来自另一个 textState 的设置 |
+| [getBackgroundColor](#getBackgroundColor--) | 设置文本的背景颜色，由 {@code TextFragment} 对象表示 |
+| [getCharacterSpacing](#getCharacterSpacing--) | 获取文本的字符间距，由 {@code TextFragment} 对象表示。 |
+| [getCoordinateOrigin](#getCoordinateOrigin--) | 获取或设置文本的 CoordinateOrigin。如果 CoordinateOrigin 为 Descender，则文本的 Y 坐标对应于字体的最低点。如果 CoordinateOrigin 为 BaseLine，则文本的 Y 坐标对应于字体的基线。默认值为 Descender。如果字体的 Descent 值过大，文本可能会比其他字体渲染得更高。在这种情况下，可以选择 BaseLine 作为 CoordinateOrigin，以获得更好的文本渲染。 |
+| [getDrawTextRectangleBorder](#getDrawTextRectangleBorder--) | 获取文本矩形边框绘制标志。 |
+| [getFont](#getFont--) | 获取文本的字体，由 {@code TextFragment} 对象表示 |
+| [getFontSize](#getFontSize--) | 获取文本的字体大小，由 {@code TextFragment} 对象表示 |
+| [getFontStyle](#getFontStyle--) | 设置文本的字体样式，由 {@code TextFragment} 对象表示 |
+| [getForegroundColor](#getForegroundColor--) | 获取文本的前景色，由 {@code TextFragment} 对象表示 |
+| [getFormattingOptions](#getFormattingOptions--) | 获取或设置格式选项。仅在生成器场景中设置这些选项才会生效。 |
+| [getHorizontalAlignment](#getHorizontalAlignment--) | <p> 获取文本的水平对齐方式。 </p> <hr> <p> HorizontalAlignment.None 等同于 HorizontalAlignment.Left。请注意，TextFragmentState.VerticalAlignment 属性仅在新文档生成场景中有效。 </p> |
+| [getHorizontalScaling](#getHorizontalScaling--) | 获取文本的水平缩放比例，由 {@code TextFragment} 对象表示。 |
+| [getLineSpacing](#getLineSpacing--) | <p> 获取文本的行间距。 </p> |
+| [getRenderingMode](#getRenderingMode--) | 获取或设置文本的渲染模式。 |
+| [getRotation](#getRotation--) | 获取或设置以度为单位的旋转角度。 |
+| [getStrokingColor](#getStrokingColor--) | 获取或设置 {@code TextFragment} 渲染的颜色描边操作（描边文本，矩形边框） |
+| [getTabStops](#getTabStops--) | <p> 获取文本的制表位。 </p> <hr> <p> 注意，Tabstops 属性仅在新文档生成场景中有效。Tabstops 可以在 {@code TextFragment} 初始化期间添加。Tabstops 必须在文本之前构建。 </p> |
+| [getTextHeight](#getTextHeight--) | 获取文本高度，由 {@code TextFragment} 对象表示 |
+| [getWordSpacing](#getWordSpacing--) | 获取文本的字间距。 |
+| [isFitRectangle](#isFitRectangle-java.lang.String-com.aspose.pdf.Rectangle-) | 检查输入字符串是否可以放置在定义的矩形内。 |
+| [isInvisible](#isInvisible--) | 获取文本的不可见性。 |
+| [isStrikeOut](#isStrikeOut--) | 获取或设置文本的删除线，由 {@link TextFragment} 对象表示 |
+| [isSubscript](#isSubscript--) | 获取或设置文本的下标，由 {@code TextFragment} 对象表示。 |
+| [isSuperscript](#isSuperscript--) | 获取或设置文本的上标，由 {@code TextFragment} 对象表示。 |
+| [isUnderline](#isUnderline--) | 获取或设置文本的下划线，由 {@link TextFragment} 对象表示 |
+| [measureHeight](#measureHeight-char-) | 测量字符高度。 |
+| [measureString](#measureString-java.lang.String-) | 测量字符串。 |
+| [setBackgroundColor](#setBackgroundColor-com.aspose.pdf.Color-) | 设置文本的背景颜色，由 TextFragment 对象表示 |
+| [setCharacterSpacing](#setCharacterSpacing-float-) | 设置文本的字符间距，由 {@code TextFragment} 对象表示。 |
+| [setCoordinateOrigin](#setCoordinateOrigin-com.aspose.pdf.CoordinateOrigin-) | 获取或设置文本的 CoordinateOrigin。如果 CoordinateOrigin 为 Descender，则文本的 Y 坐标对应于字体的最低点。如果 CoordinateOrigin 为 BaseLine，则文本的 Y 坐标对应于字体的基线。默认值为 Descender。如果字体的 Descent 值过大，文本可能会比其他字体渲染得更高。在这种情况下，可以选择 BaseLine 作为 CoordinateOrigin，以获得更好的文本渲染。 |
+| [setDrawTextRectangleBorder](#setDrawTextRectangleBorder-boolean-) | 设置是否绘制文本矩形边框的标志。 |
+| [setFont](#setFont-com.aspose.pdf.Font-) | 设置文本的字体，由 {@code TextFragment} 对象表示 |
+| [setFontSize](#setFontSize-float-) | 设置文本的字体大小，由 {@code TextFragment} 对象表示 |
+| [setFontStyle](#setFontStyle-int-) | 设置文本的字体样式，由 {@link TextFragment} 对象表示 |
+| [setForegroundColor](#setForegroundColor-com.aspose.pdf.Color-) | 设置文本的前景颜色，由 {@code TextFragment} 对象表示 |
+| [setFormattingOptions](#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-) | 获取或设置格式选项。仅在生成器场景中设置这些选项才会生效。 |
+| [setHorizontalAlignment](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | <p> 设置文本的水平对齐方式。 </p> <hr> <p> HorizontalAlignment.None 等同于 HorizontalAlignment.Left。注意，TextFragmentState.VerticalAlignment 属性仅在新文档生成场景中有效。 </p> |
+| [setHorizontalScaling](#setHorizontalScaling-float-) | 设置文本的水平缩放，由 {@code TextFragment} 对象表示。 |
+| [setInvisible](#setInvisible-boolean-) | 设置文本的不可见性。 |
+| [setLineSpacing](#setLineSpacing-float-) | <p> 设置文本的行间距。 </p> |
+| [setRenderingMode](#setRenderingMode-com.aspose.pdf.TextRenderingMode-) | 获取或设置文本的渲染模式。 |
+| [setRotation](#setRotation-double-) | 获取或设置以度为单位的旋转角度。 |
+| [setStrikeOut](#setStrikeOut-boolean-) | 设置文本的删除线，由 {@code TextFragment} 对象表示 |
+| [setStrokingColor](#setStrokingColor-com.aspose.pdf.Color-) | 获取或设置 {@code TextFragment} 渲染的颜色描边操作（描边文本，矩形边框） |
+| [setSubscript](#setSubscript-boolean-) | 获取或设置文本的下标，由 {@code TextFragment} 对象表示。 |
+| [setSuperscript](#setSuperscript-boolean-) | 获取或设置文本的上标，由 {@code TextFragment} 对象表示。 |
+| [setUnderline](#setUnderline-boolean-) | 为文本设置下划线，由 {@code TextFragment} 对象表示 |
+| [setWordSpacing](#setWordSpacing-float-) | 设置文本的字间距。 |
 
+### TextFragmentState {#TextFragmentState-com.aspose.pdf.TextFragment-}
+使用指定的 {@code TextFragment} 对象初始化 {@code TextFragmentState} 对象的新实例。此 {@code TextFragmentState} 初始化不受支持。TextFragmentState 仅在 {@code TextFragment.TextState} 属性中可用。
 
-使用指定的 TextFragment 对象初始化 TextFragmentState 对象的新实例。不支持此 TextFragmentState 初始化。 TextFragmentState 仅适用于 TextFragment.TextState 属性。
+### applyChangesFrom {#applyChangesFrom-com.aspose.pdf.TextState-}
+<p> 应用来自另一个 textState 的设置 </p>
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fragment | [TextFragment](../../com.aspose.pdf/textfragment) | 文本片段对象。 |
-
-### TabTag {#TabTag}
-```
-public static final String TabTag
-```
-
-
-您可以将此标记放在文本中以声明列表。
-
---------------------
-
-它仅在与 TabStops 结合时有效。
-
-### TabstopDefaultValue {#TabstopDefaultValue}
-```
-public final float TabstopDefaultValue
-```
-
-
-默认字体空格字符宽度列表的默认值。
-
-### applyChangesFrom(TextState textState) {#applyChangesFrom-com.aspose.pdf.TextState-}
-```
-public void applyChangesFrom(TextState textState)
-```
-
-
+### applyChangesFrom {#applyChangesFrom-com.aspose.pdf.TextState-boolean-}
 应用来自另一个 textState 的设置
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| textState | [TextState](../../com.aspose.pdf/textstate) | 文本状态对象。
-
---------------------
-
-只有那些明确更改的属性才会被复制。|
-
-### applyChangesFrom(TextState textState, boolean groupChangesOnly) {#applyChangesFrom-com.aspose.pdf.TextState-boolean-}
-```
-public void applyChangesFrom(TextState textState, boolean groupChangesOnly)
-```
-
-
-应用来自另一个 textState 的设置
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| textState | [TextState](../../com.aspose.pdf/textstate) | 文本状态对象。 |
-| groupChangesOnly | boolean | 如果 true 仅继承组更改（不将段隔离为单个段） |
-
-### calculateFontSize(String str, Rectangle rect) {#calculateFontSize-java.lang.String-com.aspose.pdf.Rectangle-}
-```
-public double calculateFontSize(String str, Rectangle rect)
-```
-
-
-计算矩形的字体大小。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| str | java.lang.String | 字符串值 |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | 矩形对象 |
-
-**退货：**
-双倍价值
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getBackgroundColor() {#getBackgroundColor--}
+### getBackgroundColor {#getBackgroundColor--}
 ```
 public Color getBackgroundColor()
 ```
 
+设置文本的背景颜色，由 {@code TextFragment} 对象表示
 
-设置文本的背景颜色，由 TextFragment 对象表示
+**Returns:**
+值 Color 对象
 
-**退货：**
-[Color](../../com.aspose.pdf/color) - 值颜色对象
-### getCharacterSpacing() {#getCharacterSpacing--}
+### getCharacterSpacing {#getCharacterSpacing--}
 ```
 public float getCharacterSpacing()
 ```
 
+获取文本的字符间距，由 {@code TextFragment} 对象表示。
 
-获取文本的字符间距，由 TextFragment 对象表示。
+**Returns:**
+float 值
 
-**退货：**
-float - 浮点值
-### getClass() {#getClass--}
+### getCoordinateOrigin {#getCoordinateOrigin--}
 ```
-public final native Class<?> getClass()
+public CoordinateOrigin getCoordinateOrigin()
 ```
 
+获取或设置文本的 CoordinateOrigin。如果 CoordinateOrigin 为 Descender，则文本的 Y 坐标对应于字体的最低点。如果 CoordinateOrigin 为 BaseLine，则文本的 Y 坐标对应于字体的基线。默认值为 Descender。如果字体的 Descent 值过大，文本可能会比其他字体渲染得更高。在这种情况下，可以选择 BaseLine 作为 CoordinateOrigin，以获得更好的文本渲染。
 
+**Returns:**
+CoordinateOrigin 元素
 
-
-**退货：**
-java.lang.Class<?>
-### getDrawTextRectangleBorder() {#getDrawTextRectangleBorder--}
+### getDrawTextRectangleBorder {#getDrawTextRectangleBorder--}
 ```
 public boolean getDrawTextRectangleBorder()
 ```
 
+获取文本矩形边框绘制标志。
 
-获取是否绘制文本矩形边框的标志。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getFont() {#getFont--}
+### getFont {#getFont--}
 ```
 public Font getFont()
 ```
 
+获取文本的字体，由 {@code TextFragment} 对象表示
 
-获取文本的字体，由 TextFragment 对象表示
+**Returns:**
+字体值
 
-**退货：**
-[Font](../../com.aspose.pdf/font) - 字体值
-### getFontSize() {#getFontSize--}
+### getFontSize {#getFontSize--}
 ```
 public float getFontSize()
 ```
 
+获取文本的字体大小，由 {@code TextFragment} 对象表示
 
-获取文本的字体大小，由 TextFragment 对象表示
+**Returns:**
+float 值
 
-**退货：**
-float - 浮点值
-### getFontStyle() {#getFontStyle--}
+### getFontStyle {#getFontStyle--}
 ```
 public int getFontStyle()
 ```
 
+设置文本的字体样式，由 {@code TextFragment} 对象表示
 
-设置文本的字体样式，由 TextFragment 对象表示
+**Returns:**
+FontStyles 元素 @see FontStyles
 
-**退货：**
-int - 字体样式元素
-### getForegroundColor() {#getForegroundColor--}
+### getForegroundColor {#getForegroundColor--}
 ```
 public Color getForegroundColor()
 ```
 
+获取文本的前景色，由 {@code TextFragment} 对象表示
 
-获取文本的前景色，由 TextFragment 对象表示
+**Returns:**
+Color 对象
 
-**退货：**
-[Color](../../com.aspose.pdf/color) 颜色对象
-### getFormattingOptions() {#getFormattingOptions--}
+### getFormattingOptions {#getFormattingOptions--}
 ```
 public TextFormattingOptions getFormattingOptions()
 ```
 
+获取或设置格式选项。仅在生成器场景中设置这些选项才会生效。
 
-获取或设置格式化选项。选项的设置仅在生成器场景中有效。
+**Returns:**
+TextFormattingOptions 实例
 
-**退货：**
-[TextFormattingOptions](../../com.aspose.pdf/textformattingoptions) - TextFormattingOptions 实例
-### getHorizontalAlignment() {#getHorizontalAlignment--}
+### getHorizontalAlignment {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
+<p> 获取文本的水平对齐方式。 </p> <hr> <p> HorizontalAlignment.None 等同于 HorizontalAlignment.Left。请注意，TextFragmentState.VerticalAlignment 属性仅在新文档生成场景中有效。 </p>
 
-获取文本的水平对齐方式。
+**Returns:**
+HorizontalAlignment 值 @see HorizontalAlignment
 
---------------------
-
-HorizontalAlignment.None 等于 HorizontalAlignment.Left。请注意，TextFragmentState.VerticalAlignment 属性仅适用于新文档生成方案。
-
-**退货：**
-int - HorizontalAlignment 值
-### getHorizontalScaling() {#getHorizontalScaling--}
+### getHorizontalScaling {#getHorizontalScaling--}
 ```
 public float getHorizontalScaling()
 ```
 
+获取文本的水平缩放比例，由 {@code TextFragment} 对象表示。
 
-获取由 TextFragment 对象表示的文本的水平缩放。
+**Returns:**
+float 值
 
-**退货：**
-float - 浮点值
-### getLineSpacing() {#getLineSpacing--}
+### getLineSpacing {#getLineSpacing--}
 ```
 public float getLineSpacing()
 ```
 
+<p> 获取文本的行间距。 </p>
 
-获取文本的行间距。
+**Returns:**
+float value <hr> <p> 注意，该值不会作为文档中的文本特性保存。LineSpacing 属性的 getter 在对象已通过 LineSpacing setter 明确设置的情况下工作。该属性在运行时的当前生成/修改过程上下文中使用。 </p>
 
-**退货：**
-float - 浮点值
-
---------------------
-
-请注意，该值不会保留为文档中的文本特征。 LineSpacing 属性 getter 适用于一个对象，以防先前使用 LineSpacing setter 为这些对象显式设置它。该属性由运行时在当前生成/修改过程的上下文中使用。
-### getRenderingMode() {#getRenderingMode--}
+### getRenderingMode {#getRenderingMode--}
 ```
-public int getRenderingMode()
+public TextRenderingMode getRenderingMode()
 ```
-
 
 获取或设置文本的渲染模式。
 
-**退货：**
-整数
-### getRotation() {#getRotation--}
+**Returns:**
+TextRenderingMode 元素
+
+### getRotation {#getRotation--}
 ```
 public double getRotation()
 ```
 
-
 获取或设置以度为单位的旋转角度。
 
-**退货：**
-双倍价值
-### getStrikeOut() {#getStrikeOut--}
-```
-public boolean getStrikeOut()
-```
+**Returns:**
+double 值
 
-
-获取文本的删除线，由 TextFragment 对象表示
-
-**退货：**
-boolean - 布尔值
-### getStrokingColor() {#getStrokingColor--}
+### getStrokingColor {#getStrokingColor--}
 ```
 public Color getStrokingColor()
 ```
 
+获取或设置 {@code TextFragment} 渲染的颜色描边操作（描边文本，矩形边框）
 
-获取或设置TextFragment渲染的颜色描边操作（描边文字、矩形边框）
+**Returns:**
+Color 实例
 
-**退货：**
-[Color](../../com.aspose.pdf/color)
-### getTabStops() {#getTabStops--}
+### getTabStops {#getTabStops--}
 ```
 public TabStops getTabStops()
 ```
 
+<p> 获取文本的制表位。 </p> <hr> <p> 注意，Tabstops 属性仅在新文档生成场景中有效。Tabstops 可以在 {@code TextFragment} 初始化期间添加。Tabstops 必须在文本之前构建。 </p>
 
-获取文本的制表位。
+**Returns:**
+TabStops 对象
 
---------------------
-
-请注意，Tabstops 属性仅适用于新文档生成方案。 Tabstops 可以在 TextFragment 初始化期间添加。必须在文本之前构建制表位。
-
-**退货：**
-[TabStops](../../com.aspose.pdf/tabstops) - TabStops 对象
-### getTextHeight() {#getTextHeight--}
+### getTextHeight {#getTextHeight--}
 ```
 public float getTextHeight()
 ```
 
+获取文本高度，由 {@code TextFragment} 对象表示
 
-获取文本高度，由 TextFragment 对象表示
+**Returns:**
+float 值
 
-**退货：**
-float - 浮点值
-### getUnderline() {#getUnderline--}
-```
-public boolean getUnderline()
-```
-
-
-获取或设置文本的下划线，由[TextFragment](../../com.aspose.pdf/textfragment)目的
-
-**退货：**
-boolean - 布尔值
-### getWordSpacing() {#getWordSpacing--}
+### getWordSpacing {#getWordSpacing--}
 ```
 public float getWordSpacing()
 ```
 
-
 获取文本的字间距。
 
-**退货：**
-float - 浮点值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+float 值
 
+### isFitRectangle {#isFitRectangle-java.lang.String-com.aspose.pdf.Rectangle-}
+检查输入字符串是否可以放置在定义的矩形内。
 
-
-
-**退货：**
-整数
-### isInvisible() {#isInvisible--}
+### isInvisible {#isInvisible--}
 ```
 public boolean isInvisible()
 ```
 
-
 获取文本的不可见性。
 
-**退货：**
-boolean - 布尔值
-### isSubscript() {#isSubscript--}
+**Returns:**
+布尔值
+
+### isStrikeOut {#isStrikeOut--}
+```
+public boolean isStrikeOut()
+```
+
+获取或设置文本的删除线，由 {@link TextFragment} 对象表示
+
+**Returns:**
+布尔值
+
+### isSubscript {#isSubscript--}
 ```
 public boolean isSubscript()
 ```
 
+获取或设置文本的下标，由 {@code TextFragment} 对象表示。
 
-获取或设置文本的下标，由 TextFragment 对象表示。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isSuperscript() {#isSuperscript--}
+### isSuperscript {#isSuperscript--}
 ```
 public boolean isSuperscript()
 ```
 
+获取或设置文本的上标，由 {@code TextFragment} 对象表示。
 
-获取或设置文本的上标，由 TextFragment 对象表示。
+**Returns:**
+value 布尔值
 
-**退货：**
-boolean - value 布尔值
-### isUnderline() {#isUnderline--}
+### isUnderline {#isUnderline--}
 ```
 public boolean isUnderline()
 ```
 
+获取或设置文本的下划线，由 {@link TextFragment} 对象表示
 
-获取文本的下划线，由 TextFragment 对象表示
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### measureString(String str) {#measureString-java.lang.String-}
+### measureHeight {#measureHeight-char-}
 ```
-public double measureString(String str)
+public final double measureHeight(char character)
 ```
 
+测量字符高度。
 
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| 字符 |  | 要测量的字符。 |
+
+**Returns:**
+如果能够从字体获取，则为字符的高度；否则为 0。
+
+### measureString {#measureString-java.lang.String-}
 测量字符串。
 
-**参数：**
+### setBackgroundColor {#setBackgroundColor-com.aspose.pdf.Color-}
+设置文本的背景颜色，由 TextFragment 对象表示
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| str | java.lang.String | 字符串。 |
-
-**退货：**
-double - 双精度值，字符串的宽度。
-### measureString(String str, boolean insideLine) {#measureString-java.lang.String-boolean-}
-```
-public double measureString(String str, boolean insideLine)
-```
-
-
-测量字符串。
-
---------------------
-
-insideLine 表示字符串没有结束。如果测量了整个字符串的一部分 - insideLine 应该为真。如果测量整个字符串，则 insideLine 应该为 false。换句话说：在 insideLine = true 的情况下，只考虑字符宽度。如果 insideLine = false 正确处理了字符串的结尾，则不会考虑其他转换 - 会考虑斜体转换。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| str | java.lang.String | 字符串值 |
-| insideLine | boolean | 布尔值 |
-
-**退货：**
-双倍价值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBackgroundColor(Color value) {#setBackgroundColor-com.aspose.pdf.Color-}
-```
-public void setBackgroundColor(Color value)
-```
-
-
-设置文本的背景颜色，由[TextFragment](../../com.aspose.pdf/textfragment)目的
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) |  |
-
-### setCharacterSpacing(float value) {#setCharacterSpacing-float-}
+### setCharacterSpacing {#setCharacterSpacing-float-}
 ```
 public void setCharacterSpacing(float value)
 ```
 
+设置文本的字符间距，由 {@code TextFragment} 对象表示。
 
-设置文本的字符间距，由 TextFragment 对象表示。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 浮点值 |
+| 值 |  | float 值 |
 
-### setDrawTextRectangleBorder(boolean value) {#setDrawTextRectangleBorder-boolean-}
+### setCoordinateOrigin {#setCoordinateOrigin-com.aspose.pdf.CoordinateOrigin-}
+获取或设置文本的 CoordinateOrigin。如果 CoordinateOrigin 为 Descender，则文本的 Y 坐标对应于字体的最低点。如果 CoordinateOrigin 为 BaseLine，则文本的 Y 坐标对应于字体的基线。默认值为 Descender。如果字体的 Descent 值过大，文本可能会比其他字体渲染得更高。在这种情况下，可以选择 BaseLine 作为 CoordinateOrigin，以获得更好的文本渲染。
+
+### setDrawTextRectangleBorder {#setDrawTextRectangleBorder-boolean-}
 ```
 public void setDrawTextRectangleBorder(boolean value)
 ```
 
+设置是否绘制文本矩形边框的标志。
 
-设置文本矩形边框是否绘制标志。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setFont(Font value) {#setFont-com.aspose.pdf.Font-}
-```
-public void setFont(Font value)
-```
+### setFont {#setFont-com.aspose.pdf.Font-}
+设置文本的字体，由 {@code TextFragment} 对象表示
 
-
-设置文本的字体，由 TextFragment 对象表示
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Font](../../com.aspose.pdf/font) | 字体值 |
-
-### setFontSize(float value) {#setFontSize-float-}
+### setFontSize {#setFontSize-float-}
 ```
 public void setFontSize(float value)
 ```
 
+设置文本的字体大小，由 {@code TextFragment} 对象表示
 
-设置文本的字体大小，由 TextFragment 对象表示
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 浮点值 |
+| 值 |  | float 值 |
 
-### setFontSizeSuppressedUpdate(float value) {#setFontSizeSuppressedUpdate-float-}
-```
-public void setFontSizeSuppressedUpdate(float value)
-```
-
-
-设置希望抑制更新的文本的字体大小。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | float | 浮点值 |
-
-### setFontStyle(int value) {#setFontStyle-int-}
+### setFontStyle {#setFontStyle-int-}
 ```
 public void setFontStyle(int value)
 ```
 
+设置文本的字体样式，由 {@link TextFragment} 对象表示
 
-设置文本的字体样式，由[TextFragment](../../com.aspose.pdf/textfragment)目的
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 @see FontStyles |
 
-### setFontSuppressedUpdate(Font value) {#setFontSuppressedUpdate-com.aspose.pdf.Font-}
-```
-public void setFontSuppressedUpdate(Font value)
-```
+### setForegroundColor {#setForegroundColor-com.aspose.pdf.Color-}
+设置文本的前景颜色，由 {@code TextFragment} 对象表示
 
+### setFormattingOptions {#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-}
+获取或设置格式选项。仅在生成器场景中设置这些选项才会生效。
 
-获取希望抑制更新的文本字体。
+### setHorizontalAlignment {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
+<p> 设置文本的水平对齐方式。 </p> <hr> <p> HorizontalAlignment.None 等同于 HorizontalAlignment.Left。注意，TextFragmentState.VerticalAlignment 属性仅在新文档生成场景中有效。 </p>
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Font](../../com.aspose.pdf/font) | 字体对象 |
-
-### setForegroundColor(Color value) {#setForegroundColor-com.aspose.pdf.Color-}
-```
-public void setForegroundColor(Color value)
-```
-
-
-设置文本的前景色，由 TextFragment 对象表示
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | 颜色对象 |
-
-### setFormattingOptions(TextFormattingOptions value) {#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-}
-```
-public void setFormattingOptions(TextFormattingOptions value)
-```
-
-
-获取或设置格式化选项。选项的设置仅在生成器场景中有效。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [TextFormattingOptions](../../com.aspose.pdf/textformattingoptions) | TextFormattingOptions 实例 |
-
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
-```
-public void setHorizontalAlignment(int value)
-```
-
-
-设置文本的水平对齐方式。
-
---------------------
-
-HorizontalAlignment.None 等于 HorizontalAlignment.Left。请注意，TextFragmentState.VerticalAlignment 属性仅适用于新文档生成方案。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | HorizontalAlignment 值 |
-
-### setHorizontalScaling(float value) {#setHorizontalScaling-float-}
+### setHorizontalScaling {#setHorizontalScaling-float-}
 ```
 public void setHorizontalScaling(float value)
 ```
 
+设置文本的水平缩放，由 {@code TextFragment} 对象表示。
 
-设置文本的水平缩放，由 TextFragment 对象表示。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 浮点值 |
+| 值 |  | float 值 |
 
-### setInvisible(boolean value) {#setInvisible-boolean-}
+### setInvisible {#setInvisible-boolean-}
 ```
 public void setInvisible(boolean value)
 ```
 
-
 设置文本的不可见性。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setLineSpacing(float value) {#setLineSpacing-float-}
+### setLineSpacing {#setLineSpacing-float-}
 ```
 public void setLineSpacing(float value)
 ```
 
+<p> 设置文本的行间距。 </p>
 
-设置文本的行间距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 浮点值
+| 值 |  | float value <hr> <p> 注意，该值不会作为文档中的文本特性保存。LineSpacing 属性的 getter 在对象已通过 LineSpacing setter 明确设置的情况下工作。该属性在运行时的当前生成/修改过程上下文中使用。 </p> |
 
---------------------
-
-请注意，该值不会保留为文档中的文本特征。 LineSpacing 属性 getter 适用于一个对象，以防先前使用 LineSpacing setter 为这些对象显式设置它。该属性由运行时在当前生成/修改过程的上下文中使用。|
-
-### setRenderingMode(int value) {#setRenderingMode-int-}
-```
-public void setRenderingMode(int value)
-```
-
-
+### setRenderingMode {#setRenderingMode-com.aspose.pdf.TextRenderingMode-}
 获取或设置文本的渲染模式。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int |  |
-
-### setRotation(double value) {#setRotation-double-}
+### setRotation {#setRotation-double-}
 ```
 public void setRotation(double value)
 ```
 
-
 获取或设置以度为单位的旋转角度。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setStrikeOut(boolean value) {#setStrikeOut-boolean-}
+### setStrikeOut {#setStrikeOut-boolean-}
 ```
 public void setStrikeOut(boolean value)
 ```
 
+设置文本的删除线，由 {@code TextFragment} 对象表示
 
-为文本设置删除线，由 TextFragment 对象表示
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setStrokingColor(Color value) {#setStrokingColor-com.aspose.pdf.Color-}
-```
-public void setStrokingColor(Color value)
-```
+### setStrokingColor {#setStrokingColor-com.aspose.pdf.Color-}
+获取或设置 {@code TextFragment} 渲染的颜色描边操作（描边文本，矩形边框）
 
-
-获取或设置TextFragment渲染的颜色描边操作（描边文字、矩形边框）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) |  |
-
-### setSubscript(boolean value) {#setSubscript-boolean-}
+### setSubscript {#setSubscript-boolean-}
 ```
 public void setSubscript(boolean value)
 ```
 
+获取或设置文本的下标，由 {@code TextFragment} 对象表示。
 
-获取或设置文本的下标，由 TextFragment 对象表示。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setSuperscript(boolean value) {#setSuperscript-boolean-}
+### setSuperscript {#setSuperscript-boolean-}
 ```
 public void setSuperscript(boolean value)
 ```
 
+获取或设置文本的上标，由 {@code TextFragment} 对象表示。
 
-获取或设置文本的上标，由 TextFragment 对象表示。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setUnderline(boolean value) {#setUnderline-boolean-}
+### setUnderline {#setUnderline-boolean-}
 ```
 public void setUnderline(boolean value)
 ```
 
+为文本设置下划线，由 {@code TextFragment} 对象表示
 
-为文本设置下划线，由 TextFragment 对象表示
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setWordSpacing(float value) {#setWordSpacing-float-}
+### setWordSpacing {#setWordSpacing-float-}
 ```
 public void setWordSpacing(float value)
 ```
 
-
 设置文本的字间距。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 浮点值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | float 值 |

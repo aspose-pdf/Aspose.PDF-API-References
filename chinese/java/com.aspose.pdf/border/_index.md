@@ -1,322 +1,159 @@
 ---
-title: Border
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示注释边框特征的类。
+title: "Border"
+linktitle: "Border"
+second_title: "Aspose.PDF for Java API 参考"
+description: "类表示注释边框的特征。"
 type: docs
-weight: 36
+weight: 340
 url: /zh/java/com.aspose.pdf/border/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Border
+
 ```
-public final class Border
+public final class Border extends Object
 ```
 
-表示注释边框特征的类。
+类表示注释边框的特征。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Border(Annotation parent)](#Border-com.aspose.pdf.Annotation-) | 边框对象的构造函数。 |
+| [Border](#Border-com.aspose.pdf.Annotation-) | 边框对象的构造函数。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getDash()](#getDash--) | 获取破折号模式。 |
-| [getEffect()](#getEffect--) | 获得边框效果。 |
-| [getEffectIntensity()](#getEffectIntensity--) | 获取效果强度。 |
-| [getHCornerRadius()](#getHCornerRadius--) | 尚不支持。 |
-| [getStyle()](#getStyle--) | 获取边框样式。 |
-| [getVCornerRadius()](#getVCornerRadius--) | 获取垂直角半径。 |
-| [getWidth()](#getWidth--) | 获取边框宽度。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setDash(Dash value)](#setDash-com.aspose.pdf.Dash-) | 设置破折号模式。 |
-| [setEffect(int value)](#setEffect-int-) | 设置边框效果。 |
-| [setEffectIntensity(int value)](#setEffectIntensity-int-) | 设置效果强度。 |
-| [setHCornerRadius(double value)](#setHCornerRadius-double-) | 设置水平拐角半径。 |
-| [setStyle(int value)](#setStyle-int-) | 设置边框样式。 |
-| [setWidth(int value)](#setWidth-int-) | 设置边框宽度。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Border(Annotation parent) {#Border-com.aspose.pdf.Annotation-}
-```
-public Border(Annotation parent)
-```
+| [getDash](#getDash--) | 获取虚线模式。 |
+| [getEffect](#getEffect--) | 获取边框效果。{@code BorderEffect} |
+| [getEffectIntensity](#getEffectIntensity--) | 获取效果强度。有效值范围为 [0..2]。 |
+| [getHCornerRadius](#getHCornerRadius--) | 尚未支持。获取水平角半径。 |
+| [getStyle](#getStyle--) | 获取边框样式。 {@code BorderStyle} |
+| [getVCornerRadius](#getVCornerRadius--) | 获取垂直角半径。 |
+| [getWidth](#getWidth--) | 获取边框宽度。 |
+| [setDash](#setDash-com.aspose.pdf.Dash-) | 设置虚线模式。 |
+| [setEffect](#setEffect-com.aspose.pdf.BorderEffect-) | 设置边框效果。 {@code BorderEffect} |
+| [setEffectIntensity](#setEffectIntensity-int-) | 设置效果强度。有效值范围为 [0..2]。 |
+| [setHCornerRadius](#setHCornerRadius-double-) | 设置水平角半径。 |
+| [setStyle](#setStyle-com.aspose.pdf.BorderStyle-) | 设置边框样式。 {@code BorderStyle} |
+| [setWidth](#setWidth-int-) | 设置边框宽度。 |
 
-
+### Border {#Border-com.aspose.pdf.Annotation-}
 边框对象的构造函数。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| parent | [Annotation](../../com.aspose.pdf/annotation) | 父注释。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getDash() {#getDash--}
+### getDash {#getDash--}
 ```
 public Dash getDash()
 ```
 
+获取虚线模式。
 
-获取破折号模式。
+**Returns:**
+Dash 对象
 
-**退货：**
-[Dash](../../com.aspose.pdf/dash) - 破折号对象
-### getEffect() {#getEffect--}
+### getEffect {#getEffect--}
 ```
-public int getEffect()
+public BorderEffect getEffect()
 ```
 
+获取边框效果。{@code BorderEffect}
 
-获得边框效果。
+**Returns:**
+BorderEffect 元素
 
- 边界效应 
-
-**退货：**
-int - BorderEffect 元素
-### getEffectIntensity() {#getEffectIntensity--}
+### getEffectIntensity {#getEffectIntensity--}
 ```
 public int getEffectIntensity()
 ```
 
+获取效果强度。有效值范围为 [0..2]。
 
-获取效果强度。值的有效范围是[0..2]。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getHCornerRadius() {#getHCornerRadius--}
+### getHCornerRadius {#getHCornerRadius--}
 ```
 public final double getHCornerRadius()
 ```
 
+尚未支持。获取水平角半径。
 
-尚不支持。
+**Returns:**
+double 值
 
-获取水平角半径。
-
-**退货：**
-双倍价值
-### getStyle() {#getStyle--}
+### getStyle {#getStyle--}
 ```
-public int getStyle()
+public BorderStyle getStyle()
 ```
 
+获取边框样式。 {@code BorderStyle}
 
-获取边框样式。
+**Returns:**
+BorderStyle 元素 @see BorderStyle
 
- 边框样式 
-
-**退货：**
-int - BorderStyle 元素
-### getVCornerRadius() {#getVCornerRadius--}
+### getVCornerRadius {#getVCornerRadius--}
 ```
 public final double getVCornerRadius()
 ```
 
-
 获取垂直角半径。
 
-**退货：**
-双 - 垂直角半径。
-### getWidth() {#getWidth--}
+**Returns:**
+垂直角半径。
+
+### getWidth {#getWidth--}
 ```
 public int getWidth()
 ```
 
-
 获取边框宽度。
 
-**退货：**
-int - 整数值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+int 值
 
+### setDash {#setDash-com.aspose.pdf.Dash-}
+设置虚线模式。
 
+### setEffect {#setEffect-com.aspose.pdf.BorderEffect-}
+设置边框效果。 {@code BorderEffect}
 
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setDash(Dash value) {#setDash-com.aspose.pdf.Dash-}
-```
-public void setDash(Dash value)
-```
-
-
-设置破折号模式。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Dash](../../com.aspose.pdf/dash) | 破折号对象 |
-
-### setEffect(int value) {#setEffect-int-}
-```
-public void setEffect(int value)
-```
-
-
-设置边框效果。
-
- 边界效应 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | BorderEffect 元素 |
-
-### setEffectIntensity(int value) {#setEffectIntensity-int-}
+### setEffectIntensity {#setEffectIntensity-int-}
 ```
 public void setEffectIntensity(int value)
 ```
 
+设置效果强度。有效值范围为 [0..2]。
 
-设置效果强度。值的有效范围是[0..2]。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setHCornerRadius(double value) {#setHCornerRadius-double-}
+### setHCornerRadius {#setHCornerRadius-double-}
 ```
 public final void setHCornerRadius(double value)
 ```
 
+设置水平角半径。
 
-设置水平拐角半径。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setStyle(int value) {#setStyle-int-}
-```
-public void setStyle(int value)
-```
+### setStyle {#setStyle-com.aspose.pdf.BorderStyle-}
+设置边框样式。 {@code BorderStyle}
 
-
-设置边框样式。
-
- 边框样式 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | BorderStyle 元素 |
-
-### setWidth(int value) {#setWidth-int-}
+### setWidth {#setWidth-int-}
 ```
 public void setWidth(int value)
 ```
 
-
 设置边框宽度。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | int 值 |

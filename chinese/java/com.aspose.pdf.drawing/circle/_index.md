@@ -1,286 +1,142 @@
 ---
-title: Circle
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 代表圆。
+title: "圆形"
+linktitle: "圆形"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示圆。"
 type: docs
-weight: 11
+weight: 20
 url: /zh/java/com.aspose.pdf.drawing/circle/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.drawing.Shape](../../com.aspose.pdf.drawing/shape)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.drawing.Shape com.aspose.pdf.drawing.Circle, com.aspose.pdf.drawing.Shape, com.aspose.pdf.drawing.Circle
+
+**All Implemented Interfaces:**
+IBoundsCheckableItem
+
 ```
 public final class Circle extends Shape
 ```
 
-代表圆。
+表示圆。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Circle()](#Circle--) | 仅供内部使用 |
-| [Circle(float posX, float posY, float radius)](#Circle-float-float-float-) | 初始化 Circle 类的新实例。 |
+| [Circle](#Circle--) | 仅供内部使用 |
+| [Circle](#Circle-float-float-float-) | 初始化 {@code Circle} 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getGraphInfo()](#getGraphInfo--) | 获取指示图形信息的对象，如颜色、线宽等。 |
-| [getPosX()](#getPosX--) | 获取指示圆弧中心 x 坐标的浮点值。 |
-| [getPosY()](#getPosY--) | 获取指示圆弧中心的 y 坐标的浮点值。 |
-| [getRadius()](#getRadius--) | 获取指示圆半径的浮点值。 |
-| [getText()](#getText--) | 获取或设置形状的文本 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setGraphInfo(GraphInfo value)](#setGraphInfo-com.aspose.pdf.GraphInfo-) | 设置指示图形信息的对象，如颜色、线宽等。 |
-| [setPosX(double value)](#setPosX-double-) | 设置指示圆弧中心 x 坐标的浮点值。 |
-| [setPosY(double value)](#setPosY-double-) | 设置指示圆弧中心 y 坐标的浮点值。 |
-| [setRadius(double value)](#setRadius-double-) | 设置指示圆半径的浮点值。 |
-| [setText(TextFragment value)](#setText-com.aspose.pdf.TextFragment-) | 获取或设置形状的文本 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Circle() {#Circle--}
+| [checkBounds](#checkBounds-double-double-) | 检查该项是否适合给定容器尺寸（包括边界）。 |
+| [getPosX](#getPosX--) | 获取指示弧线中心 x 坐标的浮点值。 |
+| [getPosY](#getPosY--) | 获取指示弧线中心 y 坐标的浮点值。 |
+| [getRadius](#getRadius--) | 获取指示圆半径的浮点值。 |
+| [setPosX](#setPosX-double-) | 设置指示弧线中心 x 坐标的浮点值。 |
+| [setPosY](#setPosY-double-) | 设置指示弧线中心 y 坐标的浮点值。 |
+| [setRadius](#setRadius-double-) | 设置指示圆半径的浮点值。 |
+
+### Circle {#Circle--}
 ```
 public Circle()
 ```
 
-
 仅供内部使用
 
-### Circle(float posX, float posY, float radius) {#Circle-float-float-float-}
+### Circle {#Circle-float-float-float-}
 ```
 public Circle(float posX, float posY, float radius)
 ```
 
+初始化 {@code Circle} 类的新实例。
 
-初始化 Circle 类的新实例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| posX | float | 圆心的 x 坐标。 |
-| posY | float | 圆心的 y 坐标。 |
-| radius | float | 圆的半径。 |
+| posX |  | 圆心的 x 坐标。 |
+| posY |  | 圆心的 y 坐标。 |
+| 半径 |  | 圆的半径。 |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### checkBounds {#checkBounds-double-double-}
 ```
-public boolean equals(Object arg0)
+public boolean checkBounds(double containerWidth, double containerHeight)
 ```
 
+检查该项是否适合给定容器尺寸（包括边界）。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| containerWidth |  |  |
+| containerHeight |  |  |
 
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+如果匹配则为 true；否则为 false。
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### getGraphInfo() {#getGraphInfo--}
-```
-public GraphInfo getGraphInfo()
-```
-
-
-获取指示图形信息的对象，如颜色、线宽等。
-
-**退货：**
-[GraphInfo](../../com.aspose.pdf/graphinfo) 指示图形信息的对象。
-### getPosX() {#getPosX--}
+### getPosX {#getPosX--}
 ```
 public double getPosX()
 ```
 
+获取指示弧线中心 x 坐标的浮点值。
 
-获取指示圆弧中心 x 坐标的浮点值。
+**Returns:**
+弧的中心的 x 坐标。
 
-**退货：**
-double - 圆弧中心的 x 坐标。
-### getPosY() {#getPosY--}
+### getPosY {#getPosY--}
 ```
 public double getPosY()
 ```
 
+获取指示弧线中心 y 坐标的浮点值。
 
-获取指示圆弧中心的 y 坐标的浮点值。
+**Returns:**
+弧的中心的 y 坐标。
 
-**退货：**
-double - 圆弧中心的 y 坐标。
-### getRadius() {#getRadius--}
+### getRadius {#getRadius--}
 ```
 public double getRadius()
 ```
 
-
 获取指示圆半径的浮点值。
 
-**退货：**
-double - 指示圆半径的值。
-### getText() {#getText--}
-```
-public TextFragment getText()
-```
+**Returns:**
+指示圆半径的值。
 
-
-获取或设置形状的文本
-
-**退货：**
-[TextFragment](../../com.aspose.pdf/textfragment) - TextFragment 对象
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setGraphInfo(GraphInfo value) {#setGraphInfo-com.aspose.pdf.GraphInfo-}
-```
-public void setGraphInfo(GraphInfo value)
-```
-
-
-设置指示图形信息的对象，如颜色、线宽等。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [GraphInfo](../../com.aspose.pdf/graphinfo) | 指示图形信息。 |
-
-### setPosX(double value) {#setPosX-double-}
+### setPosX {#setPosX-double-}
 ```
 public void setPosX(double value)
 ```
 
+设置指示弧线中心 x 坐标的浮点值。
 
-设置指示圆弧中心 x 坐标的浮点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 圆弧中心的 x 坐标。 |
+| 值 |  | 弧的中心的 x 坐标。 |
 
-### setPosY(double value) {#setPosY-double-}
+### setPosY {#setPosY-double-}
 ```
 public void setPosY(double value)
 ```
 
+设置指示弧线中心 y 坐标的浮点值。
 
-设置指示圆弧中心 y 坐标的浮点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 圆弧中心的 y 坐标。 |
+| 值 |  | 弧的中心的 y 坐标。 |
 
-### setRadius(double value) {#setRadius-double-}
+### setRadius {#setRadius-double-}
 ```
 public void setRadius(double value)
 ```
 
-
 设置指示圆半径的浮点值。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 表示圆的半径。 |
-
-### setText(TextFragment value) {#setText-com.aspose.pdf.TextFragment-}
-```
-public void setText(TextFragment value)
-```
-
-
-获取或设置形状的文本
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [TextFragment](../../com.aspose.pdf/textfragment) | 文本片段对象 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 指示圆半径的。 |

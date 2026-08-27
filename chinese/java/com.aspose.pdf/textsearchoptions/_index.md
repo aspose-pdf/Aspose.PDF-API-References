@@ -1,464 +1,318 @@
 ---
-title: TextSearchOptions
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示文本搜索选项
+title: "TextSearchOptions"
+linktitle: "TextSearchOptions"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示文本搜索选项"
 type: docs
-weight: 385
+weight: 5290
 url: /zh/java/com.aspose.pdf/textsearchoptions/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.TextOptions](../../com.aspose.pdf/textoptions)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.TextOptions com.aspose.pdf.TextSearchOptions, com.aspose.pdf.TextOptions, com.aspose.pdf.TextSearchOptions
+
 ```
 public final class TextSearchOptions extends TextOptions
 ```
 
 表示文本搜索选项
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [TextSearchOptions(boolean isRegularExpressionUsed)](#TextSearchOptions-boolean-) | 初始化 TextSearchOptions 对象的新实例。 |
-| [TextSearchOptions(Rectangle rectangle)](#TextSearchOptions-com.aspose.pdf.Rectangle-) | 初始化 TextSearchOptions 对象的新实例。 |
-| [TextSearchOptions(Rectangle rectangle, boolean isRegularExpressionUsed)](#TextSearchOptions-com.aspose.pdf.Rectangle-boolean-) | 初始化 TextSearchOptions 对象的新实例。 |
+| [TextSearchOptions](#TextSearchOptions-boolean-) | 初始化 {@code TextSearchOptions} 对象的新实例。指定正则表达式使用模式。 |
+| [TextSearchOptions](#TextSearchOptions-com.aspose.pdf.Rectangle-) | 初始化 TextSearchOptions 对象的新实例。指定限定搜索文本的矩形。 |
+| [TextSearchOptions](#TextSearchOptions-com.aspose.pdf.Rectangle-boolean-) | 初始化 TextSearchOptions 对象的新实例。指定限定搜索文本的矩形以及正则表达式使用模式。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getIgnoreResourceFontErrors()](#getIgnoreResourceFontErrors--) | 获取或设置与字体缺失相关的错误将被文本（片段）吸收器忽略的指示。 |
-| [getLimitToPageBounds()](#getLimitToPageBounds--) | 获取在页面边界内搜索文本的指示。 |
-| [getLogTextExtractionErrors()](#getLogTextExtractionErrors--) | 获取或设置文本提取（解码）错误将记录在文本（片段）吸收器中的指示。 true - 表示将记录文本提取（解码）错误。 |
-| [getRectangle()](#getRectangle--) | 获取限定搜索文本的矩形。 |
-| [getSearchForTextRelatedGraphics()](#getSearchForTextRelatedGraphics--) | 获取或设置允许在文本搜索期间搜索与文本相关的图形（下划线、背景等）的值。 |
-| [getStoredGraphicElementsMaxCount()](#getStoredGraphicElementsMaxCount--) | 获取限制在页面上搜索指定数量元素的文本相关图形（下划线、背景等）的值。 |
-| [getUseFontEngineEncoding()](#getUseFontEngineEncoding--) | 获取将使用字体引擎编码搜索文本的指示。 true - 表示将使用字体引擎编码（如果文本搜索因文档中的编码不完善而失败，请尝试此操作） false - 表示将使用文档字体编码（默认值） |
-| [hashCode()](#hashCode--) |  |
-| [isDotallMode()](#isDotallMode--) | 在 dotall 模式下，表达式 .匹配任何字符，包括行终止符。 |
-| [isIgnoreShadowText()](#isIgnoreShadowText--) | 获取或设置表示普通文本阴影的文本片段在搜索期间将被忽略的指示。 true - 表示不会找到阴影文本（如果文本搜索在关闭位置返回重复的片段，请尝试此操作） false - 表示将找到阴影文本以及普通文本（默认值） |
-| [isRegularExpressionUsed()](#isRegularExpressionUsed--) | 表示是否使用正则表达式 |
-| [isSearchInAnnotations()](#isSearchInAnnotations--) | 获取或设置允许在 Annotations 中搜索文本的值。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setDotallMode(boolean dotallMode)](#setDotallMode-boolean-) | 启用 dotall 模式。 |
-| [setIgnoreResourceFontErrors(boolean value)](#setIgnoreResourceFontErrors-boolean-) | 获取或设置与字体缺失相关的错误将被文本（片段）吸收器忽略的指示。 |
-| [setIgnoreShadowText(boolean value)](#setIgnoreShadowText-boolean-) | 获取或设置表示普通文本阴影的文本片段在搜索期间将被忽略的指示。 true - 表示不会找到阴影文本（如果文本搜索在关闭位置返回重复的片段，请尝试此操作） false - 表示将找到阴影文本以及普通文本（默认值） |
-| [setLimitToPageBounds(boolean value)](#setLimitToPageBounds-boolean-) | 设置在页面边界内搜索文本的指示。 |
-| [setLogTextExtractionErrors(boolean value)](#setLogTextExtractionErrors-boolean-) | 获取或设置文本提取（解码）错误将记录在文本（片段）吸收器中的指示。 true - 表示将记录文本提取（解码）错误。 |
-| [setRectangle(Rectangle value)](#setRectangle-com.aspose.pdf.Rectangle-) | 设置限定搜索文本的矩形。 |
-| [setRegularExpressionUsed(boolean value)](#setRegularExpressionUsed-boolean-) | 表示是否使用正则表达式 |
-| [setSearchForTextRelatedGraphics(boolean value)](#setSearchForTextRelatedGraphics-boolean-) | 获取或设置允许在文本搜索期间搜索与文本相关的图形（下划线、背景等）的值。 |
-| [setSearchInAnnotations(boolean value)](#setSearchInAnnotations-boolean-) | 获取或设置允许在 Annotations 中搜索文本的值。 |
-| [setStoredGraphicElementsMaxCount(int value)](#setStoredGraphicElementsMaxCount-int-) | 设置限制在页面上搜索指定数量元素的文本相关图形（下划线、背景等）的值。 |
-| [setUseFontEngineEncoding(boolean value)](#setUseFontEngineEncoding-boolean-) | 设置将使用字体引擎编码搜索文本的指示。 true - 表示将使用字体引擎编码（如果文本搜索因文档中的编码不完善而失败，请尝试此操作） false - 表示将使用文档字体编码（默认值） |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### TextSearchOptions(boolean isRegularExpressionUsed) {#TextSearchOptions-boolean-}
+| [getExcludeRectangles](#getExcludeRectangles--) | 获取或设置其边界排除搜索文本的矩形。 |
+| [getIgnoreResourceFontErrors](#getIgnoreResourceFontErrors--) | 获取或设置一个指示，指示文本（片段）吸收器是否忽略因缺少字体而产生的错误。true - 表示将忽略缺少字体的错误。引用了不正确资源的文本段将在处理期间被跳过。false（默认） - 缺少字体错误将通过抛出异常终止处理。 |
+| [getLimitToPageBounds](#getLimitToPageBounds--) | 获取指示，指示文本是否在页面边界内进行搜索。 |
+| [getLogTextExtractionErrors](#getLogTextExtractionErrors--) | 获取或设置一个指示，指示文本提取（解码）错误是否会记录在文本（片段）吸收器中。true - 表示会记录文本提取（解码）错误，这可能会降低性能。false（默认） - 不记录错误。 |
+| [getRectangle](#getRectangle--) | 获取限定搜索文本的矩形。如果需要限定文本提取或文本替换区域，可使用此属性。 |
+| [getSearchForTextRelatedGraphics](#getSearchForTextRelatedGraphics--) | 获取或设置一个值，允许在文本搜索期间搜索与文本相关的图形（下划线、背景等）。true - 将执行对文本相关图形的搜索（默认值）。false - 将忽略源文档中可能出现的图形元素。若出现性能问题或不需要处理下划线、背景或裁剪，可将其设为 false。 |
+| [getStoredGraphicElementsMaxCount](#getStoredGraphicElementsMaxCount--) | 获取限制在页面上搜索指定数量的文本相关图形（下划线、背景等）的值。默认值为 250。若出现性能问题，可设置较小的值；若未找到某些图形元素，可尝试更大的值。 |
+| [getUseFontEngineEncoding](#getUseFontEngineEncoding--) | 获取指示，指示文本是否使用字体引擎编码进行搜索。true - 表示将使用字体引擎编码（如果文本搜索因文档编码不完整而失败，可尝试此方式）。false - 表示将使用文档字体编码（默认值）。 |
+| [isDotallMode](#isDotallMode--) | <p> 在 dotall 模式下，表达式 <tt>.</tt> 匹配任何字符，包括换行符。默认情况下，此表达式不匹配换行符。 |
+| [isIgnoreShadowText](#isIgnoreShadowText--) | 获取或设置指示，指示搜索时是否忽略表示普通文本阴影的文本片段。true - 表示不会找到阴影文本（如果文本搜索在相近位置返回重复片段，可尝试此方式）。false - 表示阴影文本将与普通文本一起被找到（默认值）。 |
+| [isRegularExpressionUsed](#isRegularExpressionUsed--) | 指示是否使用正则表达式 |
+| [isSearchInAnnotations](#isSearchInAnnotations--) | 获取或设置一个值，允许在批注中搜索文本。true - 将在批注中搜索文本。false - 文本片段吸收器将不会解析批注中的文本。 |
+| [setDotallMode](#setDotallMode-boolean-) | 启用 dotall 模式。<p> 在 dotall 模式下，表达式 <tt>.</tt> 匹配任何字符，包括换行符。默认情况下，此表达式不匹配换行符。 |
+| [setExcludeRectangles](#setExcludeRectangles-com.aspose.pdf.Rectangle:A-) | 获取或设置其边界排除搜索文本的矩形。 |
+| [setIgnoreResourceFontErrors](#setIgnoreResourceFontErrors-boolean-) | 获取或设置一个指示，指示文本（片段）吸收器是否忽略因缺少字体而产生的错误。true - 表示将忽略缺少字体的错误。引用了不正确资源的文本段将在处理期间被跳过。false（默认） - 缺少字体错误将通过抛出异常终止处理。 |
+| [setIgnoreShadowText](#setIgnoreShadowText-boolean-) | 获取或设置指示，指示搜索时是否忽略表示普通文本阴影的文本片段。true - 表示不会找到阴影文本（如果文本搜索在相近位置返回重复片段，可尝试此方式）。false - 表示阴影文本将与普通文本一起被找到（默认值）。 |
+| [setLimitToPageBounds](#setLimitToPageBounds-boolean-) | 设置指示，指示文本是否在页面边界内进行搜索。 |
+| [setLogTextExtractionErrors](#setLogTextExtractionErrors-boolean-) | 获取或设置一个指示，指示文本提取（解码）错误是否会记录在文本（片段）吸收器中。true - 表示会记录文本提取（解码）错误，这可能会降低性能。false（默认） - 不记录错误。 |
+| [setRectangle](#setRectangle-com.aspose.pdf.Rectangle-) | 设置限定搜索文本的矩形。如果需要限定文本提取或文本替换区域，可使用此属性。 |
+| [setRegularExpressionUsed](#setRegularExpressionUsed-boolean-) | 指示是否使用正则表达式 |
+| [setSearchForTextRelatedGraphics](#setSearchForTextRelatedGraphics-boolean-) | 获取或设置一个值，允许在文本搜索期间搜索与文本相关的图形（下划线、背景等）。true - 将执行对文本相关图形的搜索（默认值）。false - 将忽略源文档中可能出现的图形元素。若出现性能问题或不需要处理下划线、背景或裁剪，可将其设为 false。 |
+| [setSearchInAnnotations](#setSearchInAnnotations-boolean-) | 获取或设置一个值，允许在批注中搜索文本。true - 将在批注中搜索文本。false - 文本片段吸收器将不会解析批注中的文本。 |
+| [setStoredGraphicElementsMaxCount](#setStoredGraphicElementsMaxCount-int-) | 设置限制在页面上搜索指定数量的文本相关图形（下划线、背景等）的值。默认值为 250。若出现性能问题，可设置较小的值；若未找到某些图形元素，可尝试更大的值。 |
+| [setUseFontEngineEncoding](#setUseFontEngineEncoding-boolean-) | 设置指示，指示文本是否使用字体引擎编码进行搜索。true - 表示将使用字体引擎编码（如果文本搜索因文档编码不完整而失败，可尝试此方式）。false - 表示将使用文档字体编码（默认值）。 |
+
+### TextSearchOptions {#TextSearchOptions-boolean-}
 ```
 public TextSearchOptions(boolean isRegularExpressionUsed)
 ```
 
+初始化 {@code TextSearchOptions} 对象的新实例。指定正则表达式使用模式。
 
-初始化 TextSearchOptions 对象的新实例。指定正则表达式使用模式。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| isRegularExpressionUsed | boolean | 指示使用正则表达式的值。 |
+| isRegularExpressionUsed |  | 指示已使用正则表达式的值。 |
 
-### TextSearchOptions(Rectangle rectangle) {#TextSearchOptions-com.aspose.pdf.Rectangle-}
+### TextSearchOptions {#TextSearchOptions-com.aspose.pdf.Rectangle-}
+初始化 TextSearchOptions 对象的新实例。指定限定搜索文本的矩形。
+
+### TextSearchOptions {#TextSearchOptions-com.aspose.pdf.Rectangle-boolean-}
+初始化 TextSearchOptions 对象的新实例。指定限定搜索文本的矩形以及正则表达式使用模式。
+
+### getExcludeRectangles {#getExcludeRectangles--}
 ```
-public TextSearchOptions(Rectangle rectangle)
-```
-
-
-初始化 TextSearchOptions 对象的新实例。指定分隔搜索文本的矩形。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| rectangle | [Rectangle](../../com.aspose.pdf/rectangle) | 包含提取文本的矩形。 |
-
-### TextSearchOptions(Rectangle rectangle, boolean isRegularExpressionUsed) {#TextSearchOptions-com.aspose.pdf.Rectangle-boolean-}
-```
-public TextSearchOptions(Rectangle rectangle, boolean isRegularExpressionUsed)
+public final Rectangle [] getExcludeRectangles()
 ```
 
+获取或设置其边界排除搜索文本的矩形。
 
-初始化 TextSearchOptions 对象的新实例。指定分隔搜索文本和正则表达式使用模式的矩形。
+**Returns:**
+Rectangle 实例数组
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| rectangle | [Rectangle](../../com.aspose.pdf/rectangle) | 包含提取文本的矩形。 |
-| isRegularExpressionUsed | boolean | 指示使用正则表达式的值。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getIgnoreResourceFontErrors() {#getIgnoreResourceFontErrors--}
+### getIgnoreResourceFontErrors {#getIgnoreResourceFontErrors--}
 ```
 public final boolean getIgnoreResourceFontErrors()
 ```
 
+获取或设置一个指示，指示文本（片段）吸收器是否忽略因缺少字体而产生的错误。true - 表示将忽略缺少字体的错误。引用了不正确资源的文本段将在处理期间被跳过。false（默认） - 缺少字体错误将通过抛出异常终止处理。
 
-获取或设置与字体缺失相关的错误将被文本（片段）吸收器忽略的指示。 true - 表示将忽略缺少字体的错误。引用不正确资源的文本段将在处理过程中被跳过。 false（默认）- 没有字体错误将通过抛出异常来终止处理。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getLimitToPageBounds() {#getLimitToPageBounds--}
+### getLimitToPageBounds {#getLimitToPageBounds--}
 ```
 public boolean getLimitToPageBounds()
 ```
 
+获取指示，指示文本是否在页面边界内进行搜索。
 
-获取在页面边界内搜索文本的指示。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getLogTextExtractionErrors() {#getLogTextExtractionErrors--}
+### getLogTextExtractionErrors {#getLogTextExtractionErrors--}
 ```
 public boolean getLogTextExtractionErrors()
 ```
 
+获取或设置一个指示，指示文本提取（解码）错误是否会记录在文本（片段）吸收器中。true - 表示会记录文本提取（解码）错误，这可能会降低性能。false（默认） - 不记录错误。
 
-获取或设置文本提取（解码）错误将记录在文本（片段）吸收器中的指示。 true - 表示将记录文本提取（解码）错误。它可能会降低性能。 false（默认）- 没有错误记录。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getRectangle() {#getRectangle--}
+### getRectangle {#getRectangle--}
 ```
 public Rectangle getRectangle()
 ```
 
+获取限定搜索文本的矩形。如果需要限定文本提取或文本替换区域，可使用此属性。
 
-获取限定搜索文本的矩形。如果需要分隔文本提取或文本替换区域，则可以使用该属性。
+**Returns:**
+矩形值
 
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) 矩形值
-### getSearchForTextRelatedGraphics() {#getSearchForTextRelatedGraphics--}
+### getSearchForTextRelatedGraphics {#getSearchForTextRelatedGraphics--}
 ```
 public final boolean getSearchForTextRelatedGraphics()
 ```
 
+获取或设置一个值，允许在文本搜索期间搜索与文本相关的图形（下划线、背景等）。true - 将执行对文本相关图形的搜索（默认值）。false - 将忽略源文档中可能出现的图形元素。若出现性能问题或不需要处理下划线、背景或裁剪，可将其设为 false。
 
-获取或设置允许在文本搜索期间搜索与文本相关的图形（下划线、背景等）的值。 true - 将执行搜索与文本相关的图形（默认值）。 false - 源文档中可能出现的图形元素将被忽略。在出现性能问题或不需要处理下划线、背景或裁剪时设置此项。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getStoredGraphicElementsMaxCount() {#getStoredGraphicElementsMaxCount--}
+### getStoredGraphicElementsMaxCount {#getStoredGraphicElementsMaxCount--}
 ```
 public final int getStoredGraphicElementsMaxCount()
 ```
 
+获取限制在页面上搜索指定数量的文本相关图形（下划线、背景等）的值。默认值为 250。若出现性能问题，可设置较小的值；若未找到某些图形元素，可尝试更大的值。
 
-获取限制在页面上搜索指定数量元素的文本相关图形（下划线、背景等）的值。默认值为 250。在性能问题的情况下设置较小的值，在找不到某些图形元素的情况下尝试较大的值。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getUseFontEngineEncoding() {#getUseFontEngineEncoding--}
+### getUseFontEngineEncoding {#getUseFontEngineEncoding--}
 ```
 public boolean getUseFontEngineEncoding()
 ```
 
+获取指示，指示文本是否使用字体引擎编码进行搜索。true - 表示将使用字体引擎编码（如果文本搜索因文档编码不完整而失败，可尝试此方式）。false - 表示将使用文档字体编码（默认值）。
 
-获取将使用字体引擎编码搜索文本的指示。 true - 表示将使用字体引擎编码（如果文本搜索因文档中的编码不完善而失败，请尝试此操作） false - 表示将使用文档字体编码（默认值）
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isDotallMode() {#isDotallMode--}
+### isDotallMode {#isDotallMode--}
 ```
 public static boolean isDotallMode()
 ```
 
+<p> 在 dotall 模式下，表达式 <tt>.</tt> 匹配任何字符，包括换行符。默认情况下，此表达式不匹配换行符。
 
-在 dotall 模式下，表达式 .匹配任何字符，包括行终止符。默认情况下，此表达式不匹配行终止符。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isIgnoreShadowText() {#isIgnoreShadowText--}
+### isIgnoreShadowText {#isIgnoreShadowText--}
 ```
 public boolean isIgnoreShadowText()
 ```
 
+获取或设置指示，指示搜索时是否忽略表示普通文本阴影的文本片段。true - 表示不会找到阴影文本（如果文本搜索在相近位置返回重复片段，可尝试此方式）。false - 表示阴影文本将与普通文本一起被找到（默认值）。
 
-获取或设置表示普通文本阴影的文本片段在搜索期间将被忽略的指示。 true - 表示不会找到阴影文本（如果文本搜索在关闭位置返回重复的片段，请尝试此操作） false - 表示将找到阴影文本以及普通文本（默认值）
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isRegularExpressionUsed() {#isRegularExpressionUsed--}
+### isRegularExpressionUsed {#isRegularExpressionUsed--}
 ```
 public boolean isRegularExpressionUsed()
 ```
 
+指示是否使用正则表达式
 
-表示是否使用正则表达式
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isSearchInAnnotations() {#isSearchInAnnotations--}
+### isSearchInAnnotations {#isSearchInAnnotations--}
 ```
 public final boolean isSearchInAnnotations()
 ```
 
+获取或设置一个值，允许在批注中搜索文本。true - 将在批注中搜索文本。false - 文本片段吸收器将不会解析批注中的文本。
 
-获取或设置允许在 Annotations 中搜索文本的值。 true - 将在注释中搜索文本。 false - Annotations 中的文本不会被 TextFragmentAbsorber 解析。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setDotallMode(boolean dotallMode) {#setDotallMode-boolean-}
+### setDotallMode {#setDotallMode-boolean-}
 ```
 public static void setDotallMode(boolean dotallMode)
 ```
 
+启用 dotall 模式。<p> 在 dotall 模式下，表达式 <tt>.</tt> 匹配任何字符，包括换行符。默认情况下，此表达式不匹配换行符。
 
-启用 dotall 模式。
-
-在 dotall 模式下，表达式 .匹配任何字符，包括行终止符。默认情况下，此表达式不匹配行终止符。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dotallMode | boolean | 布尔值 |
+| dotallMode |  | 布尔值 |
 
-### setIgnoreResourceFontErrors(boolean value) {#setIgnoreResourceFontErrors-boolean-}
+### setExcludeRectangles {#setExcludeRectangles-com.aspose.pdf.Rectangle:A-}
+获取或设置其边界排除搜索文本的矩形。
+
+### setIgnoreResourceFontErrors {#setIgnoreResourceFontErrors-boolean-}
 ```
 public final void setIgnoreResourceFontErrors(boolean value)
 ```
 
+获取或设置一个指示，指示文本（片段）吸收器是否忽略因缺少字体而产生的错误。true - 表示将忽略缺少字体的错误。引用了不正确资源的文本段将在处理期间被跳过。false（默认） - 缺少字体错误将通过抛出异常终止处理。
 
-获取或设置与字体缺失相关的错误将被文本（片段）吸收器忽略的指示。 true - 表示将忽略缺少字体的错误。引用不正确资源的文本段将在处理过程中被跳过。 false（默认）- 没有字体错误将通过抛出异常来终止处理。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setIgnoreShadowText(boolean value) {#setIgnoreShadowText-boolean-}
+### setIgnoreShadowText {#setIgnoreShadowText-boolean-}
 ```
 public void setIgnoreShadowText(boolean value)
 ```
 
+获取或设置指示，指示搜索时是否忽略表示普通文本阴影的文本片段。true - 表示不会找到阴影文本（如果文本搜索在相近位置返回重复片段，可尝试此方式）。false - 表示阴影文本将与普通文本一起被找到（默认值）。
 
-获取或设置表示普通文本阴影的文本片段在搜索期间将被忽略的指示。 true - 表示不会找到阴影文本（如果文本搜索在关闭位置返回重复的片段，请尝试此操作） false - 表示将找到阴影文本以及普通文本（默认值）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setLimitToPageBounds(boolean value) {#setLimitToPageBounds-boolean-}
+### setLimitToPageBounds {#setLimitToPageBounds-boolean-}
 ```
 public void setLimitToPageBounds(boolean value)
 ```
 
+设置指示，指示文本是否在页面边界内进行搜索。
 
-设置在页面边界内搜索文本的指示。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setLogTextExtractionErrors(boolean value) {#setLogTextExtractionErrors-boolean-}
+### setLogTextExtractionErrors {#setLogTextExtractionErrors-boolean-}
 ```
 public void setLogTextExtractionErrors(boolean value)
 ```
 
+获取或设置一个指示，指示文本提取（解码）错误是否会记录在文本（片段）吸收器中。true - 表示会记录文本提取（解码）错误，这可能会降低性能。false（默认） - 不记录错误。
 
-获取或设置文本提取（解码）错误将记录在文本（片段）吸收器中的指示。 true - 表示将记录文本提取（解码）错误。它可能会降低性能。 false（默认）- 没有错误记录。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setRectangle(Rectangle value) {#setRectangle-com.aspose.pdf.Rectangle-}
-```
-public void setRectangle(Rectangle value)
-```
+### setRectangle {#setRectangle-com.aspose.pdf.Rectangle-}
+设置限定搜索文本的矩形。如果需要限定文本提取或文本替换区域，可使用此属性。
 
-
-设置限定搜索文本的矩形。如果需要分隔文本提取或文本替换区域，则可以使用该属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | 矩形对象 |
-
-### setRegularExpressionUsed(boolean value) {#setRegularExpressionUsed-boolean-}
+### setRegularExpressionUsed {#setRegularExpressionUsed-boolean-}
 ```
 public void setRegularExpressionUsed(boolean value)
 ```
 
+指示是否使用正则表达式
 
-表示是否使用正则表达式
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setSearchForTextRelatedGraphics(boolean value) {#setSearchForTextRelatedGraphics-boolean-}
+### setSearchForTextRelatedGraphics {#setSearchForTextRelatedGraphics-boolean-}
 ```
 public final void setSearchForTextRelatedGraphics(boolean value)
 ```
 
+获取或设置一个值，允许在文本搜索期间搜索与文本相关的图形（下划线、背景等）。true - 将执行对文本相关图形的搜索（默认值）。false - 将忽略源文档中可能出现的图形元素。若出现性能问题或不需要处理下划线、背景或裁剪，可将其设为 false。
 
-获取或设置允许在文本搜索期间搜索与文本相关的图形（下划线、背景等）的值。 true - 将执行搜索与文本相关的图形（默认值）。 false - 源文档中可能出现的图形元素将被忽略。在出现性能问题或不需要处理下划线、背景或裁剪时设置此项。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setSearchInAnnotations(boolean value) {#setSearchInAnnotations-boolean-}
+### setSearchInAnnotations {#setSearchInAnnotations-boolean-}
 ```
 public final void setSearchInAnnotations(boolean value)
 ```
 
+获取或设置一个值，允许在批注中搜索文本。true - 将在批注中搜索文本。false - 文本片段吸收器将不会解析批注中的文本。
 
-获取或设置允许在 Annotations 中搜索文本的值。 true - 将在注释中搜索文本。 false - Annotations 中的文本不会被 TextFragmentAbsorber 解析。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setStoredGraphicElementsMaxCount(int value) {#setStoredGraphicElementsMaxCount-int-}
+### setStoredGraphicElementsMaxCount {#setStoredGraphicElementsMaxCount-int-}
 ```
 public final void setStoredGraphicElementsMaxCount(int value)
 ```
 
+设置限制在页面上搜索指定数量的文本相关图形（下划线、背景等）的值。默认值为 250。若出现性能问题，可设置较小的值；若未找到某些图形元素，可尝试更大的值。
 
-设置限制在页面上搜索指定数量元素的文本相关图形（下划线、背景等）的值。默认值为 250。在性能问题的情况下设置较小的值，在找不到某些图形元素的情况下尝试较大的值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setUseFontEngineEncoding(boolean value) {#setUseFontEngineEncoding-boolean-}
+### setUseFontEngineEncoding {#setUseFontEngineEncoding-boolean-}
 ```
 public void setUseFontEngineEncoding(boolean value)
 ```
 
+设置指示，指示文本是否使用字体引擎编码进行搜索。true - 表示将使用字体引擎编码（如果文本搜索因文档编码不完整而失败，可尝试此方式）。false - 表示将使用文档字体编码（默认值）。
 
-设置将使用字体引擎编码搜索文本的指示。 true - 表示将使用字体引擎编码（如果文本搜索因文档中的编码不完善而失败，请尝试此操作） false - 表示将使用文档字体编码（默认值）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 布尔值 |

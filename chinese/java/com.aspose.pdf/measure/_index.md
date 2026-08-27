@@ -1,379 +1,175 @@
 ---
-title: Measure
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 描述测量坐标系的类。
+title: "Measure"
+linktitle: "Measure"
+second_title: "Aspose.PDF for Java API 参考"
+description: "描述 Measure 坐标系的类。"
 type: docs
-weight: 212
+weight: 2930
 url: /zh/java/com.aspose.pdf/measure/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Measure
+
 ```
-public class Measure
+public class Measure extends Object
 ```
 
-描述测量坐标系的类。
+描述 Measure 坐标系的类。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Measure(Annotation annotation)](#Measure-com.aspose.pdf.Annotation-) | 为度量注释创建度量对象。 |
+| [Measure](#Measure-com.aspose.pdf.Annotation-) | 创建用于测量注释的 Measure 对象。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAngleFormat()](#getAngleFormat--) | 用于测量角度的数字格式数组。 |
-| [getAreaFormat()](#getAreaFormat--) | 用于面积测量的数字格式数组。 |
-| [getClass()](#getClass--) |  |
-| [getDistanceFormat()](#getDistanceFormat--) | 用于测量任意方向距离的数字格式数组。 |
-| [getOrigin()](#getOrigin--) | 应在默认用户空间坐标中指定测量坐标系原点的点。 |
-| [getScaleRatio()](#getScaleRatio--) | 表示绘图比例的文本字符串。 |
-| [getSlopeFormat()](#getSlopeFormat--) | 用于测量直线斜率的数字格式数组。 |
-| [getXFormat()](#getXFormat--) | 一个数字格式数组，用于测量沿 x 轴的变化，如果 Y 不存在，则也沿 y 轴 |
-| [getXYFactor()](#getXYFactor--) | 一个系数，用于将沿 y 轴的最大单位转换为沿 x 轴的最大单位。 |
-| [getYFormat()](#getYFormat--) | 用于测量沿 y 轴变化的数字格式数组。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setAngleFormat(Measure.NumberFormatList value)](#setAngleFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于测量角度的数字格式数组。 |
-| [setAreaFormat(Measure.NumberFormatList value)](#setAreaFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于面积测量的数字格式数组。 |
-| [setDistanceFormat(Measure.NumberFormatList value)](#setDistanceFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于测量任意方向距离的数字格式数组。 |
-| [setOrigin(Point value)](#setOrigin-com.aspose.pdf.Point-) | 应在默认用户空间坐标中指定测量坐标系原点的点。 |
-| [setScaleRatio(String value)](#setScaleRatio-java.lang.String-) |  |
-| [setSlopeFormat(Measure.NumberFormatList value)](#setSlopeFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于测量直线斜率的数字格式数组。 |
-| [setXFormat(Measure.NumberFormatList value)](#setXFormat-com.aspose.pdf.Measure.NumberFormatList-) | 一个数字格式数组，用于测量沿 x 轴的变化，如果 Y 不存在，则也沿 y 轴 |
-| [setXYFactor(double value)](#setXYFactor-double-) | 一个系数，用于将沿 y 轴的最大单位转换为沿 x 轴的最大单位。 |
-| [setYFormat(Measure.NumberFormatList value)](#setYFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于测量沿 y 轴变化的数字格式数组。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Measure(Annotation annotation) {#Measure-com.aspose.pdf.Annotation-}
-```
-public Measure(Annotation annotation)
-```
+| [getAngleFormat](#getAngleFormat--) | 用于角度测量的数字格式数组。 |
+| [getAreaFormat](#getAreaFormat--) | 用于面积测量的数字格式数组。 |
+| [getDistanceFormat](#getDistanceFormat--) | 用于任意方向距离测量的数字格式数组。 |
+| [getOrigin](#getOrigin--) | 点，用于指定默认用户空间坐标系中测量坐标系统的原点。 |
+| [getScaleRatio](#getScaleRatio--) | 表示图纸比例的文本字符串。 |
+| [getSlopeFormat](#getSlopeFormat--) | 用于直线斜率测量的数字格式数组。 |
+| [getXFormat](#getXFormat--) | 用于沿 x 轴变化测量的数字格式数组，如果未提供 Y，则也用于沿 y 轴的测量。 |
+| [getXYFactor](#getXYFactor--) | 用于将 y 轴的最大单位转换为 x 轴最大单位的因子。 |
+| [getYFormat](#getYFormat--) | 用于测量 y 轴变化的数字格式数组。 |
+| [setAngleFormat](#setAngleFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于角度测量的数字格式数组。 |
+| [setAreaFormat](#setAreaFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于面积测量的数字格式数组。 |
+| [setDistanceFormat](#setDistanceFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于任意方向距离测量的数字格式数组。 |
+| [setOrigin](#setOrigin-com.aspose.pdf.Point-) | 点，用于指定默认用户空间坐标系中测量坐标系统的原点。 |
+| [setScaleRatio](#setScaleRatio-java.lang.String-) |  |
+| [setSlopeFormat](#setSlopeFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于直线斜率测量的数字格式数组。 |
+| [setXFormat](#setXFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于沿 x 轴变化测量的数字格式数组，如果未提供 Y，则也用于沿 y 轴的测量。 |
+| [setXYFactor](#setXYFactor-double-) | 用于将 y 轴的最大单位转换为 x 轴最大单位的因子。 |
+| [setYFormat](#setYFormat-com.aspose.pdf.Measure.NumberFormatList-) | 用于测量 y 轴变化的数字格式数组。 |
 
+### Measure {#Measure-com.aspose.pdf.Annotation-}
+创建用于测量注释的 Measure 对象。
 
-为度量注释创建度量对象。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| annotation | [Annotation](../../com.aspose.pdf/annotation) | 将绑定哪个度量的注释。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getAngleFormat() {#getAngleFormat--}
+### getAngleFormat {#getAngleFormat--}
 ```
 public Measure.NumberFormatList getAngleFormat()
 ```
 
+用于角度测量的数字格式数组。
 
-用于测量角度的数字格式数组。
+**Returns:**
+NumberFormatList 值
 
-**退货：**
-[NumberFormatList](../../com.aspose.pdf/numberformatlist) - NumberFormatList 值
-### getAreaFormat() {#getAreaFormat--}
+### getAreaFormat {#getAreaFormat--}
 ```
 public Measure.NumberFormatList getAreaFormat()
 ```
 
-
 用于面积测量的数字格式数组。
 
-**退货：**
-[NumberFormatList](../../com.aspose.pdf/numberformatlist) - NumberFormatList 值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+NumberFormatList 值
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### getDistanceFormat() {#getDistanceFormat--}
+### getDistanceFormat {#getDistanceFormat--}
 ```
 public Measure.NumberFormatList getDistanceFormat()
 ```
 
+用于任意方向距离测量的数字格式数组。
 
-用于测量任意方向距离的数字格式数组。
+**Returns:**
+NumberFormatList 值
 
-**退货：**
-[NumberFormatList](../../com.aspose.pdf/numberformatlist) - NumberFormatList 值
-### getOrigin() {#getOrigin--}
+### getOrigin {#getOrigin--}
 ```
 public Point getOrigin()
 ```
 
+点，用于指定默认用户空间坐标系中测量坐标系统的原点。
 
-应在默认用户空间坐标中指定测量坐标系原点的点。
+**Returns:**
+点对象
 
-**退货：**
-[Point](../../com.aspose.pdf/point) 点对象
-### getScaleRatio() {#getScaleRatio--}
+### getScaleRatio {#getScaleRatio--}
 ```
 public String getScaleRatio()
 ```
 
+表示图纸比例的文本字符串。
 
-表示绘图比例的文本字符串。
+**Returns:**
+字符串对象
 
-**退货：**
-java.lang.String - 字符串对象
-### getSlopeFormat() {#getSlopeFormat--}
+### getSlopeFormat {#getSlopeFormat--}
 ```
 public Measure.NumberFormatList getSlopeFormat()
 ```
 
+用于直线斜率测量的数字格式数组。
 
-用于测量直线斜率的数字格式数组。
+**Returns:**
+NumberFormatList 值
 
-**退货：**
-[NumberFormatList](../../com.aspose.pdf/numberformatlist) - NumberFormatList 值
-### getXFormat() {#getXFormat--}
+### getXFormat {#getXFormat--}
 ```
 public Measure.NumberFormatList getXFormat()
 ```
 
+用于沿 x 轴变化测量的数字格式数组，如果未提供 Y，则也用于沿 y 轴的测量。
 
-一个数字格式数组，用于测量沿 x 轴的变化，如果 Y 不存在，则也沿 y 轴
+**Returns:**
+NumberFormatList 值
 
-**退货：**
-[NumberFormatList](../../com.aspose.pdf/numberformatlist) - NumberFormatList 值
-### getXYFactor() {#getXYFactor--}
+### getXYFactor {#getXYFactor--}
 ```
 public double getXYFactor()
 ```
 
+用于将 y 轴的最大单位转换为 x 轴最大单位的因子。
 
-一个系数，用于将沿 y 轴的最大单位转换为沿 x 轴的最大单位。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getYFormat() {#getYFormat--}
+### getYFormat {#getYFormat--}
 ```
 public Measure.NumberFormatList getYFormat()
 ```
 
+用于测量 y 轴变化的数字格式数组。
 
-用于测量沿 y 轴变化的数字格式数组。
+**Returns:**
+NumberFormatList 值
 
-**退货：**
-[NumberFormatList](../../com.aspose.pdf/numberformatlist) - NumberFormatList 值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+### setAngleFormat {#setAngleFormat-com.aspose.pdf.Measure.NumberFormatList-}
+用于角度测量的数字格式数组。
 
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setAngleFormat(Measure.NumberFormatList value) {#setAngleFormat-com.aspose.pdf.Measure.NumberFormatList-}
-```
-public void setAngleFormat(Measure.NumberFormatList value)
-```
-
-
-用于测量角度的数字格式数组。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [NumberFormatList](../../com.aspose.pdf/numberformatlist) | NumberFormatList 值 |
-
-### setAreaFormat(Measure.NumberFormatList value) {#setAreaFormat-com.aspose.pdf.Measure.NumberFormatList-}
-```
-public void setAreaFormat(Measure.NumberFormatList value)
-```
-
-
+### setAreaFormat {#setAreaFormat-com.aspose.pdf.Measure.NumberFormatList-}
 用于面积测量的数字格式数组。
 
-**参数：**
+### setDistanceFormat {#setDistanceFormat-com.aspose.pdf.Measure.NumberFormatList-}
+用于任意方向距离测量的数字格式数组。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [NumberFormatList](../../com.aspose.pdf/numberformatlist) | NumberFormatList 对象 |
+### setOrigin {#setOrigin-com.aspose.pdf.Point-}
+点，用于指定默认用户空间坐标系中测量坐标系统的原点。
 
-### setDistanceFormat(Measure.NumberFormatList value) {#setDistanceFormat-com.aspose.pdf.Measure.NumberFormatList-}
-```
-public void setDistanceFormat(Measure.NumberFormatList value)
-```
+### setScaleRatio {#setScaleRatio-java.lang.String-}
 
 
-用于测量任意方向距离的数字格式数组。
+### setSlopeFormat {#setSlopeFormat-com.aspose.pdf.Measure.NumberFormatList-}
+用于直线斜率测量的数字格式数组。
 
-**参数：**
+### setXFormat {#setXFormat-com.aspose.pdf.Measure.NumberFormatList-}
+用于沿 x 轴变化测量的数字格式数组，如果未提供 Y，则也用于沿 y 轴的测量。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [NumberFormatList](../../com.aspose.pdf/numberformatlist) | NumberFormatList 值 |
-
-### setOrigin(Point value) {#setOrigin-com.aspose.pdf.Point-}
-```
-public void setOrigin(Point value)
-```
-
-
-应在默认用户空间坐标中指定测量坐标系原点的点。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Point](../../com.aspose.pdf/point) | 点对象 |
-
-### setScaleRatio(String value) {#setScaleRatio-java.lang.String-}
-```
-public void setScaleRatio(String value)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
-### setSlopeFormat(Measure.NumberFormatList value) {#setSlopeFormat-com.aspose.pdf.Measure.NumberFormatList-}
-```
-public void setSlopeFormat(Measure.NumberFormatList value)
-```
-
-
-用于测量直线斜率的数字格式数组。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [NumberFormatList](../../com.aspose.pdf/numberformatlist) | NumberFormatList 值 |
-
-### setXFormat(Measure.NumberFormatList value) {#setXFormat-com.aspose.pdf.Measure.NumberFormatList-}
-```
-public void setXFormat(Measure.NumberFormatList value)
-```
-
-
-一个数字格式数组，用于测量沿 x 轴的变化，如果 Y 不存在，则也沿 y 轴
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [NumberFormatList](../../com.aspose.pdf/numberformatlist) | NumberFormatList 值 |
-
-### setXYFactor(double value) {#setXYFactor-double-}
+### setXYFactor {#setXYFactor-double-}
 ```
 public void setXYFactor(double value)
 ```
 
+用于将 y 轴的最大单位转换为 x 轴最大单位的因子。
 
-一个系数，用于将沿 y 轴的最大单位转换为沿 x 轴的最大单位。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setYFormat(Measure.NumberFormatList value) {#setYFormat-com.aspose.pdf.Measure.NumberFormatList-}
-```
-public void setYFormat(Measure.NumberFormatList value)
-```
-
-
-用于测量沿 y 轴变化的数字格式数组。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [NumberFormatList](../../com.aspose.pdf/numberformatlist) | NumberFormatList 值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### setYFormat {#setYFormat-com.aspose.pdf.Measure.NumberFormatList-}
+用于测量 y 轴变化的数字格式数组。

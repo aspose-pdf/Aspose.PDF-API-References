@@ -1,231 +1,103 @@
 ---
-title: HeaderFooter
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 类表示页眉或页脚 pdf 页面。
+title: "HeaderFooter"
+linktitle: "HeaderFooter"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示页眉或页脚 pdf 页面 的类。"
 type: docs
-weight: 150
+weight: 1880
 url: /zh/java/com.aspose.pdf/headerfooter/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.HeaderFooter
 
-**所有已实现的接口：**
+**All Implemented Interfaces:**
 com.aspose.ms.System.ICloneable
+
 ```
-public final class HeaderFooter implements System.ICloneable
+public final class HeaderFooter extends Object implements com.aspose.ms.System.ICloneable
 ```
 
-类表示页眉或页脚 pdf 页面。
+表示页眉或页脚 pdf 页面 的类。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [HeaderFooter()](#HeaderFooter--) | 默认构造函数 |
+| [HeaderFooter](#HeaderFooter--) | 默认 ctor |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [deepClone()](#deepClone--) | 克隆一个新对象。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getMargin()](#getMargin--) | 获取保证金信息。 |
-| [getParagraphs()](#getParagraphs--) | 获取或设置尾注段落。 |
-| [hashCode()](#hashCode--) |  |
-| [isClipExtraContent()](#isClipExtraContent--) | 获取或设置剪辑的额外内容。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setClipExtraContent(boolean value)](#setClipExtraContent-boolean-) | 获取或设置剪辑的额外内容。 |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | 设置边距信息。 |
-| [setParagraphs(Paragraphs value)](#setParagraphs-com.aspose.pdf.Paragraphs-) | 获取或设置尾注段落。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### HeaderFooter() {#HeaderFooter--}
+| [deepClone](#deepClone--) | 克隆一个新对象。 |
+| [getMargin](#getMargin--) | 获取边距信息。 |
+| [getParagraphs](#getParagraphs--) | 获取或设置尾注段落。 |
+| [isClipExtraContent](#isClipExtraContent--) | 获取或设置是否剪裁额外内容。 |
+| [setClipExtraContent](#setClipExtraContent-boolean-) | 获取或设置是否剪裁额外内容。 |
+| [setMargin](#setMargin-com.aspose.pdf.MarginInfo-) | 设置边距信息。 |
+| [setParagraphs](#setParagraphs-com.aspose.pdf.Paragraphs-) | 获取或设置尾注段落。 |
+
+### HeaderFooter {#HeaderFooter--}
 ```
 public HeaderFooter()
 ```
 
+默认 ctor
 
-默认构造函数
-
-### deepClone() {#deepClone--}
+### deepClone {#deepClone--}
 ```
 public Object deepClone()
 ```
 
-
 克隆一个新对象。
 
-**退货：**
-java.lang.Object - 新对象。
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
+**Returns:**
+新的对象。
 
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getMargin() {#getMargin--}
+### getMargin {#getMargin--}
 ```
 public MarginInfo getMargin()
 ```
 
+获取边距信息。
 
-获取保证金信息。
+**Returns:**
+MarginInfo 值
 
-**退货：**
-[MarginInfo](../../com.aspose.pdf/margininfo) - 保证金信息值
-### getParagraphs() {#getParagraphs--}
+### getParagraphs {#getParagraphs--}
 ```
 public final Paragraphs getParagraphs()
 ```
 
-
 获取或设置尾注段落。
 
-**退货：**
-[Paragraphs](../../com.aspose.pdf/paragraphs) - 段落实例
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+Paragraphs 实例
 
-
-
-
-**退货：**
-整数
-### isClipExtraContent() {#isClipExtraContent--}
+### isClipExtraContent {#isClipExtraContent--}
 ```
 public final boolean isClipExtraContent()
 ```
 
+获取或设置是否剪裁额外内容。
 
-获取或设置剪辑的额外内容。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setClipExtraContent(boolean value) {#setClipExtraContent-boolean-}
+### setClipExtraContent {#setClipExtraContent-boolean-}
 ```
 public final void setClipExtraContent(boolean value)
 ```
 
+获取或设置是否剪裁额外内容。
 
-获取或设置剪辑的额外内容。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public void setMargin(MarginInfo value)
-```
-
-
+### setMargin {#setMargin-com.aspose.pdf.MarginInfo-}
 设置边距信息。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo 值 |
-
-### setParagraphs(Paragraphs value) {#setParagraphs-com.aspose.pdf.Paragraphs-}
-```
-public final void setParagraphs(Paragraphs value)
-```
-
-
+### setParagraphs {#setParagraphs-com.aspose.pdf.Paragraphs-}
 获取或设置尾注段落。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Paragraphs](../../com.aspose.pdf/paragraphs) | 段落实例 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |

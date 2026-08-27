@@ -1,658 +1,423 @@
 ---
-title: Bookmark
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 代表一个书签。
+title: "Bookmark"
+linktitle: "Bookmark"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示一个书签。"
 type: docs
-weight: 14
+weight: 60
 url: /zh/java/com.aspose.pdf.facades/bookmark/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.facades.Bookmark
+
 ```
-public final class Bookmark
+public final class Bookmark extends Object
 ```
 
-代表一个书签。
+表示一个书签。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Bookmark()](#Bookmark--) | 初始化 Bookmark 类的新实例。 |
+| [Bookmark](#Bookmark--) | 初始化 {@code Bookmark} 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAction()](#getAction--) | 获取书签绑定的动作。 |
-| [getBoldFlag()](#getBoldFlag--) | 获取书签标题的粗体标志。 |
-| [getChildItem()](#getChildItem--) | 获取书签的孩子。 |
-| [getChildItems()](#getChildItems--) | 获取书签的孩子。 |
-| [getClass()](#getClass--) |  |
-| [getCustomAcorbatViewerMenuActionName()](#getCustomAcorbatViewerMenuActionName--) | 尚不支持。 |
-| [getDestination()](#getDestination--) | 获取书签的目标页面。 |
-| [getItalicFlag()](#getItalicFlag--) | 获取书签标题的斜体标志。 |
-| [getLevel()](#getLevel--) | 获取书签的层次结构级别。 |
-| [getPageDisplay()](#getPageDisplay--) | 获取显示书签的目标页面的类型。 |
-| [getPageDisplay_Bottom()](#getPageDisplay-Bottom--) | 获取页面显示的底部坐标。 |
-| [getPageDisplay_Left()](#getPageDisplay-Left--) | 获取页面显示的左坐标。 |
-| [getPageDisplay_Right()](#getPageDisplay-Right--) | 获取页面显示的右坐标。 |
-| [getPageDisplay_Top()](#getPageDisplay-Top--) | 获取页面显示的顶部坐标。 |
-| [getPageDisplay_Zoom()](#getPageDisplay-Zoom--) | 获取页面显示的缩放比例。 |
-| [getPageNumber()](#getPageNumber--) | 获取书签的目标页数。 |
-| [getRemoteFile()](#getRemoteFile--) | 获取书签的“GoToR”操作所需的文件（路径）。 |
-| [getTitle()](#getTitle--) | 获取书签的标题。 |
-| [getTitleColor()](#getTitleColor--) | 获取书签标题的颜色。 |
-| [hashCode()](#hashCode--) |  |
-| [isOpen()](#isOpen--) | 获取书签状态（打开、关闭）。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setAction(String value)](#setAction-java.lang.String-) | 设置与书签绑定的动作。 |
-| [setBoldFlag(boolean value)](#setBoldFlag-boolean-) | 设置书签标题的粗体标志。 |
-| [setChildItem(Bookmarks value)](#setChildItem-com.aspose.pdf.facades.Bookmarks-) | 设置书签的孩子。 |
-| [setChildItems(Bookmarks value)](#setChildItems-com.aspose.pdf.facades.Bookmarks-) | 设置书签的孩子。 |
-| [setCustomAcorbatViewerMenuActionName(int[] value)](#setCustomAcorbatViewerMenuActionName-int---) | 尚不支持。 |
-| [setDestination(String value)](#setDestination-java.lang.String-) | 设置书签的目标页面。 |
-| [setItalicFlag(boolean value)](#setItalicFlag-boolean-) | 设置书签标题的斜体标志。 |
-| [setLevel(int value)](#setLevel-int-) | 设置书签的层次结构级别。 |
-| [setOpen(boolean value)](#setOpen-boolean-) | 设置书签状态（打开、关闭）。 |
-| [setPageDisplay(String value)](#setPageDisplay-java.lang.String-) | 设置显示书签目标页面的类型。 |
-| [setPageDisplay_Bottom(int value)](#setPageDisplay-Bottom-int-) | 设置页面显示的底部坐标。 |
-| [setPageDisplay_Left(int value)](#setPageDisplay-Left-int-) | 设置页面显示的左坐标。 |
-| [setPageDisplay_Right(int value)](#setPageDisplay-Right-int-) | 设置页面显示的右坐标。 |
-| [setPageDisplay_Top(int value)](#setPageDisplay-Top-int-) | 设置页面显示的顶部坐标。 |
-| [setPageDisplay_Zoom(int value)](#setPageDisplay-Zoom-int-) | 设置页面显示的缩放比例。 |
-| [setPageNumber(int value)](#setPageNumber-int-) | 设置书签的目标页数。 |
-| [setRemoteFile(String value)](#setRemoteFile-java.lang.String-) | 设置书签的“GoToR”操作所需的文件（路径）。 |
-| [setTitle(String value)](#setTitle-java.lang.String-) | 设置书签的标题。 |
-| [setTitleColor(Color value)](#setTitleColor-java.awt.Color-) | 设置书签标题的颜色。 |
-| [toOutlineItemCollection(IDocument doc)](#toOutlineItemCollection-com.aspose.pdf.IDocument-) | 转换为 OutlineItemCollection |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Bookmark() {#Bookmark--}
+| [getAction](#getAction--) | 获取与书签绑定的操作。如果提供了 PageNumber，则无法指定操作。操作类型包括：“GoTo”、“GoToR”、“Launch”、“Named”。 |
+| [getBoldFlag](#getBoldFlag--) | 获取书签标题的粗体标志。 |
+| [getChildItem](#getChildItem--) | 获取书签的子项。Obsolete("Use getChildItems() property instead of this one.") |
+| [getChildItems](#getChildItems--) | 获取书签的子项。 |
+| [getCustomAcorbatViewerMenuActionName](#getCustomAcorbatViewerMenuActionName--) | 尚未支持。对应在 Acrobat 查看器中执行菜单项的操作名称。 |
+| [getDestination](#getDestination--) | 获取书签的目标页面。若操作设置为 "" 时为必需。 |
+| [getItalicFlag](#getItalicFlag--) | 获取书签标题的斜体标志。 |
+| [getLevel](#getLevel--) | 获取书签的层级。 |
+| [getPageDisplay_Bottom](#getPageDisplay_Bottom--) | 获取页面显示的底部坐标。 |
+| [getPageDisplay_Left](#getPageDisplay_Left--) | 获取页面显示的左侧坐标。 |
+| [getPageDisplay_Right](#getPageDisplay_Right--) | 获取页面显示的右侧坐标。 |
+| [getPageDisplay_Top](#getPageDisplay_Top--) | 获取页面显示的顶部坐标。 |
+| [getPageDisplay_Zoom](#getPageDisplay_Zoom--) | 获取页面显示的缩放因子。 |
+| [getPageDisplay](#getPageDisplay--) | 获取显示书签目标页面的类型。 |
+| [getPageNumber](#getPageNumber--) | 获取书签目标页面的编号。 |
+| [getRemoteFile](#getRemoteFile--) | 获取书签的 "GoToR" 操作所需的文件（路径）。 |
+| [getTitle](#getTitle--) | 获取书签的标题。 |
+| [getTitleColor](#getTitleColor--) | 获取书签标题的颜色。 |
+| [isOpen](#isOpen--) | 获取书签状态（打开，关闭）。 |
+| [setAction](#setAction-java.lang.String-) | 设置与书签绑定的操作。如果提供了 PageNumber，则无法指定操作。操作类型包括："GoTo"、"GoToR"、"Launch"、"Named"。 |
+| [setBoldFlag](#setBoldFlag-boolean-) | 设置书签标题的粗体标志。 |
+| [setChildItem](#setChildItem-com.aspose.pdf.facades.Bookmarks-) | 设置书签的子项。Obsolete("Use setChildItems() property instead of this one.") |
+| [setChildItems](#setChildItems-com.aspose.pdf.facades.Bookmarks-) | 设置书签的子项。 |
+| [setCustomAcorbatViewerMenuActionName](#setCustomAcorbatViewerMenuActionName-int:A-) | 尚未支持。设置对应在 Acrobat 查看器中执行菜单项的操作名称。 |
+| [setDestination](#setDestination-java.lang.String-) | 设置书签的目标页面。若操作设置为 "" 时为必需。 |
+| [setItalicFlag](#setItalicFlag-boolean-) | 设置书签标题的斜体标志。 |
+| [setLevel](#setLevel-int-) | 设置书签的层级。 |
+| [setOpen](#setOpen-boolean-) | 设置书签状态（打开，关闭）。 |
+| [setPageDisplay_Bottom](#setPageDisplay_Bottom-int-) | 设置页面显示的底部坐标。 |
+| [setPageDisplay_Left](#setPageDisplay_Left-int-) | 设置页面显示的左侧坐标。 |
+| [setPageDisplay_Right](#setPageDisplay_Right-int-) | 设置页面显示的右侧坐标。 |
+| [setPageDisplay_Top](#setPageDisplay_Top-int-) | 设置页面显示的顶部坐标。 |
+| [setPageDisplay_Zoom](#setPageDisplay_Zoom-int-) | 设置页面显示的缩放因子。 |
+| [setPageDisplay](#setPageDisplay-java.lang.String-) | 设置显示书签目标页的类型。 |
+| [setPageNumber](#setPageNumber-int-) | 设置书签目标页的页码。 |
+| [setRemoteFile](#setRemoteFile-java.lang.String-) | 设置书签的 \"GoToR\" 操作所需的文件（路径）。 |
+| [setTitle](#setTitle-java.lang.String-) | 设置书签的标题。 |
+| [setTitleColor](#setTitleColor-java.awt.Color-) | 设置书签标题的颜色。 |
+| [toOutlineItemCollection](#toOutlineItemCollection-com.aspose.pdf.IDocument-) | 转换为 OutlineItemCollection |
+
+### Bookmark {#Bookmark--}
 ```
 public Bookmark()
 ```
 
+初始化 {@code Bookmark} 类的新实例。
 
-初始化 Bookmark 类的新实例。
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getAction() {#getAction--}
+### getAction {#getAction--}
 ```
 public String getAction()
 ```
 
+获取与书签绑定的操作。如果提供了 PageNumber，则无法指定操作。操作类型包括：“GoTo”、“GoToR”、“Launch”、“Named”。
 
-获取书签绑定的动作。如果出现 PageNumber，则无法指定操作。动作类型包括：“GoTo”、“GoToR”、“Launch”、“Named”。
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getBoldFlag() {#getBoldFlag--}
+### getBoldFlag {#getBoldFlag--}
 ```
 public boolean getBoldFlag()
 ```
 
-
 获取书签标题的粗体标志。
 
-**退货：**
-boolean - 布尔值
-### getChildItem() {#getChildItem--}
+**Returns:**
+布尔值
+
+### getChildItem {#getChildItem--}
 ```
-public Bookmarks getChildItem()
+@Deprecated public Bookmarks getChildItem()
 ```
 
+获取书签的子项。Obsolete("Use getChildItems() property instead of this one.")
 
-获取书签的孩子。
+**Returns:**
+书签元素
 
-Obsolete("使用 getChildItems() 属性代替这个属性。")
-
-**退货：**
-[Bookmarks](../../com.aspose.pdf.facades/bookmarks) - 书签元素
-### getChildItems() {#getChildItems--}
+### getChildItems {#getChildItems--}
 ```
 public Bookmarks getChildItems()
 ```
 
+获取书签的子项。
 
-获取书签的孩子。
+**Returns:**
+书签的子项。
 
-**退货：**
-[Bookmarks](../../com.aspose.pdf.facades/bookmarks) 书签的子项目。
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getCustomAcorbatViewerMenuActionName() {#getCustomAcorbatViewerMenuActionName--}
+### getCustomAcorbatViewerMenuActionName {#getCustomAcorbatViewerMenuActionName--}
 ```
 public int[] getCustomAcorbatViewerMenuActionName()
 ```
 
+尚未支持。对应在 Acrobat 查看器中执行菜单项的操作名称。
 
-尚不支持。
+**Returns:**
+int 数组值
 
-对应于在 Acrobat 查看器中执行菜单项的动作名称。
-
-**退货：**
-整数[- 整数值数组
-### getDestination() {#getDestination--}
+### getDestination {#getDestination--}
 ```
 public String getDestination()
 ```
 
+获取书签的目标页面。若操作设置为 "" 时为必需。
 
-获取书签的目标页面。如果操作设置为，则需要“”.
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getItalicFlag() {#getItalicFlag--}
+### getItalicFlag {#getItalicFlag--}
 ```
 public boolean getItalicFlag()
 ```
 
-
 获取书签标题的斜体标志。
 
-**退货：**
-boolean - 布尔值
-### getLevel() {#getLevel--}
+**Returns:**
+布尔值
+
+### getLevel {#getLevel--}
 ```
 public int getLevel()
 ```
 
+获取书签的层级。
 
-获取书签的层次结构级别。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getPageDisplay() {#getPageDisplay--}
-```
-public String getPageDisplay()
-```
-
-
-获取显示书签的目标页面的类型。
-
-**退货：**
-java.lang.String - 字符串值
-### getPageDisplay_Bottom() {#getPageDisplay-Bottom--}
+### getPageDisplay_Bottom {#getPageDisplay_Bottom--}
 ```
 public int getPageDisplay_Bottom()
 ```
 
-
 获取页面显示的底部坐标。
 
-**退货：**
-int - 整数值
-### getPageDisplay_Left() {#getPageDisplay-Left--}
+**Returns:**
+int 值
+
+### getPageDisplay_Left {#getPageDisplay_Left--}
 ```
 public int getPageDisplay_Left()
 ```
 
+获取页面显示的左侧坐标。
 
-获取页面显示的左坐标。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getPageDisplay_Right() {#getPageDisplay-Right--}
+### getPageDisplay_Right {#getPageDisplay_Right--}
 ```
 public int getPageDisplay_Right()
 ```
 
+获取页面显示的右侧坐标。
 
-获取页面显示的右坐标。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getPageDisplay_Top() {#getPageDisplay-Top--}
+### getPageDisplay_Top {#getPageDisplay_Top--}
 ```
 public int getPageDisplay_Top()
 ```
 
-
 获取页面显示的顶部坐标。
 
-**退货：**
-int - 整数值
-### getPageDisplay_Zoom() {#getPageDisplay-Zoom--}
+**Returns:**
+int 值
+
+### getPageDisplay_Zoom {#getPageDisplay_Zoom--}
 ```
 public int getPageDisplay_Zoom()
 ```
 
+获取页面显示的缩放因子。
 
-获取页面显示的缩放比例。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getPageNumber() {#getPageNumber--}
+### getPageDisplay {#getPageDisplay--}
+```
+public String getPageDisplay()
+```
+
+获取显示书签目标页面的类型。
+
+**Returns:**
+字符串值
+
+### getPageNumber {#getPageNumber--}
 ```
 public int getPageNumber()
 ```
 
+获取书签目标页面的编号。
 
-获取书签的目标页数。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getRemoteFile() {#getRemoteFile--}
+### getRemoteFile {#getRemoteFile--}
 ```
 public String getRemoteFile()
 ```
 
+获取书签的 "GoToR" 操作所需的文件（路径）。
 
-获取书签的“GoToR”操作所需的文件（路径）。
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getTitle() {#getTitle--}
+### getTitle {#getTitle--}
 ```
 public String getTitle()
 ```
 
-
 获取书签的标题。
 
-**退货：**
-java.lang.String - 字符串值
-### getTitleColor() {#getTitleColor--}
+**Returns:**
+字符串值
+
+### getTitleColor {#getTitleColor--}
 ```
 public Color getTitleColor()
 ```
 
-
 获取书签标题的颜色。
 
-**退货：**
-[Color](../../java.awt/color) - 颜色元素
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+颜色元素
 
-
-
-
-**退货：**
-整数
-### isOpen() {#isOpen--}
+### isOpen {#isOpen--}
 ```
 public boolean isOpen()
 ```
 
+获取书签状态（打开，关闭）。
 
-获取书签状态（打开、关闭）。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
+### setAction {#setAction-java.lang.String-}
+设置与书签绑定的操作。如果提供了 PageNumber，则无法指定操作。操作类型包括："GoTo"、"GoToR"、"Launch"、"Named"。
 
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setAction(String value) {#setAction-java.lang.String-}
-```
-public void setAction(String value)
-```
-
-
-设置与书签绑定的动作。如果出现 PageNumber，则无法指定操作。动作类型包括：“GoTo”、“GoToR”、“Launch”、“Named”。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setBoldFlag(boolean value) {#setBoldFlag-boolean-}
+### setBoldFlag {#setBoldFlag-boolean-}
 ```
 public void setBoldFlag(boolean value)
 ```
 
-
 设置书签标题的粗体标志。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setChildItem(Bookmarks value) {#setChildItem-com.aspose.pdf.facades.Bookmarks-}
-```
-public void setChildItem(Bookmarks value)
-```
+### setChildItem {#setChildItem-com.aspose.pdf.facades.Bookmarks-}
+设置书签的子项。Obsolete("Use setChildItems() property instead of this one.")
 
+### setChildItems {#setChildItems-com.aspose.pdf.facades.Bookmarks-}
+设置书签的子项。
 
-设置书签的孩子。
-
-Obsolete("使用 setChildItems() 属性代替这个属性。")
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Bookmarks](../../com.aspose.pdf.facades/bookmarks) | 书签元素 |
-
-### setChildItems(Bookmarks value) {#setChildItems-com.aspose.pdf.facades.Bookmarks-}
-```
-public void setChildItems(Bookmarks value)
-```
-
-
-设置书签的孩子。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Bookmarks](../../com.aspose.pdf.facades/bookmarks) | 书签的子项目。 |
-
-### setCustomAcorbatViewerMenuActionName(int[] value) {#setCustomAcorbatViewerMenuActionName-int---}
+### setCustomAcorbatViewerMenuActionName {#setCustomAcorbatViewerMenuActionName-int:A-}
 ```
 public void setCustomAcorbatViewerMenuActionName(int[] value)
 ```
 
+尚未支持。设置对应在 Acrobat 查看器中执行菜单项的操作名称。
 
-尚不支持。
-
-设置对应于在 Acrobat 查看器中执行菜单项的动作名称。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int[] | int值数组 |
+| 值 |  | int 数组值 |
 
-### setDestination(String value) {#setDestination-java.lang.String-}
-```
-public void setDestination(String value)
-```
+### setDestination {#setDestination-java.lang.String-}
+设置书签的目标页面。若操作设置为 "" 时为必需。
 
-
-设置书签的目标页面。如果操作设置为，则需要“”.
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setItalicFlag(boolean value) {#setItalicFlag-boolean-}
+### setItalicFlag {#setItalicFlag-boolean-}
 ```
 public void setItalicFlag(boolean value)
 ```
 
-
 设置书签标题的斜体标志。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setLevel(int value) {#setLevel-int-}
+### setLevel {#setLevel-int-}
 ```
 public void setLevel(int value)
 ```
 
+设置书签的层级。
 
-设置书签的层次结构级别。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setOpen(boolean value) {#setOpen-boolean-}
+### setOpen {#setOpen-boolean-}
 ```
 public void setOpen(boolean value)
 ```
 
+设置书签状态（打开，关闭）。
 
-设置书签状态（打开、关闭）。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setPageDisplay(String value) {#setPageDisplay-java.lang.String-}
-```
-public void setPageDisplay(String value)
-```
-
-
-设置显示书签目标页面的类型。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setPageDisplay_Bottom(int value) {#setPageDisplay-Bottom-int-}
+### setPageDisplay_Bottom {#setPageDisplay_Bottom-int-}
 ```
 public void setPageDisplay_Bottom(int value)
 ```
 
-
 设置页面显示的底部坐标。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setPageDisplay_Left(int value) {#setPageDisplay-Left-int-}
+### setPageDisplay_Left {#setPageDisplay_Left-int-}
 ```
 public void setPageDisplay_Left(int value)
 ```
 
+设置页面显示的左侧坐标。
 
-设置页面显示的左坐标。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setPageDisplay_Right(int value) {#setPageDisplay-Right-int-}
+### setPageDisplay_Right {#setPageDisplay_Right-int-}
 ```
 public void setPageDisplay_Right(int value)
 ```
 
+设置页面显示的右侧坐标。
 
-设置页面显示的右坐标。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setPageDisplay_Top(int value) {#setPageDisplay-Top-int-}
+### setPageDisplay_Top {#setPageDisplay_Top-int-}
 ```
 public void setPageDisplay_Top(int value)
 ```
 
-
 设置页面显示的顶部坐标。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setPageDisplay_Zoom(int value) {#setPageDisplay-Zoom-int-}
+### setPageDisplay_Zoom {#setPageDisplay_Zoom-int-}
 ```
 public void setPageDisplay_Zoom(int value)
 ```
 
+设置页面显示的缩放因子。
 
-设置页面显示的缩放比例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setPageNumber(int value) {#setPageNumber-int-}
+### setPageDisplay {#setPageDisplay-java.lang.String-}
+设置显示书签目标页的类型。
+
+### setPageNumber {#setPageNumber-int-}
 ```
 public void setPageNumber(int value)
 ```
 
+设置书签目标页的页码。
 
-设置书签的目标页数。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setRemoteFile(String value) {#setRemoteFile-java.lang.String-}
-```
-public void setRemoteFile(String value)
-```
+### setRemoteFile {#setRemoteFile-java.lang.String-}
+设置书签的 \"GoToR\" 操作所需的文件（路径）。
 
-
-设置书签的“GoToR”操作所需的文件（路径）。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setTitle(String value) {#setTitle-java.lang.String-}
-```
-public void setTitle(String value)
-```
-
-
+### setTitle {#setTitle-java.lang.String-}
 设置书签的标题。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setTitleColor(Color value) {#setTitleColor-java.awt.Color-}
-```
-public void setTitleColor(Color value)
-```
-
-
+### setTitleColor {#setTitleColor-java.awt.Color-}
 设置书签标题的颜色。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.awt.Color | 颜色元素 |
-
-### toOutlineItemCollection(IDocument doc) {#toOutlineItemCollection-com.aspose.pdf.IDocument-}
-```
-public OutlineItemCollection toOutlineItemCollection(IDocument doc)
-```
-
-
+### toOutlineItemCollection {#toOutlineItemCollection-com.aspose.pdf.IDocument-}
 转换为 OutlineItemCollection
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| doc | [IDocument](../../com.aspose.pdf/idocument) | 文档对象 |
-
-**退货：**
-[OutlineItemCollection](../../com.aspose.pdf/outlineitemcollection) OutlineItemCollection 对象
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |

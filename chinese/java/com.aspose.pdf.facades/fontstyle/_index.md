@@ -1,682 +1,181 @@
 ---
-title: FontStyle
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 枚举14种字体。
+title: "FontStyle"
+linktitle: "FontStyle"
+second_title: "Aspose.PDF for Java API 参考"
+description: "枚举 14 种字体类型。"
 type: docs
-weight: 24
+weight: 160
 url: /zh/java/com.aspose.pdf.facades/fontstyle/
 ---
-**遗产：**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+**Inheritance:**
+java.lang.Object, java.lang.Enum < FontStyle > com.aspose.pdf.facades.FontStyle, java.lang.Enum < FontStyle >, com.aspose.pdf.facades.FontStyle
+
+**All Implemented Interfaces:**
+Serializable, Comparable < FontStyle >
+
 ```
-public final class FontStyle extends System.Enum
+public enum FontStyle extends Enum < FontStyle >
 ```
 
-枚举14种字体。
-## 领域
+枚举 14 种字体类型。
 
-| 场地 | 描述 |
+## 字段
+
+| 字段 | 描述 |
 | --- | --- |
-| [CjkFont](#CjkFont) | 支持 CJK 的 True Type 字体，默认为 MS PGothic 字体。 |
-| [Courier](#Courier) | 快递字体。 |
+| [CjkFont](#CjkFont) | 支持 CJK 的 True Type 字体，默认是 MS PGothic 字体。 |
+| [Courier](#Courier) | Courier 字体。 |
 | [CourierBold](#CourierBold) | 粗体 Courier 字体。 |
-| [CourierBoldOblique](#CourierBoldOblique) | 粗体斜 Courier 字体。 |
-| [CourierOblique](#CourierOblique) | 倾斜居里字体。 |
-| [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
+| [CourierBoldOblique](#CourierBoldOblique) | 粗体倾斜 Courier 字体。 |
+| [CourierOblique](#CourierOblique) | 倾斜 Curier 字体。 |
 | [Helvetica](#Helvetica) | Helvetica 字体。 |
 | [HelveticaBold](#HelveticaBold) | 粗体 Helvetica 字体。 |
-| [HelveticaBoldOblique](#HelveticaBoldOblique) | 粗斜 Helvetica 字体。 |
-| [HelveticaOblique](#HelveticaOblique) | 倾斜的 Helvetica 字体。 |
-| [Symbol](#Symbol) | 符号字体。 |
-| [TimesBold](#TimesBold) | 大胆的时代字体。 |
-| [TimesBoldItalic](#TimesBoldItalic) | 粗斜体 Times 字体。 |
-| [TimesItalic](#TimesItalic) | 斜体时代字体。 |
+| [HelveticaBoldOblique](#HelveticaBoldOblique) | 粗体倾斜 Helvetica 字体。 |
+| [HelveticaOblique](#HelveticaOblique) | 倾斜 Helvetica 字体。 |
+| [Symbol](#Symbol) | Symbol 字体。 |
+| [TimesBold](#TimesBold) | 粗体 Times 字体。 |
+| [TimesBoldItalic](#TimesBoldItalic) | 粗体斜体 Times 字体。 |
+| [TimesItalic](#TimesItalic) | 斜体 Times 字体。 |
 | [TimesRoman](#TimesRoman) | Times-Roman 字体。 |
 | [Unknown](#Unknown) | 未知字体。 |
 | [ZapfDingbats](#ZapfDingbats) | ZapfDingbats 字体。 |
+
 ## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [Clone()](#Clone--) |  |
-| [CloneTo(T arg0)](#CloneTo-T-) |  |
-| [CloneTo(System.Enum arg0)](#CloneTo-com.aspose.ms.System.Enum-) |  |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [format(System.Type arg0, Object arg1, String arg2)](#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-) |  |
-| [format(Class<?> arg0, long arg1, String arg2)](#format-java.lang.Class----long-java.lang.String-) |  |
-| [getClass()](#getClass--) |  |
-| [getName(Class<?> arg0, long arg1)](#getName-java.lang.Class----long-) |  |
-| [getNames(System.Type arg0)](#getNames-com.aspose.ms.System.Type-) |  |
-| [getNames(Class<?> arg0)](#getNames-java.lang.Class----) |  |
-| [getUnderlyingType(System.Type arg0)](#getUnderlyingType-com.aspose.ms.System.Type-) |  |
-| [getUnderlyingType(Class<?> arg0)](#getUnderlyingType-java.lang.Class----) |  |
-| [getValue(Class<?> arg0, String arg1)](#getValue-java.lang.Class----java.lang.String-) |  |
-| [getValues(System.Type arg0)](#getValues-com.aspose.ms.System.Type-) |  |
-| [get_Caption()](#get-Caption--) |  |
-| [get_Value()](#get-Value--) |  |
-| [hashCode()](#hashCode--) |  |
-| [isDefined(System.Type arg0, Object arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.Object-) |  |
-| [isDefined(System.Type arg0, String arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.String-) |  |
-| [isDefined(System.Type arg0, long arg1)](#isDefined-com.aspose.ms.System.Type-long-) |  |
-| [isDefined(Class<?> arg0, long arg1)](#isDefined-java.lang.Class----long-) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [parse(System.Type arg0, String arg1)](#parse-com.aspose.ms.System.Type-java.lang.String-) |  |
-| [parse(System.Type arg0, String arg1, Boolean arg2)](#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-) |  |
-| [parse(Class<?> arg0, String arg1)](#parse-java.lang.Class----java.lang.String-) |  |
-| [parse(Class<?> arg0, String arg1, Boolean arg2)](#parse-java.lang.Class----java.lang.String-java.lang.Boolean-) |  |
-| [register(System.Enum.AbstractEnum arg0)](#register-com.aspose.ms.System.Enum.AbstractEnum-) |  |
-| [toObject(System.Type arg0, Object arg1)](#toObject-com.aspose.ms.System.Type-java.lang.Object-) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | 返回此类型中具有指定名称的枚举常量。 |
+| [values](#values--) | 返回一个数组，包含此枚举类型的常量，按声明顺序排列。 |
+
 ### CjkFont {#CjkFont}
 ```
-public static final int CjkFont
+public static final FontStyle CjkFont
 ```
 
-
-支持 CJK 的 True Type 字体，默认为 MS PGothic 字体。
+支持 CJK 的 True Type 字体，默认是 MS PGothic 字体。
 
 ### Courier {#Courier}
 ```
-public static final int Courier
+public static final FontStyle Courier
 ```
 
-
-快递字体。
+Courier 字体。
 
 ### CourierBold {#CourierBold}
 ```
-public static final int CourierBold
+public static final FontStyle CourierBold
 ```
-
 
 粗体 Courier 字体。
 
 ### CourierBoldOblique {#CourierBoldOblique}
 ```
-public static final int CourierBoldOblique
+public static final FontStyle CourierBoldOblique
 ```
 
-
-粗体斜 Courier 字体。
+粗体倾斜 Courier 字体。
 
 ### CourierOblique {#CourierOblique}
 ```
-public static final int CourierOblique
+public static final FontStyle CourierOblique
 ```
 
-
-倾斜居里字体。
-
-### EnumSeparatorCharArray {#EnumSeparatorCharArray}
-```
-public static final char[] EnumSeparatorCharArray
-```
-
+倾斜 Curier 字体。
 
 ### Helvetica {#Helvetica}
 ```
-public static final int Helvetica
+public static final FontStyle Helvetica
 ```
-
 
 Helvetica 字体。
 
 ### HelveticaBold {#HelveticaBold}
 ```
-public static final int HelveticaBold
+public static final FontStyle HelveticaBold
 ```
-
 
 粗体 Helvetica 字体。
 
 ### HelveticaBoldOblique {#HelveticaBoldOblique}
 ```
-public static final int HelveticaBoldOblique
+public static final FontStyle HelveticaBoldOblique
 ```
 
-
-粗斜 Helvetica 字体。
+粗体倾斜 Helvetica 字体。
 
 ### HelveticaOblique {#HelveticaOblique}
 ```
-public static final int HelveticaOblique
+public static final FontStyle HelveticaOblique
 ```
 
-
-倾斜的 Helvetica 字体。
+倾斜 Helvetica 字体。
 
 ### Symbol {#Symbol}
 ```
-public static final int Symbol
+public static final FontStyle Symbol
 ```
 
-
-符号字体。
+Symbol 字体。
 
 ### TimesBold {#TimesBold}
 ```
-public static final int TimesBold
+public static final FontStyle TimesBold
 ```
 
-
-大胆的时代字体。
+粗体 Times 字体。
 
 ### TimesBoldItalic {#TimesBoldItalic}
 ```
-public static final int TimesBoldItalic
+public static final FontStyle TimesBoldItalic
 ```
 
-
-粗斜体 Times 字体。
+粗体斜体 Times 字体。
 
 ### TimesItalic {#TimesItalic}
 ```
-public static final int TimesItalic
+public static final FontStyle TimesItalic
 ```
 
-
-斜体时代字体。
+斜体 Times 字体。
 
 ### TimesRoman {#TimesRoman}
 ```
-public static final int TimesRoman
+public static final FontStyle TimesRoman
 ```
-
 
 Times-Roman 字体。
 
 ### Unknown {#Unknown}
 ```
-public static final int Unknown
+public static final FontStyle Unknown
 ```
 
-
-未知字体。将使用标准字体。
+未知字体。
 
 ### ZapfDingbats {#ZapfDingbats}
 ```
-public static final int ZapfDingbats
+public static final FontStyle ZapfDingbats
 ```
-
 
 ZapfDingbats 字体。
 
-### Clone() {#Clone--}
+### getValue {#getValue--}
 ```
-public System.Enum Clone()
+public int getValue()
 ```
 
 
 
+### valueOf {#valueOf-java.lang.String-}
+返回此类型中具有指定名称的枚举常量。
 
-**退货：**
-com.aspose.ms.System.枚举
-### CloneTo(T arg0) {#CloneTo-T-}
+### values {#values--}
 ```
-public abstract void CloneTo(T arg0)
+public static FontStyle [] values()
 ```
 
+返回一个数组，包含此枚举类型的常量，按声明顺序排列。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | T |  |
-
-### CloneTo(System.Enum arg0) {#CloneTo-com.aspose.ms.System.Enum-}
-```
-public void CloneTo(System.Enum arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Enum |  |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### format(System.Type arg0, Object arg1, String arg2) {#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-}
-```
-public static String format(System.Type arg0, Object arg1, String arg2)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.Object |  |
-| arg2 | java.lang.String |  |
-
-**退货：**
-java.lang.字符串
-### format(Class<?> arg0, long arg1, String arg2) {#format-java.lang.Class----long-java.lang.String-}
-```
-public static String format(Class<?> arg0, long arg1, String arg2)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | long |  |
-| arg2 | java.lang.String |  |
-
-**退货：**
-java.lang.字符串
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getName(Class<?> arg0, long arg1) {#getName-java.lang.Class----long-}
-```
-public static String getName(Class<?> arg0, long arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | long |  |
-
-**退货：**
-java.lang.字符串
-### getNames(System.Type arg0) {#getNames-com.aspose.ms.System.Type-}
-```
-public static String[] getNames(System.Type arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-
-**退货：**
-java.lang.字符串[]
-### getNames(Class<?> arg0) {#getNames-java.lang.Class----}
-```
-public static Collection<String> getNames(Class<?> arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-
-**退货：**
-[Collection](../../java.util/collection)
-### getUnderlyingType(System.Type arg0) {#getUnderlyingType-com.aspose.ms.System.Type-}
-```
-public static System.Type getUnderlyingType(System.Type arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-
-**退货：**
-com.aspose.ms.System.类型
-### getUnderlyingType(Class<?> arg0) {#getUnderlyingType-java.lang.Class----}
-```
-public static Class<? extends Number> getUnderlyingType(Class<?> arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-
-**退货：**
-java.lang.Class<?扩展 java.lang.Number>
-### getValue(Class<?> arg0, String arg1) {#getValue-java.lang.Class----java.lang.String-}
-```
-public static long getValue(Class<?> arg0, String arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | java.lang.String |  |
-
-**退货：**
-长
-### getValues(System.Type arg0) {#getValues-com.aspose.ms.System.Type-}
-```
-public static System.Array getValues(System.Type arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-
-**退货：**
-com.aspose.ms.System.数组
-### get_Caption() {#get-Caption--}
-```
-public String get_Caption()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### get_Value() {#get-Value--}
-```
-public long get_Value()
-```
-
-
-
-
-**退货：**
-长
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isDefined(System.Type arg0, Object arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.Object-}
-```
-public static boolean isDefined(System.Type arg0, Object arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### isDefined(System.Type arg0, String arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.String-}
-```
-public static boolean isDefined(System.Type arg0, String arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.String |  |
-
-**退货：**
-布尔值
-### isDefined(System.Type arg0, long arg1) {#isDefined-com.aspose.ms.System.Type-long-}
-```
-public static boolean isDefined(System.Type arg0, long arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | long |  |
-
-**退货：**
-布尔值
-### isDefined(Class<?> arg0, long arg1) {#isDefined-java.lang.Class----long-}
-```
-public static boolean isDefined(Class<?> arg0, long arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | long |  |
-
-**退货：**
-布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### parse(System.Type arg0, String arg1) {#parse-com.aspose.ms.System.Type-java.lang.String-}
-```
-public static long parse(System.Type arg0, String arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.String |  |
-
-**退货：**
-长
-### parse(System.Type arg0, String arg1, Boolean arg2) {#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-}
-```
-public static long parse(System.Type arg0, String arg1, Boolean arg2)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.String |  |
-| arg2 | java.lang.Boolean |  |
-
-**退货：**
-长
-### parse(Class<?> arg0, String arg1) {#parse-java.lang.Class----java.lang.String-}
-```
-public static long parse(Class<?> arg0, String arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | java.lang.String |  |
-
-**退货：**
-长
-### parse(Class<?> arg0, String arg1, Boolean arg2) {#parse-java.lang.Class----java.lang.String-java.lang.Boolean-}
-```
-public static long parse(Class<?> arg0, String arg1, Boolean arg2)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | java.lang.String |  |
-| arg2 | java.lang.Boolean |  |
-
-**退货：**
-长
-### register(System.Enum.AbstractEnum arg0) {#register-com.aspose.ms.System.Enum.AbstractEnum-}
-```
-public static void register(System.Enum.AbstractEnum arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Enum.AbstractEnum |  |
-
-### toObject(System.Type arg0, Object arg1) {#toObject-com.aspose.ms.System.Type-java.lang.Object-}
-```
-public static Object toObject(System.Type arg0, Object arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.Object |  |
-
-**退货：**
-java.lang.Object
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+一个数组，包含此枚举类型的常量，按声明顺序排列

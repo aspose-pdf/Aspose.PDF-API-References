@@ -1,292 +1,159 @@
 ---
-title: TextFormattingOptions
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示文本格式选项
+title: "TextFormattingOptions"
+linktitle: "TextFormattingOptions"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示文本格式化选项"
 type: docs
-weight: 371
+weight: 5080
 url: /zh/java/com.aspose.pdf/textformattingoptions/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.TextOptions](../../com.aspose.pdf/textoptions)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.TextOptions com.aspose.pdf.TextFormattingOptions, com.aspose.pdf.TextOptions, com.aspose.pdf.TextFormattingOptions
+
 ```
 public final class TextFormattingOptions extends TextOptions
 ```
 
-表示文本格式选项
+表示文本格式化选项
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [TextFormattingOptions(int wrapMode)](#TextFormattingOptions-int-) | 为指定的自动换行模式初始化 TextFormattingOptions 对象的新实例。 |
-| [TextFormattingOptions()](#TextFormattingOptions--) | 使用未定义的自动换行模式初始化 TextFormattingOptions 对象的新实例。 |
+| [TextFormattingOptions](#TextFormattingOptions--) | 初始化 {@code TextFormattingOptions} 对象的新实例，使用未定义的换行模式。 |
+| [TextFormattingOptions](#TextFormattingOptions-int-) | 初始化 {@code TextFormattingOptions} 对象的新实例，使用指定的换行模式。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getFirstLineIndent()](#getFirstLineIndent--) | 获取或设置首行缩进值。 |
-| [getHyphenSymbol()](#getHyphenSymbol--) | 获取或设置在断字过程中使用的连字符。 |
-| [getLineSpacing()](#getLineSpacing--) | 获取行距模式。 |
-| [getSubsequentLinesIndent()](#getSubsequentLinesIndent--) | 获取或设置后续行缩进值。 |
-| [getWrapMode()](#getWrapMode--) | 获取自动换行模式。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setFirstLineIndent(float value)](#setFirstLineIndent-float-) | 获取或设置首行缩进值。 |
-| [setHyphenSymbol(String value)](#setHyphenSymbol-java.lang.String-) | 获取或设置在断字过程中使用的连字符。 |
-| [setLineSpacing(int value)](#setLineSpacing-int-) | 设置行距模式。 |
-| [setSubsequentLinesIndent(float value)](#setSubsequentLinesIndent-float-) | 获取或设置后续行缩进值。 |
-| [setWrapMode(int value)](#setWrapMode-int-) | 设置自动换行模式。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### TextFormattingOptions(int wrapMode) {#TextFormattingOptions-int-}
-```
-public TextFormattingOptions(int wrapMode)
-```
+| [getFirstLineIndent](#getFirstLineIndent--) | 获取或设置首行缩进值。 |
+| [getHyphenSymbol](#getHyphenSymbol--) | <p> 获取或设置在连字符处理过程中使用的连字符符号。 </p><hr> 若要消除连字符绘制（换行过程仍然保留），请将 HyphenSymbol 设置为空字符串 string.Empty。 |
+| [getLineSpacing](#getLineSpacing--) | 获取行间距模式。默认值为 LineSpacingMode.FontSize |
+| [getSubsequentLinesIndent](#getSubsequentLinesIndent--) | 获取或设置后续行缩进值。 |
+| [getWrapMode](#getWrapMode--) | 获取换行模式。默认值为 WordWrapMode.NoWrap |
+| [setFirstLineIndent](#setFirstLineIndent-float-) | 获取或设置首行缩进值。 |
+| [setHyphenSymbol](#setHyphenSymbol-java.lang.String-) | <p> 获取或设置在连字符处理过程中使用的连字符符号。 </p><hr> 若要消除连字符绘制（换行过程仍然保留），请将 HyphenSymbol 设置为空字符串 string.Empty。 |
+| [setLineSpacing](#setLineSpacing-int-) | 设置行间距模式。默认值为 LineSpacingMode.FontSize |
+| [setSubsequentLinesIndent](#setSubsequentLinesIndent-float-) | 获取或设置后续行缩进值。 |
+| [setWrapMode](#setWrapMode-int-) | 设置换行模式。默认值为 WordWrapMode.NoWrap |
 
-
-为指定的自动换行模式初始化 TextFormattingOptions 对象的新实例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| wrapMode | int | 自动换行模式。 |
-
-### TextFormattingOptions() {#TextFormattingOptions--}
+### TextFormattingOptions {#TextFormattingOptions--}
 ```
 public TextFormattingOptions()
 ```
 
+初始化 {@code TextFormattingOptions} 对象的新实例，使用未定义的换行模式。
 
-使用未定义的自动换行模式初始化 TextFormattingOptions 对象的新实例。
-
-### equals(Object arg0) {#equals-java.lang.Object-}
+### TextFormattingOptions {#TextFormattingOptions-int-}
 ```
-public boolean equals(Object arg0)
+public TextFormattingOptions(int wrapMode)
 ```
 
+初始化 {@code TextFormattingOptions} 对象的新实例，使用指定的换行模式。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| wrapMode |  | 换行模式。@see WordWrapMode |
 
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getFirstLineIndent() {#getFirstLineIndent--}
+### getFirstLineIndent {#getFirstLineIndent--}
 ```
 public final float getFirstLineIndent()
 ```
 
-
 获取或设置首行缩进值。
 
-**退货：**
-float - 浮点值
-### getHyphenSymbol() {#getHyphenSymbol--}
+**Returns:**
+float 值
+
+### getHyphenSymbol {#getHyphenSymbol--}
 ```
 public final String getHyphenSymbol()
 ```
 
+<p> 获取或设置在连字符处理过程中使用的连字符符号。 </p><hr> 若要消除连字符绘制（换行过程仍然保留），请将 HyphenSymbol 设置为空字符串 string.Empty。
 
-获取或设置在断字过程中使用的连字符。
+**Returns:**
+字符串值
 
---------------------
-
-要消除连字符绘制（换行过程仍然存在），请为 HyphenSymbol 设置空字符串 string.Empty。
-
-**退货：**
-java.lang.String - 字符串值
-### getLineSpacing() {#getLineSpacing--}
+### getLineSpacing {#getLineSpacing--}
 ```
 public int getLineSpacing()
 ```
 
+获取行间距模式。默认值为 LineSpacingMode.FontSize
 
-获取行距模式。默认值为 LineSpacingMode.FontSize
+**Returns:**
+int 值 @see LineSpacingMode
 
-**退货：**
-int - 整数值
-### getSubsequentLinesIndent() {#getSubsequentLinesIndent--}
+### getSubsequentLinesIndent {#getSubsequentLinesIndent--}
 ```
 public float getSubsequentLinesIndent()
 ```
 
-
 获取或设置后续行缩进值。
 
-**退货：**
-float - 浮点值
-### getWrapMode() {#getWrapMode--}
+**Returns:**
+float 值
+
+### getWrapMode {#getWrapMode--}
 ```
 public int getWrapMode()
 ```
 
+获取换行模式。默认值为 WordWrapMode.NoWrap
 
-获取自动换行模式。默认值为 WordWrapMode.NoWrap
+**Returns:**
+WordWrapMode 值 @see WordWrapMode
 
-**退货：**
-int - WordWrapMode 值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setFirstLineIndent(float value) {#setFirstLineIndent-float-}
+### setFirstLineIndent {#setFirstLineIndent-float-}
 ```
 public final void setFirstLineIndent(float value)
 ```
 
-
 获取或设置首行缩进值。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 浮点值 |
+| 值 |  | float 值 |
 
-### setHyphenSymbol(String value) {#setHyphenSymbol-java.lang.String-}
-```
-public final void setHyphenSymbol(String value)
-```
+### setHyphenSymbol {#setHyphenSymbol-java.lang.String-}
+<p> 获取或设置在连字符处理过程中使用的连字符符号。 </p><hr> 若要消除连字符绘制（换行过程仍然保留），请将 HyphenSymbol 设置为空字符串 string.Empty。
 
-
-获取或设置在断字过程中使用的连字符。
-
---------------------
-
-要消除连字符绘制（换行过程仍然存在），请为 HyphenSymbol 设置空字符串 string.Empty。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 值 字符串值 |
-
-### setLineSpacing(int value) {#setLineSpacing-int-}
+### setLineSpacing {#setLineSpacing-int-}
 ```
 public void setLineSpacing(int value)
 ```
 
+设置行间距模式。默认值为 LineSpacingMode.FontSize
 
-设置行距模式。默认值为 LineSpacingMode.FontSize
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 @see LineSpacingMode |
 
-### setSubsequentLinesIndent(float value) {#setSubsequentLinesIndent-float-}
+### setSubsequentLinesIndent {#setSubsequentLinesIndent-float-}
 ```
 public void setSubsequentLinesIndent(float value)
 ```
 
-
 获取或设置后续行缩进值。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 浮点值 |
+| 值 |  | float 值 |
 
-### setWrapMode(int value) {#setWrapMode-int-}
+### setWrapMode {#setWrapMode-int-}
 ```
 public void setWrapMode(int value)
 ```
 
+设置换行模式。默认值为 WordWrapMode.NoWrap
 
-设置自动换行模式。默认值为 WordWrapMode.NoWrap
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | WordWrapMode 值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | WordWrapMode 值 @see WordWrapMode |

@@ -1,673 +1,489 @@
 ---
-title: Matrix
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 类表示变换矩阵。
+title: "Matrix"
+linktitle: "Matrix"
+second_title: "Aspose.PDF for Java API 参考"
+description: "类表示变换矩阵。"
 type: docs
-weight: 209
+weight: 2900
 url: /zh/java/com.aspose.pdf/matrix/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Matrix
+
 ```
-public final class Matrix
+public final class Matrix extends Object
 ```
 
 类表示变换矩阵。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Matrix()](#Matrix--) | 构造函数创建标准的 1 对 1 矩阵：[ ABCDEF ] =[ 1, 0, 0, 1, 0, 0] |
-| [Matrix(double[] matrixArray)](#Matrix-double---) | 构造函数接受具有以下数组表示的矩阵：[ ABCDEF ] |
-| [Matrix(float[] matrixArray)](#Matrix-float---) | 构造函数接受具有以下数组表示的矩阵：[ ABCDEF ] |
-| [Matrix(Matrix matrix)](#Matrix-com.aspose.pdf.Matrix-) | 构造函数接受一个矩阵来创建一个副本 |
-| [Matrix(double a, double b, double c, double d, double e, double f)](#Matrix-double-double-double-double-double-double-) | 用指定的系数初始化变换矩阵。 |
+| [Matrix](#Matrix--) | <p> 构造函数创建标准的 1 对 1 矩阵: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0] </p> <hr> <pre> Matrix m = new Matrix(); </pre> |
+| [Matrix](#Matrix-double:A-) | <p> 构造函数接受具有以下数组表示形式的矩阵: [ A B C D E F ] </p> <hr> <pre> double[] c = new double[] { 1, 0, 0, 1, 10, 20 }; Matrix m = new Matrix(c); </pre> |
+| [Matrix](#Matrix-double-double-double-double-double-double-) | <p> 使用指定系数初始化变换矩阵。 </p> <hr> <pre> Matrix m = new Matrix(1, 0, 0, 1, 3, 3); </pre> |
+| [Matrix](#Matrix-float:A-) | <p> 构造函数接受具有以下数组表示形式的矩阵: [ A B C D E F ] </p> <hr> <pre> double[] c = new double[] { 1, 0, 0, 1, 10, 20 }; Matrix m = new Matrix(c); </pre> |
+| [Matrix](#Matrix-com.aspose.pdf.Matrix-) | <p> 构造函数创建标准的 1 对 1 矩阵: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0] </p> <hr> <pre> Matrix m = new Matrix(); </pre> |
+| [Matrix](#Matrix-com.aspose.ms.System.Drawing.Drawing2D.Matrix-) | <p> 构造函数创建标准的 1 对 1 矩阵: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0] </p> <hr> <pre> Matrix m = new Matrix(); </pre> |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [add(Matrix other)](#add-com.aspose.pdf.Matrix-) | 将矩阵添加到其他矩阵。 |
-| [equals(Object obj)](#equals-java.lang.Object-) | 将矩阵与其他对象进行比较。 |
-| [getA()](#getA--) | 获取变换矩阵的成员。 |
-| [getAngle(int rotation)](#getAngle-int-) | Transaltes 旋转成角度（度） |
-| [getB()](#getB--) | 获取变换矩阵的 B 成员。 |
-| [getC()](#getC--) | 获取变换矩阵的 C 成员。 |
-| [getClass()](#getClass--) |  |
-| [getD()](#getD--) | 获取变换矩阵的 D 成员。 |
-| [getData()](#getData--) | 获取 Matrix 的数据作为数组。 |
-| [getE()](#getE--) | 获取变换矩阵的 E 成员。 |
-| [getElements()](#getElements--) | 矩阵的元素。 |
-| [getF()](#getF--) | 获取变换矩阵的 F 成员。 |
-| [getMatrix(ITrailerable trailer)](#getMatrix-com.aspose.pdf.engine.data.ITrailerable-) | 将矩阵转换为 PDF 数组对象。 |
-| [hashCode()](#hashCode--) | 对象的哈希码。 |
-| [isInt16(double value)](#isInt16-double-) | 仅供内部使用 |
-| [isInt16Values()](#isInt16Values--) | 仅供内部使用 |
-| [multiply(Matrix other)](#multiply-com.aspose.pdf.Matrix-) | 将矩阵乘以其他矩阵。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [reverse()](#reverse--) | 计算反向矩阵。 |
-| [rotation(double alpha)](#rotation-double-) | 为给定的旋转角度创建矩阵。 |
-| [rotation(int rotation)](#rotation-int-) | 为给定的旋转创建矩阵。 |
-| [scale(double x, double y)](#scale-double-double-) | 为给定比例创建矩阵。 |
-| [setA(double value)](#setA-double-) | Set 变换矩阵的一个成员。 |
-| [setB(double value)](#setB-double-) | 设置变换矩阵的 B 成员。 |
-| [setC(double value)](#setC-double-) | 设置变换矩阵的 C 成员。 |
-| [setD(double value)](#setD-double-) | 设置变换矩阵的 D 成员。 |
-| [setE(double value)](#setE-double-) | 设置变换矩阵的 E 成员。 |
-| [setF(double value)](#setF-double-) | 设置变换矩阵的 F 成员。 |
-| [skew(double alpha, double beta)](#skew-double-double-) | 为给定的旋转角度创建矩阵。 |
-| [toString()](#toString--) | 返回矩阵的文本表示。 |
-| [transform(Point p)](#transform-com.aspose.pdf.Point-) | 使用此矩阵转换点。 |
-| [transform(Rectangle rect)](#transform-com.aspose.pdf.Rectangle-) | 变换矩形。 |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Matrix() {#Matrix--}
+| [add](#add-com.aspose.pdf.Matrix-) | 将矩阵添加到另一个矩阵。 |
+| [equals](#equals-java.lang.Object-) | 将矩阵与其他对象进行比较。 |
+| [getA](#getA--) | 获取变换矩阵的 A 成员。 |
+| [getAngle](#getAngle-com.aspose.pdf.Rotation-) | <p> 将旋转转换为角度（度） </p> <hr> <pre> double angle = Matrix.getAngle(Rotation.on90); Matrix m = Matrix.rotation(angle); </pre> |
+| [getB](#getB--) | 获取变换矩阵的 B 成员。 |
+| [getC](#getC--) | 获取变换矩阵的 C 成员。 |
+| [getD](#getD--) | 获取变换矩阵的 D 成员。 |
+| [getData](#getData--) | 获取 Matrix 的数据为数组。 |
+| [getE](#getE--) | 获取变换矩阵的 E 成员。 |
+| [getElements](#getElements--) | 矩阵的元素。 |
+| [getF](#getF--) | 获取变换矩阵的 F 成员。 |
+| [getFlipMatrix](#getFlipMatrix--) | 获取翻转矩阵。 |
+| [getMatrix](#getMatrix-com.aspose.pdf.engine.data.ITrailerable-) | 将矩阵转换为 PDF 数组对象。 |
+| [hashCode](#hashCode--) | 对象的哈希码。 |
+| [isIdentity](#isIdentity--) | 检查此矩阵是否为单位矩阵。 |
+| [isInt16](#isInt16-double-) | 仅供内部使用 |
+| [isInt16Values](#isInt16Values--) | 仅供内部使用 |
+| [multiply](#multiply-com.aspose.pdf.Matrix-) | <p> 将矩阵与另一个矩阵相乘。 </p> <hr> <pre> Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 }); Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } ); Matrix c= a.multiply(b); </pre> |
+| [reverse](#reverse--) | <p> 计算逆矩阵。 </p> <hr> <pre> Matrix m = Matrix.rotation(Math.PI / 2); Matrix m1 = m.reverse(); </pre> |
+| [rotation](#rotation-double-) | <p> 为给定的旋转角度创建矩阵。 </p> <hr> <pre> Matrix m = Matrix.Rotation(Math.PI / 2); </pre> |
+| [rotation](#rotation-com.aspose.pdf.Rotation-) | 为给定的旋转创建矩阵。 |
+| [scale](#scale-double-double-) | <p> 为给定的缩放创建矩阵。 </p> <hr> <pre> Matrix m = Matrix.scale(x, y); </pre> |
+| [scale](#scale-double-double-double:A-double:A-) | 使用以下公式通过矩阵缩放 x 和 y：x1 = A*x + C*y; y1 = B*x + D*y; |
+| [scale](#scale-double-double-com.aspose.pdf.Matrix-) | 对给定的矩阵应用缩放。 |
+| [setA](#setA-double-) | 设置变换矩阵的 A 成员。 |
+| [setB](#setB-double-) | 设置变换矩阵的 B 成员。 |
+| [setC](#setC-double-) | 设置变换矩阵的 C 成员。 |
+| [setD](#setD-double-) | 设置变换矩阵的 D 成员。 |
+| [setE](#setE-double-) | 设置变换矩阵的 E 成员。 |
+| [setF](#setF-double-) | 设置变换矩阵的 F 成员。 |
+| [skew](#skew-double-double-) | 为给定的旋转角度创建矩阵。 Matrix m = Matrix.skew(Math.PI / 2, Math.PI / 2); |
+| [toString](#toString--) | 返回矩阵的文本表示。 |
+| [transform](#transform-double-double-double:A-double:A-) | 使用此矩阵转换坐标。 Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } ); double x, y, x1, y1; m.transform(double x, double y, out double x1, out double y1); |
+| [transform](#transform-com.aspose.pdf.Point-) | 使用此矩阵转换点。 Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } ); Point p = new Point(5, 5); Point p1 = m.transform(p); |
+| [transform](#transform-com.aspose.pdf.Rectangle-) | 转换矩形。 |
+| [translate](#translate-double-double-com.aspose.pdf.Matrix-) | 在 x 和 y 方向上按指定量平移矩阵。 |
+| [unScale](#unScale-double-double-double:A-double:A-) | 使用以下公式将 x1 和 y1 缩放回并返回矩阵变换前的 x 和 y：x = (D * x1 - C * y1) / (A * D - C * B); y = (A * y1 - B * x1) / (A * D - C * B); |
+| [unTransform](#unTransform-double-double-double:A-double:A-) | 使用以下公式将 x1 和 y1 反向变换并返回矩阵变换前的 x 和 y：x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B)。 |
+
+### Matrix {#Matrix--}
 ```
 public Matrix()
 ```
 
+<p> 构造函数创建标准的 1 对 1 矩阵: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0] </p> <hr> <pre> Matrix m = new Matrix(); </pre>
 
-构造函数创建标准的 1 对 1 矩阵：[ ABCDEF ] =[ 1, 0, 0, 1, 0, 0]
-
---------------------
-
-```
-Matrix m = new Matrix();
-```
-
-### Matrix(double[] matrixArray) {#Matrix-double---}
+### Matrix {#Matrix-double:A-}
 ```
 public Matrix(double[] matrixArray)
 ```
 
+<p> 构造函数接受具有以下数组表示形式的矩阵: [ A B C D E F ] </p> <hr> <pre> double[] c = new double[] { 1, 0, 0, 1, 10, 20 }; Matrix m = new Matrix(c); </pre>
 
-构造函数接受具有以下数组表示的矩阵：[ ABCDEF ]
-
---------------------
-
-```
-double[] c = new double[] { 1, 0, 0, 1, 10, 20 };
- Matrix m = new Matrix(c);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrixArray | double[] | 矩阵数据数组。 |
+| matrixArray |  | 矩阵数据数组。 |
 
-### Matrix(float[] matrixArray) {#Matrix-float---}
-```
-public Matrix(float[] matrixArray)
-```
-
-
-构造函数接受具有以下数组表示的矩阵：[ ABCDEF ]
-
---------------------
-
-```
-double[] c = new double[] { 1, 0, 0, 1, 10, 20 };
- Matrix m = new Matrix(c);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| matrixArray | float[] | 矩阵数据数组。 |
-
-### Matrix(Matrix matrix) {#Matrix-com.aspose.pdf.Matrix-}
-```
-public Matrix(Matrix matrix)
-```
-
-
-构造函数接受一个矩阵来创建一个副本
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| matrix | [Matrix](../../com.aspose.pdf/matrix) | 矩阵对象。 |
-
-### Matrix(double a, double b, double c, double d, double e, double f) {#Matrix-double-double-double-double-double-double-}
+### Matrix {#Matrix-double-double-double-double-double-double-}
 ```
 public Matrix(double a, double b, double c, double d, double e, double f)
 ```
 
+<p> 使用指定系数初始化变换矩阵。 </p> <hr> <pre> Matrix m = new Matrix(1, 0, 0, 1, 3, 3); </pre>
 
-用指定的系数初始化变换矩阵。
-
---------------------
-
-```
-Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| a | double | 矩阵值。 |
-| b | double | 矩阵值。 |
-| c | double | C 矩阵值。 |
-| d | double | D 矩阵值。 |
-| e | double | E 矩阵值。 |
-| f | double | F 矩阵值。 |
+| a |  | A 矩阵值。 |
+| b |  | B 矩阵值。 |
+| c |  | C 矩阵值。 |
+| d |  | D 矩阵值。 |
+| e |  | E 矩阵值。 |
+| f |  | F 矩阵值。 |
 
-### add(Matrix other) {#add-com.aspose.pdf.Matrix-}
+### Matrix {#Matrix-float:A-}
 ```
-public Matrix add(Matrix other)
+public Matrix(float[] matrixArray)
 ```
 
+<p> 构造函数接受具有以下数组表示形式的矩阵: [ A B C D E F ] </p> <hr> <pre> double[] c = new double[] { 1, 0, 0, 1, 10, 20 }; Matrix m = new Matrix(c); </pre>
 
-将矩阵添加到其他矩阵。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | [Matrix](../../com.aspose.pdf/matrix) | 要添加的矩阵。 |
+| matrixArray |  | 矩阵数据数组。 |
 
-**退货：**
-[Matrix](../../com.aspose.pdf/matrix) - 矩阵相加的结果。
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
-```
+### Matrix {#Matrix-com.aspose.pdf.Matrix-}
+<p> 构造函数创建标准的 1 对 1 矩阵: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0] </p> <hr> <pre> Matrix m = new Matrix(); </pre>
 
+### Matrix {#Matrix-com.aspose.ms.System.Drawing.Drawing2D.Matrix-}
+<p> 构造函数创建标准的 1 对 1 矩阵: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0] </p> <hr> <pre> Matrix m = new Matrix(); </pre>
 
+### add {#add-com.aspose.pdf.Matrix-}
+将矩阵添加到另一个矩阵。
+
+### equals {#equals-java.lang.Object-}
 将矩阵与其他对象进行比较。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| obj | java.lang.Object | 要比较的对象。 |
-
-**退货：**
-boolean - 如果其他对象是 Matrix 且所有矩阵成员都等于矩阵的对应成员，则返回 true
-### getA() {#getA--}
+### getA {#getA--}
 ```
 public double getA()
 ```
 
+获取变换矩阵的 A 成员。
 
-获取变换矩阵的成员。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getAngle(int rotation) {#getAngle-int-}
-```
-public static double getAngle(int rotation)
-```
+### getAngle {#getAngle-com.aspose.pdf.Rotation-}
+<p> 将旋转转换为角度（度） </p> <hr> <pre> double angle = Matrix.getAngle(Rotation.on90); Matrix m = Matrix.rotation(angle); </pre>
 
-
-Transaltes 旋转成角度（度）
-
---------------------
-
-```
-double angle = Matrix.getAngle(Rotation.on90);
- Matrix m = Matrix.rotation(angle);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| rotation | int | 旋转值。 |
-
-**退货：**
-双 - 角度值。
-### getB() {#getB--}
+### getB {#getB--}
 ```
 public double getB()
 ```
 
-
 获取变换矩阵的 B 成员。
 
-**退货：**
-双倍价值
-### getC() {#getC--}
+**Returns:**
+double 值
+
+### getC {#getC--}
 ```
 public double getC()
 ```
 
-
 获取变换矩阵的 C 成员。
 
-**退货：**
-双倍价值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+double 值
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### getD() {#getD--}
+### getD {#getD--}
 ```
 public double getD()
 ```
 
-
 获取变换矩阵的 D 成员。
 
-**退货：**
-双倍价值
-### getData() {#getData--}
+**Returns:**
+double 值
+
+### getData {#getData--}
 ```
 public final double[] getData()
 ```
 
+获取 Matrix 的数据为数组。
 
-获取 Matrix 的数据作为数组。
+**Returns:**
+double 值数组
 
-**退货：**
-双倍的[- 双精度值数组
-### getE() {#getE--}
+### getE {#getE--}
 ```
 public double getE()
 ```
 
-
 获取变换矩阵的 E 成员。
 
-**退货：**
-双倍价值
-### getElements() {#getElements--}
+**Returns:**
+double 值
+
+### getElements {#getElements--}
 ```
 public float[] getElements()
 ```
 
-
 矩阵的元素。
 
-**退货：**
-漂浮[- 漂浮[大批
-### getF() {#getF--}
+**Returns:**
+float[] array
+
+### getF {#getF--}
 ```
 public double getF()
 ```
 
-
 获取变换矩阵的 F 成员。
 
-**退货：**
-双倍价值
-### getMatrix(ITrailerable trailer) {#getMatrix-com.aspose.pdf.engine.data.ITrailerable-}
+**Returns:**
+double 值
+
+### getFlipMatrix {#getFlipMatrix--}
 ```
-public IPdfArray getMatrix(ITrailerable trailer)
+public final Matrix getFlipMatrix()
 ```
 
+获取翻转矩阵。
 
+**Returns:**
+矩阵实例
+
+### getMatrix {#getMatrix-com.aspose.pdf.engine.data.ITrailerable-}
 将矩阵转换为 PDF 数组对象。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| trailer | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) | 拖车物体 |
-
-**退货：**
-[IPdfArray](../../com.aspose.pdf.engine.data/ipdfarray) 转换结果
-### hashCode() {#hashCode--}
+### hashCode {#hashCode--}
 ```
 public int hashCode()
 ```
 
-
 对象的哈希码。
 
-**退货：**
-int - 哈希码。
-### isInt16(double value) {#isInt16-double-}
+**Returns:**
+哈希码。
+
+### isIdentity {#isIdentity--}
+```
+public final boolean isIdentity()
+```
+
+检查此矩阵是否为单位矩阵。
+
+**Returns:**
+布尔值
+
+### isInt16 {#isInt16-double-}
 ```
 public static boolean isInt16(double value)
 ```
 
-
 仅供内部使用
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-**退货：**
-boolean - 布尔值
-### isInt16Values() {#isInt16Values--}
+**Returns:**
+布尔值
+
+### isInt16Values {#isInt16Values--}
 ```
 public boolean isInt16Values()
 ```
 
-
 仅供内部使用
 
-**退货：**
-boolean - 布尔值
-### multiply(Matrix other) {#multiply-com.aspose.pdf.Matrix-}
-```
-public Matrix multiply(Matrix other)
-```
+**Returns:**
+布尔值
 
+### multiply {#multiply-com.aspose.pdf.Matrix-}
+<p> 将矩阵与另一个矩阵相乘。 </p> <hr> <pre> Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 }); Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } ); Matrix c= a.multiply(b); </pre>
 
-将矩阵乘以其他矩阵。
-
---------------------
-
-```
-Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 });
- Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } );
- Matrix c= a.multiply(b);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| other | [Matrix](../../com.aspose.pdf/matrix) | 乘数矩阵。 |
-
-**退货：**
-[Matrix](../../com.aspose.pdf/matrix) - 乘法的结果。
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### reverse() {#reverse--}
+### reverse {#reverse--}
 ```
 public Matrix reverse()
 ```
 
+<p> 计算逆矩阵。 </p> <hr> <pre> Matrix m = Matrix.rotation(Math.PI / 2); Matrix m1 = m.reverse(); </pre>
 
-计算反向矩阵。
+**Returns:**
+反转矩阵。
 
---------------------
-
-```
-Matrix m = Matrix.rotation(Math.PI / 2);
- Matrix m1 = m.reverse();
-```
-
-**退货：**
-[Matrix](../../com.aspose.pdf/matrix) - 反向矩阵。
-### rotation(double alpha) {#rotation-double-}
+### rotation {#rotation-double-}
 ```
 public static Matrix rotation(double alpha)
 ```
 
+<p> 为给定的旋转角度创建矩阵。 </p> <hr> <pre> Matrix m = Matrix.Rotation(Math.PI / 2); </pre>
 
-为给定的旋转角度创建矩阵。
-
---------------------
-
-```
-Matrix m = Matrix.Rotation(Math.PI / 2);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| alpha | double | 以弧度为单位的旋转角度。 |
+| alpha |  | 以弧度表示的旋转角度。 |
 
-**退货：**
-[Matrix](../../com.aspose.pdf/matrix) - 变换矩阵。
-### rotation(int rotation) {#rotation-int-}
-```
-public static Matrix rotation(int rotation)
-```
+**Returns:**
+变换矩阵。
 
-
+### rotation {#rotation-com.aspose.pdf.Rotation-}
 为给定的旋转创建矩阵。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| rotation | int | 回转。有效值为：无、on90、on180、on270 |
-
-**退货：**
-[Matrix](../../com.aspose.pdf/matrix) - 带旋转的矩阵实例。
-### scale(double x, double y) {#scale-double-double-}
+### scale {#scale-double-double-}
 ```
 public static Matrix scale(double x, double y)
 ```
 
+<p> 为给定的缩放创建矩阵。 </p> <hr> <pre> Matrix m = Matrix.scale(x, y); </pre>
 
-为给定比例创建矩阵。
-
---------------------
-
-```
-Matrix m = Matrix.scale(x, y);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | double | 缩放 x。 |
-| y | double | 缩放 y。 |
+| x |  | X 方向缩放。 |
+| y |  | Y 方向缩放。 |
 
-**退货：**
-[Matrix](../../com.aspose.pdf/matrix) - 变换矩阵。
-### setA(double value) {#setA-double-}
+**Returns:**
+变换矩阵。
+
+### scale {#scale-double-double-double:A-double:A-}
+```
+public final void scale(double x, double y, double[] x1, double[] y1)
+```
+
+使用以下公式通过矩阵缩放 x 和 y：x1 = A*x + C*y; y1 = B*x + D*y;
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| x |  | 输入 X 坐标 |
+| y |  | 输入 Y 坐标 |
+| x1 |  | 输出 X 坐标 |
+| y1 |  | 输出 Y 坐标 |
+
+### scale {#scale-double-double-com.aspose.pdf.Matrix-}
+对给定的矩阵应用缩放。
+
+### setA {#setA-double-}
 ```
 public void setA(double value)
 ```
 
+设置变换矩阵的 A 成员。
 
-Set 变换矩阵的一个成员。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setB(double value) {#setB-double-}
+### setB {#setB-double-}
 ```
 public void setB(double value)
 ```
 
-
 设置变换矩阵的 B 成员。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setC(double value) {#setC-double-}
+### setC {#setC-double-}
 ```
 public void setC(double value)
 ```
 
-
 设置变换矩阵的 C 成员。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setD(double value) {#setD-double-}
+### setD {#setD-double-}
 ```
 public void setD(double value)
 ```
 
-
 设置变换矩阵的 D 成员。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setE(double value) {#setE-double-}
+### setE {#setE-double-}
 ```
 public void setE(double value)
 ```
 
-
 设置变换矩阵的 E 成员。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setF(double value) {#setF-double-}
+### setF {#setF-double-}
 ```
 public void setF(double value)
 ```
 
-
 设置变换矩阵的 F 成员。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### skew(double alpha, double beta) {#skew-double-double-}
+### skew {#skew-double-double-}
 ```
 public static Matrix skew(double alpha, double beta)
 ```
 
+为给定的旋转角度创建矩阵。 Matrix m = Matrix.skew(Math.PI / 2, Math.PI / 2);
 
-为给定的旋转角度创建矩阵。
-
-```
-Matrix m = Matrix.skew(Math.PI / 2, Math.PI / 2);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| alpha | double | 以弧度为单位的倾斜 x 角度。 |
-| beta | double | 以弧度为单位的倾斜 y 角。 |
+| alpha |  | X 方向倾斜角（弧度）。 |
+| beta |  | Y 方向倾斜角（弧度）。 |
 
-**退货：**
-[Matrix](../../com.aspose.pdf/matrix) - 变换矩阵。
-### toString() {#toString--}
+**Returns:**
+变换矩阵。
+
+### toString {#toString--}
 ```
 public String toString()
 ```
 
-
 返回矩阵的文本表示。
 
-**退货：**
-java.lang.String - 矩阵的字符串表示
-### transform(Point p) {#transform-com.aspose.pdf.Point-}
+**Returns:**
+矩阵的字符串表示
+
+### transform {#transform-double-double-double:A-double:A-}
 ```
-public Point transform(Point p)
-```
-
-
-使用此矩阵转换点。
-
---------------------
-
-```
-Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
- Point p = new Point(5, 5);
- Point p1 = m.transform(p);
+public final void transform(double x, double y, double[] x1, double[] y1)
 ```
 
-**参数：**
+使用此矩阵转换坐标。 Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } ); double x, y, x1, y1; m.transform(double x, double y, out double x1, out double y1);
 
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| p | [Point](../../com.aspose.pdf/point) | 将被转换的点。 |
+| x |  | X 坐标。 |
+| y |  | Y 坐标。 |
+| x1 |  | 变换后的 X 坐标。 |
+| y1 |  | 变换后的 Y 坐标。 |
 
-**退货：**
-[Point](../../com.aspose.pdf/point) - 转换结果。
-### transform(Rectangle rect) {#transform-com.aspose.pdf.Rectangle-}
+### transform {#transform-com.aspose.pdf.Point-}
+使用此矩阵转换点。 Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } ); Point p = new Point(5, 5); Point p1 = m.transform(p);
+
+### transform {#transform-com.aspose.pdf.Rectangle-}
+转换矩形。
+
+### translate {#translate-double-double-com.aspose.pdf.Matrix-}
+在 x 和 y 方向上按指定量平移矩阵。
+
+### unScale {#unScale-double-double-double:A-double:A-}
 ```
-public Rectangle transform(Rectangle rect)
+public final void unScale(double x1, double y1, double[] x, double[] y)
 ```
 
+使用以下公式将 x1 和 y1 缩放回并返回矩阵变换前的 x 和 y：x = (D * x1 - C * y1) / (A * D - C * B); y = (A * y1 - B * x1) / (A * D - C * B);
 
-变换矩形。如果角度不是 90\* N 度然后返回边界矩形。
-
---------------------
-
-```
-Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
- Rectangle r = new Rectangle(0, 0, 100, 100);
- Rectangle r1 = m.transform(r1);
-```
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | 要变换的矩形。 |
+| x1 |  | 输入 X 坐标 |
+| y1 |  | 输入 Y 坐标 |
+| x |  | 输出 X 坐标 |
+| y |  | 输出 Y 坐标 |
 
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 变形后的矩形。
-### wait() {#wait--}
+### unTransform {#unTransform-double-double-double:A-double:A-}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public final void unTransform(double x1, double y1, double[] x, double[] y)
 ```
 
+使用以下公式将 x1 和 y1 反向变换并返回矩阵变换前的 x 和 y：x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B)。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| x1 |  | 输入 X 坐标 |
+| y1 |  | 输入 Y 坐标 |
+| x |  | 输出 X 坐标 |
+| y |  | 输出 Y 坐标 |

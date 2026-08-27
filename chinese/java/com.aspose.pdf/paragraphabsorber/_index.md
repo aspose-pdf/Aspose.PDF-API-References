@@ -1,269 +1,153 @@
 ---
-title: ParagraphAbsorber
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示页面结构对象（例如节和段落）的吸收器对象。
+title: "ParagraphAbsorber"
+linktitle: "ParagraphAbsorber"
+second_title: "Aspose.PDF for Java API 参考"
+description: "<p> 表示页面结构对象（如章节和段落）的吸收器对象。执行对文本章节和段落的搜索并提供访问。"
 type: docs
-weight: 269
+weight: 3470
 url: /zh/java/com.aspose.pdf/paragraphabsorber/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.ParagraphAbsorber
+
 ```
-public class ParagraphAbsorber
+public class ParagraphAbsorber extends Object
 ```
 
-表示页面结构对象（例如节和段落）的吸收器对象。执行文本部分和段落的搜索，并提供对在文本坐标空间中描述它的矩形和多边形的访问。还执行文本段搜索，并通过按结构元素分组的 TextFragments 集合提供对搜索结果的访问。
+<p> 表示页面结构对象（如章节和段落）的吸收器对象。执行对章节和段落文本的搜索，并提供对描述文本坐标空间的矩形和多边形的访问。还执行文本片段搜索，并通过按结构元素分组的 {@code TextFragments} 集合提供对搜索结果的访问。 </p> 示例演示如何在第一个 PDF 文档页面上找到每个段落的第一个文本片段并高亮显示它。 <p> // Open document Document doc = new Document("input.pdf"); // Create ParagraphAbsorber object ParagraphAbsorber absorber = new ParagraphAbsorber(); // Accept the absorber for first page absorber.visit(doc.getPages.get_Item(1)); // Get markup object of first page PageMarkup markup = absorber.getPageMarkups().get(0); // Loop through structure elements of the page text to find first text fragment of each paragraph for (MarkupSection section : markup.getSections()) { for (MarkupParagraph paragraph : section.getParagraphs()) { TextFragment fragment = paragraph.getFragments().get_Item(0); // Update text properties fragment.getTextState().setBackgroundColor (Color.getLightBlue()); } } // Save document doc.save(GetOutputPath("output.pdf")); </p> <hr> 当搜索完成后，{@code ParagraphAbsorber.PageMarkups} 集合将包含表示页面结构的 {@code PageMarkup} 对象，这些对象由 {@code MarkupSection} 和 {@code MarkupParagraph} 的集合组成。{@code TextFragment} 对象提供对搜索到的文本、文本属性的访问，并允许编辑文本和更改文本状态（字体、字号、颜色等）。
 
---------------------
-
-该示例演示了如何在第一个 PDF 文档页面上找到每个段落的第一个文本段并将其突出显示。 // 打开文档 Document doc = new Document("input.pdf"); // 创建 ParagraphAbsorber 对象 ParagraphAbsorber absorber = new ParagraphAbsorber(); // 接受第一页的吸收器 absorber.visit(doc.getPages.get\ _项目（1））； // 获取第一页的标记对象 PageMarkup markup = absorber.getPageMarkups().get(0); // 遍历页面文本的结构元素以找到每个段落的第一个文本片段 for (MarkupSection section : markup.getSections())\ for (MarkupParagraph paragraph : section.getParagraphs())\{ TextFragment 片段 = paragraph.getFragments().get\ _项目（0）； // 更新文本属性 fragment.getTextState().setBackgroundColor (Color.getLightBlue());\ }\} // 保存文档 doc.save(GetOutputPath("output.pdf"));
-
---------------------
-
-搜索完成后，ParagraphAbsorber.PageMarkups 集合将包含 PageMarkup 对象，该对象通过 MarkupSection 和 MarkupParagraph 的集合表示页面结构。 TextFragment 对象提供对搜索出现文本、文本属性的访问，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [ParagraphAbsorber()](#ParagraphAbsorber--) | 初始化 ParagraphAbsorber 的新实例，该实例执行对文档或页面的部分/段落的搜索。 |
-| [ParagraphAbsorber(int sectionsSearchDepth)](#ParagraphAbsorber-int-) | 初始化 ParagraphAbsorber 的新实例，该实例执行对文档或页面的部分/段落的搜索。 |
+| [ParagraphAbsorber](#ParagraphAbsorber--) | 初始化一个新的 {@code ParagraphAbsorber} 实例，该实例执行文档或页面的章节/段落搜索。 |
+| [ParagraphAbsorber](#ParagraphAbsorber-int-) | <p> 初始化一个新的 {@code ParagraphAbsorber} 实例，该实例执行文档或页面的章节/段落搜索。 </p> |
+| [ParagraphAbsorber](#ParagraphAbsorber-int-com.aspose.pdf.ParagraphAbsorberOptions-) | 初始化一个新的 {@code ParagraphAbsorber} 实例，该实例执行文档或页面的章节/段落搜索。 |
+| [ParagraphAbsorber](#ParagraphAbsorber-com.aspose.pdf.ParagraphAbsorberOptions-) | 初始化一个新的 {@code ParagraphAbsorber} 实例，该实例执行文档或页面的章节/段落搜索。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getPageMarkups()](#getPageMarkups--) | 获取已吸收的 PageMarkup 集合。 |
-| [getSectionsSearchDepth()](#getSectionsSearchDepth--) | 获取或设置一个值，该值指示对结构的更精细元素执行顺序搜索的次数。 |
-| [hashCode()](#hashCode--) |  |
-| [isMulticolumnParagraphsAllowed()](#isMulticolumnParagraphsAllowed--) | 获取或设置一个值，该值指示是否可以将下一节的起始文本行视为上一节最后一段的延续。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setMulticolumnParagraphsAllowed(boolean value)](#setMulticolumnParagraphsAllowed-boolean-) | 获取或设置一个值，该值指示是否可以将下一节的起始文本行视为上一节最后一段的延续。 |
-| [setSectionsSearchDepth(int value)](#setSectionsSearchDepth-int-) | 获取或设置一个值，该值指示对结构的更精细元素执行顺序搜索的次数。 |
-| [toString()](#toString--) |  |
-| [visit(Document doc)](#visit-com.aspose.pdf.Document-) | 对指定的部分和段落执行搜索[Document](../../com.aspose.pdf/document). |
-| [visit(Page page)](#visit-com.aspose.pdf.Page-) | 在指定的 Page 上执行搜索。 |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### ParagraphAbsorber() {#ParagraphAbsorber--}
+| [getPageMarkups](#getPageMarkups--) | 获取已吸收的 {@code PageMarkup} 集合。 |
+| [getParagraphAbsorberOptions](#getParagraphAbsorberOptions--) | 获取 ParagraphAbsorberOptions。 |
+| [getSectionsSearchDepth](#getSectionsSearchDepth--) | <p> 获取或设置一个值，用于指示对结构更细元素的顺序搜索将执行多少次。默认搜索深度为 3。这意味着对水平划分的章节（标题、段落等）进行三次搜索，对垂直划分的章节（列）也进行三次搜索。 </p><hr> 增加此值可能会导致性能略有下降，但搜索结果没有可见变化。减少此值可能导致章节中段落的判定不正确。如果您不只想获取页面结构的“粗略”元素，我们不建议将值设定低于默认值。 |
+| [getTextReplaceOptions](#getTextReplaceOptions--) | 获取或设置 TextReplaceOptions。 |
+| [isMulticolumnParagraphsAllowed](#isMulticolumnParagraphsAllowed--) | 获取或设置指示是否将下一节的起始文本行视为前一节最后一个段落的延续的值。 |
+| [setMulticolumnParagraphsAllowed](#setMulticolumnParagraphsAllowed-boolean-) | 获取或设置指示是否将下一节的起始文本行视为前一节最后一个段落的延续的值。 |
+| [setParagraphAbsorberOptions](#setParagraphAbsorberOptions-com.aspose.pdf.ParagraphAbsorberOptions-) | 设置 ParagraphAbsorberOptions。 |
+| [setSectionsSearchDepth](#setSectionsSearchDepth-int-) | <p> 获取或设置一个值，用于指示对结构更细元素的顺序搜索将执行多少次。默认搜索深度为 3。这意味着对水平划分的章节（标题、段落等）进行三次搜索，对垂直划分的章节（列）也进行三次搜索。 </p><hr> 增加此值可能会导致性能略有下降，但搜索结果没有可见变化。减少此值可能导致章节中段落的判定不正确。如果您不只想获取页面结构的“粗略”元素，我们不建议将值设定低于默认值。 |
+| [setTextReplaceOptions](#setTextReplaceOptions-com.aspose.pdf.TextReplaceOptions-) | 获取或设置 TextReplaceOptions。 |
+| [visit](#visit-com.aspose.pdf.Document-) | 在指定的 {@link Document} 上执行章节和段落的搜索。 |
+| [visit](#visit-com.aspose.pdf.Page-) | 在指定的 {@code Page} 上执行搜索。 |
+
+### ParagraphAbsorber {#ParagraphAbsorber--}
 ```
 public ParagraphAbsorber()
 ```
 
+初始化一个新的 {@code ParagraphAbsorber} 实例，该实例执行文档或页面的章节/段落搜索。
 
-初始化 ParagraphAbsorber 的新实例，该实例执行对文档或页面的部分/段落的搜索。
-
-### ParagraphAbsorber(int sectionsSearchDepth) {#ParagraphAbsorber-int-}
+### ParagraphAbsorber {#ParagraphAbsorber-int-}
 ```
 public ParagraphAbsorber(int sectionsSearchDepth)
 ```
 
+<p> 初始化一个新的 {@code ParagraphAbsorber} 实例，该实例执行文档或页面的章节/段落搜索。 </p>
 
-初始化 ParagraphAbsorber 的新实例，该实例执行对文档或页面的部分/段落的搜索。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sectionsSearchDepth | int | 将执行的对更精细结构元素的顺序搜索数。
+| sectionsSearchDepth |  | 将要执行的对结构更细元素的顺序搜索次数。 <hr> 有关该参数的更多提示，请参阅 {@code ParagraphAbsorber.SectionsSearchDepth} 属性。 <hr> |
 
---------------------
+### ParagraphAbsorber {#ParagraphAbsorber-int-com.aspose.pdf.ParagraphAbsorberOptions-}
+初始化一个新的 {@code ParagraphAbsorber} 实例，该实例执行文档或页面的章节/段落搜索。
 
-有关该参数的更多提示，请参阅 ParagraphAbsorber.SectionsSearchDepth 属性。
+### ParagraphAbsorber {#ParagraphAbsorber-com.aspose.pdf.ParagraphAbsorberOptions-}
+初始化一个新的 {@code ParagraphAbsorber} 实例，该实例执行文档或页面的章节/段落搜索。
 
- ----------------------|
-
-### equals(Object arg0) {#equals-java.lang.Object-}
+### getPageMarkups {#getPageMarkups--}
 ```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
+public List < PageMarkup > getPageMarkups()
 ```
 
+获取已吸收的 {@code PageMarkup} 集合。
 
+**Returns:**
+PageMarkup 实例列表
 
-
-**退货：**
-java.lang.Class<?>
-### getPageMarkups() {#getPageMarkups--}
+### getParagraphAbsorberOptions {#getParagraphAbsorberOptions--}
 ```
-public List<PageMarkup> getPageMarkups()
+public final ParagraphAbsorberOptions getParagraphAbsorberOptions()
 ```
 
+获取 ParagraphAbsorberOptions。
 
-获取已吸收的 PageMarkup 集合。
+**Returns:**
+ParagraphAbsorberOptions 实例
 
-**退货：**
-java.util.List<com.aspose.pdf.PageMarkup> - PageMarkup 实例列表
-### getSectionsSearchDepth() {#getSectionsSearchDepth--}
+### getSectionsSearchDepth {#getSectionsSearchDepth--}
 ```
 public int getSectionsSearchDepth()
 ```
 
+<p> 获取或设置一个值，用于指示对结构更细元素的顺序搜索将执行多少次。默认搜索深度为 3。这意味着对水平划分的章节（标题、段落等）进行三次搜索，对垂直划分的章节（列）也进行三次搜索。 </p><hr> 增加此值可能会导致性能略有下降，但搜索结果没有可见变化。减少此值可能导致章节中段落的判定不正确。如果您不只想获取页面结构的“粗略”元素，我们不建议将值设定低于默认值。
 
-获取或设置一个值，该值指示对结构的更精细元素执行顺序搜索的次数。默认搜索深度为 3。这意味着对水平划分的部分（标题、段落等）进行三次搜索，对垂直划分的部分（列）进行三次搜索。
+**Returns:**
+int 值
 
---------------------
-
-增加此值可能会导致性能轻微下降，而搜索结果没有明显变化。减小该值可能会导致章节中的段落判断错误。如果您不想只获得页面结构的“粗略”元素，我们不建议将值设置为小于默认值。
-
-**退货：**
-int - 整数值
-### hashCode() {#hashCode--}
+### getTextReplaceOptions {#getTextReplaceOptions--}
 ```
-public native int hashCode()
+public final TextReplaceOptions getTextReplaceOptions()
 ```
 
+获取或设置 TextReplaceOptions。
 
+**Returns:**
+TextReplaceOptions 实例
 
-
-**退货：**
-整数
-### isMulticolumnParagraphsAllowed() {#isMulticolumnParagraphsAllowed--}
+### isMulticolumnParagraphsAllowed {#isMulticolumnParagraphsAllowed--}
 ```
 public final boolean isMulticolumnParagraphsAllowed()
 ```
 
+获取或设置指示是否将下一节的起始文本行视为前一节最后一个段落的延续的值。
 
-获取或设置一个值，该值指示是否可以将下一节的起始文本行视为上一节最后一段的延续。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setMulticolumnParagraphsAllowed(boolean value) {#setMulticolumnParagraphsAllowed-boolean-}
+### setMulticolumnParagraphsAllowed {#setMulticolumnParagraphsAllowed-boolean-}
 ```
 public final void setMulticolumnParagraphsAllowed(boolean value)
 ```
 
+获取或设置指示是否将下一节的起始文本行视为前一节最后一个段落的延续的值。
 
-获取或设置一个值，该值指示是否可以将下一节的起始文本行视为上一节最后一段的延续。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setSectionsSearchDepth(int value) {#setSectionsSearchDepth-int-}
+### setParagraphAbsorberOptions {#setParagraphAbsorberOptions-com.aspose.pdf.ParagraphAbsorberOptions-}
+设置 ParagraphAbsorberOptions。
+
+### setSectionsSearchDepth {#setSectionsSearchDepth-int-}
 ```
 public void setSectionsSearchDepth(int value)
 ```
 
+<p> 获取或设置一个值，用于指示对结构更细元素的顺序搜索将执行多少次。默认搜索深度为 3。这意味着对水平划分的章节（标题、段落等）进行三次搜索，对垂直划分的章节（列）也进行三次搜索。 </p><hr> 增加此值可能会导致性能略有下降，但搜索结果没有可见变化。减少此值可能导致章节中段落的判定不正确。如果您不只想获取页面结构的“粗略”元素，我们不建议将值设定低于默认值。
 
-获取或设置一个值，该值指示对结构的更精细元素执行顺序搜索的次数。默认搜索深度为 3。这意味着对水平划分的部分（标题、段落等）进行三次搜索，对垂直划分的部分（列）进行三次搜索。
-
---------------------
-
-增加此值可能会导致性能轻微下降，而搜索结果没有明显变化。减小该值可能会导致章节中的段落判断错误。如果您不想只获得页面结构的“粗略”元素，我们不建议将值设置为小于默认值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### toString() {#toString--}
-```
-public String toString()
-```
+### setTextReplaceOptions {#setTextReplaceOptions-com.aspose.pdf.TextReplaceOptions-}
+获取或设置 TextReplaceOptions。
 
+### visit {#visit-com.aspose.pdf.Document-}
+在指定的 {@link Document} 上执行章节和段落的搜索。
 
-
-
-**退货：**
-java.lang.字符串
-### visit(Document doc) {#visit-com.aspose.pdf.Document-}
-```
-public void visit(Document doc)
-```
-
-
-对指定的部分和段落执行搜索[Document](../../com.aspose.pdf/document).
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| doc | [Document](../../com.aspose.pdf/document) | Pdf 文档对象。 |
-
-### visit(Page page) {#visit-com.aspose.pdf.Page-}
-```
-public void visit(Page page)
-```
-
-
-在指定的 Page 上执行搜索。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | Pdf 文档页面对象。 |
-
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### visit {#visit-com.aspose.pdf.Page-}
+在指定的 {@code Page} 上执行搜索。

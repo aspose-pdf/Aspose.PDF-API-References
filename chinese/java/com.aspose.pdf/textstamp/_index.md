@@ -1,952 +1,424 @@
 ---
-title: TextStamp
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: Reresents 文本邮票。
+title: "TextStamp"
+linktitle: "TextStamp"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示文本印章。"
 type: docs
-weight: 388
+weight: 5320
 url: /zh/java/com.aspose.pdf/textstamp/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.Stamp](../../com.aspose.pdf/stamp)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Stamp com.aspose.pdf.TextStamp, com.aspose.pdf.Stamp, com.aspose.pdf.TextStamp
+
 ```
 public class TextStamp extends Stamp
 ```
 
-Reresents 文本邮票。
+表示文本印章。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [TextStamp(String value)](#TextStamp-java.lang.String-) | 初始化 TextStamp 类的新实例。 |
-| [TextStamp(String value, TextState textState)](#TextStamp-java.lang.String-com.aspose.pdf.TextState-) | 初始化 TextStamp 类的新实例。 |
-| [TextStamp(FormattedText formattedText)](#TextStamp-com.aspose.pdf.facades.FormattedText-) | 使用 formattedText 对象初始化 TextStamp 类的新实例 |
+| [TextStamp](#TextStamp-com.aspose.pdf.facades.FormattedText-) | 使用 formattedText 对象初始化 {@code TextStamp} 类的新实例 |
+| [TextStamp](#TextStamp-com.aspose.pdf.facades.FormattedText-com.aspose.pdf.TextState-) | 使用 formattedText 对象初始化 {@code TextStamp} 类的新实例 |
+| [TextStamp](#TextStamp-java.lang.String-) | 初始化 {@code TextStamp} 类的新实例。 |
+| [TextStamp](#TextStamp-java.lang.String-com.aspose.pdf.TextState-) | 初始化 TextStamp 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBottomMargin()](#getBottomMargin--) | 获取图章的底部边距。 |
-| [getClass()](#getClass--) |  |
-| [getDefaultFont()](#getDefaultFont--) | 返回默认字体 |
-| [getDefaultFontSize()](#getDefaultFontSize--) | 默认字体大小 |
-| [getDraw()](#getDraw--) | 此属性决定如何在页面上绘制图章。 |
-| [getHeight()](#getHeight--) | 页面上图章的所需高度。 |
-| [getHorizontalAlignment()](#getHorizontalAlignment--) | 获取页面上图章的水平对齐方式。 |
-| [getLeftMargin()](#getLeftMargin--) | 获取邮票的左边距。 |
-| [getMaxRowWidth()](#getMaxRowWidth--) | WordWrap 选项的最大行高。 |
-| [getOpacity()](#getOpacity--) | 获取一个值以指示图章不透明度。 |
-| [getOutlineOpacity()](#getOutlineOpacity--) | 获取一个值以指示图章轮廓不透明度。 |
-| [getOutlineWidth()](#getOutlineWidth--) | 获取图章轮廓宽度的值。 |
-| [getRightMargin()](#getRightMargin--) | 获取邮票的右边距。 |
-| [getRotate()](#getRotate--) | 根据旋转值获取图章内容的旋转。 |
-| [getRotateAngle()](#getRotateAngle--) | 获取图章的旋转角度（以度为单位）。 |
-| [getStampId()](#getStampId--) | 获取邮票 ID。 |
-| [getTextAlignment()](#getTextAlignment--) | 图章内文本的对齐方式。 |
-| [getTextState()](#getTextState--) | 获取图章的文本属性。 |
-| [getTopMargin()](#getTopMargin--) | 获取邮票的上边距。 |
-| [getTreatYIndentAsBaseLine()](#getTreatYIndentAsBaseLine--) | 定义放置文本的坐标原点。 |
-| [getValue()](#getValue--) | 获取在页面上用作标记的字符串值。 |
-| [getVerticalAlignment()](#getVerticalAlignment--) | 获取页面上图章的垂直对齐方式。 |
-| [getWidth()](#getWidth--) | 页面上图章的所需宽度。 |
-| [getXIndent()](#getXIndent--) | 获取水平标记坐标，从左侧开始。 |
-| [getYIndent()](#getYIndent--) | 从底部开始获取垂直图章坐标。 |
-| [getZoom()](#getZoom--) | 获取图章的缩放因子。 |
-| [getZoomX()](#getZoomX--) | 获取图章的水平缩放因子。 |
-| [getZoomY()](#getZoomY--) | 获取图章的垂直缩放因子。 |
-| [hashCode()](#hashCode--) |  |
-| [isBackground()](#isBackground--) | 获取一个 bool 值，指示内容被标记为背景。 |
-| [isJustify()](#isJustify--) | 定义文本对齐方式。 |
-| [isScale()](#isScale--) | 定义文本的缩放比例。 |
-| [isWordWrap()](#isWordWrap--) | 定义自动换行。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [put(Page page)](#put-com.aspose.pdf.Page-) | 在页面上添加文本标记。 |
-| [setBackground(boolean value)](#setBackground-boolean-) | 设置一个 bool 值，指示内容被标记为背景。 |
-| [setBottomMargin(double value)](#setBottomMargin-double-) | 设置图章的下边距。 |
-| [setDraw(boolean value)](#setDraw-boolean-) | 此属性决定如何在页面上绘制图章。 |
-| [setHeight(double value)](#setHeight-double-) | 页面上图章的所需高度。 |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | 设置页面上图章的水平对齐方式。 |
-| [setJustify(boolean value)](#setJustify-boolean-) | 定义文本对齐方式。 |
-| [setLeftMargin(double value)](#setLeftMargin-double-) | 设置图章的左边距。 |
-| [setMaxRowWidth(double value)](#setMaxRowWidth-double-) | WordWrap 选项的最大行高。 |
-| [setOpacity(double value)](#setOpacity-double-) | 设置一个值以指示图章不透明度。 |
-| [setOutlineOpacity(double value)](#setOutlineOpacity-double-) | 设置一个值以指示图章轮廓不透明度。 |
-| [setOutlineWidth(double value)](#setOutlineWidth-double-) | 设置图章轮廓宽度的值。 |
-| [setRightMargin(double value)](#setRightMargin-double-) | 设置图章的右边距。 |
-| [setRotate(int value)](#setRotate-int-) | 根据旋转值设置图章内容的旋转。 |
-| [setRotateAngle(double value)](#setRotateAngle-double-) | 设置图章的旋转角度（以度为单位）。 |
-| [setScale(boolean value)](#setScale-boolean-) | 定义文本的缩放比例。 |
-| [setStampId(int value)](#setStampId-int-) | 设置戳记 ID。 |
-| [setTextAlignment(int value)](#setTextAlignment-int-) | 图章内文本的对齐方式。 |
-| [setTopMargin(double value)](#setTopMargin-double-) | 设置图章的上边距。 |
-| [setTreatYIndentAsBaseLine(boolean value)](#setTreatYIndentAsBaseLine-boolean-) | 定义放置文本的坐标原点。 |
-| [setValue(String value)](#setValue-java.lang.String-) | 设置在页面上用作标记的字符串值。 |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | 设置页面上图章的垂直对齐方式。 |
-| [setWidth(double value)](#setWidth-double-) | 页面上图章的所需宽度。 |
-| [setWordWrap(boolean value)](#setWordWrap-boolean-) | 定义自动换行。 |
-| [setXIndent(double value)](#setXIndent-double-) | 设置水平标记坐标，从左侧开始。 |
-| [setYIndent(double value)](#setYIndent-double-) | 设置垂直图章坐标，从底部开始。 |
-| [setZoom(double value)](#setZoom-double-) | 获取图章的缩放因子。 |
-| [setZoomX(double value)](#setZoomX-double-) | 设置图章的水平缩放系数。 |
-| [setZoomY(double value)](#setZoomY-double-) | 设置图章的垂直缩放系数。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### TextStamp(String value) {#TextStamp-java.lang.String-}
-```
-public TextStamp(String value)
-```
+| [getAutoAdjustFontSizePrecision](#getAutoAdjustFontSizePrecision--) | 自动调整字体大小精度。默认值：0.1； |
+| [getAutoAdjustFontSizeToFitStampRectangle](#getAutoAdjustFontSizeToFitStampRectangle--) | 如果启用，字体大小将自动调整以适应印章矩形的尺寸：{@code Width}({@code Stamp#getWidth}/{@code Stamp#setWidth(double)}) 和 {@code Height}({@code Stamp#getHeight}/{@code Stamp#setHeight(double)})。默认宽度和高度来源于页面矩形。 |
+| [getDefaultFont](#getDefaultFont--) | 返回默认字体 |
+| [getDefaultFontSize](#getDefaultFontSize--) | 默认字体大小 |
+| [getDraw](#getDraw--) | 此属性决定印章在页面上的绘制方式。如果 Draw = true，则印章以图形操作符绘制；如果 draw = false，则印章以文本方式绘制。 |
+| [getFontSize](#getFontSize--) | 印章放置后的实际字体大小。（如果启用了 'AutoAdjustFontSizeToFitStampRectangle' 选项，可能会与通过构造函数提供的初始字体大小不同。） |
+| [getHeight](#getHeight--) | 页面上印章的期望高度。 |
+| [getMaxRowWidth](#getMaxRowWidth--) | WordWrap 选项的最大行高。 |
+| [getNoCharacterBehavior](#getNoCharacterBehavior--) | 获取或设置模式，以定义在字体不包含所请求字符时的行为。 |
+| [getReplacementFont](#getReplacementFont--) | 获取或设置用于替换的字体，如果用户字体不包含所需字符。 |
+| [getTextAlignment](#getTextAlignment--) | 印章内部文本的对齐方式。 |
+| [getTextState](#getTextState--) | 获取印章的文本属性。详情请参阅 {@code TextState}。 |
+| [getTreatYIndentAsBaseLine](#getTreatYIndentAsBaseLine--) | 定义放置文本的坐标原点。如果 TreatYIndentAsBaseLine = true（当 Draw = true 时的默认值），YIndent 值将被视为文本基线。如果 TreatYIndentAsBaseLine = false（当 Draw = false 时的默认值），YIndent 值将被视为文本的底部（下降线）。 |
+| [getValue](#getValue--) | 获取用作页面印章的字符串值。 |
+| [getWidth](#getWidth--) | 页面上印章的期望宽度。 |
+| [getWordWrapMode](#getWordWrapMode--) | 获取或设置文本渲染的自动换行模式。 |
+| [isJustify](#isJustify--) | 定义文本对齐方式。如果此属性设置为 true，文本的左、右边缘将对齐。默认值：false。 |
+| [isScale](#isScale--) | 定义文本的缩放。如果此属性设置为 true 并且指定了 Width 值，文本将被缩放以适应指定的宽度。 |
+| [isWordWrap](#isWordWrap--) | 定义自动换行。如果此属性设置为 true 并且指定了 Width 值，文本将被分成多行以适应指定的宽度。默认值：false。 |
+| [put](#put-com.aspose.pdf.Page-) | 在页面上添加文本印章。 |
+| [setAutoAdjustFontSizePrecision](#setAutoAdjustFontSizePrecision-float-) | 自动调整字体大小精度。默认值：0.1； |
+| [setAutoAdjustFontSizeToFitStampRectangle](#setAutoAdjustFontSizeToFitStampRectangle-boolean-) | 如果启用，字体大小将自动调整以适应印章矩形的尺寸：{@code Width}({@code Stamp#getWidth}/{@code Stamp#setWidth(double)}) 和 {@code Height}({@code Stamp#getHeight}/{@code Stamp#setHeight(double)})。默认宽度和高度来源于页面矩形。 |
+| [setDraw](#setDraw-boolean-) | 此属性决定印章在页面上的绘制方式。如果 Draw = true，则印章以图形操作符绘制；如果 draw = false，则印章以文本方式绘制。 |
+| [setHeight](#setHeight-double-) | 页面上印章的期望高度。 |
+| [setJustify](#setJustify-boolean-) | 定义文本对齐方式。如果此属性设置为 true，文本的左、右边缘将对齐。默认值：false。 |
+| [setMaxRowWidth](#setMaxRowWidth-double-) | WordWrap 选项的最大行高。 |
+| [setNoCharacterBehavior](#setNoCharacterBehavior-int-) | 获取或设置模式，以定义在字体不包含所请求字符时的行为。 |
+| [setReplacementFont](#setReplacementFont-com.aspose.pdf.Font-) | 获取或设置用于替换的字体，如果用户字体不包含所需字符。 |
+| [setScale](#setScale-boolean-) | 定义文本的缩放。如果此属性设置为 true 并且指定了 Width 值，文本将被缩放以适应指定的宽度。 |
+| [setTextAlignment](#setTextAlignment-com.aspose.pdf.HorizontalAlignment-) | 印章内部文本的对齐方式。 |
+| [setTreatYIndentAsBaseLine](#setTreatYIndentAsBaseLine-boolean-) | 定义放置文本的坐标原点。如果 TreatYIndentAsBaseLine = true（当 Draw = true 时的默认值），YIndent 值将被视为文本基线。如果 TreatYIndentAsBaseLine = false（当 Draw = false 时的默认值），YIndent 值将被视为文本的底部（下降线）。 |
+| [setValue](#setValue-java.lang.String-) | 设置用作页面印章的字符串值。 |
+| [setWidth](#setWidth-double-) | 页面上印章的期望宽度。 |
+| [setWordWrap](#setWordWrap-boolean-) | 定义自动换行。如果此属性设置为 true 并且指定了 Width 值，文本将被分成多行以适应指定的宽度。默认值：false。 |
+| [setWordWrapMode](#setWordWrapMode-int-) | 获取或设置文本渲染的自动换行模式。 |
 
+### TextStamp {#TextStamp-com.aspose.pdf.facades.FormattedText-}
+使用 formattedText 对象初始化 {@code TextStamp} 类的新实例
 
+### TextStamp {#TextStamp-com.aspose.pdf.facades.FormattedText-com.aspose.pdf.TextState-}
+使用 formattedText 对象初始化 {@code TextStamp} 类的新实例
+
+### TextStamp {#TextStamp-java.lang.String-}
+初始化 {@code TextStamp} 类的新实例。
+
+### TextStamp {#TextStamp-java.lang.String-com.aspose.pdf.TextState-}
 初始化 TextStamp 类的新实例。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 邮票价值。 |
-
-### TextStamp(String value, TextState textState) {#TextStamp-java.lang.String-com.aspose.pdf.TextState-}
+### getAutoAdjustFontSizePrecision {#getAutoAdjustFontSizePrecision--}
 ```
-public TextStamp(String value, TextState textState)
+public final float getAutoAdjustFontSizePrecision()
 ```
 
+自动调整字体大小精度。默认值：0.1；
 
-初始化 TextStamp 类的新实例。
+**Returns:**
+float 值
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 邮票价值。 |
-| textState | [TextState](../../com.aspose.pdf/textstate) | 标记文本状态。 |
-
-### TextStamp(FormattedText formattedText) {#TextStamp-com.aspose.pdf.facades.FormattedText-}
+### getAutoAdjustFontSizeToFitStampRectangle {#getAutoAdjustFontSizeToFitStampRectangle--}
 ```
-public TextStamp(FormattedText formattedText)
+public final boolean getAutoAdjustFontSizeToFitStampRectangle()
 ```
 
+如果启用，字体大小将自动调整以适应印章矩形的尺寸：{@code Width}({@code Stamp#getWidth}/{@code Stamp#setWidth(double)}) 和 {@code Height}({@code Stamp#getHeight}/{@code Stamp#setHeight(double)})。默认宽度和高度来源于页面矩形。
 
-使用 formattedText 对象初始化 TextStamp 类的新实例
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 包含图章文本的 FormattedText 对象。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
+**Returns:**
 布尔值
-### getBottomMargin() {#getBottomMargin--}
-```
-public double getBottomMargin()
-```
 
-
-获取图章的底部边距。
-
-**退货：**
-双倍价值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getDefaultFont() {#getDefaultFont--}
+### getDefaultFont {#getDefaultFont--}
 ```
 public static Font getDefaultFont()
 ```
 
-
 返回默认字体
 
-**退货：**
-[Font](../../com.aspose.pdf/font) - com.aspose.pdf.Font 对象
-### getDefaultFontSize() {#getDefaultFontSize--}
+**Returns:**
+com.aspose.pdf.Font 对象
+
+### getDefaultFontSize {#getDefaultFontSize--}
 ```
 public static float getDefaultFontSize()
 ```
 
-
 默认字体大小
 
-**退货：**
-float - 浮点值
-### getDraw() {#getDraw--}
+**Returns:**
+float 值
+
+### getDraw {#getDraw--}
 ```
 public boolean getDraw()
 ```
 
+此属性决定印章在页面上的绘制方式。如果 Draw = true，则印章以图形操作符绘制；如果 draw = false，则印章以文本方式绘制。
 
-此属性决定如何在页面上绘制图章。如果 Draw = true stamp 被绘制为图形运算符，如果 draw = false 则 stamp 被绘制为文本。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getHeight() {#getHeight--}
+### getFontSize {#getFontSize--}
+```
+public final float getFontSize()
+```
+
+印章放置后的实际字体大小。（如果启用了 'AutoAdjustFontSizeToFitStampRectangle' 选项，可能会与通过构造函数提供的初始字体大小不同。）
+
+**Returns:**
+float 值
+
+### getHeight {#getHeight--}
 ```
 public double getHeight()
 ```
 
+页面上印章的期望高度。
 
-页面上图章的所需高度。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getHorizontalAlignment() {#getHorizontalAlignment--}
-```
-public int getHorizontalAlignment()
-```
-
-
-获取页面上图章的水平对齐方式。
-
-**退货：**
-int - HorizontalAlignment 值
-### getLeftMargin() {#getLeftMargin--}
-```
-public double getLeftMargin()
-```
-
-
-获取邮票的左边距。
-
-**退货：**
-双倍价值
-### getMaxRowWidth() {#getMaxRowWidth--}
+### getMaxRowWidth {#getMaxRowWidth--}
 ```
 public double getMaxRowWidth()
 ```
 
-
 WordWrap 选项的最大行高。
 
-**退货：**
-双倍价值
-### getOpacity() {#getOpacity--}
-```
-public double getOpacity()
-```
+**Returns:**
+double 值
 
-
-获取一个值以指示图章不透明度。该值从 0.0 到 1.0。默认情况下，该值为 1.0。
-
-**退货：**
-双倍价值
-### getOutlineOpacity() {#getOutlineOpacity--}
+### getNoCharacterBehavior {#getNoCharacterBehavior--}
 ```
-public double getOutlineOpacity()
+public final int getNoCharacterBehavior()
 ```
 
+获取或设置模式，以定义在字体不包含所请求字符时的行为。
 
-获取一个值以指示图章轮廓不透明度。该值从 0.0 到 1.0。默认情况下，该值为 1.0。
+**Returns:**
+NoCharacterAction 元素
 
-**退货：**
-双倍价值
-### getOutlineWidth() {#getOutlineWidth--}
+### getReplacementFont {#getReplacementFont--}
 ```
-public double getOutlineWidth()
-```
-
-
-获取图章轮廓宽度的值。默认情况下，该值为 1.0。
-
-**退货：**
-双倍价值
-### getRightMargin() {#getRightMargin--}
-```
-public double getRightMargin()
+public final Font getReplacementFont()
 ```
 
+获取或设置用于替换的字体，如果用户字体不包含所需字符。
 
-获取邮票的右边距。
+**Returns:**
+字体实例
 
-**退货：**
-双倍价值
-### getRotate() {#getRotate--}
+### getTextAlignment {#getTextAlignment--}
 ```
-public int getRotate()
-```
-
-
-根据旋转值获取图章内容的旋转。笔记。此属性适用于 90 度的倍数（0、90、180、270 度）的设置角度。要设置任意角度，请使用 RotateAngle 属性。如果 ArbitraryAngle 设置的角度不是 90 的倍数，则 Rotate 属性返回 Rotation.None。
-
-**退货：**
-int - 旋转值
-### getRotateAngle() {#getRotateAngle--}
-```
-public double getRotateAngle()
+public HorizontalAlignment getTextAlignment()
 ```
 
+印章内部文本的对齐方式。
 
-获取图章的旋转角度（以度为单位）。此属性允许设置任意旋转角度。
+**Returns:**
+HorizontalAlignment 值 @see HorizontalAlignment
 
-**退货：**
-双倍价值
-### getStampId() {#getStampId--}
-```
-public int getStampId()
-```
-
-
-获取邮票 ID。
-
-**退货：**
-int - 邮票的标识符。
-### getTextAlignment() {#getTextAlignment--}
-```
-public int getTextAlignment()
-```
-
-
-图章内文本的对齐方式。
-
-**退货：**
-int - HorizontalAlignment 值
-### getTextState() {#getTextState--}
+### getTextState {#getTextState--}
 ```
 public TextState getTextState()
 ```
 
+获取印章的文本属性。详情请参阅 {@code TextState}。
 
-获取图章的文本属性。有关详细信息，请参见文本状态。
+**Returns:**
+TextState 元素
 
-**退货：**
-[TextState](../../com.aspose.pdf/textstate) - 文本状态元素
-### getTopMargin() {#getTopMargin--}
-```
-public double getTopMargin()
-```
-
-
-获取邮票的上边距。
-
-**退货：**
-双倍价值
-### getTreatYIndentAsBaseLine() {#getTreatYIndentAsBaseLine--}
+### getTreatYIndentAsBaseLine {#getTreatYIndentAsBaseLine--}
 ```
 public boolean getTreatYIndentAsBaseLine()
 ```
 
+定义放置文本的坐标原点。如果 TreatYIndentAsBaseLine = true（当 Draw = true 时的默认值），YIndent 值将被视为文本基线。如果 TreatYIndentAsBaseLine = false（当 Draw = false 时的默认值），YIndent 值将被视为文本的底部（下降线）。
 
-定义放置文本的坐标原点。如果 TreatYIndentAsBaseLine = true（当 Draw = true 时默认）YIndent 值将被视为文本基线。如果 TreatYIndentAsBaseLine = false（当 Draw = false 时默认）YIndent 值将被视为文本的底部（下降线）。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getValue() {#getValue--}
+### getValue {#getValue--}
 ```
 public String getValue()
 ```
 
+获取用作页面印章的字符串值。
 
-获取在页面上用作标记的字符串值。
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getVerticalAlignment() {#getVerticalAlignment--}
-```
-public int getVerticalAlignment()
-```
-
-
-获取页面上图章的垂直对齐方式。
-
-**退货：**
-int - VerticalAlignment 值
-### getWidth() {#getWidth--}
+### getWidth {#getWidth--}
 ```
 public double getWidth()
 ```
 
+页面上印章的期望宽度。
 
-页面上图章的所需宽度。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getXIndent() {#getXIndent--}
+### getWordWrapMode {#getWordWrapMode--}
 ```
-public double getXIndent()
-```
-
-
-获取水平标记坐标，从左侧开始。
-
-**退货：**
-双倍价值
-### getYIndent() {#getYIndent--}
-```
-public double getYIndent()
+public final int getWordWrapMode()
 ```
 
+获取或设置文本渲染的自动换行模式。
 
-从底部开始获取垂直图章坐标。
+**Returns:**
+WordWrapMode 元素
 
-**退货：**
-双倍价值
-### getZoom() {#getZoom--}
-```
-public double getZoom()
-```
-
-
-获取图章的缩放因子。允许缩放图章。请注意，一对属性 ZoomX 和 ZoomY 允许分别为每个轴设置缩放因子。此属性的设置会同时更改 ZoomX 和 ZoomY 属性。如果 ZoomX 和 ZoomY 不同，则 Zoom 属性返回 ZoomX 值。
-
-**退货：**
-双倍价值
-### getZoomX() {#getZoomX--}
-```
-public double getZoomX()
-```
-
-
-获取图章的水平缩放因子。允许水平缩放图章。
-
-**退货：**
-双倍价值
-### getZoomY() {#getZoomY--}
-```
-public double getZoomY()
-```
-
-
-获取图章的垂直缩放因子。允许垂直缩放图章。
-
-**退货：**
-双倍价值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isBackground() {#isBackground--}
-```
-public boolean isBackground()
-```
-
-
-获取一个 bool 值，指示内容被标记为背景。如果该值为 true，则戳记内容位于底部。默认情况下，该值为 false，戳记内容位于顶部。
-
-**退货：**
-boolean - 布尔值
-### isJustify() {#isJustify--}
+### isJustify {#isJustify--}
 ```
 public boolean isJustify()
 ```
 
+定义文本对齐方式。如果此属性设置为 true，文本的左、右边缘将对齐。默认值：false。
 
-定义文本对齐方式。如果此属性设置为 true，则文本的左右边缘对齐。默认值：假。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isScale() {#isScale--}
+### isScale {#isScale--}
 ```
 public boolean isScale()
 ```
 
+定义文本的缩放。如果此属性设置为 true 并且指定了 Width 值，文本将被缩放以适应指定的宽度。
 
-定义文本的缩放比例。如果此属性设置为 true 并指定了 Width 值，文本将被缩放以适应指定的宽度。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isWordWrap() {#isWordWrap--}
+### isWordWrap {#isWordWrap--}
 ```
-public boolean isWordWrap()
-```
-
-
-定义自动换行。如果此属性设置为 true 并指定了 Width 值，文本将分成几行以适应指定的宽度。默认值：假。
-
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
+@Deprecated public boolean isWordWrap()
 ```
 
+定义自动换行。如果此属性设置为 true 并且指定了 Width 值，文本将被分成多行以适应指定的宽度。默认值：false。
 
+**Returns:**
+布尔值 @deprecated "Use WordWrapMode instead."
 
+### put {#put-com.aspose.pdf.Page-}
+在页面上添加文本印章。
 
-### notifyAll() {#notifyAll--}
+### setAutoAdjustFontSizePrecision {#setAutoAdjustFontSizePrecision-float-}
 ```
-public final native void notifyAll()
-```
-
-
-
-
-### put(Page page) {#put-com.aspose.pdf.Page-}
-```
-public void put(Page page)
+public final void setAutoAdjustFontSizePrecision(float value)
 ```
 
+自动调整字体大小精度。默认值：0.1；
 
-在页面上添加文本标记。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | 冲压页面。 |
+| 值 |  | float 值 |
 
-### setBackground(boolean value) {#setBackground-boolean-}
+### setAutoAdjustFontSizeToFitStampRectangle {#setAutoAdjustFontSizeToFitStampRectangle-boolean-}
 ```
-public void setBackground(boolean value)
+public final void setAutoAdjustFontSizeToFitStampRectangle(boolean value)
 ```
 
+如果启用，字体大小将自动调整以适应印章矩形的尺寸：{@code Width}({@code Stamp#getWidth}/{@code Stamp#setWidth(double)}) 和 {@code Height}({@code Stamp#getHeight}/{@code Stamp#setHeight(double)})。默认宽度和高度来源于页面矩形。
 
-设置一个 bool 值，指示内容被标记为背景。如果该值为 true，则戳记内容位于底部。默认情况下，该值为 false，戳记内容位于顶部。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setBottomMargin(double value) {#setBottomMargin-double-}
-```
-public void setBottomMargin(double value)
-```
-
-
-设置图章的下边距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setDraw(boolean value) {#setDraw-boolean-}
+### setDraw {#setDraw-boolean-}
 ```
 public void setDraw(boolean value)
 ```
 
+此属性决定印章在页面上的绘制方式。如果 Draw = true，则印章以图形操作符绘制；如果 draw = false，则印章以文本方式绘制。
 
-此属性决定如何在页面上绘制图章。如果 Draw = true stamp 被绘制为图形运算符，如果 draw = false 则 stamp 被绘制为文本。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setHeight(double value) {#setHeight-double-}
+### setHeight {#setHeight-double-}
 ```
 public void setHeight(double value)
 ```
 
+页面上印章的期望高度。
 
-页面上图章的所需高度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
-```
-public void setHorizontalAlignment(int value)
-```
-
-
-设置页面上图章的水平对齐方式。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | HorizontalAlignment 值 |
-
-### setJustify(boolean value) {#setJustify-boolean-}
+### setJustify {#setJustify-boolean-}
 ```
 public void setJustify(boolean value)
 ```
 
+定义文本对齐方式。如果此属性设置为 true，文本的左、右边缘将对齐。默认值：false。
 
-定义文本对齐方式。如果此属性设置为 true，则文本的左右边缘对齐。默认值：假。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setLeftMargin(double value) {#setLeftMargin-double-}
-```
-public void setLeftMargin(double value)
-```
-
-
-设置图章的左边距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setMaxRowWidth(double value) {#setMaxRowWidth-double-}
+### setMaxRowWidth {#setMaxRowWidth-double-}
 ```
 public void setMaxRowWidth(double value)
 ```
 
-
 WordWrap 选项的最大行高。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setOpacity(double value) {#setOpacity-double-}
+### setNoCharacterBehavior {#setNoCharacterBehavior-int-}
 ```
-public void setOpacity(double value)
+public final void setNoCharacterBehavior(int value)
 ```
 
+获取或设置模式，以定义在字体不包含所请求字符时的行为。
 
-设置一个值以指示图章不透明度。该值从 0.0 到 1.0。默认情况下，该值为 1.0。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | NoCharacterAction 元素 |
 
-### setOutlineOpacity(double value) {#setOutlineOpacity-double-}
-```
-public void setOutlineOpacity(double value)
-```
+### setReplacementFont {#setReplacementFont-com.aspose.pdf.Font-}
+获取或设置用于替换的字体，如果用户字体不包含所需字符。
 
-
-设置一个值以指示图章轮廓不透明度。该值从 0.0 到 1.0。默认情况下，该值为 1.0。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setOutlineWidth(double value) {#setOutlineWidth-double-}
-```
-public void setOutlineWidth(double value)
-```
-
-
-设置图章轮廓宽度的值。默认情况下，该值为 1.0。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setRightMargin(double value) {#setRightMargin-double-}
-```
-public void setRightMargin(double value)
-```
-
-
-设置图章的右边距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setRotate(int value) {#setRotate-int-}
-```
-public void setRotate(int value)
-```
-
-
-根据旋转值设置图章内容的旋转。笔记。此属性适用于 90 度的倍数（0、90、180、270 度）的设置角度。要设置任意角度，请使用 RotateAngle 属性。如果 ArbitraryAngle 设置的角度不是 90 的倍数，则 Rotate 属性返回 Rotation.None。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | 整数值 |
-
-### setRotateAngle(double value) {#setRotateAngle-double-}
-```
-public void setRotateAngle(double value)
-```
-
-
-设置图章的旋转角度（以度为单位）。此属性允许设置任意旋转角度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 旋转角度 |
-
-### setScale(boolean value) {#setScale-boolean-}
+### setScale {#setScale-boolean-}
 ```
 public void setScale(boolean value)
 ```
 
+定义文本的缩放。如果此属性设置为 true 并且指定了 Width 值，文本将被缩放以适应指定的宽度。
 
-定义文本的缩放比例。如果此属性设置为 true 并指定了 Width 值，文本将被缩放以适应指定的宽度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setStampId(int value) {#setStampId-int-}
-```
-public void setStampId(int value)
-```
+### setTextAlignment {#setTextAlignment-com.aspose.pdf.HorizontalAlignment-}
+印章内部文本的对齐方式。
 
-
-设置戳记 ID。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | Stamp ID 的新值。 |
-
-### setTextAlignment(int value) {#setTextAlignment-int-}
-```
-public void setTextAlignment(int value)
-```
-
-
-图章内文本的对齐方式。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | HorizontalAlignment 值 |
-
-### setTopMargin(double value) {#setTopMargin-double-}
-```
-public void setTopMargin(double value)
-```
-
-
-设置图章的上边距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setTreatYIndentAsBaseLine(boolean value) {#setTreatYIndentAsBaseLine-boolean-}
+### setTreatYIndentAsBaseLine {#setTreatYIndentAsBaseLine-boolean-}
 ```
 public void setTreatYIndentAsBaseLine(boolean value)
 ```
 
+定义放置文本的坐标原点。如果 TreatYIndentAsBaseLine = true（当 Draw = true 时的默认值），YIndent 值将被视为文本基线。如果 TreatYIndentAsBaseLine = false（当 Draw = false 时的默认值），YIndent 值将被视为文本的底部（下降线）。
 
-定义放置文本的坐标原点。如果 TreatYIndentAsBaseLine = true（当 Draw = true 时默认）YIndent 值将被视为文本基线。如果 TreatYIndentAsBaseLine = false（当 Draw = false 时默认）YIndent 值将被视为文本的底部（下降线）。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setValue(String value) {#setValue-java.lang.String-}
-```
-public void setValue(String value)
-```
+### setValue {#setValue-java.lang.String-}
+设置用作页面印章的字符串值。
 
-
-设置在页面上用作标记的字符串值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
-```
-public void setVerticalAlignment(int value)
-```
-
-
-设置页面上图章的垂直对齐方式。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | VerticalAlignment 值 |
-
-### setWidth(double value) {#setWidth-double-}
+### setWidth {#setWidth-double-}
 ```
 public void setWidth(double value)
 ```
 
+页面上印章的期望宽度。
 
-页面上图章的所需宽度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setWordWrap(boolean value) {#setWordWrap-boolean-}
+### setWordWrap {#setWordWrap-boolean-}
 ```
-public void setWordWrap(boolean value)
+@Deprecated public void setWordWrap(boolean value)
 ```
 
+定义自动换行。如果此属性设置为 true 并且指定了 Width 值，文本将被分成多行以适应指定的宽度。默认值：false。
 
-定义自动换行。如果此属性设置为 true 并指定了 Width 值，文本将分成几行以适应指定的宽度。默认值：假。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 @deprecated "Use WordWrapMode instead." |
 
-### setXIndent(double value) {#setXIndent-double-}
+### setWordWrapMode {#setWordWrapMode-int-}
 ```
-public void setXIndent(double value)
+public final void setWordWrapMode(int value)
 ```
 
+获取或设置文本渲染的自动换行模式。
 
-设置水平标记坐标，从左侧开始。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setYIndent(double value) {#setYIndent-double-}
-```
-public void setYIndent(double value)
-```
-
-
-设置垂直图章坐标，从底部开始。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setZoom(double value) {#setZoom-double-}
-```
-public void setZoom(double value)
-```
-
-
-获取图章的缩放因子。允许缩放图章。请注意，一对属性 ZoomX 和 ZoomY 允许分别为每个轴设置缩放因子。此属性的设置会同时更改 ZoomX 和 ZoomY 属性。如果 ZoomX 和 ZoomY 不同，则 Zoom 属性返回 ZoomX 值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setZoomX(double value) {#setZoomX-double-}
-```
-public void setZoomX(double value)
-```
-
-
-设置图章的水平缩放系数。允许水平缩放图章。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### setZoomY(double value) {#setZoomY-double-}
-```
-public void setZoomY(double value)
-```
-
-
-设置图章的垂直缩放系数。允许垂直缩放图章。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | double | 双倍价值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | WordWrapMode 元素 @see WordWrapMode |

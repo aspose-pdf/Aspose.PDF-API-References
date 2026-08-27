@@ -1,366 +1,257 @@
 ---
-title: ViewerPreference
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 描述查看者偏好页面模式非全屏页面模式页面布局。
+title: "ViewerPreference"
+linktitle: "ViewerPreference"
+second_title: "Aspose.PDF for Java API 参考"
+description: "描述查看器首选项（页面模式、非全屏页面模式、页面布局）。"
 type: docs
-weight: 65
+weight: 760
 url: /zh/java/com.aspose.pdf.facades/viewerpreference/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.facades.ViewerPreference
+
 ```
-public final class ViewerPreference
+public final class ViewerPreference extends Object
 ```
 
-描述查看者偏好（页面模式、非全屏页面模式、页面布局）。
+描述查看器首选项（页面模式、非全屏页面模式、页面布局）。
+
+## 字段
+
+| 字段 | 描述 |
+| --- | --- |
+| [CENTER_WINDOW](#CENTER_WINDOW) | 指定是否将文档窗口定位在屏幕中心的标志。 |
+| [DIRECTION_L_2_R](#DIRECTION_L_2_R) | 文本阅读顺序从左到右。 |
+| [DIRECTION_R_2_L](#DIRECTION_R_2_L) | 文本阅读顺序从右到左。 |
+| [DISPLAY_DOC_TITLE](#DISPLAY_DOC_TITLE) | 指定窗口标题栏是否应显示文档标题的标志 |
+| [DUPLEX_FLIP_LONG_EDGE](#DUPLEX_FLIP_LONG_EDGE) | 双面打印并在纸张的短边翻转。 |
+| [DUPLEX_FLIP_SHORT_EDGE](#DUPLEX_FLIP_SHORT_EDGE) | 双面打印并在纸张的短边翻转。 |
+| [FIT_WINDOW](#FIT_WINDOW) | 指定是否调整文档窗口大小以适应首次显示页面大小的标志。 |
+| [HIDE_MENUBAR](#HIDE_MENUBAR) | 指定文档激活时是否隐藏符合规范的阅读器菜单栏的标志。 |
+| [HIDE_TOOLBAR](#HIDE_TOOLBAR) | 一个标志，指定在文档处于活动状态时是否隐藏符合规范的阅读器工具栏。 |
+| [HIDE_WINDOW_UI](#HIDE_WINDOW_UI) | 一个标志，指定是否隐藏文档窗口中的用户界面元素（例如滚动条和导航控件），仅显示文档内容。 |
+| [NON_FULL_SCREEN_PAGE_MODE_USE_NONE](#NON_FULL_SCREEN_PAGE_MODE_USE_NONE) | 文档大纲和缩略图均不可见。 |
+| [NON_FULL_SCREEN_PAGE_MODE_USE_OC](#NON_FULL_SCREEN_PAGE_MODE_USE_OC) | 可选内容组面板可见。 |
+| [NON_FULL_SCREEN_PAGE_MODE_USE_OUTLINES](#NON_FULL_SCREEN_PAGE_MODE_USE_OUTLINES) | 文档大纲可见。 |
+| [NON_FULL_SCREEN_PAGE_MODE_USE_THUMBS](#NON_FULL_SCREEN_PAGE_MODE_USE_THUMBS) | 缩略图可见 |
+| [PAGE_LAYOUT_ONE_COLUMN](#PAGE_LAYOUT_ONE_COLUMN) | 在一列中显示页面。 |
+| [PAGE_LAYOUT_SINGLE_PAGE](#PAGE_LAYOUT_SINGLE_PAGE) | 一次显示一页。 |
+| [PAGE_LAYOUT_TWO_COLUMN_LEFT](#PAGE_LAYOUT_TWO_COLUMN_LEFT) | 以两列方式显示页面，奇数页在右侧。 |
+| [PAGE_LAYOUT_TWO_COLUMN_RIGHT](#PAGE_LAYOUT_TWO_COLUMN_RIGHT) | 在两列中显示页面，奇数页在右侧。 |
+| [PAGE_MODE_FULL_SCREEN](#PAGE_MODE_FULL_SCREEN) | 全屏模式，不显示菜单栏、窗口控件或任何其他窗口。 |
+| [PAGE_MODE_USE_ATTACHMENT](#PAGE_MODE_USE_ATTACHMENT) | 带附件的页面模式。 |
+| [PAGE_MODE_USE_NONE](#PAGE_MODE_USE_NONE) | 文档大纲和缩略图均不可见 |
+| [PAGE_MODE_USE_OC](#PAGE_MODE_USE_OC) | 可选内容组面板可见。 |
+| [PAGE_MODE_USE_OUTLINES](#PAGE_MODE_USE_OUTLINES) | 文档大纲可见。 |
+| [PAGE_MODE_USE_THUMBS](#PAGE_MODE_USE_THUMBS) | 缩略图可见。 |
+| [PICK_TRAY_BY_PDF_SIZE](#PICK_TRAY_BY_PDF_SIZE) | 使用 PDF 页面尺寸来选择输入纸盒。 |
+| [PRINT_SCALING_APP_DEFAULT](#PRINT_SCALING_APP_DEFAULT) | 符合规范的阅读器的默认打印缩放。 |
+| [PRINT_SCALING_NONE](#PRINT_SCALING_NONE) | 无页面缩放。 |
+| [SIMPLEX](#SIMPLEX) | 单面打印。 |
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [ViewerPreference()](#ViewerPreference--) |  |
-## 领域
+| [ViewerPreference](#ViewerPreference--) |  |
 
-| 场地 | 描述 |
-| --- | --- |
-| [CENTER_WINDOW](#CENTER-WINDOW) | 一个标志，指定是否将文档的窗口定位在屏幕的中央。 |
-| [DIRECTION_L_2_R](#DIRECTION-L-2-R) | 文本阅读顺序从左到右。 |
-| [DIRECTION_R_2_L](#DIRECTION-R-2-L) | 文本阅读顺序从右到左。 |
-| [DISPLAY_DOC_TITLE](#DISPLAY-DOC-TITLE) | 指定窗口标题栏是否应显示文档标题的标志 |
-| [DUPLEX_FLIP_LONG_EDGE](#DUPLEX-FLIP-LONG-EDGE) | 双面打印并翻转纸张的短边。 |
-| [DUPLEX_FLIP_SHORT_EDGE](#DUPLEX-FLIP-SHORT-EDGE) | 双面打印并翻转纸张的短边。 |
-| [FIT_WINDOW](#FIT-WINDOW) | 一个标志，指定是否调整文档窗口的大小以适应第一个显示页面的大小。 |
-| [HIDE_MENUBAR](#HIDE-MENUBAR) | 一个标志，指定在文档处于活动状态时是否隐藏符合要求的阅读器的菜单栏。 |
-| [HIDE_TOOLBAR](#HIDE-TOOLBAR) | 一个标志，指定在文档处于活动状态时是否隐藏符合要求的阅读器的工具栏。 |
-| [HIDE_WINDOW_UI](#HIDE-WINDOW-UI) | 一个标志，指定是否隐藏文档窗口中的用户界面元素（例如滚动条和导航控件），仅显示文档的内容。 |
-| [NON_FULL_SCREEN_PAGE_MODE_USE_NONE](#NON-FULL-SCREEN-PAGE-MODE-USE-NONE) | 文档大纲和缩略图均不可见。 |
-| [NON_FULL_SCREEN_PAGE_MODE_USE_OC](#NON-FULL-SCREEN-PAGE-MODE-USE-OC) | 可选内容组面板可见。 |
-| [NON_FULL_SCREEN_PAGE_MODE_USE_OUTLINES](#NON-FULL-SCREEN-PAGE-MODE-USE-OUTLINES) | 文档大纲可见。 |
-| [NON_FULL_SCREEN_PAGE_MODE_USE_THUMBS](#NON-FULL-SCREEN-PAGE-MODE-USE-THUMBS) | 缩略图可见 |
-| [PAGE_LAYOUT_ONE_COLUMN](#PAGE-LAYOUT-ONE-COLUMN) | 在一列中显示页面。 |
-| [PAGE_LAYOUT_SINGLE_PAGE](#PAGE-LAYOUT-SINGLE-PAGE) | 一次显示一页。 |
-| [PAGE_LAYOUT_TWO_COLUMN_LEFT](#PAGE-LAYOUT-TWO-COLUMN-LEFT) | 分两列显示页面，奇数页在右边 |
-| [PAGE_LAYOUT_TWO_COLUMN_RIGHT](#PAGE-LAYOUT-TWO-COLUMN-RIGHT) | 分两列显示页面，奇数页在右侧。 |
-| [PAGE_MODE_FULL_SCREEN](#PAGE-MODE-FULL-SCREEN) | 全屏模式，没有菜单栏、窗口控件或任何其他可见窗口。 |
-| [PAGE_MODE_USE_ATTACHMENT](#PAGE-MODE-USE-ATTACHMENT) | 带附件的页面模式。 |
-| [PAGE_MODE_USE_NONE](#PAGE-MODE-USE-NONE) | 文档大纲和缩略图均不可见 |
-| [PAGE_MODE_USE_OC](#PAGE-MODE-USE-OC) | 可选内容组面板可见。 |
-| [PAGE_MODE_USE_OUTLINES](#PAGE-MODE-USE-OUTLINES) | 文档大纲可见。 |
-| [PAGE_MODE_USE_THUMBS](#PAGE-MODE-USE-THUMBS) | 缩略图可见。 |
-| [SIMPLEX](#SIMPLEX) | 单面打印。 |
-## 方法
-
-| 方法 | 描述 |
-| --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### ViewerPreference() {#ViewerPreference--}
-```
-public ViewerPreference()
-```
-
-
-### CENTER_WINDOW {#CENTER-WINDOW}
+### CENTER_WINDOW {#CENTER_WINDOW}
 ```
 public static final int CENTER_WINDOW
 ```
 
+指定是否将文档窗口定位在屏幕中心的标志。
 
-一个标志，指定是否将文档的窗口定位在屏幕的中央。
-
-### DIRECTION_L_2_R {#DIRECTION-L-2-R}
+### DIRECTION_L_2_R {#DIRECTION_L_2_R}
 ```
 public static final int DIRECTION_L_2_R
 ```
 
-
 文本阅读顺序从左到右。
 
-### DIRECTION_R_2_L {#DIRECTION-R-2-L}
+### DIRECTION_R_2_L {#DIRECTION_R_2_L}
 ```
 public static final int DIRECTION_R_2_L
 ```
 
-
 文本阅读顺序从右到左。
 
-### DISPLAY_DOC_TITLE {#DISPLAY-DOC-TITLE}
+### DISPLAY_DOC_TITLE {#DISPLAY_DOC_TITLE}
 ```
 public static final int DISPLAY_DOC_TITLE
 ```
 
-
 指定窗口标题栏是否应显示文档标题的标志
 
-### DUPLEX_FLIP_LONG_EDGE {#DUPLEX-FLIP-LONG-EDGE}
+### DUPLEX_FLIP_LONG_EDGE {#DUPLEX_FLIP_LONG_EDGE}
 ```
 public static final int DUPLEX_FLIP_LONG_EDGE
 ```
 
+双面打印并在纸张的短边翻转。
 
-双面打印并翻转纸张的短边。
-
-### DUPLEX_FLIP_SHORT_EDGE {#DUPLEX-FLIP-SHORT-EDGE}
+### DUPLEX_FLIP_SHORT_EDGE {#DUPLEX_FLIP_SHORT_EDGE}
 ```
 public static final int DUPLEX_FLIP_SHORT_EDGE
 ```
 
+双面打印并在纸张的短边翻转。
 
-双面打印并翻转纸张的短边。
-
-### FIT_WINDOW {#FIT-WINDOW}
+### FIT_WINDOW {#FIT_WINDOW}
 ```
 public static final int FIT_WINDOW
 ```
 
+指定是否调整文档窗口大小以适应首次显示页面大小的标志。
 
-一个标志，指定是否调整文档窗口的大小以适应第一个显示页面的大小。
-
-### HIDE_MENUBAR {#HIDE-MENUBAR}
+### HIDE_MENUBAR {#HIDE_MENUBAR}
 ```
 public static final int HIDE_MENUBAR
 ```
 
+指定文档激活时是否隐藏符合规范的阅读器菜单栏的标志。
 
-一个标志，指定在文档处于活动状态时是否隐藏符合要求的阅读器的菜单栏。
-
-### HIDE_TOOLBAR {#HIDE-TOOLBAR}
+### HIDE_TOOLBAR {#HIDE_TOOLBAR}
 ```
 public static final int HIDE_TOOLBAR
 ```
 
+一个标志，指定在文档处于活动状态时是否隐藏符合规范的阅读器工具栏。
 
-一个标志，指定在文档处于活动状态时是否隐藏符合要求的阅读器的工具栏。
-
-### HIDE_WINDOW_UI {#HIDE-WINDOW-UI}
+### HIDE_WINDOW_UI {#HIDE_WINDOW_UI}
 ```
 public static final int HIDE_WINDOW_UI
 ```
 
+一个标志，指定是否隐藏文档窗口中的用户界面元素（例如滚动条和导航控件），仅显示文档内容。
 
-一个标志，指定是否隐藏文档窗口中的用户界面元素（例如滚动条和导航控件），仅显示文档的内容。
-
-### NON_FULL_SCREEN_PAGE_MODE_USE_NONE {#NON-FULL-SCREEN-PAGE-MODE-USE-NONE}
+### NON_FULL_SCREEN_PAGE_MODE_USE_NONE {#NON_FULL_SCREEN_PAGE_MODE_USE_NONE}
 ```
 public static final int NON_FULL_SCREEN_PAGE_MODE_USE_NONE
 ```
 
-
 文档大纲和缩略图均不可见。
 
-### NON_FULL_SCREEN_PAGE_MODE_USE_OC {#NON-FULL-SCREEN-PAGE-MODE-USE-OC}
+### NON_FULL_SCREEN_PAGE_MODE_USE_OC {#NON_FULL_SCREEN_PAGE_MODE_USE_OC}
 ```
 public static final int NON_FULL_SCREEN_PAGE_MODE_USE_OC
 ```
 
-
 可选内容组面板可见。
 
-### NON_FULL_SCREEN_PAGE_MODE_USE_OUTLINES {#NON-FULL-SCREEN-PAGE-MODE-USE-OUTLINES}
+### NON_FULL_SCREEN_PAGE_MODE_USE_OUTLINES {#NON_FULL_SCREEN_PAGE_MODE_USE_OUTLINES}
 ```
 public static final int NON_FULL_SCREEN_PAGE_MODE_USE_OUTLINES
 ```
 
-
 文档大纲可见。
 
-### NON_FULL_SCREEN_PAGE_MODE_USE_THUMBS {#NON-FULL-SCREEN-PAGE-MODE-USE-THUMBS}
+### NON_FULL_SCREEN_PAGE_MODE_USE_THUMBS {#NON_FULL_SCREEN_PAGE_MODE_USE_THUMBS}
 ```
 public static final int NON_FULL_SCREEN_PAGE_MODE_USE_THUMBS
 ```
 
-
 缩略图可见
 
-### PAGE_LAYOUT_ONE_COLUMN {#PAGE-LAYOUT-ONE-COLUMN}
+### PAGE_LAYOUT_ONE_COLUMN {#PAGE_LAYOUT_ONE_COLUMN}
 ```
 public static final int PAGE_LAYOUT_ONE_COLUMN
 ```
 
-
 在一列中显示页面。
 
-### PAGE_LAYOUT_SINGLE_PAGE {#PAGE-LAYOUT-SINGLE-PAGE}
+### PAGE_LAYOUT_SINGLE_PAGE {#PAGE_LAYOUT_SINGLE_PAGE}
 ```
 public static final int PAGE_LAYOUT_SINGLE_PAGE
 ```
 
-
 一次显示一页。
 
-### PAGE_LAYOUT_TWO_COLUMN_LEFT {#PAGE-LAYOUT-TWO-COLUMN-LEFT}
+### PAGE_LAYOUT_TWO_COLUMN_LEFT {#PAGE_LAYOUT_TWO_COLUMN_LEFT}
 ```
 public static final int PAGE_LAYOUT_TWO_COLUMN_LEFT
 ```
 
+以两列方式显示页面，奇数页在右侧。
 
-分两列显示页面，奇数页在右边
-
-### PAGE_LAYOUT_TWO_COLUMN_RIGHT {#PAGE-LAYOUT-TWO-COLUMN-RIGHT}
+### PAGE_LAYOUT_TWO_COLUMN_RIGHT {#PAGE_LAYOUT_TWO_COLUMN_RIGHT}
 ```
 public static final int PAGE_LAYOUT_TWO_COLUMN_RIGHT
 ```
 
+在两列中显示页面，奇数页在右侧。
 
-分两列显示页面，奇数页在右侧。
-
-### PAGE_MODE_FULL_SCREEN {#PAGE-MODE-FULL-SCREEN}
+### PAGE_MODE_FULL_SCREEN {#PAGE_MODE_FULL_SCREEN}
 ```
 public static final int PAGE_MODE_FULL_SCREEN
 ```
 
+全屏模式，不显示菜单栏、窗口控件或任何其他窗口。
 
-全屏模式，没有菜单栏、窗口控件或任何其他可见窗口。
-
-### PAGE_MODE_USE_ATTACHMENT {#PAGE-MODE-USE-ATTACHMENT}
+### PAGE_MODE_USE_ATTACHMENT {#PAGE_MODE_USE_ATTACHMENT}
 ```
 public static final int PAGE_MODE_USE_ATTACHMENT
 ```
 
-
 带附件的页面模式。
 
-### PAGE_MODE_USE_NONE {#PAGE-MODE-USE-NONE}
+### PAGE_MODE_USE_NONE {#PAGE_MODE_USE_NONE}
 ```
 public static final int PAGE_MODE_USE_NONE
 ```
 
-
 文档大纲和缩略图均不可见
 
-### PAGE_MODE_USE_OC {#PAGE-MODE-USE-OC}
+### PAGE_MODE_USE_OC {#PAGE_MODE_USE_OC}
 ```
 public static final int PAGE_MODE_USE_OC
 ```
 
-
 可选内容组面板可见。
 
-### PAGE_MODE_USE_OUTLINES {#PAGE-MODE-USE-OUTLINES}
+### PAGE_MODE_USE_OUTLINES {#PAGE_MODE_USE_OUTLINES}
 ```
 public static final int PAGE_MODE_USE_OUTLINES
 ```
 
-
 文档大纲可见。
 
-### PAGE_MODE_USE_THUMBS {#PAGE-MODE-USE-THUMBS}
+### PAGE_MODE_USE_THUMBS {#PAGE_MODE_USE_THUMBS}
 ```
 public static final int PAGE_MODE_USE_THUMBS
 ```
 
-
 缩略图可见。
+
+### PICK_TRAY_BY_PDF_SIZE {#PICK_TRAY_BY_PDF_SIZE}
+```
+public static final int PICK_TRAY_BY_PDF_SIZE
+```
+
+使用 PDF 页面尺寸来选择输入纸盒。
+
+### PRINT_SCALING_APP_DEFAULT {#PRINT_SCALING_APP_DEFAULT}
+```
+public static final int PRINT_SCALING_APP_DEFAULT
+```
+
+符合规范的阅读器的默认打印缩放。
+
+### PRINT_SCALING_NONE {#PRINT_SCALING_NONE}
+```
+public static final int PRINT_SCALING_NONE
+```
+
+无页面缩放。
 
 ### SIMPLEX {#SIMPLEX}
 ```
 public static final int SIMPLEX
 ```
 
-
 单面打印。
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### ViewerPreference {#ViewerPreference--}
 ```
-public boolean equals(Object arg0)
+public ViewerPreference()
 ```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |

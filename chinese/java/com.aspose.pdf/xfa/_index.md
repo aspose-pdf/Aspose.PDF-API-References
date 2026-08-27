@@ -1,385 +1,184 @@
 ---
-title: XFA
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示有关 XML 表单体系结构 XFA 的 XML 表单。
+title: "XFA"
+linktitle: "XFA"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示与 XML Forms Architecture (XFA) 相关的 XML 表单。"
 type: docs
-weight: 406
+weight: 5550
 url: /zh/java/com.aspose.pdf/xfa/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.XFA
+
 ```
-public final class XFA
+public final class XFA extends Object
 ```
 
-表示有关 XML 表单体系结构 (XFA) 的 XML 表单。
+表示与 XML Forms Architecture (XFA) 相关的 XML 表单。
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [beginCachedUpdates()](#beginCachedUpdates--) | 启动缓存更新模式。 |
-| [endCachedUpdates()](#endCachedUpdates--) | 结束缓存更新并将所有数据保存到文档结构中。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [flattenXfaField(System.Xml.XmlNode field)](#flattenXfaField-com.aspose.ms.System.Xml.XmlNode-) | 展平 XFA 表单的字段。 |
-| [getClass()](#getClass--) |  |
-| [getConfig()](#getConfig--) | XFA 表单的 XFA 配置组件。 |
-| [getDatasets()](#getDatasets--) | XFA 表单的 XFA 数据集组件。 |
-| [getFieldNames()](#getFieldNames--) | 表单模板中的字段名称列表。 |
-| [getFieldTemplate(String fieldName)](#getFieldTemplate-java.lang.String-) | 返回 XFA 字段模板的 XML 节点。 |
-| [getFieldTemplates()](#getFieldTemplates--) | 返回 XFA 表单上所有字段模板的列表。 |
-| [getFieldsWithTextValuesMap()](#getFieldsWithTextValuesMap--) | 返回具有短字段名称的映射及其所有字段的字符串值。 |
-| [getForm()](#getForm--) | 获取 XFA 表单的 XFA 表单组件。 |
-| [getNamespaceManager()](#getNamespaceManager--) | 返回带有用于模板和数据的命名空间的命名空间管理器。 |
-| [getNamespaceManager_()](#getNamespaceManager---) | 获取 XFA 表单的命名空间。 |
-| [getTemplate()](#getTemplate--) | XFA 表单的 XFA 模板组件。 |
-| [getXDP()](#getXDP--) | XML 数据包（周围 XML 容器中的所有 XFA 表单组件）。 |
-| [getXfaField(String path)](#getXfaField-java.lang.String-) |  |
-| [get_Item(String path)](#get-Item-java.lang.String-) | 根据路径获取数据节点值。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setFieldImage(String fieldName, InputStream image)](#setFieldImage-java.lang.String-java.io.InputStream-) | 为 XFA 字段设置图像。 |
-| [setFieldImageInternal(String fieldName, System.IO.Stream image)](#setFieldImageInternal-java.lang.String-com.aspose.ms.System.IO.Stream-) |  |
-| [set_Item(String path, String value)](#set-Item-java.lang.String-java.lang.String-) | 根据路径获取数据节点值。 |
-| [toString()](#toString--) |  |
-| [tryGetTemplateString(String value)](#tryGetTemplateString-java.lang.String-) | 尝试从 XFA 表单导出计算脚本。 |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### beginCachedUpdates() {#beginCachedUpdates--}
+| [appendToTemplate](#appendToTemplate-java.lang.String-java.lang.String-) | 将 XML 值追加到匹配 XPath 表达式的模板节点 |
+| [beginCachedUpdates](#beginCachedUpdates--) | 启动缓存更新模式。对 XFA 所做的所有更改将被缓存，并在调用 EndCachedUpdates 时保存到文档结构中。这样可以通过避免在对 XFA 进行大量更改时重复将 XML 包保存到文档中，从而提升性能。 |
+| [endCachedUpdates](#endCachedUpdates--) | 结束缓存更新并将所有数据保存到文档结构中。 |
+| [flattenXfaField](#flattenXfaField-com.aspose.ms.System.Xml.XmlNode-) | 展平 XFA 表单字段。 |
+| [get_Item](#get_Item-java.lang.String-) | 获取数据节点值，依据 {@code path}。 |
+| [getConfig](#getConfig--) | XFA 表单的 XFA Config 组件。 |
+| [getDatasets](#getDatasets--) | XFA 表单的 XFA Datasets 组件。 |
+| [getFieldNames](#getFieldNames--) | 表单模板中字段名称的列表。 |
+| [getFieldsWithTextValuesMap](#getFieldsWithTextValuesMap--) | <p> 返回包含所有字段的短字段名及其字符串值的映射。 </p> |
+| [getFieldTemplate](#getFieldTemplate-java.lang.String-) | 返回 XFA 字段模板的 XML 节点。 |
+| [getFieldTemplates](#getFieldTemplates--) | 返回 XFA 表单上所有字段模板的列表。 |
+| [getForm](#getForm--) | 获取 XFA 表单的 XFA Form Component。 |
+| [getNamespaceManager_](#getNamespaceManager_--) | 获取 XFA 表单的命名空间。已定义以下命名空间："data" 用于表单数据，"tpl" 用于表单模板。 |
+| [getNamespaceManager](#getNamespaceManager--) | 返回使用模板和数据的命名空间管理器。 |
+| [getTemplate](#getTemplate--) | XFA 表单的 XFA Template 组件。 |
+| [getXDP](#getXDP--) | XML 数据包（包含在外围 XML 容器中的所有 XFA 表单组件）。 |
+| [getXfaField](#getXfaField-java.lang.String-) |  |
+| [set_Item](#set_Item-java.lang.String-java.lang.String-) | 获取数据节点值，依据 {@code path}。 |
+| [setFieldImage](#setFieldImage-java.lang.String-java.io.InputStream-) | 为 XFA 字段设置图像。 |
+| [setFieldImageInternal](#setFieldImageInternal-java.lang.String-com.aspose.ms.System.IO.Stream-) |  |
+| [tryGetTemplateString](#tryGetTemplateString-java.lang.String-) | 尝试从 XFA 表单导出计算脚本。否则返回空字符串； |
+
+### appendToTemplate {#appendToTemplate-java.lang.String-java.lang.String-}
+将 XML 值追加到匹配 XPath 表达式的模板节点
+
+### beginCachedUpdates {#beginCachedUpdates--}
 ```
 public void beginCachedUpdates()
 ```
 
+启动缓存更新模式。对 XFA 所做的所有更改将被缓存，并在调用 EndCachedUpdates 时保存到文档结构中。这样可以通过避免在对 XFA 进行大量更改时重复将 XML 包保存到文档中，从而提升性能。
 
-启动缓存更新模式。对 XFA 所做的所有更改都将被缓存并保存到调用 EndCachedUpdates 时的文档结构中。当对 XFA 进行大量更改时，这可以通过避免将 XML 数据包保存到文档中的冗余操作来改进预制。
-
-### endCachedUpdates() {#endCachedUpdates--}
+### endCachedUpdates {#endCachedUpdates--}
 ```
 public void endCachedUpdates()
 ```
 
-
 结束缓存更新并将所有数据保存到文档结构中。
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### flattenXfaField {#flattenXfaField-com.aspose.ms.System.Xml.XmlNode-}
+展平 XFA 表单字段。
+
+### get_Item {#get_Item-java.lang.String-}
+获取数据节点值，依据 {@code path}。
+
+### getConfig {#getConfig--}
 ```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### flattenXfaField(System.Xml.XmlNode field) {#flattenXfaField-com.aspose.ms.System.Xml.XmlNode-}
-```
-public static void flattenXfaField(System.Xml.XmlNode field)
+public com.aspose.ms.System.Xml.XmlNode getConfig()
 ```
 
+XFA 表单的 XFA Config 组件。
 
-展平 XFA 表单的字段。
+**Returns:**
+XmlNode 对象
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | com.aspose.ms.System.Xml.XmlNode | XFA 表单字段节点。 |
-
-### getClass() {#getClass--}
+### getDatasets {#getDatasets--}
 ```
-public final native Class<?> getClass()
+public com.aspose.ms.System.Xml.XmlNode getDatasets()
 ```
 
+XFA 表单的 XFA Datasets 组件。
 
+**Returns:**
+XmlNode 对象
 
-
-**退货：**
-java.lang.Class<?>
-### getConfig() {#getConfig--}
+### getFieldNames {#getFieldNames--}
 ```
-public System.Xml.XmlNode getConfig()
-```
-
-
-XFA 表单的 XFA 配置组件。
-
-**退货：**
-com.aspose.ms.System.Xml.XmlNode - XmlNode 对象
-### getDatasets() {#getDatasets--}
-```
-public System.Xml.XmlNode getDatasets()
+public String [] getFieldNames()
 ```
 
+表单模板中字段名称的列表。
 
-XFA 表单的 XFA 数据集组件。
+**Returns:**
+String 值数组
 
-**退货：**
-com.aspose.ms.System.Xml.XmlNode - XmlNode 对象
-### getFieldNames() {#getFieldNames--}
+### getFieldsWithTextValuesMap {#getFieldsWithTextValuesMap--}
 ```
-public String[] getFieldNames()
-```
-
-
-表单模板中的字段名称列表。
-
-**退货：**
-java.lang.字符串[] - 字符串值数组
-### getFieldTemplate(String fieldName) {#getFieldTemplate-java.lang.String-}
-```
-public System.Xml.XmlNode getFieldTemplate(String fieldName)
+public HashMap < String , String > getFieldsWithTextValuesMap()
 ```
 
+<p> 返回包含所有字段的短字段名及其字符串值的映射。 </p>
 
+**Returns:**
+{@code HashMap<String, String>} 对象
+
+### getFieldTemplate {#getFieldTemplate-java.lang.String-}
 返回 XFA 字段模板的 XML 节点。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fieldName | java.lang.String | 必须找到模板的字段的路径。 |
-
-**退货：**
-com.aspose.ms.System.Xml.XmlNode - 带有字段模板的 XL 节点。
-### getFieldTemplates() {#getFieldTemplates--}
+### getFieldTemplates {#getFieldTemplates--}
 ```
-public System.Xml.XmlNodeList getFieldTemplates()
+public com.aspose.ms.System.Xml.XmlNodeList getFieldTemplates()
 ```
-
 
 返回 XFA 表单上所有字段模板的列表。
 
-**退货：**
-com.aspose.ms.System.Xml.XmlNodeList - 字段模板列表。
-### getFieldsWithTextValuesMap() {#getFieldsWithTextValuesMap--}
-```
-public HashMap<String,String> getFieldsWithTextValuesMap()
-```
+**Returns:**
+字段模板列表。
 
-
-返回具有短字段名称的映射及其所有字段的字符串值。
-
-**退货：**
-java.util.HashMap<java.lang.String,java.lang.String> - HashMap 对象
-### getForm() {#getForm--}
+### getForm {#getForm--}
 ```
-public System.Xml.XmlNode getForm()
+public com.aspose.ms.System.Xml.XmlNode getForm()
 ```
 
+获取 XFA 表单的 XFA Form Component。
 
-获取 XFA 表单的 XFA 表单组件。
+**Returns:**
+XmlNode 对象
 
-**退货：**
-com.aspose.ms.System.Xml.XmlNode - XmlNode 对象
-### getNamespaceManager() {#getNamespaceManager--}
+### getNamespaceManager_ {#getNamespaceManager_--}
 ```
-public System.Xml.XmlNamespaceManager getNamespaceManager()
-```
-
-
-返回带有用于模板和数据的命名空间的命名空间管理器。
-
-**退货：**
-com.aspose.ms.System.Xml.XmlNamespaceManager - XmlNamespaceManager 对象
-### getNamespaceManager_() {#getNamespaceManager---}
-```
-public System.Xml.XmlNamespaceManager getNamespaceManager_()
+public com.aspose.ms.System.Xml.XmlNamespaceManager getNamespaceManager_()
 ```
 
+获取 XFA 表单的命名空间。已定义以下命名空间："data" 用于表单数据，"tpl" 用于表单模板。
 
-获取 XFA 表单的命名空间。定义了以下命名空间：表单数据的“数据”和表单模板的“tpl”。
+**Returns:**
+XmlNamespaceManager 对象
 
-**退货：**
-com.aspose.ms.System.Xml.XmlNamespaceManager - XmlNamespaceManager 对象
-### getTemplate() {#getTemplate--}
+### getNamespaceManager {#getNamespaceManager--}
 ```
-public System.Xml.XmlNode getTemplate()
-```
-
-
-XFA 表单的 XFA 模板组件。
-
-**退货：**
-com.aspose.ms.System.Xml.XmlNode - XmlNode 对象
-### getXDP() {#getXDP--}
-```
-public System.Xml.XmlDocument getXDP()
+public com.aspose.ms.System.Xml.XmlNamespaceManager getNamespaceManager()
 ```
 
+返回使用模板和数据的命名空间管理器。
 
-XML 数据包（周围 XML 容器中的所有 XFA 表单组件）。
+**Returns:**
+XmlNamespaceManager 对象
 
-**退货：**
-com.aspose.ms.System.Xml.XmlDocument - XmlDocument 对象
-### getXfaField(String path) {#getXfaField-java.lang.String-}
+### getTemplate {#getTemplate--}
 ```
-public final XfaFieldInteractive getXfaField(String path)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| path | java.lang.String |  |
-
-**退货：**
-com.aspose.pdf.XfaFieldInteractive
-### get_Item(String path) {#get-Item-java.lang.String-}
-```
-public String get_Item(String path)
+public com.aspose.ms.System.Xml.XmlNode getTemplate()
 ```
 
+XFA 表单的 XFA Template 组件。
 
-根据路径获取数据节点值。
+**Returns:**
+XmlNode 对象
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| path | java.lang.String | 数据节点路径，例如 form1[0].子窗体1[0].子窗体2[0].子窗体3[0].文本域[0]。即使数据只包含每个节点的单次出现，也要确保包括索引，即写 node1[0].node2[0]... 而不是 node1.node2... |
-
-**退货：**
-java.lang.String - 数据节点值。
-### hashCode() {#hashCode--}
+### getXDP {#getXDP--}
 ```
-public native int hashCode()
+public com.aspose.ms.System.Xml.XmlDocument getXDP()
 ```
 
+XML 数据包（包含在外围 XML 容器中的所有 XFA 表单组件）。
+
+**Returns:**
+XmlDocument 对象
+
+### getXfaField {#getXfaField-java.lang.String-}
 
 
+### set_Item {#set_Item-java.lang.String-java.lang.String-}
+获取数据节点值，依据 {@code path}。
 
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setFieldImage(String fieldName, InputStream image) {#setFieldImage-java.lang.String-java.io.InputStream-}
-```
-public void setFieldImage(String fieldName, InputStream image)
-```
-
-
+### setFieldImage {#setFieldImage-java.lang.String-java.io.InputStream-}
 为 XFA 字段设置图像。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fieldName | java.lang.String | 字段名称。 |
-| image | java.io.InputStream | 包含图像的流。 |
-
-### setFieldImageInternal(String fieldName, System.IO.Stream image) {#setFieldImageInternal-java.lang.String-com.aspose.ms.System.IO.Stream-}
-```
-public void setFieldImageInternal(String fieldName, System.IO.Stream image)
-```
+### setFieldImageInternal {#setFieldImageInternal-java.lang.String-com.aspose.ms.System.IO.Stream-}
 
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fieldName | java.lang.String |  |
-| image | com.aspose.ms.System.IO.Stream |  |
-
-### set_Item(String path, String value) {#set-Item-java.lang.String-java.lang.String-}
-```
-public void set_Item(String path, String value)
-```
-
-
-根据路径获取数据节点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| path | java.lang.String | 字符串值 |
-| value | java.lang.String | 字符串值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### tryGetTemplateString(String value) {#tryGetTemplateString-java.lang.String-}
-```
-public String tryGetTemplateString(String value)
-```
-
-
+### tryGetTemplateString {#tryGetTemplateString-java.lang.String-}
 尝试从 XFA 表单导出计算脚本。否则返回空字符串；
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 标签名称 |
-
-**退货：**
-java.lang.String - 字符串实例
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
