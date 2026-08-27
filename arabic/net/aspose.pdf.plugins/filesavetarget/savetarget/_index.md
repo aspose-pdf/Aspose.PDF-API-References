@@ -1,12 +1,12 @@
 ---
-title: FileSaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSaveTarget. نوع ملف هدف الحفظ
+title: "FileSaveTarget.SaveTarget"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSaveTarget. نوع ملف هدف الحفظ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/filesavetarget/savetarget/
 ---
-## خاصية FileSaveTarget.SaveTarget
+## FileSaveTarget.SaveTarget property
 
 نوع هدف الحفظ (ملف).
 
@@ -24,3 +24,5 @@ public DataType SaveTarget { get; }
 * class [FileSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

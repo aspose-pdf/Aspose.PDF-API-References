@@ -1,14 +1,14 @@
 ---
-title: Logprobs.TextOffset
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Logprobs. تحصل أو تعين قائمة من الأعداد الصحيحة تمثل التمثيل البايت UTF8 لكل توكن
+title: "Logprobs.TextOffset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Logprobs. تحصل أو تعين قائمة بالأعداد الصحيحة التي تمثل تمثيل البايت UTF8 لكل رمز"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/logprobs/textoffset/
 ---
-## خاصية Logprobs.TextOffset
+## Logprobs.TextOffset property
 
-تحصل أو تعين قائمة من الأعداد الصحيحة تمثل التمثيل البايت UTF-8 لكل توكن.
+يحصل أو يعيّن قائمة من الأعداد الصحيحة التي تمثل تمثيل بايت UTF-8 لكل رمز.
 
 ```csharp
 public List<int> TextOffset { get; set; }
@@ -19,3 +19,5 @@ public List<int> TextOffset { get; set; }
 * class [Logprobs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

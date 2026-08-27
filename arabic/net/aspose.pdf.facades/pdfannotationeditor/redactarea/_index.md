@@ -1,20 +1,20 @@
 ---
-title: PdfAnnotationEditor.RedactArea
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAnnotationEditor. تحجب المنطقة على الصفحة المحددة. تتم إزالة جميع المحتويات
+title: "PdfAnnotationEditor.RedactArea"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAnnotationEditor. تحذف المنطقة في الصفحة المحددة. يتم إزالة جميع المحتويات."
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/redactarea/
 ---
-## طريقة PdfAnnotationEditor.RedactArea
+## PdfAnnotationEditor.RedactArea method
 
-تحجب المنطقة على الصفحة المحددة. تتم إزالة جميع المحتويات.
+يمحو المنطقة في الصفحة المحددة. تُزال جميع المحتويات.
 
 ```csharp
 public void RedactArea(int pageIndex, Rectangle rect, Color color)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageIndex | Int32 | فهرس الصفحة. |
 | rect | Rectangle | مستطيل المنطقة. |
@@ -26,3 +26,5 @@ public void RedactArea(int pageIndex, Rectangle rect, Color color)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

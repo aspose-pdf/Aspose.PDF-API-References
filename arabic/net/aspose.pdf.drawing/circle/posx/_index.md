@@ -1,14 +1,14 @@
 ---
-title: Circle.PosX
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الدائرة. تحصل أو تعين قيمة عائمة تشير إلى إحداثي x لمركز الدائرة
+title: "Circle.PosX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Circle. يحصل أو يحدد قيمة عائمة تشير إلى إحداثي x لمركز الدائرة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/circle/posx/
 ---
-## خاصية Circle.PosX
+## Circle.PosX property
 
-تحصل أو تعين قيمة عائمة تشير إلى إحداثي x لمركز الدائرة.
+يحصل أو يعيّن قيمة float تُشير إلى إحداثي x لمركز الدائرة.
 
 ```csharp
 public double PosX { get; set; }
@@ -19,3 +19,5 @@ public double PosX { get; set; }
 * class [Circle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

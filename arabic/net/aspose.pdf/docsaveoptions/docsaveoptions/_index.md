@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.DocSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DocSaveOptions. المُنشئ الافتراضي
+title: "DocSaveOptions.DocSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DocSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/docsaveoptions/docsaveoptions/
 ---
-## مُنشئ DocSaveOptions
+## DocSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public DocSaveOptions()
@@ -19,3 +19,5 @@ public DocSaveOptions()
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

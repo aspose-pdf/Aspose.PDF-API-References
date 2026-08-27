@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetCharWidthBoundingBox. الإزاحة الأفقية للرمز
+title: "SetCharWidthBoundingBox.Wx"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "SetCharWidthBoundingBox خاصية. الإزاحة الأفقية للرمز"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.operators/setcharwidthboundingbox/wx/
 ---
-## خاصية SetCharWidthBoundingBox.Wx
+## SetCharWidthBoundingBox.Wx property
 
 الإزاحة الأفقية للرمز.
 
@@ -19,3 +19,5 @@ public double Wx { get; }
 * class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

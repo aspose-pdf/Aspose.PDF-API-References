@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AppearanceDictionary. تُرجع كائن IDictionaryEnumerator للقاموس
+title: "AppearanceDictionary.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AppearanceDictionary. تُرجع كائن IDictionaryEnumerator للقاموس."
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/getenumerator/
 ---
-## طريقة AppearanceDictionary.GetEnumerator
+## AppearanceDictionary.GetEnumerator method
 
-تُرجع كائن IDictionaryEnumerator للقاموس.
+يرجع كائن IDictionaryEnumerator للقاموس.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, XForm>> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<KeyValuePair<string, XForm>> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد القاموس.
+المُعدِّد للقاموس.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<KeyValuePair<string, XForm>> GetEnumerator()
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

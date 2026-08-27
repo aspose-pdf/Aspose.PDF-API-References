@@ -1,14 +1,14 @@
 ---
-title: PdfToHtmlOptions.OutputDataType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToHtmlOptions. تحصل على نوع بيانات الإخراج
+title: "PdfToHtmlOptions.OutputDataType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToHtmlOptions. يحصل على نوع بيانات الإخراج"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/pdftohtmloptions/outputdatatype/
 ---
-## خاصية PdfToHtmlOptions.OutputDataType
+## PdfToHtmlOptions.OutputDataType property
 
-تحصل على نوع بيانات الإخراج.
+يحصل على نوع بيانات الإخراج.
 
 ```csharp
 public SaveDataType OutputDataType { get; }
@@ -20,3 +20,5 @@ public SaveDataType OutputDataType { get; }
 * class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

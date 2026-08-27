@@ -1,14 +1,14 @@
 ---
-title: SoundData.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundData. تحصل على تدفق الصوت الذي سيتم تشغيله عند تفعيل التعليق
+title: "SoundData.Contents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundData. تحصل على دفق الصوت الذي يُشغَّل عندما يتم تنشيط التعليق التوضيحي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/sounddata/contents/
 ---
-## خاصية SoundData.Contents
+## SoundData.Contents property
 
-تحصل على تدفق الصوت الذي سيتم تشغيله عند تفعيل التعليق.
+يحصل على تدفق الصوت الذي سيُشغل عندما يتم تنشيط التعليق التوضيحي.
 
 ```csharp
 public Stream Contents { get; }
@@ -19,3 +19,5 @@ public Stream Contents { get; }
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

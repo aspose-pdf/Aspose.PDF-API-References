@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTextState. تحصل أو تعين تباعد الكلمات للنص
+title: "StructureTextState.WordSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTextState. تحصل أو تعين تباعد الكلمات في النص"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.logicalstructure/structuretextstate/wordspacing/
 ---
-## خاصية StructureTextState.WordSpacing
+## StructureTextState.WordSpacing property
 
-تحصل أو تعين تباعد الكلمات للنص.
+يحصل أو يضبط تباعد الكلمات للنص.
 
 ```csharp
 public float? WordSpacing { get; set; }
@@ -16,10 +16,12 @@ public float? WordSpacing { get; set; }
 
 ## ملاحظات
 
-يمكن أن تكون null. استخدم null لوراثة خاصية `WordSpacing` من عنصر الهيكل الأب.
+يمكن أن تكون null. استخدم null لتوريث خاصية `WordSpacing` من عنصر البنية الأصل
 
 ### انظر أيضًا
 
 * class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

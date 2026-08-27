@@ -1,14 +1,14 @@
 ---
-title: GradientRadialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GradientRadialShading. تحصل أو تعين نقطة مركز الدائرة النهائية
+title: "GradientRadialShading.End"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GradientRadialShading. تحصل أو تعيين نقطة مركز الدائرة النهائية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/gradientradialshading/end/
 ---
-## خاصية GradientRadialShading.End
+## GradientRadialShading.End property
 
-تحصل أو تعين نقطة مركز الدائرة النهائية.
+يحصل أو يضبط نقطة مركز الدائرة النهائية.
 
 ```csharp
 public Point End { get; set; }
@@ -20,3 +20,5 @@ public Point End { get; set; }
 * class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextItemComparisonStatistics.InsertedCharactersCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextItemComparisonStatistics. تحصل على وتضبط عدد الأحرف المدخلة
+title: "TextItemComparisonStatistics.InsertedCharactersCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextItemComparisonStatistics. الحصول على وتعيين عدد الأحرف المُدخلة."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/
 ---
-## خاصية TextItemComparisonStatistics.InsertedCharactersCount
+## TextItemComparisonStatistics.InsertedCharactersCount property
 
-تحصل على وتضبط عدد الأحرف المدخلة.
+احصل على وتعيين عدد الأحرف المدخلة.
 
 ```csharp
 public int InsertedCharactersCount { get; }
@@ -19,3 +19,5 @@ public int InsertedCharactersCount { get; }
 * class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,41 +1,43 @@
 ---
-title: Class ClosePath
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.ClosePath. فئة تمثل مشغل h لإغلاق المسار
+title: "فئة ClosePath"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.ClosePath فئة. فئة تمثل المشغل h لإغلاق المسار"
 type: docs
-weight: 7190
+weight: 7330
 url: /ar/net/aspose.pdf.operators/closepath/
 ---
 ## ClosePath class
 
-فئة تمثل مشغل h (إغلاق المسار).
+فئة تمثل المشغل h (close path).
 
 ```csharp
 public class ClosePath : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ClosePath](closepath/)() | يقوم بتهيئة المشغل. |
+| [ClosePath](closepath/)() | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepath/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/closepath/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

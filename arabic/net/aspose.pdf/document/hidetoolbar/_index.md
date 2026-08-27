@@ -1,14 +1,14 @@
 ---
-title: Document.HideToolBar
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستند. تحصل أو تعين علامة تحدد ما إذا كان يجب إخفاء شريط الأدوات عند تنشيط المستند
+title: "Document.HideToolBar"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على أو يضبط العلامة التي تحدد ما إذا كان يجب إخفاء شريط الأدوات عندما يكون المستند نشطًا"
 type: docs
-weight: 240
+weight: 260
 url: /ar/net/aspose.pdf/document/hidetoolbar/
 ---
-## خاصية Document.HideToolBar
+## Document.HideToolBar property
 
-تحصل أو تعين علامة تحدد ما إذا كان يجب إخفاء شريط الأدوات عند تنشيط المستند.
+يحصل أو يعيّن العلامة التي تحدد ما إذا كان يجب إخفاء شريط الأدوات عندما يكون المستند نشطًا.
 
 ```csharp
 public bool HideToolBar { get; set; }
@@ -16,7 +16,7 @@ public bool HideToolBar { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على علامة HideToolBar:
+يوضح المثال كيفية الحصول على علامة HideToolBar:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -28,3 +28,5 @@ bool value = document.HideToolBar;
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تعيين القيمة لتحديد خاصية القيمة للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية Value للحقل المُنشأ/المعدل إذا تم ضبطها"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/value/
 ---
-## خاصية FormFieldOptions.Value
+## FormFieldOptions.Value property
 
-تحصل/تعيين القيمة لتحديد خاصية القيمة للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية Value للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public string Value { get; set; }
@@ -19,3 +19,5 @@ public string Value { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.APlus
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق SuperA/SuperA/A4 بحجم 227 مم × 356 مم
+title: "PaperSizes.APlus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق SuperA/SuperA/A4 227 مم ب 356 مم"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.printing/papersizes/aplus/
 ---
-## حقل PaperSizes.APlus
+## PaperSizes.APlus field
 
 ورق SuperA/SuperA/A4 (227 مم × 356 مم).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize APlus;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

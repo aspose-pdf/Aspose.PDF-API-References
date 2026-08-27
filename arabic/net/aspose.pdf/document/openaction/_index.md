@@ -1,14 +1,14 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل أو يحدد الإجراء الذي يتم تنفيذه عند فتح الوثيقة
+title: "Document.OpenAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تُرجع أو تُعيّن الإجراء الذي يتم عند فتح المستند"
 type: docs
-weight: 390
+weight: 410
 url: /ar/net/aspose.pdf/document/openaction/
 ---
-## خاصية Document.OpenAction
+## Document.OpenAction property
 
-يحصل أو يحدد الإجراء الذي يتم تنفيذه عند فتح الوثيقة.
+يحصل أو يضبط الإجراء الذي يُنفّذ عند فتح المستند.
 
 ```csharp
 public IAppointment OpenAction { get; set; }
@@ -16,7 +16,7 @@ public IAppointment OpenAction { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على علامة CenterWindow:
+يوضح المثال كيفية الحصول على علامة CenterWindow:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,7 +25,9 @@ IAppointment value = document.OpenAction;
 
 ### انظر أيضًا
 
-* الواجهة [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* الفئة [Document](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

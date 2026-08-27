@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCross
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد نمط مربع اختيار متقاطع
+title: "FormFieldFacade.CheckBoxStyleCross"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldFacade. يحدد نمط مربع اختيار صليب"
 type: docs
 weight: 410
 url: /ar/net/aspose.pdf.facades/formfieldfacade/checkboxstylecross/
 ---
-## حقل FormFieldFacade.CheckBoxStyleCross
+## FormFieldFacade.CheckBoxStyleCross field
 
-يحدد نمط مربع اختيار متقاطع.
+يحدد نمط خانة اختيار صليب.
 
 ```csharp
 public const int CheckBoxStyleCross;
@@ -19,3 +19,5 @@ public const int CheckBoxStyleCross;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

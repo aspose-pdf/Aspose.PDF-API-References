@@ -1,22 +1,24 @@
 ---
-title: PaperSources.LargeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل الحاوية للورق ذو الحجم الأكبر
+title: "PaperSources.LargeFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل الحاوية للورق ذات التنسيق الأكبر"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.printing/papersources/largeformat/
 ---
 ## PaperSources.LargeFormat field
 
-يمثل الحاوية للورق ذو الحجم الأكبر.
+تمثل الصندوق للورق بحجم أكبر.
 
 ```csharp
 public static readonly PaperSource LargeFormat;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,69 +1,69 @@
 ---
-title: Class DocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.DocumentPrivilege. تمثل الامتيازات للوصول إلى ملف Pdf. راجع PdfFileSecurity. هناك 4 طرق لاستخدام هذه الفئة 1. استخدام الامتيازات المعرفة مسبقًا مباشرة. 2. بناءً على امتياز معرف مسبقًا وتغيير بعض الأذونات المحددة. 3. بناءً على امتياز معرف مسبقًا وتغيير بعض تركيبات أذونات Adobe Professional المحددة. 4. مزج الطريقة 2 والطريقة 3
+title: "الفئة DocumentPrivilege"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Facades.DocumentPrivilege class. تمثّل الامتيازات للوصول إلى ملف Pdf. ارجع إلى PdfFileSecurity. هناك 4 طرق لاستخدام هذه الفئة 1. استخدام الامتياز المحدد مسبقًا مباشرةً. 2. بناءً على امتياز محدد مسبقًا وتغيير بعض الأذونات المحددة. 3. بناءً على امتياز محدد مسبقًا وتغيير بعض تركيبة أذونات Adobe Professional المحددة. 4. دمج الطريقة 2 والطريقة 3."
 type: docs
-weight: 4230
+weight: 4350
 url: /ar/net/aspose.pdf.facades/documentprivilege/
 ---
 ## DocumentPrivilege class
 
-تمثل الامتيازات للوصول إلى ملف Pdf. راجع [`PdfFileSecurity`](../pdffilesecurity/). هناك 4 طرق لاستخدام هذه الفئة: 1. استخدام الامتيازات المعرفة مسبقًا مباشرة. 2. بناءً على امتياز معرف مسبقًا وتغيير بعض الأذونات المحددة. 3. بناءً على امتياز معرف مسبقًا وتغيير بعض تركيبات أذونات Adobe Professional المحددة. 4. مزج الطريقة 2 والطريقة 3.
+يمثل الامتيازات للوصول إلى ملف Pdf. راجع [`PdfFileSecurity`](../pdffilesecurity/). هناك 4 طرق لاستخدام هذه الفئة: 1. استخدام الامتياز المحدد مسبقًا مباشرة. 2. بناءً على امتياز محدد مسبقًا وتغيير بعض الأذونات المحددة. 3. بناءً على امتياز محدد مسبقًا وتغيير بعض تركيبة أذونات Adobe Professional المحددة. 4. مزيج بين الطريقة 2 والطريقة 3.
 
 ```csharp
 public sealed class DocumentPrivilege : IComparable<object>
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [AllowAll](../../aspose.pdf.facades/documentprivilege/allowall/) { get; } | جميعها مسموح بها. |
+| static [AllowAll](../../aspose.pdf.facades/documentprivilege/allowall/) { get; } | مسموح للجميع. |
 | static [Assembly](../../aspose.pdf.facades/documentprivilege/assembly/) { get; } | يسمح بتجميع الملف. |
 | static [Copy](../../aspose.pdf.facades/documentprivilege/copy/) { get; } | يسمح بنسخ الملف. |
-| static [DegradedPrinting](../../aspose.pdf.facades/documentprivilege/degradedprinting/) { get; } | يسمح بالطباعة المنخفضة الجودة. |
+| static [DegradedPrinting](../../aspose.pdf.facades/documentprivilege/degradedprinting/) { get; } | يسمح بالطباعة المتدهورة. |
 | static [FillIn](../../aspose.pdf.facades/documentprivilege/fillin/) { get; } | يسمح بملء النماذج في الملف. |
-| static [ForbidAll](../../aspose.pdf.facades/documentprivilege/forbidall/) { get; } | جميعها ممنوعة. |
+| static [ForbidAll](../../aspose.pdf.facades/documentprivilege/forbidall/) { get; } | ممنوع للجميع. |
 | static [ModifyAnnotations](../../aspose.pdf.facades/documentprivilege/modifyannotations/) { get; } | يسمح بتعديل التعليقات التوضيحية للملف. |
 | static [ModifyContents](../../aspose.pdf.facades/documentprivilege/modifycontents/) { get; } | يسمح بتعديل الملف. |
 | static [Print](../../aspose.pdf.facades/documentprivilege/print/) { get; } | يسمح بطباعة الملف. |
 | static [ScreenReaders](../../aspose.pdf.facades/documentprivilege/screenreaders/) { get; } | يسمح بالقراءة على الشاشة فقط. |
-| [AllowAssembly](../../aspose.pdf.facades/documentprivilege/allowassembly/) { get; set; } | يحدد الإذن الذي يسمح بالتجميع أو لا. true يسمح و false ممنوع. |
-| [AllowCopy](../../aspose.pdf.facades/documentprivilege/allowcopy/) { get; set; } | يحدد الإذن الذي يسمح بالنسخ أو لا. true يسمح و false ممنوع. |
-| [AllowDegradedPrinting](../../aspose.pdf.facades/documentprivilege/allowdegradedprinting/) { get; set; } | يحدد الإذن الذي يسمح بالطباعة المنخفضة الجودة أو لا. true يسمح و false ممنوع. |
-| [AllowFillIn](../../aspose.pdf.facades/documentprivilege/allowfillin/) { get; set; } | يحدد الإذن الذي يسمح بملء النماذج أو لا. true يسمح و false ممنوع. |
-| [AllowModifyAnnotations](../../aspose.pdf.facades/documentprivilege/allowmodifyannotations/) { get; set; } | يحدد الإذن الذي يسمح بتعديل التعليقات التوضيحية أو لا. true يسمح و false ممنوع. |
-| [AllowModifyContents](../../aspose.pdf.facades/documentprivilege/allowmodifycontents/) { get; set; } | يحدد الإذن الذي يسمح بتعديل المحتويات أو لا. true يسمح و false ممنوع. |
-| [AllowPrint](../../aspose.pdf.facades/documentprivilege/allowprint/) { get; set; } | يحدد الإذن الذي يسمح بالطباعة أو لا. true يسمح و false ممنوع. |
-| [AllowScreenReaders](../../aspose.pdf.facades/documentprivilege/allowscreenreaders/) { get; set; } | يحدد الإذن الذي يسمح بقراءة الشاشة أو لا. true يسمح و false ممنوع. |
-| [ChangeAllowLevel](../../aspose.pdf.facades/documentprivilege/changeallowlevel/) { get; set; } | يحصل على مستوى تغيير امتيازات الوثيقة ويضبطه. تمامًا كما في إعدادات Adobe Professional لتغييرات المسموح بها. 0: لا شيء. 1: إدراج، حذف وتدوير الصفحات. 2: ملء حقول النموذج وتوقيع حقول التوقيع الموجودة. 3: التعليق، ملء حقول النموذج، وتوقيع حقول التوقيع الموجودة. 4: أي شيء باستثناء استخراج الصفحات. |
-| [CopyAllowLevel](../../aspose.pdf.facades/documentprivilege/copyallowlevel/) { get; set; } | يحصل على مستوى النسخ لامتيازات الوثيقة ويضبطه. تمامًا كما في إعدادات أذونات Adobe Professional. 0: لا شيء. 1: تمكين الوصول إلى النص لأجهزة قراءة الشاشة للمكفوفين. 2: تمكين نسخ النصوص والصور والمحتويات الأخرى. |
-| [PrintAllowLevel](../../aspose.pdf.facades/documentprivilege/printallowlevel/) { get; set; } | يحصل على مستوى الطباعة لامتيازات الوثيقة ويضبطه. تمامًا كما في إعدادات Adobe Professional للطباعة المسموح بها. 0: لا شيء. 1: دقة منخفضة (150 نقطة في البوصة). 2: دقة عالية. |
+| [AllowAssembly](../../aspose.pdf.facades/documentprivilege/allowassembly/) { get; set; } | يضبط الإذن الذي يسمح بالتجميع أو لا. true يعني مسموح و false يعني ممنوع. |
+| [AllowCopy](../../aspose.pdf.facades/documentprivilege/allowcopy/) { get; set; } | يضبط الإذن الذي يسمح بالنسخ أو لا. true يعني مسموح و false يعني ممنوع. |
+| [AllowDegradedPrinting](../../aspose.pdf.facades/documentprivilege/allowdegradedprinting/) { get; set; } | يضبط الإذن الذي يسمح بالطباعة المتدهورة أو لا. true يعني مسموح و false يعني ممنوع. |
+| [AllowFillIn](../../aspose.pdf.facades/documentprivilege/allowfillin/) { get; set; } | يضبط الإذن الذي يسمح بملء النماذج أو لا. true يعني مسموح و false يعني ممنوع. |
+| [AllowModifyAnnotations](../../aspose.pdf.facades/documentprivilege/allowmodifyannotations/) { get; set; } | يضبط الإذن الذي يسمح بتعديل التعليقات التوضيحية أو لا. true يعني مسموح و false يعني ممنوع. |
+| [AllowModifyContents](../../aspose.pdf.facades/documentprivilege/allowmodifycontents/) { get; set; } | يضبط الإذن الذي يسمح بتعديل المحتويات أو لا. true يعني مسموح و false يعني ممنوع. |
+| [AllowPrint](../../aspose.pdf.facades/documentprivilege/allowprint/) { get; set; } | يضبط الإذن الذي يسمح بالطباعة أو لا. true يعني مسموح و false يعني ممنوع. |
+| [AllowScreenReaders](../../aspose.pdf.facades/documentprivilege/allowscreenreaders/) { get; set; } | يضبط الإذن الذي يسمح بقوارئ الشاشة أو لا. true يعني مسموح و false يعني ممنوع. |
+| [ChangeAllowLevel](../../aspose.pdf.facades/documentprivilege/changeallowlevel/) { get; set; } | يحصل على ويضبط مستوى التغيير لامتياز المستند. تمامًا كما في إعدادات التغييرات المسموح بها في Adobe Professional. 0: لا شيء. 1: إدراج، حذف وتدوير الصفحات. 2: ملء حقول النماذج وتوقيع الحقول الموقعة الموجودة. 3: التعليق، ملء حقول النماذج، وتوقيع الحقول الموقعة الموجودة. 4: أي شيء باستثناء استخراج الصفحات. |
+| [CopyAllowLevel](../../aspose.pdf.facades/documentprivilege/copyallowlevel/) { get; set; } | يحصل على ويضبط مستوى النسخ لامتياز المستند. تمامًا كما في إعدادات الأذونات في Adobe Professional. 0: لا شيء. 1: تمكين الوصول النصي لأجهزة قارئ الشاشة للمكفوفين. 2: تمكين نسخ النصوص، الصور وغيرها من المحتوى. |
+| [PrintAllowLevel](../../aspose.pdf.facades/documentprivilege/printallowlevel/) { get; set; } | يحصل على ويضبط مستوى الطباعة لامتياز المستند. تمامًا كما في إعدادات الطباعة المسموح بها في Adobe Professional. 0: لا شيء. 1: دقة منخفضة (150 نقطة في البوصة). 2: دقة عالية. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CompareTo](../../aspose.pdf.facades/documentprivilege/compareto/)(object) | يقارن بين كائنين من `DocumentPrivilege`. الكائن الذي سيتم المقارنة به. عدد صحيح موقع يشير إلى القيم النسبية لهذه الحالة والقيمة. أقل من الصفر هذه الحالة أقل من القيمة. صفر هذه الحالة تساوي القيمة. أكبر من الصفر هذه الحالة أكبر من القيمة. |
+| [CompareTo](../../aspose.pdf.facades/documentprivilege/compareto/)(object) | يقارن كائنين من نوع `DocumentPrivilege`. الكائن للمقارنة معه. عدد صحيح موقع يشير إلى القيم النسبية لهذه العينة والقيمة. أقل من الصفر يعني أن هذه العينة أصغر من القيمة. صفر يعني أن هذه العينة مساوية للقيمة. أكبر من الصفر يعني أن هذه العينة أكبر من القيمة. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]	
-//Way1: Using predefined privilege directly.
+//الطريقة 1: استخدام الامتياز المحدد مسبقًا مباشرة.
 DocumentPrivilege privilege = DocumentPrivilege.Print;
 
-//Way2: Based on a predefined privilege and change some specifical permissions.
+//الطريقة 2: بناءً على امتياز محدد مسبقًا وتغيير بعض الأذونات المحددة.
 DocumentPrivilege privilege = DocumentPrivilege.AllowAll;
 privilege.AllowPrint = false;
 privilege.AllowModifyContents = false;
 
-//Way3: Based on a predefined privilege and change some specifical Adobe Professional permissions combination.
+//Way3: بناءً على امتياز محدد مسبقًا وتغيير بعض تركيبات أذونات Adobe Professional المحددة.
 DocumentPrivilege privilege = DocumentPrivilege.ForbidAll;
 privilege.ChangeAllowLevel = 1;
 privilege.PrintAllowLevel = 2;
 
-//Way4: Mixes the way2 and way3
+//Way4: يجمع بين way2 و way3
 DocumentPrivilege privilege = DocumentPrivilege.ForbidAll;
 privilege.ChangeAllowLevel = 1;
 privilege.AllowPrint = true;
@@ -88,7 +88,9 @@ privilege.ChangeAllowLevel = 1
 privilege.AllowPrint = True
 ```
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

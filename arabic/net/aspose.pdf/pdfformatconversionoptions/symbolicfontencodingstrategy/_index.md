@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.SymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. استراتيجية لنسخ بيانات الترميز للخطوط الرمزية إذا كان خط TrueType الرمزي يحتوي على أكثر من جدول ترميز فرعي واحد
+title: "PdfFormatConversionOptions.SymbolicFontEncodingStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. استراتيجية لنسخ بيانات الترميز للخطوط الرمزية إذا كان الخط TrueType الرمزي يحتوي على أكثر من جدول ترميز واحد"
 type: docs
-weight: 200
+weight: 210
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/symbolicfontencodingstrategy/
 ---
-## خاصية PdfFormatConversionOptions.SymbolicFontEncodingStrategy
+## PdfFormatConversionOptions.SymbolicFontEncodingStrategy property
 
-استراتيجية لنسخ بيانات الترميز للخطوط الرمزية إذا كان خط TrueType الرمزي يحتوي على أكثر من جدول ترميز فرعي واحد.
+استراتيجية لنسخ بيانات الترميز للخطوط الرمزية إذا كان الخط TrueType الرمزي يحتوي على أكثر من جدول ترميز فرعي.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set; }
@@ -20,3 +20,5 @@ public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set;
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

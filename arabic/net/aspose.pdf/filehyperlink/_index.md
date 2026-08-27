@@ -1,35 +1,37 @@
 ---
-title: Class FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.FileHyperlink. تمثل كائن ارتباط ملف
+title: "الفئة FileHyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.FileHyperlink. تمثّل كائن ارتباط ملف."
 type: docs
-weight: 4830
+weight: 4950
 url: /ar/net/aspose.pdf/filehyperlink/
 ---
 ## FileHyperlink class
 
-تمثل كائن ارتباط ملف.
+يمثل كائن ارتباط تشعبي للملف.
 
 ```csharp
 public sealed class FileHyperlink : Hyperlink
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileHyperlink](filehyperlink/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `FileHyperlink`. |
-| [FileHyperlink](filehyperlink/#constructor_1)(string) | يقوم بتهيئة مثيل جديد من فئة `FileHyperlink`. |
+| [FileHyperlink](filehyperlink/#constructor)() | تهيئة مثيلة جديدة من الفئة `FileHyperlink`. |
+| [FileHyperlink](filehyperlink/#constructor_1)(string) | تهيئة مثيلة جديدة من الفئة `FileHyperlink`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | يحصل أو يحدد علامة توضح ما إذا كان يجب فتح المستند الوجهة في نافذة جديدة (يؤثر فقط على مستندات PDF). |
-| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | يحصل أو يحدد المسار إلى الملف. |
+| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | يحصل أو يضبط علامة تحدد ما إذا كان سيتم فتح المستند الهدف في نافذة جديدة (يؤثر على مستندات PDF فقط). |
+| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | الحصول أو تعيين مسار الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [Hyperlink](../hyperlink/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

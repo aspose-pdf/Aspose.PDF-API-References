@@ -1,74 +1,76 @@
 ---
-title: Class TableTHElement
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.LogicalStructure.TableTHElement. تمثل عنصر هيكل TH في الهيكل المنطقي للجدول
+title: "الفئة TableTHElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.LogicalStructure.TableTHElement. تمثل عنصر بنية TH في البنية المنطقية للجدول"
 type: docs
-weight: 6830
+weight: 6970
 url: /ar/net/aspose.pdf.logicalstructure/tablethelement/
 ---
 ## TableTHElement class
 
-تمثل عنصر هيكل TH في الهيكل المنطقي للجدول.
+يمثل عنصر بنية TH في الهيكل المنطقي للجدول.
 
 ```csharp
 public sealed class TableTHElement : TableCellElement
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext/) { get; set; } | يحصل أو يحدد النص الفعلي لعنصر الهيكل. |
+| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext/) { get; set; } | يحصل أو يعيّن النص الفعلي لعنصر البنية. |
 | [Alignment](../../aspose.pdf.logicalstructure/tablecellelement/alignment/) { get; set; } | يحصل أو يحدد محاذاة الخلية. |
-| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext/) { get; set; } | يحصل أو يحدد النص البديل لعنصر الهيكل. |
+| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext/) { get; set; } | يحصل أو يعيّن النص البديل لعنصر البنية. |
 | [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes/) { get; } | يحصل على كائن StructureAttributeCollection. |
 | [BackgroundColor](../../aspose.pdf.logicalstructure/tablecellelement/backgroundcolor/) { get; set; } | يحصل أو يحدد لون خلفية الخلية. |
-| [Border](../../aspose.pdf.logicalstructure/tablecellelement/border/) { get; set; } | يحصل أو يحدد حدود الخلية. |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | يحصل على مجموعة الأطفال من كائنات Element. |
-| [ColSpan](../../aspose.pdf.logicalstructure/tablecellelement/colspan/) { get; set; } | يحصل أو يحدد مدى العمود. |
+| [Border](../../aspose.pdf.logicalstructure/tablecellelement/border/) { get; set; } | يحصل أو يحدد حد الخلية. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | يحصل على مجموعة الأطفال لكائنات Element. |
+| [ColSpan](../../aspose.pdf.logicalstructure/tablecellelement/colspan/) { get; set; } | يحصل أو يحدد امتداد العمود. |
 | [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner/) { get; } | يحصل على كائن AttributeOwnerStandard. |
 | [DefaultCellTextState](../../aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate/) { get; set; } | يحصل أو يحدد حالة نص الخلية الافتراضية. |
-| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | يحصل أو يحدد نص التوسع لعنصر الهيكل. |
-| [ID](../../aspose.pdf.logicalstructure/structureelement/id/) { get; } | يحصل على المعرف لعنصر الهيكل. |
-| [IsNoBorder](../../aspose.pdf.logicalstructure/tablecellelement/isnoborder/) { get; set; } | يحصل أو يحدد ما إذا كانت الخلية تحتوي على حدود. |
-| [IsWordWrapped](../../aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/) { get; set; } | يحصل أو يحدد ما إذا كان نص الخلية ملفوفًا. |
-| [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | يحصل أو يحدد اللغة لعنصر الهيكل. |
-| [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin/) { get; set; } | يحصل أو يحدد الحشوة. |
-| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | يحصل على الصفحة التي سيتم عرض بعض أو كل عناصر الأطفال عليها. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | يحصل على العنصر الأب. |
-| [RowSpan](../../aspose.pdf.logicalstructure/tablecellelement/rowspan/) { get; set; } | يحصل أو يحدد مدى الصف. |
+| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | يحصل أو يعيّن نص التوسيع لعنصر البنية. |
+| [ID](../../aspose.pdf.logicalstructure/structureelement/id/) { get; } | يحصل على المعرف لعنصر البنية. |
+| [IsNoBorder](../../aspose.pdf.logicalstructure/tablecellelement/isnoborder/) { get; set; } | يحصل أو يحدد ما إذا كانت الخلية لها حد. |
+| [IsWordWrapped](../../aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/) { get; set; } | الحصول أو تعيين التفاف كلمة النص في الخلية. |
+| [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | يحصل أو يعيّن اللغة لعنصر البنية. |
+| [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin/) { get; set; } | يحصل أو يعيّن الحشو. |
+| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | يحصل على الصفحة التي سيتم فيها عرض بعض أو كل العناصر الفرعية. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | احصل على العنصر الأب. |
+| [RowSpan](../../aspose.pdf.logicalstructure/tablecellelement/rowspan/) { get; set; } | الحصول أو تعيين امتداد الصف. |
 | [StructureTextState](../../aspose.pdf.logicalstructure/tablecellelement/structuretextstate/) { get; } | يحصل على كائن StructureTextState للعنصر الحالي. |
-| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | يحصل على نوع عنصر الهيكل. |
-| [Title](../../aspose.pdf.logicalstructure/structureelement/title/) { get; set; } | يحصل أو يحدد العنوان لعنصر الهيكل. |
-| [VerticalAlignment](../../aspose.pdf.logicalstructure/tablecellelement/verticalalignment/) { get; set; } | يحصل أو يحدد المحاذاة الرأسية. |
+| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | يحصل على نوع عنصر البنية. |
+| [Title](../../aspose.pdf.logicalstructure/structureelement/title/) { get; set; } | يحصل أو يعيّن العنوان لعنصر البنية. |
+| [VerticalAlignment](../../aspose.pdf.logicalstructure/tablecellelement/verticalalignment/) { get; set; } | الحصول أو تعيين المحاذاة العمودية. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [AdjustPosition](../../aspose.pdf.logicalstructure/tablecellelement/adjustposition/)(PositionSettings) |  |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | إضافة عنصر إلى مجموعة الأطفال. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | تغيير العنصر الأب لعنصر الهيكل الحالي |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | إلحاق Element إلى مجموعة الأطفال. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | تغيير العنصر الأب لعنصر البنية الحالي |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | مسح جميع الأطفال. |
-| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | مسح المعرف لعنصر الهيكل. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | العثور على عناصر من نوع معين |
-| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | توليد معرف لعنصر الهيكل. |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | إدراج عنصر في مجموعة الأطفال عند الفهرس المحدد. |
-| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | يزيل: عنصرًا من الهيكل، مرجعًا له من الكائن الأب، مراجع له من الكائنات الفرعية، الكائن المقابل من الوثيقة. |
-| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | يزيل عنصرًا من الهيكل، مرجعًا له من الكائن الأب، مراجع له من الكائنات الفرعية، والكائن المقابل من الوثيقة. يقوم بإدراج كائنات الأطفال للعنصر الذي تمت إزالته في مجموعة كائنات الأطفال للأب السابق بدءًا من فهرس العنصر الذي تمت إزالته. |
-| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | إزالة الطفل عند. |
-| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | تعيين معرف لعنصر الهيكل. |
-| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | تعيين علامة مخصصة لعنصر الهيكل. |
+| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | مسح المعرف لعنصر البنية. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | البحث عن Elements من نوع معين |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | إنشاء معرف لعنصر البنية. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | إدراج Element إلى مجموعة الأطفال في الفهرس المحدد. |
+| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | يزيل: عنصرًا من البنية، وإشارة إليه من الكائن الأب، وإشارات إليه من الكائنات الفرعية، والكائن المقابل من المستند. |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | يزيل عنصرًا من البنية، وإشارة إليه من الكائن الأب، وإشارات إليه من الكائنات الفرعية، والكائن المقابل من المستند. يُدرج كائنات الأطفال للعنصر المُزال في مجموعة كائنات الأطفال السابقة للوالد بدءًا من فهرس العنصر المُزال. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | إزالة العنصر الفرعي عند. |
+| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | يحدد المعرف لعنصر البنية. |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | يحدد علامة مخصصة لعنصر البنية. |
 | [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext/)(string) |  |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | ربط عنصر الهيكل بالتعليق. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | ربط عنصر الهيكل بالأثر. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | ربط عنصر الهيكل بمشغل BDC في تدفق المحتوى. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | ربط عنصر الهيكل بتدفق المحتوى XForm. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | ربط عنصر الهيكل بالصورة XImage. |
-| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | ربط عنصر بنية بـ Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | ربط عنصر بنية بـ Artifact. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | ربط عنصر بنية بمشغل تدفق المحتوى BDC. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | ربط عنصر بنية بتدفق المحتوى XForm. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | ربط عنصر بنية بـ XImage. |
+| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | يرجع سلسلة تمثل الكائن الحالي. |
 
-### See Also
+### انظر أيضًا
 
 * class [TableCellElement](../tablecellelement/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

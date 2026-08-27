@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfContentEditor. يحصل على أو يحدد خيارات استبدال النص
+title: "PdfContentEditor.TextReplaceOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfContentEditor. تحصل أو تعين خيارات استبدال النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/textreplaceoptions/
 ---
-## خاصية PdfContentEditor.TextReplaceOptions
+## PdfContentEditor.TextReplaceOptions property
 
-يحصل على أو يحدد خيارات استبدال النص.
+يحصل أو يعيّن خيارات استبدال النص.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }
@@ -20,3 +20,5 @@ public TextReplaceOptions TextReplaceOptions { get; set; }
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

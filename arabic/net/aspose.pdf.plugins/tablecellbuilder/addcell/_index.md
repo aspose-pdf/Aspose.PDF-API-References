@@ -1,12 +1,12 @@
 ---
-title: TableCellBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableCellBuilder. إضافة خلية إلى الجدول
+title: "TableCellBuilder.AddCell"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableCellBuilder. إضافة خلية إلى الجدول"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/tablecellbuilder/addcell/
 ---
-## طريقة TableCellBuilder.AddCell
+## TableCellBuilder.AddCell method
 
 إضافة خلية إلى الجدول.
 
@@ -16,10 +16,12 @@ public override TableCellBuilder AddCell()
 
 ### قيمة الإرجاع
 
-مثيل من [`TableCellBuilder`](../) الحالي.
+مثيل للـ [`TableCellBuilder`](../).
 
 ### انظر أيضًا
 
-* فئة [TableCellBuilder](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [TableCellBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

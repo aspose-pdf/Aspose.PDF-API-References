@@ -1,14 +1,14 @@
 ---
-title: Measure.SlopeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. مصفوفة تنسيق الأرقام لقياس ميل الخط
+title: "Measure.SlopeFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. مصفوفة تنسيق أرقام لقياس انحدار خط"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/measure/slopeformat/
 ---
-## خاصية Measure.SlopeFormat
+## Measure.SlopeFormat property
 
-مصفوفة تنسيق الأرقام لقياس ميل الخط.
+مصفوفة تنسيق أعداد لقياس انحدار الخط.
 
 ```csharp
 public NumberFormatList SlopeFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList SlopeFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

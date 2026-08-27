@@ -1,14 +1,14 @@
 ---
-title: ListBoxField.SelectedItems
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ListBoxField. تحصل على أو تعين مصفوفة العناصر المحددة في القائمة متعددة التحديد. لقائمة التحديد الفردي، تعيد مصفوفة تحتوي على عنصر واحد
+title: "ListBoxField.SelectedItems"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ListBoxField. تحصل أو تعيين مصفوفة العناصر المحددة في القائمة متعددة الاختيار. بالنسبة للقائمة ذات اختيار واحد تُرجع مصفوفة بعنصر واحد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/listboxfield/selecteditems/
 ---
-## خاصية ListBoxField.SelectedItems
+## ListBoxField.SelectedItems property
 
-تحصل على أو تعين مصفوفة العناصر المحددة في القائمة متعددة التحديد. لقائمة التحديد الفردي، تعيد مصفوفة تحتوي على عنصر واحد.
+يحصل أو يعيّن مصفوفة العناصر المحددة في قائمة التحديد المتعدد. بالنسبة لقائمة التحديد الأحادي تُعيد مصفوفة تحتوي على عنصر واحد.
 
 ```csharp
 public override int[] SelectedItems { set; }
@@ -19,3 +19,5 @@ public override int[] SelectedItems { set; }
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

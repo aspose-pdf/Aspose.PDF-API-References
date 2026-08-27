@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الفقرات. المُنشئ الافتراضي
+title: "Paragraphs.Paragraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Paragraphs. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/paragraphs/paragraphs/
 ---
-## مُنشئ الفقرات
+## Paragraphs constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Paragraphs()
@@ -19,3 +19,5 @@ public Paragraphs()
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

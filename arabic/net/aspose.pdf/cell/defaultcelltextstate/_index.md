@@ -1,14 +1,14 @@
 ---
-title: Cell.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلية. تحصل أو تعين حالة نص الخلية الافتراضية
+title: "Cell.DefaultCellTextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cell. يحصل أو يحدد حالة نص الخلية الافتراضية"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/cell/defaultcelltextstate/
 ---
-## خاصية Cell.DefaultCellTextState
+## Cell.DefaultCellTextState property
 
-تحصل أو تعين حالة نص الخلية الافتراضية.
+يحصل أو يحدد حالة نص الخلية الافتراضية.
 
 ```csharp
 public TextState DefaultCellTextState { get; set; }
@@ -20,3 +20,5 @@ public TextState DefaultCellTextState { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

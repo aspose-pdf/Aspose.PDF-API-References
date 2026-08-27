@@ -1,29 +1,31 @@
 ---
-title: BoundsCheckableList1.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BoundsCheckableList. تبحث عن الكائن المحدد وتعيد الفهرس المعتمد على الصفر لأول ظهور ضمن قائمة System.Collections.Generic.List بأكملها
+title: "BoundsCheckableList1.IndexOf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BoundsCheckableList. تبحث عن الكائن المحدد وتعيد الفهرس الصفري للظهور الأول داخل القائمة الكاملة System.Collections.Generic.List"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.generator/boundscheckablelist-1/indexof/
 ---
 ## BoundsCheckableList&lt;T&gt;.IndexOf method
 
-تبحث عن الكائن المحدد وتعيد الفهرس المعتمد على الصفر لأول ظهور ضمن قائمة System.Collections.Generic.List بأكملها.
+يبحث عن الكائن المحدد ويعيد الفهرس الصفري للظهور الأول داخل System.Collections.Generic.List بأكمله.
 
 ```csharp
 public int IndexOf(T item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | T | الكائن الذي يجب تحديد موقعه في قائمة System.Collections.Generic.List. يمكن أن تكون القيمة null لأنواع المرجع. |
+| item | T | الكائن المراد تحديد موقعه في System.Collections.Generic.List. يمكن أن تكون القيمة null لأنواع المراجع. |
 
-### Return Value
+### قيمة الإرجاع
 
-الفهرس المعتمد على الصفر لأول ظهور لـ *item* ضمن قائمة System.Collections.Generic.List بأكملها، إذا تم العثور عليه؛ خلاف ذلك، -1.
+الفهرس الصفري للظهور الأول للعنصر *item* داخل القائمة الكاملة System.Collections.Generic.List، إذا تم العثور عليه؛ وإلا، –1.
 
-### See Also
+### انظر أيضًا
 
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

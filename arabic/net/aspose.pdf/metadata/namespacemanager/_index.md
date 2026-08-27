@@ -1,14 +1,14 @@
 ---
-title: Metadata.NamespaceManager
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية البيانات الوصفية. تحصل على مدير المساحة الاسمية
+title: "Metadata.NamespaceManager"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Metadata. تحصل على مدير مساحة الأسماء"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/metadata/namespacemanager/
 ---
-## خاصية Metadata.NamespaceManager
+## Metadata.NamespaceManager property
 
-تحصل على مدير المساحة الاسمية.
+يسترجع مدير مساحة الأسماء.
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }
@@ -19,3 +19,5 @@ public XmlNamespaceManager NamespaceManager { get; }
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

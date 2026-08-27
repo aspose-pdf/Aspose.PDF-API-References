@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreFileBatchResponse. تحصل أو تعين الطابع الزمني Unix بالثواني لتاريخ إنشاء دفعة ملفات تخزين المتجهات
+title: "VectorStoreFileBatchResponse.CreatedAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "VectorStoreFileBatchResponse خاصية. يحصل أو يعيّن الطابع الزمني يونكس بالثواني للوقت الذي تم فيه إنشاء دفعة ملفات مخزن المتجهات."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/vectorstorefilebatchresponse/createdat/
 ---
-## خاصية VectorStoreFileBatchResponse.CreatedAt
+## VectorStoreFileBatchResponse.CreatedAt property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) لتاريخ إنشاء دفعة ملفات تخزين المتجهات.
+يحصل أو يعيّن الطابع الزمني لنظام يونكس (بالثواني) للوقت الذي تم فيه إنشاء دفعة ملفات مخزن المتجهات.
 
 ```csharp
 public int? CreatedAt { get; set; }
@@ -19,3 +19,5 @@ public int? CreatedAt { get; set; }
 * class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateFineTuningJobResponse. تحصل أو تعين النموذج المستخدم لعملية التعديل الدقيق
+title: "CreateFineTuningJobResponse.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CreateFineTuningJobResponse الخاصية. يحصل أو يحدد النموذج المستخدم لوظيفة الضبط الدقيق"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/createfinetuningjobresponse/model/
 ---
-## خاصية CreateFineTuningJobResponse.Model
+## CreateFineTuningJobResponse.Model property
 
-تحصل أو تعين النموذج المستخدم لعملية التعديل الدقيق.
+يحصل أو يضبط النموذج المستخدم في مهمة التحسين الدقيق.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

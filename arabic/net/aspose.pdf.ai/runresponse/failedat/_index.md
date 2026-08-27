@@ -1,14 +1,14 @@
 ---
-title: RunResponse.FailedAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين الطابع الزمني لنظام Unix بالثواني عندما فشل التشغيل
+title: "RunResponse.FailedAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين الطابع الزمني Unix بالثواني للوقت الذي فشل فيه التنفيذ"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/runresponse/failedat/
 ---
-## خاصية RunResponse.FailedAt
+## RunResponse.FailedAt property
 
-تحصل أو تعين الطابع الزمني لنظام Unix (بالثواني) عندما فشل التشغيل.
+يحصل أو يعيّن الطابع الزمني يونيكس (بالثواني) للوقت الذي فشل فيه التشغيل.
 
 ```csharp
 public long? FailedAt { get; set; }
@@ -19,3 +19,5 @@ public long? FailedAt { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

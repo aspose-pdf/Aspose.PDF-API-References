@@ -1,14 +1,14 @@
 ---
-title: PdfToDocOptions.PdfToDocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfToDocOptions. يقوم بتهيئة مثيل جديد من كائن PdfToDocOptions مع خيارات افتراضية
+title: "PdfToDocOptions.PdfToDocOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfToDocOptions. يهيئ نسخة جديدة من كائن PdfToDocOptions مع الخيارات الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/pdftodocoptions/pdftodocoptions/
 ---
 ## PdfToDocOptions() {#constructor}
 
-يُهيئ مثيلًا جديدًا من كائن [`PdfToDocOptions`](../) مع خيارات افتراضية.
+يهيئ نسخة جديدة من كائن [`PdfToDocOptions`](../) مع الخيارات الافتراضية.
 
 ```csharp
 public PdfToDocOptions()
@@ -24,16 +24,16 @@ public PdfToDocOptions()
 
 ## PdfToDocOptions(SaveFormat, ConversionMode) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من كائن [`PdfToDocOptions`](../) للتنسيق والوضع المحددين.
+يهيئ نسخة جديدة من كائن [`PdfToDocOptions`](../) للتنسيق والوضع المحددين.
 
 ```csharp
 public PdfToDocOptions(SaveFormat format, ConversionMode mode)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| format | SaveFormat | تنسيق حفظ مستند [`SaveFormat`](../saveformat/) الناتج. |
-| mode | ConversionMode | وضع تحويل مستند [`ConversionMode`](../conversionmode/) الناتج. |
+| format | SaveFormat | تنسيق الحفظ لمستند الإخراج [`SaveFormat`](../saveformat/). |
+| mode | ConversionMode | وضع التحويل لمستند الإخراج [`ConversionMode`](../conversionmode/). |
 
 ### انظر أيضًا
 
@@ -42,3 +42,5 @@ public PdfToDocOptions(SaveFormat format, ConversionMode mode)
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

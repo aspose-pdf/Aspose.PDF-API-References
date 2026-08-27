@@ -1,14 +1,14 @@
 ---
-title: Color.Yellow
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFFFFF00
+title: "Color.Yellow"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يسترجع لونًا معرفًا بالنظام له قيمة ARGB بقيمة c FFFFFF00"
 type: docs
 weight: 1410
 url: /ar/net/aspose.pdf/color/yellow/
 ---
-## خاصية Color.Yellow
+## Color.Yellow property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFFFFF00.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFFFFF00.
 
 ```csharp
 public static Color Yellow { get; }
@@ -16,10 +16,12 @@ public static Color Yellow { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

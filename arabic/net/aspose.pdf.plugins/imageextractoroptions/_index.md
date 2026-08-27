@@ -1,14 +1,14 @@
 ---
-title: Class ImageExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.ImageExtractorOptions. تمثل خيارات استخراج الصور لملحق ImageExtractor
+title: "الفئة ImageExtractorOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.ImageExtractorOptions class. يمثل خيارات استخراج الصور لإضافة ImageExtractor plugin"
 type: docs
-weight: 8900
+weight: 9030
 url: /ar/net/aspose.pdf.plugins/imageextractoroptions/
 ---
-## فئة ImageExtractorOptions
+## ImageExtractorOptions class
 
-تمثل خيارات استخراج الصور لملحق ImageExtractor.
+يمثل خيارات استخراج الصور للمكوّن الإضافي ImageExtractor.
 
 ```csharp
 public sealed class ImageExtractorOptions : PdfExtractorOptions
@@ -18,27 +18,29 @@ public sealed class ImageExtractorOptions : PdfExtractorOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [ImageExtractorOptions](imageextractoroptions/)() | المنشئ الافتراضي. |
+| [ImageExtractorOptions](imageextractoroptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | يعيد مجموعة بيانات ملحق PdfExtractor. |
-| override [OperationName](../../aspose.pdf.plugins/imageextractoroptions/operationname/) { get; } | يعيد اسم العملية. |
+| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | يعيد مجموعة بيانات إضافة PdfExtractor. |
+| override [OperationName](../../aspose.pdf.plugins/imageextractoroptions/operationname/) { get; } | يرجع اسم العملية. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحق PdfExtractor. |
+| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات إضافة PdfExtractor. |
 
 ## ملاحظات
 
-ترث وظائف لإضافة بيانات (ملفات، تدفقات) تمثل مستندات PDF المدخلة.
+إنه يرث وظائف لإضافة بيانات (ملفات، تدفقات) تمثّل مستندات PDF المدخلة.
 
 ### انظر أيضًا
 
-* فئة [PdfExtractorOptions](../pdfextractoroptions/)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [PdfExtractorOptions](../pdfextractoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

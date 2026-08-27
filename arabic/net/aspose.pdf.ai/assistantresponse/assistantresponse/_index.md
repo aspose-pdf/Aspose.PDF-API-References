@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.AssistantResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ AssistantResponse. المُنشئ الافتراضي
+title: "AssistantResponse.AssistantResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ AssistantResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/assistantresponse/assistantresponse/
 ---
-## مُنشئ AssistantResponse
+## AssistantResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public AssistantResponse()
@@ -19,3 +19,5 @@ public AssistantResponse()
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

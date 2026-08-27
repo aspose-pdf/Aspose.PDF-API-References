@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.Path
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextExtractionErrorLocation. موقع مستند PDF حيث حدث خطأ في استخراج النص
+title: "TextExtractionErrorLocation.Path"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextExtractionErrorLocation. موقع مستند PDF حيث ظهر خطأ استخراج النص"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textextractionerrorlocation/path/
 ---
-## خاصية TextExtractionErrorLocation.Path
+## TextExtractionErrorLocation.Path property
 
-موقع مستند PDF حيث حدث خطأ في استخراج النص.
+موقع مستند PDF حيث ظهر خطأ استخراج النص.
 
 ```csharp
 public string Path { get; }
@@ -19,3 +19,5 @@ public string Path { get; }
 * class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

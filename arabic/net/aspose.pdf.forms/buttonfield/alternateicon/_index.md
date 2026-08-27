@@ -1,14 +1,14 @@
 ---
-title: ButtonField.AlternateIcon
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ButtonField. تحصل أو تعين أيقونة بديلة سيتم عرضها عندما يتم الضغط على زر الماوس داخل منطقتها النشطة
+title: "ButtonField.AlternateIcon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ButtonField. يحصل أو يضبط الأيقونة البديلة التي ستُعرض عندما يُضغط زر الفأرة داخل منطقته النشطة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/buttonfield/alternateicon/
 ---
-## خاصية ButtonField.AlternateIcon
+## ButtonField.AlternateIcon property
 
-تحصل أو تعين أيقونة بديلة سيتم عرضها عندما يتم الضغط على زر الماوس داخل منطقتها النشطة.
+يحصل أو يعيّن الأيقونة البديلة التي ستُعرض عندما يُضغط زر الفأرة داخل المنطقة النشطة له.
 
 ```csharp
 public XForm AlternateIcon { get; set; }
@@ -20,3 +20,5 @@ public XForm AlternateIcon { get; set; }
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

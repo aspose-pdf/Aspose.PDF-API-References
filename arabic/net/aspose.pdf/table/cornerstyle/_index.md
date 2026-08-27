@@ -1,14 +1,14 @@
 ---
-title: Table.CornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل أو تعين أنماط زوايا الحدود
+title: "Table.CornerStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. يحصل أو يضبط أنماط زوايا الحدود"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/table/cornerstyle/
 ---
-## خاصية Table.CornerStyle
+## Table.CornerStyle property
 
-تحصل أو تعين أنماط زوايا الحدود
+الحصول أو تعيين أنماط زوايا الحدود
 
 ```csharp
 public BorderCornerStyle CornerStyle { get; set; }
@@ -20,3 +20,5 @@ public BorderCornerStyle CornerStyle { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

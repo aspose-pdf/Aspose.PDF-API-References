@@ -1,14 +1,14 @@
 ---
-title: Class CgmLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.CgmLoadOptions. تحتوي على خيارات لتحميل/استيراد ملف CGM إلى مستند PDF
+title: "الفئة CgmLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.CgmLoadOptions. تحتوي على خيارات لتحميل/استيراد ملف CGM إلى مستند pdf"
 type: docs
-weight: 3010
+weight: 3120
 url: /ar/net/aspose.pdf/cgmloadoptions/
 ---
-## فئة CgmLoadOptions
+## CgmLoadOptions class
 
-تحتوي على خيارات لتحميل/استيراد ملف CGM إلى مستند PDF.
+يحتوي على خيارات لتحميل/استيراد ملف CGM إلى مستند pdf.
 
 ```csharp
 public sealed class CgmLoadOptions : LoadOptions
@@ -18,20 +18,22 @@ public sealed class CgmLoadOptions : LoadOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [CgmLoadOptions](cgmloadoptions/#constructor)() | ينشئ خيارات تحميل افتراضية لتحويل ملف CGM إلى مستند PDF. حجم صفحة PDF الافتراضي - A4 300dpi 2480 X 3508. |
-| [CgmLoadOptions](cgmloadoptions/#constructor_1)(SizeF) | ينشئ خيارات تحميل مع !:pageSize محددة. |
+| [CgmLoadOptions](cgmloadoptions/#constructor)() | ينشئ خيارات التحميل الافتراضية لتحويل ملف CGM إلى مستند pdf. حجم صفحة pdf الافتراضي - A4 300dpi 2480 X 3508. |
+| [CgmLoadOptions](cgmloadoptions/#constructor_1)(SizeF) | ينشئ خيارات التحميل مع حجم الصفحة المحدد !:pageSize. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize/) { get; } | يحصل أو يحدد حجم الصفحة الناتجة للاستيراد. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize/) { get; } | يحصل أو يعيّن حجم صفحة الإخراج للاستيراد. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
 
 ### انظر أيضًا
 
-* فئة [LoadOptions](../loadoptions/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

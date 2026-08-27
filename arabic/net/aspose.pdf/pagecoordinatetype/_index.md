@@ -1,9 +1,9 @@
 ---
-title: Enum PageCoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageCoordinateType enum. يصف نوع إحداثيات الصفحة
+title: "تعداد PageCoordinateType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.PageCoordinateType. يصف نوع إحداثيات الصفحة"
 type: docs
-weight: 8100
+weight: 8240
 url: /ar/net/aspose.pdf/pagecoordinatetype/
 ---
 ## PageCoordinateType enumeration
@@ -14,14 +14,16 @@ url: /ar/net/aspose.pdf/pagecoordinatetype/
 public enum PageCoordinateType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| MediaBox | `0` | يتم استخدام MediaBox لتحديد عرض وارتفاع الصفحة. بالنسبة للمستخدم العادي، هذا يعادل على الأرجح حجم الصفحة الفعلي. MediaBox هو أكبر صندوق صفحة في PDF. يمكن أن تساوي صناديق الصفحات الأخرى حجم MediaBox ولكن لا يمكن أن تكون أكبر. |
-| CropBox | `1` | يحدد CropBox المنطقة التي سيتم قص محتويات الصفحة إليها. يستخدم Acrobat هذا الحجم لعرض الشاشة والطباعة. |
+| MediaBox | `0` | يتم استخدام MediaBox لتحديد عرض وارتفاع الصفحة. بالنسبة للمستخدم العادي، ربما يساوي ذلك الحجم الفعلي للصفحة. MediaBox هو أكبر صندوق صفحة في ملف PDF. يمكن للصناديق الأخرى أن تساوي حجم MediaBox لكنها لا يمكن أن تكون أكبر. |
+| CropBox | `1` | يحدد CropBox المنطقة التي يجب قص محتويات الصفحة إليها. يستخدم Acrobat هذا الحجم للعرض على الشاشة والطباعة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

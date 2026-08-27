@@ -1,22 +1,22 @@
 ---
-title: FontSubstitutionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontSubstitutionCollection. تحصل على عنصر الخط في الفهرس المحدد
+title: "FontSubstitutionCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontSubstitutionCollection. تحصل على عنصر الخط في الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/fontsubstitutioncollection/item/
 ---
-## فهرس FontSubstitutionCollection
+## FontSubstitutionCollection indexer
 
-تحصل على عنصر الخط في الفهرس المحدد.
+يحصل على عنصر الخط في الفهرس المحدد.
 
 ```csharp
 public FontSubstitution this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس داخل المجموعة. |
+| index | Index within the collection. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public FontSubstitution this[int index] { get; }
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

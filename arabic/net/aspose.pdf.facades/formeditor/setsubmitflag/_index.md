@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetSubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تعيين علامة الإرسال لزر الإرسال
+title: "FormEditor.SetSubmitFlag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تعيين علامة الإرسال (submit flag) لزر الإرسال."
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf.facades/formeditor/setsubmitflag/
 ---
-## طريقة FormEditor.SetSubmitFlag
+## FormEditor.SetSubmitFlag method
 
 تعيين علامة الإرسال لزر الإرسال.
 
@@ -14,14 +14,14 @@ url: /ar/net/aspose.pdf.facades/formeditor/setsubmitflag/
 public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم زر الإرسال. |
 | submitFormFlag | SubmitFormFlag | علامة الإرسال. |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على الحقل وتم تعيين علامة الإرسال بنجاح.
+صحيح إذا تم العثور على الحقل وتم تعيين علامة الإرسال بنجاح.
 
 ## أمثلة
 
@@ -36,3 +36,5 @@ formEditor.SetSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

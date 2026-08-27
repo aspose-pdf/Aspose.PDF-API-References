@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicElementCollection. تُرجع عدادًا للمجموعة بأكملها
+title: "GraphicElementCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicElementCollection. تُرجِع مُعدِّدًا للمجموعة بالكامل"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.vector/graphicelementcollection/getenumerator/
 ---
-## طريقة GraphicElementCollection.GetEnumerator
+## GraphicElementCollection.GetEnumerator method
 
-تُرجع عدادًا للمجموعة بأكملها.
+يرجع عدّادًا للمجموعة بالكامل.
 
 ```csharp
 public IEnumerator<GraphicElement> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<GraphicElement> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد.
+Enumerator object.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<GraphicElement> GetEnumerator()
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

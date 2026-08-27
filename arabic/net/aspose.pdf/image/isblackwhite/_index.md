@@ -1,14 +1,14 @@
 ---
-title: Image.IsBlackWhite
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت الصورة مجبرة على أن تكون بالأبيض والأسود. إذا تم استخدام صورة TIFF من تنسيق CCITT الفرعي، يجب تعيين هذه الخاصية إلى true
+title: "Image.IsBlackWhite"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع أو يعيّن قيمة منطقية تشير إلى ما إذا كانت الصورة مجبرة على أن تكون بالأبيض والأسود. إذا تم استخدام صورة TIFF من تنسيق فرعي CCITT يجب ضبط هذه الخاصية إلى true"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/image/isblackwhite/
 ---
-## خاصية Image.IsBlackWhite
+## Image.IsBlackWhite property
 
-تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت الصورة مجبرة على أن تكون بالأبيض والأسود. إذا تم استخدام صورة TIFF من تنسيق CCITT الفرعي، يجب تعيين هذه الخاصية إلى true.
+يحصل أو يعيّن قيمة من نوع bool تشير إلى ما إذا كان يتم إجبار الصورة على أن تكون بالأبيض والأسود. إذا تم استخدام صورة TIFF من تنسيق فرعي CCITT، يجب تعيين هذه الخاصية إلى true.
 
 ```csharp
 public bool IsBlackWhite { get; set; }
@@ -19,3 +19,5 @@ public bool IsBlackWhite { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

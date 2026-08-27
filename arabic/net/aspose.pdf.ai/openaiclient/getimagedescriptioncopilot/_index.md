@@ -1,23 +1,23 @@
 ---
-title: OpenAIClient.GetImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تحصل على مثيل من IImageDescriptionCopilot مع الخيارات المحددة
+title: "OpenAIClient.GetImageDescriptionCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. يحصل على نسخة من IImageDescriptionCopilot مع الخيارات المحددة"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.ai/openaiclient/getimagedescriptioncopilot/
 ---
-## طريقة OpenAIClient.GetImageDescriptionCopilot
+## OpenAIClient.GetImageDescriptionCopilot method
 
-تحصل على مثيل من [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) مع الخيارات المحددة.
+يحصل على نسخة من [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) مع الخيارات المحددة.
 
 ```csharp
 public IImageDescriptionCopilot GetImageDescriptionCopilot(
     IImageDescriptionCopilotOptions<OpenAIImageDescriptionCopilotOptions> options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | IImageDescriptionCopilotOptions`1 | الخيارات الخاصة بكوبيلوت وصف الصورة. |
+| options | IImageDescriptionCopilotOptions`1 | الخيارات الخاصة بمساعد وصف الصورة. |
 
 ### قيمة الإرجاع
 
@@ -25,9 +25,11 @@ public IImageDescriptionCopilot GetImageDescriptionCopilot(
 
 ### انظر أيضًا
 
-* واجهة [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* واجهة [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* فئة [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
-* فئة [OpenAIClient](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

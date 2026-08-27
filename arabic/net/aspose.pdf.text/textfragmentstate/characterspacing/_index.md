@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.CharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين تباعد الأحرف للنص الممثل بواسطة كائن TextFragment
+title: "TextFragmentState.CharacterSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تحصل أو تعين تباعد الأحرف للنص الممثل بواسطة كائن TextFragment"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textfragmentstate/characterspacing/
 ---
-## خاصية TextFragmentState.CharacterSpacing
+## TextFragmentState.CharacterSpacing property
 
-تحصل أو تعين تباعد الأحرف للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/) .
+تحصل أو تعين تباعد الأحرف للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override float CharacterSpacing { get; set; }
@@ -19,3 +19,5 @@ public override float CharacterSpacing { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

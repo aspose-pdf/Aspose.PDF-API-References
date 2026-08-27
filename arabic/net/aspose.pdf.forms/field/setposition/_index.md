@@ -1,22 +1,22 @@
 ---
-title: Field.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Field. تعيين موضع الحقل
+title: "Field.SetPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Field. تعيين موضع الحقل"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.forms/field/setposition/
 ---
-## طريقة Field.SetPosition
+## Field.SetPosition method
 
-تعيين موضع الحقل.
+حدد موضع الحقل.
 
 ```csharp
 public virtual void SetPosition(Point point)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| point | Point | النقطة التي يجب أن يتم وضع الحقل فيها. |
+| نقطة | نقطة | النقطة التي يجب وضع الحقل فيها. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public virtual void SetPosition(Point point)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

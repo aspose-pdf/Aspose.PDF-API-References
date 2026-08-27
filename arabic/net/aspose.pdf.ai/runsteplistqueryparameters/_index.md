@@ -1,43 +1,45 @@
 ---
-title: Class RunStepListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunStepListQueryParameters class. كائن معلمات الاستعلام لقائمة خطوات التشغيل
+title: "الفئة RunStepListQueryParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.RunStepListQueryParameters. كائن معلمات الاستعلام لإدراج خطوات التنفيذ"
 type: docs
-weight: 1040
+weight: 1120
 url: /ar/net/aspose.pdf.ai/runsteplistqueryparameters/
 ---
 ## RunStepListQueryParameters class
 
-كائن معلمات الاستعلام لقائمة خطوات التشغيل.
+كائن معلمات الاستعلام لسرد خطوات التنفيذ.
 
 ```csharp
 public class RunStepListQueryParameters : BaseListQueryParameters, IQueryParameters
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [RunStepListQueryParameters](runsteplistqueryparameters/)() | المُنشئ الافتراضي. |
+| [RunStepListQueryParameters](runsteplistqueryparameters/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | يحصل أو يحدد مؤشرًا للاستخدام في الترقيم. after هو معرف كائن يحدد مكانك في القائمة. على سبيل المثال، إذا قمت بعمل طلب قائمة وتلقيت 100 كائن، ينتهي بـ obj_foo، يمكن أن يتضمن استدعاؤك التالي after=obj_foo من أجل جلب الصفحة التالية من القائمة. |
-| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | يحصل أو يحدد مؤشرًا للاستخدام في الترقيم. before هو معرف كائن يحدد مكانك في القائمة. على سبيل المثال، إذا قمت بعمل طلب قائمة وتلقيت 100 كائن، ينتهي بـ obj_foo، يمكن أن يتضمن استدعاؤك التالي before=obj_foo من أجل جلب الصفحة السابقة من القائمة. |
-| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | يحصل أو يحدد حدًا لعدد الكائنات التي سيتم إرجاعها. يمكن أن يتراوح الحد بين 1 و 100، والافتراضي هو 20. |
-| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | يحصل أو يحدد ترتيب الفرز حسب الطابع الزمني created_at للكائنات. asc للترتيب التصاعدي و desc للترتيب التنازلي. |
+| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | يحصل أو يعيّن مؤشرًا للاستخدام في الترميز الصفحي. after هو معرف كائن يحدد موقعك في القائمة. على سبيل المثال، إذا قمت بطلب قائمة وتلقيت 100 كائن، ينتهي بـ obj_foo، يمكن للطلب اللاحق أن يتضمن after=obj_foo لجلب الصفحة التالية من القائمة. |
+| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | يحصل أو يعيّن مؤشرًا للاستخدام في الترميز الصفحي. before هو معرف كائن يحدد موقعك في القائمة. على سبيل المثال، إذا قمت بطلب قائمة وتلقيت 100 كائن، ينتهي بـ obj_foo، يمكن للطلب اللاحق أن يتضمن before=obj_foo لجلب الصفحة السابقة من القائمة. |
+| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | يحصل أو يعيّن حدًا لعدد الكائنات التي سيتم إرجاعها. يمكن أن يتراوح الحد بين 1 و 100، والافتراضي هو 20. |
+| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | يحصل أو يعيّن ترتيب الفرز حسب طابع الوقت created_at للكائنات. asc للترتيب التصاعدي و desc للترتيب التنازلي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetQueryParameters](../../aspose.pdf.ai/runsteplistqueryparameters/getqueryparameters/)() | يحصل على معلمات الاستعلام لقائمة خطوات التشغيل. |
+| [GetQueryParameters](../../aspose.pdf.ai/runsteplistqueryparameters/getqueryparameters/)() | يحصل على معلمات الاستعلام لسرد خطوات التشغيل. |
 
-### See Also
+### انظر أيضًا
 
 * class [BaseListQueryParameters](../baselistqueryparameters/)
 * interface [IQueryParameters](../iqueryparameters/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

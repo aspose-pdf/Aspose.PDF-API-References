@@ -1,12 +1,12 @@
 ---
-title: Form.SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تحصل أو تعين خيارات الحفظ عندما يتم تخزين النتيجة كـ HttpResponse. القيمة الافتراضية PdfSaveOptions
+title: "Form.SaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تحصل أو تعيّن خيارات الحفظ عندما يتم تخزين النتيجة كـ HttpResponse. القيمة الافتراضية PdfSaveOptions"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/form/saveoptions/
 ---
-## خاصية Form.SaveOptions
+## Form.SaveOptions property
 
 تحصل أو تعين خيارات الحفظ عندما يتم تخزين النتيجة كـ HttpResponse. القيمة الافتراضية: PdfSaveOptions.
 
@@ -20,3 +20,5 @@ public SaveOptions SaveOptions { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

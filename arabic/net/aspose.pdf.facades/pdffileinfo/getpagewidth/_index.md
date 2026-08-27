@@ -1,20 +1,20 @@
 ---
-title: PdfFileInfo.GetPageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileInfo. تحصل على عرض الصفحة المحددة
+title: "PdfFileInfo.GetPageWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileInfo. تحصل على عرض الصفحة المحددة."
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf.facades/pdffileinfo/getpagewidth/
 ---
-## طريقة PdfFileInfo.GetPageWidth
+## PdfFileInfo.GetPageWidth method
 
-تحصل على عرض الصفحة المحددة.
+يحصل على عرض الصفحة المحددة.
 
 ```csharp
 public float GetPageWidth(int pageNum)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageNum | Int32 | رقم الصفحة. |
 
@@ -27,3 +27,5 @@ public float GetPageWidth(int pageNum)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

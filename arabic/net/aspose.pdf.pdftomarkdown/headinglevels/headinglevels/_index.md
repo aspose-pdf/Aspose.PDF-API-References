@@ -1,14 +1,14 @@
 ---
-title: HeadingLevels.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ HeadingLevels. ينشئ مثيلًا جديدًا من فئة HeadingLevels
+title: "HeadingLevels.HeadingLevels"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ HeadingLevels. ينشئ مثيلًا جديدًا من فئة HeadingLevels."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.pdftomarkdown/headinglevels/headinglevels/
 ---
 ## HeadingLevels() {#constructor}
 
-ينشئ مثيلًا جديدًا من فئة HeadingLevels.
+ينشئ مثلاً جديداً من الفئة HeadingLevels.
 
 ```csharp
 public HeadingLevels()
@@ -24,18 +24,20 @@ public HeadingLevels()
 
 ## HeadingLevels(double) {#constructor_1}
 
-ينشئ مثيلًا جديدًا من فئة HeadingLevels.
+ينشئ مثلاً جديداً من الفئة HeadingLevels.
 
 ```csharp
 public HeadingLevels(double threshold)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threshold | Double | قيمة العتبة لمقارنة أحجام الخطوط. ضمن العتبة، تكون مستويات العناوين هي نفسها. القيمة الافتراضية للعتبة هي 0.01. |
+| الحد | Double | قيمة العتبة لمقارنة أحجام الخط. داخل العتبة، مستويات العناوين هي نفسها. القيمة الافتراضية للعتبة هي 0.01. |
 
 ### انظر أيضًا
 
 * class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.ImagePlacementAbsorber. تمثل كائن ماص لكائنات وضع الصورة. تقوم بالبحث عن استخدامات الصور وتوفر الوصول إلى نتائج البحث عبر مجموعة ImagePlacements
+title: "الفئة ImagePlacementAbsorber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.ImagePlacementAbsorber. تمثل كائن ماص لأجسام وضع الصور. يقوم بالبحث عن استخدامات الصور ويوفر الوصول إلى نتائج البحث عبر مجموعة ImagePlacements."
 type: docs
-weight: 5910
+weight: 6040
 url: /ar/net/aspose.pdf/imageplacementabsorber/
 ---
-## فئة ImagePlacementAbsorber
+## ImagePlacementAbsorber class
 
-تمثل كائن ماص لكائنات وضع الصورة. تقوم بالبحث عن استخدامات الصور وتوفر الوصول إلى نتائج البحث عبر مجموعة [`ImagePlacements`](./imageplacements/) .
+تمثل كائن ماص لأجسام وضع الصور. يقوم بالبحث عن استخدامات الصور ويوفر الوصول إلى نتائج البحث عبر مجموعة [`ImagePlacements`](./imageplacements/).
 
 ```csharp
 public sealed class ImagePlacementAbsorber
@@ -18,41 +18,41 @@ public sealed class ImagePlacementAbsorber
 
 | الاسم | الوصف |
 | --- | --- |
-| [ImagePlacementAbsorber](imageplacementabsorber/)() | المنشئ الافتراضي. |
+| [ImagePlacementAbsorber](imageplacementabsorber/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements/) { get; } | يحصل على مجموعة من حالات وضع الصورة التي يتم تقديمها مع كائنات [`ImagePlacement`](../imageplacement/) . |
-| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode/) { get; set; } | يحصل على/يحدد وضع القراءة فقط لمجموعة عمليات التحليل. قد يساعد ذلك في تجنب استثناءات نفاد الذاكرة. |
+| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements/) { get; } | يحصل على مجموعة من حالات وضع الصورة التي تُعرض باستخدام كائنات [`ImagePlacement`](../imageplacement/). |
+| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode/) { get; set; } | يحصل/يضبط وضع القراءة فقط لمجموعة عمليات التحليل. قد يساعد ذلك في تجنب استثناءات نفاد الذاكرة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit)(Document) | يقوم بالبحث في المستند المحدد. |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit_1)(Page) | يقوم بالبحث في الصفحة المحددة. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit)(Document) | ينفّذ البحث على المستند المحدد. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit_1)(Page) | ينفّذ البحث على الصفحة المحددة. |
 
 ## ملاحظات
 
-يتم استخدام كائن `ImagePlacementAbsorber` بشكل أساسي في سيناريو بحث الصور. عند الانتهاء من البحث، يتم تمثيل الحالات مع كائنات [`ImagePlacement`](../imageplacement/) التي تحتوي عليها مجموعة [`ImagePlacements`](./imageplacements/). يوفر كائن [`ImagePlacement`](../imageplacement/) الوصول إلى خصائص وضع الصورة: الأبعاد، الدقة، إلخ. دوران الصورة الإيجابي يكون عكس عقارب الساعة، بينما بالنسبة للصفحة، يكون مع عقارب الساعة. هنا، نحتاج إلى تمثيل زاوية دوران الصورة، لذا نقوم بطرح زاوية الصفحة من زاوية الصورة.
+كائن `ImagePlacementAbsorber` يُستخدم أساسًا في سيناريو البحث عن الصور. عند اكتمال البحث يتم تمثيل الحالات بكائنات [`ImagePlacement`](../imageplacement/) التي يحتويها مجموعة [`ImagePlacements`](./imageplacements/). يوفر كائن [`ImagePlacement`](../imageplacement/) إمكانية الوصول إلى خصائص وضع الصورة: الأبعاد، الدقة، إلخ. دوران الصورة الإيجابي يكون عكس اتجاه عقارب الساعة، أما للصفحة فيكون مع اتجاه عقارب الساعة. هنا، نحتاج إلى تمثيل زاوية دوران الصورة، لذا نطرح زاوية الصفحة من زاوية الصورة.
 
 ## أمثلة
 
-توضح المثال كيفية العثور على الصور في الصفحة الأولى من مستند PDF والحصول على خصائص وضع الصورة.
+يوضح المثال كيفية العثور على الصور في الصفحة الأولى من مستند PDF والحصول على خصائص وضع الصورة.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create ImagePlacementAbsorber object to perform image placement search
+// إنشاء كائن ImagePlacementAbsorber لإجراء بحث عن وضع الصورة
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(abs);
 
-// Display image placement properties for all placements
+// عرض خصائص وضع الصورة لجميع المواضعات.
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {     
     Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
@@ -66,5 +66,7 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

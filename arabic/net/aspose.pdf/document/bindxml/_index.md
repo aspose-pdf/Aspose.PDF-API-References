@@ -1,9 +1,9 @@
 ---
-title: Document.BindXml
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Document. ربط xml بالمستند
+title: "Document.BindXml"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. ربط xml بـ Document"
 type: docs
-weight: 550
+weight: 570
 url: /ar/net/aspose.pdf/document/bindxml/
 ---
 ## BindXml(string) {#bindxml_3}
@@ -14,11 +14,11 @@ url: /ar/net/aspose.pdf/document/bindxml/
 public void BindXml(string file)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | file | String | ملف xml |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,12 +34,12 @@ public void BindXml(string file)
 public void BindXml(string xmlFile, string xslFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | xmlFile | String | ملف xml. |
 | xslFile | String | ملف xsl إذا تم استخدام XSLT. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -55,12 +55,12 @@ public void BindXml(string xmlFile, string xslFile)
 public void BindXml(Stream xmlStream, Stream xslStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xmlStream | Stream | تدفق xml. |
-| xslStream | Stream | تدفق xsl إذا تم استخدام XSLT. |
+| xmlStream | Stream | دفق xml. |
+| xslStream | Stream | دفق xsl إذا تم استخدام XSLT. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -76,13 +76,13 @@ public void BindXml(Stream xmlStream, Stream xslStream)
 public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xmlStream | Stream | تدفق xml. |
-| xslStream | Stream | تدفق xsl إذا تم استخدام XSLT. |
-| settings | XmlReaderSettings | إعدادات قارئ xml. |
+| xmlStream | Stream | دفق xml. |
+| xslStream | Stream | دفق xsl إذا تم استخدام XSLT. |
+| الإعدادات | XmlReaderSettings | إعدادات قارئ xml. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -98,12 +98,14 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 public void BindXml(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق xml. |
+| stream | Stream | دفق xml. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

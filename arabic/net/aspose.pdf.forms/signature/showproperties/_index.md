@@ -1,14 +1,14 @@
 ---
-title: Signature.ShowProperties
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. فرض إظهار/إخفاء خصائص التوقيع. في حالة كون ShowProperties صحيحًا، فإن حقل التوقيع له تنسيق مسبق التعريف لسلاسل المظهر لتمثيل  تم التوقيع رقميًا بواسطة موضوع الشهادة تاريخ التوقيع.تاريخ سبب التوقيع.سبب موقع التوقيع.موقع حيث X هو عنصر نائب لقيمة X. أيضًا يمكن أن يحتوي التوقيع على صورة، في هذه الحالة يتم وضع السلاسل المدرجة فوق الصورة. ShowProperties صحيح بشكل افتراضي
+title: "Signature.ShowProperties"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. إجبار إظهار/إخفاء خصائص التوقيع. في حالة كون ShowProperties صحيحًا، يحتوي حقل التوقيع على تنسيق مسبق لسلاسل المظهر لتمثيل  Digitally signed by certificate subject Date signature.Date Reason signature.Reason Location signature.Location حيث X هو عنصر نائب لقيمة X. يمكن أن يحتوي التوقيع أيضًا على صورة، وفي هذه الحالة تُوضع السلاسل المذكورة فوق الصورة. ShowProperties صحيح بشكل افتراضي"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.forms/signature/showproperties/
 ---
-## خاصية Signature.ShowProperties
+## Signature.ShowProperties property
 
-فرض إظهار/إخفاء خصائص التوقيع. في حالة كون ShowProperties صحيحًا، فإن حقل التوقيع له تنسيق مسبق التعريف للمظهر (سلاسل لتمثيل): ------------------------------------------- تم التوقيع رقميًا بواسطة {موضوع الشهادة} التاريخ: {signature.Date} السبب: {signature.Reason} الموقع: {signature.Location} ------------------------------------------- حيث {X} هو عنصر نائب لقيمة X. أيضًا يمكن أن يحتوي التوقيع على صورة، في هذه الحالة يتم وضع السلاسل المدرجة فوق الصورة. ShowProperties صحيح بشكل افتراضي.
+فرض إظهار/إخفاء خصائص التوقيع. في حالة كون ShowProperties صحيحًا، يكون لحقل التوقيع تنسيق مظهر محدد مسبقًا (سلاسل تمثيلية): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- حيث {X} هو عنصر نائبي لقيمة X. يمكن أيضًا أن يحتوي التوقيع على صورة، وفي هذه الحالة تُوضع السلاسل المذكورة فوق الصورة. ShowProperties صحيح بشكل افتراضي.
 
 ```csharp
 public bool ShowProperties { get; set; }
@@ -19,3 +19,5 @@ public bool ShowProperties { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

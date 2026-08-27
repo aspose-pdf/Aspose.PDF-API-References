@@ -1,14 +1,14 @@
 ---
-title: ColorBarAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ColorBarAnnotation. تحصل على نوع التعليق
+title: "ColorBarAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ColorBarAnnotation. يحصل على نوع التعليق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/colorbarannotation/annotationtype/
 ---
-## خاصية ColorBarAnnotation.AnnotationType
+## ColorBarAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

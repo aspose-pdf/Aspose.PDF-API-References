@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ArtifactCollection. هل هذا الكائن متزامن
+title: "ArtifactCollection.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ArtifactCollection. هل هذا الكائن متزامن"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/artifactcollection/issynchronized/
 ---
-## خاصية ArtifactCollection.IsSynchronized
+## ArtifactCollection.IsSynchronized property
 
 هل هذا الكائن متزامن.
 
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

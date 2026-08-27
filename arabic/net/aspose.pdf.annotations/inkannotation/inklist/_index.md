@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.InkList
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية InkAnnotation. تحصل أو تعين قائمة الإيماءات التي هي خطوط مستقلة تمثلها مصفوفات Point
+title: "InkAnnotation.InkList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية InkAnnotation. تُرجع أو تُعيّن قائمة الإيماءات التي هي خطوط مستقلة ممثلة بمصفوفات Point"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/inkannotation/inklist/
 ---
-## خاصية InkAnnotation.InkList
+## InkAnnotation.InkList property
 
-تحصل أو تعين قائمة الإيماءات التي هي خطوط مستقلة تمثلها مصفوفات Point[].
+يحصل أو يعيّن قائمة الإيماءات التي هي خطوط مستقلة ممثلة بمصفوفات Point[].
 
 ```csharp
 public IList<Point[]> InkList { get; set; }
@@ -20,3 +20,5 @@ public IList<Point[]> InkList { get; set; }
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

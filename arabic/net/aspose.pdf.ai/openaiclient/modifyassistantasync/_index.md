@@ -1,21 +1,21 @@
 ---
-title: OpenAIClient.ModifyAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تعدل مساعدًا موجودًا بشكل غير متزامن
+title: "OpenAIClient.ModifyAssistantAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تعدل مساعدًا موجودًا بشكل غير متزامن"
 type: docs
-weight: 390
+weight: 400
 url: /ar/net/aspose.pdf.ai/openaiclient/modifyassistantasync/
 ---
-## طريقة OpenAIClient.ModifyAssistantAsync
+## OpenAIClient.ModifyAssistantAsync method
 
-تعدل مساعدًا موجودًا بشكل غير متزامن.
+يعدل مساعدًا موجودًا بشكل غير متزامن.
 
 ```csharp
 public Task<AssistantResponse> ModifyAssistantAsync(string assistantId, 
     AssistantModifyRequest assistantModifyRequest, CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | assistantId | String | معرف المساعد الذي سيتم تعديله. |
 | assistantModifyRequest | AssistantModifyRequest | كائن الطلب الذي يحتوي على تفاصيل التعديل. |
@@ -23,13 +23,13 @@ public Task<AssistantResponse> ModifyAssistantAsync(string assistantId,
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من تعديل المساعد.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من تعديل المساعد.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف المساعد فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرف المساعد null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<AssistantResponse> ModifyAssistantAsync(string assistantId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

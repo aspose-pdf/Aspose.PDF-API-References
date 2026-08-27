@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة HeaderFooter. تنسخ كائنًا جديدًا
+title: "HeaderFooter.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة HeaderFooter. تنسخ كائنًا جديدًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/headerfooter/clone/
 ---
-## طريقة HeaderFooter.Clone
+## HeaderFooter.Clone method
 
-تنسخ كائنًا جديدًا.
+ينسخ كائنًا جديدًا.
 
 ```csharp
 public object Clone()
@@ -23,3 +23,5 @@ public object Clone()
 * class [HeaderFooter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

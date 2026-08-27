@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTextState. تحصل أو تعين النص الفرعي
+title: "StructureTextState.Subscript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTextState. تحصل أو تعين النص الفرعي"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.logicalstructure/structuretextstate/subscript/
 ---
-## خاصية StructureTextState.Subscript
+## StructureTextState.Subscript property
 
-تحصل أو تعين النص الفرعي.
+يحصل أو يضبط النص تحت السطر.
 
 ```csharp
 public bool? Subscript { get; set; }
@@ -16,10 +16,12 @@ public bool? Subscript { get; set; }
 
 ## ملاحظات
 
-يمكن أن تكون فارغة. استخدم فارغًا لوراثة خاصية `Subscript` من عنصر الهيكل الأب.
+يمكن أن تكون null. استخدم null لتوريث خاصية `Subscript` من عنصر البنية الأصل
 
 ### انظر أيضًا
 
 * class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

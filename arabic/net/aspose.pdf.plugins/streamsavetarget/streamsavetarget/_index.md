@@ -1,20 +1,20 @@
 ---
-title: StreamSaveTarget.StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ StreamSaveTarget. يُهيئ هدف حفظ تدفق جديد
+title: "StreamSaveTarget.StreamSaveTarget"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ StreamSaveTarget. يهيئ هدف حفظ تدفق جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/streamsavetarget/streamsavetarget/
 ---
-## مُنشئ StreamSaveTarget
+## StreamSaveTarget constructor
 
-يُهيئ هدف حفظ تدفق جديد.
+ينشئ هدف حفظ تدفق جديد.
 
 ```csharp
 public StreamSaveTarget(Stream stream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | stream | Stream | تدفق لهدف الحفظ. |
 
@@ -23,3 +23,5 @@ public StreamSaveTarget(Stream stream)
 * class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

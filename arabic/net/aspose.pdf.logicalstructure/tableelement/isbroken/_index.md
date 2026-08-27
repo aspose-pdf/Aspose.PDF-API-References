@@ -1,14 +1,14 @@
 ---
-title: TableElement.IsBroken
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. يحصل أو يحدد ما إذا كانت الجدول مكسورًا - سيتم اقتطاعه للصفحة التالية
+title: "TableElement.IsBroken"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. يحصل أو يضبط حالة كسر الجدول وسيتم تقصيره للصفحة التالية"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/isbroken/
 ---
-## خاصية TableElement.IsBroken
+## TableElement.IsBroken property
 
-يحصل أو يحدد ما إذا كانت الجدول مكسورًا - سيتم اقتطاعه للصفحة التالية.
+الحصول أو تعيين كسر الجدول - سيتم اقتطاعه للصفحة التالية.
 
 ```csharp
 public bool IsBroken { get; set; }
@@ -19,3 +19,5 @@ public bool IsBroken { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

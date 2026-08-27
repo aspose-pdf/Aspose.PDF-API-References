@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationCollection. تحصل على عدد التعليقات في المجموعة
+title: "AnnotationCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationCollection. تحصل على عدد annotations في المجموعة."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/annotationcollection/count/
 ---
-## خاصية AnnotationCollection.Count
+## AnnotationCollection.Count property
 
-تحصل على عدد التعليقات في المجموعة.
+يحصل على عدد التعليقات في المجموعة.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

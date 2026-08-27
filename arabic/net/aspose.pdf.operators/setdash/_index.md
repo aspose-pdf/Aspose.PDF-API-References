@@ -1,43 +1,45 @@
 ---
-title: Class SetDash
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetDash. فئة تمثل نمط خط التقطيع لمجموعة المشغلين d
+title: "فئة SetDash"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.SetDash فئة. فئة تمثل مشغل d لتعيين نمط الخط المتقطع"
 type: docs
-weight: 7690
+weight: 7830
 url: /ar/net/aspose.pdf.operators/setdash/
 ---
 ## SetDash class
 
-فئة تمثل مشغل d (تعيين نمط خط متقطع).
+الفئة التي تمثل المشغل d (تعيين نمط الشرط المتقطع للخط).
 
 ```csharp
 public class SetDash : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetDash](setdash/)(int[], int) | ينشئ مشغل نمط متقطع. |
+| [SetDash](setdash/)(int[], int) | ينشئ مشغل تعيين نمط الخط المتقطع. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [Pattern](../../aspose.pdf.operators/setdash/pattern/) { get; set; } | نمط المتقطع. يجب أن تكون عناصر المصفوفة أرقامًا تحدد أطوال المتقطعات والفجوات المتناوبة. في حالة مصفوفة ذات عنصر واحد، تكون أطوال المتقطع والفجوة متساوية. |
-| [Phase](../../aspose.pdf.operators/setdash/phase/) { get; set; } | مرحلة المتقطع. قبل البدء في رسم مسار، يجب أن يتم تدوير مصفوفة المتقطع، مع إضافة أطوال المتقطعات والفجوات. عندما تساوي الطول المتراكم القيمة المحددة بواسطة مرحلة المتقطع، يجب أن يبدأ رسم المسار، ويجب استخدام مصفوفة المتقطع بشكل دوري من تلك النقطة فصاعدًا. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [Pattern](../../aspose.pdf.operators/setdash/pattern/) { get; set; } | نمط الخط المتقطع. يجب أن تكون عناصر المصفوفة أرقامًا تحدد أطوال الشرط المتناوب والفواصل. في حالة مصفوفة عنصر واحد تكون أطوال الشرط والفاصل متساوية. |
+| [Phase](../../aspose.pdf.operators/setdash/phase/) { get; set; } | مرحلة الخط المتقطع. قبل بدء رسم مسار، يجب تمرير مصفوفة الخط المتقطع، مع جمع أطوال الشرط والفواصل. عندما يساوي الطول المتراكم القيمة المحددة بواسطة مرحلة الخط المتقطع، يبدأ رسم المسار، وتُستخدم مصفوفة الخط المتقطع بشكل دوري من تلك النقطة فصاعدًا. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setdash/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/setdash/tostring/)() | يحصل على تمثيل سلسلة للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setdash/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/setdash/tostring/)() | يحصل على تمثيل النص للمشغل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragment.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين محاذاة عمودية لجزء النص
+title: "TextFragment.VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragment. يحصل على أو يعيّن محاذاة رأسية لجزء النص"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.text/textfragment/verticalalignment/
 ---
-## خاصية TextFragment.VerticalAlignment
+## TextFragment.VerticalAlignment property
 
-تحصل أو تعين محاذاة عمودية لجزء النص.
+يحصل أو يعيّن محاذاة رأسية لجزء النص.
 
 ```csharp
 public override VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public override VerticalAlignment VerticalAlignment { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

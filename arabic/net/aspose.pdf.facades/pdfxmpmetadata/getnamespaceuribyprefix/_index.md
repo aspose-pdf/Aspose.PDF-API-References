@@ -1,26 +1,26 @@
 ---
-title: PdfXmpMetadata.GetNamespaceURIByPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfXmpMetadata. تحصل على URI المساحة الاسمية بواسطة البادئة
+title: "PdfXmpMetadata.GetNamespaceURIByPrefix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfXmpMetadata. يحصل على URI مساحة الاسم حسب البادئة"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix/
 ---
-## طريقة PdfXmpMetadata.GetNamespaceURIByPrefix
+## PdfXmpMetadata.GetNamespaceURIByPrefix method
 
-تحصل على URI المساحة الاسمية بواسطة البادئة.
+يحصل على URI للمساحة الاسمية حسب البادئة.
 
 ```csharp
 public string GetNamespaceURIByPrefix(string prefix)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | prefix | String | البادئة. |
 
 ### قيمة الإرجاع
 
-URI المساحة الاسمية.
+مساحة الاسم URI.
 
 ## أمثلة
 
@@ -34,3 +34,5 @@ Console.WriteLine(xmp.GetNamespaceURIByPrefix("xmp"));
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PdfSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PdfSaveOptions. خيارات الحفظ للتصدير إلى تنسيق PDF
+title: "الفئة PdfSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PdfSaveOptions. خيارات الحفظ للتصدير إلى تنسيق Pdf"
 type: docs
-weight: 8430
+weight: 8570
 url: /ar/net/aspose.pdf/pdfsaveoptions/
 ---
-## فئة PdfSaveOptions
+## PdfSaveOptions class
 
-خيارات الحفظ للتصدير إلى تنسيق PDF
+خيارات الحفظ للتصدير إلى تنسيق Pdf
 
 ```csharp
 public class PdfSaveOptions : SaveOptions
@@ -18,29 +18,29 @@ public class PdfSaveOptions : SaveOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions/)() | المنشئ الافتراضي. |
+| [PdfSaveOptions](pdfsaveoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كانت رموز الخطوط ستُخزن أثناء إعداد صفحات APS. يحسن أداء تحويل PDF إلى تنسيقات أخرى ولكنه يزيد من استهلاك الذاكرة. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كان سيتم إغلاق كائن الاستجابة بعد حفظ المستند في الاستجابة. |
-| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | اسم الخط المستخدم بشكل افتراضي للخطوط التي لا توجد على الكمبيوتر. عندما يحتوي مستند PDF الذي يتم حفظه على خطوط غير متاحة في المستند نفسه وعلى الجهاز، يستبدل API هذه الخطوط بالخط الافتراضي (إذا وُجد خط باسم [`DefaultFontName`](./defaultfontname/) على الجهاز) |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | يحصل أو يعيّن قيمة منطقية تشير إلى ما إذا سيتم تخزين رموز الخط في الذاكرة المؤقتة أثناء إعداد صفحات aps. يحسن أداء تحويل PDF إلى صيغ أخرى لكنه يزيد من استهلاك الذاكرة. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | يحصل أو يعيّن قيمة منطقية تشير إلى ما إذا سيتم إغلاق كائن Response بعد حفظ المستند في الاستجابة. |
+| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | اسم الخط المستخدم افتراضيًا للخطوط التي لا توجد على الحاسوب. عندما يحتوي مستند PDF الذي يتم حفظه إلى PDF على خطوط غير متوفرة في المستند نفسه وعلى الجهاز، تقوم الـ API باستبدال هذه الخطوط بالخط الافتراضي (إذا تم العثور على خط باسم [`DefaultFontName`](./defaultfontname/) على الجهاز). |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | تنسيق حفظ البيانات. |
-| [TempPath](../../aspose.pdf/pdfsaveoptions/temppath/) { get; set; } | مسار الملفات المؤقتة. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية الحفظ. |
+| [TempPath](../../aspose.pdf/pdfsaveoptions/temppath/) { get; set; } | المسار للملفات المؤقتة. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | استدعاء رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك قد يُعيد المستخدم Abort وفي هذه الحالة يجب إيقاف عملية الحفظ. |
 
 ## أمثلة
 
-يوضح المثال التالي كيفية تعيين اسم الخط الافتراضي أثناء حفظ PDF
+المثال التالي يوضح كيفية تعيين اسم الخط الافتراضي أثناء حفظ PDF.
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// Load an existing PDF document with missing font
+	// تحميل مستند PDF موجود بخط مفقود
 	string documentName = dataDir + "input.pdf";
 	string fontName = "Arial";
 	using (System.IO.FileStream fs = new System.IO.FileStream(documentName, System.IO.FileMode.Open))
@@ -48,7 +48,7 @@ public class PdfSaveOptions : SaveOptions
 	{
 		PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
 
-		// Specify Default Font Name
+		// تحديد اسم الخط الافتراضي
 		pdfSaveOptions.DefaultFontName = fontName;
 		document.Save(dataDir + "output_out.pdf", pdfSaveOptions);
 	}
@@ -78,6 +78,8 @@ public class PdfSaveOptions : SaveOptions
 
 ### انظر أيضًا
 
-* فئة [SaveOptions](../saveoptions/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

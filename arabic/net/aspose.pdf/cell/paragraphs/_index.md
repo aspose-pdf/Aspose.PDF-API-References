@@ -1,14 +1,14 @@
 ---
-title: Cell.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلية. تحصل أو تعين نص الخلية المنسق
+title: "Cell.Paragraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cell. يحصل أو يحدد النص المنسق للخلية"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/cell/paragraphs/
 ---
-## خاصية Cell.Paragraphs
+## Cell.Paragraphs property
 
-تحصل أو تعين نص الخلية المنسق.
+يحصل أو يضبط النص المنسق للخلية.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -20,3 +20,5 @@ public Paragraphs Paragraphs { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

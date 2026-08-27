@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.PercentValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ContentsResizeValue. تعيين القيمة كنسبة مئوية من حجم الصفحة
+title: "PdfFileEditor.ContentsResizeValue.PercentValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ContentsResizeValue خاصية. يحدد القيمة بالنسبة المئوية لحجم الصفحة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue/
 ---
-## خاصية PdfFileEditor.ContentsResizeValue.PercentValue
+## PdfFileEditor.ContentsResizeValue.PercentValue property
 
-تعيين القيمة كنسبة مئوية من حجم الصفحة.
+يضبط القيمة بالنسبة المئوية لحجم الصفحة.
 
 ```csharp
 public double PercentValue { set; }
@@ -19,3 +19,5 @@ public double PercentValue { set; }
 * class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

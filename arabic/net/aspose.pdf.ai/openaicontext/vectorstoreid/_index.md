@@ -1,14 +1,14 @@
 ---
-title: OpenAIContext.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIContext. يحصل على أو يحدد معرف متجر المتجهات
+title: "OpenAIContext.VectorStoreId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OpenAIContext خاصية. يحصل أو يعيّن معرف مخزن المتجهات"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/openaicontext/vectorstoreid/
 ---
-## خاصية OpenAIContext.VectorStoreId
+## OpenAIContext.VectorStoreId property
 
-يحصل على أو يحدد معرف متجر المتجهات.
+يحصل أو يضبط معرف مخزن المتجهات.
 
 ```csharp
 public string VectorStoreId { get; set; }
@@ -19,3 +19,5 @@ public string VectorStoreId { get; set; }
 * class [OpenAIContext](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

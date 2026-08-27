@@ -1,25 +1,27 @@
 ---
-title: Curve.Curve
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Curve. يُهيئ مثيلًا جديدًا من فئة Curve
+title: "Curve.Curve"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Curve. يهيئ نسخة جديدة من فئة Curve"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.drawing/curve/curve/
 ---
-## مُنشئ Curve
+## Curve constructor
 
-يُهيئ مثيلًا جديدًا من فئة [`Curve`](../).
+يهيئ نسخة جديدة من فئة [`Curve`](../).
 
 ```csharp
 public Curve(float[] positionArray)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| positionArray | Single[] | مصفوفة الموضع لنقاط التحكم في المنحنى. يجب أن تكون هناك أربع نقاط تحكم، لذا يجب أن تكون طول المصفوفة ثمانية. |
+| positionArray | Single[] | مصفوفة المواقع لنقاط التحكم في المنحنى. يجب أن تكون هناك أربع نقاط تحكم، لذا يجب أن يكون طول المصفوفة ثمانية. |
 
 ### انظر أيضًا
 
-* فئة [Curve](../)
-* مساحة الأسماء [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../../)
+* class [Curve](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

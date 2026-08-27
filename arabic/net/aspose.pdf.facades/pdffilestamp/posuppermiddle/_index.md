@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosUpperMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfFileStamp. الموضع العلوي الأوسط
+title: "PdfFileStamp.PosUpperMiddle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfFileStamp. موضع أعلى وسط"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.facades/pdffilestamp/posuppermiddle/
 ---
-## حقل PdfFileStamp.PosUpperMiddle
+## PdfFileStamp.PosUpperMiddle field
 
 الموضع العلوي الأوسط.
 
@@ -19,3 +19,5 @@ public const int PosUpperMiddle;
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

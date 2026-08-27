@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.ResultFiles
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateFineTuningJobResponse. تحصل أو تعين قائمة ملفات النتائج لوظيفة الضبط الدقيق
+title: "CreateFineTuningJobResponse.ResultFiles"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CreateFineTuningJobResponse الخاصية. يحصل أو يحدد قائمة ملفات النتيجة لوظيفة الضبط الدقيق"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/createfinetuningjobresponse/resultfiles/
 ---
-## خاصية CreateFineTuningJobResponse.ResultFiles
+## CreateFineTuningJobResponse.ResultFiles property
 
-تحصل أو تعين قائمة ملفات النتائج لوظيفة الضبط الدقيق.
+يحصل أو يضبط قائمة ملفات النتائج لمهمة التحسين الدقيق.
 
 ```csharp
 public List<string> ResultFiles { get; set; }
@@ -19,3 +19,5 @@ public List<string> ResultFiles { get; set; }
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

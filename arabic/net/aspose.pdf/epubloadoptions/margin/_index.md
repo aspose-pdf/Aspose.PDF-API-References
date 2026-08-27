@@ -1,14 +1,14 @@
 ---
-title: EpubLoadOptions.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EpubLoadOptions. تحصل على مرجع على كائن يمثل معلومات الهوامش
+title: "EpubLoadOptions.Margin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EpubLoadOptions. تحصل على مرجع إلى الكائن الذي يمثل معلومات الهوامش"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/epubloadoptions/margin/
 ---
-## خاصية EpubLoadOptions.Margin
+## EpubLoadOptions.Margin property
 
-تحصل على مرجع على كائن يمثل معلومات الهوامش.
+يحصل على مرجع إلى كائن يمثل معلومات الهوامش.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

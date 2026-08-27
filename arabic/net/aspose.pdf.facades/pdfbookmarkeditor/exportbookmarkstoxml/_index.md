@@ -1,20 +1,20 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToXML
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfBookmarkEditor. تصدير العلامات إلى ملف XML
+title: "PdfBookmarkEditor.ExportBookmarksToXML"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfBookmarkEditor. تصدر العلامات المرجعية إلى ملف XML"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/
 ---
 ## ExportBookmarksToXML(string) {#exportbookmarkstoxml_1}
 
-يصدر العلامات إلى ملف XML.
+يصدّر الإشارات المرجعية إلى ملف XML.
 
 ```csharp
 public void ExportBookmarksToXML(string xmlFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | xmlFile | String | ملف XML الناتج. |
 
@@ -36,18 +36,20 @@ editor.ExportBookmarksToXML("bookmarks.xml");
 
 ## ExportBookmarksToXML(Stream) {#exportbookmarkstoxml}
 
-يصدر العلامات إلى تدفق XML.
+يصدّر الإشارات المرجعية إلى تدفق XML.
 
 ```csharp
 public void ExportBookmarksToXML(Stream stream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق الإخراج حيث سيتم تخزين البيانات. |
+| stream | Stream | دفق الإخراج حيث سيتم تخزين البيانات. |
 
 ### انظر أيضًا
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

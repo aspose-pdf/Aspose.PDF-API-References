@@ -1,30 +1,32 @@
 ---
-title: FormEditor.AddFieldScript
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. أضف JavaScript لحقل PushButton. إذا كان هناك حدث قديم، يتم إضافة الحدث الجديد بعده
+title: "FormEditor.AddFieldScript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. أضف JavaScript لحقل زر ضغط. إذا كان الحدث القديم موجودًا يُضاف الحدث الجديد بعده"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/formeditor/addfieldscript/
 ---
-## طريقة FormEditor.AddFieldScript
+## FormEditor.AddFieldScript method
 
-أضف JavaScript لحقل PushButton. إذا كان هناك حدث قديم، يتم إضافة الحدث الجديد بعده.
+إضافة JavaScript لحقل زر ضغط. إذا كان هناك حدث قديم، يُضاف الحدث الجديد بعده.
 
 ```csharp
 public bool AddFieldScript(string fieldName, string script)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم الحقل المؤهل بالكامل. |
-| script | String | Java script الذي سيتم إضافته/وضعه في حقل زر الدفع. |
+| نص برمجي | String | سكريبت Java الذي سيتم إضافته/وضعه في حقل زر الضغط. |
 
 ### قيمة الإرجاع
 
-صحيح في حالة إضافة البرنامج النصي بنجاح.
+صحيح في حال تم إضافة السكريبت بنجاح.
 
 ### انظر أيضًا
 
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

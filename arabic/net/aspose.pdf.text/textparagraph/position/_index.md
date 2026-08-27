@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextParagraph. تحصل أو تعين موضع الفقرة
+title: "TextParagraph.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يحدد موضع الفقرة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textparagraph/position/
 ---
-## خاصية TextParagraph.Position
+## TextParagraph.Position property
 
-تحصل أو تعين موضع الفقرة.
+يحصل أو يعيّن موضع الفقرة.
 
 ```csharp
 public Position Position { get; set; }
@@ -20,3 +20,5 @@ public Position Position { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

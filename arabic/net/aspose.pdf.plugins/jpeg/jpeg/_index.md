@@ -1,14 +1,14 @@
 ---
-title: Jpeg.Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Jpeg. المُنشئ الافتراضي
+title: "Jpeg.Jpeg"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Jpeg. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/jpeg/jpeg/
 ---
-## مُنشئ Jpeg
+## Jpeg constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Jpeg()
@@ -19,3 +19,5 @@ public Jpeg()
 * class [Jpeg](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

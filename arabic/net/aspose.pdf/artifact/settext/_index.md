@@ -1,22 +1,22 @@
 ---
-title: Artifact.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Artifact. تعيين نص الأثر
+title: "Artifact.SetText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Artifact. تعيين نص القطعة."
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf/artifact/settext/
 ---
-## طريقة Artifact.SetText
+## Artifact.SetText method
 
-تعيين نص الأثر.
+يضبط نص العنصر.
 
 ```csharp
 public void SetText(FormattedText formattedText)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| formattedText | FormattedText | كائن FormattedText الذي يحتوي على نص الأثر. |
+| formattedText | FormattedText | كائن FormattedText الذي يحتوي على نص القطعة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void SetText(FormattedText formattedText)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

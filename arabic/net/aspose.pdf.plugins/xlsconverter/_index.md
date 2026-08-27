@@ -1,50 +1,52 @@
 ---
-title: Class XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.XlsConverter. تمثل مكون XlsConverter
+title: "الفئة XlsConverter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.XlsConverter. تمثل ملحق XlsConverter"
 type: docs
-weight: 9450
+weight: 9600
 url: /ar/net/aspose.pdf.plugins/xlsconverter/
 ---
 ## XlsConverter class
 
-تمثل مكون `XlsConverter`.
+تمثل ملحق `XlsConverter`.
 
 ```csharp
 public sealed class XlsConverter : IDisposable, IPlugin
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [XlsConverter](xlsconverter/)() | المُنشئ الافتراضي. |
+| [XlsConverter](xlsconverter/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Dispose](../../aspose.pdf.plugins/xlsconverter/dispose/)() | تنفيذ IDisposable. |
-| [Process](../../aspose.pdf.plugins/xlsconverter/process/)(IPluginOptions) | يبدأ معالجة PdfToExcel مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/xlsconverter/process/)(IPluginOptions) | يبدأ معالجة PdfToExcel بالمعلمات المحددة. |
 
-## Examples
+## أمثلة
 
-توضح هذه المثال كيفية تحويل PDF إلى مستند XLSX.
+يوضح المثال كيفية تحويل PDF إلى مستند XLSX.
 
 ```csharp
-// create XlsConverter converter
+// إنشاء محول XlsConverter
 var converter = new XlsConverter();
-// create PdfToXLSOptions 
+// إنشاء PdfToXLSOptions
 var opt = new PdfToXLSOptions();
-// add input file path
+// إضافة مسار ملف الإدخال
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// تعيين مسار ملف الإخراج
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

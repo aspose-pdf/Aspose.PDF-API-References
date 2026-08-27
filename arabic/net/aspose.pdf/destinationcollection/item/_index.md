@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DestinationCollection. يحصل على كائن الوجهة حسب الفهرس
+title: "DestinationCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DestinationCollection. تحصل على كائن الوجهة حسب الفهرس."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/destinationcollection/item/
 ---
-## فهرس DestinationCollection
+## DestinationCollection indexer
 
 يحصل على كائن الوجهة حسب الفهرس.
 
@@ -14,16 +14,18 @@ url: /ar/net/aspose.pdf/destinationcollection/item/
 public KeyValuePair<string, object> this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | فهرس الوجهة المراد الحصول عليها. |
+| index | الفهرس للوجهة المطلوب الحصول عليه. |
 
 ### قيمة الإرجاع
 
-وجهة.
+الوجهة.
 
 ### انظر أيضًا
 
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

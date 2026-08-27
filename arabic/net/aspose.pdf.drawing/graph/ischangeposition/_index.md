@@ -1,14 +1,14 @@
 ---
-title: Graph.IsChangePosition
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الرسم. يحصل أو يحدد تغيير الموضع الحالي بعد معالجة الفقرة. 
+title: "Graph.IsChangePosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Graph. يحصل أو يضبط تغيير الموضع الحالي بعد معالجة الفقرة. الافتراضي true"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.drawing/graph/ischangeposition/
 ---
-## خاصية Graph.IsChangePosition
+## Graph.IsChangePosition property
 
-يحصل أو يحدد تغيير الموضع الحالي بعد معالجة الفقرة. (افتراضي صحيح)
+يحصل أو يعيّن تغيير الموضع الحالي بعد معالجة الفقرة. (القيمة الافتراضية true)
 
 ```csharp
 public bool IsChangePosition { get; set; }
@@ -19,3 +19,5 @@ public bool IsChangePosition { get; set; }
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

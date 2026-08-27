@@ -1,14 +1,14 @@
 ---
-title: Document.RepairOptions.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RepairOptions. المُنشئ الافتراضي
+title: "Document.RepairOptions.RepairOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RepairOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/document.repairoptions/repairoptions/
 ---
-## مُنشئ Document.RepairOptions
+## Document.RepairOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public RepairOptions()
@@ -19,3 +19,5 @@ public RepairOptions()
 * class [RepairOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

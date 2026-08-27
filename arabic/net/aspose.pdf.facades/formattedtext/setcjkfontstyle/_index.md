@@ -1,14 +1,14 @@
 ---
-title: FormattedText.SetCjkFontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormattedText. تغير نمط خط FormattedText لخط CJK الصيني أو الياباني أو الكوري
+title: "FormattedText.SetCjkFontStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormattedText. تغير نمط خط FormattedText للخطوط الصينية أو اليابانية أو الكورية CJK"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/formattedtext/setcjkfontstyle/
 ---
-## طريقة FormattedText.SetCjkFontStyle
+## FormattedText.SetCjkFontStyle method
 
-تغير نمط خط FormattedText لخط CJK (الصيني، الياباني، أو الكوري).
+يغيّر نمط خط FormattedText للخط CJK (الصيني أو الياباني أو الكوري).
 
 ```csharp
 public void SetCjkFontStyle()
@@ -19,3 +19,5 @@ public void SetCjkFontStyle()
 * class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptionCollection. تزيل جميع العناصر من المجموعة
+title: "OptionCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptionCollection. تُزيل جميع العناصر من المجموعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/optioncollection/clear/
 ---
-## طريقة OptionCollection.Clear
+## OptionCollection.Clear method
 
-تزيل جميع العناصر من المجموعة.
+يزيل جميع العناصر من المجموعة.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

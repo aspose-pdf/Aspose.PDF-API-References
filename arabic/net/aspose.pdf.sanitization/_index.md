@@ -1,15 +1,17 @@
 ---
-title: Aspose.Pdf.Sanitization
-second_title: Aspose.PDF for .NET API Reference
-description: مساحة الاسم Aspose.Pdf.Sanitization لعمليات التنظيف
+title: "Aspose.Pdf.Sanitization"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "مساحة الاسم Aspose.Pdf.Sanitization هي مساحة اسم لعمليات التعقيم"
 type: docs
-weight: 210
+weight: 200
 url: /ar/net/aspose.pdf.sanitization/
 ---
-إن **Aspose.Pdf.Sanitization** هي مساحة الاسم لعمليات التنظيف.
+مساحة الاسم **Aspose.Pdf.Sanitization** هي مساحة اسم لعمليات التنقية.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [SanitizationException](./sanitizationexception/) | الاستثناء الذي يتم رميه عندما تفشل عملية التنظيف. |
+| [SanitizationException](./sanitizationexception/) | الاستثناء الذي يُرمى عندما تفشل عملية تعقيم. |
+
+

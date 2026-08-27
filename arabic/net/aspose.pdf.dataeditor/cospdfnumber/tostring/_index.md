@@ -1,25 +1,27 @@
 ---
-title: CosPdfNumber.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CosPdfNumber. تعيد سلسلة تمثل CosPdfNumber الحالي
+title: "CosPdfNumber.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfNumber. تُرجع سلسلة تمثل CosPdfNumber الحالي"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.dataeditor/cospdfnumber/tostring/
 ---
 ## CosPdfNumber.ToString method
 
-ترجع سلسلة تمثل [`CosPdfNumber`](../) الحالي.
+تُرجع سلسلة تمثل الـ [`CosPdfNumber`](../) الحالي.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-سلسلة تمثل [`CosPdfNumber`](../) الحالي.
+سلسلة تمثل الـ [`CosPdfNumber`](../) الحالي.
 
-### See Also
+### انظر أيضًا
 
 * class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

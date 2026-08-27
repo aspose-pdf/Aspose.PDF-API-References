@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PrintScalingNone
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. لا يوجد تغيير في حجم الصفحة
+title: "ViewerPreference.PrintScalingNone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. لا يوجد تحجيم للصفحة"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/viewerpreference/printscalingnone/
 ---
-## حقل ViewerPreference.PrintScalingNone
+## ViewerPreference.PrintScalingNone field
 
-لا يوجد تغيير في حجم الصفحة.
+بدون تحجيم للصفحة.
 
 ```csharp
 public const int PrintScalingNone;
@@ -19,3 +19,5 @@ public const int PrintScalingNone;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

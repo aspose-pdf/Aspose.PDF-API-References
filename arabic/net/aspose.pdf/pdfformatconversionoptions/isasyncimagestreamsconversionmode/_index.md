@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. الحصول على/تعيين تشغيل تدفقات الصور في وضع غير متزامن
+title: "PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. تحصل/تضبط تشغيل تدفقات الصور في الوضع غير المتزامن"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/isasyncimagestreamsconversionmode/
 ---
-## خاصية PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode
+## PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode property
 
-الحصول على/تعيين تشغيل تدفقات الصور في وضع غير متزامن.
+يحصل/يضبط تشغيل تدفقات الصور في الوضع غير المتزامن.
 
 ```csharp
 public bool IsAsyncImageStreamsConversionMode { get; set; }
@@ -19,3 +19,5 @@ public bool IsAsyncImageStreamsConversionMode { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class MemoryFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.MemoryFontSource class. يمثل مصدر ملف خط واحد
+title: "الفئة MemoryFontSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Text.MemoryFontSource. تمثل مصدر ملف خط واحد."
 type: docs
-weight: 10650
+weight: 10830
 url: /ar/net/aspose.pdf.text/memoryfontsource/
 ---
 ## MemoryFontSource class
@@ -14,27 +14,29 @@ url: /ar/net/aspose.pdf.text/memoryfontsource/
 public sealed class MemoryFontSource : FontSource, IDisposable
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MemoryFontSource](memoryfontsource/)(byte[]) | يقوم بتهيئة مثيل جديد من فئة `MemoryFontSource`. |
+| [MemoryFontSource](memoryfontsource/)(byte[]) | ينشئ مثيلًا جديدًا من الفئة `MemoryFontSource`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FontBytes](../../aspose.pdf.text/memoryfontsource/fontbytes/) { get; } | مصفوفة بايت ملف الخط. |
+| [FontBytes](../../aspose.pdf.text/memoryfontsource/fontbytes/) { get; } | مصفوفة بايت لملف الخط. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.text/memoryfontsource/dispose/)() | يحرر الموارد الداخلية. |
-| override [Equals](../../aspose.pdf.text/memoryfontsource/equals/)(object) | يتحقق مما إذا كانت كائنات مصدر ملف الخط متساوية. |
+| [Dispose](../../aspose.pdf.text/memoryfontsource/dispose/)() | يطلق الموارد الداخلية. |
+| override [Equals](../../aspose.pdf.text/memoryfontsource/equals/)(object) | تحقق مما إذا كانت كائنات مصدر ملف الخط متساوية. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

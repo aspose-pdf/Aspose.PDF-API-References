@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.Values
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DictionaryEditor. تحصل على ICollection تحتوي على القيم في DictionaryEditor
+title: "DictionaryEditor.Values"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DictionaryEditor. يحصل على ICollection يحتوي على القيم في DictionaryEditor"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.dataeditor/dictionaryeditor/values/
 ---
-## خاصية DictionaryEditor.Values
+## DictionaryEditor.Values property
 
-تحصل على ICollection تحتوي على القيم في [`DictionaryEditor`](../).
+يحصل على ICollection يحتوي على القيم في [`DictionaryEditor`](../).
 
 ```csharp
 public ICollection<ICosPdfPrimitive> Values { get; }
@@ -16,7 +16,9 @@ public ICollection<ICosPdfPrimitive> Values { get; }
 
 ### انظر أيضًا
 
-* واجهة [ICosPdfPrimitive](../../icospdfprimitive/)
-* فئة [DictionaryEditor](../)
-* مساحة الاسم [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

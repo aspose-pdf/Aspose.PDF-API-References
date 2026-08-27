@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ QuoteElement
+title: "ITaggedContent.CreateQuoteElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. تنشئ QuoteElement"
 type: docs
-weight: 230
+weight: 260
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/
 ---
 ## ITaggedContent.CreateQuoteElement method
 
-تنشئ [`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/).
+ينشئ [`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/).
 
 ```csharp
 public QuoteElement CreateQuoteElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

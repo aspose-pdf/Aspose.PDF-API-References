@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EmbeddedFileCollection. تحصل على عدد الملفات المدمجة في المجموعة
+title: "EmbeddedFileCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EmbeddedFileCollection. الحصول على عدد الملفات المضمّنة في المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/embeddedfilecollection/count/
 ---
-## خاصية EmbeddedFileCollection.Count
+## EmbeddedFileCollection.Count property
 
-تحصل على عدد الملفات المدمجة في المجموعة.
+يحصل على عدد الملفات المضمنة في المجموعة.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

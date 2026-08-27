@@ -1,14 +1,14 @@
 ---
-title: SvgLoadOptions.ConversionEngine
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SvgLoadOptions. يسمح باختيار محرك التحويل الذي سيتم استخدامه أثناء التحويل. حاليًا، المحرك الجديد في مرحلة الاختبار B، لذا يتم تعيين هذه القيمة افتراضيًا إلى ConversionEngines.LegacyEngine
+title: "SvgLoadOptions.ConversionEngine"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SvgLoadOptions. يسمح باختيار محرك التحويل الذي سيُستخدم أثناء التحويل. حاليًا المحرك الجديد في مرحلة Btesting لذا يتم تعيين هذه القيمة افتراضيًا إلى ConversionEngines.LegacyEngine"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/svgloadoptions/conversionengine/
 ---
-## حقل SvgLoadOptions.ConversionEngine
+## SvgLoadOptions.ConversionEngine field
 
-يسمح باختيار محرك التحويل الذي سيتم استخدامه أثناء التحويل. حاليًا، المحرك الجديد في مرحلة الاختبار B، لذا يتم تعيين هذه القيمة افتراضيًا إلى ConversionEngines.LegacyEngine
+يسمح باختيار محرك التحويل الذي سيُستخدم أثناء التحويل. حاليًا المحرك الجديد في مرحلة الاختبار B، لذا يتم تعيين هذه القيمة افتراضيًا إلى ConversionEngines.LegacyEngine
 
 ```csharp
 public ConversionEngines ConversionEngine;
@@ -20,3 +20,5 @@ public ConversionEngines ConversionEngine;
 * class [SvgLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

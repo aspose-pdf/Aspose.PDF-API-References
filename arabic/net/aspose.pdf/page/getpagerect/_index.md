@@ -1,22 +1,22 @@
 ---
-title: Page.GetPageRect
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تعيد مستطيل الصفحة وفقًا لـ CropBox أو MediaBox إذا كانت CropBox فارغة
+title: "Page.GetPageRect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تُرجع مستطيل الصفحة وفقًا لـ CropBox أو MediaBox إذا كان CropBox فارغًا"
 type: docs
 weight: 460
 url: /ar/net/aspose.pdf/page/getpagerect/
 ---
-## طريقة Page.GetPageRect
+## Page.GetPageRect method
 
-تعيد مستطيل الصفحة وفقًا لـ CropBox (أو MediaBox إذا كانت CropBox فارغة).
+يعيد مستطيل الصفحة وفقًا لـ CropBox الخاص به (أو MediaBox إذا كان CropBox فارغًا).
 
 ```csharp
 public Rectangle GetPageRect(bool considerRotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| considerRotation | Boolean | إذا كانت صحيحة، فسيتم اعتبار دوران الصفحة في حساب المستطيل. |
+| considerRotation | Boolean | إذا كان صحيحًا فسيُؤخذ دوران الصفحة في الاعتبار عند حساب المستطيل. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public Rectangle GetPageRect(bool considerRotation)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

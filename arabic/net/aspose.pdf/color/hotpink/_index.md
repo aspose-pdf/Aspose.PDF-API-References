@@ -1,14 +1,14 @@
 ---
-title: Color.HotPink
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. يحصل على لون معرف من النظام له قيمة ARGB تساوي c FFFF69B4
+title: "Color.HotPink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف من النظام له قيمة ARGB c FFFF69B4"
 type: docs
 weight: 560
 url: /ar/net/aspose.pdf/color/hotpink/
 ---
-## خاصية Color.HotPink
+## Color.HotPink property
 
-يحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFFF69B4.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFFF69B4.
 
 ```csharp
 public static Color HotPink { get; }
@@ -16,10 +16,12 @@ public static Color HotPink { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

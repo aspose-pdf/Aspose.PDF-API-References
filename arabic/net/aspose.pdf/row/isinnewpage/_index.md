@@ -1,14 +1,14 @@
 ---
-title: Row.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصف. تحصل على الصف الثابت في صفحة جديدة - يجب طباعة الصفحة التي تحتوي على هذه الخاصية في الصفحة التالية. الافتراضي هو خطأ
+title: "Row.IsInNewPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Row. تحدد ما إذا كان الصف الثابت في صفحة جديدة؛ يجب طباعة هذه الخاصية إلى الصفحة التالية. القيمة الافتراضية false"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/row/isinnewpage/
 ---
-## خاصية Row.IsInNewPage
+## Row.IsInNewPage property
 
-تحصل على الصف الثابت في صفحة جديدة - يجب طباعة الصفحة التي تحتوي على هذه الخاصية في الصفحة التالية. الافتراضي هو خطأ؛
+يحصل على ما إذا كان الصف ثابتًا في صفحة جديدة - يجب طباعة الصفحة التي تحتوي على هذه الخاصية إلى الصفحة التالية الافتراضي خطأ؛
 
 ```csharp
 public bool IsInNewPage { get; set; }
@@ -19,3 +19,5 @@ public bool IsInNewPage { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

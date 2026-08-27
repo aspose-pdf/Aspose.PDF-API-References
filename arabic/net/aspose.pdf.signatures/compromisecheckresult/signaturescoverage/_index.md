@@ -1,14 +1,14 @@
 ---
-title: CompromiseCheckResult.SignaturesCoverage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompromiseCheckResult. تحصل على حالة تغطية التوقيعات الرقمية في مستند. إذا كانت تساوي Undefined، فإن أحد التوقيعات قد تم اختراقه
+title: "CompromiseCheckResult.SignaturesCoverage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompromiseCheckResult. يحصل على حالة تغطية التوقيعات الرقمية في document. إذا كانت مساوية لـ Undefined فإن أحد التوقيعات مخترق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.signatures/compromisecheckresult/signaturescoverage/
 ---
-## خاصية CompromiseCheckResult.SignaturesCoverage
+## CompromiseCheckResult.SignaturesCoverage property
 
-تحصل على حالة تغطية التوقيعات الرقمية في مستند. إذا كانت تساوي Undefined، فإن أحد التوقيعات قد تم اختراقه.
+يحصل على حالة التغطية للتوقيعات الرقمية في المستند. إذا كانت مساوية لـ Undefined، فإن أحد التوقيعات مخترق.
 
 ```csharp
 public SignaturesCoverage SignaturesCoverage { get; }
@@ -20,3 +20,5 @@ public SignaturesCoverage SignaturesCoverage { get; }
 * class [CompromiseCheckResult](../)
 * namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../../)
+
+

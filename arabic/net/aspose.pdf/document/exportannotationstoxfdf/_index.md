@@ -1,20 +1,20 @@
 ---
-title: Document.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تصدير جميع تعليقات الوثيقة إلى ملف XFDF
+title: "Document.ExportAnnotationsToXfdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تصدر جميع تعليقات المستند إلى ملف XFDF"
 type: docs
-weight: 630
+weight: 650
 url: /ar/net/aspose.pdf/document/exportannotationstoxfdf/
 ---
 ## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}
 
-يصدر جميع تعليقات الوثيقة إلى ملف XFDF
+تصدير جميع تعليقات المستند إلى ملف XFDF
 
 ```csharp
 public void ExportAnnotationsToXfdf(string fileName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | اسم ملف XFDF |
 
@@ -28,18 +28,20 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 ## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf}
 
-تصدير جميع تعليقات الوثيقة إلى دفق.
+تصدير جميع تعليقات المستند إلى الدفق.
 
 ```csharp
 public void ExportAnnotationsToXfdf(Stream stream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | دفق لتخزين XFDF. |
+| stream | Stream | دفق حيث يُخزن XFDF. |
 
 ### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

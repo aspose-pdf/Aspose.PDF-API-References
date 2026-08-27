@@ -1,14 +1,14 @@
 ---
-title: Class Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.Characteristics. تمثل خصائص التعليق
+title: "الفئة Characteristics"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.Characteristics. تمثل خصائص الملاحظة."
 type: docs
-weight: 1580
+weight: 1670
 url: /ar/net/aspose.pdf.annotations/characteristics/
 ---
-## فئة الخصائص
+## Characteristics class
 
-تمثل خصائص التعليق
+يمثل خصائص التعليق التوضيحي
 
 ```csharp
 public sealed class Characteristics
@@ -18,11 +18,13 @@ public sealed class Characteristics
 
 | الاسم | الوصف |
 | --- | --- |
-| [الخلفية](../../aspose.pdf.annotations/characteristics/background/) { get; set; } | يحصل أو يحدد لون الخلفية |
-| [الحدود](../../aspose.pdf.annotations/characteristics/border/) { get; set; } | يحصل أو يحدد لون الحدود. |
-| [الدوران](../../aspose.pdf.annotations/characteristics/rotate/) { get; set; } | يحصل أو يحدد دوران التعليق. |
+| [Background](../../aspose.pdf.annotations/characteristics/background/) { get; set; } | يحصل أو يعيّن لون الخلفية |
+| [Border](../../aspose.pdf.annotations/characteristics/border/) { get; set; } | يحصل أو يعيّن لون الحد. |
+| [Rotate](../../aspose.pdf.annotations/characteristics/rotate/) { get; set; } | يحصل أو يعيّن دوران الملاحظة. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

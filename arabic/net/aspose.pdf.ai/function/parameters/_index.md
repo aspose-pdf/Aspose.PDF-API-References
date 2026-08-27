@@ -1,14 +1,14 @@
 ---
-title: Function.Parameters
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الدالة. يحصل أو يحدد المعلمات التي تقبلها الدوال موصوفة ككائن JSON Schema
+title: "Function.Parameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Function. تحصل أو تعيين المعلمات التي تقبلها الدوال موصوفة ككائن مخطط JSON"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/function/parameters/
 ---
-## خاصية Function.Parameters
+## Function.Parameters property
 
-يحصل أو يحدد المعلمات التي تقبلها الدوال، موصوفة ككائن JSON Schema.
+يحصل أو يضبط المعلمات التي تقبلها الدوال، موصوفة ككائن مخطط JSON.
 
 ```csharp
 public object Parameters { get; set; }
@@ -19,3 +19,5 @@ public object Parameters { get; set; }
 * class [Function](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: XFormCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XFormCollection. تضيف XForm جديدة إلى المجموعة
+title: "XFormCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XFormCollection. يضيف XForm جديد إلى المجموعة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/xformcollection/add/
 ---
-## طريقة XFormCollection.Add
+## XFormCollection.Add method
 
-تضيف XForm جديدة إلى المجموعة.
+يضيف XForm جديد إلى المجموعة.
 
 ```csharp
 public void Add(XForm item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | XForm | XForm لإضافتها إلى المجموعة. |
+| item | XForm | XForm للإضافة إلى المجموعة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(XForm item)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

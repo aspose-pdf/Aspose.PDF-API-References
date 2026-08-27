@@ -1,29 +1,31 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIImageDescriptionCopilotOptions. تعيين قيمة P العليا لخيارات مساعد وصف الصورة
+title: "OpenAIImageDescriptionCopilotOptions.WithTopP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIImageDescriptionCopilotOptions. تُعيّن قيمة top P لخيارات مساعد وصف الصورة"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtopp/
 ---
-## طريقة OpenAIImageDescriptionCopilotOptions.WithTopP
+## OpenAIImageDescriptionCopilotOptions.WithTopP method
 
-تعيين قيمة P العليا لخيارات مساعد وصف الصورة.
+يضبط قيمة أعلى P لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithTopP(double? topP)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| topP | Nullable`1 | قيمة P العليا التي يجب تعيينها. |
+| topP | Nullable`1 | قيمة top P لتعيينها. |
 
 ### قيمة الإرجاع
 
-النسخة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [OpenAIImageDescriptionCopilotOptions](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

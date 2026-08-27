@@ -1,14 +1,14 @@
 ---
-title: PdfToDocOptions.SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToDocOptions. تنسيق حفظ المستند الناتج
+title: "PdfToDocOptions.SaveFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToDocOptions. تنسيق الحفظ لمستند الإخراج"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/pdftodocoptions/saveformat/
 ---
-## خاصية PdfToDocOptions.SaveFormat
+## PdfToDocOptions.SaveFormat property
 
-تنسيق حفظ المستند الناتج.
+تنسيق الحفظ للمستند الناتج.
 
 ```csharp
 public SaveFormat SaveFormat { get; set; }
@@ -20,3 +20,5 @@ public SaveFormat SaveFormat { get; set; }
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

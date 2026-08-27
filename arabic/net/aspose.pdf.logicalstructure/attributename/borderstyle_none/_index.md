@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_None
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Attribute BorderStyle None لا توجد حدود. يجبر القيمة المحسوبة لـ BorderThicknessto على أن تكون 0
+title: "AttributeName.BorderStyle_None"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeName حقل. Attribute BorderStyle None  لا حدود. يجبر القيمة المحسوبة لـ BorderThicknessto أن تكون 0"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_none/
 ---
-## حقل AttributeName.BorderStyle_None
+## AttributeName.BorderStyle_None field
 
-Attribute BorderStyle: None - لا توجد حدود. يجبر القيمة المحسوبة لـ BorderThicknessto على أن تكون 0.
+السمة BorderStyle: None - لا حد. يجبر القيمة المحسوبة لـ BorderThickness أن تكون 0.
 
 ```csharp
 public static readonly AttributeName BorderStyle_None;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_None;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

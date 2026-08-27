@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ReplaceTextStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfContentEditor. مجموعة من المعلمات لعملية استبدال النص
+title: "PdfContentEditor.ReplaceTextStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfContentEditor. مجموعة من المعلمات لعملية استبدال النص."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/replacetextstrategy/
 ---
-## خاصية PdfContentEditor.ReplaceTextStrategy
+## PdfContentEditor.ReplaceTextStrategy property
 
-مجموعة من المعلمات لعملية استبدال النص
+مجموعة من المعلمات لعملية استبدال النص.
 
 ```csharp
 public ReplaceTextStrategy ReplaceTextStrategy { get; set; }
@@ -20,3 +20,5 @@ public ReplaceTextStrategy ReplaceTextStrategy { get; set; }
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

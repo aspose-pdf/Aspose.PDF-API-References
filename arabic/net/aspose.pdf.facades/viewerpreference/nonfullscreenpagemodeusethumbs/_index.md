@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. صور مصغرة مرئية
+title: "ViewerPreference.NonFullScreenPageModeUseThumbs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. صور المصغرات مرئية"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
 ---
 ## ViewerPreference.NonFullScreenPageModeUseThumbs field
 
-صور مصغرة مرئية
+صور المصغرات مرئية.
 
 ```csharp
 public const int NonFullScreenPageModeUseThumbs;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

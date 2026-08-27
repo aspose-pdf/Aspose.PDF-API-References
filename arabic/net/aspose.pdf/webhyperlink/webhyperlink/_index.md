@@ -1,14 +1,14 @@
 ---
-title: WebHyperlink.WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ WebHyperlink. يقوم بتهيئة مثيل جديد من فئة WebHyperlink
+title: "WebHyperlink.WebHyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ WebHyperlink. يهيئ نسخة جديدة من الفئة WebHyperlink"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/webhyperlink/webhyperlink/
 ---
 ## WebHyperlink() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`WebHyperlink`](../).
+يهيئ نسخة جديدة من الفئة [`WebHyperlink`](../).
 
 ```csharp
 public WebHyperlink()
@@ -16,26 +16,28 @@ public WebHyperlink()
 
 ### انظر أيضًا
 
-* فئة [WebHyperlink](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WebHyperlink(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`WebHyperlink`](../).
+يهيئ نسخة جديدة من الفئة [`WebHyperlink`](../).
 
 ```csharp
 public WebHyperlink(string url)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| url | سلسلة | عنوان الويب للرابط. |
+| عنوان URL | String | عنوان ويب للارتباط التشعبي. |
 
 ### انظر أيضًا
 
-* فئة [WebHyperlink](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.ObjectType.Function
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ObjectType. تحصل على أو تعين الوظيفة التي سيتم استدعاؤها
+title: "ToolChoice.ObjectType.Function"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ObjectType. تحصل أو تعيين الدالة للاستدعاء"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/toolchoice.objecttype/function/
 ---
-## خاصية ToolChoice.ObjectType.Function
+## ToolChoice.ObjectType.Function property
 
-تحصل على أو تعين الوظيفة التي سيتم استدعاؤها.
+يحصل أو يعيّن الدالة التي سيتم استدعاؤها.
 
 ```csharp
 public CompletionFunction Function { get; set; }
@@ -20,3 +20,5 @@ public CompletionFunction Function { get; set; }
 * class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

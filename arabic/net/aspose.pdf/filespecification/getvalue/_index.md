@@ -1,29 +1,31 @@
 ---
-title: FileSpecification.GetValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FileSpecification. تحصل على معلمة محددة للتطبيق
+title: "FileSpecification.GetValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FileSpecification. يحصل على معلمة خاصة بالتطبيق"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/filespecification/getvalue/
 ---
-## طريقة FileSpecification.GetValue
+## FileSpecification.GetValue method
 
-تحصل على معلمة محددة للتطبيق.
+يحصل على المعامل الخاص بالتطبيق.
 
 ```csharp
 public string GetValue(string key)
 ```
 
-| المعلمة | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | اسم المعلمة. |
+| المفتاح | String | اسم المعلمة. |
 
 ### قيمة الإرجاع
 
-القيمة - إذا تم العثور على المعلمة؛ خلاف ذلك، null.
+القيمة - إذا تم العثور على المعامل؛ وإلا، null.
 
 ### انظر أيضًا
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

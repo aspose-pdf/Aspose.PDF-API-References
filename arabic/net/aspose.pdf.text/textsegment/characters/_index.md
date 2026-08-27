@@ -1,14 +1,14 @@
 ---
-title: TextSegment.Characters
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegment. تحصل على مجموعة من كائنات CharInfo التي تمثل معلومات حول الأحرف في جزء النص
+title: "TextSegment.Characters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegment. يحصل على مجموعة من كائنات CharInfo التي تمثل معلومات عن الأحرف في مقطع النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textsegment/characters/
 ---
-## خاصية TextSegment.Characters
+## TextSegment.Characters property
 
-تحصل على مجموعة من كائنات CharInfo التي تمثل معلومات حول الأحرف في جزء النص.
+يحصل على مجموعة من كائنات CharInfo التي تمثل معلومات عن الأحرف في مقطع النص.
 
 ```csharp
 public CharInfoCollection Characters { get; }
@@ -20,3 +20,5 @@ public CharInfoCollection Characters { get; }
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

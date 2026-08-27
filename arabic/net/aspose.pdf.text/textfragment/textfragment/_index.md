@@ -1,14 +1,14 @@
 ---
-title: TextFragment.TextFragment
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextFragment. يُهيئ مثيلًا جديدًا من كائن TextFragment
+title: "TextFragment.TextFragment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextFragment constructor. Initializes new instance of the TextFragment object"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textfragment/textfragment/
 ---
 ## TextFragment() {#constructor}
 
-يُهيئ مثيلًا جديدًا من كائن [`TextFragment`](../).
+يُنشئ نسخة جديدة من كائن [`TextFragment`](../).
 
 ```csharp
 public TextFragment()
@@ -24,13 +24,13 @@ public TextFragment()
 
 ## TextFragment(TabStops) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من كائن [`TextFragment`](../) مع مواضع [`TabStops`](../../tabstops/) محددة مسبقًا.
+يُنشئ نسخة جديدة من كائن [`TextFragment`](../) مع مواضع [`TabStops`](../../tabstops/) معرفة مسبقًا.
 
 ```csharp
 public TextFragment(TabStops tabStops)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | tabStops | TabStops | مواضع التبويب |
 
@@ -45,15 +45,15 @@ public TextFragment(TabStops tabStops)
 
 ## TextFragment(string) {#constructor_2}
 
-ينشئ كائن [`TextFragment`](../) مع كائن [`TextSegment`](../../textsegment/) واحد بداخله. يحدد سلسلة النص داخل الجزء.
+ينشئ كائن [`TextFragment`](../) يحتوي على كائن [`TextSegment`](../../textsegment/) واحد بالداخل. يحدد سلسلة النص داخل الجزء.
 
 ```csharp
 public TextFragment(string text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | نص جزء النص. |
+| نص | String | نص مقطع النص. |
 
 ### انظر أيضًا
 
@@ -65,15 +65,15 @@ public TextFragment(string text)
 
 ## TextFragment(string, TabStops) {#constructor_3}
 
-ينشئ كائن [`TextFragment`](../) مع كائن [`TextSegment`](../../textsegment/) واحد بداخله ومواضع [`TabStops`](../../tabstops/) محددة مسبقًا.
+ينشئ كائن [`TextFragment`](../) يحتوي على كائن [`TextSegment`](../../textsegment/) واحد بالداخل ومواقع [`TabStops`](../../tabstops/) معرفة مسبقًا.
 
 ```csharp
 public TextFragment(string text, TabStops tabStops)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | نص جزء النص. |
+| نص | String | نص مقطع النص. |
 | tabStops | TabStops | مواضع التبويب |
 
 ### انظر أيضًا
@@ -82,3 +82,5 @@ public TextFragment(string text, TabStops tabStops)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

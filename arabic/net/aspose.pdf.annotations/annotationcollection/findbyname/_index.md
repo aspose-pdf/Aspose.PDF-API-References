@@ -1,26 +1,26 @@
 ---
-title: AnnotationCollection.FindByName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AnnotationCollection. تُرجع التعليق حسب اسمه
+title: "AnnotationCollection.FindByName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AnnotationCollection. تُرجع التعليق حسب اسمه"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/annotationcollection/findbyname/
 ---
-## طريقة AnnotationCollection.FindByName
+## AnnotationCollection.FindByName method
 
-تُرجع التعليق حسب اسمه.
+يرجع التعليق بناءً على اسمه.
 
 ```csharp
 public Annotation FindByName(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم التعليق |
+| الاسم | String | اسم التعليق |
 
 ### قيمة الإرجاع
 
-كائن التعليق إذا تم العثور عليه؛ خلاف ذلك، null.
+كائن Annotation إذا تم العثور عليه؛ وإلا، null.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public Annotation FindByName(string name)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

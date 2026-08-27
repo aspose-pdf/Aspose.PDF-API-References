@@ -1,14 +1,14 @@
 ---
-title: EMC.EMC
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EMC. يقوم بتهيئة العامل
+title: "EMC.EMC"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ EMC. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/emc/emc/
 ---
-## مُنشئ EMC
+## EMC constructor
 
-يقوم بتهيئة العامل.
+يُهيئ العامل.
 
 ```csharp
 public EMC()
@@ -19,3 +19,5 @@ public EMC()
 * class [EMC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

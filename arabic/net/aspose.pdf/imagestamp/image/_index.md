@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Image
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageStamp. تحصل على تدفق الصورة المستخدم للطباعة
+title: "ImageStamp.Image"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageStamp. تحصل على تدفق الصورة المستخدم في الختم"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/imagestamp/image/
 ---
-## خاصية ImageStamp.Image
+## ImageStamp.Image property
 
-تحصل على تدفق الصورة المستخدم للطباعة.
+الحصول على تدفق الصورة المستخدم للختم.
 
 ```csharp
 public Stream Image { get; }
@@ -19,3 +19,5 @@ public Stream Image { get; }
 * class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

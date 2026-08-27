@@ -1,20 +1,20 @@
 ---
-title: XmpField.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpField. تحصل على الاسم
+title: "XmpField.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpField الخاصية. يحصل على الاسم"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/xmpfield/name/
 ---
-## خاصية XmpField.Name
+## XmpField.Name property
 
-تحصل على الاسم.
+الحصول على الاسم.
 
 ```csharp
 public string Name { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 الاسم.
 
@@ -23,3 +23,5 @@ public string Name { get; }
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

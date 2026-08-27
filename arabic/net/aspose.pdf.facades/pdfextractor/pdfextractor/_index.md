@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.PdfExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfExtractor. يُهيئ كائن PdfExtractor جديد
+title: "PdfExtractor.PdfExtractor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfExtractor. يهيئ كائن PdfExtractor جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdfextractor/pdfextractor/
 ---
 ## PdfExtractor() {#constructor}
 
-يُهيئ كائن [`PdfExtractor`](../) جديد.
+تهيئ كائن [`PdfExtractor`](../) جديد.
 
 ```csharp
 public PdfExtractor()
@@ -24,13 +24,13 @@ public PdfExtractor()
 
 ## PdfExtractor(Document) {#constructor_1}
 
-يُهيئ كائن [`PdfExtractor`](../) جديد بناءً على *المستند*.
+تهيئ كائن [`PdfExtractor`](../) جديد على أساس *المستند*.
 
 ```csharp
 public PdfExtractor(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document | Document | مستند Pdf. |
 
@@ -40,3 +40,5 @@ public PdfExtractor(Document document)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

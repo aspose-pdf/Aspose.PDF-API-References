@@ -1,24 +1,24 @@
 ---
-title: Page.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تقبل كائن الزائر TextFragmentAbsorber الذي يوفر وظائف للعمل مع كائنات النص
+title: "Page.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تقبل كائن الزائر TextFragmentAbsorber الذي يوفر وظيفة للعمل مع كائنات النص"
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf/page/accept/
 ---
 ## Accept(TextFragmentAbsorber) {#accept_3}
 
-تقبل [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) كائن الزائر الذي يوفر وظائف للعمل مع كائنات النص.
+تقبل كائن زائر [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) يوفر وظيفة للعمل مع كائنات النص.
 
 ```csharp
 public void Accept(TextFragmentAbsorber visitor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| visitor | TextFragmentAbsorber | كائن ماص للنص. |
+| زائر | TextFragmentAbsorber | كائن ماص النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
 * class [Page](../)
@@ -29,17 +29,17 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ## Accept(ImagePlacementAbsorber) {#accept_1}
 
-تقبل [`ImagePlacementAbsorber`](../../imageplacementabsorber/) كائن الزائر الذي يوفر وظائف للعمل مع كائنات وضع الصور.
+تقبل كائن زائر [`ImagePlacementAbsorber`](../../imageplacementabsorber/) يوفر وظيفة للعمل مع كائنات وضع الصورة.
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| visitor | ImagePlacementAbsorber | كائن ماص لوضع الصور. |
+| زائر | ImagePlacementAbsorber | كائن امتصاص وضع الصورة. |
 
-### See Also
+### انظر أيضًا
 
 * class [ImagePlacementAbsorber](../../imageplacementabsorber/)
 * class [Page](../)
@@ -50,17 +50,17 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ## Accept(TextAbsorber) {#accept_2}
 
-تقبل [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) كائن الزائر الذي يوفر وظائف للعمل مع كائنات النص.
+تقبل كائن زائر [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) يوفر وظيفة للعمل مع كائنات النص.
 
 ```csharp
 public void Accept(TextAbsorber visitor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| visitor | TextAbsorber | كائن ماص للنص. |
+| زائر | TextAbsorber | كائن ماص النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
 * class [Page](../)
@@ -71,19 +71,21 @@ public void Accept(TextAbsorber visitor)
 
 ## Accept(AnnotationSelector) {#accept}
 
-تقبل [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) كائن الزائر الذي يوفر وظائف للعمل مع التعليقات التوضيحية.
+تقبل كائن زائر [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) يوفر وظيفة للعمل مع التعليقات التوضيحية.
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| visitor | AnnotationSelector | كائن محدد التعليقات التوضيحية. |
+| زائر | AnnotationSelector | كائن مُحدد Annotation. |
 
-### See Also
+### انظر أيضًا
 
 * class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,42 +1,44 @@
 ---
-title: Class DP
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.DP. فئة تمثل نقطة محتوى محددة بواسطة مشغل DP
+title: "الفئة DP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.DP الفئة. الفئة التي تمثل عامل DP لتحديد نقطة المحتوى المعلمة"
 type: docs
-weight: 7270
+weight: 7410
 url: /ar/net/aspose.pdf.operators/dp/
 ---
 ## DP class
 
-فئة تمثل مشغل DP (نقطة محتوى محددة بواسطة التصميم).
+فئة تمثل المشغل DP (designamte marked content point).
 
 ```csharp
 public class DP : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DP](dp/)(string) | Initializes operator. |
+| [DP](dp/)(string) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [Tag](../../aspose.pdf.operators/dp/tag/) { get; set; } | يحصل أو يحدد علامة المحتوى المحدد |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [Tag](../../aspose.pdf.operators/dp/tag/) { get; set; } | يحصل أو يضبط علامة المحتوى المعلَّم |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/dp/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/dp/tostring/)() | يعيد تمثيل نصي للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه الحالة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/dp/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/dp/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

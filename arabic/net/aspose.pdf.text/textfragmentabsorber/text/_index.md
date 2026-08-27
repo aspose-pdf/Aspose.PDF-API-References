@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentAbsorber. تحصل على النص المستخرج الذي يستخرجه TextAbsorber من مستند PDF أو صفحة
+title: "TextFragmentAbsorber.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentAbsorber. تحصل على النص المستخرج الذي يقوم TextAbsorber باستخراجه من مستند PDF أو الصفحة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/text/
 ---
-## خاصية TextFragmentAbsorber.Text
+## TextFragmentAbsorber.Text property
 
-تحصل على النص المستخرج الذي يستخرجه [`TextAbsorber`](../../textabsorber/) من مستند PDF أو صفحة.
+يحصل على النص المستخرج الذي يقوم [`TextAbsorber`](../../textabsorber/) باستخراجه من مستند PDF أو الصفحة.
 
 ```csharp
 public override string Text { get; }
@@ -19,3 +19,5 @@ public override string Text { get; }
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

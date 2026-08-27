@@ -1,25 +1,27 @@
 ---
-title: Document.HasIncrementalUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المستند. تتحقق مما إذا كان المستند PDF الحالي قد تم حفظه مع تحديثات تدريجية
+title: "Document.HasIncrementalUpdate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تتحقق مما إذا كان مستند PDF الحالي قد تم حفظه بتحديثات تدريجية"
 type: docs
-weight: 700
+weight: 720
 url: /ar/net/aspose.pdf/document/hasincrementalupdate/
 ---
 ## Document.HasIncrementalUpdate method
 
-تتحقق مما إذا كان المستند PDF الحالي قد تم حفظه مع تحديثات تدريجية.
+التحقق مما إذا كان مستند PDF الحالي قد تم حفظه بتحديثات متزايدة.
 
 ```csharp
 public bool HasIncrementalUpdate()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-`true` إذا كان المستند PDF يحتوي على تحديثات تدريجية؛ خلاف ذلك، `false`.
+`true` إذا كان مستند PDF يحتوي على تحديثات تدريجية؛ وإلا `false`.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetColor.SetColor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetColor. يُهيئ المشغل
+title: "SetColor.SetColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetColor. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setcolor/setcolor/
 ---
 ## SetColor() {#constructor}
 
-يُهيئ المشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetColor()
@@ -24,13 +24,13 @@ public SetColor()
 
 ## SetColor(double) {#constructor_1}
 
-تعيين اللون لمشغلات الرسم للفضاءات اللونية DeviceGray و CalGray و Indexed.
+تعيين اللون لمعاملات الخط لألوان DeviceGray و CalGray والمساحات اللونية المفهرسة.
 
 ```csharp
 public SetColor(double g)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | g | Double | قيمة اللون. |
 
@@ -44,17 +44,17 @@ public SetColor(double g)
 
 ## SetColor(double, double, double) {#constructor_2}
 
-تعيين اللون لمشغل الرسم لفضاءات الألوان DeviceRGB و CalRGB و Lab.
+تعيين اللون لمعامل الخط لألوان DeviceRGB و CalRGB و مساحات اللون Lab
 
 ```csharp
 public SetColor(double r, double g, double b)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| r | Double | مكون الأحمر. |
-| g | Double | مكون الأخضر. |
-| b | Double | مكون الأزرق. |
+| r | Double | المكوّن الأحمر. |
+| g | Double | المكوّن الأخضر. |
+| b | Double | المكوّن الأزرق. |
 
 ### انظر أيضًا
 
@@ -66,18 +66,18 @@ public SetColor(double r, double g, double b)
 
 ## SetColor(double, double, double, double) {#constructor_3}
 
-تعيين اللون لمشغل غير الرسم لفضاء الألوان CMYK.
+تعيين اللون للمشغل غير المتصل بالرسم لمساحة اللون CMYK.
 
 ```csharp
 public SetColor(double c, double m, double y, double k)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| c | Double | مكون السايان. |
-| m | Double | مكون الماجنتا. |
-| y | Double | مكون الأصفر. |
-| k | Double | مكون الأسود. |
+| c | Double | مكوّن السيان. |
+| m | Double | مكوّن الماجنتا. |
+| y | Double | مكوّن الأصفر. |
+| k | Double | مكوّن الأسود. |
 
 ### انظر أيضًا
 
@@ -95,7 +95,7 @@ public SetColor(double c, double m, double y, double k)
 public SetColor(double[] color)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | color | Double[] | مصفوفة مكونات اللون. |
 
@@ -104,3 +104,5 @@ public SetColor(double[] color)
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

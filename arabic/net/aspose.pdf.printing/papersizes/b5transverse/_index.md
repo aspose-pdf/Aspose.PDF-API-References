@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B5Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق JIS B5 العرضي 182 مم × 257 مم
+title: "PaperSizes.B5Transverse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق JIS B5 عرضي 182 مم ب 257 مم"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.printing/papersizes/b5transverse/
 ---
-## حقل PaperSizes.B5Transverse
+## PaperSizes.B5Transverse field
 
-ورق JIS B5 العرضي (182 مم × 257 مم).
+ورق JIS B5 عرضي (182 مم × 257 مم).
 
 ```csharp
 public static readonly PaperSize B5Transverse;
@@ -20,3 +20,5 @@ public static readonly PaperSize B5Transverse;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

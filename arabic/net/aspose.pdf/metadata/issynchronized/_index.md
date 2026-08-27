@@ -1,14 +1,14 @@
 ---
-title: Metadata.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية البيانات الوصفية. تتحقق مما إذا كانت المجموعة متزامنة
+title: "Metadata.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Metadata. يتحقق مما إذا كانت المجموعة متزامنة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/metadata/issynchronized/
 ---
-## خاصية Metadata.IsSynchronized
+## Metadata.IsSynchronized property
 
-تتحقق مما إذا كانت المجموعة متزامنة.
+يتحقق مما إذا كانت المجموعة متزامنة.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

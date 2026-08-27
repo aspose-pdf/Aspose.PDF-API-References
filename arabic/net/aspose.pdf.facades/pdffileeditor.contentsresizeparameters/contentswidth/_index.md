@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentsWidth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ContentsResizeParameters. تحصل أو تعين عرض محتوى الصفحة المصدر على الصفحة الناتجة
+title: "PdfFileEditor.ContentsResizeParameters.ContentsWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ContentsResizeParameters. تحصل أو تعين عرض محتوى الصفحة المصدر على الصفحة الناتجة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth/
 ---
-## خاصية PdfFileEditor.ContentsResizeParameters.ContentsWidth
+## PdfFileEditor.ContentsResizeParameters.ContentsWidth property
 
-تحصل أو تعين عرض محتوى الصفحة المصدر على الصفحة الناتجة.
+يحصل أو يضبط عرض محتوى الصفحة المصدر في الصفحة الناتجة.
 
 ```csharp
 public ContentsResizeValue ContentsWidth { get; set; }
@@ -20,3 +20,5 @@ public ContentsResizeValue ContentsWidth { get; set; }
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

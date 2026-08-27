@@ -1,7 +1,7 @@
 ---
-title: INamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة INamedDestinationCollection. يزيل الوجهة حسب اسمها
+title: "INamedDestinationCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة INamedDestinationCollection. يزيل الوجهة حسب اسمها"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/inameddestinationcollection/remove/
@@ -14,12 +14,14 @@ url: /ar/net/aspose.pdf/inameddestinationcollection/remove/
 public void Remove(string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | قيمة الاسم. |
+| الاسم | String | قيمة الاسم. |
 
-### See Also
+### انظر أيضًا
 
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

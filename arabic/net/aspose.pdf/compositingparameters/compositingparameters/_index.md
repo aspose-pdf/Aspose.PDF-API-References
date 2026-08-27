@@ -1,24 +1,24 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CompositingParameters. يُهيئ مثيلًا جديدًا من كائن CompositingParameters
+title: "CompositingParameters.CompositingParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CompositingParameters. يهيئ مثيلاً جديدًا لكائن CompositingParameters"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/compositingparameters/compositingparameters/
 ---
 ## CompositingParameters(BlendMode) {#constructor}
 
-يُهيئ مثيلًا جديدًا من كائن [`CompositingParameters`](../).
+يهيئ مثيلاً جديدًا لكائن [`CompositingParameters`](../).
 
 ```csharp
 public CompositingParameters(BlendMode blendMode)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| blendMode | BlendMode | وضع المزج للحالة الرسومية الحالية. |
+| blendMode | BlendMode | وضع المزج لحالة الرسومات الحالية. |
 
-### See Also
+### انظر أيضًا
 
 * enum [BlendMode](../../blendmode/)
 * class [CompositingParameters](../)
@@ -29,18 +29,18 @@ public CompositingParameters(BlendMode blendMode)
 
 ## CompositingParameters(BlendMode, ImageFilterType) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من كائن [`CompositingParameters`](../).
+يهيئ مثيلاً جديدًا لكائن [`CompositingParameters`](../).
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| blendMode | BlendMode | وضع المزج للحالة الرسومية الحالية. |
-| filterType | ImageFilterType | نوع فلتر الصورة. |
+| blendMode | BlendMode | وضع المزج لحالة الرسومات الحالية. |
+| filterType | ImageFilterType | نوع مرشح الصورة. |
 
-### See Also
+### انظر أيضًا
 
 * enum [BlendMode](../../blendmode/)
 * enum [ImageFilterType](../../imagefiltertype/)
@@ -52,22 +52,24 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 ## CompositingParameters(BlendMode, ImageFilterType, bool) {#constructor_2}
 
-يُهيئ مثيلًا جديدًا من كائن [`CompositingParameters`](../).
+يهيئ مثيلاً جديدًا لكائن [`CompositingParameters`](../).
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bool isMasked)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| blendMode | BlendMode | وضع المزج للحالة الرسومية الحالية. |
-| filterType | ImageFilterType | نوع فلتر الصورة. |
+| blendMode | BlendMode | وضع المزج لحالة الرسومات الحالية. |
+| filterType | ImageFilterType | نوع مرشح الصورة. |
 | isMasked | Boolean | علامة إضافة القناع. |
 
-### See Also
+### انظر أيضًا
 
 * enum [BlendMode](../../blendmode/)
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

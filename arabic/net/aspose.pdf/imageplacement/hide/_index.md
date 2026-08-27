@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Hide
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ImagePlacement. حذف الصورة من الصفحة
+title: "ImagePlacement.Hide"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ImagePlacement. احذف الصورة من الصفحة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/imageplacement/hide/
 ---
-## طريقة ImagePlacement.Hide
+## ImagePlacement.Hide method
 
 حذف الصورة من الصفحة.
 
@@ -19,3 +19,5 @@ public void Hide()
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

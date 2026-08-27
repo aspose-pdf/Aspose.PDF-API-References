@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.IgnoreShadowText
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSearchOptions. تحصل أو تعين الإشارة إلى أن أجزاء النص التي تمثل ظل النص العادي سيتم تجاهلها أثناء البحث. true تعني أن النص الظل لن يتم العثور عليه false تعني أن النص الظل سيتم العثور عليه بالإضافة إلى النص العادي
+title: "TextSearchOptions.IgnoreShadowText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSearchOptions. تحصل أو تعيّن إشارة إلى أن مقاطع النص التي تمثل ظل النص العادي سيتم تجاهلها أثناء البحث. true يعني أن نص الظل لن يُعثر عليه جرب هذا إذا كان بحث النص يُعيد مقاطع مكررة في المواقع القريبة false يعني أن نص الظل سيُعثر عليه كما النص العادي القيمة الافتراضية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textsearchoptions/ignoreshadowtext/
 ---
-## خاصية TextSearchOptions.IgnoreShadowText
+## TextSearchOptions.IgnoreShadowText property
 
-تحصل أو تعين الإشارة إلى أن أجزاء النص التي تمثل ظل النص العادي سيتم تجاهلها أثناء البحث. true - تعني أن النص الظل لن يتم العثور عليه (جرب هذا إذا كانت عملية البحث عن النص تعيد أجزاء مكررة في المواقع القريبة) false - تعني أن النص الظل سيتم العثور عليه بالإضافة إلى النص العادي (القيمة الافتراضية)
+الحصول أو الضبط إشارة إلى أن أجزاء النص التي تمثل ظل النص العادي سيتجاهلها أثناء البحث. true - يعني أن نص الظل لن يُعثر عليه (جرّب هذا إذا كان بحث النص يُعيد أجزاء مكررة في المواقع القريبة). false - يعني أن نص الظل سيُعثر عليه بالإضافة إلى النص العادي (القيمة الافتراضية).
 
 ```csharp
 public bool IgnoreShadowText { get; set; }
@@ -19,3 +19,5 @@ public bool IgnoreShadowText { get; set; }
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

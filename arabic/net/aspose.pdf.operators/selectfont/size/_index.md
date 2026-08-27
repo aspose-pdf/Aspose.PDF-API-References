@@ -1,12 +1,12 @@
 ---
-title: SelectFont.Size
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SelectFont. حجم النص
+title: "SelectFont.Size"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SelectFont. حجم النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/selectfont/size/
 ---
-## خاصية SelectFont.Size
+## SelectFont.Size property
 
 حجم النص.
 
@@ -19,3 +19,5 @@ public double Size { get; }
 * class [SelectFont](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

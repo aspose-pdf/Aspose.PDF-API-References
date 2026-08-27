@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.CaptionOffset
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل أو تعين إزاحة نص التسمية عن موضعه الطبيعي
+title: "LineAnnotation.CaptionOffset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. يحصل أو يضبط إزاحة نص التوضيح من موقعه الطبيعي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/lineannotation/captionoffset/
 ---
-## خاصية LineAnnotation.CaptionOffset
+## LineAnnotation.CaptionOffset property
 
-تحصل أو تعين إزاحة نص التسمية عن موضعه الطبيعي.
+يحصل أو يضبط إزاحة نص التسمية من موقعه الطبيعي.
 
 ```csharp
 public Point CaptionOffset { get; set; }
@@ -20,3 +20,5 @@ public Point CaptionOffset { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

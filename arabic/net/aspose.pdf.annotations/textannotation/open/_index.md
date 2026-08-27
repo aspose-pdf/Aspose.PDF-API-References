@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextAnnotation. تحصل أو تعين علامة تحدد ما إذا كان يجب عرض التعليق في البداية مفتوحًا
+title: "TextAnnotation.Open"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextAnnotation. تحصل أو تعيين علامة تحدد ما إذا كان يجب عرض التعليق التوضيحي مفتوحًا في البداية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/textannotation/open/
 ---
-## خاصية TextAnnotation.Open
+## TextAnnotation.Open property
 
-تحصل أو تعين علامة تحدد ما إذا كان يجب عرض التعليق في البداية مفتوحًا.
+يحصل أو يعيّن علامة تحدد ما إذا كان يجب عرض التعليق التوضيحي مفتوحًا في البداية.
 
 ```csharp
 public bool Open { get; set; }
@@ -19,3 +19,5 @@ public bool Open { get; set; }
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

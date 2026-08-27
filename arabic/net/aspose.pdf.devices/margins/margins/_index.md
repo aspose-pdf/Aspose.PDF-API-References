@@ -1,37 +1,37 @@
 ---
-title: Margins.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الهوامش. يقوم بتهيئة مثيل جديد من فئة الهوامش
+title: "Margins.Margins"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Margins. يُهيئ مثيلاً جديداً من الفئة Margins"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/margins/margins/
 ---
 ## Margins(int, int, int, int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`Margins`](../).
+يُهيئ مثيلاً جديداً من الفئة [`Margins`](../).
 
 ```csharp
 public Margins(int left, int right, int top, int bottom)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| left | Int32 | الإحداثي الأيسر. |
-| right | Int32 | الإحداثي الأيمن. |
-| top | Int32 | الإحداثي العلوي. |
-| bottom | Int32 | الإحداثي السفلي. |
+| يسار | Int32 | الإحداثي الأيسر. |
+| يمين | Int32 | الإحداثي الأيمن. |
+| أعلى | Int32 | الإحداثي العلوي. |
+| أسفل | Int32 | الإحداثي السفلي. |
 
 ### انظر أيضًا
 
-* فئة [Margins](../)
-* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* التجميع [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Margins() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`Margins`](../).
+يُهيئ مثيلاً جديداً من الفئة [`Margins`](../).
 
 ```csharp
 public Margins()
@@ -39,6 +39,8 @@ public Margins()
 
 ### انظر أيضًا
 
-* فئة [Margins](../)
-* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* التجميع [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

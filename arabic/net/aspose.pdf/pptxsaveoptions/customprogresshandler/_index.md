@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PptxSaveOptions. يمكن استخدام هذه المعالج للتعامل مع أحداث تقدم التحويل، على سبيل المثال، يمكن استخدامه لعرض شريط التقدم أو الرسائل حول الكمية الحالية من الصفحات المعالجة، مثال على كود المعالج الذي يظهر التقدم على وحدة التحكم هو
+title: "PptxSaveOptions.CustomProgressHandler"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PptxSaveOptions. يمكن استخدام هذا المعالج لمعالجة أحداث تقدم التحويل، على سبيل المثال يمكن استخدامه لعرض شريط تقدم أو رسائل حول عدد الصفحات المعالجة حاليًا. مثال على كود المعالج الذي يعرض التقدم في وحدة التحكم هو"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pptxsaveoptions/customprogresshandler/
 ---
-## خاصية PptxSaveOptions.CustomProgressHandler
+## PptxSaveOptions.CustomProgressHandler property
 
-يمكن استخدام هذه المعالج للتعامل مع أحداث تقدم التحويل، على سبيل المثال، يمكن استخدامه لعرض شريط التقدم أو الرسائل حول الكمية الحالية من الصفحات المعالجة، مثال على كود المعالج الذي يظهر التقدم على وحدة التحكم هو :
+يمكن استخدام هذا المعالج لمعالجة أحداث تقدم التحويل، على سبيل المثال يمكن استخدامه لعرض شريط تقدم أو رسائل حول عدد الصفحات المعالجة حاليًا، مثال على كود المعالج الذي يعرض التقدم في وحدة التحكم هو:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler { get; set; }
@@ -54,3 +54,5 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 * class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

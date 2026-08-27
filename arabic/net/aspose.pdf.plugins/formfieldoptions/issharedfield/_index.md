@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.IsSharedField
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله حقلًا مشتركًا أم لا.
+title: "FormFieldOptions.IsSharedField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. يحصل/يضبط القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله حقلًا مشتركًا أم لا إذا تم تعيينه"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/issharedfield/
 ---
-## خاصية FormFieldOptions.IsSharedField
+## FormFieldOptions.IsSharedField property
 
-تحصل/تضبط القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله حقلًا مشتركًا أم لا (إذا سيتم تعيينه).
+الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل حقلًا مشتركًا أم لا (إذا سيتم تعيينها).
 
 ```csharp
 public bool? IsSharedField { get; set; }
@@ -19,3 +19,5 @@ public bool? IsSharedField { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

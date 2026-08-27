@@ -1,22 +1,22 @@
 ---
-title: Form.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تنسخ الحقول الموضوعة على النموذج إلى مصفوفة
+title: "Form.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تنسخ الحقول الموضوعة في النموذج إلى مصفوفة."
 type: docs
-weight: 220
+weight: 240
 url: /ar/net/aspose.pdf.forms/form/copyto/
 ---
-## طريقة Form.CopyTo
+## Form.CopyTo method
 
-تنسخ الحقول الموضوعة على النموذج إلى مصفوفة.
+ينسخ الحقول الموجودة على النموذج إلى مصفوفة.
 
 ```csharp
 public void CopyTo(Field[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | Field[] | المصفوفة التي يجب وضع الحقول فيها. |
+| مصفوفة | Field[] | المصفوفة التي يجب وضع الحقول فيها. |
 | index | Int32 | الفهرس الابتدائي. |
 
 ### انظر أيضًا
@@ -25,3 +25,5 @@ public void CopyTo(Field[] array, int index)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

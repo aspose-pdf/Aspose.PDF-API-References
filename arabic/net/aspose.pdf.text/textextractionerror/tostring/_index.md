@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextExtractionError. تعيد تمثيل سلسلة
+title: "TextExtractionError.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextExtractionError. تُرجع تمثيل النص"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textextractionerror/tostring/
 ---
-## طريقة TextExtractionError.ToString
+## TextExtractionError.ToString method
 
-تعيد تمثيل سلسلة.
+يعيد تمثيل السلسلة.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل سلسلة.
+تمثيل النص.
 
 ### انظر أيضًا
 
 * class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

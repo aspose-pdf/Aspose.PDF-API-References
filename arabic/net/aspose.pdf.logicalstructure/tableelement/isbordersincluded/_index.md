@@ -1,14 +1,14 @@
 ---
-title: TableElement.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل أو تعين الحدود المضمنة في عرض الأعمدة
+title: "TableElement.IsBordersIncluded"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. يحصل أو يضبط الحد المشمول في عرض الأعمدة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
 ---
-## خاصية TableElement.IsBordersIncluded
+## TableElement.IsBordersIncluded property
 
-تحصل أو تعين الحدود المضمنة في عرض الأعمدة.
+الحصول أو تعيين تضمين الحد في عرض الأعمدة.
 
 ```csharp
 public bool IsBordersIncluded { get; set; }
@@ -19,3 +19,5 @@ public bool IsBordersIncluded { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

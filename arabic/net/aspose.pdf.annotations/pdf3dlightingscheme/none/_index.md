@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.None
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DLightingScheme. مخطط الإضاءة None
+title: "PDF3DLightingScheme.None"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DLightingScheme. مخطط الإضاءة لا شيء"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.annotations/pdf3dlightingscheme/none/
 ---
-## حقل PDF3DLightingScheme.None
+## PDF3DLightingScheme.None field
 
 مخطط الإضاءة "None".
 
@@ -19,3 +19,5 @@ public static PDF3DLightingScheme None;
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

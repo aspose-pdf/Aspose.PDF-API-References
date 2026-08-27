@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.C
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BasicSetColorOperator. تحصل على مكون السايان من لون CMYK
+title: "BasicSetColorOperator.C"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BasicSetColorOperator. تحصل على المكوّن السماوي من لون CMYK"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/basicsetcoloroperator/c/
 ---
-## خاصية BasicSetColorOperator.C
+## BasicSetColorOperator.C property
 
-تحصل على مكون السايان من لون CMYK.
+يحصل على المكوّن السماوي (Cyan) للون CMYK.
 
 ```csharp
 public double C { get; }
@@ -19,3 +19,5 @@ public double C { get; }
 * class [BasicSetColorOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

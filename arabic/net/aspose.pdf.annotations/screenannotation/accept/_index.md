@@ -1,22 +1,22 @@
 ---
-title: ScreenAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ScreenAnnotation. تقبل كائن الزائر لمعالجة التعليق
+title: "ScreenAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ScreenAnnotation. يقبل كائن الزائر لمعالجة التعليق"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/screenannotation/accept/
 ---
-## طريقة ScreenAnnotation.Accept
+## ScreenAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليق.
+يقبل كائن الزائر لمعالجة التعليق.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [ScreenAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PKCS7.PKCS7
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PKCS7. يُهيئ مثيلًا جديدًا من فئة PKCS7
+title: "PKCS7.PKCS7"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PKCS7. يهيئ مثيلاً جديداً من الفئة PKCS7."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/pkcs7/pkcs7/
 ---
 ## PKCS7() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`PKCS7`](../).
+يُنشئ نسخة جديدة من الفئة [`PKCS7`](../).
 
 ```csharp
 public PKCS7()
@@ -16,48 +16,50 @@ public PKCS7()
 
 ### انظر أيضًا
 
-* فئة [PKCS7](../)
-* مساحة الأسماء [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PKCS7(string, string) {#constructor_2}
 
-يُهيئ مثيلًا جديدًا من فئة [`PKCS7`](../).
+يُنشئ نسخة جديدة من الفئة [`PKCS7`](../).
 
 ```csharp
 public PKCS7(string pfx, string password)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pfx | سلسلة | ملف Pfx الذي يحتوي على الشهادة للتوقيع. |
-| password | سلسلة | كلمة المرور للشهادة. |
+| pfx | String | ملف Pfx الذي يحتوي على شهادة للتوقيع. |
+| password | String | كلمة المرور للشهادة. |
 
 ### انظر أيضًا
 
-* فئة [PKCS7](../)
-* مساحة الأسماء [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PKCS7(Stream, string) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`PKCS7`](../).
+يُنشئ نسخة جديدة من الفئة [`PKCS7`](../).
 
 ```csharp
 public PKCS7(Stream pfx, string password)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pfx | تدفق | تدفق يحتوي على بيانات الشهادة منظمة كـ pfx. |
-| password | سلسلة | كلمة المرور للوصول إلى المفتاح الخاص في الشهادة. |
+| pfx | Stream | دفق يحتوي على بيانات الشهادة منظمة كـ pfx. |
+| password | String | كلمة المرور للوصول إلى المفتاح الخاص في الشهادة. |
 
 ### انظر أيضًا
 
-* فئة [PKCS7](../)
-* مساحة الأسماء [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

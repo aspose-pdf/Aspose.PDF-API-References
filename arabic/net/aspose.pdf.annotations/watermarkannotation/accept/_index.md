@@ -1,22 +1,22 @@
 ---
-title: WatermarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة WatermarkAnnotation. تطبيق الزائر للتعليق
+title: "WatermarkAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة WatermarkAnnotation. تطبيق الزائر على التعليق التوضيحي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/watermarkannotation/accept/
 ---
-## طريقة WatermarkAnnotation.Accept
+## WatermarkAnnotation.Accept method
 
-تطبيق الزائر للتعليق.
+تطبيق الزائر على التوضيح.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

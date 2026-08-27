@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.TrimBottom
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSanitization. تزيل البيانات بعد آخر EOF
+title: "PdfFileSanitization.TrimBottom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSanitization. تزيل البيانات بعد آخر EOF"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdffilesanitization/trimbottom/
 ---
-## طريقة PdfFileSanitization.TrimBottom
+## PdfFileSanitization.TrimBottom method
 
-تزيل البيانات بعد آخر %%EOF.
+يزيل البيانات بعد آخر %%EOF.
 
 ```csharp
 public void TrimBottom()
@@ -19,3 +19,5 @@ public void TrimBottom()
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

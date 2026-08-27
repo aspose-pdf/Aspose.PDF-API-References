@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RichMediaAnnotation. تحصل على نوع التعليق
+title: "RichMediaAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RichMediaAnnotation. يحصل على نوع التعليق"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/richmediaannotation/annotationtype/
 ---
-## خاصية RichMediaAnnotation.AnnotationType
+## RichMediaAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

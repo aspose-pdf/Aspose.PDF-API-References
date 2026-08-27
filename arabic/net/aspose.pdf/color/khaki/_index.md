@@ -1,14 +1,14 @@
 ---
-title: Color.Khaki
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFF0E68C
+title: "Color.Khaki"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB c FFF0E68C"
 type: docs
 weight: 600
 url: /ar/net/aspose.pdf/color/khaki/
 ---
-## خاصية Color.Khaki
+## Color.Khaki property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFF0E68C.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFF0E68C.
 
 ```csharp
 public static Color Khaki { get; }
@@ -16,10 +16,12 @@ public static Color Khaki { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

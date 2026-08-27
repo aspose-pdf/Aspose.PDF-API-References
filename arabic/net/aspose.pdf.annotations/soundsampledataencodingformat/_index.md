@@ -1,12 +1,12 @@
 ---
-title: Enum SoundSampleDataEncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SoundSampleDataEncodingFormat في Aspose.Pdf.Annotations. تنسيق الترميز لبيانات عينة الصوت
+title: "التعداد SoundSampleDataEncodingFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.SoundSampleDataEncodingFormat enum. تنسيق الترميز لبيانات عينة الصوت."
 type: docs
-weight: 2580
+weight: 2680
 url: /ar/net/aspose.pdf.annotations/soundsampledataencodingformat/
 ---
-## تعداد SoundSampleDataEncodingFormat
+## SoundSampleDataEncodingFormat enumeration
 
 تنسيق الترميز لبيانات عينة الصوت.
 
@@ -19,11 +19,13 @@ public enum SoundSampleDataEncodingFormat
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Raw | `0` | قيم غير محددة أو غير موقعة في النطاق من 0 إلى 2B - 1. |
-| Signed | `1` | قيم بتكملة اثنين. |
-| muLaw | `2` | عينات مشفرة بتنسيق Mu-law. |
-| ALaw | `3` | عينات مشفرة بتنسيق A-law. |
+| Signed | `1` | قيم مكمل اثنين. |
+| muLaw | `2` | عينات مُشفّرة بتقنية Mu-law. |
+| ALaw | `3` | عينات مُشفّرة بتقنية A-law. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

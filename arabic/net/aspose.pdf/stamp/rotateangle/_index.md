@@ -1,14 +1,14 @@
 ---
-title: Stamp.RotateAngle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. تحصل أو تضبط زاوية الدوران للطابع بالدرجات. تتيح هذه الخاصية تعيين زاوية دوران تعسفية
+title: "Stamp.RotateAngle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. يحصل أو يضبط زاوية دوران الطابع بالدرجات. تسمح هذه الخاصية بتعيين زاوية دوران عشوائية"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/stamp/rotateangle/
 ---
-## خاصية Stamp.RotateAngle
+## Stamp.RotateAngle property
 
-تحصل أو تضبط زاوية الدوران للطابع بالدرجات. تتيح هذه الخاصية تعيين زاوية دوران تعسفية.
+يحصل أو يضبط زاوية دوران الطابع بالدرجات. تسمح هذه الخاصية بتعيين زاوية دوران عشوائية.
 
 ```csharp
 public double RotateAngle { get; set; }
@@ -19,3 +19,5 @@ public double RotateAngle { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

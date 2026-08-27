@@ -1,14 +1,14 @@
 ---
-title: RenditionAction.RenditionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RenditionAction. العملية التي يجب تنفيذها عند تفعيل الإجراء
+title: "RenditionAction.RenditionOperation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RenditionAction. العملية التي يجب تنفيذها عندما يتم تشغيل الإجراء"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/renditionaction/renditionoperation/
 ---
-## خاصية RenditionAction.RenditionOperation
+## RenditionAction.RenditionOperation property
 
-العملية التي يجب تنفيذها عند تفعيل الإجراء.
+العملية التي تُنفّذ عندما يتم تشغيل الإجراء.
 
 ```csharp
 public RenditionOperation RenditionOperation { get; set; }
@@ -20,3 +20,5 @@ public RenditionOperation RenditionOperation { get; set; }
 * class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

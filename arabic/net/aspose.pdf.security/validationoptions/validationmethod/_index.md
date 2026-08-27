@@ -1,14 +1,14 @@
 ---
-title: ValidationOptions.ValidationMethod
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ValidationOptions. تحصل أو تعين الطريقة المستخدمة للتحقق من صحة الشهادة
+title: "ValidationOptions.ValidationMethod"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ValidationOptions. تحصل أو تعيين الطريقة المستخدمة للتحقق من شهادة"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.pdf.security/validationoptions/validationmethod/
 ---
-## خاصية ValidationOptions.ValidationMethod
+## ValidationOptions.ValidationMethod property
 
-تحصل أو تعين الطريقة المستخدمة للتحقق من صحة الشهادة.
+يحصل أو يضبط الطريقة المستخدمة للتحقق من صحة شهادة.
 
 ```csharp
 public ValidationMethod ValidationMethod { get; set; }
@@ -20,3 +20,5 @@ public ValidationMethod ValidationMethod { get; set; }
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

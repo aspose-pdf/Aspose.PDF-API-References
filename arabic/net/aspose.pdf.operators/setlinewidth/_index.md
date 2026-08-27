@@ -1,42 +1,44 @@
 ---
-title: Class SetLineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetLineWidth. فئة تمثل عامل w لتعيين عرض الخط
+title: "الفئة SetLineWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.SetLineWidth. فئة تمثل عامل w لتعيين عرض الخط."
 type: docs
-weight: 7770
+weight: 7910
 url: /ar/net/aspose.pdf.operators/setlinewidth/
 ---
 ## SetLineWidth class
 
-فئة تمثل عامل w (تعيين عرض الخط).
+الفئة التي تمثل المشغل w (تعيين عرض الخط).
 
 ```csharp
 public class SetLineWidth : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetLineWidth](setlinewidth/)(double) | يقوم بتهيئة العامل بقيمة العرض. |
+| [SetLineWidth](setlinewidth/)(double) | يُهيئ العامل بقيمة العرض. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
-| [Width](../../aspose.pdf.operators/setlinewidth/width/) { get; set; } | يحصل أو يحدد عرض الخط. |
+| [Width](../../aspose.pdf.operators/setlinewidth/width/) { get; set; } | يحصل أو يعيّن عرض الخط. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setlinewidth/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
-| override [ToString](../../aspose.pdf.operators/setlinewidth/tostring/)() | يعيد تمثيل نصي للعامل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [ToString](../../aspose.pdf.operators/setlinewidth/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

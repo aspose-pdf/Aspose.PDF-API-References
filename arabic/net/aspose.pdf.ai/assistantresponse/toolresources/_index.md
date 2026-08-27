@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AssistantResponse. تحصل أو تعين مجموعة من الموارد التي تستخدمها أدوات المساعدين. الموارد محددة بنوع الأداة. على سبيل المثال، تتطلب أداة code_interpreter قائمة بمعرفات الملفات، بينما تتطلب أداة file_search قائمة بمعرفات مخازن المتجهات.
+title: "AssistantResponse.ToolResources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AssistantResponse. تحصل أو تعين مجموعة من الموارد التي تُستخدم بواسطة أدوات المساعد. الموارد خاصة بنوع الأداة. على سبيل المثال، أداة code_interpreter تتطلب قائمة بمعرفات الملفات بينما أداة file_search تتطلب قائمة بمعرفات مخازن المتجهات."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.ai/assistantresponse/toolresources/
 ---
-## خاصية AssistantResponse.ToolResources
+## AssistantResponse.ToolResources property
 
-تحصل أو تعين مجموعة من الموارد التي تستخدمها أدوات المساعد. الموارد محددة بنوع الأداة. على سبيل المثال، تتطلب أداة code_interpreter قائمة بمعرفات الملفات، بينما تتطلب أداة file_search قائمة بمعرفات مخازن المتجهات.
+يحصل أو يعيّن مجموعة من الموارد التي تستخدمها أدوات المساعد. الموارد محددة بنوع الأداة. على سبيل المثال، أداة code_interpreter تتطلب قائمة بمعرّفات الملفات، بينما أداة file_search تتطلب قائمة بمعرّفات المتاجر المتجهة.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
@@ -20,3 +20,5 @@ public ToolResources ToolResources { get; set; }
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

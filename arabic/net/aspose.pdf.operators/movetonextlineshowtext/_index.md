@@ -1,43 +1,45 @@
 ---
-title: Class MoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.MoveToNextLineShowText. فئة تمثل المشغل الانتقال إلى السطر التالي وعرض النص
+title: "فئة MoveToNextLineShowText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.MoveToNextLineShowText. تمثّل الفئة المشغّل للانتقال إلى السطر التالي وعرض النص."
 type: docs
-weight: 7520
+weight: 7660
 url: /ar/net/aspose.pdf.operators/movetonextlineshowtext/
 ---
 ## MoveToNextLineShowText class
 
-فئة تمثل 'المشغل (الانتقال إلى السطر التالي وعرض النص).
+الفئة التي تمثل المشغل ' (الانتقال إلى السطر التالي وعرض النص).
 
 ```csharp
 public class MoveToNextLineShowText : TextShowOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MoveToNextLineShowText](movetonextlineshowtext/#constructor)() | Initializes operator. |
-| [MoveToNextLineShowText](movetonextlineshowtext/#constructor_1)(string) | Initializes operator. |
+| [MoveToNextLineShowText](movetonextlineshowtext/#constructor)() | يُهيئ العامل. |
+| [MoveToNextLineShowText](movetonextlineshowtext/#constructor_1)(string) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| override [Text](../../aspose.pdf.operators/movetonextlineshowtext/text/) { get; } | يحصل على نص المشغل. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| override [Text](../../aspose.pdf.operators/movetonextlineshowtext/text/) { get; } | يحصل على نص المشغّل. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextShowOperator](../textshowoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

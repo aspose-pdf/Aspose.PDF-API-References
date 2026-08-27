@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.EndingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FreeTextAnnotation. تحصل أو تعين نمط نهاية السطر لنقطة نهاية السطر
+title: "FreeTextAnnotation.EndingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FreeTextAnnotation. يحصل أو يعيّن نمط نهاية الخط لنقطة نهاية الخط."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/freetextannotation/endingstyle/
 ---
-## خاصية FreeTextAnnotation.EndingStyle
+## FreeTextAnnotation.EndingStyle property
 
-تحصل أو تعين نمط نهاية السطر لنقطة نهاية السطر.
+يحصل أو يعيّن نمط نهاية الخط لنقطة النهاية.
 
 ```csharp
 public LineEnding EndingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding EndingStyle { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

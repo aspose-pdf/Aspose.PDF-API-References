@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfXmpMetadata. تحصل على مجموعة القيم في القاموس
+title: "PdfXmpMetadata.Values"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfXmpMetadata. تحصل على مجموعة القيم في القاموس"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/values/
 ---
-## خاصية PdfXmpMetadata.Values
+## PdfXmpMetadata.Values property
 
-تحصل على مجموعة القيم في القاموس.
+يحصل على مجموعة القيم في القاموس.
 
 ```csharp
 public ICollection<XmpValue> Values { get; }
@@ -20,3 +20,5 @@ public ICollection<XmpValue> Values { get; }
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

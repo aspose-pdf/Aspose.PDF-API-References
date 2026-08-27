@@ -1,25 +1,27 @@
 ---
-title: PDF3DCrossSection.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DCrossSection. يحصل أو يحدد قيمة تشير إلى رؤية تقاطع الطائرات القطعية
+title: "PDF3DCrossSection.Visibility"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DCrossSection. يحصل على أو يعيّن قيمة تشير إلى ظهور تقاطع أسطح القطع"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssection/visibility/
 ---
-## خاصية PDF3DCrossSection.Visibility
+## PDF3DCrossSection.Visibility property
 
-يحصل أو يحدد قيمة تشير إلى رؤية تقاطع الطائرات القطعية.
+يحصل أو يعيّن قيمة تشير إلى رؤية تقاطع أسطح القطع.
 
 ```csharp
 public bool Visibility { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-`true` إذا كانت مرئية؛ خلاف ذلك، `false`.
+`true` إذا كان مرئيًا؛ وإلا `false`.
 
 ### انظر أيضًا
 
 * class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

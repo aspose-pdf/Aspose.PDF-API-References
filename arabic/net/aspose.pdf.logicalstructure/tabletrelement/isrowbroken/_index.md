@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableTRElement. تحصل على ما إذا كان يمكن كسر الصف بين صفحتين
+title: "TableTRElement.IsRowBroken"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableTRElement. تحصل ما إذا كان يمكن كسر الصف بين صفحتين"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/
 ---
-## خاصية TableTRElement.IsRowBroken
+## TableTRElement.IsRowBroken property
 
-تحصل على ما إذا كان يمكن كسر الصف بين صفحتين.
+يحصل على ما إذا كان يمكن كسر الصف بين صفحتين.
 
 ```csharp
 public bool IsRowBroken { get; set; }
@@ -19,3 +19,5 @@ public bool IsRowBroken { get; set; }
 * class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

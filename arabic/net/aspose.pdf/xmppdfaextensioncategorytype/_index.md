@@ -1,27 +1,29 @@
 ---
-title: Enum XmpPdfAExtensionCategoryType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionCategoryType enum. خاصية الفئة داخلية أو خارجية
+title: "التعداد XmpPdfAExtensionCategoryType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.XmpPdfAExtensionCategoryType. الخاصية category داخلية أو خارجية."
 type: docs
-weight: 11430
+weight: 11620
 url: /ar/net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
 ## XmpPdfAExtensionCategoryType enumeration
 
-خاصية الفئة: داخلية أو خارجية.
+فئة الخاصية: داخلية أو خارجية.
 
 ```csharp
 public enum XmpPdfAExtensionCategoryType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Internal | `0` | الخصائص الداخلية تُنشأ تلقائيًا من محتوى الوثيقة. |
+| Internal | `0` | الخصائص الداخلية تُنشأ تلقائيًا من محتوى المستند. |
 | External | `1` | الخصائص الخارجية تعتمد على إدخال المستخدم. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

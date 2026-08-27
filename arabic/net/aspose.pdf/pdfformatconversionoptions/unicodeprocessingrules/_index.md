@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.UnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. قواعد لحل المشكلات المتعلقة بتعيين اليونيكود. يمكن أن تكون فارغة
+title: "PdfFormatConversionOptions.UnicodeProcessingRules"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. قواعد لحل المشكلات المتعلقة بتعيين Unicode. يمكن أن تكون null"
 type: docs
-weight: 220
+weight: 230
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/unicodeprocessingrules/
 ---
-## خاصية PdfFormatConversionOptions.UnicodeProcessingRules
+## PdfFormatConversionOptions.UnicodeProcessingRules property
 
-قواعد لحل المشكلات المتعلقة بتعيين اليونيكود. يمكن أن تكون فارغة.
+قواعد لحل المشكلات المتعلقة بخرائط Unicode. يمكن أن تكون فارغة.
 
 ```csharp
 public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
@@ -20,3 +20,5 @@ public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

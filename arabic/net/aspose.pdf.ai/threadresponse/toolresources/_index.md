@@ -1,14 +1,14 @@
 ---
-title: ThreadResponse.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadResponse. تحصل أو تعين مجموعة من الموارد المتاحة لأدوات المساعدين في هذه السلسلة. الموارد محددة بنوع الأداة. على سبيل المثال، تتطلب أداة code_interpreter قائمة بمعرفات الملفات، بينما تتطلب أداة file_search قائمة بمعرفات مخازن المتجهات.
+title: "ThreadResponse.ToolResources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ThreadResponse الخاصية. يحصل أو يضبط مجموعة من الموارد التي تتوفر لأدوات المساعدين في هذا الخيط. الموارد خاصة بنوع الأداة. على سبيل المثال أداة code_interpreter تتطلب قائمة بمعرفات الملفات بينما أداة file_search تتطلب قائمة بمعرفات مخازن المتجهات"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/threadresponse/toolresources/
 ---
-## خاصية ThreadResponse.ToolResources
+## ThreadResponse.ToolResources property
 
-تحصل أو تعين مجموعة من الموارد المتاحة لأدوات المساعد في هذه السلسلة. الموارد محددة بنوع الأداة. على سبيل المثال، تتطلب أداة code_interpreter قائمة بمعرفات الملفات، بينما تتطلب أداة file_search قائمة بمعرفات مخازن المتجهات.
+يحصل أو يعيّن مجموعة من الموارد التي تُتاح لأدوات المساعد في هذه السلسلة. الموارد تكون محددة حسب نوع الأداة. على سبيل المثال، أداة code_interpreter تتطلب قائمة بمعرفات الملفات (file IDs)، بينما أداة file_search تتطلب قائمة بمعرفات مخازن المتجهات (vector store IDs).
 
 ```csharp
 public ToolResources ToolResources { get; set; }
@@ -20,3 +20,5 @@ public ToolResources ToolResources { get; set; }
 * class [ThreadResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

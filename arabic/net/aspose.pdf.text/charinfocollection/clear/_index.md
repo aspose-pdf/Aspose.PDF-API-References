@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CharInfoCollection. المجموعة للقراءة فقط. دائمًا ما ترمي NotImplementedException
+title: "CharInfoCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CharInfoCollection method. Collection is readonly. Always throws NotImplementedException"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/charinfocollection/clear/
 ---
-## طريقة CharInfoCollection.Clear
+## CharInfoCollection.Clear method
 
-المجموعة للقراءة فقط. دائمًا ما ترمي NotImplementedException.
+المجموعة للقراءة فقط. دائمًا تُطلق استثناء NotImplementedException.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

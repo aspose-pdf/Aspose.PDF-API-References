@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.IsKeptWithNext
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseParagraph. تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false.
+title: "BaseParagraph.IsKeptWithNext"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseParagraph. يحصل أو يعيّن قيمة bool تُشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. لتوليد PDF."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/baseparagraph/iskeptwithnext/
 ---
-## خاصية BaseParagraph.IsKeptWithNext
+## BaseParagraph.IsKeptWithNext property
 
-تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF)
+الحصول على أو تعيين قيمة bool تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF)
 
 ```csharp
 public bool IsKeptWithNext { get; set; }
@@ -19,3 +19,5 @@ public bool IsKeptWithNext { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

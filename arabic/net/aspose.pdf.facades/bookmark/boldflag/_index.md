@@ -1,14 +1,14 @@
 ---
-title: Bookmark.BoldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تعين علامة الجريئة لعنوان الإشارات المرجعية
+title: "Bookmark.BoldFlag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. تحصل أو تعيين علامة الغامق لعنوان الإشارات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/bookmark/boldflag/
 ---
-## خاصية Bookmark.BoldFlag
+## Bookmark.BoldFlag property
 
-تحصل أو تعين علامة الجريئة لعنوان الإشارة المرجعية.
+يحصل أو يضبط علامة الخط العريض لعنوان الإشارة المرجعية.
 
 ```csharp
 public bool BoldFlag { get; set; }
@@ -19,3 +19,5 @@ public bool BoldFlag { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

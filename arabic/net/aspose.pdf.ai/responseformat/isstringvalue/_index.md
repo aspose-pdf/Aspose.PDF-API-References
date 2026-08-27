@@ -1,14 +1,14 @@
 ---
-title: ResponseFormat.IsStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ResponseFormat. تحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة هو قيمة سلسلة
+title: "ResponseFormat.IsStringValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ResponseFormat. تحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة قيمة نصية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/responseformat/isstringvalue/
 ---
-## خاصية ResponseFormat.IsStringValue
+## ResponseFormat.IsStringValue property
 
-تحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة هو قيمة سلسلة.
+يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة قيمة نصية.
 
 ```csharp
 public bool IsStringValue { get; }
@@ -19,3 +19,5 @@ public bool IsStringValue { get; }
 * class [ResponseFormat](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,29 @@
 ---
-title: MCRElement.Content
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MCRElement. تحصل على محتوى النص لعنصر مرجع المحتوى المعلم
+title: "MCRElement.Content"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MCRElement. تحصل على محتوى النص لعنصر إشارة المحتوى المميز"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/mcrelement/content/
 ---
-## خاصية MCRElement.Content
+## MCRElement.Content property
 
-تحصل على محتوى النص لعنصر مرجع المحتوى المعلم.
+تحصل على محتوى النص لعنصر إشارة المحتوى المميز.
 
-بالنسبة للكائن الذي تم إنشاؤه للتو والذي ينفذ [`ITextElement`](../../itextelement/). يكون فارغًا في الحالات الأخرى.
+لكائن تم إنشاؤه حديثًا والذي يطبق [`ITextElement`](../../itextelement/). يكون null في الحالات الأخرى.
 
 ```csharp
 public string Content { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-محتوى النص لعنصر مرجع المحتوى المعلم.
+محتوى النص لعنصر إشارة المحتوى المميز.
 
 ### انظر أيضًا
 
 * class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

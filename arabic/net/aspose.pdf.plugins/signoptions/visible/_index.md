@@ -1,14 +1,14 @@
 ---
-title: SignOptions.Visible
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignOptions. رؤية التوقيع
+title: "SignOptions.Visible"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignOptions. رؤية التوقيع"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.plugins/signoptions/visible/
 ---
-## خاصية SignOptions.Visible
+## SignOptions.Visible property
 
-رؤية التوقيع.
+ظهور التوقيع.
 
 ```csharp
 public bool Visible { get; set; }
@@ -19,3 +19,5 @@ public bool Visible { get; set; }
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

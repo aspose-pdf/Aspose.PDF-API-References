@@ -1,14 +1,14 @@
 ---
-title: BDC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BDC. الحصول على علامة المحتوى المحدد أو تعيينها
+title: "BDC.Tag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BDC. يحصل أو يضبط علامة المحتوى المميز"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/bdc/tag/
 ---
-## خاصية BDC.Tag
+## BDC.Tag property
 
-الحصول على علامة المحتوى المحدد أو تعيينها
+يحصل أو يضبط علامة المحتوى المعلَّم
 
 ```csharp
 public string Tag { get; set; }
@@ -19,3 +19,5 @@ public string Tag { get; set; }
 * class [BDC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

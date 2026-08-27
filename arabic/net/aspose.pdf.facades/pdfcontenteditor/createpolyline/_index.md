@@ -1,25 +1,25 @@
 ---
-title: PdfContentEditor.CreatePolyLine
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليق متعدد الخطوط
+title: "PdfContentEditor.CreatePolyLine"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تُنشئ تعليقة متعددة الخطوط"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/
 ---
-## طريقة PdfContentEditor.CreatePolyLine
+## PdfContentEditor.CreatePolyLine method
 
-تنشئ تعليق متعدد الخطوط.
+ينشئ تعليقة خط متعدد.
 
 ```csharp
 public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| lineInfo | LineInfo | مثيل من فئة LineInfo. |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق. |
-| annotRect | Rectangle | مستطيل التعليق الذي يحدد موقع التعليق على الصفحة. |
-| annotContents | String | محتويات التعليق. |
+| lineInfo | LineInfo | مثال من فئة LineInfo. |
+| صفحة | Int32 | عدد الصفحة الأصلية التي سيُنشأ فيها التعليق. |
+| annotRect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| annotContents | String | محتوى التعليق التوضيحي. |
 
 ## أمثلة
 
@@ -39,3 +39,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

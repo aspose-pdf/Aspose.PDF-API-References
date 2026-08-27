@@ -1,14 +1,14 @@
 ---
-title: Class FormRemoveSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions. تمثل الخيارات لإزالة الحقول المحددة في المستند بواسطة مكون FormEditor
+title: "الفئة FormRemoveSelectedFieldsOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions. تمثّل خيارات إزالة الحقول المحددة في المستند بواسطة مكوّن FormEditor"
 type: docs
-weight: 8790
+weight: 8920
 url: /ar/net/aspose.pdf.plugins/formremoveselectedfieldsoptions/
 ---
-## فئة FormRemoveSelectedFieldsOptions
+## FormRemoveSelectedFieldsOptions class
 
-تمثل الخيارات لإزالة الحقول المحددة في المستند بواسطة [`FormEditor`](../formeditor/) مكون.
+تمثّل خيارات إزالة الحقول المحددة في المستند بواسطة [`FormEditor`](../formeditor/).
 
 ```csharp
 public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
@@ -18,24 +18,26 @@ public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [FormRemoveSelectedFieldsOptions](formremoveselectedfieldsoptions/)(SelectField) | يقوم بتهيئة مثيل جديد من كائن [`FormEditorRemoveOptions`](../formeditorremoveoptions/) . |
+| [FormRemoveSelectedFieldsOptions](formremoveselectedfieldsoptions/)(SelectField) | ينشئ نسخة جديدة من كائن [`FormEditorRemoveOptions`](../formeditorremoveoptions/). |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يعيد مجموعة بيانات مكونات Form.... . |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يرجع مجموعة بيانات مكوّن Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكونات Form... . |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكونات Form... . |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
 
 ### انظر أيضًا
 
-* فئة [FormEditorRemoveOptions](../formeditorremoveoptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [FormEditorRemoveOptions](../formeditorremoveoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

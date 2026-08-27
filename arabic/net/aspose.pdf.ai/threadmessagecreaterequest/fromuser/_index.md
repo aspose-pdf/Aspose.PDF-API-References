@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ThreadMessageCreateRequest. تنشئ طلب ThreadMessageCreateRequest جديد مع تعيين الدور إلى المستخدم
+title: "ThreadMessageCreateRequest.FromUser"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ThreadMessageCreateRequest. ينشئ ThreadMessageCreateRequest جديد مع تعيين الدور إلى User"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/
 ---
-## طريقة ThreadMessageCreateRequest.FromUser
+## ThreadMessageCreateRequest.FromUser method
 
-تنشئ [`ThreadMessageCreateRequest`](../) جديد مع تعيين الدور إلى المستخدم.
+ينشئ [`ThreadMessageCreateRequest`](../) جديد مع تعيين الدور إلى User.
 
 ```csharp
 public static ThreadMessageCreateRequest FromUser()
@@ -16,10 +16,12 @@ public static ThreadMessageCreateRequest FromUser()
 
 ### قيمة الإرجاع
 
-مثيل جديد من [`ThreadMessageCreateRequest`](../) مع تعيين الدور إلى المستخدم.
+مثال جديد من [`ThreadMessageCreateRequest`](../) مع تعيين الدور إلى User.
 
 ### انظر أيضًا
 
-* فئة [ThreadMessageCreateRequest](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

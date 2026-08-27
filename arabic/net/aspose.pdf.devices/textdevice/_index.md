@@ -1,49 +1,49 @@
 ---
-title: Class TextDevice
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.TextDevice. تمثل فئة لتحويل صفحات مستند PDF إلى نص
+title: "الفئة TextDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Devices.TextDevice. تمثل فئة لتحويل صفحات مستند pdf إلى نص."
 type: docs
-weight: 3680
+weight: 3800
 url: /ar/net/aspose.pdf.devices/textdevice/
 ---
 ## TextDevice class
 
-تمثل فئة لتحويل صفحات مستند PDF إلى نص.
+يمثل فئة لتحويل صفحات مستند pdf إلى نص.
 
 ```csharp
 public sealed class TextDevice : PageDevice
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextDevice](textdevice/#constructor)() | يقوم بتهيئة مثيل جديد من `TextDevice` مع وضع تنسيق النص الخام وترميز النص Unicode. |
-| [TextDevice](textdevice/#constructor_3)(Encoding) | يقوم بتهيئة مثيل جديد من `TextDevice` للترميز المحدد. |
-| [TextDevice](textdevice/#constructor_1)(TextExtractionOptions) | يقوم بتهيئة مثيل جديد من `TextDevice` مع خيارات استخراج النص. |
-| [TextDevice](textdevice/#constructor_2)(TextExtractionOptions, Encoding) | يقوم بتهيئة مثيل جديد من `TextDevice` للترميز المحدد مع خيارات استخراج النص. |
+| [TextDevice](textdevice/#constructor)() | يقوم بتهيئة نسخة جديدة من `TextDevice` مع وضع تنسيق النص الخام وترميز النص Unicode. |
+| [TextDevice](textdevice/#constructor_3)(Encoding) | يقوم بتهيئة نسخة جديدة من `TextDevice` للترميز المحدد. |
+| [TextDevice](textdevice/#constructor_1)(TextExtractionOptions) | يقوم بتهيئة نسخة جديدة من `TextDevice` مع خيارات استخراج النص. |
+| [TextDevice](textdevice/#constructor_2)(TextExtractionOptions, Encoding) | يقوم بتهيئة نسخة جديدة من `TextDevice` للترميز المحدد مع خيارات استخراج النص. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Encoding](../../aspose.pdf.devices/textdevice/encoding/) { get; set; } | يحصل أو يحدد ترميز النص المستخرج. |
-| [ExtractionOptions](../../aspose.pdf.devices/textdevice/extractionoptions/) { get; set; } | يحصل أو يحدد خيارات استخراج النص. |
+| [Encoding](../../aspose.pdf.devices/textdevice/encoding/) { get; set; } | يحصل أو يضبط ترميز النص المستخرج. |
+| [ExtractionOptions](../../aspose.pdf.devices/textdevice/extractionoptions/) { get; set; } | يحصل أو يعيّن خيارات استخراج النص. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/textdevice/process/#process)(Page, Stream) | تحويل الصفحة وحفظها كتيار نص. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | يقوم بإجراء بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
+| override [Process](../../aspose.pdf.devices/textdevice/process/#process)(Page, Stream) | تحويل الصفحة وحفظها كتدفق نص. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | ينفّذ بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
 
-## Remarks
+## ملاحظات
 
-يستخدم كائن `TextDevice` بشكل أساسي لاستخراج النص من صفحة PDF.
+كائن `TextDevice` يُستخدم أساسًا لاستخراج النص من صفحة pdf.
 
-## Examples
+## أمثلة
 
-توضح المثال كيفية استخراج النص من الصفحة الأولى لمستند PDF.
+يوضح المثال كيفية استخراج النص من الصفحة الأولى لـ PDF document.
 
 ```csharp
 Document doc = new Document(inFile);
@@ -51,20 +51,22 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-    // create text device
+    // إنشاء جهاز نصي
     TextDevice device = new TextDevice();
 
-    // convert the page and save text to the stream
+    // تحويل الصفحة وحفظ النص إلى الدفق
     device.Process(doc.Pages[1], ms);
 
-    // use the extracted text
+    // استخدام النص المستخرج
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PageDevice](../pagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

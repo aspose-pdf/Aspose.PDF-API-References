@@ -1,14 +1,14 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BoundsOutOfRangeException. يُهيئ مثيلًا جديدًا من فئة BoundsOutOfRangeException
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BoundsOutOfRangeException. يهيئ مثيلًا جديدًا من الفئة BoundsOutOfRangeException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/boundsoutofrangeexception/boundsoutofrangeexception/
 ---
 ## BoundsOutOfRangeException() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`BoundsOutOfRangeException`](../).
+يهيئ مثيلًا جديدًا من الفئة [`BoundsOutOfRangeException`](../).
 
 ```csharp
 public BoundsOutOfRangeException()
@@ -16,48 +16,50 @@ public BoundsOutOfRangeException()
 
 ### انظر أيضًا
 
-* فئة [BoundsOutOfRangeException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BoundsOutOfRangeException(string) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`BoundsOutOfRangeException`](../) مع رسالة خطأ محددة.
+يُنشئ مثيلاً جديدًا من الفئة [`BoundsOutOfRangeException`](../) برسالة خطأ محددة.
 
 ```csharp
 public BoundsOutOfRangeException(string message)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
 
 ### انظر أيضًا
 
-* فئة [BoundsOutOfRangeException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BoundsOutOfRangeException(string, double, double) {#constructor_2}
 
-يُهيئ مثيلًا جديدًا من فئة [`BoundsOutOfRangeException`](../) مع رسالة خطأ محددة وأبعاد العنصر.
+يُنشئ مثيلاً جديدًا من الفئة [`BoundsOutOfRangeException`](../) برسالة خطأ محددة وأبعاد العنصر.
 
 ```csharp
 public BoundsOutOfRangeException(string message, double containerWidth, double containerHeight)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
 | containerWidth | Double | عرض الحاوية. |
 | containerHeight | Double | ارتفاع الحاوية. |
 
 ### انظر أيضًا
 
-* فئة [BoundsOutOfRangeException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

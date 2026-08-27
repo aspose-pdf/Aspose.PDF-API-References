@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocument
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfViewer. تطبع مستند Pdf باستخدام الطابعة الافتراضية
+title: "PdfViewer.PrintDocument"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfViewer. تطبع مستند Pdf باستخدام الطابعة الافتراضية"
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf.facades/pdfviewer/printdocument/
 ---
-## طريقة PdfViewer.PrintDocument
+## PdfViewer.PrintDocument method
 
-تطبع مستند Pdf باستخدام الطابعة الافتراضية.
+يطبع مستند Pdf باستخدام الطابعة الافتراضية.
 
 ```csharp
 public void PrintDocument()
@@ -41,3 +41,5 @@ iewer.ClosePdfFile()
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

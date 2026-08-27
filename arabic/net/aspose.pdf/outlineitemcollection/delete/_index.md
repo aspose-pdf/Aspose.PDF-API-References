@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutlineItemCollection. تحذف عنصر المخطط هذا من تسلسل المخطط الوثائقي
+title: "OutlineItemCollection.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OutlineItemCollection طريقة. يحذف هذا العنصر المخطط من تسلسل مخطط المستند"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf/outlineitemcollection/delete/
 ---
 ## Delete() {#delete}
 
-تحذف عنصر المخطط هذا من تسلسل المخطط الوثائقي.
+يحذف هذا العنصر من تسلسل مخطط المستند.
 
 ```csharp
 public void Delete()
@@ -24,18 +24,20 @@ public void Delete()
 
 ## Delete(string) {#delete_1}
 
-تحذف إدخال المخطط بالاسم المحدد من تسلسل المخطط الوثائقي.
+يحذف إدخال المخطط بالاسم المحدد من تسلسل مخطط المستند.
 
 ```csharp
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | عنوان إدخال المخطط الذي سيتم حذفه. |
+| الاسم | String | سيتم حذف عنوان مدخل المخطط. |
 
 ### انظر أيضًا
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RenderingOptions. المُنشئ الافتراضي
+title: "RenderingOptions.RenderingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RenderingOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/renderingoptions/renderingoptions/
 ---
-## مُنشئ RenderingOptions
+## RenderingOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public RenderingOptions()
@@ -19,3 +19,5 @@ public RenderingOptions()
 * class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

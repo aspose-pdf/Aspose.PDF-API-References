@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Top
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FloatingBox. تحصل أو تعين إحداثي الجزء العلوي من الجدول
+title: "FloatingBox.Top"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FloatingBox. يحصل أو يضبط إحداثي أعلى الجدول"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/floatingbox/top/
 ---
-## خاصية FloatingBox.Top
+## FloatingBox.Top property
 
-تحصل أو تعين إحداثي الجزء العلوي من الجدول.
+يحصل أو يعيّن إحداثي أعلى الجدول.
 
 ```csharp
 public double Top { get; set; }
@@ -19,3 +19,5 @@ public double Top { get; set; }
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsStructure
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpValue. تعيد true إذا كانت XmpValue تمثل هيكل
+title: "XmpValue.IsStructure"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpValue. تُرجع true إذا كان XmpValue يمثل بنية"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/xmpvalue/isstructure/
 ---
-## خاصية XmpValue.IsStructure
+## XmpValue.IsStructure property
 
-تعيد true إذا كانت XmpValue تمثل هيكل.
+يعيد true إذا كان XmpValue يمثل بنية.
 
 ```csharp
 public bool IsStructure { get; }
@@ -19,3 +19,5 @@ public bool IsStructure { get; }
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

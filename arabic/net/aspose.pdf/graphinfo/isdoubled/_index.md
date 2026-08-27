@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.IsDoubled
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphInfo. تحصل أو تعين ما إذا كان الحد مضاعفًا
+title: "GraphInfo.IsDoubled"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphInfo. يحصل أو يعيّن ما إذا كان الحد مزدوجًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/graphinfo/isdoubled/
 ---
-## خاصية GraphInfo.IsDoubled
+## GraphInfo.IsDoubled property
 
-تحصل أو تعين ما إذا كان الحد مضاعفًا.
+يحصل أو يعيّن ما إذا كان الحد مزدوجًا.
 
 ```csharp
 public bool IsDoubled { get; set; }
@@ -19,3 +19,5 @@ public bool IsDoubled { get; set; }
 * class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

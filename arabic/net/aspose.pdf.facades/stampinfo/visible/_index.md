@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Visible
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StampInfo. تحصل على رؤية الطابع. إذا كانت القيمة خاطئة، فإن الطابع مخفي باستخدام HideStampById. يمكن استعادة الطابع المخفي باستخدام ShowStampById
+title: "StampInfo.Visible"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StampInfo. يحصل على رؤية الطابع. إذا كان false فإن الطابع مخفي باستخدام HideStampById. يمكن استعادة الطابع المخفي بواسطة ShowStampById"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/stampinfo/visible/
 ---
-## خاصية StampInfo.Visible
+## StampInfo.Visible property
 
-تحصل على رؤية الطابع. إذا كانت القيمة خاطئة، فإن الطابع مخفي (باستخدام HideStampById). يمكن استعادة الطابع المخفي باستخدام ShowStampById.
+يحصل على رؤية الطابع. إذا كان false فإن الطابع مخفي (باستخدام HideStampById). يمكن استعادة الطابع المخفي عبر ShowStampById.
 
 ```csharp
 public bool Visible { get; }
@@ -19,3 +19,5 @@ public bool Visible { get; }
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

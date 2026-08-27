@@ -1,14 +1,14 @@
 ---
-title: Table.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل على الحدود الافتراضية للخلايا
+title: "Table.DefaultColumnWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. تحصل على حد الخلية الافتراضي."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/table/defaultcolumnwidth/
 ---
-## خاصية Table.DefaultColumnWidth
+## Table.DefaultColumnWidth property
 
-تحصل على الحدود الافتراضية للخلايا;
+يحصل على حد الخلية الافتراضي؛
 
 ```csharp
 public string DefaultColumnWidth { get; set; }
@@ -19,3 +19,5 @@ public string DefaultColumnWidth { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

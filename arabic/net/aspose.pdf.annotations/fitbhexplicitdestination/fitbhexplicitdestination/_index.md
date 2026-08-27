@@ -1,7 +1,7 @@
 ---
-title: FitBHExplicitDestination.FitBHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FitBHExplicitDestination. ينشئ وجهة صريحة محلية
+title: "FitBHExplicitDestination.FitBHExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FitBHExplicitDestination. ينشئ وجهة صريحة محلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/fitbhexplicitdestination/fitbhexplicitdestination/
@@ -14,12 +14,12 @@ url: /ar/net/aspose.pdf.annotations/fitbhexplicitdestination/fitbhexplicitdestin
 public FitBHExplicitDestination(Page page, double top)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن الصفحة الوجهة. |
-| top | Double | الإحداثي العمودي العلوي الموجود في حافة النافذة العلوية. |
+| صفحة | صفحة | كائن صفحة الوجهة. |
+| أعلى | Double | الإحداثي العمودي العلوي موضعه عند الحافة العلوية للنافذة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [FitBHExplicitDestination](../)
@@ -36,13 +36,15 @@ public FitBHExplicitDestination(Page page, double top)
 public FitBHExplicitDestination(int pageNumber, double top)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم الصفحة الوجهة للمستند البعيد. |
-| top | Double | الإحداثي العمودي العلوي الموجود في حافة النافذة العلوية. |
+| pageNumber | Int32 | رقم صفحة الوجهة في المستند البعيد. |
+| أعلى | Double | الإحداثي العمودي العلوي موضعه عند الحافة العلوية للنافذة. |
 
-### See Also
+### انظر أيضًا
 
 * class [FitBHExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

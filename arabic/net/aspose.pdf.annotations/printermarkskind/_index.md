@@ -1,37 +1,39 @@
 ---
-title: Enum PrinterMarksKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarksKind enum. يحدد أنواع علامات الطابعة التي ستضاف إلى مستند
+title: "تعداد PrinterMarksKind"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Annotations.PrinterMarksKind. يحدد أنواع علامات الطباعة التي ستُضاف إلى المستند."
 type: docs
-weight: 2380
+weight: 2470
 url: /ar/net/aspose.pdf.annotations/printermarkskind/
 ---
 ## PrinterMarksKind enumeration
 
-يحدد أنواع علامات الطابعة التي ستضاف إلى مستند.
+يحدد أنواع علامات الطابعة التي ستُضاف إلى المستند.
 
 ```csharp
 [Flags]
 public enum PrinterMarksKind
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | يحدد أنه لا يجب إضافة أي علامات طابعة. |
-| TrimMarks | `1` | يحدد أنه يجب إضافة علامات القص. |
-| BleedMarks | `2` | يحدد أنه يجب إضافة علامات النزف. |
-| RegistrationMarks | `4` | يحدد أنه يجب إضافة علامات التسجيل. |
-| ColorBars | `8` | يحدد أنه يجب إضافة أشرطة الألوان. |
-| PageInformation | `10` | يحدد أنه يجب إضافة معلومات الصفحة. |
-| All | `1F` | يحدد أنه يجب إضافة جميع أنواع علامات الطابعة. |
+| None | `0` | يحدد عدم إضافة أي علامات طابعة. |
+| TrimMarks | `1` | يحدد إضافة علامات القص. |
+| BleedMarks | `2` | يحدد إضافة علامات الامتداد. |
+| RegistrationMarks | `4` | يحدد إضافة علامات التسجيل. |
+| ColorBars | `8` | يحدد إضافة أشرطة اللون. |
+| PageInformation | `10` | يحدد إضافة معلومات الصفحة. |
+| All | `1F` | يحدد إضافة جميع أنواع علامات الطابعة. |
 
-## Remarks
+## ملاحظات
 
-تحتوي هذه التعداد على خاصية FlagsAttribute التي تسمح بدمج قيم أعضائها باستخدام العمليات الثنائية.
+يحتوي هذا التعداد على سمة FlagsAttribute التي تسمح بدمج القيم الأعضاء بطريقة بتية.
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

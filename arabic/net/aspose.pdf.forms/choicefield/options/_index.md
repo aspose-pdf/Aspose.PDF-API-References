@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChoiceField. تحصل على مجموعة من خيارات الاختيار
+title: "ChoiceField.Options"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChoiceField. يحصل على مجموعة من خيارات الاختيار"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/choicefield/options/
 ---
-## خاصية ChoiceField.Options
+## ChoiceField.Options property
 
-تحصل على مجموعة من خيارات الاختيار.
+يحصل على مجموعة خيارات الاختيار.
 
 ```csharp
 public virtual OptionCollection Options { get; }
@@ -20,3 +20,5 @@ public virtual OptionCollection Options { get; }
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

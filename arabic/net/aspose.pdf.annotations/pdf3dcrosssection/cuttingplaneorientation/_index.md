@@ -1,28 +1,28 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DCrossSection. تحصل أو تعين اتجاه مستوى القطع
+title: "PDF3DCrossSection.CuttingPlaneOrientation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DCrossSection. يحصل على أو يعيّن اتجاه سطح القطع"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/
 ---
-## خاصية PDF3DCrossSection.CuttingPlaneOrientation
+## PDF3DCrossSection.CuttingPlaneOrientation property
 
-تحصل أو تعين اتجاه مستوى القطع.
+يحصل أو يعيّن توجيه سطح القطع.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-اتجاه مستوى القطع.
+اتجاه سطح القطع.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| استثناء | يجب أن تكون واحدة فقط من القيم Null |
+| Exception | يجب أن تكون إحدى القيم فقط Null |
 
 ### انظر أيضًا
 
@@ -30,3 +30,5 @@ public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 * class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

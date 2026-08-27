@@ -1,14 +1,14 @@
 ---
-title: Form.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تحصل على عدد الحقول في هذا النموذج
+title: "Form.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تحصل على عدد الحقول في هذا النموذج."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/form/count/
 ---
-## خاصية Form.Count
+## Form.Count property
 
-تحصل على عدد الحقول في هذا النموذج.
+يحصل على عدد الحقول في هذا النموذج.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

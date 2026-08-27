@@ -1,25 +1,27 @@
 ---
-title: OutlineItemCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutlineItemCollection. تضيف عنصر مخطط إلى المجموعة
+title: "OutlineItemCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OutlineItemCollection طريقة. يضيف عنصر مخطط إلى المجموعة"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf/outlineitemcollection/add/
 ---
-## طريقة OutlineItemCollection.Add
+## OutlineItemCollection.Add method
 
-تضيف عنصر مخطط إلى المجموعة.
+يضيف عنصر المخطط إلى المجموعة.
 
 ```csharp
 public override void Add(OutlineItemCollection outline)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outline | OutlineItemCollection | عنصر المخطط الذي سيتم إضافته. |
+| مخطط | OutlineItemCollection | عنصر المخطط الذي سيُضاف. |
 
 ### انظر أيضًا
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

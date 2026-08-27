@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.DegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. يسمح بالطباعة المتدهورة
+title: "DocumentPrivilege.DegradedPrinting"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. يسمح بالطباعة منخفضة الجودة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/documentprivilege/degradedprinting/
 ---
-## خاصية DocumentPrivilege.DegradedPrinting
+## DocumentPrivilege.DegradedPrinting property
 
 يسمح بالطباعة المتدهورة.
 
@@ -19,3 +19,5 @@ public static DocumentPrivilege DegradedPrinting { get; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

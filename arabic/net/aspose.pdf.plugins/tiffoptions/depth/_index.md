@@ -1,20 +1,20 @@
 ---
-title: TiffOptions.Depth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffOptions. تحصل أو تعين عمق اللون
+title: "TiffOptions.Depth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffOptions. تحصل أو تعين عمق اللون"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.plugins/tiffoptions/depth/
 ---
-## خاصية TiffOptions.Depth
+## TiffOptions.Depth property
 
-تحصل أو تعين عمق اللون.
+احصل أو عيّن عمق اللون.
 
 ```csharp
 public ColorDepth Depth { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 عمق اللون.
 
@@ -28,3 +28,5 @@ public ColorDepth Depth { get; set; }
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

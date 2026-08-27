@@ -1,24 +1,24 @@
 ---
-title: PdfFileInfo.Save
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileInfo. تحفظ مستند PDF في الملف المحدد
+title: "PdfFileInfo.Save"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileInfo. تحفظ مستند PDF إلى الملف المحدد"
 type: docs
 weight: 300
 url: /ar/net/aspose.pdf.facades/pdffileinfo/save/
 ---
 ## Save(Stream) {#save}
 
-تحفظ مستند PDF في الملف المحدد.
+يحفظ مستند PDF إلى الملف المحدد.
 
 ```csharp
 public override void Save(Stream destStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| destStream | Stream | تدفق الوجهة. |
+| destStream | Stream | دفق الوجهة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,20 @@ public override void Save(Stream destStream)
 
 ## Save(string) {#save_1}
 
-تحفظ مستند PDF في الملف المحدد.
+يحفظ مستند PDF إلى الملف المحدد.
 
 ```csharp
 public override void Save(string destFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| destFile | String | الملف الوجهة. |
+| destFile | String | ملف الوجهة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

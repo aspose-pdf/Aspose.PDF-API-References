@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupAnnotation. تحصل أو تعين نصًا سيتم عرضه في شريط عنوان التعليق
+title: "MarkupAnnotation.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupAnnotation. تُرجع أو تُعيّن تسمية نصية تُعرض في شريط عنوان نافذة التعليقات المنبثقة عند فتحها وتفعيلها. يجب أن يحدد هذا الإدخال المستخدم الذي أضاف التعليق التوضيحي."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/markupannotation/title/
 ---
-## خاصية MarkupAnnotation.Title
+## MarkupAnnotation.Title property
 
-تحصل أو تعين نصًا سيتم عرضه في شريط عنوان التعليق.
+يحصل أو يضبط تسمية نصية تُعرض في شريط عنوان نافذة التعليق المنبثقة عندما تكون مفتوحة ونشطة. يجب أن يحدد هذا الإدخال المستخدم الذي أضاف التعليق.
 
 ```csharp
 public string Title { get; set; }
@@ -19,3 +19,5 @@ public string Title { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

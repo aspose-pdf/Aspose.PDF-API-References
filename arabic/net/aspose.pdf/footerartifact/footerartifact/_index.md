@@ -1,12 +1,12 @@
 ---
-title: FooterArtifact.FooterArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FooterArtifact. ينشئ مثيل Footer Artifact
+title: "FooterArtifact.FooterArtifact"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FooterArtifact. ينشئ مثيل Footer Artifact"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/footerartifact/footerartifact/
 ---
-## مُنشئ FooterArtifact
+## FooterArtifact constructor
 
 ينشئ مثيل Footer Artifact.
 
@@ -19,3 +19,5 @@ public FooterArtifact()
 * class [FooterArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Bookmark.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تعين عنوان الإشارات المرجعية
+title: "Bookmark.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. يحصل أو يحدد عنوان العلامات المرجعية."
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/bookmark/title/
 ---
-## خاصية Bookmark.Title
+## Bookmark.Title property
 
-تحصل أو تعين عنوان الإشارة المرجعية.
+يحصل أو يعيّن عنوان العلامة المرجعية.
 
 ```csharp
 public string Title { get; set; }
@@ -19,3 +19,5 @@ public string Title { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

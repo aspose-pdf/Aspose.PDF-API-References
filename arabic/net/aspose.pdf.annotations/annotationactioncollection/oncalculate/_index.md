@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnCalculate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراء لحساب قيمة الحقل
+title: "AnnotationActionCollection.OnCalculate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء لحساب قيمة الحقل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/oncalculate/
 ---
-## خاصية AnnotationActionCollection.OnCalculate
+## AnnotationActionCollection.OnCalculate property
 
-تحصل أو تعين إجراء لحساب قيمة الحقل.
+يحصل أو يعيّن إجراءً لحساب قيمة الحقل.
 
 ```csharp
 public PdfAction OnCalculate { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnCalculate { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

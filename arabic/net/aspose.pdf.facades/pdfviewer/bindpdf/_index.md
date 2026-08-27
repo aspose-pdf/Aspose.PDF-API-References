@@ -1,24 +1,24 @@
 ---
-title: PdfViewer.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfViewer. تقوم بتهيئة الواجهة
+title: "PdfViewer.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfViewer. تهيئ الواجهة"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf.facades/pdfviewer/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-تقوم بتهيئة الواجهة.
+يُهيئ الواجهة.
 
 ```csharp
 public void BindPdf(string srcFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | srcFile | String | ملف PDF. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,17 +28,17 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-تقوم بتهيئة الواجهة.
+يُهيئ الواجهة.
 
 ```csharp
 public void BindPdf(Stream srcStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| srcStream | Stream | تدفق ملف PDF. |
+| srcStream | Stream | دفق ملف PDF. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -48,19 +48,21 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-تقوم بتهيئة الواجهة.
+يُهيئ الواجهة.
 
 ```csharp
 public void BindPdf(Document srcDoc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| srcDoc | Document | كائن Aspose.Pdf.Document. |
+| srcDoc | Document | الكائن Aspose.Pdf.Document. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

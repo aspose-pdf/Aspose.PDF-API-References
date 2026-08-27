@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateEmbeddingRequest. تحصل أو تعين النموذج لإنشاء التضمين
+title: "CreateEmbeddingRequest.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CreateEmbeddingRequest. تحصل أو تعين النموذج لتوليد التضمين من أجله"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/createembeddingrequest/model/
 ---
-## خاصية CreateEmbeddingRequest.Model
+## CreateEmbeddingRequest.Model property
 
-تحصل أو تعين النموذج لإنشاء التضمين.
+يحصل أو يضبط النموذج الذي يُولَّد المتجه من أجله.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [CreateEmbeddingRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

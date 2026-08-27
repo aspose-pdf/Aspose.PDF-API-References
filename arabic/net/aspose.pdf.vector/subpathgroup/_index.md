@@ -1,20 +1,22 @@
 ---
-title: Class SubPathGroup
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector.SubPathGroup class. تمثل فئة لمجموعة من حاويات العناصر الرسومية. تحتوي كائنات الفئة على صندوق محيط لحساب حجم المجموعة
+title: "الفئة SubPathGroup"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Vector.SubPathGroup. تمثل فئة لمجموعة من حاويات عناصر الرسومات. كائنات الفئة لها صندوق محيط لتحديد حجم المجموعة."
 type: docs
-weight: 11230
+weight: 11420
 url: /ar/net/aspose.pdf.vector/subpathgroup/
 ---
 ## SubPathGroup class
 
-تمثل فئة لمجموعة من حاويات العناصر الرسومية. تحتوي كائنات الفئة على صندوق محيط لحساب حجم المجموعة.
+يمثل فئة لمجموعة من حاويات عناصر الرسومات. كائنات الفئة لديها صندوق حدود لتحديد حجم المجموعة.
 
 ```csharp
 public class SubPathGroup
 ```
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

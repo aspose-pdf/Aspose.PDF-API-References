@@ -1,30 +1,30 @@
 ---
-title: Color.FromArgb
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Color. يحصل على كائن لون PDF صالح من مكونات لون RGB
+title: "Color.FromArgb"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Color. يحصل على كائن Color صالح من pdf من مكوّنات اللون RGB"
 type: docs
 weight: 1440
 url: /ar/net/aspose.pdf/color/fromargb/
 ---
 ## FromArgb(int, int, int) {#fromargb}
 
-يحصل على كائن لون PDF صالح من مكونات لون RGB.
+يحصل على كائن Color صالح من مكوّنات اللون RGB في pdf.
 
 ```csharp
 public static Color FromArgb(int r, int g, int b)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| r | Int32 | مكون اللون الأحمر (القيمة 0 - 255). |
-| g | Int32 | مكون اللون الأخضر (القيمة 0 - 255). |
-| b | Int32 | مكون اللون الأزرق (القيمة 0 - 255). |
+| r | Int32 | مكوّن اللون الأحمر (القيمة 0 - 255). |
+| g | Int32 | مكوّن اللون الأخضر (القيمة 0 - 255). |
+| b | Int32 | مكوّن اللون الأزرق (القيمة 0 - 255). |
 
-### Return Value
+### قيمة الإرجاع
 
-كائن لون مع كل قيمة مكون في نطاق [0..255].
+كائن Color مع قيمة كل مكوّن في النطاق [0..255].
 
-### See Also
+### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,25 +34,27 @@ public static Color FromArgb(int r, int g, int b)
 
 ## FromArgb(int, int, int, int) {#fromargb_1}
 
-يحصل على كائن لون PDF صالح من مكونات لون RGB.
+يحصل على كائن Color صالح من مكوّنات اللون RGB في pdf.
 
 ```csharp
 public static Color FromArgb(int a, int r, int g, int b)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| a | Int32 | قيمة مكون ألفا (القيمة 0 - 255). |
-| r | Int32 | مكون اللون الأحمر (القيمة 0 - 255). |
-| g | Int32 | مكون اللون الأخضر (القيمة 0 - 255). |
-| b | Int32 | مكون اللون الأزرق (القيمة 0 - 255). |
+| a | Int32 | قيمة مكوّن ألفا (القيمة 0 - 255). |
+| r | Int32 | مكوّن اللون الأحمر (القيمة 0 - 255). |
+| g | Int32 | مكوّن اللون الأخضر (القيمة 0 - 255). |
+| b | Int32 | مكوّن اللون الأزرق (القيمة 0 - 255). |
 
-### Return Value
+### قيمة الإرجاع
 
-كائن لون مع كل قيمة مكون في نطاق [0..255].
+كائن Color مع قيمة كل مكوّن في النطاق [0..255].
 
-### See Also
+### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

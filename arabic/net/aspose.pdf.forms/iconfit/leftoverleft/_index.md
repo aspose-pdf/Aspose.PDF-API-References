@@ -1,14 +1,14 @@
 ---
-title: IconFit.LeftoverLeft
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IconFit. تحصل أو تعين المساحة المخصصة على يسار الأيقونة
+title: "IconFit.LeftoverLeft"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IconFit. تحصل أو تعيين المسافة المخصصة على يسار الأيقونة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/iconfit/leftoverleft/
 ---
-## خاصية IconFit.LeftoverLeft
+## IconFit.LeftoverLeft property
 
-تحصل أو تعين المساحة المخصصة على يسار الأيقونة.
+يحصل أو يعيّن المسافة المخصصة على يسار الأيقونة.
 
 ```csharp
 public double LeftoverLeft { get; set; }
@@ -19,3 +19,5 @@ public double LeftoverLeft { get; set; }
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

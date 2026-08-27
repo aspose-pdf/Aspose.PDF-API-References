@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.First
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. تحصل على عنصر المخطط الذي يمثل أول عنصر في المستوى الأعلى في تسلسل المخطط
+title: "OutlineItemCollection.First"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineItemCollection. تحصل على عنصر المخطط الذي يمثل العنصر الأول من المستوى الأعلى في تسلسل المخطط الهرمي"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/outlineitemcollection/first/
 ---
-## خاصية OutlineItemCollection.First
+## OutlineItemCollection.First property
 
-تحصل على عنصر المخطط الذي يمثل أول عنصر في المستوى الأعلى في تسلسل المخطط.
+يحصل على عنصر المخطط الذي يمثل أول عنصر من المستوى الأعلى في تسلسل المخطط.
 
 ```csharp
 public OutlineItemCollection First { get; }
@@ -19,3 +19,5 @@ public OutlineItemCollection First { get; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

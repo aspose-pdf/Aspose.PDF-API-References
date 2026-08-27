@@ -1,24 +1,24 @@
 ---
-title: OpenAIClient.GetVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع تفاصيل ملف معين داخل مخزن المتجهات بشكل غير متزامن
+title: "OpenAIClient.GetVectorStoreFileAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع تفاصيل ملف محدد داخل مخزن المتجهات بشكل غير متزامن"
 type: docs
-weight: 340
+weight: 350
 url: /ar/net/aspose.pdf.ai/openaiclient/getvectorstorefileasync/
 ---
-## طريقة OpenAIClient.GetVectorStoreFileAsync
+## OpenAIClient.GetVectorStoreFileAsync method
 
-تسترجع تفاصيل ملف معين داخل مخزن المتجهات بشكل غير متزامن.
+يسترجع تفاصيل ملف محدد داخل مخزن متجه بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreId, string fileId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreId | سلسلة | معرف مخزن المتجهات الذي يحتوي على الملف. |
-| fileId | سلسلة | معرف الملف الذي سيتم استرجاعه. |
+| vectorStoreId | String | معرّف مخزن المتجهات الذي يحتوي على الملف. |
+| fileId | String | معرّف الملف المراد استرجاعه. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
@@ -27,10 +27,10 @@ public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreI
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف مخزن المتجهات فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف الملف فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف مخزن المتجهات فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرف الملف فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreI
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

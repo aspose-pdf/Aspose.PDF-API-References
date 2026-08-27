@@ -1,9 +1,9 @@
 ---
-title: Enum SoundEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundEncoding enum. تنسيق الترميز لبيانات العينة
+title: "تعداد SoundEncoding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Annotations.SoundEncoding. تنسيق الترميز لبيانات العينة"
 type: docs
-weight: 2550
+weight: 2650
 url: /ar/net/aspose.pdf.annotations/soundencoding/
 ---
 ## SoundEncoding enumeration
@@ -14,16 +14,18 @@ url: /ar/net/aspose.pdf.annotations/soundencoding/
 public enum SoundEncoding
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Raw | `0` | قيم غير محددة أو غير موقعة في النطاق 0 إلى 2^bits - 1. |
-| Signed | `1` | قيم مكملة للاثنين. |
-| MuLaw | `2` | عينات مشفرة بتنسيق Mu-law. |
-| ALaw | `3` | عينات مشفرة بتنسيق A-law. |
+| Raw | `0` | قيم غير محددة أو غير موقعة في النطاق من 0 إلى 2^bits - 1. |
+| Signed | `1` | قيم مكمل اثنين. |
+| MuLaw | `2` | عينات مُشفّرة بتقنية Mu-law. |
+| ALaw | `3` | عينات مُشفّرة بتقنية A-law. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Row.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصف. استنساخ الصف
+title: "Row.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Row. استنساخ الصف"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/row/clone/
@@ -14,12 +14,14 @@ url: /ar/net/aspose.pdf/row/clone/
 public object Clone()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 الكائن المستنسخ
 
-### See Also
+### انظر أيضًا
 
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: EpubLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EpubLoadOptions. تحصل أو تعين حجم الصفحة الناتجة للاستيراد
+title: "EpubLoadOptions.PageSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EpubLoadOptions. تحصل على أو تعيين حجم صفحة الإخراج للاستيراد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/epubloadoptions/pagesize/
 ---
-## خاصية EpubLoadOptions.PageSize
+## EpubLoadOptions.PageSize property
 
-تحصل أو تعين حجم الصفحة الناتجة للاستيراد.
+يحصل أو يعيّن حجم صفحة الإخراج للاستيراد.
 
 ```csharp
 public SizeF PageSize { get; }
@@ -19,3 +19,5 @@ public SizeF PageSize { get; }
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

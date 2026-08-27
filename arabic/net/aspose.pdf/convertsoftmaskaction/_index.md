@@ -1,27 +1,29 @@
 ---
-title: Enum ConvertSoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ConvertSoftMaskAction enum. هذا الإجراء يمثل الإجراءات لتحويل الصور ذات القناع الناعم
+title: "Enum ConvertSoftMaskAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.ConvertSoftMaskAction enum. يمثل هذا الإجراء إجراءات تحويل الصور ذات القناع الناعم"
 type: docs
-weight: 3370
+weight: 3490
 url: /ar/net/aspose.pdf/convertsoftmaskaction/
 ---
 ## ConvertSoftMaskAction enumeration
 
-هذا الإجراء يمثل الإجراءات لتحويل الصور ذات القناع الناعم.
+يمثل هذا الإجراء عمليات تحويل الصور ذات القناع الناعم.
 
 ```csharp
 public enum ConvertSoftMaskAction
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Default | `0` | استخدم الاستراتيجية الافتراضية. |
-| ConvertToStencilMask | `1` | سيتم تحويل القناع الناعم إلى قناع قالب. |
+| ConvertToStencilMask | `1` | سيتم تحويل القناع الناعم إلى القناع القالب. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

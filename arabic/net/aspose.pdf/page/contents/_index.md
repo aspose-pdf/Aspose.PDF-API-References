@@ -1,14 +1,14 @@
 ---
-title: Page.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على مجموعة من العوامل في تدفق محتوى الصفحة. OperatorCollection
+title: "Page.Contents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. يحصل على مجموعة من المشغلات في تدفق محتوى الصفحة. OperatorCollection"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/page/contents/
 ---
-## خاصية محتويات الصفحة
+## Page.Contents property
 
-تحصل على مجموعة من العوامل في تدفق محتوى الصفحة. [`OperatorCollection`](../../operatorcollection/)
+يحصل على مجموعة من المشغلات في تدفق محتوى الصفحة. [`OperatorCollection`](../../operatorcollection/)
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -16,7 +16,7 @@ public OperatorCollection Contents { get; }
 
 ## أمثلة
 
-المثال يوضح كيفية مسح تدفق العوامل للصفحة.
+المثال يوضح كيفية مسح تدفق المشغلات للصفحة.
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -33,3 +33,5 @@ foreach(Operator op in contents)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: EI.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EI. تقبل كائن الزائر لمعالجة المشغل
+title: "EI.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "EI طريقة. يقبل كائن الزائر لمعالجة المشغل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/ei/accept/
 ---
 ## EI.Accept method
 
-تقبل كائن الزائر لمعالجة المشغل.
+يقبل كائن الزائر لمعالجة العامل.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| visitor | IOperatorSelector | كائن الزائر. |
+| زائر | IOperatorSelector | كائن Visitor. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * class [EI](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

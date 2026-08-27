@@ -1,14 +1,14 @@
 ---
-title: Class Fill
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.Fill. فئة تمثل عامل f لتعبئة المسار بقانون عدد الالتفاف غير الصفري
+title: "الفئة Fill"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.Fill. الفئة التي تمثل عامل f لملء المسار وفق قاعدة عدد اللف غير الصفري"
 type: docs
-weight: 7370
+weight: 7510
 url: /ar/net/aspose.pdf.operators/fill/
 ---
-## فئة التعبئة
+## Fill class
 
-فئة تمثل عامل f (تعبئة المسار بقانون عدد الالتفاف غير الصفري).
+الفئة التي تمثل المشغل f (ملء المسار باستخدام قاعدة عدد اللف غير الصفري).
 
 ```csharp
 public class Fill : Operator
@@ -18,7 +18,7 @@ public class Fill : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [Fill](fill/)() | يقوم بتهيئة عامل f جديد. |
+| [Fill](fill/)() | يُهيئ عامل f جديد. |
 
 ## الخصائص
 
@@ -31,11 +31,13 @@ public class Fill : Operator
 | الاسم | الوصف |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
-| override [ToString](../../aspose.pdf.operators/fill/tostring/)() | يعيد تمثيل نصي للعامل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [ToString](../../aspose.pdf.operators/fill/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

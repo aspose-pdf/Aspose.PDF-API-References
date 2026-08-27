@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.RasterizeFormulas
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TeXLoadOptions. تحصل/تضبط علامة تسمح بتحويل الصيغ الرياضية إلى صورة نقطية
+title: "TeXLoadOptions.RasterizeFormulas"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TeXLoadOptions. يحصل/يضبط علامة تسمح بتحويل صيغ الرياضيات إلى صورة نقطية"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/texloadoptions/rasterizeformulas/
 ---
-## خاصية TeXLoadOptions.RasterizeFormulas
+## TeXLoadOptions.RasterizeFormulas property
 
-تحصل/تضبط علامة تسمح بتحويل الصيغ الرياضية إلى صورة نقطية.
+يحصل/يضبط علمًا يسمح بتحويل صيغ الرياضيات إلى نقطية.
 
 ```csharp
 public bool RasterizeFormulas { get; set; }
@@ -19,3 +19,5 @@ public bool RasterizeFormulas { get; set; }
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

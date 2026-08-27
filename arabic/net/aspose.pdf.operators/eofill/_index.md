@@ -1,41 +1,43 @@
 ---
-title: Class EOFill
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.EOFill. فئة تمثل عملية ملء المسار باستخدام قاعدة الزوج والفرد
+title: "الفئة EOFill"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.EOFill. الفئة التي تمثل عامل f لملء المسار باستخدام قاعدة evenodd"
 type: docs
-weight: 7320
+weight: 7460
 url: /ar/net/aspose.pdf.operators/eofill/
 ---
 ## EOFill class
 
-فئة تمثل عملية f* (ملء المسار باستخدام قاعدة الزوج والفرد).
+الفئة التي تمثل المشغل f* (ملء المسار باستخدام قاعدة الزوجي-الفردي).
 
 ```csharp
 public class EOFill : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [EOFill](eofill/)() | Initializes operator. |
+| [EOFill](eofill/)() | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العملية في قائمة عمليات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eofill/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العملية. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص العملية ومعلماتها. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/eofill/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

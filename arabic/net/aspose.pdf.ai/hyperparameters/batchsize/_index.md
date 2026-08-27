@@ -1,14 +1,14 @@
 ---
-title: Hyperparameters.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المعلمات الفائقة. تحصل أو تعين عدد الأمثلة في كل دفعة
+title: "Hyperparameters.BatchSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Hyperparameters. تحديد أو الحصول على عدد الأمثلة في كل دفعة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/hyperparameters/batchsize/
 ---
-## خاصية Hyperparameters.BatchSize
+## Hyperparameters.BatchSize property
 
-تحصل أو تعين عدد الأمثلة في كل دفعة.
+يحصل أو يضبط عدد الأمثلة في كل دفعة.
 
 ```csharp
 public string BatchSize { get; set; }
@@ -19,3 +19,5 @@ public string BatchSize { get; set; }
 * class [Hyperparameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageInfo. استنساخ معلومات الصفحة
+title: "PageInfo.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageInfo. استنساخ معلومات الصفحة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/pageinfo/clone/
 ---
-## طريقة PageInfo.Clone
+## PageInfo.Clone method
 
 استنساخ معلومات الصفحة.
 
@@ -23,3 +23,5 @@ public object Clone()
 * class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

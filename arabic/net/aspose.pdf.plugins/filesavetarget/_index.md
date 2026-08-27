@@ -1,34 +1,36 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FileSaveTarget. تمثل هدف حفظ الملف لملحق
+title: "الفئة FileSaveTarget"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.FileSaveTarget. تمثّل هدف حفظ الملف لملحق"
 type: docs
-weight: 8570
+weight: 8700
 url: /ar/net/aspose.pdf.plugins/filesavetarget/
 ---
 ## FileSaveTarget class
 
-تمثل هدف حفظ الملف لملحق.
+يمثل هدف حفظ الملف لـ plugin.
 
 ```csharp
 public class FileSaveTarget : ISaveTarget
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileSaveTarget](filesavetarget/)(string) | يقوم بتهيئة هدف حفظ ملف جديد مع المسار المحدد. |
+| [FileSaveTarget](filesavetarget/)(string) | يُنشئ هدف حفظ ملف جديد بالمسار المحدد. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | يحصل على المسار إلى ملف هدف الحفظ الحالي. |
 | [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | نوع هدف الحفظ (ملف). |
 
-### See Also
+### انظر أيضًا
 
 * interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImageUrl.ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ImageUrl. المُنشئ الافتراضي
+title: "ImageUrl.ImageUrl"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ImageUrl. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/imageurl/imageurl/
 ---
-## مُنشئ ImageUrl
+## ImageUrl constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ImageUrl()
@@ -19,3 +19,5 @@ public ImageUrl()
 * class [ImageUrl](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

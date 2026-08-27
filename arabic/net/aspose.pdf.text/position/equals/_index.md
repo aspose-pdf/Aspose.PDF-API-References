@@ -1,29 +1,31 @@
 ---
-title: Position.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Position. تحدد ما إذا كان الكائن المحدد يساوي كائن Position الحالي
+title: "Position.Equals"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Position. تحدد ما إذا كان الكائن المحدد مساويًا لكائن Position الحالي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/position/equals/
 ---
-## طريقة Position.Equals
+## Position.Equals method
 
-تحدد ما إذا كان الكائن المحدد يساوي كائن [`Position`](../) الحالي.
+تحدد ما إذا كان الكائن المحدد مساويًا للكائن [`Position`](../) الحالي.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| obj | كائن | الكائن الذي يتم التحقق من المساواة له. |
+| obj | كائن | الكائن الذي يتم فحصه للمساواة. |
 
 ### قيمة الإرجاع
 
-صحيح في حالة كون الكائنات متساوية.
+صحيح في حالة تساوي الكائنات.
 
 ### انظر أيضًا
 
-* الفئة [Position](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

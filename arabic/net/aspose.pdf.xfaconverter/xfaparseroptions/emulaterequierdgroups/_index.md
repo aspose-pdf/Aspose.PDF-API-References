@@ -1,14 +1,14 @@
 ---
-title: XfaParserOptions.EmulateRequierdGroups
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XfaParserOptions. إذا كانت هذه الخاصية صحيحة، فسيتم رسم مستطيلات حمراء إضافية للمجموعات المطلوبة "المستبعدة" في Xfa. تم تقديم هذه الخاصية بسبب عدم وجود نظائر للمجموعات المستبعدة أثناء تحويل تمثيل Xfa للنماذج إلى المعيار. وهي خاطئة بشكل افتراضي.
+title: "XfaParserOptions.EmulateRequierdGroups"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XfaParserOptions. إذا كانت هذه الخاصية true فسيتم رسم مستطيلات حمراء إضافية للمجموعات المستبعدة المطلوبة في Xfa. تم تقديم هذه الخاصية بسبب غياب نظائر المجموعات المستبعدة أثناء تحويل تمثيل نماذج Xfa إلى المعيار. القيمة الافتراضية هي false."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/
 ---
-## خاصية XfaParserOptions.EmulateRequierdGroups
+## XfaParserOptions.EmulateRequierdGroups property
 
-إذا كانت هذه الخاصية صحيحة، فسيتم رسم مستطيلات حمراء إضافية للمجموعات المطلوبة "المستبعدة" في Xfa. تم تقديم هذه الخاصية بسبب عدم وجود نظائر للمجموعات المستبعدة أثناء تحويل تمثيل Xfa للنماذج إلى المعيار. وهي خاطئة بشكل افتراضي.
+If this property is true then additional red rectangles will be drawn for required Xfa "excluded groups" This property was introduced because absences of analogues of excluded groups during conversion Xfa representation of forms to standard. It is false by default.
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }
@@ -19,3 +19,5 @@ public bool EmulateRequierdGroups { get; set; }
 * class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

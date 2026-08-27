@@ -1,14 +1,14 @@
 ---
-title: Enum Artifact.ArtifactType
-second_title: Aspose.PDF for .NET API Reference
-description: نوع الأثر Aspose.Pdf.ArtifactArtifactType. تعداد أنواع الآثار الممكنة
+title: "التعداد Artifact.ArtifactType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.ArtifactArtifactType. تعداد لأنواع القطع الفنية الممكنة"
 type: docs
-weight: 2790
+weight: 2890
 url: /ar/net/aspose.pdf/artifact.artifacttype/
 ---
-## Enumeration Artifact.ArtifactType
+## Artifact.ArtifactType enumeration
 
-تعداد أنواع الأرتيفكت الممكنة.
+تعداد لأنواع القطع الفنية الممكنة.
 
 ```csharp
 public enum ArtifactType
@@ -18,14 +18,16 @@ public enum ArtifactType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Pagination | `0` | أرتيفكتات الترقيم. ميزات الصفحة المساعدة مثل رؤوس الصفحات وأرقام الصفحات. |
-| Layout | `1` | أرتيفكتات التخطيط. عناصر تصميم أو طباعة تجميلية بحتة مثل قواعد الحواشي أو الشاشات الخلفية. |
-| Page | `2` | أرتيفكتات الصفحة. أدوات الإنتاج الزائدة عن الوثيقة نفسها، مثل علامات القطع وأشرطة الألوان. |
-| Background | `3` | أرتيفكتات الخلفية. صور، أنماط أو كتل ملونة. |
-| Undefined | `4` | نوع الأرتيفكت غير معرف أو غير معروف. |
+| Pagination | `0` | قطع فنية للترقيم. ميزات صفحة مساعدة مثل رؤوس الصفحات المتتابعة والفوليو (أرقام الصفحات). |
+| Layout | `1` | قطع فنية للتصميم. عناصر نمطية أو تصميمية تجميلية بحتة مثل قواعد الحواشي أو شاشات الخلفية. |
+| Page | `2` | قطع فنية للصفحة. مساعدات إنتاجية غير مرتبطة بالمستند نفسه، مثل علامات القطع وأشرطة اللون. |
+| Background | `3` | ملفات خلفية. صور، أنماط أو كتل ملونة. |
+| Undefined | `4` | نوع العنصر غير معرف أو غير معروف. |
 
 ### انظر أيضًا
 
 * class [Artifact](../artifact/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

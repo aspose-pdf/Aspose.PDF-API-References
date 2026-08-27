@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TextDecorationThickness
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية TextDecorationThickness مالك خاصية التخطيط
+title: "AttributeKey.TextDecorationThickness"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة TextDecorationThickness سمة Layout المالك"
 type: docs
 weight: 360
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/textdecorationthickness/
 ---
-## حقل AttributeKey.TextDecorationThickness
+## AttributeKey.TextDecorationThickness field
 
-خاصية TextDecorationThickness (مالك خاصية التخطيط).
+خاصية TextDecorationThickness (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey TextDecorationThickness;
@@ -19,3 +19,5 @@ public static readonly AttributeKey TextDecorationThickness;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

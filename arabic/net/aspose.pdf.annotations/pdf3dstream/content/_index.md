@@ -1,20 +1,20 @@
 ---
-title: PDF3DStream.Content
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DStream. تحصل أو تعين المحتوى
+title: "PDF3DStream.Content"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DStream. تحصل أو تعيين المحتوى"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pdf3dstream/content/
 ---
-## خاصية PDF3DStream.Content
+## PDF3DStream.Content property
 
-تحصل أو تعين المحتوى.
+يحصل أو يعيّن المحتوى.
 
 ```csharp
 public PDF3DContent Content { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 المحتوى.
 
@@ -24,3 +24,5 @@ public PDF3DContent Content { get; set; }
 * class [PDF3DStream](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

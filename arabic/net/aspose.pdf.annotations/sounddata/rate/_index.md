@@ -1,14 +1,14 @@
 ---
-title: SoundData.Rate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundData. تحصل أو تعين معدل العينة بالعينات في الثانية
+title: "SoundData.Rate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundData. تحصل أو تعيّن معدل العينة بالعينات في الثانية"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/sounddata/rate/
 ---
-## خاصية SoundData.Rate
+## SoundData.Rate property
 
-تحصل أو تعين معدل العينة، بالعينات في الثانية.
+يحصل أو يضبط معدل العينة، بالعينات في الثانية.
 
 ```csharp
 public int Rate { get; set; }
@@ -19,3 +19,5 @@ public int Rate { get; set; }
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

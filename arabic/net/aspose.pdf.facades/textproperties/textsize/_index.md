@@ -1,14 +1,14 @@
 ---
-title: TextProperties.TextSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextProperties. تحصل أو تعين حجم النص
+title: "TextProperties.TextSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextProperties. تحصل أو تعين حجم النص"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/textproperties/textsize/
 ---
-## خاصية TextProperties.TextSize
+## TextProperties.TextSize property
 
-تحصل أو تعين حجم النص.
+يحصل أو يضبط حجم النص.
 
 ```csharp
 public double TextSize { get; set; }
@@ -19,3 +19,5 @@ public double TextSize { get; set; }
 * class [TextProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

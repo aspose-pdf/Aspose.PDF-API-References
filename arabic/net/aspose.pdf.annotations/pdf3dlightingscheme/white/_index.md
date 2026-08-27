@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.White
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DLightingScheme. نظام الإضاءة الأبيض
+title: "PDF3DLightingScheme.White"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DLightingScheme. مخطط الإضاءة الأبيض"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.annotations/pdf3dlightingscheme/white/
 ---
-## حقل PDF3DLightingScheme.White
+## PDF3DLightingScheme.White field
 
-نظام الإضاءة "الأبيض".
+مخطط الإضاءة "أبيض".
 
 ```csharp
 public static PDF3DLightingScheme White;
@@ -19,3 +19,5 @@ public static PDF3DLightingScheme White;
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

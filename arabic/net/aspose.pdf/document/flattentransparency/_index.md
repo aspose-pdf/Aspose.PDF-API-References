@@ -1,21 +1,23 @@
 ---
-title: Document.FlattenTransparency
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تستبدل المحتوى الشفاف برسومات نقطية وبيانية غير شفافة
+title: "Document.FlattenTransparency"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Document method. يستبدل المحتوى الشفاف برسومات نقطية ومتجهة غير شفافة"
 type: docs
-weight: 650
+weight: 670
 url: /ar/net/aspose.pdf/document/flattentransparency/
 ---
 ## Document.FlattenTransparency method
 
-تستبدل المحتوى الشفاف برسومات نقطية وبيانية غير شفافة.
+استبدال المحتوى الشفاف برسومات نقطية ومتجهة غير شفافة.
 
 ```csharp
 public void FlattenTransparency()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

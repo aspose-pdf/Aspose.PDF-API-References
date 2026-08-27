@@ -1,14 +1,14 @@
 ---
-title: StartEndPageEventArgs.TotalCopies
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StartEndPageEventArgs. يحصل على العدد الإجمالي للنسخ المراد طباعتها
+title: "StartEndPageEventArgs.TotalCopies"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StartEndPageEventArgs حقل. يحصل على العدد الإجمالي للنسخ التي سيتم طباعتها"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.printing/startendpageeventargs/totalcopies/
 ---
-## حقل StartEndPageEventArgs.TotalCopies
+## StartEndPageEventArgs.TotalCopies field
 
-يحصل على العدد الإجمالي للنسخ المراد طباعتها.
+يحصل على العدد الإجمالي للنسخ التي سيتم طباعتها.
 
 ```csharp
 public readonly int TotalCopies;
@@ -19,3 +19,5 @@ public readonly int TotalCopies;
 * class [StartEndPageEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,27 @@
 ---
-title: OperatorCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تُدرج المشغل في المجموعة
+title: "OperatorCollection.Insert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تُدرج عاملًا في المجموعة."
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/operatorcollection/insert/
 ---
 ## Insert(int, Operator) {#insert}
 
-تُدرج المشغل في المجموعة.
+يدرج المشغّل في المجموعة.
 
 ```csharp
 public override void Insert(int index, Operator op)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | الفهرس الذي يجب إضافة المشغل الجديد فيه |
-| op | Operator | المشغل الذي سيتم إدراجه |
+| index | Int32 | المؤشر حيث يجب إضافة العامل الجديد. |
+| op | Operator | العامل الذي سيتم إدراجه. |
 
-## Examples
+## أمثلة
 
-توضح هذه المثال كيفية إدراج مشغل في محتويات الصفحة.
+مثال يوضح كيفية إدراج عامل إلى محتويات الصفحة.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -30,7 +30,7 @@ oc.Insert(1, new Aspose.Pdf.Operators.q());
 oc.Add(new Aspose.Pdf.Operators.Q());
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
@@ -41,20 +41,20 @@ oc.Add(new Aspose.Pdf.Operators.Q());
 
 ## Insert(int, Operator[]) {#insert_1}
 
-إدراج المشغلين في الموضع المحدد.
+إدراج المشغّلات في الموضع المحدد.
 
 ```csharp
 public void Insert(int at, Operator[] ops)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| at | Int32 | الفهرس الذي يبدأ منه إدراج المشغلين. |
-| ops | Operator[] | مصفوفة من المشغلين الذين سيتم إدراجهم. يمكن أن يكون لكل مشغل أي فهرس (بشكل افتراضي -1) لأن فهارسهم تتكيف تلقائيًا بدءًا من *at*. |
+| at | Int32 | المؤشر الذي تبدأ منه عملية إدراج العوامل. |
+| ops | Operator[] | مصفوفة من العوامل التي سيتم إدراجها. يمكن لكل عامل أن يكون له أي فهرس (افتراضيًا -1) لأن فهارسهم تُضبط تلقائيًا بدءًا من *at*. |
 
-## Examples
+## أمثلة
 
-توضح هذه المثال كيفية إدراج مشغل في محتويات الصفحة.
+مثال يوضح كيفية إدراج عامل إلى محتويات الصفحة.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -62,7 +62,7 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q() } );
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
@@ -73,20 +73,20 @@ oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Opera
 
 ## Insert(int, IList&lt;Operator&gt;) {#insert_2}
 
-إدراج المشغلين في الموضع المحدد.
+إدراج المشغّلات في الموضع المحدد.
 
 ```csharp
 public void Insert(int at, IList<Operator> ops)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| at | Int32 | الفهرس الذي يبدأ منه إدراج المشغلين. |
-| ops | IList`1 | مصفوفة من المشغلين الذين سيتم إدراجهم. |
+| at | Int32 | المؤشر الذي تبدأ منه عملية إدراج العوامل. |
+| ops | IList`1 | مصفوفة من العوامل التي سيتم إدراجها. |
 
-## Examples
+## أمثلة
 
-توضح هذه المثال كيفية إدراج المشغلين في محتويات الصفحة.
+مثال يوضح كيفية إدراج العوامل إلى محتويات الصفحة.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -97,9 +97,11 @@ opList.Add(new Operators.Q());
 oc.Insert(1, opList);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

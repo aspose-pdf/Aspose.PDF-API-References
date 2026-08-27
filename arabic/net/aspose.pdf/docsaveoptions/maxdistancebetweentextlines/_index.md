@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.MaxDistanceBetweenTextLines
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. يتم استخدام هذا المعامل لتجميع خطوط النص في فقرات. يحدد مدى بُعد خطي نص نسبيين عن بعضهما. محدد بمئات النسب المئوية لارتفاع خطوط النص
+title: "DocSaveOptions.MaxDistanceBetweenTextLines"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. يُستخدم هذا المعامل لتجميع أسطر النص في فقرات. يحدد المسافة التي يمكن أن تكون بين سطرين نصيين نسبيًا. يُحدد بالمئات من نسبة ارتفاع أسطر النص"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/docsaveoptions/maxdistancebetweentextlines/
 ---
-## خاصية DocSaveOptions.MaxDistanceBetweenTextLines
+## DocSaveOptions.MaxDistanceBetweenTextLines property
 
-يتم استخدام هذا المعامل لتجميع خطوط النص في فقرات. يحدد مدى بُعد خطي نص نسبيين عن بعضهما. محدد بمئات النسب المئوية لارتفاع خطوط النص.
+يُستخدم هذا المعامل لتجميع أسطر النص في فقرات. يحدّد المسافة التي يمكن أن تكون بين سطرين نصيين نسبيين. يُحدّد بالمئات من نسبة ارتفاع أسطر النص.
 
 ```csharp
 public float MaxDistanceBetweenTextLines { get; set; }
@@ -19,3 +19,5 @@ public float MaxDistanceBetweenTextLines { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: EmbeddedFileCollection.FindByName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EmbeddedFileCollection. تعيد الملف المضمن حسب اسمه
+title: "EmbeddedFileCollection.FindByName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EmbeddedFileCollection. إرجاع الملف المضمّن حسب اسمه"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/embeddedfilecollection/findbyname/
 ---
-## طريقة EmbeddedFileCollection.FindByName
+## EmbeddedFileCollection.FindByName method
 
-تعيد الملف المضمن حسب اسمه.
+يعيد الملف المضمن حسب اسمه.
 
 ```csharp
 public FileSpecification FindByName(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الملف. |
+| الاسم | String | اسم الملف. |
 
 ### قيمة الإرجاع
 
-كائن مواصفات الملف إذا تم العثور عليه؛ خلاف ذلك، null.
+كائن مواصفات الملف إذا تم العثور عليه؛ وإلا، null.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public FileSpecification FindByName(string name)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

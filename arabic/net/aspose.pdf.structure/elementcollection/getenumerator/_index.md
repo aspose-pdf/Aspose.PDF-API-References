@@ -1,14 +1,14 @@
 ---
-title: ElementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ElementCollection. تُرجع عدادًا يتكرر عبر المجموعة
+title: "ElementCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ElementCollection. تُرجع مُعدِّدًا يتنقل عبر المجموعة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.structure/elementcollection/getenumerator/
 ---
-## طريقة ElementCollection.GetEnumerator
+## ElementCollection.GetEnumerator method
 
-تُرجع عدادًا يتكرر عبر المجموعة.
+يرجع عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<Element> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<Element> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد العناصر.
+مُعدِّد العناصر.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<Element> GetEnumerator()
 * class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

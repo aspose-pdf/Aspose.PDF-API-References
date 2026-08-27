@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay_Right
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تضبط الإحداثي الأيمن لعرض الصفحة
+title: "Bookmark.PageDisplay_Right"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. تحصل أو تعيين الإحداثي الأيمن لعرض الصفحة"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.facades/bookmark/pagedisplay_right/
 ---
-## خاصية Bookmark.PageDisplay_Right
+## Bookmark.PageDisplay_Right property
 
-تحصل أو تضبط الإحداثي الأيمن لعرض الصفحة.
+يحصل أو يعيّن الإحداثي الأيمن لعرض الصفحة.
 
 ```csharp
 public int PageDisplay_Right { get; set; }
@@ -19,3 +19,5 @@ public int PageDisplay_Right { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

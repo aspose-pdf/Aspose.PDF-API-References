@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.Choices
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionResponse. تحصل أو تعين قائمة من خيارات إكمال الدردشة. يمكن أن تكون أكثر من واحدة إذا كانت n أكبر من 1
+title: "LlamaChatCompletionResponse.Choices"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionResponse. تحصل أو تعيّن قائمة باختيارات إكمال الدردشة. يمكن أن تكون أكثر من واحدة إذا كان n أكبر من 1"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/llamachatcompletionresponse/choices/
 ---
-## خاصية LlamaChatCompletionResponse.Choices
+## LlamaChatCompletionResponse.Choices property
 
-تحصل أو تعين قائمة من خيارات إكمال الدردشة. يمكن أن تكون أكثر من واحدة إذا كانت n أكبر من 1.
+يحصل أو يضبط قائمة بخيارات إكمال الدردشة. يمكن أن تكون أكثر من واحدة إذا كان n أكبر من 1.
 
 ```csharp
 public List<Choice> Choices { get; set; }
@@ -20,3 +20,5 @@ public List<Choice> Choices { get; set; }
 * class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

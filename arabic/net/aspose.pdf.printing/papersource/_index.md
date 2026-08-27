@@ -1,41 +1,43 @@
 ---
-title: Class PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Printing.PaperSource. تحدد درج الورق الذي يحصل منه الطابعة على الورق
+title: "الفئة PaperSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Printing.PaperSource. تحدد صينية الورق التي يحصل منها الطابعة على الورق"
 type: docs
-weight: 9600
+weight: 9750
 url: /ar/net/aspose.pdf.printing/papersource/
 ---
 ## PaperSource class
 
-تحدد درج الورق الذي يحصل منه الطابعة على الورق.
+يحدد صينية الورق التي يحصل منها الطابعة على الورق
 
 ```csharp
 public sealed class PaperSource
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PaperSource](papersource/#constructor)() | Initializes a new instance of the `PaperSource` class with default properties. |
-| [PaperSource](papersource/#constructor_1)(PaperSourceKind, string) | Initializes a new instance of the `PaperSource` class with the specified kind and name. |
+| [PaperSource](papersource/#constructor)() | يُهيئ مثيلاً جديداً من الفئة `PaperSource` بالخصائص الافتراضية. |
+| [PaperSource](papersource/#constructor_1)(PaperSourceKind, string) | يُهيئ مثيلاً جديداً من الفئة `PaperSource` بالنوع والاسم المحددين. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Kind](../../aspose.pdf.printing/papersource/kind/) { get; set; } | يحصل أو يحدد قيمة تشير إلى نوع مصدر الورق. |
-| [RawKind](../../aspose.pdf.printing/papersource/rawkind/) { get; set; } | نفس [`Kind`](./kind/)، ولكن القيم الأكبر من DMBIN_USER لا تتطابق مع Custom. |
-| [SourceName](../../aspose.pdf.printing/papersource/sourcename/) { get; set; } | يحصل أو يحدد اسم مصدر الورق. |
+| [Kind](../../aspose.pdf.printing/papersource/kind/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى نوع مصدر الورق. |
+| [RawKind](../../aspose.pdf.printing/papersource/rawkind/) { get; set; } | نفس ما هو في [`Kind`](./kind/)، لكن القيم الأكبر من DMBIN_USER لا تُطابق إلى Custom. |
+| [SourceName](../../aspose.pdf.printing/papersource/sourcename/) { get; set; } | يحصل أو يعيّن اسم مصدر الورق. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/papersource/tostring/)() | يوفر بعض المعلومات المثيرة للاهتمام حول PaperSource في شكل سلسلة. |
+| override [ToString](../../aspose.pdf.printing/papersource/tostring/)() | توفر بعض المعلومات المثيرة حول PaperSource بصيغة سلسلة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

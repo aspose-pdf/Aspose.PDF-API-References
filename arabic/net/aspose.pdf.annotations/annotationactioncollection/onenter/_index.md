@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnEnter
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يجب تنفيذه عندما يدخل المؤشر منطقة التفاعل الخاصة بالتعليقات التوضيحية
+title: "AnnotationActionCollection.OnEnter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء الذي يتم تنفيذه عندما يدخل المؤشر إلى المنطقة النشطة للتعليقات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onenter/
 ---
-## خاصية AnnotationActionCollection.OnEnter
+## AnnotationActionCollection.OnEnter property
 
-تحصل أو تعين إجراءً يجب تنفيذه عندما يدخل المؤشر منطقة التفاعل الخاصة بالتعليقات التوضيحية.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما يدخل المؤشر منطقة النشاط للتعليق.
 
 ```csharp
 public PdfAction OnEnter { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnEnter { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

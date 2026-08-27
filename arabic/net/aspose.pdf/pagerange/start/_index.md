@@ -1,14 +1,14 @@
 ---
-title: PageRange.Start
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageRange. تحصل على أو تعين رقم الصفحة الابتدائية
+title: "PageRange.Start"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageRange. تحصل أو تعين رقم الصفحة البداية"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/pagerange/start/
 ---
-## خاصية PageRange.Start
+## PageRange.Start property
 
-تحصل على أو تعين رقم الصفحة الابتدائية.
+يحصل أو يعيّن رقم الصفحة الأولى.
 
 ```csharp
 public int Start { get; set; }
@@ -19,3 +19,5 @@ public int Start { get; set; }
 * class [PageRange](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

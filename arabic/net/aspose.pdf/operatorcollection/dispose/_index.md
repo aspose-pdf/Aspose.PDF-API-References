@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تقوم بتنفيذ المهام المحددة بواسطة التطبيق المرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة
+title: "OperatorCollection.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تُجري مهامًا محددة من التطبيق مرتبطة بتحرير أو إطلاق أو إعادة ضبط الموارد غير المُدارة."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/operatorcollection/dispose/
 ---
-## طريقة OperatorCollection.Dispose
+## OperatorCollection.Dispose method
 
-تقوم بتنفيذ المهام المحددة بواسطة التطبيق المرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة.
+ينفذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة.
 
 ```csharp
 public void Dispose()
@@ -19,3 +19,5 @@ public void Dispose()
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DateComponent.DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DateComponent. المُنشئ الافتراضي
+title: "DateComponent.DateComponent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DateComponent. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/datecomponent/datecomponent/
 ---
-## مُنشئ DateComponent
+## DateComponent constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public DateComponent()
@@ -19,3 +19,5 @@ public DateComponent()
 * class [DateComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

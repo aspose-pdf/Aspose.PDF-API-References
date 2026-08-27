@@ -1,24 +1,24 @@
 ---
-title: PdfPageEditor.Save
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfPageEditor. تحفظ المستند المعدل في ملف
+title: "PdfPageEditor.Save"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfPageEditor. تحفظ المستند المعدل إلى ملف"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/save/
 ---
 ## Save(string) {#save_1}
 
-تحفظ المستند المعدل في ملف.
+يحفظ المستند المعدل إلى ملف.
 
 ```csharp
 public override void Save(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | المسار إلى الملف الذي سيتم حفظ المستند فيه. |
+| outputFile | String | المسار إلى الملف حيث سيتم حفظ المستند. |
 
-## Examples
+## أمثلة
 
 العينة التالية توضح كيفية حفظ مستند PDF المعدل
 
@@ -29,7 +29,7 @@ editor.Zoom = 0.5f;
 editor.Save("newdocument.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -39,19 +39,19 @@ editor.Save("newdocument.pdf");
 
 ## Save(Stream) {#save}
 
-تحفظ المستند المعدل في دفق.
+يحفظ المستند المعدل إلى تدفق.
 
 ```csharp
 public override void Save(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق الذي سيتم حفظ مستند PDF المعدل فيه. |
+| outputStream | Stream | الدفق حيث سيتم حفظ مستند PDF المعدل. |
 
-## Examples
+## أمثلة
 
-العينة التالية توضح كيفية حفظ مستند PDF المعدل في دفق.
+العينة التالية توضح كيفية حفظ مستند PDF المعدل في الدفق.
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -60,8 +60,10 @@ editor.Zoom = 0.5f;
 editor.Save("newdocument.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextDevice.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextDevice. تحصل أو تعين ترميز النص المستخرج
+title: "TextDevice.Encoding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextDevice. تحصل أو تعين ترميز النص المستخرج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.devices/textdevice/encoding/
 ---
-## خاصية TextDevice.Encoding
+## TextDevice.Encoding property
 
-تحصل أو تعين ترميز النص المستخرج.
+يحصل أو يضبط ترميز النص المستخرج.
 
 ```csharp
 public Encoding Encoding { get; set; }
@@ -16,19 +16,19 @@ public Encoding Encoding { get; set; }
 
 ## أمثلة
 
-توضح المثال كيفية تمثيل النص المستخرج في ترميز UTF-8.
+يوضح المثال كيفية تمثيل النص المستخرج بترميز UTF-8.
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// إنشاء جهاز نصي
 TextDevice device = new TextDevice(Encoding.UTF8);
 
-// convert the page and save text to the stream
+// تحويل الصفحة وحفظ النص إلى الدفق
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// استخدام النص المستخرج
 extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 ```
 
@@ -37,3 +37,5 @@ extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TableCellElement.IsNoBorder
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableCellElement. تحصل أو تعين الخلية التي تحتوي على حدود
+title: "TableCellElement.IsNoBorder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableCellElement. يحصل أو يضبط ما إذا كانت الخلية لها حد"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.logicalstructure/tablecellelement/isnoborder/
 ---
 ## TableCellElement.IsNoBorder property
 
-تحصل أو تعين الخلية التي تحتوي على حدود.
+يحصل أو يحدد ما إذا كانت الخلية لها حد.
 
 ```csharp
 public bool IsNoBorder { get; set; }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

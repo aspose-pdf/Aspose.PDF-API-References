@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AssistantResponse. تحصل أو تعين نوع الكائن الذي يكون دائمًا مساعد
+title: "AssistantResponse.Object"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AssistantResponse. تحصل أو تعين نوع الكائن الذي يكون دائمًا assistant."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/assistantresponse/object/
 ---
-## خاصية AssistantResponse.Object
+## AssistantResponse.Object property
 
-تحصل أو تعين نوع الكائن، الذي يكون دائمًا مساعد.
+يحصل أو يعيّن نوع الكائن، والذي يكون دائماً assistant.
 
 ```csharp
 public string Object { get; set; }
@@ -19,3 +19,5 @@ public string Object { get; set; }
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

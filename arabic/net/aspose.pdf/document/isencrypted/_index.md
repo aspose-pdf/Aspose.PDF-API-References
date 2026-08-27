@@ -1,14 +1,14 @@
 ---
-title: Document.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على حالة تشفير الوثيقة. صحيح إذا كانت الوثيقة مشفرة
+title: "Document.IsEncrypted"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على حالة تشفير المستند. صحيح إذا كان المستند مشفرًا"
 type: docs
-weight: 290
+weight: 310
 url: /ar/net/aspose.pdf/document/isencrypted/
 ---
-## خاصية Document.IsEncrypted
+## Document.IsEncrypted property
 
-تحصل على حالة تشفير الوثيقة. صحيح إذا كانت الوثيقة مشفرة.
+يحصل على حالة التشفير للمستند. True إذا كان المستند مشفرًا.
 
 ```csharp
 public bool IsEncrypted { get; }
@@ -19,3 +19,5 @@ public bool IsEncrypted { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

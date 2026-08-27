@@ -1,22 +1,22 @@
 ---
-title: Field.Field
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الحقل. ينشئ حقلًا للاستخدام في المُولد
+title: "Field.Field"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Field. ينشئ حقل للاستخدام في Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/field/field/
 ---
-## مُنشئ الحقل
+## Field constructor
 
-ينشئ حقلًا للاستخدام في المُولد.
+ينشئ حقلًا للاستخدام في Generator.
 
 ```csharp
 public Field(Document doc)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Field(Document doc)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

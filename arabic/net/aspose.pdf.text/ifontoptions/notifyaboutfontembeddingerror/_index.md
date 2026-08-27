@@ -1,14 +1,14 @@
 ---
-title: IFontOptions.NotifyAboutFontEmbeddingError
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IFontOptions. أحيانًا لا يمكن تضمين الخط المطلوب في المستند. هناك العديد من الأسباب، على سبيل المثال قيود الترخيص أو عندما لا يتم العثور على الخط المطلوب على الكمبيوتر الوجهة. عندما تحدث هذه الحالة، ليس من السهل اكتشافها، لأن الخط المطلوب يتم تضمينه عبر مجموعة من علم الخاصية Font.IsEmbedded = true; بالطبع، من الممكن قراءة هذه الخاصية مباشرة بعد تعيينها، ولكنها ليست طريقة مريحة. علم NotifyAboutFontEmbeddingError يفرض آلية استثناء للحالات التي تفشل فيها محاولة تضمين الخط. إذا تم تعيين هذا العلم، سيتم طرح استثناء من نوع [`FontEmbeddingException`](../../../aspose.pdf/fontembeddingexception/). بشكل افتراضي false.
+title: "IFontOptions.NotifyAboutFontEmbeddingError"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IFontOptions. في بعض الأحيان لا يمكن تضمين الخط المطلوب في المستند. هناك العديد من الأسباب مثل قيود الترخيص أو عدم العثور على الخط المطلوب على جهاز الوجهة. عندما يحدث هذا الوضع لا يكون من السهل اكتشافه لأن الخط المطلوب يتم تضمينه عبر علم الخاصية Font.IsEmbedded = true. بالطبع يمكن قراءة هذه الخاصية فور تعيينها لكن ذلك ليس نهجًا مريحًا. علم NotifyAboutFontEmbeddingError يفرض آلية استثناء للحالات التي يفشل فيها محاولة تضمين الخط. إذا تم تعيين هذا العلم سيتم رمي استثناء من النوع FontEmbeddingException. القيمة الافتراضية false"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/
 ---
-## خاصية IFontOptions.NotifyAboutFontEmbeddingError
+## IFontOptions.NotifyAboutFontEmbeddingError property
 
-أحيانًا لا يمكن تضمين الخط المطلوب في المستند. هناك العديد من الأسباب، على سبيل المثال قيود الترخيص أو عندما لا يتم العثور على الخط المطلوب على الكمبيوتر الوجهة. عندما تحدث هذه الحالة، ليس من السهل اكتشافها، لأن الخط المطلوب يتم تضمينه عبر مجموعة من علم الخاصية Font.IsEmbedded = true; بالطبع، من الممكن قراءة هذه الخاصية مباشرة بعد تعيينها، ولكنها ليست طريقة مريحة. علم NotifyAboutFontEmbeddingError يفرض آلية استثناء للحالات التي تفشل فيها محاولة تضمين الخط. إذا تم تعيين هذا العلم، سيتم طرح استثناء من نوع [`FontEmbeddingException`](../../../aspose.pdf/fontembeddingexception/). بشكل افتراضي false.
+في بعض الأحيان لا يمكن تضمين الخط المطلوب في المستند. هناك العديد من الأسباب، مثل قيود الترخيص أو عدم العثور على الخط المطلوب على جهاز الوجهة. عندما يحدث هذا الوضع لا يكون من السهل اكتشافه، لأن الخط المطلوب يتم تضمينه عبر علم الخاصية Font.IsEmbedded = true؛ بالطبع يمكن قراءة هذه الخاصية فور تعيينها لكن ذلك ليس نهجًا مريحًا. علم NotifyAboutFontEmbeddingError يفرض آلية استثناء للحالات التي يفشل فيها محاولة تضمين الخط. إذا تم تعيين هذا العلم سيتم رمي استثناء من النوع [`FontEmbeddingException`](../../../aspose.pdf/fontembeddingexception/). القيمة الافتراضية false.
 
 ```csharp
 public bool NotifyAboutFontEmbeddingError { get; set; }
@@ -16,6 +16,8 @@ public bool NotifyAboutFontEmbeddingError { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [IFontOptions](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IFontOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

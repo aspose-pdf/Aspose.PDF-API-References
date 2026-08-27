@@ -1,14 +1,14 @@
 ---
-title: PageLabel.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageLabel. تحصل أو تعين نمط الترقيم
+title: "PageLabel.NumberingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PageLabel خاصية. يحصل أو يضبط نمط الترقيم"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pagelabel/numberingstyle/
 ---
-## خاصية PageLabel.NumberingStyle
+## PageLabel.NumberingStyle property
 
-تحصل أو تعين نمط الترقيم.
+يحصل أو يضبط نمط الترقيم.
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle NumberingStyle { get; set; }
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

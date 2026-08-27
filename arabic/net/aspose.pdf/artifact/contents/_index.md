@@ -1,14 +1,14 @@
 ---
-title: Artifact.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. تحصل على مجموعة من العمليات الداخلية للأرتيفكت
+title: "Artifact.Contents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. تحصل على مجموعة من المشغلات الداخلية للعنصر"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/artifact/contents/
 ---
-## خاصية Artifact.Contents
+## Artifact.Contents property
 
-تحصل على مجموعة من العمليات الداخلية للأرتيفكت.
+يحصل على مجموعة المشغلات الداخلية للقطعة.
 
 ```csharp
 public List<Operator> Contents { get; }
@@ -20,3 +20,5 @@ public List<Operator> Contents { get; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

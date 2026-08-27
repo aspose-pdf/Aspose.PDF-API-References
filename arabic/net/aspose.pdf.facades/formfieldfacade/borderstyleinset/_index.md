@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderStyleInset
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد نمط الحدود المدخلة
+title: "FormFieldFacade.BorderStyleInset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade حقل. يحدد نمط حد مضمّن"
 type: docs
 weight: 310
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderstyleinset/
 ---
 ## FormFieldFacade.BorderStyleInset field
 
-يحدد نمط الحدود المدخلة.
+يحدد نمط حد مدفون.
 
 ```csharp
 public const int BorderStyleInset;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

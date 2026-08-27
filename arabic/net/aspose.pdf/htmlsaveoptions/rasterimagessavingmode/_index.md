@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.RasterImagesSavingMode
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlSaveOptions. يمكن أن يحتوي PDF المحول على صور نقطية. يحدد هذا المعامل كيفية التعامل معها أثناء تحويل PDF إلى HTML
+title: "HtmlSaveOptions.RasterImagesSavingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlSaveOptions. يمكن أن يحتوي PDF المحول على صور نقطية. يحدد هذا المعامل كيفية التعامل معها أثناء تحويل PDF إلى HTML"
 type: docs
 weight: 400
 url: /ar/net/aspose.pdf/htmlsaveoptions/rasterimagessavingmode/
 ---
-## حقل HtmlSaveOptions.RasterImagesSavingMode
+## HtmlSaveOptions.RasterImagesSavingMode field
 
-يمكن أن يحتوي PDF المحول على صور نقطية. يحدد هذا المعامل كيفية التعامل معها أثناء تحويل PDF إلى HTML
+Converted PDF can contain raster images This parameter defines how they should be handled during conversion of PDF to HTML
 
 ```csharp
 public RasterImagesSavingModes RasterImagesSavingMode;
@@ -20,3 +20,5 @@ public RasterImagesSavingModes RasterImagesSavingMode;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

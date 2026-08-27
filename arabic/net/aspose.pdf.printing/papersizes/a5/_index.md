@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A5
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق A5 148 مم × 210 مم
+title: "PaperSizes.A5"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورقة A5 148 مم × 210 مم"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.printing/papersizes/a5/
 ---
-## حقل PaperSizes.A5
+## PaperSizes.A5 field
 
 ورق A5 (148 مم × 210 مم).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize A5;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

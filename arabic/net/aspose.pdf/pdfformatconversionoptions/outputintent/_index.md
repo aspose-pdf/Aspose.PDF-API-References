@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.OutputIntent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. تحصل أو تعين OutputIntent لتحويل تنسيق PDF
+title: "PdfFormatConversionOptions.OutputIntent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. تحصل أو تعين OutputIntent لتحويل تنسيق PDF"
 type: docs
-weight: 180
+weight: 190
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/outputintent/
 ---
-## خاصية PdfFormatConversionOptions.OutputIntent
+## PdfFormatConversionOptions.OutputIntent property
 
-تحصل أو تعين [`OutputIntent`](../../outputintent/) لتحويل تنسيق PDF.
+تحصل أو تعين الـ[`OutputIntent`](../../outputintent/) لتحويل تنسيق PDF.
 
 ```csharp
 public OutputIntent OutputIntent { get; set; }
@@ -16,7 +16,7 @@ public OutputIntent OutputIntent { get; set; }
 
 ## ملاحظات
 
-تحدد `OutputIntent` جهاز الإخراج المقصود أو الحالة التي يتم إعداد مستند PDF من أجلها. يتم استخدامه لضمان أن الألوان في المستند يتم عرضها بشكل صحيح على جهاز الهدف.
+يحدد الـ`OutputIntent` جهاز الإخراج المقصود أو الحالة التي يُجهّز من أجلها مستند PDF. يُستخدم لضمان أن الألوان في المستند تُعرض بشكل صحيح على الجهاز الهدف.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public OutputIntent OutputIntent { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

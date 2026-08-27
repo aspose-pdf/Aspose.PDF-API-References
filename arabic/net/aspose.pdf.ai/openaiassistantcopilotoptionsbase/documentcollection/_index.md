@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIAssistantCopilotOptionsBase. تحصل أو تعين مجموعة من الوثائق ليتم معالجتها
+title: "OpenAIAssistantCopilotOptionsBase.DocumentCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAIAssistantCopilotOptionsBase. تحصل أو تعين مجموعة المستندات التي سيتم معالجتها"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/
 ---
-## خاصية OpenAIAssistantCopilotOptionsBase.DocumentCollection
+## OpenAIAssistantCopilotOptionsBase.DocumentCollection property
 
-تحصل أو تعين مجموعة من الوثائق ليتم معالجتها.
+يحصل أو يضبط مجموعة المستندات التي سيتم معالجتها.
 
 ```csharp
 public DocumentCollection DocumentCollection { get; set; }
@@ -20,3 +20,5 @@ public DocumentCollection DocumentCollection { get; set; }
 * class [OpenAIAssistantCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

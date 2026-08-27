@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BarcodeField. تحصل على عنوان كائن الباركود
+title: "BarcodeField.Caption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BarcodeField. يحصل على التسمية التوضيحية لكائن الباركود"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/barcodefield/caption/
 ---
-## خاصية BarcodeField.Caption
+## BarcodeField.Caption property
 
-تحصل على عنوان كائن الباركود.
+يحصل على عنوان كائن الباركود.
 
 ```csharp
 public string Caption { get; }
@@ -19,3 +19,5 @@ public string Caption { get; }
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

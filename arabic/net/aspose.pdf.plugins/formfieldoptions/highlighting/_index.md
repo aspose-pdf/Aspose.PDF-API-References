@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldOptions. يحصل/يحدد القيمة لتحديد خاصية Highlighting للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.Highlighting"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldOptions. يحصل/يضبط القيمة لتحديد خاصية Highlighting للحقل المُنشأ/المعدل إذا سيتم ضبطه"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/highlighting/
 ---
-## حقل FormFieldOptions.Highlighting
+## FormFieldOptions.Highlighting field
 
-يحصل/يحدد القيمة لتحديد خاصية Highlighting للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية Highlighting للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public HighlightingMode? Highlighting;
@@ -20,3 +20,5 @@ public HighlightingMode? Highlighting;
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

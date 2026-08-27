@@ -1,14 +1,14 @@
 ---
-title: Class Usage
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.Usage. تمثل إحصائيات الاستخدام لطلب ما
+title: "الفئة Usage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.AI.Usage الفئة. تمثّل إحصائيات الاستخدام لطلب"
 type: docs
-weight: 1250
+weight: 1340
 url: /ar/net/aspose.pdf.ai/usage/
 ---
-## فئة الاستخدام
+## Usage class
 
-تمثل إحصائيات الاستخدام لطلب ما.
+يمثل إحصاءات الاستخدام لطلب.
 
 ```csharp
 public class Usage
@@ -18,17 +18,19 @@ public class Usage
 
 | الاسم | الوصف |
 | --- | --- |
-| [Usage](usage/)() | المنشئ الافتراضي. |
+| [Usage](usage/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | يحصل أو يحدد عدد الرموز في الإكمال الناتج. |
-| [PromptTokens](../../aspose.pdf.ai/usage/prompttokens/) { get; set; } | يحصل أو يحدد عدد الرموز في الطلب. |
-| [TotalTokens](../../aspose.pdf.ai/usage/totaltokens/) { get; set; } | يحصل أو يحدد العدد الإجمالي للرموز المستخدمة في الطلب (الطلب + الإكمال). |
+| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | يحصل أو يعيّن عدد الرموز في الإكمال المُولَّد. |
+| [PromptTokens](../../aspose.pdf.ai/usage/prompttokens/) { get; set; } | يحصل أو يعيّن عدد الرموز في المطالبة. |
+| [TotalTokens](../../aspose.pdf.ai/usage/totaltokens/) { get; set; } | يحصل أو يعيّن إجمالي عدد الرموز المستخدمة في الطلب (المطالبة + الإكمال). |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

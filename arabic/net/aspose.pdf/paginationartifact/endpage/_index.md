@@ -1,14 +1,14 @@
 ---
-title: PaginationArtifact.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PaginationArtifact. تحصل أو تعين رقم الصفحة النهائية للعنصر. يجب أن تكون القيمة أكبر من أو تساوي 0. إذا تم تعيين قيمة أقل من 0، فسيتم تعديلها إلى 0. القيمة الافتراضية 0 تعني أنه لا توجد حدود لصفحة النهاية
+title: "PaginationArtifact.EndPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PaginationArtifact. يحصل على أو يحدد رقم الصفحة النهائية للقطعة. يجب أن تكون القيمة أكبر من أو تساوي 0. إذا تم تعيين قيمة أقل من 0 فسيتم تعديلها إلى 0. القيمة الافتراضية 0 تعني عدم وجود حدود نهائية للصفحة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/paginationartifact/endpage/
 ---
-## خاصية PaginationArtifact.EndPage
+## PaginationArtifact.EndPage property
 
-تحصل أو تعين رقم الصفحة النهائية للعنصر. يجب أن تكون القيمة أكبر من أو تساوي 0. إذا تم تعيين قيمة أقل من 0، فسيتم تعديلها إلى 0. القيمة الافتراضية 0 تعني أنه لا توجد حدود لصفحة النهاية.
+يحصل أو يضبط رقم Page النهاية للقطعة. يجب أن تكون القيمة أكبر من أو تساوي 0. إذا تم تعيين قيمة أقل من 0، سيتم تعديلها إلى 0. القيمة الافتراضية 0 تعني عدم وجود حدود لPage النهاية.
 
 ```csharp
 public int EndPage { get; set; }
@@ -19,3 +19,5 @@ public int EndPage { get; set; }
 * class [PaginationArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

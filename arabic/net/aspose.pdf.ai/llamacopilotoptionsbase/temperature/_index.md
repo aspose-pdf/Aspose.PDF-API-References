@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaCopilotOptionsBase. تحصل أو تعين درجة حرارة العينة لاستخدامها في النموذج
+title: "LlamaCopilotOptionsBase.Temperature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaCopilotOptionsBase. يحصل أو يضبط درجة حرارة العينة المستخدمة للنموذج"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/llamacopilotoptionsbase/temperature/
 ---
-## خاصية LlamaCopilotOptionsBase.Temperature
+## LlamaCopilotOptionsBase.Temperature property
 
-تحصل أو تعين درجة حرارة العينة لاستخدامها في النموذج.
+يحصل أو يضبط درجة حرارة العينة المستخدمة للنموذج.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -19,3 +19,5 @@ public double? Temperature { get; set; }
 * class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

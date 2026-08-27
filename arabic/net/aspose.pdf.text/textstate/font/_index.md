@@ -1,14 +1,14 @@
 ---
-title: TextState.Font
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تعين خط النص
+title: "TextState.Font"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. يحصل أو يضبط خط النص"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/textstate/font/
 ---
-## خاصية TextState.Font
+## TextState.Font property
 
-تحصل أو تعين خط النص.
+يحصل أو يضبط خط النص.
 
 ```csharp
 public virtual Font Font { get; set; }
@@ -20,3 +20,5 @@ public virtual Font Font { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

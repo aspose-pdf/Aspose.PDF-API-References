@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.PreserveUserRights
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. إذا كانت صحيحة، يتم تطبيق حقوق المستخدم من المستند الأول على المستند المدمج. يتم تجاهل حقوق المستخدم لجميع المستندات الأخرى.
+title: "PdfFileEditor.PreserveUserRights"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. إذا كانت true تُطبق حقوق المستخدم للمستند الأول على المستند المدمج. تُهمل حقوق المستخدم لجميع المستندات الأخرى."
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/pdffileeditor/preserveuserrights/
 ---
-## خاصية PdfFileEditor.PreserveUserRights
+## PdfFileEditor.PreserveUserRights property
 
-إذا كانت صحيحة، يتم تطبيق حقوق المستخدم من المستند الأول على المستند المدمج. يتم تجاهل حقوق المستخدم لجميع المستندات الأخرى.
+إذا كان صحيحًا، تُطبق حقوق المستخدم للمستند الأول على المستند المدمج. تُهمل حقوق المستخدم لجميع المستندات الأخرى.
 
 ```csharp
 public bool PreserveUserRights { get; set; }
@@ -19,3 +19,5 @@ public bool PreserveUserRights { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class OptionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Forms.OptionCollection. فئة تمثل مجموعة من خيارات حقل الاختيار
+title: "الفئة OptionCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Forms.OptionCollection. فئة تمثل مجموعة الخيارات لحقل الاختيار"
 type: docs
-weight: 5160
+weight: 5280
 url: /ar/net/aspose.pdf.forms/optioncollection/
 ---
-## فئة OptionCollection
+## OptionCollection class
 
-فئة تمثل مجموعة من خيارات حقل الاختيار.
+الفئة تمثل مجموعة من الخيارات لحقل الاختيار.
 
 ```csharp
 public sealed class OptionCollection : ICollection<Option>
@@ -18,27 +18,29 @@ public sealed class OptionCollection : ICollection<Option>
 
 | الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.pdf.forms/optioncollection/count/) { get; } | يحصل على عدد الخيارات. |
-| [IsReadOnly](../../aspose.pdf.forms/optioncollection/isreadonly/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط. |
-| [IsSynchronized](../../aspose.pdf.forms/optioncollection/issynchronized/) { get; } | تعيد true إذا كان الكائن متزامنًا. |
-| [Item](../../aspose.pdf.forms/optioncollection/item/) { get; } | يحصل على الخيار بواسطة الفهرس. (2 فهرسات) |
-| [SyncRoot](../../aspose.pdf.forms/optioncollection/syncroot/) { get; } | كائن التزامن للمجموعة. |
+| [Count](../../aspose.pdf.forms/optioncollection/count/) { get; } | يعيد عدد الخيارات. |
+| [IsReadOnly](../../aspose.pdf.forms/optioncollection/isreadonly/) { get; } | يعيد قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط. |
+| [IsSynchronized](../../aspose.pdf.forms/optioncollection/issynchronized/) { get; } | يعيد true إذا كان الكائن متزامنًا. |
+| [Item](../../aspose.pdf.forms/optioncollection/item/) { get; } | يحصل على الخيار حسب الفهرس. (مؤشرين) |
+| [SyncRoot](../../aspose.pdf.forms/optioncollection/syncroot/) { get; } | كائن المزامنة للمجموعة. |
 
-## الأساليب
+## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.pdf.forms/optioncollection/add/)(Option) | يضيف عنصرًا في المجموعة، ويرمي NotImplementedException. |
+| [Add](../../aspose.pdf.forms/optioncollection/add/)(Option) | يضيف عنصرًا إلى المجموعة، يرمي NotImplementedException. |
 | [Clear](../../aspose.pdf.forms/optioncollection/clear/)() | يزيل جميع العناصر من المجموعة. |
-| [Contains](../../aspose.pdf.forms/optioncollection/contains/)(Option) | يتحقق مما إذا كان العنصر موجودًا في المجموعة، ويرمي NotImplementedException. |
+| [Contains](../../aspose.pdf.forms/optioncollection/contains/)(Option) | يتحقق مما إذا كان العنصر موجودًا في المجموعة، يرمي NotImplementedException. |
 | [CopyTo](../../aspose.pdf.forms/optioncollection/copyto/)(Option[], int) | ينسخ الخيارات إلى مصفوفة. |
-| [get](../../aspose.pdf.forms/optioncollection/get/#get)(int) | يحصل على الخيار بواسطة الفهرس. |
-| [get](../../aspose.pdf.forms/optioncollection/get/#get_1)(string) | يحصل على الخيار من المجموعة بواسطة اسم الخيار. |
-| [GetEnumerator](../../aspose.pdf.forms/optioncollection/getenumerator/)() | يعيد عدادًا للخيارات في المجموعة. |
-| [Remove](../../aspose.pdf.forms/optioncollection/remove/)(Option) | يزيل عنصرًا من المجموعة، ويرمي NotImplementedException. |
+| [get](../../aspose.pdf.forms/optioncollection/get/#get)(int) | يحصل على الخيار حسب الفهرس. |
+| [get](../../aspose.pdf.forms/optioncollection/get/#get_1)(string) | يحصل على الخيار من المجموعة حسب اسم الخيار. |
+| [GetEnumerator](../../aspose.pdf.forms/optioncollection/getenumerator/)() | يعيد المُعدد للخيارات في المجموعة. |
+| [Remove](../../aspose.pdf.forms/optioncollection/remove/)(Option) | يزيل العنصر من المجموعة، يرمي NotImplementedException. |
 
 ### انظر أيضًا
 
-* فئة [Option](../option/)
-* مساحة الأسماء [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../)
+* class [Option](../option/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

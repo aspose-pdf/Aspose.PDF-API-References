@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.BibEntry
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. إدخال في الببليوغرافيا مرجع يحدد المصدر الخارجي لبعض المحتويات المذكورة. قد يحتوي على نوع هيكل تسمية Lbl كطفل
+title: "StructureTypeStandard.BibEntry"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. إدخال ببليوغرافيا إشارة تحدد المصدر الخارجي لبعض المحتوى المقتبس. قد يحتوي على نوع بنية تسمية Lbl كعنصر فرعي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/bibentry/
 ---
-## حقل StructureTypeStandard.BibEntry
+## StructureTypeStandard.BibEntry field
 
-(إدخال في الببليوغرافيا) مرجع يحدد المصدر الخارجي لبعض المحتويات المذكورة. قد يحتوي على تسمية (نوع هيكل Lbl) كطفل.
+(Bibliography entry) مرجع يحدد المصدر الخارجي لبعض المحتوى المقتبس. قد يحتوي على تسمية (نوع بنية Lbl) كعنصر فرعي.
 
-على الرغم من أن إدخال الببليوغرافيا من المحتمل أن يتضمن أجزاء مكونة تحدد مؤلف المحتوى المذكور، العمل، الناشر، وما إلى ذلك، إلا أنه لا يتم تعريف أنواع هيكل قياسية على هذا المستوى من التفاصيل.
+على الرغم من أن إدخال الببليوغرافيا من المحتمل أن يتضمن أجزاء مكوّنة تحدد مؤلف المحتوى المقتبس، والعمل، والناشر، وما إلى ذلك، لا يتم تعريف أنواع بنية قياسية على هذا المستوى من التفصيل.
 
 ```csharp
 public static readonly StructureTypeStandard BibEntry;
@@ -21,3 +21,5 @@ public static readonly StructureTypeStandard BibEntry;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

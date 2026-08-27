@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.LevelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ LevelFormat. المُنشئ الافتراضي
+title: "LevelFormat.LevelFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ LevelFormat. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/levelformat/levelformat/
 ---
-## مُنشئ LevelFormat
+## LevelFormat constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public LevelFormat()
@@ -19,3 +19,5 @@ public LevelFormat()
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل أو تعين دوران التوقيع
+title: "SignatureCustomAppearance.Rotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل أو يضبط دوران التوقيع"
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/rotation/
 ---
-## خاصية SignatureCustomAppearance.Rotation
+## SignatureCustomAppearance.Rotation property
 
-تحصل أو تعين دوران التوقيع.
+الحصول أو التعيين لتدوير التوقيع.
 
 ```csharp
 public Rotation Rotation { get; set; }
@@ -20,3 +20,5 @@ public Rotation Rotation { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

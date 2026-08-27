@@ -1,37 +1,37 @@
 ---
-title: Stamp.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Stamp. تعيين ملف PDF ورقم الصفحة الذي سيتم استخدامه كختم
+title: "Stamp.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Stamp. تحدد ملف PDF ورقم الصفحة التي سيتم استخدامها كختم"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/stamp/bindpdf/
 ---
 ## BindPdf(string, int) {#bindpdf_1}
 
-تعيين ملف PDF ورقم الصفحة الذي سيتم استخدامه كختم.
+يعيّن ملف PDF ورقم الصفحة التي ستُستخدم كطابع.
 
 ```csharp
 public void BindPdf(string pdfFile, int pageNumber)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfFile | String | مسار ملف PDF. |
+| pdfFile | String | المسار إلى ملف PDF. |
 | pageNumber | Int32 | رقم الصفحة في ملف PDF |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Stamp();
-//First page will be used as stamp.
+//سيتم استخدام الصفحة الأولى كختم.
 stamp.BindPdf("stamp.pdf", 1);
 stamp.IsBackground = true;
 fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -41,31 +41,33 @@ fileStamp.Close();
 
 ## BindPdf(Stream, int) {#bindpdf}
 
-تعيين ملف PDF ورقم الصفحة الذي سيتم استخدامه كختم.
+يعيّن ملف PDF ورقم الصفحة التي ستُستخدم كطابع.
 
 ```csharp
 public void BindPdf(Stream pdfStream, int pageNumber)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfStream | Stream | تدفق يحتوي على مستند PDF. |
-| pageNumber | Int32 | فهرس الصفحة للمستند الذي سيتم استخدامه كختم. |
+| pdfStream | Stream | دفق يحتوي على مستند PDF. |
+| pageNumber | Int32 | فهرس الصفحة للمستند الذي سيُستخدم كختم. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Stamp();
-//First page will be used as stamp.
+//سيتم استخدام الصفحة الأولى كختم.
 Stream stream = new FileStream("stamp.pdf", FileMode.Open, FileAccess.Read);
 stamp.BindPdf(stream, 1);
 fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

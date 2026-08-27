@@ -1,25 +1,27 @@
 ---
-title: PageDate.MonthComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MonthComponent. تحصل على سلسلة التنسيق لعنصر الشهر
+title: "PageDate.MonthComponent.GetFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MonthComponent. يحصل على سلسلة التنسيق للمكوّن الشهري"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pagedate.monthcomponent/getformat/
 ---
 ## PageDate.MonthComponent.GetFormat method
 
-تحصل على سلسلة التنسيق لعنصر الشهر.
+يحصل على سلسلة التنسيق لمكوّن الشهر.
 
 ```csharp
 public string GetFormat()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-سلسلة تمثل تنسيق الشهر.
+سلسلة تمثّل تنسيق الشهر.
 
-### See Also
+### انظر أيضًا
 
 * class [MonthComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

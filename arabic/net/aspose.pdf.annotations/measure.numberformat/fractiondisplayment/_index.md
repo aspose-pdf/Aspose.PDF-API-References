@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.FractionDisplayment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية NumberFormat. كيف يتم عرض القيم الكسرية
+title: "Measure.NumberFormat.FractionDisplayment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية NumberFormat. الطريقة التي تُعرض بها القيم الكسرية"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/measure.numberformat/fractiondisplayment/
 ---
-## خاصية Measure.NumberFormat.FractionDisplayment
+## Measure.NumberFormat.FractionDisplayment property
 
-كيف يتم عرض القيم الكسرية.
+بالطريقة التي يتم بها عرض القيم الكسرية.
 
 ```csharp
 public FractionStyle FractionDisplayment { get; set; }
@@ -20,3 +20,5 @@ public FractionStyle FractionDisplayment { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

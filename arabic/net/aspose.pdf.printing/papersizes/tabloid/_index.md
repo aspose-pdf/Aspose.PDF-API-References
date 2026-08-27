@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Tabloid
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق تابلويد 11 بوصة × 17 بوصة
+title: "PaperSizes.Tabloid"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes field. ورق تابلويد 11 بوصة × 17 بوصة"
 type: docs
 weight: 1140
 url: /ar/net/aspose.pdf.printing/papersizes/tabloid/
 ---
-## حقل PaperSizes.Tabloid
+## PaperSizes.Tabloid field
 
-ورق تابلويد (11 بوصة × 17 بوصة).
+ورق Tabloid (11 بوصة × 17 بوصة).
 
 ```csharp
 public static readonly PaperSize Tabloid;
@@ -20,3 +20,5 @@ public static readonly PaperSize Tabloid;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

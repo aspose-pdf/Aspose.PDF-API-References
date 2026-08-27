@@ -1,9 +1,9 @@
 ---
-title: Enum ValidationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationMode enum. يحدد وضع التحقق لعمليات التحقق من توقيع PDF
+title: "تعداد ValidationMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Security.ValidationMode. يحدد وضع التحقق لعمليات التحقق من توقيع PDF"
 type: docs
-weight: 10060
+weight: 10240
 url: /ar/net/aspose.pdf.security/validationmode/
 ---
 ## ValidationMode enumeration
@@ -14,15 +14,17 @@ url: /ar/net/aspose.pdf.security/validationmode/
 public enum ValidationMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | None | `0` | يمثل وضعًا لا يتم فيه إجراء التحقق. |
-| OnlyCheck | `1` | يمثل الوضع الذي يتم فيه إجراء التحقق، لكن نتيجته لا تؤثر على تحقق التوقيع الرقمي. يمكنك التحقق من نتيجة التحقق بنفسك. |
-| Strict | `2` | يمثل الوضع الذي يتم فيه إجراء التحقق وتؤثر نتيجته على تحقق التوقيع الرقمي. إذا لم يكن بالإمكان التحقق من الشهادة، فسيعتبر التوقيع الرقمي غير صالح. يمكنك التحقق من نتيجة التحقق بنفسك. |
+| OnlyCheck | `1` | يمثل الوضع الذي يتم فيه إجراء التحقق، لكن نتيجته لا تؤثر على التحقق من التوقيع الرقمي. يمكنك فحص نتيجة التحقق بنفسك. |
+| Strict | `2` | يمثل الوضع الذي يتم فيه إجراء التحقق وتؤثر نتيجته على التحقق من التوقيع الرقمي. إذا لم يمكن التحقق من الشهادة، فسيُعتبر التوقيع الرقمي غير صالح. يمكنك فحص نتيجة التحقق بنفسك. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

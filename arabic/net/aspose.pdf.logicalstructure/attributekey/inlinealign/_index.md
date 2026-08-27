@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.InlineAlign
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية InlineAlign. مالك خاصية التخطيط
+title: "AttributeKey.InlineAlign"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة InlineAlign سمة Layout المالك"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/inlinealign/
 ---
-## حقل AttributeKey.InlineAlign
+## AttributeKey.InlineAlign field
 
-خاصية InlineAlign (مالك خاصية التخطيط).
+خاصية InlineAlign (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey InlineAlign;
@@ -19,3 +19,5 @@ public static readonly AttributeKey InlineAlign;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

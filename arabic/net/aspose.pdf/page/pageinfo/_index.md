@@ -1,20 +1,20 @@
 ---
-title: Page.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. يحصل أو يحدد معلومات الصفحة للمولد فقط غير مملوءة عند قراءة المستند
+title: "Page.PageInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Page property. يحصل أو يعيّن معلومات الصفحة للمولد فقط ولا يتم ملؤها عند قراءة المستند"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/page/pageinfo/
 ---
-## خاصية Page.PageInfo
+## Page.PageInfo property
 
-يحصل أو يحدد معلومات الصفحة (للمولد فقط، غير مملوءة عند قراءة المستند).
+يحصل أو يضبط معلومات الصفحة (للمولد فقط، لا يتم ملؤه عند قراءة المستند).
 
 ```csharp
 public PageInfo PageInfo { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 معلومات الصفحة.
 
@@ -24,3 +24,5 @@ public PageInfo PageInfo { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

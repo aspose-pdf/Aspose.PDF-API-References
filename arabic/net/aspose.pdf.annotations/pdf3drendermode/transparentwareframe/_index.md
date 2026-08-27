@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.TransparentWareFrame
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DRenderMode. وضع العرض TransparentWareFrame
+title: "PDF3DRenderMode.TransparentWareFrame"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DRenderMode. وضع العرض TransparentWareFrame"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/transparentwareframe/
 ---
-## حقل PDF3DRenderMode.TransparentWareFrame
+## PDF3DRenderMode.TransparentWareFrame field
 
 وضع العرض "TransparentWareFrame".
 
@@ -19,3 +19,5 @@ public static PDF3DRenderMode TransparentWareFrame;
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

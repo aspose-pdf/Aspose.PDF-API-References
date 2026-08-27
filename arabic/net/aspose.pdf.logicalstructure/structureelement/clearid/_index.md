@@ -1,14 +1,14 @@
 ---
-title: StructureElement.ClearId
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureElement. مسح المعرف لعنصر الهيكل
+title: "StructureElement.ClearId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureElement. مسح المعرف لعنصر البنية"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/clearid/
 ---
-## طريقة StructureElement.ClearId
+## StructureElement.ClearId method
 
-مسح المعرف لعنصر الهيكل.
+مسح المعرف لعنصر البنية.
 
 ```csharp
 public void ClearId()
@@ -19,3 +19,5 @@ public void ClearId()
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: FontNotFoundException.FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FontNotFoundException. يقوم بتهيئة مثيل جديد من فئة FontNotFoundException
+title: "FontNotFoundException.FontNotFoundException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FontNotFoundException منشئ. يهيئ مثيلاً جديداً من الفئة FontNotFoundException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/fontnotfoundexception/fontnotfoundexception/
 ---
 ## FontNotFoundException(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`FontNotFoundException`](../).
+يهيئ مثيلاً جديداً من الفئة [`FontNotFoundException`](../).
 
 ```csharp
 public FontNotFoundException(string message)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة. |
+| رسالة | String | الرسالة. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontNotFoundException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public FontNotFoundException(string message)
 
 ## FontNotFoundException(string, Exception) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`FontNotFoundException`](../) مع رسالة خطأ محددة ومرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلاً جديداً من الفئة [`FontNotFoundException`](../) مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public FontNotFoundException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontNotFoundException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -49,18 +49,20 @@ public FontNotFoundException(string message, Exception innerException)
 
 ## FontNotFoundException(Exception) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`FontNotFoundException`](../) مع مرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلاً جديداً من الفئة [`FontNotFoundException`](../) مع إشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public FontNotFoundException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontNotFoundException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

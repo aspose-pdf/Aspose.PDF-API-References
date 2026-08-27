@@ -1,14 +1,14 @@
 ---
-title: Class StringResult
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.StringResult. تمثل نتيجة العملية في شكل سلسلة
+title: "الفئة StringResult"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.StringResult. تمثل نتيجة العملية على شكل سلسلة"
 type: docs
-weight: 9320
+weight: 9470
 url: /ar/net/aspose.pdf.plugins/stringresult/
 ---
-## فئة StringResult
+## StringResult class
 
-تمثل نتيجة العملية في شكل سلسلة.
+يمثل نتيجة العملية على شكل سلسلة.
 
 ```csharp
 public sealed class StringResult : IOperationResult
@@ -19,10 +19,10 @@ public sealed class StringResult : IOperationResult
 | الاسم | الوصف |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/stringresult/data/) { get; } | يحصل على البيانات الخام. |
-| [IsFile](../../aspose.pdf.plugins/stringresult/isfile/) { get; } | يشير إلى ما إذا كانت النتيجة هي مسار إلى ملف الإخراج. |
-| [IsStream](../../aspose.pdf.plugins/stringresult/isstream/) { get; } | يشير إلى ما إذا كانت النتيجة هي مسار إلى ملف الإخراج. |
-| [IsString](../../aspose.pdf.plugins/stringresult/isstring/) { get; } | يشير إلى ما إذا كانت النتيجة هي سلسلة. |
-| [Text](../../aspose.pdf.plugins/stringresult/text/) { get; } | يعيد التمثيل النصي للنتيجة. |
+| [IsFile](../../aspose.pdf.plugins/stringresult/isfile/) { get; } | يشير إلى ما إذا كانت النتيجة مساراً إلى ملف إخراج. |
+| [IsStream](../../aspose.pdf.plugins/stringresult/isstream/) { get; } | يشير إلى ما إذا كانت النتيجة مساراً إلى ملف إخراج. |
+| [IsString](../../aspose.pdf.plugins/stringresult/isstring/) { get; } | يشير إلى ما إذا كانت النتيجة سلسلة نصية. |
+| [Text](../../aspose.pdf.plugins/stringresult/text/) { get; } | يعيد تمثيل السلسلة النصية للنتيجة. |
 
 ## الطرق
 
@@ -30,10 +30,12 @@ public sealed class StringResult : IOperationResult
 | --- | --- |
 | [ToFile](../../aspose.pdf.plugins/stringresult/tofile/)() | يحاول تحويل النتيجة إلى ملف. |
 | [ToStream](../../aspose.pdf.plugins/stringresult/tostream/)() | يحاول تحويل النتيجة إلى كائن تدفق. |
-| override [ToString](../../aspose.pdf.plugins/stringresult/tostring/)() | يحاول تحويل النتيجة إلى سلسلة. |
+| override [ToString](../../aspose.pdf.plugins/stringresult/tostring/)() | يحاول تحويل النتيجة إلى سلسلة نصية. |
 
 ### انظر أيضًا
 
-* الواجهة [IOperationResult](../ioperationresult/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IOperationResult](../ioperationresult/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

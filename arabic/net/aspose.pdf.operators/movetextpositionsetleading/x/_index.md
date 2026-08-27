@@ -1,14 +1,14 @@
 ---
-title: MoveTextPositionSetLeading.X
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MoveTextPositionSetLeading. إحداثي X لموقع النص
+title: "MoveTextPositionSetLeading.X"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MoveTextPositionSetLeading. إحداثي X لموضع النص"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/movetextpositionsetleading/x/
 ---
-## خاصية MoveTextPositionSetLeading.X
+## MoveTextPositionSetLeading.X property
 
-إحداثي X لموقع النص.
+الإحداثي X لموضع النص.
 
 ```csharp
 public double X { get; set; }
@@ -19,3 +19,5 @@ public double X { get; set; }
 * class [MoveTextPositionSetLeading](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

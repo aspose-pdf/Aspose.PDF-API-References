@@ -1,28 +1,30 @@
 ---
-title: Class PdfFileEditor.CorruptedItem
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.PdfFileEditorCorruptedItem. فئة توفر معلومات حول الملفات التالفة في وقت الدمج
+title: "الفئة PdfFileEditor.CorruptedItem"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.PdfFileEditorCorruptedItem. الفئة التي توفر معلومات حول الملفات الفاسدة أثناء الجمع."
 type: docs
-weight: 4500
+weight: 4620
 url: /ar/net/aspose.pdf.facades/pdffileeditor.corrupteditem/
 ---
 ## PdfFileEditor.CorruptedItem class
 
-فئة توفر معلومات حول الملفات التالفة في وقت الدمج.
+الفئة التي توفر معلومات حول الملفات الفاسدة أثناء الجمع.
 
 ```csharp
 public class CorruptedItem
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Exception](../../aspose.pdf.facades/pdffileeditor.corrupteditem/exception) { get; } | الاستثناء الذي تم طرحه لهذا الملف والذي يشير إلى وجود مشكلة في الملف. |
-| [Index](../../aspose.pdf.facades/pdffileeditor.corrupteditem/index) { get; } | فهرس الملف التالف. |
+| [Exception](../../aspose.pdf.facades/pdffileeditor.corrupteditem/exception) { get; } | استثناء يُرمى لهذا الملف يشير إلى مشكلة في الملف. |
+| [Index](../../aspose.pdf.facades/pdffileeditor.corrupteditem/index) { get; } | فهرس الملف الفاسد. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../pdffileeditor/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenAllFields
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تسطح جميع الحقول
+title: "Form.FlattenAllFields"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تُسطّح جميع الحقول"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/form/flattenallfields/
 ---
-## طريقة Form.FlattenAllFields
+## Form.FlattenAllFields method
 
-تسطح جميع الحقول.
+يقوم بتسطيح جميع الحقول.
 
 ```csharp
 public void FlattenAllFields()
@@ -26,3 +26,5 @@ form.FlattenAllFields();
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

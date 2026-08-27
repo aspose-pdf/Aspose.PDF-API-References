@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: حقل CssSavingInfo. تم تعيينه بواسطة المحول. يمثل المحتوى الثنائي لـ CSS المحفوظ
+title: "HtmlSaveOptions.CssSavingInfo.ContentStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل CssSavingInfo. يتم تعيينه بواسطة المحول. يمثل المحتوى الثنائي لملف CSS المحفوظ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream/
 ---
-## حقل HtmlSaveOptions.CssSavingInfo.ContentStream
+## HtmlSaveOptions.CssSavingInfo.ContentStream field
 
-تم تعيينه بواسطة المحول. يمثل المحتوى الثنائي لـ CSS المحفوظ
+يتم تعيينه بواسطة المحول. يمثل المحتوى الثنائي لـ CSS المحفوظ
 
 ```csharp
 public Stream ContentStream;
@@ -19,3 +19,5 @@ public Stream ContentStream;
 * class [CssSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

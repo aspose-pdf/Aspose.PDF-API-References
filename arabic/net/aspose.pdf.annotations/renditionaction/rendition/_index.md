@@ -1,14 +1,14 @@
 ---
-title: RenditionAction.Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RenditionAction. تحصل أو تعين النسخة المرتبطة بالإجراء
+title: "RenditionAction.Rendition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RenditionAction. تحصل أو تعيين rendition المرتبط بالإجراء"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/renditionaction/rendition/
 ---
-## خاصية RenditionAction.Rendition
+## RenditionAction.Rendition property
 
-تحصل أو تعين النسخة المرتبطة بالإجراء.
+يحصل أو يعيّن العرض المرتبط بالإجراء.
 
 ```csharp
 public Rendition Rendition { get; }
@@ -20,3 +20,5 @@ public Rendition Rendition { get; }
 * class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

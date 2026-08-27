@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DocumentCollection. المُنشئ الافتراضي
+title: "DocumentCollection.DocumentCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DocumentCollection. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/documentcollection/documentcollection/
 ---
-## مُنشئ DocumentCollection
+## DocumentCollection constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public DocumentCollection()
@@ -19,3 +19,5 @@ public DocumentCollection()
 * class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

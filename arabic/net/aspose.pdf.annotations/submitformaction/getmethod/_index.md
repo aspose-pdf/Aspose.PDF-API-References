@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.GetMethod
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SubmitFormAction. إذا تم تعيينه، يجب إرسال أسماء الحقول والقيم باستخدام طلب HTTP GET
+title: "SubmitFormAction.GetMethod"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SubmitFormAction. إذا تم تعيينه، يجب إرسال أسماء الحقول والقيم باستخدام طلب HTTP GET"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.annotations/submitformaction/getmethod/
 ---
-## حقل SubmitFormAction.GetMethod
+## SubmitFormAction.GetMethod field
 
-إذا تم تعيينه، يجب إرسال أسماء الحقول والقيم باستخدام طلب HTTP GET.
+إذا تم الضبط، سيتم إرسال أسماء الحقول وقيمها باستخدام طلب HTTP GET.
 
 ```csharp
 public const int GetMethod;
@@ -19,3 +19,5 @@ public const int GetMethod;
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

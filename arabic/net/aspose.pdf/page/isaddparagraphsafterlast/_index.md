@@ -1,14 +1,14 @@
 ---
-title: Page.IsAddParagraphsAfterLast
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تضبط إضافة الفقرات بعد آخر فقرة في الصفحة
+title: "Page.IsAddParagraphsAfterLast"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تضبط إضافة الفقرات بعد الفقرة الأخيرة في الصفحة"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/page/isaddparagraphsafterlast/
 ---
 ## Page.IsAddParagraphsAfterLast property
 
-تحصل أو تضبط إضافة الفقرات بعد آخر فقرة في الصفحة
+يحصل أو يضبط إضافة الفقرات بعد الفقرة الأخيرة في الصفحة
 
 ```csharp
 public bool IsAddParagraphsAfterLast { get; set; }
@@ -16,10 +16,12 @@ public bool IsAddParagraphsAfterLast { get; set; }
 
 ### Property Value
 
-تشير القيمة إلى ما إذا كانت الفقرات ستضاف بعد آخر فقرة في الصفحة. ستضاف الفقرات بعد آخر فقرة في الصفحة إذا كانت القيمة صحيحة.
+القيمة تشير ما إذا كانت الفقرات ستُضاف بعد الفقرة الأخيرة في الصفحة. ستُضاف الفقرات بعد الفقرة الأخيرة في الصفحة إذا كانت القيمة true.
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

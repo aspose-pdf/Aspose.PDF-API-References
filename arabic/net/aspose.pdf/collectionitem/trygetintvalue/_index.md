@@ -1,12 +1,12 @@
 ---
-title: CollectionItem.TryGetIntValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CollectionItem.
+title: "CollectionItem.TryGetIntValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CollectionItem."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/collectionitem/trygetintvalue/
 ---
-## طريقة CollectionItem.TryGetIntValue
+## CollectionItem.TryGetIntValue method
 
 ```csharp
 public bool TryGetIntValue(string name, out Value<int> value)
@@ -18,3 +18,5 @@ public bool TryGetIntValue(string name, out Value<int> value)
 * class [CollectionItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAnnotationEditor. تحذف التعليق مع اسم التعليق المحدد
+title: "PdfAnnotationEditor.DeleteAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAnnotationEditor. تحذف التعليق التوضيحي بالاسم المحدد."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/deleteannotation/
 ---
-## طريقة PdfAnnotationEditor.DeleteAnnotation
+## PdfAnnotationEditor.DeleteAnnotation method
 
-تحذف التعليق مع اسم التعليق المحدد.
+يحذف التعليق التوضيحي بالاسم المحدد.
 
 ```csharp
 public void DeleteAnnotation(string annotName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotName | سلسلة | اسم التعليق |
+| annotName | String | اسم التعليق التوضيحي |
 
 ## أمثلة
 
@@ -29,6 +29,8 @@ editor.Save("example_out.pdf");
 
 ### انظر أيضًا
 
-* الفئة [PdfAnnotationEditor](../)
-* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

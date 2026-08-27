@@ -1,33 +1,35 @@
 ---
-title: Class ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ExpiresAfter. تمثل سياسة انتهاء الصلاحية لمخزن المتجهات
+title: "الفئة ExpiresAfter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.ExpiresAfter. تمثل سياسة الانتهاء لمخزن المتجهات"
 type: docs
-weight: 350
+weight: 370
 url: /ar/net/aspose.pdf.ai/expiresafter/
 ---
 ## ExpiresAfter class
 
-تمثل سياسة انتهاء الصلاحية لمخزن المتجهات.
+يمثل سياسة انتهاء الصلاحية لمخزن المتجهات.
 
 ```csharp
 public class ExpiresAfter
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ExpiresAfter](expiresafter/)() | المُنشئ الافتراضي. |
+| [ExpiresAfter](expiresafter/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | يحصل أو يحدد الطابع الزمني للمرساة بعده تنطبق سياسة انتهاء الصلاحية. المراسي المدعومة: last_active_at. |
-| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | يحصل أو يحدد عدد الأيام بعد وقت المرساة التي ستنتهي فيها صلاحية مخزن المتجهات. |
+| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | يحصل أو يعيّن طابع الوقت المرجعي الذي بعده تُطبق سياسة الانتهاء. المراجع المدعومة: last_active_at. |
+| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | يحصل أو يعيّن عدد الأيام بعد وقت المرجع التي سينتهي فيها مخزن المتجهات. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DeleteStatusResponse.Deleted
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DeleteStatusResponse. تحصل أو تعين القيمة التي تشير إلى ما إذا كانت الخيط قد تم حذفه بنجاح
+title: "DeleteStatusResponse.Deleted"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DeleteStatusResponse خاصية. يحصل أو يعيّن القيمة التي تشير إلى ما إذا تم حذف الخيط بنجاح"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/deletestatusresponse/deleted/
 ---
-## خاصية DeleteStatusResponse.Deleted
+## DeleteStatusResponse.Deleted property
 
-تحصل أو تعين القيمة التي تشير إلى ما إذا كانت الخيط قد تم حذفه بنجاح.
+يحصل أو يضبط القيمة التي تشير إلى ما إذا تم حذف السلسلة بنجاح.
 
 ```csharp
 public bool Deleted { get; set; }
@@ -19,3 +19,5 @@ public bool Deleted { get; set; }
 * class [DeleteStatusResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

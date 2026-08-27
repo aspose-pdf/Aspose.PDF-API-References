@@ -1,9 +1,9 @@
 ---
-title: Enum HtmlSaveOptions.HtmlImageType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlImageType enum. يعدد الأنواع الممكنة لملفات الصور التي يمكن حفظها كموارد خارجية أثناء تحويل Pdf إلى Html
+title: "التعداد HtmlSaveOptions.HtmlImageType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.HtmlSaveOptionsHtmlImageType. يعدد الأنواع الممكنة لملفات الصور التي يمكن حفظها كموارد خارجية أثناء تحويل Pdf إلى Html"
 type: docs
-weight: 5650
+weight: 5780
 url: /ar/net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 ---
 ## HtmlSaveOptions.HtmlImageType enumeration
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 public enum HtmlImageType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Jpeg | `0` | تنسيق Jpeg |
 | Png | `1` | تنسيق Png |
@@ -27,8 +27,10 @@ public enum HtmlImageType
 | ZippedSvg | `6` | تنسيق Svg مضغوط |
 | Unknown | `7` | غير معروف - يعني أن المحول لا يمكنه اكتشاف نوع المحتوى نفسه |
 
-### See Also
+### انظر أيضًا
 
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

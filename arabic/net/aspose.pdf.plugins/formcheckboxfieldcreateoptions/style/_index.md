@@ -1,14 +1,14 @@
 ---
-title: FormCheckBoxFieldCreateOptions.Style
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormCheckBoxFieldCreateOptions. تحصل/تضبط القيمة لتحديد خاصية Style لحقل CheckboxField الذي تم إنشاؤه إذا تم تعيينه
+title: "FormCheckBoxFieldCreateOptions.Style"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormCheckBoxFieldCreateOptions. تحصّل/تضبط القيمة لتحديد خاصية النمط للـ CheckboxField المُنشأ إذا تم تعيينها"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/style/
 ---
-## خاصية FormCheckBoxFieldCreateOptions.Style
+## FormCheckBoxFieldCreateOptions.Style property
 
-تحصل/تضبط القيمة لتحديد خاصية Style لحقل CheckboxField الذي تم إنشاؤه (إذا تم تعيينه).
+يحصل/يضبط القيمة لتحديد خاصية النمط Style للـ CheckboxField المُنشأ (إذا تم تعيينه).
 
 ```csharp
 public BoxStyle? Style { get; set; }
@@ -20,3 +20,5 @@ public BoxStyle? Style { get; set; }
 * class [FormCheckBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

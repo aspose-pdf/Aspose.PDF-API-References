@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.AutoGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SvgExtractionOptions. تحصل على وتضبط الخيار لتجميع المسارات الفرعية تلقائيًا في الصور. يستبعد هذا الخيار خيار [`GroupStrength`](../groupstrength/) .
+title: "SvgExtractionOptions.AutoGrouping"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SvgExtractionOptions. يحصل ويضبط الخيار لتجميع المسارات الفرعية تلقائيًا إلى صور. هذا الخيار يستثني خيار GroupStrength"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.vector/svgextractionoptions/autogrouping/
 ---
-## خاصية SvgExtractionOptions.AutoGrouping
+## SvgExtractionOptions.AutoGrouping property
 
-تحصل على وتضبط الخيار لتجميع المسارات الفرعية تلقائيًا في الصور. يستبعد هذا الخيار خيار [`GroupStrength`](../groupstrength/) .
+يحصل ويضبط الخيار لتجميع المسارات الفرعية تلقائيًا إلى صور. هذا الخيار يستثني خيار [`GroupStrength`](../groupstrength/)
 
 ```csharp
 public bool AutoGrouping { get; set; }
@@ -19,3 +19,5 @@ public bool AutoGrouping { get; set; }
 * class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

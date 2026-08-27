@@ -1,22 +1,22 @@
 ---
-title: Paragraphs.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. إضافة فقرة إلى المجموعة
+title: "Paragraphs.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. إضافة فقرة إلى المجموعة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/paragraphs/add/
 ---
-## طريقة الفقرات.Add
+## Paragraphs.Add method
 
-إضافة فقرة إلى المجموعة.
+أضف فقرة إلى المجموعة.
 
 ```csharp
 public void Add(BaseParagraph paragraph)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| paragraph | BaseParagraph | الفقرة. |
+| فقرة | BaseParagraph | الفقرة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(BaseParagraph paragraph)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

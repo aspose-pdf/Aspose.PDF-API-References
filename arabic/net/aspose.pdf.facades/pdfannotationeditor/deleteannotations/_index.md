@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAnnotationEditor. تحذف جميع التعليقات التوضيحية في المستند
+title: "PdfAnnotationEditor.DeleteAnnotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAnnotationEditor. تحذف جميع التعليقات التوضيحية في المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/
 ---
 ## DeleteAnnotations() {#deleteannotations}
 
-تحذف جميع التعليقات التوضيحية في المستند.
+يحذف جميع التعليقات التوضيحية في المستند.
 
 ```csharp
 public void DeleteAnnotations()
@@ -33,15 +33,15 @@ editor.Save("example_out.pdf");
 
 ## DeleteAnnotations(string) {#deleteannotations_1}
 
-تحذف جميع التعليقات التوضيحية من النوع المحدد في المستند.
+يحذف جميع التعليقات التوضيحية من النوع المحدد في المستند.
 
 ```csharp
 public void DeleteAnnotations(string annotType)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotType | String | نوع التعليق التوضيحي الذي سيتم حذفه. |
+| annotType | String | سيتم حذف نوع التعليق التوضيحي. |
 
 ## أمثلة
 
@@ -57,3 +57,5 @@ editor.Save("example_out.pdf");
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

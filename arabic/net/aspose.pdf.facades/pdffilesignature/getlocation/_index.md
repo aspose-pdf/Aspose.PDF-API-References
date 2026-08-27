@@ -1,7 +1,7 @@
 ---
-title: PdfFileSignature.GetLocation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. يحصل على موقع التوقيع
+title: "PdfFileSignature.GetLocation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. تحصل على موقع التوقيع."
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/pdffilesignature/getlocation/
@@ -14,17 +14,19 @@ url: /ar/net/aspose.pdf.facades/pdffilesignature/getlocation/
 public string GetLocation(SignatureName signName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | signName | SignatureName | اسم التوقيع. |
 
-### Return Value
+### قيمة الإرجاع
 
-يعيد نتيجة من نوع سلسلة.
+يرجع نتيجة من نوع سلسلة.
 
-### See Also
+### انظر أيضًا
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

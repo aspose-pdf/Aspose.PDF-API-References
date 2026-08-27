@@ -1,25 +1,27 @@
 ---
-title: StructureElement.SetId
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureElement. تعيين معرف لعنصر الهيكل
+title: "StructureElement.SetId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureElement. تعيين ID لعنصر البنية"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/setid/
 ---
-## طريقة StructureElement.SetId
+## StructureElement.SetId method
 
-تعيين معرف لعنصر الهيكل.
+يحدد المعرف لعنصر البنية.
 
 ```csharp
 public void SetId(string id)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| id | سلسلة | قيمة المعرف لعنصر الهيكل |
+| معرّف | String | قيمة ID لعنصر البنية |
 
 ### انظر أيضًا
 
-* الفئة [StructureElement](../)
-* مساحة الاسم [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* التجميع [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptionCollection. تحصل على عدد الخيارات
+title: "OptionCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptionCollection. تُعيد عدد الخيارات"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/optioncollection/count/
 ---
-## خاصية OptionCollection.Count
+## OptionCollection.Count property
 
-تحصل على عدد الخيارات.
+يعيد عدد الخيارات.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

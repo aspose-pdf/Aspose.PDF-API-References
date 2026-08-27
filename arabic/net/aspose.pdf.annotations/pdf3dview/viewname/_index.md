@@ -1,20 +1,20 @@
 ---
-title: PDF3DView.ViewName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DView. تحصل أو تعين اسم العرض
+title: "PDF3DView.ViewName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DView. يحصل على أو يضبط اسم العرض"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/pdf3dview/viewname/
 ---
-## خاصية PDF3DView.ViewName
+## PDF3DView.ViewName property
 
-تحصل أو تعين اسم العرض.
+يحصل أو يضبط اسم العرض.
 
 ```csharp
 public string ViewName { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 اسم العرض.
 
@@ -23,3 +23,5 @@ public string ViewName { get; set; }
 * class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

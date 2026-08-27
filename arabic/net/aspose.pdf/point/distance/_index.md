@@ -1,23 +1,23 @@
 ---
-title: Point.Distance
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Point. تحسب المسافة بين نقطتين
+title: "Point.Distance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Point. تحسب المسافة بين نقطتين"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/point/distance/
 ---
-## طريقة Point.Distance
+## Point.Distance method
 
-تحسب المسافة بين نقطتين.
+يحسب المسافة بين نقطتين.
 
 ```csharp
 public static double Distance(Point point1, Point point2)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| point1 | Point | النقطة الأولى. |
-| point2 | Point | النقطة الثانية. |
+| point1 | نقطة | النقطة الأولى. |
+| point2 | نقطة | النقطة الثانية. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public static double Distance(Point point1, Point point2)
 * class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

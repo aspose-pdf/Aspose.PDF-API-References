@@ -1,24 +1,24 @@
 ---
-title: SignatureField.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SignatureField. تستخرج صورة التوقيع كتيار مشفر بصيغة jpeg
+title: "SignatureField.ExtractImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SignatureField. تستخرج صورة التوقيعات كدفق مشفر بصيغة jpeg"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.pdf.forms/signaturefield/extractimage/
 ---
 ## ExtractImage() {#extractimage}
 
-تستخرج صورة التوقيع كتيار مشفر بصيغة jpeg.
+يستخرج صورة التوقيع كدفق مشفر بصيغة JPEG.
 
 ```csharp
 public Stream ExtractImage()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-إذا تم العثور على الصورة بنجاح، فإنها تعيد كائن تيار مشفر بصيغة jpeg؛ وإلا، فإنها تعيد null.
+إذا تم العثور على الصورة بنجاح فستُرجع كائن تدفق مشفر بصيغة jpeg؛ وإلا، null.
 
-### See Also
+### انظر أيضًا
 
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -28,22 +28,24 @@ public Stream ExtractImage()
 
 ## ExtractImage(ImageFormat) {#extractimage_1}
 
-تستخرج صورة التوقيع كتيار مشفر.
+يستخرج صورة التوقيع كدفق مشفر.
 
 ```csharp
 public Stream ExtractImage(ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| format | ImageFormat | صيغة الصورة للتشفير. |
+| format | ImageFormat | تنسيق الصورة للترميز. |
 
-### Return Value
+### قيمة الإرجاع
 
-إذا تم العثور على الصورة بنجاح، فإنها تعيد كائن تيار مشفر؛ وإلا، فإنها تعيد null.
+إذا تم العثور على الصورة بنجاح فإنها تُعيد كائن encodedstream؛ وإلا، null.
 
-### See Also
+### انظر أيضًا
 
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

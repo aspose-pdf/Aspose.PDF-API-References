@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.DefaultBufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: حقل OptimizedMemoryStream. قيمة حجم المخزن المؤقت الافتراضي بالبايت
+title: "OptimizedMemoryStream.DefaultBufferSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل OptimizedMemoryStream. قيمة حجم المخزن المؤقت الافتراضي بالبايتات"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf/optimizedmemorystream/defaultbuffersize/
 ---
-## حقل OptimizedMemoryStream.DefaultBufferSize
+## OptimizedMemoryStream.DefaultBufferSize field
 
 قيمة حجم المخزن المؤقت الافتراضي بالبايت.
 
@@ -19,3 +19,5 @@ public const int DefaultBufferSize;
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: LaunchAction.LaunchAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ LaunchAction. ينشئ إجراء إطلاق
+title: "LaunchAction.LaunchAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "LaunchAction منشئ. ينشئ إجراء تشغيل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/launchaction/launchaction/
 ---
 ## LaunchAction(string) {#constructor_1}
 
-ينشئ إجراء إطلاق.
+ينشئ إجراء تشغيل.
 
 ```csharp
 public LaunchAction(string file)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| file | String | الملف الذي سيتم إطلاقه. |
+| file | String | الملف الذي سيتم تشغيله. |
 
 ### انظر أيضًا
 
@@ -28,16 +28,16 @@ public LaunchAction(string file)
 
 ## LaunchAction(Document, string) {#constructor}
 
-ينشئ إجراء إطلاق.
+ينشئ إجراء تشغيل.
 
 ```csharp
 public LaunchAction(Document document, string file)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء الإجراء فيه. |
-| file | String | الملف الذي سيتم إطلاقه. |
+| document | Document | المستند حيث سيتم إنشاء الإجراء. |
+| file | String | الملف الذي سيتم تشغيله. |
 
 ### انظر أيضًا
 
@@ -45,3 +45,5 @@ public LaunchAction(Document document, string file)
 * class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

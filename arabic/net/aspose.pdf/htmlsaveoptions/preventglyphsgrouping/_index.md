@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.PreventGlyphsGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlSaveOptions. يقوم هذا السمة بتشغيل الوضع الذي لن يتم فيه تجميع رموز النص في كلمات وسلاسل. يسمح هذا الوضع بالحفاظ على أقصى دقة أثناء وضع الرموز على الصفحة ويمكن استخدامه لتحويل المستندات التي تحتوي على نوتات موسيقية أو رموز يجب وضعها بشكل منفصل عن بعضها البعض. سيتم تطبيق هذه المعلمة على المستند فقط عندما تكون قيمة سمة FixedLayout صحيحة.
+title: "HtmlSaveOptions.PreventGlyphsGrouping"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlSaveOptions. تُشغّل هذه السمة الوضع الذي لا تُجمع فيه رموز النص إلى كلمات وسلاسل. يتيح هذا الوضع الحفاظ على أقصى دقة أثناء تموضع الرموز على الصفحة ويمكن استخدامه لتحويل المستندات التي تحتوي على نوتات موسيقية أو رموز يجب وضعها منفصلة عن بعضها البعض. سيتم تطبيق هذا المعامل على المستند فقط عندما تكون قيمة السمة FixedLayout هي true."
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/htmlsaveoptions/preventglyphsgrouping/
 ---
-## خاصية HtmlSaveOptions.PreventGlyphsGrouping
+## HtmlSaveOptions.PreventGlyphsGrouping property
 
-يقوم هذا السمة بتشغيل الوضع الذي لن يتم فيه تجميع رموز النص في كلمات وسلاسل. يسمح هذا الوضع بالحفاظ على أقصى دقة أثناء وضع الرموز على الصفحة ويمكن استخدامه لتحويل المستندات التي تحتوي على نوتات موسيقية أو رموز يجب وضعها بشكل منفصل عن بعضها البعض. سيتم تطبيق هذه المعلمة على المستند فقط عندما تكون قيمة سمة FixedLayout صحيحة.
+هذه الخاصية تُفعّل الوضع الذي لا تُجمّع فيه رموز النص إلى كلمات وسلاسل. يسمح هذا الوضع بالحفاظ على أقصى دقة أثناء تموضع الرموز على الصفحة ويمكن استخدامه لتحويل المستندات التي تحتوي على نوتات موسيقية أو رموز يجب وضعها بشكل منفصل عن بعضها. سيتم تطبيق هذا المعامل على المستند فقط عندما تكون قيمة الخاصية FixedLayout هي true.
 
 ```csharp
 public bool PreventGlyphsGrouping { get; set; }
@@ -19,3 +19,5 @@ public bool PreventGlyphsGrouping { get; set; }
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تمثل كائنًا يشير إلى مساحة ألوان النمط
+title: "Color.PatternColorSpace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تمثّل كائناً يشير إلى مساحة ألوان النمط"
 type: docs
 weight: 1520
 url: /ar/net/aspose.pdf/color/patterncolorspace/
 ---
-## خاصية Color.PatternColorSpace
+## Color.PatternColorSpace property
 
-تمثل كائنًا يشير إلى مساحة ألوان النمط.
+يمثل كائنًا يشير إلى مساحة ألوان النمط.
 
 ```csharp
 public PatternColorSpace PatternColorSpace { get; set; }
@@ -20,3 +20,5 @@ public PatternColorSpace PatternColorSpace { get; set; }
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

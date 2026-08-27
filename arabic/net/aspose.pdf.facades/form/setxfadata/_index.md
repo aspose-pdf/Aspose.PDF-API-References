@@ -1,25 +1,27 @@
 ---
-title: Form.SetXfaData
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تستبدل بيانات XFA بحزمة البيانات المحددة. يمكن استخراج حزمة البيانات باستخدام ExtractXfaData
+title: "Form.SetXfaData"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تستبدل بيانات XFA بحزمة البيانات المحددة. يمكن استخراج حزمة البيانات باستخدام ExtractXfaData."
 type: docs
 weight: 350
 url: /ar/net/aspose.pdf.facades/form/setxfadata/
 ---
-## طريقة Form.SetXfaData
+## Form.SetXfaData method
 
-تستبدل بيانات XFA بحزمة البيانات المحددة. يمكن استخراج حزمة البيانات باستخدام ExtractXfaData.
+يستبدل بيانات XFA بحزمة البيانات المحددة. يمكن استخراج حزمة البيانات باستخدام ExtractXfaData.
 
 ```csharp
 public void SetXfaData(Stream inputXmlStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputXmlStream | Stream | التدفق الذي يتم تخزين XML فيه. |
+| inputXmlStream | Stream | التدفق الذي يُخزن فيه XML. |
 
 ### انظر أيضًا
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.SignaturesAppendOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. إذا تم تعيينها، يحتوي المستند على توقيعات قد يتم إبطالها إذا تم حفظ الملف   بطريقة تغير محتوياته السابقة، بدلاً من تحديث تزايدي
+title: "Form.SignaturesAppendOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. إذا تم تعيينها، يحتوي المستند على توقيعات قد تُصبح غير صالحة إذا تم حفظ الملف بطريقة تغير محتوياته السابقة بدلاً من التحديث المتزايد."
 type: docs
-weight: 130
+weight: 150
 url: /ar/net/aspose.pdf.forms/form/signaturesappendonly/
 ---
-## خاصية Form.SignaturesAppendOnly
+## Form.SignaturesAppendOnly property
 
-إذا تم تعيينها، يحتوي المستند على توقيعات قد يتم إبطالها إذا تم حفظ الملف (كتابته) بطريقة تغير محتوياته السابقة، بدلاً من تحديث تزايدي.
+إذا تم تعيينها، يحتوي المستند على توقيعات قد تصبح غير صالحة إذا تم حفظ (كتابة) الملف بطريقة تغير محتوياته السابقة، بدلاً من تحديث تدريجي.
 
 ```csharp
 public bool SignaturesAppendOnly { get; set; }
@@ -19,3 +19,5 @@ public bool SignaturesAppendOnly { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

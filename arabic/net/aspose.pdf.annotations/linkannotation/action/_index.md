@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Action
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LinkAnnotation. إجراء يجب تنفيذه عند تفعيل تعليق الرابط
+title: "LinkAnnotation.Action"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LinkAnnotation. إجراء يُنفّذ عندما يتم تنشيط التعليق التوضيحي للربط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/linkannotation/action/
 ---
-## خاصية LinkAnnotation.Action
+## LinkAnnotation.Action property
 
-إجراء يجب تنفيذه عند تفعيل تعليق الرابط.
+إجراء يتم تنفيذه عندما يتم تنشيط تعليق توضيحي Link.
 
 ```csharp
 public PdfAction Action { get; set; }
@@ -20,3 +20,5 @@ public PdfAction Action { get; set; }
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

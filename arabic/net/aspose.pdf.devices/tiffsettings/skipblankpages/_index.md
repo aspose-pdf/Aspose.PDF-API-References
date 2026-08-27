@@ -1,22 +1,22 @@
 ---
-title: TiffSettings.SkipBlankPages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffSettings. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تخطي الصفحات الفارغة
+title: "TiffSettings.SkipBlankPages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffSettings. تحصل أو تعيين قيمة تشير إلى ما إذا كان يجب تخطي الصفحات الفارغة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.devices/tiffsettings/skipblankpages/
 ---
-## خاصية TiffSettings.SkipBlankPages
+## TiffSettings.SkipBlankPages property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تخطي الصفحات الفارغة.
+احصل أو عيّن قيمة تشير إلى ما إذا كان يجب تخطي الصفحات الفارغة.
 
 ```csharp
 public bool SkipBlankPages { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-`true` إذا كان من الضروري تخطي الصفحات الفارغة؛ خلاف ذلك، `false`.
+`true` إذا كان من الضروري تخطي الصفحات الفارغة؛ وإلا `false`.
 
 ## ملاحظات
 
@@ -27,3 +27,5 @@ public bool SkipBlankPages { get; set; }
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.C
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Matrix3D. عضو C من مصفوفة التحويل
+title: "Matrix3D.C"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Matrix3D. العنصر C من مصفوفة التحويل."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/matrix3d/c/
 ---
-## خاصية Matrix3D.C
+## Matrix3D.C property
 
-عضو C من مصفوفة التحويل.
+العنصر C في مصفوفة التحويل.
 
 ```csharp
 public double C { get; set; }
@@ -19,3 +19,5 @@ public double C { get; set; }
 * class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

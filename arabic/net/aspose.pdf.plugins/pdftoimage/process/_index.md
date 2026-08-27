@@ -1,20 +1,20 @@
 ---
-title: PdfToImage.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfToImage. تبدأ المعالجة بالمعلمات المحددة
+title: "PdfToImage.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfToImage. يبدأ المعالجة بالمعلمات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdftoimage/process/
 ---
-## طريقة PdfToImage.Process
+## PdfToImage.Process method
 
-تبدأ المعالجة بالمعلمات المحددة.
+يبدأ  المعالجة بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions pdfImageOptions)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pdfImageOptions | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ PdfImage. |
 
@@ -29,3 +29,5 @@ public ResultContainer Process(IPluginOptions pdfImageOptions)
 * class [PdfToImage](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

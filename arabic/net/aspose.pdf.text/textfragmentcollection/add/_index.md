@@ -1,22 +1,22 @@
 ---
-title: TextFragmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextFragmentCollection. تضيف عنصر جزء النص في الفهرس المحدد
+title: "TextFragmentCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextFragmentCollection. تضيف عنصر شريحة النص في الفهرس المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textfragmentcollection/add/
 ---
-## طريقة TextFragmentCollection.Add
+## TextFragmentCollection.Add method
 
-تضيف عنصر جزء النص في الفهرس المحدد.
+يضيف عنصر مقطع النص في الفهرس المحدد.
 
 ```csharp
 public void Add(TextFragment fragment)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fragment | TextFragment | عنصر جزء النص الذي سيتم إضافته. |
+| جزء | TextFragment | عنصر شريحة النص للإضافة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(TextFragment fragment)
 * class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

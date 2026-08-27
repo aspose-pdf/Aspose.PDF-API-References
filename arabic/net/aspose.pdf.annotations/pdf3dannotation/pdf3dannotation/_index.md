@@ -1,26 +1,26 @@
 ---
-title: PDF3DAnnotation.PDF3DAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PDF3DAnnotation. يُهيئ مثيلًا جديدًا من فئة PDF3DAnnotation
+title: "PDF3DAnnotation.PDF3DAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PDF3DAnnotation. يهيئ نسخة جديدة من الفئة PDF3DAnnotation"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdf3dannotation/pdf3dannotation/
 ---
 ## PDF3DAnnotation(Page, Rectangle, PDF3DArtwork) {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`PDF3DAnnotation`](../).
+يهيئ نسخة جديدة من الفئة [`PDF3DAnnotation`](../).
 
 ```csharp
 public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة. |
+| صفحة | صفحة | الصفحة. |
 | rect | Rectangle | المستطيل. |
-| pdf3DArtwork | PDF3DArtwork | العمل الفني ثلاثي الأبعاد. |
+| pdf3DArtwork | PDF3DArtwork | الـ 3D Artwork. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -33,27 +33,27 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 
 ## PDF3DAnnotation(Page, Rectangle, PDF3DArtwork, PDF3DActivation) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`PDF3DAnnotation`](../).
+يهيئ نسخة جديدة من الفئة [`PDF3DAnnotation`](../).
 
 ```csharp
 public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork, 
     PDF3DActivation activation)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة. |
+| صفحة | صفحة | الصفحة. |
 | rect | Rectangle | المستطيل. |
-| pdf3DArtwork | PDF3DArtwork | العمل الفني ثلاثي الأبعاد. |
-| activation | PDF3DActivation | وضع التفعيل. |
+| pdf3DArtwork | PDF3DArtwork | الـ 3D Artwork. |
+| التنشيط | PDF3DActivation | وضع التنشيط. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| Exception | تم إضافة تدفق ثلاثي الأبعاد بالفعل إلى العمل الفني ثلاثي الأبعاد الحالي |
+| Exception | تم إضافة تدفق 3D بالفعل إلى العمل الفني ثلاثي الأبعاد الحالي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -62,3 +62,5 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork,
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IncompleteDetails.Reason
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IncompleteDetails. تحصل أو تعين السبب في كون الرسالة غير مكتملة
+title: "IncompleteDetails.Reason"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IncompleteDetails. يحصل أو يضبط السبب الذي يجعل الرسالة غير مكتملة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/incompletedetails/reason/
 ---
-## خاصية IncompleteDetails.Reason
+## IncompleteDetails.Reason property
 
-تحصل أو تعين السبب في كون الرسالة غير مكتملة.
+يحصل أو يعيّن السبب وراء عدم اكتمال الرسالة.
 
 ```csharp
 public string Reason { get; set; }
@@ -19,3 +19,5 @@ public string Reason { get; set; }
 * class [IncompleteDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

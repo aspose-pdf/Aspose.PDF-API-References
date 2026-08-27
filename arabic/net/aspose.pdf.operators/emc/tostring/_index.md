@@ -1,14 +1,14 @@
 ---
-title: EMC.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EMC. تعيد التمثيل النصي للمشغل
+title: "EMC.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EMC. تُعيد تمثيل النص للمشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/emc/tostring/
 ---
-## طريقة EMC.ToString
+## EMC.ToString method
 
-تعيد التمثيل النصي للمشغل.
+يرجع تمثيل النص للمشغّل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-التمثيل النصي للمشغل.
+تمثيل نصي للمشغل.
 
 ### انظر أيضًا
 
 * class [EMC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

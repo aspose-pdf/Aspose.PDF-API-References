@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.WarningHandler
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SaveOptions. رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يقوم WarningHandler بإرجاع عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort، وفي هذه الحالة يجب أن تتوقف عملية الحفظ.
+title: "SaveOptions.WarningHandler"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SaveOptions. رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك قد يُعيد المستخدم Abort وفي هذه الحالة يجب إيقاف عملية الحفظ"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/saveoptions/warninghandler/
 ---
-## خاصية SaveOptions.WarningHandler
+## SaveOptions.WarningHandler property
 
-رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يقوم WarningHandler بإرجاع عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort، وفي هذه الحالة يجب أن تتوقف عملية الحفظ.
+استدعاء رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك قد يُعيد المستخدم Abort وفي هذه الحالة يجب إيقاف عملية الحفظ.
 
 ```csharp
 public IWarningCallback WarningHandler { get; set; }
@@ -16,7 +16,9 @@ public IWarningCallback WarningHandler { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [IWarningCallback](../../iwarningcallback/)
-* فئة [SaveOptions](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IWarningCallback](../../iwarningcallback/)
+* class [SaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تُرجع قائمة بالمرفقات في ملف PDF. ملاحظة يجب استدعاء ExtractAttachments قبل استخدام هذه الطريقة
+title: "PdfExtractor.GetAttachNames"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfExtractor. تُرجع قائمة المرفقات في ملف PDF. ملاحظة: يجب استدعاء ExtractAttachments قبل استخدام هذه الطريقة"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## طريقة PdfExtractor.GetAttachNames
+## PdfExtractor.GetAttachNames method
 
-تُرجع قائمة بالمرفقات في ملف PDF. ملاحظة: يجب استدعاء ExtractAttachments قبل استخدام هذه الطريقة.
+يرجع قائمة المرفقات في ملف PDF. ملاحظة: يجب استدعاء ExtractAttachments قبل استخدام هذه الطريقة.
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -16,11 +16,11 @@ public IList<string> GetAttachNames()
 
 ### قيمة الإرجاع
 
-قائمة بالمرفقات
+قائمة المرفقات
 
 ## أمثلة
 
-المثال يوضح كيفية استخراج أسماء المرفقات من ملف PDF.
+يوضح المثال كيفية استخراج أسماء المرفقات من ملف PDF.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -36,3 +36,5 @@ foreach (string name in attachments)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

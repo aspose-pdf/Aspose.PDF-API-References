@@ -1,29 +1,31 @@
 ---
-title: Enum PropertyFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PropertyFlag enum. تعداد الأعلام الممكنة للحقل
+title: "التعداد PropertyFlag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Facades.PropertyFlag. تعداد لعلامات الحقول الممكنة."
 type: docs
-weight: 4660
+weight: 4780
 url: /ar/net/aspose.pdf.facades/propertyflag/
 ---
 ## PropertyFlag enumeration
 
-تعداد الأعلام الممكنة للحقل.
+تعداد أعلام الحقول الممكنة.
 
 ```csharp
 public enum PropertyFlag
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | ReadOnly | `0` | الحقل للقراءة فقط. |
 | Required | `1` | الحقل مطلوب. |
 | NoExport | `2` | الحقل غير قابل للتصدير. |
-| InvalidFlag | `3` | علم الحقل غير صالح. |
+| InvalidFlag | `3` | علامة الحقل غير صالحة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

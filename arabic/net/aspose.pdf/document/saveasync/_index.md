@@ -1,22 +1,55 @@
 ---
-title: Document.SaveAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تخزن الوثيقة في التدفق
+title: "Document.SaveAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تحفظ المستند إلى دفق مع خيارات الحفظ"
 type: docs
-weight: 840
+weight: 860
 url: /ar/net/aspose.pdf/document/saveasync/
 ---
+## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
+
+يحفظ المستند إلى تدفق مع خيارات الحفظ.
+
+```csharp
+public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| معامل | النوع | الوصف |
+| --- | --- | --- |
+| outputStream | Stream | دفق حيث سيتم تخزين المستند. |
+| options | SaveOptions | خيارات الحفظ. |
+| cancellationToken | CancellationToken | رمز الإلغاء. |
+
+### قيمة الإرجاع
+
+مهمة غير متزامنة.
+
+### الاستثناءات
+
+| استثناء | شرط |
+| --- | --- |
+| ArgumentException | ArgumentException عندما يتم تمرير [`HtmlSaveOptions`](../../htmlsaveoptions/) إلى طريقة. حفظ المستند إلى تدفق html غير مدعوم. يرجى استخدام طريقة الحفظ إلى الملف. |
+
+### انظر أيضًا
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SaveAsync(Stream, CancellationToken) {#saveasync_3}
 
-تخزن الوثيقة في التدفق.
+يخزن المستند في تدفق.
 
 ```csharp
 public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| output | Stream | التدفق الذي ستخزن فيه الوثيقة. |
+| الإخراج | Stream | الدفق حيث سيتم تخزين المستند. |
 | cancellationToken | CancellationToken | رمز الإلغاء. |
 
 ### قيمة الإرجاع
@@ -33,15 +66,15 @@ public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 
 ## SaveAsync(string, CancellationToken) {#saveasync_6}
 
-يحفظ الوثيقة في الملف المحدد.
+يحفظ المستند في الملف المحدد.
 
 ```csharp
 public Task SaveAsync(string outputFileName, CancellationToken cancellationToken)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFileName | String | مسار الملف الذي ستخزن فيه الوثيقة. |
+| outputFileName | String | المسار إلى الملف حيث سيتم تخزين المستند. |
 | cancellationToken | CancellationToken | رمز الإلغاء. |
 
 ### قيمة الإرجاع
@@ -58,13 +91,13 @@ public Task SaveAsync(string outputFileName, CancellationToken cancellationToken
 
 ## SaveAsync(CancellationToken) {#saveasync_7}
 
-يحفظ الوثيقة بشكل تدريجي (أي باستخدام تقنية التحديث التدريجي).
+حفظ المستند بشكل تدريجي (أي باستخدام تقنية التحديث التدريجي).
 
 ```csharp
 public Task SaveAsync(CancellationToken cancellationToken)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | cancellationToken | CancellationToken | رمز الإلغاء. |
 
@@ -74,7 +107,7 @@ public Task SaveAsync(CancellationToken cancellationToken)
 
 ## ملاحظات
 
-لحفظ الوثيقة بشكل تدريجي يجب علينا فتح ملف الوثيقة للكتابة. لذلك يجب تهيئة Document بتدفق قابل للكتابة كما في مقتطف الشيفرة التالي: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // قم بإجراء بعض التغييرات واحفظ الوثيقة بشكل تدريجي doc.Save();
+من أجل حفظ المستند بشكل تدريجي يجب فتح ملف المستند للكتابة. لذلك يجب تهيئة Document باستخدام تدفق قابل للكتابة كما في المقتطف التالي: Document doc = new Document(new FileStream(\"document.pdf\", FileMode.Open, FileAccess.ReadWrite)); // قم بإجراء بعض التغييرات واحفظ المستند بشكل تدريجي doc.Save();
 
 ### انظر أيضًا
 
@@ -86,13 +119,13 @@ public Task SaveAsync(CancellationToken cancellationToken)
 
 ## SaveAsync(SaveOptions, CancellationToken) {#saveasync}
 
-يحفظ الوثيقة مع خيارات الحفظ.
+يحفظ المستند باستخدام خيارات الحفظ.
 
 ```csharp
 public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | SaveOptions | خيارات الحفظ. |
 | cancellationToken | CancellationToken | رمز الإلغاء. |
@@ -112,15 +145,15 @@ public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
 
 ## SaveAsync(string, SaveFormat, CancellationToken) {#saveasync_4}
 
-يحفظ الوثيقة باسم جديد مع تنسيق ملف.
+يحفظ المستند باسم جديد مع تنسيق الملف.
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToken cancellationToken)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFileName | String | مسار الملف الذي ستخزن فيه الوثيقة. |
+| outputFileName | String | المسار إلى الملف حيث سيتم تخزين المستند. |
 | format | SaveFormat | خيارات التنسيق. |
 | cancellationToken | CancellationToken | رمز الإلغاء. |
 
@@ -139,17 +172,17 @@ public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToke
 
 ## SaveAsync(Stream, SaveFormat, CancellationToken) {#saveasync_1}
 
-يحفظ الوثيقة باسم جديد مع تنسيق ملف.
+يحفظ المستند باسم جديد مع تنسيق الملف.
 
 ```csharp
 public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken cancellationToken)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التدفق الذي ستخزن فيه الوثيقة. |
+| outputStream | Stream | دفق حيث سيتم تخزين المستند. |
 | format | SaveFormat | خيارات التنسيق. |
-| cancellationToken | CancellationToken | رمز الإلغاء. |
+| cancellationToken | CancellationToken | رمز الإلغاء |
 
 ### قيمة الإرجاع
 
@@ -157,9 +190,9 @@ public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken 
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ArgumentException عند تمرير [`HtmlSaveOptions`](../../htmlsaveoptions/) إلى طريقة. حفظ الوثيقة إلى تدفق HTML غير مدعوم. يرجى استخدام طريقة الحفظ إلى الملف. |
+| ArgumentException | ArgumentException عندما يتم تمرير [`HtmlSaveOptions`](../../htmlsaveoptions/) إلى طريقة. حفظ المستند إلى تدفق html غير مدعوم. يرجى استخدام طريقة الحفظ إلى الملف. |
 
 ### انظر أيضًا
 
@@ -172,16 +205,16 @@ public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken 
 
 ## SaveAsync(string, SaveOptions, CancellationToken) {#saveasync_5}
 
-يحفظ الوثيقة باسم جديد مع تعيين خيارات الحفظ الخاصة به.
+يحفظ المستند باسم جديد مع تعيين خيارات الحفظ الخاصة به.
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveOptions options, 
     CancellationToken cancellationToken)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFileName | String | مسار الملف الذي ستخزن فيه الوثيقة. |
+| outputFileName | String | المسار إلى الملف حيث سيتم تخزين المستند. |
 | options | SaveOptions | خيارات الحفظ. |
 | cancellationToken | CancellationToken | رمز الإلغاء. |
 
@@ -196,35 +229,4 @@ public Task SaveAsync(string outputFileName, SaveOptions options,
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
----
 
-## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
-
-يحفظ الوثيقة إلى تدفق مع خيارات الحفظ.
-
-```csharp
-public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
-```
-
-| المعامل | النوع | الوصف |
-| --- | --- | --- |
-| outputStream | Stream | التدفق الذي ستخزن فيه الوثيقة. |
-| options | SaveOptions | خيارات الحفظ. |
-| cancellationToken | CancellationToken | رمز الإلغاء. |
-
-### قيمة الإرجاع
-
-مهمة غير متزامنة.
-
-### الاستثناءات
-
-| الاستثناء | الشرط |
-| --- | --- |
-| ArgumentException | ArgumentException عند تمرير [`HtmlSaveOptions`](../../htmlsaveoptions/) إلى طريقة. حفظ الوثيقة إلى تدفق HTML غير مدعوم. يرجى استخدام طريقة الحفظ إلى الملف. |
-
-### انظر أيضًا
-
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)

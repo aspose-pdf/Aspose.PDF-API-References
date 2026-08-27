@@ -1,29 +1,31 @@
 ---
-title: ChatMessage.FromAssistant
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ChatMessage. تنشئ كائن ChatMessage جديد يمثل رسالة مساعد
+title: "ChatMessage.FromAssistant"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ChatMessage. تنشئ كائن ChatMessage جديد يمثل رسالة مساعد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/chatmessage/fromassistant/
 ---
-## طريقة ChatMessage.FromAssistant
+## ChatMessage.FromAssistant method
 
-تنشئ كائن ChatMessage جديد يمثل رسالة مساعد.
+ينشئ كائناً جديداً من نوع ChatMessage يمثل رسالة المساعد.
 
 ```csharp
 public static ChatMessage FromAssistant(string content)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| المحتوى | سلسلة | محتويات الرسالة. |
+| المحتوى | String | محتوى الرسالة. |
 
 ### قيمة الإرجاع
 
-كائن جديد [`ChatMessage`](../) بالمحتوى المحدد ودور المساعد.
+كائن [`ChatMessage`](../) جديد بالمحتوى المحدد ودور المساعد.
 
 ### انظر أيضًا
 
-* الفئة [ChatMessage](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

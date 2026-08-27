@@ -1,12 +1,12 @@
 ---
-title: XfdfReader.ReadAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XfdfReader. استيراد التعليقات التوضيحية من ملف XFDF ووضعها في المستند
+title: "XfdfReader.ReadAnnotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XfdfReader. استيراد التعليقات التوضيحية من ملف XFDF ووضعها في المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/xfdfreader/readannotations/
 ---
-## طريقة XfdfReader.ReadAnnotations
+## XfdfReader.ReadAnnotations method
 
 استيراد التعليقات التوضيحية من ملف XFDF ووضعها في المستند.
 
@@ -14,10 +14,10 @@ url: /ar/net/aspose.pdf.annotations/xfdfreader/readannotations/
 public static void ReadAnnotations(Stream stream, Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق المصدر الذي يحتوي على ملف XFDF. |
-| document | Document | المستند الذي ستضاف إليه التعليقات التوضيحية. |
+| stream | Stream | دفق المصدر يحتوي على ملف XFDF. |
+| document | Document | المستند الذي ستُضاف إليه التعليقات التوضيحية. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public static void ReadAnnotations(Stream stream, Document document)
 * class [XfdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

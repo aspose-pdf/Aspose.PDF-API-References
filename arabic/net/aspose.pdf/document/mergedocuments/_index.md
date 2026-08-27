@@ -1,23 +1,23 @@
 ---
-title: Document.MergeDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المستند. دمج المستندات
+title: "Document.MergeDocuments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. دمج المستندات."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/document/mergedocuments/
 ---
 ## MergeDocuments(MergeOptions, params string[]) {#mergedocuments_2}
 
-دمج المستندات.
+يدمج المستندات.
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params string[] files)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | خيارات الدمج. |
-| files | String[] | ملفات pdf التي سيتم دمجها. |
+| الملفات | String[] | ملفات pdf للدمج. |
 
 ### قيمة الإرجاع
 
@@ -34,16 +34,16 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params string[]
 
 ## MergeDocuments(MergeOptions, params Document[]) {#mergedocuments_1}
 
-دمج المستندات.
+يدمج المستندات.
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params Document[] files)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | mergeOptions | MergeOptions |  |
-| files | Document[] | المستندات التي سيتم دمجها. |
+| الملفات | Document[] | المستندات للدمج. |
 
 ### قيمة الإرجاع
 
@@ -60,15 +60,15 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params Document
 
 ## MergeDocuments(params string[]) {#mergedocuments_3}
 
-دمج ملفات pdf.
+يدمج ملفات pdf.
 
 ```csharp
 public static Document MergeDocuments(params string[] files)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| files | String[] | ملفات pdf التي سيتم دمجها. |
+| الملفات | String[] | ملفات pdf للدمج. |
 
 ### قيمة الإرجاع
 
@@ -84,15 +84,15 @@ public static Document MergeDocuments(params string[] files)
 
 ## MergeDocuments(params Document[]) {#mergedocuments}
 
-دمج المستندات.
+يدمج المستندات.
 
 ```csharp
 public static Document MergeDocuments(params Document[] documents)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| documents | Document[] | المستندات التي سيتم دمجها. |
+| المستندات | Document[] | المستندات للدمج. |
 
 ### قيمة الإرجاع
 
@@ -103,3 +103,5 @@ public static Document MergeDocuments(params Document[] documents)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

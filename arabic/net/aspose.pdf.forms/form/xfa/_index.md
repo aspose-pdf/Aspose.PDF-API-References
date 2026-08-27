@@ -1,12 +1,12 @@
 ---
-title: Form.XFA
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. يحصل على بيانات XFA للنموذج إذا كانت موجودة
+title: "Form.XFA"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تحصل على بيانات XFA للنموذج إذا كانت موجودة"
 type: docs
-weight: 170
+weight: 190
 url: /ar/net/aspose.pdf.forms/form/xfa/
 ---
-## خاصية Form.XFA
+## Form.XFA property
 
 يحصل على بيانات XFA للنموذج (إذا كانت موجودة).
 
@@ -20,3 +20,5 @@ public XFA XFA { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

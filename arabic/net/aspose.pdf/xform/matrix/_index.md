@@ -1,14 +1,14 @@
 ---
-title: XForm.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XForm. تحصل أو تعين مصفوفة الشكل
+title: "XForm.Matrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XForm. يحصل على أو يضبط مصفوفة النموذج"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/xform/matrix/
 ---
-## خاصية XForm.Matrix
+## XForm.Matrix property
 
-تحصل أو تعين مصفوفة الشكل.
+يحصل أو يعيّن مصفوفة النموذج.
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -20,3 +20,5 @@ public Matrix Matrix { get; set; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

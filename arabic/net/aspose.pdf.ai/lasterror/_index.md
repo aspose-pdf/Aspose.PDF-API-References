@@ -1,33 +1,35 @@
 ---
-title: Class LastError
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.LastError. آخر خطأ مرتبط بهذا التشغيل. سيكون فارغًا إذا لم يكن هناك أخطاء
+title: "الفئة LastError"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.LastError. الخطأ الأخير المرتبط بهذه العملية. سيكون فارغًا إذا لم يكن هناك أخطاء"
 type: docs
-weight: 660
+weight: 710
 url: /ar/net/aspose.pdf.ai/lasterror/
 ---
 ## LastError class
 
-آخر خطأ مرتبط بهذا التشغيل. سيكون فارغًا إذا لم يكن هناك أخطاء.
+الخطأ الأخير المرتبط بهذه العملية. سيكون فارغًا إذا لم تكن هناك أخطاء.
 
 ```csharp
 public class LastError
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [LastError](lasterror/)() | المُنشئ الافتراضي. |
+| [LastError](lasterror/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Code](../../aspose.pdf.ai/lasterror/code/) { get; set; } | يحصل أو يحدد أحد القيم server_error أو rate_limit_exceeded أو invalid_prompt. |
-| [Message](../../aspose.pdf.ai/lasterror/message/) { get; set; } | يحصل أو يحدد وصفًا يمكن قراءته من قبل الإنسان للخطأ. |
+| [Code](../../aspose.pdf.ai/lasterror/code/) { get; set; } | يحصل أو يضبط أحد القيم: server_error، rate_limit_exceeded، أو invalid_prompt. |
+| [Message](../../aspose.pdf.ai/lasterror/message/) { get; set; } | يحصل أو يضبط وصفًا قابلًا للقراءة البشرية للخطأ. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

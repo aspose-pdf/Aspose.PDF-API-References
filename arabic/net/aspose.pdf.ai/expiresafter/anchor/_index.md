@@ -1,14 +1,14 @@
 ---
-title: ExpiresAfter.Anchor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ExpiresAfter. تحصل أو تعين الطابع الزمني للمرساة الذي بعده تنطبق سياسة انتهاء الصلاحية.
+title: "ExpiresAfter.Anchor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ExpiresAfter property. يحصل أو يعيّن طابع الوقت للمرساة بعد تطبيق سياسة الانتهاء. المرساة المدعومة last_active_at"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/expiresafter/anchor/
 ---
-## خاصية ExpiresAfter.Anchor
+## ExpiresAfter.Anchor property
 
-تحصل أو تعين الطابع الزمني للمرساة الذي بعده تنطبق سياسة انتهاء الصلاحية. المراسي المدعومة: last_active_at.
+يحصل أو يعيّن طابع الوقت المرجعي الذي بعده تُطبق سياسة الانتهاء. المراجع المدعومة: last_active_at.
 
 ```csharp
 public string Anchor { get; set; }
@@ -19,3 +19,5 @@ public string Anchor { get; set; }
 * class [ExpiresAfter](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

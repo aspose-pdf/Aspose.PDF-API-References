@@ -1,14 +1,14 @@
 ---
-title: Matrix.B
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Matrix. عضو B من مصفوفة التحويل
+title: "Matrix.B"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Matrix. العنصر B من مصفوفة التحويل"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/matrix/b/
 ---
-## خاصية Matrix.B
+## Matrix.B property
 
-عضو B من مصفوفة التحويل.
+العنصر B في مصفوفة التحويل.
 
 ```csharp
 public double B { get; set; }
@@ -19,3 +19,5 @@ public double B { get; set; }
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

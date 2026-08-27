@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextExtractionError. وصف موجز للخطأ
+title: "TextExtractionError.Summary"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextExtractionError. وصف مختصر للخطأ"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textextractionerror/summary/
 ---
-## خاصية TextExtractionError.Summary
+## TextExtractionError.Summary property
 
-وصف موجز للخطأ.
+وصف مختصر للخطأ.
 
 ```csharp
 public string Summary { get; }
@@ -19,3 +19,5 @@ public string Summary { get; }
 * class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

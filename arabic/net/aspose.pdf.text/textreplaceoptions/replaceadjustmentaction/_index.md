@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.ReplaceAdjustmentAction
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextReplaceOptions. تحصل أو تعين إجراء سيتم القيام به بعد استبدال جزء النص إلى نص أقصر
+title: "TextReplaceOptions.ReplaceAdjustmentAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextReplaceOptions. يحصل أو يضبط الإجراء الذي سيتم بعد استبدال جزء النص إلى أقصر"
 type: docs
-weight: 50
+weight: 70
 url: /ar/net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/
 ---
-## خاصية TextReplaceOptions.ReplaceAdjustmentAction
+## TextReplaceOptions.ReplaceAdjustmentAction property
 
-تحصل أو تعين إجراء سيتم القيام به بعد استبدال جزء النص إلى نص أقصر.
+يحصل أو يعيّن الإجراء الذي سيتم بعد استبدال جزء النص ليصبح أقصر.
 
 ```csharp
 public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }
@@ -20,3 +20,5 @@ public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

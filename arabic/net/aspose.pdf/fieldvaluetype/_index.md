@@ -1,29 +1,31 @@
 ---
-title: Enum FieldValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldValueType enum. يمثل نوع قيمة حقل في مجموعة المخطط
+title: "تعداد FieldValueType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.FieldValueType. يمثل نوع قيمة الحقل في مجموعة المخطط"
 type: docs
-weight: 4810
+weight: 4930
 url: /ar/net/aspose.pdf/fieldvaluetype/
 ---
 ## FieldValueType enumeration
 
-يمثل نوع قيمة حقل في مجموعة المخطط.
+يمثل نوع قيمة الحقل في مجموعة المخطط.
 
 ```csharp
 public enum FieldValueType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | يمثل قيمة لنوع غير محدد. |
-| Text | `1` | يمثل نوع نص. |
-| Number | `2` | يمثل نوع رقم. |
-| Date | `3` | يمثل نوع تاريخ. |
+| None | `0` | يمثل قيمة لنوع غير معرف. |
+| Text | `1` | يمثل نوع النص. |
+| Number | `2` | يمثل نوع الرقم. |
+| Date | `3` | يمثل نوع التاريخ. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

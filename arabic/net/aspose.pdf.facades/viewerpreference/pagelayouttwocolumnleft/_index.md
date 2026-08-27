@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageLayoutTwoColumnLeft
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. عرض الصفحات في عمودين مع الصفحات ذات الأرقام الفردية على اليمين
+title: "ViewerPreference.PageLayoutTwoColumnLeft"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. عرض الصفحات في عمودين مع الصفحات ذات الأرقام الفردية على اليمين"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnleft/
 ---
-## حقل ViewerPreference.PageLayoutTwoColumnLeft
+## ViewerPreference.PageLayoutTwoColumnLeft field
 
-عرض الصفحات في عمودين، مع الصفحات ذات الأرقام الفردية على اليمين
+اعرض الصفحات في عمودين، مع الصفحات ذات الأرقام الفردية على اليمين
 
 ```csharp
 public const int PageLayoutTwoColumnLeft;
@@ -19,3 +19,5 @@ public const int PageLayoutTwoColumnLeft;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

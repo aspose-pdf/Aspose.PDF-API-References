@@ -1,14 +1,14 @@
 ---
-title: ImageCompressionOptions.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية خياراتضغطالصورة. تحصل أو تعين الترميز المستخدم لتخزين الصور
+title: "ImageCompressionOptions.Encoding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageCompressionOptions. تحصل أو تعين الترميز المستخدم لتخزين الصور"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.optimization/imagecompressionoptions/encoding/
 ---
-## خاصية خياراتضغطالصورة.Encoding
+## ImageCompressionOptions.Encoding property
 
-تحصل أو تعين الترميز المستخدم لتخزين الصور.
+Gets أو sets encoding المستخدم لتخزين images.
 
 ```csharp
 public ImageEncoding Encoding { get; set; }
@@ -20,3 +20,5 @@ public ImageEncoding Encoding { get; set; }
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

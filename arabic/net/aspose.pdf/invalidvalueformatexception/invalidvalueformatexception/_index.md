@@ -1,14 +1,14 @@
 ---
-title: InvalidValueFormatException.InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ InvalidValueFormatException. يقوم بتهيئة مثيل جديد من فئة InvalidValueFormatException
+title: "InvalidValueFormatException.InvalidValueFormatException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ InvalidValueFormatException. يهيئ مثيلاً جديداً لفئة InvalidValueFormatException."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`InvalidValueFormatException`](../).
+يهيئ مثيلاً جديداً للفئة [`InvalidValueFormatException`](../).
 
 ```csharp
 public InvalidValueFormatException()
@@ -16,26 +16,28 @@ public InvalidValueFormatException()
 
 ### انظر أيضًا
 
-* فئة [InvalidValueFormatException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [InvalidValueFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidValueFormatException(string) {#constructor_1}
 
-المنشئ.
+منشئ.
 
 ```csharp
 public InvalidValueFormatException(string message)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الاستثناء. |
+| رسالة | String | رسالة الاستثناء. |
 
 ### انظر أيضًا
 
-* فئة [InvalidValueFormatException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [InvalidValueFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

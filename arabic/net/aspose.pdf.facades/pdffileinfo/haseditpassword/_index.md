@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.HasEditPassword
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تُرجع true إذا كانت كلمة المرور مطلوبة لتعديل الأذونات أو خاصية أمان المستند. انتبه إلى أنه يمكن قراءة هذه الخاصية فقط إذا تم توفير كلمة مرور صالحة في مُنشئ PdfFileInfo. في حالة كون PasswordType غير قابل للوصول، فهذا يعني أنه تم توفير كلمة مرور غير صالحة، وستفشل قراءة هذه الخاصية مع InvalidPasswordException.
+title: "PdfFileInfo.HasEditPassword"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تُعيد true إذا كان هناك حاجة إلى كلمة مرور لتعديل الأذونات أو خاصية أمان المستند. انتبه إلى أن هذه الخاصية يمكن قراءتها فقط إذا تم توفير كلمة مرور صالحة في مُنشئ PdfFileInfo. في حالة أن PasswordType هو Inaccessible يعني أنه تم توفير كلمة مرور غير صالحة، قراءة هذه الخاصية ستفشل مع InvalidPasswordException"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdffileinfo/haseditpassword/
 ---
-## خاصية PdfFileInfo.HasEditPassword
+## PdfFileInfo.HasEditPassword property
 
-تُرجع true إذا كانت كلمة المرور مطلوبة لتعديل الأذونات أو خاصية أمان المستند. انتبه إلى أنه يمكن قراءة هذه الخاصية فقط إذا تم توفير كلمة مرور صالحة في [`PdfFileInfo`](../) مُنشئ. في حالة كون PasswordType غير قابل للوصول (يعني أنه تم توفير كلمة مرور غير صالحة) ستفشل قراءة هذه الخاصية مع [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/).
+تُعيد true إذا كان هناك حاجة إلى كلمة مرور لتعديل الأذونات أو خاصية أمان المستند. انتبه إلى أن هذه الخاصية يمكن قراءتها فقط إذا تم توفير كلمة مرور صالحة في مُنشئ [`PdfFileInfo`](../). في حالة أن PasswordType هو Inaccessible (يعني أنه تم توفير كلمة مرور غير صالحة) فإن قراءة هذه الخاصية ستفشل مع [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/).
 
 ```csharp
 public bool HasEditPassword { get; }
@@ -19,3 +19,5 @@ public bool HasEditPassword { get; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

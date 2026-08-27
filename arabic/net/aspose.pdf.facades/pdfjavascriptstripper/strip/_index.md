@@ -1,29 +1,29 @@
 ---
-title: PdfJavaScriptStripper.Strip
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfJavaScriptStripper. إزالة جافا سكريبت من المستند
+title: "PdfJavaScriptStripper.Strip"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfJavaScriptStripper. إزالة Java Script من المستند"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdfjavascriptstripper/strip/
 ---
 ## Strip(string, string) {#strip_1}
 
-إزالة جافا سكريبت من المستند.
+إزالة Java Script من المستند.
 
 ```csharp
 public bool Strip(string inputFile, string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | ملف يحتوي على المستند. |
-| outputFile | String | ملف سيتم تخزين المستند فيه. |
+| inputFile | String | الملف الذي يحتوي على المستند. |
+| outputFile | String | الملف حيث سيتم تخزين المستند. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم إزالة جافا سكريبت بنجاح.
+صحيح إذا تم إزالة JavaScript بنجاح.
 
-### See Also
+### انظر أيضًا
 
 * class [PdfJavaScriptStripper](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -33,23 +33,25 @@ true إذا تم إزالة جافا سكريبت بنجاح.
 
 ## Strip(Stream, Stream) {#strip}
 
-إزالة جافا سكريبت من المستند.
+إزالة Java Script من المستند.
 
 ```csharp
 public bool Strip(Stream inStream, Stream outStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inStream | Stream | دفق يحتوي على المستند. |
-| outStream | Stream | دفق سيتم تخزين المستند فيه. |
+| outStream | Stream | دفق حيث سيتم تخزين المستند. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم إزالة جافا سكريبت بنجاح.
+صحيح إذا تم إزالة JavaScript بنجاح.
 
-### See Also
+### انظر أيضًا
 
 * class [PdfJavaScriptStripper](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

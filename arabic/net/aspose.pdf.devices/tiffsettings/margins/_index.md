@@ -1,14 +1,14 @@
 ---
-title: TiffSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffSettings. تحصل على الهوامش
+title: "TiffSettings.Margins"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffSettings. تحصل على الهوامش"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.devices/tiffsettings/margins/
 ---
-## خاصية TiffSettings.Margins
+## TiffSettings.Margins property
 
-تحصل على الهوامش.
+يحصل على الهوامش.
 
 ```csharp
 public Margins Margins { get; }
@@ -20,3 +20,5 @@ public Margins Margins { get; }
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,31 +1,33 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.BoxStyle enum. يمثل الأنماط لرسم علامة في مربع الاختيار
+title: "التعداد BoxStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Forms.BoxStyle. يمثل الأنماط لرسم علامة الاختيار داخل مربع الاختيار"
 type: docs
-weight: 4960
+weight: 5080
 url: /ar/net/aspose.pdf.forms/boxstyle/
 ---
 ## BoxStyle enumeration
 
-يمثل الأنماط لرسم علامة في مربع الاختيار.
+يمثل الأنماط لرسم علامة الاختيار في مربع الاختيار.
 
 ```csharp
 public enum BoxStyle
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Circle | `0` | نمط دائرة. |
-| Check | `1` | نمط علامة. |
-| Cross | `2` | نمط صليب. |
-| Diamond | `3` | نمط ماسة. |
-| Square | `4` | نمط مربع. |
-| Star | `5` | نمط نجمة. |
+| Circle | `0` | نمط الدائرة. |
+| Check | `1` | نمط العلامة. |
+| Cross | `2` | نمط الصليب. |
+| Diamond | `3` | نمط الماسة. |
+| Square | `4` | نمط المربع. |
+| Star | `5` | نمط النجمة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

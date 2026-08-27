@@ -1,7 +1,7 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.Value
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ProgressEventHandlerInfo. القيمة الحالية لقيمة التقدم
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ProgressEventHandlerInfo. القيمة الحالية لتقدم العملية."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/
@@ -14,8 +14,10 @@ url: /ar/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/
 public int Value;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

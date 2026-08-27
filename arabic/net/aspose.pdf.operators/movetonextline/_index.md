@@ -1,41 +1,43 @@
 ---
-title: Class MoveToNextLine
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.MoveToNextLine. فئة تمثل عامل T الانتقال إلى بداية السطر التالي
+title: "فئة MoveToNextLine"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.MoveToNextLine فئة. فئة تمثل مشغل T للانتقال إلى بداية السطر التالي"
 type: docs
-weight: 7510
+weight: 7650
 url: /ar/net/aspose.pdf.operators/movetonextline/
 ---
 ## MoveToNextLine class
 
-فئة تمثل مشغل T* (الانتقال إلى بداية السطر التالي).
+الفئة التي تمثل المشغل T* (الانتقال إلى بداية السطر التالي).
 
 ```csharp
 public class MoveToNextLine : TextPlaceOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MoveToNextLine](movetonextline/)() | Initializes operator. |
+| [MoveToNextLine](movetonextline/)() | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextline/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/movetonextline/tostring/)() | يعيد نص المشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/movetonextline/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/movetonextline/tostring/)() | يرجع نص المشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextPlaceOperator](../textplaceoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

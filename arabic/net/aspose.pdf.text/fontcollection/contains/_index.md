@@ -1,28 +1,28 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontCollection. تتحقق مما إذا كانت الخط موجودًا في مجموعة الخطوط
+title: "FontCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontCollection. تتحقق مما إذا كان الخط موجودًا في مجموعة الخطوط"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/fontcollection/contains/
 ---
 ## Contains(string) {#contains_1}
 
-تتحقق مما إذا كان الخط موجودًا في مجموعة الخطوط.
+يتحقق مما إذا كان الخط موجودًا في مجموعة الخطوط.
 
 ```csharp
 public bool Contains(string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الخط. |
+| الاسم | String | اسم الخط. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح في حالة احتواء المجموعة على الخط بالاسم المحدد.
+صحيح في حال كانت المجموعة تحتوي على الخط بالاسم المحدد.
 
-### See Also
+### انظر أيضًا
 
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -32,23 +32,25 @@ public bool Contains(string name)
 
 ## Contains(Font) {#contains}
 
-تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة.
+يحدد ما إذا كانت المجموعة تحتوي على قيمة محددة.
 
 ```csharp
 public bool Contains(Font item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | Font | الكائن الذي يجب تحديد موقعه في المجموعة |
+| item | Font | The object to locate in the collection |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا تم العثور على العنصر في المجموعة؛ خلاف ذلك، خطأ.
+true if item is found in the collection; otherwise, false.
 
-### See Also
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

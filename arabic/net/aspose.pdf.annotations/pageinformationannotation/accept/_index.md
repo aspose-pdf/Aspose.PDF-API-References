@@ -1,22 +1,22 @@
 ---
-title: PageInformationAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageInformationAnnotation. تقبل الزائر لمعالجة التعليقات
+title: "PageInformationAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageInformationAnnotation. تقبل الزائر لمعالجة التعليقات التوضيحية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/pageinformationannotation/accept/
 ---
-## طريقة PageInformationAnnotation.Accept
+## PageInformationAnnotation.Accept method
 
-تقبل الزائر لمعالجة التعليقات.
+يقبل الزائر لمعالجة التعليق التوضيحي.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن AnnotationSelector. |
+| زائر | AnnotationSelector | كائن AnnotationSelector. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [PageInformationAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

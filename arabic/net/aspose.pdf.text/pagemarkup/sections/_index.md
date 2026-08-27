@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.Sections
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageMarkup. تحصل على مجموعة من MarkupSection التي تم العثور عليها في الصفحة
+title: "PageMarkup.Sections"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageMarkup. يحصل على مجموعة من MarkupSection التي تم العثور عليها في الصفحة."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/pagemarkup/sections/
 ---
-## خاصية PageMarkup.Sections
+## PageMarkup.Sections property
 
-تحصل على مجموعة من [`MarkupSection`](../../markupsection/) التي تم العثور عليها في الصفحة.
+يحصل على مجموعة من [`MarkupSection`](../../markupsection/) التي تم العثور عليها في الصفحة.
 
 ```csharp
 public List<MarkupSection> Sections { get; }
@@ -20,3 +20,5 @@ public List<MarkupSection> Sections { get; }
 * class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: XImageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImageCollection. تزيل العنصر من المجموعة وتثير NotImplementedException
+title: "XImageCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImageCollection. يزيل العنصر من المجموعة ويطرح استثناء NotImplementedException"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/ximagecollection/remove/
 ---
-## طريقة XImageCollection.Remove
+## XImageCollection.Remove method
 
-تزيل العنصر من المجموعة، وتثير NotImplementedException.
+يزيل العنصر من المجموعة، يرمي NotImplementedException.
 
 ```csharp
 public bool Remove(XImage item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | XImage | العنصر الذي سيتم إزالته. |
+| item | XImage | العنصر المراد إزالته. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ NotImplementedException
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: Aspose.Pdf.DataEditor
-second_title: Aspose.PDF for .NET API Reference
-description: يحتوي Aspose.Pdf.DataEditor على أدوات لتحرير البيانات داخل مستند
+title: "Aspose.Pdf.DataEditor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "يحتوي Aspose.Pdf.DataEditor على أدوات لتحرير البيانات داخل مستند"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.dataeditor/
 ---
-تحتوي **Aspose.Pdf.DataEditor** على أدوات لتحرير البيانات داخل مستند.
+تحتوي **Aspose.Pdf.DataEditor** على أدوات لتحرير البيانات داخل المستند.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [CosPdfBoolean](./cospdfboolean/) | تمثل هذه الفئة نوع البيانات المنطقية. |
-| [CosPdfDictionary](./cospdfdictionary/) | فئة للوصول إلى قاموس كائن. |
-| [CosPdfName](./cospdfname/) | تمثل هذه الفئة كائن اسم Pdf. |
-| [CosPdfNumber](./cospdfnumber/) | تمثل هذه الفئة نوع رقم Pdf. |
-| [CosPdfPrimitive](./cospdfprimitive/) | تمثل هذه الفئة النوع العام الأساسي [`CosPdfPrimitive`](../aspose.pdf.dataeditor/cospdfprimitive/). |
-| [CosPdfString](./cospdfstring/) | تمثل هذه الفئة كائن سلسلة Pdf. |
-| [DictionaryEditor](./dictionaryeditor/) | فئة للوصول إلى قاموس شجرة المستند (قاموس المستند، قاموس الصفحة، قاموس الموارد). |
+| [CosPdfBoolean](./cospdfboolean/) | هذه الفئة تمثل نوعًا منطقيًا |
+| [CosPdfDictionary](./cospdfdictionary/) | فئة للوصول إلى قاموس كائن |
+| [CosPdfName](./cospdfname/) | هذه الفئة تمثل كائن اسم Pdf |
+| [CosPdfNumber](./cospdfnumber/) | هذه الفئة تمثل نوع رقم Pdf |
+| [CosPdfPrimitive](./cospdfprimitive/) | هذه الفئة تمثل النوع العام الأساسي [`CosPdfPrimitive`](../aspose.pdf.dataeditor/cospdfprimitive/). |
+| [CosPdfString](./cospdfstring/) | هذه الفئة تمثل كائن سلسلة Pdf |
+| [DictionaryEditor](./dictionaryeditor/) | فئة للوصول إلى شجرة القاموس الخاصة بالمستند (قاموس المستند، قاموس الصفحة، قاموس الموارد) |
 ## الواجهات
 
-| الواجهة | الوصف |
+| واجهة | الوصف |
 | --- | --- |
 | [ICosPdfPrimitive](./icospdfprimitive/) | واجهة للعمل مع كيان بيانات PDF |
+
+

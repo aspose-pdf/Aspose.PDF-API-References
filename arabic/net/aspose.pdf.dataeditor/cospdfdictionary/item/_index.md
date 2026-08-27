@@ -1,38 +1,40 @@
 ---
-title: CosPdfDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CosPdfDictionary. يحصل على العنصر أو يضبطه باستخدام المفتاح المحدد
+title: "CosPdfDictionary.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CosPdfDictionary. تحصل على العنصر بالمفتاح المحدد أو تعينه."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.dataeditor/cospdfdictionary/item/
 ---
-## فهرس CosPdfDictionary
+## CosPdfDictionary indexer
 
-يحصل على العنصر أو يضبطه باستخدام المفتاح المحدد.
+يحصل أو يضبط العنصر بالمفتاح المحدد.
 
 ```csharp
 public ICosPdfPrimitive this[string key] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| key | المفتاح الخاص بالعنصر الذي سيتم الحصول عليه أو ضبطه. |
+| المفتاح | المفتاح للعنصر المراد الحصول عليه أو تعيينه. |
 
 ### قيمة الإرجاع
 
-العنصر الذي يحمل المفتاح المحدد.
+العنصر بالمفتاح المحدد.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | المفتاح فارغ. |
-| KeyNotFoundException | تم استرجاع الخاصية والمفتاح غير موجود. |
-| ArgumentException | إلقاء استثناء إذا لم يكن بالإمكان تعديل/ضبط المفتاح. |
+| ArgumentNullException | المفتاح هو null. |
+| KeyNotFoundException | يتم استرجاع الخاصية ولا يتم العثور على المفتاح. |
+| ArgumentException | ارمِ استثناءً إذا تعذر تعديل/تعيين المفتاح. |
 
 ### انظر أيضًا
 
-* الواجهة [ICosPdfPrimitive](../../icospdfprimitive/)
-* الفئة [CosPdfDictionary](../)
-* مساحة الاسم [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

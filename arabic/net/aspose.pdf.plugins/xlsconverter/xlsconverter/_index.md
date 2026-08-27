@@ -1,14 +1,14 @@
 ---
-title: XlsConverter.XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XlsConverter. المُنشئ الافتراضي
+title: "XlsConverter.XlsConverter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XlsConverter. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/xlsconverter/xlsconverter/
 ---
-## مُنشئ XlsConverter
+## XlsConverter constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public XlsConverter()
@@ -19,3 +19,5 @@ public XlsConverter()
 * class [XlsConverter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

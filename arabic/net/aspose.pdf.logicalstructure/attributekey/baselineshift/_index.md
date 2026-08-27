@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BaselineShift
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية BaselineShift مالك خاصية التخطيط
+title: "AttributeKey.BaselineShift"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة BaselineShift سمة Layout مالك السمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/baselineshift/
 ---
-## حقل AttributeKey.BaselineShift
+## AttributeKey.BaselineShift field
 
-خاصية BaselineShift (مالك خاصية التخطيط).
+خاصية BaselineShift (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey BaselineShift;
@@ -19,3 +19,5 @@ public static readonly AttributeKey BaselineShift;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

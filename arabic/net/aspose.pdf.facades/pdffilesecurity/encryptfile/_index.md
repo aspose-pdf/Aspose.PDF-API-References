@@ -1,32 +1,32 @@
 ---
-title: PdfFileSecurity.EncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSecurity. تشفر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك وتحدد صلاحيات الوصول إلى المستندات. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. يتم إلقاء استثناء إذا فشل العملية
+title: "PdfFileSecurity.EncryptFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSecurity. تشفر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك وتحدد امتيازات المستند للوصول. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. يطرح استثناءً إذا فشلت العملية."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/encryptfile/
 ---
 ## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
-تشفر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك وتحدد صلاحيات الوصول إلى المستند. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. يتم إلقاء استثناء إذا فشل العملية.
+يشفّر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك ويضبط صلاحيات الوصول للمستند. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. يرمي استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
     KeySize keySize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | userPassword | String | كلمة مرور المستخدم. |
 | ownerPassword | String | كلمة مرور المالك. |
-| privilege | DocumentPrivilege | تعيين الصلاحية. |
-| keySize | KeySize | KeySize.x40 لتشفير 40 بت، KeySize.x128 لتشفير 128 بت و KeySize.x256 لتشفير 256 بت. |
+| امتياز | DocumentPrivilege | تعيين الامتياز. |
+| keySize | KeySize | KeySize.x40 للتشفير 40 بت، KeySize.x128 للتشفير 128 بت وKeySize.x256 للتشفير 256 بت. |
 
-### Return Value
+### قيمة الإرجاع
 
-True للنجاح.
+صحيح للنجاح.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -42,7 +42,7 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -54,26 +54,26 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
-تشفر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك وتحدد صلاحيات الوصول إلى المستند. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. هناك 6 تركيبات ممكنة من قيم KeySize و Algorithm. ومع ذلك (KeySize.x40، Algorithm.AES) و (KeySize.x256، Algorithm.RC4) غير صالحة وسيتم رفع استثناء إذا واجهت المجموعة هذا. يتم إلقاء استثناء إذا فشل العملية.
+يشفّر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك ويضبط صلاحيات الوصول للمستند. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. هناك 6 تركيبات محتملة لقيم KeySize و Algorithm. ومع ذلك، التركيبة (KeySize.x40, Algorithm.AES) و (KeySize.x256, Algorithm.RC4) غير صالحة وسيتم رفع استثناء مناسب إذا واجهت الأداة هذه التركيبة. يرمي استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
     KeySize keySize, Algorithm cipher)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | userPassword | String | كلمة مرور المستخدم. |
 | ownerPassword | String | كلمة مرور المالك. |
-| privilege | DocumentPrivilege | تعيين الصلاحية. |
-| keySize | KeySize | KeySize.x40 لتشفير 40 بت، KeySize.x128 لتشفير 128 بت و KeySize.x256 لتشفير 256 بت. |
-| cipher | Algorithm | Algorithm.AES للتشفير باستخدام خوارزمية AES أو Algorithm.RC4 لتشفير RC4. |
+| امتياز | DocumentPrivilege | تعيين الامتياز. |
+| keySize | KeySize | KeySize.x40 للتشفير 40 بت، KeySize.x128 للتشفير 128 بت وKeySize.x256 للتشفير 256 بت. |
+| شفرة | خوارزمية | Algorithm.AES للتشفير باستخدام خوارزمية AES أو Algorithm.RC4 لتشفير RC4. |
 
-### Return Value
+### قيمة الإرجاع
 
-True للنجاح.
+صحيح للنجاح.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -89,7 +89,7 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -97,3 +97,5 @@ fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

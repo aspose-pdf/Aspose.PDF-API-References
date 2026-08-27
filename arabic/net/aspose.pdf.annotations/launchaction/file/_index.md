@@ -1,14 +1,14 @@
 ---
-title: LaunchAction.File
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LaunchAction. تحصل أو تعين التطبيق الذي سيتم إطلاقه أو الوثيقة التي سيتم فتحها أو طباعتها
+title: "LaunchAction.File"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "LaunchAction خاصية. تحصل أو تعين التطبيق الذي سيُطلق أو المستند الذي سيُفتح أو يُطبع"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/launchaction/file/
 ---
-## خاصية LaunchAction.File
+## LaunchAction.File property
 
-تحصل أو تعين التطبيق الذي سيتم إطلاقه أو الوثيقة التي سيتم فتحها أو طباعتها.
+يحصل أو يضبط التطبيق الذي سيتم تشغيله أو المستند الذي سيتم فتحه أو طباعته.
 
 ```csharp
 public string File { get; set; }
@@ -19,3 +19,5 @@ public string File { get; set; }
 * class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

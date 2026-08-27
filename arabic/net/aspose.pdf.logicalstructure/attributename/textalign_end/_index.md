@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية TextAlign End متوافقة مع الحافة النهائية
+title: "AttributeName.TextAlign_End"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة TextAlign End  محاذاة مع الحافة النهائية"
 type: docs
 weight: 560
 url: /ar/net/aspose.pdf.logicalstructure/attributename/textalign_end/
 ---
-## حقل AttributeName.TextAlign_End
+## AttributeName.TextAlign_End field
 
-خاصية TextAlign: End - متوافقة مع الحافة النهائية.
+السمة TextAlign: End - محاذى مع الحافة النهائية.
 
 ```csharp
 public static readonly AttributeName TextAlign_End;
@@ -19,3 +19,5 @@ public static readonly AttributeName TextAlign_End;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

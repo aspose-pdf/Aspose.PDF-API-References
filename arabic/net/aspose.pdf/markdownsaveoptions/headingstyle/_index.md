@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkdownSaveOptions. تحصل أو تعين نمط العنوان للمستند الناتج
+title: "MarkdownSaveOptions.HeadingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkdownSaveOptions. يحصل أو يضبط نمط العنوان للمستند المُنشأ"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/markdownsaveoptions/headingstyle/
 ---
-## خاصية MarkdownSaveOptions.HeadingStyle
+## MarkdownSaveOptions.HeadingStyle property
 
-تحصل أو تعين نمط العنوان للمستند الناتج.
+يحصل أو يضبط نمط العنوان للمستند المُولَّد.
 
 ```csharp
 public HeadingStyle HeadingStyle { get; set; }
@@ -20,3 +20,5 @@ public HeadingStyle HeadingStyle { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

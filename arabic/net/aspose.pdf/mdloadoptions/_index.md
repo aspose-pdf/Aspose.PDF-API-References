@@ -1,9 +1,9 @@
 ---
-title: Class MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.MdLoadOptions. خيارات التحميل لتحويل تنسيق Markdown
+title: "الفئة MdLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.MdLoadOptions. خيارات التحميل لتحويل تنسيق Markdown"
 type: docs
-weight: 6940
+weight: 7080
 url: /ar/net/aspose.pdf/mdloadoptions/
 ---
 ## MdLoadOptions class
@@ -14,44 +14,44 @@ url: /ar/net/aspose.pdf/mdloadoptions/
 public class MdLoadOptions : LoadOptions
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MdLoadOptions](mdloadoptions/)() | المُنشئ الافتراضي. |
+| [MdLoadOptions](mdloadoptions/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون القيمة `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
-| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | يحصل أو يحدد العلامة التي تحدد أن قواعد @page المعرفة في css ستتجاوز القيم المعرفة في PageInfo. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
+| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | يحصل أو يضبط العلم الذي يحدد أن قواعد @page المعرفة في css ستتجاوز القيم المعرفة في PageInfo. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [PageInfo](../../aspose.pdf/mdloadoptions/pageinfo/) { get; set; } | يحصل أو يحدد معلومات صفحة المستند |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يُرجع WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [PageInfo](../../aspose.pdf/mdloadoptions/pageinfo/) { get; set; } | يحصل أو يضبط معلومات صفحة المستند |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
 
-## Examples
+## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف MD إلى ملف PDF
+المثال التالي يوضح كيفية تحويل ملف MD إلى ملف PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your MD File.
+	// المسار إلى ملف MD الخاص بك.
 	string mdFile = Path.Combine(dataDir, "MD-to-PDF.md");
 
-	// The path to output PDF File.
+	// المسار إلى ملف PDF الناتج.
 	string pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf");
 
-	// Initialize MdLoadOptions	
+	// تهيئة MdLoadOptions	
 	MdLoadOptions mdLoadOptions = new MdLoadOptions();
 		
 	using (Document pdfDocument = new Document(mdFile, mdLoadOptions))
 	{
 	 
-		// Save PDF file
+		// حفظ ملف PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -78,8 +78,10 @@ public class MdLoadOptions : LoadOptions
     End Using
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

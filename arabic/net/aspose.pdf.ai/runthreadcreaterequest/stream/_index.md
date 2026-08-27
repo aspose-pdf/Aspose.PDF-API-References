@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunThreadCreateRequest. يحصل أو يحدد ما إذا كان يجب استخدام البث. إذا كانت القيمة صحيحة، فإنه يعيد تدفقًا من الأحداث التي تحدث أثناء التشغيل كأحداث مرسلة من الخادم، وتنتهي عندما يدخل التشغيل في حالة نهائية مع رسالة بيانات [DONE]
+title: "RunThreadCreateRequest.Stream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunThreadCreateRequest. تحصل أو تعين ما إذا كان سيتم استخدام البث. إذا كان true تُعيد تدفقًا للأحداث التي تحدث أثناء التشغيل كأحداث مُرسَلة من الخادم وتنتهي عندما يدخل التشغيل حالة نهائية مع رسالة بيانات DONE"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/runthreadcreaterequest/stream/
 ---
-## خاصية RunThreadCreateRequest.Stream
+## RunThreadCreateRequest.Stream property
 
-يحصل أو يحدد ما إذا كان يجب استخدام البث. إذا كانت القيمة صحيحة، فإنه يعيد تدفقًا من الأحداث التي تحدث أثناء التشغيل كأحداث مرسلة من الخادم، وتنتهي عندما يدخل التشغيل في حالة نهائية مع رسالة بيانات: [DONE].
+الحصول أو تعيين ما إذا كان سيتم استخدام البث. إذا كان true، يُرجع تدفقًا من الأحداث التي تحدث أثناء التنفيذ كأحداث مُرسلة من الخادم، وينتهي عندما يدخل التنفيذ حالة نهائية برسالة data: [DONE].
 
 ```csharp
 public bool? Stream { get; set; }
@@ -19,3 +19,5 @@ public bool? Stream { get; set; }
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

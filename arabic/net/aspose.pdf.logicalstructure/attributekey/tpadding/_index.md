@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TPadding
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية TPadding مالك خاصية التخطيط
+title: "AttributeKey.TPadding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. TPadding خاصية تخطيط خاصية المالك"
 type: docs
 weight: 390
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/tpadding/
 ---
-## حقل AttributeKey.TPadding
+## AttributeKey.TPadding field
 
-خاصية TPadding (مالك خاصية التخطيط).
+خاصية TPadding (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey TPadding;
@@ -19,3 +19,5 @@ public static readonly AttributeKey TPadding;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

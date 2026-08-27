@@ -1,14 +1,14 @@
 ---
-title: CreateChatCompletionChunkResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateChatCompletionChunkResponse. تحصل أو تعين النموذج لتوليد الإكمال
+title: "CreateChatCompletionChunkResponse.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CreateChatCompletionChunkResponse. يحصل أو يعيّن النموذج لتوليد الإكمال"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/createchatcompletionchunkresponse/model/
 ---
-## خاصية CreateChatCompletionChunkResponse.Model
+## CreateChatCompletionChunkResponse.Model property
 
-تحصل أو تعين النموذج لتوليد الإكمال.
+يحصل أو يعيّن النموذج لتوليد الإكمال.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [CreateChatCompletionChunkResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

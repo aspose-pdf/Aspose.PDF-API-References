@@ -1,14 +1,14 @@
 ---
-title: PclLoadOptions.ConversionEngine
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PclLoadOptions. يحدد محرك التحويل الذي سيتم استخدامه للتحويل
+title: "PclLoadOptions.ConversionEngine"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PclLoadOptions. يحدد محرك التحويل الذي سيُستخدم في التحويل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pclloadoptions/conversionengine/
 ---
-## حقل PclLoadOptions.ConversionEngine
+## PclLoadOptions.ConversionEngine field
 
-يحدد محرك التحويل الذي سيتم استخدامه للتحويل
+يحدد محرك التحويل الذي سيُستخدم في التحويل
 
 ```csharp
 public ConversionEngines ConversionEngine;
@@ -20,3 +20,5 @@ public ConversionEngines ConversionEngine;
 * class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

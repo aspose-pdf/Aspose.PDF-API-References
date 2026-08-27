@@ -1,14 +1,14 @@
 ---
-title: Class RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.RunStepDetails. تفاصيل خطوة التشغيل
+title: "الفئة RunStepDetails"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.AI.RunStepDetails الفئة. تفاصيل خطوة التشغيل."
 type: docs
-weight: 1030
+weight: 1110
 url: /ar/net/aspose.pdf.ai/runstepdetails/
 ---
-## فئة RunStepDetails
+## RunStepDetails class
 
-تفاصيل خطوة التشغيل.
+تفاصيل خطوة التنفيذ.
 
 ```csharp
 public class RunStepDetails
@@ -18,17 +18,19 @@ public class RunStepDetails
 
 | الاسم | الوصف |
 | --- | --- |
-| [RunStepDetails](runstepdetails/)() | المنشئ الافتراضي. |
+| [RunStepDetails](runstepdetails/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | يحصل أو يحدد تفاصيل إنشاء الرسالة. |
-| [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | يحصل أو يحدد نوع خطوة التشغيل. |
-| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | يحصل أو يحدد تفاصيل استدعاءات الأدوات. |
+| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | يحصل أو يعيّن تفاصيل إنشاء الرسالة. |
+| [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | يحصل أو يعيّن نوع خطوة التشغيل. |
+| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | يحصل أو يعيّن تفاصيل استدعاءات الأدوات. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

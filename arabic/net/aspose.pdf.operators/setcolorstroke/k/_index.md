@@ -1,14 +1,14 @@
 ---
-title: SetColorStroke.K
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetColorStroke. تحصل أو تعين مكون اللون الأسود
+title: "SetColorStroke.K"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetColorStroke. تحصل أو تعين المكوّن الأسود"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.operators/setcolorstroke/k/
 ---
-## خاصية SetColorStroke.K
+## SetColorStroke.K property
 
-تحصل أو تعين مكون اللون الأسود.
+يحصل أو يضبط المكوّن الأسود.
 
 ```csharp
 public double K { get; set; }
@@ -19,3 +19,5 @@ public double K { get; set; }
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

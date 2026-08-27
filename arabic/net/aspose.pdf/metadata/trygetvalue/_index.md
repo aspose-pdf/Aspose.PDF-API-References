@@ -1,27 +1,27 @@
 ---
-title: Metadata.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Metadata. تحاول العثور على المفتاح في القاموس واسترجاع القيمة إذا تم العثور عليها
+title: "Metadata.TryGetValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Metadata. تحاول العثور على المفتاح في القاموس وتسترجع القيمة إذا وجدت"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/metadata/trygetvalue/
 ---
-## طريقة Metadata.TryGetValue
+## Metadata.TryGetValue method
 
-تحاول العثور على المفتاح في القاموس واسترجاع القيمة إذا تم العثور عليها.
+يحاول العثور على المفتاح في القاموس ويسترجع القيمة إذا وُجد.
 
 ```csharp
 public bool TryGetValue(string key, out XmpValue value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح للبحث في القاموس. |
-| value | XmpValue& | القيمة المسترجعة. |
+| المفتاح | String | المفتاح للبحث في القاموس. |
+| القيمة | XmpValue& | القيمة المسترجعة. |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على المفتاح.
+صحيح إذا تم العثور على المفتاح.
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ true إذا تم العثور على المفتاح.
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

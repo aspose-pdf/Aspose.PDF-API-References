@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.UseTrimTop
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileSanitization. يسمح بإزالة البيانات قبل بيانات pdf
+title: "PdfFileSanitization.UseTrimTop"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileSanitization. تسمح بإزالة البيانات قبل بيانات pdf"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdffilesanitization/usetrimtop/
 ---
-## خاصية PdfFileSanitization.UseTrimTop
+## PdfFileSanitization.UseTrimTop property
 
 يسمح بإزالة البيانات قبل بيانات pdf.
 
@@ -19,3 +19,5 @@ public bool UseTrimTop { get; set; }
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

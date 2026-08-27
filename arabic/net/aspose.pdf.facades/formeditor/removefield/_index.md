@@ -1,22 +1,22 @@
 ---
-title: FormEditor.RemoveField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. إزالة حقل من النموذج
+title: "FormEditor.RemoveField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. إزالة الحقل من النموذج"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.facades/formeditor/removefield/
 ---
-## طريقة FormEditor.RemoveField
+## FormEditor.RemoveField method
 
-إزالة حقل من النموذج.
+أزل الحقل من النموذج.
 
 ```csharp
 public void RemoveField(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل الذي يجب إزالته. |
+| fieldName | String | اسم الحقل الذي يجب إزالته. |
 
 ## أمثلة
 
@@ -31,3 +31,5 @@ formEditor.RemoveField("textField");
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

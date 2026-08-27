@@ -1,35 +1,37 @@
 ---
-title: Class PDF3DViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PDF3DViewArray. فئة PDF3DViewArray
+title: "الفئة PDF3DViewArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.PDF3DViewArray. الفئة PDF3DViewArray"
 type: docs
-weight: 2250
+weight: 2340
 url: /ar/net/aspose.pdf.annotations/pdf3dviewarray/
 ---
 ## PDF3DViewArray class
 
-Class PDF3DViewArray.
+فئة PDF3DViewArray.
 
 ```csharp
 public class PDF3DViewArray
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dviewarray/count/) { get; } | يحصل على عدد العروض. |
-| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | يحصل أو يحدد [`PDF3DView`](../pdf3dview/) لعرض المصفوفة عند الفهرس المحدد. |
+| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | يحصل أو يعيّن الـ[`PDF3DView`](../pdf3dview/) إلى مصفوفة العرض في الفهرس المحدد. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Add](../../aspose.pdf.annotations/pdf3dviewarray/add/)(PDF3DView) | يضيف العرض المحدد. |
 | [RemoveAll](../../aspose.pdf.annotations/pdf3dviewarray/removeall/)() | يزيل جميع العروض. |
-| [RemoveAt](../../aspose.pdf.annotations/pdf3dviewarray/removeat/)(int) | يزيل العرض من مصفوفة العروض عند الفهرس المحدد. |
+| [RemoveAt](../../aspose.pdf.annotations/pdf3dviewarray/removeat/)(int) | يزيل العرض من مصفوفة العروض في الفهرس المحدد. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

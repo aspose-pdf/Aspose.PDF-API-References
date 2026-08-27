@@ -1,26 +1,28 @@
 ---
-title: EndPath.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EndPath. تقبل كائن الزائر لمعالجة المشغل
+title: "EndPath.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EndPath. تقبل كائن الزائر لمعالجة المشغل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/endpath/accept/
 ---
-## طريقة EndPath.Accept
+## EndPath.Accept method
 
-تقبل كائن الزائر لمعالجة المشغل.
+يقبل كائن الزائر لمعالجة العامل.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | IOperatorSelector | كائن الزائر. |
+| زائر | IOperatorSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
-* واجهة [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* فئة [EndPath](../)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [EndPath](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

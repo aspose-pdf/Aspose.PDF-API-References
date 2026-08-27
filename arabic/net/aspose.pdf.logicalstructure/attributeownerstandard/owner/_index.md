@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AttributeOwnerStandard. الحصول على مالك السمة
+title: "AttributeOwnerStandard.Owner"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AttributeOwnerStandard. الحصول على مالك السمة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/owner/
 ---
-## خاصية AttributeOwnerStandard.Owner
+## AttributeOwnerStandard.Owner property
 
 الحصول على مالك السمة.
 
@@ -14,7 +14,7 @@ url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/owner/
 public string Owner { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مالك السمة.
 
@@ -23,3 +23,5 @@ public string Owner { get; }
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

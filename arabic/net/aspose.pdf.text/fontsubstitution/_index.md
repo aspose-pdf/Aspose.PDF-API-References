@@ -1,20 +1,22 @@
 ---
-title: Class FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.FontSubstitution. تمثل فئة أساسية لاستراتيجيات استبدال الخطوط
+title: "الفئة FontSubstitution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.FontSubstitution. تمثل فئة أساسية لاستراتيجيات استبدال الخطوط"
 type: docs
-weight: 10580
+weight: 10760
 url: /ar/net/aspose.pdf.text/fontsubstitution/
 ---
 ## FontSubstitution class
 
-تمثل فئة أساسية لاستراتيجيات استبدال الخطوط.
+يمثل فئة أساسية لاستراتيجيات استبدال الخطوط.
 
 ```csharp
 public class FontSubstitution
 ```
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface IQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IQueryParameters. تمثل معلمات الاستعلام لطلبات API
+title: "الواجهة IQueryParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.AI.IQueryParameters. تمثّل معلمات الاستعلام لطلبات API."
 type: docs
-weight: 550
+weight: 600
 url: /ar/net/aspose.pdf.ai/iqueryparameters/
 ---
-## واجهة IQueryParameters
+## IQueryParameters interface
 
-تمثل معلمات الاستعلام لطلبات API.
+يمثل معلمات الاستعلام لطلبات واجهة برمجة التطبيقات.
 
 ```csharp
 public interface IQueryParameters
@@ -18,9 +18,11 @@ public interface IQueryParameters
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | يحصل على معلمات الاستعلام كسلسلة. |
+| [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | يحصل على معلمات الاستعلام كسلسلة نصية. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

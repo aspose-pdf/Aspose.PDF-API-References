@@ -1,14 +1,14 @@
 ---
-title: Class TextParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.TextParagraph. تمثل فقرات النص ككائن نص متعدد الأسطر
+title: "الفئة TextParagraph"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.TextParagraph. تمثل فقرات النص ككائن نص متعدد الأسطر."
 type: docs
-weight: 10990
+weight: 11170
 url: /ar/net/aspose.pdf.text/textparagraph/
 ---
-## فئة TextParagraph
+## TextParagraph class
 
-تمثل فقرات النص ككائن نص متعدد الأسطر.
+يمثل فقرات النص ككائن نص متعدد الأسطر.
 
 ```csharp
 public sealed class TextParagraph
@@ -18,23 +18,23 @@ public sealed class TextParagraph
 
 | الاسم | الوصف |
 | --- | --- |
-| [TextParagraph](textparagraph/)() | المنشئ الافتراضي. |
+| [TextParagraph](textparagraph/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | يحصل أو يحدد قيمة إزاحة الأسطر التالية. إذا تم تعيينه على قيمة غير صفرية، فإنه يتمتع بميزة على قيمة FormattingOptions.SubsequentLinesIndent. |
-| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | يحصل أو يحدد خيارات التنسيق. |
-| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | يحصل أو يحدد المحاذاة الأفقية للنص داخل [`Rectangle`](./rectangle/) الفقرة. |
-| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | يحصل أو يحدد ما إذا كان النص مبررًا. |
-| [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | يحصل أو يحدد الحشو. |
-| [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | يحصل أو يحدد موضع الفقرة. |
-| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | يحصل أو يحدد مستطيل الفقرة. |
-| [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | يحصل أو يحدد زاوية الدوران بالدرجات. |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | يحصل أو يحدد قيمة إزاحة الأسطر التالية. إذا تم تعيينه على قيمة غير صفرية، فإنه يتمتع بميزة على قيمة FormattingOptions.SubsequentLinesIndent. |
-| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | يحصل على مستطيل النص الموضوع في الفقرة. |
-| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | يحصل أو يحدد المحاذاة الرأسية للنص داخل [`Rectangle`](./rectangle/) الفقرة. |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | يحصل أو يعيّن قيمة مسافة إزاحة الأسطر اللاحقة. إذا تم تعيينها إلى قيمة غير صفرية، فإن لها ميزة على قيمة FormattingOptions.SubsequentLinesIndent. |
+| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | يحصل أو يعيّن خيارات التنسيق. |
+| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | يحصل أو يعيّن المحاذاة الأفقية للنص داخل [`Rectangle`](./rectangle/) الخاص بالفقرة. |
+| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | يحصل أو يعيّن القيمة التي تحدد ما إذا كان النص مبررًا. |
+| [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | يحصل أو يعيّن الحشو. |
+| [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | يحصل أو يعيّن موضع الفقرة. |
+| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | يحصل أو يعيّن مستطيل الفقرة. |
+| [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | يحصل أو يعيّن زاوية الدوران بالدرجات. |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | يحصل أو يعيّن قيمة مسافة إزاحة الأسطر اللاحقة. إذا تم تعيينها إلى قيمة غير صفرية، فإن لها ميزة على قيمة FormattingOptions.SubsequentLinesIndent. |
+| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | يحصل على مستطيل النص الموضوع داخل الفقرة. |
+| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | يحصل أو يعيّن المحاذاة العمودية للنص داخل [`Rectangle`](./rectangle/) الخاص بالفقرة. |
 
 ## الطرق
 
@@ -48,40 +48,42 @@ public sealed class TextParagraph
 | [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_5)(string, TextState, float) | يضيف سطر نص مع معلمات حالة النص |
 | [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_2)(TextFragment, TextState, float) | يضيف سطر نص مع معلمات حالة النص |
 | [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit/)() | يبدأ تحرير TextParagraph. |
-| [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | ينهي تحرير TextParagraph. |
+| [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | ينتهي تحرير TextParagraph. |
 
 ## أمثلة
 
-توضح المثال كيفية إنشاء كائن فقرة نصية وإضافته إلى صفحة PDF.
+يوضح المثال كيفية إنشاء كائن فقرة نصية وإلحاقه بصفحة Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// إنشاء فقرة نصية
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// تعيين مستطيل الفقرة
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// تعيين خيارات التفاف الكلمات
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// إلحاق سطور النص
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// إلحاق الفقرة بصفحة Pdf باستخدام TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// حفظ مستند Pdf
 doc.Save(outFile);
 ```
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

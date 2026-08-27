@@ -1,14 +1,14 @@
 ---
-title: SetTextMatrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetTextMatrix. وسيط المصفوفة للمعامل
+title: "SetTextMatrix.Matrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetTextMatrix. معلمة Matrix للمشغل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/settextmatrix/matrix/
 ---
-## خاصية SetTextMatrix.Matrix
+## SetTextMatrix.Matrix property
 
-وسيط المصفوفة للمعامل.
+معامل المصفوفة للمشغل.
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -20,3 +20,5 @@ public Matrix Matrix { get; set; }
 * class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

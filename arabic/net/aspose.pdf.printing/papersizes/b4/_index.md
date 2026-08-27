@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.B4
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق B4 250 مم × 353 مم
+title: "PaperSizes.B4"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق B4 250 مم × 353 مم"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.printing/papersizes/b4/
 ---
-## حقل PaperSizes.B4
+## PaperSizes.B4 field
 
 ورق B4 (250 مم × 353 مم).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize B4;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.OptimizeDimensions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RenderingOptions. تحصل أو تعين وضع تحسين الأبعاد
+title: "RenderingOptions.OptimizeDimensions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RenderingOptions. يحصل أو يعيّن وضع تحسين الأبعاد"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/renderingoptions/optimizedimensions/
 ---
-## خاصية RenderingOptions.OptimizeDimensions
+## RenderingOptions.OptimizeDimensions property
 
-تحصل أو تعين وضع تحسين الأبعاد.
+يحصل أو يضبط وضع تحسين الأبعاد.
 
 ```csharp
 public bool OptimizeDimensions { get; set; }
@@ -19,3 +19,5 @@ public bool OptimizeDimensions { get; set; }
 * class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

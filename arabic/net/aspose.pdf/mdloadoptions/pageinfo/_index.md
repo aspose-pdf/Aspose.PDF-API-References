@@ -1,14 +1,14 @@
 ---
-title: MdLoadOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MdLoadOptions. تحصل أو تعين معلومات صفحة الوثيقة
+title: "MdLoadOptions.PageInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MdLoadOptions. تحصل أو تعين معلومات صفحة المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/mdloadoptions/pageinfo/
 ---
-## خاصية MdLoadOptions.PageInfo
+## MdLoadOptions.PageInfo property
 
-تحصل أو تعين معلومات صفحة الوثيقة
+يحصل أو يضبط معلومات صفحة المستند
 
 ```csharp
 public PageInfo PageInfo { get; set; }
@@ -20,3 +20,5 @@ public PageInfo PageInfo { get; set; }
 * class [MdLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

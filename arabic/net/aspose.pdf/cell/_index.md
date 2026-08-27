@@ -1,12 +1,12 @@
 ---
-title: Class Cell
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Cell. تمثل خلية من صفوف الجدول
+title: "الفئة Cell"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Cell. تمثل خلية من صفوف الجداول"
 type: docs
-weight: 2970
+weight: 3080
 url: /ar/net/aspose.pdf/cell/
 ---
-## فئة الخلية
+## Cell class
 
 تمثل خلية من صف الجدول.
 
@@ -18,27 +18,27 @@ public sealed class Cell : ICloneable
 
 | الاسم | الوصف |
 | --- | --- |
-| [Cell](cell/#constructor)() | يقوم بتهيئة مثيل جديد من فئة الخلية. |
-| [Cell](cell/#constructor_1)(Rectangle) | يقوم بتهيئة مثيل جديد من فئة الخلية. |
+| [Cell](cell/#constructor)() | ينشئ مثالًا جديدًا من فئة Cell. |
+| [Cell](cell/#constructor_1)(Rectangle) | ينشئ مثالًا جديدًا من فئة Cell. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Alignment](../../aspose.pdf/cell/alignment/) { get; set; } | يحصل أو يحدد المحاذاة. |
-| [BackgroundColor](../../aspose.pdf/cell/backgroundcolor/) { get; set; } | يحصل أو يحدد لون الخلفية. |
-| [BackgroundImage](../../aspose.pdf/cell/backgroundimage/) { get; set; } | يحصل أو يحدد صورة الخلفية |
-| [Border](../../aspose.pdf/cell/border/) { get; set; } | يحصل أو يحدد الحدود. |
-| [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | يحصل أو يحدد مدى العمود. |
+| [Alignment](../../aspose.pdf/cell/alignment/) { get; set; } | يحصل أو يضبط المحاذاة. |
+| [BackgroundColor](../../aspose.pdf/cell/backgroundcolor/) { get; set; } | يحصل أو يضبط لون الخلفية. |
+| [BackgroundImage](../../aspose.pdf/cell/backgroundimage/) { get; set; } | يحصل أو يضبط صورة الخلفية |
+| [Border](../../aspose.pdf/cell/border/) { get; set; } | يحصل أو يعيّن الحد. |
+| [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | يحصل أو يحدد امتداد العمود. |
 | [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate/) { get; set; } | يحصل أو يحدد حالة نص الخلية الافتراضية. |
-| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | يحصل أو يحدد ما إذا كانت الخلية تحتوي على حدود. |
-| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | يحدد ما إذا كانت خاصية TextState للخلية تم تجاوزها بواسطة خاصية TextState لجزء النص. |
-| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | يحصل أو يحدد ما إذا كان نص الخلية ملفوفًا. |
-| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | يحصل أو يحدد الحشو. |
-| [Paragraphs](../../aspose.pdf/cell/paragraphs/) { get; set; } | يحصل أو يحدد نص الخلية المنسق. |
-| [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | يحصل أو يحدد مدى الصف. |
-| [VerticalAlignment](../../aspose.pdf/cell/verticalalignment/) { get; set; } | يحصل أو يحدد المحاذاة الرأسية. |
-| [Width](../../aspose.pdf/cell/width/) { get; } | يحصل أو يحدد عرض العمود. |
+| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | يحصل أو يحدد ما إذا كانت الخلية لها حد. |
+| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | يضبط خاصية TextState للخلية التي يتم تجاوزها بواسطة خاصية TextState لـ TextFragment. |
+| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | الحصول أو تعيين التفاف كلمة النص في الخلية. |
+| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | يحصل أو يعيّن الحشو. |
+| [Paragraphs](../../aspose.pdf/cell/paragraphs/) { get; set; } | يحصل أو يضبط النص المنسق للخلية. |
+| [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | الحصول أو تعيين امتداد الصف. |
+| [VerticalAlignment](../../aspose.pdf/cell/verticalalignment/) { get; set; } | الحصول أو تعيين المحاذاة العمودية. |
+| [Width](../../aspose.pdf/cell/width/) { get; } | يحصل أو يضبط عرض العمود. |
 
 ## الطرق
 
@@ -48,5 +48,7 @@ public sealed class Cell : ICloneable
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

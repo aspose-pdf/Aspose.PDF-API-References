@@ -1,28 +1,28 @@
 ---
-title: PdfExtractor.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تسترجع الصورة التالية من مستند PDF. ملاحظة يجب استدعاء ExtractImage قبل استخدام هذه الطريقة
+title: "PdfExtractor.GetNextImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfExtractor. تسترجع الصورة التالية من مستند PDF. ملاحظة: يجب استدعاء ExtractImage قبل استخدام هذه الطريقة"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-تسترجع الصورة التالية من مستند PDF. ملاحظة: يجب استدعاء ExtractImage قبل استخدام هذه الطريقة.
+يسترجع الصورة التالية من مستند PDF. ملاحظة: يجب استدعاء ExtractImage قبل استخدام هذه الطريقة.
 
 ```csharp
 public bool GetNextImage(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | الملف الذي سيتم تخزين الصورة فيه |
 
-### Return Value
+### قيمة الإرجاع
 
 صحيح إذا تم استخراج الصورة بنجاح
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -35,7 +35,7 @@ while (extractor.HasNextImage())
 }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -45,22 +45,22 @@ while (extractor.HasNextImage())
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-تسترجع الصورة التالية من مستند PDF بالتنسيق المحدد للصورة. ملاحظة: يجب استدعاء ExtractImage قبل استخدام هذه الطريقة.
+يسترجع الصورة التالية من مستند PDF بالتنسيق المحدد للصورة. ملاحظة: يجب استدعاء ExtractImage قبل استخدام هذه الطريقة.
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | الملف الذي سيتم تخزين الصورة فيه |
 | format | ImageFormat | تنسيق الصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
 صحيح إذا تم استخراج الصورة بنجاح
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -70,22 +70,22 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
 
-تسترجع الصورة التالية من ملف PDF وتخزنها في دفق بالتنسيق المحدد للصورة.
+يسترجع الصورة التالية من ملف PDF ويخزنها في تدفق بالتنسيق المحدد للصورة.
 
 ```csharp
 public bool GetNextImage(Stream outputStream, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق الذي سيتم حفظ بيانات الصورة فيه |
+| outputStream | Stream | التدفق الذي سيتم حفظ بيانات الصورة فيه |
 | format | ImageFormat | تنسيق الصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح في حالة استخراج الصورة بنجاح.
+صحيح في حال تم استخراج الصورة بنجاح.
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -95,22 +95,24 @@ public bool GetNextImage(Stream outputStream, ImageFormat format)
 
 ## GetNextImage(Stream) {#getnextimage}
 
-تسترجع الصورة التالية من ملف PDF وتخزنها في دفق.
+يسترجع الصورة التالية من ملف PDF ويخزنها في تدفق.
 
 ```csharp
 public bool GetNextImage(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق الذي سيتم حفظ بيانات الصورة فيه |
+| outputStream | Stream | التدفق الذي سيتم حفظ بيانات الصورة فيه |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح في حالة استخراج الصورة بنجاح.
+صحيح في حال تم استخراج الصورة بنجاح.
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

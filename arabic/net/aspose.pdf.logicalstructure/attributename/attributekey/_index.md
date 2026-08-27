@@ -1,14 +1,14 @@
 ---
-title: AttributeName.AttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AttributeName. تحصل على مفتاح السمة
+title: "AttributeName.AttributeKey"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeName خاصية. يحصل على مفتاح السمة"
 type: docs
 weight: 680
 url: /ar/net/aspose.pdf.logicalstructure/attributename/attributekey/
 ---
-## خاصية AttributeName.AttributeKey
+## AttributeName.AttributeKey property
 
-تحصل على مفتاح السمة.
+يحصل على مفتاح السمة.
 
 ```csharp
 public AttributeKey AttributeKey { get; }
@@ -20,3 +20,5 @@ public AttributeKey AttributeKey { get; }
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

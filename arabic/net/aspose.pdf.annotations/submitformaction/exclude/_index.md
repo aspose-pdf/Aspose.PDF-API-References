@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.Exclude
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SubmitFormAction. إذا تم مسح مصفوفة Fields، فإنها تحدد الحقول التي يجب تضمينها في الإرسال
+title: "SubmitFormAction.Exclude"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SubmitFormAction. إذا تم الإلغاء، تحدد مصفوفة Fields الحقول التي يجب تضمينها في الإرسال"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/submitformaction/exclude/
 ---
-## حقل SubmitFormAction.Exclude
+## SubmitFormAction.Exclude field
 
-إذا تم مسحها، فإن مصفوفة Fields تحدد الحقول التي يجب تضمينها في الإرسال.
+إذا لم يتم الضبط، تحدد مصفوفة Fields الحقول التي يجب تضمينها في الإرسال.
 
 ```csharp
 public const int Exclude;
@@ -19,3 +19,5 @@ public const int Exclude;
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

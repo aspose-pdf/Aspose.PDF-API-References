@@ -1,14 +1,14 @@
 ---
-title: Enum ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Forms.ScalingReason. الظروف التي يجب أن يتم فيها تغيير حجم الرمز داخل مستطيل التعليق
+title: "التعداد ScalingReason"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Forms.ScalingReason. الظروف التي يتم فيها تحجيم الأيقونة داخل مستطيل التعليق التوضيحي"
 type: docs
-weight: 5250
+weight: 5370
 url: /ar/net/aspose.pdf.forms/scalingreason/
 ---
-## تعداد ScalingReason
+## ScalingReason enumeration
 
-الظروف التي يجب أن يتم فيها تغيير حجم الرمز داخل مستطيل التعليق.
+الظروف التي يتم فيها تحجيم الأيقونة داخل مستطيل Annotation.
 
 ```csharp
 public enum ScalingReason
@@ -18,12 +18,14 @@ public enum ScalingReason
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| دائمًا | `0` | تغيير الحجم دائمًا. |
-| الرمز أكبر | `1` | تغيير الحجم فقط عندما يكون الرمز أكبر من مستطيل التعليق. |
-| الرمز أصغر | `2` | تغيير الحجم فقط عندما يكون الرمز أصغر من مستطيل التعليق. |
-| أبداً | `3` | لا تقم بتغيير الحجم أبدًا. |
+| Always | `0` | تحجيم دائمًا. |
+| IconIsBigger | `1` | تحجيم فقط عندما تكون الأيقونة أكبر من مستطيل التعليق التوضيحي. |
+| IconIsSmaller | `2` | تحجيم فقط عندما تكون الأيقونة أصغر من مستطيل التعليق التوضيحي. |
+| Never | `3` | لا تقم بالتحجيم أبداً. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextStamp.WordWrap
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تعرف على لف النص. إذا تم تعيين هذه الخاصية على true وتم تحديد قيمة Width، سيتم كسر النص في عدة أسطر ليتناسب مع العرض المحدد. القيمة الافتراضية false
+title: "TextStamp.WordWrap"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. تحدد التفاف الكلمات. إذا تم تعيين هذه الخاصية إلى true وتم تحديد قيمة Width، سيتم تقسيم النص إلى عدة أسطر ليتناسب مع العرض المحدد. القيمة الافتراضية false"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/textstamp/wordwrap/
 ---
-## خاصية TextStamp.WordWrap
+## TextStamp.WordWrap property
 
-تعرف على لف النص. إذا تم تعيين هذه الخاصية على true وتم تحديد قيمة Width، سيتم كسر النص في عدة أسطر ليتناسب مع العرض المحدد. القيمة الافتراضية: false.
+تحدد التفاف الكلمات. إذا تم تعيين هذه الخاصية إلى true وتم تحديد قيمة Width، سيتم تقسيم النص إلى عدة أسطر ليتناسب مع العرض المحدد. القيمة الافتراضية: false.
 
 ```csharp
 public bool WordWrap { get; set; }
@@ -19,3 +19,5 @@ public bool WordWrap { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

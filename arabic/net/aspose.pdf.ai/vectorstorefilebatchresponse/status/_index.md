@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreFileBatchResponse. يحصل أو يحدد حالة دفعة ملف تخزين المتجهات
+title: "VectorStoreFileBatchResponse.Status"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "VectorStoreFileBatchResponse خاصية. يحصل أو يعيّن حالة دفعة ملف مخزن المتجهات."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/vectorstorefilebatchresponse/status/
 ---
-## خاصية حالة VectorStoreFileBatchResponse
+## VectorStoreFileBatchResponse.Status property
 
-يحصل أو يحدد حالة دفعة ملف تخزين المتجهات.
+يحصل أو يعيّن حالة دفعة ملفات مخزن المتجهات.
 
 ```csharp
 public string Status { get; set; }
@@ -19,3 +19,5 @@ public string Status { get; set; }
 * class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

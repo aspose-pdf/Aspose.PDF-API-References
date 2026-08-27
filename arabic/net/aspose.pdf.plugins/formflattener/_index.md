@@ -1,33 +1,35 @@
 ---
-title: Class FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattener class. يمثل مكون FormFlattener
+title: "الفئة FormFlattener"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.FormFlattener. تمثل ملحق FormFlattener"
 type: docs
-weight: 8750
+weight: 8880
 url: /ar/net/aspose.pdf.plugins/formflattener/
 ---
 ## FormFlattener class
 
-يمثل مكون FormFlattener.
+يمثل المكوّن الإضافي FormFlattener.
 
 ```csharp
 public sealed class FormFlattener : IPlugin
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FormFlattener](formflattener/)() | المُنشئ الافتراضي. |
+| [FormFlattener](formflattener/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | يبدأ معالجة FormFlattener مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | يبدأ معالجة FormFlattener بالمعلمات المحددة. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

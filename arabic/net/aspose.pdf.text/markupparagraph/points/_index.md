@@ -1,14 +1,14 @@
 ---
-title: MarkupParagraph.Points
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupParagraph. نقاط المضلع التي تصف الفقرة. نقطة البداية هي الزاوية السفلى اليسرى من الفقرة. والنقاط التالية تكون في تسلسل عكس عقارب الساعة
+title: "MarkupParagraph.Points"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupParagraph. نقاط المضلع الذي يصف الفقرة. النقطة البداية هي الزاوية السفلية اليسرى للفقرة. والنقاط التالية تكون بترتيب عكس اتجاه عقارب الساعة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/markupparagraph/points/
 ---
-## خاصية MarkupParagraph.Points
+## MarkupParagraph.Points property
 
-نقاط المضلع التي تصف الفقرة. نقطة البداية هي الزاوية السفلى اليسرى من الفقرة. والنقاط التالية تكون في تسلسل عكس عقارب الساعة.
+نقاط المضلع الذي يصف الفقرة. النقطة البداية هي الزاوية السفلية اليسرى للفقرة. والنقاط التالية تكون بترتيب عكس اتجاه عقارب الساعة.
 
 ```csharp
 public Point[] Points { get; }
@@ -20,3 +20,5 @@ public Point[] Points { get; }
 * class [MarkupParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

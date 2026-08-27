@@ -1,12 +1,12 @@
 ---
-title: Table.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الجدول. استنساخ الجدول
+title: "Table.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Table. استنساخ الجدول"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf/table/clone/
 ---
-## طريقة Table.Clone
+## Table.Clone method
 
 استنساخ الجدول.
 
@@ -23,3 +23,5 @@ public override object Clone()
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

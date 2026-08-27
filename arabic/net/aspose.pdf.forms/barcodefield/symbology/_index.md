@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.Symbology
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BarcodeField. تحدد أي تقنية باركود أو رمز يجب استخدامها في هذه التعليق، انظر Symbology للحصول على التفاصيل
+title: "BarcodeField.Symbology"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BarcodeField. تحدد أي تقنية باركود أو رموز تُستخدم في هذه التعليقة، راجع Symbology للتفاصيل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/barcodefield/symbology/
 ---
-## خاصية BarcodeField.Symbology
+## BarcodeField.Symbology property
 
-تحدد أي تقنية باركود أو رمز يجب استخدامها في هذه التعليق، انظر `Symbology` للحصول على التفاصيل.
+تحدد أي تقنية باركود أو رموز تُستخدم في هذه التعليقة، راجع `Symbology` للتفاصيل.
 
 ```csharp
 public Symbology Symbology { get; }
@@ -20,3 +20,5 @@ public Symbology Symbology { get; }
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

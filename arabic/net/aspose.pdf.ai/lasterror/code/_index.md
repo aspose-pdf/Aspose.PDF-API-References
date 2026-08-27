@@ -1,14 +1,14 @@
 ---
-title: LastError.Code
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LastError. تحصل أو تعين واحدة من server_error أو rate_limit_exceeded أو invalid_prompt
+title: "LastError.Code"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LastError. يحصل أو يضبط أحد القيم: server_error أو rate_limit_exceeded أو invalid_prompt"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/lasterror/code/
 ---
-## خاصية LastError.Code
+## LastError.Code property
 
-تحصل أو تعين واحدة من server_error أو rate_limit_exceeded أو invalid_prompt.
+يحصل أو يضبط أحد القيم: server_error، rate_limit_exceeded، أو invalid_prompt.
 
 ```csharp
 public string Code { get; set; }
@@ -19,3 +19,5 @@ public string Code { get; set; }
 * class [LastError](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

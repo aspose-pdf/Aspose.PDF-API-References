@@ -1,115 +1,119 @@
 ---
-title: Aspose.Pdf.Plugins
-second_title: Aspose.PDF for .NET API Reference
-description: مساحة الاسم الجذرية Aspose.Pdf.Plugins لجميع فئات Aspose.Pdf.Plugins التي تكون إما مباشرة فيها مثل PdfOrganizer أو غير مباشرة من خلال عدة مساحات فرعية.
+title: "Aspose.Pdf.Plugins"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تُعد Aspose.Pdf.Plugins مساحة أسماء جذرية لجميع فئات Aspose.Pdf.Plugins التي تكون إما مباشرةً فيها مثل PdfOrganizer أو غير مباشرةً عبر عدة مساحات أسماء فرعية."
 type: docs
-weight: 190
+weight: 180
 url: /ar/net/aspose.pdf.plugins/
 ---
-مساحة الاسم الجذرية **Aspose.Pdf.Plugins** لجميع فئات **Aspose.Pdf.Plugins** التي تكون إما مباشرة فيها مثل **PdfOrganizer** أو غير مباشرة من خلال عدة مساحات فرعية.
+مساحة الاسم **Aspose.Pdf.Plugins** هي مساحة اسم جذر لجميع فئات Aspose.Pdf.Plugins التي إما تكون مباشرةً فيها مثل **PdfOrganizer** أو غير مباشرةً عبر عدة مساحات أسماء فرعية.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [CompressOptions](./compressoptions/) | تمثل خيارات الضغط لـ [`Optimizer`](../aspose.pdf.plugins/optimizer/) الإضافي. |
-| [DecryptionOptions](./decryptionoptions/) | تمثل خيارات فك التشفير لـ [`Security`](../aspose.pdf.plugins/security/) الإضافي. |
-| [DocConverter](./docconverter/) | تمثل الإضافي [`DocConverter`](../aspose.pdf.plugins/docconverter/). |
-| [EncryptionOptions](./encryptionoptions/) | تمثل خيارات التشفير لـ [`Security`](../aspose.pdf.plugins/security/) الإضافي. |
-| [FileDataSource](./filedatasource/) | تمثل مصدر بيانات الملف لعمليات التحميل والحفظ للإضافي. |
-| [FileResult](./fileresult/) | تمثل نتيجة العملية في شكل مسار سلسلة إلى الملف. |
-| [FileSaveTarget](./filesavetarget/) | تمثل هدف حفظ الملف للإضافي. |
-| [FormCheckBoxFieldCreateOptions](./formcheckboxfieldcreateoptions/) | تمثل خيارات لإنشاء CheckBoxField بواسطة الإضافي FormEditor. |
-| [FormCheckBoxFieldSetOptions](./formcheckboxfieldsetoptions/) | تمثل خيارات لتعيين الخصائص في CheckboxField بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormComboBoxFieldCreateOptions](./formcomboboxfieldcreateoptions/) | تمثل خيارات لإنشاء ComboBoxField بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormComboBoxFieldSetOptions](./formcomboboxfieldsetoptions/) | تمثل خيارات لتعيين الخصائص في ComboBoxField بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormEditor](./formeditor/) | تمثل الإضافي FormEditor. |
-| [FormEditorAddOptions](./formeditoraddoptions/) | تمثل خيارات لإضافة حقول إلى المستند بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormEditorOptions](./formeditoroptions/) | تمثل خيارات للإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormEditorRemoveOptions](./formeditorremoveoptions/) | فئة أساسية لخيارات الفئات لإزالة الحقول في المستند بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormEditorSetOptions](./formeditorsetoptions/) | تمثل خيارات لتعيين خصائص الحقول (ليس التعليقات). |
-| [FormExporter](./formexporter/) | تمثل الإضافي FormExporter. |
-| [FormExporterOptions](./formexporteroptions/) | تمثل خيارات للإضافي FormExporter. |
-| [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/) | تمثل خيارات لتصدير خاصية القيمة (القيم) للحقول المحددة (ليس التعليقات). |
-| [FormFieldCreateOptions](./formfieldcreateoptions/) | تمثل خيارات لإنشاء حقل. |
-| [FormFieldOptions](./formfieldoptions/) | تمثل خيارات الحقل. فئة أساسية لـ PdfFormFieldCreateOptions و PdfFormFillFieldOptions. |
-| [FormFieldSetOptions](./formfieldsetoptions/) | تمثل خيارات لتعيين الخصائص في الحقل. |
-| [FormFlattenAllFieldsOptions](./formflattenallfieldsoptions/) | تمثل خيارات لتسوية جميع الحقول (ليس التعليقات) في المستند بواسطة الإضافي [`FormFlattener`](../aspose.pdf.plugins/formflattener/). |
-| [FormFlattener](./formflattener/) | تمثل الإضافي FormFlattener. |
-| [FormFlattenerOptions](./formflatteneroptions/) | فئة أساسية لخيارات الفئات لتسوية الحقول (ليس التعليقات) في المستند بواسطة الإضافي FormFlattener. |
-| [FormFlattenSelectedFieldsOptions](./formflattenselectedfieldsoptions/) | تمثل خيارات لتسوية الحقول المحددة (ليس التعليقات) في المستند بواسطة الإضافي [`FormFlattener`](../aspose.pdf.plugins/formflattener/). |
-| [FormOptions](./formoptions/) | تمثل خيارات لعائلة من الإضافات.... |
-| [FormRemoveAllFieldsOptions](./formremoveallfieldsoptions/) | تمثل خيارات لإزالة جميع الحقول في المستند بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/) | تمثل خيارات لإزالة الحقول المحددة في المستند بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormTextBoxFieldCreateOptions](./formtextboxfieldcreateoptions/) | تمثل خيارات لإنشاء TextBoxField بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [FormTextBoxFieldSetOptions](./formtextboxfieldsetoptions/) | تمثل خيارات لتعيين الخصائص في TextBoxField بواسطة الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
-| [Html](./html/) | تمثل الإضافي [`Html`](../aspose.pdf.plugins/html/). |
-| [HtmlToPdfOptions](./htmltopdfoptions/) | تمثل خيارات محول HTML إلى PDF للإضافي [`Html`](../aspose.pdf.plugins/html/). |
-| [ImageExtractor](./imageextractor/) | تمثل الإضافي ImageExtractor. |
-| [ImageExtractorOptions](./imageextractoroptions/) | تمثل خيارات استخراج الصور للإضافي ImageExtractor. |
-| [Jpeg](./jpeg/) | تمثل الإضافي Pdf إلى Jpeg. |
-| [JpegOptions](./jpegoptions/) | تمثل خيارات محول Pdf إلى Jpeg للإضافي [`Jpeg`](../aspose.pdf.plugins/jpeg/). |
-| [MergeOptions](./mergeoptions/) | تمثل خيارات الدمج للإضافي [`Merger`](../aspose.pdf.plugins/merger/). |
-| [Merger](./merger/) | تمثل الإضافي [`Merger`](../aspose.pdf.plugins/merger/). |
-| [ObjectResult](./objectresult/) | تمثل نتيجة العملية في شكل سلسلة. |
-| [OptimizeOptions](./optimizeoptions/) | تمثل خيارات التحسين للإضافي [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
-| [Optimizer](./optimizer/) | تمثل الإضافي [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
-| [OrganizerBaseOptions](./organizerbaseoptions/) | تمثل الخيارات الأساسية للإضافات. |
-| [PdfAConverter](./pdfaconverter/) | تمثل الإضافي للتعامل مع تحويل مستندات PDF إلى تنسيق PDF/A وللتحقق من توافق PDF/A. |
-| [PdfAConvertOptions](./pdfaconvertoptions/) | تمثل خيارات لتحويل مستندات PDF إلى تنسيق PDF/A بواسطة الإضافي [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/). |
-| [PdfAOptionsBase](./pdfaoptionsbase/) | تمثل الفئة الأساسية لخيارات الإضافي [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/). توفر هذه الفئة خصائص وطرق لتكوين عملية تحويل PDF/A والتحقق من صحتها. |
-| [PdfAValidateOptions](./pdfavalidateoptions/) | تمثل خيارات للتحقق من توافق PDF/A لمستندات PDF بواسطة الإضافي [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/). |
-| [PdfAValidationResult](./pdfavalidationresult/) | تمثل نتيجة عملية التحقق من PDF/A. |
-| [PdfConverterOptions](./pdfconverteroptions/) | تمثل خيارات لإضافات محول PDF. |
-| [PdfExtractor](./pdfextractor/) | تمثل الوظائف الأساسية لاستخراج النصوص والصور وأنواع المحتوى الأخرى التي قد تحدث في صفحات مستندات PDF. |
-| [PdfExtractorOptions](./pdfextractoroptions/) | تمثل خيارات لإضافتي TextExtractor و ImageExtractor. |
-| [PdfGeneratorOptions](./pdfgeneratoroptions/) | تمثل خيارات لإضافات المولد. |
-| [PdfToDocOptions](./pdftodocoptions/) | تمثل خيارات محول PDF إلى DOC للإضافي [`DocConverter`](../aspose.pdf.plugins/docconverter/). |
-| [PdfToHtmlOptions](./pdftohtmloptions/) | تمثل خيارات محول PDF إلى HTML للإضافي [`Html`](../aspose.pdf.plugins/html/). |
-| [PdfToImage](./pdftoimage/) | تمثل الإضافي PDF إلى صورة. |
-| [PdfToImageOptions](./pdftoimageoptions/) | تمثل خيارات للإضافي [`PdfToImage`](../aspose.pdf.plugins/pdftoimage/). |
-| [PdfToXlsOptions](./pdftoxlsoptions/) | تمثل خيارات محول PDF إلى XLSX للإضافي [`XlsConverter`](../aspose.pdf.plugins/xlsconverter/). |
-| [Png](./png/) | تمثل الإضافي Pdf إلى Png. |
-| [PngOptions](./pngoptions/) | تمثل خيارات محول PDF إلى Png للإضافي [`Png`](../aspose.pdf.plugins/png/). |
-| [ResizeOptions](./resizeoptions/) | تمثل خيارات تغيير الحجم للإضافي [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
-| [ResultContainer](./resultcontainer/) | تمثل حاوية تحتوي على مجموعة نتائج معالجة الإضافي. |
-| [RotateOptions](./rotateoptions/) | تمثل خيارات التدوير للإضافي [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
-| [Security](./security/) | تمثل الإضافي [`Security`](../aspose.pdf.plugins/security/). |
+| [CompressOptions](./compressoptions/) | يمثل خيارات الضغط لـ plugin [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
+| [DecryptionOptions](./decryptionoptions/) | يمثل خيارات فك التشفير لـ plugin [`Security`](../aspose.pdf.plugins/security/). |
+| [DocConverter](./docconverter/) | يمثل plugin [`DocConverter`](../aspose.pdf.plugins/docconverter/). |
+| [EncryptionOptions](./encryptionoptions/) | يمثل خيارات التشفير لـ plugin [`Security`](../aspose.pdf.plugins/security/). |
+| [FileDataSource](./filedatasource/) | يمثل مصدر بيانات الملف لعمليات التحميل والحفظ في plugin. |
+| [FileResult](./fileresult/) | يمثل نتيجة العملية على شكل مسار سلسلة إلى الملف. |
+| [FileSaveTarget](./filesavetarget/) | يمثل هدف حفظ الملف لـ plugin. |
+| [FormCheckBoxFieldCreateOptions](./formcheckboxfieldcreateoptions/) | يمثل خيارات إنشاء CheckBoxField بواسطة plugin FormEditor. |
+| [FormCheckBoxFieldSetOptions](./formcheckboxfieldsetoptions/) | يمثل خيارات تعيين الخصائص في CheckboxField بواسطة plugin [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormComboBoxFieldCreateOptions](./formcomboboxfieldcreateoptions/) | يمثل خيارات إنشاء ComboBoxField بواسطة plugin [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormComboBoxFieldSetOptions](./formcomboboxfieldsetoptions/) | يمثل خيارات تعيين الخصائص في ComboBoxField بواسطة plugin [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormEditor](./formeditor/) | يمثل plugin FormEditor. |
+| [FormEditorAddOptions](./formeditoraddoptions/) | يمثل خيارات إضافة Fields إلى Document بواسطة plugin [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormEditorOptions](./formeditoroptions/) | يمثل خيارات plugin [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormEditorRemoveOptions](./formeditorremoveoptions/) | الفئة الأساسية لفئات الخيارات لإزالة الحقول في Document بواسطة plugin [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormEditorSetOptions](./formeditorsetoptions/) | يمثل خيارات تعيين خصائص الحقول (ليس التعليقات التوضيحية). |
+| [FormExporter](./formexporter/) | يمثل plugin FormExporter. |
+| [FormExporterOptions](./formexporteroptions/) | يمثل خيارات plugin FormExporter. |
+| [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/) | يمثل خيارات لتصدير خاصية (Value) للحقول المحددة (ليس التعليقات التوضيحية). |
+| [FormFieldCreateOptions](./formfieldcreateoptions/) | يمثل خيارات لإنشاء الحقل. |
+| [FormFieldOptions](./formfieldoptions/) | يمثل خيارات الحقل. الفئة الأساسية لـ PdfFormFieldCreateOptions و PdfFormFillFieldOptions. |
+| [FormFieldSetOptions](./formfieldsetoptions/) | يمثل خيارات لتعيين الخصائص في الحقل. |
+| [FormFlattenAllFieldsOptions](./formflattenallfieldsoptions/) | يمثل خيارات لتسوية جميع الحقول (ليس التعليقات التوضيحية) في المستند باستخدام المكوّن الإضافي [`FormFlattener`](../aspose.pdf.plugins/formflattener/). |
+| [FormFlattener](./formflattener/) | يمثل المكوّن الإضافي FormFlattener. |
+| [FormFlattenerOptions](./formflatteneroptions/) | الفئة الأساسية لفئات الخيارات لتسوية الحقول (ليس التعليقات التوضيحية) في المستند باستخدام مكوّن FormFlattener الإضافي. |
+| [FormFlattenSelectedFieldsOptions](./formflattenselectedfieldsoptions/) | يمثل خيارات لتسوية الحقول المحددة (ليس التعليقات التوضيحية) في المستند باستخدام المكوّن الإضافي [`FormFlattener`](../aspose.pdf.plugins/formflattener/). |
+| [FormOptions](./formoptions/) | يمثل خيارات لعائلة Form.... المكوّنات الإضافية. |
+| [FormRemoveAllFieldsOptions](./formremoveallfieldsoptions/) | يمثل خيارات لإزالة جميع الحقول في المستند باستخدام المكوّن الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/) | يمثل خيارات لإزالة الحقول المحددة في المستند باستخدام المكوّن الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormTextBoxFieldCreateOptions](./formtextboxfieldcreateoptions/) | يمثل خيارات لإنشاء TextBoxField باستخدام المكوّن الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [FormTextBoxFieldSetOptions](./formtextboxfieldsetoptions/) | يمثل خيارات لتعيين الخصائص في TextBoxField باستخدام المكوّن الإضافي [`FormEditor`](../aspose.pdf.plugins/formeditor/). |
+| [Html](./html/) | يمثل المكوّن الإضافي [`Html`](../aspose.pdf.plugins/html/). |
+| [HtmlToPdfOptions](./htmltopdfoptions/) | يمثل خيارات محول HTML إلى PDF للمكوّن الإضافي [`Html`](../aspose.pdf.plugins/html/). |
+| [ImageExtractor](./imageextractor/) | يمثل المكوّن الإضافي ImageExtractor. |
+| [ImageExtractorOptions](./imageextractoroptions/) | يمثل خيارات استخراج الصور للمكوّن الإضافي ImageExtractor. |
+| [Jpeg](./jpeg/) | يمثل المكوّن الإضافي Pdf إلى Jpeg. |
+| [JpegOptions](./jpegoptions/) | يمثل خيارات محول Pdf إلى Jpeg للمكوّن الإضافي [`Jpeg`](../aspose.pdf.plugins/jpeg/). |
+| [MergeOptions](./mergeoptions/) | يمثل خيارات الدمج للمكوّن الإضافي [`Merger`](../aspose.pdf.plugins/merger/). |
+| [Merger](./merger/) | يمثل المكوّن الإضافي [`Merger`](../aspose.pdf.plugins/merger/). |
+| [ObjectResult](./objectresult/) | يمثل نتيجة العملية على شكل سلسلة. |
+| [Ofd](./ofd/) | يمثل المكوّن الإضافي [`Ofd`](../aspose.pdf.plugins/ofd/). |
+| [OfdToPdfOptions](./ofdtopdfoptions/) | يمثل خيارات تحويل OFD إلى PDF. |
+| [OptimizeOptions](./optimizeoptions/) | يمثل خيارات التحسين للمكوّن الإضافي [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
+| [Optimizer](./optimizer/) | يمثل ملحق [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
+| [OrganizerBaseOptions](./organizerbaseoptions/) | يمثل الخيارات الأساسية للملحقات. |
+| [PdfAConverter](./pdfaconverter/) | يمثل ملحقًا لمعالجة تحويل مستندات PDF إلى تنسيق PDF/A وللتحقق من توافق PDF/A. |
+| [PdfAConvertOptions](./pdfaconvertoptions/) | يمثل خيارات تحويل مستندات PDF إلى تنسيق PDF/A باستخدام ملحق [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/). |
+| [PdfAOptionsBase](./pdfaoptionsbase/) | يمثل الفئة الأساسية لخيارات ملحق [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/). توفر هذه الفئة الخصائص والطرق لتكوين عملية تحويل PDF/A والتحقق منها. |
+| [PdfAValidateOptions](./pdfavalidateoptions/) | يمثل خيارات التحقق من توافق PDF/A لمستندات PDF باستخدام ملحق [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/). |
+| [PdfAValidationResult](./pdfavalidationresult/) | يمثل نتيجة عملية التحقق من PDF/A. |
+| [PdfConverterOptions](./pdfconverteroptions/) | يمثل خيارات ملحقات محول Pdf. |
+| [PdfExtractor](./pdfextractor/) | يمثل الوظيفة الأساسية لاستخراج النصوص والصور وأنواع أخرى من المحتوى التي قد تظهر في صفحات مستندات PDF. |
+| [PdfExtractorOptions](./pdfextractoroptions/) | يمثل خيارات ملحقات TextExtractor و ImageExtractor. |
+| [PdfGeneratorOptions](./pdfgeneratoroptions/) | يمثل خيارات ملحقات Generator. |
+| [PdfToDocOptions](./pdftodocoptions/) | يمثل خيارات محول PDF إلى DOC لملحق [`DocConverter`](../aspose.pdf.plugins/docconverter/). |
+| [PdfToHtmlOptions](./pdftohtmloptions/) | يمثل خيارات محول PDF إلى HTML لملحق [`Html`](../aspose.pdf.plugins/html/). |
+| [PdfToImage](./pdftoimage/) | يمثل ملحق PDF إلى صورة. |
+| [PdfToImageOptions](./pdftoimageoptions/) | يمثل خيارات ملحق [`PdfToImage`](../aspose.pdf.plugins/pdftoimage/). |
+| [PdfToXlsOptions](./pdftoxlsoptions/) | يمثل خيارات محول PDF إلى XLSX لملحق [`XlsConverter`](../aspose.pdf.plugins/xlsconverter/). |
+| [Png](./png/) | يمثل ملحق Pdf إلى Png. |
+| [PngOptions](./pngoptions/) | يمثل خيارات محول Pdf إلى Png لملحق [`Png`](../aspose.pdf.plugins/png/). |
+| [ResizeOptions](./resizeoptions/) | يمثل خيارات إعادة التحجيم لملحق [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
+| [ResultContainer](./resultcontainer/) | يمثل الحاوية التي تحتوي على مجموعة النتائج لمعالجة الملحق. |
+| [RotateOptions](./rotateoptions/) | يمثل خيارات الدوران لملحق [`Optimizer`](../aspose.pdf.plugins/optimizer/). |
+| [Security](./security/) | يمثل ملحق [`Security`](../aspose.pdf.plugins/security/). |
 | [SelectField](./selectfield/) |  |
-| [Signature](./signature/) | تمثل الإضافي [`Signature`](../aspose.pdf.plugins/signature/). |
-| [SignOptions](./signoptions/) | تمثل خيارات التوقيع للإضافي [`Signature`](../aspose.pdf.plugins/signature/). |
-| [SplitOptions](./splitoptions/) | تمثل خيارات التقسيم للإضافي [`Splitter`](../aspose.pdf.plugins/splitter/). |
-| [Splitter](./splitter/) | تمثل الإضافي [`Splitter`](../aspose.pdf.plugins/splitter/). |
-| [StreamDataSource](./streamdatasource/) | تمثل مصدر بيانات التدفق لعمليات التحميل والحفظ للإضافي. |
-| [StreamResult](./streamresult/) | تمثل نتيجة العملية في شكل تدفق. |
-| [StreamSaveTarget](./streamsavetarget/) | تمثل هدف حفظ التدفق للإضافي. |
-| [StringResult](./stringresult/) | تمثل نتيجة العملية في شكل سلسلة. |
-| [TableBuilder](./tablebuilder/) | تمثل الفئة البانية للجدول في صفحة PDF. |
-| [TableCellBuilder](./tablecellbuilder/) | تمثل الفئة البانية لخلية الجدول. |
-| [TableGenerator](./tablegenerator/) | تمثل الإضافي Aspose.PDF TableGenerator. |
-| [TableOptions](./tableoptions/) | تمثل خيارات لإضافة جدول إلى المستند بواسطة الإضافي [`TableGenerator`](../aspose.pdf.plugins/tablegenerator/). |
-| [TableRowBuilder](./tablerowbuilder/) | تمثل الفئة البانية لصف الجدول. |
-| [TextExtractor](./textextractor/) | تمثل الإضافي TextExtractor. |
-| [TextExtractorOptions](./textextractoroptions/) | تمثل خيارات استخراج النص للإضافي TextExtractor. |
-| [Tiff](./tiff/) | تمثل الإضافي Pdf إلى Tiff. |
-| [TiffOptions](./tiffoptions/) | تمثل خيارات محول Pdf إلى Tiff للإضافي [`Tiff`](../aspose.pdf.plugins/tiff/). |
-| [TocGenerator](./tocgenerator/) | تمثل الإضافي Aspose.PDF TocGenerator. |
-| [TocOptions](./tocoptions/) | تمثل خيارات لإضافة جدول المحتويات إلى المستند بواسطة الإضافي [`TocGenerator`](../aspose.pdf.plugins/tocgenerator/). |
-| [XlsConverter](./xlsconverter/) | تمثل الإضافي [`XlsConverter`](../aspose.pdf.plugins/xlsconverter/). |
+| [Signature](./signature/) | يمثل ملحق [`Signature`](../aspose.pdf.plugins/signature/). |
+| [SignOptions](./signoptions/) | يمثل خيارات التوقيع لملحق [`Signature`](../aspose.pdf.plugins/signature/). |
+| [SplitOptions](./splitoptions/) | يمثل خيارات التقسيم لملحق [`Splitter`](../aspose.pdf.plugins/splitter/). |
+| [Splitter](./splitter/) | يمثل ملحق [`Splitter`](../aspose.pdf.plugins/splitter/). |
+| [StreamDataSource](./streamdatasource/) | يمثل مصدر بيانات تدفق لعمليات التحميل والحفظ لملحق. |
+| [StreamResult](./streamresult/) | يمثل نتيجة العملية على شكل Stream. |
+| [StreamSaveTarget](./streamsavetarget/) | يمثل هدف حفظ التدفق لملحق. |
+| [StringResult](./stringresult/) | يمثل نتيجة العملية على شكل سلسلة. |
+| [TableBuilder](./tablebuilder/) | الفئة تمثل مُنشئ جدول في صفحة pdf. |
+| [TableCellBuilder](./tablecellbuilder/) | الفئة تمثل مُنشئ خلية جدول. |
+| [TableGenerator](./tablegenerator/) | يمثل ملحق Aspose.PDF TableGenerator. |
+| [TableOptions](./tableoptions/) | يمثل الخيارات لإضافة جدول إلى المستند بواسطة ملحق [`TableGenerator`](../aspose.pdf.plugins/tablegenerator/). |
+| [TableRowBuilder](./tablerowbuilder/) | الفئة تمثل مُنشئ صف جدول. |
+| [TextExtractor](./textextractor/) | يمثل ملحق TextExtractor. |
+| [TextExtractorOptions](./textextractoroptions/) | يمثل خيارات استخراج النص لملحق TextExtractor. |
+| [Tiff](./tiff/) | يمثل ملحق Pdf إلى Tiff. |
+| [TiffOptions](./tiffoptions/) | يمثل خيارات محول Pdf إلى Tiff لملحق [`Tiff`](../aspose.pdf.plugins/tiff/). |
+| [TocGenerator](./tocgenerator/) | يمثل ملحق Aspose.PDF TocGenerator. |
+| [TocOptions](./tocoptions/) | يمثل الخيارات لإضافة جدول محتويات إلى المستند بواسطة ملحق [`TocGenerator`](../aspose.pdf.plugins/tocgenerator/). |
+| [XlsConverter](./xlsconverter/) | يمثل ملحق [`XlsConverter`](../aspose.pdf.plugins/xlsconverter/). |
 ## الواجهات
 
-| الواجهة | الوصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IDataSource](./idatasource/) | واجهة مصدر البيانات العامة التي تحدد الأعضاء المشتركين التي يجب أن تنفذها مصادر البيانات المحددة. |
-| [IOperationResult](./ioperationresult/) | واجهة نتيجة العملية العامة التي تحدد الطرق المشتركة التي يجب أن تنفذها نتيجة عملية الإضافي المحددة. |
-| [IPlugin](./iplugin/) | واجهة الإضافي العامة التي تحدد الطرق المشتركة التي يجب أن تنفذها الإضافي المحددة. |
-| [IPluginOptions](./ipluginoptions/) | واجهة خيارات الإضافي العامة التي تحدد الطرق المشتركة التي يجب أن تنفذها خيارات الإضافي المحددة. |
-| [ISaveTarget](./isavetarget/) | واجهة هدف الحفظ العامة التي تحدد الأعضاء المشتركين التي يجب أن تنفذها نتيجة العملية المحددة. |
-## التعداد
+| [IDataSource](./idatasource/) | واجهة مصدر البيانات العامة التي تحدد الأعضاء المشتركة التي يجب على مصادر البيانات الفعلية تنفيذها. |
+| [IOperationResult](./ioperationresult/) | واجهة نتيجة العملية العامة التي تحدد الأساليب المشتركة التي يجب على نتيجة عملية الملحق الفعلية تنفيذها. |
+| [IPlugin](./iplugin/) | واجهة الملحق العامة التي تحدد الأساليب المشتركة التي يجب على الملحق الفعلي تنفيذها. |
+| [IPluginOptions](./ipluginoptions/) | واجهة خيار الملحق العامة التي تحدد الأساليب المشتركة التي يجب على خيار الملحق الفعلي تنفيذها. |
+| [ISaveTarget](./isavetarget/) | واجهة هدف الحفظ العامة التي تحدد الأعضاء المشتركة التي يجب على هدف حفظ نتيجة العملية الفعلي تنفيذها. |
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
 | [ConversionMode](./conversionmode/) | يحدد وضع التحويل للمستند الناتج. |
-| [DataType](./datatype/) | تمثل الأنواع الممكنة من البيانات لمعالجة الإضافات. |
-| [PdfAStandardVersion](./pdfastandardversion/) | يحدد إصدار معيار PDF/A لمستند PDF. |
+| [DataType](./datatype/) | يمثل الأنواع الممكنة للبيانات لمعالجة الملحق. |
+| [PdfAStandardVersion](./pdfastandardversion/) | يحدد نسخة معيار PDF/A لمستند PDF. |
 | [SaveFormat](./saveformat/) | يسمح بتحديد تنسيق ملف .doc أو .docx. |
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ConversionLog
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. تحصل على سجل عملية التحويل
+title: "PdfFileEditor.ConversionLog"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. يحصل على سجل عملية التحويل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdffileeditor/conversionlog/
 ---
-## خاصية PdfFileEditor.ConversionLog
+## PdfFileEditor.ConversionLog property
 
-تحصل على سجل عملية التحويل.
+يحصل على سجل عملية التحويل.
 
 ```csharp
 public string ConversionLog { get; }
@@ -19,3 +19,5 @@ public string ConversionLog { get; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

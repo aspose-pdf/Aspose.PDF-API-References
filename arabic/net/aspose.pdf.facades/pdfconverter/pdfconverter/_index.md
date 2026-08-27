@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfConverter. يُهيئ كائن PdfConverter جديد
+title: "PdfConverter.PdfConverter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfConverter. يهيء كائن PdfConverter جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdfconverter/pdfconverter/
 ---
 ## PdfConverter() {#constructor}
 
-يُهيئ كائن [`PdfConverter`](../) جديد.
+تهيئ كائنًا جديدًا [`PdfConverter`](../).
 
 ```csharp
 public PdfConverter()
@@ -24,15 +24,15 @@ public PdfConverter()
 
 ## PdfConverter(Document) {#constructor_1}
 
-يُهيئ كائن [`PdfConverter`](../) جديد بناءً على *المستند*.
+تهيئ كائنًا جديدًا [`PdfConverter`](../) على أساس *المستند*.
 
 ```csharp
 public PdfConverter(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | مستند PDF. |
+| document | Document | مستند Pdf. |
 
 ### انظر أيضًا
 
@@ -40,3 +40,5 @@ public PdfConverter(Document document)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

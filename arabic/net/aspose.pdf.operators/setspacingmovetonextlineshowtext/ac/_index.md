@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Ac
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetSpacingMoveToNextLineShowText. احصل على تباعد الأحرف
+title: "SetSpacingMoveToNextLineShowText.Ac"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "SetSpacingMoveToNextLineShowText خاصية. احصل على تباعد الأحرف"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/
 ---
-## خاصية SetSpacingMoveToNextLineShowText.Ac
+## SetSpacingMoveToNextLineShowText.Ac property
 
 احصل على تباعد الأحرف.
 
@@ -19,3 +19,5 @@ public double Ac { get; }
 * class [SetSpacingMoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

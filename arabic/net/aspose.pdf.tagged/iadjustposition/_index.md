@@ -1,14 +1,14 @@
 ---
-title: Interface IAdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Tagged.IAdjustPosition. واجهة لطرق التمركز
+title: "الواجهة IAdjustPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.Tagged.IAdjustPosition. واجهة لطرق التموضع"
 type: docs
-weight: 10300
+weight: 10480
 url: /ar/net/aspose.pdf.tagged/iadjustposition/
 ---
-## واجهة IAdjustPosition
+## IAdjustPosition interface
 
-واجهة لطرق التمركز.
+واجهة لطرق تحديد الموضع.
 
 ```csharp
 public interface IAdjustPosition
@@ -22,5 +22,7 @@ public interface IAdjustPosition
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)
+
+

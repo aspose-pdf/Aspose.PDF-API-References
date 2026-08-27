@@ -1,14 +1,14 @@
 ---
-title: TextSegment.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegment. تحصل على موضع النص للنص الممثل بواسطة كائن TextSegment
+title: "TextSegment.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegment. يحصل على موضع النص للنص الممثل بكائن TextSegment"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textsegment/position/
 ---
-## خاصية TextSegment.Position
+## TextSegment.Position property
 
-تحصل على موضع النص للنص، الممثل بواسطة كائن [`TextSegment`](../).
+يحصل على موضع النص للنص، الممثل بالكائن [`TextSegment`](../).
 
 ```csharp
 public Position Position { get; set; }
@@ -20,3 +20,5 @@ public Position Position { get; set; }
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

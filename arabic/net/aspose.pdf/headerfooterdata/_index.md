@@ -1,33 +1,35 @@
 ---
-title: Class HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.HeaderFooterData. تمثل بيانات الترقيم للرأس والتذييل
+title: "الفئة HeaderFooterData"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.HeaderFooterData. تمثل بيانات الترقيم للترويسة والتذييل"
 type: docs
-weight: 5440
+weight: 5560
 url: /ar/net/aspose.pdf/headerfooterdata/
 ---
 ## HeaderFooterData class
 
-تمثل بيانات الترقيم للرأس والتذييل.
+يمثل بيانات ترقيم الصفحات للرأس والتذييل.
 
 ```csharp
 public class HeaderFooterData
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [HeaderFooterData](headerfooterdata/)() | المُنشئ الافتراضي. |
+| [HeaderFooterData](headerfooterdata/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | يحصل على أو يحدد إعدادات التاريخ. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | يحصل على أو يحدد إعدادات رقم الصفحة. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | يحصل أو يضبط إعدادات التاريخ. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | يحصل أو يضبط إعدادات رقم الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

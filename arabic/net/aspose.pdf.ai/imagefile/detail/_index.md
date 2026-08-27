@@ -1,14 +1,14 @@
 ---
-title: ImageFile.Detail
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageFile. تحصل أو تعين مستوى التفاصيل للصورة إذا تم تحديده من قبل المستخدم. يستخدم low عددًا أقل من الرموز، يمكنك الاشتراك في دقة عالية باستخدام high
+title: "ImageFile.Detail"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ImageFile الخاصية. يحصل أو يضبط مستوى التفاصيل للصورة إذا حُدد من قبل المستخدم. low يستخدم عددًا أقل من الرموز يمكنك اختيار الدقة العالية باستخدام high"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/imagefile/detail/
 ---
-## خاصية ImageFile.Detail
+## ImageFile.Detail property
 
-تحصل أو تعين مستوى التفاصيل للصورة إذا تم تحديده من قبل المستخدم. يستخدم low عددًا أقل من الرموز، يمكنك الاشتراك في دقة عالية باستخدام high.
+يحصل أو يعيّن مستوى التفاصيل للصورة إذا حُدّد من قبل المستخدم. المستوى low يستخدم عددًا أقل من الرموز، يمكنك اختيار الدقة العالية باستخدام high.
 
 ```csharp
 public string Detail { get; set; }
@@ -19,3 +19,5 @@ public string Detail { get; set; }
 * class [ImageFile](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

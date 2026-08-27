@@ -1,28 +1,28 @@
 ---
-title: PdfXmpMetadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfXmpMetadata. تتحقق مما إذا كانت القاموس يحتوي على المفتاح المحدد
+title: "PdfXmpMetadata.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfXmpMetadata. تتحقق مما إذا كان القاموس يحتوي على المفتاح المحدد"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/contains/
 ---
 ## Contains(string) {#contains_2}
 
-تتحقق مما إذا كانت القاموس يحتوي على المفتاح المحدد.
+يتحقق مما إذا كان القاموس يحتوي على المفتاح المحدد.
 
 ```csharp
 public bool Contains(string key)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح الذي سيتم التحقق منه. |
+| المفتاح | String | المفتاح الذي سيتم التحقق منه. |
 
-### Return Value
+### قيمة الإرجاع
 
-True - إذا كان القاموس يحتوي على المفتاح المحدد؛ خلاف ذلك، false.
+صحيح - إذا كان القاموس يحتوي على المفتاح المحدد؛ وإلا، خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -32,7 +32,7 @@ if (!xmp.Contains("xmp:Nickname"))
   Console.WriteLine("Key does not exists");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -42,21 +42,21 @@ if (!xmp.Contains("xmp:Nickname"))
 
 ## Contains(DefaultMetadataProperties) {#contains}
 
-تتحقق مما إذا كانت القاموس يحتوي على الخاصية المحددة.
+يتحقق مما إذا كان القاموس يحتوي على الخاصية المحددة.
 
 ```csharp
 public bool Contains(DefaultMetadataProperties property)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| property | DefaultMetadataProperties | الخاصية التي سيتم التحقق منها. |
+| خاصية | DefaultMetadataProperties | الخاصية التي سيتم التحقق منها. |
 
-### Return Value
+### قيمة الإرجاع
 
-True - إذا كان القاموس يحتوي على الخاصية المحددة؛ خلاف ذلك، false.
+صحيح - إذا كان القاموس يحتوي على الخاصية المحددة؛ وإلا، خطأ.
 
-### See Also
+### انظر أيضًا
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
@@ -67,23 +67,25 @@ True - إذا كان القاموس يحتوي على الخاصية المحد�
 
 ## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains_1}
 
-تتحقق مما إذا كانت زوج المفتاح-القيمة المحدد موجود في القاموس.
+يتحقق مما إذا كان زوج المفتاح-القيمة المحدد موجودًا في القاموس.
 
 ```csharp
 public bool Contains(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | KeyValuePair`2 | زوج المفتاح-القيمة. |
+| item | KeyValuePair`2 | زوج المفتاح والقيمة. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم العثور على هذه الزوج.
+صحيح إذا تم العثور على هذا الزوج.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

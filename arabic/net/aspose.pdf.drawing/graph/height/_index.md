@@ -1,14 +1,14 @@
 ---
-title: Graph.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الرسم. يحصل أو يحدد قيمة عائمة تشير إلى ارتفاع الرسم. الوحدة هي نقطة
+title: "Graph.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Graph. يحصل أو يضبط قيمة عائمة تشير إلى ارتفاع الرسم البياني. الوحدة هي النقطة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.drawing/graph/height/
 ---
-## خاصية ارتفاع الرسم
+## Graph.Height property
 
-يحصل أو يحدد قيمة عائمة تشير إلى ارتفاع الرسم. الوحدة هي نقطة.
+يحصل أو يعيّن قيمة عائمة تشير إلى ارتفاع الرسم البياني. الوحدة هي النقطة.
 
 ```csharp
 public double Height { get; set; }
@@ -19,3 +19,5 @@ public double Height { get; set; }
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

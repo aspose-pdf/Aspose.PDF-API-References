@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AppearanceDictionary. تحصل على قيمة تشير إلى ما إذا كان الوصول إلى القاموس متزامن وآمن للخيوط
+title: "AppearanceDictionary.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AppearanceDictionary. يحصل على قيمة تشير إلى ما إذا كان الوصول إلى القاموس متزامنًا وآمنًا للمتعدد الخيوط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/issynchronized/
 ---
-## خاصية AppearanceDictionary.IsSynchronized
+## AppearanceDictionary.IsSynchronized property
 
-تحصل على قيمة تشير إلى ما إذا كان الوصول إلى القاموس متزامن (آمن للخيوط).
+يحصل على قيمة تشير إلى ما إذا كان الوصول إلى القاموس متزامنًا (آمن للخيوط).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

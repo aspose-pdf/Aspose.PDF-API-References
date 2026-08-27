@@ -1,33 +1,35 @@
 ---
-title: Class ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ImageUrl. تمثل عنوان URL لصورة في محتوى رسالة
+title: "الفئة ImageUrl"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.ImageUrl. تمثّل عنوان URL لصورة في محتوى الرسالة."
 type: docs
-weight: 640
+weight: 690
 url: /ar/net/aspose.pdf.ai/imageurl/
 ---
 ## ImageUrl class
 
-تمثل عنوان URL لصورة في محتوى رسالة.
+يمثل عنوان URL للصورة في محتوى الرسالة.
 
 ```csharp
 public class ImageUrl
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageUrl](imageurl/)() | المُنشئ الافتراضي. |
+| [ImageUrl](imageurl/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | يحصل أو يحدد مستوى التفاصيل للصورة إذا تم تحديده من قبل المستخدم. يستخدم المستوى المنخفض عددًا أقل من الرموز، يمكنك اختيار الدقة العالية باستخدام المستوى العالي. |
-| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | يحصل أو يحدد عنوان URL الخارجي للصورة، يجب أن يكون من أنواع الصور المدعومة: jpeg، jpg، png، gif، webp. |
+| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | يحصل أو يعيّن مستوى التفاصيل للصورة إذا حدده المستخدم. يستخدم الوضع المنخفض عددًا أقل من الرموز، ويمكنك اختيار الدقة العالية باستخدام الوضع العالي. |
+| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | يحصل أو يعيّن عنوان URL الخارجي للصورة، ويجب أن يكون من أنواع الصور المدعومة: jpeg, jpg, png, gif, webp. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

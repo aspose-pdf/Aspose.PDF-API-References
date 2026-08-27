@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.CustomPlayer
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RichMediaAnnotation. تعيين أو الحصول على مشغل فلاش مخصص لتشغيل بيانات الفيديو/الصوت
+title: "RichMediaAnnotation.CustomPlayer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RichMediaAnnotation. تعيّن أو تحصل على مشغّل فلاش مخصّص لتشغيل بيانات الفيديو/الصوت"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/richmediaannotation/customplayer/
 ---
-## خاصية RichMediaAnnotation.CustomPlayer
+## RichMediaAnnotation.CustomPlayer property
 
-تعيين أو الحصول على مشغل فلاش مخصص لتشغيل بيانات الفيديو/الصوت.
+يضبط أو يحصل على مشغل فلاش مخصص لتشغيل بيانات الفيديو/الصوت.
 
 ```csharp
 public Stream CustomPlayer { get; set; }
@@ -19,3 +19,5 @@ public Stream CustomPlayer { get; set; }
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

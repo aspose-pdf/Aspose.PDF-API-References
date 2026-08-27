@@ -1,20 +1,20 @@
 ---
-title: StructureAttribute.StructureAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ StructureAttribute. يُهيئ مثيلًا جديدًا من StructureAttribute
+title: "StructureAttribute.StructureAttribute"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ StructureAttribute. يهيئ نسخة جديدة من StructureAttribute"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/structureattribute/
 ---
-## مُنشئ StructureAttribute
+## StructureAttribute constructor
 
-يُهيئ مثيلًا جديدًا من StructureAttribute.
+يُنشئ مثيلاً جديداً لـ StructureAttribute.
 
 ```csharp
 public StructureAttribute(AttributeKey attributeKey)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | attributeKey | AttributeKey | مفتاح السمة |
 
@@ -24,3 +24,5 @@ public StructureAttribute(AttributeKey attributeKey)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

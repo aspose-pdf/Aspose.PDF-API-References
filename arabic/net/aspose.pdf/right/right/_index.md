@@ -1,14 +1,14 @@
 ---
-title: Right.Right
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Right. المُنشئ الافتراضي
+title: "Right.Right"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Right. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/right/right/
 ---
-## مُنشئ Right
+## Right constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Right()
@@ -19,3 +19,5 @@ public Right()
 * class [Right](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

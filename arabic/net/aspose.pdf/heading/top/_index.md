@@ -1,14 +1,14 @@
 ---
-title: Heading.Top
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Heading. تحصل على أعلى Y من هذه العناوين
+title: "Heading.Top"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Heading. تحصل على القيمة العلوية Y لهذه العناوين"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/heading/top/
 ---
-## خاصية Heading.Top
+## Heading.Top property
 
-تحصل على أعلى Y من هذه العناوين.
+يحصل على إحداثي Y العلوي لهذا العنوان.
 
 ```csharp
 public double Top { get; set; }
@@ -19,3 +19,5 @@ public double Top { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

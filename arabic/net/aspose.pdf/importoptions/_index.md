@@ -1,14 +1,14 @@
 ---
-title: Class ImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.ImportOptions. نوع ImportOptions يحمل مستوى من التجريد حول خيارات الاستيراد الفردية
+title: "الفئة ImportOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.ImportOptions. نوع ImportOptions يحتفظ بمستوى التجريد على خيارات الاستيراد الفردية"
 type: docs
-weight: 5950
+weight: 6080
 url: /ar/net/aspose.pdf/importoptions/
 ---
-## فئة ImportOptions
+## ImportOptions class
 
-نوع ImportOptions يحمل مستوى من التجريد حول خيارات الاستيراد الفردية.
+نوع ImportOptions يحمل مستوى التجريد على خيارات الاستيراد الفردية.
 
 ```csharp
 public abstract class ImportOptions
@@ -22,5 +22,7 @@ public abstract class ImportOptions
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

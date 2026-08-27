@@ -1,14 +1,14 @@
 ---
-title: GradientRadialShading.StartColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GradientRadialShading. تحصل أو تعين لون البداية
+title: "GradientRadialShading.StartColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GradientRadialShading. تحصل أو تعيين لون البداية"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.drawing/gradientradialshading/startcolor/
 ---
-## خاصية GradientRadialShading.StartColor
+## GradientRadialShading.StartColor property
 
-تحصل أو تعين لون البداية.
+يحصل أو يضبط لون البداية.
 
 ```csharp
 public Color StartColor { get; set; }
@@ -20,3 +20,5 @@ public Color StartColor { get; set; }
 * class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

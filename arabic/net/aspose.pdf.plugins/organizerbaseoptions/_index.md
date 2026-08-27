@@ -1,14 +1,14 @@
 ---
-title: Class OrganizerBaseOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.OrganizerBaseOptions. تمثل الخيارات الأساسية للإضافات
+title: "الفئة OrganizerBaseOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.OrganizerBaseOptions. تمثل الخيارات الأساسية للمكوّنات."
 type: docs
-weight: 8980
+weight: 9130
 url: /ar/net/aspose.pdf.plugins/organizerbaseoptions/
 ---
-## فئة OrganizerBaseOptions
+## OrganizerBaseOptions class
 
-تمثل الخيارات الأساسية للإضافات.
+يمثل الخيارات الأساسية للملحقات.
 
 ```csharp
 public class OrganizerBaseOptions : IPluginOptions
@@ -18,20 +18,22 @@ public class OrganizerBaseOptions : IPluginOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | إغلاق تدفقات الإدخال بعد اكتمال العملية. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | إغلاق تدفقات الإخراج بعد اكتمال العملية. |
-| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | يعيد مجموعة بيانات إضافات OrganizerOptions. |
-| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لحفظ نتائج العملية. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | إغلاق تدفقات الإدخال بعد إكمال العملية. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | إغلاق تدفقات الإخراج بعد إكمال العملية. |
+| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | يعيد مجموعة بيانات إضافة OrganizerOptions. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات إضافات PdfOrganizer. |
-| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات إضافات PdfOrganizer. |
+| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات إضافة PdfOrganizer. |
+| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات إضافة PdfOrganizer. |
 
 ### انظر أيضًا
 
-* واجهة [IPluginOptions](../ipluginoptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

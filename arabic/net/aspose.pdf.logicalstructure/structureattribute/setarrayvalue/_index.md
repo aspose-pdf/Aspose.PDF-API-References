@@ -1,22 +1,22 @@
 ---
-title: StructureAttribute.SetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureAttribute. تعيين مصفوفة أسماء القيم
+title: "StructureAttribute.SetArrayValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttribute. تضبط قيمة مصفوفة الأسماء"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/
 ---
-## طريقة StructureAttribute.SetArrayValue
+## StructureAttribute.SetArrayValue method
 
-تعيين مصفوفة أسماء القيم.
+يضبط مصفوفة أسماء القيم.
 
 ```csharp
 public void SetArrayValue(AttributeName[] array)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | AttributeName[] | مصفوفة من أسماء القيم المسموح بها. |
+| مصفوفة | AttributeName[] | مصفوفة من أسماء القيم المسموح بها. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void SetArrayValue(AttributeName[] array)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

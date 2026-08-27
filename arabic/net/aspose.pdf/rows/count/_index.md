@@ -1,12 +1,12 @@
 ---
-title: Rows.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفوف. عدد العناصر
+title: "Rows.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rows. عدد العناصر"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/rows/count/
 ---
-## خاصية Rows.Count
+## Rows.Count property
 
 عدد العناصر.
 
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

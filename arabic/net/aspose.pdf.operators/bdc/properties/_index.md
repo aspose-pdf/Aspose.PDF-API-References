@@ -1,12 +1,12 @@
 ---
-title: BDC.Properties
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BDC.
+title: "BDC.Properties"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BDC."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/bdc/properties/
 ---
-## خاصية BDC.Properties
+## BDC.Properties property
 
 ```csharp
 public BDCProperties Properties { get; }
@@ -18,3 +18,5 @@ public BDCProperties Properties { get; }
 * class [BDC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

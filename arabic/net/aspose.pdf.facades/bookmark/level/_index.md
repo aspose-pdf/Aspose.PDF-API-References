@@ -1,14 +1,14 @@
 ---
-title: Bookmark.Level
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارات المرجعية. تحصل أو تعين مستوى تسلسل الإشارات المرجعية
+title: "Bookmark.Level"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. تحصل أو تعيين مستوى تسلسل الإشارات الهرمي"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/bookmark/level/
 ---
-## خاصية Bookmark.Level
+## Bookmark.Level property
 
-تحصل أو تعين مستوى تسلسل الإشارة المرجعية.
+يحصل أو يضبط مستوى تسلسل الإشارة المرجعية.
 
 ```csharp
 public int Level { get; set; }
@@ -19,3 +19,5 @@ public int Level { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

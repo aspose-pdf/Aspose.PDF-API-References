@@ -1,14 +1,14 @@
 ---
-title: PageSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSettings. تحصل أو تعين قيمة تشير إلى الهوامش لهذه الصفحة
+title: "PageSettings.Margins"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSettings. يحصل أو يحدد قيمة تشير إلى الهوامش لهذه الصفحة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.printing/pagesettings/margins/
 ---
-## خاصية PageSettings.Margins
+## PageSettings.Margins property
 
-تحصل أو تعين قيمة تشير إلى الهوامش لهذه الصفحة.
+يحصل أو يضبط قيمة تشير إلى الهوامش لهذه الصفحة.
 
 ```csharp
 public Margins Margins { get; set; }
@@ -20,3 +20,5 @@ public Margins Margins { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

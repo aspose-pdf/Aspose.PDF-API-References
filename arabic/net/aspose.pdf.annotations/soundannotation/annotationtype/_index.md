@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundAnnotation. تحصل على نوع التعليق
+title: "SoundAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundAnnotation. تحصل على نوع التعليق."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/soundannotation/annotationtype/
 ---
-## خاصية SoundAnnotation.AnnotationType
+## SoundAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

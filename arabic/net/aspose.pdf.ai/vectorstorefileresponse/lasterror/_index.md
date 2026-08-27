@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.LastError
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreFileResponse. تحصل على أو تعين آخر خطأ مرتبط بهذا الملف الخاص بمخزن المتجهات. ستكون null إذا لم يكن هناك أخطاء
+title: "VectorStoreFileResponse.LastError"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "VectorStoreFileResponse خاصية. يحصل أو يعيّن الخطأ الأخير المرتبط بهذا الملف في مخزن المتجهات. سيكون null إذا لم تكن هناك أخطاء"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/vectorstorefileresponse/lasterror/
 ---
-## خاصية VectorStoreFileResponse.LastError
+## VectorStoreFileResponse.LastError property
 
-تحصل على أو تعين آخر خطأ مرتبط بهذا الملف الخاص بمخزن المتجهات. ستكون null إذا لم يكن هناك أخطاء.
+يحصل أو يعيّن الخطأ الأخير المرتبط بهذا ملف مخزن المتجهات. سيكون null إذا لم يكن هناك أخطاء.
 
 ```csharp
 public LastError LastError { get; set; }
@@ -20,3 +20,5 @@ public LastError LastError { get; set; }
 * class [VectorStoreFileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

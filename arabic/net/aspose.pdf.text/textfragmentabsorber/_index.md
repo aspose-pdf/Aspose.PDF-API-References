@@ -1,96 +1,98 @@
 ---
-title: Class TextFragmentAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFragmentAbsorber class. يمثل كائن ماص لقطع النص. يقوم بإجراء بحث عن النص ويوفر الوصول إلى نتائج البحث عبر مجموعة TextFragments
+title: "الفئة TextFragmentAbsorber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Text.TextFragmentAbsorber class. تمثل كائن ماص لقطاعات النص. تقوم بالبحث عن النص وتوفر الوصول إلى نتائج البحث عبر مجموعة TextFragments"
 type: docs
-weight: 10950
+weight: 11130
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber class
 
-يمثل كائن ماص لقطع النص. يقوم بإجراء بحث عن النص ويوفر الوصول إلى نتائج البحث عبر [`TextFragments`](./textfragments/) المجموعة.
+تمثل كائن ماص لقطاعات النص. تقوم بالبحث عن النص وتوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](./textfragments/) .
 
 ```csharp
 public sealed class TextFragmentAbsorber : TextAbsorber
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor)() | يقوم بتهيئة مثيل جديد من `TextFragmentAbsorber` الذي يقوم بالبحث عن جميع مقاطع النص في المستند أو الصفحة. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_6)(Regex) | يقوم بتهيئة مثيل جديد من فئة `TextFragmentAbsorber` لكائن فئة System.Text.RegularExpressions.Regex المحدد. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_2)(string) | يقوم بتهيئة مثيل جديد من فئة `TextFragmentAbsorber` لعبارة النص المحددة. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_1)(TextEditOptions) | يقوم بتهيئة مثيل جديد من `TextFragmentAbsorber` مع خيارات تحرير النص، الذي يقوم بالبحث عن جميع مقاطع النص في المستند أو الصفحة. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_7)(Regex, TextEditOptions) | يقوم بتهيئة مثيل جديد من فئة `TextFragmentAbsorber` لعبارة النص المحددة وخيارات تحرير النص. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_8)(Regex, TextSearchOptions) | يقوم بتهيئة مثيل جديد من فئة `TextFragmentAbsorber` لعبارة النص المحددة وخيارات بحث النص. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_9)(Regex[], TextSearchOptions) | يقوم بتهيئة مثيل جديد من فئة `TextFragmentAbsorber` لعبارة النص المحددة وخيارات بحث النص. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_3)(string, TextEditOptions) | يقوم بتهيئة مثيل جديد من فئة `TextFragmentAbsorber` لعبارة النص المحددة وخيارات تحرير النص. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_4)(string, TextSearchOptions) | يقوم بتهيئة مثيل جديد من فئة `TextFragmentAbsorber` لعبارة النص المحددة وخيارات بحث النص. |
-| [TextFragmentAbsorber](textfragmentabsorber/#constructor_5)(string, TextSearchOptions, TextEditOptions) | يقوم بتهيئة مثيل جديد من فئة `TextFragmentAbsorber` لعبارة النص المحددة، خيارات بحث النص وخيارات تحرير النص. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor)() | ينشئ مثيلًا جديدًا من `TextFragmentAbsorber` يقوم بالبحث في جميع قطاعات النص في المستند أو الصفحة. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_6)(Regex) | ينشئ مثيلًا جديدًا من فئة `TextFragmentAbsorber` للكائن من فئة System.Text.RegularExpressions.Regex المحدد. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_2)(string) | ينشئ مثيلًا جديدًا من فئة `TextFragmentAbsorber` للعبارة النصية المحددة. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_1)(TextEditOptions) | ينشئ مثيلًا جديدًا من `TextFragmentAbsorber` مع خيارات تحرير النص، يقوم بالبحث في جميع قطاعات النص في المستند أو الصفحة. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_7)(Regex, TextEditOptions) | ينشئ مثيلًا جديدًا من فئة `TextFragmentAbsorber` للعبارة النصية المحددة وخيارات تحرير النص. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_8)(Regex, TextSearchOptions) | ينشئ مثيلًا جديدًا من فئة `TextFragmentAbsorber` للعبارة النصية المحددة وخيارات البحث عن النص. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_9)(Regex[], TextSearchOptions) | ينشئ مثيلًا جديدًا من فئة `TextFragmentAbsorber` للعبارة النصية المحددة وخيارات البحث عن النص. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_3)(string, TextEditOptions) | ينشئ مثيلًا جديدًا من فئة `TextFragmentAbsorber` للعبارة النصية المحددة وخيارات تحرير النص. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_4)(string, TextSearchOptions) | ينشئ مثيلًا جديدًا من فئة `TextFragmentAbsorber` للعبارة النصية المحددة وخيارات البحث عن النص. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_5)(string, TextSearchOptions, TextEditOptions) | ينشئ مثيلًا جديدًا من فئة `TextFragmentAbsorber` للعبارة النصية المحددة، خيارات البحث عن النص، وخيارات تحرير النص. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textfragmentabsorber/errors/) { get; } | قائمة من كائنات [`TextExtractionError`](../textextractionerror/) . تحتوي على معلومات حول الأخطاء التي تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كانت TextSearchOptions.LogTextExtractionErrors = true; وقد يقلل ذلك من الأداء. |
-| override [ExtractionOptions](../../aspose.pdf.text/textfragmentabsorber/extractionoptions/) { get; set; } | يحصل أو يحدد خيارات استخراج النص. |
-| [HasErrors](../../aspose.pdf.text/textfragmentabsorber/haserrors/) { get; } | القيمة تشير إلى ما إذا كانت الأخطاء قد وجدت أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كانت TextSearchOptions.LogTextExtractionErrors = true; وقد يقلل ذلك من الأداء. |
-| [Phrase](../../aspose.pdf.text/textfragmentabsorber/phrase/) { get; set; } | يحصل أو يحدد العبارة التي يبحث عنها `TextFragmentAbsorber` في مستند PDF أو الصفحة. |
-| [RegexResults](../../aspose.pdf.text/textfragmentabsorber/regexresults/) { get; } | يحصل على قاموس من حالات البحث التي يتم تقديمها مع فئة System.Text.RegularExpressions.Regex كمفتاح و [`TextFragment`](../textfragment/) كقيمة. |
-| override [Text](../../aspose.pdf.text/textfragmentabsorber/text/) { get; } | يحصل على النص المستخرج الذي يقوم به [`TextAbsorber`](../textabsorber/) في مستند PDF أو الصفحة. |
-| [TextEditOptions](../../aspose.pdf.text/textfragmentabsorber/texteditoptions/) { get; set; } | يحصل أو يحدد خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط. |
-| [TextFragments](../../aspose.pdf.text/textfragmentabsorber/textfragments/) { get; set; } | يحصل على مجموعة من حالات البحث التي يتم تقديمها مع كائنات [`TextFragment`](../textfragment/) . |
-| [TextReplaceOptions](../../aspose.pdf.text/textfragmentabsorber/textreplaceoptions/) { get; set; } | يحصل أو يحدد خيارات استبدال النص. تحدد الخيارات السلوك عندما يتم استبدال نص القطعة بنص أقصر/أطول. |
-| [TextSearchOptions](../../aspose.pdf.text/textfragmentabsorber/textsearchoptions/) { get; set; } | يحصل أو يحدد خيارات البحث. تمكّن الخيارات البحث باستخدام التعبيرات العادية. |
+| [Errors](../../aspose.pdf.text/textfragmentabsorber/errors/) { get; } | قائمة من كائنات [`TextExtractionError`](../textextractionerror/). تحتوي على معلومات حول الأخطاء التي تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كان TextSearchOptions.LogTextExtractionErrors = true؛ وقد يؤدي ذلك إلى تقليل الأداء. |
+| override [ExtractionOptions](../../aspose.pdf.text/textfragmentabsorber/extractionoptions/) { get; set; } | يحصل أو يعيّن خيارات استخراج النص. |
+| [HasErrors](../../aspose.pdf.text/textfragmentabsorber/haserrors/) { get; } | القيمة تشير إلى ما إذا تم العثور على أخطاء أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كان TextSearchOptions.LogTextExtractionErrors = true؛ وقد يؤدي ذلك إلى تقليل الأداء. |
+| [Phrase](../../aspose.pdf.text/textfragmentabsorber/phrase/) { get; set; } | يحصل أو يعيّن العبارة التي يبحث عنها `TextFragmentAbsorber` في مستند PDF أو الصفحة. |
+| [RegexResults](../../aspose.pdf.text/textfragmentabsorber/regexresults/) { get; } | يحصل على القاموس الخاص بحدوث عمليات البحث التي يتم تمثيلها بفئة System.Text.RegularExpressions.Regex كمفتاح و[`TextFragment`](../textfragment/) كقيمة. |
+| override [Text](../../aspose.pdf.text/textfragmentabsorber/text/) { get; } | يحصل على النص المستخرج الذي تقوم [`TextAbsorber`](../textabsorber/) باستخراجه من مستند PDF أو الصفحة. |
+| [TextEditOptions](../../aspose.pdf.text/textfragmentabsorber/texteditoptions/) { get; set; } | يحصل أو يعيّن خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط. |
+| [TextFragments](../../aspose.pdf.text/textfragmentabsorber/textfragments/) { get; set; } | يحصل على مجموعة حدوث عمليات البحث التي يتم تمثيلها بكائنات [`TextFragment`](../textfragment/). |
+| [TextReplaceOptions](../../aspose.pdf.text/textfragmentabsorber/textreplaceoptions/) { get; set; } | يحصل أو يعيّن خيارات استبدال النص. تحدد الخيارات السلوك عندما يتم استبدال نص الجزء إلى أقصر/أطول. |
+| [TextSearchOptions](../../aspose.pdf.text/textfragmentabsorber/textsearchoptions/) { get; set; } | يحصل أو يعيّن خيارات البحث. تمكّن الخيارات البحث باستخدام التعبيرات النمطية. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments_2)(float) | يطبق حجم الخط لجميع مقاطع النص التي تم امتصاصها. يعمل بشكل أسرع من التكرار عبر المقاطع إذا تم امتصاص جميع المقاطع في الصفحة (الصفحات). خلاف ذلك، يعمل بشكل مشابه مع التكرار. |
-| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments)(Font) | يطبق الخط لجميع مقاطع النص التي تم امتصاصها. يعمل بشكل أسرع من التكرار عبر المقاطع إذا تم امتصاص جميع المقاطع في الصفحة (الصفحات). خلاف ذلك، يعمل بشكل مشابه مع التكرار. |
-| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments_1)(Font, float) | يطبق الخط والحجم لجميع مقاطع النص التي تم امتصاصها. يعمل بشكل أسرع من التكرار عبر المقاطع إذا تم امتصاص جميع المقاطع في الصفحة (الصفحات). خلاف ذلك، يعمل بشكل مشابه مع التكرار. |
+| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments_2)(float) | يطبق حجم الخط لجميع أجزاء النص التي تم امتصاصها. يعمل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء على الصفحة(الصفحات). وإلا يعمل بشكل مشابه مع التكرار. |
+| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments)(Font) | يطبق الخط لجميع أجزاء النص التي تم امتصاصها. يعمل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء على الصفحة(الصفحات). وإلا يعمل بشكل مشابه مع التكرار. |
+| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments_1)(Font, float) | يطبق الخط والحجم لجميع أجزاء النص التي تم امتصاصها. يعمل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء على الصفحة(الصفحات). وإلا يعمل بشكل مشابه مع التكرار. |
 | [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext/#removealltext)(Document) | يزيل جميع النصوص من المستند. |
 | [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext/#removealltext_1)(Page) | يزيل جميع النصوص من الصفحة المحددة. |
 | [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext/#removealltext_2)(Page, Rectangle) | يزيل النص داخل المستطيل المحدد من الصفحة المحددة. |
-| [Reset](../../aspose.pdf.text/textfragmentabsorber/reset/)() | يمسح مجموعة TextFragments من كائن `TextFragmentAbsorber` هذا. |
-| override [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit)(Document) | يقوم بإجراء بحث على المستند المحدد. |
-| override [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit_1)(Page) | يقوم بإجراء بحث على الصفحة المحددة. |
-| [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit_2)(XForm) | يقوم بإجراء بحث على كائن النموذج المحدد. |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/)(XForm) | يستخرج النص على XForm المحدد. |
+| [Reset](../../aspose.pdf.text/textfragmentabsorber/reset/)() | يمسح مجموعة TextFragments لهذا الكائن `TextFragmentAbsorber`. |
+| override [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit)(Document) | ينفّذ البحث على المستند المحدد. |
+| override [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit_1)(Page) | ينفّذ البحث على الصفحة المحددة. |
+| [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit_2)(XForm) | ينفّذ البحث على كائن النموذج المحدد. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/)(XForm) | يستخرج النص على الـ XForm المحدد. |
 
-## Remarks
+## ملاحظات
 
-كائن `TextFragmentAbsorber` يستخدم أساسًا في سيناريو بحث النص. عند الانتهاء من البحث، يتم تمثيل الحالات مع كائنات [`TextFragment`](../textfragment/) التي تحتوي عليها مجموعة [`TextFragments`](./textfragments/). يوفر كائن [`TextFragment`](../textfragment/) الوصول إلى نص حالة البحث، وخصائص النص، ويسمح بتحرير النص وتغيير حالة النص (الخط، حجم الخط، اللون، إلخ).
+يُستخدم كائن `TextFragmentAbsorber` أساسًا في سيناريو البحث عن النص. عند اكتمال البحث يتم تمثيل الوقائع بكائنات [`TextFragment`](../textfragment/) التي تحتويها مجموعة [`TextFragments`](./textfragments/). يوفر كائن [`TextFragment`](../textfragment/) إمكانية الوصول إلى نص الوقائع، وخصائص النص، ويسمح بتعديل النص وتغيير حالة النص (الخط، حجم الخط، اللون، إلخ).
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية العثور على نص في الصفحة الأولى من مستند PDF واستبدال النص وخطه.
+يوضح المثال كيفية العثور على النص في الصفحة الأولى من مستند PDF وتبديل النص وخطه.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// العثور على الخط الذي سيُستخدم لتغيير خط نص المستند
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// Change text and font of the first text occurrence
+// تغيير النص والخط لأول تكرار نص
 absorber.TextFragments[1].Text = "hi world";
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [TextAbsorber](../textabsorber/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,25 @@
 ---
-title: BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BorderInfo. يقوم بتهيئة مثيل جديد من فئة BorderInfo
+title: "BorderInfo.BorderInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BorderInfo. يهيئ نسخة جديدة من فئة BorderInfo"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
+يهيئ نسخة جديدة من الفئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
-| borderColor | Color | لون الحدود. |
+| borderSide | BorderSide | يشير إلى معلومات جوانب الحد. على سبيل المثال: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
+| borderColor | Color | لون الحد. |
 
-### See Also
+### انظر أيضًا
 
 * enum [BorderSide](../../borderside/)
 * class [Color](../../color/)
@@ -31,13 +31,13 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 ## BorderInfo() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
+يهيئ نسخة جديدة من الفئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -47,17 +47,17 @@ public BorderInfo()
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
+يهيئ نسخة جديدة من الفئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | يشير إلى معلومات جوانب الحد. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
 
-### See Also
+### انظر أيضًا
 
 * enum [BorderSide](../../borderside/)
 * class [BorderInfo](../)
@@ -68,18 +68,18 @@ public BorderInfo(BorderSide borderSide)
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
+يهيئ نسخة جديدة من الفئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | عرض الحدود. |
+| borderSide | BorderSide | يشير إلى معلومات جوانب الحد. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | عرض الحد. |
 
-### See Also
+### انظر أيضًا
 
 * enum [BorderSide](../../borderside/)
 * class [BorderInfo](../)
@@ -90,19 +90,19 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
+يهيئ نسخة جديدة من الفئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | عرض الحدود. |
-| borderColor | Color | لون الحدود. |
+| borderSide | BorderSide | يشير إلى معلومات جوانب الحد. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | عرض الحد. |
+| borderColor | Color | لون الحد. |
 
-### See Also
+### انظر أيضًا
 
 * enum [BorderSide](../../borderside/)
 * class [Color](../../color/)
@@ -114,21 +114,23 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
+يهيئ نسخة جديدة من الفئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
-| info | GraphInfo | معلومات الحدود. |
+| borderSide | BorderSide | يشير إلى معلومات جوانب الحد. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
+| معلومات | GraphInfo | معلومات الحد. |
 
-### See Also
+### انظر أيضًا
 
 * enum [BorderSide](../../borderside/)
 * class [GraphInfo](../../graphinfo/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

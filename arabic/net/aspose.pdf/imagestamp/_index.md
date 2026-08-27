@@ -1,63 +1,65 @@
 ---
-title: Class ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.ImageStamp. تمثل ختمًا رسوميًا
+title: "الفئة ImageStamp"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.ImageStamp. تمثل ختمًا رسوميًا"
 type: docs
-weight: 5930
+weight: 6060
 url: /ar/net/aspose.pdf/imagestamp/
 ---
 ## ImageStamp class
 
-تمثل ختمًا رسوميًا.
+يمثل ختمًا رسوميًا.
 
 ```csharp
 public sealed class ImageStamp : Stamp
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageStamp](imagestamp/#constructor)(Stream) | يقوم بتهيئة مثيل جديد من فئة `ImageStamp`. |
-| [ImageStamp](imagestamp/#constructor_1)(string) | ينشئ ختم صورة من الصورة في الملف المحدد. |
+| [ImageStamp](imagestamp/#constructor)(Stream) | تهيئة نسخة جديدة من الفئة `ImageStamp`. |
+| [ImageStamp](imagestamp/#constructor_1)(string) | إنشاء ختم صورة باستخدام الصورة الموجودة في الملف المحدد. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AlternativeText](../../aspose.pdf/imagestamp/alternativetext/) { get; set; } | يحصل أو يحدد النص البديل لختم الصورة. |
-| [Background](../../aspose.pdf/stamp/background/) { get; set; } | يحدد أو يحصل على قيمة بوليانية تشير إلى أن المحتوى مختوم كخلفية. إذا كانت القيمة صحيحة، يتم وضع محتوى الختم في الأسفل. بشكل افتراضي، تكون القيمة خاطئة، يتم وضع محتوى الختم في الأعلى. |
-| [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | يحصل أو يحدد الهامش السفلي للختم. |
-| override [Height](../../aspose.pdf/imagestamp/height/) { get; set; } | يحصل أو يحدد ارتفاع الصورة. يسمح تعيين هذه الصورة بتغيير حجم الصورة عموديًا. |
-| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | يحصل أو يحدد المحاذاة الأفقية للختم على الصفحة. |
-| [Image](../../aspose.pdf/imagestamp/image/) { get; } | يحصل على تدفق الصورة المستخدم للختم. |
-| [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | يحصل أو يحدد الهامش الأيسر للختم. |
-| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | يحصل أو يحدد قيمة تشير إلى شفافية الختم. القيمة تتراوح من 0.0 إلى 1.0. بشكل افتراضي، تكون القيمة 1.0. |
-| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | يحصل أو يحدد قيمة تشير إلى شفافية محيط الختم. القيمة تتراوح من 0.0 إلى 1.0. بشكل افتراضي، تكون القيمة 1.0. |
-| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | يحصل أو يحدد قيمة عرض محيط الختم. بشكل افتراضي، تكون القيمة 1.0. |
-| [Quality](../../aspose.pdf/imagestamp/quality/) { get; set; } | يحصل أو يحدد جودة ختم الصورة بالنسبة المئوية. القيم الصالحة هي 0..100%. |
-| [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | يحصل أو يحدد الهامش الأيمن للختم. |
-| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | يحدد أو يحصل على دوران محتوى الختم وفقًا لقيم [`Rotation`](../rotation/). ملاحظة. هذه الخاصية مخصصة لتعيين الزوايا التي هي مضاعفات 90 درجة (0، 90، 180، 270 درجة). لتعيين زاوية عشوائية، استخدم خاصية RotateAngle. إذا كانت الزاوية المحددة بواسطة ArbitraryAngle ليست مضاعفًا لـ 90، فإن خاصية Rotate تعيد Rotation.None. |
-| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | يحصل أو يحدد زاوية دوران الختم بالدرجات. تسمح هذه الخاصية بتعيين زاوية دوران عشوائية. |
-| [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | يحصل أو يحدد الهامش العلوي للختم. |
-| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | يحصل أو يحدد المحاذاة الرأسية للختم على الصفحة. |
-| override [Width](../../aspose.pdf/imagestamp/width/) { get; set; } | يحصل أو يحدد عرض الصورة. يسمح تعيين هذه الخاصية بتغيير حجم الصورة أفقيًا. |
-| override [XIndent](../../aspose.pdf/imagestamp/xindent/) { get; set; } | يحصل ويحدد إحداثي الختم الأفقي، بدءًا من اليسار. |
-| override [YIndent](../../aspose.pdf/imagestamp/yindent/) { get; set; } | يحصل ويحدد إحداثي الختم الرأسي، بدءًا من الأسفل. |
-| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | عامل تكبير الختم. يسمح بتغيير حجم الختم. يرجى ملاحظة أن زوج الخصائص ZoomX و ZoomY يسمح بتعيين عامل التكبير لكل محور بشكل منفصل. يؤدي تعيين هذه الخاصية إلى تغيير كل من خصائص ZoomX و ZoomY. إذا كانت ZoomX و ZoomY مختلفتين، فإن خاصية Zoom تعيد قيمة ZoomX. |
-| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | عامل التكبير الأفقي للختم. يسمح بتغيير حجم الختم أفقيًا. |
-| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | عامل التكبير الرأسي للختم. يسمح بتغيير حجم الختم عموديًا. |
+| [AlternativeText](../../aspose.pdf/imagestamp/alternativetext/) { get; set; } | الحصول على أو تعيين النص البديل لختم الصورة. |
+| [Background](../../aspose.pdf/stamp/background/) { get; set; } | يضبط أو يحصل على قيمة bool تشير إلى أن المحتوى تم وضعه كخلفية. إذا كانت القيمة true، يتم وضع محتوى الطابع في الأسفل. بشكل افتراضي، تكون القيمة false، ويتم وضع محتوى الطابع في الأعلى. |
+| [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | يحصل أو يضبط الهامش السفلي للطابع. |
+| override [Height](../../aspose.pdf/imagestamp/height/) { get; set; } | الحصول على أو تعيين ارتفاع الصورة. ضبط هذه الصورة يسمح بتكبير الصورة عموديًا. |
+| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | يحصل أو يضبط محاذاة الطابع الأفقية على الصفحة. |
+| [Image](../../aspose.pdf/imagestamp/image/) { get; } | الحصول على تدفق الصورة المستخدم للختم. |
+| [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | يحصل أو يضبط الهامش الأيسر للطابع. |
+| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | يحصل أو يضبط قيمة لتحديد شفافية الطابع. القيمة تتراوح بين 0.0 إلى 1.0. بشكل افتراضي القيمة هي 1.0. |
+| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | يحصل أو يضبط قيمة لتحديد شفافية حدود الطابع. القيمة تتراوح بين 0.0 إلى 1.0. بشكل افتراضي القيمة هي 1.0. |
+| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | يحصل أو يضبط قيمة عرض حدود الطابع. بشكل افتراضي القيمة هي 1.0. |
+| [Quality](../../aspose.pdf/imagestamp/quality/) { get; set; } | الحصول على أو تعيين جودة ختم الصورة بالنسبة المئوية. القيم الصالحة هي 0..100%. |
+| [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | يحصل أو يضبط الهامش الأيمن للطابع. |
+| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | يضبط أو يحصل على دوران محتوى الطابع وفق قيم [`Rotation`](../rotation/). ملاحظة. هذه الخاصية مخصصة لتعيين الزوايا التي هي مضاعفات 90 درجة (0، 90، 180، 270 درجة). لتعيين زاوية عشوائية استخدم الخاصية RotateAngle. إذا كانت الزاوية التي تم تعيينها بواسطة ArbitraryAngle ليست مضاعفًا للـ 90 فإن خاصية Rotate تُعيد Rotation.None. |
+| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | يحصل أو يضبط زاوية دوران الطابع بالدرجات. تسمح هذه الخاصية بتعيين زاوية دوران عشوائية. |
+| [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | يحصل أو يضبط الهامش العلوي للطابع. |
+| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | يحصل أو يضبط محاذاة الطابع العمودية على الصفحة. |
+| override [Width](../../aspose.pdf/imagestamp/width/) { get; set; } | الحصول على أو تعيين عرض الصورة. ضبط هذه الخاصية يسمح بتكبير الصورة أفقيًا. |
+| override [XIndent](../../aspose.pdf/imagestamp/xindent/) { get; set; } | الحصول على وتعيين إحداثي الختم الأفقي، بدءًا من اليسار. |
+| override [YIndent](../../aspose.pdf/imagestamp/yindent/) { get; set; } | الحصول على وتعيين إحداثي الختم العمودي، بدءًا من الأسفل. |
+| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | عامل التكبير للطابع. يسمح بتكبير الطابع. يرجى ملاحظة أن زوج الخصائص ZoomX و ZoomY يسمح بتعيين عامل التكبير لكل محور على حدة. تغيير هذه الخاصية يغير كل من خصائص ZoomX و ZoomY. إذا كانت ZoomX و ZoomY مختلفة فإن خاصية Zoom تُعيد قيمة ZoomX. |
+| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | عامل التكبير الأفقي للطابع. يسمح بتكبير الطابع أفقيًا. |
+| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | عامل التكبير العمودي للطابع. يسمح بتكبير الطابع عموديًا. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [getStampId](../../aspose.pdf/stamp/getstampid/)() | يعيد معرف الختم. |
-| override [Put](../../aspose.pdf/imagestamp/put/)(Page) | يضيف ختمًا رسوميًا على الصفحة. |
-| [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | يحدد معرف الختم. |
+| [getStampId](../../aspose.pdf/stamp/getstampid/)() | يعيد معرف الطابع. |
+| override [Put](../../aspose.pdf/imagestamp/put/)(Page) | إضافة ختم رسومي إلى الصفحة. |
+| [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | يضبط معرف الطابع. |
 
-### See Also
+### انظر أيضًا
 
 * class [Stamp](../stamp/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

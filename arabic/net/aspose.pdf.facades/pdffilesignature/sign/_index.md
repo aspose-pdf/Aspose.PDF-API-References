@@ -1,30 +1,30 @@
 ---
-title: PdfFileSignature.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. قم بعمل توقيع على مستند pdf
+title: "PdfFileSignature.Sign"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. إنشاء توقيع على مستند pdf"
 type: docs
 weight: 300
 url: /ar/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-قم بعمل توقيع على مستند pdf.
+أنشئ توقيعًا على مستند PDF.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
     Rectangle annotRect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Int32 | رقم الصفحة التي يتم فيها التوقيع. |
+| صفحة | Int32 | رقم الصفحة التي يُجرى فيها التوقيع. |
 | SigReason | String | سبب التوقيع. |
 | SigContact | String | جهة الاتصال للتوقيع. |
 | SigLocation | String | موقع التوقيع. |
-| visible | Boolean | رؤية التوقيع. |
+| مرئي | Boolean | ظهور التوقيع. |
 | annotRect | Rectangle | مستطيل التوقيع. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -48,7 +48,7 @@ pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
 pdfSign.Save(outFile)
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -58,24 +58,24 @@ pdfSign.Save(outFile)
 
 ## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
 
-قم بتوقيع المستند باستخدام نوع التوقيع المعطى.
+وقّع المستند باستخدام نوع التوقيع المحدد.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
     Rectangle annotRect, Signature sig)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Int32 | رقم الصفحة التي يتم فيها التوقيع. |
+| صفحة | Int32 | رقم الصفحة التي يُجرى فيها التوقيع. |
 | SigReason | String | سبب التوقيع. |
 | SigContact | String | جهة الاتصال للتوقيع. |
 | SigLocation | String | موقع التوقيع. |
-| visible | Boolean | رؤية التوقيع. |
+| مرئي | Boolean | ظهور التوقيع. |
 | annotRect | Rectangle | مستطيل التوقيع. |
-| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1، PKCS7 و PKCS7Detached. |
+| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1 أو PKCS7 و PKCS7Detached. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -98,7 +98,7 @@ pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
 pdfSign.Save()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
@@ -109,20 +109,20 @@ pdfSign.Save()
 
 ## Sign(int, bool, Rectangle, Signature) {#sign}
 
-قم بتوقيع المستند باستخدام نوع التوقيع المعطى.
+وقّع المستند باستخدام نوع التوقيع المحدد.
 
 ```csharp
 public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Int32 | رقم الصفحة التي يتم فيها التوقيع. |
-| visible | Boolean | رؤية التوقيع. |
+| صفحة | Int32 | رقم الصفحة التي يُجرى فيها التوقيع. |
+| مرئي | Boolean | ظهور التوقيع. |
 | annotRect | Rectangle | مستطيل التوقيع. |
-| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1، PKCS7 و PKCS7Detached. يجب أن تكون البيانات مثل سبب التوقيع، جهة الاتصال والموقع موجودة بالفعل في هذا الكائن (انظر الخصائص المقابلة). |
+| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1 أو PKCS7 و PKCS7Detached. يجب أن تكون بيانات مثل سبب التوقيع، جهة الاتصال والموقع موجودة بالفعل في هذا الكائن (انظر الخصائص المقابلة). |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -152,7 +152,7 @@ pdfSign.Sign(2, true, rect, sig)
 pdfSign.Save()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
@@ -163,22 +163,22 @@ pdfSign.Save()
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-قم بتوقيع المستند باستخدام نوع التوقيع المعطى الذي يتم وضعه في حقل التوقيع الموجود بالفعل. قبل التوقيع، يجب أن يكون حقل التوقيع فارغًا، أي يجب ألا يحتوي الحقل على قاموس التوقيع. وبالتالي، يجب أن يحتوي مستند pdf بالفعل على حقل توقيع، يجب ألا تزود مكان ختم التوقيع، يتم أخذ الصفحة والمستطيل المقابلين من حقل التوقيع الذي يتم العثور عليه بواسطة اسم التوقيع (انظر معلمة SigName).
+وقّع المستند باستخدام نوع التوقيع المحدد والذي يتم وضعه في حقل توقيع موجود مسبقًا. قبل التوقيع يجب أن يكون حقل التوقيع فارغًا، أي لا يجب أن يحتوي الحقل على قاموس توقيع. وبالتالي يحتوي مستند PDF بالفعل على حقل توقيع، لا تحتاج إلى تحديد مكان وضع التوقيع، حيث يتم أخذ الصفحة والمستطيل المقابلين من حقل التوقيع الذي يتم العثور عليه باسم التوقيع (انظر معلمة SigName).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
     Signature sig)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | SigName | String | اسم حقل التوقيع. |
 | SigReason | String | سبب التوقيع. |
 | SigContact | String | جهة الاتصال للتوقيع. |
 | SigLocation | String | موقع التوقيع. |
-| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1، PKCS7 و PKCS7Detached. |
+| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1 أو PKCS7 و PKCS7Detached. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -200,7 +200,7 @@ pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig)
 pdfSign.Save()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
@@ -211,25 +211,25 @@ pdfSign.Save()
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-قم بتوقيع المستند باستخدام نوع التوقيع المعطى الذي يتم وضعه في حقل التوقيع الموجود بالفعل. قبل التوقيع، يجب أن يحتوي مستند pdf بالفعل على حقل توقيع، يتم أخذ الصفحة والمستطيل المقابلين من حقل التوقيع الذي يتم العثور عليه بواسطة اسم التوقيع (انظر معلمة SigName).
+وقّع المستند باستخدام نوع التوقيع المحدد والذي يتم وضعه في حقل توقيع موجود مسبقًا. قبل التوقيع يجب أن يحتوي مستند PDF بالفعل على حقل توقيع، حيث يتم أخذ الصفحة والمستطيل المقابلين من حقل التوقيع الذي يتم العثور عليه باسم التوقيع (انظر معلمة SigName).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
     bool visible, Rectangle annotRect, Signature sig)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Int32 | رقم الصفحة التي يتم فيها التوقيع. |
+| صفحة | Int32 | رقم الصفحة التي يُجرى فيها التوقيع. |
 | SigName | String | اسم حقل التوقيع. |
 | SigReason | String | سبب التوقيع. |
 | SigContact | String | جهة الاتصال للتوقيع. |
 | SigLocation | String | موقع التوقيع. |
-| visible | Boolean | رؤية التوقيع. |
+| مرئي | Boolean | ظهور التوقيع. |
 | annotRect | Rectangle | مستطيل التوقيع. |
-| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1، PKCS7 و PKCS7Detached. |
+| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1 أو PKCS7 و PKCS7Detached. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -252,7 +252,7 @@ pdfSign.Sign("Signature1",  "ReasonToTest", "ContactMe", "SomeLocation", true, r
 pdfSign.Save(outFile)
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
@@ -263,18 +263,18 @@ pdfSign.Save(outFile)
 
 ## Sign(string, Signature) {#sign_4}
 
-قم بتوقيع المستند باستخدام نوع التوقيع المعطى الذي يتم وضعه في حقل التوقيع الموجود بالفعل. قبل التوقيع، يجب أن يكون حقل التوقيع فارغًا، أي يجب ألا يحتوي الحقل على قاموس التوقيع. وبالتالي، يجب أن يحتوي مستند pdf بالفعل على حقل توقيع، يجب ألا تزود مكان ختم التوقيع، يتم أخذ الصفحة والمستطيل المقابلين من حقل التوقيع الذي يتم العثور عليه بواسطة اسم التوقيع (انظر معلمة SigName). يجب توفير بيانات مثل سبب التوقيع، جهة الاتصال والموقع من خلال الخصائص المقابلة لكائن التوقيع sig.
+وقّع المستند باستخدام نوع التوقيع المحدد والذي يتم وضعه في حقل توقيع موجود مسبقًا. قبل التوقيع يجب أن يكون حقل التوقيع فارغًا، أي لا يجب أن يحتوي الحقل على قاموس توقيع. وبالتالي يحتوي مستند PDF بالفعل على حقل توقيع، لا تحتاج إلى تحديد مكان وضع التوقيع، حيث يتم أخذ الصفحة والمستطيل المقابلين من حقل التوقيع الذي يتم العثور عليه باسم التوقيع (انظر معلمة SigName). يجب توفير بيانات مثل سبب التوقيع، ومعلومات الاتصال، والموقع عبر الخصائص المقابلة لكائن Signature المسمى sig.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | SigName | String | اسم حقل التوقيع. |
-| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1 (كائن Pkcs1Signature)، PKCS7 و PKCS7 المنفصل (كائن Pkcs7Signature) |
+| sig | Signature | نوع التوقيع، يمكن أن يكون PKCS1 (كائن Pkcs1Signature)، PKCS7 و PKCS7 detached (كائن Pkcs7Signature) |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -302,9 +302,11 @@ pdfSign.Sign("Signature1", sig)
 pdfSign.Save()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

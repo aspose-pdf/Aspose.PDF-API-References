@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AttributeOwnerStandard. تقوم بإجراء تحويل صريح من String إلى AttributeOwnerStandard
+title: "AttributeOwnerStandard.op_Explicit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AttributeOwnerStandard. تُجري تحويلًا صريحًا من String إلى AttributeOwnerStandard"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/
 ---
-## عامل التشغيل الصريح لـ AttributeOwnerStandard
+## AttributeOwnerStandard Explicit operator
 
 يقوم بإجراء تحويل صريح من String إلى [`AttributeOwnerStandard`](../).
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/
 public static explicit operator AttributeOwnerStandard(string owner)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| owner | String | المالك. |
+| المالك | String | المالك. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public static explicit operator AttributeOwnerStandard(string owner)
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

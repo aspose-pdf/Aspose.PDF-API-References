@@ -1,32 +1,34 @@
 ---
-title: PdfConverterOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfConverterOptions. تضيف مصدر بيانات جديد إلى مجموعة بيانات مكون PdfToXLSXConverterOptions
+title: "PdfConverterOptions.AddOutput"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfConverterOptions. يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحق PdfToXLSXConverterOptions"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.plugins/pdfconverteroptions/addoutput/
 ---
-## طريقة PdfConverterOptions.AddOutput
+## PdfConverterOptions.AddOutput method
 
-تضيف مصدر بيانات جديد إلى مجموعة بيانات مكون PdfToXLSXConverterOptions.
+يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحق PdfToXLSXConverterOptions.
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| saveDataSource | IDataSource | مصدر البيانات (ملف أو تدفق) لنتائج عملية الحفظ. |
+| saveDataSource | IDataSource | مصدر البيانات (ملف أو تدفق) لحفظ نتائج العملية. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | NotImplementedException |  |
 
 ### انظر أيضًا
 
-* الواجهة [IDataSource](../../idatasource/)
-* الفئة [PdfConverterOptions](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

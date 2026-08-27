@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateReferenceElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ ReferenceElement
+title: "ITaggedContent.CreateReferenceElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. تنشئ ReferenceElement"
 type: docs
-weight: 240
+weight: 270
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
 ## ITaggedContent.CreateReferenceElement method
 
-تنشئ [`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/).
+ينشئ [`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/).
 
 ```csharp
 public ReferenceElement CreateReferenceElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

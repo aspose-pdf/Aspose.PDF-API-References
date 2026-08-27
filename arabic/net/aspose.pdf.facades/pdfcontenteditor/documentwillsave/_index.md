@@ -1,21 +1,23 @@
 ---
-title: PdfContentEditor.DocumentWillSave
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfContentEditor. نوع حدث مستند. تنفيذ إجراء قبل الحفظ
+title: "PdfContentEditor.DocumentWillSave"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfContentEditor. نوع حدث المستند. تنفيذ إجراء قبل الحفظ"
 type: docs
 weight: 520
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/documentwillsave/
 ---
 ## PdfContentEditor.DocumentWillSave field
 
-نوع حدث مستند. تنفيذ إجراء قبل الحفظ.
+نوع حدث المستند. تنفيذ إجراء قبل الحفظ.
 
 ```csharp
 public const string DocumentWillSave;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

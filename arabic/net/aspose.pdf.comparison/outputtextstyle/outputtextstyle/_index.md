@@ -1,14 +1,14 @@
 ---
-title: OutputTextStyle.OutputTextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ OutputTextStyle. المُنشئ الافتراضي
+title: "OutputTextStyle.OutputTextStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ OutputTextStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.comparison/outputtextstyle/outputtextstyle/
 ---
-## مُنشئ OutputTextStyle
+## OutputTextStyle constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public OutputTextStyle()
@@ -19,3 +19,5 @@ public OutputTextStyle()
 * class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

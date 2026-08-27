@@ -1,14 +1,14 @@
 ---
-title: Collection.Schema
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المجموعة. تحصل على مخطط لمجموعة الوثائق
+title: "Collection.Schema"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Collection. تحصل على Schema لمجموعة مستندات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/collection/schema/
 ---
-## خاصية Collection.Schema
+## Collection.Schema property
 
-تحصل على "مخطط" لمجموعة الوثائق.
+يحصل على "مخطط" مجموعة المستند.
 
 ```csharp
 public CollectionSchema Schema { get; }
@@ -20,3 +20,5 @@ public CollectionSchema Schema { get; }
 * class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

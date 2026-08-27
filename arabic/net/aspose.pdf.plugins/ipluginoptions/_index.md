@@ -1,14 +1,14 @@
 ---
-title: Interface IPluginOptions
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Plugins.IPluginOptions. واجهة خيارات المكونات العامة التي تحدد الطرق الشائعة التي يجب أن تنفذها خيارات المكونات المحددة
+title: "واجهة IPluginOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.Plugins.IPluginOptions. واجهة خيار الإضافة العامة التي تحدد الأساليب المشتركة التي يجب أن تنفذها خيار الإضافة الملموس."
 type: docs
-weight: 8870
+weight: 9000
 url: /ar/net/aspose.pdf.plugins/ipluginoptions/
 ---
-## واجهة IPluginOptions
+## IPluginOptions interface
 
-واجهة خيارات المكونات العامة التي تحدد الطرق الشائعة التي يجب أن تنفذها خيارات المكونات المحددة.
+واجهة خيار الملحق العامة التي تحدد الأساليب المشتركة التي يجب على خيار الملحق الفعلي تنفيذها.
 
 ```csharp
 public interface IPluginOptions
@@ -16,5 +16,7 @@ public interface IPluginOptions
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

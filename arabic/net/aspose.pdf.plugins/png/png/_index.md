@@ -1,14 +1,14 @@
 ---
-title: Png.Png
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Png. المُنشئ الافتراضي
+title: "Png.Png"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Png. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/png/png/
 ---
-## مُنشئ Png
+## Png constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Png()
@@ -19,3 +19,5 @@ public Png()
 * class [Png](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

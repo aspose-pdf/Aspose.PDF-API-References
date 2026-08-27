@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TextAlign
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية TextAlign مالك خاصية التخطيط
+title: "AttributeKey.TextAlign"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. TextAlign خاصية تخطيط خاصية المالك"
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/textalign/
 ---
-## حقل AttributeKey.TextAlign
+## AttributeKey.TextAlign field
 
-خاصية TextAlign (مالك خاصية التخطيط).
+خاصية TextAlign (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey TextAlign;
@@ -19,3 +19,5 @@ public static readonly AttributeKey TextAlign;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

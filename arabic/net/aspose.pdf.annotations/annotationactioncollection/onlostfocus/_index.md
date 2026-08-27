@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnLostFocus
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يتم تنفيذه عندما تفقد التعليق التركيز على الإدخال
+title: "AnnotationActionCollection.OnLostFocus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء الذي يتم تنفيذه عندما تفقد التعليقة تركيز الإدخال"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onlostfocus/
 ---
-## خاصية AnnotationActionCollection.OnLostFocus
+## AnnotationActionCollection.OnLostFocus property
 
-تحصل أو تعين إجراءً يتم تنفيذه عندما تفقد التعليق التركيز على الإدخال.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما يفقد التعليق تركيز الإدخال.
 
 ```csharp
 public PdfAction OnLostFocus { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnLostFocus { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Annot
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. التعليق PDF 1.5 ارتباط بين جزء من محتوى ILSE وتعليق PDF المقابل. يجب استخدام Annot لجميع تعليقات PDF باستثناء تعليقات الروابط وتعليقات الأدوات.
+title: "StructureTypeStandard.Annot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. التعليق التوضيحي PDF 1.5 ارتباط بين جزء من محتوى ILSEs وتوضيح PDF المقابل. يجب استخدام Annot لجميع توضيحات PDF باستثناء توضيحات الروابط وتوضيحات الودجت"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/annot/
 ---
-## حقل StructureTypeStandard.Annot
+## StructureTypeStandard.Annot field
 
-(التعليق; PDF 1.5) ارتباط بين جزء من محتوى ILSE وتعليق PDF المقابل. يجب استخدام Annot لجميع تعليقات PDF باستثناء تعليقات الروابط وتعليقات الأدوات.
+(Annotation; PDF 1.5) ارتباط بين جزء من محتوى ILSE وملاحظة PDF المقابلة. يجب استخدام Annot لجميع ملاحظات PDF باستثناء ملاحظات الروابط وملاحظات الأدوات.
 
 ```csharp
 public static readonly StructureTypeStandard Annot;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Annot;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

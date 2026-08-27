@@ -1,33 +1,33 @@
 ---
-title: OutputIntents.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutputIntents. يحصل على نية الإخراج في الفهرس المحدد
+title: "OutputIntents.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutputIntents. يحصل على نية الإخراج عند الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/outputintents/item/
 ---
-## فهرس OutputIntents
+## OutputIntents indexer
 
-يحصل على نية الإخراج في *الفهرس* المحدد.
+يحصل على نية الإخراج عند *index* المحدد.
 
 ```csharp
 public OutputIntent this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس المعتمد على الصفر لنية الإخراج المراد الحصول عليها. |
+| index | الفهرس الصفري لنية الإخراج التي سيتم الحصول عليها. |
 
 ### قيمة الإرجاع
 
-نية الإخراج في *الفهرس* المحدد.
+نية الإخراج عند *index* المحدد.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | *الفهرس* أقل من 0 أو *الفهرس* يساوي أو أكبر من [`Count`](../count/). |
-| InvalidOperationException | المستند الذي يحتوي على المجموعة ليس لديه فهرس للوصول إلى OutputIntents. |
+| ArgumentOutOfRangeException | *index* أصغر من 0 أو *index* يساوي أو أكبر من [`Count`](../count/). |
+| InvalidOperationException | المستند الذي يحتوي على المجموعة لا يحتوي على فهرس للوصول إلى OutputIntents. |
 
 ### انظر أيضًا
 
@@ -35,3 +35,5 @@ public OutputIntent this[int index] { get; }
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

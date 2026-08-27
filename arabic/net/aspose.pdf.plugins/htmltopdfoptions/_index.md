@@ -1,14 +1,14 @@
 ---
-title: Class HtmlToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.HtmlToPdfOptions. تمثل خيارات محول HTML إلى PDF لملحق Html
+title: "الفئة HtmlToPdfOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.HtmlToPdfOptions. تمثل خيارات محول HTML إلى PDF لإضافة Html."
 type: docs
-weight: 8830
+weight: 8960
 url: /ar/net/aspose.pdf.plugins/htmltopdfoptions/
 ---
-## فئة HtmlToPdfOptions
+## HtmlToPdfOptions class
 
-تمثل خيارات محول HTML إلى PDF لملحق [`Html`](../html/) .
+تمثل خيارات محول HTML إلى PDF لإضافة [`Html`](../html/).
 
 ```csharp
 public sealed class HtmlToPdfOptions : PdfConverterOptions
@@ -18,20 +18,20 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [HtmlToPdfOptions](htmltopdfoptions/)() | المنشئ الافتراضي. |
+| [HtmlToPdfOptions](htmltopdfoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [BasePath](../../aspose.pdf.plugins/htmltopdfoptions/basepath/) { get; set; } | المسار/الرابط الأساسي لملف HTML. |
-| [HtmlMediaType](../../aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/) { get; set; } | يحصل أو يحدد أنواع الوسائط الممكنة المستخدمة أثناء العرض. |
+| [BasePath](../../aspose.pdf.plugins/htmltopdfoptions/basepath/) { get; set; } | المسار/الرابط الأساسي لملف html. |
+| [HtmlMediaType](../../aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/) { get; set; } | يحصل أو يعيّن أنواع الوسائط الممكنة المستخدمة أثناء العرض. |
 | [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | يعيد مجموعة بيانات ملحق PdfConverterOptions. |
-| [IsRenderToSinglePage](../../aspose.pdf.plugins/htmltopdfoptions/isrendertosinglepage/) { get; set; } | يحصل أو يحدد عرض المستند بالكامل في صفحة واحدة. |
+| [IsRenderToSinglePage](../../aspose.pdf.plugins/htmltopdfoptions/isrendertosinglepage/) { get; set; } | يحصل أو يعيّن عرض المستند بالكامل في صفحة واحدة. |
 | override [OperationName](../../aspose.pdf.plugins/htmltopdfoptions/operationname/) { get; } | يحصل على اسم العملية. |
-| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لحفظ نتائج العملية. |
-| [PageInfo](../../aspose.pdf.plugins/htmltopdfoptions/pageinfo/) { get; set; } | يحصل أو يحدد معلومات صفحة المستند. |
-| [PageLayoutOption](../../aspose.pdf.plugins/htmltopdfoptions/pagelayoutoption/) { get; set; } | يحصل أو يحدد خيار التخطيط. |
+| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
+| [PageInfo](../../aspose.pdf.plugins/htmltopdfoptions/pageinfo/) { get; set; } | يحصل أو يعيّن معلومات صفحة المستند. |
+| [PageLayoutOption](../../aspose.pdf.plugins/htmltopdfoptions/pagelayoutoption/) { get; set; } | يحصل أو يعيّن خيار التخطيط. |
 
 ## الطرق
 
@@ -42,6 +42,8 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 ### انظر أيضًا
 
-* فئة [PdfConverterOptions](../pdfconverteroptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Pink
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFFFC0CB
+title: "Color.Pink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تحصل على لون معرف نظاميًا له قيمة ARGB بقيمة c FFFFC0CB"
 type: docs
 weight: 1110
 url: /ar/net/aspose.pdf/color/pink/
 ---
-## خاصية Color.Pink
+## Color.Pink property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFFFC0CB.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFFFC0CB.
 
 ```csharp
 public static Color Pink { get; }
@@ -16,10 +16,12 @@ public static Color Pink { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

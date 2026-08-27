@@ -1,14 +1,14 @@
 ---
-title: StreamResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StreamResult. تشير إلى ما إذا كانت النتيجة سلسلة
+title: "StreamResult.IsString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StreamResult. تشير إلى ما إذا كانت النتيجة سلسلة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/streamresult/isstring/
 ---
-## خاصية StreamResult.IsString
+## StreamResult.IsString property
 
-تشير إلى ما إذا كانت النتيجة سلسلة.
+يشير إلى ما إذا كانت النتيجة سلسلة نصية.
 
 ```csharp
 public bool IsString { get; }
@@ -23,3 +23,5 @@ public bool IsString { get; }
 * class [StreamResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

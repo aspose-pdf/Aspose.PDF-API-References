@@ -1,14 +1,14 @@
 ---
-title: Form.IgnoreNeedsRendering
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. إذا كانت هذه الخاصية صحيحة، فسيتم تجاهل قيمة مفتاح NeedsRendering أثناء تحويل نموذج XFA إلى نموذج قياسي. وهي خاطئة بشكل افتراضي
+title: "Form.IgnoreNeedsRendering"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. إذا كانت هذه الخاصية true سيتم تجاهل قيمة المفتاح NeedsRendering أثناء تحويل نموذج XFA إلى نموذج Standard. القيمة الافتراضية هي false."
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.pdf.forms/form/ignoreneedsrendering/
 ---
-## خاصية Form.IgnoreNeedsRendering
+## Form.IgnoreNeedsRendering property
 
-إذا كانت هذه الخاصية صحيحة، فسيتم تجاهل قيمة مفتاح NeedsRendering أثناء تحويل نموذج XFA إلى نموذج قياسي. وهي خاطئة بشكل افتراضي.
+إذا كانت هذه الخاصية true، سيتم تجاهل قيمة المفتاح NeedsRendering أثناء تحويل نموذج XFA إلى النموذج القياسي. القيمة الافتراضية هي false.
 
 ```csharp
 public bool IgnoreNeedsRendering { get; set; }
@@ -19,3 +19,5 @@ public bool IgnoreNeedsRendering { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

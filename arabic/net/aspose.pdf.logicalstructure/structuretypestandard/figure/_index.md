@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Figure
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. الشكل عنصر من المحتوى الرسومي. يمكن تحديد موضعه باستخدام خاصية تخطيط Placement
+title: "StructureTypeStandard.Figure"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Figure عنصر من المحتوى الرسومي. قد يتم تحديد موضعه باستخدام سمة التخطيط Placement"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/figure/
 ---
-## حقل StructureTypeStandard.Figure
+## StructureTypeStandard.Figure field
 
-(الشكل) عنصر من المحتوى الرسومي. يمكن تحديد موضعه باستخدام خاصية تخطيط Placement.
+(Figure) عنصر من المحتوى الرسومي. قد يتم تحديد موضعه باستخدام سمة التخطيط Placement.
 
 ```csharp
 public static readonly StructureTypeStandard Figure;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Figure;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

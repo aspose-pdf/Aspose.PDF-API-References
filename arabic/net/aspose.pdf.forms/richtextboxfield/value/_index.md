@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RichTextBoxField. قيمة RichTextField
+title: "RichTextBoxField.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RichTextBoxField. قيمة RichTextField"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/richtextboxfield/value/
 ---
-## خاصية RichTextBoxField.Value
+## RichTextBoxField.Value property
 
-قيمة RichTextField.
+قيمة حقل النص المنسق.
 
 ```csharp
 public override string Value { get; set; }
@@ -19,3 +19,5 @@ public override string Value { get; set; }
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

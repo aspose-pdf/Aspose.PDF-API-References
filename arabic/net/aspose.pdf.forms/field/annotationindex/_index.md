@@ -1,14 +1,14 @@
 ---
-title: Field.AnnotationIndex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. تحصل أو تعين فهرس هذه التعليمة على الصفحة
+title: "Field.AnnotationIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. يحصل على أو يعيّن فهرس هذا التعليق على الصفحة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/field/annotationindex/
 ---
-## خاصية Field.AnnotationIndex
+## Field.AnnotationIndex property
 
-تحصل أو تعين فهرس هذه التعليمة على الصفحة.
+الحصول على أو تعيين فهرس هذه التعليقة على الصفحة.
 
 ```csharp
 public int AnnotationIndex { get; set; }
@@ -19,3 +19,5 @@ public int AnnotationIndex { get; set; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

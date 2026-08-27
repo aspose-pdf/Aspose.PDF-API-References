@@ -1,14 +1,14 @@
 ---
-title: CosPdfNumber.CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CosPdfNumber. يقوم بتهيئة مثيل جديد من فئة CosPdfNumber
+title: "CosPdfNumber.CosPdfNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CosPdfNumber. يهيئ كائنًا جديدًا من فئة CosPdfNumber"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
 ---
 ## CosPdfNumber() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`CosPdfNumber`](../).
+يهيئ كائنًا جديدًا من الفئة [`CosPdfNumber`](../).
 
 ```csharp
 public CosPdfNumber()
@@ -16,26 +16,28 @@ public CosPdfNumber()
 
 ### انظر أيضًا
 
-* فئة [CosPdfNumber](../)
-* مساحة الأسماء [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CosPdfNumber(double) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`CosPdfNumber`](../).
+يهيئ كائنًا جديدًا من الفئة [`CosPdfNumber`](../).
 
 ```csharp
 public CosPdfNumber(double value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Double | الرقم. |
+| القيمة | Double | الرقم. |
 
 ### انظر أيضًا
 
-* فئة [CosPdfNumber](../)
-* مساحة الأسماء [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageSettings.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSettings. تحصل أو تعين دقة الطابعة للصفحة
+title: "PageSettings.PrinterResolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSettings. يحصل أو يحدد دقة الطابعة للصفحة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.printing/pagesettings/printerresolution/
 ---
-## خاصية PageSettings.PrinterResolution
+## PageSettings.PrinterResolution property
 
-تحصل أو تعين دقة الطابعة للصفحة.
+يحصل أو يضبط دقة الطابعة للصفحة.
 
 ```csharp
 public PrinterResolution PrinterResolution { get; set; }
@@ -20,3 +20,5 @@ public PrinterResolution PrinterResolution { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.ScreenReaders
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. يسمح للقراءة على الشاشة فقط
+title: "DocumentPrivilege.ScreenReaders"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. يسمح بالقراءة على الشاشة فقط"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/documentprivilege/screenreaders/
 ---
-## خاصية DocumentPrivilege.ScreenReaders
+## DocumentPrivilege.ScreenReaders property
 
-يسمح للقراءة على الشاشة فقط.
+يسمح بالقراءة على الشاشة فقط.
 
 ```csharp
 public static DocumentPrivilege ScreenReaders { get; }
@@ -19,3 +19,5 @@ public static DocumentPrivilege ScreenReaders { get; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfAConverter.PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfAConverter. المُنشئ الافتراضي
+title: "PdfAConverter.PdfAConverter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfAConverter. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/pdfaconverter/pdfaconverter/
 ---
-## مُنشئ PdfAConverter
+## PdfAConverter constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PdfAConverter()
@@ -19,3 +19,5 @@ public PdfAConverter()
 * class [PdfAConverter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

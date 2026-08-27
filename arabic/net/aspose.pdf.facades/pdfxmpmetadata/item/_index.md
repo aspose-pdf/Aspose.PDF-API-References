@@ -1,28 +1,28 @@
 ---
-title: PdfXmpMetadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfXmpMetadata. الحصول على القيمة أو تعيينها بواسطة المفتاح
+title: "PdfXmpMetadata.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfXmpMetadata. يحصل أو يضبط القيمة حسب المفتاح"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/item/
 ---
 ## PdfXmpMetadata indexer (1 of 2)
 
-الحصول على القيمة أو تعيينها بواسطة المفتاح.
+يحصل أو يضبط القيمة حسب المفتاح.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
 ```
 
-| Parameter | Description |
+| معامل | الوصف |
 | --- | --- |
-| key | اسم المفتاح للحصول على/تعيين. |
+| المفتاح | اسم المفتاح للحصول/التعيين. |
 
-### Return Value
+### قيمة الإرجاع
 
-كائن بواسطة المفتاح
+كائن حسب المفتاح
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -30,7 +30,7 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine(pxm["xmp:Nickname"]);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
@@ -41,21 +41,21 @@ Console.WriteLine(pxm["xmp:Nickname"]);
 
 ## PdfXmpMetadata indexer (2 of 2)
 
-الحصول على قيمة بيانات XMP الوصفية بواسطة المفتاح.
+يحصل على قيمة بيانات XMP الوصفية حسب المفتاح.
 
 ```csharp
 public XmpValue this[DefaultMetadataProperties key] { get; set; }
 ```
 
-| Parameter | Description |
+| معامل | الوصف |
 | --- | --- |
-| key | مفتاح القيمة. |
+| المفتاح | مفتاح القيمة. |
 
-### Return Value
+### قيمة الإرجاع
 
 قيمة من بيانات XMP الوصفية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -63,10 +63,12 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

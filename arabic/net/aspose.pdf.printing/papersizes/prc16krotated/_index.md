@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Prc16KRotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق 16K مائل 146 مم × 215 مم
+title: "PaperSizes.Prc16KRotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق 16K مائل 146 مم × 215 مم"
 type: docs
 weight: 810
 url: /ar/net/aspose.pdf.printing/papersizes/prc16krotated/
 ---
-## حقل PaperSizes.Prc16KRotated
+## PaperSizes.Prc16KRotated field
 
-ورق 16K مائل (146 مم × 215 مم).
+ورق 16K مدور (146 مم × 215 مم).
 
 ```csharp
 public static readonly PaperSize Prc16KRotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize Prc16KRotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

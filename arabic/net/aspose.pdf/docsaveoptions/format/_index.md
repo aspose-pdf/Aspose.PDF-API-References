@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. تنسيق الإخراج
+title: "DocSaveOptions.Format"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. تنسيق الإخراج."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/docsaveoptions/format/
 ---
-## خاصية DocSaveOptions.Format
+## DocSaveOptions.Format property
 
 تنسيق الإخراج
 
@@ -20,3 +20,5 @@ public DocFormat Format { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

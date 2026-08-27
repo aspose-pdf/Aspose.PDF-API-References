@@ -1,14 +1,14 @@
 ---
-title: Interface ILlamaClient
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.ILlamaClient. تمثل واجهة عميل للتفاعل مع واجهة برمجة تطبيقات Llama
+title: "الواجهة ILlamaClient"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.AI.ILlamaClient. تمثل واجهة عميل للتفاعل مع Llama API"
 type: docs
-weight: 530
+weight: 550
 url: /ar/net/aspose.pdf.ai/illamaclient/
 ---
-## واجهة ILlamaClient
+## ILlamaClient interface
 
-تمثل واجهة عميل للتفاعل مع واجهة برمجة تطبيقات Llama.
+يمثل واجهة عميل للتفاعل مع واجهة برمجة تطبيقات Llama.
 
 ```csharp
 public interface ILlamaClient
@@ -18,9 +18,11 @@ public interface ILlamaClient
 
 | الاسم | الوصف |
 | --- | --- |
-| [CreateCompletionAsync](../../aspose.pdf.ai/illamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | ينشئ طلب إكمال دردشة في خدمة Llama. |
+| [CreateCompletionAsync](../../aspose.pdf.ai/illamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | ينشئ طلب إكمال محادثة في خدمة Llama. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

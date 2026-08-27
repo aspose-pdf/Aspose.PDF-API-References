@@ -1,33 +1,35 @@
 ---
-title: Class FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.FileSearch. تمثل موارد أداة البحث عن الملفات
+title: "الفئة FileSearch"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.FileSearch. تمثل موارد أداة البحث عن الملفات"
 type: docs
-weight: 410
+weight: 430
 url: /ar/net/aspose.pdf.ai/filesearch/
 ---
 ## FileSearch class
 
-تمثل موارد أداة البحث عن الملفات.
+يمثل موارد أداة البحث عن الملفات.
 
 ```csharp
 public class FileSearch
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileSearch](filesearch/)() | المُنشئ الافتراضي. |
+| [FileSearch](filesearch/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | يحصل أو يحدد معرف متجر المتجه المرتبط بهذا المساعد. يمكن أن يكون هناك حد أقصى لمتجر متجه واحد مرتبط بالمساعد. |
-| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | يحصل أو يحدد المساعد لإنشاء متجر متجه مع file_ids وربطه بهذه الخيط. يمكن أن يكون هناك حد أقصى لمتجر متجه واحد مرتبط بالخيط. |
+| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | يحصل أو يعيّن معرف مخزن المتجهات المرتبط بهذا المساعد. يمكن أن يكون هناك حد أقصى لمخزن متجه واحد مرتبط بالمساعد. |
+| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | يحصل أو يعيّن المساعد لإنشاء مخزن متجهات باستخدام file_ids وإرفاقه بهذه السلسلة. يمكن أن يكون هناك حد أقصى لمخزن متجه واحد مرتبط بالسلسلة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

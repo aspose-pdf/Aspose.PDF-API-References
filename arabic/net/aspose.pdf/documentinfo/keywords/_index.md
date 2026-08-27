@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Keywords
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. الحصول على أو تعيين كلمات مفتاحية للمستند
+title: "DocumentInfo.Keywords"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DocumentInfo خاصية. يحصل أو يضبط الكلمات المفتاحية للمستند"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/documentinfo/keywords/
 ---
-## خاصية DocumentInfo.Keywords
+## DocumentInfo.Keywords property
 
-الحصول على أو تعيين كلمات مفتاحية للمستند.
+الحصول أو الضبط للكلمات المفتاحية للمستند.
 
 ```csharp
 public string Keywords { get; set; }
@@ -19,3 +19,5 @@ public string Keywords { get; set; }
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

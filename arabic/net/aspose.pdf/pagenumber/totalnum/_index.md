@@ -1,14 +1,14 @@
 ---
-title: PageNumber.TotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageNumber. تحصل أو تعين العدد الإجمالي للصفحات كجزء من تنسيق رقم الصفحة. ستتضمن السلسلة المنسقة عنصر نائب للعدد الإجمالي للصفحات
+title: "PageNumber.TotalNum"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageNumber. تحصل أو تعين مكوّن العدد الإجمالي للصفحات في تنسيق رقم الصفحة. ستتضمن السلسلة المُنسقة عنصرًا نائبًا للعدد الإجمالي للصفحات."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/pagenumber/totalnum/
 ---
-## خاصية PageNumber.TotalNum
+## PageNumber.TotalNum property
 
-تحصل أو تعين العدد الإجمالي للصفحات كجزء من تنسيق رقم الصفحة. ستتضمن السلسلة المنسقة عنصر نائب للعدد الإجمالي للصفحات.
+يحصل أو يعيّن مكوّن إجمالي عدد الصفحات في تنسيق رقم الصفحة. ستتضمن السلسلة المنسقة عنصرًا نائبًا لإجمالي عدد الصفحات.
 
 ```csharp
 public PageTotalNum TotalNum { get; set; }
@@ -20,3 +20,5 @@ public PageTotalNum TotalNum { get; set; }
 * class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

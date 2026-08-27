@@ -1,33 +1,35 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.MarginsPercent
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ContentsResizeParameters. تنشئ معلمات تغيير الحجم. يتم تحديد الهوامش كنسب مئوية من حجم الصفحة الأولي.
+title: "PdfFileEditor.ContentsResizeParameters.MarginsPercent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ContentsResizeParameters. تنشئ معلمات تغيير الحجم. يتم تحديد الهوامش بالنسبة المئوية لحجم الصفحة الأولية"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent/
 ---
 ## PdfFileEditor.ContentsResizeParameters.MarginsPercent method
 
-يخلق معلمات تغيير الحجم. يتم تحديد الهوامش كنسب مئوية من حجم الصفحة الأولية.
+ينشئ معلمات تغيير الحجم. يتم تحديد الهوامش كنسبة مئوية من حجم الصفحة الأولية.
 
 ```csharp
 public static ContentsResizeParameters MarginsPercent(double left, double right, double top, 
     double bottom)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| left | Double | الهامش الأيسر (كنسب مئوية من عرض الصفحة). |
-| right | Double | الهامش الأيمن (كنسب مئوية من ارتفاع الصفحة). |
-| top | Double | الهامش العلوي (كنسب مئوية من ارتفاع الصفحة). |
-| bottom | Double | الهامش السفلي (كنسب مئوية من ارتفاع الصفحة). |
+| يسار | Double | الهامش الأيسر (بالنسبة المئوية لعرض الصفحة). |
+| يمين | Double | الهامش الأيمن (بالنسبة المئوية لارتفاع الصفحة). |
+| أعلى | Double | الهامش العلوي (بالنسبة المئوية لارتفاع الصفحة). |
+| أسفل | Double | الهامش السفلي (بالنسبة المئوية لارتفاع الصفحة). |
 
-### Return Value
+### قيمة الإرجاع
 
 يعيد معلمات تغيير الحجم الجديدة.
 
-### See Also
+### انظر أيضًا
 
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.SubmitFormAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SubmitFormAction. يُهيئ كائن SubmitFormAction
+title: "SubmitFormAction.SubmitFormAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SubmitFormAction. يهيئ كائن SubmitFormAction"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/submitformaction/submitformaction/
 ---
-## مُنشئ SubmitFormAction
+## SubmitFormAction constructor
 
-يُهيئ كائن SubmitFormAction.
+يُنشئ كائن SubmitFormAction.
 
 ```csharp
 public SubmitFormAction()
@@ -19,3 +19,5 @@ public SubmitFormAction()
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

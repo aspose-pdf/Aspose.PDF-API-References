@@ -1,68 +1,70 @@
 ---
-title: Class PaginationArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PaginationArtifact. تمثل فئة أساسية مجردة لقطع الترقيم في مستند
+title: "الفئة PaginationArtifact"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PaginationArtifact. تمثل فئة أساسية مجردة لقطع الترقيم في مستند"
 type: docs
-weight: 8260
+weight: 8400
 url: /ar/net/aspose.pdf/paginationartifact/
 ---
 ## PaginationArtifact class
 
-تمثل فئة أساسية مجردة لقطع الترقيم في مستند.
+يمثل فئة أساسية مجردة لآثار ترقيم الصفحات في مستند.
 
 ```csharp
 public abstract class PaginationArtifact : Artifact
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment/) { get; set; } | المحاذاة الأفقية للقطعة. إذا تم تحديد الموضع بشكل صريح (في خاصية Position) يتم تجاهل هذه القيمة. |
-| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment/) { get; set; } | المحاذاة الرأسية للقطعة. إذا تم تحديد الموضع بشكل صريح (في خاصية Position) يتم تجاهل هذه القيمة. |
-| [BottomMargin](../../aspose.pdf/artifact/bottommargin/) { get; set; } | الهامش السفلي للقطعة. إذا تم تحديد الموضع بشكل صريح (في خاصية Position) يتم تجاهل هذه القيمة. |
-| [Contents](../../aspose.pdf/artifact/contents/) { get; } | يحصل على مجموعة من العمليات الداخلية للقطعة. |
-| [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | يحصل على اسم نوع القطعة الفرعي. يمكن استخدامه إذا كان نوع القطعة الفرعي غير قياسي. |
-| [CustomType](../../aspose.pdf/artifact/customtype/) { get; set; } | يحصل على اسم نوع القطعة. يمكن استخدامه إذا كان نوع القطعة غير قياسي. |
-| [EndPage](../../aspose.pdf/paginationartifact/endpage/) { get; set; } | يحصل على أو يحدد رقم الصفحة النهائية للقطعة. يجب أن تكون القيمة أكبر من أو تساوي 0. إذا تم تعيين قيمة أقل من 0، فسيتم تعديلها إلى 0. القيمة الافتراضية 0 تعني عدم وجود حدود لصفحة النهاية. |
+| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment/) { get; set; } | محاذاة أفقية للقطعة. إذا تم تحديد الموضع صراحةً (في خاصية Position) يتم تجاهل هذه القيمة. |
+| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment/) { get; set; } | محاذاة رأسية للقطعة. إذا تم تحديد الموضع صراحةً (في خاصية Position) يتم تجاهل هذه القيمة. |
+| [BottomMargin](../../aspose.pdf/artifact/bottommargin/) { get; set; } | الهامش السفلي للقطعة. إذا تم تحديد الموضع صراحةً (في خاصية Position) يتم تجاهل هذه القيمة. |
+| [Contents](../../aspose.pdf/artifact/contents/) { get; } | يحصل على مجموعة المشغلات الداخلية للقطعة. |
+| [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | يحصل على اسم النوع الفرعي للقطعة. قد يُستخدم إذا كان النوع الفرعي للقطعة ليس نوعًا فرعيًا قياسيًا. |
+| [CustomType](../../aspose.pdf/artifact/customtype/) { get; set; } | يحصل على اسم نوع القطعة. قد يُستخدم إذا كان نوع القطعة غير قياسي. |
+| [EndPage](../../aspose.pdf/paginationartifact/endpage/) { get; set; } | يحصل أو يضبط رقم Page النهاية للقطعة. يجب أن تكون القيمة أكبر من أو تساوي 0. إذا تم تعيين قيمة أقل من 0، سيتم تعديلها إلى 0. القيمة الافتراضية 0 تعني عدم وجود حدود لPage النهاية. |
 | [Form](../../aspose.pdf/artifact/form/) { get; } | يحصل على XForm للقطعة (إذا تم استخدام XForm). |
 | [Image](../../aspose.pdf/artifact/image/) { get; } | يحصل على صورة القطعة (إذا كانت موجودة). |
-| [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | إذا كانت القيمة صحيحة، يتم وضع القطعة خلف محتويات الصفحة. |
-| [LeftMargin](../../aspose.pdf/artifact/leftmargin/) { get; set; } | الهامش الأيسر للقطعة. إذا تم تحديد الموضع بشكل صريح (في خاصية Position) يتم تجاهل هذه القيمة. |
-| [Lines](../../aspose.pdf/artifact/lines/) { get; } | خطوط نص القطعة متعددة الأسطر. |
-| [Opacity](../../aspose.pdf/artifact/opacity/) { get; set; } | يحصل على أو يحدد شفافية القطعة. القيم الممكنة تتراوح بين 0..1. |
-| [Position](../../aspose.pdf/artifact/position/) { get; set; } | يحصل على أو يحدد موضع القطعة. إذا تم تحديد هذه الخاصية، يتم تجاهل الهوامش والمحاذاة. |
-| [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | يحصل على مستطيل القطعة. |
-| [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | الهامش الأيمن للقطعة. إذا تم تحديد الموضع بشكل صريح (في خاصية Position) يتم تجاهل هذه القيمة. |
-| [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | يحصل على أو يحدد زاوية دوران القطعة. |
-| [StartPage](../../aspose.pdf/paginationartifact/startpage/) { get; set; } | يحصل على أو يحدد رقم الصفحة الابتدائية للقطعة. يجب أن تكون القيمة أكبر من أو تساوي 1. إذا تم تعيين قيمة أقل من 1، فسيتم تعديلها إلى 1. |
-| [Subset](../../aspose.pdf/paginationartifact/subset/) { get; set; } | يحصل على أو يحدد مجموعة الصفحات التي تنطبق عليها القطعة (مثل، جميع الصفحات، الصفحات الزوجية، الصفحات الفردية). |
-| [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | يحصل على نوع القطعة الفرعي. إذا كانت القطعة تحتوي على نوع فرعي غير قياسي، يمكن قراءة اسم النوع الفرعي عبر CustomSubtype. |
+| [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | إذا كان true فإن Artifact توضع خلف محتويات page. |
+| [LeftMargin](../../aspose.pdf/artifact/leftmargin/) { get; set; } | الهامش الأيسر للقطعة. إذا تم تحديد الموضع صراحةً (في خاصية Position) يتم تجاهل هذه القيمة. |
+| [Lines](../../aspose.pdf/artifact/lines/) { get; } | أسطر قطعة النص متعدد الأسطر. |
+| [Opacity](../../aspose.pdf/artifact/opacity/) { get; set; } | يحصل أو يضبط شفافية القطعة. القيم الممكنة في النطاق 0..1. |
+| [Position](../../aspose.pdf/artifact/position/) { get; set; } | يحصل أو يضبط موضع القطعة. إذا تم تحديد هذه الخاصية، يتم تجاهل الهوامش والمحاذاة. |
+| [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | يحصل على Rectangle للقطعة. |
+| [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | الهامش الأيمن للقطعة. إذا تم تحديد الموضع صراحةً (في خاصية Position) يتم تجاهل هذه القيمة. |
+| [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | يحصل أو يضبط زاوية دوران القطعة. |
+| [StartPage](../../aspose.pdf/paginationartifact/startpage/) { get; set; } | يحصل أو يضبط رقم Page البداية للقطعة. يجب أن تكون القيمة أكبر من أو تساوي 1. إذا تم تعيين قيمة أقل من 1، سيتم تعديلها إلى 1. |
+| [Subset](../../aspose.pdf/paginationartifact/subset/) { get; set; } | يحصل أو يضبط مجموعة الصفحات التي تنطبق عليها القطعة (مثال: جميع pages، pages الزوجية، pages الفردية). |
+| [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | يحصل على النوع الفرعي للقطعة. إذا كان للقطعة نوع فرعي غير قياسي، يمكن قراءة اسم النوع الفرعي عبر CustomSubtype. |
 | [Text](../../aspose.pdf/artifact/text/) { get; set; } | يحصل على نص القطعة. |
 | [TextState](../../aspose.pdf/artifact/textstate/) { get; set; } | حالة النص لنص القطعة. |
-| [TopMargin](../../aspose.pdf/artifact/topmargin/) { get; set; } | الهامش العلوي للقطعة. إذا تم تحديد الموضع بشكل صريح (في خاصية Position) يتم تجاهل هذه القيمة. |
-| [Type](../../aspose.pdf/artifact/type/) { get; set; } | يحصل على نوع القطعة. |
+| [TopMargin](../../aspose.pdf/artifact/topmargin/) { get; set; } | الهامش العلوي للعنصر. إذا تم تحديد الموضع صراحةً (في خاصية Position) يتم تجاهل هذه القيمة. |
+| [Type](../../aspose.pdf/artifact/type/) { get; set; } | يحصل على نوع العنصر. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BeginUpdates](../../aspose.pdf/artifact/beginupdates/)() | بدء التحديثات المؤجلة. استخدم هذه الميزة إذا كنت بحاجة إلى إجراء تغييرات متعددة على نفس القطعة لتحسين الأداء. عادةً ما يتم تغيير عمليات القطعة في أي وقت تم فيه تغيير خاصية القطعة. وهذا يتسبب في تغيير محتويات الصفحة في كل مرة يتم فيها تغيير القطعة. لتجنب هذا التأثير، ضع جميع تحديثات القطعة بين استدعاءات StartUpdates/SaveUpdates. هذا يسمح بتغيير محتويات الصفحة مرة واحدة فقط. |
-| [Dispose](../../aspose.pdf/artifact/dispose/)() | التخلص من القطعة. |
-| [GetValue](../../aspose.pdf/artifact/getvalue/)(string) | يحصل على القيمة المخصصة للقطعة. |
-| [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | إزالة القيمة المخصصة من القطعة. |
-| [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | يحفظ جميع التحديثات في القطعة التي تم إجراؤها بعد استدعاء BeginUpdates(). |
-| [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | تعيين صورة القطعة. |
-| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | تعيين صورة القطعة. |
-| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | تعيين النص وخصائص النص للقطعة. يسمح بتحديد عدة أسطر. |
-| [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | تعيين ما هي السلسلة التي سيتم استبدالها برقم الصفحة. القيمة الافتراضية هي #. |
-| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | تعيين صفحة PDF التي توضع على صفحة المستند كقطعة. |
-| [SetText](../../aspose.pdf/artifact/settext/)(FormattedText) | تعيين نص القطعة. |
-| [SetTextAndState](../../aspose.pdf/artifact/settextandstate/)(string, TextState) | تعيين النص وخصائص النص للقطعة. |
-| [SetValue](../../aspose.pdf/artifact/setvalue/)(string, string) | تعيين القيمة المخصصة للقطعة. |
+| [BeginUpdates](../../aspose.pdf/artifact/beginupdates/)() | ابدأ التحديثات المؤجلة. استخدم هذه الميزة إذا كنت بحاجة لإجراء عدة تغييرات على نفس العنصر لتحسين الأداء. عادةً ما يتم تغيير مشغلي العنصر في أي وقت يتم فيه تغيير خاصية العنصر. هذا يتسبب في تغيير محتويات الصفحة في كل مرة يتم فيها تغيير العنصر. لتجنب هذا التأثير ضع جميع تحديثات العنصر بين استدعاءات StartUpdates/SaveUpdates. هذا يسمح بتغيير محتويات الصفحة مرة واحدة فقط. |
+| [Dispose](../../aspose.pdf/artifact/dispose/)() | تخلص من العنصر. |
+| [GetValue](../../aspose.pdf/artifact/getvalue/)(string) | يحصل على القيمة المخصصة للعنصر. |
+| [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | إزالة القيمة المخصصة من العنصر. |
+| [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | يحفظ جميع التحديثات في العنصر التي تم إجراؤها بعد استدعاء BeginUpdates(). |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | يضبط صورة العنصر. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | يضبط صورة العنصر. |
+| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | يضبط النص وخصائص النص للعنصر. يسمح بتحديد عدة أسطر. |
+| [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | يضبط السلسلة التي سيتم استبدالها برقم الصفحة. القيمة الافتراضية هي #. |
+| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | يضبط صفحة PDF التي توضع على صفحة Document كعنصر. |
+| [SetText](../../aspose.pdf/artifact/settext/)(FormattedText) | يضبط نص العنصر. |
+| [SetTextAndState](../../aspose.pdf/artifact/settextandstate/)(string, TextState) | يضبط نص العنصر وخصائص النص. |
+| [SetValue](../../aspose.pdf/artifact/setvalue/)(string, string) | يضبط القيمة المخصصة للعنصر. |
 
-### See Also
+### انظر أيضًا
 
 * class [Artifact](../artifact/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

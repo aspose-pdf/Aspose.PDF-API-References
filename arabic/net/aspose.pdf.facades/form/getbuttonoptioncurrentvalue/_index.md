@@ -1,26 +1,26 @@
 ---
-title: Form.GetButtonOptionCurrentValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تعيد القيمة الحالية لحقول خيارات زر الراديو
+title: "Form.GetButtonOptionCurrentValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تُرجع القيمة الحالية لحقول خيارات زر الراديو"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/form/getbuttonoptioncurrentvalue/
 ---
-## طريقة Form.GetButtonOptionCurrentValue
+## Form.GetButtonOptionCurrentValue method
 
-تعيد القيمة الحالية لحقول خيارات زر الراديو.
+يعيد القيمة الحالية لحقول خيارات زر الراديو.
 
 ```csharp
 public string GetButtonOptionCurrentValue(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل |
+| fieldName | String | اسم الحقل |
 
 ### قيمة الإرجاع
 
-قيمة سلسلة لمجموعة زر الراديو الحالية. انظر أيضًا [`GetButtonOptionValues`](../getbuttonoptionvalues/)
+قيمة سلسلة للمجموعة الراديوية الحالية. راجع أيضًا [`GetButtonOptionValues`](../getbuttonoptionvalues/)
 
 ## أمثلة
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetButtonOptionCurrentValue("btnField"));
 
 ### انظر أيضًا
 
-* الفئة [Form](../)
-* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

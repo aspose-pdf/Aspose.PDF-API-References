@@ -1,14 +1,14 @@
 ---
-title: PageCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageCollection. تعيد true إذا كان الكائن متزامنًا
+title: "PageCollection.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageCollection. تُرجع true إذا كان الكائن متزامنًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pagecollection/issynchronized/
 ---
-## خاصية PageCollection.IsSynchronized
+## PageCollection.IsSynchronized property
 
-تعيد true إذا كان الكائن متزامنًا.
+تُعيد true إذا كان الكائن متزامنًا.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

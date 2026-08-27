@@ -1,14 +1,14 @@
 ---
-title: Annotation.ActiveState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل أو تعين حالة مظهر التعليق الحالي
+title: "Annotation.ActiveState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. يحصل على أو يضبط حالة مظهر التعليق الحالية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/annotation/activestate/
 ---
-## خاصية Annotation.ActiveState
+## Annotation.ActiveState property
 
-تحصل أو تعين حالة مظهر التعليق الحالي.
+يحصل أو يعيّن حالة مظهر التعليق الحالية.
 
 ```csharp
 public virtual string ActiveState { get; set; }
@@ -19,3 +19,5 @@ public virtual string ActiveState { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

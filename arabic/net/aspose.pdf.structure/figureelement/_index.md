@@ -1,38 +1,40 @@
 ---
-title: Class FigureElement
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Structure.FigureElement. فئة تمثل الشكل الهيكلي المنطقي
+title: "الفئة FigureElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Structure.FigureElement. فئة تمثل شكل البنية المنطقية"
 type: docs
-weight: 10160
+weight: 10340
 url: /ar/net/aspose.pdf.structure/figureelement/
 ---
 ## FigureElement class
 
-فئة تمثل الشكل الهيكلي المنطقي.
+فئة تمثل شكل الهيكل المنطقي.
 
 ```csharp
 public class FigureElement : Element
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [ActualText](../../aspose.pdf.structure/element/actualtext/) { get; set; } | (اختياري؛ PDF 1.4) نص يمثل بديلاً دقيقًا لعنصر الهيكل وأطفاله. هذا النص البديل (الذي يجب أن ينطبق على أصغر قطعة ممكنة من المحتوى) مفيد عند استخراج محتويات الوثيقة لدعم إمكانية الوصول للمستخدمين ذوي الإعاقة أو لأغراض أخرى. |
-| virtual [Alt](../../aspose.pdf.structure/element/alt/) { get; set; } | (اختياري) وصف بديل لعنصر الهيكل وأطفاله بصيغة قابلة للقراءة البشرية، وهو مفيد عند استخراج محتويات الوثيقة لدعم إمكانية الوصول للمستخدمين ذوي الإعاقة أو لأغراض أخرى. |
+| virtual [ActualText](../../aspose.pdf.structure/element/actualtext/) { get; set; } | (اختياري؛ PDF 1.4) نص يُعد بديلاً دقيقًا لعنصر البنية وأطفاله. هذا النص البديل (الذي يجب أن يُطبق على أصغر جزء من المحتوى ممكن) مفيد عند استخراج محتويات المستند لدعم إمكانية الوصول للمستخدمين ذوي الإعاقة أو لأغراض أخرى. |
+| virtual [Alt](../../aspose.pdf.structure/element/alt/) { get; set; } | (اختياري) وصف بديل لعنصر البنية وأطفاله بصيغة قابلة للقراءة البشرية، وهو مفيد عند استخراج محتويات المستند لدعم إمكانية الوصول للمستخدمين ذوي الإعاقة أو لأغراض أخرى. |
 | [Children](../../aspose.pdf.structure/element/children/) { get; } | يحصل على مجموعة العناصر الفرعية. |
 | virtual [E](../../aspose.pdf.structure/element/e/) { get; set; } | (اختياري؛ PDF 1.5) الشكل الموسع للاختصار. |
-| [Image](../../aspose.pdf.structure/figureelement/image/) { get; } | يحصل على قيمة عنصر الشكل الهيكلي. |
-| virtual [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | (اختياري؛ PDF 1.4) لغة تحدد اللغة الطبيعية لجميع النصوص في عنصر الهيكل باستثناء حيث يتم تجاوزها بمواصفات اللغة للعناصر الهيكلية المتداخلة أو المحتوى المعلم. |
+| [Image](../../aspose.pdf.structure/figureelement/image/) { get; } | يحصل على قيمة عنصر بنية الشكل. |
+| virtual [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | (اختياري؛ PDF 1.4) لغة تحدد اللغة الطبيعية لجميع النصوص في عنصر البنية باستثناء الحالات التي يتم فيها تجاوزها بمواصفات اللغة لعناصر البنية المتداخلة أو المحتوى المميز. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Remove](../../aspose.pdf.structure/element/remove/)() | إزالة العنصر. |
 
-### See Also
+### انظر أيضًا
 
 * class [Element](../element/)
 * namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../)
+
+

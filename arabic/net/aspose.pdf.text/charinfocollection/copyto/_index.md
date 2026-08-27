@@ -1,23 +1,23 @@
 ---
-title: CharInfoCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CharInfoCollection. تنسخ المجموعة بأكملها إلى مصفوفة أحادية البعد متوافقة بدءًا من الفهرس المحدد لمصفوفة الهدف
+title: "CharInfoCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CharInfoCollection method. Copies the entire collection to a compatible onedimensional Array starting at the specified index of the target array"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.text/charinfocollection/copyto/
 ---
-## طريقة CharInfoCollection.CopyTo
+## CharInfoCollection.CopyTo method
 
-تنسخ المجموعة بأكملها إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لمصفوفة الهدف
+ينسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد للمصفوفة الهدف
 
 ```csharp
 public void CopyTo(CharInfo[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | CharInfo[] | مصفوفة من الكائنات التي سيتم نسخها. |
-| index | Int32 | الفهرس الابتدائي الذي ستبدأ منه عملية النسخ. |
+| مصفوفة | CharInfo[] | Array of objects which will be copied. |
+| index | Int32 | Starting index from which copying will be started. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void CopyTo(CharInfo[] array, int index)
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

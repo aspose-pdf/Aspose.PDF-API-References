@@ -1,26 +1,28 @@
 ---
-title: EX.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EX. تقبل كائن الزائر لمعالجة المشغل
+title: "EX.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EX. تقبل كائن الزائر لمعالجة المشغل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/ex/accept/
 ---
-## طريقة EX.Accept
+## EX.Accept method
 
-تقبل كائن الزائر لمعالجة المشغل.
+يقبل كائن الزائر لمعالجة العامل.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | IOperatorSelector | كائن الزائر. |
+| زائر | IOperatorSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
-* واجهة [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* فئة [EX](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [EX](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

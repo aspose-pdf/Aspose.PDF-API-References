@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Author
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تحصل أو تعين معلومات المؤلف لوثيقة PDF
+title: "PdfFileInfo.Author"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تحصل أو تعين معلومات المؤلف لوثيقة PDF"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdffileinfo/author/
 ---
-## خاصية PdfFileInfo.Author
+## PdfFileInfo.Author property
 
-تحصل أو تعين معلومات المؤلف لوثيقة PDF.
+Gets or sets the Author information of PDF document.
 
 ```csharp
 public string Author { get; set; }
@@ -19,3 +19,5 @@ public string Author { get; set; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

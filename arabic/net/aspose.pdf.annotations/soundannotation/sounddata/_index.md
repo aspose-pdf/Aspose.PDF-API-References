@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.SoundData
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundAnnotation. تحصل على كائن صوتي يحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق
+title: "SoundAnnotation.SoundData"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundAnnotation. تحصل على كائن صوت يحدد الصوت الذي سيُشغل عندما يتم تفعيل التوضيح"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/soundannotation/sounddata/
 ---
-## خاصية SoundAnnotation.SoundData
+## SoundAnnotation.SoundData property
 
-تحصل على كائن صوتي يحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق.
+يحصل على كائن صوت يحدد الصوت الذي سيُشغل عندما يتم تنشيط التعليق التوضيحي.
 
 ```csharp
 public SoundData SoundData { get; }
@@ -20,3 +20,5 @@ public SoundData SoundData { get; }
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfFileMend. مُنشئ
+title: "PdfFileMend.PdfFileMend"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfFileMend. منشئ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdffilemend/pdffilemend/
 ---
 ## PdfFileMend() {#constructor}
 
-مُنشئ.
+منشئ.
 
 ```csharp
 public PdfFileMend()
@@ -24,15 +24,15 @@ public PdfFileMend()
 
 ## PdfFileMend(Document) {#constructor_1}
 
-يُهيئ كائن جديد من [`PdfFileMend`](../) بناءً على *المستند*.
+يقوم بتهيئة كائن [`PdfFileMend`](../) جديد على أساس *المستند*.
 
 ```csharp
 public PdfFileMend(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | مستند PDF. |
+| document | Document | مستند Pdf. |
 
 ### انظر أيضًا
 
@@ -40,3 +40,5 @@ public PdfFileMend(Document document)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

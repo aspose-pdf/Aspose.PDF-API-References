@@ -1,22 +1,22 @@
 ---
-title: TextState.MeasureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextState. تقيس ارتفاع الحرف
+title: "TextState.MeasureHeight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextState. تقيس ارتفاع الحرف"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.text/textstate/measureheight/
 ---
-## طريقة TextState.MeasureHeight
+## TextState.MeasureHeight method
 
-تقيس ارتفاع الحرف.
+يقيس ارتفاع الحرف.
 
 ```csharp
 public double MeasureHeight(char character)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| character | Char | الحرف الذي سيتم قياسه. |
+| حرف | حرف | الحرف للقياس. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public double MeasureHeight(char character)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

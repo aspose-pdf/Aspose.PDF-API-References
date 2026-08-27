@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyAlign_Center
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية RubyAlign Center يجب أن يكون المحتوى متمركزًا في اتجاه التقدم الداخلي
+title: "AttributeName.RubyAlign_Center"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة RubyAlign Center  يجب أن يكون المحتوى مركّزًا في اتجاه inlineprogression"
 type: docs
 weight: 430
 url: /ar/net/aspose.pdf.logicalstructure/attributename/rubyalign_center/
 ---
-## حقل AttributeName.RubyAlign_Center
+## AttributeName.RubyAlign_Center field
 
-خاصية RubyAlign: Center - يجب أن يكون المحتوى متمركزًا في اتجاه التقدم الداخلي.
+السمة RubyAlign: Center - يجب أن يكون المحتوى مركّزًا في اتجاه تقدم السطر.
 
 ```csharp
 public static readonly AttributeName RubyAlign_Center;
@@ -19,3 +19,5 @@ public static readonly AttributeName RubyAlign_Center;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

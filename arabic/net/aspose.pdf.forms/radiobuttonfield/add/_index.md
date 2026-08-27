@@ -1,20 +1,20 @@
 ---
-title: RadioButtonField.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة RadioButtonField. تضيف حقل خيار جديد إلى حقل RadioButton
+title: "RadioButtonField.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة RadioButtonField. يضيف حقل خيار جديد إلى حقل RadioButton"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.forms/radiobuttonfield/add/
 ---
-## طريقة RadioButtonField.Add
+## RadioButtonField.Add method
 
-تضيف حقل خيار جديد إلى حقل RadioButton
+يضيف حقل خيار جديد إلى حقل RadioButton
 
 ```csharp
 public void Add(RadioButtonOptionField newItem)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | newItem | RadioButtonOptionField | العنصر الذي يجب إضافته. |
 
@@ -24,3 +24,5 @@ public void Add(RadioButtonOptionField newItem)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

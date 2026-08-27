@@ -1,14 +1,14 @@
 ---
-title: ComboBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ComboBoxField. تحصل أو تعين حالة نشاط التدقيق الإملائي
+title: "ComboBoxField.SpellCheck"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ComboBoxField. يحصل أو يعيّن حالة نشاط التدقيق الإملائي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/comboboxfield/spellcheck/
 ---
-## خاصية ComboBoxField.SpellCheck
+## ComboBoxField.SpellCheck property
 
-تحصل أو تعين حالة نشاط التدقيق الإملائي.
+يحصل أو يعيّن حالة نشاط التدقيق الإملائي.
 
 ```csharp
 public bool SpellCheck { get; set; }
@@ -19,3 +19,5 @@ public bool SpellCheck { get; set; }
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Security
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.Security. تمثل مكون الأمان
+title: "الفئة Security"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.Security class. يمثل ملحق Security"
 type: docs
-weight: 9230
+weight: 9380
 url: /ar/net/aspose.pdf.plugins/security/
 ---
-## فئة الأمان
+## Security class
 
-تمثل مكون `Security`.
+يمثل ملحق `Security`.
 
 ```csharp
 public sealed class Security : IPlugin
@@ -18,48 +18,50 @@ public sealed class Security : IPlugin
 
 | الاسم | الوصف |
 | --- | --- |
-| [Security](security/)() | المنشئ الافتراضي. |
+| [Security](security/)() | البناء الافتراضي. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/security/process/)(IPluginOptions) | يبدأ معالجة `Security` مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/security/process/)(IPluginOptions) | يبدأ معالجة `Security` بالمعلمات المحددة. |
 
 ## أمثلة
 
-المثال يوضح كيفية تشفير مستند PDF.
+يوضح المثال كيفية تشفير مستند PDF.
 
 ```csharp
-// create Security 
+// إنشاء Security
 var plugin = new Security();
-// create EncryptionOptions object to set instructions
+// إنشاء كائن EncryptionOptions لتعيين التعليمات
 var opt = new EncryptionOptions("123456", "qwerty", DocumentPrivilege.ForbidAll));
-// add input file path
+// إضافة مسار ملف الإدخال
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// تعيين مسار ملف الإخراج
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// تنفيذ العملية
 plugin.Process(opt);
 ```
 
-المثال يوضح كيفية فك تشفير مستند PDF.
+يوضح المثال كيفية فك تشفير مستند PDF.
 
 ```csharp
-// create Security 
+// إنشاء Security
 var plugin = new Security();
-// create DecryptionOptions object to set instructions
+// إنشاء كائن DecryptionOptions لتعيين التعليمات
 var opt = new DecryptionOptions("123456"));
-// add input file path
+// إضافة مسار ملف الإدخال
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// تعيين مسار ملف الإخراج
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// تنفيذ العملية
 plugin.Process(opt);
 ```
 
 ### انظر أيضًا
 
-* واجهة [IPlugin](../iplugin/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,30 +1,30 @@
 ---
-title: PdfAnnotationEditor.ExtractAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAnnotationEditor. تحصل على قائمة بالتعليقات التوضيحية من الأنواع المحددة
+title: "PdfAnnotationEditor.ExtractAnnotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAnnotationEditor. يحصل على قائمة التعليقات من الأنواع المحددة."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/
 ---
 ## ExtractAnnotations(int, int, string[]) {#extractannotations_1}
 
-تحصل على قائمة بالتعليقات التوضيحية من الأنواع المحددة.
+يحصل على قائمة التعليقات التوضيحية للأنواع المحددة.
 
 ```csharp
 public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTypes)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| start | Int32 | الصفحة التي ستبدأ منها اختيار التعليقات التوضيحية. |
-| end | Int32 | الصفحة التي ستنتهي عندها اختيار التعليقات التوضيحية. |
-| annotTypes | String[] | مصفوفة بأنواع التعليقات التوضيحية المطلوبة. |
+| start | Int32 | صفحة البداية التي سيتم اختيار التعليقات منها. |
+| end | Int32 | صفحة النهاية التي سيتم اختيار التعليقات إليها. |
+| annotTypes | String[] | المصفوفة التي تحتوي على أنواع التعليقات المطلوبة. |
 
-### Return Value
+### قيمة الإرجاع
 
 قائمة التعليقات التوضيحية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -33,7 +33,7 @@ string[] annotTypes = new string[] {"Text", "Highlight"};
 IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [PdfAnnotationEditor](../)
@@ -44,23 +44,23 @@ IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 
 ## ExtractAnnotations(int, int, AnnotationType[]) {#extractannotations}
 
-تحصل على قائمة بالتعليقات التوضيحية من الأنواع المحددة.
+يحصل على قائمة التعليقات التوضيحية للأنواع المحددة.
 
 ```csharp
 public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[] annotTypes)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| start | Int32 | الصفحة التي ستبدأ منها اختيار التعليقات التوضيحية. |
-| end | Int32 | الصفحة التي ستنتهي عندها اختيار التعليقات التوضيحية. |
-| annotTypes | AnnotationType[] | مصفوفة بأنواع التعليقات التوضيحية المطلوبة. |
+| start | Int32 | صفحة البداية التي سيتم اختيار التعليقات منها. |
+| end | Int32 | صفحة النهاية التي سيتم اختيار التعليقات إليها. |
+| annotTypes | AnnotationType[] | المصفوفة التي تحتوي على أنواع التعليقات المطلوبة. |
 
-### Return Value
+### قيمة الإرجاع
 
 قائمة التعليقات التوضيحية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -69,10 +69,12 @@ AnnotationType[] annotTypes = new AnnotationType[] {AnnotationType.Text, Annotat
 IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

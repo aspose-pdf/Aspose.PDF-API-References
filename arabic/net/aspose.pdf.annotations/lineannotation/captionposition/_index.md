@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل أو تعين موضع عنوان التوضيح
+title: "LineAnnotation.CaptionPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. يحصل أو يضبط موضع توضيح التعليق"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/lineannotation/captionposition/
 ---
-## خاصية LineAnnotation.CaptionPosition
+## LineAnnotation.CaptionPosition property
 
-تحصل أو تعين موضع عنوان التوضيح.
+يحصل أو يضبط موضع تسمية التعليق.
 
 ```csharp
 public CaptionPosition CaptionPosition { get; set; }
@@ -20,3 +20,5 @@ public CaptionPosition CaptionPosition { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

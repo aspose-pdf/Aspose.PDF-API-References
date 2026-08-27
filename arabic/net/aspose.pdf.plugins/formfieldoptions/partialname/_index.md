@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.PartialName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية PartialName للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.PartialName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية PartialName للحقل المُنشأ/المعدل إذا تم ضبطها"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/partialname/
 ---
-## خاصية FormFieldOptions.PartialName
+## FormFieldOptions.PartialName property
 
-تحصل/تضبط القيمة لتحديد خاصية PartialName للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية PartialName للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public string PartialName { get; set; }
@@ -19,3 +19,5 @@ public string PartialName { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

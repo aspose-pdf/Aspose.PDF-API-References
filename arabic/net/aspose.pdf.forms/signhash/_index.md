@@ -1,23 +1,23 @@
 ---
-title: Delegate SignHash
-second_title: Aspose.PDF for .NET API Reference
-description: مفوض لتوقيع تجزئة الوثيقة بشكل مخصص
+title: "المندوب SignHash"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "المندوب لتوقيع مخصص لتجزئة المستند"
 type: docs
-weight: 5260
+weight: 5380
 url: /ar/net/aspose.pdf.forms/signhash/
 ---
-## مفوض SignHash
+## SignHash delegate
 
-مفوض لتوقيع تجزئة الوثيقة بشكل مخصص.
+مفوض لتوقيع تجزئة المستند بشكل مخصص.
 
 ```csharp
 public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgorithm);
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| hash | Byte[] | تجزئة الوثيقة المدخلة. |
-| digestHashAlgorithm | DigestHashAlgorithm | خوارزمية التجزئة المستخدمة لإنشاء التجزئة. القيمة لن تكون أبداً مساوية لـ Auto. |
+| التجزئة | Byte[] | تجزئة الإدخال للمستند. |
+| digestHashAlgorithm | DigestHashAlgorithm | خوارزمية التجزئة المستخدمة لإنشاء التجزئة. لن تكون القيمة مطابقة أبداً لـ Auto. |
 
 ### قيمة الإرجاع
 
@@ -25,10 +25,12 @@ public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgor
 
 ## ملاحظات
 
-لاحظ أنه سواء كانت التوقيع الرقمي مفصولاً أم لا، فإن معامل التجزئة سيكون دائماً هو التجزئة النهائية التي سيتم توقيعها.
+لاحظ أنه سواء كان التوقيع الرقمي منفصلاً أم لا، فإن معامل التجزئة سيكون دائماً هو التجزئة النهائية التي سيتم توقيعها.
 
 ### انظر أيضًا
 
 * enum [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

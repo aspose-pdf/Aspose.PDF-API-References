@@ -1,14 +1,14 @@
 ---
-title: Class OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.OptimizeOptions. تمثل خيارات التحسين لإضافة المحسن
+title: "الفئة OptimizeOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.OptimizeOptions. تمثل خيارات Optimize لملحق Optimizer."
 type: docs
-weight: 8960
+weight: 9110
 url: /ar/net/aspose.pdf.plugins/optimizeoptions/
 ---
-## فئة OptimizeOptions
+## OptimizeOptions class
 
-تمثل خيارات التحسين لإضافة [`Optimizer`](../optimizer/) .
+تمثل خيارات Optimize لملحق [`Optimizer`](../optimizer/).
 
 ```csharp
 public sealed class OptimizeOptions : OrganizerBaseOptions
@@ -18,16 +18,16 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [OptimizeOptions](optimizeoptions/)() | المنشئ الافتراضي. |
+| [OptimizeOptions](optimizeoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | إغلاق تدفقات الإدخال بعد اكتمال العملية. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | إغلاق تدفقات الإخراج بعد اكتمال العملية. |
-| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | يعيد مجموعة بيانات إضافة خيارات المنظم. |
-| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لحفظ نتائج العملية. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | إغلاق تدفقات الإدخال بعد إكمال العملية. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | إغلاق تدفقات الإخراج بعد إكمال العملية. |
+| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | يعيد مجموعة بيانات إضافة OrganizerOptions. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
 ## الطرق
 
@@ -38,6 +38,8 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 ### انظر أيضًا
 
-* الفئة [OrganizerBaseOptions](../organizerbaseoptions/)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

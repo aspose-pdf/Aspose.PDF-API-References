@@ -1,14 +1,14 @@
 ---
-title: PageSettings.Bounds
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSettings. تحصل على حدود الصفحة مع الأخذ في الاعتبار خاصية Landscape
+title: "PageSettings.Bounds"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSettings. تحصل على حدود الصفحة مع الأخذ في الاعتبار خاصية Landscape"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.printing/pagesettings/bounds/
 ---
-## خاصية PageSettings.Bounds
+## PageSettings.Bounds property
 
-تحصل على حدود الصفحة، مع الأخذ في الاعتبار خاصية Landscape.
+يحصل على حدود الصفحة مع مراعاة خاصية Landscape.
 
 ```csharp
 public Rectangle Bounds { get; }
@@ -20,3 +20,5 @@ public Rectangle Bounds { get; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

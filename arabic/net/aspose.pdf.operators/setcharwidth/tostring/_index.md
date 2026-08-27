@@ -1,14 +1,14 @@
 ---
-title: SetCharWidth.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetCharWidth. تعيد تمثيل النص للمعامل
+title: "SetCharWidth.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetCharWidth. تُرجع تمثيلًا نصيًا للمشغل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.operators/setcharwidth/tostring/
 ---
-## طريقة SetCharWidth.ToString
+## SetCharWidth.ToString method
 
-تعيد تمثيل النص للمعامل.
+يرجع تمثيل النص للمشغّل.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [SetCharWidth](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Folio
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق فوليو 8.5 بوصة × 13 بوصة
+title: "PaperSizes.Folio"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق Folio 8.5 بوصة × 13 بوصة"
 type: docs
 weight: 420
 url: /ar/net/aspose.pdf.printing/papersizes/folio/
 ---
-## حقل PaperSizes.Folio
+## PaperSizes.Folio field
 
-ورق فوليو (8.5 بوصة × 13 بوصة).
+ورق فولي (8.5 بوصة × 13 بوصة).
 
 ```csharp
 public static readonly PaperSize Folio;
@@ -20,3 +20,5 @@ public static readonly PaperSize Folio;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileSaveTarget.Path
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSaveTarget. تحصل على المسار إلى ملف هدف الحفظ الحالي
+title: "FileSaveTarget.Path"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSaveTarget. يحصل على المسار إلى ملف هدف الحفظ الحالي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/filesavetarget/path/
 ---
-## خاصية FileSaveTarget.Path
+## FileSaveTarget.Path property
 
-تحصل على المسار إلى ملف هدف الحفظ الحالي.
+يحصل على المسار إلى ملف هدف الحفظ الحالي.
 
 ```csharp
 public string Path { get; }
@@ -23,3 +23,5 @@ public string Path { get; }
 * class [FileSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

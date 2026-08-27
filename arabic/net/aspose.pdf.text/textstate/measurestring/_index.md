@@ -1,29 +1,31 @@
 ---
-title: TextState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextState. تقيس السلسلة
+title: "TextState.MeasureString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextState. تقيس السلسلة"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.text/textstate/measurestring/
 ---
 ## TextState.MeasureString method
 
-تقيس السلسلة.
+يقيس السلسلة.
 
 ```csharp
 public virtual double MeasureString(string str)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | str | String | السلسلة. |
 
-### Return Value
+### قيمة الإرجاع
 
-عرض السلسلة الممثلة بهذه الحالة النصية.
+عرض السلسلة الممثلة بهذه حالة النص.
 
-### See Also
+### انظر أيضًا
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

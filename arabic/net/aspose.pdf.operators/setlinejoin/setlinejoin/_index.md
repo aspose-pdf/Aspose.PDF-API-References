@@ -1,20 +1,20 @@
 ---
-title: SetLineJoin.SetLineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetLineJoin. يُهيئ المُشغل
+title: "SetLineJoin.SetLineJoin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetLineJoin. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setlinejoin/setlinejoin/
 ---
 ## SetLineJoin() {#constructor}
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetLineJoin()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [SetLineJoin](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -28,9 +28,11 @@ public SetLineJoin()
 public SetLineJoin(LineJoin join)
 ```
 
-### See Also
+### انظر أيضًا
 
 * enum [LineJoin](../../linejoin/)
 * class [SetLineJoin](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

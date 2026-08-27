@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber.IsReadOnlyMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacementAbsorber. تحصل/تضبط وضع القراءة فقط لمجموعة عمليات التحليل. قد تساعد في مواجهة استثناءات نفاد الذاكرة
+title: "ImagePlacementAbsorber.IsReadOnlyMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacementAbsorber. تحصل/تضبط وضع القراءة فقط لمجموعة عمليات التحليل. قد يساعد ذلك في تجنب استثناءات نفاد الذاكرة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/imageplacementabsorber/isreadonlymode/
 ---
-## خاصية ImagePlacementAbsorber.IsReadOnlyMode
+## ImagePlacementAbsorber.IsReadOnlyMode property
 
-تحصل/تضبط وضع القراءة فقط لمجموعة عمليات التحليل. قد تساعد في مواجهة استثناءات نفاد الذاكرة.
+يحصل/يضبط وضع القراءة فقط لمجموعة عمليات التحليل. قد يساعد ذلك في تجنب استثناءات نفاد الذاكرة.
 
 ```csharp
 public bool IsReadOnlyMode { get; set; }
@@ -19,3 +19,5 @@ public bool IsReadOnlyMode { get; set; }
 * class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

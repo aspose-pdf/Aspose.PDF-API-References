@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.DrawTextRectangleBorder
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تضبط إذا كان علم رسم حدود مستطيل النص
+title: "TextFragmentState.DrawTextRectangleBorder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. يحصل أو يضبط علامة رسم حد المستطيل النصي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/textfragmentstate/drawtextrectangleborder/
 ---
-## خاصية TextFragmentState.DrawTextRectangleBorder
+## TextFragmentState.DrawTextRectangleBorder property
 
-تحصل أو تضبط إذا كان علم رسم حدود مستطيل النص.
+الحصول أو تعيين ما إذا كان علم رسم حدود مستطيل النص.
 
 ```csharp
 public bool DrawTextRectangleBorder { get; set; }
@@ -19,3 +19,5 @@ public bool DrawTextRectangleBorder { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

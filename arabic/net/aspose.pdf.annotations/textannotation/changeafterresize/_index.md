@@ -1,22 +1,22 @@
 ---
-title: TextAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextAnnotation. تتجاوز التعريف في الفئة الأساسية بجسم فارغ
+title: "TextAnnotation.ChangeAfterResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextAnnotation. تتجاوز التعريف في الفئة الأساسية بجسم فارغ"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/textannotation/changeafterresize/
 ---
-## طريقة TextAnnotation.ChangeAfterResize
+## TextAnnotation.ChangeAfterResize method
 
-تتجاوز التعريف في الفئة الأساسية بجسم فارغ.
+يتجاوز التعريف في الفئة الأساسية بجسم فارغ.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | مصفوفة تحدد التحويل. |
+| تحويل | Matrix | المصفوفة التي تحدد التحويل. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void ChangeAfterResize(Matrix transform)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

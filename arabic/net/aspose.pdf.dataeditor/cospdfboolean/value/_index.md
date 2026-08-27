@@ -1,20 +1,20 @@
 ---
-title: CosPdfBoolean.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CosPdfBoolean. تحصل على القيمة
+title: "CosPdfBoolean.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CosPdfBoolean. تسترجع القيمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.dataeditor/cospdfboolean/value/
 ---
-## خاصية CosPdfBoolean.Value
+## CosPdfBoolean.Value property
 
-تحصل على القيمة.
+يحصل على القيمة.
 
 ```csharp
 public bool Value { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 القيمة.
 
@@ -23,3 +23,5 @@ public bool Value { get; }
 * class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

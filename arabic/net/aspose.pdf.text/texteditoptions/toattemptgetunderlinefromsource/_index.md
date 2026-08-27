@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.ToAttemptGetUnderlineFromSource
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextEditOptions. تحصل أو تعين قيمة تسمح بالبحث عن تسطير النص على صفحة الوثيقة المصدر. قديمة. يرجى استخدام TextSearchOptions.SearchForTextRelatedGraphics بدلاً من ذلك
+title: "TextEditOptions.ToAttemptGetUnderlineFromSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextEditOptions. يحصل أو يضبط القيمة التي تسمح بالبحث عن تسطير النص في صفحة المستند المصدر. مهمل يرجى استخدام TextSearchOptions.SearchForTextRelatedGraphics بدلاً من ذلك"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/
 ---
-## خاصية TextEditOptions.ToAttemptGetUnderlineFromSource
+## TextEditOptions.ToAttemptGetUnderlineFromSource property
 
-تحصل أو تعين قيمة تسمح بالبحث عن تسطير النص على صفحة الوثيقة المصدر. (قديمة) يرجى استخدام TextSearchOptions.SearchForTextRelatedGraphics بدلاً من ذلك.
+يحصل أو يعيّن القيمة التي تسمح بالبحث عن تسطير النص على صفحة المستند المصدر. (مهمل) يرجى استخدام TextSearchOptions.SearchForTextRelatedGraphics بدلاً من ذلك.
 
 ```csharp
 public bool ToAttemptGetUnderlineFromSource { get; set; }
@@ -19,3 +19,5 @@ public bool ToAttemptGetUnderlineFromSource { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

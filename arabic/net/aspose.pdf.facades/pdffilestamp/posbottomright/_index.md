@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosBottomRight
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfFileStamp. الموضع في الأسفل إلى اليمين
+title: "PdfFileStamp.PosBottomRight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfFileStamp. الموضع السفلي الأيمن"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/pdffilestamp/posbottomright/
 ---
-## حقل PdfFileStamp.PosBottomRight
+## PdfFileStamp.PosBottomRight field
 
-الموضع في الأسفل إلى اليمين.
+الموضع السفلي الأيمن.
 
 ```csharp
 public const int PosBottomRight;
@@ -19,3 +19,5 @@ public const int PosBottomRight;
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CharInfoCollection. تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
+title: "CharInfoCollection.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CharInfoCollection. تُرجع قيمة تُشير إلى ما إذا كانت المجموعة للقراءة فقط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/charinfocollection/isreadonly/
 ---
-## خاصية CharInfoCollection.IsReadOnly
+## CharInfoCollection.IsReadOnly property
 
-تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
+يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public bool IsReadOnly { get; }
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

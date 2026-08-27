@@ -1,29 +1,31 @@
 ---
-title: CosPdfNumber.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CosPdfNumber. تحدد أن الكائن المحدد يساوي الكائن الحالي
+title: "CosPdfNumber.Equals"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfNumber. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.dataeditor/cospdfnumber/equals/
 ---
-## طريقة CosPdfNumber.Equals
+## CosPdfNumber.Equals method
 
-تحدد أن الكائن المحدد يساوي الكائن الحالي.
+يحدد أن الكائن المحدد يساوي الكائن الحالي.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | obj | كائن | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان الكائن المحدد يساوي الكائن الحالي؛ خلاف ذلك، خطأ.
+صحيح إذا كان الكائن المحدد مساويًا للكائن الحالي؛ وإلا خطأ.
 
 ### انظر أيضًا
 
-* الفئة [CosPdfNumber](../)
-* مساحة الاسم [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextShowOperator.TextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextShowOperator. يقوم بتهيئة TextShowOperator
+title: "TextShowOperator.TextShowOperator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextShowOperator. يهيئ TextShowOperator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/textshowoperator/textshowoperator/
 ---
 ## TextShowOperator() {#constructor}
 
-يهيئ TextShowOperator.
+يُهيئ TextShowOperator.
 
 ```csharp
 public TextShowOperator()
@@ -24,13 +24,13 @@ public TextShowOperator()
 
 ## TextShowOperator(TextProperties) {#constructor_1}
 
-يهيئ TextShowOperator الذي يسمح بتمرير TextProperties.
+يُهيئ TextShowOperator الذي يسمح بتمرير TextProperties.
 
 ```csharp
 public TextShowOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textProperties | TextProperties | خصائص النص. |
 
@@ -40,3 +40,5 @@ public TextShowOperator(TextProperties textProperties)
 * class [TextShowOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

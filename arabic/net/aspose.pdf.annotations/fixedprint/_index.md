@@ -1,28 +1,30 @@
 ---
-title: Class FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.FixedPrint. تمثل بيانات الطباعة الثابتة لتعليق العلامة المائية
+title: "فئة FixedPrint"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Annotations.FixedPrint. تمثل بيانات الطباعة الثابتة لتعليق Watermark Annotation."
 type: docs
-weight: 1800
+weight: 1890
 url: /ar/net/aspose.pdf.annotations/fixedprint/
 ---
 ## FixedPrint class
 
-تمثل بيانات الطباعة الثابتة لتعليق العلامة المائية.
+يمثل بيانات الطباعة الثابتة لتعليق العلامة المائية.
 
 ```csharp
 public class FixedPrint
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation/) { get; set; } | يحصل على أو يحدد الترجمة الأفقية. |
-| [Matrix](../../aspose.pdf.annotations/fixedprint/matrix/) { get; set; } | يحصل على أو يحدد قيمة المصفوفة. |
-| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation/) { get; set; } | يحصل على أو يحدد الترجمة الرأسية. |
+| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation/) { get; set; } | يحصل أو يضبط الإزاحة الأفقية. |
+| [Matrix](../../aspose.pdf.annotations/fixedprint/matrix/) { get; set; } | يحصل أو يضبط قيمة Matrix. |
+| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation/) { get; set; } | يحصل أو يضبط الإزاحة العمودية. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

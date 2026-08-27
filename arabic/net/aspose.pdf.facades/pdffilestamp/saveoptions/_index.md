@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileStamp. تحصل أو تعين خيارات الحفظ عندما يتم تخزين النتيجة كـ HttpResponse. القيمة الافتراضية PdfSaveOptions
+title: "PdfFileStamp.SaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileStamp. يحصل أو يضبط خيارات الحفظ عندما يتم تخزين النتيجة كـ HttpResponse. القيمة الافتراضية PdfSaveOptions"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdffilestamp/saveoptions/
 ---
-## خاصية PdfFileStamp.SaveOptions
+## PdfFileStamp.SaveOptions property
 
 تحصل أو تعين خيارات الحفظ عندما يتم تخزين النتيجة كـ HttpResponse. القيمة الافتراضية: PdfSaveOptions.
 
@@ -20,3 +20,5 @@ public SaveOptions SaveOptions { get; set; }
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Bookmark.CustomAcorbatViewerMenuActionName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. اسم الإجراء المقابل لتنفيذ عنصر قائمة في عارض Acrobat
+title: "Bookmark.CustomAcorbatViewerMenuActionName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. اسم الإجراء المقابل لتنفيذ عنصر قائمة في عارض Acrobat"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/
@@ -14,8 +14,10 @@ url: /ar/net/aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/
 public Enum[] CustomAcorbatViewerMenuActionName { get; set; }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

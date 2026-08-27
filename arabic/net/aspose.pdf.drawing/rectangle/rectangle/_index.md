@@ -1,28 +1,30 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ المستطيل. يُهيئ مثيلًا جديدًا من فئة المستطيل
+title: "Rectangle.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Rectangle. يقوم بإنشاء نسخة جديدة من فئة Rectangle"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.drawing/rectangle/rectangle/
 ---
-## مُنشئ المستطيل
+## Rectangle constructor
 
-يُهيئ مثيلًا جديدًا من فئة [`Rectangle`](../).
+يقوم بإنشاء نسخة جديدة من فئة [`Rectangle`](../).
 
 ```csharp
 public Rectangle(float left, float bottom, float width, float height)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| left | Single | الموضع الأيسر للمستطيل. |
-| bottom | Single | الموضع السفلي للمستطيل. |
-| width | Single | عرض المستطيل. |
-| height | Single | ارتفاع المستطيل. |
+| يسار | Single | الموضع الأيسر للمستطيل. |
+| أسفل | Single | الموضع السفلي للمستطيل. |
+| العرض | Single | عرض المستطيل. |
+| الارتفاع | Single | ارتفاع المستطيل. |
 
 ### انظر أيضًا
 
-* فئة [Rectangle](../)
-* مساحة الأسماء [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

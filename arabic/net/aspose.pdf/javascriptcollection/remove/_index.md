@@ -1,29 +1,31 @@
 ---
-title: JavaScriptCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة JavaScriptCollection. يزيل JavaScript حسب اسمه
+title: "JavaScriptCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة JavaScriptCollection. تزيل JavaScript بحسب اسمه"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/javascriptcollection/remove/
 ---
-## طريقة JavaScriptCollection.Remove
+## JavaScriptCollection.Remove method
 
-يزيل JavaScript حسب اسمه.
+يزيل JavaScript باستخدام اسمه.
 
 ```csharp
 public bool Remove(string key)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | قيمة المفتاح. |
+| المفتاح | String | قيمة المفتاح. |
 
 ### قيمة الإرجاع
 
-True - إذا تم إزالة JavaScript؛ خلاف ذلك، false.
+صحيح - إذا تم إزالة javascript؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
 * class [JavaScriptCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

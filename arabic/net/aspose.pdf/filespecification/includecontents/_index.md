@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.IncludeContents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSpecification. إذا كانت صحيحة، سيتم تضمين محتويات الملف في مواصفات الملف
+title: "FileSpecification.IncludeContents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSpecification. إذا كان صحيحًا سيتم تضمين محتويات الملف في مواصفات الملف"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/filespecification/includecontents/
 ---
-## خاصية FileSpecification.IncludeContents
+## FileSpecification.IncludeContents property
 
-إذا كانت صحيحة، سيتم تضمين محتويات الملف في مواصفات الملف.
+إذا كان صحيحًا، سيتم تضمين محتويات الملف في مواصفة الملف.
 
 ```csharp
 public bool IncludeContents { get; set; }
@@ -19,3 +19,5 @@ public bool IncludeContents { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

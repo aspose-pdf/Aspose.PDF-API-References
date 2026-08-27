@@ -1,14 +1,14 @@
 ---
-title: FileResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileResult. تشير إلى ما إذا كانت النتيجة سلسلة نصية
+title: "FileResult.IsString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileResult. تشير إلى ما إذا كانت النتيجة سلسلة نصية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/fileresult/isstring/
 ---
-## خاصية FileResult.IsString
+## FileResult.IsString property
 
-تشير إلى ما إذا كانت النتيجة سلسلة نصية.
+يشير إلى ما إذا كانت النتيجة سلسلة نصية.
 
 ```csharp
 public bool IsString { get; }
@@ -23,3 +23,5 @@ public bool IsString { get; }
 * class [FileResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

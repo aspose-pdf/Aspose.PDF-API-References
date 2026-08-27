@@ -1,28 +1,30 @@
 ---
-title: Enum ReplaceTextStrategy.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyScope enum. النطاق الذي يتم فيه تطبيق عملية استبدال النص REPLACE_FIRST بشكل افتراضي
+title: "Enum ReplaceTextStrategy.Scope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategyScope enum. النطاق حيث يتم تطبيق عملية استبدال النص REPLACE_FIRST بشكل افتراضي"
 type: docs
-weight: 4690
+weight: 4810
 url: /ar/net/aspose.pdf.facades/replacetextstrategy.scope/
 ---
 ## ReplaceTextStrategy.Scope enumeration
 
-النطاق الذي يتم فيه تطبيق عملية استبدال النص REPLACE_FIRST بشكل افتراضي
+النطاق حيث يتم تطبيق عملية استبدال النص REPLACE_FIRST بشكل افتراضي
 
 ```csharp
 public enum Scope
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| ReplaceFirst | `0` | استبدال فقط أول ظهور للنص على كل من الصفحات المتأثرة |
-| ReplaceAll | `1` | استبدال جميع ظهورات النص على جميع الصفحات المتأثرة |
+| ReplaceFirst | `0` | استبدل فقط أول ظهور للنص في كل صفحة متأثرة |
+| ReplaceAll | `1` | استبدل جميع ظهورات النص في جميع الصفحات المتأثرة |
 
-### See Also
+### انظر أيضًا
 
 * class [ReplaceTextStrategy](../replacetextstrategy/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

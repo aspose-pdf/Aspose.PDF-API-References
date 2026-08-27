@@ -1,24 +1,24 @@
 ---
-title: OpenAISummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تنشئ مثيلًا جديدًا من OpenAISummaryCopilotOptions
+title: "OpenAISummaryCopilotOptions.Create"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. إنشاء نسخة جديدة من OpenAISummaryCopilotOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/create/
 ---
 ## Create() {#create}
 
-تنشئ مثيلًا جديدًا من [`OpenAISummaryCopilotOptions`](../).
+إنشاء نسخة جديدة من [`OpenAISummaryCopilotOptions`](../).
 
 ```csharp
 public static OpenAISummaryCopilotOptions Create()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-مثيل جديد من [`OpenAISummaryCopilotOptions`](../).
+نسخة جديدة من [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,22 +28,24 @@ public static OpenAISummaryCopilotOptions Create()
 
 ## Create(Action&lt;OpenAISummaryCopilotOptions&gt;) {#create_1}
 
-تنشئ مثيلًا من [`OpenAISummaryCopilotOptions`](../) وتقوم بتكوينه باستخدام المندوب المقدم.
+إنشاء نسخة من [`OpenAISummaryCopilotOptions`](../) وتكوينها باستخدام المفوض المقدم.
 
 ```csharp
 public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| config | Action`1 | المندوب لتكوين الخيارات. |
+| تهيئة | Action`1 | المفوض لتكوين الخيارات. |
 
-### Return Value
+### قيمة الإرجاع
 
-المثيل المكون من [`OpenAISummaryCopilotOptions`](../).
+النسخة المكوّنة من [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RedactionAnnotation. تحصل أو تضبط حجم الخط لـ OverlayText
+title: "RedactionAnnotation.FontSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RedactionAnnotation. تحصل أو تعيين حجم الخط لنص OverlayText"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/redactionannotation/fontsize/
 ---
-## خاصية RedactionAnnotation.FontSize
+## RedactionAnnotation.FontSize property
 
-تحصل أو تضبط حجم الخط لـ OverlayText.
+يحصل أو يعيّن حجم الخط لـ OverlayText.
 
 ```csharp
 public float FontSize { get; set; }
@@ -19,3 +19,5 @@ public float FontSize { get; set; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConvertToDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormDataConverter. تحويل ملفات التدفقات إلى جدول
+title: "FormDataConverter.ConvertToDataTable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormDataConverter. تحويل ملفات التدفقات إلى جدول"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 ---
-## طريقة FormDataConverter.ConvertToDataTable
+## FormDataConverter.ConvertToDataTable method
 
 تحويل ملفات التدفقات إلى جدول.
 
@@ -14,10 +14,10 @@ url: /ar/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| sourceStreams | Stream[] | مصفوفة من التدفقات المصدرية بالتنسيق المحدد. |
-| sourceType | DataType | تنسيق البيانات في التدفقات. القيم الصالحة هي: PDF، FDF، XFDF، XML. |
+| sourceStreams | Stream[] | مصفوفة من تدفقات المصدر بالتنسيق المحدد. |
+| sourceType | DataType | تنسيق البيانات في التدفقات. القيم الصالحة هي: PDF, FDF, XFDF, XML. |
 
 ## أمثلة
 
@@ -41,3 +41,5 @@ stream.Close();
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

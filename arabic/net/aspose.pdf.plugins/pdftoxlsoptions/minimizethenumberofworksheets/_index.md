@@ -1,14 +1,14 @@
 ---
-title: PdfToXlsOptions.MinimizeTheNumberOfWorksheets
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToXlsOptions. قم بتعيين القيمة true إذا كنت بحاجة إلى تقليل عدد أوراق العمل في دفتر العمل الناتج. القيمة الافتراضية هي false، مما يعني حفظ كل صفحة PDF كورقة عمل منفصلة
+title: "PdfToXlsOptions.MinimizeTheNumberOfWorksheets"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToXlsOptions. اضبطها على true إذا كنت تحتاج إلى تقليل عدد أوراق العمل في المصنف الناتج. القيمة الافتراضية هي false وتعني حفظ كل صفحة PDF كورقة عمل منفصلة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/pdftoxlsoptions/minimizethenumberofworksheets/
 ---
-## خاصية PdfToXlsOptions.MinimizeTheNumberOfWorksheets
+## PdfToXlsOptions.MinimizeTheNumberOfWorksheets property
 
-قم بتعيين القيمة true إذا كنت بحاجة إلى تقليل عدد أوراق العمل في دفتر العمل الناتج. القيمة الافتراضية هي false؛ مما يعني حفظ كل صفحة PDF كورقة عمل منفصلة.
+اضبطه على true إذا كنت بحاجة إلى تقليل عدد أوراق العمل في المصنف الناتج. القيمة الافتراضية هي false؛ مما يعني حفظ كل صفحة PDF كورقة عمل منفصلة.
 
 ```csharp
 public bool MinimizeTheNumberOfWorksheets { get; set; }
@@ -19,3 +19,5 @@ public bool MinimizeTheNumberOfWorksheets { get; set; }
 * class [PdfToXlsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

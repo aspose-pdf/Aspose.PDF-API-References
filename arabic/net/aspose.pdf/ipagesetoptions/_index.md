@@ -1,14 +1,14 @@
 ---
-title: Interface IPageSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.IPageSetOptions. تحدد خيارات التحويل المتعلقة بمجموعة من الصفحات للتحويل
+title: "الواجهة IPageSetOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.IPageSetOptions. تعرف خيارات التحويل المتعلقة بمجموعة من الصفحات للتحويل"
 type: docs
-weight: 5800
+weight: 5930
 url: /ar/net/aspose.pdf/ipagesetoptions/
 ---
-## واجهة IPageSetOptions
+## IPageSetOptions interface
 
-تحدد خيارات التحويل المتعلقة بمجموعة من الصفحات للتحويل.
+يحدد خيارات التحويل المتعلقة بمجموعة من الصفحات للتحويل.
 
 ```csharp
 public interface IPageSetOptions
@@ -18,9 +18,11 @@ public interface IPageSetOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | يحدد مصفوفة أرقام الصفحات للتحويل. |
+| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | يحدد مصفوفة أرقام الصفحات المراد تحويلها. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

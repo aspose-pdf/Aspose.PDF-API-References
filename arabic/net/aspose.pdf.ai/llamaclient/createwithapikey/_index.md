@@ -1,30 +1,32 @@
 ---
-title: LlamaClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaClient. تنشئ مثيلًا جديدًا من Builder باستخدام مفتاح API المقدم
+title: "LlamaClient.CreateWithApiKey"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaClient. تنشئ نسخة جديدة من Builder باستخدام مفتاح API المقدم."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/llamaclient/createwithapikey/
 ---
-## طريقة LlamaClient.CreateWithApiKey
+## LlamaClient.CreateWithApiKey method
 
-تنشئ مثيلًا جديدًا من [`Builder`](../../llamaclient.builder/) باستخدام مفتاح API المقدم.
+ينشئ نسخة جديدة من [`Builder`](../../llamaclient.builder/) باستخدام مفتاح API المقدم.
 
 ```csharp
 public static Builder CreateWithApiKey(string apiKey)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| apiKey | سلسلة | مفتاح API الذي سيتم استخدامه للعميل. |
+| apiKey | String | مفتاح API لاستخدامه مع العميل. |
 
 ### قيمة الإرجاع
 
-مثيل من [`Builder`](../../llamaclient.builder/).
+مثال على [`Builder`](../../llamaclient.builder/).
 
 ### انظر أيضًا
 
-* الفئة [Builder](../../llamaclient.builder/)
-* الفئة [LlamaClient](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Builder](../../llamaclient.builder/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

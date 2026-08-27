@@ -1,22 +1,22 @@
 ---
-title: ColorBarAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ColorBarAnnotation. تحديث المعلمات والمظهر وفقًا لتحويل المصفوفة والتحرك خارج TrimBox إذا لزم الأمر
+title: "ColorBarAnnotation.ChangeAfterResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ColorBarAnnotation. تحديث المعلمات والمظهر وفقًا لتحويل المصفوفة والتحرك خارج TrimBox إذا لزم الأمر"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/colorbarannotation/changeafterresize/
 ---
-## طريقة ColorBarAnnotation.ChangeAfterResize
+## ColorBarAnnotation.ChangeAfterResize method
 
-تحديث المعلمات والمظهر، وفقًا لتحويل المصفوفة والتحرك خارج TrimBox إذا لزم الأمر.
+تحديث المعلمات والمظهر وفقًا لتحويل المصفوفة والتحرك خارج TrimBox إذا لزم الأمر.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
 ```
 
-| المعلمة | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | مصفوفة تحدد التحويل. |
+| تحويل | Matrix | المصفوفة التي تحدد التحويل. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void ChangeAfterResize(Matrix transform)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

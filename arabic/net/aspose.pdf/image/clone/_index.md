@@ -1,12 +1,12 @@
 ---
-title: Image.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصورة. استنساخ الصورة
+title: "Image.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Image. استنساخ الصورة"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/image/clone/
 ---
-## طريقة Image.Clone
+## Image.Clone method
 
 استنساخ الصورة.
 
@@ -23,3 +23,5 @@ public override object Clone()
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

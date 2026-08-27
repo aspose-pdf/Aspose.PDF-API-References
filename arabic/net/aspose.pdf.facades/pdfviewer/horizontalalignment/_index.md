@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل أو تعين قيمة تشير إلى المحاذاة الأفقية
+title: "PdfViewer.HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل أو تعين قيمة تشير إلى المحاذاة الأفقية"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdfviewer/horizontalalignment/
 ---
-## خاصية PdfViewer.HorizontalAlignment
+## PdfViewer.HorizontalAlignment property
 
-تحصل أو تعين قيمة تشير إلى المحاذاة الأفقية
+يحصل أو يعيّن قيمة تشير إلى المحاذاة الأفقية.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

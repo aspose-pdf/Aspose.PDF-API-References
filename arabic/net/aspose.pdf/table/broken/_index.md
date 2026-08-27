@@ -1,14 +1,14 @@
 ---
-title: Table.Broken
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل أو تعين كسر الجدول العمودي
+title: "Table.Broken"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. يحصل أو يضبط كسر عمودي للجدول"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/table/broken/
 ---
-## خاصية Table.Broken
+## Table.Broken property
 
-تحصل أو تعين كسر الجدول العمودي;
+الحصول أو تعيين كسر عمودي للجدول؛
 
 ```csharp
 public TableBroken Broken { get; set; }
@@ -20,3 +20,5 @@ public TableBroken Broken { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

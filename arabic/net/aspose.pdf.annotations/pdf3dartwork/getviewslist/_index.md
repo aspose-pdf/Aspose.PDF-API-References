@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.GetViewsList
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DArtwork. احصل على العروض كقائمة
+title: "PDF3DArtwork.GetViewsList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DArtwork. يسترجع العروض كقائمة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/pdf3dartwork/getviewslist/
 ---
-## طريقة PDF3DArtwork.GetViewsList
+## PDF3DArtwork.GetViewsList method
 
 احصل على العروض كقائمة.
 
@@ -24,3 +24,5 @@ ReadOnlyCollection&lt;PDF3DView&gt;.
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

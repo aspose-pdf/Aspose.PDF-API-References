@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.DirectionL2R
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. ترتيب قراءة النص من اليسار إلى اليمين
+title: "ViewerPreference.DirectionL2R"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. ترتيب قراءة النص من اليسار إلى اليمين"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/viewerpreference/directionl2r/
 ---
-## حقل ViewerPreference.DirectionL2R
+## ViewerPreference.DirectionL2R field
 
 ترتيب قراءة النص من اليسار إلى اليمين.
 
@@ -19,3 +19,5 @@ public const int DirectionL2R;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

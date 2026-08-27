@@ -1,14 +1,14 @@
 ---
-title: Interface IFontOptions
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Text.IFontOptions. خصائص مفيدة لضبط سلوك الخط
+title: "الواجهة IFontOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.Text.IFontOptions. خصائص مفيدة لضبط سلوك الخط"
 type: docs
-weight: 10610
+weight: 10790
 url: /ar/net/aspose.pdf.text/ifontoptions/
 ---
-## واجهة IFontOptions
+## IFontOptions interface
 
-خصائص مفيدة لضبط سلوك الخط
+خصائص مفيدة لضبط سلوك Font
 
 ```csharp
 public interface IFontOptions
@@ -18,9 +18,11 @@ public interface IFontOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [NotifyAboutFontEmbeddingError](../../aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/) { get; set; } | أحيانًا لا يمكن تضمين الخط المطلوب في المستند. هناك العديد من الأسباب، مثل قيود الترخيص أو عندما لا يتم العثور على الخط المطلوب على الكمبيوتر الوجهة. عندما تحدث هذه الحالة، ليس من السهل اكتشافها، لأن الخط المطلوب مضمن عبر مجموعة من خاصية العلم Font.IsEmbedded = true; بالطبع، من الممكن قراءة هذه الخاصية مباشرة بعد تعيينها ولكنها ليست طريقة مريحة. العلم NotifyAboutFontEmbeddingError يفرض آلية الاستثناء للحالات التي تفشل فيها محاولة تضمين الخط. إذا تم تعيين هذا العلم، سيتم طرح استثناء من النوع [`FontEmbeddingException`](../../aspose.pdf/fontembeddingexception/). بشكل افتراضي false. |
+| [NotifyAboutFontEmbeddingError](../../aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/) { get; set; } | أحيانًا لا يمكن تضمين الخط المطلوب في المستند. هناك العديد من الأسباب، مثل قيود الترخيص أو عندما لا يتم العثور على الخط المطلوب على جهاز الوجهة. عندما يحدث هذا الوضع ليس من السهل اكتشافه، لأن الخط المطلوب يتم تضمينه عبر علم الخاصية Font.IsEmbedded = true؛ بالطبع يمكن قراءة هذه الخاصية فور تعيينها لكن ذلك ليس نهجًا مريحًا. العلم NotifyAboutFontEmbeddingError يفرض آلية استثناء للحالات التي يفشل فيها محاولة تضمين الخط. إذا تم تعيين هذا العلم، سيتم رمي استثناء من النوع [`FontEmbeddingException`](../../aspose.pdf/fontembeddingexception/). القيمة الافتراضية false. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

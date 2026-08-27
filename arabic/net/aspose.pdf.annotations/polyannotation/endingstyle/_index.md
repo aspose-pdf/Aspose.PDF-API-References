@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.EndingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PolyAnnotation. تحصل أو تعين نمط نهاية السطر الثاني
+title: "PolyAnnotation.EndingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PolyAnnotation. يحصل أو يضبط نمط النهاية للخط الثاني"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/polyannotation/endingstyle/
 ---
-## خاصية PolyAnnotation.EndingStyle
+## PolyAnnotation.EndingStyle property
 
-تحصل أو تعين نمط نهاية السطر الثاني.
+يحصل أو يضبط نمط نهاية السطر الثاني.
 
 ```csharp
 public LineEnding EndingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding EndingStyle { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class FileContentResponseT
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.FileContentResponse1T.
+title: "الفئة FileContentResponseT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.AI.FileContentResponse1T الفئة."
 type: docs
-weight: 370
+weight: 390
 url: /ar/net/aspose.pdf.ai/filecontentresponse-1/
 ---
 ## FileContentResponse&lt;T&gt; class
@@ -12,27 +12,29 @@ url: /ar/net/aspose.pdf.ai/filecontentresponse-1/
 public class FileContentResponse<T> : BaseResponse
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileContentResponse](filecontentresponse/)() | المُنشئ الافتراضي. |
+| [FileContentResponse](filecontentresponse/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Content](../../aspose.pdf.ai/filecontentresponse-1/content/) { get; set; } | يحصل على محتوى الملف أو يحدده. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يحصل على تفاصيل الاستجابة أو يحددها. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يحصل على خطأ استجابة HTTP أو يحدده. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يحصل على معلومات الخطأ أو يحددها. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يحصل على رؤوس استجابة HTTP أو يحددها. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يحصل على رمز حالة HTTP أو يحدده. |
+| [Content](../../aspose.pdf.ai/filecontentresponse-1/content/) { get; set; } | يحصل أو يعيّن محتوى الملف. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يتم الحصول على أو تعيين تفاصيل الاستجابة. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يتم الحصول على أو تعيين خطأ استجابة HTTP. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يتم الحصول على أو تعيين معلومات الخطأ. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يتم الحصول على أو تعيين رؤوس استجابة HTTP. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يتم الحصول على أو تعيين رمز حالة HTTP. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | يشير إلى ما إذا كانت الاستجابة ناجحة. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يحصل على عبارة سبب الخطأ. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يتم الحصول على عبارة سبب الخطأ. |
 
-### See Also
+### انظر أيضًا
 
 * class [BaseResponse](../baseresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

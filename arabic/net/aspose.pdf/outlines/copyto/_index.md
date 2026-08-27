@@ -1,23 +1,23 @@
 ---
-title: Outlines.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Outlines. تنسخ إدخالات المخطط إلى System.Array بدءًا من فهرس System.Array معين
+title: "Outlines.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Outlines. ينسخ إدخالات المخطط إلى System.Array يبدأ عند فهرس System.Array معين"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/outlines/copyto/
 ---
-## طريقة Outlines.CopyTo
+## Outlines.CopyTo method
 
-تنسخ إدخالات المخطط إلى System.Array، بدءًا من فهرس System.Array معين.
+ينسخ إدخالات المخطط إلى System.Array، بدءًا من فهرس System.Array معين.
 
 ```csharp
 public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | OutlineItemCollection[] | مصفوفة System.Array أحادية البعد التي هي الوجهة. يجب أن تحتوي على فهرسة تبدأ من الصفر. |
-| arrayIndex | Int32 | الفهرس الذي يبدأ منه النسخ في المصفوفة والذي يبدأ من الصفر. |
+| مصفوفة | OutlineItemCollection[] | System.Array أحادي البعد الذي هو الوجهة. يجب أن يكون بفهرسة صفرية |
+| arrayIndex | Int32 | الفهرس الصفري في المصفوفة الذي يبدأ عنده النسخ. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

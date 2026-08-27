@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSpecification. تحصل على عنصر مجموعة من مواصفات الملف
+title: "FileSpecification.CollectionItem"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSpecification. يحصل على عنصر مجموعة من مواصفات الملف"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/filespecification/collectionitem/
 ---
-## خاصية FileSpecification.CollectionItem
+## FileSpecification.CollectionItem property
 
-تحصل على عنصر مجموعة من مواصفات الملف.
+يحصل على عنصر من مجموعة مواصفة الملف.
 
 ```csharp
 public CollectionItem CollectionItem { get; }
@@ -20,3 +20,5 @@ public CollectionItem CollectionItem { get; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

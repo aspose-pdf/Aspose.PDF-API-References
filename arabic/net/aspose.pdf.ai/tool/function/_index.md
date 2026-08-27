@@ -1,26 +1,26 @@
 ---
-title: Tool.Function
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الأداة. تنشئ مثيل أداة جديدة مع الوظيفة المحددة
+title: "Tool.Function"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Tool. تنشئ نسخة جديدة من الأداة مع الدالة المحددة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/tool/function/
 ---
-## طريقة Tool.Function
+## Tool.Function method
 
-تنشئ مثيل أداة جديدة مع الوظيفة المحددة.
+ينشئ نسخة أداة جديدة بالوظيفة المحددة.
 
 ```csharp
 public static Tool Function(Function function)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| function | Function | الوظيفة التي يمكن للنموذج استدعاؤها. |
+| دالة | دالة | الدالة التي يمكن للنموذج استدعاؤها. |
 
 ### قيمة الإرجاع
 
-مثيل أداة جديدة مع الوظيفة المحددة.
+مثيل جديد للأداة مع الدالة المحددة.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public static Tool Function(Function function)
 * class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Metadata.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية البيانات الوصفية. تتحقق مما إذا كانت المجموعة ذات حجم ثابت
+title: "Metadata.IsFixedSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Metadata. تتحقق مما إذا كانت المجموعة ذات حجم ثابت"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/metadata/isfixedsize/
 ---
-## خاصية Metadata.IsFixedSize
+## Metadata.IsFixedSize property
 
-تتحقق مما إذا كانت المجموعة ذات حجم ثابت.
+يتحقق مما إذا كانت المجموعة ذات حجم ثابت.
 
 ```csharp
 public bool IsFixedSize { get; }
@@ -19,3 +19,5 @@ public bool IsFixedSize { get; }
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

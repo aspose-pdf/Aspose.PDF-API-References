@@ -1,14 +1,14 @@
 ---
-title: OrganizerBaseOptions.CloseOutputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OrganizerBaseOptions. إغلاق تدفقات الإخراج بعد اكتمال العملية
+title: "OrganizerBaseOptions.CloseOutputStreams"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OrganizerBaseOptions. إغلاق تدفقات الإخراج بعد إكمال العملية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/
 ---
-## خاصية OrganizerBaseOptions.CloseOutputStreams
+## OrganizerBaseOptions.CloseOutputStreams property
 
-إغلاق تدفقات الإخراج بعد اكتمال العملية.
+إغلاق تدفقات الإخراج بعد إكمال العملية.
 
 ```csharp
 public bool CloseOutputStreams { get; set; }
@@ -19,3 +19,5 @@ public bool CloseOutputStreams { get; set; }
 * class [OrganizerBaseOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

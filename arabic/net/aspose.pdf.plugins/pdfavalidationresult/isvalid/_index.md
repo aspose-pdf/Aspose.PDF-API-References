@@ -1,14 +1,14 @@
 ---
-title: PdfAValidationResult.IsValid
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfAValidationResult. يحصل على قيمة تشير إلى ما إذا كانت عملية التحقق ناجحة
+title: "PdfAValidationResult.IsValid"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfAValidationResult. يحصل على قيمة تشير إلى ما إذا كانت عملية التحقق ناجحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdfavalidationresult/isvalid/
 ---
-## حقل PdfAValidationResult.IsValid
+## PdfAValidationResult.IsValid field
 
-يحصل على قيمة تشير إلى ما إذا كانت عملية التحقق ناجحة.
+يحصل على قيمة تشير إلى ما إذا كان التحقق ناجحًا.
 
 ```csharp
 public readonly bool IsValid;
@@ -19,3 +19,5 @@ public readonly bool IsValid;
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

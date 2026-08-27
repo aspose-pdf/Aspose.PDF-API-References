@@ -1,14 +1,14 @@
 ---
-title: Class TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.TextBuilder. يضيف كائن نص إلى صفحة Pdf
+title: "فئة TextBuilder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Text.TextBuilder. تُضيف كائن نص إلى صفحة Pdf"
 type: docs
-weight: 10810
+weight: 10990
 url: /ar/net/aspose.pdf.text/textbuilder/
 ---
-## فئة TextBuilder
+## TextBuilder class
 
-يضيف كائن نص إلى صفحة Pdf.
+يضيف كائن النص إلى صفحة Pdf.
 
 ```csharp
 public sealed class TextBuilder
@@ -18,18 +18,20 @@ public sealed class TextBuilder
 
 | الاسم | الوصف |
 | --- | --- |
-| [TextBuilder](textbuilder/#constructor)(Page) | يقوم بتهيئة مثيل جديد من فئة `TextBuilder` لصفحة Pdf. |
-| [TextBuilder](textbuilder/#constructor_1)(Page, BaseOperatorCollection) | يقوم بتهيئة مثيل جديد من فئة `TextBuilder` لصفحة Pdf. |
+| [TextBuilder](textbuilder/#constructor)(Page) | يُهيئ نسخة جديدة من الفئة `TextBuilder` لصفحة Pdf. |
+| [TextBuilder](textbuilder/#constructor_1)(Page, BaseOperatorCollection) | يُهيئ نسخة جديدة من الفئة `TextBuilder` لصفحة Pdf. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph/)(TextParagraph) | يضيف فقرة نصية إلى صفحة Pdf. |
-| [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext_1)(List&lt;TextFragment&gt;) | يضيف قائمة من أجزاء النص إلى صفحة Pdf. |
-| [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext)(TextFragment) | يضيف جزء نص إلى صفحة Pdf |
+| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph/)(TextParagraph) | يُضيف فقرة نصية إلى صفحة Pdf. |
+| [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext_1)(List&lt;TextFragment&gt;) | يُضيف قائمة من مقاطع النص إلى صفحة Pdf. |
+| [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext)(TextFragment) | يُضيف مقطع نص إلى صفحة Pdf |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

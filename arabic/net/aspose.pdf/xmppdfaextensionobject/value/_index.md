@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionObject.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpPdfAExtensionObject. يحصل على القيمة أو يحددها
+title: "XmpPdfAExtensionObject.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpPdfAExtensionObject. تحصل أو تعيّن القيمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/xmppdfaextensionobject/value/
 ---
-## خاصية XmpPdfAExtensionObject.Value
+## XmpPdfAExtensionObject.Value property
 
-يحصل على القيمة أو يحددها.
+يحصل أو يعيّن القيمة.
 
 ```csharp
 public string Value { get; set; }
@@ -19,3 +19,5 @@ public string Value { get; set; }
 * class [XmpPdfAExtensionObject](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

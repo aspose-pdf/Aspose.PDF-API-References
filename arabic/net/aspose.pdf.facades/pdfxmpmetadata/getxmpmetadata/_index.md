@@ -1,24 +1,24 @@
 ---
-title: PdfXmpMetadata.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfXmpMetadata. احصل على XmpMetadata من ملف pdf المدخل بتنسيق xml
+title: "PdfXmpMetadata.GetXmpMetadata"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfXmpMetadata. احصل على XmpMetadata لملف PDF المدخل بصيغة XML"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
 ---
 ## GetXmpMetadata() {#getxmpmetadata}
 
-احصل على XmpMetadata من ملف pdf المدخل بتنسيق xml.
+احصل على XmpMetadata لملف pdf المدخل بصيغة xml.
 
 ```csharp
 public byte[] GetXmpMetadata()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-بايتات XmpMetadata.
+البتات الخاصة بـ XmpMetadata.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -26,7 +26,7 @@ pxm.BindPdf("PdfFile.pdf");
 byte[] data = pxm.GetXmpMetadata();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -36,21 +36,21 @@ byte[] data = pxm.GetXmpMetadata();
 
 ## GetXmpMetadata(string) {#getxmpmetadata_1}
 
-احصل على جزء من XmpMetadata من ملف pdf المدخل وفقًا لاسم الميتا.
+احصل على جزء من XmpMetadata لملف pdf المدخل وفقًا لاسم ميتا.
 
 ```csharp
 public byte[] GetXmpMetadata(string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الميتا. |
+| الاسم | String | اسم البيانات الوصفية. |
 
-### Return Value
+### قيمة الإرجاع
 
-بايتات الميتا.
+البتات الخاصة بالبيانات الوصفية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -58,8 +58,10 @@ pxm.BindPdf("PdfFile.pdf");
 byte[] data = pxm.GetXmpMetadata("dc:creator");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

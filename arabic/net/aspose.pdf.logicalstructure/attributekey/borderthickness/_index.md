@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BorderThickness
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية BorderThickness مالك خاصية التخطيط
+title: "AttributeKey.BorderThickness"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة BorderThickness سمة Layout المالك"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/borderthickness/
 ---
-## حقل AttributeKey.BorderThickness
+## AttributeKey.BorderThickness field
 
-خاصية BorderThickness (مالك خاصية التخطيط).
+خاصية BorderThickness (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey BorderThickness;
@@ -19,3 +19,5 @@ public static readonly AttributeKey BorderThickness;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. كائن مستطيل يحمل موقع الحقول
+title: "FormFieldFacade.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldFacade. كائن Rectangle يحتوي على موقع الحقول"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/formfieldfacade/position/
 ---
-## خاصية FormFieldFacade.Position
+## FormFieldFacade.Position property
 
 كائن مستطيل يحمل موقع الحقل.
 
@@ -19,3 +19,5 @@ public float[] Position { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

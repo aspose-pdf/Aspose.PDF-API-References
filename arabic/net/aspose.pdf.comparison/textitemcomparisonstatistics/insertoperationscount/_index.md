@@ -1,14 +1,14 @@
 ---
-title: TextItemComparisonStatistics.InsertOperationsCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextItemComparisonStatistics. يحصل على عدد عمليات الإدراج ويضبطه
+title: "TextItemComparisonStatistics.InsertOperationsCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextItemComparisonStatistics. الحصول على وتعيين عدد عمليات الإدراج."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/
 ---
-## خاصية TextItemComparisonStatistics.InsertOperationsCount
+## TextItemComparisonStatistics.InsertOperationsCount property
 
-يحصل على عدد عمليات الإدراج ويضبطه.
+احصل على وتعيين عدد عمليات الإدراج.
 
 ```csharp
 public int InsertOperationsCount { get; }
@@ -19,3 +19,5 @@ public int InsertOperationsCount { get; }
 * class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

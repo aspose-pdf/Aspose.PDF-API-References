@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioButtonItemSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormEditor. تحصل أو تعين حجم عنصر زر الراديو عند إضافة حقل زر راديو جديد
+title: "FormEditor.RadioButtonItemSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormEditor. تحصل أو تعيين حجم عنصر زر الاختيار عندما يتم إضافة حقل زر اختيار جديد"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/
 ---
-## خاصية FormEditor.RadioButtonItemSize
+## FormEditor.RadioButtonItemSize property
 
-تحصل أو تعين حجم عنصر زر الراديو (عند إضافة حقل زر راديو جديد).
+يحصل أو يضبط حجم عنصر زر الاختيار (عند إضافة حقل زر اختيار جديد).
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
@@ -29,3 +29,5 @@ public double RadioButtonItemSize { get; set; }
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

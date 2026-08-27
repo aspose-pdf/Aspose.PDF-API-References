@@ -1,22 +1,22 @@
 ---
-title: Enum RenderModeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenderModeType enum. Enum RenderModeType مجموعة من أنواع وضع العرض
+title: "التعداد RenderModeType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Annotations.RenderModeType. مجموعة من أنواع وضع العرض."
 type: docs
-weight: 2420
+weight: 2510
 url: /ar/net/aspose.pdf.annotations/rendermodetype/
 ---
-## Enumeration RenderModeType
+## RenderModeType enumeration
 
-Enum RenderModeType: مجموعة من أنواع وضع العرض
+تعداد RenderModeType: مجموعة من أنواع وضعية العرض
 
 ```csharp
 public enum RenderModeType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Solid | `0` | وضع العرض "Solid". |
 | SolidWireframe | `1` | وضع العرض "SolidWireFrame". |
@@ -33,7 +33,9 @@ public enum RenderModeType
 | SolidOutline | `12` | وضع العرض "SolidOutline". |
 | ShadedIllustration | `13` | وضع العرض "ShadedIllustration". |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

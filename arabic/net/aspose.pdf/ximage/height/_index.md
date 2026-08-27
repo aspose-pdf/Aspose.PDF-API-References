@@ -1,14 +1,14 @@
 ---
-title: XImage.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XImage. تحصل على ارتفاع الصورة
+title: "XImage.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XImage. تحصل على ارتفاع الصورة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/ximage/height/
 ---
-## خاصية XImage.Height
+## XImage.Height property
 
-تحصل على ارتفاع الصورة.
+يحصل على ارتفاع الصورة.
 
 ```csharp
 public int Height { get; }
@@ -19,3 +19,5 @@ public int Height { get; }
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

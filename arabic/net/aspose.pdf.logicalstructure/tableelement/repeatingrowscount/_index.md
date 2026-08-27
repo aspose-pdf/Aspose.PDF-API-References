@@ -1,14 +1,14 @@
 ---
-title: TableElement.RepeatingRowsCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل على عدد الصفوف الأولى المتكررة لعدة صفحات
+title: "TableElement.RepeatingRowsCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. تحصل على عدد الصفوف الأولى المتكررة لعدة صفحات"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/repeatingrowscount/
 ---
-## خاصية TableElement.RepeatingRowsCount
+## TableElement.RepeatingRowsCount property
 
-تحصل على عدد الصفوف الأولى المتكررة لعدة صفحات.
+الحصول على عدد الصفوف الأولى المتكررة لعدة صفحات.
 
 ```csharp
 public int RepeatingRowsCount { get; set; }
@@ -19,3 +19,5 @@ public int RepeatingRowsCount { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

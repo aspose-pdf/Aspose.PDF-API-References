@@ -1,22 +1,22 @@
 ---
-title: StructureAttributes.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureAttributes. تحصل على مالك السمة القياسية
+title: "StructureAttributes.Owner"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureAttributes. تحصل على مالك السمة القياسي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/structureattributes/owner/
 ---
-## خاصية StructureAttributes.Owner
+## StructureAttributes.Owner property
 
-تحصل على مالك السمة القياسية.
+يحصل على مالك السمة القياسية.
 
 ```csharp
 public AttributeOwnerStandard Owner { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-مالك السمة القياسية.
+مالك السمة القياسي.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public AttributeOwnerStandard Owner { get; }
 * class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

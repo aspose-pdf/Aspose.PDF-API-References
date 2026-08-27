@@ -1,14 +1,14 @@
 ---
-title: TocInfo.CopyToOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TocInfo. يحصل أو يحدد ما إذا كان جدول المحتويات قد تم نسخه إلى المخططات
+title: "TocInfo.CopyToOutlines"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TocInfo. تحصل أو تعين ما إذا تم نسخ TOC إلى المخططات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/tocinfo/copytooutlines/
 ---
-## خاصية TocInfo.CopyToOutlines
+## TocInfo.CopyToOutlines property
 
-يحصل أو يحدد ما إذا كان جدول المحتويات قد تم نسخه إلى المخططات.
+يحصل أو يعيّن ما إذا تم نسخ TOC إلى المخططات.
 
 ```csharp
 public bool CopyToOutlines { get; set; }
@@ -19,3 +19,5 @@ public bool CopyToOutlines { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

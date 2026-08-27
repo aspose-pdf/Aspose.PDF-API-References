@@ -1,30 +1,30 @@
 ---
-title: PdfFileSecurity.TryEncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSecurity. تشفر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك وتحدد صلاحيات الوصول إلى المستندات. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. لا ترمي استثناءً إذا فشل المعالجة
+title: "PdfFileSecurity.TryEncryptFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSecurity. تشفر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك وتحدد صلاحيات المستند للوصول. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. لا تُلقي استثناءً إذا فشلت العملية"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
 ---
-## طريقة PdfFileSecurity.TryEncryptFile
+## PdfFileSecurity.TryEncryptFile method
 
-تشفر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك وتحدد صلاحيات الوصول إلى المستند. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. لا ترمي استثناءً إذا فشل المعالجة.
+يشفّر ملف Pdf باستخدام كلمة مرور المستخدم وكلمة مرور المالك ويضبط صلاحيات المستند للوصول. يمكن أن تكون كلمة مرور المستخدم وكلمة مرور المالك فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك المدخلة فارغة أو null. لا يُطلق استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
     KeySize keySize)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | userPassword | String | كلمة مرور المستخدم. |
 | ownerPassword | String | كلمة مرور المالك. |
-| privilege | DocumentPrivilege | تعيين الصلاحية. |
-| keySize | KeySize | KeySize.x40 لتشفير 40 بت، KeySize.x128 لتشفير 128 بت و KeySize.x256 لتشفير 256 بت. |
+| امتياز | DocumentPrivilege | تعيين الامتياز. |
+| keySize | KeySize | KeySize.x40 للتشفير 40 بت، KeySize.x128 للتشفير 128 بت وKeySize.x256 للتشفير 256 بت. |
 
 ### قيمة الإرجاع
 
-صحيح للنجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
 ## أمثلة
 
@@ -49,3 +49,5 @@ Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", Doc
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

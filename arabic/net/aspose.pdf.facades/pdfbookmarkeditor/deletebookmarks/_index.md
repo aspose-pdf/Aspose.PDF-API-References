@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.DeleteBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfBookmarkEditor. تحذف جميع العلامات المرجعية من مستند PDF
+title: "PdfBookmarkEditor.DeleteBookmarks"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfBookmarkEditor. تحذف جميع العلامات المرجعية في مستند PDF"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/
 ---
 ## DeleteBookmarks() {#deletebookmarks}
 
-تحذف جميع العلامات المرجعية من مستند PDF.
+يحذف جميع الإشارات المرجعية في PDF Document.
 
 ```csharp
 public void DeleteBookmarks()
@@ -33,13 +33,13 @@ editor.Save("example_out.pdf");
 
 ## DeleteBookmarks(string) {#deletebookmarks_1}
 
-تحذف العلامة المرجعية من مستند PDF.
+يحذف الإشارة المرجعية في PDF Document.
 
 ```csharp
 public void DeleteBookmarks(string title)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | title | String | عنوان العلامة المرجعية المحذوفة. |
 
@@ -57,3 +57,5 @@ editor.Save("example_out.pdf");
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

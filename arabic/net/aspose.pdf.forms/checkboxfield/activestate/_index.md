@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.ActiveState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CheckboxField. تحصل أو تعين حالة مظهر التعليق الحالية
+title: "CheckboxField.ActiveState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CheckboxField. يحصل على أو يضبط حالة مظهر التعليق التوضيحي الحالي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/checkboxfield/activestate/
 ---
-## خاصية CheckboxField.ActiveState
+## CheckboxField.ActiveState property
 
-تحصل أو تعين حالة مظهر التعليق الحالية.
+يحصل أو يعيّن حالة مظهر التعليق الحالية.
 
 ```csharp
 public override string ActiveState { get; set; }
@@ -19,3 +19,5 @@ public override string ActiveState { get; set; }
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

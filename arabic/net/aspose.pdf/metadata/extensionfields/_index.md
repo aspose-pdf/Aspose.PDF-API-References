@@ -1,14 +1,14 @@
 ---
-title: Metadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية البيانات الوصفية. تحصل على قاموس حقول التمديد
+title: "Metadata.ExtensionFields"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Metadata. تحصل على القاموس الخاص بحقول الامتداد."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/metadata/extensionfields/
 ---
-## خاصية Metadata.ExtensionFields
+## Metadata.ExtensionFields property
 
-تحصل على قاموس حقول التمديد.
+يحصل على القاموس الخاص بحقول الامتداد.
 
 ```csharp
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
@@ -20,3 +20,5 @@ public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

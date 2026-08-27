@@ -1,20 +1,20 @@
 ---
-title: FormEditor.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تغيير اسم الحقل
+title: "FormEditor.RenameField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تغيير اسم الحقل"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.facades/formeditor/renamefield/
 ---
-## طريقة FormEditor.RenameField
+## FormEditor.RenameField method
 
-تغيير اسم الحقل.
+غيّر اسم الحقل.
 
 ```csharp
 public void RenameField(string fieldName, string newFieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | الاسم القديم للحقل. |
 | newFieldName | String | الاسم الجديد للحقل. |
@@ -31,3 +31,5 @@ formEditor.RenameField("textField", "textField_Renamed");
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

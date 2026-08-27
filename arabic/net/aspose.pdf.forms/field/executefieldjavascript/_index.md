@@ -1,22 +1,22 @@
 ---
-title: Field.ExecuteFieldJavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Field. تنفذ إجراء JavaScript محدد للحقل
+title: "Field.ExecuteFieldJavaScript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Field. ينفّذ إجراء JavaScript محدد للحقول"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.forms/field/executefieldjavascript/
 ---
-## طريقة Field.ExecuteFieldJavaScript
+## Field.ExecuteFieldJavaScript method
 
-تنفذ إجراء JavaScript محدد للحقل.
+ينفّذ إجراء JavaScript محدد للحقل.
 
 ```csharp
 public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| javaScriptAction | JavascriptAction | إجراء JavaScript الذي سيتم تنفيذه. |
+| javaScriptAction | JavascriptAction | إجراء JavaScript للتنفيذ. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

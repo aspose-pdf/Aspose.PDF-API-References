@@ -1,27 +1,27 @@
 ---
-title: TextDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextDevice. تحويل الصفحة وحفظها كتيار نصي
+title: "TextDevice.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextDevice. تحويل الصفحة وحفظها كتيار نصي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.devices/textdevice/process/
 ---
-## طريقة TextDevice.Process
+## TextDevice.Process method
 
-تحويل الصفحة وحفظها كتيار نصي.
+تحويل الصفحة وحفظها كتدفق نص.
 
 ```csharp
 public override void Process(Page page, Stream output)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الصفحة | Page | الصفحة التي سيتم تحويلها. |
-| الناتج | Stream | تيار النتيجة. |
+| صفحة | صفحة | الصفحة للتحويل. |
+| الإخراج | Stream | تيار النتيجة. |
 
 ## أمثلة
 
-المثال يوضح كيفية استخراج النص من الصفحة الأولى لوثيقة PDF.
+يوضح المثال كيفية استخراج النص من الصفحة الأولى لـ PDF document.
 
 ```csharp
 Document doc = new Document(inFile);
@@ -29,13 +29,13 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-    // create text device
+    // إنشاء جهاز نصي
     TextDevice device = new TextDevice();
 
-    // convert the page and save text to the stream
+    // تحويل الصفحة وحفظ النص إلى الدفق
     device.Process(doc.Pages[1], ms);
 
-    // use the extracted text
+    // استخدام النص المستخرج
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }
@@ -47,3 +47,5 @@ using (MemoryStream ms = new MemoryStream())
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

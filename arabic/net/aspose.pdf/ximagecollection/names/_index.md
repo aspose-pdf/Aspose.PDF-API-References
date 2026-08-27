@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XImageCollection. تحصل على مصفوفة من أسماء الصور
+title: "XImageCollection.Names"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XImageCollection. تحصل على مصفوفة أسماء الصور"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/ximagecollection/names/
 ---
-## خاصية XImageCollection.Names
+## XImageCollection.Names property
 
-تحصل على مصفوفة من أسماء الصور.
+يحصل على مصفوفة أسماء الصور.
 
 ```csharp
 public string[] Names { get; }
@@ -19,3 +19,5 @@ public string[] Names { get; }
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

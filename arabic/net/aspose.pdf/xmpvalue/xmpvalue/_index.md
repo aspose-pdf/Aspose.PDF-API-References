@@ -1,24 +1,24 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XmpValue. مُنشئ لقيمة سلسلة
+title: "XmpValue.XmpValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XmpValue. منشئ لقيمة سلسلة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xmpvalue/xmpvalue/
 ---
 ## XmpValue(string) {#constructor_4}
 
-مُنشئ لقيمة سلسلة.
+منشئ لقيمة سلسلة.
 
 ```csharp
 public XmpValue(string value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | قيمة سلسلة. |
+| القيمة | String | قيمة نصية. |
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,17 +28,17 @@ public XmpValue(string value)
 
 ## XmpValue(int) {#constructor_2}
 
-مُنشئ لقيمة عدد صحيح.
+منشئ لقيمة عدد صحيح.
 
 ```csharp
 public XmpValue(int value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Int32 | قيمة عدد صحيح. |
+| القيمة | Int32 | قيمة عدد صحيح. |
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -48,17 +48,17 @@ public XmpValue(int value)
 
 ## XmpValue(double) {#constructor_1}
 
-مُنشئ لقيمة نقطة عائمة.
+منشئ لقيمة النقطة العائمة.
 
 ```csharp
 public XmpValue(double value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Double | قيمة مزدوجة. |
+| القيمة | Double | قيمة Double. |
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -68,17 +68,17 @@ public XmpValue(double value)
 
 ## XmpValue(DateTime) {#constructor_3}
 
-مُنشئ لقيمة تاريخ ووقت.
+منشئ لقيمة التاريخ والوقت.
 
 ```csharp
 public XmpValue(DateTime value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | DateTime | قيمة تاريخ ووقت. |
+| القيمة | DateTime | قيمة تاريخ ووقت. |
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -88,18 +88,20 @@ public XmpValue(DateTime value)
 
 ## XmpValue(XmpValue[]) {#constructor}
 
-مُنشئ لقيمة مصفوفة.
+منشئ لقيمة مصفوفة.
 
 ```csharp
 public XmpValue(XmpValue[] array)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | XmpValue[] | قيمة مصفوفة. |
+| مصفوفة | XmpValue[] | قيمة المصفوفة. |
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

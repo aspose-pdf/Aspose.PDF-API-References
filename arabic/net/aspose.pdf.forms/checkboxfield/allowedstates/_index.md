@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.AllowedStates
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CheckboxField. تعيد قائمة بالحالات المسموح بها
+title: "CheckboxField.AllowedStates"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CheckboxField. تُرجع قائمة الحالات المسموح بها"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/checkboxfield/allowedstates/
 ---
-## خاصية CheckboxField.AllowedStates
+## CheckboxField.AllowedStates property
 
-تعيد قائمة بالحالات المسموح بها.
+يرجع قائمة الحالات المسموح بها.
 
 ```csharp
 public List<string> AllowedStates { get; }
@@ -19,3 +19,5 @@ public List<string> AllowedStates { get; }
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

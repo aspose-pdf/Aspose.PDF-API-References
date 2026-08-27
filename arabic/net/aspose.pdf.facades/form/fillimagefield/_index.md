@@ -1,23 +1,23 @@
 ---
-title: Form.FillImageField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. يلصق صورة على حقل الزر الموجود كمظهر له وفقًا لاسم الحقل المؤهل بالكامل
+title: "Form.FillImageField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تلصق صورة على حقل الزر الموجود كظهره وفقًا لاسم الحقل المؤهل بالكامل"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.facades/form/fillimagefield/
 ---
 ## FillImageField(string, string) {#fillimagefield_1}
 
-يلصق صورة على حقل الزر الموجود كمظهر له وفقًا لاسم الحقل المؤهل بالكامل.
+يلصق صورة على حقل الزر الموجود كظهوره وفقًا لاسمه الكامل المؤهل.
 
 ```csharp
 public void FillImageField(string fieldName, string imageFileName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | String | الاسم المؤهل بالكامل لحقل زر الصورة. |
-| imageFileName | String | مسار ملف الصورة، النسبي والمطلق كلاهما مقبول. |
+| fieldName | String | اسم الحقل المؤهل بالكامل لحقل زر الصورة. |
+| imageFileName | String | مسار ملف الصورة، سواءً النسبي أو المطلق مقبولان. |
 
 ## أمثلة
 
@@ -37,15 +37,15 @@ form.Save();
 
 ## FillImageField(string, Stream) {#fillimagefield}
 
-تقوم بتحميل وظيفة FillImageField. الإدخال هو دفق صورة.
+يحمّل نسخة مفرطة من دالة FillImageField. الإدخال هو تدفق صورة.
 
 ```csharp
 public void FillImageField(string fieldName, Stream imageStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | String | الاسم المؤهل بالكامل. |
+| fieldName | String | اسم الحقل المؤهل بالكامل. |
 | imageStream | Stream | دفق الصورة. |
 
 ## أمثلة
@@ -60,3 +60,5 @@ form.FillImageField("fieldName", new FileStream("file.jpg", FileMode.Open, FileA
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

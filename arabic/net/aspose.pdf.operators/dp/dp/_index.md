@@ -1,25 +1,27 @@
 ---
-title: DP.DP
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DP. يقوم بتهيئة العامل
+title: "DP.DP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DP. يهيئ المشغّل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/dp/dp/
 ---
-## مُنشئ DP
+## DP constructor
 
-يقوم بتهيئة العامل.
+يُهيئ العامل.
 
 ```csharp
 public DP(string tag)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| tag | سلسلة | قيمة العلامة. |
+| علامة | String | قيمة العلامة. |
 
 ### انظر أيضًا
 
-* الفئة [DP](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* class [DP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

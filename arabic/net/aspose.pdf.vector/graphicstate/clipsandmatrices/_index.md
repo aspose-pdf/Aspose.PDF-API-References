@@ -1,14 +1,14 @@
 ---
-title: GraphicState.ClipsAndMatrices
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicState. تحصل على العوامل التي تمثل القصات ومصفوفات الدمج
+title: "GraphicState.ClipsAndMatrices"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicState. يحصل على المشغلات التي تمثل القصات ومصفوفات الجمع"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.vector/graphicstate/clipsandmatrices/
 ---
-## خاصية GraphicState.ClipsAndMatrices
+## GraphicState.ClipsAndMatrices property
 
-تحصل على العوامل التي تمثل القصات ومصفوفات الدمج.
+يحصل على المشغّلات التي تمثّل القصّات ومصفوفات الجمع.
 
 ```csharp
 public List<Operator> ClipsAndMatrices { get; }
@@ -20,3 +20,5 @@ public List<Operator> ClipsAndMatrices { get; }
 * class [GraphicState](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

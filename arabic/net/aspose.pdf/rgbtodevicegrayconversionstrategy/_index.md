@@ -1,33 +1,35 @@
 ---
-title: Class RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.RgbToDeviceGrayConversionStrategy. تمثل استراتيجية تحويل مساحات الألوان من rgb إلى الرمادي الخاص بالجهاز
+title: "الفئة RgbToDeviceGrayConversionStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.RgbToDeviceGrayConversionStrategy. تمثل استراتيجية تحويل مساحات ألوان rgb إلى device gray."
 type: docs
-weight: 9800
+weight: 9950
 url: /ar/net/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
 ## RgbToDeviceGrayConversionStrategy class
 
-تمثل استراتيجية تحويل مساحات الألوان من rgb إلى الرمادي الخاص بالجهاز.
+يمثل استراتيجية تحويل مساحة ألوان rgb إلى رمادي للجهاز.
 
 ```csharp
 public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | المُنشئ الافتراضي. |
+| [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | يحول صفحة الوثيقة. |
+| [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | يقوم بتحويل page من document. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: GoToURIAction.GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ GoToURIAction. ينشئ مثيلًا من فئة GoToURIAction
+title: "GoToURIAction.GoToURIAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ GoToURIAction. ينشئ مثيلاً لفئة GoToURIAction"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/gotouriaction/gotouriaction/
 ---
-## مُنشئ GoToURIAction
+## GoToURIAction constructor
 
-ينشئ مثيلًا من فئة [`GoToURIAction`](../).
+ينشئ مثيلاً لفئة [`GoToURIAction`](../).
 
 ```csharp
 public GoToURIAction(string uri)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| uri | سلسلة | معرف المورد الموحد الذي سيتم حله. |
+| uri | String | معرف الموارد الموحد الذي يجب حله. |
 
 ### انظر أيضًا
 
-* الفئة [GoToURIAction](../)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* class [GoToURIAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

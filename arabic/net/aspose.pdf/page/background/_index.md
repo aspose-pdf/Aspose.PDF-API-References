@@ -1,14 +1,14 @@
 ---
-title: Page.Background
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين لون خلفية الصفحة
+title: "Page.Background"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تعيين لون الخلفية للصفحة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/page/background/
 ---
-## خاصية Page.Background
+## Page.Background property
 
-تحصل أو تعين لون خلفية الصفحة.
+يحصل أو يضبط لون الخلفية للصفحة.
 
 ```csharp
 public Color Background { get; set; }
@@ -20,3 +20,5 @@ public Color Background { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

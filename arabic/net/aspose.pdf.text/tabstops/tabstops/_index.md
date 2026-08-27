@@ -1,14 +1,14 @@
 ---
-title: TabStops.TabStops
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TabStops. المُنشئ الافتراضي
+title: "TabStops.TabStops"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TabStops. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/tabstops/tabstops/
 ---
-## مُنشئ TabStops
+## TabStops constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TabStops()
@@ -19,3 +19,5 @@ public TabStops()
 * class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: CharInfoCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CharInfoCollection. المجموعة للقراءة فقط ترمي NotImplementedException
+title: "CharInfoCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CharInfoCollection. المجموعة للقراءة فقط تُثير NotImplementedException"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/charinfocollection/add/
 ---
-## طريقة CharInfoCollection.Add
+## CharInfoCollection.Add method
 
-المجموعة للقراءة فقط، ترمي NotImplementedException.
+المجموعة للقراءة فقط، تُطلق استثناء NotImplementedException.
 
 ```csharp
 public void Add(CharInfo item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | CharInfo | العنصر للإضافة. |
+| item | CharInfo | عنصر للإضافة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(CharInfo item)
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,33 +1,35 @@
 ---
-title: Class XmpPdfAExtensionObject
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.XmpPdfAExtensionObject. تمثل الفئة الأساسية لحقول نوع قيمة خاصية المثيلات
+title: "الفئة XmpPdfAExtensionObject"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.XmpPdfAExtensionObject. تمثّل الفئة الأساسية لحالات نوع قيمة خاصية الحقل"
 type: docs
-weight: 11450
+weight: 11640
 url: /ar/net/aspose.pdf/xmppdfaextensionobject/
 ---
 ## XmpPdfAExtensionObject class
 
-تمثل الفئة الأساسية للحقول، وخصائص، ومثيلات نوع القيمة.
+يمثل الفئة الأساسية لعينات الحقل، الخاصية، ونوع القيمة.
 
 ```csharp
 public abstract class XmpPdfAExtensionObject
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | يحصل على الوصف. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | يحصل على القيمة أو يحددها. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | يحصل أو يعيّن القيمة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | يعيد قائمة بعناصر xml التي تمثل الكائن في شجرة xml. |
+| abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | يعيد قائمة عناصر XML التي تمثّل الكائن في شجرة XML. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

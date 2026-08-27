@@ -1,25 +1,27 @@
 ---
-title: StructureElement.ExpansionText
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureElement. تحصل أو تعين نص التوسع لعنصر الهيكل
+title: "StructureElement.ExpansionText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureElement. الحصول على أو تعيين نص التوسيع لعنصر البنية"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/expansiontext/
 ---
-## خاصية StructureElement.ExpansionText
+## StructureElement.ExpansionText property
 
-تحصل أو تعين نص التوسع لعنصر الهيكل.
+يحصل أو يعيّن نص التوسيع لعنصر البنية.
 
 ```csharp
 public string ExpansionText { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-نص التوسع لعنصر الهيكل.
+نص التوسيع لعنصر البنية.
 
 ### انظر أيضًا
 
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

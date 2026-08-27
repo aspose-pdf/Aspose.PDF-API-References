@@ -1,14 +1,14 @@
 ---
-title: VectorStoreListResponse.VectorStoreListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ VectorStoreListResponse. المُنشئ الافتراضي
+title: "VectorStoreListResponse.VectorStoreListResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ VectorStoreListResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/vectorstorelistresponse/vectorstorelistresponse/
 ---
-## مُنشئ VectorStoreListResponse
+## VectorStoreListResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public VectorStoreListResponse()
@@ -19,3 +19,5 @@ public VectorStoreListResponse()
 * class [VectorStoreListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

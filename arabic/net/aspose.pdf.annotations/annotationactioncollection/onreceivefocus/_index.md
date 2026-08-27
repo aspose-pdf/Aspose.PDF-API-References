@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnReceiveFocus
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يجب تنفيذه عندما تتلقى التعليق تركيز الإدخال
+title: "AnnotationActionCollection.OnReceiveFocus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء الذي يتم تنفيذه عندما تتلقى التعليقة تركيز الإدخال"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onreceivefocus/
 ---
-## خاصية AnnotationActionCollection.OnReceiveFocus
+## AnnotationActionCollection.OnReceiveFocus property
 
-تحصل أو تعين إجراءً يجب تنفيذه عندما تتلقى التعليق تركيز الإدخال.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما يتلقى التعليق تركيز الإدخال.
 
 ```csharp
 public PdfAction OnReceiveFocus { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnReceiveFocus { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

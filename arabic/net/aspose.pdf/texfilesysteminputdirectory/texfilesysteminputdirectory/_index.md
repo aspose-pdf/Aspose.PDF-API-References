@@ -1,20 +1,20 @@
 ---
-title: TeXFileSystemInputDirectory.TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TeXFileSystemInputDirectory. ينشئ مثيلًا جديدًا
+title: "TeXFileSystemInputDirectory.TeXFileSystemInputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TeXFileSystemInputDirectory. ينشئ مثلاً جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/texfilesysteminputdirectory/texfilesysteminputdirectory/
 ---
-## مُنشئ TeXFileSystemInputDirectory
+## TeXFileSystemInputDirectory constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ مثيلاً جديداً.
 
 ```csharp
 public TeXFileSystemInputDirectory(string basePath)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | basePath | String | المسار الأساسي للدليل. |
 
@@ -23,3 +23,5 @@ public TeXFileSystemInputDirectory(string basePath)
 * class [TeXFileSystemInputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextStamp.NoCharacterBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تحصل أو تعين الوضع الذي يحدد السلوك في حالة عدم احتواء الخطوط على الأحرف المطلوبة
+title: "TextStamp.NoCharacterBehavior"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. تحصّل أو تعيين الوضع الذي يحدد السلوك في حالة عدم احتواء الخطوط على الأحرف المطلوبة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/textstamp/nocharacterbehavior/
 ---
-## خاصية TextStamp.NoCharacterBehavior
+## TextStamp.NoCharacterBehavior property
 
-تحصل أو تعين الوضع الذي يحدد السلوك في حالة عدم احتواء الخطوط على الأحرف المطلوبة.
+يحصل أو يعيّن الوضع الذي يحدد السلوك في حال عدم احتواء الخطوط على الأحرف المطلوبة.
 
 ```csharp
 public NoCharacterAction NoCharacterBehavior { get; set; }
@@ -20,3 +20,5 @@ public NoCharacterAction NoCharacterBehavior { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

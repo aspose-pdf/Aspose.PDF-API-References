@@ -1,14 +1,14 @@
 ---
-title: Field.PartialName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. تحصل أو تعين الاسم الجزئي للحقل
+title: "Field.PartialName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. تحصل أو تعيّن الاسم الجزئي للحقل"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.forms/field/partialname/
 ---
-## خاصية Field.PartialName
+## Field.PartialName property
 
-تحصل أو تعين الاسم الجزئي للحقل.
+يحصل أو يعيّن الاسم الجزئي للحقل.
 
 ```csharp
 public string PartialName { get; set; }
@@ -19,3 +19,5 @@ public string PartialName { get; set; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

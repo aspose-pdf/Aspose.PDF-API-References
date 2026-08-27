@@ -1,14 +1,14 @@
 ---
-title: Enum AnnotationStateModel
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationStateModel enum. نموذج الحالة المقابل لحالة التعليق
+title: "التعداد AnnotationStateModel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Annotations.AnnotationStateModel. نموذج الحالة المقابل لحالة التوضيح"
 type: docs
-weight: 1470
+weight: 1560
 url: /ar/net/aspose.pdf.annotations/annotationstatemodel/
 ---
-## Enumeration AnnotationStateModel
+## AnnotationStateModel enumeration
 
-نموذج الحالة المقابل لحالة التعليق.
+نموذج الحالة المقابل لحالة التوضيح.
 
 ```csharp
 public enum AnnotationStateModel
@@ -18,11 +18,13 @@ public enum AnnotationStateModel
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| غير محدد | `0` | نموذج حالة غير محدد. |
-| محدد | `1` | تم تحديد التعليق (أو إلغاء تحديده) بواسطة المستخدم. |
-| مراجعة | `2` | تم مراجعة التعليق (مقبول، مرفوض، ملغى، مكتمل، لا شيء) بواسطة المستخدم. |
+| Undefined | `0` | نموذج حالة غير معرف. |
+| Marked | `1` | تم وضع علامة على التوضيح (أو إزالتها) بواسطة المستخدم. |
+| Review | `2` | تم مراجعة التوضيح (مقبول، مرفوض، ملغى، مكتمل، لا شيء) بواسطة المستخدم. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

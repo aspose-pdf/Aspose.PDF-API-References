@@ -1,26 +1,28 @@
 ---
-title: TableElement.CreateTFoot
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableElement. تنشئ TableTFootElement وتضيفها إلى الجدول الحالي
+title: "TableElement.CreateTFoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableElement. تنشئ TableTFootElement وتضيفها إلى الجدول الحالي"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/createtfoot/
 ---
 ## TableElement.CreateTFoot method
 
-تنشئ [`TableTFootElement`](../../tabletfootelement/) وتضيفها إلى الجدول الحالي.
+ينشئ [`TableTFootElement`](../../tabletfootelement/) ويضيفه إلى الجدول الحالي.
 
 ```csharp
 public TableTFootElement CreateTFoot()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [TableTFootElement](../../tabletfootelement/)
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

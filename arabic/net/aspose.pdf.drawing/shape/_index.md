@@ -1,14 +1,14 @@
 ---
-title: Class Shape
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Drawing.Shape. تمثل الشكل ككائن رسومي أساسي
+title: "فئة Shape"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Drawing.Shape. تمثل الشكل ككائن الرسومات الأساسي"
 type: docs
-weight: 4000
+weight: 4120
 url: /ar/net/aspose.pdf.drawing/shape/
 ---
-## فئة الشكل
+## Shape class
 
-تمثل الشكل - كائن الرسوميات الأساسي.
+يمثل الشكل - كائن الرسومات الأساسي.
 
 ```csharp
 public abstract class Shape : IBoundsCheckableItem
@@ -18,8 +18,8 @@ public abstract class Shape : IBoundsCheckableItem
 
 | الاسم | الوصف |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | يحصل أو يحدد كائن [`GraphInfo`](./graphinfo/) الذي يشير إلى معلومات الرسم، مثل اللون، عرض الخط، إلخ. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | يحصل أو يحدد نصًا للشكل |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | يحصل أو يعيّن كائنًا [`GraphInfo`](./graphinfo/) يشير إلى معلومات الرسم البياني، مثل اللون، عرض الخط، إلخ. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | يحصل أو يعيّن نصًا للشكل |
 
 ## الطرق
 
@@ -29,6 +29,8 @@ public abstract class Shape : IBoundsCheckableItem
 
 ### انظر أيضًا
 
-* واجهة [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
-* مساحة الأسماء [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../)
+* interface [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Subject
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. تحصل أو تعين موضوع الوثيقة
+title: "DocumentInfo.Subject"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentInfo. يحصل أو يضبط موضوع المستند"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/documentinfo/subject/
 ---
-## خاصية DocumentInfo.Subject
+## DocumentInfo.Subject property
 
-تحصل أو تعين موضوع الوثيقة.
+يحصل أو يعيّن موضوع المستند.
 
 ```csharp
 public string Subject { get; set; }
@@ -19,3 +19,5 @@ public string Subject { get; set; }
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

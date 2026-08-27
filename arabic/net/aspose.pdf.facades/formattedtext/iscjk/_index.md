@@ -1,14 +1,14 @@
 ---
-title: FormattedText.IsCjk
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormattedText. تتحقق مما إذا كان النص هو CJK الصينية أو اليابانية أو الكورية
+title: "FormattedText.IsCjk"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormattedText. تتحقق مما إذا كان النص CJK (صيني أو ياباني أو كوري)."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/formattedtext/iscjk/
 ---
-## طريقة FormattedText.IsCjk
+## FormattedText.IsCjk method
 
-تتحقق مما إذا كان النص هو CJK (الصينية أو اليابانية أو الكورية).
+يتحقق مما إذا كان النص CJK (صينيًا أو يابانيًا أو كوريًا).
 
 ```csharp
 public bool IsCjk()
@@ -16,10 +16,12 @@ public bool IsCjk()
 
 ### قيمة الإرجاع
 
-صحيح إذا كان النص CJK. خلاف ذلك، خطأ.
+صحيح إذا كان النص CJK. وإلا خاطئ.
 
 ### انظر أيضًا
 
 * class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

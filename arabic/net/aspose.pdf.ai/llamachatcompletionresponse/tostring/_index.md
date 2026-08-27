@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaChatCompletionResponse. تعيد تمثيل سلسلة للاختيار الأول
+title: "LlamaChatCompletionResponse.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaChatCompletionResponse. تُعيد تمثيلًا نصيًا للاختيار الأول"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/llamachatcompletionresponse/tostring/
 ---
-## طريقة LlamaChatCompletionResponse.ToString
+## LlamaChatCompletionResponse.ToString method
 
-تعيد تمثيل سلسلة للاختيار الأول.
+يرجع تمثيلًا نصيًا للاختيار الأول.
 
 ```csharp
 public override string ToString()
@@ -19,3 +19,5 @@ public override string ToString()
 * class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

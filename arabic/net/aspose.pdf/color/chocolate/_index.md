@@ -1,14 +1,14 @@
 ---
-title: Color.Chocolate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFD2691E
+title: "Color.Chocolate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف من النظام له قيمة ARGB من c FFD2691E"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/color/chocolate/
 ---
-## خاصية Color.Chocolate
+## Color.Chocolate property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFD2691E.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFD2691E.
 
 ```csharp
 public static Color Chocolate { get; }
@@ -16,10 +16,12 @@ public static Color Chocolate { get; }
 
 ### قيمة الإرجاع
 
-تمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

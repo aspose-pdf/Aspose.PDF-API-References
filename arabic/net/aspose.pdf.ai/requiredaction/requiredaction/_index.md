@@ -1,14 +1,14 @@
 ---
-title: RequiredAction.RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RequiredAction. المُنشئ الافتراضي
+title: "RequiredAction.RequiredAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RequiredAction. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/requiredaction/requiredaction/
 ---
-## مُنشئ RequiredAction
+## RequiredAction constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public RequiredAction()
@@ -19,3 +19,5 @@ public RequiredAction()
 * class [RequiredAction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

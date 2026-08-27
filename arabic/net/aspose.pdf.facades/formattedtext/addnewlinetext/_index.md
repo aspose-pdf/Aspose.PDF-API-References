@@ -1,24 +1,24 @@
 ---
-title: FormattedText.AddNewLineText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormattedText. تضيف سطرًا جديدًا إلى كائن FormattedText وتحدد newLineText لنص السطر التالي
+title: "FormattedText.AddNewLineText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormattedText. تضيف سطرًا جديدًا إلى كائن FormattedText وتعيّن newLineText إلى نص السطر التالي."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/formattedtext/addnewlinetext/
 ---
 ## AddNewLineText(string) {#addnewlinetext}
 
-تضيف سطرًا جديدًا إلى كائن FormattedText وتحدد newLineText لنص السطر التالي.
+يضيف سطرًا جديدًا إلى كائن FormattedText ويضبط newLineText على نص السطر التالي.
 
 ```csharp
 public void AddNewLineText(string newLineText)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | newLineText | String | نص السطر الجديد المضاف. |
 
-### See Also
+### انظر أيضًا
 
 * class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,19 +28,21 @@ public void AddNewLineText(string newLineText)
 
 ## AddNewLineText(string, float) {#addnewlinetext_1}
 
-تضيف سطرًا جديدًا إلى كائن FormattedText وتحدد newLineText لنص السطر التالي.
+يضيف سطرًا جديدًا إلى كائن FormattedText ويضبط newLineText على نص السطر التالي.
 
 ```csharp
 public void AddNewLineText(string newLineText, float lineSpacing)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | newLineText | String | نص السطر الجديد المضاف. |
 | lineSpacing | Single | تباعد السطر. |
 
-### See Also
+### انظر أيضًا
 
 * class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

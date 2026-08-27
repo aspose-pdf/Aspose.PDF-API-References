@@ -1,14 +1,14 @@
 ---
-title: StructureTypeCategory.IllustrationElements
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeCategory. عناصر التوضيح هي تسلسلات مضغوطة من المحتوى بترتيب محتوى الصفحة تُعتبر كأشياء وحدوية بالنسبة لتخطيط الصفحة. يمكن اعتبار التوضيح إما كـ BLSE أو ILSE
+title: "StructureTypeCategory.IllustrationElements"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeCategory. عناصر التوضيح هي تسلسلات مدمجة من المحتوى بترتيب محتوى الصفحة وتُعتبر ككائنات موحدة بالنسبة لتخطيط الصفحة. يمكن اعتبار التوضيح إما BLSE أو ILSE."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/
 ---
-## حقل StructureTypeCategory.IllustrationElements
+## StructureTypeCategory.IllustrationElements field
 
-عناصر التوضيح هي تسلسلات مضغوطة من المحتوى، بترتيب محتوى الصفحة، تُعتبر كأشياء وحدوية بالنسبة لتخطيط الصفحة. يمكن اعتبار التوضيح إما كـ BLSE أو ILSE.
+عناصر التوضيح هي تسلسلات مدمجة من المحتوى، بترتيب محتوى الصفحة، وتُعتبر ككائنات موحدة بالنسبة لتخطيط الصفحة. يمكن التعامل مع توضيح كـ BLSE أو ILSE.
 
 ```csharp
 public static readonly StructureTypeCategory IllustrationElements;
@@ -19,3 +19,5 @@ public static readonly StructureTypeCategory IllustrationElements;
 * class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

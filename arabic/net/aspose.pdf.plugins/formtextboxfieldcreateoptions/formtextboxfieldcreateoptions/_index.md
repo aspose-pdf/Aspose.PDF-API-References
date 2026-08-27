@@ -1,23 +1,23 @@
 ---
-title: FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormTextBoxFieldCreateOptions. يقوم بتهيئة مثيل جديد من كائن FormTextBoxFieldCreateOptions الذي يحتوي على معلمات لإنشاء وإضافة TextBoxField
+title: "FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormTextBoxFieldCreateOptions. يهيئ نسخة جديدة من كائن FormTextBoxFieldCreateOptions الذي يحتوي على معلمات لإنشاء وإضافة TextBoxField"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/formtextboxfieldcreateoptions/
 ---
-## مُنشئ FormTextBoxFieldCreateOptions
+## FormTextBoxFieldCreateOptions constructor
 
-يقوم بتهيئة مثيل جديد من كائن [`FormTextBoxFieldCreateOptions`](../) الذي يحتوي على معلمات لإنشاء وإضافة TextBoxField.
+يهيئ نسخة جديدة من الكائن [`FormTextBoxFieldCreateOptions`](../) الذي يحتوي على معلمات لإنشاء وإضافة TextBoxField.
 
 ```csharp
 public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNum | Int32 | رقم الصفحة التي سيتم وضع TextBoxField المضاف عليها. |
-| rect | Rectangle | يحدد مستطيل TextBoxField. |
+| pageNum | Int32 | رقم الصفحة التي سيقع فيها TextBoxField المضاف. |
+| rect | Rectangle | يضبط مستطيل TextBoxField. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
 * class [FormTextBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,27 @@
 ---
-title: ArtifactCollection.FindByValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ArtifactCollection. تجد القطع الأثرية حسب القيمة المخصصة
+title: "ArtifactCollection.FindByValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ArtifactCollection. يجد العناصر حسب قيمة مخصصة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/artifactcollection/findbyvalue/
 ---
-## طريقة ArtifactCollection.FindByValue
+## ArtifactCollection.FindByValue method
 
-تجد القطع الأثرية حسب القيمة المخصصة.
+يبحث عن الأدوات بقيمة مخصصة.
 
 ```csharp
 public List<Artifact> FindByValue(string name, string expectedValue)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم القيمة المخصصة. |
-| expectedValue | String | القيمة المراد العثور عليها. |
+| الاسم | String | اسم القيمة المخصصة. |
+| expectedValue | String | القيمة للبحث عنها. |
 
 ### قيمة الإرجاع
 
-قائمة بالقطع الأثرية التي تم العثور عليها.
+قائمة العناصر المكتشفة.
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ public List<Artifact> FindByValue(string name, string expectedValue)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

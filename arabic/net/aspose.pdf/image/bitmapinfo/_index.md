@@ -1,14 +1,14 @@
 ---
-title: Image.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين بايت الصورة غير المضغوطة
+title: "Image.BitmapInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع أو يعيّن بايتات الصورة غير المضغوطة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/image/bitmapinfo/
 ---
-## خاصية Image.BitmapInfo
+## Image.BitmapInfo property
 
-تحصل أو تعين بايت الصورة غير المضغوطة.
+يحصل أو يعيّن بايتات الصورة غير المضغوطة.
 
 ```csharp
 public BitmapInfo BitmapInfo { get; set; }
@@ -20,3 +20,5 @@ public BitmapInfo BitmapInfo { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

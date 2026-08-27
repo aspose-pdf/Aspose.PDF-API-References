@@ -1,14 +1,14 @@
 ---
-title: TextStamp.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تحصل أو تعين وضع لف الكلمات لعرض النص
+title: "TextStamp.WordWrapMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. تحصّل أو تعيين وضع التفاف الكلمات لتصيير النص"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/textstamp/wordwrapmode/
 ---
-## خاصية TextStamp.WordWrapMode
+## TextStamp.WordWrapMode property
 
-تحصل أو تعين وضع لف الكلمات لعرض النص.
+يحصل أو يضبط وضع التفاف الكلمات لعرض النص.
 
 ```csharp
 public WordWrapMode WordWrapMode { get; set; }
@@ -20,3 +20,5 @@ public WordWrapMode WordWrapMode { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: CaretAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CaretAnnotation. تقبل كائن الزائر لمعالجة التعليق
+title: "CaretAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CaretAnnotation. تقبل كائن الزائر لمعالجة التعليق"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/caretannotation/accept/
 ---
-## طريقة CaretAnnotation.Accept
+## CaretAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليق.
+يقبل كائن الزائر لمعالجة التعليق.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

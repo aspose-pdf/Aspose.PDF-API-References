@@ -1,14 +1,14 @@
 ---
-title: ExcelSaveOptions.ExcelSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ExcelSaveOptions. المُنشئ الافتراضي
+title: "ExcelSaveOptions.ExcelSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ExcelSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/excelsaveoptions/excelsaveoptions/
 ---
-## مُنشئ ExcelSaveOptions
+## ExcelSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ExcelSaveOptions()
@@ -19,3 +19,5 @@ public ExcelSaveOptions()
 * class [ExcelSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

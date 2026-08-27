@@ -1,14 +1,14 @@
 ---
-title: FileCounts.Completed
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileCounts. تحصل أو تعين عدد الملفات التي تم معالجتها بنجاح
+title: "FileCounts.Completed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FileCounts property. يحصل أو يعيّن عدد الملفات التي تم معالجتها بنجاح"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/filecounts/completed/
 ---
-## خاصية FileCounts.Completed
+## FileCounts.Completed property
 
-تحصل أو تعين عدد الملفات التي تم معالجتها بنجاح.
+يحصل أو يعيّن عدد الملفات التي تم معالجتها بنجاح.
 
 ```csharp
 public int Completed { get; set; }
@@ -19,3 +19,5 @@ public int Completed { get; set; }
 * class [FileCounts](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

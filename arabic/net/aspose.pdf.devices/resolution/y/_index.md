@@ -1,14 +1,14 @@
 ---
-title: Resolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الدقة. تحصل أو تعين دقة الصورة الرأسية
+title: "Resolution.Y"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Resolution. تحصل أو تعيين دقة الصورة العمودية."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.devices/resolution/y/
 ---
-## خاصية Resolution.Y
+## Resolution.Y property
 
-تحصل أو تعين دقة الصورة الرأسية.
+يحصل أو يضبط دقة الصورة العمودية.
 
 ```csharp
 public int Y { get; set; }
@@ -19,3 +19,5 @@ public int Y { get; set; }
 * class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

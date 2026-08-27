@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BasicSetColorOperator. تحصل على المكون الأسود من اللون الرمادي
+title: "BasicSetColorOperator.Gray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BasicSetColorOperator. تحصل على المكوّن الأسود من لون الرمادي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.operators/basicsetcoloroperator/gray/
 ---
-## خاصية BasicSetColorOperator.Gray
+## BasicSetColorOperator.Gray property
 
-تحصل على المكون الأسود من اللون الرمادي.
+يحصل على المكوّن الأسود للون الرمادي.
 
 ```csharp
 public double Gray { get; }
@@ -19,3 +19,5 @@ public double Gray { get; }
 * class [BasicSetColorOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

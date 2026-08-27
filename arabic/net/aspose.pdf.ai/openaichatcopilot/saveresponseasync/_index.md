@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilot.
+title: "OpenAIChatCopilot.SaveResponseAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilot."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/openaichatcopilot/saveresponseasync/
@@ -65,3 +65,5 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum PrinterMarkSidePosition
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Annotations.PrinterMarkSidePosition. يمثل موضع علامة التسجيل على الصفحة
+title: "التعداد PrinterMarkSidePosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Annotations.PrinterMarkSidePosition. يمثل موضع علامة التسجيل على صفحة."
 type: docs
-weight: 2370
+weight: 2460
 url: /ar/net/aspose.pdf.annotations/printermarksideposition/
 ---
-## تعداد PrinterMarkSidePosition
+## PrinterMarkSidePosition enumeration
 
-يمثل موضع علامة التسجيل على الصفحة.
+يمثل موضع علامة تسجيل على الصفحة.
 
 ```csharp
 public enum PrinterMarkSidePosition
@@ -18,12 +18,14 @@ public enum PrinterMarkSidePosition
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| أعلى | `0` | وضع العلامة في الهامش العلوي للصفحة. |
-| أسفل | `1` | وضع العلامة في الهامش السفلي للصفحة. |
-| يسار | `2` | وضع العلامة في الهامش الأيسر للصفحة. |
-| يمين | `3` | وضع العلامة في الهامش الأيمن للصفحة. |
+| Top | `0` | ضع العلامة في الهامش العلوي للصفحة. |
+| Bottom | `1` | ضع العلامة في الهامش السفلي للصفحة. |
+| Left | `2` | ضع العلامة في الهامش الأيسر للصفحة. |
+| Right | `3` | ضع العلامة في الهامش الأيمن للصفحة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

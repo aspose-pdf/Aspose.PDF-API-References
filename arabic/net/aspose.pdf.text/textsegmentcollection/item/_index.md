@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية مجموعة نصوص العناصر. يحصل على عنصر مقطع النص في الفهرس المحدد
+title: "TextSegmentCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegmentCollection. يحصل على عنصر مقطع النص في الفهرس المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textsegmentcollection/item/
 ---
-## فهرس مجموعة نصوص العناصر
+## TextSegmentCollection indexer
 
 يحصل على عنصر مقطع النص في الفهرس المحدد.
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf.text/textsegmentcollection/item/
 public TextSegment this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس داخل المجموعة. |
+| index | Index within the collection. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public TextSegment this[int index] { get; }
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

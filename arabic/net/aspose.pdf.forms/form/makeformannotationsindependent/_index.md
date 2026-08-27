@@ -1,22 +1,22 @@
 ---
-title: Form.MakeFormAnnotationsIndependent
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تجعل تعليقات حقول النموذج مستقلة
+title: "Form.MakeFormAnnotationsIndependent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تجعل تعليقات حقول النموذج مستقلة"
 type: docs
-weight: 300
+weight: 320
 url: /ar/net/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
-## طريقة Form.MakeFormAnnotationsIndependent
+## Form.MakeFormAnnotationsIndependent method
 
-تجعل تعليقات حقول النموذج مستقلة.
+يجعل تعليقات حقول النموذج مستقلة.
 
 ```csharp
 public void MakeFormAnnotationsIndependent(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الصفحة | Page | الصفحة المستهدفة. |
+| صفحة | صفحة | الصفحة المستهدفة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void MakeFormAnnotationsIndependent(Page page)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

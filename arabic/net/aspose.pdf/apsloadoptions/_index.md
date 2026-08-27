@@ -1,14 +1,14 @@
 ---
-title: Class ApsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.ApsLoadOptions. تصف الفئة خيارات تحميل aps
+title: "الفئة ApsLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.ApsLoadOptions. الفئة تصف خيارات تحميل aps"
 type: docs
-weight: 2750
+weight: 2850
 url: /ar/net/aspose.pdf/apsloadoptions/
 ---
-## فئة ApsLoadOptions
+## ApsLoadOptions class
 
-تصف الفئة خيارات تحميل aps.
+الفئة تصف خيارات تحميل aps.
 
 ```csharp
 public class ApsLoadOptions : LoadOptions
@@ -18,39 +18,39 @@ public class ApsLoadOptions : LoadOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [ApsLoadOptions](apsloadoptions/)() | المنشئ الافتراضي. |
+| [ApsLoadOptions](apsloadoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون القيمة `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
 
 ## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف APS إلى ملف PDF
+المثال التالي يوضح كيفية تحويل ملف APS إلى ملف PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your APS File.
+	// المسار إلى ملف APS الخاص بك.
 	string apsFile = Path.Combine(dataDir, "APS-to-PDF.aps");
 
-	// The path to output PDF File.
+	// المسار إلى ملف PDF الناتج.
 	string pdfFile = Path.Combine(dataDir, "APS-to-PDF.pdf");
 
-	// Initialize ApsLoadOptions  	
+	// تهيئة ApsLoadOptions 	
 	ApsLoadOptions apsLoadOptions = new ApsLoadOptions();
 
-	// Initialize Document wiht ApsLoadOptions     
+	// تهيئة المستند باستخدام ApsLoadOptions     
 	using (Document pdfDocument = new Document(apsFile, apsLoadOptions))
 	{
 	 
-		// Save PDF file
+		// حفظ ملف PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -80,6 +80,8 @@ public class ApsLoadOptions : LoadOptions
 
 ### انظر أيضًا
 
-* فئة [LoadOptions](../loadoptions/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

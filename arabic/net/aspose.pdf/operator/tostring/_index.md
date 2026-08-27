@@ -1,14 +1,14 @@
 ---
-title: Operator.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المشغل. تعيد نص المشغل ومعاييره
+title: "Operator.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Operator. تُرجع نص المشغل ومعامِلاته"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/operator/tostring/
 ---
-## طريقة Operator.ToString
+## Operator.ToString method
 
-تعيد نص المشغل ومعاييره.
+يرجع نص العامل ومعامِله.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-نص المشغل
+نص Operator
 
 ### انظر أيضًا
 
 * class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

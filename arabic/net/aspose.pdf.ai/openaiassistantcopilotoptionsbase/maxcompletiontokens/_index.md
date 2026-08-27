@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIAssistantCopilotOptionsBase. تحصل أو تعين الحد الأقصى لعدد رموز الإكمال التي يمكن استخدامها خلال فترة التشغيل
+title: "OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAIAssistantCopilotOptionsBase. يحصل أو يضبط الحد الأقصى لعدد رموز الإكمال التي قد تُستخدم خلال عملية التنفيذ"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/
 ---
-## خاصية OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens
+## OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens property
 
-تحصل أو تعين الحد الأقصى لعدد رموز الإكمال التي يمكن استخدامها خلال فترة التشغيل.
+يحصل أو يضبط الحد الأقصى لعدد رموز الإكمال التي قد تُستخدم خلال تشغيل العملية.
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxCompletionTokens { get; set; }
 * class [OpenAIAssistantCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

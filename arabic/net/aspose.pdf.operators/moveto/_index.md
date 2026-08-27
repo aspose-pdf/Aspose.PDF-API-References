@@ -1,43 +1,45 @@
 ---
-title: Class MoveTo
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.MoveTo. فئة تمثل مشغل m
+title: "فئة MoveTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.MoveTo فئة. فئة تمثل المشغل m للانتقال والبدء بمسار فرعي جديد"
 type: docs
-weight: 7500
+weight: 7640
 url: /ar/net/aspose.pdf.operators/moveto/
 ---
 ## MoveTo class
 
-فئة تمثل مشغل m (الانتقال إلى وبدء مسار فرعي جديد).
+الفئة التي تمثل المشغل m (الانتقال إلى وبدء مسار فرعي جديد).
 
 ```csharp
 public class MoveTo : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MoveTo](moveto/)(double, double) | يقوم بتهيئة مشغل جديد !:Operators.m (الانتقال إلى). |
+| [MoveTo](moveto/)(double, double) | يُهيئ المشغل الجديد !:Operators.m (move to). |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 | [X](../../aspose.pdf.operators/moveto/x/) { get; set; } | إحداثي X |
 | [Y](../../aspose.pdf.operators/moveto/y/) { get; set; } | إحداثي Y |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/moveto/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/moveto/tostring/)() | يعيد تمثيل نصي للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/moveto/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/moveto/tostring/)() | يعيد تمثيل النص للعامل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

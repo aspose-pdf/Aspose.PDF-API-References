@@ -1,26 +1,28 @@
 ---
-title: OperatorCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تقبل كائن الزائر IOperatorSelector لمعالجة المشغلين
+title: "OperatorCollection.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تقبل كائن الزائر IOperatorSelector لمعالجة العوامل."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/operatorcollection/accept/
 ---
-## طريقة OperatorCollection.Accept
+## OperatorCollection.Accept method
 
-تقبل كائن الزائر IOperatorSelector لمعالجة المشغلين.
+يتقبل كائن الزائر IOperatorSelector لمعالجة المشغلات.
 
 ```csharp
 public void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | IOperatorSelector | كائن الزائر |
+| زائر | IOperatorSelector | كائن Visitor |
 
 ### انظر أيضًا
 
-* الواجهة [IOperatorSelector](../../ioperatorselector/)
-* الفئة [OperatorCollection](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../ioperatorselector/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Image.FixHeight
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين ارتفاع الصورة
+title: "Image.FixHeight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع أو يعيّن ارتفاع الصورة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/image/fixheight/
 ---
-## خاصية Image.FixHeight
+## Image.FixHeight property
 
-تحصل أو تعين ارتفاع الصورة.
+يحصل أو يعيّن ارتفاع الصورة.
 
 ```csharp
 public double FixHeight { get; set; }
@@ -19,3 +19,5 @@ public double FixHeight { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

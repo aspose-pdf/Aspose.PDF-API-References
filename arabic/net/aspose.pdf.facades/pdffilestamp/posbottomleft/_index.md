@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosBottomLeft
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfFileStamp. الموضع السفلي الأيسر
+title: "PdfFileStamp.PosBottomLeft"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfFileStamp. الموضع السفلي الأيسر"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdffilestamp/posbottomleft/
 ---
-## حقل PdfFileStamp.PosBottomLeft
+## PdfFileStamp.PosBottomLeft field
 
 الموضع السفلي الأيسر.
 
@@ -19,3 +19,5 @@ public const int PosBottomLeft;
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

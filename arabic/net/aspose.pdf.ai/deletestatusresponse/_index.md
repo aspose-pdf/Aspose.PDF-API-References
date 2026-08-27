@@ -1,43 +1,45 @@
 ---
-title: Class DeleteStatusResponse
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.DeleteStatusResponse. تمثل حالة حذف كائن
+title: "الفئة DeleteStatusResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.DeleteStatusResponse. تمثل حالة حذف كائن."
 type: docs
-weight: 310
+weight: 320
 url: /ar/net/aspose.pdf.ai/deletestatusresponse/
 ---
 ## DeleteStatusResponse class
 
-تمثل حالة حذف كائن.
+يمثل حالة حذف كائن.
 
 ```csharp
 public class DeleteStatusResponse : BaseResponse, IEntityId
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DeleteStatusResponse](deletestatusresponse/)() | المُنشئ الافتراضي. |
+| [DeleteStatusResponse](deletestatusresponse/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Deleted](../../aspose.pdf.ai/deletestatusresponse/deleted/) { get; set; } | يحصل أو يحدد القيمة التي تشير إلى ما إذا كان قد تم حذف الخيط بنجاح. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يحصل أو يحدد تفاصيل الاستجابة. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يحصل أو يحدد خطأ استجابة HTTP. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يحصل أو يحدد معلومات الخطأ. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يحصل أو يحدد رؤوس استجابة HTTP. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يحصل أو يحدد رمز حالة HTTP. |
-| [Id](../../aspose.pdf.ai/deletestatusresponse/id/) { get; set; } | يحصل أو يحدد معرف الكائن المحذوف. |
+| [Deleted](../../aspose.pdf.ai/deletestatusresponse/deleted/) { get; set; } | يحصل أو يضبط القيمة التي تشير إلى ما إذا تم حذف السلسلة بنجاح. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يتم الحصول على أو تعيين تفاصيل الاستجابة. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يتم الحصول على أو تعيين خطأ استجابة HTTP. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يتم الحصول على أو تعيين معلومات الخطأ. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يتم الحصول على أو تعيين رؤوس استجابة HTTP. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يتم الحصول على أو تعيين رمز حالة HTTP. |
+| [Id](../../aspose.pdf.ai/deletestatusresponse/id/) { get; set; } | يحصل أو يضبط معرف الكائن المحذوف. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | يشير إلى ما إذا كانت الاستجابة ناجحة. |
-| [Object](../../aspose.pdf.ai/deletestatusresponse/object/) { get; set; } | يحصل أو يحدد نوع الكائن، والذي يكون دائمًا "thread.deleted". |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يحصل على عبارة سبب الخطأ. |
+| [Object](../../aspose.pdf.ai/deletestatusresponse/object/) { get; set; } | يحصل أو يضبط نوع الكائن، والذي يكون دائمًا "thread.deleted". |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يتم الحصول على عبارة سبب الخطأ. |
 
-### See Also
+### انظر أيضًا
 
 * class [BaseResponse](../baseresponse/)
 * interface [IEntityId](../ientityid/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

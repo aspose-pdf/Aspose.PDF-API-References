@@ -1,14 +1,14 @@
 ---
-title: Document.FileSizeLimitToMemoryLoading
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. احصل على حد حجم الملف وقم بتعيينه لتحميل ملف كامل في الذاكرة. يتم تعيين القيمة بالميغابايت. القيمة الافتراضية هي 210 ميغابايت
+title: "Document.FileSizeLimitToMemoryLoading"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. الحصول على وتعيين حد حجم الملف لتحميل ملف كامل إلى الذاكرة. القيمة محددة بالميغابايت. القيمة الافتراضية هي 210 ميغابايت"
 type: docs
-weight: 900
+weight: 920
 url: /ar/net/aspose.pdf/document/filesizelimittomemoryloading/
 ---
-## خاصية Document.FileSizeLimitToMemoryLoading
+## Document.FileSizeLimitToMemoryLoading property
 
-احصل على حد حجم الملف وقم بتعيينه لتحميل ملف كامل في الذاكرة. يتم تعيين القيمة بالميغابايت. القيمة الافتراضية هي 210 ميغابايت.
+احصل واضبط الحد الأقصى لحجم الملف لتحميل الملف بالكامل في الذاكرة. تُحدد القيمة بالميغابايت. القيمة الافتراضية هي 210 ميغابايت.
 
 ```csharp
 public static int FileSizeLimitToMemoryLoading { get; set; }
@@ -19,3 +19,5 @@ public static int FileSizeLimitToMemoryLoading { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

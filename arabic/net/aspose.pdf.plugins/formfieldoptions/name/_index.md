@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. يحصل/يحدد القيمة لتحديد خاصية الاسم للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. يحصل/يضبط القيمة لتحديد خاصية Name للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينها"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/name/
 ---
-## خاصية FormFieldOptions.Name
+## FormFieldOptions.Name property
 
-يحصل/يحدد القيمة لتحديد خاصية الاسم للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية Name للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public string Name { get; set; }
@@ -19,3 +19,5 @@ public string Name { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

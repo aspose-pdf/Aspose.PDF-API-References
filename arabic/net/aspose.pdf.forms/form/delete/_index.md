@@ -1,24 +1,24 @@
 ---
-title: Form.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. حذف حقل من النموذج
+title: "Form.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. حذف الحقل من النموذج."
 type: docs
-weight: 230
+weight: 250
 url: /ar/net/aspose.pdf.forms/form/delete/
 ---
 ## Delete(Field) {#delete}
 
-حذف حقل من النموذج.
+احذف الحقل من النموذج.
 
 ```csharp
 public void Delete(Field field)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| field | Field | الحقل الذي يجب حذفه. |
+| حقل | حقل | الحقل الذي يجب حذفه. |
 
-### See Also
+### انظر أيضًا
 
 * class [Field](../../field/)
 * class [Form](../)
@@ -29,18 +29,20 @@ public void Delete(Field field)
 
 ## Delete(string) {#delete_1}
 
-يحذف الحقل من النموذج حسب اسمه.
+يحذف الحقل من النموذج بناءً على اسمه.
 
 ```csharp
 public void Delete(string fieldName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم الحقل الذي يجب حذفه. |
 
-### See Also
+### انظر أيضًا
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

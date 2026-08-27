@@ -1,14 +1,14 @@
 ---
-title: Row.Border
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصف. تحصل على أو تعين الحدود
+title: "Row.Border"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Row. تحصل أو تعين الحد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/row/border/
 ---
-## خاصية Row.Border
+## Row.Border property
 
-تحصل على أو تعين الحدود.
+يحصل أو يعيّن الحد.
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -20,3 +20,5 @@ public BorderInfo Border { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface ITextElement
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.LogicalStructure.ITextElement. واجهة لعرض عناصر هيكل النص
+title: "الواجهة ITextElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.LogicalStructure.ITextElement. واجهة لتقديم عناصر بنية النص"
 type: docs
-weight: 6410
+weight: 6550
 url: /ar/net/aspose.pdf.logicalstructure/itextelement/
 ---
-## واجهة ITextElement
+## ITextElement interface
 
-واجهة لعرض عناصر هيكل النص.
+واجهة لعرض عناصر بنية النص.
 
 ```csharp
 public interface ITextElement
@@ -18,7 +18,7 @@ public interface ITextElement
 
 | الاسم | الوصف |
 | --- | --- |
-| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate/) { get; } | يحصل على كائن StructureTextState لعنصر هيكل النص. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate/) { get; } | يحصل على كائن StructureTextState لعنصر بنية النص. |
 
 ## الطرق
 
@@ -28,5 +28,7 @@ public interface ITextElement
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

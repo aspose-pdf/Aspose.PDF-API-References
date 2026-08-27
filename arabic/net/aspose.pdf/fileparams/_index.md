@@ -1,35 +1,37 @@
 ---
-title: Class FileParams
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.FileParams. تعرف على قاموس معلمات الملف المضمن الذي يجب أن يحتوي على معلومات إضافية محددة للملف
+title: "الفئة FileParams"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.FileParams. تُعرّف قاموس معلمات الملف المضمن الذي يجب أن يحتوي على معلومات إضافية خاصة بالملف"
 type: docs
-weight: 4840
+weight: 4960
 url: /ar/net/aspose.pdf/fileparams/
 ---
 ## FileParams class
 
-تعرف على قاموس معلمات الملف المضمن الذي يجب أن يحتوي على معلومات إضافية محددة للملف.
+يحدد قاموس معلمات الملف المضمّن الذي يجب أن يحتوي على معلومات إضافية خاصة بالملف.
 
 ```csharp
 public sealed class FileParams
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileParams](fileparams/)(FileSpecification) | مُنشئ لفئة FileParams. |
+| [FileParams](fileparams/)(FileSpecification) | منشئ للفئة FileParams. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CheckSum](../../aspose.pdf/fileparams/checksum/) { get; } | سلسلة مكونة من 16 بايت تمثل مجموع التحقق من بايتات الملف المضمن غير المضغوط. يتم حساب مجموع التحقق عن طريق تطبيق خوارزمية MD5 القياسية على بايتات تدفق الملف المضمن. |
+| [CheckSum](../../aspose.pdf/fileparams/checksum/) { get; } | سلسلة بطول 16 بايت تمثل مجموع التحقق (checksum) لبايتات الملف المضمن غير المضغوط. يتم حساب مجموع التحقق بتطبيق خوارزمية MD5 القياسية على بايتات تدفق الملف المضمن. |
 | [CreationDate](../../aspose.pdf/fileparams/creationdate/) { get; set; } | التاريخ والوقت عندما تم إنشاء الملف المضمن. |
 | [ModDate](../../aspose.pdf/fileparams/moddate/) { get; set; } | التاريخ والوقت عندما تم تعديل الملف المضمن آخر مرة. |
 | [Size](../../aspose.pdf/fileparams/size/) { get; } | حجم الملف المضمن غير المضغوط، بالبايت. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

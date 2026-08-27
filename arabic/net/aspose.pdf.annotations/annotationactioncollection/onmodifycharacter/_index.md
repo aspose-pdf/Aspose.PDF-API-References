@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnModifyCharacter
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يتم تنفيذه عندما يقوم المستخدم بتعديل حرف من الحقل
+title: "AnnotationActionCollection.OnModifyCharacter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يضبط إجراءً يتم تنفيذه عندما يقوم المستخدم بتعديل حرف الحقل"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onmodifycharacter/
 ---
-## خاصية AnnotationActionCollection.OnModifyCharacter
+## AnnotationActionCollection.OnModifyCharacter property
 
-تحصل أو تعين إجراءً يتم تنفيذه عندما يقوم المستخدم بتعديل حرف من الحقل.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما يقوم المستخدم بتعديل حرف في الحقل.
 
 ```csharp
 public PdfAction OnModifyCharacter { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnModifyCharacter { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

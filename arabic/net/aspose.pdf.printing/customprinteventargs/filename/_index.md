@@ -1,12 +1,12 @@
 ---
-title: CustomPrintEventArgs.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: حقل CustomPrintEventArgs. يحصل على اسم الملف الذي يتم طباعته
+title: "CustomPrintEventArgs.FileName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل CustomPrintEventArgs. يحصل على اسم الملف الذي يتم طباعته"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.printing/customprinteventargs/filename/
 ---
-## حقل CustomPrintEventArgs.FileName
+## CustomPrintEventArgs.FileName field
 
 يحصل على اسم الملف الذي يتم طباعته.
 
@@ -19,3 +19,5 @@ public readonly string FileName;
 * class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

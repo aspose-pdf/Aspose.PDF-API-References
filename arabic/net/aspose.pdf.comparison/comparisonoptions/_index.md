@@ -1,14 +1,14 @@
 ---
-title: Class ComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Comparison.ComparisonOptions. تمثل فئة خيارات مقارنة مستند PDF
+title: "الفئة ComparisonOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Comparison.ComparisonOptions. تمثل فئة خيارات مقارنة مستند PDF."
 type: docs
-weight: 3150
+weight: 3260
 url: /ar/net/aspose.pdf.comparison/comparisonoptions/
 ---
-## فئة خيارات المقارنة
+## ComparisonOptions class
 
-تمثل فئة خيارات مقارنة مستند PDF.
+يمثّل فئة خيارات مقارنة PDF document.
 
 ```csharp
 public class ComparisonOptions
@@ -18,19 +18,21 @@ public class ComparisonOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [ComparisonOptions](comparisonoptions/)() | المنشئ الافتراضي. |
+| [ComparisonOptions](comparisonoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [EditOperationsOrder](../../aspose.pdf.comparison/comparisonoptions/editoperationsorder/) { get; set; } | يحصل على ويضبط ترتيب عمليات التحرير. |
-| [ExcludeAreas1](../../aspose.pdf.comparison/comparisonoptions/excludeareas1/) { get; set; } | يحصل على ويضبط المناطق المستبعدة. يستخدم للصفحة الأولى أو المستند في طريقة المقارنة. يمكن ضبط هذا الخيار مع [`ExcludeTables`](./excludetables/). لا يمكن ضبط هذا الخيار مع خيار [`ExtractionArea`](./extractionarea/). |
-| [ExcludeAreas2](../../aspose.pdf.comparison/comparisonoptions/excludeareas2/) { get; set; } | يحصل على ويضبط المناطق المستبعدة. يستخدم للصفحة الثانية أو المستند في طريقة المقارنة. يمكن ضبط هذا الخيار مع [`ExcludeTables`](./excludetables/). لا يمكن ضبط هذا الخيار مع خيار [`ExtractionArea`](./extractionarea/). |
-| [ExcludeTables](../../aspose.pdf.comparison/comparisonoptions/excludetables/) { get; set; } | يحصل على ويضبط الخيار الذي يحدد ما إذا كانت الجداول مستبعدة من المقارنة. لا يمكن ضبط هذا الخيار مع خيار [`ExtractionArea`](./extractionarea/). القيمة الافتراضية هي `false`. |
-| [ExtractionArea](../../aspose.pdf.comparison/comparisonoptions/extractionarea/) { get; set; } | يحصل على ويضبط المنطقة المستطيلة التي سيتم مقارنة نص الصفحات فيها. لا يمكن ضبط هذا الخيار مع خيارات [`ExcludeTables`](./excludetables/)، [`ExcludeAreas1`](./excludeareas1/) و [`ExcludeAreas2`](./excludeareas2/). |
+| [EditOperationsOrder](../../aspose.pdf.comparison/comparisonoptions/editoperationsorder/) { get; set; } | يحصل على ترتيب عمليات التحرير أو يضبطه. |
+| [ExcludeAreas1](../../aspose.pdf.comparison/comparisonoptions/excludeareas1/) { get; set; } | احصل على مناطق الاستبعاد أو عيّنها. تُستخدم للصفحة الأولى أو المستند في طريقة المقارنة. يمكن ضبط هذا الخيار مع [`ExcludeTables`](./excludetables/). لا يمكن ضبط هذا الخيار مع خيار [`ExtractionArea`](./extractionarea/). |
+| [ExcludeAreas2](../../aspose.pdf.comparison/comparisonoptions/excludeareas2/) { get; set; } | احصل على مناطق الاستبعاد أو عيّنها. تُستخدم للصفحة الثانية أو المستند في طريقة المقارنة. يمكن ضبط هذا الخيار مع [`ExcludeTables`](./excludetables/). لا يمكن ضبط هذا الخيار مع خيار [`ExtractionArea`](./extractionarea/). |
+| [ExcludeTables](../../aspose.pdf.comparison/comparisonoptions/excludetables/) { get; set; } | احصل على الخيار الذي يحدد ما إذا كانت الجداول مستبعدة من المقارنة أو عينه. لا يمكن ضبط هذا الخيار مع خيار [`ExtractionArea`](./extractionarea/). القيمة الافتراضية هي `false`. |
+| [ExtractionArea](../../aspose.pdf.comparison/comparisonoptions/extractionarea/) { get; set; } | احصل على المنطقة المستطيلة التي سيتم مقارنة نص الصفحات داخلها أو عينها. لا يمكن ضبط هذا الخيار مع خيارات [`ExcludeTables`](./excludetables/)، [`ExcludeAreas1`](./excludeareas1/) و[`ExcludeAreas2`](./excludeareas2/). |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تعيد مصفوفة
+title: "XmpValue.ToArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. تُرجع مصفوفة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/xmpvalue/toarray/
 ---
-## طريقة XmpValue.ToArray
+## XmpValue.ToArray method
 
-تعيد مصفوفة.
+يعيد مصفوفة.
 
 ```csharp
 public XmpValue[] ToArray()
@@ -16,10 +16,12 @@ public XmpValue[] ToArray()
 
 ### قيمة الإرجاع
 
-قيمة المصفوفة
+قيمة مصفوفة
 
 ### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

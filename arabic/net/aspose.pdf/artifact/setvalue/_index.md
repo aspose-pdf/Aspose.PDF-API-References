@@ -1,26 +1,28 @@
 ---
-title: Artifact.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Artifact. تعيين قيمة مخصصة للعنصر
+title: "Artifact.SetValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Artifact. تعيين قيمة مخصصة للـ artifact"
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf/artifact/setvalue/
 ---
-## طريقة Artifact.SetValue
+## Artifact.SetValue method
 
-تعيين قيمة مخصصة للعنصر.
+يضبط القيمة المخصصة للعنصر.
 
 ```csharp
 public void SetValue(string name, string value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم القيمة المخصصة. |
-| value | String | القيمة المخصصة في العنصر. |
+| الاسم | String | اسم القيمة المخصصة. |
+| القيمة | String | القيمة المخصصة في الـ artifact. |
 
 ### انظر أيضًا
 
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

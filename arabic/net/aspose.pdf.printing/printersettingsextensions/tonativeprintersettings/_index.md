@@ -1,26 +1,26 @@
 ---
-title: PrinterSettingsExtensions.ToNativePrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PrinterSettingsExtensions. تحويل PrinterSettings إلى System.Drawing.Printing.PrinterSettings المحددة لنظام Windows
+title: "PrinterSettingsExtensions.ToNativePrinterSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PrinterSettingsExtensions. تُحوِّل PrinterSettings إلى Windowsspecific System.Drawing.Printing.PrinterSettings"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/
 ---
-## طريقة PrinterSettingsExtensions.ToNativePrinterSettings
+## PrinterSettingsExtensions.ToNativePrinterSettings method
 
-تحول [`PrinterSettings`](../../printersettings/) إلى System.Drawing.Printing.PrinterSettings المحددة لنظام Windows.
+يُحوِّل [`PrinterSettings`](../../printersettings/) إلى Windows-specific System.Drawing.Printing.PrinterSettings.
 
 ```csharp
 public static PrinterSettings ToNativePrinterSettings(this PrinterSettings printerSettings)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | printerSettings | PrinterSettings | إعدادات الطابعة للتحويل. |
 
 ### قيمة الإرجاع
 
-إعدادات الطابعة لنظام Windows.
+إعدادات طابعة Windows.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public static PrinterSettings ToNativePrinterSettings(this PrinterSettings print
 * class [PrinterSettingsExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

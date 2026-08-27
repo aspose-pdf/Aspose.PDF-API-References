@@ -1,22 +1,22 @@
 ---
-title: Form.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. يحصل على حقل النموذج بواسطة اسم الحقل. يرمي استثناء إذا لم يتم العثور على الحقل
+title: "Form.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. يحصل على حقل النموذج بواسطة اسم الحقل. يرمي استثناءً إذا لم يتم العثور على الحقل."
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.pdf.forms/form/item/
 ---
-## فهرس النموذج (1 من 2)
+## Form indexer (1 of 2)
 
-يحصل على حقل النموذج بواسطة اسم الحقل. يرمي استثناء إذا لم يتم العثور على الحقل.
+يحصل على حقل النموذج بواسطة اسم الحقل. يرمي استثناءً إذا لم يتم العثور على الحقل.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم الحقل. |
+| الاسم | اسم الحقل. |
 
 ### قيمة الإرجاع
 
@@ -31,7 +31,7 @@ public WidgetAnnotation this[string name] { get; }
 
 ---
 
-## فهرس النموذج (2 من 2)
+## Form indexer (2 of 2)
 
 يحصل على حقل النموذج بواسطة فهرس الحقل.
 
@@ -39,7 +39,7 @@ public WidgetAnnotation this[string name] { get; }
 public WidgetAnnotation this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الحقل. |
 
@@ -53,3 +53,5 @@ public WidgetAnnotation this[int index] { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

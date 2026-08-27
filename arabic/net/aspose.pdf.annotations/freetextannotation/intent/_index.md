@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FreeTextAnnotation. تحصل أو تعين نية التعليق النصي الحر
+title: "FreeTextAnnotation.Intent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FreeTextAnnotation. يحصل أو يعيّن نية التعليق النصي الحر."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/freetextannotation/intent/
 ---
-## خاصية FreeTextAnnotation.Intent
+## FreeTextAnnotation.Intent property
 
-تحصل أو تعين نية التعليق النصي الحر.
+يحصل أو يعيّن نية تعليقة النص الحر.
 
 ```csharp
 public FreeTextIntent Intent { get; set; }
@@ -20,3 +20,5 @@ public FreeTextIntent Intent { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

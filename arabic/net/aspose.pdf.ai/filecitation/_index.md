@@ -1,32 +1,34 @@
 ---
-title: Class FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileCitation class. يمثل اقتباس الملف
+title: "الفئة FileCitation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.FileCitation. تمثل استشهاد الملف"
 type: docs
-weight: 360
+weight: 380
 url: /ar/net/aspose.pdf.ai/filecitation/
 ---
 ## FileCitation class
 
-يمثل اقتباس الملف.
+يمثل استشهاد الملف.
 
 ```csharp
 public class FileCitation
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileCitation](filecitation/)() | المُنشئ الافتراضي. |
+| [FileCitation](filecitation/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | يحصل أو يحدد معرف الملف المحدد الذي يأتي منه الاقتباس. |
+| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | يحصل أو يضبط معرف الملف المحدد الذي يأتي منه الاستشهاد. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

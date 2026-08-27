@@ -1,14 +1,14 @@
 ---
-title: Embedding.Index
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التضمين. تحصل أو تعين فهرس التضمين في قائمة التضمينات
+title: "Embedding.Index"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Embedding property. تحصل أو تعين فهرس التضمين في قائمة التضمينات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/embedding/index/
 ---
-## خاصية Embedding.Index
+## Embedding.Index property
 
-تحصل أو تعين فهرس التضمين في قائمة التضمينات.
+يحصل أو يعيّن فهرس التضمين في قائمة التضمينات.
 
 ```csharp
 public int Index { get; set; }
@@ -19,3 +19,5 @@ public int Index { get; set; }
 * class [Embedding](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

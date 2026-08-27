@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.UnFlattenFields
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AutoFiller. تحدد الحقول التي لن يتم تسويتها. إذا لم يتم تعيين هذه الخاصية، فسيتم تسوية جميع الحقول
+title: "AutoFiller.UnFlattenFields"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AutoFiller. تحدد الحقول التي لن يتم تسويتها. إذا لم يتم تعيين هذه الخاصية فستتم تسوية جميع الحقول."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/autofiller/unflattenfields/
 ---
-## خاصية AutoFiller.UnFlattenFields
+## AutoFiller.UnFlattenFields property
 
-تحدد الحقول التي لن يتم تسويتها. إذا لم يتم تعيين هذه الخاصية، فسيتم تسوية جميع الحقول.
+يضبط الحقول التي لن يتم تسويتها. إذا لم يتم ضبط هذه الخاصية، سيتم تسوية جميع الحقول.
 
 ```csharp
 public string[] UnFlattenFields { set; }
@@ -19,3 +19,5 @@ public string[] UnFlattenFields { set; }
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

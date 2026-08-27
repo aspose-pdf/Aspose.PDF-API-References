@@ -1,7 +1,7 @@
 ---
-title: FitBVExplicitDestination.FitBVExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FitBVExplicitDestination. ينشئ وجهة صريحة محلية
+title: "FitBVExplicitDestination.FitBVExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FitBVExplicitDestination. ينشئ وجهة صريحة محلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/fitbvexplicitdestination/fitbvexplicitdestination/
@@ -14,12 +14,12 @@ url: /ar/net/aspose.pdf.annotations/fitbvexplicitdestination/fitbvexplicitdestin
 public FitBVExplicitDestination(Page page, double left)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن الصفحة الوجهة. |
-| left | Double | الإحداثي الأفقي الأيسر الموجود عند الحافة اليسرى للنافذة. |
+| صفحة | صفحة | كائن صفحة الوجهة. |
+| يسار | Double | الإحداثي الأفقي الأيسر موضعه عند الحافة اليسرى للنافذة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [FitBVExplicitDestination](../)
@@ -30,19 +30,21 @@ public FitBVExplicitDestination(Page page, double left)
 
 ## FitBVExplicitDestination(int, double) {#constructor_2}
 
-ينشئ وجهة صريحة بعيدة.
+ينشئ وجهة صريحة عن بُعد.
 
 ```csharp
 public FitBVExplicitDestination(int pageNumber, double left)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم الصفحة الوجهة للمستند البعيد. |
-| left | Double | الإحداثي الأفقي الأيسر الموجود عند الحافة اليسرى للنافذة. |
+| pageNumber | Int32 | رقم صفحة الوجهة في المستند البعيد. |
+| يسار | Double | الإحداثي الأفقي الأيسر موضعه عند الحافة اليسرى للنافذة. |
 
-### See Also
+### انظر أيضًا
 
 * class [FitBVExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

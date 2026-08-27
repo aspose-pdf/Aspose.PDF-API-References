@@ -1,28 +1,28 @@
 ---
-title: DictionaryEditor.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DictionaryEditor. تزيل العنصر الذي يحمل المفتاح المحدد من DictionaryEditor
+title: "DictionaryEditor.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DictionaryEditor. يزيل العنصر بالمفتاح المحدد من DictionaryEditor"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.dataeditor/dictionaryeditor/remove/
 ---
 ## Remove(string) {#remove_1}
 
-تزيل العنصر الذي يحمل المفتاح المحدد من [`DictionaryEditor`](../).
+يزيل العنصر بالمفتاح المحدد من [`DictionaryEditor`](../).
 
 ```csharp
 public bool Remove(string key)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح الخاص بالعنصر الذي سيتم إزالته. |
+| المفتاح | String | المفتاح للعنصر المراد إزالته. |
 
-### Return Value
+### قيمة الإرجاع
 
-True إذا تم إزالة العنصر بنجاح؛ وإلا، false. هذه الطريقة تعيد أيضًا false إذا لم يتم العثور على المفتاح في القاموس الأصلي أو إذا كان المفتاح غير قابل للتعديل.
+صحيح إذا تم إزالة العنصر بنجاح؛ وإلا، خطأ. تُعيد هذه الطريقة أيضًا خطأ إذا لم يُعثر على المفتاح في القاموس الأصلي أو إذا كان المفتاح غير قابل للتحرير
 
-### See Also
+### انظر أيضًا
 
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
@@ -32,23 +32,25 @@ True إذا تم إزالة العنصر بنجاح؛ وإلا، false. هذه �
 
 ## Remove(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#remove}
 
-تزيل أول ظهور لكائن محدد من [`DictionaryEditor`](../).
+يزيل أول تكرار لكائن محدد من [`DictionaryEditor`](../).
 
 ```csharp
 public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | KeyValuePair`2 | الكائن الذي سيتم إزالته من [`DictionaryEditor`](../). |
+| item | KeyValuePair`2 | الكائن لإزالته من [`DictionaryEditor`](../). |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم إزالة العنصر بنجاح من [`DictionaryEditor`](../)؛ وإلا، false. هذه الطريقة تعيد أيضًا false إذا لم يتم العثور على العنصر في [`DictionaryEditor`](../) الأصلي.
+صحيح إذا تم إزالة العنصر بنجاح من [`DictionaryEditor`](../)؛ وإلا، خطأ. تُعيد هذه الطريقة أيضًا خطأ إذا لم يُعثر على العنصر في [`DictionaryEditor`](../) الأصلي.
 
-### See Also
+### انظر أيضًا
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

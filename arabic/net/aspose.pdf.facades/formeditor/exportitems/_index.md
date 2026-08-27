@@ -1,14 +1,14 @@
 ---
-title: FormEditor.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormEditor. تعيين خيارات لعنصر القائمة المنسدلة مع قيم التصدير
+title: "FormEditor.ExportItems"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormEditor. تعيين الخيارات لمربع التحرير المنسدل مع قيم التصدير"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/formeditor/exportitems/
 ---
-## خاصية FormEditor.ExportItems
+## FormEditor.ExportItems property
 
-تعيين خيارات لعنصر القائمة المنسدلة مع قيم التصدير.
+يضبط خيارات صندوق القائمة المنسدلة مع قيم التصدير.
 
 ```csharp
 public string[][] ExportItems { get; set; }
@@ -33,3 +33,5 @@ formEditor.Save();
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

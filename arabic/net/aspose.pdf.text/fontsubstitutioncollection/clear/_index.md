@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection method. Clears the font substitution collection
+title: "FontSubstitutionCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontSubstitutionCollection. تُمسح مجموعة استبدال الخط"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/fontsubstitutioncollection/clear/
 ---
-## طريقة FontSubstitutionCollection.Clear
+## FontSubstitutionCollection.Clear method
 
-Clears the font substitution collection.
+يمسح مجموعة استبدال الخط.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

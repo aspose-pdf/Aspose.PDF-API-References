@@ -1,14 +1,14 @@
 ---
-title: TableElement.CreateTHead
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableElement. تنشئ TableTHeadElement وتضيفها إلى الجدول الحالي
+title: "TableElement.CreateTHead"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableElement. تنشئ TableTHeadElement وتضيفه إلى الجدول الحالي"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/createthead/
 ---
-## طريقة TableElement.CreateTHead
+## TableElement.CreateTHead method
 
-تنشئ [`TableTHeadElement`](../../tabletheadelement/) وتضيفها إلى الجدول الحالي.
+ينشئ [`TableTHeadElement`](../../tabletheadelement/) ويضيفه إلى الجدول الحالي.
 
 ```csharp
 public TableTHeadElement CreateTHead()
@@ -16,7 +16,7 @@ public TableTHeadElement CreateTHead()
 
 ### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public TableTHeadElement CreateTHead()
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

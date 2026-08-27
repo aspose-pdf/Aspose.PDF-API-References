@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BorderInfo. ينشئ مثيلًا من فئة BorderInfo
+title: "SaveOptions.BorderInfo.BorderInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BorderInfo. ينشئ نسخة من فئة BorderInfo"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/saveoptions.borderinfo/borderinfo/
 ---
 ## BorderInfo() {#constructor}
 
-ينشئ مثيلًا من فئة BorderInfo
+ينشئ نسخة من الفئة BorderInfo
 
 ```csharp
 public BorderInfo()
@@ -24,15 +24,15 @@ public BorderInfo()
 
 ## BorderInfo(BorderPartStyle) {#constructor_1}
 
-ينشئ مثيلًا من فئة BorderInfo ويقوم بتهيئة جميع عناصر الحدود (العلوي، الأيسر، الأيمن، السفلي) مع السمات المنسوخة من نمط الحدود المقدم
+ينشئ نسخة من الفئة BorderInfo ويُهيّئ جميع عناصر الحدود (Top, Left, Right, Bottom) بالخصائص المنسوخة من نمط الحدود المزوّد
 
 ```csharp
 public BorderInfo(BorderPartStyle commonStyle)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| commonStyle | BorderPartStyle | نمط أجزاء الحدود التي ستستخدم لجميع عناصر الحدود (الأيسر، الأيمن، العلوي، السفلي) |
+| commonStyle | BorderPartStyle | نمط أجزاء الحدود التي ستُستخدم لجميع عناصر الحد (left, right, top, bottom) |
 
 ### انظر أيضًا
 
@@ -40,3 +40,5 @@ public BorderInfo(BorderPartStyle commonStyle)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

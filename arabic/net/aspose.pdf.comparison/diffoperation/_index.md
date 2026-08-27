@@ -1,36 +1,38 @@
 ---
-title: Class DiffOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.DiffOperation class. تمثل فئة عملية الفرق
+title: "الفئة DiffOperation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Comparison.DiffOperation class. تمثل فئة لعملية الفرق"
 type: docs
-weight: 3160
+weight: 3270
 url: /ar/net/aspose.pdf.comparison/diffoperation/
 ---
 ## DiffOperation class
 
-تمثل فئة عملية الفرق.
+يمثّل فئة عملية الفرق.
 
 ```csharp
 public class DiffOperation : IEquatable<DiffOperation>
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Operation](../../aspose.pdf.comparison/diffoperation/operation/) { get; } | يحصل على نوع العملية ويضبطه. |
-| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | يحصل على نص العملية ويضبطه. |
+| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | احصل على نص العملية أو قم بتعيينه. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Equals](../../aspose.pdf.comparison/diffoperation/equals/#equals)(DiffOperation) |  |
 | override [Equals](../../aspose.pdf.comparison/diffoperation/equals/#equals_1)(object) |  |
 | override [GetHashCode](../../aspose.pdf.comparison/diffoperation/gethashcode/)() |  |
 | override [ToString](../../aspose.pdf.comparison/diffoperation/tostring/)() |  |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

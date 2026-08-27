@@ -1,27 +1,27 @@
 ---
-title: TextFragment.IsolateTextSegments
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextFragment. تحصل على TextSegments تمثل جزءًا محددًا من نص TextFragment
+title: "TextFragment.IsolateTextSegments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextFragment. يحصل على TextSegments التي تمثل الجزء المحدد من نص TextFragment"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.text/textfragment/isolatetextsegments/
 ---
-## طريقة TextFragment.IsolateTextSegments
+## TextFragment.IsolateTextSegments method
 
-تحصل على [`TextSegment`](../../textsegment/)(s) تمثل جزءًا محددًا من نص [`TextFragment`](../).
+يحصل على [`TextSegment`](../../textsegment/)(s) التي تمثل الجزء المحدد من نص [`TextFragment`](../).
 
 ```csharp
 public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| startIndex | Int32 | الموضع في النص الذي ستبدأ منه [`TextSegment`](../../textsegment/)(s) الجديدة. |
-| length | Int32 | طول النص الذي سيتم عزله في [`TextSegment`](../../textsegment/)(s). |
+| startIndex | Int32 | الموضع في النص الذي سيبدأ منه [`TextSegment`](../../textsegment/)(s) الجديد. |
+| length | Int32 | طول النص الذي سيتم عزلّه إلى [`TextSegment`](../../textsegment/)(s). |
 
 ### قيمة الإرجاع
 
-[`TextSegmentCollection`](../../textsegmentcollection/) تحتوي على مقاطع نصية تمثل جزء النص الذي يبدأ من موضع محدد وله طول محدد.
+[`TextSegmentCollection`](../../textsegmentcollection/) containing text segments representing text substring starting at a specified position and having a specified length.
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionValueType. إضافة حقل جديد
+title: "XmpPdfAExtensionValueType.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpPdfAExtensionValueType. إضافة حقل جديد"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/xmppdfaextensionvaluetype/add/
 ---
-## طريقة XmpPdfAExtensionValueType.Add
+## XmpPdfAExtensionValueType.Add method
 
 إضافة حقل جديد.
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf/xmppdfaextensionvaluetype/add/
 public void Add(XmpPdfAExtensionField field)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | الحقل الذي سيتم إضافته. |
+| حقل | XmpPdfAExtensionField | الحقل المراد إضافته. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(XmpPdfAExtensionField field)
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

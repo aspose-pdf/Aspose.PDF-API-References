@@ -1,34 +1,36 @@
 ---
-title: Class SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.SimpleFontSubstitution. تمثل فئة لاستراتيجية استبدال الخط البسيط
+title: "فئة SimpleFontSubstitution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Text.SimpleFontSubstitution. تمثل فئة لاستراتيجية استبدال الخط البسيط"
 type: docs
-weight: 10710
+weight: 10890
 url: /ar/net/aspose.pdf.text/simplefontsubstitution/
 ---
 ## SimpleFontSubstitution class
 
-تمثل فئة لاستراتيجية استبدال الخط البسيط.
+يمثل فئة لاستراتيجية استبدال الخطوط البسيطة.
 
 ```csharp
 public sealed class SimpleFontSubstitution : FontSubstitution
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SimpleFontSubstitution](simplefontsubstitution/)(string, string, bool) | Initializes a new instance of `SimpleFontSubstitution` class. |
+| [SimpleFontSubstitution](simplefontsubstitution/)(string, string, bool) | يقوم بتهيئة نسخة جديدة من الفئة `SimpleFontSubstitution`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | يحصل على اسم الخط الأصلي الذي يجب استبداله بـ [`SubstitutionFontName`](./substitutionfontname/) |
 | [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | يحصل على اسم الخط الذي يجب أن يستبدل [`OriginalFontName`](./originalfontname/) |
 
-### See Also
+### انظر أيضًا
 
 * class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية Flags للحقل الذي تم إنشاؤه/تعديله إذا سيتم تعيينه
+title: "FormFieldOptions.Flags"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. يحصل/يضبط القيمة لتحديد خاصية Flags للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينها"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/flags/
 ---
-## خاصية FormFieldOptions.Flags
+## FormFieldOptions.Flags property
 
-تحصل/تضبط القيمة لتحديد خاصية Flags للحقل الذي تم إنشاؤه/تعديله (إذا سيتم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية Flags للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public AnnotationFlags? Flags { get; set; }
@@ -20,3 +20,5 @@ public AnnotationFlags? Flags { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

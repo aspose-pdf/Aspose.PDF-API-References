@@ -1,9 +1,9 @@
 ---
-title: Enum FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldSerializationStatus enum. يمثل حالة تسلسل حقل النموذج
+title: "التعداد FieldSerializationStatus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.FieldSerializationStatus. يمثل حالة تسلسل حقل النموذج"
 type: docs
-weight: 4800
+weight: 4920
 url: /ar/net/aspose.pdf/fieldserializationstatus/
 ---
 ## FieldSerializationStatus enumeration
@@ -14,15 +14,17 @@ url: /ar/net/aspose.pdf/fieldserializationstatus/
 public enum FieldSerializationStatus
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Success | `0` | يشير إلى أن التسلسل كان ناجحًا. |
 | Warning | `1` | يشير إلى أن التسلسل اكتمل مع تحذيرات. |
 | Error | `2` | يشير إلى أن التسلسل واجه أخطاء. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

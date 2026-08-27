@@ -1,33 +1,35 @@
 ---
-title: Class WarningInfo
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.WarningInfo. كائن غير قابل للتغيير لتغليف معلومات التحذير
+title: "الفئة WarningInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.WarningInfo. كائن غير قابل للتغيير لتجميع معلومات التحذير"
 type: docs
-weight: 11280
+weight: 11470
 url: /ar/net/aspose.pdf/warninginfo/
 ---
 ## WarningInfo class
 
-كائن غير قابل للتغيير لتغليف معلومات التحذير.
+كائن ثابت لتغليف معلومات التحذير.
 
 ```csharp
 public sealed class WarningInfo
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [WarningInfo](warninginfo/)(WarningType, string) | ينشئ مثيلًا لجمع المعلومات. |
+| [WarningInfo](warninginfo/)(WarningType, string) | ينشئ مثيلًا لتجميع المعلومات. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage/) { get; } | يعيد تمثيل سلسلة لرسالة التحذير. |
-| [WarningTypeProperty](../../aspose.pdf/warninginfo/warningtypeproperty/) { get; } | يعيد نوع التحذير. |
+| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage/) { get; } | يرجع تمثيل النص لرسالة التحذير. |
+| [WarningTypeProperty](../../aspose.pdf/warninginfo/warningtypeproperty/) { get; } | يرجع نوع التحذير. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

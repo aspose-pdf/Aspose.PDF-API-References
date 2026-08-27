@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.IncrementalUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. إذا كانت صحيحة، يتم إجراء تحديثات تدريجية أثناء الدمج
+title: "PdfFileEditor.IncrementalUpdates"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. إذا كان صحيحًا تُجرى تحديثات تراكمية أثناء الدمج."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/pdffileeditor/incrementalupdates/
 ---
-## خاصية PdfFileEditor.IncrementalUpdates
+## PdfFileEditor.IncrementalUpdates property
 
-إذا كانت صحيحة، يتم إجراء تحديثات تدريجية أثناء الدمج.
+إذا كان صحيحًا، يتم إجراء تحديثات متدرجة أثناء الدمج.
 
 ```csharp
 public bool IncrementalUpdates { get; set; }
@@ -19,3 +19,5 @@ public bool IncrementalUpdates { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,60 +1,62 @@
 ---
-title: Class TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.TextExtractor. تمثل مكون TextExtractor
+title: "الفئة TextExtractor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.TextExtractor. تمثل مكوّن TextExtractor الإضافي"
 type: docs
-weight: 9380
+weight: 9530
 url: /ar/net/aspose.pdf.plugins/textextractor/
 ---
 ## TextExtractor class
 
-تمثل مكون TextExtractor.
+يمثل ملحق TextExtractor.
 
 ```csharp
 public class TextExtractor : PdfExtractor
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextExtractor](textextractor/)() | المُنشئ الافتراضي. |
+| [TextExtractor](textextractor/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | تنفيذ IDisposable. في الواقع، ليس من الضروري لمكون PdfExtractor. |
-| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | يبدأ معالجة PdfExtractor مع المعلمات المحددة. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | تنفيذ IDisposable. في الواقع، ليس ضرورياً لـ PdfExtractor. |
+| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | يبدأ معالجة PdfExtractor بالمعلمات المحددة. |
 
-## Remarks
+## ملاحظات
 
-يتم استخدام كائن `TextExtractor` لاستخراج النص في مستندات PDF.
+يُستخدم كائن `TextExtractor` لاستخراج النص في مستندات PDF.
 
-## Examples
+## أمثلة
 
-توضح المثال كيفية استخراج محتوى النص من مستند PDF.
+يوضح المثال كيفية استخراج محتوى النص من مستند PDF.
 
 ```csharp
-// create TextExtractor object to extract text in PDF contents
+// إنشاء كائن TextExtractor لاستخراج النص في محتويات PDF
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions
+    // إنشاء TextExtractorOptions
     textExtractorOptions = new TextExtractorOptions();
     
-    // add input file path to data sources
+    // إضافة مسار ملف الإدخال إلى مصادر البيانات
     textExtractorOptions.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // تنفيذ عملية الاستخراج
     ResultContainer resultContainer = extractor.Process(textExtractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // الحصول على النص المستخرج من كائن ResultContainer
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../pdfextractor/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

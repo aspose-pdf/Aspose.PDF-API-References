@@ -1,14 +1,14 @@
 ---
-title: MessageContentResponse.MessageContentResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MessageContentResponse. المُنشئ الافتراضي
+title: "MessageContentResponse.MessageContentResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "MessageContentResponse المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/messagecontentresponse/messagecontentresponse/
 ---
-## مُنشئ MessageContentResponse
+## MessageContentResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public MessageContentResponse()
@@ -19,3 +19,5 @@ public MessageContentResponse()
 * class [MessageContentResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

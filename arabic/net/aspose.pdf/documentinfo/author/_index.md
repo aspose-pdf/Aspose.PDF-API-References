@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Author
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. تحصل أو تعين مؤلف الوثيقة
+title: "DocumentInfo.Author"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DocumentInfo خاصية. يحصل أو يضبط مؤلف المستند"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/documentinfo/author/
 ---
-## خاصية DocumentInfo.Author
+## DocumentInfo.Author property
 
-تحصل أو تعين مؤلف الوثيقة.
+الحصول أو الضبط لمؤلف المستند.
 
 ```csharp
 public string Author { get; set; }
@@ -19,3 +19,5 @@ public string Author { get; set; }
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

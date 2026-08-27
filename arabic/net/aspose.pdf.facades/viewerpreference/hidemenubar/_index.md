@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.HideMenubar
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. علامة تحدد ما إذا كان يجب إخفاء شريط قائمة القارئ المتوافق عندما يكون المستند نشطًا
+title: "ViewerPreference.HideMenubar"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. علامة تحدد ما إذا كان سيتم إخفاء شريط قوائم القارئ المتوافق عندما يكون المستند نشطًا"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/viewerpreference/hidemenubar/
 ---
-## حقل ViewerPreference.HideMenubar
+## ViewerPreference.HideMenubar field
 
-علامة تحدد ما إذا كان يجب إخفاء شريط قائمة القارئ المتوافق عندما يكون المستند نشطًا.
+علامة تحدد ما إذا كان يجب إخفاء شريط قوائم القارئ المتوافق عندما يكون المستند نشطًا.
 
 ```csharp
 public const int HideMenubar;
@@ -19,3 +19,5 @@ public const int HideMenubar;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

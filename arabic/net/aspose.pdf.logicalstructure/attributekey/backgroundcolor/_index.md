@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية BackgroundColor مالك خاصية التخطيط
+title: "AttributeKey.BackgroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة BackgroundColor سمة Layout مالك السمة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/backgroundcolor/
 ---
-## حقل AttributeKey.BackgroundColor
+## AttributeKey.BackgroundColor field
 
-خاصية BackgroundColor (مالك خاصية التخطيط).
+خاصية BackgroundColor (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey BackgroundColor;
@@ -19,3 +19,5 @@ public static readonly AttributeKey BackgroundColor;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

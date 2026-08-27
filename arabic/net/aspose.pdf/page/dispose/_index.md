@@ -1,14 +1,14 @@
 ---
-title: Page.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Page. يحرر الذاكرة
+title: "Page.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تحرير الذاكرة."
 type: docs
 weight: 420
 url: /ar/net/aspose.pdf/page/dispose/
 ---
-## طريقة Page.Dispose
+## Page.Dispose method
 
-يحرر الذاكرة
+يفرغ الذاكرة
 
 ```csharp
 public void Dispose()
@@ -19,3 +19,5 @@ public void Dispose()
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

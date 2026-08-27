@@ -1,14 +1,14 @@
 ---
-title: ThreadCreateRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadCreateRequest. تحصل أو تعين قائمة من الرسائل لبدء المحادثة بها
+title: "ThreadCreateRequest.Messages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadCreateRequest. تحصل أو تعيين قائمة بالرسائل لبدء الخيط بها"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/threadcreaterequest/messages/
 ---
-## خاصية ThreadCreateRequest.Messages
+## ThreadCreateRequest.Messages property
 
-تحصل أو تعين قائمة من الرسائل لبدء المحادثة بها.
+يحصل أو يعيّن قائمة الرسائل لبدء السلسلة بها.
 
 ```csharp
 public List<ThreadMessageCreateRequest> Messages { get; set; }
@@ -20,3 +20,5 @@ public List<ThreadMessageCreateRequest> Messages { get; set; }
 * class [ThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,34 +1,36 @@
 ---
-title: Class Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.Jpeg. تمثل مكون Pdf إلى Jpeg
+title: "الفئة Jpeg"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.Jpeg. تمثل ملحق Pdf إلى Jpeg"
 type: docs
-weight: 8910
+weight: 9040
 url: /ar/net/aspose.pdf.plugins/jpeg/
 ---
 ## Jpeg class
 
-تمثل مكون Pdf إلى Jpeg.
+يمثل المكوّن الإضافي Pdf إلى Jpeg.
 
 ```csharp
 public sealed class Jpeg : PdfToImage
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Jpeg](jpeg/)() | المُنشئ الافتراضي. |
+| [Jpeg](jpeg/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | تنفيذ . في الواقع، ليس من الضروري لـ . |
-| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | يبدأ المعالجة مع المعلمات المحددة. |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | تنفيذ لـ . في الواقع، ليس ضروريًا لـ . |
+| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | يبدأ  المعالجة بالمعلمات المحددة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfToImage](../pdftoimage/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

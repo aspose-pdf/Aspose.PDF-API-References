@@ -1,29 +1,31 @@
 ---
-title: Class MediaRendition
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.MediaRendition. تصف الفئة عرض الوسائط
+title: "الفئة MediaRendition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.MediaRendition. تصف الفئة تقديم الوسائط."
 type: docs
-weight: 2100
+weight: 2190
 url: /ar/net/aspose.pdf.annotations/mediarendition/
 ---
 ## MediaRendition class
 
-تصف الفئة عرض الوسائط.
+فئة تصف عرض الوسائط.
 
 ```csharp
 public sealed class MediaRendition : Rendition
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | يحصل أو يحدد كائنات مقطع الوسائط المرتبطة بالعرض. |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | سلسلة نصية تحدد اسم العرض للاستخدام في واجهة المستخدم وللlookup في شجرة الأسماء بواسطة إجراءات JavaScript. |
+| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | يحصل أو يعيّن كائنات مقطع الوسائط المرتبطة بالتقديم. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | سلسلة نصية تحدد اسم العرض للاستخدام في واجهة المستخدم وللبحث في شجرة الأسماء عبر إجراءات JavaScript. |
 | [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | يحصل على نوع العرض. |
 
-### See Also
+### انظر أيضًا
 
 * class [Rendition](../rendition/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.ObjectType.ToolType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ObjectType. تحصل أو تعين نوع الأداة. حاليًا، يتم دعم الوظيفة فقط
+title: "ToolChoice.ObjectType.ToolType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ObjectType. تحصل أو تعيين نوع الأداة. حاليًا يتم دعم الدالة فقط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/toolchoice.objecttype/tooltype/
 ---
-## خاصية ToolChoice.ObjectType.ToolType
+## ToolChoice.ObjectType.ToolType property
 
-تحصل أو تعين نوع الأداة. حاليًا، يتم دعم الوظيفة فقط.
+يحصل أو يعيّن نوع الأداة. حالياً، يتم دعم الدالة فقط.
 
 ```csharp
 public string ToolType { get; set; }
@@ -19,3 +19,5 @@ public string ToolType { get; set; }
 * class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

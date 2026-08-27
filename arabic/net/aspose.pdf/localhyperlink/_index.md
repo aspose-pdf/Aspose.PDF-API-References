@@ -1,35 +1,37 @@
 ---
-title: Class LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.LocalHyperlink. تمثل كائن الارتباط التشعبي المحلي
+title: "الفئة LocalHyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.LocalHyperlink. تمثل كائن ارتباط تشعبي محلي"
 type: docs
-weight: 6170
+weight: 6310
 url: /ar/net/aspose.pdf/localhyperlink/
 ---
 ## LocalHyperlink class
 
-تمثل كائن الارتباط التشعبي المحلي.
+يمثل كائن الارتباط التشعبي المحلي.
 
 ```csharp
 public sealed class LocalHyperlink : Hyperlink
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [LocalHyperlink](localhyperlink/#constructor)() | Initializes a new instance of the `LocalHyperlink` class. |
-| [LocalHyperlink](localhyperlink/#constructor_1)(BaseParagraph) | Initializes a new instance of the `LocalHyperlink` class. |
+| [LocalHyperlink](localhyperlink/#constructor)() | ينشئ مثلاً جديداً من الفئة `LocalHyperlink`. |
+| [LocalHyperlink](localhyperlink/#constructor_1)(BaseParagraph) | ينشئ مثلاً جديداً من الفئة `LocalHyperlink`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Gets or sets the target paragraph. |
-| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Gets or sets the target page number. |
+| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | يحصل أو يضبط الفقرة المستهدفة. |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | يحصل أو يضبط رقم الصفحة المستهدفة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Hyperlink](../hyperlink/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

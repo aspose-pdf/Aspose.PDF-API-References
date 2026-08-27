@@ -1,14 +1,14 @@
 ---
-title: HideAction.IsHidden
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HideAction. تحصل أو تعين حالة التعليقات التوضيحية للاخفاء/العرض
+title: "HideAction.IsHidden"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HideAction. تحصل أو تعيين حالة التعليقات التوضيحية للإخفاء/العرض"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/hideaction/ishidden/
 ---
-## خاصية HideAction.IsHidden
+## HideAction.IsHidden property
 
-تحصل أو تعين حالة التعليق (التعليقات التوضيحية) للاخفاء/العرض.
+يحصل أو يضبط حالة التعليق(ات) للإخفاء/العرض.
 
 ```csharp
 public bool IsHidden { get; set; }
@@ -19,3 +19,5 @@ public bool IsHidden { get; set; }
 * class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: PdfFileEditor.PageBreak.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageBreak. مُنشئ لإنشاء كائن PageBreak
+title: "PdfFileEditor.PageBreak.PageBreak"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PageBreak. منشئ لإنشاء كائن PageBreak"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagebreak/
 ---
-## مُنشئ PdfFileEditor.PageBreak
+## PdfFileEditor.PageBreak constructor
 
-مُنشئ لإنشاء كائن PageBreak.
+منشئ لإنشاء كائن PageBreak.
 
 ```csharp
 public PageBreak(int pageNumber, double position)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم الصفحة التي يتم فيها وضع فاصل الصفحة. |
-| position | Double | الموضع العمودي لفاصل الصفحة. |
+| pageNumber | Int32 | رقم الصفحة التي يُوضع فيها فاصل الصفحة. |
+| الموضع | Double | الموضع الرأسي لفاصل الصفحة. |
 
 ### انظر أيضًا
 
 * class [PageBreak](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIContext.OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ OpenAIContext. المُنشئ الافتراضي
+title: "OpenAIContext.OpenAIContext"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OpenAIContext مُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/openaicontext/openaicontext/
 ---
-## مُنشئ OpenAIContext
+## OpenAIContext constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public OpenAIContext()
@@ -19,3 +19,5 @@ public OpenAIContext()
 * class [OpenAIContext](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

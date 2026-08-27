@@ -1,14 +1,14 @@
 ---
-title: Stamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. العرض المرغوب للطابع على الصفحة
+title: "Stamp.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. العرض المطلوب للطابع على الصفحة"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/stamp/width/
 ---
-## خاصية Stamp.Width
+## Stamp.Width property
 
-العرض المرغوب للطابع على الصفحة.
+العرض المطلوب للطابع على الصفحة.
 
 ```csharp
 public virtual double Width { get; set; }
@@ -19,3 +19,5 @@ public virtual double Width { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

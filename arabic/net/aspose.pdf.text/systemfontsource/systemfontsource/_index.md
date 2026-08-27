@@ -1,14 +1,14 @@
 ---
-title: SystemFontSource.SystemFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SystemFontSource. المُنشئ الافتراضي
+title: "SystemFontSource.SystemFontSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SystemFontSource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/systemfontsource/systemfontsource/
 ---
-## مُنشئ SystemFontSource
+## SystemFontSource constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public SystemFontSource()
@@ -19,3 +19,5 @@ public SystemFontSource()
 * class [SystemFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

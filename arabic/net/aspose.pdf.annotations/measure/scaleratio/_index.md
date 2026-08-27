@@ -1,12 +1,12 @@
 ---
-title: Measure.ScaleRatio
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. سلسلة نصية تعبر عن نسبة مقياس الرسم
+title: "Measure.ScaleRatio"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. سلسلة نصية تعبر عن نسبة مقياس الرسم"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/measure/scaleratio/
 ---
-## خاصية Measure.ScaleRatio
+## Measure.ScaleRatio property
 
 سلسلة نصية تعبر عن نسبة مقياس الرسم.
 
@@ -19,3 +19,5 @@ public string ScaleRatio { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

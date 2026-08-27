@@ -1,14 +1,14 @@
 ---
-title: TocInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TocInfo. تحصل أو تعين عنوان جدول المحتويات
+title: "TocInfo.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TocInfo. تحصل أو تعين عنوان جدول المحتويات"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/tocinfo/title/
 ---
-## خاصية TocInfo.Title
+## TocInfo.Title property
 
-تحصل أو تعين عنوان جدول المحتويات.
+يحصل أو يعيّن عنوان جدول المحتويات.
 
 ```csharp
 public TextFragment Title { get; set; }
@@ -20,3 +20,5 @@ public TextFragment Title { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

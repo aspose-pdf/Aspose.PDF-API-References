@@ -1,25 +1,27 @@
 ---
-title: SetFlat.SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetFlat. يُهيئ المُشغل
+title: "SetFlat.SetFlat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetFlat. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setflat/setflat/
 ---
-## مُنشئ SetFlat
+## SetFlat constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetFlat(double flatness)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| flatness | Double | قيمة التسطيح. |
+| السطحية | Double | قيمة السطحية. |
 
 ### انظر أيضًا
 
 * class [SetFlat](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

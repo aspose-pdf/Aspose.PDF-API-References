@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacement. تحصل على معلمات التركيب لحالة الرسوميات النشطة للصورة الموضوعة في الصفحة
+title: "ImagePlacement.CompositingParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacement. تحصل على معلمات التركيب لحالة الرسومات النشطة للصورة الموضوعة في الصفحة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/imageplacement/compositingparameters/
 ---
-## خاصية ImagePlacement.CompositingParameters
+## ImagePlacement.CompositingParameters property
 
-تحصل على معلمات التركيب لحالة الرسوميات النشطة للصورة الموضوعة في الصفحة.
+يحصل على معلمات التركيب لحالة الرسومات النشطة للصورة الموضوعة في الصفحة.
 
 ```csharp
 public CompositingParameters CompositingParameters { get; }
@@ -20,3 +20,5 @@ public CompositingParameters CompositingParameters { get; }
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Position.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Position. تحصل على تمثيل نصي لكائن Position الحالي
+title: "Position.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Position. يحصل على تمثيل نصي للكائن Position الحالي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/position/tostring/
 ---
-## طريقة Position.ToString
+## Position.ToString method
 
-تحصل على تمثيل نصي لكائن [`Position`](../) الحالي.
+يحصل على تمثيل نصي للكائن [`Position`](../) الحالي.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### انظر أيضًا
 
-* فئة [Position](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

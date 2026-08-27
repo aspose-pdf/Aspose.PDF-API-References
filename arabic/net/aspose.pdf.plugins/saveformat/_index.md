@@ -1,9 +1,9 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.SaveFormat enum. يسمح بتحديد تنسيق ملف .doc أو .docx
+title: "تعداد SaveFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Plugins.SaveFormat. يسمح بتحديد تنسيق ملف .doc أو .docx"
 type: docs
-weight: 9220
+weight: 9370
 url: /ar/net/aspose.pdf.plugins/saveformat/
 ---
 ## SaveFormat enumeration
@@ -14,14 +14,16 @@ url: /ar/net/aspose.pdf.plugins/saveformat/
 public enum SaveFormat
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Doc | `0` | \c \[MS-DOC]: تنسيق ملف Word (.doc) الثنائي |
 | DocX | `1` | تنسيق ملف Office Open XML (.docx) |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

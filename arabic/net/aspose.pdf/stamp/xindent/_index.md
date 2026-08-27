@@ -1,14 +1,14 @@
 ---
-title: Stamp.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. إحداثي الطابع الأفقي بدءًا من اليسار
+title: "Stamp.XIndent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. إحداثي الطابع الأفقي يبدأ من اليسار"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/stamp/xindent/
 ---
-## خاصية Stamp.XIndent
+## Stamp.XIndent property
 
-إحداثي الطابع الأفقي، بدءًا من اليسار.
+إحداثي الطابع الأفقي، يبدأ من اليسار.
 
 ```csharp
 public virtual double XIndent { get; set; }
@@ -19,3 +19,5 @@ public virtual double XIndent { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

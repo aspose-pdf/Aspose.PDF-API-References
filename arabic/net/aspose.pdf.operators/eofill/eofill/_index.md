@@ -1,14 +1,14 @@
 ---
-title: EOFill.EOFill
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EOFill. يقوم بتهيئة المشغل
+title: "EOFill.EOFill"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ EOFill. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/eofill/eofill/
 ---
-## مُنشئ EOFill
+## EOFill constructor
 
-يقوم بتهيئة المشغل.
+يُهيئ العامل.
 
 ```csharp
 public EOFill()
@@ -19,3 +19,5 @@ public EOFill()
 * class [EOFill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

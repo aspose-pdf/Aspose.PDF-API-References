@@ -1,29 +1,31 @@
 ---
-title: Enum TextEditOptions.ClippingPathsProcessingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode enum. أوضاع معالجة مسارات القص
+title: "التعداد TextEditOptions.ClippingPathsProcessingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode. أوضاع معالجة مسار القص"
 type: docs
-weight: 10830
+weight: 11010
 url: /ar/net/aspose.pdf.text/texteditoptions.clippingpathsprocessingmode/
 ---
 ## TextEditOptions.ClippingPathsProcessingMode enumeration
 
-أوضاع معالجة مسارات القص
+أوضاع معالجة مسار القص
 
 ```csharp
 public enum ClippingPathsProcessingMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| KeepIntact | `0` | يحتفظ بمسارات القص من تخطيط الصفحة الأصلية. (افتراضي) |
-| Expand | `1` | سيتم توسيع مسار القص الأصلي في حالة احتياج النص المعدل لمزيد من المساحة. |
-| Remove | `2` | سيتم إزالة مسار القص الأصلي في حالة احتياج النص المعدل لمزيد من المساحة. تحذير: نظرًا لأن مسارات القص قد تتفاعل مع بعضها البعض، فإن إزالتها قد تؤدي إلى نتيجة غير متوقعة في تخطيط الصفحة. |
+| KeepIntact | `0` | يحافظ على مسارات القص لتخطيط الصفحة الأصلي. (الافتراضي) |
+| Expand | `1` | سيتم توسيع مسار القص الأصلي في حال احتياج النص المُحرر إلى مساحة أكبر. |
+| Remove | `2` | سيتم إزالة مسار القص الأصلي في حال احتياج النص المُحرر إلى مساحة أكبر. تحذير: قد تتفاعل مسارات القص مع بعضها البعض، وإزالتها قد تؤدي إلى نتائج غير متوقعة في تخطيط الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextEditOptions](../texteditoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

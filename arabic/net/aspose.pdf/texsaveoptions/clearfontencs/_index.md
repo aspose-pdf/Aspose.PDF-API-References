@@ -1,21 +1,23 @@
 ---
-title: TeXSaveOptions.ClearFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TeXSaveOptions. تمسح قائمة ترميز الخطوط
+title: "TeXSaveOptions.ClearFontEncs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TeXSaveOptions. تمسح قائمة ترميز الخطوط"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/texsaveoptions/clearfontencs/
 ---
 ## TeXSaveOptions.ClearFontEncs method
 
-Clears the font encoding list
+يمسح قائمة ترميزات الخط
 
 ```csharp
 public void ClearFontEncs()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [TeXSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

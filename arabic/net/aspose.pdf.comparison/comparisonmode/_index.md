@@ -1,14 +1,14 @@
 ---
-title: Enum ComparisonMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.ComparisonMode enum. تعداد وضعيات المقارنة
+title: "تعداد ComparisonMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Comparison.ComparisonMode enum. تعداد وضع المقارنة"
 type: docs
-weight: 3140
+weight: 3250
 url: /ar/net/aspose.pdf.comparison/comparisonmode/
 ---
-## تعداد وضعيات المقارنة
+## ComparisonMode enumeration
 
-تعداد وضعيات المقارنة.
+تعداد وضع المقارنة.
 
 ```csharp
 public enum ComparisonMode
@@ -18,11 +18,13 @@ public enum ComparisonMode
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Normal | `0` | وضع عادي. يتم أخذ المسافات داخل أجزاء النص في الاعتبار فقط (اعتمادًا على طريقة إنشاء الوثيقة.) |
+| Normal | `0` | الوضع العادي. يتم أخذ المسافات داخل قطع النص فقط في الاعتبار (اعتمادًا على طريقة إنشاء المستند.) |
 | IgnoreSpaces | `1` | يتم تجاهل جميع المسافات. يتم البحث عن التغييرات فقط في الكلمات. |
-| ParseSpaces | `2` | الوضع مشابه للوضع العادي، ولكنه يحاول أخذ المسافات البصرية بين أجزاء النص في الاعتبار بناءً على المسافة. قد لا يكون التعرف على عدد المسافات بين الأجزاء دقيقًا لأن ذلك يعتمد بشكل كبير على كيفية إنشاء الوثائق. إذا تم إنشاء الوثائق بواسطة مولدات مختلفة، فقد تكون هناك عدم دقة في مقارنة المسافات بين أجزاء النص. |
+| ParseSpaces | `2` | الوضع مشابه للوضع العادي، لكنه يحاول مراعاة التباعد البصري بين قطع النص بناءً على المسافة. قد لا يكون التعرف على عدد المسافات بين القطع دقيقًا لأن ذلك يعتمد بشكل كبير على طريقة إنشاء المستندات. إذا تم إنشاء المستندات بواسطة مولدات مختلفة، قد تكون هناك عدم دقة في مقارنة المسافات بين قطع النص. |
 
 ### انظر أيضًا
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

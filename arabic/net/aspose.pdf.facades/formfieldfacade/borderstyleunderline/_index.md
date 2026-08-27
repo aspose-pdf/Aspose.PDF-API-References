@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleUnderline
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد نمط الحدود تحت الخط
+title: "FormFieldFacade.BorderStyleUnderline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade field. يحدد نمط حد مسطر"
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderstyleunderline/
 ---
-## حقل FormFieldFacade.BorderStyleUnderline
+## FormFieldFacade.BorderStyleUnderline field
 
-يحدد نمط الحدود تحت الخط.
+يحدد نمط حد مسطر.
 
 ```csharp
 public const int BorderStyleUnderline;
@@ -19,3 +19,5 @@ public const int BorderStyleUnderline;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

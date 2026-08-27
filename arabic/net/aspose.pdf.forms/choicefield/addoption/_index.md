@@ -1,24 +1,24 @@
 ---
-title: ChoiceField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ChoiceField. تضيف خيارًا جديدًا بالاسم المحدد
+title: "ChoiceField.AddOption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ChoiceField. يضيف خيارًا جديدًا بالاسم المحدد"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.forms/choicefield/addoption/
 ---
 ## AddOption(string) {#addoption}
 
-تضيف خيارًا جديدًا بالاسم المحدد.
+يضيف خيارًا جديدًا بالاسم المحدد.
 
 ```csharp
 public virtual void AddOption(string optionName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | optionName | String | اسم الخيار الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -28,19 +28,21 @@ public virtual void AddOption(string optionName)
 
 ## AddOption(string, string) {#addoption_1}
 
-تضيف خيارًا جديدًا بقيمة تصدير محددة واسم.
+يضيف خيارًا جديدًا بقيمة تصدير واسم محددين.
 
 ```csharp
 public virtual void AddOption(string export, string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| export | String | قيمة التصدير. |
-| name | String | اسم الخيار الجديد. |
+| تصدير | String | قيمة التصدير. |
+| الاسم | String | اسم الخيار الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionRequest. تحدد أو تحصل على ما إذا كان يجب بث الاستجابة
+title: "LlamaChatCompletionRequest.Stream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionRequest. تعين أو تحصل على ما إذا كان يجب تدفق الاستجابة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/llamachatcompletionrequest/stream/
 ---
-## خاصية LlamaChatCompletionRequest.Stream
+## LlamaChatCompletionRequest.Stream property
 
-تحدد أو تحصل على ما إذا كان يجب بث الاستجابة.
+يضبط أو يحصل على ما إذا كان يجب تدفق الاستجابة.
 
 ```csharp
 public bool? Stream { get; set; }
@@ -19,3 +19,5 @@ public bool? Stream { get; set; }
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

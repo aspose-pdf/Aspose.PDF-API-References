@@ -1,22 +1,22 @@
 ---
-title: ActionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ActionCollection. تضيف إجراءً جديدًا إلى المجموعة
+title: "ActionCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ActionCollection. تضيف إجراءً جديدًا إلى colleciton"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/actioncollection/add/
 ---
-## طريقة ActionCollection.Add
+## ActionCollection.Add method
 
-تضيف إجراءً جديدًا إلى المجموعة.
+يضيف إجراءً جديدًا إلى المجموعة.
 
 ```csharp
 public void Add(PdfAction action)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| action | PdfAction | الإجراء الذي يجب إضافته. |
+| إجراء | PdfAction | الإجراء الذي يجب إضافته. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(PdfAction action)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FitBVExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FitBVExplicitDestination. تحول حالة الكائن إلى قيمة نصية. مثال 1 FitBV 100
+title: "FitBVExplicitDestination.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FitBVExplicitDestination. تحول حالة الكائن إلى قيمة نصية. مثال 1 FitBV 100"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/fitbvexplicitdestination/tostring/
 ---
-## طريقة FitBVExplicitDestination.ToString
+## FitBVExplicitDestination.ToString method
 
-تحول حالة الكائن إلى قيمة نصية. مثال: "1 FitBV 100".
+يحوّل حالة الكائن إلى قيمة نصية. مثال: "1 FitBV 100".
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [FitBVExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

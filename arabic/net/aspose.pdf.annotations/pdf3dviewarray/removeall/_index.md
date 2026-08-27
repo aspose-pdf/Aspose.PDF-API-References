@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.RemoveAll
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DViewArray. تزيل جميع العروض
+title: "PDF3DViewArray.RemoveAll"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DViewArray. تزيل جميع العروض"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/pdf3dviewarray/removeall/
 ---
-## طريقة PDF3DViewArray.RemoveAll
+## PDF3DViewArray.RemoveAll method
 
-تزيل جميع العروض.
+يزيل جميع العروض.
 
 ```csharp
 public void RemoveAll()
@@ -19,3 +19,5 @@ public void RemoveAll()
 * class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

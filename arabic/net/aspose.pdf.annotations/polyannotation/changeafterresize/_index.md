@@ -1,22 +1,22 @@
 ---
-title: PolyAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PolyAnnotation. تقوم بتحديث النقاط في Vertices وفقًا لتحويل المصفوفة
+title: "PolyAnnotation.ChangeAfterResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PolyAnnotation. تُحدّث النقاط في Vertices وفقًا لتحويل المصفوفة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/polyannotation/changeafterresize/
 ---
-## طريقة PolyAnnotation.ChangeAfterResize
+## PolyAnnotation.ChangeAfterResize method
 
-تقوم بتحديث النقاط في Vertices، وفقًا لتحويل المصفوفة.
+يقوم بتحديث النقاط في Vertices وفقًا لتحويل المصفوفة.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | مصفوفة تحدد التحويل. |
+| تحويل | Matrix | المصفوفة التي تحدد التحويل. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void ChangeAfterResize(Matrix transform)
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

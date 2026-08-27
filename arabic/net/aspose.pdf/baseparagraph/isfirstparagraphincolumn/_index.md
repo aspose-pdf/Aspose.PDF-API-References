@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.IsFirstParagraphInColumn
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseParagraph. تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. 
+title: "BaseParagraph.IsFirstParagraphInColumn"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseParagraph. يحصل أو يعيّن قيمة bool تُشير إلى ما إذا كانت هذه الفقرة ستظهر في العمود التالي. القيمة الافتراضية هي false. لتوليد PDF."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/
 ---
-## خاصية BaseParagraph.IsFirstParagraphInColumn
+## BaseParagraph.IsFirstParagraphInColumn property
 
-تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF)
+الحصول على أو تعيين قيمة bool تشير إلى ما إذا كان هذا الفقرة سيظهر في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF)
 
 ```csharp
 public bool IsFirstParagraphInColumn { get; set; }
@@ -19,3 +19,5 @@ public bool IsFirstParagraphInColumn { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

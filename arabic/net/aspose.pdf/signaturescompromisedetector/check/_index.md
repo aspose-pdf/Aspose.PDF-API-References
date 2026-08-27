@@ -1,30 +1,30 @@
 ---
-title: SignaturesCompromiseDetector.Check
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SignaturesCompromiseDetector. تحقق من التوقيعات الرقمية للمستند من أجل الكشف عن التلاعب
+title: "SignaturesCompromiseDetector.Check"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SignaturesCompromiseDetector. تحقق من التوقيعات الرقمية للمستند بحثًا عن اختراق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/signaturescompromisedetector/check/
 ---
-## طريقة SignaturesCompromiseDetector.Check
+## SignaturesCompromiseDetector.Check method
 
-تحقق من التوقيعات الرقمية للمستند من أجل الكشف عن التلاعب.
+تحقق من التوقيعات الرقمية للمستند للبحث عن اختراق.
 
 ```csharp
 public bool Check(out CompromiseCheckResult compromiseCheckResult)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | compromiseCheckResult | CompromiseCheckResult& | نتيجة التحقق من المستند. |
 
 ### قيمة الإرجاع
 
-صحيح، إذا لم يتم الكشف عن تلاعب في التوقيعات.
+`True`، إذا لم يتم اكتشاف اختراق التوقيعات.
 
 ## ملاحظات
 
-استخدام هذه الطريقة لمستند لا يحتوي على توقيعات رقمية سيعيد `True`.
+استخدام هذه الطريقة على مستند لا يحتوي على توقيعات رقمية سيعيد `True`.
 
 ### انظر أيضًا
 
@@ -32,3 +32,5 @@ public bool Check(out CompromiseCheckResult compromiseCheckResult)
 * class [SignaturesCompromiseDetector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

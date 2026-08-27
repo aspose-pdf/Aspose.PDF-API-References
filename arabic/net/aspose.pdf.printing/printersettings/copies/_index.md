@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.Copies
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PrinterSettings. تحصل أو تعين عدد النسخ للطباعة
+title: "PrinterSettings.Copies"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. تحصل أو تعيين عدد النسخ للطباعة."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.printing/printersettings/copies/
 ---
-## خاصية PrinterSettings.Copies
+## PrinterSettings.Copies property
 
-تحصل أو تعين عدد النسخ للطباعة.
+يحصل أو يعيّن عدد النسخ للطباعة.
 
 ```csharp
 public short Copies { get; set; }
@@ -19,3 +19,5 @@ public short Copies { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

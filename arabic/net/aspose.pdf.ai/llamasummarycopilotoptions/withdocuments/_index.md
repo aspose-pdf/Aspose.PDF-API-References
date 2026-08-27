@@ -1,26 +1,26 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تعيين مجموعة الوثائق لخيارات مساعد الملخص
+title: "LlamaSummaryCopilotOptions.WithDocuments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تعيّن مجموعة المستندات لخيارات مساعد الملخص."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-تعيين مجموعة الوثائق لخيارات مساعد الملخص.
+يعيّن مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(DocumentCollection documentCollection)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | مجموعة الوثائق التي سيتم تعيينها. |
+| documentCollection | DocumentCollection | مجموعة المستندات المراد تحديدها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
@@ -33,19 +33,19 @@ public LlamaSummaryCopilotOptions WithDocuments(DocumentCollection documentColle
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-يضيف مستندات نصية متعددة إلى مجموعة الوثائق لخيارات مساعد الملخص.
+يضيف عدة مستندات نصية إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| textDocuments | List`1 | قائمة المستندات النصية التي سيتم إضافتها. |
+| textDocuments | List`1 | قائمة مستندات النص لإضافتها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
@@ -58,19 +58,19 @@ public LlamaSummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-يضيف مستندات PDF متعددة إلى مجموعة الوثائق لخيارات مساعد الملخص.
+يضيف عدة مستندات PDF إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfDocuments | List`1 | قائمة مستندات PDF التي سيتم إضافتها. |
+| pdfDocuments | List`1 | قائمة مستندات PDF للإضافة. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
@@ -83,22 +83,24 @@ public LlamaSummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-يضيف مسارات مستندات متعددة إلى مجموعة الوثائق لخيارات مساعد الملخص.
+يضيف عدة مسارات مستندات إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<string> filePaths)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePaths | List`1 | قائمة مسارات الملفات التي سيتم إضافتها. |
+| filePaths | List`1 | قائمة مسارات الملفات للإضافة. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

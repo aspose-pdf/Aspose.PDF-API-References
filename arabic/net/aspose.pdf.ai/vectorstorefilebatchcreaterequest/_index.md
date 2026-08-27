@@ -1,32 +1,34 @@
 ---
-title: Class VectorStoreFileBatchCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest. إنشاء طلب دفعة ملف مخزن متجه
+title: "الفئة VectorStoreFileBatchCreateRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest. إنشاء طلب دفعة ملفات مخزن المتجهات."
 type: docs
-weight: 1280
+weight: 1370
 url: /ar/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/
 ---
 ## VectorStoreFileBatchCreateRequest class
 
-إنشاء طلب دفعة ملف مخزن متجه.
+إنشاء طلب دفعة ملفات مخزن المتجهات.
 
 ```csharp
 public class VectorStoreFileBatchCreateRequest
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorStoreFileBatchCreateRequest](vectorstorefilebatchcreaterequest/)() | المُنشئ الافتراضي. |
+| [VectorStoreFileBatchCreateRequest](vectorstorefilebatchcreaterequest/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | يحصل أو يحدد قائمة معرفات الملفات التي يجب أن يستخدمها المخزن المتجه. مفيد للأدوات مثل file_search التي يمكنها الوصول إلى الملفات. |
+| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | يحصل أو يعيّن قائمة بمعرفات الملفات التي يجب أن يستخدمها مخزن المتجهات. مفيد للأدوات مثل file_search التي يمكنها الوصول إلى الملفات. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

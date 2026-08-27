@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.ReplyType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupAnnotation. سلسلة تحدد العلاقة بين نوع الرد بين هذه التعليق وواحد محدد بواسطة InReplyTo
+title: "MarkupAnnotation.ReplyType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupAnnotation. سلسلة تحدد علاقة نوع الرد بين هذا التعليق والآخر المحدد بـ InReplyTo"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/markupannotation/replytype/
 ---
-## خاصية MarkupAnnotation.ReplyType
+## MarkupAnnotation.ReplyType property
 
-سلسلة تحدد العلاقة ("نوع الرد") بين هذه التعليق وواحد محدد بواسطة InReplyTo.
+سلسلة تحدد العلاقة ("نوع الرد") بين هذا التعليق وتلك المحددة بـ InReplyTo.
 
 ```csharp
 public ReplyType ReplyType { get; set; }
@@ -20,3 +20,5 @@ public ReplyType ReplyType { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

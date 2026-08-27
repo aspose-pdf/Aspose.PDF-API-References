@@ -1,14 +1,14 @@
 ---
-title: Stamp.TopMargin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Stamp. تحصل أو تعين الهامش العلوي للختم
+title: "Stamp.TopMargin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. تحصل أو تعيين الهامش العلوي للطابع"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/stamp/topmargin/
 ---
-## خاصية Stamp.TopMargin
+## Stamp.TopMargin property
 
-تحصل أو تعين الهامش العلوي للختم.
+يحصل أو يضبط الهامش العلوي للطابع.
 
 ```csharp
 public double TopMargin { get; set; }
@@ -19,3 +19,5 @@ public double TopMargin { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

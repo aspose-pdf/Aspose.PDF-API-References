@@ -1,12 +1,12 @@
 ---
-title: HeaderArtifact.HeaderArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ HeaderArtifact. ينشئ مثيل Header Artifact
+title: "HeaderArtifact.HeaderArtifact"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ HeaderArtifact. ينشئ مثيل Header Artifact"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/headerartifact/headerartifact/
 ---
-## مُنشئ HeaderArtifact
+## HeaderArtifact constructor
 
 ينشئ مثيل Header Artifact.
 
@@ -19,3 +19,5 @@ public HeaderArtifact()
 * class [HeaderArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,28 @@
 ---
-title: OutlineItemCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutlineItemCollection. إزالة عنصر من مجموعة المخطط
+title: "OutlineItemCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutlineItemCollection. إزالة عنصر مجموعة المخطط"
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf/outlineitemcollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-إزالة عنصر من مجموعة المخطط.
+إزالة عنصر مجموعة المخطط.
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | OutlineItemCollection | العنصر المراد حذفه. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح - إذا تم إزالة العنصر؛ خلاف ذلك، خطأ.
+صحيح - إذا تم إزالة العنصر؛ وإلا، خطأ.
 
-### See Also
+### انظر أيضًا
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -32,18 +32,20 @@ public override bool Remove(OutlineItemCollection item)
 
 ## Remove(int) {#remove_1}
 
-إزالة العنصر بواسطة الفهرس.
+إزالة العنصر حسب الفهرس.
 
 ```csharp
 public void Remove(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس العنصر المراد حذفه. |
+| index | Int32 | فهرس العنصر الذي سيتم حذفه. |
 
-### See Also
+### انظر أيضًا
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

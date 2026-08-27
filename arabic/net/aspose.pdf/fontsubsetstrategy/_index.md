@@ -1,27 +1,29 @@
 ---
-title: Enum FontSubsetStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontSubsetStrategy enum. تعدد استراتيجيات تقسيم الخطوط
+title: "التعداد FontSubsetStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.FontSubsetStrategy. يعدد استراتيجيات تقليل الخطوط"
 type: docs
-weight: 4910
+weight: 5030
 url: /ar/net/aspose.pdf/fontsubsetstrategy/
 ---
 ## FontSubsetStrategy enumeration
 
-تعدد استراتيجيات تقسيم الخطوط
+يسرد استراتيجيات تقسيم الخطوط.
 
 ```csharp
 public enum FontSubsetStrategy : byte
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SubsetEmbeddedFontsOnly | `0` | يعلن عن تقسيم الخطوط التي تم تضمينها فقط في الوثيقة بالفعل |
-| SubsetAllFonts | `1` | يعلن عن تقسيم جميع الخطوط، سواء كانت مضمنة أو غير مضمنة |
+| SubsetEmbeddedFontsOnly | `0` | يعلن عن تقليل الخطوط التي تم تضمينها في المستند بالفعل فقط |
+| SubsetAllFonts | `1` | يعلن عن تقليل جميع الخطوط، المضمنة وغير المضمنة |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: Rectangle.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المستطيل. تدوير المستطيل بالزاوية المحددة
+title: "Rectangle.Rotate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. تدوير المستطيل بالزاوية المحددة"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf/rectangle/rotate/
 ---
 ## Rotate(Rotation) {#rotate}
 
-قم بتدوير المستطيل بالزاوية المحددة.
+يدور المستطيل بالزاوية المحددة.
 
 ```csharp
 public void Rotate(Rotation angle)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| angle | Rotation | زاوية التدوير. عضو من تعداد Rotation. |
+| زاوية | دوران | زاوية الدوران. عضو في تعداد Rotation. |
 
-### See Also
+### انظر أيضًا
 
 * enum [Rotation](../../rotation/)
 * class [Rectangle](../)
@@ -29,18 +29,20 @@ public void Rotate(Rotation angle)
 
 ## Rotate(int) {#rotate_1}
 
-قم بتدوير المستطيل بالزاوية المحددة.
+يدور المستطيل بالزاوية المحددة.
 
 ```csharp
 public void Rotate(int angle)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| angle | Int32 | زاوية التدوير بالدرجات بين 0 و 360. |
+| زاوية | Int32 | زاوية الدوران بالدرجات بين 0 و 360. |
 
-### See Also
+### انظر أيضًا
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Cell.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلية. تحصل أو تعين المحاذاة الرأسية
+title: "Cell.VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cell. يحصل أو يحدد المحاذاة العمودية"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/cell/verticalalignment/
 ---
-## خاصية محاذاة العمود الرأسية
+## Cell.VerticalAlignment property
 
-تحصل أو تعين المحاذاة الرأسية.
+الحصول أو تعيين المحاذاة العمودية.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

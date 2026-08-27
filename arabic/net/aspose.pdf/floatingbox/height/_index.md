@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FloatingBox. تحصل أو تعين قيمة عائمة تشير إلى ارتفاع صندوق العائم
+title: "FloatingBox.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FloatingBox. تحصل أو تعين قيمة float التي تحدد ارتفاع الصندوق العائم"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/floatingbox/height/
 ---
-## خاصية FloatingBox.Height
+## FloatingBox.Height property
 
-تحصل أو تعين قيمة عائمة تشير إلى ارتفاع صندوق العائم.
+يحصل أو يعيّن قيمة عائمة تحدد ارتفاع الصندوق العائم.
 
 ```csharp
 public double Height { get; set; }
@@ -19,3 +19,5 @@ public double Height { get; set; }
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

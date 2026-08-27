@@ -1,33 +1,35 @@
 ---
-title: Class TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.TextDocument. تمثل مستند نصي باسم ومحتوى
+title: "الفئة TextDocument"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.TextDocument. تمثل مستند نصي يحتوي على اسم ومحتوى"
 type: docs
-weight: 1090
+weight: 1170
 url: /ar/net/aspose.pdf.ai/textdocument/
 ---
 ## TextDocument class
 
-تمثل مستند نصي باسم ومحتوى.
+يمثل مستند نصي يحتوي على اسم ومحتوى.
 
 ```csharp
 public class TextDocument
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextDocument](textdocument/)() | المُنشئ الافتراضي. |
+| [TextDocument](textdocument/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Content](../../aspose.pdf.ai/textdocument/content/) { get; set; } | يحصل على أو يحدد محتوى المستند النصي. |
-| [Name](../../aspose.pdf.ai/textdocument/name/) { get; set; } | يحصل على أو يحدد اسم المستند النصي. |
+| [Content](../../aspose.pdf.ai/textdocument/content/) { get; set; } | يحصل أو يعيّن محتوى المستند النصي. |
+| [Name](../../aspose.pdf.ai/textdocument/name/) { get; set; } | يحصل أو يعيّن اسم المستند النصي. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AssistantCreateRequest.Description
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AssistantCreateRequest. تحصل أو تعين وصف المساعد. الحد الأقصى للطول هو 512 حرف
+title: "AssistantCreateRequest.Description"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AssistantCreateRequest. تحصل أو تعين وصف المساعد. الحد الأقصى للطول هو 512 حرفًا."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/assistantcreaterequest/description/
 ---
-## خاصية AssistantCreateRequest.Description
+## AssistantCreateRequest.Description property
 
-تحصل أو تعين وصف المساعد. الحد الأقصى للطول هو 512 حرف.
+يحصل أو يعيّن وصف المساعد. الحد الأقصى للطول هو 512 حرفًا.
 
 ```csharp
 public string Description { get; set; }
@@ -19,3 +19,5 @@ public string Description { get; set; }
 * class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

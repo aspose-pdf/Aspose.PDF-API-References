@@ -1,12 +1,12 @@
 ---
-title: OperatorSelector.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OperatorSelector. قائمة الكائنات المحددة
+title: "OperatorSelector.Selected"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OperatorSelector. قائمة الكائنات المحددة."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/operatorselector/selected/
 ---
-## خاصية OperatorSelector.Selected
+## OperatorSelector.Selected property
 
 قائمة الكائنات المحددة.
 
@@ -20,3 +20,5 @@ public IList<Operator> Selected { get; }
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

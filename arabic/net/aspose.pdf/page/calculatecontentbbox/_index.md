@@ -1,14 +1,14 @@
 ---
-title: Page.CalculateContentBBox
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تحسب قيمة bbox - المستطيل الذي يحتوي على المحتويات بدون هوامش مرئية
+title: "Page.CalculateContentBBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تحسب قيمة bbox  المستطيل الذي يحتوي المحتوى دون هوامش مرئية"
 type: docs
 weight: 390
 url: /ar/net/aspose.pdf/page/calculatecontentbbox/
 ---
-## طريقة Page.CalculateContentBBox
+## Page.CalculateContentBBox method
 
-تحسب قيمة bbox - المستطيل الذي يحتوي على المحتويات بدون هوامش مرئية.
+يحسب قيمة bbox - المستطيل الذي يحتوي على المحتوى دون الهوامش المرئية.
 
 ```csharp
 public Rectangle CalculateContentBBox()
@@ -16,7 +16,7 @@ public Rectangle CalculateContentBBox()
 
 ### قيمة الإرجاع
 
-قيمة bbox - المستطيل الذي يحتوي على المحتويات بدون هوامش مرئية
+قيمة Bbox - المستطيل الذي يحتوي المحتوى دون هوامش مرئية
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Rectangle CalculateContentBBox()
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

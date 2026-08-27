@@ -1,14 +1,14 @@
 ---
-title: EOClip.EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EOClip. يقوم بتهيئة المشغل
+title: "EOClip.EOClip"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ EOClip. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/eoclip/eoclip/
 ---
-## مُنشئ EOClip
+## EOClip constructor
 
-يقوم بتهيئة المشغل.
+يُهيئ العامل.
 
 ```csharp
 public EOClip()
@@ -19,3 +19,5 @@ public EOClip()
 * class [EOClip](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

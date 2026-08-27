@@ -1,14 +1,14 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageFilterType enum. تعداد يمثل نوع فلتر الصورة
+title: "التعداد ImageFilterType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.ImageFilterType. تعداد يمثل نوع مرشح الصورة."
 type: docs
-weight: 5890
+weight: 6020
 url: /ar/net/aspose.pdf/imagefiltertype/
 ---
-## تعداد ImageFilterType
+## ImageFilterType enumeration
 
-تعداد يمثل نوع فلتر الصورة.
+تعداد يمثل نوع مرشح الصورة.
 
 ```csharp
 public enum ImageFilterType
@@ -21,9 +21,11 @@ public enum ImageFilterType
 | Jpeg2000 | `0` | Jpeg 2000. |
 | Jpeg | `1` | Jpeg. |
 | Flate | `2` | Flate. |
-| CCITTFax | `3` | CCIT Fax. |
+| CCITTFax | `3` | CCIT فاكس. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultExtensionNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: حقل XmpPdfAExtensionSchema. بادئة مساحة الاسم الافتراضية
+title: "XmpPdfAExtensionSchema.DefaultExtensionNamespacePrefix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpPdfAExtensionSchema حقل. بادئة مساحة اسم الامتداد الافتراضية"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix/
 ---
-## حقل XmpPdfAExtensionSchema.DefaultExtensionNamespacePrefix
+## XmpPdfAExtensionSchema.DefaultExtensionNamespacePrefix field
 
-بادئة مساحة الاسم الافتراضية.
+بادئة مساحة الاسم الامتدادية الافتراضية.
 
 ```csharp
 public const string DefaultExtensionNamespacePrefix;
@@ -19,3 +19,5 @@ public const string DefaultExtensionNamespacePrefix;
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

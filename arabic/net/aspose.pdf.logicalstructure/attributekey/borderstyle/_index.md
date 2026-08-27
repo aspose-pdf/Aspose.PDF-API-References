@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية BorderStyle مالك خاصية التخطيط
+title: "AttributeKey.BorderStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. BorderStyle خاصية تخطيط خاصية المالك"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/borderstyle/
 ---
-## حقل AttributeKey.BorderStyle
+## AttributeKey.BorderStyle field
 
-خاصية BorderStyle (مالك خاصية التخطيط).
+خاصية BorderStyle (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey BorderStyle;
@@ -19,3 +19,5 @@ public static readonly AttributeKey BorderStyle;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

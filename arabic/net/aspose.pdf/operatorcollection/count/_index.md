@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OperatorCollection. تحصل على عدد المشغلين في المجموعة
+title: "OperatorCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OperatorCollection. تُعيد عدد المشغلات في المجموعة."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/operatorcollection/count/
 ---
-## خاصية OperatorCollection.Count
+## OperatorCollection.Count property
 
-تحصل على عدد المشغلين في المجموعة.
+يحصل على عدد المشغلات في المجموعة.
 
 ```csharp
 public override int Count { get; }
@@ -19,3 +19,5 @@ public override int Count { get; }
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

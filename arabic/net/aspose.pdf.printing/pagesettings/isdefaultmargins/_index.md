@@ -1,12 +1,12 @@
 ---
-title: PageSettings.IsDefaultMargins
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSettings.
+title: "PageSettings.IsDefaultMargins"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSettings."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.printing/pagesettings/isdefaultmargins/
 ---
-## خاصية PageSettings.IsDefaultMargins
+## PageSettings.IsDefaultMargins property
 
 ```csharp
 public bool IsDefaultMargins { get; }
@@ -17,3 +17,5 @@ public bool IsDefaultMargins { get; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

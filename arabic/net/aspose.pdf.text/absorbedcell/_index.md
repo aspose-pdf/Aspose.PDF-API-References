@@ -1,14 +1,14 @@
 ---
-title: Class AbsorbedCell
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.AbsorbedCell. تمثل خلية من جدول موجودة على الصفحة
+title: "الفئة AbsorbedCell"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Text.AbsorbedCell class. تمثل خلية جدول موجودة في الصفحة"
 type: docs
-weight: 10410
+weight: 10590
 url: /ar/net/aspose.pdf.text/absorbedcell/
 ---
-## فئة AbsorbedCell
+## AbsorbedCell class
 
-تمثل خلية من جدول موجودة على الصفحة
+يمثل خلية جدول موجودة في الصفحة.
 
 ```csharp
 public class AbsorbedCell : IComparable<AbsorbedCell>, ITableElement
@@ -18,19 +18,21 @@ public class AbsorbedCell : IComparable<AbsorbedCell>, ITableElement
 
 | الاسم | الوصف |
 | --- | --- |
-| [BorderInfo](../../aspose.pdf.text/absorbedcell/borderinfo/) { get; } | يعيد معلومات الحدود للخلية عندما تكون خاصية FlowEngine.TableAbsorber.UseFlowEngine مضبوطة على true. |
-| [ColSpan](../../aspose.pdf.text/absorbedcell/colspan/) { get; } | يعيد عدد الأعمدة التي يجب أن تمتد إليها الخلية عندما تكون خاصية TableAbsorber.UseFlowEngine مضبوطة على true. |
-| [Rectangle](../../aspose.pdf.text/absorbedcell/rectangle/) { get; } | يحصل على مستطيل يصف موقع الخلية على الصفحة |
-| [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments/) { get; } | يحصل على مجموعة من [`TextFragment`](../textfragment/) التي تصف النص الموجود في الخلية |
+| [BorderInfo](../../aspose.pdf.text/absorbedcell/borderinfo/) { get; } | إرجاع معلومات الحدود للخلية عندما تكون خاصية FlowEngine.TableAbsorber.UseFlowEngine مضبوطة على true. |
+| [ColSpan](../../aspose.pdf.text/absorbedcell/colspan/) { get; } | إرجاع عدد الأعمدة التي يجب أن تمتد إليها الخلية عندما تكون خاصية TableAbsorber.UseFlowEngine مضبوطة على true. |
+| [Rectangle](../../aspose.pdf.text/absorbedcell/rectangle/) { get; } | الحصول على المستطيل الذي يصف موضع الخلية في الصفحة |
+| [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments/) { get; } | الحصول على مجموعة من كائنات [`TextFragment`](../textfragment/) التي تصف النص الموجود في الخلية |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [CompareTo](../../aspose.pdf.text/absorbedcell/compareto/)(AbsorbedCell) | يقارن كائن AbsorbedCell الحالي مع كائن AbsorbedCell آخر ويعيد عددًا صحيحًا يشير إلى ما إذا كان الكائن الحالي يسبق أو يتبع أو يحدث في نفس الموضع في ترتيب الفرز مثل الكائن الآخر. |
+| [CompareTo](../../aspose.pdf.text/absorbedcell/compareto/)(AbsorbedCell) | يقارن كائن AbsorbedCell الحالي بكائن AbsorbedCell آخر ويعيد عددًا صحيحًا يوضح ما إذا كان الكائن الحالي يسبق أو يتبع أو يقع في نفس الموضع في ترتيب الفرز مقارنةً بالكائن الآخر. |
 
 ### انظر أيضًا
 
-* واجهة [ITableElement](../itableelement/)
-* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* interface [ITableElement](../itableelement/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

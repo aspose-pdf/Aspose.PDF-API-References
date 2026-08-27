@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterSmall
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق صغير بحجم رسالة 8.5 بوصة × 11 بوصة
+title: "PaperSizes.LetterSmall"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورقة Letter الصغيرة 8.5 بوصة × 11 بوصة"
 type: docs
 weight: 700
 url: /ar/net/aspose.pdf.printing/papersizes/lettersmall/
 ---
-## حقل PaperSizes.LetterSmall
+## PaperSizes.LetterSmall field
 
-ورق صغير بحجم رسالة (8.5 بوصة × 11 بوصة).
+ورق Letter الصغير (8.5 بوصة × 11 بوصة).
 
 ```csharp
 public static readonly PaperSize LetterSmall;
@@ -20,3 +20,5 @@ public static readonly PaperSize LetterSmall;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

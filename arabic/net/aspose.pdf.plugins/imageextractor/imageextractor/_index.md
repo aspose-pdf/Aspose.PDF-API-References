@@ -1,14 +1,14 @@
 ---
-title: ImageExtractor.ImageExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ImageExtractor. المُنشئ الافتراضي
+title: "ImageExtractor.ImageExtractor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ImageExtractor. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/imageextractor/imageextractor/
 ---
-## مُنشئ ImageExtractor
+## ImageExtractor constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ImageExtractor()
@@ -19,3 +19,5 @@ public ImageExtractor()
 * class [ImageExtractor](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: SetRGBColor.G
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetRGBColor. تحصل أو تعين مكون اللون الأخضر
+title: "SetRGBColor.G"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetRGBColor. يحصل أو يضبط المكوّن الأخضر"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setrgbcolor/g/
 ---
-## خاصية SetRGBColor.G
+## SetRGBColor.G property
 
-تحصل أو تعين مكون اللون الأخضر.
+يحصل أو يضبط المكوّن الأخضر.
 
 ```csharp
 public double G { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مستوى اللون الأخضر من 0.0 إلى 1.0
 
@@ -23,3 +23,5 @@ public double G { get; set; }
 * class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

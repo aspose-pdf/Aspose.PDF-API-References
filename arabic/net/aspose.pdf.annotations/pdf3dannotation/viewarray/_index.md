@@ -1,20 +1,20 @@
 ---
-title: PDF3DAnnotation.ViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DAnnotation. تحصل على مصفوفة العرض
+title: "PDF3DAnnotation.ViewArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DAnnotation. تحصّل على مصفوفة العرض"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/pdf3dannotation/viewarray/
 ---
-## خاصية PDF3DAnnotation.ViewArray
+## PDF3DAnnotation.ViewArray property
 
-تحصل على مصفوفة العرض.
+يحصل على مصفوفة العرض.
 
 ```csharp
 public PDF3DViewArray ViewArray { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مصفوفة العرض.
 
@@ -24,3 +24,5 @@ public PDF3DViewArray ViewArray { get; }
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

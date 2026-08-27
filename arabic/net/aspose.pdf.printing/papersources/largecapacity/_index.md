@@ -1,14 +1,14 @@
 ---
-title: PaperSources.LargeCapacity
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل حاوية السعة الكبيرة للطابعة
+title: "PaperSources.LargeCapacity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل الحاوية ذات السعة الكبيرة للطابعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.printing/papersources/largecapacity/
 ---
-## حقل PaperSources.LargeCapacity
+## PaperSources.LargeCapacity field
 
-يمثل حاوية السعة الكبيرة للطابعة.
+تمثل الصندوق ذو السعة الكبيرة للطابعة.
 
 ```csharp
 public static readonly PaperSource LargeCapacity;
@@ -20,3 +20,5 @@ public static readonly PaperSource LargeCapacity;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

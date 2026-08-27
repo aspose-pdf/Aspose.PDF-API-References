@@ -1,25 +1,27 @@
 ---
-title: MemoryFontSource.MemoryFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MemoryFontSource. يُهيئ مثيلًا جديدًا من فئة MemoryFontSource
+title: "MemoryFontSource.MemoryFontSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "MemoryFontSource constructor. يهيئ مثيلاً جديداً من فئة MemoryFontSource"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/memoryfontsource/memoryfontsource/
 ---
-## مُنشئ MemoryFontSource
+## MemoryFontSource constructor
 
-يُهيئ مثيلًا جديدًا من فئة [`MemoryFontSource`](../).
+يهيئ مثيلاً جديداً من الفئة [`MemoryFontSource`](../).
 
 ```csharp
 public MemoryFontSource(byte[] fontBytes)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fontBytes | Byte[] | مصفوفة بايت ملف الخط. |
+| fontBytes | Byte[] | مصفوفة بايت لملف الخط. |
 
 ### انظر أيضًا
 
-* فئة [MemoryFontSource](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

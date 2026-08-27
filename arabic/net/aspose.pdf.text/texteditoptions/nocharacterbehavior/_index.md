@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.NoCharacterBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextEditOptions. تحصل أو تعين الوضع الذي يحدد السلوك في حالة عدم احتواء الخطوط على الأحرف المطلوبة
+title: "TextEditOptions.NoCharacterBehavior"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextEditOptions. تحصل أو تعيين الوضع الذي يحدد السلوك في حالة عدم احتواء الخطوط على الأحرف المطلوبة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/texteditoptions/nocharacterbehavior/
 ---
-## خاصية TextEditOptions.NoCharacterBehavior
+## TextEditOptions.NoCharacterBehavior property
 
-تحصل أو تعين الوضع الذي يحدد السلوك في حالة عدم احتواء الخطوط على الأحرف المطلوبة.
+يحصل أو يعيّن الوضع الذي يحدد السلوك في حال عدم احتواء الخطوط على الأحرف المطلوبة.
 
 ```csharp
 public NoCharacterAction NoCharacterBehavior { get; set; }
@@ -20,3 +20,5 @@ public NoCharacterAction NoCharacterBehavior { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

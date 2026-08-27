@@ -1,29 +1,31 @@
 ---
-title: LlamaSummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تعيين التعليمات لخيارات ملخص الطيار
+title: "LlamaSummaryCopilotOptions.WithInstructions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تعيّن التعليمات لخيارات مساعد الملخص."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/
 ---
-## طريقة LlamaSummaryCopilotOptions.WithInstructions
+## LlamaSummaryCopilotOptions.WithInstructions method
 
-تعيين التعليمات لخيارات ملخص الطيار.
+يعيّن التعليمات لخيارات ملخص المساعد.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithInstructions(string instructions)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| التعليمات | سلسلة | التعليمات التي يجب تعيينها. |
+| instructions | String | التعليمات التي سيتم ضبطها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [LlamaSummaryCopilotOptions](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

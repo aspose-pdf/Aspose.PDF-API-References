@@ -1,20 +1,20 @@
 ---
-title: CosPdfNumber.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CosPdfNumber. تحصل على القيمة
+title: "CosPdfNumber.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CosPdfNumber. تسترجع القيمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.dataeditor/cospdfnumber/value/
 ---
-## خاصية CosPdfNumber.Value
+## CosPdfNumber.Value property
 
-تحصل على القيمة.
+يحصل على القيمة.
 
 ```csharp
 public double Value { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 القيمة.
 
@@ -23,3 +23,5 @@ public double Value { get; }
 * class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

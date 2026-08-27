@@ -1,14 +1,14 @@
 ---
-title: TextState.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تعين المحاذاة الأفقية للنص
+title: "TextState.HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. يحصل أو يضبط المحاذاة الأفقية للنص"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.text/textstate/horizontalalignment/
 ---
-## خاصية TextState.HorizontalAlignment
+## TextState.HorizontalAlignment property
 
-تحصل أو تعين المحاذاة الأفقية للنص.
+يحصل أو يضبط المحاذاة الأفقية للنص.
 
 ```csharp
 public virtual HorizontalAlignment HorizontalAlignment { get; set; }
@@ -24,3 +24,5 @@ HorizontalAlignment.None يساوي HorizontalAlignment.Left. لاحظ أن خا
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

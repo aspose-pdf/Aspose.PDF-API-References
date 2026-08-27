@@ -1,23 +1,23 @@
 ---
-title: GraphicalPdfComparer.GetDifference
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicalPdfComparer. تحصل على الفروقات بين صور الصفحات. تحتوي النتيجة على صورة من الصفحة الأولى المقارنة ومصفوفة من الفروقات
+title: "GraphicalPdfComparer.GetDifference"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicalPdfComparer. يحصل على الفروقات بين صور الصفحات. النتيجة تحتوي على صورة للصفحة الأولى التي تم مقارنتها ومصفوفة من الفروقات."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/
 ---
-## طريقة GraphicalPdfComparer.GetDifference
+## GraphicalPdfComparer.GetDifference method
 
-تحصل على الفروقات بين صور الصفحات. تحتوي النتيجة على صورة من الصفحة الأولى المقارنة ومصفوفة من الفروقات.
+يحصل على الفروقات بين صور الصفحات. النتيجة تحتوي على صورة للصفحة الأولى المقارنة ومصفوفة من الفروقات.
 
 ```csharp
 public ImagesDifference GetDifference(Page page1, Page page2)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page1 | Page | الصفحة الأولى. |
-| page2 | Page | الصفحة الثانية. |
+| page1 | صفحة | الصفحة الأولى. |
+| page2 | صفحة | الصفحة الثانية. |
 
 ### قيمة الإرجاع
 
@@ -25,9 +25,9 @@ public ImagesDifference GetDifference(Page page1, Page page2)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | إذا كانت الصفحات التي تتم مقارنتها بأحجام مختلفة. |
+| ArgumentException | إذا كانت الصفحات التي يتم مقارنتها ذات أحجام مختلفة. |
 
 ### انظر أيضًا
 
@@ -36,3 +36,5 @@ public ImagesDifference GetDifference(Page page1, Page page2)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

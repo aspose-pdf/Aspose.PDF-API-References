@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Prc32KBigRotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق كبير مقلوب 32K بحجم 97 مم × 151 مم
+title: "PaperSizes.Prc32KBigRotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق 32K كبير مائل 97 مم × 151 مم"
 type: docs
 weight: 840
 url: /ar/net/aspose.pdf.printing/papersizes/prc32kbigrotated/
 ---
-## حقل PaperSizes.Prc32KBigRotated
+## PaperSizes.Prc32KBigRotated field
 
-ورق كبير مقلوب 32K (97 مم × 151 مم).
+ورق 32K كبير مدور (97 مم × 151 مم).
 
 ```csharp
 public static readonly PaperSize Prc32KBigRotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize Prc32KBigRotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

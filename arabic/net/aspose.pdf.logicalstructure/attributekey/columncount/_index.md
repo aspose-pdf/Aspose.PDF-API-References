@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية ColumnCount مالك خاصية التخطيط
+title: "AttributeKey.ColumnCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. ColumnCount سمة Layout سمة المالك"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/columncount/
 ---
-## حقل AttributeKey.ColumnCount
+## AttributeKey.ColumnCount field
 
-خاصية ColumnCount (مالك خاصية التخطيط).
+خاصية ColumnCount (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey ColumnCount;
@@ -19,3 +19,5 @@ public static readonly AttributeKey ColumnCount;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

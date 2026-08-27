@@ -1,20 +1,20 @@
 ---
-title: PDF3DRenderMode.SetAuxiliaryColour
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DRenderMode. تعيين اللون المساعد
+title: "PDF3DRenderMode.SetAuxiliaryColour"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DRenderMode. تضبط اللون المساعد"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/
 ---
-## طريقة PDF3DRenderMode.SetAuxiliaryColour
+## PDF3DRenderMode.SetAuxiliaryColour method
 
-تعيين اللون المساعد.
+يضبط اللون المساعد.
 
 ```csharp
 public PDF3DRenderMode SetAuxiliaryColour(Color color)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | color | Color | اللون. |
 
@@ -28,3 +28,5 @@ PDF3DRenderMode.
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.RotationAngle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphInfo. تحصل أو تعين قيمة عائمة تشير إلى زاوية دوران نظام الإحداثيات عند تحويل نظام إحداثيات
+title: "GraphInfo.RotationAngle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphInfo. يحصل أو يعيّن قيمة عائمة تشير إلى زاوية دوران نظام الإحداثيات عند تحويل نظام إحداثيات"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/graphinfo/rotationangle/
 ---
-## خاصية GraphInfo.RotationAngle
+## GraphInfo.RotationAngle property
 
-تحصل أو تعين قيمة عائمة تشير إلى زاوية دوران نظام الإحداثيات عند تحويل نظام إحداثيات.
+يحصل أو يعيّن قيمة عائمة تشير إلى زاوية الدوران لنظام الإحداثيات عند تحويل نظام الإحداثيات.
 
 ```csharp
 public double RotationAngle { get; set; }
@@ -19,3 +19,5 @@ public double RotationAngle { get; set; }
 * class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

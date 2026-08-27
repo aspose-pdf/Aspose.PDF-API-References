@@ -1,32 +1,34 @@
 ---
-title: Enum EncodingType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.EncodingType enum. يعدد أنواع ترميز النص باستخدام
+title: "تعداد EncodingType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Facades.EncodingType. يعدد أنواع الترميز للنص باستخدام"
 type: docs
-weight: 4240
+weight: 4360
 url: /ar/net/aspose.pdf.facades/encodingtype/
 ---
-## Enumeration EncodingType
+## EncodingType enumeration
 
-يعدد أنواع ترميز النص باستخدام.
+يسرد أنواع ترميز النص المستخدمة.
 
 ```csharp
 public enum EncodingType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Identity_h | `0` | ترميز يونيكود مع الكتابة الأفقية. |
-| Identity_v | `1` | ترميز يونيكود مع الكتابة العمودية. |
-| Cp1250 | `2` | اسم ترميز نصوص ويندوز. |
-| Cp1252 | `3` | اسم ترميز نصوص ويندوز. |
-| Cp1257 | `4` | اسم ترميز نصوص ويندوز. |
-| Winansi | `5` | ترميز ansi لويندوز. |
-| Macroman | `6` | ترميز قياسي لنظام ماك للنصوص اللاتينية. |
+| Identity_h | `0` | ترميز Unicode مع كتابة أفقية. |
+| Identity_v | `1` | ترميز Unicode مع الكتابة العمودية. |
+| Cp1250 | `2` | اسم ترميز نصي لنظام Windows. |
+| Cp1252 | `3` | اسم ترميز نصي لنظام Windows. |
+| Cp1257 | `4` | اسم ترميز نصي لنظام Windows. |
+| Winansi | `5` | ترميز ANSI لنظام Windows. |
+| Macroman | `6` | ترميز قياسي لنظام Mac OS للنص اللاتيني. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

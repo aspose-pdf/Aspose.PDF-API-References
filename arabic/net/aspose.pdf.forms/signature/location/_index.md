@@ -1,12 +1,12 @@
 ---
-title: Signature.Location
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. اسم مضيف وحدة المعالجة المركزية أو الموقع الفعلي للتوقيع
+title: "Signature.Location"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. اسم مضيف وحدة المعالجة المركزية أو الموقع الفيزيائي للتوقيع"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.forms/signature/location/
 ---
-## خاصية Signature.Location
+## Signature.Location property
 
 اسم مضيف وحدة المعالجة المركزية أو الموقع الفعلي للتوقيع.
 
@@ -19,3 +19,5 @@ public string Location { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

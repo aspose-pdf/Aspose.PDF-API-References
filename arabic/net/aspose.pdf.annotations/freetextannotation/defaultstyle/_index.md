@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.DefaultStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FreeTextAnnotation. تحصل أو تعين سلسلة نمط افتراضي
+title: "FreeTextAnnotation.DefaultStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FreeTextAnnotation property. يحصل أو يضبط سلسلة نمط افتراضي"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/freetextannotation/defaultstyle/
 ---
-## خاصية FreeTextAnnotation.DefaultStyle
+## FreeTextAnnotation.DefaultStyle property
 
-تحصل أو تعين سلسلة نمط افتراضي.
+يحصل أو يعيّن سلسلة النمط الافتراضية.
 
 ```csharp
 public string DefaultStyle { get; set; }
@@ -19,3 +19,5 @@ public string DefaultStyle { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Measure.YFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. مصفوفة تنسيق الأرقام لقياس التغيير على المحور y
+title: "Measure.YFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. مصفوفة تنسيق أرقام لقياس التغير على طول المحور ص"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.annotations/measure/yformat/
 ---
-## خاصية Measure.YFormat
+## Measure.YFormat property
 
-مصفوفة تنسيق الأرقام لقياس التغيير على المحور y.
+مصفوفة تنسيق أعداد لقياس التغير على طول المحور y.
 
 ```csharp
 public NumberFormatList YFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList YFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

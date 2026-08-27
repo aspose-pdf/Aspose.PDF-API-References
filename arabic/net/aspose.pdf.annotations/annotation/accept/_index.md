@@ -1,22 +1,22 @@
 ---
-title: Annotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة التعليق. تقبل الزائر لمعالجة التعليقات
+title: "Annotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Annotation. تقبل الزائر لمعالجة التعليق"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.annotations/annotation/accept/
 ---
-## طريقة Annotation.Accept
+## Annotation.Accept method
 
-تقبل الزائر لمعالجة التعليقات.
+يقبل الزائر لمعالجة التعليق التوضيحي.
 
 ```csharp
 public abstract void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن AnnotationSelector. |
+| زائر | AnnotationSelector | كائن AnnotationSelector. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public abstract void Accept(AnnotationSelector visitor)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

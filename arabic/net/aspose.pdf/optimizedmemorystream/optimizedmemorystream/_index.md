@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.OptimizedMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ OptimizedMemoryStream. يقوم بتهيئة مثيل جديد من فئة OptimizedMemoryStream
+title: "OptimizedMemoryStream.OptimizedMemoryStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ OptimizedMemoryStream. يهيئ مثالًا جديدًا من فئة OptimizedMemoryStream"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
 ---
 ## OptimizedMemoryStream() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`OptimizedMemoryStream`](../).
+يهيئ مثالًا جديدًا من الفئة [`OptimizedMemoryStream`](../).
 
 ```csharp
 public OptimizedMemoryStream()
@@ -16,67 +16,69 @@ public OptimizedMemoryStream()
 
 ### انظر أيضًا
 
-* فئة [OptimizedMemoryStream](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OptimizedMemoryStream(int, byte[]) {#constructor_3}
 
-يُهيئ مثيلًا جديدًا من فئة [`OptimizedMemoryStream`](../) بناءً على مصفوفة البايت المحددة.
+يهيئ مثالًا جديدًا من الفئة [`OptimizedMemoryStream`](../) بناءً على مصفوفة البايتات المحددة.
 
 ```csharp
 public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bufferSize | Int32 | حجم المخازن الأساسية. |
-| buffer | Byte[] | مصفوفة من البايتات غير الموقعة التي سيتم إنشاء التدفق الحالي منها. |
+| bufferSize | Int32 | حجم المخازن المؤقتة الأساسية. |
+| buffer | Byte[] | المصفوفة من البايتات غير الموقعة التي يُنشأ منها التيار الحالي. |
 
 ### انظر أيضًا
 
-* فئة [OptimizedMemoryStream](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OptimizedMemoryStream(int) {#constructor_2}
 
-يُهيئ مثيلًا جديدًا من فئة [`OptimizedMemoryStream`](../).
+يهيئ مثالًا جديدًا من الفئة [`OptimizedMemoryStream`](../).
 
 ```csharp
 public OptimizedMemoryStream(int bufferSize)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bufferSize | Int32 | حجم المخازن الأساسية. |
+| bufferSize | Int32 | حجم المخازن المؤقتة الأساسية. |
 
 ### انظر أيضًا
 
-* فئة [OptimizedMemoryStream](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OptimizedMemoryStream(byte[]) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`OptimizedMemoryStream`](../) بناءً على مصفوفة البايت المحددة.
+يهيئ مثالًا جديدًا من الفئة [`OptimizedMemoryStream`](../) بناءً على مصفوفة البايتات المحددة.
 
 ```csharp
 public OptimizedMemoryStream(byte[] buffer)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| buffer | Byte[] | مصفوفة من البايتات غير الموقعة التي سيتم إنشاء التدفق الحالي منها. |
+| buffer | Byte[] | المصفوفة من البايتات غير الموقعة التي يُنشأ منها التيار الحالي. |
 
 ### انظر أيضًا
 
-* فئة [OptimizedMemoryStream](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

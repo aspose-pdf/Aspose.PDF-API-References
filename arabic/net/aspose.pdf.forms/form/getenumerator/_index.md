@@ -1,26 +1,28 @@
 ---
-title: Form.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تحصل على تعداد حقول النموذج
+title: "Form.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تحصل على تعداد حقول النموذج."
 type: docs
-weight: 260
+weight: 280
 url: /ar/net/aspose.pdf.forms/form/getenumerator/
 ---
 ## Form.GetEnumerator method
 
-تحصل على تعداد حقول النموذج.
+يحصل على تعداد حقول النموذج.
 
 ```csharp
 public IEnumerator<WidgetAnnotation> GetEnumerator()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 عداد الحقول.
 
-### See Also
+### انظر أيضًا
 
 * class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: OutlineItemCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutlineItemCollection. تتحقق مما إذا كانت المجموعة تحتوي على العنصر المعطى
+title: "OutlineItemCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutlineItemCollection. تتحقق إذا كانت المجموعة تحتوي على العنصر المحدد"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf/outlineitemcollection/contains/
 ---
-## طريقة OutlineItemCollection.Contains
+## OutlineItemCollection.Contains method
 
-تتحقق مما إذا كانت المجموعة تحتوي على العنصر المعطى.
+يتحقق مما إذا كانت المجموعة تحتوي على العنصر المحدد.
 
 ```csharp
 public override bool Contains(OutlineItemCollection item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | OutlineItemCollection | الكائن الذي سيتم تحديد موقعه في المجموعة |
+| item | OutlineItemCollection | The object to locate in the collection |
 
 ### قيمة الإرجاع
 
-صحيح - إذا تم العثور على العنصر؛ خلاف ذلك، خطأ.
+صحيح - إذا تم العثور على العنصر؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

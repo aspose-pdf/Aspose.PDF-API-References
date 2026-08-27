@@ -1,14 +1,14 @@
 ---
-title: TocInfo.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TocInfo. تحصل أو تعين خط توجيه TOC
+title: "TocInfo.LineDash"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TocInfo. تحصل أو تعين نمط خط TOC المتقطع"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/tocinfo/linedash/
 ---
-## خاصية TocInfo.LineDash
+## TocInfo.LineDash property
 
-تحصل أو تعين خط توجيه TOC.
+يحصل أو يعيّن نمط خط TOC المتقطع.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

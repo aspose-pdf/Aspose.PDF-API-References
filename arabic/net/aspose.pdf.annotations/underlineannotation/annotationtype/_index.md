@@ -1,14 +1,14 @@
 ---
-title: UnderlineAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية UnderlineAnnotation. تحصل على نوع التعليق
+title: "UnderlineAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية UnderlineAnnotation. تحصل على نوع التعليق التوضيحي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/underlineannotation/annotationtype/
 ---
-## خاصية UnderlineAnnotation.AnnotationType
+## UnderlineAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

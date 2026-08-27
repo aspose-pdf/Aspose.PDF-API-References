@@ -1,24 +1,24 @@
 ---
-title: TextAnnotation.TextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextAnnotation. مُنشئ للتعليق عند استخدامه في Generator
+title: "TextAnnotation.TextAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextAnnotation. منشئ للتعليق التوضيحي عند الاستخدام في Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/textannotation/textannotation/
 ---
 ## TextAnnotation(Document) {#constructor}
 
-مُنشئ للتعليق عند استخدامه في Generator.
+منشئ للتعليق التوضيحي عند استخدامه في Generator.
 
 ```csharp
 public TextAnnotation(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء تعليق نصي فيه. |
+| document | Document | Document حيث سيتم إنشاء التعليق النصي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TextAnnotation](../)
@@ -29,21 +29,23 @@ public TextAnnotation(Document document)
 
 ## TextAnnotation(Page, Rectangle) {#constructor_1}
 
-ينشئ تعليق نصي جديد على الصفحة المحددة.
+ينشئ تعليق Text جديد على الصفحة المحددة.
 
 ```csharp
 public TextAnnotation(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

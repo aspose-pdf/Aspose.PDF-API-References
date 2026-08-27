@@ -1,12 +1,12 @@
 ---
-title: Clip.Clip
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Clip. يُهيئ العامل
+title: "Clip.Clip"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Clip. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/clip/clip/
 ---
-## مُنشئ Clip
+## Clip constructor
 
 يُهيئ العامل.
 
@@ -19,3 +19,5 @@ public Clip()
 * class [Clip](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

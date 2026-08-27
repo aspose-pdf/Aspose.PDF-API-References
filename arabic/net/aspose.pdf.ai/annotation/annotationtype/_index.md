@@ -1,14 +1,14 @@
 ---
-title: Annotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل أو تعين نوع التعليق
+title: "Annotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. تحصل أو تعين نوع التعليق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/annotation/annotationtype/
 ---
-## خاصية Annotation.AnnotationType
+## Annotation.AnnotationType property
 
-تحصل أو تعين نوع التعليق.
+يحصل أو يضبط نوع التعليق التوضيحي.
 
 ```csharp
 public string AnnotationType { get; set; }
@@ -19,3 +19,5 @@ public string AnnotationType { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

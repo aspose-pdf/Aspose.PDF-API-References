@@ -1,14 +1,14 @@
 ---
-title: EmptyValueException.EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EmptyValueException. يُهيئ مثيلًا جديدًا من فئة EmptyValueException
+title: "EmptyValueException.EmptyValueException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ EmptyValueException. يهيئ نسخة جديدة من فئة EmptyValueException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
 ---
 ## EmptyValueException() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`EmptyValueException`](../).
+يهيئ نسخة جديدة من الفئة [`EmptyValueException`](../).
 
 ```csharp
 public EmptyValueException()
@@ -16,26 +16,28 @@ public EmptyValueException()
 
 ### انظر أيضًا
 
-* فئة [EmptyValueException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [EmptyValueException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmptyValueException(string) {#constructor_1}
 
-المنشئ.
+منشئ.
 
 ```csharp
 public EmptyValueException(string message)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الاستثناء. |
+| رسالة | String | رسالة الاستثناء. |
 
 ### انظر أيضًا
 
-* فئة [EmptyValueException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [EmptyValueException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

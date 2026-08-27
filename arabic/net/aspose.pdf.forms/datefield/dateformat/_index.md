@@ -1,20 +1,20 @@
 ---
-title: DateField.DateFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DateField. تحصل على أو تعين تنسيق التاريخ
+title: "DateField.DateFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DateField. يحصل أو يضبط تنسيق التاريخ"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/datefield/dateformat/
 ---
-## خاصية DateField.DateFormat
+## DateField.DateFormat property
 
-تحصل على أو تعين تنسيق التاريخ.
+الحصول أو التعيين لتنسيق التاريخ.
 
 ```csharp
 public string DateFormat { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 تنسيق التاريخ. الافتراضي dd/MM/yyyy
 
@@ -23,3 +23,5 @@ public string DateFormat { get; set; }
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

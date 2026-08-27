@@ -1,25 +1,27 @@
 ---
-title: ButtonField.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ButtonField. تضيف صورة إلى موارد الحقل وترسمها
+title: "ButtonField.AddImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ButtonField. يضيف صورة إلى موارد الحقل ويرسمها"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.forms/buttonfield/addimage/
 ---
-## طريقة ButtonField.AddImage
+## ButtonField.AddImage method
 
-تضيف صورة إلى موارد الحقل وترسمها.
+يضيف صورة إلى موارد الحقل ويرسمها.
 
 ```csharp
 public void AddImage(Image image)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة التي سيتم إضافتها إلى حقل النص. |
+| صورة | صورة | صورة لإضافتها إلى حقل النص. |
 
 ### انظر أيضًا
 
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

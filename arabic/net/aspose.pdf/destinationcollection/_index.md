@@ -1,14 +1,14 @@
 ---
-title: Class DestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.DestinationCollection. تمثل الفئة مجموعة من جميع الوجهات انظر 12.3.2.3 "الوجهات المسماة" وانظر 7.7.4 "قاموس الأسماء" في مستند PDF
+title: "الفئة DestinationCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.DestinationCollection. تمثل الفئة مجموعة جميع الوجهات، شجرة أسماء تُطابق سلاسل الأسماء بالوجهات. راجع 12.3.2.3 الوجهات المُسماة وراجع 7.7.4 قاموس الأسماء في مستند PDF."
 type: docs
-weight: 3510
+weight: 3630
 url: /ar/net/aspose.pdf/destinationcollection/
 ---
-## فئة DestinationCollection
+## DestinationCollection class
 
-تمثل الفئة مجموعة من جميع الوجهات (شجرة أسماء تربط بين سلاسل الأسماء والوجهات (انظر 12.3.2.3، "الوجهات المسماة") و (انظر 7.7.4، "قاموس الأسماء")) في مستند PDF.
+تمثل الفئة مجموعة جميع الوجهات (شجرة أسماء تربط سلاسل الأسماء بالوجهات (انظر 12.3.2.3، "Named Destinations") و(انظر 7.7.4، "Name Dictionary")) في مستند PDF.
 
 ```csharp
 public sealed class DestinationCollection : ICollection<KeyValuePair<string, object>>
@@ -26,17 +26,19 @@ public sealed class DestinationCollection : ICollection<KeyValuePair<string, obj
 
 | الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.pdf/destinationcollection/add/)(KeyValuePair&lt;string, object&gt;) | يضيف العنصر المحدد. المجموعة للقراءة فقط. دائمًا ما يرمي استثناء NotSupportedException. |
-| [Clear](../../aspose.pdf/destinationcollection/clear/)() | المجموعة للقراءة فقط. دائمًا ما يرمي استثناء NotSupportedException. |
-| [Contains](../../aspose.pdf/destinationcollection/contains/)(KeyValuePair&lt;string, object&gt;) | يحدد ما إذا كانت هذه النسخة تحتوي على الكائن. |
+| [Add](../../aspose.pdf/destinationcollection/add/)(KeyValuePair&lt;string, object&gt;) | يضيف العنصر المحدد. المجموعة للقراءة فقط. دائمًا يُطلق استثناء NotSupportedException. |
+| [Clear](../../aspose.pdf/destinationcollection/clear/)() | المجموعة للقراءة فقط. دائمًا يُطلق استثناء NotSupportedException. |
+| [Contains](../../aspose.pdf/destinationcollection/contains/)(KeyValuePair&lt;string, object&gt;) | يحدد ما إذا كانت هذه الحالة تحتوي على الكائن. |
 | [CopyTo](../../aspose.pdf/destinationcollection/copyto/)(KeyValuePair&lt;string, object&gt;[], int) |  |
-| [GetEnumerator](../../aspose.pdf/destinationcollection/getenumerator/)() | يعيد العداد. |
-| [GetExplicitDestination](../../aspose.pdf/destinationcollection/getexplicitdestination/)(string, bool) | يعيد الوجهة الصريحة حسب الاسم. |
-| [GetPageNumber](../../aspose.pdf/destinationcollection/getpagenumber/)(string, bool) | يعيد رقم الصفحة للوجهة حسب الاسم. |
-| [IndexOf](../../aspose.pdf/destinationcollection/indexof/)(KeyValuePair&lt;string, object&gt;) | يعيد فهرس الوجهة في المجموعة. |
-| [Remove](../../aspose.pdf/destinationcollection/remove/)(KeyValuePair&lt;string, object&gt;) | يزيل العنصر المحدد. المجموعة للقراءة فقط. دائمًا ما يرمي استثناء NotSupportedException. |
+| [GetEnumerator](../../aspose.pdf/destinationcollection/getenumerator/)() | يرجع المُعدِّد. |
+| [GetExplicitDestination](../../aspose.pdf/destinationcollection/getexplicitdestination/)(string, bool) | يرجع الوجهة الصريحة بالاسم. |
+| [GetPageNumber](../../aspose.pdf/destinationcollection/getpagenumber/)(string, bool) | يرجع رقم الصفحة للوجهة بالاسم. |
+| [IndexOf](../../aspose.pdf/destinationcollection/indexof/)(KeyValuePair&lt;string, object&gt;) | يرجع فهرس الوجهة في المجموعة. |
+| [Remove](../../aspose.pdf/destinationcollection/remove/)(KeyValuePair&lt;string, object&gt;) | يزيل العنصر المحدد. المجموعة للقراءة فقط. دائمًا يُطلق استثناء NotSupportedException. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

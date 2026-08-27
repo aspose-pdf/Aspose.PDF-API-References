@@ -1,22 +1,22 @@
 ---
-title: IChatCopilot.SaveContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IChatCopilot. تحفظ السياق بشكل غير متزامن في ملف JSON
+title: "IChatCopilot.SaveContextAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IChatCopilot. تقوم بحفظ السياق إلى ملف JSON بشكل غير متزامن."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/ichatcopilot/savecontextasync/
 ---
-## طريقة IChatCopilot.SaveContextAsync
+## IChatCopilot.SaveContextAsync method
 
-تحفظ السياق بشكل غير متزامن في ملف JSON.
+يحفظ السياق بشكل غير متزامن إلى ملف JSON.
 
 ```csharp
 public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| jsonFilePath | سلسلة | مسار الملف لحفظ سياق JSON. |
+| jsonFilePath | String | مسار الملف لحفظ ملف JSON الخاص بالسياق. |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
 ### قيمة الإرجاع
@@ -25,6 +25,8 @@ public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellatio
 
 ### انظر أيضًا
 
-* الواجهة [IChatCopilot](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

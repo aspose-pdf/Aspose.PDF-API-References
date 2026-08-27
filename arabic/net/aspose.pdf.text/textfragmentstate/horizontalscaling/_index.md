@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين التوسيع الأفقي للنص الممثل بواسطة كائن TextFragment
+title: "TextFragmentState.HorizontalScaling"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تحصل أو تعيّن مقياس العرض الأفقي للنص الممثّل بواسطة كائن TextFragment"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.text/textfragmentstate/horizontalscaling/
 ---
-## خاصية TextFragmentState.HorizontalScaling
+## TextFragmentState.HorizontalScaling property
 
-تحصل أو تعين التوسيع الأفقي للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/) .
+تحصل أو تعيّن مقياس العرض الأفقي للنص، الممثّل بواسطة كائن [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override float HorizontalScaling { get; set; }
@@ -19,3 +19,5 @@ public override float HorizontalScaling { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

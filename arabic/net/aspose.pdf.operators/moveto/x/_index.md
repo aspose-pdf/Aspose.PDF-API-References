@@ -1,12 +1,12 @@
 ---
-title: MoveTo.X
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MoveTo. إحداثي X
+title: "MoveTo.X"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "MoveTo خاصية. إحداثي X"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/moveto/x/
 ---
-## خاصية MoveTo.X
+## MoveTo.X property
 
 إحداثي X
 
@@ -19,3 +19,5 @@ public double X { get; set; }
 * class [MoveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.Role
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadMessageCreateRequest. تحصل أو تعين دور الكيان الذي ينشئ الرسالة. القيم المسموح بها تشمل مساعد المستخدم
+title: "ThreadMessageCreateRequest.Role"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadMessageCreateRequest. تحصل أو تعين دور الكيان الذي ينشئ الرسالة. القيم المسموح بها تشمل user وassistant"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/threadmessagecreaterequest/role/
 ---
-## خاصية ThreadMessageCreateRequest.Role
+## ThreadMessageCreateRequest.Role property
 
-تحصل أو تعين دور الكيان الذي ينشئ الرسالة. القيم المسموح بها تشمل: "مستخدم"، "مساعد".
+يحصل أو يضبط دور الكيان الذي ينشئ الرسالة. القيم المسموح بها تشمل: \"user\", \"assistant\".
 
 ```csharp
 public string Role { get; set; }
@@ -19,3 +19,5 @@ public string Role { get; set; }
 * class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

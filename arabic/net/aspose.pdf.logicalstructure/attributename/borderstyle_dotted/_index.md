@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Dotted
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Attribute BorderStyle Dotted  الحدود عبارة عن سلسلة من النقاط
+title: "AttributeName.BorderStyle_Dotted"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة BorderStyle Dotted  الحد هو سلسلة من النقاط"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_dotted/
 ---
-## حقل AttributeName.BorderStyle_Dotted
+## AttributeName.BorderStyle_Dotted field
 
-نمط الحدود: Dotted - الحدود عبارة عن سلسلة من النقاط.
+السمة BorderStyle: Dotted - الحد هو سلسلة من النقاط.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Dotted;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Dotted;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

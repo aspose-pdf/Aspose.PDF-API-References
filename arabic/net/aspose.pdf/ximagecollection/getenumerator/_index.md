@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImageCollection. تعيد عداد المجموعة
+title: "XImageCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImageCollection. تُرجع عداد المجموعة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/ximagecollection/getenumerator/
 ---
-## طريقة XImageCollection.GetEnumerator
+## XImageCollection.GetEnumerator method
 
-تعيد عداد المجموعة.
+يرجع عداد المجموعة.
 
 ```csharp
 public IEnumerator<XImage> GetEnumerator()
@@ -24,3 +24,5 @@ public IEnumerator<XImage> GetEnumerator()
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

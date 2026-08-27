@@ -1,14 +1,14 @@
 ---
-title: ExpiresAfter.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ExpiresAfter. المُنشئ الافتراضي
+title: "ExpiresAfter.ExpiresAfter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ExpiresAfter constructor. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/expiresafter/expiresafter/
 ---
-## مُنشئ ExpiresAfter
+## ExpiresAfter constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ExpiresAfter()
@@ -19,3 +19,5 @@ public ExpiresAfter()
 * class [ExpiresAfter](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

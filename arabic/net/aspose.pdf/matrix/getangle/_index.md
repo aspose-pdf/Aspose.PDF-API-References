@@ -1,22 +1,22 @@
 ---
-title: Matrix.GetAngle
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Matrix. تحويل الدوران إلى درجات الزاوية
+title: "Matrix.GetAngle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. تُترجم الدوران إلى درجات الزاوية"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf/matrix/getangle/
 ---
-## طريقة Matrix.GetAngle
+## Matrix.GetAngle method
 
-تحويل الدوران إلى زاوية (درجات)
+يحوّل الدوران إلى زاوية (درجات)
 
 ```csharp
 public static double GetAngle(Rotation rotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rotation | Rotation | قيمة الدوران. |
+| دوران | دوران | قيمة الدوران. |
 
 ### قيمة الإرجاع
 
@@ -35,3 +35,5 @@ Matrix m = Matrix.Rotation(angle);
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

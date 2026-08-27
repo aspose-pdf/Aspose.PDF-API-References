@@ -1,14 +1,14 @@
 ---
-title: Class FillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.FillStroke. فئة تمثل عامل B لملء ورسم المسار باستخدام قاعدة الالتفاف غير الصفري
+title: "الفئة FillStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.FillStroke. فئة تمثّل عامل B لتعبئة ورسم المسار باستخدام قاعدة اللف غير الصفري"
 type: docs
-weight: 7380
+weight: 7520
 url: /ar/net/aspose.pdf.operators/fillstroke/
 ---
-## فئة FillStroke
+## FillStroke class
 
-فئة تمثل عامل B (ملء ورسم المسار باستخدام قاعدة الالتفاف غير الصفري)
+الفئة التي تمثل المشغل B (ملء ورسم المسار باستخدام قاعدة اللف غير الصفري)
 
 ```csharp
 public class FillStroke : Operator
@@ -18,7 +18,7 @@ public class FillStroke : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [FillStroke](fillstroke/)() | يقوم بتهيئة العامل. |
+| [FillStroke](fillstroke/)() | يُهيئ العامل. |
 
 ## الخصائص
 
@@ -31,11 +31,13 @@ public class FillStroke : Operator
 | الاسم | الوصف |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
-| override [ToString](../../aspose.pdf.operators/fillstroke/tostring/)() | يعيد تمثيل نصي للعامل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه الحالة مع الكائن المعطى. |
+| override [ToString](../../aspose.pdf.operators/fillstroke/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

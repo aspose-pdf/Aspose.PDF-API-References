@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تحصل أو تعين معلومات العنوان لوثيقة PDF
+title: "PdfFileInfo.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تحصل أو تعين معلومات العنوان لوثيقة PDF"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdffileinfo/title/
 ---
-## خاصية PdfFileInfo.Title
+## PdfFileInfo.Title property
 
-تحصل أو تعين معلومات العنوان لوثيقة PDF.
+Gets or sets the Title information of PDF document.
 
 ```csharp
 public string Title { get; set; }
@@ -19,3 +19,5 @@ public string Title { get; set; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

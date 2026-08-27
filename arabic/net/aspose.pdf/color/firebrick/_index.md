@@ -1,14 +1,14 @@
 ---
-title: Color.Firebrick
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFB22222
+title: "Color.Firebrick"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB مقدارها c FFB22222"
 type: docs
 weight: 440
 url: /ar/net/aspose.pdf/color/firebrick/
 ---
-## خاصية Color.Firebrick
+## Color.Firebrick property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFB22222.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFB22222.
 
 ```csharp
 public static Color Firebrick { get; }
@@ -16,10 +16,12 @@ public static Color Firebrick { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

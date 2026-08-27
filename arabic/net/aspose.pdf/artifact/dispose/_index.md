@@ -1,14 +1,14 @@
 ---
-title: Artifact.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Artifact. تخلص من الأثر
+title: "Artifact.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Artifact. تحرير الـ artifact"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf/artifact/dispose/
 ---
-## طريقة Artifact.Dispose
+## Artifact.Dispose method
 
-تخلص من الأثر.
+تخلص من العنصر.
 
 ```csharp
 public void Dispose()
@@ -19,3 +19,5 @@ public void Dispose()
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: PdfXmpMetadata.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfXmpMetadata. تحدد ما إذا كانت هذه القاموس تحتوي على المفتاح المحدد
+title: "PdfXmpMetadata.ContainsKey"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfXmpMetadata. تحدد ما إذا كان هذا القاموس يحتوي على المفتاح المحدد"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/containskey/
 ---
-## طريقة PdfXmpMetadata.ContainsKey
+## PdfXmpMetadata.ContainsKey method
 
-تحدد ما إذا كانت هذه القاموس تحتوي على المفتاح المحدد.
+يحدد ما إذا كان هذا القاموس يحتوي على المفتاح المحدد.
 
 ```csharp
 public bool ContainsKey(string key)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح للبحث في القاموس. |
+| المفتاح | String | المفتاح للبحث في القاموس. |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على المفتاح.
+صحيح إذا تم العثور على المفتاح.
 
 ### انظر أيضًا
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

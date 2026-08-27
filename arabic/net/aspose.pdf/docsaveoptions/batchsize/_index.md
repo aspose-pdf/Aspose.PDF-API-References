@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. تحدد حجم الدفعة إذا كان التحويل المجمع قابلاً للتطبيق على زوج تنسيقات المصدر والوجهة
+title: "DocSaveOptions.BatchSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. تحدد حجم الدفعة إذا كان التحويل على دفعات قابلًا للتطبيق على زوج صيغ المصدر والوجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/docsaveoptions/batchsize/
 ---
-## خاصية DocSaveOptions.BatchSize
+## DocSaveOptions.BatchSize property
 
-تحدد حجم الدفعة إذا كان التحويل المجمع قابلاً للتطبيق على زوج تنسيقات المصدر والوجهة.
+يحدد حجم الدفعة إذا كان التحويل المجمع قابلًا للتطبيق على زوج صيغ المصدر والوجهة.
 
 ```csharp
 public int BatchSize { get; set; }
@@ -19,3 +19,5 @@ public int BatchSize { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

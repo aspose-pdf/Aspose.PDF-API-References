@@ -1,14 +1,14 @@
 ---
-title: GraphicState.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicState. تحصل على مصفوفة التحويل الحالية
+title: "GraphicState.Matrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicState. يحصل على مصفوفة التحويل الحالية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.vector/graphicstate/matrix/
 ---
-## خاصية GraphicState.Matrix
+## GraphicState.Matrix property
 
-تحصل على مصفوفة التحويل الحالية.
+يحصل على مصفوفة التحويل الحالية.
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -20,3 +20,5 @@ public Matrix Matrix { get; set; }
 * class [GraphicState](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

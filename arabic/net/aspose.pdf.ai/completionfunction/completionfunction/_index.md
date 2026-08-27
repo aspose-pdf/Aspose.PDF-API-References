@@ -1,14 +1,14 @@
 ---
-title: CompletionFunction.CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CompletionFunction. المُنشئ الافتراضي
+title: "CompletionFunction.CompletionFunction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CompletionFunction. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/completionfunction/completionfunction/
 ---
-## مُنشئ CompletionFunction
+## CompletionFunction constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CompletionFunction()
@@ -19,3 +19,5 @@ public CompletionFunction()
 * class [CompletionFunction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

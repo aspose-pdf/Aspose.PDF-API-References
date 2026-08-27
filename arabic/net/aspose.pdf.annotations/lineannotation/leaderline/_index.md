@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.LeaderLine
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل أو تعين طول خط القائد
+title: "LineAnnotation.LeaderLine"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. تحصل أو تعين طول الخط القائد"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/lineannotation/leaderline/
 ---
-## خاصية LineAnnotation.LeaderLine
+## LineAnnotation.LeaderLine property
 
-تحصل أو تعين طول خط القائد.
+يحصل أو يضبط طول خط القائد.
 
 ```csharp
 public double LeaderLine { get; set; }
@@ -19,3 +19,5 @@ public double LeaderLine { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

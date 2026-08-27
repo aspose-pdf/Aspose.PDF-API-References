@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.RecognizeBullets
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. قم بتشغيل التعرف على النقاط
+title: "DocSaveOptions.RecognizeBullets"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. تفعيل التعرف على النقاط."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/docsaveoptions/recognizebullets/
 ---
-## خاصية DocSaveOptions.RecognizeBullets
+## DocSaveOptions.RecognizeBullets property
 
-قم بتشغيل التعرف على النقاط
+تشغيل التعرف على النقاط.
 
 ```csharp
 public bool RecognizeBullets { get; set; }
@@ -19,3 +19,5 @@ public bool RecognizeBullets { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

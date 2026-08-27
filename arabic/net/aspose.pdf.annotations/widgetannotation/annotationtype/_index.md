@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WidgetAnnotation. تحصل على نوع التعليق
+title: "WidgetAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WidgetAnnotation. تحصل على نوع التعليق التوضيحي."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/widgetannotation/annotationtype/
 ---
-## خاصية WidgetAnnotation.AnnotationType
+## WidgetAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

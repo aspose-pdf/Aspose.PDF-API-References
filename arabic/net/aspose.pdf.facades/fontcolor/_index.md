@@ -1,9 +1,9 @@
 ---
-title: Class FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.FontColor. فئة تمثل لون النص
+title: "فئة FontColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Facades.FontColor class. فئة تمثل لون النص"
 type: docs
-weight: 4270
+weight: 4390
 url: /ar/net/aspose.pdf.facades/fontcolor/
 ---
 ## FontColor class
@@ -14,22 +14,24 @@ url: /ar/net/aspose.pdf.facades/fontcolor/
 public sealed class FontColor
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FontColor](fontcolor/#constructor)() | Initializes color. |
-| [FontColor](fontcolor/#constructor_1)(int, int, int) | Initializes color with specified color components. |
+| [FontColor](fontcolor/#constructor)() | يُهيئ اللون. |
+| [FontColor](fontcolor/#constructor_1)(int, int, int) | يُهيئ اللون بمكونات اللون المحددة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Blue](../../aspose.pdf.facades/fontcolor/blue/) { get; set; } | المكون الأزرق للون. |
-| [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | المكون الأخضر للون. |
-| [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | المكون الأحمر للون. |
+| [Blue](../../aspose.pdf.facades/fontcolor/blue/) { get; set; } | المكوّن الأزرق للون. |
+| [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | المكوّن الأخضر للون. |
+| [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | المكوّن الأحمر للون. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

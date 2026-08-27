@@ -1,22 +1,22 @@
 ---
-title: PdfFileStamp.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileStamp. تضيف ختمًا إلى الملف
+title: "PdfFileStamp.AddStamp"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileStamp. يضيف ختمًا إلى الملف"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
-## طريقة PdfFileStamp.AddStamp
+## PdfFileStamp.AddStamp method
 
-تضيف ختمًا إلى الملف.
+يضيف طابعًا إلى الملف.
 
 ```csharp
 public void AddStamp(Stamp stamp)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stamp | Stamp | كائن الختم الذي. |
+| ختم | ختم | كائن الختم الذي. |
 
 ## أمثلة
 
@@ -38,3 +38,5 @@ fileStamp.Close();
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

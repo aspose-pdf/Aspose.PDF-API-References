@@ -1,28 +1,30 @@
 ---
-title: Enum TextFormattingOptions.LineSpacingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode enum. يحدد تفاصيل تباعد الأسطر
+title: "التعداد TextFormattingOptions.LineSpacingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode. يحدد خصائص تباعد الأسطر"
 type: docs
-weight: 10920
+weight: 11100
 url: /ar/net/aspose.pdf.text/textformattingoptions.linespacingmode/
 ---
 ## TextFormattingOptions.LineSpacingMode enumeration
 
-يحدد تفاصيل تباعد الأسطر
+يحدد خصائص تباعد الأسطر
 
 ```csharp
 public enum LineSpacingMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| FontSize | `0` | تباعد الأسطر هو حجم الخط |
-| FullSize | `1` | تباعد الأسطر هو مساحة كاملة بين الحروف النازلة والصاعدة |
+| FontSize | `0` | تباعد السطر هو حجم الخط |
+| FullSize | `1` | تباعد السطر هو مساحة كاملة بين الحرف النازل والمرتفع |
 
-### See Also
+### انظر أيضًا
 
 * class [TextFormattingOptions](../textformattingoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

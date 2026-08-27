@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Content
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadMessageResponse. تحصل أو تعين محتوى الرسالة في مصفوفة من النصوص و/أو الصور
+title: "ThreadMessageResponse.Content"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadMessageResponse. يحصل أو يضبط محتوى الرسالة في مصفوفة من النص و/أو الصور."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/threadmessageresponse/content/
 ---
-## خاصية ThreadMessageResponse.Content
+## ThreadMessageResponse.Content property
 
-تحصل أو تعين محتوى الرسالة في مصفوفة من النصوص و/أو الصور.
+يحصل أو يعيّن محتوى الرسالة في مصفوفة من النص و/أو الصور.
 
 ```csharp
 public List<MessageContentResponse> Content { get; set; }
@@ -20,3 +20,5 @@ public List<MessageContentResponse> Content { get; set; }
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

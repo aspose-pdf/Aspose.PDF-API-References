@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageMarkup. تحصل على مجموعة من MarkupParagraph التي تم العثور عليها في الصفحة
+title: "PageMarkup.Paragraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageMarkup. يحصل على مجموعة من MarkupParagraph التي تم العثور عليها في الصفحة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/pagemarkup/paragraphs/
 ---
-## خاصية PageMarkup.Paragraphs
+## PageMarkup.Paragraphs property
 
-تحصل على مجموعة من [`MarkupParagraph`](../../markupparagraph/) التي تم العثور عليها في الصفحة.
+يحصل على مجموعة من [`MarkupParagraph`](../../markupparagraph/) التي تم العثور عليها في الصفحة.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }
@@ -20,3 +20,5 @@ public List<MarkupParagraph> Paragraphs { get; }
 * class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

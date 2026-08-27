@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Prev
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. تحصل على عنصر المخطط الذي يمثل العنصر السابق بالنسبة لهذا العنصر في تسلسل المخطط
+title: "OutlineItemCollection.Prev"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineItemCollection. تحصل على عنصر المخطط الذي يمثل العنصر السابق بالنسبة لهذا العنصر في تسلسل المخطط"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf/outlineitemcollection/prev/
 ---
-## خاصية OutlineItemCollection.Prev
+## OutlineItemCollection.Prev property
 
-تحصل على عنصر المخطط الذي يمثل العنصر السابق بالنسبة لهذا العنصر في تسلسل المخطط.
+يحصل على عنصر المخطط الذي يمثل العنصر السابق بالنسبة لهذا العنصر في تسلسل المخطط.
 
 ```csharp
 public OutlineItemCollection Prev { get; }
@@ -19,3 +19,5 @@ public OutlineItemCollection Prev { get; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.IsCertified
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileSignature. تحصل على العلامة التي تحدد ما إذا كان المستند معتمدًا أم لا
+title: "PdfFileSignature.IsCertified"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileSignature. تحصل على العلامة التي تحدد ما إذا كان document معتمدًا أم لا"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdffilesignature/iscertified/
 ---
-## خاصية PdfFileSignature.IsCertified
+## PdfFileSignature.IsCertified property
 
-تحصل على العلامة التي تحدد ما إذا كان المستند معتمدًا أم لا.
+يحصل على العلامة التي تحدد ما إذا كان المستند مُعتمدًا أم لا.
 
 ```csharp
 public bool IsCertified { get; }
@@ -19,3 +19,5 @@ public bool IsCertified { get; }
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

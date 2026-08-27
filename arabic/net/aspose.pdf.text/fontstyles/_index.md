@@ -1,9 +1,9 @@
 ---
-title: Enum FontStyles
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontStyles enum. يحدد معلومات النمط المطبقة على النص
+title: "تعداد FontStyles"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Text.FontStyles. يحدد معلومات النمط المطبقة على النص"
 type: docs
-weight: 10570
+weight: 10750
 url: /ar/net/aspose.pdf.text/fontstyles/
 ---
 ## FontStyles enumeration
@@ -15,19 +15,21 @@ url: /ar/net/aspose.pdf.text/fontstyles/
 public enum FontStyles
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Regular | `0` | نص عادي. |
 | Bold | `1` | نص عريض. |
 | Italic | `2` | نص مائل. |
 
-## Remarks
+## ملاحظات
 
-تحتوي هذه التعداد على خاصية FlagsAttribute التي تسمح بدمج قيم أعضائها.
+يحتوي هذا التعداد على سمة FlagsAttribute التي تسمح بدمج قيم أعضائه.
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

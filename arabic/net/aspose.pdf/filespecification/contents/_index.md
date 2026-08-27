@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSpecification. تحصل أو تعين ملف المحتويات. تعيد هذه الخاصية البيانات المحملة في الذاكرة والتي قد تسبب استثناء نفاد الذاكرة للبيانات الكبيرة. لتقليل استخدام الذاكرة، يرجى استخدام StreamContents
+title: "FileSpecification.Contents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSpecification. يحصل على أو يعيّن ملف المحتويات. تُعيد هذه الخاصية البيانات المحمّلة في الذاكرة والتي قد تسبب استثناء نفاد الذاكرة للبيانات الكبيرة. لتقليل استهلاك الذاكرة يرجى استخدام StreamContents"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/filespecification/contents/
 ---
-## خاصية FileSpecification.Contents
+## FileSpecification.Contents property
 
-تحصل أو تعين ملف المحتويات. تعيد هذه الخاصية البيانات المحملة في الذاكرة والتي قد تسبب استثناء نفاد الذاكرة للبيانات الكبيرة. لتقليل استخدام الذاكرة، يرجى استخدام StreamContents.
+يحصل أو يعيّن ملف المحتويات. تُعيد هذه الخاصية البيانات المحمّلة في الذاكرة والتي قد تتسبب في استثناء نفاد الذاكرة للبيانات الكبيرة. لتقليل استهلاك الذاكرة يرجى استخدام StreamContents.
 
 ```csharp
 public Stream Contents { get; set; }
@@ -19,3 +19,5 @@ public Stream Contents { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

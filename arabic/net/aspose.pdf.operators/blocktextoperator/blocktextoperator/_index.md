@@ -1,14 +1,14 @@
 ---
-title: BlockTextOperator.BlockTextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BlockTextOperator. يُهيئ المُشغل
+title: "BlockTextOperator.BlockTextOperator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BlockTextOperator. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/blocktextoperator/blocktextoperator/
 ---
 ## BlockTextOperator() {#constructor}
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public BlockTextOperator()
@@ -30,7 +30,7 @@ public BlockTextOperator()
 public BlockTextOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textProperties | TextProperties | خصائص النص. |
 
@@ -40,3 +40,5 @@ public BlockTextOperator(TextProperties textProperties)
 * class [BlockTextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

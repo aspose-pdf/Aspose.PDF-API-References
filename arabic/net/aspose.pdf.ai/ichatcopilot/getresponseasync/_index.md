@@ -1,29 +1,29 @@
 ---
-title: IChatCopilot.GetResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IChatCopilot. تحصل بشكل غير متزامن على استجابة للرسالة المعطاة
+title: "IChatCopilot.GetResponseAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IChatCopilot. تحصل بشكل غير متزامن على استجابة للرسالة المعطاة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/ichatcopilot/getresponseasync/
 ---
 ## GetResponseAsync(string, CancellationToken?) {#getresponseasync_1}
 
-تحصل بشكل غير متزامن على استجابة للرسالة المعطاة.
+يحصل بشكل غير متزامن على استجابة للرسالة المعطاة.
 
 ```csharp
 public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة المدخلة التي يتم طلب استجابة لها. |
+| رسالة | String | رسالة الإدخال التي يُطلب استجابة لها. |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة مع سلسلة الاستجابة.
 
-### See Also
+### انظر أيضًا
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -33,24 +33,26 @@ public Task<string> GetResponseAsync(string message, CancellationToken? cancella
 
 ## GetResponseAsync(List&lt;string&gt;, CancellationToken?) {#getresponseasync}
 
-تحصل بشكل غير متزامن على استجابة لقائمة الرسائل المعطاة.
+يحصل بشكل غير متزامن على استجابة للقائمة المعطاة من الرسائل.
 
 ```csharp
 public Task<string> GetResponseAsync(List<string> messages, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| messages | List`1 | قائمة الرسائل المدخلة التي يتم طلب استجابات لها. |
+| رسائل | List`1 | قائمة رسائل الإدخال التي يُطلب استجابات لها. |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة مع سلسلة الاستجابة.
 
-### See Also
+### انظر أيضًا
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

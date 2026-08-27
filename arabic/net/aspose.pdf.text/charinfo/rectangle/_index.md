@@ -1,14 +1,14 @@
 ---
-title: CharInfo.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CharInfo. تحصل على مستطيل الحرف
+title: "CharInfo.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CharInfo. تُرجع مستطيل الحرف"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/charinfo/rectangle/
 ---
-## خاصية CharInfo.Rectangle
+## CharInfo.Rectangle property
 
-تحصل على مستطيل الحرف.
+يحصل على مستطيل الحرف.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [CharInfo](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

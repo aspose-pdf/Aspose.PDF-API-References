@@ -1,14 +1,14 @@
 ---
-title: FontColor.Green
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontColor. مكون اللون الأخضر
+title: "FontColor.Green"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontColor. المكوّن الأخضر للون"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/fontcolor/green/
 ---
-## خاصية FontColor.Green
+## FontColor.Green property
 
-مكون اللون الأخضر.
+المكوّن الأخضر للون.
 
 ```csharp
 public int Green { get; set; }
@@ -19,3 +19,5 @@ public int Green { get; set; }
 * class [FontColor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

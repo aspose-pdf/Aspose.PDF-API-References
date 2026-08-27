@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Center
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HorizontalAlignment. تحصل أو تعين إعدادات المحاذاة المركزية
+title: "HeaderFooterSettings.HorizontalAlignment.Center"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HorizontalAlignment. يحصل أو يضبط إعدادات المحاذاة إلى الوسط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/headerfootersettings.horizontalalignment/center/
 ---
-## خاصية HeaderFooterSettings.HorizontalAlignment.Center
+## HeaderFooterSettings.HorizontalAlignment.Center property
 
-تحصل أو تعين إعدادات المحاذاة المركزية.
+يحصل أو يضبط إعدادات محاذاة المركز.
 
 ```csharp
 public Center Center { get; set; }
@@ -20,3 +20,5 @@ public Center Center { get; set; }
 * class [HorizontalAlignment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

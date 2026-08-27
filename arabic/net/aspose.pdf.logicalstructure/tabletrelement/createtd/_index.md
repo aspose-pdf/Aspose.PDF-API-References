@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.CreateTD
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableTRElement. تنشئ TableTHElement وتضيفها إلى الجدول الحالي
+title: "TableTRElement.CreateTD"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableTRElement. تُنشئ TableTHElement وتضيفها إلى الجدول الحالي."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.logicalstructure/tabletrelement/createtd/
 ---
-## طريقة TableTRElement.CreateTD
+## TableTRElement.CreateTD method
 
 تنشئ [`TableTHElement`](../../tablethelement/) وتضيفها إلى الجدول الحالي.
 
@@ -16,7 +16,7 @@ public TableTDElement CreateTD()
 
 ### قيمة الإرجاع
 
-عنصر هيكل تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public TableTDElement CreateTD()
 * class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

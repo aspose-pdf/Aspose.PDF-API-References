@@ -1,14 +1,14 @@
 ---
-title: PDF3DCrossSectionArray.RemoveAll
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DCrossSectionArray. تزيل جميع مقاطع العرض من المصفوفة
+title: "PDF3DCrossSectionArray.RemoveAll"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DCrossSectionArray. يزيل جميع الأقسام العرضية من المصفوفة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/
 ---
-## طريقة PDF3DCrossSectionArray.RemoveAll
+## PDF3DCrossSectionArray.RemoveAll method
 
-تزيل جميع مقاطع العرض من المصفوفة.
+يزيل جميع المقاطع العرضية من المصفوفة.
 
 ```csharp
 public void RemoveAll()
@@ -19,3 +19,5 @@ public void RemoveAll()
 * class [PDF3DCrossSectionArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

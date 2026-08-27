@@ -1,14 +1,14 @@
 ---
-title: TableElement.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل أو تعين محاذاة الجدول
+title: "TableElement.Alignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. تحصل أو تعين محاذاة الجدول"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/alignment/
 ---
-## خاصية TableElement.Alignment
+## TableElement.Alignment property
 
-تحصل أو تعين محاذاة الجدول.
+الحصول أو تعيين محاذاة الجدول.
 
 ```csharp
 public HorizontalAlignment Alignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

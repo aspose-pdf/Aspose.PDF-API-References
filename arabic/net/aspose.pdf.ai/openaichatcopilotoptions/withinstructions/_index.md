@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تعيين التعليمات لخيارات مساعد الدردشة
+title: "OpenAIChatCopilotOptions.WithInstructions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. تحدد التعليمات لخيارات مساعد الدردشة"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
 ---
-## طريقة OpenAIChatCopilotOptions.WithInstructions
+## OpenAIChatCopilotOptions.WithInstructions method
 
-تعيين التعليمات لخيارات مساعد الدردشة.
+يضبط التعليمات لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithInstructions(string instructions)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| التعليمات | سلسلة | التعليمات التي يجب تعيينها. |
+| instructions | String | التعليمات التي سيتم ضبطها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [OpenAIChatCopilotOptions](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

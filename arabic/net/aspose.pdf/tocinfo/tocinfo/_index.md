@@ -1,14 +1,14 @@
 ---
-title: TocInfo.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TocInfo. يقوم بتهيئة مثيل جديد من فئة TocInfo
+title: "TocInfo.TocInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TocInfo. يهيئ نسخة جديدة من فئة TocInfo"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/tocinfo/tocinfo/
 ---
-## مُنشئ TocInfo
+## TocInfo constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`TocInfo`](../).
+يهيئ نسخة جديدة من الفئة [`TocInfo`](../).
 
 ```csharp
 public TocInfo()
@@ -16,6 +16,8 @@ public TocInfo()
 
 ### انظر أيضًا
 
-* فئة [TocInfo](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

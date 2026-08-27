@@ -1,14 +1,14 @@
 ---
-title: Heading.UserLabel
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنوان. تحصل أو تعين تسمية المستخدم
+title: "Heading.UserLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Heading. تحصل أو تعين تسمية المستخدم"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/heading/userlabel/
 ---
-## خاصية Heading.UserLabel
+## Heading.UserLabel property
 
-تحصل أو تعين تسمية المستخدم.
+يحصل أو يضبط تسمية المستخدم.
 
 ```csharp
 public TextSegment UserLabel { get; set; }
@@ -20,3 +20,5 @@ public TextSegment UserLabel { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

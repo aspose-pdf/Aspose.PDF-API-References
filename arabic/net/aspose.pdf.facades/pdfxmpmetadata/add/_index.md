@@ -1,25 +1,25 @@
 ---
-title: PdfXmpMetadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfXmpMetadata. تضيف قيمة إلى بيانات XMP
+title: "PdfXmpMetadata.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfXmpMetadata. تُضيف قيمة إلى بيانات XMP الوصفية"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/add/
 ---
 ## Add(DefaultMetadataProperties, XmpValue) {#add}
 
-تضيف قيمة إلى بيانات XMP.
+يضيف قيمة إلى بيانات XMP الوصفية.
 
 ```csharp
 public void Add(DefaultMetadataProperties key, XmpValue value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | اسم المفتاح. |
-| value | XmpValue | القيمة التي ستتم إضافتها. |
+| المفتاح | DefaultMetadataProperties | اسم المفتاح. |
+| القيمة | XmpValue | القيمة التي سيتم إضافتها. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -28,7 +28,7 @@ xmp.Add(DefaultMetadataProperties.Nickname, "name1");
 xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 ```
 
-### See Also
+### انظر أيضًا
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
@@ -40,21 +40,21 @@ xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 
 ## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-تضيف حقل امتداد إلى البيانات الوصفية.
+يضيف حقل امتداد إلى البيانات الوصفية.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
     string namespaceUri, string schemaDescription)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | كائن امتداد PDF لإضافته. |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | كائن امتداد pdf لإضافته. |
 | namespacePrefix | String | بادئة المخطط. |
-| namespaceUri | String | URI مساحة الأسماء للمخطط. |
+| namespaceUri | String | معرف URI للمساحة الاسمية للمخطط. |
 | schemaDescription | String | الوصف الاختياري للمخطط. |
 
-### See Also
+### انظر أيضًا
 
 * class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
 * class [PdfXmpMetadata](../)
@@ -65,18 +65,18 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 
 ## Add(string, XmpValue) {#add_3}
 
-تضيف عنصرًا جديدًا إلى كائن القاموس.
+يضيف عنصرًا جديدًا إلى كائن القاموس.
 
 ```csharp
 public void Add(string key, XmpValue value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح العنصر الجديد. |
-| value | XmpValue | قيمة العنصر. |
+| المفتاح | String | مفتاح العنصر الجديد. |
+| القيمة | XmpValue | قيمة العنصر. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -84,7 +84,7 @@ xmp.BindPdf("input.pdf");
 xmp.Add("xmp:Nickname", "Nickname1");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
@@ -95,18 +95,18 @@ xmp.Add("xmp:Nickname", "Nickname1");
 
 ## Add(string, object) {#add_4}
 
-تضيف عنصرًا جديدًا إلى كائن القاموس.
+يضيف عنصرًا جديدًا إلى كائن القاموس.
 
 ```csharp
 public void Add(string key, object value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح العنصر الجديد. |
-| value | Object | قيمة العنصر. |
+| المفتاح | String | مفتاح العنصر الجديد. |
+| القيمة | كائن | قيمة العنصر. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -116,19 +116,21 @@ public void Add(string key, object value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-تضيف زوجًا مع مفتاح وقيمة إلى القاموس.
+يضيف زوجًا من المفتاح والقيمة إلى القاموس.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | KeyValuePair`2 | العنصر الذي سيتم إضافته. |
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

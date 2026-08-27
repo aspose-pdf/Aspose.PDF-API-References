@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextParagraph. تحصل أو تعين المحاذاة الأفقية للنص داخل مستطيلات الفقرات
+title: "TextParagraph.HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يضبط المحاذاة الأفقية للنص داخل مستطيل الفقرات Rectangle"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textparagraph/horizontalalignment/
 ---
-## خاصية TextParagraph.HorizontalAlignment
+## TextParagraph.HorizontalAlignment property
 
-تحصل أو تعين المحاذاة الأفقية للنص داخل مستطيل الفقرة [`Rectangle`](../rectangle/).
+يحصل أو يضبط المحاذاة الأفقية للنص داخل [`Rectangle`](../rectangle/) الخاص بالفقرات.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -24,3 +24,5 @@ HorizontalAlignment.None يساوي HorizontalAlignment.Left.
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

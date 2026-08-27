@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkdownSaveOptions. تحصل أو تعين نمط فواصل الأسطر للمستند الناتج
+title: "MarkdownSaveOptions.LineBreakStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkdownSaveOptions. يحصل أو يضبط نمط فاصل السطر للمستند المُنشأ"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/markdownsaveoptions/linebreakstyle/
 ---
-## خاصية MarkdownSaveOptions.LineBreakStyle
+## MarkdownSaveOptions.LineBreakStyle property
 
-تحصل أو تعين نمط فواصل الأسطر للمستند الناتج.
+يحصل أو يضبط نمط فاصل السطر للمستند المُولَّد.
 
 ```csharp
 public LineBreakStyle LineBreakStyle { get; set; }
@@ -20,3 +20,5 @@ public LineBreakStyle LineBreakStyle { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

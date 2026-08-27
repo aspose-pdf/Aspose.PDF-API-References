@@ -1,14 +1,14 @@
 ---
-title: ExportFieldsToJsonOptions.ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ExportFieldsToJsonOptions. المُنشئ الافتراضي
+title: "ExportFieldsToJsonOptions.ExportFieldsToJsonOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ExportFieldsToJsonOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/
 ---
-## مُنشئ ExportFieldsToJsonOptions
+## ExportFieldsToJsonOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ExportFieldsToJsonOptions()
@@ -19,3 +19,5 @@ public ExportFieldsToJsonOptions()
 * class [ExportFieldsToJsonOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

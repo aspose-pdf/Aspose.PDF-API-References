@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextExtractionErrorLocation. نوع كائن PDF الذي تم فيه تحديد خطأ استخراج نص تدفق المحتويات
+title: "TextExtractionErrorLocation.ObjectType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextExtractionErrorLocation. نوع كائن PDF (صفحة أو نموذج xForm) الذي يقع فيه خطأ استخراج النص من تدفق المحتوى"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textextractionerrorlocation/objecttype/
 ---
-## خاصية TextExtractionErrorLocation.ObjectType
+## TextExtractionErrorLocation.ObjectType property
 
-نوع كائن PDF (Page أو xForm) الذي تم فيه تحديد خطأ استخراج نص تدفق المحتويات.
+نوع كائن PDF (Page أو xForm) الذي يقع فيه خطأ استخراج النص في تدفق المحتوى.
 
 ```csharp
 public string ObjectType { get; }
@@ -19,3 +19,5 @@ public string ObjectType { get; }
 * class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

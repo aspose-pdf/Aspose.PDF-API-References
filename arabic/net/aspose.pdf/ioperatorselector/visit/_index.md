@@ -1,22 +1,22 @@
 ---
-title: IOperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOperatorSelector. زيارة/اختيار مشغل f
+title: "IOperatorSelector.Visit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOperatorSelector. زيارة/اختيار المشغل f"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/ioperatorselector/visit/
 ---
 ## Visit(Fill) {#visit_24}
 
-زيارة/اختيار مشغل f.
+زيارة/تحديد المشغل f.
 
 ```csharp
 public void Visit(Fill f)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| f | Fill | مشغل مسار التعبئة (قاعدة رقم الالتفاف غير الصفري). |
+| f | Fill | مشغل تعبئة المسار (قواعد عدد اللف غير الصفري). |
 
 ### انظر أيضًا
 
@@ -29,15 +29,15 @@ public void Visit(Fill f)
 
 ## Visit(ObsoleteFill) {#visit_37}
 
-زيارة/اختيار مشغل F.
+زيارة/تحديد المشغل F.
 
 ```csharp
 public void Visit(ObsoleteFill F)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| F | ObsoleteFill | مشغل مسار التعبئة (قاعدة رقم الالتفاف غير الصفري). |
+| F | ObsoleteFill | مشغل تعبئة المسار (قواعد عدد اللف غير الصفري). |
 
 ### انظر أيضًا
 
@@ -50,15 +50,15 @@ public void Visit(ObsoleteFill F)
 
 ## Visit(EOFill) {#visit_20}
 
-زيارة/اختيار مشغل f*.
+زيارة/تحديد المشغل f*.
 
 ```csharp
 public void Visit(EOFill f_)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| f_ | EOFill | مشغل مسار التعبئة (قاعدة الزوج والفرد). |
+| f_ | EOFill | مشغل تعبئة المسار (قواعد الزوجي والفردي). |
 
 ### انظر أيضًا
 
@@ -71,15 +71,15 @@ public void Visit(EOFill f_)
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-زيارة/اختيار مشغل G.
+زيارة/تحديد G المشغل.
 
 ```csharp
 public void Visit(SetGrayStroke G)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| G | SetGrayStroke | مشغل تعيين مستوى الرمادي (لعمليات التحديد). |
+| G | SetGrayStroke | مشغل تعيين مستوى الرمادي (للعمليات المتعلقة بالخط). |
 
 ### انظر أيضًا
 
@@ -92,15 +92,15 @@ public void Visit(SetGrayStroke G)
 
 ## Visit(SetGray) {#visit_55}
 
-زيارة/اختيار مشغل g.
+زيارة/تحديد g المشغل.
 
 ```csharp
 public void Visit(SetGray g)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| g | SetGray | مشغل تعيين مستوى الرمادي (لعمليات غير التحديد). |
+| g | SetGray | مشغل تعيين مستوى الرمادي (للعمليات غير المتعلقة بالخط). |
 
 ### انظر أيضًا
 
@@ -113,15 +113,15 @@ public void Visit(SetGray g)
 
 ## Visit(GS) {#visit_27}
 
-زيارة/اختيار مشغل gs.
+زيارة/تحديد المشغل gs.
 
 ```csharp
 public void Visit(GS gs)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| gs | GS | مشغل تعيين حالة الرسوميات. |
+| gs | GS | مشغل تعيين حالة الرسومات. |
 
 ### انظر أيضًا
 
@@ -134,13 +134,13 @@ public void Visit(GS gs)
 
 ## Visit(ClosePath) {#visit_6}
 
-زيارة/اختيار مشغل h.
+زيارة/اختيار المشغل h.
 
 ```csharp
 public void Visit(ClosePath h)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | h | ClosePath | مشغل إغلاق المسار الفرعي. |
 
@@ -155,15 +155,15 @@ public void Visit(ClosePath h)
 
 ## Visit(SetFlat) {#visit_53}
 
-زيارة/اختيار مشغل i.
+زيارة/تحديد i المشغل.
 
 ```csharp
 public void Visit(SetFlat i)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| i | SetFlat | مشغل تعيين مستوى التسطيح. |
+| i | SetFlat | مشغل تعيين تسامح الاستواء. |
 
 ### انظر أيضًا
 
@@ -176,15 +176,15 @@ public void Visit(SetFlat i)
 
 ## Visit(ID) {#visit_29}
 
-زيارة/اختيار مشغل ID.
+زيارة/تحديد المشغل ID.
 
 ```csharp
 public void Visit(ID ID)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ID | ID | مشغل بدء بيانات الصورة المضمنة. |
+| ID | ID | ابدأ مشغل بيانات الصورة المضمنة. |
 
 ### انظر أيضًا
 
@@ -197,13 +197,13 @@ public void Visit(ID ID)
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-زيارة/اختيار مشغل ri.
+زيارة/تحديد ri المشغل.
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | ri | SetColorRenderingIntent | مشغل تعيين نية عرض اللون. |
 
@@ -218,15 +218,15 @@ public void Visit(SetColorRenderingIntent ri)
 
 ## Visit(SetLineCap) {#visit_58}
 
-زيارة/اختيار مشغل J.
+زيارة/تحديد J المشغل.
 
 ```csharp
 public void Visit(SetLineCap J)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| J | SetLineCap | مشغل تعيين نمط نهاية الخط. |
+| J | SetLineCap | مشغل ضبط نمط غطاء الخط. |
 
 ### انظر أيضًا
 
@@ -239,15 +239,15 @@ public void Visit(SetLineCap J)
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-زيارة/اختيار مشغل M.
+زيارة/تحديد M المشغل.
 
 ```csharp
 public void Visit(SetMiterLimit M)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| M | SetMiterLimit | مشغل تعيين حد الميتر. |
+| M | SetMiterLimit | مشغل ضبط حد الزاوية الحادة. |
 
 ### انظر أيضًا
 
@@ -260,15 +260,15 @@ public void Visit(SetMiterLimit M)
 
 ## Visit(MP) {#visit_36}
 
-زيارة/اختيار مشغل MP.
+زيارة/تحديد المشغل MP.
 
 ```csharp
 public void Visit(MP MP)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| MP | MP | مشغل تعريف نقطة المحتوى المعلم. |
+| MP | MP | مشغل تعريف نقطة المحتوى المعلَّم. |
 
 ### انظر أيضًا
 
@@ -281,15 +281,15 @@ public void Visit(MP MP)
 
 ## Visit(EndPath) {#visit_18}
 
-زيارة/اختيار مشغل n.
+زيارة/اختيار المشغل n.
 
 ```csharp
 public void Visit(EndPath n)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| n | EndPath | مشغل إنهاء المسار (بدون تعبئة أو تحديد). |
+| n | EndPath | مشغل إنهاء المسار (دون تعبئة أو تحديد). |
 
 ### انظر أيضًا
 
@@ -302,15 +302,15 @@ public void Visit(EndPath n)
 
 ## Visit(GSave) {#visit_28}
 
-زيارة/اختيار مشغل q.
+زيارة/تحديد المشغل q.
 
 ```csharp
 public void Visit(GSave q)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| q | GSave | مشغل حفظ حالة الرسوميات. |
+| q | GSave | مشغل حفظ حالة الرسومات. |
 
 ### انظر أيضًا
 
@@ -323,15 +323,15 @@ public void Visit(GSave q)
 
 ## Visit(GRestore) {#visit_26}
 
-زيارة/اختيار مشغل Q.
+زيارة/تحديد المشغل Q.
 
 ```csharp
 public void Visit(GRestore Q)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Q | GRestore | مشغل استعادة حالة الرسوميات. |
+| Q | GRestore | مشغل استعادة حالة الرسومات. |
 
 ### انظر أيضًا
 
@@ -344,15 +344,15 @@ public void Visit(GRestore Q)
 
 ## Visit(Re) {#visit_38}
 
-زيارة/اختيار مشغل re.
+زيارة/تحديد المشغل re.
 
 ```csharp
 public void Visit(Re re)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| re | Re | مشغل إضافة مستطيل إلى المسار. |
+| re | Re | مشغل إلحاق مستطيل بالمسار. |
 
 ### انظر أيضًا
 
@@ -365,13 +365,13 @@ public void Visit(Re re)
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-زيارة/اختيار مشغل RG.
+زيارة/تحديد RG المشغل.
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | RG | SetRGBColorStroke | مشغل تعيين لون RGB (لعمليات التحديد). |
 
@@ -386,13 +386,13 @@ public void Visit(SetRGBColorStroke RG)
 
 ## Visit(SetRGBColor) {#visit_62}
 
-زيارة/اختيار مشغل rg.
+زيارة/تحديد rg المشغل.
 
 ```csharp
 public void Visit(SetRGBColor rg)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | rg | SetRGBColor | مشغل تعيين لون RGB (لعمليات غير التحديد). |
 
@@ -407,15 +407,15 @@ public void Visit(SetRGBColor rg)
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-زيارة/اختيار مشغل K.
+زيارة/تحديد K المشغل.
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | مشغل تعيين لون CMYK (لعمليات التحديد). |
+| K | SetCMYKColorStroke | مشغل ضبط لون CMYK (لعمليات التحديد). |
 
 ### انظر أيضًا
 
@@ -428,15 +428,15 @@ public void Visit(SetCMYKColorStroke K)
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-زيارة/اختيار مشغل k.
+زيارة/تحديد k المشغل.
 
 ```csharp
 public void Visit(SetCMYKColor k)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| k | SetCMYKColor | مشغل تعيين لون CMYK (لعمليات غير التحديد). |
+| k | SetCMYKColor | مشغل ضبط لون CMYK (لعمليات غير التحديد). |
 
 ### انظر أيضًا
 
@@ -449,15 +449,15 @@ public void Visit(SetCMYKColor k)
 
 ## Visit(LineTo) {#visit_30}
 
-زيارة/اختيار مشغل l.
+زيارة/تحديد المشغل l.
 
 ```csharp
 public void Visit(LineTo l)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| l | LineTo | مشغل إضافة قطعة خط مستقيم إلى المسار. |
+| l | LineTo | مشغل إلحاق مقطع خط مستقيم بالمسار. |
 
 ### انظر أيضًا
 
@@ -470,13 +470,13 @@ public void Visit(LineTo l)
 
 ## Visit(MoveTo) {#visit_33}
 
-زيارة/اختيار مشغل m.
+زيارة/تحديد المشغل m.
 
 ```csharp
 public void Visit(MoveTo m)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | m | MoveTo | مشغل بدء مسار فرعي جديد. |
 
@@ -491,15 +491,15 @@ public void Visit(MoveTo m)
 
 ## Visit(SetWordSpacing) {#visit_69}
 
-زيارة/اختيار مشغل Tw.
+زيارة/تحديد المشغل Tw.
 
 ```csharp
 public void Visit(SetWordSpacing Tw)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Tw | SetWordSpacing | مشغل تعيين تباعد الكلمات. |
+| Tw | SetWordSpacing | عامل تعيين تباعد الكلمات. |
 
 ### انظر أيضًا
 
@@ -512,15 +512,15 @@ public void Visit(SetWordSpacing Tw)
 
 ## Visit(ClosePathStroke) {#visit_9}
 
-زيارة/اختيار مشغل s.
+زيارة/اختيار المشغل s.
 
 ```csharp
 public void Visit(ClosePathStroke s)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| s | ClosePathStroke | مشغل إغلاق وتحديد المسار. |
+| s | ClosePathStroke | مشغل إغلاق ورسم المسار. |
 
 ### انظر أيضًا
 
@@ -533,15 +533,15 @@ public void Visit(ClosePathStroke s)
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
-زيارة/اختيار مشغل TD.
+زيارة/تحديد المشغل TD.
 
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | مشغل نقل موضع النص وتعيين الارتفاع. |
+| TD | MoveTextPositionSetLeading | نقل موضع النص وتعيين المسافة بين السطور. |
 
 ### انظر أيضًا
 
@@ -554,15 +554,15 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 ## Visit(SelectFont) {#visit_39}
 
-زيارة/اختيار مشغل Tf.
+زيارة/تحديد المشغل Tf.
 
 ```csharp
 public void Visit(SelectFont Tf)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Tf | SelectFont | مشغل تعيين خط النص وحجمه. |
+| Tf | SelectFont | عامل تعيين خط النص وحجمه. |
 
 ### انظر أيضًا
 
@@ -575,15 +575,15 @@ public void Visit(SelectFont Tf)
 
 ## Visit(ShowText) {#visit_71}
 
-زيارة/اختيار مشغل Tj.
+زيارة/تحديد المشغل Tj.
 
 ```csharp
 public void Visit(ShowText Tj)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Tj | ShowText | مشغل عرض النص. |
+| Tj | ShowText | عامل إظهار النص. |
 
 ### انظر أيضًا
 
@@ -596,15 +596,15 @@ public void Visit(ShowText Tj)
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-زيارة/اختيار مشغل TJ.
+زيارة/تحديد TJ المشغل.
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | مشغل عرض النص (يسمح بتحديد موضع كل حرف). |
+| TJ | SetGlyphsPositionShowText | عامل إظهار النص (يسمح بتموضع الحروف الفردية). |
 
 ### انظر أيضًا
 
@@ -617,15 +617,15 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 ## Visit(SetTextLeading) {#visit_65}
 
-زيارة/اختيار مشغل TL.
+زيارة/تحديد TL المشغل.
 
 ```csharp
 public void Visit(SetTextLeading TL)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| TL | SetTextLeading | مشغل تعيين ارتفاع النص. |
+| TL | SetTextLeading | عامل تعيين مسافة سطر النص. |
 
 ### انظر أيضًا
 
@@ -638,15 +638,15 @@ public void Visit(SetTextLeading TL)
 
 ## Visit(SetTextMatrix) {#visit_66}
 
-زيارة/اختيار مشغل Tm.
+زيارة/تحديد Tm المشغل.
 
 ```csharp
 public void Visit(SetTextMatrix Tm)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Tm | SetTextMatrix | مشغل تعيين مصفوفة النص ومصفوفة خط النص. |
+| Tm | SetTextMatrix | عامل تعيين مصفوفة النص ومصفوفة سطر النص. |
 
 ### انظر أيضًا
 
@@ -659,15 +659,15 @@ public void Visit(SetTextMatrix Tm)
 
 ## Visit(SetTextRenderingMode) {#visit_67}
 
-زيارة/اختيار مشغل Tr.
+زيارة/تحديد Tr المشغل.
 
 ```csharp
 public void Visit(SetTextRenderingMode Tr)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | مشغل تعيين وضع عرض النص. |
+| Tr | SetTextRenderingMode | عامل تعيين وضع عرض النص. |
 
 ### انظر أيضًا
 
@@ -680,15 +680,15 @@ public void Visit(SetTextRenderingMode Tr)
 
 ## Visit(SetTextRise) {#visit_68}
 
-زيارة/اختيار مشغل Ts.
+زيارة/تحديد Ts المشغل.
 
 ```csharp
 public void Visit(SetTextRise Ts)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Ts | SetTextRise | مشغل تعيين ارتفاع النص. |
+| Ts | SetTextRise | عامل تعيين ارتفاع النص. |
 
 ### انظر أيضًا
 
@@ -701,15 +701,15 @@ public void Visit(SetTextRise Ts)
 
 ## Visit(Stroke) {#visit_72}
 
-زيارة/اختيار مشغل S.
+زيارة/تحديد المشغل S.
 
 ```csharp
 public void Visit(Stroke S)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| S | Stroke | مشغل تحديد المسار. |
+| S | Stroke | مشغل رسم المسار. |
 
 ### انظر أيضًا
 
@@ -722,15 +722,15 @@ public void Visit(Stroke S)
 
 ## Visit(SetColorStroke) {#visit_51}
 
-زيارة/اختيار مشغل SC.
+زيارة/تحديد SC المشغل.
 
 ```csharp
 public void Visit(SetColorStroke SC)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| SC | SetColorStroke | مشغل تعيين اللون (لعمليات التحديد). |
+| SC | SetColorStroke | تعيين عامل اللون (لعمليات الرسم). |
 
 ### انظر أيضًا
 
@@ -743,13 +743,13 @@ public void Visit(SetColorStroke SC)
 
 ## Visit(SetColor) {#visit_47}
 
-زيارة/اختيار مشغل sc.
+زيارة/تحديد sc المشغل.
 
 ```csharp
 public void Visit(SetColor sc)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | sc | SetColor | مشغل تعيين اللون (لعمليات غير التحديد). |
 
@@ -764,15 +764,15 @@ public void Visit(SetColor sc)
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
-زيارة/اختيار مشغل SCN.
+زيارة/تحديد المشغل SCN.
 
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | مشغل تعيين اللون (لعمليات التحديد، ICCBased وفضاءات الألوان الخاصة). |
+| SCN | SetAdvancedColorStroke | تعيين عامل اللون (لعمليات الرسم، ICCBased والمساحات اللونية الخاصة). |
 
 ### انظر أيضًا
 
@@ -785,15 +785,15 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-زيارة/اختيار مشغل scn.
+زيارة/تحديد المشغل scn.
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| scn | SetAdvancedColor | مشغل تعيين اللون (لعمليات غير التحديد، ICCBased وفضاءات الألوان الخاصة). |
+| scn | SetAdvancedColor | تعيين عامل اللون (لعمليات غير الرسم، ICCBased والمساحات اللونية الخاصة). |
 
 ### انظر أيضًا
 
@@ -806,15 +806,15 @@ public void Visit(SetAdvancedColor scn)
 
 ## Visit(ShFill) {#visit_70}
 
-زيارة/اختيار مشغل sh.
+زيارة/تحديد المشغل sh.
 
 ```csharp
 public void Visit(ShFill sh)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| sh | ShFill | مشغل طلاء المنطقة المحددة بواسطة نمط التظليل. |
+| sh | ShFill | رسم المنطقة المحددة بواسطة عامل نمط التظليل. |
 
 ### انظر أيضًا
 
@@ -827,15 +827,15 @@ public void Visit(ShFill sh)
 
 ## Visit(MoveToNextLine) {#visit_34}
 
-زيارة/اختيار مشغل T*.
+زيارة/تحديد المشغل T*.
 
 ```csharp
 public void Visit(MoveToNextLine T_)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| T_ | MoveToNextLine | مشغل الانتقال إلى بداية السطر النصي التالي. |
+| T_ | MoveToNextLine | نقل إلى بداية سطر النص التالي. |
 
 ### انظر أيضًا
 
@@ -848,15 +848,15 @@ public void Visit(MoveToNextLine T_)
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
-زيارة/اختيار مشغل Tc.
+زيارة/تحديد المشغل Tc.
 
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | مشغل تعيين تباعد الأحرف. |
+| Tc | SetCharacterSpacing | تعيين عامل تباعد الأحرف. |
 
 ### انظر أيضًا
 
@@ -869,15 +869,15 @@ public void Visit(SetCharacterSpacing Tc)
 
 ## Visit(MoveTextPosition) {#visit_31}
 
-زيارة/اختيار مشغل Td.
+زيارة/تحديد المشغل Td.
 
 ```csharp
 public void Visit(MoveTextPosition Td)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Td | MoveTextPosition | مشغل نقل موضع النص. |
+| Td | MoveTextPosition | نقل موضع النص. |
 
 ### انظر أيضًا
 
@@ -890,15 +890,15 @@ public void Visit(MoveTextPosition Td)
 
 ## Visit(CurveTo2) {#visit_13}
 
-زيارة/اختيار مشغل y.
+زيارة/اختيار المشغل y.
 
 ```csharp
 public void Visit(CurveTo2 y)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| y | CurveTo2 | مشغل إضافة قطعة منحنية إلى المسار (نقطة النهاية مكررة). |
+| y | CurveTo2 | إضافة مقطع منحني إلى عامل المسار (نقطة النهاية مكررة). |
 
 ### انظر أيضًا
 
@@ -911,15 +911,15 @@ public void Visit(CurveTo2 y)
 
 ## Visit(EOClip) {#visit_19}
 
-زيارة/اختيار مشغل W*.
+زيارة/تحديد المشغل W*.
 
 ```csharp
 public void Visit(EOClip W_)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| W_ | EOClip | مشغل تعيين مسار القص (قاعدة الزوج والفرد). |
+| W_ | EOClip | تعيين عامل مسار القص (قاعدة الزوجي-الفردي). |
 
 ### انظر أيضًا
 
@@ -932,15 +932,15 @@ public void Visit(EOClip W_)
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-زيارة/اختيار مشغل Tz.
+زيارة/تحديد Tz المشغل.
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | مشغل تعيين مقياس النص الأفقي. |
+| Tz | SetHorizontalTextScaling | عامل تعيين مقياس النص الأفقي. |
 
 ### انظر أيضًا
 
@@ -953,15 +953,15 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 ## Visit(CurveTo1) {#visit_12}
 
-زيارة/اختيار مشغل v.
+زيارة/اختيار المشغل v.
 
 ```csharp
 public void Visit(CurveTo1 v)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| v | CurveTo1 | مشغل إضافة قطعة منحنية إلى المسار (نقطة البداية مكررة). |
+| v | CurveTo1 | إضافة مقطع منحني إلى عامل المسار (نقطة البداية مكررة). |
 
 ### انظر أيضًا
 
@@ -974,15 +974,15 @@ public void Visit(CurveTo1 v)
 
 ## Visit(Clip) {#visit_5}
 
-زيارة/اختيار مشغل W.
+زيارة/اختيار المشغل W.
 
 ```csharp
 public void Visit(Clip W)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| W | Clip | مشغل تعيين مسار القص (قاعدة رقم الالتفاف غير الصفري). |
+| W | Clip | تعيين عامل مسار القص (قاعدة عدد اللف غير الصفري). |
 
 ### انظر أيضًا
 
@@ -995,15 +995,15 @@ public void Visit(Clip W)
 
 ## Visit(SetLineWidth) {#visit_60}
 
-زيارة/اختيار مشغل w.
+زيارة/تحديد w المشغل.
 
 ```csharp
 public void Visit(SetLineWidth w)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| w | SetLineWidth | مشغل تعيين عرض الخط. |
+| w | SetLineWidth | عامل تعيين عرض الخط. |
 
 ### انظر أيضًا
 
@@ -1016,15 +1016,15 @@ public void Visit(SetLineWidth w)
 
 ## Visit(SetLineJoin) {#visit_59}
 
-زيارة/اختيار مشغل j.
+زيارة/تحديد j المشغل.
 
 ```csharp
 public void Visit(SetLineJoin j)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| j | SetLineJoin | مشغل تعيين نمط انضمام الخط. |
+| j | SetLineJoin | عامل ضبط نمط ربط الخط. |
 
 ### انظر أيضًا
 
@@ -1037,15 +1037,15 @@ public void Visit(SetLineJoin j)
 
 ## Visit(EX) {#visit_23}
 
-زيارة/اختيار مشغل EX.
+زيارة/تحديد المشغل EX.
 
 ```csharp
 public void Visit(EX EX)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| EX | EX | مشغل إنهاء قسم التوافق. |
+| EX | EX | عامل إنهاء قسم التوافق. |
 
 ### انظر أيضًا
 
@@ -1058,15 +1058,15 @@ public void Visit(EX EX)
 
 ## Visit(ET) {#visit_22}
 
-زيارة/اختيار مشغل ET.
+زيارة/تحديد المشغل ET.
 
 ```csharp
 public void Visit(ET ET)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ET | ET | مشغل إنهاء كائن النص. |
+| ET | ET | عامل إنهاء كائن النص. |
 
 ### انظر أيضًا
 
@@ -1079,15 +1079,15 @@ public void Visit(ET ET)
 
 ## Visit(EMC) {#visit_17}
 
-زيارة/اختيار مشغل EMC.
+زيارة/اختيار المشغل EMC.
 
 ```csharp
 public void Visit(EMC EMC)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| EMC | EMC | مشغل إنهاء تسلسل المحتوى المعلم. |
+| EMC | EMC | إنهاء مشغل تسلسل المحتوى المعلَّم. |
 
 ### انظر أيضًا
 
@@ -1100,15 +1100,15 @@ public void Visit(EMC EMC)
 
 ## Visit(EI) {#visit_16}
 
-زيارة/اختيار مشغل EI.
+زيارة/اختيار المشغل EI.
 
 ```csharp
 public void Visit(EI EI)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| EI | EI | مشغل إنهاء كائن الصورة المضمنة. |
+| EI | EI | إنهاء مشغل كائن الصورة المضمنة. |
 
 ### انظر أيضًا
 
@@ -1121,15 +1121,15 @@ public void Visit(EI EI)
 
 ## Visit(DP) {#visit_15}
 
-زيارة/اختيار مشغل DP.
+زيارة/اختيار المشغل DP.
 
 ```csharp
 public void Visit(DP DP)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| DP | DP | مشغل تعريف نقطة المحتوى المعلم (مع قائمة الخصائص). |
+| DP | DP | تعريف مشغل نقطة المحتوى المعلَّم (مع قائمة الخصائص). |
 
 ### انظر أيضًا
 
@@ -1142,15 +1142,15 @@ public void Visit(DP DP)
 
 ## Visit(Do) {#visit_14}
 
-زيارة/اختيار مشغل Do.
+زيارة/اختيار المشغل Do.
 
 ```csharp
 public void Visit(Do Do)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| Do | Do | مشغل استدعاء كائن X المسمى. |
+| Do | Do | استدعاء مشغل XObject المسمى. |
 
 ### انظر أيضًا
 
@@ -1163,15 +1163,15 @@ public void Visit(Do Do)
 
 ## Visit(SetDash) {#visit_52}
 
-زيارة/اختيار مشغل d.
+زيارة/تحديد d المشغل.
 
 ```csharp
 public void Visit(SetDash d)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| d | SetDash | مشغل تعيين نمط خط متقطع. |
+| d | SetDash | مشغل تعيين نمط الشرط للخط. |
 
 ### انظر أيضًا
 
@@ -1184,15 +1184,15 @@ public void Visit(SetDash d)
 
 ## Visit(SetCharWidth) {#visit_43}
 
-زيارة/اختيار مشغل d0.
+زيارة/تحديد المشغل d0.
 
 ```csharp
 public void Visit(SetCharWidth d0)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| d0 | SetCharWidth | مشغل تعيين عرض الحرف في خط النوع 3. |
+| d0 | SetCharWidth | تعيين عرض الحرف في مشغل الخط من النوع 3. |
 
 ### انظر أيضًا
 
@@ -1205,15 +1205,15 @@ public void Visit(SetCharWidth d0)
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-زيارة/اختيار مشغل d1.
+زيارة/تحديد d1 المشغل.
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | مشغل تعيين عرض الحرف وصندوق الحدود في خط النوع 3. |
+| d1 | SetCharWidthBoundingBox | تعيين عرض الحرف وصندوق الحد في مشغل الخط من النوع 3. |
 
 ### انظر أيضًا
 
@@ -1226,15 +1226,15 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-زيارة/اختيار مشغل CS.
+زيارة/تحديد CS المشغل.
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | مشغل تعيين فضاء اللون (لعمليات التحديد). |
+| CS | SetColorSpaceStroke | مشغل تعيين مساحة اللون (لعمليات الرسم). |
 
 ### انظر أيضًا
 
@@ -1247,15 +1247,15 @@ public void Visit(SetColorSpaceStroke CS)
 
 ## Visit(SetColorSpace) {#visit_49}
 
-زيارة/اختيار مشغل cs.
+زيارة/تحديد cs المشغل.
 
 ```csharp
 public void Visit(SetColorSpace cs)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| cs | SetColorSpace | مشغل تعيين فضاء اللون (لعمليات غير التحديد). |
+| cs | SetColorSpace | مشغل تعيين مساحة اللون (لعمليات غير الرسم). |
 
 ### انظر أيضًا
 
@@ -1268,13 +1268,13 @@ public void Visit(SetColorSpace cs)
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
-زيارة/اختيار مشغل cm.
+زيارة/اختيار المشغل cm.
 
 ```csharp
 public void Visit(ConcatenateMatrix cm)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | cm | ConcatenateMatrix | مشغل دمج المصفوفة مع مصفوفة التحويل الحالية. |
 
@@ -1289,15 +1289,15 @@ public void Visit(ConcatenateMatrix cm)
 
 ## Visit(CurveTo) {#visit_11}
 
-زيارة/اختيار مشغل c.
+زيارة/اختيار المشغل c.
 
 ```csharp
 public void Visit(CurveTo c)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| c | CurveTo | مشغل إضافة قطعة منحنية إلى المسار (ثلاث نقاط تحكم). |
+| c | CurveTo | إضافة مقطع منحني إلى عامل المسار (ثلاث نقاط تحكم). |
 
 ### انظر أيضًا
 
@@ -1310,15 +1310,15 @@ public void Visit(CurveTo c)
 
 ## Visit(BX) {#visit_4}
 
-زيارة/اختيار مشغل BX.
+زيارة/اختيار المشغل BX.
 
 ```csharp
 public void Visit(BX BX)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| BX | BX | مشغل بدء قسم التوافق. |
+| BX | BX | بدء عامل قسم التوافق. |
 
 ### انظر أيضًا
 
@@ -1331,15 +1331,15 @@ public void Visit(BX BX)
 
 ## Visit(BT) {#visit_3}
 
-زيارة/اختيار مشغل BT.
+زيارة/اختيار المشغل BT.
 
 ```csharp
 public void Visit(BT BT)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| BT | BT | مشغل بدء كائن النص. |
+| BT | BT | بدء عامل كائن النص. |
 
 ### انظر أيضًا
 
@@ -1352,15 +1352,15 @@ public void Visit(BT BT)
 
 ## Visit(BMC) {#visit_2}
 
-زيارة/اختيار مشغل BMC.
+زيارة/اختيار المشغل BMC.
 
 ```csharp
 public void Visit(BMC BMC)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| BMC | BMC | مشغل بدء تسلسل المحتوى المعلم. |
+| BMC | BMC | بدء عامل تسلسل المحتوى المميز. |
 
 ### انظر أيضًا
 
@@ -1373,15 +1373,15 @@ public void Visit(BMC BMC)
 
 ## Visit(BI) {#visit_1}
 
-زيارة/اختيار مشغل BI.
+زيارة/اختيار المشغل BI.
 
 ```csharp
 public void Visit(BI BI)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| BI | BI | مشغل بدء كائن الصورة المضمنة. |
+| BI | BI | بدء عامل كائن الصورة المضمنة. |
 
 ### انظر أيضًا
 
@@ -1394,15 +1394,15 @@ public void Visit(BI BI)
 
 ## Visit(BDC) {#visit}
 
-زيارة/اختيار مشغل BDC.
+زيارة/اختيار المشغل BDC.
 
 ```csharp
 public void Visit(BDC BDC)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| BDC | BDC | مشغل بدء تسلسل المحتوى المعلم (مع قائمة الخصائص). |
+| BDC | BDC | بدء عامل تسلسل المحتوى المميز (مع قائمة الخصائص). |
 
 ### انظر أيضًا
 
@@ -1415,15 +1415,15 @@ public void Visit(BDC BDC)
 
 ## Visit(FillStroke) {#visit_25}
 
-زيارة/اختيار مشغل B.
+زيارة/تحديد المشغل B.
 
 ```csharp
 public void Visit(FillStroke B)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| B | FillStroke | مشغل تعبئة وتحديد المسار (قاعدة رقم الالتفاف غير الصفري). |
+| B | FillStroke | عامل تعبئة ورسم المسار (قاعدة عدد اللف غير الصفري). |
 
 ### انظر أيضًا
 
@@ -1436,15 +1436,15 @@ public void Visit(FillStroke B)
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
-زيارة/اختيار مشغل b.
+زيارة/اختيار المشغل b.
 
 ```csharp
 public void Visit(ClosePathFillStroke b)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| b | ClosePathFillStroke | مشغل إغلاق، تعبئة، وتحديد المسار (قاعدة رقم الالتفاف غير الصفري). |
+| b | ClosePathFillStroke | عامل إغلاق، تعبئة، ورسم المسار (قاعدة عدد اللف غير الصفري). |
 
 ### انظر أيضًا
 
@@ -1457,15 +1457,15 @@ public void Visit(ClosePathFillStroke b)
 
 ## Visit(EOFillStroke) {#visit_21}
 
-زيارة/اختيار مشغل B*.
+زيارة/تحديد المشغل B*.
 
 ```csharp
 public void Visit(EOFillStroke B_)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| B_ | EOFillStroke | مشغل تعبئة وتحديد المسار (قاعدة الزوج والفرد). |
+| B_ | EOFillStroke | عامل تعبئة ورسم المسار (قاعدة الزوجي-الفردي). |
 
 ### انظر أيضًا
 
@@ -1478,15 +1478,15 @@ public void Visit(EOFillStroke B_)
 
 ## Visit(ClosePathEOFillStroke) {#visit_7}
 
-زيارة/اختيار مشغل b*.
+زيارة/اختيار المشغل b*.
 
 ```csharp
 public void Visit(ClosePathEOFillStroke b_)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | مشغل إغلاق، تعبئة، وتحديد المسار (قاعدة الزوج والفرد). |
+| b_ | ClosePathEOFillStroke | عامل إغلاق، تعبئة، ورسم المسار (قاعدة الزوجي-الفردي). |
 
 ### انظر أيضًا
 
@@ -1499,15 +1499,15 @@ public void Visit(ClosePathEOFillStroke b_)
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-زيارة/اختيار مشغل '.
+زيارة/تحديد المشغل '.
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | الانتقال إلى السطر التالي وعرض النص. |
+| _ | MoveToNextLineShowText | عامل الانتقال إلى السطر التالي وعرض النص. |
 
 ### انظر أيضًا
 
@@ -1520,15 +1520,15 @@ public void Visit(MoveToNextLineShowText _)
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-زيارة/اختيار مشغل ''.
+زيارة/تحديد '' المشغل.
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | تعيين تباعد الكلمات والأحرف، الانتقال إلى السطر التالي، وعرض النص. |
+| __ | SetSpacingMoveToNextLineShowText | تعيين تباعد الكلمات والحروف، الانتقال إلى السطر التالي، وعرض النص المشغل. |
 
 ### انظر أيضًا
 
@@ -1541,15 +1541,15 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 ## Visit(TextOperator) {#visit_73}
 
-زيارة/اختيار أي مشغل نص.
+زيارة/تحديد أي مشغل نصي.
 
 ```csharp
 public void Visit(TextOperator textOperator)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| textOperator | TextOperator | مشغل نص عام يستخدم لاختيار مجموعة من مشغلات PDF المقابلة. |
+| textOperator | TextOperator | عامل نص عام يُستخدم لتحديد مجموعة عوامل الـ pdf المقابلة. |
 
 ### انظر أيضًا
 
@@ -1557,3 +1557,5 @@ public void Visit(TextOperator textOperator)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

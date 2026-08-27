@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ShowLocation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تحدد رؤية الموقع. القيمة الافتراضية true
+title: "SignatureCustomAppearance.ShowLocation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط رؤية الموقع. القيمة الافتراضية true"
 type: docs
-weight: 170
+weight: 180
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/showlocation/
 ---
-## خاصية SignatureCustomAppearance.ShowLocation
+## SignatureCustomAppearance.ShowLocation property
 
-تحصل/تحدد رؤية الموقع. القيمة الافتراضية: true.
+الحصول/التعيين لرؤية الموقع. القيمة الافتراضية: true.
 
 ```csharp
 public bool ShowLocation { get; set; }
@@ -19,3 +19,5 @@ public bool ShowLocation { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

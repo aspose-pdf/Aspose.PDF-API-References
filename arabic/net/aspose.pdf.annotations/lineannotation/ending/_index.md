@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.Ending
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل على أو تعين نقطة نهاية الخط
+title: "LineAnnotation.Ending"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. تحصل أو تعين نقطة نهاية الخط"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/lineannotation/ending/
 ---
-## خاصية LineAnnotation.Ending
+## LineAnnotation.Ending property
 
-تحصل على أو تعين نقطة نهاية الخط.
+يحصل أو يضبط نقطة نهاية الخط.
 
 ```csharp
 public Point Ending { get; set; }
@@ -20,3 +20,5 @@ public Point Ending { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

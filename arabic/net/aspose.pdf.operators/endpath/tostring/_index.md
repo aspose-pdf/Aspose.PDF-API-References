@@ -1,14 +1,14 @@
 ---
-title: EndPath.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EndPath. التمثيل النصي للمشغل
+title: "EndPath.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EndPath. تمثيل نصي للمشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/endpath/tostring/
 ---
-## طريقة EndPath.ToString
+## EndPath.ToString method
 
-التمثيل النصي للمشغل.
+تمثيل النص للعامل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-التمثيل النصي للمشغل.
+تمثيل النص للعامل.
 
 ### انظر أيضًا
 
 * class [EndPath](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

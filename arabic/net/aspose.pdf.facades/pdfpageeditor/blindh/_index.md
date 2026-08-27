@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.BLINDH
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfPageEditor. الستائر العمودية
+title: "PdfPageEditor.BLINDH"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfPageEditor. ستائر عمودية"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/blindh/
 ---
-## حقل PdfPageEditor.BLINDH
+## PdfPageEditor.BLINDH field
 
-الستائر العمودية
+ستائر عمودية
 
 ```csharp
 public const int BLINDH;
@@ -19,3 +19,5 @@ public const int BLINDH;
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. تحصل على نص الأرتيفكت
+title: "Artifact.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. تحصل على نص القطعة."
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf/artifact/text/
 ---
-## خاصية Artifact.Text
+## Artifact.Text property
 
-تحصل على نص الأرتيفكت.
+يحصل على نص القطعة.
 
 ```csharp
 public string Text { get; set; }
@@ -19,3 +19,5 @@ public string Text { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

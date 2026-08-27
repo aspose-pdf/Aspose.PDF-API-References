@@ -1,14 +1,14 @@
 ---
-title: AbsorbedCell.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AbsorbedCell. تحصل على المستطيل الذي يصف موقع الخلية على الصفحة
+title: "AbsorbedCell.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AbsorbedCell. تحصل على rectangle الذي يصف موضع الخلية على الصفحة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/absorbedcell/rectangle/
 ---
-## خاصية AbsorbedCell.Rectangle
+## AbsorbedCell.Rectangle property
 
-تحصل على المستطيل الذي يصف موقع الخلية على الصفحة
+الحصول على المستطيل الذي يصف موضع الخلية في الصفحة
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Lower
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل السلة السفلية للطابعة
+title: "PaperSources.Lower"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل الحاوية السفلية للطابعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.printing/papersources/lower/
 ---
-## حقل PaperSources.Lower
+## PaperSources.Lower field
 
-يمثل السلة السفلية للطابعة.
+يمثل صينية الورق السفلية للطابعة.
 
 ```csharp
 public static readonly PaperSource Lower;
@@ -20,3 +20,5 @@ public static readonly PaperSource Lower;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

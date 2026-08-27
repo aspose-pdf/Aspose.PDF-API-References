@@ -1,25 +1,25 @@
 ---
-title: ShowText.ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ShowText. يُهيئ عامل Tj
+title: "ShowText.ShowText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ShowText. يهيئ المشغل Tj"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/showtext/showtext/
 ---
 ## ShowText(int, string) {#constructor_1}
 
-يُهيئ عامل Tj.
+يُهيئ المشغّل Tj.
 
 ```csharp
 public ShowText(int index, string text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس العامل في قائمة العوامل. |
-| text | String | حجة العامل. |
+| index | Int32 | فهرس المشغل في قائمة المشغلات. |
+| نص | String | معامل المشغل. |
 
-### See Also
+### انظر أيضًا
 
 * class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -29,17 +29,17 @@ public ShowText(int index, string text)
 
 ## ShowText(string) {#constructor_2}
 
-يُهيئ عامل Tj.
+يُهيئ المشغّل Tj.
 
 ```csharp
 public ShowText(string text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | حجة العامل. |
+| نص | String | معامل المشغل. |
 
-### See Also
+### انظر أيضًا
 
 * class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -49,18 +49,18 @@ public ShowText(string text)
 
 ## ShowText(string, Font) {#constructor_3}
 
-يُهيئ عامل Tj.
+يُهيئ المشغّل Tj.
 
 ```csharp
 public ShowText(string text, Font font)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | النص المراد إضافته. |
-| font | Font | الخط الذي يُستخدم لرسم النص. |
+| نص | String | النص لإضافته. |
+| الخط | Font | الخط المستخدم لرسم النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [Font](../../../aspose.pdf.text/font/)
 * class [ShowText](../)
@@ -71,14 +71,16 @@ public ShowText(string text, Font font)
 
 ## ShowText() {#constructor}
 
-يُهيئ عامل Tj.
+يُهيئ المشغّل Tj.
 
 ```csharp
 public ShowText()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ButtonField.RolloverIcon
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ButtonField. تحصل أو تعين أيقونة التمرير الخاصة بالزر التي ستظهر عندما يقوم المستخدم بتحريك المؤشر إلى منطقة النشاط الخاصة بها دون الضغط على زر الماوس
+title: "ButtonField.RolloverIcon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ButtonField. يحصل أو يضبط أيقونة التمرير للزر التي ستُعرض عندما يمر المستخدم بالمؤشر إلى منطقته النشطة دون ضغط زر الفأرة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.forms/buttonfield/rollovericon/
 ---
-## خاصية ButtonField.RolloverIcon
+## ButtonField.RolloverIcon property
 
-تحصل أو تعين أيقونة التمرير الخاصة بالزر التي ستظهر عندما يقوم المستخدم بتحريك المؤشر إلى منطقة النشاط الخاصة بها دون الضغط على زر الماوس.
+يحصل أو يعيّن أيقونة التمرير للزر التي ستُعرض عندما يمرّر المستخدم المؤشر إلى منطقته النشطة دون ضغط زر الفأرة.
 
 ```csharp
 public XForm RolloverIcon { get; set; }
@@ -20,3 +20,5 @@ public XForm RolloverIcon { get; set; }
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

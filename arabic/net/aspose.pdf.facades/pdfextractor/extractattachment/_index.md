@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تستخرج المرفقات من مستند Pdf
+title: "PdfExtractor.ExtractAttachment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfExtractor. تستخرج المرفقات من مستند Pdf."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdfextractor/extractattachment/
 ---
 ## ExtractAttachment() {#extractattachment}
 
-تستخرج المرفقات من مستند Pdf.
+يستخرج المرفقات من مستند PDF.
 
 ```csharp
 public void ExtractAttachment()
@@ -24,18 +24,20 @@ public void ExtractAttachment()
 
 ## ExtractAttachment(string) {#extractattachment_1}
 
-تستخرج المرفق إلى ملف PDF بواسطة اسم المرفق.
+يستخرج المرفق إلى ملف PDF حسب اسم المرفق.
 
 ```csharp
 public void ExtractAttachment(string attachmentFileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| attachmentFileName | String | اسم المرفق الذي سيتم استخراجه |
+| attachmentFileName | String | اسم المرفق المراد استخراجها |
 
 ### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

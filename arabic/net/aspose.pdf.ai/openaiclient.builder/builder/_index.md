@@ -1,25 +1,27 @@
 ---
-title: OpenAIClient.Builder.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Builder. يقوم بتهيئة مثيل جديد من فئة Builder باستخدام مفتاح API
+title: "OpenAIClient.Builder.Builder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Builder. يهيئ مثالًا جديدًا من فئة Builder باستخدام مفتاح API"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/openaiclient.builder/builder/
 ---
-## مُنشئ OpenAIClient.Builder
+## OpenAIClient.Builder constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`Builder`](../) باستخدام مفتاح API.
+يهيئ مثالًا جديدًا من فئة [`Builder`](../) باستخدام مفتاح API.
 
 ```csharp
 public Builder(string apiKey)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| apiKey | سلسلة | مفتاح API لاستخدامه مع العميل. |
+| apiKey | String | مفتاح API لاستخدامه مع العميل. |
 
 ### انظر أيضًا
 
-* فئة [Builder](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

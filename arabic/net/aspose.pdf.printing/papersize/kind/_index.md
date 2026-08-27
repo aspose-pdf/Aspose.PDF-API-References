@@ -1,14 +1,14 @@
 ---
-title: PaperSize.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PaperSize. تحصل على نوع الورق
+title: "PaperSize.Kind"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PaperSize. تحصل على نوع الورق"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.printing/papersize/kind/
 ---
-## خاصية PaperSize.Kind
+## PaperSize.Kind property
 
-تحصل على نوع الورق.
+يحصل على نوع الورق.
 
 ```csharp
 public PaperKind Kind { get; }
@@ -20,3 +20,5 @@ public PaperKind Kind { get; }
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

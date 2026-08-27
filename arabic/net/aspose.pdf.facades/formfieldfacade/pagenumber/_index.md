@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. قيمة صحيحة تمثل رقم الصفحة التي يقع فيها الحقل
+title: "FormFieldFacade.PageNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldFacade. قيمة عددية صحيحة تمثل رقم الصفحة التي يقع فيها الحقل"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.facades/formfieldfacade/pagenumber/
 ---
-## خاصية FormFieldFacade.PageNumber
+## FormFieldFacade.PageNumber property
 
-قيمة صحيحة تمثل رقم الصفحة التي يقع فيها الحقل.
+قيمة عددية صحيحة تحمل رقم الصفحة التي يقع فيها الحقل.
 
 ```csharp
 public int PageNumber { get; set; }
@@ -19,3 +19,5 @@ public int PageNumber { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

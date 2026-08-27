@@ -1,14 +1,14 @@
 ---
-title: Rectangle.LLY
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. إحداثي Y للزاوية السفلى اليسرى
+title: "Rectangle.LLY"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. إحداثي Y للزاوية السفلية اليسرى."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/rectangle/lly/
 ---
-## خاصية Rectangle.LLY
+## Rectangle.LLY property
 
-إحداثي Y للزاوية السفلى اليسرى.
+الإحداثي Y للزاوية السفلية اليسرى.
 
 ```csharp
 public double LLY { get; set; }
@@ -19,3 +19,5 @@ public double LLY { get; set; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Headlamp
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DLightingScheme. مخطط إضاءة المصباح الأمامي
+title: "PDF3DLightingScheme.Headlamp"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DLightingScheme. مخطط الإضاءة المصباح الأمامي"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/pdf3dlightingscheme/headlamp/
 ---
-## حقل PDF3DLightingScheme.Headlamp
+## PDF3DLightingScheme.Headlamp field
 
-مخطط إضاءة "المصباح الأمامي".
+مخطط الإضاءة "Headlamp".
 
 ```csharp
 public static PDF3DLightingScheme Headlamp;
@@ -19,3 +19,5 @@ public static PDF3DLightingScheme Headlamp;
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

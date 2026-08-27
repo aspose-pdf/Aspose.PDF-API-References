@@ -1,7 +1,7 @@
 ---
-title: FormEditor.AddField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. إضافة حقل من النوع المحدد إلى النموذج
+title: "FormEditor.AddField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. إضافة حقل من النوع المحدد إلى النموذج"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/formeditor/addfield/
@@ -15,21 +15,21 @@ public bool AddField(FieldType fieldType, string fieldName, int pageNum, float l
     float urx, float ury)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldType | FieldType | نوع الحقل الذي يجب إضافته. |
 | fieldName | String | اسم الحقل الذي يجب إضافته. |
-| pageNum | Int32 | رقم الصفحة التي يجب وضع الحقل الجديد فيها. |
-| llx | Single | الإحداثي السيني للزاوية السفلى اليسرى من الحقل. |
-| lly | Single | الإحداثي الصادي للزاوية السفلى اليسرى من الحقل. |
-| urx | Single | الإحداثي السيني للزاوية العليا اليمنى من الحقل. |
-| ury | Single | الإحداثي الصادي للزاوية العليا اليمنى من الحقل. |
+| pageNum | Int32 | رقم الصفحة حيث يجب وضع الحقل الجديد. |
+| llx | Single | الإحداثي السيني للزاوية السفلية اليسرى للحقل. |
+| lly | Single | الإحداثي الرأسي للزاوية السفلية اليسرى للحقل. |
+| urx | Single | الإحداثي السيني للزاوية العلوية اليمنى للحقل. |
+| ury | Single | الإحداثي الصادي للزاوية العلوية اليمنى للحقل. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم إضافة الحقل بنجاح.
+صحيح إذا تم إضافة الحقل بنجاح.
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_Text.pdf");
@@ -37,7 +37,7 @@ formEditor.AddField(FieldType.Text, "AddedTextField",  1, 10, 30, 110, 46);
 formEditor.Save();
 ```
 
-### See Also
+### انظر أيضًا
 
 * enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
@@ -55,22 +55,22 @@ public bool AddField(FieldType fieldType, string fieldName, string initValue, in
     float llx, float lly, float urx, float ury)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldType | FieldType | نوع الحقل الذي يجب إضافته. |
 | fieldName | String | اسم الحقل الذي يجب إضافته. |
 | initValue | String | القيمة الأولية للحقل. |
-| pageNum | Int32 | رقم الصفحة التي يجب وضع الحقل الجديد فيها. |
-| llx | Single | الإحداثي السيني للزاوية السفلى اليسرى من الحقل. |
-| lly | Single | الإحداثي الصادي للزاوية السفلى اليسرى من الحقل. |
-| urx | Single | الإحداثي السيني للزاوية العليا اليمنى من الحقل. |
-| ury | Single | الإحداثي الصادي للزاوية العليا اليمنى من الحقل. |
+| pageNum | Int32 | رقم الصفحة حيث يجب وضع الحقل الجديد. |
+| llx | Single | الإحداثي السيني للزاوية السفلية اليسرى للحقل. |
+| lly | Single | الإحداثي الرأسي للزاوية السفلية اليسرى للحقل. |
+| urx | Single | الإحداثي السيني للزاوية العلوية اليمنى للحقل. |
+| ury | Single | الإحداثي الصادي للزاوية العلوية اليمنى للحقل. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم إضافة الحقل بنجاح.
+صحيح إذا تم إضافة الحقل بنجاح.
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_Text.pdf");
@@ -80,9 +80,11 @@ formEditor.AddField(FieldType.Radio, "RadioButtonField", 1, 265, 695, 365, 720);
 formEditor.Save();
 ```
 
-### See Also
+### انظر أيضًا
 
 * enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,28 @@
 ---
-title: PDF3DArtwork.PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PDF3DArtwork. يقوم بتهيئة مثيل جديد من فئة PDF3DArtwork
+title: "PDF3DArtwork.PDF3DArtwork"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PDF3DArtwork. يهيئ مثيلاً جديداً من الفئة PDF3DArtwork"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdf3dartwork/pdf3dartwork/
 ---
 ## PDF3DArtwork(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DArtwork`](../).
+يهيئ مثيلاً جديداً من الفئة [`PDF3DArtwork`](../).
 
 ```csharp
 public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme lightingScheme, 
     PDF3DRenderMode renderMode)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | الوثيقة. |
-| content | PDF3DContent | المحتوى. |
+| doc | Document | المستند. |
+| المحتوى | PDF3DContent | المحتوى. |
 | lightingScheme | PDF3DLightingScheme | مخطط الإضاءة. |
 | renderMode | PDF3DRenderMode | وضع العرض. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PDF3DContent](../../pdf3dcontent/)
@@ -36,21 +36,23 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 
 ## PDF3DArtwork(Document, PDF3DContent) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DArtwork`](../).
+يهيئ مثيلاً جديداً من الفئة [`PDF3DArtwork`](../).
 
 ```csharp
 public PDF3DArtwork(Document doc, PDF3DContent content)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | الوثيقة. |
-| content | PDF3DContent | المحتوى. |
+| doc | Document | المستند. |
+| المحتوى | PDF3DContent | المحتوى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PDF3DContent](../../pdf3dcontent/)
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

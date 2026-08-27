@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptionCollection. كائن التزامن للمجموعة
+title: "OptionCollection.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptionCollection. كائن المزامنة للمجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/optioncollection/syncroot/
 ---
-## خاصية OptionCollection.SyncRoot
+## OptionCollection.SyncRoot property
 
-كائن التزامن للمجموعة.
+كائن المزامنة للمجموعة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

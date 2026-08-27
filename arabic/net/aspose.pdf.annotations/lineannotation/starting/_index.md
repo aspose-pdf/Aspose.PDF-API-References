@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.Starting
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل أو تعين نقطة البداية للخط
+title: "LineAnnotation.Starting"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. يحصل أو يضبط نقطة بدء الخط"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.annotations/lineannotation/starting/
 ---
-## خاصية LineAnnotation.Starting
+## LineAnnotation.Starting property
 
-تحصل أو تعين نقطة البداية للخط.
+يحصل أو يضبط نقطة بدء الخط.
 
 ```csharp
 public Point Starting { get; set; }
@@ -20,3 +20,5 @@ public Point Starting { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

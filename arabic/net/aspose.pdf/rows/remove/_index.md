@@ -1,22 +1,22 @@
 ---
-title: Rows.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rows. إزالة صف من المجموعة
+title: "Rows.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rows. إزالة الصف من المجموعة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/rows/remove/
 ---
-## طريقة Rows.Remove
+## Rows.Remove method
 
-إزالة صف من المجموعة.
+إزالة الصف من المجموعة.
 
 ```csharp
 public void Remove(Row row)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| row | Row | الصف الموجود. |
+| row | Row | الصف الحالي. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Remove(Row row)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

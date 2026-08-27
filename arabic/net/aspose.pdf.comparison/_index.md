@@ -1,40 +1,44 @@
 ---
-title: Aspose.Pdf.Comparison
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Comparison"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: 
 type: docs
 weight: 60
-url: /net/aspose.pdf.comparison/
+url: /ar/net/aspose.pdf.comparison/
 ---
+
+
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [ComparisonOptions](./comparisonoptions/) | تمثل فئة خيارات مقارنة مستندات PDF. |
-| [DiffOperation](./diffoperation/) | تمثل فئة عملية الفرق. |
-| [DocumentComparisonStatistics](./documentcomparisonstatistics/) | تمثل فئة إحصائيات مقارنة المستندات. |
-| [GraphicalPdfComparer](./graphicalpdfcomparer/) | تمثل فئة لمقارنة مستندات PDF بشكل رسومي. يجب استخدامها للبحث عن التغييرات الصغيرة، بشكل رئيسي من الطبيعة الرسومية. لمقارنة تغييرات محتوى النص، استخدم فئات مقارنة PDF الأخرى. |
-| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | تمثل فئة لتوليد تمثيل HTML لاختلافات النصوص. يتم الإشارة إلى الفقرات المحذوفة بعلامة الفقرة. |
-| [ImagesDifference](./imagesdifference/) | تمثل فئة نتيجة مقارنة صفحتين من PDF. |
-| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/) | تمثل فئة لعرض نتائج مقارنة مستندات أو صفحات PDF بتنسيق JSON. |
-| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/) | تمثل فئة لتوليد تمثيل Markdown لاختلافات النصوص. بسبب بناء جملة Markdown، لا يمكن عرض التغييرات على أحرف المسافة البيضاء. اختيار التغييرات يجعل إضافة أحرف المسافة البيضاء حول التنسيق، وإلا فلن يعرض عارض Markdown النص بشكل صحيح. يتم الإشارة إلى الفقرات المحذوفة بعلامة - الفقرة. |
-| [OutputTextStyle](./outputtextstyle/) | تمثل فئة مجموعة أنماط لتحديد تغييرات النص. |
-| [PdfOutputGenerator](./pdfoutputgenerator/) | تمثل فئة لتوليد تمثيل PDF لاختلافات النصوص. |
-| [SideBySideComparisonOptions](./sidebysidecomparisonoptions/) | تمثل فئة خيارات لمقارنة المستندات مع إخراج جنبًا إلى جنب. |
+| [ComparisonOptions](./comparisonoptions/) | يمثّل فئة خيارات مقارنة PDF document. |
+| [DiffOperation](./diffoperation/) | يمثّل فئة عملية الفرق. |
+| [DocumentComparisonStatistics](./documentcomparisonstatistics/) | يمثّل فئة إحصائيات مقارنة document. |
+| [GraphicalPdfComparer](./graphicalpdfcomparer/) | يمثّل فئة للمقارنة الرسومية بين PDF documents. يجب استخدامها للبحث عن تغييرات صغيرة، خاصةً ذات طبيعة رسومية. لمقارنة تغييرات محتوى النص، استخدم فئات مقارنة PDF الأخرى. |
+| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | يمثّل فئة لإنشاء تمثيل html لاختلافات النصوص. يتم الإشارة إلى فواصل الأسطر المحذوفة بعلامة الفقرة. |
+| [ImagesDifference](./imagesdifference/) | يمثّل فئة نتيجة مقارنة PDF pages. |
+| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/) | يمثّل فئة لعرض نتائج مقارنة PDF documents أو الصفحات بصيغة JSON. |
+| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/) | يمثّل فئة لإنشاء تمثيل markdown لاختلافات النصوص. بسبب صيغة markdown، لا يمكن إظهار التغييرات في أحرف المسافات. اختيار التغييرات يتطلب إضافة أحرف مسافة حول التنسيق، وإلا لن يعرض عارض markdown النص بشكل صحيح. يتم الإشارة إلى فواصل الأسطر المحذوفة بعلامة الفقرة -. |
+| [OutputTextStyle](./outputtextstyle/) | يمثّل فئة مجموعة الأنماط لتحديد تغييرات النص. |
+| [PdfOutputGenerator](./pdfoutputgenerator/) | يمثّل فئة لإنشاء تمثيل PDF لاختلافات النصوص. |
+| [SideBySideComparisonOptions](./sidebysidecomparisonoptions/) | يمثّل فئة خيارات لمقارنة documents مع مخرجات جنبًا إلى جنب. |
 | [SideBySidePdfComparer](./sidebysidepdfcomparer/) |  |
-| [TextItemComparisonStatistics](./textitemcomparisonstatistics/) | تمثل فئة إحصائيات مقارنة النصوص. |
-| [TextPdfComparer](./textpdfcomparer/) | تمثل فئة لمقارنة صفحتين من PDF أو مستندات PDF. |
-| [TextStyle](./textstyle/) | تمثل فئة نمط النص. |
+| [TextItemComparisonStatistics](./textitemcomparisonstatistics/) | يمثّل فئة إحصائيات مقارنة النص. |
+| [TextPdfComparer](./textpdfcomparer/) | يمثّل فئة لمقارنة PDF pages أو PDF documents. |
+| [TextStyle](./textstyle/) | يمثل فئة نمط نص. |
 ## الواجهات
 
-| الواجهة | الوصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IFileOutputGenerator](./ifileoutputgenerator/) | تمثل واجهة لتوليد الإخراج إلى ملف للاختلافات بين النصوص. |
-| [IStringOutputGenerator](./istringoutputgenerator/) | تمثل واجهة لتوليد الإخراج إلى سلسلة للاختلافات بين النصوص. |
-## التعداد
+| [IFileOutputGenerator](./ifileoutputgenerator/) | يمثل واجهة لتوليد مخرجات إلى ملف يحتوي على الفروقات بين النصوص. |
+| [IStringOutputGenerator](./istringoutputgenerator/) | يمثل واجهة لتوليد مخرجات إلى سلسلة تحتوي على الفروقات بين النصوص. |
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
 | [ComparisonMode](./comparisonmode/) | تعداد وضع المقارنة. |
 | [EditOperationsOrder](./editoperationsorder/) | يحدد ترتيب عمليات التحرير. |
-| [Operation](./operation/) | تمثل نوع عملية الفرق. |
+| [Operation](./operation/) | يمثل نوع عملية الفرق. |
+
+

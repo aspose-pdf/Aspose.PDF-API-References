@@ -1,14 +1,14 @@
 ---
-title: Row.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصف. تحصل أو تعين المحاذاة الرأسية
+title: "Row.VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Row. تحصل أو تعين المحاذاة العمودية"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/row/verticalalignment/
 ---
-## خاصية Row.VerticalAlignment
+## Row.VerticalAlignment property
 
-تحصل أو تعين المحاذاة الرأسية.
+الحصول أو تعيين المحاذاة العمودية.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

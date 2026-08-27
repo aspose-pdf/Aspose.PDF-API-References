@@ -1,14 +1,14 @@
 ---
-title: Class PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Comparison.PdfOutputGenerator. تمثل فئة لتوليد تمثيل PDF لاختلافات النصوص
+title: "الفئة PdfOutputGenerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Comparison.PdfOutputGenerator class. تمثل فئة لإنشاء تمثيل PDF لفروقات النصوص"
 type: docs
-weight: 3280
+weight: 3390
 url: /ar/net/aspose.pdf.comparison/pdfoutputgenerator/
 ---
-## فئة PdfOutputGenerator
+## PdfOutputGenerator class
 
-تمثل فئة لتوليد تمثيل PDF لاختلافات النصوص.
+يمثّل فئة لإنشاء تمثيل PDF لاختلافات النصوص.
 
 ```csharp
 public class PdfOutputGenerator : IFileOutputGenerator
@@ -18,20 +18,22 @@ public class PdfOutputGenerator : IFileOutputGenerator
 
 | الاسم | الوصف |
 | --- | --- |
-| [PdfOutputGenerator](pdfoutputgenerator/#constructor)() | ينشئ مثيلًا من فئة `PdfOutputGenerator`. |
-| [PdfOutputGenerator](pdfoutputgenerator/#constructor_1)(OutputTextStyle) | ينشئ مثيلًا من فئة `PdfOutputGenerator`. |
-| [PdfOutputGenerator](pdfoutputgenerator/#constructor_3)(PageInfo) | ينشئ مثيلًا من فئة `PdfOutputGenerator`. |
-| [PdfOutputGenerator](pdfoutputgenerator/#constructor_2)(OutputTextStyle, PageInfo) | ينشئ مثيلًا من فئة `PdfOutputGenerator`. |
+| [PdfOutputGenerator](pdfoutputgenerator/#constructor)() | ينشئ مثيلاً من الفئة `PdfOutputGenerator`. |
+| [PdfOutputGenerator](pdfoutputgenerator/#constructor_1)(OutputTextStyle) | ينشئ مثيلاً من الفئة `PdfOutputGenerator`. |
+| [PdfOutputGenerator](pdfoutputgenerator/#constructor_3)(PageInfo) | ينشئ مثيلاً من الفئة `PdfOutputGenerator`. |
+| [PdfOutputGenerator](pdfoutputgenerator/#constructor_2)(OutputTextStyle, PageInfo) | ينشئ مثيلاً من الفئة `PdfOutputGenerator`. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [GenerateOutput](../../aspose.pdf.comparison/pdfoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;, string) | يولد المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف. |
-| [GenerateOutput](../../aspose.pdf.comparison/pdfoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | يولد المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف. |
+| [GenerateOutput](../../aspose.pdf.comparison/pdfoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;, string) | ينشئ المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف. |
+| [GenerateOutput](../../aspose.pdf.comparison/pdfoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | ينشئ المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف. |
 
 ### انظر أيضًا
 
-* الواجهة [IFileOutputGenerator](../ifileoutputgenerator/)
-* مساحة الاسم [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* التجميع [Aspose.PDF](../../)
+* interface [IFileOutputGenerator](../ifileoutputgenerator/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.Header
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية إعدادات الرأس والتذييل. تحصل أو تضبط إعدادات الرأس
+title: "HeaderFooterSettings.Header"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HeaderFooterSettings. تحصل أو تعيين إعدادات الرأس"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/headerfootersettings/header/
 ---
-## خاصية إعدادات الرأس والتذييل.Header
+## HeaderFooterSettings.Header property
 
-تحصل أو تضبط إعدادات الرأس.
+يحصل أو يعيّن إعدادات الرأس.
 
 ```csharp
 public Header Header { get; set; }
@@ -20,3 +20,5 @@ public Header Header { get; set; }
 * class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

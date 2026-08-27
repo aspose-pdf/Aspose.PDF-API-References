@@ -1,70 +1,72 @@
 ---
-title: Class TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextAbsorber class. يمثل كائن ماص للنص. يقوم باستخراج النص ويوفر الوصول إلى النتيجة عبر كائن [`Text`](./text/)
+title: "الفئة TextAbsorber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.TextAbsorber. تمثل كائن ماص للنص. تقوم باستخراج النص وتوفر الوصول إلى النتيجة عبر كائن Text."
 type: docs
-weight: 10800
+weight: 10980
 url: /ar/net/aspose.pdf.text/textabsorber/
 ---
-## Class TextAbsorber
+## TextAbsorber class
 
-يمثل كائن ماص للنص. يقوم باستخراج النص ويوفر الوصول إلى النتيجة عبر كائن [`Text`](./text/).
+تمثل كائن ماص للنص. تقوم باستخراج النص وتوفر الوصول إلى النتيجة عبر كائن [`Text`](./text/).
 
 ```csharp
 public class TextAbsorber
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextAbsorber](textabsorber/#constructor)() | يقوم بتهيئة مثيل جديد من `TextAbsorber`. |
-| [TextAbsorber](textabsorber/#constructor_1)(TextExtractionOptions) | يقوم بتهيئة مثيل جديد من `TextAbsorber` مع خيارات الاستخراج. |
-| [TextAbsorber](textabsorber/#constructor_3)(TextSearchOptions) | يقوم بتهيئة مثيل جديد من `TextAbsorber` مع خيارات بحث النص. |
-| [TextAbsorber](textabsorber/#constructor_2)(TextExtractionOptions, TextSearchOptions) | يقوم بتهيئة مثيل جديد من `TextAbsorber` مع خيارات الاستخراج وبحث النص. |
+| [TextAbsorber](textabsorber/#constructor)() | ينشئ نسخة جديدة من `TextAbsorber`. |
+| [TextAbsorber](textabsorber/#constructor_1)(TextExtractionOptions) | ينشئ نسخة جديدة من `TextAbsorber` مع خيارات الاستخراج. |
+| [TextAbsorber](textabsorber/#constructor_3)(TextSearchOptions) | ينشئ نسخة جديدة من `TextAbsorber` مع خيارات البحث عن النص. |
+| [TextAbsorber](textabsorber/#constructor_2)(TextExtractionOptions, TextSearchOptions) | ينشئ نسخة جديدة من `TextAbsorber` مع خيارات الاستخراج والبحث عن النص. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | قائمة من كائنات [`TextExtractionError`](../textextractionerror/). تحتوي على معلومات حول الأخطاء التي تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كانت TextSearchOptions.LogTextExtractionErrors = true; وقد يقلل ذلك من الأداء. |
-| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | يحصل أو يحدد خيارات استخراج النص. |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | القيمة تشير إلى ما إذا كانت هناك أخطاء تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كانت TextSearchOptions.LogTextExtractionErrors = true; وقد يقلل ذلك من الأداء. |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | يحصل على النص المستخرج الذي يقوم `TextAbsorber` باستخراجه من مستند PDF أو صفحة. |
-| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | يحصل أو يحدد خيارات بحث النص. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | قائمة من كائنات [`TextExtractionError`](../textextractionerror/). تحتوي على معلومات حول الأخطاء التي تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كان TextSearchOptions.LogTextExtractionErrors = true؛ وقد يؤدي ذلك إلى تقليل الأداء. |
+| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | يحصل أو يعيّن خيارات استخراج النص. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | القيمة تشير إلى ما إذا تم العثور على أخطاء أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كان TextSearchOptions.LogTextExtractionErrors = true؛ وقد يؤدي ذلك إلى تقليل الأداء. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | يحصل على النص المستخرج الذي يقوم `TextAbsorber` باستخراجه من مستند PDF أو Page. |
+| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | يحصل أو يعيّن خيارات بحث النص. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Document) | يقوم باستخراج النص من المستند المحدد |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | يقوم باستخراج النص من الصفحة المحددة |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | يقوم باستخراج النص من XForm المحدد. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Document) | يستخرج النص من الـ document المحدد |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | يستخرج النص من الـ page المحدد |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | يستخرج النص على الـ XForm المحدد. |
 
-## Remarks
+## ملاحظات
 
-يتم استخدام كائن `TextAbsorber` لاستخراج النص من مستند PDF أو صفحة المستند.
+يُستخدم كائن `TextAbsorber` لاستخراج النص من Pdf document أو page الـ document.
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية استخراج النص من الصفحة الأولى لمستند PDF.
+يوضح المثال كيفية استخراج النص من الصفحة الأولى لـ PDF document.
 
 ```csharp
-// open document
+// فتح المستند
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// إنشاء كائن TextAbsorber لاستخراج النص
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for first page
+// قبول الماصة للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// get the extracted text
+// احصل على النص المستخرج
 string extractedText = absorber.Text;
 
 ```
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

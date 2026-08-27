@@ -1,44 +1,46 @@
 ---
-title: Class XForm
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.XForm. تمثل الفئة XForm
+title: "الفئة XForm"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.XForm. تمثل الفئة XForm."
 type: docs
-weight: 11330
+weight: 11520
 url: /ar/net/aspose.pdf/xform/
 ---
 ## XForm class
 
-Class represent XForm
+الفئة تمثل XForm
 
 ```csharp
 public sealed class XForm : IDisposable
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BBox](../../aspose.pdf/xform/bbox/) { get; set; } | يحصل أو يحدد صندوق الحدود للنموذج. |
-| [Contents](../../aspose.pdf/xform/contents/) { get; } | يحصل على العمليات الخاصة بالنموذج. |
-| [IT](../../aspose.pdf/xform/it/) { get; } | يحصل على IT للنموذج. IT للنموذج هو اسم يصف نية XObject. |
-| [Matrix](../../aspose.pdf/xform/matrix/) { get; set; } | يحصل أو يحدد مصفوفة النموذج. |
-| [Name](../../aspose.pdf/xform/name/) { get; set; } | يحصل أو يحدد اسم النموذج. اسم النموذج هو الاسم الذي يستخدم للإشارة إلى النموذج في قاموس XObject في موارد الصفحة. |
-| [Opi](../../aspose.pdf/xform/opi/) { get; } | يحصل على واجهة ما قبل الطباعة المفتوحة (OPI). |
-| [Rectangle](../../aspose.pdf/xform/rectangle/) { get; } | يحصل أو يحدد مستطيل النموذج. |
-| [Resources](../../aspose.pdf/xform/resources/) { get; } | يحصل على موارد XObject للنموذج. |
-| [Subtype](../../aspose.pdf/xform/subtype/) { get; } | يحصل على نوع فرعي للنموذج. |
+| [BBox](../../aspose.pdf/xform/bbox/) { get; set; } | يحصل أو يعيّن صندوق حدود النموذج. |
+| [Contents](../../aspose.pdf/xform/contents/) { get; } | يحصل على عوامل النموذج. |
+| [IT](../../aspose.pdf/xform/it/) { get; } | يحصل على Form IT. Form IT هو اسم يصف هدف XObject. |
+| [Matrix](../../aspose.pdf/xform/matrix/) { get; set; } | يحصل أو يعيّن مصفوفة النموذج. |
+| [Name](../../aspose.pdf/xform/name/) { get; set; } | يحصل أو يعيّن اسم النموذج. اسم النموذج هو الاسم المستخدم للإشارة إلى النموذج في قاموس XObejct في موارد الصفحة. |
+| [Opi](../../aspose.pdf/xform/opi/) { get; } | يحصل على Open Prepress Interface (OPI). |
+| [Rectangle](../../aspose.pdf/xform/rectangle/) { get; } | يحصل أو يعيّن مستطيل النموذج. |
+| [Resources](../../aspose.pdf/xform/resources/) { get; } | يحصل على موارد Form XObject. |
+| [Subtype](../../aspose.pdf/xform/subtype/) { get; } | يحصل على نوع النموذج الفرعي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [CreateNewForm](../../aspose.pdf/xform/createnewform/)(Page, Document) | ينشئ XForm الذي يكرر محتويات الصفحة. |
-| [Dispose](../../aspose.pdf/xform/dispose/)() | يحرر الذاكرة |
-| [FreeMemory](../../aspose.pdf/xform/freememory/)() | Clears cached data |
-| [GetResources](../../aspose.pdf/xform/getresources/#getresources)() | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
-| [GetResources](../../aspose.pdf/xform/getresources/#getresources_1)(bool) | Returns resources of Form X-Object |
+| static [CreateNewForm](../../aspose.pdf/xform/createnewform/)(Page, Document) | ينشئ XForm يكرر محتويات page. |
+| [Dispose](../../aspose.pdf/xform/dispose/)() | يفرغ الذاكرة |
+| [FreeMemory](../../aspose.pdf/xform/freememory/)() | يمسح البيانات المخزنة مؤقتًا |
+| [GetResources](../../aspose.pdf/xform/getresources/#getresources)() | يعيد موارد Form X-Object. إذا لم يكن لدى Form موارد وكان allowCreate صحيحًا، سيتم إنشاء الموارد تلقائيًا للنموذج. |
+| [GetResources](../../aspose.pdf/xform/getresources/#getresources_1)(bool) | يعيد موارد Form X-Object |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,29 +1,29 @@
 ---
-title: PdfContentEditor.CreateWebLink
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ رابط ويب في مستند PDF
+title: "PdfContentEditor.CreateWebLink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تنشئ رابط ويب في مستند PDF"
 type: docs
 weight: 300
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createweblink/
 ---
 ## CreateWebLink(Rectangle, string, int, Color, Enum[]) {#createweblink_2}
 
-تنشئ رابط ويب في مستند PDF.
+ينشئ رابط ويب في مستند PDF.
 
 ```csharp
 public void CreateWebLink(Rectangle rect, string url, int originalPage, Color clr, 
     Enum[] actionName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | rect | Rectangle | المستطيل للنقر النشط. |
-| url | String | وجهة رابط الويب. |
-| originalPage | Int32 | رقم الصفحة الأصلية التي سيتم إنشاء المستطيل المرتبط برابط الويب عليها. |
+| عنوان URL | String | وجهة رابط الويب. |
+| originalPage | Int32 | عدد الصفحة الأصلية التي سيتم إنشاء المستطيل المرتبط بالرابط الويب عليها. |
 | clr | Color | لون المستطيل للنقر النشط. |
-| actionName | Enum[] | مصفوفة من الإجراءات (أعضاء من تعداد PredefinedAction) المقابلة لتنفيذ عناصر القائمة في عارض Acrobat. |
+| actionName | Enum[] | المصفوفة التي تحتوي على الإجراءات (أعضاء تعداد PredefinedAction) المقابلة لتنفيذ عناصر القائمة في عارض Acrobat. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -34,7 +34,7 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -44,20 +44,20 @@ editor.Save("example_out.pdf");
 
 ## CreateWebLink(Rectangle, string, int, Color) {#createweblink_1}
 
-تنشئ رابط ويب في مستند PDF.
+ينشئ رابط ويب في مستند PDF.
 
 ```csharp
 public void CreateWebLink(Rectangle rect, string url, int originalPage, Color clr)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | rect | Rectangle | المستطيل للنقر النشط. |
-| url | String | وجهة رابط الويب. |
-| originalPage | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء المستطيل المرتبط برابط الويب. |
+| عنوان URL | String | وجهة رابط الويب. |
+| originalPage | Int32 | عدد الصفحة الأصلية التي سيتم إنشاء المستطيل المرتبط بالرابط الويب عليها. |
 | clr | Color | لون المستطيل للنقر النشط. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -67,7 +67,7 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -77,19 +77,19 @@ editor.Save("example_out.pdf");
 
 ## CreateWebLink(Rectangle, string, int) {#createweblink}
 
-تنشئ رابط ويب في مستند PDF.
+ينشئ رابط ويب في مستند PDF.
 
 ```csharp
 public void CreateWebLink(Rectangle rect, string url, int originalPage)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | rect | Rectangle | المستطيل للنقر النشط. |
-| url | String | وجهة رابط الويب. |
-| originalPage | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء المستطيل المرتبط برابط الويب. |
+| عنوان URL | String | وجهة رابط الويب. |
+| originalPage | Int32 | عدد الصفحة الأصلية التي سيتم إنشاء المستطيل المرتبط بالرابط الويب عليها. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -98,8 +98,10 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http://www.a
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

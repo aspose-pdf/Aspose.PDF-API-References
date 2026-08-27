@@ -1,21 +1,23 @@
 ---
-title: Rows.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفوف. تخلص
+title: "Rows.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rows. تحرير"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/rows/dispose/
 ---
 ## Rows.Dispose method
 
-تخلص.
+تحرير.
 
 ```csharp
 public void Dispose()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

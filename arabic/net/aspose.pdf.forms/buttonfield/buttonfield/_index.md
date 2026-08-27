@@ -1,20 +1,20 @@
 ---
-title: ButtonField.ButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ButtonField. مُنشئ حقل الزر لـ Generator
+title: "ButtonField.ButtonField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ButtonField. منشئ حقل الزر للمولد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/buttonfield/buttonfield/
 ---
 ## ButtonField() {#constructor}
 
-مُنشئ حقل الزر لـ Generator.
+منشئ حقل الزر للمُولّد.
 
 ```csharp
 public ButtonField()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -24,18 +24,18 @@ public ButtonField()
 
 ## ButtonField(Page, Rectangle) {#constructor_2}
 
-مُنشئ ButtonField.
+منشئ ButtonField.
 
 ```csharp
 public ButtonField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع الزر عليها. |
-| rect | Rectangle | المستطيل الذي يتم وضع الزر عليه في الصفحة. |
+| صفحة | صفحة | Page حيث سيتم وضع الزر. |
+| rect | Rectangle | Rectangle حيث يتم وضع الزر على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -47,21 +47,23 @@ public ButtonField(Page page, Rectangle rect)
 
 ## ButtonField(Document, Rectangle) {#constructor_1}
 
-مُنشئ ButtonField.
+منشئ ButtonField.
 
 ```csharp
 public ButtonField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء حقل جديد فيه. |
-| rect | Rectangle | المستطيل الذي يتم وضع الزر عليه في الصفحة. |
+| doc | Document | Document حيث سيتم إنشاء الحقل الجديد. |
+| rect | Rectangle | Rectangle حيث يتم وضع الزر على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOperationResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IOperationResult. تشير إلى ما إذا كانت النتيجة سلسلة نصية
+title: "IOperationResult.IsString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IOperationResult. تشير إلى ما إذا كانت النتيجة سلسلة نصية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/ioperationresult/isstring/
 ---
-## خاصية IOperationResult.IsString
+## IOperationResult.IsString property
 
-تشير إلى ما إذا كانت النتيجة سلسلة نصية.
+يشير إلى ما إذا كانت النتيجة سلسلة نصية.
 
 ```csharp
 public bool IsString { get; }
@@ -20,6 +20,8 @@ public bool IsString { get; }
 
 ### انظر أيضًا
 
-* واجهة [IOperationResult](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

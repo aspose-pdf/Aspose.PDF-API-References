@@ -1,14 +1,14 @@
 ---
-title: TxtLoadOptions.TxtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TxtLoadOptions. المُنشئ الافتراضي
+title: "TxtLoadOptions.TxtLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TxtLoadOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/txtloadoptions/txtloadoptions/
 ---
-## مُنشئ TxtLoadOptions
+## TxtLoadOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TxtLoadOptions()
@@ -19,3 +19,5 @@ public TxtLoadOptions()
 * class [TxtLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

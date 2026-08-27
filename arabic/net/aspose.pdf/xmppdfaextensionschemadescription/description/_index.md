@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.Description
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpPdfAExtensionSchemaDescription. تحصل على الوصف الاختياري
+title: "XmpPdfAExtensionSchemaDescription.Description"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpPdfAExtensionSchemaDescription. تحصل على الوصف الاختياري"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/xmppdfaextensionschemadescription/description/
 ---
-## خاصية XmpPdfAExtensionSchemaDescription.Description
+## XmpPdfAExtensionSchemaDescription.Description property
 
-تحصل على الوصف الاختياري.
+يحصل على الوصف الاختياري.
 
 ```csharp
 public string Description { get; }
@@ -19,3 +19,5 @@ public string Description { get; }
 * class [XmpPdfAExtensionSchemaDescription](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

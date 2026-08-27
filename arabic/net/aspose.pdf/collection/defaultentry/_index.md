@@ -1,14 +1,14 @@
 ---
-title: Collection.DefaultEntry
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المجموعة. اسم الملف المدمج الافتراضي
+title: "Collection.DefaultEntry"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Collection. الاسم الافتراضي للملف المضمّن"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/collection/defaultentry/
 ---
-## خاصية Collection.DefaultEntry
+## Collection.DefaultEntry property
 
-اسم الملف المدمج الافتراضي.
+اسم الملف المضمن الافتراضي.
 
 ```csharp
 public string DefaultEntry { get; }
@@ -19,3 +19,5 @@ public string DefaultEntry { get; }
 * class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

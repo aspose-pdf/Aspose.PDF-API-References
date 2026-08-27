@@ -1,14 +1,14 @@
 ---
-title: ColumnInfo.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ColumnInfo. تحصل أو تعين قيمة int تشير إلى عدد الأعمدة
+title: "ColumnInfo.ColumnCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ColumnInfo خاصية. يحصل أو يحدد قيمة int تشير إلى عدد الأعمدة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/columninfo/columncount/
 ---
-## خاصية ColumnInfo.ColumnCount
+## ColumnInfo.ColumnCount property
 
-تحصل أو تعين قيمة int تشير إلى عدد الأعمدة.
+يحصل أو يعيّن قيمة عددية صحيحة تشير إلى عدد الأعمدة.
 
 ```csharp
 public int ColumnCount { get; set; }
@@ -19,3 +19,5 @@ public int ColumnCount { get; set; }
 * class [ColumnInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

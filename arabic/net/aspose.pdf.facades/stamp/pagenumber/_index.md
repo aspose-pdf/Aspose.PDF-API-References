@@ -1,14 +1,14 @@
 ---
-title: Stamp.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. تحصل أو تعين رقم الصفحة
+title: "Stamp.PageNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. يحصل أو يحدد رقم الصفحة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/stamp/pagenumber/
 ---
-## خاصية Stamp.PageNumber
+## Stamp.PageNumber property
 
-تحصل أو تعين رقم الصفحة.
+يحصل أو يعيّن رقم الصفحة.
 
 ```csharp
 public int PageNumber { get; set; }
@@ -19,3 +19,5 @@ public int PageNumber { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

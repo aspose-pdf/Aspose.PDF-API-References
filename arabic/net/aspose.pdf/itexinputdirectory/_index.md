@@ -1,12 +1,12 @@
 ---
-title: Interface ITeXInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.ITeXInputDirectory. واجهة دليل إدخال TeX العام
+title: "الواجهة ITeXInputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.ITeXInputDirectory. واجهة دليل إدخال TeX العام"
 type: docs
-weight: 5820
+weight: 5950
 url: /ar/net/aspose.pdf/itexinputdirectory/
 ---
-## واجهة ITeXInputDirectory
+## ITeXInputDirectory interface
 
 واجهة دليل إدخال TeX العام.
 
@@ -18,9 +18,11 @@ public interface ITeXInputDirectory : IDisposable
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | يعيد الدفق للقراءة منه أو الكتابة إليه. |
+| [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | يعيد الدفق للقراءة منه أو للكتابة إليه. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

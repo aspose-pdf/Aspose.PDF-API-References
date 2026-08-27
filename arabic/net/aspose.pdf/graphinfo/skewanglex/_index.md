@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.SkewAngleX
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphInfo. تحصل أو تعين قيمة عائمة تشير إلى زاوية الميل لإحداثي x عند تحويل نظام الإحداثيات
+title: "GraphInfo.SkewAngleX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphInfo. يحصل أو يعيّن قيمة عائمة تشير إلى زاوية الانحراف للإحداثي x عند تحويل نظام إحداثيات"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/graphinfo/skewanglex/
 ---
-## خاصية GraphInfo.SkewAngleX
+## GraphInfo.SkewAngleX property
 
-تحصل أو تعين قيمة عائمة تشير إلى زاوية الميل لإحداثي x عند تحويل نظام الإحداثيات.
+يحصل أو يعيّن قيمة عائمة تشير إلى زاوية الانحراف للإحداثي x عند تحويل نظام الإحداثيات.
 
 ```csharp
 public double SkewAngleX { get; set; }
@@ -19,3 +19,5 @@ public double SkewAngleX { get; set; }
 * class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

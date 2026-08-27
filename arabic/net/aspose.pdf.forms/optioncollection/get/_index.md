@@ -1,28 +1,28 @@
 ---
-title: OptionCollection.get
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptionCollection. يحصل على الخيار بواسطة الفهرس
+title: "OptionCollection.get"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptionCollection. تحصل على الخيار حسب الفهرس"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.forms/optioncollection/get/
 ---
 ## get(int) {#get}
 
-يحصل على الخيار بواسطة الفهرس.
+يحصل على الخيار حسب الفهرس.
 
 ```csharp
 public Option get(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | فهرس الخيار. يجب أن يكون الفهرس في النطاق [1..n] حيث n هو عدد الخيارات. |
 
-### Return Value
+### قيمة الإرجاع
 
 الخيار المسترجع.
 
-### See Also
+### انظر أيضًا
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
@@ -33,23 +33,25 @@ public Option get(int index)
 
 ## get(string) {#get_1}
 
-يحصل على الخيار من المجموعة بواسطة اسم الخيار.
+يحصل على الخيار من المجموعة حسب اسم الخيار.
 
 ```csharp
 public Option get(string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الخيار. |
+| الاسم | String | اسم الخيار. |
 
-### Return Value
+### قيمة الإرجاع
 
 الخيار المسترجع.
 
-### See Also
+### انظر أيضًا
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

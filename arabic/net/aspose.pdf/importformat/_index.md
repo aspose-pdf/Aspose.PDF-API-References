@@ -1,9 +1,9 @@
 ---
-title: Enum ImportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImportFormat enum. يحدد تنسيق الاستيراد
+title: "تعداد ImportFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.ImportFormat. يحدد تنسيق الاستيراد"
 type: docs
-weight: 5940
+weight: 6070
 url: /ar/net/aspose.pdf/importformat/
 ---
 ## ImportFormat enumeration
@@ -14,13 +14,15 @@ url: /ar/net/aspose.pdf/importformat/
 public enum ImportFormat
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Cgm | `1` | تنسيق ملف الرسومات الحاسوبية. |
+| Cgm | `1` | تنسيق Computer Graphics Metafile. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

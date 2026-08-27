@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.AlternateName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية AlternateName للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.AlternateName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. يحصل/يضبط القيمة لتحديد خاصية AlternateName للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينها"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/alternatename/
 ---
-## خاصية FormFieldOptions.AlternateName
+## FormFieldOptions.AlternateName property
 
-تحصل/تضبط القيمة لتحديد خاصية AlternateName للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+يحصل/يضبط القيمة لتحديد الخاصية AlternateName للحقل المُنشأ/المعدَّل (إذا سيتم تعيينها).
 
 ```csharp
 public string AlternateName { get; set; }
@@ -19,3 +19,5 @@ public string AlternateName { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

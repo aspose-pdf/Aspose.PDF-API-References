@@ -1,20 +1,20 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ QueueItem. المُنشئ يحدد mac subtable10 بشكل افتراضي
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ QueueItem. المنشئ يحدد mac subtable10 بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
 ---
 ## QueueItem() {#constructor}
 
-المُنشئ، يحدد mac subtable(1,0) بشكل افتراضي
+المنشئ، يحدد جدول فرعي mac (1,0) بشكل افتراضي
 
 ```csharp
 public QueueItem()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,18 @@ public QueueItem()
 
 ## QueueItem(ushort, ushort) {#constructor_2}
 
-المُنشئ
+منشئ
 
 ```csharp
 public QueueItem(ushort platformID, ushort platformSpecificID)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| platformID | UInt16 | مُعرف المنصة لجدول الترميز الفرعي |
-| platformSpecificID | UInt16 | مُعرف الترميز الخاص بالمنصة لجدول الترميز الفرعي |
+| platformID | UInt16 | معرف المنصة لجدول الترميز الفرعي |
+| platformSpecificID | UInt16 | معرف الترميز الخاص بالمنصة لجدول الترميز الفرعي |
 
-### See Also
+### انظر أيضًا
 
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -45,19 +45,21 @@ public QueueItem(ushort platformID, ushort platformSpecificID)
 
 ## QueueItem(CMapEncodingTableType) {#constructor_1}
 
-المُنشئ
+منشئ
 
 ```csharp
 public QueueItem(CMapEncodingTableType cmapTable)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| cmapTable | CMapEncodingTableType | جدول الترميز الفرعي |
+| cmapTable | CMapEncodingTableType | جدول فرعي للترميز |
 
-### See Also
+### انظر أيضًا
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

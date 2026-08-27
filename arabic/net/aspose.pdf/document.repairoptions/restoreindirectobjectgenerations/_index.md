@@ -1,14 +1,14 @@
 ---
-title: Document.RepairOptions.RestoreIndirectObjectGenerations
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RepairOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب استعادة أرقام الأجيال الخاطئة في المراجع إلى الكائنات غير المباشرة أثناء عملية الإصلاح
+title: "Document.RepairOptions.RestoreIndirectObjectGenerations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RepairOptions. يحصل أو يضبط قيمة تشير إلى ما إذا كان يجب استعادة أرقام الأجيال الخاطئة في المراجع إلى الكائنات غير المباشرة أثناء عملية الإصلاح"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/document.repairoptions/restoreindirectobjectgenerations/
 ---
-## خاصية Document.RepairOptions.RestoreIndirectObjectGenerations
+## Document.RepairOptions.RestoreIndirectObjectGenerations property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان يجب استعادة أرقام الأجيال الخاطئة في المراجع إلى الكائنات غير المباشرة أثناء عملية الإصلاح.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب استعادة أرقام الجيل الخاطئة في المراجع إلى الكائنات غير المباشرة أثناء عملية الإصلاح.
 
 ```csharp
 public bool RestoreIndirectObjectGenerations { get; set; }
@@ -19,3 +19,5 @@ public bool RestoreIndirectObjectGenerations { get; set; }
 * class [RepairOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

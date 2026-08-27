@@ -1,14 +1,14 @@
 ---
-title: Class EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.EOClip. فئة تمثل مسار قص مجموعة W باستخدام قاعدة الزوج والفرد
+title: "الفئة EOClip"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.EOClip فئة. الفئة التي تمثل عامل W لتعيين مسار القص باستخدام قاعدة الزوجي والفردي"
 type: docs
-weight: 7310
+weight: 7450
 url: /ar/net/aspose.pdf.operators/eoclip/
 ---
-## فئة EOClip
+## EOClip class
 
-فئة تمثل مشغل W* (تعيين مسار القص باستخدام قاعدة الزوج والفرد).
+فئة تمثل المشغل W* (set clipping path باستخدام قاعدة الزوجي-الفردي).
 
 ```csharp
 public class EOClip : Operator
@@ -18,24 +18,26 @@ public class EOClip : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [EOClip](eoclip/)() | يقوم بتهيئة المشغل. |
+| [EOClip](eoclip/)() | يُهيئ العامل. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعلماته. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

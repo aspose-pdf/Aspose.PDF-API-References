@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.IsTransferInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. تحدد ما إذا كان يجب تمرير البيانات من Info إلى Metadata عند التحويل إلى PDF 2.0. صحيح بشكل افتراضي
+title: "PdfFormatConversionOptions.IsTransferInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. تحصل أو تعيين ما إذا كان يجب تمرير البيانات من Info إلى Metadata عند التحويل إلى PDF 2.0. True بشكل افتراضي"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/istransferinfo/
 ---
-## خاصية PdfFormatConversionOptions.IsTransferInfo
+## PdfFormatConversionOptions.IsTransferInfo property
 
-تحدد ما إذا كان يجب تمرير البيانات من Info إلى Metadata عند التحويل إلى PDF 2.0. صحيح بشكل افتراضي.
+يحصل أو يضبط ما إذا كان سيتم نقل البيانات من Info إلى Metadata عند التحويل إلى PDF 2.0. القيمة الافتراضية true.
 
 ```csharp
 public bool IsTransferInfo { get; set; }
@@ -19,3 +19,5 @@ public bool IsTransferInfo { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AIClientBase.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AIClientBase. تتخلص من الموارد المستخدمة بواسطة AIClientBase
+title: "AIClientBase.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AIClientBase. تُفرغ الموارد المستخدمة من قبل AIClientBase"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/aiclientbase/dispose/
 ---
-## طريقة AIClientBase.Dispose
+## AIClientBase.Dispose method
 
-تتخلص من الموارد المستخدمة بواسطة [`AIClientBase`](../).
+تُفرغ الموارد المستخدمة من قبل [`AIClientBase`](../).
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### انظر أيضًا
 
-* فئة [AIClientBase](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

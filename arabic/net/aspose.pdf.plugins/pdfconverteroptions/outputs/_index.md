@@ -1,14 +1,14 @@
 ---
-title: PdfConverterOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfConverterOptions. تحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ
+title: "PdfConverterOptions.Outputs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfConverterOptions. يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/pdfconverteroptions/outputs/
 ---
-## خاصية PdfConverterOptions.Outputs
+## PdfConverterOptions.Outputs property
 
-تحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ.
+يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### انظر أيضًا
 
-* واجهة [IDataSource](../../idatasource/)
-* فئة [PdfConverterOptions](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

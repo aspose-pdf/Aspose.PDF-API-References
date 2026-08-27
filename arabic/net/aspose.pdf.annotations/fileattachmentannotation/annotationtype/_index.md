@@ -1,14 +1,14 @@
 ---
-title: FileAttachmentAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileAttachmentAnnotation. تحصل على نوع التعليق
+title: "FileAttachmentAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileAttachmentAnnotation. يحصل على نوع التعليقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/fileattachmentannotation/annotationtype/
 ---
-## خاصية FileAttachmentAnnotation.AnnotationType
+## FileAttachmentAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

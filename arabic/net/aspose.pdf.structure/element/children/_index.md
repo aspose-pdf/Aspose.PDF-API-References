@@ -1,14 +1,14 @@
 ---
-title: Element.Children
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنصر. تحصل على مجموعة العناصر الفرعية
+title: "Element.Children"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية العنصر. يحصل على مجموعة عناصر الأطفال"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.structure/element/children/
 ---
-## خاصية Element.Children
+## Element.Children property
 
-تحصل على مجموعة العناصر الفرعية.
+يحصل على مجموعة العناصر الفرعية.
 
 ```csharp
 public ElementCollection Children { get; }
@@ -20,3 +20,5 @@ public ElementCollection Children { get; }
 * class [Element](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

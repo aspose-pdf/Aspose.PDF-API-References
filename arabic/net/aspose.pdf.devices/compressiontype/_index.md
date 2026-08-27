@@ -1,9 +1,9 @@
 ---
-title: Enum CompressionType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.CompressionType enum. يُستخدم لتحديد قيمة المعامل الممررة إلى جهاز صورة Tiff
+title: "تعداد CompressionType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Devices.CompressionType. يُستخدم لتحديد قيمة المعامل الممررة إلى جهاز صورة Tiff."
 type: docs
-weight: 3540
+weight: 3660
 url: /ar/net/aspose.pdf.devices/compressiontype/
 ---
 ## CompressionType enumeration
@@ -14,17 +14,19 @@ url: /ar/net/aspose.pdf.devices/compressiontype/
 public enum CompressionType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| LZW | `0` | Specifies the LZW compression scheme. Can be passed to the Tiff encoder as a parameter that belongs to the Compression category. |
-| CCITT4 | `1` | Specifies the CCITT4 compression scheme. Can be passed to the CCITT4 encoder as a parameter that belongs to the Compression category. |
-| CCITT3 | `2` | Specifies the CCITT3 compression scheme. Can be passed to the CCITT3 encoder as a parameter that belongs to the Compression category. |
-| RLE | `3` | Specifies the RLE compression scheme. Can be passed to the RLE encoder as a parameter that belongs to the Compression category. |
-| None | `4` | Specifies no compression. Can be passed to the Tiff encoder as a parameter that belongs to the compression category. |
+| LZW | `0` | يحدد مخطط ضغط LZW. يمكن تمريره إلى مشفر Tiff كمعامل ينتمي إلى فئة Compression. |
+| CCITT4 | `1` | يحدد مخطط ضغط CCITT4. يمكن تمريره إلى مشفر CCITT4 كمعامل ينتمي إلى فئة Compression. |
+| CCITT3 | `2` | يحدد مخطط ضغط CCITT3. يمكن تمريره إلى مشفر CCITT3 كمعامل ينتمي إلى فئة Compression. |
+| RLE | `3` | يحدد مخطط ضغط RLE. يمكن تمريره إلى مشفر RLE كمعامل ينتمي إلى فئة Compression. |
+| None | `4` | يحدد عدم وجود ضغط. يمكن تمريره إلى مشفر Tiff كمعامل ينتمي إلى فئة compression. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

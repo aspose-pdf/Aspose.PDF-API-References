@@ -1,14 +1,14 @@
 ---
-title: Class OpenAIClient.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.OpenAIClientBuilder. فئة الباني لإنشاء مثيل من OpenAIClient
+title: "الفئة OpenAIClient.Builder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.OpenAIClientBuilder. فئة Builder لإنشاء نسخة من OpenAIClient"
 type: docs
-weight: 850
+weight: 910
 url: /ar/net/aspose.pdf.ai/openaiclient.builder/
 ---
-## فئة OpenAIClient.Builder
+## OpenAIClient.Builder class
 
-فئة الباني لإنشاء مثيل من [`OpenAIClient`](../openaiclient/).
+فئة Builder لإنشاء نسخة من [`OpenAIClient`](../openaiclient/).
 
 ```csharp
 public class Builder
@@ -18,20 +18,22 @@ public class Builder
 
 | الاسم | الوصف |
 | --- | --- |
-| [Builder](../../aspose.pdf.ai/openaiclient.builder/.ctor)(string) | يقوم بتهيئة مثيل جديد من فئة `Builder` باستخدام مفتاح API. |
+| [Builder](../../aspose.pdf.ai/openaiclient.builder/.ctor)(string) | يُهيئ نسخة جديدة من الفئة `Builder` باستخدام مفتاح API. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | يقوم بإنشاء وإرجاع مثيل من [`OpenAIClient`](../openaiclient/) مع الخيارات المكونة. |
-| [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) | يقوم بتعيين إصدار API للعميل. |
-| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | يقوم بتعيين النطاق الأساسي للعميل. |
-| [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) | يقوم بتعيين معرف المنظمة للعميل. |
-| [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) | يقوم بتعيين معرف المشروع للعميل. |
+| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | يبني ويعيد نسخة من [`OpenAIClient`](../openaiclient/) مع الخيارات المُكوَّنة. |
+| [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) | يضبط إصدار API للعميل. |
+| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | يضبط النطاق الأساسي للعميل. |
+| [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) | يضبط معرف المؤسسة للعميل. |
+| [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) | يضبط معرف المشروع للعميل. |
 
 ### انظر أيضًا
 
-* فئة [OpenAIClient](../openaiclient/)
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* class [OpenAIClient](../openaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,46 +1,48 @@
 ---
-title: Class SetCMYKColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetCMYKColorStroke. فئة تمثل عامل K لتعيين لون CMYK لعمليات التظليل
+title: "الفئة SetCMYKColorStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.SetCMYKColorStroke. الفئة التي تمثل عامل K لتعيين لون CMYK لعمليات الرسم"
 type: docs
-weight: 7590
+weight: 7730
 url: /ar/net/aspose.pdf.operators/setcmykcolorstroke/
 ---
 ## SetCMYKColorStroke class
 
-فئة تمثل عامل K (تعيين لون CMYK لعمليات التظليل).
+الفئة التي تمثل المشغل K (تعيين لون CMYK للعمليات المتسلسلة).
 
 ```csharp
 public class SetCMYKColorStroke : SetColorOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetCMYKColorStroke](setcmykcolorstroke/)(double, double, double, double) | Initializes operator. |
+| [SetCMYKColorStroke](setcmykcolorstroke/)(double, double, double, double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [C](../../aspose.pdf.operators/setcmykcolorstroke/c/) { get; set; } | يحصل أو يحدد مكون السايان. |
+| [C](../../aspose.pdf.operators/setcmykcolorstroke/c/) { get; set; } | يحصل أو يضبط المكوّن السماوي. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
-| [K](../../aspose.pdf.operators/setcmykcolorstroke/k/) { get; set; } | يحصل أو يحدد مكون الأسود. |
-| [M](../../aspose.pdf.operators/setcmykcolorstroke/m/) { get; set; } | يحصل أو يحدد مكون الماجنتا. |
-| [Y](../../aspose.pdf.operators/setcmykcolorstroke/y/) { get; set; } | يحصل أو يحدد مكون الأصفر. |
+| [K](../../aspose.pdf.operators/setcmykcolorstroke/k/) { get; set; } | يحصل أو يضبط المكوّن الأسود. |
+| [M](../../aspose.pdf.operators/setcmykcolorstroke/m/) { get; set; } | يحصل أو يضبط المكوّن الأرجواني. |
+| [Y](../../aspose.pdf.operators/setcmykcolorstroke/y/) { get; set; } | يحصل أو يضبط المكوّن الأصفر. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setcmykcolorstroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
 | override [getColor](../../aspose.pdf.operators/setcmykcolorstroke/getcolor/)() | يعيد لون RGB |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص العامل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [SetColorOperator](../setcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

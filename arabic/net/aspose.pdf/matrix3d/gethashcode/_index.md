@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Matrix3D. رمز التجزئة للكائن
+title: "Matrix3D.GetHashCode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix3D. رمز التجزئة للكائن"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/matrix3d/gethashcode/
 ---
-## طريقة Matrix3D.GetHashCode
+## Matrix3D.GetHashCode method
 
 رمز التجزئة للكائن.
 
@@ -16,10 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز التجزئة.
+قيمة التجزئة.
 
 ### انظر أيضًا
 
 * class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextPdfComparer.TextPdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextPdfComparer. المُنشئ الافتراضي
+title: "TextPdfComparer.TextPdfComparer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextPdfComparer. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.comparison/textpdfcomparer/textpdfcomparer/
 ---
-## مُنشئ TextPdfComparer
+## TextPdfComparer constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TextPdfComparer()
@@ -19,3 +19,5 @@ public TextPdfComparer()
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

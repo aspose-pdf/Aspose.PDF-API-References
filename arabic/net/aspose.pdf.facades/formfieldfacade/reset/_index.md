@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Reset
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormFieldFacade. إعادة تعيين جميع الخصائص المرئية إلى قيمة فارغة
+title: "FormFieldFacade.Reset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormFieldFacade. إعادة تعيين جميع السمات البصرية إلى قيمة فارغة"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.facades/formfieldfacade/reset/
 ---
-## طريقة FormFieldFacade.Reset
+## FormFieldFacade.Reset method
 
-إعادة تعيين جميع الخصائص المرئية إلى قيمة فارغة.
+أعد تعيين جميع السمات البصرية إلى قيمة فارغة.
 
 ```csharp
 public void Reset()
@@ -19,3 +19,5 @@ public void Reset()
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

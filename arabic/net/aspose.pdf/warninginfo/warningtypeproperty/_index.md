@@ -1,14 +1,14 @@
 ---
-title: WarningInfo.WarningTypeProperty
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WarningInfo. تعيد نوع التحذير
+title: "WarningInfo.WarningTypeProperty"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WarningInfo. تُعيد نوع التحذير"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/warninginfo/warningtypeproperty/
 ---
-## خاصية WarningInfo.WarningTypeProperty
+## WarningInfo.WarningTypeProperty property
 
-تعيد نوع التحذير.
+يرجع نوع التحذير.
 
 ```csharp
 public WarningType WarningTypeProperty { get; }
@@ -24,3 +24,5 @@ public WarningType WarningTypeProperty { get; }
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

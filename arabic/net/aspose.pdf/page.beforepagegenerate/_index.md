@@ -1,25 +1,27 @@
 ---
-title: Delegate Page.BeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: إجراء لتخصيص الرأس والتذييل
+title: "المندوب Page.BeforePageGenerate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "إجراء لتخصيص الترويسة والتذييل"
 type: docs
-weight: 8060
+weight: 8200
 url: /ar/net/aspose.pdf/page.beforepagegenerate/
 ---
-## Delegate Page.BeforePageGenerate
+## Page.BeforePageGenerate delegate
 
-إجراء لتخصيص الرأس والتذييل.
+إجراء لتخصيص الترويسة والتذييل.
 
 ```csharp
 public delegate void BeforePageGenerate(Page page);
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة الحالية. |
+| صفحة | صفحة | الصفحة الحالية. |
 
 ### انظر أيضًا
 
 * class [Page](../page/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

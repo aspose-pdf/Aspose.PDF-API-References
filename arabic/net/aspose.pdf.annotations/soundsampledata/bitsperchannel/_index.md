@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.BitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundSampleData. تحصل أو تعين عدد البتات لكل قيمة عينة لكل قناة
+title: "SoundSampleData.BitsPerChannel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundSampleData. تحصل أو تعين عدد البتات لكل قيمة عينة لكل قناة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/soundsampledata/bitsperchannel/
 ---
-## خاصية SoundSampleData.BitsPerChannel
+## SoundSampleData.BitsPerChannel property
 
-تحصل أو تعين عدد البتات لكل قيمة عينة لكل قناة.
+يحصل أو يضبط عدد البتات لكل قيمة عينة لكل قناة.
 
 ```csharp
 public int BitsPerChannel { get; set; }
@@ -19,3 +19,5 @@ public int BitsPerChannel { get; set; }
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

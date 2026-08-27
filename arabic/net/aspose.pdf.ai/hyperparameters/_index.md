@@ -1,14 +1,14 @@
 ---
-title: Class Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.Hyperparameters. تمثل المعلمات المستخدمة في وظيفة التخصيص
+title: "الفئة Hyperparameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.Hyperparameters. تمثل المعلمات الفائقة المستخدمة في مهمة تحسين دقيق"
 type: docs
-weight: 430
+weight: 450
 url: /ar/net/aspose.pdf.ai/hyperparameters/
 ---
-## فئة المعلمات
+## Hyperparameters class
 
-تمثل المعلمات المستخدمة في وظيفة التخصيص.
+يمثل المعاملات الفائقة المستخدمة في مهمة الضبط الدقيق.
 
 ```csharp
 public class Hyperparameters
@@ -18,15 +18,17 @@ public class Hyperparameters
 
 | الاسم | الوصف |
 | --- | --- |
-| [Hyperparameters](hyperparameters/)() | المنشئ الافتراضي. |
+| [Hyperparameters](hyperparameters/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | يحصل أو يحدد عدد الأمثلة في كل دفعة. |
+| [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | يحصل أو يضبط عدد الأمثلة في كل دفعة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

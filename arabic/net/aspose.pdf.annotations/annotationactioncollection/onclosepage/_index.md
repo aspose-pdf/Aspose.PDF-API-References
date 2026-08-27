@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnClosePage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يجب تنفيذه عند إغلاق الصفحة التي تحتوي على التعليق
+title: "AnnotationActionCollection.OnClosePage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يضبط إجراءً يتم تنفيذه عندما تُغلق الصفحة التي تحتوي على التعليق التوضيحي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onclosepage/
 ---
-## خاصية AnnotationActionCollection.OnClosePage
+## AnnotationActionCollection.OnClosePage property
 
-تحصل أو تعين إجراءً يجب تنفيذه عند إغلاق الصفحة التي تحتوي على التعليق.
+يحصل أو يعيّن إجراءً يُنفَّذ عندما تُغلق الصفحة التي تحتوي على التعليق التوضيحي.
 
 ```csharp
 public PdfAction OnClosePage { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnClosePage { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

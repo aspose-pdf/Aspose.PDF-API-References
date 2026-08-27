@@ -1,14 +1,14 @@
 ---
-title: CommonFigureAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CommonFigureAnnotation. لون الخلفية الذي يتم استخدامه لملء مستطيل أو بيضاوي التعليقات
+title: "CommonFigureAnnotation.InteriorColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CommonFigureAnnotation. اللون الداخلي الذي يُستخدم لملء مستطيل أو إهليلج التعليق التوضيحي."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/commonfigureannotation/interiorcolor/
 ---
-## خاصية CommonFigureAnnotation.InteriorColor
+## CommonFigureAnnotation.InteriorColor property
 
-لون الخلفية الذي يتم استخدامه لملء مستطيل أو بيضاوي التعليق.
+لون داخلي يُستخدم لملء مستطيل أو إهليلج التعليق.
 
 ```csharp
 public Color InteriorColor { get; set; }
@@ -20,3 +20,5 @@ public Color InteriorColor { get; set; }
 * class [CommonFigureAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

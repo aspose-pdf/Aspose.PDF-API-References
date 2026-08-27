@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.CloseConcatenatedStreams
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. إذا تم تعيينها على true، يتم إغلاق التدفقات بعد العملية
+title: "PdfFileEditor.CloseConcatenatedStreams"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. إذا تم تعيينها إلى true، يتم إغلاق التدفقات بعد العملية."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdffileeditor/closeconcatenatedstreams/
 ---
-## خاصية PdfFileEditor.CloseConcatenatedStreams
+## PdfFileEditor.CloseConcatenatedStreams property
 
-إذا تم تعيينها على true، يتم إغلاق التدفقات بعد العملية.
+إذا تم تعيينه إلى true، تُغلق التدفقات بعد العملية.
 
 ```csharp
 public bool CloseConcatenatedStreams { get; set; }
@@ -26,3 +26,5 @@ pfe.CloseConcatenatedStreams = true;
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PdfFileInfo.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileInfo. تقوم بتهيئة الواجهة
+title: "PdfFileInfo.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileInfo. تهيئ الواجهة."
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/pdffileinfo/bindpdf/
 ---
-## طريقة PdfFileInfo.BindPdf
+## PdfFileInfo.BindPdf method
 
-تقوم بتهيئة الواجهة.
+يُهيئ الواجهة.
 
 ```csharp
 public override void BindPdf(Document srcDoc)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| srcDoc | Document | كائن Aspose.Pdf.Document. |
+| srcDoc | Document | الكائن Aspose.Pdf.Document. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void BindPdf(Document srcDoc)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

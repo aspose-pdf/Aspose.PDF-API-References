@@ -1,9 +1,9 @@
 ---
-title: Enum HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlMediaType enum. يحدد أنواع الوسائط الممكنة المستخدمة أثناء العرض
+title: "تعداد HtmlMediaType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.HtmlMediaType. يحدد أنواع الوسائط الممكنة المستخدمة أثناء العرض"
 type: docs
-weight: 5540
+weight: 5670
 url: /ar/net/aspose.pdf/htmlmediatype/
 ---
 ## HtmlMediaType enumeration
@@ -14,14 +14,16 @@ url: /ar/net/aspose.pdf/htmlmediatype/
 public enum HtmlMediaType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Print | `0` | طباعة. |
 | Screen | `1` | شاشة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface IStringOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Comparison.IStringOutputGenerator. تمثل واجهة لتوليد مخرجات إلى سلسلة من الاختلافات بين النصوص
+title: "الواجهة IStringOutputGenerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.Comparison.IStringOutputGenerator. تمثل واجهة لتوليد مخرجات إلى سلسلة من الفروق بين النصوص."
 type: docs
-weight: 3220
+weight: 3330
 url: /ar/net/aspose.pdf.comparison/istringoutputgenerator/
 ---
-## واجهة IStringOutputGenerator
+## IStringOutputGenerator interface
 
-تمثل واجهة لتوليد مخرجات إلى سلسلة من الاختلافات بين النصوص.
+يمثل واجهة لتوليد مخرجات إلى سلسلة تحتوي على الفروقات بين النصوص.
 
 ```csharp
 public interface IStringOutputGenerator
@@ -18,10 +18,12 @@ public interface IStringOutputGenerator
 
 | الاسم | الوصف |
 | --- | --- |
-| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;) | يولد المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف. |
-| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;) | يولد المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف. |
+| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;) | ينشئ المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف. |
+| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;) | ينشئ المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,40 +1,42 @@
 ---
-title: Class PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Printing.PrinterResolution. تمثل الدقة المدعومة من قبل الطابعة
+title: "فئة PrinterResolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Printing.PrinterResolution. تمثل الدقة التي يدعمها الطابعة"
 type: docs
-weight: 9660
+weight: 9810
 url: /ar/net/aspose.pdf.printing/printerresolution/
 ---
 ## PrinterResolution class
 
-تمثل الدقة المدعومة من قبل الطابعة.
+يمثل الدقة المدعومة من قبل الطابعة
 
 ```csharp
 public class PrinterResolution
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PrinterResolution](printerresolution/)() | يقوم بتهيئة مثيل جديد من فئة `PrinterResolution` مع الخصائص الافتراضية. |
+| [PrinterResolution](printerresolution/)() | يُنشئ نسخة جديدة من الفئة `PrinterResolution` بالخصائص الافتراضية. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Kind](../../aspose.pdf.printing/printerresolution/kind/) { get; set; } | يحصل على قيمة تشير إلى نوع دقة الطابعة. |
-| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | يحصل على دقة الطابعة في الاتجاه الأفقي، بوحدات النقاط لكل بوصة. |
-| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | يحصل على دقة الطابعة في الاتجاه العمودي، بوحدات النقاط لكل بوصة. |
+| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | يحصل على دقة الطابعة في الاتجاه الأفقي، بوحدة النقاط لكل بوصة. |
+| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | يحصل على دقة الطابعة في الاتجاه العمودي، بوحدة النقاط لكل بوصة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | يوفر بعض المعلومات المثيرة للاهتمام حول PrinterResolution في شكل سلسلة. |
+| override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | توفر بعض المعلومات المثيرة حول PrinterResolution بصيغة نصية. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

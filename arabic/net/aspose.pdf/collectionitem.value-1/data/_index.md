@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.Value1.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القيمة. تحصل على قيمة عنصر المجموعة
+title: "CollectionItem.Value1.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Value. يحصل على قيمة عنصر في المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/collectionitem.value-1/data/
 ---
-## خاصية CollectionItem.Value&lt;T&gt;.Data
+## CollectionItem.Value&lt;T&gt;.Data property
 
-تحصل على قيمة عنصر المجموعة.
+يحصل على قيمة عنصر التجميع.
 
 ```csharp
 public T Data { get; }
@@ -19,3 +19,5 @@ public T Data { get; }
 * class [Value&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

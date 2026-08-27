@@ -1,14 +1,14 @@
 ---
-title: Class Margins
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.Margins. تمثل هذه الفئة هوامش صورة
+title: "الفئة Margins"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Devices.Margins. تمثل هذه الفئة هوامش صورة."
 type: docs
-weight: 3630
+weight: 3750
 url: /ar/net/aspose.pdf.devices/margins/
 ---
-## فئة الهوامش
+## Margins class
 
-تمثل هذه الفئة هوامش صورة.
+تمثل هذه الفئة هوامش الصورة.
 
 ```csharp
 public sealed class Margins
@@ -18,19 +18,21 @@ public sealed class Margins
 
 | الاسم | الوصف |
 | --- | --- |
-| [Margins](margins/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `Margins`. |
-| [Margins](margins/#constructor_1)(int, int, int, int) | يقوم بتهيئة مثيل جديد من فئة `Margins`. |
+| [Margins](margins/#constructor)() | يُنشئ مثيلًا جديدًا للفئة `Margins`. |
+| [Margins](margins/#constructor_1)(int, int, int, int) | يُنشئ مثيلًا جديدًا للفئة `Margins`. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Bottom](../../aspose.pdf.devices/margins/bottom/) { get; set; } | يحصل أو يحدد القيمة السفلية. |
-| [Left](../../aspose.pdf.devices/margins/left/) { get; set; } | يحصل أو يحدد القيمة اليسارية. |
-| [Right](../../aspose.pdf.devices/margins/right/) { get; set; } | يحصل أو يحدد القيمة اليمنى. |
-| [Top](../../aspose.pdf.devices/margins/top/) { get; set; } | يحصل أو يحدد القيمة العلوية. |
+| [Bottom](../../aspose.pdf.devices/margins/bottom/) { get; set; } | يحصل أو يعيّن الجزء السفلي. |
+| [Left](../../aspose.pdf.devices/margins/left/) { get; set; } | يحصل أو يعيّن الجانب الأيسر. |
+| [Right](../../aspose.pdf.devices/margins/right/) { get; set; } | يحصل أو يعيّن الجانب الأيمن. |
+| [Top](../../aspose.pdf.devices/margins/top/) { get; set; } | يحصل أو يضبط القيمة العليا. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

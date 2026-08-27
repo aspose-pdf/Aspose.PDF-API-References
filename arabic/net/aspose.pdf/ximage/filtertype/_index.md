@@ -1,14 +1,14 @@
 ---
-title: XImage.FilterType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XImage. تحصل على نوع فلتر الصورة
+title: "XImage.FilterType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XImage. تحصل على نوع مرشح الصورة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/ximage/filtertype/
 ---
-## خاصية XImage.FilterType
+## XImage.FilterType property
 
-تحصل على نوع فلتر الصورة.
+يحصل على نوع مرشح الصورة.
 
 ```csharp
 public ImageFilterType FilterType { get; }
@@ -20,3 +20,5 @@ public ImageFilterType FilterType { get; }
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

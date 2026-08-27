@@ -1,14 +1,14 @@
 ---
-title: ClosePathFillStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ClosePathFillStroke. تعيد تمثيل سلسلة للمشغل
+title: "ClosePathFillStroke.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ClosePathFillStroke. تُرجع تمثيل النص للمشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/closepathfillstroke/tostring/
 ---
-## طريقة ClosePathFillStroke.ToString
+## ClosePathFillStroke.ToString method
 
-تعيد تمثيل سلسلة للمشغل.
+يرجع تمثيل النص للعامل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل سلسلة
+تمثيل النص
 
 ### انظر أيضًا
 
 * class [ClosePathFillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

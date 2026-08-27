@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تعيين النموذج لخيارات مساعد الدردشة
+title: "OpenAIChatCopilotOptions.WithModel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. تحدد النموذج لخيارات مساعد الدردشة."
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/
 ---
-## طريقة OpenAIChatCopilotOptions.WithModel
+## OpenAIChatCopilotOptions.WithModel method
 
-تعيين النموذج لخيارات مساعد الدردشة.
+يضبط النموذج لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithModel(string model)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| model | String | النموذج الذي سيتم تعيينه. |
+| النموذج | String | النموذج المراد تحديده. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

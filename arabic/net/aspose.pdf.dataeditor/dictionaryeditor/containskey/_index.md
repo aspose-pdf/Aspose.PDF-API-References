@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DictionaryEditor. تحدد ما إذا كان DictionaryEditor يحتوي على عنصر بالمفتاح المحدد
+title: "DictionaryEditor.ContainsKey"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DictionaryEditor. تحدد ما إذا كان DictionaryEditor يحتوي على عنصر بالمفتاح المحدد"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.dataeditor/dictionaryeditor/containskey/
 ---
-## طريقة DictionaryEditor.ContainsKey
+## DictionaryEditor.ContainsKey method
 
 تحدد ما إذا كان [`DictionaryEditor`](../) يحتوي على عنصر بالمفتاح المحدد.
 
@@ -14,16 +14,18 @@ url: /ar/net/aspose.pdf.dataeditor/dictionaryeditor/containskey/
 public bool ContainsKey(string key)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح الذي سيتم تحديد موقعه في [`DictionaryEditor`](../). |
+| key | String | المفتاح لتحديده في [`DictionaryEditor`](../). |
 
 ### قيمة الإرجاع
 
-true إذا كان [`DictionaryEditor`](../) يحتوي على عنصر قابل للتعديل بالمفتاح؛ خلاف ذلك، false.
+صحيح إذا كان [`DictionaryEditor`](../) يحتوي على عنصر قابل للتحرير بالمفتاح؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

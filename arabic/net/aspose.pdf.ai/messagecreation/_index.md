@@ -1,32 +1,34 @@
 ---
-title: Class MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.MessageCreation. تمثل إنشاء رسالة بمعرفها الفريد
+title: "الفئة MessageCreation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.MessageCreation. تمثل إنشاء رسالة مع معرفها الفريد."
 type: docs
-weight: 800
+weight: 850
 url: /ar/net/aspose.pdf.ai/messagecreation/
 ---
 ## MessageCreation class
 
-تمثل إنشاء رسالة بمعرفها الفريد.
+يمثل إنشاء رسالة بمعرفها الفريد.
 
 ```csharp
 public class MessageCreation
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MessageCreation](messagecreation/)() | المُنشئ الافتراضي. |
+| [MessageCreation](messagecreation/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | يحصل على أو يحدد المعرف الفريد للرسالة. |
+| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | الحصول أو تعيين المعرف الفريد للرسالة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

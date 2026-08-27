@@ -1,12 +1,12 @@
 ---
-title: ExternalSignature.Certificate
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ExternalSignature. الشهادة مع المفتاح الخاص
+title: "ExternalSignature.Certificate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ExternalSignature. الشهادة مع المفتاح الخاص."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/externalsignature/certificate/
 ---
-## حقل ExternalSignature.Certificate
+## ExternalSignature.Certificate field
 
 الشهادة مع المفتاح الخاص.
 
@@ -19,3 +19,5 @@ public readonly X509Certificate2 Certificate;
 * class [ExternalSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffDevice. يحصل على دقة الصورة
+title: "TiffDevice.Resolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffDevice. تحصل على دقة الصورة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.devices/tiffdevice/resolution/
 ---
-## خاصية TiffDevice.Resolution
+## TiffDevice.Resolution property
 
 يحصل على دقة الصورة.
 
@@ -20,3 +20,5 @@ public Resolution Resolution { get; }
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

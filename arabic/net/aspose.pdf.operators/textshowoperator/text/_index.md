@@ -1,14 +1,14 @@
 ---
-title: TextShowOperator.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextShowOperator. تحصل على النص الذي يخرجه المشغل على الصفحة
+title: "TextShowOperator.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextShowOperator. تحصل على النص الذي يخرجه المشغل على الصفحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/textshowoperator/text/
 ---
-## خاصية TextShowOperator.Text
+## TextShowOperator.Text property
 
-تحصل على النص الذي يخرجه المشغل على الصفحة.
+يحصل على النص الذي يخرج العامل على الصفحة.
 
 ```csharp
 public virtual string Text { get; set; }
@@ -19,3 +19,5 @@ public virtual string Text { get; set; }
 * class [TextShowOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

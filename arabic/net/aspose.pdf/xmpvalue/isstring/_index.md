@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpValue. تعيد true إذا كانت القيمة سلسلة
+title: "XmpValue.IsString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpValue. تُرجع true إذا كانت القيمة سلسلة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/xmpvalue/isstring/
 ---
-## خاصية XmpValue.IsString
+## XmpValue.IsString property
 
-تعيد true إذا كانت القيمة سلسلة.
+يعيد true إذا كانت القيمة سلسلة.
 
 ```csharp
 public bool IsString { get; }
@@ -19,3 +19,5 @@ public bool IsString { get; }
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

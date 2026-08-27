@@ -1,25 +1,27 @@
 ---
-title: PDF3DContent.GetAsByteArray
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DContent. تحصل على محتوى ثلاثي الأبعاد كمصفوفة بايت
+title: "PDF3DContent.GetAsByteArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DContent. تسترجع محتوى ثلاثي الأبعاد كمصفوفة بايت"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/pdf3dcontent/getasbytearray/
 ---
 ## PDF3DContent.GetAsByteArray method
 
-تحصل على محتوى ثلاثي الأبعاد كمصفوفة بايت.
+يحصل على محتوى 3D كمصفوفة بايت.
 
 ```csharp
 public byte[] GetAsByteArray()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 System.Byte[].
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

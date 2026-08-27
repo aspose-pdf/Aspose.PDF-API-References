@@ -1,14 +1,14 @@
 ---
-title: JpegOptions.Quality
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية JpegOptions. تحصل على جودة Jpeg وتضبطها
+title: "JpegOptions.Quality"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "JpegOptions property. يحصل ويضبط جودة Jpeg"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/jpegoptions/quality/
 ---
-## خاصية JpegOptions.Quality
+## JpegOptions.Quality property
 
-تحصل على جودة Jpeg وتضبطها
+يحصل ويعيّن جودة Jpeg
 
 ```csharp
 public int Quality { get; set; }
@@ -19,3 +19,5 @@ public int Quality { get; set; }
 * class [JpegOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

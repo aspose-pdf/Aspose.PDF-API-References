@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Location
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignOptions. موقع التوقيع
+title: "SignOptions.Location"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignOptions. موقع التوقيع"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/signoptions/location/
 ---
-## خاصية SignOptions.Location
+## SignOptions.Location property
 
 موقع التوقيع.
 
@@ -19,3 +19,5 @@ public string Location { get; set; }
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

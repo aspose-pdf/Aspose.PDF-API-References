@@ -1,14 +1,14 @@
 ---
-title: Document.Destinations
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على مجموعة الوجهات. عفا عليها الزمن. يرجى استخدام NamedDestinations
+title: "Document.Destinations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تُرجع مجموعة الوجهات. قديمة. يرجى استخدام NamedDestinations"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.pdf/document/destinations/
 ---
-## خاصية Document.Destinations
+## Document.Destinations property
 
-تحصل على مجموعة الوجهات. عفا عليها الزمن. يرجى استخدام NamedDestinations.
+يحصل على مجموعة الوجهات. مهملة. يرجى استخدام NamedDestinations.
 
 ```csharp
 public DestinationCollection Destinations { get; }
@@ -20,3 +20,5 @@ public DestinationCollection Destinations { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

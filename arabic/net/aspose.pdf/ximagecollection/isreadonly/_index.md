@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XImageCollection. تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
+title: "XImageCollection.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XImageCollection خاصية. يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/ximagecollection/isreadonly/
 ---
-## خاصية XImageCollection.IsReadOnly
+## XImageCollection.IsReadOnly property
 
-تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط.
+يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public bool IsReadOnly { get; }
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

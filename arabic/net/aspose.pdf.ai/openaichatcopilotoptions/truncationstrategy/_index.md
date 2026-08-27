@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIChatCopilotOptions. تحصل أو تعين استراتيجية الاقتطاع للخيط
+title: "OpenAIChatCopilotOptions.TruncationStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAIChatCopilotOptions. تحصل أو تعين استراتيجية القطع للمسار"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/truncationstrategy/
 ---
-## خاصية OpenAIChatCopilotOptions.TruncationStrategy
+## OpenAIChatCopilotOptions.TruncationStrategy property
 
-تحصل أو تعين استراتيجية الاقتطاع للخيط.
+يحصل أو يضبط استراتيجية القطع للموضوع.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
@@ -20,3 +20,5 @@ public TruncationStrategy TruncationStrategy { get; set; }
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

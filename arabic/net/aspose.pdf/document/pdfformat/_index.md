@@ -1,12 +1,12 @@
 ---
-title: Document.PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل على تنسيق PDF
+title: "Document.PdfFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على تنسيق PDF"
 type: docs
-weight: 480
+weight: 500
 url: /ar/net/aspose.pdf/document/pdfformat/
 ---
-## خاصية Document.PdfFormat
+## Document.PdfFormat property
 
 يحصل على تنسيق PDF
 
@@ -20,3 +20,5 @@ public PdfFormat PdfFormat { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreResponse. تحصل أو تعين عدد الملفات التي تم معالجتها
+title: "VectorStoreResponse.FileCounts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية VectorStoreResponse. تحصل أو تعين عدد الملفات التي تم معالجتها"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/vectorstoreresponse/filecounts/
 ---
-## خاصية VectorStoreResponse.FileCounts
+## VectorStoreResponse.FileCounts property
 
-تحصل أو تعين عدد الملفات التي تم معالجتها.
+يحصل أو يضبط عدد الملفات التي تم معالجتها.
 
 ```csharp
 public FileCounts FileCounts { get; set; }
@@ -20,3 +20,5 @@ public FileCounts FileCounts { get; set; }
 * class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

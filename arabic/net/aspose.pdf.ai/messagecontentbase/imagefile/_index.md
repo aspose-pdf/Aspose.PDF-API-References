@@ -1,14 +1,14 @@
 ---
-title: MessageContentBase.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MessageContentBase. تحصل أو تعين ملف صورة في محتوى رسالة
+title: "MessageContentBase.ImageFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MessageContentBase. تحصل أو تعين ملف صورة في محتوى الرسالة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/messagecontentbase/imagefile/
 ---
-## خاصية MessageContentBase.ImageFile
+## MessageContentBase.ImageFile property
 
-تحصل أو تعين ملف صورة في محتوى رسالة.
+يحصل أو يعيّن ملف صورة في محتوى الرسالة.
 
 ```csharp
 public ImageFile ImageFile { get; set; }
@@ -20,3 +20,5 @@ public ImageFile ImageFile { get; set; }
 * class [MessageContentBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

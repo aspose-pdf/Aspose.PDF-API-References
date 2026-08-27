@@ -1,14 +1,14 @@
 ---
-title: PageDate.PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageDate. المُنشئ الافتراضي
+title: "PageDate.PageDate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PageDate المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagedate/pagedate/
 ---
-## مُنشئ PageDate
+## PageDate constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PageDate()
@@ -19,3 +19,5 @@ public PageDate()
 * class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,28 @@
 ---
-title: XImageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImageCollection. تضيف صورة جديدة إلى قائمة الصور. تضيف هذه الطريقة الصورة كمرجع إلى نفس PdfObject مما يسمح بتقليل حجم الملف
+title: "XImageCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XImageCollection طريقة. يضيف صورة جديدة إلى قائمة الصور. هذه الطريقة تضيف الصورة كمرجع إلى نفس PdfObject مما يسمح بتقليل حجم الملف"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/ximagecollection/add/
 ---
 ## Add(XImage) {#add_2}
 
-تضيف صورة جديدة إلى قائمة الصور. تضيف هذه الطريقة الصورة كمرجع إلى نفس PdfObject (مما يسمح بتقليل حجم الملف)
+يضيف صورة جديدة إلى قائمة Image. هذه الطريقة تضيف الصورة كمرجع إلى نفس PdfObject (ما يسمح بتقليل حجم الملف)
 
 ```csharp
 public string Add(XImage image)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | XImage | XImage ليتم إضافتها. |
+| صورة | XImage | الصورة التي سيتم إضافتها. |
 
-### Return Value
+### قيمة الإرجاع
 
 اسم الصورة المضافة.
 
-### See Also
+### انظر أيضًا
 
 * class [XImage](../../ximage/)
 * class [XImageCollection](../)
@@ -33,21 +33,21 @@ public string Add(XImage image)
 
 ## Add(Stream) {#add_3}
 
-تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
+يضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان عبر الفهرس الأخير.
 
 ```csharp
 public string Add(Stream image)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | Stream | Stream يحتوي على بيانات الصورة (بتنسيق JPEG). |
+| صورة | Stream | دفق يحتوي على بيانات الصورة (بتنسيق JPEG). |
 
-### Return Value
+### قيمة الإرجاع
 
 اسم الصورة المضافة.
 
-### See Also
+### انظر أيضًا
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -57,21 +57,21 @@ public string Add(Stream image)
 
 ## Add(BitmapInfo) {#add}
 
-تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
+يضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان عبر الفهرس الأخير.
 
 ```csharp
 public string Add(BitmapInfo bitmapInfo)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bitmapInfo | BitmapInfo | كائن يحتوي على مصفوفة من البكسلات ومعلومات الصورة النقطية (العرض، الارتفاع، تنسيق البكسل). |
+| bitmapInfo | BitmapInfo | كائن يحتوي على مصفوفة من البكسلات ومعلومات البت ماب (العرض، الارتفاع، تنسيق البكسل). |
 
-### Return Value
+### قيمة الإرجاع
 
 اسم الصورة المضافة.
 
-### See Also
+### انظر أيضًا
 
 * class [BitmapInfo](../../bitmapinfo/)
 * class [XImageCollection](../)
@@ -82,22 +82,22 @@ public string Add(BitmapInfo bitmapInfo)
 
 ## Add(Stream, ImageFilterType) {#add_4}
 
-تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
+يضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان عبر الفهرس الأخير.
 
 ```csharp
 public string Add(Stream image, ImageFilterType filterType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | Stream | Stream يحتوي على بيانات الصورة. |
-| filterType | ImageFilterType | نوع فلتر الصورة. |
+| صورة | Stream | دفق يحتوي على بيانات الصورة. |
+| filterType | ImageFilterType | نوع مرشح الصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
 اسم الصورة المضافة.
 
-### See Also
+### انظر أيضًا
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [XImageCollection](../)
@@ -108,22 +108,22 @@ public string Add(Stream image, ImageFilterType filterType)
 
 ## Add(BitmapInfo, ImageFilterType) {#add_1}
 
-تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
+يضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان عبر الفهرس الأخير.
 
 ```csharp
 public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bitmapInfo | BitmapInfo | كائن يحتوي على مصفوفة من البكسلات ومعلومات الصورة النقطية (العرض، الارتفاع، تنسيق البكسل). |
-| filterType | ImageFilterType | نوع فلتر الصورة. |
+| bitmapInfo | BitmapInfo | كائن يحتوي على مصفوفة من البكسلات ومعلومات البت ماب (العرض، الارتفاع، تنسيق البكسل). |
+| filterType | ImageFilterType | نوع مرشح الصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
 اسم الصورة المضافة.
 
-### See Also
+### انظر أيضًا
 
 * class [BitmapInfo](../../bitmapinfo/)
 * enum [ImageFilterType](../../imagefiltertype/)
@@ -135,19 +135,21 @@ public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 
 ## Add(Stream, int) {#add_5}
 
-تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
+يضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان عبر الفهرس الأخير.
 
 ```csharp
 public void Add(Stream image, int quality)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | Stream | Stream يحتوي على بيانات الصورة (بتنسيق JPEG). |
+| صورة | Stream | دفق يحتوي على بيانات الصورة (بتنسيق JPEG). |
 | quality | Int32 | جودة JPEG. |
 
-### See Also
+### انظر أيضًا
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

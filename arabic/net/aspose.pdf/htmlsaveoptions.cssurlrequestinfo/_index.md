@@ -1,33 +1,35 @@
 ---
-title: Class HtmlSaveOptions.CssUrlRequestInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo class. تمثل مجموعة من البيانات المتعلقة بالطلب من المحول إلى الكود المخصص بهدف الحصول على عنوان URL المرغوب أو قالب عنوان URL للـ CSS المعني
+title: "الفئة HtmlSaveOptions.CssUrlRequestInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo. تمثل مجموعة من البيانات المتعلقة بالطلب من المحول إلى الكود المخصص بهدف الحصول على URL مرغوب أو قالب URL لملف CSS المعني"
 type: docs
-weight: 5610
+weight: 5740
 url: /ar/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/
 ---
 ## HtmlSaveOptions.CssUrlRequestInfo class
 
-تمثل مجموعة من البيانات المتعلقة بالطلب من المحول إلى الكود المخصص بهدف الحصول على عنوان URL المرغوب (أو قالب عنوان URL) للـ CSS المعني
+تمثل مجموعة من البيانات المتعلقة بالطلب من المحول إلى الكود المخصص بهدف الحصول على URL مرغوب (أو قالب URL) لملف CSS المعني
 
 ```csharp
 public class CssUrlRequestInfo
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CssUrlRequestInfo](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/.ctor)() | المُنشئ الافتراضي. |
+| [CssUrlRequestInfo](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/.ctor)() | البناء الافتراضي. |
 
-## Fields
+## الحقول
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled) | يجب أن يتم تعيينه بواسطة الكود المخصص إذا لم يكن بإمكانه أو لا ينبغي عليه تحديد عنوان URL الذي سيتم استخدامه في HTML الناتج للإشارة إلى ذلك CSS. إذا كانت قيمته 'true'، فسيتم حفظ ملف CSS بالطريقة القياسية في المكان القياسي. |
+| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled) | يجب أن يتم تعيينه بواسطة الكود المخصص إذا لم يستطع أو لا ينبغي له تحديد URL الذي سيُستخدم في HTML المُولد للإشارة إلى ذلك CSS. إذا كان 'true'، فسيتم حفظ ملف CSS بطريقة قياسية في المكان القياسي. |
 
-### See Also
+### انظر أيضًا
 
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

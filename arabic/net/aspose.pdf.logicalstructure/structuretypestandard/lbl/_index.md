@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Lbl
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. تسمية اسم أو رقم يميز عنصر معين عن العناصر الأخرى في نفس القائمة أو مجموعة أخرى من العناصر المماثلة
+title: "StructureTypeStandard.Lbl"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Label اسم أو رقم يميز عنصرًا معينًا عن الآخرين في نفس القائمة أو مجموعة أخرى من العناصر المتشابهة"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/lbl/
 ---
-## حقل StructureTypeStandard.Lbl
+## StructureTypeStandard.Lbl field
 
-(تسمية) اسم أو رقم يميز عنصر معين عن العناصر الأخرى في نفس القائمة أو مجموعة أخرى من العناصر المماثلة.
+(Label) اسم أو رقم يميز عنصرًا معينًا عن غيره في نفس القائمة أو مجموعة أخرى من العناصر المماثلة.
 
 ```csharp
 public static readonly StructureTypeStandard Lbl;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Lbl;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

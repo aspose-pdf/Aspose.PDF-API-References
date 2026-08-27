@@ -1,14 +1,14 @@
 ---
-title: TeXSaveOptions.TeXSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TeXSaveOptions. المُنشئ الافتراضي
+title: "TeXSaveOptions.TeXSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TeXSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/texsaveoptions/texsaveoptions/
 ---
-## مُنشئ TeXSaveOptions
+## TeXSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TeXSaveOptions()
@@ -19,3 +19,5 @@ public TeXSaveOptions()
 * class [TeXSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

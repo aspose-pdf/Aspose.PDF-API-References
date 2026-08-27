@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.Mode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. وضع التعرف
+title: "DocSaveOptions.Mode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. وضع التعرف"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/docsaveoptions/mode/
 ---
-## خاصية DocSaveOptions.Mode
+## DocSaveOptions.Mode property
 
 وضع التعرف.
 
@@ -20,3 +20,5 @@ public RecognitionMode Mode { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

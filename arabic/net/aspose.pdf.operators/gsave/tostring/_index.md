@@ -1,14 +1,14 @@
 ---
-title: GSave.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GSave. تعيد نص المشغل
+title: "GSave.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GSave. تُعيد نص المشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/gsave/tostring/
 ---
-## طريقة GSave.ToString
+## GSave.ToString method
 
-تعيد نص المشغل.
+يرجع نص المشغّل.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [GSave](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay_Top
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تعين الإحداثي العلوي لعرض الصفحة
+title: "Bookmark.PageDisplay_Top"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. تحصل أو تعيين الإحداثي العلوي لعرض الصفحة"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/bookmark/pagedisplay_top/
 ---
-## خاصية Bookmark.PageDisplay_Top
+## Bookmark.PageDisplay_Top property
 
-تحصل أو تعين الإحداثي العلوي لعرض الصفحة.
+يحصل أو يعيّن الإحداثي العلوي لعرض الصفحة.
 
 ```csharp
 public int PageDisplay_Top { get; set; }
@@ -19,3 +19,5 @@ public int PageDisplay_Top { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. تحصل أو تعين العنوان لهذا العنصر في المخطط
+title: "OutlineItemCollection.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OutlineItemCollection خاصية. يحصل أو يحدد العنوان لهذا العنصر المخطط"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/outlineitemcollection/title/
 ---
-## خاصية OutlineItemCollection.Title
+## OutlineItemCollection.Title property
 
-تحصل أو تعين العنوان لهذا العنصر في المخطط.
+يحصل أو يعين العنوان لهذا العنصر في المخطط.
 
 ```csharp
 public string Title { get; set; }
@@ -19,3 +19,5 @@ public string Title { get; set; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SubmitToolOutputs.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SubmitToolOutputs. تحصل أو تعين قائمة بمكالمات الأدوات ذات الصلة
+title: "SubmitToolOutputs.ToolCalls"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SubmitToolOutputs. تحصل أو تعيين قائمة استدعاءات الأدوات ذات الصلة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/submittooloutputs/toolcalls/
 ---
-## خاصية SubmitToolOutputs.ToolCalls
+## SubmitToolOutputs.ToolCalls property
 
-تحصل أو تعين قائمة بمكالمات الأدوات ذات الصلة.
+يحصل أو يعيّن قائمة بالمكالمات ذات الصلة للأداة.
 
 ```csharp
 public List<ToolCall> ToolCalls { get; set; }
@@ -20,3 +20,5 @@ public List<ToolCall> ToolCalls { get; set; }
 * class [SubmitToolOutputs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

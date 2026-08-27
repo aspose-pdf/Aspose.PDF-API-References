@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderPartStyle.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BorderPartStyle. المُنشئ الافتراضي
+title: "SaveOptions.BorderPartStyle.BorderPartStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BorderPartStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/saveoptions.borderpartstyle/borderpartstyle/
 ---
-## مُنشئ SaveOptions.BorderPartStyle
+## SaveOptions.BorderPartStyle constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public BorderPartStyle()
@@ -19,3 +19,5 @@ public BorderPartStyle()
 * class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ImagePlacementCollection. تُرجع عدادًا للمجموعة بأكملها
+title: "ImagePlacementCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ImagePlacementCollection. تُعيد مُعدِّدًا للمجموعة بالكامل"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/imageplacementcollection/getenumerator/
 ---
-## طريقة ImagePlacementCollection.GetEnumerator
+## ImagePlacementCollection.GetEnumerator method
 
-تُرجع عدادًا للمجموعة بأكملها.
+يرجع عدّادًا للمجموعة بالكامل.
 
 ```csharp
 public IEnumerator<ImagePlacement> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<ImagePlacement> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد.
+Enumerator object.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<ImagePlacement> GetEnumerator()
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

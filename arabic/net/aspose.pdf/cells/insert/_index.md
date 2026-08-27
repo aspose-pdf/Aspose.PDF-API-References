@@ -1,23 +1,23 @@
 ---
-title: Cells.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Cells. إدراج خلية في المجموعة
+title: "Cells.Insert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Cells. إدراج خلية إلى المجموعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/cells/insert/
 ---
-## طريقة Cells.Insert
+## Cells.Insert method
 
-إدراج خلية في المجموعة.
+إدراج خلية إلى المجموعة.
 
 ```csharp
 public void Insert(int index, Cell cell)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | الفهرس المحدد. |
-| cell | Cell | الخلية المحددة. |
+| خلية | خلية | الخلية المحددة. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void Insert(int index, Cell cell)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

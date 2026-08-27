@@ -1,14 +1,14 @@
 ---
-title: ToUnicodeProcessingRules.ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ToUnicodeProcessingRules. يُهيئ مثيلًا جديدًا من فئة ToUnicodeProcessingRules
+title: "ToUnicodeProcessingRules.ToUnicodeProcessingRules"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ToUnicodeProcessingRules. يهيئ مثيلًا جديدًا من الفئة ToUnicodeProcessingRules"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
 ---
 ## ToUnicodeProcessingRules() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`ToUnicodeProcessingRules`](../).
+يُهيئ مثيلًا جديدًا من الفئة [`ToUnicodeProcessingRules`](../).
 
 ```csharp
 public ToUnicodeProcessingRules()
@@ -16,47 +16,49 @@ public ToUnicodeProcessingRules()
 
 ### انظر أيضًا
 
-* فئة [ToUnicodeProcessingRules](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ToUnicodeProcessingRules(bool) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`ToUnicodeProcessingRules`](../) مع الخيار المحدد لإزالة المسافات من أسماء CMap.
+يُهيئ مثيلًا جديدًا من الفئة [`ToUnicodeProcessingRules`](../) مع الخيار المحدد لإزالة المسافات من أسماء CMap.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | removeSpaces | Boolean | قيمة منطقية تشير إلى ما إذا كان يجب إزالة المسافات من أسماء CMap. |
 
 ### انظر أيضًا
 
-* فئة [ToUnicodeProcessingRules](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
-يُهيئ مثيلًا جديدًا من فئة [`ToUnicodeProcessingRules`](../) مع الخيارات المحددة.
+ينشئ مثيلاً جديدًا من الفئة [`ToUnicodeProcessingRules`](../) مع الخيارات المحددة.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSpace)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | removeSpaces | Boolean | يشير إلى ما إذا كان يجب إزالة المسافات من أسماء CMap. |
-| mapNonLinkedUnicodesOnSpace | Boolean | يشير إلى ما إذا كان يجب ربط الرموز غير المرتبطة بـ Unicode بالمسافات. |
+| mapNonLinkedUnicodesOnSpace | Boolean | يشير إلى ما إذا كان يجب ربط رموز Unicode غير المرتبطة بالمسافات. |
 
 ### انظر أيضًا
 
-* فئة [ToUnicodeProcessingRules](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

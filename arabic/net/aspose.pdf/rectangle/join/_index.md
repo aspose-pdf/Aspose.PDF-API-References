@@ -1,22 +1,22 @@
 ---
-title: Rectangle.Join
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rectangle. تنضم المستطيلات
+title: "Rectangle.Join"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. يجمع المستطيلات"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf/rectangle/join/
 ---
-## طريقة Rectangle.Join
+## Rectangle.Join method
 
-تنضم المستطيلات.
+يجمع المستطيلات.
 
 ```csharp
 public Rectangle Join(Rectangle otherRect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| otherRect | Rectangle | المستطيل الذي سيتم الانضمام إليه. |
+| otherRect | Rectangle | المستطيل الذي سيُضمّ هذا Rectangle إليه. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public Rectangle Join(Rectangle otherRect)
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

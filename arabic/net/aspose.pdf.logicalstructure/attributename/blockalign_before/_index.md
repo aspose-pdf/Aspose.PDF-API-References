@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BlockAlign_Before
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية BlockAlign Before - الحافة الأمامية لمستطيل تخصيص الطفل الأول متوافقة مع مستطيل محتوى خلايا الجدول
+title: "AttributeName.BlockAlign_Before"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة BlockAlign Before  حافة قبل للمستطيل المخصص للطفل الأول متراصة مع حافة مستطيل محتوى خلايا الجدول"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/attributename/blockalign_before/
 ---
-## حقل AttributeName.BlockAlign_Before
+## AttributeName.BlockAlign_Before field
 
-خاصية BlockAlign: Before - الحافة الأمامية لمستطيل تخصيص الطفل الأول متوافقة مع مستطيل محتوى خلية الجدول.
+السمة BlockAlign: Before - الحافة قبل للطفل الأول في المستطيل المخصص محاذاة مع حافة مستطيل محتوى خلية الجدول.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Before;
@@ -19,3 +19,5 @@ public static readonly AttributeName BlockAlign_Before;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

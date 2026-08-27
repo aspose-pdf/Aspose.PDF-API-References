@@ -1,14 +1,14 @@
 ---
-title: SetCharacterSpacing.CharSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetCharacterSpacing. تحصل أو تضبط تباعد الأحرف
+title: "SetCharacterSpacing.CharSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetCharacterSpacing. يحصل أو يضبط تباعد الأحرف"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/setcharacterspacing/charspacing/
 ---
-## خاصية SetCharacterSpacing.CharSpacing
+## SetCharacterSpacing.CharSpacing property
 
-تحصل أو تضبط تباعد الأحرف.
+يحصل أو يضبط تباعد الأحرف.
 
 ```csharp
 public double CharSpacing { get; set; }
@@ -19,3 +19,5 @@ public double CharSpacing { get; set; }
 * class [SetCharacterSpacing](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

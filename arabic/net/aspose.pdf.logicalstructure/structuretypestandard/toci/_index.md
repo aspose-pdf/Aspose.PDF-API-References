@@ -1,26 +1,26 @@
 ---
-title: StructureTypeStandard.TOCI
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. عنصر جدول المحتويات عضو فردي في جدول المحتويات. يمكن أن تكون أطفال هذه الإدخال أي من أنواع الهيكل التالية
+title: "StructureTypeStandard.TOCI"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. عنصر جدول المحتويات عضو فردي في جدول المحتويات. قد تكون عناصر هذا الإدخال من أي من أنواع البنية التالية"
 type: docs
 weight: 450
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
-## حقل StructureTypeStandard.TOCI
+## StructureTypeStandard.TOCI field
 
-(عنصر جدول المحتويات) عضو فردي في جدول المحتويات. يمكن أن تكون أطفال هذه الإدخال أي من أنواع الهيكل التالية:
+(عنصر فهرس) عضو فردي في الفهرس. قد تكون أطفال هذا المدخل أيًا من أنواع البنية التالية:
 
 **Lbl**
 
-علامة
+تسمية
 
 **Reference**
 
-مرجع إلى العنوان ورقم الصفحة
+إشارة إلى العنوان ورقم الصفحة
 
 **NonStruct**
 
-عناصر غير هيكلية لتغليف عنصر قائد
+عناصر غير بنائية لتغليف عنصر القائد
 
 **P**
 
@@ -28,7 +28,7 @@ url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 
 **TOC**
 
-عناصر جدول المحتويات لجدوال المحتويات الهرمية، كما هو موصوف لإدخال TOC
+عناصر جدول المحتويات للجداول الهرمية للمحتوى، كما هو موضح في إدخال TOC
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;
@@ -39,3 +39,5 @@ public static readonly StructureTypeStandard TOCI;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

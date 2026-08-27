@@ -1,36 +1,38 @@
 ---
-title: Enum TextIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.TextIcon enum. تعدد الرموز المستخدمة في عرض التعليق
+title: "التعداد TextIcon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Annotations.TextIcon. يعدد الأيقونات التي تُستخدم في عرض التعليق التوضيحي"
 type: docs
-weight: 2660
+weight: 2760
 url: /ar/net/aspose.pdf.annotations/texticon/
 ---
 ## TextIcon enumeration
 
-تعدد الرموز المستخدمة في عرض التعليق.
+يعدّ الأيقونات التي ستُستخدم في عرض التعليق.
 
 ```csharp
 public enum TextIcon
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Note | `0` | رمز الملاحظة. |
-| Comment | `1` | رمز التعليق. |
-| Key | `2` | رمز المفتاح. |
-| Help | `3` | رمز المساعدة. |
-| NewParagraph | `4` | رمز الفقرة الجديدة. |
-| Paragraph | `5` | رمز الفقرة. |
-| Insert | `6` | رمز الإدراج. |
-| Check | `7` | رمز التحقق. |
-| Cross | `8` | رمز الصليب. |
-| Circle | `9` | رمز الدائرة. |
-| Star | `10` | رمز النجمة. |
+| Note | `0` | أيقونة ملاحظة. |
+| Comment | `1` | أيقونة تعليق. |
+| Key | `2` | أيقونة مفتاح. |
+| Help | `3` | أيقونة مساعدة. |
+| NewParagraph | `4` | أيقونة NewParagraph. |
+| Paragraph | `5` | أيقونة فقرة. |
+| Insert | `6` | أيقونة إدراج. |
+| Check | `7` | أيقونة تحقق. |
+| Cross | `8` | أيقونة صليب. |
+| Circle | `9` | أيقونة دائرة. |
+| Star | `10` | أيقونة نجمة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

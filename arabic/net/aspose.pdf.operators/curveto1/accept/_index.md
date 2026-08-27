@@ -1,26 +1,28 @@
 ---
-title: CurveTo1.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CurveTo1. تقبل محدد المشغل
+title: "CurveTo1.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CurveTo1. تقبل محدد المشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/curveto1/accept/
 ---
-## طريقة CurveTo1.Accept
+## CurveTo1.Accept method
 
-تقبل محدد المشغل.
+يقبل محدد العامل.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| visitor | IOperatorSelector | كائن الزائر |
+| زائر | IOperatorSelector | كائن Visitor |
 
 ### انظر أيضًا
 
-* واجهة [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* فئة [CurveTo1](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [CurveTo1](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

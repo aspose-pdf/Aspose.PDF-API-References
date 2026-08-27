@@ -1,14 +1,14 @@
 ---
-title: Class ID
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.ID. فئة تمثل مشغل المعرف بدء بيانات الصورة المضمنة
+title: "الفئة ID"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.ID الفئة. الفئة التي تمثل معامل ID بدء بيانات الصورة المضمنة"
 type: docs
-weight: 7430
+weight: 7570
 url: /ar/net/aspose.pdf.operators/id/
 ---
-## فئة المعرف
+## ID class
 
-فئة تمثل مشغل المعرف (بدء بيانات الصورة المضمنة).
+الفئة التي تمثل المشغل ID (بدء بيانات الصورة المضمنة).
 
 ```csharp
 public class ID : Operator
@@ -18,24 +18,26 @@ public class ID : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [ID](id/)() | يقوم بتهيئة المشغل. |
+| [ID](id/)() | يُهيئ العامل. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/id/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/id/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

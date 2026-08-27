@@ -1,14 +1,14 @@
 ---
-title: PaperSources.AutomaticFeed
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل مصدر ورق التغذية التلقائية
+title: "PaperSources.AutomaticFeed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل مصدر ورق تغذية تلقائية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/papersources/automaticfeed/
 ---
-## حقل PaperSources.AutomaticFeed
+## PaperSources.AutomaticFeed field
 
-يمثل مصدر ورق التغذية التلقائية.
+تمثل مصدر ورق تغذية تلقائي.
 
 ```csharp
 public static readonly PaperSource AutomaticFeed;
@@ -20,3 +20,5 @@ public static readonly PaperSource AutomaticFeed;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

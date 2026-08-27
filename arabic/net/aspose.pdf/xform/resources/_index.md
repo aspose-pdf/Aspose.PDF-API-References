@@ -1,14 +1,14 @@
 ---
-title: XForm.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XForm. تحصل على موارد كائن XForm
+title: "XForm.Resources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XForm. يحصل على موارد Form XObject"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/xform/resources/
 ---
-## خاصية XForm.Resources
+## XForm.Resources property
 
-تحصل على موارد كائن XForm.
+يحصل على موارد Form XObject.
 
 ```csharp
 public Resources Resources { get; }
@@ -20,3 +20,5 @@ public Resources Resources { get; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

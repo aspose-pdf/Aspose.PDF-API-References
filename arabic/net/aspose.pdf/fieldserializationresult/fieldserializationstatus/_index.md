@@ -1,20 +1,20 @@
 ---
-title: FieldSerializationResult.FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FieldSerializationResult. تحصل على حالة تسلسل حقل النموذج
+title: "FieldSerializationResult.FieldSerializationStatus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FieldSerializationResult. يحصل على حالة تسلسل حقل النموذج"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/
 ---
-## خاصية FieldSerializationResult.FieldSerializationStatus
+## FieldSerializationResult.FieldSerializationStatus property
 
-تحصل على حالة تسلسل حقل النموذج.
+يحصل على حالة تسلسل حقل النموذج.
 
 ```csharp
 public FieldSerializationStatus FieldSerializationStatus { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 حالة تسلسل حقل النموذج.
 
@@ -24,3 +24,5 @@ public FieldSerializationStatus FieldSerializationStatus { get; }
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

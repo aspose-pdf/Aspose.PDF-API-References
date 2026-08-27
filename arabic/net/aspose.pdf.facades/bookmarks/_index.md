@@ -1,14 +1,14 @@
 ---
-title: Class Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.Bookmarks. تمثل مجموعة من كائنات الإشارة المرجعية
+title: "الفئة Bookmarks"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.Bookmarks. تمثل مجموعة من كائنات Bookmark."
 type: docs
-weight: 4200
+weight: 4320
 url: /ar/net/aspose.pdf.facades/bookmarks/
 ---
-## فئة الإشارات المرجعية
+## Bookmarks class
 
-تمثل مجموعة من كائنات [`Bookmark`](../bookmark/) الإشارة المرجعية.
+تمثل مجموعة من كائنات [`Bookmark`](../bookmark/).
 
 ```csharp
 public sealed class Bookmarks : List<Bookmark>
@@ -18,10 +18,12 @@ public sealed class Bookmarks : List<Bookmark>
 
 | الاسم | الوصف |
 | --- | --- |
-| [Bookmarks](bookmarks/)() | المنشئ الافتراضي. |
+| [Bookmarks](bookmarks/)() | البناء الافتراضي. |
 
 ### انظر أيضًا
 
-* فئة [Bookmark](../bookmark/)
-* مساحة الأسماء [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../)
+* class [Bookmark](../bookmark/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

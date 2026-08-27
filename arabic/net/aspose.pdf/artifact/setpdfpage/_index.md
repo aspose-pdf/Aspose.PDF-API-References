@@ -1,22 +1,22 @@
 ---
-title: Artifact.SetPdfPage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Artifact. تعيين صفحة PDF التي توضع على صفحة الوثيقة كأثر
+title: "Artifact.SetPdfPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Artifact. تعيين صفحة PDF التي تُوضع على صفحة المستند كـ artifact"
 type: docs
 weight: 310
 url: /ar/net/aspose.pdf/artifact/setpdfpage/
 ---
-## طريقة Artifact.SetPdfPage
+## Artifact.SetPdfPage method
 
-تعيين صفحة PDF التي توضع على صفحة الوثيقة كأثر.
+يضبط صفحة PDF التي توضع على صفحة Document كعنصر.
 
 ```csharp
 public void SetPdfPage(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي توضع كأثر. |
+| صفحة | صفحة | الصفحة التي تُوضع كـ Artifcact. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void SetPdfPage(Page page)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

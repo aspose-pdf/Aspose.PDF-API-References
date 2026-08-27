@@ -1,14 +1,14 @@
 ---
-title: Page.FieldsInTabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على قائمة كائنات الحقل بترتيب التبويب في هذه الصفحة
+title: "Page.FieldsInTabOrder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل على قائمة كائن Field بترتيب Tab في هذه الصفحة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/page/fieldsintaborder/
 ---
-## خاصية Page.FieldsInTabOrder
+## Page.FieldsInTabOrder property
 
-تحصل على قائمة كائنات الحقل بترتيب التبويب في هذه الصفحة.
+يحصل على قائمة كائنات Field بترتيب Tab في هذه الصفحة.
 
 ```csharp
 public IList<Field> FieldsInTabOrder { get; }
@@ -20,3 +20,5 @@ public IList<Field> FieldsInTabOrder { get; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

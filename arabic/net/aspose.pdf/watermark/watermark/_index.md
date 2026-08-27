@@ -1,25 +1,25 @@
 ---
-title: Watermark.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ علامة مائية. يقوم بتهيئة كائن علامة مائية بصورة وموقعها على الصفحة
+title: "Watermark.Watermark"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Watermark. يهيئ كائن العلامة المائية بصورة وموضعها على الصفحة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/watermark/watermark/
 ---
 ## Watermark(Image, Rectangle) {#constructor_1}
 
-يهيئ كائن علامة مائية بصورة وموقعها على الصفحة.
+يقوم بتهيئة كائن علامة مائية بصورة وموقعه على صفحة.
 
 ```csharp
 public Watermark(Image image, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | Image | صورة العلامة المائية. |
-| rect | Rectangle | موقع العلامة المائية على الصفحة. |
+| صورة | صورة | صورة العلامة المائية. |
+| rect | Rectangle | موضع العلامة المائية في الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Rectangle](../../rectangle/)
 * class [Watermark](../)
@@ -30,18 +30,20 @@ public Watermark(Image image, Rectangle rect)
 
 ## Watermark(Image) {#constructor}
 
-يهيئ كائن علامة مائية بصورة.
+يُنشئ كائن علامة مائية باستخدام صورة.
 
 ```csharp
 public Watermark(Image image)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | Image | صورة العلامة المائية. |
+| صورة | صورة | صورة العلامة المائية. |
 
-### See Also
+### انظر أيضًا
 
 * class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

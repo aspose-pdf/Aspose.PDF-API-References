@@ -1,14 +1,14 @@
 ---
-title: Arc.Alpha
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القوس. تحصل أو تعين قيمة عائمة تشير إلى درجة الزاوية الابتدائية للقوس
+title: "Arc.Alpha"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Arc. تحصل أو تعيين قيمة عائمة تشير إلى درجة الزاوية الابتدائية للقوس"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/arc/alpha/
 ---
-## خاصية Arc.Alpha
+## Arc.Alpha property
 
-تحصل أو تعين قيمة عائمة تشير إلى درجة الزاوية الابتدائية للقوس.
+يحصل أو يعيّن قيمة float تُشير إلى درجة الزاوية البداية للقوس.
 
 ```csharp
 public double Alpha { get; set; }
@@ -19,3 +19,5 @@ public double Alpha { get; set; }
 * class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

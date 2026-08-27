@@ -1,22 +1,22 @@
 ---
-title: PDF3DRenderMode.SetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DRenderMode. تعيين قيمة الطية
+title: "PDF3DRenderMode.SetCreaseValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DRenderMode. تضبط قيمة الثني"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 ---
-## طريقة PDF3DRenderMode.SetCreaseValue
+## PDF3DRenderMode.SetCreaseValue method
 
-تعيين قيمة الطية.
+يضبط قيمة الطية.
 
 ```csharp
 public PDF3DRenderMode SetCreaseValue(double creaseValue)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| creaseValue | Double | قيمة الطية. |
+| creaseValue | Double | قيمة الثني. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ PDF3DRenderMode.
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

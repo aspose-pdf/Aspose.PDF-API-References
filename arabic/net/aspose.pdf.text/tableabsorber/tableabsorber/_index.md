@@ -1,28 +1,28 @@
 ---
-title: TableAbsorber.TableAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TableAbsorber. يقوم بتهيئة مثيل جديد من TableAbsorber مع خيارات بحث النص
+title: "TableAbsorber.TableAbsorber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TableAbsorber. يهيئ مثيلاً جديدًا من TableAbsorber مع خيارات البحث النصي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/tableabsorber/tableabsorber/
 ---
 ## TableAbsorber(TextSearchOptions) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من [`TableAbsorber`](../) مع خيارات بحث النص.
+يهيئ مثيلاً جديدًا من [`TableAbsorber`](../) مع خيارات البحث النصي.
 
 ```csharp
 public TableAbsorber(TextSearchOptions textSearchOptions)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| textSearchOptions | TextSearchOptions | خيارات بحث النص |
+| textSearchOptions | TextSearchOptions | خيارات البحث النصي |
 
-## Remarks
+## ملاحظات
 
-يقوم بالبحث عن الجداول ويوفر الوصول إلى الجداول عبر كائن [`TableList`](../tablelist/).
+ينفّذ البحث عن الجداول ويوفر الوصول إلى الجداول عبر كائن [`TableList`](../tablelist/).
 
-### See Also
+### انظر أيضًا
 
 * class [TextSearchOptions](../../textsearchoptions/)
 * class [TableAbsorber](../)
@@ -33,18 +33,20 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ## TableAbsorber() {#constructor}
 
-يقوم بتهيئة مثيل جديد من [`TableAbsorber`](../).
+يهيئ مثيلاً جديدًا من [`TableAbsorber`](../).
 
 ```csharp
 public TableAbsorber()
 ```
 
-## Remarks
+## ملاحظات
 
-يقوم بالبحث عن الجداول ويوفر الوصول إلى الجداول عبر كائن [`TableList`](../tablelist/).
+ينفّذ البحث عن الجداول ويوفر الوصول إلى الجداول عبر كائن [`TableList`](../tablelist/).
 
-### See Also
+### انظر أيضًا
 
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

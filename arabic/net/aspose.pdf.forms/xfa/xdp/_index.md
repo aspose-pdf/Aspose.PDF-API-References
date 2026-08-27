@@ -1,14 +1,14 @@
 ---
-title: XFA.XDP
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFA. حزمة بيانات XML جميع مكونات نموذج XFA داخل حاوية XML محيطة
+title: "XFA.XDP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFA. حزمة البيانات XML التي تشمل جميع مكونات نموذج XFA داخل حاوية XML محيطة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.forms/xfa/xdp/
 ---
-## خاصية XFA.XDP
+## XFA.XDP property
 
-حزمة بيانات XML (جميع مكونات نموذج XFA داخل حاوية XML محيطة).
+حزمة بيانات XML (جميع مكوّنات نموذج XFA داخل حاوية XML محيطة).
 
 ```csharp
 public XmlDocument XDP { get; }
@@ -19,3 +19,5 @@ public XmlDocument XDP { get; }
 * class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

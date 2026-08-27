@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderInfo.RightStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: حقل BorderInfo. يمثل الجزء الأيمن من الحدود
+title: "SaveOptions.BorderInfo.RightStyleIfAny"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل BorderInfo. يمثل الجزء الأيمن إذا كان موجودًا من الحد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/
 ---
-## حقل SaveOptions.BorderInfo.RightStyleIfAny
+## SaveOptions.BorderInfo.RightStyleIfAny field
 
-يمثل الجزء الأيمن (إن وجد) من الحدود
+يمثّل الجزء الأيمن (إن وجد) من الحدود
 
 ```csharp
 public BorderPartStyle RightStyleIfAny;
@@ -20,3 +20,5 @@ public BorderPartStyle RightStyleIfAny;
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

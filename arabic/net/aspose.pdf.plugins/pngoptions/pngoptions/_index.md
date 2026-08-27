@@ -1,14 +1,14 @@
 ---
-title: PngOptions.PngOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PngOptions. المُنشئ الافتراضي
+title: "PngOptions.PngOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PngOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/pngoptions/pngoptions/
 ---
-## مُنشئ PngOptions
+## PngOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PngOptions()
@@ -19,3 +19,5 @@ public PngOptions()
 * class [PngOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

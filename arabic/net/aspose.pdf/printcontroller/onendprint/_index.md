@@ -1,26 +1,28 @@
 ---
-title: PrintController.OnEndPrint
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PrintController. يتم إطلاقها عند بدء طباعة الصفحة
+title: "PrintController.OnEndPrint"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PrintController. تُنفّذ عند بدء طباعة الصفحة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/printcontroller/onendprint/
 ---
-## طريقة PrintController.OnEndPrint
+## PrintController.OnEndPrint method
 
-يتم إطلاقها عند بدء طباعة الصفحة.
+يُطلق عند بدء طباعة الصفحة.
 
 ```csharp
 public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | PrintDocument | المستند للطباعة. |
-| e | PrintEventArgs | معطيات الحدث. |
+| document | PrintDocument | Document للطباعة. |
+| e | PrintEventArgs | معلمات الحدث. |
 
 ### انظر أيضًا
 
-* الفئة [PrintController](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

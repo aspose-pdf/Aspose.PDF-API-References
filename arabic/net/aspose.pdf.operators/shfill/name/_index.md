@@ -1,14 +1,14 @@
 ---
-title: ShFill.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ShFill. تحصل أو تعين اسم التظليل
+title: "ShFill.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ShFill. تحصل أو تعين اسم التظليل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/shfill/name/
 ---
-## خاصية ShFill.Name
+## ShFill.Name property
 
-تحصل أو تعين اسم التظليل.
+يحصل أو يعيّن اسم التظليل.
 
 ```csharp
 public string Name { get; set; }
@@ -19,3 +19,5 @@ public string Name { get; set; }
 * class [ShFill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

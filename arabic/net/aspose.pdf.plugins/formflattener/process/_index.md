@@ -1,20 +1,20 @@
 ---
-title: FormFlattener.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormFlattener. تبدأ معالجة FormFlattener مع المعلمات المحددة
+title: "FormFlattener.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormFlattener. تبدأ معالجة FormFlattener بالمعلمات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/formflattener/process/
 ---
-## طريقة FormFlattener.Process
+## FormFlattener.Process method
 
-تبدأ معالجة FormFlattener مع المعلمات المحددة.
+يبدأ معالجة FormFlattener بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ FormFlattener. |
 
@@ -24,7 +24,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | إذا كانت الخيارات غير صحيحة. |
 
@@ -35,3 +35,5 @@ public ResultContainer Process(IPluginOptions options)
 * class [FormFlattener](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

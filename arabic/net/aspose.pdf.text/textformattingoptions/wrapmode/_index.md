@@ -1,14 +1,14 @@
 ---
-title: TextFormattingOptions.WrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFormattingOptions. تحصل أو تعين وضع لف الكلمات. القيمة الافتراضية هي WordWrapMode.NoWrap
+title: "TextFormattingOptions.WrapMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFormattingOptions. يحصل أو يضبط وضع تغليف الكلمات. القيمة الافتراضية هي WordWrapMode.NoWrap"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textformattingoptions/wrapmode/
 ---
-## خاصية TextFormattingOptions.WrapMode
+## TextFormattingOptions.WrapMode property
 
-تحصل أو تعين وضع لف الكلمات. القيمة الافتراضية هي WordWrapMode.NoWrap
+يحصل أو يضبط وضع التفاف الكلمات. القيمة الافتراضية هي WordWrapMode.NoWrap
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }
@@ -20,3 +20,5 @@ public WordWrapMode WrapMode { get; set; }
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

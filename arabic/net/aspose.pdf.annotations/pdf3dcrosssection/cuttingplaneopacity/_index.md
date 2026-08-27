@@ -1,31 +1,33 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DCrossSection. تحصل أو تعين شفافية مستوى القطع
+title: "PDF3DCrossSection.CuttingPlaneOpacity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DCrossSection. يحصل على أو يعيّن شفافية سطح القطع"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/
 ---
-## خاصية PDF3DCrossSection.CuttingPlaneOpacity
+## PDF3DCrossSection.CuttingPlaneOpacity property
 
-تحصل أو تعين شفافية مستوى القطع.
+يحصل أو يعيّن شفافية سطح القطع.
 
 ```csharp
 public double CuttingPlaneOpacity { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-شفافية مستوى القطع.
+شفافية سطح القطع.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| استثناء | يجب أن يكون الرقم في النطاق [0 , 1] |
+| Exception | يجب أن يكون الرقم ضمن النطاق [0 , 1] |
 
 ### انظر أيضًا
 
 * class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

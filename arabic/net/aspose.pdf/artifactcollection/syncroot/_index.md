@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ArtifactCollection. تحصل على كائن المزامنة للمجموعة
+title: "ArtifactCollection.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ArtifactCollection. يحصل على كائن المزامنة للمجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/artifactcollection/syncroot/
 ---
-## خاصية ArtifactCollection.SyncRoot
+## ArtifactCollection.SyncRoot property
 
-تحصل على كائن المزامنة للمجموعة.
+يحصل على كائن المزامنة للمجموعة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: PDF3DContent.Extension
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DContent. تحصل على الامتداد
+title: "PDF3DContent.Extension"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DContent. تحصل على الامتداد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pdf3dcontent/extension/
 ---
-## خاصية PDF3DContent.Extension
+## PDF3DContent.Extension property
 
-تحصل على الامتداد .
+يحصل على الامتداد .
 
 ```csharp
 public string Extension { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 الامتداد.
 
@@ -23,3 +23,5 @@ public string Extension { get; }
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

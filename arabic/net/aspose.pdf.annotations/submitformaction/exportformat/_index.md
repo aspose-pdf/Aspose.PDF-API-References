@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.ExportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SubmitFormAction. إذا تم تعيينه، يجب تقديم أسماء الحقول والقيم بتنسيق نموذج HTML
+title: "SubmitFormAction.ExportFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SubmitFormAction. إذا تم تعيينه، يجب إرسال أسماء الحقول والقيم بتنسيق نموذج HTML"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/submitformaction/exportformat/
 ---
-## حقل SubmitFormAction.ExportFormat
+## SubmitFormAction.ExportFormat field
 
-إذا تم تعيينه، يجب تقديم أسماء الحقول والقيم بتنسيق نموذج HTML.
+إذا تم الضبط، سيتم إرسال أسماء الحقول وقيمها بتنسيق نموذج HTML.
 
 ```csharp
 public const int ExportFormat;
@@ -19,3 +19,5 @@ public const int ExportFormat;
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

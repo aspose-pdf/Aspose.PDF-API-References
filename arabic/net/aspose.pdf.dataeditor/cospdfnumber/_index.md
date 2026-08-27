@@ -1,47 +1,49 @@
 ---
-title: Class CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.DataEditor.CosPdfNumber. تمثل هذه الفئة نوع رقم Pdf
+title: "الفئة CosPdfNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.DataEditor.CosPdfNumber. تمثل هذه الفئة نوع رقم PDF"
 type: docs
-weight: 3440
+weight: 3560
 url: /ar/net/aspose.pdf.dataeditor/cospdfnumber/
 ---
 ## CosPdfNumber class
 
-تمثل هذه الفئة نوع رقم Pdf.
+هذه الفئة تمثل نوع رقم Pdf
 
 ```csharp
 public sealed class CosPdfNumber : CosPdfPrimitive
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CosPdfNumber](cospdfnumber/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `CosPdfNumber`. |
-| [CosPdfNumber](cospdfnumber/#constructor_1)(double) | يقوم بتهيئة مثيل جديد من فئة `CosPdfNumber`. |
+| [CosPdfNumber](cospdfnumber/#constructor)() | ينشئ كائنًا جديدًا من الفئة `CosPdfNumber`. |
+| [CosPdfNumber](cospdfnumber/#constructor_1)(double) | ينشئ كائنًا جديدًا من الفئة `CosPdfNumber`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Value](../../aspose.pdf.dataeditor/cospdfnumber/value/) { get; } | يحصل على القيمة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | override [Equals](../../aspose.pdf.dataeditor/cospdfnumber/equals/)(object) | يحدد أن الكائن المحدد يساوي الكائن الحالي. |
-| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfnumber/gethashcode/)() | يحصل على رمز التجزئة للكائن الحالي. |
-| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | يحاول تحويل هذا المثيل إلى [`CosPdfBoolean`](../cospdfboolean/). |
-| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | يحاول تحويل هذا المثيل إلى [`CosPdfDictionary`](../cospdfdictionary/). |
-| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | يحاول تحويل هذا المثيل إلى [`CosPdfName`](../cospdfname/). |
-| override [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfnumber/tocospdfnumber/)() | يحاول تحويل هذا المثيل إلى `CosPdfNumber`. |
-| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | يحاول تحويل هذا المثيل إلى [`CosPdfString`](../cospdfstring/). |
-| override [ToString](../../aspose.pdf.dataeditor/cospdfnumber/tostring/)() | يعيد سلسلة تمثل `CosPdfNumber` الحالي. |
+| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfnumber/gethashcode/)() | احصل على قيمة التجزئة للكائن الحالي. |
+| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | يحاول تحويل هذه النسخة إلى [`CosPdfBoolean`](../cospdfboolean/). |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | يحاول تحويل هذه النسخة إلى [`CosPdfDictionary`](../cospdfdictionary/). |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | يحاول تحويل هذه النسخة إلى [`CosPdfName`](../cospdfname/). |
+| override [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfnumber/tocospdfnumber/)() | يحاول تحويل هذا الكائن إلى `CosPdfNumber`. |
+| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | يحاول تحويل هذا الكائن إلى [`CosPdfString`](../cospdfstring/). |
+| override [ToString](../../aspose.pdf.dataeditor/cospdfnumber/tostring/)() | يعيد سلسلة تمثل الـ `CosPdfNumber` الحالي. |
 
-### See Also
+### انظر أيضًا
 
 * class [CosPdfPrimitive](../cospdfprimitive/)
 * namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
+
+

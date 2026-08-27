@@ -1,29 +1,31 @@
 ---
-title: LlamaClient.Builder.WithBaseDomain
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البناء. تعيين المجال الأساسي للعميل
+title: "LlamaClient.Builder.WithBaseDomain"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Builder. يضبط النطاق الأساسي للعميل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/llamaclient.builder/withbasedomain/
 ---
 ## LlamaClient.Builder.WithBaseDomain method
 
-تعيين المجال الأساسي للعميل.
+يضبط النطاق الأساسي للعميل.
 
 ```csharp
 public Builder WithBaseDomain(string baseDomain)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| baseDomain | String | المجال الأساسي للتعيين. |
+| baseDomain | String | النطاق الأساسي لتعيينه. |
 
-### Return Value
+### قيمة الإرجاع
 
-النسخة الحالية من [`Builder`](../).
+العنصر الحالي من [`Builder`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: TeXMemoryOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TeXMemoryOutputDirectory. تعيد الدفق للكتابة إليه
+title: "TeXMemoryOutputDirectory.GetOutputFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TeXMemoryOutputDirectory. تُرجع الدفق للكتابة إليه"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/texmemoryoutputdirectory/getoutputfile/
 ---
-## طريقة TeXMemoryOutputDirectory.GetOutputFile
+## TeXMemoryOutputDirectory.GetOutputFile method
 
-تعيد الدفق للكتابة إليه.
+يعيد التدفق للكتابة إليه.
 
 ```csharp
 public Stream GetOutputFile(string fileName, out string fullName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | اسم الملف. |
-| fullName | String& | الاسم الكامل للملف. |
+| fullName | String& | اسم الملف الكامل. |
 
 ### قيمة الإرجاع
 
-الدفق.
+التدفق.
 
 ### انظر أيضًا
 
 * class [TeXMemoryOutputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetColor.M
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetColor. تحصل أو تعين مكون الماجنتا
+title: "SetColor.M"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetColor. تحصل أو تعين المكوّن الأرجواني"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.operators/setcolor/m/
 ---
-## خاصية SetColor.M
+## SetColor.M property
 
-تحصل أو تعين مكون الماجنتا.
+يحصل أو يضبط المكوّن الأرجواني.
 
 ```csharp
 public double M { get; set; }
@@ -19,3 +19,5 @@ public double M { get; set; }
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

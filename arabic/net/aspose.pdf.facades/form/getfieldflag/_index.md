@@ -1,26 +1,26 @@
 ---
-title: Form.GetFieldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تعيد علامات الحقل
+title: "Form.GetFieldFlag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تُرجع أعلام الحقل"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.facades/form/getfieldflag/
 ---
-## طريقة Form.GetFieldFlag
+## Form.GetFieldFlag method
 
-تعيد علامات الحقل.
+يعيد علامات الحقل.
 
 ```csharp
 public PropertyFlag GetFieldFlag(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل |
+| fieldName | String | اسم الحقل |
 
 ### قيمة الإرجاع
 
-علامة الخاصية (للقراءة فقط / مطلوبة / لا تصدير
+علامة الخاصية (ReadOnly/ Required/NoExport
 
 ## أمثلة
 
@@ -38,3 +38,5 @@ if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

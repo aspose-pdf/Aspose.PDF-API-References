@@ -1,29 +1,31 @@
 ---
-title: Document.GetObjectById
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تحصل على كائن بالمعرف المحدد في الوثيقة
+title: "Document.GetObjectById"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تحصل على كائن بمعرف محدد في المستند"
 type: docs
-weight: 680
+weight: 700
 url: /ar/net/aspose.pdf/document/getobjectbyid/
 ---
 ## Document.GetObjectById method
 
-تحصل على كائن بالمعرف المحدد في الوثيقة.
+الحصول على كائن بمعرف محدد في المستند.
 
 ```csharp
 public object GetObjectById(string id)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| id | String | معرف الكائن. |
+| معرّف | String | معرف الكائن. |
 
-### Return Value
+### قيمة الإرجاع
 
-الكائن بالمعرف المحدد. Null إذا لم يتم العثور على المعرف.
+الكائن بمعرف محدد. يكون Null إذا لم يُعثر على المعرف.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

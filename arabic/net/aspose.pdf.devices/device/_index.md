@@ -1,14 +1,14 @@
 ---
-title: Class Device
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.Device. فئة مجردة لجميع أنواع الأجهزة. يتم استخدام الجهاز لتمثيل مستند PDF في بعض التنسيقات. على سبيل المثال، يمكن تمثيل صفحة المستند كصورة أو نص.
+title: "الفئة Device"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Devices.Device class. فئة تجريدية لجميع أنواع الأجهزة. يُستخدم Device لتمثيل مستند pdf بصيغة معينة. على سبيل المثال يمكن تمثيل صفحة المستند كصورة أو نص"
 type: docs
-weight: 3550
+weight: 3670
 url: /ar/net/aspose.pdf.devices/device/
 ---
-## فئة الجهاز
+## Device class
 
-فئة مجردة لجميع أنواع الأجهزة. يتم استخدام الجهاز لتمثيل مستند PDF في بعض التنسيقات. على سبيل المثال، يمكن تمثيل صفحة المستند كصورة أو نص.
+فئة مجردة لجميع أنواع الأجهزة. يُستخدم الجهاز لتمثيل مستند pdf بصيغة معينة. على سبيل المثال، يمكن تمثيل صفحة المستند كصورة أو نص.
 
 ```csharp
 public abstract class Device
@@ -16,5 +16,7 @@ public abstract class Device
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

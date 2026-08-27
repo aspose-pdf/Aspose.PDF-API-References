@@ -1,14 +1,14 @@
 ---
-title: PageNumberStamp.Format
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageNumberStamp. قيمة سلسلة لوسم أرقام الصفحات. يجب أن تتضمن القيمة الحرف '#' الذي يتم استبداله برقم الصفحة في عملية الوسم
+title: "PageNumberStamp.Format"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageNumberStamp. قيمة نصية لختم أرقام الصفحات. يجب أن تشمل القيمة حرفًا يتم استبداله برقم الصفحة أثناء عملية الختم"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pagenumberstamp/format/
 ---
-## خاصية PageNumberStamp.Format
+## PageNumberStamp.Format property
 
-قيمة سلسلة لوسم أرقام الصفحات. يجب أن تتضمن القيمة الحرف '#' الذي يتم استبداله برقم الصفحة في عملية الوسم.
+قيمة سلسلة لتخطيط أرقام الصفحات. يجب أن تتضمن القيمة الحرف '#' الذي يُستبدل برقم الصفحة أثناء عملية التخطيط.
 
 ```csharp
 public string Format { get; set; }
@@ -19,3 +19,5 @@ public string Format { get; set; }
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

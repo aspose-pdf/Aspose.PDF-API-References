@@ -1,42 +1,42 @@
 ---
-title: TextAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextAbsorber. تستخرج النص من الصفحة المحددة
+title: "TextAbsorber.Visit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextAbsorber. تستخرج النص في الصفحة المحددة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-تستخرج النص من الصفحة المحددة
+يستخرج النص من الـ page المحدد
 
 ```csharp
 public virtual void Visit(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن صفحة مستند PDF. |
+| صفحة | صفحة | كائن صفحة مستند Pdf. |
 
-## Examples
+## أمثلة
 
-توضح المثال كيفية استخراج النص من الصفحة الأولى لمستند PDF.
+يوضح المثال كيفية استخراج النص من الصفحة الأولى لـ PDF document.
 
 ```csharp
-// open document
+// فتح المستند
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// إنشاء كائن TextAbsorber لاستخراج النص
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// قبول الـ absorber لجميع صفحات المستند
 absorber.Visit(doc.Pages[1]);
 
-// get the extracted text
+// احصل على النص المستخرج
 string extractedText = absorber.Text;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [TextAbsorber](../)
@@ -47,35 +47,35 @@ string extractedText = absorber.Text;
 
 ## Visit(XForm) {#visit_2}
 
-تستخرج النص من XForm المحدد.
+يستخرج النص على الـ XForm المحدد.
 
 ```csharp
 public virtual void Visit(XForm form)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| form | XForm | كائن نموذج PDF. |
+| نموذج | XForm | كائن نموذج Pdf. |
 
-## Examples
+## أمثلة
 
-توضح المثال كيفية استخراج النص من الصفحة الأولى لمستند PDF.
+يوضح المثال كيفية استخراج النص من الصفحة الأولى لـ PDF document.
 
 ```csharp
-// open document
+// فتح المستند
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// إنشاء كائن TextAbsorber لاستخراج النص
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// قبول الـ absorber لجميع صفحات المستند
 absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
 
-// get the extracted text
+// احصل على النص المستخرج
 string extractedText = absorber.Text;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [TextAbsorber](../)
@@ -86,37 +86,39 @@ string extractedText = absorber.Text;
 
 ## Visit(Document) {#visit}
 
-تستخرج النص من المستند المحدد
+يستخرج النص من الـ document المحدد
 
 ```csharp
 public virtual void Visit(Document pdf)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdf | Document | كائن مستند PDF. |
+| pdf | Document | كائن Pdf pocument. |
 
-## Examples
+## أمثلة
 
-توضح المثال كيفية استخراج النص من مستند PDF.
+يوضح المثال كيفية استخراج النص من مستند PDF.
 
 ```csharp
-// open document
+// فتح المستند
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// إنشاء كائن TextAbsorber لاستخراج النص
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// قبول الـ absorber لجميع صفحات المستند
 absorber.Visit(doc);
 
-// get the extracted text
+// احصل على النص المستخرج
 string extractedText = absorber.Text;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

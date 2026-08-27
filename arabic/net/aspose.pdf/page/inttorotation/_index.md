@@ -1,26 +1,26 @@
 ---
-title: Page.IntToRotation
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تترجم القيمة الصحيحة إلى عضو التعداد الدوراني المقابل
+title: "Page.IntToRotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تُحوّل القيمة الصحيحة إلى عضو التعداد المناسب للدوران"
 type: docs
 weight: 560
 url: /ar/net/aspose.pdf/page/inttorotation/
 ---
-## طريقة Page.IntToRotation
+## Page.IntToRotation method
 
-تترجم القيمة الصحيحة إلى عضو التعداد الدوراني المقابل.
+يحوّل القيمة الصحيحة إلى عضو التعداد المتعلق بالدوران.
 
 ```csharp
 public static Rotation IntToRotation(int rotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rotation | Int32 | القيمة الصحيحة للتحويل |
+| دوران | Int32 | القيمة الصحيحة للتحويل |
 
 ### قيمة الإرجاع
 
-عضو التعداد الدوراني
+عضو تعداد Rotation
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public static Rotation IntToRotation(int rotation)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

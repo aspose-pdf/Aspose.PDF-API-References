@@ -1,14 +1,14 @@
 ---
-title: Class OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.OperatorSelector. تُستخدم هذه الفئة لاختيار المشغلين باستخدام فكرة قالب الزائر
+title: "الفئة OperatorSelector"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.OperatorSelector. تُستخدم هذه الفئة لاختيار المشغلات باستخدام فكرة قالب Visitor"
 type: docs
-weight: 7090
+weight: 7230
 url: /ar/net/aspose.pdf/operatorselector/
 ---
-## فئة OperatorSelector
+## OperatorSelector class
 
-تُستخدم هذه الفئة لاختيار المشغلين باستخدام فكرة قالب الزائر.
+تُستخدم هذه الفئة لاختيار المشغلين باستخدام فكرة قالب Visitor.
 
 ```csharp
 public sealed class OperatorSelector : IOperatorSelector
@@ -18,8 +18,8 @@ public sealed class OperatorSelector : IOperatorSelector
 
 | الاسم | الوصف |
 | --- | --- |
-| [OperatorSelector](operatorselector/#constructor)() | يقوم بتهيئة مثيل جديد من فئة !:Selector. |
-| [OperatorSelector](operatorselector/#constructor_1)(Operator) | يقوم بتهيئة `OperatorSelector` جديد. |
+| [OperatorSelector](operatorselector/#constructor)() | يُنشئ نسخة جديدة من الفئة !:Selector. |
+| [OperatorSelector](operatorselector/#constructor_1)(Operator) | يُنشئ نسخة جديدة من `OperatorSelector`. |
 
 ## الخصائص
 
@@ -31,83 +31,85 @@ public sealed class OperatorSelector : IOperatorSelector
 
 | الاسم | الوصف |
 | --- | --- |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit)(BDC) | زيارة/تحديد مشغل BDC. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_1)(BI) | زيارة/تحديد مشغل BI. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_2)(BMC) | زيارة/تحديد مشغل BMC. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_3)(BT) | زيارة/تحديد مشغل BT. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_4)(BX) | زيارة/تحديد مشغل BX. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_5)(Clip) | زيارة/تحديد مشغل W. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_6)(ClosePath) | زيارة/تحديد مشغل h. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_7)(ClosePathEOFillStroke) | زيارة/تحديد مشغل b*. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_8)(ClosePathFillStroke) | زيارة/تحديد مشغل b. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_9)(ClosePathStroke) | زيارة/تحديد مشغل s. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_10)(ConcatenateMatrix) | زيارة/تحديد مشغل cm. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_11)(CurveTo) | زيارة/تحديد مشغل c. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_12)(CurveTo1) | زيارة/تحديد مشغل v. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_13)(CurveTo2) | زيارة/تحديد مشغل y. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_14)(Do) | زيارة/تحديد مشغل Do. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_15)(DP) | زيارة/تحديد مشغل DP. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_16)(EI) | زيارة/تحديد مشغل EI. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_17)(EMC) | زيارة/تحديد مشغل EMC. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_18)(EndPath) | زيارة/تحديد مشغل n. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_19)(EOClip) | زيارة/تحديد مشغل W*. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_20)(EOFill) | زيارة/تحديد مشغل f*. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_21)(EOFillStroke) | زيارة/تحديد مشغل B*. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_22)(ET) | زيارة/تحديد مشغل ET. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_23)(EX) | زيارة/تحديد مشغل EX. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_24)(Fill) | زيارة/تحديد مشغل f. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_25)(FillStroke) | زيارة/تحديد مشغل B. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_26)(GRestore) | زيارة/تحديد مشغل Q. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_27)(GS) | زيارة/تحديد مشغل gs. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_28)(GSave) | زيارة/تحديد مشغل q. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_29)(ID) | زيارة/تحديد مشغل ID. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_30)(LineTo) | زيارة/تحديد مشغل l. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_31)(MoveTextPosition) | زيارة/تحديد مشغل Td. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_32)(MoveTextPositionSetLeading) | زيارة/تحديد مشغل TD. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_33)(MoveTo) | زيارة/تحديد مشغل m. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_34)(MoveToNextLine) | زيارة/تحديد مشغل T*. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_35)(MoveToNextLineShowText) | زيارة/تحديد مشغل '. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_36)(MP) | زيارة/تحديد مشغل MP. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_37)(ObsoleteFill) | زيارة/تحديد مشغل F. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_38)(Re) | زيارة/تحديد مشغل re. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_39)(SelectFont) | زيارة/تحديد مشغل Tf. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_40)(SetAdvancedColor) | زيارة/تحديد مشغل scn. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_41)(SetAdvancedColorStroke) | زيارة/تحديد مشغل SCN. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_42)(SetCharacterSpacing) | زيارة/تحديد مشغل Tc. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_43)(SetCharWidth) | زيارة/تحديد مشغل d0. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_44)(SetCharWidthBoundingBox) | زيارة/تحديد مشغل d1. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_45)(SetCMYKColor) | زيارة/تحديد مشغل k. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_46)(SetCMYKColorStroke) | زيارة/تحديد مشغل K. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_47)(SetColor) | زيارة/تحديد مشغل sc. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_48)(SetColorRenderingIntent) | زيارة/تحديد مشغل ri. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_49)(SetColorSpace) | زيارة/تحديد مشغل cs. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_50)(SetColorSpaceStroke) | زيارة/تحديد مشغل CS. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_51)(SetColorStroke) | زيارة/تحديد مشغل SC. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_52)(SetDash) | زيارة/تحديد مشغل d. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_53)(SetFlat) | زيارة/تحديد مشغل i. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_54)(SetGlyphsPositionShowText) | زيارة/تحديد مشغل TJ. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_55)(SetGray) | زيارة/تحديد مشغل g. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_56)(SetGrayStroke) | زيارة/تحديد مشغل G. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_57)(SetHorizontalTextScaling) | زيارة/تحديد مشغل Tz. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_58)(SetLineCap) | زيارة/تحديد مشغل J. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_59)(SetLineJoin) | زيارة/تحديد مشغل j. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_60)(SetLineWidth) | زيارة/تحديد مشغل w. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_61)(SetMiterLimit) | زيارة/تحديد مشغل M. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_62)(SetRGBColor) | زيارة/تحديد مشغل rg. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_63)(SetRGBColorStroke) | زيارة/تحديد مشغل RG. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_64)(SetSpacingMoveToNextLineShowText) | زيارة/تحديد مشغل ''. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_65)(SetTextLeading) | زيارة/تحديد مشغل TL. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_66)(SetTextMatrix) | زيارة/تحديد مشغل Tm. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_67)(SetTextRenderingMode) | زيارة/تحديد مشغل Tr. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_68)(SetTextRise) | زيارة/تحديد مشغل Ts. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_69)(SetWordSpacing) | زيارة/تحديد مشغل Tw. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_70)(ShFill) | زيارة/تحديد مشغل sh. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_71)(ShowText) | زيارة/تحديد مشغل Tj. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_72)(Stroke) | زيارة/تحديد مشغل S. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_73)(TextOperator) | زيارة/تحديد أي مشغل نص. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit)(BDC) | زيارة/اختيار المشغل BDC. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_1)(BI) | زيارة/اختيار المشغل BI. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_2)(BMC) | زيارة/اختيار المشغل BMC. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_3)(BT) | زيارة/اختيار المشغل BT. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_4)(BX) | زيارة/اختيار المشغل BX. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_5)(Clip) | زيارة/اختيار المشغل W. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_6)(ClosePath) | زيارة/اختيار المشغل h. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_7)(ClosePathEOFillStroke) | زيارة/اختيار المشغل b*. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_8)(ClosePathFillStroke) | زيارة/اختيار المشغل b. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_9)(ClosePathStroke) | زيارة/اختيار المشغل s. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_10)(ConcatenateMatrix) | زيارة/اختيار المشغل cm. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_11)(CurveTo) | زيارة/اختيار المشغل c. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_12)(CurveTo1) | زيارة/اختيار المشغل v. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_13)(CurveTo2) | زيارة/اختيار المشغل y. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_14)(Do) | زيارة/اختيار المشغل Do. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_15)(DP) | زيارة/اختيار المشغل DP. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_16)(EI) | زيارة/اختيار المشغل EI. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_17)(EMC) | زيارة/اختيار المشغل EMC. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_18)(EndPath) | زيارة/اختيار المشغل n. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_19)(EOClip) | زيارة/تحديد المشغل W*. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_20)(EOFill) | زيارة/تحديد المشغل f*. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_21)(EOFillStroke) | زيارة/تحديد المشغل B*. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_22)(ET) | زيارة/تحديد المشغل ET. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_23)(EX) | زيارة/تحديد المشغل EX. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_24)(Fill) | زيارة/تحديد المشغل f. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_25)(FillStroke) | زيارة/تحديد المشغل B. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_26)(GRestore) | زيارة/تحديد المشغل Q. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_27)(GS) | زيارة/تحديد المشغل gs. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_28)(GSave) | زيارة/تحديد المشغل q. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_29)(ID) | زيارة/تحديد المشغل ID. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_30)(LineTo) | زيارة/تحديد المشغل l. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_31)(MoveTextPosition) | زيارة/تحديد المشغل Td. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_32)(MoveTextPositionSetLeading) | زيارة/تحديد المشغل TD. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_33)(MoveTo) | زيارة/تحديد المشغل m. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_34)(MoveToNextLine) | زيارة/تحديد المشغل T*. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_35)(MoveToNextLineShowText) | زيارة/تحديد المشغل '. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_36)(MP) | زيارة/تحديد المشغل MP. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_37)(ObsoleteFill) | زيارة/تحديد المشغل F. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_38)(Re) | زيارة/تحديد المشغل re. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_39)(SelectFont) | زيارة/تحديد المشغل Tf. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_40)(SetAdvancedColor) | زيارة/تحديد المشغل scn. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_41)(SetAdvancedColorStroke) | زيارة/تحديد المشغل SCN. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_42)(SetCharacterSpacing) | زيارة/تحديد المشغل Tc. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_43)(SetCharWidth) | زيارة/تحديد المشغل d0. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_44)(SetCharWidthBoundingBox) | زيارة/تحديد d1 المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_45)(SetCMYKColor) | زيارة/تحديد k المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_46)(SetCMYKColorStroke) | زيارة/تحديد K المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_47)(SetColor) | زيارة/تحديد sc المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_48)(SetColorRenderingIntent) | زيارة/تحديد ri المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_49)(SetColorSpace) | زيارة/تحديد cs المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_50)(SetColorSpaceStroke) | زيارة/تحديد CS المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_51)(SetColorStroke) | زيارة/تحديد SC المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_52)(SetDash) | زيارة/تحديد d المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_53)(SetFlat) | زيارة/تحديد i المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_54)(SetGlyphsPositionShowText) | زيارة/تحديد TJ المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_55)(SetGray) | زيارة/تحديد g المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_56)(SetGrayStroke) | زيارة/تحديد G المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_57)(SetHorizontalTextScaling) | زيارة/تحديد Tz المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_58)(SetLineCap) | زيارة/تحديد J المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_59)(SetLineJoin) | زيارة/تحديد j المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_60)(SetLineWidth) | زيارة/تحديد w المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_61)(SetMiterLimit) | زيارة/تحديد M المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_62)(SetRGBColor) | زيارة/تحديد rg المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_63)(SetRGBColorStroke) | زيارة/تحديد RG المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_64)(SetSpacingMoveToNextLineShowText) | زيارة/تحديد '' المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_65)(SetTextLeading) | زيارة/تحديد TL المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_66)(SetTextMatrix) | زيارة/تحديد Tm المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_67)(SetTextRenderingMode) | زيارة/تحديد Tr المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_68)(SetTextRise) | زيارة/تحديد Ts المشغل. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_69)(SetWordSpacing) | زيارة/تحديد المشغل Tw. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_70)(ShFill) | زيارة/تحديد المشغل sh. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_71)(ShowText) | زيارة/تحديد المشغل Tj. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_72)(Stroke) | زيارة/تحديد المشغل S. |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_73)(TextOperator) | زيارة/تحديد أي مشغل نصي. |
 
 ### انظر أيضًا
 
-* واجهة [IOperatorSelector](../ioperatorselector/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* interface [IOperatorSelector](../ioperatorselector/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FigureElement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FigureElement. تحصل على قيمة عنصر هيكل الشكل
+title: "FigureElement.Image"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FigureElement. يحصل على قيمة عنصر بنية الشكل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.structure/figureelement/image/
 ---
-## خاصية FigureElement.Image
+## FigureElement.Image property
 
-تحصل على قيمة عنصر هيكل الشكل.
+يحصل على قيمة عنصر بنية الشكل.
 
 ```csharp
 public Image Image { get; }
@@ -19,3 +19,5 @@ public Image Image { get; }
 * class [FigureElement](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeCategory.ILSEs
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeCategory. تصف عناصر الهيكل على مستوى السطر ILSEs تخطيط المحتوى داخل إجراء BLSE في اتجاه التقدم في السطر
+title: "StructureTypeCategory.ILSEs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeCategory. عناصر البنية على مستوى السطر الداخلي ILSEs تصف تخطيط المحتوى داخل BLSE المتجه في اتجاه inlineprogression."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.logicalstructure/structuretypecategory/ilses/
 ---
-## حقل StructureTypeCategory.ILSEs
+## StructureTypeCategory.ILSEs field
 
-تصف عناصر الهيكل على مستوى السطر (ILSEs) تخطيط المحتوى داخل BLSE، مع التقدم في اتجاه التقدم في السطر.
+عناصر بنية المستوى المتضمن (ILSEs) تصف تخطيط المحتوى داخل BLSE، متقدمة في اتجاه تقدم المتضمن.
 
 ```csharp
 public static readonly StructureTypeCategory ILSEs;
@@ -19,3 +19,5 @@ public static readonly StructureTypeCategory ILSEs;
 * class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

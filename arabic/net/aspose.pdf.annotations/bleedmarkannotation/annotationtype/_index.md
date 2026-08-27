@@ -1,14 +1,14 @@
 ---
-title: BleedMarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BleedMarkAnnotation. تحصل على نوع التعليق
+title: "BleedMarkAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BleedMarkAnnotation. تُرجع نوع التعليق التوضيحي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/bleedmarkannotation/annotationtype/
 ---
-## خاصية BleedMarkAnnotation.AnnotationType
+## BleedMarkAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

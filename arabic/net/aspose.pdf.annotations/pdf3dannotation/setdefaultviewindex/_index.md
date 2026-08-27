@@ -1,20 +1,20 @@
 ---
-title: PDF3DAnnotation.SetDefaultViewIndex
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DAnnotation. تعيين فهرس العرض الافتراضي
+title: "PDF3DAnnotation.SetDefaultViewIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DAnnotation. تعين فهرس العرض الافتراضي"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/
 ---
-## طريقة PDF3DAnnotation.SetDefaultViewIndex
+## PDF3DAnnotation.SetDefaultViewIndex method
 
-تعيين فهرس العرض الافتراضي.
+يضبط فهرس العرض الافتراضي.
 
 ```csharp
 public void SetDefaultViewIndex(int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | فهرس العرض الافتراضي. |
 
@@ -23,3 +23,5 @@ public void SetDefaultViewIndex(int index)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

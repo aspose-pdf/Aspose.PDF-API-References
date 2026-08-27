@@ -1,23 +1,23 @@
 ---
-title: PdfPageEditor.GetPageBoxSize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfPageEditor. تعيد حجم الصندوق المحدد في الوثيقة
+title: "PdfPageEditor.GetPageBoxSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfPageEditor. تُرجع حجم الصندوق المحدد في المستند"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/getpageboxsize/
 ---
-## طريقة PdfPageEditor.GetPageBoxSize
+## PdfPageEditor.GetPageBoxSize method
 
-تعيد حجم الصندوق المحدد في الوثيقة.
+يعيد حجم الصندوق المحدد في المستند.
 
 ```csharp
 public Rectangle GetPageBoxSize(int page, string pageBoxName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Int32 | فهرس الصفحة. يتم ترقيم صفحات الوثيقة من 1. |
-| pageBoxName | String | اسم نوع الصندوق. القيم الصالحة هي: "art"، "bleed"، "crop"، "media"، "trim". |
+| صفحة | Int32 | فهرس الصفحة. صفحات المستند مرقمة بدءًا من 1. |
+| pageBoxName | String | اسم نوع الصندوق. القيم الصالحة هي: "art", "bleed", "crop", "media", "trim". |
 
 ### قيمة الإرجاع
 
@@ -38,3 +38,5 @@ System.Drawing.Rectangle rect = editor.GetBoxSize(1, "media");
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

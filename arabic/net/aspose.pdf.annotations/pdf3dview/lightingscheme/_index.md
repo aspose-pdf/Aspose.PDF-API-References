@@ -1,20 +1,20 @@
 ---
-title: PDF3DView.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DView. تحصل أو تضبط مخطط الإضاءة للعرض
+title: "PDF3DView.LightingScheme"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DView. يحصل على أو يضبط مخطط الإضاءة للعرض"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/pdf3dview/lightingscheme/
 ---
-## خاصية PDF3DView.LightingScheme
+## PDF3DView.LightingScheme property
 
-تحصل أو تضبط مخطط الإضاءة للعرض.
+يحصل أو يضبط مخطط الإضاءة للعرض.
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مخطط الإضاءة للعرض.
 
@@ -24,3 +24,5 @@ public PDF3DLightingScheme LightingScheme { get; set; }
 * class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Document.RemoveMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تزيل البيانات الوصفية من الوثيقة
+title: "Document.RemoveMetadata"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تُزيل البيانات الوصفية من المستند."
 type: docs
-weight: 790
+weight: 810
 url: /ar/net/aspose.pdf/document/removemetadata/
 ---
 ## Document.RemoveMetadata method
 
-تزيل البيانات الوصفية من الوثيقة.
+يزيل البيانات الوصفية من المستند.
 
 ```csharp
 public void RemoveMetadata()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Shape.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الشكل. يحصل أو يحدد نصًا للشكل
+title: "Shape.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Shape. يحصل أو يضبط نصًا للشكل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/shape/text/
 ---
-## خاصية Shape.Text
+## Shape.Text property
 
-يحصل أو يحدد نصًا للشكل
+يحصل أو يعيّن نصًا للشكل
 
 ```csharp
 public TextFragment Text { get; set; }
@@ -20,3 +20,5 @@ public TextFragment Text { get; set; }
 * class [Shape](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

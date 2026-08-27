@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Next
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. تحصل على عنصر المخطط الذي يمثل العنصر التالي بالنسبة لهذا العنصر في تسلسل المخطط
+title: "OutlineItemCollection.Next"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineItemCollection. تحصل على عنصر المخطط الذي يمثل العنصر التالي بالنسبة لهذا العنصر في تسلسل المخطط الهرمي"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/outlineitemcollection/next/
 ---
-## خاصية OutlineItemCollection.Next
+## OutlineItemCollection.Next property
 
-تحصل على عنصر المخطط الذي يمثل العنصر التالي بالنسبة لهذا العنصر في تسلسل المخطط.
+يحصل على عنصر المخطط الذي يمثل العنصر التالي بالنسبة لهذا العنصر في تسلسل المخطط.
 
 ```csharp
 public OutlineItemCollection Next { get; }
@@ -19,3 +19,5 @@ public OutlineItemCollection Next { get; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

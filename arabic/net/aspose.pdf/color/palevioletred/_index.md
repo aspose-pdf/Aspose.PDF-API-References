@@ -1,14 +1,14 @@
 ---
-title: Color.PaleVioletRed
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFDB7093
+title: "Color.PaleVioletRed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB c FFDB7093"
 type: docs
 weight: 1070
 url: /ar/net/aspose.pdf/color/palevioletred/
 ---
-## خاصية Color.PaleVioletRed
+## Color.PaleVioletRed property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFDB7093.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFDB7093.
 
 ```csharp
 public static Color PaleVioletRed { get; }
@@ -16,10 +16,12 @@ public static Color PaleVioletRed { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

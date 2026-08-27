@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoreFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع قائمة بالملفات داخل متجر متجه محدد بشكل غير متزامن
+title: "OpenAIClient.GetVectorStoreFilesAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع قائمة بالملفات داخل مخزن المتجه المحدد بشكل غير متزامن"
 type: docs
-weight: 370
+weight: 380
 url: /ar/net/aspose.pdf.ai/openaiclient/getvectorstorefilesasync/
 ---
-## طريقة OpenAIClient.GetVectorStoreFilesAsync
+## OpenAIClient.GetVectorStoreFilesAsync method
 
-تسترجع قائمة بالملفات داخل متجر متجه محدد بشكل غير متزامن.
+يسترجع قائمة بالملفات داخل مخزن متجه محدد بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorStoreId, 
@@ -16,21 +16,21 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorS
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreId | سلسلة | معرف متجر المتجه الذي يحتوي على الملفات. |
+| vectorStoreId | String | معرّف مخزن المتجه الذي يحتوي على الملفات. |
 | queryParameters | VectorStoreFileListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة الملفات. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على قائمة بالملفات داخل متجر المتجه.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على قائمة بالملفات داخل مخزن المتجه.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف متجر المتجه فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف مخزن المتجهات فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -39,3 +39,5 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorS
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

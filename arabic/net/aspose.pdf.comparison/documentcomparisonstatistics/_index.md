@@ -1,38 +1,40 @@
 ---
-title: Class DocumentComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.DocumentComparisonStatistics class. تمثل فئة إحصائيات مقارنة المستندات
+title: "الفئة DocumentComparisonStatistics"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Comparison.DocumentComparisonStatistics class. تمثل فئة إحصاءات مقارنة المستندات"
 type: docs
-weight: 3170
+weight: 3280
 url: /ar/net/aspose.pdf.comparison/documentcomparisonstatistics/
 ---
 ## DocumentComparisonStatistics class
 
-تمثل فئة إحصائيات مقارنة المستندات.
+يمثّل فئة إحصائيات مقارنة document.
 
 ```csharp
 public class DocumentComparisonStatistics : TextItemComparisonStatistics
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DocumentComparisonStatistics](documentcomparisonstatistics/)() | المُنشئ الافتراضي. |
+| [DocumentComparisonStatistics](documentcomparisonstatistics/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | يحصل على عدد الشخصيات المحذوفة ويضبطه. |
-| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | يحصل على عدد عمليات الحذف ويضبطه. |
-| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | يحصل على عدد الشخصيات المدخلة ويضبطه. |
-| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | يحصل على عدد عمليات الإدراج ويضبطه. |
-| [PagesStatistics](../../aspose.pdf.comparison/documentcomparisonstatistics/pagesstatistics/) { get; } | يحصل على قائمة إحصائيات الصفحات ويضبطها. |
-| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | يحصل على العدد الإجمالي للشخصيات ويضبطه. |
+| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | احصل على وتعيين عدد الأحرف المحذوفة. |
+| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | احصل على وتعيين عدد عمليات الحذف. |
+| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | احصل على وتعيين عدد الأحرف المدخلة. |
+| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | احصل على وتعيين عدد عمليات الإدراج. |
+| [PagesStatistics](../../aspose.pdf.comparison/documentcomparisonstatistics/pagesstatistics/) { get; } | يحصل على ويضبط قائمة إحصاءات الصفحات. |
+| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | احصل على وتعيين إجمالي عدد الأحرف. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextItemComparisonStatistics](../textitemcomparisonstatistics/)
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

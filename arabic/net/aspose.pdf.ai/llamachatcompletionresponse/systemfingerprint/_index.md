@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.SystemFingerprint
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionResponse. تحصل أو تعين بصمة تمثل تكوين الخلفية الذي يعمل به النموذج
+title: "LlamaChatCompletionResponse.SystemFingerprint"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionResponse. تحصل أو تعيين بصمة الإصبع التي تمثل تكوين الخلفية الذي يعمل به النموذج."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/llamachatcompletionresponse/systemfingerprint/
 ---
-## خاصية LlamaChatCompletionResponse.SystemFingerprint
+## LlamaChatCompletionResponse.SystemFingerprint property
 
-تحصل أو تعين بصمة تمثل تكوين الخلفية الذي يعمل به النموذج.
+يحصل أو يضبط بصمة الإصبع التي تمثل تكوين الخلفية الذي يعمل به النموذج.
 
 ```csharp
 public string SystemFingerprint { get; set; }
@@ -19,3 +19,5 @@ public string SystemFingerprint { get; set; }
 * class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

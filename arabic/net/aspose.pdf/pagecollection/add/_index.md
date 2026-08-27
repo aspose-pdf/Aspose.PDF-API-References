@@ -1,28 +1,28 @@
 ---
-title: PageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageCollection. تضيف صفحة إلى المجموعة
+title: "PageCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageCollection. يضيف صفحة إلى المجموعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/pagecollection/add/
 ---
 ## Add(Page) {#add_1}
 
-تضيف صفحة إلى المجموعة.
+يضيف صفحة إلى المجموعة.
 
 ```csharp
 public Page Add(Page entity)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| entity | Page | الصفحة التي يجب إضافتها. |
+| كيان | صفحة | الصفحة التي يجب إضافتها. |
 
-### Return Value
+### قيمة الإرجاع
 
-الصفحة المضافة.
+تمت إضافة الصفحة.
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -33,17 +33,17 @@ public Page Add(Page entity)
 
 ## Add() {#add}
 
-تضيف صفحة فارغة. إذا كان المستند يحتوي بالفعل على صفحات بأحجام مختلفة، سيتم اختيار حجم الصفحة الأكثر تكرارًا. في حالة وجود صفحتين مختلفتين فقط، سيتم استخدام حجم الصفحة الأولى.
+يضيف صفحة فارغة. إذا كان المستند يحتوي بالفعل على صفحات بأحجام مختلفة، سيتم اختيار حجم الصفحة التي تظهر أكثر تكرارًا. في حالة وجود صفحتين مختلفتين فقط، سيتم استخدام حجم الصفحة الأولى.
 
 ```csharp
 public Page Add()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-الصفحة المضافة.
+تمت إضافة الصفحة.
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -54,17 +54,17 @@ public Page Add()
 
 ## Add(ICollection&lt;Page&gt;) {#add_3}
 
-تضيف إلى المجموعة جميع الصفحات من القائمة.
+يضيف إلى المجموعة جميع الصفحات من القائمة.
 
 ```csharp
 public void Add(ICollection<Page> pages)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pages | ICollection`1 | القائمة التي تحتوي على جميع الصفحات التي يجب إضافتها. |
+| صفحات | ICollection`1 | قائمة تحتوي على جميع الصفحات التي يجب إضافتها. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -75,19 +75,21 @@ public void Add(ICollection<Page> pages)
 
 ## Add(Page[]) {#add_2}
 
-تضيف إلى المجموعة جميع الصفحات من المصفوفة.
+يضيف إلى المجموعة جميع الصفحات من المصفوفة.
 
 ```csharp
 public void Add(Page[] pages)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pages | Page[] | مصفوفة من الصفحات التي سيتم إضافتها. |
+| صفحات | Page[] | مصفوفة من الصفحات التي سيتم إضافتها. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

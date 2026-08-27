@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TBGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfPageEditor. لمعان من الأعلى إلى الأسفل
+title: "PdfPageEditor.TBGLITTER"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfPageEditor. بريق من الأعلى إلى الأسفل"
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/tbglitter/
 ---
-## حقل PdfPageEditor.TBGLITTER
+## PdfPageEditor.TBGLITTER field
 
-لمعان من الأعلى إلى الأسفل
+Top-Bottom Glitter
 
 ```csharp
 public const int TBGLITTER;
@@ -19,3 +19,5 @@ public const int TBGLITTER;
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

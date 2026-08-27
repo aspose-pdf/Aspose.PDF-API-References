@@ -1,22 +1,22 @@
 ---
-title: TextFormattingOptions.TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ خيارات تنسيق النص. يقوم بتهيئة مثيل جديد من كائن خيارات تنسيق النص لوضع لف الكلمات المحدد
+title: "TextFormattingOptions.TextFormattingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextFormattingOptions. يهيئ نسخة جديدة من كائن TextFormattingOptions للوضعيّة المحددة لتغليف الكلمات"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textformattingoptions/textformattingoptions/
 ---
-## خيارات تنسيق النص(WordWrapMode) {#constructor_1}
+## TextFormattingOptions(WordWrapMode) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من كائن [`TextFormattingOptions`](../) لوضع لف الكلمات المحدد.
+يهيئ نسخة جديدة من كائن [`TextFormattingOptions`](../) للوضعيّة المحددة لتغليف الكلمات.
 
 ```csharp
 public TextFormattingOptions(WordWrapMode wrapMode)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| wrapMode | WordWrapMode | وضع لف الكلمات. |
+| wrapMode | WordWrapMode | وضع تغليف الكلمات. |
 
 ### انظر أيضًا
 
@@ -27,9 +27,9 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 ---
 
-## خيارات تنسيق النص() {#constructor}
+## TextFormattingOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد من كائن [`TextFormattingOptions`](../) مع وضع لف كلمات غير محدد.
+يهيئ نسخة جديدة من كائن [`TextFormattingOptions`](../) بدون وضع تغليف الكلمات محدد.
 
 ```csharp
 public TextFormattingOptions()
@@ -40,3 +40,5 @@ public TextFormattingOptions()
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

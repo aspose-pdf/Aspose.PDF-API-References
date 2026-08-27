@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegmentCollection. تحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا وآمنًا للخيوط
+title: "TextSegmentCollection.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegmentCollection. يحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا وآمنًا من حيث الخيوط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textsegmentcollection/issynchronized/
 ---
-## خاصية TextSegmentCollection.IsSynchronized
+## TextSegmentCollection.IsSynchronized property
 
-تحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا (آمنًا للخيوط).
+يحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا (thread safe).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

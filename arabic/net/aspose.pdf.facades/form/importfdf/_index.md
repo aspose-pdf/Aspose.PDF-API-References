@@ -1,22 +1,22 @@
 ---
-title: Form.ImportFdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تستورد محتوى الحقول من ملف fdf وتضعه في ملف pdf الجديد
+title: "Form.ImportFdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تستورد محتوى الحقول من ملف fdf وتضعه في ملف pdf الجديد."
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/form/importfdf/
 ---
-## طريقة Form.ImportFdf
+## Form.ImportFdf method
 
-تستورد محتوى الحقول من ملف fdf وتضعه في ملف pdf الجديد.
+يستورد محتوى الحقول من ملف fdf ويضعها في ملف pdf الجديد.
 
 ```csharp
 public void ImportFdf(Stream inputFdfStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFdfStream | Stream | تدفق fdf المدخل. |
+| inputFdfStream | Stream | دفق fdf الإدخال. |
 
 ## أمثلة
 
@@ -31,3 +31,5 @@ form.Save();
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

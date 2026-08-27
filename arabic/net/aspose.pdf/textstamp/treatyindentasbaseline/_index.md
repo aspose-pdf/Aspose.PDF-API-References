@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TreatYIndentAsBaseLine
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تحدد نقطة الأصل للإحداثيات لوضع النص. إذا كانت TreatYIndentAsBaseLine = true سيتم اعتبار قيمة YIndent كخط قاعدة النص. إذا كانت TreatYIndentAsBaseLine = false سيتم اعتبار قيمة YIndent كخط النزول السفلي للنص.
+title: "TextStamp.TreatYIndentAsBaseLine"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. تحدد أصل الإحداثيات لوضع النص. إذا كان TreatYIndentAsBaseLine true (الافتراضي) عند Draw true، سيتم اعتبار قيمة YIndent كخط أساس النص. إذا كان TreatYIndentAsBaseLine false (الافتراضي) عند Draw false، سيتم اعتبار قيمة YIndent كخط نزول أسفل النص"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/textstamp/treatyindentasbaseline/
 ---
-## خاصية TextStamp.TreatYIndentAsBaseLine
+## TextStamp.TreatYIndentAsBaseLine property
 
-تحدد نقطة الأصل للإحداثيات لوضع النص. إذا كانت TreatYIndentAsBaseLine = true (الإعداد الافتراضي عندما يكون Draw = true) سيتم اعتبار قيمة YIndent كخط قاعدة النص. إذا كانت TreatYIndentAsBaseLine = false (الإعداد الافتراضي عندما يكون Draw = false) سيتم اعتبار قيمة YIndent كخط النزول السفلي للنص.
+يحدد أصل الإحداثيات لوضع النص. إذا كان TreatYIndentAsBaseLine = true (الإعداد الافتراضي عندما Draw = true) فسيتم اعتبار قيمة YIndent كخط أساس النص. إذا كان TreatYIndentAsBaseLine = false (الإعداد الافتراضي عندما Draw = false) فسيتم اعتبار قيمة YIndent كالقاع (خط النزول) للنص.
 
 ```csharp
 public bool TreatYIndentAsBaseLine { get; set; }
@@ -19,3 +19,5 @@ public bool TreatYIndentAsBaseLine { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

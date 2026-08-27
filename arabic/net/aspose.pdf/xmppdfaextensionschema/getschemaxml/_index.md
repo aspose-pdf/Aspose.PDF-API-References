@@ -1,29 +1,31 @@
 ---
-title: XmpPdfAExtensionSchema.GetSchemaXml
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionSchema. تعيد علامة عنصر xml li التي تمثل المخطط في شجرة xml
+title: "XmpPdfAExtensionSchema.GetSchemaXml"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpPdfAExtensionSchema طريقة. يرجع وسم عنصر xml li الذي يمثل المخطط في شجرة xml"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 ---
-## طريقة XmpPdfAExtensionSchema.GetSchemaXml
+## XmpPdfAExtensionSchema.GetSchemaXml method
 
-تعيد عنصر xml (علامة - li) الذي يمثل المخطط في شجرة xml.
+يرجع عنصر xml (الوسم - li) الذي يمثل المخطط في شجرة xml.
 
 ```csharp
 public XmlElement GetSchemaXml(XmlDocument xmlDocument)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | وثيقة xml المصدر. |
+| xmlDocument | XmlDocument | مستند xml المصدر. |
 
 ### قيمة الإرجاع
 
-عنصر xml.
+العنصر xml.
 
 ### انظر أيضًا
 
-* الفئة [XmpPdfAExtensionSchema](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

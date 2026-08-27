@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.IsClipExtraContent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HeaderFooter. تحصل أو تعين إذا كان يتم قص المحتوى الإضافي
+title: "HeaderFooter.IsClipExtraContent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HeaderFooter. يحصل أو يضبط ما إذا كان يتم قص المحتوى الإضافي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/headerfooter/isclipextracontent/
 ---
-## خاصية HeaderFooter.IsClipExtraContent
+## HeaderFooter.IsClipExtraContent property
 
-تحصل أو تعين إذا كان يتم قص المحتوى الإضافي.
+يحصل أو يعيّن ما إذا كان يقتطع المحتوى الإضافي.
 
 ```csharp
 public bool IsClipExtraContent { get; set; }
@@ -19,3 +19,5 @@ public bool IsClipExtraContent { get; set; }
 * class [HeaderFooter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompletionCreateRequest. تحصل أو تعين معرف النموذج للاستخدام
+title: "CompletionCreateRequest.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompletionCreateRequest. تحصل أو تعيين معرف النموذج المراد استخدامه."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/completioncreaterequest/model/
 ---
-## خاصية CompletionCreateRequest.Model
+## CompletionCreateRequest.Model property
 
-تحصل أو تعين معرف النموذج للاستخدام.
+يحصل أو يضبط معرّف النموذج المراد استخدامه.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

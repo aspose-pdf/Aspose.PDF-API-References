@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Scale
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تحدد مقياس النص. إذا تم تعيين هذه الخاصية على true وتم تحديد قيمة العرض، سيتم تغيير حجم النص ليتناسب مع العرض المحدد
+title: "TextStamp.Scale"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. تحدد مقياس النص. إذا تم تعيين هذه الخاصية إلى true وتم تحديد قيمة Width، سيتم تحجيم النص ليتناسب مع العرض المحدد"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/textstamp/scale/
 ---
-## خاصية TextStamp.Scale
+## TextStamp.Scale property
 
-تحدد مقياس النص. إذا تم تعيين هذه الخاصية على true وتم تحديد قيمة العرض، سيتم تغيير حجم النص ليتناسب مع العرض المحدد.
+يحدد مقياس النص. إذا تم تعيين هذه الخاصية إلى true وتم تحديد قيمة Width، سيُقاس النص ليتناسب مع العرض المحدد.
 
 ```csharp
 public bool Scale { get; set; }
@@ -19,3 +19,5 @@ public bool Scale { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

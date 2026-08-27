@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ContentsResizeValue. تحصل على القيمة المحددة. استخدم خاصية Unit للحصول على وحدات القيمة
+title: "PdfFileEditor.ContentsResizeValue.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ContentsResizeValue خاصية. يحصل على القيمة المحددة. استخدم خاصية Unit للحصول على وحدات القيمة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/value/
 ---
-## خاصية PdfFileEditor.ContentsResizeValue.Value
+## PdfFileEditor.ContentsResizeValue.Value property
 
-تحصل على القيمة المحددة. استخدم خاصية Unit للحصول على وحدات القيمة.
+إرجاع القيمة المحددة. استخدم الخاصية Unit للحصول على وحدات القيمة.
 
 ```csharp
 public double Value { get; }
@@ -19,3 +19,5 @@ public double Value { get; }
 * class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

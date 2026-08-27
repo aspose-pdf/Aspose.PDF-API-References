@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.SummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAISummaryCopilotOptions. تحصل أو تعين الموجه لإرشاد النموذج لتقديم ملخص الوثيقة
+title: "OpenAISummaryCopilotOptions.SummaryPrompt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAISummaryCopilotOptions. الحصول أو تعيين الموجه لتوجيه النموذج لتوفير ملخص المستند"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/summaryprompt/
 ---
-## خاصية OpenAISummaryCopilotOptions.SummaryPrompt
+## OpenAISummaryCopilotOptions.SummaryPrompt property
 
-تحصل أو تعين الموجه لإرشاد النموذج لتقديم ملخص الوثيقة.
+يحصل أو يعيّن المطالبة لتوجيه النموذج لتوفير ملخص المستند.
 
 ```csharp
 public string SummaryPrompt { get; set; }
@@ -19,3 +19,5 @@ public string SummaryPrompt { get; set; }
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

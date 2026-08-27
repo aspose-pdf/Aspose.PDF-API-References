@@ -1,37 +1,39 @@
 ---
-title: Class JsonDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Comparison.JsonDiffOutputGenerator. تمثل فئة لعرض نتائج مقارنة مستندات PDF أو الصفحات بتنسيق JSON
+title: "الفئة JsonDiffOutputGenerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Comparison.JsonDiffOutputGenerator class. تمثل فئة لعرض نتائج مقارنة مستندات PDF أو صفحاتها بصيغة JSON"
 type: docs
-weight: 3240
+weight: 3350
 url: /ar/net/aspose.pdf.comparison/jsondiffoutputgenerator/
 ---
 ## JsonDiffOutputGenerator class
 
-تمثل فئة لعرض نتائج مقارنة مستندات PDF أو الصفحات بتنسيق JSON.
+يمثّل فئة لعرض نتائج مقارنة PDF documents أو الصفحات بصيغة JSON.
 
 ```csharp
 public class JsonDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [JsonDiffOutputGenerator](jsondiffoutputgenerator/)() | المُنشئ الافتراضي. |
+| [JsonDiffOutputGenerator](jsondiffoutputgenerator/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;) | يولد مخرجات الاختلافات بين النصوص ويحفظها في ملف. |
-| [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;) | يولد مخرجات الاختلافات بين النصوص ويحفظها في ملف. |
-| [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput_2)(List&lt;DiffOperation&gt;, string) | يولد مخرجات الاختلافات بين النصوص ويحفظها في ملف. |
-| [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput_3)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | يولد مخرجات الاختلافات بين النصوص ويحفظها في ملف. |
+| [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;) | ينشئ مخرجات الفروقات بين النصوص ويحفظها في ملف. |
+| [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;) | ينشئ مخرجات الفروقات بين النصوص ويحفظها في ملف. |
+| [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput_2)(List&lt;DiffOperation&gt;, string) | ينشئ مخرجات الفروقات بين النصوص ويحفظها في ملف. |
+| [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput_3)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | ينشئ مخرجات الفروقات بين النصوص ويحفظها في ملف. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IFileOutputGenerator](../ifileoutputgenerator/)
 * interface [IStringOutputGenerator](../istringoutputgenerator/)
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

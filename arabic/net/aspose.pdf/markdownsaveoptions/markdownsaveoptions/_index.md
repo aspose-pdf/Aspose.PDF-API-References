@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.MarkdownSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MarkdownSaveOptions. المُنشئ الافتراضي
+title: "MarkdownSaveOptions.MarkdownSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MarkdownSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/markdownsaveoptions/markdownsaveoptions/
 ---
-## مُنشئ MarkdownSaveOptions
+## MarkdownSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public MarkdownSaveOptions()
@@ -19,3 +19,5 @@ public MarkdownSaveOptions()
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

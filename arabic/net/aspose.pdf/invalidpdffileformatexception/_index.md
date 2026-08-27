@@ -1,29 +1,31 @@
 ---
-title: Class InvalidPdfFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.InvalidPdfFileFormatException. الاستثناء الذي يتم رميه عندما يكون ملف pdf غير صالح
+title: "فئة InvalidPdfFileFormatException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.InvalidPdfFileFormatException. الاستثناء الذي يُرمى عندما يكون ملف pdf غير صالح"
 type: docs
-weight: 6020
+weight: 6150
 url: /ar/net/aspose.pdf/invalidpdffileformatexception/
 ---
 ## InvalidPdfFileFormatException class
 
-الاستثناء الذي يتم رميه عندما يكون ملف pdf غير صالح.
+الاستثناء الذي يُرمى عندما يكون ملف pdf غير صالح.
 
 ```csharp
 public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor)(Exception) | Initializes a new instance of the `InvalidPdfFileFormatException` class with a reference to the inner exception that is the cause of this exception. |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_1)(string) | Initializes a new instance of the `InvalidPdfFileFormatException` class. |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_2)(string, Exception) | Initializes a new instance of the `InvalidPdfFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor)(Exception) | ينشئ مثيلًا جديدًا من الفئة `InvalidPdfFileFormatException` مع إشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_1)(string) | ينشئ مثيلًا جديدًا من الفئة `InvalidPdfFileFormatException`. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_2)(string, Exception) | ينشئ مثيلًا جديدًا من الفئة `InvalidPdfFileFormatException` مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
-### See Also
+### انظر أيضًا
 
 * class [InvalidFileFormatException](../invalidfileformatexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

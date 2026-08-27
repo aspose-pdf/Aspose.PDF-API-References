@@ -1,14 +1,14 @@
 ---
-title: SideBySideComparisonOptions.ComparisonArea1
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SideBySideComparisonOptions. الحصول على منطقة المقارنة وتعيينها. تُستخدم للصفحة الأولى أو المستند في طريقة المقارنة. لا يمكن تعيين هذا الخيار مع خيارات ExcludeTables و ExcludeAreas1 و ExcludeAreas2
+title: "SideBySideComparisonOptions.ComparisonArea1"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SideBySideComparisonOptions. الحصول على وتعيين منطقة المقارنة. تُستخدم للصفحة أو المستند الأول في طريقة المقارنة. لا يمكن تعيين هذا الخيار مع خيارات ExcludeTables و ExcludeAreas1 و ExcludeAreas2."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonarea1/
 ---
-## خاصية SideBySideComparisonOptions.ComparisonArea1
+## SideBySideComparisonOptions.ComparisonArea1 property
 
-الحصول على منطقة المقارنة وتعيينها. تُستخدم للصفحة الأولى أو المستند في طريقة المقارنة. لا يمكن تعيين هذا الخيار مع خيارات [`ExcludeTables`](../excludetables/)، [`ExcludeAreas1`](../excludeareas1/) و [`ExcludeAreas2`](../excludeareas2/) .
+الحصول على وتعيين منطقة المقارنة. تُستخدم للصفحة أو المستند الأول في طريقة المقارنة. لا يمكن تعيين هذا الخيار مع خيارات [`ExcludeTables`](../excludetables/)، [`ExcludeAreas1`](../excludeareas1/) و [`ExcludeAreas2`](../excludeareas2/).
 
 ```csharp
 public Rectangle ComparisonArea1 { get; set; }
@@ -20,3 +20,5 @@ public Rectangle ComparisonArea1 { get; set; }
 * class [SideBySideComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

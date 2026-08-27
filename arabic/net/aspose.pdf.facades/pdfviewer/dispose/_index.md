@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfViewer. يتخلص من موارد الواجهة
+title: "PdfViewer.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfViewer. تُحرّر موارد الواجهة"
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf.facades/pdfviewer/dispose/
 ---
-## طريقة PdfViewer.Dispose
+## PdfViewer.Dispose method
 
 يتخلص من موارد الواجهة.
 
@@ -19,3 +19,5 @@ public void Dispose()
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

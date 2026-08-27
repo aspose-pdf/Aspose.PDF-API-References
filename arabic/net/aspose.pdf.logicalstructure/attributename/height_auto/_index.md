@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Height_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. ارتفاع السمة تلقائي. سيتم تحديد ارتفاع العناصر بواسطة الارتفاع الجوهري لمحتواها.
+title: "AttributeName.Height_Auto"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة Height Auto  يجب تحديد ارتفاع العنصر بناءً على الارتفاع الداخلي لمحتواه"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.logicalstructure/attributename/height_auto/
 ---
-## حقل AttributeName.Height_Auto
+## AttributeName.Height_Auto field
 
-ارتفاع السمة: تلقائي - سيتم تحديد ارتفاع العنصر بواسطة الارتفاع الجوهري لمحتواه.
+السمة Height: Auto - يجب تحديد ارتفاع العنصر بناءً على الارتفاع الداخلي لمحتواه.
 
 ```csharp
 public static readonly AttributeName Height_Auto;
@@ -19,3 +19,5 @@ public static readonly AttributeName Height_Auto;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

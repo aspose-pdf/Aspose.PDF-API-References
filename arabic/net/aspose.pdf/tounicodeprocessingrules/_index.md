@@ -1,35 +1,37 @@
 ---
-title: Class ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ToUnicodeProcessingRules class. تصف هذه الفئة القواعد التي يمكن استخدامها لحل خطأ Adobe Preflight "لا يمكن تعيين النص إلى Unicode"
+title: "فئة ToUnicodeProcessingRules"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.ToUnicodeProcessingRules. تصف هذه الفئة القواعد التي يمكن استخدامها لحل خطأ Adobe Preflight: لا يمكن تعيين النص إلى Unicode"
 type: docs
-weight: 11110
+weight: 11300
 url: /ar/net/aspose.pdf/tounicodeprocessingrules/
 ---
 ## ToUnicodeProcessingRules class
 
-تصف هذه الفئة القواعد التي يمكن استخدامها لحل خطأ Adobe Preflight "لا يمكن تعيين النص إلى Unicode".
+هذه الفئة تصف القواعد التي يمكن استخدامها لحل خطأ Adobe Preflight "لا يمكن تعيين النص إلى Unicode".
 
 ```csharp
 public class ToUnicodeProcessingRules
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor)() | Initializes a new instance of the `ToUnicodeProcessingRules` class. |
-| [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor_1)(bool) | Initializes a new instance of the `ToUnicodeProcessingRules` class with the specified option to remove spaces from CMap names. |
-| [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor_2)(bool, bool) | Initializes a new instance of the `ToUnicodeProcessingRules` class with specified options. |
+| [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor)() | تهيئ نسخة جديدة من الفئة `ToUnicodeProcessingRules`. |
+| [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor_1)(bool) | يُنشئ مثيلًا جديدًا من الفئة `ToUnicodeProcessingRules` مع الخيار المحدد لإزالة المسافات من أسماء CMap. |
+| [ToUnicodeProcessingRules](tounicodeprocessingrules/#constructor_2)(bool, bool) | يُنشئ مثيلًا جديدًا من الفئة `ToUnicodeProcessingRules` مع خيارات محددة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/) { get; set; } | بعض الخطوط لا توفر معلومات حول الرموز النصية لبعض الرموز. هذه النقص في المعلومات يتسبب في حدوث خطأ "لا يمكن تعيين النص إلى Unicode". استخدم هذه العلامة لتعيين الرموز غير المرتبطة على unicode "space"(code 32). |
-| [RemoveSpacesFromCMapNames](../../aspose.pdf/tounicodeprocessingrules/removespacesfromcmapnames/) { get; set; } | بعض الخطوط تحتوي على خرائط رموز الأحرف ToUnicode مع مسافات في الأسماء. هذه المسافات قد تتسبب في حدوث أخطاء مع تعيين نصوص Unicode. هذه العلامة تأمر بإزالة المسافات من أسماء خرائط رموز الأحرف ToUnicode. بشكل افتراضي false. |
+| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/) { get; set; } | بعض الخطوط لا توفر معلومات عن اليونيكود لبعض رموز النص. هذا النقص في المعلومات يسبب خطأ "Text cannot be mapped to Unicode". استخدم هذه العلامة لتعيين الرموز غير المرتبطة إلى "space" (الرمز 32) في اليونيكود. |
+| [RemoveSpacesFromCMapNames](../../aspose.pdf/tounicodeprocessingrules/removespacesfromcmapnames/) { get; set; } | بعض الخطوط لديها خرائط رموز ToUnicode تحتوي على مسافات في الأسماء. هذه المسافات قد تتسبب في أخطاء عند تعيين النص إلى اليونيكود. هذه العلامة تُصِر على إزالة المسافات من أسماء خرائط رموز ToUnicode. القيمة الافتراضية false. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

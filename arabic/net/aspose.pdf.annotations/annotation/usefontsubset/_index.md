@@ -1,14 +1,14 @@
 ---
-title: Annotation.UseFontSubset
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. إذا تم تعيين هذه الخاصية على true، ستتم إضافة الخطوط إلى المستند كأجزاء فرعية. القيمة الافتراضية هي true
+title: "Annotation.UseFontSubset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. إذا تم تعيين هذه الخاصية إلى true، ستُضاف الخطوط إلى المستند كجزء فرعي. القيمة الافتراضية هي true"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.annotations/annotation/usefontsubset/
 ---
-## خاصية Annotation.UseFontSubset
+## Annotation.UseFontSubset property
 
-إذا تم تعيين هذه الخاصية على true، ستتم إضافة الخطوط إلى المستند كأجزاء فرعية. القيمة الافتراضية هي true.
+إذا تم تعيين هذه الخاصية إلى true، ستُضاف الخطوط إلى المستند كجزء فرعي. القيمة الافتراضية هي true.
 
 ```csharp
 public static bool UseFontSubset { get; set; }
@@ -19,3 +19,5 @@ public static bool UseFontSubset { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

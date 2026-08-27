@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITHIN
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfPageEditor. IN الانقسام الأفقي
+title: "PdfPageEditor.SPLITHIN"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfPageEditor. IN Horizontal Split"
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/splithin/
 ---
-## حقل PdfPageEditor.SPLITHIN
+## PdfPageEditor.SPLITHIN field
 
-IN الانقسام الأفقي
+انقسام أفقي داخلي
 
 ```csharp
 public const int SPLITHIN;
@@ -19,3 +19,5 @@ public const int SPLITHIN;
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

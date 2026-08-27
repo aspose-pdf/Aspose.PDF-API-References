@@ -1,32 +1,34 @@
 ---
-title: Class SubmitToolOutputs
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.SubmitToolOutputs. تمثل تفاصيل حول مخرجات الأداة اللازمة لاستمرار التشغيل
+title: "الفئة SubmitToolOutputs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.SubmitToolOutputs. تمثل تفاصيل مخرجات الأداة المطلوبة لاستمرار التشغيل"
 type: docs
-weight: 1080
+weight: 1160
 url: /ar/net/aspose.pdf.ai/submittooloutputs/
 ---
 ## SubmitToolOutputs class
 
-تمثل تفاصيل حول مخرجات الأداة اللازمة لاستمرار التشغيل.
+يمثل تفاصيل مخرجات الأدوات المطلوبة لمتابعة التنفيذ.
 
 ```csharp
 public class SubmitToolOutputs
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SubmitToolOutputs](submittooloutputs/)() | المُنشئ الافتراضي. |
+| [SubmitToolOutputs](submittooloutputs/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ToolCalls](../../aspose.pdf.ai/submittooloutputs/toolcalls/) { get; set; } | يحصل أو يحدد قائمة بمكالمات الأداة ذات الصلة. |
+| [ToolCalls](../../aspose.pdf.ai/submittooloutputs/toolcalls/) { get; set; } | يحصل أو يعيّن قائمة بالمكالمات ذات الصلة للأداة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

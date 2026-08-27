@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.Scrollable
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextBoxField. تحصل أو تعين علامة التمرير للحقل. إذا كانت صحيحة، يمكن تمرير الحقل
+title: "TextBoxField.Scrollable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextBoxField. يحصل أو يضبط علامة القابلية للتمرير للحقل. إذا كانت true يمكن تمرير الحقل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/textboxfield/scrollable/
 ---
-## خاصية TextBoxField.Scrollable
+## TextBoxField.Scrollable property
 
-تحصل أو تعين علامة التمرير للحقل. إذا كانت صحيحة، يمكن تمرير الحقل.
+يحصل أو يضبط علامة القابلية للتمرير للحقل. إذا كانت true، يمكن تمرير الحقل.
 
 ```csharp
 public bool Scrollable { get; set; }
@@ -19,3 +19,5 @@ public bool Scrollable { get; set; }
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

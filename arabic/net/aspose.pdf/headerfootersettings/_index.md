@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.HeaderFooterSettings. تمثل إعدادات العناصر الخاصة بالرأس والتذييل
+title: "الفئة HeaderFooterSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.HeaderFooterSettings. تمثل إعدادات عناصر الرأس والتذييل."
 type: docs
-weight: 5450
+weight: 5570
 url: /ar/net/aspose.pdf/headerfootersettings/
 ---
-## فئة HeaderFooterSettings
+## HeaderFooterSettings class
 
-تمثل إعدادات العناصر الخاصة بالرأس والتذييل.
+يمثل إعدادات قطع الرأس والتذييل.
 
 ```csharp
 public sealed class HeaderFooterSettings
@@ -18,17 +18,19 @@ public sealed class HeaderFooterSettings
 
 | الاسم | الوصف |
 | --- | --- |
-| [HeaderFooterSettings](headerfootersettings/)() | المنشئ الافتراضي. |
+| [HeaderFooterSettings](headerfootersettings/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Footer](../../aspose.pdf/headerfootersettings/footer/) { get; set; } | يحصل على أو يحدد إعدادات التذييل. |
-| [Header](../../aspose.pdf/headerfootersettings/header/) { get; set; } | يحصل على أو يحدد إعدادات الرأس. |
-| [PageRange](../../aspose.pdf/headerfootersettings/pagerange/) { get; set; } | يحصل على أو يحدد نطاق الصفحات لإعدادات الرأس والتذييل. |
+| [Footer](../../aspose.pdf/headerfootersettings/footer/) { get; set; } | يحصل أو يعيّن إعدادات التذييل. |
+| [Header](../../aspose.pdf/headerfootersettings/header/) { get; set; } | يحصل أو يعيّن إعدادات الرأس. |
+| [PageRange](../../aspose.pdf/headerfootersettings/pagerange/) { get; set; } | يحصل أو يعيّن نطاق الصفحات لإعدادات الرأس والتذييل. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

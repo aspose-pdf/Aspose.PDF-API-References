@@ -1,23 +1,23 @@
 ---
-title: PdfPageEditor.MovePosition
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfPageEditor. تنقل الأصل من 0 0 إلى النقطة المحددة. الأصل هو أسفل اليسار والوحدة هي نقطة 1 بوصة = 72 نقطة
+title: "PdfPageEditor.MovePosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfPageEditor. تنقل الأصل من 0 0 إلى النقطة المحددة. الأصل هو أسفل اليسار والوحدة هي point 1 بوصة = 72 نقطة"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/moveposition/
 ---
-## طريقة PdfPageEditor.MovePosition
+## PdfPageEditor.MovePosition method
 
-تنقل الأصل من (0, 0) إلى النقطة المحددة. الأصل هو أسفل اليسار والوحدة هي نقطة (1 بوصة = 72 نقطة).
+ينقل الأصل من (0, 0) إلى النقطة المحددة. الأصل هو أسفل اليسار والوحدة هي النقطة (1 بوصة = 72 نقطة).
 
 ```csharp
 public void MovePosition(float moveX, float moveY)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| moveX | مفرد | إحداثي X. |
-| moveY | مفرد | إحداثي Y. |
+| moveX | Single | الإحداثي X. |
+| moveY | Single | الإحداثي Y. |
 
 ## أمثلة
 
@@ -33,3 +33,5 @@ editor.Save("moved.pdf");
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

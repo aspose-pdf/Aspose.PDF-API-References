@@ -1,14 +1,14 @@
 ---
-title: RunStepDetails.RunStepType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunStepDetails. تحصل أو تعين نوع خطوة التشغيل
+title: "RunStepDetails.RunStepType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunStepDetails. تحصل أو تعين نوع خطوة التشغيل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/runstepdetails/runsteptype/
 ---
-## خاصية RunStepDetails.RunStepType
+## RunStepDetails.RunStepType property
 
-تحصل أو تعين نوع خطوة التشغيل.
+يحصل أو يعيّن نوع خطوة التشغيل.
 
 ```csharp
 public string RunStepType { get; set; }
@@ -19,3 +19,5 @@ public string RunStepType { get; set; }
 * class [RunStepDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

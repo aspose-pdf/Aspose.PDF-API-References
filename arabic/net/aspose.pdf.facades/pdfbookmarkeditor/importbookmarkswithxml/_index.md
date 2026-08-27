@@ -1,24 +1,24 @@
 ---
-title: PdfBookmarkEditor.ImportBookmarksWithXML
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfBookmarkEditor. تستورد العلامات المرجعية إلى الوثيقة من ملف XML
+title: "PdfBookmarkEditor.ImportBookmarksWithXML"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfBookmarkEditor. تستورد الإشارات المرجعية إلى المستند من ملف XML"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/
 ---
 ## ImportBookmarksWithXML(string) {#importbookmarkswithxml_1}
 
-تستورد العلامات المرجعية إلى الوثيقة من ملف XML.
+يستورد الإشارات المرجعية إلى Document من ملف XML.
 
 ```csharp
 public void ImportBookmarksWithXML(string xmlFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xmlFile | String | ملف XML الذي يحتوي على قائمة العلامات المرجعية. |
+| xmlFile | String | ملف XML الذي يحتوي على قائمة الإشارات المرجعية. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -27,7 +27,7 @@ editor.ImportBookmarksWithXML("bookmarks.xml");
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -37,18 +37,20 @@ editor.Save("example_out.pdf");
 
 ## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml}
 
-تستورد العلامات المرجعية إلى الوثيقة من ملف XML.
+يستورد الإشارات المرجعية إلى Document من ملف XML.
 
 ```csharp
 public void ImportBookmarksWithXML(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق يحتوي على بيانات العلامات المرجعية. |
+| stream | Stream | دفق يحتوي على بيانات الإشارات المرجعية. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,38 +1,40 @@
 ---
-title: Class DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.DateComponent. تمثل فئة أساسية لمكونات التاريخ مع خاصية تنسيق
+title: "الفئة DateComponent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.DateComponent. تمثل فئة أساسية لمكونات التاريخ مع سمة التنسيق"
 type: docs
-weight: 3490
+weight: 3610
 url: /ar/net/aspose.pdf/datecomponent/
 ---
 ## DateComponent class
 
-تمثل فئة أساسية لمكونات التاريخ مع خاصية تنسيق.
+يمثل فئة أساسية لمكونات التاريخ مع سمة التنسيق.
 
 ```csharp
 public class DateComponent
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DateComponent](datecomponent/)() | المُنشئ الافتراضي. |
+| [DateComponent](datecomponent/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | يحصل أو يحدد التنسيق لمكون التاريخ. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | الحصول أو تعيين التنسيق لمكوّن التاريخ. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | يُرجع سلسلة تتكون من حرف محدد مكرر بناءً على التنسيق. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | إرجاع سلسلة مكوّنة من حرف محدد مكرر وفقًا للتنسيق. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

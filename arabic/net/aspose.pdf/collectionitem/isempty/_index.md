@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CollectionItem. تحصل على قيمة تشير إلى ما إذا كان عنصر المجموعة فارغًا
+title: "CollectionItem.IsEmpty"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CollectionItem. يحصل على قيمة تشير إلى ما إذا كان عنصر المجموعة فارغًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/collectionitem/isempty/
 ---
-## خاصية CollectionItem.IsEmpty
+## CollectionItem.IsEmpty property
 
-تحصل على قيمة تشير إلى ما إذا كان عنصر المجموعة فارغًا.
+يحصل على قيمة تشير إلى ما إذا كان عنصر المجموعة فارغًا.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,14 +16,16 @@ public bool IsEmpty { get; }
 
 ### قيمة الإرجاع
 
-true إذا كان عنصر المجموعة فارغًا؛ خلاف ذلك، false.
+صحيح إذا كان عنصر المجموعة فارغًا؛ وإلا، خطأ.
 
 ## ملاحظات
 
-ترجع هذه الخاصية true إذا كان عنصر المجموعة لا يحتوي على أي قيم، بما في ذلك القيم النصية، والقيم العشرية، والقيم الصحيحة، وقيم التاريخ. إذا كانت أي من هذه الأنواع من القيم موجودة في عنصر المجموعة، فإن هذه الخاصية ترجع false.
+ترجع هذه الخاصية صحيح إذا لم يحتوي عنصر المجموعة على أي قيم، بما في ذلك قيم السلاسل، والقيم المزدوجة، والقيم الصحيحة، وقيم التاريخ. إذا كان أي من هذه الأنواع موجودًا في عنصر المجموعة، فإن هذه الخاصية ترجع خطأ.
 
 ### انظر أيضًا
 
 * class [CollectionItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

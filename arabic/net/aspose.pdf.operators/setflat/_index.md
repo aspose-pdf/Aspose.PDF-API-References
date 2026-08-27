@@ -1,42 +1,44 @@
 ---
-title: Class SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetFlat. فئة تمثل مشغل i لتحديد تسامح السطح
+title: "فئة SetFlat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.SetFlat. تمثّل الفئة عامل i لتعيين تسامح الاستواء."
 type: docs
-weight: 7700
+weight: 7840
 url: /ar/net/aspose.pdf.operators/setflat/
 ---
 ## SetFlat class
 
-فئة تمثل مشغل i (تحديد تسامح السطح).
+الفئة التي تمثل المشغل i (تعيين تسامح الانبساط).
 
 ```csharp
 public class SetFlat : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetFlat](setflat/)(double) | Initializes operator. |
+| [SetFlat](setflat/)(double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Flatness](../../aspose.pdf.operators/setflat/flatness/) { get; set; } | يحصل على تسامح السطح أو يحدده. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Flatness](../../aspose.pdf.operators/setflat/flatness/) { get; set; } | يحصل أو يعيّن الاستواء. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setflat/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعلماته. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setflat/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

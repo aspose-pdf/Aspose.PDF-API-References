@@ -1,14 +1,14 @@
 ---
-title: Class Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Watermark. تمثل علامة مائية للصفحة
+title: "الفئة Watermark"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Watermark. تمثل علامة مائية للصفحة"
 type: docs
-weight: 11300
+weight: 11490
 url: /ar/net/aspose.pdf/watermark/
 ---
-## فئة علامة مائية
+## Watermark class
 
-تمثل علامة مائية للصفحة.
+يمثل علامة مائية للصفحة.
 
 ```csharp
 public class Watermark
@@ -18,18 +18,20 @@ public class Watermark
 
 | الاسم | الوصف |
 | --- | --- |
-| [Watermark](watermark/#constructor)(Image) | يقوم بتهيئة كائن علامة مائية بصورة. |
-| [Watermark](watermark/#constructor_1)(Image, Rectangle) | يقوم بتهيئة كائن علامة مائية بصورة وموقعها على الصفحة. |
+| [Watermark](watermark/#constructor)(Image) | يُنشئ كائن علامة مائية باستخدام صورة. |
+| [Watermark](watermark/#constructor_1)(Image, Rectangle) | يقوم بتهيئة كائن علامة مائية بصورة وموقعه على صفحة. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Available](../../aspose.pdf/watermark/available/) { get; } | يحصل على علامة أن العلامة المائية موجودة. |
+| [Available](../../aspose.pdf/watermark/available/) { get; } | يحصل على علم بوجود العلامة المائية. |
 | [Image](../../aspose.pdf/watermark/image/) { get; } | يحصل على صورة العلامة المائية. |
-| [Position](../../aspose.pdf/watermark/position/) { get; } | يحصل على موقع صورة العلامة المائية على الصفحة. |
+| [Position](../../aspose.pdf/watermark/position/) { get; } | يحصل على موضع صورة العلامة المائية على صفحة. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

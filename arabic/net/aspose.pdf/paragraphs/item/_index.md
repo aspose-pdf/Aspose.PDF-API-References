@@ -1,20 +1,20 @@
 ---
-title: Paragraphs.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الفقرات. يحصل على أو يحدد فقرة من أو إلى المجموعة
+title: "Paragraphs.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Paragraphs. الحصول على الفقرة أو تعيينها من أو إلى المجموعة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/paragraphs/item/
 ---
-## فهرس الفقرات
+## Paragraphs indexer
 
-يحصل على أو يحدد فقرة من أو إلى المجموعة.
+يحصل أو يضبط الفقرة من أو إلى المجموعة.
 
 ```csharp
 public BaseParagraph this[int index] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الفقرة. |
 
@@ -24,3 +24,5 @@ public BaseParagraph this[int index] { get; set; }
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

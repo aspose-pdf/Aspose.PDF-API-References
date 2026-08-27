@@ -1,14 +1,14 @@
 ---
-title: Class EndPath
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.EndPath. فئة تمثل مشغل نهاية المسار بدون تعبئة أو ضرب
+title: "الفئة EndPath"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.EndPath فئة. الفئة التي تمثل عامل n لإنهاء المسار دون تعبئة أو خط"
 type: docs
-weight: 7360
+weight: 7500
 url: /ar/net/aspose.pdf.operators/endpath/
 ---
-## فئة نهاية المسار
+## EndPath class
 
-فئة تمثل مشغل (نهاية المسار بدون تعبئة أو ضرب).
+فئة تمثل المشغل n (end path بدون تعبئة أو رسم).
 
 ```csharp
 public class EndPath : Operator
@@ -18,24 +18,26 @@ public class EndPath : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [EndPath](endpath/)() | يقوم بتهيئة المشغل. |
+| [EndPath](endpath/)() | يُهيئ العامل. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/endpath/tostring/)() | تمثيل نصي للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/endpath/tostring/)() | تمثيل النص للعامل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

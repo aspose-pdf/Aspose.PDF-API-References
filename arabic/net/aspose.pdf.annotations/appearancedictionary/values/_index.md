@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Values
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AppearanceDictionary. تحصل على قائمة قيم القاموس. تحتوي مجموعة النتائج على قائمة من كائنات XForm
+title: "AppearanceDictionary.Values"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AppearanceDictionary. يحصل على قائمة قيم القاموس. مجموعة النتائج تحتوي على قائمة كائنات XForm"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/values/
 ---
-## خاصية AppearanceDictionary.Values
+## AppearanceDictionary.Values property
 
-تحصل على قائمة قيم القاموس. تحتوي مجموعة النتائج على قائمة من كائنات XForm.
+يحصل على قائمة قيم القاموس. تحتوي مجموعة النتائج على قائمة كائنات XForm.
 
 ```csharp
 public ICollection<XForm> Values { get; }
@@ -20,3 +20,5 @@ public ICollection<XForm> Values { get; }
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

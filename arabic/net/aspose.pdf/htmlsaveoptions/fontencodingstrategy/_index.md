@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.FontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlSaveOptions. يحدد قاعدة ترميز خاصة لضبط فك تشفير PDF للمستند الحالي
+title: "HtmlSaveOptions.FontEncodingStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlSaveOptions. يحدد قاعدة ترميز خاصة لضبط فك تشفير PDF للمستند الحالي"
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf/htmlsaveoptions/fontencodingstrategy/
 ---
-## حقل HtmlSaveOptions.FontEncodingStrategy
+## HtmlSaveOptions.FontEncodingStrategy field
 
-يحدد قاعدة ترميز خاصة لضبط فك تشفير PDF للمستند الحالي
+يحدد قاعدة ترميز خاصة لضبط فك ترميز PDF للمستند الحالي
 
 ```csharp
 public FontEncodingRules FontEncodingStrategy;
@@ -20,3 +20,5 @@ public FontEncodingRules FontEncodingStrategy;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

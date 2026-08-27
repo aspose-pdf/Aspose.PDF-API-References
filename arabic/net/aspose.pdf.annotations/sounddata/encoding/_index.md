@@ -1,14 +1,14 @@
 ---
-title: SoundData.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundData. تحصل أو تعين تنسيق الترميز لبيانات العينة
+title: "SoundData.Encoding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundData. تحصل أو تعيّن تنسيق الترميز لبيانات العينة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/sounddata/encoding/
 ---
-## خاصية SoundData.Encoding
+## SoundData.Encoding property
 
-تحصل أو تعين تنسيق الترميز لبيانات العينة.
+يحصل أو يضبط تنسيق الترميز لبيانات العينة.
 
 ```csharp
 public SoundEncoding Encoding { get; set; }
@@ -20,3 +20,5 @@ public SoundEncoding Encoding { get; set; }
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

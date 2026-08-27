@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorberOptions.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ خيارات امتصاص الفقرات. المُنشئ الافتراضي
+title: "ParagraphAbsorberOptions.ParagraphAbsorberOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ParagraphAbsorberOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/paragraphabsorberoptions/paragraphabsorberoptions/
 ---
-## مُنشئ خيارات امتصاص الفقرات
+## ParagraphAbsorberOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ParagraphAbsorberOptions()
@@ -16,6 +16,8 @@ public ParagraphAbsorberOptions()
 
 ### انظر أيضًا
 
-* class [خيارات امتصاص الفقرات](../)
+* class [ParagraphAbsorberOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

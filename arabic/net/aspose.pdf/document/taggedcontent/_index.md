@@ -1,12 +1,12 @@
 ---
-title: Document.TaggedContent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل على الوصول إلى محتوى TaggedPdf
+title: "Document.TaggedContent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Document property. يحصل على الوصول إلى محتوى TaggedPdf"
 type: docs
-weight: 520
+weight: 540
 url: /ar/net/aspose.pdf/document/taggedcontent/
 ---
-## خاصية Document.TaggedContent
+## Document.TaggedContent property
 
 يحصل على الوصول إلى محتوى TaggedPdf.
 
@@ -16,37 +16,37 @@ public ITaggedContent TaggedContent { get; }
 
 ## أمثلة
 
-توضح المثال كيفية استخدام المحتوى المعنون لإنشاء وثيقة جديدة مع رأس، وفقرات، وصور.
+يوضح المثال كيفية استخدام المحتوى الموسوم لإنشاء مستند جديد يحتوي على رأس وفقرة وصور.
 
 ```csharp
-// Create new document
+// إنشاء مستند جديد
 Document document = new Document();
 
-// Get the tagged content
+// احصل على المحتوى الموسوم
 ITaggedContent taggedContent = document.TaggedContent;
 
-// Set language for document
+// تعيين اللغة للمستند
 taggedContent.SetLanguage("en-US");
 
-// Set title for PDF document
+// تعيين العنوان لمستند PDF
 taggedContent.SetTitle("Example document");
 
-// Creating and adding Section
+// إنشاء وإضافة القسم
 SectElement sect = taggedContent.CreateSectElement();
 taggedContent.RootElement.AppendChild(sect);
 
-// Create Header
+// إنشاء رأس
 HeaderElement h1 = taggedContent.CreateHeaderElement(1);
 h1.SetText("The Header");
 sect.AppendChild(h1);
 
-// Create paragraph
+// إنشاء فقرة
 ParagraphElement p = taggedContent.CreateParagraphElement();
 p.SetTag("Paragraph");
 p.SetText("The text of paragraph.");
 sect.AppendChild(p);
 
-// Create illustration
+// إنشاء توضيح
 IllustrationElement figure1 = taggedContent.CreateFigureElement();
 sect.AppendChild(figure1);
 figure1.AlternativeText = "Figure 1";
@@ -54,13 +54,15 @@ figure1.Title = "Image 1";
 figure1.SetTag("Fig");
 figure1.SetImage("path/of/image.jpg");
 
-// Save document
+// حفظ المستند
 document.Save("example.pdf");
 ```
 
 ### انظر أيضًا
 
-* واجهة [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
-* فئة [Document](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImageUrl.Detail
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageUrl. تحصل أو تعين مستوى التفاصيل للصورة إذا تم تحديده من قبل المستخدم. يستخدم low عددًا أقل من الرموز، يمكنك الاشتراك في دقة عالية باستخدام high
+title: "ImageUrl.Detail"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageUrl. تحصل أو تعين مستوى تفاصيل الصورة إذا حدده المستخدم. low يستخدم عددًا أقل من الرموز ويمكنك اختيار الدقة العالية باستخدام high"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/imageurl/detail/
 ---
-## خاصية ImageUrl.Detail
+## ImageUrl.Detail property
 
-تحصل أو تعين مستوى التفاصيل للصورة إذا تم تحديده من قبل المستخدم. يستخدم low عددًا أقل من الرموز، يمكنك الاشتراك في دقة عالية باستخدام high .
+يحصل أو يعيّن مستوى التفاصيل للصورة إذا حدده المستخدم. يستخدم الوضع المنخفض عددًا أقل من الرموز، ويمكنك اختيار الدقة العالية باستخدام الوضع العالي.
 
 ```csharp
 public string Detail { get; set; }
@@ -19,3 +19,5 @@ public string Detail { get; set; }
 * class [ImageUrl](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

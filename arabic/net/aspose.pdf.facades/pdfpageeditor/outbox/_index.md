@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.OUTBOX
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfPageEditor. صندوق خارجي
+title: "PdfPageEditor.OUTBOX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfPageEditor. صندوق خارجي"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/outbox/
 ---
-## حقل PdfPageEditor.OUTBOX
+## PdfPageEditor.OUTBOX field
 
 صندوق خارجي
 
@@ -19,3 +19,5 @@ public const int OUTBOX;
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

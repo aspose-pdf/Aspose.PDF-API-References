@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A3Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق A3 عرضي 297 مم × 420 مم
+title: "PaperSizes.A3Transverse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق A3 عرضي 297 مم × 420 مم"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.printing/papersizes/a3transverse/
 ---
-## حقل PaperSizes.A3Transverse
+## PaperSizes.A3Transverse field
 
 ورق A3 عرضي (297 مم × 420 مم).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize A3Transverse;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

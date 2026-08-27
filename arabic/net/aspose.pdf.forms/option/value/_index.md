@@ -1,14 +1,14 @@
 ---
-title: Option.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخيار. يحصل على قيمة تصدير الخيار أو يحددها
+title: "Option.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Option. تحصل أو تعين قيمة تصدير الخيار"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/option/value/
 ---
-## خاصية Option.Value
+## Option.Value property
 
-يحصل على قيمة تصدير الخيار أو يحددها.
+يحصل أو يعيّن قيمة تصدير الخيار.
 
 ```csharp
 public string Value { get; set; }
@@ -19,3 +19,5 @@ public string Value { get; set; }
 * class [Option](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

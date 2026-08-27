@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Inline
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. وضع السمة في السطر. محصور في اتجاه التقدم في السطر داخل BLSE محيط.
+title: "AttributeName.Placement_Inline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة Placement Inline  مُعبأ في اتجاه inlineprogression داخل BLSE محيط"
 type: docs
 weight: 370
 url: /ar/net/aspose.pdf.logicalstructure/attributename/placement_inline/
 ---
-## حقل AttributeName.Placement_Inline
+## AttributeName.Placement_Inline field
 
-وضع السمة: في السطر - محصور في اتجاه التقدم في السطر داخل BLSE محيط.
+السمة Placement: Inline - يتم تعبئته في اتجاه تقدم السطر داخل BLSE محيط.
 
 ```csharp
 public static readonly AttributeName Placement_Inline;
@@ -19,3 +19,5 @@ public static readonly AttributeName Placement_Inline;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

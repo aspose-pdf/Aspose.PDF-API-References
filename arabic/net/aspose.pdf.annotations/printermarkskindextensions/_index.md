@@ -1,26 +1,28 @@
 ---
-title: Class PrinterMarksKindExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PrinterMarksKindExtensions. توفر طرق توسيع لتعداد PrinterMarksKind
+title: "الفئة PrinterMarksKindExtensions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.PrinterMarksKindExtensions. توفر طرق امتداد لتعداد PrinterMarksKind"
 type: docs
-weight: 2390
+weight: 2480
 url: /ar/net/aspose.pdf.annotations/printermarkskindextensions/
 ---
 ## PrinterMarksKindExtensions class
 
-توفر طرق توسيع لتعداد [`PrinterMarksKind`](../printermarkskind/) .
+توفر طرق امتداد لتعداد [`PrinterMarksKind`](../printermarkskind/).
 
 ```csharp
 public static class PrinterMarksKindExtensions
 ```
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | يحدد ما إذا كانت القيمة الحالية تتضمن علامة محددة. |
+| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | يحدد ما إذا كانت القيمة الحالية تشمل علامة محددة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

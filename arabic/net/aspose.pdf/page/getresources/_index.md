@@ -1,14 +1,14 @@
 ---
-title: Page.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تسترجع الموارد المرتبطة بالصفحة
+title: "Page.GetResources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تسترجع الموارد المرتبطة بالصفحة."
 type: docs
 weight: 470
 url: /ar/net/aspose.pdf/page/getresources/
 ---
-## طريقة Page.GetResources
+## Page.GetResources method
 
-تسترجع الموارد المرتبطة بالصفحة.
+يسترجع الموارد المرتبطة بالصفحة.
 
 ```csharp
 public Resources GetResources()
@@ -16,11 +16,13 @@ public Resources GetResources()
 
 ### قيمة الإرجاع
 
-كائن [`Resources`](../resources/) يمثل الموارد الخاصة بالصفحة.
+كائن [`Resources`](../resources/) يمثل موارد الصفحة.
 
 ### انظر أيضًا
 
-* فئة [Resources](../../resources/)
-* فئة [Page](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

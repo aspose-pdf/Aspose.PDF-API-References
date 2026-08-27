@@ -1,14 +1,14 @@
 ---
-title: PageDate.MonthComponent.MonthComponent
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MonthComponent. المُنشئ الافتراضي
+title: "PageDate.MonthComponent.MonthComponent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MonthComponent. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagedate.monthcomponent/monthcomponent/
 ---
-## مُنشئ PageDate.MonthComponent
+## PageDate.MonthComponent constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public MonthComponent()
@@ -19,3 +19,5 @@ public MonthComponent()
 * class [MonthComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

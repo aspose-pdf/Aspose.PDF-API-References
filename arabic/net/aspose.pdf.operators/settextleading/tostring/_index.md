@@ -1,25 +1,27 @@
 ---
-title: SetTextLeading.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetTextLeading. تنتج رمز نصي للمشغل
+title: "SetTextLeading.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetTextLeading. تُنتج شفرة النص للمشغل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/settextleading/tostring/
 ---
 ## SetTextLeading.ToString method
 
-ينتج كود نصي للمعامل.
+ينتج رمز النص للمشغّل.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-تمثيل نصي للمعامل.
+تمثيل النص للعامل.
 
-### See Also
+### انظر أيضًا
 
 * class [SetTextLeading](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StreamSaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StreamSaveTarget. نوع تدفق هدف الحفظ
+title: "StreamSaveTarget.SaveTarget"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StreamSaveTarget. نوع تدفق هدف الحفظ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/streamsavetarget/savetarget/
 ---
-## خاصية StreamSaveTarget.SaveTarget
+## StreamSaveTarget.SaveTarget property
 
-نوع هدف الحفظ (التدفق).
+نوع هدف الحفظ (تدفق).
 
 ```csharp
 public DataType SaveTarget { get; }
@@ -24,3 +24,5 @@ public DataType SaveTarget { get; }
 * class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

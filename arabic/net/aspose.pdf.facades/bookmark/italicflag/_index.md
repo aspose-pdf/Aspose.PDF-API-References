@@ -1,14 +1,14 @@
 ---
-title: Bookmark.ItalicFlag
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تعين علامة المائل لعنوان الإشارات المرجعية
+title: "Bookmark.ItalicFlag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. يحصل أو يحدد علامة المائل لعنوان الإشارات"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/bookmark/italicflag/
 ---
-## خاصية Bookmark.ItalicFlag
+## Bookmark.ItalicFlag property
 
-تحصل أو تعين علامة المائل لعنوان الإشارة المرجعية.
+يحصل أو يضبط علامة الخط المائل لعنوان الإشارة المرجعية.
 
 ```csharp
 public bool ItalicFlag { get; set; }
@@ -19,3 +19,5 @@ public bool ItalicFlag { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

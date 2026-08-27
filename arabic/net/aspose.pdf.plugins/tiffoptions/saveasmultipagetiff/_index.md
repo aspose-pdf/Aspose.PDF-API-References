@@ -1,14 +1,14 @@
 ---
-title: TiffOptions.SaveAsMultiPageTiff
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffOptions. تحصل على وتضبط العلم الذي يسمح بحفظ جميع الصفحات في ملف TIFF متعدد الصفحات
+title: "TiffOptions.SaveAsMultiPageTiff"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffOptions. يحصل أو يضبط العلامة التي تسمح بحفظ جميع الصفحات في ملف tiff متعدد الصفحات"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.plugins/tiffoptions/saveasmultipagetiff/
 ---
-## خاصية TiffOptions.SaveAsMultiPageTiff
+## TiffOptions.SaveAsMultiPageTiff property
 
-تحصل على وتضبط العلم الذي يسمح بحفظ جميع الصفحات في ملف TIFF متعدد الصفحات.
+احصل وعين العلامة التي تسمح بحفظ جميع الصفحات في ملف tiff متعدد الصفحات.
 
 ```csharp
 public bool SaveAsMultiPageTiff { get; set; }
@@ -19,3 +19,5 @@ public bool SaveAsMultiPageTiff { get; set; }
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.PrintField
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeOwnerStandard. مالك خاصية PrintField
+title: "AttributeOwnerStandard.PrintField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeOwnerStandard. مالك سمة PrintField"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/printfield/
 ---
-## حقل AttributeOwnerStandard.PrintField
+## AttributeOwnerStandard.PrintField field
 
-مالك خاصية PrintField.
+مالك سمة PrintField.
 
 ```csharp
 public static readonly AttributeOwnerStandard PrintField;
@@ -19,3 +19,5 @@ public static readonly AttributeOwnerStandard PrintField;
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

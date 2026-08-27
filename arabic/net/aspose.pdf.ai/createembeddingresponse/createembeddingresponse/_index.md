@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingResponse.CreateEmbeddingResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CreateEmbeddingResponse. المُنشئ الافتراضي
+title: "CreateEmbeddingResponse.CreateEmbeddingResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CreateEmbeddingResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/createembeddingresponse/createembeddingresponse/
 ---
-## مُنشئ CreateEmbeddingResponse
+## CreateEmbeddingResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CreateEmbeddingResponse()
@@ -19,3 +19,5 @@ public CreateEmbeddingResponse()
 * class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

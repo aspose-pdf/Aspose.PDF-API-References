@@ -1,42 +1,44 @@
 ---
-title: Class MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.MarginInfo. تمثل هذه الفئة هامشًا لأشياء مختلفة
+title: "فئة MarginInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.MarginInfo. تمثل هذه الفئة هامشًا لكائنات مختلفة"
 type: docs
-weight: 6900
+weight: 7040
 url: /ar/net/aspose.pdf/margininfo/
 ---
 ## MarginInfo class
 
-تمثل هذه الفئة هامشًا لأشياء مختلفة.
+هذه الفئة تمثل هامشًا لكائنات مختلفة.
 
 ```csharp
 public sealed class MarginInfo : ICloneable
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MarginInfo](margininfo/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `MarginInfo`. |
-| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | مُنشئ المستطيل. |
+| [MarginInfo](margininfo/#constructor)() | ينشئ مثيلًا جديدًا لفئة `MarginInfo`. |
+| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | منشئ Rectangle. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى الهامش السفلي. |
-| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى الهامش الأيسر. |
-| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى الهامش الأيمن. |
-| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى الهامش العلوي. |
+| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى الهامش السفلي. |
+| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى الهامش الأيسر. |
+| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى الهامش الأيمن. |
+| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى الهامش العلوي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.pdf/margininfo/clone/)() | يقوم باستنساخ كائن `MarginInfo` جديد. |
+| [Clone](../../aspose.pdf/margininfo/clone/)() | ينسخ كائنًا جديدًا من `MarginInfo`. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.InputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TeXLoadOptions. الحصول على/تعيين دليل إدخال TeX
+title: "TeXLoadOptions.InputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TeXLoadOptions. يحصل/يضبط دليل إدخال TeX"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/texloadoptions/inputdirectory/
 ---
-## خاصية TeXLoadOptions.InputDirectory
+## TeXLoadOptions.InputDirectory property
 
-الحصول على/تعيين دليل إدخال TeX.
+يحصل/يضبط دليل إدخال TeX.
 
 ```csharp
 public ITeXInputDirectory InputDirectory { get; set; }
@@ -16,7 +16,9 @@ public ITeXInputDirectory InputDirectory { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [ITeXInputDirectory](../../itexinputdirectory/)
-* فئة [TeXLoadOptions](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ITeXInputDirectory](../../itexinputdirectory/)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

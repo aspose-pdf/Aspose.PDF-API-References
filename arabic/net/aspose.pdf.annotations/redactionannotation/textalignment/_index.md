@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RedactionAnnotation. الحصول أو التعيين. محاذاة النص العائم
+title: "RedactionAnnotation.TextAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RedactionAnnotation. تحصل أو تعيين. محاذاة نص Overlay Text"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.annotations/redactionannotation/textalignment/
 ---
-## خاصية RedactionAnnotation.TextAlignment
+## RedactionAnnotation.TextAlignment property
 
-الحصول أو التعيين. محاذاة النص العائم.
+يحصل أو يعيّن. محاذاة نص التراكب.
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment TextAlignment { get; set; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

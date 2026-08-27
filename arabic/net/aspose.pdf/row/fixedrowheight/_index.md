@@ -1,14 +1,14 @@
 ---
-title: Row.FixedRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصف. تحصل على ارتفاع الصف الثابت - قد يكون للصف ارتفاع ثابت
+title: "Row.FixedRowHeight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Row. تحصل على ارتفاع الصف الثابت؛ قد يكون للصف ارتفاع ثابت"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/row/fixedrowheight/
 ---
-## خاصية Row.FixedRowHeight
+## Row.FixedRowHeight property
 
-تحصل على ارتفاع الصف الثابت - قد يكون للصف ارتفاع ثابت؛
+يحصل على ارتفاع الصف الثابت - قد يكون للصف ارتفاع ثابت؛
 
 ```csharp
 public double FixedRowHeight { get; set; }
@@ -19,3 +19,5 @@ public double FixedRowHeight { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

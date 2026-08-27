@@ -1,14 +1,14 @@
 ---
-title: AnnotationElement.AlternateDescriptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationElement. تحصل أو تعين الأوصاف البديلة للتعليق. نص سيتم عرضه للتعليق أو، إذا لم يعرض هذا النوع من التعليق نصًا، وصف بديل لمحتويات التعليق بشكل قابل للقراءة البشرية.
+title: "AnnotationElement.AlternateDescriptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationElement. يحصل أو يضبط الوصف البديل للتعليق. النص الذي سيُعرض للتعليق أو إذا كان هذا النوع من التعليقات لا يعرض نصًا، وصف بديل لمحتوى التعليق بصيغة قابلة للقراءة البشرية."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/annotationelement/alternatedescriptions/
 ---
-## خاصية AnnotationElement.AlternateDescriptions
+## AnnotationElement.AlternateDescriptions property
 
-تحصل أو تعين الأوصاف البديلة للتعليق. نص سيتم عرضه للتعليق أو، إذا لم يعرض هذا النوع من التعليق نصًا، وصف بديل لمحتويات التعليق بشكل قابل للقراءة البشرية.
+يحصل أو يعيّن الوصف البديل للتعليق التوضيحي. النص الذي سيُعرض للتعليق أو، إذا كان هذا النوع من التعليقات لا يعرض نصًا، وصف بديل لمحتوى التعليق بصيغة قابلة للقراءة البشرية.
 
 ```csharp
 public string AlternateDescriptions { get; set; }
@@ -19,3 +19,5 @@ public string AlternateDescriptions { get; set; }
 * class [AnnotationElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

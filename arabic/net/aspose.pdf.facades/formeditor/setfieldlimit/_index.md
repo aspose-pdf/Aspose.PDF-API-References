@@ -1,27 +1,27 @@
 ---
-title: FormEditor.SetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تعيين الحد الأقصى لعدد الأحرف في حقل النص
+title: "FormEditor.SetFieldLimit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تحدد الحد الأقصى لعدد الأحرف في حقل النص"
 type: docs
 weight: 310
 url: /ar/net/aspose.pdf.facades/formeditor/setfieldlimit/
 ---
-## طريقة FormEditor.SetFieldLimit
+## FormEditor.SetFieldLimit method
 
-تعيين الحد الأقصى لعدد الأحرف في حقل النص.
+يضبط الحد الأقصى لعدد الأحرف لحقل النص.
 
 ```csharp
 public bool SetFieldLimit(string fieldName, int fieldLimit)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم حقل النص. |
-| fieldLimit | Int32 | القيمة الجديدة للحد للحقل. |
+| fieldLimit | Int32 | القيمة الجديدة للحد في الحقل. |
 
 ### قيمة الإرجاع
 
-true إذا تم تعيين حد الحقل بنجاح.
+صحيح إذا تم تعيين حد الحقل بنجاح.
 
 ## أمثلة
 
@@ -35,3 +35,5 @@ formEditor.SetFieldLimit("textField", 15);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

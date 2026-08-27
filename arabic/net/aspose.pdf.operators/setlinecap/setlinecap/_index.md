@@ -1,12 +1,12 @@
 ---
-title: SetLineCap.SetLineCap
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetLineCap. يُهيئ عامل SetLineCap
+title: "SetLineCap.SetLineCap"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetLineCap. يهيئ المشغل SetLineCap"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setlinecap/setlinecap/
 ---
-## مُنشئ SetLineCap
+## SetLineCap constructor
 
 يُهيئ عامل SetLineCap
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf.operators/setlinecap/setlinecap/
 public SetLineCap(LineCap cap)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| cap | LineCap | نمط نهاية الخط. |
+| نهاية | LineCap | نمط نهاية الخط. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public SetLineCap(LineCap cap)
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

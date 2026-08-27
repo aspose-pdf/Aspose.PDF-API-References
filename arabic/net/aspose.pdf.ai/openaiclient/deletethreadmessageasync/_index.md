@@ -1,36 +1,36 @@
 ---
-title: OpenAIClient.DeleteThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تحذف رسالة ضمن سلسلة بشكل غير متزامن
+title: "OpenAIClient.DeleteThreadMessageAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تحذف رسالة داخل سلسلة بشكل غير متزامن"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.ai/openaiclient/deletethreadmessageasync/
 ---
-## طريقة OpenAIClient.DeleteThreadMessageAsync
+## OpenAIClient.DeleteThreadMessageAsync method
 
-تحذف رسالة ضمن سلسلة بشكل غير متزامن.
+يحذف رسالة داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, string threadMessageId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | سلسلة | معرف السلسلة التي تحتوي على الرسالة المراد حذفها. |
-| threadMessageId | سلسلة | معرف الرسالة المراد حذفها. |
+| threadId | String | معرّف السلسلة التي تحتوي على الرسالة المراد حذفها. |
+| threadMessageId | String | معرّف الرسالة المراد حذفها. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على حالة عملية الحذف.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على حالة عملية الحذف.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف السلسلة فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف رسالة السلسلة فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف رسالة الخيط null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, stri
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

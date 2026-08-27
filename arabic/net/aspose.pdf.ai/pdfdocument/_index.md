@@ -1,33 +1,35 @@
 ---
-title: Class PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.PdfDocument. تمثل مستند PDF باسم
+title: "الفئة PdfDocument"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.PdfDocument. تمثل مستند PDF باسم."
 type: docs
-weight: 940
+weight: 1020
 url: /ar/net/aspose.pdf.ai/pdfdocument/
 ---
 ## PdfDocument class
 
-تمثل مستند PDF باسم.
+يمثل مستند PDF باسم.
 
 ```csharp
 public class PdfDocument
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PdfDocument](pdfdocument/)() | المُنشئ الافتراضي. |
+| [PdfDocument](pdfdocument/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | يحصل على مستند PDF أو يضبطه. |
-| [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | يحصل على اسم مستند PDF أو يضبطه. ينشئ GUID جديد إذا لم يتم تعيين الاسم. |
+| [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | يحصل أو يعيّن مستند PDF. |
+| [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | يحصل أو يعيّن اسم مستند PDF. يولد GUID جديد إذا لم يتم تعيين الاسم. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

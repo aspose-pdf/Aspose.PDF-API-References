@@ -1,14 +1,14 @@
 ---
-title: BT.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BT. تنتج رمز نصي للمشغل
+title: "BT.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BT. تُنتج شفرة نصية للمشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/bt/tostring/
 ---
-## طريقة BT.ToString
+## BT.ToString method
 
-تنتج رمز نصي للمشغل.
+ينتج رمز النص للمشغّل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل نصي للمشغل.
+تمثيل النص للعامل.
 
 ### انظر أيضًا
 
 * class [BT](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

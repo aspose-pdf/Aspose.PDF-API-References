@@ -1,26 +1,26 @@
 ---
-title: EncryptionOptions.EncryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EncryptionOptions. يُهيئ مثيلًا جديدًا من كائن EncryptionOptions مع خيارات افتراضية
+title: "EncryptionOptions.EncryptionOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ EncryptionOptions. يهيئ نسخة جديدة من كائن EncryptionOptions بالخيارات الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/encryptionoptions/encryptionoptions/
 ---
-## مُنشئ EncryptionOptions
+## EncryptionOptions constructor
 
-يُهيئ مثيلًا جديدًا من كائن [`EncryptionOptions`](../) مع خيارات افتراضية.
+يهيئ نسخة جديدة من كائن [`EncryptionOptions`](../) بالخيارات الافتراضية.
 
 ```csharp
 public EncryptionOptions(string ownerPassword, string userPassword, 
     DocumentPrivilege documentPrivilege, CryptoAlgorithm cryptoAlgorithm = CryptoAlgorithm.AESx256)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ownerPassword | سلسلة | كلمة مرور المالك. |
-| userPassword | سلسلة | كلمة مرور المستخدم. |
-| documentPrivilege | DocumentPrivilege | أذونات الوثيقة. |
-| cryptoAlgorithm | CryptoAlgorithm | الخوارزمية التشفيرية. |
+| ownerPassword | String | كلمة مرور المالك. |
+| userPassword | String | كلمة مرور المستخدم. |
+| documentPrivilege | DocumentPrivilege | أذونات المستند. |
+| cryptoAlgorithm | CryptoAlgorithm | خوارزمية تشفير. |
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ public EncryptionOptions(string ownerPassword, string userPassword,
 * class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

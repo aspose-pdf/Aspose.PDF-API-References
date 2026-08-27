@@ -1,30 +1,32 @@
 ---
-title: Class InvalidFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.InvalidFileFormatException. الاستثناء الذي يتم إلقاؤه عندما يكون الملف غير صالح
+title: "الفئة InvalidFileFormatException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.InvalidFileFormatException. الاستثناء الذي يُرمى عندما يكون الملف غير صالح."
 type: docs
-weight: 5990
+weight: 6120
 url: /ar/net/aspose.pdf/invalidfileformatexception/
 ---
 ## InvalidFileFormatException class
 
-الاستثناء الذي يتم إلقاؤه عندما يكون الملف غير صالح.
+الاستثناء الذي يُرمى عندما يكون الملف غير صالح.
 
 ```csharp
 public class InvalidFileFormatException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor)() | Initializes a new instance of the `InvalidFileFormatException` class. |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | Initializes a new instance of the `InvalidFileFormatException` class with a reference to the inner exception that is the cause of this exception. |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_2)(string) | Initializes a new instance of the `InvalidFileFormatException` class. |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | Initializes a new instance of the `InvalidFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor)() | ينشئ مثيلًا جديدًا للفئة `InvalidFileFormatException`. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | ينشئ مثيلًا جديدًا للفئة `InvalidFileFormatException` مع إشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_2)(string) | ينشئ مثيلًا جديدًا للفئة `InvalidFileFormatException`. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | يُنشئ مثيلاً جديدًا للفئة `InvalidFileFormatException` مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

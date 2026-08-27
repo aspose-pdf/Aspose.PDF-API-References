@@ -1,14 +1,14 @@
 ---
-title: AbsorbedRow.CellList
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AbsorbedRow. تحصل على IList للقراءة فقط تحتوي على خلايا الصف
+title: "AbsorbedRow.CellList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AbsorbedRow. يحصل على IList للقراءة فقط يحتوي على خلايا الصف"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/absorbedrow/celllist/
 ---
-## خاصية AbsorbedRow.CellList
+## AbsorbedRow.CellList property
 
-تحصل على IList للقراءة فقط تحتوي على خلايا الصف
+يحصل على IList للقراءة فقط يحتوي على خلايا الصف
 
 ```csharp
 public IList<AbsorbedCell> CellList { get; }
@@ -20,3 +20,5 @@ public IList<AbsorbedCell> CellList { get; }
 * class [AbsorbedRow](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

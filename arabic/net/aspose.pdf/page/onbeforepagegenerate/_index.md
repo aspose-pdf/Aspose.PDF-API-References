@@ -1,14 +1,14 @@
 ---
-title: Page.OnBeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: حدث الصفحة. حدث لتخصيص الرأس والتذييل
+title: "Page.OnBeforePageGenerate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حدث الصفحة. حدث لتخصيص الرأس والتذييل"
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf/page/onbeforepagegenerate/
 ---
-## حدث Page.OnBeforePageGenerate
+## Page.OnBeforePageGenerate event
 
-حدث لتخصيص الرأس والتذييل.
+حدث لتخصيص الترويسة والتذييل.
 
 ```csharp
 public event BeforePageGenerate OnBeforePageGenerate;
@@ -20,3 +20,5 @@ public event BeforePageGenerate OnBeforePageGenerate;
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

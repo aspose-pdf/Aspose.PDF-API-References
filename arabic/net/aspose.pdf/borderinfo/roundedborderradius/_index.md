@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.RoundedBorderRadius
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BorderInfo. تحصل أو تعين نصف قطر الحدود المدورة
+title: "BorderInfo.RoundedBorderRadius"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BorderInfo. يحصل أو يحدد نصف قطر حد مدور"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/borderinfo/roundedborderradius/
 ---
-## خاصية BorderInfo.RoundedBorderRadius
+## BorderInfo.RoundedBorderRadius property
 
-تحصل أو تعين نصف قطر الحدود المدورة
+يحصل أو يعيّن نصف قطر الحد المدور
 
 ```csharp
 public double RoundedBorderRadius { get; set; }
@@ -19,3 +19,5 @@ public double RoundedBorderRadius { get; set; }
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.FormattedValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RichTextBoxField. تحصل أو تعين قيمة نص غنية منسقة مع تعليمات
+title: "RichTextBoxField.FormattedValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RichTextBoxField. يحصل أو يعيّن قيمة النص الغني المنسق مع العلامات"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/richtextboxfield/formattedvalue/
 ---
-## خاصية RichTextBoxField.FormattedValue
+## RichTextBoxField.FormattedValue property
 
-تحصل أو تعين قيمة نص غنية منسقة مع تعليمات.
+يحصل أو يعيّن قيمة النص الغني المنسق مع العلامات.
 
 ```csharp
 public string FormattedValue { get; set; }
@@ -19,3 +19,5 @@ public string FormattedValue { get; set; }
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

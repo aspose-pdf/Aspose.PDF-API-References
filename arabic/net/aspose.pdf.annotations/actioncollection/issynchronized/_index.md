@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ActionCollection. تعيد true إذا كان الكائن متزامنًا
+title: "ActionCollection.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ActionCollection. تُرجع true إذا كان الكائن متزامنًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/actioncollection/issynchronized/
 ---
-## خاصية ActionCollection.IsSynchronized
+## ActionCollection.IsSynchronized property
 
-تعيد true إذا كان الكائن متزامنًا.
+يرجع true إذا كان الكائن متزامنًا.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

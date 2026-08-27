@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Role
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadMessageResponse. تحصل أو تعين الكيان الذي أنتج الرسالة. واحد من المستخدم أو المساعد
+title: "ThreadMessageResponse.Role"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadMessageResponse. تحصل أو تعيين الكيان الذي أنشأ الرسالة. أحد: المستخدم أو المساعد"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.ai/threadmessageresponse/role/
 ---
-## خاصية ThreadMessageResponse.Role
+## ThreadMessageResponse.Role property
 
-تحصل أو تعين الكيان الذي أنتج الرسالة. واحد من "المستخدم" أو "المساعد".
+يحصل أو يعيّن الكيان الذي أنشأ الرسالة. أحد \"user\" أو \"assistant\".
 
 ```csharp
 public string Role { get; set; }
@@ -19,3 +19,5 @@ public string Role { get; set; }
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: Form.AssignXfa
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تعيين XFA للنموذج إلى القيمة المحددة
+title: "Form.AssignXfa"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تعيين XFA للنموذج إلى القيمة المحددة"
 type: docs
-weight: 210
+weight: 230
 url: /ar/net/aspose.pdf.forms/form/assignxfa/
 ---
-## طريقة Form.AssignXfa
+## Form.AssignXfa method
 
-تعيين XFA للنموذج إلى القيمة المحددة.
+يضبط XFA للنموذج إلى القيمة المحددة.
 
 ```csharp
 public void AssignXfa(XmlDocument xml)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | xml | XmlDocument | مستند Xml الذي يحتوي على بيانات XFA الجديدة. |
 
@@ -23,3 +23,5 @@ public void AssignXfa(XmlDocument xml)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

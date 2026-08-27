@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Number14Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف 14 بحجم 5 بوصة × 11.5 بوصة
+title: "PaperSizes.Number14Envelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف 14 5 بوصة × 11.5 بوصة"
 type: docs
 weight: 770
 url: /ar/net/aspose.pdf.printing/papersizes/number14envelope/
 ---
-## حقل PaperSizes.Number14Envelope
+## PaperSizes.Number14Envelope field
 
-ظرف 14 (5 بوصة × 11.5 بوصة).
+مغلف #14 (5 بوصة × 11.5 بوصة).
 
 ```csharp
 public static readonly PaperSize Number14Envelope;
@@ -20,3 +20,5 @@ public static readonly PaperSize Number14Envelope;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: ElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ElementCollection. إزالة عنصر من المجموعة
+title: "ElementCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ElementCollection. إزالة عنصر من المجموعة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.structure/elementcollection/remove/
 ---
-## طريقة ElementCollection.Remove
+## ElementCollection.Remove method
 
-إزالة عنصر من المجموعة.
+إزالة العنصر من المجموعة.
 
 ```csharp
 public bool Remove(Element item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | Element | العنصر المراد إزالته. |
 
@@ -28,3 +28,5 @@ public bool Remove(Element item)
 * class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

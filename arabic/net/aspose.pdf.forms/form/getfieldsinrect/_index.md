@@ -1,26 +1,26 @@
 ---
-title: Form.GetFieldsInRect
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تعيد الحقول داخل المستطيل المحدد
+title: "Form.GetFieldsInRect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تُعيد الحقول داخل المستطيل المحدد."
 type: docs
-weight: 270
+weight: 290
 url: /ar/net/aspose.pdf.forms/form/getfieldsinrect/
 ---
-## طريقة Form.GetFieldsInRect
+## Form.GetFieldsInRect method
 
-تعيد الحقول داخل المستطيل المحدد.
+يعيد الحقول داخل المستطيل المحدد.
 
 ```csharp
 public Field[] GetFieldsInRect(Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | المستطيل الذي يجب العثور على الحقول فيه. |
+| rect | Rectangle | المستطيل حيث يجب العثور على الحقول. |
 
 ### قيمة الإرجاع
 
-مصفوفة بالحقول الموجودة.
+مصفوفة تحتوي على الحقول التي تم العثور عليها.
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ public Field[] GetFieldsInRect(Rectangle rect)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

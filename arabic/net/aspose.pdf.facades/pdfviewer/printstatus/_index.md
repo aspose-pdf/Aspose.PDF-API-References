@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintStatus
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل على نتيجة مهمة الطباعة. إذا كانت ناجحة، فإنها تكون null، وإلا فهي كائن استثناء
+title: "PdfViewer.PrintStatus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل على نتيجة مهمة الطباعة. إذا نجحت تكون null وإلا كائن الاستثناء"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdfviewer/printstatus/
 ---
-## خاصية PdfViewer.PrintStatus
+## PdfViewer.PrintStatus property
 
-تحصل على نتيجة مهمة الطباعة. إذا كانت ناجحة، فإنها تكون null؛ وإلا، فهي كائن استثناء.
+يحصل على نتيجة مهمة الطباعة. إذا نجحت تكون النتيجة null؛ وإلا يكون كائن الاستثناء.
 
 ```csharp
 public object PrintStatus { get; }
@@ -19,3 +19,5 @@ public object PrintStatus { get; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

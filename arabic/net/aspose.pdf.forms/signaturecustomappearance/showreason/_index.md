@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ShowReason
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تعيين رؤية السبب. القيمة الافتراضية true
+title: "SignatureCustomAppearance.ShowReason"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط رؤية السبب. القيمة الافتراضية true"
 type: docs
-weight: 180
+weight: 190
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/showreason/
 ---
-## خاصية SignatureCustomAppearance.ShowReason
+## SignatureCustomAppearance.ShowReason property
 
-تحصل/تعيين رؤية السبب. القيمة الافتراضية: true.
+الحصول/التعيين لرؤية السبب. القيمة الافتراضية: true.
 
 ```csharp
 public bool ShowReason { get; set; }
@@ -19,3 +19,5 @@ public bool ShowReason { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

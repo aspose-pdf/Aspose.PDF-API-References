@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.DefaultOfSoundChannels
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SoundSampleData. القيمة الافتراضية لبارامتر Channels
+title: "SoundSampleData.DefaultOfSoundChannels"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SoundSampleData. القيمة الافتراضية لمعلمة Channels"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/
 ---
-## حقل SoundSampleData.DefaultOfSoundChannels
+## SoundSampleData.DefaultOfSoundChannels field
 
-القيمة الافتراضية لبارامتر Channels.
+القيمة الافتراضية لمعلمة Channels.
 
 ```csharp
 public const int DefaultOfSoundChannels;
@@ -19,3 +19,5 @@ public const int DefaultOfSoundChannels;
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

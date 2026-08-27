@@ -1,14 +1,14 @@
 ---
-title: OperatorSelector.OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ OperatorSelector. يُهيئ مثيلًا جديدًا من فئة Selector
+title: "OperatorSelector.OperatorSelector"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ OperatorSelector. يهيئ نسخة جديدة من فئة Selector."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/operatorselector/operatorselector/
 ---
 ## OperatorSelector() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة !:Selector.
+يُنشئ نسخة جديدة من الفئة !:Selector.
 
 ```csharp
 public OperatorSelector()
@@ -24,15 +24,15 @@ public OperatorSelector()
 
 ## OperatorSelector(Operator) {#constructor_1}
 
-يُهيئ جديد [`OperatorSelector`](../).
+يهيئ نسخة جديدة من [`OperatorSelector`](../).
 
 ```csharp
 public OperatorSelector(Operator op)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| op | Operator | المُشغل الذي سيتم زيارته/اختياره. |
+| op | Operator | العامل المراد زيارته/اختياره. |
 
 ### انظر أيضًا
 
@@ -40,3 +40,5 @@ public OperatorSelector(Operator op)
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

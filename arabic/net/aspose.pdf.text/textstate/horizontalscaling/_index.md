@@ -1,14 +1,14 @@
 ---
-title: TextState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تضبط المقياس الأفقي للنص
+title: "TextState.HorizontalScaling"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. يحصل أو يضبط التحجيم الأفقي للنص"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.text/textstate/horizontalscaling/
 ---
-## خاصية TextState.HorizontalScaling
+## TextState.HorizontalScaling property
 
-تحصل أو تضبط المقياس الأفقي للنص.
+يحصل أو يضبط التحجيم الأفقي للنص.
 
 ```csharp
 public virtual float HorizontalScaling { get; set; }
@@ -19,3 +19,5 @@ public virtual float HorizontalScaling { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

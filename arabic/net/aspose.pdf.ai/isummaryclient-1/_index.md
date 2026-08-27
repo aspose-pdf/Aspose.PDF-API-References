@@ -1,20 +1,20 @@
 ---
-title: Interface ISummaryClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.ISummaryClient1TOptions. تمثل واجهة لعميل ملخص مع خيارات محددة
+title: "الواجهة ISummaryClientTOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.AI.ISummaryClient1TOptions. تمثل واجهة لعميل ملخص مع خيارات محددة"
 type: docs
-weight: 580
+weight: 630
 url: /ar/net/aspose.pdf.ai/isummaryclient-1/
 ---
-## واجهة ISummaryClient&lt;TOptions&gt;
+## ISummaryClient&lt;TOptions&gt; interface
 
-تمثل واجهة لعميل ملخص مع خيارات محددة.
+يمثل واجهة لعميل الملخص مع خيارات محددة.
 
 ```csharp
 public interface ISummaryClient<in TOptions> : IAIClient
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | TOptions | نوع الخيارات لعميل الملخص. |
 
@@ -22,10 +22,12 @@ public interface ISummaryClient<in TOptions> : IAIClient
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | يحصل على مثيل من [`ISummaryCopilot`](../isummarycopilot/) مع الخيارات المحددة. |
+| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | يحصل على نسخة من [`ISummaryCopilot`](../isummarycopilot/) مع الخيارات المحددة. |
 
 ### انظر أيضًا
 
-* واجهة [IAIClient](../iaiclient/)
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

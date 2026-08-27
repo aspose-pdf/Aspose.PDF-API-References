@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Font
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. نوع خط نص الحقل
+title: "FormFieldFacade.Font"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade خاصية. نوع الخط لنص الحقل"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/formfieldfacade/font/
 ---
-## خاصية FormFieldFacade.Font
+## FormFieldFacade.Font property
 
-نوع خط نص الحقل.
+نوع الخط لنص الحقل.
 
 ```csharp
 public FontStyle Font { get; set; }
@@ -20,3 +20,5 @@ public FontStyle Font { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

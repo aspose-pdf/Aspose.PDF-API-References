@@ -1,26 +1,26 @@
 ---
-title: SetRGBColorStroke.SetRGBColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetRGBColorStroke. يُهيئ المُشغل
+title: "SetRGBColorStroke.SetRGBColorStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetRGBColorStroke. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setrgbcolorstroke/setrgbcolorstroke/
 ---
 ## SetRGBColorStroke(double, double, double) {#constructor}
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetRGBColorStroke(double r, double g, double b)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| r | Double | مستوى الأحمر من 0.0 إلى 1.0 |
-| g | Double | مستوى الأخضر من 0.0 إلى 1.0 |
-| b | Double | مستوى الأزرق من 0.0 إلى 1.0 |
+| r | Double | مستوى اللون الأحمر من 0.0 إلى 1.0 |
+| g | Double | مستوى اللون الأخضر من 0.0 إلى 1.0 |
+| b | Double | مستوى اللون الأزرق من 0.0 إلى 1.0 |
 
-### See Also
+### انظر أيضًا
 
 * class [SetRGBColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -30,18 +30,20 @@ public SetRGBColorStroke(double r, double g, double b)
 
 ## SetRGBColorStroke(Color) {#constructor_1}
 
-يُهيئ المُشغل باللون.
+يُهيئ العامل باللون.
 
 ```csharp
 public SetRGBColorStroke(Color color)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| color | Color | لون المُشغل. |
+| color | Color | لون المشغل. |
 
-### See Also
+### انظر أيضًا
 
 * class [SetRGBColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

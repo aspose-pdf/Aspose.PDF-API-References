@@ -1,14 +1,14 @@
 ---
-title: ConcatenateMatrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ConcatenateMatrix. وسيط Matrix للمعامل
+title: "ConcatenateMatrix.Matrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ConcatenateMatrix. معامل المصفوفة للمشغّل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/concatenatematrix/matrix/
 ---
-## خاصية ConcatenateMatrix.Matrix
+## ConcatenateMatrix.Matrix property
 
-وسيط Matrix للمعامل.
+معامل المصفوفة للمشغل.
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -20,3 +20,5 @@ public Matrix Matrix { get; set; }
 * class [ConcatenateMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

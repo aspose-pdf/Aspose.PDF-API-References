@@ -1,26 +1,26 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تحفظ نص صفحة واحدة في ملف
+title: "PdfExtractor.GetNextPageText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfExtractor. تحفظ نص صفحة واحدة إلى ملف"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/pdfextractor/getnextpagetext/
 ---
 ## GetNextPageText(string) {#getnextpagetext_1}
 
-تحفظ نص صفحة واحدة في ملف.
+يحفظ نص صفحة واحدة إلى ملف.
 
 ```csharp
 public void GetNextPageText(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار واسم الملف لحفظ النص. |
+| outputFile | String | مسار الملف واسمها لحفظ النص. |
 
-## Examples
+## أمثلة
 
-المثال يوضح استخدام طريقة GetNextPageText في سيناريو استخراج النص.
+يوضح المثال استخدام طريقة GetNextPageText في سيناريو استخراج النص.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -49,7 +49,7 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -59,19 +59,19 @@ End While
 
 ## GetNextPageText(Stream) {#getnextpagetext}
 
-تحفظ نص صفحة واحدة في دفق.
+يحفظ نص صفحة واحدة إلى تدفق.
 
 ```csharp
 public void GetNextPageText(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputStream | Stream | الدفق لحفظ النص. |
 
-## Examples
+## أمثلة
 
-المثال يوضح استخدام طريقة `GetNextPageText` في سيناريو استخراج النص.
+يوضح المثال استخدام طريقة `GetNextPageText` في سيناريو استخراج النص.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -89,8 +89,10 @@ while (extractor.HasNextPageText())
 }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

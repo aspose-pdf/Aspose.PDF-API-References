@@ -1,14 +1,14 @@
 ---
-title: Page.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على مجموعة من خصائص الصفحة
+title: "Page.Actions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية الصفحة. تحصل على مجموعة من خصائص الصفحة."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/page/actions/
 ---
-## خاصية Page.Actions
+## Page.Actions property
 
-تحصل على مجموعة من خصائص الصفحة.
+يحصل على مجموعة خصائص الصفحة.
 
 ```csharp
 public PageActionCollection Actions { get; }
@@ -20,3 +20,5 @@ public PageActionCollection Actions { get; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

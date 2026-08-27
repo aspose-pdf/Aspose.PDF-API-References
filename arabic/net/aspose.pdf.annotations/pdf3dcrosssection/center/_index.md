@@ -1,20 +1,20 @@
 ---
-title: PDF3DCrossSection.Center
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DCrossSection. تحصل أو تعين مركز دوران المقطع العرضي
+title: "PDF3DCrossSection.Center"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DCrossSection. تحصل أو تعيين مركز دوران المقطع العرضي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssection/center/
 ---
-## خاصية PDF3DCrossSection.Center
+## PDF3DCrossSection.Center property
 
-تحصل أو تعين مركز دوران المقطع العرضي.
+يحصل أو يعيّن مركز دوران المقطع العرضي.
 
 ```csharp
 public Point3D Center { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 المركز.
 
@@ -24,3 +24,5 @@ public Point3D Center { get; set; }
 * class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadMessageResponse. تحصل أو تعين الطابع الزمني Unix بالثواني لتاريخ إنشاء الرسالة
+title: "ThreadMessageResponse.CreatedAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadMessageResponse. تحصل أو تعيين طابع الوقت يونكس بالثواني للوقت الذي تم فيه إنشاء الرسالة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/threadmessageresponse/createdat/
 ---
-## خاصية ThreadMessageResponse.CreatedAt
+## ThreadMessageResponse.CreatedAt property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) لتاريخ إنشاء الرسالة.
+يحصل أو يعيّن الطابع الزمني Unix (بالثواني) للوقت الذي تم إنشاء الرسالة فيه.
 
 ```csharp
 public long CreatedAt { get; set; }
@@ -19,3 +19,5 @@ public long CreatedAt { get; set; }
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

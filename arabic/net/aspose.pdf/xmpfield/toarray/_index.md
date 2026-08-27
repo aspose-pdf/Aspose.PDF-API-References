@@ -1,12 +1,12 @@
 ---
-title: XmpField.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpField. الحصول على القيمة كمصفوفة
+title: "XmpField.ToArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpField. يحصل على القيمة كمصفوفة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/xmpfield/toarray/
 ---
-## طريقة XmpField.ToArray
+## XmpField.ToArray method
 
 الحصول على القيمة كمصفوفة.
 
@@ -24,3 +24,5 @@ public XmpValue[] ToArray()
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

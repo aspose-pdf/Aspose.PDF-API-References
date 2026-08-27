@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.AutoResize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كان يمكن طباعة الملف بحجم محسن. إذا كانت القيمة خاطئة، تتم طباعة الصفحة بدون تغيير حجم الصفحة. إذا كانت القيمة صحيحة، تتم طباعة الصفحة مع تغيير الحجم لتناسب المنطقة القابلة للطباعة.
+title: "PdfViewer.AutoResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل أو تعيّن قيمة منطقية تشير إلى ما إذا كان يجب طباعة الملف بحجم مُحسّن. إذا كانت false تُطبع الصفحة دون تعديل الحجم. إذا كانت true تُطبع الصفحة مع تعديل الحجم لتناسب المنطقة القابلة للطباعة."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdfviewer/autoresize/
 ---
-## خاصية PdfViewer.AutoResize
+## PdfViewer.AutoResize property
 
-تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كان يمكن طباعة الملف بحجم محسن. إذا كانت القيمة خاطئة، تتم طباعة الصفحة بدون تغيير حجم الصفحة. إذا كانت القيمة صحيحة، تتم طباعة الصفحة مع تغيير الحجم لتناسب المنطقة القابلة للطباعة.
+يحصل أو يعيّن قيمة منطقية تشير إلى ما إذا كان يجب طباعة الملف بحجم مُحسّن. إذا كانت false تُطبع الصفحة دون تعديل الحجم. إذا كانت true تُطبع الصفحة مع تعديل الحجم لتناسب المنطقة القابلة للطباعة.
 
 ```csharp
 public bool AutoResize { get; set; }
@@ -19,3 +19,5 @@ public bool AutoResize { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Interface INamedDestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.INamedDestinationCollection. مجموعة من الوجهات المسماة
+title: "الواجهة INamedDestinationCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.INamedDestinationCollection. مجموعة من الوجهات المسماة"
 type: docs
-weight: 5780
+weight: 5910
 url: /ar/net/aspose.pdf/inameddestinationcollection/
 ---
-## واجهة INamedDestinationCollection
+## INamedDestinationCollection interface
 
 مجموعة من الوجهات المسماة.
 
@@ -18,9 +18,9 @@ public interface INamedDestinationCollection
 
 | الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | يعيد عدد الوجهات. |
-| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | يحصل أو يحدد الوجهة حسب اسمها. |
-| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | يحصل على مصفوفة من أسماء الوجهات. |
+| [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | يرجع عدد الوجهات. |
+| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | يحصل أو يضبط الوجهة حسب اسمها. |
+| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | يحصل على مصفوفة أسماء الوجهات. |
 
 ## الطرق
 
@@ -31,5 +31,7 @@ public interface INamedDestinationCollection
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SvgSaveOptions.SvgImageSavingInfo.SvgImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SvgImageSavingInfo. المُنشئ الافتراضي
+title: "SvgSaveOptions.SvgImageSavingInfo.SvgImageSavingInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SvgImageSavingInfo. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/svgimagesavinginfo/
 ---
-## مُنشئ SvgSaveOptions.SvgImageSavingInfo
+## SvgSaveOptions.SvgImageSavingInfo constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public SvgImageSavingInfo()
@@ -19,3 +19,5 @@ public SvgImageSavingInfo()
 * class [SvgImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

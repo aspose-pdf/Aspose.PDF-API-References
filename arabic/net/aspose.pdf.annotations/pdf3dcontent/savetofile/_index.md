@@ -1,26 +1,26 @@
 ---
-title: PDF3DContent.SaveToFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DContent. تحفظ محتوى ثلاثي الأبعاد في ملف
+title: "PDF3DContent.SaveToFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DContent. تقوم بحفظ محتوى ثلاثي الأبعاد إلى ملف"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/pdf3dcontent/savetofile/
 ---
-## طريقة PDF3DContent.SaveToFile
+## PDF3DContent.SaveToFile method
 
-تحفظ محتوى ثلاثي الأبعاد في ملف.
+يحفظ محتوى 3D إلى ملف.
 
 ```csharp
 public void SaveToFile(string filename)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | filename | String | اسم الملف. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | تنسيق محتوى 3DArtwork هو PRC أو U3D. |
 
@@ -29,3 +29,5 @@ public void SaveToFile(string filename)
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

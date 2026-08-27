@@ -1,14 +1,14 @@
 ---
-title: GoToAction.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GoToAction. تحصل أو تعين الوجهة للقفز إليها
+title: "GoToAction.Destination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GoToAction. تحصل أو تعين الوجهة للانتقال إليها"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/gotoaction/destination/
 ---
-## خاصية GoToAction.Destination
+## GoToAction.Destination property
 
-تحصل أو تعين الوجهة للقفز إليها.
+يحصل أو يعيّن الوجهة للانتقال إليها.
 
 ```csharp
 public virtual IAppointment Destination { get; set; }
@@ -16,7 +16,9 @@ public virtual IAppointment Destination { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [IAppointment](../../iappointment/)
-* فئة [GoToAction](../)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IAppointment](../../iappointment/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

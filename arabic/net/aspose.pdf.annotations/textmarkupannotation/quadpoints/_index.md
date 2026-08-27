@@ -1,14 +1,14 @@
 ---
-title: TextMarkupAnnotation.QuadPoints
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextMarkupAnnotation. تحصل أو تعين مصفوفة من النقاط التي تحدد إحداثيات n من الرباعيات. كل رباعي يحيط بكلمة أو مجموعة من الكلمات المتجاورة في النص الذي يستند إليه التعليق
+title: "TextMarkupAnnotation.QuadPoints"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextMarkupAnnotation. تحصل أو تعين مصفوفة من النقاط التي تحدد إحداثيات n من المربعات الرباعية. كل مربع رباعي يضم كلمة أو مجموعة من الكلمات المتتالية في النص الأساسي للتعليق التوضيحي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/textmarkupannotation/quadpoints/
 ---
-## خاصية TextMarkupAnnotation.QuadPoints
+## TextMarkupAnnotation.QuadPoints property
 
-تحصل أو تعين مصفوفة من النقاط التي تحدد إحداثيات n من الرباعيات. كل رباعي يحيط بكلمة أو مجموعة من الكلمات المتجاورة في النص الذي يستند إليه التعليق.
+يحصل أو يضبط مصفوفة من النقاط التي تحدد إحداثيات n رباعيات. كل رباعية تشمل كلمة أو مجموعة من الكلمات المتجاورة في النص الأساسي للتعليق.
 
 ```csharp
 public Point[] QuadPoints { get; set; }
@@ -20,3 +20,5 @@ public Point[] QuadPoints { get; set; }
 * class [TextMarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

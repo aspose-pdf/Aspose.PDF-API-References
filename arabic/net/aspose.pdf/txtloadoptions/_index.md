@@ -1,12 +1,12 @@
 ---
-title: Class TxtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.TxtLoadOptions. خيارات التحميل لتحويل TXT إلى PDF
+title: "الفئة TxtLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.TxtLoadOptions. خيارات التحميل لتحويل TXT إلى PDF."
 type: docs
-weight: 11130
+weight: 11320
 url: /ar/net/aspose.pdf/txtloadoptions/
 ---
-## فئة TxtLoadOptions
+## TxtLoadOptions class
 
 خيارات التحميل لتحويل TXT إلى PDF.
 
@@ -18,38 +18,38 @@ public class TxtLoadOptions : LoadOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [TxtLoadOptions](txtloadoptions/)() | المنشئ الافتراضي. |
+| [TxtLoadOptions](txtloadoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد الاتصال لمعالجة أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
 
 ## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف TXT إلى ملف PDF
+المثال التالي يوضح كيفية تحويل ملف TXT إلى ملف PDF.
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your TXT File.
+	// المسار إلى ملف TXT الخاص بك.
 	string txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt");
 
-	// The path to output PDF File.
+	// المسار إلى ملف PDF الناتج.
 	string pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf");
 
-	// Initialize TxtLoadOptions	
+	// تهيئة TxtLoadOptions	
 	TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
 		
 	using (Document pdfDocument = new Document(txtFile, txtLoadOptions))
 	{
 	 
-		// Save PDF file
+		// حفظ ملف PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -77,6 +77,8 @@ public class TxtLoadOptions : LoadOptions
 
 ### انظر أيضًا
 
-* فئة [LoadOptions](../loadoptions/)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PDF3DAnnotation.ClearImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DAnnotation. تقوم بمسح معاينة الصورة
+title: "PDF3DAnnotation.ClearImagePreview"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DAnnotation. تمسح معاينة الصورة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/
 ---
-## طريقة PDF3DAnnotation.ClearImagePreview
+## PDF3DAnnotation.ClearImagePreview method
 
-تقوم بمسح معاينة الصورة.
+يمسح معاينة الصورة.
 
 ```csharp
 public void ClearImagePreview()
@@ -19,3 +19,5 @@ public void ClearImagePreview()
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

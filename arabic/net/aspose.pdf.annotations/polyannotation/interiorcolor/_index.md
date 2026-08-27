@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PolyAnnotation. تحصل أو تعين لون الداخل الذي يتم ملؤه بنهايات خطوط التعليقات التوضيحية
+title: "PolyAnnotation.InteriorColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PolyAnnotation. يحصل أو يضبط اللون الداخلي الذي يُستخدم لملء نهايات خطوط التعليق"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/polyannotation/interiorcolor/
 ---
-## خاصية PolyAnnotation.InteriorColor
+## PolyAnnotation.InteriorColor property
 
-تحصل أو تعين لون الداخل الذي يتم ملؤه بنهايات خطوط التعليق التوضيحي.
+يحصل أو يضبط اللون الداخلي الذي يُملأ به نهايات خطوط التعليق.
 
 ```csharp
 public Color InteriorColor { get; set; }
@@ -20,3 +20,5 @@ public Color InteriorColor { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

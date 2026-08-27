@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.OwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. تعيين كلمة مرور المالك إذا كان ملف Pdf المدخل مشفرًا. هذه الخاصية لم يتم تنفيذها بعد
+title: "PdfFileEditor.OwnerPassword"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. تعين كلمة مرور المالك إذا كان ملف Pdf المصدر مشفرًا. هذه الخاصية غير مُنفذة بعد"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdffileeditor/ownerpassword/
 ---
-## خاصية PdfFileEditor.OwnerPassword
+## PdfFileEditor.OwnerPassword property
 
-تعيين كلمة مرور المالك إذا كان ملف Pdf المدخل مشفرًا. هذه الخاصية لم يتم تنفيذها بعد.
+يضبط كلمة مرور المالك إذا كان ملف PDF المصدر مشفرًا. هذه الخاصية لم تُنفَّذ بعد.
 
 ```csharp
 public string OwnerPassword { get; set; }
@@ -19,3 +19,5 @@ public string OwnerPassword { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

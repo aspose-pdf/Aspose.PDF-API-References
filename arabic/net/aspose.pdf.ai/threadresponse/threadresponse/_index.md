@@ -1,14 +1,14 @@
 ---
-title: ThreadResponse.ThreadResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ThreadResponse. المُنشئ الافتراضي
+title: "ThreadResponse.ThreadResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ThreadResponse المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/threadresponse/threadresponse/
 ---
-## مُنشئ ThreadResponse
+## ThreadResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ThreadResponse()
@@ -19,3 +19,5 @@ public ThreadResponse()
 * class [ThreadResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

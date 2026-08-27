@@ -1,14 +1,14 @@
 ---
-title: Image.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين قيمة سلسلة تشير إلى عنوان الصورة
+title: "Image.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع أو يعيّن قيمة نصية تشير إلى عنوان الصورة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/image/title/
 ---
-## خاصية Image.Title
+## Image.Title property
 
-تحصل أو تعين قيمة سلسلة تشير إلى عنوان الصورة.
+يحصل أو يعيّن قيمة من نوع string تشير إلى عنوان الصورة.
 
 ```csharp
 public TextFragment Title { get; set; }
@@ -20,3 +20,5 @@ public TextFragment Title { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

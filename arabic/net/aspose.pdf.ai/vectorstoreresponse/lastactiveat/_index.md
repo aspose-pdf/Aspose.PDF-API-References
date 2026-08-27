@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.LastActiveAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreResponse. تحصل أو تعين الطابع الزمني Unix بالثواني لآخر نشاط لمخزن المتجهات
+title: "VectorStoreResponse.LastActiveAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية VectorStoreResponse. تحصل أو تعين الطابع الزمني Unix بالثواني للوقت الذي كان فيه مخزن المتجهات نشطًا آخر مرة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/vectorstoreresponse/lastactiveat/
 ---
-## خاصية VectorStoreResponse.LastActiveAt
+## VectorStoreResponse.LastActiveAt property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) لآخر نشاط لمخزن المتجهات.
+يحصل أو يضبط الطابع الزمني Unix (بالثواني) لتاريخ آخر نشاط لمخزن المتجهات.
 
 ```csharp
 public long? LastActiveAt { get; set; }
@@ -19,3 +19,5 @@ public long? LastActiveAt { get; set; }
 * class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تعيد قيمة XMP كحقل XMP
+title: "XmpValue.ToField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. تُرجع قيمة XMP كحقل XMP"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/xmpvalue/tofield/
 ---
-## طريقة XmpValue.ToField
+## XmpValue.ToField method
 
-تعيد قيمة XMP كحقل XMP.
+يعيد قيمة XMP كحقل XMP.
 
 ```csharp
 public XmpField ToField()
@@ -24,3 +24,5 @@ public XmpField ToField()
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

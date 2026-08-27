@@ -1,14 +1,14 @@
 ---
-title: Annotation.Color
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل أو تعين لون التعليق
+title: "Annotation.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. يحصل على أو يحدد لون التعليق"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/annotation/color/
 ---
-## خاصية Annotation.Color
+## Annotation.Color property
 
-تحصل أو تعين لون التعليق.
+الحصول على أو تعيين لون التعليقة.
 
 ```csharp
 public Color Color { get; set; }
@@ -20,3 +20,5 @@ public Color Color { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

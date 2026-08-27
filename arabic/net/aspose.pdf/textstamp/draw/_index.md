@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Draw
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تحدد هذه الخاصية كيفية رسم الختم على الصفحة. إذا كانت Draw = true يتم رسم الختم كعوامل رسومية وإذا كانت draw = false يتم رسم الختم كنص
+title: "TextStamp.Draw"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. تحدد هذه الخاصية كيفية رسم الختم على الصفحة. إذا كان Draw true، يُرسم الختم كعمليات رسومية، وإذا كان Draw false، يُرسم الختم كنص"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/textstamp/draw/
 ---
-## خاصية TextStamp.Draw
+## TextStamp.Draw property
 
-تحدد هذه الخاصية كيفية رسم الختم على الصفحة. إذا كانت Draw = true يتم رسم الختم كعوامل رسومية وإذا كانت draw = false يتم رسم الختم كنص.
+تحدد هذه الخاصية كيفية رسم الختم على الصفحة. إذا كان Draw = true يتم رسم الختم كعوامل رسومية وإذا كان draw = false يتم رسم الختم كنص.
 
 ```csharp
 public bool Draw { get; set; }
@@ -19,3 +19,5 @@ public bool Draw { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

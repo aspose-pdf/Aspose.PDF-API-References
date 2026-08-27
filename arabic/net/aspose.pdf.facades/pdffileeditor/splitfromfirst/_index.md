@@ -1,37 +1,37 @@
 ---
-title: PdfFileEditor.SplitFromFirst
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تقسم ملف Pdf من الصفحة الأولى إلى الموقع المحدد وتقوم بحفظ الجزء الأمامي كملف جديد
+title: "PdfFileEditor.SplitFromFirst"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تقسم ملف Pdf من الصفحة الأولى إلى الموقع المحدد وتحفظ الجزء الأمامي كملف جديد"
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
 ## SplitFromFirst(string, int, string) {#splitfromfirst_1}
 
-تقسم ملف Pdf من الصفحة الأولى إلى الموقع المحدد، وتقوم بحفظ الجزء الأمامي كملف جديد.
+يقسم ملف Pdf من الصفحة الأولى إلى الموقع المحدد، ويحفظ الجزء الأمامي كملف جديد.
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inputFile | String | ملف Pdf المصدر. |
-| location | Int32 | نقطة التقسيم. |
+| الموقع | Int32 | نقطة التقسيم. |
 | outputFile | String | ملف Pdf الناتج. |
 
-### Return Value
+### قيمة الإرجاع
 
-True للنجاح، أو false.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -41,27 +41,27 @@ pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 
 ## SplitFromFirst(Stream, int, Stream) {#splitfromfirst}
 
-تقسم من البداية إلى الموقع المحدد، وتقوم بحفظ الجزء الأمامي في تدفق الإخراج.
+يقسم من البداية إلى الموقع المحدد، ويحفظ الجزء الأمامي في تدفق الإخراج.
 
 ```csharp
 public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inputStream | Stream | تدفق ملف Pdf المصدر. |
-| location | Int32 | نقطة التقسيم. |
-| outputStream | Stream | تدفق ملف الإخراج. |
+| الموقع | Int32 | نقطة التقسيم. |
+| outputStream | Stream | دفق ملف الإخراج. |
 
-### Return Value
+### قيمة الإرجاع
 
-True للنجاح، أو false.
+صحيح إذا نجح، أو خطأ.
 
-## Remarks
+## ملاحظات
 
 التدفقات لا تُغلق بعد هذه العملية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -70,8 +70,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitFromFirst(sourceStream, 5, outStream);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

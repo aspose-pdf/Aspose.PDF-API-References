@@ -1,25 +1,27 @@
 ---
-title: Stamp.setStampId
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Stamp. تعيين معرف الطابع
+title: "Stamp.setStampId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Stamp. تعيين معرف الطابع"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf/stamp/setstampid/
 ---
-## طريقة Stamp.setStampId
+## Stamp.setStampId method
 
-تعيين معرف الطابع.
+يضبط معرف الطابع.
 
 ```csharp
 public void setStampId(int value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Int32 | القيمة الجديدة لمعرف الطابع. |
+| القيمة | Int32 | القيمة الجديدة لمعّرف Stamp. |
 
 ### انظر أيضًا
 
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

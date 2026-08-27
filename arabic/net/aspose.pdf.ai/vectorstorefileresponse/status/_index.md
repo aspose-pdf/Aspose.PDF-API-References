@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreFileResponse. تحصل أو تعين حالة ملف تخزين المتجهات والتي يمكن أن تكون إما قيد التقدم، مكتملة، ملغاة، أو فاشلة. تشير الحالة المكتملة إلى أن ملف تخزين المتجهات جاهز للاستخدام
+title: "VectorStoreFileResponse.Status"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "VectorStoreFileResponse خاصية. يحصل أو يعيّن حالة ملف مخزن المتجهات التي يمكن أن تكون إما in_progress أو completed أو cancelled أو failed. الحالة completed تشير إلى أن ملف مخزن المتجهات جاهز للاستخدام"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/vectorstorefileresponse/status/
 ---
-## خاصية VectorStoreFileResponse.Status
+## VectorStoreFileResponse.Status property
 
-تحصل أو تعين حالة ملف تخزين المتجهات، والتي يمكن أن تكون إما قيد التقدم، مكتملة، ملغاة، أو فاشلة. تشير الحالة المكتملة إلى أن ملف تخزين المتجهات جاهز للاستخدام.
+يحصل أو يعيّن حالة ملف مخزن المتجهات، والتي يمكن أن تكون إما in_progress، completed، cancelled، أو failed. تشير الحالة completed إلى أن ملف مخزن المتجهات جاهز للاستخدام.
 
 ```csharp
 public string Status { get; set; }
@@ -19,3 +19,5 @@ public string Status { get; set; }
 * class [VectorStoreFileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

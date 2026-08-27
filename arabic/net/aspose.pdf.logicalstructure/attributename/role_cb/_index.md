@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Role_cb
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. دور السمة cb  مربع اختيار
+title: "AttributeName.Role_cb"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة Role cb  خانة اختيار"
 type: docs
 weight: 390
 url: /ar/net/aspose.pdf.logicalstructure/attributename/role_cb/
 ---
-## حقل AttributeName.Role_cb
+## AttributeName.Role_cb field
 
-دور السمة: cb - مربع اختيار.
+السمة Role: cb - مربع اختيار.
 
 ```csharp
 public static readonly AttributeName Role_cb;
@@ -19,3 +19,5 @@ public static readonly AttributeName Role_cb;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

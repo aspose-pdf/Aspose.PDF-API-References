@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ActionCollection. تعيد عدادًا للمجموعة
+title: "ActionCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ActionCollection. تُرجع المُعدِّد للمجموعة"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/actioncollection/getenumerator/
 ---
-## طريقة ActionCollection.GetEnumerator
+## ActionCollection.GetEnumerator method
 
-تعيد عدادًا للمجموعة.
+يعيد المُعدِّد للمجموعة.
 
 ```csharp
 public IEnumerator<PdfAction> GetEnumerator()
@@ -24,3 +24,5 @@ public IEnumerator<PdfAction> GetEnumerator()
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

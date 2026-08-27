@@ -1,20 +1,20 @@
 ---
-title: PdfFileSignature.PdfFileSignature
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfFileSignature. مُنشئ فئة PdfFileSignature
+title: "PdfFileSignature.PdfFileSignature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfFileSignature. المنشئ الخاص بفئة PdfFileSignature."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdffilesignature/pdffilesignature/
 ---
 ## PdfFileSignature() {#constructor}
 
-مُنشئ فئة PdfFileSignature.
+المُنشئ لفئة PdfFileSignature.
 
 ```csharp
 public PdfFileSignature()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfFileSignature()
 
 ## PdfFileSignature(Document) {#constructor_1}
 
-يُهيئ كائن جديد من [`PdfFileSignature`](../) بناءً على *المستند*.
+ينشئ كائنًا جديدًا [`PdfFileSignature`](../) على أساس *document*.
 
 ```csharp
 public PdfFileSignature(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document | Document | مستند Pdf. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

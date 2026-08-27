@@ -1,12 +1,12 @@
 ---
-title: CosPdfPrimitive.ToCosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CosPdfPrimitive. تحاول تحويل هذه الحالة إلى CosPdfBoolean
+title: "CosPdfPrimitive.ToCosPdfBoolean"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfPrimitive. يحاول تحويل هذا الكائن إلى CosPdfBoolean"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/
 ---
-## طريقة CosPdfPrimitive.ToCosPdfBoolean
+## CosPdfPrimitive.ToCosPdfBoolean method
 
 تحاول تحويل هذه الحالة إلى [`CosPdfBoolean`](../../cospdfboolean/).
 
@@ -20,7 +20,9 @@ null إذا لم تكن الحالة [`CosPdfBoolean`](../../cospdfboolean/) و�
 
 ### انظر أيضًا
 
-* الفئة [CosPdfBoolean](../../cospdfboolean/)
-* الفئة [CosPdfPrimitive](../)
-* مساحة الأسماء [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../../cospdfboolean/)
+* class [CosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

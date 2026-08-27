@@ -1,29 +1,29 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليق مرفق ملف
+title: "PdfContentEditor.CreateFileAttachment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تُنشئ توضيح مرفق ملف"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
 ---
 ## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment_2}
 
-تنشئ تعليق مرفق ملف.
+ينشئ تعليقة مرفق ملف.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
     string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | المستطيل التعليقي الذي يحدد موقع التعليق على الصفحة. |
-| contents | String | محتويات التعليق. |
-| filePath | String | مسار الملف الذي سيتم إرفاقه. |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق. |
-| name | String | اسم الرمز الذي سيتم استخدامه في عرض التعليق. يمكن أن تكون هذه القيمة: "Graph"، "PushPin"، "Paperclip"، "Tag". |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| contents | String | محتوى التعليق التوضيحي. |
+| filePath | String | سيتم إرفاق مسار الملف. |
+| صفحة | Int32 | عدد الصفحة الأصلية التي سيُنشأ فيها التعليق. |
+| الاسم | String | سيتم استخدام اسم أيقونة في عرض التوضيح. يمكن أن تكون هذه القيمة: "Graph", "PushPin", "Paperclip", "Tag". |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -33,7 +33,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -43,23 +43,23 @@ editor.Save("example_out.pdf");
 
 ## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_3}
 
-تنشئ تعليق مرفق ملف.
+ينشئ تعليقة مرفق ملف.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
     string name, double opacity)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | المستطيل التعليقي الذي يحدد موقع التعليق على الصفحة. |
-| contents | String | محتويات التعليق. |
-| filePath | String | مسار الملف الذي سيتم إرفاقه. |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق. |
-| name | String | اسم الرمز الذي سيتم استخدامه في عرض التعليق. يمكن أن تكون هذه القيمة: "Graph"، "PushPin"، "Paperclip"، "Tag". |
-| opacity | Double | شفافية الرمز من 0 إلى 1: 0 - شفاف تمامًا، 1 - غير شفاف تمامًا. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| contents | String | محتوى التعليق التوضيحي. |
+| filePath | String | سيتم إرفاق مسار الملف. |
+| صفحة | Int32 | عدد الصفحة الأصلية التي سيُنشأ فيها التعليق. |
+| الاسم | String | سيتم استخدام اسم أيقونة في عرض التوضيح. يمكن أن تكون هذه القيمة: "Graph", "PushPin", "Paperclip", "Tag". |
+| العتامة | Double | عتامة الأيقونة من 0 إلى 1: 0 - شفافة تمامًا، 1 - غير شفافة تمامًا. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -69,7 +69,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -79,23 +79,23 @@ editor.Save("example_out.pdf");
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment}
 
-تنشئ تعليق مرفق ملف.
+ينشئ تعليقة مرفق ملف.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
     string attachmentName, int page, string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | المستطيل التعليقي الذي يحدد موقع التعليق على الصفحة. |
-| contents | String | محتويات التعليق. |
-| attachmentStream | Stream | تدفق ملف المرفق. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| contents | String | محتوى التعليق التوضيحي. |
+| attachmentStream | Stream | دفق ملف المرفق. |
 | attachmentName | String | اسم المرفق. |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق. |
-| name | String | اسم الرمز الذي سيتم استخدامه في عرض التعليق. يمكن أن تكون هذه القيمة: "Graph"، "PushPin"، "Paperclip"، "Tag". |
+| صفحة | Int32 | عدد الصفحة الأصلية التي سيُنشأ فيها التعليق. |
+| الاسم | String | سيتم استخدام اسم أيقونة في عرض التوضيح. يمكن أن تكون هذه القيمة: "Graph", "PushPin", "Paperclip", "Tag". |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -108,7 +108,7 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -118,24 +118,24 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_1}
 
-تنشئ تعليق مرفق ملف.
+ينشئ تعليقة مرفق ملف.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
     string attachmentName, int page, string name, double opacity)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | المستطيل التعليقي الذي يحدد موقع التعليق على الصفحة. |
-| contents | String | محتويات التعليق. |
-| attachmentStream | Stream | تدفق ملف المرفق. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| contents | String | محتوى التعليق التوضيحي. |
+| attachmentStream | Stream | دفق ملف المرفق. |
 | attachmentName | String | اسم المرفق. |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق. |
-| name | String | اسم الرمز الذي سيتم استخدامه في عرض التعليق. يمكن أن تكون هذه القيمة: "Graph"، "PushPin"، "Paperclip"، "Tag". |
-| opacity | Double | شفافية الرمز من 0 إلى 1: 0 - شفاف تمامًا، 1 - غير شفاف تمامًا. |
+| صفحة | Int32 | عدد الصفحة الأصلية التي سيُنشأ فيها التعليق. |
+| الاسم | String | سيتم استخدام اسم أيقونة في عرض التوضيح. يمكن أن تكون هذه القيمة: "Graph", "PushPin", "Paperclip", "Tag". |
+| العتامة | Double | عتامة الأيقونة من 0 إلى 1: 0 - شفافة تمامًا، 1 - غير شفافة تمامًا. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -148,8 +148,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Field.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. تحصل أو تعين قيمة الحقل
+title: "Field.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. يحصل على أو يعيّن قيمة الحقل"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.forms/field/value/
 ---
-## خاصية Field.Value
+## Field.Value property
 
-تحصل أو تعين قيمة الحقل.
+يحصل أو يعيّن قيمة الحقل.
 
 ```csharp
 public virtual string Value { get; set; }
@@ -19,3 +19,5 @@ public virtual string Value { get; set; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

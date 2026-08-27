@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChoiceField. تحصل أو تعين قيمة الحقل
+title: "ChoiceField.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChoiceField. يحصل أو يضبط قيمة الحقل"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/choicefield/value/
 ---
-## خاصية ChoiceField.Value
+## ChoiceField.Value property
 
-تحصل أو تعين قيمة الحقل.
+يحصل أو يعيّن قيمة الحقل.
 
 ```csharp
 public override string Value { get; set; }
@@ -19,3 +19,5 @@ public override string Value { get; set; }
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,30 @@
 ---
-title: Enum ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColumnAdjustment enum. تصف أنواع تعديل الأعمدة
+title: "تعداد ColumnAdjustment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.ColumnAdjustment. يعدد أنواع تعديل الأعمدة"
 type: docs
-weight: 3110
+weight: 3220
 url: /ar/net/aspose.pdf/columnadjustment/
 ---
 ## ColumnAdjustment enumeration
 
-تصف أنواع تعديل الأعمدة.
+يعدّ أنواع تعديل الأعمدة.
 
 ```csharp
 public enum ColumnAdjustment
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Customized | `0` | مخصص. |
-| AutoFitToContent | `1` | التكيف التلقائي مع المحتوى. |
-| AutoFitToWindow | `2` | التكيف التلقائي مع النافذة. |
+| AutoFitToContent | `1` | ملاءمة تلقائية للمحتوى. |
+| AutoFitToWindow | `2` | ملاءمة تلقائية للنافذة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Enum PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageLayout enum. يصف تخطيط الصفحة
+title: "التعداد PageLayout"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.PageLayout. يصف تخطيط الصفحة"
 type: docs
-weight: 8180
+weight: 8320
 url: /ar/net/aspose.pdf/pagelayout/
 ---
 ## PageLayout enumeration
@@ -14,19 +14,21 @@ url: /ar/net/aspose.pdf/pagelayout/
 public enum PageLayout
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | SinglePage | `0` | صفحة واحدة. |
-| OneColumn | `1` | عرض الصفحات في عمود واحد. |
-| TwoColumnLeft | `2` | عرض الصفحات في عمودين، مع الصفحات ذات الأرقام الفردية على اليسار. |
-| TwoColumnRight | `3` | عرض الصفحات في عمودين، مع الصفحات ذات الأرقام الفردية على اليمين. |
-| TwoPageLeft | `4` | عرض الصفحات اثنتين في كل مرة، مع الصفحات ذات الأرقام الفردية على اليسار. |
-| TwoPageRight | `5` | عرض الصفحات اثنتين في كل مرة، مع الصفحات ذات الأرقام الفردية على اليمين. |
+| OneColumn | `1` | اعرض الصفحات في عمود واحد. |
+| TwoColumnLeft | `2` | اعرض الصفحات في عمودين، مع الصفحات ذات الأرقام الفردية على اليسار. |
+| TwoColumnRight | `3` | اعرض الصفحات في عمودين، مع الصفحات ذات الأرقام الفردية على اليمين. |
+| TwoPageLeft | `4` | اعرض الصفحات صفحتين في كل مرة، مع الصفحات ذات الأرقام الفردية على اليسار. |
+| TwoPageRight | `5` | اعرض الصفحات صفحتين في كل مرة، مع الصفحات ذات الأرقام الفردية على اليمين. |
 | Default | `6` | التخطيط الافتراضي. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

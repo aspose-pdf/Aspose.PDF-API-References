@@ -1,22 +1,22 @@
 ---
-title: RichMediaAnnotation.AddCustomData
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة RichMediaAnnotation. أضف بيانات مخصصة مسماة على سبيل المثال المطلوبة لبرنامج الفلاش
+title: "RichMediaAnnotation.AddCustomData"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "RichMediaAnnotation method. إضافة بيانات مسماة مخصصة على سبيل المثال المطلوبة لسكريبت الفلاش"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/richmediaannotation/addcustomdata/
 ---
-## طريقة RichMediaAnnotation.AddCustomData
+## RichMediaAnnotation.AddCustomData method
 
-أضف بيانات مخصصة مسماة (على سبيل المثال المطلوبة لبرنامج الفلاش).
+أضف بيانات مسماة مخصصة (على سبيل المثال المطلوبة لسكريبت الفلاش).
 
 ```csharp
 public void AddCustomData(string name, Stream data)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم البيانات. |
+| الاسم | String | اسم البيانات. |
 | data | Stream | البيانات. |
 
 ### انظر أيضًا
@@ -24,3 +24,5 @@ public void AddCustomData(string name, Stream data)
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

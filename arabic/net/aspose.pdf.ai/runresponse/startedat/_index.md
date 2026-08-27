@@ -1,14 +1,14 @@
 ---
-title: RunResponse.StartedAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين الطابع الزمني Unix بالثواني لوقت بدء التشغيل
+title: "RunResponse.StartedAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. يحصل على أو يعيّن الطابع الزمني Unix بالثواني للوقت الذي بدأ فيه التشغيل"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.ai/runresponse/startedat/
 ---
-## خاصية RunResponse.StartedAt
+## RunResponse.StartedAt property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) لوقت بدء التشغيل.
+يحصل أو يعيّن الطابع الزمني يونيكس (بالثواني) للوقت الذي بدأ فيه التشغيل.
 
 ```csharp
 public long? StartedAt { get; set; }
@@ -19,3 +19,5 @@ public long? StartedAt { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

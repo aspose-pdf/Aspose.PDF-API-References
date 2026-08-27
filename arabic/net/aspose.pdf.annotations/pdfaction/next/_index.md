@@ -1,12 +1,12 @@
 ---
-title: PdfAction.Next
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAction. الإجراءات التالية في التسلسل
+title: "PdfAction.Next"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAction. الإجراءات التالية في التسلسل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdfaction/next/
 ---
-## خاصية PdfAction.Next
+## PdfAction.Next property
 
 الإجراءات التالية في التسلسل.
 
@@ -20,3 +20,5 @@ public ActionCollection Next { get; }
 * class [PdfAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

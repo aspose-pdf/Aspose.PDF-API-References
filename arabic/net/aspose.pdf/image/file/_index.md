@@ -1,14 +1,14 @@
 ---
-title: Image.File
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين ملف الصورة
+title: "Image.File"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع أو يعيّن ملف الصورة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/image/file/
 ---
-## خاصية Image.File
+## Image.File property
 
-تحصل أو تعين ملف الصورة.
+يحصل أو يعيّن ملف الصورة.
 
 ```csharp
 public string File { get; set; }
@@ -19,3 +19,5 @@ public string File { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

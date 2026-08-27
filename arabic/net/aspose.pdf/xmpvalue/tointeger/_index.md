@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToInteger
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تحويل إلى عدد صحيح
+title: "XmpValue.ToInteger"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. يحول إلى عدد صحيح"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/xmpvalue/tointeger/
 ---
-## طريقة XmpValue.ToInteger
+## XmpValue.ToInteger method
 
-تحويل إلى عدد صحيح.
+يحول إلى عدد صحيح.
 
 ```csharp
 public int ToInteger()
@@ -23,3 +23,5 @@ public int ToInteger()
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

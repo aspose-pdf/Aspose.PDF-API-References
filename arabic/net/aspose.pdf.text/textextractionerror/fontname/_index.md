@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextExtractionError. الاسم الداخلي القابل للقراءة لكائن الخط الذي يُستخدم لعرض النص الذي يسبب خطأ في الاستخراج
+title: "TextExtractionError.FontName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextExtractionError. الاسم الداخلي القابل للقراءة لكائن Font المستخدم لعرض النص الذي يسبب خطأ الاستخراج"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textextractionerror/fontname/
 ---
-## خاصية TextExtractionError.FontName
+## TextExtractionError.FontName property
 
-الاسم القابل للقراءة (الداخلي) لكائن الخط الذي يُستخدم لعرض النص الذي يسبب خطأ في الاستخراج.
+الاسم القابل للقراءة (الداخلي) لكائن Font المستخدم لعرض النص الذي يسبب خطأ الاستخراج.
 
 ```csharp
 public string FontName { get; }
@@ -19,3 +19,5 @@ public string FontName { get; }
 * class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

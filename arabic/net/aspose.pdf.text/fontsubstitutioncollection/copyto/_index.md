@@ -1,23 +1,23 @@
 ---
-title: FontSubstitutionCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontSubstitutionCollection. تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة بدءًا من الفهرس المحدد لمصفوفة الهدف
+title: "FontSubstitutionCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontSubstitutionCollection. تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة بدءًا من الفهرس المحدد للمصفوفة الهدف"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/fontsubstitutioncollection/copyto/
 ---
-## طريقة FontSubstitutionCollection.CopyTo
+## FontSubstitutionCollection.CopyTo method
 
-تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لمصفوفة الهدف
+ينسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد للمصفوفة الهدف
 
 ```csharp
 public void CopyTo(FontSubstitution[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | FontSubstitution[] | مصفوفة من الكائنات التي سيتم نسخها. |
-| index | Int32 | الفهرس الذي ستبدأ منه عملية النسخ. |
+| مصفوفة | FontSubstitution[] | Array of objects which will be copied. |
+| index | Int32 | Starting index from which copying will be started. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void CopyTo(FontSubstitution[] array, int index)
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

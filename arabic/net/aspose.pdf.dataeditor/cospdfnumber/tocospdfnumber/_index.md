@@ -1,25 +1,27 @@
 ---
-title: CosPdfNumber.ToCosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CosPdfNumber. تحاول تحويل هذه الحالة إلى CosPdfNumber
+title: "CosPdfNumber.ToCosPdfNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfNumber. تحاول تحويل هذا الكائن إلى CosPdfNumber"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.dataeditor/cospdfnumber/tocospdfnumber/
 ---
 ## CosPdfNumber.ToCosPdfNumber method
 
-تحاول تحويل هذه الحالة إلى [`CosPdfNumber`](../).
+تحاول تحويل هذا الكائن إلى [`CosPdfNumber`](../).
 
 ```csharp
 public override CosPdfNumber ToCosPdfNumber()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-null إذا كانت الحالة ليست [`CosPdfNumber`](../) وإلا [`CosPdfNumber`](../).
+null إذا لم يكن الكائن من نوع [`CosPdfNumber`](../) وإلا [`CosPdfNumber`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

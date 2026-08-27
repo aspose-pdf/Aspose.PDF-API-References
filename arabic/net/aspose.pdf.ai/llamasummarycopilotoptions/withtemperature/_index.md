@@ -1,29 +1,31 @@
 ---
-title: LlamaSummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تعيين درجة الحرارة لخيارات ملخص المساعد
+title: "LlamaSummaryCopilotOptions.WithTemperature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تحدد درجة الحرارة لخيارات مساعد الملخص."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/
 ---
-## طريقة LlamaSummaryCopilotOptions.WithTemperature
+## LlamaSummaryCopilotOptions.WithTemperature method
 
-تعيين درجة الحرارة لخيارات ملخص المساعد.
+يضبط درجة الحرارة لخيارات المساعد الملخص.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithTemperature(double? temperature)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| temperature | Nullable`1 | درجة الحرارة التي سيتم تعيينها. |
+| درجة الحرارة | Nullable`1 | درجة الحرارة التي سيتم ضبطها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.EmbeddedFiles
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على مجموعة من الملفات المدمجة في الوثيقة
+title: "Document.EmbeddedFiles"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Document property. يحصل على مجموعة الملفات المدمجة في المستند"
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.pdf/document/embeddedfiles/
 ---
-## خاصية Document.EmbeddedFiles
+## Document.EmbeddedFiles property
 
-تحصل على مجموعة من الملفات المدمجة في الوثيقة.
+يحصل على مجموعة الملفات المضمّنة في المستند.
 
 ```csharp
 public EmbeddedFileCollection EmbeddedFiles { get; }
@@ -20,3 +20,5 @@ public EmbeddedFileCollection EmbeddedFiles { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

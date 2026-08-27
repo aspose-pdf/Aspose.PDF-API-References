@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية الملخص مالك خاصية الجدول
+title: "AttributeKey.Summary"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة Summary سمة Table المالك"
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
-## حقل AttributeKey.Summary
+## AttributeKey.Summary field
 
-خاصية الملخص (مالك خاصية الجدول).
+خاصية Summary (مالك خاصية Table).
 
 ```csharp
 public static readonly AttributeKey Summary;
@@ -19,3 +19,5 @@ public static readonly AttributeKey Summary;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

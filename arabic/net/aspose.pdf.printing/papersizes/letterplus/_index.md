@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterPlus
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق ليتربلس 8.5 بوصة × 12.69 بوصة
+title: "PaperSizes.LetterPlus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورقة Letter plus 8.5 بوصة × 12.69 بوصة"
 type: docs
 weight: 680
 url: /ar/net/aspose.pdf.printing/papersizes/letterplus/
 ---
-## حقل PaperSizes.LetterPlus
+## PaperSizes.LetterPlus field
 
-ورق ليتربلس (8.5 بوصة × 12.69 بوصة).
+ورق رسالة بلس (8.5 بوصة × 12.69 بوصة).
 
 ```csharp
 public static readonly PaperSize LetterPlus;
@@ -20,3 +20,5 @@ public static readonly PaperSize LetterPlus;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

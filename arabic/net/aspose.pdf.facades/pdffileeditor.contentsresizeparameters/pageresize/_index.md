@@ -1,30 +1,32 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.PageResize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ContentsResizeParameters. تنشئ معلمات تغيير الحجم لتغيير حجم الصفحة
+title: "PdfFileEditor.ContentsResizeParameters.PageResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ContentsResizeParameters. تنشئ معلمات تغيير الحجم لتغيير حجم الصفحة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize/
 ---
 ## PdfFileEditor.ContentsResizeParameters.PageResize method
 
-يخلق معلمات تغيير الحجم لتغيير حجم الصفحة.
+ينشئ معلمات تغيير الحجم لإعادة تحجيم الصفحة.
 
 ```csharp
 public static ContentsResizeParameters PageResize(double width, double height)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Double | عرض الصفحة الجديد بالوحدات. |
-| height | Double | ارتفاع الصفحة الجديد بالوحدات. |
+| العرض | Double | عرض الصفحة الجديد بالوحدات. |
+| الارتفاع | Double | ارتفاع الصفحة الجديد بالوحدات. |
 
-### Return Value
+### قيمة الإرجاع
 
 معلمات تغيير الحجم الجديدة.
 
-### See Also
+### انظر أيضًا
 
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

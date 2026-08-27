@@ -1,12 +1,12 @@
 ---
-title: Outlines.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Outlines. إزالة عنصر مجموعة المخطط
+title: "Outlines.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Outlines. إزالة عنصر مجموعة المخطط"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/outlines/remove/
 ---
-## طريقة Outlines.Remove
+## Outlines.Remove method
 
 إزالة عنصر مجموعة المخطط.
 
@@ -14,13 +14,13 @@ url: /ar/net/aspose.pdf/outlines/remove/
 public abstract bool Remove(OutlineItemCollection item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | OutlineItemCollection | العنصر المراد حذفه. |
 
 ### قيمة الإرجاع
 
-صحيح - إذا تم إزالة العنصر؛ خلاف ذلك، خطأ.
+صحيح - إذا تم إزالة العنصر؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public abstract bool Remove(OutlineItemCollection item)
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: Measure.NumberFormatList.NumberFormatList
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ NumberFormatList. مُنشئ لـ NumberFormatList
+title: "Measure.NumberFormatList.NumberFormatList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ NumberFormatList. منشئ لـ NumberFormatList"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/measure.numberformatlist/numberformatlist/
 ---
-## مُنشئ Measure.NumberFormatList
+## Measure.NumberFormatList constructor
 
-مُنشئ لـ NumberFormatList.
+منشئ لـ NumberFormatList.
 
 ```csharp
 public NumberFormatList(Measure measure)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| measure | Measure | كائن القياس الأب. |
+| قياس | قياس | كائن القياس الأب. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public NumberFormatList(Measure measure)
 * class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

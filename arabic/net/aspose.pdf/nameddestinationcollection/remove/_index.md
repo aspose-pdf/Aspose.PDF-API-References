@@ -1,7 +1,7 @@
 ---
-title: NamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection method. حذف الوجهة المسماة
+title: "NamedDestinationCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة NamedDestinationCollection. حذف الوجهة المسماة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/nameddestinationcollection/remove/
@@ -14,12 +14,14 @@ url: /ar/net/aspose.pdf/nameddestinationcollection/remove/
 public void Remove(string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الوجهة المراد حذفها. |
+| الاسم | String | اسم الوجهة المراد حذفها. |
 
-### See Also
+### انظر أيضًا
 
 * class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

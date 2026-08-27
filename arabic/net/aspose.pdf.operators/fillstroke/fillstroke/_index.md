@@ -1,14 +1,14 @@
 ---
-title: FillStroke.FillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FillStroke. يُهيئ المُشغل
+title: "FillStroke.FillStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FillStroke. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/fillstroke/fillstroke/
 ---
-## مُنشئ FillStroke
+## FillStroke constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public FillStroke()
@@ -19,3 +19,5 @@ public FillStroke()
 * class [FillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

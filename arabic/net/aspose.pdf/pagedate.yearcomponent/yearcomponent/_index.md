@@ -1,14 +1,14 @@
 ---
-title: PageDate.YearComponent.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ YearComponent. المُنشئ الافتراضي
+title: "PageDate.YearComponent.YearComponent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ YearComponent. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagedate.yearcomponent/yearcomponent/
 ---
-## مُنشئ PageDate.YearComponent
+## PageDate.YearComponent constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public YearComponent()
@@ -19,3 +19,5 @@ public YearComponent()
 * class [YearComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

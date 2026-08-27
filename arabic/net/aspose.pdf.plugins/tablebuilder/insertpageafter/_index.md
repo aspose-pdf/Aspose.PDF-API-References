@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.InsertPageAfter
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableBuilder. إدراج صفحة بعد الصفحة المحددة
+title: "TableBuilder.InsertPageAfter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableBuilder. إدراج صفحة بعد الصفحة المحددة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/tablebuilder/insertpageafter/
 ---
-## طريقة TableBuilder.InsertPageAfter
+## TableBuilder.InsertPageAfter method
 
 إدراج صفحة بعد الصفحة المحددة.
 
@@ -14,17 +14,19 @@ url: /ar/net/aspose.pdf.plugins/tablebuilder/insertpageafter/
 public TableOptions InsertPageAfter(int page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Int32 | رقم الصفحة لإدراج الجدول بعدها. |
+| صفحة | Int32 | رقم الصفحة لإدراج الجدول بعده. |
 
 ### قيمة الإرجاع
 
-مثيل من [`TableOptions`](../../tableoptions/).
+مثيل من الحالي [`TableOptions`](../../tableoptions/).
 
 ### انظر أيضًا
 
-* فئة [TableOptions](../../tableoptions/)
-* فئة [TableBuilder](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

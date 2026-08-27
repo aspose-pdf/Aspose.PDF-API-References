@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicElement. تحصل أو تعين الموضع في نظام الإحداثيات الحالي. إذا كان Parent ليس null، فإن العنصر لديه نظام إحداثيات xForm
+title: "GraphicElement.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicElement. تُرجِع أو تُعيّن الموضع في مساحة الإحداثيات الحالية. إذا كان Parent ليس null فإن للعنصر مساحة إحداثيات xForm"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.vector/graphicelement/position/
 ---
-## خاصية GraphicElement.Position
+## GraphicElement.Position property
 
-تحصل أو تعين الموضع في نظام الإحداثيات الحالي. إذا كان [`Parent`](../parent/) ليس !:null، فإن العنصر لديه نظام إحداثيات xForm.
+تُرجِع أو تُعيّن الموضع في مساحة الإحداثيات الحالية. إذا كان [`Parent`](../parent/) ليس !:null فإن للعنصر مساحة إحداثيات xForm.
 
 ```csharp
 public virtual Point Position { get; set; }
@@ -20,3 +20,5 @@ public virtual Point Position { get; set; }
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

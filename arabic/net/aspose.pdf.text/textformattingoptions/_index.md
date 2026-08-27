@@ -1,14 +1,14 @@
 ---
-title: Class TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.TextFormattingOptions. تمثل خيارات تنسيق النص
+title: "الفئة TextFormattingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.TextFormattingOptions. تمثل خيارات تنسيق النص"
 type: docs
-weight: 10910
+weight: 11090
 url: /ar/net/aspose.pdf.text/textformattingoptions/
 ---
-## فئة خيارات تنسيق النص
+## TextFormattingOptions class
 
-تمثل خيارات تنسيق النص
+يمثل خيارات تنسيق النص
 
 ```csharp
 public sealed class TextFormattingOptions : TextOptions
@@ -18,21 +18,23 @@ public sealed class TextFormattingOptions : TextOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [TextFormattingOptions](textformattingoptions/#constructor)() | يقوم بتهيئة مثيل جديد من كائن `TextFormattingOptions` مع وضع لف الكلمات غير المحدد. |
-| [TextFormattingOptions](textformattingoptions/#constructor_1)(WordWrapMode) | يقوم بتهيئة مثيل جديد من كائن `TextFormattingOptions` لوضع لف الكلمات المحدد. |
+| [TextFormattingOptions](textformattingoptions/#constructor)() | ينشئ مثيلاً جديدًا لكائن `TextFormattingOptions` مع وضع التفاف الكلمات غير معرف. |
+| [TextFormattingOptions](textformattingoptions/#constructor_1)(WordWrapMode) | ينشئ مثيلاً جديدًا لكائن `TextFormattingOptions` للوضـع المحدد لتفاف الكلمات. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent/) { get; set; } | يحصل أو يحدد قيمة إزاحة السطر الأول. |
-| [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol/) { get; set; } | يحصل أو يحدد رمز الشرط الذي يستخدم في عملية تقسيم الكلمات. |
-| [LineSpacing](../../aspose.pdf.text/textformattingoptions/linespacing/) { get; set; } | يحصل أو يحدد وضع تباعد الأسطر. القيمة الافتراضية هي LineSpacingMode.FontSize |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent/) { get; set; } | يحصل أو يحدد قيمة إزاحة الأسطر التالية. |
-| [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode/) { get; set; } | يحصل أو يحدد وضع لف الكلمات. القيمة الافتراضية هي WordWrapMode.NoWrap |
+| [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent/) { get; set; } | يحصل أو يضبط قيمة إزاحة السطر الأول. |
+| [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol/) { get; set; } | يحصل أو يضبط رمز الواصلة الذي يُستخدم في عملية التجزئة. |
+| [LineSpacing](../../aspose.pdf.text/textformattingoptions/linespacing/) { get; set; } | يحصل أو يضبط وضع تباعد السطر. القيمة الافتراضية هي LineSpacingMode.FontSize |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent/) { get; set; } | يحصل أو يضبط قيمة إزاحة الأسطر اللاحقة. |
+| [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode/) { get; set; } | يحصل أو يضبط وضع التفاف الكلمات. القيمة الافتراضية هي WordWrapMode.NoWrap |
 
 ### انظر أيضًا
 
-* فئة [TextOptions](../textoptions/)
-* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* class [TextOptions](../textoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

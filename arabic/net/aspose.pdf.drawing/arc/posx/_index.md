@@ -1,14 +1,14 @@
 ---
-title: Arc.PosX
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القوس. تحصل أو تعين قيمة عائمة تشير إلى إحداثي x لمركز القوس
+title: "Arc.PosX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Arc. تحصل أو تعيين قيمة عائمة تشير إلى الإحداثي السيني لمركز القوس"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.drawing/arc/posx/
 ---
-## خاصية Arc.PosX
+## Arc.PosX property
 
-تحصل أو تعين قيمة عائمة تشير إلى إحداثي x لمركز القوس.
+يحصل أو يعيّن قيمة float تُشير إلى إحداثي x لمركز القوس.
 
 ```csharp
 public double PosX { get; set; }
@@ -19,3 +19,5 @@ public double PosX { get; set; }
 * class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

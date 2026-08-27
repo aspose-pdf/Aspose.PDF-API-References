@@ -1,43 +1,45 @@
 ---
-title: Class ListDataResponseT
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ListDataResponse1T. تمثل استجابة بيانات قائمة تحتوي على معلومات إضافية مثل أول وآخر معرفات وما إذا كانت هناك عناصر أخرى
+title: "الفئة ListDataResponseT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.ListDataResponse1T. تمثل استجابة بيانات قائمة تحتوي على معلومات إضافية مثل المعرفات الأولى والأخيرة وما إذا كان هناك المزيد من العناصر."
 type: docs
-weight: 670
+weight: 720
 url: /ar/net/aspose.pdf.ai/listdataresponse-1/
 ---
 ## ListDataResponse&lt;T&gt; class
 
-تمثل استجابة بيانات قائمة تحتوي على معلومات إضافية مثل أول وآخر معرفات وما إذا كانت هناك عناصر أخرى.
+يمثل استجابة بيانات قائمة تحتوي على معلومات إضافية مثل المعرفات الأولى والأخيرة وما إذا كان هناك مزيد من العناصر.
 
 ```csharp
 public class ListDataResponse<T> : DataResponse<T>
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ListDataResponse](listdataresponse/)() | المُنشئ الافتراضي. |
+| [ListDataResponse](listdataresponse/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } |  |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يحصل أو يحدد تفاصيل الاستجابة. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يحصل أو يحدد خطأ استجابة HTTP. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يحصل أو يحدد معلومات الخطأ. |
-| [FirstId](../../aspose.pdf.ai/listdataresponse-1/firstid/) { get; set; } | يحصل أو يحدد أول معرف في القائمة. |
-| [HasMore](../../aspose.pdf.ai/listdataresponse-1/hasmore/) { get; set; } | يحصل أو يحدد قيمة تشير إلى ما إذا كانت هناك عناصر أخرى في القائمة. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يحصل أو يحدد رؤوس استجابة HTTP. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يحصل أو يحدد رمز حالة HTTP. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يتم الحصول على أو تعيين تفاصيل الاستجابة. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يتم الحصول على أو تعيين خطأ استجابة HTTP. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يتم الحصول على أو تعيين معلومات الخطأ. |
+| [FirstId](../../aspose.pdf.ai/listdataresponse-1/firstid/) { get; set; } | يحصل أو يعيّن المعرف الأول في القائمة. |
+| [HasMore](../../aspose.pdf.ai/listdataresponse-1/hasmore/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هناك المزيد من العناصر في القائمة. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يتم الحصول على أو تعيين رؤوس استجابة HTTP. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يتم الحصول على أو تعيين رمز حالة HTTP. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | يشير إلى ما إذا كانت الاستجابة ناجحة. |
-| [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } | يحصل أو يحدد آخر معرف في القائمة. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يحصل على عبارة سبب الخطأ. |
+| [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } | يحصل أو يعيّن المعرف الأخير في القائمة. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يتم الحصول على عبارة سبب الخطأ. |
 
-### See Also
+### انظر أيضًا
 
 * class [DataResponse&lt;T&gt;](../dataresponse-1/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

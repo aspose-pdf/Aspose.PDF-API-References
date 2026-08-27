@@ -1,26 +1,28 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الطبقة. يقوم بتهيئة مثيل جديد من فئة الطبقة
+title: "Layer.Layer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Layer. يهيئ نسخة جديدة من الفئة Layer"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/layer/layer/
 ---
-## مُنشئ الطبقة
+## Layer constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`Layer`](../).
+يهيئ نسخة جديدة من الفئة [`Layer`](../).
 
 ```csharp
 public Layer(string id, string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| id | سلسلة | معرف الطبقة |
-| name | سلسلة | اسم الطبقة |
+| معرّف | String | معرف الطبقة |
+| الاسم | String | اسم الطبقة |
 
 ### انظر أيضًا
 
-* فئة [Layer](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

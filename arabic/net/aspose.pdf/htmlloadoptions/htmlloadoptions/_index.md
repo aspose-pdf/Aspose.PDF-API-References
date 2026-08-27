@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ HtmlLoadOptions. ينشئ خيارات تحميل لتحويل html إلى مستند pdf مع مسار أساسي فارغ
+title: "HtmlLoadOptions.HtmlLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "HtmlLoadOptions المُنشئ. ينشئ خيارات التحميل لتحويل html إلى مستند pdf مع مسار أساسي فارغ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/htmlloadoptions/htmlloadoptions/
 ---
 ## HtmlLoadOptions() {#constructor}
 
-ينشئ خيارات تحميل لتحويل html إلى مستند pdf مع مسار أساسي فارغ.
+ينشئ خيارات التحميل لتحويل html إلى مستند pdf مع مسار أساسي فارغ.
 
 ```csharp
 public HtmlLoadOptions()
@@ -24,18 +24,20 @@ public HtmlLoadOptions()
 
 ## HtmlLoadOptions(string) {#constructor_1}
 
-ينشئ خيارات تحميل لتحويل html إلى مستند pdf مع مسار أساسي محدد.
+ينشئ خيارات التحميل لتحويل html إلى مستند pdf مع مسار أساسي محدد.
 
 ```csharp
 public HtmlLoadOptions(string basePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| basePath | String | مسار/رابط الأساس لملف html. |
+| basePath | String | المسار/الرابط الأساسي لملف html. |
 
 ### انظر أيضًا
 
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

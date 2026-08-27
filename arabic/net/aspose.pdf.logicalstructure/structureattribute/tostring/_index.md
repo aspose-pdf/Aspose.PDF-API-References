@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute method.
+title: "StructureAttribute.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttribute."
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/tostring/
 ---
-## طريقة StructureAttribute.ToString
+## StructureAttribute.ToString method
 
 ```csharp
 public override string ToString()
@@ -17,3 +17,5 @@ public override string ToString()
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

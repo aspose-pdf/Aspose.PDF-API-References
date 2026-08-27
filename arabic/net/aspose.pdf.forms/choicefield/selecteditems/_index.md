@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.SelectedItems
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChoiceField. تحصل أو تعين مصفوفة العناصر المحددة. لقائمة متعددة التحديد تحتوي المصفوفة على أكثر من عنصر واحد. لقائمة التحديد الفردي تحتوي على عنصر واحد فقط.
+title: "ChoiceField.SelectedItems"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChoiceField. يحصل أو يضبط مصفوفة العناصر المحددة. بالنسبة لقائمة متعددة الاختيارات، تحتوي المصفوفة على أكثر من عنصر. بالنسبة لقائمة اختيار واحد، تحتوي على عنصر واحد"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/choicefield/selecteditems/
 ---
-## خاصية ChoiceField.SelectedItems
+## ChoiceField.SelectedItems property
 
-تحصل أو تعين مصفوفة العناصر المحددة. لقائمة متعددة التحديد تحتوي المصفوفة على أكثر من عنصر واحد. لقائمة التحديد الفردي تحتوي على عنصر واحد فقط.
+يحصل أو يعيّن مصفوفة العناصر المحددة. في قائمة متعددة الاختيارات تحتوي المصفوفة على أكثر من عنصر. في قائمة اختيار فردي تحتوي على عنصر واحد.
 
 ```csharp
 public virtual int[] SelectedItems { get; set; }
@@ -19,3 +19,5 @@ public virtual int[] SelectedItems { get; set; }
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorber.IsMulticolumnParagraphsAllowed
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ParagraphAbsorber. تحصل أو تعين قيمة تشير إلى ما إذا كان يمكن اعتبار سطور النص الابتدائية من قسم التالي كاستمرار للفقرة الأخيرة من القسم السابق
+title: "ParagraphAbsorber.IsMulticolumnParagraphsAllowed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ParagraphAbsorber. تحصّل أو تعيين القيمة التي تشير إلى ما إذا كان يمكن اعتبار سطور النص الأولية للقسم التالي استمرارًا للفقرة الأخيرة من القسم السابق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed/
 ---
-## خاصية ParagraphAbsorber.IsMulticolumnParagraphsAllowed
+## ParagraphAbsorber.IsMulticolumnParagraphsAllowed property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان يمكن اعتبار سطور النص الابتدائية من قسم التالي كاستمرار للفقرة الأخيرة من القسم السابق.
+يحصل أو يضبط القيمة التي تشير إلى ما إذا كان يمكن اعتبار سطور النص البداية للقسم التالي استمرارًا للفقرة الأخيرة في القسم السابق.
 
 ```csharp
 public bool IsMulticolumnParagraphsAllowed { get; set; }
@@ -19,3 +19,5 @@ public bool IsMulticolumnParagraphsAllowed { get; set; }
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

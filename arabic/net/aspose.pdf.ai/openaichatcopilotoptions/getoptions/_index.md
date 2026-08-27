@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تحصل على خيارات OpenAIChatCopilotOptions الحالية
+title: "OpenAIChatCopilotOptions.GetOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. يحصل على OpenAIChatCopilotOptions الحالي"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/
 ---
-## طريقة OpenAIChatCopilotOptions.GetOptions
+## OpenAIChatCopilotOptions.GetOptions method
 
-تحصل على [`OpenAIChatCopilotOptions`](../) الحالية.
+يحصل على الـ [`OpenAIChatCopilotOptions`](../) الحالي.
 
 ```csharp
 public OpenAIChatCopilotOptions GetOptions()
@@ -16,10 +16,12 @@ public OpenAIChatCopilotOptions GetOptions()
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* فئة [OpenAIChatCopilotOptions](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

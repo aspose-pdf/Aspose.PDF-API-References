@@ -1,14 +1,14 @@
 ---
-title: NumberField.NumberField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ NumberField. يُهيئ مثيلًا جديدًا من فئة NumberField
+title: "NumberField.NumberField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ NumberField. يهيئ مثيلاً جديداً من الفئة NumberField."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/numberfield/numberfield/
 ---
 ## NumberField() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`NumberField`](../).
+يهيئ مثيلاً جديداً من الفئة [`NumberField`](../).
 
 ```csharp
 public NumberField()
@@ -16,52 +16,54 @@ public NumberField()
 
 ### انظر أيضًا
 
-* فئة [NumberField](../)
-* مساحة الأسماء [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../../)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## NumberField(Page, Rectangle) {#constructor_2}
 
-يُهيئ مثيلًا جديدًا من فئة [`NumberField`](../).
+يهيئ مثيلاً جديداً من الفئة [`NumberField`](../).
 
 ```csharp
 public NumberField(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي وُضِع فيها حقل النص. |
-| rect | Rectangle | المستطيل الذي سيتم وضع الحقل عليه في الصفحة. |
+| صفحة | صفحة | Page التي يتم وضع حقل النص فيها. |
+| rect | Rectangle | Rectangle حيث سيتم وضع الحقل على الصفحة. |
 
 ### انظر أيضًا
 
-* فئة [Page](../../../aspose.pdf/page/)
-* فئة [Rectangle](../../../aspose.pdf/rectangle/)
-* فئة [NumberField](../)
-* مساحة الأسماء [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## NumberField(Document, Rectangle) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`NumberField`](../).
+يهيئ مثيلاً جديداً من الفئة [`NumberField`](../).
 
 ```csharp
 public NumberField(Document doc, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
-| rect | Rectangle | المستطيل الخاص بالحقل. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
+| rect | Rectangle | Rectangle الخاص بالحقل. |
 
 ### انظر أيضًا
 
-* فئة [Document](../../../aspose.pdf/document/)
-* فئة [Rectangle](../../../aspose.pdf/rectangle/)
-* فئة [NumberField](../)
-* مساحة الأسماء [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

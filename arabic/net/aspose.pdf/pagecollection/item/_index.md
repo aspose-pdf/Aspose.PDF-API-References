@@ -1,20 +1,20 @@
 ---
-title: PageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageCollection. يحصل على الصفحة بواسطة الفهرس
+title: "PageCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageCollection. تحصل على الصفحة حسب الفهرس"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/pagecollection/item/
 ---
-## فهرس PageCollection
+## PageCollection indexer
 
-يحصل على الصفحة بواسطة الفهرس.
+يحصل على الصفحة حسب الفهرس.
 
 ```csharp
 public Page this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الصفحة. |
 
@@ -28,3 +28,5 @@ public Page this[int index] { get; }
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

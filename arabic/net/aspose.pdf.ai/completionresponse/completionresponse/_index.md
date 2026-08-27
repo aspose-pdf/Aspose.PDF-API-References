@@ -1,14 +1,14 @@
 ---
-title: CompletionResponse.CompletionResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CompletionResponse. المُنشئ الافتراضي
+title: "CompletionResponse.CompletionResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CompletionResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/completionresponse/completionresponse/
 ---
-## مُنشئ CompletionResponse
+## CompletionResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CompletionResponse()
@@ -19,3 +19,5 @@ public CompletionResponse()
 * class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunThreadCreateRequest. تحصل أو تعين مجموعة من الموارد التي تستخدمها أدوات المساعدين
+title: "RunThreadCreateRequest.ToolResources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunThreadCreateRequest. تحصل أو تعين مجموعة من الموارد التي يستخدمها أدوات المساعد"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.ai/runthreadcreaterequest/toolresources/
 ---
-## خاصية RunThreadCreateRequest.ToolResources
+## RunThreadCreateRequest.ToolResources property
 
-تحصل أو تعين مجموعة من الموارد التي تستخدمها أدوات المساعد.
+الحصول أو تعيين مجموعة من الموارد التي تستخدمها أدوات المساعد.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
@@ -20,3 +20,5 @@ public ToolResources ToolResources { get; set; }
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

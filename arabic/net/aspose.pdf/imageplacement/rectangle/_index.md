@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacement. تحصل على مستطيل الصورة
+title: "ImagePlacement.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacement. تحصل على مستطيل الصورة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/imageplacement/rectangle/
 ---
-## خاصية ImagePlacement.Rectangle
+## ImagePlacement.Rectangle property
 
-تحصل على مستطيل الصورة.
+يحصل على مستطيل الصورة.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

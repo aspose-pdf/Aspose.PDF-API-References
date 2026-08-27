@@ -1,25 +1,25 @@
 ---
-title: IllustrationElement.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IllustrationElement. تضيف صورة إلى عنصر التوضيح الحالي
+title: "IllustrationElement.SetImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IllustrationElement. يضيف صورة إلى عنصر التوضيح الحالي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/illustrationelement/setimage/
 ---
 ## SetImage(string, double) {#setimage}
 
-تضيف صورة إلى عنصر التوضيح الحالي.
+يضيف صورة إلى عنصر التوضيح الحالي.
 
 ```csharp
 public virtual void SetImage(string imageSrc, double imageResolution = 300m)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | imageSrc | String | مصدر الصورة. |
 | imageResolution | Double | (اختياري) دقة الصورة. الافتراضي: 300 DPI. |
 
-### See Also
+### انظر أيضًا
 
 * class [IllustrationElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
@@ -29,20 +29,22 @@ public virtual void SetImage(string imageSrc, double imageResolution = 300m)
 
 ## SetImage(string, double, double) {#setimage_1}
 
-تضيف صورة إلى عنصر التوضيح الحالي.
+يضيف صورة إلى عنصر التوضيح الحالي.
 
 ```csharp
 public virtual void SetImage(string imageSrc, double imageWidth, double imageHeight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | imageSrc | String | مصدر الصورة. |
 | imageWidth | Double | عرض الصورة. |
 | imageHeight | Double | ارتفاع الصورة. |
 
-### See Also
+### انظر أيضًا
 
 * class [IllustrationElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

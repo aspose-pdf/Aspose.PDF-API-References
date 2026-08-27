@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageDevice. تحصل أو تعين نوع إحداثيات الصفحة . يتم استخدام قيمة CropBox بشكل افتراضي
+title: "ImageDevice.CoordinateType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageDevice. تحصل أو تعيين نوع إحداثيات الصفحة Media/Crop boxes. يتم استخدام قيمة CropBox بشكل افتراضي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.devices/imagedevice/coordinatetype/
 ---
-## خاصية ImageDevice.CoordinateType
+## ImageDevice.CoordinateType property
 
-تحصل أو تعين نوع إحداثيات الصفحة (Media/Crop boxes). يتم استخدام قيمة CropBox بشكل افتراضي.
+يحصل أو يعيّن نوع إحداثيات الصفحة (صناديق Media/Crop). تُستخدم قيمة CropBox كإعداد افتراضي.
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }
@@ -20,3 +20,5 @@ public PageCoordinateType CoordinateType { get; set; }
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

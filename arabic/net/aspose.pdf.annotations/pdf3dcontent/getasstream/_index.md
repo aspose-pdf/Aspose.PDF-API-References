@@ -1,14 +1,14 @@
 ---
-title: PDF3DContent.GetAsStream
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DContent. تحصل على محتوى ثلاثي الأبعاد كتيار
+title: "PDF3DContent.GetAsStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DContent. تسترجع محتوى ثلاثي الأبعاد كتيار"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/pdf3dcontent/getasstream/
 ---
-## طريقة PDF3DContent.GetAsStream
+## PDF3DContent.GetAsStream method
 
-تحصل على محتوى ثلاثي الأبعاد كتيار.
+يحصل على محتوى 3D كدفق.
 
 ```csharp
 public Stream GetAsStream()
@@ -16,10 +16,12 @@ public Stream GetAsStream()
 
 ### قيمة الإرجاع
 
-تيار.
+دفق.
 
 ### انظر أيضًا
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RunCreateRequest.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunCreateRequest. تحصل أو تضبط الحد الأقصى لعدد رموز الإكمال التي يمكن استخدامها خلال فترة التشغيل. ستبذل العملية جهدًا كبيرًا لاستخدام العدد المحدد فقط من رموز الإكمال عبر عدة دورات من التشغيل. إذا تجاوز التشغيل عدد رموز الإكمال المحددة، ستنتهي العملية بحالة غير مكتملة. راجع incomplete_details لمزيد من المعلومات
+title: "RunCreateRequest.MaxCompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunCreateRequest. يحصل أو يضبط الحد الأقصى لعدد رموز الإكمال التي قد تُستخدم خلال مدة التشغيل. سيبذل التشغيل أقصى جهده لاستخدام عدد رموز الإكمال المحدد عبر عدة أدوار من التشغيل. إذا تجاوز التشغيل عدد رموز الإكمال المحدد سينتهي بحالة incomplete. راجع incomplete_details لمزيد من المعلومات."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/runcreaterequest/maxcompletiontokens/
 ---
-## خاصية RunCreateRequest.MaxCompletionTokens
+## RunCreateRequest.MaxCompletionTokens property
 
-تحصل أو تضبط الحد الأقصى لعدد رموز الإكمال التي يمكن استخدامها خلال فترة التشغيل. ستبذل العملية جهدًا كبيرًا لاستخدام العدد المحدد فقط من رموز الإكمال، عبر عدة دورات من التشغيل. إذا تجاوز التشغيل عدد رموز الإكمال المحددة، ستنتهي العملية بحالة غير مكتملة. راجع incomplete_details لمزيد من المعلومات.
+الحصول أو تعيين الحد الأقصى لعدد رموز الإكمال التي قد تُستخدم خلال التنفيذ. سيبذل التنفيذ أقصى جهده لاستخدام عدد رموز الإكمال المحدد فقط، عبر عدة أدوار من التنفيذ. إذا تجاوز التنفيذ عدد رموز الإكمال المحدد، سينتهي التنفيذ بالحالة غير مكتمل. راجع incomplete_details لمزيد من المعلومات.
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxCompletionTokens { get; set; }
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

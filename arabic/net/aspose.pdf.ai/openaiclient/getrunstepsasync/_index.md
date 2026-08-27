@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetRunStepsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع قائمة بالخطوات لعملية معينة ضمن سلسلة بشكل غير متزامن
+title: "OpenAIClient.GetRunStepsAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع قائمة بالخطوات لتشغيل محدد داخل خيط بشكل غير متزامن"
 type: docs
-weight: 280
+weight: 290
 url: /ar/net/aspose.pdf.ai/openaiclient/getrunstepsasync/
 ---
-## طريقة OpenAIClient.GetRunStepsAsync
+## OpenAIClient.GetRunStepsAsync method
 
-تسترجع قائمة بالخطوات لعملية معينة ضمن سلسلة بشكل غير متزامن.
+يسترجع قائمة بالخطوات لتشغيل محدد داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId, 
@@ -16,23 +16,23 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف السلسلة التي تحتوي على العملية. |
-| runId | String | معرف العملية لاسترجاع الخطوات منها. |
-| queryParameters | RunStepListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة خطوات العملية. |
+| threadId | String | معرّف الخيط الذي يحتوي على التشغيل. |
+| runId | String | معرّف التشغيل لاسترجاع الخطوات منه. |
+| queryParameters | RunStepListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة خطوات التشغيل. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على قائمة خطوات العملية.
+مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على قائمة خطوات التشغيل.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف السلسلة فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف العملية فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف التشغيل null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -41,3 +41,5 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

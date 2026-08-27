@@ -1,14 +1,14 @@
 ---
-title: TextState.TabstopDefaultValue
-second_title: Aspose.PDF for .NET API Reference
-description: حقل TextState. القيمة الافتراضية للتوقف في عرض حرف المسافة للخط الافتراضي
+title: "TextState.TabstopDefaultValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل TextState. القيمة الافتراضية للتاب في عرض حرف المسافة للخط الافتراضي"
 type: docs
-weight: 200
+weight: 210
 url: /ar/net/aspose.pdf.text/textstate/tabstopdefaultvalue/
 ---
-## حقل TextState.TabstopDefaultValue
+## TextState.TabstopDefaultValue field
 
-القيمة الافتراضية للتوقف في عرض حرف المسافة للخط الافتراضي.
+القيمة الافتراضية للجدولة في عرض حرف المسافة للخط الافتراضي.
 
 ```csharp
 public readonly float TabstopDefaultValue;
@@ -19,3 +19,5 @@ public readonly float TabstopDefaultValue;
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

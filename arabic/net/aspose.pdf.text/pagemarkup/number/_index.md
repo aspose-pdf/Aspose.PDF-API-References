@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.Number
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageMarkup. تحصل على رقم الصفحة المعالجة
+title: "PageMarkup.Number"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageMarkup. يحصل على رقم الصفحة المعالج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/pagemarkup/number/
 ---
-## خاصية PageMarkup.Number
+## PageMarkup.Number property
 
-تحصل على رقم الصفحة المعالجة.
+يحصل على رقم الصفحة المعالجة.
 
 ```csharp
 public int Number { get; }
@@ -19,3 +19,5 @@ public int Number { get; }
 * class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

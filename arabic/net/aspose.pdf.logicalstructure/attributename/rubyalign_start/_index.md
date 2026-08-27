@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية RubyAlign Start يجب أن يكون المحتوى محاذياً على الحافة الابتدائية في اتجاه التقدم الداخلي
+title: "AttributeName.RubyAlign_Start"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة RubyAlign Start  يجب محاذاة المحتوى على الحافة الابتدائية في اتجاه التقدم داخل السطر"
 type: docs
 weight: 470
 url: /ar/net/aspose.pdf.logicalstructure/attributename/rubyalign_start/
 ---
-## حقل AttributeName.RubyAlign_Start
+## AttributeName.RubyAlign_Start field
 
-خاصية RubyAlign: Start - يجب أن يكون المحتوى محاذياً على الحافة الابتدائية في اتجاه التقدم الداخلي.
+السمة RubyAlign: Start - يجب محاذاة المحتوى على الحافة البداية في اتجاه تقدم السطر.
 
 ```csharp
 public static readonly AttributeName RubyAlign_Start;
@@ -19,3 +19,5 @@ public static readonly AttributeName RubyAlign_Start;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

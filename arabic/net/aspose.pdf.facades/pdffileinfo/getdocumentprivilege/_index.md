@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetDocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileInfo. تحصل على إعدادات امتياز مستند PDF
+title: "PdfFileInfo.GetDocumentPrivilege"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileInfo. تحصل على إعدادات صلاحيات مستند PDF"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/
 ---
-## طريقة PdfFileInfo.GetDocumentPrivilege
+## PdfFileInfo.GetDocumentPrivilege method
 
-تحصل على إعدادات امتياز مستند PDF.
+يحصل على إعدادات امتيازات مستند PDF.
 
 ```csharp
 public DocumentPrivilege GetDocumentPrivilege()
@@ -16,7 +16,7 @@ public DocumentPrivilege GetDocumentPrivilege()
 
 ### قيمة الإرجاع
 
-إعدادات امتياز مستند PDF.
+إعدادات صلاحيات مستند PDF.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public DocumentPrivilege GetDocumentPrivilege()
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

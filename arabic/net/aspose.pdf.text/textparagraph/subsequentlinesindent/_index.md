@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextParagraph. تحصل أو تعين قيمة إزاحة الأسطر اللاحقة. إذا تم تعيينها إلى قيمة غير صفرية، فإن لها ميزة على قيمة FormattingOptions.SubsequentLinesIndent
+title: "TextParagraph.SubsequentLinesIndent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يضبط قيمة إزاحة الأسطر اللاحقة. إذا تم تعيينها إلى قيمة غير صفرية فإن لها ميزة على قيمة FormattingOptions.SubsequentLinesIndent."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.text/textparagraph/subsequentlinesindent/
 ---
-## خاصية TextParagraph.SubsequentLinesIndent
+## TextParagraph.SubsequentLinesIndent property
 
-تحصل أو تعين قيمة إزاحة الأسطر اللاحقة. إذا تم تعيينها إلى قيمة غير صفرية، فإن لها ميزة على قيمة FormattingOptions.SubsequentLinesIndent.
+يحصل أو يعيّن قيمة مسافة إزاحة الأسطر اللاحقة. إذا تم تعيينها إلى قيمة غير صفرية، فإن لها ميزة على قيمة FormattingOptions.SubsequentLinesIndent.
 
 ```csharp
 public float SubsequentLinesIndent { get; set; }
@@ -19,3 +19,5 @@ public float SubsequentLinesIndent { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

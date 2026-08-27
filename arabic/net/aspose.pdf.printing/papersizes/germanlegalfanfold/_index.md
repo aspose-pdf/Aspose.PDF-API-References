@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.GermanLegalFanfold
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. طية قانونية ألمانية 8.5 بوصة × 13 بوصة
+title: "PaperSizes.GermanLegalFanfold"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ملف قانوني ألماني 8.5 بوصة × 13 بوصة"
 type: docs
 weight: 430
 url: /ar/net/aspose.pdf.printing/papersizes/germanlegalfanfold/
 ---
-## حقل PaperSizes.GermanLegalFanfold
+## PaperSizes.GermanLegalFanfold field
 
-طية قانونية ألمانية (8.5 بوصة × 13 بوصة).
+قائمة فاند فول قانونية ألمانية (8.5 بوصة × 13 بوصة).
 
 ```csharp
 public static readonly PaperSize GermanLegalFanfold;
@@ -20,3 +20,5 @@ public static readonly PaperSize GermanLegalFanfold;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

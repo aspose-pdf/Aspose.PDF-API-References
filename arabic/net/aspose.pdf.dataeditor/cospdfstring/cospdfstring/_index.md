@@ -1,46 +1,48 @@
 ---
-title: CosPdfString.CosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CosPdfString. يقوم بتهيئة مثيل جديد من فئة CosPdfString
+title: "CosPdfString.CosPdfString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CosPdfString. يهيئ مثيلاً جديداً من الفئة CosPdfString"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.dataeditor/cospdfstring/cospdfstring/
 ---
 ## CosPdfString(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`CosPdfString`](../).
+يهيئ مثيلاً جديداً من الفئة [`CosPdfString`](../).
 
 ```csharp
 public CosPdfString(string value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| القيمة | String | القيمة. |
 
 ### انظر أيضًا
 
-* الفئة [CosPdfString](../)
-* مساحة الاسم [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CosPdfString(string, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`CosPdfString`](../).
+يهيئ مثيلاً جديداً من الفئة [`CosPdfString`](../).
 
 ```csharp
 public CosPdfString(string value, bool isHexadecimal)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | السلسلة. |
-| isHexadecimal | Boolean | إذا تم تعيينه إلى `true` [هو سداسي عشري]. |
+| القيمة | String | السلسلة. |
+| isHexadecimal | Boolean | إذا تم تعيينه إلى `true` [هي سداسي عشرية]. |
 
 ### انظر أيضًا
 
-* الفئة [CosPdfString](../)
-* مساحة الاسم [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.RunThreadCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RunThreadCreateRequest. المُنشئ الافتراضي
+title: "RunThreadCreateRequest.RunThreadCreateRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RunThreadCreateRequest. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/runthreadcreaterequest/runthreadcreaterequest/
 ---
-## مُنشئ RunThreadCreateRequest
+## RunThreadCreateRequest constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public RunThreadCreateRequest()
@@ -19,3 +19,5 @@ public RunThreadCreateRequest()
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfContentEditor. تحصل أو تعين خيارات بحث النص
+title: "PdfContentEditor.TextSearchOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfContentEditor. تحصل أو تعين خيارات البحث النصي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/textsearchoptions/
 ---
-## خاصية PdfContentEditor.TextSearchOptions
+## PdfContentEditor.TextSearchOptions property
 
-تحصل أو تعين خيارات بحث النص.
+يحصل أو يعيّن خيارات بحث النص.
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
@@ -20,3 +20,5 @@ public TextSearchOptions TextSearchOptions { get; set; }
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

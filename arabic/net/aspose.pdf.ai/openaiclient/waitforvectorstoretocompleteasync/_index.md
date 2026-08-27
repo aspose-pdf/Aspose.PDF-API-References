@@ -1,34 +1,34 @@
 ---
-title: OpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تنتظر حتى يكتمل متجر المتجهات المحدد بشكل غير متزامن
+title: "OpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تنتظر إكمال مخزن المتجه المحدد بشكل غير متزامن"
 type: docs
-weight: 500
+weight: 510
 url: /ar/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/
 ---
-## طريقة OpenAIClient.WaitForVectorStoreToCompleteAsync
+## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-تنتظر حتى يكتمل متجر المتجهات المحدد بشكل غير متزامن.
+ينتظر إكمال مخزن متجه محدد بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreId | String | معرف متجر المتجهات الذي سيتم مراقبته حتى الاكتمال. |
+| vectorStoreId | String | معرّف مخزن المتجه لمراقبته حتى الانتهاء. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الحالة النهائية لمتجر المتجهات.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الحالة النهائية لمخزن المتجه.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف متجر المتجهات فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف مخزن المتجهات فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -36,3 +36,5 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

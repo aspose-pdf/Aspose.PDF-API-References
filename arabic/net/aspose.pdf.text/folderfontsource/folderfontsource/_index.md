@@ -1,25 +1,27 @@
 ---
-title: FolderFontSource.FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FolderFontSource. يقوم بتهيئة مثيل جديد من فئة FolderFontSource
+title: "FolderFontSource.FolderFontSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FolderFontSource. يهيئ مثيلاً جديداً لفئة FolderFontSource"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/folderfontsource/folderfontsource/
 ---
-## مُنشئ FolderFontSource
+## FolderFontSource constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`FolderFontSource`](../).
+يهيئ مثيلاً جديداً لفئة [`FolderFontSource`](../).
 
 ```csharp
 public FolderFontSource(string folderPath)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | folderPath | String | المسار إلى المجلد. |
 
 ### انظر أيضًا
 
-* الفئة [FolderFontSource](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

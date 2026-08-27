@@ -1,14 +1,14 @@
 ---
-title: PageSettings.PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSettings. تحصل أو تعين قيمة تشير إلى مصدر الورق أي الحاوية العلوية
+title: "PageSettings.PaperSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSettings. يحصل أو يحدد قيمة تشير إلى مصدر الورق أي الحاوية العلوية"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.printing/pagesettings/papersource/
 ---
-## خاصية PageSettings.PaperSource
+## PageSettings.PaperSource property
 
-تحصل أو تعين قيمة تشير إلى مصدر الورق (أي الحاوية العلوية).
+يحصل أو يضبط قيمة تشير إلى مصدر الورق (مثلاً الصندوق العلوي).
 
 ```csharp
 public PaperSource PaperSource { get; set; }
@@ -20,3 +20,5 @@ public PaperSource PaperSource { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

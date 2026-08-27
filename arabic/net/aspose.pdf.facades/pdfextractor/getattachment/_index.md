@@ -1,22 +1,22 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تخزين المرفق في ملف
+title: "PdfExtractor.GetAttachment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfExtractor. تخزن المرفق في ملف"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdfextractor/getattachment/
 ---
 ## GetAttachment(string) {#getattachment_1}
 
-تخزين المرفق في ملف.
+يخزن المرفق في ملف.
 
 ```csharp
 public void GetAttachment(string outputPath)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputPath | String | مسار الدليل حيث سيتم تخزين المرفقات. القيمة Null أو سلسلة فارغة تعني أن المرفقات ستوضع في دليل التطبيق. |
+| outputPath | String | مسار الدليل حيث سيتم تخزين المرفق(ات). القيمة Null أو سلسلة فارغة تعني أن المرفق(ات) سيُوضع في دليل التطبيق. |
 
 ### انظر أيضًا
 
@@ -36,7 +36,7 @@ public MemoryStream[] GetAttachment()
 
 ### قيمة الإرجاع
 
-مصفوفة التدفق لملف المرفق في مستند pdf.
+مصفوفة الدفق لملف المرفق في مستند pdf.
 
 ## أمثلة
 
@@ -95,3 +95,5 @@ for(Integer i = 0 i<tempStreams.Length i++)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

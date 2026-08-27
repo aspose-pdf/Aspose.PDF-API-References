@@ -1,12 +1,12 @@
 ---
-title: XfdfReader.ReadFields
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XfdfReader. استيراد قيم الحقول من ملف XFDF
+title: "XfdfReader.ReadFields"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XfdfReader. استيراد قيم الحقول من ملف XFDF"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/xfdfreader/readfields/
 ---
-## طريقة XfdfReader.ReadFields
+## XfdfReader.ReadFields method
 
 استيراد قيم الحقول من ملف XFDF.
 
@@ -14,10 +14,10 @@ url: /ar/net/aspose.pdf.annotations/xfdfreader/readfields/
 public static void ReadFields(Stream stream, Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق يحتوي على بيانات XFDF. |
-| document | Document | المستند الذي سيتم استيراد بيانات الحقول إليه. |
+| stream | Stream | دفق يحتوي على بيانات XFDF. |
+| document | Document | Document حيث سيتم استيراد بيانات الحقول. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public static void ReadFields(Stream stream, Document document)
 * class [XfdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

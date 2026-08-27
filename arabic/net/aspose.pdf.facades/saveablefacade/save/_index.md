@@ -1,24 +1,24 @@
 ---
-title: SaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SaveableFacade. تحفظ مستند PDF إلى الدفق المحدد
+title: "SaveableFacade.Save"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SaveableFacade. تحفظ مستند PDF إلى الدفق المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/saveablefacade/save/
 ---
 ## Save(Stream) {#save}
 
-تحفظ مستند PDF إلى الدفق المحدد.
+يحفظ مستند PDF إلى الدفق المحدد.
 
 ```csharp
 public virtual void Save(Stream destStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| destStream | Stream | الدفق الوجهة. |
+| destStream | Stream | دفق الوجهة. |
 
-### See Also
+### انظر أيضًا
 
 * class [SaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,20 @@ public virtual void Save(Stream destStream)
 
 ## Save(string) {#save_1}
 
-تحفظ مستند PDF إلى الملف المحدد.
+يحفظ مستند PDF إلى الملف المحدد.
 
 ```csharp
 public virtual void Save(string destFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| destFile | String | الملف الوجهة. |
+| destFile | String | ملف الوجهة. |
 
-### See Also
+### انظر أيضًا
 
 * class [SaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

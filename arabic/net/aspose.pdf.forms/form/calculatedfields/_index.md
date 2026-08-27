@@ -1,12 +1,12 @@
 ---
-title: Form.CalculatedFields
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. يسمح بتعيين ترتيب حساب الحقول
+title: "Form.CalculatedFields"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تسمح بتعيين ترتيب حساب الحقول."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/form/calculatedfields/
 ---
-## خاصية Form.CalculatedFields
+## Form.CalculatedFields property
 
 يسمح بتعيين ترتيب حساب الحقول.
 
@@ -20,3 +20,5 @@ public IEnumerable<Field> CalculatedFields { set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentSaved
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfContentEditor. نوع حدث مستند. تنفيذ إجراء بعد الحفظ
+title: "PdfContentEditor.DocumentSaved"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfContentEditor. نوع حدث المستند. تنفيذ إجراء بعد الحفظ"
 type: docs
 weight: 500
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/documentsaved/
 ---
-## حقل PdfContentEditor.DocumentSaved
+## PdfContentEditor.DocumentSaved field
 
-نوع حدث مستند. تنفيذ إجراء بعد الحفظ.
+نوع حدث المستند. ينفذ إجراءً بعد الحفظ.
 
 ```csharp
 public const string DocumentSaved;
@@ -19,3 +19,5 @@ public const string DocumentSaved;
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

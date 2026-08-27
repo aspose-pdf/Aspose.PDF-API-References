@@ -1,14 +1,14 @@
 ---
-title: PageLabel.PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageLabel. مُنشئ لعلامة الصفحة
+title: "PageLabel.PageLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PageLabel منشئ. منشئ لتسمية الصفحة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagelabel/pagelabel/
 ---
-## مُنشئ PageLabel
+## PageLabel constructor
 
-مُنشئ لعلامة الصفحة.
+منشئ لتسمية الصفحة.
 
 ```csharp
 public PageLabel()
@@ -19,3 +19,5 @@ public PageLabel()
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

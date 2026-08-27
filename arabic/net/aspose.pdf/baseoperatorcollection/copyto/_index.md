@@ -1,23 +1,23 @@
 ---
-title: BaseOperatorCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BaseOperatorCollection. تنسخ المشغلين إلى قائمة المشغلين
+title: "BaseOperatorCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BaseOperatorCollection. تنسخ المشغلات إلى قائمة المشغلات"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/baseoperatorcollection/copyto/
 ---
-## طريقة BaseOperatorCollection.CopyTo
+## BaseOperatorCollection.CopyTo method
 
-تنسخ المشغلين إلى قائمة المشغلين.
+ينسخ المشغلات إلى قائمة المشغلات.
 
 ```csharp
 public abstract void CopyTo(Operator[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | Operator[] | مصفوفة تحتوي على المشغلين الذين يجب نسخهم. يجب أن تكون هذه المصفوفة Object[] أو Operator[]. |
-| index | Int32 | الفهرس الابتدائي الذي سيتم نسخ المشغلين منه |
+| مصفوفة | Operator[] | مصفوفة تحتوي على المشغلات التي يجب نسخها. يجب أن تكون هذه المصفوفة Object[] أو Operator[]. |
+| index | Int32 | الفهرس الابتدائي الذي ستُنسخ منه المشغلات |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public abstract void CopyTo(Operator[] array, int index)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

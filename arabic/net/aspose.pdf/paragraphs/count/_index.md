@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الفقرات. احصل على عدد الفقرات
+title: "Paragraphs.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Paragraphs. الحصول على عدد الفقرات"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/paragraphs/count/
 ---
-## خاصية Paragraphs.Count
+## Paragraphs.Count property
 
 احصل على عدد الفقرات.
 
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

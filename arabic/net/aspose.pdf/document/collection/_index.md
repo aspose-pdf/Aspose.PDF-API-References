@@ -1,14 +1,14 @@
 ---
-title: Document.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على مجموعة من الوثائق
+title: "Document.Collection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على مجموعة المستند"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/document/collection/
 ---
-## خاصية Document.Collection
+## Document.Collection property
 
-تحصل على مجموعة من الوثائق.
+يحصل على مجموعة من المستند.
 
 ```csharp
 public Collection Collection { get; set; }
@@ -20,3 +20,5 @@ public Collection Collection { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

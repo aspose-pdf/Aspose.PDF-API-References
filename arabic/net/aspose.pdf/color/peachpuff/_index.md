@@ -1,14 +1,14 @@
 ---
-title: Color.PeachPuff
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون محدد من النظام له قيمة ARGB تساوي c FFFFDAB9
+title: "Color.PeachPuff"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تحصل على لون معرف بالنظام له قيمة ARGB c FFFFDAB9"
 type: docs
 weight: 1090
 url: /ar/net/aspose.pdf/color/peachpuff/
 ---
-## خاصية لون.خوخى
+## Color.PeachPuff property
 
-تحصل على لون محدد من النظام له قيمة ARGB تساوي \c \#FFFFDAB9.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFFFDAB9.
 
 ```csharp
 public static Color PeachPuff { get; }
@@ -16,10 +16,12 @@ public static Color PeachPuff { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا محددًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

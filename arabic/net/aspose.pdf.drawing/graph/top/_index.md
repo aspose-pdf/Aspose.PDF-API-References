@@ -1,14 +1,14 @@
 ---
-title: Graph.Top
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الرسم. تحصل أو تعين إحداثيات الجزء العلوي من الجدول
+title: "Graph.Top"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Graph. يحصل أو يضبط إحداثيات أعلى الجدول"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.drawing/graph/top/
 ---
-## خاصية Graph.Top
+## Graph.Top property
 
-تحصل أو تعين إحداثيات الجزء العلوي من الجدول.
+يحصل أو يعيّن إحداثي أعلى الجدول.
 
 ```csharp
 public double Top { get; set; }
@@ -19,3 +19,5 @@ public double Top { get; set; }
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,40 +1,42 @@
 ---
-title: IOpenAIClient.WaitForThreadMessageToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تنتظر حتى تكتمل رسالة خيط معينة بشكل غير متزامن
+title: "IOpenAIClient.WaitForThreadMessageToCompleteAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تنتظر رسالة خيط محددة لتكتمل بشكل غير متزامن"
 type: docs
 weight: 450
 url: /ar/net/aspose.pdf.ai/iopenaiclient/waitforthreadmessagetocompleteasync/
 ---
 ## IOpenAIClient.WaitForThreadMessageToCompleteAsync method
 
-تنتظر حتى تكتمل رسالة خيط معينة بشكل غير متزامن.
+ينتظر إكمال رسالة خيط محددة بشكل غير متزامن.
 
 ```csharp
 public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string threadId, 
     string threadMessageId, CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف الخيط الذي يحتوي على الرسالة. |
-| threadMessageId | String | معرف الرسالة التي سيتم مراقبتها حتى الاكتمال. |
+| threadId | String | معرّف الخيط الذي يحتوي على الرسالة. |
+| threadMessageId | String | معرّف الرسالة للمراقبة حتى الانتهاء. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
-### Return Value
+### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الحالة النهائية للرسالة.
+مهمة تمثل العملية غير المتزامنة. نتيجة المهمة تحتوي على الحالة النهائية للرسالة.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف الخيط فارغًا أو غير موجود. |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف رسالة الخيط فارغًا أو غير موجود. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف رسالة الخيط null أو فارغ. |
 
-### See Also
+### انظر أيضًا
 
 * class [ThreadMessageResponse](../../threadmessageresponse/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

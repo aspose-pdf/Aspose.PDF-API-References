@@ -1,24 +1,24 @@
 ---
-title: FontEmbeddingException.FontEmbeddingException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FontEmbeddingException. يقوم بتهيئة مثيل جديد من فئة FontEmbeddingException
+title: "FontEmbeddingException.FontEmbeddingException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FontEmbeddingException. يهيئ مثيلاً جديداً من الفئة FontEmbeddingException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/fontembeddingexception/fontembeddingexception/
 ---
 ## FontEmbeddingException(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`FontEmbeddingException`](../).
+يهيئ مثيلاً جديداً من الفئة [`FontEmbeddingException`](../).
 
 ```csharp
 public FontEmbeddingException(string message)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة. |
+| رسالة | String | الرسالة. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontEmbeddingException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public FontEmbeddingException(string message)
 
 ## FontEmbeddingException(string, Exception) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`FontEmbeddingException`](../) مع رسالة خطأ محددة ومرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلاً جديداً من الفئة [`FontEmbeddingException`](../) برسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public FontEmbeddingException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontEmbeddingException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -49,18 +49,20 @@ public FontEmbeddingException(string message, Exception innerException)
 
 ## FontEmbeddingException(Exception) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`FontEmbeddingException`](../) مع مرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلاً جديداً من الفئة [`FontEmbeddingException`](../) بإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public FontEmbeddingException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontEmbeddingException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

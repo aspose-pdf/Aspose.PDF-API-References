@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSearchOptions. تحصل أو تعين المستطيل الذي يحيط بالنص المُبحث عنه
+title: "TextSearchOptions.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSearchOptions. يحصل أو يضبط المستطيل الذي يحد النص المُبحث عنه."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textsearchoptions/rectangle/
 ---
-## خاصية TextSearchOptions.Rectangle
+## TextSearchOptions.Rectangle property
 
-تحصل أو تعين المستطيل الذي يحيط بالنص المُبحث عنه.
+الحصول أو الضبط المستطيل الذي يحد النص المُبحث عنه.
 
 ```csharp
 public Rectangle Rectangle { get; set; }
@@ -16,7 +16,7 @@ public Rectangle Rectangle { get; set; }
 
 ## ملاحظات
 
-يمكن استخدام الخاصية في حالة الحاجة إلى تحديد منطقة استخراج النص أو استبدال النص.
+قد تُستخدم الخاصية في حال الحاجة إلى تحديد نطاق استخراج النص أو استبدال النص.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Rectangle Rectangle { get; set; }
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

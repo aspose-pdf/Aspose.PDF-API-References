@@ -1,14 +1,14 @@
 ---
-title: PageLabel.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageLabel. تحصل أو تعين بادئة رقم الصفحة
+title: "PageLabel.Prefix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PageLabel خاصية. يحصل أو يضبط بادئة رقم الصفحة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pagelabel/prefix/
 ---
-## خاصية PageLabel.Prefix
+## PageLabel.Prefix property
 
-تحصل أو تعين بادئة رقم الصفحة.
+يحصل أو يضبط بادئة رقم الصفحة.
 
 ```csharp
 public string Prefix { get; set; }
@@ -19,3 +19,5 @@ public string Prefix { get; set; }
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

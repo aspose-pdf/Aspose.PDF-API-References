@@ -1,27 +1,27 @@
 ---
-title: FormEditor.SetFieldCombNumber
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تحدد عدد المشط لحقول النص العادية ذات السطر الواحد، حيث يتم تقسيم الحقل تلقائيًا إلى عدد من المواقع المتساوية أو المشط كما هو محدد في قيمة معلمة combNumber
+title: "FormEditor.SetFieldCombNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تحدد عدد الفواصل (combs) لحقل نص أحادي السطر عادي؛ يتم تقسيم الحقل تلقائياً إلى عدد من المواقع المتساوية أو الفواصل حسب قيمة معامل combNumber."
 type: docs
 weight: 300
 url: /ar/net/aspose.pdf.facades/formeditor/setfieldcombnumber/
 ---
-## طريقة FormEditor.SetFieldCombNumber
+## FormEditor.SetFieldCombNumber method
 
-تحدد عدد المشط لحقول النص العادية ذات السطر الواحد (يتم تقسيم الحقل تلقائيًا إلى عدد من المواقع المتساوية، أو المشط، كما هو محدد في قيمة معلمة combNumber).
+يحدد عدد الأعمدة لحقل نص أحادي السطر عادي (يتم تقسيم الحقل تلقائيًا إلى عدد من المواقع المتساوية المسافة، أو الأعمدة، وفقًا لقيمة معامل combNumber).
 
 ```csharp
 public bool SetFieldCombNumber(string fieldName, int combNumber)
 ```
 
-| المعلمة | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم الحقل المؤهل. |
-| combNumber | Int32 | عدد المشط لتقسيم الحقل إليه. |
+| combNumber | Int32 | عدد الفواصل (combs) لتقسيم الحقل إليها. |
 
 ### قيمة الإرجاع
 
-إذا نجح، يرجع true؛ وإلا false.
+إذا نجح، إرجاع true؛ وإلا false.
 
 ## أمثلة
 
@@ -35,3 +35,5 @@ formEditor.SetFieldCombNumber("textCombField", 5);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

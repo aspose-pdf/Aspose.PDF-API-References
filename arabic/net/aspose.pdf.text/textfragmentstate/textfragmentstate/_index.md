@@ -1,26 +1,28 @@
 ---
-title: TextFragmentState.TextFragmentState
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextFragmentState. يقوم بتهيئة مثيل جديد من كائن TextFragmentState مع كائن TextFragment المحدد. هذه التهيئة لـ TextFragmentState غير مدعومة. TextFragmentState متاحة فقط مع خاصية TextState
+title: "TextFragmentState.TextFragmentState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextFragmentState. يهيئ نسخة جديدة من كائن TextFragmentState باستخدام كائن TextFragment المحدد. لا يتم دعم تهيئة TextFragmentState هذه. TextFragmentState متاح فقط مع خاصية TextState"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textfragmentstate/textfragmentstate/
 ---
-## مُنشئ TextFragmentState
+## TextFragmentState constructor
 
-يقوم بتهيئة مثيل جديد من كائن [`TextFragmentState`](../) مع كائن [`TextFragment`](../../textfragment/) المحدد. هذه التهيئة لـ [`TextFragmentState`](../) غير مدعومة. TextFragmentState متاحة فقط مع خاصية [`TextState`](../../textfragment/textstate/).
+يُنشئ نسخة جديدة من كائن [`TextFragmentState`](../) باستخدام كائن [`TextFragment`](../../textfragment/) المحدد. لا يتم دعم تهيئة هذا [`TextFragmentState`](../). يتوفر TextFragmentState فقط مع خاصية [`TextState`](../../textfragment/textstate/).
 
 ```csharp
 public TextFragmentState(TextFragment fragment)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fragment | TextFragment | كائن جزء النص. |
+| جزء | TextFragment | كائن Text fragment. |
 
 ### انظر أيضًا
 
-* فئة [TextFragment](../../textfragment/)
-* فئة [TextFragmentState](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.InlineAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية InlineAlign Start - الحافة العلوية لكل مستطيل تخصيص طفل متوافقة مع مستطيل محتوى خلايا الجدول
+title: "AttributeName.InlineAlign_Start"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. سمة InlineAlign Start  الحافة البداية لكل مستطيل تخصيص للطفل متطابقة مع مستطيل محتوى خلايا الجدول"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.logicalstructure/attributename/inlinealign_start/
 ---
-## حقل AttributeName.InlineAlign_Start
+## AttributeName.InlineAlign_Start field
 
-خاصية InlineAlign: Start - الحافة العلوية لكل مستطيل تخصيص طفل متوافقة مع مستطيل محتوى خلية الجدول.
+السمة InlineAlign: Start - حافة البداية لمستطيل تخصيص كل عنصر فرعي تتطابق مع حافة محتوى خلية الجدول.
 
 ```csharp
 public static readonly AttributeName InlineAlign_Start;
@@ -19,3 +19,5 @@ public static readonly AttributeName InlineAlign_Start;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

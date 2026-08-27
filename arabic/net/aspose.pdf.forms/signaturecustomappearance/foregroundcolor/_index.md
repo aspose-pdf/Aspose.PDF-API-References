@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ForegroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تضبط لون المقدمة . القيمة الافتراضية زرقاء
+title: "SignatureCustomAppearance.ForegroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط لون المقدمة للنص. القيمة الافتراضية Blue"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/
 ---
-## خاصية SignatureCustomAppearance.ForegroundColor
+## SignatureCustomAppearance.ForegroundColor property
 
-تحصل/تضبط لون المقدمة (لون النص). القيمة الافتراضية: زرقاء.
+الحصول/التعيين للون المقدمة (لون النص). القيمة الافتراضية: Blue.
 
 ```csharp
 public Color ForegroundColor { get; set; }
@@ -20,3 +20,5 @@ public Color ForegroundColor { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين أصل الإحداثيات للنص. إذا كان أصل الإحداثيات هو Descender، فإن إحداثي Y للنص يتوافق مع أدنى نقطة في الخط. إذا كان أصل الإحداثيات هو BaseLine، فإن إحداثي Y للنص يتوافق مع خط الأساس للخط. القيمة الافتراضية هي Descender. إذا كانت قيمة الانحدار للخط كبيرة جدًا، يمكن أن يتم عرض النص أعلى من خطوط أخرى. في هذه الحالة، يمكن اختيار أصل الإحداثيات BaseLine لتحسين عرض النص.
+title: "TextFragmentState.CoordinateOrigin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. يحصل أو يضبط CoordinateOrigin للنص. إذا كان CoordinateOrigin هو Descender فإن إحداثي Y للنص يتطابق مع أدنى نقطة للخط. إذا كان CoordinateOrigin هو BaseLine فإن إحداثي Y للنص يتطابق مع خط أساس الخط. القيمة الافتراضية هي Descender. إذا كانت قيمة Descent للخط كبيرة جدًا يمكن أن يُعرض النص أعلى من الخطوط الأخرى. في هذه الحالة يمكن اختيار CoordinateOrigin BaseLine لتحسين عرض النص."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textfragmentstate/coordinateorigin/
 ---
-## خاصية TextFragmentState.CoordinateOrigin
+## TextFragmentState.CoordinateOrigin property
 
-تحصل أو تعين أصل الإحداثيات للنص. إذا كان أصل الإحداثيات هو Descender، فإن إحداثي Y للنص يتوافق مع أدنى نقطة في الخط. إذا كان أصل الإحداثيات هو BaseLine، فإن إحداثي Y للنص يتوافق مع خط الأساس للخط. القيمة الافتراضية هي Descender. إذا كانت قيمة الانحدار للخط كبيرة جدًا، يمكن أن يتم عرض النص أعلى من خطوط أخرى. في هذه الحالة، يمكن اختيار أصل الإحداثيات BaseLine لتحسين عرض النص.
+يحصل أو يضبط خاصية CoordinateOrigin للنص. إذا كان CoordinateOrigin هو Descender، فإن إحداثي Y للنص يتطابق مع أدنى نقطة للخط. إذا كان CoordinateOrigin هو BaseLine، فإن إحداثي Y للنص يتطابق مع خط الأساس للخط. القيمة الافتراضية هي Descender. إذا كانت قيمة Descent للخط كبيرة جدًا، قد يُعرض النص أعلى من الخطوط الأخرى. في هذه الحالة، يمكن اختيار CoordinateOrigin BaseLine لتحسين عرض النص.
 
 ```csharp
 public override CoordinateOrigin CoordinateOrigin { get; set; }
@@ -20,3 +20,5 @@ public override CoordinateOrigin CoordinateOrigin { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

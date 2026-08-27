@@ -1,29 +1,31 @@
 ---
-title: XmpPdfAExtensionValueType.XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XmpPdfAExtensionValueType. يقوم بتهيئة كائن جديد
+title: "XmpPdfAExtensionValueType.XmpPdfAExtensionValueType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpPdfAExtensionValueType منشئ. يهيئ كائنًا جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/
 ---
-## مُنشئ XmpPdfAExtensionValueType
+## XmpPdfAExtensionValueType constructor
 
-يقوم بتهيئة كائن جديد.
+يُهيئ كائنًا جديدًا.
 
 ```csharp
 public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix, 
     string description)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع القيمة. |
-| namespaceUri | String | URI المساحة الاسمية. |
+| namespaceUri | String | معرف URI للمساحة الاسمية. |
 | prefix | String | البادئة. |
-| description | String | الوصف. |
+| الوصف | String | الوصف. |
 
 ### انظر أيضًا
 
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

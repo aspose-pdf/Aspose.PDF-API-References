@@ -1,14 +1,14 @@
 ---
-title: ToUnicodeProcessingRules.RemoveSpacesFromCMapNames
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ToUnicodeProcessingRules. تحتوي بعض الخطوط على خرائط رموز الأحرف ToUnicode مع مسافات في الأسماء. يمكن أن تتسبب هذه المسافات في حدوث أخطاء مع تعيين نصوص يونيكود. هذا العلم يأمر بإزالة المسافات من أسماء خرائط رموز الأحرف ToUnicode. بشكل افتراضي غير صحيح.
+title: "ToUnicodeProcessingRules.RemoveSpacesFromCMapNames"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ToUnicodeProcessingRules. بعض الخطوط لديها خرائط رموز الأحرف ToUnicode تحتوي على مسافات في الأسماء. قد تتسبب هذه المسافات في أخطاء في تعيين النص Unicode. هذه العلامة تُشير إلى إزالة المسافات من أسماء خرائط رموز الأحرف ToUnicode. القيمة الافتراضية false"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/tounicodeprocessingrules/removespacesfromcmapnames/
 ---
-## خاصية ToUnicodeProcessingRules.RemoveSpacesFromCMapNames
+## ToUnicodeProcessingRules.RemoveSpacesFromCMapNames property
 
- تحتوي بعض الخطوط على خرائط رموز الأحرف ToUnicode مع مسافات في الأسماء. يمكن أن تتسبب هذه المسافات في حدوث أخطاء مع تعيين نصوص يونيكود. هذا العلم يأمر بإزالة المسافات من أسماء خرائط رموز الأحرف ToUnicode. بشكل افتراضي غير صحيح.
+بعض الخطوط لديها خرائط رموز ToUnicode تحتوي على مسافات في الأسماء. هذه المسافات قد تتسبب في أخطاء عند تعيين النص إلى اليونيكود. هذه العلامة تُصِر على إزالة المسافات من أسماء خرائط رموز ToUnicode. القيمة الافتراضية false.
 
 ```csharp
 public bool RemoveSpacesFromCMapNames { get; set; }
@@ -19,3 +19,5 @@ public bool RemoveSpacesFromCMapNames { get; set; }
 * class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

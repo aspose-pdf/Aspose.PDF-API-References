@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.G
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BasicSetColorOperator. تحصل على مكون اللون الأخضر
+title: "BasicSetColorOperator.G"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BasicSetColorOperator. تحصل على المكوّن الأخضر من اللون"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/basicsetcoloroperator/g/
 ---
-## خاصية BasicSetColorOperator.G
+## BasicSetColorOperator.G property
 
-تحصل على مكون اللون الأخضر
+يحصل على المكوّن الأخضر للون
 
 ```csharp
 public double G { get; }
@@ -19,3 +19,5 @@ public double G { get; }
 * class [BasicSetColorOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

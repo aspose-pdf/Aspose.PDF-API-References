@@ -1,28 +1,30 @@
 ---
-title: Enum RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenditionType enum. التعداد يصف الأنواع الممكنة من Rendition
+title: "تعداد RenditionType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.RenditionType enum. يصف التعداد الأنواع الممكنة لـ Rendition"
 type: docs
-weight: 2460
+weight: 2550
 url: /ar/net/aspose.pdf.annotations/renditiontype/
 ---
 ## RenditionType enumeration
 
-التعداد يصف الأنواع الممكنة من Rendition.
+التعداد يصف الأنواع الممكنة للـRendition.
 
 ```csharp
 public enum RenditionType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Media | `0` | كائن عرض الوسائط. |
-| Selector | `1` | كائن عرض المحدد. |
-| Undefined | `2` | نوع العرض غير محدد. |
+| Media | `0` | كائن تجسيد الوسائط. |
+| Selector | `1` | كائن تجسيد المحدد. |
+| Undefined | `2` | نوع التجسيد غير معرف. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

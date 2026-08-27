@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.ConvertType3Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. تحصل أو تعين التحويل لخطوط Type3. في خطوط Type 3، يجب تعريف الرموز بواسطة تدفقات من مشغلات الرسوميات. هذا يعني أنه في مخرجات DOC/DOCX نرى صورًا بدلاً من نص. قم بتعيين هذه العلامة إلى true لتحويل خطوط Type3 إلى TTF والحصول على نص في الملف الناتج
+title: "DocSaveOptions.ConvertType3Fonts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. يحصل أو يحدد التحويل لخطوط Type3. في خطوط Type 3 يتم تعريف الحروف عبر تدفقات من عوامل الرسوميات. هذا يعني أنه في مخرجات DOC/DOCX نرى صورًا بدلاً من النص. اضبط هذا العلم إلى true لتحويل خطوط Type3 إلى TTF والحصول على نص في الملف الناتج."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/docsaveoptions/converttype3fonts/
 ---
-## خاصية DocSaveOptions.ConvertType3Fonts
+## DocSaveOptions.ConvertType3Fonts property
 
-تحصل أو تعين التحويل لخطوط Type3. في خطوط Type 3، يجب تعريف الرموز بواسطة تدفقات من مشغلات الرسوميات. هذا يعني أنه في مخرجات DOC/DOCX نرى صورًا بدلاً من نص. قم بتعيين هذه العلامة إلى true لتحويل خطوط Type3 إلى TTF والحصول على نص في الملف الناتج.
+الحصول أو تعيين التحويل للخطوط Type3. في خطوط Type 3، يجب تعريف الرموز عبر تدفقات من عوامل الرسومات. هذا يعني أنه في مخرجات DOC/DOCX نرى صورًا بدلاً من النص. اضبط هذا العلم إلى true لتحويل خطوط Type3 إلى TTF والحصول على النص في الملف الناتج.
 
 ```csharp
 public bool ConvertType3Fonts { get; set; }
@@ -19,3 +19,5 @@ public bool ConvertType3Fonts { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

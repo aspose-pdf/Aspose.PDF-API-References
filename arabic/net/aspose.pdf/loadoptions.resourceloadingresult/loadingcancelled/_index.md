@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.ResourceLoadingResult.LoadingCancelled
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ResourceLoadingResult. أحيانًا لأسباب معينة يجب ألا يحدث تحميل كود مخصص. في هذه الحالة، يرجى تعيين هذه العلامة كـ True. في هذه الحالة، سيحاول المحول استخدام محمل الموارد الافتراضي الداخلي للحصول على تلك النتيجة كما يتصرف في الحالة عندما لا يتم توفير استراتيجية مخصصة.
+title: "LoadOptions.ResourceLoadingResult.LoadingCancelled"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ResourceLoadingResult. أحيانًا لسبب ما يجب ألا يحدث التحميل بسبب كود مخصص. في هذه الحالة يرجى تعيين هذه العلامة إلى True. عندها سيحاول المحول استخدام محمل الموارد الافتراضي الداخلي للحصول على النتيجة، كما يتصرف في الحالة التي لا تُوفر فيها استراتيجية مخصصة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/loadoptions.resourceloadingresult/loadingcancelled/
 ---
-## حقل LoadOptions.ResourceLoadingResult.LoadingCancelled
+## LoadOptions.ResourceLoadingResult.LoadingCancelled field
 
-أحيانًا لأسباب معينة يجب ألا يحدث تحميل كود مخصص. في هذه الحالة، يرجى تعيين هذه العلامة كـ True. في هذه الحالة، سيحاول المحول استخدام محمل الموارد الافتراضي الداخلي للحصول على تلك النتيجة (كما يتصرف في الحالة عندما لا يتم توفير استراتيجية مخصصة).
+في بعض الأحيان لأسباب معينة يجب ألا يحدث التحميل عبر كود مخصص. في هذه الحالة يرجى ضبط هذا العلم على True. سيسعى المحول لاستخدام محمل الموارد الافتراضي الداخلي للحصول على تلك النتيجة (كما يحدث عندما لا يتم توفير استراتيجية مخصصة).
 
 ```csharp
 public bool LoadingCancelled;
@@ -19,3 +19,5 @@ public bool LoadingCancelled;
 * class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

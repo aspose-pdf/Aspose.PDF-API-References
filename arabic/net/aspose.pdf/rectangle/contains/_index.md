@@ -1,23 +1,23 @@
 ---
-title: Rectangle.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rectangle. تحدد ما إذا كانت النقطة المعطاة داخل المستطيل
+title: "Rectangle.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. تحدد ما إذا كانت النقطة المعطاة داخل المستطيل."
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/rectangle/contains/
 ---
-## طريقة Rectangle.Contains
+## Rectangle.Contains method
 
-تحدد ما إذا كانت النقطة المعطاة داخل المستطيل.
+يحدد ما إذا كانت النقطة المعطاة داخل المستطيل.
 
 ```csharp
 public bool Contains(Point point, bool inclusive = false)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| point | Point | النقطة التي سيتم التحقق منها. |
-| inclusive | Boolean | شامل: قد تكون النقطة على الحافة |
+| نقطة | نقطة | النقطة للتحقق منها. |
+| شامل | Boolean | شامل: قد تكون النقطة على الحافة. |
 
 ### قيمة الإرجاع
 
@@ -29,3 +29,5 @@ public bool Contains(Point point, bool inclusive = false)
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

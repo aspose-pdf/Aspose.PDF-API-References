@@ -1,12 +1,12 @@
 ---
-title: Enum StampType
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Facades.StampType. يصف أنواع الطوابع
+title: "Enum StampType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Facades.StampType enum. يصف أنواع الطوابع"
 type: docs
-weight: 4740
+weight: 4860
 url: /ar/net/aspose.pdf.facades/stamptype/
 ---
-## تعداد StampType
+## StampType enumeration
 
 يصف أنواع الطوابع.
 
@@ -18,10 +18,12 @@ public enum StampType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| نموذج | `0` | طابع إذا كان نموذج. |
-| صورة | `1` | الطابع هو صورة. |
+| Form | `0` | ختم إذا كان نموذجًا. |
+| Image | `1` | الختم هو صورة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

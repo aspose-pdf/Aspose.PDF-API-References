@@ -1,34 +1,34 @@
 ---
-title: PdfFileMend.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileMend. تضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة
+title: "PdfFileMend.AddImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileMend. تضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdffilemend/addimage/
 ---
 ## AddImage(Stream, int, float, float, float, float) {#addimage}
 
-تضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة.
+يضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة.
 
 ```csharp
 public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
     float upperRightX, float upperRightY)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageStream | Stream | تدفق الصورة المدخلة. |
-| pageNum | Int32 | رقم الصفحة التي ستستقبل الصورة. |
-| lowerLeftX | Single | الإحداثي السيني السفلي الأيسر لمستطيل الصورة. |
-| lowerLeftY | Single | الإحداثي الصادي السفلي الأيسر لمستطيل الصورة. |
-| upperRightX | Single | الإحداثي السيني العلوي الأيمن لمستطيل الصورة. |
-| upperRightY | Single | الإحداثي الصادي العلوي الأيمن لمستطيل الصورة. |
+| imageStream | Stream | دفق صورة الإدخال. |
+| pageNum | Int32 | عدد الصفحة التي ستستقبل الصورة. |
+| lowerLeftX | Single | الإحداثي x السفلي الأيسر لمستطيل الصورة. |
+| lowerLeftY | Single | الإحداثي y السفلي الأيسر لمستطيل الصورة. |
+| upperRightX | Single | الإحداثي x العلوي الأيمن لمستطيل الصورة. |
+| upperRightY | Single | الإحداثي y العلوي الأيمن لمستطيل الصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا نجح، خطأ خلاف ذلك.
+صحيح إذا نجح، غير ذلك خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -39,7 +39,7 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -49,28 +49,28 @@ mendor.Close();
 
 ## AddImage(Stream, int, float, float, float, float, CompositingParameters) {#addimage_1}
 
-تضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة.
+يضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة.
 
 ```csharp
 public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageStream | Stream | تدفق الصورة المدخلة. |
-| pageNum | Int32 | رقم الصفحة التي ستستقبل الصورة. |
-| lowerLeftX | Single | الإحداثي السيني السفلي الأيسر لمستطيل الصورة. |
-| lowerLeftY | Single | الإحداثي الصادي السفلي الأيسر لمستطيل الصورة. |
-| upperRightX | Single | الإحداثي السيني العلوي الأيمن لمستطيل الصورة. |
-| upperRightY | Single | الإحداثي الصادي العلوي الأيمن لمستطيل الصورة. |
-| compositingParameters | CompositingParameters | معلمات تجميع الرسوميات للصورة. |
+| imageStream | Stream | دفق صورة الإدخال. |
+| pageNum | Int32 | عدد الصفحة التي ستستقبل الصورة. |
+| lowerLeftX | Single | الإحداثي x السفلي الأيسر لمستطيل الصورة. |
+| lowerLeftY | Single | الإحداثي y السفلي الأيسر لمستطيل الصورة. |
+| upperRightX | Single | الإحداثي x العلوي الأيمن لمستطيل الصورة. |
+| upperRightY | Single | الإحداثي y العلوي الأيمن لمستطيل الصورة. |
+| compositingParameters | CompositingParameters | معلمات تركيب الرسومات للصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا نجح، خطأ خلاف ذلك.
+صحيح إذا نجح، غير ذلك خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -81,7 +81,7 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
@@ -92,27 +92,27 @@ mendor.Close();
 
 ## AddImage(Stream, int[], float, float, float, float) {#addimage_2}
 
-تضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة.
+يضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
     float upperRightX, float upperRightY)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageStream | Stream | تدفق الصورة المدخلة. |
-| pageNums | Int32[] | أرقام الصفحات التي ستستقبل الصورة. |
-| lowerLeftX | Single | الإحداثي السيني السفلي الأيسر لمستطيل الصورة. |
-| lowerLeftY | Single | الإحداثي الصادي السفلي الأيسر لمستطيل الصورة. |
-| upperRightX | Single | الإحداثي السيني العلوي الأيمن لمستطيل الصورة. |
-| upperRightY | Single | الإحداثي الصادي العلوي الأيمن لمستطيل الصورة. |
+| imageStream | Stream | دفق صورة الإدخال. |
+| pageNums | Int32[] | عدد الصفحات التي ستستقبل الصورة. |
+| lowerLeftX | Single | الإحداثي x السفلي الأيسر لمستطيل الصورة. |
+| lowerLeftY | Single | الإحداثي y السفلي الأيسر لمستطيل الصورة. |
+| upperRightX | Single | الإحداثي x العلوي الأيمن لمستطيل الصورة. |
+| upperRightY | Single | الإحداثي y العلوي الأيمن لمستطيل الصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا نجح، خطأ خلاف ذلك.
+صحيح إذا نجح، غير ذلك خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -123,7 +123,7 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -133,28 +133,28 @@ mendor.Close();
 
 ## AddImage(Stream, int[], float, float, float, float, CompositingParameters) {#addimage_3}
 
-تضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة.
+يضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageStream | Stream | تدفق الصورة المدخلة. |
-| pageNums | Int32[] | أرقام الصفحات التي ستستقبل الصورة. |
-| lowerLeftX | Single | الإحداثي السيني السفلي الأيسر لمستطيل الصورة. |
-| lowerLeftY | Single | الإحداثي الصادي السفلي الأيسر لمستطيل الصورة. |
-| upperRightX | Single | الإحداثي السيني العلوي الأيمن لمستطيل الصورة. |
-| upperRightY | Single | الإحداثي الصادي العلوي الأيمن لمستطيل الصورة. |
-| compositingParameters | CompositingParameters | معلمات تجميع الرسوميات للصورة. |
+| imageStream | Stream | دفق صورة الإدخال. |
+| pageNums | Int32[] | عدد الصفحات التي ستستقبل الصورة. |
+| lowerLeftX | Single | الإحداثي x السفلي الأيسر لمستطيل الصورة. |
+| lowerLeftY | Single | الإحداثي y السفلي الأيسر لمستطيل الصورة. |
+| upperRightX | Single | الإحداثي x العلوي الأيمن لمستطيل الصورة. |
+| upperRightY | Single | الإحداثي y العلوي الأيمن لمستطيل الصورة. |
+| compositingParameters | CompositingParameters | معلمات تركيب الرسومات للصور. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا نجح، خطأ خلاف ذلك.
+صحيح إذا نجح، غير ذلك خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -165,7 +165,7 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
@@ -176,27 +176,27 @@ mendor.Close();
 
 ## AddImage(string, int, float, float, float, float) {#addimage_4}
 
-تضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة.
+يضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة.
 
 ```csharp
 public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
     float upperRightX, float upperRightY)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageName | String | مسار ملف الصورة المدخلة. |
-| pageNum | Int32 | رقم الصفحة التي ستستقبل الصورة. |
-| lowerLeftX | Single | الإحداثي السيني السفلي الأيسر لمستطيل الصورة. |
-| lowerLeftY | Single | الإحداثي الصادي السفلي الأيسر لمستطيل الصورة. |
-| upperRightX | Single | الإحداثي السيني العلوي الأيمن لمستطيل الصورة. |
-| upperRightY | Single | الإحداثي الصادي العلوي الأيمن لمستطيل الصورة. |
+| imageName | String | مسار ملف الصورة المدخل. |
+| pageNum | Int32 | عدد الصفحة التي ستستقبل الصورة. |
+| lowerLeftX | Single | الإحداثي x السفلي الأيسر لمستطيل الصورة. |
+| lowerLeftY | Single | الإحداثي y السفلي الأيسر لمستطيل الصورة. |
+| upperRightX | Single | الإحداثي x العلوي الأيمن لمستطيل الصورة. |
+| upperRightY | Single | الإحداثي y العلوي الأيمن لمستطيل الصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا نجح، خطأ خلاف ذلك.
+صحيح إذا نجح، غير ذلك خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -204,7 +204,7 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
 mendor.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -214,28 +214,28 @@ mendor.Close();
 
 ## AddImage(string, int, float, float, float, float, CompositingParameters) {#addimage_5}
 
-تضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة.
+يضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة.
 
 ```csharp
 public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageName | String | مسار ملف الصورة المدخلة. |
-| pageNum | Int32 | رقم الصفحة التي ستستقبل الصورة. |
-| lowerLeftX | Single | الإحداثي السيني السفلي الأيسر لمستطيل الصورة. |
-| lowerLeftY | Single | الإحداثي الصادي السفلي الأيسر لمستطيل الصورة. |
-| upperRightX | Single | الإحداثي السيني العلوي الأيمن لمستطيل الصورة. |
-| upperRightY | Single | الإحداثي الصادي العلوي الأيمن لمستطيل الصورة. |
-| compositingParameters | CompositingParameters | معلمات تجميع الرسوميات للصورة. |
+| imageName | String | مسار ملف الصورة المدخل. |
+| pageNum | Int32 | عدد الصفحة التي ستستقبل الصورة. |
+| lowerLeftX | Single | الإحداثي x السفلي الأيسر لمستطيل الصورة. |
+| lowerLeftY | Single | الإحداثي y السفلي الأيسر لمستطيل الصورة. |
+| upperRightX | Single | الإحداثي x العلوي الأيمن لمستطيل الصورة. |
+| upperRightY | Single | الإحداثي y العلوي الأيمن لمستطيل الصورة. |
+| compositingParameters | CompositingParameters | معلمات تركيب الرسومات للصور. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا نجح، خطأ خلاف ذلك.
+صحيح إذا نجح، غير ذلك خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -243,7 +243,7 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(Bl
 mendor.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
@@ -254,27 +254,27 @@ mendor.Close();
 
 ## AddImage(string, int[], float, float, float, float) {#addimage_6}
 
-تضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة.
+يضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
     float upperRightX, float upperRightY)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageName | String | مسار ملف الصورة المدخلة. |
-| pageNums | Int32[] | أرقام الصفحات التي ستستقبل الصورة. |
-| lowerLeftX | Single | الإحداثي السيني السفلي الأيسر لمستطيل الصورة. |
-| lowerLeftY | Single | الإحداثي الصادي السفلي الأيسر لمستطيل الصورة. |
-| upperRightX | Single | الإحداثي السيني العلوي الأيمن لمستطيل الصورة. |
-| upperRightY | Single | الإحداثي الصادي العلوي الأيمن لمستطيل الصورة. |
+| imageName | String | مسار ملف الصورة المدخل. |
+| pageNums | Int32[] | عدد الصفحات التي ستستقبل الصورة. |
+| lowerLeftX | Single | الإحداثي x السفلي الأيسر لمستطيل الصورة. |
+| lowerLeftY | Single | الإحداثي y السفلي الأيسر لمستطيل الصورة. |
+| upperRightX | Single | الإحداثي x العلوي الأيمن لمستطيل الصورة. |
+| upperRightY | Single | الإحداثي y العلوي الأيمن لمستطيل الصورة. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا نجح، خطأ خلاف ذلك.
+صحيح إذا نجح، غير ذلك خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -282,7 +282,7 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
 mendor.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -292,28 +292,28 @@ mendor.Close();
 
 ## AddImage(string, int[], float, float, float, float, CompositingParameters) {#addimage_7}
 
-تضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة.
+يضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageName | String | مسار ملف الصورة المدخلة. |
-| pageNums | Int32[] | أرقام الصفحات التي ستستقبل الصورة. |
-| lowerLeftX | Single | الإحداثي السيني السفلي الأيسر لمستطيل الصورة. |
-| lowerLeftY | Single | الإحداثي الصادي السفلي الأيسر لمستطيل الصورة. |
-| upperRightX | Single | الإحداثي السيني العلوي الأيمن لمستطيل الصورة. |
-| upperRightY | Single | الإحداثي الصادي العلوي الأيمن لمستطيل الصورة. |
-| compositingParameters | CompositingParameters | معلمات تجميع الرسوميات للصورة. |
+| imageName | String | مسار ملف الصورة المدخل. |
+| pageNums | Int32[] | عدد الصفحات التي ستستقبل الصورة. |
+| lowerLeftX | Single | الإحداثي x السفلي الأيسر لمستطيل الصورة. |
+| lowerLeftY | Single | الإحداثي y السفلي الأيسر لمستطيل الصورة. |
+| upperRightX | Single | الإحداثي x العلوي الأيمن لمستطيل الصورة. |
+| upperRightY | Single | الإحداثي y العلوي الأيمن لمستطيل الصورة. |
+| compositingParameters | CompositingParameters | معلمات تركيب الرسومات للصور. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا نجح، خطأ خلاف ذلك.
+صحيح إذا نجح، غير ذلك خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -321,9 +321,11 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(Bl
 mendor.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

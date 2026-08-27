@@ -1,14 +1,14 @@
 ---
-title: Class FontCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.FontCollection. تمثل مجموعة الخطوط
+title: "الفئة FontCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.FontCollection. تمثل مجموعة الخطوط."
 type: docs
-weight: 10530
+weight: 10710
 url: /ar/net/aspose.pdf.text/fontcollection/
 ---
-## فئة مجموعة الخطوط
+## FontCollection class
 
-تمثل مجموعة الخطوط.
+يمثل مجموعة الخطوط.
 
 ```csharp
 public sealed class FontCollection : ICollection<Font>
@@ -18,37 +18,37 @@ public sealed class FontCollection : ICollection<Font>
 
 | الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontcollection/count/) { get; } | يحصل على عدد عناصر [`Font`](../font/) الموجودة فعليًا في المجموعة. |
+| [Count](../../aspose.pdf.text/fontcollection/count/) { get; } | يحصل على عدد عناصر كائن [`Font`](../font/) الموجودة فعليًا في المجموعة. |
 | [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط |
-| [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا (آمن للخيوط). |
-| [Item](../../aspose.pdf.text/fontcollection/item/) { get; } | يحصل على عنصر الخط في الفهرس المحدد. (2 فهرسات) |
+| [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا (thread safe). |
+| [Item](../../aspose.pdf.text/fontcollection/item/) { get; } | يحصل على عنصر الخط في الفهرس المحدد. (مؤشرين) |
 | [SyncRoot](../../aspose.pdf.text/fontcollection/syncroot/) { get; } | يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المجموعة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.pdf.text/fontcollection/add/)(Font, out string) | يضيف خطًا جديدًا إلى موارد الخطوط ويعيد اسم المورد المخصص للخط. |
-| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains)(Font) | يحدد ما إذا كانت المجموعة تحتوي على قيمة معينة. |
+| [Add](../../aspose.pdf.text/fontcollection/add/)(Font, out string) | يضيف خطًا جديدًا إلى موارد الخطوط ويعيد الاسم المعين تلقائيًا لمورد الخط. |
+| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains)(Font) | يحدد ما إذا كانت المجموعة تحتوي على قيمة محددة. |
 | [Contains](../../aspose.pdf.text/fontcollection/contains/#contains_1)(string) | يتحقق مما إذا كان الخط موجودًا في مجموعة الخطوط. |
-| [CopyTo](../../aspose.pdf.text/fontcollection/copyto/)(Font[], int) | ينسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لمصفوفة الهدف |
-| [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator/)() | يعيد عدادًا للمجموعة بالكامل. |
+| [CopyTo](../../aspose.pdf.text/fontcollection/copyto/)(Font[], int) | ينسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد للمصفوفة الهدف |
+| [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator/)() | يرجع عدّادًا للمجموعة بالكامل. |
 | [Remove](../../aspose.pdf.text/fontcollection/remove/)(Font) | يحذف العنصر المحدد من المجموعة. |
 
 ## ملاحظات
 
-تستخدم مجموعات الخطوط التي تمثلها فئة `FontCollection` في عدة سيناريوهات. على سبيل المثال، في الموارد مع خاصية [`Fonts`](../../aspose.pdf/resources/fonts/).
+تُستخدم مجموعات الخطوط التي تمثلها الفئة `FontCollection` في عدة سيناريوهات. على سبيل المثال، في الموارد التي تحتوي على الخاصية [`Fonts`](../../aspose.pdf/resources/fonts/).
 
 ## أمثلة
 
-توضح المثال كيفية جعل جميع الخطوط المعلنة في الصفحة مضمنة.
+يوضح المثال كيفية جعل جميع الخطوط المعلنة على الصفحة مضمَّنة.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// ensure all fonts declared on page resources are embedded
-// note that if fonts are declared on form resources they are not accessible from page resources
+// تأكد من تضمين جميع الخطوط المعلنة في موارد الصفحة.
+// لاحظ أنه إذا تم إعلان الخطوط في موارد النموذج فإنها غير قابلة للوصول من موارد الصفحة.
 foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
 {
     if(!font.IsEmbedded)
@@ -60,6 +60,8 @@ doc.Save(@"D:\Tests\input.pdf");
 
 ### انظر أيضًا
 
-* فئة [Font](../font/)
-* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* class [Font](../font/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

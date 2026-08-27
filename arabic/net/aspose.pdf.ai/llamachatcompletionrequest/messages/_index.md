@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionRequest. تعيين أو الحصول على قائمة من الرسائل التي تشكل المحادثة
+title: "LlamaChatCompletionRequest.Messages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionRequest. تعين أو تحصل على قائمة الرسائل التي تشكل المحادثة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/llamachatcompletionrequest/messages/
 ---
-## خاصية LlamaChatCompletionRequest.Messages
+## LlamaChatCompletionRequest.Messages property
 
-تعيين أو الحصول على قائمة من الرسائل التي تشكل المحادثة.
+يضبط أو يحصل على قائمة الرسائل التي تشكل المحادثة.
 
 ```csharp
 public List<ChatMessage> Messages { get; set; }
@@ -20,3 +20,5 @@ public List<ChatMessage> Messages { get; set; }
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

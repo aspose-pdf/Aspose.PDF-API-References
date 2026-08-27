@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.ModifyThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تعدل رسالة موجودة ضمن سلسلة بشكل غير متزامن
+title: "OpenAIClient.ModifyThreadMessageAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تعدل رسالة موجودة داخل سلسلة بشكل غير متزامن."
 type: docs
-weight: 420
+weight: 430
 url: /ar/net/aspose.pdf.ai/openaiclient/modifythreadmessageasync/
 ---
-## طريقة OpenAIClient.ModifyThreadMessageAsync
+## OpenAIClient.ModifyThreadMessageAsync method
 
-تعدل رسالة موجودة ضمن سلسلة بشكل غير متزامن.
+يعدل رسالة موجودة داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId, 
@@ -16,23 +16,23 @@ public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId,
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف السلسلة التي تحتوي على الرسالة لتعديلها. |
-| threadMessageId | String | معرف الرسالة لتعديلها. |
+| threadId | String | معرّف السلسلة التي تحتوي على الرسالة التي سيتم تعديلها. |
+| threadMessageId | String | معرّف الرسالة التي سيتم تعديلها. |
 | threadMessageModifyRequest | ThreadMessageModifyRequest | تفاصيل الطلب لتعديل الرسالة. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من تعديل الرسالة.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من تعديل الرسالة.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف السلسلة فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف رسالة السلسلة فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف رسالة الخيط null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -41,3 +41,5 @@ public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

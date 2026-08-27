@@ -1,48 +1,48 @@
 ---
-title: TableAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableAbsorber. تستخرج الجداول من الصفحة المحددة
+title: "TableAbsorber.Visit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableAbsorber. تستخرج الجداول في الصفحة المحددة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/tableabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-تستخرج الجداول من الصفحة المحددة
+يستخرج الجداول في الصفحة المحددة
 
 ```csharp
 public virtual void Visit(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن صفحة مستند PDF. |
+| صفحة | صفحة | كائن صفحة مستند Pdf. |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية استخراج جدول من الصفحة الأولى لمستند PDF.
+يوضح المثال كيفية استخراج جدول في الصفحة الأولى من مستند PDF.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// إنشاء كائن TableAbsorber للعثور على الجداول
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// زيارة الصفحة الأولى باستخدام الماص
 absorber.Visit(doc.Pages[1]);
 
-// Get access to first table on page, their first cell and text fragments in it
+// احصل على الوصول إلى أول جدول في الصفحة، وخليته الأولى ومقاطع النص الموجودة فيه
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// غيّر نص أول مقطع نصي في الخلية
 fragment.Text = "hi world";
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [TableAbsorber](../)
@@ -53,43 +53,45 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## Visit(Document) {#visit}
 
-تستخرج الجداول من المستند المحدد.
+يستخرج الجداول في المستند المحدد.
 
 ```csharp
 public void Visit(Document pdf)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdf | Document | كائن مستند PDF. |
+| pdf | Document | كائن Pdf pocument. |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية استخراج جدول من الصفحة الأولى لمستند PDF.
+يوضح المثال كيفية استخراج جدول في الصفحة الأولى من مستند PDF.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// إنشاء كائن TableAbsorber للعثور على الجداول
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// زيارة الصفحة الأولى باستخدام الماص
 absorber.Visit(doc);
 
-// Get access to first table on page, their first cell and text fragments in it
+// احصل على الوصول إلى أول جدول في الصفحة، وخليته الأولى ومقاطع النص الموجودة فيه
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// غيّر نص أول مقطع نصي في الخلية
 fragment.Text = "hi world";
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

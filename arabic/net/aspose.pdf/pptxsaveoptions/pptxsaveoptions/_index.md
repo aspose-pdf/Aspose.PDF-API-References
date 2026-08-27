@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.PptxSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PptxSaveOptions. المُنشئ الافتراضي
+title: "PptxSaveOptions.PptxSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PptxSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pptxsaveoptions/pptxsaveoptions/
 ---
-## مُنشئ PptxSaveOptions
+## PptxSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PptxSaveOptions()
@@ -19,3 +19,5 @@ public PptxSaveOptions()
 * class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

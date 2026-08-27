@@ -1,25 +1,27 @@
 ---
-title: PdfAction.GetECMAScriptString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAction. تحصل على سلسلة لـ ECMAScript Action
+title: "PdfAction.GetECMAScriptString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAction. يحصل على سلسلة لإجراء ECMAScript"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pdfaction/getecmascriptstring/
 ---
 ## PdfAction.GetECMAScriptString method
 
-تحصل على سلسلة لـ ECMAScript Action.
+يحصل على النص لإجراء ECMAScript.
 
 ```csharp
 public string GetECMAScriptString()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-تُرجع سلسلة لدخول JS لـ ECMAScript Action أو null إذا لم يكن هناك.
+إرجاع سلسلة لإدخال JS لإجراء ECMAScript أو null خلاف ذلك.
 
-### See Also
+### انظر أيضًا
 
 * class [PdfAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

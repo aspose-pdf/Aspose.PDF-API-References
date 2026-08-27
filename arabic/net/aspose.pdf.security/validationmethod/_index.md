@@ -1,14 +1,14 @@
 ---
-title: Enum ValidationMethod
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationMethod enum. يمثل تعدادًا محددًا للطريقة المستخدمة للتحقق من الشهادة
+title: "التعداد ValidationMethod"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Security.ValidationMethod. يمثل تعدادًا يحدد الطريقة المستخدمة للتحقق من صحة الشهادة"
 type: docs
-weight: 10050
+weight: 10230
 url: /ar/net/aspose.pdf.security/validationmethod/
 ---
-## تعداد ValidationMethod
+## ValidationMethod enumeration
 
-يمثل تعدادًا محددًا للطريقة المستخدمة للتحقق من الشهادة.
+يمثل enum يحدد الطريقة المستخدمة للتحقق من صحة الشهادة.
 
 ```csharp
 public enum ValidationMethod
@@ -18,12 +18,14 @@ public enum ValidationMethod
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Auto | `0` | يحدد تلقائيًا أفضل طريقة للتحقق من الشهادة. |
-| Ocsp | `1` | يستخدم بروتوكول حالة الشهادة عبر الإنترنت (OCSP) للتحقق من الشهادة. OCSP هو بروتوكول يوفر حالة التحقق من الشهادة من خلال الاستعلام مباشرةً من هيئة الشهادات المصدرة (CA). |
-| Crl | `2` | يتحقق من الشهادات باستخدام طريقة قائمة إلغاء الشهادات (CRL). |
-| All | `3` | يستخدم جميع الطرق المتاحة (OCSP و CRL) للتحقق من الشهادة. |
+| Auto | `0` | يحدد تلقائيًا الطريقة المثلى للتحقق من صحة الشهادة. |
+| Ocsp | `1` | يستخدم بروتوكول حالة الشهادة عبر الإنترنت (OCSP) للتحقق من صحة الشهادة. OCSP هو بروتوكول يوفر حالة التحقق من الشهادة عن طريق الاستعلام مباشرةً إلى سلطة الشهادة (CA) المصدرة. |
+| Crl | `2` | يُصادق على الشهادات باستخدام طريقة قائمة إبطال الشهادات (CRL). |
+| All | `3` | يستخدم جميع الطرق المتاحة (OCSP و CRL) للتحقق من صحة الشهادة. |
 
 ### انظر أيضًا
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

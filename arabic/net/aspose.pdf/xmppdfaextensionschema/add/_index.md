@@ -1,20 +1,20 @@
 ---
-title: XmpPdfAExtensionSchema.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionSchema. تضيف كائنًا جديدًا إلى المخطط
+title: "XmpPdfAExtensionSchema.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpPdfAExtensionSchema طريقة. يضيف كائنًا جديدًا إلى المخطط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/add/
 ---
-## طريقة XmpPdfAExtensionSchema.Add
+## XmpPdfAExtensionSchema.Add method
 
-تضيف كائنًا جديدًا إلى المخطط.
+يضيف كائنًا جديدًا إلى المخطط.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject obj)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | obj | XmpPdfAExtensionObject | الكائن الجديد. |
 
@@ -24,3 +24,5 @@ public void Add(XmpPdfAExtensionObject obj)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

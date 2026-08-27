@@ -1,12 +1,12 @@
 ---
-title: Class StampInfo
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.StampInfo. فئة تمثل معلومات الختم
+title: "الفئة StampInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.StampInfo. فئة تمثل معلومات الطابع."
 type: docs
-weight: 4730
+weight: 4850
 url: /ar/net/aspose.pdf.facades/stampinfo/
 ---
-## فئة StampInfo
+## StampInfo class
 
 فئة تمثل معلومات الختم.
 
@@ -18,16 +18,18 @@ public sealed class StampInfo
 
 | الاسم | الوصف |
 | --- | --- |
-| [Form](../../aspose.pdf.facades/stampinfo/form/) { get; } | يحصل على XForm للختم. |
-| [Image](../../aspose.pdf.facades/stampinfo/image/) { get; } | يحصل على صورة الختم. قد تكون null إذا لم يحتوي الختم على صور (على سبيل المثال، لختم النص). |
-| [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage/) { get; } | يحصل على فهرس الختم في الصفحة. |
-| [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle/) { get; } | يحصل على المستطيل الذي وُضع فيه الختم. |
-| [StampId](../../aspose.pdf.facades/stampinfo/stampid/) { get; } | يحصل على معرف الختم. |
-| [StampType](../../aspose.pdf.facades/stampinfo/stamptype/) { get; } | يحصل على نوع الختم (صورة / نموذج). |
-| [Text](../../aspose.pdf.facades/stampinfo/text/) { get; } | يحصل على النص في الختم. |
-| [Visible](../../aspose.pdf.facades/stampinfo/visible/) { get; } | يحصل على رؤية الختم. إذا كانت false، فإن الختم مخفي (مع HideStampById). يمكن استعادة الختم المخفي بواسطة ShowStampById. |
+| [Form](../../aspose.pdf.facades/stampinfo/form/) { get; } | يحصل على XForm للطابع. |
+| [Image](../../aspose.pdf.facades/stampinfo/image/) { get; } | يحصل على صورة الطابع. قد تكون فارغة إذا لم يحتوي الطابع على صور (على سبيل المثال للطابع النصي). |
+| [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage/) { get; } | يحصل على فهرس الطابع في الصفحة. |
+| [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle/) { get; } | يحصل على المستطيل حيث تم وضع الطابع. |
+| [StampId](../../aspose.pdf.facades/stampinfo/stampid/) { get; } | يحصل على معرف الطابع. |
+| [StampType](../../aspose.pdf.facades/stampinfo/stamptype/) { get; } | يحصل على نوع الطابع (صورة / نموذج). |
+| [Text](../../aspose.pdf.facades/stampinfo/text/) { get; } | يحصل على النص داخل الطابع. |
+| [Visible](../../aspose.pdf.facades/stampinfo/visible/) { get; } | يحصل على رؤية الطابع. إذا كان false فإن الطابع مخفي (باستخدام HideStampById). يمكن استعادة الطابع المخفي عبر ShowStampById. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

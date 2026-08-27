@@ -1,28 +1,28 @@
 ---
-title: PdfContentEditor.CreateSquareCircle
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليق مربع دائري
+title: "PdfContentEditor.CreateSquareCircle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تُنشئ تعليقة مربع أو دائرة"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createsquarecircle/
 ---
-## طريقة PdfContentEditor.CreateSquareCircle
+## PdfContentEditor.CreateSquareCircle method
 
-تنشئ تعليق مربع دائري.
+ينشئ تعليقة مربع-دائرة.
 
 ```csharp
 public void CreateSquareCircle(Rectangle rect, string contents, Color clr, bool square, int page, 
     int borderWidth)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | مستطيل التعليق الذي يحدد موقع التعليق على الصفحة. |
-| contents | String | محتويات التعليق. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| contents | String | محتوى التعليق التوضيحي. |
 | clr | Color | لون المربع أو الدائرة. |
-| square | Boolean | صحيح (مربع)، خطأ (دائرة). |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق. |
-| borderWidth | Int32 | عرض حدود المربع أو الدائرة. |
+| مربع | Boolean | صحيح (مربع), خطأ (دائرة). |
+| صفحة | Int32 | عدد الصفحة الأصلية التي سيُنشأ فيها التعليق. |
+| borderWidth | Int32 | عرض الحدود للمربع أو الدائرة. |
 
 ## أمثلة
 
@@ -39,3 +39,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

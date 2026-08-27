@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.TextColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. لون نص الحقل
+title: "FormFieldFacade.TextColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade خاصية. لون نص الحقل"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/formfieldfacade/textcolor/
 ---
-## خاصية FormFieldFacade.TextColor
+## FormFieldFacade.TextColor property
 
 لون نص الحقل.
 
@@ -19,3 +19,5 @@ public Color TextColor { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

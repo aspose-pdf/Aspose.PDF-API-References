@@ -1,14 +1,14 @@
 ---
-title: AssistantCreateRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AssistantCreateRequest. تحصل أو تعين معرف النموذج للاستخدام. يمكنك استخدام واجهة برمجة التطبيقات لقائمة النماذج لرؤية جميع النماذج المتاحة لديك أو الاطلاع على نظرة عامة على النموذج لدينا لوصفها
+title: "AssistantCreateRequest.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AssistantCreateRequest. تحصل أو تعين معرف النموذج للاستخدام. يمكنك استخدام واجهة برمجة تطبيقات List models لرؤية جميع النماذج المتاحة لك أو الاطلاع على نظرة عامة على النماذج للحصول على أوصافها."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/assistantcreaterequest/model/
 ---
-## خاصية AssistantCreateRequest.Model
+## AssistantCreateRequest.Model property
 
-تحصل أو تعين معرف النموذج للاستخدام. يمكنك استخدام واجهة برمجة التطبيقات لقائمة النماذج لرؤية جميع النماذج المتاحة لديك، أو الاطلاع على نظرة عامة على النموذج لدينا لوصفها.
+يحصل أو يعيّن معرف النموذج لاستخدامه. يمكنك استخدام List models API لرؤية جميع النماذج المتاحة لديك، أو الاطلاع على نظرة عامة على النماذج للحصول على أوصافها.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

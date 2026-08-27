@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Part
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. الجزء هو تقسيم كبير النطاق لوثيقة. هذا النوع من العناصر مناسب لتجميع المقالات أو الأقسام
+title: "StructureTypeStandard.Part"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Part جزء تقسيم واسع النطاق لمستند. هذا النوع من العنصر مناسب لتجميع المقالات أو الأقسام."
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/part/
 ---
-## حقل StructureTypeStandard.Part
+## StructureTypeStandard.Part field
 
-(الجزء) تقسيم كبير النطاق لوثيقة. هذا النوع من العناصر مناسب لتجميع المقالات أو الأقسام.
+(جزء) تقسيم واسع النطاق للمستند. هذا النوع من العنصر مناسب لتجميع المقالات أو الأقسام.
 
 ```csharp
 public static readonly StructureTypeStandard Part;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Part;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

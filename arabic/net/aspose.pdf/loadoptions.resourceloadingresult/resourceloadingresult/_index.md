@@ -1,25 +1,27 @@
 ---
-title: LoadOptions.ResourceLoadingResult.ResourceLoadingResult
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ResourceLoadingResult. ينشئ مثيلًا لنتيجة التحميل
+title: "LoadOptions.ResourceLoadingResult.ResourceLoadingResult"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ResourceLoadingResult. ينشئ مثيلًا لنتيجة التحميل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/
 ---
-## مُنشئ LoadOptions.ResourceLoadingResult
+## LoadOptions.ResourceLoadingResult constructor
 
-ينشئ مثيلًا لنتيجة التحميل
+إنشاء نسخة من نتيجة التحميل
 
 ```csharp
 public ResourceLoadingResult(byte[] data)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | يجب دائمًا توفير نتيجة التحميل المخصصة، يمكن أن تكون مصفوفة بطول صفر إذا كان من المستحيل الحصول على أي نتيجة |
+| data | Byte[] | يجب دائمًا توفير نتيجة التحميل المخصص، يمكن أن تكون مصفوفة ذات طول صفر إذا كان من المستحيل الحصول على أي نتيجة |
 
 ### انظر أيضًا
 
 * class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

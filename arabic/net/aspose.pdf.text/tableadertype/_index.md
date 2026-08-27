@@ -1,14 +1,14 @@
 ---
-title: Enum TabLeaderType
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد نوع TabLeaderType في Aspose.Pdf.Text. يعدد أنواع قادة التبويب
+title: "تعداد TabLeaderType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Text.TabLeaderType. يُعدد أنواع القادة."
 type: docs
-weight: 10760
+weight: 10940
 url: /ar/net/aspose.pdf.text/tableadertype/
 ---
-## تعداد TabLeaderType
+## TabLeaderType enumeration
 
-يعدد أنواع قادة التبويب.
+يسرد أنواع القادة للفواصل.
 
 ```csharp
 public enum TabLeaderType
@@ -21,9 +21,11 @@ public enum TabLeaderType
 | Solid | `0` | قائد تبويب صلب. |
 | Dash | `1` | قائد تبويب متقطع. |
 | Dot | `2` | قائد تبويب نقطي. |
-| None | `3` | لا يوجد قائد تبويب. |
+| None | `3` | بدون قائد تبويب. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

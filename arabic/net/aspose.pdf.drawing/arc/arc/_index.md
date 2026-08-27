@@ -1,29 +1,31 @@
 ---
-title: Arc.Arc
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Arc. يقوم بتهيئة مثيل جديد من فئة Arc
+title: "Arc.Arc"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Arc. يهيئ نسخة جديدة من الفئة Arc"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.drawing/arc/arc/
 ---
-## مُنشئ Arc
+## Arc constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`Arc`](../).
+يهيئ نسخة جديدة من الفئة [`Arc`](../).
 
 ```csharp
 public Arc(float posX, float posY, float radius, float alpha, float beta)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| posX | Single | إحداثي x لنقطة المركز للقوس. |
-| posY | Single | إحداثي y لنقطة المركز للقوس. |
-| radius | Single | قيمة نصف قطر القوس. |
-| alpha | Single | قيمة زاوية البداية للقوس. |
-| beta | Single | قيمة زاوية النهاية للقوس. |
+| posX | Single | الإحداثي السيني لنقطة مركز القوس. |
+| posY | Single | الإحداثي الصادي لنقطة مركز القوس. |
+| radius | Single | قيمة نصف القطر للقوس. |
+| ألفا | Single | قيمة زاوية البداية للقوس. |
+| بيتا | Single | قيمة زاوية النهاية للقوس. |
 
 ### انظر أيضًا
 
-* فئة [Arc](../)
-* مساحة الأسماء [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

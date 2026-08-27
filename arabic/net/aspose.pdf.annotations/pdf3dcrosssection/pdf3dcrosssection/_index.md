@@ -1,22 +1,22 @@
 ---
-title: PDF3DCrossSection.PDF3DCrossSection
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PDF3DCrossSection. يقوم بتهيئة مثيل جديد من فئة PDF3DCrossSection
+title: "PDF3DCrossSection.PDF3DCrossSection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PDF3DCrossSection. يهيئ نسخة جديدة من فئة PDF3DCrossSection"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssection/pdf3dcrosssection/
 ---
-## مُنشئ PDF3DCrossSection
+## PDF3DCrossSection constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DCrossSection`](../).
+يهيئ نسخة جديدة من الفئة [`PDF3DCrossSection`](../).
 
 ```csharp
 public PDF3DCrossSection(Document doc)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | الوثيقة. |
+| doc | Document | المستند. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public PDF3DCrossSection(Document doc)
 * class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

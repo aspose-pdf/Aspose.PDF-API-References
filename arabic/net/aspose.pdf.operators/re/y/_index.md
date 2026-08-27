@@ -1,14 +1,14 @@
 ---
-title: Re.Y
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Re. إحداثي Y للجانب السفلي من المستطيل
+title: "Re.Y"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Re. إحداثي Y للجانب السفلي للمستطيل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.operators/re/y/
 ---
-## خاصية Re.Y
+## Re.Y property
 
-إحداثي Y للجانب السفلي من المستطيل.
+الإحداثي Y للجانب السفلي من المستطيل.
 
 ```csharp
 public double Y { get; set; }
@@ -19,3 +19,5 @@ public double Y { get; set; }
 * class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

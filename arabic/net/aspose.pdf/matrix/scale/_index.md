@@ -1,27 +1,27 @@
 ---
-title: Matrix.Scale
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المصفوفة. تقوم بتغيير حجم x و y باستخدام المصفوفة باستخدام الصيغة التالية x1  Ax  Cy y1  Bx  Dy
+title: "Matrix.Scale"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. تقوم بتكبير x و y باستخدام المصفوفة وفق الصيغة التالية x1  Ax  Cy y1  Bx  Dy"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf/matrix/scale/
 ---
 ## Scale(double, double, out double, out double)
 
-تقوم بتغيير حجم x و y باستخدام المصفوفة باستخدام الصيغة التالية: x1 = A*x + C*y; y1 = B*x + D*y;
+يقوم بتحجيم x و y باستخدام المصفوفة وفق الصيغة التالية: x1 = A*x + C*y; y1 = B*x + D*y;
 
 ```csharp
 public void Scale(double x, double y, out double x1, out double y1)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| x | Double | إحداثي X المدخل |
-| y | Double | إحداثي Y المدخل |
-| x1 | Double& | إحداثي X الناتج |
-| y1 | Double& | إحداثي Y الناتج |
+| x | Double | إحداثي X الإدخال |
+| y | Double | إحداثي Y الإدخال |
+| x1 | Double& | إحداثي X الإخراج |
+| y1 | Double& | إحداثي Y الإخراج |
 
-### See Also
+### انظر أيضًا
 
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -31,24 +31,26 @@ public void Scale(double x, double y, out double x1, out double y1)
 
 ## Scale(double, double, Matrix)
 
-تطبق تغيير الحجم على المصفوفة المعطاة.
+يطبق التحجيم على المصفوفة المعطاة.
 
 ```csharp
 public static Matrix Scale(double sx, double sy, Matrix source)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| sx | Double | عامل تغيير الحجم لمحور X. |
-| sy | Double | عامل تغيير الحجم لمحور Y. |
-| source | Matrix | المصفوفة التي سيتم تغيير حجمها. |
+| sx | Double | عامل التكبير لمحور X. |
+| sy | Double | عامل التكبير لمحور Y. |
+| المصدر | Matrix | المصفوفة المراد تكبيرها. |
 
-### Return Value
+### قيمة الإرجاع
 
-مصفوفة جديدة هي نتيجة تغيير حجم المصفوفة المصدر.
+مصفوفة جديدة هي نتيجة تكبير المصفوفة المصدر.
 
-### See Also
+### انظر أيضًا
 
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

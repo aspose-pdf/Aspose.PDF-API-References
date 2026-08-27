@@ -1,14 +1,14 @@
 ---
-title: StructureElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureElement. تُرجع سلسلة تمثل الكائن الحالي
+title: "StructureElement.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureElement. تُعيد سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/tostring/
 ---
-## طريقة StructureElement.ToString
+## StructureElement.ToString method
 
-تُرجع سلسلة تمثل الكائن الحالي.
+يرجع سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

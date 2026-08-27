@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.TextEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. نوع ترميز النص لنص الحقل
+title: "FormFieldFacade.TextEncoding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade property. نوع ترميز النص لنص الحقل"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/formfieldfacade/textencoding/
 ---
-## خاصية FormFieldFacade.TextEncoding
+## FormFieldFacade.TextEncoding property
 
-نوع ترميز النص لنص الحقل.
+نوع ترميز نص الحقل.
 
 ```csharp
 public EncodingType TextEncoding { get; set; }
@@ -20,3 +20,5 @@ public EncodingType TextEncoding { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

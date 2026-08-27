@@ -1,14 +1,14 @@
 ---
-title: PaperSource.RawKind
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PaperSource. نفس الشيء مثل Kind ولكن القيم الأكبر من DMBIN_USER لا تتطابق مع Custom
+title: "PaperSource.RawKind"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PaperSource. نفس Kind ولكن القيم الأكبر من DMBIN_USER لا تُطابق إلى Custom"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.printing/papersource/rawkind/
 ---
-## خاصية PaperSource.RawKind
+## PaperSource.RawKind property
 
-نفس الشيء مثل [`Kind`](../kind/)، ولكن القيم الأكبر من DMBIN_USER لا تتطابق مع Custom.
+نفس [`Kind`](../kind/)، ولكن القيم الأكبر من DMBIN_USER لا تُطابق إلى Custom.
 
 ```csharp
 public int RawKind { get; set; }
@@ -19,3 +19,5 @@ public int RawKind { get; set; }
 * class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

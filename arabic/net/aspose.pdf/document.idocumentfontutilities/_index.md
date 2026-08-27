@@ -1,14 +1,14 @@
 ---
-title: Interface Document.IDocumentFontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.DocumentIDocumentFontUtilities. تحتوي على وظائف لضبط الخطوط
+title: "الواجهة Document.IDocumentFontUtilities"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.DocumentIDocumentFontUtilities. تحتوي على وظائف لضبط الخطوط."
 type: docs
-weight: 3820
+weight: 3940
 url: /ar/net/aspose.pdf/document.idocumentfontutilities/
 ---
-## واجهة Document.IDocumentFontUtilities
+## Document.IDocumentFontUtilities interface
 
-تحتوي على وظائف لضبط الخطوط
+يحتوي على وظائف لضبط الخطوط
 
 ```csharp
 public interface IDocumentFontUtilities
@@ -18,11 +18,13 @@ public interface IDocumentFontUtilities
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | يعيد جميع الخطوط من الوثيقة |
-| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | يحدد جميع الخطوط في الوثيقة |
+| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | يرجع جميع الخطوط من المستند. |
+| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | يُنشئ مجموعات فرعية لجميع الخطوط في المستند. |
 
 ### انظر أيضًا
 
 * class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

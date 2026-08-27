@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.UnembedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptimizationOptions. اجعل الخطوط غير مضمنة إذا تم تعيينها على true
+title: "OptimizationOptions.UnembedFonts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptimizationOptions. جعل الخطوط غير مضمَّنة إذا تم تعيينها إلى true."
 type: docs
-weight: 140
+weight: 130
 url: /ar/net/aspose.pdf.optimization/optimizationoptions/unembedfonts/
 ---
-## خاصية OptimizationOptions.UnembedFonts
+## OptimizationOptions.UnembedFonts property
 
-اجعل الخطوط غير مضمنة إذا تم تعيينها على true.
+اجعل fonts غير مضمنة إذا تم تعيينها إلى true.
 
 ```csharp
 public bool UnembedFonts { get; set; }
@@ -19,3 +19,5 @@ public bool UnembedFonts { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

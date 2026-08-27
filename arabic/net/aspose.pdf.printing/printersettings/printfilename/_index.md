@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrintFileName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PrinterSettings. تشير إلى اسم ملف الطابعة
+title: "PrinterSettings.PrintFileName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. تشير إلى اسم ملف الطابعة."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.printing/printersettings/printfilename/
 ---
-## خاصية PrinterSettings.PrintFileName
+## PrinterSettings.PrintFileName property
 
-تشير إلى اسم ملف الطابعة.
+يشير إلى اسم ملف الطابعة.
 
 ```csharp
 public string PrintFileName { get; set; }
@@ -19,3 +19,5 @@ public string PrintFileName { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

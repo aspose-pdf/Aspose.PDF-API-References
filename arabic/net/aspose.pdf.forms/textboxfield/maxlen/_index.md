@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.MaxLen
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextBoxField. تحصل أو تعين الحد الأقصى لطول النص في الحقل
+title: "TextBoxField.MaxLen"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextBoxField. تحصل أو تعيين الحد الأقصى لطول النص في الحقل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/textboxfield/maxlen/
 ---
-## خاصية TextBoxField.MaxLen
+## TextBoxField.MaxLen property
 
-تحصل أو تعين الحد الأقصى لطول النص في الحقل.
+يحصل أو يضبط الحد الأقصى لطول النص في الحقل.
 
 ```csharp
 public int MaxLen { get; set; }
@@ -19,3 +19,5 @@ public int MaxLen { get; set; }
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToDouble
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تحويل إلى double
+title: "XmpValue.ToDouble"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. تحول إلى عدد مزدوج"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/xmpvalue/todouble/
 ---
-## طريقة XmpValue.ToDouble
+## XmpValue.ToDouble method
 
-تحويل إلى double.
+يحول إلى مزدوج.
 
 ```csharp
 public double ToDouble()
@@ -16,10 +16,12 @@ public double ToDouble()
 
 ### قيمة الإرجاع
 
-قيمة double.
+قيمة Double.
 
 ### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

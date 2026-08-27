@@ -1,25 +1,27 @@
 ---
-title: CosPdfString.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfString method. احصل على رمز التجزئة للكائن الحالي
+title: "CosPdfString.GetHashCode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfString. احصل على قيمة التجزئة للكائن الحالي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.dataeditor/cospdfstring/gethashcode/
 ---
 ## CosPdfString.GetHashCode method
 
-احصل على رمز التجزئة للكائن الحالي.
+احصل على قيمة التجزئة للكائن الحالي.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### See Also
+### انظر أيضًا
 
 * class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

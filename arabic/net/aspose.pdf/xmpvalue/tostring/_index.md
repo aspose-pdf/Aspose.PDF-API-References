@@ -1,24 +1,24 @@
 ---
-title: XmpValue.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تعيد تمثيل سلسلة لـ XmpValue
+title: "XmpValue.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. تُعيد تمثيلًا نصيًا لـ XmpValue"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/xmpvalue/tostring/
 ---
 ## ToString() {#tostring}
 
-تعيد تمثيل سلسلة لـ XmpValue.
+يرجع تمثيل السلسلة لـ XmpValue.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-تمثيل سلسلة.
+تمثيل النص.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,22 +28,24 @@ public override string ToString()
 
 ## ToString(IFormatProvider) {#tostring_1}
 
-تعيد تمثيل سلسلة.
+يعيد تمثيل السلسلة.
 
 ```csharp
 public string ToString(IFormatProvider formatProvider)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| formatProvider | IFormatProvider | مزود التنسيق. |
+| formatProvider | IFormatProvider | مقدم التنسيق. |
 
-### Return Value
+### قيمة الإرجاع
 
-تمثيل سلسلة.
+تمثيل النص.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

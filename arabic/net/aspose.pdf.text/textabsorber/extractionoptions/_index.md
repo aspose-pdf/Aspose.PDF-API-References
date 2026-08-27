@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextAbsorber. الحصول على خيارات استخراج النص أو تعيينها
+title: "TextAbsorber.ExtractionOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextAbsorber. تحصل على أو تعيين خيارات استخراج النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textabsorber/extractionoptions/
 ---
-## خاصية TextAbsorber.ExtractionOptions
+## TextAbsorber.ExtractionOptions property
 
-الحصول على خيارات استخراج النص أو تعيينها.
+يحصل أو يعيّن خيارات استخراج النص.
 
 ```csharp
 public virtual TextExtractionOptions ExtractionOptions { get; set; }
@@ -20,22 +20,22 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ## أمثلة
 
-توضح المثال كيفية تعيين وضع تنسيق النص Pure وإجراء استخراج النص.
+يوضح المثال كيفية تعيين وضع تنسيق النص Pure وتنفيذ استخراج النص.
 
 ```csharp
-// open document
+// فتح المستند
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// إنشاء كائن TextAbsorber لاستخراج النص مع التنسيق
 TextAbsorber absorber = new TextAbsorber();
 
-// set pure text formatting mode
+// تعيين وضع تنسيق النص Pure
 absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
 
-// accept the absorber for all document's pages
+// قبول الـ absorber لجميع صفحات المستند
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// احصل على النص المستخرج
 string extractedText = absorber.Text;
 ```
 
@@ -45,3 +45,5 @@ string extractedText = absorber.Text;
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

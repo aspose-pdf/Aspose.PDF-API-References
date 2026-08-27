@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.AddReturnToLineEnd
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. استخدم فقرات أو فواصل أسطر
+title: "DocSaveOptions.AddReturnToLineEnd"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. استخدم فواصل الفقرات أو الأسطر."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/docsaveoptions/addreturntolineend/
 ---
-## خاصية DocSaveOptions.AddReturnToLineEnd
+## DocSaveOptions.AddReturnToLineEnd property
 
-استخدم فقرات أو فواصل أسطر
+استخدم فواصل الفقرات أو الأسطر
 
 ```csharp
 public bool AddReturnToLineEnd { get; set; }
@@ -19,3 +19,5 @@ public bool AddReturnToLineEnd { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

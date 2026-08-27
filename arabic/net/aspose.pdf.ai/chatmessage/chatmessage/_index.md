@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ChatMessage. يقوم بتهيئة مثيل جديد من فئة ChatMessage
+title: "ChatMessage.ChatMessage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ChatMessage. يهيئ مثيلاً جديداً من فئة ChatMessage"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/chatmessage/chatmessage/
 ---
 ## ChatMessage() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`ChatMessage`](../).
+يهيئ مثيلاً جديداً من فئة [`ChatMessage`](../).
 
 ```csharp
 public ChatMessage()
@@ -16,27 +16,29 @@ public ChatMessage()
 
 ### انظر أيضًا
 
-* فئة [ChatMessage](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ChatMessage(string, string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`ChatMessage`](../).
+يهيئ مثيلاً جديداً من فئة [`ChatMessage`](../).
 
 ```csharp
 public ChatMessage(string role, string content)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| role | String | دور مؤلف هذه الرسالة. |
-| content | String | محتويات الرسالة. |
+| دور | String | دور مؤلف هذه الرسالة. |
+| المحتوى | String | محتوى الرسالة. |
 
 ### انظر أيضًا
 
-* فئة [ChatMessage](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

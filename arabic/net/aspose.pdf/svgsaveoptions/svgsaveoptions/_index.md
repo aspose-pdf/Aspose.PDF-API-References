@@ -1,14 +1,14 @@
 ---
-title: SvgSaveOptions.SvgSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SvgSaveOptions. المُنشئ الافتراضي
+title: "SvgSaveOptions.SvgSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SvgSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/svgsaveoptions/svgsaveoptions/
 ---
-## مُنشئ SvgSaveOptions
+## SvgSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public SvgSaveOptions()
@@ -19,3 +19,5 @@ public SvgSaveOptions()
 * class [SvgSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

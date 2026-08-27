@@ -1,31 +1,33 @@
 ---
-title: CrashReportOptions.CrashReportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CrashReportOptions. ينشئ CrashReportOptions مع معلمات افتراضية
+title: "CrashReportOptions.CrashReportOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CrashReportOptions. ينشئ CrashReportOptions بمعاملات افتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/crashreportoptions/crashreportoptions/
 ---
-## مُنشئ CrashReportOptions
+## CrashReportOptions constructor
 
-ينشئ CrashReportOptions مع معلمات افتراضية.
+ينشئ CrashReportOptions بمعلمات افتراضية.
 
 ```csharp
 public CrashReportOptions(Exception exception)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| exception | Exception | الاستثناء الذي يستند إليه التقرير |
+| استثناء | Exception | الاستثناء الذي يستند إليه التقرير |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | يولد ArgumentNullException إذا كان الاستثناء فارغًا |
+| ArgumentNullException | ينتج ArgumentNullException إذا كان الاستثناء null |
 
 ### انظر أيضًا
 
 * class [CrashReportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FloatingBox. تحصل أو تعين معلومات العمود
+title: "FloatingBox.ColumnInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FloatingBox. يحصل أو يضبط معلومات العمود"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/floatingbox/columninfo/
 ---
-## خاصية FloatingBox.ColumnInfo
+## FloatingBox.ColumnInfo property
 
-تحصل أو تعين معلومات العمود
+يحصل أو يعيّن معلومات العمود
 
 ```csharp
 public ColumnInfo ColumnInfo { get; set; }
@@ -20,3 +20,5 @@ public ColumnInfo ColumnInfo { get; set; }
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,84 +1,84 @@
 ---
-title: Class TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.TiffDevice. تساعد هذه الفئة على حفظ مستند PDF صفحة بصفحة في صورة TIFF واحدة
+title: "الفئة TiffDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Devices.TiffDevice class. تساعد هذه الفئة على حفظ مستند PDF صفحةً بصفحة في صورة tiff واحدة"
 type: docs
-weight: 3700
+weight: 3820
 url: /ar/net/aspose.pdf.devices/tiffdevice/
 ---
 ## TiffDevice class
 
-تساعد هذه الفئة على حفظ مستند PDF صفحة بصفحة في صورة TIFF واحدة.
+تساعد هذه الفئة على حفظ صفحات مستند pdf صفحةً بصفحة في صورة tiff واحدة.
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TiffDevice](tiffdevice/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `TiffDevice` مع الإعدادات الافتراضية. |
-| [TiffDevice](tiffdevice/#constructor_6)(PageSize) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_1)(Resolution) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_4)(TiffSettings) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_12)(int, int) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_7)(PageSize, Resolution) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_10)(PageSize, TiffSettings) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_2)(Resolution, TiffSettings) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_5)(TiffSettings, IIndexBitmapConverter) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_13)(int, int, Resolution) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_16)(int, int, TiffSettings) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_8)(PageSize, Resolution, TiffSettings) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_14)(int, int, Resolution, TiffSettings) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
-| [TiffDevice](tiffdevice/#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | يقوم بتهيئة مثيل جديد من فئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor)() | يُهيئ مثيلاً جديداً من الفئة `TiffDevice` بالإعدادات الافتراضية. |
+| [TiffDevice](tiffdevice/#constructor_6)(PageSize) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_1)(Resolution) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_4)(TiffSettings) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_12)(int, int) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_7)(PageSize, Resolution) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_10)(PageSize, TiffSettings) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_2)(Resolution, TiffSettings) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_5)(TiffSettings, IIndexBitmapConverter) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_13)(int, int, Resolution) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_16)(int, int, TiffSettings) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_8)(PageSize, Resolution, TiffSettings) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_14)(int, int, Resolution, TiffSettings) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
+| [TiffDevice](tiffdevice/#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | يُهيئ مثيلاً جديداً من الفئة `TiffDevice`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | يحصل أو يحدد وضع تقديم النموذج. |
+| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | يحصل أو يعيّن وضع عرض النموذج. |
 | [Height](../../aspose.pdf.devices/tiffdevice/height/) { get; } | يحصل على ارتفاع مخرجات الصورة. |
-| [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions/) { get; set; } | يحصل أو يحدد خيارات العرض. |
+| [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions/) { get; set; } | يحصل أو يعيّن خيارات العرض. |
 | [Resolution](../../aspose.pdf.devices/tiffdevice/resolution/) { get; } | يحصل على دقة الصورة. |
-| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | يحصل على الإعدادات الخاصة بتحويل PDF إلى صورة TIFF. |
+| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | يحصل على إعدادات تحويل PDF إلى صورة tiff. |
 | [Width](../../aspose.pdf.devices/tiffdevice/width/) { get; } | يحصل على عرض مخرجات الصورة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | يقوم بعملية ثنائية باستخدام طريقة برادلي لتدفق الإدخال. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | يعالج المستند بالكامل ويحفظ النتائج في التدفق. |
+| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | قم بعملية تحويل برادلي إلى ثنائي لتدفق الإدخال. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | يعالج المستند بالكامل ويحفظ النتائج في تدفق. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | يعالج المستند بالكامل ويحفظ النتائج في ملف. |
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process_4)(Page, Stream) |  |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | ينفذ بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
-| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | يقوم بتحويل صفحات معينة من المستند إلى TIFF ويحفظها في التدفق الناتج. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | يعالج صفحات معينة من المستند ويحفظ النتائج في ملف. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | ينفّذ بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | يحوّل صفحات معينة من المستند إلى صيغة TIFF ويحفظها في تدفق الإخراج. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | يعالج صفحات معينة من المستند ويحفظ النتائج في الملف. |
 
-## Examples
+## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف PDF إلى صور TIFF.
+المثال التالي يوضح كيفية تحويل ملف PDF إلى صور TIFF.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// المسار إلى دليل PDF الخاص بك
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// اسم ملف PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// تهيئة نسخة من فئة Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// إنشاء كائن Resolution \t
 		Resolution resolution = new Resolution(300);
 		
-		// Create TiffSettings object
+		// إنشاء كائن TiffSettings
 		TiffSettings tiffSettings = new TiffSettings
 		{
 			Compression = CompressionType.None,
@@ -87,10 +87,10 @@ public sealed class TiffDevice : DocumentDevice
 			SkipBlankPages = false
 		};
 
-		// Create TIFF device
+		// إنشاء جهاز TIFF
 		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 
-		// Convert a PDF document to TIFF image
+		// تحويل مستند PDF إلى صورة TIFF
 		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
 	}
 ```
@@ -127,8 +127,10 @@ public sealed class TiffDevice : DocumentDevice
 	End Using
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentDevice](../documentdevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

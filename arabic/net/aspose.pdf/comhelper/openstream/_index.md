@@ -1,22 +1,22 @@
 ---
-title: ComHelper.OpenStream
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ComHelper. تهيئة وإرجاع مثيل جديد من Document من دفق الإدخال
+title: "ComHelper.OpenStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ComHelper. تهيئة وإرجاع نسخة جديدة من Document من الدفق input"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
-تهيئة وإرجاع مثيل جديد من Document من *دفق الإدخال*.
+تهيئة وإرجاع نسخة جديدة من Document من تدفق *input*.
 
 ```csharp
 public Document OpenStream(Stream input)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | دفق يحتوي على مستند PDF. |
+| input | Stream | دفق يحتوي على مستند pdf. |
 
 ### قيمة الإرجاع
 
@@ -33,15 +33,15 @@ public Document OpenStream(Stream input)
 
 ## OpenStream(Stream, string) {#openstream_3}
 
-تهيئة وإرجاع مثيل جديد من Document من *دفق الإدخال*.
+تهيئة وإرجاع نسخة جديدة من Document من تدفق *input*.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | كائن دفق الإدخال، المستند المقابل محمي بكلمة مرور. |
+| input | Stream | كائن دفق الإدخال، المستند pdf المقابل محمي بكلمة مرور. |
 | password | String | كلمة مرور المستخدم أو المالك. |
 
 ### قيمة الإرجاع
@@ -59,16 +59,16 @@ public Document OpenStream(Stream input, string password)
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-تهيئة وإرجاع مثيل جديد من Document من *دفق الإدخال*.
+تهيئة وإرجاع نسخة جديدة من Document من تدفق *input*.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | دفق يحتوي على مستند PDF. |
-| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق الدفق الداخلي قبل الخروج؛ خلاف ذلك، لا يتم ذلك. |
+| input | Stream | دفق يحتوي على مستند pdf. |
+| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق الدفق الداخلي قبل الخروج؛ وإلا، لا يتم ذلك. |
 
 ### قيمة الإرجاع
 
@@ -85,17 +85,17 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
-تهيئة وإرجاع مثيل جديد من Document من *دفق الإدخال*.
+تهيئة وإرجاع نسخة جديدة من Document من تدفق *input*.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | دفق يحتوي على مستند PDF. |
+| input | Stream | دفق يحتوي على مستند pdf. |
 | password | String | كلمة مرور المستخدم أو المالك. |
-| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق الدفق الداخلي قبل الخروج؛ خلاف ذلك، لا يتم ذلك. |
+| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق الدفق الداخلي قبل الخروج؛ وإلا، لا يتم ذلك. |
 
 ### قيمة الإرجاع
 
@@ -112,16 +112,16 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 ## OpenStream(Stream, LoadOptions) {#openstream_1}
 
-فتح وإرجاع مستند موجود من دفق يوفر التحويل الضروري للحصول على مستند PDF.
+افتح وأعد مستندًا موجودًا من تدفق مع توفير التحويل اللازم للحصول على مستند pdf.
 
 ```csharp
 public Document OpenStream(Stream input, LoadOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | دفق الإدخال للتحويل إلى مستند PDF. |
-| options | LoadOptions | تمثل الخصائص لتحويل *الإدخال* إلى مستند PDF. |
+| input | Stream | دفق الإدخال للتحويل إلى مستند pdf. |
+| options | LoadOptions | يمثل الخصائص لتحويل *input* إلى مستند pdf. |
 
 ### قيمة الإرجاع
 
@@ -134,3 +134,5 @@ public Document OpenStream(Stream input, LoadOptions options)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

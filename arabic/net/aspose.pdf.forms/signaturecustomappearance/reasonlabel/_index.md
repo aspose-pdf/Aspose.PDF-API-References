@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ReasonLabel
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تعيين تسمية السبب. القيمة الافتراضية سبب
+title: "SignatureCustomAppearance.ReasonLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط تسمية السبب. القيمة الافتراضية Reason"
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/
 ---
-## خاصية SignatureCustomAppearance.ReasonLabel
+## SignatureCustomAppearance.ReasonLabel property
 
-تحصل/تعيين تسمية السبب. القيمة الافتراضية: "سبب".
+الحصول/التعيين لتسمية السبب. القيمة الافتراضية: "Reason".
 
 ```csharp
 public string ReasonLabel { get; set; }
@@ -19,3 +19,5 @@ public string ReasonLabel { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

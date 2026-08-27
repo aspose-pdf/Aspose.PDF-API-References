@@ -1,14 +1,14 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.Signature. تمثل مكون التوقيع
+title: "الفئة Signature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.Signature. تمثل المكوّن Signature"
 type: docs
-weight: 9260
+weight: 9410
 url: /ar/net/aspose.pdf.plugins/signature/
 ---
-## فئة التوقيع
+## Signature class
 
-تمثل مكون `Signature`.
+تمثل المكوّن `Signature`.
 
 ```csharp
 public sealed class Signature : IPlugin
@@ -18,33 +18,35 @@ public sealed class Signature : IPlugin
 
 | الاسم | الوصف |
 | --- | --- |
-| [Signature](signature/)() | المنشئ الافتراضي. |
+| [Signature](signature/)() | البناء الافتراضي. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | يبدأ معالجة `Signature` مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | يبدأ معالجة `Signature` بالمعلمات المحددة. |
 
 ## أمثلة
 
-توضح المثال كيفية توقيع مستند PDF.
+يوضح المثال كيفية توقيع مستند PDF.
 
 ```csharp
-// create Signature
+// إنشاء Signature
 var plugin = new Signature();
-// create SignOptions object to set instructions
+// إنشاء كائن SignOptions لتعيين التعليمات
 var opt = new SignOptions(inputPfx, inputPfxPassword);
-// add input file path
+// إضافة مسار ملف الإدخال
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// تعيين مسار ملف الإخراج
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// تنفيذ العملية
 plugin.Process(opt);
 ```
 
 ### انظر أيضًا
 
-* الواجهة [IPlugin](../iplugin/)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

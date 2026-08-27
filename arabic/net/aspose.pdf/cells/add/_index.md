@@ -1,7 +1,7 @@
 ---
-title: Cells.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Cells. إضافة خلية إلى المجموعة
+title: "Cells.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Cells. إضافة خلية إلى المجموعة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/cells/add/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.pdf/cells/add/
 public Cell Add()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 الخلية الجديدة
 
-### See Also
+### انظر أيضًا
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -35,16 +35,16 @@ public Cell Add()
 public Cell Add(string text, TextState ts)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | النص للخلية. |
+| نص | String | النص للخلية. |
 | ts | TextState | حالة النص. |
 
-### Return Value
+### قيمة الإرجاع
 
 الخلية الجديدة
 
-### See Also
+### انظر أيضًا
 
 * class [Cell](../../cell/)
 * class [TextState](../../../aspose.pdf.text/textstate/)
@@ -62,15 +62,15 @@ public Cell Add(string text, TextState ts)
 public Cell Add(string text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | النص للخلية. |
+| نص | String | النص للخلية. |
 
-### Return Value
+### قيمة الإرجاع
 
 الخلية الجديدة
 
-### See Also
+### انظر أيضًا
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -87,13 +87,15 @@ public Cell Add(string text)
 public void Add(Cell cell)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| cell | Cell | الخلية إلى المجموعة. |
+| خلية | خلية | الخلية إلى المجموعة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

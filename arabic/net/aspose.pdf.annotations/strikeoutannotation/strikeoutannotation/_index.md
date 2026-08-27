@@ -1,23 +1,23 @@
 ---
-title: StrikeOutAnnotation.StrikeOutAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ StrikeOutAnnotation. ينشئ تعليق StrikeOut جديد على الصفحة المحددة
+title: "StrikeOutAnnotation.StrikeOutAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ StrikeOutAnnotation. ينشئ تعليقًا توضيحيًا جديدًا من نوع StrikeOut على الصفحة المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/strikeoutannotation/strikeoutannotation/
 ---
-## مُنشئ StrikeOutAnnotation
+## StrikeOutAnnotation constructor
 
-ينشئ تعليق StrikeOut جديد على الصفحة المحددة.
+ينشئ تعليقا جديدا من نوع StrikeOut على الصفحة المحددة.
 
 ```csharp
 public StrikeOutAnnotation(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة الوثيقة حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
 ### انظر أيضًا
 
@@ -26,3 +26,5 @@ public StrikeOutAnnotation(Page page, Rectangle rect)
 * class [StrikeOutAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

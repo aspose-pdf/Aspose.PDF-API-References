@@ -1,35 +1,37 @@
 ---
-title: Class LevelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.LevelFormat. تمثل تنسيق جدول المحتويات
+title: "فئة LevelFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.LevelFormat. تمثل تنسيق جدول المحتويات"
 type: docs
-weight: 6080
+weight: 6210
 url: /ar/net/aspose.pdf/levelformat/
 ---
 ## LevelFormat class
 
-تمثل تنسيق جدول المحتويات.
+يمثل تنسيق جدول المحتويات.
 
 ```csharp
 public class LevelFormat
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [LevelFormat](levelformat/)() | المُنشئ الافتراضي. |
+| [LevelFormat](levelformat/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [LineDash](../../aspose.pdf/levelformat/linedash/) { get; set; } | يحصل أو يحدد خط جدول المحتويات. |
-| [Margin](../../aspose.pdf/levelformat/margin/) { get; set; } | يحصل أو يحدد هامش مستوى القائمة |
-| [SubsequentLinesIndent](../../aspose.pdf/levelformat/subsequentlinesindent/) { get; set; } | يحصل أو يحدد مسافة السطور اللاحقة |
-| [TextState](../../aspose.pdf/levelformat/textstate/) { get; set; } | يحصل أو يحدد حالة نص مستوى القائمة |
+| [LineDash](../../aspose.pdf/levelformat/linedash/) { get; set; } | يحصل أو يعيّن نمط خط TOC المتقطع. |
+| [Margin](../../aspose.pdf/levelformat/margin/) { get; set; } | يحصل أو يعيّن هامش مستوى القائمة |
+| [SubsequentLinesIndent](../../aspose.pdf/levelformat/subsequentlinesindent/) { get; set; } | يحصل أو يعيّن إزاحة الأسطر اللاحقة |
+| [TextState](../../aspose.pdf/levelformat/textstate/) { get; set; } | يحصل أو يعيّن حالة نص مستوى القائمة |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Layer.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطبقة. تحصل على معرف الطبقة
+title: "Layer.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية الطبقة. تحصل على معرف الطبقة."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/layer/id/
 ---
-## خاصية Layer.Id
+## Layer.Id property
 
-تحصل على معرف الطبقة.
+يحصل على معرف الطبقة.
 
 ```csharp
 public string Id { get; }
@@ -19,3 +19,5 @@ public string Id { get; }
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

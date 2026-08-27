@@ -1,28 +1,30 @@
 ---
-title: Enum ImageCompressionVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Optimization.ImageCompressionVersion enum. يصف إصدارات خوارزمية ضغط الصور
+title: "التعداد ImageCompressionVersion"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Optimization.ImageCompressionVersion. يصف إصدارات خوارزمية ضغط الصورة"
 type: docs
-weight: 7960
+weight: 8100
 url: /ar/net/aspose.pdf.optimization/imagecompressionversion/
 ---
 ## ImageCompressionVersion enumeration
 
-يصف إصدارات خوارزمية ضغط الصور.
+يصف إصدارات خوارزمية ضغط الصورة.
 
 ```csharp
 public enum ImageCompressionVersion
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Standard | `0` | خوارزمية قياسية. القيمة الافتراضية. |
-| Fast | `2` | خوارزمية محسّنة أسرع من القياسية ولكن لا تنطبق على جميع الحالات. |
-| Mixed | `3` | استخدم الخوارزمية السريعة عند الإمكان والخوارزمية القياسية للحالات الأخرى. قد تكون أبطأ من "Fast" ولكن قد تنتج ضغطًا أفضل. |
+| Standard | `0` | الخوارزمية القياسية. القيمة الافتراضية. |
+| Fast | `2` | الخوارزمية المحسّنة أسرع من القياسية ولكنها غير قابلة للتطبيق في جميع الحالات. |
+| Mixed | `3` | استخدم الخوارزمية السريعة عندما يكون ذلك ممكنًا والقياسية في الحالات الأخرى. قد تكون أبطأ من "Fast" ولكن قد تُنتج ضغطًا أفضل. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../)
+
+

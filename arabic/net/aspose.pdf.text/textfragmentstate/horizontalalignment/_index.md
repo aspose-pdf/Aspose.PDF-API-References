@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين المحاذاة الأفقية للنص
+title: "TextFragmentState.HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تحصل أو تعيّن المحاذاة الأفقية للنص"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.text/textfragmentstate/horizontalalignment/
 ---
-## خاصية TextFragmentState.HorizontalAlignment
+## TextFragmentState.HorizontalAlignment property
 
-تحصل أو تعين المحاذاة الأفقية للنص.
+يحصل أو يضبط المحاذاة الأفقية للنص.
 
 ```csharp
 public override HorizontalAlignment HorizontalAlignment { get; set; }
@@ -24,3 +24,5 @@ HorizontalAlignment.None يساوي HorizontalAlignment.Left. لاحظ أن خا
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

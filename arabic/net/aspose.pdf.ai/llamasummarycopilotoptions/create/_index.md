@@ -1,24 +1,24 @@
 ---
-title: LlamaSummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تنشئ مثيلًا جديدًا من LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.Create"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تنشئ مثيلاً جديداً من LlamaSummaryCopilotOptions."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/create/
 ---
 ## Create() {#create}
 
-تنشئ مثيلًا جديدًا من [`LlamaSummaryCopilotOptions`](../).
+ينشئ مثيلاً جديداً من [`LlamaSummaryCopilotOptions`](../).
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 مثيل جديد من [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,22 +28,24 @@ public static LlamaSummaryCopilotOptions Create()
 
 ## Create(Action&lt;LlamaSummaryCopilotOptions&gt;) {#create_1}
 
-تنشئ مثيلًا من [`LlamaSummaryCopilotOptions`](../) وتقوم بتكوينه باستخدام المندوب المقدم.
+ينشئ مثيلاً من [`LlamaSummaryCopilotOptions`](../) ويكوّنه باستخدام المفوض المقدم.
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| config | Action`1 | المندوب لتكوين الخيارات. |
+| تهيئة | Action`1 | المفوض لتكوين الخيارات. |
 
-### Return Value
+### قيمة الإرجاع
 
-المثيل المكون من [`LlamaSummaryCopilotOptions`](../).
+المثيل المكوّن من [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

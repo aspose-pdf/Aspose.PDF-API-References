@@ -1,14 +1,14 @@
 ---
-title: StampAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StampAnnotation. تحصل على نوع التعليق
+title: "StampAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StampAnnotation. تحصل على نوع التعليق التوضيحي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/stampannotation/annotationtype/
 ---
-## خاصية StampAnnotation.AnnotationType
+## StampAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

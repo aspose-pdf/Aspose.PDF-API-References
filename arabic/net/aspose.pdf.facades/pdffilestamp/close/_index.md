@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.Close
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileStamp. تغلق الملفات المفتوحة وتقوم بحفظ التغييرات. تحذير. إذا تم تحديد تدفقات الإدخال أو الإخراج، فلن يتم إغلاقها بواسطة طريقة Close
+title: "PdfFileStamp.Close"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileStamp. يغلق الملفات المفتوحة ويحفظ التغييرات. تحذير. إذا تم تحديد تدفقات الإدخال أو الإخراج فإنها لا تُغلق بواسطة طريقة Close"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.facades/pdffilestamp/close/
 ---
-## طريقة PdfFileStamp.Close
+## PdfFileStamp.Close method
 
-تغلق الملفات المفتوحة وتقوم بحفظ التغييرات. تحذير. إذا تم تحديد تدفقات الإدخال أو الإخراج، فلن يتم إغلاقها بواسطة طريقة Close().
+يغلق الملفات المفتوحة ويحفظ التغييرات. تحذير. إذا تم تحديد تدفقات الإدخال أو الإخراج فلن يتم إغلاقها بواسطة طريقة Close().
 
 ```csharp
 public override void Close()
@@ -18,7 +18,7 @@ public override void Close()
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
-//do some work... 
+//قم ببعض العمل...
 stamp.Close();
 ```
 
@@ -27,3 +27,5 @@ stamp.Close();
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

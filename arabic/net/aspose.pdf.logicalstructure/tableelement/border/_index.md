@@ -1,14 +1,14 @@
 ---
-title: TableElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل أو تعين حد الجدول
+title: "TableElement.Border"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. يحصل أو يضبط حد الجدول"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/border/
 ---
-## خاصية TableElement.Border
+## TableElement.Border property
 
-تحصل أو تعين حد الجدول.
+الحصول أو تعيين حد الجدول.
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -20,3 +20,5 @@ public BorderInfo Border { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

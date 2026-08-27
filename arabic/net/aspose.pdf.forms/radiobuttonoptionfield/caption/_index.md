@@ -1,14 +1,14 @@
 ---
-title: RadioButtonOptionField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RadioButtonOptionField. يحصل أو يحدد التسمية
+title: "RadioButtonOptionField.Caption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RadioButtonOptionField. يحصل أو يضبط التسمية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/radiobuttonoptionfield/caption/
 ---
-## خاصية RadioButtonOptionField.Caption
+## RadioButtonOptionField.Caption property
 
-يحصل أو يحدد التسمية.
+الحصول على أو تعيين التسمية.
 
 ```csharp
 public TextFragment Caption { get; set; }
@@ -20,3 +20,5 @@ public TextFragment Caption { get; set; }
 * class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

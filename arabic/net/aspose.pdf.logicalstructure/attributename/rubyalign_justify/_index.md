@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyAlign_Justify
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية RubyAlign Justify يجب أن يتم توسيع المحتوى لملء العرض المتاح في اتجاه التقدم الخطي
+title: "AttributeName.RubyAlign_Justify"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeName حقل. Attribute RubyAlign Justify  يجب توسيع المحتوى لملء العرض المتاح في اتجاه تقدم السطر"
 type: docs
 weight: 460
 url: /ar/net/aspose.pdf.logicalstructure/attributename/rubyalign_justify/
 ---
-## حقل AttributeName.RubyAlign_Justify
+## AttributeName.RubyAlign_Justify field
 
-خاصية RubyAlign: Justify - يجب أن يتم توسيع المحتوى لملء العرض المتاح في اتجاه التقدم الخطي.
+السمة RubyAlign: Justify - يجب توسيع المحتوى لملء العرض المتاح في اتجاه تقدم السطر.
 
 ```csharp
 public static readonly AttributeName RubyAlign_Justify;
@@ -19,3 +19,5 @@ public static readonly AttributeName RubyAlign_Justify;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

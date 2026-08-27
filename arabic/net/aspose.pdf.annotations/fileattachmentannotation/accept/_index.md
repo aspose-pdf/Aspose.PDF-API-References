@@ -1,22 +1,22 @@
 ---
-title: FileAttachmentAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FileAttachmentAnnotation. تقبل كائن الزائر لمعالجة التعليق
+title: "FileAttachmentAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FileAttachmentAnnotation طريقة. تقبل كائن الزائر لمعالجة التعليق التوضيحي"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/fileattachmentannotation/accept/
 ---
-## طريقة FileAttachmentAnnotation.Accept
+## FileAttachmentAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليق.
+يقبل كائن الزائر لمعالجة الملاحظة.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

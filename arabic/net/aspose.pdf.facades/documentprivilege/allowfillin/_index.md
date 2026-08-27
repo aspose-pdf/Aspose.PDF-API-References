@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowFillIn
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. تحدد الإذن الذي يسمح بملء النماذج أم لا. true يسمح و false ممنوع
+title: "DocumentPrivilege.AllowFillIn"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. تحدد الإذن الذي يسمح بملء النماذج أو لا. true يعني مسموح و false يعني ممنوع"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/documentprivilege/allowfillin/
 ---
-## خاصية DocumentPrivilege.AllowFillIn
+## DocumentPrivilege.AllowFillIn property
 
-تحدد الإذن الذي يسمح بملء النماذج أم لا. true يسمح و false ممنوع.
+يضبط الإذن الذي يسمح بملء النماذج أو لا. true يعني مسموح و false يعني ممنوع.
 
 ```csharp
 public bool AllowFillIn { get; set; }
@@ -19,3 +19,5 @@ public bool AllowFillIn { get; set; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

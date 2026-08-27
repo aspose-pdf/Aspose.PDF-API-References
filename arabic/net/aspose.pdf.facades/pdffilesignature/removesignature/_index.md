@@ -1,24 +1,24 @@
 ---
-title: PdfFileSignature.RemoveSignature
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. قم بإزالة التوقيع وفقًا لاسم التوقيع
+title: "PdfFileSignature.RemoveSignature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. إزالة التوقيع وفقًا لاسم التوقيع"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## RemoveSignature(SignatureName) {#removesignature}
 
-قم بإزالة التوقيع وفقًا لاسم التوقيع.
+إزالة التوقيع وفقًا لاسم التوقيع.
 
 ```csharp
 public void RemoveSignature(SignatureName signName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | signName | SignatureName | اسم التوقيع. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -42,7 +42,7 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
@@ -53,18 +53,18 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ## RemoveSignature(SignatureName, bool) {#removesignature_1}
 
-يقوم بإزالة التوقيع وفقًا لاسم التوقيع.
+يزيل التوقيع وفقًا لاسم التوقيع.
 
 ```csharp
 public void RemoveSignature(SignatureName signName, bool removeField)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | signName | SignatureName | اسم التوقيع. |
-| removeField | Boolean | إذا تم تعيينه على true، فإنه يزيل كل من التوقيع والحقل من المستند؛ خلاف ذلك، يزيل التوقيع فقط. |
+| removeField | Boolean | إذا تم تعيينه إلى true، فإنه يزيل كلًا من التوقيع والحقل من المستند؛ وإلا، يزيل التوقيع فقط. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -88,9 +88,11 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

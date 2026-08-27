@@ -1,14 +1,14 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Annotations.Justification. يعدد أشكال التبرير الرباعي التي يجب استخدامها في عرض نص التعليقات التوضيحية
+title: "تعداد Justification"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.Justification تعداد. يعدد أشكال محاذاة النص المستخدمة في عرض نص التعليقات التوضيحية"
 type: docs
-weight: 1940
+weight: 2030
 url: /ar/net/aspose.pdf.annotations/justification/
 ---
-## تعداد التبرير
+## Justification enumeration
 
-يعدّد أشكال التبرير الرباعي (التبرير) التي يجب استخدامها في عرض نص التعليق التوضيحي.
+يعدّ أشكال الضبط (المحاذاة) التي تُستخدم في عرض نص التوضيح.
 
 ```csharp
 public enum Justification
@@ -18,11 +18,13 @@ public enum Justification
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| يسار | `0` | تبرير لليسار. |
-| مركز | `1` | تبرير للوسط. |
-| يمين | `2` | تبرير لليمين. |
+| Left | `0` | محاذاة إلى اليسار. |
+| Center | `1` | محاذاة إلى الوسط. |
+| Right | `2` | محاذاة إلى اليمين. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

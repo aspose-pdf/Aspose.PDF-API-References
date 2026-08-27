@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.UseFlowEngine
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableAbsorber. قم بتمكين محرك التعرف على الجداول البديل الذي يتفوق في العديد من السيناريوهات وقادر على التعرف على الجداول بدون حدود. لا يدعم تحرير الجداول والحصول على أنماط النصوص بعد. القيمة الافتراضية هي false
+title: "TableAbsorber.UseFlowEngine"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableAbsorber. تمكّن محرك التعرف على الجداول البديل الذي يتفوق في العديد من السيناريوهات ويستطيع التعرف على الجداول بدون حدود. لا يدعم تحرير الجداول والحصول على أنماط النص بعد. القيمة الافتراضية هي false"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/tableabsorber/useflowengine/
 ---
-## خاصية TableAbsorber.UseFlowEngine
+## TableAbsorber.UseFlowEngine property
 
-* قم بتمكين محرك التعرف على الجداول البديل الذي يتفوق في العديد من السيناريوهات وقادر على التعرف على الجداول بدون حدود. لا يدعم تحرير الجداول والحصول على أنماط النصوص بعد. القيمة الافتراضية هي false;
+* Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders. Doesn't support editing tables and getting text styles yet. Default value is false;
 
 ```csharp
 public bool UseFlowEngine { get; set; }
@@ -19,3 +19,5 @@ public bool UseFlowEngine { get; set; }
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

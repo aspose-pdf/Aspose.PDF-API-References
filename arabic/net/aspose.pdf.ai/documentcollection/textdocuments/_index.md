@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.TextDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentCollection. تحصل أو تعين مجموعة من الوثائق النصية ليتم معالجتها
+title: "DocumentCollection.TextDocuments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentCollection. يحصل أو يضبط مجموعة مستندات النص التي سيتم معالجتها"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/documentcollection/textdocuments/
 ---
-## خاصية DocumentCollection.TextDocuments
+## DocumentCollection.TextDocuments property
 
-تحصل أو تعين مجموعة من الوثائق النصية ليتم معالجتها.
+يحصل أو يعيّن مجموعة مستندات النص التي سيتم معالجتها.
 
 ```csharp
 public List<TextDocument> TextDocuments { get; set; }
@@ -20,3 +20,5 @@ public List<TextDocument> TextDocuments { get; set; }
 * class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PDF3DRenderMode.SetOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DRenderMode. تضبط الشفافية
+title: "PDF3DRenderMode.SetOpacity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DRenderMode. تضبط الشفافية"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/setopacity/
 ---
-## طريقة PDF3DRenderMode.SetOpacity
+## PDF3DRenderMode.SetOpacity method
 
-تضبط الشفافية.
+يضبط الشفافية.
 
 ```csharp
 public PDF3DRenderMode SetOpacity(double opacity)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| opacity | Double | الشفافية. |
+| العتامة | Double | الشفافية. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ PDF3DRenderMode.
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

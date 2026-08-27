@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfASymbolicFontEncodingStrategy. تحدد قائمة من جداول الترميز الفرعية لمعالجتها
+title: "PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfASymbolicFontEncodingStrategy. تحدد قائمة انتظار لجداول الترميز الفرعية للمعالجة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/
 ---
-## خاصية PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue
+## PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue property
 
-تحدد قائمة من جداول الترميز الفرعية لمعالجتها.
+يحدد طابور جداول الترميز الفرعية للمعالجة.
 
 ```csharp
 public Queue<QueueItem> CmapEncodingTablesPriorityQueue { get; set; }
@@ -20,3 +20,5 @@ public Queue<QueueItem> CmapEncodingTablesPriorityQueue { get; set; }
 * class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

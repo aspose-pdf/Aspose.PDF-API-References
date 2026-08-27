@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.Formula
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. صيغة صيغة رياضية
+title: "StructureTypeStandard.Formula"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Formula صيغة رياضية"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/formula/
 ---
-## حقل StructureTypeStandard.Formula
+## StructureTypeStandard.Formula field
 
-(صيغة) صيغة رياضية.
+(Formula) صيغة رياضية.
 
-هذا النوع من الهيكل مفيد فقط لتحديد عنصر محتوى كامل كصيغة. لا توجد أنواع هيكل قياسية محددة لتحديد المكونات الفردية داخل الصيغة. من منظور التنسيق، يجب التعامل مع الصيغة بشكل مشابه لشكل (نوع الهيكل Figure).
+هذا النوع من البنية مفيد فقط لتحديد عنصر محتوى كامل كصيغة. لا توجد أنواع بنية قياسية معرفة لتحديد المكونات الفردية داخل الصيغة. من منظور التنسيق، يجب معاملة الصيغة مماثلة للشكل (نوع بنية Figure).
 
 ```csharp
 public static readonly StructureTypeStandard Formula;
@@ -21,3 +21,5 @@ public static readonly StructureTypeStandard Formula;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

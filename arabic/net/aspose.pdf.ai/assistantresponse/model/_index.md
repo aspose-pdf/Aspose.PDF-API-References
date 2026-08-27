@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AssistantResponse. تحصل أو تعين معرف النموذج للاستخدام. يمكنك استخدام واجهة برمجة التطبيقات لقائمة النماذج لرؤية جميع النماذج المتاحة لديك أو الاطلاع على نظرة عامة على النموذج لدينا لوصفها
+title: "AssistantResponse.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AssistantResponse. تحصل أو تعين معرّف النموذج للاستخدام. يمكنك استخدام واجهة برمجة تطبيقات List models لرؤية جميع النماذج المتاحة لديك أو الاطلاع على نظرة عامة على النماذج للحصول على أوصافها"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/assistantresponse/model/
 ---
-## خاصية AssistantResponse.Model
+## AssistantResponse.Model property
 
-تحصل أو تعين معرف النموذج للاستخدام. يمكنك استخدام واجهة برمجة التطبيقات لقائمة النماذج لرؤية جميع النماذج المتاحة لديك، أو الاطلاع على نظرة عامة على النموذج لدينا لوصفها.
+يحصل أو يعيّن معرّف النموذج المراد استخدامه. يمكنك استخدام واجهة برمجة تطبيقات List models لرؤية جميع النماذج المتاحة لديك، أو الاطلاع على نظرة عامة على النماذج للحصول على أوصافها.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

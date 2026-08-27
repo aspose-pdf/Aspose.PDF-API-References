@@ -1,14 +1,14 @@
 ---
-title: PDF3DAnnotation.GetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DAnnotation. تحصل على معاينة الصورة
+title: "PDF3DAnnotation.GetImagePreview"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DAnnotation. تحصل على معاينة الصورة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.annotations/pdf3dannotation/getimagepreview/
 ---
-## طريقة PDF3DAnnotation.GetImagePreview
+## PDF3DAnnotation.GetImagePreview method
 
-تحصل على معاينة الصورة.
+يحصل على معاينة الصورة.
 
 ```csharp
 public Stream GetImagePreview()
@@ -23,3 +23,5 @@ public Stream GetImagePreview()
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

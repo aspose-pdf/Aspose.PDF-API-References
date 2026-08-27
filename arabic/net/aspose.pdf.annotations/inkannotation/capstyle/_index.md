@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية InkAnnotation. نمط نهايات خط التعليق بالحبر
+title: "InkAnnotation.CapStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية InkAnnotation. نمط نهايات خطوط التعليق التوضيحي بالحبر"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/inkannotation/capstyle/
 ---
-## خاصية InkAnnotation.CapStyle
+## InkAnnotation.CapStyle property
 
-نمط نهايات خط التعليق بالحبر.
+نمط نهايات خطوط تعليقة الحبر.
 
 ```csharp
 public CapStyle CapStyle { get; set; }
@@ -20,3 +20,5 @@ public CapStyle CapStyle { get; set; }
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

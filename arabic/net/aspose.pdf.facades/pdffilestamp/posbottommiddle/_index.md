@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosBottomMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfFileStamp. الموضع السفلي الأوسط
+title: "PdfFileStamp.PosBottomMiddle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfFileStamp. الموضع الأوسط السفلي"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/pdffilestamp/posbottommiddle/
 ---
-## حقل PdfFileStamp.PosBottomMiddle
+## PdfFileStamp.PosBottomMiddle field
 
 الموضع السفلي الأوسط.
 
@@ -19,3 +19,5 @@ public const int PosBottomMiddle;
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber8
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف 8 بحجم 120 مم × 309 مم
+title: "PaperSizes.PrcEnvelopeNumber8"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ظرف 8 120 مم × 309 مم"
 type: docs
 weight: 1020
 url: /ar/net/aspose.pdf.printing/papersizes/prcenvelopenumber8/
 ---
-## حقل PaperSizes.PrcEnvelopeNumber8
+## PaperSizes.PrcEnvelopeNumber8 field
 
-# ظرف 8 (120 مم × 309 مم).
+مغلف #8 (120 مم × 309 مم).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber8;
@@ -20,3 +20,5 @@ public static readonly PaperSize PrcEnvelopeNumber8;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

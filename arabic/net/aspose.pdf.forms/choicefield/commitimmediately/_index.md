@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.CommitImmediately
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChoiceField. تحصل أو تعين علامة الالتزام عند تغيير الاختيار
+title: "ChoiceField.CommitImmediately"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChoiceField. يحصل أو يضبط علامة الالتزام عند تغيير الاختيار"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/choicefield/commitimmediately/
 ---
-## خاصية ChoiceField.CommitImmediately
+## ChoiceField.CommitImmediately property
 
-تحصل أو تعين علامة الالتزام عند تغيير الاختيار.
+يحصل أو يعيّن علامة الالتزام عند تغيير الاختيار.
 
 ```csharp
 public bool CommitImmediately { get; set; }
@@ -19,3 +19,5 @@ public bool CommitImmediately { get; set; }
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

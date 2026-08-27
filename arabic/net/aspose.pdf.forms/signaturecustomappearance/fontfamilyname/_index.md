@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.FontFamilyName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تعيين اسم عائلة الخط. يجب أن تكون موجودة في الوثيقة. القيمة الافتراضية Arial
+title: "SignatureCustomAppearance.FontFamilyName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط اسم عائلة الخط. يجب أن تكون موجودة في المستند. القيمة الافتراضية Arial"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/
 ---
-## خاصية SignatureCustomAppearance.FontFamilyName
+## SignatureCustomAppearance.FontFamilyName property
 
-تحصل/تعيين اسم عائلة الخط. يجب أن تكون موجودة في الوثيقة. القيمة الافتراضية: Arial.
+الحصول/التعيين لاسم عائلة الخط. يجب أن يكون موجودًا في المستند. القيمة الافتراضية: Arial.
 
 ```csharp
 public string FontFamilyName { get; set; }
@@ -19,3 +19,5 @@ public string FontFamilyName { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

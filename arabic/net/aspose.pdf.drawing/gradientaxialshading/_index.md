@@ -1,37 +1,39 @@
 ---
-title: Class GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientAxialShading class. يمثل فئة التظليل المحوري المتدرج
+title: "الفئة GradientAxialShading"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Drawing.GradientAxialShading. تمثل فئة تظليل محوري متدرج"
 type: docs
-weight: 3920
+weight: 4040
 url: /ar/net/aspose.pdf.drawing/gradientaxialshading/
 ---
 ## GradientAxialShading class
 
-يمثل فئة التظليل المحوري المتدرج.
+يمثل فئة تظليل محوري للتدرج.
 
 ```csharp
 public class GradientAxialShading : PatternColorSpace
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GradientAxialShading](gradientaxialshading/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `GradientAxialShading`. |
-| [GradientAxialShading](gradientaxialshading/#constructor_1)(Color, Color) | يقوم بتهيئة مثيل جديد من فئة `GradientAxialShading`. |
+| [GradientAxialShading](gradientaxialshading/#constructor)() | يُنشئ مثلاً جديداً من الفئة `GradientAxialShading`. |
+| [GradientAxialShading](gradientaxialshading/#constructor_1)(Color, Color) | يُنشئ مثلاً جديداً من الفئة `GradientAxialShading`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [End](../../aspose.pdf.drawing/gradientaxialshading/end/) { get; set; } | يحصل على أو يحدد نقطة النهاية. |
-| [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor/) { get; set; } | يحصل على أو يحدد لون النهاية. |
-| [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | يحصل على أو يحدد نقطة البداية. |
-| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | يحصل على أو يحدد لون البداية. |
+| [End](../../aspose.pdf.drawing/gradientaxialshading/end/) { get; set; } | يحصل أو يعيّن نقطة النهاية. |
+| [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor/) { get; set; } | يحصل أو يضبط لون النهاية. |
+| [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | يحصل أو يعيّن نقطة البداية. |
+| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | يحصل أو يضبط لون البداية. |
 
-### See Also
+### انظر أيضًا
 
 * class [PatternColorSpace](../patterncolorspace/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

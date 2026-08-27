@@ -1,14 +1,14 @@
 ---
-title: Class Header
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Header. تمثل إعدادات الرأس
+title: "الفئة Header"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Header. تمثل إعدادات الترويسة."
 type: docs
-weight: 5410
+weight: 5530
 url: /ar/net/aspose.pdf/header/
 ---
-## فئة الرأس
+## Header class
 
-تمثل إعدادات الرأس.
+يمثل إعدادات الرأس.
 
 ```csharp
 public sealed class Header : HorizontalAlignment
@@ -18,18 +18,20 @@ public sealed class Header : HorizontalAlignment
 
 | الاسم | الوصف |
 | --- | --- |
-| [Header](header/)() | المنشئ الافتراضي. |
+| [Header](header/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | يحصل أو يحدد إعدادات المحاذاة المركزية. |
-| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | يحصل أو يحدد إعدادات المحاذاة اليسرى. |
-| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | يحصل أو يحدد إعدادات المحاذاة اليمنى. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | يحصل أو يضبط إعدادات محاذاة المركز. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | يحصل أو يضبط إعدادات محاذاة اليسار. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | يحصل أو يضبط إعدادات محاذاة اليمين. |
 
 ### انظر أيضًا
 
-* فئة [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

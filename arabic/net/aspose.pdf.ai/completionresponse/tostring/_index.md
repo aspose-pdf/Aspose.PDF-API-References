@@ -1,14 +1,14 @@
 ---
-title: CompletionResponse.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CompletionResponse. ترجع محتوى الخيار الأول كسلسلة
+title: "CompletionResponse.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CompletionResponse. تُعيد محتوى الاختيار الأول كنص"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/completionresponse/tostring/
 ---
-## طريقة CompletionResponse.ToString
+## CompletionResponse.ToString method
 
-ترجع محتوى الخيار الأول كسلسلة.
+يرجع محتوى الاختيار الأول كسلسلة نصية.
 
 ```csharp
 public override string ToString()
@@ -19,3 +19,5 @@ public override string ToString()
 * class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

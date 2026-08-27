@@ -1,14 +1,14 @@
 ---
-title: Class PdfActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PdfActionCollection. تصف الفئة قائمة من الإجراءات
+title: "فئة PdfActionCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.PdfActionCollection class. فئة تصف قائمة الإجراءات"
 type: docs
-weight: 2280
+weight: 2370
 url: /ar/net/aspose.pdf.annotations/pdfactioncollection/
 ---
-## فئة PdfActionCollection
+## PdfActionCollection class
 
-تصف الفئة قائمة من الإجراءات.
+الفئة تصف قائمة الإجراءات.
 
 ```csharp
 public class PdfActionCollection : IEnumerable<PdfAction>
@@ -19,18 +19,20 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 | الاسم | الوصف |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdfactioncollection/count/) { get; } | يحصل على عدد الإجراءات. |
-| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | يحصل على الإجراء بواسطة فهرسه. |
+| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | يحصل على الإجراء حسب فهرسه. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdfactioncollection/add/)(PdfAction) | يضيف إجراءً إلى قائمة الإجراءات. |
-| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | يزيل إجراءً بواسطة الفهرس. |
-| [GetEnumerator](../../aspose.pdf.annotations/pdfactioncollection/getenumerator/)() | يحصل على العدّاد. |
+| [Add](../../aspose.pdf.annotations/pdfactioncollection/add/)(PdfAction) | أضف إجراءً إلى قائمة الإجراءات. |
+| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | أزل الإجراء حسب الفهرس. |
+| [GetEnumerator](../../aspose.pdf.annotations/pdfactioncollection/getenumerator/)() | يحصل على المُعدِّد. |
 
 ### انظر أيضًا
 
-* الفئة [PdfAction](../pdfaction/)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

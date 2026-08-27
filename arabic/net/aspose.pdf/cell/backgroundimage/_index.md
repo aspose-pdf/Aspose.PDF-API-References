@@ -1,14 +1,14 @@
 ---
-title: Cell.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلية. تحصل أو تعين صورة الخلفية
+title: "Cell.BackgroundImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cell. يحصل أو يحدد صورة الخلفية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/cell/backgroundimage/
 ---
-## خاصية Cell.BackgroundImage
+## Cell.BackgroundImage property
 
-تحصل أو تعين صورة الخلفية
+يحصل أو يضبط صورة الخلفية
 
 ```csharp
 public Image BackgroundImage { get; set; }
@@ -20,3 +20,5 @@ public Image BackgroundImage { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

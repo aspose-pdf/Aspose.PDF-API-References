@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية النطاق مالك خاصية الجدول
+title: "AttributeKey.Scope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة Scope سمة Table المالك"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/scope/
 ---
-## حقل AttributeKey.Scope
+## AttributeKey.Scope field
 
-خاصية النطاق (مالك خاصية الجدول).
+خاصية Scope (مالك خاصية Table).
 
 ```csharp
 public static readonly AttributeKey Scope;
@@ -19,3 +19,5 @@ public static readonly AttributeKey Scope;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Enum PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrintRange enum. يحدد الخيار الذي يحدد جزء الوثيقة للطباعة
+title: "التعداد PrintRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Printing.PrintRange. يحدد الخيار الذي يعيّن الجزء من المستند للطباعة"
 type: docs
-weight: 9650
+weight: 9800
 url: /ar/net/aspose.pdf.printing/printrange/
 ---
 ## PrintRange enumeration
 
-يحدد الخيار الذي يحدد جزء الوثيقة للطباعة.
+يحدد الخيار الذي يحدد الجزء من المستند للطباعة.
 
 ```csharp
 public enum PrintRange
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| AllPages | `0` | يتم طباعة جميع الصفحات. |
-| SomePages | `2` | يتم طباعة الصفحات بين [`FromPage`](../printersettings/frompage/) و [`ToPage`](../printersettings/topage/). |
-| Selection | `1` | يتم طباعة الصفحات المحددة. |
-| CurrentPage | `4194304` | يتم طباعة الصفحة الحالية. إذا تم استخدامه مع بعض أنظمة التشغيل، قد يتم طباعة جميع الصفحات. |
+| AllPages | `0` | جميع الصفحات مطبوعة. |
+| SomePages | `2` | الصفحات بين [`FromPage`](../printersettings/frompage/) و[`ToPage`](../printersettings/topage/) مطبوعة. |
+| Selection | `1` | الصفحات المحددة مطبوعة. |
+| CurrentPage | `4194304` | الصفحة الحالية مطبوعة. إذا تم استخدامها مع بعض أنظمة التشغيل، قد تُطبع جميع الصفحات. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

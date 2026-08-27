@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Table
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeOwnerStandard. مالك خاصية الجدول
+title: "AttributeOwnerStandard.Table"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeOwnerStandard. مالك سمة Table"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/table/
 ---
-## حقل AttributeOwnerStandard.Table
+## AttributeOwnerStandard.Table field
 
-مالك خاصية الجدول.
+مالك سمة الجدول.
 
 ```csharp
 public static readonly AttributeOwnerStandard Table;
@@ -19,3 +19,5 @@ public static readonly AttributeOwnerStandard Table;
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

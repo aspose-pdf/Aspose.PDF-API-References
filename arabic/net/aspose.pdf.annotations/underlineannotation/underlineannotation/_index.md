@@ -1,23 +1,23 @@
 ---
-title: UnderlineAnnotation.UnderlineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ UnderlineAnnotation. ينشئ تعليقًا تحت الخط جديد على الصفحة المحددة
+title: "UnderlineAnnotation.UnderlineAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ UnderlineAnnotation. ينشئ تعليقًا توضيحيًا جديدًا من نوع Underline على الصفحة المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/underlineannotation/underlineannotation/
 ---
-## مُنشئ UnderlineAnnotation
+## UnderlineAnnotation constructor
 
-ينشئ تعليقًا تحت الخط جديد على الصفحة المحددة.
+ينشئ تعليقة تحتية جديدة على الصفحة المحددة.
 
 ```csharp
 public UnderlineAnnotation(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة الوثيقة حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
 ### انظر أيضًا
 
@@ -26,3 +26,5 @@ public UnderlineAnnotation(Page page, Rectangle rect)
 * class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

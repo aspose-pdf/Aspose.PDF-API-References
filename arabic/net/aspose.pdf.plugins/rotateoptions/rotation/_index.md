@@ -1,14 +1,14 @@
 ---
-title: RotateOptions.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RotateOptions. تحصل أو تعين دوران الصفحات الجديدة
+title: "RotateOptions.Rotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RotateOptions. يحصل أو يضبط دوران الصفحات الجديدة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/rotateoptions/rotation/
 ---
-## خاصية RotateOptions.Rotation
+## RotateOptions.Rotation property
 
-تحصل أو تعين دوران الصفحات الجديدة.
+يحصل أو يعيّن دوران الصفحات الجديدة.
 
 ```csharp
 public Rotation Rotation { get; set; }
@@ -20,3 +20,5 @@ public Rotation Rotation { get; set; }
 * class [RotateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

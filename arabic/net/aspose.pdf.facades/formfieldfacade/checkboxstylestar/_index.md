@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleStar
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد نمط مربع اختيار نجمي
+title: "FormFieldFacade.CheckBoxStyleStar"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldFacade. يحدد نمط مربع اختيار نجمة"
 type: docs
 weight: 440
 url: /ar/net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
 ---
-## حقل FormFieldFacade.CheckBoxStyleStar
+## FormFieldFacade.CheckBoxStyleStar field
 
-يحدد نمط مربع اختيار نجمي.
+يعرف نمط مربع اختيار نجمة.
 
 ```csharp
 public const int CheckBoxStyleStar;
@@ -19,3 +19,5 @@ public const int CheckBoxStyleStar;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

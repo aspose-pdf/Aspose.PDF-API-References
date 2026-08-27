@@ -1,26 +1,26 @@
 ---
-title: BaseOperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BaseOperatorCollection. تزيل المشغل من المجموعة
+title: "BaseOperatorCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BaseOperatorCollection. تزيل المشغل من التجميع"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/baseoperatorcollection/remove/
 ---
-## طريقة BaseOperatorCollection.Remove
+## BaseOperatorCollection.Remove method
 
-تزيل المشغل من المجموعة.
+يزيل المشغل من المجموعة.
 
 ```csharp
 public abstract bool Remove(Operator item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | Operator | عنصر المشغل الذي سيتم إزالته. |
+| item | Operator | عنصر المشغل للإزالة. |
 
 ### قيمة الإرجاع
 
-صحيح - إذا تم إزالة العنصر؛ خلاف ذلك، خطأ.
+صحيح - إذا تم إزالة العنصر؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public abstract bool Remove(Operator item)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

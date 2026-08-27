@@ -1,37 +1,39 @@
 ---
-title: Class Document.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.DocumentRepairOptions. تمثل خيارات إصلاح مستند PDF
+title: "الفئة Document.RepairOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.DocumentRepairOptions. تمثل خيارات إصلاح Document PDF"
 type: docs
-weight: 3840
+weight: 3960
 url: /ar/net/aspose.pdf/document.repairoptions/
 ---
 ## Document.RepairOptions class
 
-تمثل خيارات إصلاح مستند PDF.
+تمثل خيارات إصلاح Document PDF.
 
 ```csharp
 public sealed class RepairOptions
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [RepairOptions](../../aspose.pdf/document.repairoptions/.ctor)() | المُنشئ الافتراضي. |
+| [RepairOptions](../../aspose.pdf/document.repairoptions/.ctor)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | يحصل أو يحدد قيمة تشير إلى ما إذا كان يجب استعادة أرقام الجيل الخاطئة في المراجع إلى الكائنات غير المباشرة أثناء عملية الإصلاح. |
+| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب استعادة أرقام الجيل الخاطئة في المراجع إلى الكائنات غير المباشرة أثناء عملية الإصلاح. |
 
-## Remarks
+## ملاحظات
 
-توفر هذه الفئة وسيلة لتخصيص عملية إصلاح مستند PDF.
+توفر هذه الفئة طريقة لتخصيص عملية إصلاح Document PDF.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

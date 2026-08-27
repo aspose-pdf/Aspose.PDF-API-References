@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Flush
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptimizedMemoryStream. تم تجاوز الوظيفة
+title: "OptimizedMemoryStream.Flush"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptimizedMemoryStream. تم تجاوز الدالة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/optimizedmemorystream/flush/
 ---
-## طريقة OptimizedMemoryStream.Flush
+## OptimizedMemoryStream.Flush method
 
-تم تجاوز الوظيفة.
+الدالة المتجاوزة.
 
 ```csharp
 public override void Flush()
@@ -19,3 +19,5 @@ public override void Flush()
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

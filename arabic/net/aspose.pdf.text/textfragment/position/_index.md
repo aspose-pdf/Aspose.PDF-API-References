@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين موضع النص للنص الممثل بواسطة كائن TextFragment
+title: "TextFragment.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragment. تحصل أو تعيّن موضع النص للنص الممثَّل بواسطة كائن TextFragment."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.text/textfragment/position/
 ---
-## خاصية TextFragment.Position
+## TextFragment.Position property
 
-تحصل أو تعين موضع النص للنص، الممثل بواسطة كائن [`TextFragment`](../).
+يحصل أو يعين موضع النص للنص الممثَّل بكائن [`TextFragment`](../).
 
 ```csharp
 public Position Position { get; set; }
@@ -16,19 +16,19 @@ public Position Position { get; set; }
 
 ## أمثلة
 
-توضح المثال كيفية عرض موضع نص، ممثل بواسطة كائن [`TextFragment`](../).
+يوضح المثال كيفية عرض موضع النص الممثَّل بكائن [`TextFragment`](../).
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// View text and placement info of first text occurrence
+// عرض النص ومعلومات الموقع لأول ظهور للنص
 TextFragment firstOccurrence = absorber.TextFragments[1];
 
 Console.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
@@ -46,3 +46,5 @@ Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Po
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

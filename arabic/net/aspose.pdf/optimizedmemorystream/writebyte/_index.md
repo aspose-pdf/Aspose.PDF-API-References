@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.WriteByte
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptimizedMemoryStream. تكتب بايتًا في الموضع الحالي في الدفق وتقدم الموضع داخل الدفق ببايت واحد
+title: "OptimizedMemoryStream.WriteByte"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptimizedMemoryStream. تكتب بايتًا إلى الموضع الحالي في التيار وتقدم الموضع داخل التيار بايتًا واحدًا"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/optimizedmemorystream/writebyte/
 ---
-## طريقة OptimizedMemoryStream.WriteByte
+## OptimizedMemoryStream.WriteByte method
 
-تكتب بايتًا في الموضع الحالي في الدفق وتقدم الموضع داخل الدفق ببايت واحد.
+تكتب بايتًا إلى الموضع الحالي في الدفق وتقدم الموضع داخل الدفق بايتًا واحدًا.
 
 ```csharp
 public override void WriteByte(byte value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Byte | البايت الذي سيتم كتابته في الدفق. |
+| القيمة | Byte | البايت الذي سيُكتب إلى التيار. |
 
 ### انظر أيضًا
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

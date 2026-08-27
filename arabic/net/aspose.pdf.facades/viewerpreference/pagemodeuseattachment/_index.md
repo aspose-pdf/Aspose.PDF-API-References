@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageModeUseAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. وضع الصفحة مع المرفقات
+title: "ViewerPreference.PageModeUseAttachment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. وضع الصفحة مع المرفقات"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.facades/viewerpreference/pagemodeuseattachment/
 ---
-## حقل ViewerPreference.PageModeUseAttachment
+## ViewerPreference.PageModeUseAttachment field
 
 وضع الصفحة مع المرفقات.
 
@@ -19,3 +19,5 @@ public const int PageModeUseAttachment;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

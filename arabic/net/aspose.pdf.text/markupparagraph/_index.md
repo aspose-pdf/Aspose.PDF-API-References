@@ -1,31 +1,33 @@
 ---
-title: Class MarkupParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.MarkupParagraph. تمثل فقرة
+title: "الفئة MarkupParagraph"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Text.MarkupParagraph. تمثل فقرة"
 type: docs
-weight: 10630
+weight: 10810
 url: /ar/net/aspose.pdf.text/markupparagraph/
 ---
 ## MarkupParagraph class
 
-تمثل فقرة.
+يمثل فقرة.
 
 ```csharp
 public sealed class MarkupParagraph
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ContinuationPageNumbers](../../aspose.pdf.text/markupparagraph/continuationpagenumbers/) { get; } | قائمة بأرقام الصفحات التي تستمر فيها الفقرة. ستتطابق مع الصفحة التي بدأت فيها الفقرة إذا كانت تستمر في العمود التالي على نفس الصفحة. |
+| [ContinuationPageNumbers](../../aspose.pdf.text/markupparagraph/continuationpagenumbers/) { get; } | قائمة أرقام الصفحات التي يتم فيها استمرار الفقرة. سيتطابق مع الصفحة التي بدأت فيها الفقرة إذا استمرت في العمود التالي على نفس الصفحة. |
 | [Fragments](../../aspose.pdf.text/markupparagraph/fragments/) { get; } | مجموعة من كائنات [`TextFragment`](../textfragment/) غير الفارغة للفقرة. |
-| [Lines](../../aspose.pdf.text/markupparagraph/lines/) { get; } | خطوط الفقرة. كل خط ممثل بقائمة من أجزاء النص. |
-| [Points](../../aspose.pdf.text/markupparagraph/points/) { get; } | نقاط المضلع التي تصف الفقرة. نقطة البداية هي الزاوية السفلى اليسرى من الفقرة. والنقاط التالية تكون في تسلسل عكس عقارب الساعة. |
-| [SecondaryPoints](../../aspose.pdf.text/markupparagraph/secondarypoints/) { get; } | نقاط المضلع الثانوي التي تصف استمرار الفقرة. لن تكون فارغة إذا كانت الفقرة مستمرة في العمود أو الصفحة التالية. نقطة البداية هي الزاوية السفلى اليسرى من الفقرة. والنقاط التالية تكون في تسلسل عكس عقارب الساعة. |
-| [Text](../../aspose.pdf.text/markupparagraph/text/) { get; set; } | يحصل على نص الفقرة أو يضبطه. |
+| [Lines](../../aspose.pdf.text/markupparagraph/lines/) { get; } | أسطر الفقرة. كل سطر ممثل بقائمة من مقاطع النص. |
+| [Points](../../aspose.pdf.text/markupparagraph/points/) { get; } | نقاط المضلع الذي يصف الفقرة. النقطة البداية هي الزاوية السفلية اليسرى للفقرة. والنقاط التالية تكون بترتيب عكس اتجاه عقارب الساعة. |
+| [SecondaryPoints](../../aspose.pdf.text/markupparagraph/secondarypoints/) { get; } | نقاط المضلع الثانوي الذي يصف استمرار الفقرة. لن تكون فارغة إذا استمرت الفقرة في العمود التالي أو الصفحة. النقطة البداية هي الزاوية السفلية اليسرى للفقرة. والنقاط التالية تكون بترتيب عكس اتجاه عقارب الساعة. |
+| [Text](../../aspose.pdf.text/markupparagraph/text/) { get; set; } | يحصل أو يعيّن نص الفقرة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

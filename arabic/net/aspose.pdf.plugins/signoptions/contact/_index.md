@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Contact
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignOptions. جهة الاتصال للتوقيع
+title: "SignOptions.Contact"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignOptions. جهة الاتصال للتوقيع"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/signoptions/contact/
 ---
-## خاصية SignOptions.Contact
+## SignOptions.Contact property
 
 جهة الاتصال للتوقيع.
 
@@ -19,3 +19,5 @@ public string Contact { get; set; }
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

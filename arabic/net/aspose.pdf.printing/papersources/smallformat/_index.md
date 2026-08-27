@@ -1,14 +1,14 @@
 ---
-title: PaperSources.SmallFormat
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل الحاوية للورق بحجم أصغر
+title: "PaperSources.SmallFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل الحاوية للورق ذات التنسيق الأصغر"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.printing/papersources/smallformat/
 ---
-## حقل PaperSources.SmallFormat
+## PaperSources.SmallFormat field
 
-يمثل الحاوية للورق بحجم أصغر.
+يمثل الصندوق للورق بصيغة أصغر.
 
 ```csharp
 public static readonly PaperSource SmallFormat;
@@ -20,3 +20,5 @@ public static readonly PaperSource SmallFormat;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

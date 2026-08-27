@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompletionCreateRequest. يحصل أو يحدد ما إذا كان يجب استخدام البث. إذا تم تعيينه، سيتم إرسال دلتا الرسائل الجزئية مثلما في ChatGPT. سيتم إرسال الرموز كأحداث خادم مرسلة فقط عند توفرها، مع إنهاء البث بواسطة رسالة بيانات DONE
+title: "CompletionCreateRequest.Stream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompletionCreateRequest. تحصل أو تعين ما إذا كان سيتم استخدام البث. إذا تم التعيين، سيتم إرسال تغييرات جزئية للرسائل كما في ChatGPT. سيتم إرسال الرموز كأحداث سيرفر-إرسال (dataonly) كلما توفرت، مع إنهاء البث برسالة data DONE."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.ai/completioncreaterequest/stream/
 ---
-## خاصية CompletionCreateRequest.Stream
+## CompletionCreateRequest.Stream property
 
-يحصل أو يحدد ما إذا كان يجب استخدام البث. إذا تم تعيينه، سيتم إرسال دلتا الرسائل الجزئية، مثلما في ChatGPT. سيتم إرسال الرموز كأحداث خادم مرسلة فقط عند توفرها، مع إنهاء البث بواسطة رسالة بيانات: [DONE].
+يحصل أو يضبط ما إذا كان سيتم استخدام البث. إذا تم الضبط، سيتم إرسال دلتا الرسائل الجزئية، مثلما في ChatGPT. سيتم إرسال الرموز كأحداث خادم-مُرسلة بيانات فقط عندما تصبح متاحة، مع إنهاء البث برسالة data: [DONE].
 
 ```csharp
 public bool? Stream { get; set; }
@@ -19,3 +19,5 @@ public bool? Stream { get; set; }
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

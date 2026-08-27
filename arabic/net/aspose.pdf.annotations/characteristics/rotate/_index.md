@@ -1,14 +1,14 @@
 ---
-title: Characteristics.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Characteristics. تحصل أو تعين دوران التعليق
+title: "Characteristics.Rotate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Characteristics. يحصل أو يضبط دوران التعليق."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/characteristics/rotate/
 ---
-## خاصية Characteristics.Rotate
+## Characteristics.Rotate property
 
-تحصل أو تعين دوران التعليق.
+يحصل أو يعيّن دوران الملاحظة.
 
 ```csharp
 public Rotation Rotate { get; set; }
@@ -20,3 +20,5 @@ public Rotation Rotate { get; set; }
 * class [Characteristics](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

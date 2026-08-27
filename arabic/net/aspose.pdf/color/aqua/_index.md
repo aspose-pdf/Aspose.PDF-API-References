@@ -1,14 +1,14 @@
 ---
-title: Color.Aqua
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FF00FFFF
+title: "Color.Aqua"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB c FF00FFFF"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/color/aqua/
 ---
-## خاصية Color.Aqua
+## Color.Aqua property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FF00FFFF.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FF00FFFF.
 
 ```csharp
 public static Color Aqua { get; }
@@ -16,10 +16,12 @@ public static Color Aqua { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

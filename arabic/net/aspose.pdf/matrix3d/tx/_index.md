@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.Tx
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Matrix3D. عضو Tx من مصفوفة التحويل
+title: "Matrix3D.Tx"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Matrix3D. العنصر Tx من مصفوفة التحويل."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/matrix3d/tx/
 ---
-## خاصية Matrix3D.Tx
+## Matrix3D.Tx property
 
-عضو Tx من مصفوفة التحويل.
+العضو Tx في مصفوفة التحويل.
 
 ```csharp
 public double Tx { get; set; }
@@ -19,3 +19,5 @@ public double Tx { get; set; }
 * class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CollectionSchema.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CollectionSchema. تحصل على جميع أسماء حقول المخططات
+title: "CollectionSchema.AllNames"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CollectionSchema. تحصل على جميع أسماء حقول المخططات"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/collectionschema/allnames/
 ---
-## خاصية CollectionSchema.AllNames
+## CollectionSchema.AllNames property
 
-تحصل على جميع أسماء حقول المخطط.
+الحصول على جميع أسماء حقول schema.
 
 ```csharp
 public ICollection<string> AllNames { get; }
@@ -19,3 +19,5 @@ public ICollection<string> AllNames { get; }
 * class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

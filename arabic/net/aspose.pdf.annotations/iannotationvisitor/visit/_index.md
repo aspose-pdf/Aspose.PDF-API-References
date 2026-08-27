@@ -1,24 +1,24 @@
 ---
-title: IAnnotationVisitor.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IAnnotationVisitor. زيارة/تحديد تعليق الرابط
+title: "IAnnotationVisitor.Visit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IAnnotationVisitor. زيارة/تحديد تعليقة الرابط"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_8}
 
-زيارة/تحديد تعليق الرابط.
+زيارة/اختيار تعليق رابط.
 
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| link | LinkAnnotation | مثال/نموذج كائن LinkAnnotation. |
+| link | LinkAnnotation | مثال/قالب كائن LinkAnnotation. |
 
-### See Also
+### انظر أيضًا
 
 * class [LinkAnnotation](../../linkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -29,17 +29,17 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_3}
 
-زيارة/تحديد تعليق المرفق.
+زيارة/اختيار تعليق مرفق.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | مثال/نموذج كائن FileAttachmentAnnotation. |
+| attachment | FileAttachmentAnnotation | مثال/قالب كائن FileAttachmentAnnotation. |
 
-### See Also
+### انظر أيضًا
 
 * class [FileAttachmentAnnotation](../../fileattachmentannotation/)
 * interface [IAnnotationVisitor](../)
@@ -50,17 +50,17 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ## Visit(TextAnnotation) {#visit_20}
 
-زيارة/تحديد تعليق النص.
+زيارة/تحديد التعليق النصي.
 
 ```csharp
 public void Visit(TextAnnotation text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | TextAnnotation | مثال/نموذج كائن TextAnnotation. |
+| نص | TextAnnotation | مثال/قالب كائن TextAnnotation. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextAnnotation](../../textannotation/)
 * interface [IAnnotationVisitor](../)
@@ -71,17 +71,17 @@ public void Visit(TextAnnotation text)
 
 ## Visit(FreeTextAnnotation) {#visit_4}
 
-زيارة/تحديد تعليق النص الحر.
+زيارة/اختيار تعليق نص حر.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | مثال/نموذج كائن FreeTextAnnotation. |
+| freetext | FreeTextAnnotation | مثال/قالب كائن FreeTextAnnotation. |
 
-### See Also
+### انظر أيضًا
 
 * class [FreeTextAnnotation](../../freetextannotation/)
 * interface [IAnnotationVisitor](../)
@@ -92,17 +92,17 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_5}
 
-زيارة/تحديد تعليق التمييز.
+زيارة/اختيار تعليق تمييز.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | مثال/نموذج كائن HighlightAnnotation. |
+| highlight | HighlightAnnotation | مثال/قالب كائن HighlightAnnotation. |
 
-### See Also
+### انظر أيضًا
 
 * class [HighlightAnnotation](../../highlightannotation/)
 * interface [IAnnotationVisitor](../)
@@ -113,17 +113,17 @@ public void Visit(HighlightAnnotation highlight)
 
 ## Visit(UnderlineAnnotation) {#visit_22}
 
-زيارة/تحديد تعليق التسطير.
+زيارة/تحديد التعليق المسطر.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | مثال/نموذج كائن UnderlineAnnotation. |
+| underline | UnderlineAnnotation | مثال/قالب كائن UnderlineAnnotation. |
 
-### See Also
+### انظر أيضًا
 
 * class [UnderlineAnnotation](../../underlineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -134,17 +134,17 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_19}
 
-زيارة/تحديد تعليق الشطب.
+زيارة/تحديد التعليق المشطوب.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | مثال/نموذج كائن StrikeOutAnnotation. |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [StrikeOutAnnotation](../../strikeoutannotation/)
 * interface [IAnnotationVisitor](../)
@@ -155,17 +155,17 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ## Visit(SquigglyAnnotation) {#visit_17}
 
-زيارة/تحديد تعليق التعرج.
+زيارة/تحديد التعليق المتعرج.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | مثال/نموذج كائن SquigglyAnnotation. |
+| متعرج | SquigglyAnnotation | SquigglyAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [SquigglyAnnotation](../../squigglyannotation/)
 * interface [IAnnotationVisitor](../)
@@ -176,17 +176,17 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_13}
 
-زيارة/تحديد تعليق النافذة المنبثقة.
+زيارة/اختيار تعليق منبثق.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| popup | PopupAnnotation | مثال/نموذج كائن PopupAnnotation. |
+| منبثق | PopupAnnotation | PopupAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [PopupAnnotation](../../popupannotation/)
 * interface [IAnnotationVisitor](../)
@@ -197,17 +197,17 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_7}
 
-زيارة/تحديد تعليق الخط.
+زيارة/اختيار تعليق خط.
 
 ```csharp
 public void Visit(LineAnnotation line)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | LineAnnotation | مثال/نموذج كائن LineAnnotation. |
+| سطر | LineAnnotation | LineAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [LineAnnotation](../../lineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -218,17 +218,17 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-زيارة/تحديد تعليق الدائرة.
+زيارة/اختيار تعليق دائرة.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| circle | CircleAnnotation | مثال/نموذج كائن CircleAnnotation. |
+| دائرة | CircleAnnotation | CircleAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [CircleAnnotation](../../circleannotation/)
 * interface [IAnnotationVisitor](../)
@@ -239,17 +239,17 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_16}
 
-زيارة/تحديد تعليق المربع.
+زيارة/تحديد التعليق المربع.
 
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| square | SquareAnnotation | مثال/نموذج كائن SquareAnnotation. |
+| مربع | SquareAnnotation | SquareAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [SquareAnnotation](../../squareannotation/)
 * interface [IAnnotationVisitor](../)
@@ -260,17 +260,17 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_6}
 
-زيارة/تحديد تعليق الحبر.
+زيارة/اختيار تعليق حبر.
 
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ink | InkAnnotation | مثال/نموذج كائن InkAnnotation. |
+| حبر | InkAnnotation | InkAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [InkAnnotation](../../inkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -281,17 +281,17 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_12}
 
-زيارة/تحديد تعليق الخط المتعدد.
+زيارة/اختيار تعليق خط متعدد.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | مثال/نموذج كائن PolylineAnnotation. |
+| متعدد الخطوط | PolylineAnnotation | PolylineAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [PolylineAnnotation](../../polylineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -302,17 +302,17 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_11}
 
-زيارة/تحديد تعليق المضلع.
+زيارة/اختيار تعليق مضلع.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | مثال/نموذج كائن PolygonAnnotation. |
+| مضلع | PolygonAnnotation | PolygonAnnotation مثال/قالب لكائن. |
 
-### See Also
+### انظر أيضًا
 
 * class [PolygonAnnotation](../../polygonannotation/)
 * interface [IAnnotationVisitor](../)
@@ -323,17 +323,17 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit_1}
 
-زيارة/تحديد تعليق المؤشر.
+زيارة/اختيار تعليق المؤشر.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| caret | CaretAnnotation | مثال/نموذج كائن CaretAnnotation. |
+| مؤشر | CaretAnnotation | CaretAnnotation كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [CaretAnnotation](../../caretannotation/)
 * interface [IAnnotationVisitor](../)
@@ -344,17 +344,17 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_18}
 
-زيارة/تحديد تعليق الختم.
+زيارة/تحديد التعليق الختم.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stamp | StampAnnotation | مثال/نموذج كائن StampAnnotation. |
+| ختم | StampAnnotation | StampAnnotation كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [StampAnnotation](../../stampannotation/)
 * interface [IAnnotationVisitor](../)
@@ -365,17 +365,17 @@ public void Visit(StampAnnotation stamp)
 
 ## Visit(WidgetAnnotation) {#visit_23}
 
-زيارة/تحديد تعليق الودجت.
+زيارة/تحديد التعليق الودجت.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| widget | WidgetAnnotation | مثال/نموذج كائن WidgetAnnotation. |
+| أداة | WidgetAnnotation | WidgetAnnotation كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [WidgetAnnotation](../../widgetannotation/)
 * interface [IAnnotationVisitor](../)
@@ -386,17 +386,17 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(MovieAnnotation) {#visit_9}
 
-زيارة/تحديد تعليق الفيلم.
+زيارة/اختيار تعليق فيلم.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| movie | MovieAnnotation | مثال/نموذج كائن MovieAnnotation. |
+| فيلم | MovieAnnotation | MovieAnnotation كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [MovieAnnotation](../../movieannotation/)
 * interface [IAnnotationVisitor](../)
@@ -407,17 +407,17 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(ScreenAnnotation) {#visit_15}
 
-زيارة/تحديد تعليق الشاشة.
+زيارة/اختيار تعليق شاشة.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| screen | ScreenAnnotation | مثال/نموذج كائن ScreenAnnotation. |
+| شاشة | ScreenAnnotation | ScreenAnnotation كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [ScreenAnnotation](../../screenannotation/)
 * interface [IAnnotationVisitor](../)
@@ -434,11 +434,11 @@ public void Visit(ScreenAnnotation screen)
 public void Visit(TrimMarkAnnotation trimMark)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | مثال/نموذج كائن [`TrimMarkAnnotation`](../../trimmarkannotation/). |
+| trimMark | TrimMarkAnnotation | الـ [`TrimMarkAnnotation`](../../trimmarkannotation/) كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [TrimMarkAnnotation](../../trimmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -449,17 +449,17 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-زيارة/تحديد تعليق علامة النزيف.
+زيارة/اختيار تعليق علامة النزيف.
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | مثال/نموذج كائن [`BleedMarkAnnotation`](../../bleedmarkannotation/). |
+| bleedMark | BleedMarkAnnotation | الـ [`BleedMarkAnnotation`](../../bleedmarkannotation/) كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [BleedMarkAnnotation](../../bleedmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -470,17 +470,17 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ## Visit(RegistrationMarkAnnotation) {#visit_14}
 
-زيارة/تحديد تعليق علامة التسجيل.
+زيارة/اختيار تعليق علامة التسجيل.
 
 ```csharp
 public void Visit(RegistrationMarkAnnotation registrationMark)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | مثال/نموذج كائن [`RegistrationMarkAnnotation`](../../registrationmarkannotation/). |
+| registrationMark | RegistrationMarkAnnotation | الـ [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -491,19 +491,21 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ## Visit(PageInformationAnnotation) {#visit_10}
 
-زيارة/تحديد تعليق معلومات الصفحة.
+زيارة/اختيار تعليق معلومات الصفحة.
 
 ```csharp
 public void Visit(PageInformationAnnotation pageInformation)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | مثال/نموذج كائن [`PageInformationAnnotation`](../../pageinformationannotation/). |
+| pageInformation | PageInformationAnnotation | الـ [`PageInformationAnnotation`](../../pageinformationannotation/) كائن مثال/قالب. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageInformationAnnotation](../../pageinformationannotation/)
 * interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: EmbeddedFileCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EmbeddedFileCollection. تضيف مواصفة ملف مضمن إلى المجموعة
+title: "EmbeddedFileCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EmbeddedFileCollection. إضافة مواصفات الملف المضمّن إلى المجموعة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/embeddedfilecollection/add/
 ---
 ## Add(FileSpecification) {#add}
 
-تضيف مواصفة ملف مضمن إلى المجموعة.
+يضيف مواصفات الملف المضمن إلى المجموعة.
 
 ```csharp
 public void Add(FileSpecification file)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| file | FileSpecification | مواصفة الملف التي يجب إضافتها إلى المجموعة. |
+| file | FileSpecification | FileSpecification التي يجب إضافتها إلى colleciton. |
 
-### See Also
+### انظر أيضًا
 
 * class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
@@ -29,20 +29,22 @@ public void Add(FileSpecification file)
 
 ## Add(string, FileSpecification) {#add_1}
 
-تضيف ملفًا إلى الملفات المضمنة باستخدام المفتاح المحدد.
+يضيف ملفًا إلى الملفات المضمنة بالمفتاح المحدد.
 
 ```csharp
 public void Add(string key, FileSpecification file)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح في الملفات المضمنة. |
+| المفتاح | String | المفتاح في الملفات المضمّنة. |
 | file | FileSpecification | مواصفة الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

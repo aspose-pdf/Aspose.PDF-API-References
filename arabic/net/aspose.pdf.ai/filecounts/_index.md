@@ -1,12 +1,12 @@
 ---
-title: Class FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.FileCounts.
+title: "الفئة FileCounts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.FileCounts."
 type: docs
-weight: 380
+weight: 400
 url: /ar/net/aspose.pdf.ai/filecounts/
 ---
-## فئة FileCounts
+## FileCounts class
 
 ```csharp
 public class FileCounts
@@ -16,19 +16,21 @@ public class FileCounts
 
 | الاسم | الوصف |
 | --- | --- |
-| [FileCounts](filecounts/)() | المنشئ الافتراضي. |
+| [FileCounts](filecounts/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | يحصل أو يحدد عدد الملفات التي تم إلغاؤها. |
-| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | يحصل أو يحدد عدد الملفات التي تم معالجتها بنجاح. |
-| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | يحصل أو يحدد عدد الملفات التي فشلت في المعالجة. |
-| [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } | يحصل أو يحدد عدد الملفات التي يتم معالجتها حاليًا. |
-| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | يحصل أو يحدد العدد الإجمالي للملفات في مخزن المتجهات. |
+| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | يحصل أو يعيّن عدد الملفات التي تم إلغاؤها. |
+| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | يحصل أو يعيّن عدد الملفات التي تم معالجتها بنجاح. |
+| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | يحصل أو يعيّن عدد الملفات التي فشل معالجتها. |
+| [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } | يحصل أو يعيّن عدد الملفات التي يجري معالجتها حالياً. |
+| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | يحصل أو يعيّن إجمالي عدد الملفات في مخزن المتجهات. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,36 +1,38 @@
 ---
-title: Class DocumentFactory
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.DocumentFactory. فئة تسمح بإنشاء/تحميل مستندات من أنواع مختلفة
+title: "فئة DocumentFactory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.DocumentFactory. الفئة التي تسمح بإنشاء/تحميل مستندات بأنواع مختلفة"
 type: docs
-weight: 3860
+weight: 3980
 url: /ar/net/aspose.pdf/documentfactory/
 ---
 ## DocumentFactory class
 
-فئة تسمح بإنشاء/تحميل مستندات من أنواع مختلفة.
+فئة تسمح بإنشاء/تحميل مستندات بأنواع مختلفة.
 
 ```csharp
 public class DocumentFactory
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DocumentFactory](documentfactory/)() | المُنشئ الافتراضي. |
+| [DocumentFactory](documentfactory/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument)() | إنشاء مستند فارغ. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_1)(Stream) | تحميل مستند من دفق. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_4)(string) | تحميل مستند من ملف. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_1)(Stream) | تحميل المستند من تدفق. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_4)(string) | تحميل المستند من ملف. |
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_2)(Stream, LoadOptions) | إنشاء مستند. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | تحميل مستند محمي بكلمة مرور من دفق. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | تحميل مستند محمي بكلمة مرور من تدفق. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSources.TractorFeed
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل مصدر ورق مستمر بتغذية الجرار
+title: "PaperSources.TractorFeed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل مصدر ورق مستمر للجر"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.printing/papersources/tractorfeed/
 ---
-## حقل PaperSources.TractorFeed
+## PaperSources.TractorFeed field
 
-يمثل مصدر ورق مستمر بتغذية الجرار.
+يمثل مصدر ورق مستمر بتغذية جرارة.
 
 ```csharp
 public static readonly PaperSource TractorFeed;
@@ -20,3 +20,5 @@ public static readonly PaperSource TractorFeed;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

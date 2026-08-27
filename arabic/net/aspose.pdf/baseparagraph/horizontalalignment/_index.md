@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseParagraph. تحصل أو تعين محاذاة أفقية للفقرة
+title: "BaseParagraph.HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseParagraph. يحصل أو يضبط محاذاة أفقية للفقرة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/baseparagraph/horizontalalignment/
 ---
-## خاصية BaseParagraph.HorizontalAlignment
+## BaseParagraph.HorizontalAlignment property
 
-تحصل أو تعين محاذاة أفقية للفقرة
+يحصل أو يعيّن محاذاة أفقية للفقرة
 
 ```csharp
 public virtual HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public virtual HorizontalAlignment HorizontalAlignment { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

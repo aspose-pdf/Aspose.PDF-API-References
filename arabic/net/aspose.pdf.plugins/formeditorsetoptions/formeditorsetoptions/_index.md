@@ -1,28 +1,30 @@
 ---
-title: FormEditorSetOptions.FormEditorSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormEditorSetOptions. يقوم بتهيئة مثيل جديد من كائن FormEditorSetOptions الذي يتم فيه تحديد القيم المعينة لخصائص الحقل
+title: "FormEditorSetOptions.FormEditorSetOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormEditorSetOptions. يهيئ نسخة جديدة من كائن FormEditorSetOptions حيث تُحدد القيم المعينة لخصائص الحقل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formeditorsetoptions/formeditorsetoptions/
 ---
-## مُنشئ FormEditorSetOptions
+## FormEditorSetOptions constructor
 
-يقوم بتهيئة مثيل جديد من كائن [`FormEditorSetOptions`](../) الذي يتم فيه تحديد القيم المعينة لخصائص الحقل.
+يُهيئ نسخة جديدة من الكائن [`FormEditorSetOptions`](../) حيث تُحدد القيم المعينة لخصائص الحقل.
 
 ```csharp
 public FormEditorSetOptions(SelectField selectField, FormFieldSetOptions settedOptions)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| selectField | SelectField | مُفوض يحدد خصائص أي حقل (حقول) يجب تعيين القيم لها. |
-| settedOptions | FormFieldSetOptions | كائن يحتوي على القيم المعينة لخصائص الحقول (الحقل). قد يكون كائن من فئة مشتقة، تتوافق مع نوع حقل معين. |
+| selectField | SelectField | المندوب الذي يحدد خصائص الحقل(ات) التي سيتم تعيين القيم لها. |
+| settedOptions | FormFieldSetOptions | كائن يحتوي على القيم المعينة لخصائص الحقل(ات). قد يكون كائنًا من فئة مشتقة، تتوافق مع نوع حقل معين. |
 
 ### انظر أيضًا
 
-* مُفوض [SelectField](../../selectfield/)
-* فئة [FormFieldSetOptions](../../formfieldsetoptions/)
-* فئة [FormEditorSetOptions](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* delegate [SelectField](../../selectfield/)
+* class [FormFieldSetOptions](../../formfieldsetoptions/)
+* class [FormEditorSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

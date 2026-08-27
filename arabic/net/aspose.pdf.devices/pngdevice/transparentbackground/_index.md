@@ -1,14 +1,14 @@
 ---
-title: PngDevice.TransparentBackground
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PngDevice. يحصل أو يحدد ما إذا كانت الصورة تحتوي على خلفية شفافة
+title: "PngDevice.TransparentBackground"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PngDevice. يحصل أو يضبط ما إذا كانت الصورة ذات خلفية شفافة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.devices/pngdevice/transparentbackground/
 ---
-## خاصية PngDevice.TransparentBackground
+## PngDevice.TransparentBackground property
 
-يحصل أو يحدد ما إذا كانت الصورة تحتوي على خلفية شفافة.
+يحصل أو يضبط ما إذا كانت الصورة ذات خلفية شفافة.
 
 ```csharp
 public bool TransparentBackground { get; set; }
@@ -19,3 +19,5 @@ public bool TransparentBackground { get; set; }
 * class [PngDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

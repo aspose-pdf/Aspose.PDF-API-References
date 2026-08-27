@@ -1,26 +1,26 @@
 ---
-title: PdfFileSecurity.DecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSecurity. تقوم بفك تشفير مستند Pdf مشفر بواسطة كلمة مرور المالك. إذا لم يكن لدى المستند كلمة مرور للمالك، يُسمح باستخدام كلمة مرور المستخدم. ترمي استثناءً إذا فشل العملية
+title: "PdfFileSecurity.DecryptFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSecurity. تقوم بفك تشفير مستند Pdf مشفر باستخدام كلمة مرور المالك. إذا لم يحتوي المستند على كلمة مرور مالك، يُسمح باستخدام كلمة مرور المستخدم. تُلقي استثناءً إذا فشلت العملية"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/decryptfile/
 ---
-## طريقة PdfFileSecurity.DecryptFile
+## PdfFileSecurity.DecryptFile method
 
-تقوم بفك تشفير مستند Pdf مشفر بواسطة كلمة مرور المالك. إذا لم يكن لدى المستند كلمة مرور للمالك، يُسمح باستخدام كلمة مرور المستخدم. ترمي استثناءً إذا فشل العملية.
+يفك تشفير مستند Pdf مشفر باستخدام كلمة مرور المالك. إذا لم يكن للمستند كلمة مرور مالك، يُسمح باستخدام كلمة مرور المستخدم. يرمي استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool DecryptFile(string ownerPassword)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | ownerPassword | String | كلمة مرور المالك. |
 
 ### قيمة الإرجاع
 
-True للنجاح.
+صحيح للنجاح.
 
 ## أمثلة
 
@@ -43,3 +43,5 @@ fileSecurity.DecryptFile("ownerpass")
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

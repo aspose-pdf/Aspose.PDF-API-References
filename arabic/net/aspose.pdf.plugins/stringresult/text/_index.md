@@ -1,14 +1,14 @@
 ---
-title: StringResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StringResult. تعيد التمثيل النصي للنتيجة
+title: "StringResult.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StringResult. تُرجع تمثيل السلسلة للنتيجة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.plugins/stringresult/text/
 ---
-## خاصية StringResult.Text
+## StringResult.Text property
 
-تعيد التمثيل النصي للنتيجة.
+يعيد تمثيل السلسلة النصية للنتيجة.
 
 ```csharp
 public string Text { get; }
@@ -19,3 +19,5 @@ public string Text { get; }
 * class [StringResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

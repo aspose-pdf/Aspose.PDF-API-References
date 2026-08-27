@@ -1,14 +1,14 @@
 ---
-title: FormOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormOptions. تعيد مجموعة بيانات المكونات الإضافية لـ Form....
+title: "FormOptions.Inputs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormOptions. تُرجع مجموعة بيانات ملحقات Form...."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formoptions/inputs/
 ---
-## خاصية FormOptions.Inputs
+## FormOptions.Inputs property
 
-تعيد مجموعة بيانات المكونات الإضافية لـ Form....
+يرجع مجموعة بيانات مكوّن Form....
 
 ```csharp
 public List<IDataSource> Inputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Inputs { get; }
 
 ### انظر أيضًا
 
-* واجهة [IDataSource](../../idatasource/)
-* فئة [FormOptions](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [FormOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

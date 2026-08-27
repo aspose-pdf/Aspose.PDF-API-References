@@ -1,14 +1,14 @@
 ---
-title: Cell.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلية. تحصل أو تعين عرض العمود
+title: "Cell.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cell. يحصل أو يحدد عرض العمود"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/cell/width/
 ---
-## خاصية Cell.Width
+## Cell.Width property
 
-تحصل أو تعين عرض العمود.
+يحصل أو يضبط عرض العمود.
 
 ```csharp
 public double Width { get; }
@@ -19,3 +19,5 @@ public double Width { get; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

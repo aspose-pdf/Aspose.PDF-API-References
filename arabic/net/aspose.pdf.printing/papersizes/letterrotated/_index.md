@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterRotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق مائل بحجم 11 بوصة × 8.5 بوصة
+title: "PaperSizes.LetterRotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ورق رسالة مدور 11 بوصة × 8.5 بوصة"
 type: docs
 weight: 690
 url: /ar/net/aspose.pdf.printing/papersizes/letterrotated/
 ---
-## حقل PaperSizes.LetterRotated
+## PaperSizes.LetterRotated field
 
-ورق مائل (11 بوصة × 8.5 بوصة).
+ورق Letter مدوَّر (11 بوصة × 8.5 بوصة).
 
 ```csharp
 public static readonly PaperSize LetterRotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize LetterRotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

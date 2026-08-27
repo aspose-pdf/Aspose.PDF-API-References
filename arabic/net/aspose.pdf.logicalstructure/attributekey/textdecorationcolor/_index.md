@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TextDecorationColor
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية TextDecorationColor مالك خاصية التخطيط
+title: "AttributeKey.TextDecorationColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة TextDecorationColor سمة Layout المالك"
 type: docs
 weight: 350
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/textdecorationcolor/
 ---
-## حقل AttributeKey.TextDecorationColor
+## AttributeKey.TextDecorationColor field
 
-خاصية TextDecorationColor (مالك خاصية التخطيط).
+خاصية TextDecorationColor (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey TextDecorationColor;
@@ -19,3 +19,5 @@ public static readonly AttributeKey TextDecorationColor;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

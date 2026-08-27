@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ImageDevice. مُهيئ تجريدي لوراثات ImageDevice يحدد الدقة إلى 150x150
+title: "ImageDevice.ImageDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ImageDevice. مُهيئ تجريدي لسلالات ImageDevice يضبط الدقة إلى 150x150"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-مُهيئ تجريدي لوراثات [`ImageDevice`](../)، يحدد الدقة إلى 150x150.
+مُهيئ تجريدي لسلالات [`ImageDevice`](../) ، يضبط الدقة إلى 150x150.
 
 ```csharp
 public ImageDevice()
@@ -24,7 +24,7 @@ public ImageDevice()
 
 ## ImageDevice(Resolution) {#constructor_1}
 
-مُهيئ تجريدي لوراثات [`ImageDevice`](../).  الدقة لملف الصورة الناتج، انظر class [`Resolution`](../resolution/).
+مُهيئ تجريدي لسلالات [`ImageDevice`](../). دقة ملف الصورة الناتج، راجع فئة [`Resolution`](../resolution/).
 
 ```csharp
 public ImageDevice(Resolution resolution)
@@ -41,16 +41,16 @@ public ImageDevice(Resolution resolution)
 
 ## ImageDevice(int, int) {#constructor_4}
 
-يهيئ مثيلًا جديدًا من class [`JpegDevice`](../../jpegdevice/) بالأبعاد المحددة للصورة والدقة الافتراضية (=150).
+ينشئ مثيلاً جديداً لفئة [`JpegDevice`](../../jpegdevice/) بالأبعاد الصورة المقدمة والدقة الافتراضية (=150).
 
 ```csharp
 public ImageDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة الناتجة. |
-| height | Int32 | ارتفاع الصورة الناتجة. |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
 
 ### انظر أيضًا
 
@@ -62,13 +62,13 @@ public ImageDevice(int width, int height)
 
 ## ImageDevice(PageSize) {#constructor_2}
 
-يهيئ مثيلًا جديدًا من class [`JpegDevice`](../../jpegdevice/) بالأبعاد المحددة للصورة والدقة الافتراضية (=150).
+ينشئ مثيلاً جديداً لفئة [`JpegDevice`](../../jpegdevice/) بالأبعاد الصورة المقدمة والدقة الافتراضية (=150).
 
 ```csharp
 public ImageDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
 
@@ -83,17 +83,17 @@ public ImageDevice(PageSize pageSize)
 
 ## ImageDevice(int, int, Resolution) {#constructor_5}
 
-يهيئ مثيلًا جديدًا من class [`JpegDevice`](../../jpegdevice/) بالأبعاد المحددة للصورة والدقة.
+ينشئ مثيلاً جديداً لفئة [`JpegDevice`](../../jpegdevice/) بالأبعاد الصورة المقدمة والدقة.
 
 ```csharp
 public ImageDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة الناتجة. |
-| height | Int32 | ارتفاع الصورة الناتجة. |
-| resolution | Resolution | الدقة لملف الصورة الناتج، انظر class [`Resolution`](../resolution/). |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
+| resolution | Resolution | دقة ملف الصورة الناتج، راجع فئة [`Resolution`](../resolution/). |
 
 ### انظر أيضًا
 
@@ -106,16 +106,16 @@ public ImageDevice(int width, int height, Resolution resolution)
 
 ## ImageDevice(PageSize, Resolution) {#constructor_3}
 
-يهيئ مثيلًا جديدًا من class [`JpegDevice`](../../jpegdevice/) بالأبعاد المحددة للصورة والدقة.
+ينشئ مثيلاً جديداً لفئة [`JpegDevice`](../../jpegdevice/) بالأبعاد الصورة المقدمة والدقة.
 
 ```csharp
 public ImageDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
-| resolution | Resolution | الدقة لملف الصورة الناتج، انظر class [`Resolution`](../resolution/). |
+| resolution | Resolution | دقة ملف الصورة الناتج، راجع فئة [`Resolution`](../resolution/). |
 
 ### انظر أيضًا
 
@@ -124,3 +124,5 @@ public ImageDevice(PageSize pageSize, Resolution resolution)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

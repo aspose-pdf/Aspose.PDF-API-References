@@ -1,14 +1,14 @@
 ---
-title: TabStop.LeaderType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TabStop. تحصل أو تعين تعداد TabLeaderType الذي يشير إلى نوع قائد التبويب
+title: "TabStop.LeaderType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TabStop. تحصل أو تعين تعداد TabLeaderType الذي يشير إلى نوع القائد للعلامة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/tabstop/leadertype/
 ---
-## خاصية TabStop.LeaderType
+## TabStop.LeaderType property
 
-تحصل أو تعين تعداد [`TabLeaderType`](../../tableadertype/) الذي يشير إلى نوع قائد التبويب.
+تحصل أو تعين تعداد [`TabLeaderType`](../../tableadertype/) الذي يشير إلى نوع القائد للعلامة.
 
 ```csharp
 public TabLeaderType LeaderType { get; set; }
@@ -16,7 +16,9 @@ public TabLeaderType LeaderType { get; set; }
 
 ### انظر أيضًا
 
-* تعداد [TabLeaderType](../../tableadertype/)
-* فئة [TabStop](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* enum [TabLeaderType](../../tableadertype/)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

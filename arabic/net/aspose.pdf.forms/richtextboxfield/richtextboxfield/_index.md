@@ -1,22 +1,22 @@
 ---
-title: RichTextBoxField.RichTextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RichTextBoxField. مُنشئ حقل مربع النص الغني
+title: "RichTextBoxField.RichTextBoxField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RichTextBoxField. منشئ لحقل Rich Text Box"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/richtextboxfield/richtextboxfield/
 ---
-## مُنشئ RichTextBoxField
+## RichTextBoxField constructor
 
-مُنشئ حقل مربع النص الغني.
+منشئ حقل Rich Text Box.
 
 ```csharp
 public RichTextBoxField(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع الحقل فيها. |
+| صفحة | صفحة | Page التي سيتم وضع الحقل فيها. |
 | rect | Rectangle | موضع الحقل على الصفحة. |
 
 ### انظر أيضًا
@@ -26,3 +26,5 @@ public RichTextBoxField(Page page, Rectangle rect)
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

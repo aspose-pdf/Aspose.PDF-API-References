@@ -1,14 +1,14 @@
 ---
-title: IOperationResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IOperationResult. تشير إلى ما إذا كانت النتيجة هي مسار إلى ملف الإخراج
+title: "IOperationResult.IsFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IOperationResult. تشير إلى ما إذا كانت النتيجة مسارًا إلى ملف إخراج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/ioperationresult/isfile/
 ---
-## خاصية IOperationResult.IsFile
+## IOperationResult.IsFile property
 
-تشير إلى ما إذا كانت النتيجة هي مسار إلى ملف الإخراج.
+يشير إلى ما إذا كانت النتيجة مساراً إلى ملف إخراج.
 
 ```csharp
 public bool IsFile { get; }
@@ -20,6 +20,8 @@ public bool IsFile { get; }
 
 ### انظر أيضًا
 
-* واجهة [IOperationResult](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

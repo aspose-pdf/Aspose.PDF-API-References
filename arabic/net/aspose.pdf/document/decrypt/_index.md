@@ -1,35 +1,35 @@
 ---
-title: Document.Decrypt
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تقوم بفك تشفير الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المفككة من الوثيقة
+title: "Document.Decrypt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تقوم بفك تشفير المستند. استدعِ ثم احفظ للحصول على نسخة غير مشفرة من المستند"
 type: docs
-weight: 600
+weight: 620
 url: /ar/net/aspose.pdf/document/decrypt/
 ---
 ## Document.Decrypt method
 
-تقوم بفك تشفير الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المفككة من الوثيقة.
+يفك تشفير المستند. استدعِ ثم احفظ للحصول على نسخة غير مشفرة من المستند.
 
 ```csharp
 public void Decrypt()
 ```
 
-### Examples
+### أمثلة
 
-يعرض الكود النموذجي التالي كيفية فك تشفير ملف PDF.
+يوضح الكود النموذجي التالي كيفية فك تشفير ملف PDF.
 
 ```csharp
 [C#]
 	// The path to your PDF File.
 	string pdfFilePath = "YOUR_PDF_FILE_PATH";
 
-	// Open document
+	// فتح المستند
 	using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD"))
 	{
-		// Decrypt PDF
+		// فك تشفير PDF
 		document.Decrypt();
 
-		// Save updated PDF
+		// احفظ ملف PDF المحدث
 		document.Save(pdfFilePath);
 	}
 ```
@@ -51,8 +51,10 @@ public void Decrypt()
     End Using
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

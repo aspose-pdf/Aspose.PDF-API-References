@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Outset
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Attribute BorderStyle Outset  تجعل الحدود الصندوق بأكمله يبدو كما لو كان يخرج من القماش، وهو عكس Inset
+title: "AttributeName.BorderStyle_Outset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة BorderStyle Outset  يجعل الحد الصندوق بأكمله يبدو كما لو أنه يخرج من القماش، وهو عكس Inset"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_outset/
 ---
-## حقل AttributeName.BorderStyle_Outset
+## AttributeName.BorderStyle_Outset field
 
-Attribute BorderStyle: Outset - تجعل الحدود الصندوق بأكمله يبدو كما لو كان يخرج من القماش (وهو عكس Inset).
+السمة BorderStyle: Outset - يجعل الحد الصندوق بأكمله يبدو كما لو أنه يخرج من القماش (العكس من Inset).
 
 ```csharp
 public static readonly AttributeName BorderStyle_Outset;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Outset;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

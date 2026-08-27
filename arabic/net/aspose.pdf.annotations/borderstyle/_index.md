@@ -1,30 +1,32 @@
 ---
-title: Enum BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.BorderStyle enum. يصف نمط حدود التعليق
+title: "تعداد BorderStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Annotations.BorderStyle. يصف نمط حد التعليق التوضيحي"
 type: docs
-weight: 1530
+weight: 1620
 url: /ar/net/aspose.pdf.annotations/borderstyle/
 ---
 ## BorderStyle enumeration
 
-يصف نمط حدود التعليق.
+يصف نمط حدود التوضيح.
 
 ```csharp
 public enum BorderStyle
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Solid | `0` | حدود صلبة. |
-| Dashed | `1` | حدود منقطة. |
-| Beveled | `2` | حدود مائلة. |
-| Inset | `3` | حدود داخلية. |
-| Underline | `4` | حدود تحتية. |
+| Solid | `0` | حد صلب. |
+| Dashed | `1` | حد متقطع. |
+| Beveled | `2` | حد مائل. |
+| Inset | `3` | حد داخلي. |
+| Underline | `4` | حد مسطر. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

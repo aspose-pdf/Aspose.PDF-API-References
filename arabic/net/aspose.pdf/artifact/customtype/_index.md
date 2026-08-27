@@ -1,14 +1,14 @@
 ---
-title: Artifact.CustomType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. تحصل على اسم نوع الأرتيفكت. قد تُستخدم إذا كان نوع الأرتيفكت غير قياسي
+title: "Artifact.CustomType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. تحصل على اسم نوع العنصر. قد تُستخدم إذا كان نوع العنصر غير قياسي"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/artifact/customtype/
 ---
-## خاصية Artifact.CustomType
+## Artifact.CustomType property
 
-تحصل على اسم نوع الأرتيفكت. قد تُستخدم إذا كان نوع الأرتيفكت غير قياسي.
+يحصل على اسم نوع القطعة. قد يُستخدم إذا كان نوع القطعة غير قياسي.
 
 ```csharp
 public string CustomType { get; set; }
@@ -19,3 +19,5 @@ public string CustomType { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

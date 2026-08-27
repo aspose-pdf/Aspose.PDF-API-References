@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_UpperAlpha
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. قائمة الترقيم Attribute ListNumbering UpperAlpha  حروف كبيرة A B C
+title: "AttributeName.ListNumbering_UpperAlpha"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeName حقل. Attribute ListNumbering UpperAlpha  أحرف كبيرة A B C"
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperalpha/
 ---
-## حقل AttributeName.ListNumbering_UpperAlpha
+## AttributeName.ListNumbering_UpperAlpha field
 
-قائمة الترقيم Attribute ListNumbering: UpperAlpha - حروف كبيرة (A, B, C, ...).
+السمة ListNumbering: UpperAlpha - أحرف كبيرة (A, B, C, ...)
 
 ```csharp
 public static readonly AttributeName ListNumbering_UpperAlpha;
@@ -19,3 +19,5 @@ public static readonly AttributeName ListNumbering_UpperAlpha;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

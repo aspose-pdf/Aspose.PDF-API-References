@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderWidthUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. عرض الحدود غير محدد
+title: "FormFieldFacade.BorderWidthUndefined"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade field. عرض حد غير معرف"
 type: docs
 weight: 380
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderwidthundefined/
 ---
-## حقل FormFieldFacade.BorderWidthUndefined
+## FormFieldFacade.BorderWidthUndefined field
 
-عرض الحدود غير محدد.
+عرض حد غير معرف.
 
 ```csharp
 public const float BorderWidthUndefined;
@@ -19,3 +19,5 @@ public const float BorderWidthUndefined;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,42 +1,44 @@
 ---
-title: Class ShFill
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.ShFill. فئة تمثل منطقة الطلاء مع نمط التظليل
+title: "الفئة ShFill"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.ShFill الفئة. الفئة التي تمثل معامل sh لتلوين المنطقة بنمط تظليل."
 type: docs
-weight: 7870
+weight: 8010
 url: /ar/net/aspose.pdf.operators/shfill/
 ---
 ## ShFill class
 
-فئة تمثل مشغل sh (منطقة الطلاء مع نمط التظليل).
+الفئة التي تمثل عامل sh (رسم المنطقة بنمط تظليل).
 
 ```csharp
 public class ShFill : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ShFill](shfill/)(string) | Initializes operator. |
+| [ShFill](shfill/)(string) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [Name](../../aspose.pdf.operators/shfill/name/) { get; set; } | يحصل أو يحدد اسم التظليل. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [Name](../../aspose.pdf.operators/shfill/name/) { get; set; } | يحصل أو يعيّن اسم التظليل. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/shfill/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعامله. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/shfill/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

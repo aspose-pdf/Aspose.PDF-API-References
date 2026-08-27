@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextParagraph. تحصل أو تعين القيمة ما إذا كان النص مبررًا
+title: "TextParagraph.Justify"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يضبط القيمة التي تحدد ما إذا كان النص مبرراً"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/textparagraph/justify/
 ---
-## خاصية TextParagraph.Justify
+## TextParagraph.Justify property
 
-تحصل أو تعين القيمة ما إذا كان النص مبررًا.
+يحصل أو يعيّن القيمة التي تحدد ما إذا كان النص مبررًا.
 
 ```csharp
 public bool Justify { get; set; }
@@ -19,3 +19,5 @@ public bool Justify { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

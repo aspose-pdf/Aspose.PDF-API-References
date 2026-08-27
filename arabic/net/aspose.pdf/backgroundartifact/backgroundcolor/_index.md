@@ -1,14 +1,14 @@
 ---
-title: BackgroundArtifact.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BackgroundArtifact. تحصل أو تعين لون الخلفية لعنصر الخلفية
+title: "BackgroundArtifact.BackgroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BackgroundArtifact. يحصل أو يضبط لون الخلفية للعنصر الخلفي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/backgroundartifact/backgroundcolor/
 ---
-## خاصية BackgroundArtifact.BackgroundColor
+## BackgroundArtifact.BackgroundColor property
 
-تحصل أو تعين لون الخلفية لعنصر الخلفية
+يحصل أو يحدد لون الخلفية لقطعة BackgroundArtifact.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -20,3 +20,5 @@ public Color BackgroundColor { get; set; }
 * class [BackgroundArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

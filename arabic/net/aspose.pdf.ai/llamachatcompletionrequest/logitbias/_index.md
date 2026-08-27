@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.LogitBias
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionRequest. تعيين أو الحصول على انحياز اللوغيت لاستخدامه أثناء أخذ العينات
+title: "LlamaChatCompletionRequest.LogitBias"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionRequest. تعين أو تحصل على انحياز اللوغيت لاستخدامه أثناء العينة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/llamachatcompletionrequest/logitbias/
 ---
-## خاصية LlamaChatCompletionRequest.LogitBias
+## LlamaChatCompletionRequest.LogitBias property
 
-تعيين أو الحصول على انحياز اللوغيت لاستخدامه أثناء أخذ العينات.
+يضبط أو يحصل على تحيز اللوغيت لاستخدامه أثناء العينة.
 
 ```csharp
 public object LogitBias { get; set; }
@@ -19,3 +19,5 @@ public object LogitBias { get; set; }
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

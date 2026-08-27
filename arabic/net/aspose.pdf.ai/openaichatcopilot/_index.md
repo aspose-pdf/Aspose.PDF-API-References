@@ -1,27 +1,27 @@
 ---
-title: Class OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.OpenAIChatCopilot. تمثل مساعد دردشة للتفاعل مع الوثائق عبر نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل OpenAI، تكوين الخيارات، واستخدام ChatCopilot للتفاعل مع استفسارات المستخدم وإدارة سياق المحادثة
+title: "الفئة OpenAIChatCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.OpenAIChatCopilot. تمثل مساعد دردشة للتفاعل مع المستندات عبر نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل OpenAI وتكوين الخيارات واستخدام ChatCopilot للتفاعل مع استفسارات المستخدم وإدارة سياق المحادثة."
 type: docs
-weight: 820
+weight: 880
 url: /ar/net/aspose.pdf.ai/openaichatcopilot/
 ---
 ## OpenAIChatCopilot class
 
-تمثل مساعد دردشة للتفاعل مع الوثائق عبر نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل OpenAI، تكوين الخيارات، واستخدام ChatCopilot للتفاعل مع استفسارات المستخدم وإدارة سياق المحادثة.
+يمثل مساعد دردشة للتفاعل مع المستندات عبر نماذج الذكاء الاصطناعي. مثال على الاستخدام لإنشاء عميل OpenAI، وتكوين الخيارات، واستخدام ChatCopilot للتفاعل مع استفسارات المستخدم وإدارة سياق المحادثة.
 
 ```csharp
-// Create AI client.
+// إنشاء عميل الذكاء الاصطناعي.
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .WithOrganization("org_123")
     .Build(); // Build.
 
-// Create copilot options.
+// إنشاء خيارات المساعد.
 var options = OpenAIChatCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...إنشاء باستخدام المُفوض.
     .WithModel(OpenAIModels.Gpt35Turbo) // Configure other optional parameters.
     .WithTemperature(0.5)
     .WithTopP(1)
@@ -29,43 +29,43 @@ var options = OpenAIChatCopilotOptions
     .WithContextBackupJsonPath("PathToContextBackup") // Supply context backup to resume the conversation session.
     .WithRestoreContextFromBackup(true); // If set to true, the context 
 
-// Create summary copilot.
+// إنشاء مساعد الملخص.
 var chatCopilot = AICopilotFactory.CreateChatCopilot(openAiClient, options);
 
-// Get response on a user query.
+// احصل على استجابة لاستعلام المستخدم.
 string copilotResponse1 = await chatCopilot.GetResponseAsync("user message");
 
-// Get response on a list of queries.
+// احصل على استجابة لقائمة الاستعلامات.
 string copilotResponse2 = await chatCopilot.GetResponseAsync(new List<string>
 {
     "message1",
     "message2"
 });
 
-// Save summary as PDF document.
+// حفظ الملخص كملف PDF.
 await chatCopilot.SaveResponseAsync("message1", "outputPath");
 
-// Save summary with specified format.
+// حفظ الملخص بالتنسيق المحدد.
 await chatCopilot.SaveResponseAsync("message1", "outputPath", SaveFormat.DocX);
 
-// Save summary as PDF document.
+// حفظ الملخص كملف PDF.
 await chatCopilot.SaveResponseAsync(new List<string>
 {
     "message1",
     "message2"
 }, "outputPath");
 
-// Save summary with specified format.
+// حفظ الملخص بالتنسيق المحدد.
 await chatCopilot.SaveResponseAsync(new List<string>
 {
     "message1",
     "message2"
 }, "outputPath", SaveFormat.DocX);
 
-// Save the context.
+// احفظ السياق.
 await chatCopilot.SaveContextAsync("outputPath");
 
-// Delete the context.
+// احذف السياق.
 await chatCopilot.DeleteContextAsync();
 ```
 
@@ -73,21 +73,21 @@ await chatCopilot.DeleteContextAsync();
 public class OpenAIChatCopilot : IChatCopilot
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [OpenAIChatCopilot](openaichatcopilot/)(IOpenAIClient, IChatCopilotOptions&lt;OpenAIChatCopilotOptions&gt;) | يقوم بتهيئة مثيل جديد من فئة `OpenAIChatCopilot` مع العميل والخيارات المحددة. |
+| [OpenAIChatCopilot](openaichatcopilot/)(IOpenAIClient, IChatCopilotOptions&lt;OpenAIChatCopilotOptions&gt;) | يُنشئ مثيلاً جديدًا من الفئة `OpenAIChatCopilot` باستخدام العميل المحدد والخيارات. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [HasContext](../../aspose.pdf.ai/openaichatcopilot/hascontext/) { get; } |  |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [DeleteContextAsync](../../aspose.pdf.ai/openaichatcopilot/deletecontextasync/)(CancellationToken?) |  |
 | [GetResponseAsync](../../aspose.pdf.ai/openaichatcopilot/getresponseasync/#getresponseasync)(List&lt;string&gt;, CancellationToken?) |  |
@@ -98,8 +98,10 @@ public class OpenAIChatCopilot : IChatCopilot
 | [SaveResponseAsync](../../aspose.pdf.ai/openaichatcopilot/saveresponseasync/#saveresponseasync)(List&lt;string&gt;, string, SaveFormat, CancellationToken?) |  |
 | [SaveResponseAsync](../../aspose.pdf.ai/openaichatcopilot/saveresponseasync/#saveresponseasync_2)(string, string, SaveFormat, CancellationToken?) |  |
 
-### See Also
+### انظر أيضًا
 
 * interface [IChatCopilot](../ichatcopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

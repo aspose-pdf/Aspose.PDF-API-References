@@ -1,39 +1,41 @@
 ---
-title: Class IconFit
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Forms.IconFit. تصف كيفية عرض أيقونة تعليقات الودجت داخل مستطيل التعليق الخاص بها
+title: "الفئة IconFit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Forms.IconFit. يصف كيفية عرض أيقونة تعليقات الأدوات داخل مستطيل التعليق الخاص بها"
 type: docs
-weight: 5120
+weight: 5240
 url: /ar/net/aspose.pdf.forms/iconfit/
 ---
 ## IconFit class
 
-تصف كيفية عرض أيقونة تعليق الودجت داخل مستطيل التعليق الخاص بها.
+يصف كيفية عرض أيقونة التعليق التوضيحي للودجت داخل مستطيل التعليق الخاص به.
 
 ```csharp
 public sealed class IconFit
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [LeftoverBottom](../../aspose.pdf.forms/iconfit/leftoverbottom/) { get; set; } | يحصل أو يحدد المساحة المخصصة في أسفل الأيقونة. |
-| [LeftoverLeft](../../aspose.pdf.forms/iconfit/leftoverleft/) { get; set; } | يحصل أو يحدد المساحة المخصصة على يسار الأيقونة. |
-| [ScalingMode](../../aspose.pdf.forms/iconfit/scalingmode/) { get; set; } | نوع التحجيم الذي سيتم استخدامه. /// |
-| [ScalingReason](../../aspose.pdf.forms/iconfit/scalingreason/) { get; set; } | يحصل أو يحدد سبب التحجيم. |
-| [SpreadOnBorder](../../aspose.pdf.forms/iconfit/spreadonborder/) { get; set; } | إذا كان صحيحًا، يشير إلى أن مظهر الزر سيتم تحجيمه ليتناسب تمامًا داخل حدود التعليق دون أخذ عرض الخط للحدود في الاعتبار. |
+| [LeftoverBottom](../../aspose.pdf.forms/iconfit/leftoverbottom/) { get; set; } | يحصل أو يعيّن المسافة المخصصة أسفل الأيقونة. |
+| [LeftoverLeft](../../aspose.pdf.forms/iconfit/leftoverleft/) { get; set; } | يحصل أو يعيّن المسافة المخصصة على يسار الأيقونة. |
+| [ScalingMode](../../aspose.pdf.forms/iconfit/scalingmode/) { get; set; } | نوع التحجيم الذي سيُستخدم. /// |
+| [ScalingReason](../../aspose.pdf.forms/iconfit/scalingreason/) { get; set; } | يحصل أو يعيّن سبب التحجيم. |
+| [SpreadOnBorder](../../aspose.pdf.forms/iconfit/spreadonborder/) { get; set; } | إذا كان true، يشير إلى أن مظهر الزر يجب أن يُحجم ليتناسب بالكامل داخل حدود التعليق دون مراعاة عرض خط الحدود. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [NameToScalingMode](../../aspose.pdf.forms/iconfit/nametoscalingmode/)(string) | يحول اسم وضع التحجيم إلى كائن ScalingMode. |
-| static [NameToScalingReason](../../aspose.pdf.forms/iconfit/nametoscalingreason/)(string) | يحول اسم سبب التحجيم إلى كائن ScalingReason. |
-| static [ScalingModeToName](../../aspose.pdf.forms/iconfit/scalingmodetoname/)(ScalingMode) | يحول كائن وضع التحجيم إلى اسم. |
-| static [ScalingReasonToName](../../aspose.pdf.forms/iconfit/scalingreasontoname/)(ScalingReason) | يحول كائن سبب التحجيم إلى اسم. |
+| static [NameToScalingMode](../../aspose.pdf.forms/iconfit/nametoscalingmode/)(string) | يحوّل اسم وضع التحجيم إلى كائن ScalingMode. |
+| static [NameToScalingReason](../../aspose.pdf.forms/iconfit/nametoscalingreason/)(string) | يحوّل اسم سبب التحجيم إلى كائن ScalingReason. |
+| static [ScalingModeToName](../../aspose.pdf.forms/iconfit/scalingmodetoname/)(ScalingMode) | يحوّل كائن وضع التحجيم إلى اسم. |
+| static [ScalingReasonToName](../../aspose.pdf.forms/iconfit/scalingreasontoname/)(ScalingReason) | يحوّل كائن سبب التحجيم إلى اسم. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

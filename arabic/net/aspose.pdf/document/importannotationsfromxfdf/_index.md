@@ -1,24 +1,24 @@
 ---
-title: Document.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المستند. يستورد التعليقات التوضيحية من ملف XFDF إلى المستند
+title: "Document.ImportAnnotationsFromXfdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تستورد التعليقات التوضيحية من ملف XFDF إلى المستند"
 type: docs
-weight: 710
+weight: 730
 url: /ar/net/aspose.pdf/document/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
 
-يستورد التعليقات التوضيحية من ملف XFDF إلى المستند.
+استيراد التعليقات من ملف XFDF إلى المستند.
 
 ```csharp
 public void ImportAnnotationsFromXfdf(string fileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | اسم ملف XFDF |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,20 @@ public void ImportAnnotationsFromXfdf(string fileName)
 
 ## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
 
-يستورد التعليقات التوضيحية من التدفق إلى المستند.
+استيراد التعليقات من الدفق إلى المستند.
 
 ```csharp
 public void ImportAnnotationsFromXfdf(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | التدفق يحتوي على بيانات XFDF. |
+| stream | Stream | التيار يحتوي على بيانات XFDF. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

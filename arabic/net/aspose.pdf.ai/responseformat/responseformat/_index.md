@@ -1,14 +1,14 @@
 ---
-title: ResponseFormat.ResponseFormat
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ResponseFormat. المُنشئ الافتراضي
+title: "ResponseFormat.ResponseFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ResponseFormat. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/responseformat/responseformat/
 ---
-## مُنشئ ResponseFormat
+## ResponseFormat constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ResponseFormat()
@@ -19,3 +19,5 @@ public ResponseFormat()
 * class [ResponseFormat](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

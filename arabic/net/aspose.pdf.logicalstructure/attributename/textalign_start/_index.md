@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية TextAlign Start متوافقة مع حافة البداية
+title: "AttributeName.TextAlign_Start"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة TextAlign Start  محاذاة مع الحافة البداية"
 type: docs
 weight: 580
 url: /ar/net/aspose.pdf.logicalstructure/attributename/textalign_start/
 ---
-## حقل AttributeName.TextAlign_Start
+## AttributeName.TextAlign_Start field
 
-خاصية TextAlign: Start - متوافقة مع حافة البداية.
+السمة TextAlign: Start - محاذاة مع حافة البداية.
 
 ```csharp
 public static readonly AttributeName TextAlign_Start;
@@ -19,3 +19,5 @@ public static readonly AttributeName TextAlign_Start;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

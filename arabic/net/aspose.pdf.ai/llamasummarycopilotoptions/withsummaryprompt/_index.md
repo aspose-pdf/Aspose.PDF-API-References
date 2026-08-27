@@ -1,29 +1,31 @@
 ---
-title: LlamaSummaryCopilotOptions.WithSummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تعيين موجه الملخص لخيارات مساعد الملخص
+title: "LlamaSummaryCopilotOptions.WithSummaryPrompt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تعين موجه الملخص لخيارات مساعد الملخص"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/withsummaryprompt/
 ---
-## طريقة LlamaSummaryCopilotOptions.WithSummaryPrompt
+## LlamaSummaryCopilotOptions.WithSummaryPrompt method
 
-تعيين موجه الملخص لخيارات مساعد الملخص.
+يضبط مطالبة الملخص لخيارات المساعد الملخص.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| summaryPrompt | String | موجه الملخص الذي سيتم تعيينه. |
+| summaryPrompt | String | موجه الملخص لتعيينه. |
 
 ### قيمة الإرجاع
 
-النسخة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

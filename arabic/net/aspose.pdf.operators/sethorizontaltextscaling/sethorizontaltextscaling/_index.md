@@ -1,25 +1,27 @@
 ---
-title: SetHorizontalTextScaling.SetHorizontalTextScaling
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetHorizontalTextScaling. يُهيئ المُشغل
+title: "SetHorizontalTextScaling.SetHorizontalTextScaling"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetHorizontalTextScaling. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/sethorizontaltextscaling/sethorizontaltextscaling/
 ---
-## مُنشئ SetHorizontalTextScaling
+## SetHorizontalTextScaling constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetHorizontalTextScaling(double horizintalScaling)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| horizintalScaling | Double | التوسيع الأفقي. |
+| horizintalScaling | Double | التحجيم الأفقي. |
 
 ### انظر أيضًا
 
 * class [SetHorizontalTextScaling](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

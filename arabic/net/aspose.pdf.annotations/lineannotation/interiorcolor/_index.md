@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل أو تعين لون الداخل للتعليق
+title: "LineAnnotation.InteriorColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. تحصل أو تعين اللون الداخلي للتعليق التوضيحي"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/lineannotation/interiorcolor/
 ---
-## خاصية LineAnnotation.InteriorColor
+## LineAnnotation.InteriorColor property
 
-تحصل أو تعين لون الداخل للتعليق.
+يحصل أو يضبط اللون الداخلي للتعليق.
 
 ```csharp
 public Color InteriorColor { get; set; }
@@ -20,3 +20,5 @@ public Color InteriorColor { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

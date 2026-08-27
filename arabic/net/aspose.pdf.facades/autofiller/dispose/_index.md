@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AutoFiller. تغلق الكائن وتدفقات الإخراج
+title: "AutoFiller.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AutoFiller. تغلق الكائن وتدفقات الإخراج."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/autofiller/dispose/
 ---
-## طريقة AutoFiller.Dispose
+## AutoFiller.Dispose method
 
-تغلق الكائن وتدفقات الإخراج.
+يغلق الكائن وتدفقات الإخراج.
 
 ```csharp
 public void Dispose()
@@ -19,3 +19,5 @@ public void Dispose()
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Poster
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MovieAnnotation. تحصل أو تعين علامة أو تدفق تحدد ما إذا كان وكيف يجب عرض صورة ملصق تمثل الفيلم. إذا كانت صحيحة، يجب استرداد صورة الملصق من ملف الفيلم؛ إذا كانت خاطئة، فلن يتم عرض أي ملصق.
+title: "MovieAnnotation.Poster"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MovieAnnotation. تحصل أو تعيّن علامة أو تدفق يحدد ما إذا كان وكيفية عرض صورة الملصق التي تمثل الفيلم. إذا كانت true تُسترجع صورة الملصق من ملف الفيلم، وإذا كانت false لا يتم عرض أي ملصق"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/movieannotation/poster/
 ---
-## خاصية MovieAnnotation.Poster
+## MovieAnnotation.Poster property
 
-تحصل أو تعين علامة أو تدفق تحدد ما إذا كان وكيف يجب عرض صورة ملصق تمثل الفيلم. إذا كانت صحيحة، يجب استرداد صورة الملصق من ملف الفيلم؛ إذا كانت خاطئة، فلن يتم عرض أي ملصق.
+يحصل أو يضبط علامة أو تدفق يحدد ما إذا كان وكيف سيتم عرض صورة ملصق تمثل الفيلم. إذا كانت true، سيتم جلب صورة الملصق من ملف الفيلم؛ إذا كانت false، لن يتم عرض أي ملصق.
 
 ```csharp
 public bool Poster { get; set; }
@@ -19,3 +19,5 @@ public bool Poster { get; set; }
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

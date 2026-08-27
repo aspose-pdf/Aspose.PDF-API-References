@@ -1,29 +1,31 @@
 ---
-title: PdfAOptionsBase.AlignText
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAOptionsBase. تحصل أو تعين قيمة تشير إلى ما إذا كانت وسائل إضافية ضرورية للحفاظ على محاذاة النص أثناء عملية تحويل PDF/A
+title: "PdfAOptionsBase.AlignText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAOptionsBase. تحصل أو تعيين قيمة تشير إلى ما إذا كانت هناك حاجة إلى وسائل إضافية للحفاظ على محاذاة النص أثناء عملية تحويل PDF/A."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/pdfaoptionsbase/aligntext/
 ---
-## خاصية PdfAOptionsBase.AlignText
+## PdfAOptionsBase.AlignText property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كانت وسائل إضافية ضرورية للحفاظ على محاذاة النص أثناء عملية تحويل PDF/A.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هناك حاجة إلى وسائل إضافية للحفاظ على محاذاة النص أثناء عملية تحويل PDF/A.
 
 ```csharp
 public bool AlignText { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-`true` إذا تم تغيير محاذاة النص وكانت هناك حاجة إلى إجراءات إضافية لاستعادتها؛ خلاف ذلك، `false`.
+`true` إذا تم تغيير محاذاة النص وكانت هناك حاجة إلى إجراءات إضافية لاستعادتها؛ وإلا `false`.
 
 ## ملاحظات
 
-عند تعيينها إلى `true`، ستسعى عملية التحويل إلى استعادة حدود مقاطع النص الأصلية. بالنسبة لمعظم الوثائق، لا حاجة لتغيير هذه الخاصية من القيمة الافتراضية `false`، حيث أن محاذاة النص لا تتغير أثناء عملية التحويل الافتراضية.
+عند تعيينه إلى `true`، ستحاول عملية التحويل استعادة حدود مقاطع النص الأصلية. بالنسبة لمعظم المستندات لا يلزم تغيير هذه الخاصية من القيمة الافتراضية `false`، لأن محاذاة النص لا تتغير أثناء عملية التحويل الافتراضية.
 
 ### انظر أيضًا
 
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.AlignTop
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد المحاذاة الرأسية كأسلوب علوي
+title: "FormFieldFacade.AlignTop"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade field. يحدد المحاذاة العمودية كنمط أعلى"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.facades/formfieldfacade/aligntop/
 ---
 ## FormFieldFacade.AlignTop field
 
-يحدد المحاذاة الرأسية كأسلوب علوي.
+يحدد المحاذاة العمودية كنمط أعلى.
 
 ```csharp
 public const int AlignTop;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

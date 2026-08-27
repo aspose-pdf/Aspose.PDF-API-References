@@ -1,25 +1,25 @@
 ---
-title: IFileOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IFileOutputGenerator. تولد المخرجات بناءً على الاختلافات بين النصوص وتقوم بحفظها في ملف
+title: "IFileOutputGenerator.GenerateOutput"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IFileOutputGenerator. تُنشئ المخرجات بناءً على الاختلافات بين النصوص وتحفظها في ملف"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.comparison/ifileoutputgenerator/generateoutput/
 ---
 ## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput}
 
-تولد المخرجات بناءً على الاختلافات بين النصوص وتقوم بحفظها في ملف.
+ينشئ المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف.
 
 ```csharp
 public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffrences | List`1 | قائمة الاختلافات بين النصوص. |
-| targetFilePath | String | مسار الملف المستهدف لحفظ المخرجات. |
+| الاختلافات | List`1 | قائمة الاختلافات بين النصوص. |
+| targetFilePath | String | مسار الملف الهدف لحفظ الناتج. |
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * interface [IFileOutputGenerator](../)
@@ -30,20 +30,22 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 ## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_1}
 
-تولد المخرجات بناءً على الاختلافات بين النصوص وتقوم بحفظها في ملف.
+ينشئ المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف.
 
 ```csharp
 public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFilePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffrences | List`1 | قائمة الاختلافات بين النصوص. |
-| targetFilePath | String | مسار الملف المستهدف لحفظ المخرجات. |
+| الاختلافات | List`1 | قائمة الاختلافات بين النصوص. |
+| targetFilePath | String | مسار الملف الهدف لحفظ الناتج. |
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * interface [IFileOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

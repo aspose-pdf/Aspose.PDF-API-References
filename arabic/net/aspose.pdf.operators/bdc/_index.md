@@ -1,14 +1,14 @@
 ---
-title: Class BDC
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.BDC. فئة تمثل مشغل BDC بدء تسلسل المحتوى المميز
+title: "الفئة BDC"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.BDC. فئة تمثّل عامل BDC Begin markedcontent sequence"
 type: docs
-weight: 7100
+weight: 7240
 url: /ar/net/aspose.pdf.operators/bdc/
 ---
-## فئة BDC
+## BDC class
 
-فئة تمثل مشغل BDC (بدء تسلسل المحتوى المميز)
+فئة تمثل المشغل BDC (Begin marked-content sequence)
 
 ```csharp
 public class BDC : Operator
@@ -18,27 +18,29 @@ public class BDC : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [BDC](bdc/#constructor)(string) | يقوم بتهيئة المشغل. |
+| [BDC](bdc/#constructor)(string) | يُهيئ العامل. |
 | [BDC](bdc/#constructor_1)(string, BDCProperties) |  |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 | [Properties](../../aspose.pdf.operators/bdc/properties/) { get; } |  |
-| [Tag](../../aspose.pdf.operators/bdc/tag/) { get; set; } | يحصل على علامة المحتوى المميز أو يحددها |
+| [Tag](../../aspose.pdf.operators/bdc/tag/) { get; set; } | يحصل أو يضبط علامة المحتوى المعلَّم |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bdc/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/bdc/tostring/)() | يعيد تمثيل نصي للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/bdc/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/bdc/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

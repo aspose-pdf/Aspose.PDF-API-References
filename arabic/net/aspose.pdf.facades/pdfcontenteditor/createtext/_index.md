@@ -1,28 +1,28 @@
 ---
-title: PdfContentEditor.CreateText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليق نصي في مستند PDF
+title: "PdfContentEditor.CreateText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تنشئ تعليقا نصيًا في مستند PDF"
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createtext/
 ---
-## طريقة PdfContentEditor.CreateText
+## PdfContentEditor.CreateText method
 
-تنشئ تعليق نصي في مستند PDF
+ينشئ تعليقة نص في مستند PDF
 
 ```csharp
 public void CreateText(Rectangle rect, string title, string contents, bool open, string icon, 
     int page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | مستطيل التعليق الذي يحدد موقع التعليق على الصفحة. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
 | title | String | عنوان التعليق. |
-| contents | String | محتويات التعليق. |
-| open | Boolean | علامة تحدد ما إذا كان يجب عرض التعليق مفتوحًا في البداية. |
-| icon | String | اسم أيقونة ستستخدم في عرض التعليق. يمكن أن تكون هذه القيمة: "Comment"، "Key"، "Note"، "Help"، "NewParagraph"، "Paragraph"، "Insert" |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق النصي. |
+| contents | String | محتوى التعليق التوضيحي. |
+| open | Boolean | علامة تحدد ما إذا كان يجب عرض التعليق مفتوحًا مبدئيًا. |
+| icon | String | سيتم استخدام اسم أيقونة عند عرض التعليق. يمكن أن تكون هذه القيمة: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
+| صفحة | Int32 | رقم الصفحة الأصلية التي سيتم إنشاء التعليق النصي فيها. |
 
 ## أمثلة
 
@@ -39,3 +39,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

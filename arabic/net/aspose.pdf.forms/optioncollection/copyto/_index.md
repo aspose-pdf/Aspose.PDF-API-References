@@ -1,22 +1,22 @@
 ---
-title: OptionCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptionCollection. تنسخ الخيارات إلى مصفوفة
+title: "OptionCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptionCollection. تنسخ الخيارات إلى مصفوفة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.forms/optioncollection/copyto/
 ---
-## طريقة OptionCollection.CopyTo
+## OptionCollection.CopyTo method
 
-تنسخ الخيارات إلى مصفوفة.
+ينسخ الخيارات إلى مصفوفة.
 
 ```csharp
 public void CopyTo(Option[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | Option[] | المصفوفة التي ستنسخ إليها الخيارات. |
+| مصفوفة | Option[] | المصفوفة التي سيتم نسخ الخيارات إليها. |
 | index | Int32 | الفهرس الابتدائي في المصفوفة. |
 
 ### انظر أيضًا
@@ -25,3 +25,5 @@ public void CopyTo(Option[] array, int index)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

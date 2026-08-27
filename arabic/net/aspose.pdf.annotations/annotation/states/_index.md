@@ -1,14 +1,14 @@
 ---
-title: Annotation.States
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل على قاموس المظهر للتعليق
+title: "Annotation.States"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. يحصل على قاموس مظهر التعليق"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.annotations/annotation/states/
 ---
-## خاصية Annotation.States
+## Annotation.States property
 
-تحصل على قاموس المظهر للتعليق.
+يحصل على قاموس مظهر التعليق.
 
 ```csharp
 public AppearanceDictionary States { get; }
@@ -20,3 +20,5 @@ public AppearanceDictionary States { get; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

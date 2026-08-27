@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.XmpPdfAExtensionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XmpPdfAExtensionSchema. يُهيئ كائنًا جديدًا
+title: "XmpPdfAExtensionSchema.XmpPdfAExtensionSchema"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XmpPdfAExtensionSchema. يهيئ كائنًا جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/xmppdfaextensionschema/
 ---
-## مُنشئ XmpPdfAExtensionSchema
+## XmpPdfAExtensionSchema constructor
 
 يُهيئ كائنًا جديدًا.
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf/xmppdfaextensionschema/xmppdfaextensionschema/
 public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| description | XmpPdfAExtensionSchemaDescription | وصف المخطط. |
+| الوصف | XmpPdfAExtensionSchemaDescription | وصف المخطط. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

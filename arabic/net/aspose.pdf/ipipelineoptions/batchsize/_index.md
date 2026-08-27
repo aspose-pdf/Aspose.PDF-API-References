@@ -1,14 +1,14 @@
 ---
-title: IPipelineOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IPipelineOptions. تحدد حجم جزء من الصفحات التي يتم تمريرها من عقدة إلى أخرى
+title: "IPipelineOptions.BatchSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IPipelineOptions. تحدد حجم جزء من الصفحات لتمريره من عقدة إلى أخرى"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/ipipelineoptions/batchsize/
 ---
-## خاصية IPipelineOptions.BatchSize
+## IPipelineOptions.BatchSize property
 
-تحدد حجم جزء من الصفحات التي يتم تمريرها من عقدة إلى أخرى.
+يحدد حجم جزء من الصفحات لتمريره من عقدة إلى أخرى.
 
 ```csharp
 public int BatchSize { get; set; }
@@ -16,6 +16,8 @@ public int BatchSize { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [IPipelineOptions](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IPipelineOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

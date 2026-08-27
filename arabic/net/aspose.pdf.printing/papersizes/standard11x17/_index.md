@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Standard11x17
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق قياسي 11 بوصة × 17 بوصة
+title: "PaperSizes.Standard11x17"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق قياسي 11 بوصة ب 17 بوصة"
 type: docs
 weight: 1090
 url: /ar/net/aspose.pdf.printing/papersizes/standard11x17/
 ---
-## حقل PaperSizes.Standard11x17
+## PaperSizes.Standard11x17 field
 
 ورق قياسي (11 بوصة × 17 بوصة).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize Standard11x17;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

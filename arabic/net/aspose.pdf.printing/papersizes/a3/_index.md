@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A3
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق A3 297 مم × 420 مم
+title: "PaperSizes.A3"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق A3 297 مم × 420 مم"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.printing/papersizes/a3/
 ---
-## حقل PaperSizes.A3
+## PaperSizes.A3 field
 
 ورق A3 (297 مم × 420 مم).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize A3;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

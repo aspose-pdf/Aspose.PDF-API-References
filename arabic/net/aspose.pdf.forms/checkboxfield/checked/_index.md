@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CheckboxField. تحصل أو تعين حالة مربع الاختيار
+title: "CheckboxField.Checked"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CheckboxField. يحصل على أو يضبط حالة مربع الاختيار"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/checkboxfield/checked/
 ---
-## خاصية CheckboxField.Checked
+## CheckboxField.Checked property
 
-تحصل أو تعين حالة مربع الاختيار.
+يحصل أو يحدد حالة خانة الاختيار.
 
 ```csharp
 public bool Checked { get; set; }
@@ -19,3 +19,5 @@ public bool Checked { get; set; }
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

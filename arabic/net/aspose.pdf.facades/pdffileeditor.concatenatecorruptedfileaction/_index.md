@@ -1,29 +1,31 @@
 ---
-title: Enum PdfFileEditor.ConcatenateCorruptedFileAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorConcatenateCorruptedFileAction enum. الإجراء المتخذ عند مواجهة ملف تالف في عملية الدمج
+title: "التعداد PdfFileEditor.ConcatenateCorruptedFileAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Facades.PdfFileEditorConcatenateCorruptedFileAction. الإجراء الذي يتم عندما يُصادف ملف تالف أثناء عملية الدمج"
 type: docs
-weight: 4470
+weight: 4590
 url: /ar/net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/
 ---
 ## PdfFileEditor.ConcatenateCorruptedFileAction enumeration
 
-الإجراء المتخذ عند مواجهة ملف تالف في عملية الدمج.
+الإجراء الذي يتم عندما يُصادف ملف تالف أثناء عملية الدمج.
 
 ```csharp
 public enum ConcatenateCorruptedFileAction
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| StopWithError | `0` | إذا تم مواجهة ملف تالف، توقف عن عملية الدمج وارجع خطأ. |
-| ConcatenateIgnoringCorrupted | `1` | إذا تم مواجهة ملف تالف، فلا تتوقف عن الدمج ولا تعالج الملف التالف. قائمة الملفات التالفة متاحة في خاصية Failures. |
-| ConcatenateIgnoringCorruptedObjects | `2` | عندما يتم مواجهة كائن تالف في الوثيقة المصدر، لن تتوقف العملية ويتم تجاهل الكائن التالف فقط. |
+| StopWithError | `0` | إذا تم مواجهة ملف تالف، فقم بإيقاف عملية الدمج وأرجع خطأ. |
+| ConcatenateIgnoringCorrupted | `1` | إذا تم مواجهة ملف تالف، فلا توقف عملية الدمج ولا تعالج الملف التالف. قائمة الملفات التالفة متاحة في الخاصية Failures. |
+| ConcatenateIgnoringCorruptedObjects | `2` | عند مواجهة كائن تالف في المستند المصدر، لن تتوقف العملية وسيتم تجاهل الكائن التالف فقط. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../pdffileeditor/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

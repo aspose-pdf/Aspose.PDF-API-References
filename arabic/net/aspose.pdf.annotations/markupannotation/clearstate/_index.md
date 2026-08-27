@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.ClearState
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MarkupAnnotation. تقوم بمسح الحالة ونموذج الحالة للتعليق. على سبيل المثال، تقوم بمسح حالة المراجعة لتعليق. لاحظ أن الحالة المخزنة في تعليق نصي آخر يحتوي على مفاتيح الحالة ونموذج الحالة
+title: "MarkupAnnotation.ClearState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MarkupAnnotation. تقوم بمسح الحالة ونموذج الحالة للتعليق. على سبيل المثال، تقوم بمسح حالة المراجعة للتعليق. ملاحظة: الحالة مخزنة في تعليقات نصية أخرى تحتوي على مفاتيح state و statemodel"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.annotations/markupannotation/clearstate/
 ---
-## طريقة MarkupAnnotation.ClearState
+## MarkupAnnotation.ClearState method
 
-تقوم بمسح الحالة ونموذج الحالة للتعليق. على سبيل المثال، تقوم بمسح حالة المراجعة لتعليق. لاحظ أن الحالة المخزنة في تعليق نصي آخر يحتوي على مفاتيح الحالة ونموذج الحالة.
+يمسح الحالة ونموذج الحالة للتعليق. على سبيل المثال، يمسح حالة المراجعة لتعليق. ملاحظة، يتم تخزين الحالة في تعليقات نصية أخرى تحتوي على مفاتيح state و statemodel.
 
 ```csharp
 public void ClearState()
@@ -19,3 +19,5 @@ public void ClearState()
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

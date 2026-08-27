@@ -1,39 +1,41 @@
 ---
-title: Class FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.FolderFontSource. تمثل المجلد الذي يحتوي على ملفات الخطوط
+title: "الفئة FolderFontSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.FolderFontSource. تمثل المجلد الذي يحتوي على ملفات الخطوط."
 type: docs
-weight: 10500
+weight: 10680
 url: /ar/net/aspose.pdf.text/folderfontsource/
 ---
 ## FolderFontSource class
 
-تمثل المجلد الذي يحتوي على ملفات الخطوط.
+يمثل المجلد الذي يحتوي على ملفات الخطوط.
 
 ```csharp
 public sealed class FolderFontSource : FontSource
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FolderFontSource](folderfontsource/)(string) | يقوم بتهيئة مثيل جديد من فئة `FolderFontSource`. |
+| [FolderFontSource](folderfontsource/)(string) | ينشئ مثيلًا جديدًا من الفئة `FolderFontSource`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | المسار إلى المجلد الذي يحتوي على ملفات الخطوط. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | تحقق مما إذا كانت كائنات مصدر الخطوط في المجلد متساوية. |
+| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | تحقق مما إذا كانت كائنات مصدر الخط من المجلد متساوية. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CosPdfDictionary. مجموعة من المفاتيح القابلة للتعديل
+title: "CosPdfDictionary.Keys"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CosPdfDictionary. مجموعة من المفاتيح القابلة للتحرير"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.dataeditor/cospdfdictionary/keys/
 ---
-## خاصية CosPdfDictionary.Keys
+## CosPdfDictionary.Keys property
 
-مجموعة من المفاتيح القابلة للتعديل.
+مجموعة من المفاتيح القابلة للتحرير.
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -19,3 +19,5 @@ public ICollection<string> Keys { get; }
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

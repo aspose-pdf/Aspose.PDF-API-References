@@ -1,14 +1,14 @@
 ---
-title: Rectangle.LLX
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. إحداثي X للزاوية السفلى اليسرى
+title: "Rectangle.LLX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. إحداثي X للزاوية السفلية اليسرى"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/rectangle/llx/
 ---
-## خاصية Rectangle.LLX
+## Rectangle.LLX property
 
-إحداثي X للزاوية السفلى اليسرى.
+الإحداثي X للزاوية السفلية اليسرى.
 
 ```csharp
 public double LLX { get; set; }
@@ -19,3 +19,5 @@ public double LLX { get; set; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

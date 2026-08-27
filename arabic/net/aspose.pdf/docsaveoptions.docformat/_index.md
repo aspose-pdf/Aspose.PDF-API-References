@@ -1,9 +1,9 @@
 ---
-title: Enum DocSaveOptions.DocFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocSaveOptionsDocFormat enum. يسمح بتحديد تنسيق ملف .doc أو .docx
+title: "تعداد DocSaveOptions.DocFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.DocSaveOptionsDocFormat. يسمح بتحديد تنسيق ملف .doc أو .docx"
 type: docs
-weight: 3760
+weight: 3880
 url: /ar/net/aspose.pdf/docsaveoptions.docformat/
 ---
 ## DocSaveOptions.DocFormat enumeration
@@ -14,15 +14,17 @@ url: /ar/net/aspose.pdf/docsaveoptions.docformat/
 public enum DocFormat
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Doc | `0` | \c \[MS-DOC]: تنسيق ملف Word (.doc) الثنائي |
 | DocX | `1` | تنسيق ملف Office Open XML (.docx) |
 
-### See Also
+### انظر أيضًا
 
 * class [DocSaveOptions](../docsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

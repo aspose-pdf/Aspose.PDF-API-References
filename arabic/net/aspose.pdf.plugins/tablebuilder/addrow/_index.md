@@ -1,14 +1,14 @@
 ---
-title: TableBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableBuilder. إضافة صف جديد إلى الجدول
+title: "TableBuilder.AddRow"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableBuilder. إضافة صف جديد إلى الجدول"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/tablebuilder/addrow/
 ---
-## طريقة TableBuilder.AddRow
+## TableBuilder.AddRow method
 
-إضافة صف جديد إلى الجدول.
+أضف صفًا جديدًا إلى الجدول.
 
 ```csharp
 public virtual TableRowBuilder AddRow()
@@ -16,11 +16,13 @@ public virtual TableRowBuilder AddRow()
 
 ### قيمة الإرجاع
 
-مثيل من [`TableRowBuilder`](../../tablerowbuilder/).
+مثيل من الحالي [`TableRowBuilder`](../../tablerowbuilder/).
 
 ### انظر أيضًا
 
-* فئة [TableRowBuilder](../../tablerowbuilder/)
-* فئة [TableBuilder](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [TableRowBuilder](../../tablerowbuilder/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد المحاذاة الرأسية كأسلوب وسط
+title: "FormFieldFacade.AlignMiddle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldFacade. يحدد المحاذاة العمودية كنمط وسط"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf.facades/formfieldfacade/alignmiddle/
 ---
-## حقل FormFieldFacade.AlignMiddle
+## FormFieldFacade.AlignMiddle field
 
-يحدد المحاذاة الرأسية كأسلوب وسط.
+يحدد المحاذاة العمودية كنمط وسط.
 
 ```csharp
 public const int AlignMiddle;
@@ -19,3 +19,5 @@ public const int AlignMiddle;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

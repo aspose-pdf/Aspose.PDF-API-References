@@ -1,28 +1,28 @@
 ---
-title: IStringOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IStringOutputGenerator. تولد المخرجات بناءً على الفروقات بين النصوص وتقوم بحفظها في ملف
+title: "IStringOutputGenerator.GenerateOutput"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IStringOutputGenerator. تُنشئ الإخراج بناءً على الفروق بين النصوص وتحفظه في ملف"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/
 ---
 ## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
 
-تولد المخرجات بناءً على الفروقات بين النصوص وتقوم بحفظها في ملف.
+ينشئ المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف.
 
 ```csharp
 public string GenerateOutput(List<DiffOperation> diffrences)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffrences | List`1 | قائمة الفروقات بين النصوص. |
+| الاختلافات | List`1 | قائمة الاختلافات بين النصوص. |
 
-### Return Value
+### قيمة الإرجاع
 
-تمثيل نصي للمخرجات.
+تمثيل نصي للإخراج.
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * interface [IStringOutputGenerator](../)
@@ -33,23 +33,25 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 ## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_1}
 
-تولد المخرجات بناءً على الفروقات بين النصوص وتقوم بحفظها في ملف.
+ينشئ المخرجات بناءً على الاختلافات بين النصوص ويحفظها في ملف.
 
 ```csharp
 public string GenerateOutput(List<List<DiffOperation>> diffrences)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffrences | List`1 | قائمة الفروقات بين النصوص. |
+| الاختلافات | List`1 | قائمة الاختلافات بين النصوص. |
 
-### Return Value
+### قيمة الإرجاع
 
-تمثيل نصي للمخرجات.
+تمثيل نصي للإخراج.
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * interface [IStringOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: PdfConverter.MergeImagesAsTiff
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfConverter. تدمج قائمة من تدفقات TIFF كتيار TIFF متعدد الإطارات واحد
+title: "PdfConverter.MergeImagesAsTiff"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfConverter. تقوم بدمج قائمة من تدفقات tiff كتيار tiff متعدد الإطارات واحد"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/
 ---
-## طريقة PdfConverter.MergeImagesAsTiff
+## PdfConverter.MergeImagesAsTiff method
 
-تدمج قائمة من تدفقات TIFF كتيار TIFF متعدد الإطارات واحد.
+يدمج قائمة تدفقات tiff في تدفق tiff متعدد الإطارات واحد.
 
 ```csharp
 public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputImagesStreams | List`1 | قائمة تدفقات TIFF. |
+| inputImagesStreams | List`1 | قائمة تدفقات tiff. |
 
 ### قيمة الإرجاع
 
-تيار TIFF متعدد الإطارات.
+تيار tiff متعدد الإطارات.
 
 ### انظر أيضًا
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

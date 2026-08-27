@@ -1,22 +1,22 @@
 ---
-title: InkAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة InkAnnotation. تقوم بتحديث النقاط في InkList وفقًا لتحويل المصفوفة
+title: "InkAnnotation.ChangeAfterResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة InkAnnotation. تُحدّث النقاط في InkList وفقًا لتحويل المصفوفة."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/inkannotation/changeafterresize/
 ---
-## طريقة InkAnnotation.ChangeAfterResize
+## InkAnnotation.ChangeAfterResize method
 
-تقوم بتحديث النقاط في InkList، وفقًا لتحويل المصفوفة.
+يحدّث النقاط في InkList وفقًا لتحويل المصفوفة.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | مصفوفة تحدد التحويل. |
+| تحويل | Matrix | المصفوفة التي تحدد التحويل. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void ChangeAfterResize(Matrix transform)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

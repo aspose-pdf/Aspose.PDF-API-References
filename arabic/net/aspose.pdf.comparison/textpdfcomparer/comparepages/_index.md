@@ -1,23 +1,23 @@
 ---
-title: TextPdfComparer.ComparePages
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextPdfComparer. تقارن صفحات الوثائق
+title: "TextPdfComparer.ComparePages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextPdfComparer. تقارن صفحات المستند"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.comparison/textpdfcomparer/comparepages/
 ---
-## طريقة TextPdfComparer.ComparePages
+## TextPdfComparer.ComparePages method
 
-تقارن صفحات الوثائق.
+يقارن صفحات المستند.
 
 ```csharp
 public static List<DiffOperation> ComparePages(Page page1, Page page2, ComparisonOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page1 | Page | الصفحة الأولى. |
-| page2 | Page | الصفحة الثانية. |
+| page1 | صفحة | الصفحة الأولى. |
+| page2 | صفحة | الصفحة الثانية. |
 | options | ComparisonOptions | خيارات المقارنة. |
 
 ### قيمة الإرجاع
@@ -32,3 +32,5 @@ public static List<DiffOperation> ComparePages(Page page1, Page page2, Compariso
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

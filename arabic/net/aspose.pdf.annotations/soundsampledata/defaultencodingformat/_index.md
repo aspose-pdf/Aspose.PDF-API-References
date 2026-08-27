@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.DefaultEncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SoundSampleData. القيمة الافتراضية لتنسيق الترميز
+title: "SoundSampleData.DefaultEncodingFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SoundSampleData. القيمة الافتراضية لتنسيق الترميز"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/soundsampledata/defaultencodingformat/
 ---
-## حقل SoundSampleData.DefaultEncodingFormat
+## SoundSampleData.DefaultEncodingFormat field
 
 القيمة الافتراضية لتنسيق الترميز.
 
@@ -20,3 +20,5 @@ public const SoundSampleDataEncodingFormat DefaultEncodingFormat;
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

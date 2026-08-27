@@ -1,14 +1,14 @@
 ---
-title: Color.Peru
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. يحصل على لون معرف من النظام له قيمة ARGB تساوي c FFCD853F
+title: "Color.Peru"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف من النظام له قيمة ARGB من c FFCD853F"
 type: docs
 weight: 1100
 url: /ar/net/aspose.pdf/color/peru/
 ---
-## خاصية Color.Peru
+## Color.Peru property
 
-يحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFCD853F.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFCD853F.
 
 ```csharp
 public static Color Peru { get; }
@@ -16,10 +16,12 @@ public static Color Peru { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

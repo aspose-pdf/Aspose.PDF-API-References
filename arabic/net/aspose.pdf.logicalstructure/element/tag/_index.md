@@ -1,22 +1,22 @@
 ---
-title: Element.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة العنصر. ربط عنصر هيكلي بتدفق المحتوى مشغل BDC
+title: "Element.Tag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Element. ربط عنصر بنية إلى مشغل تدفق المحتوى BDC"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/element/tag/
 ---
-## علامة(BDC) {#tag_1}
+## Tag(BDC) {#tag_1}
 
-ربط عنصر هيكلي بتدفق المحتوى مشغل BDC.
+ربط عنصر بنية بمشغل تدفق المحتوى BDC.
 
 ```csharp
 public abstract MCRElement Tag(BDC bdc)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bdc | BDC | مشغل bdc لتدفق المحتوى. |
+| bdc | BDC | مشغل تدفق المحتوى bdc. |
 
 ### قيمة الإرجاع
 
@@ -32,17 +32,17 @@ public abstract MCRElement Tag(BDC bdc)
 
 ---
 
-## علامة(XForm) {#tag_3}
+## Tag(XForm) {#tag_3}
 
-ربط عنصر هيكلي بتدفق المحتوى XForm.
+ربط عنصر بنية بتدفق المحتوى XForm.
 
 ```csharp
 public abstract OBJRElement Tag(XForm form)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| form | XForm | نموذج Pdf. |
+| نموذج | XForm | نموذج Pdf. |
 
 ### قيمة الإرجاع
 
@@ -58,17 +58,17 @@ public abstract OBJRElement Tag(XForm form)
 
 ---
 
-## علامة(XImage) {#tag_4}
+## Tag(XImage) {#tag_4}
 
-ربط عنصر هيكلي بـ XImage.
+ربط عنصر بنية بـ XImage.
 
 ```csharp
 public abstract OBJRElement Tag(XImage image)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | XImage | صورة Pdf. |
+| صورة | XImage | صورة Pdf. |
 
 ### قيمة الإرجاع
 
@@ -84,17 +84,17 @@ public abstract OBJRElement Tag(XImage image)
 
 ---
 
-## علامة(Artifact) {#tag}
+## Tag(Artifact) {#tag}
 
-ربط عنصر هيكلي بالتحفة.
+ربط عنصر بنية بـ Artifact.
 
 ```csharp
 public abstract MCRElement Tag(Artifact artifact)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| artifact | Artifact | تحفة Pdf. |
+| قطعة | قطعة | قطعة Pdf. |
 
 ### قيمة الإرجاع
 
@@ -110,15 +110,15 @@ public abstract MCRElement Tag(Artifact artifact)
 
 ---
 
-## علامة(Annotation) {#tag_2}
+## Tag(Annotation) {#tag_2}
 
-ربط عنصر هيكلي بالتعليق.
+ربط عنصر بنية بـ Annotation.
 
 ```csharp
 public abstract OBJRElement Tag(Annotation annotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | annotation | Annotation | تعليق Pdf. |
 
@@ -133,3 +133,5 @@ public abstract OBJRElement Tag(Annotation annotation)
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

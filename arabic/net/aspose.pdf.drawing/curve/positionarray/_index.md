@@ -1,14 +1,14 @@
 ---
-title: Curve.PositionArray
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Curve. تحصل أو تعين مصفوفة موضع عائمة
+title: "Curve.PositionArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Curve. تحصل أو تعيين مصفوفة موقع من نوع float"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/curve/positionarray/
 ---
-## خاصية Curve.PositionArray
+## Curve.PositionArray property
 
-تحصل أو تعين مصفوفة موضع عائمة.
+يحصل أو يعيّن مصفوفة موضع من نوع float.
 
 ```csharp
 public float[] PositionArray { get; set; }
@@ -19,3 +19,5 @@ public float[] PositionArray { get; set; }
 * class [Curve](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

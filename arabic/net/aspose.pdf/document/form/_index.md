@@ -1,14 +1,14 @@
 ---
-title: Document.Form
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على نموذج Acro للوثيقة
+title: "Document.Form"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على نموذج Acro Form للمستند"
 type: docs
-weight: 210
+weight: 230
 url: /ar/net/aspose.pdf/document/form/
 ---
-## خاصية Document.Form
+## Document.Form property
 
-تحصل على نموذج Acro للوثيقة.
+يحصل على نموذج Acro Form للمستند.
 
 ```csharp
 public Form Form { get; }
@@ -20,3 +20,5 @@ public Form Form { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

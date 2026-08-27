@@ -1,14 +1,14 @@
 ---
-title: PaperSource.PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PaperSource. يقوم بتهيئة مثيل جديد من فئة PaperSource مع الخصائص الافتراضية
+title: "PaperSource.PaperSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PaperSource. يهيئ نسخة جديدة من فئة PaperSource بالخصائص الافتراضية."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/papersource/papersource/
 ---
 ## PaperSource() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`PaperSource`](../) مع الخصائص الافتراضية.
+يهيئ نسخة جديدة من الفئة [`PaperSource`](../) بالخصائص الافتراضية.
 
 ```csharp
 public PaperSource()
@@ -16,28 +16,30 @@ public PaperSource()
 
 ### انظر أيضًا
 
-* فئة [PaperSource](../)
-* مساحة الأسماء [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* التجميع [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PaperSource(PaperSourceKind, string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`PaperSource`](../) مع النوع والاسم المحددين.
+يهيئ نسخة جديدة من الفئة [`PaperSource`](../) بالنوع والاسم المحددين.
 
 ```csharp
 public PaperSource(PaperSourceKind kind, string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | kind | PaperSourceKind | نوع مصدر الورق. |
-| name | String | اسم مصدر الورق. |
+| الاسم | String | اسم مصدر الورق. |
 
 ### انظر أيضًا
 
-* تعداد [PaperSourceKind](../../papersourcekind/)
-* فئة [PaperSource](../)
-* مساحة الأسماء [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* التجميع [Aspose.PDF](../../../)
+* enum [PaperSourceKind](../../papersourcekind/)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

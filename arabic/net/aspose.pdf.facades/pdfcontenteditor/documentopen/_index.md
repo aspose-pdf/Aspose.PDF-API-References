@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentOpen
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfContentEditor. نوع حدث مستند. يفتح مستندًا
+title: "PdfContentEditor.DocumentOpen"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfContentEditor. نوع حدث مستند. يفتح مستندًا"
 type: docs
 weight: 480
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/documentopen/
 ---
-## حقل PdfContentEditor.DocumentOpen
+## PdfContentEditor.DocumentOpen field
 
-نوع حدث مستند. يفتح مستندًا.
+نوع حدث المستند. يفتح المستند.
 
 ```csharp
 public const string DocumentOpen;
@@ -19,3 +19,5 @@ public const string DocumentOpen;
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

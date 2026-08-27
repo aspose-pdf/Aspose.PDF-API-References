@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية INamedDestinationCollection. تعيد عدد الوجهات
+title: "INamedDestinationCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية INamedDestinationCollection. تُرجع عدد الوجهات"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/inameddestinationcollection/count/
 ---
-## خاصية INamedDestinationCollection.Count
+## INamedDestinationCollection.Count property
 
-تعيد عدد الوجهات.
+يرجع عدد الوجهات.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### انظر أيضًا
 
-* واجهة [INamedDestinationCollection](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

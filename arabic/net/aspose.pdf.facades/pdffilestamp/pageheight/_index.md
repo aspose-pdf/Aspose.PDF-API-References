@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PageHeight
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileStamp. تحصل على ارتفاع الصفحة الأولى في ملف المصدر
+title: "PdfFileStamp.PageHeight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileStamp. يحصل على ارتفاع الصفحة الأولى في ملف المصدر"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdffilestamp/pageheight/
 ---
-## خاصية PdfFileStamp.PageHeight
+## PdfFileStamp.PageHeight property
 
-تحصل على ارتفاع الصفحة الأولى في ملف المصدر.
+يحصل على ارتفاع الصفحة الأولى في ملف المصدر.
 
 ```csharp
 public float PageHeight { get; }
@@ -27,3 +27,5 @@ fileStamp.Close();
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

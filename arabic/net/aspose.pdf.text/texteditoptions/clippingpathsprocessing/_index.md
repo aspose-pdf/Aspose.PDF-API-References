@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.ClippingPathsProcessing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextEditOptions. تحصل على وضع معالجة مسار القص للنص المعدل
+title: "TextEditOptions.ClippingPathsProcessing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextEditOptions. يحصل على الوضع لمعالجة مسار القص للنص المعدل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/texteditoptions/clippingpathsprocessing/
 ---
-## خاصية TextEditOptions.ClippingPathsProcessing
+## TextEditOptions.ClippingPathsProcessing property
 
-تحصل على وضع معالجة مسار القص للنص المعدل.
+يحصل على الوضع لمعالجة مسار القص للنص المُحرر.
 
 ```csharp
 public ClippingPathsProcessingMode ClippingPathsProcessing { get; set; }
@@ -20,3 +20,5 @@ public ClippingPathsProcessingMode ClippingPathsProcessing { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

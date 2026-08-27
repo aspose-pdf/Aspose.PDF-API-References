@@ -1,34 +1,34 @@
 ---
-title: CosPdfDictionary.CreateEmptyDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CosPdfDictionary. تنشئ قاموسًا فارغًا سيتم إرفاقه بالصفحة
+title: "CosPdfDictionary.CreateEmptyDictionary"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfDictionary. تنشئ قاموسًا فارغًا سيتم ربطه بالصفحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
 ---
 ## CreateEmptyDictionary(Page) {#createemptydictionary_1}
 
-ينشئ قاموسًا فارغًا سيتم إرفاقه بالصفحة.
+ينشئ قاموسًا فارغًا سيتم ربطه بالصفحة.
 
 ```csharp
 public static CosPdfDictionary CreateEmptyDictionary(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | سيتم إرفاق قاموس النتيجة بهذه الصفحة. |
+| صفحة | صفحة | القاموس الناتج سيتم ربطه بهذه الصفحة. |
 
-### Return Value
+### قيمة الإرجاع
 
 قاموس فارغ.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الصفحة فارغة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [CosPdfDictionary](../)
@@ -39,29 +39,31 @@ public static CosPdfDictionary CreateEmptyDictionary(Page page)
 
 ## CreateEmptyDictionary(Document) {#createemptydictionary}
 
-ينشئ قاموسًا فارغًا سيتم إرفاقه بالمستند.
+ينشئ قاموسًا فارغًا سيتم ربطه بالمستند.
 
 ```csharp
 public static CosPdfDictionary CreateEmptyDictionary(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | سيتم إرفاق قاموس النتيجة بهذا المستند. |
+| document | Document | القاموس الناتج سيتم ربطه بهذا المستند. |
 
-### Return Value
+### قيمة الإرجاع
 
 قاموس فارغ.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | المستند فارغ. |
+| ArgumentNullException | Document فارغ. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

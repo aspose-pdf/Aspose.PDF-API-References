@@ -1,34 +1,36 @@
 ---
-title: Class FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FileDataSource. تمثل مصدر بيانات الملف لعمليات التحميل والحفظ للإضافة
+title: "فئة FileDataSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Plugins.FileDataSource. يمثل مصدر بيانات الملف لعمليات التحميل والحفظ لملحق."
 type: docs
-weight: 8550
+weight: 8680
 url: /ar/net/aspose.pdf.plugins/filedatasource/
 ---
 ## FileDataSource class
 
-تمثل مصدر بيانات الملف لعمليات التحميل والحفظ للإضافة.
+يمثل مصدر بيانات الملف لعمليات التحميل والحفظ في plugin.
 
 ```csharp
 public sealed class FileDataSource : IDataSource
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileDataSource](filedatasource/)(string) | يقوم بتهيئة مصدر بيانات ملف جديد مع المسار المحدد. |
+| [FileDataSource](filedatasource/)(string) | يُهيئ مصدر بيانات ملف جديد بالمسار المحدد. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [DataType](../../aspose.pdf.plugins/filedatasource/datatype/) { get; } | نوع مصدر البيانات (ملف). |
 | [Path](../../aspose.pdf.plugins/filedatasource/path/) { get; } | يحصل على المسار إلى ملف مصدر البيانات الحالي. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IDataSource](../idatasource/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

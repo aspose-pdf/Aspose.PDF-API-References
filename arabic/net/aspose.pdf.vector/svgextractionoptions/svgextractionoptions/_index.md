@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.SvgExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SvgExtractionOptions. المُنشئ الافتراضي
+title: "SvgExtractionOptions.SvgExtractionOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SvgExtractionOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.vector/svgextractionoptions/svgextractionoptions/
 ---
-## مُنشئ SvgExtractionOptions
+## SvgExtractionOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public SvgExtractionOptions()
@@ -19,3 +19,5 @@ public SvgExtractionOptions()
 * class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: PdfFileEditor.AddPageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تضيف فواصل صفحات إلى صفحات الوثيقة
+title: "PdfFileEditor.AddPageBreak"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تُضيف فواصل صفحات إلى صفحات المستند."
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.facades/pdffileeditor/addpagebreak/
 ---
 ## AddPageBreak(Document, Document, PageBreak[]) {#addpagebreak}
 
-تضيف فواصل صفحات إلى صفحات الوثيقة.
+يضيف فواصل صفحات إلى صفحات المستند.
 
 ```csharp
 public void AddPageBreak(Document src, Document dest, PageBreak[] pageBreaks)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| src | Document | الوثيقة المصدر. |
-| dest | Document | الوثيقة الوجهة. |
+| src | Document | المستند المصدر. |
+| dest | Document | المستند الوجهة. |
 | pageBreaks | PageBreak[] | مصفوفة من كائنات PageBreak التي تصف أماكن فواصل الصفحات. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PageBreak](../../pdffileeditor.pagebreak/)
@@ -32,19 +32,19 @@ public void AddPageBreak(Document src, Document dest, PageBreak[] pageBreaks)
 
 ## AddPageBreak(string, string, PageBreak[]) {#addpagebreak_2}
 
-تضيف فواصل صفحات إلى صفحات الوثيقة.
+يضيف فواصل صفحات إلى صفحات المستند.
 
 ```csharp
 public void AddPageBreak(string src, string dest, PageBreak[] pageBreaks)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| src | String | المسار إلى الوثيقة المصدر. |
-| dest | String | المسار إلى الوثيقة الوجهة. |
-| pageBreaks | PageBreak[] | مصفوفة من كائن PageBreak تصف الصفحات والأماكن التي سيتم إضافة فاصل الصفحة فيها. |
+| src | String | المسار إلى source document. |
+| dest | String | المسار إلى المستند الوجهة. |
+| pageBreaks | PageBreak[] | مصفوفة من كائن PageBreak تصف الصفحات والأماكن التي ستُضاف فيها فواصل الصفحات. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageBreak](../../pdffileeditor.pagebreak/)
 * class [PdfFileEditor](../)
@@ -55,21 +55,23 @@ public void AddPageBreak(string src, string dest, PageBreak[] pageBreaks)
 
 ## AddPageBreak(Stream, Stream, PageBreak[]) {#addpagebreak_1}
 
-تضيف فواصل صفحات إلى صفحات الوثيقة.
+يضيف فواصل صفحات إلى صفحات المستند.
 
 ```csharp
 public void AddPageBreak(Stream src, Stream dest, PageBreak[] pageBreaks)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| src | Stream | المصدر الذي يحتوي على الوثيقة المصدر. |
-| dest | Stream | المصدر الذي سيتم حفظ الوثيقة الوجهة فيه. |
-| pageBreaks | PageBreak[] | مصفوفة من كائن PageBreak تصف الصفحات والأماكن التي سيتم إضافة فاصل الصفحة فيها. |
+| src | Stream | المصدر الذي يحتوي على المستند المصدر. |
+| dest | Stream | المصدر الذي سيتم حفظ المستند الوجهة فيه. |
+| pageBreaks | PageBreak[] | مصفوفة من كائن PageBreak تصف الصفحات والأماكن التي ستُضاف فيها فواصل الصفحات. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageBreak](../../pdffileeditor.pagebreak/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

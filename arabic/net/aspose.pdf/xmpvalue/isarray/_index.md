@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsArray
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpValue. تعيد true إذا كانت XmpValue مصفوفة
+title: "XmpValue.IsArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpValue. تُعيد true إذا كان XmpValue مصفوفة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/xmpvalue/isarray/
 ---
-## خاصية XmpValue.IsArray
+## XmpValue.IsArray property
 
-تعيد true إذا كانت XmpValue مصفوفة.
+يعيد true إذا كان XmpValue مصفوفة.
 
 ```csharp
 public bool IsArray { get; }
@@ -19,3 +19,5 @@ public bool IsArray { get; }
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

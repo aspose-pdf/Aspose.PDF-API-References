@@ -1,23 +1,23 @@
 ---
-title: RegistrationMarkAnnotation.RegistrationMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RegistrationMarkAnnotation. يقوم بتهيئة مثيل جديد من فئة RegistrationMarkAnnotation في الصفحة المعطاة في الموقع المعطى
+title: "RegistrationMarkAnnotation.RegistrationMarkAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RegistrationMarkAnnotation. يهيئ مثيلاً جديداً لفئة RegistrationMarkAnnotation على الصفحة المحددة في الموقع المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/registrationmarkannotation/registrationmarkannotation/
 ---
-## مُنشئ RegistrationMarkAnnotation
+## RegistrationMarkAnnotation constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`RegistrationMarkAnnotation`](../) في الصفحة المعطاة في الموقع المعطى.
+يهيئ مثيلاً جديداً للفئة [`RegistrationMarkAnnotation`](../) على الصفحة المحددة في الموقع المحدد.
 
 ```csharp
 public RegistrationMarkAnnotation(Page page, PrinterMarkSidePosition position)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم ربط التعليق التوضيحي بها. |
-| position | PrinterMarkSidePosition | موقع التعليق التوضيحي على الصفحة. |
+| صفحة | صفحة | الصفحة التي سيتم ربط التعليق بها. |
+| الموضع | PrinterMarkSidePosition | موضع التعليق على الصفحة. |
 
 ### انظر أيضًا
 
@@ -26,3 +26,5 @@ public RegistrationMarkAnnotation(Page page, PrinterMarkSidePosition position)
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

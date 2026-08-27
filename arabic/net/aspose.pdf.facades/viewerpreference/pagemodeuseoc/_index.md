@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeUseOC
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. مجموعة محتوى اختيارية مرئية
+title: "ViewerPreference.PageModeUseOC"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. لوحة مجموعة المحتوى الاختياري مرئية"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.facades/viewerpreference/pagemodeuseoc/
 ---
-## حقل ViewerPreference.PageModeUseOC
+## ViewerPreference.PageModeUseOC field
 
-مجموعة محتوى اختيارية مرئية.
+لوحة مجموعة المحتوى الاختيارية مرئية.
 
 ```csharp
 public const int PageModeUseOC;
@@ -19,3 +19,5 @@ public const int PageModeUseOC;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,29 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XmpPdfAExtensionSchemaDescription. يقوم بتهيئة كائن جديد
+title: "XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XmpPdfAExtensionSchemaDescription. يهيئ كائنًا جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/
 ---
-## مُنشئ XmpPdfAExtensionSchemaDescription
+## XmpPdfAExtensionSchemaDescription constructor
 
-يقوم بتهيئة كائن جديد.
+يُهيئ كائنًا جديدًا.
 
 ```csharp
 public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, string description)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | prefix | String | البادئة. |
-| namespaceURI | String | URI المساحة الاسمية. |
-| description | String | الوصف الاختياري. |
+| namespaceURI | String | معرف URI للمساحة الاسمية. |
+| الوصف | String | الوصف الاختياري. |
 
 ### انظر أيضًا
 
 * class [XmpPdfAExtensionSchemaDescription](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

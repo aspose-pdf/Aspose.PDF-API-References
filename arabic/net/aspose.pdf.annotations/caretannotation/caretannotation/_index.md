@@ -1,24 +1,24 @@
 ---
-title: CaretAnnotation.CaretAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CaretAnnotation. مُنشئ للاستخدام في Generator
+title: "CaretAnnotation.CaretAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CaretAnnotation. منشئ للاستخدام في Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/caretannotation/caretannotation/
 ---
 ## CaretAnnotation(Document) {#constructor}
 
-مُنشئ للاستخدام في Generator.
+منشئ للاستخدام في Generator.
 
 ```csharp
 public CaretAnnotation(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء التعليق فيه. |
+| document | Document | Document حيث سيتم إنشاء التعليق التوضيحي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [CaretAnnotation](../)
@@ -29,21 +29,23 @@ public CaretAnnotation(Document document)
 
 ## CaretAnnotation(Page, Rectangle) {#constructor_1}
 
-ينشئ تعليق Caret جديد على الصفحة المحددة.
+ينشئ تعليقا جديدًا من نوع Caret على الصفحة المحددة.
 
 ```csharp
 public CaretAnnotation(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | المستطيل المطلوب الذي يحدد حدود التعليق. |
+| صفحة | صفحة | صفحة Document حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | المستطيل المطلوب الذي يحدد حد التعليق التوضيحي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

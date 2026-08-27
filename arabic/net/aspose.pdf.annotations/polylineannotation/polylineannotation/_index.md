@@ -1,24 +1,24 @@
 ---
-title: PolylineAnnotation.PolylineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PolylineAnnotation. ينشئ تعليق Polyline جديد على الصفحة المحددة
+title: "PolylineAnnotation.PolylineAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PolylineAnnotation. ينشئ توضيح Polyline جديد على الصفحة المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/polylineannotation/polylineannotation/
 ---
-## مُنشئ PolylineAnnotation
+## PolylineAnnotation constructor
 
-ينشئ تعليق Polyline جديد على الصفحة المحددة.
+ينشئ تعليقًا توضيحيًا جديدًا من نوع Polyline على الصفحة المحددة.
 
 ```csharp
 public PolylineAnnotation(Page page, Rectangle rect, Point[] vertices)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة الوثيقة حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، يحدد موقع التعليق على الصفحة. |
-| vertices | Point[] | مصفوفة من نقاط رؤوس المضلع. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
+| الرؤوس | Point[] | مصفوفة من نقاط رؤوس المضلع. |
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public PolylineAnnotation(Page page, Rectangle rect, Point[] vertices)
 * class [PolylineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

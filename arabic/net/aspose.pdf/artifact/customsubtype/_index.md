@@ -1,14 +1,14 @@
 ---
-title: Artifact.CustomSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. تحصل على اسم نوع الأرتيفكت الفرعي. يمكن استخدامها إذا كان نوع الأرتيفكت الفرعي ليس نوعًا قياسيًا
+title: "Artifact.CustomSubtype"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. تحصل على اسم نوع القطعة الفرعي. قد يُستخدم إذا لم يكن نوع القطعة الفرعي نوعًا قياسيًا."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/artifact/customsubtype/
 ---
-## خاصية Artifact.CustomSubtype
+## Artifact.CustomSubtype property
 
-تحصل على اسم نوع الأرتيفكت الفرعي. يمكن استخدامها إذا كان نوع الأرتيفكت الفرعي ليس نوعًا قياسيًا.
+يحصل على اسم النوع الفرعي للقطعة. قد يُستخدم إذا كان النوع الفرعي للقطعة ليس نوعًا فرعيًا قياسيًا.
 
 ```csharp
 public string CustomSubtype { get; set; }
@@ -19,3 +19,5 @@ public string CustomSubtype { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

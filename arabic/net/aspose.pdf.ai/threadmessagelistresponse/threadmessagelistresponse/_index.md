@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageListResponse.ThreadMessageListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ThreadMessageListResponse. المُنشئ الافتراضي
+title: "ThreadMessageListResponse.ThreadMessageListResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ThreadMessageListResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/threadmessagelistresponse/threadmessagelistresponse/
 ---
-## مُنشئ ThreadMessageListResponse
+## ThreadMessageListResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ThreadMessageListResponse()
@@ -19,3 +19,5 @@ public ThreadMessageListResponse()
 * class [ThreadMessageListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

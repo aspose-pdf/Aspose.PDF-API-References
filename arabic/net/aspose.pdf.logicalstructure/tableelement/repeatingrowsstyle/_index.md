@@ -1,14 +1,14 @@
 ---
-title: TableElement.RepeatingRowsStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل على النمط للصفوف المتكررة
+title: "TableElement.RepeatingRowsStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. يحصل على النمط للصفوف المتكررة"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle/
 ---
-## خاصية TableElement.RepeatingRowsStyle
+## TableElement.RepeatingRowsStyle property
 
-تحصل على النمط للصفوف المتكررة.
+الحصول على النمط للصفوف المتكررة.
 
 ```csharp
 public TextState RepeatingRowsStyle { get; set; }
@@ -20,3 +20,5 @@ public TextState RepeatingRowsStyle { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

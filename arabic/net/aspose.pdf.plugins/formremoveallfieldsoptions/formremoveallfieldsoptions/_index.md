@@ -1,14 +1,14 @@
 ---
-title: FormRemoveAllFieldsOptions.FormRemoveAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormRemoveAllFieldsOptions. المُنشئ الافتراضي
+title: "FormRemoveAllFieldsOptions.FormRemoveAllFieldsOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormRemoveAllFieldsOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formremoveallfieldsoptions/formremoveallfieldsoptions/
 ---
-## مُنشئ FormRemoveAllFieldsOptions
+## FormRemoveAllFieldsOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FormRemoveAllFieldsOptions()
@@ -19,3 +19,5 @@ public FormRemoveAllFieldsOptions()
 * class [FormRemoveAllFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

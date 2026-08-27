@@ -1,28 +1,28 @@
 ---
-title: Metadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البيانات الوصفية. تتحقق مما إذا كانت المفتاح موجودة في البيانات الوصفية
+title: "Metadata.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Metadata. تتحقق مما إذا كان المفتاح موجودًا في البيانات الوصفية"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/metadata/contains/
 ---
 ## Contains(string) {#contains_1}
 
-تتحقق مما إذا كان المفتاح موجودًا في البيانات الوصفية.
+يتحقق مما إذا كان المفتاح موجودًا في البيانات الوصفية.
 
 ```csharp
 public bool Contains(string key)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح الإدخال للبحث عنه. |
+| المفتاح | String | المفتاح الخاص بالمدخل للبحث عنه. |
 
-### Return Value
+### قيمة الإرجاع
 
 صحيح إذا كان المفتاح موجودًا في البيانات الوصفية.
 
-### See Also
+### انظر أيضًا
 
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -32,23 +32,25 @@ public bool Contains(string key)
 
 ## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains}
 
-تتحقق مما إذا كانت زوج المفتاح-القيمة المحدد موجودًا في القاموس.
+يتحقق مما إذا كان زوج المفتاح-القيمة المحدد موجودًا في القاموس.
 
 ```csharp
 public bool Contains(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | KeyValuePair`2 | زوج المفتاح-القيمة. |
+| item | KeyValuePair`2 | زوج المفتاح والقيمة. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا تم العثور على هذه الزوج.
+صحيح إذا تم العثور على هذا الزوج.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

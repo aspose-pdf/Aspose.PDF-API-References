@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ActionCollection. يحصل على الإجراء حسب فهرسه
+title: "ActionCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ActionCollection خاصية. يحصل على الإجراء حسب فهرسه"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/actioncollection/item/
 ---
-## فهرس ActionCollection
+## ActionCollection indexer
 
 يحصل على الإجراء حسب فهرسه.
 
@@ -14,7 +14,7 @@ url: /ar/net/aspose.pdf.annotations/actioncollection/item/
 public PdfAction this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الإجراء. |
 
@@ -28,3 +28,5 @@ public PdfAction this[int index] { get; }
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

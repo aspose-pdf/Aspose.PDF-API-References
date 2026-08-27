@@ -1,14 +1,14 @@
 ---
-title: WebHyperlink.Url
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WebHyperlink. تحصل أو تعين عنوان الويب
+title: "WebHyperlink.Url"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WebHyperlink. يحصل أو يعيّن عنوان الويب"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/webhyperlink/url/
 ---
-## خاصية WebHyperlink.Url
+## WebHyperlink.Url property
 
-تحصل أو تعين عنوان الويب.
+يحصل على أو يضبط عنوان URL الويب.
 
 ```csharp
 public string Url { get; set; }
@@ -19,3 +19,5 @@ public string Url { get; set; }
 * class [WebHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

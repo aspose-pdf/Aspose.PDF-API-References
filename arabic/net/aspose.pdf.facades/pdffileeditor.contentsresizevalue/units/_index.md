@@ -1,29 +1,31 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Units
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ContentsResizeValue. تقوم بتهيئة القيمة في وحدات الفضاء الافتراضية
+title: "PdfFileEditor.ContentsResizeValue.Units"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ContentsResizeValue. تُهيئ القيمة بوحدات الفضاء الافتراضية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/units/
 ---
 ## PdfFileEditor.ContentsResizeValue.Units method
 
-يبدأ القيمة في وحدات الفضاء الافتراضية.
+يُهيئ القيمة بوحدات المساحة الافتراضية.
 
 ```csharp
 public static ContentsResizeValue Units(double value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة بوحدات. |
+| القيمة | Double | القيمة بالوحدات. |
 
-### Return Value
+### قيمة الإرجاع
 
-مثيل القيمة الجديدة.
+كائن قيمة جديد.
 
-### See Also
+### انظر أيضًا
 
 * class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

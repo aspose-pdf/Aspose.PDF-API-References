@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.Illustration
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DRenderMode. وضع العرض التوضيحي
+title: "PDF3DRenderMode.Illustration"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DRenderMode. وضع العرض Illustration"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/illustration/
 ---
-## حقل PDF3DRenderMode.Illustration
+## PDF3DRenderMode.Illustration field
 
-وضع العرض التوضيحي.
+وضع العرض "Illustration".
 
 ```csharp
 public static PDF3DRenderMode Illustration;
@@ -19,3 +19,5 @@ public static PDF3DRenderMode Illustration;
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

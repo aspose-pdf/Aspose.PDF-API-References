@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.IsWordWrap
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileMend. تعيين قيمة بوليانية تشير إلى التفاف الكلمات في طرق AddText. إذا كانت القيمة صحيحة، فإن النص في FormattedText سيتلف. بشكل افتراضي، القيمة هي خاطئة
+title: "PdfFileMend.IsWordWrap"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileMend. تعيين قيمة منطقية تشير إلى التفاف الكلمات في طرق AddText. إذا كانت القيمة true سيتفاف النص في FormattedText. بشكل افتراضي القيمة false."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdffilemend/iswordwrap/
 ---
-## خاصية PdfFileMend.IsWordWrap
+## PdfFileMend.IsWordWrap property
 
-تعيين قيمة بوليانية تشير إلى التفاف الكلمات في طرق AddText. إذا كانت القيمة صحيحة، فإن النص في FormattedText سيتلف. بشكل افتراضي، القيمة هي خاطئة.
+يضبط قيمة منطقية تشير إلى التفاف الكلمات في طرق AddText. إذا كانت القيمة true، سيتفاف النص في FormattedText. بشكل افتراضي، القيمة false.
 
 ```csharp
 public bool IsWordWrap { set; }
@@ -19,3 +19,5 @@ public bool IsWordWrap { set; }
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

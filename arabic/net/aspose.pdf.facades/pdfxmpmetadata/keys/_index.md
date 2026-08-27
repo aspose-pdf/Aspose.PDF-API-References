@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfXmpMetadata. تحصل على المفاتيح من القاموس
+title: "PdfXmpMetadata.Keys"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfXmpMetadata. تُعيد المفاتيح من القاموس"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/keys/
 ---
-## خاصية PdfXmpMetadata.Keys
+## PdfXmpMetadata.Keys property
 
-تحصل على المفاتيح من القاموس.
+يحصل على المفاتيح من القاموس.
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -19,3 +19,5 @@ public ICollection<string> Keys { get; }
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,41 +1,43 @@
 ---
-title: Class FormEditorSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormEditorSetOptions. تمثل الخيارات لتعيين خصائص الحقول 
+title: "الفئة FormEditorSetOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.FormEditorSetOptions. تمثل الخيارات لتعيين الحقول وليس خصائص التعليقات التوضيحية."
 type: docs
-weight: 8660
+weight: 8790
 url: /ar/net/aspose.pdf.plugins/formeditorsetoptions/
 ---
 ## FormEditorSetOptions class
 
-تمثل الخيارات لتعيين خصائص الحقول (ليس التعليقات التوضيحية).
+يمثل خيارات تعيين خصائص الحقول (ليس التعليقات التوضيحية).
 
 ```csharp
 public sealed class FormEditorSetOptions : FormEditorOptions
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FormEditorSetOptions](formeditorsetoptions/)(SelectField, FormFieldSetOptions) | يقوم بتهيئة مثيل جديد من كائن `FormEditorSetOptions`، حيث يتم تحديد القيم المعينة لخصائص الحقل. |
+| [FormEditorSetOptions](formeditorsetoptions/)(SelectField, FormFieldSetOptions) | ينشئ مثيلًا جديدًا لكائن `FormEditorSetOptions`، حيث يتم تحديد القيم المعينة لخصائص الحقل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يعيد مجموعة بيانات المكونات الإضافية Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يرجع مجموعة بيانات مكوّن Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات المكونات الإضافية Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات المكونات الإضافية Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
 
-### See Also
+### انظر أيضًا
 
 * class [FormEditorOptions](../formeditoroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TeXMemoryOutputDirectory.TeXMemoryOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TeXMemoryOutputDirectory. المُنشئ الافتراضي
+title: "TeXMemoryOutputDirectory.TeXMemoryOutputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TeXMemoryOutputDirectory. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/
 ---
-## مُنشئ TeXMemoryOutputDirectory
+## TeXMemoryOutputDirectory constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TeXMemoryOutputDirectory()
@@ -19,3 +19,5 @@ public TeXMemoryOutputDirectory()
 * class [TeXMemoryOutputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ActionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ActionCollection. عدد الإجراءات في المجموعة
+title: "ActionCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ActionCollection. عدد الإجراءات في المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/actioncollection/count/
@@ -14,8 +14,10 @@ url: /ar/net/aspose.pdf.annotations/actioncollection/count/
 public int Count { get; }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

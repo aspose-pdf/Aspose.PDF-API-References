@@ -1,24 +1,24 @@
 ---
-title: GoToAction.GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ GoToAction. مُنشئ لفئة GoToAction
+title: "GoToAction.GoToAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ GoToAction. منشئ لفئة GoToAction"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/gotoaction/gotoaction/
 ---
 ## GoToAction(Page) {#constructor_3}
 
-مُنشئ لفئة GoToAction.
+منشئ للفئة GoToAction.
 
 ```csharp
 public GoToAction(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن صفحة Aspose.Pdf الوجهة للانتقال إليها. |
+| صفحة | صفحة | كائن الوجهة Aspose.Pdf.Page للانتقال إليه. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [GoToAction](../)
@@ -29,19 +29,19 @@ public GoToAction(Page page)
 
 ## GoToAction(Page, ExplicitDestinationType, params double[]) {#constructor_4}
 
-مُنشئ لفئة GoToAction.
+منشئ للفئة GoToAction.
 
 ```csharp
 public GoToAction(Page page, ExplicitDestinationType type, params double[] values)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة الوجهة. |
+| صفحة | صفحة | الوجهة Page. |
 | type | ExplicitDestinationType | نوع الوجهة. |
-| values | Double[] | معلمات الإجراء. |
+| القيم | Double[] | معلمات الإجراء. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
@@ -53,17 +53,17 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 ## GoToAction(ExplicitDestination) {#constructor_1}
 
-مُنشئ.
+منشئ.
 
 ```csharp
 public GoToAction(ExplicitDestination destination)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | destination | ExplicitDestination | الوجهة الصريحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [ExplicitDestination](../../explicitdestination/)
 * class [GoToAction](../)
@@ -74,20 +74,22 @@ public GoToAction(ExplicitDestination destination)
 
 ## GoToAction(Document, string) {#constructor_2}
 
-إجراء مرتبط بالوجهة المسماة.
+الإجراء المرتبط بالوجهة المسماة.
 
 ```csharp
 public GoToAction(Document doc, string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الإجراء فيه. |
-| name | String | اسم الوجهة. |
+| doc | Document | المستند حيث سيتم إنشاء الإجراء. |
+| الاسم | String | اسم الوجهة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

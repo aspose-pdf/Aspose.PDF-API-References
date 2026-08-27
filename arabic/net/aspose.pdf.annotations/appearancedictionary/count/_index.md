@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AppearanceDictionary. تحصل على عدد العناصر الموجودة في القاموس
+title: "AppearanceDictionary.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AppearanceDictionary. يحصل على عدد العناصر الموجودة في القاموس"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/count/
 ---
-## خاصية AppearanceDictionary.Count
+## AppearanceDictionary.Count property
 
-تحصل على عدد العناصر الموجودة في القاموس.
+يحصل على عدد العناصر الموجودة في القاموس.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

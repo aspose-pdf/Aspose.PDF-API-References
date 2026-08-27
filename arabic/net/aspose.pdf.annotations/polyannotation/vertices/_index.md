@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.Vertices
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PolyAnnotation. تحصل أو تعين مصفوفة من النقاط تمثل الإحداثيات الأفقية والعمودية لكل رأس
+title: "PolyAnnotation.Vertices"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PolyAnnotation. يحصل أو يضبط مصفوفة من النقاط التي تمثل الإحداثيات الأفقية والعمودية لكل رأس"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/polyannotation/vertices/
 ---
-## خاصية PolyAnnotation.Vertices
+## PolyAnnotation.Vertices property
 
-تحصل أو تعين مصفوفة من النقاط تمثل الإحداثيات الأفقية والعمودية لكل رأس.
+يحصل أو يضبط مصفوفة من النقاط التي تمثل الإحداثيات الأفقية والعمودية لكل رأس.
 
 ```csharp
 public Point[] Vertices { get; set; }
@@ -20,3 +20,5 @@ public Point[] Vertices { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

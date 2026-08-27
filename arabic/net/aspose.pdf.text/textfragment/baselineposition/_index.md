@@ -1,14 +1,14 @@
 ---
-title: TextFragment.BaselinePosition
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل على موضع النص للنص الممثل بواسطة كائن TextFragment. يمثل YIndent في هيكل Position إحداثيات خط الأساس لجزء النص
+title: "TextFragment.BaselinePosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragment. يحصل على موضع النص للنص الممثل بكائن TextFragment. يمثل YIndent في بنية Position إحداثية الخط الأساسي لجزء النص."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/textfragment/baselineposition/
 ---
-## خاصية TextFragment.BaselinePosition
+## TextFragment.BaselinePosition property
 
-تحصل على موضع النص للنص، الممثل بواسطة [`TextFragment`](../) كائن. يمثل YIndent في هيكل Position إحداثيات خط الأساس لجزء النص.
+يحصل على موضع النص للنص الممثل بكائن [`TextFragment`](../). يمثل YIndent في بنية Position إحداثية الخط الأساسي لجزء النص.
 
 ```csharp
 public Position BaselinePosition { get; set; }
@@ -20,3 +20,5 @@ public Position BaselinePosition { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

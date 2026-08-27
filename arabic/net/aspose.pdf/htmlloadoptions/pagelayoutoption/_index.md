@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.PageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlLoadOptions. تحصل أو تعين خيار التخطيط
+title: "HtmlLoadOptions.PageLayoutOption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "HtmlLoadOptions خاصية. يحصل أو يضبط خيار التخطيط"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/htmlloadoptions/pagelayoutoption/
 ---
-## خاصية HtmlLoadOptions.PageLayoutOption
+## HtmlLoadOptions.PageLayoutOption property
 
-تحصل أو تعين خيار التخطيط.
+يحصل أو يعيّن خيار التخطيط.
 
 ```csharp
 public HtmlPageLayoutOption PageLayoutOption { get; set; }
@@ -20,3 +20,5 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PdfFileSanitization.Save
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSanitization. تحفظ ملف PDF الناتج
+title: "PdfFileSanitization.Save"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSanitization. تحفظ ملف PDF الناتج إلى ملف"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/pdffilesanitization/save/
 ---
 ## Save(string) {#save_1}
 
-تحفظ ملف PDF الناتج.
+يحفظ ملف PDF الناتج إلى ملف.
 
 ```csharp
 public override void Save(string outputFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | ملف PDF الناتج |
+| outputFile | String | ملف pdf الناتج |
 
 ### انظر أيضًا
 
@@ -28,18 +28,20 @@ public override void Save(string outputFile)
 
 ## Save(Stream) {#save}
 
-تحفظ ملف PDF الناتج إلى دفق.
+يحفظ ملف PDF الناتج إلى تدفق.
 
 ```csharp
 public override void Save(Stream outputStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | دفق PDF الناتج |
+| outputStream | Stream | تدفق pdf الناتج |
 
 ### انظر أيضًا
 
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Enum PrinterMarkCornerPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarkCornerPosition enum. يمثل موضع علامة في زاوية الصفحة
+title: "تعداد PrinterMarkCornerPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.PrinterMarkCornerPosition enum. يمثل موضع علامة في زاوية صفحة"
 type: docs
-weight: 2360
+weight: 2450
 url: /ar/net/aspose.pdf.annotations/printermarkcornerposition/
 ---
 ## PrinterMarkCornerPosition enumeration
@@ -14,16 +14,18 @@ url: /ar/net/aspose.pdf.annotations/printermarkcornerposition/
 public enum PrinterMarkCornerPosition
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| TopLeft | `0` | وضع العلامة في الزاوية العليا اليسرى. |
-| TopRight | `1` | وضع العلامة في الزاوية العليا اليمنى. |
-| BottomLeft | `2` | وضع العلامة في الزاوية السفلى اليسرى. |
-| BottomRight | `3` | وضع العلامة في الزاوية السفلى اليمنى. |
+| TopLeft | `0` | ضع العلامة في الزاوية العلوية اليسرى. |
+| TopRight | `1` | ضع العلامة في الزاوية العلوية اليمنى. |
+| BottomLeft | `2` | ضع العلامة في الزاوية السفلية اليسرى. |
+| BottomRight | `3` | ضع العلامة في الزاوية السفلية اليمنى. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

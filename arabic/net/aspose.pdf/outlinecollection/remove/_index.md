@@ -1,28 +1,28 @@
 ---
-title: OutlineCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutlineCollection. دائمًا ترمي NotImplementedException
+title: "OutlineCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutlineCollection. دائمًا تُطلق NotImplementedException"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/outlinecollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-دائمًا ترمي NotImplementedException
+دائمًا يرمي NotImplementedException
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | OutlineItemCollection | الكائن الذي يجب تحديد موقعه في المجموعة |
+| item | OutlineItemCollection | The object to locate in the collection |
 
-### Return Value
+### قيمة الإرجاع
 
 NotImplementedException
 
-### See Also
+### انظر أيضًا
 
 * class [OutlineItemCollection](../../outlineitemcollection/)
 * class [OutlineCollection](../)
@@ -39,12 +39,14 @@ NotImplementedException
 public void Remove(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | فهرس العنصر الذي سيتم إزالته. |
 
-### See Also
+### انظر أيضًا
 
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

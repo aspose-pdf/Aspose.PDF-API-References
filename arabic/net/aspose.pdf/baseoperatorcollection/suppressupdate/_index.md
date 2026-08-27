@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.SuppressUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BaseOperatorCollection. تقمع بيانات تحديث المحتويات. لا يتم تحديث تدفق المحتويات حتى يتم استدعاء ResumeUpdate
+title: "BaseOperatorCollection.SuppressUpdate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BaseOperatorCollection. تكبت بيانات تحديث المحتوى. لا يتم تحديث تدفق المحتوى حتى يتم استدعاء ResumeUpdate"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/baseoperatorcollection/suppressupdate/
 ---
-## طريقة BaseOperatorCollection.SuppressUpdate
+## BaseOperatorCollection.SuppressUpdate method
 
-تقمع بيانات تحديث المحتويات. لا يتم تحديث تدفق المحتويات حتى يتم استدعاء ResumeUpdate.
+يكبت تحديث بيانات المحتوى. لا يتم تحديث تدفق المحتوى حتى يتم استدعاء ResumeUpdate.
 
 ```csharp
 public abstract void SuppressUpdate()
@@ -19,3 +19,5 @@ public abstract void SuppressUpdate()
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

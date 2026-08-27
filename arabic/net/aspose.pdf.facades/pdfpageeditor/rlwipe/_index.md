@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.RLWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfPageEditor. مسح من اليمين إلى اليسار
+title: "PdfPageEditor.RLWIPE"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfPageEditor. مسح من اليمين إلى اليسار"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/rlwipe/
 ---
-## حقل PdfPageEditor.RLWIPE
+## PdfPageEditor.RLWIPE field
 
 مسح من اليمين إلى اليسار
 
@@ -19,3 +19,5 @@ public const int RLWIPE;
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

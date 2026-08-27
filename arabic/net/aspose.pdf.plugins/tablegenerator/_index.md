@@ -1,52 +1,54 @@
 ---
-title: Class TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.TableGenerator. تمثل مكون Aspose.PDF TableGenerator
+title: "الفئة TableGenerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.TableGenerator. تمثل مكوّن Aspose.PDF TableGenerator الإضافي"
 type: docs
-weight: 9350
+weight: 9500
 url: /ar/net/aspose.pdf.plugins/tablegenerator/
 ---
 ## TableGenerator class
 
-تمثل مكون Aspose.PDF TableGenerator.
+يمثل ملحق Aspose.PDF TableGenerator.
 
 ```csharp
 public sealed class TableGenerator : IDisposable, IPlugin
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TableGenerator](tablegenerator/)() | المُنشئ الافتراضي. |
+| [TableGenerator](tablegenerator/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | تنفيذ IDisposable. في الواقع، ليس من الضروري لمكون TableGenerator. |
-| [Process](../../aspose.pdf.plugins/tablegenerator/process/)(IPluginOptions) | يبدأ معالجة PdfGenerator مع المعلمات المحددة. |
+| [Dispose](../../aspose.pdf.plugins/tablegenerator/dispose/)() | تنفيذ IDisposable. في الواقع، ليس ضرورياً لـ TableGenerator. |
+| [Process](../../aspose.pdf.plugins/tablegenerator/process/)(IPluginOptions) | يبدأ معالجة PdfGenerator باستخدام المعلمات المحددة. |
 
-## Examples
+## أمثلة
 
-توضح المثال كيفية إضافة جدول إلى ملف PDF.
+المثال يوضح كيفية إضافة جدول إلى ملف PDF.
 
 ```csharp
-// create TableGenerator
+// إنشاء TableGenerator
 var generator = new TableGenerator();
-// create TableOptions object to set instructions
+// إنشاء كائن TableOptions لتعيين التعليمات
 var opt = new TableOptions();
-// add input file paths
+// إضافة مسارات ملفات الإدخال
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// تعيين مسار ملف الإخراج
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// تنفيذ عملية الاستخراج
 generator.Process(opt);
 ```
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

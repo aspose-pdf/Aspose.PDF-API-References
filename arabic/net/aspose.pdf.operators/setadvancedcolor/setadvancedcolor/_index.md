@@ -1,14 +1,14 @@
 ---
-title: SetAdvancedColor.SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetAdvancedColor. يقوم بتهيئة المشغل
+title: "SetAdvancedColor.SetAdvancedColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetAdvancedColor. يهيئ المشغل."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
 ---
 ## SetAdvancedColor() {#constructor}
 
-يهيئ المشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetAdvancedColor()
@@ -24,13 +24,13 @@ public SetAdvancedColor()
 
 ## SetAdvancedColor(double, string) {#constructor_4}
 
-مُنشئ لمشغل scn.
+منشئ لعامل scn.
 
 ```csharp
 public SetAdvancedColor(double g, string patternName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | g | Double | قيمة اللون. |
 | patternName | String | اسم النمط. |
@@ -45,13 +45,13 @@ public SetAdvancedColor(double g, string patternName)
 
 ## SetAdvancedColor(double) {#constructor_1}
 
-مُنشئ لمشغل scn.
+منشئ لعامل scn.
 
 ```csharp
 public SetAdvancedColor(double g)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | g | Double | قيمة اللون. |
 
@@ -65,17 +65,17 @@ public SetAdvancedColor(double g)
 
 ## SetAdvancedColor(double, double, double, string) {#constructor_3}
 
-مُنشئ لمشغل scn.
+منشئ لعامل scn.
 
 ```csharp
 public SetAdvancedColor(double r, double g, double b, string patternName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| r | Double | مكون اللون الأحمر. |
-| g | Double | مكون اللون الأخضر. |
-| b | Double | مكون اللون الأزرق. |
+| r | Double | المكوّن الأحمر للون. |
+| g | Double | المكوّن الأخضر للون. |
+| b | Double | المكوّن الأزرق للون. |
 | patternName | String | اسم النمط. |
 
 ### انظر أيضًا
@@ -88,18 +88,18 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 ## SetAdvancedColor(double, double, double, double, string) {#constructor_2}
 
-مُنشئ لمشغل scn.
+منشئ لعامل scn.
 
 ```csharp
 public SetAdvancedColor(double c, double m, double y, double k, string patternName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| c | Double | مكون اللون السماوي. |
-| m | Double | مكون اللون الأرجواني. |
-| y | Double | مكون اللون الأصفر. |
-| k | Double | مكون اللون الأسود. |
+| c | Double | المكوّن السماوي للون. |
+| m | Double | المكوّن الأرجواني للون. |
+| y | Double | المكوّن الأصفر للون. |
+| k | Double | المكوّن الأسود للون. |
 | patternName | String | اسم النمط. |
 
 ### انظر أيضًا
@@ -112,13 +112,13 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 ## SetAdvancedColor(string) {#constructor_6}
 
-مُنشئ لمشغل scn.
+منشئ لعامل scn.
 
 ```csharp
 public SetAdvancedColor(string patternName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | patternName | String | اسم النمط. |
 
@@ -132,13 +132,13 @@ public SetAdvancedColor(string patternName)
 
 ## SetAdvancedColor(double[], string) {#constructor_5}
 
-مُنشئ لمشغل scn.
+منشئ لعامل scn.
 
 ```csharp
 public SetAdvancedColor(double[] colors, string patternName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | patternName | Double[] | اسم النمط. |
 | colors | String | مصفوفة الألوان. |
@@ -148,3 +148,5 @@ public SetAdvancedColor(double[] colors, string patternName)
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

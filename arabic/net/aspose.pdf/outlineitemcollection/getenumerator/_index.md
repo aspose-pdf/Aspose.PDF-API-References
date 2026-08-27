@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutlineItemCollection. تُرجع عدادًا يتكرر عبر المجموعة
+title: "OutlineItemCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutlineItemCollection. تُرجع مُعدِّدًا يتنقل عبر المجموعة"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf/outlineitemcollection/getenumerator/
 ---
-## طريقة OutlineItemCollection.GetEnumerator
+## OutlineItemCollection.GetEnumerator method
 
-تُرجع عدادًا يتكرر عبر المجموعة.
+يرجع عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public override IEnumerator<OutlineItemCollection> GetEnumerator()
@@ -16,10 +16,12 @@ public override IEnumerator<OutlineItemCollection> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن System.Collections.IEnumerator يمكن استخدامه للتكرار عبر المجموعة.
+كائن System.Collections.IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
 ### انظر أيضًا
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

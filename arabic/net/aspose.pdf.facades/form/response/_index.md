@@ -1,14 +1,14 @@
 ---
-title: Form.Response
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. يحصل أو يحدد كائن الاستجابة حيث سيتم تخزين نتيجة العملية
+title: "Form.Response"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تحصل أو تعين كائن Response حيث سيتم تخزين نتيجة العملية"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/form/response/
 ---
-## خاصية Form.Response
+## Form.Response property
 
-يحصل أو يحدد كائن الاستجابة حيث سيتم تخزين نتيجة العملية.
+تحصل أو تعين كائن Response حيث سيتم تخزين نتيجة العملية.
 
 ```csharp
 public HttpResponse Response { get; set; }
@@ -19,3 +19,5 @@ public HttpResponse Response { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

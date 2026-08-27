@@ -1,22 +1,22 @@
 ---
-title: NamedAction.NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ NamedAction. مُنشئ لفئة Named Action
+title: "NamedAction.NamedAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ NamedAction. منشئ لفئة الإجراء المسمى"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/namedaction/namedaction/
 ---
-## مُنشئ NamedAction
+## NamedAction constructor
 
-مُنشئ لفئة Named Action.
+منشئ للفئة Named Action.
 
 ```csharp
 public NamedAction(PredefinedAction action)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| action | PredefinedAction | الإجراء الذي تم إنشاء هذا الكائن من أجله. |
+| إجراء | PredefinedAction | الإجراء الذي تم إنشاء هذا الكائن من أجله. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public NamedAction(PredefinedAction action)
 * class [NamedAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,22 @@
 ---
-title: Class PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.PatternColorSpace class. يمثل فئة النمط الأساسية
+title: "الفئة PatternColorSpace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Drawing.PatternColorSpace. تمثل الفئة النمطية الأساسية"
 type: docs
-weight: 3980
+weight: 4100
 url: /ar/net/aspose.pdf.drawing/patterncolorspace/
 ---
 ## PatternColorSpace class
 
-يمثل فئة النمط الأساسية.
+يمثل فئة النمط الأساسي.
 
 ```csharp
 public abstract class PatternColorSpace
 ```
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

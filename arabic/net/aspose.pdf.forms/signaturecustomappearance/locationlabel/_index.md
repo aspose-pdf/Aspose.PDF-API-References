@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.LocationLabel
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تعيين تسمية الموقع. القيمة الافتراضية الموقع
+title: "SignatureCustomAppearance.LocationLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط تسمية الموقع. القيمة الافتراضية Location"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/
 ---
-## خاصية SignatureCustomAppearance.LocationLabel
+## SignatureCustomAppearance.LocationLabel property
 
-تحصل/تعيين تسمية الموقع. القيمة الافتراضية: "الموقع".
+الحصول/التعيين لتسمية الموقع. القيمة الافتراضية: "Location".
 
 ```csharp
 public string LocationLabel { get; set; }
@@ -19,3 +19,5 @@ public string LocationLabel { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

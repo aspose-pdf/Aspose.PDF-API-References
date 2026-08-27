@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowPrint
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. تحدد الإذن الذي يسمح بالطباعة أو لا. true يسمح و false ممنوع
+title: "DocumentPrivilege.AllowPrint"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. تضبط الإذن الذي يسمح بالطباعة أو لا. true يعني مسموح و false يعني ممنوع"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/documentprivilege/allowprint/
 ---
-## خاصية DocumentPrivilege.AllowPrint
+## DocumentPrivilege.AllowPrint property
 
-تحدد الإذن الذي يسمح بالطباعة أو لا. true يسمح و false ممنوع.
+يضبط الإذن الذي يسمح بالطباعة أو لا. true يعني مسموح و false يعني ممنوع.
 
 ```csharp
 public bool AllowPrint { get; set; }
@@ -19,3 +19,5 @@ public bool AllowPrint { get; set; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

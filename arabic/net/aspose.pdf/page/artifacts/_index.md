@@ -1,14 +1,14 @@
 ---
-title: Page.Artifacts
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على مجموعة من العناصر على الصفحة
+title: "Page.Artifacts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل على مجموعة العناصر الفنية في الصفحة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/page/artifacts/
 ---
-## خاصية Page.Artifacts
+## Page.Artifacts property
 
-تحصل على مجموعة من العناصر على الصفحة.
+يحصل على مجموعة القطع الأثرية في الصفحة.
 
 ```csharp
 public ArtifactCollection Artifacts { get; }
@@ -20,3 +20,5 @@ public ArtifactCollection Artifacts { get; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

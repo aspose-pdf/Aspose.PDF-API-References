@@ -1,14 +1,14 @@
 ---
-title: RunStepDetails.RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RunStepDetails. المُنشئ الافتراضي
+title: "RunStepDetails.RunStepDetails"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RunStepDetails. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/runstepdetails/runstepdetails/
 ---
-## مُنشئ RunStepDetails
+## RunStepDetails constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public RunStepDetails()
@@ -19,3 +19,5 @@ public RunStepDetails()
 * class [RunStepDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

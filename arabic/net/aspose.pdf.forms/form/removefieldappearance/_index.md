@@ -1,22 +1,22 @@
 ---
-title: Form.RemoveFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تزيل مظهر الحقل عند الفهرس المحدد. إذا تبقى مظهر واحد فقط، تقوم الطريقة بإدماجه في الحقل
+title: "Form.RemoveFieldAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تزيل مظهر الحقل في الفهرس المحدد. إذا بقي مظهر طفل واحد فقط، تقوم الطريقة بدمجه في الحقل."
 type: docs
-weight: 310
+weight: 330
 url: /ar/net/aspose.pdf.forms/form/removefieldappearance/
 ---
-## طريقة Form.RemoveFieldAppearance
+## Form.RemoveFieldAppearance method
 
-تزيل مظهر الحقل عند الفهرس المحدد. إذا تبقى مظهر واحد فقط، تقوم الطريقة بإدماجه في الحقل.
+يزيل مظهر الحقل عند الفهرس المحدد. إذا تبقى مظهر طفل واحد فقط، تقوم الطريقة بدمجه في الحقل.
 
 ```csharp
 public void RemoveFieldAppearance(Field field, int appearanceIndex)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| field | Field | حقل بمظاهر. |
+| حقل | حقل | حقل مع مظاهر. |
 | appearanceIndex | Int32 | فهرس المظاهر. |
 
 ### انظر أيضًا
@@ -25,3 +25,5 @@ public void RemoveFieldAppearance(Field field, int appearanceIndex)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

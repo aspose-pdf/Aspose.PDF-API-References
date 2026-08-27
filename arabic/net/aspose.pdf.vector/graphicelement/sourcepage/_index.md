@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.SourcePage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicElement. تحصل على الصفحة التي تم استخراج العنصر الرسومي منها
+title: "GraphicElement.SourcePage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicElement. يحصل على الصفحة التي تم استخراج العنصر الرسومي منها"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.vector/graphicelement/sourcepage/
 ---
-## خاصية GraphicElement.SourcePage
+## GraphicElement.SourcePage property
 
-تحصل على الصفحة التي تم استخراج العنصر الرسومي منها.
+يحصل على الصفحة التي تم استخراج العنصر الرسومي منها.
 
 ```csharp
 public Page SourcePage { get; }
@@ -20,3 +20,5 @@ public Page SourcePage { get; }
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

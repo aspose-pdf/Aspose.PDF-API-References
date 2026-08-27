@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ExplicitDestination. تعيد تمثيل سلسلة لكائن ExplicitDestination
+title: "ExplicitDestination.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ExplicitDestination. تُرجع تمثيلًا نصيًا لكائن ExplicitDestination."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/explicitdestination/tostring/
 ---
-## طريقة ExplicitDestination.ToString
+## ExplicitDestination.ToString method
 
-تعيد تمثيل سلسلة لكائن ExplicitDestination.
+يرجع تمثيل السلسلة لكائن ExplicitDestination.
 
 ```csharp
 public abstract string ToString()
@@ -16,10 +16,12 @@ public abstract string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل سلسلة.
+تمثيل النص.
 
 ### انظر أيضًا
 
 * class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

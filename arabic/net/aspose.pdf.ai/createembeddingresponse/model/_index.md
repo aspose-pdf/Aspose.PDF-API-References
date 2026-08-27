@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateEmbeddingResponse. تحصل أو تعين النموذج المستخدم للتضمين
+title: "CreateEmbeddingResponse.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CreateEmbeddingResponse. يحصل أو يضبط النموذج المستخدم للتضمين"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/createembeddingresponse/model/
 ---
-## خاصية CreateEmbeddingResponse.Model
+## CreateEmbeddingResponse.Model property
 
-تحصل أو تعين النموذج المستخدم للتضمين.
+يحصل أو يعيّن النموذج المستخدم في embedding.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

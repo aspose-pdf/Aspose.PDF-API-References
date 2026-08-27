@@ -1,12 +1,12 @@
 ---
-title: ILSTextElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: ILSTextElement method.
+title: "ILSTextElement.SetText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ILSTextElement."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/ilstextelement/settext/
 ---
-## طريقة ILSTextElement.SetText
+## ILSTextElement.SetText method
 
 ```csharp
 public void SetText(string text)
@@ -14,6 +14,8 @@ public void SetText(string text)
 
 ### انظر أيضًا
 
-* فئة [ILSTextElement](../)
-* مساحة الأسماء [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* التجميع [Aspose.PDF](../../../)
+* class [ILSTextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

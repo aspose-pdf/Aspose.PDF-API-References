@@ -1,22 +1,22 @@
 ---
-title: PdfFileSanitization.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSanitization. تربط ملف Pdf للتنظيف
+title: "PdfFileSanitization.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSanitization. تربط ملف Pdf للتنقية"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdffilesanitization/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-تربط ملف Pdf للتنظيف.
+يربط ملف Pdf للتنظيف.
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | ملف pdf الذي سيتم تحريره. |
+| inputFile | String | ملف pdf المراد تحريره. |
 
 ### انظر أيضًا
 
@@ -28,15 +28,15 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-تربط تدفق Pdf للتنظيف.
+يربط تدفق Pdf للتنظيف.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق pdf الذي سيتم تحريره. |
+| inputStream | Stream | تدفق pdf المراد تحريره. |
 
 ### انظر أيضًا
 
@@ -48,15 +48,15 @@ public override void BindPdf(Stream inputStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-تهيئ الواجهة.
+يُهيئ الواجهة.
 
 ```csharp
 public override void BindPdf(Document srcDoc)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| srcDoc | Document | كائن Aspose.Pdf.Document. |
+| srcDoc | Document | الكائن Aspose.Pdf.Document. |
 
 ### انظر أيضًا
 
@@ -64,3 +64,5 @@ public override void BindPdf(Document srcDoc)
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

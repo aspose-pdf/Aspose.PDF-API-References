@@ -1,12 +1,12 @@
 ---
-title: Rows.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rows. إزالة الصف في الموضع من المجموعة
+title: "Rows.RemoveAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rows. إزالة الصف في الموضع من المجموعة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/rows/removeat/
 ---
-## طريقة Rows.RemoveAt
+## Rows.RemoveAt method
 
 إزالة الصف في الموضع من المجموعة.
 
@@ -14,12 +14,14 @@ url: /ar/net/aspose.pdf/rows/removeat/
 public void RemoveAt(int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس المجموعة. |
+| index | Int32 | فهرس التجميع. |
 
 ### انظر أيضًا
 
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

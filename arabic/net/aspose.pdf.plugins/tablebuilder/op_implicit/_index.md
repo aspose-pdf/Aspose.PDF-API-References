@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableBuilder. تحويل بناء TableBuilder إلى خيارات TableOptions
+title: "TableBuilder.op_Implicit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableBuilder. يحول الباني TableBuilder إلى خيارات TableOptions"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.plugins/tablebuilder/op_implicit/
 ---
-## مشغل TableBuilder الضمني
+## TableBuilder Implicit operator
 
 يحول الباني [`TableBuilder`](../) إلى خيارات [`TableOptions`](../../tableoptions/)
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf.plugins/tablebuilder/op_implicit/
 public static implicit operator TableOptions(TableBuilder builder)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| builder | TableBuilder | مثيل من [`TableBuilder`](../) الحالي. |
+| builder | TableBuilder | مثيل من الحالي [`TableBuilder`](../). |
 
 ### قيمة الإرجاع
 
@@ -24,7 +24,9 @@ public static implicit operator TableOptions(TableBuilder builder)
 
 ### انظر أيضًا
 
-* الفئة [TableOptions](../../tableoptions/)
-* الفئة [TableBuilder](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

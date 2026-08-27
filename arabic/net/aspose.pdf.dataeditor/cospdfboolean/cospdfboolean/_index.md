@@ -1,25 +1,27 @@
 ---
-title: CosPdfBoolean.CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CosPdfBoolean. يقوم بتهيئة مثيل جديد من فئة PdfBoolean
+title: "CosPdfBoolean.CosPdfBoolean"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CosPdfBoolean. يهيئ كائنًا جديدًا من الفئة PdfBoolean."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/
 ---
-## مُنشئ CosPdfBoolean
+## CosPdfBoolean constructor
 
-يقوم بتهيئة مثيل جديد من فئة PdfBoolean.
+يُنشئ مثيلاً جديدًا لفئة PdfBoolean.
 
 ```csharp
 public CosPdfBoolean(bool value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Boolean | إذا تم تعيينه إلى `true` [value]. |
+| القيمة | Boolean | إذا تم تعيينه إلى `true` [value]. |
 
 ### انظر أيضًا
 
-* الفئة [CosPdfBoolean](../)
-* مساحة الاسم [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

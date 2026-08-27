@@ -1,22 +1,22 @@
 ---
-title: Form.ImportJson
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تستورد جميع بيانات الحقول من تدفق JSON إلى حقول الوثيقة مطابقة الحقول بأسمائها الكاملة
+title: "Form.ImportJson"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تستورد جميع بيانات الحقول من تدفق JSON إلى حقول المستند المطابقة للحقول بأسمائها الكاملة."
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf.facades/form/importjson/
 ---
-## طريقة Form.ImportJson
+## Form.ImportJson method
 
-تستورد جميع بيانات الحقول من تدفق JSON إلى حقول الوثيقة، مطابقة الحقول بأسمائها الكاملة.
+يستورد جميع بيانات الحقول من تدفق JSON إلى حقول المستند، مطابقة الحقول بأسمائها الكاملة.
 
 ```csharp
 public void ImportJson(Stream inputJsonStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputJsonStream | Stream | تدفق JSON المدخل الذي يحتوي على بيانات الحقول التي سيتم استيرادها إلى حقول الوثيقة. |
+| inputJsonStream | Stream | تدفق JSON الإدخال الذي يحتوي على بيانات الحقول لتُستورد إلى حقول المستند. |
 
 ## أمثلة
 
@@ -33,3 +33,5 @@ form.Save();
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

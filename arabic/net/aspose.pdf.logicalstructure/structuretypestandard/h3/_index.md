@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H3
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. عنوان المستوى 3 للاستخدام في الكتاب المتوافقين الذين لا يمكنهم تداخل أقسامهم بشكل هرمي وبالتالي لا يمكنهم تحديد مستوى العنوان من مستوى تداخله
+title: "StructureTypeStandard.H3"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Level 3 Heading للاستخدام في الكتابات المتوافقة التي لا يمكنها تعشيق أقسامها هرميًا وبالتالي لا يمكنها تحديد مستوى العنوان من مستوى التعشيق"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/h3/
 ---
-## حقل StructureTypeStandard.H3
+## StructureTypeStandard.H3 field
 
-عنوان المستوى 3، للاستخدام في الكتاب المتوافقين الذين لا يمكنهم تداخل أقسامهم بشكل هرمي وبالتالي لا يمكنهم تحديد مستوى العنوان من مستوى تداخله.
+عنوان المستوى 3، للاستخدام في الكتابات المتوافقة التي لا تستطيع تعشيق أقسامها هرميًا وبالتالي لا يمكنها تحديد مستوى العنوان من مستوى التعشيق.
 
 ```csharp
 public static readonly StructureTypeStandard H3;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard H3;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

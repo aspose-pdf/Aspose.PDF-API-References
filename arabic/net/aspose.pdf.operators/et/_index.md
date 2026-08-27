@@ -1,14 +1,14 @@
 ---
-title: Class ET
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.ET. فئة تمثل المشغل ET نهاية كتلة النص
+title: "الفئة ET"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.ET. الفئة التي تمثل عامل ET لإنهاء كتلة النص"
 type: docs
-weight: 7340
+weight: 7480
 url: /ar/net/aspose.pdf.operators/et/
 ---
-## فئة ET
+## ET class
 
-فئة تمثل المشغل ET (نهاية كتلة النص).
+الفئة التي تمثل المشغل ET (نهاية كتلة النص).
 
 ```csharp
 public class ET : BlockTextOperator
@@ -18,24 +18,26 @@ public class ET : BlockTextOperator
 
 | الاسم | الوصف |
 | --- | --- |
-| [ET](et/)() | يقوم بتهيئة المشغل. |
+| [ET](et/)() | يُهيئ العامل. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/et/tostring/)() | ينتج كود نصي للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/et/tostring/)() | ينتج رمز النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [BlockTextOperator](../blocktextoperator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [BlockTextOperator](../blocktextoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

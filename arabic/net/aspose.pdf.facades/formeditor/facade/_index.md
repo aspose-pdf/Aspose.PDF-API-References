@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormEditor. تعيين الخصائص المرئية للحقل
+title: "FormEditor.Facade"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormEditor. تعيين السمات البصرية للحقل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/formeditor/facade/
 ---
-## خاصية FormEditor.Facade
+## FormEditor.Facade property
 
-تعيين الخصائص المرئية للحقل.
+يضبط السمات البصرية للحقل.
 
 ```csharp
 public FormFieldFacade Facade { get; set; }
@@ -33,3 +33,5 @@ fe.Save();
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

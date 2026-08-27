@@ -1,33 +1,35 @@
 ---
-title: Class CompromiseCheckResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Signatures.CompromiseCheckResult class. تمثل فئة للتحقق من التوقيعات الرقمية للمستندات من التلاعب
+title: "الفئة CompromiseCheckResult"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Signatures.CompromiseCheckResult. تمثل فئةً للتحقق من التوقيعات الرقمية للمستند بحثًا عن الاختراق"
 type: docs
-weight: 10100
+weight: 10280
 url: /ar/net/aspose.pdf.signatures/compromisecheckresult/
 ---
 ## CompromiseCheckResult class
 
-تمثل فئة للتحقق من التوقيعات الرقمية للمستندات من التلاعب.
+يمثل فئة للتحقق من سلامة التوقيعات الرقمية للمستند.
 
 ```csharp
 public sealed class CompromiseCheckResult
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [HasCompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/) { get; } | تشير إلى ما إذا كانت هناك أي توقيعات رقمية تم التلاعب بها في المستند. تعيد true إذا كانت هناك توقيع واحد على الأقل تم التلاعب به؛ وإلا، تعيد false. |
-| [SignaturesCoverage](../../aspose.pdf.signatures/compromisecheckresult/signaturescoverage/) { get; } | تحصل على حالة تغطية التوقيعات الرقمية في المستند. إذا كانت تساوي Undefined، فإن أحد التوقيعات قد تم التلاعب به. |
+| [HasCompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/) { get; } | يشير ما إذا كان هناك أي توقيعات رقمية مخترقة في المستند. يرجع true إذا كان هناك توقيع واحد على الأقل مخترق؛ وإلا false. |
+| [SignaturesCoverage](../../aspose.pdf.signatures/compromisecheckresult/signaturescoverage/) { get; } | يحصل على حالة التغطية للتوقيعات الرقمية في المستند. إذا كانت مساوية لـ Undefined، فإن أحد التوقيعات مخترق. |
 
-## Fields
+## الحقول
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| readonly [CompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/) | تحصل على مجموعة من التوقيعات الرقمية التي تم تحديدها على أنها تم التلاعب بها. تحتوي هذه الخاصية على قائمة بجميع التوقيعات الم compromised التي تم اكتشافها في المستند. |
+| readonly [CompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/) | يحصل على مجموعة من التوقيعات الرقمية التي تم تحديدها كمخترقة. تحتوي هذه الخاصية على قائمة بجميع التوقيعات المخترقة التي تم اكتشافها في المستند. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Signatures](../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../)
+
+

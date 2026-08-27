@@ -1,10 +1,10 @@
 ---
-title: Delegate Document.CallBackGetHocrWithPage
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "مفوض Document.CallBackGetHocrWithPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: 
 type: docs
-weight: 3800
-url: /net/aspose.pdf/document.callbackgethocrwithpage/
+weight: 3920
+url: /ar/net/aspose.pdf/document.callbackgethocrwithpage/
 ---
 ## Document.CallBackGetHocrWithPage delegate
 
@@ -12,18 +12,20 @@ url: /net/aspose.pdf/document.callbackgethocrwithpage/
 public delegate string CallBackGetHocrWithPage(Image img, Page page);
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| img | Image | صورة الهكر. |
-| page | Page | الصفحة التي يتم معالجتها. |
+| img | صورة | صورة hocr. |
+| صفحة | صفحة | الصفحة التي يتم معالجتها. |
 
-### Return Value
+### قيمة الإرجاع
 
-نص الهكر.
+نص hocr.
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../page/)
 * class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

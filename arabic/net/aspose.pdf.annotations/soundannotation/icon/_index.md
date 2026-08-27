@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundAnnotation. تحصل أو تعين أيقونة لاستخدامها في عرض التعليق
+title: "SoundAnnotation.Icon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundAnnotation. تحصل أو تعين أيقونة تُستخدم في عرض التعليق."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/soundannotation/icon/
 ---
-## خاصية SoundAnnotation.Icon
+## SoundAnnotation.Icon property
 
-تحصل أو تعين أيقونة لاستخدامها في عرض التعليق.
+يحصل أو يعيّن أيقونة لاستخدامها في عرض التعليق التوضيحي.
 
 ```csharp
 public SoundIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public SoundIcon Icon { get; set; }
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

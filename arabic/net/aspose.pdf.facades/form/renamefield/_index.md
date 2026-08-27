@@ -1,23 +1,23 @@
 ---
-title: Form.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تعيد تسمية حقل. إما حقل AcroForm أو حقل XFA مقبول
+title: "Form.RenameField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تعيد تسمية حقل. سواء كان حقل AcroForm أو حقل XFA مقبول."
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf.facades/form/renamefield/
 ---
-## طريقة Form.RenameField
+## Form.RenameField method
 
-تعيد تسمية حقل. إما حقل AcroForm أو حقل XFA مقبول.
+يعيد تسمية حقل. سواء كان حقل AcroForm أو حقل XFA مقبول.
 
 ```csharp
 public void RenameField(string fieldName, string newFieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل القديم |
-| newFieldName | سلسلة | اسم الحقل الجديد |
+| fieldName | String | اسم الحقل القديم |
+| newFieldName | String | اسم الحقل الجديد |
 
 ## أمثلة
 
@@ -29,6 +29,8 @@ form.Save();
 
 ### انظر أيضًا
 
-* الفئة [Form](../)
-* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

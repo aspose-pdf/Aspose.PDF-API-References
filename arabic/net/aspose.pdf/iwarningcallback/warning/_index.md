@@ -1,31 +1,33 @@
 ---
-title: IWarningCallback.Warning
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IWarningCallback. طريقة الاستدعاء لبعض إشعارات البرنامج
+title: "IWarningCallback.Warning"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IWarningCallback. طريقة الاستدعاء الراجع لبعض إشعارات البرنامج"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/iwarningcallback/warning/
 ---
 ## IWarningCallback.Warning method
 
-طريقة الاستدعاء لبعض إشعارات البرنامج.
+طريقة رد الاتصال لبعض إشعارات البرنامج.
 
 ```csharp
 public ReturnAction Warning(WarningInfo warning)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| warning | WarningInfo | معلومات التحذير لإشعار تحذير حدثت بعضه |
+| تحذير | WarningInfo | معلومات التحذير لبعض التحذيرات التي حدثت |
 
-### Return Value
+### قيمة الإرجاع
 
-نتيجة سير العمل الإضافي للبرنامج
+نتيجة سير عمل البرنامج الإضافي
 
-### See Also
+### انظر أيضًا
 
 * enum [ReturnAction](../../returnaction/)
 * class [WarningInfo](../../warninginfo/)
 * interface [IWarningCallback](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

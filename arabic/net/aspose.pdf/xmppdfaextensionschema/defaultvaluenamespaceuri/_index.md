@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultValueNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: حقل XmpPdfAExtensionSchema. URI مساحة الاسم الافتراضية
+title: "XmpPdfAExtensionSchema.DefaultValueNamespaceUri"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpPdfAExtensionSchema حقل. مساحة اسم القيمة الافتراضية uri"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/
 ---
-## حقل XmpPdfAExtensionSchema.DefaultValueNamespaceUri
+## XmpPdfAExtensionSchema.DefaultValueNamespaceUri field
 
-URI مساحة الاسم الافتراضية.
+معرف مساحة الاسم للقيمة الافتراضية.
 
 ```csharp
 public const string DefaultValueNamespaceUri;
@@ -19,3 +19,5 @@ public const string DefaultValueNamespaceUri;
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SolidOutline
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DRenderMode. وضع العرض SolidOutline
+title: "PDF3DRenderMode.SolidOutline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DRenderMode. وضع العرض SolidOutline"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/solidoutline/
 ---
-## حقل PDF3DRenderMode.SolidOutline
+## PDF3DRenderMode.SolidOutline field
 
 وضع العرض "SolidOutline".
 
@@ -19,3 +19,5 @@ public static PDF3DRenderMode SolidOutline;
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

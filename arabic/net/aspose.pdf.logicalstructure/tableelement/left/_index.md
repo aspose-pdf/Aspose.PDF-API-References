@@ -1,14 +1,14 @@
 ---
-title: TableElement.Left
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل أو تعين إحداثي الجدول الأيسر
+title: "TableElement.Left"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. يحصل أو يضبط إحداثيات يسار الجدول"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/left/
 ---
-## خاصية TableElement.Left
+## TableElement.Left property
 
-تحصل أو تعين إحداثي الجدول الأيسر.
+يحصل أو يعيّن إحداثي اليسار للجدول.
 
 ```csharp
 public float Left { get; set; }
@@ -19,3 +19,5 @@ public float Left { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

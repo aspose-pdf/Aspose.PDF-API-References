@@ -1,14 +1,14 @@
 ---
-title: GraphicsAbsorber.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicsAbsorber. يحرر جميع الموارد المستخدمة بواسطة فئة GraphicsAbsorber
+title: "GraphicsAbsorber.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicsAbsorber. تُحرّر جميع الموارد المستخدمة من قبل فئة GraphicsAbsorber"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.vector/graphicsabsorber/dispose/
 ---
-## طريقة GraphicsAbsorber.Dispose
+## GraphicsAbsorber.Dispose method
 
-يحرر جميع الموارد المستخدمة بواسطة فئة [`GraphicsAbsorber`](../).
+يطلق جميع الموارد المستخدمة من قبل الفئة [`GraphicsAbsorber`](../).
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### انظر أيضًا
 
-* فئة [GraphicsAbsorber](../)
-* مساحة الأسماء [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* التجميع [Aspose.PDF](../../../)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

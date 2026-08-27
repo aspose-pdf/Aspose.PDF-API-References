@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenSettings.HideButtons
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FlattenSettings. إذا تم تعيينها، ستتم إزالة الأزرار من الوثيقة المسطحة. القيمة الافتراضية هي False
+title: "Form.FlattenSettings.HideButtons"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FlattenSettings. إذا تم تعيينها، سيتم إزالة الأزرار من المستند المسطح. False بشكل افتراضي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/form.flattensettings/hidebuttons/
 ---
-## خاصية Form.FlattenSettings.HideButtons
+## Form.FlattenSettings.HideButtons property
 
-إذا تم تعيينها، ستتم إزالة الأزرار من الوثيقة المسطحة. القيمة الافتراضية هي False.
+إذا تم التعيين، سيتم إزالة الأزرار من المستند المسطح. خطأ بشكل افتراضي.
 
 ```csharp
 public bool HideButtons { get; set; }
@@ -19,3 +19,5 @@ public bool HideButtons { get; set; }
 * class [FlattenSettings](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

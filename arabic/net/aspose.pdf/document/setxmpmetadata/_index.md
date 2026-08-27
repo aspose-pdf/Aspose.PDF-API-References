@@ -1,25 +1,27 @@
 ---
-title: Document.SetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تعيين بيانات التعريف XMP للوثيقة
+title: "Document.SetXmpMetadata"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تعيين بيانات XMP الوصفية للمستند"
 type: docs
-weight: 880
+weight: 900
 url: /ar/net/aspose.pdf/document/setxmpmetadata/
 ---
 ## Document.SetXmpMetadata method
 
-تعيين بيانات التعريف XMP للوثيقة.
+تعيين بيانات XMP الوصفية للمستند.
 
 ```csharp
 public void SetXmpMetadata(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | التدفق الذي يحتوي على بيانات التعريف XMP. |
+| stream | Stream | تدفق يحتوي على بيانات XMP الوصفية. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

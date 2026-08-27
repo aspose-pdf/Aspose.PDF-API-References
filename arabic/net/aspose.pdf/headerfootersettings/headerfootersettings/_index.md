@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ HeaderFooterSettings. المُنشئ الافتراضي
+title: "HeaderFooterSettings.HeaderFooterSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "HeaderFooterSettings منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/headerfootersettings/headerfootersettings/
 ---
-## مُنشئ HeaderFooterSettings
+## HeaderFooterSettings constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public HeaderFooterSettings()
@@ -19,3 +19,5 @@ public HeaderFooterSettings()
 * class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

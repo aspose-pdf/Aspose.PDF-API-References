@@ -1,12 +1,12 @@
 ---
-title: PdfToXlsOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToXlsOptions. تنسيق الإخراج
+title: "PdfToXlsOptions.Format"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToXlsOptions. تنسيق الإخراج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdftoxlsoptions/format/
 ---
-## خاصية PdfToXlsOptions.Format
+## PdfToXlsOptions.Format property
 
 تنسيق الإخراج.
 
@@ -20,3 +20,5 @@ public ExcelFormat Format { get; set; }
 * class [PdfToXlsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

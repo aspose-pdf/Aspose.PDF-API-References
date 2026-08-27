@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.LegalExtra
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق قانوني إضافي 9.275 بوصة × 15 بوصة
+title: "PaperSizes.LegalExtra"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ورق قانوني إضافي 9.275 بوصة × 15 بوصة"
 type: docs
 weight: 640
 url: /ar/net/aspose.pdf.printing/papersizes/legalextra/
 ---
-## حقل PaperSizes.LegalExtra
+## PaperSizes.LegalExtra field
 
 ورق قانوني إضافي (9.275 بوصة × 15 بوصة).
 
@@ -16,7 +16,7 @@ public static readonly PaperSize LegalExtra;
 
 ## ملاحظات
 
-هذه القيمة خاصة بسائق PostScript وتستخدم فقط بواسطة طابعات Linotronic من أجل الحفاظ على الورق.
+هذه القيمة خاصة ببرنامج تشغيل PostScript وتُستخدم فقط بواسطة طابعات Linotronic لتوفير الورق.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public static readonly PaperSize LegalExtra;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

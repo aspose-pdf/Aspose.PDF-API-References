@@ -1,46 +1,48 @@
 ---
-title: Class ThreadMessageCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ThreadMessageCreateRequest. تمثل طلبًا لإنشاء رسالة ضمن سلسلة
+title: "الفئة ThreadMessageCreateRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.ThreadMessageCreateRequest. تمثل طلبًا لإنشاء رسالة داخل سلسلة."
 type: docs
-weight: 1120
+weight: 1210
 url: /ar/net/aspose.pdf.ai/threadmessagecreaterequest/
 ---
 ## ThreadMessageCreateRequest class
 
-تمثل طلبًا لإنشاء رسالة ضمن سلسلة.
+يمثل طلبًا لإنشاء رسالة داخل سلسلة.
 
 ```csharp
 public class ThreadMessageCreateRequest
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ThreadMessageCreateRequest](threadmessagecreaterequest/)() | المُنشئ الافتراضي. |
+| [ThreadMessageCreateRequest](threadmessagecreaterequest/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Attachments](../../aspose.pdf.ai/threadmessagecreaterequest/attachments/) { get; set; } | يحصل أو يحدد قائمة الملفات المرفقة بالرسالة. |
-| [Content](../../aspose.pdf.ai/threadmessagecreaterequest/content/) { get; set; } | يحصل أو يحدد محتوى الرسالة. يمكن أن يكون سلسلة أو مصفوفة من أجزاء المحتوى. |
-| [Metadata](../../aspose.pdf.ai/threadmessagecreaterequest/metadata/) { get; set; } | يحصل أو يحدد مجموعة من 16 زوجًا من المفاتيح والقيم يمكن إرفاقها بكائن. يمكن أن يكون هذا مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بطول أقصى 64 حرفًا والقيم بطول أقصى 512 حرفًا. |
-| [Role](../../aspose.pdf.ai/threadmessagecreaterequest/role/) { get; set; } | يحصل أو يحدد دور الكيان الذي ينشئ الرسالة. القيم المسموح بها تشمل: "مستخدم"، "مساعد". |
+| [Attachments](../../aspose.pdf.ai/threadmessagecreaterequest/attachments/) { get; set; } | يحصل أو يضبط قائمة بالملفات المرفقة بالرسالة. |
+| [Content](../../aspose.pdf.ai/threadmessagecreaterequest/content/) { get; set; } | يحصل أو يضبط محتوى الرسالة. يمكن أن يكون سلسلة نصية أو مصفوفة من أجزاء المحتوى. |
+| [Metadata](../../aspose.pdf.ai/threadmessagecreaterequest/metadata/) { get; set; } | يتم الحصول على أو تعيين مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بكائن. يمكن أن يكون ذلك مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بحد أقصى 64 حرفًا والقيم بحد أقصى 512 حرفًا. |
+| [Role](../../aspose.pdf.ai/threadmessagecreaterequest/role/) { get; set; } | يحصل أو يضبط دور الكيان الذي ينشئ الرسالة. القيم المسموح بها تشمل: \"user\", \"assistant\". |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [FromAssistant](../../aspose.pdf.ai/threadmessagecreaterequest/fromassistant/)() | ينشئ طلب `ThreadMessageCreateRequest` جديد مع تعيين الدور إلى مساعد. |
-| static [FromUser](../../aspose.pdf.ai/threadmessagecreaterequest/fromuser/)() | ينشئ طلب `ThreadMessageCreateRequest` جديد مع تعيين الدور إلى مستخدم. |
-| [WithAttachments](../../aspose.pdf.ai/threadmessagecreaterequest/withattachments/)(List&lt;Attachment&gt;) | يحدد المرفقات لطلب رسالة السلسلة. |
+| static [FromAssistant](../../aspose.pdf.ai/threadmessagecreaterequest/fromassistant/)() | ينشئ `ThreadMessageCreateRequest` جديدًا مع تعيين الدور إلى Assistant. |
+| static [FromUser](../../aspose.pdf.ai/threadmessagecreaterequest/fromuser/)() | ينشئ `ThreadMessageCreateRequest` جديدًا مع تعيين الدور إلى User. |
+| [WithAttachments](../../aspose.pdf.ai/threadmessagecreaterequest/withattachments/)(List&lt;Attachment&gt;) | يضبط المرفقات لطلب رسالة السلسلة. |
 | [WithContent](../../aspose.pdf.ai/threadmessagecreaterequest/withcontent/)(MessageContentRequest) | يضيف محتوى رسالة إلى طلب رسالة السلسلة. |
-| [WithContents](../../aspose.pdf.ai/threadmessagecreaterequest/withcontents/)(List&lt;MessageContentRequest&gt;) | يحدد محتويات الرسالة لطلب رسالة السلسلة. |
-| [WithMetadata](../../aspose.pdf.ai/threadmessagecreaterequest/withmetadata/)(Dictionary&lt;string, string&gt;) | يحدد البيانات الوصفية لطلب رسالة السلسلة. |
+| [WithContents](../../aspose.pdf.ai/threadmessagecreaterequest/withcontents/)(List&lt;MessageContentRequest&gt;) | يضبط محتويات الرسالة لطلب رسالة السلسلة. |
+| [WithMetadata](../../aspose.pdf.ai/threadmessagecreaterequest/withmetadata/)(Dictionary&lt;string, string&gt;) | يضبط البيانات الوصفية لطلب رسالة السلسلة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

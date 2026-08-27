@@ -1,14 +1,14 @@
 ---
-title: Enum FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Devices.FormPresentationMode. يُستخدم لتحديد وضع عرض النموذج عند الطباعة أو التحويل إلى مستندات PDF صورة
+title: "التعداد FormPresentationMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Devices.FormPresentationMode enum. يُستخدم لتحديد وضع عرض النموذج عند الطباعة أو التحويل إلى مستندات pdf صورة"
 type: docs
-weight: 3590
+weight: 3710
 url: /ar/net/aspose.pdf.devices/formpresentationmode/
 ---
-## تعداد FormPresentationMode
+## FormPresentationMode enumeration
 
-يُستخدم لتحديد وضع عرض النموذج عند الطباعة أو التحويل إلى مستندات PDF صورة.
+يُستخدم لتحديد وضع عرض النموذج عند الطباعة أو التحويل إلى مستندات pdf صورة.
 
 ```csharp
 public enum FormPresentationMode
@@ -18,10 +18,12 @@ public enum FormPresentationMode
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Production | `0` | يحدد وضع عرض النموذج للإنتاج (يستخدم بشكل افتراضي). |
-| Editor | `1` | يحدد وضع عرض النموذج للمحرر. |
+| Production | `0` | يحدد وضع عرض النموذج Production (يُستخدم افتراضيًا). |
+| Editor | `1` | يحدد وضع عرض النموذج Editor. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

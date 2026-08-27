@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.OutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TeXLoadOptions. الحصول على/تعيين دليل إخراج TeX
+title: "TeXLoadOptions.OutputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TeXLoadOptions. يحصل/يضبط دليل إخراج TeX"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/texloadoptions/outputdirectory/
 ---
-## خاصية TeXLoadOptions.OutputDirectory
+## TeXLoadOptions.OutputDirectory property
 
-الحصول على/تعيين دليل إخراج TeX.
+يحصل/يضبط دليل إخراج TeX.
 
 ```csharp
 public ITeXOutputDirectory OutputDirectory { get; set; }
@@ -16,7 +16,9 @@ public ITeXOutputDirectory OutputDirectory { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [ITeXOutputDirectory](../../itexoutputdirectory/)
-* فئة [TeXLoadOptions](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ITeXOutputDirectory](../../itexoutputdirectory/)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

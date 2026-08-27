@@ -1,29 +1,31 @@
 ---
-title: XImage.IsTheSameObject
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImage. تعيد true إذا كانت كلتا الصورتين تشير إلى نفس الكائن
+title: "XImage.IsTheSameObject"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImage. تُرجع صحيح إذا كان كلا الصورتين يشيران إلى نفس الكائن."
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.pdf/ximage/isthesameobject/
 ---
-## طريقة XImage.IsTheSameObject
+## XImage.IsTheSameObject method
 
-تعيد true إذا كانت كلتا الصورتين تشير إلى نفس الكائن.
+يرجع true إذا كانت مراجع الصورتين تشير إلى نفس الكائن.
 
 ```csharp
 public bool IsTheSameObject(XImage image)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | XImage | الصورة التي سيتم مقارنتها مع هذه الصورة. |
+| صورة | XImage | الصورة التي ستُقارن مع الصورة "this". |
 
 ### قيمة الإرجاع
 
-قيمة منطقية تكون true إذا كانت الصور تشير إلى نفس الكائن.
+قيمة منطقية تكون صحيحة إذا كانت مراجع الصور إلى نفس الكائن.
 
 ### انظر أيضًا
 
-* الفئة [XImage](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

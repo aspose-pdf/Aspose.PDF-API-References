@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenSettings.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FlattenSettings. المُنشئ الافتراضي
+title: "Form.FlattenSettings.FlattenSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FlattenSettings. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/form.flattensettings/flattensettings/
 ---
-## مُنشئ Form.FlattenSettings
+## Form.FlattenSettings constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FlattenSettings()
@@ -19,3 +19,5 @@ public FlattenSettings()
 * class [FlattenSettings](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

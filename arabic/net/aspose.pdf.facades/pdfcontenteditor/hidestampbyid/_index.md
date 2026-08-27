@@ -1,26 +1,28 @@
 ---
-title: PdfContentEditor.HideStampById
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تخفي الختم. بعد إخفاء الختم، يمكن استعادة رؤية الختم باستخدام طريقة ShowStampById
+title: "PdfContentEditor.HideStampById"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تخفي الطابع. بعد إخفاء الطابع يمكن استعادة الرؤية باستخدام طريقة ShowStampById method"
 type: docs
 weight: 400
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/
 ---
 ## PdfContentEditor.HideStampById method
 
-تخفي الختم. بعد الإخفاء، يمكن استعادة رؤية الختم باستخدام طريقة ShowStampById.
+يخفي الطابع. بعد الإخفاء، يمكن استعادة رؤية الطابع باستخدام طريقة ShowStampById.
 
 ```csharp
 public void HideStampById(int pageNumber, int stampId)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageNumber | Int32 | رقم الصفحة. |
-| stampId | Int32 | معرف الختم الذي يجب إخفاؤه. |
+| stampId | Int32 | معرف الطابع الذي يجب إخفاؤه. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

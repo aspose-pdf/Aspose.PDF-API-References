@@ -1,56 +1,56 @@
 ---
-title: Class MhtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.MhtLoadOptions. تمثل الخيارات لتحميل/استيراد ملف .mht إلى مستند PDF
+title: "فئة MhtLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.MhtLoadOptions. يمثل الخيارات لتحميل/استيراد ملف .mht إلى مستند pdf"
 type: docs
-weight: 6970
+weight: 7110
 url: /ar/net/aspose.pdf/mhtloadoptions/
 ---
 ## MhtLoadOptions class
 
-تمثل الخيارات لتحميل/استيراد ملف .mht إلى مستند PDF.
+يمثل خيارات التحميل/الاستيراد لملف .mht إلى مستند PDF.
 
 ```csharp
 public sealed class MhtLoadOptions : LoadOptions
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MhtLoadOptions](mhtloadoptions/)() | المُنشئ الافتراضي. |
+| [MhtLoadOptions](mhtloadoptions/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون القيمة `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تمنع الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo/) { get; } | يحصل أو يحدد معلومات صفحة المستند |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد الاتصال لمعالجة أي تحذيرات تم إنشاؤها. يُرجع WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo/) { get; } | يحصل أو يضبط معلومات صفحة المستند |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
 
-## Examples
+## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف MHT إلى ملف PDF
+المثال التالي يوضح كيفية تحويل ملف MHT إلى ملف PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your MHT File.
+	// المسار إلى ملف MHT الخاص بك.
 	string mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht");
 
-	// The path to output PDF File.
+	// المسار إلى ملف PDF الناتج.
 	string pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf");
 
-	// Initialize MhtLoadOptions	
+	// تهيئة MhtLoadOptions	
 	MhtLoadOptions mhtLoadOptions = new MhtLoadOptions();
 		
 	using (Document pdfDocument = new Document(mhtFile, mhtLoadOptions))
 	{
 	 
-		// Save PDF file
+		// حفظ ملف PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -77,8 +77,10 @@ public sealed class MhtLoadOptions : LoadOptions
     End Using
 ```
 	
-### See Also
+### انظر أيضًا
 
 * class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.MaxResoultion
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptimizationOptions. تحدد الحد الأقصى لدقة الصور. إذا كانت الصورة بدقة أعلى، فسيتم تغيير حجمها
+title: "OptimizationOptions.MaxResoultion"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptimizationOptions. يحدد أقصى دقة للصور. إذا كانت الصورة ذات دقة أعلى سيتم تحجيمها"
 type: docs
-weight: 90
+weight: 80
 url: /ar/net/aspose.pdf.optimization/optimizationoptions/maxresoultion/
 ---
-## خاصية OptimizationOptions.MaxResoultion
+## OptimizationOptions.MaxResoultion property
 
-تحدد الحد الأقصى لدقة الصور. إذا كانت الصورة بدقة أعلى، فسيتم تغيير حجمها
+يحدد الحد الأقصى لدقة images. إذا كانت الصورة ذات دقة أعلى فسيتم تحجيمها.
 
 ```csharp
 public int MaxResoultion { get; set; }
@@ -19,3 +19,5 @@ public int MaxResoultion { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

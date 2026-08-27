@@ -1,24 +1,24 @@
 ---
-title: DocumentExtensions.SplitSharedImages
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DocumentExtensions. للصور في الموارد إذا كانت صفحتان تتحقق من XImages المشتركة وفي حالات مشابهة تقسمها عن طريق إنشاء XImages مكررة
+title: "DocumentExtensions.SplitSharedImages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DocumentExtensions. بالنسبة للصور في الموارد، إذا كانت صفحتان تتحققان من وجود XImages مشتركة وفي حالات مماثلة تقوم بتقسيمها بإنشاء XImages مكررة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/documentextensions/splitsharedimages/
 ---
-## طريقة DocumentExtensions.SplitSharedImages
+## DocumentExtensions.SplitSharedImages method
 
-للصور في الموارد إذا كانت صفحتان تتحقق من XImages المشتركة وفي حالات مشابهة تقسمها، عن طريق إنشاء XImages مكررة.
+بالنسبة للصور في الموارد، إذا تحققت صفحتان من وجود XImages مشتركة وفي حالات مماثلة يتم تقسيمها بإنشاء XImages مكررة.
 
 ```csharp
 public static void SplitSharedImages(this Document doc, Page page_1, Page page_2)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي يحتوي على كلا المجموعتين. |
-| page_1 | Page | الصفحة الأولى للمقارنة. |
-| page_2 | Page | الصفحة الثانية للمقارنة/ |
+| doc | Document | المستند الذي يحتوي على كلا التجميعين. |
+| page_1 | صفحة | الصفحة الأولى للمقارنة. |
+| page_2 | صفحة | الصفحة الثانية للمقارنة/ |
 
 ### انظر أيضًا
 
@@ -27,3 +27,5 @@ public static void SplitSharedImages(this Document doc, Page page_1, Page page_2
 * class [DocumentExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

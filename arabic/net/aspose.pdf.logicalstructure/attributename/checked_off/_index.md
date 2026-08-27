@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Checked_off
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. تم إلغاء تحديد السمة. حالة زر الراديو أو حقل مربع الاختيار
+title: "AttributeName.Checked_off"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة checked Off  حالة زر راديو أو مربع اختيار"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.logicalstructure/attributename/checked_off/
 ---
-## حقل AttributeName.Checked_off
+## AttributeName.Checked_off field
 
-تم إلغاء تحديد السمة: Off - حالة زر الراديو أو حقل مربع الاختيار.
+السمة checked: Off - حالة زر الراديو أو حقل خانة الاختيار.
 
 ```csharp
 public static readonly AttributeName Checked_off;
@@ -19,3 +19,5 @@ public static readonly AttributeName Checked_off;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

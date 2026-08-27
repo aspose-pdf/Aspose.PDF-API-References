@@ -1,12 +1,12 @@
 ---
-title: MarkupSection.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupSection. مستطيل القسم
+title: "MarkupSection.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupSection. مستطيل القسم"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/markupsection/rectangle/
 ---
-## خاصية MarkupSection.Rectangle
+## MarkupSection.Rectangle property
 
 مستطيل القسم
 
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [MarkupSection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

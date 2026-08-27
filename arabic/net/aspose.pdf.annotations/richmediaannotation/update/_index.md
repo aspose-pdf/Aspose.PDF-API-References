@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.Update
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة RichMediaAnnotation. تحديث البيانات بالمعلمات المحددة
+title: "RichMediaAnnotation.Update"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "RichMediaAnnotation method. تقوم بتحديث البيانات بالمعلمات المحددة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/richmediaannotation/update/
 ---
-## طريقة RichMediaAnnotation.Update
+## RichMediaAnnotation.Update method
 
-تحديث البيانات بالمعلمات المحددة.
+يقوم بتحديث البيانات بالمعلمات المحددة.
 
 ```csharp
 public void Update()
@@ -19,3 +19,5 @@ public void Update()
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

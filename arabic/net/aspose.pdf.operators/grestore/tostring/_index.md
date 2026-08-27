@@ -1,25 +1,27 @@
 ---
-title: GRestore.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GRestore. تعيد نص المشغل
+title: "GRestore.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GRestore. تُرجع نص المشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/grestore/tostring/
 ---
 ## GRestore.ToString method
 
-تعيد نص المشغل.
+يرجع نص المشغّل.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 تمثيل نصي للمشغل.
 
-### See Also
+### انظر أيضًا
 
 * class [GRestore](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

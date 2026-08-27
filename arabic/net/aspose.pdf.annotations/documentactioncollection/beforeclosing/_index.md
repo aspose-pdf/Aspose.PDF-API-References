@@ -1,14 +1,14 @@
 ---
-title: DocumentActionCollection.BeforeClosing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentActionCollection. تحصل أو تعين الإجراء الذي سيتم تنفيذه قبل إغلاق المستند
+title: "DocumentActionCollection.BeforeClosing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentActionCollection. تحصل أو تعين الإجراء الذي سيتم تنفيذه قبل إغلاق المستند"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/documentactioncollection/beforeclosing/
 ---
-## خاصية DocumentActionCollection.BeforeClosing
+## DocumentActionCollection.BeforeClosing property
 
-تحصل أو تعين الإجراء الذي سيتم تنفيذه قبل إغلاق المستند.
+يحصل أو يعيّن الإجراء الذي سيتم تنفيذه قبل إغلاق المستند.
 
 ```csharp
 public PdfAction BeforeClosing { get; set; }
@@ -20,3 +20,5 @@ public PdfAction BeforeClosing { get; set; }
 * class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

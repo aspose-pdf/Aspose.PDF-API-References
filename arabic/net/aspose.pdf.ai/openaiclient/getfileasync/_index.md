@@ -1,23 +1,23 @@
 ---
-title: OpenAIClient.GetFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع تفاصيل ملف معين بشكل غير متزامن
+title: "OpenAIClient.GetFileAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع تفاصيل ملف محدد بشكل غير متزامن"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.ai/openaiclient/getfileasync/
 ---
-## طريقة OpenAIClient.GetFileAsync
+## OpenAIClient.GetFileAsync method
 
-تسترجع تفاصيل ملف معين بشكل غير متزامن.
+يسترجع تفاصيل ملف محدد بشكل غير متزامن.
 
 ```csharp
 public Task<FileResponse> GetFileAsync(string fileId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fileId | String | معرف الملف الذي سيتم استرجاعه. |
+| fileId | String | معرّف الملف المراد استرجاعه. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
@@ -26,9 +26,9 @@ public Task<FileResponse> GetFileAsync(string fileId,
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم رميها عندما يكون معرف الملف فارغًا أو غير موجود. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرف الملف فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -36,3 +36,5 @@ public Task<FileResponse> GetFileAsync(string fileId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

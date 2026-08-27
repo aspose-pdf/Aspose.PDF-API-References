@@ -1,12 +1,12 @@
 ---
-title: Class Outlines
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Outlines. تصف الفئة مجموعة من المخططات
+title: "الفئة Outlines"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Outlines. تصف الفئة مجموعة من المخططات"
 type: docs
-weight: 8020
+weight: 8160
 url: /ar/net/aspose.pdf/outlines/
 ---
-## فئة المخططات
+## Outlines class
 
 تصف الفئة مجموعة من المخططات.
 
@@ -20,21 +20,23 @@ public abstract class Outlines : ICollection<OutlineItemCollection>
 | --- | --- |
 | abstract [Count](../../aspose.pdf/outlines/count/) { get; } | يحصل على العدد. |
 | abstract [IsReadOnly](../../aspose.pdf/outlines/isreadonly/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط. |
-| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount/) { get; } | يحصل على العدد الإجمالي لعناصر المخطط على جميع المستويات في تسلسل المخطط الوثائقي. |
+| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount/) { get; } | يحصل على العدد الإجمالي لعناصر المخطط على جميع المستويات في تسلسل مخطط المستند. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| abstract [Add](../../aspose.pdf/outlines/add/)(OutlineItemCollection) | يضيف عنصر مخطط إلى المجموعة. |
-| abstract [Clear](../../aspose.pdf/outlines/clear/)() | Clears جميع العناصر من المجموعة. |
-| abstract [Contains](../../aspose.pdf/outlines/contains/)(OutlineItemCollection) | دائمًا ما يرمي NotImplementedException. |
+| abstract [Add](../../aspose.pdf/outlines/add/)(OutlineItemCollection) | يضيف عنصر المخطط إلى المجموعة. |
+| abstract [Clear](../../aspose.pdf/outlines/clear/)() | يمسح جميع العناصر من المجموعة. |
+| abstract [Contains](../../aspose.pdf/outlines/contains/)(OutlineItemCollection) | دائمًا يرمي NotImplementedException. |
 | abstract [CopyTo](../../aspose.pdf/outlines/copyto/)(OutlineItemCollection[], int) | ينسخ إدخالات المخطط إلى System.Array، بدءًا من فهرس System.Array معين. |
-| abstract [GetEnumerator](../../aspose.pdf/outlines/getenumerator/)() | يعيد عدادًا يتكرر عبر المجموعة. |
-| abstract [Remove](../../aspose.pdf/outlines/remove/)(OutlineItemCollection) | يزيل عنصر مجموعة المخطط. |
+| abstract [GetEnumerator](../../aspose.pdf/outlines/getenumerator/)() | يرجع عدّادًا يتنقل عبر المجموعة. |
+| abstract [Remove](../../aspose.pdf/outlines/remove/)(OutlineItemCollection) | إزالة عنصر مجموعة المخطط. |
 
 ### انظر أيضًا
 
 * class [OutlineItemCollection](../outlineitemcollection/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: StructureElement.RemoveAndMoveItsChildObjectsToItsParent
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureElement. تزيل عنصرًا من الهيكل، ومرجعًا له من الكائن الأب، والمراجع له من الكائنات الفرعية، والكائن المقابل من الوثيقة. تُدرج الكائنات الفرعية للعنصر المُزال في مجموعة كائنات الكائن الأب السابقة بدءًا من فهرس العنصر المُزال.
+title: "StructureElement.RemoveAndMoveItsChildObjectsToItsParent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureElement. يزيل عنصرًا من البنية، وإزالة الإشارة إليه من كائن الأصل، والإشارات إليه من كائنات الأطفال، والكائن المقابل من المستند. يُدرج كائنات الأطفال للعنصر المُزال في مجموعة كائنات الأطفال للوالد السابق بدءًا من فهرس العنصر المُزال."
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/
 ---
-## طريقة StructureElement.RemoveAndMoveItsChildObjectsToItsParent
+## StructureElement.RemoveAndMoveItsChildObjectsToItsParent method
 
-تزيل عنصرًا من الهيكل، ومرجعًا له من الكائن الأب، والمراجع له من الكائنات الفرعية، والكائن المقابل من الوثيقة. تُدرج الكائنات الفرعية للعنصر المُزال في مجموعة كائنات الكائن الأب السابقة بدءًا من فهرس العنصر المُزال.
+يزيل عنصرًا من البنية، وإشارة إليه من الكائن الأب، وإشارات إليه من الكائنات الفرعية، والكائن المقابل من المستند. يُدرج كائنات الأطفال للعنصر المُزال في مجموعة كائنات الأطفال السابقة للوالد بدءًا من فهرس العنصر المُزال.
 
 ```csharp
 public void RemoveAndMoveItsChildObjectsToItsParent(
     bool checkIfChildObjectsCanBeMovedToParent = true)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| checkIfChildObjectsCanBeMovedToParent | Boolean | تحقق مما إذا كان يمكن إدراج الكائنات الفرعية للعنصر المُزال في مجموعة كائنات الكائن الأب. |
+| checkIfChildObjectsCanBeMovedToParent | Boolean | تحقق مما إذا كان يمكن إدراج كائنات الأطفال للعنصر المُزال في مجموعة كائنات الأطفال للوالد. |
 
 ### انظر أيضًا
 
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

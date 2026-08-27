@@ -1,20 +1,20 @@
 ---
-title: ImagePlacementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacementCollection. يحصل على عنصر جزء النص في الفهرس المحدد
+title: "ImagePlacementCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacementCollection. تُعيد عنصر مقطع النص في الفهرس المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/imageplacementcollection/item/
 ---
-## فهرس ImagePlacementCollection
+## ImagePlacementCollection indexer
 
-يحصل على عنصر جزء النص في الفهرس المحدد.
+يحصل على عنصر مقطع النص في الفهرس المحدد.
 
 ```csharp
 public ImagePlacement this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس وضع الصورة. |
 
@@ -28,3 +28,5 @@ public ImagePlacement this[int index] { get; }
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ObjectResult. يحصل على البيانات الخام
+title: "ObjectResult.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ObjectResult. تحصل على البيانات الخام"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/objectresult/data/
 ---
-## خاصية ObjectResult.Data
+## ObjectResult.Data property
 
 يحصل على البيانات الخام.
 
@@ -16,10 +16,12 @@ public object Data { get; }
 
 ### قيمة الإرجاع
 
-كائن `object` يمثل بيانات الإخراج.
+`object` يمثل بيانات الإخراج.
 
 ### انظر أيضًا
 
 * class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

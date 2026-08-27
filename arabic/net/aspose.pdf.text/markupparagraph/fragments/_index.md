@@ -1,14 +1,14 @@
 ---
-title: MarkupParagraph.Fragments
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupParagraph. مجموعة من كائنات TextFragment غير الفارغة في الفقرة
+title: "MarkupParagraph.Fragments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupParagraph. مجموعة من كائنات TextFragment غير الفارغة للفقرة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/markupparagraph/fragments/
 ---
-## خاصية MarkupParagraph.Fragments
+## MarkupParagraph.Fragments property
 
-مجموعة من كائنات [`TextFragment`](../../textfragment/) غير الفارغة في الفقرة.
+مجموعة من كائنات [`TextFragment`](../../textfragment/) غير الفارغة للفقرة.
 
 ```csharp
 public List<TextFragment> Fragments { get; }
@@ -16,7 +16,7 @@ public List<TextFragment> Fragments { get; }
 
 ## ملاحظات
 
-يوفر كائن [`TextFragment`](../../textfragment/) الوصول إلى نص حدوث البحث، وخصائص النص، ويسمح بتحرير النص وتغيير حالة النص (الخط، حجم الخط، اللون، إلخ).
+كائن [`TextFragment`](../../textfragment/) يوفّر الوصول إلى نص نتيجة البحث، وخصائص النص، ويسمح بتحرير النص وتغيير حالة النص (الخط، حجم الخط، اللون، إلخ).
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public List<TextFragment> Fragments { get; }
 * class [MarkupParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

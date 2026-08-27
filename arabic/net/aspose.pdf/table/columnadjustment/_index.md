@@ -1,14 +1,14 @@
 ---
-title: Table.ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل أو تضبط تعديل عمود الجدول
+title: "Table.ColumnAdjustment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. تحصل أو تعيين تعديل عمود الجدول"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/table/columnadjustment/
 ---
-## خاصية Table.ColumnAdjustment
+## Table.ColumnAdjustment property
 
-تحصل أو تضبط تعديل عمود الجدول.
+الحصول أو تعيين تعديل عمود الجدول.
 
 ```csharp
 public ColumnAdjustment ColumnAdjustment { get; set; }
@@ -20,3 +20,5 @@ public ColumnAdjustment ColumnAdjustment { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Note.Note
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الملاحظة. يقوم بتهيئة مثيل جديد من فئة الملاحظة
+title: "Note.Note"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Note. يهيئ نسخة جديدة من الفئة Note"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/note/note/
 ---
 ## Note() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`Note`](../).
+يهيئ نسخة جديدة من الفئة [`Note`](../).
 
 ```csharp
 public Note()
@@ -16,26 +16,28 @@ public Note()
 
 ### انظر أيضًا
 
-* فئة [Note](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Note(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`Note`](../).
+يهيئ نسخة جديدة من الفئة [`Note`](../).
 
 ```csharp
 public Note(string content)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| content | String | محتوى الملاحظة. |
+| المحتوى | String | محتوى الملاحظة. |
 
 ### انظر أيضًا
 
-* فئة [Note](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

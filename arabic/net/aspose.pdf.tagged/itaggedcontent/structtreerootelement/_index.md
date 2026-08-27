@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.StructTreeRootElement
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ITaggedContent. تحصل على StructTreeRootElement من مستند PDF
+title: "ITaggedContent.StructTreeRootElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ITaggedContent. تحصل على StructTreeRootElement لـ PDF document"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/
 ---
-## خاصية ITaggedContent.StructTreeRootElement
+## ITaggedContent.StructTreeRootElement property
 
-تحصل على [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) من مستند PDF.
+يحصل على [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) لـ PDF document.
 
 ```csharp
 public StructTreeRootElement StructTreeRootElement { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) من مستند PDF.
+[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) of PDF document.
 
 ### انظر أيضًا
 
-* فئة [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
-* واجهة [ITaggedContent](../)
-* مساحة الاسم [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* التجميع [Aspose.PDF](../../../)
+* class [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FitExplicitDestination.FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FitExplicitDestination. ينشئ وجهة صريحة محلية
+title: "FitExplicitDestination.FitExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FitExplicitDestination منشئ. ينشئ وجهة صريحة محلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestination/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestinatio
 public FitExplicitDestination(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن الصفحة الوجهة. |
+| صفحة | صفحة | كائن صفحة الوجهة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [FitExplicitDestination](../)
@@ -29,18 +29,20 @@ public FitExplicitDestination(Page page)
 
 ## FitExplicitDestination(int) {#constructor_2}
 
-ينشئ وجهة صريحة بعيدة.
+ينشئ وجهة صريحة عن بُعد.
 
 ```csharp
 public FitExplicitDestination(int pageNumber)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم الصفحة الوجهة من الوثيقة البعيدة. |
+| pageNumber | Int32 | رقم صفحة الوجهة في المستند البعيد. |
 
-### See Also
+### انظر أيضًا
 
 * class [FitExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: OperatorCollection.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تستأنف تحديث الوثيقة. تقوم بتحديث تدفق المحتويات في حالة وجود أي تغييرات معلقة. تُعلم جميع المشغلين بأنه تم تغييرهم إذا كانت معلمة invalidate صحيحة
+title: "OperatorCollection.ResumeUpdate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تستأنف تحديث المستند. تُحدّث تدفق المحتويات في حال وجود أي تغييرات معلقة. تُعلّم جميع المشغلات بأنها تغيرت إذا كان معامل invalidate صحيحًا"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/operatorcollection/resumeupdate/
 ---
 ## ResumeUpdate(bool) {#resumeupdate_1}
 
-تستأنف تحديث الوثيقة. تقوم بتحديث تدفق المحتويات في حالة وجود أي تغييرات معلقة. تُعلم جميع المشغلين بأنه تم تغييرهم إذا كانت معلمة invalidate صحيحة.
+يستأنف تحديث المستند. يُحدّث تدفق المحتوى في حال وجود أي تغييرات معلقة. يعلّم جميع المشغّلات بأنها \"متغيّرة\" إذا كان معامل invalidate صحيحًا.
 
 ```csharp
 public void ResumeUpdate(bool updateAll)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| updateAll | Boolean | إذا كانت صحيحة، يتم تعليم جميع المشغلين في المجموعة على أنهم تم تحديثهم. |
+| updateAll | Boolean | إذا كان صحيحًا، يتم وضع علامة على جميع المشغلات في المجموعة كـ محدثة. |
 
-### See Also
+### انظر أيضًا
 
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,14 +28,16 @@ public void ResumeUpdate(bool updateAll)
 
 ## ResumeUpdate() {#resumeupdate}
 
-تستأنف تحديث الوثيقة. تقوم بتحديث تدفق المحتويات في حالة وجود أي تغييرات معلقة.
+يستأنف تحديث المستند. يُحدّث تدفق المحتوى في حال وجود أي تغييرات معلقة.
 
 ```csharp
 public override void ResumeUpdate()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

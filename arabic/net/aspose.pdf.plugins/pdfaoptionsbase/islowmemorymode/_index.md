@@ -1,25 +1,27 @@
 ---
-title: PdfAOptionsBase.IsLowMemoryMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAOptionsBase. تحصل أو تعين قيمة تشير إلى ما إذا كان وضع الذاكرة المنخفضة مفعلًا أثناء عملية تحويل PDF/A
+title: "PdfAOptionsBase.IsLowMemoryMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAOptionsBase. تحصل أو تعين قيمة تشير إلى ما إذا كان وضع الذاكرة المنخفضة مفعلاً أثناء عملية تحويل PDF/A"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.plugins/pdfaoptionsbase/islowmemorymode/
 ---
-## خاصية PdfAOptionsBase.IsLowMemoryMode
+## PdfAOptionsBase.IsLowMemoryMode property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان وضع الذاكرة المنخفضة مفعلًا أثناء عملية تحويل PDF/A.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان وضع الذاكرة المنخفضة مفعلاً أثناء عملية تحويل PDF/A.
 
 ```csharp
 public bool IsLowMemoryMode { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-`true` إذا كان وضع الذاكرة المنخفضة مفعلًا؛ خلاف ذلك، `false`.
+`true` إذا كان وضع الذاكرة المنخفضة مفعلاً؛ وإلا `false`.
 
 ### انظر أيضًا
 
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Document.ProcessParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. معالجة الفقرات للمولد
+title: "Document.ProcessParagraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. معالجة الفقرات للمولد"
 type: docs
-weight: 780
+weight: 800
 url: /ar/net/aspose.pdf/document/processparagraphs/
 ---
 ## Document.ProcessParagraphs method
@@ -14,8 +14,10 @@ url: /ar/net/aspose.pdf/document/processparagraphs/
 public void ProcessParagraphs()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

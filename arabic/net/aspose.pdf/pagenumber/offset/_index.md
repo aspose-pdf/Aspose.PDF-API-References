@@ -1,14 +1,14 @@
 ---
-title: PageNumber.Offset
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageNumber. تحصل أو تعين الإزاحة التي ستضاف إلى فهرس الصفحة
+title: "PageNumber.Offset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageNumber. تحصل أو تعين الإزاحة التي ستُضاف إلى فهرس الصفحة."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/pagenumber/offset/
 ---
-## خاصية PageNumber.Offset
+## PageNumber.Offset property
 
-تحصل أو تعين الإزاحة التي ستضاف إلى فهرس الصفحة.
+يحصل أو يعيّن الإزاحة التي ستُضاف إلى فهرس الصفحة.
 
 ```csharp
 public int Offset { get; set; }
@@ -19,3 +19,5 @@ public int Offset { get; set; }
 * class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

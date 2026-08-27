@@ -1,14 +1,14 @@
 ---
-title: IInterruptMonitor.CancellationToken
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IInterruptMonitor. تراقب رمز الإلغاء المستخدم لقطع العملية. بشكل افتراضي، يقوم كل IInterruptMonitor بإنشاء cancellationSource خاص به
+title: "IInterruptMonitor.CancellationToken"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IInterruptMonitor. تراقب رمز الإلغاء المستخدم لمقاطعة العملية. بشكل افتراضي، كل IInterruptMonitor يولد مصدر إلغاء خاص به"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/
 ---
-## خاصية IInterruptMonitor.CancellationToken
+## IInterruptMonitor.CancellationToken property
 
-رمز الإلغاء الخاص بالمراقب المستخدم لقطع العملية. بشكل افتراضي، يقوم كل IInterruptMonitor بإنشاء cancellationSource خاص به
+رمز الإلغاء cancellation token للمراقب يُستخدم لوقف العملية. بشكل افتراضي كل IInterruptMonitor يولد cancellationSource الخاص به
 
 ```csharp
 public CancellationToken CancellationToken { get; }
@@ -16,6 +16,8 @@ public CancellationToken CancellationToken { get; }
 
 ### انظر أيضًا
 
-* الواجهة [IInterruptMonitor](../)
-* مساحة الأسماء [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IInterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../../)
+
+

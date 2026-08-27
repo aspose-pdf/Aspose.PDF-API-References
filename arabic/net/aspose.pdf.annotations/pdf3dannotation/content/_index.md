@@ -1,20 +1,20 @@
 ---
-title: PDF3DAnnotation.Content
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DAnnotation. تحصل أو تضبط المحتوى
+title: "PDF3DAnnotation.Content"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DAnnotation. تحصّل أو تعين المحتوى"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/pdf3dannotation/content/
 ---
-## خاصية PDF3DAnnotation.Content
+## PDF3DAnnotation.Content property
 
-تحصل أو تضبط المحتوى.
+يحصل أو يعيّن المحتوى.
 
 ```csharp
 public PDF3DContent Content { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 المحتوى.
 
@@ -24,3 +24,5 @@ public PDF3DContent Content { get; set; }
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

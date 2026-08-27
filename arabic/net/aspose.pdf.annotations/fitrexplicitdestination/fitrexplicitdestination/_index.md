@@ -1,7 +1,7 @@
 ---
-title: FitRExplicitDestination.FitRExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FitRExplicitDestination. ينشئ وجهة صريحة محلية
+title: "FitRExplicitDestination.FitRExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FitRExplicitDestination منشئ. ينشئ وجهة صريحة محلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/
@@ -14,15 +14,15 @@ url: /ar/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestinat
 public FitRExplicitDestination(Page page, double left, double bottom, double right, double top)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن الصفحة الوجهة. |
-| left | Double | الإحداثي الأفقي الأيسر للمستطيل المرئي. |
-| bottom | Double | الإحداثي العمودي السفلي للمستطيل المرئي. |
-| right | Double | الإحداثي الأفقي الأيمن للمستطيل المرئي. |
-| top | Double | الإحداثي العمودي العلوي للمستطيل المرئي. |
+| صفحة | صفحة | كائن صفحة الوجهة. |
+| يسار | Double | الإحداثي الأفقي الأيسر للمستطيل المرئي. |
+| أسفل | Double | الإحداثي الرأسي السفلي للمستطيل المرئي. |
+| يمين | Double | الإحداثي الأفقي الأيمن للمستطيل المرئي. |
+| أعلى | Double | الإحداثي الرأسي العلوي للمستطيل المرئي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [FitRExplicitDestination](../)
@@ -33,22 +33,24 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 
 ## FitRExplicitDestination(int, double, double, double, double) {#constructor_2}
 
-ينشئ وجهة صريحة بعيدة.
+ينشئ وجهة صريحة عن بُعد.
 
 ```csharp
 public FitRExplicitDestination(int pageNumber, double left, double bottom, double right, double top)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم الصفحة الوجهة للمستند البعيد. |
-| left | Double | الإحداثي الأفقي الأيسر للمستطيل المرئي. |
-| bottom | Double | الإحداثي العمودي السفلي للمستطيل المرئي. |
-| right | Double | الإحداثي الأفقي الأيمن للمستطيل المرئي. |
-| top | Double | الإحداثي العمودي العلوي للمستطيل المرئي. |
+| pageNumber | Int32 | رقم صفحة الوجهة في المستند البعيد. |
+| يسار | Double | الإحداثي الأفقي الأيسر للمستطيل المرئي. |
+| أسفل | Double | الإحداثي الرأسي السفلي للمستطيل المرئي. |
+| يمين | Double | الإحداثي الأفقي الأيمن للمستطيل المرئي. |
+| أعلى | Double | الإحداثي الرأسي العلوي للمستطيل المرئي. |
 
-### See Also
+### انظر أيضًا
 
 * class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

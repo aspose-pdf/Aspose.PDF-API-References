@@ -1,14 +1,14 @@
 ---
-title: DataResponse1.DataResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DataResponse. المُنشئ الافتراضي
+title: "DataResponse1.DataResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DataResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/dataresponse-1/dataresponse/
 ---
-## مُنشئ DataResponse&lt;T&gt;
+## DataResponse&lt;T&gt; constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public DataResponse()
@@ -19,3 +19,5 @@ public DataResponse()
 * class [DataResponse&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: NamedDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة NamedDestination. تحويل الوجهة إلى قيمة سلسلة
+title: "NamedDestination.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة NamedDestination. تحول الوجهة إلى قيمة نصية."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/nameddestination/tostring/
 ---
-## طريقة NamedDestination.ToString
+## NamedDestination.ToString method
 
-تحويل الوجهة إلى قيمة سلسلة.
+يحول الوجهة إلى قيمة نصية.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-قيمة سلسلة.
+قيمة نصية.
 
 ### انظر أيضًا
 
 * class [NamedDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

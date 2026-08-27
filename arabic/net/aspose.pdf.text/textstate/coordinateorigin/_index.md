@@ -1,14 +1,14 @@
 ---
-title: TextState.CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تعين نقطة الأصل للنص. إذا كانت نقطة الأصل للنص هي Descender، فإن إحداثي Y للنص يتوافق مع أدنى نقطة في الخط. إذا كانت نقطة الأصل للنص هي BaseLine، فإن إحداثي Y للنص يتوافق مع خط الأساس للخط. القيمة الافتراضية هي Descender. إذا كانت قيمة الانحدار للخط كبيرة جدًا، يمكن أن يتم عرض النص أعلى من خطوط أخرى. في هذه الحالة، يمكن اختيار نقطة الأصل BaseLine لتحسين عرض النص.
+title: "TextState.CoordinateOrigin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. يحصل أو يضبط إحداثيات النص CoordinateOrigin. إذا كان CoordinateOrigin هو Descender فإن إحداثي Y للنص يتطابق مع أدنى نقطة للخط. إذا كان CoordinateOrigin هو BaseLine فإن إحداثي Y للنص يتطابق مع خط الأساس للخط. القيمة الافتراضية هي Descender. إذا كانت قيمة Descent للخط كبيرة جدًا قد يُظهر النص أعلى من الخطوط الأخرى. في هذه الحالة يمكن اختيار CoordinateOrigin كـ BaseLine لتحسين عرض النص."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textstate/coordinateorigin/
 ---
-## خاصية TextState.CoordinateOrigin
+## TextState.CoordinateOrigin property
 
-تحصل أو تعين نقطة الأصل للنص. إذا كانت نقطة الأصل للنص هي Descender، فإن إحداثي Y للنص يتوافق مع أدنى نقطة في الخط. إذا كانت نقطة الأصل للنص هي BaseLine، فإن إحداثي Y للنص يتوافق مع خط الأساس للخط. القيمة الافتراضية هي Descender. إذا كانت قيمة الانحدار للخط كبيرة جدًا، يمكن أن يتم عرض النص أعلى من خطوط أخرى. في هذه الحالة، يمكن اختيار نقطة الأصل BaseLine لتحسين عرض النص.
+يحصل أو يضبط خاصية CoordinateOrigin للنص. إذا كان CoordinateOrigin هو Descender، فإن إحداثي Y للنص يتطابق مع أدنى نقطة للخط. إذا كان CoordinateOrigin هو BaseLine، فإن إحداثي Y للنص يتطابق مع خط الأساس للخط. القيمة الافتراضية هي Descender. إذا كانت قيمة Descent للخط كبيرة جدًا، قد يُعرض النص أعلى من الخطوط الأخرى. في هذه الحالة، يمكن اختيار CoordinateOrigin BaseLine لتحسين عرض النص.
 
 ```csharp
 public virtual CoordinateOrigin CoordinateOrigin { get; set; }
@@ -20,3 +20,5 @@ public virtual CoordinateOrigin CoordinateOrigin { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

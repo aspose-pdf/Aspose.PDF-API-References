@@ -1,34 +1,36 @@
 ---
-title: Class PageActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageActionCollection. تصف هذه الفئة إجراءات الصفحة
+title: "الفئة PageActionCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PageActionCollection. تصف هذه الفئة إجراءات الصفحة"
 type: docs
-weight: 8070
+weight: 8210
 url: /ar/net/aspose.pdf/pageactioncollection/
 ---
 ## PageActionCollection class
 
-تصف هذه الفئة إجراءات الصفحة
+تصف هذه الفئة إجراءات الصفحة.
 
 ```csharp
 public class PageActionCollection : BaseActionCollection
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | إجراء يجب تنفيذه عند إغلاق الصفحة. |
-| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | إجراء يجب تنفيذه عند فتح الصفحة. |
+| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | إجراء يُنفّذ عند إغلاق الصفحة. |
+| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | إجراء يُنفّذ عند فتح الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | يزيل جميع الإجراءات من التعليق. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | يزيل جميع إجراءات التعليق. |
 
-### See Also
+### انظر أيضًا
 
 * class [BaseActionCollection](../baseactioncollection/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Enum IconCaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.IconCaptionPosition enum. يصف موضع الأيقونة
+title: "تعداد IconCaptionPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Forms.IconCaptionPosition. يصف موضع الرمز"
 type: docs
-weight: 5110
+weight: 5230
 url: /ar/net/aspose.pdf.forms/iconcaptionposition/
 ---
 ## IconCaptionPosition enumeration
@@ -14,19 +14,21 @@ url: /ar/net/aspose.pdf.forms/iconcaptionposition/
 public enum IconCaptionPosition
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| NoIcon | `0` | الأيقونة غير معروضة. |
+| NoIcon | `0` | الرمز غير معروض. |
 | NoCaption | `1` | التسمية غير معروضة. |
-| CaptionBelowIcon | `2` | التسمية أسفل الأيقونة. |
-| CaptionAboveIcon | `3` | التسمية فوق الأيقونة. |
+| CaptionBelowIcon | `2` | التسمية أسفل الرمز. |
+| CaptionAboveIcon | `3` | التسمية فوق الرمز. |
 | CaptionToTheRight | `4` | التسمية إلى اليمين. |
 | CaptionToTheLeft | `5` | التسمية إلى اليسار. |
 | CaptionOverlaid | `6` | التسمية مغطاة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

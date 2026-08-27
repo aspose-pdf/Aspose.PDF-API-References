@@ -1,24 +1,24 @@
 ---
-title: Form.ImportXml
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تستورد محتوى الحقول من ملف xml وتضعها في ملف pdf الجديد
+title: "Form.ImportXml"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تستورد محتوى الحقول من ملف xml وتضعه في ملف pdf الجديد."
 type: docs
 weight: 310
 url: /ar/net/aspose.pdf.facades/form/importxml/
 ---
 ## ImportXml(Stream) {#importxml}
 
-تستورد محتوى الحقول من ملف xml وتضعها في ملف pdf الجديد.
+يستورد محتوى الحقول من ملف xml ويضعها في ملف pdf الجديد.
 
 ```csharp
 public void ImportXml(Stream inputXmlStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputXmlStream | Stream | التدفق الذي يتم قراءة XML منه للاستيراد. |
+| inputXmlStream | Stream | الدفق الذي يُقرأ منه XML للاستيراد. |
 
-## Examples
+## أمثلة
 
 ```csharp
 Form form = new Form("PdfForm.pdf", "Form_Imported.pdf");
@@ -27,7 +27,7 @@ form.ImportXml(fs);
 form.Save();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -37,19 +37,21 @@ form.Save();
 
 ## ImportXml(Stream, bool) {#importxml_1}
 
-تستورد محتوى الحقول من ملف xml وتضعها في ملف pdf الجديد.
+يستورد محتوى الحقول من ملف xml ويضعها في ملف pdf الجديد.
 
 ```csharp
 public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputXmlStream | Stream | تدفق xml المدخل. |
-| IgnoreFormTemplateChanges | Boolean | إذا كانت هذه المعلمة صحيحة، فلن يتم حفظ أي تغييرات في قالب نموذج XFA |
+| inputXmlStream | Stream | دفق xml الإدخال. |
+| IgnoreFormTemplateChanges | Boolean | إذا كان هذا المعامل صحيحًا، فلن يتم حفظ أي تغييرات في قالب نموذج XFA. |
 
-### See Also
+### انظر أيضًا
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TabStop.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TabStop. تحصل أو تعين قيمة عائمة تشير إلى موضع توقف التبويب
+title: "TabStop.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TabStop. تحصل أو تعين قيمة عائمة تشير إلى موضع علامة التبويب"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/tabstop/position/
 ---
-## خاصية TabStop.Position
+## TabStop.Position property
 
-تحصل أو تعين قيمة عائمة تشير إلى موضع توقف التبويب.
+يحصل أو يعيّن قيمة عائمة تشير إلى موضع إيقاف التبويب.
 
 ```csharp
 public float Position { get; set; }
@@ -19,3 +19,5 @@ public float Position { get; set; }
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

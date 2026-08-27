@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreatePrivateElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ PrivateElement
+title: "ITaggedContent.CreatePrivateElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. ينشئ PrivateElement"
 type: docs
-weight: 220
+weight: 250
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createprivateelement/
 ---
 ## ITaggedContent.CreatePrivateElement method
 
-تنشئ [`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement/).
+ينشئ [`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement/).
 
 ```csharp
 public PrivateElement CreatePrivateElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر هيكل تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

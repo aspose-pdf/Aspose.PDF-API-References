@@ -1,26 +1,26 @@
 ---
-title: PdfExtractor.ExtractTextMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfExtractor. تحدد الوضع لنتيجة استخراج النصوص
+title: "PdfExtractor.ExtractTextMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfExtractor. تحدد الوضع لنتيجة استخراج النصوص"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdfextractor/extracttextmode/
 ---
-## خاصية PdfExtractor.ExtractTextMode
+## PdfExtractor.ExtractTextMode property
 
-تحدد الوضع لنتيجة استخراج النص.
+يضبط الوضع لنتيجة استخراج النص.
 
 ```csharp
 public int ExtractTextMode { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-0 هو وضع النص النقي و 1 هو وضع الترتيب الخام. القيمة الافتراضية هي 0.
+0 هو وضع النص النقي و1 هو وضع الترتيب الخام. القيمة الافتراضية هي 0.
 
 ## أمثلة
 
-توضح المثال استخدام خاصية `ExtractTextMode` في سيناريو استخراج النص.
+يوضح المثال استخدام خاصية `ExtractTextMode` في سيناريو استخراج النص.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -35,3 +35,5 @@ extractor.GetText(@"D:\Text\text.txt");
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

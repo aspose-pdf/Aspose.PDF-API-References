@@ -1,14 +1,14 @@
 ---
-title: CollectionSchema.AllFields
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CollectionSchema. تحصل على جميع حقول المخطط
+title: "CollectionSchema.AllFields"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CollectionSchema. تحصل على جميع حقول المخططات"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/collectionschema/allfields/
 ---
-## خاصية CollectionSchema.AllFields
+## CollectionSchema.AllFields property
 
-تحصل على جميع حقول المخطط.
+الحصول على جميع حقول schema.
 
 ```csharp
 public ICollection<CollectionField> AllFields { get; }
@@ -20,3 +20,5 @@ public ICollection<CollectionField> AllFields { get; }
 * class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

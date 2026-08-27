@@ -1,25 +1,25 @@
 ---
-title: MovieAnnotation.MovieAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MovieAnnotation. مُنشئ للاستخدام مع Generator
+title: "MovieAnnotation.MovieAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MovieAnnotation. منشئ للاستخدام مع Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/movieannotation/movieannotation/
 ---
 ## MovieAnnotation(Document, string) {#constructor}
 
-مُنشئ للاستخدام مع Generator.
+منشئ للاستخدام مع Generator.
 
 ```csharp
 public MovieAnnotation(Document document, string movieFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء تعليق الفيلم فيه. |
+| document | Document | Document حيث سيتم إنشاء توضيح الفيلم |
 | movieFile | String | اسم ملف الفيلم. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [MovieAnnotation](../)
@@ -30,22 +30,24 @@ public MovieAnnotation(Document document, string movieFile)
 
 ## MovieAnnotation(Page, Rectangle, string) {#constructor_1}
 
-ينشئ تعليق صوتي جديد على الصفحة المحددة.
+ينشئ توضيح صوت جديد على الصفحة المحددة.
 
 ```csharp
 public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
-| movieFile | String | ملف فيلم سيتم تشغيله عند تفعيل التعليق. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
+| movieFile | String | ملف فيلم يتم تشغيله عندما يتم تفعيل التوضيح. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormComboBoxFieldSetOptions.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormComboBoxFieldSetOptions. يحصل/يحدد القيمة لتحديد خاصية Editable للحقل المعدل إذا سيتم تعيينها
+title: "FormComboBoxFieldSetOptions.Editable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormComboBoxFieldSetOptions. يحصل/يضبط القيمة لتحديد الخاصية Editable للحقل المعدل إذا سيتم تعيينها"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/editable/
 ---
-## خاصية FormComboBoxFieldSetOptions.Editable
+## FormComboBoxFieldSetOptions.Editable property
 
-يحصل/يحدد القيمة لتحديد خاصية Editable للحقل المعدل (إذا سيتم تعيينها).
+يحصل/يضبط القيمة لتحديد الخاصية Editable للحقل المعدل (إذا سيتم ضبطها).
 
 ```csharp
 public bool? Editable { get; set; }
@@ -19,3 +19,5 @@ public bool? Editable { get; set; }
 * class [FormComboBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

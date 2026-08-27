@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.CreateFineTuningJobResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CreateFineTuningJobResponse. المُنشئ الافتراضي
+title: "CreateFineTuningJobResponse.CreateFineTuningJobResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CreateFineTuningJobResponse المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/createfinetuningjobresponse/createfinetuningjobresponse/
 ---
-## مُنشئ CreateFineTuningJobResponse
+## CreateFineTuningJobResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CreateFineTuningJobResponse()
@@ -19,3 +19,5 @@ public CreateFineTuningJobResponse()
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

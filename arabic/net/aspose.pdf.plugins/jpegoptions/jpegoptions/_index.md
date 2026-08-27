@@ -1,14 +1,14 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ JpegOptions. المُنشئ الافتراضي
+title: "JpegOptions.JpegOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "JpegOptions constructor. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/jpegoptions/jpegoptions/
 ---
-## مُنشئ JpegOptions
+## JpegOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public JpegOptions()
@@ -19,3 +19,5 @@ public JpegOptions()
 * class [JpegOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

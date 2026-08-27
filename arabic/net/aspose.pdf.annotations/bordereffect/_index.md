@@ -1,27 +1,29 @@
 ---
-title: Enum BorderEffect
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.BorderEffect enum. يصف التأثير الذي يجب تطبيقه على حدود التعليقات التوضيحية
+title: "تعداد BorderEffect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.BorderEffect enum. يصف التأثير الذي يجب تطبيقه على حدود التعليقات"
 type: docs
-weight: 1520
+weight: 1610
 url: /ar/net/aspose.pdf.annotations/bordereffect/
 ---
 ## BorderEffect enumeration
 
-يصف التأثير الذي يجب تطبيقه على حدود التعليقات التوضيحية.
+يصف التأثير الذي يجب تطبيقه على حدود التوضيحات.
 
 ```csharp
 public enum BorderEffect
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا يوجد تأثير. |
-| Cloudy | `1` | ستظهر الحدود "ضبابية". |
+| None | `0` | بدون تأثير. |
+| Cloudy | `1` | الحدود ستظهر "cloudly". |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

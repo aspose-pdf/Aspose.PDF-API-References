@@ -1,22 +1,22 @@
 ---
-title: Annotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة التعليق. تحديث المعلمات والمظهر وفقًا لتحويل المصفوفة
+title: "Annotation.ChangeAfterResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Annotation. تحديث المعلمات والمظهر وفقًا لتحويل المصفوفة"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.annotations/annotation/changeafterresize/
 ---
-## طريقة Annotation.ChangeAfterResize
+## Annotation.ChangeAfterResize method
 
-تحديث المعلمات والمظهر، وفقًا لتحويل المصفوفة.
+تحديث المعلمات والمظهر وفقًا لتحويل المصفوفة.
 
 ```csharp
 public virtual void ChangeAfterResize(Matrix transform)
 ```
 
-| المعلمة | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | المصفوفة المستخدمة للتحويل (إعادة الحجم). |
+| تحويل | Matrix | Matrix التي تُستخدم للتحويل (تغيير الحجم). |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public virtual void ChangeAfterResize(Matrix transform)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

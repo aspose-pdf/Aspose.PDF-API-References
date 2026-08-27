@@ -1,27 +1,29 @@
 ---
-title: Enum WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.WordWrapMode enum. يحدد استراتيجيات لف الكلمات
+title: "تعداد WordWrapMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Facades.WordWrapMode. يحدد استراتيجيات التفاف الكلمات"
 type: docs
-weight: 4780
+weight: 4900
 url: /ar/net/aspose.pdf.facades/wordwrapmode/
 ---
 ## WordWrapMode enumeration
 
-يحدد استراتيجيات لف الكلمات
+يحدد استراتيجيات لف النص.
 
 ```csharp
 public enum WordWrapMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Default | `0` | الخوارزمية الافتراضية (تسمح بكسر الكلمات في المنتصف) |
-| ByWords | `1` | لف الكلمات يلتف فقط حول الكلمات الكاملة. إذا لم يكن بالإمكان لف الكلمة الكاملة، يتم محاولة لف الكلمة في المنتصف |
+| Default | `0` | الخوارزمية الافتراضية (تسمح بقطع الكلمات في الوسط) |
+| ByWords | `1` | التفاف الكلمات يلتف فقط حول الكلمات الكاملة. إذا تعذر لف الكلمة الكاملة، يحاول لف الكلمة في الوسط |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

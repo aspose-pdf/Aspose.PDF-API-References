@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.PdfAnnotationEditor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfAnnotationEditor. يُهيئ كائن PdfAnnotationEditor جديد
+title: "PdfAnnotationEditor.PdfAnnotationEditor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfAnnotationEditor. يهيئ كائن PdfAnnotationEditor جديد."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/
 ---
 ## PdfAnnotationEditor() {#constructor}
 
-يُهيئ كائن [`PdfAnnotationEditor`](../) جديد.
+يهيئ كائن [`PdfAnnotationEditor`](../) جديد.
 
 ```csharp
 public PdfAnnotationEditor()
@@ -24,13 +24,13 @@ public PdfAnnotationEditor()
 
 ## PdfAnnotationEditor(Document) {#constructor_1}
 
-يُهيئ كائن [`PdfAnnotationEditor`](../) جديد بناءً على *المستند*.
+يهيئ كائن [`PdfAnnotationEditor`](../) جديد بناءً على *document*.
 
 ```csharp
 public PdfAnnotationEditor(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document | Document | مستند Pdf. |
 
@@ -40,3 +40,5 @@ public PdfAnnotationEditor(Document document)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

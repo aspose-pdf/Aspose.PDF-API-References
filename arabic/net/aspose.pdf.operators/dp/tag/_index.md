@@ -1,14 +1,14 @@
 ---
-title: DP.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DP. تحصل أو تعين علامة المحتوى المميز
+title: "DP.Tag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DP. تحصّل أو تعيين علامة المحتوى المعلَّم"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/dp/tag/
 ---
-## خاصية DP.Tag
+## DP.Tag property
 
-تحصل أو تعين علامة المحتوى المميز
+يحصل أو يضبط علامة المحتوى المعلَّم
 
 ```csharp
 public string Tag { get; set; }
@@ -19,3 +19,5 @@ public string Tag { get; set; }
 * class [DP](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

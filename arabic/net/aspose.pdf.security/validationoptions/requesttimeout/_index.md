@@ -1,14 +1,14 @@
 ---
-title: ValidationOptions.RequestTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ValidationOptions. تحصل أو تعين مدة المهلة بالمللي ثانية للعمليات المتعلقة بالشبكة أثناء عملية التحقق. تحدد خاصية RequestTimeout الحد الأقصى للوقت الذي يجب أن ينتظره النظام للحصول على استجابة الشبكة عند الوصول إلى الموارد عبر الإنترنت مثل حالة الإلغاء أو خوادم OCSP
+title: "ValidationOptions.RequestTimeout"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ValidationOptions. تحصل أو تعيين مدة المهلة بالميليثانية للعمليات المتعلقة بالشبكة أثناء عملية التحقق. تحدد خاصية RequestTimeout الحد الأقصى للوقت الذي يجب أن ينتظره النظام لاستجابة الشبكة عند الوصول إلى الموارد عبر الإنترنت مثل حالة الإلغاء أو خوادم OCSP"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.pdf.security/validationoptions/requesttimeout/
 ---
-## خاصية ValidationOptions.RequestTimeout
+## ValidationOptions.RequestTimeout property
 
-تحصل أو تعين مدة المهلة، بالمللي ثانية، للعمليات المتعلقة بالشبكة أثناء عملية التحقق. تحدد خاصية RequestTimeout الحد الأقصى للوقت الذي يجب أن ينتظره النظام للحصول على استجابة الشبكة عند الوصول إلى الموارد عبر الإنترنت، مثل حالة الإلغاء أو خوادم OCSP.
+يحصل أو يعيّن مدة المهلة، بالميليثانية، للعمليات المتعلقة بالشبكة أثناء عملية التحقق. تحدد خاصية RequestTimeout الحد الأقصى للوقت الذي يجب أن ينتظره النظام لاستجابة الشبكة عند الوصول إلى الموارد عبر الإنترنت، مثل حالة الإلغاء أو خوادم OCSP.
 
 ```csharp
 public int RequestTimeout { get; set; }
@@ -19,3 +19,5 @@ public int RequestTimeout { get; set; }
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

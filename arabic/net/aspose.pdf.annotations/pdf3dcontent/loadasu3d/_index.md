@@ -1,24 +1,24 @@
 ---
-title: PDF3DContent.LoadAsU3D
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DContent. تحميل محتوى ثلاثي الأبعاد بالاسم المحدد كتنسيق U3D
+title: "PDF3DContent.LoadAsU3D"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DContent. تقوم بتحميل محتوى ثلاثي الأبعاد باستخدام اسم الملف المحدد بصيغة U3D"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/pdf3dcontent/loadasu3d/
 ---
 ## LoadAsU3D(string) {#loadasu3d_2}
 
-يحمّل محتوى ثلاثي الأبعاد بالاسم المحدد كتنسيق U3D.
+يقوم بتحميل محتوى 3D بالاسم المحدد بصيغة U3D.
 
 ```csharp
 public void LoadAsU3D(string filename)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | filename | String | اسم الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -28,17 +28,17 @@ public void LoadAsU3D(string filename)
 
 ## LoadAsU3D(Stream) {#loadasu3d_1}
 
-يحمّل محتوى ثلاثي الأبعاد من الدفق كتنسيق U3D.
+يقوم بتحميل محتوى 3D من الدفق بصيغة U3D.
 
 ```csharp
 public void LoadAsU3D(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | stream | Stream | دفق محتوى ثلاثي الأبعاد. |
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -48,18 +48,20 @@ public void LoadAsU3D(Stream stream)
 
 ## LoadAsU3D(byte[]) {#loadasu3d}
 
-يحمّل محتوى ثلاثي الأبعاد من مصفوفة بايت كتنسيق U3D.
+يقوم بتحميل محتوى 3D من مصفوفة بايت بصيغة U3D.
 
 ```csharp
 public void LoadAsU3D(byte[] stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Byte[] | الدفق. |
+| stream | Byte[] | التدفق. |
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

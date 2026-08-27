@@ -1,14 +1,14 @@
 ---
-title: StringResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StringResult. تحاول تحويل النتيجة إلى كائن تدفق
+title: "StringResult.ToStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StringResult. تحاول تحويل النتيجة إلى كائن تدفق"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.plugins/stringresult/tostream/
 ---
-## طريقة StringResult.ToStream
+## StringResult.ToStream method
 
-تحاول تحويل النتيجة إلى كائن تدفق.
+يحاول تحويل النتيجة إلى كائن تدفق.
 
 ```csharp
 public Stream ToStream()
@@ -23,3 +23,5 @@ public Stream ToStream()
 * class [StringResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

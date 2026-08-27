@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.Multiline
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextBoxField. تحصل أو تعين علامة متعددة الأسطر للحقل. إذا كانت متعددة الأسطر صحيحة، يمكن أن يحتوي الحقل على عدة أسطر من النص
+title: "TextBoxField.Multiline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextBoxField. تحصل أو تعيين علم متعدد الأسطر للحقل. إذا كان Multiline صحيحًا يمكن أن يحتوي الحقل على عدة أسطر من النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/textboxfield/multiline/
 ---
-## خاصية TextBoxField.Multiline
+## TextBoxField.Multiline property
 
-تحصل أو تعين علامة متعددة الأسطر للحقل. إذا كانت متعددة الأسطر صحيحة، يمكن أن يحتوي الحقل على عدة أسطر من النص.
+يحصل أو يضبط علامة متعددة الأسطر للحقل. إذا كانت Multiline صحيحة، يمكن للحقل أن يحتوي على عدة أسطر من النص.
 
 ```csharp
 public bool Multiline { get; set; }
@@ -19,3 +19,5 @@ public bool Multiline { get; set; }
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

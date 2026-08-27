@@ -1,21 +1,23 @@
 ---
-title: XForm.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XForm. يمسح البيانات المخزنة مؤقتًا
+title: "XForm.FreeMemory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XForm. تمسح البيانات المخزنة مؤقتًا"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/xform/freememory/
 ---
 ## XForm.FreeMemory method
 
-Clears cached data
+يمسح البيانات المخزنة مؤقتًا
 
 ```csharp
 public void FreeMemory()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

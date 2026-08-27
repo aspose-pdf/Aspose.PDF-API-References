@@ -1,25 +1,27 @@
 ---
-title: HtmlFragment.HtmlFragment
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ HtmlFragment. يقوم بتهيئة مثيل جديد من فئة HtmlFragment
+title: "HtmlFragment.HtmlFragment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ HtmlFragment. يهيئ مثيلة جديدة من فئة HtmlFragment"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/htmlfragment/htmlfragment/
 ---
-## مُنشئ HtmlFragment
+## HtmlFragment constructor
 
-يقوم بتهيئة مثيل جديد من فئة HtmlFragment.
+تهيئ كائنًا جديدًا من الفئة HtmlFragment.
 
 ```csharp
 public HtmlFragment(string text)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| النص | سلسلة | نص الجزء |
+| نص | String | نص الجزء |
 
 ### انظر أيضًا
 
-* فئة [HtmlFragment](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

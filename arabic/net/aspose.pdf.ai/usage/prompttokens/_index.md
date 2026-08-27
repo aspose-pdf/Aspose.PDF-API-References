@@ -1,14 +1,14 @@
 ---
-title: Usage.PromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الاستخدام. تحصل أو تعين عدد الرموز في الموجه
+title: "Usage.PromptTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Usage. تحصل أو تعين عدد الرموز في الموجه"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/usage/prompttokens/
 ---
-## خاصية Usage.PromptTokens
+## Usage.PromptTokens property
 
-تحصل أو تعين عدد الرموز في الموجه.
+يحصل أو يعيّن عدد الرموز في المطالبة.
 
 ```csharp
 public int PromptTokens { get; set; }
@@ -19,3 +19,5 @@ public int PromptTokens { get; set; }
 * class [Usage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

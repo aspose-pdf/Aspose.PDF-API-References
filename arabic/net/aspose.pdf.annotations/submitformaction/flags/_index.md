@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SubmitFormAction. تحصل أو تعين علامات إجراء الإرسال
+title: "SubmitFormAction.Flags"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SubmitFormAction. تحصل أو تعيين العلامات لإجراء الإرسال"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/submitformaction/flags/
 ---
-## خاصية SubmitFormAction.Flags
+## SubmitFormAction.Flags property
 
-تحصل أو تعين علامات إجراء الإرسال
+يحصل أو يعيّن العلامات لإجراء الإرسال.
 
 ```csharp
 public int Flags { get; set; }
@@ -19,3 +19,5 @@ public int Flags { get; set; }
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

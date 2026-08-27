@@ -1,20 +1,20 @@
 ---
-title: Document.OptimizeResources
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تحسين الموارد في الوثيقة 1. يتم إزالة الموارد التي لا تستخدم في صفحات الوثيقة 2. يتم دمج الموارد المتساوية في كائن واحد 3. يتم حذف الكائنات غير المستخدمة
+title: "Document.OptimizeResources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تحسين الموارد في المستند 1. يتم إزالة الموارد التي لا تُستخدم في صفحات المستند 2. يتم دمج الموارد المتساوية في كائن واحد 3. يتم حذف الكائنات غير المستخدمة"
 type: docs
-weight: 760
+weight: 780
 url: /ar/net/aspose.pdf/document/optimizeresources/
 ---
 ## OptimizeResources() {#optimizeresources}
 
-تحسين الموارد في الوثيقة: 1. يتم إزالة الموارد التي لا تستخدم في صفحات الوثيقة؛ 2. يتم دمج الموارد المتساوية في كائن واحد؛ 3. يتم حذف الكائنات غير المستخدمة.
+تحسين الموارد في المستند: 1. تُزال الموارد التي لا تُستخدم في صفحات المستند؛ 2. تُدمج الموارد المتساوية في كائن واحد؛ 3. تُحذف الكائنات غير المستخدمة.
 
 ```csharp
 public void OptimizeResources()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,19 +24,21 @@ public void OptimizeResources()
 
 ## OptimizeResources(OptimizationOptions) {#optimizeresources_1}
 
-تحسين الموارد في الوثيقة وفقًا لاستراتيجية التحسين المحددة.
+تحسين الموارد في المستند وفقًا لاستراتيجية التحسين المحددة.
 
 ```csharp
 public void OptimizeResources(OptimizationOptions strategy)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| strategy | OptimizationOptions | استراتيجية التحسين. |
+| استراتيجية | OptimizationOptions | استراتيجية التحسين. |
 
-### See Also
+### انظر أيضًا
 
 * class [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تضبط درجة الحرارة لخيارات ملخص المساعد
+title: "OpenAISummaryCopilotOptions.WithTemperature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. تعيين درجة الحرارة لخيارات المساعد الملخص"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/withtemperature/
 ---
-## طريقة OpenAISummaryCopilotOptions.WithTemperature
+## OpenAISummaryCopilotOptions.WithTemperature method
 
-تضبط درجة الحرارة لخيارات ملخص المساعد.
+يضبط درجة الحرارة لخيارات المساعد الملخص.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| temperature | Nullable`1 | درجة الحرارة التي يجب تعيينها. |
+| درجة الحرارة | Nullable`1 | درجة الحرارة التي سيتم ضبطها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

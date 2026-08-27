@@ -1,41 +1,41 @@
 ---
-title: PdfFileEditor.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تُدرج الصفحات من ملف آخر في ملف Pdf في موقع معين
+title: "PdfFileEditor.Insert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تُدرج الصفحات من ملف آخر إلى ملف Pdf في موضع معين."
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf.facades/pdffileeditor/insert/
 ---
 ## Insert(string, int, string, int, int, string) {#insert_2}
 
-تُدرج الصفحات من ملف آخر في ملف Pdf في موقع معين.
+يدرج الصفحات من ملف آخر إلى ملف Pdf في موضع معين.
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int startPage, 
     int endPage, string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | ملف Pdf المدخل. |
-| insertLocation | Int32 | الموقع في ملف المدخل. |
+| inputFile | String | ملف Pdf الإدخال. |
+| insertLocation | Int32 | الموضع في ملف الإدخال. |
 | portFile | String | ملف Pdf المنقول. |
-| startPage | Int32 | موقع البداية في portFile. |
-| endPage | Int32 | موقع النهاية في portFile. |
+| startPage | Int32 | الموضع الابتدائي في portFile. |
+| endPage | Int32 | الموضع النهائي في portFile. |
 | outputFile | String | ملف Pdf الناتج. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح للنجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -45,27 +45,27 @@ pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 
 ## Insert(Stream, int, Stream, int, int, Stream) {#insert}
 
-تُدرج الصفحات من ملف آخر في ملف Pdf المدخل.
+يدرج الصفحات من ملف آخر إلى ملف Pdf الإدخال.
 
 ```csharp
 public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int startPage, 
     int endPage, Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق ملف Pdf المدخل. |
-| insertLocation | Int32 | موقع الإدراج في ملف المدخل. |
-| portStream | Stream | تدفق ملف Pdf للصفحات. |
-| startPage | Int32 | من أي صفحة تبدأ. |
-| endPage | Int32 | إلى أي صفحة تنتهي. |
-| outputStream | Stream | تدفق الناتج. |
+| inputStream | Stream | تدفق الإدخال لملف Pdf. |
+| insertLocation | Int32 | إدراج الموضع في ملف الإدخال. |
+| portStream | Stream | دفق ملف Pdf للصفحات. |
+| startPage | Int32 | من أي صفحة للبدء. |
+| endPage | Int32 | إلى أي صفحة للانتهاء. |
+| outputStream | Stream | دفق الإخراج. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح للنجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -75,7 +75,7 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -85,33 +85,33 @@ pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 
 ## Insert(string, int, string, int[], string) {#insert_3}
 
-تُدرج الصفحات من ملف آخر في ملف Pdf المدخل.
+يدرج الصفحات من ملف آخر إلى ملف Pdf الإدخال.
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
     string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | ملف Pdf المدخل. |
-| insertLocation | Int32 | موقع الإدراج في ملف المدخل. |
-| portFile | String | الصفحات من ملف Pdf. |
-| pageNumber | Int32[] | رقم الصفحة المنقولة في portFile. |
+| inputFile | String | ملف Pdf الإدخال. |
+| insertLocation | Int32 | إدراج الموضع في ملف الإدخال. |
+| portFile | String | صفحات من ملف Pdf. |
+| pageNumber | Int32[] | رقم الصفحة للمنقولة في portFile. |
 | outputFile | String | ملف Pdf الناتج. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح للنجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -121,26 +121,26 @@ pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 
 ## Insert(Stream, int, Stream, int[], Stream) {#insert_1}
 
-تُدرج الصفحات من ملف آخر في ملف Pdf المدخل.
+يدرج الصفحات من ملف آخر إلى ملف Pdf الإدخال.
 
 ```csharp
 public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
     Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق ملف Pdf المدخل. |
-| insertLocation | Int32 | موقع الإدراج في ملف المدخل. |
-| portStream | Stream | تدفق ملف Pdf للصفحات. |
-| pageNumber | Int32[] | رقم الصفحة المنقولة في portFile. |
-| outputStream | Stream | تدفق الناتج. |
+| inputStream | Stream | تدفق الإدخال لملف Pdf. |
+| insertLocation | Int32 | إدراج الموضع في ملف الإدخال. |
+| portStream | Stream | دفق ملف Pdf للصفحات. |
+| pageNumber | Int32[] | رقم الصفحة للمنقولة في portFile. |
+| outputStream | Stream | دفق الإخراج. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا كانت العملية ناجحة.
+True إذا نجحت العملية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -150,8 +150,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsDouble
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpValue. تعيد true إذا كانت القيمة قيمة نقطة عائمة
+title: "XmpValue.IsDouble"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpValue. تُرجع true إذا كانت القيمة قيمة نقطية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/xmpvalue/isdouble/
 ---
-## خاصية XmpValue.IsDouble
+## XmpValue.IsDouble property
 
-تعيد true إذا كانت القيمة قيمة نقطة عائمة.
+يعيد true إذا كانت القيمة قيمة نقطة عائمة.
 
 ```csharp
 public bool IsDouble { get; }
@@ -19,3 +19,5 @@ public bool IsDouble { get; }
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

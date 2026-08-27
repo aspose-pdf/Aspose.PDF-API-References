@@ -1,20 +1,20 @@
 ---
-title: FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormFlattenSelectedFieldsOptions. يُهيئ مثيلًا جديدًا من كائن FormFlattenSelectedFieldsOptions
+title: "FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormFlattenSelectedFieldsOptions. يهيئ مثيلًا جديدًا لكائن FormFlattenSelectedFieldsOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/
 ---
-## مُنشئ FormFlattenSelectedFieldsOptions
+## FormFlattenSelectedFieldsOptions constructor
 
-يُهيئ مثيلًا جديدًا من كائن [`FormFlattenSelectedFieldsOptions`](../).
+يهيئ مثيلًا جديدًا لكائن [`FormFlattenSelectedFieldsOptions`](../).
 
 ```csharp
 public FormFlattenSelectedFieldsOptions(SelectField selectField)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | selectField | SelectField | يحدد الحقول التي سيتم تسويتها. |
 
@@ -24,3 +24,5 @@ public FormFlattenSelectedFieldsOptions(SelectField selectField)
 * class [FormFlattenSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

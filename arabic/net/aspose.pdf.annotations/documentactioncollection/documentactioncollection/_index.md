@@ -1,22 +1,22 @@
 ---
-title: DocumentActionCollection.DocumentActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DocumentActionCollection. مُنشئ لـ DocumentActionCollection. ينشئ كائنات DocumentActionCollection من كائن Document في Pdf.Kit.Engine
+title: "DocumentActionCollection.DocumentActionCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DocumentActionCollection. منشئ لـ DocumentActionCollection. ينشئ كائنات DocumentActionCollection من كائن Document الخاص بـ Pdf.Kit.Engine"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/documentactioncollection/documentactioncollection/
 ---
-## مُنشئ DocumentActionCollection
+## DocumentActionCollection constructor
 
-مُنشئ لـ DocumentActionCollection. ينشئ كائنات DocumentActionCollection من كائن Document في Pdf.Kit.Engine.
+منشئ لـ DocumentActionCollection. ينشئ كائنات DocumentActionCollection من كائن Pdf.Kit.Engine Document.
 
 ```csharp
 public DocumentActionCollection(Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي يتم إنشاء مجموعة الإجراءات له. |
+| document | Document | Document الذي تم إنشاء مجموعة الإجراءات له. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public DocumentActionCollection(Document document)
 * class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

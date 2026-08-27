@@ -1,29 +1,31 @@
 ---
-title: OpenAIClient.Builder.WithApiVersion
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البناء. تعيين إصدار API للعميل
+title: "OpenAIClient.Builder.WithApiVersion"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Builder. تحدد إصدار API للعميل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/openaiclient.builder/withapiversion/
 ---
-## طريقة OpenAIClient.Builder.WithApiVersion
+## OpenAIClient.Builder.WithApiVersion method
 
-تعيين إصدار API للعميل.
+يضبط إصدار API للعميل.
 
 ```csharp
 public Builder WithApiVersion(string apiVersion)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| apiVersion | سلسلة | إصدار API الذي سيتم تعيينه. |
+| apiVersion | String | إصدار API لتعيينه. |
 
 ### قيمة الإرجاع
 
-النسخة الحالية من [`Builder`](../).
+العنصر الحالي من [`Builder`](../).
 
 ### انظر أيضًا
 
-* الفئة [Builder](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

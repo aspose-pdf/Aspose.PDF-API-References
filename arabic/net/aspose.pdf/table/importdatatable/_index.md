@@ -1,26 +1,26 @@
 ---
-title: Table.ImportDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الجدول. تستورد البيانات من System.Data.DataTable إلى Aspose.Pdf.Table
+title: "Table.ImportDataTable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Table. تستورد البيانات من System.Data.DataTable إلى Aspose.Pdf.Table."
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf/table/importdatatable/
 ---
 ## ImportDataTable(DataTable, bool, int, int) {#importdatatable_1}
 
-تستورد البيانات من System.Data.DataTable إلى Aspose.Pdf.Table
+يستورد البيانات من System.Data.DataTable إلى Aspose.Pdf.Table
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImported, 
     int firstFilledRow, int firstFilledColumn)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | importedDataTable | DataTable | مثيل المصدر من System.Data.DataTable |
-| isColumnNamesImported | Boolean | يحدد ما إذا كانت أسماء الأعمدة ستستورد كأول صف |
-| firstFilledRow | Int32 | يحدد الرقم الصف الأول في الجدول المستهدف الذي ستبدأ منه الاستيراد، إذا كان الصف بالرقم المذكور (وبعض الصفوف السابقة) غير موجود في الجدول المستهدف، سيتم إنشاؤها أولاً |
-| firstFilledColumn | Int32 | يحدد رقم أول عمود مستهدف في الجدول المستهدف، يجب أن يكون العمود موجودًا في الجدول المستهدف قبل بدء الاستيراد |
+| isColumnNamesImported | Boolean | يحدد ما إذا كان سيتم استيراد أسماء الأعمدة كصف أول. |
+| firstFilledRow | Int32 | يحدد رقم الصف الأول في الجدول الهدف بدءًا من الصفر الذي سيبدأ منه الاستيراد؛ إذا كان الصف بهذا الرقم (وبعض الصفوف السابقة) غير موجود في الجدول الهدف، فسيتم إنشاؤه أولاً. |
+| firstFilledColumn | Int32 | يحدد رقم العمود الأول المستهدف في الجدول الهدف، يجب أن يكون العمود موجودًا في الجدول الهدف قبل بدء الاستيراد. |
 
 ### انظر أيضًا
 
@@ -32,7 +32,7 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 
 ## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable}
 
-تستورد كائن DataTable إلى الجدول.
+يستورد كائن DataTable إلى الجدول.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown, 
@@ -40,15 +40,15 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
     bool isHtmlSupported = false)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| importedDataTable | DataTable | كائن DataTable الذي سيتم استيراده. |
-| isColumnNamesShown | Boolean | يحدد ما إذا كانت أسماء أعمدة جدول البيانات المصدر ستستورد كأول صف. |
-| firstFilledRow | Int32 | يحدد الرقم الصف الأول في الجدول المستهدف الذي ستبدأ منه الاستيراد، إذا كان الصف بالرقم المذكور (وبعض الصفوف السابقة) غير موجود في الجدول المستهدف، سيتم إنشاؤها أولاً |
-| firstFilledColumn | Byte | يحدد رقم أول عمود مستهدف في الجدول المستهدف، يجب أن يكون العمود موجودًا في الجدول المستهدف قبل بدء الاستيراد |
+| importedDataTable | DataTable | كائن DataTable المراد استيراده. |
+| isColumnNamesShown | Boolean | يحدد ما إذا كانت أسماء الأعمدة في جدول البيانات المصدر سيتم استيرادها كصف أول. |
+| firstFilledRow | Int32 | يحدد رقم الصف الأول في الجدول الهدف بدءًا من الصفر الذي سيبدأ منه الاستيراد؛ إذا كان الصف بهذا الرقم (وبعض الصفوف السابقة) غير موجود في الجدول الهدف، فسيتم إنشاؤه أولاً. |
+| firstFilledColumn | Byte | يحدد رقم العمود الأول المستهدف في الجدول الهدف، يجب أن يكون العمود موجودًا في الجدول الهدف قبل بدء الاستيراد. |
 | maxRows | Int32 | الحد الأقصى لعدد الصفوف التي سيتم استيرادها من الجدول المصدر. |
 | maxColumns | Int32 | الحد الأقصى لعدد الأعمدة التي سيتم استيرادها من الجدول المصدر. |
-| isHtmlSupported | Boolean | يحدد ما إذا كان النص سلسلة HTML. |
+| isHtmlSupported | Boolean | يحدد ما إذا كان النص عبارة عن سلسلة HTML. |
 
 ### انظر أيضًا
 
@@ -60,7 +60,7 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 ## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
 
-تستورد كائن DataTable، ولكن ليس ككيان كامل. يتم استيراد الصفوف والأعمدة المحددة فقط.
+يستورد كائن DataTable، ولكن ليس ككيان كامل. يتم استيراد الصفوف والأعمدة المحددة فقط.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList, 
@@ -68,18 +68,20 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
     bool showColumnNamesAsFirstRow, bool isHtmlSupported = false)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| importedDataTable | DataTable | كائن DataTable الذي سيتم استيراده. |
-| sourceRowList | Int32[] | مصفوفة من أرقام الصفوف في كائن DataTable المصدر التي يجب استيرادها. يجب أن تكون القائمة غير فارغة ويجب أن تحتوي فقط على أرقام الصفوف الموجودة، وإلا سيتم طرح استثناء. |
-| sourceColumnList | Int32[] | مصفوفة من أرقام الأعمدة في كائن DataTable المصدر التي يجب استيرادها. يجب أن تكون القائمة غير فارغة ويجب أن تحتوي فقط على أرقام الأعمدة الموجودة، وإلا سيتم طرح استثناء. |
-| firstFilledRow | Int32 | الرقم الصف الأول في الجدول المستهدف الذي ستبدأ منه الاستيراد. إذا كان الجدول المستهدف لا يحتوي على ذلك الصف، سيتم إنشاؤه (وكل الصفوف السابقة إذا لزم الأمر) |
-| firstFilledColumn | Int32 | الرقم العمود الأول في الجدول المستهدف الذي ستبدأ منه الاستيراد. يجب أن يحتوي الجدول المستهدف على ذلك العمود قبل بدء الاستيراد، وإلا سيتم طرح استثناء. |
-| showColumnNamesAsFirstRow | Boolean | يحدد ما إذا كانت أسماء أعمدة جدول البيانات المصدر ستستورد كأول صف. |
-| isHtmlSupported | Boolean | يحدد ما إذا كان النص سلسلة HTML. |
+| importedDataTable | DataTable | كائن DataTable المراد استيراده. |
+| sourceRowList | Int32[] | المصفوفة التي تحتوي على أرقام الصفوف في كائن DataTable المصدر التي يجب استيرادها. يجب ألا تكون القائمة فارغة ويجب أن تحتوي فقط على أرقام الصفوف الموجودة، وإلا سيتم رمي استثناء. |
+| sourceColumnList | Int32[] | المصفوفة التي تحتوي على أرقام الأعمدة في كائن DataTable المصدر التي يجب استيرادها. يجب ألا تكون القائمة فارغة ويجب أن تحتوي فقط على أرقام الأعمدة الموجودة، وإلا سيتم رمي استثناء. |
+| firstFilledRow | Int32 | رقم الصف المستند إلى الصفر للخلية الأولى في الجدول targer الذي سيبدأ منه الاستيراد. إذا لم يحتوي الجدول الهدف على ذلك الصف، فسيتم إنشاؤه (مع جميع الصفوف السابقة إذا لزم الأمر). |
+| firstFilledColumn | Int32 | رقم العمود المستند إلى الصفر للخلية الأولى في الجدول targer الذي سيبدأ منه الاستيراد. يجب أن يحتوي الجدول الهدف على ذلك العمود قبل بدء الاستيراد، وإلا سيتم رمي استثناء. |
+| showColumnNamesAsFirstRow | Boolean | يحدد ما إذا كانت أسماء الأعمدة في جدول البيانات المصدر سيتم استيرادها كصف أول. |
+| isHtmlSupported | Boolean | يحدد ما إذا كان النص عبارة عن سلسلة HTML. |
 
 ### انظر أيضًا
 
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ListDataResponse1.ListDataResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ListDataResponse. المُنشئ الافتراضي
+title: "ListDataResponse1.ListDataResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ListDataResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/listdataresponse-1/listdataresponse/
 ---
-## مُنشئ ListDataResponse&lt;T&gt;
+## ListDataResponse&lt;T&gt; constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ListDataResponse()
@@ -19,3 +19,5 @@ public ListDataResponse()
 * class [ListDataResponse&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

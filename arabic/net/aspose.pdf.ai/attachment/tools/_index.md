@@ -1,14 +1,14 @@
 ---
-title: Attachment.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المرفق. تحصل أو تضبط نوع الأداة التي يرتبط بها الملف
+title: "Attachment.Tools"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Attachment. تحصل أو تعين نوع الأداة التي يُرفق إليها الـ File"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/attachment/tools/
 ---
-## خاصية Attachment.Tools
+## Attachment.Tools property
 
-تحصل أو تضبط نوع الأداة التي يرتبط بها الملف.
+يحصل أو يضبط نوع الأداة التي يُرفق بها الملف.
 
 ```csharp
 public List<Tool> Tools { get; set; }
@@ -20,3 +20,5 @@ public List<Tool> Tools { get; set; }
 * class [Attachment](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

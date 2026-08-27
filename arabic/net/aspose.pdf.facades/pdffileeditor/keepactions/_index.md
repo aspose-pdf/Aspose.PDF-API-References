@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.KeepActions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. إذا كانت صحيحة، سيتم نسخ الإجراءات من المستندات المصدر. القيمة الافتراضية صحيحة
+title: "PdfFileEditor.KeepActions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. إذا كانت true سيتم نسخ الإجراءات من المستندات المصدر. القيمة الافتراضية true"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdffileeditor/keepactions/
 ---
-## خاصية PdfFileEditor.KeepActions
+## PdfFileEditor.KeepActions property
 
-إذا كانت صحيحة، سيتم نسخ الإجراءات من المستندات المصدر. القيمة الافتراضية: صحيحة.
+إذا كان صحيحًا فسيتم نسخ الإجراءات من المستندات المصدر. القيمة الافتراضية: true.
 
 ```csharp
 public bool KeepActions { get; set; }
@@ -19,3 +19,5 @@ public bool KeepActions { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,25 @@
 ---
-title: Delegate PdfQueryPageSettingsEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: يمثل الطريقة التي تتعامل مع حدث PdfQueryPageSettings في PdfViewer
+title: "المندوب PdfQueryPageSettingsEventHandler"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "يمثل الطريقة التي تتعامل مع حدث PdfQueryPageSettings لكائن PdfViewer"
 type: docs
-weight: 4620
+weight: 4740
 url: /ar/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
-## Delegate PdfQueryPageSettingsEventHandler
+## PdfQueryPageSettingsEventHandler delegate
 
-يمثل الطريقة التي تتعامل مع حدث [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) في [`PdfViewer`](../pdfviewer/).
+يمثل الطريقة التي تتعامل مع حدث [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) لكائن [`PdfViewer`](../pdfviewer/).
 
 ```csharp
 public delegate void PdfQueryPageSettingsEventHandler(object sender, 
     PdfQueryPageSettingsEventArgs queryPageSettingsEventArgs, PdfPrintPageInfo currentPageInfo);
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| sender | Object | مصدر الحدث. |
-| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) التي تحتوي على بيانات الحدث. |
-| currentPageInfo | PdfPrintPageInfo | معلومات الصفحة المطبوعة حاليًا. |
+| المرسل | كائن | مصدر الحدث. |
+| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | كائن [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) يحتوي على بيانات الحدث. |
+| currentPageInfo | PdfPrintPageInfo | معلومات الصفحة المطبوعة حالياً. |
 
 ### انظر أيضًا
 
@@ -27,3 +27,5 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 * class [PdfPrintPageInfo](../pdfprintpageinfo/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

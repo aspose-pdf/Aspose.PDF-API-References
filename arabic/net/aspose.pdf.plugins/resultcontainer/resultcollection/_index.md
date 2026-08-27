@@ -1,14 +1,14 @@
 ---
-title: ResultContainer.ResultCollection
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ResultContainer. تحصل على مجموعة من نتائج العملية
+title: "ResultContainer.ResultCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ResultContainer. يحصل على مجموعة نتائج العملية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/resultcontainer/resultcollection/
 ---
-## خاصية ResultContainer.ResultCollection
+## ResultContainer.ResultCollection property
 
-تحصل على مجموعة من نتائج العملية
+يحصل على مجموعة نتائج العملية
 
 ```csharp
 public List<IOperationResult> ResultCollection { get; }
@@ -16,7 +16,9 @@ public List<IOperationResult> ResultCollection { get; }
 
 ### انظر أيضًا
 
-* واجهة [IOperationResult](../../ioperationresult/)
-* فئة [ResultContainer](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperationResult](../../ioperationresult/)
+* class [ResultContainer](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

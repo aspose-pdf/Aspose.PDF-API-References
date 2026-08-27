@@ -1,14 +1,14 @@
 ---
-title: Layer.Locked
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطبقة. تحصل على قيمة تشير إلى ما إذا كانت الطبقة مقفلة
+title: "Layer.Locked"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية الطبقة. تحصل على قيمة تشير إلى ما إذا كانت الطبقة مقفلة."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/layer/locked/
 ---
-## خاصية Layer.Locked
+## Layer.Locked property
 
-تحصل على قيمة تشير إلى ما إذا كانت الطبقة مقفلة.
+يحصل على قيمة تشير إلى ما إذا كانت الطبقة مقفلة.
 
 ```csharp
 public bool Locked { get; }
@@ -19,3 +19,5 @@ public bool Locked { get; }
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

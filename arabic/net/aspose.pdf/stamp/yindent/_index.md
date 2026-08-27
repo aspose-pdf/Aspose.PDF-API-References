@@ -1,14 +1,14 @@
 ---
-title: Stamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. إحداثي الطابع العمودي بدءًا من الأسفل
+title: "Stamp.YIndent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. إحداثي الطابع العمودي يبدأ من الأسفل"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/stamp/yindent/
 ---
-## خاصية Stamp.YIndent
+## Stamp.YIndent property
 
-إحداثي الطابع العمودي، بدءًا من الأسفل.
+إحداثي الطابع العمودي، يبدأ من الأسفل.
 
 ```csharp
 public virtual double YIndent { get; set; }
@@ -19,3 +19,5 @@ public virtual double YIndent { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

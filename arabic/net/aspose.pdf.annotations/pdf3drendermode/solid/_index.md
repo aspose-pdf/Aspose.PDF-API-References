@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.Solid
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DRenderMode. وضع العرض الصلب
+title: "PDF3DRenderMode.Solid"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DRenderMode. وضع العرض Solid"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/solid/
 ---
-## حقل PDF3DRenderMode.Solid
+## PDF3DRenderMode.Solid field
 
-وضع العرض "صلب".
+وضع العرض "Solid".
 
 ```csharp
 public static PDF3DRenderMode Solid;
@@ -19,3 +19,5 @@ public static PDF3DRenderMode Solid;
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

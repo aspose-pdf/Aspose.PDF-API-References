@@ -1,14 +1,14 @@
 ---
-title: FileHyperlink.FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FileHyperlink. يقوم بتهيئة مثيل جديد من فئة FileHyperlink
+title: "FileHyperlink.FileHyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FileHyperlink. يهيئ مثيلًا جديدًا من فئة FileHyperlink"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/filehyperlink/filehyperlink/
 ---
 ## FileHyperlink() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`FileHyperlink`](../).
+يهيئ مثيلًا جديدًا من الفئة [`FileHyperlink`](../).
 
 ```csharp
 public FileHyperlink()
@@ -16,26 +16,28 @@ public FileHyperlink()
 
 ### انظر أيضًا
 
-* فئة [FileHyperlink](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FileHyperlink(string) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`FileHyperlink`](../).
+يهيئ مثيلًا جديدًا من الفئة [`FileHyperlink`](../).
 
 ```csharp
 public FileHyperlink(string path)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
+| المسار | String | المسار إلى الملف. |
 
 ### انظر أيضًا
 
-* فئة [FileHyperlink](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

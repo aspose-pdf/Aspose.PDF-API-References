@@ -1,14 +1,14 @@
 ---
-title: SetCharWidth.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetCharWidth. الإزاحة الرأسية لإحداثيات الجليف
+title: "SetCharWidth.Wy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetCharWidth. الإزاحة العمودية لإحداثيات الحرف"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setcharwidth/wy/
 ---
-## خاصية SetCharWidth.Wy
+## SetCharWidth.Wy property
 
-الإزاحة الرأسية لإحداثيات الجليف.
+الإزاحة العمودية لإحداثيات الحرف.
 
 ```csharp
 public double Wy { get; }
@@ -19,3 +19,5 @@ public double Wy { get; }
 * class [SetCharWidth](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

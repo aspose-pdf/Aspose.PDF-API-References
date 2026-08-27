@@ -1,20 +1,20 @@
 ---
-title: XmpField.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpField. تحصل على البادئة
+title: "XmpField.Prefix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpField. يحصل على البادئة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/xmpfield/prefix/
 ---
-## خاصية XmpField.Prefix
+## XmpField.Prefix property
 
-تحصل على البادئة.
+الحصول على البادئة.
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 البادئة.
 
@@ -23,3 +23,5 @@ public string Prefix { get; set; }
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

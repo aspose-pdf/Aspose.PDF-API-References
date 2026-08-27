@@ -1,22 +1,22 @@
 ---
-title: TableGenerator.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableGenerator. تبدأ معالجة PdfGenerator بالمعلمات المحددة
+title: "TableGenerator.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TableGenerator method. يبدأ معالجة PdfGenerator بالمعلمات المحددة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/tablegenerator/process/
 ---
-## طريقة TableGenerator.Process
+## TableGenerator.Process method
 
-تبدأ معالجة PdfGenerator بالمعلمات المحددة.
+يبدأ معالجة PdfGenerator باستخدام المعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ PdfGenerator. |
+| options | IPluginOptions | كائن الخيارات يحتوي على تعليمات لـ PdfGenerator. |
 
 ### قيمة الإرجاع
 
@@ -24,7 +24,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | NotSupportedException |  |
 
@@ -35,3 +35,5 @@ public ResultContainer Process(IPluginOptions options)
 * class [TableGenerator](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

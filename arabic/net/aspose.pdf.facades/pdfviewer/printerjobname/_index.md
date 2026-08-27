@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrinterJobName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل أو تعين اسم المستند في قائمة الانتظار للطابعة عند طباعة المستند. القيمة الافتراضية هي اسم الملف
+title: "PdfViewer.PrinterJobName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل أو تعين اسم المستند في طابور الطابعة عند طباعة المستند. القيمة الافتراضية هي اسم الملف"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdfviewer/printerjobname/
 ---
-## خاصية PdfViewer.PrinterJobName
+## PdfViewer.PrinterJobName property
 
-تحصل أو تعين اسم المستند في قائمة الانتظار للطابعة عند طباعة المستند. القيمة الافتراضية هي اسم الملف.
+يحصل أو يعيّن اسم المستند في طابور الطباعة عند طباعة المستند. القيمة الافتراضية هي اسم الملف.
 
 ```csharp
 public string PrinterJobName { get; set; }
@@ -19,3 +19,5 @@ public string PrinterJobName { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

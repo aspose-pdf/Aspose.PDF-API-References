@@ -1,14 +1,14 @@
 ---
-title: Class ImageDescription
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ImageDescription. تمثل وصف صورة
+title: "الفئة ImageDescription"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.ImageDescription. تمثل وصفًا للصورة"
 type: docs
-weight: 610
+weight: 660
 url: /ar/net/aspose.pdf.ai/imagedescription/
 ---
-## فئة وصف الصورة
+## ImageDescription class
 
-تمثل وصف صورة.
+يمثل وصفًا للصورة.
 
 ```csharp
 public class ImageDescription
@@ -18,19 +18,21 @@ public class ImageDescription
 
 | الاسم | الوصف |
 | --- | --- |
-| [ImageDescription](imagedescription/)() | المنشئ الافتراضي. |
+| [ImageDescription](imagedescription/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } | يحصل أو يحدد الوصف المرتبط بالصورة. |
-| [ImageBytes](../../aspose.pdf.ai/imagedescription/imagebytes/) { get; set; } | يحصل أو يحدد مصفوفة البايت التي تمثل الصورة. |
-| [Name](../../aspose.pdf.ai/imagedescription/name/) { get; set; } | يحصل أو يحدد اسم الصورة. |
-| [PageNumber](../../aspose.pdf.ai/imagedescription/pagenumber/) { get; set; } | يحصل أو يحدد رقم الصفحة التي تقع فيها الصورة. |
-| [Rectangle](../../aspose.pdf.ai/imagedescription/rectangle/) { get; set; } | يحصل أو يحدد معلومات المستطيل للصورة. |
+| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } | يحصل أو يعيّن الوصف المرتبط بالصورة. |
+| [ImageBytes](../../aspose.pdf.ai/imagedescription/imagebytes/) { get; set; } | يحصل أو يعيّن مصفوفة البايت التي تمثل الصورة. |
+| [Name](../../aspose.pdf.ai/imagedescription/name/) { get; set; } | يحصل أو يعيّن اسم الصورة. |
+| [PageNumber](../../aspose.pdf.ai/imagedescription/pagenumber/) { get; set; } | يحصل أو يعيّن رقم الصفحة التي توجد فيها الصورة. |
+| [Rectangle](../../aspose.pdf.ai/imagedescription/rectangle/) { get; set; } | يحصل أو يعيّن معلومات المستطيل للصورة. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

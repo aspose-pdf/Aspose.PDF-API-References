@@ -1,18 +1,22 @@
 ---
-title: Aspose.Pdf.Signatures
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Signatures"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: 
 type: docs
-weight: 230
-url: /net/aspose.pdf.signatures/
+weight: 220
+url: /ar/net/aspose.pdf.signatures/
 ---
+
+
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [CompromiseCheckResult](./compromisecheckresult/) | تمثل فئة للتحقق من التوقيعات الرقمية للمستندات من التلاعب. |
-## التعداد
+| [CompromiseCheckResult](./compromisecheckresult/) | يمثل فئة للتحقق من سلامة التوقيعات الرقمية للمستند. |
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
-| [SignaturesCoverage](./signaturescoverage/) | تمثل تعداد لمستوى التغطية التي توفرها التوقيعات الرقمية في مستند. |
+| [SignaturesCoverage](./signaturescoverage/) | يمثل تعداد لمستوى التغطية التي توفرها التوقيعات الرقمية في المستند. |
+
+

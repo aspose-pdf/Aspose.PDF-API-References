@@ -1,24 +1,24 @@
 ---
-title: TextEditOptions.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextEditOptions. يقوم بتهيئة مثيل جديد من كائن TextEditOptions لوضع سلوك عدم وجود حرف المحدد
+title: "TextEditOptions.TextEditOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextEditOptions. يهيئ نسخة جديدة من كائن TextEditOptions للوضع المحدد لسلوك عدم وجود الأحرف"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-يُهيئ مثيل جديد من كائن [`TextEditOptions`](../) لوضع سلوك عدم وجود حرف المحدد.
+يهيئ نسخة جديدة من كائن [`TextEditOptions`](../) للوضع المحدد لسلوك عدم وجود الأحرف.
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| noCharacterBehavior | NoCharacterAction | كائن وضع سلوك عدم وجود حرف. |
+| noCharacterBehavior | NoCharacterAction | كائن وضع سلوك بدون أحرف. |
 
-### See Also
+### انظر أيضًا
 
 * enum [NoCharacterAction](../../texteditoptions.nocharacteraction/)
 * class [TextEditOptions](../)
@@ -29,17 +29,17 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ## TextEditOptions(FontReplace) {#constructor_1}
 
-يُهيئ مثيل جديد من كائن [`TextEditOptions`](../) لوضع سلوك استبدال الخط المحدد.
+يُنشئ نسخة جديدة من كائن [`TextEditOptions`](../) للوضع المحدد لسلوك استبدال الخط.
 
 ```csharp
 public TextEditOptions(FontReplace fontReplaceBehavior)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontReplaceBehavior | FontReplace | كائن سلوك استبدال الخط. |
 
-### See Also
+### انظر أيضًا
 
 * enum [FontReplace](../../texteditoptions.fontreplace/)
 * class [TextEditOptions](../)
@@ -50,17 +50,17 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ## TextEditOptions(bool) {#constructor}
 
-يُهيئ مثيل جديد من كائن [`TextEditOptions`](../) لإذن تحويل اللغة المحدد.
+يُنشئ نسخة جديدة من كائن [`TextEditOptions`](../) لتصريح تحويل اللغة المحدد.
 
 ```csharp
 public TextEditOptions(bool allowLanguageTransformation)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| allowLanguageTransformation | Boolean | يسمح بتحويل اللغة إذا تم تعيينه على true. |
+| allowLanguageTransformation | Boolean | يسمح بتحويل اللغة إذا تم تعيينه إلى true. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -70,19 +70,21 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 ## TextEditOptions(LanguageTransformation) {#constructor_2}
 
-يُهيئ مثيل جديد من كائن [`TextEditOptions`](../) لوضع سلوك تحويل اللغة المحدد.
+يُنشئ نسخة جديدة من كائن [`TextEditOptions`](../) للوضع المحدد لسلوك تحويل اللغة.
 
 ```csharp
 public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | languageTransformationBehavior | LanguageTransformation | كائن سلوك تحويل اللغة. |
 
-### See Also
+### انظر أيضًا
 
 * enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.SaddleBrown
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FF8B4513
+title: "Color.SaddleBrown"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تحصل على لون معرف نظاميًا له قيمة ARGB بقيمة c FF8B4513"
 type: docs
 weight: 1180
 url: /ar/net/aspose.pdf/color/saddlebrown/
 ---
-## خاصية Color.SaddleBrown
+## Color.SaddleBrown property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FF8B4513.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FF8B4513.
 
 ```csharp
 public static Color SaddleBrown { get; }
@@ -16,10 +16,12 @@ public static Color SaddleBrown { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

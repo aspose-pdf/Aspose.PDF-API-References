@@ -1,14 +1,14 @@
 ---
-title: Point.ToPoint
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Point. تحويل النقطة إلى كائن System.Drawing.PointF
+title: "Point.ToPoint"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Point. تحويل النقطة إلى كائن System.Drawing.PointF"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/point/topoint/
 ---
-## طريقة Point.ToPoint
+## Point.ToPoint method
 
-تحول النقطة إلى كائن System.Drawing.PointF.
+يحوّل النقطة إلى كائن System.Drawing.PointF.
 
 ```csharp
 public PointF ToPoint()
@@ -16,10 +16,12 @@ public PointF ToPoint()
 
 ### قيمة الإرجاع
 
-هيكل PointF.
+بنية PointF.
 
 ### انظر أيضًا
 
 * class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

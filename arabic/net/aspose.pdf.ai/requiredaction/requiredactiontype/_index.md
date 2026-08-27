@@ -1,14 +1,14 @@
 ---
-title: RequiredAction.RequiredActionType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RequiredAction. تحصل أو تعين نوع الإجراء المطلوب
+title: "RequiredAction.RequiredActionType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RequiredAction. تحصّل أو تعيين نوع الإجراء المطلوب"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/requiredaction/requiredactiontype/
 ---
-## خاصية RequiredAction.RequiredActionType
+## RequiredAction.RequiredActionType property
 
-تحصل أو تعين نوع الإجراء المطلوب.
+يحصل أو يعيّن نوع الإجراء المطلوب.
 
 ```csharp
 public string RequiredActionType { get; set; }
@@ -19,3 +19,5 @@ public string RequiredActionType { get; set; }
 * class [RequiredAction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

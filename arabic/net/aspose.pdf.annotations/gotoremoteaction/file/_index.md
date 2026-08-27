@@ -1,14 +1,14 @@
 ---
-title: GoToRemoteAction.File
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GoToRemoteAction. يحصل أو يحدد مواصفات الملف الذي يقع فيه الوجهة
+title: "GoToRemoteAction.File"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GoToRemoteAction. تحصل أو تعين مواصفات الملف الذي توجد فيه الوجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/gotoremoteaction/file/
 ---
-## خاصية GoToRemoteAction.File
+## GoToRemoteAction.File property
 
-يحصل أو يحدد مواصفات الملف الذي يقع فيه الوجهة.
+يحصل أو يضبط مواصفات الملف الذي توجد فيه الوجهة.
 
 ```csharp
 public FileSpecification File { get; set; }
@@ -20,3 +20,5 @@ public FileSpecification File { get; set; }
 * class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

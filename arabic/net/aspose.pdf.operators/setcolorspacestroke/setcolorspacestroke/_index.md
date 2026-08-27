@@ -1,25 +1,27 @@
 ---
-title: SetColorSpaceStroke.SetColorSpaceStroke
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetColorSpaceStroke. يُهيئ المشغل
+title: "SetColorSpaceStroke.SetColorSpaceStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetColorSpaceStroke. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setcolorspacestroke/setcolorspacestroke/
 ---
-## مُنشئ SetColorSpaceStroke
+## SetColorSpaceStroke constructor
 
-يُهيئ المشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetColorSpaceStroke(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم مساحة اللون. |
+| الاسم | String | اسم مساحة اللون. |
 
 ### انظر أيضًا
 
 * class [SetColorSpaceStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

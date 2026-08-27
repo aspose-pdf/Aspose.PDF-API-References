@@ -1,14 +1,14 @@
 ---
-title: ButtonField.ICPosition
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ButtonField. تحصل أو تعين موضع عنوان الأيقونة
+title: "ButtonField.ICPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ButtonField. يحصل أو يضبط موضع تسمية الأيقونة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/buttonfield/icposition/
 ---
-## خاصية ButtonField.ICPosition
+## ButtonField.ICPosition property
 
-تحصل أو تعين موضع عنوان الأيقونة.
+يحصل أو يعيّن موضع تسمية الأيقونة.
 
 ```csharp
 public IconCaptionPosition ICPosition { get; set; }
@@ -20,3 +20,5 @@ public IconCaptionPosition ICPosition { get; set; }
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

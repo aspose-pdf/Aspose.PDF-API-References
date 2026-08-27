@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين النموذج الذي استخدمه المساعد لهذه العملية
+title: "RunResponse.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين النموذج الذي استخدمه المساعد في هذا التنفيذ"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.ai/runresponse/model/
 ---
-## خاصية RunResponse.Model
+## RunResponse.Model property
 
-تحصل أو تعين النموذج الذي استخدمه المساعد لهذه العملية.
+يحصل أو يعيّن النموذج الذي استخدمه المساعد لهذا التشغيل.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

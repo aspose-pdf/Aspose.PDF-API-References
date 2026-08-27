@@ -1,31 +1,33 @@
 ---
-title: ITeXInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITeXInputDirectory. تعيد الدفق للقراءة منه أو الكتابة إليه
+title: "ITeXInputDirectory.GetFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITeXInputDirectory. تُرجع الدفق للقراءة أو للكتابة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/itexinputdirectory/getfile/
 ---
 ## ITeXInputDirectory.GetFile method
 
-تعيد الدفق للقراءة منه أو الكتابة إليه.
+يعيد الدفق للقراءة منه أو للكتابة إليه.
 
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | اسم الملف. |
-| fullName | String& | الاسم الكامل للملف. |
-| searchSubdirectories | Boolean | يشير إلى ما إذا كان يجب البحث عن ملف في المجلدات الفرعية. |
+| fullName | String& | اسم الملف الكامل. |
+| searchSubdirectories | Boolean | يشير إلى ما إذا كان يجب البحث عن ملف في الأدلة الفرعية. |
 
-### Return Value
+### قيمة الإرجاع
 
-الدفق.
+التدفق.
 
-### See Also
+### انظر أيضًا
 
 * interface [ITeXInputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

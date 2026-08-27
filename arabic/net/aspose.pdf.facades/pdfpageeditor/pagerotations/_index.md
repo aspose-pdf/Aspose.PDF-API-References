@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.PageRotations
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfPageEditor. يحتوي على جدول تجزئة يحتوي على رقم الصفحة ودرجة الدوران، المفتاح يمثل رقم الصفحة، وقيمة المفتاح تمثل الدوران بالدرجات
+title: "PdfPageEditor.PageRotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfPageEditor. جدول تجزئة يحتوي على رقم الصفحة ودرجة الدوران؛ المفتاح يمثل رقم الصفحة والقيمة تمثل درجة الدوران."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/pagerotations/
 ---
-## خاصية PdfPageEditor.PageRotations
+## PdfPageEditor.PageRotations property
 
-يحتوي على جدول تجزئة يحتوي على رقم الصفحة ودرجة الدوران، المفتاح يمثل رقم الصفحة، وقيمة المفتاح تمثل الدوران بالدرجات.
+جدول تجزئة يحتوي على رقم الصفحة ودرجة الدوران، المفتاح يمثل رقم الصفحة، قيمة المفتاح تمثل درجة الدوران بالدرجات.
 
 ```csharp
 public Dictionary<int, int> PageRotations { get; set; }
@@ -19,3 +19,5 @@ public Dictionary<int, int> PageRotations { get; set; }
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

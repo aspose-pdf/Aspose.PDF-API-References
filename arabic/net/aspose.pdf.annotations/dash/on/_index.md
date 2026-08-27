@@ -1,14 +1,14 @@
 ---
-title: Dash.On
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Dash. تحصل أو تعين طول الخط الأول
+title: "Dash.On"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Dash. يحصل على أو يضبط طول الشرط الأول"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/dash/on/
 ---
-## خاصية Dash.On
+## Dash.On property
 
-تحصل أو تعين طول الخط الأول.
+يحصل أو يعيّن طول الشَرطَة الأولى.
 
 ```csharp
 public int On { get; set; }
@@ -19,3 +19,5 @@ public int On { get; set; }
 * class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

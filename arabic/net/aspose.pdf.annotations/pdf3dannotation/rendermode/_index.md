@@ -1,20 +1,20 @@
 ---
-title: PDF3DAnnotation.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DAnnotation. تحصل على وضع العرض
+title: "PDF3DAnnotation.RenderMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DAnnotation. تحصل على وضع العرض"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/pdf3dannotation/rendermode/
 ---
-## خاصية PDF3DAnnotation.RenderMode
+## PDF3DAnnotation.RenderMode property
 
-تحصل على وضع العرض.
+يحصل على وضع العرض.
 
 ```csharp
 public PDF3DRenderMode RenderMode { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 وضع العرض.
 
@@ -24,3 +24,5 @@ public PDF3DRenderMode RenderMode { get; }
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: MCRElement.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MCRElement. يحصل على MCID لكائن مرجع المحتوى المعلم
+title: "MCRElement.MCID"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MCRElement. تحصّل على MCID لكائن مرجع المحتوى المميز"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/mcrelement/mcid/
 ---
-## خاصية MCRElement.MCID
+## MCRElement.MCID property
 
-يحصل على MCID لكائن مرجع المحتوى المعلم.
+يحصل على MCID لكائن إشارة المحتوى المميز.
 
 ```csharp
 public int MCID { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-MCID لكائن مرجع المحتوى المعلم.
+MCID لكائن مرجع المحتوى المميز.
 
 ### انظر أيضًا
 
 * class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

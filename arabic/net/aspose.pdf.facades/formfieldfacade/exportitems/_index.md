@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. الخيارات لإضافة قائمة/مجموعة/مربع اختيار
+title: "FormFieldFacade.ExportItems"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade خاصية. الخيارات لإضافة قائمة/قائمة منسدلة/مربع اختيار"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/formfieldfacade/exportitems/
 ---
-## خاصية FormFieldFacade.ExportItems
+## FormFieldFacade.ExportItems property
 
-الخيارات لإضافة قائمة/مجموعة/مربع اختيار
+الخيارات لإضافة قائمة/قائمة منسدلة/زر راديو
 
 ```csharp
 public string[][] ExportItems { get; set; }
@@ -19,3 +19,5 @@ public string[][] ExportItems { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

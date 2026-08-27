@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. تحصل على الكائن الأب لهذا العنصر في تسلسل المخطط
+title: "OutlineItemCollection.Parent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineItemCollection. تحصل على كائن الأصل لهذا العنصر في تسلسل المخطط"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/outlineitemcollection/parent/
 ---
-## خاصية OutlineItemCollection.Parent
+## OutlineItemCollection.Parent property
 
-تحصل على الكائن الأب لهذا العنصر في تسلسل المخطط.
+يحصل على كائن الأصل لهذا العنصر في تسلسل المخطط.
 
 ```csharp
 public Outlines Parent { get; }
@@ -20,3 +20,5 @@ public Outlines Parent { get; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

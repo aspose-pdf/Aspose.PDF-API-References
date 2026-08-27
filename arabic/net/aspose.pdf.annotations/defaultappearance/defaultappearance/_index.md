@@ -1,14 +1,14 @@
 ---
-title: DefaultAppearance.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DefaultAppearance. مُنشئ DefaultAppearance
+title: "DefaultAppearance.DefaultAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DefaultAppearance. منشئ لـ DefaultAppearance"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/defaultappearance/defaultappearance/
 ---
 ## DefaultAppearance() {#constructor}
 
-مُنشئ DefaultAppearance.
+منشئ DefaultAppearance.
 
 ```csharp
 public DefaultAppearance()
@@ -24,13 +24,13 @@ public DefaultAppearance()
 
 ## DefaultAppearance(string, double, Color) {#constructor_2}
 
-مُنشئ DefaultAppearance.
+منشئ DefaultAppearance.
 
 ```csharp
 public DefaultAppearance(string fontName, double fontSize, Color textColor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 | fontSize | Double | حجم الخط. |
@@ -46,15 +46,15 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 
 ## DefaultAppearance(Font, double, Color) {#constructor_1}
 
-مُنشئ المظهر الافتراضي. يمكن تحديد الخط الذي تم إنشاؤه مسبقًا كخط افتراضي.
+منشئ Default Appearance. يمكن تحديد الخط الذي تم إنشاؤه مسبقًا كخط افتراضي.
 
 ```csharp
 public DefaultAppearance(Font font, double fontSize, Color textColor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| font | Font | الخط الذي سيتم استخدامه كافتراضي. |
+| الخط | Font | الخط الذي سيُستخدم كافتراضي. |
 | fontSize | Double | حجم الخط. |
 | textColor | Color | لون النص. |
 
@@ -64,3 +64,5 @@ public DefaultAppearance(Font font, double fontSize, Color textColor)
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface IStatus
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IStatus. تمثل حالة عملية
+title: "الواجهة IStatus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.AI.IStatus. تمثل حالة العملية."
 type: docs
-weight: 560
+weight: 610
 url: /ar/net/aspose.pdf.ai/istatus/
 ---
-## واجهة IStatus
+## IStatus interface
 
-تمثل حالة عملية.
+يمثل حالة العملية.
 
 ```csharp
 public interface IStatus
@@ -18,9 +18,11 @@ public interface IStatus
 
 | الاسم | الوصف |
 | --- | --- |
-| [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | يحصل على حالة العملية أو يحددها. |
+| [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | يحصل أو يعيّن حالة العملية. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

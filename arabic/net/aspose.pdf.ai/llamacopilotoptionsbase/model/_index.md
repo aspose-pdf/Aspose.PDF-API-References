@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaCopilotOptionsBase. تحصل أو تعين النموذج المستخدم للمساعد
+title: "LlamaCopilotOptionsBase.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaCopilotOptionsBase. يحصل أو يضبط النموذج المستخدم للمساعد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/llamacopilotoptionsbase/model/
 ---
-## خاصية LlamaCopilotOptionsBase.Model
+## LlamaCopilotOptionsBase.Model property
 
-تحصل أو تعين النموذج المستخدم للمساعد.
+يحصل أو يضبط النموذج المستخدم للمساعد.
 
 ```csharp
 public virtual string Model { get; set; }
@@ -19,3 +19,5 @@ public virtual string Model { get; set; }
 * class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

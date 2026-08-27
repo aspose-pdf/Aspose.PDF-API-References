@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل مصدر ورق تغليف تلقائي
+title: "PaperSources.Envelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل مصدر ورق تغذية مغلف تلقائي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.printing/papersources/envelope/
 ---
-## حقل PaperSources.Envelope
+## PaperSources.Envelope field
 
-يمثل مصدر ورق تغليف تلقائي.
+تمثل مصدر ورق تغذية الظرف التلقائي.
 
 ```csharp
 public static readonly PaperSource Envelope;
@@ -20,3 +20,5 @@ public static readonly PaperSource Envelope;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

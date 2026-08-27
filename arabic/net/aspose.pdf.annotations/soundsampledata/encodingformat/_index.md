@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.EncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundSampleData. تحصل أو تعين تنسيق الترميز
+title: "SoundSampleData.EncodingFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundSampleData. يحصل أو يضبط تنسيق الترميز"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/soundsampledata/encodingformat/
 ---
-## خاصية SoundSampleData.EncodingFormat
+## SoundSampleData.EncodingFormat property
 
-تحصل أو تعين تنسيق الترميز.
+يحصل أو يضبط تنسيق الترميز.
 
 ```csharp
 public SoundSampleDataEncodingFormat EncodingFormat { get; set; }
@@ -20,3 +20,5 @@ public SoundSampleDataEncodingFormat EncodingFormat { get; set; }
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderWidth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. عرض حدود الحقل
+title: "FormFieldFacade.BorderWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade property. عرض حد الحقل"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderwidth/
 ---
-## خاصية FormFieldFacade.BorderWidth
+## FormFieldFacade.BorderWidth property
 
-عرض حدود الحقل.
+عرض حد الحقل.
 
 ```csharp
 public float BorderWidth { get; set; }
@@ -19,3 +19,5 @@ public float BorderWidth { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

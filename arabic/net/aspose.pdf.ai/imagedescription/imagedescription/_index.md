@@ -1,14 +1,14 @@
 ---
-title: ImageDescription.ImageDescription
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ImageDescription. المُنشئ الافتراضي
+title: "ImageDescription.ImageDescription"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ImageDescription. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/imagedescription/imagedescription/
 ---
-## مُنشئ ImageDescription
+## ImageDescription constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ImageDescription()
@@ -19,3 +19,5 @@ public ImageDescription()
 * class [ImageDescription](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

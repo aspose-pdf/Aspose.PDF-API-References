@@ -1,14 +1,14 @@
 ---
-title: PageDate.Delimiter
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageDate. تحصل أو تعين الفاصل المستخدم في تنسيق التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا الفاصل
+title: "PageDate.Delimiter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PageDate خاصية. يحصل أو يضبط الفاصل المستخدم في تنسيق التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا الفاصل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pagedate/delimiter/
 ---
-## خاصية PageDate.Delimiter
+## PageDate.Delimiter property
 
-تحصل أو تعين الفاصل المستخدم في تنسيق التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا الفاصل.
+يحصل أو يعيّن الفاصل المستخدم في تنسيق التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا الفاصل.
 
 ```csharp
 public string Delimiter { get; set; }
@@ -19,3 +19,5 @@ public string Delimiter { get; set; }
 * class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

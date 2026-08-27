@@ -1,25 +1,27 @@
 ---
-title: ExportFieldsToJsonOptions.WriteIndented
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ExportFieldsToJsonOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تنسيق مخرجات Json
+title: "ExportFieldsToJsonOptions.WriteIndented"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ExportFieldsToJsonOptions. تحصل أو تعيين قيمة تشير إلى ما إذا كان يجب إزاحة إخراج Json"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/exportfieldstojsonoptions/writeindented/
 ---
-## خاصية ExportFieldsToJsonOptions.WriteIndented
+## ExportFieldsToJsonOptions.WriteIndented property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تنسيق مخرجات Json.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب تنسيق مخرجات Json بفراغات.
 
 ```csharp
 public bool WriteIndented { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-`true` إذا كان يجب تنسيق مخرجات Json؛ خلاف ذلك، `false`.
+`true` إذا كان إخراج Json يجب أن يكون مُسّطرًا؛ وإلا `false`.
 
 ### انظر أيضًا
 
 * class [ExportFieldsToJsonOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

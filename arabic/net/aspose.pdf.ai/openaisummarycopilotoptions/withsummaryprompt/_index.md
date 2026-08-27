@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithSummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تعيين موجه الملخص لخيارات مساعد الملخص
+title: "OpenAISummaryCopilotOptions.WithSummaryPrompt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. تعيين موجه الملخص لخيارات المساعد الملخص"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/withsummaryprompt/
 ---
-## طريقة OpenAISummaryCopilotOptions.WithSummaryPrompt
+## OpenAISummaryCopilotOptions.WithSummaryPrompt method
 
-تعيين موجه الملخص لخيارات مساعد الملخص.
+يضبط مطالبة الملخص لخيارات المساعد الملخص.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| summaryPrompt | String | موجه الملخص للتعيين. |
+| summaryPrompt | String | موجه الملخص لتعيينه. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

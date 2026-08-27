@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.MultiSelect
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChoiceField. تحصل أو تعين علامة التحديد المتعدد
+title: "ChoiceField.MultiSelect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChoiceField. يحصل أو يحدد علامة التحديد المتعدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/choicefield/multiselect/
 ---
-## خاصية ChoiceField.MultiSelect
+## ChoiceField.MultiSelect property
 
-تحصل أو تعين علامة التحديد المتعدد.
+يحصل أو يعيّن علامة التحديد المتعدد.
 
 ```csharp
 public bool MultiSelect { get; set; }
@@ -19,3 +19,5 @@ public bool MultiSelect { get; set; }
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

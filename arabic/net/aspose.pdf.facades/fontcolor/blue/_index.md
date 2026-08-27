@@ -1,14 +1,14 @@
 ---
-title: FontColor.Blue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontColor. مكون الأزرق من اللون
+title: "FontColor.Blue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontColor. المكوّن الأزرق للون"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/fontcolor/blue/
 ---
-## خاصية FontColor.Blue
+## FontColor.Blue property
 
-مكون الأزرق من اللون.
+المكوّن الأزرق للون.
 
 ```csharp
 public int Blue { get; set; }
@@ -19,3 +19,5 @@ public int Blue { get; set; }
 * class [FontColor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

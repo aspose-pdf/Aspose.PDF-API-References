@@ -1,22 +1,22 @@
 ---
-title: XmpPdfAExtensionProperty.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionProperty. تعيد قائمة عناصر xml التي تمثل خاصية في شجرة xml
+title: "XmpPdfAExtensionProperty.GetXml"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpPdfAExtensionProperty. تُرجع قائمة عناصر xml التي تمثل الخاصية في شجرة xml"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/xmppdfaextensionproperty/getxml/
 ---
-## طريقة XmpPdfAExtensionProperty.GetXml
+## XmpPdfAExtensionProperty.GetXml method
 
-تعيد قائمة عناصر xml التي تمثل خاصية في شجرة xml.
+يرجع قائمة عناصر XML التي تمثل الخاصية في شجرة XML.
 
 ```csharp
 public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | وثيقة xml المصدر. |
+| xmlDocument | XmlDocument | مستند xml المصدر. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المصفوفة. تنقل مصفوفة بمقدار محدد في اتجاه x و y
+title: "Matrix.Translate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. ينقل مصفوفة بالمقدار المحدد في اتجاهي x و y"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/matrix/translate/
 ---
-## طريقة Matrix.Translate
+## Matrix.Translate method
 
-تنقل مصفوفة بمقدار محدد في اتجاه x و y.
+ينقل المصفوفة بالمقدار المحدد في اتجاهي x و y.
 
 ```csharp
 public static Matrix Translate(double dx, double dy, Matrix source)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| dx | Double | المقدار الذي سيتم نقله في اتجاه x. |
-| dy | Double | المقدار الذي سيتم نقله في اتجاه y. |
-| source | Matrix | المصفوفة التي سيتم نقلها. |
+| dx | Double | المقدار المطلوب نقله في اتجاه x. |
+| dy | Double | المقدار المطلوب نقله في اتجاه y. |
+| المصدر | Matrix | المصفوفة المطلوب نقلها. |
 
 ### قيمة الإرجاع
 
@@ -29,3 +29,5 @@ public static Matrix Translate(double dx, double dy, Matrix source)
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

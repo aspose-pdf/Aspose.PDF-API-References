@@ -1,24 +1,24 @@
 ---
-title: TextDevice.TextDevice
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextDevice. يُهيئ مثيلًا جديدًا من TextDevice مع خيارات استخراج النص
+title: "TextDevice.TextDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextDevice. ينشئ مثيلاً جديدًا لـ TextDevice مع خيارات استخراج النص"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/textdevice/textdevice/
 ---
 ## TextDevice(TextExtractionOptions) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من [`TextDevice`](../) مع خيارات استخراج النص.
+ينشئ مثيلاً جديدًا لـ [`TextDevice`](../) مع خيارات استخراج النص.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | خيارات استخراج النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * class [TextDevice](../)
@@ -29,13 +29,13 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ## TextDevice() {#constructor}
 
-يُهيئ مثيلًا جديدًا من [`TextDevice`](../) مع وضع تنسيق النص الخام وترميز النص Unicode.
+ينشئ مثيلاً جديدًا لـ [`TextDevice`](../) مع وضع تنسيق النص Raw وترميز النص Unicode.
 
 ```csharp
 public TextDevice()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -45,17 +45,17 @@ public TextDevice()
 
 ## TextDevice(Encoding) {#constructor_3}
 
-يُهيئ مثيلًا جديدًا من [`TextDevice`](../) للترميز المحدد.
+ينشئ مثيلاً جديدًا لـ [`TextDevice`](../) للترميز المحدد.
 
 ```csharp
 public TextDevice(Encoding encoding)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| encoding | Encoding | ترميز النص المستخرج |
+| encoding | الترميز | ترميز النص المستخرج |
 
-### See Also
+### انظر أيضًا
 
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -65,20 +65,22 @@ public TextDevice(Encoding encoding)
 
 ## TextDevice(TextExtractionOptions, Encoding) {#constructor_2}
 
-يُهيئ مثيلًا جديدًا من [`TextDevice`](../) للترميز المحدد مع خيارات استخراج النص.
+ينشئ مثيلاً جديدًا لـ [`TextDevice`](../) للترميز المحدد مع خيارات استخراج النص.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | خيارات استخراج النص. |
-| encoding | Encoding | ترميز النص المستخرج. |
+| encoding | الترميز | ترميز النص المستخرج. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

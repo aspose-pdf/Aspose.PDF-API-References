@@ -1,26 +1,28 @@
 ---
-title: Class LlamaModels
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.LlamaModels. تحتوي على ثوابت تتعلق بنماذج لاما المختلفة
+title: "الفئة LlamaModels"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.LlamaModels. تحتوي على ثوابت متعلقة بنماذج Llama المختلفة"
 type: docs
-weight: 730
+weight: 780
 url: /ar/net/aspose.pdf.ai/llamamodels/
 ---
 ## LlamaModels class
 
-تحتوي على ثوابت تتعلق بنماذج لاما المختلفة.
+يحتوي على ثوابت متعلقة بنماذج Llama المختلفة.
 
 ```csharp
 public static class LlamaModels
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [Llama13BChat](../../aspose.pdf.ai/llamamodels/llama13bchat/) { get; } | نموذج الدردشة لاما 13b. |
+| static [Llama13BChat](../../aspose.pdf.ai/llamamodels/llama13bchat/) { get; } | نموذج Llama 13b للدردشة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

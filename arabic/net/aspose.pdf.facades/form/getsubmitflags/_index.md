@@ -1,26 +1,26 @@
 ---
-title: Form.GetSubmitFlags
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تعيد علامات تقديم أزرار الإرسال
+title: "Form.GetSubmitFlags"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تُعيد أعلام إرسال أزرار الإرسال"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.facades/form/getsubmitflags/
 ---
-## طريقة Form.GetSubmitFlags
+## Form.GetSubmitFlags method
 
-تعيد علامات تقديم زر الإرسال
+يعيد أعلام الإرسال لزر الإرسال
 
 ```csharp
 public SubmitFormFlag GetSubmitFlags(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل المؤهل. |
+| fieldName | String | اسم الحقل المؤهل. |
 
 ### قيمة الإرجاع
 
-علامات تقديم الزر.
+أعلام الإرسال للزر.
 
 ## أمثلة
 
@@ -37,3 +37,5 @@ System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

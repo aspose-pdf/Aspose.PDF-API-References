@@ -1,27 +1,27 @@
 ---
-title: FormEditor.SetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تعيين علامات الحقل
+title: "FormEditor.SetFieldAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تعيين أعلام الحقل"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/formeditor/setfieldappearance/
 ---
-## طريقة FormEditor.SetFieldAppearance
+## FormEditor.SetFieldAppearance method
 
-تعيين علامات الحقل
+حدد أعلام الحقل
 
 ```csharp
 public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | String | اسم الحقل الذي يجب تحديث علاماته. |
+| fieldName | String | اسم الحقل الذي يجب تحديث أعلامه. |
 | flags | AnnotationFlags | علامة الحقل. |
 
 ### قيمة الإرجاع
 
-true إذا تم تحديث العلامات بنجاح.
+صحيح إذا تم تحديث العلامات بنجاح.
 
 ## أمثلة
 
@@ -37,3 +37,5 @@ formEditor.SetFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

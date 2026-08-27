@@ -1,29 +1,31 @@
 ---
-title: Enum BlendingColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.BlendingColorSpace enum. تمثل هذه الفئة مساحة اللون المختلط
+title: "تعداد BlendingColorSpace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Facades.BlendingColorSpace enum. تمثل الفئة مساحة اللون للدمج"
 type: docs
-weight: 4180
+weight: 4300
 url: /ar/net/aspose.pdf.facades/blendingcolorspace/
 ---
 ## BlendingColorSpace enumeration
 
-تمثل هذه الفئة مساحة اللون المختلط.
+الفئة تمثل مساحة لون الدمج.
 
 ```csharp
 public enum BlendingColorSpace
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| DontChange | `0` | مساحة اللون المختلط لم تتغير. |
-| Auto | `1` | يتم تحديد مساحة اللون المختلط تلقائيًا. |
-| DeviceRGB | `2` | تم تعيين مساحة اللون المختلط إلى DeviceRGB. |
-| DeviceCMYK | `3` | تم تعيين مساحة اللون المختلط إلى DeviceCMYK. |
+| DontChange | `0` | لم يتم تغيير مساحة اللون للدمج. |
+| Auto | `1` | يتم تحديد مساحة اللون للدمج تلقائيًا. |
+| DeviceRGB | `2` | تم تعيين مساحة اللون للدمج إلى DeviceRGB. |
+| DeviceCMYK | `3` | تم تعيين مساحة اللون للدمج إلى DeviceCMYK. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

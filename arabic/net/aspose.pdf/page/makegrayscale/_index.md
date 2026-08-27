@@ -1,14 +1,14 @@
 ---
-title: Page.MakeGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تحويل الصفحة إلى تدرج الرمادي
+title: "Page.MakeGrayscale"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Page method. يحوّل الصفحة إلى تدرج الرمادي"
 type: docs
 weight: 500
 url: /ar/net/aspose.pdf/page/makegrayscale/
 ---
-## طريقة Page.MakeGrayscale
+## Page.MakeGrayscale method
 
-تحول الصفحة إلى تدرج الرمادي.
+يحول الصفحة إلى تدرجات الرمادي.
 
 ```csharp
 public void MakeGrayscale()
@@ -19,3 +19,5 @@ public void MakeGrayscale()
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

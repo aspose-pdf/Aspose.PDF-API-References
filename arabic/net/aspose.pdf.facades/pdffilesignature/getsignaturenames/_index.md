@@ -1,26 +1,26 @@
 ---
-title: PdfFileSignature.GetSignatureNames
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تحصل على أسماء جميع التوقيعات غير الفارغة
+title: "PdfFileSignature.GetSignatureNames"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. تحصل على أسماء جميع التوقيعات غير الفارغة"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.facades/pdffilesignature/getsignaturenames/
 ---
-## طريقة PdfFileSignature.GetSignatureNames
+## PdfFileSignature.GetSignatureNames method
 
-تحصل على أسماء جميع التوقيعات غير الفارغة.
+يحصل على أسماء جميع التوقيعات غير الفارغة.
 
 ```csharp
 public IList<SignatureName> GetSignatureNames(bool onlyActive = true)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| onlyActive | Boolean | إذا كانت القيمة صحيحة، ارجع فقط التوقيعات النشطة؛ خلاف ذلك، ارجع جميع التوقيعات. |
+| onlyActive | Boolean | إذا كان true، إرجاع التوقيعات النشطة فقط؛ وإلا، إرجاع جميع التوقيعات. |
 
 ### قيمة الإرجاع
 
-ترجع IList&lt;SignatureName&gt;.
+إرجاع IList&lt;SignatureName&gt;.
 
 ## أمثلة
 
@@ -65,3 +65,5 @@ Console.WriteLine("totalvision:" + pdfSign.GetTotalRevision())
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

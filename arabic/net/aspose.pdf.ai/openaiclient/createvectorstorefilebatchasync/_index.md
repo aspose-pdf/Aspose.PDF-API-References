@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تنشئ دفعة جديدة من ملفات تخزين المتجهات بشكل غير متزامن
+title: "OpenAIClient.CreateVectorStoreFileBatchAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تنشئ دفعة ملفات مخزن المتجهات جديدة بشكل غير متزامن"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.ai/openaiclient/createvectorstorefilebatchasync/
 ---
-## طريقة OpenAIClient.CreateVectorStoreFileBatchAsync
+## OpenAIClient.CreateVectorStoreFileBatchAsync method
 
-تنشئ دفعة جديدة من ملفات تخزين المتجهات بشكل غير متزامن.
+ينشئ دفعة ملفات مخزن متجه جديد بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -16,9 +16,9 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreId | String | معرف تخزين المتجهات حيث سيتم إنشاء دفعة الملفات. |
+| vectorStoreId | String | معرّف مخزن المتجهات حيث سيتم إنشاء دفعة الملفات. |
 | vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | كائن الطلب الذي يحتوي على تفاصيل إنشاء دفعة الملفات. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
@@ -28,9 +28,9 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف تخزين المتجهات فارغًا أو غير موجود. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف مخزن المتجهات فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -39,3 +39,5 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

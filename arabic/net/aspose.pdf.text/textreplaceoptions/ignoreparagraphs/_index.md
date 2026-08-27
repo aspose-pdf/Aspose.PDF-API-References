@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.IgnoreParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextReplaceOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تجاهل الفقرات المتميزة عند ضبط النص على الصفحة بعد استبدال النص
+title: "TextReplaceOptions.IgnoreParagraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextReplaceOptions. يحصل أو يضبط قيمة تشير إلى ما إذا كان يجب تجاهل الفقرات المتميزة عند تعديل النص على الصفحة بعد استبدال النص"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.pdf.text/textreplaceoptions/ignoreparagraphs/
 ---
-## خاصية TextReplaceOptions.IgnoreParagraphs
+## TextReplaceOptions.IgnoreParagraphs property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تجاهل الفقرات المتميزة عند ضبط النص على الصفحة بعد استبدال النص.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب تجاهل الفقرات المتميزة عند ضبط النص على الصفحة بعد استبدال النص.
 
 ```csharp
 public bool IgnoreParagraphs { get; set; }
@@ -19,3 +19,5 @@ public bool IgnoreParagraphs { get; set; }
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

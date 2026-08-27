@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A3Extra
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق A3 الإضافي 322 مم × 445 مم
+title: "PaperSizes.A3Extra"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورقة A3 extra 322 مم × 445 مم"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.printing/papersizes/a3extra/
 ---
-## حقل PaperSizes.A3Extra
+## PaperSizes.A3Extra field
 
-ورق A3 الإضافي (322 مم × 445 مم).
+ورق A3 إضافي (322 مم × 445 مم).
 
 ```csharp
 public static readonly PaperSize A3Extra;
@@ -20,3 +20,5 @@ public static readonly PaperSize A3Extra;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

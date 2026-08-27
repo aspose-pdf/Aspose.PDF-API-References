@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تضبط حجم الخط. القيمة الافتراضية 10
+title: "SignatureCustomAppearance.FontSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط حجم الخط. القيمة الافتراضية 10"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 ---
-## خاصية SignatureCustomAppearance.FontSize
+## SignatureCustomAppearance.FontSize property
 
-تحصل/تضبط حجم الخط. القيمة الافتراضية: 10.
+الحصول/التعيين لحجم الخط. القيمة الافتراضية: 10.
 
 ```csharp
 public double FontSize { get; set; }
@@ -19,3 +19,5 @@ public double FontSize { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

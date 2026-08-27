@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginInfo.RightMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: حقل MarginInfo. يمثل هامش الصفحة الأيمن إذا كان موجودًا
+title: "SaveOptions.MarginInfo.RightMarginIfAny"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل MarginInfo. يمثل الهامش الأيمن للصفحة إذا كان موجودًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/saveoptions.margininfo/rightmarginifany/
 ---
-## حقل SaveOptions.MarginInfo.RightMarginIfAny
+## SaveOptions.MarginInfo.RightMarginIfAny field
 
-يمثل هامش الصفحة الأيمن (إذا كان موجودًا)
+يمثّل هامش الصفحة الأيمن (إن وجد)
 
 ```csharp
 public MarginPartStyle RightMarginIfAny;
@@ -20,3 +20,5 @@ public MarginPartStyle RightMarginIfAny;
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

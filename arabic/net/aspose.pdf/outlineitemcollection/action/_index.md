@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Action
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. يحصل أو يحدد الإجراء لهذا العنصر في المخطط
+title: "OutlineItemCollection.Action"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineItemCollection. تحصل أو تعيين الإجراء لهذا العنصر المخطط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/outlineitemcollection/action/
 ---
-## خاصية OutlineItemCollection.Action
+## OutlineItemCollection.Action property
 
-يحصل أو يحدد الإجراء لهذا العنصر في المخطط.
+يحصل أو يعيّن الإجراء لهذا العنصر في المخطط.
 
 ```csharp
 public PdfAction Action { get; set; }
@@ -20,3 +20,5 @@ public PdfAction Action { get; set; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

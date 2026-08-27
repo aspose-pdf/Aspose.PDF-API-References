@@ -1,14 +1,14 @@
 ---
-title: RadioButtonOptionField.RadioButtonOptionField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RadioButtonOptionField. إنشاء مثيل جديد من RadioButtonOptionField
+title: "RadioButtonOptionField.RadioButtonOptionField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RadioButtonOptionField. إنشاء نسخة جديدة من RadioButtonOptionField"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/radiobuttonoptionfield/radiobuttonoptionfield/
 ---
 ## RadioButtonOptionField() {#constructor}
 
-إنشاء مثيل جديد من RadioButtonOptionField.
+إنشاء نسخة جديدة من RadioButtonOptionField.
 
 ```csharp
 public RadioButtonOptionField()
@@ -24,16 +24,16 @@ public RadioButtonOptionField()
 
 ## RadioButtonOptionField(Page, Rectangle) {#constructor_1}
 
-يُنشئ زر اختيار في المستطيل المحدد في الصفحة المحددة.
+ينشئ radiobutton في المستطيل المحدد على الصفحة المحددة.
 
 ```csharp
 public RadioButtonOptionField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع زر الاختيار فيها؛ |
-| rect | Rectangle | مستطيل زر الاختيار. |
+| صفحة | صفحة | Page التي سيُوضع فيها RadioButton؛ |
+| rect | Rectangle | Rectangle لـ RadioButton. |
 
 ### انظر أيضًا
 
@@ -42,3 +42,5 @@ public RadioButtonOptionField(Page page, Rectangle rect)
 * class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

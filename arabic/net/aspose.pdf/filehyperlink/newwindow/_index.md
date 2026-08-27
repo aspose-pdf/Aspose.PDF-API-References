@@ -1,14 +1,14 @@
 ---
-title: FileHyperlink.NewWindow
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileHyperlink. تحصل أو تعين علامة تحدد ما إذا كان يجب فتح المستند الوجهة في نافذة جديدة
+title: "FileHyperlink.NewWindow"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileHyperlink. تحصل أو تعين علامة تحدد ما إذا كان سيتم فتح المستند الهدف في نافذة جديدة (ينطبق فقط على مستندات PDF)."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/filehyperlink/newwindow/
 ---
-## خاصية FileHyperlink.NewWindow
+## FileHyperlink.NewWindow property
 
-تحصل أو تعين علامة تحدد ما إذا كان يجب فتح المستند الوجهة في نافذة جديدة (تؤثر فقط على مستندات PDF).
+يحصل أو يضبط علامة تحدد ما إذا كان سيتم فتح المستند الهدف في نافذة جديدة (يؤثر على مستندات PDF فقط).
 
 ```csharp
 public ExtendedBoolean NewWindow { get; set; }
@@ -20,3 +20,5 @@ public ExtendedBoolean NewWindow { get; set; }
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

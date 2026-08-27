@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.OptimizationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ خيارات التحسين. المُنشئ الافتراضي
+title: "OptimizationOptions.OptimizationOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ OptimizationOptions. المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.optimization/optimizationoptions/optimizationoptions/
 ---
-## مُنشئ خيارات التحسين
+## OptimizationOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public OptimizationOptions()
@@ -16,6 +16,8 @@ public OptimizationOptions()
 
 ### انظر أيضًا
 
-* class [خيارات التحسين](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

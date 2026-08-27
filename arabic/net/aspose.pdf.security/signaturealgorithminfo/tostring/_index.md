@@ -1,14 +1,14 @@
 ---
-title: SignatureAlgorithmInfo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SignatureAlgorithmInfo. تحويل كائن المعلومات الحالي إلى تمثيله النصي
+title: "SignatureAlgorithmInfo.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SignatureAlgorithmInfo. تحول كائن المعلومات الحالي إلى تمثيله النصي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.security/signaturealgorithminfo/tostring/
 ---
-## طريقة SignatureAlgorithmInfo.ToString
+## SignatureAlgorithmInfo.ToString method
 
-تحول كائن المعلومات الحالي إلى تمثيله النصي.
+يحوّل كائن المعلومات الحالي إلى تمثيله كسلسلة.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

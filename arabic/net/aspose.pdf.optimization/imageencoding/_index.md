@@ -1,14 +1,14 @@
 ---
-title: Enum ImageEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Optimization.ImageEncoding enum. أنواع ترميز الصور
+title: "Enum ImageEncoding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Optimization.ImageEncoding تعداد. أنواع ترميز Image."
 type: docs
-weight: 7970
+weight: 8110
 url: /ar/net/aspose.pdf.optimization/imageencoding/
 ---
-## تعداد ImageEncoding
+## ImageEncoding enumeration
 
-أنواع ترميز الصور.
+أنواع ترميز الصورة.
 
 ```csharp
 public enum ImageEncoding
@@ -18,12 +18,14 @@ public enum ImageEncoding
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Unchanged | `0` | لا تغير الترميز. |
+| Unchanged | `0` | لا تقم بتغيير encoding. |
 | Jpeg | `1` | ترميز JPEG (DCT). |
 | Flate | `2` | ترميز Flate. |
 | Jpeg2000 | `3` | ترميز JPEG2000 (JPX). |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)
+
+

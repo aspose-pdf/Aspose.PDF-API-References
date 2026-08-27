@@ -1,20 +1,20 @@
 ---
-title: OutlineCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineCollection. يحصل على عنصر المخطط من المجموعة حسب الفهرس
+title: "OutlineCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineCollection. تحصل على عنصر مخطط من المجموعة حسب الفهرس"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/outlinecollection/item/
 ---
-## فهرس OutlineCollection
+## OutlineCollection indexer
 
-يحصل على عنصر المخطط من المجموعة حسب الفهرس.
+يحصل على عنصر مخطط من المجموعة حسب الفهرس.
 
 ```csharp
 public OutlineItemCollection this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس العنصر المطلوب. |
 
@@ -24,3 +24,5 @@ public OutlineItemCollection this[int index] { get; }
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

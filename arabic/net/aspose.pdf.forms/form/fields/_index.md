@@ -1,14 +1,14 @@
 ---
-title: Form.Fields
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تحصل على قائمة بجميع الحقول في أدنى مستوى من النموذج الهيكلي
+title: "Form.Fields"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. يحصل على قائمة بجميع الحقول في أدنى مستوى من النموذج الهرمي."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.forms/form/fields/
 ---
-## خاصية Form.Fields
+## Form.Fields property
 
-تحصل على قائمة بجميع الحقول في أدنى مستوى من النموذج الهيكلي.
+يحصل على قائمة بجميع الحقول في أدنى مستوى من النموذج الهرمي.
 
 ```csharp
 public Field[] Fields { get; }
@@ -20,3 +20,5 @@ public Field[] Fields { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

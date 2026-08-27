@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة RedactionAnnotation. تقوم بتسوية التعليق، أي إزالة التعليق وإضافة
+title: "RedactionAnnotation.Flatten"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة RedactionAnnotation. تسوي التعليق أي تُزيل التعليق وتضيف ما له"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/redactionannotation/flatten/
 ---
-## طريقة RedactionAnnotation.Flatten
+## RedactionAnnotation.Flatten method
 
-تقوم بتسوية التعليق، أي إزالة التعليق وإضافة
+يقوم بتسطيح التعليق أي يزيل التعليق ويضيف ما له
 
 ```csharp
 public override void Flatten()
@@ -19,3 +19,5 @@ public override void Flatten()
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

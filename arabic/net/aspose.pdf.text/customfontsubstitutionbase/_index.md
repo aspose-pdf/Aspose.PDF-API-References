@@ -1,39 +1,41 @@
 ---
-title: Class CustomFontSubstitutionBase
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.CustomFontSubstitutionBase. تمثل فئة أساسية لاستراتيجية استبدال الخطوط المخصصة
+title: "الفئة CustomFontSubstitutionBase"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.CustomFontSubstitutionBase. تمثل فئة أساسية لاستراتيجية استبدال الخطوط المخصصة"
 type: docs
-weight: 10470
+weight: 10650
 url: /ar/net/aspose.pdf.text/customfontsubstitutionbase/
 ---
 ## CustomFontSubstitutionBase class
 
-تمثل فئة أساسية لاستراتيجية استبدال الخطوط المخصصة.
+يمثل فئة أساسية لاستراتيجية استبدال الخطوط المخصصة.
 
 ```csharp
 public class CustomFontSubstitutionBase : FontSubstitution
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CustomFontSubstitutionBase](customfontsubstitutionbase/)() | المُنشئ الافتراضي. |
+| [CustomFontSubstitutionBase](customfontsubstitutionbase/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute/)(OriginalFontSpecification, out Font) | يستبدل الخط الأصلي بخط آخر. |
 
-## Other Members
+## الأعضاء الآخرين
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | class [OriginalFontSpecification](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | تمثل مواصفات الخط الأصلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

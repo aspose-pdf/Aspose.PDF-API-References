@@ -1,24 +1,24 @@
 ---
-title: OpenAIChatCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تنشئ مثيلًا جديدًا من OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.Create"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. تنشئ نموذجًا جديدًا من OpenAIChatCopilotOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/create/
 ---
 ## Create() {#create}
 
-تنشئ مثيلًا جديدًا من [`OpenAIChatCopilotOptions`](../).
+ينشئ مثيلاً جديدًا من [`OpenAIChatCopilotOptions`](../).
 
 ```csharp
 public static OpenAIChatCopilotOptions Create()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 مثيل جديد من [`OpenAIChatCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,22 +28,24 @@ public static OpenAIChatCopilotOptions Create()
 
 ## Create(Action&lt;OpenAIChatCopilotOptions&gt;) {#create_1}
 
-تنشئ مثيلًا من [`OpenAIChatCopilotOptions`](../) وتقوم بتكوينه باستخدام المفوض المقدم.
+ينشئ مثيلاً من [`OpenAIChatCopilotOptions`](../) ويقوم بتكوينه باستخدام المفوض المقدم.
 
 ```csharp
 public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| config | Action`1 | المفوض لتكوين الخيارات. |
+| تهيئة | Action`1 | المفوض لتكوين الخيارات. |
 
-### Return Value
+### قيمة الإرجاع
 
-المثيل المكون من [`OpenAIChatCopilotOptions`](../).
+المثيل المُكوَّن من [`OpenAIChatCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,30 @@
 ---
-title: Enum LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LineBreakStyle enum. يمثل أنماط كسر السطر الممكنة لملف
+title: "عدد LineBreakStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.LineBreakStyle. يمثل أنماط فواصل السطر الممكنة لملف"
 type: docs
-weight: 6100
+weight: 6240
 url: /ar/net/aspose.pdf/linebreakstyle/
 ---
 ## LineBreakStyle enumeration
 
-يمثل أنماط كسر السطر الممكنة لملف.
+يمثل أنماط فواصل الأسطر الممكنة لملف.
 
 ```csharp
 public enum LineBreakStyle
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Windows | `0` | يختار نمط لف السلسلة في ويندوز (CRLF). |
-| Unix | `1` | يختار نمط لف السلسلة في يونكس (LF). يستخدم أيضًا لنظام OSX. |
-| Auto | `2` | يختار تلقائيًا نوع لف السلسلة بناءً على نظام التشغيل. |
+| Windows | `0` | يختار نمط تغليف السلاسل في Windows (CRLF). |
+| Unix | `1` | يختار نمط تغليف السلاسل في Unix (LF). يُستخدم أيضًا لنظام OSX. |
+| Auto | `2` | يختار تلقائيًا نوع تغليف السلاسل بناءً على نظام التشغيل. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

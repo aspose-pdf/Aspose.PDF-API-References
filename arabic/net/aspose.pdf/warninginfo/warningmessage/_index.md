@@ -1,14 +1,14 @@
 ---
-title: WarningInfo.WarningMessage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WarningInfo. تعيد تمثيل سلسلة لرسالة التحذير
+title: "WarningInfo.WarningMessage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WarningInfo. تُعيد تمثيل النص لرسالة التحذير"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/warninginfo/warningmessage/
 ---
-## خاصية WarningInfo.WarningMessage
+## WarningInfo.WarningMessage property
 
-تعيد تمثيل سلسلة لرسالة التحذير.
+يرجع تمثيل النص لرسالة التحذير.
 
 ```csharp
 public string WarningMessage { get; }
@@ -23,3 +23,5 @@ public string WarningMessage { get; }
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

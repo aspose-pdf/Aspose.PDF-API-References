@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableTRElement. تحصل أو تعين المحاذاة الرأسية
+title: "TableTRElement.VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableTRElement. تحصل أو تعين المحاذاة العمودية"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.logicalstructure/tabletrelement/verticalalignment/
 ---
-## خاصية TableTRElement.VerticalAlignment
+## TableTRElement.VerticalAlignment property
 
-تحصل أو تعين المحاذاة الرأسية.
+الحصول أو تعيين المحاذاة العمودية.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: PDF3DViewArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DViewArray. تحصل على عدد العروض
+title: "PDF3DViewArray.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DViewArray. يحصل على عدد العروض"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdf3dviewarray/count/
 ---
-## خاصية PDF3DViewArray.Count
+## PDF3DViewArray.Count property
 
-تحصل على عدد العروض.
+يحصل على عدد العروض.
 
 ```csharp
 public int Count { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 عدد العروض.
 
@@ -23,3 +23,5 @@ public int Count { get; }
 * class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,31 +1,33 @@
 ---
-title: BoundsCheckableList1.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BoundsCheckableList. تزيل العنصر عند الفهرس المحدد من System.Collections.Generic.List
+title: "BoundsCheckableList1.RemoveAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BoundsCheckableList. تزيل العنصر في الفهرس المحدد من System.Collections.Generic.List"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/boundscheckablelist-1/removeat/
 ---
 ## BoundsCheckableList&lt;T&gt;.RemoveAt method
 
-تزيل العنصر عند الفهرس المحدد من System.Collections.Generic.List.
+يزيل العنصر عند الفهرس المحدد في System.Collections.Generic.List.
 
 ```csharp
 public void RemoveAt(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | الفهرس المعتمد على الصفر للعنصر الذي سيتم إزالته. |
+| index | Int32 | الفهرس الصفري للعنصر المراد إزالته. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | *index* أقل من 0. -أو- *index* يساوي أو أكبر من Count. |
+| ArgumentOutOfRangeException | *index* أصغر من 0. -or- *index* يساوي أو أكبر من Count. |
 
-### See Also
+### انظر أيضًا
 
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

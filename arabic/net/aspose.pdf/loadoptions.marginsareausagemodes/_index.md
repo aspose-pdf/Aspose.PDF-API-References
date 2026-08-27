@@ -1,28 +1,30 @@
 ---
-title: Enum LoadOptions.MarginsAreaUsageModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsMarginsAreaUsageModes enum. يمثل وضع استخدام منطقة الهوامش أثناء التحويل مثل HTML EPUB وما إلى ذلك، ويحدد معالجة التعليمات الخاصة بالتنسيق المستورد المتعلقة باستخدام الهوامش
+title: "تعداد LoadOptions.MarginsAreaUsageModes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.LoadOptionsMarginsAreaUsageModes. يمثل وضعية استخدام مساحة الهوامش أثناء التحويل مثل HTML و EPUB وغيرها، ويحدد معالجة تعليمات التنسيق المستورد المتعلقة باستخدام الهوامش"
 type: docs
-weight: 6130
+weight: 6270
 url: /ar/net/aspose.pdf/loadoptions.marginsareausagemodes/
 ---
 ## LoadOptions.MarginsAreaUsageModes enumeration
 
-يمثل وضع استخدام منطقة الهوامش أثناء التحويل (مثل HTML، EPUB وما إلى ذلك)، ويحدد معالجة التعليمات الخاصة بالتنسيق المستورد المتعلقة باستخدام الهوامش.
+يمثل وضعية استخدام مساحة الهوامش أثناء التحويل (مثل HTML و EPUB وغيرها)، ويحدد معالجة تعليمات التنسيق المستورد المتعلقة باستخدام الهوامش.
 
 ```csharp
 public enum MarginsAreaUsageModes
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| PutContentOnMarginAreaIfNecessary | `0` | في هذا الوضع، يطيع المحول تنسيق المستند المستورد (مثل CSS من HTML المستورد) في استخدام منطقة الهوامش. لذا، إذا كان تنسيق المستند المستورد يتطلب استخدام منطقة الهوامش للتقديم، سيسمح المحول بذلك |
-| NeverPutContentOnMarginArea | `1` | هذا الوضع يمنع بشكل صارم استخدام منطقة الهوامش، لذا، لن يستخدم المحول منطقة الهوامش للتقديم، حتى إذا كان CSS أو تنسيق المستند المصدر يسمح أو يتطلب ذلك |
+| PutContentOnMarginAreaIfNecessary | `0` | في هذا الوضع يلتزم المحول بتنسيق المستند المستورد (على سبيل المثال CSS للـ HTML المستورد) في استخدام مساحة الهوامش. لذلك، إذا كان تنسيق المستند المستورد يتطلب استخدام مساحة الهوامش للعرض، سيسمح المحول بذلك |
+| NeverPutContentOnMarginArea | `1` | هذا الوضع يمنع تمامًا استخدام مساحة الهوامش، لذا لن يستخدم المحول مساحة الهوامش للعرض أبدًا، حتى إذا كان CSS أو تنسيق المستند الأصلي يسمح بذلك أو يتطلبه |
 
-### See Also
+### انظر أيضًا
 
 * class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

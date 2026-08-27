@@ -1,37 +1,39 @@
 ---
-title: Class ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ToolChoice. تمثل ToolChoice التي يمكن أن تكون إما قيمة سلسلة أو قيمة كائن
+title: "الفئة ToolChoice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.ToolChoice. تمثل ToolChoice التي يمكن أن تكون إما قيمة نصية أو قيمة كائن."
 type: docs
-weight: 1210
+weight: 1300
 url: /ar/net/aspose.pdf.ai/toolchoice/
 ---
 ## ToolChoice class
 
-تمثل ToolChoice، التي يمكن أن تكون إما قيمة سلسلة أو قيمة كائن.
+يمثل خيار الأداة (ToolChoice)، والذي يمكن أن يكون إما قيمة نصية أو قيمة كائن.
 
 ```csharp
 public class ToolChoice : IStringOrObject<ObjectType>
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ToolChoice](toolchoice/)() | المُنشئ الافتراضي. |
+| [ToolChoice](toolchoice/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [IsObjectValue](../../aspose.pdf.ai/toolchoice/isobjectvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت ToolChoice هي قيمة كائن. |
-| [IsStringValue](../../aspose.pdf.ai/toolchoice/isstringvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت ToolChoice هي قيمة سلسلة. |
-| [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | يحصل على أو يحدد قيمة الكائن لـ ToolChoice. |
-| [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | يحصل على أو يحدد قيمة السلسلة لـ ToolChoice. |
+| [IsObjectValue](../../aspose.pdf.ai/toolchoice/isobjectvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان ToolChoice قيمة كائن. |
+| [IsStringValue](../../aspose.pdf.ai/toolchoice/isstringvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان ToolChoice قيمة نصية. |
+| [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | يحصل أو يضبط قيمة الكائن لـ ToolChoice. |
+| [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | يحصل أو يضبط قيمة النص لـ ToolChoice. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
 * class [ObjectType](../toolchoice.objecttype/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

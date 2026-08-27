@@ -1,14 +1,14 @@
 ---
-title: PdfAConvertOptions.PdfAConvertOptions
-second_title: Aspose.PDF for .NET API Reference
-description: منشئ PdfAConvertOptions. المنشئ الافتراضي
+title: "PdfAConvertOptions.PdfAConvertOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfAConvertOptions. المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/pdfaconvertoptions/pdfaconvertoptions/
 ---
-## منشئ PdfAConvertOptions
+## PdfAConvertOptions constructor
 
-المنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PdfAConvertOptions()
@@ -16,6 +16,8 @@ public PdfAConvertOptions()
 
 ### انظر أيضًا
 
-* الفئة [PdfAConvertOptions](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [PdfAConvertOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

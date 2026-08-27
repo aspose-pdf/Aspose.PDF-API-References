@@ -1,14 +1,14 @@
 ---
-title: Color.OldLace
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFFDF5E6
+title: "Color.OldLace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB هي c FFFDF5E6"
 type: docs
 weight: 980
 url: /ar/net/aspose.pdf/color/oldlace/
 ---
-## خاصية Color.OldLace
+## Color.OldLace property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFFDF5E6.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFFDF5E6.
 
 ```csharp
 public static Color OldLace { get; }
@@ -16,10 +16,12 @@ public static Color OldLace { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

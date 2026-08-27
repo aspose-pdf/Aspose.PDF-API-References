@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تنشئ مخزن متجه جديد بشكل غير متزامن
+title: "IOpenAIClient.CreateVectorStoreAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تُنشئ مخزن متجهات جديد بشكل غير متزامن"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.ai/iopenaiclient/createvectorstoreasync/
 ---
-## طريقة IOpenAIClient.CreateVectorStoreAsync
+## IOpenAIClient.CreateVectorStoreAsync method
 
-تنشئ مخزن متجه جديد بشكل غير متزامن.
+ينشئ مخزنًا متجهًا جديدًا بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAsync(
@@ -16,14 +16,14 @@ public Task<VectorStoreResponse> CreateVectorStoreAsync(
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | كائن الطلب الذي يحتوي على تفاصيل إنشاء مخزن المتجه. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | كائن الطلب الذي يحتوي على تفاصيل إنشاء مخزن المتجهات. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من إنشاء مخزن المتجه.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من إنشاء مخزن المتجهات.
 
 ### انظر أيضًا
 
@@ -32,3 +32,5 @@ public Task<VectorStoreResponse> CreateVectorStoreAsync(
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

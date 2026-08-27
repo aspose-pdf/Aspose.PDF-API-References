@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.UseImageHtmlTag
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkdownSaveOptions. تحصل على وتضبط السماح باستخدام علامة img لإدراج الصور إلى اليسار واليمين من النص. في هذه الحالة، في عارض Markdown، سيتحول النص حول الصورة.
+title: "MarkdownSaveOptions.UseImageHtmlTag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkdownSaveOptions. تحصل وتحدد السماح باستخدام وسم img لإدراج الصور إلى يسار أو يمين النص. في هذه الحالة، سيُلف النص حول الصورة في عارض markdown."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/markdownsaveoptions/useimagehtmltag/
 ---
-## خاصية MarkdownSaveOptions.UseImageHtmlTag
+## MarkdownSaveOptions.UseImageHtmlTag property
 
-تحصل على وتضبط السماح باستخدام علامة img لإدراج الصور إلى اليسار واليمين من النص. في هذه الحالة، في عارض Markdown، سيتحول النص حول الصورة.
+يحصل ويضبط السماح باستخدام وسم img لإدراج الصور إلى يسار أو يمين النص. في هذه الحالة، في عارض markdown، سيلتف النص حول الصورة.
 
 ```csharp
 public bool UseImageHtmlTag { get; set; }
@@ -19,3 +19,5 @@ public bool UseImageHtmlTag { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

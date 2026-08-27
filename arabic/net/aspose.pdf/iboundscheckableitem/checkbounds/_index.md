@@ -1,30 +1,32 @@
 ---
-title: IBoundsCheckableItem.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IBoundsCheckableItem. تتحقق مما إذا كان العنصر يناسب أبعاد الحاوية المعطاة بما في ذلك
+title: "IBoundsCheckableItem.CheckBounds"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IBoundsCheckableItem. تتحقق مما إذا كان العنصر يتناسب مع أبعاد الحاوية المعطاة شاملًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/iboundscheckableitem/checkbounds/
 ---
-## طريقة IBoundsCheckableItem.CheckBounds
+## IBoundsCheckableItem.CheckBounds method
 
-تتحقق مما إذا كان العنصر يناسب أبعاد الحاوية المعطاة (بما في ذلك).
+يتحقق مما إذا كان العنصر يتناسب مع أبعاد الحاوية المحددة (شاملة).
 
 ```csharp
 public bool CheckBounds(double containerWidth, double containerHeight)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | containerWidth | Double | عرض الحاوية. |
 | containerHeight | Double | ارتفاع الحاوية. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان يناسب؛ خلاف ذلك، خطأ.
+صحيح إذا كان يتناسب؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
-* الواجهة [IBoundsCheckableItem](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IBoundsCheckableItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

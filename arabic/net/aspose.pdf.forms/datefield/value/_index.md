@@ -1,14 +1,14 @@
 ---
-title: DateField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DateField. الحصول على التاريخ أو تعيينه
+title: "DateField.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DateField. يحصل أو يضبط التاريخ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/datefield/value/
 ---
-## خاصية DateField.Value
+## DateField.Value property
 
-الحصول على التاريخ أو تعيينه.
+الحصول أو التعيين للتاريخ.
 
 ```csharp
 public DateTime Value { get; set; }
@@ -19,3 +19,5 @@ public DateTime Value { get; set; }
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

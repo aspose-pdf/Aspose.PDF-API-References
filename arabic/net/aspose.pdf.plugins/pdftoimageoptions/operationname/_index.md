@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToImageOptions. تعيد اسم العملية
+title: "PdfToImageOptions.OperationName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToImageOptions. تُرجع اسم العملية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/pdftoimageoptions/operationname/
 ---
-## خاصية PdfToImageOptions.OperationName
+## PdfToImageOptions.OperationName property
 
-تعيد اسم العملية.
+يرجع اسم العملية.
 
 ```csharp
 public virtual string OperationName { get; }
@@ -19,3 +19,5 @@ public virtual string OperationName { get; }
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XpsSaveOptions.XpsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XpsSaveOptions. المُنشئ الافتراضي
+title: "XpsSaveOptions.XpsSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XpsSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xpssaveoptions/xpssaveoptions/
 ---
-## مُنشئ XpsSaveOptions
+## XpsSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public XpsSaveOptions()
@@ -19,3 +19,5 @@ public XpsSaveOptions()
 * class [XpsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfQueryPageSettingsEventArgs. يقوم بتهيئة مثيل جديد من فئة PdfQueryPageSettingsEventArgs
+title: "PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfQueryPageSettingsEventArgs. يهيئ مثيلاً جديداً من الفئة PdfQueryPageSettingsEventArgs"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pdfquerypagesettingseventargs/
 ---
-## مُنشئ PdfQueryPageSettingsEventArgs
+## PdfQueryPageSettingsEventArgs constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`PdfQueryPageSettingsEventArgs`](../).
+يهيئ مثيلاً جديداً من الفئة [`PdfQueryPageSettingsEventArgs`](../).
 
 ```csharp
 public PdfQueryPageSettingsEventArgs(PageSettings pageSettings)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSettings | PageSettings | إعدادات الصفحة للصفحة التي سيتم طباعتها. |
 
 ### انظر أيضًا
 
-* فئة [PageSettings](../../pagesettings/)
-* فئة [PdfQueryPageSettingsEventArgs](../)
-* مساحة الأسماء [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* التجميع [Aspose.PDF](../../../)
+* class [PageSettings](../../pagesettings/)
+* class [PdfQueryPageSettingsEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormattedText.TextHeight
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormattedText. تحصل على ارتفاع النص
+title: "FormattedText.TextHeight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormattedText. تحصل على ارتفاع النص."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/formattedtext/textheight/
 ---
-## خاصية FormattedText.TextHeight
+## FormattedText.TextHeight property
 
-تحصل على ارتفاع النص.
+يحصل على ارتفاع النص.
 
 ```csharp
 public float TextHeight { get; }
@@ -19,3 +19,5 @@ public float TextHeight { get; }
 * class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

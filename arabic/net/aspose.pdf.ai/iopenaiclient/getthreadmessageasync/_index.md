@@ -1,24 +1,24 @@
 ---
-title: IOpenAIClient.GetThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تسترجع تفاصيل رسالة معينة داخل سلسلة بشكل غير متزامن
+title: "IOpenAIClient.GetThreadMessageAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تسترجع تفاصيل رسالة محددة داخل خيط بشكل غير متزامن"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.ai/iopenaiclient/getthreadmessageasync/
 ---
-## طريقة IOpenAIClient.GetThreadMessageAsync
+## IOpenAIClient.GetThreadMessageAsync method
 
-تسترجع تفاصيل رسالة معينة داخل سلسلة بشكل غير متزامن.
+يسترجع تفاصيل رسالة محددة داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string threadMessageId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | سلسلة | معرف السلسلة التي تحتوي على الرسالة. |
-| threadMessageId | سلسلة | معرف الرسالة التي يجب استرجاعها. |
+| threadId | String | معرّف الخيط الذي يحتوي على الرسالة. |
+| threadMessageId | String | معرّف الرسالة المراد استرجاعها. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
@@ -27,10 +27,10 @@ public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف السلسلة فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف رسالة السلسلة فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف رسالة الخيط null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,23 +1,23 @@
 ---
-title: PdfBookmarkEditor.ModifyBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfBookmarkEditor. تعدل عنوان الإشارة المرجعية وفقًا لعنوان الإشارة المرجعية المحدد
+title: "PdfBookmarkEditor.ModifyBookmarks"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfBookmarkEditor. تعدّل عنوان العلامة المرجعية وفقًا للعنوان المحدد للعلامة المرجعية"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/
 ---
-## طريقة PdfBookmarkEditor.ModifyBookmarks
+## PdfBookmarkEditor.ModifyBookmarks method
 
-تعدل عنوان الإشارة المرجعية وفقًا لعنوان الإشارة المرجعية المحدد.
+يعدّل عنوان bookmark وفقًا للعنوان المحدد للbookmark.
 
 ```csharp
 public void ModifyBookmarks(string sTitle, string dTitle)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| sTitle | سلسلة | عنوان الإشارة المرجعية المصدر. |
-| dTitle | سلسلة | عنوان الإشارة المرجعية المعدل. |
+| sTitle | String | عنوان العلامة المرجعية المصدر. |
+| dTitle | String | عنوان العلامة المرجعية المعدل. |
 
 ## أمثلة
 
@@ -33,3 +33,5 @@ editor.Save("example_out.pdf");
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

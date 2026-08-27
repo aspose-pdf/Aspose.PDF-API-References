@@ -1,14 +1,14 @@
 ---
-title: Stamp.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. تحصل أو تعين مصفوفة بأرقام الصفحات التي ستتأثر بالطابع. إذا كانت الصفحات null، فإن جميع صفحات المستند تتأثر
+title: "Stamp.Pages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. يحصل أو يحدد مصفوفة بأرقام الصفحات التي سيتأثر بها الختم. إذا كانت Pages null فإن جميع صفحات المستند تتأثر"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/stamp/pages/
 ---
-## خاصية Stamp.Pages
+## Stamp.Pages property
 
-تحصل أو تعين مصفوفة بأرقام الصفحات التي ستتأثر بالطابع. إذا كانت الصفحات = null، فإن جميع صفحات المستند تتأثر.
+يحصل أو يعيّن مصفوفة بأرقام الصفحات التي سيتأثر بها الطابع. إذا كان Pages = null فإن جميع صفحات المستند ستتأثر.
 
 ```csharp
 public int[] Pages { get; set; }
@@ -20,7 +20,7 @@ public int[] Pages { get; set; }
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Aspose.Pdf.Facades.Stamp();
 stamp.BindLogo(new FormattedText(text));
-//put stamp only on 1st, 4th and 6th page.
+//ضع الختم فقط على الصفحة الأولى والرابعة والسادسة.
 stamp.Pages = new int[] { 1, 4, 6 };
 fileStamp.AddStamp(stamp);
 fileStamp.Close();
@@ -31,3 +31,5 @@ fileStamp.Close();
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

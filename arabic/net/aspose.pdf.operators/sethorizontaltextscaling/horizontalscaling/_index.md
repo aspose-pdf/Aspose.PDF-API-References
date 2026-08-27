@@ -1,14 +1,14 @@
 ---
-title: SetHorizontalTextScaling.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetHorizontalTextScaling. تحصل أو تعين المقياس الأفقي
+title: "SetHorizontalTextScaling.HorizontalScaling"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetHorizontalTextScaling. تحصل أو تعيين التحجيم الأفقي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/
 ---
-## خاصية SetHorizontalTextScaling.HorizontalScaling
+## SetHorizontalTextScaling.HorizontalScaling property
 
-تحصل أو تعين المقياس الأفقي.
+يحصل أو يعيّن مقياس النص الأفقي.
 
 ```csharp
 public double HorizontalScaling { get; set; }
@@ -19,3 +19,5 @@ public double HorizontalScaling { get; set; }
 * class [SetHorizontalTextScaling](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

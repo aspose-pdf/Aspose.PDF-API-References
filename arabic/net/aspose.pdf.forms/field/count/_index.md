@@ -1,14 +1,14 @@
 ---
-title: Field.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. تحصل على عدد الحقول الفرعية في هذا الحقل. على سبيل المثال عدد العناصر في حقل زر الراديو
+title: "Field.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. يحصل على عدد الحقول الفرعية في هذا الحقل. على سبيل المثال عدد العناصر في حقل زر الاختيار"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/field/count/
 ---
-## خاصية Field.Count
+## Field.Count property
 
-تحصل على عدد الحقول الفرعية في هذا الحقل. (على سبيل المثال عدد العناصر في حقل زر الراديو).
+الحصول على عدد الحقول الفرعية في هذا الحقل. (على سبيل المثال عدد العناصر في حقل زر الاختيار).
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

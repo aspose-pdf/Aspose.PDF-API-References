@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber10
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف 10 بحجم 324 مم × 458 مم
+title: "PaperSizes.PrcEnvelopeNumber10"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف 10 324 مم × 458 مم"
 type: docs
 weight: 870
 url: /ar/net/aspose.pdf.printing/papersizes/prcenvelopenumber10/
 ---
-## حقل PaperSizes.PrcEnvelopeNumber10
+## PaperSizes.PrcEnvelopeNumber10 field
 
-ظرف #10 (324 مم × 458 مم).
+مغلف #10 (324 مم × 458 مم).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber10;
@@ -20,3 +20,5 @@ public static readonly PaperSize PrcEnvelopeNumber10;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

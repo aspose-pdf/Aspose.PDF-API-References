@@ -1,14 +1,14 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OriginalFontSpecification. تحصل على قيمة تشير إلى ما إذا كانت الخط مضمنة
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OriginalFontSpecification. تحصل على قيمة تشير إلى ما إذا كان الخط مضمّنًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded/
 ---
-## خاصية CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded
+## CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded property
 
-تحصل على قيمة تشير إلى ما إذا كانت الخط مضمنة.
+يحصل على قيمة تشير إلى ما إذا كان الخط مضمّنًا.
 
 ```csharp
 public bool IsEmbedded { get; }
@@ -19,3 +19,5 @@ public bool IsEmbedded { get; }
 * class [OriginalFontSpecification](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

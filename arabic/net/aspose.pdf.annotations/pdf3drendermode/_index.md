@@ -1,48 +1,48 @@
 ---
-title: Class PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PDF3DRenderMode. فئة PDF3DRenderMode
+title: "فئة PDF3DRenderMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.PDF3DRenderMode فئة. فئة PDF3DRenderMode"
 type: docs
-weight: 2220
+weight: 2310
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/
 ---
 ## PDF3DRenderMode class
 
-Class PDF3DRenderMode.
+فئة PDF3DRenderMode.
 
 ```csharp
 public class PDF3DRenderMode
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PDF3DRenderMode](pdf3drendermode/#constructor)(RenderModeType) | Initializes a new instance of the `PDF3DRenderMode` class. |
-| [PDF3DRenderMode](pdf3drendermode/#constructor_1)(string) | Initializes a new instance of the `PDF3DRenderMode` class. |
+| [PDF3DRenderMode](pdf3drendermode/#constructor)(RenderModeType) | يُنشئ مثيلًا جديدًا من الفئة `PDF3DRenderMode`. |
+| [PDF3DRenderMode](pdf3drendermode/#constructor_1)(string) | يُنشئ مثيلًا جديدًا من الفئة `PDF3DRenderMode`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Type](../../aspose.pdf.annotations/pdf3drendermode/type/) { get; } | Gets the type. |
+| [Type](../../aspose.pdf.annotations/pdf3drendermode/type/) { get; } | يحصل على النوع. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/)() | Gets the auxiliary colour. |
-| [GetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/getcreasevalue/)() | Gets the crease value. |
-| [GetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/getfacecolor/)() | Gets the color of the face. |
-| [GetOpacity](../../aspose.pdf.annotations/pdf3drendermode/getopacity/)() | Gets the opacity. |
-| [SetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/)(Color) | Sets the auxiliary colour. |
-| [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue/)(double) | Sets the crease value. |
-| [SetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/setfacecolor/)(Color) | Sets the color of the face. |
-| [SetOpacity](../../aspose.pdf.annotations/pdf3drendermode/setopacity/)(double) | Sets the opacity. |
+| [GetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/)() | يحصل على اللون المساعد. |
+| [GetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/getcreasevalue/)() | يحصل على قيمة الطية. |
+| [GetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/getfacecolor/)() | يحصل على لون الوجه. |
+| [GetOpacity](../../aspose.pdf.annotations/pdf3drendermode/getopacity/)() | يحصل على الشفافية. |
+| [SetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/)(Color) | يضبط اللون المساعد. |
+| [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue/)(double) | يضبط قيمة الطية. |
+| [SetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/setfacecolor/)(Color) | يضبط لون الوجه. |
+| [SetOpacity](../../aspose.pdf.annotations/pdf3drendermode/setopacity/)(double) | يضبط الشفافية. |
 
-## Fields
+## الحقول
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | static [BoundingBox](../../aspose.pdf.annotations/pdf3drendermode/boundingbox/) | وضع العرض "BoundingBox". |
 | static [Illustration](../../aspose.pdf.annotations/pdf3drendermode/illustration/) | وضع العرض "Illustration". |
@@ -59,7 +59,9 @@ public class PDF3DRenderMode
 | static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices/) | وضع العرض "Vertices". |
 | static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe/) | وضع العرض "WireFrame". |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

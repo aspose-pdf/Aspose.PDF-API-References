@@ -1,26 +1,28 @@
 ---
-title: Class ExportFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.ExportFieldsOptions. تمثل الفئة الأساسية للخيارات لتصدير حقول النموذج
+title: "الفئة ExportFieldsOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.ExportFieldsOptions. تمثل الفئة الأساسية للخيارات الخاصة بتصدير حقول النماذج."
 type: docs
-weight: 4100
+weight: 4220
 url: /ar/net/aspose.pdf/exportfieldsoptions/
 ---
 ## ExportFieldsOptions class
 
-تمثل الفئة الأساسية للخيارات لتصدير حقول النموذج.
+يمثل الفئة الأساسية للخيارات الخاصة بتصدير حقول النموذج.
 
 ```csharp
 public abstract class ExportFieldsOptions
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | يحصل أو يحدد قيمة تشير إلى ما إذا كان يجب تصدير قيمة كلمة المرور. |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب تصدير قيمة كلمة المرور. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

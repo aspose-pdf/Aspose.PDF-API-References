@@ -1,14 +1,14 @@
 ---
-title: Resources.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الموارد. تحصل على مجموعة موارد الخطوط
+title: "Resources.Fonts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Resources. تحصل على مجموعة موارد Fonts"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/resources/fonts/
 ---
-## خاصية Resources.Fonts
+## Resources.Fonts property
 
-تحصل على مجموعة موارد `Fonts`
+يحصل على مجموعة موارد `Fonts`
 
 ```csharp
 public FontCollection Fonts { get; }
@@ -20,3 +20,5 @@ public FontCollection Fonts { get; }
 * class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

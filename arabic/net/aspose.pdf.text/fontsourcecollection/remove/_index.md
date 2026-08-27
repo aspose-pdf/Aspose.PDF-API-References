@@ -1,26 +1,26 @@
 ---
-title: FontSourceCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontSourceCollection. تحذف عنصر مصدر الخط
+title: "FontSourceCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontSourceCollection. تحذف عنصر مصدر الخط"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.text/fontsourcecollection/remove/
 ---
-## طريقة FontSourceCollection.Remove
+## FontSourceCollection.Remove method
 
-تحذف عنصر مصدر الخط.
+يحذف عنصر مصدر الخط.
 
 ```csharp
 public bool Remove(FontSource item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | FontSource | كائن FontSource الذي سيتم حذفه. |
 
 ### قيمة الإرجاع
 
-True - إذا تم العثور على العنصر؛ خلاف ذلك، false.
+True - إذا تم العثور على العنصر؛ وإلا false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ True - إذا تم العثور على العنصر؛ خلاف ذلك، false.
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

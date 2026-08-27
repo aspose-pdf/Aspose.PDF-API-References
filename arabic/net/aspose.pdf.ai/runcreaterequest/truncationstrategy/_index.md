@@ -1,14 +1,14 @@
 ---
-title: RunCreateRequest.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunCreateRequest. تحصل أو تعين استراتيجية الاقتطاع. تتحكم في كيفية اقتطاع خيط قبل التشغيل. استخدم هذا للتحكم في نافذة السياق الأولية للتشغيل
+title: "RunCreateRequest.TruncationStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunCreateRequest. تحصل أو تعين استراتيجية القطع. تتحكم في كيفية قطع الخيط قبل التنفيذ. استخدم هذا للتحكم في نافذة السياق الأولية للتنفيذ."
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.ai/runcreaterequest/truncationstrategy/
 ---
-## خاصية RunCreateRequest.TruncationStrategy
+## RunCreateRequest.TruncationStrategy property
 
-تحصل أو تعين استراتيجية الاقتطاع. تتحكم في كيفية اقتطاع خيط قبل التشغيل. استخدم هذا للتحكم في نافذة السياق الأولية للتشغيل.
+يحصل أو يعيّن استراتيجية القطع. يتحكم في كيفية قطع الخيط قبل التشغيل. استخدم هذا للتحكم في نافذة السياق الأولية للتشغيل.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
@@ -20,3 +20,5 @@ public TruncationStrategy TruncationStrategy { get; set; }
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

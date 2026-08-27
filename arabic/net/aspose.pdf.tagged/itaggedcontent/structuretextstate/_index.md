@@ -1,22 +1,22 @@
 ---
-title: ITaggedContent.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ITaggedContent. احصل على إعدادات StructureTextState للمستند بالكامل
+title: "ITaggedContent.StructureTextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ITaggedContent. احصل على إعدادات StructureTextState للوثيقة بأكملها"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
-## خاصية ITaggedContent.StructureTextState
+## ITaggedContent.StructureTextState property
 
-احصل على إعدادات [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) للمستند بالكامل.
+احصل على إعدادات [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) للوثيقة بأكملها.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-إعدادات [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) للمستند بالكامل.
+[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) settings for whole document.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public StructureTextState StructureTextState { get; }
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

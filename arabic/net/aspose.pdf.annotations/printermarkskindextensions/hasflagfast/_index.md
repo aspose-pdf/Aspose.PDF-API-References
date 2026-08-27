@@ -1,31 +1,33 @@
 ---
-title: PrinterMarksKindExtensions.HasFlagFast
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PrinterMarksKindExtensions. تحدد ما إذا كانت القيمة الحالية تتضمن علامة محددة
+title: "PrinterMarksKindExtensions.HasFlagFast"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PrinterMarksKindExtensions. تحدد ما إذا كانت القيمة الحالية تشمل علامة محددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
 ---
-## طريقة PrinterMarksKindExtensions.HasFlagFast
+## PrinterMarksKindExtensions.HasFlagFast method
 
-تحدد ما إذا كانت القيمة الحالية تتضمن علامة محددة.
+يحدد ما إذا كانت القيمة الحالية تشمل علامة محددة.
 
 ```csharp
 public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind flag)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | PrinterMarksKind | القيمة الحالية من تعداد [`PrinterMarksKind`](../../printermarkskind/) . |
-| flag | PrinterMarksKind | العلامة التي سيتم التحقق منها. |
+| value | PrinterMarksKind | القيمة الحالية لتعداد [`PrinterMarksKind`](../../printermarkskind/). |
+| flag | PrinterMarksKind | العلامة للتحقق منها. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت العلامة مدرجة في القيمة الحالية؛ خلاف ذلك، `false`.
+`true` إذا كانت العلامة مُضمنة في القيمة الحالية؛ وإلا `false`.
 
 ### انظر أيضًا
 
-* تعداد [PrinterMarksKind](../../printermarkskind/)
-* فئة [PrinterMarksKindExtensions](../)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarksKindExtensions](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

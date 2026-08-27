@@ -1,14 +1,14 @@
 ---
-title: FitRExplicitDestination.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FitRExplicitDestination. تحصل على إحداثي العمودي السفلي للمستطيل المرئي
+title: "FitRExplicitDestination.Bottom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FitRExplicitDestination خاصية. تحصل على الإحداثي الرأسي السفلي للمستطيل المرئي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/fitrexplicitdestination/bottom/
 ---
-## خاصية FitRExplicitDestination.Bottom
+## FitRExplicitDestination.Bottom property
 
-تحصل على إحداثي العمودي السفلي للمستطيل المرئي.
+يحصل على الإحداثي العمودي السفلي للمستطيل المرئي.
 
 ```csharp
 public double Bottom { get; }
@@ -19,3 +19,5 @@ public double Bottom { get; }
 * class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

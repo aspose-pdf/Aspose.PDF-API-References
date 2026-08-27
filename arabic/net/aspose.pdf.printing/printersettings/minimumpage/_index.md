@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.MinimumPage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية إعدادات الطابعة. تحصل أو تعين أدنى FromPage أو ToPage يمكن تحديده في مربع حوار الطباعة
+title: "PrinterSettings.MinimumPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. تحصل أو تعيين أدنى FromPage أو ToPage التي يمكن اختيارها في مربع حوار الطباعة."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.printing/printersettings/minimumpage/
 ---
-## خاصية إعدادات الطابعة.الصفحة الدنيا
+## PrinterSettings.MinimumPage property
 
-تحصل أو تعين أدنى [`FromPage`](../frompage/) أو [`ToPage`](../topage/) يمكن تحديده في مربع حوار الطباعة.
+تحصل أو تعيين أدنى [`FromPage`](../frompage/) أو [`ToPage`](../topage/) التي يمكن اختيارها في مربع حوار الطباعة.
 
 ```csharp
 public int MinimumPage { get; set; }
@@ -16,6 +16,8 @@ public int MinimumPage { get; set; }
 
 ### انظر أيضًا
 
-* class [إعدادات الطابعة](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

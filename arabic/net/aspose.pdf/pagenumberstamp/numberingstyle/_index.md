@@ -1,14 +1,14 @@
 ---
-title: PageNumberStamp.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageNumberStamp. نمط الترقيم المستخدم بواسطة هذه الختم
+title: "PageNumberStamp.NumberingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageNumberStamp. نمط الترقيم المستخدم في هذه الختم"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pagenumberstamp/numberingstyle/
 ---
-## خاصية PageNumberStamp.NumberingStyle
+## PageNumberStamp.NumberingStyle property
 
-نمط الترقيم المستخدم بواسطة هذه الختم.
+نمط الترقيم المستخدم في هذا الختم.
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle NumberingStyle { get; set; }
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

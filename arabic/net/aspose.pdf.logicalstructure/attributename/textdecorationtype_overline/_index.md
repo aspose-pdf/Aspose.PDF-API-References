@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextDecorationType_Overline
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية TextDecorationType Overline  خط فوق النص
+title: "AttributeName.TextDecorationType_Overline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة TextDecorationType Overline  خط فوق النص"
 type: docs
 weight: 610
 url: /ar/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/
 ---
-## حقل AttributeName.TextDecorationType_Overline
+## AttributeName.TextDecorationType_Overline field
 
-خاصية TextDecorationType: Overline - خط فوق النص.
+السمة TextDecorationType: Overline - خط فوق النص.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Overline;
@@ -19,3 +19,5 @@ public static readonly AttributeName TextDecorationType_Overline;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

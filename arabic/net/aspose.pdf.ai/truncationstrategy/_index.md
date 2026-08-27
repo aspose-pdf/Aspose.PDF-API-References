@@ -1,33 +1,35 @@
 ---
-title: Class TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.TruncationStrategy. تمثل استراتيجية الاقتطاع التي تتحكم في كيفية اقتطاع الخيط قبل التشغيل
+title: "الفئة TruncationStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.TruncationStrategy. تمثل استراتيجية القطع التي تتحكم في كيفية تقصير الخيط قبل التنفيذ."
 type: docs
-weight: 1240
+weight: 1330
 url: /ar/net/aspose.pdf.ai/truncationstrategy/
 ---
 ## TruncationStrategy class
 
-تمثل استراتيجية الاقتطاع التي تتحكم في كيفية اقتطاع الخيط قبل التشغيل.
+يمثل استراتيجية القطع التي تتحكم في كيفية قطع السلسلة قبل التنفيذ.
 
 ```csharp
 public class TruncationStrategy
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TruncationStrategy](truncationstrategy/)() | المُنشئ الافتراضي. |
+| [TruncationStrategy](truncationstrategy/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | يحصل أو يحدد عدد الرسائل الأحدث من الخيط عند بناء السياق للتشغيل. |
-| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | يحصل أو يحدد استراتيجية الاقتطاع لاستخدامها للخيط. الافتراضي هو auto. إذا تم تعيينه إلى last_messages، سيتم اقتطاع الخيط إلى n من أحدث الرسائل في الخيط. عند تعيينه إلى auto، سيتم إسقاط الرسائل في منتصف الخيط لتناسب طول سياق النموذج، max_prompt_tokens. |
+| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | يحصل أو يعيّن عدد أحدث الرسائل من الخيط عند إنشاء السياق للتنفيذ. |
+| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | يحصل أو يعيّن استراتيجية القطع التي تُستخدم للخيط. القيمة الافتراضية هي auto. إذا تم تعيينها إلى last_messages، سيُقطع الخيط إلى أحدث n رسائل في الخيط. عند تعيينها إلى auto، سيتم حذف الرسائل في وسط الخيط لتناسب طول السياق للنموذج، max_prompt_tokens. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

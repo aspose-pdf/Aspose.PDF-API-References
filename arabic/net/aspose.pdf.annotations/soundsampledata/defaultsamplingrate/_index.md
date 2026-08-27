@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.DefaultSamplingRate
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SoundSampleData. القيمة الافتراضية لمعدل العينة
+title: "SoundSampleData.DefaultSamplingRate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SoundSampleData. القيمة الافتراضية لـ SamplingRate"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/soundsampledata/defaultsamplingrate/
 ---
-## حقل SoundSampleData.DefaultSamplingRate
+## SoundSampleData.DefaultSamplingRate field
 
-القيمة الافتراضية لمعدل العينة.
+القيمة الافتراضية لـ SamplingRate.
 
 ```csharp
 public const long DefaultSamplingRate;
@@ -19,3 +19,5 @@ public const long DefaultSamplingRate;
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrinterUri
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PrinterSettings. الحصول على URI الطابعة الشبكية أو تعيينه
+title: "PrinterSettings.PrinterUri"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. الحصول على أو تعيين URI للطابعة الشبكية"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.printing/printersettings/printeruri/
 ---
-## خاصية PrinterSettings.PrinterUri
+## PrinterSettings.PrinterUri property
 
-الحصول على URI الطابعة الشبكية أو تعيينه.
+يحصل أو يعيّن URI للطابعة الشبكية.
 
 ```csharp
 public Uri PrinterUri { get; set; }
@@ -19,3 +19,5 @@ public Uri PrinterUri { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

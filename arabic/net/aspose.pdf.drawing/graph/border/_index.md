@@ -1,14 +1,14 @@
 ---
-title: Graph.Border
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الرسم. يحصل على الحدود أو يحددها
+title: "Graph.Border"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Graph. يحصل أو يضبط الحد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/graph/border/
 ---
-## خاصية Graph.Border
+## Graph.Border property
 
-يحصل على الحدود أو يحددها.
+يحصل أو يعيّن الحد.
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -20,3 +20,5 @@ public BorderInfo Border { get; set; }
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

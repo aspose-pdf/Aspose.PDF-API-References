@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderPartStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: حقل BorderPartStyle. يمثل لون خط الحدود
+title: "SaveOptions.BorderPartStyle.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل BorderPartStyle. يمثل لون خطوط الحدود"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/saveoptions.borderpartstyle/color/
 ---
-## حقل SaveOptions.BorderPartStyle.Color
+## SaveOptions.BorderPartStyle.Color field
 
-يمثل لون خط الحدود
+تمثل لون خط الحدود
 
 ```csharp
 public Color Color;
@@ -19,3 +19,5 @@ public Color Color;
 * class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: Class TableBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.TableBuilder. تمثل الفئة الباني لجدول في صفحة PDF
+title: "الفئة TableBuilder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.TableBuilder. تمثّل الفئة أداة بناء للجداول في صفحة pdf"
 type: docs
-weight: 9330
+weight: 9480
 url: /ar/net/aspose.pdf.plugins/tablebuilder/
 ---
 ## TableBuilder class
 
-تمثل الفئة الباني لجدول في صفحة PDF.
+الفئة تمثل مُنشئ جدول في صفحة pdf.
 
 ```csharp
 public class TableBuilder
 ```
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [AddRow](../../aspose.pdf.plugins/tablebuilder/addrow/)() | إضافة صف جديد إلى الجدول. |
+| virtual [AddRow](../../aspose.pdf.plugins/tablebuilder/addrow/)() | أضف صفًا جديدًا إلى الجدول. |
 | [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | إضافة جدول جديد إلى المستند. |
 | [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | إدراج صفحة بعد الصفحة المحددة. |
 | [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | إدراج صفحة قبل الصفحة المحددة. |
-| [implicit operator](../../aspose.pdf.plugins/tablebuilder/op_implicit/) | تحويل الباني `TableBuilder` إلى خيارات [`TableOptions`](../tableoptions/) |
+| [implicit operator](../../aspose.pdf.plugins/tablebuilder/op_implicit/) | يقوم بتحويل المُنشئ `TableBuilder` إلى الخيارات [`TableOptions`](../tableoptions/) |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

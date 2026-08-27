@@ -1,22 +1,22 @@
 ---
-title: RegistrationMarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة RegistrationMarkAnnotation. تقبل الزائر لمعالجة التعليقات التوضيحية
+title: "RegistrationMarkAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة RegistrationMarkAnnotation. تقبل الزائر لمعالجة التعليق."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/registrationmarkannotation/accept/
 ---
-## طريقة RegistrationMarkAnnotation.Accept
+## RegistrationMarkAnnotation.Accept method
 
-تقبل الزائر لمعالجة التعليقات التوضيحية.
+يقبل الزائر لمعالجة التعليق التوضيحي.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن AnnotationSelector. |
+| زائر | AnnotationSelector | كائن AnnotationSelector. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

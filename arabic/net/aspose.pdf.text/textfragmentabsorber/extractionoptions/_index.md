@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentAbsorber. تحصل أو تعين خيارات استخراج النص
+title: "TextFragmentAbsorber.ExtractionOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentAbsorber. تحصل أو تعيين خيارات استخراج النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/extractionoptions/
 ---
-## خاصية TextFragmentAbsorber.ExtractionOptions
+## TextFragmentAbsorber.ExtractionOptions property
 
-تحصل أو تعين خيارات استخراج النص.
+يحصل أو يعيّن خيارات استخراج النص.
 
 ```csharp
 public override TextExtractionOptions ExtractionOptions { get; set; }
@@ -20,3 +20,5 @@ public override TextExtractionOptions ExtractionOptions { get; set; }
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

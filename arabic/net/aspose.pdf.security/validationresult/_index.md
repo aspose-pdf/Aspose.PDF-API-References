@@ -1,31 +1,33 @@
 ---
-title: Class ValidationResult
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Security.ValidationResult. تمثل نتيجة عملية التحقق لشهادة
+title: "الفئة ValidationResult"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Security.ValidationResult. تمثل نتيجة عملية التحقق من شهادة"
 type: docs
-weight: 10080
+weight: 10260
 url: /ar/net/aspose.pdf.security/validationresult/
 ---
 ## ValidationResult class
 
-تمثل نتيجة عملية التحقق لشهادة.
+تمثل نتيجة عملية التحقق من شهادة
 
 ```csharp
 public sealed class ValidationResult
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Message](../../aspose.pdf.security/validationresult/message/) { get; } | تمثل الرسالة المرتبطة بنتيجة التحقق. |
-| [Status](../../aspose.pdf.security/validationresult/status/) { get; } | يحصل على حالة عملية التحقق لشهادة. |
+| [Status](../../aspose.pdf.security/validationresult/status/) { get; } | يحصل على حالة عملية التحقق من شهادة. |
 
-## Remarks
+## ملاحظات
 
 توفر فئة ValidationResult معلومات حول نتيجة التحقق من شهادة، بما في ذلك حالتها ورسالة تصف أي مشكلات تم مواجهتها أثناء التحقق.
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

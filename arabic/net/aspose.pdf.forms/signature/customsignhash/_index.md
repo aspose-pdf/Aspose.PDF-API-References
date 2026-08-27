@@ -1,14 +1,14 @@
 ---
-title: Signature.CustomSignHash
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. المفوض لتوقيع تجزئة الوثيقة بشكل مخصص
+title: "Signature.CustomSignHash"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. المندوب لتوقيع مخصص لتجزئة المستند"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/signature/customsignhash/
 ---
-## خاصية Signature.CustomSignHash
+## Signature.CustomSignHash property
 
-المفوض لتوقيع تجزئة الوثيقة بشكل مخصص.
+المندوب لتوقيع مخصص لتجزئة المستند.
 
 ```csharp
 public SignHash CustomSignHash { get; set; }
@@ -16,11 +16,13 @@ public SignHash CustomSignHash { get; set; }
 
 ## ملاحظات
 
-`يجب أن يتطابق الخوارزمية التي تستخدمها لتوقيع التجزئة في المفوض مع نوع المفتاح الخاص بالشهادة.`
+`الخوارزمية التي تستخدمها لتوقيع التجزئة في المندوب يجب أن تتطابق مع نوع المفتاح الخاص للشهادة.`
 
 ### انظر أيضًا
 
-* المفوض [SignHash](../../signhash/)
-* الفئة [Signature](../)
-* مساحة الاسم [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../../)
+* delegate [SignHash](../../signhash/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

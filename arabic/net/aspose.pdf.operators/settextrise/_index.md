@@ -1,42 +1,44 @@
 ---
-title: Class SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetTextRise. فئة تمثل مشغل Ts لرفع النص
+title: "الفئة SetTextRise"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.SetTextRise الفئة. الفئة تمثل عامل Ts لتعيين ارتفاع النص"
 type: docs
-weight: 7850
+weight: 7990
 url: /ar/net/aspose.pdf.operators/settextrise/
 ---
 ## SetTextRise class
 
-فئة تمثل مشغل Ts (تعيين ارتفاع النص).
+الفئة التي تمثل عامل Ts (تعيين ارتفاع النص).
 
 ```csharp
 public class SetTextRise : TextStateOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetTextRise](settextrise/)(double) | يقوم بتهيئة المشغل. |
+| [SetTextRise](settextrise/)(double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | يحصل على ارتفاع النص أو يحدده. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | يحصل أو يضبط ارتفاع النص. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه الحالة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Document. تغلق جميع الموارد المستخدمة بواسطة هذا المستند
+title: "Document.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تُغلق جميع الموارد المستخدمة بواسطة هذا المستند"
 type: docs
-weight: 610
+weight: 630
 url: /ar/net/aspose.pdf/document/dispose/
 ---
-## طريقة Document.Dispose
+## Document.Dispose method
 
-تغلق جميع الموارد المستخدمة بواسطة هذا المستند.
+يغلق جميع الموارد المستخدمة من قبل هذا المستند.
 
 ```csharp
 public void Dispose()
@@ -19,3 +19,5 @@ public void Dispose()
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ImagePlacementCollection. تقوم بمسح جميع العناصر من المجموعة
+title: "ImagePlacementCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ImagePlacementCollection. تُمسح جميع العناصر من المجموعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/imageplacementcollection/clear/
 ---
-## طريقة ImagePlacementCollection.Clear
+## ImagePlacementCollection.Clear method
 
-تقوم بمسح جميع العناصر من المجموعة.
+يمسح جميع العناصر من المجموعة.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

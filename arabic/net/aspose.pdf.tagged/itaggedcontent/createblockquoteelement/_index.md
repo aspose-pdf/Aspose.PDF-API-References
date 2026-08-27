@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateBlockQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ BlockQuoteElement
+title: "ITaggedContent.CreateBlockQuoteElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. تنشئ BlockQuoteElement"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/
 ---
 ## ITaggedContent.CreateBlockQuoteElement method
 
-تنشئ [`BlockQuoteElement`](../../../aspose.pdf.logicalstructure/blockquoteelement/).
+ينشئ [`BlockQuoteElement`](../../../aspose.pdf.logicalstructure/blockquoteelement/).
 
 ```csharp
 public BlockQuoteElement CreateBlockQuoteElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [BlockQuoteElement](../../../aspose.pdf.logicalstructure/blockquoteelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

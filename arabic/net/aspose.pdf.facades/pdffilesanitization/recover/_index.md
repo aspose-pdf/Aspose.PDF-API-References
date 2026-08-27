@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.Recover
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSanitization. تستعيد الوثيقة. استخدم الخصائص للتخصيص
+title: "PdfFileSanitization.Recover"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSanitization. تستعيد المستند. استخدم الخصائص للتخصيص"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/pdffilesanitization/recover/
 ---
-## طريقة PdfFileSanitization.Recover
+## PdfFileSanitization.Recover method
 
-تستعيد الوثيقة. استخدم الخصائص للتخصيص.
+يستعيد المستند. استخدم الخصائص للتخصيص.
 
 ```csharp
 public void Recover()
@@ -19,3 +19,5 @@ public void Recover()
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

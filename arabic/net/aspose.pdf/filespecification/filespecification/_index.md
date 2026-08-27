@@ -1,24 +1,24 @@
 ---
-title: FileSpecification.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FileSpecification. مُنشئ لـ FileSpecification
+title: "FileSpecification.FileSpecification"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FileSpecification. منشئ لـ FileSpecification"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/filespecification/filespecification/
 ---
 ## FileSpecification(string) {#constructor_3}
 
-مُنشئ لـ FileSpecification
+منشئ لـ FileSpecification
 
 ```csharp
 public FileSpecification(string file)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | file | String | مسار الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public FileSpecification(string file)
 
 ## FileSpecification(Stream, string) {#constructor_1}
 
-مُنشئ لمواصفة الملف.
+منشئ لمواصفة الملف.
 
 ```csharp
 public FileSpecification(Stream stream, string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق يحتوي على ملف البيانات. |
-| name | String | مواصفة الملف. |
+| stream | Stream | دفق يحتوي على ملف البيانات. |
+| الاسم | String | مواصفة الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -49,18 +49,18 @@ public FileSpecification(Stream stream, string name)
 
 ## FileSpecification(string, string) {#constructor_5}
 
-مُنشئ لـ FileSpecification.
+منشئ لـ FileSpecification.
 
 ```csharp
 public FileSpecification(string file, string description)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | file | String | مسار الملف. |
-| description | String | وصف الملف. |
+| الوصف | String | وصف الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -70,19 +70,19 @@ public FileSpecification(string file, string description)
 
 ## FileSpecification(Stream, string, string) {#constructor_2}
 
-مُنشئ لـ FileSpecification.
+منشئ لـ FileSpecification.
 
 ```csharp
 public FileSpecification(Stream stream, string name, string description)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق سيتم استخدامه في الوثيقة. |
-| name | String | سلسلة مواصفة الملف. |
-| description | String | وصف الملف. |
+| stream | Stream | دفق سيُستخدم في المستند. |
+| الاسم | String | سلسلة مواصفات ملف. |
+| الوصف | String | وصف الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -92,18 +92,18 @@ public FileSpecification(Stream stream, string name, string description)
 
 ## FileSpecification(string, Annotation) {#constructor_4}
 
-مُنشئ لـ FileSpecification.
+منشئ لـ FileSpecification.
 
 ```csharp
 public FileSpecification(string fileName, Annotation annot)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | مسار الملف. |
 | annot | Annotation | التعليق. |
 
-### See Also
+### انظر أيضًا
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [FileSpecification](../)
@@ -114,14 +114,16 @@ public FileSpecification(string fileName, Annotation annot)
 
 ## FileSpecification() {#constructor}
 
-إنشاء مواصفة ملف فارغة جديدة.
+إنشاء مواصفة ملف جديدة فارغة.
 
 ```csharp
 public FileSpecification()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

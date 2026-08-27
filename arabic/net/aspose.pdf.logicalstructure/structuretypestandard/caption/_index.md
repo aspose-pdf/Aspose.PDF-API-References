@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. العنوان جزء قصير من النص يصف جدولًا أو شكلًا
+title: "StructureTypeStandard.Caption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Caption جزء مختصر من النص يصف جدولًا أو شكلًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/caption/
 ---
-## حقل StructureTypeStandard.Caption
+## StructureTypeStandard.Caption field
 
-(العنوان) جزء قصير من النص يصف جدولًا أو شكلًا.
+(Caption) جزء مختصر من النص يصف جدولًا أو شكلًا.
 
 ```csharp
 public static readonly StructureTypeStandard Caption;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Caption;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

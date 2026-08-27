@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadMessageResponse. تحصل أو تعين، إذا كان ذلك مناسبًا، معرف المساعد الذي كتب هذه الرسالة
+title: "ThreadMessageResponse.AssistantId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadMessageResponse. تحصل أو تعيين، إذا كان ذلك مناسبًا، معرّف المساعد الذي أنشأ هذه الرسالة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/threadmessageresponse/assistantid/
 ---
-## خاصية ThreadMessageResponse.AssistantId
+## ThreadMessageResponse.AssistantId property
 
-تحصل أو تعين، إذا كان ذلك مناسبًا، معرف المساعد الذي كتب هذه الرسالة.
+يحصل أو يعيّن، إذا كان ذلك مناسبًا، معرّف المساعد الذي أنشأ هذه الرسالة.
 
 ```csharp
 public string AssistantId { get; set; }
@@ -19,3 +19,5 @@ public string AssistantId { get; set; }
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

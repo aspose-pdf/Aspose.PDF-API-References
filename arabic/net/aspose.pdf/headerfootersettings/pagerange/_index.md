@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HeaderFooterSettings. تحصل أو تعين نطاق الصفحات لإعدادات الرأس والتذييل
+title: "HeaderFooterSettings.PageRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HeaderFooterSettings. تحصل أو تعيين نطاق الصفحات لإعدادات الرأس والتذييل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/headerfootersettings/pagerange/
 ---
-## خاصية HeaderFooterSettings.PageRange
+## HeaderFooterSettings.PageRange property
 
-تحصل أو تعين نطاق الصفحات لإعدادات الرأس والتذييل.
+يحصل أو يعيّن نطاق الصفحات لإعدادات الرأس والتذييل.
 
 ```csharp
 public PageRange PageRange { get; set; }
@@ -20,3 +20,5 @@ public PageRange PageRange { get; set; }
 * class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

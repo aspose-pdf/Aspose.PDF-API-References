@@ -1,34 +1,36 @@
 ---
-title: Class CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CreateFineTuningJobRequest class. يمثل طلبًا لنقطة نهاية إنشاء وظيفة الضبط الدقيق
+title: "الفئة CreateFineTuningJobRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.CreateFineTuningJobRequest. تمثل طلباً لنقطة النهاية Create FineTuning Job."
 type: docs
-weight: 280
+weight: 290
 url: /ar/net/aspose.pdf.ai/createfinetuningjobrequest/
 ---
 ## CreateFineTuningJobRequest class
 
-يمثل طلبًا لنقطة نهاية إنشاء وظيفة الضبط الدقيق.
+يمثل طلبًا لنقطة النهاية Create Fine-Tuning Job.
 
 ```csharp
 public class CreateFineTuningJobRequest
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateFineTuningJobRequest](createfinetuningjobrequest/)() | المُنشئ الافتراضي. |
+| [CreateFineTuningJobRequest](createfinetuningjobrequest/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | يحصل على أو يحدد المعلمات الفائقة المستخدمة لوظيفة الضبط الدقيق. |
-| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | يحصل على أو يحدد اسم النموذج الذي سيتم ضبطه بدقة. يمكنك اختيار أحد النماذج المدعومة. |
-| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | يحصل على أو يحدد معرف ملف تم تحميله يحتوي على بيانات التدريب. |
+| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | يحصل أو يعيّن المعاملات الفائقة المستخدمة في مهمة الضبط الدقيق. |
+| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | يحصل أو يعيّن اسم النموذج الذي سيتم ضبطه بدقة. يمكنك اختيار أحد النماذج المدعومة. |
+| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | يحصل أو يضبط معرف ملف تم تحميله يحتوي على بيانات التدريب. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeYouNumber4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف ياباني رقم 4 مائل
+title: "PaperSizes.JapaneseEnvelopeYouNumber4Rotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف Japanese You 4 المدور"
 type: docs
 weight: 590
 url: /ar/net/aspose.pdf.printing/papersizes/japaneseenvelopeyounumber4rotated/
 ---
-## حقل PaperSizes.JapaneseEnvelopeYouNumber4Rotated
+## PaperSizes.JapaneseEnvelopeYouNumber4Rotated field
 
-ظرف ياباني رقم 4 مائل.
+مغلف ياباني يو #4 مدور.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeYouNumber4Rotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize JapaneseEnvelopeYouNumber4Rotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

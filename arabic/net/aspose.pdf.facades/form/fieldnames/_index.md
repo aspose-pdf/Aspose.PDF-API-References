@@ -1,14 +1,14 @@
 ---
-title: Form.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تحصل على قائمة بأسماء الحقول في النموذج
+title: "Form.FieldNames"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تحصل على قائمة بأسماء الحقول في النموذج."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/form/fieldnames/
 ---
-## خاصية Form.FieldNames
+## Form.FieldNames property
 
-تحصل على قائمة بأسماء الحقول في النموذج.
+يحصل على قائمة بأسماء الحقول في النموذج.
 
 ```csharp
 public string[] FieldNames { get; }
@@ -30,3 +30,5 @@ foreach(string field in fields)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

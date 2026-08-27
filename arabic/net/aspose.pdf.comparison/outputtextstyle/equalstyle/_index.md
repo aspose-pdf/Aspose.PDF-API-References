@@ -1,14 +1,14 @@
 ---
-title: OutputTextStyle.EqualStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutputTextStyle. الحصول على وتعيين نمط نص للنص غير المتغير
+title: "OutputTextStyle.EqualStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutputTextStyle. احصل على نمط نص وتعيينه للنص غير المتغيّر"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.comparison/outputtextstyle/equalstyle/
 ---
-## خاصية OutputTextStyle.EqualStyle
+## OutputTextStyle.EqualStyle property
 
-الحصول على وتعيين نمط نص للنص غير المتغير.
+احصل على نمط نص للنص غير المتغيّر واضبطه.
 
 ```csharp
 public TextStyle EqualStyle { get; set; }
@@ -20,3 +20,5 @@ public TextStyle EqualStyle { get; set; }
 * class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

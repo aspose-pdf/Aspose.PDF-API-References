@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.ParentType
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlImageSavingInfo. يمكن أن تتعلق الصورة المحفوظة بـ HTML نفسه أو يمكن استخراجها من SVG المضمن في HTML. يمكن أن تخبر هذه الخاصية الكود المخصص بنوع الوالد للصورة المعالجة. يتم تعيينها بواسطة المحول ويمكن استخدامها في الكود المخصص لتحديد ما يجب القيام به بتلك الصورة .
+title: "HtmlSaveOptions.HtmlImageSavingInfo.ParentType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlImageSavingInfo. يمكن أن تكون الصورة المحفوظة مرتبطة بـ HTML نفسه أو يمكن استخراجها من SVG المدمج في HTML. يمكن لهذه الخاصية إبلاغ الكود المخصص بنوع العنصر الأب للصورة المعالجة. يتم تعيينها بواسطة المحول ويمكن استخدامها في الكود المخصص لتحديد ما يجب القيام به مع تلك الصورة، على سبيل المثال يمكن للكود المخصص تحديد مكان حفظ الصورة أو كيفية الإشارة إليها في محتوى العنصر الأب."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype/
 ---
-## حقل HtmlSaveOptions.HtmlImageSavingInfo.ParentType
+## HtmlSaveOptions.HtmlImageSavingInfo.ParentType field
 
-يمكن أن تتعلق الصورة المحفوظة بـ HTML نفسه أو يمكن استخراجها من SVG المضمن في HTML. يمكن أن تخبر هذه الخاصية الكود المخصص بنوع الوالد للصورة المعالجة. يتم تعيينها بواسطة المحول ويمكن استخدامها في الكود المخصص لتحديد ما يجب القيام به بتلك الصورة (على سبيل المثال، يمكن أن يقرر الكود المخصص أين يتم حفظ الصورة أو كيف يجب الإشارة إليها في محتوى الوالد).
+يمكن أن تكون الصورة المحفوظة مرتبطة بـ HTML نفسها أو يمكن استخراجها من SVG المدمج في HTML. يمكن لهذه الخاصية إبلاغ الكود المخصص بنوع العنصر الأب للصورة المعالجة. يتم تعيينها بواسطة المحول ويمكن استخدامها في الكود المخصص لتحديد ما يجب القيام به مع تلك الصورة (مثلاً يمكن للكود المخصص أن يقرر أين يتم حفظ الصورة أو كيف يجب الإشارة إليها في محتوى العنصر الأب).
 
 ```csharp
 public ImageParentTypes ParentType;
@@ -20,3 +20,5 @@ public ImageParentTypes ParentType;
 * class [HtmlImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

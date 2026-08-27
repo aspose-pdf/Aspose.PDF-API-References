@@ -1,14 +1,14 @@
 ---
-title: PageInfo.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageInfo. تحصل أو تعين هامش الصفحة
+title: "PageInfo.Margin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageInfo. تحصل أو تعين هامش الصفحة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/pageinfo/margin/
 ---
-## خاصية PageInfo.Margin
+## PageInfo.Margin property
 
-تحصل أو تعين هامش الصفحة.
+يحصل أو يضبط هامش الصفحة.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

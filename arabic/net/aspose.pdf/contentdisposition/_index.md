@@ -1,27 +1,29 @@
 ---
-title: Enum ContentDisposition
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.ContentDisposition. رأس ContentDisposition لبروتوكول MIME
+title: "تعداد ContentDisposition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.ContentDisposition. رأس ContentDisposition لبروتوكول MIME"
 type: docs
-weight: 3350
+weight: 3460
 url: /ar/net/aspose.pdf/contentdisposition/
 ---
 ## ContentDisposition enumeration
 
-رأس Content-Disposition لبروتوكول MIME.
+رأس بروتوكول MIME Content-Disposition.
 
 ```csharp
 public enum ContentDisposition
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Inline | `0` | يتم عرض النتيجة في السطر. |
-| Attachment | `1` | يتم حفظ النتيجة كمرفق. |
+| Inline | `0` | النتيجة تُعرض مضمّنًا. |
+| Attachment | `1` | النتيجة تُحفظ كمرفق. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

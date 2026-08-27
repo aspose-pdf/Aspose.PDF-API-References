@@ -1,14 +1,14 @@
 ---
-title: TextDevice.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextDevice. الحصول على خيارات استخراج النص أو تعيينها
+title: "TextDevice.ExtractionOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextDevice. تحصل أو تعين خيارات استخراج النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.devices/textdevice/extractionoptions/
 ---
-## خاصية TextDevice.ExtractionOptions
+## TextDevice.ExtractionOptions property
 
-الحصول على خيارات استخراج النص أو تعيينها.
+يحصل أو يعيّن خيارات استخراج النص.
 
 ```csharp
 public TextExtractionOptions ExtractionOptions { get; set; }
@@ -16,19 +16,19 @@ public TextExtractionOptions ExtractionOptions { get; set; }
 
 ## أمثلة
 
-توضح المثال كيفية استخراج النص بالترتيب الخام.
+يوضح المثال كيفية استخراج النص بترتيب raw.
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// إنشاء جهاز نصي
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-// convert the page and save text to the stream
+// تحويل الصفحة وحفظ النص إلى الدفق
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// استخدام النص المستخرج
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 
@@ -38,3 +38,5 @@ extractedText = File.ReadAllText(outFile, Encoding.Unicode);
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

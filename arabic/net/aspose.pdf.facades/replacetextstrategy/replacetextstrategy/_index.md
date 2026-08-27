@@ -1,14 +1,14 @@
 ---
-title: ReplaceTextStrategy.ReplaceTextStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ReplaceTextStrategy. المُنشئ الافتراضي
+title: "ReplaceTextStrategy.ReplaceTextStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ReplaceTextStrategy. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/replacetextstrategy/replacetextstrategy/
 ---
-## مُنشئ ReplaceTextStrategy
+## ReplaceTextStrategy constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ReplaceTextStrategy()
@@ -19,3 +19,5 @@ public ReplaceTextStrategy()
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

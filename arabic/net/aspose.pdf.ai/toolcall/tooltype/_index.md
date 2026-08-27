@@ -1,14 +1,14 @@
 ---
-title: ToolCall.ToolType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ToolCall. تحصل أو تعين نوع الأداة. حاليًا، يتم دعم الوظيفة فقط
+title: "ToolCall.ToolType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ToolCall. تحصل أو تعين نوع الأداة. حاليًا يتم دعم الدالة فقط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/toolcall/tooltype/
 ---
-## خاصية ToolCall.ToolType
+## ToolCall.ToolType property
 
-تحصل أو تعين نوع الأداة. حاليًا، يتم دعم الوظيفة فقط.
+يحصل أو يعيّن نوع الأداة. حالياً، يتم دعم الدالة فقط.
 
 ```csharp
 public string ToolType { get; set; }
@@ -19,3 +19,5 @@ public string ToolType { get; set; }
 * class [ToolCall](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

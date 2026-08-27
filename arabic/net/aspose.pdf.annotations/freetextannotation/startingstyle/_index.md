@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FreeTextAnnotation. تحصل أو تعين نمط نهاية السطر لنقطة نهاية السطر. هذه الخاصية قديمة، يرجى استخدام EndingStyle
+title: "FreeTextAnnotation.StartingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FreeTextAnnotation. يحصل أو يعيّن نمط نهاية الخط لنقطة نهاية الخط. هذه الخاصية قديمة يرجى استخدام EndingStyle."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/freetextannotation/startingstyle/
 ---
-## خاصية FreeTextAnnotation.StartingStyle
+## FreeTextAnnotation.StartingStyle property
 
-تحصل أو تعين نمط نهاية السطر لنقطة نهاية السطر. هذه الخاصية قديمة، يرجى استخدام EndingStyle.
+يحصل أو يضبط نمط نهاية الخط لنقطة نهاية الخط. هذه الخاصية قديمة، يرجى استخدام EndingStyle.
 
 ```csharp
 public LineEnding StartingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding StartingStyle { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

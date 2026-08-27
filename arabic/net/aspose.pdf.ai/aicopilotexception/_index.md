@@ -1,28 +1,30 @@
 ---
-title: Class AICopilotException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.AICopilotException. تمثل استثناءً محددًا لعمليات Copilots
+title: "الفئة AICopilotException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.AICopilotException. تمثل استثناءً خاصاً بعمليات المساعدين."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/aicopilotexception/
 ---
 ## AICopilotException class
 
-تمثل استثناءً محددًا لعمليات Copilots.
+يمثل استثناءً خاصًا بعمليات Copilots.
 
 ```csharp
 public class AICopilotException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AICopilotException](aicopilotexception/#constructor)(string) | يقوم بتهيئة مثيل جديد من فئة `AICopilotException` مع رسالة خطأ محددة. |
-| [AICopilotException](aicopilotexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد من فئة `AICopilotException` مع رسالة خطأ محددة ومرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [AICopilotException](aicopilotexception/#constructor)(string) | يُهيئ مثيلاً جديداً من الفئة `AICopilotException` برسالة خطأ محددة. |
+| [AICopilotException](aicopilotexception/#constructor_1)(string, Exception) | يُهيئ مثيلاً جديداً من الفئة `AICopilotException` برسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../../aspose.pdf/pdfexception/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

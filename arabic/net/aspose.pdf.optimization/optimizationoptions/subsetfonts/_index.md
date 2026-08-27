@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptimizationOptions. سيتم تحويل الخطوط إلى مجموعات فرعية إذا تم تعيينها على true
+title: "OptimizationOptions.SubsetFonts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptimizationOptions. سيتم تحويل الخطوط إلى مجموعات فرعية إذا تم تعيينها إلى true."
 type: docs
-weight: 130
+weight: 120
 url: /ar/net/aspose.pdf.optimization/optimizationoptions/subsetfonts/
 ---
-## خاصية OptimizationOptions.SubsetFonts
+## OptimizationOptions.SubsetFonts property
 
-سيتم تحويل الخطوط إلى مجموعات فرعية إذا تم تعيينها على true.
+Fonts سيتم تحويلها إلى مجموعات فرعية إذا تم تعيينها إلى true.
 
 ```csharp
 public bool SubsetFonts { get; set; }
@@ -19,3 +19,5 @@ public bool SubsetFonts { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

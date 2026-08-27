@@ -1,14 +1,14 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ICosPdfPrimitive. التمثيل النصي لنسخة ICosPdfPrimitive
+title: "ICosPdfPrimitive.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ICosPdfPrimitive. تمثيل النص للكائن ICosPdfPrimitive"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
 ---
-## طريقة ICosPdfPrimitive.ToString
+## ICosPdfPrimitive.ToString method
 
-التمثيل النصي لنسخة [`ICosPdfPrimitive`](../).
+تمثيل النص للكائن [`ICosPdfPrimitive`](../).
 
 ```csharp
 public string ToString()
@@ -16,10 +16,12 @@ public string ToString()
 
 ### قيمة الإرجاع
 
-قيمة التمثيل النصي لنسخة [`ICosPdfPrimitive`](../).
+قيمة تمثيل النص للكائن [`ICosPdfPrimitive`](../).
 
 ### انظر أيضًا
 
-* الواجهة [ICosPdfPrimitive](../)
-* مساحة الاسم [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تعين رقم صفحة وجهة الإشارة المرجعية
+title: "Bookmark.PageNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. تحصل أو تعيين رقم صفحة وجهة الإشارات"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/bookmark/pagenumber/
 ---
-## خاصية Bookmark.PageNumber
+## Bookmark.PageNumber property
 
-تحصل أو تعين رقم صفحة وجهة الإشارة المرجعية.
+يحصل أو يعيّن رقم صفحة الوجهة للعلامة المرجعية.
 
 ```csharp
 public int PageNumber { get; set; }
@@ -19,3 +19,5 @@ public int PageNumber { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

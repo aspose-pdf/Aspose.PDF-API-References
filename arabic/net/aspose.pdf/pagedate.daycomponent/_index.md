@@ -1,41 +1,43 @@
 ---
-title: Class PageDate.DayComponent
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageDateDayComponent. تمثل مكون اليوم من التاريخ
+title: "الفئة PageDate.DayComponent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PageDateDayComponent. تمثّل مكوّن اليوم من تاريخ."
 type: docs
-weight: 8120
+weight: 8260
 url: /ar/net/aspose.pdf/pagedate.daycomponent/
 ---
 ## PageDate.DayComponent class
 
-تمثل مكون اليوم من التاريخ.
+يمثل مكوّن اليوم من تاريخ.
 
 ```csharp
 public class DayComponent : DateComponent
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DayComponent](../../aspose.pdf/pagedate.daycomponent/.ctor)() | المُنشئ الافتراضي. |
+| [DayComponent](../../aspose.pdf/pagedate.daycomponent/.ctor)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | يحصل أو يحدد التنسيق لمكون التاريخ. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | الحصول أو تعيين التنسيق لمكوّن التاريخ. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/pagedate.daycomponent/getformat#getformat)() | يحصل على سلسلة التنسيق لمكون اليوم. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | يُرجع سلسلة تتكون من حرف محدد مكرر بناءً على التنسيق. |
+| [GetFormat](../../aspose.pdf/pagedate.daycomponent/getformat#getformat)() | الحصول على سلسلة التنسيق لمكوّن اليوم. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | إرجاع سلسلة مكوّنة من حرف محدد مكرر وفقًا للتنسيق. |
 
-### See Also
+### انظر أيضًا
 
 * class [DateComponent](../datecomponent/)
 * class [PageDate](../pagedate/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

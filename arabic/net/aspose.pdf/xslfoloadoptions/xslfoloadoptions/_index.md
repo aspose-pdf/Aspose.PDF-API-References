@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XslFoLoadOptions. ينشئ كائن XslFoLoadOptions بدون بيانات xsl
+title: "XslFoLoadOptions.XslFoLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XslFoLoadOptions. يُنشئ كائن XslFoLoadOptions بدون بيانات xsl"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
 ---
 ## XslFoLoadOptions() {#constructor}
 
-ينشئ كائن [`XslFoLoadOptions`](../) بدون بيانات xsl.
+يُنشئ كائن [`XslFoLoadOptions`](../) بدون بيانات xsl.
 
 ```csharp
 public XslFoLoadOptions()
@@ -24,15 +24,15 @@ public XslFoLoadOptions()
 
 ## XslFoLoadOptions(string) {#constructor_2}
 
-ينشئ كائن [`XslFoLoadOptions`](../) ببيانات xsl.
+يُنشئ كائن [`XslFoLoadOptions`](../) ببيانات xsl.
 
 ```csharp
 public XslFoLoadOptions(string xslFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xslFile | String | ملف xsl لتحويل مستند XSL-FO إلى مستند pdf. |
+| xslFile | String | ملف Xsl لتحويل مستند XSL-FO إلى مستند pdf. |
 
 ### انظر أيضًا
 
@@ -44,18 +44,20 @@ public XslFoLoadOptions(string xslFile)
 
 ## XslFoLoadOptions(Stream) {#constructor_1}
 
-ينشئ كائن [`XslFoLoadOptions`](../) ببيانات xsl.
+يُنشئ كائن [`XslFoLoadOptions`](../) ببيانات xsl.
 
 ```csharp
 public XslFoLoadOptions(Stream xslStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xslStream | Stream | تدفق xsl لتحويل مستند XSL-FO إلى مستند pdf. |
+| xslStream | Stream | دفق Xsl لتحويل مستند XSL-FO إلى مستند pdf. |
 
 ### انظر أيضًا
 
 * class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

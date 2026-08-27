@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreResponse. تحصل أو تعين سياسة انتهاء صلاحية لمتجر المتجهات
+title: "VectorStoreResponse.ExpiresAfter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية VectorStoreResponse. تحصل أو تعين سياسة انتهاء الصلاحية لمخزن المتجهات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/vectorstoreresponse/expiresafter/
 ---
-## خاصية VectorStoreResponse.ExpiresAfter
+## VectorStoreResponse.ExpiresAfter property
 
-تحصل أو تعين سياسة انتهاء صلاحية لمتجر المتجهات.
+يحصل أو يعيّن سياسة الانتهاء لمخزن المتجهات.
 
 ```csharp
 public ExpiresAfter ExpiresAfter { get; set; }
@@ -20,3 +20,5 @@ public ExpiresAfter ExpiresAfter { get; set; }
 * class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

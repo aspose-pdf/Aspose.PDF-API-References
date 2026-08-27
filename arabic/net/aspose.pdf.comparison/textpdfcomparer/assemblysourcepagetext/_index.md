@@ -1,22 +1,22 @@
 ---
-title: TextPdfComparer.AssemblySourcePageText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextPdfComparer. تستعيد النص الأصلي من قائمة التغييرات
+title: "TextPdfComparer.AssemblySourcePageText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextPdfComparer. يستعيد النص الأصلي من قائمة التغييرات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/
 ---
-## طريقة TextPdfComparer.AssemblySourcePageText
+## TextPdfComparer.AssemblySourcePageText method
 
-تستعيد النص الأصلي من قائمة التغييرات.
+يستعيد النص الأصلي من قائمة التغييرات.
 
 ```csharp
 public static string AssemblySourcePageText(List<DiffOperation> diffs)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffs | List`1 | قائمة التغييرات. |
+| الاختلافات | List`1 | قائمة التغييرات. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public static string AssemblySourcePageText(List<DiffOperation> diffs)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

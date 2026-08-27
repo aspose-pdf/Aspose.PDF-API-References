@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. مسح الفقرات
+title: "Paragraphs.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. مسح الفقرات"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/paragraphs/clear/
 ---
-## طريقة Paragraphs.Clear
+## Paragraphs.Clear method
 
-مسح الفقرات.
+امسح الفقرات.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

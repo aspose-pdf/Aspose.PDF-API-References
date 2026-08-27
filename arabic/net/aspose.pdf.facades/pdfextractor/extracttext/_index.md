@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تستخرج النص من مستند Pdf باستخدام ترميز Unicode
+title: "PdfExtractor.ExtractText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfExtractor. تستخرج النص من مستند Pdf باستخدام ترميز Unicode"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.facades/pdfextractor/extracttext/
 ---
 ## ExtractText() {#extracttext}
 
-تستخرج النص من مستند Pdf باستخدام ترميز Unicode.
+يستخرج النص من مستند PDF باستخدام ترميز Unicode.
 
 ```csharp
 public void ExtractText()
@@ -16,7 +16,7 @@ public void ExtractText()
 
 ## أمثلة
 
-المثال الأول يوضح كيفية استخراج كل النص من ملف PDF.
+يوضح المثال الأول كيفية استخراج كل النص من ملف PDF.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -32,7 +32,7 @@ extractor.ExtractText()
 extractor.GetText("D:\Text\text.txt")
 ```
 
-المثال الثاني يوضح كيفية استخراج نص كل صفحة في ملف txt واحد.
+يوضح المثال الثاني كيفية استخراج نص كل صفحة إلى ملف txt واحد.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -71,19 +71,19 @@ End While
 
 ## ExtractText(Encoding) {#extracttext_1}
 
-تستخرج النص من مستند Pdf باستخدام الترميز المحدد.
+يستخرج النص من مستند PDF باستخدام الترميز المحدد.
 
 ```csharp
 public void ExtractText(Encoding encoding)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| encoding | Encoding | ترميز النص المستخرج. |
+| encoding | الترميز | ترميز النص المستخرج. |
 
 ## أمثلة
 
-المثال الأول يوضح كيفية استخراج كل النص من ملف PDF.
+يوضح المثال الأول كيفية استخراج كل النص من ملف PDF.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -99,7 +99,7 @@ extractor.ExtractText(Encoding.Unicode)
 extractor.GetText("D:\Text\text.txt")
 ```
 
-المثال الثاني يوضح كيفية استخراج نص كل صفحة في ملف txt واحد.
+يوضح المثال الثاني كيفية استخراج نص كل صفحة إلى ملف txt واحد.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -133,3 +133,5 @@ End While
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

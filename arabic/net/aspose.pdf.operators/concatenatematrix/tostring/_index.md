@@ -1,14 +1,14 @@
 ---
-title: ConcatenateMatrix.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ConcatenateMatrix. تعيد تمثيل نصي للمشغل
+title: "ConcatenateMatrix.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ConcatenateMatrix. تُرجع تمثيل نصي للمشغّل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/concatenatematrix/tostring/
 ---
-## طريقة ConcatenateMatrix.ToString
+## ConcatenateMatrix.ToString method
 
-تعيد تمثيل نصي للمشغل.
+يرجع تمثيل النص للمشغّل.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [ConcatenateMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.SamplingRate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SoundSampleData. تحصل أو تعين معدل العينة
+title: "SoundSampleData.SamplingRate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SoundSampleData. يحصل أو يضبط معدل أخذ العينات"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/soundsampledata/samplingrate/
 ---
-## خاصية SoundSampleData.SamplingRate
+## SoundSampleData.SamplingRate property
 
-تحصل أو تعين معدل العينة.
+يحصل أو يضبط معدل العينة.
 
 ```csharp
 public long SamplingRate { get; set; }
@@ -19,3 +19,5 @@ public long SamplingRate { get; set; }
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

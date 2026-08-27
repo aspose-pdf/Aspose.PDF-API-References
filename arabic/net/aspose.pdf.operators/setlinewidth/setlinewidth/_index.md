@@ -1,25 +1,27 @@
 ---
-title: SetLineWidth.SetLineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetLineWidth. يُهيئ المُشغل بقيمة العرض
+title: "SetLineWidth.SetLineWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "SetLineWidth مُنشئ. يهيئ المشغل بقيمة العرض"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setlinewidth/setlinewidth/
 ---
-## مُنشئ SetLineWidth
+## SetLineWidth constructor
 
-يُهيئ المُشغل بقيمة العرض.
+يُهيئ العامل بقيمة العرض.
 
 ```csharp
 public SetLineWidth(double width)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Double | عرض الخط. |
+| العرض | Double | عرض الخط. |
 
 ### انظر أيضًا
 
 * class [SetLineWidth](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

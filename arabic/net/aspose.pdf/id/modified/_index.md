@@ -1,14 +1,14 @@
 ---
-title: Id.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Id. تغيير المعرف بناءً على محتويات الوثيقة في الوقت الذي تم فيه تحديثها آخر مرة
+title: "Id.Modified"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Id. يغيّر المعرف بناءً على محتويات المستند في الوقت الذي تم تحديثه آخر مرة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/id/modified/
 ---
-## خاصية Id.Modified
+## Id.Modified property
 
-تغيير المعرف بناءً على محتويات الوثيقة في الوقت الذي تم فيه تحديثها آخر مرة.
+تغيير المعرف بناءً على محتويات المستند في وقت آخر تحديث له.
 
 ```csharp
 public string Modified { get; }
@@ -19,3 +19,5 @@ public string Modified { get; }
 * class [Id](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

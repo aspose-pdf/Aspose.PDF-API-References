@@ -1,25 +1,27 @@
 ---
-title: Document.PageNodesToBalancedTree
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الـ Document. ينظم عقد شجرة الصفحات في وثيقة إلى شجرة متوازنة. فقط إذا كان المستند يحتوي على أكثر من nodesNumInSubtrees من كائنات الصفحة، وإلا فلن يقوم بأي إجراء. لا تستدعِ هذه الطريقة أثناء التكرار على عناصر Pages فقد تؤدي إلى نتائج غير متوقعة
+title: "Document.PageNodesToBalancedTree"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تُنظم عقد شجرة الصفحات في المستند إلى شجرة متوازنة. فقط إذا كان المستند يحتوي على أكثر من nodesNumInSubtrees كائنات صفحة، وإلا لا تفعل شيئًا. لا تستدعِ هذه الطريقة أثناء التكرار على عناصر Pages لأنها قد تعطي نتائج غير متوقعة."
 type: docs
-weight: 770
+weight: 790
 url: /ar/net/aspose.pdf/document/pagenodestobalancedtree/
 ---
-## طريقة Document.PageNodesToBalancedTree
+## Document.PageNodesToBalancedTree method
 
-ينظم عقد شجرة الصفحات في الوثيقة إلى شجرة متوازنة. فقط إذا كان المستند يحتوي على أكثر من nodesNumInSubtrees من كائنات الصفحة، وإلا فلن يقوم بأي إجراء. لا تستدعِ هذه الطريقة أثناء التكرار على عناصر Pages، فقد تؤدي إلى نتائج غير متوقعة
+ينظم عقد شجرة الصفحات في المستند في شجرة متوازنة. فقط إذا كان المستند يحتوي على أكثر من nodesNumInSubtrees كائنات صفحة، وإلا لا يفعل شيئًا. لا تستدعِ هذه الطريقة أثناء التكرار على عناصر Pages، فقد تُعطي نتائج غير متوقعة.
 
 ```csharp
 public void PageNodesToBalancedTree(byte nodesNumInSubtrees = 10)
 ```
 
-| Parameter           | Type | Description                                                        |
-| ------------------- | ---- | ------------------------------------------------------------------ |
-| nodesNumInSubtrees  | Byte | العدد المطلوب من العقد الفرعية. القيمة الافتراضية هي عشرة.         |
+| معامل | النوع | الوصف |
+| --- | --- | --- |
+| nodesNumInSubtrees | Byte | العدد المطلوب من العقد الفرعية. القيمة الافتراضية هي عشرة. |
 
 ### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

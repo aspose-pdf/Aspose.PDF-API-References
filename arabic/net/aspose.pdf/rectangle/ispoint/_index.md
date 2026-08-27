@@ -1,12 +1,12 @@
 ---
-title: Rectangle.IsPoint
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. يتحقق مما إذا كان المستطيل نقطة أي أن LLX يساوي URX و LLY يساوي URY
+title: "Rectangle.IsPoint"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. تتحقق مما إذا كان المستطيل نقطة أي أن LLX يساوي URX وLLY يساوي URY."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/rectangle/ispoint/
 ---
-## خاصية Rectangle.IsPoint
+## Rectangle.IsPoint property
 
 يتحقق مما إذا كان المستطيل نقطة أي أن LLX يساوي URX و LLY يساوي URY.
 
@@ -19,3 +19,5 @@ public bool IsPoint { get; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

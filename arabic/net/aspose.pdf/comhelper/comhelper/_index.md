@@ -1,14 +1,14 @@
 ---
-title: ComHelper.ComHelper
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ComHelper. المُنشئ الافتراضي
+title: "ComHelper.ComHelper"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ComHelper. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/comhelper/comhelper/
 ---
-## مُنشئ ComHelper
+## ComHelper constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ComHelper()
@@ -19,3 +19,5 @@ public ComHelper()
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

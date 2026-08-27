@@ -1,14 +1,14 @@
 ---
-title: Annotation.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة التعليق. تضع محتويات التعليق مباشرة على الصفحة، وسيتم إزالة كائن التعليق
+title: "Annotation.Flatten"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Annotation. تضع محتويات التعليق التوضيحي مباشرةً على الصفحة وسيتم إزالة كائن التعليق"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.annotations/annotation/flatten/
 ---
-## طريقة Annotation.Flatten
+## Annotation.Flatten method
 
-تضع محتويات التعليق مباشرة على الصفحة، وسيتم إزالة كائن التعليق.
+يضع محتويات التعليق التوضيحي مباشرة على الصفحة، سيتم إزالة كائن التعليق التوضيحي.
 
 ```csharp
 public virtual void Flatten()
@@ -19,3 +19,5 @@ public virtual void Flatten()
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

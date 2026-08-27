@@ -1,42 +1,44 @@
 ---
-title: Class SetColorRenderingIntent
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetColorRenderingIntent. فئة تمثل مشغل ri لتعيين نية عرض الألوان
+title: "الفئة SetColorRenderingIntent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.SetColorRenderingIntent. فئة تمثل عامل ri لتعيين نية عرض اللون"
 type: docs
-weight: 7650
+weight: 7790
 url: /ar/net/aspose.pdf.operators/setcolorrenderingintent/
 ---
 ## SetColorRenderingIntent class
 
-فئة تمثل مشغل ri (تعيين نية عرض الألوان).
+الفئة التي تمثل المشغل ri (تعيين نية عرض اللون).
 
 ```csharp
 public class SetColorRenderingIntent : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetColorRenderingIntent](setcolorrenderingintent/)(string) | مُنشئ مشغل تعيين نية عرض الألوان. |
+| [SetColorRenderingIntent](setcolorrenderingintent/)(string) | منشئ عامل Set Color Rendering Intent. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [IntentName](../../aspose.pdf.operators/setcolorrenderingintent/intentname/) { get; set; } | يحصل أو يحدد اسم نية عرض الألوان. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [IntentName](../../aspose.pdf.operators/setcolorrenderingintent/intentname/) { get; set; } | يحصل أو يعيّن اسم نية عرض اللون. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

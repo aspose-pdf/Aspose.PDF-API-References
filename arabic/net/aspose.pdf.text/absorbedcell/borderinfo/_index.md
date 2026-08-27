@@ -1,14 +1,14 @@
 ---
-title: AbsorbedCell.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AbsorbedCell. تُرجع معلومات الحدود للخلية عندما تكون خاصية FlowEngine.TableAbsorber.UseFlowEngine مضبوطة على true
+title: "AbsorbedCell.BorderInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AbsorbedCell. إرجاع معلومات الحدود للخلية عندما تكون خاصية FlowEngine.TableAbsorber.UseFlowEngine مضبوطة على true"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/absorbedcell/borderinfo/
 ---
-## خاصية AbsorbedCell.BorderInfo
+## AbsorbedCell.BorderInfo property
 
-تُرجع معلومات الحدود للخلية عندما تكون خاصية FlowEngine.TableAbsorber.UseFlowEngine مضبوطة على true.
+إرجاع معلومات الحدود للخلية عندما تكون خاصية FlowEngine.TableAbsorber.UseFlowEngine مضبوطة على true.
 
 ```csharp
 public BorderInfo BorderInfo { get; }
@@ -20,3 +20,5 @@ public BorderInfo BorderInfo { get; }
 * class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

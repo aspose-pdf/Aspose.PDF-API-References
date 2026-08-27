@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Height
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية الارتفاع مالك خاصية التخطيط
+title: "AttributeKey.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة Height سمة Layout المالك"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/height/
 ---
-## حقل AttributeKey.Height
+## AttributeKey.Height field
 
-خاصية الارتفاع (مالك خاصية التخطيط).
+خاصية Height (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey Height;
@@ -19,3 +19,5 @@ public static readonly AttributeKey Height;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

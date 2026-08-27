@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeKakuNumber2Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف كاكو 2 الياباني المائل
+title: "PaperSizes.JapaneseEnvelopeKakuNumber2Rotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف ياباني كاكو 2 مدور"
 type: docs
 weight: 550
 url: /ar/net/aspose.pdf.printing/papersizes/japaneseenvelopekakunumber2rotated/
 ---
-## حقل PaperSizes.JapaneseEnvelopeKakuNumber2Rotated
+## PaperSizes.JapaneseEnvelopeKakuNumber2Rotated field
 
-ظرف كاكو #2 الياباني المائل.
+ظرف ياباني Kaku #2 مدوَّر.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeKakuNumber2Rotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize JapaneseEnvelopeKakuNumber2Rotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

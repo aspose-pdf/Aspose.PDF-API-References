@@ -1,24 +1,24 @@
 ---
-title: PdfContentEditor.ReplaceImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تستبدل الصورة المحددة في الصفحة المحددة من مستند PDF بصورة أخرى
+title: "PdfContentEditor.ReplaceImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تستبدل الصورة المحددة في الصفحة المحددة من مستند PDF بصورة أخرى"
 type: docs
 weight: 440
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/replaceimage/
 ---
-## طريقة PdfContentEditor.ReplaceImage
+## PdfContentEditor.ReplaceImage method
 
-تستبدل الصورة المحددة في الصفحة المحددة من مستند PDF بصورة أخرى.
+يستبدل الصورة المحددة في الصفحة المحددة من مستند PDF بصورة أخرى.
 
 ```csharp
 public void ReplaceImage(int pageNumber, int index, string imageFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم الصفحة التي تم استبدال الصورة فيها. |
+| pageNumber | Int32 | عدد الصفحة التي تم استبدال الصورة فيها. |
 | index | Int32 | فهرس كائن الصورة الذي يجب استبداله. |
-| imageFile | String | ملف الصورة الذي سيتم استخدامه للاستبدال. |
+| imageFile | String | سيتم استخدام ملف الصورة للاستبدال. |
 
 ## أمثلة
 
@@ -34,3 +34,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

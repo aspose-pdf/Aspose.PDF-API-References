@@ -1,14 +1,14 @@
 ---
-title: Row.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصف. تحصل أو تعين الهامش الافتراضي لخلايا الصف
+title: "Row.DefaultCellPadding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Row. تحصل أو تعين الهوامش الافتراضية لخلايا الصف"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/row/defaultcellpadding/
 ---
-## خاصية Row.DefaultCellPadding
+## Row.DefaultCellPadding property
 
-تحصل أو تعين الهامش الافتراضي لخلايا الصف
+يحصل أو يضبط الهوامش الافتراضية لخلايا الصف
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo DefaultCellPadding { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

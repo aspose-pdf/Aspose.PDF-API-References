@@ -1,14 +1,14 @@
 ---
-title: CgmImportOptions.CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CgmImportOptions. المُنشئ الافتراضي
+title: "CgmImportOptions.CgmImportOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CgmImportOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 ---
-## مُنشئ CgmImportOptions
+## CgmImportOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CgmImportOptions()
@@ -19,3 +19,5 @@ public CgmImportOptions()
 * class [CgmImportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

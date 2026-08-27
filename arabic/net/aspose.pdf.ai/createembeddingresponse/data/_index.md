@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingResponse.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateEmbeddingResponse. تحصل أو تعين قائمة من كائنات التضمين
+title: "CreateEmbeddingResponse.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CreateEmbeddingResponse. يحصل أو يضبط قائمة من كائنات التضمين"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/createembeddingresponse/data/
 ---
-## خاصية CreateEmbeddingResponse.Data
+## CreateEmbeddingResponse.Data property
 
-تحصل أو تعين قائمة من كائنات التضمين.
+يحصل أو يعيّن قائمة من كائنات embedding.
 
 ```csharp
 public List<Embedding> Data { get; set; }
@@ -20,3 +20,5 @@ public List<Embedding> Data { get; set; }
 * class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

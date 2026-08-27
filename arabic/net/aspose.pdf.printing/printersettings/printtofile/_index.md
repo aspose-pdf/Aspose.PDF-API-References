@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrintToFile
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PrinterSettings. تشير إلى ما إذا كان يجب الطباعة إلى ملف بدلاً من منفذ
+title: "PrinterSettings.PrintToFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. تشير إلى ما إذا كان يجب الطباعة إلى ملف بدلاً من منفذ."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.printing/printersettings/printtofile/
 ---
-## خاصية PrinterSettings.PrintToFile
+## PrinterSettings.PrintToFile property
 
-تشير إلى ما إذا كان يجب الطباعة إلى ملف بدلاً من منفذ.
+يشير إلى ما إذا كان يجب الطباعة إلى ملف بدلاً من منفذ.
 
 ```csharp
 public bool PrintToFile { get; set; }
@@ -19,3 +19,5 @@ public bool PrintToFile { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

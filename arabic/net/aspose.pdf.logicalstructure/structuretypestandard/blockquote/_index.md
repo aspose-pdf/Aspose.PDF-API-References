@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.BlockQuote
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. الاقتباس الكتبي جزء من النص يتكون من فقرة أو أكثر تُنسب إلى شخص غير مؤلف النص المحيط
+title: "StructureTypeStandard.BlockQuote"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. Block quotation جزء من النص يتكون من فقرة واحدة أو أكثر يُنسب إلى شخص غير مؤلف النص المحيط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/blockquote/
 ---
-## حقل StructureTypeStandard.BlockQuote
+## StructureTypeStandard.BlockQuote field
 
-(الاقتباس الكتبي) جزء من النص يتكون من فقرة أو أكثر تُنسب إلى شخص غير مؤلف النص المحيط.
+(Block quotation) جزء من النص يتكون من فقرة أو أكثر يُنسب إلى شخص غير مؤلف النص المحيط.
 
 ```csharp
 public static readonly StructureTypeStandard BlockQuote;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard BlockQuote;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

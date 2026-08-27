@@ -1,14 +1,14 @@
 ---
-title: Class TextOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.TextOptions. تمثل خيارات معالجة النص
+title: "الفئة TextOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.TextOptions. تمثل خيارات معالجة النص"
 type: docs
-weight: 10980
+weight: 11160
 url: /ar/net/aspose.pdf.text/textoptions/
 ---
-## فئة خيارات النص
+## TextOptions class
 
-تمثل خيارات معالجة النص
+يمثل خيارات معالجة النص
 
 ```csharp
 public abstract class TextOptions
@@ -16,5 +16,7 @@ public abstract class TextOptions
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

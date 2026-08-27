@@ -1,22 +1,22 @@
 ---
-title: XmpPdfAExtensionSchema.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionSchema. تزيل الكائن من المخطط
+title: "XmpPdfAExtensionSchema.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpPdfAExtensionSchema طريقة. يزيل الكائن من المخطط"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/remove/
 ---
-## طريقة XmpPdfAExtensionSchema.Remove
+## XmpPdfAExtensionSchema.Remove method
 
-تزيل الكائن من المخطط.
+يزيل الكائن من المخطط.
 
 ```csharp
 public void Remove(XmpPdfAExtensionObject obj)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| obj | XmpPdfAExtensionObject | الكائن الذي سيتم إزالته. |
+| obj | XmpPdfAExtensionObject | الكائن لإزالته. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Remove(XmpPdfAExtensionObject obj)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

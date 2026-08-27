@@ -1,14 +1,14 @@
 ---
-title: TextSegment.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegment. تحصل أو تعين خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط
+title: "TextSegment.TextEditOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegment. يحصل على أو يضبط خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.text/textsegment/texteditoptions/
 ---
-## خاصية TextSegment.TextEditOptions
+## TextSegment.TextEditOptions property
 
-تحصل أو تعين خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط.
+يحصل أو يعيّن خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط.
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }
@@ -20,3 +20,5 @@ public TextEditOptions TextEditOptions { get; set; }
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

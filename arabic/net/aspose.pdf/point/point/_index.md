@@ -1,26 +1,28 @@
 ---
-title: Point.Point
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ نقطة. يُهيئ مثيلًا جديدًا من النقطة
+title: "Point.Point"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Point. يهيئ نسخة جديدة من Point"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/point/point/
 ---
-## مُنشئ نقطة
+## Point constructor
 
-يُهيئ مثيلًا جديدًا من [`Point`](../).
+يهيئ نسخة جديدة من [`Point`](../).
 
 ```csharp
 public Point(double x, double y)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | x | Double | قيمة إحداثي x. |
 | y | Double | قيمة إحداثي y. |
 
 ### انظر أيضًا
 
-* الفئة [Point](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

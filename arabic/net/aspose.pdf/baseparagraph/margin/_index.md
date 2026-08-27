@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseParagraph. تحصل أو تعين هامش خارجي للفقرة لتوليد PDF
+title: "BaseParagraph.Margin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseParagraph. يحصل أو يعيّن هامشًا خارجيًا للفقرة لتوليد PDF."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/baseparagraph/margin/
 ---
-## خاصية BaseParagraph.Margin
+## BaseParagraph.Margin property
 
-تحصل أو تعين هامش خارجي للفقرة (لتوليد PDF)
+يحصل أو يعيّن هامشًا خارجيًا للفقرة (لإنشاء PDF)
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

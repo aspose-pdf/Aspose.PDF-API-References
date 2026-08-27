@@ -1,14 +1,14 @@
 ---
-title: AbsorbedTable.RowList
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AbsorbedTable. تحصل على IList للقراءة فقط تحتوي على صفوف الجدول
+title: "AbsorbedTable.RowList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AbsorbedTable. تحصل على IList للقراءة فقط يحتوي على صفوف الجدول"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/absorbedtable/rowlist/
 ---
-## خاصية AbsorbedTable.RowList
+## AbsorbedTable.RowList property
 
-تحصل على IList للقراءة فقط تحتوي على صفوف الجدول
+يحصل على IList للقراءة فقط يحتوي على صفوف الجدول
 
 ```csharp
 public IList<AbsorbedRow> RowList { get; }
@@ -20,3 +20,5 @@ public IList<AbsorbedRow> RowList { get; }
 * class [AbsorbedTable](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

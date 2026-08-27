@@ -1,14 +1,14 @@
 ---
-title: Measure.AngleFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. مصفوفة تنسيق الأرقام لقياس الزوايا
+title: "Measure.AngleFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. مصفوفة تنسيق أرقام لقياس الزوايا"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/measure/angleformat/
 ---
-## خاصية Measure.AngleFormat
+## Measure.AngleFormat property
 
-مصفوفة تنسيق الأرقام لقياس الزوايا.
+مصفوفة تنسيق أعداد لقياس الزوايا.
 
 ```csharp
 public NumberFormatList AngleFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList AngleFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

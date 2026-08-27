@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ThreadMessageListQueryParameters. تحصل على معلمات الاستعلام لقائمة رسائل الخيط
+title: "ThreadMessageListQueryParameters.GetQueryParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ThreadMessageListQueryParameters. يحصل على معلمات الاستعلام لسرد رسائل الخيط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/threadmessagelistqueryparameters/getqueryparameters/
 ---
-## طريقة ThreadMessageListQueryParameters.GetQueryParameters
+## ThreadMessageListQueryParameters.GetQueryParameters method
 
-تحصل على معلمات الاستعلام لقائمة رسائل الخيط.
+يحصل على معلمات الاستعلام لإدراج رسائل الخيط.
 
 ```csharp
 public string GetQueryParameters()
@@ -23,3 +23,5 @@ public string GetQueryParameters()
 * class [ThreadMessageListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DestinationCollection. تعيد العداد
+title: "DestinationCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DestinationCollection. تُعيد المُعدِّد."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/destinationcollection/getenumerator/
 ---
-## طريقة DestinationCollection.GetEnumerator
+## DestinationCollection.GetEnumerator method
 
-تعيد العداد.
+يرجع المُعدِّد.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
@@ -16,10 +16,12 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### قيمة الإرجاع
 
-العداد.
+المُعدِّد.
 
 ### انظر أيضًا
 
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

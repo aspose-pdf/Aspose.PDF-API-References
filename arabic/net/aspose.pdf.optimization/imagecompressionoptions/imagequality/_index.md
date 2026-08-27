@@ -1,14 +1,14 @@
 ---
-title: ImageCompressionOptions.ImageQuality
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية خياراتضغطالصورة. تحدد مستوى ضغط الصورة عند استخدام علامة CompressIamges
+title: "ImageCompressionOptions.ImageQuality"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageCompressionOptions. تحدد مستوى ضغط الصورة عندما يتم استخدام العلامة CompressImages"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.optimization/imagecompressionoptions/imagequality/
 ---
-## خاصية خياراتضغطالصورة.جودةالصورة
+## ImageCompressionOptions.ImageQuality property
 
-تحدد مستوى ضغط الصورة عند استخدام علامة CompressIamges.
+يحدد مستوى ضغط image عندما يتم استخدام علامة CompressImages.
 
 ```csharp
 public int ImageQuality { get; set; }
@@ -19,3 +19,5 @@ public int ImageQuality { get; set; }
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

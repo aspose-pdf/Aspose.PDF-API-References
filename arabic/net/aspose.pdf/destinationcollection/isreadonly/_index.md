@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DestinationCollection. تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
+title: "DestinationCollection.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DestinationCollection. يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/destinationcollection/isreadonly/
 ---
-## خاصية DestinationCollection.IsReadOnly
+## DestinationCollection.IsReadOnly property
 
-تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط.
+يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public bool IsReadOnly { get; }
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

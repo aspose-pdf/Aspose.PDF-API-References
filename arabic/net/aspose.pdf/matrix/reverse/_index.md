@@ -1,14 +1,14 @@
 ---
-title: Matrix.Reverse
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المصفوفة. تحسب المصفوفة العكسية
+title: "Matrix.Reverse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. تحسب المصفوفة العكسية"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf/matrix/reverse/
 ---
-## طريقة Matrix.Reverse
+## Matrix.Reverse method
 
-تحسب المصفوفة العكسية.
+يحسب المصفوفة العكسية.
 
 ```csharp
 public Matrix Reverse()
@@ -16,7 +16,7 @@ public Matrix Reverse()
 
 ### قيمة الإرجاع
 
-المصفوفة العكسية.
+مصفوفة عكسية.
 
 ## أمثلة
 
@@ -30,3 +30,5 @@ Matrix m1 = m.Reverse();
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

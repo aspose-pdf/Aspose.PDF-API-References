@@ -1,14 +1,14 @@
 ---
-title: OrganizerBaseOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OrganizerBaseOptions. تحصل على مجموعة من الأهداف المضافة لنتائج عمليات الحفظ
+title: "OrganizerBaseOptions.Outputs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OrganizerBaseOptions. يحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/organizerbaseoptions/outputs/
 ---
-## خاصية OrganizerBaseOptions.Outputs
+## OrganizerBaseOptions.Outputs property
 
-تحصل على مجموعة من الأهداف المضافة لنتائج عمليات الحفظ.
+يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### انظر أيضًا
 
-* واجهة [IDataSource](../../idatasource/)
-* فئة [OrganizerBaseOptions](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

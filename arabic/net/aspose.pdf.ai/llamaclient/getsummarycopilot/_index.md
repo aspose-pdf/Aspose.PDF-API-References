@@ -1,32 +1,34 @@
 ---
-title: LlamaClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaClient. تحصل على مثيل من ISummaryCopilot مع الخيارات المحددة
+title: "LlamaClient.GetSummaryCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaClient. تحصل على نسخة من ISummaryCopilot باستخدام الخيارات المحددة."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/llamaclient/getsummarycopilot/
 ---
-## طريقة LlamaClient.GetSummaryCopilot
+## LlamaClient.GetSummaryCopilot method
 
-تحصل على مثيل من [`ISummaryCopilot`](../../isummarycopilot/) مع الخيارات المحددة.
+تحصل على نسخة من [`ISummaryCopilot`](../../isummarycopilot/) مع الخيارات المحددة.
 
 ```csharp
 public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<LlamaSummaryCopilotOptions> options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | الخيارات الخاصة بكوبيلوت الملخص. |
+| options | ISummaryCopilotOptions`1 | الخيارات للمساعد التلخيصي. |
 
 ### قيمة الإرجاع
 
-مثيل من [`ISummaryCopilot`](../../isummarycopilot/).
+نسخة من [`ISummaryCopilot`](../../isummarycopilot/).
 
 ### انظر أيضًا
 
-* واجهة [ISummaryCopilot](../../isummarycopilot/)
-* واجهة [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* فئة [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
-* فئة [LlamaClient](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

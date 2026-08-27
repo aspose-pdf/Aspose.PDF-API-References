@@ -1,22 +1,22 @@
 ---
-title: RadioButtonField.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة RadioButtonField. نقل جميع العناصر الفرعية لزر الراديو إلى المواقع المحددة على الصفحة
+title: "RadioButtonField.SetPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة RadioButtonField. نقل جميع العناصر الفرعية لزر الاختيار إلى المواقع المحددة على الصفحة."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.forms/radiobuttonfield/setposition/
 ---
-## طريقة RadioButtonField.SetPosition
+## RadioButtonField.SetPosition method
 
-نقل جميع العناصر الفرعية لزر الراديو إلى المواقع المحددة على الصفحة.
+انقل جميع العناصر الفرعية لزر الاختيار إلى المواضع المحددة على الصفحة.
 
 ```csharp
 public override void SetPosition(Point point)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| point | Point | يحدد موضع تعليقات حقل RadioButton. |
+| نقطة | نقطة | يضبط موضع تعليقات حقل RadioButton. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void SetPosition(Point point)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

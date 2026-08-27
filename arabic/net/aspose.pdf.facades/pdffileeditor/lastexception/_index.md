@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.LastException
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. تحصل على آخر استثناء حدث. يمكن استخدامها للتحقق من سبب الفشل
+title: "PdfFileEditor.LastException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. تحصل على آخر استثناء حدث. قد تُستخدم للتحقق من سبب الفشل."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.facades/pdffileeditor/lastexception/
 ---
-## خاصية PdfFileEditor.LastException
+## PdfFileEditor.LastException property
 
-تحصل على آخر استثناء حدث. يمكن استخدامها للتحقق من سبب الفشل.
+يحصل على آخر استثناء حدث. يمكن استخدامه للتحقق من سبب الفشل.
 
 ```csharp
 public Exception LastException { get; }
@@ -35,3 +35,5 @@ if (!pfe.TryConcatenate("file1.pdf", "file2.pdf", "file3.pdf"))
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

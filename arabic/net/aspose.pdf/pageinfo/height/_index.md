@@ -1,14 +1,14 @@
 ---
-title: PageInfo.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageInfo. تحصل أو تعين ارتفاع الصفحة
+title: "PageInfo.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageInfo. تحصل أو تعين ارتفاع الصفحة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/pageinfo/height/
 ---
-## خاصية PageInfo.Height
+## PageInfo.Height property
 
-تحصل أو تعين ارتفاع الصفحة.
+يحصل أو يضبط ارتفاع الصفحة.
 
 ```csharp
 public double Height { get; set; }
@@ -19,3 +19,5 @@ public double Height { get; set; }
 * class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

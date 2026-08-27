@@ -1,9 +1,9 @@
 ---
-title: Class CustomExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CustomExplicitDestination class. يمثل وجهة صريحة مخصصة
+title: "الفئة CustomExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Annotations.CustomExplicitDestination. تمثل وجهة صريحة مخصصة."
 type: docs
-weight: 1640
+weight: 1730
 url: /ar/net/aspose.pdf.annotations/customexplicitdestination/
 ---
 ## CustomExplicitDestination class
@@ -14,21 +14,23 @@ url: /ar/net/aspose.pdf.annotations/customexplicitdestination/
 public sealed class CustomExplicitDestination : ExplicitDestination
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | يحصل على كائن صفحة الوجهة |
 | [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | يحصل على رقم صفحة الوجهة |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring/)() | يحول إلى رقم الصفحة. |
+| override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring/)() | يحول إلى رقم Page. |
 
-### See Also
+### انظر أيضًا
 
 * class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

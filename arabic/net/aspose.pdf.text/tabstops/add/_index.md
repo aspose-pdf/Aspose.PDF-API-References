@@ -1,24 +1,24 @@
 ---
-title: TabStops.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TabStops. تقوم بتهيئة مثيل جديد من فئة TabStop وإضافته إلى مجموعة TabStops
+title: "TabStops.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TabStops. تُنشئ مثيلاً جديدًا لفئة TabStop وتضيفه إلى مجموعة TabStops"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/tabstops/add/
 ---
 ## Add() {#add}
 
-تهيئ مثيل جديد من فئة [`TabStop`](../../tabstop/) وتضيفه إلى مجموعة TabStops.
+تُنشئ مثيلاً جديدًا لفئة [`TabStop`](../../tabstop/) وتضيفه إلى مجموعة TabStops.
 
 ```csharp
 public TabStop Add()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-كائن [`TabStop`](../../tabstop/) الجديد.
+الكائن الجديد [`TabStop`](../../tabstop/).
 
-### See Also
+### انظر أيضًا
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -29,21 +29,21 @@ public TabStop Add()
 
 ## Add(float) {#add_1}
 
-تهيئ مثيل جديد من فئة [`TabStop`](../../tabstop/) بموقع محدد وتضيفه إلى مجموعة TabStops.
+تُنشئ مثيلاً جديدًا لفئة [`TabStop`](../../tabstop/) بالموضع المحدد وتضيفه إلى مجموعة TabStops.
 
 ```csharp
 public TabStop Add(float position)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| position | Single | موقع توقف التبويب. |
+| الموضع | Single | موضع علامة التبويب. |
 
-### Return Value
+### قيمة الإرجاع
 
-كائن [`TabStop`](../../tabstop/) الجديد.
+الكائن الجديد [`TabStop`](../../tabstop/).
 
-### See Also
+### انظر أيضًا
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -54,17 +54,17 @@ public TabStop Add(float position)
 
 ## Add(TabStop) {#add_3}
 
-أضف مثيل من فئة [`TabStop`](../../tabstop/) إلى مجموعة TabStops.
+أضف مثيلاً لفئة [`TabStop`](../../tabstop/) إلى مجموعة TabStops.
 
 ```csharp
 public void Add(TabStop tabStop)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| tabStop | TabStop | كائن [`TabStop`](../../tabstop/). |
+| tabStop | TabStop | الكائن [`TabStop`](../../tabstop/). |
 
-### See Also
+### انظر أيضًا
 
 * class [TabStop](../../tabstop/)
 * class [TabStops](../)
@@ -75,25 +75,27 @@ public void Add(TabStop tabStop)
 
 ## Add(float, TabLeaderType) {#add_2}
 
-تهيئ مثيل جديد من فئة [`TabStop`](../../tabstop/) بموقع ونوع قائد محددين وتضيفه إلى مجموعة TabStops.
+تُنشئ مثيلاً جديدًا لفئة [`TabStop`](../../tabstop/) بالموضع والنوع القائد المحددين وتضيفه إلى مجموعة TabStops.
 
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| position | Single | موقع توقف التبويب. |
-| leaderType | TabLeaderType | نوع قائد توقف التبويب. |
+| الموضع | Single | موضع علامة التبويب. |
+| leaderType | TabLeaderType | نوع القائد لعلامة التبويب. |
 
-### Return Value
+### قيمة الإرجاع
 
-كائن [`TabStop`](../../tabstop/) الجديد.
+الكائن الجديد [`TabStop`](../../tabstop/).
 
-### See Also
+### انظر أيضًا
 
 * class [TabStop](../../tabstop/)
 * enum [TabLeaderType](../../tableadertype/)
 * class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

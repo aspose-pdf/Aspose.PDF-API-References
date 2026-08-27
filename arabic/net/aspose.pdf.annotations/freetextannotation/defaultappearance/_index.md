@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FreeTextAnnotation. تحصل أو تعين سلسلة المظهر الافتراضي التي سيتم استخدامها في تنسيق النص
+title: "FreeTextAnnotation.DefaultAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FreeTextAnnotation property. يحصل أو يضبط سلسلة المظهر الافتراضي لاستخدامها في تنسيق النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/freetextannotation/defaultappearance/
 ---
-## خاصية FreeTextAnnotation.DefaultAppearance
+## FreeTextAnnotation.DefaultAppearance property
 
-تحصل أو تعين سلسلة المظهر الافتراضي التي سيتم استخدامها في تنسيق النص.
+يحصل أو يعيّن سلسلة المظهر الافتراضية التي تُستخدم في تنسيق النص.
 
 ```csharp
 public string DefaultAppearance { get; set; }
@@ -19,3 +19,5 @@ public string DefaultAppearance { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

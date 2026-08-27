@@ -1,14 +1,14 @@
 ---
-title: FormComboBoxFieldCreateOptions.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormComboBoxFieldCreateOptions. تحصل/تضبط القيمة لتحديد خاصية Selected لحقل ComboBoxField الذي تم إنشاؤه إذا سيتم تعيينه
+title: "FormComboBoxFieldCreateOptions.Selected"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormComboBoxFieldCreateOptions. يحصل/يضبط القيمة لتحديد خاصية Selected لحقل ComboBoxField المُنشأ إذا سيتم تعيينها"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/selected/
 ---
-## خاصية FormComboBoxFieldCreateOptions.Selected
+## FormComboBoxFieldCreateOptions.Selected property
 
-تحصل/تضبط القيمة لتحديد خاصية Selected لحقل ComboBoxField الذي تم إنشاؤه (إذا سيتم تعيينه).
+يحصل/يضبط القيمة لتحديد خاصية Selected للـ ComboBoxField المُنشأ (إذا تم ضبطها).
 
 ```csharp
 public int? Selected { get; set; }
@@ -19,3 +19,5 @@ public int? Selected { get; set; }
 * class [FormComboBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

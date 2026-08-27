@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Seed
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompletionCreateRequest. تحصل أو تعين قيمة Seed. هذه الميزة في النسخة التجريبية. إذا تم تحديدها، سيبذل نظامنا جهدًا كبيرًا لأخذ عينات بشكل حتمي بحيث يجب أن تعيد الطلبات المتكررة بنفس القيمة والمعلمات نفس النتيجة. لا يتم ضمان الحتمية، ويجب عليك الرجوع إلى معلمة استجابة system_fingerprint لمراقبة التغييرات في الخلفية.
+title: "CompletionCreateRequest.Seed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompletionCreateRequest. تحصل أو تعيين قيمة الـ Seed. هذه الميزة في مرحلة التجريب (Beta). إذا تم تحديدها، سيحاول نظامنا بأقصى جهد عينة بشكل حتمي بحيث أن الطلبات المتكررة بنفس الـ seed والمعلمات يجب أن تُعيد النتيجة نفسها. لا يُضمن الحتمية ويجب الرجوع إلى معلمة الاستجابة system_fingerprint لمراقبة التغييرات في الخلفية."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.ai/completioncreaterequest/seed/
 ---
-## خاصية CompletionCreateRequest.Seed
+## CompletionCreateRequest.Seed property
 
-تحصل أو تعين قيمة Seed. هذه الميزة في النسخة التجريبية. إذا تم تحديدها، سيبذل نظامنا جهدًا كبيرًا لأخذ عينات بشكل حتمي، بحيث يجب أن تعيد الطلبات المتكررة بنفس القيمة والمعلمات نفس النتيجة. لا يتم ضمان الحتمية، ويجب عليك الرجوع إلى معلمة استجابة system_fingerprint لمراقبة التغييرات في الخلفية.
+يحصل أو يضبط قيمة البذرة. هذه الميزة في مرحلة التجريب. إذا تم تحديدها، سيحاول نظامنا أخذ عينات بشكل حتمي، بحيث تُعيد الطلبات المتكررة ذات البذرة والمعلمات نفسها النتيجة نفسها. لا يُضمن الحتمية، ويجب الرجوع إلى معلمة الاستجابة system_fingerprint لمراقبة التغييرات في الخلفية.
 
 ```csharp
 public int? Seed { get; set; }
@@ -19,3 +19,5 @@ public int? Seed { get; set; }
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

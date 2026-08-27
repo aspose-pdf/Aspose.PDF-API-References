@@ -1,14 +1,14 @@
 ---
-title: DocumentActionCollection.AfterSaving
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentActionCollection. تحصل أو تعين الإجراء الذي سيتم تنفيذه بعد حفظ المستند
+title: "DocumentActionCollection.AfterSaving"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentActionCollection. تحصل أو تعين الإجراء الذي سيتم تنفيذه بعد حفظ المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/documentactioncollection/aftersaving/
 ---
-## خاصية DocumentActionCollection.AfterSaving
+## DocumentActionCollection.AfterSaving property
 
-تحصل أو تعين الإجراء الذي سيتم تنفيذه بعد حفظ المستند.
+يحصل أو يعيّن الإجراء الذي سيتم تنفيذه بعد حفظ المستند.
 
 ```csharp
 public PdfAction AfterSaving { get; set; }
@@ -20,3 +20,5 @@ public PdfAction AfterSaving { get; set; }
 * class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

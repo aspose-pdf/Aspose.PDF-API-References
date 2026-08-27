@@ -1,14 +1,14 @@
 ---
-title: TextState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تعيين نمط خط النص
+title: "TextState.FontStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. تعيين نمط الخط للنص"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textstate/fontstyle/
 ---
-## خاصية TextState.FontStyle
+## TextState.FontStyle property
 
-تعيين نمط خط النص.
+يضبط نمط خط النص.
 
 ```csharp
 public virtual FontStyles FontStyle { get; set; }
@@ -20,3 +20,5 @@ public virtual FontStyles FontStyle { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

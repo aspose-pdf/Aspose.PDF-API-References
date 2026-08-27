@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Plugins.ISaveTarget. واجهة هدف الحفظ العامة التي تحدد الأعضاء المشتركين التي يجب أن تنفذها أهداف حفظ نتائج العمليات المحددة
+title: "واجهة ISaveTarget"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.Plugins.ISaveTarget. واجهة هدف الحفظ العامة التي تحدد الأعضاء المشتركة التي يجب أن تنفذها هدف حفظ نتيجة العملية الملموسة."
 type: docs
-weight: 8880
+weight: 9010
 url: /ar/net/aspose.pdf.plugins/isavetarget/
 ---
-## واجهة ISaveTarget
+## ISaveTarget interface
 
-واجهة هدف الحفظ العامة التي تحدد الأعضاء المشتركين التي يجب أن تنفذها أهداف حفظ نتائج العمليات المحددة.
+واجهة هدف الحفظ العامة التي تحدد الأعضاء المشتركة التي يجب على هدف حفظ نتيجة العملية الفعلي تنفيذها.
 
 ```csharp
 public interface ISaveTarget
@@ -22,5 +22,7 @@ public interface ISaveTarget
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

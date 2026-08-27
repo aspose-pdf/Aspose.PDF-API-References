@@ -1,14 +1,14 @@
 ---
-title: Arc.PosY
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Arc. تحصل أو تعين قيمة عائمة تشير إلى إحداثي y لمركز القوس
+title: "Arc.PosY"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Arc. يحصل أو يضبط قيمة عائمة تشير إلى إحداثي y لمركز القوس"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.drawing/arc/posy/
 ---
-## خاصية Arc.PosY
+## Arc.PosY property
 
-تحصل أو تعين قيمة عائمة تشير إلى إحداثي y لمركز القوس.
+يحصل أو يعيّن قيمة float تُشير إلى إحداثي y لمركز القوس.
 
 ```csharp
 public double PosY { get; set; }
@@ -19,3 +19,5 @@ public double PosY { get; set; }
 * class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

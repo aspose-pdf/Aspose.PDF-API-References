@@ -1,34 +1,36 @@
 ---
-title: Class DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.DocConverter. تمثل مكون DocConverter
+title: "الفئة DocConverter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.DocConverter. تمثل مكوّن DocConverter الإضافي"
 type: docs
-weight: 8530
+weight: 8660
 url: /ar/net/aspose.pdf.plugins/docconverter/
 ---
 ## DocConverter class
 
-تمثل مكون `DocConverter`.
+تمثل المكوّن الإضافي `DocConverter`.
 
 ```csharp
 public sealed class DocConverter : IDisposable, IPlugin
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DocConverter](docconverter/)() | الباني الافتراضي. |
+| [DocConverter](docconverter/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Dispose](../../aspose.pdf.plugins/docconverter/dispose/)() | تنفيذ IDisposable. |
-| [Process](../../aspose.pdf.plugins/docconverter/process/)(IPluginOptions) | يبدأ معالجة `DocConverter` مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/docconverter/process/)(IPluginOptions) | يبدأ معالجة `DocConverter` بالمعلمات المحددة. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

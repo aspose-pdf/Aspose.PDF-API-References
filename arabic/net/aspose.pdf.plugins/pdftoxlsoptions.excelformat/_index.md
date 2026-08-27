@@ -1,9 +1,9 @@
 ---
-title: Enum PdfToXlsOptions.ExcelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToXlsOptionsExcelFormat enum. يسمح بتحديد تنسيق ملف .xlsx أو .xls/xml أو csv. القيمة الافتراضية هي XLSX
+title: "التعداد PdfToXlsOptions.ExcelFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Plugins.PdfToXlsOptionsExcelFormat. يسمح بتحديد تنسيق ملف .xlsx .xls/xml أو csv. القيمة الافتراضية هي XLSX"
 type: docs
-weight: 9160
+weight: 9310
 url: /ar/net/aspose.pdf.plugins/pdftoxlsoptions.excelformat/
 ---
 ## PdfToXlsOptions.ExcelFormat enumeration
@@ -14,18 +14,20 @@ url: /ar/net/aspose.pdf.plugins/pdftoxlsoptions.excelformat/
 public enum ExcelFormat
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | XMLSpreadSheet2003 | `0` | تنسيق Excel 2003 XML |
 | XLSX | `1` | تنسيق ملف Office Open XML (.xlsx) |
 | CSV | `2` | تنسيق ملف القيم المفصولة بفواصل (CSV) |
-| XLSM | `3` | تنسيق ملف Office Open XML مع تمكين الماكرو (.xlsm) |
+| XLSM | `3` | تنسيق ملف Office Open XML (.xlsm) المدعوم بالماكرو |
 | ODS | `4` | جدول بيانات OpenDocument |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfToXlsOptions](../pdftoxlsoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

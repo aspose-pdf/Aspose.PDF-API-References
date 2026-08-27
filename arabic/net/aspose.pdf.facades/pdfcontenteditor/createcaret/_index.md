@@ -1,28 +1,28 @@
 ---
-title: PdfContentEditor.CreateCaret
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليق المؤشر
+title: "PdfContentEditor.CreateCaret"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تنشئ تعليقة caret."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createcaret/
 ---
-## طريقة PdfContentEditor.CreateCaret
+## PdfContentEditor.CreateCaret method
 
-تنشئ تعليق المؤشر.
+ينشئ تعليقة caret.
 
 ```csharp
 public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, string symbol, 
     string annotContents, Color color)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الصفحة | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق. |
-| annotRect | Rectangle | مستطيل التعليق الذي يحدد موقع التعليق على الصفحة. |
-| caretRect | Rectangle | الحدود الفعلية للمؤشر الأساسي. |
-| الرمز | String | سيتم ربط رمز بالمؤشر. القيمة يمكن أن تكون: "P" (فقرة)، "لا شيء". |
-| محتويات التعليق | String | محتويات التعليق. |
-| اللون | Color | لون التعليق. |
+| صفحة | Int32 | عدد الصفحة الأصلية التي سيُنشأ فيها التعليق. |
+| annotRect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| caretRect | Rectangle | الحدود الفعلية للـ caret الأساسي. |
+| رمز | String | سيتم ربط رمز بالـ caret. يمكن أن تكون القيمة: "P" (فقرة)، "None". |
+| annotContents | String | محتوى التعليق التوضيحي. |
+| color | Color | لون التعليق التوضيحي. |
 
 ## أمثلة
 
@@ -41,3 +41,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

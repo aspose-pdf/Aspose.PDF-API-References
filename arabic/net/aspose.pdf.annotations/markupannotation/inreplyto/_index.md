@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.InReplyTo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupAnnotation. إشارة إلى التعليق الذي يتم الرد عليه. يجب أن تكون كلا التعليقين على نفس صفحة الوثيقة
+title: "MarkupAnnotation.InReplyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupAnnotation. إشارة إلى التعليق الذي يتم الرد عليه من قبل هذا التعليق. يجب أن يكون كلا التعليقين على نفس صفحة المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/markupannotation/inreplyto/
 ---
-## خاصية MarkupAnnotation.InReplyTo
+## MarkupAnnotation.InReplyTo property
 
-إشارة إلى التعليق الذي يتم "الرد عليه" من قبل هذا التعليق. يجب أن تكون كلا التعليقين على نفس صفحة الوثيقة.
+إشارة إلى التعليق الذي يكون هذا التعليق "رداً على". يجب أن يكون كلا التعليقين على نفس صفحة المستند.
 
 ```csharp
 public Annotation InReplyTo { get; set; }
@@ -20,3 +20,5 @@ public Annotation InReplyTo { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

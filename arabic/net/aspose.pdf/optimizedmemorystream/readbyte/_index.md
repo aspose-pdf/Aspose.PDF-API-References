@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.ReadByte
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptimizedMemoryStream. تقرأ بايت من الدفق وتقدم الموضع داخل الدفق ببايت واحد أو تعيد -1 إذا كانت في نهاية الدفق
+title: "OptimizedMemoryStream.ReadByte"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptimizedMemoryStream. تقرأ بايتًا من التدفق وتقدم الموضع داخل التدفق بايتًا واحدًا أو تُعيد 1 إذا كان عند نهاية التدفق"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/optimizedmemorystream/readbyte/
 ---
-## طريقة OptimizedMemoryStream.ReadByte
+## OptimizedMemoryStream.ReadByte method
 
-تقرأ بايت من الدفق وتقدم الموضع داخل الدفق ببايت واحد، أو تعيد -1 إذا كانت في نهاية الدفق.
+تقرا بايتاً من التيار وتقدّم الموضع داخل التيار بايت واحد، أو تُعيد -1 إذا كان عند نهاية التيار.
 
 ```csharp
 public override int ReadByte()
@@ -16,10 +16,12 @@ public override int ReadByte()
 
 ### قيمة الإرجاع
 
-بايت أو -1 إذا كانت في نهاية الدفق.
+بايت أو -1 إذا كان عند نهاية التدفق.
 
 ### انظر أيضًا
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

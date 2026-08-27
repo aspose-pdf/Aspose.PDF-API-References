@@ -1,26 +1,26 @@
 ---
-title: TextFragmentState.ApplyChangesFrom
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextFragmentState. تطبق الإعدادات من نص آخر
+title: "TextFragmentState.ApplyChangesFrom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextFragmentState. تُطبق الإعدادات من textState آخر"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.text/textfragmentstate/applychangesfrom/
 ---
-## طريقة TextFragmentState.ApplyChangesFrom
+## TextFragmentState.ApplyChangesFrom method
 
-تطبق الإعدادات من نص آخر.
+يطبق الإعدادات من كائن textState آخر.
 
 ```csharp
 public override void ApplyChangesFrom(TextState textState)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textState | TextState | كائن حالة النص. |
 
 ## ملاحظات
 
-سيتم نسخ الخصائص التي تم تغييرها فقط بشكل صريح.
+سيتم نسخ تلك الخصائص فقط التي تم تغييرها صراحةً.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public override void ApplyChangesFrom(TextState textState)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

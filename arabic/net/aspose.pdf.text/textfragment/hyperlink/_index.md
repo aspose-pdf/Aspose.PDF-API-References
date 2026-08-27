@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تعيين رابط الجزء
+title: "TextFragment.Hyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextFragment خاصية. يضبط ارتباط الجزء"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textfragment/hyperlink/
 ---
-## خاصية TextFragment.Hyperlink
+## TextFragment.Hyperlink property
 
-تعيين رابط الجزء
+يعيّن الارتباط التشعبي للجزء.
 
 ```csharp
 public override Hyperlink Hyperlink { set; }
@@ -20,3 +20,5 @@ public override Hyperlink Hyperlink { set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,34 +1,36 @@
 ---
-title: Class WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.WebHyperlink. تمثل كائن الارتباط التشعبي على الويب
+title: "الفئة WebHyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.WebHyperlink. تمثل كائن ارتباط ويب"
 type: docs
-weight: 11320
+weight: 11510
 url: /ar/net/aspose.pdf/webhyperlink/
 ---
 ## WebHyperlink class
 
-تمثل كائن الارتباط التشعبي على الويب.
+يمثل كائن رابط ويب.
 
 ```csharp
 public sealed class WebHyperlink : Hyperlink
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [WebHyperlink](webhyperlink/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `WebHyperlink`. |
-| [WebHyperlink](webhyperlink/#constructor_1)(string) | يقوم بتهيئة مثيل جديد من فئة `WebHyperlink`. |
+| [WebHyperlink](webhyperlink/#constructor)() | يُنشئ نسخة جديدة من الفئة `WebHyperlink`. |
+| [WebHyperlink](webhyperlink/#constructor_1)(string) | يُنشئ نسخة جديدة من الفئة `WebHyperlink`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | يحصل على عنوان الويب أو يعيّنه. |
+| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | يحصل على أو يضبط عنوان URL الويب. |
 
-### See Also
+### انظر أيضًا
 
 * class [Hyperlink](../hyperlink/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

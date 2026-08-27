@@ -1,14 +1,14 @@
 ---
-title: Document.Direction
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل أو تعين ترتيب قراءة النص L2R من اليسار إلى اليمين أو R2L من اليمين إلى اليسار
+title: "Document.Direction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تحصل أو تعين ترتيب قراءة النص L2R من اليسار إلى اليمين أو R2L من اليمين إلى اليسار"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.pdf/document/direction/
 ---
-## خاصية Document.Direction
+## Document.Direction property
 
-تحصل أو تعين ترتيب قراءة النص: L2R (من اليسار إلى اليمين) أو R2L (من اليمين إلى اليسار).
+يحصل أو يعيّن ترتيب قراءة النص: L2R (من اليسار إلى اليمين) أو R2L (من اليمين إلى اليسار).
 
 ```csharp
 public Direction Direction { get; set; }
@@ -20,3 +20,5 @@ public Direction Direction { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

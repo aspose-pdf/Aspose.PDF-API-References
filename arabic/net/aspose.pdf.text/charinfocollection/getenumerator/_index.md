@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CharInfoCollection. تُرجع عدادًا للمجموعة بأكملها
+title: "CharInfoCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CharInfoCollection method. Returns an enumerator for the entire collection"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.text/charinfocollection/getenumerator/
 ---
-## طريقة CharInfoCollection.GetEnumerator
+## CharInfoCollection.GetEnumerator method
 
-تُرجع عدادًا للمجموعة بأكملها.
+يرجع عدّادًا للمجموعة بالكامل.
 
 ```csharp
 public IEnumerator<CharInfo> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<CharInfo> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد.
+Enumerator object.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<CharInfo> GetEnumerator()
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

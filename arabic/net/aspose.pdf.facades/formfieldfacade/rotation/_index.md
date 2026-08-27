@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. دوران نص الحقل
+title: "FormFieldFacade.Rotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldFacade. دوران نص الحقل"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/formfieldfacade/rotation/
 ---
-## خاصية FormFieldFacade.Rotation
+## FormFieldFacade.Rotation property
 
 دوران نص الحقل.
 
@@ -19,3 +19,5 @@ public int Rotation { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

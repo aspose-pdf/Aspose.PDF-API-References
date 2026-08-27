@@ -1,25 +1,27 @@
 ---
-title: DocumentInfo.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. تحصل أو تعين القيمة المرتبطة بالمفتاح المحدد
+title: "DocumentInfo.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DocumentInfo خاصية. يحصل أو يضبط القيمة المرتبطة بالمفتاح المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/documentinfo/item/
 ---
-## فهرس DocumentInfo
+## DocumentInfo indexer
 
-تحصل أو تعين القيمة المرتبطة بالمفتاح المحدد.
+الحصول أو الضبط للقيمة المرتبطة بالمفتاح المحدد.
 
 ```csharp
 public string this[string key] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| key | المفتاح الذي ترغب في الحصول على قيمته أو تعيينها. |
+| المفتاح | المفتاح الذي تريد الحصول على قيمته أو ضبطها. |
 
 ### انظر أيضًا
 
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

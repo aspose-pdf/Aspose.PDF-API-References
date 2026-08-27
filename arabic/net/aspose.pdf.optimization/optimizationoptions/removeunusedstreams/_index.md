@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.RemoveUnusedStreams
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptimizationOptions. إذا تم تعيين هذا العلم إلى true، يتم التحقق من استخدام كل مورد. إذا لم يتم استخدام المورد أبدًا، يتم إزالة الموارد. قد يقلل هذا من حجم المستند، على سبيل المثال عندما تم استخراج صفحات من المستند.
+title: "OptimizationOptions.RemoveUnusedStreams"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptimizationOptions. إذا تم تعيين هذه العلامة إلى true يتم فحص كل مورد على استخدامه. إذا لم يُستخدم المورد أبداً يتم إزالة الموارد. قد يؤدي ذلك إلى تقليل حجم المستند على سبيل المثال عندما تم استخراج الصفحات من المستند"
 type: docs
-weight: 120
+weight: 110
 url: /ar/net/aspose.pdf.optimization/optimizationoptions/removeunusedstreams/
 ---
-## خاصية OptimizationOptions.RemoveUnusedStreams
+## OptimizationOptions.RemoveUnusedStreams property
 
-إذا تم تعيين هذا العلم إلى true، يتم التحقق من استخدام كل مورد. إذا لم يتم استخدام المورد أبدًا، يتم إزالة الموارد. قد يقلل هذا من حجم المستند، على سبيل المثال عندما تم استخراج صفحات من المستند.
+إذا تم تعيين هذه العلامة إلى true، يتم فحص كل resource على استخدامه. إذا لم يُستخدم resource أبداً، يتم إزالة resource. قد يؤدي ذلك إلى تقليل حجم المستند على سبيل المثال عندما تم استخراج pages من المستند.
 
 ```csharp
 public bool RemoveUnusedStreams { get; set; }
@@ -19,3 +19,5 @@ public bool RemoveUnusedStreams { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

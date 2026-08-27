@@ -1,14 +1,14 @@
 ---
-title: Table.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل على صفوف الجدول
+title: "Table.Rows"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. تحصل على صفوف الجدول"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/table/rows/
 ---
-## خاصية Table.Rows
+## Table.Rows property
 
-تحصل على صفوف الجدول.
+يحصل على صفوف الجدول.
 
 ```csharp
 public Rows Rows { get; }
@@ -20,3 +20,5 @@ public Rows Rows { get; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Enum Form.ImportStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormImportStatus enum. حالة الحقل المستورد
+title: "Enum Form.ImportStatus"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Facades.FormImportStatus enum. حالة الحقل المستورد"
 type: docs
-weight: 4310
+weight: 4430
 url: /ar/net/aspose.pdf.facades/form.importstatus/
 ---
 ## Form.ImportStatus enumeration
@@ -14,15 +14,17 @@ url: /ar/net/aspose.pdf.facades/form.importstatus/
 public enum ImportStatus
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Success | `0` | تم استيراد الحقل بنجاح |
-| FieldNotFound | `1` | لم يتم العثور على حقل بهذا الاسم في نموذج الوثيقة. |
+| FieldNotFound | `1` | لم يتم العثور على حقل بهذا الاسم في نموذج المستند. |
 
-### See Also
+### انظر أيضًا
 
 * class [Form](../form/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,49 +1,51 @@
 ---
-title: Class PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageDate. تمثل تنسيق تاريخ يتكون من مكونات اليوم والشهر والسنة
+title: "الفئة PageDate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PageDate. تمثل تنسيق تاريخ مكوّن من مكونات اليوم والشهر والسنة"
 type: docs
-weight: 8110
+weight: 8250
 url: /ar/net/aspose.pdf/pagedate/
 ---
 ## PageDate class
 
-تمثل تنسيق تاريخ يتكون من مكونات اليوم والشهر والسنة.
+يمثل تنسيق تاريخ مكوّن من مكونات اليوم والشهر والسنة.
 
 ```csharp
 public sealed class PageDate
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageDate](pagedate/)() | المُنشئ الافتراضي. |
+| [PageDate](pagedate/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Day](../../aspose.pdf/pagedate/day/) { get; set; } | يحصل أو يحدد مكون اليوم من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكون. |
-| [Delimiter](../../aspose.pdf/pagedate/delimiter/) { get; set; } | يحصل أو يحدد الفاصل المستخدم في تنسيق التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا الفاصل. |
-| [Month](../../aspose.pdf/pagedate/month/) { get; set; } | يحصل أو يحدد مكون الشهر من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكون. |
-| [Year](../../aspose.pdf/pagedate/year/) { get; set; } | يحصل أو يحدد مكون السنة من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكون. |
+| [Day](../../aspose.pdf/pagedate/day/) { get; set; } | يحصل أو يعيّن مكوّن اليوم من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكوّن. |
+| [Delimiter](../../aspose.pdf/pagedate/delimiter/) { get; set; } | يحصل أو يعيّن الفاصل المستخدم في تنسيق التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا الفاصل. |
+| [Month](../../aspose.pdf/pagedate/month/) { get; set; } | يحصل أو يعيّن مكوّن الشهر من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكوّن. |
+| [Year](../../aspose.pdf/pagedate/year/) { get; set; } | يحصل أو يعيّن مكوّن السنة من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكوّن. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | يُرجع سلسلة التاريخ المنسقة بناءً على تنسيق التاريخ الحالي. |
+| [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | يعيد سلسلة التاريخ المنسقة بناءً على تنسيق التاريخ الحالي. |
 
-## Other Members
+## الأعضاء الآخرين
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| class [DayComponent](../../aspose.pdf/pagedate.daycomponent) | تمثل مكون اليوم من التاريخ. |
-| class [MonthComponent](../../aspose.pdf/pagedate.monthcomponent) | تمثل مكون الشهر من التاريخ. |
-| class [YearComponent](../../aspose.pdf/pagedate.yearcomponent) | تمثل مكون السنة من التاريخ. |
+| class [DayComponent](../../aspose.pdf/pagedate.daycomponent) | يمثل مكوّن اليوم من تاريخ. |
+| class [MonthComponent](../../aspose.pdf/pagedate.monthcomponent) | يمثل مكوّن الشهر من تاريخ. |
+| class [YearComponent](../../aspose.pdf/pagedate.yearcomponent) | يمثل مكوّن السنة من تاريخ. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

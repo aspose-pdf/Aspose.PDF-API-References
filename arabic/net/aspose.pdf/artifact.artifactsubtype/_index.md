@@ -1,14 +1,14 @@
 ---
-title: Enum Artifact.ArtifactSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ArtifactArtifactSubtype enum. تعداد الأنواع الفرعية الممكنة للآثار
+title: "تعداد Artifact.ArtifactSubtype"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.ArtifactArtifactSubtype. تعداد الأنواع الفرعية الممكنة للقطع الأثرية"
 type: docs
-weight: 2780
+weight: 2880
 url: /ar/net/aspose.pdf/artifact.artifactsubtype/
 ---
-## تعداد Artifact.ArtifactSubtype
+## Artifact.ArtifactSubtype enumeration
 
-تعداد الأنواع الفرعية الممكنة للآثار.
+تعداد الأنواع الفرعية الممكنة لـ artifacts.
 
 ```csharp
 public enum ArtifactSubtype
@@ -18,15 +18,17 @@ public enum ArtifactSubtype
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Header | `0` | أثر الرأس. |
-| Footer | `1` | أثر التذييل. |
-| Watermark | `2` | أثر العلامة المائية. |
-| Background | `3` | أثر الخلفية. |
-| Undefined | `4` | النوع الفرعي للأثر غير معرف أو غير معروف. |
-| BatesN | `5` | أثر ترقيم بايتس. |
+| Header | `0` | قطعة أثرية للعنوان. |
+| Footer | `1` | قطعة أثرية للتذييل. |
+| Watermark | `2` | عنصر العلامة المائية. |
+| Background | `3` | عنصر الخلفية. |
+| Undefined | `4` | نوع العنصر الفرعي غير معرف أو غير معروف. |
+| BatesN | `5` | عنصر ترقيم بيتس. |
 
 ### انظر أيضًا
 
 * class [Artifact](../artifact/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

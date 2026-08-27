@@ -1,20 +1,20 @@
 ---
-title: XImage.ImageMask
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XImage. تحصل على علامة تشير إلى ما إذا كان يجب التعامل مع الصورة كقناع صورة انظر 8.9.6 الصور المقنعة. إذا كانت هذه العلامة صحيحة، يجب أن تكون قيمة BitsPerComponent 1 ولا يجب تحديد Mask و ColorSpace؛ يجب طلاء المناطق غير المقنعة باستخدام اللون الحالي غير المرسوم. القيمة الافتراضية خطأ
+title: "XImage.ImageMask"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XImage. تحصل على علامة تشير إلى ما إذا كان يجب معالجة الصورة كقناع صورة انظر 8.9.6 الصور المقنّعة. إذا كانت هذه العلامة صحيحة يجب أن تكون قيمة BitsPerComponent مساوية لـ 1 ولا يجب تحديد Mask و ColorSpace، وستُرسم المناطق غير المقنّعة باستخدام اللون غير المتصل الحالي. القيمة الافتراضية خطأ."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/ximage/imagemask/
 ---
-## خاصية XImage.ImageMask
+## XImage.ImageMask property
 
-تحصل على علامة تشير إلى ما إذا كان يجب التعامل مع الصورة كقناع صورة (انظر 8.9.6، "الصور المقنعة"). إذا كانت هذه العلامة صحيحة، يجب أن تكون قيمة BitsPerComponent 1 ولا يجب تحديد Mask و ColorSpace؛ يجب طلاء المناطق غير المقنعة باستخدام اللون الحالي غير المرسوم. القيمة الافتراضية: خطأ.
+يحصل على علم يحدد ما إذا كان يجب معالجة الصورة كقناع صورة (انظر 8.9.6، \"Masked Images\"). إذا كان هذا العلم true، يجب أن تكون قيمة BitsPerComponent مساوية لـ 1 ولا يجب تحديد Mask و ColorSpace؛ يجب رسم المناطق غير القنعية باستخدام اللون غير المتصل الحالي. القيمة الافتراضية: false.
 
 ```csharp
 public bool ImageMask { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 صحيح إذا كانت الصورة قناع صورة.
 
@@ -23,3 +23,5 @@ public bool ImageMask { get; }
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

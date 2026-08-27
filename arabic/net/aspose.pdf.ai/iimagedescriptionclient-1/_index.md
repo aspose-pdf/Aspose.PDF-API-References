@@ -1,31 +1,33 @@
 ---
-title: Interface IImageDescriptionClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IImageDescriptionClient1TOptions. تمثل واجهة لعميل وصف الصورة مع خيارات محددة
+title: "الواجهة IImageDescriptionClientTOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.AI.IImageDescriptionClient1TOptions. تمثّل واجهة لعميل وصف الصور بخيارات محددة"
 type: docs
-weight: 500
+weight: 520
 url: /ar/net/aspose.pdf.ai/iimagedescriptionclient-1/
 ---
-## واجهة IImageDescriptionClient&lt;TOptions&gt;
+## IImageDescriptionClient&lt;TOptions&gt; interface
 
-تمثل واجهة لعميل وصف الصورة مع خيارات محددة.
+يمثل واجهة لعميل وصف الصورة مع خيارات محددة.
 
 ```csharp
 public interface IImageDescriptionClient<in TOptions> : IAIClient
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| TOptions | نوع الخيارات لعميل وصف الصورة. |
+| TOptions | نوع الخيارات لعميل وصف الصور. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) | يحصل على مثيل من [`IImageDescriptionCopilot`](../iimagedescriptioncopilot/) مع الخيارات المحددة. |
+| [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) | يحصل على نسخة من [`IImageDescriptionCopilot`](../iimagedescriptioncopilot/) بالخيارات المحددة. |
 
 ### انظر أيضًا
 
-* واجهة [IAIClient](../iaiclient/)
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

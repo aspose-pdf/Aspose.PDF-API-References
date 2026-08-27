@@ -1,14 +1,14 @@
 ---
-title: TableOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableOptions. إنشاء مثيل من TableOptions
+title: "TableOptions.Create"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableOptions. إنشاء مثال من TableOptions"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/tableoptions/create/
 ---
-## طريقة TableOptions.Create
+## TableOptions.Create method
 
-إنشاء مثيل من [`TableOptions`](../).
+إنشاء مثال من [`TableOptions`](../).
 
 ```csharp
 public static TableOptions Create()
@@ -16,10 +16,12 @@ public static TableOptions Create()
 
 ### قيمة الإرجاع
 
-مثيل جديد من [`TableOptions`](../).
+مثال جديد من [`TableOptions`](../).
 
 ### انظر أيضًا
 
-* فئة [TableOptions](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

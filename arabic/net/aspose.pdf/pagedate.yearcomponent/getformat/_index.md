@@ -1,25 +1,27 @@
 ---
-title: PageDate.YearComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة YearComponent. تحصل على سلسلة التنسيق لعنصر السنة
+title: "PageDate.YearComponent.GetFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة YearComponent. يحصل على سلسلة التنسيق لمكوّن السنة."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pagedate.yearcomponent/getformat/
 ---
 ## PageDate.YearComponent.GetFormat method
 
-تحصل على سلسلة التنسيق لعنصر السنة.
+الحصول على سلسلة التنسيق لمكوّن السنة.
 
 ```csharp
 public string GetFormat()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 سلسلة تمثل تنسيق السنة.
 
-### See Also
+### انظر أيضًا
 
 * class [YearComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

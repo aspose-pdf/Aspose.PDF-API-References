@@ -1,40 +1,42 @@
 ---
-title: Class SignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.SignatureAlgorithmInfo class. تمثل فئة لمعلومات حول خوارزمية التوقيع بما في ذلك نوعها والمعيار التشفيري وخوارزمية تجزئة التوقيع
+title: "الفئة SignatureAlgorithmInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Security.SignatureAlgorithmInfo. تمثل فئة للمعلومات حول خوارزمية توقيع تشمل نوعها ومعيارها التشفيري وخوارزمية تجزئة التجزئة"
 type: docs
-weight: 10000
+weight: 10180
 url: /ar/net/aspose.pdf.security/signaturealgorithminfo/
 ---
 ## SignatureAlgorithmInfo class
 
-تمثل فئة لمعلومات حول خوارزمية التوقيع، بما في ذلك نوعها، والمعيار التشفيري، وخوارزمية تجزئة التوقيع.
+تمثل فئة للمعلومات حول خوارزمية توقيع، بما في ذلك نوعها، المعيار التشفيري، وخوارزمية تجزئة الملخص
 
 ```csharp
 public abstract class SignatureAlgorithmInfo
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | يحصل على اسم حقل التوقيع. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/)() | يحول كائن المعلومات الحالي إلى تمثيله النصي. |
+| override [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/)() | يحوّل كائن المعلومات الحالي إلى تمثيله كسلسلة. |
 
-## Fields
+## الحقول
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | يحصل على نوع خوارزمية التوقيع المستخدمة لتوقيع مستند PDF. |
 | readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | يحصل على المعيار التشفيري المستخدم لتوقيع مستند PDF. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | يحصل على خوارزمية تجزئة التوقيع المستخدمة للتوقيع. بالنسبة للطابع الزمني، هذه هي خوارزمية تجزئة التوقيع التي يتم بها توقيع تجزئة محتوى المستند. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | يحصل على خوارزمية تجزئة التجزئة المستخدمة للتوقيع. بالنسبة للطابع الزمني، هذه هي الخوارزمية التي يتم توقيع تجزئة محتوى المستند بها. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

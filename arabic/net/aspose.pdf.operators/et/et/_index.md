@@ -1,12 +1,12 @@
 ---
-title: ET.ET
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ET. يُهيئ العامل
+title: "ET.ET"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ET. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/et/et/
 ---
-## مُنشئ ET
+## ET constructor
 
 يُهيئ العامل.
 
@@ -19,3 +19,5 @@ public ET()
 * class [ET](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

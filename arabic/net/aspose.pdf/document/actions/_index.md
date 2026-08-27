@@ -1,14 +1,14 @@
 ---
-title: Document.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على إجراءات الوثيقة. هذه الخاصية هي مثيل لفئة DocumentActions التي تسمح بالحصول على/تعيين إجراءات BeforClosing و BeforSaving وغيرها.
+title: "Document.Actions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تحصل على إجراءات المستند. هذه الخاصية هي مثال من فئة DocumentActions التي تسمح بالحصول/التعيين لإجراءات BeforClosing و BeforSaving وغيرها."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/document/actions/
 ---
-## خاصية Document.Actions
+## Document.Actions property
 
-تحصل على إجراءات الوثيقة. هذه الخاصية هي مثيل لفئة DocumentActions التي تسمح بالحصول على/تعيين إجراءات BeforClosing و BeforSaving وغيرها.
+يحصل على إجراءات المستند. هذه الخاصية هي نسخة من الفئة DocumentActions التي تسمح بالحصول/تعيين إجراءات BeforClosing، BeforSaving، إلخ.
 
 ```csharp
 public DocumentActionCollection Actions { get; }
@@ -16,7 +16,7 @@ public DocumentActionCollection Actions { get; }
 
 ## أمثلة
 
-هذا المثال يوضح كيفية الحصول على إجراء بعد فتح الوثيقة:
+يوضح هذا المثال كيفية الحصول على إجراء ما بعد الفتح للمستند:
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("d:\\work\\aspose\\aspose.pdf.kit.net.new\\trunk\\testdata\\Aspose.Pdf\\PdfWithOpenAction.pdf");
@@ -30,3 +30,5 @@ Aspose.Pdf.Annotations.PdfAction afterSavingAction = actions.AfterSaving;
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

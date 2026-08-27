@@ -1,14 +1,14 @@
 ---
-title: Annotation.FullName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل على الاسم المؤهل بالكامل للتعليق
+title: "Annotation.FullName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. يحصل على الاسم المؤهل بالكامل للتعليق"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.annotations/annotation/fullname/
 ---
-## خاصية Annotation.FullName
+## Annotation.FullName property
 
-تحصل على الاسم المؤهل بالكامل للتعليق.
+الحصول على الاسم المؤهل بالكامل للتعليقة.
 
 ```csharp
 public string FullName { get; }
@@ -19,3 +19,5 @@ public string FullName { get; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

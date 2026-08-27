@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.Close
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSecurity. تغلق الواجهة
+title: "PdfFileSecurity.Close"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSecurity. تغلق الواجهة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/close/
 ---
-## طريقة PdfFileSecurity.Close
+## PdfFileSecurity.Close method
 
-تغلق الواجهة.
+يغلق الواجهة.
 
 ```csharp
 public override void Close()
@@ -19,3 +19,5 @@ public override void Close()
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

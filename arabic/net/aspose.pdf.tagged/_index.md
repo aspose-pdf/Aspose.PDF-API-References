@@ -1,22 +1,24 @@
 ---
-title: Aspose.Pdf.Tagged
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged هو مساحة اسم للفئات لدعم مستندات PDF المميزة
+title: "Aspose.Pdf.Tagged"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Tagged هو مساحة أسماء للفئات لدعم مستندات Tagged PDF."
 type: docs
-weight: 250
+weight: 240
 url: /ar/net/aspose.pdf.tagged/
 ---
-إن **Aspose.Pdf.Tagged** هو مساحة اسم للفئات لدعم مستندات PDF المميزة.
+مساحة الاسم **Aspose.Pdf.Tagged** هي مساحة اسم للفئات التي تدعم مستندات PDF الموسومة.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
 | [PositionSettings](./positionsettings/) | إعدادات الموضع. |
-| [TaggedException](./taggedexception/) | تمثل استثناء لمحتوى TaggedPDF من المستند. |
+| [TaggedException](./taggedexception/) | يمثل استثناءً لمحتوى TaggedPDF في المستند. |
 ## الواجهات
 
-| الواجهة | الوصف |
+| واجهة | الوصف |
 | --- | --- |
 | [IAdjustPosition](./iadjustposition/) | واجهة لطرق تحديد الموضع. |
-| [ITaggedContent](./itaggedcontent/) | تمثل واجهة للعمل مع محتوى TaggedPdf من المستند. |
+| [ITaggedContent](./itaggedcontent/) | يمثل واجهة للعمل مع محتوى TaggedPdf في المستند. |
+
+

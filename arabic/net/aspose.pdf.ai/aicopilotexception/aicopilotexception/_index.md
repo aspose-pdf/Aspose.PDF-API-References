@@ -1,24 +1,24 @@
 ---
-title: AICopilotException.AICopilotException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ AICopilotException. يقوم بتهيئة مثيل جديد من فئة AICopilotException مع رسالة خطأ محددة
+title: "AICopilotException.AICopilotException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ AICopilotException. يهيئ مثيلًا جديدًا من فئة AICopilotException برسالة خطأ محددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/aicopilotexception/aicopilotexception/
 ---
 ## AICopilotException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`AICopilotException`](../) مع رسالة خطأ محددة.
+يهيئ مثيلًا جديدًا من الفئة [`AICopilotException`](../) برسالة خطأ محددة.
 
 ```csharp
 public AICopilotException(string message)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تصف الاستثناء. |
+| رسالة | String | رسالة الخطأ التي تصف الاستثناء. |
 
-### See Also
+### انظر أيضًا
 
 * class [AICopilotException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,19 +28,21 @@ public AICopilotException(string message)
 
 ## AICopilotException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`AICopilotException`](../) مع رسالة خطأ محددة ومرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلًا جديدًا من الفئة [`AICopilotException`](../) برسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public AICopilotException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تصف الاستثناء. |
+| رسالة | String | رسالة الخطأ التي تصف الاستثناء. |
 | innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي. |
 
-### See Also
+### انظر أيضًا
 
 * class [AICopilotException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

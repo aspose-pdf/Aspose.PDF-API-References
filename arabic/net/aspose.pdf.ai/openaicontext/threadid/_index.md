@@ -1,14 +1,14 @@
 ---
-title: OpenAIContext.ThreadId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIContext. تحصل على أو تعين معرف الخيط
+title: "OpenAIContext.ThreadId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OpenAIContext خاصية. يحصل أو يعيّن معرف الخيط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/openaicontext/threadid/
 ---
-## خاصية OpenAIContext.ThreadId
+## OpenAIContext.ThreadId property
 
-تحصل على أو تعين معرف الخيط.
+يحصل أو يضبط معرف السلسلة.
 
 ```csharp
 public string ThreadId { get; set; }
@@ -19,3 +19,5 @@ public string ThreadId { get; set; }
 * class [OpenAIContext](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

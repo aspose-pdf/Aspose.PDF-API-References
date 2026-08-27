@@ -1,20 +1,20 @@
 ---
-title: SetTextRise.SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetTextRise. يُهيئ المُشغل
+title: "SetTextRise.SetTextRise"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetTextRise. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/settextrise/settextrise/
 ---
-## مُنشئ SetTextRise
+## SetTextRise constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetTextRise(double textRise)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textRise | Double | ارتفاع النص. |
 
@@ -23,3 +23,5 @@ public SetTextRise(double textRise)
 * class [SetTextRise](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

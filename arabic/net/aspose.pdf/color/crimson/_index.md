@@ -1,14 +1,14 @@
 ---
-title: Color.Crimson
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون محدد من النظام له قيمة ARGB تساوي c FFDC143C
+title: "Color.Crimson"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تحصل على لون معرف نظاميًا له قيمة ARGB بقيمة c FFDC143C"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/color/crimson/
 ---
-## خاصية Color.Crimson
+## Color.Crimson property
 
-تحصل على لون محدد من النظام له قيمة ARGB تساوي \c \#FFDC143C.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFDC143C.
 
 ```csharp
 public static Color Crimson { get; }
@@ -16,10 +16,12 @@ public static Color Crimson { get; }
 
 ### قيمة الإرجاع
 
-تمثل لونًا محددًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

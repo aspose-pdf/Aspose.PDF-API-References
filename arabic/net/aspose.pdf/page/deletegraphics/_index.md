@@ -1,20 +1,20 @@
 ---
-title: Page.DeleteGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تحذف الرسومات من الصفحة. تعمل بشكل أسرع من حذف العناصر واحدة تلو الأخرى باستخدام طريقة Remove
+title: "Page.DeleteGraphics"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تحذف الرسومات من الصفحة. تعمل أسرع من حذف العناصر واحدةً تلو الأخرى باستخدام طريقة Remove."
 type: docs
 weight: 410
 url: /ar/net/aspose.pdf/page/deletegraphics/
 ---
-## طريقة Page.DeleteGraphics
+## Page.DeleteGraphics method
 
-تحذف الرسومات من الصفحة. تعمل بشكل أسرع من حذف العناصر واحدة تلو الأخرى باستخدام طريقة [`Remove`](../../../aspose.pdf.vector/graphicelement/remove/) .
+يحذف الرسومات من الصفحة. يعمل أسرع من حذف العناصر واحدةً تلو الأخرى باستخدام طريقة [`Remove`](../../../aspose.pdf.vector/graphicelement/remove/).
 
 ```csharp
 public void DeleteGraphics(GraphicElementCollection elementsToDelete)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | elementsToDelete | GraphicElementCollection | مجموعة الرسومات التي سيتم حذفها من الصفحة. |
 
@@ -24,3 +24,5 @@ public void DeleteGraphics(GraphicElementCollection elementsToDelete)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Link
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. رابط ارتباط بين جزء من محتوى ILSE وملحق رابط أو ملحقات مرتبطة. يجب أن تكون عناصره الفرعية عنصر محتوى واحد أو أكثر أو ILSEs فرعية وواحد أو أكثر من مراجع الكائنات التي تحدد ملحقات الرابط المرتبطة
+title: "StructureTypeStandard.Link"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. Link ارتباط بين جزء من محتوى ILSEs وتعليق رابط أو تعليقات روابط مطابقة. يجب أن تكون أطفاله عنصرًا أو أكثر من محتوى أو ILSEs فرعية وواحد أو أكثر من مراجع كائنات تحدد تعليقات الروابط المرتبطة"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/link/
 ---
-## حقل StructureTypeStandard.Link
+## StructureTypeStandard.Link field
 
-(رابط) ارتباط بين جزء من محتوى ILSE وملحق رابط أو ملحقات مرتبطة. يجب أن تكون عناصره الفرعية عنصر محتوى واحد أو أكثر أو ILSEs فرعية وواحد أو أكثر من مراجع الكائنات التي تحدد ملحقات الرابط المرتبطة.
+(Link) ارتباط بين جزء من محتوى ILSE وملاحظة رابط أو ملاحظات روابط مقابلة. يجب أن تكون أطفاله عنصرًا أو أكثر من محتوى أو ILSEs فرعية وواحد أو أكثر من مراجع الكائنات التي تحدد ملاحظات الروابط المرتبطة.
 
 ```csharp
 public static readonly StructureTypeStandard Link;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Link;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

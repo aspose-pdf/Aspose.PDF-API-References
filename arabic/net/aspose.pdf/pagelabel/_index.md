@@ -1,9 +1,9 @@
 ---
-title: Class PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageLabel. فئة تمثل نطاق تسمية الصفحة
+title: "الفئة PageLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PageLabel. الفئة تمثل نطاق تسمية الصفحة."
 type: docs
-weight: 8160
+weight: 8300
 url: /ar/net/aspose.pdf/pagelabel/
 ---
 ## PageLabel class
@@ -14,21 +14,23 @@ url: /ar/net/aspose.pdf/pagelabel/
 public class PageLabel
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageLabel](pagelabel/)() | مُنشئ لتسمية الصفحة. |
+| [PageLabel](pagelabel/)() | منشئ لتسمية الصفحة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [NumberingStyle](../../aspose.pdf/pagelabel/numberingstyle/) { get; set; } | يحصل أو يحدد نمط الترقيم. |
-| [Prefix](../../aspose.pdf/pagelabel/prefix/) { get; set; } | يحصل أو يحدد بادئة رقم الصفحة. |
-| [StartingValue](../../aspose.pdf/pagelabel/startingvalue/) { get; set; } | يحصل أو يحدد القيمة الابتدائية لنطاق ترقيم الصفحات. |
+| [NumberingStyle](../../aspose.pdf/pagelabel/numberingstyle/) { get; set; } | يحصل أو يضبط نمط الترقيم. |
+| [Prefix](../../aspose.pdf/pagelabel/prefix/) { get; set; } | يحصل أو يضبط بادئة رقم الصفحة. |
+| [StartingValue](../../aspose.pdf/pagelabel/startingvalue/) { get; set; } | يحصل أو يضبط القيمة الابتدائية لنطاق ترقيم الصفحات. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

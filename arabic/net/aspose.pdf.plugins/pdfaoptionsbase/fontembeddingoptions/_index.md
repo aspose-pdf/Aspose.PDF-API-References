@@ -1,20 +1,20 @@
 ---
-title: PdfAOptionsBase.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAOptionsBase. تحصل على الخيارات لمعالجة الخطوط التي لا يمكن تضمينها في المستند
+title: "PdfAOptionsBase.FontEmbeddingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAOptionsBase. تحصل على الخيارات لمعالجة الخطوط التي لا يمكن تضمينها في المستند"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/pdfaoptionsbase/fontembeddingoptions/
 ---
-## خاصية PdfAOptionsBase.FontEmbeddingOptions
+## PdfAOptionsBase.FontEmbeddingOptions property
 
-تحصل على الخيارات لمعالجة الخطوط التي لا يمكن تضمينها في المستند.
+يحصل على الخيارات لمعالجة الخطوط التي لا يمكن تضمينها في المستند.
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 خيارات تضمين الخطوط.
 
@@ -28,3 +28,5 @@ public FontEmbeddingOptions FontEmbeddingOptions { get; }
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

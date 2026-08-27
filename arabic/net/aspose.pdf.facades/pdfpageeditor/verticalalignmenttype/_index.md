@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.VerticalAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfPageEditor. تحصل أو تعين المحاذاة الرأسية لمحتوى PDF الأصلي في الصفحة الناتجة، الافتراضي هو VerticalAlignmentType.Bottom
+title: "PdfPageEditor.VerticalAlignmentType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfPageEditor. تحصّل أو تعيين المحاذاة العمودية لمحتوى PDF الأصلي على صفحة النتيجة، الافتراضي هو VerticalAlignmentType.Bottom"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/verticalalignmenttype/
 ---
-## خاصية PdfPageEditor.VerticalAlignmentType
+## PdfPageEditor.VerticalAlignmentType property
 
-تحصل أو تعين المحاذاة الرأسية لمحتوى PDF الأصلي في الصفحة الناتجة، الافتراضي هو VerticalAlignmentType.Bottom.
+يحصل أو يعيّن المحاذاة العمودية لمحتوى PDF الأصلي على صفحة النتيجة، القيمة الافتراضية هي VerticalAlignmentType.Bottom.
 
 ```csharp
 public VerticalAlignment VerticalAlignmentType { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignmentType { get; set; }
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

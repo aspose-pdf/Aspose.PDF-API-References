@@ -1,25 +1,27 @@
 ---
-title: SetMiterLimit.SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetMiterLimit. يُهيئ المُشغل
+title: "SetMiterLimit.SetMiterLimit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetMiterLimit. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setmiterlimit/setmiterlimit/
 ---
-## مُنشئ SetMiterLimit
+## SetMiterLimit constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetMiterLimit(double miterLimit)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| miterLimit | Double | حد الميتل. |
+| miterLimit | Double | حد Mitel. |
 
 ### انظر أيضًا
 
 * class [SetMiterLimit](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

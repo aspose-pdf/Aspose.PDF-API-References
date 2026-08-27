@@ -1,14 +1,14 @@
 ---
-title: PageInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageInfo. تحصل أو تعين عرض الصفحة
+title: "PageInfo.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageInfo. تحصل أو تعين عرض الصفحة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/pageinfo/width/
 ---
-## خاصية PageInfo.Width
+## PageInfo.Width property
 
-تحصل أو تعين عرض الصفحة.
+يحصل أو يضبط عرض الصفحة.
 
 ```csharp
 public double Width { get; set; }
@@ -19,3 +19,5 @@ public double Width { get; set; }
 * class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

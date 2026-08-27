@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.FrequencyPenalty
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionRequest. تعيين أو الحصول على عقوبة التكرار للاستخدام أثناء أخذ العينات
+title: "LlamaChatCompletionRequest.FrequencyPenalty"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionRequest. تعيين أو الحصول على عقوبة التردد لاستخدامها أثناء العينة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/llamachatcompletionrequest/frequencypenalty/
 ---
-## خاصية LlamaChatCompletionRequest.FrequencyPenalty
+## LlamaChatCompletionRequest.FrequencyPenalty property
 
-تعيين أو الحصول على عقوبة التكرار للاستخدام أثناء أخذ العينات.
+يضبط أو يحصل على عقوبة التردد لاستخدامها أثناء العينة.
 
 ```csharp
 public float? FrequencyPenalty { get; set; }
@@ -19,3 +19,5 @@ public float? FrequencyPenalty { get; set; }
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,27 @@
 ---
-title: XmpPdfAExtensionProperty.XmpPdfAExtensionProperty
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XmpPdfAExtensionProperty. يقوم بتهيئة كائن جديد
+title: "XmpPdfAExtensionProperty.XmpPdfAExtensionProperty"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XmpPdfAExtensionProperty. يهيئ كائنًا جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/
 ---
-## مُنشئ XmpPdfAExtensionProperty
+## XmpPdfAExtensionProperty constructor
 
-يقوم بتهيئة كائن جديد.
+يُهيئ كائنًا جديدًا.
 
 ```csharp
 public XmpPdfAExtensionProperty(string name, string value, string valueType, 
     XmpPdfAExtensionCategoryType category, string description)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الخاصية. |
-| value | String | قيمة الخاصية. |
+| الاسم | String | اسم الخاصية. |
+| القيمة | String | قيمة الخاصية. |
 | valueType | String | نوع قيمة الخاصية. |
-| category | XmpPdfAExtensionCategoryType | فئة الخاصية. |
-| description | String | وصف الخاصية. |
+| الفئة | XmpPdfAExtensionCategoryType | فئة الخاصية. |
+| الوصف | String | وصف الخاصية. |
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

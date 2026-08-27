@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.Threshold
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicalPdfComparer. تحصل على وتضبط قيمة العتبة بالنسبة المئوية. تتيح لك هذه القيمة تجاهل التغييرات الصغيرة إذا لم تكن مهمة بالنسبة لك. القيمة الافتراضية هي 0
+title: "GraphicalPdfComparer.Threshold"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicalPdfComparer. تحصل وتعيّن قيمة العتبة بالنسبة المئوية. تسمح لك هذه القيمة بتجاهل التغييرات الصغيرة إذا لم تكن ذات أهمية بالنسبة لك. القيمة الافتراضية هي 0"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.comparison/graphicalpdfcomparer/threshold/
 ---
-## خاصية GraphicalPdfComparer.Threshold
+## GraphicalPdfComparer.Threshold property
 
-تحصل على وتضبط قيمة العتبة بالنسبة المئوية. تتيح لك هذه القيمة تجاهل التغييرات الصغيرة إذا لم تكن مهمة بالنسبة لك. القيمة الافتراضية هي 0%.
+يحصل على ويضبط قيمة العتبة بالنسبة المئوية. تسمح لك هذه القيمة بتجاهل التغييرات الصغيرة إذا لم تكن ذات أهمية بالنسبة لك. القيمة الافتراضية هي 0%.
 
 ```csharp
 public double Threshold { get; set; }
@@ -19,3 +19,5 @@ public double Threshold { get; set; }
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

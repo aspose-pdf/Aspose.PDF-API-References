@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithContextBackupJsonPath
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تعيين مسار الملف لنسخة احتياطية من JSON في خيارات مساعد الدردشة
+title: "OpenAIChatCopilotOptions.WithContextBackupJsonPath"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. تحدد مسار الملف لملف JSON النسخة الاحتياطية للسياق في خيارات مساعد الدردشة."
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/withcontextbackupjsonpath/
 ---
-## طريقة OpenAIChatCopilotOptions.WithContextBackupJsonPath
+## OpenAIChatCopilotOptions.WithContextBackupJsonPath method
 
-تعيين مسار الملف لنسخة احتياطية من JSON في خيارات مساعد الدردشة.
+يضبط مسار الملف لملف النسخ الاحتياطي للسياق بصيغة JSON في خيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف لنسخة احتياطية من JSON. |
+| filePath | String | مسار الملف لملف JSON النسخة الاحتياطية للسياق. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

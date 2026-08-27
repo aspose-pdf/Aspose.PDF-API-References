@@ -1,14 +1,14 @@
 ---
-title: XmpField.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpField. تحصل على مؤهل xmllang
+title: "XmpField.Lang"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpField الخاصية. يحصل على مؤهل xmllang"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/xmpfield/lang/
 ---
-## خاصية XmpField.Lang
+## XmpField.Lang property
 
-تحصل على مؤهل xml:lang.
+يحصل على مؤهل xml:lang.
 
 ```csharp
 public static XmpField Lang { get; }
@@ -19,3 +19,5 @@ public static XmpField Lang { get; }
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetLineJoin.Join
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetLineJoin.
+title: "SetLineJoin.Join"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetLineJoin."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/setlinejoin/join/
 ---
-## خاصية SetLineJoin.Join
+## SetLineJoin.Join property
 
 ```csharp
 public LineJoin Join { get; set; }
@@ -18,3 +18,5 @@ public LineJoin Join { get; set; }
 * class [SetLineJoin](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

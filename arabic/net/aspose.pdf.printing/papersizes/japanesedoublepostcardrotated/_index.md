@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseDoublePostcardRotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. بطاقة بريدية مزدوجة يابانية مقلوبة 148 مم × 200 مم
+title: "PaperSizes.JapaneseDoublePostcardRotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes field. بطاقة بريدية يابانية مزدوجة مقلوبة 148 مم × 200 مم"
 type: docs
 weight: 490
 url: /ar/net/aspose.pdf.printing/papersizes/japanesedoublepostcardrotated/
 ---
-## حقل PaperSizes.JapaneseDoublePostcardRotated
+## PaperSizes.JapaneseDoublePostcardRotated field
 
-بطاقة بريدية مزدوجة يابانية مقلوبة (148 مم × 200 مم).
+بطاقة بريدية يابانية مزدوجة مدوَّرة (148 مم × 200 مم).
 
 ```csharp
 public static readonly PaperSize JapaneseDoublePostcardRotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize JapaneseDoublePostcardRotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

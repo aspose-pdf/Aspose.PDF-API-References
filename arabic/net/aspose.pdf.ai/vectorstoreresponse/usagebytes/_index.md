@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.UsageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreResponse. تحصل أو تعين العدد الإجمالي للبايتات المستخدمة بواسطة الملفات في مخزن المتجهات
+title: "VectorStoreResponse.UsageBytes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية VectorStoreResponse. تحصل أو تعين إجمالي عدد البايتات المستخدمة من قبل الملفات في مخزن المتجهات"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.ai/vectorstoreresponse/usagebytes/
 ---
-## خاصية VectorStoreResponse.UsageBytes
+## VectorStoreResponse.UsageBytes property
 
-تحصل أو تعين العدد الإجمالي للبايتات المستخدمة بواسطة الملفات في مخزن المتجهات.
+يحصل أو يضبط إجمالي عدد البايتات المستخدمة بواسطة الملفات في مخزن المتجهات.
 
 ```csharp
 public int? UsageBytes { get; set; }
@@ -19,3 +19,5 @@ public int? UsageBytes { get; set; }
 * class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

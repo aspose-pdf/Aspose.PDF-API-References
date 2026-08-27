@@ -1,14 +1,14 @@
 ---
-title: TocInfo.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TocInfo. تحصل على معلومات العمود أو تعينها
+title: "TocInfo.ColumnInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TocInfo. تحصل أو تعين معلومات العمود"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/tocinfo/columninfo/
 ---
-## خاصية TocInfo.ColumnInfo
+## TocInfo.ColumnInfo property
 
-تحصل على معلومات العمود أو تعينها.
+يحصل أو يعيّن معلومات العمود.
 
 ```csharp
 public ColumnInfo ColumnInfo { get; set; }
@@ -20,3 +20,5 @@ public ColumnInfo ColumnInfo { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

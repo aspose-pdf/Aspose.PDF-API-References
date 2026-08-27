@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormEditor. العلامة للإشارة إلى ما إذا كانت أجهزة الراديو مرتبة أفقيًا أو عموديًا، القيمة الافتراضية هي true
+title: "FormEditor.RadioHoriz"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormEditor. العلامة التي تشير إلى ما إذا كانت أزرار الراديو مرتبة أفقياً أو عمودياً، القيمة الافتراضية هي true."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
-## خاصية FormEditor.RadioHoriz
+## FormEditor.RadioHoriz property
 
-العلامة للإشارة إلى ما إذا كانت أجهزة الراديو مرتبة أفقيًا أو عموديًا، القيمة الافتراضية هي true.
+العلم للإشارة إلى ما إذا كانت أزرار الاختيار مرتبة أفقياً أم عمودياً، القيمة الافتراضية هي true.
 
 ```csharp
 public bool RadioHoriz { get; set; }
@@ -30,3 +30,5 @@ formEditor.Save();
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: ShFill.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ShFill. تقبل كائن الزائر لمعالجة المشغل
+title: "ShFill.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ShFill. تقبل كائن الزائر لمعالجة المشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/shfill/accept/
 ---
-## طريقة ShFill.Accept
+## ShFill.Accept method
 
-تقبل كائن الزائر لمعالجة المشغل.
+يقبل كائن الزائر لمعالجة العامل.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | IOperatorSelector | كائن الزائر. |
+| زائر | IOperatorSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
-* واجهة [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* فئة [ShFill](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [ShFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

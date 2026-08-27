@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.ExcludeFontsStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. استراتيجيات لاستبعاد الخطوط الزائدة وتقليل حجم ملف الوثيقة. هذه المعلمة لها معنى فقط عندما يتم تعيين علامة OptimizeFileSize على true. بشكل افتراضي، يتم استخدام مجموعة من استراتيجيات SubsetFonts و RemoveDuplicatedFonts.
+title: "PdfFormatConversionOptions.ExcludeFontsStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. استراتيجيات لاستبعاد الخطوط الزائدة وتقليل حجم ملف المستند. هذا المعامل له معنى فقط عندما يتم تعيين العلم OptimizeFileSize إلى true. بشكل افتراضي يتم استخدام مجموعة من الاستراتيجيات SubsetFonts و RemoveDuplicatedFonts"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/excludefontsstrategy/
 ---
-## خاصية PdfFormatConversionOptions.ExcludeFontsStrategy
+## PdfFormatConversionOptions.ExcludeFontsStrategy property
 
-استراتيجية(يات) لاستبعاد الخطوط الزائدة وتقليل حجم ملف الوثيقة. هذه المعلمة لها معنى فقط عندما يتم تعيين علامة [`OptimizeFileSize`](../optimizefilesize/) على true. بشكل افتراضي، يتم استخدام مجموعة من استراتيجيات SubsetFonts و RemoveDuplicatedFonts.
+استراتيجية (استراتيجيات) لاستبعاد الخطوط الزائدة وتقليل حجم ملف المستند. هذا المعامل له معنى فقط عندما يتم تعيين العلم [`OptimizeFileSize`](../optimizefilesize/) إلى true. بشكل افتراضي يتم استخدام مجموعة من الاستراتيجيات SubsetFonts و RemoveDuplicatedFonts.
 
 ```csharp
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
@@ -20,3 +20,5 @@ public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

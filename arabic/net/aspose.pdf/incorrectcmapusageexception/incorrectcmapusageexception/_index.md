@@ -1,25 +1,27 @@
 ---
-title: IncorrectCMapUsageException.IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ IncorrectCMapUsageException. يقوم بتهيئة مثيل جديد من فئة IncorrectCMapUsageException
+title: "IncorrectCMapUsageException.IncorrectCMapUsageException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ IncorrectCMapUsageException. يهيئ مثيلاً جديداً من الفئة IncorrectCMapUsageException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/incorrectcmapusageexception/incorrectcmapusageexception/
 ---
-## مُنشئ IncorrectCMapUsageException
+## IncorrectCMapUsageException constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`IncorrectCMapUsageException`](../).
+يُهيئ مثيلاً جديداً من الفئة [`IncorrectCMapUsageException`](../).
 
 ```csharp
 public IncorrectCMapUsageException(string message)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة. |
+| رسالة | String | الرسالة. |
 
 ### انظر أيضًا
 
-* فئة [IncorrectCMapUsageException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [IncorrectCMapUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

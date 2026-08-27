@@ -1,26 +1,26 @@
 ---
-title: ThreadMessageCreateRequest.WithContents
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ThreadMessageCreateRequest. تعيين محتويات الرسالة لطلب رسالة الخيط
+title: "ThreadMessageCreateRequest.WithContents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ThreadMessageCreateRequest. تعيين محتويات الرسالة لطلب رسالة الخيط."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.ai/threadmessagecreaterequest/withcontents/
 ---
-## طريقة ThreadMessageCreateRequest.WithContents
+## ThreadMessageCreateRequest.WithContents method
 
-تعيين محتويات الرسالة لطلب رسالة الخيط.
+يضبط محتويات الرسالة لطلب رسالة السلسلة.
 
 ```csharp
 public ThreadMessageCreateRequest WithContents(List<MessageContentRequest> content)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| content | List`1 | قائمة محتويات الرسالة التي سيتم تعيينها. |
+| المحتوى | List`1 | قائمة محتويات الرسائل التي يجب تعيينها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`ThreadMessageCreateRequest`](../).
+المثيل الحالي من [`ThreadMessageCreateRequest`](../).
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public ThreadMessageCreateRequest WithContents(List<MessageContentRequest> conte
 * class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

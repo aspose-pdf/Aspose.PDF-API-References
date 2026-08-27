@@ -1,14 +1,14 @@
 ---
-title: ImageFile.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ImageFile. المُنشئ الافتراضي
+title: "ImageFile.ImageFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ImageFile المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/imagefile/imagefile/
 ---
-## مُنشئ ImageFile
+## ImageFile constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ImageFile()
@@ -19,3 +19,5 @@ public ImageFile()
 * class [ImageFile](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

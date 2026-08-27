@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.SetLength
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptimizedMemoryStream. عند تجاوزها في فئة مشتقة، تحدد طول التدفق الحالي
+title: "OptimizedMemoryStream.SetLength"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptimizedMemoryStream. عندما يتم تجاوزها في فئة مشتقة تحدد طول التدفق الحالي"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/optimizedmemorystream/setlength/
 ---
-## طريقة OptimizedMemoryStream.SetLength
+## OptimizedMemoryStream.SetLength method
 
-عند تجاوزها في فئة مشتقة، تحدد طول التدفق الحالي.
+عند تجاوزها في فئة مشتقة، تعيّن طول التيار الحالي.
 
 ```csharp
 public override void SetLength(long value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Int64 | الطول المطلوب للتدفق الحالي بالبايت. |
+| القيمة | Int64 | الطول المطلوب للتدفق الحالي بالبايتات. |
 
 ### انظر أيضًا
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

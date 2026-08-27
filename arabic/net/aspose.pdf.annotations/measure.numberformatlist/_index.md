@@ -1,42 +1,44 @@
 ---
-title: Class Measure.NumberFormatList
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MeasureNumberFormatList class. يمثل قائمة تنسيقات الأرقام
+title: "الفئة Measure.NumberFormatList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.MeasureNumberFormatList. تمثل قائمة صيغ الأرقام"
 type: docs
-weight: 2060
+weight: 2150
 url: /ar/net/aspose.pdf.annotations/measure.numberformatlist/
 ---
 ## Measure.NumberFormatList class
 
-يمثل قائمة تنسيقات الأرقام.
+تمثل قائمة صيغ الأرقام.
 
 ```csharp
 public class NumberFormatList
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [NumberFormatList](../../aspose.pdf.annotations/measure.numberformatlist/.ctor)(Measure) | مُنشئ لقائمة تنسيقات الأرقام. |
+| [NumberFormatList](../../aspose.pdf.annotations/measure.numberformatlist/.ctor)(Measure) | منشئ لـ NumberFormatList. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/measure.numberformatlist/count) { get; } | عدد العناصر في القائمة. |
-| [Item](../../aspose.pdf.annotations/measure.numberformatlist/item) { get; set; } | يحصل أو يحدد تنسيق الرقم في القائمة حسب فهرسه. |
+| [Count](../../aspose.pdf.annotations/measure.numberformatlist/count) { get; } | احسب عدد العناصر في القائمة. |
+| [Item](../../aspose.pdf.annotations/measure.numberformatlist/item) { get; set; } | يحصل أو يضبط تنسيق الرقم في القائمة حسب فهرسه. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/measure.numberformatlist/add)(NumberFormat) | يضيف تنسيق رقم إلى القائمة. |
-| [Insert](../../aspose.pdf.annotations/measure.numberformatlist/insert)(int, NumberFormat) | يُدخل تنسيق رقم في القائمة. |
-| [RemoveAt](../../aspose.pdf.annotations/measure.numberformatlist/removeat)(int) | يزيل تنسيق رقم من القائمة. |
+| [Add](../../aspose.pdf.annotations/measure.numberformatlist/add)(NumberFormat) | يضيف تنسيق الرقم إلى القائمة. |
+| [Insert](../../aspose.pdf.annotations/measure.numberformatlist/insert)(int, NumberFormat) | يدرج تنسيق الرقم في القائمة. |
+| [RemoveAt](../../aspose.pdf.annotations/measure.numberformatlist/removeat)(int) | يزيل تنسيق الرقم من القائمة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Measure](../measure/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

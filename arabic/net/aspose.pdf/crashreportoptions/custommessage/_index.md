@@ -1,12 +1,12 @@
 ---
-title: CrashReportOptions.CustomMessage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CrashReportOptions. رسالة مخصصة لتضمينها في التقرير. يمكن أن تكون شيئًا مثل قيمة المتغيرات أو تفاصيل أخرى تريد إرسالها
+title: "CrashReportOptions.CustomMessage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CrashReportOptions. رسالة مخصصة لتضمينها في التقرير. يمكن أن تكون شيئًا مثل قيم المتغيرات أو تفاصيل أخرى تريد إرسالها"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/crashreportoptions/custommessage/
 ---
-## خاصية CrashReportOptions.CustomMessage
+## CrashReportOptions.CustomMessage property
 
 رسالة مخصصة لتضمينها في التقرير. يمكن أن تكون شيئًا مثل قيمة المتغيرات أو تفاصيل أخرى تريد إرسالها.
 
@@ -19,3 +19,5 @@ public string CustomMessage { get; set; }
 * class [CrashReportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

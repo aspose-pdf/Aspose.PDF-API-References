@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ActionCollection. تحصل على كائن التزامن
+title: "ActionCollection.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ActionCollection خاصية. يحصل على كائن المزامنة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/actioncollection/syncroot/
 ---
-## خاصية ActionCollection.SyncRoot
+## ActionCollection.SyncRoot property
 
-تحصل على كائن التزامن.
+يحصل على كائن المزامنة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

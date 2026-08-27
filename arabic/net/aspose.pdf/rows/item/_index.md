@@ -1,20 +1,20 @@
 ---
-title: Rows.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Rows. تحصل أو تعين الصف
+title: "Rows.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rows. الحصول على الصف أو تعيينه"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/rows/item/
 ---
-## فهرس الصفوف
+## Rows indexer
 
-تحصل أو تعين الصف.
+يحصل أو يضبط الصف.
 
 ```csharp
 public Row this[int index] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الصف. |
 
@@ -24,3 +24,5 @@ public Row this[int index] { get; set; }
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

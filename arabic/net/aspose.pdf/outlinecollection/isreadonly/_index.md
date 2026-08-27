@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineCollection. تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
+title: "OutlineCollection.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineCollection. تُعيد قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/outlinecollection/isreadonly/
 ---
-## خاصية OutlineCollection.IsReadOnly
+## OutlineCollection.IsReadOnly property
 
-تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط.
+يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط.
 
 ```csharp
 public override bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public override bool IsReadOnly { get; }
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

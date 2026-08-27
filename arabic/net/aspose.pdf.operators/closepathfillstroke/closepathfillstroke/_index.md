@@ -1,14 +1,14 @@
 ---
-title: ClosePathFillStroke.ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ClosePathFillStroke. يُهيئ المُشغل
+title: "ClosePathFillStroke.ClosePathFillStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ClosePathFillStroke. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/closepathfillstroke/closepathfillstroke/
 ---
-## مُنشئ ClosePathFillStroke
+## ClosePathFillStroke constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public ClosePathFillStroke()
@@ -19,3 +19,5 @@ public ClosePathFillStroke()
 * class [ClosePathFillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

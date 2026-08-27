@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.PdfXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfXmpMetadata. مُنشئ لـ PdfXmpMetadata
+title: "PdfXmpMetadata.PdfXmpMetadata"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfXmpMetadata. منشئ لـ PdfXmpMetadata"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/
 ---
 ## PdfXmpMetadata() {#constructor}
 
-مُنشئ لـ PdfXmpMetadata.
+منشئ لفئة PdfXmpMetadata.
 
 ```csharp
 public PdfXmpMetadata()
@@ -31,15 +31,15 @@ xmp.BindPdf("input.pdf");
 
 ## PdfXmpMetadata(Document) {#constructor_1}
 
-يُهيئ كائنًا جديدًا من [`PdfXmpMetadata`](../) بناءً على *المستند*.
+يُنشئ كائن [`PdfXmpMetadata`](../) جديد على أساس *المستند*.
 
 ```csharp
 public PdfXmpMetadata(Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | مستند PDF. |
+| document | Document | مستند Pdf. |
 
 ### انظر أيضًا
 
@@ -47,3 +47,5 @@ public PdfXmpMetadata(Document document)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

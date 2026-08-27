@@ -1,26 +1,26 @@
 ---
-title: OperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تضيف مشغلًا جديدًا إلى المجموعة
+title: "OperatorCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تُضيف عاملًا جديدًا إلى المجموعة."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/operatorcollection/add/
 ---
 ## Add(Operator) {#add}
 
-تضيف مشغلًا جديدًا إلى المجموعة.
+يضيف مشغلًا جديدًا إلى المجموعة.
 
 ```csharp
 public override void Add(Operator op)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| op | Operator | المشغل الذي يجب إضافته |
+| op | Operator | العامل الذي يجب إضافته. |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية إضافة مشغلين إلى نهاية محتويات الصفحة.
+مثال يوضح كيفية إضافة العوامل إلى نهاية page.contents.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -28,7 +28,7 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.q());
 doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
@@ -39,19 +39,19 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ## Add(Operator[]) {#add_1}
 
-إضافة مشغلين إلى نهاية محتويات المشغلين.
+يضيف المشغلات في نهاية مشغلات المحتوى.
 
 ```csharp
 public void Add(Operator[] ops)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ops | Operator[] | مصفوفة من المشغلين الذين سيتم إضافتهم. يمكن أن يكون لكل مشغل أي فهرس (بشكل افتراضي -1) لأنه يأتي إلى نهاية مشغلين المحتويات أي أن الفهارس تُعين تلقائيًا. |
+| ops | Operator[] | مصفوفة من العوامل التي سيتم إضافتها. يمكن لكل عامل أن يكون له أي فهرس (افتراضيًا -1) لأنها تُضاف إلى نهاية عوامل المحتوى أي تُعيّن الفهارس تلقائيًا. |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية إضافة مشغل إلى نهاية محتويات الصفحة.
+مثال يوضح كيفية إضافة عامل إلى نهاية محتويات الصفحة.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -59,7 +59,7 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q() } );
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
@@ -70,19 +70,19 @@ oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q
 
 ## Add(ICollection&lt;Operator&gt;) {#add_2}
 
-تضيف إلى المجموعة جميع المشغلين من مجموعة أخرى.
+يضيف إلى المجموعة جميع المشغلات من مجموعة أخرى.
 
 ```csharp
 public void Add(ICollection<Operator> ops)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ops | ICollection`1 | مجموعة تحتوي على المشغلين الذين سيتم إضافتهم. |
+| ops | ICollection`1 | مجموعة تحتوي على المشغلات التي سيتم إضافتها. |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية إضافة مجموعة مشغلين إلى محتويات الصفحة.
+يوضح المثال كيفية إضافة مجموعة المشغلات إلى محتويات الصفحة.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -93,9 +93,11 @@ opList.Add(new Operators.Q());
 oc.Add(opList);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

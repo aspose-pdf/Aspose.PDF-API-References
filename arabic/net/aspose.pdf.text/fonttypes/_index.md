@@ -1,27 +1,29 @@
 ---
-title: Enum FontTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontTypes enum. أنواع الخط المدعومة
+title: "تعداد FontTypes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Text.FontTypes. تعداد أنواع الخطوط المدعومة."
 type: docs
-weight: 10600
+weight: 10780
 url: /ar/net/aspose.pdf.text/fonttypes/
 ---
 ## FontTypes enumeration
 
-أنواع الخط المدعومة.
+تعداد أنواع الخطوط المدعومة.
 
 ```csharp
 public enum FontTypes
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | TTF | `0` | نوع خط TTF |
 | OTF | `1` | نوع خط OTF |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

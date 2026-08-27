@@ -1,14 +1,14 @@
 ---
-title: Enum CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.CryptoAlgorithm. يمثل نوع الخوارزمية التشفيرية المستخدمة في روتين التشفير/فك التشفير
+title: "التعداد CryptoAlgorithm"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.CryptoAlgorithm. يمثل نوع خوارزمية التشفير المستخدمة في روتينات التشفير/فك التشفير"
 type: docs
-weight: 3400
+weight: 3520
 url: /ar/net/aspose.pdf/cryptoalgorithm/
 ---
-## تعداد CryptoAlgorithm
+## CryptoAlgorithm enumeration
 
-يمثل نوع الخوارزمية التشفيرية المستخدمة في روتين التشفير/فك التشفير.
+يمثل نوع خوارزمية التشفير المستخدمة في روتينات التشفير/فك التشفير.
 
 ```csharp
 public enum CryptoAlgorithm
@@ -22,8 +22,11 @@ public enum CryptoAlgorithm
 | RC4x128 | `1` | RC4 بطول مفتاح 128. |
 | AESx128 | `2` | AES بطول مفتاح 128. |
 | AESx256 | `3` | AES بطول مفتاح 256. |
+| Custom | `4` | خوارزمية التشفير المخصصة |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

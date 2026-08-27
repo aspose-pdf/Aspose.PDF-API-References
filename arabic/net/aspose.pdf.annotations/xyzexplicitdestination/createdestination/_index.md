@@ -1,27 +1,27 @@
 ---
-title: XYZExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XYZExplicitDestination. إنشاء وجهة إلى الموقع المحدد من الصفحة مع مراعاة دوران الصفحة إذا لزم الأمر
+title: "XYZExplicitDestination.CreateDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XYZExplicitDestination. إنشاء وجهة إلى الموقع المحدد للصفحة مع مراعاة دوران الصفحة إذا لزم الأمر"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/
 ---
-## طريقة XYZExplicitDestination.CreateDestination
+## XYZExplicitDestination.CreateDestination method
 
-إنشاء وجهة إلى الموقع المحدد من الصفحة مع مراعاة دوران الصفحة إذا لزم الأمر.
+إنشاء وجهة إلى الموقع المحدد للصفحة مع مراعاة دوران الصفحة إذا لزم الأمر.
 
 ```csharp
 public static XYZExplicitDestination CreateDestination(Page page, double left, double top, 
     double zoom, bool considerRotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة المستهدفة. |
-| left | Double | الموضع الأيسر على الصفحة. |
-| top | Double | الموضع العلوي على الصفحة. |
-| zoom | Double | عامل التكبير (0 للإعداد الافتراضي). |
-| considerRotation | Boolean | إذا كان صحيحًا، سيتم إعادة حساب الموضع وفقًا لدوران الصفحة. |
+| صفحة | صفحة | الوجهة Page. |
+| يسار | Double | الموضع الأيسر على الصفحة. |
+| أعلى | Double | الموضع العلوي على الصفحة. |
+| تكبير | Double | عامل التكبير (0 للافتراضي). |
+| considerRotation | Boolean | إذا كان صحيحًا، سيُعاد حساب الموضع وفقًا لدوران الصفحة. |
 
 ### قيمة الإرجاع
 
@@ -33,3 +33,5 @@ public static XYZExplicitDestination CreateDestination(Page page, double left, d
 * class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

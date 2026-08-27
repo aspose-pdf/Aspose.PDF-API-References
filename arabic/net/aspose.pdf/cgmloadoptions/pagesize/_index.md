@@ -1,14 +1,14 @@
 ---
-title: CgmLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CgmLoadOptions. تحصل أو تعين حجم الصفحة الناتجة للاستيراد
+title: "CgmLoadOptions.PageSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CgmLoadOptions. تحصل أو تعيين حجم الصفحة الناتجة للاستيراد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/cgmloadoptions/pagesize/
 ---
-## خاصية CgmLoadOptions.PageSize
+## CgmLoadOptions.PageSize property
 
-تحصل أو تعين حجم الصفحة الناتجة للاستيراد.
+يحصل أو يعيّن حجم صفحة الإخراج للاستيراد.
 
 ```csharp
 public SizeF PageSize { get; }
@@ -19,3 +19,5 @@ public SizeF PageSize { get; }
 * class [CgmLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

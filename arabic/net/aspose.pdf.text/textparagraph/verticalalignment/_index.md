@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextParagraph. تحصل أو تضبط المحاذاة الرأسية للنص داخل مستطيل الفقرات
+title: "TextParagraph.VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يضبط المحاذاة العمودية للنص داخل مستطيل الفقرة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.text/textparagraph/verticalalignment/
 ---
-## خاصية TextParagraph.VerticalAlignment
+## TextParagraph.VerticalAlignment property
 
-تحصل أو تضبط المحاذاة الرأسية للنص داخل [`Rectangle`](../rectangle/) الفقرة.
+يحصل أو يضبط المحاذاة العمودية للنص داخل مستطيل الفقرة [`Rectangle`](../rectangle/).
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -24,3 +24,5 @@ VerticalAlignment.None يساوي VerticalAlignment.Bottom.
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

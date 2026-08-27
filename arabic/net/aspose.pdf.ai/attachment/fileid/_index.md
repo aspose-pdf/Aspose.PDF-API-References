@@ -1,14 +1,14 @@
 ---
-title: Attachment.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المرفق. تحصل أو تعين معرف الملف المرفق
+title: "Attachment.FileId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Attachment. تحصل أو تعين معرّف الـ File المرفق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/attachment/fileid/
 ---
-## خاصية Attachment.FileId
+## Attachment.FileId property
 
-تحصل أو تعين معرف الملف المرفق.
+يحصل أو يضبط معرف الملف المرفق.
 
 ```csharp
 public string FileId { get; set; }
@@ -19,3 +19,5 @@ public string FileId { get; set; }
 * class [Attachment](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

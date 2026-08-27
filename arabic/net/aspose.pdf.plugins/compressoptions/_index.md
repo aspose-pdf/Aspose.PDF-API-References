@@ -1,14 +1,14 @@
 ---
-title: Class CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.CompressOptions. تمثل خيارات الضغط لإضافة المحسن
+title: "الفئة CompressOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.CompressOptions الفئة. يمثل خيارات الضغط لإضافة Optimizer."
 type: docs
-weight: 8490
+weight: 8620
 url: /ar/net/aspose.pdf.plugins/compressoptions/
 ---
-## فئة CompressOptions
+## CompressOptions class
 
-تمثل خيارات الضغط لإضافة [`Optimizer`](../optimizer/) المحسن.
+يمثل خيارات الضغط لإضافة [`Optimizer`](../optimizer/).
 
 ```csharp
 public sealed class CompressOptions : OrganizerBaseOptions
@@ -18,16 +18,16 @@ public sealed class CompressOptions : OrganizerBaseOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [CompressOptions](compressoptions/)() | المنشئ الافتراضي. |
+| [CompressOptions](compressoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | إغلاق تدفقات الإدخال بعد اكتمال العملية. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | إغلاق تدفقات الإخراج بعد اكتمال العملية. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | إغلاق تدفقات الإدخال بعد إكمال العملية. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | إغلاق تدفقات الإخراج بعد إكمال العملية. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | يعيد مجموعة بيانات إضافة OrganizerOptions. |
-| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لحفظ نتائج العملية. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
 ## الطرق
 
@@ -38,6 +38,8 @@ public sealed class CompressOptions : OrganizerBaseOptions
 
 ### انظر أيضًا
 
-* فئة [OrganizerBaseOptions](../organizerbaseoptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

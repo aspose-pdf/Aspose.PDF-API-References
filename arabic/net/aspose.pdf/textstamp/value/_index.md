@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تحصل أو تعين قيمة سلسلة تُستخدم كختم على الصفحة
+title: "TextStamp.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. يحصل أو يضبط قيمة النص المستخدمة كختم على الصفحة"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/textstamp/value/
 ---
-## خاصية TextStamp.Value
+## TextStamp.Value property
 
-تحصل أو تعين قيمة سلسلة تُستخدم كختم على الصفحة.
+يحصل أو يضبط قيمة السلسلة التي تُستخدم كختم على الصفحة.
 
 ```csharp
 public string Value { get; set; }
@@ -19,3 +19,5 @@ public string Value { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

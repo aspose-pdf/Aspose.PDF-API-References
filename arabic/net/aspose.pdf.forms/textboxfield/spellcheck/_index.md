@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextBoxField. تحصل أو تعين علامة التدقيق الإملائي للحقل. إذا كانت صحيحة، سيتم تدقيق الحقل إملائيًا
+title: "TextBoxField.SpellCheck"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextBoxField. يحصل أو يضبط علامة التدقيق الإملائي للحقل. إذا كانت true يجب تدقيق الحقل إملائيًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/textboxfield/spellcheck/
 ---
-## خاصية TextBoxField.SpellCheck
+## TextBoxField.SpellCheck property
 
-تحصل أو تعين علامة التدقيق الإملائي للحقل. إذا كانت صحيحة، سيتم تدقيق الحقل إملائيًا.
+يحصل أو يعيّن علامة التدقيق الإملائي للحقل. إذا كان true فسيتم تدقيق الحقل إملائيًا.
 
 ```csharp
 public bool SpellCheck { get; set; }
@@ -19,3 +19,5 @@ public bool SpellCheck { get; set; }
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

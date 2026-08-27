@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BoundsCheckableList. يقوم بتهيئة مثيل جديد من فئة BoundsCheckableList
+title: "BoundsCheckableList1.BoundsCheckableList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BoundsCheckableList. يهيئ نسخة جديدة من الفئة BoundsCheckableList"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/
 ---
 ## BoundsCheckableList() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة BoundsCheckableList.
+يقوم بتهيئة نسخة جديدة من الفئة BoundsCheckableList.
 
 ```csharp
 public BoundsCheckableList()
@@ -24,16 +24,16 @@ public BoundsCheckableList()
 
 ## BoundsCheckableList(BoundsCheckMode, double, double) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة BoundsCheckableList.
+يقوم بتهيئة نسخة جديدة من الفئة BoundsCheckableList.
 
 ```csharp
 public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidth, 
     double containerHeight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | وضع فحص الحدود. |
+| boundsCheckMode | BoundsCheckMode | وضع فحص الحدود cCheck. |
 | containerWidth | Double | عرض الحاوية. |
 | containerHeight | Double | ارتفاع الحاوية. |
 
@@ -43,3 +43,5 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

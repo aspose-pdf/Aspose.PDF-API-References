@@ -1,20 +1,20 @@
 ---
-title: FormExporter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormExporter. تبدأ معالجة FormExporter بالمعلمات المحددة
+title: "FormExporter.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormExporter طريقة. يبدأ معالجة FormExporter بالمعلمات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/formexporter/process/
 ---
-## طريقة FormExporter.Process
+## FormExporter.Process method
 
-تبدأ معالجة FormExporter بالمعلمات المحددة.
+يبدأ معالجة FormExporter بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ FormExporter. |
 
@@ -24,7 +24,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | إذا كانت الخيارات غير صحيحة. |
 
@@ -35,3 +35,5 @@ public ResultContainer Process(IPluginOptions options)
 * class [FormExporter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

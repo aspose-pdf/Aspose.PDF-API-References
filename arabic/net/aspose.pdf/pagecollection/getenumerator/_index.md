@@ -1,14 +1,14 @@
 ---
-title: PageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageCollection. تعيد عداد الصفحات
+title: "PageCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageCollection. تُرجع مُعدِّد الصفحات"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/pagecollection/getenumerator/
 ---
-## طريقة PageCollection.GetEnumerator
+## PageCollection.GetEnumerator method
 
-تعيد عداد الصفحات.
+يعيد المُعدد للصفحات.
 
 ```csharp
 public IEnumerator<Page> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<Page> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد الصفحات
+مُعدِّد الصفحات
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<Page> GetEnumerator()
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

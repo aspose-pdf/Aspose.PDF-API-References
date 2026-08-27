@@ -1,14 +1,14 @@
 ---
-title: MessageContentResponse.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MessageContentResponse. تحصل أو تعين محتوى النص الذي هو جزء من رسالة
+title: "MessageContentResponse.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MessageContentResponse. تحصل أو تعين محتوى النص الذي هو جزء من رسالة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/messagecontentresponse/text/
 ---
-## خاصية MessageContentResponse.Text
+## MessageContentResponse.Text property
 
-تحصل أو تعين محتوى النص الذي هو جزء من رسالة.
+يحصل أو يعيّن النص المحتوى الذي هو جزء من الرسالة.
 
 ```csharp
 public TextResponse Text { get; set; }
@@ -20,3 +20,5 @@ public TextResponse Text { get; set; }
 * class [MessageContentResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

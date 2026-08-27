@@ -1,22 +1,22 @@
 ---
-title: WatermarkAnnotation.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة WatermarkAnnotation. تعيين نص التعليق
+title: "WatermarkAnnotation.SetText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة WatermarkAnnotation. تعيين نص التعليق التوضيحي"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/watermarkannotation/settext/
 ---
-## طريقة WatermarkAnnotation.SetText
+## WatermarkAnnotation.SetText method
 
-تعيين نص التعليق.
+تعيين نص التوضيح.
 
 ```csharp
 public void SetText(FormattedText text)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| النص | FormattedText | قيمة النص. |
+| نص | FormattedText | قيمة النص. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void SetText(FormattedText text)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

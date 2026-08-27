@@ -1,12 +1,12 @@
 ---
-title: Re.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Re. ارتفاع المستطيل
+title: "Re.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Re. ارتفاع المستطيل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/re/height/
 ---
-## خاصية Re.Height
+## Re.Height property
 
 ارتفاع المستطيل.
 
@@ -19,3 +19,5 @@ public double Height { get; set; }
 * class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

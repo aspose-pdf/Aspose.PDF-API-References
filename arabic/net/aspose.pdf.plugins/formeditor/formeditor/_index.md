@@ -1,14 +1,14 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormEditor. المُنشئ الافتراضي
+title: "FormEditor.FormEditor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormEditor. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formeditor/formeditor/
 ---
-## مُنشئ FormEditor
+## FormEditor constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FormEditor()
@@ -19,3 +19,5 @@ public FormEditor()
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

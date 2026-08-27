@@ -1,22 +1,22 @@
 ---
-title: Element.ChildElements
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنصر. تحصل على مجموعة الأطفال من كائنات العنصر
+title: "Element.ChildElements"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Element. يحصل على مجموعة الأطفال من كائنات Element"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/element/childelements/
 ---
-## خاصية Element.ChildElements
+## Element.ChildElements property
 
-تحصل على مجموعة الأطفال من كائنات العنصر.
+يحصل على مجموعة الأطفال لكائنات Element.
 
 ```csharp
 public ElementList ChildElements { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-مجموعة الأطفال من كائنات العنصر.
+مجموعة الأطفال لكائنات Element.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public ElementList ChildElements { get; }
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Stop
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompletionCreateRequest. تحصل أو تعين ما يصل إلى 4 تسلسلات حيث سيتوقف API عن توليد المزيد من الرموز
+title: "CompletionCreateRequest.Stop"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompletionCreateRequest. تحصل أو تعين ما يصل إلى 4 تسلسلات حيث سيتوقف API عن توليد رموز إضافية."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.ai/completioncreaterequest/stop/
 ---
-## خاصية CompletionCreateRequest.Stop
+## CompletionCreateRequest.Stop property
 
-تحصل أو تعين ما يصل إلى 4 تسلسلات حيث سيتوقف API عن توليد المزيد من الرموز.
+يحصل أو يضبط ما يصل إلى 4 سلاسل حيث ستتوقف API عن توليد رموز إضافية.
 
 ```csharp
 public List<string> Stop { get; set; }
@@ -19,3 +19,5 @@ public List<string> Stop { get; set; }
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

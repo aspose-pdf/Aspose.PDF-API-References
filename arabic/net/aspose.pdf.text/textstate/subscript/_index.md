@@ -1,14 +1,14 @@
 ---
-title: TextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تعين النص الفرعي
+title: "TextState.Subscript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. يحصل أو يضبط subscript للنص"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.text/textstate/subscript/
 ---
-## خاصية TextState.Subscript
+## TextState.Subscript property
 
-تحصل أو تعين النص الفرعي.
+يحصل أو يضبط النص تحت السطر.
 
 ```csharp
 public virtual bool Subscript { get; set; }
@@ -19,3 +19,5 @@ public virtual bool Subscript { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

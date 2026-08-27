@@ -1,20 +1,20 @@
 ---
-title: StructureElement.SetTag
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureElement. تعيين علامة مخصصة لعنصر الهيكل
+title: "StructureElement.SetTag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureElement. يضبط علامة مخصصة لعنصر البنية"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/settag/
 ---
-## طريقة StructureElement.SetTag
+## StructureElement.SetTag method
 
-تعيين علامة مخصصة لعنصر الهيكل.
+يحدد علامة مخصصة لعنصر البنية.
 
 ```csharp
 public void SetTag(string newTag)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | newTag | String | اسم العلامة |
 
@@ -23,3 +23,5 @@ public void SetTag(string newTag)
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

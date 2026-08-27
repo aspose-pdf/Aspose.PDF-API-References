@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.FormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الفقرة النصية. يحصل على أو يحدد خيارات التنسيق
+title: "TextParagraph.FormattingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يضبط خيارات التنسيق"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textparagraph/formattingoptions/
 ---
-## خاصية خيارات تنسيق الفقرة النصية
+## TextParagraph.FormattingOptions property
 
-يحصل على أو يحدد خيارات التنسيق.
+يحصل أو يعيّن خيارات التنسيق.
 
 ```csharp
 public TextFormattingOptions FormattingOptions { get; set; }
@@ -20,3 +20,5 @@ public TextFormattingOptions FormattingOptions { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

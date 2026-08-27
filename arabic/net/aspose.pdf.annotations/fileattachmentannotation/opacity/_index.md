@@ -1,14 +1,14 @@
 ---
-title: FileAttachmentAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileAttachmentAnnotation. تحصل أو تعين شفافية الأيقونات من 0 إلى 1 0  شفافة تمامًا 1  غير شفافة تمامًا
+title: "FileAttachmentAnnotation.Opacity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FileAttachmentAnnotation خاصية. تحصل أو تعين شفافية الأيقونات من 0 إلى 1 0 شفافية كاملة 1 معتمة تمامًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/fileattachmentannotation/opacity/
 ---
-## خاصية FileAttachmentAnnotation.Opacity
+## FileAttachmentAnnotation.Opacity property
 
-تحصل أو تعين شفافية الأيقونة من 0 إلى 1: 0 - شفافة تمامًا، 1 - غير شفافة تمامًا.
+يحصل أو يعيّن شفافية الأيقونة من 0 إلى 1: 0 - شفافة تمامًا، 1 - غير شفافة تمامًا.
 
 ```csharp
 public double Opacity { get; set; }
@@ -19,3 +19,5 @@ public double Opacity { get; set; }
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

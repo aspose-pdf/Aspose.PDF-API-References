@@ -1,32 +1,34 @@
 ---
-title: Class CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.CodeInterpreter. تمثل موارد أداة تفسير الشيفرة
+title: "الفئة CodeInterpreter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.CodeInterpreter. تمثل موارد أداة code_interpreter."
 type: docs
-weight: 210
+weight: 220
 url: /ar/net/aspose.pdf.ai/codeinterpreter/
 ---
 ## CodeInterpreter class
 
-تمثل موارد أداة تفسير الشيفرة.
+يمثل موارد أداة مفسر الشيفرة.
 
 ```csharp
 public class CodeInterpreter
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CodeInterpreter](codeinterpreter/)() | المُنشئ الافتراضي. |
+| [CodeInterpreter](codeinterpreter/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | يحصل أو يحدد قائمة بمعرفات الملفات المتاحة لأداة code_interpreter. يمكن أن يكون هناك حد أقصى يبلغ 20 ملفًا مرتبطًا بالأداة. |
+| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | يحصل أو يعيّن قائمة بمعرفات الملفات المتاحة لأداة code_interpreter. يمكن أن يكون هناك حد أقصى قدره 20 ملفًا مرتبطًا بالأداة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

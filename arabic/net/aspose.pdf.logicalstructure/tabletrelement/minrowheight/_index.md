@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableTRElement. تحصل على ارتفاع الصف
+title: "TableTRElement.MinRowHeight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableTRElement. تحصل على ارتفاع الصف"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 ---
-## خاصية TableTRElement.MinRowHeight
+## TableTRElement.MinRowHeight property
 
-تحصل على ارتفاع الصف.
+يحصل على ارتفاع الصف.
 
 ```csharp
 public double MinRowHeight { get; set; }
@@ -19,3 +19,5 @@ public double MinRowHeight { get; set; }
 * class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

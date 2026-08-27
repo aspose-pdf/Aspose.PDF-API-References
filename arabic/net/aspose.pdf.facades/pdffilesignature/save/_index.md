@@ -1,24 +1,24 @@
 ---
-title: PdfFileSignature.Save
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تحفظ ملف PDF الناتج
+title: "PdfFileSignature.Save"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. يحفظ ملف PDF الناتج إلى ملف"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/pdffilesignature/save/
 ---
 ## Save(string) {#save_2}
 
-تحفظ ملف PDF الناتج إلى ملف.
+يحفظ ملف PDF الناتج إلى ملف.
 
 ```csharp
 public override void Save(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | ملف PDF الناتج. |
+| outputFile | String | ملف pdf الناتج. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,20 @@ public override void Save(string outputFile)
 
 ## Save(Stream) {#save_1}
 
-تحفظ ملف PDF الناتج إلى دفق.
+يحفظ ملف PDF الناتج إلى تدفق.
 
 ```csharp
 public override void Save(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | دفق PDF الناتج. |
+| outputStream | Stream | دفق pdf الناتج. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

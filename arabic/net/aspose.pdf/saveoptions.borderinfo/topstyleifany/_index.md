@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderInfo.TopStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: حقل BorderInfo. يمثل الجزء العلوي إذا كان موجودًا من الحدود
+title: "SaveOptions.BorderInfo.TopStyleIfAny"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل BorderInfo. يمثل الجزء العلوي إذا كان موجودًا من الحد"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/
 ---
-## حقل SaveOptions.BorderInfo.TopStyleIfAny
+## SaveOptions.BorderInfo.TopStyleIfAny field
 
-يمثل الجزء العلوي (إذا كان موجودًا) من الحدود
+يمثّل الجزء العلوي (إن وجد) من الحدود
 
 ```csharp
 public BorderPartStyle TopStyleIfAny;
@@ -20,3 +20,5 @@ public BorderPartStyle TopStyleIfAny;
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

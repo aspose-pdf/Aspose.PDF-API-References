@@ -1,14 +1,14 @@
 ---
-title: PdfANonSpecificationFlags.PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfANonSpecificationFlags. المُنشئ الافتراضي
+title: "PdfANonSpecificationFlags.PdfANonSpecificationFlags"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfANonSpecificationFlags. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 ---
-## مُنشئ PdfANonSpecificationFlags
+## PdfANonSpecificationFlags constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PdfANonSpecificationFlags()
@@ -19,3 +19,5 @@ public PdfANonSpecificationFlags()
 * class [PdfANonSpecificationFlags](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

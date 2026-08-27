@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ConcatenationPacketSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. عدد الوثائق المجمعة قبل إجراء تحديث تزايدي جديد أثناء التجميع عندما تكون UseDiskBuffer مضبوطة على true
+title: "PdfFileEditor.ConcatenationPacketSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. عدد المستندات المدمجة قبل إجراء تحديث تراكمية جديد أثناء الدمج عندما يتم تعيين UseDiskBuffer إلى true."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/pdffileeditor/concatenationpacketsize/
 ---
-## خاصية PdfFileEditor.ConcatenationPacketSize
+## PdfFileEditor.ConcatenationPacketSize property
 
-عدد الوثائق المجمعة قبل إجراء تحديث تزايدي جديد أثناء التجميع عندما تكون UseDiskBuffer مضبوطة على true.
+عدد Document المدمجة قبل إجراء تحديث تدريجي جديد أثناء الدمج عندما يتم تعيين UseDiskBuffer إلى true.
 
 ```csharp
 public int ConcatenationPacketSize { get; set; }
@@ -19,3 +19,5 @@ public int ConcatenationPacketSize { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

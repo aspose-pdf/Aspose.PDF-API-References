@@ -1,14 +1,14 @@
 ---
-title: CustomExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CustomExplicitDestination. تحويل إلى رقم الصفحة
+title: "CustomExplicitDestination.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CustomExplicitDestination. تُحوّل إلى رقم الصفحة."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/customexplicitdestination/tostring/
 ---
-## طريقة CustomExplicitDestination.ToString
+## CustomExplicitDestination.ToString method
 
-تحويل إلى رقم الصفحة.
+يحول إلى رقم Page.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [CustomExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

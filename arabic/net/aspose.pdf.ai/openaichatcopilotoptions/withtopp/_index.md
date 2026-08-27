@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تعيين قيمة top P لخيارات مساعد الدردشة
+title: "OpenAIChatCopilotOptions.WithTopP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. تحدد قيمة top P لخيارات مساعد الدردشة"
 type: docs
-weight: 180
+weight: 190
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/withtopp/
 ---
-## طريقة OpenAIChatCopilotOptions.WithTopP
+## OpenAIChatCopilotOptions.WithTopP method
 
-تعيين قيمة top P لخيارات مساعد الدردشة.
+يضبط قيمة top P لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTopP(double? topP)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| topP | Nullable`1 | قيمة top P التي يجب تعيينها. |
+| topP | Nullable`1 | قيمة top P لتعيينها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

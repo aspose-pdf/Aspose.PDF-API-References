@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XImageCollection. تعيد كائن المزامنة
+title: "XImageCollection.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XImageCollection. تُرجع كائن المزامنة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/ximagecollection/syncroot/
 ---
-## خاصية XImageCollection.SyncRoot
+## XImageCollection.SyncRoot property
 
-تعيد كائن المزامنة.
+يعيد كائن المزامنة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Double
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Double  الحدود عبارة عن خطين صلبين. مجموع الخطين والمسافة بينهما تساوي قيمة BorderThickness
+title: "AttributeName.BorderStyle_Double"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة BorderStyle Double  الحد يتكون من خطين صلبين. مجموع الخطين والمسافة بينهما يساوي قيمة BorderThickness"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_double/
 ---
-## حقل AttributeName.BorderStyle_Double
+## AttributeName.BorderStyle_Double field
 
-نمط الحدود: Double - الحدود عبارة عن خطين صلبين. مجموع الخطين والمسافة بينهما تساوي قيمة BorderThickness.
+السمة BorderStyle: Double - الحد هو خطان صلبان. مجموع الخطين والمسافة بينهما يساوي قيمة BorderThickness.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Double;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Double;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowScreenReaders
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. تحدد الإذن الذي يسمح لقرّاء الشاشة أو لا. true يسمح و false ممنوع
+title: "DocumentPrivilege.AllowScreenReaders"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. تحدد الإذن الذي يسمح لقارئات الشاشة أو لا. true يعني مسموح و false يعني ممنوع"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/documentprivilege/allowscreenreaders/
 ---
-## خاصية DocumentPrivilege.AllowScreenReaders
+## DocumentPrivilege.AllowScreenReaders property
 
-تحدد الإذن الذي يسمح لقرّاء الشاشة أو لا. true يسمح و false ممنوع.
+يضبط الإذن الذي يسمح بقوارئ الشاشة أو لا. true يعني مسموح و false يعني ممنوع.
 
 ```csharp
 public bool AllowScreenReaders { get; set; }
@@ -19,3 +19,5 @@ public bool AllowScreenReaders { get; set; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PolygonAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PolygonAnnotation. تقبل كائن الزائر لمعالجة التعليقات التوضيحية
+title: "PolygonAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PolygonAnnotation. تقبل كائن الزائر لمعالجة التعليق."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/polygonannotation/accept/
 ---
-## طريقة PolygonAnnotation.Accept
+## PolygonAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليقات التوضيحية.
+يقبل كائن الزائر لمعالجة التعليقات التوضيحية.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [PolygonAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

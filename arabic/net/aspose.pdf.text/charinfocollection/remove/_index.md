@@ -1,20 +1,20 @@
 ---
-title: CharInfoCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CharInfoCollection. المجموعة للقراءة فقط ترمي NotImplementedException
+title: "CharInfoCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CharInfoCollection. المجموعة للقراءة فقط تُثير NotImplementedException"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.text/charinfocollection/remove/
 ---
-## طريقة CharInfoCollection.Remove
+## CharInfoCollection.Remove method
 
-المجموعة للقراءة فقط، ترمي NotImplementedException.
+المجموعة للقراءة فقط، تُطلق استثناء NotImplementedException.
 
 ```csharp
 public bool Remove(CharInfo item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | CharInfo | العنصر المراد إزالته. |
 
@@ -28,3 +28,5 @@ NotImplementedException
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

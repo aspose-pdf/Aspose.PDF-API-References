@@ -1,23 +1,23 @@
 ---
-title: BleedMarkAnnotation.BleedMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BleedMarkAnnotation. يقوم بتهيئة مثيل جديد من فئة BleedMarkAnnotation
+title: "BleedMarkAnnotation.BleedMarkAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BleedMarkAnnotation. يهيئ مثيلًا جديدًا من فئة BleedMarkAnnotation."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 ---
-## مُنشئ BleedMarkAnnotation
+## BleedMarkAnnotation constructor
 
-يُهيئ مثيلًا جديدًا من فئة [`BleedMarkAnnotation`](../).
+يُنشئ مثيلاً جديدًا من الفئة [`BleedMarkAnnotation`](../).
 
 ```csharp
 public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الصفحة | Page | الصفحة التي سيتم إضافة التعليق عليها. |
-| الموضع | PrinterMarkCornerPosition | موضع علامة النزيف على الصفحة. |
+| صفحة | صفحة | الصفحة التي سيُضاف إليها التعليق التوضيحي. |
+| الموضع | PrinterMarkCornerPosition | موضع علامة النزف على الصفحة. |
 
 ## ملاحظات
 
@@ -30,3 +30,5 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 * class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

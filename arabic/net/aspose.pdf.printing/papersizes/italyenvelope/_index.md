@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.ItalyEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف إيطاليا 110 مم × 230 مم
+title: "PaperSizes.ItalyEnvelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف إيطالي 110 مم × 230 مم"
 type: docs
 weight: 470
 url: /ar/net/aspose.pdf.printing/papersizes/italyenvelope/
 ---
-## حقل PaperSizes.ItalyEnvelope
+## PaperSizes.ItalyEnvelope field
 
-ظرف إيطاليا (110 مم × 230 مم).
+مغلف إيطالي (110 مم × 230 مم).
 
 ```csharp
 public static readonly PaperSize ItalyEnvelope;
@@ -20,3 +20,5 @@ public static readonly PaperSize ItalyEnvelope;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

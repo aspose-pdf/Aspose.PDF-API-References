@@ -1,14 +1,14 @@
 ---
-title: Table.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل أو تعين لون خلفية الجدول
+title: "Table.BackgroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. تحصل أو تعيّن لون خلفية الجدول."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/table/backgroundcolor/
 ---
-## خاصية Table.BackgroundColor
+## Table.BackgroundColor property
 
-تحصل أو تعين لون خلفية الجدول
+يحصل أو يضبط لون خلفية الجدول
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -20,3 +20,5 @@ public Color BackgroundColor { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. نمط المحاذاة غير محدد
+title: "FormFieldFacade.AlignUndefined"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldFacade. نمط محاذاة غير معرف"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/formfieldfacade/alignundefined/
 ---
-## حقل FormFieldFacade.AlignUndefined
+## FormFieldFacade.AlignUndefined field
 
-نمط المحاذاة غير محدد.
+نمط محاذاة غير معرف.
 
 ```csharp
 public const int AlignUndefined;
@@ -19,3 +19,5 @@ public const int AlignUndefined;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: Stamp.BindTextState
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Stamp. تعيين حالة النص لنص الختم
+title: "Stamp.BindTextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Stamp. تعيين حالة النص للختم"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.facades/stamp/bindtextstate/
 ---
-## طريقة Stamp.BindTextState
+## Stamp.BindTextState method
 
-تعيين حالة النص لنص الختم.
+يعيّن حالة نص الطابع.
 
 ```csharp
 public void BindTextState(TextState textState)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textState | TextState | كائن TextState الذي يحدد خصائص النص. |
 
@@ -24,3 +24,5 @@ public void BindTextState(TextState textState)
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

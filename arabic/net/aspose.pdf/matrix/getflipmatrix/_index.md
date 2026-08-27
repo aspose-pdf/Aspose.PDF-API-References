@@ -1,14 +1,14 @@
 ---
-title: Matrix.GetFlipMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المصفوفة. تحصل على مصفوفة الانعكاس
+title: "Matrix.GetFlipMatrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. يحصل على مصفوفة الانعكاس"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/matrix/getflipmatrix/
 ---
-## طريقة Matrix.GetFlipMatrix
+## Matrix.GetFlipMatrix method
 
-تحصل على مصفوفة الانعكاس.
+يحصل على مصفوفة الانعكاس.
 
 ```csharp
 public Matrix GetFlipMatrix()
@@ -19,3 +19,5 @@ public Matrix GetFlipMatrix()
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

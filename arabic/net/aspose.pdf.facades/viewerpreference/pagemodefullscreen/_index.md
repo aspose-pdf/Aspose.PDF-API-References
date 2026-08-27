@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeFullScreen
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. وضع ملء الشاشة بدون شريط قوائم أو عناصر تحكم نافذة أو أي نافذة أخرى مرئية
+title: "ViewerPreference.PageModeFullScreen"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. وضع ملء الشاشة دون شريط قوائم أو عناصر تحكم النافذة أو أي نافذة أخرى مرئية"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.facades/viewerpreference/pagemodefullscreen/
 ---
-## حقل ViewerPreference.PageModeFullScreen
+## ViewerPreference.PageModeFullScreen field
 
-وضع ملء الشاشة، بدون شريط قوائم، أو عناصر تحكم نافذة، أو أي نافذة أخرى مرئية.
+وضع ملء الشاشة، بدون شريط قوائم أو أدوات تحكم النافذة أو أي نافذة أخرى مرئية.
 
 ```csharp
 public const int PageModeFullScreen;
@@ -19,3 +19,5 @@ public const int PageModeFullScreen;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XFA.Form
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFA. مكون نموذج XFA لنموذج XFA
+title: "XFA.Form"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFA. مكوّن نموذج XFA في نموذج XFA"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/xfa/form/
 ---
-## خاصية XFA.Form
+## XFA.Form property
 
-مكون نموذج XFA لنموذج XFA.
+مكوّن نموذج XFA لنموذج XFA.
 
 ```csharp
 public XmlNode Form { get; }
@@ -19,3 +19,5 @@ public XmlNode Form { get; }
 * class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

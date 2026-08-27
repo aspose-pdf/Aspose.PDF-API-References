@@ -1,12 +1,12 @@
 ---
-title: TextExtractionOptions.FormattingMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية خيارات استخراج النص. يحصل على وضع التنسيق
+title: "TextExtractionOptions.FormattingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextExtractionOptions. تحصل على وضع التنسيق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/textextractionoptions/formattingmode/
 ---
-## خاصية خيارات استخراج النص.وضع التنسيق
+## TextExtractionOptions.FormattingMode property
 
 يحصل على وضع التنسيق.
 
@@ -20,3 +20,5 @@ public TextFormattingMode FormattingMode { get; set; }
 * class [TextExtractionOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

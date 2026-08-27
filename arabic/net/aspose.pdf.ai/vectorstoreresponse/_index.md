@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreResponse
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.VectorStoreResponse. كائن تخزين المتجهات
+title: "الفئة VectorStoreResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.VectorStoreResponse. كائن مخزن المتجهات"
 type: docs
-weight: 1390
+weight: 1480
 url: /ar/net/aspose.pdf.ai/vectorstoreresponse/
 ---
-## فئة VectorStoreResponse
+## VectorStoreResponse class
 
-كائن تخزين المتجهات.
+كائن مخزن المتجهات.
 
 ```csharp
 public class VectorStoreResponse : BaseResponse, IEntityId, IStatus
@@ -18,35 +18,37 @@ public class VectorStoreResponse : BaseResponse, IEntityId, IStatus
 
 | الاسم | الوصف |
 | --- | --- |
-| [VectorStoreResponse](vectorstoreresponse/)() | المنشئ الافتراضي. |
+| [VectorStoreResponse](vectorstoreresponse/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [CreatedAt](../../aspose.pdf.ai/vectorstoreresponse/createdat/) { get; set; } | يحصل أو يحدد الطابع الزمني لنظام Unix (بالثواني) عندما تم إنشاء تخزين المتجهات. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يحصل أو يحدد تفاصيل الاستجابة. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يحصل أو يحدد خطأ استجابة HTTP. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يحصل أو يحدد معلومات الخطأ. |
-| [ExpiresAfter](../../aspose.pdf.ai/vectorstoreresponse/expiresafter/) { get; set; } | يحصل أو يحدد سياسة انتهاء صلاحية تخزين المتجهات. |
-| [ExpiresAt](../../aspose.pdf.ai/vectorstoreresponse/expiresat/) { get; set; } | يحصل أو يحدد الطابع الزمني لنظام Unix (بالثواني) عندما سينتهي تخزين المتجهات. |
-| [FileCounts](../../aspose.pdf.ai/vectorstoreresponse/filecounts/) { get; set; } | يحصل أو يحدد عدد الملفات التي تمت معالجتها. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يحصل أو يحدد رؤوس استجابة HTTP. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يحصل أو يحدد رمز حالة HTTP. |
-| [Id](../../aspose.pdf.ai/vectorstoreresponse/id/) { get; set; } | يحصل أو يحدد المعرف، الذي يمكن الإشارة إليه في نقاط نهاية API. |
+| [CreatedAt](../../aspose.pdf.ai/vectorstoreresponse/createdat/) { get; set; } | يحصل أو يضبط الطابع الزمني Unix (بالثواني) لتاريخ إنشاء مخزن المتجهات. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يتم الحصول على أو تعيين تفاصيل الاستجابة. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يتم الحصول على أو تعيين خطأ استجابة HTTP. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يتم الحصول على أو تعيين معلومات الخطأ. |
+| [ExpiresAfter](../../aspose.pdf.ai/vectorstoreresponse/expiresafter/) { get; set; } | يحصل أو يعيّن سياسة الانتهاء لمخزن المتجهات. |
+| [ExpiresAt](../../aspose.pdf.ai/vectorstoreresponse/expiresat/) { get; set; } | يحصل أو يضبط الطابع الزمني Unix (بالثواني) لتاريخ انتهاء صلاحية مخزن المتجهات. |
+| [FileCounts](../../aspose.pdf.ai/vectorstoreresponse/filecounts/) { get; set; } | يحصل أو يضبط عدد الملفات التي تم معالجتها. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يتم الحصول على أو تعيين رؤوس استجابة HTTP. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يتم الحصول على أو تعيين رمز حالة HTTP. |
+| [Id](../../aspose.pdf.ai/vectorstoreresponse/id/) { get; set; } | يحصل أو يعيّن المعرف، الذي يمكن الإشارة إليه في نقاط النهاية API. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | يشير إلى ما إذا كانت الاستجابة ناجحة. |
-| [LastActiveAt](../../aspose.pdf.ai/vectorstoreresponse/lastactiveat/) { get; set; } | يحصل أو يحدد الطابع الزمني لنظام Unix (بالثواني) عندما كان تخزين المتجهات نشطًا آخر مرة. |
-| [Metadata](../../aspose.pdf.ai/vectorstoreresponse/metadata/) { get; set; } | يحصل أو يحدد مجموعة من 16 زوجًا من المفاتيح والقيم التي يمكن إرفاقها بكائن. يمكن أن يكون هذا مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بطول أقصى 64 حرفًا والقيم بطول أقصى 512 حرفًا. |
-| [Name](../../aspose.pdf.ai/vectorstoreresponse/name/) { get; set; } | يحصل أو يحدد اسم تخزين المتجهات. |
-| [Object](../../aspose.pdf.ai/vectorstoreresponse/object/) { get; set; } | يحصل أو يحدد نوع الكائن، الذي يكون دائمًا vector_store. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يحصل على عبارة سبب الخطأ. |
-| [Status](../../aspose.pdf.ai/vectorstoreresponse/status/) { get; set; } | يحصل أو يحدد حالة تخزين المتجهات، والتي يمكن أن تكون إما منتهية، قيد التقدم، أو مكتملة. تشير حالة المكتملة إلى أن تخزين المتجهات جاهز للاستخدام. |
-| [UsageBytes](../../aspose.pdf.ai/vectorstoreresponse/usagebytes/) { get; set; } | يحصل أو يحدد العدد الإجمالي للبايتات المستخدمة بواسطة الملفات في تخزين المتجهات. |
+| [LastActiveAt](../../aspose.pdf.ai/vectorstoreresponse/lastactiveat/) { get; set; } | يحصل أو يضبط الطابع الزمني Unix (بالثواني) لتاريخ آخر نشاط لمخزن المتجهات. |
+| [Metadata](../../aspose.pdf.ai/vectorstoreresponse/metadata/) { get; set; } | يحصل أو يضبط مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بكائن. يمكن أن يكون ذلك مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بحد أقصى 64 حرفًا والقيم بحد أقصى 512 حرفًا. |
+| [Name](../../aspose.pdf.ai/vectorstoreresponse/name/) { get; set; } | يحصل أو يعيّن اسم مخزن المتجهات. |
+| [Object](../../aspose.pdf.ai/vectorstoreresponse/object/) { get; set; } | يحصل أو يضبط نوع الكائن، والذي يكون دائمًا vector_store. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يتم الحصول على عبارة سبب الخطأ. |
+| [Status](../../aspose.pdf.ai/vectorstoreresponse/status/) { get; set; } | يحصل أو يضبط حالة مخزن المتجهات، والتي يمكن أن تكون إما expired أو in_progress أو completed. تشير الحالة completed إلى أن مخزن المتجهات جاهز للاستخدام. |
+| [UsageBytes](../../aspose.pdf.ai/vectorstoreresponse/usagebytes/) { get; set; } | يحصل أو يضبط إجمالي عدد البايتات المستخدمة بواسطة الملفات في مخزن المتجهات. |
 
 ### انظر أيضًا
 
-* فئة [BaseResponse](../baseresponse/)
-* واجهة [IEntityId](../ientityid/)
-* واجهة [IStatus](../istatus/)
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* class [BaseResponse](../baseresponse/)
+* interface [IEntityId](../ientityid/)
+* interface [IStatus](../istatus/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

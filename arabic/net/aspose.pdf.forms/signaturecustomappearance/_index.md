@@ -1,9 +1,9 @@
 ---
-title: Class SignatureCustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Forms.SignatureCustomAppearance. فئة مجردة تمثل كائن مظهر التوقيع المخصص
+title: "الفئة SignatureCustomAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Forms.SignatureCustomAppearance. فئة مجردة تمثل كائن مظهر التوقيع المخصص."
 type: docs
-weight: 5280
+weight: 5400
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/
 ---
 ## SignatureCustomAppearance class
@@ -14,36 +14,39 @@ url: /ar/net/aspose.pdf.forms/signaturecustomappearance/
 public sealed class SignatureCustomAppearance
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SignatureCustomAppearance](signaturecustomappearance/)() | المُنشئ الافتراضي. |
+| [SignatureCustomAppearance](signaturecustomappearance/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.forms/signaturecustomappearance/backgroundcolor/) { get; set; } | يحصل/يضع لون الخلفية. القيمة الافتراضية: شفاف. |
-| [ContactInfoLabel](../../aspose.pdf.forms/signaturecustomappearance/contactinfolabel/) { get; set; } | يحصل/يضع تسمية معلومات الاتصال. القيمة الافتراضية: "الاتصال". |
-| [Culture](../../aspose.pdf.forms/signaturecustomappearance/culture/) { get; set; } | يحصل/يضع قيمة معلومات الثقافة. القيمة الافتراضية: InvariantCulture. |
-| [DateSignedAtLabel](../../aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/) { get; set; } | يحصل/يضع تسمية تاريخ التوقيع. القيمة الافتراضية: "التاريخ". |
-| [DateTimeFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimeformat/) { get; set; } | يحصل/يضع تنسيق التاريخ والوقت. القيمة الافتراضية: "yyyy.MM.dd HH:mm:ss". |
-| [DateTimeLocalFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/) { get; set; } | يحصل/يضع تنسيق التاريخ والوقت المحلي. القيمة الافتراضية: "yyyy.MM.dd HH:mm:ss zzz". |
-| [DigitalSignedLabel](../../aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/) { get; set; } | يحصل/يضع تسمية التوقيع الرقمي. القيمة الافتراضية: "موقع رقمياً بواسطة". |
-| [DigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/digitalsubjectformat/) { get; set; } | يحصل/يضع تنسيق ترتيب العناصر في سلسلة الموضوع. أمثلة النتائج: C=UK, CN=Org, O=Organization أو CN=Org, C=UK, O=Organization أو O=Organization |
-| [FontFamilyName](../../aspose.pdf.forms/signaturecustomappearance/fontfamilyname/) { get; set; } | يحصل/يضع اسم عائلة الخط. يجب أن يكون موجودًا في الوثيقة. القيمة الافتراضية: Arial. |
-| [FontSize](../../aspose.pdf.forms/signaturecustomappearance/fontsize/) { get; set; } | يحصل/يضع حجم الخط. القيمة الافتراضية: 10. |
-| [ForegroundColor](../../aspose.pdf.forms/signaturecustomappearance/foregroundcolor/) { get; set; } | يحصل/يضع لون المقدمة (لون النص). القيمة الافتراضية: أزرق. |
-| [LocationLabel](../../aspose.pdf.forms/signaturecustomappearance/locationlabel/) { get; set; } | يحصل/يضع تسمية الموقع. القيمة الافتراضية: "الموقع". |
-| [ReasonLabel](../../aspose.pdf.forms/signaturecustomappearance/reasonlabel/) { get; set; } | يحصل/يضع تسمية السبب. القيمة الافتراضية: "السبب". |
-| [Rotation](../../aspose.pdf.forms/signaturecustomappearance/rotation/) { get; set; } | يحصل أو يضع دوران التوقيع. |
-| [ShowContactInfo](../../aspose.pdf.forms/signaturecustomappearance/showcontactinfo/) { get; set; } | يحصل/يضع رؤية معلومات الاتصال. القيمة الافتراضية: true. |
-| [ShowLocation](../../aspose.pdf.forms/signaturecustomappearance/showlocation/) { get; set; } | يحصل/يضع رؤية الموقع. القيمة الافتراضية: true. |
-| [ShowReason](../../aspose.pdf.forms/signaturecustomappearance/showreason/) { get; set; } | يحصل/يضع رؤية السبب. القيمة الافتراضية: true. |
-| [UseDigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/) { get; set; } | يحصل/يضع حالة استخدام [`DigitalSubjectFormat`](./digitalsubjectformat/). |
+| [BackgroundColor](../../aspose.pdf.forms/signaturecustomappearance/backgroundcolor/) { get; set; } | يحصل/يعيّن لون الخلفية. القيمة الافتراضية: Transparent. |
+| [ContactInfoLabel](../../aspose.pdf.forms/signaturecustomappearance/contactinfolabel/) { get; set; } | يحصل/يعيّن تسمية معلومات الاتصال. القيمة الافتراضية: "Contact". |
+| [Culture](../../aspose.pdf.forms/signaturecustomappearance/culture/) { get; set; } | الحصول/التعيين لقيمة معلومات الثقافة. القيمة الافتراضية: InvariantCulture. |
+| [DateSignedAtLabel](../../aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/) { get; set; } | الحصول/التعيين لتسمية تاريخ التوقيع. القيمة الافتراضية: "Date". |
+| [DateTimeFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimeformat/) { get; set; } | الحصول/التعيين لتنسيق التاريخ والوقت. القيمة الافتراضية: "yyyy.MM.dd HH:mm:ss". |
+| [DateTimeLocalFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/) { get; set; } | الحصول/التعيين لتنسيق التاريخ والوقت المحلي. القيمة الافتراضية: "yyyy.MM.dd HH:mm:ss zzz". |
+| [DigitalSignedLabel](../../aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/) { get; set; } | الحصول/التعيين لتسمية التوقيع الرقمي. القيمة الافتراضية: "Digitally signed by". |
+| [DigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/digitalsubjectformat/) { get; set; } | الحصول/التعيين لتنسيق ترتيب العناصر في سلسلة Subject. أمثلة النتائج: C=UK, CN=Org, O=Organization أو CN=Org, C=UK, O=Organization أو O=Organization |
+| [FontFamilyName](../../aspose.pdf.forms/signaturecustomappearance/fontfamilyname/) { get; set; } | الحصول/التعيين لاسم عائلة الخط. يجب أن يكون موجودًا في المستند. القيمة الافتراضية: Arial. |
+| [FontSize](../../aspose.pdf.forms/signaturecustomappearance/fontsize/) { get; set; } | الحصول/التعيين لحجم الخط. القيمة الافتراضية: 10. |
+| [ForegroundColor](../../aspose.pdf.forms/signaturecustomappearance/foregroundcolor/) { get; set; } | الحصول/التعيين للون المقدمة (لون النص). القيمة الافتراضية: Blue. |
+| [IsForegroundImage](../../aspose.pdf.forms/signaturecustomappearance/isforegroundimage/) { get; set; } | الحصول أو التعيين لقيمة تشير إلى ما إذا كانت الصورة في مظهر التوقيع مرسومة كصورة مقدمة. القيمة الافتراضية: false. |
+| [LocationLabel](../../aspose.pdf.forms/signaturecustomappearance/locationlabel/) { get; set; } | الحصول/التعيين لتسمية الموقع. القيمة الافتراضية: "Location". |
+| [ReasonLabel](../../aspose.pdf.forms/signaturecustomappearance/reasonlabel/) { get; set; } | الحصول/التعيين لتسمية السبب. القيمة الافتراضية: "Reason". |
+| [Rotation](../../aspose.pdf.forms/signaturecustomappearance/rotation/) { get; set; } | الحصول أو التعيين لتدوير التوقيع. |
+| [ShowContactInfo](../../aspose.pdf.forms/signaturecustomappearance/showcontactinfo/) { get; set; } | الحصول/التعيين لرؤية معلومات الاتصال. القيمة الافتراضية: true. |
+| [ShowLocation](../../aspose.pdf.forms/signaturecustomappearance/showlocation/) { get; set; } | الحصول/التعيين لرؤية الموقع. القيمة الافتراضية: true. |
+| [ShowReason](../../aspose.pdf.forms/signaturecustomappearance/showreason/) { get; set; } | الحصول/التعيين لرؤية السبب. القيمة الافتراضية: true. |
+| [UseDigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/) { get; set; } | الحصول/التعيين لحالة الاستخدام لـ [`DigitalSubjectFormat`](./digitalsubjectformat/). |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

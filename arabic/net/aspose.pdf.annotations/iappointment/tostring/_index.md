@@ -1,14 +1,14 @@
 ---
-title: IAppointment.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IAppointment. تعيد تمثيل سلسلة
+title: "IAppointment.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IAppointment. تُرجع تمثيلًا نصيًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/iappointment/tostring/
 ---
-## طريقة IAppointment.ToString
+## IAppointment.ToString method
 
-تعيد تمثيل سلسلة
+يعيد تمثيل السلسلة
 
 ```csharp
 public string ToString()
@@ -16,10 +16,12 @@ public string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل سلسلة.
+تمثيل النص.
 
 ### انظر أيضًا
 
-* الواجهة [IAppointment](../)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IAppointment](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

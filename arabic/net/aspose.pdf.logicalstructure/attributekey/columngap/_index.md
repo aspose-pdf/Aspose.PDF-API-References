@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ColumnGap
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية ColumnGap مالك خاصية التخطيط
+title: "AttributeKey.ColumnGap"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. ColumnGap خاصية تخطيط خاصية المالك"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/columngap/
 ---
-## حقل AttributeKey.ColumnGap
+## AttributeKey.ColumnGap field
 
-خاصية ColumnGap (مالك خاصية التخطيط).
+خاصية ColumnGap (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey ColumnGap;
@@ -19,3 +19,5 @@ public static readonly AttributeKey ColumnGap;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

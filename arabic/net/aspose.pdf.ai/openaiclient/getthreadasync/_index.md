@@ -1,34 +1,34 @@
 ---
-title: OpenAIClient.GetThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع تفاصيل موضوع معين بشكل غير متزامن
+title: "OpenAIClient.GetThreadAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع تفاصيل خيط محدد بشكل غير متزامن"
 type: docs
-weight: 300
+weight: 310
 url: /ar/net/aspose.pdf.ai/openaiclient/getthreadasync/
 ---
-## طريقة OpenAIClient.GetThreadAsync
+## OpenAIClient.GetThreadAsync method
 
-تسترجع تفاصيل موضوع معين بشكل غير متزامن.
+يسترجع تفاصيل خيط محدد بشكل غير متزامن.
 
 ```csharp
 public Task<ThreadResponse> GetThreadAsync(string threadId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف الموضوع الذي سيتم استرجاعه. |
+| threadId | String | معرّف الخيط لاسترجاعه. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على تفاصيل الموضوع.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على تفاصيل الخيط.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف الموضوع فارغًا أو غير موجود. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -36,3 +36,5 @@ public Task<ThreadResponse> GetThreadAsync(string threadId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

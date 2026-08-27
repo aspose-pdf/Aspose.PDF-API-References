@@ -1,40 +1,42 @@
 ---
-title: Class SaveOptions.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.SaveOptionsBorderPartStyle. تمثل معلومات جزء واحد من الحدود
+title: "فئة SaveOptions.BorderPartStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.SaveOptionsBorderPartStyle. تمثل معلومات جزء واحد من الحدود (أعلى، أسفل، الجانب الأيسر أو الجانب الأيمن)"
 type: docs
-weight: 9890
+weight: 10040
 url: /ar/net/aspose.pdf/saveoptions.borderpartstyle/
 ---
 ## SaveOptions.BorderPartStyle class
 
-تمثل معلومات جزء واحد من الحدود (الجزء العلوي، السفلي، الجانب الأيسر أو الجانب الأيمن)
+تمثل معلومات جزء واحد من الحدود (أعلى، أسفل، الجانب الأيسر أو الجانب الأيمن)
 
 ```csharp
 public class BorderPartStyle
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BorderPartStyle](../../aspose.pdf/saveoptions.borderpartstyle/.ctor)() | المُنشئ الافتراضي. |
+| [BorderPartStyle](../../aspose.pdf/saveoptions.borderpartstyle/.ctor)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [WidthInPoints](../../aspose.pdf/saveoptions.borderpartstyle/widthinpoints) { get; set; } | تمثل عرض خط الحدود بالنقاط. يجب أن يكون رقمًا أكبر من الصفر. |
+| [WidthInPoints](../../aspose.pdf/saveoptions.borderpartstyle/widthinpoints) { get; set; } | تمثل عرض خط الحدود بالنقاط. يجب أن يكون رقماً أكبر من الصفر. |
 
-## Fields
+## الحقول
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Color](../../aspose.pdf/saveoptions.borderpartstyle/color) | تمثل لون خط الحدود |
-| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | تمثل نوع خط الحدود - مثل: متقطع أو صلب |
+| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | تمثل نوع خط الحدود - مثلًا متقطع أو صلب |
 
-### See Also
+### انظر أيضًا
 
 * class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

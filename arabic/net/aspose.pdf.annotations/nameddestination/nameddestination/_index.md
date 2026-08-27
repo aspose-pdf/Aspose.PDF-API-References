@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ NamedDestination. إنشاء وجهة مسماة
+title: "NamedDestination.NamedDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ NamedDestination. إنشاء وجهة مسماة."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/nameddestination/nameddestination/
 ---
-## مُنشئ NamedDestination
+## NamedDestination constructor
 
 إنشاء وجهة مسماة.
 
@@ -14,10 +14,10 @@ url: /ar/net/aspose.pdf.annotations/nameddestination/nameddestination/
 public NamedDestination(Document doc, string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي يجب إنشاء الوجهة المسماة فيه. |
-| name | String | الاسم الذي تشير إليه الوجهة. |
+| doc | Document | Document حيث يجب إنشاء الوجهة المسماة. |
+| الاسم | String | الاسم الذي تشير إليه الوجهة. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public NamedDestination(Document doc, string name)
 * class [NamedDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

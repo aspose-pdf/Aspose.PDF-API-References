@@ -1,20 +1,20 @@
 ---
-title: Page.Header
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. يحصل أو يحدد رأس الصفحة
+title: "Page.Header"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Page property. يحصل أو يعيّن رأس الصفحة"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/page/header/
 ---
-## خاصية Page.Header
+## Page.Header property
 
-يحصل أو يحدد رأس الصفحة.
+يحصل أو يضبط رأس الصفحة.
 
 ```csharp
 public HeaderFooter Header { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 رأس الصفحة.
 
@@ -24,3 +24,5 @@ public HeaderFooter Header { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

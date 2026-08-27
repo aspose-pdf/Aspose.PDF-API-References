@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.Print
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. يسمح بطباعة الملف
+title: "DocumentPrivilege.Print"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. يسمح بطباعة الملف"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/documentprivilege/print/
 ---
-## خاصية DocumentPrivilege.Print
+## DocumentPrivilege.Print property
 
 يسمح بطباعة الملف.
 
@@ -19,3 +19,5 @@ public static DocumentPrivilege Print { get; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

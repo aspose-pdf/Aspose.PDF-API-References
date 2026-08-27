@@ -1,14 +1,14 @@
 ---
-title: PageRange.PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageRange. المُنشئ الافتراضي
+title: "PageRange.PageRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PageRange. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagerange/pagerange/
 ---
-## مُنشئ PageRange
+## PageRange constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PageRange()
@@ -19,3 +19,5 @@ public PageRange()
 * class [PageRange](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين علامة الماء للصفحة
+title: "Page.Watermark"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية الصفحة. تحصل أو تعين علامة مائية للصفحة"
 type: docs
 weight: 310
 url: /ar/net/aspose.pdf/page/watermark/
 ---
-## خاصية Page.Watermark
+## Page.Watermark property
 
-تحصل أو تعين علامة الماء للصفحة.
+يحصل أو يضبط العلامة المائية للصفحة.
 
 ```csharp
 public Watermark Watermark { get; set; }
@@ -20,3 +20,5 @@ public Watermark Watermark { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

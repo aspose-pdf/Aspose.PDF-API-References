@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FloatingBox. تحصل أو تعين قيمة عائمة تشير إلى عرض صندوق العائم
+title: "FloatingBox.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FloatingBox. تحصل أو تعين قيمة float التي تحدد عرض الصندوق العائم"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/floatingbox/width/
 ---
-## خاصية FloatingBox.Width
+## FloatingBox.Width property
 
-تحصل أو تعين قيمة عائمة تشير إلى عرض صندوق العائم.
+يحصل أو يعيّن قيمة عائمة تحدد عرض الصندوق العائم.
 
 ```csharp
 public double Width { get; set; }
@@ -19,3 +19,5 @@ public double Width { get; set; }
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

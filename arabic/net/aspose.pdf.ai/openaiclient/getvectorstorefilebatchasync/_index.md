@@ -1,36 +1,36 @@
 ---
-title: OpenAIClient.GetVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع تفاصيل دفعة ملف مخزن المتجهات المحددة بشكل غير متزامن
+title: "OpenAIClient.GetVectorStoreFileBatchAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع تفاصيل دفعة ملفات مخزن المتجه المحدد بشكل غير متزامن"
 type: docs
-weight: 350
+weight: 360
 url: /ar/net/aspose.pdf.ai/openaiclient/getvectorstorefilebatchasync/
 ---
-## طريقة OpenAIClient.GetVectorStoreFileBatchAsync
+## OpenAIClient.GetVectorStoreFileBatchAsync method
 
-تسترجع تفاصيل دفعة ملف مخزن المتجهات المحددة بشكل غير متزامن.
+يسترجع تفاصيل دفعة ملفات مخزن المتجه المحددة بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string vectorStoreId, 
     string fileBatchId, CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreId | سلسلة | معرف مخزن المتجهات الذي يحتوي على دفعة الملف. |
-| fileBatchId | سلسلة | معرف دفعة الملف التي سيتم استرجاعها. |
+| vectorStoreId | String | معرّف مخزن المتجه الذي يحتوي على دفعة الملفات. |
+| fileBatchId | String | معرّف دفعة الملفات المراد استرجاعها. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على تفاصيل دفعة الملف.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على تفاصيل دفعة الملفات.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف مخزن المتجهات فارغًا أو غير موجود. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف دفعة ملف مخزن المتجهات فارغًا أو غير موجود. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف مخزن المتجهات فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم إلقاؤها عندما يكون معرّف دفعة ملفات مخزن المتجه فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string ve
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

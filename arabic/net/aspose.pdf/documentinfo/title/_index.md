@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. تحصل أو تعين عنوان الوثيقة
+title: "DocumentInfo.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DocumentInfo خاصية. يحصل أو يضبط عنوان المستند"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/documentinfo/title/
 ---
-## خاصية DocumentInfo.Title
+## DocumentInfo.Title property
 
-تحصل أو تعين عنوان الوثيقة.
+يحصل أو يعيّن عنوان المستند.
 
 ```csharp
 public string Title { get; set; }
@@ -19,3 +19,5 @@ public string Title { get; set; }
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

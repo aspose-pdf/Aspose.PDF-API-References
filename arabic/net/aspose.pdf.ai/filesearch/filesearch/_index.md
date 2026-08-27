@@ -1,14 +1,14 @@
 ---
-title: FileSearch.FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FileSearch. المُنشئ الافتراضي
+title: "FileSearch.FileSearch"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FileSearch. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/filesearch/filesearch/
 ---
-## مُنشئ FileSearch
+## FileSearch constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FileSearch()
@@ -19,3 +19,5 @@ public FileSearch()
 * class [FileSearch](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

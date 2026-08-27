@@ -1,20 +1,20 @@
 ---
-title: Merger.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الدمج. تبدأ معالجة الدمج بالمعلمات المحددة
+title: "Merger.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Merger. تبدأ معالجة Merger بالمعلمات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/merger/process/
 ---
-## طريقة Merger.Process
+## Merger.Process method
 
-تبدأ معالجة [`Merger`](../) بالمعلمات المحددة.
+يبدأ معالجة [`Merger`](../) بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ [`Merger`](../). |
 
@@ -24,7 +24,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException |  |
 
@@ -35,3 +35,5 @@ public ResultContainer Process(IPluginOptions options)
 * class [Merger](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

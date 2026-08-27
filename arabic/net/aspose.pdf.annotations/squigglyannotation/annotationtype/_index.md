@@ -1,14 +1,14 @@
 ---
-title: SquigglyAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SquigglyAnnotation. تحصل على نوع التعليق
+title: "SquigglyAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SquigglyAnnotation. يحصل على نوع التعليق التوضيحي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/squigglyannotation/annotationtype/
 ---
-## خاصية SquigglyAnnotation.AnnotationType
+## SquigglyAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [SquigglyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

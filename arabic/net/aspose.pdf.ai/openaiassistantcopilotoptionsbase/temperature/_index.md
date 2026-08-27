@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIAssistantCopilotOptionsBase. يحصل أو يحدد درجة حرارة العينة لاستخدامها في النموذج
+title: "OpenAIAssistantCopilotOptionsBase.Temperature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAIAssistantCopilotOptionsBase. تحصل أو تعين درجة حرارة العينة المستخدمة للنموذج"
 type: docs
-weight: 50
+weight: 40
 url: /ar/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/
 ---
-## خاصية OpenAIAssistantCopilotOptionsBase.Temperature
+## OpenAIAssistantCopilotOptionsBase.Temperature property
 
-يحصل أو يحدد درجة حرارة العينة لاستخدامها في النموذج.
+يحصل أو يضبط درجة حرارة العينة المستخدمة للنموذج.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -19,3 +19,5 @@ public double? Temperature { get; set; }
 * class [OpenAIAssistantCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

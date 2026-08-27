@@ -1,14 +1,14 @@
 ---
-title: StructureElement.Page
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureElement. تحصل على الصفحة التي سيتم عرض بعض أو كل العناصر الفرعية عليها
+title: "StructureElement.Page"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureElement. يحصل على الصفحة التي سيتم عرض بعض أو كل عناصر الأطفال عليها"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/page/
 ---
-## خاصية StructureElement.Page
+## StructureElement.Page property
 
-تحصل على الصفحة التي سيتم عرض بعض أو كل العناصر الفرعية عليها.
+يحصل على الصفحة التي سيتم فيها عرض بعض أو كل العناصر الفرعية.
 
 ```csharp
 public Page Page { get; }
@@ -20,3 +20,5 @@ public Page Page { get; }
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

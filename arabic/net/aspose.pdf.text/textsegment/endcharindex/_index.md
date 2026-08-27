@@ -1,14 +1,14 @@
 ---
-title: TextSegment.EndCharIndex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegment. تحصل على فهرس الحرف النهائي للجزء الحالي في مشغل النص المعروض Tj TJ
+title: "TextSegment.EndCharIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegment. يحصل على فهرس الحرف النهائي للقطعة الحالية في عامل إظهار النص Tj TJ"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textsegment/endcharindex/
 ---
-## خاصية TextSegment.EndCharIndex
+## TextSegment.EndCharIndex property
 
-تحصل على فهرس الحرف النهائي للجزء الحالي في مشغل النص المعروض (Tj, TJ).
+يحصل على فهرس الحرف النهائي للمقطع الحالي في مشغل إظهار النص (Tj, TJ).
 
 ```csharp
 public int EndCharIndex { get; }
@@ -19,3 +19,5 @@ public int EndCharIndex { get; }
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

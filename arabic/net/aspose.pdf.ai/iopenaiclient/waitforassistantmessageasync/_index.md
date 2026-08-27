@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForAssistantMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تنتظر الرسالة الأولى من المساعد ضمن سلسلة بشكل غير متزامن
+title: "IOpenAIClient.WaitForAssistantMessageAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تنتظر الرسالة الأولى من المساعد داخل خيط بشكل غير متزامن"
 type: docs
 weight: 430
 url: /ar/net/aspose.pdf.ai/iopenaiclient/waitforassistantmessageasync/
 ---
 ## IOpenAIClient.WaitForAssistantMessageAsync method
 
-تنتظر الرسالة الأولى من المساعد ضمن سلسلة بشكل غير متزامن.
+ينتظر الرسالة الأولى من المساعد داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId, 
@@ -16,26 +16,28 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف السلسلة لمراقبة الرسالة الأولى من المساعد. |
+| threadId | String | معرّف الخيط لمراقبة الرسالة الأولى من المساعد. |
 | queryParameters | ThreadMessageListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة الرسائل. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
-### Return Value
+### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الرسالة الأولى من المساعد في السلسلة.
+مهمة تمثل العملية غير المتزامنة. نتيجة المهمة تحتوي على الرسالة الأولى من المساعد في الخيط.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف السلسلة فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
 
-### See Also
+### انظر أيضًا
 
 * class [ThreadMessageResponse](../../threadmessageresponse/)
 * class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Metadata.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية البيانات الوصفية. تتحقق مما إذا كانت المجموعة للقراءة فقط
+title: "Metadata.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Metadata خاصية. يتحقق مما إذا كانت المجموعة للقراءة فقط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/metadata/isreadonly/
 ---
-## خاصية Metadata.IsReadOnly
+## Metadata.IsReadOnly property
 
-تتحقق مما إذا كانت المجموعة للقراءة فقط.
+يتحقق مما إذا كانت المجموعة للقراءة فقط.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public bool IsReadOnly { get; }
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+
