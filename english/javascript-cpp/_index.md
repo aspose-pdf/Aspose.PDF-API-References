@@ -105,6 +105,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfRebuildXrefAndTrailer](./organize/asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
 | [AsposePdfReversePages](./organize/asposepdfreversepages/) | Reverse the page order of a PDF-file. |
 | [AsposePdfReorderPages](./organize/asposepdfreorderpages/) | Reorder pages in a PDF-file. |
+| [AsposePdfRedactText](./organize/asposepdfredacttext/) | Permanently redact and black out sensitive text in a PDF-file. |
 
 
 ## Metadata PDF functions
