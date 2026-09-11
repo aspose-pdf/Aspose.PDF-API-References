@@ -46,6 +46,7 @@ url: /rust-cpp/organize/
 | [is_pdfua_compliant](./is_pdfua_compliant/) | Get is a PDF-document PDF/UA compliant |
 | [reverse_pages](./reverse_pages/) | Reverse the order of pages in PDF-document. |
 | [reorder_pages](./reorder_pages/) | Reorder pages in PDF-document. |
+| [redact_text](./redact_text/) | Redact permanently and blacks out sensitive text in PDF-document. |
 | [page_rotate](./page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./page_grayscale/) | Convert page to black and white. |
