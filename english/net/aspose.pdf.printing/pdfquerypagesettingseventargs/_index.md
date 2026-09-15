@@ -3,7 +3,7 @@ title: Class PdfQueryPageSettingsEventArgs
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs class. Provides data for the PdfQueryPageSettings event
 type: docs
-weight: 9790
+weight: 9930
 url: /net/aspose.pdf.printing/pdfquerypagesettingseventargs/
 ---
 ## PdfQueryPageSettingsEventArgs class

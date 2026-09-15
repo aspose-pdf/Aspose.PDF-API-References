@@ -3,7 +3,7 @@ title: Layer.Unlock
 second_title: Aspose.PDF for .NET API Reference
 description: Layer method. Unlocks the layer
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf/layer/unlock/
 ---
 ## Layer.Unlock method

@@ -3,7 +3,7 @@ title: Class PdfViewer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfViewer class. Represents a class to view or print a pdf
 type: docs
-weight: 4750
+weight: 4790
 url: /net/aspose.pdf.facades/pdfviewer/
 ---
 ## PdfViewer class
@@ -58,8 +58,8 @@ public sealed class PdfViewer : IFacade
 | [GetDefaultPageSettings](../../aspose.pdf.facades/pdfviewer/getdefaultpagesettings/)() | Gets the default page settings. |
 | [GetDefaultPrinterSettings](../../aspose.pdf.facades/pdfviewer/getdefaultprintersettings/)() | Gets the default printer settings. |
 | [PrintDocument](../../aspose.pdf.facades/pdfviewer/printdocument/)() | Prints the Pdf document using default printer. |
-| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings/#printdocumentwithsettings_1)(PrinterSettings) | Prints the Pdf document with printer settings. The output page size will fit the the document first page size. |
-| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings/#printdocumentwithsettings)(PageSettings, PrinterSettings) | Prints the Pdf document with settings. If the document size does not correspond to page size, it will be extended to fit page size. |
+| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings/#printdocumentwithsettings_1)(PrinterSettings) | Prints the Pdf document with printer settings. Printer page settings (paper size, margins, and so on) will be set to default values for the selected printer. |
+| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings/#printdocumentwithsettings)(PageSettings, PrinterSettings) | Prints the Pdf document with settings. If the document page size does not correspond to the printer paper size, set the [`AutoResize`](./autoresize/) property to determine whether a page will be extended/shrunk to fit the paper size. |
 | [PrintDocumentWithSetup](../../aspose.pdf.facades/pdfviewer/printdocumentwithsetup/)() | Prints the Pdf document with a setup dialog. Choose a printer using the dialog. |
 | [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf/#printlargepdf)(Stream) | Opens and prints a large Pdf stream. If your Pdf file has hundreds of pages or more or its size is more than 3 MB, this method is recommended to get better performance. |
 | [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf/#printlargepdf_3)(string) | Opens and prints a large Pdf file. If your Pdf file has hundreds of pages or more or its size is more than 3 MB, this method is recommended to get better performance. |

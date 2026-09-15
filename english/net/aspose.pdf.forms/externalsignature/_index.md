@@ -3,7 +3,7 @@ title: Class ExternalSignature
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.ExternalSignature class. Creates a detached PKCS7 signature using a X509Certificate2. It supports usb smartcards tokens without exportable private keys
 type: docs
-weight: 5160
+weight: 5220
 url: /net/aspose.pdf.forms/externalsignature/
 ---
 ## ExternalSignature class
@@ -48,6 +48,9 @@ public class ExternalSignature : Signature
 | Name | Description |
 | --- | --- |
 | [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)(ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)(X509Certificate2, ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |

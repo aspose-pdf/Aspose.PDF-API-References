@@ -3,7 +3,7 @@ title: Class Annotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.Annotation class. Represents the text content that is part of a message
 type: docs
-weight: 90
+weight: 60
 url: /net/aspose.pdf.ai/annotation/
 ---
 ## Annotation class

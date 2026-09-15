@@ -3,7 +3,7 @@ title: PageCollection.CopyTo
 second_title: Aspose.PDF for .NET API Reference
 description: PageCollection method. Copyies pages into document
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf/pagecollection/copyto/
 ---
 ## PageCollection.CopyTo method

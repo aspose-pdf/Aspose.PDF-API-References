@@ -3,7 +3,7 @@ title: Layer.Flatten
 second_title: Aspose.PDF for .NET API Reference
 description: Layer method. Flattens the specified layer
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf/layer/flatten/
 ---
 ## Layer.Flatten method

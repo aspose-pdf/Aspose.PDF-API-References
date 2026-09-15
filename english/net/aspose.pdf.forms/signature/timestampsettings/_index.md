@@ -14,6 +14,10 @@ Gets/sets timestamp settings.
 public TimestampSettings TimestampSettings { get; set; }
 ```
 
+## Remarks
+
+If the property is set and a certificate is provided to the constructor of the [`Signature`](../) class, the digital signature will be timestamped with an embedded timestamp. If the property is set but no certificate is provided to the constructor of the [`Signature`](../) class, the timestamp will be added as a separate signature.
+
 ### See Also
 
 * class [TimestampSettings](../../../aspose.pdf/timestampsettings/)

@@ -20,7 +20,6 @@ The URI resolver.
 
 ### See Also
 
-* class [UriResolver](../../../aspose.foundation.uriresolver/uriresolver/)
 * class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)

@@ -3,7 +3,7 @@ title: Class AssistantListQueryParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.AssistantListQueryParameters class. Represents the query parameters object for listing assistants
 type: docs
-weight: 110
+weight: 80
 url: /net/aspose.pdf.ai/assistantlistqueryparameters/
 ---
 ## AssistantListQueryParameters class

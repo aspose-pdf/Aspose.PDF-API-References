@@ -1,14 +1,14 @@
 ---
 title: PdfViewer.PrintDocumentWithSettings
 second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer method. Prints the Pdf document with settings. If the document size does not correspond to page size it will be extended to fit page size
+description: PdfViewer method. Prints the Pdf document with settings. If the document page size does not correspond to the printer paper size set the AutoResize property to determine whether a page will be extended/shrunk to fit the paper size
 type: docs
 weight: 330
 url: /net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-Prints the Pdf document with settings. If the document size does not correspond to page size, it will be extended to fit page size.
+Prints the Pdf document with settings. If the document page size does not correspond to the printer paper size, set the [`AutoResize`](../autoresize/) property to determine whether a page will be extended/shrunk to fit the paper size.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
@@ -67,7 +67,7 @@ printerSettings object is used to print the document. pageSettings.PrinterSettin
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-Prints the Pdf document with printer settings. The output page size will fit the the document first page size.
+Prints the Pdf document with printer settings. Printer page settings (paper size, margins, and so on) will be set to default values for the selected printer.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)

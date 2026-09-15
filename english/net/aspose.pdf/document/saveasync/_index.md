@@ -1,11 +1,39 @@
 ---
 title: Document.SaveAsync
 second_title: Aspose.PDF for .NET API Reference
-description: Document method. Saves the document to a stream with a save options
+description: Document method. Saves the document with a new name setting its save options
 type: docs
 weight: 860
 url: /net/aspose.pdf/document/saveasync/
 ---
+## SaveAsync(string, SaveOptions, CancellationToken) {#saveasync_5}
+
+Saves the document with a new name setting its save options.
+
+```csharp
+public Task SaveAsync(string outputFileName, SaveOptions options, 
+    CancellationToken cancellationToken)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+| options | SaveOptions | Save options. |
+| cancellationToken | CancellationToken | Caclellation token. |
+
+### Return Value
+
+Asynchronous task.
+
+### See Also
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
 
 Saves the document to a stream with a save options.
@@ -33,56 +61,6 @@ Asynchronous task.
 ### See Also
 
 * class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveAsync(Stream, CancellationToken) {#saveasync_3}
-
-Stores document into stream.
-
-```csharp
-public Task SaveAsync(Stream output, CancellationToken cancellationToken)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| output | Stream | Stream where document shell be stored. |
-| cancellationToken | CancellationToken | Caclellation token. |
-
-### Return Value
-
-Asynchronous task.
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveAsync(string, CancellationToken) {#saveasync_6}
-
-Saves document into the specified file.
-
-```csharp
-public Task SaveAsync(string outputFileName, CancellationToken cancellationToken)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-| cancellationToken | CancellationToken | Caclellation token. |
-
-### Return Value
-
-Asynchronous task.
-
-### See Also
-
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -203,19 +181,17 @@ Asynchronous task.
 
 ---
 
-## SaveAsync(string, SaveOptions, CancellationToken) {#saveasync_5}
+## SaveAsync(Stream, CancellationToken) {#saveasync_3}
 
-Saves the document with a new name setting its save options.
+Stores document into stream.
 
 ```csharp
-public Task SaveAsync(string outputFileName, SaveOptions options, 
-    CancellationToken cancellationToken)
+public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-| options | SaveOptions | Save options. |
+| output | Stream | Stream where document shell be stored. |
 | cancellationToken | CancellationToken | Caclellation token. |
 
 ### Return Value
@@ -224,7 +200,31 @@ Asynchronous task.
 
 ### See Also
 
-* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SaveAsync(string, CancellationToken) {#saveasync_6}
+
+Saves document into the specified file.
+
+```csharp
+public Task SaveAsync(string outputFileName, CancellationToken cancellationToken)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+| cancellationToken | CancellationToken | Caclellation token. |
+
+### Return Value
+
+Asynchronous task.
+
+### See Also
+
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

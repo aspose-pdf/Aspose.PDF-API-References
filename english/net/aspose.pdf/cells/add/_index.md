@@ -27,7 +27,7 @@ The new cell
 
 ---
 
-## Add(string, TextState) {#add_2}
+## Add(string, TextState) {#add_3}
 
 Add cell to collection.
 
@@ -54,7 +54,7 @@ The new cell
 
 ---
 
-## Add(string) {#add_1}
+## Add(string) {#add_2}
 
 Add cell to collection.
 
@@ -79,7 +79,33 @@ The new cell
 
 ---
 
-## Add(Cell) {#add_3}
+## Add(TextFragment) {#add_1}
+
+Add cell to collection.
+
+```csharp
+public Cell Add(TextFragment textFragment)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textFragment | TextFragment | The text fragment for cell. |
+
+### Return Value
+
+The new cell
+
+### See Also
+
+* class [Cell](../../cell/)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(Cell) {#add_4}
 
 Add cell to collection.
 

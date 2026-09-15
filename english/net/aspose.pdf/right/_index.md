@@ -3,7 +3,7 @@ title: Class Right
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Right class. Represents the right alignment settings for header and footer data
 type: docs
-weight: 9960
+weight: 10100
 url: /net/aspose.pdf/right/
 ---
 ## Right class
