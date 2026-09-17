@@ -4,7 +4,7 @@ linktitle: set_SeparateImages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PptxSaveOptions::set_SeparateImages method. If set to true then images are separated from all other graphics in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/aspose.pdf/pptxsaveoptions/set_separateimages/
 ---
 ## PptxSaveOptions::set_SeparateImages method

@@ -23,12 +23,14 @@ class PptxSaveOptions : public Aspose::Pdf::UnifiedSaveOptions
 | [get_CustomProgressHandler](./get_customprogresshandler/)() const | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
 | [get_ImageResolution](./get_imageresolution/)() const | Gets the image resolution (dpi). Default is 192 dpi. |
 | [get_OptimizeTextBoxes](./get_optimizetextboxes/)() const | Toggles text columns recognition. |
+| [get_RecognizeUnderlineAndStrikeout](./get_recognizeunderlineandstrikeout/)() const | Gets whether underline and strikeout lines are recognized as text formatting. The default value is true. |
 | [get_SeparateImages](./get_separateimages/)() const | If set to true then images are separated from all other graphics. |
 | [get_SlidesAsImages](./get_slidesasimages/)() const | If set to true then all the content is recognized as images (one per page) |
 | [PptxSaveOptions](./pptxsaveoptions/)() | Constructor. |
 | [set_CustomProgressHandler](./set_customprogresshandler/)(UnifiedSaveOptions::ConversionProgressEventHandler) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
 | [set_ImageResolution](./set_imageresolution/)(int32_t) | Sets the image resolution (dpi). Default is 192 dpi. |
 | [set_OptimizeTextBoxes](./set_optimizetextboxes/)(bool) | Toggles text columns recognition. |
+| [set_RecognizeUnderlineAndStrikeout](./set_recognizeunderlineandstrikeout/)(bool) | Sets whether underline and strikeout lines are recognized as text formatting. The default value is true. |
 | [set_SeparateImages](./set_separateimages/)(bool) | If set to true then images are separated from all other graphics. |
 | [set_SlidesAsImages](./set_slidesasimages/)(bool) | If set to true then all the content is recognized as images (one per page) |
 ## See Also

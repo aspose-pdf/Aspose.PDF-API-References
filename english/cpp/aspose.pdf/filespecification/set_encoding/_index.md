@@ -4,7 +4,7 @@ linktitle: set_Encoding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::set_Encoding method. Sets encoding format. Possible values: Zip - file is compressed with ZIP, None - file is not compressed in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.pdf/filespecification/set_encoding/
 ---
 ## FileSpecification::set_Encoding method
