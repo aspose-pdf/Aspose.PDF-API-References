@@ -3,7 +3,7 @@ title: Class LicenseInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LicenseInfo class. Represents a license information
 type: docs
-weight: 6230
+weight: 6240
 url: /net/aspose.pdf/licenseinfo/
 ---
 ## LicenseInfo class

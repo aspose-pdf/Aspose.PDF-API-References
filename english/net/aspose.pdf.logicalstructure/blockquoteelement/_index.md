@@ -3,7 +3,7 @@ title: Class BlockQuoteElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.BlockQuoteElement class. Represents BlockQuote structure element in logical structure
 type: docs
-weight: 6410
+weight: 6420
 url: /net/aspose.pdf.logicalstructure/blockquoteelement/
 ---
 ## BlockQuoteElement class

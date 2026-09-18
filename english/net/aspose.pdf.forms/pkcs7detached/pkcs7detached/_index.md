@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
 ---
-## PKCS7Detached(Stream) {#constructor_2}
+## PKCS7Detached(Stream) {#constructor_3}
 
 Initializes new instance of the [`PKCS7Detached`](../) class.
 
@@ -26,7 +26,7 @@ public PKCS7Detached(Stream image)
 
 ---
 
-## PKCS7Detached(Stream, DigestHashAlgorithm) {#constructor_3}
+## PKCS7Detached(Stream, DigestHashAlgorithm) {#constructor_4}
 
 Initializes new instance of the [`PKCS7Detached`](../) class.
 
@@ -85,7 +85,7 @@ public PKCS7Detached(DigestHashAlgorithm digestHashAlgorithm)
 
 ---
 
-## PKCS7Detached(string, string) {#constructor_6}
+## PKCS7Detached(string, string) {#constructor_7}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -106,7 +106,7 @@ public PKCS7Detached(string pfx, string password)
 
 ---
 
-## PKCS7Detached(string, string, DigestHashAlgorithm) {#constructor_7}
+## PKCS7Detached(string, string, DigestHashAlgorithm) {#constructor_8}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -129,7 +129,7 @@ public PKCS7Detached(string pfx, string password, DigestHashAlgorithm digestHash
 
 ---
 
-## PKCS7Detached(Stream, string) {#constructor_4}
+## PKCS7Detached(Stream, string) {#constructor_5}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -150,7 +150,32 @@ public PKCS7Detached(Stream pfx, string password)
 
 ---
 
-## PKCS7Detached(Stream, string, DigestHashAlgorithm) {#constructor_5}
+## PKCS7Detached(TimestampSettings) {#constructor_2}
+
+Inititalizes new instance of the [`PKCS7Detached`](../) class.
+
+```csharp
+public PKCS7Detached(TimestampSettings timestampSettings)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| timestampSettings | TimestampSettings | The timestamp settings for the signature. |
+
+## Remarks
+
+The timestamp settings are used to create the timestamp signature without the need to provide a certificate. You can set the timestamp for a document as a separate signature.
+
+### See Also
+
+* class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PKCS7Detached(Stream, string, DigestHashAlgorithm) {#constructor_6}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 

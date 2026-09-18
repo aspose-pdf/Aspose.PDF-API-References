@@ -48,7 +48,7 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ---
 
-## Accept(TextFragmentAbsorber) {#accept_3}
+## Accept(TextFragmentAbsorber) {#accept_4}
 
 Accepts [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects.
 
@@ -69,7 +69,7 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ---
 
-## Accept(TextAbsorber) {#accept_2}
+## Accept(TextAbsorber) {#accept_3}
 
 Accepts [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects.
 
@@ -84,6 +84,33 @@ public void Accept(TextAbsorber visitor)
 ### See Also
 
 * class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Accept(OcrTextAbsorber) {#accept_2}
+
+Accepts an [`OcrTextAbsorber`](../../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from these pages using OCR.
+
+```csharp
+public void Accept(OcrTextAbsorber visitor)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | OcrTextAbsorber | The OCR text absorber to apply to these pages. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *visitor* is `null`. |
+
+### See Also
+
+* class [OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -22,7 +22,7 @@ public PKCS7()
 
 ---
 
-## PKCS7(string, string) {#constructor_2}
+## PKCS7(string, string) {#constructor_3}
 
 Initializes new instance of the [`PKCS7`](../) class.
 
@@ -43,7 +43,7 @@ public PKCS7(string pfx, string password)
 
 ---
 
-## PKCS7(Stream, string) {#constructor_1}
+## PKCS7(Stream, string) {#constructor_2}
 
 Initializes new instance of the [`PKCS7`](../) class.
 
@@ -58,6 +58,31 @@ public PKCS7(Stream pfx, string password)
 
 ### See Also
 
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PKCS7(TimestampSettings) {#constructor_1}
+
+Inititalizes new instance of the [`PKCS7`](../) class.
+
+```csharp
+public PKCS7(TimestampSettings timestampSettings)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| timestampSettings | TimestampSettings | The timestamp settings for the signature. |
+
+## Remarks
+
+The timestamp settings are used to create the timestamp signature without the need to provide a certificate. You can set the timestamp for a document as a separate signature.
+
+### See Also
+
+* class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
 * class [PKCS7](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

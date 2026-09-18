@@ -3,7 +3,7 @@ title: Interface IBoundsCheckableItem
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.IBoundsCheckableItem interface. 
 type: docs
-weight: 5880
+weight: 5890
 url: /net/aspose.pdf/iboundscheckableitem/
 ---
 ## IBoundsCheckableItem interface
