@@ -3,7 +3,7 @@ title: Class Signature
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.Signature class. An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects the last contain data which is used to verify the document validity
 type: docs
-weight: 5390
+weight: 5450
 url: /net/aspose.pdf.forms/signature/
 ---
 ## Signature class
@@ -46,6 +46,9 @@ public abstract class Signature
 | Name | Description |
 | --- | --- |
 | [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/#tryverify_1)(out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/#tryverify)(ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/#tryverify_2)(X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
 | [Verify](../../aspose.pdf.forms/signature/verify/#verify)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [Verify](../../aspose.pdf.forms/signature/verify/#verify_1)(ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [Verify](../../aspose.pdf.forms/signature/verify/#verify_2)(X509Certificate2, ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |

@@ -3,7 +3,7 @@ title: OptimizationOptions.CompressObjects
 second_title: Aspose.PDF for .NET API Reference
 description: OptimizationOptions property. If this flag is set to true Pdf objects will be packed into Objest Streams and compressed to reduce pdf file size
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.optimization/optimizationoptions/compressobjects/
 ---
 ## OptimizationOptions.CompressObjects property

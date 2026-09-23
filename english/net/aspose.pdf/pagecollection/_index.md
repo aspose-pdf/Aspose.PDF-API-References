@@ -3,7 +3,7 @@ title: Class PageCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageCollection class. Collection of PDF document pages
 type: docs
-weight: 8220
+weight: 9340
 url: /net/aspose.pdf/pagecollection/
 ---
 ## PageCollection class
@@ -30,18 +30,21 @@ public sealed class PageCollection : ICollection<Page>
 | --- | --- |
 | [Accept](../../aspose.pdf/pagecollection/accept/#accept)(AnnotationSelector) | Accepts [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations. |
 | [Accept](../../aspose.pdf/pagecollection/accept/#accept_1)(ImagePlacementAbsorber) | Accepts [`ImagePlacementAbsorber`](../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
-| [Accept](../../aspose.pdf/pagecollection/accept/#accept_2)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects. |
-| [Accept](../../aspose.pdf/pagecollection/accept/#accept_3)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects. |
+| [Accept](../../aspose.pdf/pagecollection/accept/#accept_2)(OcrTextAbsorber) | Accepts an [`OcrTextAbsorber`](../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from these pages using OCR. |
+| [Accept](../../aspose.pdf/pagecollection/accept/#accept_3)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects. |
+| [Accept](../../aspose.pdf/pagecollection/accept/#accept_4)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects. |
 | [Add](../../aspose.pdf/pagecollection/add/#add)() | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
 | [Add](../../aspose.pdf/pagecollection/add/#add_3)(ICollection&lt;Page&gt;) | Adds to collection all pages from list. |
 | [Add](../../aspose.pdf/pagecollection/add/#add_1)(Page) | Adds page to collection. |
 | [Add](../../aspose.pdf/pagecollection/add/#add_2)(Page[]) | Adds to collection all pages from array. |
+| [BeginUpdate](../../aspose.pdf/pagecollection/beginupdate/)() | Updates when group changes begin. Stops page cache recalculation on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block. |
 | [Clear](../../aspose.pdf/pagecollection/clear/)() | Clear page collection. |
 | [Contains](../../aspose.pdf/pagecollection/contains/)(Page) | Determines whether this instance contains the object. |
 | [CopyTo](../../aspose.pdf/pagecollection/copyto/)(Page[], int) | Copyies pages into document. |
 | [Delete](../../aspose.pdf/pagecollection/delete/#delete)() | Deletes all pages from collection. |
 | [Delete](../../aspose.pdf/pagecollection/delete/#delete_1)(int) | Delete specified page. |
 | [Delete](../../aspose.pdf/pagecollection/delete/#delete_2)(int[]) | Delete pages specified which numbers are specified in array. |
+| [EndUpdate](../../aspose.pdf/pagecollection/endupdate/)() | Updates when group changes are complete. Restores page cache recalculations on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block. |
 | [Flatten](../../aspose.pdf/pagecollection/flatten/)() | Removes all fields located on the pages and place their values instead. |
 | [FreeMemory](../../aspose.pdf/pagecollection/freememory/)() | Clears cached data |
 | [GetEnumerator](../../aspose.pdf/pagecollection/getenumerator/)() | Returns enumerator of pages. |

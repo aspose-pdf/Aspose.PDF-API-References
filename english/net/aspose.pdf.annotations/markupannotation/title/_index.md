@@ -8,7 +8,7 @@ url: /net/aspose.pdf.annotations/markupannotation/title/
 ---
 ## MarkupAnnotation.Title property
 
-Gets or sets a text label that shall be displayed in the title bar of the annotation’s popup window when open and active. This entry shall identify the user who added the annotation.
+Gets or sets a text label that shall be displayed in the title bar of the annotation�s popup window when open and active. This entry shall identify the user who added the annotation.
 
 ```csharp
 public string Title { get; set; }

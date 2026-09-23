@@ -3,7 +3,7 @@ title: SideBySideComparisonOptions.ExcludeTables
 second_title: Aspose.PDF for .NET API Reference
 description: SideBySideComparisonOptions property. Get and set the option that determines whether tables are excluded from comparison. This option cannot be set together with ComparisonArea1 and ComparisonArea2. The default value is false
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.comparison/sidebysidecomparisonoptions/excludetables/
 ---
 ## SideBySideComparisonOptions.ExcludeTables property

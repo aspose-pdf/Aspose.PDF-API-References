@@ -3,7 +3,7 @@ title: Class AIClientException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.AIClientException class. Represents an exception specific to the AI Client operations
 type: docs
-weight: 60
+weight: 30
 url: /net/aspose.pdf.ai/aiclientexception/
 ---
 ## AIClientException class

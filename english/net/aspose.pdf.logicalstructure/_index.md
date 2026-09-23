@@ -3,7 +3,7 @@ title: Aspose.Pdf.LogicalStructure
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Tagged.LogicalStructure is a namespace for PDF Logical Structure classes
 type: docs
-weight: 140
+weight: 110
 url: /net/aspose.pdf.logicalstructure/
 ---
 The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Structure classes.
@@ -33,6 +33,7 @@ The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Struct
 | [FormulaElement](./formulaelement/) | Represents Formula structure element in logical structure. |
 | [GroupingElement](./groupingelement/) | Represents a base class for grouping structure elements in logical structure. |
 | [HeaderElement](./headerelement/) | Represents Header structure element in logical structure. |
+| [HeaderElementTextConflictException](./headerelementtextconflictexception/) | Represents an exception that is thrown when the header element's text is set manually while it is already bound to a Table of Contents (TOC) title, causing a conflict. |
 | [IllustrationElement](./illustrationelement/) | Represents a base class for illustration structure elements in logical structure. |
 | [ILSElement](./ilselement/) | Represents a base class for inline-level structure elements in logical structure. |
 | [ILSTextElement](./ilstextelement/) | Represents a base class for inline-level text structure elements in logical structure. |
@@ -79,6 +80,7 @@ The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Struct
 | [TableTRElement](./tabletrelement/) | Represents TR structure element in logical structure of the table. |
 | [TOCElement](./tocelement/) | Represents TOC structure element in logical structure. |
 | [TOCIElement](./tocielement/) | Represents TOCI structure element in logical structure. |
+| [TOCpageHasNoTitleException](./tocpagehasnotitleexception/) | Represents an exception that is thrown when a Table of Contents (TOC) page does not have a title assigned during an operation that requires it. |
 | [WarichuChildElement](./warichuchildelement/) | Represents a base class for children elements of the Warichu in logical structure. |
 | [WarichuElement](./warichuelement/) | Represents Warichu structure element in logical structure. |
 | [WarichuWPElement](./warichuwpelement/) | Represents WP structure element in logical structure of the Warichu. |

@@ -3,7 +3,7 @@ title: PdfFileEditor.ContentsResizeParameters.ContentsWidth
 second_title: Aspose.PDF for .NET API Reference
 description: ContentsResizeParameters property. Gets or sets width of the content of the source page on the resultant page
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth/
 ---
 ## PdfFileEditor.ContentsResizeParameters.ContentsWidth property

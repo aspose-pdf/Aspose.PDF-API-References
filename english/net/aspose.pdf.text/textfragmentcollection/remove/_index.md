@@ -1,14 +1,14 @@
 ---
 title: TextFragmentCollection.Remove
 second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection method. Deletes specified item from collection
+description: TextFragmentCollection method. Deletes specified item from the collection and also removes it from the document
 type: docs
 weight: 110
 url: /net/aspose.pdf.text/textfragmentcollection/remove/
 ---
 ## TextFragmentCollection.Remove method
 
-Deletes specified item from collection.
+Deletes specified item from the collection and also removes it from the document.
 
 ```csharp
 public bool Remove(TextFragment item)

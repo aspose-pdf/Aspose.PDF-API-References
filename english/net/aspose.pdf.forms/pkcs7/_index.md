@@ -3,7 +3,7 @@ title: Class PKCS7
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.PKCS7 class. Represents the PKCS7 object that conform to the PKCS7 specification in Internet RFC 2315 PKCS 7 Cryptographic Message Syntax Version 1.5. The SHA1 digest of the documents byte range is encapsulated in the PKCS7 SignedData field
 type: docs
-weight: 5300
+weight: 5360
 url: /net/aspose.pdf.forms/pkcs7/
 ---
 ## PKCS7 class
@@ -19,8 +19,9 @@ public sealed class PKCS7 : Signature
 | Name | Description |
 | --- | --- |
 | [PKCS7](pkcs7/#constructor)() | Initializes new instance of the `PKCS7` class. |
-| [PKCS7](pkcs7/#constructor_1)(Stream, string) | Initializes new instance of the `PKCS7` class. |
-| [PKCS7](pkcs7/#constructor_2)(string, string) | Initializes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor_1)(TimestampSettings) | Inititalizes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor_2)(Stream, string) | Initializes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor_3)(string, string) | Initializes new instance of the `PKCS7` class. |
 
 ## Properties
 
@@ -46,6 +47,9 @@ public sealed class PKCS7 : Signature
 | Name | Description |
 | --- | --- |
 | [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)(ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)(X509Certificate2, ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |

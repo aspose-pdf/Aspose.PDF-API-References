@@ -3,7 +3,7 @@ title: Layer.Save
 second_title: Aspose.PDF for .NET API Reference
 description: Layer method. Saves the current layer to a PDF document
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf/layer/save/
 ---
 ## Save(string) {#save_1}

@@ -3,7 +3,7 @@ title: Class ListLIElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.ListLIElement class. Represents LI structure element in logical structure of the list
 type: docs
-weight: 6620
+weight: 6640
 url: /net/aspose.pdf.logicalstructure/listlielement/
 ---
 ## ListLIElement class
@@ -35,6 +35,7 @@ public sealed class ListLIElement : ListChildElement
 
 | Name | Description |
 | --- | --- |
+| [AddRef](../../aspose.pdf.logicalstructure/listlielement/addref/)(StructureElement) | Adds a reference to the specified [`StructureElement`](../structureelement/) within this Table of Contents Item (TOCI) element. This is typically used when `ListLIElement` serves as a TOC header in nested tables of contents. |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |

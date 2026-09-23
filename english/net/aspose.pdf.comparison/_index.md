@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.Comparison
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The Aspose.Pdf.Comparison namespace provides classes for the PDF comparison functionalities
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.pdf.comparison/
 ---
-
+The **Aspose.Pdf.Comparison** namespace provides classes for the PDF comparison functionalities.
 
 ## Classes
 
@@ -15,6 +15,7 @@ url: /net/aspose.pdf.comparison/
 | [ComparisonOptions](./comparisonoptions/) | Represents a PDF document comparison options class. |
 | [DiffOperation](./diffoperation/) | Represents a class of diff operation. |
 | [DocumentComparisonStatistics](./documentcomparisonstatistics/) | Represents a document comparison statistics class. |
+| [EditContainer](./editcontainer/) | Represents a change container class. |
 | [GraphicalPdfComparer](./graphicalpdfcomparer/) | Represents a class for graphically comparing PDF documents. Should be used to search for small changes, mainly of a graphical nature. To compare text content changes, use other PDF comparison classes. |
 | [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | Represents a class for generating html representation of texts differences. Deleted line breaks are indicated by paragraph mark. |
 | [ImagesDifference](./imagesdifference/) | Represents the result class of comparing two PDF pages. |
@@ -23,6 +24,8 @@ url: /net/aspose.pdf.comparison/
 | [OutputTextStyle](./outputtextstyle/) | Represents a style set class for marking text changes. |
 | [PdfOutputGenerator](./pdfoutputgenerator/) | Represents a class for generating PDF representation of texts differences. |
 | [SideBySideComparisonOptions](./sidebysidecomparisonoptions/) | Represents an options class for comparing documents with side-by-side output. |
+| [SideBySideDocsComparisonResult](./sidebysidedocscomparisonresult/) | Represents the class of the result of a side-by-side comparison operation performed on two documents. |
+| [SideBySidePagesComparisonResult](./sidebysidepagescomparisonresult/) | Represents the class of the result of a side-by-side comparison operation performed on two pages. |
 | [SideBySidePdfComparer](./sidebysidepdfcomparer/) |  |
 | [TextItemComparisonStatistics](./textitemcomparisonstatistics/) | Represents a text comparison ststistics class. |
 | [TextPdfComparer](./textpdfcomparer/) | Represents a class to comparison two PDF pages or PDF documents. |

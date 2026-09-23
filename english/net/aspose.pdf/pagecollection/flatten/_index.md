@@ -3,7 +3,7 @@ title: PageCollection.Flatten
 second_title: Aspose.PDF for .NET API Reference
 description: PageCollection method. Removes all fields located on the pages and place their values instead
 type: docs
-weight: 120
+weight: 140
 url: /net/aspose.pdf/pagecollection/flatten/
 ---
 ## PageCollection.Flatten method

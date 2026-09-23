@@ -6,6 +6,30 @@ type: docs
 weight: 20
 url: /net/aspose.pdf/document/mergedocuments/
 ---
+## MergeDocuments(params Document[]) {#mergedocuments}
+
+Merges documents.
+
+```csharp
+public static Document MergeDocuments(params Document[] documents)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| documents | Document[] | The documents to merge. |
+
+### Return Value
+
+The merged document.
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## MergeDocuments(MergeOptions, params string[]) {#mergedocuments_2}
 
 Merges documents.
@@ -69,30 +93,6 @@ public static Document MergeDocuments(params string[] files)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | files | String[] | The pdf-files to merge. |
-
-### Return Value
-
-The merged document.
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MergeDocuments(params Document[]) {#mergedocuments}
-
-Merges documents.
-
-```csharp
-public static Document MergeDocuments(params Document[] documents)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| documents | Document[] | The documents to merge. |
 
 ### Return Value
 

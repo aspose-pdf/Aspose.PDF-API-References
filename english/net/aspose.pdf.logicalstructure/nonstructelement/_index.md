@@ -3,7 +3,7 @@ title: Class NonStructElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.NonStructElement class. Represents NonStruct structure element in logical structure
 type: docs
-weight: 6650
+weight: 6670
 url: /net/aspose.pdf.logicalstructure/nonstructelement/
 ---
 ## NonStructElement class

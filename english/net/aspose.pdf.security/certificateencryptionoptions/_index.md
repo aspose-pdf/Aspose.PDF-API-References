@@ -3,7 +3,7 @@ title: Class CertificateEncryptionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.CertificateEncryptionOptions class. Represents a class for encrypting options a PDF document using a certificatebased encryption method. Used to open encrypted PDF documents
 type: docs
-weight: 10100
+weight: 10250
 url: /net/aspose.pdf.security/certificateencryptionoptions/
 ---
 ## CertificateEncryptionOptions class
