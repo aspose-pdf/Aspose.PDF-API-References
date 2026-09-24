@@ -17,10 +17,6 @@ Gets/sets TeX input directory.
 public ITeXInputDirectory InputDirectory { get; set; }
 ```
 
-### Property Value
-
-[ITeXInputDirectory](../../../aspose.pdf/itexinputdirectory/)
-
 ### See Also
 
 * class [ITeXInputDirectory](../../../aspose.pdf/itexinputdirectory/)

@@ -17,10 +17,6 @@ Gets the column widths of the table.
 public string ColumnWidths { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TableElement](../)

@@ -19,7 +19,7 @@ public PDF3DViewArray ViewArray { get; }
 
 ### Property Value
 
-[PDF3DViewArray](../../../aspose.pdf.annotations/pdf3dviewarray/)
+The view array.
 
 ### See Also
 

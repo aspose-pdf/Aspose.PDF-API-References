@@ -18,10 +18,6 @@ Represents the verification state of a digital signature in a PDF file.
 public VerificationState State { get; }
 ```
 
-### Property Value
-
-[VerificationState](../../../aspose.pdf.security/verificationstate/)
-
 ### See Also
 
 * class [VerificationState](../../../aspose.pdf.security/verificationstate/)

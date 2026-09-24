@@ -17,10 +17,6 @@ Sets or gets the frequency penalty to use during sampling.
 public Nullable<float> FrequencyPenalty { get; set; }
 ```
 
-### Property Value
-
-Nullable<float>
-
 ### See Also
 
 * class [LlamaChatCompletionRequest](../)

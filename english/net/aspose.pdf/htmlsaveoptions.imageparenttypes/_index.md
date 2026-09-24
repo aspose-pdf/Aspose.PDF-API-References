@@ -18,10 +18,10 @@ Enumerates possible types of image's parents
 public enum ImageParentTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | HtmlPage | `0` | Image pertains to HTML page itself |
 | SvgImage | `1` | Image was embedded in SVG image |
 

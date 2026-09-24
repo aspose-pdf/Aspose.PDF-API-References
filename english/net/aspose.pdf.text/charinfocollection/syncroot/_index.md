@@ -17,10 +17,6 @@ Gets an object that can be used to synchronize access to the collection.
 public object SyncRoot { get; }
 ```
 
-### Property Value
-
-object
-
 ### See Also
 
 * class [CharInfoCollection](../)

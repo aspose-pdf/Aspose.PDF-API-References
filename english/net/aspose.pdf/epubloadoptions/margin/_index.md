@@ -17,10 +17,6 @@ Gets reference on object that represent marging info.
 public MarginInfo Margin { get; set; }
 ```
 
-### Property Value
-
-[MarginInfo](../../../aspose.pdf/margininfo/)
-
 ### See Also
 
 * class [MarginInfo](../../../aspose.pdf/margininfo/)

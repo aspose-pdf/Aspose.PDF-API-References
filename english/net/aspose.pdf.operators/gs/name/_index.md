@@ -17,10 +17,6 @@ Gets or sets name of graphic state resource.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [GS](../)

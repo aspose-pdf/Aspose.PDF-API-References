@@ -17,10 +17,6 @@ The color of a field border.
 public Color BorderColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

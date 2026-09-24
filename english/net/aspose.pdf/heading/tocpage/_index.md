@@ -17,10 +17,6 @@ Gets the page that contains this heading.
 public Page TocPage { get; set; }
 ```
 
-### Property Value
-
-[Page](../../../aspose.pdf/page/)
-
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)

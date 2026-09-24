@@ -18,10 +18,6 @@ Gets or sets the rotation of the pages, the rotation must be 0, 90, 180 or 270.
 public int Rotation { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfPageEditor](../)

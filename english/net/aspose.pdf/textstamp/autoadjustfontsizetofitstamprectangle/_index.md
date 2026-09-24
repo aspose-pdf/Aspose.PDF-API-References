@@ -17,10 +17,6 @@ If enabled, the font size will be automatically adjusted to fit the stamp rectan
 public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextStamp](../)

@@ -21,7 +21,7 @@ public string DefaultFontName { get; set; }
 
 ### Property Value
 
-string
+Font name
 
 ### See Also
 

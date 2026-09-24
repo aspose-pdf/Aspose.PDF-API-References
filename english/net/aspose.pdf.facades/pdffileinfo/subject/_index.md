@@ -17,10 +17,6 @@ Gets or sets the Subject information of PDF document.
 public string Subject { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

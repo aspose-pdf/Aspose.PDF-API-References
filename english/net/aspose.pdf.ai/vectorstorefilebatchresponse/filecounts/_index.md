@@ -17,10 +17,6 @@ Gets or sets the number of files that have been processed.
 public FileCounts FileCounts { get; set; }
 ```
 
-### Property Value
-
-[FileCounts](../../../aspose.pdf.ai/filecounts/)
-
 ### See Also
 
 * class [FileCounts](../../../aspose.pdf.ai/filecounts/)

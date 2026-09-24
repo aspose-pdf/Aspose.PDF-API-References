@@ -17,10 +17,10 @@ The text rendering mode, Tmode, determines whether showing text shall cause glyp
 public enum TextRenderingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | FillText | `0` | Fill text. |
 | StrokeText | `1` | Stroke text. |
 | FillThenStrokeText | `2` | Fill, then stroke text. |

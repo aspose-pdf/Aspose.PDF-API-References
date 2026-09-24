@@ -19,7 +19,7 @@ public RenderModeType Type { get; }
 
 ### Property Value
 
-[RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)
+The type.
 
 ### See Also
 

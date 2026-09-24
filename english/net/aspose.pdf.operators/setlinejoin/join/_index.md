@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public LineJoin Join { get; set; }
 ```
 
-### Property Value
-
-[LineJoin](../../../aspose.pdf.operators/linejoin/)
-
 ### See Also
 
 * class [LineJoin](../../../aspose.pdf.operators/linejoin/)

@@ -18,10 +18,6 @@ Gets or sets the status of the vector store file, which can be either in_progres
 public string Status { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [VectorStoreFileResponse](../)

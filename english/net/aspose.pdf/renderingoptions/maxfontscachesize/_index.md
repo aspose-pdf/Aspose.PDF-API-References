@@ -17,10 +17,6 @@ Maximum count of fonts in fonts cache. Default value is 10.
 public int MaxFontsCacheSize { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [RenderingOptions](../)

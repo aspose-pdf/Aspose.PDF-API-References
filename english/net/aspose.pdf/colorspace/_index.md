@@ -17,10 +17,10 @@ The color spaces enumeration.
 public enum ColorSpace
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | DeviceRGB | `0` | The device-dependent RGB color space. |
 | DeviceCMYK | `1` | The device-dependent CMYK color space. |
 | DeviceGray | `2` | The device-dependent gray color space. |

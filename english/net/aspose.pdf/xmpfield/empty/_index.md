@@ -17,10 +17,6 @@ Gets an Empty xmp field.
 public XmpField Empty { get; }
 ```
 
-### Property Value
-
-[XmpField](../../../aspose.pdf/xmpfield/)
-
 ### See Also
 
 * class [XmpField](../../../aspose.pdf/xmpfield/)

@@ -17,10 +17,6 @@ Gets date and time when annotation was created.
 public DateTime CreationDate { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [MarkupAnnotation](../)

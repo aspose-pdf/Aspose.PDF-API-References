@@ -19,10 +19,6 @@ Gets or sets destination file name.
 public string DestFileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FormEditor](../)

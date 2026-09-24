@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public OutputIntent Item { get; }
 ```
 
-### Property Value
-
-[OutputIntent](../../../aspose.pdf/outputintent/)
-
 ### See Also
 
 * class [OutputIntent](../../../aspose.pdf/outputintent/)

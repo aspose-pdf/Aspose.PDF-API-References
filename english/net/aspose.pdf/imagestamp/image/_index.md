@@ -17,10 +17,6 @@ Gets image stream used for stamping.
 public Stream Image { get; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [ImageStamp](../)

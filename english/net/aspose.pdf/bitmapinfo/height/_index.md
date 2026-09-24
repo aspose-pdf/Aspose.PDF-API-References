@@ -17,10 +17,6 @@ Gets the height of the bitmap.
 public int Height { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BitmapInfo](../)

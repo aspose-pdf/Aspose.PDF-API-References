@@ -17,10 +17,6 @@ Gets or sets the identifier, which can be referenced in API endpoints.
 public string Id { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AssistantResponse](../)

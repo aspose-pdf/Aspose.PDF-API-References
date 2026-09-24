@@ -17,10 +17,6 @@ Matrix argument of the operator.
 public Matrix Matrix { get; set; }
 ```
 
-### Property Value
-
-[Matrix](../../../aspose.pdf/matrix/)
-
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)

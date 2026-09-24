@@ -17,10 +17,6 @@ Gets width of text.
 public float TextWidth { get; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [FormattedText](../)

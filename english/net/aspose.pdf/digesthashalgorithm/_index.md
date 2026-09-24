@@ -17,10 +17,10 @@ Represent type of algorithm that maps data to a "hash"
 public enum DigestHashAlgorithm
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Auto | `0` | Automatic setting of the hashing algorithm at the discretion of the signature algorithm.
  For EDCSA, the default value is determined by the key size.
  The default value for a not detached PKCS7 is Sha1. |

@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the line width of the graph.
 public float LineWidth { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [GraphInfo](../)

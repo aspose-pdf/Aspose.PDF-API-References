@@ -18,10 +18,6 @@ Defines the path (file name or directory name) to hold
 public string MemorySaveModePath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DocSaveOptions](../)

@@ -21,10 +21,6 @@ This is an estimation of the length of the signature in bytes.
 public int DefaultSignatureLength { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Signature](../)

@@ -17,10 +17,6 @@ Gets or sets flag which indicates is field divided into spaced positions.
 public bool ForceCombs { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextBoxField](../)

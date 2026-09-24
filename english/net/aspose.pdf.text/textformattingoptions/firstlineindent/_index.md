@@ -17,10 +17,6 @@ Gets or sets first line indent value.
 public float FirstLineIndent { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextFormattingOptions](../)

@@ -17,10 +17,6 @@ Gets or sets the date of document creation.
 public DateTime CreationDate { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [DocumentInfo](../)

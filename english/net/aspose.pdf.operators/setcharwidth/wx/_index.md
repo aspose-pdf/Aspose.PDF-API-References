@@ -17,10 +17,6 @@ Horizontal displacement of glyph coordinate.
 public double Wx { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCharWidth](../)

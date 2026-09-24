@@ -17,10 +17,10 @@ Represents a position of a mark in a corner of a page.
 public enum PrinterMarkCornerPosition
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | TopLeft | `0` | Position the mark in the top left corner. |
 | TopRight | `1` | Position the mark in the top right corner. |
 | BottomLeft | `2` | Position the mark in the bottom left corner. |

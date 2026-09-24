@@ -17,10 +17,6 @@ Gets or sets the image width.
 public double FixWidth { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Image](../)

@@ -17,10 +17,6 @@ Gets or sets an array of points specifying the coordinates of n quadrilaterals. 
 public Point[] QuadPoints { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)[]
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

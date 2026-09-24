@@ -18,10 +18,6 @@ Vertical alignment of artifact.
 public VerticalAlignment ArtifactVerticalAlignment { get; set; }
 ```
 
-### Property Value
-
-[VerticalAlignment](../../../aspose.pdf/verticalalignment/)
-
 ### See Also
 
 * class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)

@@ -18,10 +18,6 @@ Points of secondary polygon describes paragraph continuation. It will not be nul
 public List<Point[]> SecondaryPoints { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Point](../../../aspose.pdf/point/)[]>
-
 ### See Also
 
 * class [MarkupParagraph](../)

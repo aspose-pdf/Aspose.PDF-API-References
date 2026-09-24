@@ -17,10 +17,6 @@ Gets or sets the default cell text state.
 public TextState DefaultCellTextState { get; set; }
 ```
 
-### Property Value
-
-[TextState](../../../aspose.pdf.text/textstate/)
-
 ### See Also
 
 * class [TextState](../../../aspose.pdf.text/textstate/)

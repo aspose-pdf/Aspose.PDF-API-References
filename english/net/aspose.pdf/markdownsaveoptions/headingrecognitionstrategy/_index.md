@@ -17,10 +17,6 @@ Gets or sets the heading recognition strategy.
 public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 ```
 
-### Property Value
-
-[HeadingRecognitionStrategy](../../../aspose.pdf/headingrecognitionstrategy/)
-
 ### See Also
 
 * class [HeadingRecognitionStrategy](../../../aspose.pdf/headingrecognitionstrategy/)

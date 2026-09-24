@@ -17,10 +17,6 @@ Document permissions, see [`Permissions`](../../../aspose.pdf/permissions/) for 
 public DocumentPrivilege DocumentPrivilege { get; set; }
 ```
 
-### Property Value
-
-[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)

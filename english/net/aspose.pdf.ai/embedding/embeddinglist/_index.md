@@ -18,10 +18,6 @@ Gets or sets the embedding vector, which is a list of floats.
 public List<double> EmbeddingList { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<double>
-
 ### See Also
 
 * class [Embedding](../)

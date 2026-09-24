@@ -17,10 +17,6 @@ Gets or sets is clip extra content.
 public bool IsClipExtraContent { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HeaderFooter](../)

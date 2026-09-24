@@ -20,10 +20,6 @@ Gets or sets the truncation strategy to use for the thread.
 public string StrategyType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TruncationStrategy](../)

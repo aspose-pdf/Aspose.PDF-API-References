@@ -17,10 +17,6 @@ Gets or sets value whether text is justified.
 public bool Justify { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextParagraph](../)

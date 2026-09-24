@@ -17,10 +17,6 @@ Gets or sets a float position array.
 public float[] PositionArray { get; set; }
 ```
 
-### Property Value
-
-float[]
-
 ### See Also
 
 * class [Curve](../)

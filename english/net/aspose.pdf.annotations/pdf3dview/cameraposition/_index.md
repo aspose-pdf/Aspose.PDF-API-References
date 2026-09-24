@@ -19,7 +19,7 @@ public Matrix3D CameraPosition { get; set; }
 
 ### Property Value
 
-[Matrix3D](../../../aspose.pdf/matrix3d/)
+The camera position of view.
 
 ### See Also
 

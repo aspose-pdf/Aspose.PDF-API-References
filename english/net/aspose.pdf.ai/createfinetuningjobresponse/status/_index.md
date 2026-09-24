@@ -17,10 +17,6 @@ Gets or sets the status of the fine-tuning job.
 public string Status { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateFineTuningJobResponse](../)

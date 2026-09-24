@@ -17,10 +17,6 @@ Gets or sets rendition associated with the action.
 public Rendition Rendition { get; }
 ```
 
-### Property Value
-
-[Rendition](../../../aspose.pdf.annotations/rendition/)
-
 ### See Also
 
 * class [Rendition](../../../aspose.pdf.annotations/rendition/)

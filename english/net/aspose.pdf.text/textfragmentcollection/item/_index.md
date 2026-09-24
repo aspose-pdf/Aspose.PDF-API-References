@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public TextFragment Item { get; }
 ```
 
-### Property Value
-
-[TextFragment](../../../aspose.pdf.text/textfragment/)
-
 ### See Also
 
 * class [TextFragment](../../../aspose.pdf.text/textfragment/)

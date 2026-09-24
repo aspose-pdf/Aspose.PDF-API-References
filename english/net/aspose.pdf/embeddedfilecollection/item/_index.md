@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public FileSpecification Item { get; }
 ```
 
-### Property Value
-
-[FileSpecification](../../../aspose.pdf/filespecification/)
-
 ### See Also
 
 * class [FileSpecification](../../../aspose.pdf/filespecification/)

@@ -17,10 +17,6 @@ Switch on the recognition of bullets
 public bool RecognizeBullets { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocSaveOptions](../)

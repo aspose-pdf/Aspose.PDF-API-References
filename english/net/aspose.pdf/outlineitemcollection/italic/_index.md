@@ -17,10 +17,6 @@ Gets or sets italic flag for the title text of this outline item
 public bool Italic { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OutlineItemCollection](../)

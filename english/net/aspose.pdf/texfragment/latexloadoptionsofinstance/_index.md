@@ -22,10 +22,6 @@ Gets or sets TeXLoadOptions that will be used for loading (and rendering) of LaT
 public TeXLoadOptions LatexLoadOptionsOfInstance { get; set; }
 ```
 
-### Property Value
-
-[TeXLoadOptions](../../../aspose.pdf/texloadoptions/)
-
 ### See Also
 
 * class [TeXLoadOptions](../../../aspose.pdf/texloadoptions/)

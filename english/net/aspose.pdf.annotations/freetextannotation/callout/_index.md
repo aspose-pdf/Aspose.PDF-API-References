@@ -17,10 +17,6 @@ Array of point specifying callout line.
 public Point[] Callout { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)[]
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

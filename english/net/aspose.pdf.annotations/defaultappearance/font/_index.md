@@ -17,10 +17,6 @@ Gets font specified as default for text.
 public Font Font { get; }
 ```
 
-### Property Value
-
-[Font](../../../aspose.pdf.text/font/)
-
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)

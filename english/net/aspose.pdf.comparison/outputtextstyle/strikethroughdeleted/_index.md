@@ -18,10 +18,6 @@ Get or set text-decoration: line-through style for the delete operation.
 public bool StrikethroughDeleted { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OutputTextStyle](../)

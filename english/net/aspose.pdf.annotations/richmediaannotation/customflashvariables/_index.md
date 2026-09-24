@@ -17,10 +17,6 @@ Sets or gets flash variables which passed to player.
 public string CustomFlashVariables { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RichMediaAnnotation](../)

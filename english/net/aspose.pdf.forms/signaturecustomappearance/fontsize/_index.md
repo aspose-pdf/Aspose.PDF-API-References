@@ -17,10 +17,6 @@ Gets/sets font size. Default value: 10.
 public double FontSize { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

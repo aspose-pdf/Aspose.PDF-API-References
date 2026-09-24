@@ -20,7 +20,7 @@ public string IccProfileFileName { get; set; }
 
 ### Property Value
 
-string
+The filename of the ICC profile.
 
 ### See Also
 

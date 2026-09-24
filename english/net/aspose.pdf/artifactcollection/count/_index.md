@@ -17,10 +17,6 @@ Gets count of artifacts in collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ArtifactCollection](../)

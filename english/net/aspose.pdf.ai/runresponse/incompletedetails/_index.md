@@ -17,10 +17,6 @@ Gets or sets the details on why the run is incomplete. Will be null if the run i
 public IncompleteDetails IncompleteDetails { get; set; }
 ```
 
-### Property Value
-
-[IncompleteDetails](../../../aspose.pdf.ai/incompletedetails/)
-
 ### See Also
 
 * class [IncompleteDetails](../../../aspose.pdf.ai/incompletedetails/)

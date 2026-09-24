@@ -17,10 +17,10 @@ MIME protocol Content-Disposition header.
 public enum ContentDisposition
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Inline | `0` | Result is shown inline. |
 | Attachment | `1` | Result is saved as attachment. |
 

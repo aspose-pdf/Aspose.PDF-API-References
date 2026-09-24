@@ -17,10 +17,6 @@ Gets the image bitmap size.
 public Rectangle BitmapSize { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

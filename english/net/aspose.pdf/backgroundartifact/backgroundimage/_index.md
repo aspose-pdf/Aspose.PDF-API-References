@@ -17,10 +17,6 @@ Gets or sets bacground image of background artifact
 public Stream BackgroundImage { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [BackgroundArtifact](../)

@@ -17,10 +17,6 @@ Gets or sets the maximum number of tokens to generate in the completion.
 public Nullable<int> MaxCompletionTokens { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

@@ -17,10 +17,6 @@ If true, annotation appearance will be updated before converting PF document int
 public bool UpdateAppearanceOnConvert { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Annotation](../)

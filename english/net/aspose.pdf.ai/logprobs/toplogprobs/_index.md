@@ -17,10 +17,6 @@ Gets or sets a list of the most likely tokens and their log probability, at each
 public List<Dictionary<string, Nullable<double>>> TopLogprobs { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<Dictionary<string, Nullable<double>>>
-
 ### See Also
 
 * class [Logprobs](../)

@@ -18,10 +18,6 @@ Gets and sets the CSS-style string for Delete operation.
 public string DeleteStyle { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [HtmlDiffOutputGenerator](../)

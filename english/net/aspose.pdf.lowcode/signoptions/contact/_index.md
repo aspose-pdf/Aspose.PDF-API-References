@@ -17,10 +17,6 @@ The contact of signature.
 public string Contact { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignOptions](../)

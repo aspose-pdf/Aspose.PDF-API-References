@@ -17,10 +17,6 @@ Gets or sets the bottom coordinate of page display.
 public int PageDisplay_Bottom { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Bookmark](../)

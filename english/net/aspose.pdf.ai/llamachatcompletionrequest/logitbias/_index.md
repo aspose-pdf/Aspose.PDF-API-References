@@ -17,10 +17,6 @@ Sets or gets the logit bias to use during sampling.
 public object LogitBias { get; set; }
 ```
 
-### Property Value
-
-object
-
 ### See Also
 
 * class [LlamaChatCompletionRequest](../)

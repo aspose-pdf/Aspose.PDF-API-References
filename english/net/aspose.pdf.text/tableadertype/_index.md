@@ -17,10 +17,10 @@ Enumerates the tab leader types.
 public enum TabLeaderType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Solid | `0` | Solid tab leader. |
 | Dash | `1` | Dash tab leader. |
 | Dot | `2` | Dot tab leader. |

@@ -17,10 +17,6 @@ Gets the page from which the graphic element is extracted.
 public Page SourcePage { get; }
 ```
 
-### Property Value
-
-[Page](../../../aspose.pdf/page/)
-
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)

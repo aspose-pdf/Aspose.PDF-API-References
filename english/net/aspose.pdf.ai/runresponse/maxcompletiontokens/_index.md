@@ -17,10 +17,6 @@ Gets or sets the maximum number of completion tokens specified to have been used
 public Nullable<int> MaxCompletionTokens { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [RunResponse](../)

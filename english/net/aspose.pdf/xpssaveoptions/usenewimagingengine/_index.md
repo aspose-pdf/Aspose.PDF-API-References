@@ -19,10 +19,6 @@ Gets or sets UseNewImagingEngine option.
 public bool UseNewImagingEngine { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XpsSaveOptions](../)

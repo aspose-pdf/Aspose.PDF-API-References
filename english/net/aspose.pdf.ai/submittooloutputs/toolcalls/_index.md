@@ -17,10 +17,6 @@ Gets or sets a list of the relevant tool calls.
 public List<ToolCall> ToolCalls { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[ToolCall](../../../aspose.pdf.ai/toolcall/)>
-
 ### See Also
 
 * class [SubmitToolOutputs](../)

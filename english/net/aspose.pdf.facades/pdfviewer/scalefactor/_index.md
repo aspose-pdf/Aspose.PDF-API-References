@@ -17,10 +17,6 @@ Gets or sets a floating point value that indicates scale factor. The default val
 public float ScaleFactor { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [PdfViewer](../)

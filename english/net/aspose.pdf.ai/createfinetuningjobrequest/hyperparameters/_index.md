@@ -17,10 +17,6 @@ Gets or sets the hyperparameters used for the fine-tuning job.
 public Hyperparameters Hyperparameters { get; set; }
 ```
 
-### Property Value
-
-[Hyperparameters](../../../aspose.pdf.ai/hyperparameters/)
-
 ### See Also
 
 * class [Hyperparameters](../../../aspose.pdf.ai/hyperparameters/)

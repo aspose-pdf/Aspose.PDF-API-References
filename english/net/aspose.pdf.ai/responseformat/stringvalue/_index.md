@@ -17,10 +17,6 @@ Gets or sets the string value of the response format.
 public string StringValue { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ResponseFormat](../)

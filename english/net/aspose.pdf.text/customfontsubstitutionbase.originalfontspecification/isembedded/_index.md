@@ -17,10 +17,6 @@ Gets a value that indicates whether the font is embedded.
 public bool IsEmbedded { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [CustomFontSubstitutionBase.OriginalFontSpecification](../)

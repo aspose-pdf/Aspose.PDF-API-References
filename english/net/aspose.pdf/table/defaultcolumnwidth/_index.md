@@ -17,10 +17,6 @@ Gets default cell border;
 public string DefaultColumnWidth { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Table](../)

@@ -17,10 +17,6 @@ X-coordinate of lower - left corner.
 public double LLX { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

@@ -17,10 +17,6 @@ Remove private information (page piece info).
 public bool RemovePrivateInfo { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

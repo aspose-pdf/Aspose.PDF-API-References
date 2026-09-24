@@ -17,10 +17,6 @@ Gets or sets a list of message content tokens with log probability information.
 public List<string> Tokens { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [Logprobs](../)

@@ -17,10 +17,6 @@ Returns true is XmpValue represents structure.
 public bool IsStructure { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

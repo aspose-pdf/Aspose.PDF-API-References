@@ -19,10 +19,6 @@ Get and set the file size limit for loading an entire file into memory.
 public int FileSizeLimitToMemoryLoading { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Document](../)

@@ -17,10 +17,6 @@ Check if outline item representing next item relatively this item in the outline
 public bool HasNext { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OutlineItemCollection](../)

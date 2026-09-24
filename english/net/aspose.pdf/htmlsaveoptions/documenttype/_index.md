@@ -19,7 +19,7 @@ public HtmlDocumentType DocumentType { get; set; }
 
 ### Property Value
 
-[HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)
+The [`HtmlDocumentType`](../../../aspose.pdf/htmldocumenttype/).
 
 ### See Also
 

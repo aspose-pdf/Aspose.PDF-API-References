@@ -17,10 +17,6 @@ Gets or sets the ID of the thread that was executed on as a part of this run.
 public string ThreadId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunResponse](../)

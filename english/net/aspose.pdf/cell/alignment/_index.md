@@ -17,10 +17,6 @@ Gets or sets the alignment.
 public HorizontalAlignment Alignment { get; set; }
 ```
 
-### Property Value
-
-[HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
-
 ### See Also
 
 * class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)

@@ -17,10 +17,6 @@ Gets or sets word spacing of the text.
 public float WordSpacing { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextState](../)

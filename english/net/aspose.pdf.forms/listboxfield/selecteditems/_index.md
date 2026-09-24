@@ -17,10 +17,6 @@ Gets or sets array of the selected items in the multiselect list. For single-sel
 public int[] SelectedItems { set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [ListBoxField](../)

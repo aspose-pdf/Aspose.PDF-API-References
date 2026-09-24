@@ -17,10 +17,6 @@ Gets or sets the content of the text document.
 public string Content { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextDocument](../)

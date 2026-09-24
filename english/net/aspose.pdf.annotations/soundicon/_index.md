@@ -17,10 +17,10 @@ Enumerates the icons to be used in displaying the annotation.
 public enum SoundIcon
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Speaker | `0` | Speaker icon. |
 | Mic | `1` | Microphone icon. |
 

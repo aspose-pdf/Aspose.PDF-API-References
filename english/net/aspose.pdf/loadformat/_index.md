@@ -17,10 +17,10 @@ Specifies load format.
 public enum LoadFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | CGM | `0` | means loading of document in CGM format |
 | HTML | `1` | means loading of document in HTML format |
 | EPUB | `2` | means loading of document in EPUB format(special format of e-books) |

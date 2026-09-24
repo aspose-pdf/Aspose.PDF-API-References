@@ -17,10 +17,6 @@ Gets count of elements in the collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Metadata](../)

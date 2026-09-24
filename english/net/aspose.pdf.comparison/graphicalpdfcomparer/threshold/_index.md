@@ -19,10 +19,6 @@ Gets and sets the threshold value in percentage.
 public double Threshold { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GraphicalPdfComparer](../)

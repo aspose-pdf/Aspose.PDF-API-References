@@ -17,10 +17,6 @@ Gets or sets form name. Form name is name which used to reference form in XObejc
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XForm](../)

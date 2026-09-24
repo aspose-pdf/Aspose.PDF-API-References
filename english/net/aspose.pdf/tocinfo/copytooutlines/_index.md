@@ -17,10 +17,6 @@ Gets or sets is TOC copied to outlines.
 public bool CopyToOutlines { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TocInfo](../)

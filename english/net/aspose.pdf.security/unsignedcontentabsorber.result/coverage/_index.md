@@ -17,10 +17,6 @@ Gets a value indicating the extent to which the document is covered by valid dig
 public SignaturesCoverage Coverage { get; }
 ```
 
-### Property Value
-
-[SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
-
 ### See Also
 
 * class [SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)

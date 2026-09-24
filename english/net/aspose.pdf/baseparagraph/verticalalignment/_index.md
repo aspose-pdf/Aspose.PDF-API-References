@@ -17,10 +17,6 @@ Gets or sets a vertical alignment of paragraph
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Property Value
-
-[VerticalAlignment](../../../aspose.pdf/verticalalignment/)
-
 ### See Also
 
 * class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)

@@ -17,10 +17,6 @@ Gets the value indicating whether access to this collection is synchronized (thr
 public bool IsSynchronized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OutlineItemCollection](../)

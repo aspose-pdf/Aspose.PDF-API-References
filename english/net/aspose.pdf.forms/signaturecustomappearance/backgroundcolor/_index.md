@@ -17,10 +17,6 @@ Gets/sets background color. Default value: Transparent.
 public Color BackgroundColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

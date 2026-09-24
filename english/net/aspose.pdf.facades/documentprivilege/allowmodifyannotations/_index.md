@@ -18,10 +18,6 @@ Sets the permission which allow modify annotations or not.
 public bool AllowModifyAnnotations { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocumentPrivilege](../)

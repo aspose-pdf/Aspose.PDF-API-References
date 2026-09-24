@@ -17,10 +17,6 @@ Count is the sum of the number of visible descendent outline items at all levels
 public int VisibleCount { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OutlineCollection](../)

@@ -17,10 +17,6 @@ Gets the license note.
 public string LicenseNote { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LicenseInfo](../)

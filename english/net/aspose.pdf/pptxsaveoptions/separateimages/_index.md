@@ -17,10 +17,6 @@ If set to true then images are separated from all other graphics
 public bool SeparateImages { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PptxSaveOptions](../)

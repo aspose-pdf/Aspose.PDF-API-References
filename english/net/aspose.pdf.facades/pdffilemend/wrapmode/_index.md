@@ -17,10 +17,6 @@ Sets or gets word wrapping algorithm. See WordWrapMode and IsWordWrap.
 public WordWrapMode WrapMode { get; set; }
 ```
 
-### Property Value
-
-[WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
-
 ### See Also
 
 * class [WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)

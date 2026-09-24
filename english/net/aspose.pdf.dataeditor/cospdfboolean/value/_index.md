@@ -19,7 +19,7 @@ public bool Value { get; }
 
 ### Property Value
 
-bool
+The value.
 
 ### See Also
 

@@ -19,10 +19,6 @@ Gets or sets the option to flatten the layers in the PDF document.
 public bool FlattenLayers { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

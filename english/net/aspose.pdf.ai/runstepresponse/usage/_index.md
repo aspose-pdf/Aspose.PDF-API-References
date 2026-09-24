@@ -18,10 +18,6 @@ Gets or sets usage statistics related to the run step.
 public Usage Usage { get; set; }
 ```
 
-### Property Value
-
-[Usage](../../../aspose.pdf.ai/usage/)
-
 ### See Also
 
 * class [Usage](../../../aspose.pdf.ai/usage/)

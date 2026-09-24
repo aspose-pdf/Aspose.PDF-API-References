@@ -17,10 +17,6 @@ Blue component of color.
 public int Blue { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FontColor](../)

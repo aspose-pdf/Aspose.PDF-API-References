@@ -17,10 +17,6 @@ Gets the flag determining whether a document is certified or not.
 public bool IsCertified { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileSignature](../)

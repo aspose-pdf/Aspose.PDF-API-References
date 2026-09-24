@@ -17,10 +17,10 @@ It enumerates possible modes of positioning of letters in words in result HTML
 public enum LettersPositioningMethods
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | It's default method. It uses EM-units and special alhorithm of compensation of rounding errors
  It's preferable for usage in IE10.0 and more fresh versions and gives better scaling of captions when scaling is necessary |
 | UsePixelUnitsInCssLetterSpacingForIE | `1` | It allows to get sometimes more precise results in old IE browser versions |

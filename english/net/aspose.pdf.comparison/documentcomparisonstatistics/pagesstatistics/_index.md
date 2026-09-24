@@ -17,10 +17,6 @@ Gets and sets the list of pages statistics.
 public List<TextItemComparisonStatistics> PagesStatistics { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[TextItemComparisonStatistics](../../../aspose.pdf.comparison/textitemcomparisonstatistics/)>
-
 ### See Also
 
 * class [DocumentComparisonStatistics](../)

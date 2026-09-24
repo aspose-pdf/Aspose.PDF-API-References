@@ -19,7 +19,8 @@ public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 
 ### Property Value
 
-[ToUnicodeProcessingRules](../../../aspose.pdf/tounicodeprocessingrules/)
+An instance of [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) that defines the rules for handling the problematic cases with Unicode
+ characters.
 
 ### See Also
 

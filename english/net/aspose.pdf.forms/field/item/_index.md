@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public WidgetAnnotation Item { get; }
 ```
 
-### Property Value
-
-[WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-
 ### See Also
 
 * class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)

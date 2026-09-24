@@ -19,10 +19,6 @@ Gets or sets optimization flag. Equal resource streams in resultant file are mer
 public bool OptimizeSize { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileStamp](../)

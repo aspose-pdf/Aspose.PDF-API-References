@@ -17,10 +17,6 @@ Gets or sets the end note paragraphs.
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Property Value
-
-[Paragraphs](../../../aspose.pdf/paragraphs/)
-
 ### See Also
 
 * class [Paragraphs](../../../aspose.pdf/paragraphs/)

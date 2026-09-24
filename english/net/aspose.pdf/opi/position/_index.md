@@ -17,10 +17,6 @@ Gets an array of eight numbers of the form specifying the location on the page o
 public double[] Position { get; }
 ```
 
-### Property Value
-
-double[]
-
 ### See Also
 
 * class [Opi](../)

@@ -17,10 +17,6 @@ Gets or sets starting circle radius.
 public double StartingRadius { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GradientRadialShading](../)

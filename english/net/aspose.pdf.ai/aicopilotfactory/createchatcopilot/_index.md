@@ -3,7 +3,7 @@ title: "AICopilotFactory.CreateChatCopilot"
 linktitle: "CreateChatCopilot"
 articleTitle: "CreateChatCopilot"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AICopilotFactory method."
+description: "AICopilotFactory method. Creates a chat copilot based on the client and options."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CreateChatCopilot(IChatClient<T0>, IChatCopilotOptions<T0>) {#createchatcopilot}
 
-
+Creates a chat copilot based on the client and options.
 
 ```csharp
 public IChatCopilot CreateChatCopilot(IChatClient<T0> client, IChatCopilotOptions<T0> options)

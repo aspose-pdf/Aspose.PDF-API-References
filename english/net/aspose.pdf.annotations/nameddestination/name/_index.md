@@ -17,10 +17,6 @@ Gets the name of named destination.
 public string Name { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [NamedDestination](../)

@@ -18,10 +18,6 @@ Gets the type of a field value in a schema collection.
 public FieldValueType FiledType { get; }
 ```
 
-### Property Value
-
-[FieldValueType](../../../aspose.pdf/fieldvaluetype/)
-
 ### See Also
 
 * class [FieldValueType](../../../aspose.pdf/fieldvaluetype/)

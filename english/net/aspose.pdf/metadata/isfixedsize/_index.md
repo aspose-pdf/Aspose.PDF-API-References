@@ -17,10 +17,6 @@ Checks if colleciton has fixed size.
 public bool IsFixedSize { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Metadata](../)

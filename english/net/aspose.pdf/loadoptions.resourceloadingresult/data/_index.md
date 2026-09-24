@@ -17,10 +17,6 @@ Bynary data that loaded with custom loader - it must be set after loading
 public byte[] Data { get; }
 ```
 
-### Property Value
-
-byte[]
-
 ### See Also
 
 * class [LoadOptions.ResourceLoadingResult](../)

@@ -17,10 +17,6 @@ Gets or sets flag specifying whether toolbar should be hidden when document is a
 public bool HideToolBar { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

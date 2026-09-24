@@ -17,10 +17,6 @@ Gets and sets the number of insert operations.
 public int InsertOperationsCount { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextItemComparisonStatistics](../)

@@ -17,10 +17,6 @@ A5 size (210x148 mm).
 public PageSize A5 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

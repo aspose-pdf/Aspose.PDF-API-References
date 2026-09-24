@@ -17,10 +17,6 @@ Specifies encoding subtable via `CMapEncodingTableType`enumeration
 public CMapEncodingTableType CMapEncodingTable { get; set; }
 ```
 
-### Property Value
-
-CMapEncodingTableType
-
 ### See Also
 
 * class [PdfASymbolicFontEncodingStrategy.QueueItem](../)

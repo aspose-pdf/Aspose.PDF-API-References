@@ -17,10 +17,6 @@ Gets or sets a rich text string to be displayed in the pop-up window when the an
 public string RichText { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MarkupAnnotation](../)

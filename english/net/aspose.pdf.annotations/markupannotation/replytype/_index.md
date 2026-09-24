@@ -18,10 +18,6 @@ A string specifying the relationship (the "reply type") between this annotation
 public ReplyType ReplyType { get; set; }
 ```
 
-### Property Value
-
-[ReplyType](../../../aspose.pdf.annotations/replytype/)
-
 ### See Also
 
 * class [ReplyType](../../../aspose.pdf.annotations/replytype/)

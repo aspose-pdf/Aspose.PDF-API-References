@@ -18,10 +18,6 @@ Gets or sets a bool value that indicates whether the image is forced to be black
 public bool IsBlackWhite { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Image](../)

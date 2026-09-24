@@ -19,10 +19,6 @@ Gets or sets bookmark's children.
 public Bookmarks ChildItem { get; set; }
 ```
 
-### Property Value
-
-[Bookmarks](../../../aspose.pdf.facades/bookmarks/)
-
 ### See Also
 
 * class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)

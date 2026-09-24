@@ -17,10 +17,6 @@ Gets or sets table of contents title.
 public TextFragment Title { get; set; }
 ```
 
-### Property Value
-
-[TextFragment](../../../aspose.pdf.text/textfragment/)
-
 ### See Also
 
 * class [TextFragment](../../../aspose.pdf.text/textfragment/)

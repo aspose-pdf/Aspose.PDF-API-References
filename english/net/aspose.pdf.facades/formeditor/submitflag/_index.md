@@ -17,10 +17,6 @@ Set the submit button's submission flags
 public SubmitFormFlag SubmitFlag { get; set; }
 ```
 
-### Property Value
-
-[SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)
-
 ### See Also
 
 * class [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)

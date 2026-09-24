@@ -19,7 +19,7 @@ public AttributeOwnerStandard DefaultAttributeOwner { get; }
 
 ### Property Value
 
-[AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+[`AttributeOwnerStandard`](../../../aspose.pdf.logicalstructure/attributeownerstandard/) object.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets collection of files embedded to document.
 public EmbeddedFileCollection EmbeddedFiles { get; }
 ```
 
-### Property Value
-
-[EmbeddedFileCollection](../../../aspose.pdf/embeddedfilecollection/)
-
 ### See Also
 
 * class [EmbeddedFileCollection](../../../aspose.pdf/embeddedfilecollection/)

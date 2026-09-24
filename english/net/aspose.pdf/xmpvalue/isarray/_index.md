@@ -17,10 +17,6 @@ Returns true is XmpValue is array.
 public bool IsArray { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

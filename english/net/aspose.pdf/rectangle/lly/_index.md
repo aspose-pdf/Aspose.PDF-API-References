@@ -17,10 +17,6 @@ Y - coordinate of lower-left corner.
 public double LLY { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

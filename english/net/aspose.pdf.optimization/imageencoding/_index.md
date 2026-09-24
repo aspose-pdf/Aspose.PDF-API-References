@@ -17,10 +17,10 @@ Image encoding types.
 public enum ImageEncoding
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Unchanged | `0` | Don't change encoding. |
 | Jpeg | `1` | JPEG (DCT) encoding. |
 | Flate | `2` | Flate encoding. |

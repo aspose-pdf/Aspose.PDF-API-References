@@ -17,10 +17,6 @@ Use paragraph or line breaks
 public bool AddReturnToLineEnd { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocSaveOptions](../)

@@ -17,10 +17,10 @@ Enumerates the types of signature algorithms used for digital signatures.
 public enum SignatureAlgorithmType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Ecdsa | `0` | The Elliptic Curve Digital Signature Algorithm (ECDSA) used for digital signatures. |
 | Rsa | `1` | The Rivest–Shamir–Adleman (RSA) algorithm used for digital signatures. |
 | Dsa | `2` | The Digital Signature Algorithm (DSA) used for digital signatures. |

@@ -17,10 +17,6 @@ Gets or sets the prompt to instruct the model to provide a document summary.
 public string SummaryPrompt { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LlamaSummaryCopilotOptions](../)

@@ -17,10 +17,6 @@ Gets all schema's fields names.
 public ICollection<string> AllNames { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<string>
-
 ### See Also
 
 * class [CollectionSchema](../)

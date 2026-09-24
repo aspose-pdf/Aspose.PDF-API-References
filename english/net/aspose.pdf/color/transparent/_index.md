@@ -17,10 +17,6 @@ Gets a system-defined color.
 public Color Transparent { get; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

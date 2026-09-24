@@ -19,10 +19,6 @@ Gets/sets TeX requires input directory.
 public ITeXInputDirectory RequiredInputDirectory { get; set; }
 ```
 
-### Property Value
-
-[ITeXInputDirectory](../../../aspose.pdf/itexinputdirectory/)
-
 ### See Also
 
 * class [ITeXInputDirectory](../../../aspose.pdf/itexinputdirectory/)

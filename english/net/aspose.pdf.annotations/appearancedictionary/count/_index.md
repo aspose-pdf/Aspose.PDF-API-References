@@ -17,10 +17,6 @@ Gets the number of elements contained in the dictionary.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [AppearanceDictionary](../)

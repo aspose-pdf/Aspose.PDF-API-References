@@ -17,10 +17,6 @@ Gets or sets output page size for import.
 public SizeF PageSize { get; }
 ```
 
-### Property Value
-
-SizeF
-
 ### See Also
 
 * class [CgmLoadOptions](../)

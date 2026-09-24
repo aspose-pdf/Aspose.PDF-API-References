@@ -17,10 +17,6 @@ Gets or sets the type of run step.
 public string RunStepType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunStepDetails](../)

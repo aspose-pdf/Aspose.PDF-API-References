@@ -17,10 +17,6 @@ Gets or sets default font.
 public TextState DefaultTextState { get; set; }
 ```
 
-### Property Value
-
-[TextState](../../../aspose.pdf.text/textstate/)
-
 ### See Also
 
 * class [TextState](../../../aspose.pdf.text/textstate/)

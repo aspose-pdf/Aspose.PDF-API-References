@@ -17,10 +17,6 @@ Gets point with zero coordinates.
 public Point Trivial { get; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

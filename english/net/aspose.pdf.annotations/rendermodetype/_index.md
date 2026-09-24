@@ -17,10 +17,10 @@ Enum RenderModeType: set of render mode types
 public enum RenderModeType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Solid | `0` | The "Solid" render mode. |
 | SolidWireframe | `1` | The "SolidWireFrame" render mode. |
 | Transparent | `2` | The "Transparent" render mode. |

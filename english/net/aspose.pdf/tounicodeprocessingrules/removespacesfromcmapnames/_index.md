@@ -19,10 +19,6 @@ Some fonts have ToUnicode character code maps with spaces in names. These spaces
 public bool RemoveSpacesFromCMapNames { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ToUnicodeProcessingRules](../)

@@ -18,10 +18,6 @@ This property defines behavior when concatenating process met corrupted file.
 public ConcatenateCorruptedFileAction CorruptedFileAction { get; set; }
 ```
 
-### Property Value
-
-ConcatenateCorruptedFileAction
-
 ### See Also
 
 * class [PdfFileEditor](../)

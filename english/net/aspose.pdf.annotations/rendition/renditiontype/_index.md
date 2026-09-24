@@ -17,10 +17,6 @@ Gets rendition type.
 public RenditionType RenditionType { get; }
 ```
 
-### Property Value
-
-[RenditionType](../../../aspose.pdf.annotations/renditiontype/)
-
 ### See Also
 
 * class [RenditionType](../../../aspose.pdf.annotations/renditiontype/)

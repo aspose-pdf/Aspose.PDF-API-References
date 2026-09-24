@@ -17,10 +17,10 @@ Describes stamp types.
 public enum StampType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Form | `0` | Stamp if Form. |
 | Image | `1` | Stamp is image. |
 

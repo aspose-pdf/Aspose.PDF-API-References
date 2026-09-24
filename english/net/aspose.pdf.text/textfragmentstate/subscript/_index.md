@@ -17,10 +17,6 @@ Gets or sets subscript of the text, represented by the [`TextFragment`](../../..
 public bool Subscript { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextFragmentState](../)

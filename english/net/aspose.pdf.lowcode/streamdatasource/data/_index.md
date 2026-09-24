@@ -17,10 +17,6 @@ Gets the stream object of the current data source.
 public Stream Data { get; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [StreamDataSource](../)

@@ -19,10 +19,6 @@ Callback to handle any warnings generated.
 public IWarningCallback WarningHandler { get; set; }
 ```
 
-### Property Value
-
-[IWarningCallback](../../../aspose.pdf/iwarningcallback/)
-
 ### See Also
 
 * class [IWarningCallback](../../../aspose.pdf/iwarningcallback/)

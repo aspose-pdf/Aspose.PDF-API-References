@@ -17,10 +17,6 @@ Gets or sets a unique identifier for the chat completion.
 public string Id { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CompletionResponse](../)

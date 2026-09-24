@@ -17,10 +17,6 @@ The style of check box or radio box field, defined by FormFieldFacade.CheckBoxSt
 public int ButtonStyle { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FormFieldFacade](../)

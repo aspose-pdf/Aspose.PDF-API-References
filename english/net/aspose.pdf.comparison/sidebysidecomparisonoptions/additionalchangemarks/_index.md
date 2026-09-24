@@ -20,10 +20,6 @@ Get and set the property that determines whether additional change markers are d
 public bool AdditionalChangeMarks { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SideBySideComparisonOptions](../)

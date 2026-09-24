@@ -17,10 +17,6 @@ Gets an unsigned content.
 public UnsignedContent UnsignedContent { get; }
 ```
 
-### Property Value
-
-UnsignedContent
-
 ### See Also
 
 * class [UnsignedContentAbsorber.Result](../)

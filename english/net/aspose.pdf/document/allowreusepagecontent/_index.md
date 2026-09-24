@@ -18,10 +18,6 @@ Allows to merge page contents to optimize docuement size. If used then differnet
 public bool AllowReusePageContent { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

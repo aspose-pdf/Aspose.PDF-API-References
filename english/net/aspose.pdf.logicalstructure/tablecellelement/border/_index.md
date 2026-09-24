@@ -17,10 +17,6 @@ Gets or sets the cell border.
 public BorderInfo Border { get; set; }
 ```
 
-### Property Value
-
-[BorderInfo](../../../aspose.pdf/borderinfo/)
-
 ### See Also
 
 * class [BorderInfo](../../../aspose.pdf/borderinfo/)

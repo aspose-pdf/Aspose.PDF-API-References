@@ -19,10 +19,6 @@ Gets or sets name of source file.
 public string SrcFileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FormEditor](../)

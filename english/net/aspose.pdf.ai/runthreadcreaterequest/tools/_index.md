@@ -18,10 +18,6 @@ Gets or sets the tools that override the tools the assistant can use for this ru
 public List<Tool> Tools { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Tool](../../../aspose.pdf.ai/tool/)>
-
 ### See Also
 
 * class [RunThreadCreateRequest](../)

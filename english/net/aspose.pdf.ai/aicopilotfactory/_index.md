@@ -22,10 +22,10 @@ public static class AICopilotFactory
 
 | Name | Description |
 | --- | --- |
-| [CreateChatCopilot](./createchatcopilot/)(*IChatClient<T0>, IChatCopilotOptions<T0>*) |  |
-| [CreateImageDescriptionCopilot](./createimagedescriptioncopilot/)(*IImageDescriptionClient<T0>, IImageDescriptionCopilotOptions<T0>*) |  |
-| [CreateOcrCopilot](./createocrcopilot/)(*IOcrClient<T0>, IOcrCopilotOptions<T0>*) |  |
-| [CreateSummaryCopilot](./createsummarycopilot/)(*ISummaryClient<T0>, ISummaryCopilotOptions<T0>*) |  |
+| [CreateChatCopilot](./createchatcopilot/)(*IChatClient<T0>, IChatCopilotOptions<T0>*) | Creates a chat copilot based on the client and options. |
+| [CreateImageDescriptionCopilot](./createimagedescriptioncopilot/)(*IImageDescriptionClient<T0>, IImageDescriptionCopilotOptions<T0>*) | Creates an image description copilot based on the client and options. |
+| [CreateOcrCopilot](./createocrcopilot/)(*IOcrClient<T0>, IOcrCopilotOptions<T0>*) | Creates an OCR copilot based on the client and options. |
+| [CreateSummaryCopilot](./createsummarycopilot/)(*ISummaryClient<T0>, ISummaryCopilotOptions<T0>*) | Creates a summary copilot based on the client and options. |
 
 ### See Also
 

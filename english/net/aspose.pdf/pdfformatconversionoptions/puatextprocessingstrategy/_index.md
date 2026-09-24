@@ -17,10 +17,6 @@ Strategy to process symbols from unicode Private Use Area (PUA).
 public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
 ```
 
-### Property Value
-
-PuaProcessingStrategy
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

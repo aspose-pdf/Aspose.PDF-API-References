@@ -18,10 +18,6 @@ Gets or sets word wrap mode.
 public WordWrapMode WrapMode { get; set; }
 ```
 
-### Property Value
-
-[WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
-
 ### See Also
 
 * class [WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)

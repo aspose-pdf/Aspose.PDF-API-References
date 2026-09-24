@@ -17,10 +17,6 @@ Gets readonly IList containing rows of the table
 public IList<AbsorbedRow> RowList { get; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[AbsorbedRow](../../../aspose.pdf.text/absorbedrow/)>
-
 ### See Also
 
 * class [AbsorbedTable](../)

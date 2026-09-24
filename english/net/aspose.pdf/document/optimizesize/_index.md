@@ -20,10 +20,6 @@ Gets or sets optimization flag. When pages are added to document, equal resource
 public bool OptimizeSize { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

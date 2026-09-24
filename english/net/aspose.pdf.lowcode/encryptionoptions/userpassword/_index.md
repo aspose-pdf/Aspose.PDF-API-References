@@ -17,10 +17,6 @@ User password.
 public string UserPassword { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [EncryptionOptions](../)

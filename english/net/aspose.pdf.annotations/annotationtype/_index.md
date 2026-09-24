@@ -17,10 +17,10 @@ Enumeration of annotation types.
 public enum AnnotationType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Text | `0` | Text annotation type. |
 | Circle | `1` | Circle annotation type. |
 | Polygon | `2` | Polygon annotation type. |

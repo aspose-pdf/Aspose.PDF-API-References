@@ -17,10 +17,6 @@ Gets or sets default appearance of the field.
 public DefaultAppearance DefaultAppearance { get; set; }
 ```
 
-### Property Value
-
-[DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
-
 ### See Also
 
 * class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)

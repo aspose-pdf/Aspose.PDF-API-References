@@ -18,10 +18,6 @@ Gets or sets a limit on the number of objects to be returned. Limit can range be
 public Nullable<int> Limit { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [BaseListQueryParameters](../)

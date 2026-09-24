@@ -24,10 +24,6 @@ Provides a way to change following properties of the text:
 public TextFragmentState TextState { get; }
 ```
 
-### Property Value
-
-[TextFragmentState](../../../aspose.pdf.text/textfragmentstate/)
-
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

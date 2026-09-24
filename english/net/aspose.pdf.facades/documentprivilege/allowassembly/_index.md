@@ -18,10 +18,6 @@ Sets the permission which allow assembly or not.
 public bool AllowAssembly { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocumentPrivilege](../)

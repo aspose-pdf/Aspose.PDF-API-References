@@ -17,10 +17,6 @@ Result of last import operation. Array of objects which descibre result of impor
 public FormImportResult[] ImportResult { get; }
 ```
 
-### Property Value
-
-FormImportResult[]
-
 ### See Also
 
 * class [Form](../)

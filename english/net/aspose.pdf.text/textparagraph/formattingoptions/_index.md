@@ -17,10 +17,6 @@ Gets or sets formatting options.
 public TextFormattingOptions FormattingOptions { get; set; }
 ```
 
-### Property Value
-
-[TextFormattingOptions](../../../aspose.pdf.text/textformattingoptions/)
-
 ### See Also
 
 * class [TextFormattingOptions](../../../aspose.pdf.text/textformattingoptions/)

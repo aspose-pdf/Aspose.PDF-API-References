@@ -19,7 +19,7 @@ public Paragraphs Paragraphs { get; set; }
 
 ### Property Value
 
-[Paragraphs](../../../aspose.pdf/paragraphs/)
+The paragraphs.
 
 ### See Also
 

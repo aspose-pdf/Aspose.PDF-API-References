@@ -17,10 +17,6 @@ Returns name of the operation.
 public string OperationName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ImageExtractorOptions](../)

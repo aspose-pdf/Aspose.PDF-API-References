@@ -17,10 +17,6 @@ Gets annotation characteristics.
 public Characteristics Characteristics { get; }
 ```
 
-### Property Value
-
-[Characteristics](../../../aspose.pdf.annotations/characteristics/)
-
 ### See Also
 
 * class [Characteristics](../../../aspose.pdf.annotations/characteristics/)

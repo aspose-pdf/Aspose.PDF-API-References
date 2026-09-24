@@ -17,10 +17,6 @@ An array of 8xN numbers specifying the coordinates of content region that is int
 public Point[] QuadPoint { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)[]
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

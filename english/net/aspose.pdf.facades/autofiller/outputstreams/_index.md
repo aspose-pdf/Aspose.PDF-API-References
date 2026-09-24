@@ -17,10 +17,6 @@ Gets or sets the many Output Streams. One of four output modes.
 public Stream[] OutputStreams { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)[]
-
 ### See Also
 
 * class [AutoFiller](../)

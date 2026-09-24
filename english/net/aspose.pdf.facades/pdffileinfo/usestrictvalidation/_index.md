@@ -17,10 +17,6 @@ Uses strict validation rules via using `IsPdfFile` property.
 public bool UseStrictValidation { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileInfo](../)

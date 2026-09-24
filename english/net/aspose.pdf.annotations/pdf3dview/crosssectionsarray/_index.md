@@ -19,7 +19,7 @@ public PDF3DCrossSectionArray CrossSectionsArray { get; }
 
 ### Property Value
 
-[PDF3DCrossSectionArray](../../../aspose.pdf.annotations/pdf3dcrosssectionarray/)
+The cross sections array of view.
 
 ### See Also
 

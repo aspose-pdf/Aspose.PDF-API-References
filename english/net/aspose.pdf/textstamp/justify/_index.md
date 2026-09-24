@@ -17,10 +17,6 @@ Defines text justification. If this property is set to true, both left and right
 public bool Justify { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextStamp](../)

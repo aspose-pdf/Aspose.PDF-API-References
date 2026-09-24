@@ -17,10 +17,6 @@ Gets page labels in the document.
 public PageLabelCollection PageLabels { get; }
 ```
 
-### Property Value
-
-[PageLabelCollection](../../../aspose.pdf/pagelabelcollection/)
-
 ### See Also
 
 * class [PageLabelCollection](../../../aspose.pdf/pagelabelcollection/)

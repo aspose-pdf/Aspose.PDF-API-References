@@ -17,10 +17,10 @@ Class represents blending color space.
 public enum BlendingColorSpace
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | DontChange | `0` | The blending color space is not changed. |
 | Auto | `1` | The blending color space is determined automatically. |
 | DeviceRGB | `2` | Blending color space is set to DeviceRGB. |

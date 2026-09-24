@@ -17,10 +17,6 @@ The visiblity of signature.
 public bool Visible { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SignOptions](../)

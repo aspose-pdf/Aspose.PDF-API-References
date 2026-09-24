@@ -19,7 +19,7 @@ public int MCID { get; }
 
 ### Property Value
 
-int
+MCID of marked-content reference object.
 
 ### See Also
 

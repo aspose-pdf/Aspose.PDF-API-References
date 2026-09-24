@@ -17,10 +17,6 @@ Object which represents default appearance of FreeText annotation.
 public DefaultAppearance DefaultAppearanceObject { get; }
 ```
 
-### Property Value
-
-[DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
-
 ### See Also
 
 * class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)

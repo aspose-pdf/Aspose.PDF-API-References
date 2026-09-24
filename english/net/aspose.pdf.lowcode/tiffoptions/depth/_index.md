@@ -21,7 +21,7 @@ public ColorDepth Depth { get; set; }
 
 ### Property Value
 
-[ColorDepth](../../../aspose.pdf.devices/colordepth/)
+The color depth.
 
 ### See Also
 

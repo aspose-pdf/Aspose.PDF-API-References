@@ -17,10 +17,6 @@ Gets or sets HTML page title.
 public string Title { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

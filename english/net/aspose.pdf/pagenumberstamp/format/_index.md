@@ -18,10 +18,6 @@ String value for stamping page numbers.
 public string Format { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PageNumberStamp](../)

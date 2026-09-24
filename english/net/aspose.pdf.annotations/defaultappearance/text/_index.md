@@ -17,10 +17,6 @@ Gets the list of pdf operators which represent appearence.
 public string Text { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DefaultAppearance](../)

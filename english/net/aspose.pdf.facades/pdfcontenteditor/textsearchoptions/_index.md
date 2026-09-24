@@ -17,10 +17,6 @@ Gets or sets text search options.
 public TextSearchOptions TextSearchOptions { get; set; }
 ```
 
-### Property Value
-
-[TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
-
 ### See Also
 
 * class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)

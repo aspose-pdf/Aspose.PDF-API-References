@@ -18,10 +18,6 @@ If this property is true the value of NeedsRendering key will be ignored during 
 public bool IgnoreNeedsRendering { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

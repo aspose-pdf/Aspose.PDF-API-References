@@ -17,10 +17,6 @@ If this flag is set to true images will be compressed in the document. Compressi
 public bool CompressImages { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ImageCompressionOptions](../)

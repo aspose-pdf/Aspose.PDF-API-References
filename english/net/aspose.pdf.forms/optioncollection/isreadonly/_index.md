@@ -17,10 +17,6 @@ Gets a value indicating if collection is readonly.
 public bool IsReadOnly { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptionCollection](../)

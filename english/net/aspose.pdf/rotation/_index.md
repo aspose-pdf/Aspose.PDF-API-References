@@ -17,10 +17,10 @@ Enumeration of possible rotation values.
 public enum Rotation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Non-rotated. |
 | on90 | `1` | Rotated on 90 degrees clockwise. |
 | on180 | `2` | Rotated on 180 degrees. |

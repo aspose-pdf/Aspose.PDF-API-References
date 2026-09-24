@@ -17,10 +17,6 @@ Gets or sets the sampling temperature used for this run. If not set, defaults to
 public Nullable<double> Temperature { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [RunResponse](../)

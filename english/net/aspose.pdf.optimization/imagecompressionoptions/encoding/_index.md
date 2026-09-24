@@ -17,10 +17,6 @@ Gets or sets encoding used to store images.
 public ImageEncoding Encoding { get; set; }
 ```
 
-### Property Value
-
-[ImageEncoding](../../../aspose.pdf.optimization/imageencoding/)
-
 ### See Also
 
 * class [ImageEncoding](../../../aspose.pdf.optimization/imageencoding/)

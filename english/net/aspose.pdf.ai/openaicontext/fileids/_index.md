@@ -17,10 +17,6 @@ Gets or sets the list of File IDs.
 public List<string> FileIds { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [OpenAIContext](../)

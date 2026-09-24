@@ -17,10 +17,6 @@ Gets the handler or encryption algorithm version.
 public int Version { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [EncryptionParameters](../)

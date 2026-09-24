@@ -17,10 +17,6 @@ Gets or sets index of the top visible element of the list.
 public int TopIndex { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ListBoxField](../)

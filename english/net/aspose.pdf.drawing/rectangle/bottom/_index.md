@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the bottom position of the rectangle.
 public double Bottom { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

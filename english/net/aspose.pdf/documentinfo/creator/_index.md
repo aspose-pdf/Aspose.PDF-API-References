@@ -17,10 +17,6 @@ Gets or sets document creator.
 public string Creator { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DocumentInfo](../)

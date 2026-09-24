@@ -17,10 +17,6 @@ Gets a system-defined color that has an ARGB value of \c \#FF6A5ACD.
 public Color SlateBlue { get; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

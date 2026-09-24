@@ -17,10 +17,6 @@ Gets/sets contact info visibility. Default value: true.
 public bool ShowContactInfo { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

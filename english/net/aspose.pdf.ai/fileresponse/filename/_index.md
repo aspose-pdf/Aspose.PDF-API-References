@@ -17,10 +17,6 @@ Gets or sets the name of the file.
 public string Filename { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileResponse](../)

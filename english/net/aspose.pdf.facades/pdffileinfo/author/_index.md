@@ -17,10 +17,6 @@ Gets or sets the Author information of PDF document.
 public string Author { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

@@ -17,10 +17,6 @@ Gets or sets text extraction options.
 public TextExtractionOptions ExtractionOptions { get; set; }
 ```
 
-### Property Value
-
-[TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-
 ### See Also
 
 * class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)

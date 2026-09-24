@@ -17,10 +17,6 @@ Gets the number of document pages.
 public int NumberOfPages { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfFileInfo](../)

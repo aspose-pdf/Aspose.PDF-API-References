@@ -17,10 +17,6 @@ Gets or sets the title for this outline item.
 public string Title { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OutlineItemCollection](../)

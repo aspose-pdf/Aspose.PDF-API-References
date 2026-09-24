@@ -17,10 +17,6 @@ Event which activates application.
 public ActivationEvent ActivateOn { get; set; }
 ```
 
-### Property Value
-
-ActivationEvent
-
 ### See Also
 
 * class [RichMediaAnnotation](../)

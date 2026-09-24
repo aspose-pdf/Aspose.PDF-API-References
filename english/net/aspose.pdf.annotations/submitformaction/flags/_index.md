@@ -17,10 +17,6 @@ Gets or sets flagas of submit action
 public int Flags { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [SubmitFormAction](../)

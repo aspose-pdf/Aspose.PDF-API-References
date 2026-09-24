@@ -21,10 +21,6 @@ Gets and sets an option The strength of grouping subpaths into images. Allows yo
 public double GroupStrength { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SvgExtractionOptions](../)

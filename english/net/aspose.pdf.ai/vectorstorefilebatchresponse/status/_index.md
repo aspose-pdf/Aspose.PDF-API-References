@@ -17,10 +17,6 @@ Gets or sets the status of the vector store file batch.
 public string Status { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [VectorStoreFileBatchResponse](../)

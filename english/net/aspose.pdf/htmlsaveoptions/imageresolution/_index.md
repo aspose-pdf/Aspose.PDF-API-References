@@ -19,7 +19,7 @@ public int ImageResolution { get; set; }
 
 ### Property Value
 
-int
+Resolution
 
 ### See Also
 

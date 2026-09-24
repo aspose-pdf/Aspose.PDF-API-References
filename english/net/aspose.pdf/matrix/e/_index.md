@@ -17,10 +17,6 @@ E member of the transformation matrix.
 public double E { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Matrix](../)

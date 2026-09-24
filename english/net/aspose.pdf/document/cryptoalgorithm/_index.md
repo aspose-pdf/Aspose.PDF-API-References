@@ -19,10 +19,6 @@ Gets security settings if document is encrypted.
 public Nullable<CryptoAlgorithm> CryptoAlgorithm { get; }
 ```
 
-### Property Value
-
-Nullable<[CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)>
-
 ### See Also
 
 * class [Document](../)

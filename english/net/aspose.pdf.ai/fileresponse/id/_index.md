@@ -17,10 +17,6 @@ Gets or sets the file identifier, which can be referenced in the API endpoints.
 public string Id { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileResponse](../)

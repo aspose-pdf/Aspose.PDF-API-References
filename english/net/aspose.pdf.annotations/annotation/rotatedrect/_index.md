@@ -17,10 +17,6 @@ Gets rotated rectangle.
 protected internal Rectangle RotatedRect { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

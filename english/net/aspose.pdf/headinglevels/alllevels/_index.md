@@ -17,10 +17,6 @@ Gets all heading levels.
 public IList<double> AllLevels { get; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<double>
-
 ### See Also
 
 * class [HeadingLevels](../)

@@ -22,10 +22,10 @@ Determines action that will be done after replace of text fragment to more short
 public enum ReplaceAdjustment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No action, replaced text may overlaps rest of the line |
 | AdjustSpaceWidth | `1` | Tries adjust spaces between words to keep line length |
 | WholeWordsHyphenation | `2` | Tries distribute words between paragraph lines to keep paragraph's right field |

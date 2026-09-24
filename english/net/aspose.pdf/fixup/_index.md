@@ -17,10 +17,10 @@ This enum represents an type of Fixup.
 public enum Fixup
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | ConvertAllPagesIntoCMYKImagesAndPreserveTextInformation | `0` | Not supported. |
 | ConvertFontsToOutlines | `1` | Not supported. |
 | DerivePageGeometryBoxesFromCropMarks | `2` | Not supported. |

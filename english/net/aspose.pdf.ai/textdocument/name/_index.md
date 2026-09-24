@@ -17,10 +17,6 @@ Gets or sets the name of the text document.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextDocument](../)

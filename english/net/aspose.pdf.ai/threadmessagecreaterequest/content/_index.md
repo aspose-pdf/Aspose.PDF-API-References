@@ -17,10 +17,6 @@ Gets or sets the content of the message. Can be a string or an array of content 
 public List<MessageContentRequest> Content { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[MessageContentRequest](../../../aspose.pdf.ai/messagecontentrequest/)>
-
 ### See Also
 
 * class [ThreadMessageCreateRequest](../)

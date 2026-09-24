@@ -17,10 +17,6 @@ If set, the document contains at least one signature field.
 public bool SignaturesExist { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

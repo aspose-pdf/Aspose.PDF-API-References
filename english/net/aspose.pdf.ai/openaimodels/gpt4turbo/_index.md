@@ -17,10 +17,6 @@ Gets the identifier for the GPT-4 Turbo model.
 public string Gpt4Turbo { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIModels](../)

@@ -27,10 +27,6 @@ When multipage-mode selected(i.e 'SplitIntoPages' is 'true'),
 public bool SplitCssIntoPages { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

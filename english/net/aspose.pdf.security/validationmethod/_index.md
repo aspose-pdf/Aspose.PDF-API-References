@@ -17,10 +17,10 @@ Represents an enum defined the method used for certificate validation.
 public enum ValidationMethod
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Auto | `0` | Automatically determines the best method for certificate validation. |
 | Ocsp | `1` | Uses the Online Certificate Status Protocol (OCSP) for certificate validation.
  OCSP is a protocol that provides the validation status of a certificate by directly querying the issuing Certificate Authority (CA). |

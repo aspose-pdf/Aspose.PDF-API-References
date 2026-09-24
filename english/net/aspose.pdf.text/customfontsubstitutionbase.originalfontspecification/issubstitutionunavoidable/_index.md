@@ -23,10 +23,6 @@ Returns true in case substitution was requested because of absence of the origin
 public bool IsSubstitutionUnavoidable { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [CustomFontSubstitutionBase.OriginalFontSpecification](../)

@@ -17,10 +17,6 @@ Gets or sets subsequent lines indent value.
 public float SubsequentLinesIndent { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextFormattingOptions](../)

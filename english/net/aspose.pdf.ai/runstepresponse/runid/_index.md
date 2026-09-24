@@ -17,10 +17,6 @@ Gets or sets the ID of the run that this run step is a part of.
 public string RunId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunStepResponse](../)

@@ -18,10 +18,6 @@ Sets the fields which will not be flattened.
 public string[] UnFlattenFields { set; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [AutoFiller](../)

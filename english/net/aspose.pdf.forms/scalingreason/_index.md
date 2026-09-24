@@ -17,10 +17,10 @@ The circumstances under which the icon shall be scaled inside the annotation rec
 public enum ScalingReason
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Always | `0` | Always scale. |
 | IconIsBigger | `1` | BScale only when the icon is bigger than the annotation rectangle. |
 | IconIsSmaller | `2` | Scale only when the icon is smaller than the annotation rectangle. |

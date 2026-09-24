@@ -19,10 +19,6 @@ This attribute specifies a sequential grouping of glyphs and words into strings
 public bool SimpleTextboxModeGrouping { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

@@ -17,10 +17,6 @@ Gets or sets the encoding format.
 public SoundSampleDataEncodingFormat EncodingFormat { get; set; }
 ```
 
-### Property Value
-
-[SoundSampleDataEncodingFormat](../../../aspose.pdf.annotations/soundsampledataencodingformat/)
-
 ### See Also
 
 * class [SoundSampleDataEncodingFormat](../../../aspose.pdf.annotations/soundsampledataencodingformat/)

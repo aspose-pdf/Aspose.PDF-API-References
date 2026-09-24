@@ -17,10 +17,10 @@ The encoding format for the sound sample data.
 public enum SoundSampleDataEncodingFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Raw | `0` | Unspecified or unsigned values in the range 0 to 2B - 1. |
 | Signed | `1` | Twos-complement values. |
 | muLaw | `2` | Mu-law-encoded samples. |

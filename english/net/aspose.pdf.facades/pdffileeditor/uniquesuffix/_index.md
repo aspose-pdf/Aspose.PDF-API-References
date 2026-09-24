@@ -20,10 +20,6 @@ Format of the suffix which is added to field name to make it unique when forms a
 public string UniqueSuffix { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileEditor](../)

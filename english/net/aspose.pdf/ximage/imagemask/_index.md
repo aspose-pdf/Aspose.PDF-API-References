@@ -20,7 +20,7 @@ public bool ImageMask { get; }
 
 ### Property Value
 
-bool
+True is the image is image mask.
 
 ### See Also
 

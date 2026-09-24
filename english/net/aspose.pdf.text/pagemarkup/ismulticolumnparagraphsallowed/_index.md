@@ -17,10 +17,6 @@ Gets or sets value that indicates whether starting text lines of a next section 
 public bool IsMulticolumnParagraphsAllowed { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PageMarkup](../)

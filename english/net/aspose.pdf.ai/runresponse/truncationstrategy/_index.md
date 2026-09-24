@@ -18,10 +18,6 @@ Gets or sets the truncation strategy that controls for how a thread will be trun
 public TruncationStrategy TruncationStrategy { get; set; }
 ```
 
-### Property Value
-
-[TruncationStrategy](../../../aspose.pdf.ai/truncationstrategy/)
-
 ### See Also
 
 * class [TruncationStrategy](../../../aspose.pdf.ai/truncationstrategy/)

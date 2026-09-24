@@ -17,10 +17,6 @@ Gets or sets page width.
 public float Width { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [PageSize](../)

@@ -17,10 +17,6 @@ Gets or sets the Creator information of PDF document.
 public string Creator { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

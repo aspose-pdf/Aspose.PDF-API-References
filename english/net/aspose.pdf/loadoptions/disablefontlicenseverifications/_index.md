@@ -27,10 +27,6 @@ Be careful when using this flag. When it is set it means that person who sets th
 public bool DisableFontLicenseVerifications { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [LoadOptions](../)

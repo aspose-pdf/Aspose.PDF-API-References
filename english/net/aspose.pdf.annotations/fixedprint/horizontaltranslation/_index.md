@@ -17,10 +17,6 @@ Gets or sets horizontal translation.
 public double HorizontalTranslation { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FixedPrint](../)

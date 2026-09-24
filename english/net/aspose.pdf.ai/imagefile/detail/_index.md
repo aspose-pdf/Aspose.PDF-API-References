@@ -18,10 +18,6 @@ Gets or sets the detail level of the image if specified by the user. low uses
 public string Detail { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ImageFile](../)

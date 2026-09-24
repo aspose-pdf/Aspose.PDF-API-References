@@ -17,10 +17,6 @@ Gets a system-defined color that has an ARGB value of \c \#FFF0E68C.
 public Color Khaki { get; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

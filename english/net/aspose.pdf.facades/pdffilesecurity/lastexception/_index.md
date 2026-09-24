@@ -17,10 +17,6 @@ Returns exception which was thrown by last operation.
 public Exception LastException { get; }
 ```
 
-### Property Value
-
-[Exception](https://docs.oracle.com/javase/8/docs/api/java/lang/Exception.html)
-
 ### See Also
 
 * class [PdfFileSecurity](../)

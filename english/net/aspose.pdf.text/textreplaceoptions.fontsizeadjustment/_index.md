@@ -17,10 +17,10 @@ Specifies a policy for how the font size of text should be adjusted to fit withi
 public enum FontSizeAdjustment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | The font size is not changed. |
 | ShrinkToFit | `1` | The font size is reduced if the text is too large to fit the bounds.
  The font size is never increased if the text is smaller than the bounds. |

@@ -17,10 +17,10 @@ Enumerates the intents of the polygon or polyline annotation.
 public enum PolyIntent
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Undefined state. |
 | PolygonCloud | `1` | Means that the annotation is intended to function as a cloud object. |
 | PolyLineDimension | `2` | Indicates that the polyline annotation is intended to function as a dimension. |

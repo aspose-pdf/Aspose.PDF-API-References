@@ -17,10 +17,10 @@ Enumerates the kinds of the relationships (the "reply type") between the annotat
 public enum ReplyType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Undefined relationship. |
 | Reply | `1` | The annotation is considered a reply to the annotation specified by InReplyTo. Viewer applications should not display replies to an annotation individually but together in the form of threaded comments. |
 | Group | `2` | The annotation is grouped with the annotation specified by InReplyTo. |

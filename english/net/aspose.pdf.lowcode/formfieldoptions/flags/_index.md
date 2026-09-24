@@ -17,10 +17,6 @@ Gets/sets the value to determine property Flags for created/modified field (if w
 public Nullable<AnnotationFlags> Flags { get; set; }
 ```
 
-### Property Value
-
-Nullable<[AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)>
-
 ### See Also
 
 * class [FormFieldOptions](../)

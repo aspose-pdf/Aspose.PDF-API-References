@@ -17,10 +17,6 @@ Options for cases when it's not possible to embed some fonts into PDF document.
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ```
 
-### Property Value
-
-[FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
-
 ### See Also
 
 * class [FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)

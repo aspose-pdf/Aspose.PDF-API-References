@@ -17,10 +17,6 @@ Gets original font name that should be substituted with `SubstitutionFontName`
 public string OriginalFontName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SimpleFontSubstitution](../)

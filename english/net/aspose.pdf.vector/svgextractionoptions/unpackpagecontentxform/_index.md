@@ -19,10 +19,6 @@ Gets and sets a flag that determines whether XFrom found on pages should be unpa
 public bool UnpackPageContentXForm { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SvgExtractionOptions](../)

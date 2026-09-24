@@ -17,10 +17,6 @@ Gets or sets the horizontal scaling.
 public double HorizontalScaling { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetHorizontalTextScaling](../)

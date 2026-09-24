@@ -17,10 +17,6 @@ Gets or sets input file's password.
 public string Password { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfExtractor](../)

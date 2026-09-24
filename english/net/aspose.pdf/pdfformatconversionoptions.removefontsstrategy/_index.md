@@ -20,10 +20,10 @@ Some documens have large size after converison into PDF/A format. To reduce file
 public enum RemoveFontsStrategy
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | RemoveDuplicatedFonts | `4` | This strategy removes all the fonts which have duplicates in document. If document 
  contains group of duplicated fonts only one font from this group is embedded in document. 
  All other fonts from this group are removed from document, every removed font

@@ -17,10 +17,6 @@ Gets the destination page number
 public int PageNumber { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ExplicitDestination](../)

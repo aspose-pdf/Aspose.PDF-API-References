@@ -17,10 +17,6 @@ Retrieve the Y coordinate of a horizontal border when using TableAbsorber, and r
 public double Y { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GraphInfo](../)

@@ -17,10 +17,6 @@ Gets or sets icon caption position.
 public IconCaptionPosition ICPosition { get; set; }
 ```
 
-### Property Value
-
-[IconCaptionPosition](../../../aspose.pdf.forms/iconcaptionposition/)
-
 ### See Also
 
 * class [IconCaptionPosition](../../../aspose.pdf.forms/iconcaptionposition/)

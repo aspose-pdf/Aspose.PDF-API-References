@@ -17,10 +17,6 @@ Gets a collection of all the names of collection item values.
 public ICollection<string> AllNames { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<string>
-
 ### See Also
 
 * class [CollectionItem](../)

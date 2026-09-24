@@ -17,10 +17,6 @@ Gets or sets index of selected option. This property allows to change selection.
 public int Selected { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ChoiceField](../)

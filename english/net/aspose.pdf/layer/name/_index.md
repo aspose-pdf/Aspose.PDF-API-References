@@ -17,10 +17,6 @@ Gets the layer name.
 public string Name { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Layer](../)

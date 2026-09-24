@@ -18,10 +18,6 @@ Gets and sets the CSS-style string for Insert operation.
 public string InsertStyle { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [HtmlDiffOutputGenerator](../)

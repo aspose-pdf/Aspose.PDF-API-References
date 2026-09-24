@@ -18,10 +18,6 @@ Gets or sets the parent annotation with which this pop-up annotation shall be as
 public Annotation Parent { get; set; }
 ```
 
-### Property Value
-
-[Annotation](../../../aspose.pdf.annotations/annotation/)
-
 ### See Also
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)

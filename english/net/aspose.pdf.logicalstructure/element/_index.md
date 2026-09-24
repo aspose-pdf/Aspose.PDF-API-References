@@ -31,7 +31,7 @@ public abstract class Element
 | --- | --- |
 | [AppendChild](./appendchild/)(*Element, bool*) | Append [`Element`](../../aspose.pdf.structure/element/) to collection of children. |
 | [ClearChilds](./clearchilds/) | Clear all childs. |
-| [FindElements](./findelements/)(*bool*) |  |
+| [FindElements](./findelements/)(*bool*) | Find Elements of a given type. |
 | [InsertChild](./insertchild/)(*Element, int, bool*) | Insert [`Element`](../../aspose.pdf.structure/element/) to collection of children at specified index. |
 | [RemoveChild](./removechild/)(*int*) | Remove child at. |
 | [Tag](./tag/)(*BDC*) | Bind a structure element to the content stream BDC operator. |

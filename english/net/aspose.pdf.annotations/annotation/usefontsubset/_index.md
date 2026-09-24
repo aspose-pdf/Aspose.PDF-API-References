@@ -17,10 +17,6 @@ If this property set to true, fonts will be added to document as subsets. Defaul
 public bool UseFontSubset { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Annotation](../)

@@ -17,10 +17,6 @@ Gets or sets words break
 public bool IsBreakWords { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlFragment](../)

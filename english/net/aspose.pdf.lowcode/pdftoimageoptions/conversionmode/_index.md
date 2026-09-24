@@ -17,10 +17,6 @@ Gets image conversion mode.
 public ImageConversionMode ConversionMode { get; }
 ```
 
-### Property Value
-
-ImageConversionMode
-
 ### See Also
 
 * class [PdfToImageOptions](../)

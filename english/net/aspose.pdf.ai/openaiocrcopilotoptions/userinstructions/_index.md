@@ -17,10 +17,6 @@ Gets or sets the user prompt.
 public string UserInstructions { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../)

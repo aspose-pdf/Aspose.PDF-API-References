@@ -19,7 +19,7 @@ public Nullable<double> AngleX { get; set; }
 
 ### Property Value
 
-Nullable<double>
+The angle to X axis.
 
 ### See Also
 

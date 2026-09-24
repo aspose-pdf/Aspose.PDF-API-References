@@ -18,10 +18,6 @@ Gets or sets a bool value that force this paragraph generates at new page.
 public bool IsInNewPage { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [BaseParagraph](../)

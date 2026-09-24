@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public string Name { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Resources.ExtGStateValue](../)

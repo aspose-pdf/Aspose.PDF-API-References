@@ -17,10 +17,10 @@ This enum represents image formats.
 public enum ImageFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Bmp | `0` | BMP format. |
 | Jpeg | `1` | JPEG format. |
 | Gif | `2` | GIF format. |

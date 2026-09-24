@@ -18,10 +18,6 @@ Gets or sets a value indicating whether the image in the signature appearance is
 public bool IsForegroundImage { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

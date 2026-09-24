@@ -17,10 +17,10 @@ Enum PDF3DActivation: set of 3D annotation activation mode.
 public enum PDF3DActivation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | activeWhenOpen | `0` | The active when open |
 | activeWhenVisible | `1` | The active when visible |
 | activatedUserOrScriptAction | `2` | The activated by user or script action |

@@ -17,10 +17,6 @@ Keeps security if true. (This feature will be implemented in next versions).
 public bool KeepSecurity { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileStamp](../)

@@ -17,10 +17,6 @@ Gets/sets the value to determine whether created/modified field is shared field 
 public Nullable<bool> IsSharedField { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormFieldOptions](../)

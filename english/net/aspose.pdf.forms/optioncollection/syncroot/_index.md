@@ -17,10 +17,6 @@ Synchronization object of the collection.
 public object SyncRoot { get; }
 ```
 
-### Property Value
-
-object
-
 ### See Also
 
 * class [OptionCollection](../)

@@ -17,10 +17,6 @@ Returns true if value is string.
 public bool IsString { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

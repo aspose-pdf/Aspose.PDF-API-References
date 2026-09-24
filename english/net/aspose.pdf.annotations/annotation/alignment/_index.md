@@ -19,10 +19,6 @@ Annotation alignment. This property is obsolete. Use HorizontalAligment instead.
 public TextAlignment Alignment { get; set; }
 ```
 
-### Property Value
-
-[TextAlignment](../../../aspose.pdf.annotations/textalignment/)
-
 ### See Also
 
 * class [TextAlignment](../../../aspose.pdf.annotations/textalignment/)

@@ -17,10 +17,6 @@ Gets zoom factor.
 public double Zoom { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [XYZExplicitDestination](../)

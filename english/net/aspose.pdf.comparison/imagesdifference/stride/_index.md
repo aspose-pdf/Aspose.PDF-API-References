@@ -17,10 +17,6 @@ The stride of difference image data.
 public int Stride { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ImagesDifference](../)

@@ -19,10 +19,6 @@ Gets or sets indication that text will be searched using font engine encoding.
 public bool UseFontEngineEncoding { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextSearchOptions](../)

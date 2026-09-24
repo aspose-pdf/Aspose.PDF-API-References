@@ -17,10 +17,6 @@ Is this object synchronized.
 public bool IsSynchronized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ArtifactCollection](../)

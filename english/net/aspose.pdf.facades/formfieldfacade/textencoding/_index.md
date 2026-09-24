@@ -17,10 +17,6 @@ The text encoding type of the field text.
 public EncodingType TextEncoding { get; set; }
 ```
 
-### Property Value
-
-[EncodingType](../../../aspose.pdf.facades/encodingtype/)
-
 ### See Also
 
 * class [EncodingType](../../../aspose.pdf.facades/encodingtype/)

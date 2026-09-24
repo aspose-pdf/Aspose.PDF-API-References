@@ -18,10 +18,6 @@ Gets or sets a `GraphInfo` object that indicates the graph info,such as color,
 public GraphInfo GraphInfo { get; set; }
 ```
 
-### Property Value
-
-[GraphInfo](../../../aspose.pdf/graphinfo/)
-
 ### See Also
 
 * class [GraphInfo](../../../aspose.pdf/graphinfo/)

@@ -17,10 +17,6 @@ Gets or sets flag specifying whether user interface elements should be hidden wh
 public bool HideWindowUI { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

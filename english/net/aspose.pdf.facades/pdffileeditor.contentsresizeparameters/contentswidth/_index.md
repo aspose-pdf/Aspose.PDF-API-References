@@ -17,10 +17,6 @@ Gets or sets width of the content of the source page on the resultant page.
 public ContentsResizeValue ContentsWidth { get; set; }
 ```
 
-### Property Value
-
-ContentsResizeValue
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeParameters](../)

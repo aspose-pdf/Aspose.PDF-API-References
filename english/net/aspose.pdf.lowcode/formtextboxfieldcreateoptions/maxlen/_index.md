@@ -17,10 +17,6 @@ Gets/sets the value to determine property MaxLen for created TextBoxField (if wi
 public Nullable<int> MaxLen { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [FormTextBoxFieldCreateOptions](../)

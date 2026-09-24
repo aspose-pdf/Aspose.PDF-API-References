@@ -17,10 +17,6 @@ Gets the sub-filter name.
 public string SubFilter { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * interface [ICustomSecurityHandler](../)

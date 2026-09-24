@@ -17,10 +17,6 @@ Gets or sets the miter limit.
 public double MiterLimit { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetMiterLimit](../)

@@ -17,10 +17,6 @@ Gets or sets a rouded border radius
 public double RoundedBorderRadius { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [BorderInfo](../)

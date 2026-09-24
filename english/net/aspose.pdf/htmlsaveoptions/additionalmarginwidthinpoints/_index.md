@@ -26,10 +26,6 @@ If attribute 'SplitOnPages=false', than whole HTML representing all input PDF pa
 public int AdditionalMarginWidthInPoints { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

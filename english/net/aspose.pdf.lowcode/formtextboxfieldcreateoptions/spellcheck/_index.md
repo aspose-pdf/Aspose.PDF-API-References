@@ -17,10 +17,6 @@ Gets/sets the value to determine whether created TextBoxField is spellcheck or n
 public Nullable<bool> SpellCheck { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormTextBoxFieldCreateOptions](../)

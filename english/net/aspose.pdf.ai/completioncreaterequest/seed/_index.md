@@ -20,10 +20,6 @@ Gets or sets the Seed value.
 public Nullable<int> Seed { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

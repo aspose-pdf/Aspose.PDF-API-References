@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the vector store file was 
 public long CreatedAt { get; set; }
 ```
 
-### Property Value
-
-long
-
 ### See Also
 
 * class [VectorStoreFileResponse](../)

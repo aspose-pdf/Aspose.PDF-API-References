@@ -17,10 +17,6 @@ Gets XForm associated with this XFormPlacement.
 public XForm XForm { get; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

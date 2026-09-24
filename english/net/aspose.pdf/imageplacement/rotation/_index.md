@@ -17,10 +17,6 @@ Gets rotation angle of the Image.
 public float Rotation { get; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [ImagePlacement](../)

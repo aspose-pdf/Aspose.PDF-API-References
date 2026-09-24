@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public PDF3DView Item { get; set; }
 ```
 
-### Property Value
-
-[PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)
-
 ### See Also
 
 * class [PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)

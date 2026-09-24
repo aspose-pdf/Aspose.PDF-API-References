@@ -17,10 +17,6 @@ D member of the transformation matrix.
 public double D { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Matrix3D](../)

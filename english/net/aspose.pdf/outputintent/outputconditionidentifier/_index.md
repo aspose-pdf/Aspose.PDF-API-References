@@ -18,10 +18,6 @@ Gets or sets a text that identifies the intended output device or production con
 public string OutputConditionIdentifier { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OutputIntent](../)

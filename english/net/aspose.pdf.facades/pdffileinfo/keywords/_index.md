@@ -17,10 +17,6 @@ Gets or sets the Keywords information of PDF document.
 public string Keywords { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

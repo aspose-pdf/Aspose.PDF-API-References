@@ -17,10 +17,6 @@ Gets `Forms` forms collection
 public XFormCollection Forms { get; }
 ```
 
-### Property Value
-
-[XFormCollection](../../../aspose.pdf/xformcollection/)
-
 ### See Also
 
 * class [XFormCollection](../../../aspose.pdf/xformcollection/)

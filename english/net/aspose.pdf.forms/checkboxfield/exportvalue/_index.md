@@ -17,10 +17,6 @@ Gets or sets export value of CheckBox field.
 public string ExportValue { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CheckboxField](../)

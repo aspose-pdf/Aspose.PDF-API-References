@@ -17,10 +17,6 @@ If set, formatting and other JavaScript events will be called. True by default.
 public bool CallEvents { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form.FlattenSettings](../)

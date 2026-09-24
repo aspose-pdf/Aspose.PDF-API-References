@@ -17,10 +17,6 @@ ImportIntoDatabase will drop existing table and create new table if this propert
 public bool ReplaceExistingTable { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FormDataConverter](../)

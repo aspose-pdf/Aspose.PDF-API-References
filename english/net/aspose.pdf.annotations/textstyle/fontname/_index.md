@@ -17,10 +17,6 @@ Name of the font.
 public string FontName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextStyle](../)

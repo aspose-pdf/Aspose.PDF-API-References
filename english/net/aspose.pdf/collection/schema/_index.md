@@ -17,10 +17,6 @@ Gets a "Schema" of a document collection.
 public CollectionSchema Schema { get; }
 ```
 
-### Property Value
-
-[CollectionSchema](../../../aspose.pdf/collectionschema/)
-
 ### See Also
 
 * class [CollectionSchema](../../../aspose.pdf/collectionschema/)

@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the left position of the ellipse.
 public double Left { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Ellipse](../)

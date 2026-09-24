@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public BDCProperties Properties { get; }
 ```
 
-### Property Value
-
-[BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
-
 ### See Also
 
 * class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)

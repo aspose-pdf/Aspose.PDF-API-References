@@ -17,10 +17,6 @@ Gets or sets is show page numbers at Toc.
 public bool IsShowPageNumbers { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TocInfo](../)

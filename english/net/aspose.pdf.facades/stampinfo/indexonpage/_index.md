@@ -17,10 +17,6 @@ Gets stamp index on the page.
 public int IndexOnPage { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [StampInfo](../)

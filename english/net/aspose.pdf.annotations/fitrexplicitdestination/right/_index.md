@@ -17,10 +17,6 @@ Gets right horizontal coordinate of visible rectangle.
 public double Right { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FitRExplicitDestination](../)

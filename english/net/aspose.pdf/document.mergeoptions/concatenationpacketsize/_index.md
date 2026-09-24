@@ -18,10 +18,6 @@ Number of documents concatenated before new incremental update was made during c
 public int ConcatenationPacketSize { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Document.MergeOptions](../)

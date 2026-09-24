@@ -17,10 +17,6 @@ Indicates the name of the printerfile.
 public string PrintFileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PrinterSettings](../)

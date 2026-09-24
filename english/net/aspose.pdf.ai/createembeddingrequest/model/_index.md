@@ -17,10 +17,6 @@ Gets or sets the model to generate the embedding for.
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateEmbeddingRequest](../)

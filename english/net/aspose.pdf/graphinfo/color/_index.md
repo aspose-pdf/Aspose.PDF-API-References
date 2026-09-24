@@ -17,10 +17,6 @@ Gets or sets a `Color` object that indicates the color of the graph.
 public Color Color { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

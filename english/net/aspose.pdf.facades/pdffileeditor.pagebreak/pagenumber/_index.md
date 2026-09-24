@@ -17,10 +17,6 @@ Number of page (starting from 1) where page break must be added.
 public int PageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfFileEditor.PageBreak](../)

@@ -17,10 +17,10 @@ Specifies style information applied to text.
 public enum FontStyles
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Regular | `0` | Regular text. |
 | Bold | `1` | Bold text. |
 | Italic | `2` | Italic text. |

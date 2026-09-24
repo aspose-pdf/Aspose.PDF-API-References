@@ -18,10 +18,6 @@ Gets page resources. Resources object contains collections of images, forms and 
 public Resources Resources { get; }
 ```
 
-### Property Value
-
-[Resources](../../../aspose.pdf/resources/)
-
 ### See Also
 
 * class [Resources](../../../aspose.pdf/resources/)

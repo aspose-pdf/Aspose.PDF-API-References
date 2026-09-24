@@ -17,10 +17,6 @@ Gets or sets the image resolution (dpi). Default is 192 dpi.
 public int ImageResolution { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PptxSaveOptions](../)

@@ -17,10 +17,6 @@ Gets or sets the the PDF document.
 public Document Document { get; set; }
 ```
 
-### Property Value
-
-[Document](../../../aspose.pdf/document/)
-
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)

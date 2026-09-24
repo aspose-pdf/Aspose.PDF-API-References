@@ -17,10 +17,6 @@ Gets or sets subscript of the text.
 public bool Subscript { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextState](../)

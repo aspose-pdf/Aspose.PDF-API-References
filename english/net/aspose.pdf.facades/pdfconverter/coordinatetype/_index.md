@@ -17,10 +17,6 @@ Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used 
 public PageCoordinateType CoordinateType { get; set; }
 ```
 
-### Property Value
-
-[PageCoordinateType](../../../aspose.pdf/pagecoordinatetype/)
-
 ### See Also
 
 * class [PageCoordinateType](../../../aspose.pdf/pagecoordinatetype/)

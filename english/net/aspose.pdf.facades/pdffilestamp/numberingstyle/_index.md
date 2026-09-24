@@ -17,10 +17,6 @@ Gets or sets pabge numbering style. Possible values: NumeralsArabic, NumeralsRom
 public NumberingStyle NumberingStyle { get; set; }
 ```
 
-### Property Value
-
-[NumberingStyle](../../../aspose.pdf/numberingstyle/)
-
 ### See Also
 
 * class [NumberingStyle](../../../aspose.pdf/numberingstyle/)

@@ -17,10 +17,6 @@ The type of scaling that shall be used. ///
 public ScalingMode ScalingMode { get; set; }
 ```
 
-### Property Value
-
-[ScalingMode](../../../aspose.pdf.forms/scalingmode/)
-
 ### See Also
 
 * class [ScalingMode](../../../aspose.pdf.forms/scalingmode/)

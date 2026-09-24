@@ -18,10 +18,6 @@ Sets color type of the pages based on information getting from operators SetColo
 public ColorType ColorType { get; }
 ```
 
-### Property Value
-
-[ColorType](../../../aspose.pdf/colortype/)
-
 ### See Also
 
 * class [ColorType](../../../aspose.pdf/colortype/)

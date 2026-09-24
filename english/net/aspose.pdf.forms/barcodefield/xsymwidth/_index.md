@@ -17,10 +17,6 @@ Gets The horizontal distance, in pixels, between two barcode modules.
 public int XSymWidth { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BarcodeField](../)

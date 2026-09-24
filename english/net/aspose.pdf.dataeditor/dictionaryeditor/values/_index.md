@@ -17,10 +17,6 @@ Gets an `ICollection` containing the values in the [`DictionaryEditor`](../../..
 public ICollection<ICosPdfPrimitive> Values { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<[ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)>
-
 ### See Also
 
 * class [DictionaryEditor](../)

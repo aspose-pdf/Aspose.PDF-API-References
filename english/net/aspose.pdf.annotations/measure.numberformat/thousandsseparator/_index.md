@@ -17,10 +17,6 @@ Text that shall be used between orders of thousands in display of numerical valu
 public string ThousandsSeparator { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

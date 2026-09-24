@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public TabStop Item { get; set; }
 ```
 
-### Property Value
-
-[TabStop](../../../aspose.pdf.text/tabstop/)
-
 ### See Also
 
 * class [TabStop](../../../aspose.pdf.text/tabstop/)

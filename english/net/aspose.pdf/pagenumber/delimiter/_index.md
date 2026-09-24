@@ -18,10 +18,6 @@ Gets or sets the delimiter used in the page number format.
 public string Delimiter { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PageNumber](../)

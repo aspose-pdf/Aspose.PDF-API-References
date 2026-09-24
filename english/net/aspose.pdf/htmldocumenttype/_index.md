@@ -17,10 +17,10 @@ Represents enumeration of the Html document types.
 public enum HtmlDocumentType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Xhtml | `0` | The XHtml Document Type. |
 | Html5 | `1` | The HTML5 Document Type. |
 

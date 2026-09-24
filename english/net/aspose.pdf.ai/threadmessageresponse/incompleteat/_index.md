@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the message was marked as 
 public Nullable<long> IncompleteAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<long>
-
 ### See Also
 
 * class [ThreadMessageResponse](../)

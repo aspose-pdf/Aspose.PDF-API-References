@@ -20,10 +20,6 @@ If this property is true then additional red boundary rectangles will be drawn f
 public bool EmulateRequierdGroups { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

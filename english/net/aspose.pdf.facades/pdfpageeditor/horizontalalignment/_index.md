@@ -17,10 +17,6 @@ Gets or sets the horizontal alignment of the original PDF content on the result 
 public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
-### Property Value
-
-[HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
-
 ### See Also
 
 * class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)

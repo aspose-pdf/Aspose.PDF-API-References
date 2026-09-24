@@ -18,10 +18,6 @@ Gets or sets the mode of validation for digital signatures in a PDF document.
 public ValidationMode ValidationMode { get; set; }
 ```
 
-### Property Value
-
-[ValidationMode](../../../aspose.pdf.security/validationmode/)
-
 ### See Also
 
 * class [ValidationMode](../../../aspose.pdf.security/validationmode/)

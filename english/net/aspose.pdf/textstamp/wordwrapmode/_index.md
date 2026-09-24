@@ -17,10 +17,6 @@ Gets or sets the word wrap mode for text rendering.
 public WordWrapMode WordWrapMode { get; set; }
 ```
 
-### Property Value
-
-[WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
-
 ### See Also
 
 * class [WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)

@@ -17,10 +17,6 @@ Gets collection of added targets for saving operation results.
 public List<IDataSource> Outputs { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[IDataSource](../../../aspose.pdf.lowcode/idatasource/)>
-
 ### See Also
 
 * class [PdfConverterOptions](../)

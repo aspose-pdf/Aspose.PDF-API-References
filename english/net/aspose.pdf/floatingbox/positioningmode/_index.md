@@ -17,10 +17,6 @@ Specifies variant for determining the location of the FloatingBox on the page.
 public ParagraphPositioningMode PositioningMode { get; set; }
 ```
 
-### Property Value
-
-[ParagraphPositioningMode](../../../aspose.pdf/paragraphpositioningmode/)
-
 ### See Also
 
 * class [ParagraphPositioningMode](../../../aspose.pdf/paragraphpositioningmode/)

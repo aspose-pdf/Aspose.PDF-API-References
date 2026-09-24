@@ -17,10 +17,6 @@ Gets or sets the function to call.
 public CompletionFunction Function { get; set; }
 ```
 
-### Property Value
-
-[CompletionFunction](../../../aspose.pdf.ai/completionfunction/)
-
 ### See Also
 
 * class [CompletionFunction](../../../aspose.pdf.ai/completionfunction/)

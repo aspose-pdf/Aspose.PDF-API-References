@@ -17,10 +17,6 @@ The base path/url from which are searched relative paths to external resources (
 public string BasePath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XslFoLoadOptions](../)

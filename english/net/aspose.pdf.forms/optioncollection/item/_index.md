@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public Option Item { get; }
 ```
 
-### Property Value
-
-[Option](../../../aspose.pdf.forms/option/)
-
 ### See Also
 
 * class [Option](../../../aspose.pdf.forms/option/)

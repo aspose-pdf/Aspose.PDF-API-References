@@ -17,10 +17,6 @@ Text that shall be used as the decimal position in displaying numerical values. 
 public string FractionSeparator { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

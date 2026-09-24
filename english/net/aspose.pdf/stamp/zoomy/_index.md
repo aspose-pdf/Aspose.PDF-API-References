@@ -17,10 +17,6 @@ Vertical zooming factor of the stamp. Allows to scale stamp vertically.
 public double ZoomY { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

@@ -17,10 +17,10 @@ Enumeration of standard XMP properties.
 public enum DefaultMetadataProperties
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Advisory | `0` | xmp:Advisory property.
  An unordered array specifying properties that were edited outside the authoring application. Each item should contain a single /// namespace and XPath separated by one ASCII space |
 | BaseURL | `1` | xmp:BaseURL property.

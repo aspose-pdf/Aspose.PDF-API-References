@@ -17,10 +17,6 @@ Gets a value indicating whether the ToolChoice is an object value.
 public bool IsObjectValue { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ToolChoice](../)

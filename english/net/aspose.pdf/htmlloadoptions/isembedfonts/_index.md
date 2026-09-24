@@ -17,10 +17,6 @@ Gets or sets fonts embedding to result document
 public bool IsEmbedFonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlLoadOptions](../)

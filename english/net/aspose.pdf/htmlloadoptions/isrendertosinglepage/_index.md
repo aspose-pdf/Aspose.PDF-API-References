@@ -17,10 +17,6 @@ Gets or sets rendering all document to single page
 public bool IsRenderToSinglePage { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlLoadOptions](../)

@@ -17,10 +17,6 @@ Gets or sets a list of pages for the process.
 public List<int> PageList { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<int>
-
 ### See Also
 
 * class [PdfToImageOptions](../)

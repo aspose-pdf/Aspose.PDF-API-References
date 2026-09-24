@@ -17,10 +17,6 @@ Gets or sets multiselection flag.
 public bool MultiSelect { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ChoiceField](../)

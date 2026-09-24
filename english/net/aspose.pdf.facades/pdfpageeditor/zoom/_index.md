@@ -24,10 +24,6 @@ Get or sets zoom coefficient. Value 1.0 corresponds to 100%.
 public float Zoom { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [PdfPageEditor](../)

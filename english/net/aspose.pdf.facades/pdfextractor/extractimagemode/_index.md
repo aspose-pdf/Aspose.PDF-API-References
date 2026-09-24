@@ -21,10 +21,6 @@ Default value is ExtractImageMode.DefinedInResources that extracts all images de
 public ExtractImageMode ExtractImageMode { get; set; }
 ```
 
-### Property Value
-
-[ExtractImageMode](../../../aspose.pdf/extractimagemode/)
-
 ### See Also
 
 * class [ExtractImageMode](../../../aspose.pdf/extractimagemode/)

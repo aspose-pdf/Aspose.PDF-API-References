@@ -17,10 +17,6 @@ Gets or sets the total usage statistics for processing this document (all pages)
 public Usage TotalUsage { get; set; }
 ```
 
-### Property Value
-
-[Usage](../../../aspose.pdf.ai/usage/)
-
 ### See Also
 
 * class [Usage](../../../aspose.pdf.ai/usage/)

@@ -17,10 +17,6 @@ Gets or sets indication that regular expression is used.
 public bool IsRegularExpressionUsed { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextSearchOptions](../)

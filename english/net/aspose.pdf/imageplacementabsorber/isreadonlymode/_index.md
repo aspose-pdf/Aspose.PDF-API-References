@@ -18,10 +18,6 @@ Gets/sets read only mode for parsing operations collection. It may help against 
 public bool IsReadOnlyMode { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ImagePlacementAbsorber](../)

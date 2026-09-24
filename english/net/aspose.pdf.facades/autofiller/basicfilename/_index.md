@@ -18,10 +18,6 @@ Gets or sets the basic file name if many small files will be generated. The gene
 public string BasicFileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AutoFiller](../)

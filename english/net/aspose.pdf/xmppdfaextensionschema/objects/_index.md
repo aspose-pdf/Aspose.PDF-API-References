@@ -17,10 +17,6 @@ Gets the list of objects (properties, value types).
 public List<XmpPdfAExtensionObject> Objects { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)>
-
 ### See Also
 
 * class [XmpPdfAExtensionSchema](../)

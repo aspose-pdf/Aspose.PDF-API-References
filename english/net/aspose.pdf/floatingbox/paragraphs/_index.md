@@ -17,10 +17,6 @@ Gets or sets a `Paragraphs` collection that indicates all paragraphs in the cell
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Property Value
-
-[Paragraphs](../../../aspose.pdf/paragraphs/)
-
 ### See Also
 
 * class [Paragraphs](../../../aspose.pdf/paragraphs/)

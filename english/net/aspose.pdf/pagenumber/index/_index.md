@@ -18,10 +18,6 @@ Gets or sets the page index component of the page number format.
 public PageIndex Index { get; set; }
 ```
 
-### Property Value
-
-PageIndex
-
 ### See Also
 
 * class [PageNumber](../)

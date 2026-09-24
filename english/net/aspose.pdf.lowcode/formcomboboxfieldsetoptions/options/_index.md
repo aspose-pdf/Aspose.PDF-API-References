@@ -17,10 +17,6 @@ Gets/sets the value to determine property Options for modified field (if will be
 public List<string> Options { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [FormComboBoxFieldSetOptions](../)

@@ -18,10 +18,6 @@ Gets a flag indicating whether the interactive PDF processor should provide supp
 public bool E { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [CollectionField](../)

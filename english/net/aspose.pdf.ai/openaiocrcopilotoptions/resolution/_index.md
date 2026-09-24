@@ -17,10 +17,6 @@ Gets or sets the resolution used to convert PDF pages into images. The default v
 public int Resolution { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../)

@@ -17,10 +17,6 @@ Gets or sets a description of what the function does, used by the model to choos
 public string Description { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Function](../)

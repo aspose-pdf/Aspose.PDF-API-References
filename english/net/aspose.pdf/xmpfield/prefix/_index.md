@@ -19,7 +19,7 @@ public string Prefix { get; set; }
 
 ### Property Value
 
-string
+The prefix.
 
 ### See Also
 

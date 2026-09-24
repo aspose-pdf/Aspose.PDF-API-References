@@ -17,10 +17,6 @@ Checkes whether the PDF document is encrypted.
 public bool IsEncrypted { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileInfo](../)

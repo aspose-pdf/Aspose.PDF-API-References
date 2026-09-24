@@ -17,10 +17,6 @@ Gets a value indicating whether access to the collection is synchronized (thread
 public bool IsSynchronized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FontSourceCollection](../)

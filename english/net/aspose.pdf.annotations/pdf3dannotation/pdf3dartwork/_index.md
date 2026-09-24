@@ -19,7 +19,7 @@ public PDF3DArtwork Pdf3DArtwork { get; }
 
 ### Property Value
 
-[PDF3DArtwork](../../../aspose.pdf.annotations/pdf3dartwork/)
+The PDF3 d artwork.
 
 ### See Also
 

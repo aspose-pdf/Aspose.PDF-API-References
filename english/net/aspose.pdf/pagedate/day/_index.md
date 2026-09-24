@@ -18,10 +18,6 @@ Gets or sets the day component of the date.
 public DayComponent Day { get; set; }
 ```
 
-### Property Value
-
-DayComponent
-
 ### See Also
 
 * class [PageDate](../)

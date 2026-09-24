@@ -19,10 +19,6 @@ Specifies level of image compression when CompressIamges flag is used.
 public int ImageQuality { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OptimizationOptions](../)

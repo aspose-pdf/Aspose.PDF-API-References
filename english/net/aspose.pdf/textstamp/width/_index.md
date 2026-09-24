@@ -17,10 +17,6 @@ Desired width of the stamp on the page.
 public double Width { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextStamp](../)

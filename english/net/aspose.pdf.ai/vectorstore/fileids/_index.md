@@ -17,10 +17,6 @@ Gets or sets a list of file IDs to add to the vector store. There can be a maxim
 public List<string> FileIds { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [VectorStore](../)

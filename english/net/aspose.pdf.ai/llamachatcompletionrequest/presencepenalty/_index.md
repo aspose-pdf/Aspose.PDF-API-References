@@ -17,10 +17,6 @@ Sets or gets the presence penalty to use during sampling.
 public Nullable<float> PresencePenalty { get; set; }
 ```
 
-### Property Value
-
-Nullable<float>
-
 ### See Also
 
 * class [LlamaChatCompletionRequest](../)

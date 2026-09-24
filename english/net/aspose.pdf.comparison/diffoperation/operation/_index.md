@@ -17,10 +17,6 @@ Gets and sets operation type.
 public Operation Operation { get; set; }
 ```
 
-### Property Value
-
-[Operation](../../../aspose.pdf.comparison/operation/)
-
 ### See Also
 
 * class [Operation](../../../aspose.pdf.comparison/operation/)

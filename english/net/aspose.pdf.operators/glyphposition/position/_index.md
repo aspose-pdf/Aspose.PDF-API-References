@@ -17,10 +17,6 @@ Position off the text in the operator.
 public double Position { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GlyphPosition](../)

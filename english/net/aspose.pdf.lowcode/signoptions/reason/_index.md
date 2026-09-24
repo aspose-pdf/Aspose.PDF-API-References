@@ -17,10 +17,6 @@ The reason of signature.
 public string Reason { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignOptions](../)

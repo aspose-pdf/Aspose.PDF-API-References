@@ -17,10 +17,6 @@ Sets or gets a graphic appearance for the signature. Property value represents i
 public Stream SignatureAppearanceStream { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [PdfFileSignature](../)

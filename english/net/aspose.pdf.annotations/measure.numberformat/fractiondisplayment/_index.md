@@ -17,10 +17,6 @@ In what manner fractional values are displayed.
 public FractionStyle FractionDisplayment { get; set; }
 ```
 
-### Property Value
-
-FractionStyle
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

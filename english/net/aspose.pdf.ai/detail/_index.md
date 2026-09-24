@@ -17,10 +17,10 @@ Specifies the level of detail for image analysis.
 public enum Detail
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Auto | `0` | The detail level is determined automatically by the API based on the input and context. |
 | Low | `1` | Low detail level, providing a more general and faster analysis. |
 | High | `2` | High detail level, offering a more thorough and precise analysis. |

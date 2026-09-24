@@ -17,10 +17,6 @@ Gets or sets s list of File IDs that the vector store should use. Useful for too
 public List<string> FileIds { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [VectorStoreFileBatchCreateRequest](../)

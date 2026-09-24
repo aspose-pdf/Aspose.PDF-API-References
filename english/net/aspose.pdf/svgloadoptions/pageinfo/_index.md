@@ -17,10 +17,6 @@ Gets or sets page info that should be applied during loading of document.
 public PageInfo PageInfo { get; set; }
 ```
 
-### Property Value
-
-[PageInfo](../../../aspose.pdf/pageinfo/)
-
 ### See Also
 
 * class [PageInfo](../../../aspose.pdf/pageinfo/)

@@ -17,10 +17,10 @@ Represents a position of a registration mark on a page.
 public enum PrinterMarkSidePosition
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Top | `0` | Position the mark in the top margin of the page. |
 | Bottom | `1` | Position the mark in the bottom margin of the page. |
 | Left | `2` | Position the mark in the left margin of the page. |

@@ -17,10 +17,6 @@ Gets or sets a value indicating the margins for this page.
 public Margins Margins { get; set; }
 ```
 
-### Property Value
-
-[Margins](../../../aspose.pdf.devices/margins/)
-
 ### See Also
 
 * class [Margins](../../../aspose.pdf.devices/margins/)

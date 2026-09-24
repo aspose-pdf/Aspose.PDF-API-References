@@ -17,10 +17,6 @@ Gets artifact type.
 public ArtifactType Type { get; set; }
 ```
 
-### Property Value
-
-ArtifactType
-
 ### See Also
 
 * class [Artifact](../)

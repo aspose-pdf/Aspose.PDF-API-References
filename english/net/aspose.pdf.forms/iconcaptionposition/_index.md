@@ -17,10 +17,10 @@ Describes position of icon.
 public enum IconCaptionPosition
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | NoIcon | `0` | Icon is not displayed. |
 | NoCaption | `1` | Caption is not displayed. |
 | CaptionBelowIcon | `2` | Caption is below icon. |

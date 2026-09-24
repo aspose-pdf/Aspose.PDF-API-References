@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public Page Item { get; }
 ```
 
-### Property Value
-
-[Page](../../../aspose.pdf/page/)
-
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)

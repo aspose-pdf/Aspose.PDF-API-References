@@ -17,10 +17,6 @@ Sets or gets a graphic appearance for the signature. Property value represents i
 public string SignatureAppearance { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileSignature](../)

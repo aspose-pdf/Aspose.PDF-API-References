@@ -17,10 +17,6 @@ Gets index of the option.
 public int Index { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Option](../)

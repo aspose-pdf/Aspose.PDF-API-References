@@ -17,10 +17,6 @@ Gets the password from input.
 public string Password { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [EncryptionParameters](../)

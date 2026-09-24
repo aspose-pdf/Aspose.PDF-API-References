@@ -17,10 +17,6 @@ Gets or sets the cyan component.
 public double C { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCMYKColorStroke](../)

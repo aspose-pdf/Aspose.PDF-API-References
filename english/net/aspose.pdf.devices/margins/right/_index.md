@@ -19,7 +19,7 @@ public int Right { get; set; }
 
 ### Property Value
 
-int
+The right.
 
 ### See Also
 

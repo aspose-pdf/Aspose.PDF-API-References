@@ -17,10 +17,6 @@ Gets or sets the value.
 public string Value { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XmpPdfAExtensionObject](../)

@@ -17,10 +17,6 @@ The list of selected objects.
 public IList<Annotation> Selected { get; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[Annotation](../../../aspose.pdf.annotations/annotation/)>
-
 ### See Also
 
 * class [AnnotationSelector](../)

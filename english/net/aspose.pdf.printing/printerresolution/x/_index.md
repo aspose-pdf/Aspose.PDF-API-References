@@ -17,10 +17,6 @@ Gets the printer resolution in the horizontal direction, in dots per inch.
 public int X { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PrinterResolution](../)

@@ -17,10 +17,6 @@ Gets or sets optimize dimensions mode.
 public bool OptimizeDimensions { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

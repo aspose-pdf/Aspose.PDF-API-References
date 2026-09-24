@@ -19,10 +19,6 @@ Can be null. Use null to inherit `HorizontalScaling` property from parent struct
 public Nullable<float> HorizontalScaling { get; set; }
 ```
 
-### Property Value
-
-Nullable<float>
-
 ### See Also
 
 * class [StructureTextState](../)

@@ -17,10 +17,6 @@ Gets or sets bottom margin on the resultant page.
 public ContentsResizeValue BottomMargin { get; set; }
 ```
 
-### Property Value
-
-ContentsResizeValue
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeParameters](../)

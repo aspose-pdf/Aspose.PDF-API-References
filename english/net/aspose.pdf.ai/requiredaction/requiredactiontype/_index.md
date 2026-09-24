@@ -17,10 +17,6 @@ Gets or sets the type of action that is required.
 public string RequiredActionType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RequiredAction](../)

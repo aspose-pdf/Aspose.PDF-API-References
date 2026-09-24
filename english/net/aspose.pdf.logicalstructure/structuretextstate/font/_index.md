@@ -19,10 +19,6 @@ Can be null. Use null to inherit `Font` property from parent structure element.
 public Font Font { get; set; }
 ```
 
-### Property Value
-
-[Font](../../../aspose.pdf.text/font/)
-
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)

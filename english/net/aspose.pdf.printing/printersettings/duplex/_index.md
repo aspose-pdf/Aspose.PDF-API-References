@@ -17,10 +17,6 @@ Gets or sets the printer's duplex setting.
 public Duplex Duplex { get; set; }
 ```
 
-### Property Value
-
-[Duplex](../../../aspose.pdf.printing/duplex/)
-
 ### See Also
 
 * class [Duplex](../../../aspose.pdf.printing/duplex/)

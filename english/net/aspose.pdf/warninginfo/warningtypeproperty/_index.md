@@ -17,10 +17,6 @@ Returns warning type.
 public WarningType WarningTypeProperty { get; }
 ```
 
-### Property Value
-
-[WarningType](../../../aspose.pdf/warningtype/)
-
 ### See Also
 
 * class [WarningType](../../../aspose.pdf/warningtype/)

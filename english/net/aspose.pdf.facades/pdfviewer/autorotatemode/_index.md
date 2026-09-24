@@ -17,10 +17,6 @@ Gets or sets a AutoRotateMode value that indicates direction of rotation
 public AutoRotateMode AutoRotateMode { get; set; }
 ```
 
-### Property Value
-
-[AutoRotateMode](../../../aspose.pdf.facades/autorotatemode/)
-
 ### See Also
 
 * class [AutoRotateMode](../../../aspose.pdf.facades/autorotatemode/)

@@ -17,10 +17,6 @@ Gets the output intent subtype.
 public string Subtype { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OutputIntent](../)

@@ -17,10 +17,6 @@ Field name. Field names must be valid XML element names.
 public string Name { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XmpPdfAExtensionField](../)

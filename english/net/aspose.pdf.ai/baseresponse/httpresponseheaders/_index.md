@@ -17,10 +17,6 @@ Gets or sets the HTTP response headers.
 public HttpResponseHeaders HttpResponseHeaders { get; set; }
 ```
 
-### Property Value
-
-HttpResponseHeaders
-
 ### See Also
 
 * class [BaseResponse](../)

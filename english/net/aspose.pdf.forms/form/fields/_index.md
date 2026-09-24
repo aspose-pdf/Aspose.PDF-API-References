@@ -17,10 +17,6 @@ Gets list of all fields in lowest level of hierarhical form.
 public Field[] Fields { get; }
 ```
 
-### Property Value
-
-[Field](../../../aspose.pdf.forms/field/)[]
-
 ### See Also
 
 * class [Field](../../../aspose.pdf.forms/field/)

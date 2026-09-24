@@ -17,10 +17,6 @@ Gets or sets a flag specifying whether the annotation should initially be displa
 public bool Open { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextAnnotation](../)

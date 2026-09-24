@@ -21,10 +21,6 @@ If this property is not set, default value 0 will be used for each spacing.
 public string ColumnSpacing { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ColumnInfo](../)

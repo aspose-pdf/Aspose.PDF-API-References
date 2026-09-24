@@ -17,10 +17,6 @@ Gets or sets the line break style for generated document.
 public LineBreakStyle LineBreakStyle { get; set; }
 ```
 
-### Property Value
-
-[LineBreakStyle](../../../aspose.pdf/linebreakstyle/)
-
 ### See Also
 
 * class [LineBreakStyle](../../../aspose.pdf/linebreakstyle/)

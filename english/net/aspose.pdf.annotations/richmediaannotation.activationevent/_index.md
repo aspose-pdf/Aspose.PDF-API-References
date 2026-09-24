@@ -17,10 +17,10 @@ Event which activates annotation.
 public enum ActivationEvent
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Click | `0` | Activated by click on the annotation. |
 | PageOpen | `1` | Activated on page open. |
 | PageVisible | `2` | Activated when page becames visible. |

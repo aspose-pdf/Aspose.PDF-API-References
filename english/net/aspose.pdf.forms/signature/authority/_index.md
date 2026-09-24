@@ -17,10 +17,6 @@ The name of the person or authority signing the document.
 public string Authority { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Signature](../)

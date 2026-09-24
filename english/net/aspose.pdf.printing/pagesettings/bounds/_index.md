@@ -17,10 +17,6 @@ Gets the bounds of the page, taking into account the Landscape property.
 public Rectangle Bounds { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

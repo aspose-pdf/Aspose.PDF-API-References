@@ -17,10 +17,10 @@ The enumeration of states to which the original annotation can be set.
 public enum AnnotationState
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Not defined state. |
 | Marked | `1` | The annotation has been marked by the user. |
 | Unmarked | `2` | The annotation has not been marked by the user. |

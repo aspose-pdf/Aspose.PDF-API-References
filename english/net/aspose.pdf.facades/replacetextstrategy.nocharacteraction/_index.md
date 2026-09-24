@@ -17,10 +17,10 @@ Action to perform if font does not contain required character
 public enum NoCharacterAction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | ThrowException | `0` | Throw exception |
 | UseStandardFont | `1` | Repalce font to standard font which contains required character |
 | ReplaceAnyway | `2` | Replace text anyway without font substitution |

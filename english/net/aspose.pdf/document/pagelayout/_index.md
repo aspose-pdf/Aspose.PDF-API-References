@@ -17,10 +17,6 @@ Gets or sets page layout which shall be used when the document is opened.
 public PageLayout PageLayout { get; set; }
 ```
 
-### Property Value
-
-[PageLayout](../../../aspose.pdf/pagelayout/)
-
 ### See Also
 
 * class [PageLayout](../../../aspose.pdf/pagelayout/)

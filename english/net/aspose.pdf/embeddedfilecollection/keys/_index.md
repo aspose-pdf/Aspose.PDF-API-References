@@ -17,10 +17,6 @@ Returns list of file attachment keys.
 public List<string> Keys { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [EmbeddedFileCollection](../)

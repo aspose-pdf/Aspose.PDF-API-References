@@ -17,10 +17,6 @@ Gets and sets the edit operations order.
 public EditOperationsOrder EditOperationsOrder { get; set; }
 ```
 
-### Property Value
-
-[EditOperationsOrder](../../../aspose.pdf.comparison/editoperationsorder/)
-
 ### See Also
 
 * class [EditOperationsOrder](../../../aspose.pdf.comparison/editoperationsorder/)

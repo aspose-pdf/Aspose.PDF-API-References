@@ -18,10 +18,6 @@ Gets or sets the intended purpose of the file. Supported values are assistants,
 public string Purpose { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileResponse](../)

@@ -17,10 +17,6 @@ Gets or sets font size of the text.
 public float FontSize { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextState](../)

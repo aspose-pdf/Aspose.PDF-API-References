@@ -17,10 +17,6 @@ Gets or sets the model to use for the assistant.
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LlamaCopilotOptionsBase](../)

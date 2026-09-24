@@ -17,10 +17,6 @@ Gets or sets the file search tool resources.
 public FileSearch FileSearch { get; set; }
 ```
 
-### Property Value
-
-[FileSearch](../../../aspose.pdf.ai/filesearch/)
-
 ### See Also
 
 * class [FileSearch](../../../aspose.pdf.ai/filesearch/)

@@ -17,10 +17,6 @@ Gets or sets log probability information for the choice.
 public Logprobs Logprobs { get; set; }
 ```
 
-### Property Value
-
-[Logprobs](../../../aspose.pdf.ai/logprobs/)
-
 ### See Also
 
 * class [Logprobs](../../../aspose.pdf.ai/logprobs/)

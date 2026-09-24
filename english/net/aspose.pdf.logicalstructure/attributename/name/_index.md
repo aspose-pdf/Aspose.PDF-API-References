@@ -17,10 +17,6 @@ Gets name value of attribute.
 public string Name { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AttributeName](../)

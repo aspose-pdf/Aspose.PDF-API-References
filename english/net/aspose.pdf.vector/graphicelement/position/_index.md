@@ -18,10 +18,6 @@ Gets or sets the position in the current coordinate space.
 public Point Position { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

@@ -22,10 +22,6 @@ Gets or sets text CoordinateOrigin.
 public CoordinateOrigin CoordinateOrigin { get; set; }
 ```
 
-### Property Value
-
-[CoordinateOrigin](../../../aspose.pdf.text/coordinateorigin/)
-
 ### See Also
 
 * class [CoordinateOrigin](../../../aspose.pdf.text/coordinateorigin/)

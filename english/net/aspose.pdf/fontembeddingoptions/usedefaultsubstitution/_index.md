@@ -18,10 +18,6 @@ Indicates whether to substitute non-embedded font using default font substitutio
 public bool UseDefaultSubstitution { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FontEmbeddingOptions](../)

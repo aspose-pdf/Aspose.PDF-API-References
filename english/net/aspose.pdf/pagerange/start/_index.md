@@ -17,10 +17,6 @@ Gets or sets the starting page number.
 public int Start { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PageRange](../)

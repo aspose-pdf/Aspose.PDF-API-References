@@ -17,10 +17,6 @@ Gets or sets the ID of the assistant to use to execute this run.
 public string AssistantId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunCreateRequest](../)

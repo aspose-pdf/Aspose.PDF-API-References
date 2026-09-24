@@ -17,10 +17,6 @@ Gets or sets bold flag for the title text of this outline item
 public bool Bold { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OutlineItemCollection](../)

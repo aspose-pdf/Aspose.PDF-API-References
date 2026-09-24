@@ -17,10 +17,6 @@ Gets or sets the maximum number of prompt tokens that may be used over the cours
 public Nullable<int> MaxPromptTokens { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../)

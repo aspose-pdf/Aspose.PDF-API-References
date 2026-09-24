@@ -18,10 +18,6 @@ Gets or sets the month component of the date.
 public MonthComponent Month { get; set; }
 ```
 
-### Property Value
-
-MonthComponent
-
 ### See Also
 
 * class [PageDate](../)

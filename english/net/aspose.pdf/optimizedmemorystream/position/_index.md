@@ -17,10 +17,6 @@ When overridden in a derived class, gets or sets the position within the current
 public long Position { get; set; }
 ```
 
-### Property Value
-
-long
-
 ### See Also
 
 * class [OptimizedMemoryStream](../)

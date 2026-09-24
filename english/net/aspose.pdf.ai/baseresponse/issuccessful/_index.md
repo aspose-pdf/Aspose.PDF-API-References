@@ -17,10 +17,6 @@ Indicates if the response was successful.
 public bool IsSuccessful { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [BaseResponse](../)

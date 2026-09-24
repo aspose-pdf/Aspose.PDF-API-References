@@ -17,10 +17,6 @@ Gets or sets the setting for odd pages.
 public byte Odd { get; set; }
 ```
 
-### Property Value
-
-byte
-
 ### See Also
 
 * class [PageRange](../)

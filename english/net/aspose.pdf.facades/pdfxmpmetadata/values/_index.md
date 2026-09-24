@@ -17,10 +17,6 @@ Gets the collection of values in dictionary.
 public ICollection<XmpValue> Values { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<[XmpValue](../../../aspose.pdf/xmpvalue/)>
-
 ### See Also
 
 * class [PdfXmpMetadata](../)

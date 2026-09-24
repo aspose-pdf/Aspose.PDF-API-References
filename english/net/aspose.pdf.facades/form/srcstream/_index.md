@@ -22,10 +22,6 @@ Gets or sets source stream.
 public Stream SrcStream { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [Form](../)

@@ -18,10 +18,6 @@ If this flag set to true, every resource is checked on it's usage. If resource i
 public bool RemoveUnusedStreams { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

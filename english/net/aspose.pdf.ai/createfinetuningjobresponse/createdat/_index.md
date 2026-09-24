@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) of when the fine-tuning job was cre
 public long CreatedAt { get; set; }
 ```
 
-### Property Value
-
-long
-
 ### See Also
 
 * class [CreateFineTuningJobResponse](../)

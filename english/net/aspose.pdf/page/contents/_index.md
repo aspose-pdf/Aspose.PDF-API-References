@@ -18,10 +18,6 @@ Gets collection of operators in the content stream of the page.
 public OperatorCollection Contents { get; }
 ```
 
-### Property Value
-
-[OperatorCollection](../../../aspose.pdf/operatorcollection/)
-
 ### See Also
 
 * class [OperatorCollection](../../../aspose.pdf/operatorcollection/)

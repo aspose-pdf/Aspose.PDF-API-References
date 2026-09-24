@@ -17,10 +17,6 @@ Gets or sets a list of messages to start the thread with.
 public List<ThreadMessageCreateRequest> Messages { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)>
-
 ### See Also
 
 * class [ThreadCreateRequest](../)

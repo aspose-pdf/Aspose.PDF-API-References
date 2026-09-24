@@ -17,10 +17,6 @@ Gets collection of artifact internal operators.
 public List<Operator> Contents { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Operator](../../../aspose.pdf/operator/)>
-
 ### See Also
 
 * class [Artifact](../)

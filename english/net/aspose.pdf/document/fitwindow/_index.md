@@ -17,10 +17,6 @@ Gets or sets flag specifying whether document window must be resized to fit the 
 public bool FitWindow { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

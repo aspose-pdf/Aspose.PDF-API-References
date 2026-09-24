@@ -17,10 +17,6 @@ Gets or sets the width and height of the movie's bounding box, in pixels.
 public Point Aspect { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

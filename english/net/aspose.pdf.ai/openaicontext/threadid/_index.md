@@ -17,10 +17,6 @@ Gets or sets the Thread ID.
 public string ThreadId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIContext](../)

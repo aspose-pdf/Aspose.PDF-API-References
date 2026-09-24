@@ -18,10 +18,6 @@ Gets or sets what sampling temperature to use, between 0 and 2.
 public Nullable<double> Temperature { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

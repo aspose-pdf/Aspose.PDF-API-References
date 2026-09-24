@@ -17,10 +17,6 @@ Fonts will be converted into subsets if set to true.
 public bool SubsetFonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

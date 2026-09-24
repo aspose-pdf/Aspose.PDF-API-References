@@ -18,10 +18,6 @@ This parameter is used for grouping text lines into paragraphs.
 public float MaxDistanceBetweenTextLines { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [DocSaveOptions](../)

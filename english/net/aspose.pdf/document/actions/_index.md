@@ -17,10 +17,6 @@ Gets document actions. This property is instance of DocumentActions class which 
 public DocumentActionCollection Actions { get; }
 ```
 
-### Property Value
-
-[DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
-
 ### See Also
 
 * class [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)

@@ -18,10 +18,10 @@ A (Barcode) Symbology defines the technical details of a particular type of barc
 public enum Symbology
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | PDF417 | `0` | A multi-row, variable-length 2D symbology with high data capacity and error-correction capability. |
 | QRCode | `1` | QR code (short for Quick Response) is a specific matrix barcode (2D code), 
  readable by dedicated QR barcode readers and camera phones. |

@@ -19,10 +19,6 @@ Gets or sets s set of 16 key-value pairs that can be attached to an object. This
 public Dictionary<string, string> Metadata { get; set; }
 ```
 
-### Property Value
-
-Dictionary<string, string>
-
 ### See Also
 
 * class [VectorStoreResponse](../)

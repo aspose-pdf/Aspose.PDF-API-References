@@ -18,10 +18,6 @@ Gets or sets a list of tools the model may call. Currently, only functions are s
 public List<Tool> Tools { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Tool](../../../aspose.pdf.ai/tool/)>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

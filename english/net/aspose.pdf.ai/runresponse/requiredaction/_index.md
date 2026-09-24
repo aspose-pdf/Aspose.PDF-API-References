@@ -17,10 +17,6 @@ Gets or sets the details on the action required to continue the run. Will be nul
 public RequiredAction RequiredAction { get; set; }
 ```
 
-### Property Value
-
-[RequiredAction](../../../aspose.pdf.ai/requiredaction/)
-
 ### See Also
 
 * class [RequiredAction](../../../aspose.pdf.ai/requiredaction/)

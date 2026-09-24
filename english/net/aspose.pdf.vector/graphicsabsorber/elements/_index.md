@@ -17,10 +17,6 @@ Gets collection of search occurrences that are presented with [`GraphicElement`]
 public GraphicElementCollection Elements { get; }
 ```
 
-### Property Value
-
-[GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
-
 ### See Also
 
 * class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)

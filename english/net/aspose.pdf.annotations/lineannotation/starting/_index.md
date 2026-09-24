@@ -17,10 +17,6 @@ Gets or sets starting point of line.
 public Point Starting { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

@@ -17,10 +17,6 @@ Gets position of the character.
 public Position Position { get; }
 ```
 
-### Property Value
-
-[Position](../../../aspose.pdf.text/position/)
-
 ### See Also
 
 * class [Position](../../../aspose.pdf.text/position/)

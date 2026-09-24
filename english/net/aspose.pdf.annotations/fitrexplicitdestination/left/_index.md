@@ -17,10 +17,6 @@ Gets left horizontal coordinate of visible rectangle.
 public double Left { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FitRExplicitDestination](../)

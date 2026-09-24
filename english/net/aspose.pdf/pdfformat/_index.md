@@ -17,10 +17,10 @@ This class represents an pdf format.
 public enum PdfFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | PDF_A_1A | `0` | Pdf/A-1a format |
 | PDF_A_1B | `1` | Pdf/A-1b format |
 | PDF_A_2A | `2` | Pdf/A-2a format |

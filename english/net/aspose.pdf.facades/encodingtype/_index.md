@@ -17,10 +17,10 @@ Enumerates encoding types of the text using.
 public enum EncodingType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Identity_h | `0` | The Unicode encoding with horizontal writing. |
 | Identity_v | `1` | The Unicode encoding with vertical writing. |
 | Cp1250 | `2` | A windows text encoding name. |

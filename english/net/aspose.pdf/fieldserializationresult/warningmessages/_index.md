@@ -19,7 +19,7 @@ public HashSet<string> WarningMessages { get; }
 
 ### Property Value
 
-HashSet<string>
+A set of warning messages.
 
 ### See Also
 

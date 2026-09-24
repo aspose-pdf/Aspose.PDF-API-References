@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public IAppointment Item { get; set; }
 ```
 
-### Property Value
-
-[IAppointment](../../../aspose.pdf.annotations/iappointment/)
-
 ### See Also
 
 * class [IAppointment](../../../aspose.pdf.annotations/iappointment/)

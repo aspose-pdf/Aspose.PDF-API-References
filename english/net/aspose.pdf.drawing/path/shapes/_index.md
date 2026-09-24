@@ -17,10 +17,6 @@ Gets or sets shapes collection.
 public List<Shape> Shapes { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Shape](../../../aspose.pdf.drawing/shape/)>
-
 ### See Also
 
 * class [Path](../)

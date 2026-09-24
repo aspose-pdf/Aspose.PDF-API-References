@@ -19,10 +19,6 @@ Gets or sets the input file.
 public string InputFile { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

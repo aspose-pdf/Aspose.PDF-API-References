@@ -17,10 +17,6 @@ Gets page orientation. Returns true of this is landscape orientation and false i
 public bool IsLandscape { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PageSize](../)

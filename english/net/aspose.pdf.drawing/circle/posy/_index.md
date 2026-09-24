@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the y-coordinate of the center of the 
 public double PosY { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Circle](../)

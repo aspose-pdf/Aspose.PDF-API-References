@@ -17,10 +17,6 @@ Gets or sets action performed before document saving.
 public PdfAction BeforeSaving { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

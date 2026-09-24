@@ -17,10 +17,6 @@ Sets or gets how many chat completion choices to generate for each input message
 public Nullable<int> NumberOfChoices { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [LlamaChatCompletionRequest](../)

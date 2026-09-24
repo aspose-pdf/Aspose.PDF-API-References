@@ -18,10 +18,6 @@ Gets or sets the policy for adjusting the font size to fit within the bounds
 public FontSizeAdjustment FontSizeAdjustmentAction { get; set; }
 ```
 
-### Property Value
-
-FontSizeAdjustment
-
 ### See Also
 
 * class [TextReplaceOptions](../)

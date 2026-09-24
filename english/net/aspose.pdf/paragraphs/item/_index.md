@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public BaseParagraph Item { get; set; }
 ```
 
-### Property Value
-
-[BaseParagraph](../../../aspose.pdf/baseparagraph/)
-
 ### See Also
 
 * class [BaseParagraph](../../../aspose.pdf/baseparagraph/)

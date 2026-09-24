@@ -19,7 +19,7 @@ public double B { get; set; }
 
 ### Property Value
 
-double
+The level of blue from 0.0 to 1.0
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets all form submit button names.
 public string[] FormSubmitButtonNames { get; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [Form](../)

@@ -17,10 +17,6 @@ Gets or sets the number of files that have been successfully processed.
 public int Completed { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FileCounts](../)

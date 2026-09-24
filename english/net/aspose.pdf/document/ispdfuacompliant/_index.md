@@ -17,10 +17,6 @@ Gets the is document pdfua compliant.
 public bool IsPdfUaCompliant { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

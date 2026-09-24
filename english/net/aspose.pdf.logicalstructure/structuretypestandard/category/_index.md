@@ -19,7 +19,7 @@ public StructureTypeCategory Category { get; }
 
 ### Property Value
 
-[StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+Category of Standard Structure Type.
 
 ### See Also
 

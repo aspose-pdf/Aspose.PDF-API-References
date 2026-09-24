@@ -17,10 +17,6 @@ Gets the schema description.
 public XmpPdfAExtensionSchemaDescription Description { get; }
 ```
 
-### Property Value
-
-[XmpPdfAExtensionSchemaDescription](../../../aspose.pdf/xmppdfaextensionschemadescription/)
-
 ### See Also
 
 * class [XmpPdfAExtensionSchemaDescription](../../../aspose.pdf/xmppdfaextensionschemadescription/)

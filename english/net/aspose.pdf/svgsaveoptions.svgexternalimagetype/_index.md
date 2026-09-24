@@ -19,10 +19,10 @@ enumerates possible types of image files
 public enum SvgExternalImageType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Jpeg | `0` | Jpeg format |
 | Png | `1` | Png format |
 | Bmp | `2` | Bmp format |

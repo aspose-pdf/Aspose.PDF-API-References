@@ -17,10 +17,6 @@ Gets or sets rotation of the stamp in degrees.
 public float Rotation { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [Stamp](../)

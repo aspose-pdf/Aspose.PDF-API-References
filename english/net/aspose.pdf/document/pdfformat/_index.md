@@ -17,10 +17,6 @@ Gets PDF format
 public PdfFormat PdfFormat { get; }
 ```
 
-### Property Value
-
-[PdfFormat](../../../aspose.pdf/pdfformat/)
-
 ### See Also
 
 * class [PdfFormat](../../../aspose.pdf/pdfformat/)

@@ -17,10 +17,6 @@ Gets attribute key.
 public AttributeKey AttributeKey { get; }
 ```
 
-### Property Value
-
-[AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
-
 ### See Also
 
 * class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)

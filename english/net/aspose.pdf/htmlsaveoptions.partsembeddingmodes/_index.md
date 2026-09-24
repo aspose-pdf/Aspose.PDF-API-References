@@ -19,10 +19,10 @@ This enum enumerates possible modes of embedding of files referenced in HTML
 public enum PartsEmbeddingModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | EmbedAllIntoHtml | `0` | Enforces embed all referenced files(Css,Images,Fonts) into generated HTML markup (i.e. into HTML itself)
  This approach generates one HTML file, but total size of output 
  becames bigger(because Base64 encoding of binaries is in use) and not all browsers (especially legacy) 

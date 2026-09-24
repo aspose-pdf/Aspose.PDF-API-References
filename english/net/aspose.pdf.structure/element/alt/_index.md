@@ -19,10 +19,6 @@ product_version: "26.9.0"
 public string Alt { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Element](../)

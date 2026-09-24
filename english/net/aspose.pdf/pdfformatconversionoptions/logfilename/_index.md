@@ -17,10 +17,6 @@ Path to file where comments will be stored.
 public string LogFileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

@@ -19,7 +19,7 @@ public Element ParentElement { get; }
 
 ### Property Value
 
-[Element](../../../aspose.pdf.structure/element/)
+Parent element.
 
 ### See Also
 

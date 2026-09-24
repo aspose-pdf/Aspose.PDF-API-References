@@ -17,10 +17,6 @@ Gets or sets a `Shapes` collection that indicates all shapes in the graph.
 public BoundsCheckableList<Shape> Shapes { get; set; }
 ```
 
-### Property Value
-
-BoundsCheckableList<[Shape](../../../aspose.pdf.drawing/shape/)>
-
 ### See Also
 
 * class [Graph](../)

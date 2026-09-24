@@ -17,10 +17,6 @@ Gets or sets space to allocate at the bottom of the icon.
 public double LeftoverBottom { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [IconFit](../)

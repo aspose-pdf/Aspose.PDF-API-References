@@ -17,10 +17,6 @@ Gets or sets a object that indicates bottom of the border.
 public GraphInfo Bottom { get; set; }
 ```
 
-### Property Value
-
-[GraphInfo](../../../aspose.pdf/graphinfo/)
-
 ### See Also
 
 * class [GraphInfo](../../../aspose.pdf/graphinfo/)

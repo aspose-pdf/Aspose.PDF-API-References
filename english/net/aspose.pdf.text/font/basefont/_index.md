@@ -17,10 +17,6 @@ Gets BaseFont value of PDF font object. Also known as PostScript name of the fon
 public string BaseFont { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Font](../)

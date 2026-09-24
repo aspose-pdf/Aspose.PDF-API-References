@@ -19,7 +19,7 @@ public int Count { get; }
 
 ### Property Value
 
-int
+The views count.
 
 ### See Also
 

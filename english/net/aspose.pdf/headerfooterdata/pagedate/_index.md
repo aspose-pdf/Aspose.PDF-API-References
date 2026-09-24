@@ -17,10 +17,6 @@ Gets or sets the date settings.
 public PageDate PageDate { get; set; }
 ```
 
-### Property Value
-
-[PageDate](../../../aspose.pdf/pagedate/)
-
 ### See Also
 
 * class [PageDate](../../../aspose.pdf/pagedate/)

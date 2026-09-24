@@ -18,10 +18,6 @@ Gets or sets an optional name for the participant. Provides the model informatio
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ChatMessageResponse](../)

@@ -17,10 +17,6 @@ Gets and sets the bounding rectangle that defines the extraction area for SVG ex
 public Rectangle ExtractionAreaBound { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

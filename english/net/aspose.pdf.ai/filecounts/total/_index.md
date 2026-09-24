@@ -17,10 +17,6 @@ Gets or sets the total number of files in the vector store.
 public int Total { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FileCounts](../)

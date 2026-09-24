@@ -17,10 +17,10 @@ The type of scaling that shall be used.
 public enum ScalingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Proportional | `0` | Scale the icon to fit the width or height of the annotation rectangle while maintaining the icon's original aspect ratio. |
 | Anamorphic | `1` | Scale the icon to fill the annotation rectangle exactly. |
 

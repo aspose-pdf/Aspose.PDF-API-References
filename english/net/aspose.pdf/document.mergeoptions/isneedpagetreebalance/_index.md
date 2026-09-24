@@ -19,10 +19,6 @@ Gets and sets the requirement for page tree balancing
 public bool IsNeedPageTreeBalance { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document.MergeOptions](../)

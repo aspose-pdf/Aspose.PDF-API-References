@@ -17,10 +17,6 @@ Gets or sets layout option.
 public HtmlPageLayoutOption PageLayoutOption { get; set; }
 ```
 
-### Property Value
-
-[HtmlPageLayoutOption](../../../aspose.pdf/htmlpagelayoutoption/)
-
 ### See Also
 
 * class [HtmlPageLayoutOption](../../../aspose.pdf/htmlpagelayoutoption/)

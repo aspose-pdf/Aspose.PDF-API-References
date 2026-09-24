@@ -17,10 +17,6 @@ Gets or sets tool call that this message is responding to.
 public string ToolCallId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ChatMessage](../)

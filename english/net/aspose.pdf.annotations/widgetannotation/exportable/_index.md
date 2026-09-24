@@ -17,10 +17,6 @@ Gets or sets exportable flag of the field.
 public bool Exportable { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [WidgetAnnotation](../)

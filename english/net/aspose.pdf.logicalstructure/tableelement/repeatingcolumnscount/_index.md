@@ -17,10 +17,6 @@ Gets or sets the maximum columns count for table.
 public int RepeatingColumnsCount { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TableElement](../)

@@ -17,10 +17,6 @@ The date and time when the embedded file was last modified.
 public DateTime ModDate { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [FileParams](../)

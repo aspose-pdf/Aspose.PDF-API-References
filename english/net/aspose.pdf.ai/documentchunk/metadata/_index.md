@@ -19,7 +19,7 @@ public IDictionary<string, string> Metadata { get; }
 
 ### Property Value
 
-[IDictionary](https://learn.microsoft.com/dotnet/api/system.collections.generic.idictionary-2)<string, string>
+A dictionary containing key-value pairs of metadata.
 
 ### See Also
 

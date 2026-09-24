@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public KeyValuePair<string, object> Item { get; }
 ```
 
-### Property Value
-
-KeyValuePair<string, object>
-
 ### See Also
 
 * class [DestinationCollection](../)

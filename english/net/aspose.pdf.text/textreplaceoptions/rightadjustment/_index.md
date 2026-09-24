@@ -19,10 +19,6 @@ Sets or gets right position adjustment for replaced text when using TextReplaceO
 public double RightAdjustment { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextReplaceOptions](../)

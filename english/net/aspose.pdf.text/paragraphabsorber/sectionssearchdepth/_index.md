@@ -23,10 +23,6 @@ Increasing of this value may lead to minor decreasing performance with no visibl
 public int SectionsSearchDepth { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ParagraphAbsorber](../)

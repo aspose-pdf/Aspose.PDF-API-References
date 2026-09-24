@@ -19,7 +19,7 @@ public string ViewName { get; set; }
 
 ### Property Value
 
-string
+The name of the view.
 
 ### See Also
 

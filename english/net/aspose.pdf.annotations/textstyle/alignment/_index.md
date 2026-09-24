@@ -19,10 +19,6 @@ Gets or sets horizontal alignment of the text.
 public TextAlignment Alignment { get; set; }
 ```
 
-### Property Value
-
-[TextAlignment](../../../aspose.pdf.annotations/textalignment/)
-
 ### See Also
 
 * class [TextAlignment](../../../aspose.pdf.annotations/textalignment/)

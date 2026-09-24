@@ -19,10 +19,6 @@ Gets or sets input text to embed, encoded as a string or array of tokens. To emb
 public string Input { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateEmbeddingRequest](../)

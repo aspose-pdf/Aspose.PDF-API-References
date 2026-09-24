@@ -19,10 +19,6 @@ Gets or sets the background image file.
 public string BackgroundImageFile { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Cell](../)

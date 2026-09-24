@@ -17,10 +17,6 @@ Gets or sets the center alignment settings.
 public Center Center { get; set; }
 ```
 
-### Property Value
-
-[Center](../../../aspose.pdf/center/)
-
 ### See Also
 
 * class [Center](../../../aspose.pdf/center/)

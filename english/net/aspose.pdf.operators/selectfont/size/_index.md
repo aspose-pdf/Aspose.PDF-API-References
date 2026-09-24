@@ -17,10 +17,6 @@ Size of text.
 public double Size { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SelectFont](../)

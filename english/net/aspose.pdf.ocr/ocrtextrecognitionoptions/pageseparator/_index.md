@@ -17,10 +17,6 @@ Gets or sets the string inserted between recognized texts of consecutive pages. 
 public string PageSeparator { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OcrTextRecognitionOptions](../)

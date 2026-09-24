@@ -17,10 +17,6 @@ Gets the heading should be numered automatically.
 public bool IsAutoSequence { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Heading](../)

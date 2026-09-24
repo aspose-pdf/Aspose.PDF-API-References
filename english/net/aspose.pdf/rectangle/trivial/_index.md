@@ -17,10 +17,6 @@ Initializes trivial rectangle i.e. rectangle with zero position and size.
 public Rectangle Trivial { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

@@ -18,10 +18,6 @@ Gets or sets a value indicating whether the search index and private information
 public bool RemoveSearchIndexAndPrivateInfo { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

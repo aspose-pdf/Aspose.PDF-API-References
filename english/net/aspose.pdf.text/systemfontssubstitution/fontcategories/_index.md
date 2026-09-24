@@ -17,10 +17,6 @@ Gets or sets substitution font categories that should be substituted with system
 public SubstitutionFontCategories FontCategories { get; set; }
 ```
 
-### Property Value
-
-[SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)
-
 ### See Also
 
 * class [SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)

@@ -17,10 +17,6 @@ ImportIntoDatabase will create table if it does not exists.
 public bool CreateMissingTable { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FormDataConverter](../)

@@ -17,10 +17,6 @@ Gets or sets the yellow component.
 public double Y { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCMYKColorStroke](../)

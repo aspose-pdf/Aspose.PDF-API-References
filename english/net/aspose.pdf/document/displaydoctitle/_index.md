@@ -17,10 +17,6 @@ Gets or sets flag specifying whether document's window title bar should display 
 public bool DisplayDocTitle { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

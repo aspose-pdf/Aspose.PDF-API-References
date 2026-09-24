@@ -17,10 +17,6 @@ Gets permissions of the document.
 public int Permissions { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Document](../)

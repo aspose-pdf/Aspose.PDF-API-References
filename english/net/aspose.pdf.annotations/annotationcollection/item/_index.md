@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public Annotation Item { get; }
 ```
 
-### Property Value
-
-[Annotation](../../../aspose.pdf.annotations/annotation/)
-
 ### See Also
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)

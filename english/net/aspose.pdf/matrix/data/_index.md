@@ -17,10 +17,6 @@ Gets data of Matrix as array.
 public double[] Data { get; }
 ```
 
-### Property Value
-
-double[]
-
 ### See Also
 
 * class [Matrix](../)

@@ -19,7 +19,7 @@ public List<Layer> Layers { get; set; }
 
 ### Property Value
 
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Layer](../../../aspose.pdf/layer/)>
+The layers collection.
 
 ### See Also
 

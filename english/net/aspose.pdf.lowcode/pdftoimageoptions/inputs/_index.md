@@ -17,10 +17,6 @@ Returns [`PdfToImage`](../../../aspose.pdf.lowcode/pdftoimage/) plugin data coll
 public List<IDataSource> Inputs { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[IDataSource](../../../aspose.pdf.lowcode/idatasource/)>
-
 ### See Also
 
 * class [PdfToImageOptions](../)

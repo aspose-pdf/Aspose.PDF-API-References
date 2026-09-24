@@ -18,10 +18,6 @@ Gets and sets the maximum nodes in pages tree level.
 public byte MaximumNodesInLevel { get; set; }
 ```
 
-### Property Value
-
-byte
-
 ### See Also
 
 * class [Document.MergeOptions](../)

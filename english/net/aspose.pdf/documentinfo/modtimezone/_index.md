@@ -17,10 +17,6 @@ Time zone of modification date.
 public TimeSpan ModTimeZone { get; set; }
 ```
 
-### Property Value
-
-TimeSpan
-
 ### See Also
 
 * class [DocumentInfo](../)

@@ -19,10 +19,6 @@ Gets or sets a flag determines whether new imaging engine is used or not.
 public bool UseNewImagingEngine { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

@@ -19,7 +19,7 @@ public bool Visibility { get; set; }
 
 ### Property Value
 
-bool
+`true` if visible; otherwise, `false`.
 
 ### See Also
 

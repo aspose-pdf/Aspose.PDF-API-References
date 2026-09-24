@@ -17,10 +17,6 @@ Gets an outline item representing the first top-level item in the outline.
 public OutlineItemCollection First { get; }
 ```
 
-### Property Value
-
-[OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
-
 ### See Also
 
 * class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)

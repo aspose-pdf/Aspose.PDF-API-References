@@ -17,10 +17,6 @@ Gets or sets the offset to be added to the page index.
 public int Offset { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PageNumber](../)

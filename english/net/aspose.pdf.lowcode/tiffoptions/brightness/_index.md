@@ -20,7 +20,7 @@ public float Brightness { get; set; }
 
 ### Property Value
 
-float
+Value of brightness should be in the range from 0 to 1. By default value is equal to 0.33f
 
 ### See Also
 

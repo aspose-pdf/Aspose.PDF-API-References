@@ -17,10 +17,6 @@ Sets options for combo box with export values.
 public string[][] ExportItems { get; set; }
 ```
 
-### Property Value
-
-string[][]
-
 ### See Also
 
 * class [FormEditor](../)

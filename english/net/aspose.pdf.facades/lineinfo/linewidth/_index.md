@@ -17,10 +17,6 @@ Gets or sets the width of a line.
 public int LineWidth { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [LineInfo](../)

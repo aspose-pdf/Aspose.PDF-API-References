@@ -17,10 +17,6 @@ Gets or sets text position for text, represented with [`TextFragment`](../../../
 public Position Position { get; set; }
 ```
 
-### Property Value
-
-[Position](../../../aspose.pdf.text/position/)
-
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

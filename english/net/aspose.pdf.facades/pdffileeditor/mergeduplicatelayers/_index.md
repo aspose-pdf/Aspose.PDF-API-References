@@ -18,10 +18,6 @@ Optional contents of concatentated documents with equal names will be merged int
 public bool MergeDuplicateLayers { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

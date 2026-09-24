@@ -17,10 +17,6 @@ Returns internal rectnagle of annotation, i.e. rectangle recalculated according 
 protected internal Rectangle InnerRect { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

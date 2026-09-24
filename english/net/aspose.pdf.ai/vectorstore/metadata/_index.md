@@ -20,10 +20,6 @@ Gets or sets a set of 16 key-value pairs that can be attached to a vector store.
 public Dictionary<string, string> Metadata { get; set; }
 ```
 
-### Property Value
-
-Dictionary<string, string>
-
 ### See Also
 
 * class [VectorStore](../)

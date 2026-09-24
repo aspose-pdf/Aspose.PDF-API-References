@@ -17,10 +17,6 @@ Gets or sets the unique identifier of the message.
 public string MessageId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MessageCreation](../)

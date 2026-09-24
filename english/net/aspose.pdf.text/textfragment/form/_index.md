@@ -19,10 +19,6 @@ The value can be null in case the TextFragment object doesn't belong to a form.
 public XForm Form { get; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

@@ -17,10 +17,6 @@ Type of the PDF object (Page or xForm) in which contents stream text extraction 
 public string ObjectType { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionErrorLocation](../)

@@ -18,10 +18,6 @@ Gets true if value is expressed in percents;
 public bool IsPercent { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeValue](../)

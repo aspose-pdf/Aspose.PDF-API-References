@@ -17,10 +17,6 @@ Get and set a text style for non changed text.
 public TextStyle EqualStyle { get; set; }
 ```
 
-### Property Value
-
-[TextStyle](../../../aspose.pdf.comparison/textstyle/)
-
 ### See Also
 
 * class [TextStyle](../../../aspose.pdf.comparison/textstyle/)

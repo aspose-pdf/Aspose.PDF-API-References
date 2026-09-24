@@ -17,10 +17,6 @@ Gets or sets the model that the assistant used for this run.
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunResponse](../)

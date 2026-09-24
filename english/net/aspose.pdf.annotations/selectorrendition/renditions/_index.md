@@ -17,10 +17,6 @@ Gets array of renditions.
 public Rendition[] Renditions { get; }
 ```
 
-### Property Value
-
-[Rendition](../../../aspose.pdf.annotations/rendition/)[]
-
 ### See Also
 
 * class [Rendition](../../../aspose.pdf.annotations/rendition/)

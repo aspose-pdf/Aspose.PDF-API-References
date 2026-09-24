@@ -17,10 +17,6 @@ Gets or sets the ID of the vector store that the File is attached to.
 public string VectorStoreId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [VectorStoreFileResponse](../)

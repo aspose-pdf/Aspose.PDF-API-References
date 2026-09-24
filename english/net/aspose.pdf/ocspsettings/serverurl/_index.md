@@ -17,10 +17,6 @@ Gets and sets the ocsp server url.
 public string ServerUrl { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OcspSettings](../)

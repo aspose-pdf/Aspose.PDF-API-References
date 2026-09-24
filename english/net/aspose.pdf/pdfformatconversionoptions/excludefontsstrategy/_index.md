@@ -20,10 +20,6 @@ Strategy(ies) to exclude superfluous fonts and reduce document file size.
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 ```
 
-### Property Value
-
-RemoveFontsStrategy
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

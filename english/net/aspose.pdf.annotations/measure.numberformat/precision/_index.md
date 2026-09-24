@@ -17,10 +17,6 @@ If FractionDisplayment is ShowAsDecimal, this value is precision of fractional v
 public int Precision { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

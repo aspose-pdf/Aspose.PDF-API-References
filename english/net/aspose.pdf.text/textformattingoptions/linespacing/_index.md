@@ -18,10 +18,6 @@ Gets or sets line spacing mode.
 public LineSpacingMode LineSpacing { get; set; }
 ```
 
-### Property Value
-
-LineSpacingMode
-
 ### See Also
 
 * class [TextFormattingOptions](../)

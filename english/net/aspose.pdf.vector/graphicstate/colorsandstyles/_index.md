@@ -17,10 +17,6 @@ Gets the operators representing colorspaces, colors and line styles.
 public SortedDictionary<byte, Operator> ColorsAndStyles { get; }
 ```
 
-### Property Value
-
-SortedDictionary<byte, [Operator](../../../aspose.pdf/operator/)>
-
 ### See Also
 
 * class [GraphicState](../)

@@ -17,10 +17,6 @@ Gets the layer id.
 public string Id { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Layer](../)

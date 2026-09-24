@@ -17,10 +17,6 @@ Gets or sets the name of the assistant.
 public string AssistantName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIChatCopilotOptions](../)

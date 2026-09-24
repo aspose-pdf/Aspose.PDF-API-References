@@ -17,10 +17,6 @@ Stamp ID of next added stamp (incluiding page headers/hooters/page numbers).
 public int StampId { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfFileStamp](../)

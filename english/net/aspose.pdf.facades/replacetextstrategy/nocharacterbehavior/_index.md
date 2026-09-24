@@ -18,10 +18,6 @@ Action which is performed when no approppriate font found for changed text
 public NoCharacterAction NoCharacterBehavior { get; set; }
 ```
 
-### Property Value
-
-NoCharacterAction
-
 ### See Also
 
 * class [ReplaceTextStrategy](../)

@@ -17,10 +17,6 @@ Gets or sets the segment hyperlink(for pdf generator).
 public Hyperlink Hyperlink { get; set; }
 ```
 
-### Property Value
-
-[Hyperlink](../../../aspose.pdf/hyperlink/)
-
 ### See Also
 
 * class [Hyperlink](../../../aspose.pdf/hyperlink/)

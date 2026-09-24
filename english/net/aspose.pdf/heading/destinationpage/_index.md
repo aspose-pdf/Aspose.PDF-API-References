@@ -17,10 +17,6 @@ Gets the destination page.
 public Page DestinationPage { get; set; }
 ```
 
-### Property Value
-
-[Page](../../../aspose.pdf/page/)
-
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)

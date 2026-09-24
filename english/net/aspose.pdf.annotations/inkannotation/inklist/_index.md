@@ -17,10 +17,6 @@ Gets or sets list of gestures that are independent lines which are represented b
 public IList<Point[]> InkList { get; set; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[Point](../../../aspose.pdf/point/)[]>
-
 ### See Also
 
 * class [InkAnnotation](../)

@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the left position of the rectangle.
 public double Left { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

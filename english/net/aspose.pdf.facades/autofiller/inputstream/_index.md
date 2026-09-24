@@ -19,10 +19,6 @@ Gets or sets the input template stream. One of two input modes.
 public Stream InputStream { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [AutoFiller](../)

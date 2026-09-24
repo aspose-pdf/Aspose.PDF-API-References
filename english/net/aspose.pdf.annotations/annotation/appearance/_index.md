@@ -17,10 +17,6 @@ Gets appearance dictionary of the annotation.
 public AppearanceDictionary Appearance { get; }
 ```
 
-### Property Value
-
-[AppearanceDictionary](../../../aspose.pdf.annotations/appearancedictionary/)
-
 ### See Also
 
 * class [AppearanceDictionary](../../../aspose.pdf.annotations/appearancedictionary/)

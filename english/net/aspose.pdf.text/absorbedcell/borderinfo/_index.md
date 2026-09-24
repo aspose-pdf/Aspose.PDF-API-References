@@ -17,10 +17,6 @@ Return the border information for the cell when the FlowEngine.TableAbsorber.Use
 public BorderInfo BorderInfo { get; }
 ```
 
-### Property Value
-
-[BorderInfo](../../../aspose.pdf/borderinfo/)
-
 ### See Also
 
 * class [BorderInfo](../../../aspose.pdf/borderinfo/)

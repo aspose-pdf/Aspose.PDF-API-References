@@ -17,10 +17,6 @@ Allows to remove data before pdf data.
 public bool UseTrimTop { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileSanitization](../)

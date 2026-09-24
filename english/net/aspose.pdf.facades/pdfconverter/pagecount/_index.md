@@ -17,10 +17,6 @@ Gets the page count.
 public int PageCount { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfConverter](../)

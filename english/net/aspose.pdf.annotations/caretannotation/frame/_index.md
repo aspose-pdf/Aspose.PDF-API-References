@@ -17,10 +17,6 @@ Gets or sets caret rectangle.
 public Rectangle Frame { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

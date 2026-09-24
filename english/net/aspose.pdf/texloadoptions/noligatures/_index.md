@@ -17,10 +17,6 @@ Gets/sets a flag that cancels ligatures in all fonts.
 public bool NoLigatures { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TeXLoadOptions](../)

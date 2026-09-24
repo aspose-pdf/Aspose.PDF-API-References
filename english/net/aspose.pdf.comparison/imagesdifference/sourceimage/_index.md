@@ -17,10 +17,6 @@ Gets the image of first compared page. The image has a pixel format is 24bpp.
 public Bitmap SourceImage { get; }
 ```
 
-### Property Value
-
-Bitmap
-
 ### See Also
 
 * class [ImagesDifference](../)

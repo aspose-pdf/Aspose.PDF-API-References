@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the right margin.
 public double Right { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [MarginInfo](../)

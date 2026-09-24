@@ -30,10 +30,6 @@ Array of encountered problems when concatenation was performed. For every corrup
 public CorruptedItem[] CorruptedItems { get; }
 ```
 
-### Property Value
-
-CorruptedItem[]
-
 ### See Also
 
 * class [PdfFileEditor](../)

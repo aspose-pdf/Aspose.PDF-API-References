@@ -17,10 +17,6 @@ Gets or sets the invisibility of text. This basically reflects the `RenderingMod
 public bool Invisible { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextState](../)

@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public T0 Item { get; set; }
 ```
 
-### Property Value
-
-T0
-
 ### See Also
 
 * class [BoundsCheckableList<T>](../)

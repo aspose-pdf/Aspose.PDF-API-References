@@ -17,10 +17,6 @@ Gets or sets the number of files that were cancelled.
 public int Cancelled { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FileCounts](../)

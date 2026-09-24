@@ -17,10 +17,6 @@ Gets or sets resolution during convertting. The higher resolution, the slower co
 public Resolution Resolution { get; set; }
 ```
 
-### Property Value
-
-[Resolution](../../../aspose.pdf.devices/resolution/)
-
 ### See Also
 
 * class [Resolution](../../../aspose.pdf.devices/resolution/)

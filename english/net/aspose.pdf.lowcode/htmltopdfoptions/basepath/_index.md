@@ -17,10 +17,6 @@ The base path/url for the html file.
 public string BasePath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [HtmlToPdfOptions](../)

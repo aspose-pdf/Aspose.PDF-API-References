@@ -19,10 +19,6 @@ Some operations are not available with fonts that could not be found in the syst
 public bool IsAccessible { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

@@ -17,10 +17,6 @@ Gets or sets document page info
 public PageInfo PageInfo { get; }
 ```
 
-### Property Value
-
-[PageInfo](../../../aspose.pdf/pageinfo/)
-
 ### See Also
 
 * class [PageInfo](../../../aspose.pdf/pageinfo/)

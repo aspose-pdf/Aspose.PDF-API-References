@@ -17,10 +17,6 @@ The diff operation type.
 public DiffOperation Operation { get; }
 ```
 
-### Property Value
-
-[DiffOperation](../../../aspose.pdf.comparison/diffoperation/)
-
 ### See Also
 
 * class [DiffOperation](../../../aspose.pdf.comparison/diffoperation/)

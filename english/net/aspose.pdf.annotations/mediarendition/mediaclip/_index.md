@@ -17,10 +17,6 @@ Gets or sets media clip obkects associated with rendition.
 public MediaClip MediaClip { get; }
 ```
 
-### Property Value
-
-[MediaClip](../../../aspose.pdf.annotations/mediaclip/)
-
 ### See Also
 
 * class [MediaClip](../../../aspose.pdf.annotations/mediaclip/)

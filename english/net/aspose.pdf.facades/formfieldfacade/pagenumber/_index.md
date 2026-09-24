@@ -17,10 +17,6 @@ An integer value holding the number of page on which field locates.
 public int PageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FormFieldFacade](../)

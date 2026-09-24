@@ -17,10 +17,6 @@ Gets or sets the type of display bookmark's destination page.
 public string PageDisplay { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Bookmark](../)

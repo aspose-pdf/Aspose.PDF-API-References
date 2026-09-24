@@ -18,10 +18,6 @@ Gets or sets file citations are created by the file_search tool and define refer
 public FileCitation FileCitation { get; set; }
 ```
 
-### Property Value
-
-[FileCitation](../../../aspose.pdf.ai/filecitation/)
-
 ### See Also
 
 * class [FileCitation](../../../aspose.pdf.ai/filecitation/)

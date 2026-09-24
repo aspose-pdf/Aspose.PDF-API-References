@@ -17,10 +17,6 @@ Version of library used.
 public string LibraryVersion { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CrashReportOptions](../)

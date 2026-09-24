@@ -17,10 +17,6 @@ Gets or sets tab order of the field.
 public int TabOrder { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Field](../)

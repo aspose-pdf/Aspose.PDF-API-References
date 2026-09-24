@@ -17,10 +17,6 @@ Gets or sets border included in column widhts.
 public bool IsBordersIncluded { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TableElement](../)

@@ -17,10 +17,6 @@ Gets or sets starting value of the page numbering range.
 public int StartingValue { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PageLabel](../)

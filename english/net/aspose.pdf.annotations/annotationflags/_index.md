@@ -17,10 +17,10 @@ A set of flags specifying various characteristics of the annotation.
 public enum AnnotationFlags
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | Default value. |
 | Invisible | `1` | If set, do not display the annotation if it does not belong to one of the standard annotation types
  and no annotation handler is available. If clear, display such an unknown annotation

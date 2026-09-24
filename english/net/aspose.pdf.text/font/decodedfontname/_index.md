@@ -26,10 +26,6 @@ Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificic
 public string DecodedFontName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Font](../)

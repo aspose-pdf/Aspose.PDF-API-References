@@ -17,10 +17,6 @@ Gets formatting mode.
 public TextFormattingMode FormattingMode { get; set; }
 ```
 
-### Property Value
-
-TextFormattingMode
-
 ### See Also
 
 * class [TextExtractionOptions](../)

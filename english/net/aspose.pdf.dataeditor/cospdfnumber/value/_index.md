@@ -19,7 +19,7 @@ public double Value { get; }
 
 ### Property Value
 
-double
+The value.
 
 ### See Also
 

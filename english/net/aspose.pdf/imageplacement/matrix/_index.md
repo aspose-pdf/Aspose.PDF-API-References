@@ -17,10 +17,6 @@ Current transformation matrix for this image.
 public Matrix Matrix { get; }
 ```
 
-### Property Value
-
-[Matrix](../../../aspose.pdf/matrix/)
-
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)

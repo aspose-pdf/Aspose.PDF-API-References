@@ -19,7 +19,7 @@ public StructureElement RootElement { get; }
 
 ### Property Value
 
-[StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
+Root [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) of logical structure of PDF document.
 
 ### See Also
 

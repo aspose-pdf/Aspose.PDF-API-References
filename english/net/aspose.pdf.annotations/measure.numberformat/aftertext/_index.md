@@ -17,10 +17,6 @@ Text that shall be concatenated after the label
 public string AfterText { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

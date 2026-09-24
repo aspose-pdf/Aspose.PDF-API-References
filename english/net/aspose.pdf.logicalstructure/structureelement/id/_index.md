@@ -19,7 +19,7 @@ public string ID { get; }
 
 ### Property Value
 
-string
+ID of the structure element.
 
 ### See Also
 

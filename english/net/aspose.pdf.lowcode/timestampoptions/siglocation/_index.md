@@ -17,10 +17,6 @@ Location for the signature.
 public string SigLocation { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TimestampOptions](../)

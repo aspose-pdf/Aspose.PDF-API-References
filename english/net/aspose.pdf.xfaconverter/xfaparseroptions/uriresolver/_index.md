@@ -19,7 +19,7 @@ public UriResolver UriResolver { get; set; }
 
 ### Property Value
 
-UriResolver
+The URI resolver.
 
 ### See Also
 

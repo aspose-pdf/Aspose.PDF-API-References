@@ -17,10 +17,10 @@ Property category: internal or external.
 public enum XmpPdfAExtensionCategoryType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Internal | `0` | Internal properties are created automatically from document content. |
 | External | `1` | External properties are based on user input. |
 

@@ -17,10 +17,6 @@ A number format array for measurement of distance in any direction.
 public NumberFormatList DistanceFormat { get; set; }
 ```
 
-### Property Value
-
-NumberFormatList
-
 ### See Also
 
 * class [Measure](../)

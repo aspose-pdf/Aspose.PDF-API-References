@@ -18,10 +18,6 @@ Sets the permission which allow fill in forms or not.
 public bool AllowFillIn { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocumentPrivilege](../)

@@ -19,7 +19,7 @@ public PDF3DRenderMode RenderMode { get; }
 
 ### Property Value
 
-[PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
+The render mode.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets or sets border style.
 public BorderStyle Style { get; set; }
 ```
 
-### Property Value
-
-[BorderStyle](../../../aspose.pdf.annotations/borderstyle/)
-
 ### See Also
 
 * class [BorderStyle](../../../aspose.pdf.annotations/borderstyle/)

@@ -17,10 +17,6 @@ Y - coordinate of upper-right corner.
 public double URY { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

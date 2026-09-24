@@ -21,10 +21,6 @@ Gets or sets a flag which enables/disables special conversion mode to get PDF/A 
 public bool OptimizeFileSize { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

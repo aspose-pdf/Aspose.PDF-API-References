@@ -17,10 +17,6 @@ Gets or sets a file specification identifying a self-describing movie file.
 public FileSpecification File { get; set; }
 ```
 
-### Property Value
-
-[FileSpecification](../../../aspose.pdf/filespecification/)
-
 ### See Also
 
 * class [FileSpecification](../../../aspose.pdf/filespecification/)

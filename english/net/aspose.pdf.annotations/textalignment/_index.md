@@ -19,10 +19,10 @@ Alignment of text in annotation.
 public enum TextAlignment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Left | `0` | Text is aligned to left. |
 | Center | `1` | Text is centered. |
 | Right | `2` | Text is aligned to right. |

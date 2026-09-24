@@ -17,10 +17,6 @@ Output format
 public ExcelFormat Format { get; set; }
 ```
 
-### Property Value
-
-ExcelFormat
-
 ### See Also
 
 * class [ExcelSaveOptions](../)

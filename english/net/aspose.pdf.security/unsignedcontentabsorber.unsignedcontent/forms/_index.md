@@ -17,10 +17,6 @@ Gets form fields that have been incrementally changed or added.
 public List<WidgetAnnotation> Forms { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)>
-
 ### See Also
 
 * class [UnsignedContentAbsorber.UnsignedContent](../)

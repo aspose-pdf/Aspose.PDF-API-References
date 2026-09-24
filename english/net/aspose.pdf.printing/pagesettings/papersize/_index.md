@@ -17,10 +17,6 @@ Gets or sets the paper size.
 public PaperSize PaperSize { get; set; }
 ```
 
-### Property Value
-
-[PaperSize](../../../aspose.pdf.printing/papersize/)
-
 ### See Also
 
 * class [PaperSize](../../../aspose.pdf.printing/papersize/)

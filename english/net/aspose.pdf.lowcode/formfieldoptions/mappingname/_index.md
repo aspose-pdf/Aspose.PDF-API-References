@@ -17,10 +17,6 @@ Gets/sets the value to determine property MappingName for created/modified field
 public string MappingName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FormFieldOptions](../)

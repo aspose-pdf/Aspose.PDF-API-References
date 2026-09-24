@@ -17,10 +17,10 @@ Defines different modes which can be used while extracting images from documents
 public enum ExtractImageMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | DefinedInResources | `0` | Defines image extraction mode in which all images defined in resources for particular page are extracted. |
 | ActuallyUsed | `1` | Defines image extraction mode in which only those images are extracted that are actually shown on a page. |
 

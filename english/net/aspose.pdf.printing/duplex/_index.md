@@ -17,10 +17,10 @@ Specifies the printer's duplex setting.
 public enum Duplex
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `-1` | The printer's default duplex setting. |
 | Simplex | `1` | Single-sided printing. |
 | Horizontal | `3` | Double-sided, horizontal printing. |

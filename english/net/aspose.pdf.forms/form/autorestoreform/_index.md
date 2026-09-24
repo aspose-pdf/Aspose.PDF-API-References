@@ -17,10 +17,6 @@ If set, absent form fields will be automatically created if they present in anno
 public bool AutoRestoreForm { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

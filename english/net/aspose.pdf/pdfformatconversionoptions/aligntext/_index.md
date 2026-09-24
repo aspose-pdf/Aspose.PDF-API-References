@@ -22,10 +22,6 @@ This flag controls text alignment in converted document. By default document con
 public bool AlignText { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

@@ -17,10 +17,6 @@ Gets status of structure attribute value. True if value is set.
 public bool IsInitializedValue { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [StructureAttribute](../)

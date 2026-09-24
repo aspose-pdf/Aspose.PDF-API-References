@@ -17,10 +17,6 @@ Gets or sets bookmark's destination page. Required if action is set as string.Em
 public string Destination { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Bookmark](../)

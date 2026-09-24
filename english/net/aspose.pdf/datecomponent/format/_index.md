@@ -17,10 +17,6 @@ Gets or sets the format for the date component.
 public int Format { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [DateComponent](../)

@@ -17,10 +17,6 @@ Y corrdinate of bottom side of rectangle.
 public double Y { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Re](../)

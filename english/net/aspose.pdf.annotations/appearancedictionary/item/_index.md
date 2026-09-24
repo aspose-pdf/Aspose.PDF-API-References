@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public XForm Item { get; set; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

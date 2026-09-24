@@ -17,10 +17,6 @@ Gets or sets a text for shape
 public TextFragment Text { get; set; }
 ```
 
-### Property Value
-
-[TextFragment](../../../aspose.pdf.text/textfragment/)
-
 ### See Also
 
 * class [TextFragment](../../../aspose.pdf.text/textfragment/)

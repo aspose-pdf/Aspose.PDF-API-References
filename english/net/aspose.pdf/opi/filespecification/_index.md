@@ -17,10 +17,6 @@ Gets the external file containing the low- resolution proxy image.
 public string FileSpecification { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Opi](../)

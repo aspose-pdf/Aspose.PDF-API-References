@@ -17,10 +17,6 @@ Gets or sets the text in the message content that needs to be replaced.
 public string Text { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Annotation](../)

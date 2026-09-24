@@ -17,10 +17,6 @@ Gets cyan component of CMYK color.
 public double C { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [BasicSetColorOperator](../)

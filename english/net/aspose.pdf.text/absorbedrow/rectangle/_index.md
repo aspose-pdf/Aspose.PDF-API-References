@@ -17,10 +17,6 @@ Gets rectangle that describes position of the row on page
 public Rectangle Rectangle { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

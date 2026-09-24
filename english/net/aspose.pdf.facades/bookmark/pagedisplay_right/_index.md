@@ -17,10 +17,6 @@ Gets or sets the right coordinate of page display.
 public int PageDisplay_Right { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Bookmark](../)

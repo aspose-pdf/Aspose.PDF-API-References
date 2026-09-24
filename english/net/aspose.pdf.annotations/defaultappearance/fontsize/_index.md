@@ -17,10 +17,6 @@ Gets font size in default apperance.
 public double FontSize { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [DefaultAppearance](../)

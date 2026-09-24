@@ -17,10 +17,6 @@ Gets the information about the licensee.
 public string LicensedTo { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LicenseInfo](../)

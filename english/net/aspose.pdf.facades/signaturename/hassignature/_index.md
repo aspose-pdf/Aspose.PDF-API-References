@@ -17,10 +17,6 @@ Indicates whether the signature is present or not.
 public bool HasSignature { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SignatureName](../)

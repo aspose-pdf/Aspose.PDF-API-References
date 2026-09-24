@@ -23,10 +23,6 @@ The value is expressed in transformed user space units of the converted PDF page
 public double MinStrokeWidth { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SvgExtractionOptions](../)

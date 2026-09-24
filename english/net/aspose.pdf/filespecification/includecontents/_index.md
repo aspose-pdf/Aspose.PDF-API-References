@@ -17,10 +17,6 @@ If true, contents of the file will be included in the file specification.
 public bool IncludeContents { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FileSpecification](../)

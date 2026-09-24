@@ -17,10 +17,6 @@ Gets currently printed page number;
 public int PageNumber { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfPrintPageInfo](../)

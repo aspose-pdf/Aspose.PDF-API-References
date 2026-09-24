@@ -17,10 +17,6 @@ Gets or sets is page landscaped.
 public bool IsLandscape { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PageInfo](../)

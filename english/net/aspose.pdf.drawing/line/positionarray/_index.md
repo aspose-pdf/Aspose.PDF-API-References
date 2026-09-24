@@ -19,10 +19,6 @@ Gets or sets a `PositionArray` object that indicates the position array.The arra
 public float[] PositionArray { get; set; }
 ```
 
-### Property Value
-
-float[]
-
 ### See Also
 
 * class [Line](../)

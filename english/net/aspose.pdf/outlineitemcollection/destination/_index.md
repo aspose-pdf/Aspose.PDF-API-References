@@ -17,10 +17,6 @@ Gets or sets the destination for this outline item.
 public IAppointment Destination { get; set; }
 ```
 
-### Property Value
-
-[IAppointment](../../../aspose.pdf.annotations/iappointment/)
-
 ### See Also
 
 * class [IAppointment](../../../aspose.pdf.annotations/iappointment/)

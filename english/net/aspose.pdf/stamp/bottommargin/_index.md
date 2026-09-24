@@ -17,10 +17,6 @@ Gets or sets bottom margin of stamp.
 public double BottomMargin { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

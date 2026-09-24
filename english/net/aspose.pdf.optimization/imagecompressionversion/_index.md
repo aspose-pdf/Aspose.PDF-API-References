@@ -17,10 +17,10 @@ Describes versions of image compression algorithm.
 public enum ImageCompressionVersion
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Standard | `0` | Standard algorithm. Default value. |
 | Fast | `2` | Improved algorithm faster then standard but applicable not for all cases. |
 | Mixed | `3` | Use fast algorithm when possible and standard for other cases. May be slower then "Fast" but may produce better compression. |

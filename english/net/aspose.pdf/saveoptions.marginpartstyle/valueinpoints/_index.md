@@ -17,10 +17,6 @@ Represents margin in points. Must be number greater then zero.
 public int ValueInPoints { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [SaveOptions.MarginPartStyle](../)

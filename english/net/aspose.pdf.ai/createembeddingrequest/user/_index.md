@@ -17,10 +17,6 @@ Gets or sets a unique identifier representing your end-user, which can help Open
 public string User { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateEmbeddingRequest](../)

@@ -18,10 +18,6 @@ Gets or sets the ID of the vector store attached to this assistant. There can be
 public List<string> VectorStoreIds { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [FileSearch](../)

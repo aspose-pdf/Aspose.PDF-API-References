@@ -18,10 +18,6 @@ Sets or gets the maximum number of tokens to generate in the chat completion.
 public Nullable<int> MaxTokens { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [LlamaChatCompletionRequest](../)

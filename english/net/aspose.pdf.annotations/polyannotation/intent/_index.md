@@ -17,10 +17,6 @@ Gets or sets the intent of the polygon or polyline annotation.
 public PolyIntent Intent { get; set; }
 ```
 
-### Property Value
-
-[PolyIntent](../../../aspose.pdf.annotations/polyintent/)
-
 ### See Also
 
 * class [PolyIntent](../../../aspose.pdf.annotations/polyintent/)

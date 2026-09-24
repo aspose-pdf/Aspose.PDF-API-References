@@ -17,10 +17,6 @@ Gets or sets the subject of the document.
 public string Subject { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DocumentInfo](../)

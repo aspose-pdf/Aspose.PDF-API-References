@@ -17,10 +17,6 @@ Max row height for WordWrap option.
 public double MaxRowWidth { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextStamp](../)

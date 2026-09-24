@@ -17,10 +17,6 @@ Gets and sets flag that allows to save all pages in one multi-page tiff.
 public bool SaveAsMultiPageTiff { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TiffOptions](../)

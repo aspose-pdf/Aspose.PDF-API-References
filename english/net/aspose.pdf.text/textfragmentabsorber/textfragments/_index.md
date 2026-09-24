@@ -17,10 +17,6 @@ Gets collection of search occurrences that are presented with [`TextFragment`](.
 public TextFragmentCollection TextFragments { get; set; }
 ```
 
-### Property Value
-
-[TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
-
 ### See Also
 
 * class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)

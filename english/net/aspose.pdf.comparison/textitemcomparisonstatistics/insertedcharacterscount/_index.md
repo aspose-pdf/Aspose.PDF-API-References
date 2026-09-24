@@ -17,10 +17,6 @@ Gets and sets the number of inseted characters.
 public int InsertedCharactersCount { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextItemComparisonStatistics](../)

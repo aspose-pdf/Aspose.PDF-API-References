@@ -17,10 +17,6 @@ The page number on which signature is made.
 public int PageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [SignOptions](../)

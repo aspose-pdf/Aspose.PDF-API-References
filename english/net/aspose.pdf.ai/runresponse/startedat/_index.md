@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the run was started.
 public Nullable<long> StartedAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<long>
-
 ### See Also
 
 * class [RunResponse](../)

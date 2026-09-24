@@ -17,10 +17,6 @@ Gets or sets the number of files that are currently being processed.
 public int InProgress { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FileCounts](../)

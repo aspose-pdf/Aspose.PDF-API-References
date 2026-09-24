@@ -17,10 +17,6 @@ Gets or sets page width.
 public double Width { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [PageInfo](../)

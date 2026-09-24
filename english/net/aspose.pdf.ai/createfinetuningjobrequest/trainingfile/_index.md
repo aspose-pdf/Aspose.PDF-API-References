@@ -17,10 +17,6 @@ Gets or sets the ID of an uploaded file that contains training data.
 public string TrainingFile { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateFineTuningJobRequest](../)

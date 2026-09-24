@@ -17,10 +17,6 @@ Gets or sets the backoff delay in seconds.
 public int BackoffDelaySeconds { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [AIClientBase](../)

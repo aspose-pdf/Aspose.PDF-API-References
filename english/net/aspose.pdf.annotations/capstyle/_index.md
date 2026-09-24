@@ -17,10 +17,10 @@ Style of line ending of Ink annotation line.
 public enum CapStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Rectangular | `1` | End is rectangular. |
 | Rounded | `2` | End is rounded. |
 

@@ -18,10 +18,6 @@ Defines expected heading levels to use in FontSize recognition headers strategy.
 public HeadingLevels HeadingLevels { get; set; }
 ```
 
-### Property Value
-
-[HeadingLevels](../../../aspose.pdf/headinglevels/)
-
 ### See Also
 
 * class [HeadingLevels](../../../aspose.pdf/headinglevels/)

@@ -17,10 +17,6 @@ Gets or sets marked content tag
 public string Tag { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DP](../)

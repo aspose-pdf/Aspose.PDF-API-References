@@ -17,10 +17,6 @@ Gets top vertical coordinate of visible rectangle.
 public double Top { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FitRExplicitDestination](../)

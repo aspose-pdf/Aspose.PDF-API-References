@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the run was completed.
 public Nullable<long> CompletedAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<long>
-
 ### See Also
 
 * class [RunResponse](../)

@@ -17,10 +17,10 @@ Enumerates the image file types.
 public enum ImageFileType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Unknown | `0` | Unknown type. |
 | Svg | `1` | svg image file type. |
 | Dicom | `2` | Dicom image file type. |

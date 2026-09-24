@@ -19,10 +19,6 @@ The [`TextFragment`](../../../aspose.pdf.text/textfragment/) object provides acc
 public List<TextFragment> Fragments { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[TextFragment](../../../aspose.pdf.text/textfragment/)>
-
 ### See Also
 
 * class [MarkupSection](../)

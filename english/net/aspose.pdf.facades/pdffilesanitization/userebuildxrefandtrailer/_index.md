@@ -17,10 +17,6 @@ Allows to generate new xref and trailer for document.
 public bool UseRebuildXrefAndTrailer { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileSanitization](../)

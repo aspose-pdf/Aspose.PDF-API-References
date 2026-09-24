@@ -17,10 +17,6 @@ The list of selected objects.
 public IList<Operator> Selected { get; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[Operator](../../../aspose.pdf/operator/)>
-
 ### See Also
 
 * class [OperatorSelector](../)

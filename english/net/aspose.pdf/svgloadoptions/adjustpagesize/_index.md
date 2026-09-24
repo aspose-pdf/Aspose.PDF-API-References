@@ -17,10 +17,6 @@ Adust pdf page size to svg size
 public bool AdjustPageSize { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SvgLoadOptions](../)

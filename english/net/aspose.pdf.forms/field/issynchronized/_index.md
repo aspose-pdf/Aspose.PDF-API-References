@@ -17,10 +17,6 @@ Returns true if dictionary is synchronized.
 public bool IsSynchronized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Field](../)

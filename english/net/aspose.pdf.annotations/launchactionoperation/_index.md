@@ -17,10 +17,10 @@ Enumerates the operations to perform with document during launch action executin
 public enum LaunchActionOperation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Undefined state. |
 | Open | `1` | Open a document. |
 | Print | `2` | Print a document. |

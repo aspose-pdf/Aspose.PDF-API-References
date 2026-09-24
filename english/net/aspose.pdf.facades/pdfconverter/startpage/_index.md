@@ -17,10 +17,6 @@ Gets or sets start position which you want to convert. The minimal value is 1.
 public int StartPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfConverter](../)

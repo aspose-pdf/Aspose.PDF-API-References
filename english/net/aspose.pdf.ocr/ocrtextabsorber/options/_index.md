@@ -17,10 +17,6 @@ Gets the recognition options.
 public OcrTextRecognitionOptions Options { get; }
 ```
 
-### Property Value
-
-[OcrTextRecognitionOptions](../../../aspose.pdf.ocr/ocrtextrecognitionoptions/)
-
 ### See Also
 
 * class [OcrTextRecognitionOptions](../../../aspose.pdf.ocr/ocrtextrecognitionoptions/)

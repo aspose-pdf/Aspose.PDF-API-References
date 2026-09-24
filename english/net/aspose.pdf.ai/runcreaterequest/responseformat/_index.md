@@ -24,10 +24,6 @@ Gets or sets the response format.
 public ResponseFormat ResponseFormat { get; set; }
 ```
 
-### Property Value
-
-[ResponseFormat](../../../aspose.pdf.ai/responseformat/)
-
 ### See Also
 
 * class [ResponseFormat](../../../aspose.pdf.ai/responseformat/)

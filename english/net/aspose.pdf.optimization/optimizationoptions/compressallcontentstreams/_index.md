@@ -19,10 +19,6 @@ If set to , all uncompressed page content streams will be
 public bool CompressAllContentStreams { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

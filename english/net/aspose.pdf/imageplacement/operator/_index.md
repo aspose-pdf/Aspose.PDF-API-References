@@ -17,10 +17,6 @@ Operator used for displaying the image.
 public Operator Operator { get; }
 ```
 
-### Property Value
-
-[Operator](../../../aspose.pdf/operator/)
-
 ### See Also
 
 * class [Operator](../../../aspose.pdf/operator/)

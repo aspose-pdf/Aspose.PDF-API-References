@@ -19,7 +19,7 @@ public StructTreeRootElement StructTreeRootElement { get; }
 
 ### Property Value
 
-[StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
+[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) of PDF document.
 
 ### See Also
 

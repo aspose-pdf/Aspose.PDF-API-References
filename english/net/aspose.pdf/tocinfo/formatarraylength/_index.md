@@ -17,10 +17,6 @@ Gets or sets format array length
 public int FormatArrayLength { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TocInfo](../)

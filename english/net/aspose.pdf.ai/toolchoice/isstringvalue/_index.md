@@ -17,10 +17,6 @@ Gets a value indicating whether the ToolChoice is a string value.
 public bool IsStringValue { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ToolChoice](../)

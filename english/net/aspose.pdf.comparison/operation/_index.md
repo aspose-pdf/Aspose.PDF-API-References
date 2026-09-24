@@ -17,10 +17,10 @@ Represents a difference operation type.
 public enum Operation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Equal | `0` | The equal operation. |
 | Delete | `1` | The delete operation. |
 | Insert | `2` | The insert operation. |

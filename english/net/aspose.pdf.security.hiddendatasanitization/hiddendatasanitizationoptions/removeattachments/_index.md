@@ -18,10 +18,6 @@ Gets or sets the option to remove all attached files from the document.
 public bool RemoveAttachments { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

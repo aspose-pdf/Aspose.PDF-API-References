@@ -17,10 +17,6 @@ Gets or sets the nucleus sampling value used for this run. If not set, defaults 
 public Nullable<double> TopP { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [RunResponse](../)

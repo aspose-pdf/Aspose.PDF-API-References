@@ -17,10 +17,6 @@ Returns true of object is synchorinzed.
 public bool IsSynchronized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PageCollection](../)

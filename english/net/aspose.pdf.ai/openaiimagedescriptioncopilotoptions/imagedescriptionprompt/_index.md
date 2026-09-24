@@ -17,10 +17,6 @@ Gets or sets the prompt to instruct the model to provide image description.
 public string ImageDescriptionPrompt { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../)

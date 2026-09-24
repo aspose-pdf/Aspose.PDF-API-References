@@ -17,10 +17,6 @@ Gets or sets a set of resources that are used by the assistant's tools.
 public ToolResources ToolResources { get; set; }
 ```
 
-### Property Value
-
-[ToolResources](../../../aspose.pdf.ai/toolresources/)
-
 ### See Also
 
 * class [ToolResources](../../../aspose.pdf.ai/toolresources/)

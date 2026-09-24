@@ -17,10 +17,6 @@ Gets or sets the sampling temperature to use for the model.
 public Nullable<double> Temperature { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [LlamaCopilotOptionsBase](../)

@@ -20,10 +20,6 @@ Gets and sets the directory name to save document resources such as images.
 public string ResourcesDirectoryName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MarkdownSaveOptions](../)

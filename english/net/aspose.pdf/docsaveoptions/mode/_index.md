@@ -17,10 +17,6 @@ Recognition mode.
 public RecognitionMode Mode { get; set; }
 ```
 
-### Property Value
-
-RecognitionMode
-
 ### See Also
 
 * class [DocSaveOptions](../)

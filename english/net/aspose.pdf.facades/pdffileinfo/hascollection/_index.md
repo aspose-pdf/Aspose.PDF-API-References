@@ -17,10 +17,6 @@ Returns true if the current input file is a 'Portfolio' file containing collecti
 public bool HasCollection { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileInfo](../)

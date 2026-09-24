@@ -17,10 +17,6 @@ Gets the document facade is working on.
 public Document Document { get; }
 ```
 
-### Property Value
-
-[Document](../../../aspose.pdf/document/)
-
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)

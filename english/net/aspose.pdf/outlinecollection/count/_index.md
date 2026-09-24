@@ -17,10 +17,6 @@ Count of collection items. Please dont confuse with VisibleCount: VisibleCount g
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OutlineCollection](../)

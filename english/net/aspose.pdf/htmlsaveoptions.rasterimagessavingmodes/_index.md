@@ -19,10 +19,10 @@ Converted PDF can contain raster images(.png, *.jpeg etc.)
 public enum RasterImagesSavingModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | AsPngImagesEmbeddedIntoSvg | `0` | for each distinct raster file will be generated wrapper SVG image,
  and raster image will be embedded as Base64 encoded strings
  into that SVG image |

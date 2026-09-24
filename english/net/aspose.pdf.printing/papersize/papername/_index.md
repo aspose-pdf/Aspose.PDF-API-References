@@ -17,10 +17,6 @@ Gets or sets the name of the type of paper.
 public string PaperName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PaperSize](../)

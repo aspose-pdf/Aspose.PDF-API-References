@@ -17,10 +17,6 @@ Returns true if XmpValue is field.
 public bool IsField { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

@@ -17,10 +17,6 @@ Gets or sets the fingerprint that represents the backend configuration that the 
 public string SystemFingerprint { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LlamaChatCompletionResponse](../)

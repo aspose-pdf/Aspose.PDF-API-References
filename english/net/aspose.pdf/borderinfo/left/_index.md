@@ -17,10 +17,6 @@ Gets or sets a object that indicates left of the border.
 public GraphInfo Left { get; set; }
 ```
 
-### Property Value
-
-[GraphInfo](../../../aspose.pdf/graphinfo/)
-
 ### See Also
 
 * class [GraphInfo](../../../aspose.pdf/graphinfo/)

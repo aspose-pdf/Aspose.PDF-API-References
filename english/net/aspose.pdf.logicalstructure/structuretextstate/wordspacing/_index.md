@@ -19,10 +19,6 @@ Can be null. Use null to inherit `WordSpacing` property from parent structure el
 public Nullable<float> WordSpacing { get; set; }
 ```
 
-### Property Value
-
-Nullable<float>
-
 ### See Also
 
 * class [StructureTextState](../)

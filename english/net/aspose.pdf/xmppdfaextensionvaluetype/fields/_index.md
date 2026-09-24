@@ -17,10 +17,6 @@ Gets the list of fields.
 public IList<XmpPdfAExtensionField> Fields { get; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[XmpPdfAExtensionField](../../../aspose.pdf/xmppdfaextensionfield/)>
-
 ### See Also
 
 * class [XmpPdfAExtensionValueType](../)

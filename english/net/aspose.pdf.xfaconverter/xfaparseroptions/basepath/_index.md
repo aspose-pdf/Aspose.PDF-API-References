@@ -19,7 +19,7 @@ public Uri BasePath { get; set; }
 
 ### Property Value
 
-Uri
+The base path.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets or sets scaling reason.
 public ScalingReason ScalingReason { get; set; }
 ```
 
-### Property Value
-
-[ScalingReason](../../../aspose.pdf.forms/scalingreason/)
-
 ### See Also
 
 * class [ScalingReason](../../../aspose.pdf.forms/scalingreason/)

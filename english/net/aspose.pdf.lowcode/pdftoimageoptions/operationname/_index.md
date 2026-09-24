@@ -17,10 +17,6 @@ Returns operation name.
 public string OperationName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfToImageOptions](../)

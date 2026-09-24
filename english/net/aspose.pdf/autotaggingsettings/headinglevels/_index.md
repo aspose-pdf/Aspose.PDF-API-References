@@ -21,10 +21,6 @@ The `HeadingLevels` property allows configuring the mapping of font sizes to hea
 public HeadingLevels HeadingLevels { get; set; }
 ```
 
-### Property Value
-
-[HeadingLevels](../../../aspose.pdf/headinglevels/)
-
 ### See Also
 
 * class [HeadingLevels](../../../aspose.pdf/headinglevels/)

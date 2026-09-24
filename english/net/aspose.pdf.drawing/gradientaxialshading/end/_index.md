@@ -17,10 +17,6 @@ Gets or sets end point.
 public Point End { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

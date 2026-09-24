@@ -17,10 +17,6 @@ Gets the width of the bitmap.
 public int Width { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BitmapInfo](../)

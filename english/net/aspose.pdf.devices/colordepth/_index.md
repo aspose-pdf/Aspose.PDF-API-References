@@ -17,10 +17,10 @@ Used to specify the parameter value passed to a Tiff image device.
 public enum ColorDepth
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | Default color depth.
  32 bit depth is used by default. |
 | Format24bpp | `1` | Rgb 24 bit depth. |

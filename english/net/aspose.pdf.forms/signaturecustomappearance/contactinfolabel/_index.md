@@ -17,10 +17,6 @@ Gets/sets contact info label. Default value: "Contact".
 public string ContactInfoLabel { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

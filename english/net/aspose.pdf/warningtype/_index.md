@@ -17,10 +17,10 @@ Enum represented warning type.
 public enum WarningType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | SourceFileCorruption | `0` | The file is corrupted. |
 | DataLoss | `1` | Text/chart/image or other data is completely missing from either the documet tree following load, or the created document following save. |
 | MajorFormattingLoss | `2` | Major formatting losses compared to the original document. This is for occasions when the formatting loss is substantial but the data is still there. |

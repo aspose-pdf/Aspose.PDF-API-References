@@ -19,7 +19,7 @@ public TocInfo TocInfo { get; set; }
 
 ### Property Value
 
-[TocInfo](../../../aspose.pdf/tocinfo/)
+The table of contents info - default null. If it set this page will contain table of contents.
 
 ### See Also
 

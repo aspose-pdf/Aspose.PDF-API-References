@@ -17,10 +17,6 @@ If FractionDisplayment is ShowAsFraction, this value is denominator of the fract
 public int Denominator { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

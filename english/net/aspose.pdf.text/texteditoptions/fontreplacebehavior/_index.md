@@ -17,10 +17,6 @@ Gets mode that defines behavior for fonts replacement scenarios.
 public FontReplace FontReplaceBehavior { get; set; }
 ```
 
-### Property Value
-
-FontReplace
-
 ### See Also
 
 * class [TextEditOptions](../)

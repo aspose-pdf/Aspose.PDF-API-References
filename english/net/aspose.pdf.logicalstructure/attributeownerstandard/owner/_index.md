@@ -19,7 +19,7 @@ public string Owner { get; }
 
 ### Property Value
 
-string
+Attribute Owner.
 
 ### See Also
 

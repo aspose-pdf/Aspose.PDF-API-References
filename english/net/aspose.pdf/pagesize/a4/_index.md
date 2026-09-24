@@ -17,10 +17,6 @@ A4 size (297x210 mm).
 public PageSize A4 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

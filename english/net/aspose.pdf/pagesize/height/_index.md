@@ -17,10 +17,6 @@ Gets or sets page height.
 public float Height { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [PageSize](../)

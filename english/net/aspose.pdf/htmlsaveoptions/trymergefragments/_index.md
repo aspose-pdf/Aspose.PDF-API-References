@@ -17,10 +17,6 @@ The flag for combining image fragments into one picture.
 public bool TryMergeFragments { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

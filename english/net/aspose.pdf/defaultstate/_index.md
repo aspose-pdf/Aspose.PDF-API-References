@@ -17,10 +17,10 @@ Represents the default state of a PDF layer.
 public enum DefaultState
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Visible | `0` | The default state is visible. |
 | Hidden | `1` | The default state is hidden. |
 

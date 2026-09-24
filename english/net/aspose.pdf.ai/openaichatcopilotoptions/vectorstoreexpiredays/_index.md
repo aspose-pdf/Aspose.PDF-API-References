@@ -17,10 +17,6 @@ Gets or sets the number of days before the vector store expires.
 public int VectorStoreExpireDays { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OpenAIChatCopilotOptions](../)

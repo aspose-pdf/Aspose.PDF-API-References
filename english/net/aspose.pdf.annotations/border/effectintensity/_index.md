@@ -17,10 +17,6 @@ Gets or sets effect intencity. Valid range of value is [0..2].
 public int EffectIntensity { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Border](../)

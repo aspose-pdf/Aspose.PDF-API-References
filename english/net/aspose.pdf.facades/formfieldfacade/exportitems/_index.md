@@ -17,10 +17,6 @@ The options for adding a list/combo/radio box
 public string[][] ExportItems { get; set; }
 ```
 
-### Property Value
-
-string[][]
-
 ### See Also
 
 * class [FormFieldFacade](../)

@@ -34,7 +34,7 @@ public class FileContentResponse<T><T> : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [Content](./content/) { get; set; } |  |
+| [Content](./content/) { get; set; } | Gets or sets the file content. |
 | [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. *(Inherited from BaseResponse)* |
 | [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. *(Inherited from BaseResponse)* |
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. *(Inherited from BaseResponse)* |

@@ -17,10 +17,6 @@ Gets or sets a value used to increase or decrease the width of rectangle for App
 public float HeightExtraUnits { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [RenderingOptions](../)

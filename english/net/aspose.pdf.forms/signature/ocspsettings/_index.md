@@ -17,10 +17,6 @@ Gets/sets ocsp settings.
 public OcspSettings OcspSettings { get; set; }
 ```
 
-### Property Value
-
-[OcspSettings](../../../aspose.pdf/ocspsettings/)
-
 ### See Also
 
 * class [OcspSettings](../../../aspose.pdf/ocspsettings/)

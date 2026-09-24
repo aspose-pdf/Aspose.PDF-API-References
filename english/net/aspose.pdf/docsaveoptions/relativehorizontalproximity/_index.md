@@ -27,10 +27,6 @@ In Pdf words may be innerly represented with operators that prints words
 public float RelativeHorizontalProximity { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [DocSaveOptions](../)

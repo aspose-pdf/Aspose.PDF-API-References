@@ -17,10 +17,10 @@ Text CoordinateOrigin enumeration.
 public enum CoordinateOrigin
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | BaseLine | `0` | The lowest coordinate of text should be treated as the baseline. |
 | Descender | `1` | The lowest coordinate of text should be treated as the descender line. |
 

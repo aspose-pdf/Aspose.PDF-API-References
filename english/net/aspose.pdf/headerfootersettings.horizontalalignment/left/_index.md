@@ -17,10 +17,6 @@ Gets or sets the left alignment settings.
 public Left Left { get; set; }
 ```
 
-### Property Value
-
-[Left](../../../aspose.pdf/left/)
-
 ### See Also
 
 * class [Left](../../../aspose.pdf/left/)

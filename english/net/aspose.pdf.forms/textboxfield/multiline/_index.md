@@ -17,10 +17,6 @@ Gets or sets multiline flag of the field. If Multiline is true field can contain
 public bool Multiline { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextBoxField](../)

@@ -17,10 +17,6 @@ Type of the save target (stream).
 public DataType SaveTarget { get; }
 ```
 
-### Property Value
-
-[DataType](../../../aspose.pdf.lowcode/datatype/)
-
 ### See Also
 
 * class [DataType](../../../aspose.pdf.lowcode/datatype/)

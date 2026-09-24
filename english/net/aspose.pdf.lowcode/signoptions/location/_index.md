@@ -17,10 +17,6 @@ The location of signature.
 public string Location { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignOptions](../)

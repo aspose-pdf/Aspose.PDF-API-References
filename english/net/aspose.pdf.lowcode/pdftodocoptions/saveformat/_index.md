@@ -17,10 +17,6 @@ Save format of the output document.
 public SaveFormat SaveFormat { get; set; }
 ```
 
-### Property Value
-
-[SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
-
 ### See Also
 
 * class [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)

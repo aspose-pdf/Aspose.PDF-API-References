@@ -18,10 +18,6 @@ Gets or sets the status of the run step, which can be either in_progress, cancel
 public string Status { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunStepResponse](../)

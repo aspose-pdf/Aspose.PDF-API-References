@@ -17,10 +17,10 @@ Enumerates the intents of the line annotation.
 public enum LineIntent
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Undefined state. |
 | LineArrow | `1` | Means that the annotation is intended to function as an arrow. |
 | LineDimension | `2` | Means that the annotation is intended to function as a dimension line. |

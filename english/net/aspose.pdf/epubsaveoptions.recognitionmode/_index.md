@@ -21,10 +21,10 @@ When PDF file (that usually has fixed layout) is being converted,
 public enum RecognitionMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Flow | `0` | Full recognition mode, the engine tries to perform grouping and multi-level analysis to restore
  the original document author's intent and produce xhtml in flow layout. |
 | PdfFlow | `1` | The main idea of this conversion is based on saving "natural" order of content rendering that is formed during processing of pdf documents.

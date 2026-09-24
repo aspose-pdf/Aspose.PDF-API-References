@@ -19,10 +19,6 @@ Gets or sets the action bound with the bookmark.
 public string Action { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Bookmark](../)

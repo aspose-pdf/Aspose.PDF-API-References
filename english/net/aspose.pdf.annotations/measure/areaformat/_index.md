@@ -17,10 +17,6 @@ A number format array for measurement of area.
 public NumberFormatList AreaFormat { get; set; }
 ```
 
-### Property Value
-
-NumberFormatList
-
 ### See Also
 
 * class [Measure](../)

@@ -17,10 +17,6 @@ Gets image of stamp. May be null if stamp does not contain images (for example f
 public Image Image { get; }
 ```
 
-### Property Value
-
-[Image](../../../aspose.pdf/image/)
-
 ### See Also
 
 * class [Image](../../../aspose.pdf/image/)

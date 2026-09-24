@@ -17,10 +17,6 @@ Gets or sets input document password.
 public string Password { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfViewer](../)

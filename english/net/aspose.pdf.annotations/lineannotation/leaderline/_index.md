@@ -17,10 +17,6 @@ Gets or sets leader line length.
 public double LeaderLine { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [LineAnnotation](../)

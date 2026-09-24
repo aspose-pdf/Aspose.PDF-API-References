@@ -18,10 +18,6 @@ Gets or sets number between -2.0 and 2.0. Positive values penalize new tokens ba
 public Nullable<double> PresencePenalty { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

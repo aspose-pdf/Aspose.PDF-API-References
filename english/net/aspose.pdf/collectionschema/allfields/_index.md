@@ -17,10 +17,6 @@ Gets all schema's fields.
 public ICollection<CollectionField> AllFields { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<[CollectionField](../../../aspose.pdf/collectionfield/)>
-
 ### See Also
 
 * class [CollectionSchema](../)

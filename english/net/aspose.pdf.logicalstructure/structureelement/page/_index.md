@@ -17,10 +17,6 @@ Gets the page on which some or all child elements will be rendered.
 public Page Page { get; }
 ```
 
-### Property Value
-
-[Page](../../../aspose.pdf/page/)
-
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)

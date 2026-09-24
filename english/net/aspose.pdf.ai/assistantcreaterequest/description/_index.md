@@ -17,10 +17,6 @@ Gets or sets the description of the assistant. The maximum length is 512 charact
 public string Description { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AssistantCreateRequest](../)

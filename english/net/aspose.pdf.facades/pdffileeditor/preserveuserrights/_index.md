@@ -17,10 +17,6 @@ If true, user rights of first document are applied to concatenated document. Use
 public bool PreserveUserRights { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

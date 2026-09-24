@@ -17,10 +17,6 @@ Gets or sets the size of the file, in bytes.
 public int Bytes { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FileResponse](../)

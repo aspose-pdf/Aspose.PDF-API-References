@@ -17,10 +17,6 @@ Gets/sets reason visibility. Default value: true.
 public bool ShowReason { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

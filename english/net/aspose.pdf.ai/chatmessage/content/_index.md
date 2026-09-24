@@ -17,10 +17,6 @@ Gets or sets the contents of the message.
 public List<MessageContentRequest> Content { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[MessageContentRequest](../../../aspose.pdf.ai/messagecontentrequest/)>
-
 ### See Also
 
 * class [ChatMessage](../)

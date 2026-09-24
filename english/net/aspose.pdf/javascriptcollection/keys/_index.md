@@ -17,10 +17,6 @@ List of keys in JavaScript collection.
 public IList<string> Keys { get; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<string>
-
 ### See Also
 
 * class [JavaScriptCollection](../)

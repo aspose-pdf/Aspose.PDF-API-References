@@ -17,10 +17,6 @@ If true Artifact is placed behind page contents.
 public bool IsBackground { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Artifact](../)

@@ -17,10 +17,10 @@ Colors included in the CMYK color model.
 public enum ColorsOfCMYK
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Cyan | `0` | Cyan color. |
 | Magenta | `1` | Magenta color. |
 | Yellow | `2` | Yellow color. |

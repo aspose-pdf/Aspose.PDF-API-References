@@ -17,10 +17,6 @@ Gets or sets the collection of text documents to be processed.
 public List<TextDocument> TextDocuments { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[TextDocument](../../../aspose.pdf.ai/textdocument/)>
-
 ### See Also
 
 * class [DocumentCollection](../)

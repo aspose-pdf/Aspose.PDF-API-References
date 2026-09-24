@@ -17,10 +17,6 @@ Gets or sets the index of the choice in the list of choices.
 public int Index { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Choice](../)

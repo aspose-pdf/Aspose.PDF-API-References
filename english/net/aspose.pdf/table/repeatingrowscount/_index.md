@@ -17,10 +17,6 @@ Gets the first rows count repeated for several pages
 public int RepeatingRowsCount { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Table](../)

@@ -17,10 +17,6 @@ Text that shall be concatenated to the left of the label.
 public string BeforeText { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

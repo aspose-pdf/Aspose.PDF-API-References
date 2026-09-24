@@ -17,10 +17,10 @@ The encoding format for the sample data.
 public enum SoundEncoding
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Raw | `0` | Unspecified or unsigned values in the range 0 to 2^bits - 1. |
 | Signed | `1` | Twos-complement values. |
 | MuLaw | `2` | Mu-law-encoded samples. |

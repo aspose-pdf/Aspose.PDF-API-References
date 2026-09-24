@@ -18,10 +18,6 @@ Sets or gets left position adjustment for replaced text when using TextReplaceOp
 public double LeftAdjustment { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextReplaceOptions](../)

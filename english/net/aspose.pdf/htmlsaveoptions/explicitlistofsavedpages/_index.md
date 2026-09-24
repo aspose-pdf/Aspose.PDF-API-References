@@ -26,10 +26,6 @@ With this property You can explicitely define
 public int[] ExplicitListOfSavedPages { get; set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

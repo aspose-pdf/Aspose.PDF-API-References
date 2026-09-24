@@ -18,10 +18,6 @@ Gets text position for text, represented with [`TextSegment`](../../../aspose.pd
 public Position BaselinePosition { get; set; }
 ```
 
-### Property Value
-
-[Position](../../../aspose.pdf.text/position/)
-
 ### See Also
 
 * class [Position](../../../aspose.pdf.text/position/)

@@ -17,10 +17,6 @@ Throw Exception if the document will save with changes and have signature
 public bool HandleSignatureChange { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

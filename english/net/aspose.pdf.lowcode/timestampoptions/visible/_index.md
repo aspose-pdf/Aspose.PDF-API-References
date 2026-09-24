@@ -17,10 +17,6 @@ Visibility flag – false for a pure timestamp (no visible annotation).
 public bool Visible { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TimestampOptions](../)

@@ -18,10 +18,6 @@ Sets the permission which allow screen readers or not.
 public bool AllowScreenReaders { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocumentPrivilege](../)

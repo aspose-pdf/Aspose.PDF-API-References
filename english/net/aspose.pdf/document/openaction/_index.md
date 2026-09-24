@@ -17,10 +17,6 @@ Gets or sets action performed at document opening.
 public IAppointment OpenAction { get; set; }
 ```
 
-### Property Value
-
-[IAppointment](../../../aspose.pdf.annotations/iappointment/)
-
 ### See Also
 
 * class [IAppointment](../../../aspose.pdf.annotations/iappointment/)

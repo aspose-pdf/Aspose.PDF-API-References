@@ -17,10 +17,6 @@ Gets or sets the is document pdfa compliant.
 public bool IsXrefGapsAllowed { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

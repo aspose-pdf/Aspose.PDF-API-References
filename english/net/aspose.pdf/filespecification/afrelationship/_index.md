@@ -17,10 +17,6 @@ Associated file Relationship.
 public AFRelationship AFRelationship { get; set; }
 ```
 
-### Property Value
-
-[AFRelationship](../../../aspose.pdf/afrelationship/)
-
 ### See Also
 
 * class [AFRelationship](../../../aspose.pdf/afrelationship/)

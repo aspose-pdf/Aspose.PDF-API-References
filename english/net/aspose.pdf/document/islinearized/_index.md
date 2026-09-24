@@ -17,10 +17,6 @@ Gets or sets a value indicating whether document is linearized.
 public bool IsLinearized { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

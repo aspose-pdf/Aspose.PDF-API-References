@@ -17,10 +17,6 @@ Gets or sets required status of the field.
 public bool Required { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [WidgetAnnotation](../)

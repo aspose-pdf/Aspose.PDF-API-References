@@ -17,10 +17,6 @@ Gets/sets type in which fonts must be embedded in resulting PS document.
 public string EmbedFontAs { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PsSaveOptions](../)

@@ -17,10 +17,6 @@ Returns true is collection has fixed size.
 public bool IsFixedSize { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfXmpMetadata](../)

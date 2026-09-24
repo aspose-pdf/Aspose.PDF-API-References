@@ -17,10 +17,10 @@ Enumeration representing image filter type.
 public enum ImageFilterType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Jpeg2000 | `0` | Jpeg 2000. |
 | Jpeg | `1` | Jpeg. |
 | Flate | `2` | Flate. |

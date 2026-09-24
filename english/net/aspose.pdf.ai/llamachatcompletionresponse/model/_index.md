@@ -17,10 +17,6 @@ Gets or sets the model used for the chat completion.
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LlamaChatCompletionResponse](../)

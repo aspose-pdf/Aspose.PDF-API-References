@@ -17,10 +17,6 @@ Full path of crash report file
 public string CrashReportPath { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CrashReportOptions](../)

@@ -17,10 +17,6 @@ Gets or sets the OFD load options.
 public OfdLoadOptions OfdLoadOptions { get; set; }
 ```
 
-### Property Value
-
-[OfdLoadOptions](../../../aspose.pdf/ofdloadoptions/)
-
 ### See Also
 
 * class [OfdLoadOptions](../../../aspose.pdf/ofdloadoptions/)

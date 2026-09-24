@@ -17,10 +17,6 @@ Gets the value type.
 public string Type { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XmpPdfAExtensionValueType](../)

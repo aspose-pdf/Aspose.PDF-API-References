@@ -18,10 +18,6 @@ Holds flags to control PDF/A conversion process for cases when source document
 public PdfANonSpecificationFlags NonSpecificationCases { get; }
 ```
 
-### Property Value
-
-[PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
-
 ### See Also
 
 * class [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)

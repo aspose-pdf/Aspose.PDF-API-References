@@ -17,10 +17,6 @@ Gets or sets identifier of stamp.
 public int StampId { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Stamp](../)

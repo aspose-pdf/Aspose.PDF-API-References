@@ -17,10 +17,10 @@ Specifies format
 public enum SaveFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Pdf | `0` | means saving without change of format, i.e. as PDF
  use it please instead of 'SaveFormat.None', that is obsolete one |
 | None | `0` | means saving without change of format, i.e. as PDF

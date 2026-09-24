@@ -17,10 +17,6 @@ Returns true if object is thread-safe.
 public bool IsSynchronized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

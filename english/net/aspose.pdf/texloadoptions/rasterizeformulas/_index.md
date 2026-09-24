@@ -17,10 +17,6 @@ Gets/sets a flag that allows to rasterize math formulas.
 public bool RasterizeFormulas { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TeXLoadOptions](../)

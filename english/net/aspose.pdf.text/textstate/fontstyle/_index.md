@@ -17,10 +17,6 @@ Sets font style of the text.
 public FontStyles FontStyle { get; set; }
 ```
 
-### Property Value
-
-[FontStyles](../../../aspose.pdf.text/fontstyles/)
-
 ### See Also
 
 * class [FontStyles](../../../aspose.pdf.text/fontstyles/)

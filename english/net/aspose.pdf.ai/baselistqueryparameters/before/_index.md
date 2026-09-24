@@ -19,10 +19,6 @@ Gets or sets a cursor for use in pagination. before is an object ID that defines
 public string Before { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BaseListQueryParameters](../)

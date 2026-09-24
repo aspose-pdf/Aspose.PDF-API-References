@@ -17,10 +17,6 @@ Gets collection of [`TextFragment`](../../../aspose.pdf.text/textfragment/) obje
 public TextFragmentCollection TextFragments { get; }
 ```
 
-### Property Value
-
-[TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
-
 ### See Also
 
 * class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)

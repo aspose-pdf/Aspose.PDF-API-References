@@ -18,10 +18,6 @@ Gets or sets the ID of the run associated with the creation of this message.
 public string RunId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ThreadMessageResponse](../)

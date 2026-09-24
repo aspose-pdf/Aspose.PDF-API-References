@@ -17,10 +17,6 @@ Gets or sets table vertial broken;
 public TableBroken Broken { get; set; }
 ```
 
-### Property Value
-
-[TableBroken](../../../aspose.pdf/tablebroken/)
-
 ### See Also
 
 * class [TableBroken](../../../aspose.pdf/tablebroken/)

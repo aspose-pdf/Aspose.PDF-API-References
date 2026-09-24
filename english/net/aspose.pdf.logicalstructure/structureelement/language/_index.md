@@ -19,7 +19,7 @@ public string Language { get; set; }
 
 ### Property Value
 
-string
+Language of the structure element.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets or sets the title of the movie annotation.
 public string Title { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MovieAnnotation](../)

@@ -17,10 +17,6 @@ Gets or sets the code interpreter tool resources.
 public CodeInterpreter CodeInterpreter { get; set; }
 ```
 
-### Property Value
-
-[CodeInterpreter](../../../aspose.pdf.ai/codeinterpreter/)
-
 ### See Also
 
 * class [CodeInterpreter](../../../aspose.pdf.ai/codeinterpreter/)

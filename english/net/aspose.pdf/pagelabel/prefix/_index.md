@@ -17,10 +17,6 @@ Gets or sets page number prefix.
 public string Prefix { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PageLabel](../)

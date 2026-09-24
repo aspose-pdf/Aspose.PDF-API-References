@@ -17,10 +17,6 @@ Gets or sets a unique identifier for the fine-tuning job.
 public string Id { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateFineTuningJobResponse](../)

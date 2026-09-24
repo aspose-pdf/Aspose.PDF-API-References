@@ -19,10 +19,6 @@ If this value set to true, exception will be thrown on opearation failure. Else,
 public bool AllowExceptions { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileSecurity](../)

@@ -17,10 +17,6 @@ Gets or sets, if applicable, the ID of the assistant that authored this message.
 public string AssistantId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ThreadMessageResponse](../)

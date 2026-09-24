@@ -21,7 +21,7 @@ public CompressionType Compression { get; set; }
 
 ### Property Value
 
-[CompressionType](../../../aspose.pdf.devices/compressiontype/)
+The type of the compression.
 
 ### See Also
 

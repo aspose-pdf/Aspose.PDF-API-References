@@ -19,7 +19,7 @@ public double R { get; set; }
 
 ### Property Value
 
-double
+The level of red from 0.0 to 1.0
 
 ### See Also
 

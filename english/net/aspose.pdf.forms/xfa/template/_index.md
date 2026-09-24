@@ -17,10 +17,6 @@ XFA Template component of an XFA form.
 public XmlNode Template { get; }
 ```
 
-### Property Value
-
-XmlNode
-
 ### See Also
 
 * class [XFA](../)

@@ -17,10 +17,6 @@ Destination URL.
 public FileSpecification Url { get; set; }
 ```
 
-### Property Value
-
-[FileSpecification](../../../aspose.pdf/filespecification/)
-
 ### See Also
 
 * class [FileSpecification](../../../aspose.pdf/filespecification/)

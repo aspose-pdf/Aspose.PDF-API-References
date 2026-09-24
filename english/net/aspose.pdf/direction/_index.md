@@ -17,10 +17,10 @@ Text direction.
 public enum Direction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | L2R | `0` | Left to right direction. |
 | R2L | `1` | Right to left direction. |
 

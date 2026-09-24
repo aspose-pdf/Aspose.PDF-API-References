@@ -17,10 +17,10 @@ Specifies variant for determining the location of the element on the page.
 public enum ParagraphPositioningMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | The location is determined by the previously placed elements. 
  Adding an element is taken into account when determining the location of subsequent elements. |
 | Absolute | `1` | The location is specified by the Left and Top values, 

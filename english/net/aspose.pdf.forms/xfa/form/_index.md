@@ -17,10 +17,6 @@ XFA Form Component of an XFA form.
 public XmlNode Form { get; }
 ```
 
-### Property Value
-
-XmlNode
-
 ### See Also
 
 * class [XFA](../)

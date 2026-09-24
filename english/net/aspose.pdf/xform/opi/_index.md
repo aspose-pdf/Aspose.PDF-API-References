@@ -17,10 +17,6 @@ Gets The Open Prepress Interface (OPI).
 public Opi Opi { get; }
 ```
 
-### Property Value
-
-[Opi](../../../aspose.pdf/opi/)
-
 ### See Also
 
 * class [Opi](../../../aspose.pdf/opi/)

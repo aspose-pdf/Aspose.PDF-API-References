@@ -19,7 +19,7 @@ public string Extension { get; }
 
 ### Property Value
 
-string
+The extension.
 
 ### See Also
 

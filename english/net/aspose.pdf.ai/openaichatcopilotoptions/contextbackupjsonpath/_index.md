@@ -17,10 +17,6 @@ Gets or sets the file path for the context backup JSON.
 public string ContextBackupJsonPath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIChatCopilotOptions](../)

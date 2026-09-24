@@ -17,10 +17,6 @@ Gets or sets annotation caption position.
 public CaptionPosition CaptionPosition { get; set; }
 ```
 
-### Property Value
-
-[CaptionPosition](../../../aspose.pdf.annotations/captionposition/)
-
 ### See Also
 
 * class [CaptionPosition](../../../aspose.pdf.annotations/captionposition/)

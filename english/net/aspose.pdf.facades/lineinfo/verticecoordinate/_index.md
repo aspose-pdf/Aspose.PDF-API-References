@@ -17,10 +17,6 @@ Gets or sets an array of numbers representing the alternating horizontal and ver
 public float[] VerticeCoordinate { get; set; }
 ```
 
-### Property Value
-
-float[]
-
 ### See Also
 
 * class [LineInfo](../)

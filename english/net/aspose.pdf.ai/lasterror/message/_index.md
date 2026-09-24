@@ -17,10 +17,6 @@ Gets or sets a human-readable description of the error.
 public string Message { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LastError](../)

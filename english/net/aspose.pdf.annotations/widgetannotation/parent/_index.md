@@ -17,10 +17,6 @@ Gets annotation parent.
 public Field Parent { get; }
 ```
 
-### Property Value
-
-[Field](../../../aspose.pdf.forms/field/)
-
 ### See Also
 
 * class [Field](../../../aspose.pdf.forms/field/)

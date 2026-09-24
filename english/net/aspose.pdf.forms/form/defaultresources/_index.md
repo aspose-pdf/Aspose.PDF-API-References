@@ -17,10 +17,6 @@ Gets default resources placed on this form.
 public Resources DefaultResources { get; }
 ```
 
-### Property Value
-
-[Resources](../../../aspose.pdf/resources/)
-
 ### See Also
 
 * class [Resources](../../../aspose.pdf/resources/)

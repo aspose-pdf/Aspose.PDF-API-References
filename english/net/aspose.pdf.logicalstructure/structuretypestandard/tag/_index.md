@@ -19,7 +19,7 @@ public string Tag { get; }
 
 ### Property Value
 
-string
+Tag name of [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/).
 
 ### See Also
 

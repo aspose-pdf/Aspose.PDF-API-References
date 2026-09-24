@@ -17,10 +17,6 @@ Value is unsupported/unknown and raw XML code is provided.
 public bool IsRaw { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

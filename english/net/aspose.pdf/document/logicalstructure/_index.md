@@ -17,10 +17,6 @@ Gets logical structure of the document.
 public RootElement LogicalStructure { get; }
 ```
 
-### Property Value
-
-[RootElement](../../../aspose.pdf.structure/rootelement/)
-
 ### See Also
 
 * class [RootElement](../../../aspose.pdf.structure/rootelement/)

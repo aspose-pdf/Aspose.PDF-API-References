@@ -17,10 +17,6 @@ Gets or sets a outer margin for paragraph (for pdf generation)
 public MarginInfo Margin { get; set; }
 ```
 
-### Property Value
-
-[MarginInfo](../../../aspose.pdf/margininfo/)
-
 ### See Also
 
 * class [MarginInfo](../../../aspose.pdf/margininfo/)

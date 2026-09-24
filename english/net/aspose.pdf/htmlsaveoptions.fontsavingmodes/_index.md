@@ -18,10 +18,10 @@ Enumerates modes that can be used for saving of fonts
 public enum FontSavingModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | AlwaysSaveAsWOFF | `0` | All referenced fonts will be saved and referenced as WOFF-fonts. |
 | AlwaysSaveAsTTF | `1` | All referenced fonts will be saved and referenced as TTF-fonts. |
 | AlwaysSaveAsEOT | `2` | All referenced fonts will be saved and referenced as EOT-fonts. |

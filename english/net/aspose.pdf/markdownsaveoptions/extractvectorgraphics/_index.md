@@ -17,10 +17,6 @@ Gets and sets a property indicating whether vector graphics should be extracted.
 public bool ExtractVectorGraphics { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [MarkdownSaveOptions](../)

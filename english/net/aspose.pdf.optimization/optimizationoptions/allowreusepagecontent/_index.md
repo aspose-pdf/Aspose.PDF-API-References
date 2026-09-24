@@ -17,10 +17,6 @@ If true page contents will be reused when document is optimized for equal pages.
 public bool AllowReusePageContent { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

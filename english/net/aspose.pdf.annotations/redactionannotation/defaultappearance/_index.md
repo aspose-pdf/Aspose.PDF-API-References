@@ -17,10 +17,6 @@ Gets or sets the default appearance string to be used in formatting the text.
 public string DefaultAppearance { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RedactionAnnotation](../)

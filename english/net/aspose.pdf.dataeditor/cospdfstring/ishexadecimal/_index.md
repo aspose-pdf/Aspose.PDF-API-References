@@ -19,7 +19,7 @@ public bool IsHexadecimal { get; }
 
 ### Property Value
 
-bool
+`true` if this instance is hexadecimal; otherwise, `false`.
 
 ### See Also
 

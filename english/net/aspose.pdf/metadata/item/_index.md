@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public XmpValue Item { get; set; }
 ```
 
-### Property Value
-
-[XmpValue](../../../aspose.pdf/xmpvalue/)
-
 ### See Also
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)

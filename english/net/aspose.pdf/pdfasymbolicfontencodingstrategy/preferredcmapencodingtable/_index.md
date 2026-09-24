@@ -18,10 +18,6 @@ Specifies subtable which will be used in precedence to mac subtable(1,0). Value 
 public CMapEncodingTableType PreferredCmapEncodingTable { get; set; }
 ```
 
-### Property Value
-
-CMapEncodingTableType
-
 ### See Also
 
 * class [PdfASymbolicFontEncodingStrategy](../)

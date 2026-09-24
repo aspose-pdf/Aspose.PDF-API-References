@@ -17,10 +17,6 @@ A factor that shall be used to convert the largest units along the y axis to the
 public double XYFactor { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Measure](../)

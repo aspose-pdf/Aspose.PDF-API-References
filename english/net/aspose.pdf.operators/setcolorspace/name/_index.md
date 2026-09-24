@@ -17,10 +17,6 @@ Gets or sets color space name.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SetColorSpace](../)

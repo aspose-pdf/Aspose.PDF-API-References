@@ -17,10 +17,6 @@ Gets a message describing the outcome of the operation.
 public string Message { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [UnsignedContentAbsorber.Result](../)

@@ -17,10 +17,6 @@ Index of corrupted file.
 public int Index { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfFileEditor.CorruptedItem](../)

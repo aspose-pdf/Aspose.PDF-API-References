@@ -17,10 +17,10 @@ Type of the multimedia.
 public enum ContentType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Audio | `0` | Audio data. |
 | Video | `1` | Video data. |
 | Unknown | `2` | Unknown/unsupported type of data. |

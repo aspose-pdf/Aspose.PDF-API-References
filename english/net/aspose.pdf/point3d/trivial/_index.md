@@ -17,10 +17,6 @@ Gets point with zero coordinates.
 public Point3D Trivial { get; }
 ```
 
-### Property Value
-
-[Point3D](../../../aspose.pdf/point3d/)
-
 ### See Also
 
 * class [Point3D](../../../aspose.pdf/point3d/)

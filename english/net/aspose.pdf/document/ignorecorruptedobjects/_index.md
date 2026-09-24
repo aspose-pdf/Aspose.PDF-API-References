@@ -22,10 +22,6 @@ Gets or sets flag of ignoring errors in source files.
 public bool IgnoreCorruptedObjects { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

@@ -18,10 +18,6 @@ Set true if you need to minimize the number of worksheets in resultant workbook.
 public bool MinimizeTheNumberOfWorksheets { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfToXlsOptions](../)

@@ -17,10 +17,6 @@ Gets font name of the [`Font`](../../../aspose.pdf.text/font/) object.
 public string FontName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

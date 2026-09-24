@@ -18,10 +18,6 @@ Get and set the exclude areas. Used for the first page or document in the compar
 public Rectangle[] ExcludeAreas1 { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)[]
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

@@ -17,10 +17,6 @@ Gets or sets reading order of text: L2R (left to right) or R2L (right to left).
 public Direction Direction { get; set; }
 ```
 
-### Property Value
-
-[Direction](../../../aspose.pdf/direction/)
-
 ### See Also
 
 * class [Direction](../../../aspose.pdf/direction/)

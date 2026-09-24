@@ -17,10 +17,6 @@ Gets a flag the watermark is present.
 public bool Available { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Watermark](../)

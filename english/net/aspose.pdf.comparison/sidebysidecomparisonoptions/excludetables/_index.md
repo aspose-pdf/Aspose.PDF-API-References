@@ -19,10 +19,6 @@ Get and set the option that determines whether tables are excluded from comparis
 public bool ExcludeTables { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SideBySideComparisonOptions](../)

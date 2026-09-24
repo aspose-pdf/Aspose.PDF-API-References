@@ -17,10 +17,6 @@ Gets or sets font of the text.
 public Font Font { get; set; }
 ```
 
-### Property Value
-
-[Font](../../../aspose.pdf.text/font/)
-
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)

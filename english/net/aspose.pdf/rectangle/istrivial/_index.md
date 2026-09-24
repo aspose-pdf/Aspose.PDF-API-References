@@ -17,10 +17,6 @@ Checks if rectangle is trivial i.e. has zero size and position.
 public bool IsTrivial { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Rectangle](../)

@@ -17,10 +17,10 @@ Allows to specify .doc or .docx file format.
 public enum SaveFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Doc | `0` | \c \[MS-DOC]: Word (.doc) Binary File Format |
 | DocX | `1` | Office Open XML (.docx) File Format |
 

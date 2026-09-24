@@ -17,10 +17,6 @@ Gets or sets indication that text is searched within the page bounds.
 public bool LimitToPageBounds { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextSearchOptions](../)

@@ -17,10 +17,6 @@ Gets or sets transition style to use when moving to this page from another durin
 public int TransitionType { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfPageEditor](../)

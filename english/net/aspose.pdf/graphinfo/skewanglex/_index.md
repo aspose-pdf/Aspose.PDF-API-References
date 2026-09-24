@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the skew angle of the x-coordinate whe
 public double SkewAngleX { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GraphInfo](../)

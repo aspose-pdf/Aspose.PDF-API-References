@@ -22,7 +22,7 @@ public bool OptimizeFileSize { get; set; }
 
 ### Property Value
 
-bool
+ if the file size should be reduced as much as possible; otherwise, .
 
 ### See Also
 

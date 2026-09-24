@@ -17,10 +17,6 @@ Gets or sets the details of the message creation.
 public MessageCreation MessageCreation { get; set; }
 ```
 
-### Property Value
-
-[MessageCreation](../../../aspose.pdf.ai/messagecreation/)
-
 ### See Also
 
 * class [MessageCreation](../../../aspose.pdf.ai/messagecreation/)

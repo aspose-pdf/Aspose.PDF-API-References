@@ -17,10 +17,6 @@ Flags of the annotation.
 public AnnotationFlags Flags { get; set; }
 ```
 
-### Property Value
-
-[AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
-
 ### See Also
 
 * class [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)

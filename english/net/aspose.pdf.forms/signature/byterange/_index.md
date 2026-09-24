@@ -18,10 +18,6 @@ An array of pairs of integers (starting byte offset, length in bytes)
 public int[] ByteRange { get; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [Signature](../)

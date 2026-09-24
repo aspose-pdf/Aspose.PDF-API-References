@@ -22,10 +22,6 @@ If true prints always as image (generates image that is printed)
 public bool PrintAsImage { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfViewer](../)

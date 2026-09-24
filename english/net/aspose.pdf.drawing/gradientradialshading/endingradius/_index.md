@@ -17,10 +17,6 @@ Gets or sets ending circle radius.
 public double EndingRadius { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GradientRadialShading](../)

@@ -17,10 +17,6 @@ Gets or sets the path to file.
 public string Path { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileHyperlink](../)

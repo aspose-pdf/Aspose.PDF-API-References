@@ -18,10 +18,10 @@ Allows to specify .xlsx, .xls/xml or csv file format.
 public enum ExcelFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | XMLSpreadSheet2003 | `0` | Excel 2003 XML Format |
 | XLSX | `1` | Office Open XML (.xlsx) File Format |
 | CSV | `2` | A comma-separated values (CSV) File Format |

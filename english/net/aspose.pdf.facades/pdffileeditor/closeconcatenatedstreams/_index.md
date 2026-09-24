@@ -17,10 +17,6 @@ If set to true, streams are closed after operation.
 public bool CloseConcatenatedStreams { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

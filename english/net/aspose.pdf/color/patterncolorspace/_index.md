@@ -17,10 +17,6 @@ Represents a object that indicates the pattern colorspace.
 public PatternColorSpace PatternColorSpace { get; set; }
 ```
 
-### Property Value
-
-[PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
-
 ### See Also
 
 * class [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)

@@ -20,10 +20,6 @@ Gets or sets an alternative to sampling with temperature, called nucleus samplin
 public Nullable<double> TopP { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [RunCreateRequest](../)

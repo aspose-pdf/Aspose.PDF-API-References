@@ -17,10 +17,6 @@ Gets green component of color
 public double G { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [BasicSetColorOperator](../)

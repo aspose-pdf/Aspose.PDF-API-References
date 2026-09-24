@@ -22,10 +22,6 @@ Gets or sets an object that controls which (if any) tool is called by the model.
 public ToolChoice ToolChoice { get; set; }
 ```
 
-### Property Value
-
-[ToolChoice](../../../aspose.pdf.ai/toolchoice/)
-
 ### See Also
 
 * class [ToolChoice](../../../aspose.pdf.ai/toolchoice/)

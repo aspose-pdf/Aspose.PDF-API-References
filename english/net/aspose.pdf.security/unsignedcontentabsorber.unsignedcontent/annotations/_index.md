@@ -17,10 +17,6 @@ Gets a dictionary of modified annotations that may have changed or added.
 public Dictionary<int, Annotation> Annotations { get; }
 ```
 
-### Property Value
-
-Dictionary<int, [Annotation](../../../aspose.pdf.annotations/annotation/)>
-
 ### See Also
 
 * class [UnsignedContentAbsorber.UnsignedContent](../)

@@ -17,10 +17,6 @@ Gets encrypted status of the document. True if document is encrypted.
 public bool IsEncrypted { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

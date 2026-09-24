@@ -17,10 +17,6 @@ Gets or sets the paragraph end note.(for pdf generation only)
 public Note EndNote { get; set; }
 ```
 
-### Property Value
-
-[Note](../../../aspose.pdf/note/)
-
 ### See Also
 
 * class [Note](../../../aspose.pdf/note/)

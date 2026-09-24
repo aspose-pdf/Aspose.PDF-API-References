@@ -17,10 +17,6 @@ Gets the edition type of the license.
 public string EditionType { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LicenseInfo](../)

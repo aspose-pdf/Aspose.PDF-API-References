@@ -17,10 +17,6 @@ Gets or sets the styles of the border corners
 public BorderCornerStyle CornerStyle { get; set; }
 ```
 
-### Property Value
-
-[BorderCornerStyle](../../../aspose.pdf/bordercornerstyle/)
-
 ### See Also
 
 * class [BorderCornerStyle](../../../aspose.pdf/bordercornerstyle/)

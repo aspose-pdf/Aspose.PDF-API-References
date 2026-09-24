@@ -17,10 +17,10 @@ Enumeration of possible field types.
 public enum FieldType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Text | `0` | Text field. |
 | ComboBox | `1` | Combo box field. |
 | ListBox | `2` | List box field. |

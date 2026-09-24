@@ -17,10 +17,6 @@ Gets or sets a list level text state
 public TextState TextState { get; set; }
 ```
 
-### Property Value
-
-[TextState](../../../aspose.pdf.text/textstate/)
-
 ### See Also
 
 * class [TextState](../../../aspose.pdf.text/textstate/)

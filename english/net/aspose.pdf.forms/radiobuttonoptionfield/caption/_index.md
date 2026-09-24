@@ -17,10 +17,6 @@ Gets or sets caption.
 public TextFragment Caption { get; set; }
 ```
 
-### Property Value
-
-[TextFragment](../../../aspose.pdf.text/textfragment/)
-
 ### See Also
 
 * class [TextFragment](../../../aspose.pdf.text/textfragment/)

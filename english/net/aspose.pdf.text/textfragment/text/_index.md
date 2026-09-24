@@ -17,10 +17,6 @@ Gets or sets `String` text object that the [`TextFragment`](../../../aspose.pdf.
 public string Text { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

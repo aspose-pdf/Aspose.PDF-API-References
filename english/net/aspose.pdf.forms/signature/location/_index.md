@@ -17,10 +17,6 @@ The CPU host name or physical location of the signing.
 public string Location { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Signature](../)

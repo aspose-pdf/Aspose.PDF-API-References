@@ -19,7 +19,7 @@ public Point3D Center { get; set; }
 
 ### Property Value
 
-[Point3D](../../../aspose.pdf/point3d/)
+The center.
 
 ### See Also
 

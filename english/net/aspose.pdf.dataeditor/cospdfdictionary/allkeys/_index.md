@@ -18,10 +18,6 @@ Full collection of keys.
 public ICollection<string> AllKeys { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<string>
-
 ### See Also
 
 * class [CosPdfDictionary](../)

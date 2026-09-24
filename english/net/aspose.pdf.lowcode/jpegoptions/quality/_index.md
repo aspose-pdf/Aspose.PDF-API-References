@@ -17,10 +17,6 @@ Gets and sets Jpeg quality
 public int Quality { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [JpegOptions](../)

@@ -17,10 +17,6 @@ Gets array of image names.
 public string[] Names { get; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [XImageCollection](../)

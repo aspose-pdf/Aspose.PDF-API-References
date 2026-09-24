@@ -17,10 +17,6 @@ Gets or sets end position which you want to convert.
 public int EndPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfConverter](../)

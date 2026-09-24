@@ -17,10 +17,6 @@ Gets or sets file specification name.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileSpecification](../)

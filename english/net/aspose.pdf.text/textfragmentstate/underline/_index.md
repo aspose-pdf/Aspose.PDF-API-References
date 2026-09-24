@@ -17,10 +17,6 @@ Gets or sets underline for the text, represented by the [`TextFragment`](../../.
 public bool Underline { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextFragmentState](../)

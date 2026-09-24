@@ -18,10 +18,6 @@ Gets or sets the role of the entity creating the message.
 public string Role { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ThreadMessageCreateRequest](../)

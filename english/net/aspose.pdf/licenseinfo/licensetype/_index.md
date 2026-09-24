@@ -17,10 +17,6 @@ Gets the license type.
 public string LicenseType { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LicenseInfo](../)

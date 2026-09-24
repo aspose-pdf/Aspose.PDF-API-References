@@ -17,10 +17,6 @@ Gets the email address used to license.
 public string EmailTo { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LicenseInfo](../)

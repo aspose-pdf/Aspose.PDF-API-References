@@ -18,10 +18,6 @@ Gets or sets a paragraph is inline.
 public bool IsInLineParagraph { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PositionSettings](../)

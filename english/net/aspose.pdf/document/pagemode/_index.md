@@ -17,10 +17,6 @@ Gets or sets page mode, specifying how document should be displayed when opened.
 public PageMode PageMode { get; set; }
 ```
 
-### Property Value
-
-[PageMode](../../../aspose.pdf/pagemode/)
-
 ### See Also
 
 * class [PageMode](../../../aspose.pdf/pagemode/)

@@ -19,7 +19,7 @@ public string Title { get; set; }
 
 ### Property Value
 
-string
+Title of the structure element.
 
 ### See Also
 

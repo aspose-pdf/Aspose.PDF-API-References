@@ -18,10 +18,6 @@ A hashtable contains the page number and rotation degree,
 public Dictionary<int, int> PageRotations { get; set; }
 ```
 
-### Property Value
-
-Dictionary<int, int>
-
 ### See Also
 
 * class [PdfPageEditor](../)

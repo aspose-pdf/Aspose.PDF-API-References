@@ -17,10 +17,10 @@ This class represents action for conversion of transparency.
 public enum ConvertTransparencyAction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | Use default strategy, no adding masks. |
 | Mask | `1` | Add transparent mask image. |
 

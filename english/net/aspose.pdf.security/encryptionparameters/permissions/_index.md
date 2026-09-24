@@ -17,10 +17,6 @@ The document permissions.
 public Permissions Permissions { get; }
 ```
 
-### Property Value
-
-[Permissions](../../../aspose.pdf/permissions/)
-
 ### See Also
 
 * class [Permissions](../../../aspose.pdf/permissions/)

@@ -17,10 +17,6 @@ Return the number of columns the cell should span when TableAbsorber.UseFlowEngi
 public int ColSpan { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [AbsorbedCell](../)

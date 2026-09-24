@@ -17,10 +17,6 @@ Gets black component of CMYK color.
 public double K { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [BasicSetColorOperator](../)

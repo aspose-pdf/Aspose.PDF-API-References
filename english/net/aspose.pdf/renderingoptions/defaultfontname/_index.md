@@ -17,10 +17,6 @@ Gets/sets the default name of font used to substitute of missing fonts.
 public string DefaultFontName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RenderingOptions](../)

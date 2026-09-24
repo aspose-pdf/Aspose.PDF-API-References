@@ -17,10 +17,6 @@ The conversion factor used to multiply a value in partial units of the previous 
 public double ConvresionFactor { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

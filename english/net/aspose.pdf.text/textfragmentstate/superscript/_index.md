@@ -17,10 +17,6 @@ Gets or sets superscript of the text, represented by the [`TextFragment`](../../
 public bool Superscript { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextFragmentState](../)

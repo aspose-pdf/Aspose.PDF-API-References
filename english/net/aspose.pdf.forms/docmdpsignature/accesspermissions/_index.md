@@ -17,10 +17,6 @@ Returns the access permissions granted for this document.
 public DocMDPAccessPermissions AccessPermissions { get; }
 ```
 
-### Property Value
-
-[DocMDPAccessPermissions](../../../aspose.pdf.forms/docmdpaccesspermissions/)
-
 ### See Also
 
 * class [DocMDPAccessPermissions](../../../aspose.pdf.forms/docmdpaccesspermissions/)

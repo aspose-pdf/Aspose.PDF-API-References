@@ -17,10 +17,6 @@ Action for images with soft mask.
 public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }
 ```
 
-### Property Value
-
-[ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)
-
 ### See Also
 
 * class [ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)

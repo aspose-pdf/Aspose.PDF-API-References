@@ -18,10 +18,6 @@ Strategy to copy encoding data for symbolic fonts if symbolic TrueType font
 public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set; }
 ```
 
-### Property Value
-
-[PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
-
 ### See Also
 
 * class [PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)

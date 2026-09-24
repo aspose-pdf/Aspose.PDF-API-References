@@ -17,10 +17,6 @@ The height of difference.
 public int Height { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ImagesDifference](../)

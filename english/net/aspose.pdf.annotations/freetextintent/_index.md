@@ -17,10 +17,10 @@ Enumerates the intents of the free text annotation.
 public enum FreeTextIntent
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Not defined state. |
 | FreeTextCallout | `1` | Means that the annotation is intended to function as a callout. |
 | FreeTextTypeWriter | `2` | Means that the annotation is intended to function as a click-to-type or typewriter object. |

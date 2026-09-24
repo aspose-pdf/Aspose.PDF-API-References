@@ -17,10 +17,6 @@ Gets or sets the details of the run step.
 public RunStepDetails StepDetails { get; set; }
 ```
 
-### Property Value
-
-[RunStepDetails](../../../aspose.pdf.ai/runstepdetails/)
-
 ### See Also
 
 * class [RunStepDetails](../../../aspose.pdf.ai/runstepdetails/)

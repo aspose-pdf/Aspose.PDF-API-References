@@ -17,10 +17,6 @@ Gets namespace manager.
 public XmlNamespaceManager NamespaceManager { get; }
 ```
 
-### Property Value
-
-XmlNamespaceManager
-
 ### See Also
 
 * class [Metadata](../)

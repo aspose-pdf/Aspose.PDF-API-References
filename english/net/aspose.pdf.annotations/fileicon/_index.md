@@ -17,10 +17,10 @@ An icon to be used in displaying the annotation.
 public enum FileIcon
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | PushPin | `0` | PushPin icon (default value). |
 | Graph | `1` | Graph icon. |
 | Paperclip | `2` | Paperclip icon. |

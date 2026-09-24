@@ -17,10 +17,10 @@ Enumerates conversion engines that can be used for conversion
 public enum ConversionEngines
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | LegacyEngine | `0` | Legacy conversion engine is conversion engine thay was used for a while and is used by default. |
 | NewEngine | `1` | New conversion engine is currently in A-testing state. We open it into public API to get some feedback. 
  It's currently recommended to use it only when old conversion engine cannot convert document for some reasons. |

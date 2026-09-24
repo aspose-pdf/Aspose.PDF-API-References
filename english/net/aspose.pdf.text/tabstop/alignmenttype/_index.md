@@ -17,10 +17,6 @@ Gets or sets a `AlignmentType` enum that indicates the tab tab alignment type.
 public TabAlignmentType AlignmentType { get; set; }
 ```
 
-### Property Value
-
-[TabAlignmentType](../../../aspose.pdf.text/tabalignmenttype/)
-
 ### See Also
 
 * class [TabAlignmentType](../../../aspose.pdf.text/tabalignmenttype/)

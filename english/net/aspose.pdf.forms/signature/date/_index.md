@@ -17,10 +17,6 @@ The time of signing.
 public DateTime Date { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [Signature](../)

@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public ImagePlacement Item { get; }
 ```
 
-### Property Value
-
-[ImagePlacement](../../../aspose.pdf/imageplacement/)
-
 ### See Also
 
 * class [ImagePlacement](../../../aspose.pdf/imageplacement/)

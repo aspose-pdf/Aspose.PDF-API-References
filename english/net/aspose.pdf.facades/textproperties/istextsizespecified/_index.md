@@ -17,10 +17,6 @@ Gets or sets a value that indicates whether the `TextSize` property is specified
 public bool IsTextSizeSpecified { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextProperties](../)

@@ -18,10 +18,6 @@ Gets or sets the starting page number for the artifact.
 public int StartPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PaginationArtifact](../)

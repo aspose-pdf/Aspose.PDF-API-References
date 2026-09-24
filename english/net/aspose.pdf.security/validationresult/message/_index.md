@@ -20,10 +20,6 @@ The Message property provides additional context or information about
 public string Message { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ValidationResult](../)

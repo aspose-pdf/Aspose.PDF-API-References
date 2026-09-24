@@ -17,10 +17,6 @@ Indicates whether the action has been initialized.
 protected bool IsInitialized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfAction](../)

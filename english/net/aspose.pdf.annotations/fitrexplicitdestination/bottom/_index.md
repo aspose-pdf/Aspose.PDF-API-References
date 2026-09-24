@@ -17,10 +17,6 @@ Gets bottom vertical coordinate of visible rectangle.
 public double Bottom { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FitRExplicitDestination](../)

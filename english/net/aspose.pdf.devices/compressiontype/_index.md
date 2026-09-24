@@ -17,10 +17,10 @@ Used to specify the parameter value passed to a Tiff image device.
 public enum CompressionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | LZW | `0` | Specifies the LZW compression scheme. Can be passed to the Tiff encoder as a parameter that belongs to the Compression category. |
 | CCITT4 | `1` | Specifies the CCITT4 compression scheme. Can be passed to the CCITT4 encoder as a parameter that belongs to the Compression category. |
 | CCITT3 | `2` | Specifies the CCITT3 compression scheme. Can be passed to the CCITT3 encoder as a parameter that belongs to the Compression category. |

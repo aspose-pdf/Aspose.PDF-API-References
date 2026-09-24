@@ -17,10 +17,6 @@ Gets/sets ltv validation flag.
 public bool UseLtv { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Signature](../)

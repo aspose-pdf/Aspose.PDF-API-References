@@ -17,10 +17,6 @@ Gets document info.
 public DocumentInfo Info { get; }
 ```
 
-### Property Value
-
-[DocumentInfo](../../../aspose.pdf/documentinfo/)
-
 ### See Also
 
 * class [DocumentInfo](../../../aspose.pdf/documentinfo/)

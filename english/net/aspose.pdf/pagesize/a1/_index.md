@@ -17,10 +17,6 @@ A1 size (840x594 mm).
 public PageSize A1 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

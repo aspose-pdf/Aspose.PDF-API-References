@@ -18,10 +18,6 @@ Gets and sets the CSS-style string for Equal operation.
 public string EqualStyle { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [HtmlDiffOutputGenerator](../)

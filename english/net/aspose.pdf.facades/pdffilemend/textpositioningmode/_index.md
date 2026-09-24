@@ -18,10 +18,6 @@ Sets or gets text positioning strategy. [`PositioningMode`](../../../aspose.pdf.
 public PositioningMode TextPositioningMode { get; set; }
 ```
 
-### Property Value
-
-[PositioningMode](../../../aspose.pdf.facades/positioningmode/)
-
 ### See Also
 
 * class [PositioningMode](../../../aspose.pdf.facades/positioningmode/)

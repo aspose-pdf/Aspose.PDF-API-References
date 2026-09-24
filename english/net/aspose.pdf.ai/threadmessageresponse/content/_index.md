@@ -17,10 +17,6 @@ Gets or sets the content of the message in an array of text and/or images.
 public List<MessageContentResponse> Content { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[MessageContentResponse](../../../aspose.pdf.ai/messagecontentresponse/)>
-
 ### See Also
 
 * class [ThreadMessageResponse](../)

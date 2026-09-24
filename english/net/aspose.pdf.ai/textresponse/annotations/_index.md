@@ -17,10 +17,6 @@ Gets or sets a list of annotations for the message.
 public List<Annotation> Annotations { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Annotation](../../../aspose.pdf.annotations/annotation/)>
-
 ### See Also
 
 * class [TextResponse](../)

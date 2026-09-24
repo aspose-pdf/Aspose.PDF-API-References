@@ -17,10 +17,6 @@ List of field names in the form template.
 public string[] FieldNames { get; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [XFA](../)

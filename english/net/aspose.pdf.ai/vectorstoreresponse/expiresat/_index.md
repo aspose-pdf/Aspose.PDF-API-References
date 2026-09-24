@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the vector store will expi
 public Nullable<long> ExpiresAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<long>
-
 ### See Also
 
 * class [VectorStoreResponse](../)

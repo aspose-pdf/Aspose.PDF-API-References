@@ -17,10 +17,6 @@ Gets or sets the pages the user has asked to print.
 public PrintRange PrintRange { get; set; }
 ```
 
-### Property Value
-
-[PrintRange](../../../aspose.pdf.printing/printrange/)
-
 ### See Also
 
 * class [PrintRange](../../../aspose.pdf.printing/printrange/)

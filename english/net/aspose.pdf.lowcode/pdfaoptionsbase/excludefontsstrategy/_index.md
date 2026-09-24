@@ -22,7 +22,9 @@ public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 
 ### Property Value
 
-RemoveFontsStrategy
+The strategy for removing fonts. This can be one of the values from the `RemoveFontsStrategy`
+ enumeration. The default is the combination of `SubsetFonts` and
+ `RemoveDuplicatedFonts`.
 
 ### See Also
 

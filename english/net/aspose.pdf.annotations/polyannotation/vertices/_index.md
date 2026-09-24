@@ -17,10 +17,6 @@ Gets or sets an array of points representing the horizontal and vertical coordin
 public Point[] Vertices { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)[]
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

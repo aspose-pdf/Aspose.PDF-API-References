@@ -19,7 +19,7 @@ public string Key { get; }
 
 ### Property Value
 
-string
+Attribute Key.
 
 ### See Also
 

@@ -18,10 +18,6 @@ A consolidated error message if OverallSuccess is false,
 public string SummaryErrorMessage { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextRecognitionResult](../)

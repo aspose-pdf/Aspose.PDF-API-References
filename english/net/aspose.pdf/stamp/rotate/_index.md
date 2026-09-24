@@ -20,10 +20,6 @@ Sets or gets the rotation of stamp content according [`Rotation`](../../../aspos
 public Rotation Rotate { get; set; }
 ```
 
-### Property Value
-
-[Rotation](../../../aspose.pdf/rotation/)
-
 ### See Also
 
 * class [Rotation](../../../aspose.pdf/rotation/)

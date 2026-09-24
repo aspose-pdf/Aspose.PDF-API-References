@@ -19,10 +19,6 @@ If attribute RenderTextAsImage set to true, the text from the source becomes an 
 public bool RenderTextAsImage { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

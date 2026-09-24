@@ -20,10 +20,6 @@ If this property is true the "Perms" dictionary will be removed from the pdf doc
 public bool RemovePermission { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

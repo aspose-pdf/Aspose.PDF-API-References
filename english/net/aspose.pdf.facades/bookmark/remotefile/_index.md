@@ -17,10 +17,6 @@ Gets or sets the file (path) which is required for "GoToR" action of bookmark.
 public string RemoteFile { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Bookmark](../)

@@ -17,10 +17,6 @@ Gets or sets the default cell padding.
 public MarginInfo DefaultCellPadding { get; set; }
 ```
 
-### Property Value
-
-[MarginInfo](../../../aspose.pdf/margininfo/)
-
 ### See Also
 
 * class [MarginInfo](../../../aspose.pdf/margininfo/)

@@ -17,10 +17,6 @@ Gets/sets Language value.
 public string Lang { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BDCProperties](../)

@@ -18,10 +18,6 @@ If this flag is set to , Pdf objects will be packed into Objest Streams
 public bool CompressObjects { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

@@ -17,10 +17,6 @@ Gets height of text.
 public float TextHeight { get; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [FormattedText](../)

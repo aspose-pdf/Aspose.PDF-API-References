@@ -17,10 +17,10 @@ This action represents actions for conversion of images with soft mask.
 public enum ConvertSoftMaskAction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | Use default strategy. |
 | ConvertToStencilMask | `1` | Soft mask will be converted into stencil mask. |
 

@@ -17,10 +17,6 @@ Gets or sets a note text.
 public string Text { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Note](../)

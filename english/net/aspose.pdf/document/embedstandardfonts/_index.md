@@ -24,10 +24,6 @@ Property which declares that document must embed all standard Type1 fonts
 public bool EmbedStandardFonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

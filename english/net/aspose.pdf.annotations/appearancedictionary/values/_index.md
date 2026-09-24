@@ -18,10 +18,6 @@ Gets the list of the dictionary values.
 public ICollection<XForm> Values { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<[XForm](../../../aspose.pdf/xform/)>
-
 ### See Also
 
 * class [AppearanceDictionary](../)

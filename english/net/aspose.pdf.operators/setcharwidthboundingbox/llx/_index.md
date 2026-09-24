@@ -17,10 +17,6 @@ Lower-left horizontal coordinate of bounding rectangle.
 public double Llx { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCharWidthBoundingBox](../)

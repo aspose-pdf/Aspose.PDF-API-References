@@ -17,10 +17,6 @@ Gets or sets border width.
 public int Width { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Border](../)

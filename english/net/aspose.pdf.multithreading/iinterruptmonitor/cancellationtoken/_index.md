@@ -18,10 +18,6 @@ Monitor's cancellation token used for process interruption.
 public CancellationToken CancellationToken { get; }
 ```
 
-### Property Value
-
-[CancellationToken](https://learn.microsoft.com/dotnet/api/system.threading.cancellationtoken)
-
 ### See Also
 
 * interface [IInterruptMonitor](../)

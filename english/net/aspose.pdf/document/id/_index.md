@@ -17,10 +17,6 @@ Gets the ID.
 public Id Id { get; }
 ```
 
-### Property Value
-
-[Id](../../../aspose.pdf/id/)
-
 ### See Also
 
 * class [Id](../../../aspose.pdf/id/)

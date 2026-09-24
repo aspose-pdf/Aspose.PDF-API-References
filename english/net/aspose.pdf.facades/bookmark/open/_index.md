@@ -17,10 +17,6 @@ Gets or sets bookmark state (open, close).
 public bool Open { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Bookmark](../)

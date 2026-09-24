@@ -17,10 +17,6 @@ Gets or sets a value indicating whether to ignore distinct paragraphs when adjus
 public bool IgnoreParagraphs { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextReplaceOptions](../)

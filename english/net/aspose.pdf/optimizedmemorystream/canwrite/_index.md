@@ -17,10 +17,6 @@ When overridden in a derived class, gets a value indicating whether the current 
 public bool CanWrite { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizedMemoryStream](../)

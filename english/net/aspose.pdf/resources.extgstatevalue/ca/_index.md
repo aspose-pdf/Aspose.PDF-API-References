@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public double ca { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Resources.ExtGStateValue](../)

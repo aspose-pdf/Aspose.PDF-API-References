@@ -17,10 +17,6 @@ Returns list of allowed states.
 public List<string> AllowedStates { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [CheckboxField](../)

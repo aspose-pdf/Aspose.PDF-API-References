@@ -17,10 +17,6 @@ Gets or sets annotation name on the page.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Annotation](../)

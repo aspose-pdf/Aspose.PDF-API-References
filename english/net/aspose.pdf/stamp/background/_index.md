@@ -19,10 +19,6 @@ Sets or gets a bool value that indicates the content is stamped as background.
 public bool Background { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Stamp](../)

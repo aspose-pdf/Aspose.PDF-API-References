@@ -17,10 +17,6 @@ A number format array for measurement of change along the xaxis and, if Y is not
 public NumberFormatList XFormat { get; set; }
 ```
 
-### Property Value
-
-NumberFormatList
-
 ### See Also
 
 * class [Measure](../)

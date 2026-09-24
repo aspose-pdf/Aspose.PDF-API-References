@@ -19,10 +19,6 @@ If set to true, exceptions are thrown if error occured. Else excetion are not th
 public bool AllowConcatenateExceptions { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

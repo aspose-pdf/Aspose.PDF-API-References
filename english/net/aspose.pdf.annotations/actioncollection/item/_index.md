@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public PdfAction Item { get; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

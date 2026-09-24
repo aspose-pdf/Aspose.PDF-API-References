@@ -17,10 +17,6 @@ Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY.
 public bool IsPoint { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Rectangle](../)

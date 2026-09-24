@@ -17,10 +17,6 @@ Gets or sets page mode, specifying how to display the document on exiting full-s
 public PageMode NonFullScreenPageMode { get; set; }
 ```
 
-### Property Value
-
-[PageMode](../../../aspose.pdf/pagemode/)
-
 ### See Also
 
 * class [PageMode](../../../aspose.pdf/pagemode/)

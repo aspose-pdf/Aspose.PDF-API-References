@@ -17,10 +17,6 @@ Gets count.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Outlines](../)

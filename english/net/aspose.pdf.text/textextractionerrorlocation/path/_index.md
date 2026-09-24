@@ -17,10 +17,6 @@ Location of the PDF document where text extraction error has appeared.
 public string Path { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionErrorLocation](../)

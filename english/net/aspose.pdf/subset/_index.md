@@ -17,10 +17,10 @@ Represents the subset of pages to which a pagination artifact can apply.
 public enum Subset
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | All | `0` | Indicates that the artifact applies to all pages. |
 | Even | `1` | Indicates that the artifact applies only to even-numbered pages. |
 | Odd | `2` | Indicates that the artifact applies only to odd-numbered pages. |

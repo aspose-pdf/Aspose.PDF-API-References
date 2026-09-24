@@ -19,10 +19,6 @@ Gets or Sets the vertical alignment of the original PDF content on the result pa
 public VerticalAlignmentType VerticalAlignment { get; set; }
 ```
 
-### Property Value
-
-[VerticalAlignmentType](../../../aspose.pdf.facades/verticalalignmenttype/)
-
 ### See Also
 
 * class [VerticalAlignmentType](../../../aspose.pdf.facades/verticalalignmenttype/)

@@ -17,10 +17,6 @@ Gets the collection of Output intents in the document.
 public OutputIntents OutputIntents { get; }
 ```
 
-### Property Value
-
-[OutputIntents](../../../aspose.pdf/outputintents/)
-
 ### See Also
 
 * class [OutputIntents](../../../aspose.pdf/outputintents/)

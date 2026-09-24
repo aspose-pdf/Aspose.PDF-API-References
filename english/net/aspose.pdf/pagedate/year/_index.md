@@ -18,10 +18,6 @@ Gets or sets the year component of the date.
 public YearComponent Year { get; set; }
 ```
 
-### Property Value
-
-YearComponent
-
 ### See Also
 
 * class [PageDate](../)

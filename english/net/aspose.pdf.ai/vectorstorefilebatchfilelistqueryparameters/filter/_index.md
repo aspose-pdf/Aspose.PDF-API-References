@@ -17,10 +17,6 @@ Gets or sets a filter by file status. One of in_progress, completed, failed, can
 public string Filter { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [VectorStoreFileBatchFileListQueryParameters](../)

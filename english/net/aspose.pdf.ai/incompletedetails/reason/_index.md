@@ -17,10 +17,6 @@ Gets or sets the reason why the message is incomplete.
 public string Reason { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [IncompleteDetails](../)

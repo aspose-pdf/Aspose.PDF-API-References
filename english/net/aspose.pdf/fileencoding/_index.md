@@ -17,10 +17,10 @@ Encoding of the attached file. Possible values: Zip - file is compressed with ZI
 public enum FileEncoding
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | File is not compressed. |
 | Zip | `1` | File is compressed with ZIP algorithhm. |
 

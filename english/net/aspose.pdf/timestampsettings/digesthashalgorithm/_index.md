@@ -17,10 +17,6 @@ Gets/sets the digest algorithm for internal hash functions.
 public DigestHashAlgorithm DigestHashAlgorithm { get; set; }
 ```
 
-### Property Value
-
-[DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-
 ### See Also
 
 * class [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)

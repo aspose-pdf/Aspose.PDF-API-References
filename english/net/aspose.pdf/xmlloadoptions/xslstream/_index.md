@@ -17,10 +17,6 @@ Gets xsl data for converting xml into pdf document.
 public Stream XslStream { get; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [XmlLoadOptions](../)

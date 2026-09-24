@@ -17,10 +17,6 @@ Gets normal appearance.
 protected internal XForm NormalAppearance { get; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

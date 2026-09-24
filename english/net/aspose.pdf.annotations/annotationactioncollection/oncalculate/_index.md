@@ -17,10 +17,6 @@ Gets or sets an action to calculate field value.
 public PdfAction OnCalculate { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

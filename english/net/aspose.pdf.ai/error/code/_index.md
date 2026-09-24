@@ -17,10 +17,6 @@ Gets or sets the error code.
 public string Code { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Error](../)

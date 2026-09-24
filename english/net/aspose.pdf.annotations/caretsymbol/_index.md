@@ -17,10 +17,10 @@ A symbol to be associated with the caret.
 public enum CaretSymbol
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No symbol should be associated with the caret. |
 | Paragraph | `1` | A new paragraph symbol should be associated with the caret. |
 

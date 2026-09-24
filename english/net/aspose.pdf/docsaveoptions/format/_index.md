@@ -17,10 +17,6 @@ Output format
 public DocFormat Format { get; set; }
 ```
 
-### Property Value
-
-DocFormat
-
 ### See Also
 
 * class [DocSaveOptions](../)

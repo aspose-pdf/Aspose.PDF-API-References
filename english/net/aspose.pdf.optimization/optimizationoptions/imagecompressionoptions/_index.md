@@ -17,10 +17,6 @@ Set of options which describe will images in the document be compressed and para
 public ImageCompressionOptions ImageCompressionOptions { get; }
 ```
 
-### Property Value
-
-[ImageCompressionOptions](../../../aspose.pdf.optimization/imagecompressionoptions/)
-
 ### See Also
 
 * class [ImageCompressionOptions](../../../aspose.pdf.optimization/imagecompressionoptions/)

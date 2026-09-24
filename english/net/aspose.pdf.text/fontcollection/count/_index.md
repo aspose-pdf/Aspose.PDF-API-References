@@ -17,10 +17,6 @@ Gets the number of [`Font`](../../../aspose.pdf.text/font/) object elements actu
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FontCollection](../)

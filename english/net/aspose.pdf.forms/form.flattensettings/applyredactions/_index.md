@@ -17,10 +17,6 @@ If true, redaction specified Redaction annotation will be applied
 public bool ApplyRedactions { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form.FlattenSettings](../)

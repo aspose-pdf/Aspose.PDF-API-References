@@ -17,10 +17,6 @@ Gets or sets opacity of the stamp.
 public float Opacity { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [Stamp](../)

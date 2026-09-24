@@ -17,10 +17,6 @@ Gets or sets the request timeout duration in milliseconds for the OCSP request.
 public int RequestTimeout { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OcspSettings](../)

@@ -17,10 +17,6 @@ Gets/sets flag that indicates if fonts must be embedded in resulting PS document
 public bool EmbedFont { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PsSaveOptions](../)

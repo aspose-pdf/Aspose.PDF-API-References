@@ -17,10 +17,10 @@ Value which indicates in which manner fraction values are displayed.
 public enum FractionStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | ShowAsDecimal | `0` | Show fractional values as decimal fraction. |
 | ShowAsFraction | `1` | Show fractional value as fraction. |
 | Round | `2` | Round fractional values to the nearest whole integer. |

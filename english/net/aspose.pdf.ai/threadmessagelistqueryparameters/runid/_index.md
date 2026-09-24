@@ -17,10 +17,6 @@ Filter messages by the run ID that generated them.
 public string RunId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ThreadMessageListQueryParameters](../)

@@ -18,10 +18,6 @@ Gets the difference array.
 public int[] Difference { get; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [ImagesDifference](../)

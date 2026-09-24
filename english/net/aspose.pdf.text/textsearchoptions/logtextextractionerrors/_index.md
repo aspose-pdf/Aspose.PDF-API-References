@@ -19,10 +19,6 @@ Gets or sets indication that text extraction (decoding) errors will be logged in
 public bool LogTextExtractionErrors { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextSearchOptions](../)

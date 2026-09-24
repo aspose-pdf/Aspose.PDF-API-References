@@ -17,10 +17,10 @@ This enum represents known password types used for password protected pdf docume
 public enum PasswordType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Pdf document is not password protected. |
 | User | `1` | Pdf document was opened using document open password (restricted access). |
 | Owner | `2` | Pdf document was opened using change permissions password (full access). |

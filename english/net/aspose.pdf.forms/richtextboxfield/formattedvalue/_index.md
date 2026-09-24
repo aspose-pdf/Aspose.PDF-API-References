@@ -17,10 +17,6 @@ Gets or sets formatted rich text value with markup.
 public string FormattedValue { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RichTextBoxField](../)

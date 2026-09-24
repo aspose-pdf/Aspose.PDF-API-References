@@ -19,10 +19,6 @@ Gets or sets the flag that indicates whether each page of source
 public bool SplitIntoPages { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

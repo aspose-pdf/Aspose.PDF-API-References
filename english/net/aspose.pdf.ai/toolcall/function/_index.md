@@ -17,10 +17,6 @@ Gets or sets the function that the model called.
 public Function Function { get; set; }
 ```
 
-### Property Value
-
-[Function](../../../aspose.pdf.ai/function/)
-
 ### See Also
 
 * class [Function](../../../aspose.pdf.ai/function/)

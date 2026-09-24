@@ -18,10 +18,6 @@ Gets/sets the flag to use embedded TrueType fonts.
 public bool UseEmbeddedTrueTypeFonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XpsSaveOptions](../)

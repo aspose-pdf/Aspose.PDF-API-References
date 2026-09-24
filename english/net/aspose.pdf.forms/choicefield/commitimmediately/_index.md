@@ -17,10 +17,6 @@ Gets or sets commit on selection change flag.
 public bool CommitImmediately { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ChoiceField](../)

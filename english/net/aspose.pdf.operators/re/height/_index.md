@@ -17,10 +17,6 @@ Height of the rectangle.
 public double Height { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Re](../)

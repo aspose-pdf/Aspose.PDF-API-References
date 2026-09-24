@@ -17,10 +17,6 @@ Gets or sets the object type, which is always fine_tuning.job.
 public string Object { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateFineTuningJobResponse](../)

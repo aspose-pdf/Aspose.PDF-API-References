@@ -17,10 +17,6 @@ Gets or sets icon that shall be used in displaying annotation.
 public FileIcon Icon { get; set; }
 ```
 
-### Property Value
-
-[FileIcon](../../../aspose.pdf.annotations/fileicon/)
-
 ### See Also
 
 * class [FileIcon](../../../aspose.pdf.annotations/fileicon/)

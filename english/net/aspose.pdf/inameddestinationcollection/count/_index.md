@@ -17,10 +17,6 @@ Returns count of the destinations.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * interface [INamedDestinationCollection](../)

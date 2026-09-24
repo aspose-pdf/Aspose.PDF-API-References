@@ -17,10 +17,6 @@ List of names of the destinations.
 public string[] Names { get; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [NamedDestinationCollection](../)

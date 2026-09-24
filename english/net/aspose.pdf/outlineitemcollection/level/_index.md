@@ -17,10 +17,6 @@ Gets hierarchy level of outline item.
 public int Level { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OutlineItemCollection](../)

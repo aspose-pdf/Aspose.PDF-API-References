@@ -17,10 +17,6 @@ Gets fixed row height - row may have fixed height;
 public double FixedRowHeight { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Row](../)

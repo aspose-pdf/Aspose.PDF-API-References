@@ -17,10 +17,6 @@ Gets or sets whether to pass data from Info to Metadata when converted to PDF 2.
 public bool IsTransferInfo { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

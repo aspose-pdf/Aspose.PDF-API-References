@@ -17,10 +17,6 @@ Gets number of the page containing this table
 public int PageNum { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [AbsorbedTable](../)

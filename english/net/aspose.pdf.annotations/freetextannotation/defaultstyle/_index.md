@@ -17,10 +17,6 @@ Gets or sets a default style string.
 public string DefaultStyle { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FreeTextAnnotation](../)

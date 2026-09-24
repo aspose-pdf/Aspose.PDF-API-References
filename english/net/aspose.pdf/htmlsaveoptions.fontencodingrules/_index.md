@@ -17,10 +17,10 @@ This enumeration defines rules which tune encoding logic
 public enum FontEncodingRules
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | Leave encoding logic "as is" - in accordance with PDF specification |
 | DecreaseToUnicodePriorityLevel | `1` | ToUnicode is a special mechanism which helps to decode input codes to unicode symbols.
  According to specification it must be used first of all mechanisms to get unicode symbols 

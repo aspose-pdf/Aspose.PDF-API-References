@@ -19,7 +19,8 @@ public ConvertErrorAction ErrorAction { get; set; }
 
 ### Property Value
 
-[ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+The action to be taken when an object in a document structure cannot be converted.
+ The value of this property is a [`ConvertErrorAction`](../../../aspose.pdf/converterroraction/) enumeration.
 
 ### See Also
 

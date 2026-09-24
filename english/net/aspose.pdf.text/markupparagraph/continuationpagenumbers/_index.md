@@ -17,10 +17,6 @@ List of page numbers on which the paragraph is continued. It will match with pag
 public List<int> ContinuationPageNumbers { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<int>
-
 ### See Also
 
 * class [MarkupParagraph](../)

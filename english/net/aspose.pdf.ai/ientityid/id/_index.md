@@ -17,10 +17,6 @@ Gets or sets the ID of the entity.
 public string Id { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * interface [IEntityId](../)

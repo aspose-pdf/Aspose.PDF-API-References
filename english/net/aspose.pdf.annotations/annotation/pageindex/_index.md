@@ -17,10 +17,6 @@ Gets index of page which contains annotation.
 public int PageIndex { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Annotation](../)

@@ -19,10 +19,6 @@ Dash phase. Before beginning to stroke a path, the dash array shall be cycled th
 public int Phase { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [SetDash](../)

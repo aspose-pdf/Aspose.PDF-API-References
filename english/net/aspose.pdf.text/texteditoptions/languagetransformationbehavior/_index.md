@@ -17,10 +17,6 @@ Gets mode that defines behavior for language transformation scenarios.
 public LanguageTransformation LanguageTransformationBehavior { get; set; }
 ```
 
-### Property Value
-
-LanguageTransformation
-
 ### See Also
 
 * class [TextEditOptions](../)

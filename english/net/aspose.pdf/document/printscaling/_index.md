@@ -17,10 +17,6 @@ Gets or sets the page scaling option that shall be selected when a print dialog 
 public PrintScaling PrintScaling { get; set; }
 ```
 
-### Property Value
-
-[PrintScaling](../../../aspose.pdf/printscaling/)
-
 ### See Also
 
 * class [PrintScaling](../../../aspose.pdf/printscaling/)

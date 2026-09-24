@@ -17,10 +17,6 @@ Output directory for crash report. By default is set to current directory.
 public string CrashReportDirectory { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CrashReportOptions](../)

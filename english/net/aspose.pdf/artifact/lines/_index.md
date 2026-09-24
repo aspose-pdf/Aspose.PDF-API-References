@@ -17,10 +17,6 @@ Lines of multiline text artifact.
 public List<string> Lines { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [Artifact](../)

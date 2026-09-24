@@ -17,10 +17,6 @@ Gets text in the stamp.
 public string Text { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [StampInfo](../)

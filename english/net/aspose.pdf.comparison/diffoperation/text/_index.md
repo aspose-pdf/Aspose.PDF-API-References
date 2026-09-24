@@ -17,10 +17,6 @@ Get and set operation text.
 public string Text { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DiffOperation](../)

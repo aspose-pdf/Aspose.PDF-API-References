@@ -17,10 +17,10 @@ Specifies the option that designate the part of the document to print.
 public enum PrintRange
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | AllPages | `0` | All pages are printed. |
 | SomePages | `2` | The pages between <see cref="P:Aspose.Pdf.Printing.PrinterSettings.FromPage" /> and <see cref="P:Aspose.Pdf.Printing.PrinterSettings.ToPage" /> are printed. |
 | Selection | `1` | The selected pages are printed. |

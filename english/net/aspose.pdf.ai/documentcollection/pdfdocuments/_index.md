@@ -17,10 +17,6 @@ Gets or sets the collection of PDF documents to be processed.
 public List<PdfDocument> PdfDocuments { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[PdfDocument](../../../aspose.pdf.ai/pdfdocument/)>
-
 ### See Also
 
 * class [DocumentCollection](../)

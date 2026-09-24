@@ -17,10 +17,6 @@ Gets or sets the ending page number.
 public int End { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PageRange](../)

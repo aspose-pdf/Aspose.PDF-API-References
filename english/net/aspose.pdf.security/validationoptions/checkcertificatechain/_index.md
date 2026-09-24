@@ -23,10 +23,6 @@ When the property is set, the existence of a chain of certificates will be check
 public bool CheckCertificateChain { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ValidationOptions](../)

@@ -17,10 +17,6 @@ Sets or gets ID of the model to use.
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LlamaChatCompletionRequest](../)

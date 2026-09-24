@@ -17,10 +17,6 @@ Gets the initial visibility of the field in the user interface. Default value: t
 public bool V { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [CollectionField](../)

@@ -17,10 +17,6 @@ Next actions in sequence.
 public ActionCollection Next { get; }
 ```
 
-### Property Value
-
-[ActionCollection](../../../aspose.pdf.annotations/actioncollection/)
-
 ### See Also
 
 * class [ActionCollection](../../../aspose.pdf.annotations/actioncollection/)

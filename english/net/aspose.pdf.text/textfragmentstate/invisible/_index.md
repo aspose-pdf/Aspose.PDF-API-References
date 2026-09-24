@@ -17,10 +17,6 @@ Gets or sets invisibility of the text.
 public bool Invisible { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextFragmentState](../)

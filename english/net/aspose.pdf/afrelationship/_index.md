@@ -17,10 +17,10 @@ Enumeration describes associated files relationship.
 public enum AFRelationship
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Source | `0` | Source |
 | Data | `1` | Data |
 | Alternative | `2` | Alternative |

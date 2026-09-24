@@ -17,10 +17,6 @@ Gets or sets new page size.
 public PageSize PageSize { get; set; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

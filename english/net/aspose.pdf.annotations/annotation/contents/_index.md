@@ -17,10 +17,6 @@ Gets or sets annotation text.
 public string Contents { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Annotation](../)

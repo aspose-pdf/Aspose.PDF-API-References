@@ -17,10 +17,6 @@ Gets or sets editable status of the field.
 public bool Editable { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ComboBoxField](../)

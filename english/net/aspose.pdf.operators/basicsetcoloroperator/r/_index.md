@@ -17,10 +17,6 @@ Gets red component of color
 public double R { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [BasicSetColorOperator](../)

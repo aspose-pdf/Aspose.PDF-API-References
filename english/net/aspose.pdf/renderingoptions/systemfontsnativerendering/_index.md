@@ -17,10 +17,6 @@ Gets or sets a mode where system fonts are rendered natively.
 public bool SystemFontsNativeRendering { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

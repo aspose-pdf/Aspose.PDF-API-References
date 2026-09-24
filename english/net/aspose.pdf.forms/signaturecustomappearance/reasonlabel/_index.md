@@ -17,10 +17,6 @@ Gets/sets reason label. Default value: "Reason".
 public string ReasonLabel { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

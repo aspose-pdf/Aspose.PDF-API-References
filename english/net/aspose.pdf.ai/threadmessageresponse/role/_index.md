@@ -17,10 +17,6 @@ Gets or sets the entity that produced the message. One of "user" or "assistant".
 public string Role { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ThreadMessageResponse](../)

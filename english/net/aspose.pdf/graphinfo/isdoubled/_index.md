@@ -17,10 +17,6 @@ Gets or sets is border doubled.
 public bool IsDoubled { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [GraphInfo](../)

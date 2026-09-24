@@ -19,10 +19,6 @@ A 16-byte string that is the checksum of the bytes of the uncompressed embedded 
 public string CheckSum { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileParams](../)

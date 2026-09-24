@@ -17,10 +17,10 @@ Enumeration of possible artifacts subtype.
 public enum ArtifactSubtype
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Header | `0` | Header artifact. |
 | Footer | `1` | Footer artifact. |
 | Watermark | `2` | Watermark artifact. |

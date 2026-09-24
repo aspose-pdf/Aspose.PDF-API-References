@@ -18,10 +18,6 @@ Indicates if OCR was successful for ALL pages within this document.
 public bool OverallSuccess { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextRecognitionResult](../)

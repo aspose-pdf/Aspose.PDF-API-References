@@ -17,10 +17,6 @@ Gets or sets the ID of the thread to which this message belongs.
 public string ThreadId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ThreadMessageResponse](../)

@@ -17,10 +17,6 @@ Gets the error reason phrase.
 public string ReasonPhrase { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BaseResponse](../)

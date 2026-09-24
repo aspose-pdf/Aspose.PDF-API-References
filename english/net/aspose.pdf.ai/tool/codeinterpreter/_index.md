@@ -17,10 +17,6 @@ Gets a tool instance representing a code interpreter.
 public Tool CodeInterpreter { get; }
 ```
 
-### Property Value
-
-[Tool](../../../aspose.pdf.ai/tool/)
-
 ### See Also
 
 * class [Tool](../../../aspose.pdf.ai/tool/)

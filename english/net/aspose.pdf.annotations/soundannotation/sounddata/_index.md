@@ -17,10 +17,6 @@ Gets a sound object defining the sound to be played when the annotation is activ
 public SoundData SoundData { get; }
 ```
 
-### Property Value
-
-[SoundData](../../../aspose.pdf.annotations/sounddata/)
-
 ### See Also
 
 * class [SoundData](../../../aspose.pdf.annotations/sounddata/)

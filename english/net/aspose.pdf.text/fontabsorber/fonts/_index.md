@@ -17,10 +17,6 @@ Gets collection of search occurrences that are presented with [`Font`](../../../
 public FontCollection Fonts { get; }
 ```
 
-### Property Value
-
-[FontCollection](../../../aspose.pdf.text/fontcollection/)
-
 ### See Also
 
 * class [FontCollection](../../../aspose.pdf.text/fontcollection/)

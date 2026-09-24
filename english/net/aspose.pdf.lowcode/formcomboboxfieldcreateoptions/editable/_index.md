@@ -17,10 +17,6 @@ Gets/sets the value to determine whether created ComboBoxField is editable or no
 public Nullable<bool> Editable { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormComboBoxFieldCreateOptions](../)

@@ -17,10 +17,6 @@ If false, string to find is a simple text. If true, string to find is regular ex
 public bool IsRegularExpressionUsed { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ReplaceTextStrategy](../)

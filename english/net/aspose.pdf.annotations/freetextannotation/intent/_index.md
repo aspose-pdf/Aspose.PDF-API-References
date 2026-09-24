@@ -17,10 +17,6 @@ Gets or sets the intent of the free text annotation.
 public FreeTextIntent Intent { get; set; }
 ```
 
-### Property Value
-
-[FreeTextIntent](../../../aspose.pdf.annotations/freetextintent/)
-
 ### See Also
 
 * class [FreeTextIntent](../../../aspose.pdf.annotations/freetextintent/)

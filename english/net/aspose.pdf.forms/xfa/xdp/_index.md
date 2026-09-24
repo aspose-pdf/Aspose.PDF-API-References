@@ -17,10 +17,6 @@ XML Data Package (all XFA form components within a surrounding XML container).
 public XmlDocument XDP { get; }
 ```
 
-### Property Value
-
-XmlDocument
-
 ### See Also
 
 * class [XFA](../)

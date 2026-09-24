@@ -17,10 +17,6 @@ Same as `Kind`, but values larger than DMBIN_USER do not map to `Custom`.
 public int RawKind { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PaperSource](../)

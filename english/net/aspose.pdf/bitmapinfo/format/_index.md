@@ -17,10 +17,6 @@ Gets the pixel format of the bitmap.
 public PixelFormat Format { get; }
 ```
 
-### Property Value
-
-PixelFormat
-
 ### See Also
 
 * class [BitmapInfo](../)

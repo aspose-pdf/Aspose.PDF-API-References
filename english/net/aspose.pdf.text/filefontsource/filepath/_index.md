@@ -17,10 +17,6 @@ Path to the font file.
 public string FilePath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileFontSource](../)

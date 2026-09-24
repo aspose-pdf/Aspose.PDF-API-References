@@ -17,10 +17,6 @@ Gets or sets the attribute specifying the encoding used for this document at the
 public string InputEncoding { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [HtmlLoadOptions](../)

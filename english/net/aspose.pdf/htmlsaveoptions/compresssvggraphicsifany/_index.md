@@ -21,7 +21,7 @@ public bool CompressSvgGraphicsIfAny { get; set; }
 
 ### Property Value
 
-bool
+The [`HtmlDocumentType`](../../../aspose.pdf/htmldocumenttype/).
 
 ### See Also
 

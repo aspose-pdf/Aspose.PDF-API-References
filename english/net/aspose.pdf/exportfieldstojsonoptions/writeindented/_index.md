@@ -19,7 +19,7 @@ public bool WriteIndented { get; set; }
 
 ### Property Value
 
-bool
+`true` if the Json output should be indented; otherwise, `false`.
 
 ### See Also
 

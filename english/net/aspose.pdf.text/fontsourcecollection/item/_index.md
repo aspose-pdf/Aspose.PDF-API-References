@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public FontSource Item { get; }
 ```
 
-### Property Value
-
-[FontSource](../../../aspose.pdf.text/fontsource/)
-
 ### See Also
 
 * class [FontSource](../../../aspose.pdf.text/fontsource/)

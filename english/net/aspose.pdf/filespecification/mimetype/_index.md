@@ -17,10 +17,6 @@ Gets subtype of the embedded file
 public string MIMEType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileSpecification](../)

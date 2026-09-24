@@ -17,10 +17,6 @@ Gets or sets the image file.
 public string File { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Image](../)

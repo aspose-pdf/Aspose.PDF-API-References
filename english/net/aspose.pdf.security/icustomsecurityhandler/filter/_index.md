@@ -17,10 +17,6 @@ Gets the filter name.
 public string Filter { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * interface [ICustomSecurityHandler](../)

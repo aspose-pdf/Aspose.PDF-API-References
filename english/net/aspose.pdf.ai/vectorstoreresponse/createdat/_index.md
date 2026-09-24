@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the vector store was creat
 public Nullable<long> CreatedAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<long>
-
 ### See Also
 
 * class [VectorStoreResponse](../)

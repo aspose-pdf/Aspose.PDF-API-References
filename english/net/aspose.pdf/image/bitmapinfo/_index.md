@@ -17,10 +17,6 @@ Gets or sets uncompressed image bytes.
 public BitmapInfo BitmapInfo { get; set; }
 ```
 
-### Property Value
-
-[BitmapInfo](../../../aspose.pdf/bitmapinfo/)
-
 ### See Also
 
 * class [BitmapInfo](../../../aspose.pdf/bitmapinfo/)

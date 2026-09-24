@@ -17,10 +17,6 @@ Gets or sets rotation of the page.
 public Rotation Rotate { get; set; }
 ```
 
-### Property Value
-
-[Rotation](../../../aspose.pdf/rotation/)
-
 ### See Also
 
 * class [Rotation](../../../aspose.pdf/rotation/)

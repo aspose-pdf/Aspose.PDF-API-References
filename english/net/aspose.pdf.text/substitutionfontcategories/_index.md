@@ -17,10 +17,10 @@ Represents font categories that can be substituted.
 public enum SubstitutionFontCategories
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | TheSameNamedEmbeddedFonts | `0` | The fonts that are named the same as system fonts.
  Those fonts are mostly safe to be substituted with the same named system fonts. |
 | AllEmbeddedFonts | `1` | All embedded fonts are substituted. |

@@ -17,10 +17,6 @@ Toggles text columns recognition
 public bool OptimizeTextBoxes { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PptxSaveOptions](../)

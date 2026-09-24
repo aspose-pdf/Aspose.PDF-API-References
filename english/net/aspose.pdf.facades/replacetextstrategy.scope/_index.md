@@ -18,10 +18,10 @@ Scope where replace text operation is applied
 public enum Scope
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | ReplaceFirst | `0` | Replace only first occurence of the text on each of affected pages |
 | ReplaceAll | `1` | Replace all text occurences on all affected pages |
 

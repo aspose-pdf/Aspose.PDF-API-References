@@ -17,10 +17,6 @@ Location of the error.
 public TextExtractionErrorLocation Location { get; }
 ```
 
-### Property Value
-
-[TextExtractionErrorLocation](../../../aspose.pdf.text/textextractionerrorlocation/)
-
 ### See Also
 
 * class [TextExtractionErrorLocation](../../../aspose.pdf.text/textextractionerrorlocation/)

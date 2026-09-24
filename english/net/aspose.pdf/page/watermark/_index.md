@@ -17,10 +17,6 @@ Gets or sets the watermark of the page.
 public Watermark Watermark { get; set; }
 ```
 
-### Property Value
-
-[Watermark](../../../aspose.pdf/watermark/)
-
 ### See Also
 
 * class [Watermark](../../../aspose.pdf/watermark/)

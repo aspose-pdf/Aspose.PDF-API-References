@@ -17,10 +17,6 @@ Gets or sets character spacing of the text, represented by the [`TextFragment`](
 public float CharacterSpacing { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextFragmentState](../)

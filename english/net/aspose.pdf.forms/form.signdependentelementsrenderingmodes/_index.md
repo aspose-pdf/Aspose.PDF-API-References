@@ -19,10 +19,10 @@ Forms can contain signing information and can be signed or unsigned.
 public enum SignDependentElementsRenderingModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | RenderFormAsUnsigned | `0` | Render form as unsigned. |
 | RenderFormAsSigned | `1` | Render form as signed. |
 

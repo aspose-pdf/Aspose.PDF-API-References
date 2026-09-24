@@ -17,10 +17,6 @@ Gets or sets the right alignment settings.
 public Right Right { get; set; }
 ```
 
-### Property Value
-
-[Right](../../../aspose.pdf/right/)
-
 ### See Also
 
 * class [Right](../../../aspose.pdf/right/)

@@ -17,10 +17,10 @@ Specifies the validation mode for PDF signature validation processes.
 public enum ValidationMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Represents a mode where validation is not performed. |
 | OnlyCheck | `1` | Represents the mode in which the validation is made, but its result does not affect the validation of the digital signature.
  You can check the result of the validation yourself. |

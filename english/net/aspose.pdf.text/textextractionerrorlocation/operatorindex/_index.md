@@ -17,10 +17,6 @@ Index of text showing operator in the contents stream (operator collection) that
 public int OperatorIndex { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextExtractionErrorLocation](../)

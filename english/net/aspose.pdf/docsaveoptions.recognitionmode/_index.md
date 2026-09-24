@@ -17,10 +17,10 @@ Allows to control how a PDF document is converted into a word processing documen
 public enum RecognitionMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Textbox | `0` | This mode is fast and good for maximally preserving original look of the PDF file, 
  but editability of the resulting document could be limited.
  

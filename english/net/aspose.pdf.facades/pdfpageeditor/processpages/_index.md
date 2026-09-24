@@ -17,10 +17,6 @@ Gets or sets the page numbers to be edited. By default, each page would be edite
 public int[] ProcessPages { get; set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [PdfPageEditor](../)

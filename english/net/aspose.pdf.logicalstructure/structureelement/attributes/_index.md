@@ -19,7 +19,7 @@ public StructureAttributeCollection Attributes { get; }
 
 ### Property Value
 
-[StructureAttributeCollection](../../../aspose.pdf.logicalstructure/structureattributecollection/)
+[`StructureAttributeCollection`](../../../aspose.pdf.logicalstructure/structureattributecollection/) object.
 
 ### See Also
 

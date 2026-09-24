@@ -17,10 +17,6 @@ Gets or sets the contents of the message.
 public string Content { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ChatMessageResponse](../)

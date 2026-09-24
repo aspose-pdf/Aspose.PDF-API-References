@@ -19,10 +19,6 @@ Gets or sets an option to remove metadata from the document.
 public bool RemoveMetadata { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

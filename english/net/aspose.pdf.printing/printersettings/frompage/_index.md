@@ -17,10 +17,6 @@ Gets or sets the first page to print.
 public int FromPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PrinterSettings](../)

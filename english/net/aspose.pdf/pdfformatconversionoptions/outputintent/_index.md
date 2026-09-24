@@ -21,10 +21,6 @@ The `OutputIntent` specifies the intended output device or condition
 public OutputIntent OutputIntent { get; set; }
 ```
 
-### Property Value
-
-[OutputIntent](../../../aspose.pdf/outputintent/)
-
 ### See Also
 
 * class [OutputIntent](../../../aspose.pdf/outputintent/)

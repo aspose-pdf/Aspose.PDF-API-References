@@ -17,10 +17,6 @@ The FDF file from which to import the data.
 public FileSpecification Data { get; set; }
 ```
 
-### Property Value
-
-[FileSpecification](../../../aspose.pdf/filespecification/)
-
 ### See Also
 
 * class [FileSpecification](../../../aspose.pdf/filespecification/)

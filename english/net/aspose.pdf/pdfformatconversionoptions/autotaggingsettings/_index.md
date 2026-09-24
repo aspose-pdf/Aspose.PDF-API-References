@@ -21,10 +21,6 @@ Automatic tagging settings are used to configure the behavior of the auto-taggin
 public AutoTaggingSettings AutoTaggingSettings { get; set; }
 ```
 
-### Property Value
-
-[AutoTaggingSettings](../../../aspose.pdf/autotaggingsettings/)
-
 ### See Also
 
 * class [AutoTaggingSettings](../../../aspose.pdf/autotaggingsettings/)

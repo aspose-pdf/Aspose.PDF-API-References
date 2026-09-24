@@ -17,10 +17,10 @@ Standard paper sources.
 public enum PaperSourceKind
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Upper | `1` | The upper bin of a printer (or, if the printer only has one bin, the only bin). |
 | Lower | `2` | The lower bin of a printer. |
 | Middle | `3` | The middle bin of a printer. |

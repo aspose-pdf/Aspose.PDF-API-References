@@ -24,7 +24,7 @@ public PdfAStandardVersion PdfAVersion { get; set; }
 
 ### Property Value
 
-[PdfAStandardVersion](../../../aspose.pdf.lowcode/pdfastandardversion/)
+The version of the PDF/A standard. This can be one of the values from the [`PdfAStandardVersion`](../../../aspose.pdf.lowcode/pdfastandardversion/) enumeration.
 
 ### See Also
 

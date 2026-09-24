@@ -17,10 +17,6 @@ Gets or sets a value indicating whether the page is printed in color.
 public bool Color { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PageSettings](../)

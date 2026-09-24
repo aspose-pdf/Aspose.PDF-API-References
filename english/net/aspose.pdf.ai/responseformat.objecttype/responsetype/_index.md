@@ -17,10 +17,6 @@ Gets or sets the type of the object value.
 public string ResponseType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ResponseFormat.ObjectType](../)

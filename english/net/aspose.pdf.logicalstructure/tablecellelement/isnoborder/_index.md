@@ -17,10 +17,6 @@ Gets or sets the cell have border.
 public bool IsNoBorder { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TableCellElement](../)

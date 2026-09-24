@@ -17,10 +17,6 @@ Property for Generator support. Used when field is added to header or footer. If
 public bool IsSharedField { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Field](../)

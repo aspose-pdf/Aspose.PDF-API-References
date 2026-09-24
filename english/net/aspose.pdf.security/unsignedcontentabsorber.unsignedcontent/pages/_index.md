@@ -19,10 +19,6 @@ The page is considered modified and XForms are not checked and do not appear in 
 public List<Page> Pages { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Page](../../../aspose.pdf/page/)>
-
 ### See Also
 
 * class [UnsignedContentAbsorber.UnsignedContent](../)

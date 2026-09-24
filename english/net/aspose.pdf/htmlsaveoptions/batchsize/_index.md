@@ -18,10 +18,6 @@ Defines batch size if batched conversion is applicable
 public int BatchSize { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

@@ -17,10 +17,6 @@ Gets a version of Pdf from Pdf file header.
 public string Version { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Document](../)

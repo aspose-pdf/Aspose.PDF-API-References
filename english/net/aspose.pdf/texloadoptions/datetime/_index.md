@@ -17,10 +17,6 @@ Gets/sets a certain value for date/time primitives like year, month, day and tim
 public DateTime DateTime { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [TeXLoadOptions](../)

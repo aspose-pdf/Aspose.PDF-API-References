@@ -17,10 +17,6 @@ Returns true if collection is synchronized.
 public bool IsSynchronized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfXmpMetadata](../)

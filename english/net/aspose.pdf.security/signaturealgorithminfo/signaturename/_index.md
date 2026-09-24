@@ -17,10 +17,6 @@ Gets the name of the signature field.
 public string SignatureName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignatureAlgorithmInfo](../)

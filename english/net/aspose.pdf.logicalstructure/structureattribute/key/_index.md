@@ -19,7 +19,7 @@ public AttributeKey Key { get; }
 
 ### Property Value
 
-[AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+Attribute Key.
 
 ### See Also
 

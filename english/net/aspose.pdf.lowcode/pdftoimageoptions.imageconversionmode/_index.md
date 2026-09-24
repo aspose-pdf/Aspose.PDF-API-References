@@ -17,10 +17,10 @@ Defines different modes which can be used while converting from PDF document to 
 public enum ImageConversionMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Default mode. |
 
 ### See Also

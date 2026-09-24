@@ -17,10 +17,6 @@ Gets or sets maximum length of text in the field.
 public int MaxLen { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextBoxField](../)

@@ -19,7 +19,9 @@ public PuaProcessingStrategy PuaSymbolsProcessingStrategy { get; set; }
 
 ### Property Value
 
-PuaProcessingStrategy
+The strategy for processing PUA symbols. The default is `None`
+ for the Level B conformance documents, and `SurroundPuaTextWithEmptyActualText`
+ for the Level A conformance ones.
 
 ### See Also
 

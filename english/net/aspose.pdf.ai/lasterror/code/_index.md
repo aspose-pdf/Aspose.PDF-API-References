@@ -17,10 +17,6 @@ Gets or sets one of server_error, rate_limit_exceeded, or invalid_prompt.
 public string Code { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LastError](../)

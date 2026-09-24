@@ -17,10 +17,6 @@ Gets transofmation matrix for the page.
 public Matrix RotationMatrix { get; }
 ```
 
-### Property Value
-
-[Matrix](../../../aspose.pdf/matrix/)
-
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)

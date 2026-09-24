@@ -17,10 +17,10 @@ Supported font types enumeration.
 public enum FontTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | TTF | `0` | TTF font type |
 | OTF | `1` | OTF font type |
 

@@ -17,10 +17,6 @@ Gets or sets the collection of documents to be processed.
 public DocumentCollection DocumentCollection { get; set; }
 ```
 
-### Property Value
-
-[DocumentCollection](../../../aspose.pdf.ai/documentcollection/)
-
 ### See Also
 
 * class [DocumentCollection](../../../aspose.pdf.ai/documentcollection/)

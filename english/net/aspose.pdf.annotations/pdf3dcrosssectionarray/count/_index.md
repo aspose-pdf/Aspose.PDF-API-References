@@ -19,7 +19,7 @@ public int Count { get; }
 
 ### Property Value
 
-int
+The cross section count.
 
 ### See Also
 

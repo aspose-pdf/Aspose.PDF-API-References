@@ -19,10 +19,6 @@ Set by converter.
 public NodeLevelResourceType ResourceType { get; }
 ```
 
-### Property Value
-
-NodeLevelResourceType
-
 ### See Also
 
 * class [SaveOptions.ResourceSavingInfo](../)

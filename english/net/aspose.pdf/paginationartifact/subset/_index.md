@@ -17,10 +17,6 @@ Gets or sets the subset of pages to which the artifact applies (e.g., all pages,
 public Subset Subset { get; set; }
 ```
 
-### Property Value
-
-[Subset](../../../aspose.pdf/subset/)
-
 ### See Also
 
 * class [Subset](../../../aspose.pdf/subset/)

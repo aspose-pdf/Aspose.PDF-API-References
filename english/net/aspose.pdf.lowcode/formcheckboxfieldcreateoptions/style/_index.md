@@ -17,10 +17,6 @@ Gets/sets the value to determine property Style for created CheckboxField (if wi
 public Nullable<BoxStyle> Style { get; set; }
 ```
 
-### Property Value
-
-Nullable<[BoxStyle](../../../aspose.pdf.forms/boxstyle/)>
-
 ### See Also
 
 * class [FormCheckBoxFieldCreateOptions](../)

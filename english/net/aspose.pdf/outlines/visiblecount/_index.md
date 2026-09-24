@@ -17,10 +17,6 @@ Gets the total number of outline items at all levels in the document outline hie
 public int VisibleCount { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Outlines](../)

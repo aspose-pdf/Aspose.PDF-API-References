@@ -17,10 +17,6 @@ Gets or sets. Alignment of Overlay Text.
 public HorizontalAlignment TextAlignment { get; set; }
 ```
 
-### Property Value
-
-[HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
-
 ### See Also
 
 * class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)

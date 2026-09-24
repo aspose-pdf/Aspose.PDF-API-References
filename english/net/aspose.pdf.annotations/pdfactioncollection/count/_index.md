@@ -17,10 +17,6 @@ Gets count of actions.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfActionCollection](../)

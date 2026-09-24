@@ -17,10 +17,6 @@ Gets the Y coordinate of the object
 public double YIndent { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Position](../)

@@ -17,10 +17,6 @@ Gets or sets the suffix to be added to the Bates number.
 public string Suffix { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BatesNArtifact](../)

@@ -17,10 +17,6 @@ Sets the fragment hyperlink
 public Hyperlink Hyperlink { set; }
 ```
 
-### Property Value
-
-[Hyperlink](../../../aspose.pdf/hyperlink/)
-
 ### See Also
 
 * class [Hyperlink](../../../aspose.pdf/hyperlink/)

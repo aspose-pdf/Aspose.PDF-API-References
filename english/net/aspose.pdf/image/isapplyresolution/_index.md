@@ -17,10 +17,6 @@ Gets or sets a bool value that indicates whether the image use resolution during
 public bool IsApplyResolution { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Image](../)

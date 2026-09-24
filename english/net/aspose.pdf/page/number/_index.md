@@ -17,10 +17,6 @@ Get number of the page.
 public int Number { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Page](../)

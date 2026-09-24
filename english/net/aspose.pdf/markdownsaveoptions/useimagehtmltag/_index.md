@@ -18,10 +18,6 @@ Gets and sets allowance to use of an img tag to insert images to the left and ri
 public bool UseImageHtmlTag { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [MarkdownSaveOptions](../)

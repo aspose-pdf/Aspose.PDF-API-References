@@ -19,7 +19,7 @@ public double G { get; set; }
 
 ### Property Value
 
-double
+The level of green from 0.0 to 1.0
 
 ### See Also
 

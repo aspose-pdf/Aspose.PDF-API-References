@@ -17,10 +17,6 @@ Gets or sets the paragraph foot note.(for pdf generation only)
 public Note FootNote { get; set; }
 ```
 
-### Property Value
-
-[Note](../../../aspose.pdf/note/)
-
 ### See Also
 
 * class [Note](../../../aspose.pdf/note/)

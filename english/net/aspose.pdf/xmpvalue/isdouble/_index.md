@@ -17,10 +17,6 @@ Returns true if value is floating point value.
 public bool IsDouble { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

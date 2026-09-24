@@ -17,10 +17,6 @@ Gets or sets name of the font when this is non-standart (other then 14 standard 
 public string CustomFont { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FormFieldFacade](../)

@@ -17,10 +17,6 @@ Gets or sets the target paragraph.
 public BaseParagraph Target { get; set; }
 ```
 
-### Property Value
-
-[BaseParagraph](../../../aspose.pdf/baseparagraph/)
-
 ### See Also
 
 * class [BaseParagraph](../../../aspose.pdf/baseparagraph/)

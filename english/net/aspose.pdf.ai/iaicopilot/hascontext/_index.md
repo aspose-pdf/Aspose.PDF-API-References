@@ -17,10 +17,6 @@ Gets a value indicating whether the copilot has context.
 public bool HasContext { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * interface [IAICopilot](../)

@@ -22,10 +22,6 @@ Avoids to estimate signature length before a signing document.
 public bool AvoidEstimatingSignatureLength { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Signature](../)

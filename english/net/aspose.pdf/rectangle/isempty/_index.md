@@ -17,10 +17,6 @@ Checks if rectangle is empty.
 public bool IsEmpty { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Rectangle](../)

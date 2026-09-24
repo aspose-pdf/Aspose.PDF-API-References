@@ -17,10 +17,6 @@ The integer representation of document permissions.
 public int PermissionsInt { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [EncryptionParameters](../)

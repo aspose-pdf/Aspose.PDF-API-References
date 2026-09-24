@@ -18,10 +18,6 @@ Sets the permission which allow copy or not.
 public bool AllowCopy { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocumentPrivilege](../)

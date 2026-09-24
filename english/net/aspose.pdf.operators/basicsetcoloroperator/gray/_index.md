@@ -17,10 +17,6 @@ Gets black component of gray color.
 public double Gray { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [BasicSetColorOperator](../)

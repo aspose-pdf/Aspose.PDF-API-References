@@ -17,10 +17,6 @@ Gets or sets artifact rotation angle.
 public double Rotation { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Artifact](../)

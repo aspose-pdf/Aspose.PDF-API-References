@@ -17,10 +17,6 @@ Style of ink annotation line endings.
 public CapStyle CapStyle { get; set; }
 ```
 
-### Property Value
-
-[CapStyle](../../../aspose.pdf.annotations/capstyle/)
-
 ### See Also
 
 * class [CapStyle](../../../aspose.pdf.annotations/capstyle/)

@@ -17,10 +17,6 @@ Gets color space that the color represents.
 public ColorSpace ColorSpace { get; }
 ```
 
-### Property Value
-
-[ColorSpace](../../../aspose.pdf/colorspace/)
-
 ### See Also
 
 * class [ColorSpace](../../../aspose.pdf/colorspace/)

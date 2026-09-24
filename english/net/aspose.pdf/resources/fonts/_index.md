@@ -17,10 +17,6 @@ Gets `Fonts` resources collection
 public FontCollection Fonts { get; }
 ```
 
-### Property Value
-
-[FontCollection](../../../aspose.pdf.text/fontcollection/)
-
 ### See Also
 
 * class [FontCollection](../../../aspose.pdf.text/fontcollection/)

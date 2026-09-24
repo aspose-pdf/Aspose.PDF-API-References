@@ -17,10 +17,6 @@ Angle of annotation rotation.
 public Rotation Rotate { get; set; }
 ```
 
-### Property Value
-
-[Rotation](../../../aspose.pdf/rotation/)
-
 ### See Also
 
 * class [Rotation](../../../aspose.pdf/rotation/)

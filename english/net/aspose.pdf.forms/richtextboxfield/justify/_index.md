@@ -17,10 +17,6 @@ Gets or sets justification of the rich text box.
 public Justification Justify { get; set; }
 ```
 
-### Property Value
-
-[Justification](../../../aspose.pdf.annotations/justification/)
-
 ### See Also
 
 * class [Justification](../../../aspose.pdf.annotations/justification/)

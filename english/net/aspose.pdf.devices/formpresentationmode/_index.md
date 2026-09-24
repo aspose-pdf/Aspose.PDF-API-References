@@ -17,10 +17,10 @@ Used to specify the form presentation mode when printing or converting to image 
 public enum FormPresentationMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Production | `0` | Specifies Production form presentation mode (used by default). |
 | Editor | `1` | Specifies Editor form presentation mode. |
 

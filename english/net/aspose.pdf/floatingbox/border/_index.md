@@ -17,10 +17,6 @@ Gets or sets a [`BorderInfo`](../../../aspose.pdf/borderinfo/) object that indic
 public BorderInfo Border { get; set; }
 ```
 
-### Property Value
-
-[BorderInfo](../../../aspose.pdf/borderinfo/)
-
 ### See Also
 
 * class [BorderInfo](../../../aspose.pdf/borderinfo/)

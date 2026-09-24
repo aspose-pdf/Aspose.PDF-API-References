@@ -17,10 +17,6 @@ Gets or sets the last page to print.
 public int ToPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PrinterSettings](../)

@@ -23,10 +23,6 @@ Sometimes it's not possible to embed desired font into document. There are many 
 public bool NotifyAboutFontEmbeddingError { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * interface [IFontOptions](../)

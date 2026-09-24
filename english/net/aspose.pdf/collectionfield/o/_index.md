@@ -18,10 +18,6 @@ Gets the relative order of the field name in the user interface.
 public Nullable<int> O { get; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [CollectionField](../)

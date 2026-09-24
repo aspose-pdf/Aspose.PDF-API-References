@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public List<IDataSource> Outputs { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[IDataSource](../../../aspose.pdf.lowcode/idatasource/)>
-
 ### See Also
 
 * class [PdfToImageOptions](../)

@@ -17,10 +17,6 @@ The group color space.
 public ColorSpace ColorSpace { get; set; }
 ```
 
-### Property Value
-
-[ColorSpace](../../../aspose.pdf/colorspace/)
-
 ### See Also
 
 * class [ColorSpace](../../../aspose.pdf/colorspace/)

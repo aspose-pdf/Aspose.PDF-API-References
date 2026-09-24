@@ -17,10 +17,6 @@ Gets or sets the text rise.
 public double TextRise { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetTextRise](../)

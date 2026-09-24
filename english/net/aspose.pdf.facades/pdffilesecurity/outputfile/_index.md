@@ -19,10 +19,6 @@ Sets the output file.
 public string OutputFile { set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileSecurity](../)

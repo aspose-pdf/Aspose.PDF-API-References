@@ -17,10 +17,6 @@ Key (name) of the PDF Font object that is used for showing of the operator that 
 public string FontUsedKey { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionErrorLocation](../)

@@ -17,10 +17,6 @@ Gets operator text.
 public string Text { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MoveToNextLineShowText](../)

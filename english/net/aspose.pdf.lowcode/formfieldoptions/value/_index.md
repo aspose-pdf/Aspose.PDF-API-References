@@ -17,10 +17,6 @@ Gets/sets the value to determine property Value for created/modified field (if w
 public string Value { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FormFieldOptions](../)

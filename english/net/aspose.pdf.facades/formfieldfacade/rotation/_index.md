@@ -17,10 +17,6 @@ The rotation of a field text.
 public int Rotation { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FormFieldFacade](../)

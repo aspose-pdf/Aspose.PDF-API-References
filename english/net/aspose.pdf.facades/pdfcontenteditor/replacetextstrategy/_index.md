@@ -17,10 +17,6 @@ A set of parameters for replace text operation
 public ReplaceTextStrategy ReplaceTextStrategy { get; set; }
 ```
 
-### Property Value
-
-[ReplaceTextStrategy](../../../aspose.pdf.facades/replacetextstrategy/)
-
 ### See Also
 
 * class [ReplaceTextStrategy](../../../aspose.pdf.facades/replacetextstrategy/)

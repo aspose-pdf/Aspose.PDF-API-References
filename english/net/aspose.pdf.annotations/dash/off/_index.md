@@ -17,10 +17,6 @@ Gets or sets length of first gap between dashes.
 public int Off { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Dash](../)

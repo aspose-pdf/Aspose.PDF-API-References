@@ -19,10 +19,6 @@ Gets or sets indication that errors related to absence of font will be ignored.
 public bool IgnoreResourceFontErrors { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

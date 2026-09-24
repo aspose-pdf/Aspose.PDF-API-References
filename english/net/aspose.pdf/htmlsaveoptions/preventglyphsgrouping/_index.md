@@ -20,10 +20,6 @@ This attribute switch on the mode when text glyphs will not be grouped into word
 public bool PreventGlyphsGrouping { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

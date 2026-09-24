@@ -18,10 +18,6 @@ Gets or sets a bool value that indicates whether current paragraph remains in th
 public bool IsKeptWithNext { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [BaseParagraph](../)

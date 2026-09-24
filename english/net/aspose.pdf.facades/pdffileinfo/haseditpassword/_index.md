@@ -19,10 +19,6 @@ Returns true if password is needed to modify permissions or document security pr
 public bool HasEditPassword { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileInfo](../)

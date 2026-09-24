@@ -17,10 +17,6 @@ Checks if collection is read-only.
 public bool IsReadOnly { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Metadata](../)

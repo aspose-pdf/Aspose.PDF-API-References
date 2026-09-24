@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public ICosPdfPrimitive Item { get; set; }
 ```
 
-### Property Value
-
-[ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)
-
 ### See Also
 
 * class [ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)

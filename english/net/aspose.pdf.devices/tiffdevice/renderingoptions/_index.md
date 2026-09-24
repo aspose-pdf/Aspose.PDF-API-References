@@ -17,10 +17,6 @@ Gets or sets rendering options.
 public RenderingOptions RenderingOptions { get; set; }
 ```
 
-### Property Value
-
-[RenderingOptions](../../../aspose.pdf/renderingoptions/)
-
 ### See Also
 
 * class [RenderingOptions](../../../aspose.pdf/renderingoptions/)

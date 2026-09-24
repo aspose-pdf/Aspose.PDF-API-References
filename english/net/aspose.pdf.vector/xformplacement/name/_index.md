@@ -17,10 +17,6 @@ Gets name of the XForm.
 public string Name { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XFormPlacement](../)

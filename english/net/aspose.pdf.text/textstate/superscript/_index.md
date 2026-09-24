@@ -17,10 +17,6 @@ Gets or sets superscript of the text.
 public bool Superscript { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextState](../)

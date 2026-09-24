@@ -17,10 +17,10 @@ Enumerates the types of explicit destinations.
 public enum ExplicitDestinationType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | XYZ | `0` | Display the page with the coordinates (left, top) positioned at the upper-left corner of the window
  and the contents of the page magnified by the factor zoom. A null value for any of the parameters
  left, top, or zoom specifies that the current value of that parameter is to be retained unchanged. 

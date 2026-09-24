@@ -18,10 +18,6 @@ Gets or sets rollover icon of the button which shall be displayed when the user
 public XForm RolloverIcon { get; set; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

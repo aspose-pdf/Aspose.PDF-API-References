@@ -3,7 +3,7 @@ title: "AICopilotFactory.CreateOcrCopilot"
 linktitle: "CreateOcrCopilot"
 articleTitle: "CreateOcrCopilot"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AICopilotFactory method."
+description: "AICopilotFactory method. Creates an OCR copilot based on the client and options."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/aicopilotfactory/createocrcopilot/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CreateOcrCopilot(IOcrClient<T0>, IOcrCopilotOptions<T0>) {#createocrcopilot}
 
-
+Creates an OCR copilot based on the client and options.
 
 ```csharp
 public IOcrCopilot CreateOcrCopilot(IOcrClient<T0> client, IOcrCopilotOptions<T0> options)

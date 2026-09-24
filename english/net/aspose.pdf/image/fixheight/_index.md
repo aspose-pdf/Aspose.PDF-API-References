@@ -17,10 +17,6 @@ Gets or sets the image height.
 public double FixHeight { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Image](../)

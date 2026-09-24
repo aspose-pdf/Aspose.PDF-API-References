@@ -18,10 +18,6 @@ Gets or sets a value indicating whether to restore wrong generation numbers in r
 public bool RestoreIndirectObjectGenerations { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document.RepairOptions](../)

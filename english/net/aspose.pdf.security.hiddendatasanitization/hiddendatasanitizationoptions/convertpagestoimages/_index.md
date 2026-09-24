@@ -20,10 +20,6 @@ Gets or sets the option to convert pages to images.
 public bool ConvertPagesToImages { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

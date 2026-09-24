@@ -17,10 +17,6 @@ Gets or sets the custom Css to apply when opening the Epub document.
 public string CustomCss { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [EpubLoadOptions](../)

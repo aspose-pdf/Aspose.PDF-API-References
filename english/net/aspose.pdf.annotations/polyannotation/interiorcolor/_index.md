@@ -17,10 +17,6 @@ Gets or sets the interior color with which to fill the annotation's line endings
 public Color InteriorColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

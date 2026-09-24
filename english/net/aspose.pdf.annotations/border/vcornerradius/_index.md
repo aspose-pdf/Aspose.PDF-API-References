@@ -17,10 +17,6 @@ Gets or sets vertical corner radius.
 public double VCornerRadius { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Border](../)

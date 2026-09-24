@@ -19,10 +19,10 @@ Represents mode of usage of margins area during conversion
 public enum MarginsAreaUsageModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | PutContentOnMarginAreaIfNecessary | `0` | In this mode converter obeyes format of imported document (f.e. CSS of imported HTML)
  in usage of margins area.So, if format of imported document requires usage 
  of margins area for rendering , converter will allow that |

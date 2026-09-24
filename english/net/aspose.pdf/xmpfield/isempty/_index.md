@@ -19,7 +19,7 @@ public bool IsEmpty { get; }
 
 ### Property Value
 
-bool
+`true` if this instance is empty; otherwise, `false`.
 
 ### See Also
 

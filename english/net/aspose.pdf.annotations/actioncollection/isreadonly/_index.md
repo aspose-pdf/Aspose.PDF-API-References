@@ -17,10 +17,6 @@ Returns true if collection is readonly.
 public bool IsReadOnly { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ActionCollection](../)

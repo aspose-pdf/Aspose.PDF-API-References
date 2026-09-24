@@ -18,10 +18,6 @@ Get and set the rectangular area in which the text of pages will be compared.
 public Rectangle ExtractionArea { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

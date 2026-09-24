@@ -17,10 +17,6 @@ Gets/sets Expansion text value.
 public string E { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BDCProperties](../)

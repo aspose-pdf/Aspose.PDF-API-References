@@ -17,10 +17,6 @@ Sets or gets whether to stream the response.
 public Nullable<bool> Stream { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [LlamaChatCompletionRequest](../)

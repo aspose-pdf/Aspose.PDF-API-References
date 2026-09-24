@@ -17,10 +17,6 @@ A text string expressing the scale ratio of the drawing.
 public string ScaleRatio { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Measure](../)

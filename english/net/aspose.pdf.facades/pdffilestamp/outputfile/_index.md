@@ -19,10 +19,6 @@ Gets or sets name and path of output file.
 public string OutputFile { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileStamp](../)

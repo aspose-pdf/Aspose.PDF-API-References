@@ -17,10 +17,6 @@ Gets or sets image height. Setting this image allows to scale image vertically.
 public double Height { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [ImageStamp](../)

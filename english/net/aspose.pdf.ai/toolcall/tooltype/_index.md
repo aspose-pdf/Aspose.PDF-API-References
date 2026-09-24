@@ -17,10 +17,6 @@ Gets or sets the type of the tool. Currently, only function is supported.
 public string ToolType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ToolCall](../)

@@ -17,10 +17,6 @@ Pop-up annotation for entering or editing the text associated with this annotati
 public PopupAnnotation Popup { get; set; }
 ```
 
-### Property Value
-
-[PopupAnnotation](../../../aspose.pdf.annotations/popupannotation/)
-
 ### See Also
 
 * class [PopupAnnotation](../../../aspose.pdf.annotations/popupannotation/)

@@ -17,10 +17,6 @@ Gets or sets foreground color of the text.
 public Color StrokingColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

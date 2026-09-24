@@ -17,10 +17,6 @@ Gets or sets the maximum number of completion tokens that may be used over the c
 public Nullable<int> MaxCompletionTokens { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [LlamaCopilotOptionsBase](../)

@@ -17,10 +17,6 @@ Indicates whether the result is a path to an output file.
 public bool IsFile { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [StreamResult](../)

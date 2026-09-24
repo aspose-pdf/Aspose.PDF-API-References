@@ -17,10 +17,6 @@ Text string specifying the name of the rendition for use in a user interface and
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Rendition](../)

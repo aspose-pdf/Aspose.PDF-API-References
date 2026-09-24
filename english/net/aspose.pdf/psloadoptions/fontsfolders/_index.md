@@ -17,10 +17,6 @@ Gets or sets fonts folders paths.
 public string[] FontsFolders { get; set; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [PsLoadOptions](../)

@@ -17,10 +17,10 @@ Specifies the state of a digital signature verification process in a PDF documen
 public enum VerificationState
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Valid | `0` | Represents a state indicating that the digital signature verification process has
  completed successfully, and the signature is valid. |
 | Invalid | `1` | Represents a state indicating that the digital signature verification process has

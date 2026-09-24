@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the top margin.
 public double Top { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [MarginInfo](../)

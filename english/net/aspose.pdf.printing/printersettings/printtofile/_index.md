@@ -17,10 +17,6 @@ Indicates whether to print to a file instead of a port.
 public bool PrintToFile { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PrinterSettings](../)

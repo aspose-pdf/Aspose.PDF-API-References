@@ -22,7 +22,7 @@ public FontEmbeddingOptions FontEmbeddingOptions { get; }
 
 ### Property Value
 
-[FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
+The font embedding options.
 
 ### See Also
 

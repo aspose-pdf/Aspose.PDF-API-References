@@ -17,10 +17,6 @@ Gets the property category.
 public XmpPdfAExtensionCategoryType Category { get; }
 ```
 
-### Property Value
-
-[XmpPdfAExtensionCategoryType](../../../aspose.pdf/xmppdfaextensioncategorytype/)
-
 ### See Also
 
 * class [XmpPdfAExtensionCategoryType](../../../aspose.pdf/xmppdfaextensioncategorytype/)

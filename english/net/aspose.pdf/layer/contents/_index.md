@@ -17,10 +17,6 @@ Gets the layer content.
 public List<Operator> Contents { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Operator](../../../aspose.pdf/operator/)>
-
 ### See Also
 
 * class [Layer](../)

@@ -17,10 +17,6 @@ Gets or sets the number of files that failed to be processed.
 public int Failed { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FileCounts](../)

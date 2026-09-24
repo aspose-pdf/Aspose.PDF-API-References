@@ -19,7 +19,7 @@ public int ExtractTextMode { get; set; }
 
 ### Property Value
 
-int
+0 is pure text mode and 1 is raw ordering mode. Default is 0.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Width of the rectangle.
 public double Width { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Re](../)

@@ -17,10 +17,6 @@ Gets or sets the list of tools that the assistant used for this run.
 public List<Tool> Tools { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Tool](../../../aspose.pdf.ai/tool/)>
-
 ### See Also
 
 * class [RunResponse](../)

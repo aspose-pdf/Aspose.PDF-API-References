@@ -22,10 +22,6 @@ The Status property indicates the outcome of the certificate validation.
 public ValidationStatus Status { get; }
 ```
 
-### Property Value
-
-[ValidationStatus](../../../aspose.pdf.security/validationstatus/)
-
 ### See Also
 
 * class [ValidationStatus](../../../aspose.pdf.security/validationstatus/)

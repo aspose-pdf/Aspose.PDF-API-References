@@ -17,10 +17,6 @@ Gets/sets the value to determine property Editable for modified field (if will b
 public Nullable<bool> Editable { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormComboBoxFieldSetOptions](../)

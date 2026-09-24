@@ -17,10 +17,6 @@ Gets or sets an image URL in the content of a message.
 public ImageUrl ImageUrl { get; set; }
 ```
 
-### Property Value
-
-[ImageUrl](../../../aspose.pdf.ai/imageurl/)
-
 ### See Also
 
 * class [ImageUrl](../../../aspose.pdf.ai/imageurl/)

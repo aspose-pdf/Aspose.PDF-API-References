@@ -17,10 +17,6 @@ Gets the number of [`ImagePlacement`](../../../aspose.pdf/imageplacement/) objec
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ImagePlacementCollection](../)

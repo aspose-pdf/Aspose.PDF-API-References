@@ -20,10 +20,6 @@ Gets the the vertical distance between two barcode modules, measured in pixels.
 public int XSymHeight { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BarcodeField](../)

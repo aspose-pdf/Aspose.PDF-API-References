@@ -17,10 +17,6 @@ Gets or sets the row span.
 public int RowSpan { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Cell](../)

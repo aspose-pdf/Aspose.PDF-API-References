@@ -17,10 +17,6 @@ Annotation highlighting mode.
 public HighlightingMode Highlighting { get; set; }
 ```
 
-### Property Value
-
-[HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
-
 ### See Also
 
 * class [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)

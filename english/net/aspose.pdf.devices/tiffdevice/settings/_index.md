@@ -17,10 +17,6 @@ Gets settings for mapping pdf into tiff image.
 public TiffSettings Settings { get; }
 ```
 
-### Property Value
-
-[TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
-
 ### See Also
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)

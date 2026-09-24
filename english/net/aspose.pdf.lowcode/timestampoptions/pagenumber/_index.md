@@ -17,10 +17,6 @@ Page number on which the timestamped signature will be applied.
 public int PageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TimestampOptions](../)

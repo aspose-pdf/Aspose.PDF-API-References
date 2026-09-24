@@ -17,10 +17,6 @@ Gets word spacing.
 public double Aw { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetSpacingMoveToNextLineShowText](../)

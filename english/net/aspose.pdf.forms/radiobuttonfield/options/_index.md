@@ -17,10 +17,6 @@ Gets collection of options of the radio button.
 public OptionCollection Options { get; }
 ```
 
-### Property Value
-
-[OptionCollection](../../../aspose.pdf.forms/optioncollection/)
-
 ### See Also
 
 * class [OptionCollection](../../../aspose.pdf.forms/optioncollection/)

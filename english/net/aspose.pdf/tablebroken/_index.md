@@ -17,10 +17,10 @@ Enumerates the table broken.
 public enum TableBroken
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No broken. |
 | Vertical | `1` | Vertical broken. |
 | VerticalInSamePage | `2` | Vertical broken in same page. |

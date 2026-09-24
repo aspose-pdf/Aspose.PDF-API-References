@@ -17,10 +17,6 @@ Gets visibility of stamp. If false then stamp is hidden (with HideStampById). Hi
 public bool Visible { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [StampInfo](../)

@@ -17,10 +17,6 @@ Gets or sets option export value.
 public string Value { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Option](../)

@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public FontSubstitution Item { get; }
 ```
 
-### Property Value
-
-[FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)
-
 ### See Also
 
 * class [FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)

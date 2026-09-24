@@ -17,10 +17,6 @@ Gets or sets an action to be performed when user modifies character of the field
 public PdfAction OnModifyCharacter { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

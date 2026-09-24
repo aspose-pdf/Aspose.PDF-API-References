@@ -19,10 +19,10 @@ Defines the available serialization styles for headings.
 public enum HeadingStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Atx | `0` | Prefix headings with '#' |
 | Setext | `1` | Underscore level 1 and 2 headings with "======" respectively "------" |
 

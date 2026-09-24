@@ -18,10 +18,6 @@ Gets or sets whether to return log probabilities of the output tokens or not.
 public Nullable<bool> Logprobs { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

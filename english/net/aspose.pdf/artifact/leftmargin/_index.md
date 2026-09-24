@@ -18,10 +18,6 @@ Left margin of artifact.
 public double LeftMargin { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Artifact](../)

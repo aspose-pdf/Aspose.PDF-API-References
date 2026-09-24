@@ -17,10 +17,6 @@ This attribute specifies full width paragraph text for Flow mode, FixedLayout = 
 public bool FlowLayoutParagraphFullWidth { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

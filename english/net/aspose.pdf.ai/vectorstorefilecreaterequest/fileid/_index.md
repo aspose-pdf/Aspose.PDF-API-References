@@ -17,10 +17,6 @@ Gets or sets a File ID that the vector store should use. Useful for tools like f
 public string FileId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [VectorStoreFileCreateRequest](../)

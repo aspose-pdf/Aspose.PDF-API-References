@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public PDF3DCrossSection Item { get; set; }
 ```
 
-### Property Value
-
-[PDF3DCrossSection](../../../aspose.pdf.annotations/pdf3dcrosssection/)
-
 ### See Also
 
 * class [PDF3DCrossSection](../../../aspose.pdf.annotations/pdf3dcrosssection/)

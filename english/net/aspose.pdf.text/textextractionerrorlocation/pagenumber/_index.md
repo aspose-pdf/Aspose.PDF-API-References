@@ -17,10 +17,6 @@ Number of the document page where text extraction error has located.
 public int PageNumber { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextExtractionErrorLocation](../)

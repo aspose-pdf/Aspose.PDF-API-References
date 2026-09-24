@@ -17,10 +17,6 @@ Gets or sets normal icon of the button which shall be displayed when it is not i
 public XForm NormalIcon { get; set; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

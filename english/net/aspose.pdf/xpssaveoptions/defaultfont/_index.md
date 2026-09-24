@@ -18,10 +18,6 @@ Gets/sets the default font name.
 public string DefaultFont { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XpsSaveOptions](../)

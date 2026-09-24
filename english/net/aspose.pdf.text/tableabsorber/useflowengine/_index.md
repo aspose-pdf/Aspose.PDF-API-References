@@ -19,10 +19,6 @@ product_version: "26.9.0"
 public bool UseFlowEngine { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TableAbsorber](../)

@@ -17,10 +17,6 @@ The rectangle areas of the change.
 public List<Rectangle> Rects { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Rectangle](../../../aspose.pdf.drawing/rectangle/)>
-
 ### See Also
 
 * class [EditContainer](../)

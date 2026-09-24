@@ -19,10 +19,6 @@ Gets or sets the input template file. One of two input modes.
 public string InputFileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AutoFiller](../)

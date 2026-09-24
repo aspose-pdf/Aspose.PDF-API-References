@@ -17,10 +17,6 @@ Gets color value.
 public double[] Data { get; }
 ```
 
-### Property Value
-
-double[]
-
 ### See Also
 
 * class [Color](../)

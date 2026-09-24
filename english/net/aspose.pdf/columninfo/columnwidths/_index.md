@@ -20,10 +20,6 @@ Gets or sets a string that contains the width of columns.
 public string ColumnWidths { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ColumnInfo](../)

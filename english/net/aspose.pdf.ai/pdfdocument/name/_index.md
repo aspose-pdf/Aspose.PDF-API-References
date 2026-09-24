@@ -18,10 +18,6 @@ Gets or sets the name of the PDF document.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfDocument](../)

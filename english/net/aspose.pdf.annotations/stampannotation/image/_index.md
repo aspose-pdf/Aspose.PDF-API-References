@@ -17,10 +17,6 @@ Gets or sets image of the annotation.
 public Stream Image { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [StampAnnotation](../)

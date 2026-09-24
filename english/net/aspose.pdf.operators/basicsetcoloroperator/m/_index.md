@@ -17,10 +17,6 @@ Gets magenta component of CMYK color.
 public double M { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [BasicSetColorOperator](../)

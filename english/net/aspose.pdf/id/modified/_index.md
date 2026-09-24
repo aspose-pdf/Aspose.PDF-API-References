@@ -17,10 +17,6 @@ Changing identifier based on the document's contents at the time it was last upd
 public string Modified { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Id](../)

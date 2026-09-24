@@ -17,10 +17,10 @@ Specifies color type of elements on page.
 public enum ColorType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Rgb | `0` | RGB color type. |
 | Grayscale | `1` | Grayscale color type. |
 | BlackAndWhite | `2` | Black and white color type. |

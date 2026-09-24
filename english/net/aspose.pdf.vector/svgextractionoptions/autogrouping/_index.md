@@ -18,10 +18,6 @@ Gets and sets the option to automatically group subpaths into images.
 public bool AutoGrouping { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SvgExtractionOptions](../)

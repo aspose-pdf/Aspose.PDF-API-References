@@ -17,10 +17,6 @@ The size of a field text.
 public float FontSize { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [FormFieldFacade](../)

@@ -17,10 +17,6 @@ Measure units specifed for this annotation.
 public Measure Measure { get; set; }
 ```
 
-### Property Value
-
-[Measure](../../../aspose.pdf.annotations/measure/)
-
 ### See Also
 
 * class [Measure](../../../aspose.pdf.annotations/measure/)

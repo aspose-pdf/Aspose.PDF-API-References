@@ -20,10 +20,6 @@ When enabled, the auto-tagging functionality automatically generates tagged cont
 public bool EnableAutoTagging { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [AutoTaggingSettings](../)

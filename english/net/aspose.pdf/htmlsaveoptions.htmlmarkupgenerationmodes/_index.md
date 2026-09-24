@@ -19,10 +19,10 @@ Sometimes specific reqirments to created HTML are present.
 public enum HtmlMarkupGenerationModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | WriteAllHtml | `0` | Default mode any specific requirments are absent.
  Will be generated output that will contain all parts of HTML
  without any special additional processing. |

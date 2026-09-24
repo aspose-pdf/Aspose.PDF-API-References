@@ -19,10 +19,6 @@ Default falue is false.
 public bool PrintAsGrayscale { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfViewer](../)

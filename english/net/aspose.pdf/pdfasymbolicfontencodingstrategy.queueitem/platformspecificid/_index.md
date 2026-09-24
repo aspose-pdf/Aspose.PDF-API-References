@@ -17,10 +17,6 @@ Platform-specific encoding identifier for encoding subtable
 public ushort PlatformSpecificId { get; set; }
 ```
 
-### Property Value
-
-ushort
-
 ### See Also
 
 * class [PdfASymbolicFontEncodingStrategy.QueueItem](../)

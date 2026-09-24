@@ -17,10 +17,6 @@ Gets width of the image.
 public int Width { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [XImage](../)

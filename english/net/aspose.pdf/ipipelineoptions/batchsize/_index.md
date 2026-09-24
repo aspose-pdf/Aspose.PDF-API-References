@@ -17,10 +17,6 @@ Specifies the size of a portion of pages to pass from node to node.
 public int BatchSize { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * interface [IPipelineOptions](../)

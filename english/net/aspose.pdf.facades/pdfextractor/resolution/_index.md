@@ -21,10 +21,6 @@ Set or gets resolution for extracted images.
 public int Resolution { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfExtractor](../)

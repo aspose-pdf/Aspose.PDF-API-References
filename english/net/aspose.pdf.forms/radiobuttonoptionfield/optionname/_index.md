@@ -17,10 +17,6 @@ Gets or sets name of the option.
 public string OptionName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RadioButtonOptionField](../)

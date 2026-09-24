@@ -17,10 +17,6 @@ Gets a value indicating the kind of printer resolution.
 public PrinterResolutionKind Kind { get; set; }
 ```
 
-### Property Value
-
-[PrinterResolutionKind](../../../aspose.pdf.printing/printerresolutionkind/)
-
 ### See Also
 
 * class [PrinterResolutionKind](../../../aspose.pdf.printing/printerresolutionkind/)

@@ -17,10 +17,6 @@ Gets or sets the filename of icc profile name. In case of null the default icc p
 public string IccProfileFileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

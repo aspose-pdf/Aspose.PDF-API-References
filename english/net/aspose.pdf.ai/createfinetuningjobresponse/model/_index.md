@@ -17,10 +17,6 @@ Gets or sets the model used for the fine-tuning job.
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateFineTuningJobResponse](../)

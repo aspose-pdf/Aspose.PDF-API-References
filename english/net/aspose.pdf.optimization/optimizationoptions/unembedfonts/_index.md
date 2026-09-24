@@ -17,10 +17,6 @@ Make fonts not embedded if set to true.
 public bool UnembedFonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

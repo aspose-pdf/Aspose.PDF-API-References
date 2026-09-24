@@ -17,10 +17,10 @@ Class descibes used components of the document page.
 public enum PageMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | UseNone | `0` | Dont use any components. |
 | UseOutlines | `1` | Document outline visible. |
 | UseThumbs | `2` | Thumbnail images visible. |

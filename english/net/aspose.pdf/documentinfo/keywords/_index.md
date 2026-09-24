@@ -17,10 +17,6 @@ Gets or set the keywords of the document.
 public string Keywords { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DocumentInfo](../)

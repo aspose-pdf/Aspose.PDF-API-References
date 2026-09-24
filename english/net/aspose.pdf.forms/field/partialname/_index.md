@@ -17,10 +17,6 @@ Gets or sets partial name of the field.
 public string PartialName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Field](../)

@@ -17,10 +17,6 @@ Gets/sets the flag indicating whether to show terminal output on the console.
 public bool ShowTerminalOutput { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TeXLoadOptions](../)

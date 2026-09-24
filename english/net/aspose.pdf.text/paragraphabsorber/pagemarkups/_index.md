@@ -17,10 +17,6 @@ Gets collection of [`PageMarkup`](../../../aspose.pdf.text/pagemarkup/) that wer
 public List<PageMarkup> PageMarkups { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[PageMarkup](../../../aspose.pdf.text/pagemarkup/)>
-
 ### See Also
 
 * class [ParagraphAbsorber](../)

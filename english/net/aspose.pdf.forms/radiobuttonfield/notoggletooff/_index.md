@@ -21,10 +21,6 @@ Some PDF readers (including Adobe Acrobat) may ignore the  state of the flag.
 public bool NoToggleToOff { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RadioButtonField](../)

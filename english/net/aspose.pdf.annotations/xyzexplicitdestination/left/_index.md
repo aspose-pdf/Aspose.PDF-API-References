@@ -17,10 +17,6 @@ Gets left horizontal coordinate of the upper-left corner of the window.
 public double Left { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [XYZExplicitDestination](../)

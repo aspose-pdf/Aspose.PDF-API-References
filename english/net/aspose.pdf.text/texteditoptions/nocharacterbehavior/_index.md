@@ -17,10 +17,6 @@ Gets or sets mode that defines behavior in case fonts don't contain requested ch
 public NoCharacterAction NoCharacterBehavior { get; set; }
 ```
 
-### Property Value
-
-NoCharacterAction
-
 ### See Also
 
 * class [TextEditOptions](../)

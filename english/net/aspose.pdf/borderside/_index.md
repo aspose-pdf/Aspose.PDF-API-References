@@ -17,10 +17,10 @@ Enumerates the border sides.
 public enum BorderSide
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No border. |
 | Left | `1` | Left border. |
 | Top | `2` | Top border. |

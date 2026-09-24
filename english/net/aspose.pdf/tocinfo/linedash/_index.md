@@ -17,10 +17,6 @@ Gets or sets TOC line dash.
 public TabLeaderType LineDash { get; set; }
 ```
 
-### Property Value
-
-[TabLeaderType](../../../aspose.pdf.text/tableadertype/)
-
 ### See Also
 
 * class [TabLeaderType](../../../aspose.pdf.text/tableadertype/)

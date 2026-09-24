@@ -17,10 +17,6 @@ Gets the number of elements in the ElementList.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ElementList](../)

@@ -17,10 +17,6 @@ Gets the style for repeating rows
 public TextState RepeatingRowsStyle { get; set; }
 ```
 
-### Property Value
-
-[TextState](../../../aspose.pdf.text/textstate/)
-
 ### See Also
 
 * class [TextState](../../../aspose.pdf.text/textstate/)

@@ -17,10 +17,6 @@ Gets or sets break text for table
 public TextFragment BreakText { get; set; }
 ```
 
-### Property Value
-
-[TextFragment](../../../aspose.pdf.text/textfragment/)
-
 ### See Also
 
 * class [TextFragment](../../../aspose.pdf.text/textfragment/)

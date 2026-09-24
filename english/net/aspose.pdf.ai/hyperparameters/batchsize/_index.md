@@ -17,10 +17,6 @@ Gets or sets number of examples in each batch.
 public string BatchSize { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Hyperparameters](../)

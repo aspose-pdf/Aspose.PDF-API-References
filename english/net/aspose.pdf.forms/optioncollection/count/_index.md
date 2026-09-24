@@ -17,10 +17,6 @@ Gets number of options.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OptionCollection](../)

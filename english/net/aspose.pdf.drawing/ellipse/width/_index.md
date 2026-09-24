@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the width of the ellipse.
 public double Width { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Ellipse](../)

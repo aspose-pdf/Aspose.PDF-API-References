@@ -19,10 +19,6 @@ Indicates that all fonts will be converted to TTF unicode versions. That is usef
 public bool ConvertFontsToUnicodeTTF { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

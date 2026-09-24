@@ -23,10 +23,6 @@ Gets or sets end page in the page range where extracting operation will be perfo
 public int EndPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfExtractor](../)

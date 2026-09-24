@@ -17,10 +17,6 @@ Gets or sets date and time when annotation was recently modified.
 public DateTime Modified { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [Annotation](../)

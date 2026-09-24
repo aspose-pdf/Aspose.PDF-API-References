@@ -25,10 +25,6 @@ Gets or sets size of radio button item size (when new radio button field is adde
 public double RadioButtonItemSize { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FormEditor](../)

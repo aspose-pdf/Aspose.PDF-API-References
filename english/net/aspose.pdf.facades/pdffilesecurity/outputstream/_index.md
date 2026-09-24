@@ -19,10 +19,6 @@ Sets the output stream.
 public Stream OutputStream { set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [PdfFileSecurity](../)

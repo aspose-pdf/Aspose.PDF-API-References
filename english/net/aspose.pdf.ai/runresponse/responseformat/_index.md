@@ -26,10 +26,6 @@ Gets or sets the format that the model must output. Compatible with GPT-4o, GPT-
 public ResponseFormat ResponseFormat { get; set; }
 ```
 
-### Property Value
-
-[ResponseFormat](../../../aspose.pdf.ai/responseformat/)
-
 ### See Also
 
 * class [ResponseFormat](../../../aspose.pdf.ai/responseformat/)

@@ -17,10 +17,6 @@ Gets value indicating that this [`TabStop`](../../../aspose.pdf.text/tabstop/) i
 public bool IsReadOnly { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TabStop](../)

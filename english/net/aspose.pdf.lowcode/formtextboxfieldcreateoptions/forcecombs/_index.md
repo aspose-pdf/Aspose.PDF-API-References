@@ -17,10 +17,6 @@ Gets/sets the value to determine whether created TextBoxField is forcecombs or n
 public Nullable<bool> ForceCombs { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormTextBoxFieldCreateOptions](../)

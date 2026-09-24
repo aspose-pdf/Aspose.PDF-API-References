@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public bool HasContext { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OpenAISummaryCopilot](../)

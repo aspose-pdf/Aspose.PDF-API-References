@@ -17,10 +17,6 @@ An error message describing why OCR failed for this page, if Success is false. N
 public string ErrorMessage { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OcrDetail](../)

@@ -17,10 +17,6 @@ Gets or sets the image file type.
 public ImageFileType FileType { get; set; }
 ```
 
-### Property Value
-
-[ImageFileType](../../../aspose.pdf/imagefiletype/)
-
 ### See Also
 
 * class [ImageFileType](../../../aspose.pdf/imagefiletype/)

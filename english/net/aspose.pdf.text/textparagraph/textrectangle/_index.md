@@ -17,10 +17,6 @@ Gets rectangle of the text placed to the paragraph.
 public Rectangle TextRectangle { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

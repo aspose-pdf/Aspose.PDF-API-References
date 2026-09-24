@@ -17,10 +17,10 @@ Represents enum for the level of coverage provided by digital signatures in a do
 public enum SignaturesCoverage
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Indicates that the state of digital signatures' coverage in the document is undefined.
  This value is typically used when one or more signatures in the document are compromised
  or cannot be verified, preventing a definitive assessment of the document's signature coverage. |

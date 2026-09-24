@@ -19,7 +19,7 @@ public int Index { get; }
 
 ### Property Value
 
-int
+The ordinal position of this chunk in the document's chunk sequence.
 
 ### See Also
 

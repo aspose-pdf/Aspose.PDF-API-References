@@ -18,10 +18,6 @@ Gets or sets a float value that indicates the graph width.
 public double Width { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Graph](../)

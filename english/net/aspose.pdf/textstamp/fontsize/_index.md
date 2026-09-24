@@ -17,10 +17,6 @@ Actual font size after the stamp has been placed. (May differ from the initial f
 public float FontSize { get; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextStamp](../)

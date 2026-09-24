@@ -17,10 +17,6 @@ Import format.
 public ImportFormat ImportFormat { get; }
 ```
 
-### Property Value
-
-[ImportFormat](../../../aspose.pdf/importformat/)
-
 ### See Also
 
 * class [ImportFormat](../../../aspose.pdf/importformat/)

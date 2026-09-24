@@ -17,10 +17,6 @@ Font file byte array.
 public byte[] FontBytes { get; }
 ```
 
-### Property Value
-
-byte[]
-
 ### See Also
 
 * class [MemoryFontSource](../)

@@ -17,10 +17,6 @@ Upper-right horizontal coordinate of bounding rectangle.
 public double Urx { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCharWidthBoundingBox](../)

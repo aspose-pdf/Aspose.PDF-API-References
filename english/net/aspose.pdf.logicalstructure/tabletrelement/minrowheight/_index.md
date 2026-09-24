@@ -17,10 +17,6 @@ Gets height for row.
 public double MinRowHeight { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TableTRElement](../)

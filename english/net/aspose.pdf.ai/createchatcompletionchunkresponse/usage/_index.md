@@ -18,10 +18,6 @@ Gets or sets an optional field that will only be present when you set stream_opt
 public Usage Usage { get; set; }
 ```
 
-### Property Value
-
-[Usage](../../../aspose.pdf.ai/usage/)
-
 ### See Also
 
 * class [Usage](../../../aspose.pdf.ai/usage/)

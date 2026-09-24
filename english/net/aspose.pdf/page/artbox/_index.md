@@ -17,10 +17,6 @@ Gets or sets art box of the page.
 public Rectangle ArtBox { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

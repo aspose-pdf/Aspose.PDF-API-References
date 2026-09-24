@@ -19,7 +19,7 @@ public Color CuttingPlanesIntersectionColor { get; set; }
 
 ### Property Value
 
-[Color](../../../aspose.pdf/color/)
+The color of the cutting planes intersection.
 
 ### See Also
 

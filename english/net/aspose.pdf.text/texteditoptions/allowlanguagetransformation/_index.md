@@ -19,10 +19,6 @@ Gets or sets value that permits usage of language transformation during adding o
 public bool AllowLanguageTransformation { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextEditOptions](../)

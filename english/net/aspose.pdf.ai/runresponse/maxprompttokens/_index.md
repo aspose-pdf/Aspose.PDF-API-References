@@ -17,10 +17,6 @@ Gets or sets the maximum number of prompt tokens specified to have been used ove
 public Nullable<int> MaxPromptTokens { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [RunResponse](../)

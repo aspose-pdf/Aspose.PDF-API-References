@@ -17,10 +17,6 @@ Collection of editable keys.
 public ICollection<string> Keys { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<string>
-
 ### See Also
 
 * class [CosPdfDictionary](../)

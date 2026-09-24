@@ -17,10 +17,6 @@ Gets the dictionary of extension fields.
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 ```
 
-### Property Value
-
-[IDictionary](https://learn.microsoft.com/dotnet/api/system.collections.generic.idictionary-2)<string, [XmpPdfAExtensionSchema](../../../aspose.pdf/xmppdfaextensionschema/)>
-
 ### See Also
 
 * class [PdfXmpMetadata](../)

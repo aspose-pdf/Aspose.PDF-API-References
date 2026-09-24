@@ -17,10 +17,6 @@ Gets value indicating of collection is readonly. Always returns false.
 public bool IsReadOnly { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PageCollection](../)

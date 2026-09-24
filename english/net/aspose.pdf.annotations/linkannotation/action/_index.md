@@ -17,10 +17,6 @@ An action to be performed when the link annotation is activated.
 public PdfAction Action { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

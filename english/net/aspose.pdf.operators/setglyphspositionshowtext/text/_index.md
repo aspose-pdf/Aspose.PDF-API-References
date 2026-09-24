@@ -17,10 +17,6 @@ Gets text from operator argument (glyph positioning is ignored).
 public string Text { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SetGlyphsPositionShowText](../)

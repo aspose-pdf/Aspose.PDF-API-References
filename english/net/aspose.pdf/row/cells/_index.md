@@ -17,10 +17,6 @@ Gets the cells of the row.
 public Cells Cells { get; set; }
 ```
 
-### Property Value
-
-[Cells](../../../aspose.pdf/cells/)
-
 ### See Also
 
 * class [Cells](../../../aspose.pdf/cells/)

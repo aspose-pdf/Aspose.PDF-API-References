@@ -17,10 +17,6 @@ Gets or sets the IInterruptMonitor instance which is unique for each thread.
 public IInterruptMonitor ThreadLocalInstance { get; set; }
 ```
 
-### Property Value
-
-[IInterruptMonitor](../../../aspose.pdf.multithreading/iinterruptmonitor/)
-
 ### See Also
 
 * class [IInterruptMonitor](../../../aspose.pdf.multithreading/iinterruptmonitor/)

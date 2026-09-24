@@ -17,10 +17,6 @@ Gets or sets the list of image descriptions.
 public List<ImageDescription> ImageDescriptions { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[ImageDescription](../../../aspose.pdf.ai/imagedescription/)>
-
 ### See Also
 
 * class [ImageDescriptionResult](../)

@@ -17,10 +17,6 @@ Gets or sets a flag specifying whether the PDF page size shall be used to select
 public bool PickTrayByPdfSize { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

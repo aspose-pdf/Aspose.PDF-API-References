@@ -18,10 +18,6 @@ Gets or sets the document image conversion option.
 public ImageCompressionOptions ImageCompressionOptions { get; set; }
 ```
 
-### Property Value
-
-[ImageCompressionOptions](../../../aspose.pdf.optimization/imagecompressionoptions/)
-
 ### See Also
 
 * class [ImageCompressionOptions](../../../aspose.pdf.optimization/imagecompressionoptions/)

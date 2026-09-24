@@ -17,10 +17,6 @@ Gets count of operators in the collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OperatorCollection](../)

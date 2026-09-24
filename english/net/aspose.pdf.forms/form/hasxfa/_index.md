@@ -19,10 +19,6 @@ Gets a value indicating whether the document contains XFA form.
 public bool HasXfa { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

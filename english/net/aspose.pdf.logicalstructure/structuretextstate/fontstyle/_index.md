@@ -19,10 +19,6 @@ Can be null. Use null to inherit `FontStyle` property from parent structure elem
 public Nullable<FontStyles> FontStyle { get; set; }
 ```
 
-### Property Value
-
-Nullable<[FontStyles](../../../aspose.pdf.text/fontstyles/)>
-
 ### See Also
 
 * class [StructureTextState](../)

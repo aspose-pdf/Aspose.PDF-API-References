@@ -19,7 +19,7 @@ public GraphInfo NoteLineStyle { get; set; }
 
 ### Property Value
 
-[GraphInfo](../../../aspose.pdf/graphinfo/)
+The note style.
 
 ### See Also
 

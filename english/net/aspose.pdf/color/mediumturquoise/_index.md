@@ -17,10 +17,6 @@ Gets a system-defined color that has an ARGB value of \c \#FF48D1CC.
 public Color MediumTurquoise { get; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

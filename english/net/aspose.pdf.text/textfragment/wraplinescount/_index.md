@@ -17,10 +17,6 @@ Gets or sets wrap lines count for this paragraph(for pdf generation only)
 public int WrapLinesCount { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextFragment](../)

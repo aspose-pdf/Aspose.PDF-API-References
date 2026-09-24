@@ -17,10 +17,6 @@ Gets or sets the Title information of PDF document.
 public string Title { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

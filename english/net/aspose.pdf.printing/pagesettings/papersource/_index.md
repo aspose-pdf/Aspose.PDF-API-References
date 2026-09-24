@@ -17,10 +17,6 @@ Gets or sets a value indicating the paper source (i.e. upper bin).
 public PaperSource PaperSource { get; set; }
 ```
 
-### Property Value
-
-[PaperSource](../../../aspose.pdf.printing/papersource/)
-
 ### See Also
 
 * class [PaperSource](../../../aspose.pdf.printing/papersource/)

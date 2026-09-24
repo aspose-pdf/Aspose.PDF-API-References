@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the run step was cancelled
 public Nullable<long> CancelledAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<long>
-
 ### See Also
 
 * class [RunStepResponse](../)

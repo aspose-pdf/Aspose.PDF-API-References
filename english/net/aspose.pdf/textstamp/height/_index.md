@@ -17,10 +17,6 @@ Desired height of the stamp on the page.
 public double Height { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextStamp](../)

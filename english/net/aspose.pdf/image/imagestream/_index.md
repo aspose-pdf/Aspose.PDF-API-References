@@ -17,10 +17,6 @@ Gets or sets the image stream.
 public Stream ImageStream { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [Image](../)

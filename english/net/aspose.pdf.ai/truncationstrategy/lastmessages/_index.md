@@ -17,10 +17,6 @@ Gets or sets the number of most recent messages from the thread when constructin
 public Nullable<int> LastMessages { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [TruncationStrategy](../)

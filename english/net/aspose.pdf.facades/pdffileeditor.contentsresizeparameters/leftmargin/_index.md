@@ -17,10 +17,6 @@ Gets or sets left margin on the resultant page.
 public ContentsResizeValue LeftMargin { get; set; }
 ```
 
-### Property Value
-
-ContentsResizeValue
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeParameters](../)

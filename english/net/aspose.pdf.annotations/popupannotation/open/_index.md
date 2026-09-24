@@ -17,10 +17,6 @@ Gets or sets a flag specifying whether the pop-up annotation should initially be
 public bool Open { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PopupAnnotation](../)

@@ -17,10 +17,6 @@ Gets or sets the position of the registration mark on a page.
 public PrinterMarkSidePosition Position { get; set; }
 ```
 
-### Property Value
-
-[PrinterMarkSidePosition](../../../aspose.pdf.annotations/printermarksideposition/)
-
 ### See Also
 
 * class [PrinterMarkSidePosition](../../../aspose.pdf.annotations/printermarksideposition/)

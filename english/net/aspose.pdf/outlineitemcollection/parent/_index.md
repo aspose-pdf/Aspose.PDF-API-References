@@ -17,10 +17,6 @@ Gets the parent object of this outline item in the outline hierarchy.
 public Outlines Parent { get; }
 ```
 
-### Property Value
-
-[Outlines](../../../aspose.pdf/outlines/)
-
 ### See Also
 
 * class [Outlines](../../../aspose.pdf/outlines/)

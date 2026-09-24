@@ -20,10 +20,6 @@ Specifies whether to save non-TrueType fonts to TTF.
 public bool ConvertFontsToTTF { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PsLoadOptions](../)

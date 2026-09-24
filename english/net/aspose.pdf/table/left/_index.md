@@ -17,10 +17,6 @@ Gets or sets the table left coordinate.
 public float Left { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [Table](../)

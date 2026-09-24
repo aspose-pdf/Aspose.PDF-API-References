@@ -17,10 +17,6 @@ A3 size (420x297 mm).
 public PageSize A3 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

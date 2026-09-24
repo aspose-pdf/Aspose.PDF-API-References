@@ -17,10 +17,6 @@ Gets or sets width of the annotation.
 public double Width { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Annotation](../)

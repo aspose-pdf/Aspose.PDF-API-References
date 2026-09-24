@@ -17,10 +17,6 @@ Gets or sets the method used to validate a certificate.
 public ValidationMethod ValidationMethod { get; set; }
 ```
 
-### Property Value
-
-[ValidationMethod](../../../aspose.pdf.security/validationmethod/)
-
 ### See Also
 
 * class [ValidationMethod](../../../aspose.pdf.security/validationmethod/)

@@ -17,10 +17,6 @@ Gets and sets option to unpack only the XForm corresponding to the specified pre
 public Predicate<XFormPlacement> UnpackXFormPredicate { get; set; }
 ```
 
-### Property Value
-
-Predicate<[XFormPlacement](../../../aspose.pdf.vector/xformplacement/)>
-
 ### See Also
 
 * class [SvgExtractionOptions](../)

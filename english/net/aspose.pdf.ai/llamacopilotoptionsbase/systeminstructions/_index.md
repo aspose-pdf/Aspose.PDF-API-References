@@ -17,10 +17,6 @@ Gets or sets the file path for the text file containing assistant system instruc
 public string SystemInstructions { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LlamaCopilotOptionsBase](../)

@@ -17,10 +17,6 @@ All Forbidded.
 public DocumentPrivilege ForbidAll { get; }
 ```
 
-### Property Value
-
-[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)

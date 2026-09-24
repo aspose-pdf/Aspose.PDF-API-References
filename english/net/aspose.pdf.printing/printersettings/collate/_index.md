@@ -17,10 +17,6 @@ Gets or sets a value indicating whether the print out is collated.
 public bool Collate { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PrinterSettings](../)

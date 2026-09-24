@@ -17,10 +17,6 @@ Gets ending character index of current segment in the show text operator (Tj, TJ
 public int EndCharIndex { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextSegment](../)

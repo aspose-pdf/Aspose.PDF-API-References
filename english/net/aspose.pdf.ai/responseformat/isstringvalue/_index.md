@@ -17,10 +17,6 @@ Gets a value indicating whether the response format is a string value.
 public bool IsStringValue { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ResponseFormat](../)

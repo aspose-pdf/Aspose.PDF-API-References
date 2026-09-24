@@ -17,10 +17,6 @@ Gets or sets column info.
 public ColumnInfo ColumnInfo { get; set; }
 ```
 
-### Property Value
-
-[ColumnInfo](../../../aspose.pdf/columninfo/)
-
 ### See Also
 
 * class [ColumnInfo](../../../aspose.pdf/columninfo/)

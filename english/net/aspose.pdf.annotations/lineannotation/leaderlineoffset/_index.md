@@ -17,10 +17,6 @@ Gets or sets leader line offset.
 public double LeaderLineOffset { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [LineAnnotation](../)

@@ -19,7 +19,7 @@ public SizeF PageSize { get; set; }
 
 ### Property Value
 
-SizeF
+The size of the page.
 
 ### See Also
 

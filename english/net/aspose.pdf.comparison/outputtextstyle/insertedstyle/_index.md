@@ -17,10 +17,6 @@ Get and set a text style for inserted text.
 public TextStyle InsertedStyle { get; set; }
 ```
 
-### Property Value
-
-[TextStyle](../../../aspose.pdf.comparison/textstyle/)
-
 ### See Also
 
 * class [TextStyle](../../../aspose.pdf.comparison/textstyle/)

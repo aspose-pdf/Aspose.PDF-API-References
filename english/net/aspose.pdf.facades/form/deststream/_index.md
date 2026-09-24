@@ -19,10 +19,6 @@ Gets or sets destination stream.
 public Stream DestStream { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [Form](../)

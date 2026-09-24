@@ -19,7 +19,7 @@ public string ExpansionText { get; set; }
 
 ### Property Value
 
-string
+Expansion text of the structure element.
 
 ### See Also
 

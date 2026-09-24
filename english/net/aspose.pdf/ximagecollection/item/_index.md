@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public XImage Item { get; }
 ```
 
-### Property Value
-
-[XImage](../../../aspose.pdf/ximage/)
-
 ### See Also
 
 * class [XImage](../../../aspose.pdf/ximage/)

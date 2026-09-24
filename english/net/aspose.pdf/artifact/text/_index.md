@@ -17,10 +17,6 @@ Gets text of the artifact.
 public string Text { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Artifact](../)

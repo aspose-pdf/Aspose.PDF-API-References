@@ -17,10 +17,6 @@ Gets keys from the dictionary.
 public ICollection<string> Keys { get; }
 ```
 
-### Property Value
-
-[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<string>
-
 ### See Also
 
 * class [PdfXmpMetadata](../)

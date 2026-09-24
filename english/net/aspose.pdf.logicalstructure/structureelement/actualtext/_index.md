@@ -19,7 +19,7 @@ public string ActualText { get; set; }
 
 ### Property Value
 
-string
+Actual text of the structure element.
 
 ### See Also
 

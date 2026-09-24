@@ -18,10 +18,6 @@ Value indicates whether errors were found during text extraction.
 public bool HasErrors { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextAbsorber](../)

@@ -17,10 +17,6 @@ Gets or sets the style of emphasis for generated document.
 public EmphasisStyle EmphasisStyle { get; set; }
 ```
 
-### Property Value
-
-[EmphasisStyle](../../../aspose.pdf/emphasisstyle/)
-
 ### See Also
 
 * class [EmphasisStyle](../../../aspose.pdf/emphasisstyle/)

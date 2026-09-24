@@ -17,10 +17,6 @@ Returns true if password is needed to open password protected pdf document.
 public bool HasOpenPassword { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileInfo](../)

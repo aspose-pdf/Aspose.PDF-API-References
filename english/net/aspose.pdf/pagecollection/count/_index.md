@@ -17,10 +17,6 @@ Gets count of pages in the document.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PageCollection](../)

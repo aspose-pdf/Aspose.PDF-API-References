@@ -17,10 +17,6 @@ Gets or sets a object that indicates right of the border.
 public GraphInfo Right { get; set; }
 ```
 
-### Property Value
-
-[GraphInfo](../../../aspose.pdf/graphinfo/)
-
 ### See Also
 
 * class [GraphInfo](../../../aspose.pdf/graphinfo/)

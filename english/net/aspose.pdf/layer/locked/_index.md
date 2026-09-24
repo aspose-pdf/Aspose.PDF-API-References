@@ -17,10 +17,6 @@ Gets a value indicating whether the layer is locked.
 public bool Locked { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Layer](../)

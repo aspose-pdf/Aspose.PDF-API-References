@@ -19,7 +19,7 @@ public string AllowedChars { get; set; }
 
 ### Property Value
 
-string
+The allowed chars string. 0123456789 by default
 
 ### See Also
 

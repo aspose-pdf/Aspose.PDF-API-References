@@ -18,10 +18,6 @@ Text with the specified size or less will be ignored during conversion.
 public Nullable<float> IgnoredTextFontSize { get; set; }
 ```
 
-### Property Value
-
-Nullable<float>
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

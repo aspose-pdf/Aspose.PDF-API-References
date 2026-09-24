@@ -20,10 +20,6 @@ Allows to define text formatting mode [`TextExtractionOptions`](../../../aspose.
 public TextExtractionOptions ExtractionOptions { get; set; }
 ```
 
-### Property Value
-
-[TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-
 ### See Also
 
 * class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)

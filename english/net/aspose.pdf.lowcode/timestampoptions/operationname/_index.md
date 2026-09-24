@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public string OperationName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TimestampOptions](../)

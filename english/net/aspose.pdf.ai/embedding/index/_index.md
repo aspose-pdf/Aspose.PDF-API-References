@@ -17,10 +17,6 @@ Gets or sets the index of the embedding in the list of embeddings.
 public int Index { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Embedding](../)

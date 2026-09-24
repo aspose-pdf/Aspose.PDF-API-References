@@ -17,10 +17,6 @@ Gets licensed state of the system. Returns true is system works in licensed mode
 public bool IsLicensed { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

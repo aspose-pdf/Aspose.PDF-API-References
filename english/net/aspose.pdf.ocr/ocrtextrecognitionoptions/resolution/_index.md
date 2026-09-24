@@ -17,10 +17,6 @@ Gets or sets the rendering resolution, in DPI. Defaults to `300`.
 public int Resolution { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OcrTextRecognitionOptions](../)

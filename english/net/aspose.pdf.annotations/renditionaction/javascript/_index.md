@@ -17,10 +17,6 @@ Gets or sets JavaScript code associated with the action.
 public string JavaScript { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RenditionAction](../)

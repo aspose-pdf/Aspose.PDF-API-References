@@ -17,10 +17,10 @@ Represents possible types of data for plugin processing.
 public enum DataType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | File | `0` | Data type is a file represented by the path to it. |
 | Stream | `1` | Data type is a stream. |
 

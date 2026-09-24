@@ -17,10 +17,6 @@ Gets or sets if image has transparent background.
 public bool TransparentBackground { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PngDevice](../)

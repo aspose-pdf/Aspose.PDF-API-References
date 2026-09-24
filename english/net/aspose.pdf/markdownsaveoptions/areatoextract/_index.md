@@ -17,10 +17,6 @@ Get or set an rectangle area to extract content to markdown.
 public Rectangle AreaToExtract { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

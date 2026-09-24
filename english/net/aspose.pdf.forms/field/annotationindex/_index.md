@@ -17,10 +17,6 @@ Gets or sets index of this anotation on the page.
 public int AnnotationIndex { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Field](../)

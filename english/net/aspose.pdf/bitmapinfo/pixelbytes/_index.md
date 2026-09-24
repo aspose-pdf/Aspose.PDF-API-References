@@ -17,10 +17,6 @@ Gets the array of pixels.
 public byte[] PixelBytes { get; }
 ```
 
-### Property Value
-
-byte[]
-
 ### See Also
 
 * class [BitmapInfo](../)

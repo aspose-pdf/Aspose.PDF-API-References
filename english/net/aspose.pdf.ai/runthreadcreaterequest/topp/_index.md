@@ -19,10 +19,6 @@ Gets or sets a value that alternative to sampling with temperature, called nucle
 public Nullable<double> TopP { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [RunThreadCreateRequest](../)

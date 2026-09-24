@@ -17,10 +17,10 @@ This enum represents version of pdf file.
 public enum PdfVersion
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | v_1_0 | `0` | Adobe version 1.0 |
 | v_1_1 | `1` | Adobe version 1.1 |
 | v_1_2 | `2` | Adobe version 1.2 |

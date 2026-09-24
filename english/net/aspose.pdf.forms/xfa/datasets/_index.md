@@ -17,10 +17,6 @@ XFA Datasets component of an XFA form.
 public XmlNode Datasets { get; }
 ```
 
-### Property Value
-
-XmlNode
-
 ### See Also
 
 * class [XFA](../)

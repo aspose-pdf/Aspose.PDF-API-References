@@ -17,10 +17,6 @@ Gets or sets the basic authentication credentials, Username and password are com
 public string BasicAuthCredentials { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TimestampOptions](../)

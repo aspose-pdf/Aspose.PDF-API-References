@@ -17,10 +17,6 @@ Gets or sets the sampling rate.
 public long SamplingRate { get; set; }
 ```
 
-### Property Value
-
-long
-
 ### See Also
 
 * class [SoundSampleData](../)

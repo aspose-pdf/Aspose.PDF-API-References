@@ -17,10 +17,6 @@ Gets or sets font used for replacing if user font does not contain required char
 public Font ReplacementFont { get; set; }
 ```
 
-### Property Value
-
-[Font](../../../aspose.pdf.text/font/)
-
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)

@@ -17,10 +17,10 @@ Enumerates field types definitions.
 public enum DataType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | FDF | `0` | FDF stream. |
 | XML | `1` | XML stream. |
 | XFDF | `2` | XFDF stream. |

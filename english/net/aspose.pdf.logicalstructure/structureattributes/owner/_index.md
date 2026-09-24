@@ -19,7 +19,7 @@ public AttributeOwnerStandard Owner { get; }
 
 ### Property Value
 
-[AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+Standard attribute owner.
 
 ### See Also
 

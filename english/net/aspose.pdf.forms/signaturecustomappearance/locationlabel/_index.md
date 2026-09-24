@@ -17,10 +17,6 @@ Gets/sets location label. Default value: "Location".
 public string LocationLabel { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

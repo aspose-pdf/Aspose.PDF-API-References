@@ -18,10 +18,6 @@ Gets or sets a delegate that determines whether a particular field should be exp
 public Predicate<Field> FieldSelector { get; set; }
 ```
 
-### Property Value
-
-Predicate<[Field](../../../aspose.pdf.forms/field/)>
-
 ### See Also
 
 * class [ExportFieldsOptions](../)

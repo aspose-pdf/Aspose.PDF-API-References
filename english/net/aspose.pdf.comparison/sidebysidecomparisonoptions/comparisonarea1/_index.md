@@ -18,10 +18,6 @@ Get and set the comparison area. Used for the first page or document in the comp
 public Rectangle ComparisonArea1 { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

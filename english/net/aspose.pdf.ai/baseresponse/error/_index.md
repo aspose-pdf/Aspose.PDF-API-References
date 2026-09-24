@@ -17,10 +17,6 @@ Gets or sets the HTTP response error.
 public Error Error { get; set; }
 ```
 
-### Property Value
-
-[Error](../../../aspose.pdf.ai/error/)
-
 ### See Also
 
 * class [Error](../../../aspose.pdf.ai/error/)

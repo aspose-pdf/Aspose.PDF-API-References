@@ -17,10 +17,6 @@ Gets or sets the background color of the document.
 public Color Background { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

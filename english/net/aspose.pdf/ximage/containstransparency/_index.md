@@ -17,10 +17,6 @@ If the image contains transparancy than return true; otherwise, false.
 public bool ContainsTransparency { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XImage](../)

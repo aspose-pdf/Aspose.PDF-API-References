@@ -17,10 +17,6 @@ Gets or sets index of the selected item. Items are numbered from 1.
 public int Selected { set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ListBoxField](../)

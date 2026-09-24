@@ -17,10 +17,6 @@ This property determines how stamp is drawn on page. If Draw = true stamp is dra
 public bool Draw { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextStamp](../)

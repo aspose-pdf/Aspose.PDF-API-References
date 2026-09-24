@@ -17,10 +17,6 @@ Gets blend mode of current graphics state.
 public BlendMode BlendMode { get; }
 ```
 
-### Property Value
-
-[BlendMode](../../../aspose.pdf/blendmode/)
-
 ### See Also
 
 * class [BlendMode](../../../aspose.pdf/blendmode/)

@@ -19,7 +19,7 @@ public bool FixedLayout { get; set; }
 
 ### Property Value
 
-bool
+`true` if [fixed layout]; otherwise, `false`.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Version of compression algorithm. Possible values are: 1. standard compression, 
 public ImageCompressionVersion Version { get; set; }
 ```
 
-### Property Value
-
-[ImageCompressionVersion](../../../aspose.pdf.optimization/imagecompressionversion/)
-
 ### See Also
 
 * class [ImageCompressionVersion](../../../aspose.pdf.optimization/imagecompressionversion/)

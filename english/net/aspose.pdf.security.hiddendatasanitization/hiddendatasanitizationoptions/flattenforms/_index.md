@@ -20,10 +20,6 @@ Gets or sets a value indicating whether forms in the document
 public bool FlattenForms { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

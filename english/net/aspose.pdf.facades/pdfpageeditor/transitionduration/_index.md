@@ -17,10 +17,6 @@ Gets or sets duration of the transition effect.
 public int TransitionDuration { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfPageEditor](../)

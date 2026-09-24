@@ -19,10 +19,6 @@ Gets or sets the horizontal alignment of the original PDF content on the result 
 public AlignmentType Alignment { get; set; }
 ```
 
-### Property Value
-
-[AlignmentType](../../../aspose.pdf.facades/alignmenttype/)
-
 ### See Also
 
 * class [AlignmentType](../../../aspose.pdf.facades/alignmenttype/)

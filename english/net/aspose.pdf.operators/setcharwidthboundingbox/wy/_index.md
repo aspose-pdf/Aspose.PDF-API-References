@@ -17,10 +17,6 @@ Vertical displacement of glyph.
 public double Wy { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCharWidthBoundingBox](../)

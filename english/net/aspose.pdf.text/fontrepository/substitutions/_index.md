@@ -17,10 +17,6 @@ Gets font substitution strategies collection.
 public FontSubstitutionCollection Substitutions { get; }
 ```
 
-### Property Value
-
-[FontSubstitutionCollection](../../../aspose.pdf.text/fontsubstitutioncollection/)
-
 ### See Also
 
 * class [FontSubstitutionCollection](../../../aspose.pdf.text/fontsubstitutioncollection/)

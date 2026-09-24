@@ -19,7 +19,7 @@ public string DateFormat { get; set; }
 
 ### Property Value
 
-string
+The date format. Default dd/MM/yyyy
 
 ### See Also
 

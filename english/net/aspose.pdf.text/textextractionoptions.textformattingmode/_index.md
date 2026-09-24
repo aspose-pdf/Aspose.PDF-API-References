@@ -17,10 +17,10 @@ Defines different modes which can be used while converting pdf document into tex
 public enum TextFormattingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Pure | `0` | Represent pdf content with a bit of formatting routines. |
 | Raw | `1` | Represent pdf content as is, i.e. without formatting. |
 | Flatten | `2` | Represent pdf content with positioning text fragments by their coordinates.

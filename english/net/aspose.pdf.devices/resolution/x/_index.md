@@ -17,10 +17,6 @@ Gets or sets horizontal image resolution.
 public int X { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Resolution](../)

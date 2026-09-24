@@ -17,10 +17,6 @@ Gets or sets the name of the assistant. The maximum length is 256 characters.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AssistantCreateRequest](../)

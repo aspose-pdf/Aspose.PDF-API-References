@@ -17,10 +17,6 @@ Gets array of names of the destinations.
 public string[] Names { get; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * interface [INamedDestinationCollection](../)

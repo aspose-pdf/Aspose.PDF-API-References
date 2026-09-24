@@ -17,10 +17,10 @@ Enumerates the tab alignment types.
 public enum TabAlignmentType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Left | `0` | Text aligned left from tab stop |
 | Center | `1` | Text aligned center from tab stop |
 | Right | `2` | Text aligned right from tab stop |

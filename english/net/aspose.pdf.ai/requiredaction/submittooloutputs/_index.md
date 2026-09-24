@@ -17,10 +17,6 @@ Gets or sets details on the tool outputs needed for this run to continue.
 public SubmitToolOutputs SubmitToolOutputs { get; set; }
 ```
 
-### Property Value
-
-[SubmitToolOutputs](../../../aspose.pdf.ai/submittooloutputs/)
-
 ### See Also
 
 * class [SubmitToolOutputs](../../../aspose.pdf.ai/submittooloutputs/)

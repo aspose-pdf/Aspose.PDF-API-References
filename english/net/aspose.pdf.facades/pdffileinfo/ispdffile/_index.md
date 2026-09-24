@@ -17,10 +17,6 @@ Checkes whether the source input is a valid PDF file.
 public bool IsPdfFile { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileInfo](../)

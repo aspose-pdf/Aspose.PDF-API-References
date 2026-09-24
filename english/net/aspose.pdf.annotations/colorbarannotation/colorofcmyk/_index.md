@@ -17,10 +17,6 @@ Gets or sets color (one of cyan, magenta, yellow, black) for which the annotatio
 public ColorsOfCMYK ColorOfCMYK { get; set; }
 ```
 
-### Property Value
-
-[ColorsOfCMYK](../../../aspose.pdf.annotations/colorsofcmyk/)
-
 ### See Also
 
 * class [ColorsOfCMYK](../../../aspose.pdf.annotations/colorsofcmyk/)

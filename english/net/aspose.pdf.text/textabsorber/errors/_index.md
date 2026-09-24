@@ -18,10 +18,6 @@ List of [`TextExtractionError`](../../../aspose.pdf.text/textextractionerror/) o
 public List<TextExtractionError> Errors { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[TextExtractionError](../../../aspose.pdf.text/textextractionerror/)>
-
 ### See Also
 
 * class [TextAbsorber](../)

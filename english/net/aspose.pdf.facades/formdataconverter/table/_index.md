@@ -23,10 +23,6 @@ Gets or sets the middle data container, one DataTable.
 public DataTable Table { get; set; }
 ```
 
-### Property Value
-
-DataTable
-
 ### See Also
 
 * class [FormDataConverter](../)

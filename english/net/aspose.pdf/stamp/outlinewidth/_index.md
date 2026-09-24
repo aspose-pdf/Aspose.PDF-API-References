@@ -18,10 +18,6 @@ Gets or sets a value of the stamp outline width.
 public double OutlineWidth { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

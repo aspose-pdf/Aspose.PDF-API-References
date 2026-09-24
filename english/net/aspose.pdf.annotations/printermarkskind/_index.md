@@ -17,10 +17,10 @@ Specifies the types of printer's marks to be added to a document.
 public enum PrinterMarksKind
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Specifies that no printer's marks are to be added. |
 | TrimMarks | `1` | Specifies that trim marks are to be added. |
 | BleedMarks | `2` | Specifies that bleed marks are to be added. |

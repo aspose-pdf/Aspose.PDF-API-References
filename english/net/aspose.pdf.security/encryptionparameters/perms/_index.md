@@ -18,10 +18,6 @@ Gets the Perms field data.
 public byte[] Perms { get; }
 ```
 
-### Property Value
-
-byte[]
-
 ### See Also
 
 * class [EncryptionParameters](../)

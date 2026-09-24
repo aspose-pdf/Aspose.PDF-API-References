@@ -18,10 +18,6 @@ Set true for using uniform columns division through the document.
 public bool UniformWorksheets { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ExcelSaveOptions](../)

@@ -24,10 +24,6 @@ Provides a way to change following properties of the text:
 public TextState TextState { get; set; }
 ```
 
-### Property Value
-
-[TextState](../../../aspose.pdf.text/textstate/)
-
 ### See Also
 
 * class [TextState](../../../aspose.pdf.text/textstate/)

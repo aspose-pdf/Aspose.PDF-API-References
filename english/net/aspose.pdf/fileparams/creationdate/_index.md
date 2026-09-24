@@ -17,10 +17,6 @@ The date and time when the embedded file was created.
 public DateTime CreationDate { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [FileParams](../)

@@ -17,10 +17,6 @@ The size of the uncompressed embedded file, in bytes.
 public int Size { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FileParams](../)

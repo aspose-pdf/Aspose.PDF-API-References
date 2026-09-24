@@ -17,10 +17,6 @@ Represents file format which [`LoadOptions`](../../../aspose.pdf/loadoptions/) d
 public LoadFormat LoadFormat { get; }
 ```
 
-### Property Value
-
-[LoadFormat](../../../aspose.pdf/loadformat/)
-
 ### See Also
 
 * class [LoadFormat](../../../aspose.pdf/loadformat/)

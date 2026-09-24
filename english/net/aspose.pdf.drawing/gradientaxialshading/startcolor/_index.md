@@ -17,10 +17,6 @@ Gets or sets start color.
 public Color StartColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

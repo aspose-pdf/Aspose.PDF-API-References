@@ -17,10 +17,6 @@ Gets text replace options. The options define behavior when fragment text is rep
 public TextReplaceOptions ReplaceOptions { get; }
 ```
 
-### Property Value
-
-[TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
-
 ### See Also
 
 * class [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)

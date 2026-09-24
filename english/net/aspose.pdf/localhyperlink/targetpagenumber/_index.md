@@ -17,10 +17,6 @@ Gets or sets the target page number.
 public int TargetPageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [LocalHyperlink](../)

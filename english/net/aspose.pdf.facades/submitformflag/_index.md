@@ -17,10 +17,10 @@ Enumeration of possible submit form flags.
 public enum SubmitFormFlag
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Fdf | `0` | Data will be returned in FDF format. |
 | Html | `1` | Data will be returned in HTML format. |
 | Xfdf | `2` | Data will be returned in XFDF format. |

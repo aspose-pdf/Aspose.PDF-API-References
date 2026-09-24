@@ -17,10 +17,6 @@ Gets or sets a value indicating whether to free the underlying buffers on dispos
 public bool FreeOnDispose { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizedMemoryStream](../)

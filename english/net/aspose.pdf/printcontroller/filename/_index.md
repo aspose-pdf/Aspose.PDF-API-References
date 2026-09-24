@@ -17,10 +17,6 @@ Gets or sets file name.
 public string FileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PrintController](../)

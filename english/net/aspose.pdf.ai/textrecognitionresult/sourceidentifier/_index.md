@@ -17,10 +17,6 @@ Identifier for the source file (e.g., the full path or a unique name).
 public string SourceIdentifier { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextRecognitionResult](../)

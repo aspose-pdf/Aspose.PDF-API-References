@@ -17,10 +17,6 @@ Gets or sets the usage statistics for the completion request.
 public Usage Usage { get; set; }
 ```
 
-### Property Value
-
-[Usage](../../../aspose.pdf.ai/usage/)
-
 ### See Also
 
 * class [Usage](../../../aspose.pdf.ai/usage/)

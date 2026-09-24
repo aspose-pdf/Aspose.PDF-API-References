@@ -17,10 +17,6 @@ Gets or sets number of tokens in the generated completion.
 public int CompletionTokens { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Usage](../)

@@ -17,10 +17,6 @@ Gets or sets a flag specifying whether to open the destination document in a new
 public ExtendedBoolean NewWindow { get; set; }
 ```
 
-### Property Value
-
-[ExtendedBoolean](../../../aspose.pdf/extendedboolean/)
-
 ### See Also
 
 * class [ExtendedBoolean](../../../aspose.pdf/extendedboolean/)

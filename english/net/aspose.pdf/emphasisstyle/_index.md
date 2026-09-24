@@ -18,10 +18,10 @@ Defines the available serialization styles for emphasis and strong emphasis.
 public enum EmphasisStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Asterisk | `0` | Use '*' respectively '**' for (strongly) emphasized text. |
 | Underscore | `1` | Use '_' respectively '__' for (strongly) emphasized text. |
 

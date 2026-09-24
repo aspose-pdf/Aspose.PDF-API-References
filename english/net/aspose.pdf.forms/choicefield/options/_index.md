@@ -17,10 +17,6 @@ Gets collection of choice options.
 public OptionCollection Options { get; }
 ```
 
-### Property Value
-
-[OptionCollection](../../../aspose.pdf.forms/optioncollection/)
-
 ### See Also
 
 * class [OptionCollection](../../../aspose.pdf.forms/optioncollection/)

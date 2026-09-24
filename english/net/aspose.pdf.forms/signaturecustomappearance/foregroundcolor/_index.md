@@ -17,10 +17,6 @@ Gets/sets foreground color (color of text). Default value: Blue.
 public Color ForegroundColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

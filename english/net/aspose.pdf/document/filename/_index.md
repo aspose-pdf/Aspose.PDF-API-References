@@ -17,10 +17,6 @@ Name of the PDF file that caused this document
 public string FileName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Document](../)

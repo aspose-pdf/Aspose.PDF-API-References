@@ -17,10 +17,6 @@ Gets or sets the status of the operation.
 public string Status { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * interface [IStatus](../)

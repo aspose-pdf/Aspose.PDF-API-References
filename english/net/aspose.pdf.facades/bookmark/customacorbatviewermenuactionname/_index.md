@@ -17,10 +17,6 @@ The action name corresponding to execute a menu item in Acrobat viewer.
 public Enum[] CustomAcorbatViewerMenuActionName { get; set; }
 ```
 
-### Property Value
-
-Enum[]
-
 ### See Also
 
 * class [Bookmark](../)

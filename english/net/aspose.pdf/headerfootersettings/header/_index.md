@@ -17,10 +17,6 @@ Gets or sets the header settings.
 public Header Header { get; set; }
 ```
 
-### Property Value
-
-[Header](../../../aspose.pdf/header/)
-
 ### See Also
 
 * class [Header](../../../aspose.pdf/header/)

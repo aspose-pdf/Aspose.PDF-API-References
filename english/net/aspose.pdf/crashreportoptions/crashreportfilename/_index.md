@@ -18,10 +18,6 @@ Filename for crash report. By default is auto-generated in format
 public string CrashReportFilename { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CrashReportOptions](../)

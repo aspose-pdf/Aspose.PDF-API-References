@@ -17,10 +17,6 @@ Gets or sets the byte array representing the image.
 public byte[] ImageBytes { get; set; }
 ```
 
-### Property Value
-
-byte[]
-
 ### See Also
 
 * class [ImageDescription](../)

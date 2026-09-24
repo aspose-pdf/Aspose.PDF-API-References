@@ -26,10 +26,6 @@ XsltArgumentList for inserting values into existing xls parameters
 public XsltArgumentList XsltArgumentList { get; set; }
 ```
 
-### Property Value
-
-XsltArgumentList
-
 ### See Also
 
 * class [XslFoLoadOptions](../)

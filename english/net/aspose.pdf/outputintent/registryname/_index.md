@@ -18,10 +18,6 @@ Gets or sets a text that identifies the registry in which the condition designat
 public string RegistryName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OutputIntent](../)

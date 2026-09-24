@@ -23,10 +23,6 @@ Gets/sets format for order of elements in Subject string.
 public SubjectNameElements[] DigitalSubjectFormat { get; set; }
 ```
 
-### Property Value
-
-[SubjectNameElements](../../../aspose.pdf.forms/subjectnameelements/)[]
-
 ### See Also
 
 * class [SubjectNameElements](../../../aspose.pdf.forms/subjectnameelements/)

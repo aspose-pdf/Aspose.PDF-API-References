@@ -22,7 +22,7 @@ public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set;
 
 ### Property Value
 
-[PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
+The symbolic font encoding strategy.
 
 ### See Also
 

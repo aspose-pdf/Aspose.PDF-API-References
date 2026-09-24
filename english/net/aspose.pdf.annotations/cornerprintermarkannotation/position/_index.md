@@ -17,10 +17,6 @@ Get or sets the position of the mark on the page.
 public PrinterMarkCornerPosition Position { get; set; }
 ```
 
-### Property Value
-
-[PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)
-
 ### See Also
 
 * class [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)

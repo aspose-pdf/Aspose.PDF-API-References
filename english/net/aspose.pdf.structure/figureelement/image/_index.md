@@ -17,10 +17,6 @@ Gets the value of figure structure element.
 public Image Image { get; }
 ```
 
-### Property Value
-
-[Image](../../../aspose.pdf/image/)
-
 ### See Also
 
 * class [Image](../../../aspose.pdf/image/)

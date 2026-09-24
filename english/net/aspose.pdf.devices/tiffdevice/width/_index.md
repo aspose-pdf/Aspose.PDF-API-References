@@ -17,10 +17,6 @@ Gets image output width.
 public int Width { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TiffDevice](../)

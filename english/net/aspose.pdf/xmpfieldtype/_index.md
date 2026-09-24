@@ -17,10 +17,10 @@ This enum represents types of a XMP field.
 public enum XmpFieldType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Struct | `0` | This type represents a structure. |
 | Array | `1` | This type represents a array. |
 | Property | `2` | This type represents a property. |

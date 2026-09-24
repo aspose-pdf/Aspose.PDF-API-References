@@ -17,10 +17,6 @@ Gets or sets a scope where replace text operation is applied
 public Scope ReplaceScope { get; set; }
 ```
 
-### Property Value
-
-Scope
-
 ### See Also
 
 * class [TextReplaceOptions](../)

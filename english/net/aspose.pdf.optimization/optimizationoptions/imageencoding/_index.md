@@ -17,10 +17,6 @@ Image encodre which will be used.
 public ImageEncoding ImageEncoding { get; set; }
 ```
 
-### Property Value
-
-[ImageEncoding](../../../aspose.pdf.optimization/imageencoding/)
-
 ### See Also
 
 * class [ImageEncoding](../../../aspose.pdf.optimization/imageencoding/)

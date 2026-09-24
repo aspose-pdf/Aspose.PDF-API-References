@@ -22,10 +22,6 @@ This property changes the image resolution in page-to-image conversion flows: wh
 public int Resolution { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfViewer](../)

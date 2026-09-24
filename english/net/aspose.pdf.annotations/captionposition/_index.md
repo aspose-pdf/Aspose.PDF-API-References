@@ -17,10 +17,10 @@ Enumeration of the annotation's caption positioning.
 public enum CaptionPosition
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Inline | `0` | The caption will be centered inside the line (default value). |
 | Top | `1` | The caption will be on top of the line. |
 

@@ -17,10 +17,6 @@ Gets or sets the number of bits per sample value per channel.
 public int BitsPerChannel { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [SoundSampleData](../)

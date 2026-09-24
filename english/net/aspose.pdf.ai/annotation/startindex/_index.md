@@ -17,10 +17,6 @@ Gets or sets the starting index of the text in the message content that needs to
 public int StartIndex { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Annotation](../)

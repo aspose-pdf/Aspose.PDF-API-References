@@ -17,10 +17,6 @@ Gets or sets the text content that is part of a message.
 public string Text { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MessageContentRequest](../)

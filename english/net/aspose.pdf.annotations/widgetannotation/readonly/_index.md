@@ -17,10 +17,6 @@ Gets or sets read only status of the field.
 public bool ReadOnly { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [WidgetAnnotation](../)

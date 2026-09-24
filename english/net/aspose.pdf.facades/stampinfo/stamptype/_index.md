@@ -17,10 +17,6 @@ Gets stamp type (image / form).
 public StampType StampType { get; }
 ```
 
-### Property Value
-
-[StampType](../../../aspose.pdf.facades/stamptype/)
-
 ### See Also
 
 * class [StampType](../../../aspose.pdf.facades/stamptype/)

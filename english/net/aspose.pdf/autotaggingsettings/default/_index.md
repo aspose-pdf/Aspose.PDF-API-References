@@ -21,10 +21,6 @@ The default settings enable auto-tagging and use the automatic strategy for head
 public AutoTaggingSettings Default { get; }
 ```
 
-### Property Value
-
-[AutoTaggingSettings](../../../aspose.pdf/autotaggingsettings/)
-
 ### See Also
 
 * class [AutoTaggingSettings](../../../aspose.pdf/autotaggingsettings/)

@@ -17,10 +17,6 @@ Fonst size.
 public double FontSize { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextStyle](../)

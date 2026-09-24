@@ -18,10 +18,6 @@ Bottom margin of artifact.
 public double BottomMargin { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Artifact](../)

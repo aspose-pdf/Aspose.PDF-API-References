@@ -17,10 +17,6 @@ Gets a value indicating whether dictionary is read-only.
 public bool IsReadOnly { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [AppearanceDictionary](../)

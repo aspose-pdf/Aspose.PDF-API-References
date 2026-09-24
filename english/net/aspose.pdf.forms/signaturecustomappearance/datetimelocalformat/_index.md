@@ -17,10 +17,6 @@ Gets/sets datetime local format. Default value: "yyyy.MM.dd HH:mm:ss zzz".
 public string DateTimeLocalFormat { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

@@ -17,10 +17,6 @@ Sets value in percents of page size.
 public double PercentValue { set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeValue](../)

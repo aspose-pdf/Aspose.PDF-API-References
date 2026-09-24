@@ -17,10 +17,6 @@ The reason for the signing, such as (I agree, Pip B.).
 public string Reason { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Signature](../)

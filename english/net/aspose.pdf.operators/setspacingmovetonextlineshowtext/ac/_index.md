@@ -17,10 +17,6 @@ Get character spacing.
 public double Ac { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetSpacingMoveToNextLineShowText](../)

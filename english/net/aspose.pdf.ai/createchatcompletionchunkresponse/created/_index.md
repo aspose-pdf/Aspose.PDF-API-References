@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) of when the chat completion was cre
 public long Created { get; set; }
 ```
 
-### Property Value
-
-long
-
 ### See Also
 
 * class [CreateChatCompletionChunkResponse](../)

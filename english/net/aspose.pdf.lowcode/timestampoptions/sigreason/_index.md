@@ -17,10 +17,6 @@ Reason for the signature.
 public string SigReason { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TimestampOptions](../)

@@ -17,10 +17,6 @@ Default embedded file name.
 public string DefaultEntry { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Collection](../)

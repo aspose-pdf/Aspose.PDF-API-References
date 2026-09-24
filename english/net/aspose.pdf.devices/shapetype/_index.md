@@ -17,10 +17,10 @@ This enum represents shape type for the extracted images.
 public enum ShapeType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Original image shape. |
 | Landscape | `1` | Landscape Shape. |
 | Portrait | `2` | Portrait Shape. |

@@ -17,10 +17,6 @@ Gets is row can be broken between two pages
 public bool IsRowBroken { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Row](../)

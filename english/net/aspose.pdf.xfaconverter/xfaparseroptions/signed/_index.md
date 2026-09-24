@@ -19,10 +19,6 @@ If this property is true then document will be converted with using of xfa form 
 public bool Signed { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XfaParserOptions](../)

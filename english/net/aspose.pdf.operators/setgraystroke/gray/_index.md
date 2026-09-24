@@ -17,10 +17,6 @@ Gets or sets the level of gray value.
 public double Gray { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetGrayStroke](../)

@@ -17,10 +17,6 @@ Y coordinate of text position.
 public double Y { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [MoveTextPosition](../)

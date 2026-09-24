@@ -18,10 +18,6 @@ Right margin of artifact.
 public double RightMargin { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Artifact](../)

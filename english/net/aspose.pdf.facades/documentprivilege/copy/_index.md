@@ -17,10 +17,6 @@ Allows copying file.
 public DocumentPrivilege Copy { get; }
 ```
 
-### Property Value
-
-[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)

@@ -18,10 +18,6 @@ Gets or sets the ID of the model to use. You can use the List models API to see 
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AssistantResponse](../)

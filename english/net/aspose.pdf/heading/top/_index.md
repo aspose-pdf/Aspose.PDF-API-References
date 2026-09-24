@@ -17,10 +17,6 @@ Gets the top Y of this headings.
 public double Top { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Heading](../)

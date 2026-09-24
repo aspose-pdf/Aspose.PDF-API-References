@@ -17,10 +17,6 @@ Defines scaling of the text. If this property is set to true and Width value spe
 public bool Scale { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextStamp](../)

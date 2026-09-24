@@ -17,10 +17,10 @@ Represents modes for merging images.
 public enum ImageMergeMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Vertical | `1` | Images merged vertically. |
 | Horizontal | `2` | Images merged horizontally. |
 | Center | `3` | Images aligned by center. |

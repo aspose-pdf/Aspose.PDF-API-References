@@ -20,10 +20,6 @@ If this option used then destination document will be saved on disk periodically
 public bool UseDiskBuffer { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document.MergeOptions](../)

@@ -17,10 +17,10 @@ Represents algorithms which can be used to encrypt pdf document.
 public enum Algorithm
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | RC4 | `0` | RC4 algorithm. |
 | AES | `1` | AES algorithm. |
 

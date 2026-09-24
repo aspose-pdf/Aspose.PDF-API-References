@@ -17,10 +17,6 @@ Get a list of changes to the pages of the first page.
 public List<EditContainer> FirstPageChanges { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[EditContainer](../../../aspose.pdf.comparison/editcontainer/)>
-
 ### See Also
 
 * class [SideBySidePagesComparisonResult](../)

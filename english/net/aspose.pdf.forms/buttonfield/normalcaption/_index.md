@@ -17,10 +17,6 @@ Gets or sets normal caption.
 public string NormalCaption { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ButtonField](../)

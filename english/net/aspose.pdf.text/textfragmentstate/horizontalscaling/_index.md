@@ -17,10 +17,6 @@ Gets or sets horizontal scaling of the text, represented by the [`TextFragment`]
 public float HorizontalScaling { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextFragmentState](../)

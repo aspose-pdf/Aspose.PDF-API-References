@@ -17,10 +17,6 @@ Gets or sets flag specifying whether position of the document's window will be c
 public bool CenterWindow { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

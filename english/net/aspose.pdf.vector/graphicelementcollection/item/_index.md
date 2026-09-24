@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public GraphicElement Item { get; }
 ```
 
-### Property Value
-
-[GraphicElement](../../../aspose.pdf.vector/graphicelement/)
-
 ### See Also
 
 * class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)

@@ -17,10 +17,6 @@ Name of XObject argument of the operator.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Do](../)

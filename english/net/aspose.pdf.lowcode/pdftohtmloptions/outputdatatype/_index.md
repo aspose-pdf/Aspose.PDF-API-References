@@ -17,10 +17,6 @@ Gets output data type.
 public SaveDataType OutputDataType { get; }
 ```
 
-### Property Value
-
-SaveDataType
-
 ### See Also
 
 * class [PdfToHtmlOptions](../)

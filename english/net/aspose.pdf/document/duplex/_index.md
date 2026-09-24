@@ -17,10 +17,6 @@ Gets or sets print duplex mode handling option to use when printing the file fro
 public PrintDuplex Duplex { get; set; }
 ```
 
-### Property Value
-
-[PrintDuplex](../../../aspose.pdf/printduplex/)
-
 ### See Also
 
 * class [PrintDuplex](../../../aspose.pdf/printduplex/)

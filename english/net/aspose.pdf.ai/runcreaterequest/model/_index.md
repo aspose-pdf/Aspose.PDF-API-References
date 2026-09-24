@@ -18,10 +18,6 @@ Gets or sets the ID of the Model to be used to execute this run. If a value is p
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunCreateRequest](../)

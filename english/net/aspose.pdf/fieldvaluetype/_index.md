@@ -17,10 +17,10 @@ Represents the type of a field value in a schema collection.
 public enum FieldValueType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Represents a value for not defined type. |
 | Text | `1` | Represents a text type. |
 | Number | `2` | Represents a number type. |

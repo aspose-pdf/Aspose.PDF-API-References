@@ -17,10 +17,6 @@ Gets the level.
 public int Level { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Heading](../)

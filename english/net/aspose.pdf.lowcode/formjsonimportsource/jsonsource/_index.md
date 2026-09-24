@@ -17,10 +17,6 @@ Gets the data source that contains the JSON with field values.
 public IDataSource JsonSource { get; }
 ```
 
-### Property Value
-
-[IDataSource](../../../aspose.pdf.lowcode/idatasource/)
-
 ### See Also
 
 * class [IDataSource](../../../aspose.pdf.lowcode/idatasource/)

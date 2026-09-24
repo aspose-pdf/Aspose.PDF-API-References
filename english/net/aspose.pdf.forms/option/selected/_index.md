@@ -17,10 +17,6 @@ Gets or sets selected status of option. Returns true if option is selected.
 public bool Selected { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Option](../)

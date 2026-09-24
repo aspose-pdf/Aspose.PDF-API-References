@@ -19,10 +19,6 @@ Usage of this flag turn on font hinting mechanism. Font hinting is the use of ma
 public bool UseFontHinting { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

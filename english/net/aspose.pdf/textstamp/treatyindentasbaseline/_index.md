@@ -19,10 +19,6 @@ Defines coordinate origin for placing text.
 public bool TreatYIndentAsBaseLine { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextStamp](../)

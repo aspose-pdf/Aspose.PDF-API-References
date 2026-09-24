@@ -17,10 +17,6 @@ Gets or sets the flag that specifies that @page rules defined in css will overri
 public bool IsPriorityCssPageRule { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [MdLoadOptions](../)

@@ -17,10 +17,6 @@ Gets list of Field object in Tab order on this page.
 public IList<Field> FieldsInTabOrder { get; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[Field](../../../aspose.pdf.forms/field/)>
-
 ### See Also
 
 * class [Page](../)

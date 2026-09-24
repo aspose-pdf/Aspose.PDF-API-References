@@ -17,10 +17,6 @@ Gets or sets the number of bookmark's destination page.
 public int PageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Bookmark](../)

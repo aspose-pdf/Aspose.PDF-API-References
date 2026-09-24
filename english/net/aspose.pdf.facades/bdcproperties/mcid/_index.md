@@ -17,10 +17,6 @@ Gets/sets MCID value.
 public Nullable<int> MCID { get; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [BDCProperties](../)

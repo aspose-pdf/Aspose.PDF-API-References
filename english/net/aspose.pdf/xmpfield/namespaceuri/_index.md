@@ -19,7 +19,7 @@ public string NamespaceUri { get; set; }
 
 ### Property Value
 
-string
+The namespace URI.
 
 ### See Also
 

@@ -19,7 +19,7 @@ public HeaderFooter Footer { get; set; }
 
 ### Property Value
 
-[HeaderFooter](../../../aspose.pdf/headerfooter/)
+The page footer.
 
 ### See Also
 

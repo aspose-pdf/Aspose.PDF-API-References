@@ -17,10 +17,6 @@ Collection of Named Destination in the document.
 public NamedDestinationCollection NamedDestinations { get; }
 ```
 
-### Property Value
-
-[NamedDestinationCollection](../../../aspose.pdf/nameddestinationcollection/)
-
 ### See Also
 
 * class [NamedDestinationCollection](../../../aspose.pdf/nameddestinationcollection/)

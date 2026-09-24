@@ -23,10 +23,6 @@ Gets or sets start page in the page range where extracting operation will be per
 public int StartPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfExtractor](../)

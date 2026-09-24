@@ -17,10 +17,6 @@ Gets or sets a [`TabLeaderType`](../../../aspose.pdf.text/tableadertype/) enum t
 public TabLeaderType LeaderType { get; set; }
 ```
 
-### Property Value
-
-[TabLeaderType](../../../aspose.pdf.text/tableadertype/)
-
 ### See Also
 
 * class [TabLeaderType](../../../aspose.pdf.text/tableadertype/)

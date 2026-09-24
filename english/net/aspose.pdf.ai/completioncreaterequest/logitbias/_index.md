@@ -18,10 +18,6 @@ Gets or sets the likelihood of specified tokens appearing in the completion.
 public Dictionary<string, int> LogitBias { get; set; }
 ```
 
-### Property Value
-
-Dictionary<string, int>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

@@ -18,10 +18,6 @@ Gets or sets value that permits searching for text underlining on the page of so
 public bool ToAttemptGetUnderlineFromSource { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextEditOptions](../)

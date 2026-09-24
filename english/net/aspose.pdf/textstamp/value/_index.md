@@ -17,10 +17,6 @@ Gets or sets string value which is used as stamp on the page.
 public string Value { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextStamp](../)

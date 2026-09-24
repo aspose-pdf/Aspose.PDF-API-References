@@ -17,10 +17,6 @@ Gets or sets the visibility of a line.
 public bool Visibility { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [LineInfo](../)

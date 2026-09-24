@@ -17,10 +17,6 @@ Stream where comments will be stored.
 public Stream LogStream { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

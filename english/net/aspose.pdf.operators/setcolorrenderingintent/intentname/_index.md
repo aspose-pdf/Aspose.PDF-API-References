@@ -17,10 +17,6 @@ Gets or sets color rendering intent name.
 public string IntentName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SetColorRenderingIntent](../)

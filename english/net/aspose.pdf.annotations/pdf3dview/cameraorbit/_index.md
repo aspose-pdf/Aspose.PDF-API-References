@@ -19,7 +19,7 @@ public double CameraOrbit { get; set; }
 
 ### Property Value
 
-double
+The camera orbit of view.
 
 ### See Also
 

@@ -19,7 +19,7 @@ public Nullable<double> AngleZ { get; set; }
 
 ### Property Value
 
-Nullable<double>
+The angle to Z axis.
 
 ### See Also
 

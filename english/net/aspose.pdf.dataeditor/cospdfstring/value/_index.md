@@ -19,7 +19,7 @@ public string Value { get; }
 
 ### Property Value
 
-string
+The string.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets or sets the value that indicates whether the thread was successfully delete
 public bool Deleted { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DeleteStatusResponse](../)

@@ -19,10 +19,6 @@ Defines word wrap. If this property set to true and Width value specified, text 
 public bool WordWrap { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextStamp](../)

@@ -19,10 +19,6 @@ Gets or sets value that permits searching for text in Annotations.
 public bool SearchInAnnotations { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextSearchOptions](../)

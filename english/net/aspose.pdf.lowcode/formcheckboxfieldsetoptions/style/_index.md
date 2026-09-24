@@ -17,10 +17,6 @@ Gets/sets the value to determine property BoxStyle for modified field (if will b
 public Nullable<BoxStyle> Style { get; set; }
 ```
 
-### Property Value
-
-Nullable<[BoxStyle](../../../aspose.pdf.forms/boxstyle/)>
-
 ### See Also
 
 * class [FormCheckBoxFieldSetOptions](../)

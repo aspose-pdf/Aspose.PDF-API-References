@@ -17,10 +17,6 @@ Gets or sets a value indicating whether to enable the logging of notifications.
 public bool EnableNotificationLogging { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

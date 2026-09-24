@@ -20,10 +20,6 @@ Gets or sets conversion for Type3 fonts.
 public bool ConvertType3Fonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocSaveOptions](../)

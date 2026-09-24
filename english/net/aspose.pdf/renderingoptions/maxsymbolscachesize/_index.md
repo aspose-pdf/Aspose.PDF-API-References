@@ -17,10 +17,6 @@ Maximum count of symbols in symbol cache. Default value is 100.
 public int MaxSymbolsCacheSize { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [RenderingOptions](../)

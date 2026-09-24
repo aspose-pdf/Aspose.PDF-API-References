@@ -17,10 +17,10 @@ Enumerates the border corner styles for border.
 public enum BorderCornerStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | None border style. |
 | Round | `1` | Round border style. |
 

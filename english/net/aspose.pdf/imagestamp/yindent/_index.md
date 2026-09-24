@@ -17,10 +17,6 @@ Gets and sets vertical stamp coordinate, starting from the bottom.
 public double YIndent { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [ImageStamp](../)

@@ -17,10 +17,6 @@ Name of font.
 public string Name { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SelectFont](../)

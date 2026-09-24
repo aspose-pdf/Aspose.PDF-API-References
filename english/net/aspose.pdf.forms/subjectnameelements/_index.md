@@ -17,10 +17,10 @@ Enumeration describes elements in signature subject string.
 public enum SubjectNameElements
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | CN | `0` | Common Name. |
 | O | `1` | Organization. |
 | L | `2` | Locality. |

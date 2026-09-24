@@ -17,10 +17,10 @@ Represents the possible line break styles for a file.
 public enum LineBreakStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Windows | `0` | Selects the Windows string wrap style(CRLF). |
 | Unix | `1` | Select the Unix string wrap style(LF). Also used for OSX. |
 | Auto | `2` | Automatically select the type of string wrapping based on the operating system. |

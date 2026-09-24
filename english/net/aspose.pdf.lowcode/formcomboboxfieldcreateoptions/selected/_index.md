@@ -17,10 +17,6 @@ Gets/sets the value to determine property Selected for created ComboBoxField (if
 public Nullable<int> Selected { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [FormComboBoxFieldCreateOptions](../)

@@ -17,10 +17,6 @@ Gets or sets the table column adjustment.
 public ColumnAdjustment ColumnAdjustment { get; set; }
 ```
 
-### Property Value
-
-[ColumnAdjustment](../../../aspose.pdf/columnadjustment/)
-
 ### See Also
 
 * class [ColumnAdjustment](../../../aspose.pdf/columnadjustment/)

@@ -17,10 +17,6 @@ Gets or sets `String` text object that the [`TextSegment`](../../../aspose.pdf.t
 public string Text { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextSegment](../)

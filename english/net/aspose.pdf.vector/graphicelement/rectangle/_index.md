@@ -17,10 +17,6 @@ Gets the bounding rectangle of the [`GraphicElement`](../../../aspose.pdf.vector
 public Rectangle Rectangle { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the run step failed.
 public Nullable<long> FailedAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<long>
-
 ### See Also
 
 * class [RunStepResponse](../)

@@ -17,10 +17,6 @@ Gets or sets boolean value which indicates is this field non-terminal field i.e.
 public bool IsGroup { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Field](../)

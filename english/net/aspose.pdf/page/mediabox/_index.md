@@ -17,10 +17,6 @@ Gets or sets media box of the page.
 public Rectangle MediaBox { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

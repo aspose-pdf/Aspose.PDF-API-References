@@ -17,10 +17,6 @@ Gets the collection of added targets (file or stream data sources) for saving op
 public List<IDataSource> Outputs { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[IDataSource](../../../aspose.pdf.lowcode/idatasource/)>
-
 ### See Also
 
 * class [PdfAConvertOptions](../)

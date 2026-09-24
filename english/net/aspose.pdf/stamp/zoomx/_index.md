@@ -17,10 +17,6 @@ Horizontal zooming factor of the stamp. Allows to scale stamp horizontally.
 public double ZoomX { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

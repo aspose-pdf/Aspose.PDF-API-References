@@ -22,7 +22,8 @@ public bool AutoResize { get; set; }
 
 ### Property Value
 
-bool
+If false print page without page scaling.
+ If true print page with scaling to fit to printable area.
 
 ### See Also
 

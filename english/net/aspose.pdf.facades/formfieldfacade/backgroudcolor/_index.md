@@ -19,10 +19,6 @@ Obsolete property. Use BackgroundColor.
 public Color BackgroudColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

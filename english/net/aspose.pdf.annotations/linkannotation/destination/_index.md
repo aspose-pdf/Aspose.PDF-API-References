@@ -17,10 +17,6 @@ A destination to be displayed when the annotation is activated.
 public IAppointment Destination { get; set; }
 ```
 
-### Property Value
-
-[IAppointment](../../../aspose.pdf.annotations/iappointment/)
-
 ### See Also
 
 * class [IAppointment](../../../aspose.pdf.annotations/iappointment/)

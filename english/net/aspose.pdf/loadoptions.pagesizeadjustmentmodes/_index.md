@@ -26,10 +26,10 @@ ATTENTION! The feature implemented but did not put yet to public API since block
 public enum PageSizeAdjustmentModes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | NoAjustmentAllwaysUsePredefinedSize | `0` | In this mode result pages will have required pagesize defined in LoadOptions,
  no matter whether content after conversion goes out of page boundaries or no. |
 | EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | This mode defines such behaviour: after getting of conversion result ,

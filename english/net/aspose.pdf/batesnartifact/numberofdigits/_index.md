@@ -20,10 +20,6 @@ Gets or sets the number of digits for Bates numbering.
 public int NumberOfDigits { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BatesNArtifact](../)

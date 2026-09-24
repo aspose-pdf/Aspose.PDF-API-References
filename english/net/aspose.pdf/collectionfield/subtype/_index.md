@@ -19,10 +19,6 @@ Gets the subtype of a field value in a schema collection.
 public CollectionFieldSubtype Subtype { get; }
 ```
 
-### Property Value
-
-[CollectionFieldSubtype](../../../aspose.pdf/collectionfieldsubtype/)
-
 ### See Also
 
 * class [CollectionFieldSubtype](../../../aspose.pdf/collectionfieldsubtype/)

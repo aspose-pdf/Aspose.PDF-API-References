@@ -17,10 +17,6 @@ Gets or sets the color of a line.
 public Color LineColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

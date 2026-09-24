@@ -18,10 +18,6 @@ Gets or sets default substitution font.
 public Font DefaultFont { get; set; }
 ```
 
-### Property Value
-
-[Font](../../../aspose.pdf.text/font/)
-
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)

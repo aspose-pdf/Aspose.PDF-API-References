@@ -18,10 +18,6 @@ Gets or sets a bool value that indicates whether the paragraph need to be repeat
 public bool IsNeedRepeating { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FloatingBox](../)

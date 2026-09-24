@@ -17,10 +17,6 @@ Gets the mask flag.
 public bool IsMasked { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [CompositingParameters](../)

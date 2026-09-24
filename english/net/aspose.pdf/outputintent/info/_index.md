@@ -18,10 +18,6 @@ Gets or sets a human-readable text that contains additional information or comme
 public string Info { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OutputIntent](../)

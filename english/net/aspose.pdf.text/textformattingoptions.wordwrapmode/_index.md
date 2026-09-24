@@ -17,10 +17,10 @@ Defines word wrapping strategies
 public enum WordWrapMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | NoWrap | `0` | No wrapping is performed |
 | DiscretionaryHyphenation | `1` | Discretionary hyphenation is performed. Allows breaking words in the middle. |
 | ByWords | `2` | Word wrapping only wraps complete words.

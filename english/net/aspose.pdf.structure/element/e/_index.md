@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public string E { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Element](../)

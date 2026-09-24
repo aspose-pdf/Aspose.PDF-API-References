@@ -17,10 +17,6 @@ Gets or sets a int value that indicates the number of columns.
 public int ColumnCount { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ColumnInfo](../)

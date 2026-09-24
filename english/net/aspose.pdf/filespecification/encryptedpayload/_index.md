@@ -17,10 +17,6 @@ Gets encrypted payload.
 public EncryptedPayload EncryptedPayload { get; }
 ```
 
-### Property Value
-
-[EncryptedPayload](../../../aspose.pdf/encryptedpayload/)
-
 ### See Also
 
 * class [EncryptedPayload](../../../aspose.pdf/encryptedpayload/)

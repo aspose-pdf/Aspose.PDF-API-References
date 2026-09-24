@@ -17,10 +17,10 @@ Defines line spacing specifics
 public enum LineSpacingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | FontSize | `0` | Line spacing is font size |
 | FullSize | `1` | Line spacing is a full space between descender and ascender |
 

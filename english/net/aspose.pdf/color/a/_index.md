@@ -17,10 +17,6 @@ Gets the alpha component value
 public double A { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Color](../)

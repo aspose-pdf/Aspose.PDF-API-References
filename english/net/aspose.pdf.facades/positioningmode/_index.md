@@ -19,10 +19,10 @@ Defines positioning mode.
 public enum PositioningMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Legacy | `0` | Legacy text positioning |
 | ModernLineSpacing | `1` | Updated line spacing, vertical position calculation is done by the old rules 
  (i.e. text is positioned relative to bottom-left corner of the specified rectangle) |

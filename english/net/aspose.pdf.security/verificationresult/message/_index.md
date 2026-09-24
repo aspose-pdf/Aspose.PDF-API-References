@@ -18,10 +18,6 @@ Gets the message associated with the verification result. The property value pro
 public string Message { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [VerificationResult](../)

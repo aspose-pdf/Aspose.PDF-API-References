@@ -17,10 +17,6 @@ Sets or gets a list of messages comprising the conversation.
 public List<ChatMessage> Messages { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[ChatMessage](../../../aspose.pdf.ai/chatmessage/)>
-
 ### See Also
 
 * class [LlamaChatCompletionRequest](../)

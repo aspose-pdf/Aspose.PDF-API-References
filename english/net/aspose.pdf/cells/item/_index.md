@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public Cell Item { get; set; }
 ```
 
-### Property Value
-
-[Cell](../../../aspose.pdf/cell/)
-
 ### See Also
 
 * class [Cell](../../../aspose.pdf/cell/)

@@ -17,10 +17,6 @@ Useful properties to tune Font behaviour
 public IFontOptions FontOptions { get; }
 ```
 
-### Property Value
-
-[IFontOptions](../../../aspose.pdf.text/ifontoptions/)
-
 ### See Also
 
 * class [IFontOptions](../../../aspose.pdf.text/ifontoptions/)

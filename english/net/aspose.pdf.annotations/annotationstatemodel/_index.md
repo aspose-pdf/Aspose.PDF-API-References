@@ -17,10 +17,10 @@ The state model corresponding to state of annotation.
 public enum AnnotationStateModel
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Not defined state model. |
 | Marked | `1` | The annotation has been marked (or unmarked) by the user. |
 | Review | `2` | The annotation has been reviewed (accepted, rejected, cancelled, completed, none) by the user. |

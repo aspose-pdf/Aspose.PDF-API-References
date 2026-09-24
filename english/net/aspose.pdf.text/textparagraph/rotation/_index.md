@@ -17,10 +17,6 @@ Gets or sets rotation angle in degrees.
 public double Rotation { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextParagraph](../)

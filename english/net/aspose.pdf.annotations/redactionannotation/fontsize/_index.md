@@ -17,10 +17,6 @@ Gets or sets font size for OverlayText.
 public float FontSize { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [RedactionAnnotation](../)

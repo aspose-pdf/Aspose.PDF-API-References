@@ -17,10 +17,6 @@ Gets or sets the maximum number of HTTP request retries.
 public int HttpRequestMaxRetries { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [AIClientBase](../)

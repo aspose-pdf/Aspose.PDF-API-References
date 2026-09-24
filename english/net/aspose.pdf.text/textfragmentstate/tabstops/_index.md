@@ -20,10 +20,6 @@ Note that Tabstops property works in new document generation scenarios only.
 public TabStops TabStops { get; }
 ```
 
-### Property Value
-
-[TabStops](../../../aspose.pdf.text/tabstops/)
-
 ### See Also
 
 * class [TabStops](../../../aspose.pdf.text/tabstops/)

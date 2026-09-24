@@ -3,7 +3,7 @@ title: "DataResponse<T> Class"
 linktitle: "DataResponse<T>"
 articleTitle: "DataResponse<T>"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.AI.DataResponse class."
+description: "Aspose.Pdf.AI.DataResponse class. Represents a data response containing the specified data."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.ai/dataresponse-1/"
@@ -12,7 +12,7 @@ product_version: "26.9.0"
 ---
 ## DataResponse<T> class
 
-
+Represents a data response containing the specified data.
 
 ```csharp
 public class DataResponse<T><T> : BaseResponse
@@ -34,7 +34,7 @@ public class DataResponse<T><T> : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [Data](./data/) { get; set; } |  |
+| [Data](./data/) { get; set; } | Gets or sets the data in the response. |
 | [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. *(Inherited from BaseResponse)* |
 | [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. *(Inherited from BaseResponse)* |
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. *(Inherited from BaseResponse)* |

@@ -17,10 +17,6 @@ Returns true if value is integer.
 public bool IsInteger { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

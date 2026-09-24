@@ -17,10 +17,6 @@ Gets or sets the name of the model to fine-tune. You can select one of the suppo
 public string Model { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateFineTuningJobRequest](../)

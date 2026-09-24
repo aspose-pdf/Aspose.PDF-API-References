@@ -17,10 +17,6 @@ Gets or sets the sampling rate, in samples per second.
 public int Rate { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [SoundData](../)

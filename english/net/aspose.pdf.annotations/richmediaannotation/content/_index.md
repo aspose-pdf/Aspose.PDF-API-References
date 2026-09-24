@@ -17,10 +17,6 @@ Data of the Rich Media content.
 public Stream Content { get; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [RichMediaAnnotation](../)

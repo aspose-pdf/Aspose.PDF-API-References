@@ -17,10 +17,6 @@ Gets or sets is count or passed toc pages.
 public bool IsCountTocPages { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TocInfo](../)

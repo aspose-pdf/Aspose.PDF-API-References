@@ -19,10 +19,6 @@ Gets or sets a int value that indicates the Z-order of the graph. A graph with l
 public int ZIndex { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BaseParagraph](../)

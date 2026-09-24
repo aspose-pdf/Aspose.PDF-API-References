@@ -17,10 +17,6 @@ A6 size (148x105 mm).
 public PageSize A6 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

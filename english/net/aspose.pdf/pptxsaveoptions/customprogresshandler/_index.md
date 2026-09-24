@@ -19,10 +19,6 @@ This handler can be used to handle conversion progress events
 public ConversionProgressEventHandler CustomProgressHandler { get; set; }
 ```
 
-### Property Value
-
-ConversionProgressEventHandler
-
 ## Examples
 
 ```csharp

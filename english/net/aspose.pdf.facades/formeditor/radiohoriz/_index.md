@@ -17,10 +17,6 @@ The flag to indicate whether the radios are arranged horizontally or vertically,
 public bool RadioHoriz { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FormEditor](../)

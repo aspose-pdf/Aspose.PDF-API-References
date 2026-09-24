@@ -17,10 +17,6 @@ Sets value in default space units.
 public double UnitValue { set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeValue](../)

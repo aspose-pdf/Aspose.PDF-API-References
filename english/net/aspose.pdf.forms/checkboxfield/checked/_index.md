@@ -17,10 +17,6 @@ Gets or sets state of check box.
 public bool Checked { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [CheckboxField](../)

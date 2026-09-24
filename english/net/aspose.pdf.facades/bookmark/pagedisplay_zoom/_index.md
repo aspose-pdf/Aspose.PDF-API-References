@@ -17,10 +17,6 @@ Gets or sets the zoom factor of page display.
 public int PageDisplay_Zoom { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Bookmark](../)

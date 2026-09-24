@@ -17,10 +17,6 @@ Gets index of page which contains this field.
 public int PageIndex { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Field](../)

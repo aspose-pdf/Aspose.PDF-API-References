@@ -17,10 +17,6 @@ Gets related XImage resource object.
 public XImage Image { get; }
 ```
 
-### Property Value
-
-[XImage](../../../aspose.pdf/ximage/)
-
 ### See Also
 
 * class [XImage](../../../aspose.pdf/ximage/)

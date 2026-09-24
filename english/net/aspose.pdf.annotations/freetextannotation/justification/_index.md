@@ -17,10 +17,6 @@ Gets or set a code specifying the form of quadding (justification) to be used in
 public Justification Justification { get; set; }
 ```
 
-### Property Value
-
-[Justification](../../../aspose.pdf.annotations/justification/)
-
 ### See Also
 
 * class [Justification](../../../aspose.pdf.annotations/justification/)

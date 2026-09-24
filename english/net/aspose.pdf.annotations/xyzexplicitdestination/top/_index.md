@@ -17,10 +17,6 @@ Gets top vertical coordinate of the upper-left corner of the window.
 public double Top { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [XYZExplicitDestination](../)

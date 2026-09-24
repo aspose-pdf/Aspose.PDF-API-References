@@ -19,10 +19,6 @@ Gets or sets the ending page number for the artifact.
 public int EndPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PaginationArtifact](../)

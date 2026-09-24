@@ -18,10 +18,6 @@ Gets or sets the color used to mark deleted content during a side-by-side compar
 public Color DeleteColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

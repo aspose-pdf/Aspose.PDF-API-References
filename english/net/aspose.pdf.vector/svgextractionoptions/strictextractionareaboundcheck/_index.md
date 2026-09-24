@@ -19,10 +19,6 @@ Gets and sets an option to define strictly checks whether subpaths are within th
 public bool StrictExtractionAreaBoundCheck { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SvgExtractionOptions](../)

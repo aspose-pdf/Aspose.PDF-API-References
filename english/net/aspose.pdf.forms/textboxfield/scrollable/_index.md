@@ -17,10 +17,6 @@ Gets or sets scrollable flag of field. If true field can be scrolled.
 public bool Scrollable { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextBoxField](../)

@@ -17,10 +17,6 @@ Height of rectangle.
 public double Height { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

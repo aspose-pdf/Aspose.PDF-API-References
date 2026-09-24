@@ -17,10 +17,6 @@ Indicates whether to preserve transparent (OCR'ed) text.
 public bool SaveTransparentTexts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XpsSaveOptions](../)

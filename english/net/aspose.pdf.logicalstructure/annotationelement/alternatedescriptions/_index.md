@@ -18,10 +18,6 @@ Gets or Sets the Alternate Descriptions for annotation.
 public string AlternateDescriptions { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AnnotationElement](../)

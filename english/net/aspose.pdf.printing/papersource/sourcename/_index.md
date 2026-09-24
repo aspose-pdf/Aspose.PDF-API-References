@@ -17,10 +17,6 @@ Gets or sets the name of the paper source.
 public string SourceName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PaperSource](../)

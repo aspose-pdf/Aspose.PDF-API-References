@@ -17,10 +17,6 @@ Maximail font size which can be used for field contents. -1 to don't check size.
 public double MaxFontSize { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Field](../)

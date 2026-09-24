@@ -17,10 +17,6 @@ Gets or sets an action to be performed when the cursor enters the annotation's a
 public PdfAction OnEnter { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

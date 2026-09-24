@@ -17,10 +17,10 @@ Represents types of header recognition strategies.
 public enum HeadingRecognitionStrategy
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Outlines | `0` | Represents the header recognition strategy by means of outlines. |
 | Heuristic | `1` | Represents the header recognition strategy by means of heuristics rules and font size statistic. |
 | Auto | `2` | Provides an automatic header recognition strategy selection.

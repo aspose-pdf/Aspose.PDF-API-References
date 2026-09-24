@@ -17,10 +17,6 @@ Gets or sets the expiration policy for a vector store.
 public ExpiresAfter ExpiresAfter { get; set; }
 ```
 
-### Property Value
-
-[ExpiresAfter](../../../aspose.pdf.ai/expiresafter/)
-
 ### See Also
 
 * class [ExpiresAfter](../../../aspose.pdf.ai/expiresafter/)

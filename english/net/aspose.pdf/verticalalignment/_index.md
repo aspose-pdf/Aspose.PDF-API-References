@@ -17,10 +17,10 @@ Enumeration of possible vertical alignment values.
 public enum VerticalAlignment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No alignment (use specified position). |
 | Top | `1` | Align to top. |
 | Center | `2` | Center alignment. |

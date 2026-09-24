@@ -17,10 +17,6 @@ Gets the owner key(The "O" field of encryption dictionary.)
 public byte[] OwnerKey { get; }
 ```
 
-### Property Value
-
-byte[]
-
 ### See Also
 
 * class [EncryptionParameters](../)

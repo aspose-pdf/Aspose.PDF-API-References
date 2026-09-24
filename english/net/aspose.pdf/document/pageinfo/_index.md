@@ -19,7 +19,7 @@ public PageInfo PageInfo { get; set; }
 
 ### Property Value
 
-[PageInfo](../../../aspose.pdf/pageinfo/)
+The page info.
 
 ### See Also
 

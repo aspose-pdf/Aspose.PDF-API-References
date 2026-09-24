@@ -22,10 +22,6 @@ If the property is set and a certificate is provided to the constructor of the [
 public TimestampSettings TimestampSettings { get; set; }
 ```
 
-### Property Value
-
-[TimestampSettings](../../../aspose.pdf/timestampsettings/)
-
 ### See Also
 
 * class [TimestampSettings](../../../aspose.pdf/timestampsettings/)

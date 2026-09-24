@@ -17,10 +17,6 @@ Gets count if items in the collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfXmpMetadata](../)

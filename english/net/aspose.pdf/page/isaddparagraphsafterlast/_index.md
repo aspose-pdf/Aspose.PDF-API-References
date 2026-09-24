@@ -19,7 +19,8 @@ public bool IsAddParagraphsAfterLast { get; set; }
 
 ### Property Value
 
-bool
+Value indicates whether paragraphs will be added after the last paragraph of the page.
+ Paragraphs will be added after the last paragraph of the page if value is true.
 
 ### See Also
 

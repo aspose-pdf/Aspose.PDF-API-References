@@ -17,10 +17,6 @@ Gets image filter type.
 public ImageFilterType FilterType { get; }
 ```
 
-### Property Value
-
-[ImageFilterType](../../../aspose.pdf/imagefiltertype/)
-
 ### See Also
 
 * class [ImageFilterType](../../../aspose.pdf/imagefiltertype/)

@@ -17,10 +17,6 @@ Horizontal stamp coordinate, starting from the left.
 public double XIndent { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

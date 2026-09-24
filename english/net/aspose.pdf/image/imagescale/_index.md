@@ -17,10 +17,6 @@ Gets or sets the image scale.
 public double ImageScale { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Image](../)

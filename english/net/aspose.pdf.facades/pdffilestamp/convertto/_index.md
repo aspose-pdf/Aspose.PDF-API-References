@@ -18,10 +18,6 @@ Sets PDF file format. Result file will be saved in specified file format.
 public PdfFormat ConvertTo { set; }
 ```
 
-### Property Value
-
-[PdfFormat](../../../aspose.pdf/pdfformat/)
-
 ### See Also
 
 * class [PdfFormat](../../../aspose.pdf/pdfformat/)

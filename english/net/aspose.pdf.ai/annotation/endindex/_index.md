@@ -17,10 +17,6 @@ Gets or sets the ending index of the text in the message content that needs to b
 public int EndIndex { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Annotation](../)

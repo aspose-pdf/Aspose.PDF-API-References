@@ -17,10 +17,6 @@ Gets width of first page in input file.
 public float PageWidth { get; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [PdfFileStamp](../)

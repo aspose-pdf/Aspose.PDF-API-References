@@ -19,10 +19,6 @@ Can be null. Use null to inherit `BackgroundColor` property from parent structur
 public Color BackgroundColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

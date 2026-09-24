@@ -17,10 +17,6 @@ Gets or sets line caps style.
 public LineCap Cap { get; set; }
 ```
 
-### Property Value
-
-[LineCap](../../../aspose.pdf.operators/linecap/)
-
 ### See Also
 
 * class [LineCap](../../../aspose.pdf.operators/linecap/)

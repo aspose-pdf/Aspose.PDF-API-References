@@ -17,10 +17,6 @@ Gets a custom security handler.
 public ICustomSecurityHandler CustomSecurityHandler { get; }
 ```
 
-### Property Value
-
-[ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-
 ### See Also
 
 * class [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)

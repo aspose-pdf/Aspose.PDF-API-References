@@ -17,10 +17,6 @@ Gets or sets an icon to be used in displaying the annotation.
 public SoundIcon Icon { get; set; }
 ```
 
-### Property Value
-
-[SoundIcon](../../../aspose.pdf.annotations/soundicon/)
-
 ### See Also
 
 * class [SoundIcon](../../../aspose.pdf.annotations/soundicon/)

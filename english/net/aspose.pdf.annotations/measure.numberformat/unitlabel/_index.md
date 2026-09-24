@@ -17,10 +17,6 @@ A text string specifying a label for displaying the units.
 public string UnitLabel { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

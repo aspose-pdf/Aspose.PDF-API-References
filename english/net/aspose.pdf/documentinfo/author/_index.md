@@ -17,10 +17,6 @@ Gets or sets document author.
 public string Author { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DocumentInfo](../)

@@ -26,10 +26,6 @@ Force to show/hide signature properties.
 public bool ShowProperties { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Signature](../)

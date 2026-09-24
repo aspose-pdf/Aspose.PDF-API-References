@@ -17,10 +17,6 @@ Returns positions of glyphs.
 public IEnumerable<GlyphPosition> GlyphPositions { get; }
 ```
 
-### Property Value
-
-[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[GlyphPosition](../../../aspose.pdf.operators/glyphposition/)>
-
 ### See Also
 
 * class [SetGlyphsPositionShowText](../)

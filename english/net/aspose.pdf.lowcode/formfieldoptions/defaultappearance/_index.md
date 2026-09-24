@@ -17,10 +17,6 @@ Gets/sets the value to determine property DefaultAppearance for created/modified
 public DefaultAppearance DefaultAppearance { get; set; }
 ```
 
-### Property Value
-
-[DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
-
 ### See Also
 
 * class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)

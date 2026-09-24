@@ -19,10 +19,6 @@ Gets or sets flag that controls visibility of hidden areas on the page.
 public bool ShowHiddenAreas { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfConverter](../)

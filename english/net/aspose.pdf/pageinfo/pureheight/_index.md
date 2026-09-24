@@ -17,10 +17,6 @@ Gets or sets page pure height without margins.
 public double PureHeight { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [PageInfo](../)

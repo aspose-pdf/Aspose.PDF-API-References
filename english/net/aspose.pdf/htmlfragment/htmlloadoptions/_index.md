@@ -20,10 +20,6 @@ Gets or sets HtmlLoadOptions that will be used for loading (and rendering) of HT
 public HtmlLoadOptions HtmlLoadOptions { get; set; }
 ```
 
-### Property Value
-
-[HtmlLoadOptions](../../../aspose.pdf/htmlloadoptions/)
-
 ### See Also
 
 * class [HtmlLoadOptions](../../../aspose.pdf/htmlloadoptions/)

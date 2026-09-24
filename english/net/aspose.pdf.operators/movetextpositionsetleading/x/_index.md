@@ -17,10 +17,6 @@ X coordinate of text position.
 public double X { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [MoveTextPositionSetLeading](../)

@@ -24,7 +24,8 @@ public bool AlignText { get; set; }
 
 ### Property Value
 
-bool
+ if the text alignment gets changed and additional actions are necessary to restore it;
+ otherwise, .
 
 ### See Also
 

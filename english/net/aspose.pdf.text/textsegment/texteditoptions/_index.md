@@ -17,10 +17,6 @@ Gets or sets text edit options. The options define special behavior when request
 public TextEditOptions TextEditOptions { get; set; }
 ```
 
-### Property Value
-
-[TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
-
 ### See Also
 
 * class [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)

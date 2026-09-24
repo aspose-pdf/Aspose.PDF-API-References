@@ -19,7 +19,7 @@ public XmpValue Value { get; }
 
 ### Property Value
 
-[XmpValue](../../../aspose.pdf/xmpvalue/)
+The value.
 
 ### See Also
 

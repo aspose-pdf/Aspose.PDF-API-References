@@ -24,10 +24,6 @@ If the property has a value of -1, then the level is undefined.
 public int ChangeAllowLevel { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [DocumentPrivilege](../)

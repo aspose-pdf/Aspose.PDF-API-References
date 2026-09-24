@@ -18,10 +18,6 @@ Gets or sets the helper to create a vector store with file_ids and attach it to 
 public List<VectorStore> VectorStores { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[VectorStore](../../../aspose.pdf.ai/vectorstore/)>
-
 ### See Also
 
 * class [FileSearch](../)

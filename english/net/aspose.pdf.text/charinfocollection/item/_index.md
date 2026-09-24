@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public CharInfo Item { get; }
 ```
 
-### Property Value
-
-[CharInfo](../../../aspose.pdf.text/charinfo/)
-
 ### See Also
 
 * class [CharInfo](../../../aspose.pdf.text/charinfo/)

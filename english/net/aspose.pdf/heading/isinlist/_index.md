@@ -17,10 +17,6 @@ Gets the heading should be in toc list.
 public bool IsInList { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Heading](../)

@@ -17,10 +17,10 @@ Specifies possible media types used during rendering.
 public enum HtmlMediaType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Print | `0` | Print. |
 | Screen | `1` | Screen. |
 

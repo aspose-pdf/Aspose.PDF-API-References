@@ -17,10 +17,6 @@ Property for `_outDirectoryPath` parameter.
 public string OutDirectoryPath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TeXSaveOptions](../)

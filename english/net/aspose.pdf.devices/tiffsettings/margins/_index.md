@@ -17,10 +17,6 @@ Gets the margins.
 public Margins Margins { get; }
 ```
 
-### Property Value
-
-[Margins](../../../aspose.pdf.devices/margins/)
-
 ### See Also
 
 * class [Margins](../../../aspose.pdf.devices/margins/)

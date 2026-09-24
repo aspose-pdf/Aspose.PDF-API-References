@@ -18,10 +18,6 @@ Sets the permission which allow modify contents or not.
 public bool AllowModifyContents { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocumentPrivilege](../)

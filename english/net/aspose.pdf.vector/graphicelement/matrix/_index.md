@@ -18,10 +18,6 @@ Gets graphic element matrix. The matrix sets when element is created.
 public Matrix Matrix { get; }
 ```
 
-### Property Value
-
-[Matrix](../../../aspose.pdf/matrix/)
-
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)

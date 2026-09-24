@@ -17,10 +17,6 @@ Gets or sets page height.
 public double Height { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [PageInfo](../)

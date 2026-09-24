@@ -19,7 +19,7 @@ public int Top { get; set; }
 
 ### Property Value
 
-int
+The top.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets collection of page properties.
 public PageActionCollection Actions { get; }
 ```
 
-### Property Value
-
-[PageActionCollection](../../../aspose.pdf/pageactioncollection/)
-
 ### See Also
 
 * class [PageActionCollection](../../../aspose.pdf/pageactioncollection/)

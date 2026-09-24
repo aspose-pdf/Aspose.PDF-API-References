@@ -17,10 +17,6 @@ Key (name) of the PDF Font object that is used for showing of the operator that 
 public Point TextStartPoint { get; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

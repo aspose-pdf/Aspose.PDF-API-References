@@ -19,10 +19,6 @@ Gets or sets a number between -2.0 and 2.0.
 public Nullable<double> FrequencyPenalty { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

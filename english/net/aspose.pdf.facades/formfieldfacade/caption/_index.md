@@ -17,10 +17,6 @@ The normal caption of form field.
 public string Caption { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FormFieldFacade](../)

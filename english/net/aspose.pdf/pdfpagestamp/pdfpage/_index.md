@@ -17,10 +17,6 @@ Gets or sets page which will be used as stamp.
 public Page PdfPage { get; set; }
 ```
 
-### Property Value
-
-[Page](../../../aspose.pdf/page/)
-
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)

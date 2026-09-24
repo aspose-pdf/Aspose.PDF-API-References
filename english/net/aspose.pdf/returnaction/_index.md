@@ -18,10 +18,10 @@ Enum represented a program workflow action in case of invoking the
 public enum ReturnAction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Continue | `0` | Used for continue flow. |
 | Abort | `1` | Used for abort flow. |
 

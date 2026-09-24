@@ -17,10 +17,6 @@ Gets file paramteres.
 public FileParams Params { get; set; }
 ```
 
-### Property Value
-
-[FileParams](../../../aspose.pdf/fileparams/)
-
 ### See Also
 
 * class [FileParams](../../../aspose.pdf/fileparams/)

@@ -19,10 +19,6 @@ Gets an integer value representing the error correction coefficient.
 public int ECC { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BarcodeField](../)

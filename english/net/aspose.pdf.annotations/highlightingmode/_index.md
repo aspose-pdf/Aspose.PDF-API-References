@@ -17,10 +17,10 @@ Enumerates the annotation's highlighting mode, the visual effect to be used when
 public enum HighlightingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No highlighting. |
 | Invert | `1` | Invert the contents of the annotation rectangle. |
 | Outline | `2` | Invert the annotation's border. |

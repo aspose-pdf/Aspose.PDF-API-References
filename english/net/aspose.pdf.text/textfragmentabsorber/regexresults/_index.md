@@ -17,10 +17,6 @@ Gets dictionary of search occurrences that are presented with System.Text.Regula
 public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
 ```
 
-### Property Value
-
-Dictionary<Regex, [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)>
-
 ### See Also
 
 * class [TextFragmentAbsorber](../)

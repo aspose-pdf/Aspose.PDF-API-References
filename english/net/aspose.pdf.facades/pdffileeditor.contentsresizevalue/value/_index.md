@@ -17,10 +17,6 @@ Gets specified value. Use Unit property to get value units.
 public double Value { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeValue](../)

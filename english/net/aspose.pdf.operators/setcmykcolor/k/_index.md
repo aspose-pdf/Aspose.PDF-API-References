@@ -17,10 +17,6 @@ Gets or sets the black component.
 public double K { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCMYKColor](../)

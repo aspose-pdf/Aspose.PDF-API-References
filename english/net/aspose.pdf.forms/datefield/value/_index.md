@@ -17,10 +17,6 @@ Gets or sets Date.
 public DateTime Value { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [DateField](../)

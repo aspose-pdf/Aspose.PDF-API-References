@@ -19,10 +19,6 @@ Gets or sets the timeout duration, in milliseconds, for network-related operatio
 public int RequestTimeout { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ValidationOptions](../)

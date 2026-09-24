@@ -18,10 +18,6 @@ Gets or sets collection of document pages.
 public PageCollection Pages { get; }
 ```
 
-### Property Value
-
-[PageCollection](../../../aspose.pdf/pagecollection/)
-
 ### See Also
 
 * class [PageCollection](../../../aspose.pdf/pagecollection/)

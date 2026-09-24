@@ -17,10 +17,10 @@ Defines different key sizes which can be used to encrypt pdf documents.
 public enum KeySize
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | x40 | `0` | 40 bit key. Such key size is used with RC4 algorithm and provides low level of security. 
  Nevertheless old versions of pdf documents can be encrypted only with such keys (v. 1.3 and lower); |
 | x128 | `1` | 128 bit key. Both RC4 and AES algorithms can use such key size. |

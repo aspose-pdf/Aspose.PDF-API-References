@@ -17,10 +17,6 @@ Gets or sets bookmark's title.
 public string Title { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Bookmark](../)

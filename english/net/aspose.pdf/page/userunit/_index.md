@@ -18,10 +18,6 @@ Gets or sets UserUnit value. A positive number giving the size of default user s
 public double UserUnit { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Page](../)

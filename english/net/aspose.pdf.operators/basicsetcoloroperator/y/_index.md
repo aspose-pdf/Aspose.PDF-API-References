@@ -17,10 +17,6 @@ Gets yellow component of CMYK color.
 public double Y { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [BasicSetColorOperator](../)

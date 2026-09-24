@@ -17,10 +17,6 @@ X coordinate of most left side of rectangle.
 public double X { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Re](../)

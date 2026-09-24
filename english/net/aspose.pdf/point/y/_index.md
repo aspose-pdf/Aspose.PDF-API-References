@@ -17,10 +17,6 @@ Y coordinate value.
 public double Y { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Point](../)

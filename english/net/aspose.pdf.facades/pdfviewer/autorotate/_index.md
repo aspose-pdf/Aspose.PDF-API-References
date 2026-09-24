@@ -17,10 +17,6 @@ Gets or sets a bool value that indicates whether the file be printed with auto r
 public bool AutoRotate { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfViewer](../)

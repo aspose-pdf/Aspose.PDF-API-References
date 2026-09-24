@@ -20,7 +20,7 @@ public PdfANonSpecificationFlags NonSpecificationFlags { get; }
 
 ### Property Value
 
-[PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
+The flags for non-specification cases during PDF/A conversion.
 
 ### See Also
 

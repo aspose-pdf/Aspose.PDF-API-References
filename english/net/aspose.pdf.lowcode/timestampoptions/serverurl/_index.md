@@ -17,10 +17,6 @@ URL of the timestamp server.
 public string ServerUrl { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TimestampOptions](../)

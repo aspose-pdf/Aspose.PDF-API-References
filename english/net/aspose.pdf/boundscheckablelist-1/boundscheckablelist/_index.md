@@ -35,9 +35,9 @@ public BoundsCheckableList<T>(BoundsCheckMode boundsCheckMode, double containerW
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode |  |
-| containerWidth | double |  |
-| containerHeight | double |  |
+| boundsCheckMode | BoundsCheckMode | The bounds cCheck mode. |
+| containerWidth | double | The container width. |
+| containerHeight | double | The container height. |
 
 ### See Also
 

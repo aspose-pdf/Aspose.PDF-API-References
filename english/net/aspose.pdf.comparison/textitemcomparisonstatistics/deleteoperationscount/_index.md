@@ -17,10 +17,6 @@ Gets and sets the number of delete operations.
 public int DeleteOperationsCount { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextItemComparisonStatistics](../)

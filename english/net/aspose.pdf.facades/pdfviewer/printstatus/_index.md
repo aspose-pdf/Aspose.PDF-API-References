@@ -17,10 +17,6 @@ Gets the result of printing job. If success than null; otherwise, exception obje
 public object PrintStatus { get; }
 ```
 
-### Property Value
-
-object
-
 ### See Also
 
 * class [PdfViewer](../)

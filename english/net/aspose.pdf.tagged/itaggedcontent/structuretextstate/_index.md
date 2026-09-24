@@ -19,7 +19,7 @@ public StructureTextState StructureTextState { get; }
 
 ### Property Value
 
-[StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) settings for whole document.
 
 ### See Also
 

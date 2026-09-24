@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the assistant was created.
 public Nullable<long> CreatedAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<long>
-
 ### See Also
 
 * class [AssistantResponse](../)

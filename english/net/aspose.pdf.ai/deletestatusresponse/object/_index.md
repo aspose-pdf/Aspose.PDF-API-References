@@ -17,10 +17,6 @@ Gets or sets the object type, which is always "thread.deleted".
 public string Object { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DeleteStatusResponse](../)

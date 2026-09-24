@@ -17,10 +17,6 @@ Ty member of the transformation matrix.
 public double Ty { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Matrix3D](../)

@@ -17,10 +17,6 @@ Gets or sets strikeout for the text, represented by the [`TextFragment`](../../.
 public bool StrikeOut { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextFragmentState](../)

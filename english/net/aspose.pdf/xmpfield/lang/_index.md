@@ -17,10 +17,6 @@ Gets xml:lang qualifier.
 public XmpField Lang { get; }
 ```
 
-### Property Value
-
-[XmpField](../../../aspose.pdf/xmpfield/)
-
 ### See Also
 
 * class [XmpField](../../../aspose.pdf/xmpfield/)

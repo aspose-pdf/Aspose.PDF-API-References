@@ -18,10 +18,6 @@ If true then field names will be made unique when forms are concatenated.
 public bool KeepFieldsUnique { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

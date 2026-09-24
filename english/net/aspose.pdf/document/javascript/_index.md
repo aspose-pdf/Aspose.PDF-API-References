@@ -17,10 +17,6 @@ Collection of JavaScript of document level.
 public JavaScriptCollection JavaScript { get; }
 ```
 
-### Property Value
-
-[JavaScriptCollection](../../../aspose.pdf/javascriptcollection/)
-
 ### See Also
 
 * class [JavaScriptCollection](../../../aspose.pdf/javascriptcollection/)

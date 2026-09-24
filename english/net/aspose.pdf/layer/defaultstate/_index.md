@@ -17,10 +17,6 @@ Gets or sets the default state of the PDF layer.
 public DefaultState DefaultState { get; set; }
 ```
 
-### Property Value
-
-[DefaultState](../../../aspose.pdf/defaultstate/)
-
 ### See Also
 
 * class [DefaultState](../../../aspose.pdf/defaultstate/)

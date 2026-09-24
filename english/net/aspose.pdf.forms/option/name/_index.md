@@ -17,10 +17,6 @@ Gets or sets name of option.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Option](../)

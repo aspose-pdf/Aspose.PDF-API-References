@@ -17,10 +17,6 @@ Gets dash array defining a pattern of dashes and gaps that shall be used in draw
 public int[] Pattern { get; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [Dash](../)

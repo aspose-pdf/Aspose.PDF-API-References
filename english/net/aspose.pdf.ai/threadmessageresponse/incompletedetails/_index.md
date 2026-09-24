@@ -17,10 +17,6 @@ Gets or sets an incomplete message, details about why the message is incomplete.
 public IncompleteDetails IncompleteDetails { get; set; }
 ```
 
-### Property Value
-
-[IncompleteDetails](../../../aspose.pdf.ai/incompletedetails/)
-
 ### See Also
 
 * class [IncompleteDetails](../../../aspose.pdf.ai/incompletedetails/)

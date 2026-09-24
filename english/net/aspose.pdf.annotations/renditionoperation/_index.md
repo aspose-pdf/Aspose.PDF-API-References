@@ -17,10 +17,10 @@ The operation to perform when the action is triggered.
 public enum RenditionOperation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | PlayStop | `0` | If no rendition is associated with the annotation, play the specified rendition, associating it with the annotation. If a rendition is already associated with the annotation, it shall be stopped, and the new rendition shall be associated with the annotation. |
 | Stop | `1` | Stop any rendition being played in association with the annotation. |
 | Pause | `2` | Pause any rendition being played in association with the annotation. |

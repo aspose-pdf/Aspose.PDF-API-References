@@ -17,10 +17,6 @@ If true overlay text will be repated on the annotation.
 public bool Repeat { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RedactionAnnotation](../)

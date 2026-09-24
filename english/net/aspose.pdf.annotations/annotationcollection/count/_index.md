@@ -17,10 +17,6 @@ Gets count of annotations in collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [AnnotationCollection](../)

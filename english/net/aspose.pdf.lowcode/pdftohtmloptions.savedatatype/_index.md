@@ -17,10 +17,10 @@ Defines output type of HTML file.
 public enum SaveDataType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | FileWithExternalResources | `0` | Save HTMl to file with external resources |
 | FileWithEmbeddedResources | `1` | Save HTMl to file with embedded resources |
 | StreamWithEmbeddedResources | `2` | Save HTMl to file stream with embedded resources |

@@ -17,10 +17,6 @@ Gets name of artifact type. May be used if artifact type is non standard.
 public string CustomType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Artifact](../)

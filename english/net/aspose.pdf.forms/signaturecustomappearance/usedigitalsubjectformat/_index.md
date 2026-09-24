@@ -17,10 +17,6 @@ Gets/sets the usage state of the `DigitalSubjectFormat`.
 public bool UseDigitalSubjectFormat { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

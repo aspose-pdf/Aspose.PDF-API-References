@@ -17,10 +17,6 @@ Gets or sets the external URL of the image, must be a supported image types: jpe
 public string Url { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ImageUrl](../)

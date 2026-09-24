@@ -17,10 +17,6 @@ Allows degraded printing.
 public DocumentPrivilege DegradedPrinting { get; }
 ```
 
-### Property Value
-
-[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)

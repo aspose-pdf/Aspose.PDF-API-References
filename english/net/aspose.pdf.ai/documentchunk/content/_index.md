@@ -19,7 +19,7 @@ public string Content { get; }
 
 ### Property Value
 
-string
+The extracted text content for this chunk.
 
 ### See Also
 

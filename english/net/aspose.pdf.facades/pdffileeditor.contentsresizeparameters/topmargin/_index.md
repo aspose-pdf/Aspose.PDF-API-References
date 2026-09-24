@@ -17,10 +17,6 @@ Gets or sets top margin on the resultant page.
 public ContentsResizeValue TopMargin { get; set; }
 ```
 
-### Property Value
-
-ContentsResizeValue
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeParameters](../)

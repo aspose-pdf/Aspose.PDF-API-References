@@ -17,10 +17,6 @@ Gets or sets the table top coordinate.
 public double Top { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FloatingBox](../)

@@ -17,10 +17,6 @@ Gets a system-defined color that has an ARGB value of \c \#FFFFB6C1.
 public Color LightPink { get; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

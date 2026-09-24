@@ -20,10 +20,6 @@ Allows to define rectangle which delimits the extracted text.
 public TextSearchOptions TextSearchOptions { get; set; }
 ```
 
-### Property Value
-
-[TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
-
 ### See Also
 
 * class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)

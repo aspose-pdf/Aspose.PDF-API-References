@@ -19,10 +19,6 @@ Gets or sets contents file.
 public Stream Contents { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [FileSpecification](../)

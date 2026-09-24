@@ -17,10 +17,6 @@ Gets XForm of the artifact (if XForm is used).
 public XForm Form { get; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

@@ -17,10 +17,10 @@ Specifies a printer resolution.
 public enum PrinterResolutionKind
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | High | `-4` | High resolution. |
 | Medium | `-3` | Medium resolution. |
 | Low | `-2` | Low resolution. |

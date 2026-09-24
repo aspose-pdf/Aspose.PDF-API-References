@@ -17,10 +17,6 @@ Time zone of creation date.
 public TimeSpan CreationTimeZone { get; set; }
 ```
 
-### Property Value
-
-TimeSpan
-
 ### See Also
 
 * class [DocumentInfo](../)

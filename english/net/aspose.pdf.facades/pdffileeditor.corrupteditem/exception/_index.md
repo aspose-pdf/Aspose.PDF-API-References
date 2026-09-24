@@ -17,10 +17,6 @@ Exception thrown for this file which indicates problem with the file.
 public Exception Exception { get; }
 ```
 
-### Property Value
-
-[Exception](https://docs.oracle.com/javase/8/docs/api/java/lang/Exception.html)
-
 ### See Also
 
 * class [PdfFileEditor.CorruptedItem](../)

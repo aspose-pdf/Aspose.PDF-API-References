@@ -17,10 +17,10 @@ Enumeration of supported page numbering style for PageLabel class.
 public enum NumberingStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | NumeralsArabic | `0` | Arabic decimal numbers. |
 | NumeralsRomanUppercase | `1` | Uppercase roman numbers (I, II, III...). |
 | NumeralsRomanLowercase | `2` | Lowercase roman numbers (i, ii, iii...). |

@@ -17,10 +17,6 @@ Close output streams after operation completed.
 public bool CloseOutputStreams { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OrganizerBaseOptions](../)

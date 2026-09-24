@@ -17,10 +17,6 @@ Gets the identifier for the GPT-4o model.
 public string Gpt4O { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIModels](../)

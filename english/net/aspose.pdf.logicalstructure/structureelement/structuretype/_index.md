@@ -19,7 +19,7 @@ public StructureTypeStandard StructureType { get; }
 
 ### Property Value
 
-[StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+[`StructureTypeStandard`](../../../aspose.pdf.logicalstructure/structuretypestandard/) object of structure element.
 
 ### See Also
 

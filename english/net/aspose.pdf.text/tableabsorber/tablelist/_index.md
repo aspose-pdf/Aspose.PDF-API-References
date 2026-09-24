@@ -17,10 +17,6 @@ Returns readonly IList containing tables that were found
 public IList<AbsorbedTable> TableList { get; }
 ```
 
-### Property Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[AbsorbedTable](../../../aspose.pdf.text/absorbedtable/)>
-
 ### See Also
 
 * class [TableAbsorber](../)

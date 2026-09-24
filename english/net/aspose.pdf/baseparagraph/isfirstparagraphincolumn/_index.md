@@ -18,10 +18,6 @@ Gets or sets a bool value that indicates whether this paragraph will be at next 
 public bool IsFirstParagraphInColumn { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [BaseParagraph](../)

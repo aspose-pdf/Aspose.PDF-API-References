@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public OutlineItemCollection Item { get; }
 ```
 
-### Property Value
-
-[OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
-
 ### See Also
 
 * class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)

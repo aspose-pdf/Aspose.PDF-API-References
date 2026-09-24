@@ -18,10 +18,6 @@ Gets or sets starting number for first page in input file. Next pages will be nu
 public int StartingNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfFileStamp](../)

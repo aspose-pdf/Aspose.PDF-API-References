@@ -20,10 +20,6 @@ Fonts may be saved preliminarily for cache purpose and then passed into Html con
 public FontSourceCollection FontSources { get; }
 ```
 
-### Property Value
-
-[FontSourceCollection](../../../aspose.pdf.text/fontsourcecollection/)
-
 ### See Also
 
 * class [FontSourceCollection](../../../aspose.pdf.text/fontsourcecollection/)

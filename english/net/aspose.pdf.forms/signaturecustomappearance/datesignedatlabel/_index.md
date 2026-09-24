@@ -17,10 +17,6 @@ Gets/sets date signed label. Default value: "Date".
 public string DateSignedAtLabel { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

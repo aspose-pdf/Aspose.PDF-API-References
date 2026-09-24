@@ -18,10 +18,6 @@ Gets or sets a list of file IDs made available to the code_interpreter tool. The
 public List<string> FileIds { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [CodeInterpreter](../)

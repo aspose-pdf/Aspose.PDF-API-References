@@ -17,10 +17,6 @@ A2 size (594x420 mm).
 public PageSize A2 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

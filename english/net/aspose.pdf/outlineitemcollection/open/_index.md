@@ -17,10 +17,6 @@ Get or sets open status (true/false) for outline item.
 public bool Open { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OutlineItemCollection](../)

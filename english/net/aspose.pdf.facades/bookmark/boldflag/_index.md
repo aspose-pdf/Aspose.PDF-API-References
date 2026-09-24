@@ -17,10 +17,6 @@ Gets or sets the bold flag of bookmark's title.
 public bool BoldFlag { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Bookmark](../)

@@ -19,10 +19,6 @@ Gets or sets a cursor for use in pagination. after is an object ID that defines 
 public string After { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BaseListQueryParameters](../)

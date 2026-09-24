@@ -19,10 +19,6 @@ The property may be used in case it is required to delimit text extraction or te
 public Rectangle Rectangle { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

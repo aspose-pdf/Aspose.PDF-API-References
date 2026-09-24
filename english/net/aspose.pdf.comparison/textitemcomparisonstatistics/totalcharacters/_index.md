@@ -17,10 +17,6 @@ Gets and sets the total number of characters.
 public int TotalCharacters { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextItemComparisonStatistics](../)

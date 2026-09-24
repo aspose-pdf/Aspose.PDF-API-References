@@ -17,10 +17,6 @@ Returns true if XmpValue is named value.
 public bool IsNamedValue { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

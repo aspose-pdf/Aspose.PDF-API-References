@@ -17,10 +17,6 @@ Contact information for the signature.
 public string SigContact { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TimestampOptions](../)

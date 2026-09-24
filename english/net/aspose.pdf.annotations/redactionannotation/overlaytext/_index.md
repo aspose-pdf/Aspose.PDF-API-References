@@ -17,10 +17,6 @@ Gets or sets text to print on redact annotation.
 public string OverlayText { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RedactionAnnotation](../)

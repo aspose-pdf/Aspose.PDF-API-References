@@ -17,10 +17,6 @@ Gets or sets vertical alignment of stamp on page.
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Property Value
-
-[VerticalAlignment](../../../aspose.pdf/verticalalignment/)
-
 ### See Also
 
 * class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)

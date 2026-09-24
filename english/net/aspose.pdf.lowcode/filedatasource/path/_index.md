@@ -17,10 +17,6 @@ Gets the path to the file of the current data source.
 public string Path { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileDataSource](../)

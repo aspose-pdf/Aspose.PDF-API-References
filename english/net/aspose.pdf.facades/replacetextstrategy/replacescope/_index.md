@@ -17,10 +17,6 @@ Scope of the replacement operation (replace first occurence or replace all occur
 public Scope ReplaceScope { get; set; }
 ```
 
-### Property Value
-
-Scope
-
 ### See Also
 
 * class [ReplaceTextStrategy](../)

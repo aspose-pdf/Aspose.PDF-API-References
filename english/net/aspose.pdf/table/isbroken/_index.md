@@ -17,10 +17,6 @@ Gets or sets the table is broken - will be truncated for next page.
 public bool IsBroken { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Table](../)

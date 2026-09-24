@@ -17,10 +17,10 @@ Represent type of cryptographic algorithm that used in encryption/decryption rou
 public enum CryptoAlgorithm
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | RC4x40 | `0` | RC4 with key length 40. |
 | RC4x128 | `1` | RC4 with key length 128. |
 | AESx128 | `2` | AES with key length 128. |

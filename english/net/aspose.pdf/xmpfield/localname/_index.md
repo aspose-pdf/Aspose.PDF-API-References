@@ -19,7 +19,7 @@ public string LocalName { get; set; }
 
 ### Property Value
 
-string
+The name of the local.
 
 ### See Also
 

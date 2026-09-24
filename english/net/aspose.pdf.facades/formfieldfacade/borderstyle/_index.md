@@ -17,10 +17,6 @@ The style of a field border.
 public int BorderStyle { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FormFieldFacade](../)

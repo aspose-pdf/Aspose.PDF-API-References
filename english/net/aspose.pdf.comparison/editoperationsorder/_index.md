@@ -17,10 +17,10 @@ Specifies the order of edit operations.
 public enum EditOperationsOrder
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | InsertFirst | `0` | Insert operations before delete operations. |
 | DeleteFirst | `1` | Delete operations before insert operations. |
 

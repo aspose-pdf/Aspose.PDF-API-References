@@ -17,10 +17,10 @@ Describes page coordinate type.
 public enum PageCoordinateType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | MediaBox | `0` | The MediaBox is used to specify the width and height of the page. 
  For the average user, this probably equals the actual page size. 
  The MediaBox is the largest page box in a PDF. The other page boxes can equal the 

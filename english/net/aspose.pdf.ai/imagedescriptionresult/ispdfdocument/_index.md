@@ -17,10 +17,6 @@ Gets a value indicating whether the ImageDescriptionResult contains a PDF docume
 public bool IsPdfDocument { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ImageDescriptionResult](../)

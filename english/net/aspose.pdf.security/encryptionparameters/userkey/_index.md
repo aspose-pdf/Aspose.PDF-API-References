@@ -17,10 +17,6 @@ Gets the user key (The "U" field of encryption dictionary.)
 public byte[] UserKey { get; }
 ```
 
-### Property Value
-
-byte[]
-
 ### See Also
 
 * class [EncryptionParameters](../)

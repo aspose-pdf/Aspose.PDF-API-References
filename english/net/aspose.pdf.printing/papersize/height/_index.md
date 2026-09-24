@@ -17,10 +17,6 @@ Gets or sets the height of the paper, in hundredths of an inch.
 public int Height { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PaperSize](../)

@@ -18,10 +18,6 @@ Gets or sets value that limits searching for text related graphics (underlining,
 public int StoredGraphicElementsMaxCount { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextSearchOptions](../)

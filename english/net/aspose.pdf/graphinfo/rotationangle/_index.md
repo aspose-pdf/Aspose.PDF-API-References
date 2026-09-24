@@ -18,10 +18,6 @@ Gets or sets a float value that indicates the rotation angle of the coordinate s
 public double RotationAngle { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GraphInfo](../)

@@ -17,10 +17,6 @@ Gets or sets the border style of a line, 0 represents solid, 1 represents dashed
 public int BorderStyle { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [LineInfo](../)

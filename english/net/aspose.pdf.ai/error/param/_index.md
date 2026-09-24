@@ -17,10 +17,6 @@ Gets or sets the parameter name.
 public string Param { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Error](../)

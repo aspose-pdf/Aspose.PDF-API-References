@@ -18,10 +18,6 @@ Custom message to include into the report. It can be something like
 public string CustomMessage { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CrashReportOptions](../)

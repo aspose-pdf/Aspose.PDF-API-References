@@ -17,10 +17,6 @@ Gets or sets quality of image stamp in percent. Valid values are 0..100%.
 public int Quality { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ImageStamp](../)

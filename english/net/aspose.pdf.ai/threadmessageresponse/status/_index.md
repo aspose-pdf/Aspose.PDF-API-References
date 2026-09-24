@@ -18,10 +18,6 @@ Gets or sets the status of the message. One of queued , in_progress , requires_a
 public string Status { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ThreadMessageResponse](../)

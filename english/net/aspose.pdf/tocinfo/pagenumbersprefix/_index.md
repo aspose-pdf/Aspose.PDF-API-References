@@ -17,10 +17,6 @@ Gets or sets is prefix before page number.
 public string PageNumbersPrefix { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TocInfo](../)

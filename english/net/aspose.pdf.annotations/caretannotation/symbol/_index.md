@@ -17,10 +17,6 @@ Gets or sets symbol associated with caret.
 public CaretSymbol Symbol { get; set; }
 ```
 
-### Property Value
-
-[CaretSymbol](../../../aspose.pdf.annotations/caretsymbol/)
-
 ### See Also
 
 * class [CaretSymbol](../../../aspose.pdf.annotations/caretsymbol/)

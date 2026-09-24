@@ -17,10 +17,6 @@ Return file specification which contains actual media data .
 public FileSpecification Data { get; }
 ```
 
-### Property Value
-
-[FileSpecification](../../../aspose.pdf/filespecification/)
-
 ### See Also
 
 * class [FileSpecification](../../../aspose.pdf/filespecification/)

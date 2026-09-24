@@ -17,10 +17,6 @@ The member to record the gap between two neighboring radio buttons in pixels,def
 public float RadioGap { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [FormEditor](../)

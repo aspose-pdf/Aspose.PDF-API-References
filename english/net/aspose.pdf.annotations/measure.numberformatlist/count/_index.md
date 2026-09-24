@@ -17,10 +17,6 @@ Count if items in the list.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Measure.NumberFormatList](../)

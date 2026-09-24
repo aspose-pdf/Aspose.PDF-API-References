@@ -19,10 +19,6 @@ Gets or sets the maximum length of zone with 'zero filling level' that will not 
 public double SectionUnbreakingHorizontalOverride { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [ParagraphAbsorberOptions](../)

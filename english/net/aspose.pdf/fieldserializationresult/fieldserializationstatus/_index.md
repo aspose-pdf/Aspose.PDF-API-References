@@ -19,7 +19,7 @@ public FieldSerializationStatus FieldSerializationStatus { get; }
 
 ### Property Value
 
-[FieldSerializationStatus](../../../aspose.pdf/fieldserializationstatus/)
+The serialization status of the form field.
 
 ### See Also
 

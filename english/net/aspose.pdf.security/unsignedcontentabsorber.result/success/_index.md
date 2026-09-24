@@ -17,10 +17,6 @@ Gets a value indicating whether the operation to retrieve unsigned content from 
 public bool Success { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [UnsignedContentAbsorber.Result](../)

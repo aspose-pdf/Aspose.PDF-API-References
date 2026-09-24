@@ -17,10 +17,6 @@ Gets a position of the watermark's image on a page.
 public Rectangle Position { get; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

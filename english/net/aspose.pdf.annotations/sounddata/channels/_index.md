@@ -17,10 +17,6 @@ Gets or sets the number of sound channels.
 public int Channels { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [SoundData](../)

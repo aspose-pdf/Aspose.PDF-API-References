@@ -17,10 +17,10 @@ Bitmap pixel format.
 public enum PixelFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Rgb24 | `0` | Rgb24 pixel format. |
 | Bgr24 | `1` | Bgr24 pixel format. |
 | Rgba32 | `2` | Rgba32 pixel format. |

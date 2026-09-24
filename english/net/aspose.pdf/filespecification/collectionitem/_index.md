@@ -17,10 +17,6 @@ Gets a collection item of the file specification.
 public CollectionItem CollectionItem { get; }
 ```
 
-### Property Value
-
-[CollectionItem](../../../aspose.pdf/collectionitem/)
-
 ### See Also
 
 * class [CollectionItem](../../../aspose.pdf/collectionitem/)

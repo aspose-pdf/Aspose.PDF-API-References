@@ -17,10 +17,6 @@ Gets type.
 public string Type { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [EncryptedPayload](../)

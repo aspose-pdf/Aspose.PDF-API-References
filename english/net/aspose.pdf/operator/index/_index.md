@@ -17,10 +17,6 @@ Operator index in page operators list.
 public int Index { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Operator](../)

@@ -19,7 +19,8 @@ public int OverlapSize { get; set; }
 
 ### Property Value
 
-int
+The overlap size in tokens. Must be non-negative and less than
+ `MaxChunkSize`. Default is `DefaultOverlapSize`.
 
 ### See Also
 

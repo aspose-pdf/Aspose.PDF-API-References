@@ -17,10 +17,6 @@ The font type of a field text.
 public FontStyle Font { get; set; }
 ```
 
-### Property Value
-
-[FontStyle](../../../aspose.pdf.facades/fontstyle/)
-
 ### See Also
 
 * class [FontStyle](../../../aspose.pdf.facades/fontstyle/)

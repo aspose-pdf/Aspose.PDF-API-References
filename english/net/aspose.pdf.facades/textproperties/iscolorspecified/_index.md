@@ -17,10 +17,6 @@ Gets or sets a value that indicates whether the `Color` property is specified.
 public bool IsColorSpecified { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextProperties](../)

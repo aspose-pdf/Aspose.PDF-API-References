@@ -17,10 +17,6 @@ Gets and sets id of the change.
 public int Id { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [EditContainer](../)

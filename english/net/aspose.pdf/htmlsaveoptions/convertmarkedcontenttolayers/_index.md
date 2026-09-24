@@ -20,10 +20,6 @@ If attribute ConvertMarkedContentToLayers set to true then an all elements insid
 public bool ConvertMarkedContentToLayers { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

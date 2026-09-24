@@ -17,10 +17,6 @@ Gets or sets the number of days after the anchor time that the vector store will
 public int Days { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ExpiresAfter](../)

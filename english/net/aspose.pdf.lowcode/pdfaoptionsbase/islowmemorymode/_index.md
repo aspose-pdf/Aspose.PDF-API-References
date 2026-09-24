@@ -19,7 +19,7 @@ public bool IsLowMemoryMode { get; set; }
 
 ### Property Value
 
-bool
+ if low memory mode is enabled; otherwise, .
 
 ### See Also
 

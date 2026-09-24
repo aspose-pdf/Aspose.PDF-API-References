@@ -20,10 +20,6 @@ If this property is true then additional red rectangles will be drawn for requir
 public bool EmulateRequierdGroups { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XfaParserOptions](../)

@@ -17,10 +17,6 @@ Gets or sets user label.
 public TextSegment UserLabel { get; set; }
 ```
 
-### Property Value
-
-[TextSegment](../../../aspose.pdf.text/textsegment/)
-
 ### See Also
 
 * class [TextSegment](../../../aspose.pdf.text/textsegment/)

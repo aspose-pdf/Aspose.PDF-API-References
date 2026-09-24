@@ -17,10 +17,6 @@ Gets or Sets Hyperlink for Link Element.
 public Hyperlink Hyperlink { get; set; }
 ```
 
-### Property Value
-
-[Hyperlink](../../../aspose.pdf/hyperlink/)
-
 ### See Also
 
 * class [Hyperlink](../../../aspose.pdf/hyperlink/)

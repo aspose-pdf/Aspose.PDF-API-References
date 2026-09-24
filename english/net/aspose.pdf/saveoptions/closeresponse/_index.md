@@ -17,10 +17,6 @@ Gets or sets boolean value which indicates will Response object be closed after 
 public bool CloseResponse { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SaveOptions](../)

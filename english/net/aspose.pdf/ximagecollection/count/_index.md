@@ -17,10 +17,6 @@ Count of images in collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [XImageCollection](../)

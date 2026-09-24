@@ -17,10 +17,6 @@ Gets a collection of operators representing the element.
 public List<Operator> Operators { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Operator](../../../aspose.pdf/operator/)>
-
 ### See Also
 
 * class [GraphicElement](../)

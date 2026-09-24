@@ -17,10 +17,6 @@ The alignment of a field text, default is left alignment.
 public int Alignment { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [FormFieldFacade](../)

@@ -17,10 +17,6 @@ Gets or sets number of tokens in the prompt.
 public int PromptTokens { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Usage](../)

@@ -17,10 +17,6 @@ An action that shall be performed when the page is opened.
 public PdfAction OnOpen { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

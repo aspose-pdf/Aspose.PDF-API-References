@@ -17,10 +17,6 @@ The specification of the file associated with this annotation.
 public FileSpecification File { get; set; }
 ```
 
-### Property Value
-
-[FileSpecification](../../../aspose.pdf/filespecification/)
-
 ### See Also
 
 * class [FileSpecification](../../../aspose.pdf/filespecification/)

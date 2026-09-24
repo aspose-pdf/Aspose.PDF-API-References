@@ -17,10 +17,6 @@ Gets or sets javascript code.
 public string Script { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [JavascriptAction](../)

@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the height of the floating box.
 public double Height { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FloatingBox](../)

@@ -20,10 +20,6 @@ Gets or sets factor that will be applied to scale font size during extraction in
 public double ScaleFactor { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextExtractionOptions](../)

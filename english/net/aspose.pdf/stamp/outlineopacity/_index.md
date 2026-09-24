@@ -18,10 +18,6 @@ Gets or sets a value to indicate the stamp outline opacity. The value is from 0.
 public double OutlineOpacity { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

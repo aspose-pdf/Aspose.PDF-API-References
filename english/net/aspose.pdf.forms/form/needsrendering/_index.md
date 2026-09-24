@@ -19,10 +19,6 @@ Gets a value indicating whether the document requires the removal of the dynamic
 public bool NeedsRendering { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

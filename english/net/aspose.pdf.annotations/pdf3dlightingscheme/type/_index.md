@@ -19,7 +19,7 @@ public LightingSchemeType Type { get; }
 
 ### Property Value
 
-[LightingSchemeType](../../../aspose.pdf.annotations/lightingschemetype/)
+The lighting scheme type.
 
 ### See Also
 

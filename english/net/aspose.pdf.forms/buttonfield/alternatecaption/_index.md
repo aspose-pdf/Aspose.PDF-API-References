@@ -18,10 +18,6 @@ Gets or sets alternate caption of the button which shall be displayed
 public string AlternateCaption { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ButtonField](../)

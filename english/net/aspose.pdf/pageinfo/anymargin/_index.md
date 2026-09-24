@@ -17,10 +17,6 @@ Gets or sets page margin for any page except first.
 public MarginInfo AnyMargin { get; set; }
 ```
 
-### Property Value
-
-[MarginInfo](../../../aspose.pdf/margininfo/)
-
 ### See Also
 
 * class [MarginInfo](../../../aspose.pdf/margininfo/)

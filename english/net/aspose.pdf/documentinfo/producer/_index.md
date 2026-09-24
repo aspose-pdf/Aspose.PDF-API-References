@@ -17,10 +17,6 @@ Gets or sets the document producer.
 public string Producer { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DocumentInfo](../)

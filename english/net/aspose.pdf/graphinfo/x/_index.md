@@ -17,10 +17,6 @@ Retrieve the X coordinate of a vertical border when using TableAbsorber, and ret
 public double X { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GraphInfo](../)

@@ -17,10 +17,6 @@ A number format array for measurement of angles.
 public NumberFormatList AngleFormat { get; set; }
 ```
 
-### Property Value
-
-NumberFormatList
-
 ### See Also
 
 * class [Measure](../)

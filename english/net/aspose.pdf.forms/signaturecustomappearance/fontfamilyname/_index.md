@@ -17,10 +17,6 @@ Gets/sets font family name. It should be existed in the document. Default value:
 public string FontFamilyName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

@@ -17,10 +17,6 @@ Gets or sets format array for table of contents.
 public LevelFormat[] FormatArray { get; set; }
 ```
 
-### Property Value
-
-[LevelFormat](../../../aspose.pdf/levelformat/)[]
-
 ### See Also
 
 * class [LevelFormat](../../../aspose.pdf/levelformat/)

@@ -17,10 +17,6 @@ Gets or sets the page number where the image is located.
 public int PageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ImageDescription](../)

@@ -17,10 +17,10 @@ Enumerates the forms of quadding (justification) to be used in displaying the an
 public enum Justification
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Left | `0` | Left justification. |
 | Center | `1` | Center justification. |
 | Right | `2` | Right justification. |

@@ -17,10 +17,6 @@ Gets or sets the date of document modification.
 public DateTime ModDate { get; set; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [DocumentInfo](../)

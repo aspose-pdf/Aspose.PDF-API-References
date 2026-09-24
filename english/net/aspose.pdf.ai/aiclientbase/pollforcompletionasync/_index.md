@@ -38,7 +38,7 @@ The status of the completion.
 
 ## PollForCompletionAsync(Func<Task<T0>>, Func<T0, bool>, Nullable<CancellationToken>) {#pollforcompletionasync_1}
 
-
+Polls for completion asynchronously with a specified request delegate and completion check.
 
 ```csharp
 protected Task<T0> PollForCompletionAsync(Func<Task<T0>> requestDelegate, Func<T0, bool> isComplete, Nullable<CancellationToken> cancellationToken)
@@ -46,13 +46,15 @@ protected Task<T0> PollForCompletionAsync(Func<Task<T0>> requestDelegate, Func<T
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| requestDelegate | Func<Task<T0>> |  |
-| isComplete | Func<T0, bool> |  |
-| cancellationToken | Nullable<CancellationToken> |  |
+| requestDelegate | Func<Task<T0>> | The asynchronous request delegate. |
+| isComplete | Func<T0, bool> | The completion check function. |
+| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
 
 ### Return Value
 
 [Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<T0>
+
+The result of the completion.
 
 ### See Also
 

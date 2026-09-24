@@ -17,10 +17,6 @@ Sets the cell's TextState property is overriden by TextFragment TextState proper
 public bool IsOverrideByFragment { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Cell](../)

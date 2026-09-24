@@ -18,10 +18,6 @@ Gets and sets a comparison mode.
 public ComparisonMode ComparisonMode { get; set; }
 ```
 
-### Property Value
-
-[ComparisonMode](../../../aspose.pdf.comparison/comparisonmode/)
-
 ### See Also
 
 * class [ComparisonMode](../../../aspose.pdf.comparison/comparisonmode/)

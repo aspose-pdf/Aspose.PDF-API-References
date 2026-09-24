@@ -17,10 +17,10 @@ The line join style shall specify the shape to be used at the corners of paths t
 public enum LineJoin
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | MiterJoin | `0` | Miter join. The outer edges of the strokes for the two segments shall be extended until they meet at an angle, as in a 
  picture frame. If the segments meet at too sharp an angle as defined by the miter limit parameter (see 8.4.3.5, "Miter Limit"), 
  a bevel join shall be used instead. |

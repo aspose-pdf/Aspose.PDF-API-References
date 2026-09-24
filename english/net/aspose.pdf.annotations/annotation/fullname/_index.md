@@ -17,10 +17,6 @@ Gets full qualified name of the annotation.
 public string FullName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Annotation](../)

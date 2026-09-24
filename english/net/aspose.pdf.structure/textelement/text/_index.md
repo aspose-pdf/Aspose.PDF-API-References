@@ -17,10 +17,6 @@ Gets the value of text structure element.
 public string Text { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextElement](../)

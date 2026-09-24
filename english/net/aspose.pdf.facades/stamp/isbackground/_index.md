@@ -18,10 +18,6 @@ Gets or sets background status. If true stamp will be placed as background of th
 public bool IsBackground { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Stamp](../)

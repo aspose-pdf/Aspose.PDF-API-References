@@ -17,10 +17,6 @@ Gets or sets an action to be performed when the annotation loses the input focus
 public PdfAction OnLostFocus { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

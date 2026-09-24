@@ -17,10 +17,6 @@ Gets processed page number.
 public int Number { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PageMarkup](../)

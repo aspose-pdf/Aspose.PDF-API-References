@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the radius of rectangle corners.
 public double RoundedCornerRadius { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

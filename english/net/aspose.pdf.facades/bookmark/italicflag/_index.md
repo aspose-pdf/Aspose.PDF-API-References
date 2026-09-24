@@ -17,10 +17,6 @@ Gets or sets the italic flag of bookmark's title.
 public bool ItalicFlag { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Bookmark](../)

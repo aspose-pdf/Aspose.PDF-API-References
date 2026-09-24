@@ -17,10 +17,10 @@ Enumerates the icons to be used in displaying the annotation.
 public enum StampIcon
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Draft | `0` | Draft stamp icon. |
 | Approved | `1` | Approved stamp icon. |
 | Experimental | `2` | Experimental stamp icon. |

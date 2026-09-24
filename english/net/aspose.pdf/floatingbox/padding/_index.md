@@ -17,10 +17,6 @@ Gets or sets a [`MarginInfo`](../../../aspose.pdf/margininfo/) object that indic
 public MarginInfo Padding { get; set; }
 ```
 
-### Property Value
-
-[MarginInfo](../../../aspose.pdf/margininfo/)
-
 ### See Also
 
 * class [MarginInfo](../../../aspose.pdf/margininfo/)

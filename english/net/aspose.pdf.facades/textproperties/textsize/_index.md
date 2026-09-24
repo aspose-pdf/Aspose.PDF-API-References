@@ -17,10 +17,6 @@ Gets or sets text size.
 public double TextSize { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextProperties](../)

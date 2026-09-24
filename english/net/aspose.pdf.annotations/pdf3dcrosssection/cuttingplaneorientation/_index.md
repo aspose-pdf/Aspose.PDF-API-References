@@ -19,7 +19,7 @@ public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 
 ### Property Value
 
-[PDF3DCuttingPlaneOrientation](../../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/)
+The cutting plane orientation.
 
 ### See Also
 

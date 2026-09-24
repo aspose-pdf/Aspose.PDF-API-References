@@ -17,10 +17,6 @@ Gets artifact subtype. If artifact has non-standard subtype, name of the subtype
 public ArtifactSubtype Subtype { get; set; }
 ```
 
-### Property Value
-
-ArtifactSubtype
-
 ### See Also
 
 * class [Artifact](../)

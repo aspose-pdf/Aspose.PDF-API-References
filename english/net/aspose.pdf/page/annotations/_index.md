@@ -18,10 +18,6 @@ Gets collection of page annotations.
 public AnnotationCollection Annotations { get; }
 ```
 
-### Property Value
-
-[AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
-
 ### See Also
 
 * class [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)

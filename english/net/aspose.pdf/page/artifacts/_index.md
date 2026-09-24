@@ -17,10 +17,6 @@ Gets collection of artifacts on the page.
 public ArtifactCollection Artifacts { get; }
 ```
 
-### Property Value
-
-[ArtifactCollection](../../../aspose.pdf/artifactcollection/)
-
 ### See Also
 
 * class [ArtifactCollection](../../../aspose.pdf/artifactcollection/)

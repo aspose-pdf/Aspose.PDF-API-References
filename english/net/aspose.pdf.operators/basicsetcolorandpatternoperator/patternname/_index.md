@@ -17,10 +17,6 @@ Gets Pattern Name.
 public string PatternName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BasicSetColorAndPatternOperator](../)

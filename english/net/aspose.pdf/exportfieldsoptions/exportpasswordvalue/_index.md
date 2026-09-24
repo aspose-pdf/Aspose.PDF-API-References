@@ -19,7 +19,7 @@ public bool ExportPasswordValue { get; set; }
 
 ### Property Value
 
-bool
+`true` if the password value should be exported; otherwise, `false`.
 
 ### See Also
 

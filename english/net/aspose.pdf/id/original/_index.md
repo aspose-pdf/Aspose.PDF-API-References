@@ -17,10 +17,6 @@ Permanent identifier based on the contents of the document at the time it was or
 public string Original { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Id](../)

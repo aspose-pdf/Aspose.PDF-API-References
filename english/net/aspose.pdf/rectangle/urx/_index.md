@@ -17,10 +17,6 @@ X - coordinate of upper-right corner.
 public double URX { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

@@ -17,10 +17,6 @@ Gets or sets color to fill annotation.
 public Color FillColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

@@ -17,10 +17,6 @@ Gets or sets the table left coordinate.
 public double Left { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Graph](../)

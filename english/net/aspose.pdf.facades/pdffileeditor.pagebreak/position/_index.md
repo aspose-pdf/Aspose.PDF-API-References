@@ -17,10 +17,6 @@ Vertical position of page break.
 public double Position { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [PdfFileEditor.PageBreak](../)

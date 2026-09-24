@@ -19,10 +19,6 @@ Can be null. Use null to inherit `FontSize` property from parent structure eleme
 public Nullable<float> FontSize { get; set; }
 ```
 
-### Property Value
-
-Nullable<float>
-
 ### See Also
 
 * class [StructureTextState](../)

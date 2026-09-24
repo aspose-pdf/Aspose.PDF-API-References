@@ -17,10 +17,10 @@ This enum describes possible antialiasing measures during conversion
 public enum AntialiasingProcessingType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | NoAdditionalProcessing | `0` | no special antialiasing processing in use. This is an optimal option 
  for overhelming majority of documents and it does not require additional time
  during conversion |

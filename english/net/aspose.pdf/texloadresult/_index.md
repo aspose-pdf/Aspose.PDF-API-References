@@ -17,10 +17,10 @@ Results for TeX load and compiling.
 public enum TeXLoadResult
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | NotExecuted | `0` | Loading not executed yet. |
 | Spotless | `1` | Spotless result of loading and compiling. |
 | WarningIssued | `2` | Warnings present on loading and compiling. |

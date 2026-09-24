@@ -17,10 +17,6 @@ Gets or sets document UserPassword.
 public string UserPassword { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfConverter](../)

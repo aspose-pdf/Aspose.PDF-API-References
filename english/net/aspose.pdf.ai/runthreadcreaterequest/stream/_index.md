@@ -18,10 +18,6 @@ Gets or sets if to use streaming.
 public Nullable<bool> Stream { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [RunThreadCreateRequest](../)

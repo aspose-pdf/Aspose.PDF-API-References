@@ -17,10 +17,6 @@ Gets/sets TeX output directory.
 public ITeXOutputDirectory OutputDirectory { get; set; }
 ```
 
-### Property Value
-
-[ITeXOutputDirectory](../../../aspose.pdf/itexoutputdirectory/)
-
 ### See Also
 
 * class [ITeXOutputDirectory](../../../aspose.pdf/itexoutputdirectory/)

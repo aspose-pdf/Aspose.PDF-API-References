@@ -17,10 +17,6 @@ Gets `Images` images collection
 public XImageCollection Images { get; }
 ```
 
-### Property Value
-
-[XImageCollection](../../../aspose.pdf/ximagecollection/)
-
 ### See Also
 
 * class [XImageCollection](../../../aspose.pdf/ximagecollection/)

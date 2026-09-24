@@ -17,10 +17,6 @@ product_version: "26.9.0"
 protected double MarkOffset { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [CornerPrinterMarkAnnotation](../)

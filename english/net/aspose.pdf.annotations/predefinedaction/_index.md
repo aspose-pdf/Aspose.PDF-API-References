@@ -17,10 +17,10 @@ Defines different actions which can be triggered from a PDF file.
 public enum PredefinedAction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | FirstPage | `0` | A named action to go to the first page. |
 | LastPage | `1` | A named action to go to the last page. |
 | NextPage | `2` | A named action to go to the next page. |

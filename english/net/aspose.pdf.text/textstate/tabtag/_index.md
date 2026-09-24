@@ -19,10 +19,6 @@ It has effect only in couple with [`TabStops`](../../../aspose.pdf.text/tabstops
 public string TabTag { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextState](../)

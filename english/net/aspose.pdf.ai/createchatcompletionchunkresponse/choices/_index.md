@@ -18,10 +18,6 @@ Gets or sets a list of chat completion choices. Can contain more than one elemen
 public List<Choice> Choices { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Choice](../../../aspose.pdf.ai/choice/)>
-
 ### See Also
 
 * class [CreateChatCompletionChunkResponse](../)

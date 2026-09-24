@@ -17,10 +17,6 @@ Gets or sets vertical translation.
 public double VerticalTranslation { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FixedPrint](../)

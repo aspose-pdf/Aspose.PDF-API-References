@@ -17,10 +17,10 @@ This enum represents user's permissions for a pdf.
 public enum Permissions
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | PrintDocument | `4` | (Security handlers of revision 2) Print the document.
  (Security handlers of revision 3 or greater) Print the document 
  (possibly not at the highest quality level, 

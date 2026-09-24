@@ -17,10 +17,6 @@ If set, all form fields will be recalculated when any field is changed. Default 
 public bool AutoRecalculate { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

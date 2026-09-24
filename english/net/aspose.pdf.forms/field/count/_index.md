@@ -17,10 +17,6 @@ Gets number of subfields in this field. (For example number of items in radio bu
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Field](../)

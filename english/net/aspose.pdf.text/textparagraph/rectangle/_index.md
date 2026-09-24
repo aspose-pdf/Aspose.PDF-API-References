@@ -17,10 +17,6 @@ Gets or sets rectangle of the paragraph.
 public Rectangle Rectangle { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

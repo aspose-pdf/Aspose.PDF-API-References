@@ -17,10 +17,6 @@ Gets or sets the type of content.
 public string MessageContentType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MessageContentBase](../)

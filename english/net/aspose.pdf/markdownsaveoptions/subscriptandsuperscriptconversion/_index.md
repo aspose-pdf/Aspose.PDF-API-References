@@ -18,10 +18,6 @@ Gets ans sets allowance to convert subscript and superscript.
 public bool SubscriptAndSuperscriptConversion { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [MarkdownSaveOptions](../)

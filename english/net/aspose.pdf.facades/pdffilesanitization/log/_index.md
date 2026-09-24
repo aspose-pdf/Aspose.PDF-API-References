@@ -17,10 +17,6 @@ After file has Saved you can check what was done with file.
 public List<string> Log { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [PdfFileSanitization](../)

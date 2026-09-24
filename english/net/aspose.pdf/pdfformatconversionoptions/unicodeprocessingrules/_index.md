@@ -17,10 +17,6 @@ Rules to solve problems with unicode mapping. Can be null.
 public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 ```
 
-### Property Value
-
-[ToUnicodeProcessingRules](../../../aspose.pdf/tounicodeprocessingrules/)
-
 ### See Also
 
 * class [ToUnicodeProcessingRules](../../../aspose.pdf/tounicodeprocessingrules/)

@@ -17,10 +17,6 @@ Gets or sets mapping name of the field that shall be used when exporting interac
 public string MappingName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Field](../)

@@ -17,10 +17,6 @@ Gets or sets the file name.
 public string FilePath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ImageDescriptionResult](../)

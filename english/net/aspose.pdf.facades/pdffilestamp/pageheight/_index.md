@@ -17,10 +17,6 @@ Gets height of first page in souorce file.
 public float PageHeight { get; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [PdfFileStamp](../)

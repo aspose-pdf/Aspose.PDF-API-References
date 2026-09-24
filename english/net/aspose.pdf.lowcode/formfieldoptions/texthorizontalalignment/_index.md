@@ -17,10 +17,6 @@ Gets/sets the value to determine property TextHorizontalAlignment for created/mo
 public Nullable<HorizontalAlignment> TextHorizontalAlignment { get; set; }
 ```
 
-### Property Value
-
-Nullable<[HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)>
-
 ### See Also
 
 * class [FormFieldOptions](../)

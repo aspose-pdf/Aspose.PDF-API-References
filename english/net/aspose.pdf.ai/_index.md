@@ -47,7 +47,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [CreateEmbeddingResponse](./createembeddingresponse/) | Represents a response from the Create Embeddings endpoint. |
 | [CreateFineTuningJobRequest](./createfinetuningjobrequest/) | Represents a request for the Create Fine-Tuning Job endpoint. |
 | [CreateFineTuningJobResponse](./createfinetuningjobresponse/) | Represents a response from the Create Fine-Tuning Job endpoint. |
-| [DataResponse<T>](./dataresponse-1/) |  |
+| [DataResponse<T>](./dataresponse-1/) | Represents a data response containing the specified data. |
 | [DeleteStatusResponse](./deletestatusresponse/) | Represents the status of an object deletion. |
 | [DocumentChunk](./documentchunk/) | Represents a single chunk of content extracted from a document. |
 | [DocumentCollection](./documentcollection/) | Represents a collection of documents to be processed. |
@@ -69,7 +69,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [ImageUrl](./imageurl/) | Represents an image URL in the content of a message. |
 | [IncompleteDetails](./incompletedetails/) | Details on why the run is incomplete. Will be null if the run is not incomplete. |
 | [LastError](./lasterror/) | The last error associated with this run. Will be null if there are no errors. |
-| [ListDataResponse<T>](./listdataresponse-1/) |  |
+| [ListDataResponse<T>](./listdataresponse-1/) | Represents a list data response containing additional information such as first and last IDs and whether there are more items. |
 | [LlamaChatCompletionRequest](./llamachatcompletionrequest/) | Represents the request body for the ChatGPT API requests. |
 | [LlamaChatCompletionResponse](./llamachatcompletionresponse/) | Represents a chat completion response returned by model, based on the provided input. |
 | [LlamaClient](./llamaclient/) | Represents a client for interacting with the Llama API. |
@@ -153,24 +153,24 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | --- | --- |
 | [IAIClient](./iaiclient/) | Represents an interface for an AI client. |
 | [IAICopilot](./iaicopilot/) | Represents a copilot for AI interactions. |
-| [IChatClient<TOptions>](./ichatclient-1/) |  |
+| [IChatClient<TOptions>](./ichatclient-1/) | Represents an interface for a chat client with specific options. |
 | [IChatCopilot](./ichatcopilot/) | Represents a chat copilot for interacting with documents via AI models. |
-| [IChatCopilotOptions<TOptions>](./ichatcopilotoptions-1/) |  |
+| [IChatCopilotOptions<TOptions>](./ichatcopilotoptions-1/) | Represents an interface for chat copilot options with a specific type. |
 | [IEntityId](./ientityid/) | Represents an entity with an ID. |
-| [IImageDescriptionClient<TOptions>](./iimagedescriptionclient-1/) |  |
+| [IImageDescriptionClient<TOptions>](./iimagedescriptionclient-1/) | Represents an interface for an image description client with specific options. |
 | [IImageDescriptionCopilot](./iimagedescriptioncopilot/) | Represents an image description copilot for extracting image descriptions using AI models. |
-| [IImageDescriptionCopilotOptions<TOptions>](./iimagedescriptioncopilotoptions-1/) |  |
+| [IImageDescriptionCopilotOptions<TOptions>](./iimagedescriptioncopilotoptions-1/) | Represents an interface for image description copilot options with a specific type. |
 | [ILlamaClient](./illamaclient/) | Represents a client interface for interacting with the Llama API. |
-| [IOcrClient<TOptions>](./iocrclient-1/) |  |
+| [IOcrClient<TOptions>](./iocrclient-1/) | Represents an interface for a OCR client with specific options. |
 | [IOcrCopilot](./iocrcopilot/) | Represents an OCR copilot for processing scanned PDFs and images via AI models. |
-| [IOcrCopilotOptions<TOptions>](./iocrcopilotoptions-1/) |  |
+| [IOcrCopilotOptions<TOptions>](./iocrcopilotoptions-1/) | Represents an interface for chat copilot options with a specific type. |
 | [IOpenAIClient](./iopenaiclient/) | Represents a client interface for interacting with the OpenAI API, extending basic AI client functionalities. |
 | [IQueryParameters](./iqueryparameters/) | Represents query parameters for API requests. |
 | [IStatus](./istatus/) | Represents the status of an operation. |
-| [IStringOrObject<T>](./istringorobject-1/) |  |
-| [ISummaryClient<TOptions>](./isummaryclient-1/) |  |
+| [IStringOrObject<T>](./istringorobject-1/) | Represents an object that can be either a string value or an object value. |
+| [ISummaryClient<TOptions>](./isummaryclient-1/) | Represents an interface for a summary client with specific options. |
 | [ISummaryCopilot](./isummarycopilot/) | Represents a summary copilot for generating summaries for documents using AI models. |
-| [ISummaryCopilotOptions<TOptions>](./isummarycopilotoptions-1/) |  |
+| [ISummaryCopilotOptions<TOptions>](./isummarycopilotoptions-1/) | Represents an interface for summary copilot options with a specific type. |
 
 ## Enumeration
 

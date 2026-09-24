@@ -17,10 +17,6 @@ Gets the current license information.
 public LicenseInfo LicenseInfo { get; }
 ```
 
-### Property Value
-
-[LicenseInfo](../../../aspose.pdf/licenseinfo/)
-
 ### See Also
 
 * class [LicenseInfo](../../../aspose.pdf/licenseinfo/)

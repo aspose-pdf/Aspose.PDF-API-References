@@ -17,10 +17,6 @@ Gets or sets type of content. Possible values: Audio, Video.
 public ContentType Type { get; set; }
 ```
 
-### Property Value
-
-ContentType
-
 ### See Also
 
 * class [RichMediaAnnotation](../)

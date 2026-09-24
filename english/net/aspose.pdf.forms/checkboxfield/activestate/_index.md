@@ -17,10 +17,6 @@ Gets or sets current annotation appearance state.
 public string ActiveState { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CheckboxField](../)

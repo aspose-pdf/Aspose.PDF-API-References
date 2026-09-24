@@ -17,10 +17,6 @@ Gets or sets the number of copies to print.
 public short Copies { get; set; }
 ```
 
-### Property Value
-
-short
-
 ### See Also
 
 * class [PrinterSettings](../)

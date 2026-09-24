@@ -17,10 +17,6 @@ Key (name) of the PDF Form XObject in which contents stream text extraction erro
 public string FormKey { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionErrorLocation](../)

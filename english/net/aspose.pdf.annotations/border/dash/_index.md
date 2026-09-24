@@ -17,10 +17,6 @@ Gets or sets dash pattern.
 public Dash Dash { get; set; }
 ```
 
-### Property Value
-
-[Dash](../../../aspose.pdf.annotations/dash/)
-
 ### See Also
 
 * class [Dash](../../../aspose.pdf.annotations/dash/)

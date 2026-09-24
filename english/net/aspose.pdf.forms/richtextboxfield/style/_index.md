@@ -17,10 +17,6 @@ Gets or sets default style string of the rich text field.
 public string Style { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RichTextBoxField](../)

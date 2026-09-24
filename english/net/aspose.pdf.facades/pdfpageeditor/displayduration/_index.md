@@ -17,10 +17,6 @@ Gets or sets display duration for pages.
 public int DisplayDuration { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfPageEditor](../)

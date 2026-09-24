@@ -17,10 +17,6 @@ Gets or sets the web url.
 public string Url { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [WebHyperlink](../)

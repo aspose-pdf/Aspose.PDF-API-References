@@ -17,10 +17,6 @@ Gets or sets flag specifying whether menu bar should be hidden when document is 
 public bool HideMenubar { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

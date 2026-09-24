@@ -18,10 +18,6 @@ Gets or sets the status of the run, which can be either queued, in_progress, req
 public string Status { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunResponse](../)

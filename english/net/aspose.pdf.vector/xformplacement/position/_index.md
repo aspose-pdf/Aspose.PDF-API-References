@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public Point Position { set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

@@ -17,10 +17,6 @@ Gets or sets the text leading.
 public double Leading { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetTextLeading](../)

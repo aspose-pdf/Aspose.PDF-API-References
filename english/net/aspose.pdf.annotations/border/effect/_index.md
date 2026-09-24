@@ -17,10 +17,6 @@ Gets or sets border effect.
 public BorderEffect Effect { get; set; }
 ```
 
-### Property Value
-
-[BorderEffect](../../../aspose.pdf.annotations/bordereffect/)
-
 ### See Also
 
 * class [BorderEffect](../../../aspose.pdf.annotations/bordereffect/)

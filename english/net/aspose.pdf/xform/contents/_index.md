@@ -17,10 +17,6 @@ Gets operators of the form.
 public OperatorCollection Contents { get; }
 ```
 
-### Property Value
-
-[OperatorCollection](../../../aspose.pdf/operatorcollection/)
-
 ### See Also
 
 * class [OperatorCollection](../../../aspose.pdf/operatorcollection/)

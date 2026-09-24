@@ -17,10 +17,6 @@ An array of string, each representing an option of a combo box/list/radio box fi
 public string[] Items { get; set; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [FormFieldFacade](../)

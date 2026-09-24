@@ -17,10 +17,6 @@ Gets or sets rendering mode of the text.
 public TextRenderingMode RenderingMode { get; set; }
 ```
 
-### Property Value
-
-[TextRenderingMode](../../../aspose.pdf.text/textrenderingmode/)
-
 ### See Also
 
 * class [TextRenderingMode](../../../aspose.pdf.text/textrenderingmode/)

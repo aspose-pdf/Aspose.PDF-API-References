@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the height of the rectangle.
 public double Height { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Rectangle](../)

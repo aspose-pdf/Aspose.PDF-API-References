@@ -17,10 +17,6 @@ Gets mode for processing clipping path of the edited text.
 public ClippingPathsProcessingMode ClippingPathsProcessing { get; set; }
 ```
 
-### Property Value
-
-ClippingPathsProcessingMode
-
 ### See Also
 
 * class [TextEditOptions](../)

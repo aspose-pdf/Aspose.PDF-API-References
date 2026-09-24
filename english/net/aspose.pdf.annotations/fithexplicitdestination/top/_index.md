@@ -17,10 +17,6 @@ Gets the vertical coordinate top positioned at the top edge of the window.
 public double Top { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FitHExplicitDestination](../)

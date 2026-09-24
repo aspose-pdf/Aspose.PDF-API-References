@@ -17,10 +17,6 @@ Gets or sets the list of result files for the fine-tuning job.
 public List<string> ResultFiles { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [CreateFineTuningJobResponse](../)

@@ -17,10 +17,10 @@ Source XSLFO document can contain formatting errors. This enum enumerates possib
 public enum ParsingErrorsHandlingTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | TryIgnore | `0` | In this case converter will be instructed to try proceed
  with conversion and ignore found formatting errors.
  In this case success not guaranteed,

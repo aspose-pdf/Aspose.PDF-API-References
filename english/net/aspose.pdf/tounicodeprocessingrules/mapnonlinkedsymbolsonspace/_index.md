@@ -19,10 +19,6 @@ Some fonts doesn't provide information about unicodes for some text symbols.
 public bool MapNonLinkedSymbolsOnSpace { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ToUnicodeProcessingRules](../)

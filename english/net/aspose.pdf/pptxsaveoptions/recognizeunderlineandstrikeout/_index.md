@@ -22,10 +22,6 @@ When false, underline and strikeout lines are preserved as graphics and rendered
 public bool RecognizeUnderlineAndStrikeout { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PptxSaveOptions](../)

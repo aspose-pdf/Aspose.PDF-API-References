@@ -17,10 +17,6 @@ Gets fixed row is in new page - page with this property should be printed to nex
 public bool IsInNewPage { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Row](../)

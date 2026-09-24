@@ -17,10 +17,6 @@ Gets or sets the highest `FromPage` or `ToPage` which may be selected in a print
 public int MaximumPage { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PrinterSettings](../)

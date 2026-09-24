@@ -17,10 +17,6 @@ Gets or sets the object type, which is always thread.
 public string Object { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ThreadResponse](../)

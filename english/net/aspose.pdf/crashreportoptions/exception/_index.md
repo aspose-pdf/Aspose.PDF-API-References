@@ -17,10 +17,6 @@ Exception that crash report will be based on
 public Exception Exception { get; }
 ```
 
-### Property Value
-
-[Exception](https://docs.oracle.com/javase/8/docs/api/java/lang/Exception.html)
-
 ### See Also
 
 * class [CrashReportOptions](../)

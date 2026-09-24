@@ -17,10 +17,6 @@ Gets or sets an image File in the content of a message.
 public ImageFile ImageFile { get; set; }
 ```
 
-### Property Value
-
-[ImageFile](../../../aspose.pdf.ai/imagefile/)
-
 ### See Also
 
 * class [ImageFile](../../../aspose.pdf.ai/imagefile/)

@@ -17,10 +17,6 @@ Gets or sets file specification unicode name.
 public string UnicodeName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileSpecification](../)

@@ -17,10 +17,6 @@ Gets or sets the name of the printer.
 public string PrinterName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PrinterSettings](../)

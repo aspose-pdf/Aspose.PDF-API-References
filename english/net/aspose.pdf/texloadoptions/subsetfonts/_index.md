@@ -17,10 +17,6 @@ Gets/sets the flag indicating whether to subset fonts in output file or not.
 public bool SubsetFonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TeXLoadOptions](../)

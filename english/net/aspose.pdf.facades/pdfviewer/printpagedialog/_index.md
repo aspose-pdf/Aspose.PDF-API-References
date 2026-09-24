@@ -17,10 +17,6 @@ Gets or sets a bool value that indicates whether produce the page number dialog 
 public bool PrintPageDialog { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfViewer](../)

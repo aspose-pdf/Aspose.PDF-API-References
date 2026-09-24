@@ -17,10 +17,6 @@ Gets the value indicates whether there are any changes between the compared docu
 public bool HasChanges { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SideBySideDocsComparisonResult](../)

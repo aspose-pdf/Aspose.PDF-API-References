@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the ending angle degree of the arc.
 public double Beta { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Arc](../)

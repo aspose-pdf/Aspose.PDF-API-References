@@ -17,10 +17,6 @@ Gets or sets the role of the messages author.
 public string Role { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ChatMessage](../)

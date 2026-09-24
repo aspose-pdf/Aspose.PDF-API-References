@@ -17,10 +17,10 @@ Represents line types that can be used in result document for drawing borders or
 public enum HtmlBorderLineType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No line will be shown. |
 | Dotted | `1` | Dotted line will be shown. |
 | Dashed | `2` | Dashed line will be shown. |

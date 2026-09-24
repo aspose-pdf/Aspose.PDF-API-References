@@ -17,10 +17,6 @@ Gets or sets the shading name.
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ShFill](../)

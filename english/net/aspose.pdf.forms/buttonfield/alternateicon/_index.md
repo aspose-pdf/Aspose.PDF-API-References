@@ -17,10 +17,6 @@ Gets or sets alternate icon which shall be displayed when the mouse button is pr
 public XForm AlternateIcon { get; set; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

@@ -18,10 +18,6 @@ Gets or sets the total number of pages component of the page number format.
 public PageTotalNum TotalNum { get; set; }
 ```
 
-### Property Value
-
-PageTotalNum
-
 ### See Also
 
 * class [PageNumber](../)

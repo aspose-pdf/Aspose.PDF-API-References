@@ -17,10 +17,6 @@ Gets/sets the value to determine property MaxFontSize for created/modified field
 public Nullable<double> MaxFontSize { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [FormFieldOptions](../)

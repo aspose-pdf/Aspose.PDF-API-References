@@ -17,10 +17,6 @@ Gets or sets the intent of the line annotation.
 public LineIntent Intent { get; set; }
 ```
 
-### Property Value
-
-[LineIntent](../../../aspose.pdf.annotations/lineintent/)
-
 ### See Also
 
 * class [LineIntent](../../../aspose.pdf.annotations/lineintent/)

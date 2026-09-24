@@ -19,10 +19,6 @@ Is true when text has hebriew or arabic symbols. This case must be specially con
 public bool IsBidi { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfExtractor](../)

@@ -17,10 +17,6 @@ Gets or sets the Unix timestamp (in seconds) for when the vector store files bat
 public Nullable<int> CreatedAt { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [VectorStoreFileBatchResponse](../)

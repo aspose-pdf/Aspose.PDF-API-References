@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public Artifact Item { get; }
 ```
 
-### Property Value
-
-[Artifact](../../../aspose.pdf/artifact/)
-
 ### See Also
 
 * class [Artifact](../../../aspose.pdf/artifact/)

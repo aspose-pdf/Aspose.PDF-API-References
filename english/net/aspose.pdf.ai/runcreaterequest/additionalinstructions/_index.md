@@ -19,10 +19,6 @@ Gets or sets the additional instructions.
 public string AdditionalInstructions { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunCreateRequest](../)

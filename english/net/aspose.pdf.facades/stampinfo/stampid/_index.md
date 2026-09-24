@@ -17,10 +17,6 @@ Gets identifier of the stamp.
 public int StampId { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [StampInfo](../)

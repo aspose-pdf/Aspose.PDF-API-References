@@ -20,10 +20,6 @@ Gets or sets the reason the model stopped generating tokens.
 public string FinishReason { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Choice](../)

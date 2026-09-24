@@ -17,10 +17,6 @@ Gets or sets space to allocate at the left of the icon.
 public double LeftoverLeft { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [IconFit](../)

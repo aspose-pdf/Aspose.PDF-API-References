@@ -17,10 +17,6 @@ Gets or sets the number of dimensions the resulting output embeddings should hav
 public Nullable<int> Dimensions { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [CreateEmbeddingRequest](../)

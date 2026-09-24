@@ -17,10 +17,6 @@ Gets or sets signature rotation.
 public Rotation Rotation { get; set; }
 ```
 
-### Property Value
-
-[Rotation](../../../aspose.pdf/rotation/)
-
 ### See Also
 
 * class [Rotation](../../../aspose.pdf/rotation/)

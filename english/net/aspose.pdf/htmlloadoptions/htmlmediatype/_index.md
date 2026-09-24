@@ -17,10 +17,6 @@ Gets or sets possible media types used during rendering.
 public HtmlMediaType HtmlMediaType { get; set; }
 ```
 
-### Property Value
-
-[HtmlMediaType](../../../aspose.pdf/htmlmediatype/)
-
 ### See Also
 
 * class [HtmlMediaType](../../../aspose.pdf/htmlmediatype/)

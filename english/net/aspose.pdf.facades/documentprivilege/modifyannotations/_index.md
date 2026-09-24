@@ -17,10 +17,6 @@ Allows modifying annotations of file.
 public DocumentPrivilege ModifyAnnotations { get; }
 ```
 
-### Property Value
-
-[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)

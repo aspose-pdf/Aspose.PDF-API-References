@@ -17,10 +17,6 @@ Gets the caption of the barcode object.
 public string Caption { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BarcodeField](../)

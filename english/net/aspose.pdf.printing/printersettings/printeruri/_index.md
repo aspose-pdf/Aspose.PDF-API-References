@@ -17,10 +17,6 @@ Get or sets the URI of the network printer.
 public Uri PrinterUri { get; set; }
 ```
 
-### Property Value
-
-Uri
-
 ### See Also
 
 * class [PrinterSettings](../)

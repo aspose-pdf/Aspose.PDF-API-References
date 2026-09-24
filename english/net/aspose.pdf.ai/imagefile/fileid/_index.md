@@ -18,10 +18,6 @@ Gets or sets the File ID of the image in the message content. Set purpose="visio
 public string FileId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ImageFile](../)

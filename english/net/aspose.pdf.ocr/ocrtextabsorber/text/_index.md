@@ -17,10 +17,6 @@ Gets the text recognized by the most recent `Visit` or `Visit` call.
 public string Text { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OcrTextAbsorber](../)

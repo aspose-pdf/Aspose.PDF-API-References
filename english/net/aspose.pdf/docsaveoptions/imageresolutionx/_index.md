@@ -17,10 +17,6 @@ Converted images X resolution.
 public int ImageResolutionX { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [DocSaveOptions](../)

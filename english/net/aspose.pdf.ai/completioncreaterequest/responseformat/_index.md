@@ -19,10 +19,6 @@ Gets or sets an object specifying the format that the model must output.
 public ResponseFormat ResponseFormat { get; set; }
 ```
 
-### Property Value
-
-[ResponseFormat](../../../aspose.pdf.ai/responseformat/)
-
 ### See Also
 
 * class [ResponseFormat](../../../aspose.pdf.ai/responseformat/)

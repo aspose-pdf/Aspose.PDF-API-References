@@ -17,10 +17,10 @@ Direction of the rotation when document is printed.
 public enum AutoRotateMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No rotation. |
 | ClockWise | `1` | Rotation direction is clockwise. |
 | AntiClockWise | `2` | Rotation directon is counterclockwise. |

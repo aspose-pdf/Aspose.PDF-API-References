@@ -17,10 +17,6 @@ Gets or sets the color of text in the default appearance.
 public Color TextColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

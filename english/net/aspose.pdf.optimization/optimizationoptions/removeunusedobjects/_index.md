@@ -17,10 +17,6 @@ If this flag is set to true, all document objects will be checked and unused obj
 public bool RemoveUnusedObjects { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

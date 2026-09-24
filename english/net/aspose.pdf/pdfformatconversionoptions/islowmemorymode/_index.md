@@ -17,10 +17,6 @@ Is low memory conversion mode enabled
 public bool IsLowMemoryMode { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

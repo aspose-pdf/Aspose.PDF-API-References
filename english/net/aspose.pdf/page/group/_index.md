@@ -17,10 +17,6 @@ Gets or sets a group attributes class specifying the attributes of the page's pa
 public Group Group { get; set; }
 ```
 
-### Property Value
-
-[Group](../../../aspose.pdf/group/)
-
 ### See Also
 
 * class [Group](../../../aspose.pdf/group/)

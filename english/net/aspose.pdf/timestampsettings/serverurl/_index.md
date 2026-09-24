@@ -17,10 +17,6 @@ Gets/sets the timestamp server url.
 public string ServerUrl { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TimestampSettings](../)

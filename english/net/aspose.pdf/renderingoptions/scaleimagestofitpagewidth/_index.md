@@ -19,10 +19,6 @@ Gets or sets a values used to scale all images on the page to fit page's width.
 public bool ScaleImagesToFitPageWidth { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

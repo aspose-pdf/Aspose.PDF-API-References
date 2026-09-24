@@ -17,10 +17,6 @@ X coordinate value.
 public double X { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Point3D](../)

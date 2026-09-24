@@ -17,10 +17,6 @@ Gets or sets height of the annotation.
 public double Height { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Annotation](../)

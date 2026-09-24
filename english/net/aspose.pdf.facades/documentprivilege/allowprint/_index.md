@@ -18,10 +18,6 @@ Sets the permission which allow print or not.
 public bool AllowPrint { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocumentPrivilege](../)

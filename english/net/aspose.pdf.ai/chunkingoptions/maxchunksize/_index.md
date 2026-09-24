@@ -19,7 +19,8 @@ public int MaxChunkSize { get; set; }
 
 ### Property Value
 
-int
+The maximum chunk size in tokens. Must be between `MinimumChunkSize`
+ and `MaximumChunkSize`. Default is `DefaultMaxChunkSize`.
 
 ### See Also
 

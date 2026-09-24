@@ -17,10 +17,6 @@ Gets or sets the cell's text word wrapped.
 public bool IsWordWrapped { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Cell](../)

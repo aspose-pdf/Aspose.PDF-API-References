@@ -19,10 +19,6 @@ Gets or sets margin for block structure element.
 public MarginInfo MarginInfo { get; set; }
 ```
 
-### Property Value
-
-[MarginInfo](../../../aspose.pdf/margininfo/)
-
 ### See Also
 
 * class [MarginInfo](../../../aspose.pdf/margininfo/)

@@ -18,10 +18,6 @@ Gets the coverage state of digital signatures in a document.
 public SignaturesCoverage SignaturesCoverage { get; }
 ```
 
-### Property Value
-
-[SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
-
 ### See Also
 
 * class [SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)

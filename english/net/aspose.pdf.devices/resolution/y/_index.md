@@ -17,10 +17,6 @@ Gets or sets vertical image resolution.
 public int Y { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Resolution](../)

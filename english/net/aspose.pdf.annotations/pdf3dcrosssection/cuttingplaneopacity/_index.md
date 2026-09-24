@@ -19,7 +19,7 @@ public double CuttingPlaneOpacity { get; set; }
 
 ### Property Value
 
-double
+The cutting plane opacity.
 
 ### See Also
 

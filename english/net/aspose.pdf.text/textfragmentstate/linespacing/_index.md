@@ -22,10 +22,6 @@ Note that the value is not preserved as a text characteristic within the documen
 public float LineSpacing { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextFragmentState](../)

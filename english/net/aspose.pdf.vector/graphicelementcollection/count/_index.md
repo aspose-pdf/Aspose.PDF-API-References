@@ -17,10 +17,6 @@ Gets the number of [`GraphicElement`](../../../aspose.pdf.vector/graphicelement/
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [GraphicElementCollection](../)

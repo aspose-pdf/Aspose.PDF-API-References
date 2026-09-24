@@ -17,10 +17,6 @@ An action which shall be performed when the annotation is activated.
 public PdfAction OnActivated { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

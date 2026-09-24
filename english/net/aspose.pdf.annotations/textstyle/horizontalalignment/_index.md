@@ -17,10 +17,6 @@ Text alignment. Valid values are: Left, Center, Rigth.
 public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
-### Property Value
-
-[HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
-
 ### See Also
 
 * class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)

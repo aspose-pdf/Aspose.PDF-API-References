@@ -17,10 +17,6 @@ Allows to remove data after pdf data
 public bool UseTrimBottom { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileSanitization](../)

@@ -18,10 +18,6 @@ Gets or sets the Generating Path of the small pdf files if many small pdf files 
 public string GeneratingPath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AutoFiller](../)

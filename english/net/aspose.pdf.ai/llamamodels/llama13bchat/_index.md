@@ -17,10 +17,6 @@ The Llama 13b chat model.
 public string Llama13BChat { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LlamaModels](../)

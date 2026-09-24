@@ -17,10 +17,6 @@ Gets or sets the number of degrees by which the movie shall be rotated clockwise
 public int Rotate { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [MovieAnnotation](../)

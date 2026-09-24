@@ -17,10 +17,6 @@ Gets the namespace for the XFA form. The following namepsaces are defined: "data
 public XmlNamespaceManager NamespaceManager { get; }
 ```
 
-### Property Value
-
-XmlNamespaceManager
-
 ### See Also
 
 * class [XFA](../)

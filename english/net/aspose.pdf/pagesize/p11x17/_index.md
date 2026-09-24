@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public PageSize P11x17 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

@@ -17,10 +17,6 @@ Gets the page containing the image.
 public Page Page { get; }
 ```
 
-### Property Value
-
-[Page](../../../aspose.pdf/page/)
-
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)

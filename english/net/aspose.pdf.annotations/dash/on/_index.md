@@ -17,10 +17,6 @@ Gets or sets length of first dash.
 public int On { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Dash](../)

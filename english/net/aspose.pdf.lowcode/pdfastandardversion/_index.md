@@ -17,10 +17,10 @@ Specifies the PDF/A standard version for a PDF document.
 public enum PdfAStandardVersion
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Auto | `0` | The PDF/A standard version is determined automatically. |
 | PDF_A_1A | `1` | Specifies the PDF/A-1a standard version. |
 | PDF_A_1B | `2` | Specifies the PDF/A-1b standard version. |

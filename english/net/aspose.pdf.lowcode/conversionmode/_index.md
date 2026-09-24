@@ -17,10 +17,10 @@ Defines conversion mode of the output document.
 public enum ConversionMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | TextBox | `0` | This mode is fast and good for maximally preserving original look of the PDF file, 
  but editability of the resulting document could be limited.
  

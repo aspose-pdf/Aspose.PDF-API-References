@@ -17,10 +17,10 @@ Enumeration of posible types of Acro Form.
 public enum FormType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Standard | `0` | Standard AcroForm. |
 | Static | `1` | Static XFA form. |
 | Dynamic | `2` | Dynamic XFA form. |

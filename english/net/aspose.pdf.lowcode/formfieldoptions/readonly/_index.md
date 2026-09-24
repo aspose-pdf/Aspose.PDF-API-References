@@ -17,10 +17,6 @@ Gets/sets the value to determine whether created/modified field is read only or 
 public Nullable<bool> ReadOnly { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormFieldOptions](../)

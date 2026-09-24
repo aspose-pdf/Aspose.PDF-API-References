@@ -17,10 +17,6 @@ Gets number of embedded files in collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [EmbeddedFileCollection](../)

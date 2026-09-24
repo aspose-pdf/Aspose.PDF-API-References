@@ -17,10 +17,6 @@ Specifies the array of numbers of pages to convert.
 public int[] ExplicitListOfSavedPages { get; set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * interface [IPageSetOptions](../)

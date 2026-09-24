@@ -17,10 +17,6 @@ Gets/sets the value to determine property SpellCheck for modified field (if will
 public Nullable<bool> SpellCheck { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormTextBoxFieldSetOptions](../)

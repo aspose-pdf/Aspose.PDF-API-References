@@ -17,10 +17,6 @@ Gets or sets the table top coordinate.
 public float Top { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TableElement](../)

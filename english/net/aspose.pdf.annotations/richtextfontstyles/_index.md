@@ -17,10 +17,10 @@ Options for styling text fragments in RichText.
 public enum RichTextFontStyles
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | ClearExisting | `1` | If set, clears all existing styles before applying additional ones.
  When combined with other style flags (e.g., <see cref="F:Aspose.Pdf.Annotations.RichTextFontStyles.Bold" />),
  it first resets the styles, then applies the specified ones.

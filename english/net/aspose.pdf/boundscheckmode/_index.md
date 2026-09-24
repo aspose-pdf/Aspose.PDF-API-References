@@ -17,10 +17,10 @@ Specifies the behavior for bounds checking when adding items to a collection.
 public enum BoundsCheckMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | Default behavior: Add items without bounds checking. |
 | ThrowExceptionIfDoesNotFit | `1` | Throw BoundsNotFitException if an item doesn't fit within the given container dimensions (inclusive). |
 

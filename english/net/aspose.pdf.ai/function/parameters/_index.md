@@ -17,10 +17,6 @@ Gets or sets the parameters the functions accepts, described as a JSON Schema ob
 public object Parameters { get; set; }
 ```
 
-### Property Value
-
-object
-
 ### See Also
 
 * class [Function](../)

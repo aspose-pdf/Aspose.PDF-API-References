@@ -20,10 +20,6 @@ Setting this parameter enables fitting the MediaBox to the CropBox value during 
 public bool ChangeMediaBox { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeParameters](../)

@@ -18,10 +18,6 @@ Rectangle describing the numerical differences between two rectangles: the Rect 
 public Rectangle TextRectangle { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

@@ -17,10 +17,6 @@ Gets or sets an icon to be used in displaying the annotation.
 public TextIcon Icon { get; set; }
 ```
 
-### Property Value
-
-[TextIcon](../../../aspose.pdf.annotations/texticon/)
-
 ### See Also
 
 * class [TextIcon](../../../aspose.pdf.annotations/texticon/)

@@ -17,10 +17,6 @@ Automatically adjust font size precision. Default value: 0.1;
 public float AutoAdjustFontSizePrecision { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextStamp](../)

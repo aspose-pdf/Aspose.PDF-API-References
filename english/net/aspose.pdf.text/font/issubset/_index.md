@@ -18,10 +18,6 @@ Gets or sets a value that indicates whether the font is a subset.
 public bool IsSubset { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

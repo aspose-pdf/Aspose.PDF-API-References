@@ -17,10 +17,10 @@ Tab order on the page
 public enum TabOrder
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No tab order. |
 | Row | `1` | Row order. |
 | Column | `2` | Column order. |

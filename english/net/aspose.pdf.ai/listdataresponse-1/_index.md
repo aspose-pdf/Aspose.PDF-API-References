@@ -3,7 +3,7 @@ title: "ListDataResponse<T> Class"
 linktitle: "ListDataResponse<T>"
 articleTitle: "ListDataResponse<T>"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.AI.ListDataResponse class."
+description: "Aspose.Pdf.AI.ListDataResponse class. Represents a list data response containing additional information such as first and last IDs and whether there are more..."
 type: docs
 weight: 720
 url: "/net/aspose.pdf.ai/listdataresponse-1/"
@@ -12,7 +12,7 @@ product_version: "26.9.0"
 ---
 ## ListDataResponse<T> class
 
-
+Represents a list data response containing additional information such as first and last IDs and whether there are more items.
 
 ```csharp
 public class ListDataResponse<T><T>
@@ -34,9 +34,9 @@ public class ListDataResponse<T><T>
 
 | Name | Description |
 | --- | --- |
-| [FirstId](./firstid/) { get; set; } |  |
-| [HasMore](./hasmore/) { get; set; } |  |
-| [LastId](./lastid/) { get; set; } |  |
+| [FirstId](./firstid/) { get; set; } | Gets or sets the first ID in the list. |
+| [HasMore](./hasmore/) { get; set; } | Gets or sets a value indicating whether there are more items in the list. |
+| [LastId](./lastid/) { get; set; } | Gets or sets the last ID in the list. |
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets/sets location visibility. Default value: true.
 public bool ShowLocation { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

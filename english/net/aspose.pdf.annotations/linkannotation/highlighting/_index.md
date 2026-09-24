@@ -17,10 +17,6 @@ The visual effect to be used when the mouse button is pressed or held down insid
 public HighlightingMode Highlighting { get; set; }
 ```
 
-### Property Value
-
-[HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
-
 ### See Also
 
 * class [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)

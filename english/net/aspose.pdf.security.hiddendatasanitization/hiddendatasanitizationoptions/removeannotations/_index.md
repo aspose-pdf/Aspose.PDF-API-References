@@ -19,10 +19,6 @@ Gets or sets a value indicating whether to remove annotations from the document.
 public bool RemoveAnnotations { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

@@ -18,10 +18,6 @@ Sets owner's password if the source input Pdf file is encrypted.
 public string OwnerPassword { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileEditor](../)

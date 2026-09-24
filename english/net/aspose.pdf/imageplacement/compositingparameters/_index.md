@@ -17,10 +17,6 @@ Gets compositing parameters of graphics state active for the image placed to the
 public CompositingParameters CompositingParameters { get; }
 ```
 
-### Property Value
-
-[CompositingParameters](../../../aspose.pdf/compositingparameters/)
-
 ### See Also
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)

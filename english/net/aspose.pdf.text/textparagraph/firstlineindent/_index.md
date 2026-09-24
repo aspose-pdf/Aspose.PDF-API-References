@@ -18,10 +18,6 @@ Gets or sets subsequent lines indent value.
 public float FirstLineIndent { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [TextParagraph](../)

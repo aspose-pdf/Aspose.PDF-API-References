@@ -17,10 +17,10 @@ Language transformation modes
 public enum LanguageTransformation
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | Default language transformation is performed. |
 | ExactlyAsISee | `1` | Language transformation is performed the same way as in a text editor. It usually means text will looks in the document exactly as You see it in code. But no warranties. |
 | None | `2` | Language transformation is not performed. |

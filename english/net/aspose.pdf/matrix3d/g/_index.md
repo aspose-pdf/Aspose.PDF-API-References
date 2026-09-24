@@ -17,10 +17,6 @@ G member of the transformation matrix.
 public double G { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Matrix3D](../)

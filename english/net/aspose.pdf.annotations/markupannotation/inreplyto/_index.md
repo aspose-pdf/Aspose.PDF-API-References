@@ -18,10 +18,6 @@ A reference to the annotation that this annotation is "in reply to".
 public Annotation InReplyTo { get; set; }
 ```
 
-### Property Value
-
-[Annotation](../../../aspose.pdf.annotations/annotation/)
-
 ### See Also
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)

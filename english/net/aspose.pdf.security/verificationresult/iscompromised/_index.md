@@ -18,10 +18,6 @@ Indicates whether the digital signature structure is likely compromised.
 public bool IsCompromised { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [VerificationResult](../)

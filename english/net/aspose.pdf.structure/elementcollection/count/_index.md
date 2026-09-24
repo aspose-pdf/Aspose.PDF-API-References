@@ -17,10 +17,6 @@ Count of elements.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ElementCollection](../)

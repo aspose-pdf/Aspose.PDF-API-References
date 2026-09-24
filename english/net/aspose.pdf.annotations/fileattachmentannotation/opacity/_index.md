@@ -17,10 +17,6 @@ Gets or sets icon's opacity from 0 to 1: 0 - completely transparant, 1 - complet
 public double Opacity { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FileAttachmentAnnotation](../)

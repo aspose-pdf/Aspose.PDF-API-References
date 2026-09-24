@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public Row Item { get; set; }
 ```
 
-### Property Value
-
-[Row](../../../aspose.pdf/row/)
-
 ### See Also
 
 * class [Row](../../../aspose.pdf/row/)

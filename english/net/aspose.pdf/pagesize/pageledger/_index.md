@@ -17,10 +17,6 @@ Ledger size (432x279 mm).
 public PageSize PageLedger { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

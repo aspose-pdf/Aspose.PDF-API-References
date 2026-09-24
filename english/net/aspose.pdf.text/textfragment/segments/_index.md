@@ -21,10 +21,6 @@ In a few words, [`TextSegment`](../../../aspose.pdf.text/textsegment/) objects a
 public TextSegmentCollection Segments { get; set; }
 ```
 
-### Property Value
-
-[TextSegmentCollection](../../../aspose.pdf.text/textsegmentcollection/)
-
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

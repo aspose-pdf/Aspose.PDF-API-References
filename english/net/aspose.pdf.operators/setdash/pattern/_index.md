@@ -18,10 +18,6 @@ Dash pattern. Array's elements shall be numbers that specify the lengths of alte
 public int[] Pattern { get; set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [SetDash](../)

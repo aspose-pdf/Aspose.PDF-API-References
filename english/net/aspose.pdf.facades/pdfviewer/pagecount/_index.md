@@ -17,10 +17,6 @@ Gets page count of the current Pdf file.
 public int PageCount { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfViewer](../)

@@ -18,10 +18,6 @@ Gets or sets array with numbers of pages which will be affected by stamp.
 public int[] Pages { get; set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [Stamp](../)

@@ -18,10 +18,6 @@ This property is out-property. It holds all the fonts(font names) which were not
 public string[] NotAccessibleFonts { get; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

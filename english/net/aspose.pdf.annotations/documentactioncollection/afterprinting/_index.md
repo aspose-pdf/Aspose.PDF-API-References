@@ -17,10 +17,6 @@ Action that will be performed after document printing.
 public PdfAction AfterPrinting { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

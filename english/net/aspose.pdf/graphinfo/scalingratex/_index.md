@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the scaling rate of the x-coordinate w
 public double ScalingRateX { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [GraphInfo](../)

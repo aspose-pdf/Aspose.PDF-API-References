@@ -3,7 +3,7 @@ title: "ListDataResponse<T>.HasMore"
 linktitle: "HasMore"
 articleTitle: "HasMore"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ListDataResponse property."
+description: "ListDataResponse property. Gets or sets a value indicating whether there are more items in the list."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/listdataresponse-1/hasmore/"
@@ -11,15 +11,11 @@ product_version: "26.9.0"
 ---
 ## ListDataResponse<T>.HasMore property
 
-
+Gets or sets a value indicating whether there are more items in the list.
 
 ```csharp
 public bool HasMore { get; set; }
 ```
-
-### Property Value
-
-bool
 
 ### See Also
 

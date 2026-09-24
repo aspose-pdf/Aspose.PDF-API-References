@@ -17,10 +17,6 @@ Gets/sets the value to determine property MinFontSize for created/modified field
 public Nullable<double> MinFontSize { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [FormFieldOptions](../)

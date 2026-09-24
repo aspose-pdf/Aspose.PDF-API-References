@@ -17,10 +17,6 @@ Gets the outline item representing previous item relatively this item in the out
 public OutlineItemCollection Prev { get; }
 ```
 
-### Property Value
-
-[OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
-
 ### See Also
 
 * class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)

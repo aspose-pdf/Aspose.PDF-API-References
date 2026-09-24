@@ -17,10 +17,6 @@ If FractionDisplayment is ShowAsFraction, this value determines meay or not the 
 public bool ForceDenominator { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Measure.NumberFormat](../)

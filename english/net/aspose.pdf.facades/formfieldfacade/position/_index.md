@@ -17,10 +17,6 @@ A rectangle object holding field's location.
 public float[] Position { get; set; }
 ```
 
-### Property Value
-
-float[]
-
 ### See Also
 
 * class [FormFieldFacade](../)

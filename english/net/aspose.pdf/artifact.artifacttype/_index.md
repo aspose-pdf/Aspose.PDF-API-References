@@ -17,10 +17,10 @@ Enumeration of possible artifact types.
 public enum ArtifactType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Pagination | `0` | Pagination artifacts. Ancillary page features such as running heads and folios (page numbers). |
 | Layout | `1` | Layout artifacts. Purely cosmetic typographical or design elements such as footnote rules or background screens. |
 | Page | `2` | Page artifacts. Production aids extraneous to the document itself, such as cut marks and colour bars. |

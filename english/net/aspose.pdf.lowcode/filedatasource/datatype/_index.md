@@ -17,10 +17,6 @@ Type of data source (file).
 public DataType DataType { get; }
 ```
 
-### Property Value
-
-[DataType](../../../aspose.pdf.lowcode/datatype/)
-
 ### See Also
 
 * class [DataType](../../../aspose.pdf.lowcode/datatype/)

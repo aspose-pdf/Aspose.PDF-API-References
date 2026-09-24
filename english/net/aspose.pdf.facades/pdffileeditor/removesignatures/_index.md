@@ -17,10 +17,6 @@ If true, all signatures will be removed from fields (fields will remain); otherw
 public bool RemoveSignatures { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

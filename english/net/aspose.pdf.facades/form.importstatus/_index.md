@@ -17,10 +17,10 @@ Status of imported field
 public enum ImportStatus
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Success | `0` | Field was successfully imported |
 | FieldNotFound | `1` | Field with this name was not found in the document form. |
 

@@ -17,10 +17,6 @@ Gets or sets a string value that indicates the title of the image.
 public TextFragment Title { get; set; }
 ```
 
-### Property Value
-
-[TextFragment](../../../aspose.pdf.text/textfragment/)
-
 ### See Also
 
 * class [TextFragment](../../../aspose.pdf.text/textfragment/)

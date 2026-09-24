@@ -17,10 +17,6 @@ Gets or sets the prefix to be added to the Bates number.
 public string Prefix { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BatesNArtifact](../)

@@ -17,10 +17,6 @@ Gets/sets digital signed label. Default value: "Digitally signed by".
 public string DigitalSignedLabel { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

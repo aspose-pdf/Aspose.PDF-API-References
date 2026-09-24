@@ -18,10 +18,6 @@ Gets or sets rollover caption of button which shall be displayed when the user r
 public string RolloverCaption { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ButtonField](../)

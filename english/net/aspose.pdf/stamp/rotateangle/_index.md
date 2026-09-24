@@ -18,10 +18,6 @@ Gets or sets rotate angle of stamp in degrees.
 public double RotateAngle { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

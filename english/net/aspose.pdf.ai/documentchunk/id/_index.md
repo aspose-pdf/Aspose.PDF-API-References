@@ -19,7 +19,7 @@ public string Id { get; }
 
 ### Property Value
 
-string
+A string that uniquely identifies this chunk within the document.
 
 ### See Also
 

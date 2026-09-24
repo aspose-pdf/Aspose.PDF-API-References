@@ -17,10 +17,6 @@ If true then outlines will be copied.
 public bool CopyOutlines { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

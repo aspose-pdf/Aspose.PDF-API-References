@@ -19,10 +19,6 @@ Can be null. Use null to inherit `Underline` property from parent structure elem
 public Nullable<bool> Underline { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [StructureTextState](../)

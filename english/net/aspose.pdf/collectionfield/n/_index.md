@@ -17,10 +17,6 @@ Gets the textual field name that shall be presented to the user by the interacti
 public string N { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CollectionField](../)

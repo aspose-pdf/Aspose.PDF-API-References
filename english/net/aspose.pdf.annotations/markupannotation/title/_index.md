@@ -18,10 +18,6 @@ Gets or sets a text label that shall be displayed in the title bar of the annota
 public string Title { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MarkupAnnotation](../)

@@ -17,10 +17,6 @@ Gets collection of the operation results
 public List<IOperationResult> ResultCollection { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[IOperationResult](../../../aspose.pdf.lowcode/ioperationresult/)>
-
 ### See Also
 
 * class [ResultContainer](../)

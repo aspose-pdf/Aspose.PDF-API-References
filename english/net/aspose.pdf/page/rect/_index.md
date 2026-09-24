@@ -20,10 +20,6 @@ Gets or sets rectangle of the page.
 public Rectangle Rect { get; set; }
 ```
 
-### Property Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

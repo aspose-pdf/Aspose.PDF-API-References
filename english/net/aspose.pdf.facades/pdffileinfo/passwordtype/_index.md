@@ -18,10 +18,6 @@ Returns the type of password which was passed for creating PdfFileInfo instance.
 public PasswordType PasswordType { get; }
 ```
 
-### Property Value
-
-[PasswordType](../../../aspose.pdf/passwordtype/)
-
 ### See Also
 
 * class [PasswordType](../../../aspose.pdf/passwordtype/)

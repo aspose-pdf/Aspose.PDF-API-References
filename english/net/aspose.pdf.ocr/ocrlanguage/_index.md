@@ -17,10 +17,10 @@ Language used by [`OcrTextAbsorber`](../../../aspose.pdf.ocr/ocrtextabsorber/) f
 public enum OcrLanguage
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | English | `0` | English (default). |
 | Arabic | `1` | Arabic. |
 | Chinese | `2` | Chinese. |

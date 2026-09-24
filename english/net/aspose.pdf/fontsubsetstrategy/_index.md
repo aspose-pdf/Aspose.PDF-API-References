@@ -17,10 +17,10 @@ enumerates strategies for font subsetting
 public enum FontSubsetStrategy
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | SubsetEmbeddedFontsOnly | `0` | Declares to subset only fonts which are embedded in document already |
 | SubsetAllFonts | `1` | Declares to subsets all the fonts, non-embedded and embedded both |
 

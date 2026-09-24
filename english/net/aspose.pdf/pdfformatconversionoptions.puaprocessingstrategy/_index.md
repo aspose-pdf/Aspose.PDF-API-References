@@ -20,10 +20,10 @@ Some PDF documents have special unicode symbols, which are belonged to Private U
 public enum PuaProcessingStrategy
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Disable PUA symbol processing. This strategy used by default for PDF/A documents with Level B conformance. |
 | SurroundPuaTextWithEmptyActualText | `1` | Inserts marked content block with ActualText entry which contains empty text.
  This strategy gives good results for documents without marked content blocks. Used by default for PDF/A documents with Level A conformance. |

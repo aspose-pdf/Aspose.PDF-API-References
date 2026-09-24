@@ -18,10 +18,6 @@ If set, the document contains signatures that may be invalidated if the file is 
 public bool SignaturesAppendOnly { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form](../)

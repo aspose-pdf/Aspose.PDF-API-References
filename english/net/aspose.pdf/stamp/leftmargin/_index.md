@@ -17,10 +17,6 @@ Gets or sets left margin of stamp.
 public double LeftMargin { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

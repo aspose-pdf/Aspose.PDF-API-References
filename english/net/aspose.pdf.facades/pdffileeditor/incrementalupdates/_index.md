@@ -17,10 +17,6 @@ If true, incremental updates are made during concatenation.
 public bool IncrementalUpdates { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

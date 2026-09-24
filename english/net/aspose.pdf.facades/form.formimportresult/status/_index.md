@@ -17,10 +17,6 @@ Status of field import.
 public ImportStatus Status { get; }
 ```
 
-### Property Value
-
-ImportStatus
-
 ### See Also
 
 * class [Form.FormImportResult](../)

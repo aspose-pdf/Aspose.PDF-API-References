@@ -17,10 +17,6 @@ Gets or sets the heading style for generated document.
 public HeadingStyle HeadingStyle { get; set; }
 ```
 
-### Property Value
-
-[HeadingStyle](../../../aspose.pdf/headingstyle/)
-
 ### See Also
 
 * class [HeadingStyle](../../../aspose.pdf/headingstyle/)

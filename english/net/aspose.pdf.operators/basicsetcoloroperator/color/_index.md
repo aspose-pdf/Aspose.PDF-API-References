@@ -17,10 +17,6 @@ Gets array of color components.
 public double[] Color { get; }
 ```
 
-### Property Value
-
-double[]
-
 ### See Also
 
 * class [BasicSetColorOperator](../)

@@ -17,10 +17,6 @@ Gets the outline item representing the last top-level item in the outline hierar
 public OutlineItemCollection Last { get; }
 ```
 
-### Property Value
-
-[OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
-
 ### See Also
 
 * class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)

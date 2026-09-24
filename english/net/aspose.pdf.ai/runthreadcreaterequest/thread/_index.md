@@ -17,10 +17,6 @@ Gets or sets a request to create a thread.
 public ThreadCreateRequest Thread { get; set; }
 ```
 
-### Property Value
-
-[ThreadCreateRequest](../../../aspose.pdf.ai/threadcreaterequest/)
-
 ### See Also
 
 * class [ThreadCreateRequest](../../../aspose.pdf.ai/threadcreaterequest/)

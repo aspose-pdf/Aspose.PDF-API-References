@@ -18,10 +18,10 @@ This enum describes possible progress event types
 public enum ProgressEventType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | TotalProgress | `0` | means that occured event informs about total progress of conversion |
 | SourcePageAnalysed | `1` | means that occured event informs about end of analysis of one of pages before conversion |
 | ResultPageCreated | `2` | means that occured event informs about creation of one result page before phisical export |

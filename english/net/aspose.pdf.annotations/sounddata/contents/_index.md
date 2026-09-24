@@ -17,10 +17,6 @@ Gets stream of the sound to be played when the annotation is activated.
 public Stream Contents { get; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [SoundData](../)

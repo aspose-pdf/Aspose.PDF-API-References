@@ -20,10 +20,6 @@ When set, printing will be limited to a low-level representation of the appearan
 public bool AllowDegradedPrinting { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocumentPrivilege](../)

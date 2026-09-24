@@ -17,10 +17,6 @@ Action for image masked objects
 public ConvertTransparencyAction TransparencyAction { get; set; }
 ```
 
-### Property Value
-
-[ConvertTransparencyAction](../../../aspose.pdf/converttransparencyaction/)
-
 ### See Also
 
 * class [ConvertTransparencyAction](../../../aspose.pdf/converttransparencyaction/)

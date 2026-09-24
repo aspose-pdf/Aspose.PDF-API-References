@@ -17,10 +17,6 @@ Gets or sets image width. Setting this property allos to scal image horizontally
 public double Width { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [ImageStamp](../)

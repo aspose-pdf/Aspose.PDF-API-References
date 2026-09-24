@@ -19,10 +19,10 @@ Describes strategies used to align document text segments.
 public enum SegmentAlignStrategy
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | None. |
 | RestoreSegmentBounds | `1` | Restore segment bounds. |
 

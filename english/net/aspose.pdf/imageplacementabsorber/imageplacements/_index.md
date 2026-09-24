@@ -17,10 +17,6 @@ Gets collection of image placement occurrences that are presented with [`ImagePl
 public ImagePlacementCollection ImagePlacements { get; }
 ```
 
-### Property Value
-
-[ImagePlacementCollection](../../../aspose.pdf/imageplacementcollection/)
-
 ### See Also
 
 * class [ImagePlacementCollection](../../../aspose.pdf/imageplacementcollection/)

@@ -17,10 +17,6 @@ Gets or sets the polling timeout in seconds.
 public int PollingTimeoutSeconds { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [AIClientBase](../)

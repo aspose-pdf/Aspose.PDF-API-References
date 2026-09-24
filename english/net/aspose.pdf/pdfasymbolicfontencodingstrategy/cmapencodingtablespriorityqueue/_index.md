@@ -17,10 +17,6 @@ Specifies queue of encoding subtables to process.
 public Queue<QueueItem> CmapEncodingTablesPriorityQueue { get; set; }
 ```
 
-### Property Value
-
-Queue<QueueItem>
-
 ### See Also
 
 * class [PdfASymbolicFontEncodingStrategy](../)

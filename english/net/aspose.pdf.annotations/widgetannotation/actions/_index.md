@@ -17,10 +17,6 @@ Gets the annotation actions.
 public AnnotationActionCollection Actions { get; }
 ```
 
-### Property Value
-
-[AnnotationActionCollection](../../../aspose.pdf.annotations/annotationactioncollection/)
-
 ### See Also
 
 * class [AnnotationActionCollection](../../../aspose.pdf.annotations/annotationactioncollection/)

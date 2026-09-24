@@ -20,10 +20,6 @@ Gets or sets alternate name of the field (An alternate field
 public string AlternateName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Field](../)

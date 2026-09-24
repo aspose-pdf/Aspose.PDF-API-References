@@ -18,10 +18,6 @@ Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value 
 public string ValueType { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XmpPdfAExtensionField](../)

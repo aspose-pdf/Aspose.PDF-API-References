@@ -17,10 +17,6 @@ Gets XFA data of the form (if presents).
 public XFA XFA { get; }
 ```
 
-### Property Value
-
-[XFA](../../../aspose.pdf.forms/xfa/)
-
 ### See Also
 
 * class [XFA](../../../aspose.pdf.forms/xfa/)

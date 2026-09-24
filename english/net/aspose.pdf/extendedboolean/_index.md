@@ -17,10 +17,10 @@ Represents boolean type that supports Undefined value.
 public enum ExtendedBoolean
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Undefined | `0` | Undefined value value of ExtendnedBoolean. |
 | False | `1` | False value of ExtendnedBoolean. |
 | True | `2` | True value of ExtendnedBoolean. |

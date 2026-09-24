@@ -17,10 +17,6 @@ Gets and sets opttion to extracts every subpath from a PDF document to separate 
 public bool ExtractEverySubPathToSvg { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SvgExtractionOptions](../)

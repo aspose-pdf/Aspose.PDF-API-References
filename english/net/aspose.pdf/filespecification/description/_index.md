@@ -17,10 +17,6 @@ Gets or sets text associated with the file specification.
 public string Description { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileSpecification](../)

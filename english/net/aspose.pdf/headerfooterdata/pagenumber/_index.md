@@ -17,10 +17,6 @@ Gets or sets the page number settings.
 public PageNumber PageNumber { get; set; }
 ```
 
-### Property Value
-
-[PageNumber](../../../aspose.pdf/pagenumber/)
-
 ### See Also
 
 * class [PageNumber](../../../aspose.pdf/pagenumber/)

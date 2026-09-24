@@ -17,10 +17,6 @@ Gets or sets a value indicating the type of paper source.
 public PaperSourceKind Kind { get; set; }
 ```
 
-### Property Value
-
-[PaperSourceKind](../../../aspose.pdf.printing/papersourcekind/)
-
 ### See Also
 
 * class [PaperSourceKind](../../../aspose.pdf.printing/papersourcekind/)

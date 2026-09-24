@@ -17,10 +17,6 @@ Gets Form XObject resources.
 public Resources Resources { get; }
 ```
 
-### Property Value
-
-[Resources](../../../aspose.pdf/resources/)
-
 ### See Also
 
 * class [Resources](../../../aspose.pdf/resources/)

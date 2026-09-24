@@ -17,10 +17,6 @@ Cryptographic algorithm, see `CryptoAlgorithm` for details.
 public CryptoAlgorithm CryptoAlgorithm { get; set; }
 ```
 
-### Property Value
-
-[CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
-
 ### See Also
 
 * class [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)

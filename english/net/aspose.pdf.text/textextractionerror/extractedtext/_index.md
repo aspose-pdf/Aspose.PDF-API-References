@@ -17,10 +17,6 @@ Text that was actually extracted.
 public string ExtractedText { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionError](../)

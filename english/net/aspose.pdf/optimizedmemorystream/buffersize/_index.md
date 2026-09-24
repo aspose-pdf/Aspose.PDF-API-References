@@ -19,7 +19,7 @@ public int BufferSize { get; set; }
 
 ### Property Value
 
-int
+The buffers size.
 
 ### See Also
 

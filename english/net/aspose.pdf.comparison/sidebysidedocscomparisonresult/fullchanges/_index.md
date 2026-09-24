@@ -20,10 +20,6 @@ The list does not contain information about the position of changes on the pages
 public List<List<DiffOperation>> FullChanges { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[DiffOperation](../../../aspose.pdf.comparison/diffoperation/)>>
-
 ### See Also
 
 * class [SideBySideDocsComparisonResult](../)

@@ -17,10 +17,10 @@ The blend modes enumeration.
 public enum BlendMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Normal | `0` | Normal blend mode. |
 | Multiply | `1` | Multiply blend mode. |
 | Screen | `2` | Screen blend mode. |

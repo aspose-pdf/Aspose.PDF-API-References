@@ -17,10 +17,6 @@ Gets or sets end color.
 public Color EndColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

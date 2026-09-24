@@ -17,10 +17,6 @@ Gets the description.
 public string Description { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XmpPdfAExtensionObject](../)

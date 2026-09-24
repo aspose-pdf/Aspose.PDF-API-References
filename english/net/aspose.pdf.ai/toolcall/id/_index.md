@@ -17,10 +17,6 @@ Gets or sets the ID of the tool call.
 public string Id { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ToolCall](../)

@@ -17,10 +17,6 @@ Gets version number.
 public string Version { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [EncryptedPayload](../)

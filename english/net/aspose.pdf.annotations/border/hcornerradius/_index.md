@@ -17,10 +17,6 @@ Gets or sets horizontal corner radius.
 public double HCornerRadius { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Border](../)

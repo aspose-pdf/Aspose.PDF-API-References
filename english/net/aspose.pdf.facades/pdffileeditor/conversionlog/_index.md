@@ -17,10 +17,6 @@ Gets log of conversion process.
 public string ConversionLog { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileEditor](../)

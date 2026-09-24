@@ -17,10 +17,6 @@ Gets or sets the ParagraphAbsorberOptions.
 public ParagraphAbsorberOptions ParagraphAbsorberOptions { get; set; }
 ```
 
-### Property Value
-
-[ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)
-
 ### See Also
 
 * class [ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)

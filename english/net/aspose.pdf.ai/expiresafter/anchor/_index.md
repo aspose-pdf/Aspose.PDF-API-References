@@ -18,10 +18,6 @@ Gets or sets the anchor timestamp after which the expiration policy applies.
 public string Anchor { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ExpiresAfter](../)

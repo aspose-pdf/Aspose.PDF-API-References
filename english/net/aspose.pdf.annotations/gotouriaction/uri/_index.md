@@ -17,10 +17,6 @@ Gets or sets the uniform resource identifier to resolve.
 public string URI { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [GoToURIAction](../)

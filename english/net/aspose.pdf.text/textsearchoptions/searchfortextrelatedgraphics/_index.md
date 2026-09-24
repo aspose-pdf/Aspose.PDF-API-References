@@ -19,10 +19,6 @@ Gets or sets value that permits searching for text related graphics (underlining
 public bool SearchForTextRelatedGraphics { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextSearchOptions](../)

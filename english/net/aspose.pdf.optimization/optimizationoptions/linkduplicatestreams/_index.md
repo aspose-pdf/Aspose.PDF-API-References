@@ -18,10 +18,6 @@ If this flag is set to true, Resource streams will be analyzed. If duplicate str
 public bool LinkDuplicateStreams { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OptimizationOptions](../)

@@ -19,10 +19,6 @@ The value can be null in case the TextFragment object doesn't belong to any page
 public Page Page { get; }
 ```
 
-### Property Value
-
-[Page](../../../aspose.pdf/page/)
-
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)

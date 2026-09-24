@@ -17,10 +17,10 @@ Enumerates conversion engines that can be used for conversion
 public enum ConversionEngines
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | LegacyEngine | `0` | Represents legacy SVG to PDF conversion engine. |
 | NewEngine | `1` | Represents new SVG to PDF conversion engine. |
 

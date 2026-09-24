@@ -17,10 +17,6 @@ Gets or sets the last error associated with this run. Will be null if there are 
 public LastError LastError { get; set; }
 ```
 
-### Property Value
-
-[LastError](../../../aspose.pdf.ai/lasterror/)
-
 ### See Also
 
 * class [LastError](../../../aspose.pdf.ai/lasterror/)

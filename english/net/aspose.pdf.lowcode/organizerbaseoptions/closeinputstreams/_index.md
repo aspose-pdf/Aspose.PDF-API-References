@@ -17,10 +17,6 @@ Close input streams after operation completed.
 public bool CloseInputStreams { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OrganizerBaseOptions](../)

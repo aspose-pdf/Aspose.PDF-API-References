@@ -17,10 +17,10 @@ Describes style of the annotation border.
 public enum BorderStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Solid | `0` | Solid border. |
 | Dashed | `1` | Dashed border. |
 | Beveled | `2` | Bevelled border. |

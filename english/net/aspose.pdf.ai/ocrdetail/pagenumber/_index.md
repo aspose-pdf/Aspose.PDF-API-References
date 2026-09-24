@@ -18,10 +18,6 @@ The 1-based page number within the source document.
 public int PageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OcrDetail](../)

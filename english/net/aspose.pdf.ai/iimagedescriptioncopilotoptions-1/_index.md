@@ -3,7 +3,7 @@ title: "IImageDescriptionCopilotOptions<TOptions> Interface"
 linktitle: "IImageDescriptionCopilotOptions<TOptions>"
 articleTitle: "IImageDescriptionCopilotOptions<TOptions>"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.AI.IImageDescriptionCopilotOptions interface."
+description: "Aspose.Pdf.AI.IImageDescriptionCopilotOptions interface. Represents an interface for image description copilot options with a specific type."
 type: docs
 weight: 540
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## IImageDescriptionCopilotOptions<TOptions> interface
 
-
+Represents an interface for image description copilot options with a specific type.
 
 ```csharp
 public interface IImageDescriptionCopilotOptions<TOptions><TOptions>
@@ -27,7 +27,7 @@ public interface IImageDescriptionCopilotOptions<TOptions><TOptions>
 
 | Name | Description |
 | --- | --- |
-| [GetOptions](./getoptions/)() |  |
+| [GetOptions](./getoptions/)() | Gets the options of type . |
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets or sets the option to resolve page images during conversion.
 public int ImageDpi { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

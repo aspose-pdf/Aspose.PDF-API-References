@@ -17,10 +17,6 @@ product_version: "26.9.0"
 protected bool IsInvisibilitySet { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextState](../)

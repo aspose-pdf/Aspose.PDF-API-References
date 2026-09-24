@@ -17,10 +17,6 @@ Gets text which operator out on the page.
 public string Text { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextShowOperator](../)

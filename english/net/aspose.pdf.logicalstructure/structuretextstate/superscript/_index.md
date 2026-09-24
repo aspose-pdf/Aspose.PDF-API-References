@@ -19,10 +19,6 @@ Can be null. Use null to inherit `Superscript` property from parent structure el
 public Nullable<bool> Superscript { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [StructureTextState](../)

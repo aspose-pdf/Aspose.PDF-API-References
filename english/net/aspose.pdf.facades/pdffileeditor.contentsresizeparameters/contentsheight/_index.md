@@ -17,10 +17,6 @@ Gets or sets height of the content of the source page on the resultant page.
 public ContentsResizeValue ContentsHeight { get; set; }
 ```
 
-### Property Value
-
-ContentsResizeValue
-
 ### See Also
 
 * class [PdfFileEditor.ContentsResizeParameters](../)

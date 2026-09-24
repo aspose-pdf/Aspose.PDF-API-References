@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the beginning angle degree of the arc.
 public double Alpha { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Arc](../)

@@ -17,10 +17,6 @@ Gets or sets the object value of the ToolChoice.
 public ObjectType ObjectValue { get; set; }
 ```
 
-### Property Value
-
-ObjectType
-
 ### See Also
 
 * class [ToolChoice](../)

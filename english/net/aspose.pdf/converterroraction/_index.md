@@ -17,10 +17,10 @@ This class represents action for conversion errors.
 public enum ConvertErrorAction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Delete | `0` | Delete convert errors |
 | None | `1` | Do nothing with convert errors |
 

@@ -17,10 +17,6 @@ Gets the license expiry date.
 public DateTime LicenseExpiry { get; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [LicenseInfo](../)

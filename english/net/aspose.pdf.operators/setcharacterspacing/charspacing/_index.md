@@ -17,10 +17,6 @@ Gets or sets the character spacing.
 public double CharSpacing { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCharacterSpacing](../)

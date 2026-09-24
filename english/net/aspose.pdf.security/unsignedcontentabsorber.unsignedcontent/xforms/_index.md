@@ -17,10 +17,6 @@ Gets a dictionary of modified XForm objects that may have changed, although the 
 public Dictionary<int, XForm> XForms { get; }
 ```
 
-### Property Value
-
-Dictionary<int, [XForm](../../../aspose.pdf/xform/)>
-
 ### See Also
 
 * class [UnsignedContentAbsorber.UnsignedContent](../)

@@ -17,10 +17,6 @@ Gets or sets the ID of the File that is attached.
 public string FileId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Attachment](../)

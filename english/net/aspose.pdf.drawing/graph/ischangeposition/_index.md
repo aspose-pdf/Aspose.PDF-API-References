@@ -17,10 +17,6 @@ Gets or sets change curret position after process paragraph.(default true)
 public bool IsChangePosition { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Graph](../)

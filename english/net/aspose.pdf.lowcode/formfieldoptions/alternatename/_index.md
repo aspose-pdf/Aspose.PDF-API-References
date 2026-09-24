@@ -17,10 +17,6 @@ Gets/sets the value to determine property AlternateName for created/modified fie
 public string AlternateName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FormFieldOptions](../)

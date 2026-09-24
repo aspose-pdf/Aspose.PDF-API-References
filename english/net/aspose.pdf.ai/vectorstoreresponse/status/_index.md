@@ -18,10 +18,6 @@ Gets or sets the status of the vector store, which can be either expired, in_pro
 public string Status { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [VectorStoreResponse](../)

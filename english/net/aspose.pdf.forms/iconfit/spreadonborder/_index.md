@@ -17,10 +17,6 @@ If true, indicates that the button appearance shall be scaled to fit fully withi
 public bool SpreadOnBorder { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [IconFit](../)

@@ -17,10 +17,6 @@ Gets type of the form. Possible values are: Standard, Static, Dynamic.
 public FormType Type { get; set; }
 ```
 
-### Property Value
-
-[FormType](../../../aspose.pdf.forms/formtype/)
-
 ### See Also
 
 * class [FormType](../../../aspose.pdf.forms/formtype/)

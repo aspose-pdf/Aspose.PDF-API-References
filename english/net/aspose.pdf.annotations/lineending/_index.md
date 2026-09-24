@@ -17,10 +17,10 @@ Enumerates the line ending styles to be used in drawing the line.
 public enum LineEnding
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No line ending. |
 | Square | `1` | A square filled with the annotation's interior color, if any. |
 | Circle | `2` | A circle filled with the annotation's interior color, if any. |

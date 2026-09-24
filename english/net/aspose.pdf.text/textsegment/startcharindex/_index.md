@@ -17,10 +17,6 @@ Gets starting character index of current segment in the show text operator (Tj, 
 public int StartCharIndex { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextSegment](../)

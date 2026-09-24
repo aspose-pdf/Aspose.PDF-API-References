@@ -17,10 +17,6 @@ Gets or sets the polling interval in seconds.
 public int PollingIntervalSeconds { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [AIClientBase](../)

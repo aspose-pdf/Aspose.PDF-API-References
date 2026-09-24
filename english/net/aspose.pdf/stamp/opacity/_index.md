@@ -18,10 +18,6 @@ Gets or sets a value to indicate the stamp opacity. The value is from 0.0 to 1.0
 public double Opacity { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

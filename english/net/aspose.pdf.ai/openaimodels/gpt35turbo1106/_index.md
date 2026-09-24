@@ -17,10 +17,6 @@ Gets the identifier for the GPT-3.5 Turbo 1106 model.
 public string Gpt35Turbo1106 { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIModels](../)

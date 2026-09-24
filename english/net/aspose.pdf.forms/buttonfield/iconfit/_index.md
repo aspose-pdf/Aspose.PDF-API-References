@@ -17,10 +17,6 @@ Gets icon fit object specifying how the widget annotation's icon shall be displa
 public IconFit IconFit { get; }
 ```
 
-### Property Value
-
-[IconFit](../../../aspose.pdf.forms/iconfit/)
-
 ### See Also
 
 * class [IconFit](../../../aspose.pdf.forms/iconfit/)

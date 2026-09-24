@@ -17,10 +17,6 @@ Gets or sets opacity of the annotation.
 public double Opacity { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [WatermarkAnnotation](../)

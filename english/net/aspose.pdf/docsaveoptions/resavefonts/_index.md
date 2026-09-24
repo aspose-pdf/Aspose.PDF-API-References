@@ -21,10 +21,6 @@ Gets or sets the procedure for resaving fonts.
 public bool ReSaveFonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [DocSaveOptions](../)

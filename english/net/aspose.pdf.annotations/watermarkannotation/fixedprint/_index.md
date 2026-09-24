@@ -17,10 +17,6 @@ Fuxed print object of Watermark annotation.
 public FixedPrint FixedPrint { get; }
 ```
 
-### Property Value
-
-[FixedPrint](../../../aspose.pdf.annotations/fixedprint/)
-
 ### See Also
 
 * class [FixedPrint](../../../aspose.pdf.annotations/fixedprint/)

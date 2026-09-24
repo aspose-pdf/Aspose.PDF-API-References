@@ -17,10 +17,10 @@ Describes horizontal alignment.
 public enum HorizontalAlignment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No alignment. |
 | Left | `1` | Align to left. |
 | Center | `2` | Center alignment. |

@@ -17,10 +17,6 @@ Indicates wheather collection is limited to fast text extraction
 public bool IsFastTextExtractionMode { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [BaseOperatorCollection](../)

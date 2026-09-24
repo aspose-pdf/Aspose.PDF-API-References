@@ -17,10 +17,6 @@ Gets or sets the instructions that override the instructions of the assistant. T
 public string Instructions { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunCreateRequest](../)

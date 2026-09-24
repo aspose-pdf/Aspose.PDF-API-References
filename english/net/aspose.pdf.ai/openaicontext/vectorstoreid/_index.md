@@ -17,10 +17,6 @@ Gets or sets the Vector Store ID.
 public string VectorStoreId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIContext](../)

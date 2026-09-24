@@ -18,10 +18,6 @@ Get or sets flag which enables document partially be unloaded from memory.
 public bool EnableObjectUnload { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

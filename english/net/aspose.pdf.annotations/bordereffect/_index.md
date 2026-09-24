@@ -17,10 +17,10 @@ Describes effect which should be applied to the border of the annotations.
 public enum BorderEffect
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | No effect. |
 | Cloudy | `1` | The border will appear "cloudly". |
 

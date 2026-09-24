@@ -17,10 +17,6 @@ Gets/set the name of the job.
 public string JobName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TeXLoadOptions](../)

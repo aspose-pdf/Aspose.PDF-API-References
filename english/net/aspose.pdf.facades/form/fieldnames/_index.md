@@ -17,10 +17,6 @@ Gets list of field names on the form.
 public string[] FieldNames { get; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [Form](../)

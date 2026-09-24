@@ -17,10 +17,6 @@ Count of actions on the collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [ActionCollection](../)

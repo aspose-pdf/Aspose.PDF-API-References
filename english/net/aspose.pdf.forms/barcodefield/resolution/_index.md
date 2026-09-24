@@ -17,10 +17,6 @@ Gets the resolution, in dots-per-inch (dpi), at which the barcode object is rend
 public int Resolution { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BarcodeField](../)

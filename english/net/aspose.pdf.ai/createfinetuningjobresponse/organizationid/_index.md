@@ -17,10 +17,6 @@ Gets or sets the organization that owns the fine-tuning job.
 public string OrganizationId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateFineTuningJobResponse](../)

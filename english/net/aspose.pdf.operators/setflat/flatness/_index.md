@@ -17,10 +17,6 @@ Gets or sets the flatness.
 public double Flatness { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetFlat](../)

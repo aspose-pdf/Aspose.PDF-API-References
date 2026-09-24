@@ -17,10 +17,6 @@ If set, buttons will be removed from flattened document. False by default.
 public bool HideButtons { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form.FlattenSettings](../)

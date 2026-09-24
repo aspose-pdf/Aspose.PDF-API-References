@@ -19,10 +19,6 @@ Gets or sets input stream.
 public Stream InputStream { get; set; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [PdfFileStamp](../)

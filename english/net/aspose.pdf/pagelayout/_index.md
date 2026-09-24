@@ -17,10 +17,10 @@ Descibes page layout.
 public enum PageLayout
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | SinglePage | `0` | Single page. |
 | OneColumn | `1` | Display the pages in one column. |
 | TwoColumnLeft | `2` | Display the pages in two columns, with odd-numbered pages on the left. |

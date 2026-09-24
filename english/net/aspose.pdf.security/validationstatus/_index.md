@@ -17,10 +17,10 @@ Represents the validation status of a certificate validation.
 public enum ValidationStatus
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Valid | `0` | Indicates that the certificate has been successfully validated. |
 | Invalid | `1` | Indicates that the certificate validation failed. |
 | Undefined | `2` | Indicates that the validation process was inconclusive or not performed. |

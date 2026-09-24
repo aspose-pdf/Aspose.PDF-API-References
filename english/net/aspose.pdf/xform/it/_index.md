@@ -17,10 +17,6 @@ Gets form IT. Form IT is a name describing the intent of the XObject.
 public string IT { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XForm](../)

@@ -17,10 +17,6 @@ Gets or sets form presentation mode.
 public FormPresentationMode FormPresentationMode { get; set; }
 ```
 
-### Property Value
-
-[FormPresentationMode](../../../aspose.pdf.devices/formpresentationmode/)
-
 ### See Also
 
 * class [FormPresentationMode](../../../aspose.pdf.devices/formpresentationmode/)

@@ -17,10 +17,6 @@ Gets or sets value of the number of starting page. Other pages will be numbered 
 public int StartingNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PageNumberStamp](../)

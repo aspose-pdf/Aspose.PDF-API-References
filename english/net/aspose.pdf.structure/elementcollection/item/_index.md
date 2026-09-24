@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public Element Item { get; }
 ```
 
-### Property Value
-
-[Element](../../../aspose.pdf.structure/element/)
-
 ### See Also
 
 * class [Element](../../../aspose.pdf.structure/element/)

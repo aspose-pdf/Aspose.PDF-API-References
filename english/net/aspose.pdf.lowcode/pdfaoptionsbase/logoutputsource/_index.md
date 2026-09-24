@@ -19,7 +19,7 @@ public IDataSource LogOutputSource { get; set; }
 
 ### Property Value
 
-[IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+The data source for the log output.
 
 ### See Also
 

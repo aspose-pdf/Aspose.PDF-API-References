@@ -17,10 +17,6 @@ Gets the number of [`TextFragment`](../../../aspose.pdf.text/textfragment/) obje
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextFragmentCollection](../)

@@ -17,10 +17,6 @@ Point that shall specify the origin of the measurement coordinate system in defa
 public Point Origin { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

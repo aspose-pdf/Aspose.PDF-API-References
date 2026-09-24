@@ -22,10 +22,6 @@ Sets items which will be added t onewly created list box or combo box.
 public string[] Items { get; set; }
 ```
 
-### Property Value
-
-string[]
-
 ### See Also
 
 * class [FormEditor](../)

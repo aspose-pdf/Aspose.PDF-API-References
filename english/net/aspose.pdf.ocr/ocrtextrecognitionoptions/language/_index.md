@@ -17,10 +17,6 @@ Gets or sets the recognition language. Defaults to `English`.
 public OcrLanguage Language { get; set; }
 ```
 
-### Property Value
-
-[OcrLanguage](../../../aspose.pdf.ocr/ocrlanguage/)
-
 ### See Also
 
 * class [OcrLanguage](../../../aspose.pdf.ocr/ocrlanguage/)

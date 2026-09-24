@@ -19,7 +19,7 @@ public bool IsAuto { get; set; }
 
 ### Property Value
 
-bool
+`true` if this instance is auto; otherwise, `false`.
 
 ### See Also
 

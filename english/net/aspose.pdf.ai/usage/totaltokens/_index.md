@@ -17,10 +17,6 @@ Gets or sets total number of tokens used in the request (prompt + completion).
 public int TotalTokens { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Usage](../)

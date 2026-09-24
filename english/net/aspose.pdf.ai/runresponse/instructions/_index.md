@@ -17,10 +17,6 @@ Gets or sets the instructions that the assistant used for this run.
 public string Instructions { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunResponse](../)

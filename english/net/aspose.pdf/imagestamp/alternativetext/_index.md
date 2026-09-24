@@ -17,10 +17,6 @@ Gets or sets Alternative Text for image stamp.
 public string AlternativeText { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ImageStamp](../)

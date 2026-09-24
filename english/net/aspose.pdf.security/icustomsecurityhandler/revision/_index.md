@@ -17,10 +17,6 @@ Gets the handler or encryption algorithm revision.
 public int Revision { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * interface [ICustomSecurityHandler](../)

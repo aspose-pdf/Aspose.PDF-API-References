@@ -17,10 +17,6 @@ Full name of the field.
 public string FieldName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Form.FormImportResult](../)

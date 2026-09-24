@@ -17,10 +17,6 @@ Gets or sets the type of run step, which can be either message_creation or tool_
 public string RunStepType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunStepResponse](../)

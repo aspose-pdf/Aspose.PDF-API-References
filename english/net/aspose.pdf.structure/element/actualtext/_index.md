@@ -20,10 +20,6 @@ product_version: "26.9.0"
 public string ActualText { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Element](../)

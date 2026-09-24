@@ -17,10 +17,6 @@ Gets or sets the constant opacity value to be used in painting the annotation.
 public double Opacity { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [MarkupAnnotation](../)

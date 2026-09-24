@@ -17,10 +17,6 @@ Gets or sets default column width.
 public string DefaultColumnWidth { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TableElement](../)

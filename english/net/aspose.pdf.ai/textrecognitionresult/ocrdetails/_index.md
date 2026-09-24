@@ -18,10 +18,6 @@ A list containing the detailed OCR results for each page of the document.
 public List<OcrDetail> OcrDetails { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[OcrDetail](../../../aspose.pdf.ai/ocrdetail/)>
-
 ### See Also
 
 * class [TextRecognitionResult](../)

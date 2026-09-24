@@ -19,10 +19,6 @@ Gets or sets indication that text fragments representing shadow of normal text w
 public bool IgnoreShadowText { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextSearchOptions](../)

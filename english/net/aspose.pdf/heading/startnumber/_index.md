@@ -17,10 +17,6 @@ Gets the heading start number.
 public int StartNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Heading](../)

@@ -17,10 +17,6 @@ Gets text properties of the stamp. See `TextState` for details.
 public TextState TextState { get; }
 ```
 
-### Property Value
-
-[TextState](../../../aspose.pdf.text/textstate/)
-
 ### See Also
 
 * class [TextState](../../../aspose.pdf.text/textstate/)

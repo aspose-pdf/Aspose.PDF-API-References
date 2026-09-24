@@ -20,10 +20,6 @@ Gets/sets the flag indicating whether it is necessary to run the TeX job twice i
 public bool Repeat { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TeXLoadOptions](../)

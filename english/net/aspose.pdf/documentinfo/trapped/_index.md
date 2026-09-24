@@ -17,10 +17,6 @@ Gets or sets the trapped flag.
 public string Trapped { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DocumentInfo](../)

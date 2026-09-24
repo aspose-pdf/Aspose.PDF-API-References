@@ -21,7 +21,7 @@ public bool SkipBlankPages { get; set; }
 
 ### Property Value
 
-bool
+`true` if need to skip blank pages; otherwise, `false`.
 
 ### See Also
 

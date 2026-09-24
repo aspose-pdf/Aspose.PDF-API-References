@@ -17,10 +17,6 @@ Returns string representation of the result.
 public string Text { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [StringResult](../)

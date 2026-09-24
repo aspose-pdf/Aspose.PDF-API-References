@@ -17,10 +17,6 @@ Gets or sets the associated printer settings.
 public PrinterSettings PrinterSettings { get; set; }
 ```
 
-### Property Value
-
-[PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-
 ### See Also
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)

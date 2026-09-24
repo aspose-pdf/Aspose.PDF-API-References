@@ -17,10 +17,6 @@ Returns the number of pages after conversion.
 public int PagesCount { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TeXSaveOptions](../)

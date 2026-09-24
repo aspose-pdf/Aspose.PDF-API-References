@@ -20,7 +20,7 @@ public bool ExtractOcrSublayerOnly { get; set; }
 
 ### Property Value
 
-bool
+`true` text will be extracted in result document; otherwise, `false`.
 
 ### See Also
 

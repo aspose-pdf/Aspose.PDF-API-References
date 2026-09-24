@@ -17,10 +17,6 @@ Metadata of the image.
 public Metadata Metadata { get; }
 ```
 
-### Property Value
-
-[Metadata](../../../aspose.pdf/metadata/)
-
 ### See Also
 
 * class [Metadata](../../../aspose.pdf/metadata/)

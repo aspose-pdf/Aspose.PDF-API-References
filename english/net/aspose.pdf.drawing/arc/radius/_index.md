@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the radius of the arc.
 public double Radius { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Arc](../)

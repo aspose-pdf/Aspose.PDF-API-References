@@ -19,10 +19,6 @@ If attribute UseZORder set to true, graphics and text are added to resultant HTM
 public bool UseZOrder { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

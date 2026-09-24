@@ -19,7 +19,7 @@ public PDF3DLightingScheme LightingScheme { get; }
 
 ### Property Value
 
-[PDF3DLightingScheme](../../../aspose.pdf.annotations/pdf3dlightingscheme/)
+The lighting scheme.
 
 ### See Also
 

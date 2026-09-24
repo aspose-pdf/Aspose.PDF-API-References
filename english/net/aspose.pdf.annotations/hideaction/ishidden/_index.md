@@ -17,10 +17,6 @@ Gets or sets status of the annotation(s) to hide/display.
 public bool IsHidden { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HideAction](../)

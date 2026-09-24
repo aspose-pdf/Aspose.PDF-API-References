@@ -17,10 +17,6 @@ Gets the collection of output targets where the resulting PDFs will be saved.
 public List<IDataSource> Outputs { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[IDataSource](../../../aspose.pdf.lowcode/idatasource/)>
-
 ### See Also
 
 * class [FormImporterJsonOptions](../)

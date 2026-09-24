@@ -17,10 +17,6 @@ When overridden in a derived class, gets the length in bytes of the stream.
 public long Length { get; }
 ```
 
-### Property Value
-
-long
-
 ### See Also
 
 * class [OptimizedMemoryStream](../)

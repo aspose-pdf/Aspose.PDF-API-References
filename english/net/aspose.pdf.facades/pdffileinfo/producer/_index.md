@@ -17,10 +17,6 @@ Gets the Producer information of PDF document.
 public string Producer { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

@@ -17,10 +17,6 @@ Gets or sets image name. Please note that if you change name of the image which 
 public string Name { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XImage](../)

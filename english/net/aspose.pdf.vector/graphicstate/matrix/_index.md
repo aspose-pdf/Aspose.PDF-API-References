@@ -17,10 +17,6 @@ Gets the current transformation matrix.
 public Matrix Matrix { get; set; }
 ```
 
-### Property Value
-
-[Matrix](../../../aspose.pdf/matrix/)
-
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)

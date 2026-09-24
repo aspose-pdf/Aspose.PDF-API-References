@@ -17,10 +17,10 @@ Enumeration of possible field flags.
 public enum PropertyFlag
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | ReadOnly | `0` | Field is read-only. |
 | Required | `1` | Field is required. |
 | NoExport | `2` | Field is not exportable. |

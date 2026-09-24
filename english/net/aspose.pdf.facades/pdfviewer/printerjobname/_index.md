@@ -17,10 +17,6 @@ Gets or sets name of document in printer queue when document is printed. Default
 public string PrinterJobName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfViewer](../)

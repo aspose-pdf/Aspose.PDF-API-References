@@ -17,10 +17,6 @@ Gets/sets the value to determine whether created/modified field is required or n
 public Nullable<bool> Required { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormFieldOptions](../)

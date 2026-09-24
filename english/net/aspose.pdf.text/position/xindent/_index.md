@@ -17,10 +17,6 @@ Gets the X coordinate of the object
 public double XIndent { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Position](../)

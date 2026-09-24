@@ -17,10 +17,6 @@ Returns true if value is DateTime.
 public bool IsDateTime { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [XmpValue](../)

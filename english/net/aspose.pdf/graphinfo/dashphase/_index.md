@@ -17,10 +17,6 @@ Gets or sets a dash phase.
 public int DashPhase { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [GraphInfo](../)

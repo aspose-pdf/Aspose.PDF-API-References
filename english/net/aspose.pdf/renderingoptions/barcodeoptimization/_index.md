@@ -17,10 +17,6 @@ Gets or sets barcode optimization mode.
 public bool BarcodeOptimization { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

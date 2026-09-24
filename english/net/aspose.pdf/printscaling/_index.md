@@ -17,10 +17,10 @@ The page scaling option that shall be selected when a print dialog is displayed 
 public enum PrintScaling
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | AppDefault | `0` | The conforming reader's default print scaling. |
 | None | `1` | No page scaling. |
 

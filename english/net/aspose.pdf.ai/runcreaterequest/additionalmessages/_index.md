@@ -17,10 +17,6 @@ Gets or sets the additional messages to the thread before creating the run.
 public List<ThreadMessageCreateRequest> AdditionalMessages { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)>
-
 ### See Also
 
 * class [RunCreateRequest](../)

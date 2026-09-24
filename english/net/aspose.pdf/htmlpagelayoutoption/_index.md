@@ -17,10 +17,10 @@ Specifies flags that together other options determine sizes and layouts of pages
 public enum HtmlPageLayoutOption
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | Default value which indicates that the HtmlPageLayoutOption will not affect the sizes and layouts of pages. |
 | FitToWidestContentWidth | `3` | Indicates that the width of the page is determinated from the content size itself, not from the specified page width. |
 | ScaleToPageWidth | `256` | Indicates the content of the document will be scaled to fit the page. |

@@ -20,10 +20,6 @@ Zooming factor of the stamp. Allows to scale stamp.
 public double Zoom { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Stamp](../)

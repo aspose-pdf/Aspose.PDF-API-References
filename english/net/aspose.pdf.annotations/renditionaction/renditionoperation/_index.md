@@ -17,10 +17,6 @@ The operation to perform when the action is triggered.
 public RenditionOperation RenditionOperation { get; set; }
 ```
 
-### Property Value
-
-[RenditionOperation](../../../aspose.pdf.annotations/renditionoperation/)
-
 ### See Also
 
 * class [RenditionOperation](../../../aspose.pdf.annotations/renditionoperation/)

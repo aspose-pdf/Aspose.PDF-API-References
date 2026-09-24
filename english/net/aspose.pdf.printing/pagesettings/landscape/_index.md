@@ -17,10 +17,6 @@ Gets or sets a value indicating whether the page should be printed in landscape 
 public bool Landscape { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PageSettings](../)

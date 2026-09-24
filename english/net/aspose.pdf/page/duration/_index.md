@@ -18,10 +18,6 @@ Gets of set page display duration. This is time in seconds that page shall be di
 public double Duration { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Page](../)

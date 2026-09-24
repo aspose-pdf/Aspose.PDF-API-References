@@ -25,10 +25,6 @@ Many operations with font can't be executed if these operations are prohibited b
 public bool DisableFontLicenseVerifications { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

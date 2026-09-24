@@ -17,10 +17,6 @@ Gets or sets the width of the paper, in hundredths of an inch.
 public int Width { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PaperSize](../)

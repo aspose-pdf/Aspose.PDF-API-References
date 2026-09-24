@@ -17,10 +17,6 @@ If true then logical structure of the file is copied when concatenation is perfo
 public bool CopyLogicalStructure { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

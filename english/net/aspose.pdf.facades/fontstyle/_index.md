@@ -17,10 +17,10 @@ Enumerates 14 types of font.
 public enum FontStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Courier | `0` | Courier font. |
 | CourierBold | `1` | Bold Courier font. |
 | CourierOblique | `2` | Oblique Curier font. |

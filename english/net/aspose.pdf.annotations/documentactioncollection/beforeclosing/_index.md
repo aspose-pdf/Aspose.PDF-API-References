@@ -17,10 +17,6 @@ Gets or sets action that will be performed before documetn closing.
 public PdfAction BeforeClosing { get; set; }
 ```
 
-### Property Value
-
-[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-
 ### See Also
 
 * class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)

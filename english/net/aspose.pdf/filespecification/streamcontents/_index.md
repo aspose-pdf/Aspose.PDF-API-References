@@ -19,10 +19,6 @@ Gets contents of file as stream.
 public Stream StreamContents { get; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [FileSpecification](../)

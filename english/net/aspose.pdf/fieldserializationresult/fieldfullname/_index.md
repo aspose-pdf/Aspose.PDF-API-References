@@ -19,7 +19,7 @@ public string FieldFullName { get; }
 
 ### Property Value
 
-string
+The full name of the field.
 
 ### See Also
 

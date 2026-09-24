@@ -17,10 +17,6 @@ Gets or sets spellchaeck activiity status.
 public bool SpellCheck { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ComboBoxField](../)

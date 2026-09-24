@@ -17,10 +17,6 @@ Gets text representing desciption of the object.
 public string Subject { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [MarkupAnnotation](../)

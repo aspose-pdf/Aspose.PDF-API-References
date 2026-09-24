@@ -17,10 +17,6 @@ Points of the curve.
 public Point[] Points { get; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)[]
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

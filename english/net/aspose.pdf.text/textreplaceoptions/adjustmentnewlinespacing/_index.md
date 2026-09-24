@@ -18,10 +18,6 @@ Gets or sets value of line spacing that used if replace adjustment is forced to 
 public double AdjustmentNewLineSpacing { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [TextReplaceOptions](../)

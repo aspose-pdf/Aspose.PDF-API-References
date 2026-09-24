@@ -17,10 +17,6 @@ Gets or sets the identifier of the run step, which can be referenced in API endp
 public string Id { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunStepResponse](../)

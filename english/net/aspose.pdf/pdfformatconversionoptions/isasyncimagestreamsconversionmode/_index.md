@@ -17,10 +17,6 @@ Gets/sets run of image streams in async mode.
 public bool IsAsyncImageStreamsConversionMode { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../)

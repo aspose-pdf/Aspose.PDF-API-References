@@ -19,10 +19,6 @@ You cannot use the license for the version of assemblies with the assembly dates
 public DateTime SubscriptionExpiry { get; }
 ```
 
-### Property Value
-
-DateTime
-
 ### See Also
 
 * class [LicenseInfo](../)

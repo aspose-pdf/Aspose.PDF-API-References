@@ -17,10 +17,6 @@ Gets or sets the format to return the embeddings in. Can be either float or base
 public string EncodingFormat { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateEmbeddingRequest](../)

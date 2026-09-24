@@ -17,10 +17,6 @@ Gets or sets icon for rubber stamp.
 public StampIcon Icon { get; set; }
 ```
 
-### Property Value
-
-[StampIcon](../../../aspose.pdf.annotations/stampicon/)
-
 ### See Also
 
 * class [StampIcon](../../../aspose.pdf.annotations/stampicon/)

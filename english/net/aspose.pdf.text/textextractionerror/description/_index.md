@@ -17,10 +17,6 @@ Expanded description of the error.
 public string Description { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionError](../)

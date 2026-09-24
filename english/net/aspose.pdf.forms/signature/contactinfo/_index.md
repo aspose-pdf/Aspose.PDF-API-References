@@ -18,10 +18,6 @@ Information provided by the signer to enable a recipient to contact the signer
 public string ContactInfo { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Signature](../)

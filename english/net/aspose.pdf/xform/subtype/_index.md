@@ -17,10 +17,6 @@ Gets form Subtype.
 public string Subtype { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XForm](../)

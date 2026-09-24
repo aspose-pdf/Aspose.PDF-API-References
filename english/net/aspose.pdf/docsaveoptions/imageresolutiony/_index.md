@@ -17,10 +17,6 @@ Converted images Y resolution.
 public int ImageResolutionY { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [DocSaveOptions](../)

@@ -17,10 +17,6 @@ Path for temporary files.
 public string TempPath { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfSaveOptions](../)

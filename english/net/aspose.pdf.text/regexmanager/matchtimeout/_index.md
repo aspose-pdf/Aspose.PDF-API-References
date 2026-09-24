@@ -19,7 +19,7 @@ public TimeSpan MatchTimeout { get; set; }
 
 ### Property Value
 
-TimeSpan
+A `TimeSpan` representing the default timeout duration.
 
 ### See Also
 

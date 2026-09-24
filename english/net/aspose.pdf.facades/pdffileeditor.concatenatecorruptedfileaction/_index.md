@@ -17,10 +17,10 @@ Action performed when corrupted file was met in concatenation process.
 public enum ConcatenateCorruptedFileAction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | StopWithError | `0` | If corrupted file was met, then stop concatentation process and return error. |
 | ConcatenateIgnoringCorrupted | `1` | If corrupted file was met, then don't stop concatenation and don't process corrupted file.
  List of corrupted files is accessible in Failures property. |

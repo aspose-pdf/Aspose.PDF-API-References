@@ -17,10 +17,6 @@ Gets or sets the total number of bytes used by the files in the vector store.
 public Nullable<int> UsageBytes { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [VectorStoreResponse](../)

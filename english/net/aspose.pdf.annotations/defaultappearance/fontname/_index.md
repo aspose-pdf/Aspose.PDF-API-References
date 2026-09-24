@@ -17,10 +17,6 @@ Gets font name in the default appearance.
 public string FontName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DefaultAppearance](../)

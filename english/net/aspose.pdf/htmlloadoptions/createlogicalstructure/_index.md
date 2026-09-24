@@ -20,10 +20,6 @@ When set to , the logical structure of the document is created, which can improv
 public bool CreateLogicalStructure { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlLoadOptions](../)

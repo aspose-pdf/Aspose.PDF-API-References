@@ -18,10 +18,6 @@ Gets or sets a value indicating whether JavaScript and associated actions should
 public bool RemoveJavaScriptsAndActions { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../)

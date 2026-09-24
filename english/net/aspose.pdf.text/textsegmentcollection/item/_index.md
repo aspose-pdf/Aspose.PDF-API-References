@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public TextSegment Item { get; }
 ```
 
-### Property Value
-
-[TextSegment](../../../aspose.pdf.text/textsegment/)
-
 ### See Also
 
 * class [TextSegment](../../../aspose.pdf.text/textsegment/)

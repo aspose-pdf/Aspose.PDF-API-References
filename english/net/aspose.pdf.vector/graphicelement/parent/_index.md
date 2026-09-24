@@ -17,10 +17,6 @@ Gets the current [`XFormPlacement`](../../../aspose.pdf.vector/xformplacement/) 
 public XFormPlacement Parent { get; set; }
 ```
 
-### Property Value
-
-[XFormPlacement](../../../aspose.pdf.vector/xformplacement/)
-
 ### See Also
 
 * class [XFormPlacement](../../../aspose.pdf.vector/xformplacement/)

@@ -18,10 +18,6 @@ Gets or sets line ending style for line ending point.
 public LineEnding StartingStyle { get; set; }
 ```
 
-### Property Value
-
-[LineEnding](../../../aspose.pdf.annotations/lineending/)
-
 ### See Also
 
 * class [LineEnding](../../../aspose.pdf.annotations/lineending/)

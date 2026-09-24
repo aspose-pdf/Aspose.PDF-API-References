@@ -19,10 +19,6 @@ License number was added as embedded resource.
 public bool Embedded { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [License](../)

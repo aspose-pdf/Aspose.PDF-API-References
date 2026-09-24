@@ -17,10 +17,6 @@ Gets the namespace URI.
 public string NamespaceURI { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XmpPdfAExtensionSchemaDescription](../)

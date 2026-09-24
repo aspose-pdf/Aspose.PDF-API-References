@@ -18,10 +18,6 @@ If set, all field appearances will be regenerated before flattening. This option
 public bool UpdateAppearances { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Form.FlattenSettings](../)

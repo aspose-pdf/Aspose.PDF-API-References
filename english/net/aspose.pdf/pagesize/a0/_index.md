@@ -17,10 +17,6 @@ A0 size (1189x840 mm).
 public PageSize A0 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

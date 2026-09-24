@@ -17,10 +17,6 @@ Gets or sets caption text offset from its normal position.
 public Point CaptionOffset { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

@@ -17,10 +17,6 @@ Gets/sets the using of conversion of pdf page into intermidiate png file during 
 public bool UseIntermidiateImage { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfViewer](../)

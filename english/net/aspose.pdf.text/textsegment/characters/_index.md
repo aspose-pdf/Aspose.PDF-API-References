@@ -17,10 +17,6 @@ Gets collection of CharInfo objects that represent information on characters in 
 public CharInfoCollection Characters { get; }
 ```
 
-### Property Value
-
-[CharInfoCollection](../../../aspose.pdf.text/charinfocollection/)
-
 ### See Also
 
 * class [CharInfoCollection](../../../aspose.pdf.text/charinfocollection/)

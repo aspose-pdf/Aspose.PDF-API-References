@@ -17,10 +17,6 @@ Gets a system-defined color that has an ARGB value of \c \#FF7CFC00.
 public Color LawnGreen { get; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

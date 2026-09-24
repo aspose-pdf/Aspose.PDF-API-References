@@ -17,10 +17,6 @@ Gets PdfFormatConversionOptions object with default parameters
 public PdfFormatConversionOptions Default { get; }
 ```
 
-### Property Value
-
-[PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)
-
 ### See Also
 
 * class [PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)

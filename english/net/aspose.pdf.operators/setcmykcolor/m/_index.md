@@ -17,10 +17,6 @@ Gets or sets the magenta component.
 public double M { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCMYKColor](../)

@@ -20,10 +20,6 @@ Font name used by default for fonts which are absent on computer.
 public string DefaultFontName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfSaveOptions](../)

@@ -17,10 +17,6 @@ Gets or sets annotation border characteristics. `Border`
 public Border Border { get; set; }
 ```
 
-### Property Value
-
-[Border](../../../aspose.pdf.annotations/border/)
-
 ### See Also
 
 * class [Border](../../../aspose.pdf.annotations/border/)

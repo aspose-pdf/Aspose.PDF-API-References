@@ -17,10 +17,6 @@ Gets or sets the error information.
 public string ErrorMessage { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BaseResponse](../)

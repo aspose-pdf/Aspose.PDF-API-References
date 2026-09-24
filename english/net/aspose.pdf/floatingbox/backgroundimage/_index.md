@@ -17,10 +17,6 @@ Gets or sets background image for page (for generator only, not filled in when r
 public Image BackgroundImage { get; set; }
 ```
 
-### Property Value
-
-[Image](../../../aspose.pdf/image/)
-
 ### See Also
 
 * class [Image](../../../aspose.pdf/image/)

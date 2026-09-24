@@ -17,10 +17,6 @@ Style of field box.
 public BoxStyle Style { get; set; }
 ```
 
-### Property Value
-
-[BoxStyle](../../../aspose.pdf.forms/boxstyle/)
-
 ### See Also
 
 * class [BoxStyle](../../../aspose.pdf.forms/boxstyle/)

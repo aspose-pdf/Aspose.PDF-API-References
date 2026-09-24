@@ -17,10 +17,6 @@ Gets or sets the text content that is part of a message.
 public TextResponse Text { get; set; }
 ```
 
-### Property Value
-
-[TextResponse](../../../aspose.pdf.ai/textresponse/)
-
 ### See Also
 
 * class [TextResponse](../../../aspose.pdf.ai/textresponse/)

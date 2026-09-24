@@ -21,10 +21,6 @@ This property returns true if the collection item does not contain any values, i
 public bool IsEmpty { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [CollectionItem](../)

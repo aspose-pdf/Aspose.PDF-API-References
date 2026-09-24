@@ -17,10 +17,6 @@ Gets or sets a flag or stream specifying whether and how a poster image represen
 public bool Poster { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [MovieAnnotation](../)

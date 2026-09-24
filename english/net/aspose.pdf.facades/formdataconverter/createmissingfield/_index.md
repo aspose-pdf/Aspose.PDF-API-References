@@ -17,10 +17,6 @@ ConvertToDataTable will create required field if it does not exists in Table.
 public bool CreateMissingField { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FormDataConverter](../)

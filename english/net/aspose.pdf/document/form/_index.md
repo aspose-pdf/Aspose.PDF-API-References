@@ -17,10 +17,6 @@ Gets Acro Form of the document.
 public Form Form { get; }
 ```
 
-### Property Value
-
-[Form](../../../aspose.pdf.forms/form/)
-
 ### See Also
 
 * class [Form](../../../aspose.pdf.forms/form/)

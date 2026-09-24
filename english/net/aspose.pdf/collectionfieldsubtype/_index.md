@@ -17,10 +17,10 @@ Represents the subtype parameter of a field in a sceme collection.
 public enum CollectionFieldSubtype
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | None | `0` | The subtype is not defined. |
 | S | `1` | A text type. The field data shall be stored as a PDF text string. |
 | D | `2` | A date type. The field data shall be stored as a PDF date string. |

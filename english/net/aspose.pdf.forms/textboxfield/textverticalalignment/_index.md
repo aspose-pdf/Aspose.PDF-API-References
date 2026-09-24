@@ -17,10 +17,6 @@ Gets or sets text vertical alignment for annotation.
 public VerticalAlignment TextVerticalAlignment { get; set; }
 ```
 
-### Property Value
-
-[VerticalAlignment](../../../aspose.pdf/verticalalignment/)
-
 ### See Also
 
 * class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)

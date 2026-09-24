@@ -17,10 +17,6 @@ Action for objects that can not be converted
 public ConvertErrorAction ErrorAction { get; set; }
 ```
 
-### Property Value
-
-[ConvertErrorAction](../../../aspose.pdf/converterroraction/)
-
 ### See Also
 
 * class [ConvertErrorAction](../../../aspose.pdf/converterroraction/)

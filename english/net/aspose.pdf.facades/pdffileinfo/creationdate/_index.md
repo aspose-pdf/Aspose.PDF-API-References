@@ -17,10 +17,6 @@ Gets or sets the CreationDate information of PDF document.
 public string CreationDate { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

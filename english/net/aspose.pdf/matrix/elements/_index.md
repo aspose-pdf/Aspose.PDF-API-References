@@ -17,10 +17,6 @@ Elements of the matrix.
 public float[] Elements { get; }
 ```
 
-### Property Value
-
-float[]
-
 ### See Also
 
 * class [Matrix](../)

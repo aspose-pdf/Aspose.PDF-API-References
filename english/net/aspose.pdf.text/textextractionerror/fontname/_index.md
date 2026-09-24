@@ -17,10 +17,6 @@ Readable (internal) name of the Font object that is used for showing text that c
 public string FontName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionError](../)

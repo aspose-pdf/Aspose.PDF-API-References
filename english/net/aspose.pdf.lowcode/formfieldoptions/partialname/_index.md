@@ -17,10 +17,6 @@ Gets/sets the value to determine property PartialName for created/modified field
 public string PartialName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FormFieldOptions](../)

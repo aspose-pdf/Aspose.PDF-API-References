@@ -17,10 +17,10 @@ Specifies import format.
 public enum ImportFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Cgm | `1` | Computer Graphics Metafile format. |
 
 ### See Also

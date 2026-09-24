@@ -17,10 +17,6 @@ Gets or sets the printer resolution for the page.
 public PrinterResolution PrinterResolution { get; set; }
 ```
 
-### Property Value
-
-[PrinterResolution](../../../aspose.pdf.printing/printerresolution/)
-
 ### See Also
 
 * class [PrinterResolution](../../../aspose.pdf.printing/printerresolution/)

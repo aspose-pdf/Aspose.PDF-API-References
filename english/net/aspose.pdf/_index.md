@@ -32,7 +32,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [BatesNArtifact](./batesnartifact/) | Class describes Bates Numbering artifact. |
 | [BitmapInfo](./bitmapinfo/) | Object containing array of pixels and bitmap information. |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
-| [BoundsCheckableList<T>](./boundscheckablelist-1/) |  |
+| [BoundsCheckableList<T>](./boundscheckablelist-1/) | Represents BoundsCheckableList - wrapper around System.Collections.Generic.List. |
 | [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Represents an exception which occurs when an item doesn't fit within the given container dimensions. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [CdrLoadOptions](./cdrloadoptions/) | Class describes CDR load options. |
@@ -44,7 +44,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [Collection](./collection/) | Represents class for Collection(12.3.5 Collections). |
 | [CollectionField](./collectionfield/) | Represents a document collection schema field class. |
 | [CollectionItem](./collectionitem/) | Represents a collection item class. |
-| [CollectionItem.Value<T>](./collectionitem.value-1/) |  |
+| [CollectionItem.Value<T>](./collectionitem.value-1/) | Represents a class for a value of colection item. |
 | [CollectionSchema](./collectionschema/) | Represents a class that describes the "Schema" of a document collection. |
 | [Color](./color/) | Represents class for color value which can be expressed in different color space. |
 | [ColumnInfo](./columninfo/) | This class represents a columns info. |

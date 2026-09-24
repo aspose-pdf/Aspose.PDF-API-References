@@ -17,10 +17,6 @@ If this flag set to true and CompressImages is true images will be resized if im
 public bool ResizeImages { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ImageCompressionOptions](../)

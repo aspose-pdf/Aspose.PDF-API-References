@@ -17,10 +17,6 @@ Gets or sets the total vector store usage in bytes. Note that this may be differ
 public int UsageBytes { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [VectorStoreFileResponse](../)

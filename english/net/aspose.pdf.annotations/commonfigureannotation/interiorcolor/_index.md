@@ -17,10 +17,6 @@ Interior color with which to fill the annotation's rectangle or ellipse.
 public Color InteriorColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

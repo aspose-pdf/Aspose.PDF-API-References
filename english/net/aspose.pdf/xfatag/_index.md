@@ -17,10 +17,10 @@ The xfa stream tag
 public enum XfaTag
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Template | `0` | The template tag |
 | Datasets | `1` | The datasets tag |
 | Config | `2` | The config tag |

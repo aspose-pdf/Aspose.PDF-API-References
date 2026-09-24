@@ -17,10 +17,6 @@ Gets or sets the column span.
 public int ColSpan { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TableCellElement](../)

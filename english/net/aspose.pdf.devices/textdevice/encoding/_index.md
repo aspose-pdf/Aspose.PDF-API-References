@@ -17,10 +17,6 @@ Gets or sets encoding of extracted text.
 public Encoding Encoding { get; set; }
 ```
 
-### Property Value
-
-Encoding
-
 ### See Also
 
 * class [TextDevice](../)

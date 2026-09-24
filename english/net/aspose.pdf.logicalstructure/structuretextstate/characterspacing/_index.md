@@ -19,10 +19,6 @@ Can be null. Use null to inherit `CharacterSpacing` property from parent structu
 public Nullable<float> CharacterSpacing { get; set; }
 ```
 
-### Property Value
-
-Nullable<float>
-
 ### See Also
 
 * class [StructureTextState](../)

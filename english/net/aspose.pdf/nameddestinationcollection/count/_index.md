@@ -17,10 +17,6 @@ Count of named destinations.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [NamedDestinationCollection](../)

@@ -17,10 +17,6 @@ Gets rectangle of the HtmlFragment
 public RectangleF Rectangle { get; }
 ```
 
-### Property Value
-
-RectangleF
-
 ### See Also
 
 * class [HtmlFragment](../)

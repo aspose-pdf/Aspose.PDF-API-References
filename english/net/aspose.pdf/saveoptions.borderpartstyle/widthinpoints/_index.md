@@ -17,10 +17,6 @@ Represents border line's width in points. Must be number greater then zero.
 public int WidthInPoints { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [SaveOptions.BorderPartStyle](../)

@@ -17,10 +17,6 @@ Key (PDF name) of the Font object that is used for showing text that causes extr
 public string FontKey { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionError](../)

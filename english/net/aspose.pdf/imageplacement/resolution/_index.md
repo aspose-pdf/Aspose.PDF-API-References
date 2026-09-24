@@ -17,10 +17,6 @@ Gets resolution of the Image.
 public Resolution Resolution { get; }
 ```
 
-### Property Value
-
-[Resolution](../../../aspose.pdf.devices/resolution/)
-
 ### See Also
 
 * class [Resolution](../../../aspose.pdf.devices/resolution/)

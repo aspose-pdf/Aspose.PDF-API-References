@@ -17,10 +17,10 @@ Represents the status of the form field serialization.
 public enum FieldSerializationStatus
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Success | `0` | Indicates that the serialization was successful. |
 | Warning | `1` | Indicates that the serialization completed with warnings. |
 | Error | `2` | Indicates that the serialization encountered errors. |

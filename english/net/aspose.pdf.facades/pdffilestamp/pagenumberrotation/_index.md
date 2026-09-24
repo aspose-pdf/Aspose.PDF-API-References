@@ -17,10 +17,6 @@ Gets or sets rotation of page number. Rotation is in degrees. Default is 0.
 public float PageNumberRotation { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [PdfFileStamp](../)

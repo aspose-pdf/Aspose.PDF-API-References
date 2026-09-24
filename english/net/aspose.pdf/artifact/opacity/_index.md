@@ -17,10 +17,6 @@ Gets or sets opacity of the artifact. Possible values are in range 0..1.
 public double Opacity { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Artifact](../)

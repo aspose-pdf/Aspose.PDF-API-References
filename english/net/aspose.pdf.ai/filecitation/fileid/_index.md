@@ -17,10 +17,6 @@ Gets or sets the ID of the specific File the citation is from.
 public string FileId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileCitation](../)

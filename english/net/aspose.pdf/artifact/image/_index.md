@@ -17,10 +17,6 @@ Gets image of the artifact (if presents).
 public XImage Image { get; }
 ```
 
-### Property Value
-
-[XImage](../../../aspose.pdf/ximage/)
-
 ### See Also
 
 * class [XImage](../../../aspose.pdf/ximage/)

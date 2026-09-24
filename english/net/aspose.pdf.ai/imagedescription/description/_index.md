@@ -17,10 +17,6 @@ Gets or sets the description associated with the image.
 public string Description { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ImageDescription](../)

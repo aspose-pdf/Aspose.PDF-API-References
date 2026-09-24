@@ -17,10 +17,6 @@ product_version: "26.9.0"
 public NumberFormat Item { get; set; }
 ```
 
-### Property Value
-
-NumberFormat
-
 ### See Also
 
 * class [Measure.NumberFormatList](../)

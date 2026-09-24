@@ -19,10 +19,6 @@ Sets a bool value that indicates word wrap in AddText methods.
 public bool IsWordWrap { set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileMend](../)

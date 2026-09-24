@@ -17,10 +17,10 @@ Represents styles for drawing check in check box.
 public enum BoxStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Circle | `0` | Circle style. |
 | Check | `1` | Check style. |
 | Cross | `2` | Cross style. |

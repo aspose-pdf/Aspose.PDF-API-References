@@ -17,10 +17,6 @@ Gets access to TaggedPdf content.
 public ITaggedContent TaggedContent { get; }
 ```
 
-### Property Value
-
-[ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
-
 ## Examples
 
 The example demonstrates how to use tagged content for creating new document with header, paragraphs and images.

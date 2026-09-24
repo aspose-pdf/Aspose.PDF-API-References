@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the bottom margin.
 public double Bottom { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [MarginInfo](../)

@@ -19,7 +19,7 @@ public PDF3DContent Content { get; set; }
 
 ### Property Value
 
-[PDF3DContent](../../../aspose.pdf.annotations/pdf3dcontent/)
+The content.
 
 ### See Also
 

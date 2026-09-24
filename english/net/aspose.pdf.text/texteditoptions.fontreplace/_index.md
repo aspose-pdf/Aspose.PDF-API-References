@@ -17,10 +17,10 @@ Font replacement behavior.
 public enum FontReplace
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | No additional changes performed during font replacement. |
 | RemoveUnusedFonts | `1` | Fonts that become unused during font replacement will be removed from resulting document. |
 

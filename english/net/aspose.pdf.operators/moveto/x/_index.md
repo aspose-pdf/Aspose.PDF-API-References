@@ -17,10 +17,6 @@ X coordinate
 public double X { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [MoveTo](../)

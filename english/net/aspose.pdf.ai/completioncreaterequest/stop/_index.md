@@ -17,10 +17,6 @@ Gets or sets up to 4 sequences where the API will stop generating further tokens
 public List<string> Stop { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [CompletionCreateRequest](../)

@@ -17,10 +17,6 @@ Gets or sets the top-p value for nucleus sampling.
 public Nullable<double> TopP { get; set; }
 ```
 
-### Property Value
-
-Nullable<double>
-
 ### See Also
 
 * class [OpenAIAssistantCopilotOptionsBase](../)

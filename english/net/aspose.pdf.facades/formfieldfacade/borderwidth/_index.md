@@ -17,10 +17,6 @@ The width of a field border.
 public float BorderWidth { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [FormFieldFacade](../)

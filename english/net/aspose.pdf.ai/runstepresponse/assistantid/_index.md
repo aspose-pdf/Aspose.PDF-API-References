@@ -17,10 +17,6 @@ Gets or sets the ID of the assistant associated with the run step.
 public string AssistantId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunStepResponse](../)

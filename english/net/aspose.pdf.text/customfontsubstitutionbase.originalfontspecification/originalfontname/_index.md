@@ -17,10 +17,6 @@ Gets original font name.
 public string OriginalFontName { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CustomFontSubstitutionBase.OriginalFontSpecification](../)

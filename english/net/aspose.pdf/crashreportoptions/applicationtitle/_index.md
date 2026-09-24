@@ -17,10 +17,6 @@ Name of library where exception occured.
 public string ApplicationTitle { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CrashReportOptions](../)

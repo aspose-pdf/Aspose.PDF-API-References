@@ -17,10 +17,6 @@ Gets or sets style of the text in appearance. when text style is changed, text a
 public TextStyle TextStyle { get; set; }
 ```
 
-### Property Value
-
-[TextStyle](../../../aspose.pdf.comparison/textstyle/)
-
 ### See Also
 
 * class [TextStyle](../../../aspose.pdf.comparison/textstyle/)

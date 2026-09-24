@@ -18,10 +18,6 @@ Gets or sets a BlendingColorSpace value that defines a color space
 public BlendingColorSpace BlendingSpace { get; set; }
 ```
 
-### Property Value
-
-[BlendingColorSpace](../../../aspose.pdf.facades/blendingcolorspace/)
-
 ### See Also
 
 * class [BlendingColorSpace](../../../aspose.pdf.facades/blendingcolorspace/)

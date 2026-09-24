@@ -18,10 +18,6 @@ Gets or sets the system instructions that the assistant uses. The maximum length
 public string Instructions { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AssistantCreateRequest](../)

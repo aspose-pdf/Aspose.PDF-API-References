@@ -17,10 +17,6 @@ Allows to set order of field calculation.
 public IEnumerable<Field> CalculatedFields { set; }
 ```
 
-### Property Value
-
-[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[Field](../../../aspose.pdf.forms/field/)>
-
 ### See Also
 
 * class [Form](../)

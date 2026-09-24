@@ -19,10 +19,6 @@ Gets or sets the detail level of the image if specified by the user.
 public string ImageDetail { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../)

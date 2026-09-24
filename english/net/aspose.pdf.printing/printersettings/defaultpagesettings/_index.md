@@ -17,10 +17,6 @@ Gets the default page settings for this printer.
 public PageSettings DefaultPageSettings { get; }
 ```
 
-### Property Value
-
-[PageSettings](../../../aspose.pdf.printing/pagesettings/)
-
 ### See Also
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)

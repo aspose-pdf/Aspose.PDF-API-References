@@ -17,10 +17,6 @@ Gets or sets document title.
 public string Title { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [DocumentInfo](../)

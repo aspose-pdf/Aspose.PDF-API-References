@@ -19,7 +19,7 @@ public ElementList ChildElements { get; }
 
 ### Property Value
 
-[ElementList](../../../aspose.pdf.logicalstructure/elementlist/)
+Children collection of [`Element`](../../../aspose.pdf.structure/element/) objects.
 
 ### See Also
 

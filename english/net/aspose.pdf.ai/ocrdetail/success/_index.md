@@ -17,10 +17,6 @@ Indicates whether the OCR extraction for this specific page was successful.
 public bool Success { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OcrDetail](../)

@@ -17,10 +17,10 @@ Enumerates column adjustment types.
 public enum ColumnAdjustment
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Customized | `0` | Customized. |
 | AutoFitToContent | `1` | Auto fit to content. |
 | AutoFitToWindow | `2` | Auto fit to window. |

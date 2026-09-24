@@ -17,10 +17,6 @@ Gets name of artifact subtype. May be used if artifact subtype is not standard s
 public string CustomSubtype { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Artifact](../)

@@ -17,10 +17,6 @@ A number format array for measurement of the slope of a line.
 public NumberFormatList SlopeFormat { get; set; }
 ```
 
-### Property Value
-
-NumberFormatList
-
 ### See Also
 
 * class [Measure](../)

@@ -17,10 +17,6 @@ Gets the stream of current save target.
 public Stream Data { get; }
 ```
 
-### Property Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 ### See Also
 
 * class [StreamSaveTarget](../)

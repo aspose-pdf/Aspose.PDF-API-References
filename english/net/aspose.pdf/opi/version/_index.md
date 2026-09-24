@@ -17,10 +17,6 @@ Gets the version of OPI to which this dictionary refers.
 public string Version { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Opi](../)

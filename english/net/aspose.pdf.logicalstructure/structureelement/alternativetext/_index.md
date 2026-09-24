@@ -19,7 +19,7 @@ public string AlternativeText { get; set; }
 
 ### Property Value
 
-string
+Alternative text of the structure element.
 
 ### See Also
 

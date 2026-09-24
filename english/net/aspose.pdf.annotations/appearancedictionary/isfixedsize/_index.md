@@ -17,10 +17,6 @@ Gets a value indicating whether dictionary has a fixed size.
 public bool IsFixedSize { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [AppearanceDictionary](../)

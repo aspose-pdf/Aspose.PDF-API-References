@@ -17,10 +17,6 @@ If true actions will be copied from source documents. Defaulkt value : true.
 public bool KeepActions { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

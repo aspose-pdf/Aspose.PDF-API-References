@@ -20,10 +20,6 @@ Gets signature object.
 public Signature Signature { get; }
 ```
 
-### Property Value
-
-[Signature](../../../aspose.pdf.lowcode/signature/)
-
 ### See Also
 
 * class [Signature](../../../aspose.pdf.lowcode/signature/)

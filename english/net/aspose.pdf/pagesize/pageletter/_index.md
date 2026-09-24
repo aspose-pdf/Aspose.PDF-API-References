@@ -17,10 +17,6 @@ Letter size (279x216 mm).
 public PageSize PageLetter { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

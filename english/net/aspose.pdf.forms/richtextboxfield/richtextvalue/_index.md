@@ -17,10 +17,6 @@ Gets or sets rich text value.
 public string RichTextValue { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RichTextBoxField](../)

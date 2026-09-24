@@ -17,10 +17,6 @@ Gets collection of document.
 public Collection Collection { get; set; }
 ```
 
-### Property Value
-
-[Collection](../../../aspose.pdf/collection/)
-
 ### See Also
 
 * class [Collection](../../../aspose.pdf/collection/)

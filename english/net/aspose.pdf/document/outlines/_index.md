@@ -17,10 +17,6 @@ Gets document outlines.
 public OutlineCollection Outlines { get; }
 ```
 
-### Property Value
-
-[OutlineCollection](../../../aspose.pdf/outlinecollection/)
-
 ### See Also
 
 * class [OutlineCollection](../../../aspose.pdf/outlinecollection/)

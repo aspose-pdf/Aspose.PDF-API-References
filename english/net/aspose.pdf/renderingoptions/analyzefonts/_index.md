@@ -23,10 +23,6 @@ Replaces fonts as necessary to ensure all characters in the text can be displaye
 public bool AnalyzeFonts { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

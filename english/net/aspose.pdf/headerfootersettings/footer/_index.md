@@ -17,10 +17,6 @@ Gets or sets the footer settings.
 public Footer Footer { get; set; }
 ```
 
-### Property Value
-
-[Footer](../../../aspose.pdf/footer/)
-
 ### See Also
 
 * class [Footer](../../../aspose.pdf/footer/)

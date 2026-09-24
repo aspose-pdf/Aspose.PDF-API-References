@@ -17,10 +17,6 @@ Gets the collection of input source pairs (PDF source and corresponding JSON sou
 public IReadOnlyList<FormJsonImportSource> Inputs { get; }
 ```
 
-### Property Value
-
-IReadOnlyList<[FormJsonImportSource](../../../aspose.pdf.lowcode/formjsonimportsource/)>
-
 ### See Also
 
 * class [FormImporterJsonOptions](../)

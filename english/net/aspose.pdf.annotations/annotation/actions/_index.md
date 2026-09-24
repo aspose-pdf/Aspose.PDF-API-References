@@ -17,10 +17,6 @@ Gets list of annotatation actions.
 public PdfActionCollection Actions { get; }
 ```
 
-### Property Value
-
-[PdfActionCollection](../../../aspose.pdf.annotations/pdfactioncollection/)
-
 ### See Also
 
 * class [PdfActionCollection](../../../aspose.pdf.annotations/pdfactioncollection/)

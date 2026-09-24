@@ -19,10 +19,6 @@ Some PDF documents contain fonts which have different names in internal data.
 public bool CheckDifferentNamesInFontDictionaries { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfANonSpecificationFlags](../)

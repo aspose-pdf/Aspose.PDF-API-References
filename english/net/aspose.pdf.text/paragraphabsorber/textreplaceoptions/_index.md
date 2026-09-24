@@ -17,10 +17,6 @@ Gets or sets the TextReplaceOptions.
 public TextReplaceOptions TextReplaceOptions { get; set; }
 ```
 
-### Property Value
-
-[TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
-
 ### See Also
 
 * class [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)

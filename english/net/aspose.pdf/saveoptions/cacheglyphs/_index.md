@@ -18,10 +18,6 @@ Gets or sets boolean value which indicates if will font glyphs be cached while p
 public bool CacheGlyphs { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [SaveOptions](../)

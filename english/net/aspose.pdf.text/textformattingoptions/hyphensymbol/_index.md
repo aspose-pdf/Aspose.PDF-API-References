@@ -19,10 +19,6 @@ To eliminate hyphen drawing (with wrapping procedure still in place) please set 
 public string HyphenSymbol { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextFormattingOptions](../)

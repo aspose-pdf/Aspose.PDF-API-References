@@ -17,10 +17,6 @@ Gets or sets an action that will be done after replace of text fragment to more 
 public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }
 ```
 
-### Property Value
-
-ReplaceAdjustment
-
 ### See Also
 
 * class [TextReplaceOptions](../)

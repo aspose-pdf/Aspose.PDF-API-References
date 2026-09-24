@@ -17,10 +17,6 @@ Gets/sets the value to determine property MaxLen for modified field (if will be 
 public Nullable<int> MaxLen { get; set; }
 ```
 
-### Property Value
-
-Nullable<int>
-
 ### See Also
 
 * class [FormTextBoxFieldSetOptions](../)

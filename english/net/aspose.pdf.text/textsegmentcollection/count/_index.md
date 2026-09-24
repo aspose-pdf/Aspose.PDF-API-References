@@ -17,10 +17,6 @@ Gets the number of [`TextSegment`](../../../aspose.pdf.text/textsegment/) object
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TextSegmentCollection](../)

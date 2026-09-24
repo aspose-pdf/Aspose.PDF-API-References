@@ -19,10 +19,6 @@ Can be null. Use null to inherit `LineSpacing` property from parent structure el
 public Nullable<float> LineSpacing { get; set; }
 ```
 
-### Property Value
-
-Nullable<float>
-
 ### See Also
 
 * class [StructureTextState](../)

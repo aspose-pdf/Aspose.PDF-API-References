@@ -17,10 +17,6 @@ Gets a value indicating whether access to the Aspose.Pdf.Annotations.AnnotationC
 public bool IsSynchronized { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [AnnotationCollection](../)

@@ -18,10 +18,6 @@ Set true if you need inserting of blank column as the first column of worksheet.
 public bool InsertBlankColumnAtFirst { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [ExcelSaveOptions](../)

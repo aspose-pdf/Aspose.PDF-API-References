@@ -17,10 +17,6 @@ Gets height of the image.
 public int Height { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [XImage](../)

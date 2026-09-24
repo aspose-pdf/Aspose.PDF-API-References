@@ -20,7 +20,8 @@ public string Context { get; }
 
 ### Property Value
 
-string
+A string representing the header context (e.g. "# Introduction ## Architecture"),
+ or null if no structural context is available.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets or sets the specification of the file in which the destination is located.
 public FileSpecification File { get; set; }
 ```
 
-### Property Value
-
-[FileSpecification](../../../aspose.pdf/filespecification/)
-
 ### See Also
 
 * class [FileSpecification](../../../aspose.pdf/filespecification/)

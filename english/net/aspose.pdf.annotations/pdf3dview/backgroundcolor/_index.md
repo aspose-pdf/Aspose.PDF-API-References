@@ -19,7 +19,7 @@ public Color BackGroundColor { get; set; }
 
 ### Property Value
 
-[Color](../../../aspose.pdf/color/)
+The color of the back ground of view.
 
 ### See Also
 

@@ -17,10 +17,6 @@ Gets or sets the text of the message.
 public string Value { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextResponse](../)

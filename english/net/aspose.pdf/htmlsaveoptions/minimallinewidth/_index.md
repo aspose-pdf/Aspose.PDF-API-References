@@ -19,10 +19,6 @@ This attribute sets minimal width of graphic path line.
 public float MinimalLineWidth { get; set; }
 ```
 
-### Property Value
-
-float
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

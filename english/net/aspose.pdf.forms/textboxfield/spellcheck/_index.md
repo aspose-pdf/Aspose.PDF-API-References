@@ -17,10 +17,6 @@ Gets or sets spellcheck flag for field. If true field shall be spell checked.
 public bool SpellCheck { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [TextBoxField](../)

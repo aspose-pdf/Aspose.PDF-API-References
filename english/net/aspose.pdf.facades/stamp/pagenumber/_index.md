@@ -17,10 +17,6 @@ Gets or sets page number.
 public int PageNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Stamp](../)

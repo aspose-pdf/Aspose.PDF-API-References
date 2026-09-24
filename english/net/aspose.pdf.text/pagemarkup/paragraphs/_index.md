@@ -17,10 +17,6 @@ Gets collection of [`MarkupParagraph`](../../../aspose.pdf.text/markupparagraph/
 public List<MarkupParagraph> Paragraphs { get; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[MarkupParagraph](../../../aspose.pdf.text/markupparagraph/)>
-
 ### See Also
 
 * class [PageMarkup](../)

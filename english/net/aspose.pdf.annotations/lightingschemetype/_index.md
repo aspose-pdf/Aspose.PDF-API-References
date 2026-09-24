@@ -17,10 +17,10 @@ Enum LightingSchemeType: set of lighting scheme types.
 public enum LightingSchemeType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Artwork | `0` | The "Artwork" lighting scheme. |
 | None | `1` | The "None" lighting scheme. |
 | White | `2` | The "White" lighting scheme. |

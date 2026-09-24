@@ -17,10 +17,6 @@ B5 size (250x176 mm).
 public PageSize B5 { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

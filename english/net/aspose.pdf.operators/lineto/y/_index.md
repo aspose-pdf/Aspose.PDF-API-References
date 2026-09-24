@@ -17,10 +17,6 @@ Y coordinate of line point.
 public double Y { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [LineTo](../)

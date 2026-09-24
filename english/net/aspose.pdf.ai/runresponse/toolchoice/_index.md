@@ -22,10 +22,6 @@ Gets or sets which (if any) tool is called by the model. none means the model wi
 public string ToolChoice { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [RunResponse](../)

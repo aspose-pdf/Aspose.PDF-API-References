@@ -17,10 +17,6 @@ A number format array for measurement of change along the y axis.
 public NumberFormatList YFormat { get; set; }
 ```
 
-### Property Value
-
-NumberFormatList
-
 ### See Also
 
 * class [Measure](../)

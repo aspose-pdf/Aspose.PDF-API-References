@@ -17,10 +17,6 @@ ExportFromData will clear table before data export.
 public bool ClearTableBeforeExport { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [FormDataConverter](../)

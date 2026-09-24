@@ -17,10 +17,6 @@ Gets or sets flag to manage signature fields sanitization. Enabled by default.
 public bool EnableSignatureSanitization { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Document](../)

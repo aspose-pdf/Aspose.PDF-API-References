@@ -17,10 +17,6 @@ If true, duplicate outlines are merged.
 public bool MergeDuplicateOutlines { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileEditor](../)

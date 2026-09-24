@@ -17,10 +17,6 @@ Gets XForm of the stamp.
 public XForm Form { get; }
 ```
 
-### Property Value
-
-[XForm](../../../aspose.pdf/xform/)
-
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)

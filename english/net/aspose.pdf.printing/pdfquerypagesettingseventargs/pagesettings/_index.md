@@ -17,10 +17,6 @@ Gets or sets the page settings for the page to be printed.
 public PageSettings PageSettings { get; set; }
 ```
 
-### Property Value
-
-[PageSettings](../../../aspose.pdf.printing/pagesettings/)
-
 ### See Also
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)

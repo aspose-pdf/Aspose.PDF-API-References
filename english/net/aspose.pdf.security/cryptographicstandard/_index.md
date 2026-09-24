@@ -17,10 +17,10 @@ Represents the available cryptographic standards for securing PDF documents.
 public enum CryptographicStandard
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Pkcs1 | `0` | Public-Key Cryptography Standards (PKCS) #1 |
 | Pkcs7 | `1` | Public-Key Cryptography Standards (PKCS) #7 |
 | Rfc3161 | `2` | Public Key Infrastructure Time-Stamp Protocol (TSP, rfc3161). |

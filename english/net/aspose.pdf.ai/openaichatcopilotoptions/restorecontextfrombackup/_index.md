@@ -17,10 +17,6 @@ Gets or sets a value indicating whether to restore the context from backup.
 public bool RestoreContextFromBackup { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [OpenAIChatCopilotOptions](../)

@@ -17,10 +17,10 @@ Enumeration describes possible types of Rendition.
 public enum RenditionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Media | `0` | Media rendition object. |
 | Selector | `1` | Selector rendition object. |
 | Undefined | `2` | Rendition type is undefined. |

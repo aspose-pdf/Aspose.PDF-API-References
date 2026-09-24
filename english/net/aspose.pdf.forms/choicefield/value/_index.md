@@ -17,10 +17,6 @@ Gets or sets value of the field.
 public string Value { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [ChoiceField](../)

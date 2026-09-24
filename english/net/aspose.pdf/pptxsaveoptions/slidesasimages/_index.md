@@ -17,10 +17,6 @@ If set to true then all the content is recognized as images (one per page)
 public bool SlidesAsImages { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PptxSaveOptions](../)

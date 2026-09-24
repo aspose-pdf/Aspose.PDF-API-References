@@ -17,10 +17,6 @@ Gets child elements collection.
 public ElementCollection Children { get; }
 ```
 
-### Property Value
-
-[ElementCollection](../../../aspose.pdf.structure/elementcollection/)
-
 ### See Also
 
 * class [ElementCollection](../../../aspose.pdf.structure/elementcollection/)

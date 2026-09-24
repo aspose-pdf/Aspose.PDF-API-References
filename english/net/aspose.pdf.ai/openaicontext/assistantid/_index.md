@@ -17,10 +17,6 @@ Gets or sets the Assistant ID.
 public string AssistantId { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OpenAIContext](../)

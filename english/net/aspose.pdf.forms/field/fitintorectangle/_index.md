@@ -17,10 +17,6 @@ If true then font size will reduced to fit text to specified rectangle.
 public bool FitIntoRectangle { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [Field](../)

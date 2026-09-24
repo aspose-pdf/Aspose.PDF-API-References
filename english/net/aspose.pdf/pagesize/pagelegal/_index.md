@@ -17,10 +17,6 @@ Legal size (356x216 mm).
 public PageSize PageLegal { get; }
 ```
 
-### Property Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
-
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

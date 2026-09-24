@@ -18,10 +18,6 @@ Gets or sets tab order of the page.
 public TabOrder TabOrder { get; set; }
 ```
 
-### Property Value
-
-[TabOrder](../../../aspose.pdf/taborder/)
-
 ### See Also
 
 * class [TabOrder](../../../aspose.pdf/taborder/)

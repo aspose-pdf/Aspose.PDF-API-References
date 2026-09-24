@@ -17,10 +17,6 @@ Gets image output height.
 public int Height { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [TiffDevice](../)

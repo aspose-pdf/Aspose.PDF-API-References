@@ -19,7 +19,7 @@ public XmpFieldType FieldType { get; }
 
 ### Property Value
 
-[XmpFieldType](../../../aspose.pdf/xmpfieldtype/)
+The type of the field.
 
 ### See Also
 

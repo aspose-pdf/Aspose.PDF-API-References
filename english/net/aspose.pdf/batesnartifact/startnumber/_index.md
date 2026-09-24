@@ -18,10 +18,6 @@ Gets or sets the starting number for Bates numbering.
 public int StartNumber { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [BatesNArtifact](../)

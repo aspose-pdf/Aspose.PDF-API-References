@@ -17,10 +17,6 @@ Gets or sets name of the file system.
 public string FileSystem { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [FileSpecification](../)

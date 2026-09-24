@@ -17,10 +17,10 @@ The comparison mode enumeration.
 public enum ComparisonMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Normal | `0` | Normal mode.
  Only spaces within text fragments are taken into account (depending on the way the document is generated.) |
 | IgnoreSpaces | `1` | All spaces are ignored. Changes are sought only in words. |

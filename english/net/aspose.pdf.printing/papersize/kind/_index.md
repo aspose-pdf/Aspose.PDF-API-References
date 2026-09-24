@@ -17,10 +17,6 @@ Gets the type of paper.
 public PaperKind Kind { get; }
 ```
 
-### Property Value
-
-[PaperKind](../../../aspose.pdf.printing/paperkind/)
-
 ### See Also
 
 * class [PaperKind](../../../aspose.pdf.printing/paperkind/)

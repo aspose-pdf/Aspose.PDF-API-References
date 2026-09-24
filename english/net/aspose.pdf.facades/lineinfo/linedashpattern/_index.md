@@ -17,10 +17,6 @@ Gets or sets the dash pattern of a line.
 public int[] LineDashPattern { get; set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [LineInfo](../)

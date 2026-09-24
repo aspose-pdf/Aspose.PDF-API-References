@@ -17,10 +17,6 @@ Gets or sets the HTTP status code.
 public HttpStatusCode HttpStatusCode { get; set; }
 ```
 
-### Property Value
-
-HttpStatusCode
-
 ### See Also
 
 * class [BaseResponse](../)

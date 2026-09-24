@@ -17,10 +17,6 @@ Gets or sets index of selected item. Numbering of items is started from 1.
 public int Selected { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [RadioButtonField](../)

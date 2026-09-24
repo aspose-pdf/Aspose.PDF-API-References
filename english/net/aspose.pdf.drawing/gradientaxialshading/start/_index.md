@@ -17,10 +17,6 @@ Gets or sets start point.
 public Point Start { get; set; }
 ```
 
-### Property Value
-
-[Point](../../../aspose.pdf/point/)
-
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)

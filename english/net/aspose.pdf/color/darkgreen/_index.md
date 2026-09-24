@@ -17,10 +17,6 @@ Gets a system-defined color that has an ARGB value of \c \#FF006400.
 public Color DarkGreen { get; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

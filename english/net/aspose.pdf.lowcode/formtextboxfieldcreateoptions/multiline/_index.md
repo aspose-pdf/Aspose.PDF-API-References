@@ -17,10 +17,6 @@ Gets/sets the value to determine whether created TextBoxField is multiline or no
 public Nullable<bool> Multiline { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormTextBoxFieldCreateOptions](../)

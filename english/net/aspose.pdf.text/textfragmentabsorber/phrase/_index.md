@@ -17,10 +17,6 @@ Gets or sets phrase that the [`TextFragmentAbsorber`](../../../aspose.pdf.text/t
 public string Phrase { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextFragmentAbsorber](../)

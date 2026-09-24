@@ -17,10 +17,6 @@ Upper-right vertical coordinate of bounding rectangle.
 public double Ury { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetCharWidthBoundingBox](../)

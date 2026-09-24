@@ -17,10 +17,6 @@ Gets raw data.
 public object Data { get; }
 ```
 
-### Property Value
-
-object
-
 ### See Also
 
 * class [ObjectResult](../)

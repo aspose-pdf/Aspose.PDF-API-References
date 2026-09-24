@@ -19,10 +19,6 @@ Gets or sets encoding format.
 public FileEncoding Encoding { get; set; }
 ```
 
-### Property Value
-
-[FileEncoding](../../../aspose.pdf/fileencoding/)
-
 ### See Also
 
 * class [FileEncoding](../../../aspose.pdf/fileencoding/)

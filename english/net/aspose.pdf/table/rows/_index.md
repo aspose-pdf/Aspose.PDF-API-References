@@ -17,10 +17,6 @@ Gets the rows of the table.
 public Rows Rows { get; }
 ```
 
-### Property Value
-
-[Rows](../../../aspose.pdf/rows/)
-
 ### See Also
 
 * class [Rows](../../../aspose.pdf/rows/)

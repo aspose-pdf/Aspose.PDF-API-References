@@ -17,10 +17,6 @@ Sets visual attributes of the field.
 public FormFieldFacade Facade { get; set; }
 ```
 
-### Property Value
-
-[FormFieldFacade](../../../aspose.pdf.facades/formfieldfacade/)
-
 ### See Also
 
 * class [FormFieldFacade](../../../aspose.pdf.facades/formfieldfacade/)

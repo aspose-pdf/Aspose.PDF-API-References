@@ -17,10 +17,6 @@ Gets or sets the resolution value of the resulting images.
 public int OutputResolution { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [PdfToImageOptions](../)

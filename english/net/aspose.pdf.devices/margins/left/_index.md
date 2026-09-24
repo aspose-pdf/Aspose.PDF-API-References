@@ -19,7 +19,7 @@ public int Left { get; set; }
 
 ### Property Value
 
-int
+The left.
 
 ### See Also
 

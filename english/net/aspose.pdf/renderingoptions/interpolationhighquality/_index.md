@@ -17,10 +17,6 @@ Gets or sets hiqh quality mode for interpolation.
 public bool InterpolationHighQuality { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [RenderingOptions](../)

@@ -19,10 +19,6 @@ Indicates that full font will be saved, supports only True Type Fonts.
 public bool SaveFullFont { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlSaveOptions](../)

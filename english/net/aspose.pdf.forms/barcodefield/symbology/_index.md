@@ -18,10 +18,6 @@ Specifies which barcode or glyph technology is to be used on this annotation,
 public Symbology Symbology { get; }
 ```
 
-### Property Value
-
-[Symbology](../../../aspose.pdf.forms/symbology/)
-
 ### See Also
 
 * class [Symbology](../../../aspose.pdf.forms/symbology/)

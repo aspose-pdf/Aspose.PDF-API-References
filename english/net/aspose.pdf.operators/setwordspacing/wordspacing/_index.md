@@ -17,10 +17,6 @@ Gets or sets the word spacing.
 public double WordSpacing { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [SetWordSpacing](../)

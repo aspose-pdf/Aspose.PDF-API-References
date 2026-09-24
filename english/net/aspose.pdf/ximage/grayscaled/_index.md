@@ -17,10 +17,6 @@ Gets grayscaled version of image.
 public Image Grayscaled { get; }
 ```
 
-### Property Value
-
-[Image](../../../aspose.pdf/image/)
-
 ### See Also
 
 * class [Image](../../../aspose.pdf/image/)

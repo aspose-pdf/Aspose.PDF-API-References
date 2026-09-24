@@ -17,10 +17,6 @@ Gets/sets the value to determine property Checked for modified field (if will be
 public Nullable<bool> Checked { get; set; }
 ```
 
-### Property Value
-
-Nullable<bool>
-
 ### See Also
 
 * class [FormCheckBoxFieldSetOptions](../)

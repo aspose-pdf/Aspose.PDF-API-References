@@ -17,10 +17,6 @@ Specifies maximum resolution of images. If image has higher resolition it will b
 public int MaxResoultion { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OptimizationOptions](../)

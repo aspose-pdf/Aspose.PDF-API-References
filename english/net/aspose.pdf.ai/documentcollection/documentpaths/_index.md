@@ -17,10 +17,6 @@ Gets or sets the collection of document paths to be processed.
 public List<string> DocumentPaths { get; set; }
 ```
 
-### Property Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 ### See Also
 
 * class [DocumentCollection](../)

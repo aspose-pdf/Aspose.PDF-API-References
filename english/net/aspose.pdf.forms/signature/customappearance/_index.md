@@ -17,10 +17,6 @@ Gets/sets the custom appearance.
 public SignatureCustomAppearance CustomAppearance { get; set; }
 ```
 
-### Property Value
-
-[SignatureCustomAppearance](../../../aspose.pdf.forms/signaturecustomappearance/)
-
 ### See Also
 
 * class [SignatureCustomAppearance](../../../aspose.pdf.forms/signaturecustomappearance/)

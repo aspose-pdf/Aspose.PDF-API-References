@@ -17,10 +17,6 @@ Text showing operator that causes text extraction error.
 public string OperatorString { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextExtractionErrorLocation](../)

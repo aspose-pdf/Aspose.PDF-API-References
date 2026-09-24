@@ -17,10 +17,6 @@ Gets or sets default appearance of the form (object which describes default font
 public DefaultAppearance DefaultAppearance { get; set; }
 ```
 
-### Property Value
-
-[DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
-
 ### See Also
 
 * class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)

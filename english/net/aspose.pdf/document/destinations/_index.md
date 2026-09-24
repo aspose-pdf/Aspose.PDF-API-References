@@ -18,10 +18,6 @@ Gets the collection of destinations.
 public DestinationCollection Destinations { get; }
 ```
 
-### Property Value
-
-[DestinationCollection](../../../aspose.pdf/destinationcollection/)
-
 ### See Also
 
 * class [DestinationCollection](../../../aspose.pdf/destinationcollection/)

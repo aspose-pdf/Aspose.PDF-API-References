@@ -17,10 +17,6 @@ IDocumentFontUtilities instance
 public IDocumentFontUtilities FontUtilities { get; }
 ```
 
-### Property Value
-
-IDocumentFontUtilities
-
 ### See Also
 
 * class [Document](../)

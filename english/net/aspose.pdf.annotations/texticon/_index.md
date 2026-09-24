@@ -17,10 +17,10 @@ Enumerates the icons to be used in displaying the annotation.
 public enum TextIcon
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Note | `0` | Note icon. |
 | Comment | `1` | Comment icon. |
 | Key | `2` | Key icon. |

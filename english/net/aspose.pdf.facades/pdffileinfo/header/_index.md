@@ -17,10 +17,6 @@ Gets or sets the customized information of PDF document.
 public Dictionary<string, string> Header { get; set; }
 ```
 
-### Property Value
-
-Dictionary<string, string>
-
 ### See Also
 
 * class [PdfFileInfo](../)

@@ -17,10 +17,6 @@ Gets or sets the range of pages for the header and footer settings.
 public PageRange PageRange { get; set; }
 ```
 
-### Property Value
-
-[PageRange](../../../aspose.pdf/pagerange/)
-
 ### See Also
 
 * class [PageRange](../../../aspose.pdf/pagerange/)

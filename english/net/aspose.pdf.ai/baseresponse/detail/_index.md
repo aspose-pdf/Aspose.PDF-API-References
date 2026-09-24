@@ -17,10 +17,6 @@ Gets or sets the response detail.
 public string Detail { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BaseResponse](../)

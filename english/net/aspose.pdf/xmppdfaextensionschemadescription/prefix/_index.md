@@ -17,10 +17,6 @@ Gets the prefix.
 public string Prefix { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [XmpPdfAExtensionSchemaDescription](../)

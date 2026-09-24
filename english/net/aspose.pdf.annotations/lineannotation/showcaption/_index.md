@@ -17,10 +17,6 @@ Gets or sets boolean flag which determinies is contents must be shown as caption
 public bool ShowCaption { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [LineAnnotation](../)

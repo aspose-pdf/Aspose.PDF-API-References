@@ -21,7 +21,7 @@ public ShapeType Shape { get; set; }
 
 ### Property Value
 
-[ShapeType](../../../aspose.pdf.devices/shapetype/)
+The type of the shape.
 
 ### See Also
 

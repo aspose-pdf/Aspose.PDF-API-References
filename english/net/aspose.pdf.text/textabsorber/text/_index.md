@@ -17,10 +17,6 @@ Gets extracted text that the [`TextAbsorber`](../../../aspose.pdf.text/textabsor
 public string Text { get; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [TextAbsorber](../)

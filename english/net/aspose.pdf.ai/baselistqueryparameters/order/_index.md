@@ -18,10 +18,6 @@ Gets or sets sort order by the created_at timestamp of the objects. asc for asce
 public string Order { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [BaseListQueryParameters](../)

@@ -17,10 +17,6 @@ Gets the number of elements contained in the [`DictionaryEditor`](../../../aspos
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [DictionaryEditor](../)

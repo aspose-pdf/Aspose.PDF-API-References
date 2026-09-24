@@ -19,10 +19,6 @@ Gets or sets the one big merged output file. One of the four output modes.
 public string OutputFileName { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [AutoFiller](../)

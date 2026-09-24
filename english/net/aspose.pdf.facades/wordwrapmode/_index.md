@@ -17,10 +17,10 @@ Defines word wrapping strategies
 public enum WordWrapMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Default | `0` | Default algorithm (allows breaking words in the middle) |
 | ByWords | `1` | Word wrapping only wraps complete words.
  If the complete word cannot be wrapped, attempts

@@ -17,10 +17,6 @@ Gets or sets the ID of an uploaded file that contains validation data.
 public string ValidationFile { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [CreateFineTuningJobResponse](../)

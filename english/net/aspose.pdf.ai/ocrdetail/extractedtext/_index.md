@@ -17,10 +17,6 @@ The extracted text content from the page. Null if Success is false or no text wa
 public string ExtractedText { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [OcrDetail](../)

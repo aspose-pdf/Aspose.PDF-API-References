@@ -17,10 +17,10 @@ enumerates possible types of saved external resources
 public enum NodeLevelResourceType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
-| --- | :---: | --- |
+| --- | --- | --- |
 | Image | `0` | Means that supplied resource is image |
 | Font | `1` | Means that supplied resource is font |
 

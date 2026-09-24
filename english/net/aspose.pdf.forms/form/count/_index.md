@@ -17,10 +17,6 @@ Gets number of the fields on this form.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Form](../)

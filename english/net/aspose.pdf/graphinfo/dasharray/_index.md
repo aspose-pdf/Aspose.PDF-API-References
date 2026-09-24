@@ -17,10 +17,6 @@ Gets or sets a dash array.
 public int[] DashArray { get; set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [GraphInfo](../)

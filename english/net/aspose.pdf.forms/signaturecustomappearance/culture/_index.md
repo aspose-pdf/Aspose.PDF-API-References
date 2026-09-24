@@ -17,10 +17,6 @@ Gets/sets culture info value. Default value: InvariantCulture.
 public CultureInfo Culture { get; set; }
 ```
 
-### Property Value
-
-CultureInfo
-
 ### See Also
 
 * class [SignatureCustomAppearance](../)

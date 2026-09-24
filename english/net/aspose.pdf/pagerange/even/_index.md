@@ -17,10 +17,6 @@ Gets or sets the setting for even pages.
 public byte Even { get; set; }
 ```
 
-### Property Value
-
-byte
-
 ### See Also
 
 * class [PageRange](../)

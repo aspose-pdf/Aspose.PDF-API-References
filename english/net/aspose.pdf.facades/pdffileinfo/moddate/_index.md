@@ -17,10 +17,6 @@ Gets or sets the ModDate date information of PDF document.
 public string ModDate { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [PdfFileInfo](../)

@@ -17,10 +17,6 @@ Gets or sets bookmark's hierarchy level.
 public int Level { get; set; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [Bookmark](../)

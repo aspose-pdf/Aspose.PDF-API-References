@@ -17,10 +17,6 @@ Gets the horizontal coordinate left positioned at the left edge of the window.
 public double Left { get; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [FitVExplicitDestination](../)

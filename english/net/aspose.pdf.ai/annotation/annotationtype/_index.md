@@ -17,10 +17,6 @@ Gets or sets the type of the annotation.
 public string AnnotationType { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [Annotation](../)

@@ -17,10 +17,6 @@ Gets or sets array of selected items. For multiselect list array contains more t
 public int[] SelectedItems { get; set; }
 ```
 
-### Property Value
-
-int[]
-
 ### See Also
 
 * class [ChoiceField](../)

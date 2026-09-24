@@ -17,10 +17,6 @@ Gets or sets the application to be launched or the document to be opened or prin
 public string File { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [LaunchAction](../)

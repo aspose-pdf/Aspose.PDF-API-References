@@ -17,10 +17,6 @@ Gets type of annotation.
 public AnnotationType AnnotationType { get; }
 ```
 
-### Property Value
-
-[AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-
 ### See Also
 
 * class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)

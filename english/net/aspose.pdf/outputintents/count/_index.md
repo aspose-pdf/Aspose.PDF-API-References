@@ -17,10 +17,6 @@ Gets the number of output intents contained in the collection.
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [OutputIntents](../)

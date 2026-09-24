@@ -17,10 +17,6 @@ Gets or sets a float value that indicates the x-coordinate of the center of the 
 public double PosX { get; set; }
 ```
 
-### Property Value
-
-double
-
 ### See Also
 
 * class [Arc](../)

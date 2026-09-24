@@ -17,10 +17,6 @@ Gets the LTV enabled flag.
 public bool IsLtvEnabled { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [PdfFileSignature](../)

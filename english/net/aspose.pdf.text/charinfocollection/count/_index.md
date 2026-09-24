@@ -17,10 +17,6 @@ Gets the number of [`CharInfo`](../../../aspose.pdf.text/charinfo/) object eleme
 public int Count { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [CharInfoCollection](../)

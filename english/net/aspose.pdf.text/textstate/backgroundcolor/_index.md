@@ -22,10 +22,6 @@ Note that the value is not preserved as a text characteristic within the documen
 public Color BackgroundColor { get; set; }
 ```
 
-### Property Value
-
-[Color](../../../aspose.pdf/color/)
-
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

@@ -17,10 +17,6 @@ Gets or sets is paragraph has default margin otherwise margin is 0
 public bool IsParagraphHasMargin { get; set; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [HtmlFragment](../)

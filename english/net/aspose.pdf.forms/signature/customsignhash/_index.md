@@ -19,10 +19,6 @@ The delegate for custom sign the document hash.
 public SignHash CustomSignHash { get; set; }
 ```
 
-### Property Value
-
-[SignHash](../../../aspose.pdf.forms/signhash/)
-
 ### See Also
 
 * class [SignHash](../../../aspose.pdf.forms/signhash/)

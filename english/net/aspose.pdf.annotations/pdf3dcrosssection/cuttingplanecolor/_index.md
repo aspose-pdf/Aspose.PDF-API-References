@@ -19,7 +19,7 @@ public Color CuttingPlaneColor { get; set; }
 
 ### Property Value
 
-[Color](../../../aspose.pdf/color/)
+The color of the cutting plane.
 
 ### See Also
 

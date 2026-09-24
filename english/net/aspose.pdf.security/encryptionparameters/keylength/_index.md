@@ -17,10 +17,6 @@ Gets the key length.
 public int KeyLength { get; }
 ```
 
-### Property Value
-
-int
-
 ### See Also
 
 * class [EncryptionParameters](../)

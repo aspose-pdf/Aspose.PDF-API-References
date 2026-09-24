@@ -17,10 +17,6 @@ Gets or sets the object type, which is always vector_store.file.
 public string Object { get; set; }
 ```
 
-### Property Value
-
-string
-
 ### See Also
 
 * class [VectorStoreFileResponse](../)

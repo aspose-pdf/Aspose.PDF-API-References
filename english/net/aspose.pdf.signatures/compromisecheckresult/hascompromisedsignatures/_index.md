@@ -18,10 +18,6 @@ Indicates whether there are any compromised digital signatures in the document.
 public bool HasCompromisedSignatures { get; }
 ```
 
-### Property Value
-
-bool
-
 ### See Also
 
 * class [CompromiseCheckResult](../)
