@@ -2,8 +2,8 @@
 title: "TableTRElement.DefaultCellPadding"
 linktitle: "DefaultCellPadding"
 articleTitle: "DefaultCellPadding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets default margin for row cells."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableTRElement property. Gets or sets default margin for row cells."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellpadding/"

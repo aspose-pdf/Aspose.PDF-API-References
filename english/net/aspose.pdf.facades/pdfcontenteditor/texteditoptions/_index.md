@@ -2,8 +2,8 @@
 title: "PdfContentEditor.TextEditOptions"
 linktitle: "TextEditOptions"
 articleTitle: "TextEditOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text edit options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor property. Gets or sets text edit options."
 type: docs
 weight: 670
 url: "/net/aspose.pdf.facades/pdfcontenteditor/texteditoptions/"

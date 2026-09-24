@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchemaDescription.NamespaceURI"
 linktitle: "NamespaceURI"
 articleTitle: "NamespaceURI"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the namespace URI."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchemaDescription property. Gets the namespace URI."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/"

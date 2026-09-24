@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler Interface"
 linktitle: "ICustomSecurityHandler"
 articleTitle: "ICustomSecurityHandler"
-second_title: "Aspose.PDF for .NET"
-description: "The custom security handler interface."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.ICustomSecurityHandler interface. The custom security handler interface."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.security/icustomsecurityhandler/"

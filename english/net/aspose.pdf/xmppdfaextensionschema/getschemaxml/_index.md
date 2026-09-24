@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.GetSchemaXml"
 linktitle: "GetSchemaXml"
 articleTitle: "GetSchemaXml"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the xml element (tag - li) that represents schema in xml tree."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema method. Returns the xml element (tag - li) that represents schema in xml tree."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/"

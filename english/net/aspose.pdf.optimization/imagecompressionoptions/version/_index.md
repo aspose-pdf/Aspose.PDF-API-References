@@ -2,8 +2,8 @@
 title: "ImageCompressionOptions.Version"
 linktitle: "Version"
 articleTitle: "Version"
-second_title: "Aspose.PDF for .NET"
-description: "Version of compression algorithm. Possible values are: 1. standard compression, 2. fast (improved compression which is faster then standard but may be applic..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageCompressionOptions property. Version of compression algorithm. Possible values are: 1. standard compression, 2. fast (improved compression which is fast..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/version/"

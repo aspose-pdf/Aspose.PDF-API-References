@@ -2,8 +2,8 @@
 title: "PrinterMarkAnnotation.IsOutsideOfPageBox"
 linktitle: "IsOutsideOfPageBox"
 articleTitle: "IsOutsideOfPageBox"
-second_title: "Aspose.PDF for .NET"
-description: "Checks whether the annotation rectangle is outside the respective page box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterMarkAnnotation method. Checks whether the annotation rectangle is outside the respective page box."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/printermarkannotation/isoutsideofpagebox/"

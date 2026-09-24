@@ -2,8 +2,8 @@
 title: "StructureAttribute.SetArrayValue"
 linktitle: "SetArrayValue"
 articleTitle: "SetArrayValue"
-second_title: "Aspose.PDF for .NET"
-description: "Sets Value Name Array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttribute method. Sets Value Name Array."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/"

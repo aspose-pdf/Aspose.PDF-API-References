@@ -2,8 +2,8 @@
 title: "PaperSize.Kind"
 linktitle: "Kind"
 articleTitle: "Kind"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the type of paper."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSize property. Gets the type of paper."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/papersize/kind/"

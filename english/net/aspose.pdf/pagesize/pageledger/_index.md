@@ -2,8 +2,8 @@
 title: "PageSize.PageLedger"
 linktitle: "PageLedger"
 articleTitle: "PageLedger"
-second_title: "Aspose.PDF for .NET"
-description: "Ledger size (432x279 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSize property. Ledger size (432x279 mm)."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/pagesize/pageledger/"

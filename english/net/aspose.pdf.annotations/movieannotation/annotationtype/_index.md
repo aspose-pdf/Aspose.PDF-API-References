@@ -2,8 +2,8 @@
 title: "MovieAnnotation.AnnotationType"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MovieAnnotation property. Gets type of annotation."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/movieannotation/annotationtype/"

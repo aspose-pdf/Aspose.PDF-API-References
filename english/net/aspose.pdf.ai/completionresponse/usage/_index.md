@@ -2,8 +2,8 @@
 title: "CompletionResponse.Usage"
 linktitle: "Usage"
 articleTitle: "Usage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the usage statistics for the completion request."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionResponse property. Gets or sets the usage statistics for the completion request."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/completionresponse/usage/"

@@ -2,8 +2,8 @@
 title: "PageRange Class"
 linktitle: "PageRange"
 articleTitle: "PageRange"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the range of pages for header and footer settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageRange class. Represents the range of pages for header and footer settings."
 type: docs
 weight: 2310
 url: "/net/aspose.pdf/pagerange/"

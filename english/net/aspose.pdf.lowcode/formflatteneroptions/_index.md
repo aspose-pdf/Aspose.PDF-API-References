@@ -2,8 +2,8 @@
 title: "FormFlattenerOptions Class"
 linktitle: "FormFlattenerOptions"
 articleTitle: "FormFlattenerOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Base class for option classes for flatten fields (not annotations) in document by FormFlattener plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormFlattenerOptions class. Base class for option classes for flatten fields (not annotations) in document by FormFlattener plugin."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.lowcode/formflatteneroptions/"

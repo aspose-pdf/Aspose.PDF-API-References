@@ -2,8 +2,8 @@
 title: "OfdLoadOptions.OfdLoadOptions"
 linktitle: "OfdLoadOptions"
 articleTitle: "OfdLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OfdLoadOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OfdLoadOptions constructor. Initializes a new instance of the OfdLoadOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ofdloadoptions/ofdloadoptions/"

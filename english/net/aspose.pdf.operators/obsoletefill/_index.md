@@ -2,8 +2,8 @@
 title: "ObsoleteFill Class"
 linktitle: "ObsoleteFill"
 articleTitle: "ObsoleteFill"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing F operator (fill path using nonzero winding rule)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.ObsoleteFill class. Class representing F operator (fill path using nonzero winding rule)."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.operators/obsoletefill/"

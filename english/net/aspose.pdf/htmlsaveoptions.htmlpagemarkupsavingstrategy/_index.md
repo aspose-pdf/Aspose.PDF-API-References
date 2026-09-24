@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlPageMarkupSavingStrategy Delegate"
 linktitle: "HtmlSaveOptions.HtmlPageMarkupSavingStrategy"
 articleTitle: "HtmlSaveOptions.HtmlPageMarkupSavingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Result of conversion can contain one or several HTML-pages ( that also can reference external files like images or fonts) You can assign to this property del..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.HtmlPageMarkupSavingStrategy delegate. Result of conversion can contain one or several HTML-pages ( that also can reference extern..."
 type: docs
 weight: 1310
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy/"

@@ -2,8 +2,8 @@
 title: "PdfViewer.HorizontalAlignment"
 linktitle: "HorizontalAlignment"
 articleTitle: "HorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value that indicates horizontal alignment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets or sets a value that indicates horizontal alignment"
 type: docs
 weight: 490
 url: "/net/aspose.pdf.facades/pdfviewer/horizontalalignment/"

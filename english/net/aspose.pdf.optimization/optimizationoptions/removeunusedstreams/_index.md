@@ -2,8 +2,8 @@
 title: "OptimizationOptions.RemoveUnusedStreams"
 linktitle: "RemoveUnusedStreams"
 articleTitle: "RemoveUnusedStreams"
-second_title: "Aspose.PDF for .NET"
-description: "If this flag set to true, every resource is checked on it's usage. If resource is never used, then resources is removed. This may decrease document size for ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizationOptions property. If this flag set to true, every resource is checked on it's usage. If resource is never used, then resources is removed. This m..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.optimization/optimizationoptions/removeunusedstreams/"

@@ -2,8 +2,8 @@
 title: "GraphicElementCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes the element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElementCollection method. Deletes the element."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.vector/graphicelementcollection/remove/"

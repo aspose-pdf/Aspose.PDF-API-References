@@ -2,8 +2,8 @@
 title: "AnnotationSelector.AnnotationSelector"
 linktitle: "AnnotationSelector"
 articleTitle: "AnnotationSelector"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the AnnotationSelector class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationSelector constructor. Initializes a new instance of the AnnotationSelector class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/annotationselector/annotationselector/"

@@ -2,8 +2,8 @@
 title: "AssistantCreateRequest Class"
 linktitle: "AssistantCreateRequest"
 articleTitle: "AssistantCreateRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Request object for creating an assistant."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.AssistantCreateRequest class. Request object for creating an assistant."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/assistantcreaterequest/"

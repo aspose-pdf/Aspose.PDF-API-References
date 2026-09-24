@@ -2,8 +2,8 @@
 title: "Table.ImportDataTable"
 linktitle: "ImportDataTable"
 articleTitle: "ImportDataTable"
-second_title: "Aspose.PDF for .NET"
-description: "Imports data from System.Data.DataTable into Aspose.Pdf.Table"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table method. Imports data from System.Data.DataTable into Aspose.Pdf.Table"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/table/importdatatable/"

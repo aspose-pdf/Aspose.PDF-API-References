@@ -2,8 +2,8 @@
 title: "HtmlLoadOptions.CustomLoaderOfExternalResources"
 linktitle: "CustomLoaderOfExternalResources"
 articleTitle: "CustomLoaderOfExternalResources"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method that will get requested resou..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions field. Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method that w..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/htmlloadoptions/customloaderofexternalresources/"

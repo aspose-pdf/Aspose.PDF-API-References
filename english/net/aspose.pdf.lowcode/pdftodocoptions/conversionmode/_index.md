@@ -2,8 +2,8 @@
 title: "PdfToDocOptions.ConversionMode"
 linktitle: "ConversionMode"
 articleTitle: "ConversionMode"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to control how a PDF document is converted into a word processing document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToDocOptions property. Allows to control how a PDF document is converted into a word processing document."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/pdftodocoptions/conversionmode/"

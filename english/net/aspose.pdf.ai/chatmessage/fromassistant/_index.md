@@ -2,8 +2,8 @@
 title: "ChatMessage.FromAssistant"
 linktitle: "FromAssistant"
 articleTitle: "FromAssistant"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new ChatMessage object representing an assistant message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChatMessage method. Creates a new ChatMessage object representing an assistant message."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/chatmessage/fromassistant/"

@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeValue.Percents"
 linktitle: "Percents"
 articleTitle: "Percents"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes value in percents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeValue method. Initializes value in percents."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/"

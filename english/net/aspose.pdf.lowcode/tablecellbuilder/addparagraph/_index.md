@@ -2,8 +2,8 @@
 title: "TableCellBuilder.AddParagraph"
 linktitle: "AddParagraph"
 articleTitle: "AddParagraph"
-second_title: "Aspose.PDF for .NET"
-description: "Add paragraphs to table cell."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellBuilder method. Add paragraphs to table cell."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tablecellbuilder/addparagraph/"

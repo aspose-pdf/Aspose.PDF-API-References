@@ -2,8 +2,8 @@
 title: "ObjectResult.IsString"
 linktitle: "IsString"
 articleTitle: "IsString"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the result is a string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ObjectResult property. Indicates whether the result is a string."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/objectresult/isstring/"

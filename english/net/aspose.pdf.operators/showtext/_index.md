@@ -2,8 +2,8 @@
 title: "ShowText Class"
 linktitle: "ShowText"
 articleTitle: "ShowText"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Tj operator (show text)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.ShowText class. Class representing Tj operator (show text)."
 type: docs
 weight: 800
 url: "/net/aspose.pdf.operators/showtext/"

@@ -2,8 +2,8 @@
 title: "XmpValue.IsField"
 linktitle: "IsField"
 articleTitle: "IsField"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if XmpValue is field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue property. Returns true if XmpValue is field."
 type: docs
 weight: 330
 url: "/net/aspose.pdf/xmpvalue/isfield/"

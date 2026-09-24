@@ -2,8 +2,8 @@
 title: "Element.Children"
 linktitle: "Children"
 articleTitle: "Children"
-second_title: "Aspose.PDF for .NET"
-description: "Gets child elements collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element property. Gets child elements collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.structure/element/children/"

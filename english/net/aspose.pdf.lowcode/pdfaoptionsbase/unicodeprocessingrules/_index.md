@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase.UnicodeProcessingRules"
 linktitle: "UnicodeProcessingRules"
 articleTitle: "UnicodeProcessingRules"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the rules for processing ToUnicode CMap tables and not linked to Unicode symbols during the PDF/A conversion process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets or sets the rules for processing ToUnicode CMap tables and not linked to Unicode symbols during the PDF/A conversion process."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/unicodeprocessingrules/"

@@ -2,8 +2,8 @@
 title: "FormEditor.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Starts the FormEditor processing with the specified parameters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Starts the FormEditor processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formeditor/process/"

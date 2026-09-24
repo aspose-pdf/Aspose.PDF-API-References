@@ -2,8 +2,8 @@
 title: "SoundSampleData.DefaultSamplingRate"
 linktitle: "DefaultSamplingRate"
 articleTitle: "DefaultSamplingRate"
-second_title: "Aspose.PDF for .NET"
-description: "Default value for SamplingRate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundSampleData field. Default value for SamplingRate."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/soundsampledata/defaultsamplingrate/"

@@ -2,8 +2,8 @@
 title: "DocumentInfo.Keywords"
 linktitle: "Keywords"
 articleTitle: "Keywords"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or set the keywords of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo property. Gets or set the keywords of the document."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/documentinfo/keywords/"

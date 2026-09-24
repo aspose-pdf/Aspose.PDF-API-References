@@ -2,8 +2,8 @@
 title: "AttributeName.FromNameAttributeKey"
 linktitle: "FromNameAttributeKey"
 articleTitle: "FromNameAttributeKey"
-second_title: "Aspose.PDF for .NET"
-description: "Gets attribute name for attribute key."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName method. Gets attribute name for attribute key."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/"

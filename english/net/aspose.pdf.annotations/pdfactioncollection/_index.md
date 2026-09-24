@@ -2,8 +2,8 @@
 title: "PdfActionCollection Class"
 linktitle: "PdfActionCollection"
 articleTitle: "PdfActionCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes list of actions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PdfActionCollection class. Class describes list of actions."
 type: docs
 weight: 900
 url: "/net/aspose.pdf.annotations/pdfactioncollection/"

@@ -2,8 +2,8 @@
 title: "ChatMessage.ToolCallId"
 linktitle: "ToolCallId"
 articleTitle: "ToolCallId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets tool call that this message is responding to."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChatMessage property. Gets or sets tool call that this message is responding to."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/chatmessage/toolcallid/"

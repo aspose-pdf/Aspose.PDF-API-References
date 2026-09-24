@@ -2,8 +2,8 @@
 title: "Signature.Location"
 linktitle: "Location"
 articleTitle: "Location"
-second_title: "Aspose.PDF for .NET"
-description: "The CPU host name or physical location of the signing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. The CPU host name or physical location of the signing."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.forms/signature/location/"

@@ -2,8 +2,8 @@
 title: "Merger.Merger"
 linktitle: "Merger"
 articleTitle: "Merger"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Merger class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Merger constructor. Initializes a new instance of the Merger class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/merger/merger/"

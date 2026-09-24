@@ -2,8 +2,8 @@
 title: "VerificationResult.State"
 linktitle: "State"
 articleTitle: "State"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the verification state of a digital signature in a PDF file. Indicates whether the signature is valid, invalid, or undefined."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VerificationResult property. Represents the verification state of a digital signature in a PDF file. Indicates whether the signature is valid, invalid, or un..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/verificationresult/state/"

@@ -2,8 +2,8 @@
 title: "AIClientBase.PollingTimeoutSeconds"
 linktitle: "PollingTimeoutSeconds"
 articleTitle: "PollingTimeoutSeconds"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the polling timeout in seconds."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientBase property. Gets or sets the polling timeout in seconds."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/"

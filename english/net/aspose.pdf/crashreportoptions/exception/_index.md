@@ -2,8 +2,8 @@
 title: "CrashReportOptions.Exception"
 linktitle: "Exception"
 articleTitle: "Exception"
-second_title: "Aspose.PDF for .NET"
-description: "Exception that crash report will be based on"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CrashReportOptions property. Exception that crash report will be based on"
 type: docs
 weight: 80
 url: "/net/aspose.pdf/crashreportoptions/exception/"

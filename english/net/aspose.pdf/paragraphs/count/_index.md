@@ -2,8 +2,8 @@
 title: "Paragraphs.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Get paragraphs count."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs property. Get paragraphs count."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/paragraphs/count/"

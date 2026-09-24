@@ -2,8 +2,8 @@
 title: "SvgExtractor Class"
 linktitle: "SvgExtractor"
 articleTitle: "SvgExtractor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to SVG-images extraction from page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Vector.SvgExtractor class. Represents a class to SVG-images extraction from page."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.vector/svgextractor/"

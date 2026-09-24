@@ -2,8 +2,8 @@
 title: "RunResponse.TruncationStrategy"
 linktitle: "TruncationStrategy"
 articleTitle: "TruncationStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the truncation strategy that controls for how a thread will be truncated prior to the run. Use this to control the initial context window of the..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the truncation strategy that controls for how a thread will be truncated prior to the run. Use this to control the initial..."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.ai/runresponse/truncationstrategy/"

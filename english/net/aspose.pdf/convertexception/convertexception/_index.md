@@ -2,8 +2,8 @@
 title: "ConvertException.ConvertException"
 linktitle: "ConvertException"
 articleTitle: "ConvertException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ConvertException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ConvertException constructor. Initializes a new instance of the ConvertException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/convertexception/convertexception/"

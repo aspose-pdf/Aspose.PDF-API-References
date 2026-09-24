@@ -2,8 +2,8 @@
 title: "SetColorSpace.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets color space name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorSpace property. Gets or sets color space name."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setcolorspace/name/"

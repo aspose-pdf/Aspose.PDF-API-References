@@ -2,8 +2,8 @@
 title: "Form.HasXfa"
 linktitle: "HasXfa"
 articleTitle: "HasXfa"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the document contains XFA form. This property was introduced to determine if should be used to remove the XFA form in cases w..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets a value indicating whether the document contains XFA form. This property was introduced to determine if should be used to remove the XFA ..."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.forms/form/hasxfa/"

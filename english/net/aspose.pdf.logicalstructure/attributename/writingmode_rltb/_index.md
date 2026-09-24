@@ -2,8 +2,8 @@
 title: "AttributeName.WritingMode_RlTb"
 linktitle: "WritingMode_RlTb"
 articleTitle: "WritingMode_RlTb"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute WritingMode: RlTb - Inline progression from right to left; block progression from top to bottom. This is the typical writing mode for Arabic and He..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute WritingMode: RlTb - Inline progression from right to left; block progression from top to bottom. This is the typical writing m..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/attributename/writingmode_rltb/"

@@ -2,8 +2,8 @@
 title: "BaseOperatorCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes operator from collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection method. Removes operator from collection."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/baseoperatorcollection/remove/"

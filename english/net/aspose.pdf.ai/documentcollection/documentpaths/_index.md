@@ -2,8 +2,8 @@
 title: "DocumentCollection.DocumentPaths"
 linktitle: "DocumentPaths"
 articleTitle: "DocumentPaths"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the collection of document paths to be processed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentCollection property. Gets or sets the collection of document paths to be processed."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/documentcollection/documentpaths/"

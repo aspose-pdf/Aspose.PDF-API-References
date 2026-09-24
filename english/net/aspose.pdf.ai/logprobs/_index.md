@@ -2,8 +2,8 @@
 title: "Logprobs Class"
 linktitle: "Logprobs"
 articleTitle: "Logprobs"
-second_title: "Aspose.PDF for .NET"
-description: "Represents log probability information for a choice."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Logprobs class. Represents log probability information for a choice."
 type: docs
 weight: 810
 url: "/net/aspose.pdf.ai/logprobs/"

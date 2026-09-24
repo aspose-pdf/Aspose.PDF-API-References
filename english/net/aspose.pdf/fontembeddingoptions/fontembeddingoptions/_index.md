@@ -2,8 +2,8 @@
 title: "FontEmbeddingOptions.FontEmbeddingOptions"
 linktitle: "FontEmbeddingOptions"
 articleTitle: "FontEmbeddingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FontEmbeddingOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontEmbeddingOptions constructor. Initializes a new instance of the FontEmbeddingOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/fontembeddingoptions/fontembeddingoptions/"

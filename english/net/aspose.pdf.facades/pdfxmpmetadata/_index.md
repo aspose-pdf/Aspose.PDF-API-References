@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata Class"
 linktitle: "PdfXmpMetadata"
 articleTitle: "PdfXmpMetadata"
-second_title: "Aspose.PDF for .NET"
-description: "Class for manipulation with XMP metadata."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfXmpMetadata class. Class for manipulation with XMP metadata."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/"

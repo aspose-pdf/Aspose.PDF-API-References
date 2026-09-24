@@ -2,8 +2,8 @@
 title: "OpenAIClient.CreateVectorStoreFileBatchAsync"
 linktitle: "CreateVectorStoreFileBatchAsync"
 articleTitle: "CreateVectorStoreFileBatchAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new vector store file batch asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Creates a new vector store file batch asynchronously."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaiclient/createvectorstorefilebatchasync/"

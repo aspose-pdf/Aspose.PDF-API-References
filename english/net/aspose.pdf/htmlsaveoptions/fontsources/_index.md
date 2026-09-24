@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.FontSources"
 linktitle: "FontSources"
 articleTitle: "FontSources"
-second_title: "Aspose.PDF for .NET"
-description: "Font sources of pre-saved fonts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Font sources of pre-saved fonts."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/htmlsaveoptions/fontsources/"

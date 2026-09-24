@@ -2,8 +2,8 @@
 title: "TextStamp Class"
 linktitle: "TextStamp"
 articleTitle: "TextStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Represents textual stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TextStamp class. Represents textual stamp."
 type: docs
 weight: 3030
 url: "/net/aspose.pdf/textstamp/"

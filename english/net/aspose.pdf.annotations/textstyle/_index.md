@@ -2,8 +2,8 @@
 title: "TextStyle Class"
 linktitle: "TextStyle"
 articleTitle: "TextStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents style of text in annotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.TextStyle class. Class represents style of text in annotation"
 type: docs
 weight: 1320
 url: "/net/aspose.pdf.annotations/textstyle/"

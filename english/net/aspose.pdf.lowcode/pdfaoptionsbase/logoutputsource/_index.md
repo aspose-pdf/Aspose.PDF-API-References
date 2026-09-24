@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase.LogOutputSource"
 linktitle: "LogOutputSource"
 articleTitle: "LogOutputSource"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the data source for the log output."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets or sets the data source for the log output."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/logoutputsource/"

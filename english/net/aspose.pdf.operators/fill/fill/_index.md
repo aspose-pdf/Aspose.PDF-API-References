@@ -2,8 +2,8 @@
 title: "Fill.Fill"
 linktitle: "Fill"
 articleTitle: "Fill"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Fill class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Fill constructor. Initializes a new instance of the Fill class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/fill/fill/"

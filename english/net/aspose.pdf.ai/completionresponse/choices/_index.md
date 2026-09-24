@@ -2,8 +2,8 @@
 title: "CompletionResponse.Choices"
 linktitle: "Choices"
 articleTitle: "Choices"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of chat completion choices. Can be more than one if n is greater than 1."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionResponse property. Gets or sets a list of chat completion choices. Can be more than one if n is greater than 1."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/completionresponse/choices/"

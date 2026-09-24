@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Ruby"
 linktitle: "Ruby"
 articleTitle: "Ruby"
-second_title: "Aspose.PDF for .NET"
-description: "(Ruby; PDF 1.5) A side-note (annotation) written in a smaller text size and placed adjacent to the base text to which it refers. A Ruby element may also cont..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Ruby; PDF 1.5) A side-note (annotation) written in a smaller text size and placed adjacent to the base text to which it refers...."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/ruby/"

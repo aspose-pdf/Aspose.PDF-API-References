@@ -2,8 +2,8 @@
 title: "PageSettings.PrinterSettings"
 linktitle: "PrinterSettings"
 articleTitle: "PrinterSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the associated printer settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings property. Gets or sets the associated printer settings."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.printing/pagesettings/printersettings/"

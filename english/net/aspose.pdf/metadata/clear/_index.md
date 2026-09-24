@@ -2,8 +2,8 @@
 title: "Metadata.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Clears metadata."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Clears metadata."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/metadata/clear/"

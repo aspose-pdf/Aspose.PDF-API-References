@@ -2,8 +2,8 @@
 title: "ExportFieldsOptions Class"
 linktitle: "ExportFieldsOptions"
 articleTitle: "ExportFieldsOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents base class of options for exporting form fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ExportFieldsOptions class. Represents base class of options for exporting form fields."
 type: docs
 weight: 810
 url: "/net/aspose.pdf/exportfieldsoptions/"

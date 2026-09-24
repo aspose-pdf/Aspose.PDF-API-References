@@ -2,8 +2,8 @@
 title: "Page.Rect"
 linktitle: "Rect"
 articleTitle: "Rect"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media..."
 type: docs
 weight: 430
 url: "/net/aspose.pdf/page/rect/"

@@ -2,8 +2,8 @@
 title: "MCRElement Class"
 linktitle: "MCRElement"
 articleTitle: "MCRElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents marked-content reference object in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.MCRElement class. Represents marked-content reference object in logical structure."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.logicalstructure/mcrelement/"

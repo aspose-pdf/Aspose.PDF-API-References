@@ -2,8 +2,8 @@
 title: "Tool.Tool"
 linktitle: "Tool"
 articleTitle: "Tool"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Tool class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Tool constructor. Initializes a new instance of the Tool class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/tool/tool/"

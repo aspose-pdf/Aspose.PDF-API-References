@@ -2,8 +2,8 @@
 title: "ColorBarAnnotation.MoveOutsideOfPageBox"
 linktitle: "MoveOutsideOfPageBox"
 articleTitle: "MoveOutsideOfPageBox"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColorBarAnnotation method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/colorbarannotation/moveoutsideofpagebox/"

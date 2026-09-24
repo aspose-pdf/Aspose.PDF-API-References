@@ -2,8 +2,8 @@
 title: "BorderStyle Enum"
 linktitle: "BorderStyle"
 articleTitle: "BorderStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Describes style of the annotation border."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.BorderStyle enum. Describes style of the annotation border."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/borderstyle/"

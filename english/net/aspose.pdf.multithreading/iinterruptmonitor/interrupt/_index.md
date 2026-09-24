@@ -2,8 +2,8 @@
 title: "IInterruptMonitor.Interrupt"
 linktitle: "Interrupt"
 articleTitle: "Interrupt"
-second_title: "Aspose.PDF for .NET"
-description: "Sends a request to interrupt operations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IInterruptMonitor method. Sends a request to interrupt operations."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.multithreading/iinterruptmonitor/interrupt/"

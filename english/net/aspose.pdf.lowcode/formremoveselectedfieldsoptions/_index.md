@@ -2,8 +2,8 @@
 title: "FormRemoveSelectedFieldsOptions Class"
 linktitle: "FormRemoveSelectedFieldsOptions"
 articleTitle: "FormRemoveSelectedFieldsOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for remove selected fields in document by plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormRemoveSelectedFieldsOptions class. Represents options for remove selected fields in document by plugin."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.lowcode/formremoveselectedfieldsoptions/"

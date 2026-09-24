@@ -2,8 +2,8 @@
 title: "PdfPageEditor.PageSize"
 linktitle: "PageSize"
 articleTitle: "PageSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the output file's page size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor property. Gets or sets the output file's page size."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfpageeditor/pagesize/"

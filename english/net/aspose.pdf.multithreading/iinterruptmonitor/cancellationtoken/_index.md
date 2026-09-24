@@ -2,8 +2,8 @@
 title: "IInterruptMonitor.CancellationToken"
 linktitle: "CancellationToken"
 articleTitle: "CancellationToken"
-second_title: "Aspose.PDF for .NET"
-description: "Monitor's cancellation token used for process interruption. By default each IInterruptMonitor generates its own cancellationSource"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IInterruptMonitor property. Monitor's cancellation token used for process interruption. By default each IInterruptMonitor generates its own cancellationSource"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/"

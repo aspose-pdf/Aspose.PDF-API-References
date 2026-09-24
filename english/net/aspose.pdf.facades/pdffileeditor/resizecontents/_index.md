@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ResizeContents"
 linktitle: "ResizeContents"
 articleTitle: "ResizeContents"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method."
 type: docs
 weight: 870
 url: "/net/aspose.pdf.facades/pdffileeditor/resizecontents/"

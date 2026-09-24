@@ -2,8 +2,8 @@
 title: "OutlineCollection.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether access to this collection is synchronized (thread safe)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineCollection property. Gets a value indicating whether access to this collection is synchronized (thread safe)."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/outlinecollection/issynchronized/"

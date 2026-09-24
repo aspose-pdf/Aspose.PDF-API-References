@@ -2,8 +2,8 @@
 title: "ColumnAdjustment Enum"
 linktitle: "ColumnAdjustment"
 articleTitle: "ColumnAdjustment"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates column adjustment types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ColumnAdjustment enum. Enumerates column adjustment types."
 type: docs
 weight: 400
 url: "/net/aspose.pdf/columnadjustment/"

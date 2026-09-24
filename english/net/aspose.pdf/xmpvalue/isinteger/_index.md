@@ -2,8 +2,8 @@
 title: "XmpValue.IsInteger"
 linktitle: "IsInteger"
 articleTitle: "IsInteger"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if value is integer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue property. Returns true if value is integer."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/xmpvalue/isinteger/"

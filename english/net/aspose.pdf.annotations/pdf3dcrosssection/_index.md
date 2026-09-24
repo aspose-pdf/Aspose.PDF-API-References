@@ -2,8 +2,8 @@
 title: "PDF3DCrossSection Class"
 linktitle: "PDF3DCrossSection"
 articleTitle: "PDF3DCrossSection"
-second_title: "Aspose.PDF for .NET"
-description: "Class PDF3DCrossSection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSection class. Class PDF3DCrossSection."
 type: docs
 weight: 800
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/"

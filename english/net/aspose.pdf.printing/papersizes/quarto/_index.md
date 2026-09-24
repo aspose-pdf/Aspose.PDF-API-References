@@ -2,8 +2,8 @@
 title: "PaperSizes.Quarto"
 linktitle: "Quarto"
 articleTitle: "Quarto"
-second_title: "Aspose.PDF for .NET"
-description: "Quarto paper (215 mm by 275 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Quarto paper (215 mm by 275 mm)."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.printing/papersizes/quarto/"

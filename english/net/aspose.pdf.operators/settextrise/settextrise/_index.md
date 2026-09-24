@@ -2,8 +2,8 @@
 title: "SetTextRise.SetTextRise"
 linktitle: "SetTextRise"
 articleTitle: "SetTextRise"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetTextRise class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextRise constructor. Initializes a new instance of the SetTextRise class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/settextrise/settextrise/"

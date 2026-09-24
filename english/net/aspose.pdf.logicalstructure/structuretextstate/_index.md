@@ -2,8 +2,8 @@
 title: "StructureTextState Class"
 linktitle: "StructureTextState"
 articleTitle: "StructureTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Represents text state settings for Text Structure Elements and TaggedContent (ITextElement, ITaggedContent)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.StructureTextState class. Represents text state settings for Text Structure Elements and TaggedContent (ITextElement, ITaggedCont..."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/"

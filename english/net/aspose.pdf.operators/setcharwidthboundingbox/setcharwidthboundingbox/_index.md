@@ -2,8 +2,8 @@
 title: "SetCharWidthBoundingBox.SetCharWidthBoundingBox"
 linktitle: "SetCharWidthBoundingBox"
 articleTitle: "SetCharWidthBoundingBox"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetCharWidthBoundingBox class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidthBoundingBox constructor. Initializes a new instance of the SetCharWidthBoundingBox class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/setcharwidthboundingbox/"

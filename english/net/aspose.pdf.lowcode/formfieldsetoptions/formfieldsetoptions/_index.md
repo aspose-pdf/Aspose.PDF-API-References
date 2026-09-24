@@ -2,8 +2,8 @@
 title: "FormFieldSetOptions.FormFieldSetOptions"
 linktitle: "FormFieldSetOptions"
 articleTitle: "FormFieldSetOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormFieldSetOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldSetOptions constructor. Initializes a new instance of the FormFieldSetOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formfieldsetoptions/formfieldsetoptions/"

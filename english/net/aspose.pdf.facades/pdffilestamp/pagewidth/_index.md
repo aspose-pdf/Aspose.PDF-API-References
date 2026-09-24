@@ -2,8 +2,8 @@
 title: "PdfFileStamp.PageWidth"
 linktitle: "PageWidth"
 articleTitle: "PageWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets width of first page in input file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp property. Gets width of first page in input file."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/pdffilestamp/pagewidth/"

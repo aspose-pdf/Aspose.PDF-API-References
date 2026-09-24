@@ -2,8 +2,8 @@
 title: "LicenseInfo.LicenseExpiry"
 linktitle: "LicenseExpiry"
 articleTitle: "LicenseExpiry"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the license expiry date."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LicenseInfo property. Gets the license expiry date."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/licenseinfo/licenseexpiry/"

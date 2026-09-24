@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Warichu"
 linktitle: "Warichu"
 articleTitle: "Warichu"
-second_title: "Aspose.PDF for .NET"
-description: "(Warichu; PDF 1.5) A comment or annotation in a smaller text size and formatted onto two smaller lines within the height of the containing text line and plac..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Warichu; PDF 1.5) A comment or annotation in a smaller text size and formatted onto two smaller lines within the height of the ..."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/warichu/"

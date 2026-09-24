@@ -2,8 +2,8 @@
 title: "TextExtractionOptions.TextExtractionOptions"
 linktitle: "TextExtractionOptions"
 articleTitle: "TextExtractionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextExtractionOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionOptions constructor. Initializes a new instance of the TextExtractionOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textextractionoptions/textextractionoptions/"

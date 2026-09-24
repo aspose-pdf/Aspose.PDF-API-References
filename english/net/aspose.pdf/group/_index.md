@@ -2,8 +2,8 @@
 title: "Group Class"
 linktitle: "Group"
 articleTitle: "Group"
-second_title: "Aspose.PDF for .NET"
-description: "A group attributes class specifying the attributes of the page's page group for use in the transparent imaging model."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Group class. A group attributes class specifying the attributes of the page's page group for use in the transparent imaging model."
 type: docs
 weight: 1020
 url: "/net/aspose.pdf/group/"

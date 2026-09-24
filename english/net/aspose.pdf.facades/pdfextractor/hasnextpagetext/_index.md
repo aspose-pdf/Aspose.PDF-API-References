@@ -2,8 +2,8 @@
 title: "PdfExtractor.HasNextPageText"
 linktitle: "HasNextPageText"
 articleTitle: "HasNextPageText"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates that whether can get more texts or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Indicates that whether can get more texts or not."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdfextractor/hasnextpagetext/"

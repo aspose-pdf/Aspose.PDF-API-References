@@ -2,8 +2,8 @@
 title: "ChatMessageResponse.ChatMessageResponse"
 linktitle: "ChatMessageResponse"
 articleTitle: "ChatMessageResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ChatMessageResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChatMessageResponse constructor. Initializes a new instance of the ChatMessageResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/chatmessageresponse/chatmessageresponse/"

@@ -2,8 +2,8 @@
 title: "AutoFiller.OutputStream"
 linktitle: "OutputStream"
 articleTitle: "OutputStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the OutputStream. One of four output modes. Its classical use case is Response.OutputStream. Please refer to the online demo."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller property. Gets or sets the OutputStream. One of four output modes. Its classical use case is Response.OutputStream. Please refer to the online demo."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/autofiller/outputstream/"

@@ -2,8 +2,8 @@
 title: "Usage Class"
 linktitle: "Usage"
 articleTitle: "Usage"
-second_title: "Aspose.PDF for .NET"
-description: "Represents usage statistics for a request."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Usage class. Represents usage statistics for a request."
 type: docs
 weight: 1340
 url: "/net/aspose.pdf.ai/usage/"

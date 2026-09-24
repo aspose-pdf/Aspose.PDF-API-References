@@ -2,8 +2,8 @@
 title: "TextSegment Class"
 linktitle: "TextSegment"
 articleTitle: "TextSegment"
-second_title: "Aspose.PDF for .NET"
-description: "Represents segment of Pdf text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextSegment class. Represents segment of Pdf text."
 type: docs
 weight: 670
 url: "/net/aspose.pdf.text/textsegment/"

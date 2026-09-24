@@ -2,8 +2,8 @@
 title: "RunStepResponse.RunStepType"
 linktitle: "RunStepType"
 articleTitle: "RunStepType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the type of run step, which can be either message_creation or tool_calls."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepResponse property. Gets or sets the type of run step, which can be either message_creation or tool_calls."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/runstepresponse/runsteptype/"

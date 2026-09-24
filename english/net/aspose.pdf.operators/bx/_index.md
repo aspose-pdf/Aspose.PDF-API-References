@@ -2,8 +2,8 @@
 title: "BX Class"
 linktitle: "BX"
 articleTitle: "BX"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing BX operator (begin compatibility section)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.BX class. Class representing BX operator (begin compatibility section)."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/bx/"

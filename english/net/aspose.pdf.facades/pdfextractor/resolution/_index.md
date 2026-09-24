@@ -2,8 +2,8 @@
 title: "PdfExtractor.Resolution"
 linktitle: "Resolution"
 articleTitle: "Resolution"
-second_title: "Aspose.PDF for .NET"
-description: "Set or gets resolution for extracted images. Default value is 150. Images which have greater resolution value are more clear. However increasing resolution v..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Set or gets resolution for extracted images. Default value is 150. Images which have greater resolution value are more clear. However ..."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdfextractor/resolution/"

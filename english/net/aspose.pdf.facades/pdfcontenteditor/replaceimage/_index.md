@@ -2,8 +2,8 @@
 title: "PdfContentEditor.ReplaceImage"
 linktitle: "ReplaceImage"
 articleTitle: "ReplaceImage"
-second_title: "Aspose.PDF for .NET"
-description: "Replaces the specified image on the specified page of PDF document with another image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Replaces the specified image on the specified page of PDF document with another image."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.facades/pdfcontenteditor/replaceimage/"

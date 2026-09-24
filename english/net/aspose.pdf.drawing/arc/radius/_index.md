@@ -2,8 +2,8 @@
 title: "Arc.Radius"
 linktitle: "Radius"
 articleTitle: "Radius"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the radius of the arc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Arc property. Gets or sets a float value that indicates the radius of the arc."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/arc/radius/"

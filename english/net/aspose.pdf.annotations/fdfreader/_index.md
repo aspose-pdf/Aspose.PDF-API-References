@@ -2,8 +2,8 @@
 title: "FdfReader Class"
 linktitle: "FdfReader"
 articleTitle: "FdfReader"
-second_title: "Aspose.PDF for .NET"
-description: "Class which performes reading of FDF format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FdfReader class. Class which performes reading of FDF format."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.annotations/fdfreader/"

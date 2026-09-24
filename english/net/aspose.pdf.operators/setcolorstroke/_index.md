@@ -2,8 +2,8 @@
 title: "SetColorStroke Class"
 linktitle: "SetColorStroke"
 articleTitle: "SetColorStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing SC operator set color for stroking color operators."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetColorStroke class. Class representing SC operator set color for stroking color operators."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.operators/setcolorstroke/"

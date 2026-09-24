@@ -2,8 +2,8 @@
 title: "AICopilotFactory Class"
 linktitle: "AICopilotFactory"
 articleTitle: "AICopilotFactory"
-second_title: "Aspose.PDF for .NET"
-description: "Factory class for creating different types of copilots."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.AICopilotFactory class. Factory class for creating different types of copilots."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/aicopilotfactory/"

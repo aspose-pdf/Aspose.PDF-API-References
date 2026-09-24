@@ -2,8 +2,8 @@
 title: "ColorBarAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor object to process the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColorBarAnnotation method. Accepts visitor object to process the annotation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/colorbarannotation/accept/"

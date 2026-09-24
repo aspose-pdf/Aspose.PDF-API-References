@@ -2,8 +2,8 @@
 title: "PdfAStandardVersion Enum"
 linktitle: "PdfAStandardVersion"
 articleTitle: "PdfAStandardVersion"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the PDF/A standard version for a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfAStandardVersion enum. Specifies the PDF/A standard version for a PDF document."
 type: docs
 weight: 610
 url: "/net/aspose.pdf.lowcode/pdfastandardversion/"

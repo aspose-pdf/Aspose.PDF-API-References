@@ -2,8 +2,8 @@
 title: "NamedDestination Class"
 linktitle: "NamedDestination"
 articleTitle: "NamedDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Instead of being defined directly with the explicit syntax, a destination may be referred to indirectly by means of a name object or a byte string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.NamedDestination class. Instead of being defined directly with the explicit syntax, a destination may be referred to indirectly by mea..."
 type: docs
 weight: 750
 url: "/net/aspose.pdf.annotations/nameddestination/"

@@ -2,8 +2,8 @@
 title: "GraphicsAbsorber Class"
 linktitle: "GraphicsAbsorber"
 articleTitle: "GraphicsAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an absorber object of graphics elements. Performs graphics search and provides access to search results via collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Vector.GraphicsAbsorber class. Represents an absorber object of graphics elements. Performs graphics search and provides access to search results ..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.vector/graphicsabsorber/"

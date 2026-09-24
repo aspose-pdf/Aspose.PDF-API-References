@@ -2,8 +2,8 @@
 title: "PdfConverter.GetNextImage"
 linktitle: "GetNextImage"
 articleTitle: "GetNextImage"
-second_title: "Aspose.PDF for .NET"
-description: "Saves image to file with default image format - jpeg."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Saves image to file with default image format - jpeg."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfconverter/getnextimage/"

@@ -2,8 +2,8 @@
 title: "TextProperties.TextSize"
 linktitle: "TextSize"
 articleTitle: "TextSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextProperties property. Gets or sets text size."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/textproperties/textsize/"

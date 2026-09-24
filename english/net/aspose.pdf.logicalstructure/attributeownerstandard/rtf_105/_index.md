@@ -2,8 +2,8 @@
 title: "AttributeOwnerStandard.Rtf_105"
 linktitle: "Rtf_105"
 articleTitle: "Rtf_105"
-second_title: "Aspose.PDF for .NET"
-description: "RTF-1.05 attribute owner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard field. RTF-1.05 attribute owner."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/"

@@ -2,8 +2,8 @@
 title: "BitmapInfo Class"
 linktitle: "BitmapInfo"
 articleTitle: "BitmapInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Object containing array of pixels and bitmap information."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BitmapInfo class. Object containing array of pixels and bitmap information."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/bitmapinfo/"

@@ -2,8 +2,8 @@
 title: "WatermarkAnnotation.FixedPrint"
 linktitle: "FixedPrint"
 articleTitle: "FixedPrint"
-second_title: "Aspose.PDF for .NET"
-description: "Fuxed print object of Watermark annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WatermarkAnnotation property. Fuxed print object of Watermark annotation."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/watermarkannotation/fixedprint/"

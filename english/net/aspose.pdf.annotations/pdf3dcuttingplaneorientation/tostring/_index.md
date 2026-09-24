@@ -2,8 +2,8 @@
 title: "PDF3DCuttingPlaneOrientation.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a that represents this instance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCuttingPlaneOrientation method. Returns a that represents this instance."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/"

@@ -2,8 +2,8 @@
 title: "EpubSaveOptions.EpubSaveOptions"
 linktitle: "EpubSaveOptions"
 articleTitle: "EpubSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EpubSaveOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EpubSaveOptions constructor. Initializes a new instance of the EpubSaveOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/epubsaveoptions/epubsaveoptions/"

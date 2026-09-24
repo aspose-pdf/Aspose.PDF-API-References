@@ -2,8 +2,8 @@
 title: "ParagraphAbsorber Class"
 linktitle: "ParagraphAbsorber"
 articleTitle: "ParagraphAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an absorber object of page structure objects such as sections and paragraphs. Performs search for sections and paragraphs of text and provides acc..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.ParagraphAbsorber class. Represents an absorber object of page structure objects such as sections and paragraphs. Performs search for section..."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.text/paragraphabsorber/"

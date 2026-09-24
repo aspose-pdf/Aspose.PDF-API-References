@@ -2,8 +2,8 @@
 title: "PaperSizes.JapaneseEnvelopeChouNumber4"
 linktitle: "JapaneseEnvelopeChouNumber4"
 articleTitle: "JapaneseEnvelopeChouNumber4"
-second_title: "Aspose.PDF for .NET"
-description: "Japanese Chou #4 envelope."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Japanese Chou #4 envelope."
 type: docs
 weight: 720
 url: "/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber4/"

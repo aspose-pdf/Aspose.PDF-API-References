@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.ModifyAnnotations"
 linktitle: "ModifyAnnotations"
 articleTitle: "ModifyAnnotations"
-second_title: "Aspose.PDF for .NET"
-description: "Allows modifying annotations of file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Allows modifying annotations of file."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/documentprivilege/modifyannotations/"

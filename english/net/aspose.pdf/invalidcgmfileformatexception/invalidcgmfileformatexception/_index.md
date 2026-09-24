@@ -2,8 +2,8 @@
 title: "InvalidCgmFileFormatException.InvalidCgmFileFormatException"
 linktitle: "InvalidCgmFileFormatException"
 articleTitle: "InvalidCgmFileFormatException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the InvalidCgmFileFormatException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InvalidCgmFileFormatException constructor. Initializes a new instance of the InvalidCgmFileFormatException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexception/"

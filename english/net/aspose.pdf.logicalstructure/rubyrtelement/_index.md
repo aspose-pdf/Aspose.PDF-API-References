@@ -2,8 +2,8 @@
 title: "RubyRTElement Class"
 linktitle: "RubyRTElement"
 articleTitle: "RubyRTElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents RT structure element in logical structure of the Ruby."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.RubyRTElement class. Represents RT structure element in logical structure of the Ruby."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.logicalstructure/rubyrtelement/"

@@ -2,8 +2,8 @@
 title: "FormOptions.Outputs"
 linktitle: "Outputs"
 articleTitle: "Outputs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of added targets for saving operation results."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormOptions property. Gets collection of added targets for saving operation results."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/formoptions/outputs/"

@@ -2,8 +2,8 @@
 title: "IOpenAIClient.GetFileAsync"
 linktitle: "GetFileAsync"
 articleTitle: "GetFileAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves details of a specific file asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves details of a specific file asynchronously."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.ai/iopenaiclient/getfileasync/"

@@ -2,8 +2,8 @@
 title: "RegistrationMarkAnnotation.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the position of the registration mark on a page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RegistrationMarkAnnotation property. Gets or sets the position of the registration mark on a page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/registrationmarkannotation/position/"

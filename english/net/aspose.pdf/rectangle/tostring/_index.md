@@ -2,8 +2,8 @@
 title: "Rectangle.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rectangle string representation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Gets rectangle string representation."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/rectangle/tostring/"

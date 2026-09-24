@@ -2,8 +2,8 @@
 title: "Facade.Close"
 linktitle: "Close"
 articleTitle: "Close"
-second_title: "Aspose.PDF for .NET"
-description: "Disposes Aspose.Pdf.Document bound with a facade."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Facade method. Disposes Aspose.Pdf.Document bound with a facade."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/facade/close/"

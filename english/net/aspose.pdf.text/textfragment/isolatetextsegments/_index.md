@@ -2,8 +2,8 @@
 title: "TextFragment.IsolateTextSegments"
 linktitle: "IsolateTextSegments"
 articleTitle: "IsolateTextSegments"
-second_title: "Aspose.PDF for .NET"
-description: "Gets (s) representing specified part of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment method. Gets (s) representing specified part of the text."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/textfragment/isolatetextsegments/"

@@ -2,8 +2,8 @@
 title: "Annotation.ReadXfdfAttributes"
 linktitle: "ReadXfdfAttributes"
 articleTitle: "ReadXfdfAttributes"
-second_title: "Aspose.PDF for .NET"
-description: "When overridden in a derived class, import annotation attributes from XFDF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation method. When overridden in a derived class, import annotation attributes from XFDF."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/annotation/readxfdfattributes/"

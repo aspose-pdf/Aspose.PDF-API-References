@@ -2,8 +2,8 @@
 title: "HighlightingMode Enum"
 linktitle: "HighlightingMode"
 articleTitle: "HighlightingMode"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the annotation's highlighting mode, the visual effect to be used when the mouse button is pressed or held down inside its active area."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.HighlightingMode enum. Enumerates the annotation's highlighting mode, the visual effect to be used when the mouse button is pressed or..."
 type: docs
 weight: 500
 url: "/net/aspose.pdf.annotations/highlightingmode/"

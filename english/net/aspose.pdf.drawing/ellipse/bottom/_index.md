@@ -2,8 +2,8 @@
 title: "Ellipse.Bottom"
 linktitle: "Bottom"
 articleTitle: "Bottom"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the bottom position of the ellipse."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Ellipse property. Gets or sets a float value that indicates the bottom position of the ellipse."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/ellipse/bottom/"

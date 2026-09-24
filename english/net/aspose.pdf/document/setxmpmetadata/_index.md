@@ -2,8 +2,8 @@
 title: "Document.SetXmpMetadata"
 linktitle: "SetXmpMetadata"
 articleTitle: "SetXmpMetadata"
-second_title: "Aspose.PDF for .NET"
-description: "Set XMP metadata of document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Set XMP metadata of document."
 type: docs
 weight: 950
 url: "/net/aspose.pdf/document/setxmpmetadata/"

@@ -2,8 +2,8 @@
 title: "FontEmbeddingOptions Class"
 linktitle: "FontEmbeddingOptions"
 articleTitle: "FontEmbeddingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's not possible to embed some font cause t..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FontEmbeddingOptions class. PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's ..."
 type: docs
 weight: 950
 url: "/net/aspose.pdf/fontembeddingoptions/"

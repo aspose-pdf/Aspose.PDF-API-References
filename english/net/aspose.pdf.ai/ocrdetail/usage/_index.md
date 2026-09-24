@@ -2,8 +2,8 @@
 title: "OcrDetail.Usage"
 linktitle: "Usage"
 articleTitle: "Usage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the usage statistics."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrDetail property. Gets or sets the usage statistics."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/ocrdetail/usage/"

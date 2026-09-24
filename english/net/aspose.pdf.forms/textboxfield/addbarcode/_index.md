@@ -2,8 +2,8 @@
 title: "TextBoxField.AddBarcode"
 linktitle: "AddBarcode"
 articleTitle: "AddBarcode"
-second_title: "Aspose.PDF for .NET"
-description: "Adds barcode 128 into the field. Field value will be changed onto the code and field become read only."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBoxField method. Adds barcode 128 into the field. Field value will be changed onto the code and field become read only."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/textboxfield/addbarcode/"

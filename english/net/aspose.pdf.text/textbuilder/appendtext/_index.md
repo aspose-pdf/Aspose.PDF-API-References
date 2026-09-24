@@ -2,8 +2,8 @@
 title: "TextBuilder.AppendText"
 linktitle: "AppendText"
 articleTitle: "AppendText"
-second_title: "Aspose.PDF for .NET"
-description: "Appends text fragment to Pdf page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBuilder method. Appends text fragment to Pdf page"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textbuilder/appendtext/"

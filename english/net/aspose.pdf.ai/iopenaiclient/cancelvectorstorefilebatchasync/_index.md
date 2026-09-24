@@ -2,8 +2,8 @@
 title: "IOpenAIClient.CancelVectorStoreFileBatchAsync"
 linktitle: "CancelVectorStoreFileBatchAsync"
 articleTitle: "CancelVectorStoreFileBatchAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Cancels a specific vector store file batch asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Cancels a specific vector store file batch asynchronously."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.ai/iopenaiclient/cancelvectorstorefilebatchasync/"

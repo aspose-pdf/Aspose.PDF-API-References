@@ -2,8 +2,8 @@
 title: "CheckboxField.AddOption"
 linktitle: "AddOption"
 articleTitle: "AddOption"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the gr..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CheckboxField method. Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added t..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/checkboxfield/addoption/"

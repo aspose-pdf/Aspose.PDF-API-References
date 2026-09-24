@@ -2,8 +2,8 @@
 title: "CryptoAlgorithm Enum"
 linktitle: "CryptoAlgorithm"
 articleTitle: "CryptoAlgorithm"
-second_title: "Aspose.PDF for .NET"
-description: "Represent type of cryptographic algorithm that used in encryption/decryption routines."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CryptoAlgorithm enum. Represent type of cryptographic algorithm that used in encryption/decryption routines."
 type: docs
 weight: 500
 url: "/net/aspose.pdf/cryptoalgorithm/"

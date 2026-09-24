@@ -2,8 +2,8 @@
 title: "DeleteStatusResponse.Object"
 linktitle: "Object"
 articleTitle: "Object"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the object type, which is always \"thread.deleted\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DeleteStatusResponse property. Gets or sets the object type, which is always \"thread.deleted\"."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/deletestatusresponse/object/"

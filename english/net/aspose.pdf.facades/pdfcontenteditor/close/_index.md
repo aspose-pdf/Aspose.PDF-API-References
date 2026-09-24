@@ -2,8 +2,8 @@
 title: "PdfContentEditor.Close"
 linktitle: "Close"
 articleTitle: "Close"
-second_title: "Aspose.PDF for .NET"
-description: "Closes opened document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Closes opened document."
 type: docs
 weight: 650
 url: "/net/aspose.pdf.facades/pdfcontenteditor/close/"

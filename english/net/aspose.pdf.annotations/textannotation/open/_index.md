@@ -2,8 +2,8 @@
 title: "TextAnnotation.Open"
 linktitle: "Open"
 articleTitle: "Open"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a flag specifying whether the annotation should initially be displayed open."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextAnnotation property. Gets or sets a flag specifying whether the annotation should initially be displayed open."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/textannotation/open/"

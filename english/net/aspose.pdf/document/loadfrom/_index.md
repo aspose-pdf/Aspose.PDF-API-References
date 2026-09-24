@@ -2,8 +2,8 @@
 title: "Document.LoadFrom"
 linktitle: "LoadFrom"
 articleTitle: "LoadFrom"
-second_title: "Aspose.PDF for .NET"
-description: "Loads a file, converting it to PDF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Loads a file, converting it to PDF."
 type: docs
 weight: 510
 url: "/net/aspose.pdf/document/loadfrom/"

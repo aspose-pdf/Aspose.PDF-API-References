@@ -2,8 +2,8 @@
 title: "Operator.ValueEquals"
 linktitle: "ValueEquals"
 articleTitle: "ValueEquals"
-second_title: "Aspose.PDF for .NET"
-description: "Compares this instance with the given object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Operator method. Compares this instance with the given object."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/operator/valueequals/"

@@ -2,8 +2,8 @@
 title: "VectorStoreFileListResponse.GetFileIdList"
 linktitle: "GetFileIdList"
 articleTitle: "GetFileIdList"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the list of file IDs from the vector store."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileListResponse method. Gets the list of file IDs from the vector store."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/"

@@ -2,8 +2,8 @@
 title: "RenditionOperation Enum"
 linktitle: "RenditionOperation"
 articleTitle: "RenditionOperation"
-second_title: "Aspose.PDF for .NET"
-description: "The operation to perform when the action is triggered."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RenditionOperation enum. The operation to perform when the action is triggered."
 type: docs
 weight: 1070
 url: "/net/aspose.pdf.annotations/renditionoperation/"

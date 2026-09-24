@@ -2,8 +2,8 @@
 title: "EMC.EMC"
 linktitle: "EMC"
 articleTitle: "EMC"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EMC class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EMC constructor. Initializes a new instance of the EMC class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/emc/emc/"

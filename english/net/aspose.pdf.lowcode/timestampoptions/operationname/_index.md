@@ -2,8 +2,8 @@
 title: "TimestampOptions.OperationName"
 linktitle: "OperationName"
 articleTitle: "OperationName"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampOptions property."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.lowcode/timestampoptions/operationname/"

@@ -2,8 +2,8 @@
 title: "WatermarkAnnotation.WatermarkAnnotation"
 linktitle: "WatermarkAnnotation"
 articleTitle: "WatermarkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the WatermarkAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WatermarkAnnotation constructor. Initializes a new instance of the WatermarkAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/watermarkannotation/watermarkannotation/"

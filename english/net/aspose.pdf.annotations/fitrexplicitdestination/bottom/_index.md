@@ -2,8 +2,8 @@
 title: "FitRExplicitDestination.Bottom"
 linktitle: "Bottom"
 articleTitle: "Bottom"
-second_title: "Aspose.PDF for .NET"
-description: "Gets bottom vertical coordinate of visible rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitRExplicitDestination property. Gets bottom vertical coordinate of visible rectangle."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/fitrexplicitdestination/bottom/"

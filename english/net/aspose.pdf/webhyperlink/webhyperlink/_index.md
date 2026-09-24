@@ -2,8 +2,8 @@
 title: "WebHyperlink.WebHyperlink"
 linktitle: "WebHyperlink"
 articleTitle: "WebHyperlink"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the WebHyperlink class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WebHyperlink constructor. Initializes a new instance of the WebHyperlink class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/webhyperlink/webhyperlink/"

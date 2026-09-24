@@ -2,8 +2,8 @@
 title: "Form.ImportStatus Enum"
 linktitle: "Form.ImportStatus"
 articleTitle: "Form.ImportStatus"
-second_title: "Aspose.PDF for .NET"
-description: "Status of imported field"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.Form.ImportStatus enum. Status of imported field"
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/form.importstatus/"

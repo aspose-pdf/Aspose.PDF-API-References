@@ -2,8 +2,8 @@
 title: "Metadata.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes entry from metadata."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Removes entry from metadata."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/metadata/remove/"

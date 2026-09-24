@@ -2,8 +2,8 @@
 title: "Tool.ToolFunction"
 linktitle: "ToolFunction"
 articleTitle: "ToolFunction"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the function that the model can call."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Tool property. Gets or sets the function that the model can call."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/tool/toolfunction/"

@@ -2,8 +2,8 @@
 title: "SaveOptions.SaveFormat"
 linktitle: "SaveFormat"
 articleTitle: "SaveFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Format of data save."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SaveOptions property. Format of data save."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/saveoptions/saveformat/"

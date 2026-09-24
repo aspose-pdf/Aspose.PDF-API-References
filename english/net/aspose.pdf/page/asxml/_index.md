@@ -2,8 +2,8 @@
 title: "Page.AsXml"
 linktitle: "AsXml"
 articleTitle: "AsXml"
-second_title: "Aspose.PDF for .NET"
-description: "Converts current page as xml in utf8 encoding."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Converts current page as xml in utf8 encoding."
 type: docs
 weight: 330
 url: "/net/aspose.pdf/page/asxml/"

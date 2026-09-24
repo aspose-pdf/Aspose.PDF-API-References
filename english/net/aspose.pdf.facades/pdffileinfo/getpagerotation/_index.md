@@ -2,8 +2,8 @@
 title: "PdfFileInfo.GetPageRotation"
 linktitle: "GetPageRotation"
 articleTitle: "GetPageRotation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the rotation of the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Gets the rotation of the specified page."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdffileinfo/getpagerotation/"

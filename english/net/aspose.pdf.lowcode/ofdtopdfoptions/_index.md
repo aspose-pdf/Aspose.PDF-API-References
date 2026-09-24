@@ -2,8 +2,8 @@
 title: "OfdToPdfOptions Class"
 linktitle: "OfdToPdfOptions"
 articleTitle: "OfdToPdfOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for converting OFD to PDF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.OfdToPdfOptions class. Represents options for converting OFD to PDF."
 type: docs
 weight: 540
 url: "/net/aspose.pdf.lowcode/ofdtopdfoptions/"

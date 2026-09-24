@@ -2,8 +2,8 @@
 title: "MobiXmlSaveOptions.MobiXmlSaveOptions"
 linktitle: "MobiXmlSaveOptions"
 articleTitle: "MobiXmlSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MobiXmlSaveOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MobiXmlSaveOptions constructor. Initializes a new instance of the MobiXmlSaveOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/"

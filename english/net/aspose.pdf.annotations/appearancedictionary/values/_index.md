@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.Values"
 linktitle: "Values"
 articleTitle: "Values"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the list of the dictionary values. Result collection contains the list of XForm objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary property. Gets the list of the dictionary values. Result collection contains the list of XForm objects."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/appearancedictionary/values/"

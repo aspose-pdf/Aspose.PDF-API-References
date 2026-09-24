@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.SetReviewState"
 linktitle: "SetReviewState"
 articleTitle: "SetReviewState"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. Note, the state stored in oth..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation method. Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. Note..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/markupannotation/setreviewstate/"

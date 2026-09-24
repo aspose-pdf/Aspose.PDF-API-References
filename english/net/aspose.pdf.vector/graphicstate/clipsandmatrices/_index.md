@@ -2,8 +2,8 @@
 title: "GraphicState.ClipsAndMatrices"
 linktitle: "ClipsAndMatrices"
 articleTitle: "ClipsAndMatrices"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the operators representing clips and concatenation matrices."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicState property. Gets the operators representing clips and concatenation matrices."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/graphicstate/clipsandmatrices/"

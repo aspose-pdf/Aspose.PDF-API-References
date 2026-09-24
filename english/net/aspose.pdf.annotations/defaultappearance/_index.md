@@ -2,8 +2,8 @@
 title: "DefaultAppearance Class"
 linktitle: "DefaultAppearance"
 articleTitle: "DefaultAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Describes default appearance of field (font, text size and color)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.DefaultAppearance class. Describes default appearance of field (font, text size and color)."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.annotations/defaultappearance/"

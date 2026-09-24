@@ -2,8 +2,8 @@
 title: "UnsignedContentAbsorber.UnsignedContent.Pages"
 linktitle: "Pages"
 articleTitle: "Pages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a list of pages whose content is unsigned or has been incrementally changed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnsignedContent property. Gets a list of pages whose content is unsigned or has been incrementally changed."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/pages/"

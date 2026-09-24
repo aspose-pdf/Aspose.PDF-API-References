@@ -2,8 +2,8 @@
 title: "StreamResult.IsString"
 linktitle: "IsString"
 articleTitle: "IsString"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the result is a string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StreamResult property. Indicates whether the result is a string."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/streamresult/isstring/"

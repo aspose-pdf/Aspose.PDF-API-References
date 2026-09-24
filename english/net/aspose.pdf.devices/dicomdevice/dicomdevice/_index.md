@@ -2,8 +2,8 @@
 title: "DicomDevice.DicomDevice"
 linktitle: "DicomDevice"
 articleTitle: "DicomDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DicomDevice class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DicomDevice constructor. Initializes a new instance of the DicomDevice class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/dicomdevice/dicomdevice/"

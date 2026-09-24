@@ -2,8 +2,8 @@
 title: "CosPdfString.IsHexadecimal"
 linktitle: "IsHexadecimal"
 articleTitle: "IsHexadecimal"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether this instance is hexadecimal."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfString property. Gets a value indicating whether this instance is hexadecimal."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.dataeditor/cospdfstring/ishexadecimal/"

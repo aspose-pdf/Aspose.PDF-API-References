@@ -2,8 +2,8 @@
 title: "AttributeKey.Padding"
 linktitle: "Padding"
 articleTitle: "Padding"
-second_title: "Aspose.PDF for .NET"
-description: "Padding attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Padding attribute (Layout attribute owner)."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/attributekey/padding/"

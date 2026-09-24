@@ -2,8 +2,8 @@
 title: "PdfAConverter.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Begins a PDF/A conversion or validation process with given options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAConverter method. Begins a PDF/A conversion or validation process with given options."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfaconverter/process/"

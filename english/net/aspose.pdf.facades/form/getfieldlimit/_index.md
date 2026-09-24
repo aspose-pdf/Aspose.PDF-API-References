@@ -2,8 +2,8 @@
 title: "Form.GetFieldLimit"
 linktitle: "GetFieldLimit"
 articleTitle: "GetFieldLimit"
-second_title: "Aspose.PDF for .NET"
-description: "Get the limitation of text field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Get the limitation of text field."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/form/getfieldlimit/"

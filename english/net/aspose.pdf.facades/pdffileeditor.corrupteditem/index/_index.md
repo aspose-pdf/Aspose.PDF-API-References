@@ -2,8 +2,8 @@
 title: "PdfFileEditor.CorruptedItem.Index"
 linktitle: "Index"
 articleTitle: "Index"
-second_title: "Aspose.PDF for .NET"
-description: "Index of corrupted file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CorruptedItem property. Index of corrupted file."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.corrupteditem/index/"

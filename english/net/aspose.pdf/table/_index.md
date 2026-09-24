@@ -2,8 +2,8 @@
 title: "Table Class"
 linktitle: "Table"
 articleTitle: "Table"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a table that can be added to the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Table class. Represents a table that can be added to the page."
 type: docs
 weight: 2940
 url: "/net/aspose.pdf/table/"

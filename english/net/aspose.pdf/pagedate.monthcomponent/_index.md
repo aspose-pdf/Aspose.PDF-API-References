@@ -2,8 +2,8 @@
 title: "PageDate.MonthComponent Class"
 linktitle: "PageDate.MonthComponent"
 articleTitle: "PageDate.MonthComponent"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the month component of a date."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageDate.MonthComponent class. Represents the month component of a date."
 type: docs
 weight: 2190
 url: "/net/aspose.pdf/pagedate.monthcomponent/"

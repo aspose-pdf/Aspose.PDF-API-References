@@ -2,8 +2,8 @@
 title: "StructureRecognitionVisitor.VisitTable"
 linktitle: "VisitTable"
 articleTitle: "VisitTable"
-second_title: "Aspose.PDF for .NET"
-description: "Visits a recognized table in the document structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureRecognitionVisitor method. Visits a recognized table in the document structure."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/visittable/"

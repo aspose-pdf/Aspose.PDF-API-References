@@ -2,8 +2,8 @@
 title: "SoundIcon Enum"
 linktitle: "SoundIcon"
 articleTitle: "SoundIcon"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the icons to be used in displaying the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SoundIcon enum. Enumerates the icons to be used in displaying the annotation."
 type: docs
 weight: 1190
 url: "/net/aspose.pdf.annotations/soundicon/"

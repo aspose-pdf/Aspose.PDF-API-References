@@ -2,8 +2,8 @@
 title: "StructureTextState.WordSpacing"
 linktitle: "WordSpacing"
 articleTitle: "WordSpacing"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets word spacing of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets word spacing of the text."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/wordspacing/"

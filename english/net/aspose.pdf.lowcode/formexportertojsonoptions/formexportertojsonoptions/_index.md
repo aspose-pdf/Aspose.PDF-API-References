@@ -2,8 +2,8 @@
 title: "FormExporterToJsonOptions.FormExporterToJsonOptions"
 linktitle: "FormExporterToJsonOptions"
 articleTitle: "FormExporterToJsonOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormExporterToJsonOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormExporterToJsonOptions constructor. Initializes a new instance of the FormExporterToJsonOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formexportertojsonoptions/formexportertojsonoptions/"

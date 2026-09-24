@@ -2,8 +2,8 @@
 title: "RotateOptions.RotateOptions"
 linktitle: "RotateOptions"
 articleTitle: "RotateOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the RotateOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RotateOptions constructor. Initializes a new instance of the RotateOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/rotateoptions/rotateoptions/"

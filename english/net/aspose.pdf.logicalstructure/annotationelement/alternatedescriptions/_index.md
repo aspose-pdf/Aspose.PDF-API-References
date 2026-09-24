@@ -2,8 +2,8 @@
 title: "AnnotationElement.AlternateDescriptions"
 linktitle: "AlternateDescriptions"
 articleTitle: "AlternateDescriptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or Sets the Alternate Descriptions for annotation. Text that shall be displayed for the annotation or, if this type of annotation does not display text,..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationElement property. Gets or Sets the Alternate Descriptions for annotation. Text that shall be displayed for the annotation or, if this type of annot..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/annotationelement/alternatedescriptions/"

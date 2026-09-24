@@ -2,8 +2,8 @@
 title: "CompletionFunction.CompletionFunction"
 linktitle: "CompletionFunction"
 articleTitle: "CompletionFunction"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CompletionFunction class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionFunction constructor. Initializes a new instance of the CompletionFunction class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/completionfunction/completionfunction/"

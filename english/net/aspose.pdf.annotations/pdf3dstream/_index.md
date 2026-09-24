@@ -2,8 +2,8 @@
 title: "PDF3DStream Class"
 linktitle: "PDF3DStream"
 articleTitle: "PDF3DStream"
-second_title: "Aspose.PDF for .NET"
-description: "Class PDF3DStream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DStream class. Class PDF3DStream."
 type: docs
 weight: 850
 url: "/net/aspose.pdf.annotations/pdf3dstream/"

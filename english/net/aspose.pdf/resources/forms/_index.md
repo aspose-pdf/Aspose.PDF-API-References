@@ -2,8 +2,8 @@
 title: "Resources.Forms"
 linktitle: "Forms"
 articleTitle: "Forms"
-second_title: "Aspose.PDF for .NET"
-description: "Gets forms collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resources property. Gets forms collection"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/resources/forms/"

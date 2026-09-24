@@ -2,8 +2,8 @@
 title: "SignaturesCoverage Enum"
 linktitle: "SignaturesCoverage"
 articleTitle: "SignaturesCoverage"
-second_title: "Aspose.PDF for .NET"
-description: "Represents enum for the level of coverage provided by digital signatures in a document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Signatures.SignaturesCoverage enum. Represents enum for the level of coverage provided by digital signatures in a document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.signatures/signaturescoverage/"

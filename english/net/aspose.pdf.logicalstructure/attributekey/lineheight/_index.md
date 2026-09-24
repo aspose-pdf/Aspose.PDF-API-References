@@ -2,8 +2,8 @@
 title: "AttributeKey.LineHeight"
 linktitle: "LineHeight"
 articleTitle: "LineHeight"
-second_title: "Aspose.PDF for .NET"
-description: "LineHeight attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. LineHeight attribute (Layout attribute owner)."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.logicalstructure/attributekey/lineheight/"

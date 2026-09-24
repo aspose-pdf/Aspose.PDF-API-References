@@ -2,8 +2,8 @@
 title: "RenderingOptions.HeightExtraUnits"
 linktitle: "HeightExtraUnits"
 articleTitle: "HeightExtraUnits"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value used to increase or decrease the width of rectangle for AppendRectangle operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets a value used to increase or decrease the width of rectangle for AppendRectangle operator."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/renderingoptions/heightextraunits/"

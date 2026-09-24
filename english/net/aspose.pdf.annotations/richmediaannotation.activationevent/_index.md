@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.ActivationEvent Enum"
 linktitle: "RichMediaAnnotation.ActivationEvent"
 articleTitle: "RichMediaAnnotation.ActivationEvent"
-second_title: "Aspose.PDF for .NET"
-description: "Event which activates annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RichMediaAnnotation.ActivationEvent enum. Event which activates annotation."
 type: docs
 weight: 1110
 url: "/net/aspose.pdf.annotations/richmediaannotation.activationevent/"

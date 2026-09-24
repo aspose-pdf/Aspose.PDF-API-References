@@ -2,8 +2,8 @@
 title: "Error Class"
 linktitle: "Error"
 articleTitle: "Error"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an error in the API response."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Error class. Represents an error in the API response."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.ai/error/"

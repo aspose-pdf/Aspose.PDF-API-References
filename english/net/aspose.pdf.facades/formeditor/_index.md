@@ -2,8 +2,8 @@
 title: "FormEditor Class"
 linktitle: "FormEditor"
 articleTitle: "FormEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Class for editing forms (ading/deleting field etc)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.FormEditor class. Class for editing forms (ading/deleting field etc)"
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/formeditor/"

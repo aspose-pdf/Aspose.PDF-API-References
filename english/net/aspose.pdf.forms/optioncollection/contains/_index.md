@@ -2,8 +2,8 @@
 title: "OptionCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if item exists in collection, throws NotImplementedException."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection method. Checks if item exists in collection, throws NotImplementedException."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/optioncollection/contains/"

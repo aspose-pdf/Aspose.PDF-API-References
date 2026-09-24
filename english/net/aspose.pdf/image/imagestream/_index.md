@@ -2,8 +2,8 @@
 title: "Image.ImageStream"
 linktitle: "ImageStream"
 articleTitle: "ImageStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the image stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets the image stream."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/image/imagestream/"

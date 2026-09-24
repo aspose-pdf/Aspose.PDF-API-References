@@ -2,8 +2,8 @@
 title: "PdfFileEditor.Extract"
 linktitle: "Extract"
 articleTitle: "Extract"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts pages from input file,saves as a new Pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Extracts pages from input file,saves as a new Pdf file."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.facades/pdffileeditor/extract/"

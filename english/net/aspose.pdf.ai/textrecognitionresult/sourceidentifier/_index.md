@@ -2,8 +2,8 @@
 title: "TextRecognitionResult.SourceIdentifier"
 linktitle: "SourceIdentifier"
 articleTitle: "SourceIdentifier"
-second_title: "Aspose.PDF for .NET"
-description: "Identifier for the source file (e.g., the full path or a unique name)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextRecognitionResult property. Identifier for the source file (e.g., the full path or a unique name)."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/textrecognitionresult/sourceidentifier/"

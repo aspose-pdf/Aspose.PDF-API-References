@@ -2,8 +2,8 @@
 title: "CreateEmbeddingResponse.CreateEmbeddingResponse"
 linktitle: "CreateEmbeddingResponse"
 articleTitle: "CreateEmbeddingResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CreateEmbeddingResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateEmbeddingResponse constructor. Initializes a new instance of the CreateEmbeddingResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/createembeddingresponse/createembeddingresponse/"

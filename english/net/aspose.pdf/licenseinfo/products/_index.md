@@ -2,8 +2,8 @@
 title: "LicenseInfo.Products"
 linktitle: "Products"
 articleTitle: "Products"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the list of licensed products."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LicenseInfo property. Gets the list of licensed products."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/licenseinfo/products/"

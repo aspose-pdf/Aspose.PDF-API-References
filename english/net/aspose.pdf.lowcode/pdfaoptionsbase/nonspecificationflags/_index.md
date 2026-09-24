@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase.NonSpecificationFlags"
 linktitle: "NonSpecificationFlags"
 articleTitle: "NonSpecificationFlags"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the flags that control the PDF/A conversion for cases when the source PDF document doesn't correspond to the PDF specification."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets the flags that control the PDF/A conversion for cases when the source PDF document doesn't correspond to the PDF specification."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/nonspecificationflags/"

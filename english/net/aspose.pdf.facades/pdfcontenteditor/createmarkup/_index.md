@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateMarkup"
 linktitle: "CreateMarkup"
 articleTitle: "CreateMarkup"
-second_title: "Aspose.PDF for .NET"
-description: "Creates markup annotation it PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates markup annotation it PDF document."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createmarkup/"

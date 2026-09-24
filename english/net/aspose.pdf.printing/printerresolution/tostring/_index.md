@@ -2,8 +2,8 @@
 title: "PrinterResolution.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Provides some interesting information about the PrinterResolution in String form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolution method. Provides some interesting information about the PrinterResolution in String form."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/printerresolution/tostring/"

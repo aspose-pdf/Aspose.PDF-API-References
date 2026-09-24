@@ -2,8 +2,8 @@
 title: "PolyAnnotation.PolyAnnotation"
 linktitle: "PolyAnnotation"
 articleTitle: "PolyAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PolyAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolyAnnotation constructor. Initializes a new instance of the PolyAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/polyannotation/polyannotation/"

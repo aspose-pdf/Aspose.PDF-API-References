@@ -2,8 +2,8 @@
 title: "BoundsCheckableList<T>.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList property."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/boundscheckablelist-1/isreadonly/"

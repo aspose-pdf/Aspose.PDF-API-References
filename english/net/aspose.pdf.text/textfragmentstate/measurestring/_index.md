@@ -2,8 +2,8 @@
 title: "TextFragmentState.MeasureString"
 linktitle: "MeasureString"
 articleTitle: "MeasureString"
-second_title: "Aspose.PDF for .NET"
-description: "Measures the string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState method. Measures the string."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/textfragmentstate/measurestring/"

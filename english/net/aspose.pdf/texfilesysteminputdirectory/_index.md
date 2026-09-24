@@ -2,8 +2,8 @@
 title: "TeXFileSystemInputDirectory Class"
 linktitle: "TeXFileSystemInputDirectory"
 articleTitle: "TeXFileSystemInputDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Implements the regular file system's method for getting a file stream to read from."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TeXFileSystemInputDirectory class. Implements the regular file system's method for getting a file stream to read from."
 type: docs
 weight: 2960
 url: "/net/aspose.pdf/texfilesysteminputdirectory/"

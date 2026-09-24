@@ -2,8 +2,8 @@
 title: "Color.Sienna"
 linktitle: "Sienna"
 articleTitle: "Sienna"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFA0522D."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFA0522D."
 type: docs
 weight: 1400
 url: "/net/aspose.pdf/color/sienna/"

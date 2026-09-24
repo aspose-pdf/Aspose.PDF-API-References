@@ -2,8 +2,8 @@
 title: "TableRowBuilder.AddRow"
 linktitle: "AddRow"
 articleTitle: "AddRow"
-second_title: "Aspose.PDF for .NET"
-description: "Overriding AddRow."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableRowBuilder method. Overriding AddRow."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/tablerowbuilder/addrow/"

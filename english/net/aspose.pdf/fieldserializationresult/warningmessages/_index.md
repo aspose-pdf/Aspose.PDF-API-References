@@ -2,8 +2,8 @@
 title: "FieldSerializationResult.WarningMessages"
 linktitle: "WarningMessages"
 articleTitle: "WarningMessages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the warning messages associated with the serialization process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FieldSerializationResult property. Gets the warning messages associated with the serialization process."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/fieldserializationresult/warningmessages/"

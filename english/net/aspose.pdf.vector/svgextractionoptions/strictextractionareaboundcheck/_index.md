@@ -2,8 +2,8 @@
 title: "SvgExtractionOptions.StrictExtractionAreaBoundCheck"
 linktitle: "StrictExtractionAreaBoundCheck"
 articleTitle: "StrictExtractionAreaBoundCheck"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets an option to define strictly checks whether subpaths are within the specified rectangle in ExtractionAreaBound. If set to false, then subpaths ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgExtractionOptions property. Gets and sets an option to define strictly checks whether subpaths are within the specified rectangle in ExtractionAreaBound. ..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.vector/svgextractionoptions/strictextractionareaboundcheck/"

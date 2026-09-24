@@ -2,8 +2,8 @@
 title: "ArtifactCollection.Update"
 linktitle: "Update"
 articleTitle: "Update"
-second_title: "Aspose.PDF for .NET"
-description: "Update artifact inside the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection method. Update artifact inside the collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/artifactcollection/update/"

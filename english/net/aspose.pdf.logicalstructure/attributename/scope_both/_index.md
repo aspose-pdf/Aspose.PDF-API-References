@@ -2,8 +2,8 @@
 title: "AttributeName.Scope_Both"
 linktitle: "Scope_Both"
 articleTitle: "Scope_Both"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Scope: Both."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Scope: Both."
 type: docs
 weight: 700
 url: "/net/aspose.pdf.logicalstructure/attributename/scope_both/"

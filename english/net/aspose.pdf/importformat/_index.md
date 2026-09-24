@@ -2,8 +2,8 @@
 title: "ImportFormat Enum"
 linktitle: "ImportFormat"
 articleTitle: "ImportFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies import format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImportFormat enum. Specifies import format."
 type: docs
 weight: 1570
 url: "/net/aspose.pdf/importformat/"

@@ -2,8 +2,8 @@
 title: "CosPdfDictionary Class"
 linktitle: "CosPdfDictionary"
 articleTitle: "CosPdfDictionary"
-second_title: "Aspose.PDF for .NET"
-description: "A class for accessing an object's dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DataEditor.CosPdfDictionary class. A class for accessing an object's dictionary."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/"

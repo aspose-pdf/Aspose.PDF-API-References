@@ -2,8 +2,8 @@
 title: "Annotation.NormalAppearance"
 linktitle: "NormalAppearance"
 articleTitle: "NormalAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Gets normal appearance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets normal appearance."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/annotation/normalappearance/"

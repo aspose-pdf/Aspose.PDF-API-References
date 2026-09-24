@@ -2,8 +2,8 @@
 title: "TiffOptions.SkipBlankPages"
 linktitle: "SkipBlankPages"
 articleTitle: "SkipBlankPages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether to skip blank pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffOptions property. Gets or sets a value indicating whether to skip blank pages."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/tiffoptions/skipblankpages/"

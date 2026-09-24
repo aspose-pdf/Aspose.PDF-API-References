@@ -2,8 +2,8 @@
 title: "CheckboxField.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value of check box field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CheckboxField property. Gets or sets value of check box field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/checkboxfield/value/"

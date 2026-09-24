@@ -2,8 +2,8 @@
 title: "FolderFontSource.FolderFontSource"
 linktitle: "FolderFontSource"
 articleTitle: "FolderFontSource"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FolderFontSource class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FolderFontSource constructor. Initializes a new instance of the FolderFontSource class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/folderfontsource/folderfontsource/"

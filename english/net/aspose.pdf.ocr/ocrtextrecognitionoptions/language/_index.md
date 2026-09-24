@@ -2,8 +2,8 @@
 title: "OcrTextRecognitionOptions.Language"
 linktitle: "Language"
 articleTitle: "Language"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the recognition language. Defaults to ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextRecognitionOptions property. Gets or sets the recognition language. Defaults to ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/language/"

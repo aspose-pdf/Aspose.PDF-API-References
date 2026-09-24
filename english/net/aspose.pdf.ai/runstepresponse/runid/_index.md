@@ -2,8 +2,8 @@
 title: "RunStepResponse.RunId"
 linktitle: "RunId"
 articleTitle: "RunId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ID of the run that this run step is a part of."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepResponse property. Gets or sets the ID of the run that this run step is a part of."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/runstepresponse/runid/"

@@ -2,8 +2,8 @@
 title: "FormComboBoxFieldSetOptions.Selected"
 linktitle: "Selected"
 articleTitle: "Selected"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine property Selected for modified field (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormComboBoxFieldSetOptions property. Gets/sets the value to determine property Selected for modified field (if will be set)."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldsetoptions/selected/"

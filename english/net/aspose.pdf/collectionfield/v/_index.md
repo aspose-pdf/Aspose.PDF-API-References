@@ -2,8 +2,8 @@
 title: "CollectionField.V"
 linktitle: "V"
 articleTitle: "V"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the initial visibility of the field in the user interface. Default value: true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionField property. Gets the initial visibility of the field in the user interface. Default value: true."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/collectionfield/v/"

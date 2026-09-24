@@ -2,8 +2,8 @@
 title: "HtmlDiffOutputGenerator.HtmlDiffOutputGenerator"
 linktitle: "HtmlDiffOutputGenerator"
 articleTitle: "HtmlDiffOutputGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the HtmlDiffOutputGenerator class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlDiffOutputGenerator constructor. Initializes a new instance of the HtmlDiffOutputGenerator class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/htmldiffoutputgenerator/"

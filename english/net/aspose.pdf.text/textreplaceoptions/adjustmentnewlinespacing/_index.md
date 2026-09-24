@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.AdjustmentNewLineSpacing"
 linktitle: "AdjustmentNewLineSpacing"
 articleTitle: "AdjustmentNewLineSpacing"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. The value expected is multiplier of font size of the..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextReplaceOptions property. Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. The value expected is m..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing/"

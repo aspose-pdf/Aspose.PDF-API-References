@@ -2,8 +2,8 @@
 title: "TeXFileSystemOutputDirectory Class"
 linktitle: "TeXFileSystemOutputDirectory"
 articleTitle: "TeXFileSystemOutputDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Implements the regular file system's method for getting a file stream to write to."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TeXFileSystemOutputDirectory class. Implements the regular file system's method for getting a file stream to write to."
 type: docs
 weight: 2970
 url: "/net/aspose.pdf/texfilesystemoutputdirectory/"

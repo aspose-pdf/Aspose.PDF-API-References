@@ -2,8 +2,8 @@
 title: "AttributeName.Placement_End"
 linktitle: "Placement_End"
 articleTitle: "Placement_End"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Placement: End - Placed so that the end edge of the element's allocation rectangle coincides with that of the nearest enclosing reference area."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Placement: End - Placed so that the end edge of the element's allocation rectangle coincides with that of the nearest enclosin..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/attributename/placement_end/"

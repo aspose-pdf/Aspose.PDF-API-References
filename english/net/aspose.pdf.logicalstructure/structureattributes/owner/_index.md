@@ -2,8 +2,8 @@
 title: "StructureAttributes.Owner"
 linktitle: "Owner"
 articleTitle: "Owner"
-second_title: "Aspose.PDF for .NET"
-description: "Gets standard attribute owner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttributes property. Gets standard attribute owner."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structureattributes/owner/"

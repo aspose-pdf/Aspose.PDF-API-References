@@ -2,8 +2,8 @@
 title: "TextBuilder Class"
 linktitle: "TextBuilder"
 articleTitle: "TextBuilder"
-second_title: "Aspose.PDF for .NET"
-description: "Appends text object to Pdf page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextBuilder class. Appends text object to Pdf page."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.text/textbuilder/"

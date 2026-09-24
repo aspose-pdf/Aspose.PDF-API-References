@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.ReasonLabel"
 linktitle: "ReasonLabel"
 articleTitle: "ReasonLabel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets reason label. Default value: \"Reason\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets reason label. Default value: \"Reason\"."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/"

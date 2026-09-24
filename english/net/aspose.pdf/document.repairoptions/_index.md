@@ -2,8 +2,8 @@
 title: "Document.RepairOptions Class"
 linktitle: "Document.RepairOptions"
 articleTitle: "Document.RepairOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for repairing a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Document.RepairOptions class. Represents options for repairing a PDF document."
 type: docs
 weight: 680
 url: "/net/aspose.pdf/document.repairoptions/"

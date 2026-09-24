@@ -2,8 +2,8 @@
 title: "TableElement.IsBroken"
 linktitle: "IsBroken"
 articleTitle: "IsBroken"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the table is broken - will be truncated for next page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets the table is broken - will be truncated for next page."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/tableelement/isbroken/"

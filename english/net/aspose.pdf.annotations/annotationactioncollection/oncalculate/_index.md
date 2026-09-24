@@ -2,8 +2,8 @@
 title: "AnnotationActionCollection.OnCalculate"
 linktitle: "OnCalculate"
 articleTitle: "OnCalculate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to calculate field value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to calculate field value."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/annotationactioncollection/oncalculate/"

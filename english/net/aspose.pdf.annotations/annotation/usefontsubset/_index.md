@@ -2,8 +2,8 @@
 title: "Annotation.UseFontSubset"
 linktitle: "UseFontSubset"
 articleTitle: "UseFontSubset"
-second_title: "Aspose.PDF for .NET"
-description: "If this property set to true, fonts will be added to document as subsets. Default value is true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. If this property set to true, fonts will be added to document as subsets. Default value is true."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/annotation/usefontsubset/"

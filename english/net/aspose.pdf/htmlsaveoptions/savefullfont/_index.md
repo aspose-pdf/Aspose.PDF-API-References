@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.SaveFullFont"
 linktitle: "SaveFullFont"
 articleTitle: "SaveFullFont"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates that full font will be saved, supports only True Type Fonts. By default SaveFullFont = false and the converter saves the subset of the initial font..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Indicates that full font will be saved, supports only True Type Fonts. By default SaveFullFont = false and the converter saves the ..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/htmlsaveoptions/savefullfont/"

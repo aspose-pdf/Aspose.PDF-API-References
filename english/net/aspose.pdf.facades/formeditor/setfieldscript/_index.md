@@ -2,8 +2,8 @@
 title: "FormEditor.SetFieldScript"
 linktitle: "SetFieldScript"
 articleTitle: "SetFieldScript"
-second_title: "Aspose.PDF for .NET"
-description: "Set JavaScript for a PushButton field. If old JavaScript existed, it will be replaced by the new one."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set JavaScript for a PushButton field. If old JavaScript existed, it will be replaced by the new one."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/formeditor/setfieldscript/"

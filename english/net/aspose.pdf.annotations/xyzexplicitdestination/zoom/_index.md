@@ -2,8 +2,8 @@
 title: "XYZExplicitDestination.Zoom"
 linktitle: "Zoom"
 articleTitle: "Zoom"
-second_title: "Aspose.PDF for .NET"
-description: "Gets zoom factor."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination property. Gets zoom factor."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/"

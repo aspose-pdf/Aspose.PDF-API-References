@@ -2,8 +2,8 @@
 title: "AttributeName.BorderStyle_Inset"
 linktitle: "BorderStyle_Inset"
 articleTitle: "BorderStyle_Inset"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BorderStyle: Inset - The border makes the entire box look as though it were embedded in the canvas."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BorderStyle: Inset - The border makes the entire box look as though it were embedded in the canvas."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_inset/"

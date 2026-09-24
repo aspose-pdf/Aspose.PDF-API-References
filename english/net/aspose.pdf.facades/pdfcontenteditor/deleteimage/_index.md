@@ -2,8 +2,8 @@
 title: "PdfContentEditor.DeleteImage"
 linktitle: "DeleteImage"
 articleTitle: "DeleteImage"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes the specified images on the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Deletes the specified images on the specified page."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.facades/pdfcontenteditor/deleteimage/"

@@ -2,8 +2,8 @@
 title: "TextProperties.TextProperties"
 linktitle: "TextProperties"
 articleTitle: "TextProperties"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextProperties class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextProperties constructor. Initializes a new instance of the TextProperties class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/textproperties/textproperties/"

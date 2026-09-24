@@ -2,8 +2,8 @@
 title: "SoundData.Channels"
 linktitle: "Channels"
 articleTitle: "Channels"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of sound channels."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundData property. Gets or sets the number of sound channels."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/sounddata/channels/"

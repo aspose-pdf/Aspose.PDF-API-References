@@ -2,8 +2,8 @@
 title: "Color.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Converts to string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Converts to string."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/color/tostring/"

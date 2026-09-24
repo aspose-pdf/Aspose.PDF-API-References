@@ -2,8 +2,8 @@
 title: "SelectFont.SelectFont"
 linktitle: "SelectFont"
 articleTitle: "SelectFont"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SelectFont class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SelectFont constructor. Initializes a new instance of the SelectFont class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/selectfont/selectfont/"

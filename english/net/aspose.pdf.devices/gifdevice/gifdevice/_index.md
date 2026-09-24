@@ -2,8 +2,8 @@
 title: "GifDevice.GifDevice"
 linktitle: "GifDevice"
 articleTitle: "GifDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the GifDevice class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GifDevice constructor. Initializes a new instance of the GifDevice class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/gifdevice/gifdevice/"

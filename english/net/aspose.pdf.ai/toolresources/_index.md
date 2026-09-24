@@ -2,8 +2,8 @@
 title: "ToolResources Class"
 linktitle: "ToolResources"
 articleTitle: "ToolResources"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a set of resources that are used by the assistant's tools. The resources are specific to the type of tool. For example, the code_interpreter tool ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ToolResources class. Represents a set of resources that are used by the assistant's tools. The resources are specific to the type of tool. For ..."
 type: docs
 weight: 1320
 url: "/net/aspose.pdf.ai/toolresources/"

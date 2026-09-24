@@ -2,8 +2,8 @@
 title: "FormFieldOptions Class"
 linktitle: "FormFieldOptions"
 articleTitle: "FormFieldOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Field options. Base class for PdfFormFieldCreateOptions and PdfFormFillFieldOptions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormFieldOptions class. Represents Field options. Base class for PdfFormFieldCreateOptions and PdfFormFillFieldOptions."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.lowcode/formfieldoptions/"

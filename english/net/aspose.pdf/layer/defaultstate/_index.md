@@ -2,8 +2,8 @@
 title: "Layer.DefaultState"
 linktitle: "DefaultState"
 articleTitle: "DefaultState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the default state of the PDF layer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer property. Gets or sets the default state of the PDF layer."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/layer/defaultstate/"

@@ -2,8 +2,8 @@
 title: "XImageCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies array of images into collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Copies array of images into collection."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/ximagecollection/copyto/"

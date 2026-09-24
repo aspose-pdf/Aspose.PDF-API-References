@@ -2,8 +2,8 @@
 title: "Timestamp.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Releases resources used by the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Timestamp method. Releases resources used by the plugin."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/timestamp/dispose/"

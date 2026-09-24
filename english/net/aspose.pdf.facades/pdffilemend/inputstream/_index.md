@@ -2,8 +2,8 @@
 title: "PdfFileMend.InputStream"
 linktitle: "InputStream"
 articleTitle: "InputStream"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the input stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend property. Sets the input stream."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/pdffilemend/inputstream/"

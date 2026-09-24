@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionProperty.GetXml"
 linktitle: "GetXml"
 articleTitle: "GetXml"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the list of xml elements that represent property in xml tree."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionProperty method. Returns the list of xml elements that represent property in xml tree."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xmppdfaextensionproperty/getxml/"

@@ -2,8 +2,8 @@
 title: "RenderingOptions.SystemFontsNativeRendering"
 linktitle: "SystemFontsNativeRendering"
 articleTitle: "SystemFontsNativeRendering"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a mode where system fonts are rendered natively."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets a mode where system fonts are rendered natively."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/renderingoptions/systemfontsnativerendering/"

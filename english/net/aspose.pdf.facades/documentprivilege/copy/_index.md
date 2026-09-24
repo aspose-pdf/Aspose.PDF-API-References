@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.Copy"
 linktitle: "Copy"
 articleTitle: "Copy"
-second_title: "Aspose.PDF for .NET"
-description: "Allows copying file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Allows copying file."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/documentprivilege/copy/"

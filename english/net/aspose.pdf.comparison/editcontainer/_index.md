@@ -2,8 +2,8 @@
 title: "EditContainer Class"
 linktitle: "EditContainer"
 articleTitle: "EditContainer"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a change container class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.EditContainer class. Represents a change container class."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/editcontainer/"

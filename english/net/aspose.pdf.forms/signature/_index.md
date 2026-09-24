@@ -2,8 +2,8 @@
 title: "Signature Class"
 linktitle: "Signature"
 articleTitle: "Signature"
-second_title: "Aspose.PDF for .NET"
-description: "An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects, the last contain data which ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.Signature class. An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature obj..."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.forms/signature/"

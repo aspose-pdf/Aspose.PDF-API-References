@@ -2,8 +2,8 @@
 title: "PdfActionCollection.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets enumerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfActionCollection method. Gets enumerator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdfactioncollection/getenumerator/"

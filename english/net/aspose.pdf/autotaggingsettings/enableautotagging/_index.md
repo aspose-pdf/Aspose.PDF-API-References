@@ -2,8 +2,8 @@
 title: "AutoTaggingSettings.EnableAutoTagging"
 linktitle: "EnableAutoTagging"
 articleTitle: "EnableAutoTagging"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether the auto-tagging functionality is enabled."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoTaggingSettings property. Gets or sets a value indicating whether the auto-tagging functionality is enabled."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/autotaggingsettings/enableautotagging/"

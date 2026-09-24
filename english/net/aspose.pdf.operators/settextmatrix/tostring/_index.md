@@ -2,8 +2,8 @@
 title: "SetTextMatrix.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text representation of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextMatrix method. Returns text representation of operator."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/settextmatrix/tostring/"

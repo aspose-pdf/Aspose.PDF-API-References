@@ -2,8 +2,8 @@
 title: "PrinterSettings.PrinterUri"
 linktitle: "PrinterUri"
 articleTitle: "PrinterUri"
-second_title: "Aspose.PDF for .NET"
-description: "Get or sets the URI of the network printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Get or sets the URI of the network printer."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.printing/printersettings/printeruri/"

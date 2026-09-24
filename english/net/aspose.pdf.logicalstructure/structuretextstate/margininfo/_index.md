@@ -2,8 +2,8 @@
 title: "StructureTextState.MarginInfo"
 linktitle: "MarginInfo"
 articleTitle: "MarginInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets margin for block structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets margin for block structure element."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/margininfo/"

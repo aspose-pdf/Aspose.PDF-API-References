@@ -2,8 +2,8 @@
 title: "PdfConverter.PdfConverter"
 linktitle: "PdfConverter"
 articleTitle: "PdfConverter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfConverter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter constructor. Initializes a new instance of the PdfConverter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfconverter/pdfconverter/"

@@ -2,8 +2,8 @@
 title: "EncryptionParameters.PermissionsInt"
 linktitle: "PermissionsInt"
 articleTitle: "PermissionsInt"
-second_title: "Aspose.PDF for .NET"
-description: "The integer representation of document permissions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionParameters property. The integer representation of document permissions."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.security/encryptionparameters/permissionsint/"

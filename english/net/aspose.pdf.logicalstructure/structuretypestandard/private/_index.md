@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Private"
 linktitle: "Private"
 articleTitle: "Private"
-second_title: "Aspose.PDF for .NET"
-description: "(Private element) A grouping element containing private content belonging to the application producing it. The structural significance of this type of elemen..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Private element) A grouping element containing private content belonging to the application producing it. The structural signif..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/private/"

@@ -2,8 +2,8 @@
 title: "PropertyFlag Enum"
 linktitle: "PropertyFlag"
 articleTitle: "PropertyFlag"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of possible field flags."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PropertyFlag enum. Enumeration of possible field flags."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.facades/propertyflag/"

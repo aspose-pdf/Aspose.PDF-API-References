@@ -2,8 +2,8 @@
 title: "Detail Enum"
 linktitle: "Detail"
 articleTitle: "Detail"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the level of detail for image analysis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Detail enum. Specifies the level of detail for image analysis."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.ai/detail/"

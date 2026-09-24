@@ -2,8 +2,8 @@
 title: "GSave.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text of the operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GSave method. Returns text of the operator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/gsave/tostring/"

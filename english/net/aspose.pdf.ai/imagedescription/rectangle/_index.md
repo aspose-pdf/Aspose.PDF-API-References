@@ -2,8 +2,8 @@
 title: "ImageDescription.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the rectangle information of the image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDescription property. Gets or sets the rectangle information of the image."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/imagedescription/rectangle/"

@@ -2,8 +2,8 @@
 title: "PolygonAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor object for annotation processing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolygonAnnotation method. Accepts visitor object for annotation processing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/polygonannotation/accept/"

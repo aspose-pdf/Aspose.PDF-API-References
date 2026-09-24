@@ -2,8 +2,8 @@
 title: "TextRecognitionResult.OcrDetails"
 linktitle: "OcrDetails"
 articleTitle: "OcrDetails"
-second_title: "Aspose.PDF for .NET"
-description: "A list containing the detailed OCR results for each page of the document. For single-image files, this list will typically contain one OcrDetail entry with P..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextRecognitionResult property. A list containing the detailed OCR results for each page of the document. For single-image files, this list will typically co..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/textrecognitionresult/ocrdetails/"

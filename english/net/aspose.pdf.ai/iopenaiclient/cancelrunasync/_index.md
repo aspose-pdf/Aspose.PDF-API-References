@@ -2,8 +2,8 @@
 title: "IOpenAIClient.CancelRunAsync"
 linktitle: "CancelRunAsync"
 articleTitle: "CancelRunAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Cancels an existing run within a thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Cancels an existing run within a thread asynchronously."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/iopenaiclient/cancelrunasync/"

@@ -2,8 +2,8 @@
 title: "TableRowBuilder.AddCell"
 linktitle: "AddCell"
 articleTitle: "AddCell"
-second_title: "Aspose.PDF for .NET"
-description: "Add cell to table row."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableRowBuilder method. Add cell to table row."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tablerowbuilder/addcell/"

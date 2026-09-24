@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.ForegroundColor"
 linktitle: "ForegroundColor"
 articleTitle: "ForegroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets foreground color (color of text). Default value: Blue."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets foreground color (color of text). Default value: Blue."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/"

@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.ExtensionFields"
 linktitle: "ExtensionFields"
 articleTitle: "ExtensionFields"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the dictionary of extension fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property. Gets the dictionary of extension fields."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/extensionfields/"

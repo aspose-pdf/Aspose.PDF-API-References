@@ -2,8 +2,8 @@
 title: "AttributeName.InlineAlign_End"
 linktitle: "InlineAlign_End"
 articleTitle: "InlineAlign_End"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute InlineAlign: End - End edge of each child's allocation rectangle aligned with that of the table cell's content rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute InlineAlign: End - End edge of each child's allocation rectangle aligned with that of the table cell's content rectangle."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.logicalstructure/attributename/inlinealign_end/"

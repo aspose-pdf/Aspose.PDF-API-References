@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.None"
 linktitle: "None"
 articleTitle: "None"
-second_title: "Aspose.PDF for .NET"
-description: "The \"None\" lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"None\" lighting scheme."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/none/"

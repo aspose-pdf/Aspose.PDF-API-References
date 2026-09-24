@@ -2,8 +2,8 @@
 title: "CurveTo Class"
 linktitle: "CurveTo"
 articleTitle: "CurveTo"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing c operator (append curve to path)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.CurveTo class. Class representing c operator (append curve to path)."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.operators/curveto/"

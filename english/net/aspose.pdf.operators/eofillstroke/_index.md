@@ -2,8 +2,8 @@
 title: "EOFillStroke Class"
 linktitle: "EOFillStroke"
 articleTitle: "EOFillStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing B* operator (fill and stroke path usign even-odd rule)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.EOFillStroke class. Class representing B* operator (fill and stroke path usign even-odd rule)."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.operators/eofillstroke/"

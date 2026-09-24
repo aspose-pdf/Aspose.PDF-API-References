@@ -2,8 +2,8 @@
 title: "Paragraphs.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Clear paragraphs."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs method. Clear paragraphs."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/paragraphs/clear/"

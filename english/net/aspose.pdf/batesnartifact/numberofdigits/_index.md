@@ -2,8 +2,8 @@
 title: "BatesNArtifact.NumberOfDigits"
 linktitle: "NumberOfDigits"
 articleTitle: "NumberOfDigits"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of digits for Bates numbering. The value must be between 3 and 15 inclusive. If a value less than 3 is set, it will be adjusted to 3...."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BatesNArtifact property. Gets or sets the number of digits for Bates numbering. The value must be between 3 and 15 inclusive. If a value less than 3 is set, ..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/batesnartifact/numberofdigits/"

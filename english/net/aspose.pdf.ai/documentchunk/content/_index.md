@@ -2,8 +2,8 @@
 title: "DocumentChunk.Content"
 linktitle: "Content"
 articleTitle: "Content"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the text content of the chunk."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk property. Gets the text content of the chunk."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/documentchunk/content/"

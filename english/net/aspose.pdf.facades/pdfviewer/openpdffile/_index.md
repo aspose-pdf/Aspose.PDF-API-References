@@ -2,8 +2,8 @@
 title: "PdfViewer.OpenPdfFile"
 linktitle: "OpenPdfFile"
 articleTitle: "OpenPdfFile"
-second_title: "Aspose.PDF for .NET"
-description: "Opens a Pdf file, but does not actually decode the pages of the Pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Opens a Pdf file, but does not actually decode the pages of the Pdf file."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdfviewer/openpdffile/"

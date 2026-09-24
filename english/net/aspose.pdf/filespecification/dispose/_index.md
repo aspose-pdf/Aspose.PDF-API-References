@@ -2,8 +2,8 @@
 title: "FileSpecification.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Dispose contents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification method. Dispose contents."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/filespecification/dispose/"

@@ -2,8 +2,8 @@
 title: "PaperSources.Middle"
 linktitle: "Middle"
 articleTitle: "Middle"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the middle bin of the printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents the middle bin of the printer."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/papersources/middle/"

@@ -2,8 +2,8 @@
 title: "RenderingOptions.BarcodeOptimization"
 linktitle: "BarcodeOptimization"
 articleTitle: "BarcodeOptimization"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets barcode optimization mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets barcode optimization mode."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/renderingoptions/barcodeoptimization/"

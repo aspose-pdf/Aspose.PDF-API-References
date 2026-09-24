@@ -2,8 +2,8 @@
 title: "OutputIntents.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds an output intent to the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntents method. Adds an output intent to the collection."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/outputintents/add/"

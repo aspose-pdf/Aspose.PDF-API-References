@@ -2,8 +2,8 @@
 title: "TableBroken Enum"
 linktitle: "TableBroken"
 articleTitle: "TableBroken"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the table broken."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TableBroken enum. Enumerates the table broken."
 type: docs
 weight: 2950
 url: "/net/aspose.pdf/tablebroken/"

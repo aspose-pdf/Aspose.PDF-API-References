@@ -2,8 +2,8 @@
 title: "PageSettings.Color"
 linktitle: "Color"
 articleTitle: "Color"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether the page is printed in color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings property. Gets or sets a value indicating whether the page is printed in color."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/pagesettings/color/"

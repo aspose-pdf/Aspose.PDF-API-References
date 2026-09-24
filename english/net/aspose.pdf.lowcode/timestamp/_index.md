@@ -2,8 +2,8 @@
 title: "Timestamp Class"
 linktitle: "Timestamp"
 articleTitle: "Timestamp"
-second_title: "Aspose.PDF for .NET"
-description: "Plugin that adds a timestamp to a digital signature using a timestamp server."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Timestamp class. Plugin that adds a timestamp to a digital signature using a timestamp server."
 type: docs
 weight: 1020
 url: "/net/aspose.pdf.lowcode/timestamp/"

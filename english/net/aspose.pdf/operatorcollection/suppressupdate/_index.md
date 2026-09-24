@@ -2,8 +2,8 @@
 title: "OperatorCollection.SuppressUpdate"
 linktitle: "SuppressUpdate"
 articleTitle: "SuppressUpdate"
-second_title: "Aspose.PDF for .NET"
-description: "Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method. Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/operatorcollection/suppressupdate/"

@@ -2,8 +2,8 @@
 title: "AIClientBase Class"
 linktitle: "AIClientBase"
 articleTitle: "AIClientBase"
-second_title: "Aspose.PDF for .NET"
-description: "Represents client to access AI API."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.AIClientBase class. Represents client to access AI API."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/aiclientbase/"

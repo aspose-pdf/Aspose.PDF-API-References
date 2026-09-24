@@ -2,8 +2,8 @@
 title: "Logprobs.TextOffset"
 linktitle: "TextOffset"
 articleTitle: "TextOffset"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of integers representing the UTF-8 byte representation of each token."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Logprobs property. Gets or sets a list of integers representing the UTF-8 byte representation of each token."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/logprobs/textoffset/"

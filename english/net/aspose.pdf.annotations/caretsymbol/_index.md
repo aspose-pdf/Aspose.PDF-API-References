@@ -2,8 +2,8 @@
 title: "CaretSymbol Enum"
 linktitle: "CaretSymbol"
 articleTitle: "CaretSymbol"
-second_title: "Aspose.PDF for .NET"
-description: "A symbol to be associated with the caret."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.CaretSymbol enum. A symbol to be associated with the caret."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/caretsymbol/"

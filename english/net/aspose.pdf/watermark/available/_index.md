@@ -2,8 +2,8 @@
 title: "Watermark.Available"
 linktitle: "Available"
 articleTitle: "Available"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a flag the watermark is present."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Watermark property. Gets a flag the watermark is present."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/watermark/available/"

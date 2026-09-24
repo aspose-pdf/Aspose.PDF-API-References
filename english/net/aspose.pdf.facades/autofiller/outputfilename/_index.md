@@ -2,8 +2,8 @@
 title: "AutoFiller.OutputFileName"
 linktitle: "OutputFileName"
 articleTitle: "OutputFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the one big merged output file. One of the four output modes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller property. Gets or sets the one big merged output file. One of the four output modes."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/autofiller/outputfilename/"

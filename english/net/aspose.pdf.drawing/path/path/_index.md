@@ -2,8 +2,8 @@
 title: "Path.Path"
 linktitle: "Path"
 articleTitle: "Path"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Path class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Path constructor. Initializes a new instance of the Path class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/path/path/"

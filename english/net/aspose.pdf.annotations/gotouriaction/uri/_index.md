@@ -2,8 +2,8 @@
 title: "GoToURIAction.URI"
 linktitle: "URI"
 articleTitle: "URI"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the uniform resource identifier to resolve."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GoToURIAction property. Gets or sets the uniform resource identifier to resolve."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/gotouriaction/uri/"

@@ -2,8 +2,8 @@
 title: "TaggedException Class"
 linktitle: "TaggedException"
 articleTitle: "TaggedException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents exception for TaggedPDF content of document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Tagged.TaggedException class. Represents exception for TaggedPDF content of document."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.tagged/taggedexception/"

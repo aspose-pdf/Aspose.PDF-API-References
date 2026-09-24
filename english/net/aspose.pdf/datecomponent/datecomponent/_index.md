@@ -2,8 +2,8 @@
 title: "DateComponent.DateComponent"
 linktitle: "DateComponent"
 articleTitle: "DateComponent"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DateComponent class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DateComponent constructor. Initializes a new instance of the DateComponent class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/datecomponent/datecomponent/"

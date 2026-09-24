@@ -2,8 +2,8 @@
 title: "GraphicElement._matrix"
 linktitle: "_matrix"
 articleTitle: "_matrix"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElement field."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.vector/graphicelement/_matrix/"

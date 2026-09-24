@@ -2,8 +2,8 @@
 title: "ListBoxField.TopIndex"
 linktitle: "TopIndex"
 articleTitle: "TopIndex"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets index of the top visible element of the list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ListBoxField property. Gets or sets index of the top visible element of the list."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/listboxfield/topindex/"

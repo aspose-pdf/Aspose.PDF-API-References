@@ -2,8 +2,8 @@
 title: "StructureElement.Attributes"
 linktitle: "Attributes"
 articleTitle: "Attributes"
-second_title: "Aspose.PDF for .NET"
-description: "Gets object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets object."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.logicalstructure/structureelement/attributes/"

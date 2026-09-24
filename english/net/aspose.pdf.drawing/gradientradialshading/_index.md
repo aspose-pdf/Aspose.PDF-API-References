@@ -2,8 +2,8 @@
 title: "GradientRadialShading Class"
 linktitle: "GradientRadialShading"
 articleTitle: "GradientRadialShading"
-second_title: "Aspose.PDF for .NET"
-description: "Represents gradient radial shading type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.GradientRadialShading class. Represents gradient radial shading type."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.drawing/gradientradialshading/"

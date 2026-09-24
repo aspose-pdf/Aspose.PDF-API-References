@@ -2,8 +2,8 @@
 title: "AttributeName.Placement_Before"
 linktitle: "Placement_Before"
 articleTitle: "Placement_Before"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Placement: Before - Placed so that the before edge of the element's allocation rectangle coincides with that of the nearest enclosing reference area."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Placement: Before - Placed so that the before edge of the element's allocation rectangle coincides with that of the nearest en..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/attributename/placement_before/"

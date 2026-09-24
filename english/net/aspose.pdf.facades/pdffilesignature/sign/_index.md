@@ -2,8 +2,8 @@
 title: "PdfFileSignature.Sign"
 linktitle: "Sign"
 articleTitle: "Sign"
-second_title: "Aspose.PDF for .NET"
-description: "Make a signature on the pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Make a signature on the pdf document."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdffilesignature/sign/"

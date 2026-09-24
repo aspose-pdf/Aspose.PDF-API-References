@@ -2,8 +2,8 @@
 title: "SignatureAlgorithmInfo.DigestHashAlgorithm"
 linktitle: "DigestHashAlgorithm"
 articleTitle: "DigestHashAlgorithm"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the digest hash algorithm used for the signature. For a timestamp, this is the digest hash algorithm with which the hash of the document content is signed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureAlgorithmInfo field. Gets the digest hash algorithm used for the signature. For a timestamp, this is the digest hash algorithm with which the hash o..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/"

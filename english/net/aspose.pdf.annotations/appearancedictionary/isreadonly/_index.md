@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether dictionary is read-only."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary property. Gets a value indicating whether dictionary is read-only."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/appearancedictionary/isreadonly/"

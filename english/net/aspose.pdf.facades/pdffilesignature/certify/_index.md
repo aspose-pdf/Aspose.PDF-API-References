@@ -2,8 +2,8 @@
 title: "PdfFileSignature.Certify"
 linktitle: "Certify"
 articleTitle: "Certify"
-second_title: "Aspose.PDF for .NET"
-description: "Certify the document with the MDP signature. Such data as signature reason, contact and location must be provided by corresponding properties of the Signatur..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Certify the document with the MDP signature. Such data as signature reason, contact and location must be provided by corresponding p..."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdffilesignature/certify/"

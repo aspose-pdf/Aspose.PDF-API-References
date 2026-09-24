@@ -2,8 +2,8 @@
 title: "VerificationResult.Message"
 linktitle: "Message"
 articleTitle: "Message"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the message associated with the verification result. The property value provides additional details about the verification outcome, such as error descri..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VerificationResult property. Gets the message associated with the verification result. The property value provides additional details about the verification ..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/verificationresult/message/"

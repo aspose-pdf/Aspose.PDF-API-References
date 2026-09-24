@@ -2,8 +2,8 @@
 title: "Artifact.Form"
 linktitle: "Form"
 articleTitle: "Form"
-second_title: "Aspose.PDF for .NET"
-description: "Gets XForm of the artifact (if XForm is used)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets XForm of the artifact (if XForm is used)."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/artifact/form/"

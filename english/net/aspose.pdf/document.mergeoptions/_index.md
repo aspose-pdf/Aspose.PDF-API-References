@@ -2,8 +2,8 @@
 title: "Document.MergeOptions Class"
 linktitle: "Document.MergeOptions"
 articleTitle: "Document.MergeOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the options to Merge methods."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Document.MergeOptions class. Represents the options to Merge methods."
 type: docs
 weight: 660
 url: "/net/aspose.pdf/document.mergeoptions/"

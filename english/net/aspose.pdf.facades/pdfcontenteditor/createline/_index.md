@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateLine"
 linktitle: "CreateLine"
 articleTitle: "CreateLine"
-second_title: "Aspose.PDF for .NET"
-description: "Creates line annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates line annotation."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createline/"

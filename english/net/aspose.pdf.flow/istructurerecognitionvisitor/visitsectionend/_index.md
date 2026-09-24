@@ -2,8 +2,8 @@
 title: "IStructureRecognitionVisitor.VisitSectionEnd"
 linktitle: "VisitSectionEnd"
 articleTitle: "VisitSectionEnd"
-second_title: "Aspose.PDF for .NET"
-description: "Visits the end of a recognized section in the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IStructureRecognitionVisitor method. Visits the end of a recognized section in the document."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.flow/istructurerecognitionvisitor/visitsectionend/"

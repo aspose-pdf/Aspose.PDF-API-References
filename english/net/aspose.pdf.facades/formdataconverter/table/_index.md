@@ -2,8 +2,8 @@
 title: "FormDataConverter.Table"
 linktitle: "Table"
 articleTitle: "Table"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the middle data container, one DataTable. It must be defined before converting data from one format to another format. The Columns and TableName..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter property. Gets or sets the middle data container, one DataTable. It must be defined before converting data from one format to another forma..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/formdataconverter/table/"

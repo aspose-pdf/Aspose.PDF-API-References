@@ -2,8 +2,8 @@
 title: "FormEditor.CopyOuterField"
 linktitle: "CopyOuterField"
 articleTitle: "CopyOuterField"
-second_title: "Aspose.PDF for .NET"
-description: "Copies an existing field from one PDF document to another document with original page number and ordinates. Notice: Only for AcroForm fields (excluding radio..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Copies an existing field from one PDF document to another document with original page number and ordinates. Notice: Only for AcroForm fiel..."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/formeditor/copyouterfield/"

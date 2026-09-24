@@ -2,8 +2,8 @@
 title: "TableElement.CreateTBody"
 linktitle: "CreateTBody"
 articleTitle: "CreateTBody"
-second_title: "Aspose.PDF for .NET"
-description: "Creates and added it to current table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement method. Creates and added it to current table."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/tableelement/createtbody/"

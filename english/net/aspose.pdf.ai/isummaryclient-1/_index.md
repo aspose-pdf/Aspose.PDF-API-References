@@ -2,8 +2,8 @@
 title: "ISummaryClient<TOptions> Interface"
 linktitle: "ISummaryClient<TOptions>"
 articleTitle: "ISummaryClient<TOptions>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ISummaryClient interface."
 type: docs
 weight: 630
 url: "/net/aspose.pdf.ai/isummaryclient-1/"

@@ -2,8 +2,8 @@
 title: "DestinationCollection.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Collection is read-only. Always throws NotSupportedException exception."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Collection is read-only. Always throws NotSupportedException exception."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/destinationcollection/clear/"

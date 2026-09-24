@@ -2,8 +2,8 @@
 title: "BarcodeField.XSymHeight"
 linktitle: "XSymHeight"
 articleTitle: "XSymHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the the vertical distance between two barcode modules, measured in pixels. The ratio XSymHeight/XSymWidth shall be an integer value. For PDF417, the acc..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BarcodeField property. Gets the the vertical distance between two barcode modules, measured in pixels. The ratio XSymHeight/XSymWidth shall be an integer val..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/barcodefield/xsymheight/"

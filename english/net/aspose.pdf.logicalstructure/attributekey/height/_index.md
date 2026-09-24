@@ -2,8 +2,8 @@
 title: "AttributeKey.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Height attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Height attribute (Layout attribute owner)."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.logicalstructure/attributekey/height/"

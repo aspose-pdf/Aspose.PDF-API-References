@@ -2,8 +2,8 @@
 title: "StructureAttribute.StructureAttribute"
 linktitle: "StructureAttribute"
 articleTitle: "StructureAttribute"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the StructureAttribute class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttribute constructor. Initializes a new instance of the StructureAttribute class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureattribute/structureattribute/"

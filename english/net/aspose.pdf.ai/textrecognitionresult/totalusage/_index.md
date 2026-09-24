@@ -2,8 +2,8 @@
 title: "TextRecognitionResult.TotalUsage"
 linktitle: "TotalUsage"
 articleTitle: "TotalUsage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the total usage statistics for processing this document (all pages)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextRecognitionResult property. Gets or sets the total usage statistics for processing this document (all pages)."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/textrecognitionresult/totalusage/"

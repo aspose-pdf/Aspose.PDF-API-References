@@ -2,8 +2,8 @@
 title: "IncorrectCMapUsageException Class"
 linktitle: "IncorrectCMapUsageException"
 articleTitle: "IncorrectCMapUsageException"
-second_title: "Aspose.PDF for .NET"
-description: "The exception that is thrown when font usage is incorrect."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IncorrectCMapUsageException class. The exception that is thrown when font usage is incorrect."
 type: docs
 weight: 1590
 url: "/net/aspose.pdf/incorrectcmapusageexception/"

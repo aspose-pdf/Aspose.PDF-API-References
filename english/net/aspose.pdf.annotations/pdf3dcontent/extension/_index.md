@@ -2,8 +2,8 @@
 title: "PDF3DContent.Extension"
 linktitle: "Extension"
 articleTitle: "Extension"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the extension ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent property. Gets the extension ."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/pdf3dcontent/extension/"

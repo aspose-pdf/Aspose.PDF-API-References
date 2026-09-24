@@ -2,8 +2,8 @@
 title: "Form.FlattenSettings.CallEvents"
 linktitle: "CallEvents"
 articleTitle: "CallEvents"
-second_title: "Aspose.PDF for .NET"
-description: "If set, formatting and other JavaScript events will be called. True by default."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FlattenSettings property. If set, formatting and other JavaScript events will be called. True by default."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/form.flattensettings/callevents/"

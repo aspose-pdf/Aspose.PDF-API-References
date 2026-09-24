@@ -2,8 +2,8 @@
 title: "DocumentInfo.ClearCustomData"
 linktitle: "ClearCustomData"
 articleTitle: "ClearCustomData"
-second_title: "Aspose.PDF for .NET"
-description: "Clears custom data only, leaves all other predefined values (Title, Author, etc.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo method. Clears custom data only, leaves all other predefined values (Title, Author, etc.)."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/documentinfo/clearcustomdata/"

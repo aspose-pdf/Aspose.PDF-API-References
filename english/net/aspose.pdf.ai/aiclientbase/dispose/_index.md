@@ -2,8 +2,8 @@
 title: "AIClientBase.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Disposes of the resources used by the ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientBase method. Disposes of the resources used by the ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/aiclientbase/dispose/"

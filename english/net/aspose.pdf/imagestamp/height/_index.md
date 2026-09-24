@@ -2,8 +2,8 @@
 title: "ImageStamp.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets image height. Setting this image allows to scale image vertically."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp property. Gets or sets image height. Setting this image allows to scale image vertically."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/imagestamp/height/"

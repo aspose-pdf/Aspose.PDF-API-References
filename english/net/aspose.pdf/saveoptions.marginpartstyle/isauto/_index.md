@@ -2,8 +2,8 @@
 title: "SaveOptions.MarginPartStyle.IsAuto"
 linktitle: "IsAuto"
 articleTitle: "IsAuto"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether this instance is auto."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginPartStyle property. Gets or sets a value indicating whether this instance is auto."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/saveoptions.marginpartstyle/isauto/"

@@ -2,8 +2,8 @@
 title: "Graph.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the graph height. The unit is point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Graph property. Gets or sets a float value that indicates the graph height. The unit is point."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.drawing/graph/height/"

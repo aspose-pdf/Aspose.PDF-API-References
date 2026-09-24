@@ -2,8 +2,8 @@
 title: "PdfExtractor.TextSearchOptions"
 linktitle: "TextSearchOptions"
 articleTitle: "TextSearchOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text search options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Gets or sets text search options."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdfextractor/textsearchoptions/"

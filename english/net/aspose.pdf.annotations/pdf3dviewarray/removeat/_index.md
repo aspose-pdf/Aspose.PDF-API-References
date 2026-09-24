@@ -2,8 +2,8 @@
 title: "PDF3DViewArray.RemoveAt"
 linktitle: "RemoveAt"
 articleTitle: "RemoveAt"
-second_title: "Aspose.PDF for .NET"
-description: "Removes view from views array at specified index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DViewArray method. Removes view from views array at specified index."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/removeat/"

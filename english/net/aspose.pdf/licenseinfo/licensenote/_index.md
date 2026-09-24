@@ -2,8 +2,8 @@
 title: "LicenseInfo.LicenseNote"
 linktitle: "LicenseNote"
 articleTitle: "LicenseNote"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the license note."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LicenseInfo property. Gets the license note."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/licenseinfo/licensenote/"

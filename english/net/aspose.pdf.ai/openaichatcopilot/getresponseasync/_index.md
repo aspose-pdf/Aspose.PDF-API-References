@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilot.GetResponseAsync"
 linktitle: "GetResponseAsync"
 articleTitle: "GetResponseAsync"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilot method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaichatcopilot/getresponseasync/"

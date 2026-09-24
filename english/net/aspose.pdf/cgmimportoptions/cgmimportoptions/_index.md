@@ -2,8 +2,8 @@
 title: "CgmImportOptions.CgmImportOptions"
 linktitle: "CgmImportOptions"
 articleTitle: "CgmImportOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CgmImportOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CgmImportOptions constructor. Initializes a new instance of the CgmImportOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/cgmimportoptions/cgmimportoptions/"

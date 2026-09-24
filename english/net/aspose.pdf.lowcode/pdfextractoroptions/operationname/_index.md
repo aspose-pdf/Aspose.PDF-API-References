@@ -2,8 +2,8 @@
 title: "PdfExtractorOptions.OperationName"
 linktitle: "OperationName"
 articleTitle: "OperationName"
-second_title: "Aspose.PDF for .NET"
-description: "Returns operation name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractorOptions property. Returns operation name"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdfextractoroptions/operationname/"

@@ -2,8 +2,8 @@
 title: "SignatureAlgorithmType Enum"
 linktitle: "SignatureAlgorithmType"
 articleTitle: "SignatureAlgorithmType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the types of signature algorithms used for digital signatures."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.SignatureAlgorithmType enum. Enumerates the types of signature algorithms used for digital signatures."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.security/signaturealgorithmtype/"

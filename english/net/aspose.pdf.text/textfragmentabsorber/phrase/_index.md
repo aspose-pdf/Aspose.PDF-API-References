@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber.Phrase"
 linktitle: "Phrase"
 articleTitle: "Phrase"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets phrase that the searches on the PDF document or page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets or sets phrase that the searches on the PDF document or page."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.text/textfragmentabsorber/phrase/"

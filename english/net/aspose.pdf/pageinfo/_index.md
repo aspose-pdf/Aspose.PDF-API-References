@@ -2,8 +2,8 @@
 title: "PageInfo Class"
 linktitle: "PageInfo"
 articleTitle: "PageInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the page information."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageInfo class. Represents the page information."
 type: docs
 weight: 2220
 url: "/net/aspose.pdf/pageinfo/"

@@ -2,8 +2,8 @@
 title: "PdfFileStamp.AddStamp"
 linktitle: "AddStamp"
 articleTitle: "AddStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Adds stamp to the file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Adds stamp to the file."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdffilestamp/addstamp/"

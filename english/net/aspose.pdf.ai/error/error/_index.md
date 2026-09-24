@@ -2,8 +2,8 @@
 title: "Error.Error"
 linktitle: "Error"
 articleTitle: "Error"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Error class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Error constructor. Initializes a new instance of the Error class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/error/error/"

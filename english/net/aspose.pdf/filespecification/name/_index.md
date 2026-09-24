@@ -2,8 +2,8 @@
 title: "FileSpecification.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets file specification name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets or sets file specification name."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/filespecification/name/"

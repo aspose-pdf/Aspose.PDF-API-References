@@ -2,8 +2,8 @@
 title: "DocumentInfo.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets document title."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo property. Gets or sets document title."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/documentinfo/title/"

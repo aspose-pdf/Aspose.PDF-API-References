@@ -2,8 +2,8 @@
 title: "XmpField.op_Equality"
 linktitle: "op_Equality"
 articleTitle: "op_Equality"
-second_title: "Aspose.PDF for .NET"
-description: "Implements the operator ==."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField method. Implements the operator ==."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmpfield/op_equality/"

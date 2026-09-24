@@ -2,8 +2,8 @@
 title: "PdfFileInfo.UseStrictValidation"
 linktitle: "UseStrictValidation"
 articleTitle: "UseStrictValidation"
-second_title: "Aspose.PDF for .NET"
-description: "Uses strict validation rules via using property."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo property. Uses strict validation rules via using property."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/"

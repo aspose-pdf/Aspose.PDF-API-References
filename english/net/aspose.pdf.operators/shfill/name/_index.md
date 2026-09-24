@@ -2,8 +2,8 @@
 title: "ShFill.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the shading name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ShFill property. Gets or sets the shading name."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/shfill/name/"

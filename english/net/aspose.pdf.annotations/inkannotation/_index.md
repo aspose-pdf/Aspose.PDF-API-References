@@ -2,8 +2,8 @@
 title: "InkAnnotation Class"
 linktitle: "InkAnnotation"
 articleTitle: "InkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a freehand \"scribble\" composed of one or more disjoint paths."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.InkAnnotation class. Represents a freehand \"scribble\" composed of one or more disjoint paths."
 type: docs
 weight: 540
 url: "/net/aspose.pdf.annotations/inkannotation/"

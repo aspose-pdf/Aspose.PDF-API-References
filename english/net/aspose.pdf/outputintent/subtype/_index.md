@@ -2,8 +2,8 @@
 title: "OutputIntent.Subtype"
 linktitle: "Subtype"
 articleTitle: "Subtype"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the output intent subtype."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntent property. Gets the output intent subtype."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/outputintent/subtype/"

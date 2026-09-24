@@ -2,8 +2,8 @@
 title: "CreateEmbeddingRequest.Input"
 linktitle: "Input"
 articleTitle: "Input"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets input text to embed, encoded as a string or array of tokens. To embed multiple inputs in a single request, pass an array of strings or array of ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateEmbeddingRequest property. Gets or sets input text to embed, encoded as a string or array of tokens. To embed multiple inputs in a single request, pass..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/createembeddingrequest/input/"

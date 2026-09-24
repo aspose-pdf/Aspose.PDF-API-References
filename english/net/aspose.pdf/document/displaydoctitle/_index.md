@@ -2,8 +2,8 @@
 title: "Document.DisplayDocTitle"
 linktitle: "DisplayDocTitle"
 articleTitle: "DisplayDocTitle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets flag specifying whether document's window title bar should display document title."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets flag specifying whether document's window title bar should display document title."
 type: docs
 weight: 1310
 url: "/net/aspose.pdf/document/displaydoctitle/"

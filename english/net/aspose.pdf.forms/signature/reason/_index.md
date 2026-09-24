@@ -2,8 +2,8 @@
 title: "Signature.Reason"
 linktitle: "Reason"
 articleTitle: "Reason"
-second_title: "Aspose.PDF for .NET"
-description: "The reason for the signing, such as (I agree, Pip B.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. The reason for the signing, such as (I agree, Pip B.)."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.forms/signature/reason/"

@@ -2,8 +2,8 @@
 title: "ValidationOptions.ValidationMode"
 linktitle: "ValidationMode"
 articleTitle: "ValidationMode"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the mode of validation for digital signatures in a PDF document. The ValidationMode property determines the strictness of the validation process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ValidationOptions property. Gets or sets the mode of validation for digital signatures in a PDF document. The ValidationMode property determines the strictne..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/validationoptions/validationmode/"

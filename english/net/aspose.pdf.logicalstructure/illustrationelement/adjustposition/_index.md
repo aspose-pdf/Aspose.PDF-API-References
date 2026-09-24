@@ -2,8 +2,8 @@
 title: "IllustrationElement.AdjustPosition"
 linktitle: "AdjustPosition"
 articleTitle: "AdjustPosition"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IllustrationElement method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/illustrationelement/adjustposition/"

@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.SplitIntoPages"
 linktitle: "SplitIntoPages"
 articleTitle: "SplitIntoPages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the flag that indicates whether each page of source document will be converted into it's own target HTML document, i.e whether result HTML will ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Gets or sets the flag that indicates whether each page of source document will be converted into it's own target HTML document, i.e..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/htmlsaveoptions/splitintopages/"

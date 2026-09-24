@@ -2,8 +2,8 @@
 title: "PdfBookmarkEditor.ExtractBookmarks"
 linktitle: "ExtractBookmarks"
 articleTitle: "ExtractBookmarks"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts bookmarks of all levels from the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Extracts bookmarks of all levels from the document."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/"

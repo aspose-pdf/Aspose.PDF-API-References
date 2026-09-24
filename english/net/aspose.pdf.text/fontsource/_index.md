@@ -2,8 +2,8 @@
 title: "FontSource Class"
 linktitle: "FontSource"
 articleTitle: "FontSource"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class fot font source."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.FontSource class. Represents a base class fot font source."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.text/fontsource/"

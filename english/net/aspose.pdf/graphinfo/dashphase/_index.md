@@ -2,8 +2,8 @@
 title: "GraphInfo.DashPhase"
 linktitle: "DashPhase"
 articleTitle: "DashPhase"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a dash phase."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphInfo property. Gets or sets a dash phase."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/graphinfo/dashphase/"

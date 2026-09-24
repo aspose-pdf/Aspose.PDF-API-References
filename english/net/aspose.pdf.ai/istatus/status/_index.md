@@ -2,8 +2,8 @@
 title: "IStatus.Status"
 linktitle: "Status"
 articleTitle: "Status"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the status of the operation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IStatus property. Gets or sets the status of the operation."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/istatus/status/"

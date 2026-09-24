@@ -2,8 +2,8 @@
 title: "IOpenAIClient.WaitForAssistantMessageAsync"
 linktitle: "WaitForAssistantMessageAsync"
 articleTitle: "WaitForAssistantMessageAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Waits for the first message from the assistant within a thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Waits for the first message from the assistant within a thread asynchronously."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.ai/iopenaiclient/waitforassistantmessageasync/"

@@ -2,8 +2,8 @@
 title: "Image.FileType"
 linktitle: "FileType"
 articleTitle: "FileType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the image file type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets the image file type."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/image/filetype/"

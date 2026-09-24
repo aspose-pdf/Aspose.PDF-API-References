@@ -2,8 +2,8 @@
 title: "Element.ClearChilds"
 linktitle: "ClearChilds"
 articleTitle: "ClearChilds"
-second_title: "Aspose.PDF for .NET"
-description: "Clear all childs."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element method. Clear all childs."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/element/clearchilds/"

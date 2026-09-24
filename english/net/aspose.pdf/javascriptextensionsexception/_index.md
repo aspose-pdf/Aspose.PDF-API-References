@@ -2,8 +2,8 @@
 title: "JavascriptExtensionsException Class"
 linktitle: "JavascriptExtensionsException"
 articleTitle: "JavascriptExtensionsException"
-second_title: "Aspose.PDF for .NET"
-description: "The exception that is thrown on errors when working with JavascriptExtensions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.JavascriptExtensionsException class. The exception that is thrown on errors when working with JavascriptExtensions."
 type: docs
 weight: 1680
 url: "/net/aspose.pdf/javascriptextensionsexception/"

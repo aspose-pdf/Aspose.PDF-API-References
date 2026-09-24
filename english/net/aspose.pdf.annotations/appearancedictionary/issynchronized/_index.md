@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether access to the dictionary is synchronized (thread safe)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary property. Gets a value indicating whether access to the dictionary is synchronized (thread safe)."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/appearancedictionary/issynchronized/"

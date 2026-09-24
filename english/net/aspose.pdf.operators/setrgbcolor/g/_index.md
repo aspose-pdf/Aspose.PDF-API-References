@@ -2,8 +2,8 @@
 title: "SetRGBColor.G"
 linktitle: "G"
 articleTitle: "G"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the green component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetRGBColor property. Gets or sets the green component."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.operators/setrgbcolor/g/"

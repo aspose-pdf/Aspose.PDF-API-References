@@ -2,8 +2,8 @@
 title: "SubmitFormAction.EmbedForm"
 linktitle: "EmbedForm"
 articleTitle: "EmbedForm"
-second_title: "Aspose.PDF for .NET"
-description: "If set, the F entry of the submitted FDF shall be a file specification containing an embedded file stream representing the PDF file from which the FDF is bei..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If set, the F entry of the submitted FDF shall be a file specification containing an embedded file stream representing the PDF file f..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/submitformaction/embedform/"

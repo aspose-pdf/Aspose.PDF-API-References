@@ -2,8 +2,8 @@
 title: "ImagePlacement.Operator"
 linktitle: "Operator"
 articleTitle: "Operator"
-second_title: "Aspose.PDF for .NET"
-description: "Operator used for displaying the image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement property. Operator used for displaying the image."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/imageplacement/operator/"

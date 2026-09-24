@@ -2,8 +2,8 @@
 title: "Artifact.TextState"
 linktitle: "TextState"
 articleTitle: "TextState"
-second_title: "Aspose.PDF for .NET"
-description: "Text state for artifact text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Text state for artifact text."
 type: docs
 weight: 350
 url: "/net/aspose.pdf/artifact/textstate/"

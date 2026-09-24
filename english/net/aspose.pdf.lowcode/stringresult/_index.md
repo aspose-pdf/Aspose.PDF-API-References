@@ -2,8 +2,8 @@
 title: "StringResult Class"
 linktitle: "StringResult"
 articleTitle: "StringResult"
-second_title: "Aspose.PDF for .NET"
-description: "Represents operation result in the form of string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.StringResult class. Represents operation result in the form of string."
 type: docs
 weight: 910
 url: "/net/aspose.pdf.lowcode/stringresult/"

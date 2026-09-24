@@ -2,8 +2,8 @@
 title: "Signature Class"
 linktitle: "Signature"
 articleTitle: "Signature"
-second_title: "Aspose.PDF for .NET"
-description: "Represents plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Signature class. Represents plugin."
 type: docs
 weight: 850
 url: "/net/aspose.pdf.lowcode/signature/"

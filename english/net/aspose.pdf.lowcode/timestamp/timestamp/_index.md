@@ -2,8 +2,8 @@
 title: "Timestamp.Timestamp"
 linktitle: "Timestamp"
 articleTitle: "Timestamp"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Timestamp class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Timestamp constructor. Initializes a new instance of the Timestamp class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/timestamp/timestamp/"

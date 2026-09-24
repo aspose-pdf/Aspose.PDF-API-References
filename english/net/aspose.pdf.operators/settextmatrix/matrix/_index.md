@@ -2,8 +2,8 @@
 title: "SetTextMatrix.Matrix"
 linktitle: "Matrix"
 articleTitle: "Matrix"
-second_title: "Aspose.PDF for .NET"
-description: "Matrix argument of the operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextMatrix property. Matrix argument of the operator."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/settextmatrix/matrix/"

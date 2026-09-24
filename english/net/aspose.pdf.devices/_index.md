@@ -2,7 +2,7 @@
 title: "Aspose.Pdf.Devices"
 linktitle: "Aspose.Pdf.Devices"
 articleTitle: "Aspose.Pdf.Devices"
-second_title: "Aspose.PDF for .NET"
+second_title: "Aspose.PDF for .NET API Reference"
 description: "The **Aspose.Pdf.Devices** namespace provides classes."
 type: docs
 weight: 10

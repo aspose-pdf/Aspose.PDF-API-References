@@ -2,8 +2,8 @@
 title: "AbsorbedTable.PageNum"
 linktitle: "PageNum"
 articleTitle: "PageNum"
-second_title: "Aspose.PDF for .NET"
-description: "Gets number of the page containing this table"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedTable property. Gets number of the page containing this table"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/absorbedtable/pagenum/"

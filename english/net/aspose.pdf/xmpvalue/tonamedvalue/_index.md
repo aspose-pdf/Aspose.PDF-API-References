@@ -2,8 +2,8 @@
 title: "XmpValue.ToNamedValue"
 linktitle: "ToNamedValue"
 articleTitle: "ToNamedValue"
-second_title: "Aspose.PDF for .NET"
-description: "Returns XMP value as named value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Returns XMP value as named value."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/xmpvalue/tonamedvalue/"

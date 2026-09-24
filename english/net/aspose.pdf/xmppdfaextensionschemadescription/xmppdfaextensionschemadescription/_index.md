@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription"
 linktitle: "XmpPdfAExtensionSchemaDescription"
 articleTitle: "XmpPdfAExtensionSchemaDescription"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the XmpPdfAExtensionSchemaDescription class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchemaDescription constructor. Initializes a new instance of the XmpPdfAExtensionSchemaDescription class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/"

@@ -2,8 +2,8 @@
 title: "PdfFileSignature.IsCertified"
 linktitle: "IsCertified"
 articleTitle: "IsCertified"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the flag determining whether a document is certified or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature property. Gets the flag determining whether a document is certified or not."
 type: docs
 weight: 710
 url: "/net/aspose.pdf.facades/pdffilesignature/iscertified/"

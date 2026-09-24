@@ -2,8 +2,8 @@
 title: "OBJRElement Class"
 linktitle: "OBJRElement"
 articleTitle: "OBJRElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents object reference entity in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.OBJRElement class. Represents object reference entity in logical structure."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.logicalstructure/objrelement/"

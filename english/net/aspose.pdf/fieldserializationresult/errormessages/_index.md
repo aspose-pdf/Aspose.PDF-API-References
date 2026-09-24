@@ -2,8 +2,8 @@
 title: "FieldSerializationResult.ErrorMessages"
 linktitle: "ErrorMessages"
 articleTitle: "ErrorMessages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the error messages associated with the serialization process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FieldSerializationResult property. Gets the error messages associated with the serialization process."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/fieldserializationresult/errormessages/"

@@ -2,8 +2,8 @@
 title: "Arc.Beta"
 linktitle: "Beta"
 articleTitle: "Beta"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the ending angle degree of the arc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Arc property. Gets or sets a float value that indicates the ending angle degree of the arc."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.drawing/arc/beta/"

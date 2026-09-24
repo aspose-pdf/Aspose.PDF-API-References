@@ -2,8 +2,8 @@
 title: "FormFieldFacade.Caption"
 linktitle: "Caption"
 articleTitle: "Caption"
-second_title: "Aspose.PDF for .NET"
-description: "The normal caption of form field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The normal caption of form field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/formfieldfacade/caption/"

@@ -2,8 +2,8 @@
 title: "ThreadMessageResponse.Content"
 linktitle: "Content"
 articleTitle: "Content"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the content of the message in an array of text and/or images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageResponse property. Gets or sets the content of the message in an array of text and/or images."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/threadmessageresponse/content/"

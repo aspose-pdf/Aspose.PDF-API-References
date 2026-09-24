@@ -2,8 +2,8 @@
 title: "FormEditorOptions.FormEditorOptions"
 linktitle: "FormEditorOptions"
 articleTitle: "FormEditorOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormEditorOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditorOptions constructor. Initializes a new instance of the FormEditorOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formeditoroptions/formeditoroptions/"

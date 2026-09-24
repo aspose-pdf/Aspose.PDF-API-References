@@ -2,8 +2,8 @@
 title: "Signature.DefaultSignatureLength"
 linktitle: "DefaultSignatureLength"
 articleTitle: "DefaultSignatureLength"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the default length for the signature data in bytes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. Gets or sets the default length for the signature data in bytes."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.forms/signature/defaultsignaturelength/"

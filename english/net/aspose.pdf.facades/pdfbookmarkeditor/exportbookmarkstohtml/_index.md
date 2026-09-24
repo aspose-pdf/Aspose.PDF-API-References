@@ -2,8 +2,8 @@
 title: "PdfBookmarkEditor.ExportBookmarksToHtml"
 linktitle: "ExportBookmarksToHtml"
 articleTitle: "ExportBookmarksToHtml"
-second_title: "Aspose.PDF for .NET"
-description: "Exports bookmarks to HTML file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Exports bookmarks to HTML file."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/"

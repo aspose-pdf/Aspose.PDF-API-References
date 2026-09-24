@@ -2,8 +2,8 @@
 title: "LineAnnotation.CaptionOffset"
 linktitle: "CaptionOffset"
 articleTitle: "CaptionOffset"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets caption text offset from its normal position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets caption text offset from its normal position."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/lineannotation/captionoffset/"

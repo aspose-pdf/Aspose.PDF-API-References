@@ -2,8 +2,8 @@
 title: "RedactionAnnotation.DefaultAppearance"
 linktitle: "DefaultAppearance"
 articleTitle: "DefaultAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the default appearance string to be used in formatting the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RedactionAnnotation property. Gets or sets the default appearance string to be used in formatting the text."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/redactionannotation/defaultappearance/"

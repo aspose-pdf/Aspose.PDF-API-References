@@ -2,8 +2,8 @@
 title: "XFormPlacement.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets name of the XForm."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormPlacement property. Gets name of the XForm."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/xformplacement/name/"

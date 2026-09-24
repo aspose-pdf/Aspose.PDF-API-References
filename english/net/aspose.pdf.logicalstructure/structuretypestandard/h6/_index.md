@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.H6"
 linktitle: "H6"
 articleTitle: "H6"
-second_title: "Aspose.PDF for .NET"
-description: "Level 6 Heading, for use in conforming writers that cannot hierarchically nest their sections and thus cannot determine the level of a heading from its level..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. Level 6 Heading, for use in conforming writers that cannot hierarchically nest their sections and thus cannot determine the leve..."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/h6/"

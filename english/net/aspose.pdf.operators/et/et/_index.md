@@ -2,8 +2,8 @@
 title: "ET.ET"
 linktitle: "ET"
 articleTitle: "ET"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ET class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ET constructor. Initializes a new instance of the ET class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/et/et/"

@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.OptimizeFileSize"
 linktitle: "OptimizeFileSize"
 articleTitle: "OptimizeFileSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fon..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Gets or sets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now thi..."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/pdfformatconversionoptions/optimizefilesize/"

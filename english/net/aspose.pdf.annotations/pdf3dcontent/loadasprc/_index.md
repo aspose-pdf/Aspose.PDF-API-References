@@ -2,8 +2,8 @@
 title: "PDF3DContent.LoadAsPRC"
 linktitle: "LoadAsPRC"
 articleTitle: "LoadAsPRC"
-second_title: "Aspose.PDF for .NET"
-description: "Loads 3D content with the specified filename as PRC format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent method. Loads 3D content with the specified filename as PRC format."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/"

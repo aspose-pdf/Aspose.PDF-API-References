@@ -2,8 +2,8 @@
 title: "FontRepository.OpenFont"
 linktitle: "OpenFont"
 articleTitle: "OpenFont"
-second_title: "Aspose.PDF for .NET"
-description: "Opens font with specified font stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontRepository method. Opens font with specified font stream."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/fontrepository/openfont/"

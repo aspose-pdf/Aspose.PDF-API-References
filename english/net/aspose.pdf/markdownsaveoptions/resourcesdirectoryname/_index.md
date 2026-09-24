@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions.ResourcesDirectoryName"
 linktitle: "ResourcesDirectoryName"
 articleTitle: "ResourcesDirectoryName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the directory name to save document resources such as images. If the value is not specified, then the images will be written to the same direct..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkdownSaveOptions property. Gets and sets the directory name to save document resources such as images. If the value is not specified, then the images will..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/markdownsaveoptions/resourcesdirectoryname/"

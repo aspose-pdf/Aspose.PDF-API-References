@@ -2,8 +2,8 @@
 title: "SetTextMatrix Class"
 linktitle: "SetTextMatrix"
 articleTitle: "SetTextMatrix"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Tm operator (set text matrix)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetTextMatrix class. Class representing Tm operator (set text matrix)."
 type: docs
 weight: 750
 url: "/net/aspose.pdf.operators/settextmatrix/"

@@ -2,8 +2,8 @@
 title: "Color Class"
 linktitle: "Color"
 articleTitle: "Color"
-second_title: "Aspose.PDF for .NET"
-description: "Represents class for color value which can be expressed in different color space."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Color class. Represents class for color value which can be expressed in different color space."
 type: docs
 weight: 370
 url: "/net/aspose.pdf/color/"

@@ -2,8 +2,8 @@
 title: "AttributeName.ListNumbering_UpperAlpha"
 linktitle: "ListNumbering_UpperAlpha"
 articleTitle: "ListNumbering_UpperAlpha"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute ListNumbering: UpperAlpha - Uppercase letters (A, B, C, ...)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute ListNumbering: UpperAlpha - Uppercase letters (A, B, C, ...)."
 type: docs
 weight: 590
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperalpha/"

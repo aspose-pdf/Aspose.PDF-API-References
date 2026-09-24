@@ -2,8 +2,8 @@
 title: "AttributeOwnerStandard.List"
 linktitle: "List"
 articleTitle: "List"
-second_title: "Aspose.PDF for .NET"
-description: "List attribute owner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard field. List attribute owner."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/list/"

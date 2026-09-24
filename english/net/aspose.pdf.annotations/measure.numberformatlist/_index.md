@@ -2,8 +2,8 @@
 title: "Measure.NumberFormatList Class"
 linktitle: "Measure.NumberFormatList"
 articleTitle: "Measure.NumberFormatList"
-second_title: "Aspose.PDF for .NET"
-description: "Represents list of number formats."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.Measure.NumberFormatList class. Represents list of number formats."
 type: docs
 weight: 680
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/"

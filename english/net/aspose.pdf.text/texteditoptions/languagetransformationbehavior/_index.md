@@ -2,8 +2,8 @@
 title: "TextEditOptions.LanguageTransformationBehavior"
 linktitle: "LanguageTransformationBehavior"
 articleTitle: "LanguageTransformationBehavior"
-second_title: "Aspose.PDF for .NET"
-description: "Gets mode that defines behavior for language transformation scenarios."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextEditOptions property. Gets mode that defines behavior for language transformation scenarios."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/"

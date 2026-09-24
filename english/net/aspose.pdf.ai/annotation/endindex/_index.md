@@ -2,8 +2,8 @@
 title: "Annotation.EndIndex"
 linktitle: "EndIndex"
 articleTitle: "EndIndex"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ending index of the text in the message content that needs to be replaced."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets the ending index of the text in the message content that needs to be replaced."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/annotation/endindex/"

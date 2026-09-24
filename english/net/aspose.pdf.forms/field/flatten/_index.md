@@ -2,8 +2,8 @@
 title: "Field.Flatten"
 linktitle: "Flatten"
 articleTitle: "Flatten"
-second_title: "Aspose.PDF for .NET"
-description: "Removes this field and place its value directly on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Removes this field and place its value directly on the page."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/field/flatten/"

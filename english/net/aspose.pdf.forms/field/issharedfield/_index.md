@@ -2,8 +2,8 @@
 title: "Field.IsSharedField"
 linktitle: "IsSharedField"
 articleTitle: "IsSharedField"
-second_title: "Aspose.PDF for .NET"
-description: "Property for Generator support. Used when field is added to header or footer. If true, this field will created once and it's appearance will be visible on al..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Property for Generator support. Used when field is added to header or footer. If true, this field will created once and it's appearance will ..."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.forms/field/issharedfield/"

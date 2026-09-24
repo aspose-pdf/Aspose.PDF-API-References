@@ -2,8 +2,8 @@
 title: "EditOperationsOrder Enum"
 linktitle: "EditOperationsOrder"
 articleTitle: "EditOperationsOrder"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the order of edit operations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.EditOperationsOrder enum. Specifies the order of edit operations."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/editoperationsorder/"

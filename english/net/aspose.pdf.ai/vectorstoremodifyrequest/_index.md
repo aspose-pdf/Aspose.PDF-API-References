@@ -2,8 +2,8 @@
 title: "VectorStoreModifyRequest Class"
 linktitle: "VectorStoreModifyRequest"
 articleTitle: "VectorStoreModifyRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Modify a vector store request."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.VectorStoreModifyRequest class. Modify a vector store request."
 type: docs
 weight: 1470
 url: "/net/aspose.pdf.ai/vectorstoremodifyrequest/"

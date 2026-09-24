@@ -2,8 +2,8 @@
 title: "OpenAIClient Class"
 linktitle: "OpenAIClient"
 articleTitle: "OpenAIClient"
-second_title: "Aspose.PDF for .NET"
-description: "Provides methods to interact with the OpenAI API for managing vector store file batches."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIClient class. Provides methods to interact with the OpenAI API for managing vector store file batches."
 type: docs
 weight: 900
 url: "/net/aspose.pdf.ai/openaiclient/"

@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.AfterText"
 linktitle: "AfterText"
 articleTitle: "AfterText"
-second_title: "Aspose.PDF for .NET"
-description: "Text that shall be concatenated after the label"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. Text that shall be concatenated after the label"
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/measure.numberformat/aftertext/"

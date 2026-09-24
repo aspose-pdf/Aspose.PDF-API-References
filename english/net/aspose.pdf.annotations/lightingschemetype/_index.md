@@ -2,8 +2,8 @@
 title: "LightingSchemeType Enum"
 linktitle: "LightingSchemeType"
 articleTitle: "LightingSchemeType"
-second_title: "Aspose.PDF for .NET"
-description: "Enum LightingSchemeType: set of lighting scheme types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.LightingSchemeType enum. Enum LightingSchemeType: set of lighting scheme types."
 type: docs
 weight: 590
 url: "/net/aspose.pdf.annotations/lightingschemetype/"

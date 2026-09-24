@@ -2,8 +2,8 @@
 title: "PaperSizes.JapanesePostcardRotated"
 linktitle: "JapanesePostcardRotated"
 articleTitle: "JapanesePostcardRotated"
-second_title: "Aspose.PDF for .NET"
-description: "Japanese rotated postcard (148 mm by 100 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Japanese rotated postcard (148 mm by 100 mm)."
 type: docs
 weight: 790
 url: "/net/aspose.pdf.printing/papersizes/japanesepostcardrotated/"

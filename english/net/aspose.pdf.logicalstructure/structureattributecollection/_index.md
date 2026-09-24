@@ -2,8 +2,8 @@
 title: "StructureAttributeCollection Class"
 linktitle: "StructureAttributeCollection"
 articleTitle: "StructureAttributeCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents collection of attributes of structure elements."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributeCollection class. Represents collection of attributes of structure elements."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.logicalstructure/structureattributecollection/"

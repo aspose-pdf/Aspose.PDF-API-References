@@ -2,8 +2,8 @@
 title: "StructureTextState.BackgroundColor"
 linktitle: "BackgroundColor"
 articleTitle: "BackgroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets background color of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets background color of the text."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/"

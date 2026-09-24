@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.AlignStrategy"
 linktitle: "AlignStrategy"
 articleTitle: "AlignStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Strategy to align text. This parameter has sense only when flag is set to true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions field. Strategy to align text. This parameter has sense only when flag is set to true."
 type: docs
 weight: 290
 url: "/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/"

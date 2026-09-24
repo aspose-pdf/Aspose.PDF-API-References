@@ -2,8 +2,8 @@
 title: "ToolCall.ToolCall"
 linktitle: "ToolCall"
 articleTitle: "ToolCall"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ToolCall class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ToolCall constructor. Initializes a new instance of the ToolCall class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/toolcall/toolcall/"

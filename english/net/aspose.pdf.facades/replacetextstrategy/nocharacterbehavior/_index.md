@@ -2,8 +2,8 @@
 title: "ReplaceTextStrategy.NoCharacterBehavior"
 linktitle: "NoCharacterBehavior"
 articleTitle: "NoCharacterBehavior"
-second_title: "Aspose.PDF for .NET"
-description: "Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ReplaceTextStrategy property. Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace a..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/"

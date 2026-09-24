@@ -2,8 +2,8 @@
 title: "Cells.RemoveRange"
 linktitle: "RemoveRange"
 articleTitle: "RemoveRange"
-second_title: "Aspose.PDF for .NET"
-description: "Remove cell set from collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cells method. Remove cell set from collection."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/cells/removerange/"

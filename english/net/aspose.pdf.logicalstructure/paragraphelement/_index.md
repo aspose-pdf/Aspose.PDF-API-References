@@ -2,8 +2,8 @@
 title: "ParagraphElement Class"
 linktitle: "ParagraphElement"
 articleTitle: "ParagraphElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Paragraph structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.ParagraphElement class. Represents Paragraph structure element in logical structure."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.logicalstructure/paragraphelement/"

@@ -2,8 +2,8 @@
 title: "PDF3DAnnotation.Content"
 linktitle: "Content"
 articleTitle: "Content"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DAnnotation property. Gets or sets the content."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/pdf3dannotation/content/"

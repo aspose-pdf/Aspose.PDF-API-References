@@ -2,8 +2,8 @@
 title: "Document.IDocumentFontUtilities.GetAllFonts"
 linktitle: "GetAllFonts"
 articleTitle: "GetAllFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Returns all fonts from document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IDocumentFontUtilities method. Returns all fonts from document"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/document.idocumentfontutilities/getallfonts/"

@@ -2,8 +2,8 @@
 title: "Document.Direction"
 linktitle: "Direction"
 articleTitle: "Direction"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets reading order of text: L2R (left to right) or R2L (right to left)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets reading order of text: L2R (left to right) or R2L (right to left)."
 type: docs
 weight: 1370
 url: "/net/aspose.pdf/document/direction/"

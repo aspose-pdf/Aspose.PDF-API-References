@@ -2,8 +2,8 @@
 title: "XFormCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Delete XForm from collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection method. Delete XForm from collection"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xformcollection/delete/"

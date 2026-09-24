@@ -2,8 +2,8 @@
 title: "RunStepListResponse.RunStepListResponse"
 linktitle: "RunStepListResponse"
 articleTitle: "RunStepListResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the RunStepListResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepListResponse constructor. Initializes a new instance of the RunStepListResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/runsteplistresponse/runsteplistresponse/"

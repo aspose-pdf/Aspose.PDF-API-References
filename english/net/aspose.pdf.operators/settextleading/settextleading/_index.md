@@ -2,8 +2,8 @@
 title: "SetTextLeading.SetTextLeading"
 linktitle: "SetTextLeading"
 articleTitle: "SetTextLeading"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetTextLeading class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextLeading constructor. Initializes a new instance of the SetTextLeading class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/settextleading/settextleading/"

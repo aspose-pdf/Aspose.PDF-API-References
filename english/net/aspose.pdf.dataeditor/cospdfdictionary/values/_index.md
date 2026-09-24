@@ -2,8 +2,8 @@
 title: "CosPdfDictionary.Values"
 linktitle: "Values"
 articleTitle: "Values"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an containing the values in the ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary property. Gets an containing the values in the ."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/values/"

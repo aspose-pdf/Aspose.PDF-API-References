@@ -2,8 +2,8 @@
 title: "ImportOptions.ImportFormat"
 linktitle: "ImportFormat"
 articleTitle: "ImportFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Import format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImportOptions property. Import format."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/importoptions/importformat/"

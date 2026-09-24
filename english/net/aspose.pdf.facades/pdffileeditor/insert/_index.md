@@ -2,8 +2,8 @@
 title: "PdfFileEditor.Insert"
 linktitle: "Insert"
 articleTitle: "Insert"
-second_title: "Aspose.PDF for .NET"
-description: "Inserts pages from an other file into the Pdf file at a position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Inserts pages from an other file into the Pdf file at a position."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.facades/pdffileeditor/insert/"

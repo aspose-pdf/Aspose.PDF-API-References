@@ -2,8 +2,8 @@
 title: "LinkElement.SetText"
 linktitle: "SetText"
 articleTitle: "SetText"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LinkElement method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/linkelement/settext/"

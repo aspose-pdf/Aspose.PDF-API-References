@@ -2,8 +2,8 @@
 title: "TextEditOptions.ClippingPathsProcessingMode Enum"
 linktitle: "TextEditOptions.ClippingPathsProcessingMode"
 articleTitle: "TextEditOptions.ClippingPathsProcessingMode"
-second_title: "Aspose.PDF for .NET"
-description: "Clipping path processing modes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextEditOptions.ClippingPathsProcessingMode enum. Clipping path processing modes"
 type: docs
 weight: 440
 url: "/net/aspose.pdf.text/texteditoptions.clippingpathsprocessingmode/"

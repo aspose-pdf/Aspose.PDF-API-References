@@ -2,8 +2,8 @@
 title: "FormEditor.SetFieldAppearance"
 linktitle: "SetFieldAppearance"
 articleTitle: "SetFieldAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Set field flags"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set field flags"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/formeditor/setfieldappearance/"

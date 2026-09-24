@@ -2,8 +2,8 @@
 title: "TableTRElement.IsRowBroken"
 linktitle: "IsRowBroken"
 articleTitle: "IsRowBroken"
-second_title: "Aspose.PDF for .NET"
-description: "Gets is row can be broken between two pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableTRElement property. Gets is row can be broken between two pages."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/"

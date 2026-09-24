@@ -2,8 +2,8 @@
 title: "Stamp.PageNumber"
 linktitle: "PageNumber"
 articleTitle: "PageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets page number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets page number."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/stamp/pagenumber/"

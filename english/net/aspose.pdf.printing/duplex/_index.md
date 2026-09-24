@@ -2,8 +2,8 @@
 title: "Duplex Enum"
 linktitle: "Duplex"
 articleTitle: "Duplex"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the printer's duplex setting."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.Duplex enum. Specifies the printer's duplex setting."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/duplex/"

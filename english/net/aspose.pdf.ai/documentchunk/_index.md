@@ -2,8 +2,8 @@
 title: "DocumentChunk Class"
 linktitle: "DocumentChunk"
 articleTitle: "DocumentChunk"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a single chunk of content extracted from a document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.DocumentChunk class. Represents a single chunk of content extracted from a document."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.ai/documentchunk/"

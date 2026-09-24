@@ -2,8 +2,8 @@
 title: "CollectionField.N"
 linktitle: "N"
 articleTitle: "N"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the textual field name that shall be presented to the user by the interactive PDF processor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionField property. Gets the textual field name that shall be presented to the user by the interactive PDF processor"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/collectionfield/n/"

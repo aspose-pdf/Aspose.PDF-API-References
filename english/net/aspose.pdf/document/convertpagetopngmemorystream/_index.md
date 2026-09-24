@@ -2,8 +2,8 @@
 title: "Document.ConvertPageToPNGMemoryStream"
 linktitle: "ConvertPageToPNGMemoryStream"
 articleTitle: "ConvertPageToPNGMemoryStream"
-second_title: "Aspose.PDF for .NET"
-description: "Convert page to PNG for DSR, OMR, OCR image stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Convert page to PNG for DSR, OMR, OCR image stream."
 type: docs
 weight: 430
 url: "/net/aspose.pdf/document/convertpagetopngmemorystream/"

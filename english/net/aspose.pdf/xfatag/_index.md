@@ -2,8 +2,8 @@
 title: "XfaTag Enum"
 linktitle: "XfaTag"
 articleTitle: "XfaTag"
-second_title: "Aspose.PDF for .NET"
-description: "The xfa stream tag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XfaTag enum. The xfa stream tag"
 type: docs
 weight: 3230
 url: "/net/aspose.pdf/xfatag/"

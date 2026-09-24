@@ -2,8 +2,8 @@
 title: "OptionCollection.get"
 linktitle: "get"
 articleTitle: "get"
-second_title: "Aspose.PDF for .NET"
-description: "Gets option by index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection method. Gets option by index."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/optioncollection/get/"

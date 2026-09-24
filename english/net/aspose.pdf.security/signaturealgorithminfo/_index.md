@@ -2,8 +2,8 @@
 title: "SignatureAlgorithmInfo Class"
 linktitle: "SignatureAlgorithmInfo"
 articleTitle: "SignatureAlgorithmInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for information about a signature algorithm, including its type, cryptographic standard, and digest hash algorithm."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.SignatureAlgorithmInfo class. Represents a class for information about a signature algorithm, including its type, cryptographic standard,..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.security/signaturealgorithminfo/"

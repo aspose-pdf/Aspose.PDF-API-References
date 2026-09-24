@@ -2,8 +2,8 @@
 title: "TextExtractionError.Summary"
 linktitle: "Summary"
 articleTitle: "Summary"
-second_title: "Aspose.PDF for .NET"
-description: "Brief description of the error."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionError property. Brief description of the error."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/textextractionerror/summary/"

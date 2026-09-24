@@ -2,8 +2,8 @@
 title: "CompromiseCheckResult.CompromisedSignatures"
 linktitle: "CompromisedSignatures"
 articleTitle: "CompromisedSignatures"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a collection of digital signatures that have been identified as compromised. This property contains the list of all compromised signatures detected in t..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompromiseCheckResult field. Gets a collection of digital signatures that have been identified as compromised. This property contains the list of all comprom..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/"

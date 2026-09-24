@@ -2,8 +2,8 @@
 title: "PdfFileStamp Class"
 linktitle: "PdfFileStamp"
 articleTitle: "PdfFileStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Class for adding stamps (watermark or background) to PDF files."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileStamp class. Class for adding stamps (watermark or background) to PDF files."
 type: docs
 weight: 460
 url: "/net/aspose.pdf.facades/pdffilestamp/"

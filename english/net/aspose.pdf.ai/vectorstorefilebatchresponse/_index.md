@@ -2,8 +2,8 @@
 title: "VectorStoreFileBatchResponse Class"
 linktitle: "VectorStoreFileBatchResponse"
 articleTitle: "VectorStoreFileBatchResponse"
-second_title: "Aspose.PDF for .NET"
-description: "The vector store files batch response object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.VectorStoreFileBatchResponse class. The vector store files batch response object."
 type: docs
 weight: 1400
 url: "/net/aspose.pdf.ai/vectorstorefilebatchresponse/"

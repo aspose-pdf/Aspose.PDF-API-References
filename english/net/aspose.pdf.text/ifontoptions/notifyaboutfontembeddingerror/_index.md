@@ -2,8 +2,8 @@
 title: "IFontOptions.NotifyAboutFontEmbeddingError"
 linktitle: "NotifyAboutFontEmbeddingError"
 articleTitle: "NotifyAboutFontEmbeddingError"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes it's not possible to embed desired font into document. There are many reasons, for example license restrictions or when desired font was not found ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IFontOptions property. Sometimes it's not possible to embed desired font into document. There are many reasons, for example license restrictions or when desi..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/"

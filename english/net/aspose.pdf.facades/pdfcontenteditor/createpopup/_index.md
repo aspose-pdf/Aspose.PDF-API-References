@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreatePopup"
 linktitle: "CreatePopup"
 articleTitle: "CreatePopup"
-second_title: "Aspose.PDF for .NET"
-description: "Creates popup annotation in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates popup annotation in PDF document."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createpopup/"

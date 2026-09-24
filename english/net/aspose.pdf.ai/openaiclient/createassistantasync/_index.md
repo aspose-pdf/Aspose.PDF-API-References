@@ -2,8 +2,8 @@
 title: "OpenAIClient.CreateAssistantAsync"
 linktitle: "CreateAssistantAsync"
 articleTitle: "CreateAssistantAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new assistant asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Creates a new assistant asynchronously."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.ai/openaiclient/createassistantasync/"

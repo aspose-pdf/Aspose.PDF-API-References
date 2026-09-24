@@ -2,8 +2,8 @@
 title: "BarcodeField.Resolution"
 linktitle: "Resolution"
 articleTitle: "Resolution"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the resolution, in dots-per-inch (dpi), at which the barcode object is rendered."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BarcodeField property. Gets the resolution, in dots-per-inch (dpi), at which the barcode object is rendered."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/barcodefield/resolution/"

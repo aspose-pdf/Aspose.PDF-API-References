@@ -2,8 +2,8 @@
 title: "CommonFigureAnnotation.Frame"
 linktitle: "Frame"
 articleTitle: "Frame"
-second_title: "Aspose.PDF for .NET"
-description: "The rectangle describing the numerical differences between two rectangles: the Rect entry of the annotation and the actual boundaries of the underlying squar..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CommonFigureAnnotation property. The rectangle describing the numerical differences between two rectangles: the Rect entry of the annotation and the actual b..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/commonfigureannotation/frame/"

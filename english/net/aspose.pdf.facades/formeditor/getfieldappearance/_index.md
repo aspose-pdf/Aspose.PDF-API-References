@@ -2,8 +2,8 @@
 title: "FormEditor.GetFieldAppearance"
 linktitle: "GetFieldAppearance"
 articleTitle: "GetFieldAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Get field flags."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Get field flags."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/formeditor/getfieldappearance/"

@@ -2,8 +2,8 @@
 title: "TeXMemoryOutputDirectory.GetFile"
 linktitle: "GetFile"
 articleTitle: "GetFile"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXMemoryOutputDirectory method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/texmemoryoutputdirectory/getfile/"

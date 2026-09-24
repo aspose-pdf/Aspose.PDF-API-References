@@ -2,8 +2,8 @@
 title: "OutlineCollection Class"
 linktitle: "OutlineCollection"
 articleTitle: "OutlineCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents document outline hierarchy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.OutlineCollection class. Represents document outline hierarchy."
 type: docs
 weight: 2060
 url: "/net/aspose.pdf/outlinecollection/"

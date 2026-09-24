@@ -2,8 +2,8 @@
 title: "PrinterMarksKind Enum"
 linktitle: "PrinterMarksKind"
 articleTitle: "PrinterMarksKind"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the types of printer's marks to be added to a document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PrinterMarksKind enum. Specifies the types of printer's marks to be added to a document."
 type: docs
 weight: 1000
 url: "/net/aspose.pdf.annotations/printermarkskind/"

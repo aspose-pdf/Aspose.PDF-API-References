@@ -2,8 +2,8 @@
 title: "PdfViewer.ScaleFactor"
 linktitle: "ScaleFactor"
 articleTitle: "ScaleFactor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a floating point value that indicates scale factor. The default value is 1.0."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets or sets a floating point value that indicates scale factor. The default value is 1.0."
 type: docs
 weight: 540
 url: "/net/aspose.pdf.facades/pdfviewer/scalefactor/"

@@ -2,8 +2,8 @@
 title: "Stamp.LeftMargin"
 linktitle: "LeftMargin"
 articleTitle: "LeftMargin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets left margin of stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets left margin of stamp."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/stamp/leftmargin/"

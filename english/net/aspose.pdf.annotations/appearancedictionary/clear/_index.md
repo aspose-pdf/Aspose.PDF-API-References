@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Removes all elements from the dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method. Removes all elements from the dictionary."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/appearancedictionary/clear/"

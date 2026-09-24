@@ -2,8 +2,8 @@
 title: "PdfExtractor.PdfExtractor"
 linktitle: "PdfExtractor"
 articleTitle: "PdfExtractor"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfExtractor class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor constructor. Initializes a new instance of the PdfExtractor class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfextractor/pdfextractor/"

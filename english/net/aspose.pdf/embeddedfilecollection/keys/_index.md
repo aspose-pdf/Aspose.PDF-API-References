@@ -2,8 +2,8 @@
 title: "EmbeddedFileCollection.Keys"
 linktitle: "Keys"
 articleTitle: "Keys"
-second_title: "Aspose.PDF for .NET"
-description: "Returns list of file attachment keys."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmbeddedFileCollection property. Returns list of file attachment keys."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/embeddedfilecollection/keys/"

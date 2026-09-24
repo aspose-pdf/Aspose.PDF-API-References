@@ -2,8 +2,8 @@
 title: "PdfFileEditor.CopyOutlines"
 linktitle: "CopyOutlines"
 articleTitle: "CopyOutlines"
-second_title: "Aspose.PDF for .NET"
-description: "If true then outlines will be copied."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. If true then outlines will be copied."
 type: docs
 weight: 1040
 url: "/net/aspose.pdf.facades/pdffileeditor/copyoutlines/"

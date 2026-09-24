@@ -2,8 +2,8 @@
 title: "FormFieldSetOptions.Rect"
 linktitle: "Rect"
 articleTitle: "Rect"
-second_title: "Aspose.PDF for .NET"
-description: "Rectangle that be setted to field(s)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldSetOptions property. Rectangle that be setted to field(s)."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formfieldsetoptions/rect/"

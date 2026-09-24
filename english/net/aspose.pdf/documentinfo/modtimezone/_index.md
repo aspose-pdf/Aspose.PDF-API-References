@@ -2,8 +2,8 @@
 title: "DocumentInfo.ModTimeZone"
 linktitle: "ModTimeZone"
 articleTitle: "ModTimeZone"
-second_title: "Aspose.PDF for .NET"
-description: "Time zone of modification date."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo property. Time zone of modification date."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/documentinfo/modtimezone/"

@@ -2,8 +2,8 @@
 title: "ListElement Class"
 linktitle: "ListElement"
 articleTitle: "ListElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents List structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.ListElement class. Represents List structure element in logical structure."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.logicalstructure/listelement/"

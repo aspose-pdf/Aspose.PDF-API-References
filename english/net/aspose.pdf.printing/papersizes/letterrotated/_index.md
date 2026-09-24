@@ -2,8 +2,8 @@
 title: "PaperSizes.LetterRotated"
 linktitle: "LetterRotated"
 articleTitle: "LetterRotated"
-second_title: "Aspose.PDF for .NET"
-description: "Letter rotated paper (11 in. by 8.5 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Letter rotated paper (11 in. by 8.5 in.)."
 type: docs
 weight: 730
 url: "/net/aspose.pdf.printing/papersizes/letterrotated/"

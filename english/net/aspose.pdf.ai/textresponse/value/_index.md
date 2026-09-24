@@ -2,8 +2,8 @@
 title: "TextResponse.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the text of the message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextResponse property. Gets or sets the text of the message."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/textresponse/value/"

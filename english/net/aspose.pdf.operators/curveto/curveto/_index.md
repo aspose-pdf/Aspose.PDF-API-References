@@ -2,8 +2,8 @@
 title: "CurveTo.CurveTo"
 linktitle: "CurveTo"
 articleTitle: "CurveTo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CurveTo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CurveTo constructor. Initializes a new instance of the CurveTo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/curveto/curveto/"

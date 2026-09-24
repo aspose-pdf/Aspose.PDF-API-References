@@ -2,8 +2,8 @@
 title: "LlamaClient Class"
 linktitle: "LlamaClient"
 articleTitle: "LlamaClient"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a client for interacting with the Llama API."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.LlamaClient class. Represents a client for interacting with the Llama API."
 type: docs
 weight: 750
 url: "/net/aspose.pdf.ai/llamaclient/"

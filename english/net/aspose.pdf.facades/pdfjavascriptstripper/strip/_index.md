@@ -2,8 +2,8 @@
 title: "PdfJavaScriptStripper.Strip"
 linktitle: "Strip"
 articleTitle: "Strip"
-second_title: "Aspose.PDF for .NET"
-description: "Remove Java Script from document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfJavaScriptStripper method. Remove Java Script from document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdfjavascriptstripper/strip/"

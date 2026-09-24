@@ -2,8 +2,8 @@
 title: "LoadOptions.ResourceLoadingResult.MIMETypeIfKnown"
 linktitle: "MIMETypeIfKnown"
 articleTitle: "MIMETypeIfKnown"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes knowledge about MIME type of loaded resource is usefull for converter You can provide MIME type(if it'd known after loading) in this parameter. Ple..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResourceLoadingResult field. Sometimes knowledge about MIME type of loaded resource is usefull for converter You can provide MIME type(if it'd known after lo..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown/"

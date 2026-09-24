@@ -2,8 +2,8 @@
 title: "EncryptedPayload.Subtype"
 linktitle: "Subtype"
 articleTitle: "Subtype"
-second_title: "Aspose.PDF for .NET"
-description: "Gets subtype."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptedPayload property. Gets subtype."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/encryptedpayload/subtype/"

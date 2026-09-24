@@ -2,8 +2,8 @@
 title: "ITaggedContent.PreSave"
 linktitle: "PreSave"
 articleTitle: "PreSave"
-second_title: "Aspose.PDF for .NET"
-description: "Prepares the tagged content of the document for saving. This method performs necessary pre-save operations, ensuring that the structure tree and other tagged..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Prepares the tagged content of the document for saving. This method performs necessary pre-save operations, ensuring that the structur..."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.tagged/itaggedcontent/presave/"

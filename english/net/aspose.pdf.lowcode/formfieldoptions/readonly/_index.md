@@ -2,8 +2,8 @@
 title: "FormFieldOptions.ReadOnly"
 linktitle: "ReadOnly"
 articleTitle: "ReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine whether created/modified field is read only or not (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldOptions property. Gets/sets the value to determine whether created/modified field is read only or not (if will be set)."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.lowcode/formfieldoptions/readonly/"

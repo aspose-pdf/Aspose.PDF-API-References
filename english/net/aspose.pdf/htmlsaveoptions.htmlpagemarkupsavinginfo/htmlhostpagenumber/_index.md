@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.HtmlHostPageNumber"
 linktitle: "HtmlHostPageNumber"
 articleTitle: "HtmlHostPageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Set by converter. If set SplitToPages property, then several HTML-files(one HTML file per converted page) are created during conversion created . This proper..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlPageMarkupSavingInfo field. Set by converter. If set SplitToPages property, then several HTML-files(one HTML file per converted page) are created during ..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/htmlhostpagenumber/"

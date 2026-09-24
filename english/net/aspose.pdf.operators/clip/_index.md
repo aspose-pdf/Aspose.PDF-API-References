@@ -2,8 +2,8 @@
 title: "Clip Class"
 linktitle: "Clip"
 articleTitle: "Clip"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing W operator (set clipping path using non-zero winding rule)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.Clip class. Class representing W operator (set clipping path using non-zero winding rule)."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.operators/clip/"

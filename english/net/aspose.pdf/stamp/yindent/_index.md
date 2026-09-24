@@ -2,8 +2,8 @@
 title: "Stamp.YIndent"
 linktitle: "YIndent"
 articleTitle: "YIndent"
-second_title: "Aspose.PDF for .NET"
-description: "Vertical stamp coordinate, starting from the bottom."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Vertical stamp coordinate, starting from the bottom."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/stamp/yindent/"

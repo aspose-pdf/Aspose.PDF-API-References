@@ -2,8 +2,8 @@
 title: "FormDataConverter.ConverToStreams"
 linktitle: "ConverToStreams"
 articleTitle: "ConverToStreams"
-second_title: "Aspose.PDF for .NET"
-description: "This method is obsolete. Please use ConvertToStreams() instead."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter method. This method is obsolete. Please use ConvertToStreams() instead."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/formdataconverter/convertostreams/"

@@ -2,8 +2,8 @@
 title: "MemoryFontSource.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Check if font file source objects are equal."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MemoryFontSource method. Check if font file source objects are equal."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/memoryfontsource/equals/"

@@ -2,8 +2,8 @@
 title: "XmpValue.ToDictionary"
 linktitle: "ToDictionary"
 articleTitle: "ToDictionary"
-second_title: "Aspose.PDF for .NET"
-description: "Returns dictionary which contains named values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Returns dictionary which contains named values."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/xmpvalue/todictionary/"

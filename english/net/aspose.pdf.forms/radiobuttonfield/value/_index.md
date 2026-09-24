@@ -2,8 +2,8 @@
 title: "RadioButtonField.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value of field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField property. Gets or sets value of field."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.forms/radiobuttonfield/value/"

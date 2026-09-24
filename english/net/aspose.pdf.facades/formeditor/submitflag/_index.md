@@ -2,8 +2,8 @@
 title: "FormEditor.SubmitFlag"
 linktitle: "SubmitFlag"
 articleTitle: "SubmitFlag"
-second_title: "Aspose.PDF for .NET"
-description: "Set the submit button's submission flags"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor property. Set the submit button's submission flags"
 type: docs
 weight: 520
 url: "/net/aspose.pdf.facades/formeditor/submitflag/"

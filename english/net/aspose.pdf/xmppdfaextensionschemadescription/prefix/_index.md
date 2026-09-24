@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchemaDescription.Prefix"
 linktitle: "Prefix"
 articleTitle: "Prefix"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the prefix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchemaDescription property. Gets the prefix."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/prefix/"

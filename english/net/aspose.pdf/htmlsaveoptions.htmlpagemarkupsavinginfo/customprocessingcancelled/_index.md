@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.CustomProcessingCancelled"
 linktitle: "CustomProcessingCancelled"
 articleTitle: "CustomProcessingCancelled"
-second_title: "Aspose.PDF for .NET"
-description: "Should be set in custom code when necessary. This flag must be set to \"true\" in custom code if for some reasons supplied html-markup should be processed not ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlPageMarkupSavingInfo field. Should be set in custom code when necessary. This flag must be set to \"true\" in custom code if for some reasons supplied html..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/customprocessingcancelled/"

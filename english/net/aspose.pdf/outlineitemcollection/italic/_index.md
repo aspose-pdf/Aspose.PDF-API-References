@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Italic"
 linktitle: "Italic"
 articleTitle: "Italic"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets italic flag for the title text of this outline item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets or sets italic flag for the title text of this outline item"
 type: docs
 weight: 160
 url: "/net/aspose.pdf/outlineitemcollection/italic/"

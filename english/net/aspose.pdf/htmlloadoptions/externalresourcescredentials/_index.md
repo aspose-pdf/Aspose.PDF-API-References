@@ -2,8 +2,8 @@
 title: "HtmlLoadOptions.ExternalResourcesCredentials"
 linktitle: "ExternalResourcesCredentials"
 articleTitle: "ExternalResourcesCredentials"
-second_title: "Aspose.PDF for .NET"
-description: "If loading of external data referenced in HTML requirs credentials, You can put them into this parameter - they will be used during loading of external resou..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions field. If loading of external data referenced in HTML requirs credentials, You can put them into this parameter - they will be used during lo..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/htmlloadoptions/externalresourcescredentials/"

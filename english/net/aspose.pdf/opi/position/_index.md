@@ -2,8 +2,8 @@
 title: "Opi.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an array of eight numbers of the form specifying the location on the page of the cropped image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Opi property. Gets an array of eight numbers of the form specifying the location on the page of the cropped image."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/opi/position/"

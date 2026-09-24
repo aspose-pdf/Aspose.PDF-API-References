@@ -2,8 +2,8 @@
 title: "PaperSizes.IsoB4"
 linktitle: "IsoB4"
 articleTitle: "IsoB4"
-second_title: "Aspose.PDF for .NET"
-description: "ISO B4 (250 mm by 353 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. ISO B4 (250 mm by 353 mm)."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.printing/papersizes/isob4/"

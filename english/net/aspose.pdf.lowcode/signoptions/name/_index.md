@@ -2,8 +2,8 @@
 title: "SignOptions.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "The name of existing signature field. Null to create a new field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignOptions property. The name of existing signature field. Null to create a new field."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.lowcode/signoptions/name/"

@@ -2,8 +2,8 @@
 title: "PrinterResolutionExtensions.ToNativePrinterResolution"
 linktitle: "ToNativePrinterResolution"
 articleTitle: "ToNativePrinterResolution"
-second_title: "Aspose.PDF for .NET"
-description: "Converts to Windows-specific System.Drawing.Printing.PrinterResolution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolutionExtensions method. Converts to Windows-specific System.Drawing.Printing.PrinterResolution."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/printerresolutionextensions/tonativeprinterresolution/"

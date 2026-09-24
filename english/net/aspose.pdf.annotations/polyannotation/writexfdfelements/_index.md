@@ -2,8 +2,8 @@
 title: "PolyAnnotation.WriteXfdfElements"
 linktitle: "WriteXfdfElements"
 articleTitle: "WriteXfdfElements"
-second_title: "Aspose.PDF for .NET"
-description: "When overridden in a derived class, exports annotation elements into XFDF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolyAnnotation method. When overridden in a derived class, exports annotation elements into XFDF."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/polyannotation/writexfdfelements/"

@@ -2,8 +2,8 @@
 title: "CgmImportOptions Class"
 linktitle: "CgmImportOptions"
 articleTitle: "CgmImportOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Import option for import from Computer Graphics Metafile(CGM) format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CgmImportOptions class. Import option for import from Computer Graphics Metafile(CGM) format."
 type: docs
 weight: 290
 url: "/net/aspose.pdf/cgmimportoptions/"

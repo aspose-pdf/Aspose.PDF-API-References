@@ -2,8 +2,8 @@
 title: "SvgSaveOptions.ScaleToPixels"
 linktitle: "ScaleToPixels"
 articleTitle: "ScaleToPixels"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies whether to scale the output document from typographic points to pixels."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgSaveOptions field. Specifies whether to scale the output document from typographic points to pixels."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/svgsaveoptions/scaletopixels/"

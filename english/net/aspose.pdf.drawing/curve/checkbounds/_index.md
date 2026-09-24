@@ -2,8 +2,8 @@
 title: "Curve.CheckBounds"
 linktitle: "CheckBounds"
 articleTitle: "CheckBounds"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Curve method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.drawing/curve/checkbounds/"

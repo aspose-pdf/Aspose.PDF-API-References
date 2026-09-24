@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Next"
 linktitle: "Next"
 articleTitle: "Next"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the outline item representing next item relatively this item in the outline hierarchy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets the outline item representing next item relatively this item in the outline hierarchy."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/outlineitemcollection/next/"

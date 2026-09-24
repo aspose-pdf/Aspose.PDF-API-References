@@ -2,8 +2,8 @@
 title: "Symbology Enum"
 linktitle: "Symbology"
 articleTitle: "Symbology"
-second_title: "Aspose.PDF for .NET"
-description: "A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum speci..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.Symbology enum. A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, m..."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.forms/symbology/"

@@ -2,8 +2,8 @@
 title: "ClosePath Class"
 linktitle: "ClosePath"
 articleTitle: "ClosePath"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing h operator (close path)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.ClosePath class. Class representing h operator (close path)."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.operators/closepath/"

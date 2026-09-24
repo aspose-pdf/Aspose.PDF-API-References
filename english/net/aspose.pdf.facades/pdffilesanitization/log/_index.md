@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.Log"
 linktitle: "Log"
 articleTitle: "Log"
-second_title: "Aspose.PDF for .NET"
-description: "After file has Saved you can check what was done with file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization property. After file has Saved you can check what was done with file."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdffilesanitization/log/"

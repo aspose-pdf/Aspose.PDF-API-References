@@ -2,8 +2,8 @@
 title: "DocumentComparisonStatistics.PagesStatistics"
 linktitle: "PagesStatistics"
 articleTitle: "PagesStatistics"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the list of pages statistics."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentComparisonStatistics property. Gets and sets the list of pages statistics."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/documentcomparisonstatistics/pagesstatistics/"

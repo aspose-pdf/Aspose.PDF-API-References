@@ -2,8 +2,8 @@
 title: "SubPath Class"
 linktitle: "SubPath"
 articleTitle: "SubPath"
-second_title: "Aspose.PDF for .NET"
-description: "Represents vector graphics object on the page. Basically, vector graphics objects are represented by two groups of SubPaths. One of them is represented by a ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Vector.SubPath class. Represents vector graphics object on the page. Basically, vector graphics objects are represented by two groups of SubPaths...."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.vector/subpath/"

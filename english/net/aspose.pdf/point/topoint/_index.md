@@ -2,8 +2,8 @@
 title: "Point.ToPoint"
 linktitle: "ToPoint"
 articleTitle: "ToPoint"
-second_title: "Aspose.PDF for .NET"
-description: "Converts point into System.Drawing.PointF object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point method. Converts point into System.Drawing.PointF object."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/point/topoint/"

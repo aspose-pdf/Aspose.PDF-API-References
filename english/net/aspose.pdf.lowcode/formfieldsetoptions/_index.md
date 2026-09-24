@@ -2,8 +2,8 @@
 title: "FormFieldSetOptions Class"
 linktitle: "FormFieldSetOptions"
 articleTitle: "FormFieldSetOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for set properties in Field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormFieldSetOptions class. Represents options for set properties in Field."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.lowcode/formfieldsetoptions/"

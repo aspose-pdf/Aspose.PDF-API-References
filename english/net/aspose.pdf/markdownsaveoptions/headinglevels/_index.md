@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions.HeadingLevels"
 linktitle: "HeadingLevels"
 articleTitle: "HeadingLevels"
-second_title: "Aspose.PDF for .NET"
-description: "Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition strategy will be sele..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkdownSaveOptions property. Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header rec..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/markdownsaveoptions/headinglevels/"

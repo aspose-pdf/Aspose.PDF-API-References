@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateWebLink"
 linktitle: "CreateWebLink"
 articleTitle: "CreateWebLink"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a web link in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a web link in PDF document."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createweblink/"

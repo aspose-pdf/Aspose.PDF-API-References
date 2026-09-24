@@ -2,8 +2,8 @@
 title: "PDF3DAnnotation Class"
 linktitle: "PDF3DAnnotation"
 articleTitle: "PDF3DAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Class PDF3DAnnotation. This class cannot be inherited."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DAnnotation class. Class PDF3DAnnotation. This class cannot be inherited."
 type: docs
 weight: 770
 url: "/net/aspose.pdf.annotations/pdf3dannotation/"

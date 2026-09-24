@@ -2,8 +2,8 @@
 title: "UnifiedSaveOptions.ProgressEventHandlerInfo.EventType"
 linktitle: "EventType"
 articleTitle: "EventType"
-second_title: "Aspose.PDF for .NET"
-description: "Type of progress event that occurred."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ProgressEventHandlerInfo field. Type of progress event that occurred."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype/"

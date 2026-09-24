@@ -2,8 +2,8 @@
 title: "CapStyle Enum"
 linktitle: "CapStyle"
 articleTitle: "CapStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Style of line ending of Ink annotation line."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.CapStyle enum. Style of line ending of Ink annotation line."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/capstyle/"

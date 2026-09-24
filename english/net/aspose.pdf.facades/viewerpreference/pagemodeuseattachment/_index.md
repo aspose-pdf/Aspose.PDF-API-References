@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageModeUseAttachment"
 linktitle: "PageModeUseAttachment"
 articleTitle: "PageModeUseAttachment"
-second_title: "Aspose.PDF for .NET"
-description: "Page mode with attacments."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Page mode with attacments."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodeuseattachment/"

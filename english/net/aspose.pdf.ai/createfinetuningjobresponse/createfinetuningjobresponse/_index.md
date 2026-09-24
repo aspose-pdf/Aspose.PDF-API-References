@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobResponse.CreateFineTuningJobResponse"
 linktitle: "CreateFineTuningJobResponse"
 articleTitle: "CreateFineTuningJobResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CreateFineTuningJobResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse constructor. Initializes a new instance of the CreateFineTuningJobResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/createfinetuningjobresponse/"

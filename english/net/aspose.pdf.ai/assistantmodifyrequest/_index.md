@@ -2,8 +2,8 @@
 title: "AssistantModifyRequest Class"
 linktitle: "AssistantModifyRequest"
 articleTitle: "AssistantModifyRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Request object for modifying an assistant."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.AssistantModifyRequest class. Request object for modifying an assistant."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/assistantmodifyrequest/"

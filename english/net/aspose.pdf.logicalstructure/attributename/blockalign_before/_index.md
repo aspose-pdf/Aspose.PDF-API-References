@@ -2,8 +2,8 @@
 title: "AttributeName.BlockAlign_Before"
 linktitle: "BlockAlign_Before"
 articleTitle: "BlockAlign_Before"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BlockAlign: Before - Before edge of the first child's allocation rectangle aligned with that of the table cell's content rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BlockAlign: Before - Before edge of the first child's allocation rectangle aligned with that of the table cell's content recta..."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.logicalstructure/attributename/blockalign_before/"

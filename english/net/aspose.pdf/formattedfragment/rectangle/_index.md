@@ -2,8 +2,8 @@
 title: "FormattedFragment.rectangle"
 linktitle: "rectangle"
 articleTitle: "rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Rectangle value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedFragment field. Rectangle value."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/formattedfragment/rectangle/"

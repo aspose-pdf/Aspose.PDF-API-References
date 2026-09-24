@@ -2,8 +2,8 @@
 title: "WarningType Enum"
 linktitle: "WarningType"
 articleTitle: "WarningType"
-second_title: "Aspose.PDF for .NET"
-description: "Enum represented warning type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.WarningType enum. Enum represented warning type."
 type: docs
 weight: 3150
 url: "/net/aspose.pdf/warningtype/"

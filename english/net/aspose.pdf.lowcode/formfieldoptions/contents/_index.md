@@ -2,8 +2,8 @@
 title: "FormFieldOptions.Contents"
 linktitle: "Contents"
 articleTitle: "Contents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine property Contents for created/modified field (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldOptions property. Gets/sets the value to determine property Contents for created/modified field (if will be set)."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/formfieldoptions/contents/"

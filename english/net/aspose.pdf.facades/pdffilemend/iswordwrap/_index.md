@@ -2,8 +2,8 @@
 title: "PdfFileMend.IsWordWrap"
 linktitle: "IsWordWrap"
 articleTitle: "IsWordWrap"
-second_title: "Aspose.PDF for .NET"
-description: "Sets a bool value that indicates word wrap in AddText methods. If the value is true, the text in FormattedText will word wrap. By defalt, the value is false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend property. Sets a bool value that indicates word wrap in AddText methods. If the value is true, the text in FormattedText will word wrap. By defal..."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdffilemend/iswordwrap/"

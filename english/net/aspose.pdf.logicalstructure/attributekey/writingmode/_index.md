@@ -2,8 +2,8 @@
 title: "AttributeKey.WritingMode"
 linktitle: "WritingMode"
 articleTitle: "WritingMode"
-second_title: "Aspose.PDF for .NET"
-description: "WritingMode attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. WritingMode attribute (Layout attribute owner)."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/attributekey/writingmode/"

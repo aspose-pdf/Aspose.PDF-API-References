@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeParameters.ContentSize"
 linktitle: "ContentSize"
 articleTitle: "ContentSize"
-second_title: "Aspose.PDF for .NET"
-description: "Creates resize parameters with specified contents size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeParameters method. Creates resize parameters with specified contents size."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize/"

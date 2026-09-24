@@ -2,8 +2,8 @@
 title: "BuildVersionInfo.Product"
 linktitle: "Product"
 articleTitle: "Product"
-second_title: "Aspose.PDF for .NET"
-description: "Product Name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BuildVersionInfo field. Product Name"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/buildversioninfo/product/"

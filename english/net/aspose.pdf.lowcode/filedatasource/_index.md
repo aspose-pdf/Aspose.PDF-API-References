@@ -2,8 +2,8 @@
 title: "FileDataSource Class"
 linktitle: "FileDataSource"
 articleTitle: "FileDataSource"
-second_title: "Aspose.PDF for .NET"
-description: "Represents file data source for load and save operations of a plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FileDataSource class. Represents file data source for load and save operations of a plugin."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/filedatasource/"

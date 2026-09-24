@@ -2,8 +2,8 @@
 title: "GraphInfo Class"
 linktitle: "GraphInfo"
 articleTitle: "GraphInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents graphics info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.GraphInfo class. Represents graphics info."
 type: docs
 weight: 1010
 url: "/net/aspose.pdf/graphinfo/"

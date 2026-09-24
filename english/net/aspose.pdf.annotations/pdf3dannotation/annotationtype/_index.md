@@ -2,8 +2,8 @@
 title: "PDF3DAnnotation.AnnotationType"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DAnnotation property. Gets type of annotation."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/pdf3dannotation/annotationtype/"

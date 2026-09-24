@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.FontFamilyName"
 linktitle: "FontFamilyName"
 articleTitle: "FontFamilyName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets font family name. It should be existed in the document. Default value: Arial."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets font family name. It should be existed in the document. Default value: Arial."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/"

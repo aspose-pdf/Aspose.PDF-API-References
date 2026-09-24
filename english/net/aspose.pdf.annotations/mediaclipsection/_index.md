@@ -2,8 +2,8 @@
 title: "MediaClipSection Class"
 linktitle: "MediaClipSection"
 articleTitle: "MediaClipSection"
-second_title: "Aspose.PDF for .NET"
-description: "This class descibes Media clip section."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.MediaClipSection class. This class descibes Media clip section."
 type: docs
 weight: 710
 url: "/net/aspose.pdf.annotations/mediaclipsection/"

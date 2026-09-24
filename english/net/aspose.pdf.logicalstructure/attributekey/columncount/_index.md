@@ -2,8 +2,8 @@
 title: "AttributeKey.ColumnCount"
 linktitle: "ColumnCount"
 articleTitle: "ColumnCount"
-second_title: "Aspose.PDF for .NET"
-description: "ColumnCount attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. ColumnCount attribute (Layout attribute owner)."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.logicalstructure/attributekey/columncount/"

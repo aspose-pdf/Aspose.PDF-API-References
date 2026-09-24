@@ -2,8 +2,8 @@
 title: "PDF3DAnnotation.SetDefaultViewIndex"
 linktitle: "SetDefaultViewIndex"
 articleTitle: "SetDefaultViewIndex"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the index of the default view."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DAnnotation method. Sets the index of the default view."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/"

@@ -2,8 +2,8 @@
 title: "Page.OnBeforePageGenerate"
 linktitle: "OnBeforePageGenerate"
 articleTitle: "OnBeforePageGenerate"
-second_title: "Aspose.PDF for .NET"
-description: "Event for customize header and footer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page event. Event for customize header and footer."
 type: docs
 weight: 660
 url: "/net/aspose.pdf/page/onbeforepagegenerate/"

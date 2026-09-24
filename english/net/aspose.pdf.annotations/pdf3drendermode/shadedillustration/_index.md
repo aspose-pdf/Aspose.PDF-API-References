@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.ShadedIllustration"
 linktitle: "ShadedIllustration"
 articleTitle: "ShadedIllustration"
-second_title: "Aspose.PDF for .NET"
-description: "The \"ShadedIllustration\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"ShadedIllustration\" render mode."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.annotations/pdf3drendermode/shadedillustration/"

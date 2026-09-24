@@ -2,8 +2,8 @@
 title: "Signature.TryVerify"
 linktitle: "TryVerify"
 articleTitle: "TryVerify"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature method."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/signature/tryverify/"

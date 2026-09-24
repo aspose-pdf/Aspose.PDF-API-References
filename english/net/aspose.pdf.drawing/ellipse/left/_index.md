@@ -2,8 +2,8 @@
 title: "Ellipse.Left"
 linktitle: "Left"
 articleTitle: "Left"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the left position of the ellipse."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Ellipse property. Gets or sets a float value that indicates the left position of the ellipse."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/ellipse/left/"

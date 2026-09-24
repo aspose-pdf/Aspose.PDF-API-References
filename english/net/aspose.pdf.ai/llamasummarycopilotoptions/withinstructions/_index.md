@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilotOptions.WithInstructions"
 linktitle: "WithInstructions"
 articleTitle: "WithInstructions"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the instructions for the summary copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Sets the instructions for the summary copilot options."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/"

@@ -2,8 +2,8 @@
 title: "CornerPrinterMarkAnnotation Class"
 linktitle: "CornerPrinterMarkAnnotation"
 articleTitle: "CornerPrinterMarkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents annotation types that are placed in the corners of the printed page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.CornerPrinterMarkAnnotation class. Represents annotation types that are placed in the corners of the printed page."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.annotations/cornerprintermarkannotation/"

@@ -2,8 +2,8 @@
 title: "TocGenerator.TocGenerator"
 linktitle: "TocGenerator"
 articleTitle: "TocGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TocGenerator class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocGenerator constructor. Initializes a new instance of the TocGenerator class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tocgenerator/tocgenerator/"

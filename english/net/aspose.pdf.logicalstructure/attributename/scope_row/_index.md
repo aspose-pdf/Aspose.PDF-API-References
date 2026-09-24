@@ -2,8 +2,8 @@
 title: "AttributeName.Scope_Row"
 linktitle: "Scope_Row"
 articleTitle: "Scope_Row"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Scope: Row."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Scope: Row."
 type: docs
 weight: 680
 url: "/net/aspose.pdf.logicalstructure/attributename/scope_row/"

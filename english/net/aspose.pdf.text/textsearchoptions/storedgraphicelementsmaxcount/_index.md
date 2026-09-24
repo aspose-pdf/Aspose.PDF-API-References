@@ -2,8 +2,8 @@
 title: "TextSearchOptions.StoredGraphicElementsMaxCount"
 linktitle: "StoredGraphicElementsMaxCount"
 articleTitle: "StoredGraphicElementsMaxCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value that limits searching for text related graphics (underlining, background etc.) on a page for the speciefied number of elements. The defaul..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSearchOptions property. Gets or sets value that limits searching for text related graphics (underlining, background etc.) on a page for the speciefied nu..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount/"

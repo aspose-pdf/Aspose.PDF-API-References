@@ -2,8 +2,8 @@
 title: "TableCellElement.Border"
 linktitle: "Border"
 articleTitle: "Border"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the cell border."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellElement property. Gets or sets the cell border."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/border/"

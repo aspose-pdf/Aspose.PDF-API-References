@@ -2,8 +2,8 @@
 title: "TextAbsorber.Errors"
 linktitle: "Errors"
 articleTitle: "Errors"
-second_title: "Aspose.PDF for .NET"
-description: "List of objects. It contain information about errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogText..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextAbsorber property. List of objects. It contain information about errors were found during text extraction. Searching for errors will performed only if Te..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/textabsorber/errors/"

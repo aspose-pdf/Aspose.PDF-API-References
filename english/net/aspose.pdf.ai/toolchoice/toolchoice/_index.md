@@ -2,8 +2,8 @@
 title: "ToolChoice.ToolChoice"
 linktitle: "ToolChoice"
 articleTitle: "ToolChoice"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ToolChoice class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ToolChoice constructor. Initializes a new instance of the ToolChoice class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/toolchoice/toolchoice/"

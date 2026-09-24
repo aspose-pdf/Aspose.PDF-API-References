@@ -2,8 +2,8 @@
 title: "PDF3DCrossSection.CuttingPlanesIntersectionColor"
 linktitle: "CuttingPlanesIntersectionColor"
 articleTitle: "CuttingPlanesIntersectionColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the color of the cutting planes intersection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSection property. Gets or sets the color of the cutting planes intersection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/"

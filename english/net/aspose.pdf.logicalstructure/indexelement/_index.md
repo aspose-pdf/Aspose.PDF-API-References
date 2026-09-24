@@ -2,8 +2,8 @@
 title: "IndexElement Class"
 linktitle: "IndexElement"
 articleTitle: "IndexElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Index structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.IndexElement class. Represents Index structure element in logical structure."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.logicalstructure/indexelement/"

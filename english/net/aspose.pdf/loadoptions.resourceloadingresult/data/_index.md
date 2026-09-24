@@ -2,8 +2,8 @@
 title: "LoadOptions.ResourceLoadingResult.Data"
 linktitle: "Data"
 articleTitle: "Data"
-second_title: "Aspose.PDF for .NET"
-description: "Bynary data that loaded with custom loader - it must be set after loading"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResourceLoadingResult property. Bynary data that loaded with custom loader - it must be set after loading"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/data/"

@@ -2,8 +2,8 @@
 title: "Shape Class"
 linktitle: "Shape"
 articleTitle: "Shape"
-second_title: "Aspose.PDF for .NET"
-description: "Represents shape - the base graphics object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.Shape class. Represents shape - the base graphics object."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.drawing/shape/"

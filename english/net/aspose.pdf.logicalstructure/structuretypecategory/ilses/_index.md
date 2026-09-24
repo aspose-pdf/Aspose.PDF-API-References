@@ -2,8 +2,8 @@
 title: "StructureTypeCategory.ILSEs"
 linktitle: "ILSEs"
 articleTitle: "ILSEs"
-second_title: "Aspose.PDF for .NET"
-description: "Inline-level structure elements (ILSEs) describe the layout of content within a BLSE, proceeding in the inline-progression direction."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeCategory field. Inline-level structure elements (ILSEs) describe the layout of content within a BLSE, proceeding in the inline-progression direc..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/ilses/"

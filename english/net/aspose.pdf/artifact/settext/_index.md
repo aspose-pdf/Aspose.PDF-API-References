@@ -2,8 +2,8 @@
 title: "Artifact.SetText"
 linktitle: "SetText"
 articleTitle: "SetText"
-second_title: "Aspose.PDF for .NET"
-description: "Sets text of the artifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Sets text of the artifact."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/artifact/settext/"

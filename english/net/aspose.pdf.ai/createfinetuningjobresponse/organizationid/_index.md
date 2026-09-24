@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobResponse.OrganizationId"
 linktitle: "OrganizationId"
 articleTitle: "OrganizationId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the organization that owns the fine-tuning job."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets the organization that owns the fine-tuning job."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/organizationid/"

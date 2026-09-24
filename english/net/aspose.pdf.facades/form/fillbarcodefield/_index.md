@@ -2,8 +2,8 @@
 title: "Form.FillBarcodeField"
 linktitle: "FillBarcodeField"
 articleTitle: "FillBarcodeField"
-second_title: "Aspose.PDF for .NET"
-description: "Fill a barcode field according to its fully qualified field name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Fill a barcode field according to its fully qualified field name."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/form/fillbarcodefield/"

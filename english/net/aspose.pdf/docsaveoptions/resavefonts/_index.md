@@ -2,8 +2,8 @@
 title: "DocSaveOptions.ReSaveFonts"
 linktitle: "ReSaveFonts"
 articleTitle: "ReSaveFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the procedure for resaving fonts. If set to true, we reload fonts on every page to avoid the influence of previous font properties and load the ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocSaveOptions property. Gets or sets the procedure for resaving fonts. If set to true, we reload fonts on every page to avoid the influence of previous font..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/docsaveoptions/resavefonts/"

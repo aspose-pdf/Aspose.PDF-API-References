@@ -2,8 +2,8 @@
 title: "Element.AppendChild"
 linktitle: "AppendChild"
 articleTitle: "AppendChild"
-second_title: "Aspose.PDF for .NET"
-description: "Append to collection of children."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element method. Append to collection of children."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/element/appendchild/"

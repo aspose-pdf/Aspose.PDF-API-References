@@ -2,8 +2,8 @@
 title: "PaperSourceExtensions Class"
 linktitle: "PaperSourceExtensions"
 articleTitle: "PaperSourceExtensions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents extensions methods for ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PaperSourceExtensions class. Represents extensions methods for ."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.printing/papersourceextensions/"

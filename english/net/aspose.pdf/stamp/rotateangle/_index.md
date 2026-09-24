@@ -2,8 +2,8 @@
 title: "Stamp.RotateAngle"
 linktitle: "RotateAngle"
 articleTitle: "RotateAngle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rotate angle of stamp in degrees. This property allows to set arbitrary rotate angle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets rotate angle of stamp in degrees. This property allows to set arbitrary rotate angle."
 type: docs
 weight: 270
 url: "/net/aspose.pdf/stamp/rotateangle/"

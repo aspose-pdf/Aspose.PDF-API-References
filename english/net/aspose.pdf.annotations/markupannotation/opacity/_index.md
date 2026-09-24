@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.Opacity"
 linktitle: "Opacity"
 articleTitle: "Opacity"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the constant opacity value to be used in painting the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation property. Gets or sets the constant opacity value to be used in painting the annotation."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.annotations/markupannotation/opacity/"

@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeValue.Auto"
 linktitle: "Auto"
 articleTitle: "Auto"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes automatically calculated value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeValue method. Initializes automatically calculated value."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/"

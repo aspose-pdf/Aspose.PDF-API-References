@@ -2,8 +2,8 @@
 title: "ResponseFormat.IsStringValue"
 linktitle: "IsStringValue"
 articleTitle: "IsStringValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the response format is a string value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResponseFormat property. Gets a value indicating whether the response format is a string value."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/responseformat/isstringvalue/"

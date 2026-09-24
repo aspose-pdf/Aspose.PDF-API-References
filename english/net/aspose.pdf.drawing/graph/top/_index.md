@@ -2,8 +2,8 @@
 title: "Graph.Top"
 linktitle: "Top"
 articleTitle: "Top"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the table top coordinate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Graph property. Gets or sets the table top coordinate."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.drawing/graph/top/"

@@ -2,8 +2,8 @@
 title: "ComboBoxField.Editable"
 linktitle: "Editable"
 articleTitle: "Editable"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets editable status of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComboBoxField property. Gets or sets editable status of the field."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/comboboxfield/editable/"

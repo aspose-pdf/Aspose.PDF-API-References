@@ -2,8 +2,8 @@
 title: "Graph Class"
 linktitle: "Graph"
 articleTitle: "Graph"
-second_title: "Aspose.PDF for .NET"
-description: "Represents graph - graphics generator paragraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.Graph class. Represents graph - graphics generator paragraph."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.drawing/graph/"

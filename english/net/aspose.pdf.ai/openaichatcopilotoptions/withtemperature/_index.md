@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilotOptions.WithTemperature"
 linktitle: "WithTemperature"
 articleTitle: "WithTemperature"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the temperature for the chat copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Sets the temperature for the chat copilot options."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withtemperature/"

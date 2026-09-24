@@ -2,8 +2,8 @@
 title: "PageDate.YearComponent.GetFormat"
 linktitle: "GetFormat"
 articleTitle: "GetFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the format string for the year component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "YearComponent method. Gets the format string for the year component."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagedate.yearcomponent/getformat/"

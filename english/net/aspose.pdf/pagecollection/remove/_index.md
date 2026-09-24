@@ -2,8 +2,8 @@
 title: "PageCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes the specified item, throws NotSupportedException."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Removes the specified item, throws NotSupportedException."
 type: docs
 weight: 260
 url: "/net/aspose.pdf/pagecollection/remove/"

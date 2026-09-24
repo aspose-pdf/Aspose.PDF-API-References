@@ -2,8 +2,8 @@
 title: "ThreadMessageResponse.IncompleteAt"
 linktitle: "IncompleteAt"
 articleTitle: "IncompleteAt"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Unix timestamp (in seconds) for when the message was marked as incomplete."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageResponse property. Gets or sets the Unix timestamp (in seconds) for when the message was marked as incomplete."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/threadmessageresponse/incompleteat/"

@@ -2,8 +2,8 @@
 title: "TextFragmentState.HorizontalAlignment"
 linktitle: "HorizontalAlignment"
 articleTitle: "HorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets horizontal alignment for the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets horizontal alignment for the text."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.text/textfragmentstate/horizontalalignment/"

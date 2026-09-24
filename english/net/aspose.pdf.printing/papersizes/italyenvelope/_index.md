@@ -2,8 +2,8 @@
 title: "PaperSizes.ItalyEnvelope"
 linktitle: "ItalyEnvelope"
 articleTitle: "ItalyEnvelope"
-second_title: "Aspose.PDF for .NET"
-description: "Italy envelope (110 mm by 230 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Italy envelope (110 mm by 230 mm)."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.printing/papersizes/italyenvelope/"

@@ -2,8 +2,8 @@
 title: "RedactionAnnotation Class"
 linktitle: "RedactionAnnotation"
 articleTitle: "RedactionAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Redact annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RedactionAnnotation class. Represents Redact annotation."
 type: docs
 weight: 1020
 url: "/net/aspose.pdf.annotations/redactionannotation/"

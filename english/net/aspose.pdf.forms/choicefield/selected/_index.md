@@ -2,8 +2,8 @@
 title: "ChoiceField.Selected"
 linktitle: "Selected"
 articleTitle: "Selected"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets index of selected option. This property allows to change selection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChoiceField property. Gets or sets index of selected option. This property allows to change selection."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/choicefield/selected/"

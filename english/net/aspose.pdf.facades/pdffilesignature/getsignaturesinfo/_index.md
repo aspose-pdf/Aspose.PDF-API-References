@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetSignaturesInfo"
 linktitle: "GetSignaturesInfo"
 articleTitle: "GetSignaturesInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves information about all signatures algorithm present in the PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Retrieves information about all signatures algorithm present in the PDF document."
 type: docs
 weight: 590
 url: "/net/aspose.pdf.facades/pdffilesignature/getsignaturesinfo/"

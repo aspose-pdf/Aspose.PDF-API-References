@@ -2,8 +2,8 @@
 title: "TextParagraph Class"
 linktitle: "TextParagraph"
 articleTitle: "TextParagraph"
-second_title: "Aspose.PDF for .NET"
-description: "Represents text paragraphs as multiline text object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextParagraph class. Represents text paragraphs as multiline text object."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.text/textparagraph/"

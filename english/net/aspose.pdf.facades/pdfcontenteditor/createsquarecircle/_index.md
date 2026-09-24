@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateSquareCircle"
 linktitle: "CreateSquareCircle"
 articleTitle: "CreateSquareCircle"
-second_title: "Aspose.PDF for .NET"
-description: "Creates square-circle annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates square-circle annotation."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createsquarecircle/"

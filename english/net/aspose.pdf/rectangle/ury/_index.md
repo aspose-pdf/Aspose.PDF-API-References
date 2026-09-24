@@ -2,8 +2,8 @@
 title: "Rectangle.URY"
 linktitle: "URY"
 articleTitle: "URY"
-second_title: "Aspose.PDF for .NET"
-description: "Y - coordinate of upper-right corner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. Y - coordinate of upper-right corner."
 type: docs
 weight: 260
 url: "/net/aspose.pdf/rectangle/ury/"

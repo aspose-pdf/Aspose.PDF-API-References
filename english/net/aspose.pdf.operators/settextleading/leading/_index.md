@@ -2,8 +2,8 @@
 title: "SetTextLeading.Leading"
 linktitle: "Leading"
 articleTitle: "Leading"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the text leading."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextLeading property. Gets or sets the text leading."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/settextleading/leading/"

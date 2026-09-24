@@ -2,8 +2,8 @@
 title: "FormFieldFacade.AlignLeft"
 linktitle: "AlignLeft"
 articleTitle: "AlignLeft"
-second_title: "Aspose.PDF for .NET"
-description: "Defines aglignment to left style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines aglignment to left style."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/formfieldfacade/alignleft/"

@@ -2,8 +2,8 @@
 title: "ID.ID"
 linktitle: "ID"
 articleTitle: "ID"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ID class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ID constructor. Initializes a new instance of the ID class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/id/id/"

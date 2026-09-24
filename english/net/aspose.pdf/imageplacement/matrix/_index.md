@@ -2,8 +2,8 @@
 title: "ImagePlacement.Matrix"
 linktitle: "Matrix"
 articleTitle: "Matrix"
-second_title: "Aspose.PDF for .NET"
-description: "Current transformation matrix for this image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement property. Current transformation matrix for this image."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/imageplacement/matrix/"

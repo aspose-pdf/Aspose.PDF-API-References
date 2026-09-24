@@ -2,8 +2,8 @@
 title: "Field Class"
 linktitle: "Field"
 articleTitle: "Field"
-second_title: "Aspose.PDF for .NET"
-description: "Base class for acro form fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.Field class. Base class for acro form fields."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/field/"

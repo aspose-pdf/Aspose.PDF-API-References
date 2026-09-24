@@ -2,8 +2,8 @@
 title: "Rectangle Class"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Rectangle class. Class represents rectangle."
 type: docs
 weight: 2640
 url: "/net/aspose.pdf/rectangle/"

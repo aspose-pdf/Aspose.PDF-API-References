@@ -2,8 +2,8 @@
 title: "RunResponse.FailedAt"
 linktitle: "FailedAt"
 articleTitle: "FailedAt"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Unix timestamp (in seconds) for when the run failed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the Unix timestamp (in seconds) for when the run failed."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.ai/runresponse/failedat/"

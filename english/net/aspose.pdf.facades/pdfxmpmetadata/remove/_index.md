@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes element with specified key."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Removes element with specified key."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/remove/"

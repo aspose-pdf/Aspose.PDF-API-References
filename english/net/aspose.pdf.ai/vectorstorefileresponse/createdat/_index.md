@@ -2,8 +2,8 @@
 title: "VectorStoreFileResponse.CreatedAt"
 linktitle: "CreatedAt"
 articleTitle: "CreatedAt"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Unix timestamp (in seconds) for when the vector store file was created."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileResponse property. Gets or sets the Unix timestamp (in seconds) for when the vector store file was created."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/createdat/"

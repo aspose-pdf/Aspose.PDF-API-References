@@ -2,8 +2,8 @@
 title: "PdfContentEditor.ShowStampById"
 linktitle: "ShowStampById"
 articleTitle: "ShowStampById"
-second_title: "Aspose.PDF for .NET"
-description: "Shows stamp which was hidden by HiddenStampById."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Shows stamp which was hidden by HiddenStampById."
 type: docs
 weight: 580
 url: "/net/aspose.pdf.facades/pdfcontenteditor/showstampbyid/"

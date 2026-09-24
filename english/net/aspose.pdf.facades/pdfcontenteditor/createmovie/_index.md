@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateMovie"
 linktitle: "CreateMovie"
 articleTitle: "CreateMovie"
-second_title: "Aspose.PDF for .NET"
-description: "Creates Movie Annotations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates Movie Annotations."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createmovie/"

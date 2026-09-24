@@ -2,8 +2,8 @@
 title: "TextFragmentState.ApplyChangesFrom"
 linktitle: "ApplyChangesFrom"
 articleTitle: "ApplyChangesFrom"
-second_title: "Aspose.PDF for .NET"
-description: "Applies settings from another textState."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState method. Applies settings from another textState."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textfragmentstate/applychangesfrom/"

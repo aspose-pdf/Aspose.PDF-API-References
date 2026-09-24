@@ -2,8 +2,8 @@
 title: "RadioButtonField Class"
 linktitle: "RadioButtonField"
 articleTitle: "RadioButtonField"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing radio button field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.RadioButtonField class. Class representing radio button field."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.forms/radiobuttonfield/"

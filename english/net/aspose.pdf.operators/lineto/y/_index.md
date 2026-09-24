@@ -2,8 +2,8 @@
 title: "LineTo.Y"
 linktitle: "Y"
 articleTitle: "Y"
-second_title: "Aspose.PDF for .NET"
-description: "Y coordinate of line point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineTo property. Y coordinate of line point."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/lineto/y/"

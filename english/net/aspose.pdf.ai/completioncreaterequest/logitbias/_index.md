@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.LogitBias"
 linktitle: "LogitBias"
 articleTitle: "LogitBias"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the likelihood of specified tokens appearing in the completion. Accepts a JSON object that maps tokens (specified by their token ID in the token..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets the likelihood of specified tokens appearing in the completion. Accepts a JSON object that maps tokens (specif..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/completioncreaterequest/logitbias/"

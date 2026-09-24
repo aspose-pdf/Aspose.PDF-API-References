@@ -2,8 +2,8 @@
 title: "Id.Modified"
 linktitle: "Modified"
 articleTitle: "Modified"
-second_title: "Aspose.PDF for .NET"
-description: "Changing identifier based on the document's contents at the time it was last updated."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Id property. Changing identifier based on the document's contents at the time it was last updated."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/id/modified/"

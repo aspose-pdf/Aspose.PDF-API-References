@@ -2,8 +2,8 @@
 title: "TextFragmentState Class"
 linktitle: "TextFragmentState"
 articleTitle: "TextFragmentState"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a text state of a text fragment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextFragmentState class. Represents a text state of a text fragment."
 type: docs
 weight: 580
 url: "/net/aspose.pdf.text/textfragmentstate/"

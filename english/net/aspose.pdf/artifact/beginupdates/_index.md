@@ -2,8 +2,8 @@
 title: "Artifact.BeginUpdates"
 linktitle: "BeginUpdates"
 articleTitle: "BeginUpdates"
-second_title: "Aspose.PDF for .NET"
-description: "Start delated updates. Use this feature if you need make several changes to the same artifact to improve performance. Usually artifact operators are changed ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Start delated updates. Use this feature if you need make several changes to the same artifact to improve performance. Usually artifact opera..."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/artifact/beginupdates/"

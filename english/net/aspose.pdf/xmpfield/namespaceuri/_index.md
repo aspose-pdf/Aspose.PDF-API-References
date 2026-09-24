@@ -2,8 +2,8 @@
 title: "XmpField.NamespaceUri"
 linktitle: "NamespaceUri"
 articleTitle: "NamespaceUri"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the namespace URI."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets the namespace URI."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xmpfield/namespaceuri/"

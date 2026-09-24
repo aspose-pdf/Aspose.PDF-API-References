@@ -2,8 +2,8 @@
 title: "PrinterSettings.MaximumPage"
 linktitle: "MaximumPage"
 articleTitle: "MaximumPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the highest or which may be selected in a print dialog box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the highest or which may be selected in a print dialog box."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.printing/printersettings/maximumpage/"

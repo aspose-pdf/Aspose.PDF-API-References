@@ -2,8 +2,8 @@
 title: "RunModifyRequest Class"
 linktitle: "RunModifyRequest"
 articleTitle: "RunModifyRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a request to modify a run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.RunModifyRequest class. Represents a request to modify a run."
 type: docs
 weight: 1090
 url: "/net/aspose.pdf.ai/runmodifyrequest/"

@@ -2,8 +2,8 @@
 title: "TextMarkupAnnotation.GetMarkedText"
 linktitle: "GetMarkedText"
 articleTitle: "GetMarkedText"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text under markup annotation as string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextMarkupAnnotation method. Gets text under markup annotation as string."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/"

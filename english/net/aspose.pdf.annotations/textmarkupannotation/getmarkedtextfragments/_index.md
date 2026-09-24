@@ -2,8 +2,8 @@
 title: "TextMarkupAnnotation.GetMarkedTextFragments"
 linktitle: "GetMarkedTextFragments"
 articleTitle: "GetMarkedTextFragments"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text under markup annotation as ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextMarkupAnnotation method. Gets text under markup annotation as ."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/"

@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.SetPoster"
 linktitle: "SetPoster"
 articleTitle: "SetPoster"
-second_title: "Aspose.PDF for .NET"
-description: "Set poster of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation method. Set poster of the annotation."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/richmediaannotation/setposter/"

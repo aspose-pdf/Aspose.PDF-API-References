@@ -2,8 +2,8 @@
 title: "Re.X"
 linktitle: "X"
 articleTitle: "X"
-second_title: "Aspose.PDF for .NET"
-description: "X coordinate of most left side of rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Re property. X coordinate of most left side of rectangle."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/re/x/"

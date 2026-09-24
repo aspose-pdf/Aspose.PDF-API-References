@@ -2,8 +2,8 @@
 title: "FileSpecification.GetValue"
 linktitle: "GetValue"
 articleTitle: "GetValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets application-specific parameter."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification method. Gets application-specific parameter."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/filespecification/getvalue/"

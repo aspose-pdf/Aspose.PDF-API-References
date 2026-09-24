@@ -2,8 +2,8 @@
 title: "StartEndPageEventArgs.TotalPages"
 linktitle: "TotalPages"
 articleTitle: "TotalPages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the total number of pages to be printed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StartEndPageEventArgs field. Gets the total number of pages to be printed."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/startendpageeventargs/totalpages/"

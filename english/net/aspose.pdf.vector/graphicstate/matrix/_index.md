@@ -2,8 +2,8 @@
 title: "GraphicState.Matrix"
 linktitle: "Matrix"
 articleTitle: "Matrix"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the current transformation matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicState property. Gets the current transformation matrix."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.vector/graphicstate/matrix/"

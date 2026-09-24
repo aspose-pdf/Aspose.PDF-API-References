@@ -2,8 +2,8 @@
 title: "Metadata.Keys"
 linktitle: "Keys"
 articleTitle: "Keys"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of metadata keys."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Gets collection of metadata keys."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/metadata/keys/"

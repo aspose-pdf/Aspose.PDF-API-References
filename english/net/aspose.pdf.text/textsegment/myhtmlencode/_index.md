@@ -2,8 +2,8 @@
 title: "TextSegment.MyHtmlEncode"
 linktitle: "MyHtmlEncode"
 articleTitle: "MyHtmlEncode"
-second_title: "Aspose.PDF for .NET"
-description: "Encodes string as html."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSegment method. Encodes string as html."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textsegment/myhtmlencode/"

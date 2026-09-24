@@ -2,8 +2,8 @@
 title: "CollectionItem.TryGetTextValue"
 linktitle: "TryGetTextValue"
 articleTitle: "TryGetTextValue"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionItem method."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/collectionitem/trygettextvalue/"

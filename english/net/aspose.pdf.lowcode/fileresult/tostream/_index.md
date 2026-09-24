@@ -2,8 +2,8 @@
 title: "FileResult.ToStream"
 linktitle: "ToStream"
 articleTitle: "ToStream"
-second_title: "Aspose.PDF for .NET"
-description: "Tries to convert the result to a stream object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResult method. Tries to convert the result to a stream object."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/fileresult/tostream/"

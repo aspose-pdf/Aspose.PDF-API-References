@@ -2,8 +2,8 @@
 title: "XmpValue.IsDateTime"
 linktitle: "IsDateTime"
 articleTitle: "IsDateTime"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if value is DateTime."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue property. Returns true if value is DateTime."
 type: docs
 weight: 320
 url: "/net/aspose.pdf/xmpvalue/isdatetime/"

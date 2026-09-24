@@ -2,8 +2,8 @@
 title: "Measure.NumberFormatList.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Count if items in the list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormatList property. Count if items in the list."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/count/"

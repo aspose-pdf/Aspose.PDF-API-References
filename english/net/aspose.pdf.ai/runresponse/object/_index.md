@@ -2,8 +2,8 @@
 title: "RunResponse.Object"
 linktitle: "Object"
 articleTitle: "Object"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the object type, which is always thread.run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the object type, which is always thread.run."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/runresponse/object/"

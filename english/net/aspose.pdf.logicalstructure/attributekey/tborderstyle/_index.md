@@ -2,8 +2,8 @@
 title: "AttributeKey.TBorderStyle"
 linktitle: "TBorderStyle"
 articleTitle: "TBorderStyle"
-second_title: "Aspose.PDF for .NET"
-description: "TBorderStyle attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TBorderStyle attribute (Layout attribute owner)."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.logicalstructure/attributekey/tborderstyle/"

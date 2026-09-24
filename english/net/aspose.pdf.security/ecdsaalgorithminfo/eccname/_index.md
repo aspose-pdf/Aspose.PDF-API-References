@@ -2,8 +2,8 @@
 title: "EcdsaAlgorithmInfo.EccName"
 linktitle: "EccName"
 articleTitle: "EccName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the name of the elliptic curve used by the ECDSA."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EcdsaAlgorithmInfo field. Gets the name of the elliptic curve used by the ECDSA."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/ecdsaalgorithminfo/eccname/"

@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.BlockQuote"
 linktitle: "BlockQuote"
 articleTitle: "BlockQuote"
-second_title: "Aspose.PDF for .NET"
-description: "(Block quotation) A portion of text consisting of one or more paragraphs attributed to someone other than the author of the surrounding text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Block quotation) A portion of text consisting of one or more paragraphs attributed to someone other than the author of the surr..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/blockquote/"

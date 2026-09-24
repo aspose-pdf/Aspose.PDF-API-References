@@ -2,8 +2,8 @@
 title: "FileSpecification.MIMEType"
 linktitle: "MIMEType"
 articleTitle: "MIMEType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets subtype of the embedded file"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets subtype of the embedded file"
 type: docs
 weight: 200
 url: "/net/aspose.pdf/filespecification/mimetype/"

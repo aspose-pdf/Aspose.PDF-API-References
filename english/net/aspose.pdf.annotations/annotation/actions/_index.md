@@ -2,8 +2,8 @@
 title: "Annotation.Actions"
 linktitle: "Actions"
 articleTitle: "Actions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets list of annotatation actions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets list of annotatation actions."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.annotations/annotation/actions/"

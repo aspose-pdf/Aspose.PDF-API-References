@@ -2,8 +2,8 @@
 title: "TableTRElement Class"
 linktitle: "TableTRElement"
 articleTitle: "TableTRElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents TR structure element in logical structure of the table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.TableTRElement class. Represents TR structure element in logical structure of the table."
 type: docs
 weight: 710
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/"

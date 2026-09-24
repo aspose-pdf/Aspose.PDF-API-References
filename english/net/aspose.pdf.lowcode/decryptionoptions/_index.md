@@ -2,8 +2,8 @@
 title: "DecryptionOptions Class"
 linktitle: "DecryptionOptions"
 articleTitle: "DecryptionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Decryption Options for plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.DecryptionOptions class. Represents Decryption Options for plugin."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/decryptionoptions/"

@@ -2,8 +2,8 @@
 title: "ThreadMessageResponse.CompletedAt"
 linktitle: "CompletedAt"
 articleTitle: "CompletedAt"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Unix timestamp (in seconds) for when the message was completed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageResponse property. Gets or sets the Unix timestamp (in seconds) for when the message was completed."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/threadmessageresponse/completedat/"

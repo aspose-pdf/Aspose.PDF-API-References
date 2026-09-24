@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilot Class"
 linktitle: "OpenAIOcrCopilot"
 articleTitle: "OpenAIOcrCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Provides OCR capabilities to extract text from PDF documents and images. The supported image types: PNG (.png), JPEG (.jpeg and .jpg), WEBP (.webp), non-anim..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIOcrCopilot class. Provides OCR capabilities to extract text from PDF documents and images. The supported image types: PNG (.png), JPEG (...."
 type: docs
 weight: 980
 url: "/net/aspose.pdf.ai/openaiocrcopilot/"

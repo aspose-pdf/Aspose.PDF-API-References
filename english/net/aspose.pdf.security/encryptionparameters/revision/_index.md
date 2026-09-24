@@ -2,8 +2,8 @@
 title: "EncryptionParameters.Revision"
 linktitle: "Revision"
 articleTitle: "Revision"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the handler or encryption algorithm revision."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionParameters property. Gets the handler or encryption algorithm revision."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.security/encryptionparameters/revision/"

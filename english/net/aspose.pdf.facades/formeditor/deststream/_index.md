@@ -2,8 +2,8 @@
 title: "FormEditor.DestStream"
 linktitle: "DestStream"
 articleTitle: "DestStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets destination stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor property. Gets or sets destination stream."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.facades/formeditor/deststream/"

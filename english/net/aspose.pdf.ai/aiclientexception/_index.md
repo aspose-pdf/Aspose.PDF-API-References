@@ -2,8 +2,8 @@
 title: "AIClientException Class"
 linktitle: "AIClientException"
 articleTitle: "AIClientException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an exception specific to the AI Client operations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.AIClientException class. Represents an exception specific to the AI Client operations."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/aiclientexception/"

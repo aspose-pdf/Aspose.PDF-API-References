@@ -2,8 +2,8 @@
 title: "PdfViewer.GetDefaultPageSettings"
 linktitle: "GetDefaultPageSettings"
 articleTitle: "GetDefaultPageSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the default page settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Gets the default page settings."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/"

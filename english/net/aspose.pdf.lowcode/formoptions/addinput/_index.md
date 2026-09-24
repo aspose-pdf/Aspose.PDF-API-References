@@ -2,8 +2,8 @@
 title: "FormOptions.AddInput"
 linktitle: "AddInput"
 articleTitle: "AddInput"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new data source to the Form... plugins data collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormOptions method. Adds new data source to the Form... plugins data collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formoptions/addinput/"

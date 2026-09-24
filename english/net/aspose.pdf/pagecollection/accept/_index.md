@@ -2,8 +2,8 @@
 title: "PageCollection.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor object that provides functionality to work with annotations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Accepts visitor object that provides functionality to work with annotations."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/pagecollection/accept/"

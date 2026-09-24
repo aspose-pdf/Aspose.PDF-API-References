@@ -2,8 +2,8 @@
 title: "AttributeOwnerStandard Class"
 linktitle: "AttributeOwnerStandard"
 articleTitle: "AttributeOwnerStandard"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Standard Attribute Owners."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.AttributeOwnerStandard class. Represents Standard Attribute Owners."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/"

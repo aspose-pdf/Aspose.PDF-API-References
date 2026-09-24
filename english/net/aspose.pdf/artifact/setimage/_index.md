@@ -2,8 +2,8 @@
 title: "Artifact.SetImage"
 linktitle: "SetImage"
 articleTitle: "SetImage"
-second_title: "Aspose.PDF for .NET"
-description: "Sets image of the artifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Sets image of the artifact."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/artifact/setimage/"

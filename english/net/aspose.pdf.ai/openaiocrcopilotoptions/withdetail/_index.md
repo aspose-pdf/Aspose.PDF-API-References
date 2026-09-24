@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilotOptions.WithDetail"
 linktitle: "WithDetail"
 articleTitle: "WithDetail"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the level of detail for image analysis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Sets the level of detail for image analysis."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withdetail/"

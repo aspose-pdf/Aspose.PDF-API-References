@@ -2,8 +2,8 @@
 title: "IImageDescriptionClient<TOptions>.GetImageDescriptionCopilot"
 linktitle: "GetImageDescriptionCopilot"
 articleTitle: "GetImageDescriptionCopilot"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IImageDescriptionClient method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/"

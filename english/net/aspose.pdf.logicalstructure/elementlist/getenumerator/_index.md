@@ -2,8 +2,8 @@
 title: "ElementList.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an enumerator that iterates through the collection of elements."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ElementList method. Gets an enumerator that iterates through the collection of elements."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/elementlist/getenumerator/"

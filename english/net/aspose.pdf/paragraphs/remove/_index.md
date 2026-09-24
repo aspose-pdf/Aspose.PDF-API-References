@@ -2,8 +2,8 @@
 title: "Paragraphs.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Remove paragraph from collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs method. Remove paragraph from collection."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/paragraphs/remove/"

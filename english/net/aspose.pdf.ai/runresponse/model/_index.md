@@ -2,8 +2,8 @@
 title: "RunResponse.Model"
 linktitle: "Model"
 articleTitle: "Model"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the model that the assistant used for this run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the model that the assistant used for this run."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/runresponse/model/"

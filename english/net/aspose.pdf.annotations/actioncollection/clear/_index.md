@@ -2,8 +2,8 @@
 title: "ActionCollection.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Clear collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection method. Clear collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/actioncollection/clear/"

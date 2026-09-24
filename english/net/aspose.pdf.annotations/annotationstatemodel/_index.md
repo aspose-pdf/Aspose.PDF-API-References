@@ -2,8 +2,8 @@
 title: "AnnotationStateModel Enum"
 linktitle: "AnnotationStateModel"
 articleTitle: "AnnotationStateModel"
-second_title: "Aspose.PDF for .NET"
-description: "The state model corresponding to state of annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.AnnotationStateModel enum. The state model corresponding to state of annotation."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/annotationstatemodel/"

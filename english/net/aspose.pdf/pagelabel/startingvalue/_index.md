@@ -2,8 +2,8 @@
 title: "PageLabel.StartingValue"
 linktitle: "StartingValue"
 articleTitle: "StartingValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets starting value of the page numbering range."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageLabel property. Gets or sets starting value of the page numbering range."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagelabel/startingvalue/"

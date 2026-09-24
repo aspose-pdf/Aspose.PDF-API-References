@@ -2,8 +2,8 @@
 title: "TocInfo.CopyToOutlines"
 linktitle: "CopyToOutlines"
 articleTitle: "CopyToOutlines"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets is TOC copied to outlines."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocInfo property. Gets or sets is TOC copied to outlines."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/tocinfo/copytooutlines/"

@@ -2,8 +2,8 @@
 title: "SystemFontsSubstitution.DefaultFont"
 linktitle: "DefaultFont"
 articleTitle: "DefaultFont"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets default substitution font. The font is used when no other valid substitution were found but initial font belongs to target substitution category..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SystemFontsSubstitution property. Gets or sets default substitution font. The font is used when no other valid substitution were found but initial font belon..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/systemfontssubstitution/defaultfont/"

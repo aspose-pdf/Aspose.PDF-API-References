@@ -2,8 +2,8 @@
 title: "AlignmentType.Right"
 linktitle: "Right"
 articleTitle: "Right"
-second_title: "Aspose.PDF for .NET"
-description: "Right alignment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AlignmentType field. Right alignment."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/alignmenttype/right/"

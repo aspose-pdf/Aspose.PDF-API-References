@@ -2,8 +2,8 @@
 title: "ScalingReason Enum"
 linktitle: "ScalingReason"
 articleTitle: "ScalingReason"
-second_title: "Aspose.PDF for .NET"
-description: "The circumstances under which the icon shall be scaled inside the annotation rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.ScalingReason enum. The circumstances under which the icon shall be scaled inside the annotation rectangle."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.forms/scalingreason/"

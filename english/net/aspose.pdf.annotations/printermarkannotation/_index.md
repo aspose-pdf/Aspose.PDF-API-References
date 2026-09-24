@@ -2,8 +2,8 @@
 title: "PrinterMarkAnnotation Class"
 linktitle: "PrinterMarkAnnotation"
 articleTitle: "PrinterMarkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Abstract class representing printer mark annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PrinterMarkAnnotation class. Abstract class representing printer mark annotation."
 type: docs
 weight: 970
 url: "/net/aspose.pdf.annotations/printermarkannotation/"

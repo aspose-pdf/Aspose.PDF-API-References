@@ -2,8 +2,8 @@
 title: "PdfFileInfo.GetPageHeight"
 linktitle: "GetPageHeight"
 articleTitle: "GetPageHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the height of the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Gets the height of the specified page."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdffileinfo/getpageheight/"

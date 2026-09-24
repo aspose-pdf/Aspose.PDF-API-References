@@ -2,8 +2,8 @@
 title: "Artifact.GetValue"
 linktitle: "GetValue"
 articleTitle: "GetValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets custom value of artifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Gets custom value of artifact."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/artifact/getvalue/"

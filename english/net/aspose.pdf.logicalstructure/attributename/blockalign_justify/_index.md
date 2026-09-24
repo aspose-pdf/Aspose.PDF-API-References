@@ -2,8 +2,8 @@
 title: "AttributeName.BlockAlign_Justify"
 linktitle: "BlockAlign_Justify"
 articleTitle: "BlockAlign_Justify"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BlockAlign: Justify - Children aligned with both the before and after edges of the table cell's content rectangle. The first child shall be placed ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BlockAlign: Justify - Children aligned with both the before and after edges of the table cell's content rectangle. The first c..."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.logicalstructure/attributename/blockalign_justify/"

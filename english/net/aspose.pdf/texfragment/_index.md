@@ -2,8 +2,8 @@
 title: "TeXFragment Class"
 linktitle: "TeXFragment"
 articleTitle: "TeXFragment"
-second_title: "Aspose.PDF for .NET"
-description: "Represents TeX fragment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TeXFragment class. Represents TeX fragment."
 type: docs
 weight: 2980
 url: "/net/aspose.pdf/texfragment/"

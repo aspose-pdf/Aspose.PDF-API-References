@@ -2,8 +2,8 @@
 title: "PdfVersion Enum"
 linktitle: "PdfVersion"
 articleTitle: "PdfVersion"
-second_title: "Aspose.PDF for .NET"
-description: "This enum represents version of pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfVersion enum. This enum represents version of pdf file."
 type: docs
 weight: 2510
 url: "/net/aspose.pdf/pdfversion/"

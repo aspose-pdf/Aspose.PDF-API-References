@@ -2,8 +2,8 @@
 title: "FormEditor.SrcFileName"
 linktitle: "SrcFileName"
 articleTitle: "SrcFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets name of source file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor property. Gets or sets name of source file."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/formeditor/srcfilename/"

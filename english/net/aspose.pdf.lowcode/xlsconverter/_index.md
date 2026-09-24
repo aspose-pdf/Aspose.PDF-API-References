@@ -2,8 +2,8 @@
 title: "XlsConverter Class"
 linktitle: "XlsConverter"
 articleTitle: "XlsConverter"
-second_title: "Aspose.PDF for .NET"
-description: "Represents plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.XlsConverter class. Represents plugin."
 type: docs
 weight: 1060
 url: "/net/aspose.pdf.lowcode/xlsconverter/"

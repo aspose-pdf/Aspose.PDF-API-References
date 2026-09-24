@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.LBody"
 linktitle: "LBody"
 articleTitle: "LBody"
-second_title: "Aspose.PDF for .NET"
-description: "(List body) The descriptive content of a list item. In a dictionary list, for example, it contains the definition of the term. It may either contain the cont..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (List body) The descriptive content of a list item. In a dictionary list, for example, it contains the definition of the term. I..."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/lbody/"

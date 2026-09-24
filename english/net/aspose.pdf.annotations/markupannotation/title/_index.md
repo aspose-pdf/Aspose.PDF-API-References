@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a text label that shall be displayed in the title bar of the annotation�s popup window when open and active. This entry shall identify the user ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation property. Gets or sets a text label that shall be displayed in the title bar of the annotation�s popup window when open and active. This ent..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/markupannotation/title/"

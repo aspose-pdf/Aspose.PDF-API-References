@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlImageType Enum"
 linktitle: "HtmlSaveOptions.HtmlImageType"
 articleTitle: "HtmlSaveOptions.HtmlImageType"
-second_title: "Aspose.PDF for .NET"
-description: "enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.HtmlImageType enum. enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion"
 type: docs
 weight: 1280
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagetype/"

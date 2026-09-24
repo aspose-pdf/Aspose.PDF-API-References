@@ -2,8 +2,8 @@
 title: "OpenAIModels Class"
 linktitle: "OpenAIModels"
 articleTitle: "OpenAIModels"
-second_title: "Aspose.PDF for .NET"
-description: "Contains the available OpenAI model identifiers."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIModels class. Contains the available OpenAI model identifiers."
 type: docs
 weight: 970
 url: "/net/aspose.pdf.ai/openaimodels/"

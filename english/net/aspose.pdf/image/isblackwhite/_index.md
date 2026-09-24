@@ -2,8 +2,8 @@
 title: "Image.IsBlackWhite"
 linktitle: "IsBlackWhite"
 articleTitle: "IsBlackWhite"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a bool value that indicates whether the image is forced to be black-and-white. If TIFF image of CCITT subformat is used, this property must be s..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets a bool value that indicates whether the image is forced to be black-and-white. If TIFF image of CCITT subformat is used, this pr..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/image/isblackwhite/"

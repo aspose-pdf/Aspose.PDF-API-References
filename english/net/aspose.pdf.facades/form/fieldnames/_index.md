@@ -2,8 +2,8 @@
 title: "Form.FieldNames"
 linktitle: "FieldNames"
 articleTitle: "FieldNames"
-second_title: "Aspose.PDF for .NET"
-description: "Gets list of field names on the form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets list of field names on the form."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.facades/form/fieldnames/"

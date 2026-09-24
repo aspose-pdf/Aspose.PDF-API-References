@@ -2,8 +2,8 @@
 title: "Operator.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text of operator and its parameters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Operator method. Returns text of operator and its parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/operator/tostring/"

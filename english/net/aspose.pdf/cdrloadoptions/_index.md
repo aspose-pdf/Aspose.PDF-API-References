@@ -2,8 +2,8 @@
 title: "CdrLoadOptions Class"
 linktitle: "CdrLoadOptions"
 articleTitle: "CdrLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes CDR load options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CdrLoadOptions class. Class describes CDR load options."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/cdrloadoptions/"

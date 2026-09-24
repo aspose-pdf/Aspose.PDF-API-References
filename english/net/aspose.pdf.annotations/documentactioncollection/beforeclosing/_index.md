@@ -2,8 +2,8 @@
 title: "DocumentActionCollection.BeforeClosing"
 linktitle: "BeforeClosing"
 articleTitle: "BeforeClosing"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets action that will be performed before documetn closing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentActionCollection property. Gets or sets action that will be performed before documetn closing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/documentactioncollection/beforeclosing/"

@@ -2,8 +2,8 @@
 title: "FileSaveTarget.Path"
 linktitle: "Path"
 articleTitle: "Path"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the path to the file of current save target."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSaveTarget property. Gets the path to the file of current save target."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/filesavetarget/path/"

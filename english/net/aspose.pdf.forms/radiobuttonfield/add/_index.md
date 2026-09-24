@@ -2,8 +2,8 @@
 title: "RadioButtonField.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new option field to RadioButton field"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField method. Adds new option field to RadioButton field"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/radiobuttonfield/add/"

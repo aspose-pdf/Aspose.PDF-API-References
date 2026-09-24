@@ -2,8 +2,8 @@
 title: "SystemFontSource.SystemFontSource"
 linktitle: "SystemFontSource"
 articleTitle: "SystemFontSource"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SystemFontSource class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SystemFontSource constructor. Initializes a new instance of the SystemFontSource class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/systemfontsource/systemfontsource/"

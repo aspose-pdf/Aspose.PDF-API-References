@@ -2,8 +2,8 @@
 title: "PdfFileSecurity.SetPrivilege"
 linktitle: "SetPrivilege"
 articleTitle: "SetPrivilege"
-second_title: "Aspose.PDF for .NET"
-description: "Sets Pdf file security with empty user/owner passwords. The owner password will be added by a random string. Throws an exception if process failed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Sets Pdf file security with empty user/owner passwords. The owner password will be added by a random string. Throws an exception if p..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdffilesecurity/setprivilege/"

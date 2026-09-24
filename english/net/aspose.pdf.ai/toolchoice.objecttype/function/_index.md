@@ -2,8 +2,8 @@
 title: "ToolChoice.ObjectType.Function"
 linktitle: "Function"
 articleTitle: "Function"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the function to call."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ObjectType property. Gets or sets the function to call."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/toolchoice.objecttype/function/"

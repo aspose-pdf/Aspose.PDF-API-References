@@ -2,8 +2,8 @@
 title: "Heading.Level"
 linktitle: "Level"
 articleTitle: "Level"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the level."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the level."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/heading/level/"

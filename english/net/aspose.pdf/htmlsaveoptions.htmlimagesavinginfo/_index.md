@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlImageSavingInfo Class"
 linktitle: "HtmlSaveOptions.HtmlImageSavingInfo"
 articleTitle: "HtmlSaveOptions.HtmlImageSavingInfo"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents set of data that related to external resource image file's saving during PDF to HTML conversion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.HtmlImageSavingInfo class. This class represents set of data that related to external resource image file's saving during PDF to H..."
 type: docs
 weight: 1270
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/"

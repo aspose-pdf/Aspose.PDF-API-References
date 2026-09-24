@@ -2,8 +2,8 @@
 title: "EpubLoadOptions.PageSize"
 linktitle: "PageSize"
 articleTitle: "PageSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets output page size for import."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EpubLoadOptions property. Gets or sets output page size for import."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/epubloadoptions/pagesize/"

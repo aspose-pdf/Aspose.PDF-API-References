@@ -2,8 +2,8 @@
 title: "CheckboxField Class"
 linktitle: "CheckboxField"
 articleTitle: "CheckboxField"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing checkbox field"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.CheckboxField class. Class representing checkbox field"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/checkboxfield/"

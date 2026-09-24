@@ -2,8 +2,8 @@
 title: "DocSaveOptions Class"
 linktitle: "DocSaveOptions"
 articleTitle: "DocSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Save options for export to Doc format"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DocSaveOptions class. Save options for export to Doc format"
 type: docs
 weight: 580
 url: "/net/aspose.pdf/docsaveoptions/"

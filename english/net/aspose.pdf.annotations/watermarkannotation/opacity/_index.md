@@ -2,8 +2,8 @@
 title: "WatermarkAnnotation.Opacity"
 linktitle: "Opacity"
 articleTitle: "Opacity"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets opacity of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WatermarkAnnotation property. Gets or sets opacity of the annotation."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/watermarkannotation/opacity/"

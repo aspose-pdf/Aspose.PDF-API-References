@@ -2,8 +2,8 @@
 title: "PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId"
 linktitle: "PlatformSpecificId"
 articleTitle: "PlatformSpecificId"
-second_title: "Aspose.PDF for .NET"
-description: "Platform-specific encoding identifier for encoding subtable"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "QueueItem property. Platform-specific encoding identifier for encoding subtable"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid/"

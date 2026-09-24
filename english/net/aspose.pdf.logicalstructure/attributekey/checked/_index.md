@@ -2,8 +2,8 @@
 title: "AttributeKey.Checked"
 linktitle: "Checked"
 articleTitle: "Checked"
-second_title: "Aspose.PDF for .NET"
-description: "Checked attribute (PrintField attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Checked attribute (PrintField attribute owner)."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.logicalstructure/attributekey/checked/"

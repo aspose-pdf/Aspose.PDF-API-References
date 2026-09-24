@@ -2,8 +2,8 @@
 title: "AbsorbedTable.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rectangle that describes position of the table on page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedTable property. Gets rectangle that describes position of the table on page"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/absorbedtable/rectangle/"

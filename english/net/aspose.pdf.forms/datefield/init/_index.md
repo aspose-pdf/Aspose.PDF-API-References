@@ -2,8 +2,8 @@
 title: "DateField.Init"
 linktitle: "Init"
 articleTitle: "Init"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes the JS Action."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DateField method. Initializes the JS Action."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/datefield/init/"

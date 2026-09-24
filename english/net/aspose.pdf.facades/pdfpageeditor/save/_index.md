@@ -2,8 +2,8 @@
 title: "PdfPageEditor.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves changed document into file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Saves changed document into file."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdfpageeditor/save/"

@@ -2,8 +2,8 @@
 title: "ArtifactCollection.FindByValue"
 linktitle: "FindByValue"
 articleTitle: "FindByValue"
-second_title: "Aspose.PDF for .NET"
-description: "Finds artifacts by custom value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection method. Finds artifacts by custom value."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/artifactcollection/findbyvalue/"

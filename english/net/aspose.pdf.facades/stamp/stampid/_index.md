@@ -2,8 +2,8 @@
 title: "Stamp.StampId"
 linktitle: "StampId"
 articleTitle: "StampId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets identifier of stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets identifier of stamp."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/stamp/stampid/"

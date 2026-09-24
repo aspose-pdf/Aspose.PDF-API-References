@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt"
 linktitle: "WithImageDescriptionPrompt"
 articleTitle: "WithImageDescriptionPrompt"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the prompt for the image description copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the prompt for the image description copilot options."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedescriptionprompt/"

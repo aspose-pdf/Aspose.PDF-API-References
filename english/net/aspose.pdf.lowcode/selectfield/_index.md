@@ -2,8 +2,8 @@
 title: "SelectField Delegate"
 linktitle: "SelectField"
 articleTitle: "SelectField"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.SelectField delegate."
 type: docs
 weight: 830
 url: "/net/aspose.pdf.lowcode/selectfield/"

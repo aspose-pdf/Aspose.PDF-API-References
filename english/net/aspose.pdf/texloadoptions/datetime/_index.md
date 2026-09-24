@@ -2,8 +2,8 @@
 title: "TeXLoadOptions.DateTime"
 linktitle: "DateTime"
 articleTitle: "DateTime"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets a certain value for date/time primitives like year, month, day and time."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXLoadOptions property. Gets/sets a certain value for date/time primitives like year, month, day and time."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/texloadoptions/datetime/"

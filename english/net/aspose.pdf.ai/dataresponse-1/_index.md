@@ -2,8 +2,8 @@
 title: "DataResponse<T> Class"
 linktitle: "DataResponse<T>"
 articleTitle: "DataResponse<T>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.DataResponse class."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.ai/dataresponse-1/"

@@ -2,8 +2,8 @@
 title: "TextStamp.AutoAdjustFontSizeToFitStampRectangle"
 linktitle: "AutoAdjustFontSizeToFitStampRectangle"
 articleTitle: "AutoAdjustFontSizeToFitStampRectangle"
-second_title: "Aspose.PDF for .NET"
-description: "If enabled, the font size will be automatically adjusted to fit the stamp rectangle of size: and . Default width and height are derived from the page rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp property. If enabled, the font size will be automatically adjusted to fit the stamp rectangle of size: and . Default width and height are derived f..."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/"

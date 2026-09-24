@@ -2,8 +2,8 @@
 title: "CosPdfString Class"
 linktitle: "CosPdfString"
 articleTitle: "CosPdfString"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents Pdf String object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DataEditor.CosPdfString class. This class represents Pdf String object."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.dataeditor/cospdfstring/"

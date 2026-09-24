@@ -2,8 +2,8 @@
 title: "PdfToImageOptions.ImageConversionMode Enum"
 linktitle: "PdfToImageOptions.ImageConversionMode"
 articleTitle: "PdfToImageOptions.ImageConversionMode"
-second_title: "Aspose.PDF for .NET"
-description: "Defines different modes which can be used while converting from PDF document to Jpeg image. See class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfToImageOptions.ImageConversionMode enum. Defines different modes which can be used while converting from PDF document to Jpeg image. Se..."
 type: docs
 weight: 730
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions.imageconversionmode/"

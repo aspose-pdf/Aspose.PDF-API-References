@@ -2,8 +2,8 @@
 title: "EOClip.EOClip"
 linktitle: "EOClip"
 articleTitle: "EOClip"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EOClip class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EOClip constructor. Initializes a new instance of the EOClip class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/eoclip/eoclip/"

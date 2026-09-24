@@ -2,8 +2,8 @@
 title: "XYZExplicitDestination.XYZExplicitDestination"
 linktitle: "XYZExplicitDestination"
 articleTitle: "XYZExplicitDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the XYZExplicitDestination class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination constructor. Initializes a new instance of the XYZExplicitDestination class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/"

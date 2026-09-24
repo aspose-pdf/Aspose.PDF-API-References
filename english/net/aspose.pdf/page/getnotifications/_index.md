@@ -2,8 +2,8 @@
 title: "Page.GetNotifications"
 linktitle: "GetNotifications"
 articleTitle: "GetNotifications"
-second_title: "Aspose.PDF for .NET"
-description: "Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are support..."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/page/getnotifications/"

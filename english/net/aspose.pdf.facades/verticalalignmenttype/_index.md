@@ -2,8 +2,8 @@
 title: "VerticalAlignmentType Class"
 linktitle: "VerticalAlignmentType"
 articleTitle: "VerticalAlignmentType"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing possible vertical alignment values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.VerticalAlignmentType class. Class representing possible vertical alignment values."
 type: docs
 weight: 660
 url: "/net/aspose.pdf.facades/verticalalignmenttype/"

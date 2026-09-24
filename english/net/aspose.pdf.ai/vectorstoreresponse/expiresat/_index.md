@@ -2,8 +2,8 @@
 title: "VectorStoreResponse.ExpiresAt"
 linktitle: "ExpiresAt"
 articleTitle: "ExpiresAt"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Unix timestamp (in seconds) for when the vector store will expire."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreResponse property. Gets or sets the Unix timestamp (in seconds) for when the vector store will expire."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/vectorstoreresponse/expiresat/"

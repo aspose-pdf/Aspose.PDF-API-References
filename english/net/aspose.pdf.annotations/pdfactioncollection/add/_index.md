@@ -2,8 +2,8 @@
 title: "PdfActionCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Add action to action list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfActionCollection method. Add action to action list."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pdfactioncollection/add/"

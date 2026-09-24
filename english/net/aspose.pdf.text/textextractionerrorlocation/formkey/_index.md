@@ -2,8 +2,8 @@
 title: "TextExtractionErrorLocation.FormKey"
 linktitle: "FormKey"
 articleTitle: "FormKey"
-second_title: "Aspose.PDF for .NET"
-description: "Key (name) of the PDF Form XObject in which contents stream text extraction error has located. Not empty if ObjectType == 'xForm'."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionErrorLocation property. Key (name) of the PDF Form XObject in which contents stream text extraction error has located. Not empty if ObjectType ..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/textextractionerrorlocation/formkey/"

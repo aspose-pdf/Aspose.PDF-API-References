@@ -2,8 +2,8 @@
 title: "EncryptionParameters.KeyLength"
 linktitle: "KeyLength"
 articleTitle: "KeyLength"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the key length."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionParameters property. Gets the key length."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.security/encryptionparameters/keylength/"

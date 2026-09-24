@@ -2,8 +2,8 @@
 title: "SetSpacingMoveToNextLineShowText.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetSpacingMoveToNextLineShowText property. Gets text of operator."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/text/"

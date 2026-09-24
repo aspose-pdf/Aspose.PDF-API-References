@@ -2,8 +2,8 @@
 title: "Point Class"
 linktitle: "Point"
 articleTitle: "Point"
-second_title: "Aspose.PDF for .NET"
-description: "Represent point with fractional coordinates."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Point class. Represent point with fractional coordinates."
 type: docs
 weight: 2550
 url: "/net/aspose.pdf/point/"

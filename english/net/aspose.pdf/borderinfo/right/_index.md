@@ -2,8 +2,8 @@
 title: "BorderInfo.Right"
 linktitle: "Right"
 articleTitle: "Right"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a object that indicates right of the border."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderInfo property. Gets or sets a object that indicates right of the border."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/borderinfo/right/"

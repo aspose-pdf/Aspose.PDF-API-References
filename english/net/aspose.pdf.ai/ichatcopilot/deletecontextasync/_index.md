@@ -2,8 +2,8 @@
 title: "IChatCopilot.DeleteContextAsync"
 linktitle: "DeleteContextAsync"
 articleTitle: "DeleteContextAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously deletes the context."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IChatCopilot method. Asynchronously deletes the context."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/"

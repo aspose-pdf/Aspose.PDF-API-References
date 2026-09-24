@@ -2,8 +2,8 @@
 title: "PaperSizes.Folio"
 linktitle: "Folio"
 articleTitle: "Folio"
-second_title: "Aspose.PDF for .NET"
-description: "Folio paper (8.5 in. by 13 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Folio paper (8.5 in. by 13 in.)."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.printing/papersizes/folio/"

@@ -2,8 +2,8 @@
 title: "AttributeKey.Role"
 linktitle: "Role"
 articleTitle: "Role"
-second_title: "Aspose.PDF for .NET"
-description: "Role attribute (PrintField attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Role attribute (PrintField attribute owner)."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.logicalstructure/attributekey/role/"

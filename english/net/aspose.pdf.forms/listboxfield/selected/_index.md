@@ -2,8 +2,8 @@
 title: "ListBoxField.Selected"
 linktitle: "Selected"
 articleTitle: "Selected"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets index of the selected item. Items are numbered from 1."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ListBoxField property. Gets or sets index of the selected item. Items are numbered from 1."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/listboxfield/selected/"

@@ -2,8 +2,8 @@
 title: "DateField.AddImage"
 linktitle: "AddImage"
 articleTitle: "AddImage"
-second_title: "Aspose.PDF for .NET"
-description: "Image adding denied for this field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DateField method. Image adding denied for this field."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/datefield/addimage/"

@@ -2,8 +2,8 @@
 title: "ViewerPreference.DirectionR2L"
 linktitle: "DirectionR2L"
 articleTitle: "DirectionR2L"
-second_title: "Aspose.PDF for .NET"
-description: "Text reading order right to left."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Text reading order right to left."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/viewerpreference/directionr2l/"

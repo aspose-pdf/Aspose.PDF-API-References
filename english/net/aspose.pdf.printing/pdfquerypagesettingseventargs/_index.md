@@ -2,8 +2,8 @@
 title: "PdfQueryPageSettingsEventArgs Class"
 linktitle: "PdfQueryPageSettingsEventArgs"
 articleTitle: "PdfQueryPageSettingsEventArgs"
-second_title: "Aspose.PDF for .NET"
-description: "Provides data for the event."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs class. Provides data for the event."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.printing/pdfquerypagesettingseventargs/"

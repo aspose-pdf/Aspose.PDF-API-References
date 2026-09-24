@@ -2,8 +2,8 @@
 title: "PdfViewer.ClosePdfFile"
 linktitle: "ClosePdfFile"
 articleTitle: "ClosePdfFile"
-second_title: "Aspose.PDF for .NET"
-description: "Closes the current Pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Closes the current Pdf file."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdfviewer/closepdffile/"

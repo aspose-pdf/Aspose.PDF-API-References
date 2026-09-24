@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetContactInfo"
 linktitle: "GetContactInfo"
 articleTitle: "GetContactInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the contact information of a signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the contact information of a signature."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.facades/pdffilesignature/getcontactinfo/"

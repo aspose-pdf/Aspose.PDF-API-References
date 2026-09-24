@@ -2,8 +2,8 @@
 title: "TextAnnotation.ChangeAfterResize"
 linktitle: "ChangeAfterResize"
 articleTitle: "ChangeAfterResize"
-second_title: "Aspose.PDF for .NET"
-description: "Overrides the definition in the base class with an empty body."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextAnnotation method. Overrides the definition in the base class with an empty body."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/textannotation/changeafterresize/"

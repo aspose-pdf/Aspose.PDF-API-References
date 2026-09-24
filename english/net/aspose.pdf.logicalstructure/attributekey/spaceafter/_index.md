@@ -2,8 +2,8 @@
 title: "AttributeKey.SpaceAfter"
 linktitle: "SpaceAfter"
 articleTitle: "SpaceAfter"
-second_title: "Aspose.PDF for .NET"
-description: "SpaceAfter attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. SpaceAfter attribute (Layout attribute owner)."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/attributekey/spaceafter/"

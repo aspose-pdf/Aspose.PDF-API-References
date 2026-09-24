@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Tag"
 linktitle: "Tag"
 articleTitle: "Tag"
-second_title: "Aspose.PDF for .NET"
-description: "Gets tag name of ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard property. Gets tag name of ."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/tag/"

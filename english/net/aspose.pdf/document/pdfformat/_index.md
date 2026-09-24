@@ -2,8 +2,8 @@
 title: "Document.PdfFormat"
 linktitle: "PdfFormat"
 articleTitle: "PdfFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets PDF format"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets PDF format"
 type: docs
 weight: 1190
 url: "/net/aspose.pdf/document/pdfformat/"

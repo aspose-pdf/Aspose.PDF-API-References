@@ -2,8 +2,8 @@
 title: "OperatorCollection.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text representation of the operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method. Returns text representation of the operator."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/operatorcollection/tostring/"

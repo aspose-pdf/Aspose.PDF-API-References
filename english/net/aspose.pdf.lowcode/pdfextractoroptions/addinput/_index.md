@@ -2,8 +2,8 @@
 title: "PdfExtractorOptions.AddInput"
 linktitle: "AddInput"
 articleTitle: "AddInput"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new data source to the PdfExtractor plugin data collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractorOptions method. Adds new data source to the PdfExtractor plugin data collection."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdfextractoroptions/addinput/"

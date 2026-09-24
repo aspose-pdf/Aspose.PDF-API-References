@@ -2,8 +2,8 @@
 title: "SignOptions.Visible"
 linktitle: "Visible"
 articleTitle: "Visible"
-second_title: "Aspose.PDF for .NET"
-description: "The visiblity of signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignOptions property. The visiblity of signature."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/signoptions/visible/"

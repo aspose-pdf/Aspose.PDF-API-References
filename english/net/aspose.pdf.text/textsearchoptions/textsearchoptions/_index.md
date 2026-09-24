@@ -2,8 +2,8 @@
 title: "TextSearchOptions.TextSearchOptions"
 linktitle: "TextSearchOptions"
 articleTitle: "TextSearchOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextSearchOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSearchOptions constructor. Initializes a new instance of the TextSearchOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textsearchoptions/textsearchoptions/"

@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.LogStream"
 linktitle: "LogStream"
 articleTitle: "LogStream"
-second_title: "Aspose.PDF for .NET"
-description: "Stream where comments will be stored."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Stream where comments will be stored."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/pdfformatconversionoptions/logstream/"

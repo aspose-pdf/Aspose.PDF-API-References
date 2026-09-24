@@ -2,8 +2,8 @@
 title: "FontRepository Class"
 linktitle: "FontRepository"
 articleTitle: "FontRepository"
-second_title: "Aspose.PDF for .NET"
-description: "Performs font search. Searches in system installed fonts and standard Pdf fonts. Also provides functionality to open custom fonts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.FontRepository class. Performs font search. Searches in system installed fonts and standard Pdf fonts. Also provides functionality to open cu..."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.text/fontrepository/"

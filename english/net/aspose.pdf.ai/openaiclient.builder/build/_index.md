@@ -2,8 +2,8 @@
 title: "OpenAIClient.Builder.Build"
 linktitle: "Build"
 articleTitle: "Build"
-second_title: "Aspose.PDF for .NET"
-description: "Builds and returns an instance of with the configured options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Builder method. Builds and returns an instance of with the configured options."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaiclient.builder/build/"

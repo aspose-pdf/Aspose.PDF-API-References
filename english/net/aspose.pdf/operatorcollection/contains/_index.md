@@ -2,8 +2,8 @@
 title: "OperatorCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if the collection contains given operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method. Returns true if the collection contains given operator."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/operatorcollection/contains/"

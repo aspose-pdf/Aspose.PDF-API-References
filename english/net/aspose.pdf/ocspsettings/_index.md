@@ -2,8 +2,8 @@
 title: "OcspSettings Class"
 linktitle: "OcspSettings"
 articleTitle: "OcspSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the ocsp settings using during signing process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.OcspSettings class. Represents the ocsp settings using during signing process."
 type: docs
 weight: 1990
 url: "/net/aspose.pdf/ocspsettings/"

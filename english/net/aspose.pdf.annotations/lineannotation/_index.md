@@ -2,8 +2,8 @@
 title: "LineAnnotation Class"
 linktitle: "LineAnnotation"
 articleTitle: "LineAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing line annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.LineAnnotation class. Class representing line annotation."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.annotations/lineannotation/"

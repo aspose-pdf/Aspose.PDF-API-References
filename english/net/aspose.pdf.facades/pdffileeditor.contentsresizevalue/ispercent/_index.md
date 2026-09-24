@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeValue.IsPercent"
 linktitle: "IsPercent"
 articleTitle: "IsPercent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets true if value is expressed in percents; False if value is expressed in default units."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeValue property. Gets true if value is expressed in percents; False if value is expressed in default units."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent/"

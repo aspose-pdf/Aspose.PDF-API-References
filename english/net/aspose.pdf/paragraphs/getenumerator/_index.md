@@ -2,8 +2,8 @@
 title: "Paragraphs.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the enumerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs method. Gets the enumerator."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/paragraphs/getenumerator/"

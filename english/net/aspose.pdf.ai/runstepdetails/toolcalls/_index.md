@@ -2,8 +2,8 @@
 title: "RunStepDetails.ToolCalls"
 linktitle: "ToolCalls"
 articleTitle: "ToolCalls"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the details of the tool calls."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepDetails property. Gets or sets the details of the tool calls."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/runstepdetails/toolcalls/"

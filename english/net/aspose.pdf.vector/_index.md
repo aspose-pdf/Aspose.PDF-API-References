@@ -2,7 +2,7 @@
 title: "Aspose.Pdf.Vector"
 linktitle: "Aspose.Pdf.Vector"
 articleTitle: "Aspose.Pdf.Vector"
-second_title: "Aspose.PDF for .NET"
+second_title: "Aspose.PDF for .NET API Reference"
 description: "The **Aspose.Pdf.Vector** namespace provides classes."
 type: docs
 weight: 10

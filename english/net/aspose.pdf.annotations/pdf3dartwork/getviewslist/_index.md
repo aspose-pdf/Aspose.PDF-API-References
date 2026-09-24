@@ -2,8 +2,8 @@
 title: "PDF3DArtwork.GetViewsList"
 linktitle: "GetViewsList"
 articleTitle: "GetViewsList"
-second_title: "Aspose.PDF for .NET"
-description: "Get the views as list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DArtwork method. Get the views as list."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dartwork/getviewslist/"

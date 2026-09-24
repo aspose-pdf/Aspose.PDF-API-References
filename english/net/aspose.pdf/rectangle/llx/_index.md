@@ -2,8 +2,8 @@
 title: "Rectangle.LLX"
 linktitle: "LLX"
 articleTitle: "LLX"
-second_title: "Aspose.PDF for .NET"
-description: "X-coordinate of lower - left corner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. X-coordinate of lower - left corner."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/rectangle/llx/"

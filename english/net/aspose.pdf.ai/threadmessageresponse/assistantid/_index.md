@@ -2,8 +2,8 @@
 title: "ThreadMessageResponse.AssistantId"
 linktitle: "AssistantId"
 articleTitle: "AssistantId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets, if applicable, the ID of the assistant that authored this message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageResponse property. Gets or sets, if applicable, the ID of the assistant that authored this message."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.ai/threadmessageresponse/assistantid/"

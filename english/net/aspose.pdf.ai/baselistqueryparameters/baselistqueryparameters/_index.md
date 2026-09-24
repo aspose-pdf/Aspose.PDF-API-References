@@ -2,8 +2,8 @@
 title: "BaseListQueryParameters.BaseListQueryParameters"
 linktitle: "BaseListQueryParameters"
 articleTitle: "BaseListQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BaseListQueryParameters class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseListQueryParameters constructor. Initializes a new instance of the BaseListQueryParameters class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/baselistqueryparameters/baselistqueryparameters/"

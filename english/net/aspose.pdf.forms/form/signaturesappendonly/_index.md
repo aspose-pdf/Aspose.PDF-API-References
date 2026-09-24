@@ -2,8 +2,8 @@
 title: "Form.SignaturesAppendOnly"
 linktitle: "SignaturesAppendOnly"
 articleTitle: "SignaturesAppendOnly"
-second_title: "Aspose.PDF for .NET"
-description: "If set, the document contains signatures that may be invalidated if the file is saved (written) in a way that alters its previous contents, as opposed to an ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. If set, the document contains signatures that may be invalidated if the file is saved (written) in a way that alters its previous contents, as..."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.forms/form/signaturesappendonly/"

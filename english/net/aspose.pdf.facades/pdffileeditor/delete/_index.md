@@ -2,8 +2,8 @@
 title: "PdfFileEditor.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes pages specified by number array from input file, saves as a new Pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Deletes pages specified by number array from input file, saves as a new Pdf file."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.facades/pdffileeditor/delete/"

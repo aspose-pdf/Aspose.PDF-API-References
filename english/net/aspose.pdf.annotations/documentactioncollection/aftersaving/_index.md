@@ -2,8 +2,8 @@
 title: "DocumentActionCollection.AfterSaving"
 linktitle: "AfterSaving"
 articleTitle: "AfterSaving"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets action that will be performed after document saving."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentActionCollection property. Gets or sets action that will be performed after document saving."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/documentactioncollection/aftersaving/"

@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilotOptions.WithTopP"
 linktitle: "WithTopP"
 articleTitle: "WithTopP"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the top P value for the summary copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Sets the top P value for the summary copilot options."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withtopp/"

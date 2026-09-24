@@ -2,8 +2,8 @@
 title: "AttributeName.TextDecorationType_Overline"
 linktitle: "TextDecorationType_Overline"
 articleTitle: "TextDecorationType_Overline"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute TextDecorationType: Overline - A line above the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute TextDecorationType: Overline - A line above the text."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/"

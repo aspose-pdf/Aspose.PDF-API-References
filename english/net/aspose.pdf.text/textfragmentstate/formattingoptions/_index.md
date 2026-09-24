@@ -2,8 +2,8 @@
 title: "TextFragmentState.FormattingOptions"
 linktitle: "FormattingOptions"
 articleTitle: "FormattingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets formatting options. Setting of the options will be effective in generator scenarios only."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets formatting options. Setting of the options will be effective in generator scenarios only."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.text/textfragmentstate/formattingoptions/"

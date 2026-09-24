@@ -2,8 +2,8 @@
 title: "RunResponse.IncompleteDetails"
 linktitle: "IncompleteDetails"
 articleTitle: "IncompleteDetails"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the details on why the run is incomplete. Will be null if the run is not incomplete."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the details on why the run is incomplete. Will be null if the run is not incomplete."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/runresponse/incompletedetails/"

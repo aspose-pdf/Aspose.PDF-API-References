@@ -2,8 +2,8 @@
 title: "Do Class"
 linktitle: "Do"
 articleTitle: "Do"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Do operator (Invoke XObject)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.Do class. Class representing Do operator (Invoke XObject)."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.operators/do/"

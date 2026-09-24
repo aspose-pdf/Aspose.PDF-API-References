@@ -2,8 +2,8 @@
 title: "ClosePathFillStroke.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ClosePathFillStroke method. Returns string representation of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/closepathfillstroke/tostring/"

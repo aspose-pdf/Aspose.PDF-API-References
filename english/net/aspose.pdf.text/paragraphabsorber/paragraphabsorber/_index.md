@@ -2,8 +2,8 @@
 title: "ParagraphAbsorber.ParagraphAbsorber"
 linktitle: "ParagraphAbsorber"
 articleTitle: "ParagraphAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ParagraphAbsorber class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ParagraphAbsorber constructor. Initializes a new instance of the ParagraphAbsorber class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/"

@@ -2,8 +2,8 @@
 title: "SideBySideComparisonOptions.AdditionalChangeMarks"
 linktitle: "AdditionalChangeMarks"
 articleTitle: "AdditionalChangeMarks"
-second_title: "Aspose.PDF for .NET"
-description: "Get and set the property that determines whether additional change markers are displayed. If set, displays change marks that are not on the current page but ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySideComparisonOptions property. Get and set the property that determines whether additional change markers are displayed. If set, displays change marks..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/additionalchangemarks/"

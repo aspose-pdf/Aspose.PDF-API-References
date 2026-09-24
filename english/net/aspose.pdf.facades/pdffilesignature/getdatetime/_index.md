@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetDateTime"
 linktitle: "GetDateTime"
 articleTitle: "GetDateTime"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the signature's datetime."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the signature's datetime."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/pdffilesignature/getdatetime/"

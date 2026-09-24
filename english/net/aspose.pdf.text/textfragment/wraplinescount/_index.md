@@ -2,8 +2,8 @@
 title: "TextFragment.WrapLinesCount"
 linktitle: "WrapLinesCount"
 articleTitle: "WrapLinesCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets wrap lines count for this paragraph(for pdf generation only)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets or sets wrap lines count for this paragraph(for pdf generation only)"
 type: docs
 weight: 200
 url: "/net/aspose.pdf.text/textfragment/wraplinescount/"

@@ -2,8 +2,8 @@
 title: "TableElement.ColumnAdjustment"
 linktitle: "ColumnAdjustment"
 articleTitle: "ColumnAdjustment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the table column adjustment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets the table column adjustment."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/tableelement/columnadjustment/"

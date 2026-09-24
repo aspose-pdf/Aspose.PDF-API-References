@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.TextReplaceOptions"
 linktitle: "TextReplaceOptions"
 articleTitle: "TextReplaceOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextReplaceOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextReplaceOptions constructor. Initializes a new instance of the TextReplaceOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/"

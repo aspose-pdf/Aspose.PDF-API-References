@@ -2,8 +2,8 @@
 title: "LlamaClient.Builder.LlamaClient.Builder"
 linktitle: "LlamaClient.Builder"
 articleTitle: "LlamaClient.Builder"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the LlamaClient.Builder class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Builder constructor. Initializes a new instance of the LlamaClient.Builder class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/llamaclient.builder/builder/"

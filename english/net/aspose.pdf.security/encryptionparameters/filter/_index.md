@@ -2,8 +2,8 @@
 title: "EncryptionParameters.Filter"
 linktitle: "Filter"
 articleTitle: "Filter"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the filter name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionParameters property. Gets the filter name."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/encryptionparameters/filter/"

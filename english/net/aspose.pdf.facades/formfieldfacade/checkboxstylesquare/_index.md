@@ -2,8 +2,8 @@
 title: "FormFieldFacade.CheckBoxStyleSquare"
 linktitle: "CheckBoxStyleSquare"
 articleTitle: "CheckBoxStyleSquare"
-second_title: "Aspose.PDF for .NET"
-description: "Defines a square check box style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines a square check box style."
 type: docs
 weight: 460
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylesquare/"

@@ -2,8 +2,8 @@
 title: "PdfFileSignature.ExtractCertificate"
 linktitle: "ExtractCertificate"
 articleTitle: "ExtractCertificate"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts signature's single X.509 certificate as a stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Extracts signature's single X.509 certificate as a stream."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.facades/pdffilesignature/extractcertificate/"

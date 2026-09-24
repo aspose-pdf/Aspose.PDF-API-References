@@ -2,8 +2,8 @@
 title: "PDF3DCrossSectionArray Class"
 linktitle: "PDF3DCrossSectionArray"
 articleTitle: "PDF3DCrossSectionArray"
-second_title: "Aspose.PDF for .NET"
-description: "Class PDF3DCrossSectionArray."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSectionArray class. Class PDF3DCrossSectionArray."
 type: docs
 weight: 810
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/"

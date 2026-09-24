@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.Assembly"
 linktitle: "Assembly"
 articleTitle: "Assembly"
-second_title: "Aspose.PDF for .NET"
-description: "Allows assemblying file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Allows assemblying file."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/documentprivilege/assembly/"

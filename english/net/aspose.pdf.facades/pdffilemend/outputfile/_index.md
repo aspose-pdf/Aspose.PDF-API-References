@@ -2,8 +2,8 @@
 title: "PdfFileMend.OutputFile"
 linktitle: "OutputFile"
 articleTitle: "OutputFile"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the output file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend property. Sets the output file."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdffilemend/outputfile/"

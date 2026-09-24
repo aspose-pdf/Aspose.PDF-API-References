@@ -2,8 +2,8 @@
 title: "RenditionType Enum"
 linktitle: "RenditionType"
 articleTitle: "RenditionType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration describes possible types of Rendition."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RenditionType enum. Enumeration describes possible types of Rendition."
 type: docs
 weight: 1080
 url: "/net/aspose.pdf.annotations/renditiontype/"

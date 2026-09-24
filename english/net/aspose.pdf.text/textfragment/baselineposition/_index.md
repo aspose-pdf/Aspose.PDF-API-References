@@ -2,8 +2,8 @@
 title: "TextFragment.BaselinePosition"
 linktitle: "BaselinePosition"
 articleTitle: "BaselinePosition"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text position for text, represented with object. The YIndent of the Position structure represents baseline coordinate of the text fragment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets text position for text, represented with object. The YIndent of the Position structure represents baseline coordinate of the text..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.text/textfragment/baselineposition/"

@@ -2,8 +2,8 @@
 title: "BlockTextOperator Class"
 linktitle: "BlockTextOperator"
 articleTitle: "BlockTextOperator"
-second_title: "Aspose.PDF for .NET"
-description: "Abstract base class for text block operators i.e. Begin and End text operators (BT/ET)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.BlockTextOperator class. Abstract base class for text block operators i.e. Begin and End text operators (BT/ET)"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/blocktextoperator/"

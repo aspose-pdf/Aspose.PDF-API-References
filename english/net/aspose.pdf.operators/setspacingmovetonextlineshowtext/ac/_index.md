@@ -2,8 +2,8 @@
 title: "SetSpacingMoveToNextLineShowText.Ac"
 linktitle: "Ac"
 articleTitle: "Ac"
-second_title: "Aspose.PDF for .NET"
-description: "Get character spacing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetSpacingMoveToNextLineShowText property. Get character spacing."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/"

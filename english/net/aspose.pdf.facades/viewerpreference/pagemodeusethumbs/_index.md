@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageModeUseThumbs"
 linktitle: "PageModeUseThumbs"
 articleTitle: "PageModeUseThumbs"
-second_title: "Aspose.PDF for .NET"
-description: "Thumbnail images visible."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Thumbnail images visible."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/"

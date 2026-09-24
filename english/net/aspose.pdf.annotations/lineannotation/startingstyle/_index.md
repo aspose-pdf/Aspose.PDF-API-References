@@ -2,8 +2,8 @@
 title: "LineAnnotation.StartingStyle"
 linktitle: "StartingStyle"
 articleTitle: "StartingStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets line ending style for line starting point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets line ending style for line starting point."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/lineannotation/startingstyle/"

@@ -2,8 +2,8 @@
 title: "BoundsCheckableList<T>.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList method."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/boundscheckablelist-1/remove/"

@@ -2,8 +2,8 @@
 title: "ArtifactCollection.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets if collection is readonly. Always returns false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection property. Gets if collection is readonly. Always returns false."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/artifactcollection/isreadonly/"

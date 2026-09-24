@@ -2,8 +2,8 @@
 title: "PageActionCollection.OnClose"
 linktitle: "OnClose"
 articleTitle: "OnClose"
-second_title: "Aspose.PDF for .NET"
-description: "An action that shall be performed when the page is closed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageActionCollection property. An action that shall be performed when the page is closed."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pageactioncollection/onclose/"

@@ -2,8 +2,8 @@
 title: "FormEditor.ResetInnerFacade"
 linktitle: "ResetInnerFacade"
 articleTitle: "ResetInnerFacade"
-second_title: "Aspose.PDF for .NET"
-description: "Reset all visual attribtues of inner facade to empty value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Reset all visual attribtues of inner facade to empty value."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/formeditor/resetinnerfacade/"

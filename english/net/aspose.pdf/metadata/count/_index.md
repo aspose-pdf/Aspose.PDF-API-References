@@ -2,8 +2,8 @@
 title: "Metadata.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets count of elements in the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Gets count of elements in the collection."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/metadata/count/"

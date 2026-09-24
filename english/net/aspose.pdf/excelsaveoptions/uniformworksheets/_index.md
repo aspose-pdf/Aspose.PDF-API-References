@@ -2,8 +2,8 @@
 title: "ExcelSaveOptions.UniformWorksheets"
 linktitle: "UniformWorksheets"
 articleTitle: "UniformWorksheets"
-second_title: "Aspose.PDF for .NET"
-description: "Set true for using uniform columns division through the document. Default value is false; it means that columns division will independent for each page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExcelSaveOptions property. Set true for using uniform columns division through the document. Default value is false; it means that columns division will inde..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/excelsaveoptions/uniformworksheets/"

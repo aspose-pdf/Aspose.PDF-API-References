@@ -2,8 +2,8 @@
 title: "TextBoxField.Scrollable"
 linktitle: "Scrollable"
 articleTitle: "Scrollable"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets scrollable flag of field. If true field can be scrolled."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBoxField property. Gets or sets scrollable flag of field. If true field can be scrolled."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/textboxfield/scrollable/"

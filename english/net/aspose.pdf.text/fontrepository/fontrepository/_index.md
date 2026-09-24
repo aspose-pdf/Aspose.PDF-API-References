@@ -2,8 +2,8 @@
 title: "FontRepository.FontRepository"
 linktitle: "FontRepository"
 articleTitle: "FontRepository"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FontRepository class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontRepository constructor. Initializes a new instance of the FontRepository class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/fontrepository/fontrepository/"

@@ -2,8 +2,8 @@
 title: "OptimizeOptions.OptimizeOptions"
 linktitle: "OptimizeOptions"
 articleTitle: "OptimizeOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OptimizeOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizeOptions constructor. Initializes a new instance of the OptimizeOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/optimizeoptions/optimizeoptions/"

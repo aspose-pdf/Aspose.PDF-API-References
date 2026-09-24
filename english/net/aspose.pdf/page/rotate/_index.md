@@ -2,8 +2,8 @@
 title: "Page.Rotate"
 linktitle: "Rotate"
 articleTitle: "Rotate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rotation of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets rotation of the page."
 type: docs
 weight: 520
 url: "/net/aspose.pdf/page/rotate/"

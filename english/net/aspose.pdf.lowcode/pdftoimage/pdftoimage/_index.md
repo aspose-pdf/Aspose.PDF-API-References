@@ -2,8 +2,8 @@
 title: "PdfToImage.PdfToImage"
 linktitle: "PdfToImage"
 articleTitle: "PdfToImage"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfToImage class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImage constructor. Initializes a new instance of the PdfToImage class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdftoimage/pdftoimage/"

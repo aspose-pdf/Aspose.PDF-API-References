@@ -2,8 +2,8 @@
 title: "Page.IntToRotation"
 linktitle: "IntToRotation"
 articleTitle: "IntToRotation"
-second_title: "Aspose.PDF for .NET"
-description: "Translates integer value into corresponding rotation enumeration member."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Translates integer value into corresponding rotation enumeration member."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/page/inttorotation/"

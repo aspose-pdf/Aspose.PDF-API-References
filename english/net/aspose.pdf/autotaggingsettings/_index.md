@@ -2,8 +2,8 @@
 title: "AutoTaggingSettings Class"
 linktitle: "AutoTaggingSettings"
 articleTitle: "AutoTaggingSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Provides settings for the auto-tagging functionality in PDF documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AutoTaggingSettings class. Provides settings for the auto-tagging functionality in PDF documents."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/autotaggingsettings/"

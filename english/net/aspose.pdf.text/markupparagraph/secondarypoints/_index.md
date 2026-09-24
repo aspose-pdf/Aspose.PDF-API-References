@@ -2,8 +2,8 @@
 title: "MarkupParagraph.SecondaryPoints"
 linktitle: "SecondaryPoints"
 articleTitle: "SecondaryPoints"
-second_title: "Aspose.PDF for .NET"
-description: "Points of secondary polygon describes paragraph continuation. It will not be null if the paragraph is continued in the next column or page. Starting point is..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupParagraph property. Points of secondary polygon describes paragraph continuation. It will not be null if the paragraph is continued in the next column ..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/markupparagraph/secondarypoints/"

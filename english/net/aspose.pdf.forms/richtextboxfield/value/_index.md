@@ -2,8 +2,8 @@
 title: "RichTextBoxField.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Value of RichTextField."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichTextBoxField property. Value of RichTextField."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/richtextboxfield/value/"

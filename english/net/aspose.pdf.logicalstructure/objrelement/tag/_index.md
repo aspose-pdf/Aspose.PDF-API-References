@@ -2,8 +2,8 @@
 title: "OBJRElement.Tag"
 linktitle: "Tag"
 articleTitle: "Tag"
-second_title: "Aspose.PDF for .NET"
-description: "Bind a structure element to the content stream BDC operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OBJRElement method. Bind a structure element to the content stream BDC operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/objrelement/tag/"

@@ -2,8 +2,8 @@
 title: "PdfFileMend.Close"
 linktitle: "Close"
 articleTitle: "Close"
-second_title: "Aspose.PDF for .NET"
-description: "Closes PdfFileMend object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend method. Closes PdfFileMend object."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdffilemend/close/"

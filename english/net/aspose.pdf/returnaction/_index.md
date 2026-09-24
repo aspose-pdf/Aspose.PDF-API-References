@@ -2,8 +2,8 @@
 title: "ReturnAction Enum"
 linktitle: "ReturnAction"
 articleTitle: "ReturnAction"
-second_title: "Aspose.PDF for .NET"
-description: "Enum represented a program workflow action in case of invoking the method."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ReturnAction enum. Enum represented a program workflow action in case of invoking the method."
 type: docs
 weight: 2680
 url: "/net/aspose.pdf/returnaction/"

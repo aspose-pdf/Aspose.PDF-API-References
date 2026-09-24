@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.CalculateEncryptionKey"
 linktitle: "CalculateEncryptionKey"
 articleTitle: "CalculateEncryptionKey"
-second_title: "Aspose.PDF for .NET"
-description: "Calculate the EncryptionKey. Generally the key is calculated based on the UserKey. You can use values from EncryptionParams, which contains the current param..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Calculate the EncryptionKey. Generally the key is calculated based on the UserKey. You can use values from EncryptionParams, w..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.security/icustomsecurityhandler/calculateencryptionkey/"

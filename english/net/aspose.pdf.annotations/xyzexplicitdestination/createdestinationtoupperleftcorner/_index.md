@@ -2,8 +2,8 @@
 title: "XYZExplicitDestination.CreateDestinationToUpperLeftCorner"
 linktitle: "CreateDestinationToUpperLeftCorner"
 articleTitle: "CreateDestinationToUpperLeftCorner"
-second_title: "Aspose.PDF for .NET"
-description: "Create destionation to upper left corner of the specifed page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination method. Create destionation to upper left corner of the specifed page."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/"

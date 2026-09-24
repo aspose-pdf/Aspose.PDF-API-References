@@ -2,8 +2,8 @@
 title: "PaperSizes.DSheet"
 linktitle: "DSheet"
 articleTitle: "DSheet"
-second_title: "Aspose.PDF for .NET"
-description: "D paper (22 in. by 34 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. D paper (22 in. by 34 in.)."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.printing/papersizes/dsheet/"

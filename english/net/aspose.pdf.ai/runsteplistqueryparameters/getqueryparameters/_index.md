@@ -2,8 +2,8 @@
 title: "RunStepListQueryParameters.GetQueryParameters"
 linktitle: "GetQueryParameters"
 articleTitle: "GetQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the query parameters for listing run steps."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepListQueryParameters method. Gets the query parameters for listing run steps."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/runsteplistqueryparameters/getqueryparameters/"

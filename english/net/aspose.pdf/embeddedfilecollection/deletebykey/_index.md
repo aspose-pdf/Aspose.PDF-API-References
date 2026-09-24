@@ -2,8 +2,8 @@
 title: "EmbeddedFileCollection.DeleteByKey"
 linktitle: "DeleteByKey"
 articleTitle: "DeleteByKey"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes file from the collection by its key in the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmbeddedFileCollection method. Deletes file from the collection by its key in the collection."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/embeddedfilecollection/deletebykey/"

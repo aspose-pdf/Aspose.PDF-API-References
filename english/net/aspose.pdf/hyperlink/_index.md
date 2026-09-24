@@ -2,8 +2,8 @@
 title: "Hyperlink Class"
 linktitle: "Hyperlink"
 articleTitle: "Hyperlink"
-second_title: "Aspose.PDF for .NET"
-description: "Represents abstract hyperlink."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Hyperlink class. Represents abstract hyperlink."
 type: docs
 weight: 1370
 url: "/net/aspose.pdf/hyperlink/"

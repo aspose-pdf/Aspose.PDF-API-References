@@ -2,8 +2,8 @@
 title: "ListDataResponse<T>.FirstId"
 linktitle: "FirstId"
 articleTitle: "FirstId"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ListDataResponse property."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/listdataresponse-1/firstid/"

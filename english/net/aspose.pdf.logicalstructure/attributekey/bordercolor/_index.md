@@ -2,8 +2,8 @@
 title: "AttributeKey.BorderColor"
 linktitle: "BorderColor"
 articleTitle: "BorderColor"
-second_title: "Aspose.PDF for .NET"
-description: "BorderColor attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. BorderColor attribute (Layout attribute owner)."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/attributekey/bordercolor/"

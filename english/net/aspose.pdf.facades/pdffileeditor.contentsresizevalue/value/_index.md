@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeValue.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets specified value. Use Unit property to get value units."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeValue property. Gets specified value. Use Unit property to get value units."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/value/"

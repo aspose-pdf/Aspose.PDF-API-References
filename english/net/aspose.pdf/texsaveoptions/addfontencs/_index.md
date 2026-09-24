@@ -2,8 +2,8 @@
 title: "TeXSaveOptions.AddFontEncs"
 linktitle: "AddFontEncs"
 articleTitle: "AddFontEncs"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a font ancoding to the font encoding list"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXSaveOptions method. Adds a font ancoding to the font encoding list"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/texsaveoptions/addfontencs/"

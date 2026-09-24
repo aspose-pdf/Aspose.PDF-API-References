@@ -2,8 +2,8 @@
 title: "HtmlDocumentType Enum"
 linktitle: "HtmlDocumentType"
 articleTitle: "HtmlDocumentType"
-second_title: "Aspose.PDF for .NET"
-description: "Represents enumeration of the Html document types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlDocumentType enum. Represents enumeration of the Html document types."
 type: docs
 weight: 1140
 url: "/net/aspose.pdf/htmldocumenttype/"

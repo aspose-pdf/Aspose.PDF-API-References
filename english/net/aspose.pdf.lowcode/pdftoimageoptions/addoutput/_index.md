@@ -2,8 +2,8 @@
 title: "PdfToImageOptions.AddOutput"
 linktitle: "AddOutput"
 articleTitle: "AddOutput"
-second_title: "Aspose.PDF for .NET"
-description: "Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImageOptions method. Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/addoutput/"

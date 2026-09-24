@@ -2,8 +2,8 @@
 title: "RunCreateRequest.ResponseFormat"
 linktitle: "ResponseFormat"
 articleTitle: "ResponseFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the response format. Specifies the format that the model must output. Compatible with GPT-4o, GPT-4 Turbo, and all GPT-3.5 Turbo models since gp..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunCreateRequest property. Gets or sets the response format. Specifies the format that the model must output. Compatible with GPT-4o, GPT-4 Turbo, and all GP..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/runcreaterequest/responseformat/"

@@ -2,8 +2,8 @@
 title: "TocGenerator.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Implementation of IDisposable. In fact, it is not necessary for TocGenerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocGenerator method. Implementation of IDisposable. In fact, it is not necessary for TocGenerator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/tocgenerator/dispose/"

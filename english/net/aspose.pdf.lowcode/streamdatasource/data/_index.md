@@ -2,8 +2,8 @@
 title: "StreamDataSource.Data"
 linktitle: "Data"
 articleTitle: "Data"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the stream object of the current data source."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StreamDataSource property. Gets the stream object of the current data source."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/streamdatasource/data/"

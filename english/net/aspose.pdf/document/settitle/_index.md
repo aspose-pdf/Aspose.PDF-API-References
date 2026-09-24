@@ -2,8 +2,8 @@
 title: "Document.SetTitle"
 linktitle: "SetTitle"
 articleTitle: "SetTitle"
-second_title: "Aspose.PDF for .NET"
-description: "Set Title for Pdf Document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Set Title for Pdf Document"
 type: docs
 weight: 230
 url: "/net/aspose.pdf/document/settitle/"

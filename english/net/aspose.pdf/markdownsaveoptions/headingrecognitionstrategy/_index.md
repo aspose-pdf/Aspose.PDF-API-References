@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions.HeadingRecognitionStrategy"
 linktitle: "HeadingRecognitionStrategy"
 articleTitle: "HeadingRecognitionStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the heading recognition strategy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkdownSaveOptions property. Gets or sets the heading recognition strategy."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/"

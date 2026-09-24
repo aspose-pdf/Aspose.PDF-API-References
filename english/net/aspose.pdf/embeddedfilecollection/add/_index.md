@@ -2,8 +2,8 @@
 title: "EmbeddedFileCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds embedded file specification into collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmbeddedFileCollection method. Adds embedded file specification into collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/embeddedfilecollection/add/"

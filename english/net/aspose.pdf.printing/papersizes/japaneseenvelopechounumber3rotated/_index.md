@@ -2,8 +2,8 @@
 title: "PaperSizes.JapaneseEnvelopeChouNumber3Rotated"
 linktitle: "JapaneseEnvelopeChouNumber3Rotated"
 articleTitle: "JapaneseEnvelopeChouNumber3Rotated"
-second_title: "Aspose.PDF for .NET"
-description: "Japanese rotated Chou #3 envelope."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Japanese rotated Chou #3 envelope."
 type: docs
 weight: 840
 url: "/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber3rotated/"

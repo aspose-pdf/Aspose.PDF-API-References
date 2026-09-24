@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.FractionDisplayment"
 linktitle: "FractionDisplayment"
 articleTitle: "FractionDisplayment"
-second_title: "Aspose.PDF for .NET"
-description: "In what manner fractional values are displayed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. In what manner fractional values are displayed."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/measure.numberformat/fractiondisplayment/"

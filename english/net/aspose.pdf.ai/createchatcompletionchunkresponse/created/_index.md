@@ -2,8 +2,8 @@
 title: "CreateChatCompletionChunkResponse.Created"
 linktitle: "Created"
 articleTitle: "Created"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Unix timestamp (in seconds) of when the chat completion was created. Each chunk has the same timestamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateChatCompletionChunkResponse property. Gets or sets the Unix timestamp (in seconds) of when the chat completion was created. Each chunk has the same tim..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/created/"

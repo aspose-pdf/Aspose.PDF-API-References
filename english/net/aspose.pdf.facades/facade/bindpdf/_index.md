@@ -2,8 +2,8 @@
 title: "Facade.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes the facade."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Facade method. Initializes the facade."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/facade/bindpdf/"

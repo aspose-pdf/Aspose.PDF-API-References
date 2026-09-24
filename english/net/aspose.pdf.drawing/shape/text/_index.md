@@ -2,8 +2,8 @@
 title: "Shape.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a text for shape"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Shape property. Gets or sets a text for shape"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/shape/text/"

@@ -2,8 +2,8 @@
 title: "DocSaveOptions.ImageResolutionX"
 linktitle: "ImageResolutionX"
 articleTitle: "ImageResolutionX"
-second_title: "Aspose.PDF for .NET"
-description: "Converted images X resolution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocSaveOptions property. Converted images X resolution."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/docsaveoptions/imageresolutionx/"

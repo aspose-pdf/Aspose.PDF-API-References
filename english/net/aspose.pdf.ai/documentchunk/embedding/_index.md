@@ -2,8 +2,8 @@
 title: "DocumentChunk.Embedding"
 linktitle: "Embedding"
 articleTitle: "Embedding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the embedding vector for this chunk."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk property. Gets or sets the embedding vector for this chunk."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/documentchunk/embedding/"

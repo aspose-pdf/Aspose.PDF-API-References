@@ -2,8 +2,8 @@
 title: "TocInfo.PageNumbersPrefix"
 linktitle: "PageNumbersPrefix"
 articleTitle: "PageNumbersPrefix"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets is prefix before page number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocInfo property. Gets or sets is prefix before page number."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/tocinfo/pagenumbersprefix/"

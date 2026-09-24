@@ -2,8 +2,8 @@
 title: "SaveOptions.BorderInfo.RightStyleIfAny"
 linktitle: "RightStyleIfAny"
 articleTitle: "RightStyleIfAny"
-second_title: "Aspose.PDF for .NET"
-description: "Represents right part(if any) of border"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderInfo field. Represents right part(if any) of border"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/"

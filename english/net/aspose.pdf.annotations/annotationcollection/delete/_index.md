@@ -2,8 +2,8 @@
 title: "AnnotationCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes annotation from the collection by index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Deletes annotation from the collection by index."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/annotationcollection/delete/"

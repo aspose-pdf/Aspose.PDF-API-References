@@ -2,8 +2,8 @@
 title: "ExportFieldsOptions.ExportPasswordValue"
 linktitle: "ExportPasswordValue"
 articleTitle: "ExportPasswordValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether the password value should be exported."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExportFieldsOptions property. Gets or sets a value indicating whether the password value should be exported."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/exportfieldsoptions/exportpasswordvalue/"

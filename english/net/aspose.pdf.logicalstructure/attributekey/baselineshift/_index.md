@@ -2,8 +2,8 @@
 title: "AttributeKey.BaselineShift"
 linktitle: "BaselineShift"
 articleTitle: "BaselineShift"
-second_title: "Aspose.PDF for .NET"
-description: "BaselineShift attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. BaselineShift attribute (Layout attribute owner)."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.logicalstructure/attributekey/baselineshift/"

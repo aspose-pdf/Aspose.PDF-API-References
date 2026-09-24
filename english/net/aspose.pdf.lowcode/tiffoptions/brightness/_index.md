@@ -2,8 +2,8 @@
 title: "TiffOptions.Brightness"
 linktitle: "Brightness"
 articleTitle: "Brightness"
-second_title: "Aspose.PDF for .NET"
-description: "Get or sets a value boundary of the transformation of colors in white and black. This parameter can be applied with EncoderValue.CompressionCCITT4, EncoderVa..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffOptions property. Get or sets a value boundary of the transformation of colors in white and black. This parameter can be applied with EncoderValue.Compre..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/tiffoptions/brightness/"

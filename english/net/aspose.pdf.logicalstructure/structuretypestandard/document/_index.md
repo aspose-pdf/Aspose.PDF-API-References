@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Document"
 linktitle: "Document"
 articleTitle: "Document"
-second_title: "Aspose.PDF for .NET"
-description: "(Document) A complete document. This is the root element of any structure tree containing multiple parts or multiple articles."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Document) A complete document. This is the root element of any structure tree containing multiple parts or multiple articles."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/document/"

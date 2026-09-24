@@ -2,8 +2,8 @@
 title: "CharInfo Class"
 linktitle: "CharInfo"
 articleTitle: "CharInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a character info object. Provides character positioning information."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.CharInfo class. Represents a character info object. Provides character positioning information."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/charinfo/"

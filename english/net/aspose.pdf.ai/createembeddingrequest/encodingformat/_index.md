@@ -2,8 +2,8 @@
 title: "CreateEmbeddingRequest.EncodingFormat"
 linktitle: "EncodingFormat"
 articleTitle: "EncodingFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the format to return the embeddings in. Can be either float or base64."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateEmbeddingRequest property. Gets or sets the format to return the embeddings in. Can be either float or base64."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/createembeddingrequest/encodingformat/"

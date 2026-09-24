@@ -2,8 +2,8 @@
 title: "TableGenerator.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Starts the PdfGenerator processing with the specified parameters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableGenerator method. Starts the PdfGenerator processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/tablegenerator/process/"

@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.ResponseFormat"
 linktitle: "ResponseFormat"
 articleTitle: "ResponseFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an object specifying the format that the model must output. Compatible with GPT-4 Turbo and all GPT-3.5 Turbo models newer than gpt-3.5-turbo-11..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets an object specifying the format that the model must output. Compatible with GPT-4 Turbo and all GPT-3.5 Turbo ..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/completioncreaterequest/responseformat/"

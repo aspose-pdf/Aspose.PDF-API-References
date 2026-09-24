@@ -2,8 +2,8 @@
 title: "RunStepResponse.Usage"
 linktitle: "Usage"
 articleTitle: "Usage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets usage statistics related to the run step. This value will be null while the run step's status is in_progress."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepResponse property. Gets or sets usage statistics related to the run step. This value will be null while the run step's status is in_progress."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/runstepresponse/usage/"

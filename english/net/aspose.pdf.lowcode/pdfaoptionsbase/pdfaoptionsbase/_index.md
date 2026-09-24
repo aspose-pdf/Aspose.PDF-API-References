@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase.PdfAOptionsBase"
 linktitle: "PdfAOptionsBase"
 articleTitle: "PdfAOptionsBase"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfAOptionsBase class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase constructor. Initializes a new instance of the PdfAOptionsBase class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/pdfaoptionsbase/"

@@ -2,8 +2,8 @@
 title: "PDF3DView.PDF3DView"
 linktitle: "PDF3DView"
 articleTitle: "PDF3DView"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PDF3DView class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DView constructor. Initializes a new instance of the PDF3DView class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dview/pdf3dview/"

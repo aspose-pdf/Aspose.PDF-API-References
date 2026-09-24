@@ -2,8 +2,8 @@
 title: "XmpField.ToStructure"
 linktitle: "ToStructure"
 articleTitle: "ToStructure"
-second_title: "Aspose.PDF for .NET"
-description: "Gets value as a structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField method. Gets value as a structure."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xmpfield/tostructure/"

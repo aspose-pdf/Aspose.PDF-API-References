@@ -2,8 +2,8 @@
 title: "SetLineCap.Cap"
 linktitle: "Cap"
 articleTitle: "Cap"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets line caps style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetLineCap property. Gets or sets line caps style."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setlinecap/cap/"

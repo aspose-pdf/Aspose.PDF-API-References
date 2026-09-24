@@ -2,8 +2,8 @@
 title: "XImage.ImageMask"
 linktitle: "ImageMask"
 articleTitle: "ImageMask"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a flag indicating whether the image shall be treated as an image mask (see 8.9.6, \"Masked Images\"). If this flag is true, the value of BitsPerComponent ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage property. Gets a flag indicating whether the image shall be treated as an image mask (see 8.9.6, \"Masked Images\"). If this flag is true, the value of ..."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/ximage/imagemask/"

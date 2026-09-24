@@ -2,8 +2,8 @@
 title: "PdfFileSecurity.OutputFile"
 linktitle: "OutputFile"
 articleTitle: "OutputFile"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the output file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity property. Sets the output file."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdffilesecurity/outputfile/"

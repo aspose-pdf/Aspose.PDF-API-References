@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.ReadByte"
 linktitle: "ReadByte"
 articleTitle: "ReadByte"
-second_title: "Aspose.PDF for .NET"
-description: "Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/optimizedmemorystream/readbyte/"

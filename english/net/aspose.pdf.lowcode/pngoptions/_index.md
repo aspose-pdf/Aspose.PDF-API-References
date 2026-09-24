@@ -2,8 +2,8 @@
 title: "PngOptions Class"
 linktitle: "PngOptions"
 articleTitle: "PngOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Pdf to Png converter options for the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PngOptions class. Represents Pdf to Png converter options for the plugin."
 type: docs
 weight: 770
 url: "/net/aspose.pdf.lowcode/pngoptions/"

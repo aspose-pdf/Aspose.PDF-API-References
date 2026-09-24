@@ -2,8 +2,8 @@
 title: "BaseListQueryParameters.Before"
 linktitle: "Before"
 articleTitle: "Before"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a cursor for use in pagination. before is an object ID that defines your place in the list. For instance, if you make a list request and receive..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseListQueryParameters property. Gets or sets a cursor for use in pagination. before is an object ID that defines your place in the list. For instance, if y..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/baselistqueryparameters/before/"

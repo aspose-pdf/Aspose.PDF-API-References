@@ -2,8 +2,8 @@
 title: "Metadata Class"
 linktitle: "Metadata"
 articleTitle: "Metadata"
-second_title: "Aspose.PDF for .NET"
-description: "Provides access to XMP metadata stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Metadata class. Provides access to XMP metadata stream."
 type: docs
 weight: 1900
 url: "/net/aspose.pdf/metadata/"

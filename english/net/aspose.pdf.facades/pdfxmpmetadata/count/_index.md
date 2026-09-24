@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets count if items in the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property. Gets count if items in the collection."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/count/"

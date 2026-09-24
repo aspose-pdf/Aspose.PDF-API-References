@@ -2,8 +2,8 @@
 title: "TableTRElement.FixedRowHeight"
 linktitle: "FixedRowHeight"
 articleTitle: "FixedRowHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets fixed row height - row may have fixed height."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableTRElement property. Gets fixed row height - row may have fixed height."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/fixedrowheight/"

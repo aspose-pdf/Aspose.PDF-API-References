@@ -2,8 +2,8 @@
 title: "Form.EmulateRequierdGroups"
 linktitle: "EmulateRequierdGroups"
 articleTitle: "EmulateRequierdGroups"
-second_title: "Aspose.PDF for .NET"
-description: "If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced be..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property wa..."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.forms/form/emulaterequierdgroups/"

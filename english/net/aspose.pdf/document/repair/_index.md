@@ -2,8 +2,8 @@
 title: "Document.Repair"
 linktitle: "Repair"
 articleTitle: "Repair"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method."
 type: docs
 weight: 890
 url: "/net/aspose.pdf/document/repair/"

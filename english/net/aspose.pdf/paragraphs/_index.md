@@ -2,8 +2,8 @@
 title: "Paragraphs Class"
 linktitle: "Paragraphs"
 articleTitle: "Paragraphs"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents paragraph collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Paragraphs class. This class represents paragraph collection."
 type: docs
 weight: 2350
 url: "/net/aspose.pdf/paragraphs/"

@@ -2,8 +2,8 @@
 title: "Attachment.Attachment"
 linktitle: "Attachment"
 articleTitle: "Attachment"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Attachment class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Attachment constructor. Initializes a new instance of the Attachment class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/attachment/attachment/"

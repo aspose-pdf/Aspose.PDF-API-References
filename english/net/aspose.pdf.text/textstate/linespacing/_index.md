@@ -2,8 +2,8 @@
 title: "TextState.LineSpacing"
 linktitle: "LineSpacing"
 articleTitle: "LineSpacing"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets line spacing of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState property. Gets or sets line spacing of the text."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.text/textstate/linespacing/"

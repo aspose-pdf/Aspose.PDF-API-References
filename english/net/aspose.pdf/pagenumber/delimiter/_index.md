@@ -2,8 +2,8 @@
 title: "PageNumber.Delimiter"
 linktitle: "Delimiter"
 articleTitle: "Delimiter"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the delimiter used in the page number format. The formatted string will be updated based on the specified delimiter."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageNumber property. Gets or sets the delimiter used in the page number format. The formatted string will be updated based on the specified delimiter."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/pagenumber/delimiter/"

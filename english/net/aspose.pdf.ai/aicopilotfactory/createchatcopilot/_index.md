@@ -2,8 +2,8 @@
 title: "AICopilotFactory.CreateChatCopilot"
 linktitle: "CreateChatCopilot"
 articleTitle: "CreateChatCopilot"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AICopilotFactory method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/"

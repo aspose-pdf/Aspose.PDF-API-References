@@ -2,8 +2,8 @@
 title: "ResultContainer.ResultCollection"
 linktitle: "ResultCollection"
 articleTitle: "ResultCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of the operation results"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResultContainer property. Gets collection of the operation results"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/resultcontainer/resultcollection/"

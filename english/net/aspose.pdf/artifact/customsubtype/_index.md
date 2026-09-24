@@ -2,8 +2,8 @@
 title: "Artifact.CustomSubtype"
 linktitle: "CustomSubtype"
 articleTitle: "CustomSubtype"
-second_title: "Aspose.PDF for .NET"
-description: "Gets name of artifact subtype. May be used if artifact subtype is not standard subtype."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets name of artifact subtype. May be used if artifact subtype is not standard subtype."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/artifact/customsubtype/"

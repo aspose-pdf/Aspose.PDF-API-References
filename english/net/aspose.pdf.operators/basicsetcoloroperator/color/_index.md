@@ -2,8 +2,8 @@
 title: "BasicSetColorOperator.Color"
 linktitle: "Color"
 articleTitle: "Color"
-second_title: "Aspose.PDF for .NET"
-description: "Gets array of color components."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BasicSetColorOperator property. Gets array of color components."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/color/"

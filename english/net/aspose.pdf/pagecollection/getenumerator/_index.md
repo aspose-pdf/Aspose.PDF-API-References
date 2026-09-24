@@ -2,8 +2,8 @@
 title: "PageCollection.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns enumerator of pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Returns enumerator of pages."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/pagecollection/getenumerator/"

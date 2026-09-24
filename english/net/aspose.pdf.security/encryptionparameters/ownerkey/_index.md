@@ -2,8 +2,8 @@
 title: "EncryptionParameters.OwnerKey"
 linktitle: "OwnerKey"
 articleTitle: "OwnerKey"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the owner key(The \"O\" field of encryption dictionary.)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionParameters property. Gets the owner key(The \"O\" field of encryption dictionary.)"
 type: docs
 weight: 100
 url: "/net/aspose.pdf.security/encryptionparameters/ownerkey/"

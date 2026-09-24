@@ -2,8 +2,8 @@
 title: "Field.ExportValueToJson"
 linktitle: "ExportValueToJson"
 articleTitle: "ExportValueToJson"
-second_title: "Aspose.PDF for .NET"
-description: "Exports the content of the specified field into a JSON stream. Button field value are not exported."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Exports the content of the specified field into a JSON stream. Button field value are not exported."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/field/exportvaluetojson/"

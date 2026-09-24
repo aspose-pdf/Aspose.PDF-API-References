@@ -2,8 +2,8 @@
 title: "PsLoadOptions.ConvertFontsToTTF"
 linktitle: "ConvertFontsToTTF"
 articleTitle: "ConvertFontsToTTF"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies whether to save non-TrueType fonts to TTF. It significantly decreases the volume of the resulting document in PS to PDF conversion and increases th..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PsLoadOptions property. Specifies whether to save non-TrueType fonts to TTF. It significantly decreases the volume of the resulting document in PS to PDF con..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/psloadoptions/convertfontstottf/"

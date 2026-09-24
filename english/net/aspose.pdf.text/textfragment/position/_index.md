@@ -2,8 +2,8 @@
 title: "TextFragment.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text position for text, represented with object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets or sets text position for text, represented with object."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.text/textfragment/position/"

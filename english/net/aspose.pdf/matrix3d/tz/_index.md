@@ -2,8 +2,8 @@
 title: "Matrix3D.Tz"
 linktitle: "Tz"
 articleTitle: "Tz"
-second_title: "Aspose.PDF for .NET"
-description: "Tz member of the transformation matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix3D property. Tz member of the transformation matrix."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/matrix3d/tz/"

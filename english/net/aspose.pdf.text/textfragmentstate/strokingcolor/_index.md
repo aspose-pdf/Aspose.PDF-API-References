@@ -2,8 +2,8 @@
 title: "TextFragmentState.StrokingColor"
 linktitle: "StrokingColor"
 articleTitle: "StrokingColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets color stroking operations of rendering (stroke text, rectangle border)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets color stroking operations of rendering (stroke text, rectangle border)"
 type: docs
 weight: 160
 url: "/net/aspose.pdf.text/textfragmentstate/strokingcolor/"

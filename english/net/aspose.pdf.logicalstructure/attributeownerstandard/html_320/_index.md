@@ -2,8 +2,8 @@
 title: "AttributeOwnerStandard.Html_320"
 linktitle: "Html_320"
 articleTitle: "Html_320"
-second_title: "Aspose.PDF for .NET"
-description: "HTML-3.20 attribute owner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard field. HTML-3.20 attribute owner."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/html_320/"

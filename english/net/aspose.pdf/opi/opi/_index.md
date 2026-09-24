@@ -2,8 +2,8 @@
 title: "Opi.Opi"
 linktitle: "Opi"
 articleTitle: "Opi"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Opi class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Opi constructor. Initializes a new instance of the Opi class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/opi/opi/"

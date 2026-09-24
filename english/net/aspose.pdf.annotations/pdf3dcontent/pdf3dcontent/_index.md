@@ -2,8 +2,8 @@
 title: "PDF3DContent.PDF3DContent"
 linktitle: "PDF3DContent"
 articleTitle: "PDF3DContent"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PDF3DContent class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent constructor. Initializes a new instance of the PDF3DContent class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/"

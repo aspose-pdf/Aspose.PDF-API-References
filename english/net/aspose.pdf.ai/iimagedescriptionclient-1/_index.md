@@ -2,8 +2,8 @@
 title: "IImageDescriptionClient<TOptions> Interface"
 linktitle: "IImageDescriptionClient<TOptions>"
 articleTitle: "IImageDescriptionClient<TOptions>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IImageDescriptionClient interface."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.ai/iimagedescriptionclient-1/"

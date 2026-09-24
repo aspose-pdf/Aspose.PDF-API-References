@@ -2,8 +2,8 @@
 title: "BitmapInfo.PixelFormat Enum"
 linktitle: "BitmapInfo.PixelFormat"
 articleTitle: "BitmapInfo.PixelFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Bitmap pixel format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BitmapInfo.PixelFormat enum. Bitmap pixel format."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/bitmapinfo.pixelformat/"

@@ -2,8 +2,8 @@
 title: "MCRElement.MCID"
 linktitle: "MCID"
 articleTitle: "MCID"
-second_title: "Aspose.PDF for .NET"
-description: "Gets MCID of marked-content reference object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MCRElement property. Gets MCID of marked-content reference object."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/mcrelement/mcid/"

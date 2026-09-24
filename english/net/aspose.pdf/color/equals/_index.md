@@ -2,8 +2,8 @@
 title: "Color.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if two Colors are equal."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Returns true if two Colors are equal."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/color/equals/"

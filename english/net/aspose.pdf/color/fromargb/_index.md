@@ -2,8 +2,8 @@
 title: "Color.FromArgb"
 linktitle: "FromArgb"
 articleTitle: "FromArgb"
-second_title: "Aspose.PDF for .NET"
-description: "Gets valid pdf Color object from RGB color components."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Gets valid pdf Color object from RGB color components."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/color/fromargb/"

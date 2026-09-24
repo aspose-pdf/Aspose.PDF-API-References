@@ -2,8 +2,8 @@
 title: "DocumentActionCollection.BeforePrinting"
 linktitle: "BeforePrinting"
 articleTitle: "BeforePrinting"
-second_title: "Aspose.PDF for .NET"
-description: "Action that will be performed before document printing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentActionCollection property. Action that will be performed before document printing."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/documentactioncollection/beforeprinting/"

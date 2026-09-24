@@ -2,8 +2,8 @@
 title: "ICosPdfPrimitive.ToCosPdfDictionary"
 linktitle: "ToCosPdfDictionary"
 articleTitle: "ToCosPdfDictionary"
-second_title: "Aspose.PDF for .NET"
-description: "Tries cast this instance to ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICosPdfPrimitive method. Tries cast this instance to ."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/"

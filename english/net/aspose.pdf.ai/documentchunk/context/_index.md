@@ -2,8 +2,8 @@
 title: "DocumentChunk.Context"
 linktitle: "Context"
 articleTitle: "Context"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the structural context of this chunk, typically the header path indicating where this chunk appears in the document hierarchy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk property. Gets the structural context of this chunk, typically the header path indicating where this chunk appears in the document hierarchy."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/documentchunk/context/"

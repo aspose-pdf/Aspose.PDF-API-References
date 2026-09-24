@@ -2,8 +2,8 @@
 title: "Layer.Unlock"
 linktitle: "Unlock"
 articleTitle: "Unlock"
-second_title: "Aspose.PDF for .NET"
-description: "Unlocks the layer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer method. Unlocks the layer."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/layer/unlock/"

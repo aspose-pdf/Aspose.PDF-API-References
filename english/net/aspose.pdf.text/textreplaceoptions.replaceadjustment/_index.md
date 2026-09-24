@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.ReplaceAdjustment Enum"
 linktitle: "TextReplaceOptions.ReplaceAdjustment"
 articleTitle: "TextReplaceOptions.ReplaceAdjustment"
-second_title: "Aspose.PDF for .NET"
-description: "Determines action that will be done after replace of text fragment to more short. None - no action, replaced text may overlaps rest of the line; AdjustSpaceW..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextReplaceOptions.ReplaceAdjustment enum. Determines action that will be done after replace of text fragment to more short. None - no action..."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.text/textreplaceoptions.replaceadjustment/"

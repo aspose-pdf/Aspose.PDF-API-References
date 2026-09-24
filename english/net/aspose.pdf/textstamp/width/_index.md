@@ -2,8 +2,8 @@
 title: "TextStamp.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Desired width of the stamp on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp property. Desired width of the stamp on the page."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/textstamp/width/"

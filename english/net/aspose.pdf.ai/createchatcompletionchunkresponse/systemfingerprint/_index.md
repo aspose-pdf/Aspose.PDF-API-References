@@ -2,8 +2,8 @@
 title: "CreateChatCompletionChunkResponse.SystemFingerprint"
 linktitle: "SystemFingerprint"
 articleTitle: "SystemFingerprint"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the fingerprint that represents the backend configuration that the model runs with. Can be used in conjunction with the seed request parameter t..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateChatCompletionChunkResponse property. Gets or sets the fingerprint that represents the backend configuration that the model runs with. Can be used in c..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/systemfingerprint/"

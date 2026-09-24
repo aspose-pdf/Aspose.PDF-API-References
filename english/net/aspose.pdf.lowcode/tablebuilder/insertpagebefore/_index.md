@@ -2,8 +2,8 @@
 title: "TableBuilder.InsertPageBefore"
 linktitle: "InsertPageBefore"
 articleTitle: "InsertPageBefore"
-second_title: "Aspose.PDF for .NET"
-description: "Insert page before specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableBuilder method. Insert page before specified page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/tablebuilder/insertpagebefore/"

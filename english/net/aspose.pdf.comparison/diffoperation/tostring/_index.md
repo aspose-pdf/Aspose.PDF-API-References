@@ -2,8 +2,8 @@
 title: "DiffOperation.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DiffOperation method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/diffoperation/tostring/"

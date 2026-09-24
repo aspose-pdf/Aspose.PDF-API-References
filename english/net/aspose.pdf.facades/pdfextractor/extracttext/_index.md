@@ -2,8 +2,8 @@
 title: "PdfExtractor.ExtractText"
 linktitle: "ExtractText"
 articleTitle: "ExtractText"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts text from a Pdf document using Unicode encoding."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Extracts text from a Pdf document using Unicode encoding."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfextractor/extracttext/"

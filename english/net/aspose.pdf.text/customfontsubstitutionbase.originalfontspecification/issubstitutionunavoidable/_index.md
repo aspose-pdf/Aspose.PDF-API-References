@@ -2,8 +2,8 @@
 title: "CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable"
 linktitle: "IsSubstitutionUnavoidable"
 articleTitle: "IsSubstitutionUnavoidable"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value that indicates that the substitution is unavoidable."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OriginalFontSpecification property. Gets a value that indicates that the substitution is unavoidable."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable/"

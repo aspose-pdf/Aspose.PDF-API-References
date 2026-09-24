@@ -2,8 +2,8 @@
 title: "PdfConverter.DoConvert"
 linktitle: "DoConvert"
 articleTitle: "DoConvert"
-second_title: "Aspose.PDF for .NET"
-description: "Do some initial works for converting a pdf document to images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Do some initial works for converting a pdf document to images."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfconverter/doconvert/"

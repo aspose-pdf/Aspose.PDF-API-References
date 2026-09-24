@@ -2,8 +2,8 @@
 title: "Matrix.GetFlipMatrix"
 linktitle: "GetFlipMatrix"
 articleTitle: "GetFlipMatrix"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the flipping matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Gets the flipping matrix."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/matrix/getflipmatrix/"

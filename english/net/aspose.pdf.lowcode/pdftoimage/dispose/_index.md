@@ -2,8 +2,8 @@
 title: "PdfToImage.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Implementation of . Actually, it is not necessary for ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImage method. Implementation of . Actually, it is not necessary for ."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdftoimage/dispose/"

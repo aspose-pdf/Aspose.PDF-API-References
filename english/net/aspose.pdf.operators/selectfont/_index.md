@@ -2,8 +2,8 @@
 title: "SelectFont Class"
 linktitle: "SelectFont"
 articleTitle: "SelectFont"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Tf operator (set text font and size)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SelectFont class. Class representing Tf operator (set text font and size)."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.operators/selectfont/"

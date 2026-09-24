@@ -2,8 +2,8 @@
 title: "PdfContentEditor.MoveStampById"
 linktitle: "MoveStampById"
 articleTitle: "MoveStampById"
-second_title: "Aspose.PDF for .NET"
-description: "Changes position of the stamp on page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Changes position of the stamp on page."
 type: docs
 weight: 590
 url: "/net/aspose.pdf.facades/pdfcontenteditor/movestampbyid/"

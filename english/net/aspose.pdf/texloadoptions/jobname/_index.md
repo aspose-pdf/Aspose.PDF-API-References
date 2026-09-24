@@ -2,8 +2,8 @@
 title: "TeXLoadOptions.JobName"
 linktitle: "JobName"
 articleTitle: "JobName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/set the name of the job."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXLoadOptions property. Gets/set the name of the job."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texloadoptions/jobname/"

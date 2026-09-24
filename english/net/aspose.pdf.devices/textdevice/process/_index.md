@@ -2,8 +2,8 @@
 title: "TextDevice.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Convert page and save it as text stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextDevice method. Convert page and save it as text stream."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.devices/textdevice/process/"

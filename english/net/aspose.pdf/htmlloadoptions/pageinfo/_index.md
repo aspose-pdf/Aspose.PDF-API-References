@@ -2,8 +2,8 @@
 title: "HtmlLoadOptions.PageInfo"
 linktitle: "PageInfo"
 articleTitle: "PageInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets document page info"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions property. Gets or sets document page info"
 type: docs
 weight: 100
 url: "/net/aspose.pdf/htmlloadoptions/pageinfo/"

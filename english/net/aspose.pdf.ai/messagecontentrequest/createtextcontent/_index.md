@@ -2,8 +2,8 @@
 title: "MessageContentRequest.CreateTextContent"
 linktitle: "CreateTextContent"
 articleTitle: "CreateTextContent"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a text content for a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MessageContentRequest method. Creates a text content for a message."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/messagecontentrequest/createtextcontent/"

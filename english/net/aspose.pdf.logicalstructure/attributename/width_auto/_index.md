@@ -2,8 +2,8 @@
 title: "AttributeName.Width_Auto"
 linktitle: "Width_Auto"
 articleTitle: "Width_Auto"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Width: Auto - the element's width shall be determined by the intrinsic width of its content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Width: Auto - the element's width shall be determined by the intrinsic width of its content."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.logicalstructure/attributename/width_auto/"

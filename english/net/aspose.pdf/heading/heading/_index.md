@@ -2,8 +2,8 @@
 title: "Heading.Heading"
 linktitle: "Heading"
 articleTitle: "Heading"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Heading class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading constructor. Initializes a new instance of the Heading class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/heading/heading/"

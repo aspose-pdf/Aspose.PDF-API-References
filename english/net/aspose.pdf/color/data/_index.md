@@ -2,8 +2,8 @@
 title: "Color.Data"
 linktitle: "Data"
 articleTitle: "Data"
-second_title: "Aspose.PDF for .NET"
-description: "Gets color value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets color value."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/color/data/"

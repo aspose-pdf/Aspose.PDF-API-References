@@ -2,8 +2,8 @@
 title: "PageNumberStamp.NumberingStyle"
 linktitle: "NumberingStyle"
 articleTitle: "NumberingStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Numbering style which used by this stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageNumberStamp property. Numbering style which used by this stamp."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/pagenumberstamp/numberingstyle/"

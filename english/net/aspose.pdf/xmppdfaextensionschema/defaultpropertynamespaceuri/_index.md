@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.DefaultPropertyNamespaceUri"
 linktitle: "DefaultPropertyNamespaceUri"
 articleTitle: "DefaultPropertyNamespaceUri"
-second_title: "Aspose.PDF for .NET"
-description: "Default property namespace uri."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema field. Default property namespace uri."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri/"

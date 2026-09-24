@@ -2,8 +2,8 @@
 title: "MediaRendition Class"
 linktitle: "MediaRendition"
 articleTitle: "MediaRendition"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes media rendition."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.MediaRendition class. Class describes media rendition."
 type: docs
 weight: 720
 url: "/net/aspose.pdf.annotations/mediarendition/"

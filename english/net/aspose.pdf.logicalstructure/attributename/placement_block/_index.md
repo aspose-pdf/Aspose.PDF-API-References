@@ -2,8 +2,8 @@
 title: "AttributeName.Placement_Block"
 linktitle: "Placement_Block"
 articleTitle: "Placement_Block"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Placement: Block - Stacked in the block-progression direction within an enclosing reference area or parent BLSE."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Placement: Block - Stacked in the block-progression direction within an enclosing reference area or parent BLSE."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/attributename/placement_block/"

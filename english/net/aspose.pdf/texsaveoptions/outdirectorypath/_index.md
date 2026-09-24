@@ -2,8 +2,8 @@
 title: "TeXSaveOptions.OutDirectoryPath"
 linktitle: "OutDirectoryPath"
 articleTitle: "OutDirectoryPath"
-second_title: "Aspose.PDF for .NET"
-description: "Property for parameter."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXSaveOptions property. Property for parameter."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/texsaveoptions/outdirectorypath/"

@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.ImportAnnotationsFromFdf"
 linktitle: "ImportAnnotationsFromFdf"
 articleTitle: "ImportAnnotationsFromFdf"
-second_title: "Aspose.PDF for .NET"
-description: "Imports all annotations from FDF file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Imports all annotations from FDF file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/"

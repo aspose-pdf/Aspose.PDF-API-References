@@ -2,8 +2,8 @@
 title: "MessageContentResponse.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the text content that is part of a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MessageContentResponse property. Gets or sets the text content that is part of a message."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/messagecontentresponse/text/"

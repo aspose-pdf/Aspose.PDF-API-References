@@ -2,8 +2,8 @@
 title: "IOperationResult.IsStream"
 linktitle: "IsStream"
 articleTitle: "IsStream"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the result is an output stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOperationResult property. Indicates whether the result is an output stream."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/ioperationresult/isstream/"

@@ -2,8 +2,8 @@
 title: "DateField Class"
 linktitle: "DateField"
 articleTitle: "DateField"
-second_title: "Aspose.PDF for .NET"
-description: "Date field with calendar view."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.DateField class. Date field with calendar view."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/datefield/"

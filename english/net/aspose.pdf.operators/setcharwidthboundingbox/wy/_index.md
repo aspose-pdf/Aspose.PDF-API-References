@@ -2,8 +2,8 @@
 title: "SetCharWidthBoundingBox.Wy"
 linktitle: "Wy"
 articleTitle: "Wy"
-second_title: "Aspose.PDF for .NET"
-description: "Vertical displacement of glyph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidthBoundingBox property. Vertical displacement of glyph."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/wy/"

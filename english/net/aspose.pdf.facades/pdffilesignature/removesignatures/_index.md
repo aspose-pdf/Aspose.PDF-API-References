@@ -2,8 +2,8 @@
 title: "PdfFileSignature.RemoveSignatures"
 linktitle: "RemoveSignatures"
 articleTitle: "RemoveSignatures"
-second_title: "Aspose.PDF for .NET"
-description: "Removes all signatures."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Removes all signatures."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdffilesignature/removesignatures/"

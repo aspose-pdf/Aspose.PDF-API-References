@@ -2,8 +2,8 @@
 title: "MarkupParagraph Class"
 linktitle: "MarkupParagraph"
 articleTitle: "MarkupParagraph"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a paragraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.MarkupParagraph class. Represents a paragraph."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.text/markupparagraph/"

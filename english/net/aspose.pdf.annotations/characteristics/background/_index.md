@@ -2,8 +2,8 @@
 title: "Characteristics.Background"
 linktitle: "Background"
 articleTitle: "Background"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets color of the background"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Characteristics property. Gets or sets color of the background"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/characteristics/background/"

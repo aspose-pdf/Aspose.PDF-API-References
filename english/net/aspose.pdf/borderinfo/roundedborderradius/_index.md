@@ -2,8 +2,8 @@
 title: "BorderInfo.RoundedBorderRadius"
 linktitle: "RoundedBorderRadius"
 articleTitle: "RoundedBorderRadius"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a rouded border radius"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderInfo property. Gets or sets a rouded border radius"
 type: docs
 weight: 120
 url: "/net/aspose.pdf/borderinfo/roundedborderradius/"

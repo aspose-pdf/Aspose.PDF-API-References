@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Remove outline collection item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection method. Remove outline collection item."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/outlineitemcollection/remove/"

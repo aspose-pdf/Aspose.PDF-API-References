@@ -2,8 +2,8 @@
 title: "AttributeKey.SpaceBefore"
 linktitle: "SpaceBefore"
 articleTitle: "SpaceBefore"
-second_title: "Aspose.PDF for .NET"
-description: "SpaceBefore attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. SpaceBefore attribute (Layout attribute owner)."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/attributekey/spacebefore/"

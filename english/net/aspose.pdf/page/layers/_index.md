@@ -2,8 +2,8 @@
 title: "Page.Layers"
 linktitle: "Layers"
 articleTitle: "Layers"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets layers collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets layers collection."
 type: docs
 weight: 390
 url: "/net/aspose.pdf/page/layers/"

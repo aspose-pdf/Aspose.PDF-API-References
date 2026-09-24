@@ -2,8 +2,8 @@
 title: "Layer.Locked"
 linktitle: "Locked"
 articleTitle: "Locked"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the layer is locked."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer property. Gets a value indicating whether the layer is locked."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/layer/locked/"

@@ -2,8 +2,8 @@
 title: "Tool.Function"
 linktitle: "Function"
 articleTitle: "Function"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new tool instance with the specified function."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Tool method. Creates a new tool instance with the specified function."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/tool/function/"

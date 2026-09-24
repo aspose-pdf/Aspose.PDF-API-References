@@ -2,8 +2,8 @@
 title: "PageInfo.PureHeight"
 linktitle: "PureHeight"
 articleTitle: "PureHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets page pure height without margins."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInfo property. Gets or sets page pure height without margins."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/pageinfo/pureheight/"

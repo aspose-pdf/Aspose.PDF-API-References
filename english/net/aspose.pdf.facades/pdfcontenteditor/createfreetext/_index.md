@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateFreeText"
 linktitle: "CreateFreeText"
 articleTitle: "CreateFreeText"
-second_title: "Aspose.PDF for .NET"
-description: "Creates free text annotation in PDF document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates free text annotation in PDF document"
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/"

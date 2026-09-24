@@ -2,8 +2,8 @@
 title: "Graph.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a string value that indicates the title of the graph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Graph property. Gets or sets a string value that indicates the title of the graph."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.drawing/graph/title/"

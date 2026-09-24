@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionRequest Class"
 linktitle: "LlamaChatCompletionRequest"
 articleTitle: "LlamaChatCompletionRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the request body for the ChatGPT API requests."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.LlamaChatCompletionRequest class. Represents the request body for the ChatGPT API requests."
 type: docs
 weight: 730
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/"

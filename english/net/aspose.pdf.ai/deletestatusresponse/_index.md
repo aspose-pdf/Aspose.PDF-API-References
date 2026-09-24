@@ -2,8 +2,8 @@
 title: "DeleteStatusResponse Class"
 linktitle: "DeleteStatusResponse"
 articleTitle: "DeleteStatusResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the status of an object deletion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.DeleteStatusResponse class. Represents the status of an object deletion."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.ai/deletestatusresponse/"

@@ -2,8 +2,8 @@
 title: "ISummaryCopilot.GetSummaryDocumentAsync"
 linktitle: "GetSummaryDocumentAsync"
 articleTitle: "GetSummaryDocumentAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously gets a summary PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ISummaryCopilot method. Asynchronously gets a summary PDF document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/"

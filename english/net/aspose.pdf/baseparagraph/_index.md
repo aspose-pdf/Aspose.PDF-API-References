@@ -2,8 +2,8 @@
 title: "BaseParagraph Class"
 linktitle: "BaseParagraph"
 articleTitle: "BaseParagraph"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a abstract base object can be added to the page(doc.Paragraphs.Add())."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BaseParagraph class. Represents a abstract base object can be added to the page(doc.Paragraphs.Add())."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/baseparagraph/"

@@ -2,8 +2,8 @@
 title: "Stamp.TopMargin"
 linktitle: "TopMargin"
 articleTitle: "TopMargin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets top margin of stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets top margin of stamp."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/stamp/topmargin/"

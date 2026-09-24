@@ -2,8 +2,8 @@
 title: "Document.OutputIntents"
 linktitle: "OutputIntents"
 articleTitle: "OutputIntents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the collection of Output intents in the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets the collection of Output intents in the document."
 type: docs
 weight: 1100
 url: "/net/aspose.pdf/document/outputintents/"

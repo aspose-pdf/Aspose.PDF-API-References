@@ -2,8 +2,8 @@
 title: "ImageStamp.Quality"
 linktitle: "Quality"
 articleTitle: "Quality"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets quality of image stamp in percent. Valid values are 0..100%."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp property. Gets or sets quality of image stamp in percent. Valid values are 0..100%."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/imagestamp/quality/"

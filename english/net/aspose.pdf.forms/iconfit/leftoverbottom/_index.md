@@ -2,8 +2,8 @@
 title: "IconFit.LeftoverBottom"
 linktitle: "LeftoverBottom"
 articleTitle: "LeftoverBottom"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets space to allocate at the bottom of the icon."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IconFit property. Gets or sets space to allocate at the bottom of the icon."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/iconfit/leftoverbottom/"

@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.FlowLayoutParagraphFullWidth"
 linktitle: "FlowLayoutParagraphFullWidth"
 articleTitle: "FlowLayoutParagraphFullWidth"
-second_title: "Aspose.PDF for .NET"
-description: "This attribute specifies full width paragraph text for Flow mode, FixedLayout = false"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. This attribute specifies full width paragraph text for Flow mode, FixedLayout = false"
 type: docs
 weight: 250
 url: "/net/aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/"

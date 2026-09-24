@@ -2,8 +2,8 @@
 title: "PdfExtractor.GetAttachNames"
 linktitle: "GetAttachNames"
 articleTitle: "GetAttachNames"
-second_title: "Aspose.PDF for .NET"
-description: "Returns list of attachments in PDF file. Note: ExtractAttachments must be called before using this method."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Returns list of attachments in PDF file. Note: ExtractAttachments must be called before using this method."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdfextractor/getattachnames/"

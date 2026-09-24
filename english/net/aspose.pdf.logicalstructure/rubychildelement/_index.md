@@ -2,8 +2,8 @@
 title: "RubyChildElement Class"
 linktitle: "RubyChildElement"
 articleTitle: "RubyChildElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class for children elements of the Ruby in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.RubyChildElement class. Represents a base class for children elements of the Ruby in logical structure."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.logicalstructure/rubychildelement/"

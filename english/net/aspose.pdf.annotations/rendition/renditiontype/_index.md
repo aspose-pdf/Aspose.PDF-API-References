@@ -2,8 +2,8 @@
 title: "Rendition.RenditionType"
 linktitle: "RenditionType"
 articleTitle: "RenditionType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rendition type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rendition property. Gets rendition type."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/rendition/renditiontype/"

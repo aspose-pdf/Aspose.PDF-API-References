@@ -2,8 +2,8 @@
 title: "RunStepResponse.StepDetails"
 linktitle: "StepDetails"
 articleTitle: "StepDetails"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the details of the run step."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepResponse property. Gets or sets the details of the run step."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/runstepresponse/stepdetails/"

@@ -2,8 +2,8 @@
 title: "DeleteStatusResponse.DeleteStatusResponse"
 linktitle: "DeleteStatusResponse"
 articleTitle: "DeleteStatusResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DeleteStatusResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DeleteStatusResponse constructor. Initializes a new instance of the DeleteStatusResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/deletestatusresponse/deletestatusresponse/"

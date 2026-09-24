@@ -2,8 +2,8 @@
 title: "FileHyperlink.Path"
 linktitle: "Path"
 articleTitle: "Path"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the path to file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileHyperlink property. Gets or sets the path to file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/filehyperlink/path/"

@@ -2,8 +2,8 @@
 title: "ITeXOutputDirectory.GetOutputFile"
 linktitle: "GetOutputFile"
 articleTitle: "GetOutputFile"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITeXOutputDirectory method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/itexoutputdirectory/getoutputfile/"

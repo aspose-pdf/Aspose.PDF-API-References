@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.ReplaceScope"
 linktitle: "ReplaceScope"
 articleTitle: "ReplaceScope"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a scope where replace text operation is applied"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextReplaceOptions property. Gets or sets a scope where replace text operation is applied"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textreplaceoptions/replacescope/"

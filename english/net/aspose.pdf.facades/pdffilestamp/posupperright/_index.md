@@ -2,8 +2,8 @@
 title: "PdfFileStamp.PosUpperRight"
 linktitle: "PosUpperRight"
 articleTitle: "PosUpperRight"
-second_title: "Aspose.PDF for .NET"
-description: "Right upper position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp field. Right upper position."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.facades/pdffilestamp/posupperright/"

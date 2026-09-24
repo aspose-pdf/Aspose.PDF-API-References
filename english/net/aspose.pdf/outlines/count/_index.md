@@ -2,8 +2,8 @@
 title: "Outlines.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets count."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Outlines property. Gets count."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/outlines/count/"

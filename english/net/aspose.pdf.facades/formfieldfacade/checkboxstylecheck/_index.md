@@ -2,8 +2,8 @@
 title: "FormFieldFacade.CheckBoxStyleCheck"
 linktitle: "CheckBoxStyleCheck"
 articleTitle: "CheckBoxStyleCheck"
-second_title: "Aspose.PDF for .NET"
-description: "Defines the shape of a check box field when it checked."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines the shape of a check box field when it checked."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/"

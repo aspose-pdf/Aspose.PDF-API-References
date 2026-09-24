@@ -2,8 +2,8 @@
 title: "SetColor Class"
 linktitle: "SetColor"
 articleTitle: "SetColor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents class for sc operator (set color for non-stroking operations)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetColor class. Represents class for sc operator (set color for non-stroking operations)."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.operators/setcolor/"

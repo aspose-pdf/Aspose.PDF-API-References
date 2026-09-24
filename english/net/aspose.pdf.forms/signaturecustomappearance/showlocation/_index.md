@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.ShowLocation"
 linktitle: "ShowLocation"
 articleTitle: "ShowLocation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets location visibility. Default value: true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets location visibility. Default value: true."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/signaturecustomappearance/showlocation/"

@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Last"
 linktitle: "Last"
 articleTitle: "Last"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the outline item representing the last top-level item in the outline hierarchy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets the outline item representing the last top-level item in the outline hierarchy."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/outlineitemcollection/last/"

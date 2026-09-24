@@ -2,8 +2,8 @@
 title: "PDF3DAnnotation.PDF3DAnnotation"
 linktitle: "PDF3DAnnotation"
 articleTitle: "PDF3DAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PDF3DAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DAnnotation constructor. Initializes a new instance of the PDF3DAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dannotation/pdf3dannotation/"

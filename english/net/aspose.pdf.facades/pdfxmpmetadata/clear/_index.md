@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Removes all elements from the object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Removes all elements from the object."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/clear/"

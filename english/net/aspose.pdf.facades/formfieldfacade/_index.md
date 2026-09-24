@@ -2,8 +2,8 @@
 title: "FormFieldFacade Class"
 linktitle: "FormFieldFacade"
 articleTitle: "FormFieldFacade"
-second_title: "Aspose.PDF for .NET"
-description: "Class for representing field properties."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.FormFieldFacade class. Class for representing field properties."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/formfieldfacade/"

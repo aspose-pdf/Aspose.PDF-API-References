@@ -2,8 +2,8 @@
 title: "SetTextRenderingMode.SetTextRenderingMode"
 linktitle: "SetTextRenderingMode"
 articleTitle: "SetTextRenderingMode"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetTextRenderingMode class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextRenderingMode constructor. Initializes a new instance of the SetTextRenderingMode class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/settextrenderingmode/settextrenderingmode/"

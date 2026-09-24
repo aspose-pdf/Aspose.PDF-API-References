@@ -2,8 +2,8 @@
 title: "Resources.GetFonts"
 linktitle: "GetFonts"
 articleTitle: "GetFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resources method. Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/resources/getfonts/"

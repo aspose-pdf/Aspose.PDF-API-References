@@ -2,8 +2,8 @@
 title: "GoToRemoteAction Class"
 linktitle: "GoToRemoteAction"
 articleTitle: "GoToRemoteAction"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a remote go-to action that is similar to an ordinary go-to action but jumps to a destination in another PDF file instead of the current file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.GoToRemoteAction class. Represents a remote go-to action that is similar to an ordinary go-to action but jumps to a destination in ano..."
 type: docs
 weight: 460
 url: "/net/aspose.pdf.annotations/gotoremoteaction/"

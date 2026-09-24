@@ -2,8 +2,8 @@
 title: "CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded"
 linktitle: "IsEmbedded"
 articleTitle: "IsEmbedded"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value that indicates whether the font is embedded."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OriginalFontSpecification property. Gets a value that indicates whether the font is embedded."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded/"

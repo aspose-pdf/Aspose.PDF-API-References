@@ -2,8 +2,8 @@
 title: "GraphicsAbsorber.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Performs search on the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicsAbsorber method. Performs search on the specified page."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/graphicsabsorber/visit/"

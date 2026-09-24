@@ -2,8 +2,8 @@
 title: "TableCellElement.StructureTextState"
 linktitle: "StructureTextState"
 articleTitle: "StructureTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets object for current element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellElement property. Gets object for current element."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/"

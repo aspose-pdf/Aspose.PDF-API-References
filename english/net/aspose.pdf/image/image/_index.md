@@ -2,8 +2,8 @@
 title: "Image.Image"
 linktitle: "Image"
 articleTitle: "Image"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Image class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image constructor. Initializes a new instance of the Image class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/image/image/"

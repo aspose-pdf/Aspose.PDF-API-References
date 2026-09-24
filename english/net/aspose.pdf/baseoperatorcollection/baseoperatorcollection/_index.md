@@ -2,8 +2,8 @@
 title: "BaseOperatorCollection.BaseOperatorCollection"
 linktitle: "BaseOperatorCollection"
 articleTitle: "BaseOperatorCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BaseOperatorCollection class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection constructor. Initializes a new instance of the BaseOperatorCollection class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/baseoperatorcollection/baseoperatorcollection/"

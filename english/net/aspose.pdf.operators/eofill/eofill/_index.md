@@ -2,8 +2,8 @@
 title: "EOFill.EOFill"
 linktitle: "EOFill"
 articleTitle: "EOFill"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EOFill class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EOFill constructor. Initializes a new instance of the EOFill class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/eofill/eofill/"

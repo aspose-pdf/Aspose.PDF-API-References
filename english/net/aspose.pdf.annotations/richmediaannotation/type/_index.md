@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.Type"
 linktitle: "Type"
 articleTitle: "Type"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets type of content. Possible values: Audio, Video."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation property. Gets or sets type of content. Possible values: Audio, Video."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/richmediaannotation/type/"

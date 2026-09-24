@@ -2,8 +2,8 @@
 title: "PdfExtractor.ExtractImageMode"
 linktitle: "ExtractImageMode"
 articleTitle: "ExtractImageMode"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the mode for extract images process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Sets the mode for extract images process."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdfextractor/extractimagemode/"

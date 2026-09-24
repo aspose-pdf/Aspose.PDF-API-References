@@ -2,8 +2,8 @@
 title: "IEntityId.Id"
 linktitle: "Id"
 articleTitle: "Id"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ID of the entity."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IEntityId property. Gets or sets the ID of the entity."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/ientityid/id/"

@@ -2,8 +2,8 @@
 title: "FormDataConverter Class"
 linktitle: "FormDataConverter"
 articleTitle: "FormDataConverter"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to convert data from one format to another format. It can convert the data in fdf/xml/pdf/xfdf to the OLEDB/OdbcDB. It also can convert th..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.FormDataConverter class. Represents a class to convert data from one format to another format. It can convert the data in fdf/xml/pdf/xfdf..."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/formdataconverter/"

@@ -2,8 +2,8 @@
 title: "Row.DefaultCellBorder"
 linktitle: "DefaultCellBorder"
 articleTitle: "DefaultCellBorder"
-second_title: "Aspose.PDF for .NET"
-description: "Gets default cell border;"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Row property. Gets default cell border;"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/row/defaultcellborder/"

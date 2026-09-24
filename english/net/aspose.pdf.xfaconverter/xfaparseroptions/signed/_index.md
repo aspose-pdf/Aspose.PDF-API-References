@@ -2,8 +2,8 @@
 title: "XfaParserOptions.Signed"
 linktitle: "Signed"
 articleTitle: "Signed"
-second_title: "Aspose.PDF for .NET"
-description: "If this property is true then document will be converted with using of xfa form stream (if it exists). If it is false then xfa form stream will be ignored. T..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XfaParserOptions property. If this property is true then document will be converted with using of xfa form stream (if it exists). If it is false then xfa for..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/signed/"

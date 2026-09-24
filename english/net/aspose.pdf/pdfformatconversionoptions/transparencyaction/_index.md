@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.TransparencyAction"
 linktitle: "TransparencyAction"
 articleTitle: "TransparencyAction"
-second_title: "Aspose.PDF for .NET"
-description: "Action for image masked objects"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Action for image masked objects"
 type: docs
 weight: 130
 url: "/net/aspose.pdf/pdfformatconversionoptions/transparencyaction/"

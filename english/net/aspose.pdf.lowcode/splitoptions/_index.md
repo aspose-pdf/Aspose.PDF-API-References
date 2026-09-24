@@ -2,8 +2,8 @@
 title: "SplitOptions Class"
 linktitle: "SplitOptions"
 articleTitle: "SplitOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Split options for plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.SplitOptions class. Represents Split options for plugin."
 type: docs
 weight: 860
 url: "/net/aspose.pdf.lowcode/splitoptions/"

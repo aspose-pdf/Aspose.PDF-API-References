@@ -2,8 +2,8 @@
 title: "PdfPageEditor.SPLITVOUT"
 linktitle: "SPLITVOUT"
 articleTitle: "SPLITVOUT"
-second_title: "Aspose.PDF for .NET"
-description: "Out Vertical Split"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Out Vertical Split"
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdfpageeditor/splitvout/"

@@ -2,8 +2,8 @@
 title: "Function.Description"
 linktitle: "Description"
 articleTitle: "Description"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a description of what the function does, used by the model to choose when and how to call the function."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Function property. Gets or sets a description of what the function does, used by the model to choose when and how to call the function."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/function/description/"

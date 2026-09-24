@@ -2,8 +2,8 @@
 title: "LlamaModels.Llama13BChat"
 linktitle: "Llama13BChat"
 articleTitle: "Llama13BChat"
-second_title: "Aspose.PDF for .NET"
-description: "The Llama 13b chat model."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaModels property. The Llama 13b chat model."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/llamamodels/llama13bchat/"

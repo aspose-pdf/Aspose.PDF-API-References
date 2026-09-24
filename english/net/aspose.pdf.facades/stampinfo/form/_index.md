@@ -2,8 +2,8 @@
 title: "StampInfo.Form"
 linktitle: "Form"
 articleTitle: "Form"
-second_title: "Aspose.PDF for .NET"
-description: "Gets XForm of the stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampInfo property. Gets XForm of the stamp."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/stampinfo/form/"

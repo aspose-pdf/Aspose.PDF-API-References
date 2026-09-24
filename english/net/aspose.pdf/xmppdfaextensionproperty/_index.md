@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionProperty Class"
 linktitle: "XmpPdfAExtensionProperty"
 articleTitle: "XmpPdfAExtensionProperty"
-second_title: "Aspose.PDF for .NET"
-description: "Describes a single property. Schema namespace URI: http://www.aiim.org/pdfa/ns/property# Required schema namespace prefix: pdfaProperty"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmpPdfAExtensionProperty class. Describes a single property. Schema namespace URI: http://www.aiim.org/pdfa/ns/property# Required schema namespace..."
 type: docs
 weight: 3310
 url: "/net/aspose.pdf/xmppdfaextensionproperty/"

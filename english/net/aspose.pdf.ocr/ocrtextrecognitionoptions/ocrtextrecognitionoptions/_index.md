@@ -2,8 +2,8 @@
 title: "OcrTextRecognitionOptions.OcrTextRecognitionOptions"
 linktitle: "OcrTextRecognitionOptions"
 articleTitle: "OcrTextRecognitionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OcrTextRecognitionOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextRecognitionOptions constructor. Initializes a new instance of the OcrTextRecognitionOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/ocrtextrecognitionoptions/"

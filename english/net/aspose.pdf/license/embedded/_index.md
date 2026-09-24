@@ -2,8 +2,8 @@
 title: "License.Embedded"
 linktitle: "Embedded"
 articleTitle: "Embedded"
-second_title: "Aspose.PDF for .NET"
-description: "License number was added as embedded resource."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "License property. License number was added as embedded resource."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/license/embedded/"

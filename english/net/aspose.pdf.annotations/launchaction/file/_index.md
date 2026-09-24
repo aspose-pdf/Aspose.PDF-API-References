@@ -2,8 +2,8 @@
 title: "LaunchAction.File"
 linktitle: "File"
 articleTitle: "File"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the application to be launched or the document to be opened or printed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LaunchAction property. Gets or sets the application to be launched or the document to be opened or printed."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/launchaction/file/"

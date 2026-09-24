@@ -2,8 +2,8 @@
 title: "SaveOptions.ResourceSavingInfo Class"
 linktitle: "SaveOptions.ResourceSavingInfo"
 articleTitle: "SaveOptions.ResourceSavingInfo"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents set of data that related to external resource file's saving that occures during conversion of PDF to some other format (f.e. HTML)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SaveOptions.ResourceSavingInfo class. This class represents set of data that related to external resource file's saving that occures during conver..."
 type: docs
 weight: 2830
 url: "/net/aspose.pdf/saveoptions.resourcesavinginfo/"

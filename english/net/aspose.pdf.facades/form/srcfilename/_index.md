@@ -2,8 +2,8 @@
 title: "Form.SrcFileName"
 linktitle: "SrcFileName"
 articleTitle: "SrcFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets source file name. Form form = new Aspose.Pdf.Facades.Form(); form.SrcFileName = \"file.pdf\";"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets or sets source file name. Form form = new Aspose.Pdf.Facades.Form(); form.SrcFileName = \"file.pdf\";"
 type: docs
 weight: 520
 url: "/net/aspose.pdf.facades/form/srcfilename/"

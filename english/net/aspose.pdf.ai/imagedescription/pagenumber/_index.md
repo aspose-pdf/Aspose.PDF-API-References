@@ -2,8 +2,8 @@
 title: "ImageDescription.PageNumber"
 linktitle: "PageNumber"
 articleTitle: "PageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the page number where the image is located."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDescription property. Gets or sets the page number where the image is located."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/imagedescription/pagenumber/"

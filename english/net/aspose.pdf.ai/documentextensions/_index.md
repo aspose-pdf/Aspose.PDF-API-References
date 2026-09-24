@@ -2,8 +2,8 @@
 title: "DocumentExtensions Class"
 linktitle: "DocumentExtensions"
 articleTitle: "DocumentExtensions"
-second_title: "Aspose.PDF for .NET"
-description: "Extension methods for to support AI ingestion and chunking."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.DocumentExtensions class. Extension methods for to support AI ingestion and chunking."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.ai/documentextensions/"

@@ -2,8 +2,8 @@
 title: "Re.Y"
 linktitle: "Y"
 articleTitle: "Y"
-second_title: "Aspose.PDF for .NET"
-description: "Y corrdinate of bottom side of rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Re property. Y corrdinate of bottom side of rectangle."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/re/y/"

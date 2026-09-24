@@ -2,8 +2,8 @@
 title: "Tool.FileSearch"
 linktitle: "FileSearch"
 articleTitle: "FileSearch"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a tool instance representing a file search tool."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Tool property. Gets a tool instance representing a file search tool."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/tool/filesearch/"

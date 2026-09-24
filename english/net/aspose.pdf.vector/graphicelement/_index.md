@@ -2,8 +2,8 @@
 title: "GraphicElement Class"
 linktitle: "GraphicElement"
 articleTitle: "GraphicElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents base class for graphics object on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Vector.GraphicElement class. Represents base class for graphics object on the page."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/graphicelement/"

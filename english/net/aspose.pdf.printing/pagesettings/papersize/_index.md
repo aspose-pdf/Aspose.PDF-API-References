@@ -2,8 +2,8 @@
 title: "PageSettings.PaperSize"
 linktitle: "PaperSize"
 articleTitle: "PaperSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the paper size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings property. Gets or sets the paper size."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.printing/pagesettings/papersize/"

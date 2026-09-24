@@ -2,8 +2,8 @@
 title: "StructTreeRootElement Class"
 linktitle: "StructTreeRootElement"
 articleTitle: "StructTreeRootElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents StructTreeRoot object in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.StructTreeRootElement class. Represents StructTreeRoot object in logical structure."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.logicalstructure/structtreerootelement/"

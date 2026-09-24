@@ -2,8 +2,8 @@
 title: "AttributeName.TextAlign_Start"
 linktitle: "TextAlign_Start"
 articleTitle: "TextAlign_Start"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute TextAlign: Start - Aligned with the start edge."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute TextAlign: Start - Aligned with the start edge."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.logicalstructure/attributename/textalign_start/"

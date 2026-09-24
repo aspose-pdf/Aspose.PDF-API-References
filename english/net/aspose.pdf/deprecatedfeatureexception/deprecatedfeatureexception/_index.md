@@ -2,8 +2,8 @@
 title: "DeprecatedFeatureException.DeprecatedFeatureException"
 linktitle: "DeprecatedFeatureException"
 articleTitle: "DeprecatedFeatureException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DeprecatedFeatureException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DeprecatedFeatureException constructor. Initializes a new instance of the DeprecatedFeatureException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/deprecatedfeatureexception/deprecatedfeatureexception/"

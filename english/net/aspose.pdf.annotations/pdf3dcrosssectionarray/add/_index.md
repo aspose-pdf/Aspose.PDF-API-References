@@ -2,8 +2,8 @@
 title: "PDF3DCrossSectionArray.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds the specified cross section to views array ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSectionArray method. Adds the specified cross section to views array ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/add/"

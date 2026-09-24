@@ -2,8 +2,8 @@
 title: "TextRecognitionResult.TextRecognitionResult"
 linktitle: "TextRecognitionResult"
 articleTitle: "TextRecognitionResult"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextRecognitionResult class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextRecognitionResult constructor. Initializes a new instance of the TextRecognitionResult class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/textrecognitionresult/textrecognitionresult/"

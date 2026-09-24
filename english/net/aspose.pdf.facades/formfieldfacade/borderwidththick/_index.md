@@ -2,8 +2,8 @@
 title: "FormFieldFacade.BorderWidthThick"
 linktitle: "BorderWidthThick"
 articleTitle: "BorderWidthThick"
-second_title: "Aspose.PDF for .NET"
-description: "Defines a thick border width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines a thick border width."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/formfieldfacade/borderwidththick/"

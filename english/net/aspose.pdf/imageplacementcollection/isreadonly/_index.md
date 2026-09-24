@@ -2,8 +2,8 @@
 title: "ImagePlacementCollection.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the collection is read-only."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacementCollection property. Gets a value indicating whether the collection is read-only."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/imageplacementcollection/isreadonly/"

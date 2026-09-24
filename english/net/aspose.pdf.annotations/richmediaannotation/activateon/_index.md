@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.ActivateOn"
 linktitle: "ActivateOn"
 articleTitle: "ActivateOn"
-second_title: "Aspose.PDF for .NET"
-description: "Event which activates application."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation property. Event which activates application."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/richmediaannotation/activateon/"

@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.TrimBottom"
 linktitle: "TrimBottom"
 articleTitle: "TrimBottom"
-second_title: "Aspose.PDF for .NET"
-description: "Removes data after last %%EOF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization method. Removes data after last %%EOF."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdffilesanitization/trimbottom/"

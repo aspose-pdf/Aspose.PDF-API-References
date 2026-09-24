@@ -2,8 +2,8 @@
 title: "Image.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clone the image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image method. Clone the image."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/image/clone/"

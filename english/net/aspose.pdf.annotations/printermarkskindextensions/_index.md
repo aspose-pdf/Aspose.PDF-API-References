@@ -2,8 +2,8 @@
 title: "PrinterMarksKindExtensions Class"
 linktitle: "PrinterMarksKindExtensions"
 articleTitle: "PrinterMarksKindExtensions"
-second_title: "Aspose.PDF for .NET"
-description: "Provides extension methods for the enumeration."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PrinterMarksKindExtensions class. Provides extension methods for the enumeration."
 type: docs
 weight: 1010
 url: "/net/aspose.pdf.annotations/printermarkskindextensions/"

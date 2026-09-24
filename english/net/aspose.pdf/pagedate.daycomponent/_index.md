@@ -2,8 +2,8 @@
 title: "PageDate.DayComponent Class"
 linktitle: "PageDate.DayComponent"
 articleTitle: "PageDate.DayComponent"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the day component of a date."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageDate.DayComponent class. Represents the day component of a date."
 type: docs
 weight: 2180
 url: "/net/aspose.pdf/pagedate.daycomponent/"

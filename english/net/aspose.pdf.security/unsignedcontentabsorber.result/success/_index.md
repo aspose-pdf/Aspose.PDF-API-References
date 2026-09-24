@@ -2,8 +2,8 @@
 title: "UnsignedContentAbsorber.Result.Success"
 linktitle: "Success"
 articleTitle: "Success"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the operation to retrieve unsigned content from the document was successful."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Result property. Gets a value indicating whether the operation to retrieve unsigned content from the document was successful."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/success/"

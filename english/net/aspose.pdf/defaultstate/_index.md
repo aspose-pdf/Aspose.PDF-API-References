@@ -2,8 +2,8 @@
 title: "DefaultState Enum"
 linktitle: "DefaultState"
 articleTitle: "DefaultState"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the default state of a PDF layer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DefaultState enum. Represents the default state of a PDF layer."
 type: docs
 weight: 520
 url: "/net/aspose.pdf/defaultstate/"

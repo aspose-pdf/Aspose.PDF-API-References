@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionValueType.Fields"
 linktitle: "Fields"
 articleTitle: "Fields"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the list of fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionValueType property. Gets the list of fields."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/fields/"

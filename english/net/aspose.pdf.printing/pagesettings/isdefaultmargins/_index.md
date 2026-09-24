@@ -2,8 +2,8 @@
 title: "PageSettings.IsDefaultMargins"
 linktitle: "IsDefaultMargins"
 articleTitle: "IsDefaultMargins"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings property."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.printing/pagesettings/isdefaultmargins/"

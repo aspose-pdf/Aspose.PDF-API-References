@@ -2,8 +2,8 @@
 title: "ToolChoice.IsStringValue"
 linktitle: "IsStringValue"
 articleTitle: "IsStringValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the ToolChoice is a string value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ToolChoice property. Gets a value indicating whether the ToolChoice is a string value."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/toolchoice/isstringvalue/"

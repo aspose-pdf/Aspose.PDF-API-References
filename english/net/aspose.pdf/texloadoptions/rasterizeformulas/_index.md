@@ -2,8 +2,8 @@
 title: "TeXLoadOptions.RasterizeFormulas"
 linktitle: "RasterizeFormulas"
 articleTitle: "RasterizeFormulas"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets a flag that allows to rasterize math formulas."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXLoadOptions property. Gets/sets a flag that allows to rasterize math formulas."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/texloadoptions/rasterizeformulas/"

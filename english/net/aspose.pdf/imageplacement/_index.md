@@ -2,8 +2,8 @@
 title: "ImagePlacement Class"
 linktitle: "ImagePlacement"
 articleTitle: "ImagePlacement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents characteristics of an image placed to Pdf document page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImagePlacement class. Represents characteristics of an image placed to Pdf document page."
 type: docs
 weight: 1530
 url: "/net/aspose.pdf/imageplacement/"

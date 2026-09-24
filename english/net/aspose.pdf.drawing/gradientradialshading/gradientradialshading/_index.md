@@ -2,8 +2,8 @@
 title: "GradientRadialShading.GradientRadialShading"
 linktitle: "GradientRadialShading"
 articleTitle: "GradientRadialShading"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the GradientRadialShading class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GradientRadialShading constructor. Initializes a new instance of the GradientRadialShading class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/"

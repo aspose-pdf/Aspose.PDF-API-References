@@ -2,8 +2,8 @@
 title: "EmbeddedFileCollection Class"
 linktitle: "EmbeddedFileCollection"
 articleTitle: "EmbeddedFileCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing embedded files collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.EmbeddedFileCollection class. Class representing embedded files collection."
 type: docs
 weight: 720
 url: "/net/aspose.pdf/embeddedfilecollection/"

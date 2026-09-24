@@ -2,8 +2,8 @@
 title: "Matrix.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text reporesentation of the matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Returns text reporesentation of the matrix."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/matrix/tostring/"

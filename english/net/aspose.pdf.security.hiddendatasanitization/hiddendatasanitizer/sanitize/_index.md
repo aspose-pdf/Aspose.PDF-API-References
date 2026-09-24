@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizer.Sanitize"
 linktitle: "Sanitize"
 articleTitle: "Sanitize"
-second_title: "Aspose.PDF for .NET"
-description: "Sanitizes a given PDF document by removing or transforming hidden data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizer method. Sanitizes a given PDF document by removing or transforming hidden data."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/sanitize/"

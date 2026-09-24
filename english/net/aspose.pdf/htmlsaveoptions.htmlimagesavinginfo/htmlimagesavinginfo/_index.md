@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlImageSavingInfo.HtmlSaveOptions.HtmlImageSavingInfo"
 linktitle: "HtmlSaveOptions.HtmlImageSavingInfo"
 articleTitle: "HtmlSaveOptions.HtmlImageSavingInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the HtmlSaveOptions.HtmlImageSavingInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlImageSavingInfo constructor. Initializes a new instance of the HtmlSaveOptions.HtmlImageSavingInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/"

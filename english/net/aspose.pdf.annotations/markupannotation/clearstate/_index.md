@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.ClearState"
 linktitle: "ClearState"
 articleTitle: "ClearState"
-second_title: "Aspose.PDF for .NET"
-description: "Clears state and state model for the annotation. For example, clears the review status for an annotation. Note, the state stored in other text annotation whi..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation method. Clears state and state model for the annotation. For example, clears the review status for an annotation. Note, the state stored in ..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/markupannotation/clearstate/"

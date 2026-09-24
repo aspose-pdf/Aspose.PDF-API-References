@@ -2,8 +2,8 @@
 title: "AttributeKey.Color"
 linktitle: "Color"
 articleTitle: "Color"
-second_title: "Aspose.PDF for .NET"
-description: "Color attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Color attribute (Layout attribute owner)."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/attributekey/color/"

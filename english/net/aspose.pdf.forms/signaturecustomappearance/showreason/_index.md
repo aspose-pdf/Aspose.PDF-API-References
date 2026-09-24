@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.ShowReason"
 linktitle: "ShowReason"
 articleTitle: "ShowReason"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets reason visibility. Default value: true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets reason visibility. Default value: true."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/signaturecustomappearance/showreason/"

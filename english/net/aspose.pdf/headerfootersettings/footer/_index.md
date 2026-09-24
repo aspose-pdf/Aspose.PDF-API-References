@@ -2,8 +2,8 @@
 title: "HeaderFooterSettings.Footer"
 linktitle: "Footer"
 articleTitle: "Footer"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the footer settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooterSettings property. Gets or sets the footer settings."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/headerfootersettings/footer/"

@@ -2,8 +2,8 @@
 title: "Bookmark.PageDisplay_Left"
 linktitle: "PageDisplay_Left"
 articleTitle: "PageDisplay_Left"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the left coordinate of page display."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Bookmark property. Gets or sets the left coordinate of page display."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/bookmark/pagedisplay_left/"

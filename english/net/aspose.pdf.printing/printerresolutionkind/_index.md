@@ -2,8 +2,8 @@
 title: "PrinterResolutionKind Enum"
 linktitle: "PrinterResolutionKind"
 articleTitle: "PrinterResolutionKind"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies a printer resolution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PrinterResolutionKind enum. Specifies a printer resolution."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.printing/printerresolutionkind/"

@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Caption"
 linktitle: "Caption"
 articleTitle: "Caption"
-second_title: "Aspose.PDF for .NET"
-description: "(Caption) A brief portion of text describing a table or figure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Caption) A brief portion of text describing a table or figure."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/caption/"

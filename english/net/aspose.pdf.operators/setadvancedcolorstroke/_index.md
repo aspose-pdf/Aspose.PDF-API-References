@@ -2,8 +2,8 @@
 title: "SetAdvancedColorStroke Class"
 linktitle: "SetAdvancedColorStroke"
 articleTitle: "SetAdvancedColorStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing SCN operator (set color for stroking operations)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetAdvancedColorStroke class. Class representing SCN operator (set color for stroking operations)."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.operators/setadvancedcolorstroke/"

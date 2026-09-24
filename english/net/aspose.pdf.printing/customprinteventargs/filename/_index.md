@@ -2,8 +2,8 @@
 title: "CustomPrintEventArgs.FileName"
 linktitle: "FileName"
 articleTitle: "FileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the name of the file that is being printed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CustomPrintEventArgs field. Gets the name of the file that is being printed."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/customprinteventargs/filename/"

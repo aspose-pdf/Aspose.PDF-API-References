@@ -2,8 +2,8 @@
 title: "PKCS1.PKCS1"
 linktitle: "PKCS1"
 articleTitle: "PKCS1"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PKCS1 class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PKCS1 constructor. Initializes a new instance of the PKCS1 class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/pkcs1/pkcs1/"

@@ -2,8 +2,8 @@
 title: "PdfXmlSaveOptions Class"
 linktitle: "PdfXmlSaveOptions"
 articleTitle: "PdfXmlSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Save options for PdfXml format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfXmlSaveOptions class. Save options for PdfXml format."
 type: docs
 weight: 2530
 url: "/net/aspose.pdf/pdfxmlsaveoptions/"

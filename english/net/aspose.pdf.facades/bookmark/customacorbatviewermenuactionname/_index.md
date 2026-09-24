@@ -2,8 +2,8 @@
 title: "Bookmark.CustomAcorbatViewerMenuActionName"
 linktitle: "CustomAcorbatViewerMenuActionName"
 articleTitle: "CustomAcorbatViewerMenuActionName"
-second_title: "Aspose.PDF for .NET"
-description: "The action name corresponding to execute a menu item in Acrobat viewer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Bookmark property. The action name corresponding to execute a menu item in Acrobat viewer."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/"

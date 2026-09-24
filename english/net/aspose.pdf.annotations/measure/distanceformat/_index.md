@@ -2,8 +2,8 @@
 title: "Measure.DistanceFormat"
 linktitle: "DistanceFormat"
 articleTitle: "DistanceFormat"
-second_title: "Aspose.PDF for .NET"
-description: "A number format array for measurement of distance in any direction."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. A number format array for measurement of distance in any direction."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/measure/distanceformat/"

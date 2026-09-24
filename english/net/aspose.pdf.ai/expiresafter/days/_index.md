@@ -2,8 +2,8 @@
 title: "ExpiresAfter.Days"
 linktitle: "Days"
 articleTitle: "Days"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of days after the anchor time that the vector store will expire."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExpiresAfter property. Gets or sets the number of days after the anchor time that the vector store will expire."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/expiresafter/days/"

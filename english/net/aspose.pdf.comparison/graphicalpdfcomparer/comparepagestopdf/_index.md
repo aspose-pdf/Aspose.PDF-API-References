@@ -2,8 +2,8 @@
 title: "GraphicalPdfComparer.ComparePagesToPdf"
 linktitle: "ComparePagesToPdf"
 articleTitle: "ComparePagesToPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Compares pages graphically. The comparison result is placed in a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer method. Compares pages graphically. The comparison result is placed in a PDF document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/"

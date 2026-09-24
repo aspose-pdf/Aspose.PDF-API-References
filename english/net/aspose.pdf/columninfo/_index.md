@@ -2,8 +2,8 @@
 title: "ColumnInfo Class"
 linktitle: "ColumnInfo"
 articleTitle: "ColumnInfo"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents a columns info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ColumnInfo class. This class represents a columns info."
 type: docs
 weight: 410
 url: "/net/aspose.pdf/columninfo/"

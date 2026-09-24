@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo Class"
 linktitle: "HtmlSaveOptions.HtmlPageMarkupSavingInfo"
 articleTitle: "HtmlSaveOptions.HtmlPageMarkupSavingInfo"
-second_title: "Aspose.PDF for .NET"
-description: "If SplitToPages property of HtmlSaveOptions, then several HTML-files (one HTML file per converted page) are created during conversion of PDF to HTML. This cl..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.HtmlPageMarkupSavingInfo class. If SplitToPages property of HtmlSaveOptions, then several HTML-files (one HTML file per converted ..."
 type: docs
 weight: 1300
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/"

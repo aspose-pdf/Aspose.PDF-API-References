@@ -2,8 +2,8 @@
 title: "GradientRadialShading.EndColor"
 linktitle: "EndColor"
 articleTitle: "EndColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets end color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GradientRadialShading property. Gets or sets end color."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.drawing/gradientradialshading/endcolor/"

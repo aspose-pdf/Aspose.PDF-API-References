@@ -2,8 +2,8 @@
 title: "PdfFileEditor.AllowConcatenateExceptions"
 linktitle: "AllowConcatenateExceptions"
 articleTitle: "AllowConcatenateExceptions"
-second_title: "Aspose.PDF for .NET"
-description: "If set to true, exceptions are thrown if error occured. Else excetion are not thrown and methods return false if failed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. If set to true, exceptions are thrown if error occured. Else excetion are not thrown and methods return false if failed."
 type: docs
 weight: 1130
 url: "/net/aspose.pdf.facades/pdffileeditor/allowconcatenateexceptions/"

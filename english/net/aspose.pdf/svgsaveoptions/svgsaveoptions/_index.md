@@ -2,8 +2,8 @@
 title: "SvgSaveOptions.SvgSaveOptions"
 linktitle: "SvgSaveOptions"
 articleTitle: "SvgSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SvgSaveOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgSaveOptions constructor. Initializes a new instance of the SvgSaveOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/svgsaveoptions/svgsaveoptions/"

@@ -2,8 +2,8 @@
 title: "PrintController.OnEndPage"
 linktitle: "OnEndPage"
 articleTitle: "OnEndPage"
-second_title: "Aspose.PDF for .NET"
-description: "Fires on page end printing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrintController method. Fires on page end printing."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/printcontroller/onendpage/"

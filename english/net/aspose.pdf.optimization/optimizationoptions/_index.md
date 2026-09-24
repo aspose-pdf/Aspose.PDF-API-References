@@ -2,8 +2,8 @@
 title: "OptimizationOptions Class"
 linktitle: "OptimizationOptions"
 articleTitle: "OptimizationOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources() method."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Optimization.OptimizationOptions class. Class which describes document optimization algorithm. Instance of this class may be used as parameter of ..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.optimization/optimizationoptions/"

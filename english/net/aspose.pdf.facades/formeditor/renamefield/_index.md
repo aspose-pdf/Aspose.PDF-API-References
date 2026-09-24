@@ -2,8 +2,8 @@
 title: "FormEditor.RenameField"
 linktitle: "RenameField"
 articleTitle: "RenameField"
-second_title: "Aspose.PDF for .NET"
-description: "Change name of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Change name of the field."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/formeditor/renamefield/"

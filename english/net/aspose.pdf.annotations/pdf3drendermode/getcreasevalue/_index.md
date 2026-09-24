@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.GetCreaseValue"
 linktitle: "GetCreaseValue"
 articleTitle: "GetCreaseValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the crease value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode method. Gets the crease value."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/"

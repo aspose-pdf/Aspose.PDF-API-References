@@ -2,8 +2,8 @@
 title: "IncorrectFontUsageException Class"
 linktitle: "IncorrectFontUsageException"
 articleTitle: "IncorrectFontUsageException"
-second_title: "Aspose.PDF for .NET"
-description: "The exception that is thrown when font usage is incorrect."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IncorrectFontUsageException class. The exception that is thrown when font usage is incorrect."
 type: docs
 weight: 1600
 url: "/net/aspose.pdf/incorrectfontusageexception/"

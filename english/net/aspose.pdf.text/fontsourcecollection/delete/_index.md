@@ -2,8 +2,8 @@
 title: "FontSourceCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes the font source element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSourceCollection method. Deletes the font source element."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/fontsourcecollection/delete/"

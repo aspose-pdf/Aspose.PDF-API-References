@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionField.XmpPdfAExtensionField"
 linktitle: "XmpPdfAExtensionField"
 articleTitle: "XmpPdfAExtensionField"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the XmpPdfAExtensionField class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionField constructor. Initializes a new instance of the XmpPdfAExtensionField class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/"

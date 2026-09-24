@@ -2,8 +2,8 @@
 title: "Metadata.Values"
 linktitle: "Values"
 articleTitle: "Values"
-second_title: "Aspose.PDF for .NET"
-description: "Gets values in the metadata."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Gets values in the metadata."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/metadata/values/"

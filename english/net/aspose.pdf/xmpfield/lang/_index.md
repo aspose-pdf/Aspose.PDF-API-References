@@ -2,8 +2,8 @@
 title: "XmpField.Lang"
 linktitle: "Lang"
 articleTitle: "Lang"
-second_title: "Aspose.PDF for .NET"
-description: "Gets xml:lang qualifier."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets xml:lang qualifier."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/xmpfield/lang/"

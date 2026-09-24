@@ -2,8 +2,8 @@
 title: "MessageContentBase.ImageUrl"
 linktitle: "ImageUrl"
 articleTitle: "ImageUrl"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an image URL in the content of a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MessageContentBase property. Gets or sets an image URL in the content of a message."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/messagecontentbase/imageurl/"

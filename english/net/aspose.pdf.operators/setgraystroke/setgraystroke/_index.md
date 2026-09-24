@@ -2,8 +2,8 @@
 title: "SetGrayStroke.SetGrayStroke"
 linktitle: "SetGrayStroke"
 articleTitle: "SetGrayStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetGrayStroke class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGrayStroke constructor. Initializes a new instance of the SetGrayStroke class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setgraystroke/setgraystroke/"

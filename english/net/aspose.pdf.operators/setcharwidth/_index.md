@@ -2,8 +2,8 @@
 title: "SetCharWidth Class"
 linktitle: "SetCharWidth"
 articleTitle: "SetCharWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing d0 operator (set glyph width)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetCharWidth class. Class representing d0 operator (set glyph width)."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.operators/setcharwidth/"

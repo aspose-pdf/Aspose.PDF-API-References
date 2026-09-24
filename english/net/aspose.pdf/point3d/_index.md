@@ -2,8 +2,8 @@
 title: "Point3D Class"
 linktitle: "Point3D"
 articleTitle: "Point3D"
-second_title: "Aspose.PDF for .NET"
-description: "Represent point with fractional coordinates."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Point3D class. Represent point with fractional coordinates."
 type: docs
 weight: 2560
 url: "/net/aspose.pdf/point3d/"

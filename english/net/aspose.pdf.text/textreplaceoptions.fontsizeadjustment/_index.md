@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.FontSizeAdjustment Enum"
 linktitle: "TextReplaceOptions.FontSizeAdjustment"
 articleTitle: "TextReplaceOptions.FontSizeAdjustment"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies a policy for how the font size of text should be adjusted to fit within a containing area."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextReplaceOptions.FontSizeAdjustment enum. Specifies a policy for how the font size of text should be adjusted to fit within a containing area."
 type: docs
 weight: 630
 url: "/net/aspose.pdf.text/textreplaceoptions.fontsizeadjustment/"

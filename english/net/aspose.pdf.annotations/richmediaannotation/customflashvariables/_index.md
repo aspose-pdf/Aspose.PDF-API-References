@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.CustomFlashVariables"
 linktitle: "CustomFlashVariables"
 articleTitle: "CustomFlashVariables"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets flash variables which passed to player."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation property. Sets or gets flash variables which passed to player."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/richmediaannotation/customflashvariables/"

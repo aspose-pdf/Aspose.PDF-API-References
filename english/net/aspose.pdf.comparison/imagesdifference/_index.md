@@ -2,8 +2,8 @@
 title: "ImagesDifference Class"
 linktitle: "ImagesDifference"
 articleTitle: "ImagesDifference"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the result class of comparing two PDF pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.ImagesDifference class. Represents the result class of comparing two PDF pages."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.comparison/imagesdifference/"

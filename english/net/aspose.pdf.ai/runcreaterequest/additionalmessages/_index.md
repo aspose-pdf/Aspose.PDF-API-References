@@ -2,8 +2,8 @@
 title: "RunCreateRequest.AdditionalMessages"
 linktitle: "AdditionalMessages"
 articleTitle: "AdditionalMessages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the additional messages to the thread before creating the run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunCreateRequest property. Gets or sets the additional messages to the thread before creating the run."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/runcreaterequest/additionalmessages/"

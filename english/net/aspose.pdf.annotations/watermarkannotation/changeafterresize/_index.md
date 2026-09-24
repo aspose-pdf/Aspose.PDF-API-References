@@ -2,8 +2,8 @@
 title: "WatermarkAnnotation.ChangeAfterResize"
 linktitle: "ChangeAfterResize"
 articleTitle: "ChangeAfterResize"
-second_title: "Aspose.PDF for .NET"
-description: "Overrides the definition in the base class with an empty body."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WatermarkAnnotation method. Overrides the definition in the base class with an empty body."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/watermarkannotation/changeafterresize/"

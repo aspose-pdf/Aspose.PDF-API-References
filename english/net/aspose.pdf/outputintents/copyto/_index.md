@@ -2,8 +2,8 @@
 title: "OutputIntents.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies the elements of the collection to the ,starting at the particular into the array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntents method. Copies the elements of the collection to the ,starting at the particular into the array."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/outputintents/copyto/"

@@ -2,8 +2,8 @@
 title: "OptimizationOptions.All"
 linktitle: "All"
 articleTitle: "All"
-second_title: "Aspose.PDF for .NET"
-description: "Creates optimization strategy will all options activated. Please note that activated only options which does not change any functionality of the document. I...."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizationOptions method. Creates optimization strategy will all options activated. Please note that activated only options which does not change any funct..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.optimization/optimizationoptions/all/"

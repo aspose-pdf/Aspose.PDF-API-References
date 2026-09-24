@@ -2,8 +2,8 @@
 title: "PdfContentEditor.DocumentWillPrint"
 linktitle: "DocumentWillPrint"
 articleTitle: "DocumentWillPrint"
-second_title: "Aspose.PDF for .NET"
-description: "A document event type. Excute a action before printing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor field. A document event type. Excute a action before printing."
 type: docs
 weight: 740
 url: "/net/aspose.pdf.facades/pdfcontenteditor/documentwillprint/"

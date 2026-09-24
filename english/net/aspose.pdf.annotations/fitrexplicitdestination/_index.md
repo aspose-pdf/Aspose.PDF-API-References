@@ -2,8 +2,8 @@
 title: "FitRExplicitDestination Class"
 linktitle: "FitRExplicitDestination"
 articleTitle: "FitRExplicitDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Represents explicit destination that displays the page with its contents magnified just enough to fit the rectangle specified by the coordinates left, bottom..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FitRExplicitDestination class. Represents explicit destination that displays the page with its contents magnified just enough to fit t..."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.annotations/fitrexplicitdestination/"

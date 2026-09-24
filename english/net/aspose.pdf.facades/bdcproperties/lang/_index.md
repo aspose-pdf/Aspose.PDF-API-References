@@ -2,8 +2,8 @@
 title: "BDCProperties.Lang"
 linktitle: "Lang"
 articleTitle: "Lang"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets Language value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BDCProperties property. Gets/sets Language value."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/bdcproperties/lang/"

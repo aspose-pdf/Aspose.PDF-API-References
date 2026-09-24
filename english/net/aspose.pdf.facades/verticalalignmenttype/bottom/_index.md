@@ -2,8 +2,8 @@
 title: "VerticalAlignmentType.Bottom"
 linktitle: "Bottom"
 articleTitle: "Bottom"
-second_title: "Aspose.PDF for .NET"
-description: "Bottom alignment type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VerticalAlignmentType field. Bottom alignment type."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/verticalalignmenttype/bottom/"

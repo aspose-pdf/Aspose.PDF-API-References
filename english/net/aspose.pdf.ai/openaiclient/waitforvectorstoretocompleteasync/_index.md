@@ -2,8 +2,8 @@
 title: "OpenAIClient.WaitForVectorStoreToCompleteAsync"
 linktitle: "WaitForVectorStoreToCompleteAsync"
 articleTitle: "WaitForVectorStoreToCompleteAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Waits for a specific vector store to complete asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Waits for a specific vector store to complete asynchronously."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/"

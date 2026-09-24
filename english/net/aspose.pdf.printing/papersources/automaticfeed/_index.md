@@ -2,8 +2,8 @@
 title: "PaperSources.AutomaticFeed"
 linktitle: "AutomaticFeed"
 articleTitle: "AutomaticFeed"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an automatic feed paper source."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents an automatic feed paper source."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/papersources/automaticfeed/"

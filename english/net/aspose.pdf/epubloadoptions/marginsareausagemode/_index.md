@@ -2,8 +2,8 @@
 title: "EpubLoadOptions.MarginsAreaUsageMode"
 linktitle: "MarginsAreaUsageMode"
 articleTitle: "MarginsAreaUsageMode"
-second_title: "Aspose.PDF for .NET"
-description: "Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EpubLoadOptions field. Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/epubloadoptions/marginsareausagemode/"

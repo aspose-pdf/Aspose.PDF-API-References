@@ -2,8 +2,8 @@
 title: "AbsorbedTable.RowList"
 linktitle: "RowList"
 articleTitle: "RowList"
-second_title: "Aspose.PDF for .NET"
-description: "Gets readonly IList containing rows of the table"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedTable property. Gets readonly IList containing rows of the table"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/absorbedtable/rowlist/"

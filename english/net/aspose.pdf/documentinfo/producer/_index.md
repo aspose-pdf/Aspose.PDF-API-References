@@ -2,8 +2,8 @@
 title: "DocumentInfo.Producer"
 linktitle: "Producer"
 articleTitle: "Producer"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the document producer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo property. Gets or sets the document producer."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/documentinfo/producer/"

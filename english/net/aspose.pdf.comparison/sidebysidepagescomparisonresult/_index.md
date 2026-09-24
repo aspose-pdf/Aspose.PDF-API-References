@@ -2,8 +2,8 @@
 title: "SideBySidePagesComparisonResult Class"
 linktitle: "SideBySidePagesComparisonResult"
 articleTitle: "SideBySidePagesComparisonResult"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the class of the result of a side-by-side comparison operation performed on two pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.SideBySidePagesComparisonResult class. Represents the class of the result of a side-by-side comparison operation performed on two pages."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/"

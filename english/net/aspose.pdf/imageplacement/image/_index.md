@@ -2,8 +2,8 @@
 title: "ImagePlacement.Image"
 linktitle: "Image"
 articleTitle: "Image"
-second_title: "Aspose.PDF for .NET"
-description: "Gets related XImage resource object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement property. Gets related XImage resource object."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/imageplacement/image/"

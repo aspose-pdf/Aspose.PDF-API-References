@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.TD"
 linktitle: "TD"
 articleTitle: "TD"
-second_title: "Aspose.PDF for .NET"
-description: "(Table data cell) A table cell containing data that is part of the table's content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Table data cell) A table cell containing data that is part of the table's content."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/td/"

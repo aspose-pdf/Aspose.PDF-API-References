@@ -2,8 +2,8 @@
 title: "PdfExtractor.ExtractTextMode"
 linktitle: "ExtractTextMode"
 articleTitle: "ExtractTextMode"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the mode for extract text's result."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Sets the mode for extract text's result."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdfextractor/extracttextmode/"

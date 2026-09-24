@@ -2,8 +2,8 @@
 title: "ThreadCreateRequest.ThreadCreateRequest"
 linktitle: "ThreadCreateRequest"
 articleTitle: "ThreadCreateRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ThreadCreateRequest class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadCreateRequest constructor. Initializes a new instance of the ThreadCreateRequest class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/threadcreaterequest/threadcreaterequest/"

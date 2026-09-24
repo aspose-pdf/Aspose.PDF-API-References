@@ -2,8 +2,8 @@
 title: "LoadOptions.LoadOptions"
 linktitle: "LoadOptions"
 articleTitle: "LoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the LoadOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LoadOptions constructor. Initializes a new instance of the LoadOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/loadoptions/loadoptions/"

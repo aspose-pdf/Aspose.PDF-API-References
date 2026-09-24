@@ -2,8 +2,8 @@
 title: "SubstitutionFontCategories Enum"
 linktitle: "SubstitutionFontCategories"
 articleTitle: "SubstitutionFontCategories"
-second_title: "Aspose.PDF for .NET"
-description: "Represents font categories that can be substituted."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.SubstitutionFontCategories enum. Represents font categories that can be substituted."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.text/substitutionfontcategories/"

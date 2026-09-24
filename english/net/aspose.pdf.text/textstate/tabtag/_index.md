@@ -2,8 +2,8 @@
 title: "TextState.TabTag"
 linktitle: "TabTag"
 articleTitle: "TabTag"
-second_title: "Aspose.PDF for .NET"
-description: "You can place this tag in text to declare tabulation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState property. You can place this tag in text to declare tabulation."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textstate/tabtag/"

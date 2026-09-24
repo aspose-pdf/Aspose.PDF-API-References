@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.CssUrlRequestInfo Class"
 linktitle: "HtmlSaveOptions.CssUrlRequestInfo"
 articleTitle: "HtmlSaveOptions.CssUrlRequestInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents set of data that related to request from converter to custom code aimed to get desirable URL (or URL template)of subject CSS"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.CssUrlRequestInfo class. Represents set of data that related to request from converter to custom code aimed to get desirable URL (..."
 type: docs
 weight: 1240
 url: "/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/"

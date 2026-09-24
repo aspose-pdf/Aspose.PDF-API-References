@@ -2,8 +2,8 @@
 title: "PolylineAnnotation Class"
 linktitle: "PolylineAnnotation"
 articleTitle: "PolylineAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents polyline annotation that is similar to polygon, except that the first and last vertex are not implicitly connected."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PolylineAnnotation class. Represents polyline annotation that is similar to polygon, except that the first and last vertex are not imp..."
 type: docs
 weight: 940
 url: "/net/aspose.pdf.annotations/polylineannotation/"

@@ -2,8 +2,8 @@
 title: "BaseParagraph.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clones this instance. Virtual method. Always return null."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseParagraph method. Clones this instance. Virtual method. Always return null."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/baseparagraph/clone/"

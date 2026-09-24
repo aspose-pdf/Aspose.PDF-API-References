@@ -2,8 +2,8 @@
 title: "PaperSizes.Prc32KBig"
 linktitle: "Prc32KBig"
 articleTitle: "Prc32KBig"
-second_title: "Aspose.PDF for .NET"
-description: "32K big paper (97 mm by 151 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. 32K big paper (97 mm by 151 mm)."
 type: docs
 weight: 930
 url: "/net/aspose.pdf.printing/papersizes/prc32kbig/"

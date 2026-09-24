@@ -2,8 +2,8 @@
 title: "PdfPageStamp.Put"
 linktitle: "Put"
 articleTitle: "Put"
-second_title: "Aspose.PDF for .NET"
-description: "Put stamp on the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageStamp method. Put stamp on the specified page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pdfpagestamp/put/"

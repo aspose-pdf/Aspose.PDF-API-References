@@ -2,8 +2,8 @@
 title: "RenditionAction.Rendition"
 linktitle: "Rendition"
 articleTitle: "Rendition"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rendition associated with the action."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenditionAction property. Gets or sets rendition associated with the action."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/renditionaction/rendition/"

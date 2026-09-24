@@ -2,8 +2,8 @@
 title: "FormFieldFacade.AlignTop"
 linktitle: "AlignTop"
 articleTitle: "AlignTop"
-second_title: "Aspose.PDF for .NET"
-description: "Defines vertical aglignment as top style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines vertical aglignment as top style."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.facades/formfieldfacade/aligntop/"

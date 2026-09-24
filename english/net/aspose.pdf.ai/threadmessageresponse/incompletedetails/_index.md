@@ -2,8 +2,8 @@
 title: "ThreadMessageResponse.IncompleteDetails"
 linktitle: "IncompleteDetails"
 articleTitle: "IncompleteDetails"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an incomplete message, details about why the message is incomplete."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageResponse property. Gets or sets an incomplete message, details about why the message is incomplete."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/threadmessageresponse/incompletedetails/"

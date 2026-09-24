@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateText"
 linktitle: "CreateText"
 articleTitle: "CreateText"
-second_title: "Aspose.PDF for .NET"
-description: "Creates text annotation in PDF document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates text annotation in PDF document"
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createtext/"

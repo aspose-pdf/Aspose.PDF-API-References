@@ -2,8 +2,8 @@
 title: "TableGenerator Class"
 linktitle: "TableGenerator"
 articleTitle: "TableGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Aspose.PDF TableGenerator plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TableGenerator class. Represents Aspose.PDF TableGenerator plugin."
 type: docs
 weight: 940
 url: "/net/aspose.pdf.lowcode/tablegenerator/"

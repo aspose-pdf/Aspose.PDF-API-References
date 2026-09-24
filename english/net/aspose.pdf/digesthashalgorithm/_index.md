@@ -2,8 +2,8 @@
 title: "DigestHashAlgorithm Enum"
 linktitle: "DigestHashAlgorithm"
 articleTitle: "DigestHashAlgorithm"
-second_title: "Aspose.PDF for .NET"
-description: "Represent type of algorithm that maps data to a \"hash\""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DigestHashAlgorithm enum. Represent type of algorithm that maps data to a \"hash\""
 type: docs
 weight: 550
 url: "/net/aspose.pdf/digesthashalgorithm/"

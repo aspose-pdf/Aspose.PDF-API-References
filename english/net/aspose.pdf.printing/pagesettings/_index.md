@@ -2,8 +2,8 @@
 title: "PageSettings Class"
 linktitle: "PageSettings"
 articleTitle: "PageSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies settings that apply to a single, printed page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PageSettings class. Specifies settings that apply to a single, printed page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/pagesettings/"

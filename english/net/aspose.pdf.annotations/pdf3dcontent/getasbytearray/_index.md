@@ -2,8 +2,8 @@
 title: "PDF3DContent.GetAsByteArray"
 linktitle: "GetAsByteArray"
 articleTitle: "GetAsByteArray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets 3D content as byte array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent method. Gets 3D content as byte array."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/pdf3dcontent/getasbytearray/"

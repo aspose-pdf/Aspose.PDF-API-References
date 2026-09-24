@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.CssUrlMakingStrategy Delegate"
 linktitle: "HtmlSaveOptions.CssUrlMakingStrategy"
 articleTitle: "HtmlSaveOptions.CssUrlMakingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "You can assign to this property delegate created from custom method that implements creation of URL of CSS referenced in generated HTML document. F.e. if You..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.CssUrlMakingStrategy delegate. You can assign to this property delegate created from custom method that implements creation of URL..."
 type: docs
 weight: 1230
 url: "/net/aspose.pdf/htmlsaveoptions.cssurlmakingstrategy/"

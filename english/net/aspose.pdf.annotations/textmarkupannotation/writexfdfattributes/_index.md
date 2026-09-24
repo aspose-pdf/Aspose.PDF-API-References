@@ -2,8 +2,8 @@
 title: "TextMarkupAnnotation.WriteXfdfAttributes"
 linktitle: "WriteXfdfAttributes"
 articleTitle: "WriteXfdfAttributes"
-second_title: "Aspose.PDF for .NET"
-description: "When overridden in a derived class, exports annotation attributes into XFDF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextMarkupAnnotation method. When overridden in a derived class, exports annotation attributes into XFDF."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/textmarkupannotation/writexfdfattributes/"

@@ -2,8 +2,8 @@
 title: "FitExplicitDestination.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the object state into string value. Example: \"1 Fit\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitExplicitDestination method. Converts the object state into string value. Example: \"1 Fit\"."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/fitexplicitdestination/tostring/"

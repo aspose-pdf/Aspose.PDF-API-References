@@ -2,8 +2,8 @@
 title: "TimestampOptions.SigContact"
 linktitle: "SigContact"
 articleTitle: "SigContact"
-second_title: "Aspose.PDF for .NET"
-description: "Contact information for the signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampOptions property. Contact information for the signature."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.lowcode/timestampoptions/sigcontact/"

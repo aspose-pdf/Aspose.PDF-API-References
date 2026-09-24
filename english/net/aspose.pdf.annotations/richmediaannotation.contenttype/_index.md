@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.ContentType Enum"
 linktitle: "RichMediaAnnotation.ContentType"
 articleTitle: "RichMediaAnnotation.ContentType"
-second_title: "Aspose.PDF for .NET"
-description: "Type of the multimedia."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RichMediaAnnotation.ContentType enum. Type of the multimedia."
 type: docs
 weight: 1120
 url: "/net/aspose.pdf.annotations/richmediaannotation.contenttype/"

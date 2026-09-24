@@ -2,8 +2,8 @@
 title: "Form.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds field on the form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Adds field on the form."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/form/add/"

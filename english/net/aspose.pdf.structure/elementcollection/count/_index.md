@@ -2,8 +2,8 @@
 title: "ElementCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Count of elements."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ElementCollection property. Count of elements."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.structure/elementcollection/count/"

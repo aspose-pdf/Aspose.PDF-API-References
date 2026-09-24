@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilot Class"
 linktitle: "LlamaSummaryCopilot"
 articleTitle: "LlamaSummaryCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Provides functionality for getting document summaries using AI models. Example usage of creating an Llama client, configuring options, and using the summary ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.LlamaSummaryCopilot class. Provides functionality for getting document summaries using AI models. Example usage of creating an Llama client, co..."
 type: docs
 weight: 790
 url: "/net/aspose.pdf.ai/llamasummarycopilot/"

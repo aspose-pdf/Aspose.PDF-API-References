@@ -2,8 +2,8 @@
 title: "TableRowCollectionElement Class"
 linktitle: "TableRowCollectionElement"
 articleTitle: "TableRowCollectionElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class for children elements of the Table Head, Body and Foot in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.TableRowCollectionElement class. Represents a base class for children elements of the Table Head, Body and Foot in logical struct..."
 type: docs
 weight: 650
 url: "/net/aspose.pdf.logicalstructure/tablerowcollectionelement/"

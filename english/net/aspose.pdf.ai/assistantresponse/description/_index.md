@@ -2,8 +2,8 @@
 title: "AssistantResponse.Description"
 linktitle: "Description"
 articleTitle: "Description"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the description of the assistant. The maximum length is 512 characters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantResponse property. Gets or sets the description of the assistant. The maximum length is 512 characters."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/assistantresponse/description/"

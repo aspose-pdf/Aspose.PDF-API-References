@@ -2,8 +2,8 @@
 title: "XmpField Class"
 linktitle: "XmpField"
 articleTitle: "XmpField"
-second_title: "Aspose.PDF for .NET"
-description: "Represents XMP field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmpField class. Represents XMP field."
 type: docs
 weight: 3260
 url: "/net/aspose.pdf/xmpfield/"

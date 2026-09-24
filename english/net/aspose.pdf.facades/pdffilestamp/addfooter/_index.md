@@ -2,8 +2,8 @@
 title: "PdfFileStamp.AddFooter"
 linktitle: "AddFooter"
 articleTitle: "AddFooter"
-second_title: "Aspose.PDF for .NET"
-description: "Adds footer to the pages of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Adds footer to the pages of the document."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdffilestamp/addfooter/"

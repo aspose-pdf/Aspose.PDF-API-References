@@ -2,8 +2,8 @@
 title: "SideBySideComparisonOptions Class"
 linktitle: "SideBySideComparisonOptions"
 articleTitle: "SideBySideComparisonOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an options class for comparing documents with side-by-side output."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.SideBySideComparisonOptions class. Represents an options class for comparing documents with side-by-side output."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/"

@@ -2,8 +2,8 @@
 title: "WatermarkAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Apply visitor for annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WatermarkAnnotation method. Apply visitor for annotation."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/watermarkannotation/accept/"

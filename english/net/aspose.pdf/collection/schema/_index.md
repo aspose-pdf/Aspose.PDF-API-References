@@ -2,8 +2,8 @@
 title: "Collection.Schema"
 linktitle: "Schema"
 articleTitle: "Schema"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a \"Schema\" of a document collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Collection property. Gets a \"Schema\" of a document collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/collection/schema/"

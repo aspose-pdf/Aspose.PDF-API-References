@@ -2,8 +2,8 @@
 title: "Matrix.Transform"
 linktitle: "Transform"
 articleTitle: "Transform"
-second_title: "Aspose.PDF for .NET"
-description: "Transforms point using this matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Transforms point using this matrix."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/matrix/transform/"

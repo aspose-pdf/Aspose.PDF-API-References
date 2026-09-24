@@ -2,8 +2,8 @@
 title: "TeXMemoryOutputDirectory.TeXMemoryOutputDirectory"
 linktitle: "TeXMemoryOutputDirectory"
 articleTitle: "TeXMemoryOutputDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TeXMemoryOutputDirectory class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXMemoryOutputDirectory constructor. Initializes a new instance of the TeXMemoryOutputDirectory class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/"

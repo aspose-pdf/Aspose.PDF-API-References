@@ -2,8 +2,8 @@
 title: "PdfFileEditor.Concatenate"
 linktitle: "Concatenate"
 articleTitle: "Concatenate"
-second_title: "Aspose.PDF for .NET"
-description: "Concatenates two files."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Concatenates two files."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdffileeditor/concatenate/"

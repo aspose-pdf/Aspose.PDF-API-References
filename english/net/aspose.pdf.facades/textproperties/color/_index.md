@@ -2,8 +2,8 @@
 title: "TextProperties.Color"
 linktitle: "Color"
 articleTitle: "Color"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextProperties property. Gets or sets text color."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/textproperties/color/"

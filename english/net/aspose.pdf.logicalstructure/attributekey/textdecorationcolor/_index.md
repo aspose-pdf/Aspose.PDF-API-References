@@ -2,8 +2,8 @@
 title: "AttributeKey.TextDecorationColor"
 linktitle: "TextDecorationColor"
 articleTitle: "TextDecorationColor"
-second_title: "Aspose.PDF for .NET"
-description: "TextDecorationColor attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TextDecorationColor attribute (Layout attribute owner)."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.logicalstructure/attributekey/textdecorationcolor/"

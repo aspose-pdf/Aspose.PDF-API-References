@@ -2,8 +2,8 @@
 title: "LineAnnotation.CaptionPosition"
 linktitle: "CaptionPosition"
 articleTitle: "CaptionPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets annotation caption position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets annotation caption position."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/lineannotation/captionposition/"

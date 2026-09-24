@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.Red"
 linktitle: "Red"
 articleTitle: "Red"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Red\" lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Red\" lighting scheme."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/red/"

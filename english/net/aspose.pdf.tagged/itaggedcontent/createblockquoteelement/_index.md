@@ -2,8 +2,8 @@
 title: "ITaggedContent.CreateBlockQuoteElement"
 linktitle: "CreateBlockQuoteElement"
 articleTitle: "CreateBlockQuoteElement"
-second_title: "Aspose.PDF for .NET"
-description: "Creates ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/"

@@ -2,8 +2,8 @@
 title: "Splitter Class"
 linktitle: "Splitter"
 articleTitle: "Splitter"
-second_title: "Aspose.PDF for .NET"
-description: "Represents plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Splitter class. Represents plugin."
 type: docs
 weight: 870
 url: "/net/aspose.pdf.lowcode/splitter/"

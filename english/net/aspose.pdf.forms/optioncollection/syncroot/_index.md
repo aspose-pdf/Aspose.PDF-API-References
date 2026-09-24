@@ -2,8 +2,8 @@
 title: "OptionCollection.SyncRoot"
 linktitle: "SyncRoot"
 articleTitle: "SyncRoot"
-second_title: "Aspose.PDF for .NET"
-description: "Synchronization object of the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection property. Synchronization object of the collection."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/optioncollection/syncroot/"

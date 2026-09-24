@@ -2,8 +2,8 @@
 title: "InkAnnotation.CapStyle"
 linktitle: "CapStyle"
 articleTitle: "CapStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Style of ink annotation line endings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InkAnnotation property. Style of ink annotation line endings."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/inkannotation/capstyle/"

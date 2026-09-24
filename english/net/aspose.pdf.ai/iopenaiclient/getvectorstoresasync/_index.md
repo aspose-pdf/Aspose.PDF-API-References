@@ -2,8 +2,8 @@
 title: "IOpenAIClient.GetVectorStoresAsync"
 linktitle: "GetVectorStoresAsync"
 articleTitle: "GetVectorStoresAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves a list of vector stores asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves a list of vector stores asynchronously."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.ai/iopenaiclient/getvectorstoresasync/"

@@ -2,8 +2,8 @@
 title: "Embedding.Embedding"
 linktitle: "Embedding"
 articleTitle: "Embedding"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Embedding class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Embedding constructor. Initializes a new instance of the Embedding class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/embedding/embedding/"

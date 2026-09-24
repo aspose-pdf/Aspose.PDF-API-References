@@ -2,8 +2,8 @@
 title: "AttributeKey.TextDecorationThickness"
 linktitle: "TextDecorationThickness"
 articleTitle: "TextDecorationThickness"
-second_title: "Aspose.PDF for .NET"
-description: "TextDecorationThickness attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TextDecorationThickness attribute (Layout attribute owner)."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.logicalstructure/attributekey/textdecorationthickness/"

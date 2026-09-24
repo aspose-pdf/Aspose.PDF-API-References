@@ -2,8 +2,8 @@
 title: "PageCollection.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Clear page collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Clear page collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagecollection/clear/"

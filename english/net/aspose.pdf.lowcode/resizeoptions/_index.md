@@ -2,8 +2,8 @@
 title: "ResizeOptions Class"
 linktitle: "ResizeOptions"
 articleTitle: "ResizeOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Resize options for plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.ResizeOptions class. Represents Resize options for plugin."
 type: docs
 weight: 780
 url: "/net/aspose.pdf.lowcode/resizeoptions/"

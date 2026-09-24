@@ -2,8 +2,8 @@
 title: "ResponseFormat Class"
 linktitle: "ResponseFormat"
 articleTitle: "ResponseFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the format of a response, which can be either a string value or an object value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ResponseFormat class. Represents the format of a response, which can be either a string value or an object value."
 type: docs
 weight: 1040
 url: "/net/aspose.pdf.ai/responseformat/"

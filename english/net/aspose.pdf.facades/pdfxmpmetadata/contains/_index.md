@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if dictionary contains the specified key."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Checks if dictionary contains the specified key."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/contains/"

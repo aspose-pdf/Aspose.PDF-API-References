@@ -2,8 +2,8 @@
 title: "CollectionField Class"
 linktitle: "CollectionField"
 articleTitle: "CollectionField"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a document collection schema field class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CollectionField class. Represents a document collection schema field class."
 type: docs
 weight: 320
 url: "/net/aspose.pdf/collectionfield/"

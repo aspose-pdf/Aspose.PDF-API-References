@@ -2,8 +2,8 @@
 title: "Rectangle.Parse"
 linktitle: "Parse"
 articleTitle: "Parse"
-second_title: "Aspose.PDF for .NET"
-description: "Try to parse string and extract from it rectangle components llx, lly, urx, ury."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Try to parse string and extract from it rectangle components llx, lly, urx, ury."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/rectangle/parse/"

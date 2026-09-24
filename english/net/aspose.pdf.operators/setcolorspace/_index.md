@@ -2,8 +2,8 @@
 title: "SetColorSpace Class"
 linktitle: "SetColorSpace"
 articleTitle: "SetColorSpace"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing cs operator (set colorspace for non-stroking operations)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetColorSpace class. Class representing cs operator (set colorspace for non-stroking operations)"
 type: docs
 weight: 580
 url: "/net/aspose.pdf.operators/setcolorspace/"

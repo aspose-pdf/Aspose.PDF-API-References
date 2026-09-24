@@ -2,8 +2,8 @@
 title: "MdLoadOptions Class"
 linktitle: "MdLoadOptions"
 articleTitle: "MdLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Load options for Markdown format conversion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.MdLoadOptions class. Load options for Markdown format conversion."
 type: docs
 weight: 1890
 url: "/net/aspose.pdf/mdloadoptions/"

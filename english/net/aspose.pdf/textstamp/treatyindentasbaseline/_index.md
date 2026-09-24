@@ -2,8 +2,8 @@
 title: "TextStamp.TreatYIndentAsBaseLine"
 linktitle: "TreatYIndentAsBaseLine"
 articleTitle: "TreatYIndentAsBaseLine"
-second_title: "Aspose.PDF for .NET"
-description: "Defines coordinate origin for placing text. If TreatYIndentAsBaseLine = true (default when Draw = true) YIndent value will be treated as text base line. If T..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp property. Defines coordinate origin for placing text. If TreatYIndentAsBaseLine = true (default when Draw = true) YIndent value will be treated as ..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/textstamp/treatyindentasbaseline/"

@@ -2,8 +2,8 @@
 title: "OutputIntent.RegistryName"
 linktitle: "RegistryName"
 articleTitle: "RegistryName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a text that identifies the registry in which the condition designated by is defined."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntent property. Gets or sets a text that identifies the registry in which the condition designated by is defined."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/outputintent/registryname/"

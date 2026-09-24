@@ -2,8 +2,8 @@
 title: "PdfASymbolicFontEncodingStrategy Class"
 linktitle: "PdfASymbolicFontEncodingStrategy"
 articleTitle: "PdfASymbolicFontEncodingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "This class describes rules which can be used to tune process of copying encoding data for cases when TrueType symbolic font has more than one encoding. Some ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfASymbolicFontEncodingStrategy class. This class describes rules which can be used to tune process of copying encoding data for cases when TrueT..."
 type: docs
 weight: 2400
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/"

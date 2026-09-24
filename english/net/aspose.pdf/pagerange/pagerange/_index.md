@@ -2,8 +2,8 @@
 title: "PageRange.PageRange"
 linktitle: "PageRange"
 articleTitle: "PageRange"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PageRange class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageRange constructor. Initializes a new instance of the PageRange class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagerange/pagerange/"

@@ -2,8 +2,8 @@
 title: "XmpValue.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation of XmpValue."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Returns string representation of XmpValue."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/xmpvalue/tostring/"

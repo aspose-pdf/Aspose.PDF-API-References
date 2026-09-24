@@ -2,8 +2,8 @@
 title: "TextExtractionErrorLocation.OperatorString"
 linktitle: "OperatorString"
 articleTitle: "OperatorString"
-second_title: "Aspose.PDF for .NET"
-description: "Text showing operator that causes text extraction error."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionErrorLocation property. Text showing operator that causes text extraction error."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textextractionerrorlocation/operatorstring/"

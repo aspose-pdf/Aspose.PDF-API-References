@@ -2,8 +2,8 @@
 title: "LevelFormat.LineDash"
 linktitle: "LineDash"
 articleTitle: "LineDash"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets TOC line dash."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LevelFormat property. Gets or sets TOC line dash."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/levelformat/linedash/"

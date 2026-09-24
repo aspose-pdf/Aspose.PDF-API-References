@@ -2,8 +2,8 @@
 title: "TableAbsorber.TableList"
 linktitle: "TableList"
 articleTitle: "TableList"
-second_title: "Aspose.PDF for .NET"
-description: "Returns readonly IList containing tables that were found"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber property. Returns readonly IList containing tables that were found"
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/tableabsorber/tablelist/"

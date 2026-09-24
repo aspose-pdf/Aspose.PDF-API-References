@@ -2,8 +2,8 @@
 title: "DocumentFactory.CreateDocument"
 linktitle: "CreateDocument"
 articleTitle: "CreateDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Create document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentFactory method. Create document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/documentfactory/createdocument/"

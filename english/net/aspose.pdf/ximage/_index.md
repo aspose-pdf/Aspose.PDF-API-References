@@ -2,8 +2,8 @@
 title: "XImage Class"
 linktitle: "XImage"
 articleTitle: "XImage"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing image X-Object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XImage class. Class representing image X-Object."
 type: docs
 weight: 3210
 url: "/net/aspose.pdf/ximage/"

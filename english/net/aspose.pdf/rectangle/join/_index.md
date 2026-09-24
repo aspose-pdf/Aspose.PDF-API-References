@@ -2,8 +2,8 @@
 title: "Rectangle.Join"
 linktitle: "Join"
 articleTitle: "Join"
-second_title: "Aspose.PDF for .NET"
-description: "Joins rectangles."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Joins rectangles."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/rectangle/join/"

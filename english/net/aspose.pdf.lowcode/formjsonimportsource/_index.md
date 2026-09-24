@@ -2,8 +2,8 @@
 title: "FormJsonImportSource Class"
 linktitle: "FormJsonImportSource"
 articleTitle: "FormJsonImportSource"
-second_title: "Aspose.PDF for .NET"
-description: "Holds a pair of data sources that belong together for an import operation: the source PDF document and the JSON file that contains the field values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormJsonImportSource class. Holds a pair of data sources that belong together for an import operation: the source PDF document and the JSO..."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.lowcode/formjsonimportsource/"

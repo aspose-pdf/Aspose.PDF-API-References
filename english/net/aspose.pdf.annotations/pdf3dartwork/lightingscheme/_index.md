@@ -2,8 +2,8 @@
 title: "PDF3DArtwork.LightingScheme"
 linktitle: "LightingScheme"
 articleTitle: "LightingScheme"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DArtwork property. Gets or sets the lighting scheme."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dartwork/lightingscheme/"

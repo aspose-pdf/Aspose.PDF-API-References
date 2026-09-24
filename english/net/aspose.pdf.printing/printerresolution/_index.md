@@ -2,8 +2,8 @@
 title: "PrinterResolution Class"
 linktitle: "PrinterResolution"
 articleTitle: "PrinterResolution"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the resolution supported by a printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PrinterResolution class. Represents the resolution supported by a printer."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.printing/printerresolution/"

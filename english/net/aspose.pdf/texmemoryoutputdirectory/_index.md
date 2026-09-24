@@ -2,8 +2,8 @@
 title: "TeXMemoryOutputDirectory Class"
 linktitle: "TeXMemoryOutputDirectory"
 articleTitle: "TeXMemoryOutputDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Implements fetching an output stream from memory. You can use it, for example, when you don't want the accompanying output (like a log file) to be written to..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TeXMemoryOutputDirectory class. Implements fetching an output stream from memory. You can use it, for example, when you don't want the accompanyin..."
 type: docs
 weight: 3010
 url: "/net/aspose.pdf/texmemoryoutputdirectory/"

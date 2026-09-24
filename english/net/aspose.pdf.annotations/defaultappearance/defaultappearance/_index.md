@@ -2,8 +2,8 @@
 title: "DefaultAppearance.DefaultAppearance"
 linktitle: "DefaultAppearance"
 articleTitle: "DefaultAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DefaultAppearance class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DefaultAppearance constructor. Initializes a new instance of the DefaultAppearance class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/defaultappearance/defaultappearance/"

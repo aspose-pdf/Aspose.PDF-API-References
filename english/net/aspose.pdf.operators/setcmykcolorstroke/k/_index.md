@@ -2,8 +2,8 @@
 title: "SetCMYKColorStroke.K"
 linktitle: "K"
 articleTitle: "K"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the black component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCMYKColorStroke property. Gets or sets the black component."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/k/"

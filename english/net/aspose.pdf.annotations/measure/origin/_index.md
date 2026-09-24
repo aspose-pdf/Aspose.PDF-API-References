@@ -2,8 +2,8 @@
 title: "Measure.Origin"
 linktitle: "Origin"
 articleTitle: "Origin"
-second_title: "Aspose.PDF for .NET"
-description: "Point that shall specify the origin of the measurement coordinate system in default user space coordinates."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. Point that shall specify the origin of the measurement coordinate system in default user space coordinates."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/measure/origin/"

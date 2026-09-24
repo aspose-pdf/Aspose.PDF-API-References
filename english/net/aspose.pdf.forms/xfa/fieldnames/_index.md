@@ -2,8 +2,8 @@
 title: "XFA.FieldNames"
 linktitle: "FieldNames"
 articleTitle: "FieldNames"
-second_title: "Aspose.PDF for .NET"
-description: "List of field names in the form template."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA property. List of field names in the form template."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/xfa/fieldnames/"

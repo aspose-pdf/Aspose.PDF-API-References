@@ -2,8 +2,8 @@
 title: "LoadOptions.WarningHandler"
 linktitle: "WarningHandler"
 articleTitle: "WarningHandler"
-second_title: "Aspose.PDF for .NET"
-description: "Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default act..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LoadOptions property. Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Conti..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/loadoptions/warninghandler/"

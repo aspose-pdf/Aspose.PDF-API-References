@@ -2,8 +2,8 @@
 title: "Form.FormImportResult Class"
 linktitle: "Form.FormImportResult"
 articleTitle: "Form.FormImportResult"
-second_title: "Aspose.PDF for .NET"
-description: "Class which describes result if field import."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.Form.FormImportResult class. Class which describes result if field import."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/form.formimportresult/"

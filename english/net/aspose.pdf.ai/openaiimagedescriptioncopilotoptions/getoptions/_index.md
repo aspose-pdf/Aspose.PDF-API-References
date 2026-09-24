@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilotOptions.GetOptions"
 linktitle: "GetOptions"
 articleTitle: "GetOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the current ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Gets the current ."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/getoptions/"

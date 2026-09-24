@@ -2,8 +2,8 @@
 title: "CryptographicStandard Enum"
 linktitle: "CryptographicStandard"
 articleTitle: "CryptographicStandard"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the available cryptographic standards for securing PDF documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.CryptographicStandard enum. Represents the available cryptographic standards for securing PDF documents."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/cryptographicstandard/"

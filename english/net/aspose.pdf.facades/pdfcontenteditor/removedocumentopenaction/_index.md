@@ -2,8 +2,8 @@
 title: "PdfContentEditor.RemoveDocumentOpenAction"
 linktitle: "RemoveDocumentOpenAction"
 articleTitle: "RemoveDocumentOpenAction"
-second_title: "Aspose.PDF for .NET"
-description: "Removes open action from the document. This operation is useful when concatenating multiple documents that use explicit 'GoTo' action on startup."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Removes open action from the document. This operation is useful when concatenating multiple documents that use explicit 'GoTo' actio..."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction/"

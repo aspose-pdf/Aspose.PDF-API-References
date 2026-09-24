@@ -2,8 +2,8 @@
 title: "BoundsCheckableList<T>.BoundsCheckableList<T>"
 linktitle: "BoundsCheckableList<T>"
 articleTitle: "BoundsCheckableList<T>"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BoundsCheckableList class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList constructor. Initializes a new instance of the BoundsCheckableList class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/"

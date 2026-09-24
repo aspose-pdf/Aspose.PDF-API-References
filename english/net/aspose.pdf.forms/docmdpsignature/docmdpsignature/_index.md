@@ -2,8 +2,8 @@
 title: "DocMDPSignature.DocMDPSignature"
 linktitle: "DocMDPSignature"
 articleTitle: "DocMDPSignature"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DocMDPSignature class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocMDPSignature constructor. Initializes a new instance of the DocMDPSignature class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/"

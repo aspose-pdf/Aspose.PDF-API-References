@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync"
 linktitle: "AddPdfImageDescriptionsAsync"
 articleTitle: "AddPdfImageDescriptionsAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously adds image descriptions to a PDF file and saves new documents to a specified folders."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotExtensions method. Asynchronously adds image descriptions to a PDF file and saves new documents to a specified folders."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/"

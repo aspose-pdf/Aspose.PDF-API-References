@@ -2,8 +2,8 @@
 title: "TextEditOptions.NoCharacterAction Enum"
 linktitle: "TextEditOptions.NoCharacterAction"
 articleTitle: "TextEditOptions.NoCharacterAction"
-second_title: "Aspose.PDF for .NET"
-description: "Action to perform if font does not contain required character"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextEditOptions.NoCharacterAction enum. Action to perform if font does not contain required character"
 type: docs
 weight: 470
 url: "/net/aspose.pdf.text/texteditoptions.nocharacteraction/"

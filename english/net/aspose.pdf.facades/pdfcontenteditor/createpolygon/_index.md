@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreatePolygon"
 linktitle: "CreatePolygon"
 articleTitle: "CreatePolygon"
-second_title: "Aspose.PDF for .NET"
-description: "Creates polygon annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates polygon annotation."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/"

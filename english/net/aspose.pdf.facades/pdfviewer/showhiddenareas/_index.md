@@ -2,8 +2,8 @@
 title: "PdfViewer.ShowHiddenAreas"
 linktitle: "ShowHiddenAreas"
 articleTitle: "ShowHiddenAreas"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets flag that controls visibility of hidden areas on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets or sets flag that controls visibility of hidden areas on the page."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdfviewer/showhiddenareas/"

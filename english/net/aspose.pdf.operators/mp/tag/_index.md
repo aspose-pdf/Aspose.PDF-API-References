@@ -2,8 +2,8 @@
 title: "MP.Tag"
 linktitle: "Tag"
 articleTitle: "Tag"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets marked content tag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MP property. Gets or sets marked content tag"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/mp/tag/"

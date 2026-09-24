@@ -2,8 +2,8 @@
 title: "AttributeName.Role_tv"
 linktitle: "Role_tv"
 articleTitle: "Role_tv"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Role: tv - Text-value field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Role: tv - Text-value field."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.logicalstructure/attributename/role_tv/"

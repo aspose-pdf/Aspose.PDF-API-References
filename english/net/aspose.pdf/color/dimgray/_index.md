@@ -2,8 +2,8 @@
 title: "Color.DimGray"
 linktitle: "DimGray"
 articleTitle: "DimGray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FF696969."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FF696969."
 type: docs
 weight: 590
 url: "/net/aspose.pdf/color/dimgray/"

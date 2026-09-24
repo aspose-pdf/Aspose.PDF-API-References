@@ -2,8 +2,8 @@
 title: "ConcatenateMatrix Class"
 linktitle: "ConcatenateMatrix"
 articleTitle: "ConcatenateMatrix"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing cm operator (concatenate matrix to current transformation matrix)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.ConcatenateMatrix class. Class representing cm operator (concatenate matrix to current transformation matrix)."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.operators/concatenatematrix/"

@@ -2,8 +2,8 @@
 title: "RedactionAnnotation.FontSize"
 linktitle: "FontSize"
 articleTitle: "FontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets font size for OverlayText."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RedactionAnnotation property. Gets or sets font size for OverlayText."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/redactionannotation/fontsize/"

@@ -2,8 +2,8 @@
 title: "TocInfo Class"
 linktitle: "TocInfo"
 articleTitle: "TocInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents table of contents info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TocInfo class. Represents table of contents info."
 type: docs
 weight: 3070
 url: "/net/aspose.pdf/tocinfo/"

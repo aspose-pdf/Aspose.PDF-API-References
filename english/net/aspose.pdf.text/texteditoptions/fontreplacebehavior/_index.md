@@ -2,8 +2,8 @@
 title: "TextEditOptions.FontReplaceBehavior"
 linktitle: "FontReplaceBehavior"
 articleTitle: "FontReplaceBehavior"
-second_title: "Aspose.PDF for .NET"
-description: "Gets mode that defines behavior for fonts replacement scenarios."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextEditOptions property. Gets mode that defines behavior for fonts replacement scenarios."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/texteditoptions/fontreplacebehavior/"

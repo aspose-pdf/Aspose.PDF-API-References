@@ -2,8 +2,8 @@
 title: "Document.ProcessParagraphs"
 linktitle: "ProcessParagraphs"
 articleTitle: "ProcessParagraphs"
-second_title: "Aspose.PDF for .NET"
-description: "Process paragraphs for generator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Process paragraphs for generator."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/document/processparagraphs/"

@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Formula"
 linktitle: "Formula"
 articleTitle: "Formula"
-second_title: "Aspose.PDF for .NET"
-description: "(Formula) A mathematical formula. This structure type is useful only for identifying an entire content element as a formula. No standard structure types are ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Formula) A mathematical formula. This structure type is useful only for identifying an entire content element as a formula. No ..."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/formula/"

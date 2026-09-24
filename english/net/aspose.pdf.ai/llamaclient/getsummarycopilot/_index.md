@@ -2,8 +2,8 @@
 title: "LlamaClient.GetSummaryCopilot"
 linktitle: "GetSummaryCopilot"
 articleTitle: "GetSummaryCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an instance of with the specified options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaClient method. Gets an instance of with the specified options."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/llamaclient/getsummarycopilot/"

@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.DigitalSignedLabel"
 linktitle: "DigitalSignedLabel"
 articleTitle: "DigitalSignedLabel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets digital signed label. Default value: \"Digitally signed by\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets digital signed label. Default value: \"Digitally signed by\"."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/"

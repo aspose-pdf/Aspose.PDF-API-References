@@ -2,8 +2,8 @@
 title: "RunResponse.AssistantId"
 linktitle: "AssistantId"
 articleTitle: "AssistantId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ID of the assistant used for execution of this run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the ID of the assistant used for execution of this run."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/runresponse/assistantid/"

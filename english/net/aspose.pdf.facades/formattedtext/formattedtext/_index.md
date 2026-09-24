@@ -2,8 +2,8 @@
 title: "FormattedText.FormattedText"
 linktitle: "FormattedText"
 articleTitle: "FormattedText"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormattedText class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedText constructor. Initializes a new instance of the FormattedText class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/formattedtext/formattedtext/"

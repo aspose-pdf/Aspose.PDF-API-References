@@ -2,8 +2,8 @@
 title: "TableCellElement.VerticalAlignment"
 linktitle: "VerticalAlignment"
 articleTitle: "VerticalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the vertical alignment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellElement property. Gets or sets the vertical alignment."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/verticalalignment/"

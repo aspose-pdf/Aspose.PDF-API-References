@@ -2,8 +2,8 @@
 title: "ButtonField.NormalIcon"
 linktitle: "NormalIcon"
 articleTitle: "NormalIcon"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets normal icon of the button which shall be displayed when it is not interacting with the user."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ButtonField property. Gets or sets normal icon of the button which shall be displayed when it is not interacting with the user."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/buttonfield/normalicon/"

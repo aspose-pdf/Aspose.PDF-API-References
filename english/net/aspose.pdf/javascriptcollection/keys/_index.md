@@ -2,8 +2,8 @@
 title: "JavaScriptCollection.Keys"
 linktitle: "Keys"
 articleTitle: "Keys"
-second_title: "Aspose.PDF for .NET"
-description: "List of keys in JavaScript collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JavaScriptCollection property. List of keys in JavaScript collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/javascriptcollection/keys/"

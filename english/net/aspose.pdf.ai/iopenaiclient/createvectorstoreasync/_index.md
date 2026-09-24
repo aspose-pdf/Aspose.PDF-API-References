@@ -2,8 +2,8 @@
 title: "IOpenAIClient.CreateVectorStoreAsync"
 linktitle: "CreateVectorStoreAsync"
 articleTitle: "CreateVectorStoreAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new vector store asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Creates a new vector store asynchronously."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.ai/iopenaiclient/createvectorstoreasync/"

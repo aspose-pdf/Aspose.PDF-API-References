@@ -2,8 +2,8 @@
 title: "PdfConverter.HasNextImage"
 linktitle: "HasNextImage"
 articleTitle: "HasNextImage"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the pdf file has more images or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Indicates whether the pdf file has more images or not."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfconverter/hasnextimage/"

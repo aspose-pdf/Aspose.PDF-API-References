@@ -2,8 +2,8 @@
 title: "DateField.DateFormat"
 linktitle: "DateFormat"
 articleTitle: "DateFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the date format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DateField property. Gets or sets the date format."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/datefield/dateformat/"

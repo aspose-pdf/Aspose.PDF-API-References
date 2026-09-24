@@ -2,8 +2,8 @@
 title: "FileSpecification.UnicodeName"
 linktitle: "UnicodeName"
 articleTitle: "UnicodeName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets file specification unicode name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets or sets file specification unicode name."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/filespecification/unicodename/"

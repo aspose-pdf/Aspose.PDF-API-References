@@ -2,8 +2,8 @@
 title: "PdfFileEditor.OptimizeSize"
 linktitle: "OptimizeSize"
 articleTitle: "OptimizeSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets optimization flag. Equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant f..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Gets or sets optimization flag. Equal resource streams in resultant file are merged into one PDF object if this flag set. This allows..."
 type: docs
 weight: 1090
 url: "/net/aspose.pdf.facades/pdffileeditor/optimizesize/"

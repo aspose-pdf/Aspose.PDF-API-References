@@ -2,8 +2,8 @@
 title: "Cell.BackgroundImage"
 linktitle: "BackgroundImage"
 articleTitle: "BackgroundImage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the background image"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cell property. Gets or sets the background image"
 type: docs
 weight: 90
 url: "/net/aspose.pdf/cell/backgroundimage/"

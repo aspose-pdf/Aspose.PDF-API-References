@@ -2,8 +2,8 @@
 title: "RunStepResponse.CreatedAt"
 linktitle: "CreatedAt"
 articleTitle: "CreatedAt"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Unix timestamp (in seconds) for when the run step was created."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepResponse property. Gets or sets the Unix timestamp (in seconds) for when the run step was created."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/runstepresponse/createdat/"

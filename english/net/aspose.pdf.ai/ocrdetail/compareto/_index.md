@@ -2,8 +2,8 @@
 title: "OcrDetail.CompareTo"
 linktitle: "CompareTo"
 articleTitle: "CompareTo"
-second_title: "Aspose.PDF for .NET"
-description: "Compares the current OcrDetail instance with another OcrDetail object based on their PageNumber property."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrDetail method. Compares the current OcrDetail instance with another OcrDetail object based on their PageNumber property."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/ocrdetail/compareto/"

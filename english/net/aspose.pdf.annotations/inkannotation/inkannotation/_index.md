@@ -2,8 +2,8 @@
 title: "InkAnnotation.InkAnnotation"
 linktitle: "InkAnnotation"
 articleTitle: "InkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the InkAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InkAnnotation constructor. Initializes a new instance of the InkAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/inkannotation/inkannotation/"

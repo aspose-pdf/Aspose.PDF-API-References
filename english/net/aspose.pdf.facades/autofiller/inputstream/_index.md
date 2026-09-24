@@ -2,8 +2,8 @@
 title: "AutoFiller.InputStream"
 linktitle: "InputStream"
 articleTitle: "InputStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the input template stream. One of two input modes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller property. Gets or sets the input template stream. One of two input modes."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/autofiller/inputstream/"

@@ -2,8 +2,8 @@
 title: "Document.JavaScript"
 linktitle: "JavaScript"
 articleTitle: "JavaScript"
-second_title: "Aspose.PDF for .NET"
-description: "Collection of JavaScript of document level."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Collection of JavaScript of document level."
 type: docs
 weight: 1090
 url: "/net/aspose.pdf/document/javascript/"

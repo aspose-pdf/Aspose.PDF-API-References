@@ -2,8 +2,8 @@
 title: "EndPath Class"
 linktitle: "EndPath"
 articleTitle: "EndPath"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing n operator (end path without filling or stroking)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.EndPath class. Class representing n operator (end path without filling or stroking)."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.operators/endpath/"

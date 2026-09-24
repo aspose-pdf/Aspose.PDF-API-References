@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.Update"
 linktitle: "Update"
 articleTitle: "Update"
-second_title: "Aspose.PDF for .NET"
-description: "Updates data with specified parameters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation method. Updates data with specified parameters."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/richmediaannotation/update/"

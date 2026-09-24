@@ -2,8 +2,8 @@
 title: "TiffDevice.Settings"
 linktitle: "Settings"
 articleTitle: "Settings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets settings for mapping pdf into tiff image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffDevice property. Gets settings for mapping pdf into tiff image."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.devices/tiffdevice/settings/"

@@ -2,8 +2,8 @@
 title: "RadioButtonField.Selected"
 linktitle: "Selected"
 articleTitle: "Selected"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets index of selected item. Numbering of items is started from 1."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField property. Gets or sets index of selected item. Numbering of items is started from 1."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/radiobuttonfield/selected/"

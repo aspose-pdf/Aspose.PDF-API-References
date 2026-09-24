@@ -2,8 +2,8 @@
 title: "FloatingBox Class"
 linktitle: "FloatingBox"
 articleTitle: "FloatingBox"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a FloatingBox in a Pdf document. FloatingBox is custom positioned."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FloatingBox class. Represents a FloatingBox in a Pdf document. FloatingBox is custom positioned."
 type: docs
 weight: 930
 url: "/net/aspose.pdf/floatingbox/"

@@ -2,8 +2,8 @@
 title: "PdfContentEditor.ChangeViewerPreference"
 linktitle: "ChangeViewerPreference"
 articleTitle: "ChangeViewerPreference"
-second_title: "Aspose.PDF for .NET"
-description: "Changes the view preference."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Changes the view preference."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/"

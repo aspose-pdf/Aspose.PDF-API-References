@@ -2,8 +2,8 @@
 title: "Document.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Stores document into stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Stores document into stream."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/document/save/"

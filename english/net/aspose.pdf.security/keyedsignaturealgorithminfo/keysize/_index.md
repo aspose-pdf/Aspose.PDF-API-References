@@ -2,8 +2,8 @@
 title: "KeyedSignatureAlgorithmInfo.KeySize"
 linktitle: "KeySize"
 articleTitle: "KeySize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the size of the cryptographic key used by the signature algorithm."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "KeyedSignatureAlgorithmInfo field. Gets the size of the cryptographic key used by the signature algorithm."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/keyedsignaturealgorithminfo/keysize/"

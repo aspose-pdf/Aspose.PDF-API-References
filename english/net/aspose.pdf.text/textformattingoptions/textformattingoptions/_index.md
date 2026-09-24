@@ -2,8 +2,8 @@
 title: "TextFormattingOptions.TextFormattingOptions"
 linktitle: "TextFormattingOptions"
 articleTitle: "TextFormattingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextFormattingOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFormattingOptions constructor. Initializes a new instance of the TextFormattingOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textformattingoptions/textformattingoptions/"

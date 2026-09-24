@@ -2,8 +2,8 @@
 title: "SaveOptions.MarginInfo.LeftMarginIfAny"
 linktitle: "LeftMarginIfAny"
 articleTitle: "LeftMarginIfAny"
-second_title: "Aspose.PDF for .NET"
-description: "Represents left page margin(if any)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginInfo field. Represents left page margin(if any)"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/saveoptions.margininfo/leftmarginifany/"

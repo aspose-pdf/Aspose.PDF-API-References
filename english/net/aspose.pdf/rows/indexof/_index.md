@@ -2,8 +2,8 @@
 title: "Rows.IndexOf"
 linktitle: "IndexOf"
 articleTitle: "IndexOf"
-second_title: "Aspose.PDF for .NET"
-description: "Returns index of row in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rows method. Returns index of row in collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/rows/indexof/"

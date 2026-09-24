@@ -2,8 +2,8 @@
 title: "AnnotationCollection.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating if collection is readonly."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection property. Gets a value indicating if collection is readonly."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/annotationcollection/isreadonly/"

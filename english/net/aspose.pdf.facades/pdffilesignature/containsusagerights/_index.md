@@ -2,8 +2,8 @@
 title: "PdfFileSignature.ContainsUsageRights"
 linktitle: "ContainsUsageRights"
 articleTitle: "ContainsUsageRights"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if the pdf has a usage rights or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Checks if the pdf has a usage rights or not."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdffilesignature/containsusagerights/"

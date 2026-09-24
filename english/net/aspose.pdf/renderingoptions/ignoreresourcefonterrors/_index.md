@@ -2,8 +2,8 @@
 title: "RenderingOptions.IgnoreResourceFontErrors"
 linktitle: "IgnoreResourceFontErrors"
 articleTitle: "IgnoreResourceFontErrors"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. Text segments th..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will b..."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/renderingoptions/ignoreresourcefonterrors/"

@@ -2,8 +2,8 @@
 title: "Document.DisableFontLicenseVerifications"
 linktitle: "DisableFontLicenseVerifications"
 articleTitle: "DisableFontLicenseVerifications"
-second_title: "Aspose.PDF for .NET"
-description: "Many operations with font can't be executed if these operations are prohibited by license of this font. For example some font can't be embedded into PDF docu..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Many operations with font can't be executed if these operations are prohibited by license of this font. For example some font can't be emb..."
 type: docs
 weight: 1210
 url: "/net/aspose.pdf/document/disablefontlicenseverifications/"

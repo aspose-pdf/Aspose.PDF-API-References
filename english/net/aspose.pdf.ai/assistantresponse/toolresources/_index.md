@@ -2,8 +2,8 @@
 title: "AssistantResponse.ToolResources"
 linktitle: "ToolResources"
 articleTitle: "ToolResources"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a set of resources that are used by the assistant's tools. The resources are specific to the type of tool. For example, the code_interpreter too..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantResponse property. Gets or sets a set of resources that are used by the assistant's tools. The resources are specific to the type of tool. For examp..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/assistantresponse/toolresources/"

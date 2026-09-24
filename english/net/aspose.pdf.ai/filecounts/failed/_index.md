@@ -2,8 +2,8 @@
 title: "FileCounts.Failed"
 linktitle: "Failed"
 articleTitle: "Failed"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of files that failed to be processed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileCounts property. Gets or sets the number of files that failed to be processed."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/filecounts/failed/"

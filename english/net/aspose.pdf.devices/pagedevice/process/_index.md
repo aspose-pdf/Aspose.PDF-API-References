@@ -2,8 +2,8 @@
 title: "PageDevice.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Perfoms some operation on the given page, e.g. converts page into graphic image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageDevice method. Perfoms some operation on the given page, e.g. converts page into graphic image."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.devices/pagedevice/process/"

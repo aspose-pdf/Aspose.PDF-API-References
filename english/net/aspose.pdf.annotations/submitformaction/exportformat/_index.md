@@ -2,8 +2,8 @@
 title: "SubmitFormAction.ExportFormat"
 linktitle: "ExportFormat"
 articleTitle: "ExportFormat"
-second_title: "Aspose.PDF for .NET"
-description: "If set, field names and values shall be submitted in HTML Form format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If set, field names and values shall be submitted in HTML Form format."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/submitformaction/exportformat/"

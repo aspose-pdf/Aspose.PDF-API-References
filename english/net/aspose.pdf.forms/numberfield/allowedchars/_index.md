@@ -2,8 +2,8 @@
 title: "NumberField.AllowedChars"
 linktitle: "AllowedChars"
 articleTitle: "AllowedChars"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the allowed chars."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberField property. Gets or sets the allowed chars."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/numberfield/allowedchars/"

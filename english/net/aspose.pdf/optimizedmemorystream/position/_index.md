@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "When overridden in a derived class, gets or sets the position within the current stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream property. When overridden in a derived class, gets or sets the position within the current stream."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/optimizedmemorystream/position/"

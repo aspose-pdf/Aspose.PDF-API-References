@@ -2,8 +2,8 @@
 title: "TimestampOptions.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Rectangle defining the annotation area (ignored when Visible is false)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampOptions property. Rectangle defining the annotation area (ignored when Visible is false)."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.lowcode/timestampoptions/rectangle/"

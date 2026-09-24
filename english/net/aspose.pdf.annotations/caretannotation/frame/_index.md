@@ -2,8 +2,8 @@
 title: "CaretAnnotation.Frame"
 linktitle: "Frame"
 articleTitle: "Frame"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets caret rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CaretAnnotation property. Gets or sets caret rectangle."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/caretannotation/frame/"

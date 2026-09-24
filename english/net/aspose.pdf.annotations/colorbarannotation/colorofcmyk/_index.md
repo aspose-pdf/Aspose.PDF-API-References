@@ -2,8 +2,8 @@
 title: "ColorBarAnnotation.ColorOfCMYK"
 linktitle: "ColorOfCMYK"
 articleTitle: "ColorOfCMYK"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets color (one of cyan, magenta, yellow, black) for which the annotation is drawing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColorBarAnnotation property. Gets or sets color (one of cyan, magenta, yellow, black) for which the annotation is drawing."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/colorbarannotation/colorofcmyk/"

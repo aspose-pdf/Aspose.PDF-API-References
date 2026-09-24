@@ -2,8 +2,8 @@
 title: "PdfViewer.GetDefaultPrinterSettings"
 linktitle: "GetDefaultPrinterSettings"
 articleTitle: "GetDefaultPrinterSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the default printer settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Gets the default printer settings."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfviewer/getdefaultprintersettings/"

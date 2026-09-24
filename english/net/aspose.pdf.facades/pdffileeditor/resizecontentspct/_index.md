@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ResizeContentsPct"
 linktitle: "ResizeContentsPct"
 articleTitle: "ResizeContentsPct"
-second_title: "Aspose.PDF for .NET"
-description: "Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents."
 type: docs
 weight: 890
 url: "/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/"

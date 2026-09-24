@@ -2,8 +2,8 @@
 title: "OpenAIClient.UploadFileAsync"
 linktitle: "UploadFileAsync"
 articleTitle: "UploadFileAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Uploads a file asynchronously to the OpenAI server."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Uploads a file asynchronously to the OpenAI server."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.ai/openaiclient/uploadfileasync/"

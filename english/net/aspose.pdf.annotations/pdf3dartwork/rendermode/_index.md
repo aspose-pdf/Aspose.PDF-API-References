@@ -2,8 +2,8 @@
 title: "PDF3DArtwork.RenderMode"
 linktitle: "RenderMode"
 articleTitle: "RenderMode"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DArtwork property. Gets or sets the render mode."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dartwork/rendermode/"

@@ -2,8 +2,8 @@
 title: "XFormCollection.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns collection enumerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection method. Returns collection enumerator."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xformcollection/getenumerator/"

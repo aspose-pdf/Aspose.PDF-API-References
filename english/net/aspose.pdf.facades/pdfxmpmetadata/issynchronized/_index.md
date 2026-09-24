@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if collection is synchronized."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property. Returns true if collection is synchronized."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/issynchronized/"

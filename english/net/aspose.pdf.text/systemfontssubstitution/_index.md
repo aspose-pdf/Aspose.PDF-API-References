@@ -2,8 +2,8 @@
 title: "SystemFontsSubstitution Class"
 linktitle: "SystemFontsSubstitution"
 articleTitle: "SystemFontsSubstitution"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for font substitution strategy that substitutes fonts with system fonts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.SystemFontsSubstitution class. Represents a class for font substitution strategy that substitutes fonts with system fonts."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.text/systemfontssubstitution/"

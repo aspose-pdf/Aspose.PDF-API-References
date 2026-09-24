@@ -2,8 +2,8 @@
 title: "DestinationCollection.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection property."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/destinationcollection/item/"

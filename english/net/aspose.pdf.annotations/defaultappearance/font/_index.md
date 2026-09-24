@@ -2,8 +2,8 @@
 title: "DefaultAppearance.Font"
 linktitle: "Font"
 articleTitle: "Font"
-second_title: "Aspose.PDF for .NET"
-description: "Gets font specified as default for text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DefaultAppearance property. Gets font specified as default for text."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/defaultappearance/font/"

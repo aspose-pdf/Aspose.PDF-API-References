@@ -2,8 +2,8 @@
 title: "GifDevice Class"
 linktitle: "GifDevice"
 articleTitle: "GifDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents image device that helps to save pdf document pages into gif."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.GifDevice class. Represents image device that helps to save pdf document pages into gif."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.devices/gifdevice/"

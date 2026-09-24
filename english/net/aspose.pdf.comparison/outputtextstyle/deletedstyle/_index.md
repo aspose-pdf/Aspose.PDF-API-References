@@ -2,8 +2,8 @@
 title: "OutputTextStyle.DeletedStyle"
 linktitle: "DeletedStyle"
 articleTitle: "DeletedStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Get and set a text style for deleted text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputTextStyle property. Get and set a text style for deleted text."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/outputtextstyle/deletedstyle/"

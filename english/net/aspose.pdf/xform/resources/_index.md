@@ -2,8 +2,8 @@
 title: "XForm.Resources"
 linktitle: "Resources"
 articleTitle: "Resources"
-second_title: "Aspose.PDF for .NET"
-description: "Gets Form XObject resources."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm property. Gets Form XObject resources."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/xform/resources/"

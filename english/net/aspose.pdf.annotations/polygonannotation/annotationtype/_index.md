@@ -2,8 +2,8 @@
 title: "PolygonAnnotation.AnnotationType"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolygonAnnotation property. Gets type of annotation."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/polygonannotation/annotationtype/"

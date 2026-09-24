@@ -2,8 +2,8 @@
 title: "ChatMessageResponse.Id"
 linktitle: "Id"
 articleTitle: "Id"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ID of the message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChatMessageResponse property. Gets or sets the ID of the message."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/chatmessageresponse/id/"

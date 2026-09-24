@@ -2,8 +2,8 @@
 title: "TextStamp.TextState"
 linktitle: "TextState"
 articleTitle: "TextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text properties of the stamp. See for details."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp property. Gets text properties of the stamp. See for details."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/textstamp/textstate/"

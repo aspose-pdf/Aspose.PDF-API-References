@@ -2,8 +2,8 @@
 title: "StructureElement.Page"
 linktitle: "Page"
 articleTitle: "Page"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the page on which some or all child elements will be rendered."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets the page on which some or all child elements will be rendered."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.logicalstructure/structureelement/page/"

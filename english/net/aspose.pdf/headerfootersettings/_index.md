@@ -2,8 +2,8 @@
 title: "HeaderFooterSettings Class"
 linktitle: "HeaderFooterSettings"
 articleTitle: "HeaderFooterSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the settings for header and footer artifacts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HeaderFooterSettings class. Represents the settings for header and footer artifacts."
 type: docs
 weight: 1070
 url: "/net/aspose.pdf/headerfootersettings/"

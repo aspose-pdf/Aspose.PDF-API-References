@@ -2,8 +2,8 @@
 title: "TextEditOptions.TextEditOptions"
 linktitle: "TextEditOptions"
 articleTitle: "TextEditOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextEditOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextEditOptions constructor. Initializes a new instance of the TextEditOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/texteditoptions/texteditoptions/"

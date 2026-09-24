@@ -2,8 +2,8 @@
 title: "Document.SaveXml"
 linktitle: "SaveXml"
 articleTitle: "SaveXml"
-second_title: "Aspose.PDF for .NET"
-description: "Save document to XML."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Save document to XML."
 type: docs
 weight: 850
 url: "/net/aspose.pdf/document/savexml/"

@@ -2,8 +2,8 @@
 title: "OpenAIClient.DeleteThreadAsync"
 linktitle: "DeleteThreadAsync"
 articleTitle: "DeleteThreadAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes an existing thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Deletes an existing thread asynchronously."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.ai/openaiclient/deletethreadasync/"

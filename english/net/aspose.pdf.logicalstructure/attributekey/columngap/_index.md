@@ -2,8 +2,8 @@
 title: "AttributeKey.ColumnGap"
 linktitle: "ColumnGap"
 articleTitle: "ColumnGap"
-second_title: "Aspose.PDF for .NET"
-description: "ColumnGap attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. ColumnGap attribute (Layout attribute owner)."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.logicalstructure/attributekey/columngap/"

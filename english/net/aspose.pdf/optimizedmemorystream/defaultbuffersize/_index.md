@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.DefaultBufferSize"
 linktitle: "DefaultBufferSize"
 articleTitle: "DefaultBufferSize"
-second_title: "Aspose.PDF for .NET"
-description: "Default buffer size value in bytes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream field. Default buffer size value in bytes."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/optimizedmemorystream/defaultbuffersize/"

@@ -2,8 +2,8 @@
 title: "Layer.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes the current layer from the PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer method. Deletes the current layer from the PDF document."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/layer/delete/"

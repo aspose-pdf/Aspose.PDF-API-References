@@ -2,8 +2,8 @@
 title: "TextResponse Class"
 linktitle: "TextResponse"
 articleTitle: "TextResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the text content that is part of a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.TextResponse class. Represents the text content that is part of a message."
 type: docs
 weight: 1190
 url: "/net/aspose.pdf.ai/textresponse/"

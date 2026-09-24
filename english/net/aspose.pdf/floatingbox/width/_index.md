@@ -2,8 +2,8 @@
 title: "FloatingBox.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the width of the floating box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox property. Gets or sets a float value that indicates the width of the floating box."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/floatingbox/width/"

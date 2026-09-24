@@ -2,8 +2,8 @@
 title: "IOpenAIClient.ModifyVectorStoreAsync"
 linktitle: "ModifyVectorStoreAsync"
 articleTitle: "ModifyVectorStoreAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Modifies an existing vector store asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Modifies an existing vector store asynchronously."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.ai/iopenaiclient/modifyvectorstoreasync/"

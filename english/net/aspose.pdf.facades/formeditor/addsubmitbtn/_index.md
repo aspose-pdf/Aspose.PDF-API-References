@@ -2,8 +2,8 @@
 title: "FormEditor.AddSubmitBtn"
 linktitle: "AddSubmitBtn"
 articleTitle: "AddSubmitBtn"
-second_title: "Aspose.PDF for .NET"
-description: "Add submit button on the form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Add submit button on the form."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/formeditor/addsubmitbtn/"

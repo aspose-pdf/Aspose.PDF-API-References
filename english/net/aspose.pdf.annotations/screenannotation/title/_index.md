@@ -2,8 +2,8 @@
 title: "ScreenAnnotation.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the title of the screen annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ScreenAnnotation property. Gets or sets the title of the screen annotation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/screenannotation/title/"

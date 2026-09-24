@@ -2,8 +2,8 @@
 title: "PdfFileSignature.IsCoversWholeDocument"
 linktitle: "IsCoversWholeDocument"
 articleTitle: "IsCoversWholeDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if the signature covers the whole document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Checks if the signature covers the whole document."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdffilesignature/iscoverswholedocument/"

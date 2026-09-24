@@ -2,8 +2,8 @@
 title: "WidgetAnnotation.Parent"
 linktitle: "Parent"
 articleTitle: "Parent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets annotation parent."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation property. Gets annotation parent."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/widgetannotation/parent/"

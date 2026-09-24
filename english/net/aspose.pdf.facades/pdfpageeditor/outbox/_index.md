@@ -2,8 +2,8 @@
 title: "PdfPageEditor.OUTBOX"
 linktitle: "OUTBOX"
 articleTitle: "OUTBOX"
-second_title: "Aspose.PDF for .NET"
-description: "Outward Box"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Outward Box"
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdfpageeditor/outbox/"

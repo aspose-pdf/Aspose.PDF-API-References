@@ -2,8 +2,8 @@
 title: "ThreadMessageCreateRequest.Content"
 linktitle: "Content"
 articleTitle: "Content"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the content of the message. Can be a string or an array of content parts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageCreateRequest property. Gets or sets the content of the message. Can be a string or an array of content parts."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/content/"

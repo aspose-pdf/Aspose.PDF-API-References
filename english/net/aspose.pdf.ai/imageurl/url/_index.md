@@ -2,8 +2,8 @@
 title: "ImageUrl.Url"
 linktitle: "Url"
 articleTitle: "Url"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the external URL of the image, must be a supported image types: jpeg, jpg, png, gif, webp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageUrl property. Gets or sets the external URL of the image, must be a supported image types: jpeg, jpg, png, gif, webp."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/imageurl/url/"

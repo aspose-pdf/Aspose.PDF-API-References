@@ -2,8 +2,8 @@
 title: "IAnnotationVisitor.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Visit/select link annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IAnnotationVisitor method. Visit/select link annotation."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/iannotationvisitor/visit/"

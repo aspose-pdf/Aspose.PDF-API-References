@@ -2,8 +2,8 @@
 title: "RunResponse.Metadata"
 linktitle: "Metadata"
 articleTitle: "Metadata"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a struc..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about..."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/runresponse/metadata/"

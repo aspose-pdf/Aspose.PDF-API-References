@@ -2,8 +2,8 @@
 title: "AnnotationActionCollection.OnValidate"
 linktitle: "OnValidate"
 articleTitle: "OnValidate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to be performed when user changes contents of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed when user changes contents of the field."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/annotationactioncollection/onvalidate/"

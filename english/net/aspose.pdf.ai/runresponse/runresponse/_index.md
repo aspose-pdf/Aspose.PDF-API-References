@@ -2,8 +2,8 @@
 title: "RunResponse.RunResponse"
 linktitle: "RunResponse"
 articleTitle: "RunResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the RunResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse constructor. Initializes a new instance of the RunResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/runresponse/runresponse/"

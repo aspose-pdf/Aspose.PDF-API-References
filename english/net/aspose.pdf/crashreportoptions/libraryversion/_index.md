@@ -2,8 +2,8 @@
 title: "CrashReportOptions.LibraryVersion"
 linktitle: "LibraryVersion"
 articleTitle: "LibraryVersion"
-second_title: "Aspose.PDF for .NET"
-description: "Version of library used."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CrashReportOptions property. Version of library used."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/crashreportoptions/libraryversion/"

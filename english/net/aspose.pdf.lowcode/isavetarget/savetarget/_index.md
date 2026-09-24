@@ -2,8 +2,8 @@
 title: "ISaveTarget.SaveTarget"
 linktitle: "SaveTarget"
 articleTitle: "SaveTarget"
-second_title: "Aspose.PDF for .NET"
-description: "Type of the save target (file or stream)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ISaveTarget property. Type of the save target (file or stream)."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/isavetarget/savetarget/"

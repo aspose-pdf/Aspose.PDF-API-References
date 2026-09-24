@@ -2,8 +2,8 @@
 title: "RunResponse.RequiredAction"
 linktitle: "RequiredAction"
 articleTitle: "RequiredAction"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the details on the action required to continue the run. Will be null if no action is required."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the details on the action required to continue the run. Will be null if no action is required."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/runresponse/requiredaction/"

@@ -2,8 +2,8 @@
 title: "DictionaryEditor Class"
 linktitle: "DictionaryEditor"
 articleTitle: "DictionaryEditor"
-second_title: "Aspose.PDF for .NET"
-description: "A class for accessing an document's tree dictionary (document dictionary, page dictionary, resources dictionary)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DataEditor.DictionaryEditor class. A class for accessing an document's tree dictionary (document dictionary, page dictionary, resources dictionary)."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/"

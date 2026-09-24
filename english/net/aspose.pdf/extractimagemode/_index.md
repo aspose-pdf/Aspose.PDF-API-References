@@ -2,8 +2,8 @@
 title: "ExtractImageMode Enum"
 linktitle: "ExtractImageMode"
 articleTitle: "ExtractImageMode"
-second_title: "Aspose.PDF for .NET"
-description: "Defines different modes which can be used while extracting images from documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ExtractImageMode enum. Defines different modes which can be used while extracting images from documents."
 type: docs
 weight: 840
 url: "/net/aspose.pdf/extractimagemode/"

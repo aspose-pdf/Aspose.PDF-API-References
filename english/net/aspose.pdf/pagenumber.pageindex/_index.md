@@ -2,8 +2,8 @@
 title: "PageNumber.PageIndex Class"
 linktitle: "PageNumber.PageIndex"
 articleTitle: "PageNumber.PageIndex"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the page index component in the page number format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageNumber.PageIndex class. Represents the page index component in the page number format."
 type: docs
 weight: 2280
 url: "/net/aspose.pdf/pagenumber.pageindex/"

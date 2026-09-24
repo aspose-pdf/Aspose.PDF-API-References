@@ -2,8 +2,8 @@
 title: "RichTextBoxField.RichTextBoxField"
 linktitle: "RichTextBoxField"
 articleTitle: "RichTextBoxField"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the RichTextBoxField class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichTextBoxField constructor. Initializes a new instance of the RichTextBoxField class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/richtextboxfield/richtextboxfield/"

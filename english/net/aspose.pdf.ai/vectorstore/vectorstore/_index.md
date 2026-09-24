@@ -2,8 +2,8 @@
 title: "VectorStore.VectorStore"
 linktitle: "VectorStore"
 articleTitle: "VectorStore"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the VectorStore class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStore constructor. Initializes a new instance of the VectorStore class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstore/vectorstore/"

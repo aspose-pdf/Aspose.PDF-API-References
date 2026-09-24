@@ -2,8 +2,8 @@
 title: "AttributeName.BorderStyle_Outset"
 linktitle: "BorderStyle_Outset"
 articleTitle: "BorderStyle_Outset"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BorderStyle: Outset - The border makes the entire box look as though it were coming out of the canvas (the opposite of Inset)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BorderStyle: Outset - The border makes the entire box look as though it were coming out of the canvas (the opposite of Inset)."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_outset/"

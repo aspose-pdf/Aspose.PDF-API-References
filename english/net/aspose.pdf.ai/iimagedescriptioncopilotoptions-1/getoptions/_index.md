@@ -2,8 +2,8 @@
 title: "IImageDescriptionCopilotOptions<TOptions>.GetOptions"
 linktitle: "GetOptions"
 articleTitle: "GetOptions"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IImageDescriptionCopilotOptions method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/"

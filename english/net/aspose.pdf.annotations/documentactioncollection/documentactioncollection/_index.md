@@ -2,8 +2,8 @@
 title: "DocumentActionCollection.DocumentActionCollection"
 linktitle: "DocumentActionCollection"
 articleTitle: "DocumentActionCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DocumentActionCollection class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentActionCollection constructor. Initializes a new instance of the DocumentActionCollection class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/documentactioncollection/documentactioncollection/"

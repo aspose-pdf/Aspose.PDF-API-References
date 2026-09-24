@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.Print"
 linktitle: "Print"
 articleTitle: "Print"
-second_title: "Aspose.PDF for .NET"
-description: "Allows printing file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Allows printing file."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/documentprivilege/print/"

@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageModeUseOC"
 linktitle: "PageModeUseOC"
 articleTitle: "PageModeUseOC"
-second_title: "Aspose.PDF for .NET"
-description: "Optional content group panel visible."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Optional content group panel visible."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodeuseoc/"

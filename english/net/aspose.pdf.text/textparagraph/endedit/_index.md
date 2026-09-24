@@ -2,8 +2,8 @@
 title: "TextParagraph.EndEdit"
 linktitle: "EndEdit"
 articleTitle: "EndEdit"
-second_title: "Aspose.PDF for .NET"
-description: "Ends the editing of the TextParagraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph method. Ends the editing of the TextParagraph."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textparagraph/endedit/"

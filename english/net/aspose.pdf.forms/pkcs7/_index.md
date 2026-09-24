@@ -2,8 +2,8 @@
 title: "PKCS7 Class"
 linktitle: "PKCS7"
 articleTitle: "PKCS7"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The `SHA1 dig..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.PKCS7 class. Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Synt..."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.forms/pkcs7/"

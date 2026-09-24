@@ -2,8 +2,8 @@
 title: "UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId"
 linktitle: "DocumentId"
 articleTitle: "DocumentId"
-second_title: "Aspose.PDF for .NET"
-description: "The unique document ID."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ProgressEventHandlerInfo field. The unique document ID."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/"

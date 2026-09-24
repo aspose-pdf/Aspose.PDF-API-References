@@ -2,8 +2,8 @@
 title: "Form.GetFieldsInRect"
 linktitle: "GetFieldsInRect"
 articleTitle: "GetFieldsInRect"
-second_title: "Aspose.PDF for .NET"
-description: "Returns fields inside of specified rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Returns fields inside of specified rectangle."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.forms/form/getfieldsinrect/"

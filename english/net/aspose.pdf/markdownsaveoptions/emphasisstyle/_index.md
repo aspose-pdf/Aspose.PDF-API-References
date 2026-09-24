@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions.EmphasisStyle"
 linktitle: "EmphasisStyle"
 articleTitle: "EmphasisStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the style of emphasis for generated document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkdownSaveOptions property. Gets or sets the style of emphasis for generated document."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/markdownsaveoptions/emphasisstyle/"

@@ -2,8 +2,8 @@
 title: "UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue"
 linktitle: "MaxValue"
 articleTitle: "MaxValue"
-second_title: "Aspose.PDF for .NET"
-description: "Maximum possible value of progress value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ProgressEventHandlerInfo field. Maximum possible value of progress value."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue/"

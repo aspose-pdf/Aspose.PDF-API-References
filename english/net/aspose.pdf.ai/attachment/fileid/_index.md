@@ -2,8 +2,8 @@
 title: "Attachment.FileId"
 linktitle: "FileId"
 articleTitle: "FileId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ID of the File that is attached."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Attachment property. Gets or sets the ID of the File that is attached."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/attachment/fileid/"

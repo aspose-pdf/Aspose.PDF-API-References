@@ -2,8 +2,8 @@
 title: "TabStop.TabStop"
 linktitle: "TabStop"
 articleTitle: "TabStop"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TabStop class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStop constructor. Initializes a new instance of the TabStop class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/tabstop/tabstop/"

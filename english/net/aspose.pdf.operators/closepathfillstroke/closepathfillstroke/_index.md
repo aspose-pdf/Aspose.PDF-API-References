@@ -2,8 +2,8 @@
 title: "ClosePathFillStroke.ClosePathFillStroke"
 linktitle: "ClosePathFillStroke"
 articleTitle: "ClosePathFillStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ClosePathFillStroke class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ClosePathFillStroke constructor. Initializes a new instance of the ClosePathFillStroke class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/closepathfillstroke/closepathfillstroke/"

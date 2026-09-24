@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.DateTimeFormat"
 linktitle: "DateTimeFormat"
 articleTitle: "DateTimeFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets datetime format. Default value: \"yyyy.MM.dd HH:mm:ss\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets datetime format. Default value: \"yyyy.MM.dd HH:mm:ss\"."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.forms/signaturecustomappearance/datetimeformat/"

@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreatePolyLine"
 linktitle: "CreatePolyLine"
 articleTitle: "CreatePolyLine"
-second_title: "Aspose.PDF for .NET"
-description: "Creates polyline annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates polyline annotation."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/"

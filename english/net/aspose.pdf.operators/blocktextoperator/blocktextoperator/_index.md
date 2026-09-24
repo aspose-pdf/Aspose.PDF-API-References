@@ -2,8 +2,8 @@
 title: "BlockTextOperator.BlockTextOperator"
 linktitle: "BlockTextOperator"
 articleTitle: "BlockTextOperator"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BlockTextOperator class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BlockTextOperator constructor. Initializes a new instance of the BlockTextOperator class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/blocktextoperator/blocktextoperator/"

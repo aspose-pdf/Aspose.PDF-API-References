@@ -2,8 +2,8 @@
 title: "Note.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a note text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Note property. Gets or sets a note text."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/note/text/"

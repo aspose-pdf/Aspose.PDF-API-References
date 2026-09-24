@@ -2,8 +2,8 @@
 title: "EncryptedPayload.Version"
 linktitle: "Version"
 articleTitle: "Version"
-second_title: "Aspose.PDF for .NET"
-description: "Gets version number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptedPayload property. Gets version number."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/encryptedpayload/version/"

@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.Seek"
 linktitle: "Seek"
 articleTitle: "Seek"
-second_title: "Aspose.PDF for .NET"
-description: "When overridden in a derived class, sets the position within the current stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. When overridden in a derived class, sets the position within the current stream."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/optimizedmemorystream/seek/"

@@ -2,8 +2,8 @@
 title: "ColumnInfo.ColumnInfo"
 linktitle: "ColumnInfo"
 articleTitle: "ColumnInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ColumnInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColumnInfo constructor. Initializes a new instance of the ColumnInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/columninfo/columninfo/"

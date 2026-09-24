@@ -2,8 +2,8 @@
 title: "PaperSizes.JapaneseEnvelopeKakuNumber3"
 linktitle: "JapaneseEnvelopeKakuNumber3"
 articleTitle: "JapaneseEnvelopeKakuNumber3"
-second_title: "Aspose.PDF for .NET"
-description: "Japanese Kaku #3 envelope."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Japanese Kaku #3 envelope."
 type: docs
 weight: 700
 url: "/net/aspose.pdf.printing/papersizes/japaneseenvelopekakunumber3/"

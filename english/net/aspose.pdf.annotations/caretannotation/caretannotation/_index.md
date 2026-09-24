@@ -2,8 +2,8 @@
 title: "CaretAnnotation.CaretAnnotation"
 linktitle: "CaretAnnotation"
 articleTitle: "CaretAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CaretAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CaretAnnotation constructor. Initializes a new instance of the CaretAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/caretannotation/caretannotation/"

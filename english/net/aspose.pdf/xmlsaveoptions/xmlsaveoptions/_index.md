@@ -2,8 +2,8 @@
 title: "XmlSaveOptions.XmlSaveOptions"
 linktitle: "XmlSaveOptions"
 articleTitle: "XmlSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the XmlSaveOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmlSaveOptions constructor. Initializes a new instance of the XmlSaveOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmlsaveoptions/xmlsaveoptions/"

@@ -2,8 +2,8 @@
 title: "Table.BreakText"
 linktitle: "BreakText"
 articleTitle: "BreakText"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets break text for table"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table property. Gets or sets break text for table"
 type: docs
 weight: 120
 url: "/net/aspose.pdf/table/breaktext/"

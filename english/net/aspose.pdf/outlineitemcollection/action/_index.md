@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Action"
 linktitle: "Action"
 articleTitle: "Action"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the action for this outline item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets or sets the action for this outline item."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/outlineitemcollection/action/"

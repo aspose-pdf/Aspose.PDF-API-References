@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.CustomHtmlSavingStrategy"
 linktitle: "CustomHtmlSavingStrategy"
 articleTitle: "CustomHtmlSavingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Result of conversion can contain one or several HTML-pages You can assign to this property delegate created from custom method that implements processing of ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. Result of conversion can contain one or several HTML-pages You can assign to this property delegate created from custom method that im..."
 type: docs
 weight: 390
 url: "/net/aspose.pdf/htmlsaveoptions/customhtmlsavingstrategy/"

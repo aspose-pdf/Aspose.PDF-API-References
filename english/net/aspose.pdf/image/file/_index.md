@@ -2,8 +2,8 @@
 title: "Image.File"
 linktitle: "File"
 articleTitle: "File"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the image file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets the image file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/image/file/"

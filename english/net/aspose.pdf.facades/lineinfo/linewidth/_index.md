@@ -2,8 +2,8 @@
 title: "LineInfo.LineWidth"
 linktitle: "LineWidth"
 articleTitle: "LineWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the width of a line."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineInfo property. Gets or sets the width of a line."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/lineinfo/linewidth/"

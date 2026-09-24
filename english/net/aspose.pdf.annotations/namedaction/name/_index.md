@@ -2,8 +2,8 @@
 title: "NamedAction.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the action to be performed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NamedAction property. Gets or sets the action to be performed."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/namedaction/name/"

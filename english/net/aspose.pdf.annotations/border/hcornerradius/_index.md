@@ -2,8 +2,8 @@
 title: "Border.HCornerRadius"
 linktitle: "HCornerRadius"
 articleTitle: "HCornerRadius"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets horizontal corner radius."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Border property. Gets or sets horizontal corner radius."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/border/hcornerradius/"

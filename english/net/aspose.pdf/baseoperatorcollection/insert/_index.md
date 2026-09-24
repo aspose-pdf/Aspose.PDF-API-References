@@ -2,8 +2,8 @@
 title: "BaseOperatorCollection.Insert"
 linktitle: "Insert"
 articleTitle: "Insert"
-second_title: "Aspose.PDF for .NET"
-description: "Inserts operator into collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection method. Inserts operator into collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/baseoperatorcollection/insert/"

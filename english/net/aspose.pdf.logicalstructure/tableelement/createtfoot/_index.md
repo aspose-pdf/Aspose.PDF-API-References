@@ -2,8 +2,8 @@
 title: "TableElement.CreateTFoot"
 linktitle: "CreateTFoot"
 articleTitle: "CreateTFoot"
-second_title: "Aspose.PDF for .NET"
-description: "Creates and added it to current table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement method. Creates and added it to current table."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/tableelement/createtfoot/"

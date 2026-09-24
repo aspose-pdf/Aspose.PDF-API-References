@@ -2,8 +2,8 @@
 title: "DocumentExtensions Class"
 linktitle: "DocumentExtensions"
 articleTitle: "DocumentExtensions"
-second_title: "Aspose.PDF for .NET"
-description: "Provides additional capabilities for the Document class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DocumentExtensions class. Provides additional capabilities for the Document class."
 type: docs
 weight: 690
 url: "/net/aspose.pdf/documentextensions/"

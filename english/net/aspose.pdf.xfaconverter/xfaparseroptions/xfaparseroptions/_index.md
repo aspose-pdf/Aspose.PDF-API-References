@@ -2,8 +2,8 @@
 title: "XfaParserOptions.XfaParserOptions"
 linktitle: "XfaParserOptions"
 articleTitle: "XfaParserOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the XfaParserOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XfaParserOptions constructor. Initializes a new instance of the XfaParserOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/"

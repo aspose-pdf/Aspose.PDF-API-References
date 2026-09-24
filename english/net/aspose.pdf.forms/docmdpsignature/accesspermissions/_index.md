@@ -2,8 +2,8 @@
 title: "DocMDPSignature.AccessPermissions"
 linktitle: "AccessPermissions"
 articleTitle: "AccessPermissions"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the access permissions granted for this document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocMDPSignature property. Returns the access permissions granted for this document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/docmdpsignature/accesspermissions/"

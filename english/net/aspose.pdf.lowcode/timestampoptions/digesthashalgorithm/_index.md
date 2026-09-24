@@ -2,8 +2,8 @@
 title: "TimestampOptions.DigestHashAlgorithm"
 linktitle: "DigestHashAlgorithm"
 articleTitle: "DigestHashAlgorithm"
-second_title: "Aspose.PDF for .NET"
-description: "Digest hash algorithm to use for the timestamp. Defaults to Sha256."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampOptions property. Digest hash algorithm to use for the timestamp. Defaults to Sha256."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/timestampoptions/digesthashalgorithm/"

@@ -2,8 +2,8 @@
 title: "Embedding.EmbeddingList"
 linktitle: "EmbeddingList"
 articleTitle: "EmbeddingList"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the embedding vector, which is a list of floats. The length of vector depends on the model as listed in the embedding guide."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Embedding property. Gets or sets the embedding vector, which is a list of floats. The length of vector depends on the model as listed in the embedding guide."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/embedding/embeddinglist/"

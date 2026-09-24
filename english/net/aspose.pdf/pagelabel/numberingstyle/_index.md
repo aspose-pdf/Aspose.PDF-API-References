@@ -2,8 +2,8 @@
 title: "PageLabel.NumberingStyle"
 linktitle: "NumberingStyle"
 articleTitle: "NumberingStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets numbering style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageLabel property. Gets or sets numbering style."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagelabel/numberingstyle/"

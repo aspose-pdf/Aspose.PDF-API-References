@@ -2,8 +2,8 @@
 title: "FormDataConverter.ClearTableBeforeExport"
 linktitle: "ClearTableBeforeExport"
 articleTitle: "ClearTableBeforeExport"
-second_title: "Aspose.PDF for .NET"
-description: "ExportFromData will clear table before data export."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter property. ExportFromData will clear table before data export."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/formdataconverter/cleartablebeforeexport/"

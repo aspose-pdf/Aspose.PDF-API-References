@@ -2,8 +2,8 @@
 title: "PdfFileEditor.TryAppend"
 linktitle: "TryAppend"
 articleTitle: "TryAppend"
-second_title: "Aspose.PDF for .NET"
-description: "Appends pages, which are chosen from array of documents in portStreams. The result document includes firstInputFile and all portStreams documents pages in th..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Appends pages, which are chosen from array of documents in portStreams. The result document includes firstInputFile and all portStreams..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdffileeditor/tryappend/"

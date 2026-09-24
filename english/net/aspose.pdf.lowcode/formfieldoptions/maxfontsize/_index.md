@@ -2,8 +2,8 @@
 title: "FormFieldOptions.MaxFontSize"
 linktitle: "MaxFontSize"
 articleTitle: "MaxFontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine property MaxFontSize for created/modified field (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldOptions property. Gets/sets the value to determine property MaxFontSize for created/modified field (if will be set)."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.lowcode/formfieldoptions/maxfontsize/"

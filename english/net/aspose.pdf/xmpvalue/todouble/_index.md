@@ -2,8 +2,8 @@
 title: "XmpValue.ToDouble"
 linktitle: "ToDouble"
 articleTitle: "ToDouble"
-second_title: "Aspose.PDF for .NET"
-description: "Converts to double."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Converts to double."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/xmpvalue/todouble/"

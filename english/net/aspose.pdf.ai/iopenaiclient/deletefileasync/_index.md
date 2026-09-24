@@ -2,8 +2,8 @@
 title: "IOpenAIClient.DeleteFileAsync"
 linktitle: "DeleteFileAsync"
 articleTitle: "DeleteFileAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes a specific file asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Deletes a specific file asynchronously."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.ai/iopenaiclient/deletefileasync/"

@@ -2,8 +2,8 @@
 title: "SignatureAlgorithmInfo.FillText"
 linktitle: "FillText"
 articleTitle: "FillText"
-second_title: "Aspose.PDF for .NET"
-description: "Fills string builder instance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureAlgorithmInfo method. Fills string builder instance."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/signaturealgorithminfo/filltext/"

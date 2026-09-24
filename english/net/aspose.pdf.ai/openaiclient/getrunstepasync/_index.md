@@ -2,8 +2,8 @@
 title: "OpenAIClient.GetRunStepAsync"
 linktitle: "GetRunStepAsync"
 articleTitle: "GetRunStepAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves details of a specific step within a run asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves details of a specific step within a run asynchronously."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.ai/openaiclient/getrunstepasync/"

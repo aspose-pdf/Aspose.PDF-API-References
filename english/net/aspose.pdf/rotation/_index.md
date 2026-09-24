@@ -2,8 +2,8 @@
 title: "Rotation Enum"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of possible rotation values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Rotation enum. Enumeration of possible rotation values."
 type: docs
 weight: 2710
 url: "/net/aspose.pdf/rotation/"

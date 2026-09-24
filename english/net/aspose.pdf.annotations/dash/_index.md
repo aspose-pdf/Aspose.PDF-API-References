@@ -2,8 +2,8 @@
 title: "Dash Class"
 linktitle: "Dash"
 articleTitle: "Dash"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing line dash pattern."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.Dash class. Class representing line dash pattern."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.annotations/dash/"

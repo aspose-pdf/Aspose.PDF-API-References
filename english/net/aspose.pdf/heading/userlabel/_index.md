@@ -2,8 +2,8 @@
 title: "Heading.UserLabel"
 linktitle: "UserLabel"
 articleTitle: "UserLabel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets user label."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets or sets user label."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/heading/userlabel/"

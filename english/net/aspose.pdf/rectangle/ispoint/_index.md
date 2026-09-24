@@ -2,8 +2,8 @@
 title: "Rectangle.IsPoint"
 linktitle: "IsPoint"
 articleTitle: "IsPoint"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/rectangle/ispoint/"

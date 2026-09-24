@@ -2,8 +2,8 @@
 title: "Artifact.ArtifactType Enum"
 linktitle: "Artifact.ArtifactType"
 articleTitle: "Artifact.ArtifactType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of possible artifact types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Artifact.ArtifactType enum. Enumeration of possible artifact types."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/artifact.artifacttype/"

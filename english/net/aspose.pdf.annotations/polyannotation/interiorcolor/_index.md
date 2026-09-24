@@ -2,8 +2,8 @@
 title: "PolyAnnotation.InteriorColor"
 linktitle: "InteriorColor"
 articleTitle: "InteriorColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the interior color with which to fill the annotation's line endings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolyAnnotation property. Gets or sets the interior color with which to fill the annotation's line endings."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/polyannotation/interiorcolor/"

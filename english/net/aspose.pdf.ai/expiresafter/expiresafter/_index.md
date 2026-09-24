@@ -2,8 +2,8 @@
 title: "ExpiresAfter.ExpiresAfter"
 linktitle: "ExpiresAfter"
 articleTitle: "ExpiresAfter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ExpiresAfter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExpiresAfter constructor. Initializes a new instance of the ExpiresAfter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/expiresafter/expiresafter/"

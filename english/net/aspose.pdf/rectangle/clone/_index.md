@@ -2,8 +2,8 @@
 title: "Rectangle.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clones the Rectangle object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Clones the Rectangle object."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/rectangle/clone/"

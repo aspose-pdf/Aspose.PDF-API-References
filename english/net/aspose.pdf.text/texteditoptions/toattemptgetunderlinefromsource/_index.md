@@ -2,8 +2,8 @@
 title: "TextEditOptions.ToAttemptGetUnderlineFromSource"
 linktitle: "ToAttemptGetUnderlineFromSource"
 articleTitle: "ToAttemptGetUnderlineFromSource"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOptions.SearchForTextRelatedGr..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextEditOptions property. Gets or sets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOpti..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/"

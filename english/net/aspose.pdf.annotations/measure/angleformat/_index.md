@@ -2,8 +2,8 @@
 title: "Measure.AngleFormat"
 linktitle: "AngleFormat"
 articleTitle: "AngleFormat"
-second_title: "Aspose.PDF for .NET"
-description: "A number format array for measurement of angles."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. A number format array for measurement of angles."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/measure/angleformat/"

@@ -2,8 +2,8 @@
 title: "ActionCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if give item presents in the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection method. Returns true if give item presents in the collection."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/actioncollection/contains/"

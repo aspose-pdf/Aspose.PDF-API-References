@@ -2,8 +2,8 @@
 title: "PdfAConvertOptions Class"
 linktitle: "PdfAConvertOptions"
 articleTitle: "PdfAConvertOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for converting PDF documents to PDF/A format with the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfAConvertOptions class. Represents options for converting PDF documents to PDF/A format with the plugin."
 type: docs
 weight: 580
 url: "/net/aspose.pdf.lowcode/pdfaconvertoptions/"

@@ -2,8 +2,8 @@
 title: "FormTextBoxFieldCreateOptions.Multiline"
 linktitle: "Multiline"
 articleTitle: "Multiline"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine whether created TextBoxField is multiline or not (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormTextBoxFieldCreateOptions property. Gets/sets the value to determine whether created TextBoxField is multiline or not (if will be set)."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/multiline/"

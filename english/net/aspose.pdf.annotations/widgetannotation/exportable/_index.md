@@ -2,8 +2,8 @@
 title: "WidgetAnnotation.Exportable"
 linktitle: "Exportable"
 articleTitle: "Exportable"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets exportable flag of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation property. Gets or sets exportable flag of the field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/widgetannotation/exportable/"

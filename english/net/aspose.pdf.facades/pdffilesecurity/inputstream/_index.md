@@ -2,8 +2,8 @@
 title: "PdfFileSecurity.InputStream"
 linktitle: "InputStream"
 articleTitle: "InputStream"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the input stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity property. Sets the input stream."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdffilesecurity/inputstream/"

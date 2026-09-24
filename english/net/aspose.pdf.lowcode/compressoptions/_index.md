@@ -2,8 +2,8 @@
 title: "CompressOptions Class"
 linktitle: "CompressOptions"
 articleTitle: "CompressOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Compress options for plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.CompressOptions class. Represents Compress options for plugin."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/compressoptions/"

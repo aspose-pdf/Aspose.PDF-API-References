@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeParameters.PageResize"
 linktitle: "PageResize"
 articleTitle: "PageResize"
-second_title: "Aspose.PDF for .NET"
-description: "Creates resize paramters for page resize."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeParameters method. Creates resize paramters for page resize."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize/"

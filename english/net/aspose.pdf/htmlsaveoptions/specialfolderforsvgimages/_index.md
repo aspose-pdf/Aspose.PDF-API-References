@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.SpecialFolderForSvgImages"
 linktitle: "SpecialFolderForSvgImages"
 articleTitle: "SpecialFolderForSvgImages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets path to directory to which must be saved only SVG-images if they are encountered during saving of document as HTML. If parameter is empty or nul..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. Gets or sets path to directory to which must be saved only SVG-images if they are encountered during saving of document as HTML. If pa..."
 type: docs
 weight: 410
 url: "/net/aspose.pdf/htmlsaveoptions/specialfolderforsvgimages/"

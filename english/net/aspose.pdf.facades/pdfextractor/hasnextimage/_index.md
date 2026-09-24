@@ -2,8 +2,8 @@
 title: "PdfExtractor.HasNextImage"
 linktitle: "HasNextImage"
 articleTitle: "HasNextImage"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if more images are accessible in PDF document. Note: ExtractImage must be called before using of this method."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Checks if more images are accessible in PDF document. Note: ExtractImage must be called before using of this method."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdfextractor/hasnextimage/"

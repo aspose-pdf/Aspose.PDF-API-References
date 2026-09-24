@@ -2,8 +2,8 @@
 title: "OpenAIClient.DeleteAssistantAsync"
 linktitle: "DeleteAssistantAsync"
 articleTitle: "DeleteAssistantAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes an existing assistant asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Deletes an existing assistant asynchronously."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.ai/openaiclient/deleteassistantasync/"

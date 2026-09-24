@@ -2,8 +2,8 @@
 title: "Annotation.DefaultFontSize"
 linktitle: "DefaultFontSize"
 articleTitle: "DefaultFontSize"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation field."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.annotations/annotation/defaultfontsize/"

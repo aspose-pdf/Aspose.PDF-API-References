@@ -2,8 +2,8 @@
 title: "FixedPrint.VerticalTranslation"
 linktitle: "VerticalTranslation"
 articleTitle: "VerticalTranslation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets vertical translation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FixedPrint property. Gets or sets vertical translation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/fixedprint/verticaltranslation/"

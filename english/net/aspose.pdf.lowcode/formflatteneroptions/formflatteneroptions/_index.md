@@ -2,8 +2,8 @@
 title: "FormFlattenerOptions.FormFlattenerOptions"
 linktitle: "FormFlattenerOptions"
 articleTitle: "FormFlattenerOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormFlattenerOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFlattenerOptions constructor. Initializes a new instance of the FormFlattenerOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formflatteneroptions/formflatteneroptions/"

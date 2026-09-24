@@ -2,8 +2,8 @@
 title: "OrganizerBaseOptions Class"
 linktitle: "OrganizerBaseOptions"
 articleTitle: "OrganizerBaseOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents base options for plugins."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.OrganizerBaseOptions class. Represents base options for plugins."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.lowcode/organizerbaseoptions/"

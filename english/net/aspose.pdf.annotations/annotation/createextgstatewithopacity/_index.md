@@ -2,8 +2,8 @@
 title: "Annotation.CreateExtGStateWithOpacity"
 linktitle: "CreateExtGStateWithOpacity"
 articleTitle: "CreateExtGStateWithOpacity"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/annotation/createextgstatewithopacity/"

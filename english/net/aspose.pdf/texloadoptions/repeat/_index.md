@@ -2,8 +2,8 @@
 title: "TeXLoadOptions.Repeat"
 linktitle: "Repeat"
 articleTitle: "Repeat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the flag indicating whether it is necessary to run the TeX job twice in case, for example, there are references in input TeX file(s). In general, t..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXLoadOptions property. Gets/sets the flag indicating whether it is necessary to run the TeX job twice in case, for example, there are references in input T..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/texloadoptions/repeat/"

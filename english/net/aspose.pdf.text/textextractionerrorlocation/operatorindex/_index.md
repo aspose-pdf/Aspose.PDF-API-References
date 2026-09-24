@@ -2,8 +2,8 @@
 title: "TextExtractionErrorLocation.OperatorIndex"
 linktitle: "OperatorIndex"
 articleTitle: "OperatorIndex"
-second_title: "Aspose.PDF for .NET"
-description: "Index of text showing operator in the contents stream (operator collection) that causes text extraction error."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionErrorLocation property. Index of text showing operator in the contents stream (operator collection) that causes text extraction error."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textextractionerrorlocation/operatorindex/"

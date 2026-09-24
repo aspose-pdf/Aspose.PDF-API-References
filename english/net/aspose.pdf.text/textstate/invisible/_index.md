@@ -2,8 +2,8 @@
 title: "TextState.Invisible"
 linktitle: "Invisible"
 articleTitle: "Invisible"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the invisibility of text. This basically reflects the state, except for some special cases (like clipping)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState property. Gets or sets the invisibility of text. This basically reflects the state, except for some special cases (like clipping)."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.text/textstate/invisible/"

@@ -2,8 +2,8 @@
 title: "FileParams.CreationDate"
 linktitle: "CreationDate"
 articleTitle: "CreationDate"
-second_title: "Aspose.PDF for .NET"
-description: "The date and time when the embedded file was created."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileParams property. The date and time when the embedded file was created."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/fileparams/creationdate/"

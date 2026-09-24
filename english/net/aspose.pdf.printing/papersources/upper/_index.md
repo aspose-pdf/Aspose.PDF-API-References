@@ -2,8 +2,8 @@
 title: "PaperSources.Upper"
 linktitle: "Upper"
 articleTitle: "Upper"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the topmost bin of the printer, or the default bin if the printer only has one bin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents the topmost bin of the printer, or the default bin if the printer only has one bin."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/papersources/upper/"

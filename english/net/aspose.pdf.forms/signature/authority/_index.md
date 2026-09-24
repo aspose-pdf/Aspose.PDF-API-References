@@ -2,8 +2,8 @@
 title: "Signature.Authority"
 linktitle: "Authority"
 articleTitle: "Authority"
-second_title: "Aspose.PDF for .NET"
-description: "The name of the person or authority signing the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. The name of the person or authority signing the document."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/signature/authority/"

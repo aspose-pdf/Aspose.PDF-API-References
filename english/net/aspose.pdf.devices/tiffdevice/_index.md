@@ -2,8 +2,8 @@
 title: "TiffDevice Class"
 linktitle: "TiffDevice"
 articleTitle: "TiffDevice"
-second_title: "Aspose.PDF for .NET"
-description: "This class helps to save pdf document page by page into the one tiff image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.TiffDevice class. This class helps to save pdf document page by page into the one tiff image."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.devices/tiffdevice/"

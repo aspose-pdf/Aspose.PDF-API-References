@@ -2,8 +2,8 @@
 title: "ButtonField.ICPosition"
 linktitle: "ICPosition"
 articleTitle: "ICPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets icon caption position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ButtonField property. Gets or sets icon caption position."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/buttonfield/icposition/"

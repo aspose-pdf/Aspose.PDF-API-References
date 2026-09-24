@@ -2,8 +2,8 @@
 title: "PrinterResolution.Y"
 linktitle: "Y"
 articleTitle: "Y"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the printer resolution in the vertical direction, in dots per inch."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolution property. Gets the printer resolution in the vertical direction, in dots per inch."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/printerresolution/y/"

@@ -2,8 +2,8 @@
 title: "LineAnnotation.Ending"
 linktitle: "Ending"
 articleTitle: "Ending"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets line ending point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets line ending point."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/lineannotation/ending/"

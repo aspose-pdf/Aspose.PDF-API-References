@@ -2,8 +2,8 @@
 title: "HeaderElementTextConflictException.HeaderElementTextConflictException"
 linktitle: "HeaderElementTextConflictException"
 articleTitle: "HeaderElementTextConflictException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the HeaderElementTextConflictException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderElementTextConflictException constructor. Initializes a new instance of the HeaderElementTextConflictException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/headerelementtextconflictexception/headerelementtextconflictexception/"

@@ -2,8 +2,8 @@
 title: "OcspSettings.OcspSettings"
 linktitle: "OcspSettings"
 articleTitle: "OcspSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OcspSettings class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcspSettings constructor. Initializes a new instance of the OcspSettings class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ocspsettings/ocspsettings/"

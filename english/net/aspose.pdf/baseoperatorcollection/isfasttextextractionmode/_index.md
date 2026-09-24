@@ -2,8 +2,8 @@
 title: "BaseOperatorCollection.IsFastTextExtractionMode"
 linktitle: "IsFastTextExtractionMode"
 articleTitle: "IsFastTextExtractionMode"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates wheather collection is limited to fast text extraction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection property. Indicates wheather collection is limited to fast text extraction"
 type: docs
 weight: 150
 url: "/net/aspose.pdf/baseoperatorcollection/isfasttextextractionmode/"

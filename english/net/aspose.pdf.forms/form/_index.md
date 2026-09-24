@@ -2,8 +2,8 @@
 title: "Form Class"
 linktitle: "Form"
 articleTitle: "Form"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing form object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.Form class. Class representing form object."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.forms/form/"

@@ -2,8 +2,8 @@
 title: "RgbToDeviceGrayConversionStrategy Class"
 linktitle: "RgbToDeviceGrayConversionStrategy"
 articleTitle: "RgbToDeviceGrayConversionStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Represents rgb to device gray color spaces conversion strategy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.RgbToDeviceGrayConversionStrategy class. Represents rgb to device gray color spaces conversion strategy."
 type: docs
 weight: 2690
 url: "/net/aspose.pdf/rgbtodevicegrayconversionstrategy/"

@@ -2,8 +2,8 @@
 title: "PrinterResolution.PrinterResolution"
 linktitle: "PrinterResolution"
 articleTitle: "PrinterResolution"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PrinterResolution class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolution constructor. Initializes a new instance of the PrinterResolution class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/printerresolution/printerresolution/"

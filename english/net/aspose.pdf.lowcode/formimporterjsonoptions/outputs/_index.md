@@ -2,8 +2,8 @@
 title: "FormImporterJsonOptions.Outputs"
 linktitle: "Outputs"
 articleTitle: "Outputs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the collection of output targets where the resulting PDFs will be saved."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormImporterJsonOptions property. Gets the collection of output targets where the resulting PDFs will be saved."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/outputs/"

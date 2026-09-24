@@ -2,8 +2,8 @@
 title: "PaperSizes Class"
 linktitle: "PaperSizes"
 articleTitle: "PaperSizes"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the standard paper sizes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PaperSizes class. Represents the standard paper sizes."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.printing/papersizes/"

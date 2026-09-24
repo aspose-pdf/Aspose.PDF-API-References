@@ -2,8 +2,8 @@
 title: "CdrLoadOptions.CdrLoadOptions"
 linktitle: "CdrLoadOptions"
 articleTitle: "CdrLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CdrLoadOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CdrLoadOptions constructor. Initializes a new instance of the CdrLoadOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/cdrloadoptions/cdrloadoptions/"

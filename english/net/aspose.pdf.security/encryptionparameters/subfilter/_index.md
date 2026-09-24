@@ -2,8 +2,8 @@
 title: "EncryptionParameters.SubFilter"
 linktitle: "SubFilter"
 articleTitle: "SubFilter"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the sub-filter name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionParameters property. Gets the sub-filter name."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/encryptionparameters/subfilter/"

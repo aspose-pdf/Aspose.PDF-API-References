@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.Encrypt"
 linktitle: "Encrypt"
 articleTitle: "Encrypt"
-second_title: "Aspose.PDF for .NET"
-description: "Encrypt the data array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Encrypt the data array."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.security/icustomsecurityhandler/encrypt/"

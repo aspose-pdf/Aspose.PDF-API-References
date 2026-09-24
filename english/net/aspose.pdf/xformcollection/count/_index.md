@@ -2,8 +2,8 @@
 title: "XFormCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets count of XForms in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection property. Gets count of XForms in collection."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/xformcollection/count/"

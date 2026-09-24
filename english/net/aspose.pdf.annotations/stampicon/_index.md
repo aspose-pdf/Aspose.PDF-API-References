@@ -2,8 +2,8 @@
 title: "StampIcon Enum"
 linktitle: "StampIcon"
 articleTitle: "StampIcon"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the icons to be used in displaying the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.StampIcon enum. Enumerates the icons to be used in displaying the annotation."
 type: docs
 weight: 1250
 url: "/net/aspose.pdf.annotations/stampicon/"

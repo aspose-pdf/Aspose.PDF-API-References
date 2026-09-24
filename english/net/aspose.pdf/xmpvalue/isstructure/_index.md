@@ -2,8 +2,8 @@
 title: "XmpValue.IsStructure"
 linktitle: "IsStructure"
 articleTitle: "IsStructure"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true is XmpValue represents structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue property. Returns true is XmpValue represents structure."
 type: docs
 weight: 370
 url: "/net/aspose.pdf/xmpvalue/isstructure/"

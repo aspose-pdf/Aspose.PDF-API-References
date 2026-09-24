@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateRubberStamp"
 linktitle: "CreateRubberStamp"
 articleTitle: "CreateRubberStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a rubber stamp annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a rubber stamp annotation."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/"

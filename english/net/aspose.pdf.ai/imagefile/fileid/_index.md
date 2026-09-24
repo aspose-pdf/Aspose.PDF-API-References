@@ -2,8 +2,8 @@
 title: "ImageFile.FileId"
 linktitle: "FileId"
 articleTitle: "FileId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the File ID of the image in the message content. Set purpose=\"vision\" when uploading the File if you need to later display the file content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageFile property. Gets or sets the File ID of the image in the message content. Set purpose=\"vision\" when uploading the File if you need to later display t..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/imagefile/fileid/"

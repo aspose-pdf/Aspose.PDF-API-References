@@ -2,8 +2,8 @@
 title: "DictionaryEditor.DictionaryEditor"
 linktitle: "DictionaryEditor"
 articleTitle: "DictionaryEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DictionaryEditor class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor constructor. Initializes a new instance of the DictionaryEditor class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/"

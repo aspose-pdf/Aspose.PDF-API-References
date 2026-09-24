@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.CssSavingInfo Class"
 linktitle: "HtmlSaveOptions.CssSavingInfo"
 articleTitle: "HtmlSaveOptions.CssSavingInfo"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents set of data that related to custom saving of CSS during conversion of PDF to HTML format"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.CssSavingInfo class. This class represents set of data that related to custom saving of CSS during conversion of PDF to HTML format"
 type: docs
 weight: 1210
 url: "/net/aspose.pdf/htmlsaveoptions.csssavinginfo/"

@@ -2,8 +2,8 @@
 title: "Stamp.OutlineWidth"
 linktitle: "OutlineWidth"
 articleTitle: "OutlineWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value of the stamp outline width. By default the value is 1.0."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets a value of the stamp outline width. By default the value is 1.0."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/stamp/outlinewidth/"

@@ -2,8 +2,8 @@
 title: "Page.Artifacts"
 linktitle: "Artifacts"
 articleTitle: "Artifacts"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of artifacts on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets collection of artifacts on the page."
 type: docs
 weight: 620
 url: "/net/aspose.pdf/page/artifacts/"

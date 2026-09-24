@@ -2,8 +2,8 @@
 title: "FormEditor.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves changes into destination file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Saves changes into destination file."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/formeditor/save/"

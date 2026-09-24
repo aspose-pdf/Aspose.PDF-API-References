@@ -2,8 +2,8 @@
 title: "ID Class"
 linktitle: "ID"
 articleTitle: "ID"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing ID operator (Begin inline image data)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.ID class. Class representing ID operator (Begin inline image data)."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.operators/id/"

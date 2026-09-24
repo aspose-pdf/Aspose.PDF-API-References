@@ -2,8 +2,8 @@
 title: "Document.LogicalStructure"
 linktitle: "LogicalStructure"
 articleTitle: "LogicalStructure"
-second_title: "Aspose.PDF for .NET"
-description: "Gets logical structure of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets logical structure of the document."
 type: docs
 weight: 1470
 url: "/net/aspose.pdf/document/logicalstructure/"

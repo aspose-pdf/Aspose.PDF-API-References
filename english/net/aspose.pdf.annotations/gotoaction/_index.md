@@ -2,8 +2,8 @@
 title: "GoToAction Class"
 linktitle: "GoToAction"
 articleTitle: "GoToAction"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a go-to action that changes the view to a specified destination (page, location, and magnification factor)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.GoToAction class. Represents a go-to action that changes the view to a specified destination (page, location, and magnification factor)."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.annotations/gotoaction/"

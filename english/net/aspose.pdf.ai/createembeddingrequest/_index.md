@@ -2,8 +2,8 @@
 title: "CreateEmbeddingRequest Class"
 linktitle: "CreateEmbeddingRequest"
 articleTitle: "CreateEmbeddingRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a request for the Create Embeddings endpoint."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.CreateEmbeddingRequest class. Represents a request for the Create Embeddings endpoint."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.ai/createembeddingrequest/"

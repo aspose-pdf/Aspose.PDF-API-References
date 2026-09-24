@@ -2,8 +2,8 @@
 title: "SubmitFormFlag Enum"
 linktitle: "SubmitFormFlag"
 articleTitle: "SubmitFormFlag"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of possible submit form flags."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.SubmitFormFlag enum. Enumeration of possible submit form flags."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.facades/submitformflag/"

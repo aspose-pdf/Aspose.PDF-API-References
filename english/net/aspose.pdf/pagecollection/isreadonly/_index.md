@@ -2,8 +2,8 @@
 title: "PageCollection.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets value indicating of collection is readonly. Always returns false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection property. Gets value indicating of collection is readonly. Always returns false."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/pagecollection/isreadonly/"

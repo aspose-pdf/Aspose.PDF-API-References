@@ -2,8 +2,8 @@
 title: "Form.AssignXfa"
 linktitle: "AssignXfa"
 articleTitle: "AssignXfa"
-second_title: "Aspose.PDF for .NET"
-description: "Sets XFA of the form to specified value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Sets XFA of the form to specified value."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/form/assignxfa/"

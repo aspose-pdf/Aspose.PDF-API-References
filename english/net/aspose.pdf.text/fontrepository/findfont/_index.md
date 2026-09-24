@@ -2,8 +2,8 @@
 title: "FontRepository.FindFont"
 linktitle: "FindFont"
 articleTitle: "FindFont"
-second_title: "Aspose.PDF for .NET"
-description: "Searches and returns font with specified font name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontRepository method. Searches and returns font with specified font name."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/fontrepository/findfont/"

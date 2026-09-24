@@ -2,8 +2,8 @@
 title: "TextState.TabstopDefaultValue"
 linktitle: "TabstopDefaultValue"
 articleTitle: "TabstopDefaultValue"
-second_title: "Aspose.PDF for .NET"
-description: "Default value of tabulation in widths of space character of default font."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState field. Default value of tabulation in widths of space character of default font."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.text/textstate/tabstopdefaultvalue/"

@@ -2,8 +2,8 @@
 title: "DocumentChunk.Index"
 linktitle: "Index"
 articleTitle: "Index"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the zero-based index of the chunk within the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk property. Gets the zero-based index of the chunk within the document."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/documentchunk/index/"

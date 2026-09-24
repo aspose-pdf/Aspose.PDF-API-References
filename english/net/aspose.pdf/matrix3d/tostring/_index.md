@@ -2,8 +2,8 @@
 title: "Matrix3D.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text representation of the matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix3D method. Returns text representation of the matrix."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/matrix3d/tostring/"

@@ -2,8 +2,8 @@
 title: "TOCIElement Class"
 linktitle: "TOCIElement"
 articleTitle: "TOCIElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents TOCI structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.TOCIElement class. Represents TOCI structure element in logical structure."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.logicalstructure/tocielement/"

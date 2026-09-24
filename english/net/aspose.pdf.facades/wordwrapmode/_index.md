@@ -2,8 +2,8 @@
 title: "WordWrapMode Enum"
 linktitle: "WordWrapMode"
 articleTitle: "WordWrapMode"
-second_title: "Aspose.PDF for .NET"
-description: "Defines word wrapping strategies"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.WordWrapMode enum. Defines word wrapping strategies"
 type: docs
 weight: 680
 url: "/net/aspose.pdf.facades/wordwrapmode/"

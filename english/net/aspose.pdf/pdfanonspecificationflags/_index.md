@@ -2,8 +2,8 @@
 title: "PdfANonSpecificationFlags Class"
 linktitle: "PdfANonSpecificationFlags"
 articleTitle: "PdfANonSpecificationFlags"
-second_title: "Aspose.PDF for .NET"
-description: "This class holds flags to control PDF/A conversion for cases when source PDF document doesn't correspond to PDF specification. If flags of this clas are used..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfANonSpecificationFlags class. This class holds flags to control PDF/A conversion for cases when source PDF document doesn't correspond to PDF s..."
 type: docs
 weight: 2390
 url: "/net/aspose.pdf/pdfanonspecificationflags/"

@@ -2,8 +2,8 @@
 title: "AutoFiller.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Closes the object and output streams."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller method. Closes the object and output streams."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/autofiller/dispose/"

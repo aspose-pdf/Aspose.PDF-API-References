@@ -2,8 +2,8 @@
 title: "PageNumber.GetPageNumberString"
 linktitle: "GetPageNumberString"
 articleTitle: "GetPageNumberString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a formatted string representing the page number based on the current settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageNumber method. Returns a formatted string representing the page number based on the current settings."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagenumber/getpagenumberstring/"

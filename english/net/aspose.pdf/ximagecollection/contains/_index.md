@@ -2,8 +2,8 @@
 title: "XImageCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether the collection contains a specific value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Determines whether the collection contains a specific value."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/ximagecollection/contains/"

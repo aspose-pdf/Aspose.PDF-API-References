@@ -2,8 +2,8 @@
 title: "Splitter.Splitter"
 linktitle: "Splitter"
 articleTitle: "Splitter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Splitter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Splitter constructor. Initializes a new instance of the Splitter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/splitter/splitter/"

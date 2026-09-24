@@ -2,8 +2,8 @@
 title: "TextExtractionErrorLocation.PageNumber"
 linktitle: "PageNumber"
 articleTitle: "PageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Number of the document page where text extraction error has located."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionErrorLocation property. Number of the document page where text extraction error has located."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textextractionerrorlocation/pagenumber/"

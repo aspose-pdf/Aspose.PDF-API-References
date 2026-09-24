@@ -2,8 +2,8 @@
 title: "PageSize Class"
 linktitle: "PageSize"
 articleTitle: "PageSize"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing size of page in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageSize class. Class representing size of page in PDF document."
 type: docs
 weight: 2320
 url: "/net/aspose.pdf/pagesize/"

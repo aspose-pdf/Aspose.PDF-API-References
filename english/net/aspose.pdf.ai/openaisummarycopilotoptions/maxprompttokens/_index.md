@@ -2,8 +2,8 @@
 title: "OpenAISummaryCopilotOptions.MaxPromptTokens"
 linktitle: "MaxPromptTokens"
 articleTitle: "MaxPromptTokens"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the maximum number of prompt tokens that may be used over the course of the run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAISummaryCopilotOptions property. Gets or sets the maximum number of prompt tokens that may be used over the course of the run."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/maxprompttokens/"

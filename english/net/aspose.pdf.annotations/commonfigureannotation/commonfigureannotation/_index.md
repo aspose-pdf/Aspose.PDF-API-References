@@ -2,8 +2,8 @@
 title: "CommonFigureAnnotation.CommonFigureAnnotation"
 linktitle: "CommonFigureAnnotation"
 articleTitle: "CommonFigureAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CommonFigureAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CommonFigureAnnotation constructor. Initializes a new instance of the CommonFigureAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/commonfigureannotation/commonfigureannotation/"

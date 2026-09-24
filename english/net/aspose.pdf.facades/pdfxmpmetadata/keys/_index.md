@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.Keys"
 linktitle: "Keys"
 articleTitle: "Keys"
-second_title: "Aspose.PDF for .NET"
-description: "Gets keys from the dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property. Gets keys from the dictionary."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/keys/"

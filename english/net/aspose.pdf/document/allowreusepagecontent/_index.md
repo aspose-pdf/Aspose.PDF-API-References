@@ -2,8 +2,8 @@
 title: "Document.AllowReusePageContent"
 linktitle: "AllowReusePageContent"
 articleTitle: "AllowReusePageContent"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to merge page contents to optimize docuement size. If used then differnet but duplicated pages may reference to the same content object. Please note t..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Allows to merge page contents to optimize docuement size. If used then differnet but duplicated pages may reference to the same content ob..."
 type: docs
 weight: 1560
 url: "/net/aspose.pdf/document/allowreusepagecontent/"

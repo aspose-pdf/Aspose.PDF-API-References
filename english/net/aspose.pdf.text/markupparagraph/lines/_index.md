@@ -2,8 +2,8 @@
 title: "MarkupParagraph.Lines"
 linktitle: "Lines"
 articleTitle: "Lines"
-second_title: "Aspose.PDF for .NET"
-description: "Lines of paragraph. Each line represented by list of text fragments."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupParagraph property. Lines of paragraph. Each line represented by list of text fragments."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/markupparagraph/lines/"

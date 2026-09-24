@@ -2,8 +2,8 @@
 title: "UnderlineAnnotation Class"
 linktitle: "UnderlineAnnotation"
 articleTitle: "UnderlineAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an underline annotation that appears as an underline in the text of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.UnderlineAnnotation class. Represents an underline annotation that appears as an underline in the text of the document."
 type: docs
 weight: 1340
 url: "/net/aspose.pdf.annotations/underlineannotation/"

@@ -2,8 +2,8 @@
 title: "TiffOptions Class"
 linktitle: "TiffOptions"
 articleTitle: "TiffOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Pdf to Tiff converter options for the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TiffOptions class. Represents Pdf to Tiff converter options for the plugin."
 type: docs
 weight: 1010
 url: "/net/aspose.pdf.lowcode/tiffoptions/"

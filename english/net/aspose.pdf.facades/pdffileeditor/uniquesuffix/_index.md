@@ -2,8 +2,8 @@
 title: "PdfFileEditor.UniqueSuffix"
 linktitle: "UniqueSuffix"
 articleTitle: "UniqueSuffix"
-second_title: "Aspose.PDF for .NET"
-description: "Format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain %NUM% substring which will be repla..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain %NUM% subst..."
 type: docs
 weight: 1160
 url: "/net/aspose.pdf.facades/pdffileeditor/uniquesuffix/"

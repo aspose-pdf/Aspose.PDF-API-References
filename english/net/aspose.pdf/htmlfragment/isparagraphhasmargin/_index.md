@@ -2,8 +2,8 @@
 title: "HtmlFragment.IsParagraphHasMargin"
 linktitle: "IsParagraphHasMargin"
 articleTitle: "IsParagraphHasMargin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets is paragraph has default margin otherwise margin is 0"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlFragment property. Gets or sets is paragraph has default margin otherwise margin is 0"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/htmlfragment/isparagraphhasmargin/"

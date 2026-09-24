@@ -2,8 +2,8 @@
 title: "PdfViewer.PrintDocument"
 linktitle: "PrintDocument"
 articleTitle: "PrintDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Prints the Pdf document using default printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Prints the Pdf document using default printer."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdfviewer/printdocument/"

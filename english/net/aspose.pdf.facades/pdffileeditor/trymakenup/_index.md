@@ -2,8 +2,8 @@
 title: "PdfFileEditor.TryMakeNUp"
 linktitle: "TryMakeNUp"
 articleTitle: "TryMakeNUp"
-second_title: "Aspose.PDF for .NET"
-description: "Makes N-Up document from the firstInputFile to outputFile."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Makes N-Up document from the firstInputFile to outputFile."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdffileeditor/trymakenup/"

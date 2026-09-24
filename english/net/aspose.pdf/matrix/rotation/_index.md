@@ -2,8 +2,8 @@
 title: "Matrix.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Creates matrix for given rotation angle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Creates matrix for given rotation angle."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/matrix/rotation/"

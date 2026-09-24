@@ -2,8 +2,8 @@
 title: "Border.EffectIntensity"
 linktitle: "EffectIntensity"
 articleTitle: "EffectIntensity"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets effect intencity. Valid range of value is [0..2]."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Border property. Gets or sets effect intencity. Valid range of value is [0..2]."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/border/effectintensity/"

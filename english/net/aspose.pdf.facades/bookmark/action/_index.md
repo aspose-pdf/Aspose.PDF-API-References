@@ -2,8 +2,8 @@
 title: "Bookmark.Action"
 linktitle: "Action"
 articleTitle: "Action"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the action bound with the bookmark. If PageNumber is presented the action can not be specified. The action type includes: \"GoTo\", \"GoToR\", \"Laun..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Bookmark property. Gets or sets the action bound with the bookmark. If PageNumber is presented the action can not be specified. The action type includes: \"Go..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/bookmark/action/"

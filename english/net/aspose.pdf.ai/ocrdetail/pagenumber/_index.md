@@ -2,8 +2,8 @@
 title: "OcrDetail.PageNumber"
 linktitle: "PageNumber"
 articleTitle: "PageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "The 1-based page number within the source document. For single-page images, this will always be 1."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrDetail property. The 1-based page number within the source document. For single-page images, this will always be 1."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/ocrdetail/pagenumber/"

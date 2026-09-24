@@ -2,8 +2,8 @@
 title: "XmpValue.ToField"
 linktitle: "ToField"
 articleTitle: "ToField"
-second_title: "Aspose.PDF for .NET"
-description: "Returns XMP value as XMP field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Returns XMP value as XMP field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/xmpvalue/tofield/"

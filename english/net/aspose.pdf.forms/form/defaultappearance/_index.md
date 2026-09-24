@@ -2,8 +2,8 @@
 title: "Form.DefaultAppearance"
 linktitle: "DefaultAppearance"
 articleTitle: "DefaultAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets default appearance of the form (object which describes default font, text size and color for fields on the form)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets or sets default appearance of the form (object which describes default font, text size and color for fields on the form)."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.forms/form/defaultappearance/"

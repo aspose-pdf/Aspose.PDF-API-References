@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeParameters.LeftMargin"
 linktitle: "LeftMargin"
 articleTitle: "LeftMargin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets left margin on the resultant page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeParameters property. Gets or sets left margin on the resultant page."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin/"

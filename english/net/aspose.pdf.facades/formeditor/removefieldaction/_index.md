@@ -2,8 +2,8 @@
 title: "FormEditor.RemoveFieldAction"
 linktitle: "RemoveFieldAction"
 articleTitle: "RemoveFieldAction"
-second_title: "Aspose.PDF for .NET"
-description: "Remove submit action of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Remove submit action of the field."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/formeditor/removefieldaction/"

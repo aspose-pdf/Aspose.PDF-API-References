@@ -2,8 +2,8 @@
 title: "PaperSources.SmallFormat"
 linktitle: "SmallFormat"
 articleTitle: "SmallFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the bin for the smaller format paper."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents the bin for the smaller format paper."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.printing/papersources/smallformat/"

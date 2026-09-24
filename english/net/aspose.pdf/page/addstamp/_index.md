@@ -2,8 +2,8 @@
 title: "Page.AddStamp"
 linktitle: "AddStamp"
 articleTitle: "AddStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/page/addstamp/"

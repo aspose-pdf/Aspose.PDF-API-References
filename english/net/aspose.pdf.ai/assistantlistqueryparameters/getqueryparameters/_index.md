@@ -2,8 +2,8 @@
 title: "AssistantListQueryParameters.GetQueryParameters"
 linktitle: "GetQueryParameters"
 articleTitle: "GetQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the query parameters for listing assistants."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantListQueryParameters method. Gets the query parameters for listing assistants."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/"

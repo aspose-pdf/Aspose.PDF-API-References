@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Open"
 linktitle: "Open"
 articleTitle: "Open"
-second_title: "Aspose.PDF for .NET"
-description: "Get or sets open status (true/false) for outline item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Get or sets open status (true/false) for outline item."
 type: docs
 weight: 280
 url: "/net/aspose.pdf/outlineitemcollection/open/"

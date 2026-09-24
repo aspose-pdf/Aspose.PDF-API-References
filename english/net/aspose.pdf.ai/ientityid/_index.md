@@ -2,8 +2,8 @@
 title: "IEntityId Interface"
 linktitle: "IEntityId"
 articleTitle: "IEntityId"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an entity with an ID."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IEntityId interface. Represents an entity with an ID."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.ai/ientityid/"

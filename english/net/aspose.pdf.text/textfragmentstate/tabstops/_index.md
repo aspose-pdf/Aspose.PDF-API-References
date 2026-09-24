@@ -2,8 +2,8 @@
 title: "TextFragmentState.TabStops"
 linktitle: "TabStops"
 articleTitle: "TabStops"
-second_title: "Aspose.PDF for .NET"
-description: "Gets tabstops for the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets tabstops for the text."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/textfragmentstate/tabstops/"

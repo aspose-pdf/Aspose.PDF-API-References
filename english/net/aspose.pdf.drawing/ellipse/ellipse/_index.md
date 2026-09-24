@@ -2,8 +2,8 @@
 title: "Ellipse.Ellipse"
 linktitle: "Ellipse"
 articleTitle: "Ellipse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Ellipse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Ellipse constructor. Initializes a new instance of the Ellipse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/ellipse/ellipse/"

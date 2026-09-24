@@ -2,8 +2,8 @@
 title: "TextExtractorOptions Class"
 linktitle: "TextExtractorOptions"
 articleTitle: "TextExtractorOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents text extraction options for the TextExtractor plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TextExtractorOptions class. Represents text extraction options for the TextExtractor plugin."
 type: docs
 weight: 980
 url: "/net/aspose.pdf.lowcode/textextractoroptions/"

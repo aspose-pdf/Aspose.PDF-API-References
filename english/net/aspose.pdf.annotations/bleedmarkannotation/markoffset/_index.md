@@ -2,8 +2,8 @@
 title: "BleedMarkAnnotation.MarkOffset"
 linktitle: "MarkOffset"
 articleTitle: "MarkOffset"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BleedMarkAnnotation property."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/bleedmarkannotation/markoffset/"

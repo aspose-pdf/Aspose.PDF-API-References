@@ -2,8 +2,8 @@
 title: "MarkupParagraph.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the paragraph text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupParagraph property. Gets or sets the paragraph text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/markupparagraph/text/"

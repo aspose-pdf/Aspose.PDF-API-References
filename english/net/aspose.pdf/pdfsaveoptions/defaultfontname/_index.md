@@ -2,8 +2,8 @@
 title: "PdfSaveOptions.DefaultFontName"
 linktitle: "DefaultFontName"
 articleTitle: "DefaultFontName"
-second_title: "Aspose.PDF for .NET"
-description: "Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts, that are not available in the ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfSaveOptions property. Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts, that ..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pdfsaveoptions/defaultfontname/"

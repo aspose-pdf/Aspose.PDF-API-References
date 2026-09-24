@@ -2,8 +2,8 @@
 title: "OptionCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets number of options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection property. Gets number of options."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/optioncollection/count/"

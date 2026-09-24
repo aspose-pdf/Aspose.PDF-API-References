@@ -2,8 +2,8 @@
 title: "Measure.AreaFormat"
 linktitle: "AreaFormat"
 articleTitle: "AreaFormat"
-second_title: "Aspose.PDF for .NET"
-description: "A number format array for measurement of area."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. A number format array for measurement of area."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/measure/areaformat/"

@@ -2,8 +2,8 @@
 title: "TextParagraph.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rotation angle in degrees."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph property. Gets or sets rotation angle in degrees."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.text/textparagraph/rotation/"

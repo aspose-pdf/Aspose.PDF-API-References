@@ -2,8 +2,8 @@
 title: "HeadingLevels.AddLevels"
 linktitle: "AddLevels"
 articleTitle: "AddLevels"
-second_title: "Aspose.PDF for .NET"
-description: "Adds heading levels. Font size collection should be sorted by decreasing size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeadingLevels method. Adds heading levels. Font size collection should be sorted by decreasing size."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/headinglevels/addlevels/"

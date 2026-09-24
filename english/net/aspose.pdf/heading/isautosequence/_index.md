@@ -2,8 +2,8 @@
 title: "Heading.IsAutoSequence"
 linktitle: "IsAutoSequence"
 articleTitle: "IsAutoSequence"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the heading should be numered automatically."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the heading should be numered automatically."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/heading/isautosequence/"

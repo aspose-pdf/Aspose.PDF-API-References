@@ -2,8 +2,8 @@
 title: "PdfFileEditor.IncrementalUpdates"
 linktitle: "IncrementalUpdates"
 articleTitle: "IncrementalUpdates"
-second_title: "Aspose.PDF for .NET"
-description: "If true, incremental updates are made during concatenation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. If true, incremental updates are made during concatenation."
 type: docs
 weight: 1080
 url: "/net/aspose.pdf.facades/pdffileeditor/incrementalupdates/"

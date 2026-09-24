@@ -2,8 +2,8 @@
 title: "Metadata.NamespaceManager"
 linktitle: "NamespaceManager"
 articleTitle: "NamespaceManager"
-second_title: "Aspose.PDF for .NET"
-description: "Gets namespace manager."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Gets namespace manager."
 type: docs
 weight: 270
 url: "/net/aspose.pdf/metadata/namespacemanager/"

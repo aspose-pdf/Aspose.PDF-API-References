@@ -2,8 +2,8 @@
 title: "Facade.AssertDocument"
 linktitle: "AssertDocument"
 articleTitle: "AssertDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Asserts if the facade is initialized."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Facade method. Asserts if the facade is initialized."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/facade/assertdocument/"

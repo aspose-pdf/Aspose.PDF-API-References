@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.MaxCompletionTokens"
 linktitle: "MaxCompletionTokens"
 articleTitle: "MaxCompletionTokens"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the maximum number of tokens to generate in the completion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets the maximum number of tokens to generate in the completion."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/completioncreaterequest/maxcompletiontokens/"

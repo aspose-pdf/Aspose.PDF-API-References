@@ -2,8 +2,8 @@
 title: "PrinterSettings.DefaultPageSettings"
 linktitle: "DefaultPageSettings"
 articleTitle: "DefaultPageSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the default page settings for this printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets the default page settings for this printer."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/printersettings/defaultpagesettings/"

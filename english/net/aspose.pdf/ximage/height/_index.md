@@ -2,8 +2,8 @@
 title: "XImage.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Gets height of the image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage property. Gets height of the image."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/ximage/height/"

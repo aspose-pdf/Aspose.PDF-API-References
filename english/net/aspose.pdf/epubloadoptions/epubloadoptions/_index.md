@@ -2,8 +2,8 @@
 title: "EpubLoadOptions.EpubLoadOptions"
 linktitle: "EpubLoadOptions"
 articleTitle: "EpubLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EpubLoadOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EpubLoadOptions constructor. Initializes a new instance of the EpubLoadOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/epubloadoptions/epubloadoptions/"

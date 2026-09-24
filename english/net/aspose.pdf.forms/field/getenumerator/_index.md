@@ -2,8 +2,8 @@
 title: "Field.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns enumerator of contained fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Returns enumerator of contained fields."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/field/getenumerator/"

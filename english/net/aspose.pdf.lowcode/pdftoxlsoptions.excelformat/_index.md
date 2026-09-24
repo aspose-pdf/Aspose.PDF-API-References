@@ -2,8 +2,8 @@
 title: "PdfToXlsOptions.ExcelFormat Enum"
 linktitle: "PdfToXlsOptions.ExcelFormat"
 articleTitle: "PdfToXlsOptions.ExcelFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to specify .xlsx, .xls/xml or csv file format. Default value is XLSX."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfToXlsOptions.ExcelFormat enum. Allows to specify .xlsx, .xls/xml or csv file format. Default value is XLSX."
 type: docs
 weight: 750
 url: "/net/aspose.pdf.lowcode/pdftoxlsoptions.excelformat/"

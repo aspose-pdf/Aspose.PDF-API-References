@@ -2,8 +2,8 @@
 title: "SoundSampleData.SamplingRate"
 linktitle: "SamplingRate"
 articleTitle: "SamplingRate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the sampling rate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundSampleData property. Gets or sets the sampling rate."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/soundsampledata/samplingrate/"

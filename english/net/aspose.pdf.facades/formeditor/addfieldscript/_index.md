@@ -2,8 +2,8 @@
 title: "FormEditor.AddFieldScript"
 linktitle: "AddFieldScript"
 articleTitle: "AddFieldScript"
-second_title: "Aspose.PDF for .NET"
-description: "Add JavaScript for a PushButton field. If old event exists, new event is added after it."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Add JavaScript for a PushButton field. If old event exists, new event is added after it."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/formeditor/addfieldscript/"

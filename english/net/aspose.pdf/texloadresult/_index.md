@@ -2,8 +2,8 @@
 title: "TeXLoadResult Enum"
 linktitle: "TeXLoadResult"
 articleTitle: "TeXLoadResult"
-second_title: "Aspose.PDF for .NET"
-description: "Results for TeX load and compiling."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TeXLoadResult enum. Results for TeX load and compiling."
 type: docs
 weight: 3000
 url: "/net/aspose.pdf/texloadresult/"

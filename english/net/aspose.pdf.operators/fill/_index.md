@@ -2,8 +2,8 @@
 title: "Fill Class"
 linktitle: "Fill"
 articleTitle: "Fill"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing f operator (fill path with nonzero winding number rule)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.Fill class. Class representing f operator (fill path with nonzero winding number rule)."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.operators/fill/"

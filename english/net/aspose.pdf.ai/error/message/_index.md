@@ -2,8 +2,8 @@
 title: "Error.Message"
 linktitle: "Message"
 articleTitle: "Message"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the error message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Error property. Gets or sets the error message."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/error/message/"

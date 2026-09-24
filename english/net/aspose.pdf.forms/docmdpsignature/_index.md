@@ -2,8 +2,8 @@
 title: "DocMDPSignature Class"
 linktitle: "DocMDPSignature"
 articleTitle: "DocMDPSignature"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the class of document MDP (modification detection and prevention) signature type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.DocMDPSignature class. Represents the class of document MDP (modification detection and prevention) signature type."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/docmdpsignature/"

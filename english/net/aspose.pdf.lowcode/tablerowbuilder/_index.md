@@ -2,8 +2,8 @@
 title: "TableRowBuilder Class"
 linktitle: "TableRowBuilder"
 articleTitle: "TableRowBuilder"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents builder for table row."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TableRowBuilder class. Class represents builder for table row."
 type: docs
 weight: 960
 url: "/net/aspose.pdf.lowcode/tablerowbuilder/"

@@ -2,8 +2,8 @@
 title: "AttributeKey.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Width attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Width attribute (Layout attribute owner)."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.logicalstructure/attributekey/width/"

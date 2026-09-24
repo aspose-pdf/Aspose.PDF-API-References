@@ -2,8 +2,8 @@
 title: "FormEditor.SetFieldLimit"
 linktitle: "SetFieldLimit"
 articleTitle: "SetFieldLimit"
-second_title: "Aspose.PDF for .NET"
-description: "Sets maximum character count of the text field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Sets maximum character count of the text field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/formeditor/setfieldlimit/"

@@ -2,8 +2,8 @@
 title: "FormFieldFacade.Items"
 linktitle: "Items"
 articleTitle: "Items"
-second_title: "Aspose.PDF for .NET"
-description: "An array of string, each representing an option of a combo box/list/radio box field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. An array of string, each representing an option of a combo box/list/radio box field."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/formfieldfacade/items/"

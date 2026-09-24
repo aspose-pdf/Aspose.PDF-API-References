@@ -2,8 +2,8 @@
 title: "AnnotationSelector.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Select link annotation if AnnotationSelector was initialized with LinkAnnotation object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationSelector method. Select link annotation if AnnotationSelector was initialized with LinkAnnotation object."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/annotationselector/visit/"

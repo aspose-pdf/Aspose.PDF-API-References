@@ -2,8 +2,8 @@
 title: "AssistantResponse.Id"
 linktitle: "Id"
 articleTitle: "Id"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the identifier, which can be referenced in API endpoints."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantResponse property. Gets or sets the identifier, which can be referenced in API endpoints."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/assistantresponse/id/"

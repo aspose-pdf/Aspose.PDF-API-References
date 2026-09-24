@@ -2,8 +2,8 @@
 title: "FormCheckBoxFieldCreateOptions Class"
 linktitle: "FormCheckBoxFieldCreateOptions"
 articleTitle: "FormCheckBoxFieldCreateOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for creating CheckBoxField by FormEditor plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormCheckBoxFieldCreateOptions class. Represents options for creating CheckBoxField by FormEditor plugin."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.lowcode/formcheckboxfieldcreateoptions/"

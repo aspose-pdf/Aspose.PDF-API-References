@@ -2,8 +2,8 @@
 title: "SideBySideComparisonOptions.SideBySideComparisonOptions"
 linktitle: "SideBySideComparisonOptions"
 articleTitle: "SideBySideComparisonOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SideBySideComparisonOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySideComparisonOptions constructor. Initializes a new instance of the SideBySideComparisonOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/sidebysidecomparisonoptions/"

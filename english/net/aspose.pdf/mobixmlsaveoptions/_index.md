@@ -2,8 +2,8 @@
 title: "MobiXmlSaveOptions Class"
 linktitle: "MobiXmlSaveOptions"
 articleTitle: "MobiXmlSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Save options for export to Xml format"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.MobiXmlSaveOptions class. Save options for export to Xml format"
 type: docs
 weight: 1940
 url: "/net/aspose.pdf/mobixmlsaveoptions/"

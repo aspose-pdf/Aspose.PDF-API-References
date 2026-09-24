@@ -2,8 +2,8 @@
 title: "TrimMarkAnnotation Class"
 linktitle: "TrimMarkAnnotation"
 articleTitle: "TrimMarkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a Trim Mark annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.TrimMarkAnnotation class. Represents a Trim Mark annotation."
 type: docs
 weight: 1330
 url: "/net/aspose.pdf.annotations/trimmarkannotation/"

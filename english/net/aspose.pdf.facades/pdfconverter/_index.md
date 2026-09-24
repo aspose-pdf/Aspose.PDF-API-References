@@ -2,8 +2,8 @@
 title: "PdfConverter Class"
 linktitle: "PdfConverter"
 articleTitle: "PdfConverter"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to convert a pdf file's each page to images, supporting BMP, JPEG, PNG and TIFF now. Supported content in pdfs: pictures, form, comment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfConverter class. Represents a class to convert a pdf file's each page to images, supporting BMP, JPEG, PNG and TIFF now. Supported cont..."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdfconverter/"

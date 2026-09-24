@@ -2,8 +2,8 @@
 title: "TableTBodyElement Class"
 linktitle: "TableTBodyElement"
 articleTitle: "TableTBodyElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents TBody structure element in logical structure of the table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.TableTBodyElement class. Represents TBody structure element in logical structure of the table."
 type: docs
 weight: 660
 url: "/net/aspose.pdf.logicalstructure/tabletbodyelement/"

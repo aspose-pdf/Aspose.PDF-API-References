@@ -2,8 +2,8 @@
 title: "AttributeName.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets name value of attribute."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName property. Gets name value of attribute."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/attributename/name/"

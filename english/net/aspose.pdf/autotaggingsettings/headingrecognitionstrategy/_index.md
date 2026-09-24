@@ -2,8 +2,8 @@
 title: "AutoTaggingSettings.HeadingRecognitionStrategy"
 linktitle: "HeadingRecognitionStrategy"
 articleTitle: "HeadingRecognitionStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the strategy used for recognizing headings in the document during auto-tagging."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoTaggingSettings property. Gets or sets the strategy used for recognizing headings in the document during auto-tagging."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/autotaggingsettings/headingrecognitionstrategy/"

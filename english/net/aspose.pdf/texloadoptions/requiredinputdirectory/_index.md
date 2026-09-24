@@ -2,8 +2,8 @@
 title: "TeXLoadOptions.RequiredInputDirectory"
 linktitle: "RequiredInputDirectory"
 articleTitle: "RequiredInputDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets TeX requires input directory. Required input is the files that are somehow included into the main .tex file, e.g., packages for which there's no bu..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXLoadOptions property. Gets/sets TeX requires input directory. Required input is the files that are somehow included into the main .tex file, e.g., package..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/texloadoptions/requiredinputdirectory/"

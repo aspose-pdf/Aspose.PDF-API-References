@@ -2,8 +2,8 @@
 title: "AttributeKey.ColumnWidths"
 linktitle: "ColumnWidths"
 articleTitle: "ColumnWidths"
-second_title: "Aspose.PDF for .NET"
-description: "ColumnWidths attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. ColumnWidths attribute (Layout attribute owner)."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.logicalstructure/attributekey/columnwidths/"

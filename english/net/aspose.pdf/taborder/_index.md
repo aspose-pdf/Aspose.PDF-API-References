@@ -2,8 +2,8 @@
 title: "TabOrder Enum"
 linktitle: "TabOrder"
 articleTitle: "TabOrder"
-second_title: "Aspose.PDF for .NET"
-description: "Tab order on the page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TabOrder enum. Tab order on the page"
 type: docs
 weight: 2930
 url: "/net/aspose.pdf/taborder/"

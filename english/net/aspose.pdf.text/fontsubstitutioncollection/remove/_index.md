@@ -2,8 +2,8 @@
 title: "FontSubstitutionCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes the font substitution element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSubstitutionCollection method. Deletes the font substitution element."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/remove/"

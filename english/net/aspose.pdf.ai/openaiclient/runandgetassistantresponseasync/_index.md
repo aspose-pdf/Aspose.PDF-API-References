@@ -2,8 +2,8 @@
 title: "OpenAIClient.RunAndGetAssistantResponseAsync"
 linktitle: "RunAndGetAssistantResponseAsync"
 articleTitle: "RunAndGetAssistantResponseAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Runs the assistant with the specified threadId and runCreateRequest, and asynchronously gets the assistant response."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Runs the assistant with the specified threadId and runCreateRequest, and asynchronously gets the assistant response."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.ai/openaiclient/runandgetassistantresponseasync/"

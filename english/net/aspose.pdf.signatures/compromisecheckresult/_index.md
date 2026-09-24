@@ -2,8 +2,8 @@
 title: "CompromiseCheckResult Class"
 linktitle: "CompromiseCheckResult"
 articleTitle: "CompromiseCheckResult"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for checking document digital signatures for compromise."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Signatures.CompromiseCheckResult class. Represents a class for checking document digital signatures for compromise."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.signatures/compromisecheckresult/"

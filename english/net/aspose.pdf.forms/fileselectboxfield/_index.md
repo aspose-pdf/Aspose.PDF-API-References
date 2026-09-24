@@ -2,8 +2,8 @@
 title: "FileSelectBoxField Class"
 linktitle: "FileSelectBoxField"
 articleTitle: "FileSelectBoxField"
-second_title: "Aspose.PDF for .NET"
-description: "Field for file select box element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.FileSelectBoxField class. Field for file select box element."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/fileselectboxfield/"

@@ -2,8 +2,8 @@
 title: "AttributeOwnerStandard.op_Explicit"
 linktitle: "op_Explicit"
 articleTitle: "op_Explicit"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/"

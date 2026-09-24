@@ -2,8 +2,8 @@
 title: "SaveOptions.ResourceSavingInfo.CustomProcessingCancelled"
 linktitle: "CustomProcessingCancelled"
 articleTitle: "CustomProcessingCancelled"
-second_title: "Aspose.PDF for .NET"
-description: "this flag must set to \"true\" in custom code if for some reasons proposed file should be processed not with custom code but with converter's code itself in st..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResourceSavingInfo field. this flag must set to \"true\" in custom code if for some reasons proposed file should be processed not with custom code but with con..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled/"

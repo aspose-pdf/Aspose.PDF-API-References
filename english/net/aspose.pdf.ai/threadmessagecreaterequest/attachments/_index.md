@@ -2,8 +2,8 @@
 title: "ThreadMessageCreateRequest.Attachments"
 linktitle: "Attachments"
 articleTitle: "Attachments"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of files attached to the message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageCreateRequest property. Gets or sets a list of files attached to the message."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/attachments/"

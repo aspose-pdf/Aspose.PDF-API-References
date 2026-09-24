@@ -2,8 +2,8 @@
 title: "PdfToHtmlOptions.OutputDataType"
 linktitle: "OutputDataType"
 articleTitle: "OutputDataType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets output data type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToHtmlOptions property. Gets output data type."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/pdftohtmloptions/outputdatatype/"

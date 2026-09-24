@@ -2,8 +2,8 @@
 title: "TruncationStrategy Class"
 linktitle: "TruncationStrategy"
 articleTitle: "TruncationStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the truncation strategy that controls for how a thread will be truncated prior to the run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.TruncationStrategy class. Represents the truncation strategy that controls for how a thread will be truncated prior to the run."
 type: docs
 weight: 1330
 url: "/net/aspose.pdf.ai/truncationstrategy/"

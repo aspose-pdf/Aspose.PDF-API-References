@@ -2,8 +2,8 @@
 title: "TextStyle.Color"
 linktitle: "Color"
 articleTitle: "Color"
-second_title: "Aspose.PDF for .NET"
-description: "Color of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle property. Color of the text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/textstyle/color/"

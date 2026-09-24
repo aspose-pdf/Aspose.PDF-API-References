@@ -2,8 +2,8 @@
 title: "VectorStoreCreateRequest.FileIds"
 linktitle: "FileIds"
 articleTitle: "FileIds"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of File IDs that the vector store should use. Useful for tools like file_search that can access files."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreCreateRequest property. Gets or sets a list of File IDs that the vector store should use. Useful for tools like file_search that can access files."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstorecreaterequest/fileids/"

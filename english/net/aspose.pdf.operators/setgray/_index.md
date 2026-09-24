@@ -2,8 +2,8 @@
 title: "SetGray Class"
 linktitle: "SetGray"
 articleTitle: "SetGray"
-second_title: "Aspose.PDF for .NET"
-description: "Set gray level for non-stroking operations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetGray class. Set gray level for non-stroking operations."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.operators/setgray/"

@@ -2,8 +2,8 @@
 title: "Border.Style"
 linktitle: "Style"
 articleTitle: "Style"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets border style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Border property. Gets or sets border style."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/border/style/"

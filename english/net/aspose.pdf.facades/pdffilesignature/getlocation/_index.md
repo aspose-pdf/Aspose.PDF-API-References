@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetLocation"
 linktitle: "GetLocation"
 articleTitle: "GetLocation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the location of a signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the location of a signature."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.facades/pdffilesignature/getlocation/"

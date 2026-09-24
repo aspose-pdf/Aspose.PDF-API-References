@@ -2,8 +2,8 @@
 title: "LineTo.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text representation of the operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineTo method. Returns text representation of the operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/lineto/tostring/"

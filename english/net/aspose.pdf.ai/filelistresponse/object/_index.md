@@ -2,8 +2,8 @@
 title: "FileListResponse.Object"
 linktitle: "Object"
 articleTitle: "Object"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the object type, which is always list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileListResponse property. Gets or sets the object type, which is always list."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/filelistresponse/object/"

@@ -2,8 +2,8 @@
 title: "IAdjustPosition.AdjustPosition"
 linktitle: "AdjustPosition"
 articleTitle: "AdjustPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Adjust position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IAdjustPosition method. Adjust position."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.tagged/iadjustposition/adjustposition/"

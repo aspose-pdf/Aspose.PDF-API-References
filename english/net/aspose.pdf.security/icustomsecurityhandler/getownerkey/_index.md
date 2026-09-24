@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.GetOwnerKey"
 linktitle: "GetOwnerKey"
 articleTitle: "GetOwnerKey"
-second_title: "Aspose.PDF for .NET"
-description: "Creates an encoded array based on passwords that will be written to the O field of the encryption dictionary. Should only rely on the arguments passed. The u..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Creates an encoded array based on passwords that will be written to the O field of the encryption dictionary. Should only rely..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/icustomsecurityhandler/getownerkey/"

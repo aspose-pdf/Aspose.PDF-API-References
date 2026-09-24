@@ -2,8 +2,8 @@
 title: "Signature.UseLtv"
 linktitle: "UseLtv"
 articleTitle: "UseLtv"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets ltv validation flag."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. Gets/sets ltv validation flag."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.forms/signature/useltv/"

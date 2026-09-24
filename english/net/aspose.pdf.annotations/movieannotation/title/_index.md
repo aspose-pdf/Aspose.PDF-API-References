@@ -2,8 +2,8 @@
 title: "MovieAnnotation.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the title of the movie annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MovieAnnotation property. Gets or sets the title of the movie annotation."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/movieannotation/title/"

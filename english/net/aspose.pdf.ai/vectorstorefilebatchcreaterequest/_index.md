@@ -2,8 +2,8 @@
 title: "VectorStoreFileBatchCreateRequest Class"
 linktitle: "VectorStoreFileBatchCreateRequest"
 articleTitle: "VectorStoreFileBatchCreateRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Create a vector store file batch request."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest class. Create a vector store file batch request."
 type: docs
 weight: 1370
 url: "/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/"

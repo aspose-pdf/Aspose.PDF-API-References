@@ -2,8 +2,8 @@
 title: "AnnotationCollection.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether access to the Aspose.Pdf.Annotations.AnnotationCollection is synchronized (thread safe)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection property. Gets a value indicating whether access to the Aspose.Pdf.Annotations.AnnotationCollection is synchronized (thread safe)."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/annotationcollection/issynchronized/"

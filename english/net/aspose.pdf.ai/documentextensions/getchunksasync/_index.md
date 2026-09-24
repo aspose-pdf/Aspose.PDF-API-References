@@ -2,8 +2,8 @@
 title: "DocumentExtensions.GetChunksAsync"
 linktitle: "GetChunksAsync"
 articleTitle: "GetChunksAsync"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentExtensions method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/documentextensions/getchunksasync/"

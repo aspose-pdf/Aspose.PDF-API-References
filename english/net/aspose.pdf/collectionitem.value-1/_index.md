@@ -2,8 +2,8 @@
 title: "CollectionItem.Value<T> Class"
 linktitle: "CollectionItem.Value<T>"
 articleTitle: "CollectionItem.Value<T>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CollectionItem.Value class."
 type: docs
 weight: 350
 url: "/net/aspose.pdf/collectionitem.value-1/"

@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.SignatureCustomAppearance"
 linktitle: "SignatureCustomAppearance"
 articleTitle: "SignatureCustomAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SignatureCustomAppearance class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance constructor. Initializes a new instance of the SignatureCustomAppearance class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/signaturecustomappearance/signaturecustomappearance/"

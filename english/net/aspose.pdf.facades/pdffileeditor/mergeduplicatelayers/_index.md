@@ -2,8 +2,8 @@
 title: "PdfFileEditor.MergeDuplicateLayers"
 linktitle: "MergeDuplicateLayers"
 articleTitle: "MergeDuplicateLayers"
-second_title: "Aspose.PDF for .NET"
-description: "Optional contents of concatentated documents with equal names will be merged into one layer in resulstant document if this property is true. Else, layers wit..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Optional contents of concatentated documents with equal names will be merged into one layer in resulstant document if this property i..."
 type: docs
 weight: 1030
 url: "/net/aspose.pdf.facades/pdffileeditor/mergeduplicatelayers/"

@@ -2,8 +2,8 @@
 title: "HeaderFooterData.PageDate"
 linktitle: "PageDate"
 articleTitle: "PageDate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the date settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooterData property. Gets or sets the date settings."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/headerfooterdata/pagedate/"

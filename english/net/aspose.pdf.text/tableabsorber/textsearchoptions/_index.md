@@ -2,8 +2,8 @@
 title: "TableAbsorber.TextSearchOptions"
 linktitle: "TextSearchOptions"
 articleTitle: "TextSearchOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text search options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber property. Gets or sets text search options."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/tableabsorber/textsearchoptions/"

@@ -2,8 +2,8 @@
 title: "MessageCreation Class"
 linktitle: "MessageCreation"
 articleTitle: "MessageCreation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the creation of a message with its unique identifier."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.MessageCreation class. Represents the creation of a message with its unique identifier."
 type: docs
 weight: 850
 url: "/net/aspose.pdf.ai/messagecreation/"

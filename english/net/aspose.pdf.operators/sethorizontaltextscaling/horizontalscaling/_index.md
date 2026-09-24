@@ -2,8 +2,8 @@
 title: "SetHorizontalTextScaling.HorizontalScaling"
 linktitle: "HorizontalScaling"
 articleTitle: "HorizontalScaling"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the horizontal scaling."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetHorizontalTextScaling property. Gets or sets the horizontal scaling."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/"

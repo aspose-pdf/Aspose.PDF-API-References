@@ -2,8 +2,8 @@
 title: "SetMiterLimit.MiterLimit"
 linktitle: "MiterLimit"
 articleTitle: "MiterLimit"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the miter limit."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetMiterLimit property. Gets or sets the miter limit."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setmiterlimit/miterlimit/"

@@ -2,8 +2,8 @@
 title: "PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable"
 linktitle: "PreferredCmapEncodingTable"
 articleTitle: "PreferredCmapEncodingTable"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration has no sense in this case."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfASymbolicFontEncodingStrategy property. Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration has no..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/"

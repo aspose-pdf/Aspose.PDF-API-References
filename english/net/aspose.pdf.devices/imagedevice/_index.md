@@ -2,8 +2,8 @@
 title: "ImageDevice Class"
 linktitle: "ImageDevice"
 articleTitle: "ImageDevice"
-second_title: "Aspose.PDF for .NET"
-description: "An abstract class for image devices."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.ImageDevice class. An abstract class for image devices."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.devices/imagedevice/"

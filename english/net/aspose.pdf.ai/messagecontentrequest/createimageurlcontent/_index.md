@@ -2,8 +2,8 @@
 title: "MessageContentRequest.CreateImageUrlContent"
 linktitle: "CreateImageUrlContent"
 articleTitle: "CreateImageUrlContent"
-second_title: "Aspose.PDF for .NET"
-description: "Creates an image URL content for a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MessageContentRequest method. Creates an image URL content for a message."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/messagecontentrequest/createimageurlcontent/"

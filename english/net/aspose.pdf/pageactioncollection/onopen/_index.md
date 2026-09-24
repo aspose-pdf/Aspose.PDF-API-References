@@ -2,8 +2,8 @@
 title: "PageActionCollection.OnOpen"
 linktitle: "OnOpen"
 articleTitle: "OnOpen"
-second_title: "Aspose.PDF for .NET"
-description: "An action that shall be performed when the page is opened."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageActionCollection property. An action that shall be performed when the page is opened."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pageactioncollection/onopen/"

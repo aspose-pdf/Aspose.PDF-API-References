@@ -2,8 +2,8 @@
 title: "MarginInfo.MarginInfo"
 linktitle: "MarginInfo"
 articleTitle: "MarginInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MarginInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginInfo constructor. Initializes a new instance of the MarginInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/margininfo/margininfo/"

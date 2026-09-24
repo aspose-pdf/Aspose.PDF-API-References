@@ -2,8 +2,8 @@
 title: "TableCellBuilder Class"
 linktitle: "TableCellBuilder"
 articleTitle: "TableCellBuilder"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents builder for table cell."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TableCellBuilder class. Class represents builder for table cell."
 type: docs
 weight: 930
 url: "/net/aspose.pdf.lowcode/tablecellbuilder/"

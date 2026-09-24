@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.PdfFileSanitization"
 linktitle: "PdfFileSanitization"
 articleTitle: "PdfFileSanitization"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfFileSanitization class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization constructor. Initializes a new instance of the PdfFileSanitization class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/"

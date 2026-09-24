@@ -2,8 +2,8 @@
 title: "HeaderElement.AddEntryToTocPage"
 linktitle: "AddEntryToTocPage"
 articleTitle: "AddEntryToTocPage"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a header on the specified Table of Contents (TOC) page and associates it with a TOCI element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderElement method. Creates a header on the specified Table of Contents (TOC) page and associates it with a TOCI element."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/headerelement/addentrytotocpage/"

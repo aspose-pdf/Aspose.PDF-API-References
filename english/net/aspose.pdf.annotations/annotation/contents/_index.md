@@ -2,8 +2,8 @@
 title: "Annotation.Contents"
 linktitle: "Contents"
 articleTitle: "Contents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets annotation text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets annotation text."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.annotations/annotation/contents/"

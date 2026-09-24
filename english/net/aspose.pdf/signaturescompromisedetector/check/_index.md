@@ -2,8 +2,8 @@
 title: "SignaturesCompromiseDetector.Check"
 linktitle: "Check"
 articleTitle: "Check"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignaturesCompromiseDetector method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/signaturescompromisedetector/check/"

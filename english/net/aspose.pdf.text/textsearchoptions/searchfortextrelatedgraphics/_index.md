@@ -2,8 +2,8 @@
 title: "TextSearchOptions.SearchForTextRelatedGraphics"
 linktitle: "SearchForTextRelatedGraphics"
 articleTitle: "SearchForTextRelatedGraphics"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value that permits searching for text related graphics (underlining, background etc.) during text search. true - searching for text related grap..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSearchOptions property. Gets or sets value that permits searching for text related graphics (underlining, background etc.) during text search. true - sea..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics/"

@@ -2,8 +2,8 @@
 title: "PdfPrintPageInfo Class"
 linktitle: "PdfPrintPageInfo"
 articleTitle: "PdfPrintPageInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an object that contains current printing page info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfPrintPageInfo class. Represents an object that contains current printing page info."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.facades/pdfprintpageinfo/"

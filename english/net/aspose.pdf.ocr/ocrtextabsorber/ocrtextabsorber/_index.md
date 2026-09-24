@@ -2,8 +2,8 @@
 title: "OcrTextAbsorber.OcrTextAbsorber"
 linktitle: "OcrTextAbsorber"
 articleTitle: "OcrTextAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OcrTextAbsorber class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextAbsorber constructor. Initializes a new instance of the OcrTextAbsorber class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/ocrtextabsorber/"

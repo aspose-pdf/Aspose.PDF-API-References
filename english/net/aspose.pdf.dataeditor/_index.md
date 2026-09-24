@@ -2,7 +2,7 @@
 title: "Aspose.Pdf.DataEditor"
 linktitle: "Aspose.Pdf.DataEditor"
 articleTitle: "Aspose.Pdf.DataEditor"
-second_title: "Aspose.PDF for .NET"
+second_title: "Aspose.PDF for .NET API Reference"
 description: "The **Aspose.Pdf.DataEditor** namespace provides classes."
 type: docs
 weight: 10

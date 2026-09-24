@@ -2,8 +2,8 @@
 title: "TextAnnotation Class"
 linktitle: "TextAnnotation"
 articleTitle: "TextAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a text annotation that is a 'sticky note' attached to a point in the PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.TextAnnotation class. Represents a text annotation that is a 'sticky note' attached to a point in the PDF document."
 type: docs
 weight: 1290
 url: "/net/aspose.pdf.annotations/textannotation/"

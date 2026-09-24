@@ -2,8 +2,8 @@
 title: "AttributeName.BorderStyle_Double"
 linktitle: "BorderStyle_Double"
 articleTitle: "BorderStyle_Double"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BorderStyle: Double - The border is two solid lines. The sum of the two lines and the space between them equals the value of BorderThickness."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BorderStyle: Double - The border is two solid lines. The sum of the two lines and the space between them equals the value of B..."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_double/"

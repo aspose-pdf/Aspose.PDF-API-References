@@ -2,8 +2,8 @@
 title: "Shape.ClipShading"
 linktitle: "ClipShading"
 articleTitle: "ClipShading"
-second_title: "Aspose.PDF for .NET"
-description: "Sets clip shading. Start point.End point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Shape method. Sets clip shading. Start point.End point."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.drawing/shape/clipshading/"

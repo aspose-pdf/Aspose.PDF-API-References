@@ -2,8 +2,8 @@
 title: "VectorStoreResponse.FileCounts"
 linktitle: "FileCounts"
 articleTitle: "FileCounts"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of files that have been processed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreResponse property. Gets or sets the number of files that have been processed."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/vectorstoreresponse/filecounts/"

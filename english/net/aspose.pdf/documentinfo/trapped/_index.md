@@ -2,8 +2,8 @@
 title: "DocumentInfo.Trapped"
 linktitle: "Trapped"
 articleTitle: "Trapped"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the trapped flag."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo property. Gets or sets the trapped flag."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/documentinfo/trapped/"

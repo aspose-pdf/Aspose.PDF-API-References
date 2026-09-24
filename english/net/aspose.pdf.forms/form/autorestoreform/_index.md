@@ -2,8 +2,8 @@
 title: "Form.AutoRestoreForm"
 linktitle: "AutoRestoreForm"
 articleTitle: "AutoRestoreForm"
-second_title: "Aspose.PDF for .NET"
-description: "If set, absent form fields will be automatically created if they present in annotations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. If set, absent form fields will be automatically created if they present in annotations."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.forms/form/autorestoreform/"

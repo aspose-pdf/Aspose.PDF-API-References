@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobResponse.Status"
 linktitle: "Status"
 articleTitle: "Status"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the status of the fine-tuning job."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets the status of the fine-tuning job."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/status/"

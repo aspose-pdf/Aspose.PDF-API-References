@@ -2,8 +2,8 @@
 title: "TableBuilder.InsertPageAfter"
 linktitle: "InsertPageAfter"
 articleTitle: "InsertPageAfter"
-second_title: "Aspose.PDF for .NET"
-description: "Insert page after specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableBuilder method. Insert page after specified page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/tablebuilder/insertpageafter/"

@@ -2,8 +2,8 @@
 title: "DocSaveOptions.RecognitionMode Enum"
 linktitle: "DocSaveOptions.RecognitionMode"
 articleTitle: "DocSaveOptions.RecognitionMode"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to control how a PDF document is converted into a word processing document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DocSaveOptions.RecognitionMode enum. Allows to control how a PDF document is converted into a word processing document."
 type: docs
 weight: 600
 url: "/net/aspose.pdf/docsaveoptions.recognitionmode/"

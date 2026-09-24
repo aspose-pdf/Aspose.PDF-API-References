@@ -2,8 +2,8 @@
 title: "MarginInfo Class"
 linktitle: "MarginInfo"
 articleTitle: "MarginInfo"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents a margin for different objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.MarginInfo class. This class represents a margin for different objects."
 type: docs
 weight: 1850
 url: "/net/aspose.pdf/margininfo/"

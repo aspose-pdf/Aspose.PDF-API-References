@@ -2,8 +2,8 @@
 title: "PdfFileEditor.SplitToPages"
 linktitle: "SplitToPages"
 articleTitle: "SplitToPages"
-second_title: "Aspose.PDF for .NET"
-description: "Splits the PDF file into single-page documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits the PDF file into single-page documents."
 type: docs
 weight: 810
 url: "/net/aspose.pdf.facades/pdffileeditor/splittopages/"

@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Checks does specified key-value pair is contained in the dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method. Checks does specified key-value pair is contained in the dictionary."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/appearancedictionary/contains/"

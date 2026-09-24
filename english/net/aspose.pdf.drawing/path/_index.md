@@ -2,8 +2,8 @@
 title: "Path Class"
 linktitle: "Path"
 articleTitle: "Path"
-second_title: "Aspose.PDF for .NET"
-description: "Represents arc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.Path class. Represents arc."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.drawing/path/"

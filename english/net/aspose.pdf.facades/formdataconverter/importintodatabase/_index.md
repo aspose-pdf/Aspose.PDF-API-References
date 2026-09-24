@@ -2,8 +2,8 @@
 title: "FormDataConverter.ImportIntoDataBase"
 linktitle: "ImportIntoDataBase"
 articleTitle: "ImportIntoDataBase"
-second_title: "Aspose.PDF for .NET"
-description: "Imports data from table into database."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter method. Imports data from table into database."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/formdataconverter/importintodatabase/"

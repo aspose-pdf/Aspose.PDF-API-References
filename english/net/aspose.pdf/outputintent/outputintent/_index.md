@@ -2,8 +2,8 @@
 title: "OutputIntent.OutputIntent"
 linktitle: "OutputIntent"
 articleTitle: "OutputIntent"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OutputIntent class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntent constructor. Initializes a new instance of the OutputIntent class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/outputintent/outputintent/"

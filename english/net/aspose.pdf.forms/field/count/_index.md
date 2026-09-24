@@ -2,8 +2,8 @@
 title: "Field.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets number of subfields in this field. (For example number of items in radio button field)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Gets number of subfields in this field. (For example number of items in radio button field)."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.forms/field/count/"

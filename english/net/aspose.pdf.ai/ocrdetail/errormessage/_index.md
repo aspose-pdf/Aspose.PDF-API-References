@@ -2,8 +2,8 @@
 title: "OcrDetail.ErrorMessage"
 linktitle: "ErrorMessage"
 articleTitle: "ErrorMessage"
-second_title: "Aspose.PDF for .NET"
-description: "An error message describing why OCR failed for this page, if Success is false. Null otherwise."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrDetail property. An error message describing why OCR failed for this page, if Success is false. Null otherwise."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/ocrdetail/errormessage/"

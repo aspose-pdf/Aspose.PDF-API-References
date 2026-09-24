@@ -2,8 +2,8 @@
 title: "AbsorbedRow.CompareTo"
 linktitle: "CompareTo"
 articleTitle: "CompareTo"
-second_title: "Aspose.PDF for .NET"
-description: "Compares the current AbsorbedRow object with another AbsorbedRow object and returns an integer that indicates whether the current object precedes, follows, o..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedRow method. Compares the current AbsorbedRow object with another AbsorbedRow object and returns an integer that indicates whether the current object ..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/absorbedrow/compareto/"

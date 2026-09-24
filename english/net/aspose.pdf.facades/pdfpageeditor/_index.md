@@ -2,8 +2,8 @@
 title: "PdfPageEditor Class"
 linktitle: "PdfPageEditor"
 articleTitle: "PdfPageEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to edit the PDF file's page, including rotating page, zooming page, moving position and changing page size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfPageEditor class. Represents a class to edit the PDF file's page, including rotating page, zooming page, moving position and changing p..."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.facades/pdfpageeditor/"

@@ -2,8 +2,8 @@
 title: "FormEditor.DelListItem"
 linktitle: "DelListItem"
 articleTitle: "DelListItem"
-second_title: "Aspose.PDF for .NET"
-description: "Delete item from the list field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Delete item from the list field."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/formeditor/dellistitem/"

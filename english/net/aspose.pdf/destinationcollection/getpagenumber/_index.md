@@ -2,8 +2,8 @@
 title: "DestinationCollection.GetPageNumber"
 linktitle: "GetPageNumber"
 articleTitle: "GetPageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the page number of destination by the name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Returns the page number of destination by the name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/destinationcollection/getpagenumber/"

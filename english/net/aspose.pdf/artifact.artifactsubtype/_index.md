@@ -2,8 +2,8 @@
 title: "Artifact.ArtifactSubtype Enum"
 linktitle: "Artifact.ArtifactSubtype"
 articleTitle: "Artifact.ArtifactSubtype"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of possible artifacts subtype."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Artifact.ArtifactSubtype enum. Enumeration of possible artifacts subtype."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/artifact.artifactsubtype/"

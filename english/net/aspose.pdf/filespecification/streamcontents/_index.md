@@ -2,8 +2,8 @@
 title: "FileSpecification.StreamContents"
 linktitle: "StreamContents"
 articleTitle: "StreamContents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets contents of file as stream. Contents is not loaded into memory which allows to decrease memory usage. But this stream does not support positioning and L..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets contents of file as stream. Contents is not loaded into memory which allows to decrease memory usage. But this stream does n..."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/filespecification/streamcontents/"

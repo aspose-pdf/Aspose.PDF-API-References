@@ -2,8 +2,8 @@
 title: "ElementList.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the number of elements in the ElementList."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ElementList property. Gets the number of elements in the ElementList."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/elementlist/count/"

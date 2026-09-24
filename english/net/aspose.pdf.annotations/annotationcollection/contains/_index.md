@@ -2,8 +2,8 @@
 title: "AnnotationCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if specified annotation belong to collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Checks if specified annotation belong to collection."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/annotationcollection/contains/"

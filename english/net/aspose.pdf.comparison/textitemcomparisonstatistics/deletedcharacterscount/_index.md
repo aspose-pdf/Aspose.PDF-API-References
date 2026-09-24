@@ -2,8 +2,8 @@
 title: "TextItemComparisonStatistics.DeletedCharactersCount"
 linktitle: "DeletedCharactersCount"
 articleTitle: "DeletedCharactersCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the number of deleted characters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextItemComparisonStatistics property. Gets and sets the number of deleted characters."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/"

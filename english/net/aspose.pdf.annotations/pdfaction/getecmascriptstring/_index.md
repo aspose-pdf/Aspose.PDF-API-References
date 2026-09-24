@@ -2,8 +2,8 @@
 title: "PdfAction.GetECMAScriptString"
 linktitle: "GetECMAScriptString"
 articleTitle: "GetECMAScriptString"
-second_title: "Aspose.PDF for .NET"
-description: "Gets string for ECMAScript Action."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAction method. Gets string for ECMAScript Action."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pdfaction/getecmascriptstring/"

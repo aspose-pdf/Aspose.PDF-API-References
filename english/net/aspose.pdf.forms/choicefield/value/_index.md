@@ -2,8 +2,8 @@
 title: "ChoiceField.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChoiceField property. Gets or sets value of the field."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/choicefield/value/"

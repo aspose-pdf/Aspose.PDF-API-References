@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.GetOpacity"
 linktitle: "GetOpacity"
 articleTitle: "GetOpacity"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the opacity."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode method. Gets the opacity."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getopacity/"

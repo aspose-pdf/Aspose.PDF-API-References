@@ -2,8 +2,8 @@
 title: "BMC.BMC"
 linktitle: "BMC"
 articleTitle: "BMC"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BMC class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BMC constructor. Initializes a new instance of the BMC class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/bmc/bmc/"

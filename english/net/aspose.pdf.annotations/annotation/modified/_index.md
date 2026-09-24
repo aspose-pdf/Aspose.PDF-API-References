@@ -2,8 +2,8 @@
 title: "Annotation.Modified"
 linktitle: "Modified"
 articleTitle: "Modified"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets date and time when annotation was recently modified."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets date and time when annotation was recently modified."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.annotations/annotation/modified/"

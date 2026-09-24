@@ -2,8 +2,8 @@
 title: "AttributeOwnerStandard.Owner"
 linktitle: "Owner"
 articleTitle: "Owner"
-second_title: "Aspose.PDF for .NET"
-description: "Get Attribute Owner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard property. Get Attribute Owner."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/owner/"

@@ -2,8 +2,8 @@
 title: "TableOptions.Create"
 linktitle: "Create"
 articleTitle: "Create"
-second_title: "Aspose.PDF for .NET"
-description: "Create instance of ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableOptions method. Create instance of ."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/tableoptions/create/"

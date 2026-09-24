@@ -2,8 +2,8 @@
 title: "CollectionItem.IsEmpty"
 linktitle: "IsEmpty"
 articleTitle: "IsEmpty"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the collection item is empty."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionItem property. Gets a value indicating whether the collection item is empty."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/collectionitem/isempty/"

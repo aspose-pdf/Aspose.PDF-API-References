@@ -2,8 +2,8 @@
 title: "PKCS7Detached Class"
 linktitle: "PKCS7Detached"
 articleTitle: "PKCS7Detached"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The original ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.PKCS7Detached class. Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Mess..."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.forms/pkcs7detached/"

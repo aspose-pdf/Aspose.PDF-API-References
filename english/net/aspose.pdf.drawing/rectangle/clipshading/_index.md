@@ -2,8 +2,8 @@
 title: "Rectangle.ClipShading"
 linktitle: "ClipShading"
 articleTitle: "ClipShading"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/rectangle/clipshading/"

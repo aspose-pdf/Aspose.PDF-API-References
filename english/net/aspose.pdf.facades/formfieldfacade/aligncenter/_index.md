@@ -2,8 +2,8 @@
 title: "FormFieldFacade.AlignCenter"
 linktitle: "AlignCenter"
 articleTitle: "AlignCenter"
-second_title: "Aspose.PDF for .NET"
-description: "Defines aglignment to center style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines aglignment to center style."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/formfieldfacade/aligncenter/"

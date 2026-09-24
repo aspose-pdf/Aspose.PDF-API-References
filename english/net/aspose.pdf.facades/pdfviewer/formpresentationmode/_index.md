@@ -2,8 +2,8 @@
 title: "PdfViewer.FormPresentationMode"
 linktitle: "FormPresentationMode"
 articleTitle: "FormPresentationMode"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets form presentation mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets or sets form presentation mode."
 type: docs
 weight: 460
 url: "/net/aspose.pdf.facades/pdfviewer/formpresentationmode/"

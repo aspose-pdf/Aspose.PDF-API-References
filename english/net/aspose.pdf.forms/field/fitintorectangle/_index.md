@@ -2,8 +2,8 @@
 title: "Field.FitIntoRectangle"
 linktitle: "FitIntoRectangle"
 articleTitle: "FitIntoRectangle"
-second_title: "Aspose.PDF for .NET"
-description: "If true then font size will reduced to fit text to specified rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. If true then font size will reduced to fit text to specified rectangle."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.forms/field/fitintorectangle/"

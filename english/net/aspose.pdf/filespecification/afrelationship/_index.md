@@ -2,8 +2,8 @@
 title: "FileSpecification.AFRelationship"
 linktitle: "AFRelationship"
 articleTitle: "AFRelationship"
-second_title: "Aspose.PDF for .NET"
-description: "Associated file Relationship."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Associated file Relationship."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/filespecification/afrelationship/"

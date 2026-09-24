@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.ConvertSoftMaskAction"
 linktitle: "ConvertSoftMaskAction"
 articleTitle: "ConvertSoftMaskAction"
-second_title: "Aspose.PDF for .NET"
-description: "Action for images with soft mask."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Action for images with soft mask."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/pdfformatconversionoptions/convertsoftmaskaction/"

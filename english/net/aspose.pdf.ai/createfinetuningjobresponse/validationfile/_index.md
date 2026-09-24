@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobResponse.ValidationFile"
 linktitle: "ValidationFile"
 articleTitle: "ValidationFile"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ID of an uploaded file that contains validation data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets the ID of an uploaded file that contains validation data."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/validationfile/"

@@ -2,8 +2,8 @@
 title: "XfaParserOptions.BasePath"
 linktitle: "BasePath"
 articleTitle: "BasePath"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the base path."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XfaParserOptions property. Gets or sets the base path."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/"

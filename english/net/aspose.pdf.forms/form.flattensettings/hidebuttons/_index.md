@@ -2,8 +2,8 @@
 title: "Form.FlattenSettings.HideButtons"
 linktitle: "HideButtons"
 articleTitle: "HideButtons"
-second_title: "Aspose.PDF for .NET"
-description: "If set, buttons will be removed from flattened document. False by default."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FlattenSettings property. If set, buttons will be removed from flattened document. False by default."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/form.flattensettings/hidebuttons/"

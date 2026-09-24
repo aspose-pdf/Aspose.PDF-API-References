@@ -2,8 +2,8 @@
 title: "XfdfReader.ReadAnnotations"
 linktitle: "ReadAnnotations"
 articleTitle: "ReadAnnotations"
-second_title: "Aspose.PDF for .NET"
-description: "Import annotations from XFDF file and put them into document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XfdfReader method. Import annotations from XFDF file and put them into document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/xfdfreader/readannotations/"

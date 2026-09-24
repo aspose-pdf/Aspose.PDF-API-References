@@ -2,8 +2,8 @@
 title: "FormEditor.Facade"
 linktitle: "Facade"
 articleTitle: "Facade"
-second_title: "Aspose.PDF for .NET"
-description: "Sets visual attributes of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor property. Sets visual attributes of the field."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.facades/formeditor/facade/"

@@ -2,8 +2,8 @@
 title: "TextOperator Class"
 linktitle: "TextOperator"
 articleTitle: "TextOperator"
-second_title: "Aspose.PDF for .NET"
-description: "Abstract base class for text-related operators (TJ, Tj, Tm, BT, ET, etc)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.TextOperator class. Abstract base class for text-related operators (TJ, Tj, Tm, BT, ET, etc)."
 type: docs
 weight: 820
 url: "/net/aspose.pdf.operators/textoperator/"

@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Annot"
 linktitle: "Annot"
 articleTitle: "Annot"
-second_title: "Aspose.PDF for .NET"
-description: "(Annotation; PDF 1.5) An association between a portion of the ILSE's content and a corresponding PDF annotation. Annot shall be used for all PDF annotations ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Annotation; PDF 1.5) An association between a portion of the ILSE's content and a corresponding PDF annotation. Annot shall be ..."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/annot/"

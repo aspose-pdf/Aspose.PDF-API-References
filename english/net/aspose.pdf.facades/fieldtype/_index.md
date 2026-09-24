@@ -2,8 +2,8 @@
 title: "FieldType Enum"
 linktitle: "FieldType"
 articleTitle: "FieldType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of possible field types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.FieldType enum. Enumeration of possible field types."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/fieldtype/"

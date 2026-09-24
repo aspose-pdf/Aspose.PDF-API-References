@@ -2,8 +2,8 @@
 title: "Logprobs.Logprobs"
 linktitle: "Logprobs"
 articleTitle: "Logprobs"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Logprobs class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Logprobs constructor. Initializes a new instance of the Logprobs class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/logprobs/logprobs/"

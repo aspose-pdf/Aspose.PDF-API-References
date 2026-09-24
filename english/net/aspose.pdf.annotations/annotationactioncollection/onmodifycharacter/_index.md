@@ -2,8 +2,8 @@
 title: "AnnotationActionCollection.OnModifyCharacter"
 linktitle: "OnModifyCharacter"
 articleTitle: "OnModifyCharacter"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to be performed when user modifies character of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed when user modifies character of the field."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/annotationactioncollection/onmodifycharacter/"

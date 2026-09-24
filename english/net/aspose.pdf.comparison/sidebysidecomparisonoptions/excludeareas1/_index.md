@@ -2,8 +2,8 @@
 title: "SideBySideComparisonOptions.ExcludeAreas1"
 linktitle: "ExcludeAreas1"
 articleTitle: "ExcludeAreas1"
-second_title: "Aspose.PDF for .NET"
-description: "Get and set the exclude areas. Used for the first page or document in the comparison method. This option can be setted along with . This option can't be sett..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySideComparisonOptions property. Get and set the exclude areas. Used for the first page or document in the comparison method. This option can be setted ..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/excludeareas1/"

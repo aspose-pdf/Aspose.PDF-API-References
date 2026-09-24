@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions.HeadingStyle"
 linktitle: "HeadingStyle"
 articleTitle: "HeadingStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the heading style for generated document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkdownSaveOptions property. Gets or sets the heading style for generated document."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/markdownsaveoptions/headingstyle/"

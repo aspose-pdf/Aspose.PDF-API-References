@@ -2,8 +2,8 @@
 title: "PdfExtractor.Password"
 linktitle: "Password"
 articleTitle: "Password"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets input file's password."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Gets or sets input file's password."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfextractor/password/"

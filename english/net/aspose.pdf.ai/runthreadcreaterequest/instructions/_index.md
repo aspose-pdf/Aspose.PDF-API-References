@@ -2,8 +2,8 @@
 title: "RunThreadCreateRequest.Instructions"
 linktitle: "Instructions"
 articleTitle: "Instructions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the instructions that override the instructions of the assistant. This is useful for modifying the behavior on a per-run basis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunThreadCreateRequest property. Gets or sets the instructions that override the instructions of the assistant. This is useful for modifying the behavior on ..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/instructions/"

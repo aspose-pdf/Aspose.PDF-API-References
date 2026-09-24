@@ -2,8 +2,8 @@
 title: "ImagesDifference.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Performs any necessary clean up operations before the object is destroyed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagesDifference method. Performs any necessary clean up operations before the object is destroyed."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/imagesdifference/dispose/"

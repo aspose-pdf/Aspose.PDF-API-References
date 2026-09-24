@@ -2,8 +2,8 @@
 title: "PrinterSettings.ToPage"
 linktitle: "ToPage"
 articleTitle: "ToPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the last page to print."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the last page to print."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.printing/printersettings/topage/"

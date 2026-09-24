@@ -2,8 +2,8 @@
 title: "TabStop.AlignmentType"
 linktitle: "AlignmentType"
 articleTitle: "AlignmentType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a enum that indicates the tab tab alignment type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStop property. Gets or sets a enum that indicates the tab tab alignment type."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/tabstop/alignmenttype/"

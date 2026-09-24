@@ -2,8 +2,8 @@
 title: "PDF3DAnnotation.GetImagePreview"
 linktitle: "GetImagePreview"
 articleTitle: "GetImagePreview"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the image preview."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DAnnotation method. Gets the image preview."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/pdf3dannotation/getimagepreview/"

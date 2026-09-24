@@ -2,8 +2,8 @@
 title: "BlendMode Enum"
 linktitle: "BlendMode"
 articleTitle: "BlendMode"
-second_title: "Aspose.PDF for .NET"
-description: "The blend modes enumeration."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BlendMode enum. The blend modes enumeration."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/blendmode/"

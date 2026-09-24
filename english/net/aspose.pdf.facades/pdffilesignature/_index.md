@@ -2,8 +2,8 @@
 title: "PdfFileSignature Class"
 linktitle: "PdfFileSignature"
 articleTitle: "PdfFileSignature"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to sign a pdf file with a certificate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileSignature class. Represents a class to sign a pdf file with a certificate."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.facades/pdffilesignature/"

@@ -2,8 +2,8 @@
 title: "PdfFileEditor.MakeBooklet"
 linktitle: "MakeBooklet"
 articleTitle: "MakeBooklet"
-second_title: "Aspose.PDF for .NET"
-description: "Makes booklet from the input file to output file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Makes booklet from the input file to output file."
 type: docs
 weight: 650
 url: "/net/aspose.pdf.facades/pdffileeditor/makebooklet/"

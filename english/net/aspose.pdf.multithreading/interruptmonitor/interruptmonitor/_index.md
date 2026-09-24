@@ -2,8 +2,8 @@
 title: "InterruptMonitor.InterruptMonitor"
 linktitle: "InterruptMonitor"
 articleTitle: "InterruptMonitor"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the InterruptMonitor class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InterruptMonitor constructor. Initializes a new instance of the InterruptMonitor class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.multithreading/interruptmonitor/interruptmonitor/"

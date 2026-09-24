@@ -2,8 +2,8 @@
 title: "IPipelineOptions Interface"
 linktitle: "IPipelineOptions"
 articleTitle: "IPipelineOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Defines conversion options related to pipeline configuration."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IPipelineOptions interface. Defines conversion options related to pipeline configuration."
 type: docs
 weight: 1440
 url: "/net/aspose.pdf/ipipelineoptions/"

@@ -2,8 +2,8 @@
 title: "SvgSaveOptions.CustomStrategyOfEmbeddedImagesSaving"
 linktitle: "CustomStrategyOfEmbeddedImagesSaving"
 articleTitle: "CustomStrategyOfEmbeddedImagesSaving"
-second_title: "Aspose.PDF for .NET"
-description: "This field can contain saving strategy that must be used (if present) during conversion for customized handling of created referenced external images files (..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgSaveOptions field. This field can contain saving strategy that must be used (if present) during conversion for customized handling of created referenced e..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/"

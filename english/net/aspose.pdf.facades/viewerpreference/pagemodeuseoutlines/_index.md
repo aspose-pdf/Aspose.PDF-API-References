@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageModeUseOutlines"
 linktitle: "PageModeUseOutlines"
 articleTitle: "PageModeUseOutlines"
-second_title: "Aspose.PDF for .NET"
-description: "Document outline visible."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Document outline visible."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodeuseoutlines/"

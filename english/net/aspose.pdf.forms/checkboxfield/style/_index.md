@@ -2,8 +2,8 @@
 title: "CheckboxField.Style"
 linktitle: "Style"
 articleTitle: "Style"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets style of check box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CheckboxField property. Gets or sets style of check box."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/checkboxfield/style/"

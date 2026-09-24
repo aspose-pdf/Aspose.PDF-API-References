@@ -2,8 +2,8 @@
 title: "FormExporter.FormExporter"
 linktitle: "FormExporter"
 articleTitle: "FormExporter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormExporter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormExporter constructor. Initializes a new instance of the FormExporter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formexporter/formexporter/"

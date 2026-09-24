@@ -2,8 +2,8 @@
 title: "EI.EI"
 linktitle: "EI"
 articleTitle: "EI"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EI class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EI constructor. Initializes a new instance of the EI class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/ei/ei/"

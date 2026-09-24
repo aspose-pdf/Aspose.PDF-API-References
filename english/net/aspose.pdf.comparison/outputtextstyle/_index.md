@@ -2,8 +2,8 @@
 title: "OutputTextStyle Class"
 linktitle: "OutputTextStyle"
 articleTitle: "OutputTextStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a style set class for marking text changes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.OutputTextStyle class. Represents a style set class for marking text changes."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.comparison/outputtextstyle/"

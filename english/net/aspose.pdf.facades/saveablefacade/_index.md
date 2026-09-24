@@ -2,8 +2,8 @@
 title: "SaveableFacade Class"
 linktitle: "SaveableFacade"
 articleTitle: "SaveableFacade"
-second_title: "Aspose.PDF for .NET"
-description: "Base class for all saveable facades."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.SaveableFacade class. Base class for all saveable facades."
 type: docs
 weight: 590
 url: "/net/aspose.pdf.facades/saveablefacade/"

@@ -2,8 +2,8 @@
 title: "PdfFileEditor.LastException"
 linktitle: "LastException"
 articleTitle: "LastException"
-second_title: "Aspose.PDF for .NET"
-description: "Gets last occured exception. May be used to check the reason of failure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Gets last occured exception. May be used to check the reason of failure."
 type: docs
 weight: 1200
 url: "/net/aspose.pdf.facades/pdffileeditor/lastexception/"

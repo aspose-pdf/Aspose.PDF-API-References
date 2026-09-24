@@ -2,8 +2,8 @@
 title: "AttributeKey.BBox"
 linktitle: "BBox"
 articleTitle: "BBox"
-second_title: "Aspose.PDF for .NET"
-description: "BBox attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. BBox attribute (Layout attribute owner)."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.logicalstructure/attributekey/bbox/"

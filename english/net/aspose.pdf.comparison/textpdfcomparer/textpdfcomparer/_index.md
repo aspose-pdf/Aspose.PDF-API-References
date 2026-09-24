@@ -2,8 +2,8 @@
 title: "TextPdfComparer.TextPdfComparer"
 linktitle: "TextPdfComparer"
 articleTitle: "TextPdfComparer"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextPdfComparer class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer constructor. Initializes a new instance of the TextPdfComparer class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/textpdfcomparer/textpdfcomparer/"

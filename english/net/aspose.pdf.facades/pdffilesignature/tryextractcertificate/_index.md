@@ -2,8 +2,8 @@
 title: "PdfFileSignature.TryExtractCertificate"
 linktitle: "TryExtractCertificate"
 articleTitle: "TryExtractCertificate"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.facades/pdffilesignature/tryextractcertificate/"

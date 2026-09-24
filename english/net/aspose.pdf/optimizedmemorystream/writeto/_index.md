@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.WriteTo"
 linktitle: "WriteTo"
 articleTitle: "WriteTo"
-second_title: "Aspose.PDF for .NET"
-description: "Writes to the specified stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. Writes to the specified stream."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/optimizedmemorystream/writeto/"

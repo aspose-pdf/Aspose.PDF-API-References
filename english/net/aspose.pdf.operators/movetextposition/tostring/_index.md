@@ -2,8 +2,8 @@
 title: "MoveTextPosition.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text representation of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MoveTextPosition method. Returns text representation of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/movetextposition/tostring/"

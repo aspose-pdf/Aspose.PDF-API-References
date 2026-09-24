@@ -2,8 +2,8 @@
 title: "SaveOptions.BorderPartStyle Class"
 linktitle: "SaveOptions.BorderPartStyle"
 articleTitle: "SaveOptions.BorderPartStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Represents information of one part of border(top, bottom, left side or right side)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SaveOptions.BorderPartStyle class. Represents information of one part of border(top, bottom, left side or right side)"
 type: docs
 weight: 2780
 url: "/net/aspose.pdf/saveoptions.borderpartstyle/"

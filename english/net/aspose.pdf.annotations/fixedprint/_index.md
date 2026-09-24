@@ -2,8 +2,8 @@
 title: "FixedPrint Class"
 linktitle: "FixedPrint"
 articleTitle: "FixedPrint"
-second_title: "Aspose.PDF for .NET"
-description: "Represent Fixed print data of Watermark Annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FixedPrint class. Represent Fixed print data of Watermark Annotation."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.annotations/fixedprint/"

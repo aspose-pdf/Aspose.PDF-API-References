@@ -2,8 +2,8 @@
 title: "GraphicElementCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether an element is in the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElementCollection method. Determines whether an element is in the collection."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.vector/graphicelementcollection/contains/"

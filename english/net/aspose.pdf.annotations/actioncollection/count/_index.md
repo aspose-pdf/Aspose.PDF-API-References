@@ -2,8 +2,8 @@
 title: "ActionCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Count of actions on the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection property. Count of actions on the collection."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/actioncollection/count/"

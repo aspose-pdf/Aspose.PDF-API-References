@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.Flush"
 linktitle: "Flush"
 articleTitle: "Flush"
-second_title: "Aspose.PDF for .NET"
-description: "The function overrided."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. The function overrided."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/optimizedmemorystream/flush/"

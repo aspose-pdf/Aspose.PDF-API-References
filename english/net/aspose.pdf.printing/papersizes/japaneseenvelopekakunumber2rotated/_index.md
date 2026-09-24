@@ -2,8 +2,8 @@
 title: "PaperSizes.JapaneseEnvelopeKakuNumber2Rotated"
 linktitle: "JapaneseEnvelopeKakuNumber2Rotated"
 articleTitle: "JapaneseEnvelopeKakuNumber2Rotated"
-second_title: "Aspose.PDF for .NET"
-description: "Japanese rotated Kaku #2 envelope."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Japanese rotated Kaku #2 envelope."
 type: docs
 weight: 820
 url: "/net/aspose.pdf.printing/papersizes/japaneseenvelopekakunumber2rotated/"

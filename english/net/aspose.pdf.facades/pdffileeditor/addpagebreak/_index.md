@@ -2,8 +2,8 @@
 title: "PdfFileEditor.AddPageBreak"
 linktitle: "AddPageBreak"
 articleTitle: "AddPageBreak"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method."
 type: docs
 weight: 990
 url: "/net/aspose.pdf.facades/pdffileeditor/addpagebreak/"

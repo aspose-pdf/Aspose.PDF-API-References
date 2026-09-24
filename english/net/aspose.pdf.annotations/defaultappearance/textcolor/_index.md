@@ -2,8 +2,8 @@
 title: "DefaultAppearance.TextColor"
 linktitle: "TextColor"
 articleTitle: "TextColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the color of text in the default appearance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DefaultAppearance property. Gets or sets the color of text in the default appearance."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/defaultappearance/textcolor/"

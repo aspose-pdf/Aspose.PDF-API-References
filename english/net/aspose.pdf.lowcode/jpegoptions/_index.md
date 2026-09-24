@@ -2,8 +2,8 @@
 title: "JpegOptions Class"
 linktitle: "JpegOptions"
 articleTitle: "JpegOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Pdf to Jpeg converter options for the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.JpegOptions class. Represents Pdf to Jpeg converter options for the plugin."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.lowcode/jpegoptions/"

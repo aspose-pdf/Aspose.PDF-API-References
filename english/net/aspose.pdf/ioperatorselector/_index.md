@@ -2,8 +2,8 @@
 title: "IOperatorSelector Interface"
 linktitle: "IOperatorSelector"
 articleTitle: "IOperatorSelector"
-second_title: "Aspose.PDF for .NET"
-description: "Defines Visitor for visiting different pdf operators."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IOperatorSelector interface. Defines Visitor for visiting different pdf operators."
 type: docs
 weight: 1420
 url: "/net/aspose.pdf/ioperatorselector/"

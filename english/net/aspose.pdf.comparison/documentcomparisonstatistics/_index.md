@@ -2,8 +2,8 @@
 title: "DocumentComparisonStatistics Class"
 linktitle: "DocumentComparisonStatistics"
 articleTitle: "DocumentComparisonStatistics"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a document comparison statistics class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.DocumentComparisonStatistics class. Represents a document comparison statistics class."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/documentcomparisonstatistics/"

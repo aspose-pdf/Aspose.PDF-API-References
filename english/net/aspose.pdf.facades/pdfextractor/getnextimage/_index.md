@@ -2,8 +2,8 @@
 title: "PdfExtractor.GetNextImage"
 linktitle: "GetNextImage"
 articleTitle: "GetNextImage"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves next image from PDF document. Note: ExtractImage must be called before using of this method."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Retrieves next image from PDF document. Note: ExtractImage must be called before using of this method."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdfextractor/getnextimage/"

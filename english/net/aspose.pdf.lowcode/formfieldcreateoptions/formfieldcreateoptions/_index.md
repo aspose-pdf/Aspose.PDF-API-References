@@ -2,8 +2,8 @@
 title: "FormFieldCreateOptions.FormFieldCreateOptions"
 linktitle: "FormFieldCreateOptions"
 articleTitle: "FormFieldCreateOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormFieldCreateOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldCreateOptions constructor. Initializes a new instance of the FormFieldCreateOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formfieldcreateoptions/formfieldcreateoptions/"

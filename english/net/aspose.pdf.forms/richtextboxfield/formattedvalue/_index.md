@@ -2,8 +2,8 @@
 title: "RichTextBoxField.FormattedValue"
 linktitle: "FormattedValue"
 articleTitle: "FormattedValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets formatted rich text value with markup."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichTextBoxField property. Gets or sets formatted rich text value with markup."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/richtextboxfield/formattedvalue/"

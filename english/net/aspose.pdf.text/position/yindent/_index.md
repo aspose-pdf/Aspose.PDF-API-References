@@ -2,8 +2,8 @@
 title: "Position.YIndent"
 linktitle: "YIndent"
 articleTitle: "YIndent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the Y coordinate of the object"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Position property. Gets the Y coordinate of the object"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/position/yindent/"

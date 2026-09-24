@@ -2,8 +2,8 @@
 title: "CodeInterpreter Class"
 linktitle: "CodeInterpreter"
 articleTitle: "CodeInterpreter"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the code interpreter tool resources."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.CodeInterpreter class. Represents the code interpreter tool resources."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.ai/codeinterpreter/"

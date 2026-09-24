@@ -2,8 +2,8 @@
 title: "Stamp.ZoomX"
 linktitle: "ZoomX"
 articleTitle: "ZoomX"
-second_title: "Aspose.PDF for .NET"
-description: "Horizontal zooming factor of the stamp. Allows to scale stamp horizontally."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Horizontal zooming factor of the stamp. Allows to scale stamp horizontally."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/stamp/zoomx/"

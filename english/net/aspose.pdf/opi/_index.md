@@ -2,8 +2,8 @@
 title: "Opi Class"
 linktitle: "Opi"
 articleTitle: "Opi"
-second_title: "Aspose.PDF for .NET"
-description: "Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies, for such high-resolution images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Opi class. Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies, for such high-resolut..."
 type: docs
 weight: 2040
 url: "/net/aspose.pdf/opi/"

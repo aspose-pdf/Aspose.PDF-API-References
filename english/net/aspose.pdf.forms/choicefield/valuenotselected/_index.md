@@ -2,8 +2,8 @@
 title: "ChoiceField.ValueNotSelected"
 linktitle: "ValueNotSelected"
 articleTitle: "ValueNotSelected"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChoiceField field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/choicefield/valuenotselected/"

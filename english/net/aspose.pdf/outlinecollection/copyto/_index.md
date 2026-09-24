@@ -2,8 +2,8 @@
 title: "OutlineCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies the outline items to an System.Array, starting at a particular System.Array index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineCollection method. Copies the outline items to an System.Array, starting at a particular System.Array index."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/outlinecollection/copyto/"

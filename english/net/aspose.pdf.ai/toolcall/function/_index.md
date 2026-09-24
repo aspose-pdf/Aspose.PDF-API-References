@@ -2,8 +2,8 @@
 title: "ToolCall.Function"
 linktitle: "Function"
 articleTitle: "Function"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the function that the model called."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ToolCall property. Gets or sets the function that the model called."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/toolcall/function/"

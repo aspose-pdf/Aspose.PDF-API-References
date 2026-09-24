@@ -2,8 +2,8 @@
 title: "PDF3DViewArray.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds the specified view."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DViewArray method. Adds the specified view."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/add/"

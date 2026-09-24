@@ -2,8 +2,8 @@
 title: "PageSettingsExtensions.ToNativePageSettings"
 linktitle: "ToNativePageSettings"
 articleTitle: "ToNativePageSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Converts to Windows-specific System.Drawing.Printing.PageSettings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettingsExtensions method. Converts to Windows-specific System.Drawing.Printing.PageSettings."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/"

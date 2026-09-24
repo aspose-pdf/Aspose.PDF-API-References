@@ -2,8 +2,8 @@
 title: "XForm.CreateNewForm"
 linktitle: "CreateNewForm"
 articleTitle: "CreateNewForm"
-second_title: "Aspose.PDF for .NET"
-description: "Creates XForm which duplicates contents of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm method. Creates XForm which duplicates contents of the page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xform/createnewform/"

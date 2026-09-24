@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.Night"
 linktitle: "Night"
 articleTitle: "Night"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Night\" lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Night\" lighting scheme."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/night/"

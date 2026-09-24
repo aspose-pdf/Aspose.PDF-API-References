@@ -2,8 +2,8 @@
 title: "DestinationCollection.IndexOf"
 linktitle: "IndexOf"
 articleTitle: "IndexOf"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the index of destination in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Returns the index of destination in collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/destinationcollection/indexof/"

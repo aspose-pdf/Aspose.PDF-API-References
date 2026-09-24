@@ -2,8 +2,8 @@
 title: "OpenAIClient.WaitForThreadMessageToCompleteAsync"
 linktitle: "WaitForThreadMessageToCompleteAsync"
 articleTitle: "WaitForThreadMessageToCompleteAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Waits for a specific thread message to complete asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Waits for a specific thread message to complete asynchronously."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.ai/openaiclient/waitforthreadmessagetocompleteasync/"

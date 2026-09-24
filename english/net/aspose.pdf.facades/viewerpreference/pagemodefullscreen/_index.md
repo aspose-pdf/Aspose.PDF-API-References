@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageModeFullScreen"
 linktitle: "PageModeFullScreen"
 articleTitle: "PageModeFullScreen"
-second_title: "Aspose.PDF for .NET"
-description: "Full-screen mode, with no menu bar, window controls, or any other window visible."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Full-screen mode, with no menu bar, window controls, or any other window visible."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodefullscreen/"

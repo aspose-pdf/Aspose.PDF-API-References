@@ -2,8 +2,8 @@
 title: "SideBySideDocsComparisonResult.FullChanges"
 linktitle: "FullChanges"
 articleTitle: "FullChanges"
-second_title: "Aspose.PDF for .NET"
-description: "Get a complete list of changes to the pages of the document. Each index in the list represents the two pages of the document that are being compared, and the..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySideDocsComparisonResult property. Get a complete list of changes to the pages of the document. Each index in the list represents the two pages of the ..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/sidebysidedocscomparisonresult/fullchanges/"

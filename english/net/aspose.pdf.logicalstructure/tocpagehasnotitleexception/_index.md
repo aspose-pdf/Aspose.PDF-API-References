@@ -2,8 +2,8 @@
 title: "TOCpageHasNoTitleException Class"
 linktitle: "TOCpageHasNoTitleException"
 articleTitle: "TOCpageHasNoTitleException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an exception that is thrown when a Table of Contents (TOC) page does not have a title assigned during an operation that requires it."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.TOCpageHasNoTitleException class. Represents an exception that is thrown when a Table of Contents (TOC) page does not have a titl..."
 type: docs
 weight: 610
 url: "/net/aspose.pdf.logicalstructure/tocpagehasnotitleexception/"

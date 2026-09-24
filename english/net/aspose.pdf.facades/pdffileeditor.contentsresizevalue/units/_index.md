@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeValue.Units"
 linktitle: "Units"
 articleTitle: "Units"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes value in default space units."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeValue method. Initializes value in default space units."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/units/"

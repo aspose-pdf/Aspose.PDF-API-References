@@ -2,8 +2,8 @@
 title: "ImagesDifference.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "The height of difference."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagesDifference property. The height of difference."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/imagesdifference/height/"

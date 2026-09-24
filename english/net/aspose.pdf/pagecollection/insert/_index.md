@@ -2,8 +2,8 @@
 title: "PageCollection.Insert"
 linktitle: "Insert"
 articleTitle: "Insert"
-second_title: "Aspose.PDF for .NET"
-description: "Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequentl..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the siz..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/pagecollection/insert/"

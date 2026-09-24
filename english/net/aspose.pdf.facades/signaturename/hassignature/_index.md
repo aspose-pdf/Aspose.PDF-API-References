@@ -2,8 +2,8 @@
 title: "SignatureName.HasSignature"
 linktitle: "HasSignature"
 articleTitle: "HasSignature"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the signature is present or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureName property. Indicates whether the signature is present or not."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/signaturename/hassignature/"

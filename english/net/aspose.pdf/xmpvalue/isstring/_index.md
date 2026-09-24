@@ -2,8 +2,8 @@
 title: "XmpValue.IsString"
 linktitle: "IsString"
 articleTitle: "IsString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if value is string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue property. Returns true if value is string."
 type: docs
 weight: 290
 url: "/net/aspose.pdf/xmpvalue/isstring/"

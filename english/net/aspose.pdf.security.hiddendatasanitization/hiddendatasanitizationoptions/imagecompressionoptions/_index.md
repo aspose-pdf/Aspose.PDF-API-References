@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions.ImageCompressionOptions"
 linktitle: "ImageCompressionOptions"
 articleTitle: "ImageCompressionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the document image conversion option. The option must be enabled manually when using the method if it is required."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizationOptions property. Gets or sets the document image conversion option. The option must be enabled manually when using the method if it is..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/imagecompressionoptions/"

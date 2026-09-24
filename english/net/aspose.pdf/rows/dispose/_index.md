@@ -2,8 +2,8 @@
 title: "Rows.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Dispose."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rows method. Dispose."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/rows/dispose/"

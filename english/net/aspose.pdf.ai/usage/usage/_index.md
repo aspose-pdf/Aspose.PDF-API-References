@@ -2,8 +2,8 @@
 title: "Usage.Usage"
 linktitle: "Usage"
 articleTitle: "Usage"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Usage class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Usage constructor. Initializes a new instance of the Usage class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/usage/usage/"

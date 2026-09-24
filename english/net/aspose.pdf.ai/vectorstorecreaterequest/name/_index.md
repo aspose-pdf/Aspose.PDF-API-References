@@ -2,8 +2,8 @@
 title: "VectorStoreCreateRequest.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the name of the vector store."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreCreateRequest property. Gets or sets the name of the vector store."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstorecreaterequest/name/"

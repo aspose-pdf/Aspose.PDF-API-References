@@ -2,8 +2,8 @@
 title: "Page.HasVectorGraphics"
 linktitle: "HasVectorGraphics"
 articleTitle: "HasVectorGraphics"
-second_title: "Aspose.PDF for .NET"
-description: "Detect of the presence of vector graphics, if it is present on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Detect of the presence of vector graphics, if it is present on the page."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/page/hasvectorgraphics/"

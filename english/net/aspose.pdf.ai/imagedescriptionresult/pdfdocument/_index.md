@@ -2,8 +2,8 @@
 title: "ImageDescriptionResult.PdfDocument"
 linktitle: "PdfDocument"
 articleTitle: "PdfDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDescriptionResult property. Gets or sets the PDF document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/imagedescriptionresult/pdfdocument/"

@@ -2,8 +2,8 @@
 title: "TextStamp.Put"
 linktitle: "Put"
 articleTitle: "Put"
-second_title: "Aspose.PDF for .NET"
-description: "Adds textual stamp on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp method. Adds textual stamp on the page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/textstamp/put/"

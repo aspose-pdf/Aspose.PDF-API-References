@@ -2,8 +2,8 @@
 title: "NamedDestinationCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Count of named destinations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NamedDestinationCollection property. Count of named destinations."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/nameddestinationcollection/count/"

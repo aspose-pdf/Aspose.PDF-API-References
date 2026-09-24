@@ -2,8 +2,8 @@
 title: "PageCollectionExtensions.AddBatesNumbering"
 linktitle: "AddBatesNumbering"
 articleTitle: "AddBatesNumbering"
-second_title: "Aspose.PDF for .NET"
-description: "Adds Bates numbering to each page in the given page collection using the specified action to configure the BatesNArtifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollectionExtensions method. Adds Bates numbering to each page in the given page collection using the specified action to configure the BatesNArtifact."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagecollectionextensions/addbatesnumbering/"

@@ -2,8 +2,8 @@
 title: "PdfFileStamp.KeepSecurity"
 linktitle: "KeepSecurity"
 articleTitle: "KeepSecurity"
-second_title: "Aspose.PDF for .NET"
-description: "Keeps security if true. (This feature will be implemented in next versions)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp property. Keeps security if true. (This feature will be implemented in next versions)."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdffilestamp/keepsecurity/"

@@ -2,8 +2,8 @@
 title: "ElementList Class"
 linktitle: "ElementList"
 articleTitle: "ElementList"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an ordered collection of elements."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.ElementList class. Represents an ordered collection of elements."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/elementlist/"

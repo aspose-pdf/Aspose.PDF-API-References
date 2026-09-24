@@ -2,8 +2,8 @@
 title: "CosPdfPrimitive.CosPdfPrimitive"
 linktitle: "CosPdfPrimitive"
 articleTitle: "CosPdfPrimitive"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CosPdfPrimitive class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfPrimitive constructor. Initializes a new instance of the CosPdfPrimitive class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfprimitive/cospdfprimitive/"

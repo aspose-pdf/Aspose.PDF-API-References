@@ -2,8 +2,8 @@
 title: "AttributeName.GlyphOrientationVertical_Auto"
 linktitle: "GlyphOrientationVertical_Auto"
 articleTitle: "GlyphOrientationVertical_Auto"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute GlyphOrientationVertical: Auto - Specifies a default orientation for text, depending on whether it is fullwidth (as wide as it is high)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute GlyphOrientationVertical: Auto - Specifies a default orientation for text, depending on whether it is fullwidth (as wide as it..."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/"

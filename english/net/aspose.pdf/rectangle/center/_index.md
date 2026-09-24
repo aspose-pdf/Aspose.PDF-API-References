@@ -2,8 +2,8 @@
 title: "Rectangle.Center"
 linktitle: "Center"
 articleTitle: "Center"
-second_title: "Aspose.PDF for .NET"
-description: "Returncs coordinates of center of the rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Returncs coordinates of center of the rectangle."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/rectangle/center/"

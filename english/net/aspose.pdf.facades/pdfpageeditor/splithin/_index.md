@@ -2,8 +2,8 @@
 title: "PdfPageEditor.SPLITHIN"
 linktitle: "SPLITHIN"
 articleTitle: "SPLITHIN"
-second_title: "Aspose.PDF for .NET"
-description: "IN Horizontal Split"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. IN Horizontal Split"
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdfpageeditor/splithin/"

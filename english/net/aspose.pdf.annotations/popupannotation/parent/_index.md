@@ -2,8 +2,8 @@
 title: "PopupAnnotation.Parent"
 linktitle: "Parent"
 articleTitle: "Parent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent annotation's Contents, M, C, a..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PopupAnnotation property. Gets or sets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent anno..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/popupannotation/parent/"

@@ -2,8 +2,8 @@
 title: "CircleAnnotation Class"
 linktitle: "CircleAnnotation"
 articleTitle: "CircleAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Circle annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.CircleAnnotation class. Class representing Circle annotation."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.annotations/circleannotation/"

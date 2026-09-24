@@ -2,8 +2,8 @@
 title: "IFacade.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Binds PDF document for editing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IFacade method. Binds PDF document for editing."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/ifacade/bindpdf/"

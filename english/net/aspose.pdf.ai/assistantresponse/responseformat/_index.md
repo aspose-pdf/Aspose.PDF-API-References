@@ -2,8 +2,8 @@
 title: "AssistantResponse.ResponseFormat"
 linktitle: "ResponseFormat"
 articleTitle: "ResponseFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the format that the model must output. Compatible with GPT-4o, GPT-4 Turbo, and all GPT-3.5 Turbo models since gpt-3.5-turbo-1106 . Setting to {..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantResponse property. Gets or sets the format that the model must output. Compatible with GPT-4o, GPT-4 Turbo, and all GPT-3.5 Turbo models since gpt-3..."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.ai/assistantresponse/responseformat/"

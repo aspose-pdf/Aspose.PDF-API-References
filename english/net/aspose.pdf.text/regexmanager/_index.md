@@ -2,8 +2,8 @@
 title: "RegexManager Class"
 linktitle: "RegexManager"
 articleTitle: "RegexManager"
-second_title: "Aspose.PDF for .NET"
-description: "Provides a wrapper for regular expression operations with configurable timeout settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.RegexManager class. Provides a wrapper for regular expression operations with configurable timeout settings."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.text/regexmanager/"

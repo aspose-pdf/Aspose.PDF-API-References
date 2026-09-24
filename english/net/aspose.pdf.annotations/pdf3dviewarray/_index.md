@@ -2,8 +2,8 @@
 title: "PDF3DViewArray Class"
 linktitle: "PDF3DViewArray"
 articleTitle: "PDF3DViewArray"
-second_title: "Aspose.PDF for .NET"
-description: "Class PDF3DViewArray."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DViewArray class. Class PDF3DViewArray."
 type: docs
 weight: 870
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/"

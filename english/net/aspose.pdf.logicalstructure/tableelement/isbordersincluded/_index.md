@@ -2,8 +2,8 @@
 title: "TableElement.IsBordersIncluded"
 linktitle: "IsBordersIncluded"
 articleTitle: "IsBordersIncluded"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets border included in column widhts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets border included in column widhts."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/"

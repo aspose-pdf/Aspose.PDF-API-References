@@ -2,8 +2,8 @@
 title: "Circle Class"
 linktitle: "Circle"
 articleTitle: "Circle"
-second_title: "Aspose.PDF for .NET"
-description: "Represents circle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.Circle class. Represents circle."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/circle/"

@@ -2,8 +2,8 @@
 title: "Stamp.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Desired height of the stamp on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Desired height of the stamp on the page."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/stamp/height/"

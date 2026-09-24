@@ -2,8 +2,8 @@
 title: "ViewerPreference.NonFullScreenPageModeUseNone"
 linktitle: "NonFullScreenPageModeUseNone"
 articleTitle: "NonFullScreenPageModeUseNone"
-second_title: "Aspose.PDF for .NET"
-description: "Neither document outline nor thumbnail images visible."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Neither document outline nor thumbnail images visible."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/"

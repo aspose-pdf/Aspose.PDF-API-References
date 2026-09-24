@@ -2,8 +2,8 @@
 title: "PositionSettings Class"
 linktitle: "PositionSettings"
 articleTitle: "PositionSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Position settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Tagged.PositionSettings class. Position settings."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.tagged/positionsettings/"

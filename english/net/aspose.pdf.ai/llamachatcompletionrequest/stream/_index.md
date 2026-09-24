@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionRequest.Stream"
 linktitle: "Stream"
 articleTitle: "Stream"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets whether to stream the response."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionRequest property. Sets or gets whether to stream the response."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/stream/"

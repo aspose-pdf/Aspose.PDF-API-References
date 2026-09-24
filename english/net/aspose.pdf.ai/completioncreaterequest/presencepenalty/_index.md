@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.PresencePenalty"
 linktitle: "PresencePenalty"
 articleTitle: "PresencePenalty"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelih..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so f..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/completioncreaterequest/presencepenalty/"

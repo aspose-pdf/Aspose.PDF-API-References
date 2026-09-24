@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.Vertices"
 linktitle: "Vertices"
 articleTitle: "Vertices"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Vertices\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"Vertices\" render mode."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.annotations/pdf3drendermode/vertices/"

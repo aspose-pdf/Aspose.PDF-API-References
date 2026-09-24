@@ -2,8 +2,8 @@
 title: "FileSpecification.GetFileName"
 linktitle: "GetFileName"
 articleTitle: "GetFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the file name using the available file specification names, the specified fallback name, or a generated name if no other name is available."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification method. Gets the file name using the available file specification names, the specified fallback name, or a generated name if no other name ..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/filespecification/getfilename/"

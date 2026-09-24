@@ -2,8 +2,8 @@
 title: "XImageCollection.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection property."
 type: docs
 weight: 270
 url: "/net/aspose.pdf/ximagecollection/item/"

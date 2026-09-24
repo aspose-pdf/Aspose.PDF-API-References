@@ -2,8 +2,8 @@
 title: "TextExtractor Class"
 linktitle: "TextExtractor"
 articleTitle: "TextExtractor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents TextExtractor plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TextExtractor class. Represents TextExtractor plugin."
 type: docs
 weight: 970
 url: "/net/aspose.pdf.lowcode/textextractor/"

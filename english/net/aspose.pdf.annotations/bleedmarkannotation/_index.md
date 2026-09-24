@@ -2,8 +2,8 @@
 title: "BleedMarkAnnotation Class"
 linktitle: "BleedMarkAnnotation"
 articleTitle: "BleedMarkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a Bleed Mark annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.BleedMarkAnnotation class. Represents a Bleed Mark annotation."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/bleedmarkannotation/"

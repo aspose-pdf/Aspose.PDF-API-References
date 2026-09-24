@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreatePdfDocumentLink"
 linktitle: "CreatePdfDocumentLink"
 articleTitle: "CreatePdfDocumentLink"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a link to another PDF document page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a link to another PDF document page."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/"

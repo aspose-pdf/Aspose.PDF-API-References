@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.SetAuxiliaryColour"
 linktitle: "SetAuxiliaryColour"
 articleTitle: "SetAuxiliaryColour"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the auxiliary colour."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode method. Sets the auxiliary colour."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/"

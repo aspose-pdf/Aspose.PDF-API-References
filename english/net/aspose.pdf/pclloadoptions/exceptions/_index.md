@@ -2,8 +2,8 @@
 title: "PclLoadOptions.Exceptions"
 linktitle: "Exceptions"
 articleTitle: "Exceptions"
-second_title: "Aspose.PDF for .NET"
-description: "List of conversion errors."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PclLoadOptions field. List of conversion errors."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pclloadoptions/exceptions/"

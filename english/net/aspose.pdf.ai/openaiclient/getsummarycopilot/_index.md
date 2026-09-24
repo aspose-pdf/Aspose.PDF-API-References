@@ -2,8 +2,8 @@
 title: "OpenAIClient.GetSummaryCopilot"
 linktitle: "GetSummaryCopilot"
 articleTitle: "GetSummaryCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an instance of with the specified options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Gets an instance of with the specified options."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/openaiclient/getsummarycopilot/"

@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Level"
 linktitle: "Level"
 articleTitle: "Level"
-second_title: "Aspose.PDF for .NET"
-description: "Gets hierarchy level of outline item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets hierarchy level of outline item."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/outlineitemcollection/level/"

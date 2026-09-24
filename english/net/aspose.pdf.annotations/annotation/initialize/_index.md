@@ -2,8 +2,8 @@
 title: "Annotation.Initialize"
 linktitle: "Initialize"
 articleTitle: "Initialize"
-second_title: "Aspose.PDF for .NET"
-description: "Initialize the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation method. Initialize the annotation."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/annotation/initialize/"

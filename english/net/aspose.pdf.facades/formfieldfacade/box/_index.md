@@ -2,8 +2,8 @@
 title: "FormFieldFacade.Box"
 linktitle: "Box"
 articleTitle: "Box"
-second_title: "Aspose.PDF for .NET"
-description: "A rectangle object holding field's location."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. A rectangle object holding field's location."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/formfieldfacade/box/"

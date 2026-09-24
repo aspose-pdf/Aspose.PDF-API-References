@@ -2,8 +2,8 @@
 title: "MarkupSection.Fragments"
 linktitle: "Fragments"
 articleTitle: "Fragments"
-second_title: "Aspose.PDF for .NET"
-description: "Collection of not empty objects that are inside the section."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupSection property. Collection of not empty objects that are inside the section."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/markupsection/fragments/"

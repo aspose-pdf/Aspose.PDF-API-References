@@ -2,8 +2,8 @@
 title: "PageMarkup.TextFragments"
 linktitle: "TextFragments"
 articleTitle: "TextFragments"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of that was found on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageMarkup property. Gets collection of that was found on the page."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/pagemarkup/textfragments/"

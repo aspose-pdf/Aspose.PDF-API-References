@@ -2,8 +2,8 @@
 title: "TableGenerator.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Implementation of IDisposable. In fact, it is not necessary for TableGenerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableGenerator method. Implementation of IDisposable. In fact, it is not necessary for TableGenerator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/tablegenerator/dispose/"

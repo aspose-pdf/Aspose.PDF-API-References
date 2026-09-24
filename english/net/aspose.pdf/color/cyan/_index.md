@@ -2,8 +2,8 @@
 title: "Color.Cyan"
 linktitle: "Cyan"
 articleTitle: "Cyan"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FF00FFFF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FF00FFFF."
 type: docs
 weight: 390
 url: "/net/aspose.pdf/color/cyan/"

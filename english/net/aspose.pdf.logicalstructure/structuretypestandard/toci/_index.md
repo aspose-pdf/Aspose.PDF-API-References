@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.TOCI"
 linktitle: "TOCI"
 articleTitle: "TOCI"
-second_title: "Aspose.PDF for .NET"
-description: "(Table of contents item) An individual member of a table of contents. This entry's children may be any of the following structure types: Lbl A label Referenc..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Table of contents item) An individual member of a table of contents. This entry's children may be any of the following structur..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/toci/"

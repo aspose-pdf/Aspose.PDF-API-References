@@ -2,8 +2,8 @@
 title: "AttributeKey.Headers"
 linktitle: "Headers"
 articleTitle: "Headers"
-second_title: "Aspose.PDF for .NET"
-description: "Headers attribute (Table attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Headers attribute (Table attribute owner)."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.logicalstructure/attributekey/headers/"

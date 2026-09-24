@@ -2,8 +2,8 @@
 title: "FontCollection Class"
 linktitle: "FontCollection"
 articleTitle: "FontCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents font collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.FontCollection class. Represents font collection."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.text/fontcollection/"

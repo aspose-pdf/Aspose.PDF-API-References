@@ -2,8 +2,8 @@
 title: "SquigglyAnnotation.AnnotationType"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SquigglyAnnotation property. Gets type of annotation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/squigglyannotation/annotationtype/"

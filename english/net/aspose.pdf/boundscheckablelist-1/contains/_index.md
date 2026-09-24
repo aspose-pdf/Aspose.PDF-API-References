@@ -2,8 +2,8 @@
 title: "BoundsCheckableList<T>.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList method."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/boundscheckablelist-1/contains/"

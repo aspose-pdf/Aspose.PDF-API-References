@@ -2,8 +2,8 @@
 title: "SignatureField Class"
 linktitle: "SignatureField"
 articleTitle: "SignatureField"
-second_title: "Aspose.PDF for .NET"
-description: "Represents signature form field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.SignatureField class. Represents signature form field."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.forms/signaturefield/"

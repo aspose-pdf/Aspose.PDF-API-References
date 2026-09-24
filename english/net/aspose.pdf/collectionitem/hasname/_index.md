@@ -2,8 +2,8 @@
 title: "CollectionItem.HasName"
 linktitle: "HasName"
 articleTitle: "HasName"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if the given name exists in the collection item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionItem method. Checks if the given name exists in the collection item."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/collectionitem/hasname/"

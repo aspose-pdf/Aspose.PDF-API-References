@@ -2,8 +2,8 @@
 title: "ToolCall Class"
 linktitle: "ToolCall"
 articleTitle: "ToolCall"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a tool call within a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ToolCall class. Represents a tool call within a message."
 type: docs
 weight: 1290
 url: "/net/aspose.pdf.ai/toolcall/"

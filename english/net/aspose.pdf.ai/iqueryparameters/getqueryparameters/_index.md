@@ -2,8 +2,8 @@
 title: "IQueryParameters.GetQueryParameters"
 linktitle: "GetQueryParameters"
 articleTitle: "GetQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the query parameters as a string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IQueryParameters method. Gets the query parameters as a string."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/"

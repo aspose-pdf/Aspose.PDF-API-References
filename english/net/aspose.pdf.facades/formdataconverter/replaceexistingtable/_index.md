@@ -2,8 +2,8 @@
 title: "FormDataConverter.ReplaceExistingTable"
 linktitle: "ReplaceExistingTable"
 articleTitle: "ReplaceExistingTable"
-second_title: "Aspose.PDF for .NET"
-description: "ImportIntoDatabase will drop existing table and create new table if this property set to true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter property. ImportIntoDatabase will drop existing table and create new table if this property set to true."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/formdataconverter/replaceexistingtable/"

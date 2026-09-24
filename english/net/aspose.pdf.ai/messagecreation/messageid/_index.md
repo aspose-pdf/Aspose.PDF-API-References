@@ -2,8 +2,8 @@
 title: "MessageCreation.MessageId"
 linktitle: "MessageId"
 articleTitle: "MessageId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the unique identifier of the message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MessageCreation property. Gets or sets the unique identifier of the message."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/messagecreation/messageid/"

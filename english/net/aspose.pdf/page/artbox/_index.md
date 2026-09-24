@@ -2,8 +2,8 @@
 title: "Page.ArtBox"
 linktitle: "ArtBox"
 articleTitle: "ArtBox"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets art box of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets art box of the page."
 type: docs
 weight: 540
 url: "/net/aspose.pdf/page/artbox/"

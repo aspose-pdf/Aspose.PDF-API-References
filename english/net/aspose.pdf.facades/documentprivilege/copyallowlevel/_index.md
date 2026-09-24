@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.CopyAllowLevel"
 linktitle: "CopyAllowLevel"
 articleTitle: "CopyAllowLevel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Gets and sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable te..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/documentprivilege/copyallowlevel/"

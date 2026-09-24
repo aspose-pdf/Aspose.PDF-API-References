@@ -2,8 +2,8 @@
 title: "TextSegmentCollection Class"
 linktitle: "TextSegmentCollection"
 articleTitle: "TextSegmentCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a text segments collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextSegmentCollection class. Represents a text segments collection"
 type: docs
 weight: 680
 url: "/net/aspose.pdf.text/textsegmentcollection/"

@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.StartingStyle"
 linktitle: "StartingStyle"
 articleTitle: "StartingStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets line ending style for line ending point. OThis property is obsolete, please use EndingStyle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation property. Gets or sets line ending style for line ending point. OThis property is obsolete, please use EndingStyle."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/freetextannotation/startingstyle/"

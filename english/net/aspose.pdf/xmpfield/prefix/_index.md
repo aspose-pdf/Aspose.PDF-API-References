@@ -2,8 +2,8 @@
 title: "XmpField.Prefix"
 linktitle: "Prefix"
 articleTitle: "Prefix"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the prefix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets the prefix."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/xmpfield/prefix/"

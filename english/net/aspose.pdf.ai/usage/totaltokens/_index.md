@@ -2,8 +2,8 @@
 title: "Usage.TotalTokens"
 linktitle: "TotalTokens"
 articleTitle: "TotalTokens"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets total number of tokens used in the request (prompt + completion)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Usage property. Gets or sets total number of tokens used in the request (prompt + completion)."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/usage/totaltokens/"

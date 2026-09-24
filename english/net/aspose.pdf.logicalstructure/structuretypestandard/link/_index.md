@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Link"
 linktitle: "Link"
 articleTitle: "Link"
-second_title: "Aspose.PDF for .NET"
-description: "(Link) An association between a portion of the ILSE's content and a corresponding link annotation or annotations. Its children should be one or more content ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Link) An association between a portion of the ILSE's content and a corresponding link annotation or annotations. Its children s..."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/link/"

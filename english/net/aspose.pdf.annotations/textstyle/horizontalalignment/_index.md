@@ -2,8 +2,8 @@
 title: "TextStyle.HorizontalAlignment"
 linktitle: "HorizontalAlignment"
 articleTitle: "HorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Text alignment. Valid values are: Left, Center, Rigth."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle property. Text alignment. Valid values are: Left, Center, Rigth."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/textstyle/horizontalalignment/"

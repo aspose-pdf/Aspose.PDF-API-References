@@ -2,8 +2,8 @@
 title: "SetCharWidthBoundingBox.Ury"
 linktitle: "Ury"
 articleTitle: "Ury"
-second_title: "Aspose.PDF for .NET"
-description: "Upper-right vertical coordinate of bounding rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidthBoundingBox property. Upper-right vertical coordinate of bounding rectangle."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/ury/"

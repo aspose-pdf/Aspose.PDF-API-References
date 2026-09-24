@@ -2,8 +2,8 @@
 title: "Metadata.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns dictionary enumerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Returns dictionary enumerator."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/metadata/getenumerator/"

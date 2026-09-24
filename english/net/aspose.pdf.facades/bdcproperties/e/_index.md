@@ -2,8 +2,8 @@
 title: "BDCProperties.E"
 linktitle: "E"
 articleTitle: "E"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets Expansion text value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BDCProperties property. Gets/sets Expansion text value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/bdcproperties/e/"

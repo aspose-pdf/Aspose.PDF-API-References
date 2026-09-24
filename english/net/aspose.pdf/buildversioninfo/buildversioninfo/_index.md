@@ -2,8 +2,8 @@
 title: "BuildVersionInfo.BuildVersionInfo"
 linktitle: "BuildVersionInfo"
 articleTitle: "BuildVersionInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BuildVersionInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BuildVersionInfo constructor. Initializes a new instance of the BuildVersionInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/buildversioninfo/buildversioninfo/"

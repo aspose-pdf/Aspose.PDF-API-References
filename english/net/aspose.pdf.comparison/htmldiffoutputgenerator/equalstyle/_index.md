@@ -2,8 +2,8 @@
 title: "HtmlDiffOutputGenerator.EqualStyle"
 linktitle: "EqualStyle"
 articleTitle: "EqualStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the CSS-style string for Equal operation. Example: color: #003300; background-color: #ccff66;"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlDiffOutputGenerator property. Gets and sets the CSS-style string for Equal operation. Example: color: #003300; background-color: #ccff66;"
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/equalstyle/"

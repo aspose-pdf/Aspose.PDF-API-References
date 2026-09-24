@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds value to XMP metadata."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Adds value to XMP metadata."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/add/"

@@ -2,8 +2,8 @@
 title: "Dash.Pattern"
 linktitle: "Pattern"
 articleTitle: "Pattern"
-second_title: "Aspose.PDF for .NET"
-description: "Gets dash array defining a pattern of dashes and gaps that shall be used in drawing a dashed border."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Dash property. Gets dash array defining a pattern of dashes and gaps that shall be used in drawing a dashed border."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/dash/pattern/"

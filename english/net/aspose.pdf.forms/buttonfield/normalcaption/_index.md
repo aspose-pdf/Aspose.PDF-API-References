@@ -2,8 +2,8 @@
 title: "ButtonField.NormalCaption"
 linktitle: "NormalCaption"
 articleTitle: "NormalCaption"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets normal caption."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ButtonField property. Gets or sets normal caption."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/buttonfield/normalcaption/"

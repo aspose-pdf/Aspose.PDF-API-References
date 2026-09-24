@@ -2,8 +2,8 @@
 title: "ReplaceTextStrategy.ReplaceTextStrategy"
 linktitle: "ReplaceTextStrategy"
 articleTitle: "ReplaceTextStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ReplaceTextStrategy class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ReplaceTextStrategy constructor. Initializes a new instance of the ReplaceTextStrategy class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/replacetextstrategy/replacetextstrategy/"

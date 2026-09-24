@@ -2,8 +2,8 @@
 title: "PageSize.PageLegal"
 linktitle: "PageLegal"
 articleTitle: "PageLegal"
-second_title: "Aspose.PDF for .NET"
-description: "Legal size (356x216 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSize property. Legal size (356x216 mm)."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/pagesize/pagelegal/"

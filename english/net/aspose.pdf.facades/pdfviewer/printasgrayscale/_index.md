@@ -2,8 +2,8 @@
 title: "PdfViewer.PrintAsGrayscale"
 linktitle: "PrintAsGrayscale"
 articleTitle: "PrintAsGrayscale"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a bool value that indicates whether the page is being printed as grayscale. By default is false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets or sets a bool value that indicates whether the page is being printed as grayscale. By default is false."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.facades/pdfviewer/printasgrayscale/"

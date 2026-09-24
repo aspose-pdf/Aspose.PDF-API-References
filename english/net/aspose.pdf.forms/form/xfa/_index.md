@@ -2,8 +2,8 @@
 title: "Form.XFA"
 linktitle: "XFA"
 articleTitle: "XFA"
-second_title: "Aspose.PDF for .NET"
-description: "Gets XFA data of the form (if presents)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets XFA data of the form (if presents)."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.forms/form/xfa/"

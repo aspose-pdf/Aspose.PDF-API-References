@@ -2,8 +2,8 @@
 title: "Stamp.BindTextState"
 linktitle: "BindTextState"
 articleTitle: "BindTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Sets text state of stamp text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Sets text state of stamp text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/stamp/bindtextstate/"

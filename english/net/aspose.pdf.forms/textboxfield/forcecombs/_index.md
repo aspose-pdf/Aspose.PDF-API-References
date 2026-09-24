@@ -2,8 +2,8 @@
 title: "TextBoxField.ForceCombs"
 linktitle: "ForceCombs"
 articleTitle: "ForceCombs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets flag which indicates is field divided into spaced positions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBoxField property. Gets or sets flag which indicates is field divided into spaced positions."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/textboxfield/forcecombs/"

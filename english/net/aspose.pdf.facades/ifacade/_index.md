@@ -2,8 +2,8 @@
 title: "IFacade Interface"
 linktitle: "IFacade"
 articleTitle: "IFacade"
-second_title: "Aspose.PDF for .NET"
-description: "General facade interface that defines common facades methods."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.IFacade interface. General facade interface that defines common facades methods."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/ifacade/"

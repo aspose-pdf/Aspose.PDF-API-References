@@ -2,8 +2,8 @@
 title: "OpenAIContext.FileIds"
 linktitle: "FileIds"
 articleTitle: "FileIds"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the list of File IDs."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIContext property. Gets or sets the list of File IDs."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaicontext/fileids/"

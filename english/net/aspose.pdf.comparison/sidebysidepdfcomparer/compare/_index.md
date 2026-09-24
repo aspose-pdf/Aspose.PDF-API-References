@@ -2,8 +2,8 @@
 title: "SideBySidePdfComparer.Compare"
 linktitle: "Compare"
 articleTitle: "Compare"
-second_title: "Aspose.PDF for .NET"
-description: "Compares two pages. The result is saved in a PDF document in which the first page is written first, and then the second. You can open it in Adobe Acrobat in ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySidePdfComparer method. Compares two pages. The result is saved in a PDF document in which the first page is written first, and then the second. You ca..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/sidebysidepdfcomparer/compare/"

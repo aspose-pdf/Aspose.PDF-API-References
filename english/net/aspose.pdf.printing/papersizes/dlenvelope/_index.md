@@ -2,8 +2,8 @@
 title: "PaperSizes.DLEnvelope"
 linktitle: "DLEnvelope"
 articleTitle: "DLEnvelope"
-second_title: "Aspose.PDF for .NET"
-description: "DL envelope (110 mm by 220 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. DL envelope (110 mm by 220 mm)."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.printing/papersizes/dlenvelope/"

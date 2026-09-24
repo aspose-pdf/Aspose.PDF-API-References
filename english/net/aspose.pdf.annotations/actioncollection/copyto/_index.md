@@ -2,8 +2,8 @@
 title: "ActionCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies actions array into collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection method. Copies actions array into collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/actioncollection/copyto/"

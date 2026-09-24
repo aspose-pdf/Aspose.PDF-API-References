@@ -2,8 +2,8 @@
 title: "XImage.GetRawImageData"
 linktitle: "GetRawImageData"
 articleTitle: "GetRawImageData"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves the raw image data from the source image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Retrieves the raw image data from the source image."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/ximage/getrawimagedata/"

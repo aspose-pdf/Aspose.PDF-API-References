@@ -2,8 +2,8 @@
 title: "Annotation.Rect"
 linktitle: "Rect"
 articleTitle: "Rect"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets annotation rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets annotation rectangle."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.annotations/annotation/rect/"

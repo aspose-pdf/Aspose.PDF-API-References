@@ -2,8 +2,8 @@
 title: "FileAttachmentAnnotation Class"
 linktitle: "FileAttachmentAnnotation"
 articleTitle: "FileAttachmentAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes file attachment annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FileAttachmentAnnotation class. Class describes file attachment annotation."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.annotations/fileattachmentannotation/"

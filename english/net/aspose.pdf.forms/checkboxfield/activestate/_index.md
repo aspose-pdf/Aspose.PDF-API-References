@@ -2,8 +2,8 @@
 title: "CheckboxField.ActiveState"
 linktitle: "ActiveState"
 articleTitle: "ActiveState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets current annotation appearance state."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CheckboxField property. Gets or sets current annotation appearance state."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/checkboxfield/activestate/"

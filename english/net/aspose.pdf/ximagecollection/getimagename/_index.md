@@ -2,8 +2,8 @@
 title: "XImageCollection.GetImageName"
 linktitle: "GetImageName"
 articleTitle: "GetImageName"
-second_title: "Aspose.PDF for .NET"
-description: "Returns name in images list which is key of the given image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Returns name in images list which is key of the given image."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/ximagecollection/getimagename/"

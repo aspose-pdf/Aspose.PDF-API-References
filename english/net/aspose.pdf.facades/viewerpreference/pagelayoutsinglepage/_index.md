@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageLayoutSinglePage"
 linktitle: "PageLayoutSinglePage"
 articleTitle: "PageLayoutSinglePage"
-second_title: "Aspose.PDF for .NET"
-description: "Display one page at a time."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Display one page at a time."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/viewerpreference/pagelayoutsinglepage/"

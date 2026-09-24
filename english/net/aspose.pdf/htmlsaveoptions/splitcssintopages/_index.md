@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.SplitCssIntoPages"
 linktitle: "SplitCssIntoPages"
 articleTitle: "SplitCssIntoPages"
-second_title: "Aspose.PDF for .NET"
-description: "When multipage-mode selected(i.e 'SplitIntoPages' is 'true'), then this attribute defines whether should be created separate CSS-file for each result HTML pa..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. When multipage-mode selected(i.e 'SplitIntoPages' is 'true'), then this attribute defines whether should be created separate CSS-fi..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/htmlsaveoptions/splitcssintopages/"

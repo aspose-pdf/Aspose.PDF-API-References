@@ -2,8 +2,8 @@
 title: "RotateOptions.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets new pages rotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RotateOptions property. Gets or sets new pages rotation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/rotateoptions/rotation/"

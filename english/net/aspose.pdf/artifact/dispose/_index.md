@@ -2,8 +2,8 @@
 title: "Artifact.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Dispose the artifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Dispose the artifact."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/artifact/dispose/"

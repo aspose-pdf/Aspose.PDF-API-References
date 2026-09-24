@@ -2,8 +2,8 @@
 title: "TextParagraph.BeginEdit"
 linktitle: "BeginEdit"
 articleTitle: "BeginEdit"
-second_title: "Aspose.PDF for .NET"
-description: "Begins the editing of the TextParagraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph method. Begins the editing of the TextParagraph."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/textparagraph/beginedit/"

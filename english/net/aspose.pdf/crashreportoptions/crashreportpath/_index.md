@@ -2,8 +2,8 @@
 title: "CrashReportOptions.CrashReportPath"
 linktitle: "CrashReportPath"
 articleTitle: "CrashReportPath"
-second_title: "Aspose.PDF for .NET"
-description: "Full path of crash report file"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CrashReportOptions property. Full path of crash report file"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/crashreportoptions/crashreportpath/"

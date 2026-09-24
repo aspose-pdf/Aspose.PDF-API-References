@@ -2,8 +2,8 @@
 title: "AttributeName.Placement_Start"
 linktitle: "Placement_Start"
 articleTitle: "Placement_Start"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Placement: Start - Placed so that the start edge of the element's allocation rectangle coincides with that of the nearest enclosing reference area."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Placement: Start - Placed so that the start edge of the element's allocation rectangle coincides with that of the nearest encl..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/attributename/placement_start/"

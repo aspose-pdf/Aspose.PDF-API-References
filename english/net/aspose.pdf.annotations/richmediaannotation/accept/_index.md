@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor for this annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation method. Accepts visitor for this annotation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/richmediaannotation/accept/"

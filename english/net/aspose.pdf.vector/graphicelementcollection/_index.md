@@ -2,8 +2,8 @@
 title: "GraphicElementCollection Class"
 linktitle: "GraphicElementCollection"
 articleTitle: "GraphicElementCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Vector.GraphicElementCollection class. Represents collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicelementcollection/"

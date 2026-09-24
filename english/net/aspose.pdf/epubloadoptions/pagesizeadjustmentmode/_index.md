@@ -2,8 +2,8 @@
 title: "EpubLoadOptions.PageSizeAdjustmentMode"
 linktitle: "PageSizeAdjustmentMode"
 articleTitle: "PageSizeAdjustmentMode"
-second_title: "Aspose.PDF for .NET"
-description: "ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of us..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EpubLoadOptions field. ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/epubloadoptions/pagesizeadjustmentmode/"

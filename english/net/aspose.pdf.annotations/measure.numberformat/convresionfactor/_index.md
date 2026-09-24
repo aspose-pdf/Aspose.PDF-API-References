@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.ConvresionFactor"
 linktitle: "ConvresionFactor"
 articleTitle: "ConvresionFactor"
-second_title: "Aspose.PDF for .NET"
-description: "The conversion factor used to multiply a value in partial units of the previous number format array element to obtain a value in the units of this number for..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. The conversion factor used to multiply a value in partial units of the previous number format array element to obtain a value in the u..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/measure.numberformat/convresionfactor/"

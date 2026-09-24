@@ -2,8 +2,8 @@
 title: "Image.BitmapInfo"
 linktitle: "BitmapInfo"
 articleTitle: "BitmapInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets uncompressed image bytes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets uncompressed image bytes."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/image/bitmapinfo/"

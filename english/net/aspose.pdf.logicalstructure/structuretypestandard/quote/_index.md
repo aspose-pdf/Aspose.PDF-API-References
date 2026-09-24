@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Quote"
 linktitle: "Quote"
 articleTitle: "Quote"
-second_title: "Aspose.PDF for .NET"
-description: "(Quotation) An inline portion of text attributed to someone other than the author of the surrounding text. The quoted text should be contained inline within ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Quotation) An inline portion of text attributed to someone other than the author of the surrounding text. The quoted text shoul..."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/quote/"

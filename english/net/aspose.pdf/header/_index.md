@@ -2,8 +2,8 @@
 title: "Header Class"
 linktitle: "Header"
 articleTitle: "Header"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the header settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Header class. Represents the header settings."
 type: docs
 weight: 1030
 url: "/net/aspose.pdf/header/"

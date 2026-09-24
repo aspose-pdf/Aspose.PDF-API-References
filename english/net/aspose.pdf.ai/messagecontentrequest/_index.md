@@ -2,8 +2,8 @@
 title: "MessageContentRequest Class"
 linktitle: "MessageContentRequest"
 articleTitle: "MessageContentRequest"
-second_title: "Aspose.PDF for .NET"
-description: "The content of the message in array of text and/or images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.MessageContentRequest class. The content of the message in array of text and/or images."
 type: docs
 weight: 830
 url: "/net/aspose.pdf.ai/messagecontentrequest/"

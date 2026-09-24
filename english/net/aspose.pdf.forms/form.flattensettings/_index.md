@@ -2,8 +2,8 @@
 title: "Form.FlattenSettings Class"
 linktitle: "Form.FlattenSettings"
 articleTitle: "Form.FlattenSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Class which describes settings for Form flattening procedure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.Form.FlattenSettings class. Class which describes settings for Form flattening procedure."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.forms/form.flattensettings/"

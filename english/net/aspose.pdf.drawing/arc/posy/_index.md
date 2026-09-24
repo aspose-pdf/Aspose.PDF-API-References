@@ -2,8 +2,8 @@
 title: "Arc.PosY"
 linktitle: "PosY"
 articleTitle: "PosY"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the y-coordinate of the center of the arc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Arc property. Gets or sets a float value that indicates the y-coordinate of the center of the arc."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/arc/posy/"

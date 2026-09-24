@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.AlignText"
 linktitle: "AlignText"
 articleTitle: "AlignText"
-second_title: "Aspose.PDF for .NET"
-description: "This flag controls text alignment in converted document. By default document conversion doesn't affect text alignment and leave text as is. But in some cases..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. This flag controls text alignment in converted document. By default document conversion doesn't affect text alignment an..."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/pdfformatconversionoptions/aligntext/"

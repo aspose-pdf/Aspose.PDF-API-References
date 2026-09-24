@@ -2,8 +2,8 @@
 title: "RadioButtonField.Options"
 linktitle: "Options"
 articleTitle: "Options"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of options of the radio button."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField property. Gets collection of options of the radio button."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/radiobuttonfield/options/"

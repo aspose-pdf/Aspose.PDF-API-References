@@ -2,8 +2,8 @@
 title: "ImagesDifference.DifferenceToImage"
 linktitle: "DifferenceToImage"
 articleTitle: "DifferenceToImage"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the difference array to a bitmap image using the specified colors."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagesDifference method. Converts the difference array to a bitmap image using the specified colors."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/imagesdifference/differencetoimage/"

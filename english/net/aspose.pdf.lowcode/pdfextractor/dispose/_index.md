@@ -2,8 +2,8 @@
 title: "PdfExtractor.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Implementation of IDisposable. Actually, it is not necessary for PdfExtractor."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Implementation of IDisposable. Actually, it is not necessary for PdfExtractor."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdfextractor/dispose/"

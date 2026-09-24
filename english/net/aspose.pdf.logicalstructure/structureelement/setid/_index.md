@@ -2,8 +2,8 @@
 title: "StructureElement.SetId"
 linktitle: "SetId"
 articleTitle: "SetId"
-second_title: "Aspose.PDF for .NET"
-description: "Sets ID for structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement method. Sets ID for structure element."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/structureelement/setid/"

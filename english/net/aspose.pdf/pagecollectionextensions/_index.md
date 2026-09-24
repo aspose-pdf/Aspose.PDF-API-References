@@ -2,8 +2,8 @@
 title: "PageCollectionExtensions Class"
 linktitle: "PageCollectionExtensions"
 articleTitle: "PageCollectionExtensions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the extension method for updating header and footer pagination."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageCollectionExtensions class. Represents the extension method for updating header and footer pagination."
 type: docs
 weight: 2150
 url: "/net/aspose.pdf/pagecollectionextensions/"

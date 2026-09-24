@@ -2,8 +2,8 @@
 title: "ImageUrl Class"
 linktitle: "ImageUrl"
 articleTitle: "ImageUrl"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an image URL in the content of a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ImageUrl class. Represents an image URL in the content of a message."
 type: docs
 weight: 690
 url: "/net/aspose.pdf.ai/imageurl/"

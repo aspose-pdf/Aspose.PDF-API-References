@@ -2,8 +2,8 @@
 title: "StructureTextState.HorizontalScaling"
 linktitle: "HorizontalScaling"
 articleTitle: "HorizontalScaling"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets horizontal scaling of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets horizontal scaling of the text."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/"

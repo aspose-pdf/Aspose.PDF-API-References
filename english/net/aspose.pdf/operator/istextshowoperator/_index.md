@@ -2,8 +2,8 @@
 title: "Operator.IsTextShowOperator"
 linktitle: "IsTextShowOperator"
 articleTitle: "IsTextShowOperator"
-second_title: "Aspose.PDF for .NET"
-description: "Determines if the operator is operator which responsible for text output (Tj, TJ, etc)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Operator method. Determines if the operator is operator which responsible for text output (Tj, TJ, etc)"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/operator/istextshowoperator/"

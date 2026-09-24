@@ -2,8 +2,8 @@
 title: "FieldValueType Enum"
 linktitle: "FieldValueType"
 articleTitle: "FieldValueType"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the type of a field value in a schema collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FieldValueType enum. Represents the type of a field value in a schema collection."
 type: docs
 weight: 870
 url: "/net/aspose.pdf/fieldvaluetype/"

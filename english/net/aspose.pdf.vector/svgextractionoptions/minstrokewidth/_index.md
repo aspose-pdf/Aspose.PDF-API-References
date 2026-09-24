@@ -2,8 +2,8 @@
 title: "SvgExtractionOptions.MinStrokeWidth"
 linktitle: "MinStrokeWidth"
 articleTitle: "MinStrokeWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the minimum stroke width that will be used in the resulting SVG. If the PDF use a thinner stroke width, it will be replaced with this width. The..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgExtractionOptions property. Gets or sets the minimum stroke width that will be used in the resulting SVG. If the PDF use a thinner stroke width, it will b..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.vector/svgextractionoptions/minstrokewidth/"

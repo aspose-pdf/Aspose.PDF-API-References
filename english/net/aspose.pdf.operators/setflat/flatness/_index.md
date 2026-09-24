@@ -2,8 +2,8 @@
 title: "SetFlat.Flatness"
 linktitle: "Flatness"
 articleTitle: "Flatness"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the flatness."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetFlat property. Gets or sets the flatness."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setflat/flatness/"

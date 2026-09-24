@@ -2,8 +2,8 @@
 title: "ImportDataAction Class"
 linktitle: "ImportDataAction"
 articleTitle: "ImportDataAction"
-second_title: "Aspose.PDF for .NET"
-description: "Upon invocation of an import-data action, Forms Data Format (FDF) data shall be imported into the document's interactive form from a specified file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.ImportDataAction class. Upon invocation of an import-data action, Forms Data Format (FDF) data shall be imported into the document's i..."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.annotations/importdataaction/"

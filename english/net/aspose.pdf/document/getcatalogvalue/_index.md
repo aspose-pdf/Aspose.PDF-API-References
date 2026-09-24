@@ -2,8 +2,8 @@
 title: "Document.GetCatalogValue"
 linktitle: "GetCatalogValue"
 articleTitle: "GetCatalogValue"
-second_title: "Aspose.PDF for .NET"
-description: "Returns item value from catalog dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Returns item value from catalog dictionary."
 type: docs
 weight: 830
 url: "/net/aspose.pdf/document/getcatalogvalue/"

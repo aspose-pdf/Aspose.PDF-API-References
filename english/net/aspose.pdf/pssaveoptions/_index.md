@@ -2,8 +2,8 @@
 title: "PsSaveOptions Class"
 linktitle: "PsSaveOptions"
 articleTitle: "PsSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Save options for export to PS (PostScript) or EPS format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PsSaveOptions class. Save options for export to PS (PostScript) or EPS format."
 type: docs
 weight: 2630
 url: "/net/aspose.pdf/pssaveoptions/"

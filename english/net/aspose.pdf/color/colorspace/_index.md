@@ -2,8 +2,8 @@
 title: "Color.ColorSpace"
 linktitle: "ColorSpace"
 articleTitle: "ColorSpace"
-second_title: "Aspose.PDF for .NET"
-description: "Gets color space that the color represents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets color space that the color represents."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/color/colorspace/"

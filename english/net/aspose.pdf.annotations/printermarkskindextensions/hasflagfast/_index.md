@@ -2,8 +2,8 @@
 title: "PrinterMarksKindExtensions.HasFlagFast"
 linktitle: "HasFlagFast"
 articleTitle: "HasFlagFast"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether the current value includes a specified flag."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterMarksKindExtensions method. Determines whether the current value includes a specified flag."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/"

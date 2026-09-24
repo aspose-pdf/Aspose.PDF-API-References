@@ -2,8 +2,8 @@
 title: "TextDocument.Content"
 linktitle: "Content"
 articleTitle: "Content"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the content of the text document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextDocument property. Gets or sets the content of the text document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/textdocument/content/"

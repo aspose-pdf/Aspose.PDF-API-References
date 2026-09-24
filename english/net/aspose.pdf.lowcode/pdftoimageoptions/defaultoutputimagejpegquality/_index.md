@@ -2,8 +2,8 @@
 title: "PdfToImageOptions.defaultOutputImageJpegQuality"
 linktitle: "defaultOutputImageJpegQuality"
 articleTitle: "defaultOutputImageJpegQuality"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImageOptions field."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/defaultoutputimagejpegquality/"

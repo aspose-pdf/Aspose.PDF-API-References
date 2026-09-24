@@ -2,8 +2,8 @@
 title: "Document.ChangePasswords"
 linktitle: "ChangePasswords"
 articleTitle: "ChangePasswords"
-second_title: "Aspose.PDF for .NET"
-description: "Changes document passwords. This action can be done only using owner password."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Changes document passwords. This action can be done only using owner password."
 type: docs
 weight: 650
 url: "/net/aspose.pdf/document/changepasswords/"

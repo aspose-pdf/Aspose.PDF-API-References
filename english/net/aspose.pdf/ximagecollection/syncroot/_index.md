@@ -2,8 +2,8 @@
 title: "XImageCollection.SyncRoot"
 linktitle: "SyncRoot"
 articleTitle: "SyncRoot"
-second_title: "Aspose.PDF for .NET"
-description: "Returns synchronization object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection property. Returns synchronization object."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/ximagecollection/syncroot/"

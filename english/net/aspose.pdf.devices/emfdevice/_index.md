@@ -2,8 +2,8 @@
 title: "EmfDevice Class"
 linktitle: "EmfDevice"
 articleTitle: "EmfDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents image device that helps to save pdf document pages into emf."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.EmfDevice class. Represents image device that helps to save pdf document pages into emf."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.devices/emfdevice/"

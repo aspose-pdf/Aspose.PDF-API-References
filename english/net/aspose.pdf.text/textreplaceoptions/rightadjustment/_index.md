@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.RightAdjustment"
 linktitle: "RightAdjustment"
 articleTitle: "RightAdjustment"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets right position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = WholeWordsHyphenation; - ReplaceAdjustmen..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextReplaceOptions property. Sets or gets right position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = WholeWordsHy..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textreplaceoptions/rightadjustment/"

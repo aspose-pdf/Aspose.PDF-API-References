@@ -2,8 +2,8 @@
 title: "AttributeKey Class"
 linktitle: "AttributeKey"
 articleTitle: "AttributeKey"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Standard Attribute Keys."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.AttributeKey class. Represents Standard Attribute Keys."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/attributekey/"

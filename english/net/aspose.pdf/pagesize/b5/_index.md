@@ -2,8 +2,8 @@
 title: "PageSize.B5"
 linktitle: "B5"
 articleTitle: "B5"
-second_title: "Aspose.PDF for .NET"
-description: "B5 size (250x176 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSize property. B5 size (250x176 mm)."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/pagesize/b5/"

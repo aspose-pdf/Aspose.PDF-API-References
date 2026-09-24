@@ -2,8 +2,8 @@
 title: "PdfActionCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Remove action by index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfActionCollection method. Remove action by index."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdfactioncollection/delete/"

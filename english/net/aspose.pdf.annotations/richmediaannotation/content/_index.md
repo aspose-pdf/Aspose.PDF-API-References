@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.Content"
 linktitle: "Content"
 articleTitle: "Content"
-second_title: "Aspose.PDF for .NET"
-description: "Data of the Rich Media content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation property. Data of the Rich Media content."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/richmediaannotation/content/"

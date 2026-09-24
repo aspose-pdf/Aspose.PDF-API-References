@@ -2,8 +2,8 @@
 title: "FormTextBoxFieldCreateOptions.ForceCombs"
 linktitle: "ForceCombs"
 articleTitle: "ForceCombs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine whether created TextBoxField is forcecombs or not (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormTextBoxFieldCreateOptions property. Gets/sets the value to determine whether created TextBoxField is forcecombs or not (if will be set)."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/forcecombs/"

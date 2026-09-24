@@ -2,8 +2,8 @@
 title: "SoundSampleData.DefaultOfBitsPerChannel"
 linktitle: "DefaultOfBitsPerChannel"
 articleTitle: "DefaultOfBitsPerChannel"
-second_title: "Aspose.PDF for .NET"
-description: "Default value for BitsPerchannel parameter."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundSampleData field. Default value for BitsPerchannel parameter."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/"

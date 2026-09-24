@@ -2,8 +2,8 @@
 title: "FormExporterOptions.FormExporterOptions"
 linktitle: "FormExporterOptions"
 articleTitle: "FormExporterOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormExporterOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormExporterOptions constructor. Initializes a new instance of the FormExporterOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formexporteroptions/formexporteroptions/"

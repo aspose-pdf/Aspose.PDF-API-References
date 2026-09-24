@@ -2,8 +2,8 @@
 title: "Heading.TocPage"
 linktitle: "TocPage"
 articleTitle: "TocPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the page that contains this heading."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the page that contains this heading."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/heading/tocpage/"

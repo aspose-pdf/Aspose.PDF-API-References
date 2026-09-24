@@ -2,8 +2,8 @@
 title: "TextParagraph.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rectangle of the paragraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph property. Gets or sets rectangle of the paragraph."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.text/textparagraph/rectangle/"

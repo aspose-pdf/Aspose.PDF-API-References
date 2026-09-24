@@ -2,8 +2,8 @@
 title: "TextSearchOptions.LogTextExtractionErrors"
 linktitle: "LogTextExtractionErrors"
 articleTitle: "LogTextExtractionErrors"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets indication that text extraction (decoding) errors will be logged in the text (fragment) absorber. true - means that text extraction (decoding) e..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSearchOptions property. Gets or sets indication that text extraction (decoding) errors will be logged in the text (fragment) absorber. true - means that ..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textsearchoptions/logtextextractionerrors/"

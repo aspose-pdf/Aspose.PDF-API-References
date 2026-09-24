@@ -2,8 +2,8 @@
 title: "Color.DarkTurquoise"
 linktitle: "DarkTurquoise"
 articleTitle: "DarkTurquoise"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FF00CED1."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FF00CED1."
 type: docs
 weight: 550
 url: "/net/aspose.pdf/color/darkturquoise/"

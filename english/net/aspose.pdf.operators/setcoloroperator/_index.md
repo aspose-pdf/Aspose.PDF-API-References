@@ -2,8 +2,8 @@
 title: "SetColorOperator Class"
 linktitle: "SetColorOperator"
 articleTitle: "SetColorOperator"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing set color operation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetColorOperator class. Class representing set color operation."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.operators/setcoloroperator/"

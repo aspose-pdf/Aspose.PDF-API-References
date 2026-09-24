@@ -2,8 +2,8 @@
 title: "IChatCopilotOptions<TOptions> Interface"
 linktitle: "IChatCopilotOptions<TOptions>"
 articleTitle: "IChatCopilotOptions<TOptions>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IChatCopilotOptions interface."
 type: docs
 weight: 500
 url: "/net/aspose.pdf.ai/ichatcopilotoptions-1/"

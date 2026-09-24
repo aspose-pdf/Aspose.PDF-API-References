@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.BufferSize"
 linktitle: "BufferSize"
 articleTitle: "BufferSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the size of the underlying buffers."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream property. Gets or sets the size of the underlying buffers."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/optimizedmemorystream/buffersize/"

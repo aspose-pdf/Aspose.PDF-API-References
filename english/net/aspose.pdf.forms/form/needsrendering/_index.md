@@ -2,8 +2,8 @@
 title: "Form.NeedsRendering"
 linktitle: "NeedsRendering"
 articleTitle: "NeedsRendering"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the document requires the removal of the dynamic XFA form. This property was introduced to determine if should be used to rem..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets a value indicating whether the document requires the removal of the dynamic XFA form. This property was introduced to determine if should..."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.forms/form/needsrendering/"

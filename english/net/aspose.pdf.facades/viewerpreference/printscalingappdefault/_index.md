@@ -2,8 +2,8 @@
 title: "ViewerPreference.PrintScalingAppDefault"
 linktitle: "PrintScalingAppDefault"
 articleTitle: "PrintScalingAppDefault"
-second_title: "Aspose.PDF for .NET"
-description: "The conforming reader's default print scaling."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. The conforming reader's default print scaling."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/viewerpreference/printscalingappdefault/"

@@ -2,8 +2,8 @@
 title: "IconFit.SpreadOnBorder"
 linktitle: "SpreadOnBorder"
 articleTitle: "SpreadOnBorder"
-second_title: "Aspose.PDF for .NET"
-description: "If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line wid..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IconFit property. If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consider..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/iconfit/spreadonborder/"

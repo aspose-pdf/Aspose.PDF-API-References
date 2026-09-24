@@ -2,8 +2,8 @@
 title: "DocSaveOptions.RecognizeBullets"
 linktitle: "RecognizeBullets"
 articleTitle: "RecognizeBullets"
-second_title: "Aspose.PDF for .NET"
-description: "Switch on the recognition of bullets"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocSaveOptions property. Switch on the recognition of bullets"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/docsaveoptions/recognizebullets/"

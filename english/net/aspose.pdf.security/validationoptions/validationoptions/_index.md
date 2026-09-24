@@ -2,8 +2,8 @@
 title: "ValidationOptions.ValidationOptions"
 linktitle: "ValidationOptions"
 articleTitle: "ValidationOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ValidationOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ValidationOptions constructor. Initializes a new instance of the ValidationOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/validationoptions/validationoptions/"

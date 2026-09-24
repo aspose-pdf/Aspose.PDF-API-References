@@ -2,8 +2,8 @@
 title: "Circle.Circle"
 linktitle: "Circle"
 articleTitle: "Circle"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Circle class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Circle constructor. Initializes a new instance of the Circle class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/circle/circle/"

@@ -2,8 +2,8 @@
 title: "TimestampOptions.SigReason"
 linktitle: "SigReason"
 articleTitle: "SigReason"
-second_title: "Aspose.PDF for .NET"
-description: "Reason for the signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampOptions property. Reason for the signature."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/timestampoptions/sigreason/"

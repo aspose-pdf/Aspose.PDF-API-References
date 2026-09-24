@@ -2,8 +2,8 @@
 title: "Element.Alt"
 linktitle: "Alt"
 articleTitle: "Alt"
-second_title: "Aspose.PDF for .NET"
-description: "(Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document's contents ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element property. (Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the do..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.structure/element/alt/"

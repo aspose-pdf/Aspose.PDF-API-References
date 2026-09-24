@@ -2,8 +2,8 @@
 title: "ValidationOptions.ValidationMethod"
 linktitle: "ValidationMethod"
 articleTitle: "ValidationMethod"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the method used to validate a certificate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ValidationOptions property. Gets or sets the method used to validate a certificate."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/validationoptions/validationmethod/"

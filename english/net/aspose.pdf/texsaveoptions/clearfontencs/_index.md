@@ -2,8 +2,8 @@
 title: "TeXSaveOptions.ClearFontEncs"
 linktitle: "ClearFontEncs"
 articleTitle: "ClearFontEncs"
-second_title: "Aspose.PDF for .NET"
-description: "Clears the font encoding list"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXSaveOptions method. Clears the font encoding list"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texsaveoptions/clearfontencs/"

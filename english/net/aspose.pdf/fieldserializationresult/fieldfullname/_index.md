@@ -2,8 +2,8 @@
 title: "FieldSerializationResult.FieldFullName"
 linktitle: "FieldFullName"
 articleTitle: "FieldFullName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the full name of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FieldSerializationResult property. Gets the full name of the field."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/fieldserializationresult/fieldfullname/"

@@ -2,8 +2,8 @@
 title: "Position.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Position class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Position constructor. Initializes a new instance of the Position class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/position/position/"

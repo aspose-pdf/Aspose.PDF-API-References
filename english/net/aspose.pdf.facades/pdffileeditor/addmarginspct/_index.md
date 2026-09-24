@@ -2,8 +2,8 @@
 title: "PdfFileEditor.AddMarginsPct"
 linktitle: "AddMarginsPct"
 articleTitle: "AddMarginsPct"
-second_title: "Aspose.PDF for .NET"
-description: "Resizes page contents and add specified margins. Margins are specified in percents of intitial page size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Resizes page contents and add specified margins. Margins are specified in percents of intitial page size."
 type: docs
 weight: 910
 url: "/net/aspose.pdf.facades/pdffileeditor/addmarginspct/"

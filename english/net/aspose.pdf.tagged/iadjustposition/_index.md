@@ -2,8 +2,8 @@
 title: "IAdjustPosition Interface"
 linktitle: "IAdjustPosition"
 articleTitle: "IAdjustPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Interface for positioning methods."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Tagged.IAdjustPosition interface. Interface for positioning methods."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.tagged/iadjustposition/"

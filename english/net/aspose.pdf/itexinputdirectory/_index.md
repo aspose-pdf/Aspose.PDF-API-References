@@ -2,8 +2,8 @@
 title: "ITeXInputDirectory Interface"
 linktitle: "ITeXInputDirectory"
 articleTitle: "ITeXInputDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Interface of generalized TeX input directory."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ITeXInputDirectory interface. Interface of generalized TeX input directory."
 type: docs
 weight: 1450
 url: "/net/aspose.pdf/itexinputdirectory/"

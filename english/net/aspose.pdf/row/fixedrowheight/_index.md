@@ -2,8 +2,8 @@
 title: "Row.FixedRowHeight"
 linktitle: "FixedRowHeight"
 articleTitle: "FixedRowHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets fixed row height - row may have fixed height;"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Row property. Gets fixed row height - row may have fixed height;"
 type: docs
 weight: 80
 url: "/net/aspose.pdf/row/fixedrowheight/"

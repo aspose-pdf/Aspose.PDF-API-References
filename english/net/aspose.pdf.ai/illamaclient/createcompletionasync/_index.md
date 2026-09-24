@@ -2,8 +2,8 @@
 title: "ILlamaClient.CreateCompletionAsync"
 linktitle: "CreateCompletionAsync"
 articleTitle: "CreateCompletionAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a chat completion request in the Llama service."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ILlamaClient method. Creates a chat completion request in the Llama service."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/illamaclient/createcompletionasync/"

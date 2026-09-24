@@ -2,8 +2,8 @@
 title: "PaperSources.Cassette"
 linktitle: "Cassette"
 articleTitle: "Cassette"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the paper cassette of the printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents the paper cassette of the printer."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.printing/papersources/cassette/"

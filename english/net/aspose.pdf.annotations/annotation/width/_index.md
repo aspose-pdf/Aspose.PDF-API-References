@@ -2,8 +2,8 @@
 title: "Annotation.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets width of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets width of the annotation."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.annotations/annotation/width/"

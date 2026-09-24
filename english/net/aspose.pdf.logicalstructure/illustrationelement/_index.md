@@ -2,8 +2,8 @@
 title: "IllustrationElement Class"
 linktitle: "IllustrationElement"
 articleTitle: "IllustrationElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class for illustration structure elements in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.IllustrationElement class. Represents a base class for illustration structure elements in logical structure."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.logicalstructure/illustrationelement/"

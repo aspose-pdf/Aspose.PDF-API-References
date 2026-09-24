@@ -2,8 +2,8 @@
 title: "FileSaveTarget Class"
 linktitle: "FileSaveTarget"
 articleTitle: "FileSaveTarget"
-second_title: "Aspose.PDF for .NET"
-description: "Represents file save target for a plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FileSaveTarget class. Represents file save target for a plugin."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.lowcode/filesavetarget/"

@@ -2,8 +2,8 @@
 title: "ImageStamp.Image"
 linktitle: "Image"
 articleTitle: "Image"
-second_title: "Aspose.PDF for .NET"
-description: "Gets image stream used for stamping."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp property. Gets image stream used for stamping."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/imagestamp/image/"

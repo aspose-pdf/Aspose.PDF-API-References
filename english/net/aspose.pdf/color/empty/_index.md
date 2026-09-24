@@ -2,8 +2,8 @@
 title: "Color.Empty"
 linktitle: "Empty"
 articleTitle: "Empty"
-second_title: "Aspose.PDF for .NET"
-description: "Represents empty color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color field. Represents empty color."
 type: docs
 weight: 1590
 url: "/net/aspose.pdf/color/empty/"

@@ -2,8 +2,8 @@
 title: "BaseResponse.HttpResponseHeaders"
 linktitle: "HttpResponseHeaders"
 articleTitle: "HttpResponseHeaders"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the HTTP response headers."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseResponse property. Gets or sets the HTTP response headers."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/baseresponse/httpresponseheaders/"

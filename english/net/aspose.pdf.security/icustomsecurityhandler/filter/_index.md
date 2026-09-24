@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.Filter"
 linktitle: "Filter"
 articleTitle: "Filter"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the filter name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler property. Gets the filter name."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.security/icustomsecurityhandler/filter/"

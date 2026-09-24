@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlMarkupGenerationMode"
 linktitle: "HtmlMarkupGenerationMode"
 articleTitle: "HtmlMarkupGenerationMode"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes specific reqirments to generation of HTML markup are present. This parameter defines HTML preparing modes that can be used during conversion of PDF..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. Sometimes specific reqirments to generation of HTML markup are present. This parameter defines HTML preparing modes that can be used d..."
 type: docs
 weight: 450
 url: "/net/aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/"

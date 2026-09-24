@@ -2,8 +2,8 @@
 title: "ImageExtractorOptions.OperationName"
 linktitle: "OperationName"
 articleTitle: "OperationName"
-second_title: "Aspose.PDF for .NET"
-description: "Returns name of the operation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageExtractorOptions property. Returns name of the operation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/imageextractoroptions/operationname/"

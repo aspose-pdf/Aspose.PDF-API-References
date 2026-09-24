@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateSound"
 linktitle: "CreateSound"
 articleTitle: "CreateSound"
-second_title: "Aspose.PDF for .NET"
-description: "Creates Sound Annotations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates Sound Annotations."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createsound/"

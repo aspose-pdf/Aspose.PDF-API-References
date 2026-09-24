@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.PdfXmpMetadata"
 linktitle: "PdfXmpMetadata"
 articleTitle: "PdfXmpMetadata"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfXmpMetadata class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata constructor. Initializes a new instance of the PdfXmpMetadata class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/"

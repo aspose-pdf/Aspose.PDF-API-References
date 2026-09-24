@@ -2,8 +2,8 @@
 title: "PDF3DStream.Content"
 linktitle: "Content"
 articleTitle: "Content"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DStream property. Gets or sets the content."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pdf3dstream/content/"

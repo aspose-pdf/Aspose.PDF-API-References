@@ -2,8 +2,8 @@
 title: "TableTRElement.BackgroundColor"
 linktitle: "BackgroundColor"
 articleTitle: "BackgroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the row background color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableTRElement property. Gets or sets the row background color."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/backgroundcolor/"

@@ -2,8 +2,8 @@
 title: "AnnotationCollection.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes all annotations from the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Deletes all annotations from the collection."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/annotationcollection/clear/"

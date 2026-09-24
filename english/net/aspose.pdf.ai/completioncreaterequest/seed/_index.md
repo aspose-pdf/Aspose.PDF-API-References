@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.Seed"
 linktitle: "Seed"
 articleTitle: "Seed"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Seed value. This feature is in Beta. If specified, our system will make a best effort to sample deterministically, such that repeated reques..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets the Seed value. This feature is in Beta. If specified, our system will make a best effort to sample determinis..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/completioncreaterequest/seed/"

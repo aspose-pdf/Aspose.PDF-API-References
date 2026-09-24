@@ -2,8 +2,8 @@
 title: "Device Class"
 linktitle: "Device"
 articleTitle: "Device"
-second_title: "Aspose.PDF for .NET"
-description: "Abstract class for all types of devices. Device is used to represent pdf document in some format. For example, document page can be represented as image or t..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.Device class. Abstract class for all types of devices. Device is used to represent pdf document in some format. For example, document page..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.devices/device/"

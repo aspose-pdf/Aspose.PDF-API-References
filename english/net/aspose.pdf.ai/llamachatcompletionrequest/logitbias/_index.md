@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionRequest.LogitBias"
 linktitle: "LogitBias"
 articleTitle: "LogitBias"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets the logit bias to use during sampling."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionRequest property. Sets or gets the logit bias to use during sampling."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/logitbias/"

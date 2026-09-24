@@ -2,8 +2,8 @@
 title: "Form.SignaturesExist"
 linktitle: "SignaturesExist"
 articleTitle: "SignaturesExist"
-second_title: "Aspose.PDF for .NET"
-description: "If set, the document contains at least one signature field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. If set, the document contains at least one signature field."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.forms/form/signaturesexist/"

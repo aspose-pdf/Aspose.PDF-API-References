@@ -2,8 +2,8 @@
 title: "TextExtractionError.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionError method. Returns string representation."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textextractionerror/tostring/"

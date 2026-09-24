@@ -2,8 +2,8 @@
 title: "CosPdfDictionary.ContainsKey"
 linktitle: "ContainsKey"
 articleTitle: "ContainsKey"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether the contains an element with the specified key."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary method. Determines whether the contains an element with the specified key."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/containskey/"

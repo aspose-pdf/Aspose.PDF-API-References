@@ -2,8 +2,8 @@
 title: "AnnotationCollection.SyncRoot"
 linktitle: "SyncRoot"
 articleTitle: "SyncRoot"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an object that can be used to synchronize access to Aspose.Pdf.Annotations.AnnotationCollection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection property. Gets an object that can be used to synchronize access to Aspose.Pdf.Annotations.AnnotationCollection."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/annotationcollection/syncroot/"

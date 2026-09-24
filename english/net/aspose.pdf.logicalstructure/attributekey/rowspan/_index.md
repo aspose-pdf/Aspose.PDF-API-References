@@ -2,8 +2,8 @@
 title: "AttributeKey.RowSpan"
 linktitle: "RowSpan"
 articleTitle: "RowSpan"
-second_title: "Aspose.PDF for .NET"
-description: "RowSpan attribute (Table attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. RowSpan attribute (Table attribute owner)."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.logicalstructure/attributekey/rowspan/"

@@ -2,8 +2,8 @@
 title: "IllustrationElement.SetImage"
 linktitle: "SetImage"
 articleTitle: "SetImage"
-second_title: "Aspose.PDF for .NET"
-description: "Appends image to current illustration element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IllustrationElement method. Appends image to current illustration element."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/illustrationelement/setimage/"

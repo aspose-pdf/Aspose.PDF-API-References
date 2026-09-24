@@ -2,8 +2,8 @@
 title: "AttributeName.ListNumbering_None"
 linktitle: "ListNumbering_None"
 articleTitle: "ListNumbering_None"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute ListNumbering: None - No autonumbering; Lbl elements (if present) contain arbitrary text not subject to any numbering scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute ListNumbering: None - No autonumbering; Lbl elements (if present) contain arbitrary text not subject to any numbering scheme."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/"

@@ -2,8 +2,8 @@
 title: "Annotation.PageIndex"
 linktitle: "PageIndex"
 articleTitle: "PageIndex"
-second_title: "Aspose.PDF for .NET"
-description: "Gets index of page which contains annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets index of page which contains annotation."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.annotations/annotation/pageindex/"

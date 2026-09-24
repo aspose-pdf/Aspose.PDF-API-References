@@ -2,8 +2,8 @@
 title: "NamedDestination.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Converts destination to string value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NamedDestination method. Converts destination to string value."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/nameddestination/tostring/"

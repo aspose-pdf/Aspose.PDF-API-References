@@ -2,8 +2,8 @@
 title: "SideBySideComparisonOptions.ExcludeTables"
 linktitle: "ExcludeTables"
 articleTitle: "ExcludeTables"
-second_title: "Aspose.PDF for .NET"
-description: "Get and set the option that determines whether tables are excluded from comparison. This option cannot be set together with and . The default value is `false`."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySideComparisonOptions property. Get and set the option that determines whether tables are excluded from comparison. This option cannot be set together ..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/excludetables/"

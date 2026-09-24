@@ -2,8 +2,8 @@
 title: "PdfFileStamp.PosBottomRight"
 linktitle: "PosBottomRight"
 articleTitle: "PosBottomRight"
-second_title: "Aspose.PDF for .NET"
-description: "Bottom right position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp field. Bottom right position."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.facades/pdffilestamp/posbottomright/"

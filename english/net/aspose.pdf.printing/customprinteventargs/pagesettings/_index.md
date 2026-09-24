@@ -2,8 +2,8 @@
 title: "CustomPrintEventArgs.PageSettings"
 linktitle: "PageSettings"
 articleTitle: "PageSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets settings that should be applied to each page of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CustomPrintEventArgs field. Gets settings that should be applied to each page of the document."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/customprinteventargs/pagesettings/"

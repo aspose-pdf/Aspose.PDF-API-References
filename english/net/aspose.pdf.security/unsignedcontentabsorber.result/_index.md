@@ -2,8 +2,8 @@
 title: "UnsignedContentAbsorber.Result Class"
 linktitle: "UnsignedContentAbsorber.Result"
 articleTitle: "UnsignedContentAbsorber.Result"
-second_title: "Aspose.PDF for .NET"
-description: "Encapsulates the result of an operation attempting to extract unsigned content from a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.UnsignedContentAbsorber.Result class. Encapsulates the result of an operation attempting to extract unsigned content from a PDF document."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/"

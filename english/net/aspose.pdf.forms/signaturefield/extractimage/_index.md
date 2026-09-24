@@ -2,8 +2,8 @@
 title: "SignatureField.ExtractImage"
 linktitle: "ExtractImage"
 articleTitle: "ExtractImage"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts signature's image as jpeg encoded stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureField method. Extracts signature's image as jpeg encoded stream."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/signaturefield/extractimage/"

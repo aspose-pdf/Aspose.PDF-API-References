@@ -2,8 +2,8 @@
 title: "ThumbnailDevice Class"
 linktitle: "ThumbnailDevice"
 articleTitle: "ThumbnailDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents image device that save pdf document pages into Thumbnail image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.ThumbnailDevice class. Represents image device that save pdf document pages into Thumbnail image."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.devices/thumbnaildevice/"

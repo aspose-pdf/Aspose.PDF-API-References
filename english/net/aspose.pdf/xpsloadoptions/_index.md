@@ -2,8 +2,8 @@
 title: "XpsLoadOptions Class"
 linktitle: "XpsLoadOptions"
 articleTitle: "XpsLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for loading/importing xps file into pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XpsLoadOptions class. Represents options for loading/importing xps file into pdf document."
 type: docs
 weight: 3360
 url: "/net/aspose.pdf/xpsloadoptions/"

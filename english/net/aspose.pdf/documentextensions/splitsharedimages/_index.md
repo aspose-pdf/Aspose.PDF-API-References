@@ -2,8 +2,8 @@
 title: "DocumentExtensions.SplitSharedImages"
 linktitle: "SplitSharedImages"
 articleTitle: "SplitSharedImages"
-second_title: "Aspose.PDF for .NET"
-description: "For Images in Resources if two pages checks for common XImages and for similar cases splits them, by creating duplicate XImages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentExtensions method. For Images in Resources if two pages checks for common XImages and for similar cases splits them, by creating duplicate XImages."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/documentextensions/splitsharedimages/"

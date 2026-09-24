@@ -2,8 +2,8 @@
 title: "WidgetAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation method. Accepts visitor."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/widgetannotation/accept/"

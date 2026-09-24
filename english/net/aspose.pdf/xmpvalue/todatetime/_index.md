@@ -2,8 +2,8 @@
 title: "XmpValue.ToDateTime"
 linktitle: "ToDateTime"
 articleTitle: "ToDateTime"
-second_title: "Aspose.PDF for .NET"
-description: "Converts to date time."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Converts to date time."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/xmpvalue/todatetime/"

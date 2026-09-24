@@ -2,8 +2,8 @@
 title: "DiffOperation.Operation"
 linktitle: "Operation"
 articleTitle: "Operation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets operation type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DiffOperation property. Gets and sets operation type."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/diffoperation/operation/"

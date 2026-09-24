@@ -2,8 +2,8 @@
 title: "Heading.StartNumber"
 linktitle: "StartNumber"
 articleTitle: "StartNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the heading start number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the heading start number."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/heading/startnumber/"

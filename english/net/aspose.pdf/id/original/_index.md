@@ -2,8 +2,8 @@
 title: "Id.Original"
 linktitle: "Original"
 articleTitle: "Original"
-second_title: "Aspose.PDF for .NET"
-description: "Permanent identifier based on the contents of the document at the time it was originally created."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Id property. Permanent identifier based on the contents of the document at the time it was originally created."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/id/original/"

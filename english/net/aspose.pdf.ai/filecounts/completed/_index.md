@@ -2,8 +2,8 @@
 title: "FileCounts.Completed"
 linktitle: "Completed"
 articleTitle: "Completed"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of files that have been successfully processed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileCounts property. Gets or sets the number of files that have been successfully processed."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/filecounts/completed/"

@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.CompareTo"
 linktitle: "CompareTo"
 articleTitle: "CompareTo"
-second_title: "Aspose.PDF for .NET"
-description: "Compares two objects. The object to compare with. A signed integer that indicates the relative values of this instance and value. Less than zero this instanc..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege method. Compares two objects. The object to compare with. A signed integer that indicates the relative values of this instance and value. L..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/documentprivilege/compareto/"

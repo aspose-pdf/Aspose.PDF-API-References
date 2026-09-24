@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.CustomProgressHandler"
 linktitle: "CustomProgressHandler"
 articleTitle: "CustomProgressHandler"
-second_title: "Aspose.PDF for .NET"
-description: "This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, e..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amoun..."
 type: docs
 weight: 280
 url: "/net/aspose.pdf/htmlsaveoptions/customprogresshandler/"

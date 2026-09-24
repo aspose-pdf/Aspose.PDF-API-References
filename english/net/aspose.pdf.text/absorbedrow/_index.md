@@ -2,8 +2,8 @@
 title: "AbsorbedRow Class"
 linktitle: "AbsorbedRow"
 articleTitle: "AbsorbedRow"
-second_title: "Aspose.PDF for .NET"
-description: "Represents row of table that exist on the page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.AbsorbedRow class. Represents row of table that exist on the page"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/absorbedrow/"

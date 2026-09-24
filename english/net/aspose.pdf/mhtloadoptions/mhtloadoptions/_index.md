@@ -2,8 +2,8 @@
 title: "MhtLoadOptions.MhtLoadOptions"
 linktitle: "MhtLoadOptions"
 articleTitle: "MhtLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MhtLoadOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MhtLoadOptions constructor. Initializes a new instance of the MhtLoadOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/mhtloadoptions/mhtloadoptions/"

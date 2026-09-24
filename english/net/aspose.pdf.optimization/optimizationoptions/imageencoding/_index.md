@@ -2,8 +2,8 @@
 title: "OptimizationOptions.ImageEncoding"
 linktitle: "ImageEncoding"
 articleTitle: "ImageEncoding"
-second_title: "Aspose.PDF for .NET"
-description: "Image encodre which will be used."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizationOptions property. Image encodre which will be used."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.optimization/optimizationoptions/imageencoding/"

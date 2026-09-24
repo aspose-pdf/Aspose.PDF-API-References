@@ -2,8 +2,8 @@
 title: "PdfContentEditor.GetStamps"
 linktitle: "GetStamps"
 articleTitle: "GetStamps"
-second_title: "Aspose.PDF for .NET"
-description: "Returns array of stamps on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Returns array of stamps on the page."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.facades/pdfcontenteditor/getstamps/"

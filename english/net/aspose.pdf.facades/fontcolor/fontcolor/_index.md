@@ -2,8 +2,8 @@
 title: "FontColor.FontColor"
 linktitle: "FontColor"
 articleTitle: "FontColor"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FontColor class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontColor constructor. Initializes a new instance of the FontColor class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/fontcolor/fontcolor/"

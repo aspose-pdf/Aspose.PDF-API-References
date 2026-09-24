@@ -2,8 +2,8 @@
 title: "Stroke.Stroke"
 linktitle: "Stroke"
 articleTitle: "Stroke"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Stroke class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stroke constructor. Initializes a new instance of the Stroke class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/stroke/stroke/"

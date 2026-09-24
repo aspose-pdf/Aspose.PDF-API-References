@@ -2,8 +2,8 @@
 title: "Graph.Graph"
 linktitle: "Graph"
 articleTitle: "Graph"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Graph class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Graph constructor. Initializes a new instance of the Graph class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/graph/graph/"

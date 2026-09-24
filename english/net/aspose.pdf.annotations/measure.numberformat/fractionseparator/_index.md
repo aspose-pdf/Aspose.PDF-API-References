@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.FractionSeparator"
 linktitle: "FractionSeparator"
 articleTitle: "FractionSeparator"
-second_title: "Aspose.PDF for .NET"
-description: "Text that shall be used as the decimal position in displaying numerical values. An empty string indicates that the default shall be used. Default is period c..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. Text that shall be used as the decimal position in displaying numerical values. An empty string indicates that the default shall be us..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/measure.numberformat/fractionseparator/"

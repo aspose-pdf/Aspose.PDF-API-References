@@ -2,8 +2,8 @@
 title: "MarkupSection.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Section rectangle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupSection property. Section rectangle"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/markupsection/rectangle/"

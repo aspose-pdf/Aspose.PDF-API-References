@@ -2,8 +2,8 @@
 title: "Field.Field"
 linktitle: "Field"
 articleTitle: "Field"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Field class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field constructor. Initializes a new instance of the Field class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/field/field/"

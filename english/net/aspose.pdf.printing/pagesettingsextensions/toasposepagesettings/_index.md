@@ -2,8 +2,8 @@
 title: "PageSettingsExtensions.ToAsposePageSettings"
 linktitle: "ToAsposePageSettings"
 articleTitle: "ToAsposePageSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Converts Windows-specific System.Drawing.Printing.PageSettings to ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettingsExtensions method. Converts Windows-specific System.Drawing.Printing.PageSettings to ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/"

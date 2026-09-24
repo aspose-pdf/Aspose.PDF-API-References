@@ -2,8 +2,8 @@
 title: "IImageDescriptionCopilot.GetImageDescriptionsAsync"
 linktitle: "GetImageDescriptionsAsync"
 articleTitle: "GetImageDescriptionsAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously gets image descriptions for images from a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IImageDescriptionCopilot method. Asynchronously gets image descriptions for images from a PDF document."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/"

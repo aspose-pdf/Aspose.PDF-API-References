@@ -2,8 +2,8 @@
 title: "AutoFiller.InputFileName"
 linktitle: "InputFileName"
 articleTitle: "InputFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the input template file. One of two input modes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller property. Gets or sets the input template file. One of two input modes."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/autofiller/inputfilename/"

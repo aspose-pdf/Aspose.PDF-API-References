@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilot.SaveContextAsync"
 linktitle: "SaveContextAsync"
 articleTitle: "SaveContextAsync"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilot method."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/openaichatcopilot/savecontextasync/"

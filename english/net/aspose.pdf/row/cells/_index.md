@@ -2,8 +2,8 @@
 title: "Row.Cells"
 linktitle: "Cells"
 articleTitle: "Cells"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the cells of the row."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Row property. Gets the cells of the row."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/row/cells/"

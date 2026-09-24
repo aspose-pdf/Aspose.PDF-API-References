@@ -2,8 +2,8 @@
 title: "StructureTypeStandard Class"
 linktitle: "StructureTypeStandard"
 articleTitle: "StructureTypeStandard"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Standard Structure Types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.StructureTypeStandard class. Represents Standard Structure Types."
 type: docs
 weight: 580
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/"

@@ -2,8 +2,8 @@
 title: "Stamp.SetImageSize"
 linktitle: "SetImageSize"
 articleTitle: "SetImageSize"
-second_title: "Aspose.PDF for .NET"
-description: "Sets size of image stamp. Image will be scaled according to the specified values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Sets size of image stamp. Image will be scaled according to the specified values."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/stamp/setimagesize/"

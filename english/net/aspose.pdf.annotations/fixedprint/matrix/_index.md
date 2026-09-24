@@ -2,8 +2,8 @@
 title: "FixedPrint.Matrix"
 linktitle: "Matrix"
 articleTitle: "Matrix"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets matrix value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FixedPrint property. Gets or sets matrix value."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/fixedprint/matrix/"

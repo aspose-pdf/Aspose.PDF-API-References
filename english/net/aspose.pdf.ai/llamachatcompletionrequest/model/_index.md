@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionRequest.Model"
 linktitle: "Model"
 articleTitle: "Model"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets ID of the model to use."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionRequest property. Sets or gets ID of the model to use."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/model/"

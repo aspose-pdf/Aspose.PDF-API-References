@@ -2,8 +2,8 @@
 title: "EOFillStroke.EOFillStroke"
 linktitle: "EOFillStroke"
 articleTitle: "EOFillStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EOFillStroke class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EOFillStroke constructor. Initializes a new instance of the EOFillStroke class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/eofillstroke/eofillstroke/"

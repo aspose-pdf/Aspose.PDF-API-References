@@ -2,8 +2,8 @@
 title: "FileResponse.FileResponse"
 linktitle: "FileResponse"
 articleTitle: "FileResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FileResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResponse constructor. Initializes a new instance of the FileResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/fileresponse/fileresponse/"

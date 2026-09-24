@@ -2,8 +2,8 @@
 title: "Rows.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Add row to collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rows method. Add row to collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/rows/add/"

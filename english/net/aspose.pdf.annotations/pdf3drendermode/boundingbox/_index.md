@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.BoundingBox"
 linktitle: "BoundingBox"
 articleTitle: "BoundingBox"
-second_title: "Aspose.PDF for .NET"
-description: "The \"BoundingBox\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"BoundingBox\" render mode."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/pdf3drendermode/boundingbox/"

@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions.RemoveJavaScriptsAndActions"
 linktitle: "RemoveJavaScriptsAndActions"
 articleTitle: "RemoveJavaScriptsAndActions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether JavaScript and associated actions should be removed from the document. This option is useful to eliminate potential s..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizationOptions property. Gets or sets a value indicating whether JavaScript and associated actions should be removed from the document. This o..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/removejavascriptsandactions/"

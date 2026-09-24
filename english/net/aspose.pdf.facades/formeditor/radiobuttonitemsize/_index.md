@@ -2,8 +2,8 @@
 title: "FormEditor.RadioButtonItemSize"
 linktitle: "RadioButtonItemSize"
 articleTitle: "RadioButtonItemSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets size of radio button item size (when new radio button field is added). formEditor = new Aspose.Pdf.Facades.FormEditor(\"PdfForm.pdf\", \"FormEditor..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor property. Gets or sets size of radio button item size (when new radio button field is added). formEditor = new Aspose.Pdf.Facades.FormEditor(\"PdfF..."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/"

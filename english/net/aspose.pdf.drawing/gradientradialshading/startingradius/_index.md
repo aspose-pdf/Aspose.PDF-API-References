@@ -2,8 +2,8 @@
 title: "GradientRadialShading.StartingRadius"
 linktitle: "StartingRadius"
 articleTitle: "StartingRadius"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets starting circle radius."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GradientRadialShading property. Gets or sets starting circle radius."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/gradientradialshading/startingradius/"

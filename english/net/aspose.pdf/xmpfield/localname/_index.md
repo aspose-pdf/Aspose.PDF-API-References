@@ -2,8 +2,8 @@
 title: "XmpField.LocalName"
 linktitle: "LocalName"
 articleTitle: "LocalName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the name of the local."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets or sets the name of the local."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/xmpfield/localname/"

@@ -2,8 +2,8 @@
 title: "Document.EnableNotificationLogging"
 linktitle: "EnableNotificationLogging"
 articleTitle: "EnableNotificationLogging"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether to enable the logging of notifications."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets a value indicating whether to enable the logging of notifications."
 type: docs
 weight: 1620
 url: "/net/aspose.pdf/document/enablenotificationlogging/"

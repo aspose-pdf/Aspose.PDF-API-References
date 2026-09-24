@@ -2,8 +2,8 @@
 title: "Matrix3D.GetAngle"
 linktitle: "GetAngle"
 articleTitle: "GetAngle"
-second_title: "Aspose.PDF for .NET"
-description: "Translates rotation into angle (degrees)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix3D method. Translates rotation into angle (degrees)"
 type: docs
 weight: 70
 url: "/net/aspose.pdf/matrix3d/getangle/"

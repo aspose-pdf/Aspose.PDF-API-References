@@ -2,8 +2,8 @@
 title: "ImagePlacementCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes specified item from collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacementCollection method. Deletes specified item from collection"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/imageplacementcollection/remove/"

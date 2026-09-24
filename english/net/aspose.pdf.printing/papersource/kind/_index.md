@@ -2,8 +2,8 @@
 title: "PaperSource.Kind"
 linktitle: "Kind"
 articleTitle: "Kind"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating the type of paper source."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSource property. Gets or sets a value indicating the type of paper source."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/papersource/kind/"

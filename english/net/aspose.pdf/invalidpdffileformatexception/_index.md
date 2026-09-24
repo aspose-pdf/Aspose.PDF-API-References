@@ -2,8 +2,8 @@
 title: "InvalidPdfFileFormatException Class"
 linktitle: "InvalidPdfFileFormatException"
 articleTitle: "InvalidPdfFileFormatException"
-second_title: "Aspose.PDF for .NET"
-description: "The exception that is thrown when a pdf file is invalid."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.InvalidPdfFileFormatException class. The exception that is thrown when a pdf file is invalid."
 type: docs
 weight: 1650
 url: "/net/aspose.pdf/invalidpdffileformatexception/"

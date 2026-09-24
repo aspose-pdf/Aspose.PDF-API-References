@@ -2,8 +2,8 @@
 title: "PaginationArtifact Class"
 linktitle: "PaginationArtifact"
 articleTitle: "PaginationArtifact"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an abstract base class for pagination artifacts in a document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PaginationArtifact class. Represents an abstract base class for pagination artifacts in a document."
 type: docs
 weight: 2330
 url: "/net/aspose.pdf/paginationartifact/"

@@ -2,8 +2,8 @@
 title: "EndPath.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Text representation of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EndPath method. Text representation of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/endpath/tostring/"

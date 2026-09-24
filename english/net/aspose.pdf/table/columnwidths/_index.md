@@ -2,8 +2,8 @@
 title: "Table.ColumnWidths"
 linktitle: "ColumnWidths"
 articleTitle: "ColumnWidths"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the column widths of the table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table property. Gets the column widths of the table."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/table/columnwidths/"

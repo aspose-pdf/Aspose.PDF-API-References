@@ -2,8 +2,8 @@
 title: "BMC.Tag"
 linktitle: "Tag"
 articleTitle: "Tag"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets marked content tag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BMC property. Gets or sets marked content tag"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/bmc/tag/"

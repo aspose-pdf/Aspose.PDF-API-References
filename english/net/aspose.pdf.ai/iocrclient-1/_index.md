@@ -2,8 +2,8 @@
 title: "IOcrClient<TOptions> Interface"
 linktitle: "IOcrClient<TOptions>"
 articleTitle: "IOcrClient<TOptions>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IOcrClient interface."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.ai/iocrclient-1/"

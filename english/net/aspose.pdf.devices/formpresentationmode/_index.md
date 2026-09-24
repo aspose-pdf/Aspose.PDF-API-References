@@ -2,8 +2,8 @@
 title: "FormPresentationMode Enum"
 linktitle: "FormPresentationMode"
 articleTitle: "FormPresentationMode"
-second_title: "Aspose.PDF for .NET"
-description: "Used to specify the form presentation mode when printing or converting to image pdf documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.FormPresentationMode enum. Used to specify the form presentation mode when printing or converting to image pdf documents."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.devices/formpresentationmode/"

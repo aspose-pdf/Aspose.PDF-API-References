@@ -2,8 +2,8 @@
 title: "FormFlattener Class"
 linktitle: "FormFlattener"
 articleTitle: "FormFlattener"
-second_title: "Aspose.PDF for .NET"
-description: "Represents FormFlattener plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormFlattener class. Represents FormFlattener plugin."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.lowcode/formflattener/"

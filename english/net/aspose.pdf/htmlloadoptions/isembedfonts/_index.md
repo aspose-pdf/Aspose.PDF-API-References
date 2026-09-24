@@ -2,8 +2,8 @@
 title: "HtmlLoadOptions.IsEmbedFonts"
 linktitle: "IsEmbedFonts"
 articleTitle: "IsEmbedFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets fonts embedding to result document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions property. Gets or sets fonts embedding to result document"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/htmlloadoptions/isembedfonts/"

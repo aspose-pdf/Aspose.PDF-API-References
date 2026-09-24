@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.Initialize"
 linktitle: "Initialize"
 articleTitle: "Initialize"
-second_title: "Aspose.PDF for .NET"
-description: "Called to initialize the current instance for encryption. Note that when encrypting, it will be filled with the data of the transferred properties , and when..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Called to initialize the current instance for encryption. Note that when encrypting, it will be filled with the data of the tr..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/icustomsecurityhandler/initialize/"

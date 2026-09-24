@@ -2,8 +2,8 @@
 title: "StructureTypeCategory.GroupingElements"
 linktitle: "GroupingElements"
 articleTitle: "GroupingElements"
-second_title: "Aspose.PDF for .NET"
-description: "Grouping elements group other elements into sequences or hierarchies but hold no content directly and have no direct effect on layout."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeCategory field. Grouping elements group other elements into sequences or hierarchies but hold no content directly and have no direct effect on l..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/groupingelements/"

@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber.Reset"
 linktitle: "Reset"
 articleTitle: "Reset"
-second_title: "Aspose.PDF for .NET"
-description: "Clears TextFragments collection of this object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber method. Clears TextFragments collection of this object."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.text/textfragmentabsorber/reset/"

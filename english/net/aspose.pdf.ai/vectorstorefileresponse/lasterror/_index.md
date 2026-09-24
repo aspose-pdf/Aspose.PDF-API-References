@@ -2,8 +2,8 @@
 title: "VectorStoreFileResponse.LastError"
 linktitle: "LastError"
 articleTitle: "LastError"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the last error associated with this vector store file. Will be null if there are no errors."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileResponse property. Gets or sets the last error associated with this vector store file. Will be null if there are no errors."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/lasterror/"

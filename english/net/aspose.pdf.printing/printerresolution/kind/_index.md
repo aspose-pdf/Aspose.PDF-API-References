@@ -2,8 +2,8 @@
 title: "PrinterResolution.Kind"
 linktitle: "Kind"
 articleTitle: "Kind"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating the kind of printer resolution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolution property. Gets a value indicating the kind of printer resolution."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/printerresolution/kind/"

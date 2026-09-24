@@ -2,8 +2,8 @@
 title: "Form.ExportFdf"
 linktitle: "ExportFdf"
 articleTitle: "ExportFdf"
-second_title: "Aspose.PDF for .NET"
-description: "Exports the content of the fields of the pdf into the fdf stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Exports the content of the fields of the pdf into the fdf stream."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/form/exportfdf/"

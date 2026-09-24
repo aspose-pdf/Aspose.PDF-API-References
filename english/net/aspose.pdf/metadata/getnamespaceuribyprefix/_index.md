@@ -2,8 +2,8 @@
 title: "Metadata.GetNamespaceUriByPrefix"
 linktitle: "GetNamespaceUriByPrefix"
 articleTitle: "GetNamespaceUriByPrefix"
-second_title: "Aspose.PDF for .NET"
-description: "Returns namespace URI by prefix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Returns namespace URI by prefix."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/metadata/getnamespaceuribyprefix/"

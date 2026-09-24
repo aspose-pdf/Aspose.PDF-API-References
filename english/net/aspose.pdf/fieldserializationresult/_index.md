@@ -2,8 +2,8 @@
 title: "FieldSerializationResult Class"
 linktitle: "FieldSerializationResult"
 articleTitle: "FieldSerializationResult"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the result of a form field serialization process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FieldSerializationResult class. Represents the result of a form field serialization process."
 type: docs
 weight: 850
 url: "/net/aspose.pdf/fieldserializationresult/"

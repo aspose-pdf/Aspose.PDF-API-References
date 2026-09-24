@@ -2,8 +2,8 @@
 title: "PaperSizes.LegalExtra"
 linktitle: "LegalExtra"
 articleTitle: "LegalExtra"
-second_title: "Aspose.PDF for .NET"
-description: "Legal extra paper (9.275 in. by 15 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Legal extra paper (9.275 in. by 15 in.)."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.printing/papersizes/legalextra/"

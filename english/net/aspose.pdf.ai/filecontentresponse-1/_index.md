@@ -2,8 +2,8 @@
 title: "FileContentResponse<T> Class"
 linktitle: "FileContentResponse<T>"
 articleTitle: "FileContentResponse<T>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.FileContentResponse class."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.ai/filecontentresponse-1/"

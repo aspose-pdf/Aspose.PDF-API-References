@@ -2,8 +2,8 @@
 title: "Heading.IsInList"
 linktitle: "IsInList"
 articleTitle: "IsInList"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the heading should be in toc list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the heading should be in toc list."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/heading/isinlist/"

@@ -2,8 +2,8 @@
 title: "TableAbsorber.TableAbsorber"
 linktitle: "TableAbsorber"
 articleTitle: "TableAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TableAbsorber class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber constructor. Initializes a new instance of the TableAbsorber class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/tableabsorber/tableabsorber/"

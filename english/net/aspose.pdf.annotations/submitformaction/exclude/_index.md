@@ -2,8 +2,8 @@
 title: "SubmitFormAction.Exclude"
 linktitle: "Exclude"
 articleTitle: "Exclude"
-second_title: "Aspose.PDF for .NET"
-description: "If clear, the Fields array specifies which fields to include in the submission."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If clear, the Fields array specifies which fields to include in the submission."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/submitformaction/exclude/"

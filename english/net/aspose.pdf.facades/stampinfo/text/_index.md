@@ -2,8 +2,8 @@
 title: "StampInfo.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text in the stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampInfo property. Gets text in the stamp."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/stampinfo/text/"

@@ -2,8 +2,8 @@
 title: "PdfQueryPageSettingsEventHandler Delegate"
 linktitle: "PdfQueryPageSettingsEventHandler"
 articleTitle: "PdfQueryPageSettingsEventHandler"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the method that handles the event of a ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfQueryPageSettingsEventHandler delegate. Represents the method that handles the event of a ."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/"

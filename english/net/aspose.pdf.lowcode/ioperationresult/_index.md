@@ -2,8 +2,8 @@
 title: "IOperationResult Interface"
 linktitle: "IOperationResult"
 articleTitle: "IOperationResult"
-second_title: "Aspose.PDF for .NET"
-description: "General operation result interface that defines common methods that concrete plugin operation result should implement."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.IOperationResult interface. General operation result interface that defines common methods that concrete plugin operation result should im..."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.lowcode/ioperationresult/"

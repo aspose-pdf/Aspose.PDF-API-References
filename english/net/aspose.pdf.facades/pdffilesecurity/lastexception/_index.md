@@ -2,8 +2,8 @@
 title: "PdfFileSecurity.LastException"
 linktitle: "LastException"
 articleTitle: "LastException"
-second_title: "Aspose.PDF for .NET"
-description: "Returns exception which was thrown by last operation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity property. Returns exception which was thrown by last operation."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdffilesecurity/lastexception/"

@@ -2,8 +2,8 @@
 title: "EncryptionOptions.EncryptionOptions"
 linktitle: "EncryptionOptions"
 articleTitle: "EncryptionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EncryptionOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionOptions constructor. Initializes a new instance of the EncryptionOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/encryptionoptions/encryptionoptions/"

@@ -2,8 +2,8 @@
 title: "FontColor.Red"
 linktitle: "Red"
 articleTitle: "Red"
-second_title: "Aspose.PDF for .NET"
-description: "Red component of color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontColor property. Red component of color."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/fontcolor/red/"

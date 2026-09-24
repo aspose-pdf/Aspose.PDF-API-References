@@ -2,8 +2,8 @@
 title: "Font.DecodedFontName"
 linktitle: "DecodedFontName"
 articleTitle: "DecodedFontName"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificical font name. This name is value of PDF font property \"BaseFont\" and sometime..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Font property. Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificical font name. This name is value of PDF font property \"BaseFon..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/font/decodedfontname/"

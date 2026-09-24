@@ -2,8 +2,8 @@
 title: "ViewerPreference.NonFullScreenPageModeUseOC"
 linktitle: "NonFullScreenPageModeUseOC"
 articleTitle: "NonFullScreenPageModeUseOC"
-second_title: "Aspose.PDF for .NET"
-description: "Optional content group panel visible."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Optional content group panel visible."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/"

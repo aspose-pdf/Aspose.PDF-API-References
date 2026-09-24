@@ -2,8 +2,8 @@
 title: "ImagePlacement.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rotation angle of the Image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement property. Gets rotation angle of the Image."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/imageplacement/rotation/"

@@ -2,8 +2,8 @@
 title: "Artifact.SetPdfPage"
 linktitle: "SetPdfPage"
 articleTitle: "SetPdfPage"
-second_title: "Aspose.PDF for .NET"
-description: "Sets PDF page which is placed on the document page as artifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Sets PDF page which is placed on the document page as artifact."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/artifact/setpdfpage/"

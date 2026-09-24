@@ -2,8 +2,8 @@
 title: "Form.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets number of the fields on this form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets number of the fields on this form."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.forms/form/count/"

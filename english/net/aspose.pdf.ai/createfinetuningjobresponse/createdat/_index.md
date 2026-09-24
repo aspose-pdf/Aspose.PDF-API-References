@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobResponse.CreatedAt"
 linktitle: "CreatedAt"
 articleTitle: "CreatedAt"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Unix timestamp (in seconds) of when the fine-tuning job was created."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets the Unix timestamp (in seconds) of when the fine-tuning job was created."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/createdat/"

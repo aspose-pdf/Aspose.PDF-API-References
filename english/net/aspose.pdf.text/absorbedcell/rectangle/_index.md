@@ -2,8 +2,8 @@
 title: "AbsorbedCell.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rectangle that describes position of the cell on page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedCell property. Gets rectangle that describes position of the cell on page"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/absorbedcell/rectangle/"

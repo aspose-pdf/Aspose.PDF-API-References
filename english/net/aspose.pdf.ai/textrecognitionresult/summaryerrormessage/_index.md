@@ -2,8 +2,8 @@
 title: "TextRecognitionResult.SummaryErrorMessage"
 linktitle: "SummaryErrorMessage"
 articleTitle: "SummaryErrorMessage"
-second_title: "Aspose.PDF for .NET"
-description: "A consolidated error message if OverallSuccess is false, or a summary if any page failed. Null if OverallSuccess is true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextRecognitionResult property. A consolidated error message if OverallSuccess is false, or a summary if any page failed. Null if OverallSuccess is true."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/textrecognitionresult/summaryerrormessage/"

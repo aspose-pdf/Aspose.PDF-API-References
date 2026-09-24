@@ -2,8 +2,8 @@
 title: "IPipelineOptions.BatchSize"
 linktitle: "BatchSize"
 articleTitle: "BatchSize"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the size of a portion of pages to pass from node to node."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IPipelineOptions property. Specifies the size of a portion of pages to pass from node to node."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ipipelineoptions/batchsize/"

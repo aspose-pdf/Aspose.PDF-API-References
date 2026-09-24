@@ -2,8 +2,8 @@
 title: "GoToURIAction Class"
 linktitle: "GoToURIAction"
 articleTitle: "GoToURIAction"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a URI action causes a URI to be resolved."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.GoToURIAction class. Represents a URI action causes a URI to be resolved."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.annotations/gotouriaction/"

@@ -2,8 +2,8 @@
 title: "PdfJavaScriptStripper Class"
 linktitle: "PdfJavaScriptStripper"
 articleTitle: "PdfJavaScriptStripper"
-second_title: "Aspose.PDF for .NET"
-description: "Class for removing all Java Script code."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfJavaScriptStripper class. Class for removing all Java Script code."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.facades/pdfjavascriptstripper/"

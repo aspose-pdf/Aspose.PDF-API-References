@@ -2,8 +2,8 @@
 title: "PdfFileEditor.PageBreak.PdfFileEditor.PageBreak"
 linktitle: "PdfFileEditor.PageBreak"
 articleTitle: "PdfFileEditor.PageBreak"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfFileEditor.PageBreak class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageBreak constructor. Initializes a new instance of the PdfFileEditor.PageBreak class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagebreak/"

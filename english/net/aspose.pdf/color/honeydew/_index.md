@@ -2,8 +2,8 @@
 title: "Color.Honeydew"
 linktitle: "Honeydew"
 articleTitle: "Honeydew"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFF0FFF0."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFF0FFF0."
 type: docs
 weight: 720
 url: "/net/aspose.pdf/color/honeydew/"

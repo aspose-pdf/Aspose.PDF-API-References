@@ -2,8 +2,8 @@
 title: "Artifact.SaveUpdates"
 linktitle: "SaveUpdates"
 articleTitle: "SaveUpdates"
-second_title: "Aspose.PDF for .NET"
-description: "Saves all updates in artifact which were made after BeginUpdates() call."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Saves all updates in artifact which were made after BeginUpdates() call."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/artifact/saveupdates/"

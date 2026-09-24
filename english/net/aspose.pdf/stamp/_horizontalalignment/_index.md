@@ -2,8 +2,8 @@
 title: "Stamp._horizontalAlignment"
 linktitle: "_horizontalAlignment"
 articleTitle: "_horizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Horizontal alignment of the stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp field. Horizontal alignment of the stamp."
 type: docs
 weight: 290
 url: "/net/aspose.pdf/stamp/_horizontalalignment/"

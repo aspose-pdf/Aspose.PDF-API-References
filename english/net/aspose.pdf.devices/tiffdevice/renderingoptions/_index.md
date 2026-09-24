@@ -2,8 +2,8 @@
 title: "TiffDevice.RenderingOptions"
 linktitle: "RenderingOptions"
 articleTitle: "RenderingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rendering options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffDevice property. Gets or sets rendering options."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.devices/tiffdevice/renderingoptions/"

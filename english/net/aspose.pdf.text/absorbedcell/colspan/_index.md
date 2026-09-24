@@ -2,8 +2,8 @@
 title: "AbsorbedCell.ColSpan"
 linktitle: "ColSpan"
 articleTitle: "ColSpan"
-second_title: "Aspose.PDF for .NET"
-description: "Return the number of columns the cell should span when TableAbsorber.UseFlowEngine property is set to true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedCell property. Return the number of columns the cell should span when TableAbsorber.UseFlowEngine property is set to true."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/absorbedcell/colspan/"

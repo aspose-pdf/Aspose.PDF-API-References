@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ConvertTo"
 linktitle: "ConvertTo"
 articleTitle: "ConvertTo"
-second_title: "Aspose.PDF for .NET"
-description: "Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format with..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in..."
 type: docs
 weight: 1140
 url: "/net/aspose.pdf.facades/pdffileeditor/convertto/"

@@ -2,8 +2,8 @@
 title: "DocumentCollection Class"
 linktitle: "DocumentCollection"
 articleTitle: "DocumentCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a collection of documents to be processed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.DocumentCollection class. Represents a collection of documents to be processed."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.ai/documentcollection/"

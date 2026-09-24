@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilotOptions.WithAssistantName"
 linktitle: "WithAssistantName"
 articleTitle: "WithAssistantName"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the assistant name for the chat copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Sets the assistant name for the chat copilot options."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withassistantname/"

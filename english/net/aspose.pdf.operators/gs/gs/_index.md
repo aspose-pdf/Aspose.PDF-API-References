@@ -2,8 +2,8 @@
 title: "GS.GS"
 linktitle: "GS"
 articleTitle: "GS"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the GS class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GS constructor. Initializes a new instance of the GS class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/gs/gs/"

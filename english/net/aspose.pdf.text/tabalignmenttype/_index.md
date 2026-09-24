@@ -2,8 +2,8 @@
 title: "TabAlignmentType Enum"
 linktitle: "TabAlignmentType"
 articleTitle: "TabAlignmentType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the tab alignment types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TabAlignmentType enum. Enumerates the tab alignment types."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.text/tabalignmenttype/"

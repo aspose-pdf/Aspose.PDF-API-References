@@ -2,8 +2,8 @@
 title: "PdfFileEditor.SplitToEnd"
 linktitle: "SplitToEnd"
 articleTitle: "SplitToEnd"
-second_title: "Aspose.PDF for .NET"
-description: "Splits from location, and saves the rear part as a new file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits from location, and saves the rear part as a new file."
 type: docs
 weight: 630
 url: "/net/aspose.pdf.facades/pdffileeditor/splittoend/"

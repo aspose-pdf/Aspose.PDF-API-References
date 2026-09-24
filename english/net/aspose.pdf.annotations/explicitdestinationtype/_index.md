@@ -2,8 +2,8 @@
 title: "ExplicitDestinationType Enum"
 linktitle: "ExplicitDestinationType"
 articleTitle: "ExplicitDestinationType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the types of explicit destinations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.ExplicitDestinationType enum. Enumerates the types of explicit destinations."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.annotations/explicitdestinationtype/"

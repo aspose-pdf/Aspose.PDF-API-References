@@ -2,8 +2,8 @@
 title: "CaretAnnotation Class"
 linktitle: "CaretAnnotation"
 articleTitle: "CaretAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Caret annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.CaretAnnotation class. Class representing Caret annotation."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.annotations/caretannotation/"

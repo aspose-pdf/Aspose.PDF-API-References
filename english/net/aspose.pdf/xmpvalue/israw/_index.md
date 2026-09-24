@@ -2,8 +2,8 @@
 title: "XmpValue.IsRaw"
 linktitle: "IsRaw"
 articleTitle: "IsRaw"
-second_title: "Aspose.PDF for .NET"
-description: "Value is unsupported/unknown and raw XML code is provided."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue property. Value is unsupported/unknown and raw XML code is provided."
 type: docs
 weight: 350
 url: "/net/aspose.pdf/xmpvalue/israw/"

@@ -2,8 +2,8 @@
 title: "PdfFileEditor.TrySplitFromFirst"
 linktitle: "TrySplitFromFirst"
 articleTitle: "TrySplitFromFirst"
-second_title: "Aspose.PDF for .NET"
-description: "Splits Pdf file from first page to specified location,and saves the front part as a new file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits Pdf file from first page to specified location,and saves the front part as a new file."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/"

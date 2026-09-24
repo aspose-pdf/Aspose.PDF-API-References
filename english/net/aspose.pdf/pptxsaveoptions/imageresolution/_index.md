@@ -2,8 +2,8 @@
 title: "PptxSaveOptions.ImageResolution"
 linktitle: "ImageResolution"
 articleTitle: "ImageResolution"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the image resolution (dpi). Default is 192 dpi."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PptxSaveOptions property. Gets or sets the image resolution (dpi). Default is 192 dpi."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pptxsaveoptions/imageresolution/"

@@ -2,8 +2,8 @@
 title: "PdfViewer.PrintDocumentWithSettings"
 linktitle: "PrintDocumentWithSettings"
 articleTitle: "PrintDocumentWithSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Prints the Pdf document with settings. If the document page size does not correspond to the printer paper size, set the property to determine whether a page ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Prints the Pdf document with settings. If the document page size does not correspond to the printer paper size, set the property to determi..."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/"

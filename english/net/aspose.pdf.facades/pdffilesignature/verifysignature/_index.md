@@ -2,8 +2,8 @@
 title: "PdfFileSignature.VerifySignature"
 linktitle: "VerifySignature"
 articleTitle: "VerifySignature"
-second_title: "Aspose.PDF for .NET"
-description: "Checks the validity of a signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Checks the validity of a signature."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.facades/pdffilesignature/verifysignature/"

@@ -2,8 +2,8 @@
 title: "FreeTextIntent Enum"
 linktitle: "FreeTextIntent"
 articleTitle: "FreeTextIntent"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the intents of the free text annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FreeTextIntent enum. Enumerates the intents of the free text annotation."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.annotations/freetextintent/"

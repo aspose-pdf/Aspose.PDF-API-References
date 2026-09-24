@@ -2,8 +2,8 @@
 title: "JsonDiffOutputGenerator.GenerateOutput"
 linktitle: "GenerateOutput"
 articleTitle: "GenerateOutput"
-second_title: "Aspose.PDF for .NET"
-description: "Generates the output of the differences between texts and saves it to a file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JsonDiffOutputGenerator method. Generates the output of the differences between texts and saves it to a file."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/"

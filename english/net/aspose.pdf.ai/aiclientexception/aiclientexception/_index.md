@@ -2,8 +2,8 @@
 title: "AIClientException.AIClientException"
 linktitle: "AIClientException"
 articleTitle: "AIClientException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the AIClientException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientException constructor. Initializes a new instance of the AIClientException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/aiclientexception/aiclientexception/"

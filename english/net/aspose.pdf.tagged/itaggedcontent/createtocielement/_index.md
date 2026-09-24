@@ -2,8 +2,8 @@
 title: "ITaggedContent.CreateTOCIElement"
 linktitle: "CreateTOCIElement"
 articleTitle: "CreateTOCIElement"
-second_title: "Aspose.PDF for .NET"
-description: "Creates ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtocielement/"

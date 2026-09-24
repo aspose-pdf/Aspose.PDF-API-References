@@ -2,8 +2,8 @@
 title: "TabStops.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clones a new objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStops method. Clones a new objects."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/tabstops/clone/"

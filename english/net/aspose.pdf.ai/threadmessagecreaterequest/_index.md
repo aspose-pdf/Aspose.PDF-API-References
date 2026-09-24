@@ -2,8 +2,8 @@
 title: "ThreadMessageCreateRequest Class"
 linktitle: "ThreadMessageCreateRequest"
 articleTitle: "ThreadMessageCreateRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a request to create a message within a thread."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ThreadMessageCreateRequest class. Represents a request to create a message within a thread."
 type: docs
 weight: 1210
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/"

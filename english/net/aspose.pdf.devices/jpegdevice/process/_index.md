@@ -2,8 +2,8 @@
 title: "JpegDevice.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the page into jpeg and saves it in the output stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JpegDevice method. Converts the page into jpeg and saves it in the output stream."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.devices/jpegdevice/process/"

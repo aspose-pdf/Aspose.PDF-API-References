@@ -2,8 +2,8 @@
 title: "SubmitToolOutputs.ToolCalls"
 linktitle: "ToolCalls"
 articleTitle: "ToolCalls"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of the relevant tool calls."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitToolOutputs property. Gets or sets a list of the relevant tool calls."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/submittooloutputs/toolcalls/"

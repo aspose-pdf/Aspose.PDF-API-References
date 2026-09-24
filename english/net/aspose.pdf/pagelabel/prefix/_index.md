@@ -2,8 +2,8 @@
 title: "PageLabel.Prefix"
 linktitle: "Prefix"
 articleTitle: "Prefix"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets page number prefix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageLabel property. Gets or sets page number prefix."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pagelabel/prefix/"

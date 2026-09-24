@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.ScreenReaders"
 linktitle: "ScreenReaders"
 articleTitle: "ScreenReaders"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to reader on screen only."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Allows to reader on screen only."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/documentprivilege/screenreaders/"

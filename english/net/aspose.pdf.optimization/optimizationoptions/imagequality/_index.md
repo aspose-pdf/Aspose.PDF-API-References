@@ -2,8 +2,8 @@
 title: "OptimizationOptions.ImageQuality"
 linktitle: "ImageQuality"
 articleTitle: "ImageQuality"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies level of image compression when CompressIamges flag is used."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizationOptions property. Specifies level of image compression when CompressIamges flag is used."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.optimization/optimizationoptions/imagequality/"

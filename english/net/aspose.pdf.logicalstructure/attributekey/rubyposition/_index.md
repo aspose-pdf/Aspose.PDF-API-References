@@ -2,8 +2,8 @@
 title: "AttributeKey.RubyPosition"
 linktitle: "RubyPosition"
 articleTitle: "RubyPosition"
-second_title: "Aspose.PDF for .NET"
-description: "RubyPosition attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. RubyPosition attribute (Layout attribute owner)."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.logicalstructure/attributekey/rubyposition/"

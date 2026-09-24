@@ -2,8 +2,8 @@
 title: "RenderingOptions.ScaleImagesToFitPageWidth"
 linktitle: "ScaleImagesToFitPageWidth"
 articleTitle: "ScaleImagesToFitPageWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a values used to scale all images on the page to fit page's width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets a values used to scale all images on the page to fit page's width."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/renderingoptions/scaleimagestofitpagewidth/"

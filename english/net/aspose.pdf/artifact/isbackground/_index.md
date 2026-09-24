@@ -2,8 +2,8 @@
 title: "Artifact.IsBackground"
 linktitle: "IsBackground"
 articleTitle: "IsBackground"
-second_title: "Aspose.PDF for .NET"
-description: "If true Artifact is placed behind page contents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. If true Artifact is placed behind page contents."
 type: docs
 weight: 360
 url: "/net/aspose.pdf/artifact/isbackground/"

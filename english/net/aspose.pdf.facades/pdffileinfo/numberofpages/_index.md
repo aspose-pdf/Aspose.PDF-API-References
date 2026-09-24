@@ -2,8 +2,8 @@
 title: "PdfFileInfo.NumberOfPages"
 linktitle: "NumberOfPages"
 articleTitle: "NumberOfPages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the number of document pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo property. Gets the number of document pages."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/pdffileinfo/numberofpages/"

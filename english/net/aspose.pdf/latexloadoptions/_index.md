@@ -2,8 +2,8 @@
 title: "LatexLoadOptions Class"
 linktitle: "LatexLoadOptions"
 articleTitle: "LatexLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for loading/importing TeX file into PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LatexLoadOptions class. Represents options for loading/importing TeX file into PDF document."
 type: docs
 weight: 1710
 url: "/net/aspose.pdf/latexloadoptions/"

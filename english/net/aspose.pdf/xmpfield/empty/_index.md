@@ -2,8 +2,8 @@
 title: "XmpField.Empty"
 linktitle: "Empty"
 articleTitle: "Empty"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an Empty xmp field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets an Empty xmp field."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/xmpfield/empty/"

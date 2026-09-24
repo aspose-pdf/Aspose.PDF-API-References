@@ -2,8 +2,8 @@
 title: "VectorStoreFileBatchResponse.VectorStoreFileBatchResponse"
 linktitle: "VectorStoreFileBatchResponse"
 articleTitle: "VectorStoreFileBatchResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the VectorStoreFileBatchResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileBatchResponse constructor. Initializes a new instance of the VectorStoreFileBatchResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstorefilebatchresponse/"

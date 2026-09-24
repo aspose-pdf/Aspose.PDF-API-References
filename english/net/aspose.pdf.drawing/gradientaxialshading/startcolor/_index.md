@@ -2,8 +2,8 @@
 title: "GradientAxialShading.StartColor"
 linktitle: "StartColor"
 articleTitle: "StartColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets start color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GradientAxialShading property. Gets or sets start color."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/gradientaxialshading/startcolor/"

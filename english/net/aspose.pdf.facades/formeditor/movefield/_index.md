@@ -2,8 +2,8 @@
 title: "FormEditor.MoveField"
 linktitle: "MoveField"
 articleTitle: "MoveField"
-second_title: "Aspose.PDF for .NET"
-description: "Set new position of field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set new position of field."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/formeditor/movefield/"

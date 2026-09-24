@@ -2,8 +2,8 @@
 title: "DataType Enum"
 linktitle: "DataType"
 articleTitle: "DataType"
-second_title: "Aspose.PDF for .NET"
-description: "Represents possible types of data for plugin processing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.DataType enum. Represents possible types of data for plugin processing."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/datatype/"

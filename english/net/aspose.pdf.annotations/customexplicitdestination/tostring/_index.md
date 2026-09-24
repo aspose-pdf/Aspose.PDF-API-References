@@ -2,8 +2,8 @@
 title: "CustomExplicitDestination.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Converts to page number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CustomExplicitDestination method. Converts to page number."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/customexplicitdestination/tostring/"

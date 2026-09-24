@@ -2,8 +2,8 @@
 title: "LineInfo.LineColor"
 linktitle: "LineColor"
 articleTitle: "LineColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the color of a line."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineInfo property. Gets or sets the color of a line."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/lineinfo/linecolor/"

@@ -2,8 +2,8 @@
 title: "ChoiceField.DeleteOption"
 linktitle: "DeleteOption"
 articleTitle: "DeleteOption"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes option by its name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChoiceField method. Deletes option by its name."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/choicefield/deleteoption/"

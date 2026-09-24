@@ -2,8 +2,8 @@
 title: "Rectangle.FromRect"
 linktitle: "FromRect"
 articleTitle: "FromRect"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes new rectangle from given instance of System.Drawing.Rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Initializes new rectangle from given instance of System.Drawing.Rectangle."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/rectangle/fromrect/"

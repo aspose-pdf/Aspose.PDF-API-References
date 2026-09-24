@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.PartsEmbeddingModes Enum"
 linktitle: "HtmlSaveOptions.PartsEmbeddingModes"
 articleTitle: "HtmlSaveOptions.PartsEmbeddingModes"
-second_title: "Aspose.PDF for .NET"
-description: "This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files (HTML, Fonts,Images, CSSes) will b..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.PartsEmbeddingModes enum. This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whethe..."
 type: docs
 weight: 1340
 url: "/net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/"

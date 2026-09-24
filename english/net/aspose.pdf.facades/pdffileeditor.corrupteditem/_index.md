@@ -2,8 +2,8 @@
 title: "PdfFileEditor.CorruptedItem Class"
 linktitle: "PdfFileEditor.CorruptedItem"
 articleTitle: "PdfFileEditor.CorruptedItem"
-second_title: "Aspose.PDF for .NET"
-description: "Class which provides information about corrupted files in time of concatenation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileEditor.CorruptedItem class. Class which provides information about corrupted files in time of concatenation."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.facades/pdffileeditor.corrupteditem/"

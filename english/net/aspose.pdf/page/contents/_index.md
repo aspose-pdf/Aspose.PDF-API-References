@@ -2,8 +2,8 @@
 title: "Page.Contents"
 linktitle: "Contents"
 articleTitle: "Contents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of operators in the content stream of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets collection of operators in the content stream of the page."
 type: docs
 weight: 480
 url: "/net/aspose.pdf/page/contents/"

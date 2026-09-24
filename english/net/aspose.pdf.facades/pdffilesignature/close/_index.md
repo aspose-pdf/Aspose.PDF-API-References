@@ -2,8 +2,8 @@
 title: "PdfFileSignature.Close"
 linktitle: "Close"
 articleTitle: "Close"
-second_title: "Aspose.PDF for .NET"
-description: "Closes the facade."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Closes the facade."
 type: docs
 weight: 680
 url: "/net/aspose.pdf.facades/pdffilesignature/close/"

@@ -2,8 +2,8 @@
 title: "StructureTextState.FontSize"
 linktitle: "FontSize"
 articleTitle: "FontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets font size of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets font size of the text."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/fontsize/"

@@ -2,8 +2,8 @@
 title: "CompletionResponse Class"
 linktitle: "CompletionResponse"
 articleTitle: "CompletionResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a chat completion response returned by model, based on the provided input."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.CompletionResponse class. Represents a chat completion response returned by model, based on the provided input."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.ai/completionresponse/"

@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilotOptions.UserInstructions"
 linktitle: "UserInstructions"
 articleTitle: "UserInstructions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the user prompt."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions property. Gets or sets the user prompt."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/userinstructions/"

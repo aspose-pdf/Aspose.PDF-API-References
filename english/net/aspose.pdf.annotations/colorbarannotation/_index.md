@@ -2,8 +2,8 @@
 title: "ColorBarAnnotation Class"
 linktitle: "ColorBarAnnotation"
 articleTitle: "ColorBarAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing ColorBarAnnotation annotation. Property Color ignored, instead used ColorsOfCMYK color. On creation, the ratio of width and height determi..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.ColorBarAnnotation class. Class representing ColorBarAnnotation annotation. Property Color ignored, instead used ColorsOfCMYK color. O..."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.annotations/colorbarannotation/"

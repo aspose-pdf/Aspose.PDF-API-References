@@ -2,8 +2,8 @@
 title: "Rectangle.ToRect"
 linktitle: "ToRect"
 articleTitle: "ToRect"
-second_title: "Aspose.PDF for .NET"
-description: "Converts rectangle to instance of System.Drawing.Rectangle. Floating-point positions and size are truncated."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Converts rectangle to instance of System.Drawing.Rectangle. Floating-point positions and size are truncated."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/rectangle/torect/"

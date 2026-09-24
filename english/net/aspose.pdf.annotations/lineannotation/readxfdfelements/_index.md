@@ -2,8 +2,8 @@
 title: "LineAnnotation.ReadXfdfElements"
 linktitle: "ReadXfdfElements"
 articleTitle: "ReadXfdfElements"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/lineannotation/readxfdfelements/"

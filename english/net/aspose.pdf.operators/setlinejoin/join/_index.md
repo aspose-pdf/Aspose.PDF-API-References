@@ -2,8 +2,8 @@
 title: "SetLineJoin.Join"
 linktitle: "Join"
 articleTitle: "Join"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetLineJoin property."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setlinejoin/join/"

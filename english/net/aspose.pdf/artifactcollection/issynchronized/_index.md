@@ -2,8 +2,8 @@
 title: "ArtifactCollection.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Is this object synchronized."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection property. Is this object synchronized."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/artifactcollection/issynchronized/"

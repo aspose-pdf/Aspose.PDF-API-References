@@ -2,8 +2,8 @@
 title: "ImageStamp.AlternativeText"
 linktitle: "AlternativeText"
 articleTitle: "AlternativeText"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets Alternative Text for image stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp property. Gets or sets Alternative Text for image stamp."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/imagestamp/alternativetext/"

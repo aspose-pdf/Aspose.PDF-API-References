@@ -2,8 +2,8 @@
 title: "Rows.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Remove row from collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rows method. Remove row from collection."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/rows/remove/"

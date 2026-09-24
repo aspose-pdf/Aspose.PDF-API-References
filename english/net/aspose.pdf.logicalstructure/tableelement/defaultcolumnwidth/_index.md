@@ -2,8 +2,8 @@
 title: "TableElement.DefaultColumnWidth"
 linktitle: "DefaultColumnWidth"
 articleTitle: "DefaultColumnWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets default column width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets default column width."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.logicalstructure/tableelement/defaultcolumnwidth/"

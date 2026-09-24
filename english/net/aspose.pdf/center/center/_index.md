@@ -2,8 +2,8 @@
 title: "Center.Center"
 linktitle: "Center"
 articleTitle: "Center"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Center class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Center constructor. Initializes a new instance of the Center class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/center/center/"

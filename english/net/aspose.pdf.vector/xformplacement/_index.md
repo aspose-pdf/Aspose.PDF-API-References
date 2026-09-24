@@ -2,8 +2,8 @@
 title: "XFormPlacement Class"
 linktitle: "XFormPlacement"
 articleTitle: "XFormPlacement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents XForm placement. If the XForm is displayed on the page more than 1 time, all XformPlacements associated with this XForm will have common graphical..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Vector.XFormPlacement class. Represents XForm placement. If the XForm is displayed on the page more than 1 time, all XformPlacements associated wi..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.vector/xformplacement/"

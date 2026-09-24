@@ -2,8 +2,8 @@
 title: "FileHyperlink.NewWindow"
 linktitle: "NewWindow"
 articleTitle: "NewWindow"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileHyperlink property. Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only)."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/filehyperlink/newwindow/"

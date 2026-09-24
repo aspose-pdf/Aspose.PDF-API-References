@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateLocalLink"
 linktitle: "CreateLocalLink"
 articleTitle: "CreateLocalLink"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a local link in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a local link in PDF document."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/"

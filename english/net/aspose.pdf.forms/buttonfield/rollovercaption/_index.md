@@ -2,8 +2,8 @@
 title: "ButtonField.RolloverCaption"
 linktitle: "RolloverCaption"
 articleTitle: "RolloverCaption"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rollover caption of button which shall be displayed when the user rolls the cursor into its active area without pressing the mouse button."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ButtonField property. Gets or sets rollover caption of button which shall be displayed when the user rolls the cursor into its active area without pressing t..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/buttonfield/rollovercaption/"

@@ -2,8 +2,8 @@
 title: "AnnotationType Enum"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of annotation types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.AnnotationType enum. Enumeration of annotation types."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/annotationtype/"

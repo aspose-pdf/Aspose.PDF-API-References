@@ -2,8 +2,8 @@
 title: "LocalHyperlink.TargetPageNumber"
 linktitle: "TargetPageNumber"
 articleTitle: "TargetPageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the target page number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LocalHyperlink property. Gets or sets the target page number."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/localhyperlink/targetpagenumber/"

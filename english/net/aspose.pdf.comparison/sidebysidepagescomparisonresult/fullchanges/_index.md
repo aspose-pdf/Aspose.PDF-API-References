@@ -2,8 +2,8 @@
 title: "SideBySidePagesComparisonResult.FullChanges"
 linktitle: "FullChanges"
 articleTitle: "FullChanges"
-second_title: "Aspose.PDF for .NET"
-description: "Get a complete list of changes of the pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySidePagesComparisonResult property. Get a complete list of changes of the pages."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/fullchanges/"

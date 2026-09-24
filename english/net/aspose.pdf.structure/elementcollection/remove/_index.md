@@ -2,8 +2,8 @@
 title: "ElementCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Remove item from collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ElementCollection method. Remove item from collection."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.structure/elementcollection/remove/"

@@ -2,8 +2,8 @@
 title: "Stamp.getScaleMatrix"
 linktitle: "getScaleMatrix"
 articleTitle: "getScaleMatrix"
-second_title: "Aspose.PDF for .NET"
-description: "Returns scaling matrix of the stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Returns scaling matrix of the stamp."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/stamp/getscalematrix/"

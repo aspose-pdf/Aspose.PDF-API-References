@@ -2,8 +2,8 @@
 title: "Page.MediaBox"
 linktitle: "MediaBox"
 articleTitle: "MediaBox"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets media box of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets media box of the page."
 type: docs
 weight: 570
 url: "/net/aspose.pdf/page/mediabox/"

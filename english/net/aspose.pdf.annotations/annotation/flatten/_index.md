@@ -2,8 +2,8 @@
 title: "Annotation.Flatten"
 linktitle: "Flatten"
 articleTitle: "Flatten"
-second_title: "Aspose.PDF for .NET"
-description: "Places annotation contents directly on the page, annotation object will be removed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation method. Places annotation contents directly on the page, annotation object will be removed."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/annotation/flatten/"

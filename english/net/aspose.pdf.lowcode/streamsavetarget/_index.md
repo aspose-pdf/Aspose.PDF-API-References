@@ -2,8 +2,8 @@
 title: "StreamSaveTarget Class"
 linktitle: "StreamSaveTarget"
 articleTitle: "StreamSaveTarget"
-second_title: "Aspose.PDF for .NET"
-description: "Represents stream save target for a plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.StreamSaveTarget class. Represents stream save target for a plugin."
 type: docs
 weight: 900
 url: "/net/aspose.pdf.lowcode/streamsavetarget/"

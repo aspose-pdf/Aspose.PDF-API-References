@@ -2,8 +2,8 @@
 title: "Point.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Return string represention current point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point method. Return string represention current point."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/point/tostring/"

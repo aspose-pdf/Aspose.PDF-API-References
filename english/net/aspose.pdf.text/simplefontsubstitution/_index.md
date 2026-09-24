@@ -2,8 +2,8 @@
 title: "SimpleFontSubstitution Class"
 linktitle: "SimpleFontSubstitution"
 articleTitle: "SimpleFontSubstitution"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for simple font substitution strategy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.SimpleFontSubstitution class. Represents a class for simple font substitution strategy."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.text/simplefontsubstitution/"

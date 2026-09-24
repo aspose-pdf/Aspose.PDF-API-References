@@ -2,8 +2,8 @@
 title: "StrikeOutAnnotation Class"
 linktitle: "StrikeOutAnnotation"
 articleTitle: "StrikeOutAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a strikeout annotation that appears as a strikeout in the text of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.StrikeOutAnnotation class. Represents a strikeout annotation that appears as a strikeout in the text of the document."
 type: docs
 weight: 1260
 url: "/net/aspose.pdf.annotations/strikeoutannotation/"

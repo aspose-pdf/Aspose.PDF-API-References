@@ -2,8 +2,8 @@
 title: "TableOptions.AddTable"
 linktitle: "AddTable"
 articleTitle: "AddTable"
-second_title: "Aspose.PDF for .NET"
-description: "Adding table to document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableOptions method. Adding table to document."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/tableoptions/addtable/"

@@ -2,8 +2,8 @@
 title: "IBoundsCheckableItem Interface"
 linktitle: "IBoundsCheckableItem"
 articleTitle: "IBoundsCheckableItem"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IBoundsCheckableItem interface."
 type: docs
 weight: 1380
 url: "/net/aspose.pdf/iboundscheckableitem/"

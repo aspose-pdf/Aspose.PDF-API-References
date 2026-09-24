@@ -2,8 +2,8 @@
 title: "TableBuilder.AddTable"
 linktitle: "AddTable"
 articleTitle: "AddTable"
-second_title: "Aspose.PDF for .NET"
-description: "Add new table to document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableBuilder method. Add new table to document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/tablebuilder/addtable/"

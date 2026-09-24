@@ -2,8 +2,8 @@
 title: "PDF3DStream.PDF3DStream"
 linktitle: "PDF3DStream"
 articleTitle: "PDF3DStream"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PDF3DStream class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DStream constructor. Initializes a new instance of the PDF3DStream class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dstream/pdf3dstream/"

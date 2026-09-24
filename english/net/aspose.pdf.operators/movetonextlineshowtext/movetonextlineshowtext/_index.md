@@ -2,8 +2,8 @@
 title: "MoveToNextLineShowText.MoveToNextLineShowText"
 linktitle: "MoveToNextLineShowText"
 articleTitle: "MoveToNextLineShowText"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MoveToNextLineShowText class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MoveToNextLineShowText constructor. Initializes a new instance of the MoveToNextLineShowText class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/"

@@ -2,8 +2,8 @@
 title: "FileSpecification.CollectionItem"
 linktitle: "CollectionItem"
 articleTitle: "CollectionItem"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a collection item of the file specification."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets a collection item of the file specification."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/filespecification/collectionitem/"

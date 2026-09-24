@@ -2,8 +2,8 @@
 title: "GlyphPosition.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Position off the text in the operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GlyphPosition property. Position off the text in the operator."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/glyphposition/position/"

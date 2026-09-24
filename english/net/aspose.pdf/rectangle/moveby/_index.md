@@ -2,8 +2,8 @@
 title: "Rectangle.MoveBy"
 linktitle: "MoveBy"
 articleTitle: "MoveBy"
-second_title: "Aspose.PDF for .NET"
-description: "Shift rectangle by the specified deltas."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Shift rectangle by the specified deltas."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/rectangle/moveby/"

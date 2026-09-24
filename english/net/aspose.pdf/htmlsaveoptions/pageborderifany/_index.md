@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.PageBorderIfAny"
 linktitle: "PageBorderIfAny"
 articleTitle: "PageBorderIfAny"
-second_title: "Aspose.PDF for .NET"
-description: "This attribute represents set of settings used for drawing border (if any) in result HTML document around area that represent source PDF page. In essence it ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. This attribute represents set of settings used for drawing border (if any) in result HTML document around area that represent source P..."
 type: docs
 weight: 330
 url: "/net/aspose.pdf/htmlsaveoptions/pageborderifany/"

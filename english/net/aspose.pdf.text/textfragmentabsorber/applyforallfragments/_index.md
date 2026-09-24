@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber.ApplyForAllFragments"
 linktitle: "ApplyForAllFragments"
 articleTitle: "ApplyForAllFragments"
-second_title: "Aspose.PDF for .NET"
-description: "Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Oth..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber method. Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on t..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/"

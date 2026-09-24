@@ -2,8 +2,8 @@
 title: "PaperSizes.B5Envelope"
 linktitle: "B5Envelope"
 articleTitle: "B5Envelope"
-second_title: "Aspose.PDF for .NET"
-description: "B5 envelope (176 mm by 250 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. B5 envelope (176 mm by 250 mm)."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.printing/papersizes/b5envelope/"

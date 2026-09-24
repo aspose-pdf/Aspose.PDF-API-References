@@ -2,8 +2,8 @@
 title: "PageCollection.IndexOf"
 linktitle: "IndexOf"
 articleTitle: "IndexOf"
-second_title: "Aspose.PDF for .NET"
-description: "Returns index of the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Returns index of the specified page."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagecollection/indexof/"

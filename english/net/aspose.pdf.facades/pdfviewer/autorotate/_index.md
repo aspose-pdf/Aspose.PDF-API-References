@@ -2,8 +2,8 @@
 title: "PdfViewer.AutoRotate"
 linktitle: "AutoRotate"
 articleTitle: "AutoRotate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a bool value that indicates whether the file be printed with auto rotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets or sets a bool value that indicates whether the file be printed with auto rotation"
 type: docs
 weight: 510
 url: "/net/aspose.pdf.facades/pdfviewer/autorotate/"

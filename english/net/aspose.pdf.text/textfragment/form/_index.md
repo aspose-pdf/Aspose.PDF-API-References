@@ -2,8 +2,8 @@
 title: "TextFragment.Form"
 linktitle: "Form"
 articleTitle: "Form"
-second_title: "Aspose.PDF for .NET"
-description: "Gets form object that contains the TextFragment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets form object that contains the TextFragment"
 type: docs
 weight: 190
 url: "/net/aspose.pdf.text/textfragment/form/"

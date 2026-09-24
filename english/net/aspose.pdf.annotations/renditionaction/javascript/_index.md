@@ -2,8 +2,8 @@
 title: "RenditionAction.JavaScript"
 linktitle: "JavaScript"
 articleTitle: "JavaScript"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets JavaScript code associated with the action."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenditionAction property. Gets or sets JavaScript code associated with the action."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/renditionaction/javascript/"

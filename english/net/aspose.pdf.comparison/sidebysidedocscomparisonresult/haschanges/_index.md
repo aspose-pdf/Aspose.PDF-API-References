@@ -2,8 +2,8 @@
 title: "SideBySideDocsComparisonResult.HasChanges"
 linktitle: "HasChanges"
 articleTitle: "HasChanges"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the value indicates whether there are any changes between the compared documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySideDocsComparisonResult property. Gets the value indicates whether there are any changes between the compared documents."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/sidebysidedocscomparisonresult/haschanges/"

@@ -2,8 +2,8 @@
 title: "Page.GetPageRect"
 linktitle: "GetPageRect"
 articleTitle: "GetPageRect"
-second_title: "Aspose.PDF for .NET"
-description: "Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null)."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/page/getpagerect/"

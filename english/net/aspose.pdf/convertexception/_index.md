@@ -2,8 +2,8 @@
 title: "ConvertException Class"
 linktitle: "ConvertException"
 articleTitle: "ConvertException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents errors that occur during PDF_A conversion with helpers objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ConvertException class. Represents errors that occur during PDF_A conversion with helpers objects."
 type: docs
 weight: 460
 url: "/net/aspose.pdf/convertexception/"

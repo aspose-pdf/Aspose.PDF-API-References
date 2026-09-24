@@ -2,8 +2,8 @@
 title: "RtfLoadOptions Class"
 linktitle: "RtfLoadOptions"
 articleTitle: "RtfLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Load options for RTF format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.RtfLoadOptions class. Load options for RTF format."
 type: docs
 weight: 2740
 url: "/net/aspose.pdf/rtfloadoptions/"

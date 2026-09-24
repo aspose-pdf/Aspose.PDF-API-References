@@ -2,8 +2,8 @@
 title: "PaperSizes.Ledger"
 linktitle: "Ledger"
 articleTitle: "Ledger"
-second_title: "Aspose.PDF for .NET"
-description: "Ledger paper (17 in. by 11 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Ledger paper (17 in. by 11 in.)."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/papersizes/ledger/"

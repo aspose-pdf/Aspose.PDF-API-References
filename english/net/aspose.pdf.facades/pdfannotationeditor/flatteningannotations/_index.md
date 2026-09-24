@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.FlatteningAnnotations"
 linktitle: "FlatteningAnnotations"
 articleTitle: "FlatteningAnnotations"
-second_title: "Aspose.PDF for .NET"
-description: "Flattens all annotations in the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Flattens all annotations in the document."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/"

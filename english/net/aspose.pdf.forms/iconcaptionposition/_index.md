@@ -2,8 +2,8 @@
 title: "IconCaptionPosition Enum"
 linktitle: "IconCaptionPosition"
 articleTitle: "IconCaptionPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Describes position of icon."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.IconCaptionPosition enum. Describes position of icon."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.forms/iconcaptionposition/"

@@ -2,8 +2,8 @@
 title: "StructureRecognitionVisitor.StartDocument"
 linktitle: "StartDocument"
 articleTitle: "StartDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Called when the document traversal starts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureRecognitionVisitor method. Called when the document traversal starts."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/startdocument/"

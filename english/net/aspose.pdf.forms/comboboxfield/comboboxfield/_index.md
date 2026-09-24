@@ -2,8 +2,8 @@
 title: "ComboBoxField.ComboBoxField"
 linktitle: "ComboBoxField"
 articleTitle: "ComboBoxField"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ComboBoxField class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComboBoxField constructor. Initializes a new instance of the ComboBoxField class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/comboboxfield/comboboxfield/"

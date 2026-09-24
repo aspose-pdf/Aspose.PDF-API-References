@@ -2,8 +2,8 @@
 title: "TextFragmentState.CharacterSpacing"
 linktitle: "CharacterSpacing"
 articleTitle: "CharacterSpacing"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets character spacing of the text, represented by the object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets character spacing of the text, represented by the object."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textfragmentstate/characterspacing/"

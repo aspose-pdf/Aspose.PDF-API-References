@@ -2,8 +2,8 @@
 title: "ITextElement.StructureTextState"
 linktitle: "StructureTextState"
 articleTitle: "StructureTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets object for text structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITextElement property. Gets object for text structure element."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/"

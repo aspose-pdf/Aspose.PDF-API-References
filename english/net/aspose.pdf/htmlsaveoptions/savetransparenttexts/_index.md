@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.SaveTransparentTexts"
 linktitle: "SaveTransparentTexts"
 articleTitle: "SaveTransparentTexts"
-second_title: "Aspose.PDF for .NET"
-description: "Pdf can contain transparent texts that can be selected to clipboard (usually it happen when document contains images and OCRed texts extracted from it). This..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. Pdf can contain transparent texts that can be selected to clipboard (usually it happen when document contains images and OCRed texts e..."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/htmlsaveoptions/savetransparenttexts/"

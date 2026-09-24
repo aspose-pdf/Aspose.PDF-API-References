@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.AdditionalMarginWidthInPoints"
 linktitle: "AdditionalMarginWidthInPoints"
 articleTitle: "AdditionalMarginWidthInPoints"
-second_title: "Aspose.PDF for .NET"
-description: "If attribute 'SplitOnPages=false', than whole HTML representing all input PDF pages wont be not split into different HTML pages, but will be put into one big..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. If attribute 'SplitOnPages=false', than whole HTML representing all input PDF pages wont be not split into different HTML pages, bu..."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/htmlsaveoptions/additionalmarginwidthinpoints/"

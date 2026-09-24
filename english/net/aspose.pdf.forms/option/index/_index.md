@@ -2,8 +2,8 @@
 title: "Option.Index"
 linktitle: "Index"
 articleTitle: "Index"
-second_title: "Aspose.PDF for .NET"
-description: "Gets index of the option."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Option property. Gets index of the option."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/option/index/"

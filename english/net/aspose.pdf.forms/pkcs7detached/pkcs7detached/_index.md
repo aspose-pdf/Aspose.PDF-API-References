@@ -2,8 +2,8 @@
 title: "PKCS7Detached.PKCS7Detached"
 linktitle: "PKCS7Detached"
 articleTitle: "PKCS7Detached"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PKCS7Detached class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PKCS7Detached constructor. Initializes a new instance of the PKCS7Detached class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/"

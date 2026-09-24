@@ -2,8 +2,8 @@
 title: "OutputIntents Class"
 linktitle: "OutputIntents"
 articleTitle: "OutputIntents"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the collection of ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.OutputIntents class. Represents the collection of ."
 type: docs
 weight: 2100
 url: "/net/aspose.pdf/outputintents/"

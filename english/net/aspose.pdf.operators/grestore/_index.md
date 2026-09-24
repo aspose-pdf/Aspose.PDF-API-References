@@ -2,8 +2,8 @@
 title: "GRestore Class"
 linktitle: "GRestore"
 articleTitle: "GRestore"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Q operator (restore graphics state)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.GRestore class. Class representing Q operator (restore graphics state)."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.operators/grestore/"

@@ -2,8 +2,8 @@
 title: "RunStepListQueryParameters.RunStepListQueryParameters"
 linktitle: "RunStepListQueryParameters"
 articleTitle: "RunStepListQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the RunStepListQueryParameters class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepListQueryParameters constructor. Initializes a new instance of the RunStepListQueryParameters class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/runsteplistqueryparameters/runsteplistqueryparameters/"

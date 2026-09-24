@@ -2,8 +2,8 @@
 title: "Image.GetMimeType"
 linktitle: "GetMimeType"
 articleTitle: "GetMimeType"
-second_title: "Aspose.PDF for .NET"
-description: "Returns mime type for image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image method. Returns mime type for image."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/image/getmimetype/"

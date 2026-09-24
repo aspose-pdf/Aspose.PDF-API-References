@@ -2,8 +2,8 @@
 title: "XYZExplicitDestination Class"
 linktitle: "XYZExplicitDestination"
 articleTitle: "XYZExplicitDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Represents explicit destination that displays the page with the coordinates (left, top) positioned at the upper-left corner of the window and the contents of..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.XYZExplicitDestination class. Represents explicit destination that displays the page with the coordinates (left, top) positioned at th..."
 type: docs
 weight: 1370
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/"

@@ -2,8 +2,8 @@
 title: "PdfGeneratorOptions Class"
 linktitle: "PdfGeneratorOptions"
 articleTitle: "PdfGeneratorOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for Generator plugins."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfGeneratorOptions class. Represents options for Generator plugins."
 type: docs
 weight: 670
 url: "/net/aspose.pdf.lowcode/pdfgeneratoroptions/"

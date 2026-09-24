@@ -2,8 +2,8 @@
 title: "SetColorStroke.C"
 linktitle: "C"
 articleTitle: "C"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the cyan component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorStroke property. Gets or sets the cyan component."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/setcolorstroke/c/"

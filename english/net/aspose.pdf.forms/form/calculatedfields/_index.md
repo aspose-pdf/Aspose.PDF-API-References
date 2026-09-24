@@ -2,8 +2,8 @@
 title: "Form.CalculatedFields"
 linktitle: "CalculatedFields"
 articleTitle: "CalculatedFields"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to set order of field calculation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Allows to set order of field calculation."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.forms/form/calculatedfields/"

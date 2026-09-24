@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.ReplaceAdjustmentAction"
 linktitle: "ReplaceAdjustmentAction"
 articleTitle: "ReplaceAdjustmentAction"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action that will be done after replace of text fragment to more short."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextReplaceOptions property. Gets or sets an action that will be done after replace of text fragment to more short."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/"

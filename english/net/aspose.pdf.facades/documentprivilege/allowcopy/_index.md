@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.AllowCopy"
 linktitle: "AllowCopy"
 articleTitle: "AllowCopy"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the permission which allow copy or not. true is allow and false is forbidden."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Sets the permission which allow copy or not. true is allow and false is forbidden."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/documentprivilege/allowcopy/"

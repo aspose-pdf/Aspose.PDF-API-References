@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
 linktitle: "PdfFormatConversionOptions"
 articleTitle: "PdfFormatConversionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfFormatConversionOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions constructor. Initializes a new instance of the PdfFormatConversionOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/"

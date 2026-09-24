@@ -2,8 +2,8 @@
 title: "AssistantResponse.Tools"
 linktitle: "Tools"
 articleTitle: "Tools"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of tool enabled on the assistant. There can be a maximum of 128 tools per assistant. Tools can be of types code_interpreter, file_search,..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantResponse property. Gets or sets a list of tool enabled on the assistant. There can be a maximum of 128 tools per assistant. Tools can be of types co..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/assistantresponse/tools/"

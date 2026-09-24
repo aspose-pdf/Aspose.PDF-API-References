@@ -2,8 +2,8 @@
 title: "ComHelper.OpenStream"
 linktitle: "OpenStream"
 articleTitle: "OpenStream"
-second_title: "Aspose.PDF for .NET"
-description: "Initialize and return new Document instance from the stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComHelper method. Initialize and return new Document instance from the stream."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/comhelper/openstream/"

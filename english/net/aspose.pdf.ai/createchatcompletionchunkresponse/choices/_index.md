@@ -2,8 +2,8 @@
 title: "CreateChatCompletionChunkResponse.Choices"
 linktitle: "Choices"
 articleTitle: "Choices"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of chat completion choices. Can contain more than one elements if n is greater than 1. Can also be empty for the last chunk if you set st..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateChatCompletionChunkResponse property. Gets or sets a list of chat completion choices. Can contain more than one elements if n is greater than 1. Can al..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/choices/"

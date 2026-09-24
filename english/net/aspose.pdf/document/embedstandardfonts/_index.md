@@ -2,8 +2,8 @@
 title: "Document.EmbedStandardFonts"
 linktitle: "EmbedStandardFonts"
 articleTitle: "EmbedStandardFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Property which declares that document must embed all standard Type1 fonts which has flag IsEmbedded set into true. All PDF fonts can be embedded into documen..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Property which declares that document must embed all standard Type1 fonts which has flag IsEmbedded set into true. All PDF fonts can be em..."
 type: docs
 weight: 1200
 url: "/net/aspose.pdf/document/embedstandardfonts/"

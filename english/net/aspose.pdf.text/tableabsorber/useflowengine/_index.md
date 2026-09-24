@@ -2,8 +2,8 @@
 title: "TableAbsorber.UseFlowEngine"
 linktitle: "UseFlowEngine"
 articleTitle: "UseFlowEngine"
-second_title: "Aspose.PDF for .NET"
-description: "* Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders. Doesn't support..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber property. * Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without ..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/tableabsorber/useflowengine/"

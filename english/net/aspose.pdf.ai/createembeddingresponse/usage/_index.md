@@ -2,8 +2,8 @@
 title: "CreateEmbeddingResponse.Usage"
 linktitle: "Usage"
 articleTitle: "Usage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the usage statistics for the embedding request."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateEmbeddingResponse property. Gets or sets the usage statistics for the embedding request."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/createembeddingresponse/usage/"

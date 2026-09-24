@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.GetState"
 linktitle: "GetState"
 articleTitle: "GetState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the state of the annotation. Note, the state stored in other text annotation which has state and statemodel keys."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation method. Gets the state of the annotation. Note, the state stored in other text annotation which has state and statemodel keys."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/markupannotation/getstate/"

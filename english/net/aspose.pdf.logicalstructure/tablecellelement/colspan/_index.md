@@ -2,8 +2,8 @@
 title: "TableCellElement.ColSpan"
 linktitle: "ColSpan"
 articleTitle: "ColSpan"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the column span."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellElement property. Gets or sets the column span."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/colspan/"

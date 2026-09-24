@@ -2,8 +2,8 @@
 title: "LineTo.X"
 linktitle: "X"
 articleTitle: "X"
-second_title: "Aspose.PDF for .NET"
-description: "X coordinate of line point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineTo property. X coordinate of line point."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/lineto/x/"

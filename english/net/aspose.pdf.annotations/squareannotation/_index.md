@@ -2,8 +2,8 @@
 title: "SquareAnnotation Class"
 linktitle: "SquareAnnotation"
 articleTitle: "SquareAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing square annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SquareAnnotation class. Class representing square annotation."
 type: docs
 weight: 1220
 url: "/net/aspose.pdf.annotations/squareannotation/"

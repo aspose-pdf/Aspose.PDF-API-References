@@ -2,8 +2,8 @@
 title: "BoxStyle Enum"
 linktitle: "BoxStyle"
 articleTitle: "BoxStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Represents styles for drawing check in check box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.BoxStyle enum. Represents styles for drawing check in check box."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/boxstyle/"

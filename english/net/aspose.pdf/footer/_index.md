@@ -2,8 +2,8 @@
 title: "Footer Class"
 linktitle: "Footer"
 articleTitle: "Footer"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the footer settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Footer class. Represents the footer settings."
 type: docs
 weight: 980
 url: "/net/aspose.pdf/footer/"

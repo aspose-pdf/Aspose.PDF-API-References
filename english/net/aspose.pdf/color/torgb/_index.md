@@ -2,8 +2,8 @@
 title: "Color.ToRgb"
 linktitle: "ToRgb"
 articleTitle: "ToRgb"
-second_title: "Aspose.PDF for .NET"
-description: "Converts color into rgb."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Converts color into rgb."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/color/torgb/"

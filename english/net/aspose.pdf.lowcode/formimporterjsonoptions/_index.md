@@ -2,8 +2,8 @@
 title: "FormImporterJsonOptions Class"
 linktitle: "FormImporterJsonOptions"
 articleTitle: "FormImporterJsonOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Options for importing form field values from JSON. This class directly implements the required plugin option interfaces and holds a collection of input sourc..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormImporterJsonOptions class. Options for importing form field values from JSON. This class directly implements the required plugin optio..."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/"

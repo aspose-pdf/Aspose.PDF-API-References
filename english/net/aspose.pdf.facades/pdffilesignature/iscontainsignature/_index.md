@@ -2,8 +2,8 @@
 title: "PdfFileSignature.IsContainSignature"
 linktitle: "IsContainSignature"
 articleTitle: "IsContainSignature"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if the pdf has a digital signature or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Checks if the pdf has a digital signature or not."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdffilesignature/iscontainsignature/"

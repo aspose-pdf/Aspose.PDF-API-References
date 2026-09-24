@@ -2,8 +2,8 @@
 title: "OpenAISummaryCopilotOptions.WithMaxCompletionTokens"
 linktitle: "WithMaxCompletionTokens"
 articleTitle: "WithMaxCompletionTokens"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the max completion tokens for the summary copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAISummaryCopilotOptions method. Sets the max completion tokens for the summary copilot options."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/"

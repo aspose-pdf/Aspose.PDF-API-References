@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionProperty.Category"
 linktitle: "Category"
 articleTitle: "Category"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the property category."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionProperty property. Gets the property category."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionproperty/category/"

@@ -2,8 +2,8 @@
 title: "IncompleteDetails Class"
 linktitle: "IncompleteDetails"
 articleTitle: "IncompleteDetails"
-second_title: "Aspose.PDF for .NET"
-description: "Details on why the run is incomplete. Will be null if the run is not incomplete."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IncompleteDetails class. Details on why the run is incomplete. Will be null if the run is not incomplete."
 type: docs
 weight: 700
 url: "/net/aspose.pdf.ai/incompletedetails/"

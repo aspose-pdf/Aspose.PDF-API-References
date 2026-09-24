@@ -2,8 +2,8 @@
 title: "LineAnnotation.AnnotationType"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets type of annotation."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/lineannotation/annotationtype/"

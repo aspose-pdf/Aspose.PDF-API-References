@@ -2,8 +2,8 @@
 title: "FormFieldFacade.BorderStyleUnderline"
 linktitle: "BorderStyleUnderline"
 articleTitle: "BorderStyleUnderline"
-second_title: "Aspose.PDF for .NET"
-description: "Defines an underlined border style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines an underlined border style."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstyleunderline/"

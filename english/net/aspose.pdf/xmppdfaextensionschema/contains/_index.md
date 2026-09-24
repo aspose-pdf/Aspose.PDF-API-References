@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether obj exists in schema."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema method. Determines whether obj exists in schema."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionschema/contains/"

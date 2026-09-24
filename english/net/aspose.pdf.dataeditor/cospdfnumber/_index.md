@@ -2,8 +2,8 @@
 title: "CosPdfNumber Class"
 linktitle: "CosPdfNumber"
 articleTitle: "CosPdfNumber"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents Pdf Number type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DataEditor.CosPdfNumber class. This class represents Pdf Number type."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/cospdfnumber/"

@@ -2,8 +2,8 @@
 title: "ProgressEventType Enum"
 linktitle: "ProgressEventType"
 articleTitle: "ProgressEventType"
-second_title: "Aspose.PDF for .NET"
-description: "This enum describes possible progress event types that can occure during conversion"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ProgressEventType enum. This enum describes possible progress event types that can occure during conversion"
 type: docs
 weight: 2610
 url: "/net/aspose.pdf/progresseventtype/"

@@ -2,8 +2,8 @@
 title: "StructureTypeCategory.IllustrationElements"
 linktitle: "IllustrationElements"
 articleTitle: "IllustrationElements"
-second_title: "Aspose.PDF for .NET"
-description: "Illustration elements are compact sequences of content, in page content order, that are considered to be unitary objects with respect to page layout. An illu..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeCategory field. Illustration elements are compact sequences of content, in page content order, that are considered to be unitary objects with re..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/"

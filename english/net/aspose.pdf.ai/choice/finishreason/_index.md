@@ -2,8 +2,8 @@
 title: "Choice.FinishReason"
 linktitle: "FinishReason"
 articleTitle: "FinishReason"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the reason the model stopped generating tokens. This will be stop if the model hit a natural stop point or a provided stop sequence, length if t..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Choice property. Gets or sets the reason the model stopped generating tokens. This will be stop if the model hit a natural stop point or a provided stop sequ..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/choice/finishreason/"

@@ -2,8 +2,8 @@
 title: "VectorStoreModifyRequest.ExpiresAfter"
 linktitle: "ExpiresAfter"
 articleTitle: "ExpiresAfter"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the expiration policy for a vector store."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreModifyRequest property. Gets or sets the expiration policy for a vector store."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/"

@@ -2,8 +2,8 @@
 title: "Hyperparameters.Hyperparameters"
 linktitle: "Hyperparameters"
 articleTitle: "Hyperparameters"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Hyperparameters class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Hyperparameters constructor. Initializes a new instance of the Hyperparameters class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/hyperparameters/hyperparameters/"

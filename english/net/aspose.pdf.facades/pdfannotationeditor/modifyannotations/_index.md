@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.ModifyAnnotations"
 linktitle: "ModifyAnnotations"
 articleTitle: "ModifyAnnotations"
-second_title: "Aspose.PDF for .NET"
-description: "Modifies the annotations of the specifed type on the specified page range. It supports to modify next annotation properties: Modified, Title, Contents, Color..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Modifies the annotations of the specifed type on the specified page range. It supports to modify next annotation properties: Modi..."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/"

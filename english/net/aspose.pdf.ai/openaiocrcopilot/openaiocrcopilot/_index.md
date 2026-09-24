@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilot.OpenAIOcrCopilot"
 linktitle: "OpenAIOcrCopilot"
 articleTitle: "OpenAIOcrCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OpenAIOcrCopilot class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilot constructor. Initializes a new instance of the OpenAIOcrCopilot class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaiocrcopilot/openaiocrcopilot/"

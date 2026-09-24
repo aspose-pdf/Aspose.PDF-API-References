@@ -2,8 +2,8 @@
 title: "Matrix.Reverse"
 linktitle: "Reverse"
 articleTitle: "Reverse"
-second_title: "Aspose.PDF for .NET"
-description: "Calculates reverse matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Calculates reverse matrix."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/matrix/reverse/"

@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilotOptions.TruncationStrategy"
 linktitle: "TruncationStrategy"
 articleTitle: "TruncationStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the truncation strategy for the thread."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions property. Gets or sets the truncation strategy for the thread."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/truncationstrategy/"

@@ -2,8 +2,8 @@
 title: "ThreadMessageListQueryParameters Class"
 linktitle: "ThreadMessageListQueryParameters"
 articleTitle: "ThreadMessageListQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Query parameters object for listing thread messages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ThreadMessageListQueryParameters class. Query parameters object for listing thread messages."
 type: docs
 weight: 1220
 url: "/net/aspose.pdf.ai/threadmessagelistqueryparameters/"

@@ -2,8 +2,8 @@
 title: "PdfDocument.Document"
 linktitle: "Document"
 articleTitle: "Document"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the the PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfDocument property. Gets or sets the the PDF document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/pdfdocument/document/"

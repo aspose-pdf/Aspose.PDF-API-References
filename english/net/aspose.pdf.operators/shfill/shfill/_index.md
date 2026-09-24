@@ -2,8 +2,8 @@
 title: "ShFill.ShFill"
 linktitle: "ShFill"
 articleTitle: "ShFill"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ShFill class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ShFill constructor. Initializes a new instance of the ShFill class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/shfill/shfill/"

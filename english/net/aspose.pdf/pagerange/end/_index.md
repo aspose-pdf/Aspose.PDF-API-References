@@ -2,8 +2,8 @@
 title: "PageRange.End"
 linktitle: "End"
 articleTitle: "End"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ending page number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageRange property. Gets or sets the ending page number."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagerange/end/"

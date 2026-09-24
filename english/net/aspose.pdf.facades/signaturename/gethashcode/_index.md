@@ -2,8 +2,8 @@
 title: "SignatureName.GetHashCode"
 linktitle: "GetHashCode"
 articleTitle: "GetHashCode"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a hash code for this instance based on the FullName property."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureName method. Returns a hash code for this instance based on the FullName property."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/signaturename/gethashcode/"

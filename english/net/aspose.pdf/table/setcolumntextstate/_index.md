@@ -2,8 +2,8 @@
 title: "Table.SetColumnTextState"
 linktitle: "SetColumnTextState"
 articleTitle: "SetColumnTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Set height."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table method. Set height."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/table/setcolumntextstate/"

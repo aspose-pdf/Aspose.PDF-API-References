@@ -2,8 +2,8 @@
 title: "ButtonField Class"
 linktitle: "ButtonField"
 articleTitle: "ButtonField"
-second_title: "Aspose.PDF for .NET"
-description: "Class represnets push button field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.ButtonField class. Class represnets push button field."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/buttonfield/"

@@ -2,8 +2,8 @@
 title: "AnnotationCollection.FindByName"
 linktitle: "FindByName"
 articleTitle: "FindByName"
-second_title: "Aspose.PDF for .NET"
-description: "Returns annotation by its name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Returns annotation by its name."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/annotationcollection/findbyname/"

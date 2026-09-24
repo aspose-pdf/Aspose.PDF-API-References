@@ -2,8 +2,8 @@
 title: "TextFragmentState.MeasureHeight"
 linktitle: "MeasureHeight"
 articleTitle: "MeasureHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Measures character height."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState method. Measures character height."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textfragmentstate/measureheight/"

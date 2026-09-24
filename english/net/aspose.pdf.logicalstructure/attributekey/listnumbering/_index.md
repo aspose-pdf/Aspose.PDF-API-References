@@ -2,8 +2,8 @@
 title: "AttributeKey.ListNumbering"
 linktitle: "ListNumbering"
 articleTitle: "ListNumbering"
-second_title: "Aspose.PDF for .NET"
-description: "ListNumbering attribute (List attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. ListNumbering attribute (List attribute owner)."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.logicalstructure/attributekey/listnumbering/"

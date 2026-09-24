@@ -2,8 +2,8 @@
 title: "TextElement.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the value of text structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextElement property. Gets the value of text structure element."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.structure/textelement/text/"

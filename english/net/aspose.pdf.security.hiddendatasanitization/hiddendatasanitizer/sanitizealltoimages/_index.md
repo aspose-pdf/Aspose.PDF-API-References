@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizer.SanitizeAllToImages"
 linktitle: "SanitizeAllToImages"
 articleTitle: "SanitizeAllToImages"
-second_title: "Aspose.PDF for .NET"
-description: "Replaces page content with images and removes other hidden data. Allows you to remove hidden text with a background color, as well as text hidden under image..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizer method. Replaces page content with images and removes other hidden data. Allows you to remove hidden text with a background color, as wel..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/sanitizealltoimages/"

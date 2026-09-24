@@ -2,8 +2,8 @@
 title: "PageNumber.TotalNum"
 linktitle: "TotalNum"
 articleTitle: "TotalNum"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the total number of pages component of the page number format. The formatted string will include a placeholder for the total number of pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageNumber property. Gets or sets the total number of pages component of the page number format. The formatted string will include a placeholder for the tota..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagenumber/totalnum/"

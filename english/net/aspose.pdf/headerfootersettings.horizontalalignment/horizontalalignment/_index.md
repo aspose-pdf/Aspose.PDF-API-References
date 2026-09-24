@@ -2,8 +2,8 @@
 title: "HeaderFooterSettings.HorizontalAlignment.HeaderFooterSettings.HorizontalAlignment"
 linktitle: "HeaderFooterSettings.HorizontalAlignment"
 articleTitle: "HeaderFooterSettings.HorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the HeaderFooterSettings.HorizontalAlignment class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HorizontalAlignment constructor. Initializes a new instance of the HeaderFooterSettings.HorizontalAlignment class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/headerfootersettings.horizontalalignment/horizontalalignment/"

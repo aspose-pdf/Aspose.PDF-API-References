@@ -2,8 +2,8 @@
 title: "FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions"
 linktitle: "FormFlattenSelectedFieldsOptions"
 articleTitle: "FormFlattenSelectedFieldsOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormFlattenSelectedFieldsOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFlattenSelectedFieldsOptions constructor. Initializes a new instance of the FormFlattenSelectedFieldsOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/"

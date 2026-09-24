@@ -2,8 +2,8 @@
 title: "Form.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Delete field from the form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Delete field from the form."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/form/delete/"

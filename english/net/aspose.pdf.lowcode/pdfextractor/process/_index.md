@@ -2,8 +2,8 @@
 title: "PdfExtractor.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Starts PdfExtractor processing with the specified parameters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Starts PdfExtractor processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfextractor/process/"

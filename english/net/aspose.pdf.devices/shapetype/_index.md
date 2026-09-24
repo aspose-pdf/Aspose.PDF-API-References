@@ -2,8 +2,8 @@
 title: "ShapeType Enum"
 linktitle: "ShapeType"
 articleTitle: "ShapeType"
-second_title: "Aspose.PDF for .NET"
-description: "This enum represents shape type for the extracted images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.ShapeType enum. This enum represents shape type for the extracted images."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.devices/shapetype/"

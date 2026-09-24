@@ -2,8 +2,8 @@
 title: "ITableElement.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rectangle that describes position of table element on the page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITableElement property. Gets rectangle that describes position of table element on the page"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/itableelement/rectangle/"

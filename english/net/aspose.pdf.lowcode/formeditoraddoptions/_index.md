@@ -2,8 +2,8 @@
 title: "FormEditorAddOptions Class"
 linktitle: "FormEditorAddOptions"
 articleTitle: "FormEditorAddOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for add Fields to document by plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormEditorAddOptions class. Represents options for add Fields to document by plugin."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.lowcode/formeditoraddoptions/"

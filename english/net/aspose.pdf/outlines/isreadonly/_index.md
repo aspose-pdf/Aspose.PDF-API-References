@@ -2,8 +2,8 @@
 title: "Outlines.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the collection is read-only."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Outlines property. Gets a value indicating whether the collection is read-only."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/outlines/isreadonly/"

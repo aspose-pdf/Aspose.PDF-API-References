@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilotOptions.WithTopP"
 linktitle: "WithTopP"
 articleTitle: "WithTopP"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the top P value for the chat copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Sets the top P value for the chat copilot options."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withtopp/"

@@ -2,8 +2,8 @@
 title: "LlamaCopilotOptionsBase.Temperature"
 linktitle: "Temperature"
 articleTitle: "Temperature"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the sampling temperature to use for the model."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaCopilotOptionsBase property. Gets or sets the sampling temperature to use for the model."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/temperature/"

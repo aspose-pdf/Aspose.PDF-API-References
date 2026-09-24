@@ -2,8 +2,8 @@
 title: "Page.TrimBox"
 linktitle: "TrimBox"
 articleTitle: "TrimBox"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets trim box of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets trim box of the page."
 type: docs
 weight: 530
 url: "/net/aspose.pdf/page/trimbox/"

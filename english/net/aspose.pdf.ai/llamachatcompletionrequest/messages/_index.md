@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionRequest.Messages"
 linktitle: "Messages"
 articleTitle: "Messages"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets a list of messages comprising the conversation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionRequest property. Sets or gets a list of messages comprising the conversation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/messages/"

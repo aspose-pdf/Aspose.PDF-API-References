@@ -2,8 +2,8 @@
 title: "AttributeName Class"
 linktitle: "AttributeName"
 articleTitle: "AttributeName"
-second_title: "Aspose.PDF for .NET"
-description: "Represents class for Attribute Name Values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.AttributeName class. Represents class for Attribute Name Values."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/attributename/"

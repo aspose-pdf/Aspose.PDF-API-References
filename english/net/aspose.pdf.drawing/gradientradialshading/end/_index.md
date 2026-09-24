@@ -2,8 +2,8 @@
 title: "GradientRadialShading.End"
 linktitle: "End"
 articleTitle: "End"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets ending circle center point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GradientRadialShading property. Gets or sets ending circle center point."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/gradientradialshading/end/"

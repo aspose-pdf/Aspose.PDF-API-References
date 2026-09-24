@@ -2,8 +2,8 @@
 title: "TextEditOptions.FontReplace Enum"
 linktitle: "TextEditOptions.FontReplace"
 articleTitle: "TextEditOptions.FontReplace"
-second_title: "Aspose.PDF for .NET"
-description: "Font replacement behavior."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextEditOptions.FontReplace enum. Font replacement behavior."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.text/texteditoptions.fontreplace/"

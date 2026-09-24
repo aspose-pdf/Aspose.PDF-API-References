@@ -2,8 +2,8 @@
 title: "OcrDetail Class"
 linktitle: "OcrDetail"
 articleTitle: "OcrDetail"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the OCR result for a single page of a document or a single image file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OcrDetail class. Represents the OCR result for a single page of a document or a single image file."
 type: docs
 weight: 860
 url: "/net/aspose.pdf.ai/ocrdetail/"

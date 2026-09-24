@@ -2,8 +2,8 @@
 title: "ImageDevice.GetBitmap"
 linktitle: "GetBitmap"
 articleTitle: "GetBitmap"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the page into ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDevice method. Converts the page into ."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.devices/imagedevice/getbitmap/"

@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilotOptions.WithModel"
 linktitle: "WithModel"
 articleTitle: "WithModel"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the model for the image description copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the model for the image description copilot options."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmodel/"

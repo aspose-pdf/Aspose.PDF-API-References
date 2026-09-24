@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionField Class"
 linktitle: "XmpPdfAExtensionField"
 articleTitle: "XmpPdfAExtensionField"
-second_title: "Aspose.PDF for .NET"
-description: "This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema, but defines a field in a structure instead of..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmpPdfAExtensionField class. This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema, but d..."
 type: docs
 weight: 3290
 url: "/net/aspose.pdf/xmppdfaextensionfield/"

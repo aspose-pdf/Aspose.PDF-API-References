@@ -2,8 +2,8 @@
 title: "CrashReportOptions Class"
 linktitle: "CrashReportOptions"
 articleTitle: "CrashReportOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Options for crash report generating."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CrashReportOptions class. Options for crash report generating."
 type: docs
 weight: 490
 url: "/net/aspose.pdf/crashreportoptions/"

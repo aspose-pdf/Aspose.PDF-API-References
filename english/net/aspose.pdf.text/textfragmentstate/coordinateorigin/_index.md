@@ -2,8 +2,8 @@
 title: "TextFragmentState.CoordinateOrigin"
 linktitle: "CoordinateOrigin"
 articleTitle: "CoordinateOrigin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is Ba..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest poin..."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.text/textfragmentstate/coordinateorigin/"

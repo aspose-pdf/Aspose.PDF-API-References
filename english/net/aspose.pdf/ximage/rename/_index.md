@@ -2,8 +2,8 @@
 title: "XImage.Rename"
 linktitle: "Rename"
 articleTitle: "Rename"
-second_title: "Aspose.PDF for .NET"
-description: "Renames image and replaces all references to the image with the new name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Renames image and replaces all references to the image with the new name"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ximage/rename/"

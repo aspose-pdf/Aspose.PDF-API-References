@@ -2,8 +2,8 @@
 title: "CharInfoCollection Class"
 linktitle: "CharInfoCollection"
 articleTitle: "CharInfoCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents CharInfo objects collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.CharInfoCollection class. Represents CharInfo objects collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/charinfocollection/"

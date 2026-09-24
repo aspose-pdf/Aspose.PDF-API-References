@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionValueType.Type"
 linktitle: "Type"
 articleTitle: "Type"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the value type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionValueType property. Gets the value type."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/type/"

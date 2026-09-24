@@ -2,8 +2,8 @@
 title: "Rectangle.Left"
 linktitle: "Left"
 articleTitle: "Left"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the left position of the rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. Gets or sets a float value that indicates the left position of the rectangle."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/rectangle/left/"

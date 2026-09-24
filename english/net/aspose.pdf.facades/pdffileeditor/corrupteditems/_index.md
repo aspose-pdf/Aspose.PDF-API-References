@@ -2,8 +2,8 @@
 title: "PdfFileEditor.CorruptedItems"
 linktitle: "CorruptedItems"
 articleTitle: "CorruptedItems"
-second_title: "Aspose.PDF for .NET"
-description: "Array of encountered problems when concatenation was performed. For every corrupted document from passed to Concatenate() function new CorruptedItem entry is..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Array of encountered problems when concatenation was performed. For every corrupted document from passed to Concatenate() function ne..."
 type: docs
 weight: 1100
 url: "/net/aspose.pdf.facades/pdffileeditor/corrupteditems/"

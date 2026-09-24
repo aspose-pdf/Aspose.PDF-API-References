@@ -2,8 +2,8 @@
 title: "Field.PartialName"
 linktitle: "PartialName"
 articleTitle: "PartialName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets partial name of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Gets or sets partial name of the field."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.forms/field/partialname/"

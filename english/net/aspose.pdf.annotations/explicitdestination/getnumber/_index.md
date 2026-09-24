@@ -2,8 +2,8 @@
 title: "ExplicitDestination.GetNumber"
 linktitle: "GetNumber"
 articleTitle: "GetNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Gets double value by specified index of element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExplicitDestination method. Gets double value by specified index of element."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/explicitdestination/getnumber/"

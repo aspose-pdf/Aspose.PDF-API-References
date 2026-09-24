@@ -2,8 +2,8 @@
 title: "TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory"
 linktitle: "TeXFileSystemOutputDirectory"
 articleTitle: "TeXFileSystemOutputDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TeXFileSystemOutputDirectory class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXFileSystemOutputDirectory constructor. Initializes a new instance of the TeXFileSystemOutputDirectory class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/texfilesystemoutputdirectory/texfilesystemoutputdirectory/"

@@ -2,8 +2,8 @@
 title: "PaperSizes.A3Transverse"
 linktitle: "A3Transverse"
 articleTitle: "A3Transverse"
-second_title: "Aspose.PDF for .NET"
-description: "A3 transverse paper (297 mm by 420 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. A3 transverse paper (297 mm by 420 mm)."
 type: docs
 weight: 650
 url: "/net/aspose.pdf.printing/papersizes/a3transverse/"

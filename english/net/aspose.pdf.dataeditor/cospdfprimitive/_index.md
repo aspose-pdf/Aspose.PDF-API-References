@@ -2,8 +2,8 @@
 title: "CosPdfPrimitive Class"
 linktitle: "CosPdfPrimitive"
 articleTitle: "CosPdfPrimitive"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents base public type ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DataEditor.CosPdfPrimitive class. This class represents base public type ."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/cospdfprimitive/"

@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.ShadedVertices"
 linktitle: "ShadedVertices"
 articleTitle: "ShadedVertices"
-second_title: "Aspose.PDF for .NET"
-description: "The \"ShadedVertices\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"ShadedVertices\" render mode."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.annotations/pdf3drendermode/shadedvertices/"

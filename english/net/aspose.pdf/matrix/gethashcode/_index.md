@@ -2,8 +2,8 @@
 title: "Matrix.GetHashCode"
 linktitle: "GetHashCode"
 articleTitle: "GetHashCode"
-second_title: "Aspose.PDF for .NET"
-description: "Hash-code for object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Hash-code for object."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/matrix/gethashcode/"

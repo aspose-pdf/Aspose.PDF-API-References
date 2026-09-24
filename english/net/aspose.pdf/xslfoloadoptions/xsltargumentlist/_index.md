@@ -2,8 +2,8 @@
 title: "XslFoLoadOptions.XsltArgumentList"
 linktitle: "XsltArgumentList"
 articleTitle: "XsltArgumentList"
-second_title: "Aspose.PDF for .NET"
-description: "XsltArgumentList for inserting values into existing xls parameters XLS file has 'animal' parameter without value: XsltArgumentList args = new XsltArgumentLis..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XslFoLoadOptions property. XsltArgumentList for inserting values into existing xls parameters XLS file has 'animal' parameter without value: XsltArgumentList..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xslfoloadoptions/xsltargumentlist/"

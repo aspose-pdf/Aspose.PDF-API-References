@@ -2,8 +2,8 @@
 title: "LineAnnotation.ChangeAfterResize"
 linktitle: "ChangeAfterResize"
 articleTitle: "ChangeAfterResize"
-second_title: "Aspose.PDF for .NET"
-description: "Updates the Starting and Ending points, according to the matrix transform."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation method. Updates the Starting and Ending points, according to the matrix transform."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/lineannotation/changeafterresize/"

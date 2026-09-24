@@ -2,8 +2,8 @@
 title: "VectorStoreFileResponse Class"
 linktitle: "VectorStoreFileResponse"
 articleTitle: "VectorStoreFileResponse"
-second_title: "Aspose.PDF for .NET"
-description: "A vector store file response."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.VectorStoreFileResponse class. A vector store file response."
 type: docs
 weight: 1440
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/"

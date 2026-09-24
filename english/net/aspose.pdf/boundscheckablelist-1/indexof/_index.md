@@ -2,8 +2,8 @@
 title: "BoundsCheckableList<T>.IndexOf"
 linktitle: "IndexOf"
 articleTitle: "IndexOf"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList method."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/boundscheckablelist-1/indexof/"

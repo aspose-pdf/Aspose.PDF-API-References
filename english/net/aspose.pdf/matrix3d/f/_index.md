@@ -2,8 +2,8 @@
 title: "Matrix3D.F"
 linktitle: "F"
 articleTitle: "F"
-second_title: "Aspose.PDF for .NET"
-description: "F member of the transformation matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix3D property. F member of the transformation matrix."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/matrix3d/f/"

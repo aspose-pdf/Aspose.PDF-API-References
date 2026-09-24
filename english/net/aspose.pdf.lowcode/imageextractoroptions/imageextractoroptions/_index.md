@@ -2,8 +2,8 @@
 title: "ImageExtractorOptions.ImageExtractorOptions"
 linktitle: "ImageExtractorOptions"
 articleTitle: "ImageExtractorOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ImageExtractorOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageExtractorOptions constructor. Initializes a new instance of the ImageExtractorOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/imageextractoroptions/imageextractoroptions/"

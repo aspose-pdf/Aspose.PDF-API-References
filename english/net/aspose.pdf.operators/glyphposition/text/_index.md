@@ -2,8 +2,8 @@
 title: "GlyphPosition.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Text of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GlyphPosition property. Text of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/glyphposition/text/"

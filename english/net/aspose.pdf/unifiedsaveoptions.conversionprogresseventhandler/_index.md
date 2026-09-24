@@ -2,8 +2,8 @@
 title: "UnifiedSaveOptions.ConversionProgressEventHandler Delegate"
 linktitle: "UnifiedSaveOptions.ConversionProgressEventHandler"
 articleTitle: "UnifiedSaveOptions.ConversionProgressEventHandler"
-second_title: "Aspose.PDF for .NET"
-description: "Represents method that usually supplied by calling side and handles progress events that comes from converter. Usually such suplied customer's handler can be..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.UnifiedSaveOptions.ConversionProgressEventHandler delegate. Represents method that usually supplied by calling side and handles progress events th..."
 type: docs
 weight: 3100
 url: "/net/aspose.pdf/unifiedsaveoptions.conversionprogresseventhandler/"

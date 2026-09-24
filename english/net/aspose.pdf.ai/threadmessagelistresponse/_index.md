@@ -2,8 +2,8 @@
 title: "ThreadMessageListResponse Class"
 linktitle: "ThreadMessageListResponse"
 articleTitle: "ThreadMessageListResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a list response containing thread message data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ThreadMessageListResponse class. Represents a list response containing thread message data."
 type: docs
 weight: 1230
 url: "/net/aspose.pdf.ai/threadmessagelistresponse/"

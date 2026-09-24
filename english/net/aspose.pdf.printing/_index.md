@@ -2,7 +2,7 @@
 title: "Aspose.Pdf.Printing"
 linktitle: "Aspose.Pdf.Printing"
 articleTitle: "Aspose.Pdf.Printing"
-second_title: "Aspose.PDF for .NET"
+second_title: "Aspose.PDF for .NET API Reference"
 description: "The **Aspose.Pdf.Printing** namespace provides classes."
 type: docs
 weight: 10

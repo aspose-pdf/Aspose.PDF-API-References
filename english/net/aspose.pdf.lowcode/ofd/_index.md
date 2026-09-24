@@ -2,8 +2,8 @@
 title: "Ofd Class"
 linktitle: "Ofd"
 articleTitle: "Ofd"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Ofd class. Represents the plugin."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.lowcode/ofd/"

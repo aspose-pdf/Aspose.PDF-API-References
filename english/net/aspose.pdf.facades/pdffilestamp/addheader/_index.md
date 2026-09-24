@@ -2,8 +2,8 @@
 title: "PdfFileStamp.AddHeader"
 linktitle: "AddHeader"
 articleTitle: "AddHeader"
-second_title: "Aspose.PDF for .NET"
-description: "Adds header to the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Adds header to the page."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdffilestamp/addheader/"

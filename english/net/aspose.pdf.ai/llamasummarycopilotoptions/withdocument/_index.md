@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilotOptions.WithDocument"
 linktitle: "WithDocument"
 articleTitle: "WithDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a text document to the document collection for the summary copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Adds a text document to the document collection for the summary copilot options."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/"

@@ -2,8 +2,8 @@
 title: "Annotation.FullName"
 linktitle: "FullName"
 articleTitle: "FullName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets full qualified name of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets full qualified name of the annotation."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.annotations/annotation/fullname/"

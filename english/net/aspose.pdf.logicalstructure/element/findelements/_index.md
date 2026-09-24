@@ -2,8 +2,8 @@
 title: "Element.FindElements"
 linktitle: "FindElements"
 articleTitle: "FindElements"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/element/findelements/"

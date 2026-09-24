@@ -2,8 +2,8 @@
 title: "RotateOptions Class"
 linktitle: "RotateOptions"
 articleTitle: "RotateOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Rotate options for plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.RotateOptions class. Represents Rotate options for plugin."
 type: docs
 weight: 800
 url: "/net/aspose.pdf.lowcode/rotateoptions/"

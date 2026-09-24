@@ -2,8 +2,8 @@
 title: "ValidationResult.Status"
 linktitle: "Status"
 articleTitle: "Status"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the status of the validation process for a certificate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ValidationResult property. Gets the status of the validation process for a certificate."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/validationresult/status/"

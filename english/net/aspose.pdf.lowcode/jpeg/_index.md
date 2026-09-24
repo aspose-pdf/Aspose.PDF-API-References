@@ -2,8 +2,8 @@
 title: "Jpeg Class"
 linktitle: "Jpeg"
 articleTitle: "Jpeg"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Pdf to Jpeg plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Jpeg class. Represents Pdf to Jpeg plugin."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.lowcode/jpeg/"

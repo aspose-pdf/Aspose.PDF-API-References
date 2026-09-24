@@ -2,8 +2,8 @@
 title: "Document.DefaultNodesNumInSubtrees"
 linktitle: "DefaultNodesNumInSubtrees"
 articleTitle: "DefaultNodesNumInSubtrees"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document field."
 type: docs
 weight: 1640
 url: "/net/aspose.pdf/document/defaultnodesnuminsubtrees/"

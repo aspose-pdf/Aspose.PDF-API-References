@@ -2,8 +2,8 @@
 title: "RedactionAnnotation.BorderColor"
 linktitle: "BorderColor"
 articleTitle: "BorderColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets color of border which is drawn when redaction is not active."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RedactionAnnotation property. Gets or sets color of border which is drawn when redaction is not active."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/redactionannotation/bordercolor/"

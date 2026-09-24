@@ -2,8 +2,8 @@
 title: "HtmlFragment Class"
 linktitle: "HtmlFragment"
 articleTitle: "HtmlFragment"
-second_title: "Aspose.PDF for .NET"
-description: "Represents html fragment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlFragment class. Represents html fragment."
 type: docs
 weight: 1150
 url: "/net/aspose.pdf/htmlfragment/"

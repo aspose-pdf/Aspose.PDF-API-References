@@ -2,8 +2,8 @@
 title: "PdfExtractor.ExtractImage"
 linktitle: "ExtractImage"
 articleTitle: "ExtractImage"
-second_title: "Aspose.PDF for .NET"
-description: "Extract images from PDF file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Extract images from PDF file."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdfextractor/extractimage/"

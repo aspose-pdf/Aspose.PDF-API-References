@@ -2,8 +2,8 @@
 title: "Logprobs.Tokens"
 linktitle: "Tokens"
 articleTitle: "Tokens"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of message content tokens with log probability information."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Logprobs property. Gets or sets a list of message content tokens with log probability information."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/logprobs/tokens/"

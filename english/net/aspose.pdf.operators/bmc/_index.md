@@ -2,8 +2,8 @@
 title: "BMC Class"
 linktitle: "BMC"
 articleTitle: "BMC"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing BMC operator (Begin marked-content sequence)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.BMC class. Class representing BMC operator (Begin marked-content sequence)."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/bmc/"

@@ -2,8 +2,8 @@
 title: "PageDate.Year"
 linktitle: "Year"
 articleTitle: "Year"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the year component of the date. The format of the date will be updated based on this component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageDate property. Gets or sets the year component of the date. The format of the date will be updated based on this component."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagedate/year/"

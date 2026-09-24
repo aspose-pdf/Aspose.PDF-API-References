@@ -2,8 +2,8 @@
 title: "Measure.Measure"
 linktitle: "Measure"
 articleTitle: "Measure"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Measure class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure constructor. Initializes a new instance of the Measure class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/measure/measure/"

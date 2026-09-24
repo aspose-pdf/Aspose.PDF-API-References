@@ -2,8 +2,8 @@
 title: "Right.Right"
 linktitle: "Right"
 articleTitle: "Right"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Right class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Right constructor. Initializes a new instance of the Right class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/right/right/"

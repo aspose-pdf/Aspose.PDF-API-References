@@ -2,8 +2,8 @@
 title: "PageNumber Class"
 linktitle: "PageNumber"
 articleTitle: "PageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a page number format that includes an index, total number of pages, and a delimiter."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageNumber class. Represents a page number format that includes an index, total number of pages, and a delimiter."
 type: docs
 weight: 2270
 url: "/net/aspose.pdf/pagenumber/"

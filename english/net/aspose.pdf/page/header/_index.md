@@ -2,8 +2,8 @@
 title: "Page.Header"
 linktitle: "Header"
 articleTitle: "Header"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets page header."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets page header."
 type: docs
 weight: 380
 url: "/net/aspose.pdf/page/header/"

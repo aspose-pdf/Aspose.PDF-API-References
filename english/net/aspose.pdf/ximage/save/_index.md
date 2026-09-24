@@ -2,8 +2,8 @@
 title: "XImage.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves image data into stream as JPEG image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Saves image data into stream as JPEG image."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/ximage/save/"

@@ -2,8 +2,8 @@
 title: "ChatMessageResponse.Content"
 linktitle: "Content"
 articleTitle: "Content"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the contents of the message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChatMessageResponse property. Gets or sets the contents of the message."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/chatmessageresponse/content/"

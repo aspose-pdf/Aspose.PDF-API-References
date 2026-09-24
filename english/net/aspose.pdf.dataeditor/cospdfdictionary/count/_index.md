@@ -2,8 +2,8 @@
 title: "CosPdfDictionary.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the number of elements contained in the ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary property. Gets the number of elements contained in the ."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/count/"

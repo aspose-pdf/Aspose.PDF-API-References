@@ -2,8 +2,8 @@
 title: "Matrix.Translate"
 linktitle: "Translate"
 articleTitle: "Translate"
-second_title: "Aspose.PDF for .NET"
-description: "Translates a matrix by the specified amount in the x and y direction."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Translates a matrix by the specified amount in the x and y direction."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/matrix/translate/"

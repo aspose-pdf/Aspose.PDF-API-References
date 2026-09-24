@@ -2,8 +2,8 @@
 title: "PaperSourceExtensions.ToAsposePaperSource"
 linktitle: "ToAsposePaperSource"
 articleTitle: "ToAsposePaperSource"
-second_title: "Aspose.PDF for .NET"
-description: "Converts Windows-specific System.Drawing.Printing.PaperSource to ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSourceExtensions method. Converts Windows-specific System.Drawing.Printing.PaperSource to ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/papersourceextensions/toasposepapersource/"

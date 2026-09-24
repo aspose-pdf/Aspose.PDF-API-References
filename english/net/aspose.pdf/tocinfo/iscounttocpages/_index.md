@@ -2,8 +2,8 @@
 title: "TocInfo.IsCountTocPages"
 linktitle: "IsCountTocPages"
 articleTitle: "IsCountTocPages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets is count or passed toc pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocInfo property. Gets or sets is count or passed toc pages."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/tocinfo/iscounttocpages/"

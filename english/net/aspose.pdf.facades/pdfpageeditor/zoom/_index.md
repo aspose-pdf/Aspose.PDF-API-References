@@ -2,8 +2,8 @@
 title: "PdfPageEditor.Zoom"
 linktitle: "Zoom"
 articleTitle: "Zoom"
-second_title: "Aspose.PDF for .NET"
-description: "Get or sets zoom coefficient. Value 1.0 corresponds to 100%. Default value is 1.0. The following example demonstrates how to change zoom of the document page..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor property. Get or sets zoom coefficient. Value 1.0 corresponds to 100%. Default value is 1.0. The following example demonstrates how to change z..."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdfpageeditor/zoom/"

@@ -2,8 +2,8 @@
 title: "GraphicalPdfComparer Class"
 linktitle: "GraphicalPdfComparer"
 articleTitle: "GraphicalPdfComparer"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for graphically comparing PDF documents. Should be used to search for small changes, mainly of a graphical nature. To compare text content..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.GraphicalPdfComparer class. Represents a class for graphically comparing PDF documents. Should be used to search for small changes, mai..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/"

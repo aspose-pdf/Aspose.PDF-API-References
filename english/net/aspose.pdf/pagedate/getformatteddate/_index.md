@@ -2,8 +2,8 @@
 title: "PageDate.GetFormattedDate"
 linktitle: "GetFormattedDate"
 articleTitle: "GetFormattedDate"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the formatted date string based on the current date format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageDate method. Returns the formatted date string based on the current date format."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagedate/getformatteddate/"

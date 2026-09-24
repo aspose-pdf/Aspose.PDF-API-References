@@ -2,8 +2,8 @@
 title: "Document.HandleSignatureChange"
 linktitle: "HandleSignatureChange"
 articleTitle: "HandleSignatureChange"
-second_title: "Aspose.PDF for .NET"
-description: "Throw Exception if the document will save with changes and have signature"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Throw Exception if the document will save with changes and have signature"
 type: docs
 weight: 1480
 url: "/net/aspose.pdf/document/handlesignaturechange/"

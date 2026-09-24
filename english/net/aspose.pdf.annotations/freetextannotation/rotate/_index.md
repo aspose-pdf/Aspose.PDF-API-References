@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.Rotate"
 linktitle: "Rotate"
 articleTitle: "Rotate"
-second_title: "Aspose.PDF for .NET"
-description: "Angle of annotation rotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation property. Angle of annotation rotation."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/freetextannotation/rotate/"

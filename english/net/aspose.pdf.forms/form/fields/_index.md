@@ -2,8 +2,8 @@
 title: "Form.Fields"
 linktitle: "Fields"
 articleTitle: "Fields"
-second_title: "Aspose.PDF for .NET"
-description: "Gets list of all fields in lowest level of hierarhical form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets list of all fields in lowest level of hierarhical form."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.forms/form/fields/"

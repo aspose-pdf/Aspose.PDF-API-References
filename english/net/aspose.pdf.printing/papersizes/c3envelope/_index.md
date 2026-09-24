@@ -2,8 +2,8 @@
 title: "PaperSizes.C3Envelope"
 linktitle: "C3Envelope"
 articleTitle: "C3Envelope"
-second_title: "Aspose.PDF for .NET"
-description: "C3 envelope (324 mm by 458 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. C3 envelope (324 mm by 458 mm)."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.printing/papersizes/c3envelope/"

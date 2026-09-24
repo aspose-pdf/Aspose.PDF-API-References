@@ -2,8 +2,8 @@
 title: "AttributeName.Checked_off"
 linktitle: "Checked_off"
 articleTitle: "Checked_off"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute checked: Off - The state of a radio button or check box field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute checked: Off - The state of a radio button or check box field."
 type: docs
 weight: 660
 url: "/net/aspose.pdf.logicalstructure/attributename/checked_off/"

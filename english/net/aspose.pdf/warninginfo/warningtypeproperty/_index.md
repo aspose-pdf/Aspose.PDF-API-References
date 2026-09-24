@@ -2,8 +2,8 @@
 title: "WarningInfo.WarningTypeProperty"
 linktitle: "WarningTypeProperty"
 articleTitle: "WarningTypeProperty"
-second_title: "Aspose.PDF for .NET"
-description: "Returns warning type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WarningInfo property. Returns warning type."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/warninginfo/warningtypeproperty/"

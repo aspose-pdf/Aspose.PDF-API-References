@@ -2,8 +2,8 @@
 title: "SubmitToolOutputs.SubmitToolOutputs"
 linktitle: "SubmitToolOutputs"
 articleTitle: "SubmitToolOutputs"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SubmitToolOutputs class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitToolOutputs constructor. Initializes a new instance of the SubmitToolOutputs class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/submittooloutputs/submittooloutputs/"

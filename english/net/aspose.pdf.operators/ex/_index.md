@@ -2,8 +2,8 @@
 title: "EX Class"
 linktitle: "EX"
 articleTitle: "EX"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing EX operator (End of compatibility section)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.EX class. Class representing EX operator (End of compatibility section)."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.operators/ex/"

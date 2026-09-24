@@ -2,8 +2,8 @@
 title: "JsonDiffOutputGenerator Class"
 linktitle: "JsonDiffOutputGenerator"
 articleTitle: "JsonDiffOutputGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for displaying the results of comparing PDF documents or pages in JSON format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.JsonDiffOutputGenerator class. Represents a class for displaying the results of comparing PDF documents or pages in JSON format."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.comparison/jsondiffoutputgenerator/"

@@ -2,8 +2,8 @@
 title: "StructureAttributes.GetAttribute"
 linktitle: "GetAttribute"
 articleTitle: "GetAttribute"
-second_title: "Aspose.PDF for .NET"
-description: "Gets StructureAttribute by AttributeKey."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttributes method. Gets StructureAttribute by AttributeKey."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureattributes/getattribute/"

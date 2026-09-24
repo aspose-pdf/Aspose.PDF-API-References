@@ -2,8 +2,8 @@
 title: "HorizontalAlignment Enum"
 linktitle: "HorizontalAlignment"
 articleTitle: "HorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Describes horizontal alignment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HorizontalAlignment enum. Describes horizontal alignment."
 type: docs
 weight: 1130
 url: "/net/aspose.pdf/horizontalalignment/"

@@ -2,8 +2,8 @@
 title: "OutlineCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Always throws NotImplementedException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineCollection method. Always throws NotImplementedException"
 type: docs
 weight: 80
 url: "/net/aspose.pdf/outlinecollection/remove/"

@@ -2,8 +2,8 @@
 title: "PaperSizes.B5JisRotated"
 linktitle: "B5JisRotated"
 articleTitle: "B5JisRotated"
-second_title: "Aspose.PDF for .NET"
-description: "JIS B5 rotated paper (257 mm by 182 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. JIS B5 rotated paper (257 mm by 182 mm)."
 type: docs
 weight: 780
 url: "/net/aspose.pdf.printing/papersizes/b5jisrotated/"

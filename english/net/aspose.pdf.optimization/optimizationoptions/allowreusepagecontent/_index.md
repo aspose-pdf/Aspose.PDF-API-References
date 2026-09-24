@@ -2,8 +2,8 @@
 title: "OptimizationOptions.AllowReusePageContent"
 linktitle: "AllowReusePageContent"
 articleTitle: "AllowReusePageContent"
-second_title: "Aspose.PDF for .NET"
-description: "If true page contents will be reused when document is optimized for equal pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizationOptions property. If true page contents will be reused when document is optimized for equal pages."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/"

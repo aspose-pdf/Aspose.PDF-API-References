@@ -2,8 +2,8 @@
 title: "TextFragment.Hyperlink"
 linktitle: "Hyperlink"
 articleTitle: "Hyperlink"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the fragment hyperlink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Sets the fragment hyperlink"
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/textfragment/hyperlink/"

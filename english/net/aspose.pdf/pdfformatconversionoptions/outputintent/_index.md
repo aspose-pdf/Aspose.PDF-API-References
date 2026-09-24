@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.OutputIntent"
 linktitle: "OutputIntent"
 articleTitle: "OutputIntent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the for the PDF format conversion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Gets or sets the for the PDF format conversion."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/pdfformatconversionoptions/outputintent/"

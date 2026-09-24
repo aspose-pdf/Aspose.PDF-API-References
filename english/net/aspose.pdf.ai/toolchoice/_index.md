@@ -2,8 +2,8 @@
 title: "ToolChoice Class"
 linktitle: "ToolChoice"
 articleTitle: "ToolChoice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the ToolChoice, which can be either a string value or an object value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ToolChoice class. Represents the ToolChoice, which can be either a string value or an object value."
 type: docs
 weight: 1300
 url: "/net/aspose.pdf.ai/toolchoice/"

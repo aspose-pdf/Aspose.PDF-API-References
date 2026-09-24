@@ -2,8 +2,8 @@
 title: "Image.FixWidth"
 linktitle: "FixWidth"
 articleTitle: "FixWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the image width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets the image width."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/image/fixwidth/"

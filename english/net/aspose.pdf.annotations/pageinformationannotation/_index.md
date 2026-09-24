@@ -2,8 +2,8 @@
 title: "PageInformationAnnotation Class"
 linktitle: "PageInformationAnnotation"
 articleTitle: "PageInformationAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a Page Information annotation in a PDF document. This annotation contains the file name, page number, and the date and time of the annotation crea..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PageInformationAnnotation class. Represents a Page Information annotation in a PDF document. This annotation contains the file name, p..."
 type: docs
 weight: 880
 url: "/net/aspose.pdf.annotations/pageinformationannotation/"

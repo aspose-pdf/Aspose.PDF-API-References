@@ -2,8 +2,8 @@
 title: "ScreenAnnotation.Action"
 linktitle: "Action"
 articleTitle: "Action"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to be performed when the annotation is activated."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ScreenAnnotation property. Gets or sets an action to be performed when the annotation is activated."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/screenannotation/action/"

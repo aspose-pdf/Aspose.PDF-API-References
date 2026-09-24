@@ -2,8 +2,8 @@
 title: "ITaggedContent.StructureTextState"
 linktitle: "StructureTextState"
 articleTitle: "StructureTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Get settings for whole document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent property. Get settings for whole document."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/"

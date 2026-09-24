@@ -2,8 +2,8 @@
 title: "PdfConverter.MergeImagesAsTiff"
 linktitle: "MergeImagesAsTiff"
 articleTitle: "MergeImagesAsTiff"
-second_title: "Aspose.PDF for .NET"
-description: "Merges list of tiff streams as one multiple frames tiff stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Merges list of tiff streams as one multiple frames tiff stream."
 type: docs
 weight: 540
 url: "/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/"

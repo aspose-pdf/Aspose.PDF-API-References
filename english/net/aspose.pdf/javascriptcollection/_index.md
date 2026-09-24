@@ -2,8 +2,8 @@
 title: "JavaScriptCollection Class"
 linktitle: "JavaScriptCollection"
 articleTitle: "JavaScriptCollection"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents collection of JavaScript."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.JavaScriptCollection class. This class represents collection of JavaScript."
 type: docs
 weight: 1670
 url: "/net/aspose.pdf/javascriptcollection/"

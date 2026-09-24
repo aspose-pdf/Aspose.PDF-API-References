@@ -2,8 +2,8 @@
 title: "Document.Pages"
 linktitle: "Pages"
 articleTitle: "Pages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets collection of document pages. Note that pages are numbered from 1 in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets collection of document pages. Note that pages are numbered from 1 in collection."
 type: docs
 weight: 1320
 url: "/net/aspose.pdf/document/pages/"

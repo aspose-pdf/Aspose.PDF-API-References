@@ -2,8 +2,8 @@
 title: "TiffOptions.Shape"
 linktitle: "Shape"
 articleTitle: "Shape"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the type of the shape."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffOptions property. Gets or sets the type of the shape."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.lowcode/tiffoptions/shape/"

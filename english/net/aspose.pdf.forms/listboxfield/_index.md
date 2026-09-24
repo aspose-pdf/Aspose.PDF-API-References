@@ -2,8 +2,8 @@
 title: "ListBoxField Class"
 linktitle: "ListBoxField"
 articleTitle: "ListBoxField"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents ListBox field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.ListBoxField class. Class represents ListBox field."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.forms/listboxfield/"

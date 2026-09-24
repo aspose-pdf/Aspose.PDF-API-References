@@ -2,8 +2,8 @@
 title: "HtmlFragment.IsBreakWords"
 linktitle: "IsBreakWords"
 articleTitle: "IsBreakWords"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets words break"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlFragment property. Gets or sets words break"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/htmlfragment/isbreakwords/"

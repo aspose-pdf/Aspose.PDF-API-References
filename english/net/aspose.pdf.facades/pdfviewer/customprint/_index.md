@@ -2,8 +2,8 @@
 title: "PdfViewer.CustomPrint"
 linktitle: "CustomPrint"
 articleTitle: "CustomPrint"
-second_title: "Aspose.PDF for .NET"
-description: "Occurs before printing starts and allows to provide custom print handlers instead of the default one."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer event. Occurs before printing starts and allows to provide custom print handlers instead of the default one."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.facades/pdfviewer/customprint/"

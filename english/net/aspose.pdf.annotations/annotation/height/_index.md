@@ -2,8 +2,8 @@
 title: "Annotation.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets height of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets height of the annotation."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.annotations/annotation/height/"

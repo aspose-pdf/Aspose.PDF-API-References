@@ -2,8 +2,8 @@
 title: "BitmapInfo.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the height of the bitmap."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BitmapInfo property. Gets the height of the bitmap."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/bitmapinfo/height/"

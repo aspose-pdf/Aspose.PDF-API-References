@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves the result PDF to file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization method. Saves the result PDF to file."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdffilesanitization/save/"

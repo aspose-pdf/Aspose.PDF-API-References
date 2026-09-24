@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.FixedLayout"
 linktitle: "FixedLayout"
 articleTitle: "FixedLayout"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether that HTML is created as fixed layout."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Gets or sets a value indicating whether that HTML is created as fixed layout."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/htmlsaveoptions/fixedlayout/"

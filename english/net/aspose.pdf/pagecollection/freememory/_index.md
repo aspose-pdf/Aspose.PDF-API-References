@@ -2,8 +2,8 @@
 title: "PageCollection.FreeMemory"
 linktitle: "FreeMemory"
 articleTitle: "FreeMemory"
-second_title: "Aspose.PDF for .NET"
-description: "Clears cached data"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Clears cached data"
 type: docs
 weight: 240
 url: "/net/aspose.pdf/pagecollection/freememory/"

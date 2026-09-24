@@ -2,8 +2,8 @@
 title: "TextStyle Class"
 linktitle: "TextStyle"
 articleTitle: "TextStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a text style class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.TextStyle class. Represents a text style class."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.comparison/textstyle/"

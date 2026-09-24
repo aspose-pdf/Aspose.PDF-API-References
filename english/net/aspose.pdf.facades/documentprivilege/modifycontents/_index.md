@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.ModifyContents"
 linktitle: "ModifyContents"
 articleTitle: "ModifyContents"
-second_title: "Aspose.PDF for .NET"
-description: "Allows modifying file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Allows modifying file."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/documentprivilege/modifycontents/"

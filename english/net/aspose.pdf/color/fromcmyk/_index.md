@@ -2,8 +2,8 @@
 title: "Color.FromCmyk"
 linktitle: "FromCmyk"
 articleTitle: "FromCmyk"
-second_title: "Aspose.PDF for .NET"
-description: "Gets valid pdf Color object from CMYK color components."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Gets valid pdf Color object from CMYK color components."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/color/fromcmyk/"

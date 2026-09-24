@@ -2,8 +2,8 @@
 title: "CustomFontSubstitutionBase.OriginalFontSpecification Class"
 linktitle: "CustomFontSubstitutionBase.OriginalFontSpecification"
 articleTitle: "CustomFontSubstitutionBase.OriginalFontSpecification"
-second_title: "Aspose.PDF for .NET"
-description: "Represents original font specification."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.CustomFontSubstitutionBase.OriginalFontSpecification class. Represents original font specification."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/"

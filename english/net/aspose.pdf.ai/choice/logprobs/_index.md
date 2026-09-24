@@ -2,8 +2,8 @@
 title: "Choice.Logprobs"
 linktitle: "Logprobs"
 articleTitle: "Logprobs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets log probability information for the choice."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Choice property. Gets or sets log probability information for the choice."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/choice/logprobs/"

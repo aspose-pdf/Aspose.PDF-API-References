@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.FontEncodingStrategy"
 linktitle: "FontEncodingStrategy"
 articleTitle: "FontEncodingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Defines encoding special rule to tune PDF decoding for current document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. Defines encoding special rule to tune PDF decoding for current document"
 type: docs
 weight: 480
 url: "/net/aspose.pdf/htmlsaveoptions/fontencodingstrategy/"

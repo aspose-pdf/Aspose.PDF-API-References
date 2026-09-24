@@ -2,8 +2,8 @@
 title: "ITaggedContent.CreateFigureElement"
 linktitle: "CreateFigureElement"
 articleTitle: "CreateFigureElement"
-second_title: "Aspose.PDF for .NET"
-description: "Creates ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.tagged/itaggedcontent/createfigureelement/"

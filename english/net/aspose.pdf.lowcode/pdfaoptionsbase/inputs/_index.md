@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase.Inputs"
 linktitle: "Inputs"
 articleTitle: "Inputs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of data sources"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets collection of data sources"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/inputs/"

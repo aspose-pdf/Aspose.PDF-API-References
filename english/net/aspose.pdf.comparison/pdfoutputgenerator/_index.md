@@ -2,8 +2,8 @@
 title: "PdfOutputGenerator Class"
 linktitle: "PdfOutputGenerator"
 articleTitle: "PdfOutputGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for generating PDF representation of texts differences."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.PdfOutputGenerator class. Represents a class for generating PDF representation of texts differences."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.comparison/pdfoutputgenerator/"

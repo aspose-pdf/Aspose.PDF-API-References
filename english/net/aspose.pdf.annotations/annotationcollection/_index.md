@@ -2,8 +2,8 @@
 title: "AnnotationCollection Class"
 linktitle: "AnnotationCollection"
 articleTitle: "AnnotationCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing annotation collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.AnnotationCollection class. Class representing annotation collection."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/annotationcollection/"

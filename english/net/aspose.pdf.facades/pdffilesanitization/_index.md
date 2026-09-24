@@ -2,8 +2,8 @@
 title: "PdfFileSanitization Class"
 linktitle: "PdfFileSanitization"
 articleTitle: "PdfFileSanitization"
-second_title: "Aspose.PDF for .NET"
-description: "Represents sanitization and recovery API. Use it if you can't create/open documents in any other way."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileSanitization class. Represents sanitization and recovery API. Use it if you can't create/open documents in any other way."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/pdffilesanitization/"

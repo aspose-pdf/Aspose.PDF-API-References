@@ -2,8 +2,8 @@
 title: "PaperSources.FormSource"
 linktitle: "FormSource"
 articleTitle: "FormSource"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the default bin of the printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents the default bin of the printer."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.printing/papersources/formsource/"

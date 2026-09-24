@@ -2,8 +2,8 @@
 title: "TextSearchOptions Class"
 linktitle: "TextSearchOptions"
 articleTitle: "TextSearchOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents text search options"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextSearchOptions class. Represents text search options"
 type: docs
 weight: 660
 url: "/net/aspose.pdf.text/textsearchoptions/"

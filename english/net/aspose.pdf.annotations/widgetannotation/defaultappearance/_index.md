@@ -2,8 +2,8 @@
 title: "WidgetAnnotation.DefaultAppearance"
 linktitle: "DefaultAppearance"
 articleTitle: "DefaultAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets default appearance of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation property. Gets or sets default appearance of the field."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/widgetannotation/defaultappearance/"

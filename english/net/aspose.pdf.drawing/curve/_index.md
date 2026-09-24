@@ -2,8 +2,8 @@
 title: "Curve Class"
 linktitle: "Curve"
 articleTitle: "Curve"
-second_title: "Aspose.PDF for .NET"
-description: "Represents bezier curve."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.Curve class. Represents bezier curve."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/curve/"

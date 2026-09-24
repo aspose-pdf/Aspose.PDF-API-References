@@ -2,8 +2,8 @@
 title: "PdfBookmarkEditor.ModifyBookmarks"
 linktitle: "ModifyBookmarks"
 articleTitle: "ModifyBookmarks"
-second_title: "Aspose.PDF for .NET"
-description: "Modifys bookmark title according to the specified bookmark title."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Modifys bookmark title according to the specified bookmark title."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/"

@@ -2,8 +2,8 @@
 title: "HeaderElementTextConflictException Class"
 linktitle: "HeaderElementTextConflictException"
 articleTitle: "HeaderElementTextConflictException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an exception that is thrown when the header element's text is set manually while it is already bound to a Table of Contents (TOC) title, causing a..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.HeaderElementTextConflictException class. Represents an exception that is thrown when the header element's text is set manually w..."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.logicalstructure/headerelementtextconflictexception/"

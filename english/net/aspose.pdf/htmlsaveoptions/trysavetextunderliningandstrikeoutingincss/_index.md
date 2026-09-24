@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss"
 linktitle: "TrySaveTextUnderliningAndStrikeoutingInCss"
 articleTitle: "TrySaveTextUnderliningAndStrikeoutingInCss"
-second_title: "Aspose.PDF for .NET"
-description: "PDF itself does not contain underlining markers for texts. It emulated with line situated under text. This option allows converter try guess that this or tha..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. PDF itself does not contain underlining markers for texts. It emulated with line situated under text. This option allows converter try..."
 type: docs
 weight: 500
 url: "/net/aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss/"

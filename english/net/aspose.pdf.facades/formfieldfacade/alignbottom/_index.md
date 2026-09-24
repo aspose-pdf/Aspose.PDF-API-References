@@ -2,8 +2,8 @@
 title: "FormFieldFacade.AlignBottom"
 linktitle: "AlignBottom"
 articleTitle: "AlignBottom"
-second_title: "Aspose.PDF for .NET"
-description: "Defines vertical aglignment as bottom style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines vertical aglignment as bottom style."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/formfieldfacade/alignbottom/"

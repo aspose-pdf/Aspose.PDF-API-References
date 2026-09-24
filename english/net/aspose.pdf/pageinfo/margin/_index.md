@@ -2,8 +2,8 @@
 title: "PageInfo.Margin"
 linktitle: "Margin"
 articleTitle: "Margin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets page margin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInfo property. Gets or sets page margin."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/pageinfo/margin/"

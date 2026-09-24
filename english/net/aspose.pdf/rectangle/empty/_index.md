@@ -2,8 +2,8 @@
 title: "Rectangle.Empty"
 linktitle: "Empty"
 articleTitle: "Empty"
-second_title: "Aspose.PDF for .NET"
-description: "Empty rectangle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. Empty rectangle"
 type: docs
 weight: 270
 url: "/net/aspose.pdf/rectangle/empty/"

@@ -2,8 +2,8 @@
 title: "ISummaryCopilot.SaveSummaryAsync"
 linktitle: "SaveSummaryAsync"
 articleTitle: "SaveSummaryAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously saves the summary to a PDF file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ISummaryCopilot method. Asynchronously saves the summary to a PDF file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/isummarycopilot/savesummaryasync/"

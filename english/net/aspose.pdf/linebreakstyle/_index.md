@@ -2,8 +2,8 @@
 title: "LineBreakStyle Enum"
 linktitle: "LineBreakStyle"
 articleTitle: "LineBreakStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the possible line break styles for a file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LineBreakStyle enum. Represents the possible line break styles for a file."
 type: docs
 weight: 1770
 url: "/net/aspose.pdf/linebreakstyle/"

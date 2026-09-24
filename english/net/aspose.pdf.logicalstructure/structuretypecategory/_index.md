@@ -2,8 +2,8 @@
 title: "StructureTypeCategory Class"
 linktitle: "StructureTypeCategory"
 articleTitle: "StructureTypeCategory"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Categories of Standard Structure Types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.StructureTypeCategory class. Represents Categories of Standard Structure Types."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/"

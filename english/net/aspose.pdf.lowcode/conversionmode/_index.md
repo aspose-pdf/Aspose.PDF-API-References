@@ -2,8 +2,8 @@
 title: "ConversionMode Enum"
 linktitle: "ConversionMode"
 articleTitle: "ConversionMode"
-second_title: "Aspose.PDF for .NET"
-description: "Defines conversion mode of the output document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.ConversionMode enum. Defines conversion mode of the output document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/conversionmode/"

@@ -2,8 +2,8 @@
 title: "ParagraphAbsorberOptions Class"
 linktitle: "ParagraphAbsorberOptions"
 articleTitle: "ParagraphAbsorberOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for the ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.ParagraphAbsorberOptions class. Represents options for the ."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.text/paragraphabsorberoptions/"

@@ -2,8 +2,8 @@
 title: "TabStops.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the class and add it to the TabStops collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStops method. Initializes a new instance of the class and add it to the TabStops collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/tabstops/add/"

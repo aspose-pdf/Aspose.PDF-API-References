@@ -2,8 +2,8 @@
 title: "Operator.Index"
 linktitle: "Index"
 articleTitle: "Index"
-second_title: "Aspose.PDF for .NET"
-description: "Operator index in page operators list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Operator property. Operator index in page operators list."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/operator/index/"

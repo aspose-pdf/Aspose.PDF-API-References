@@ -2,8 +2,8 @@
 title: "SetGray.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGray method. Returns string representation of operator."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setgray/tostring/"

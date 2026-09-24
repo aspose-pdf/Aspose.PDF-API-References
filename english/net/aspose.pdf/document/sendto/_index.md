@@ -2,8 +2,8 @@
 title: "Document.SendTo"
 linktitle: "SendTo"
 articleTitle: "SendTo"
-second_title: "Aspose.PDF for .NET"
-description: "Sends the whole document to the document device for processing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Sends the whole document to the document device for processing."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/document/sendto/"

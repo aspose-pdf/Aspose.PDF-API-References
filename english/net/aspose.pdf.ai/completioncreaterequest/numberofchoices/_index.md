@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.NumberOfChoices"
 linktitle: "NumberOfChoices"
 articleTitle: "NumberOfChoices"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets how many chat completion choices to generate for each input message. Note that you will be charged based on the number of generated tokens acros..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets how many chat completion choices to generate for each input message. Note that you will be charged based on th..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/completioncreaterequest/numberofchoices/"

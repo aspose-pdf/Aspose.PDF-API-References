@@ -2,8 +2,8 @@
 title: "HtmlFragment.HtmlLoadOptions"
 linktitle: "HtmlLoadOptions"
 articleTitle: "HtmlLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets HtmlLoadOptions that will be used for loading (and rendering) of HTML into this instance of class. Please use it when it's necessary use specifi..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlFragment property. Gets or sets HtmlLoadOptions that will be used for loading (and rendering) of HTML into this instance of class. Please use it when it'..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/htmlfragment/htmlloadoptions/"

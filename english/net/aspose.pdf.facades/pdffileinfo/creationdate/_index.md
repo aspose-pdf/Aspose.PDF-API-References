@@ -2,8 +2,8 @@
 title: "PdfFileInfo.CreationDate"
 linktitle: "CreationDate"
 articleTitle: "CreationDate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the CreationDate information of PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo property. Gets or sets the CreationDate information of PDF document."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdffileinfo/creationdate/"

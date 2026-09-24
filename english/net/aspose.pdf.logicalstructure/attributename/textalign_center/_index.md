@@ -2,8 +2,8 @@
 title: "AttributeName.TextAlign_Center"
 linktitle: "TextAlign_Center"
 articleTitle: "TextAlign_Center"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute TextAlign: Center - Centered between the start and end edges."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute TextAlign: Center - Centered between the start and end edges."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.logicalstructure/attributename/textalign_center/"

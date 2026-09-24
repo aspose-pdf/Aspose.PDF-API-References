@@ -2,8 +2,8 @@
 title: "WatermarkAnnotation.SetText"
 linktitle: "SetText"
 articleTitle: "SetText"
-second_title: "Aspose.PDF for .NET"
-description: "Set text of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WatermarkAnnotation method. Set text of the annotation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/watermarkannotation/settext/"

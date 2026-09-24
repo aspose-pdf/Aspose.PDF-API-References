@@ -2,8 +2,8 @@
 title: "RunResponse.Instructions"
 linktitle: "Instructions"
 articleTitle: "Instructions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the instructions that the assistant used for this run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the instructions that the assistant used for this run."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/runresponse/instructions/"

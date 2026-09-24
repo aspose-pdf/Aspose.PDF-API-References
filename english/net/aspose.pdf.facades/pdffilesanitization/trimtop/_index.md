@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.TrimTop"
 linktitle: "TrimTop"
 articleTitle: "TrimTop"
-second_title: "Aspose.PDF for .NET"
-description: "Removes data before %PDF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization method. Removes data before %PDF."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdffilesanitization/trimtop/"

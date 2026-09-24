@@ -2,8 +2,8 @@
 title: "FormImporterJsonOptions.AddOutput"
 linktitle: "AddOutput"
 articleTitle: "AddOutput"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a new output target."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormImporterJsonOptions method. Adds a new output target."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/addoutput/"

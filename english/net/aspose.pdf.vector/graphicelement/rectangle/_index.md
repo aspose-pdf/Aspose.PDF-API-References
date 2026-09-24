@@ -2,8 +2,8 @@
 title: "GraphicElement.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the bounding rectangle of the ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElement property. Gets the bounding rectangle of the ."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.vector/graphicelement/rectangle/"

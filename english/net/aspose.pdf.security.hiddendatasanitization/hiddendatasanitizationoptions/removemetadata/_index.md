@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions.RemoveMetadata"
 linktitle: "RemoveMetadata"
 articleTitle: "RemoveMetadata"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an option to remove metadata from the document. If set to true, metadata such as document properties and additional embedded metadata informatio..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizationOptions property. Gets or sets an option to remove metadata from the document. If set to true, metadata such as document properties and..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/removemetadata/"

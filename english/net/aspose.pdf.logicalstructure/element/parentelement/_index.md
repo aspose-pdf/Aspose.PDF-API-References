@@ -2,8 +2,8 @@
 title: "Element.ParentElement"
 linktitle: "ParentElement"
 articleTitle: "ParentElement"
-second_title: "Aspose.PDF for .NET"
-description: "Get parent element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element property. Get parent element."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/element/parentelement/"

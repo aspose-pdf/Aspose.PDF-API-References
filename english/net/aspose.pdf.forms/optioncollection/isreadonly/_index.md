@@ -2,8 +2,8 @@
 title: "OptionCollection.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating if collection is readonly."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection property. Gets a value indicating if collection is readonly."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/optioncollection/isreadonly/"

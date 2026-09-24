@@ -2,8 +2,8 @@
 title: "IOpenAIClient.WaitForRunToCompleteAsync"
 linktitle: "WaitForRunToCompleteAsync"
 articleTitle: "WaitForRunToCompleteAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Waits for a run to complete within a thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Waits for a run to complete within a thread asynchronously."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.ai/iopenaiclient/waitforruntocompleteasync/"

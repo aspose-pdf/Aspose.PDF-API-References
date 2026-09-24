@@ -2,8 +2,8 @@
 title: "ComboBoxField Class"
 linktitle: "ComboBoxField"
 articleTitle: "ComboBoxField"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Combobox field of the form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.ComboBoxField class. Class representing Combobox field of the form."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/comboboxfield/"

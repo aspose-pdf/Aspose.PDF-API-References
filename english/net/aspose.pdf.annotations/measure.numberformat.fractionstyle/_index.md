@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.FractionStyle Enum"
 linktitle: "Measure.NumberFormat.FractionStyle"
 articleTitle: "Measure.NumberFormat.FractionStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Value which indicates in which manner fraction values are displayed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.Measure.NumberFormat.FractionStyle enum. Value which indicates in which manner fraction values are displayed."
 type: docs
 weight: 670
 url: "/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/"

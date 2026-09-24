@@ -2,8 +2,8 @@
 title: "PdfToXlsOptions Class"
 linktitle: "PdfToXlsOptions"
 articleTitle: "PdfToXlsOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents PDF to XLSX converter options for plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfToXlsOptions class. Represents PDF to XLSX converter options for plugin."
 type: docs
 weight: 740
 url: "/net/aspose.pdf.lowcode/pdftoxlsoptions/"

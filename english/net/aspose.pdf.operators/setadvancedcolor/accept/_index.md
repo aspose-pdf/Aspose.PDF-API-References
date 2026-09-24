@@ -2,8 +2,8 @@
 title: "SetAdvancedColor.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor object to process operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetAdvancedColor method. Accepts visitor object to process operator."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/setadvancedcolor/accept/"

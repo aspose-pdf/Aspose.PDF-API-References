@@ -2,8 +2,8 @@
 title: "VectorStoreFileListQueryParameters.GetQueryParameters"
 linktitle: "GetQueryParameters"
 articleTitle: "GetQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the query parameters for listing vector store files."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileListQueryParameters method. Gets the query parameters for listing vector store files."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/getqueryparameters/"

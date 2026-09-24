@@ -2,8 +2,8 @@
 title: "ImagePlacementAbsorber Class"
 linktitle: "ImagePlacementAbsorber"
 articleTitle: "ImagePlacementAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an absorber object of image placement objects. Performs search of image usages and provides access to search results via collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImagePlacementAbsorber class. Represents an absorber object of image placement objects. Performs search of image usages and provides access to sea..."
 type: docs
 weight: 1540
 url: "/net/aspose.pdf/imageplacementabsorber/"

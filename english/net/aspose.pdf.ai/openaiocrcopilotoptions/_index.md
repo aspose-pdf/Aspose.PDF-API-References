@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilotOptions Class"
 linktitle: "OpenAIOcrCopilotOptions"
 articleTitle: "OpenAIOcrCopilotOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the options for configuring the OpenAIOcrCopilot."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIOcrCopilotOptions class. Represents the options for configuring the OpenAIOcrCopilot."
 type: docs
 weight: 990
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/"

@@ -2,8 +2,8 @@
 title: "PdfASymbolicFontEncodingStrategy.QueueItem.PdfASymbolicFontEncodingStrategy.QueueItem"
 linktitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
 articleTitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfASymbolicFontEncodingStrategy.QueueItem class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "QueueItem constructor. Initializes a new instance of the PdfASymbolicFontEncodingStrategy.QueueItem class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/"

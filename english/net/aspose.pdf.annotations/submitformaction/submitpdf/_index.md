@@ -2,8 +2,8 @@
 title: "SubmitFormAction.SubmitPdf"
 linktitle: "SubmitPdf"
 articleTitle: "SubmitPdf"
-second_title: "Aspose.PDF for .NET"
-description: "If set, the document shall be submitted as PDF, using the MIME content type application/pdf."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If set, the document shall be submitted as PDF, using the MIME content type application/pdf."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/submitformaction/submitpdf/"

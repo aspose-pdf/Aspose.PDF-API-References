@@ -2,8 +2,8 @@
 title: "TeXFileSystemInputDirectory.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Disposes the instance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXFileSystemInputDirectory method. Disposes the instance."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texfilesysteminputdirectory/dispose/"

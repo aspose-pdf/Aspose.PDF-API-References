@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.RemoveFontsStrategy Enum"
 linktitle: "PdfFormatConversionOptions.RemoveFontsStrategy"
 articleTitle: "PdfFormatConversionOptions.RemoveFontsStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Some documens have large size after converison into PDF/A format. To reduce file size for these documents it's necessary to define a strategy of fonts removi..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfFormatConversionOptions.RemoveFontsStrategy enum. Some documens have large size after converison into PDF/A format. To reduce file size for the..."
 type: docs
 weight: 2470
 url: "/net/aspose.pdf/pdfformatconversionoptions.removefontsstrategy/"

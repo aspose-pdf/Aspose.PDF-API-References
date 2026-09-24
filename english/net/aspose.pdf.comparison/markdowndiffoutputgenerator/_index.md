@@ -2,8 +2,8 @@
 title: "MarkdownDiffOutputGenerator Class"
 linktitle: "MarkdownDiffOutputGenerator"
 articleTitle: "MarkdownDiffOutputGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for generating markdown representation of texts differences. Because of the markdown syntax, it is not possible to show changes to whitesp..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.MarkdownDiffOutputGenerator class. Represents a class for generating markdown representation of texts differences. Because of the markd..."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.comparison/markdowndiffoutputgenerator/"

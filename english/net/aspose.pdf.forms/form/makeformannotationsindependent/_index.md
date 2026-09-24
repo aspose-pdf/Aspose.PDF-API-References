@@ -2,8 +2,8 @@
 title: "Form.MakeFormAnnotationsIndependent"
 linktitle: "MakeFormAnnotationsIndependent"
 articleTitle: "MakeFormAnnotationsIndependent"
-second_title: "Aspose.PDF for .NET"
-description: "Makes form fields annotations independent."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Makes form fields annotations independent."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.forms/form/makeformannotationsindependent/"

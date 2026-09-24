@@ -2,8 +2,8 @@
 title: "PdfViewer.DecodeAllPages"
 linktitle: "DecodeAllPages"
 articleTitle: "DecodeAllPages"
-second_title: "Aspose.PDF for .NET"
-description: "Get pages of current pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Get pages of current pdf file."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfviewer/decodeallpages/"

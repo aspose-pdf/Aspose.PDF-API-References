@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.VisibleCount"
 linktitle: "VisibleCount"
 articleTitle: "VisibleCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the total number of outline items at all levels in the document outline hierarchy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets the total number of outline items at all levels in the document outline hierarchy."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/outlineitemcollection/visiblecount/"

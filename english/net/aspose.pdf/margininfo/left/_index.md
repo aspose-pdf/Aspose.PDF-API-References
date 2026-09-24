@@ -2,8 +2,8 @@
 title: "MarginInfo.Left"
 linktitle: "Left"
 articleTitle: "Left"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the left margin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginInfo property. Gets or sets a float value that indicates the left margin."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/margininfo/left/"

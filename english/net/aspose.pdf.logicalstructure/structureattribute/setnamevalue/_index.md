@@ -2,8 +2,8 @@
 title: "StructureAttribute.SetNameValue"
 linktitle: "SetNameValue"
 articleTitle: "SetNameValue"
-second_title: "Aspose.PDF for .NET"
-description: "Sets Value Name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttribute method. Sets Value Name."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setnamevalue/"

@@ -2,8 +2,8 @@
 title: "ResponseFormat.ResponseFormat"
 linktitle: "ResponseFormat"
 articleTitle: "ResponseFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ResponseFormat class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResponseFormat constructor. Initializes a new instance of the ResponseFormat class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/responseformat/responseformat/"

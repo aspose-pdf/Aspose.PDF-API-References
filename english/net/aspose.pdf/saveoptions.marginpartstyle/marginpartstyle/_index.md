@@ -2,8 +2,8 @@
 title: "SaveOptions.MarginPartStyle.SaveOptions.MarginPartStyle"
 linktitle: "SaveOptions.MarginPartStyle"
 articleTitle: "SaveOptions.MarginPartStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SaveOptions.MarginPartStyle class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginPartStyle constructor. Initializes a new instance of the SaveOptions.MarginPartStyle class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/"

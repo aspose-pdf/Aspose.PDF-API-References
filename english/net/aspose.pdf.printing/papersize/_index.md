@@ -2,8 +2,8 @@
 title: "PaperSize Class"
 linktitle: "PaperSize"
 articleTitle: "PaperSize"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the size of a piece of paper."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PaperSize class. Specifies the size of a piece of paper."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/papersize/"

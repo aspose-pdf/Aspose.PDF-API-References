@@ -2,8 +2,8 @@
 title: "TextAbsorber.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Gets extracted text that the extracts on the PDF document or page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextAbsorber property. Gets extracted text that the extracts on the PDF document or page."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/textabsorber/text/"

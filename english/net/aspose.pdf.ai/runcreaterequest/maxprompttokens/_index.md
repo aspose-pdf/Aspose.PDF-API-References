@@ -2,8 +2,8 @@
 title: "RunCreateRequest.MaxPromptTokens"
 linktitle: "MaxPromptTokens"
 articleTitle: "MaxPromptTokens"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the maximum number of prompt tokens that may be used over the course of the run. The run will make a best effort to use only the number of promp..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunCreateRequest property. Gets or sets the maximum number of prompt tokens that may be used over the course of the run. The run will make a best effort to u..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.ai/runcreaterequest/maxprompttokens/"

@@ -2,8 +2,8 @@
 title: "ArtifactCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets count of artifacts in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection property. Gets count of artifacts in collection."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/artifactcollection/count/"

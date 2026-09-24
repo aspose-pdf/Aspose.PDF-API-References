@@ -2,8 +2,8 @@
 title: "XImageCollection.Replace"
 linktitle: "Replace"
 articleTitle: "Replace"
-second_title: "Aspose.PDF for .NET"
-description: "Replace image in collection with another image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Replace image in collection with another image."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/ximagecollection/replace/"

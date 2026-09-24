@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilot.LlamaSummaryCopilot"
 linktitle: "LlamaSummaryCopilot"
 articleTitle: "LlamaSummaryCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the LlamaSummaryCopilot class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilot constructor. Initializes a new instance of the LlamaSummaryCopilot class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/llamasummarycopilot/llamasummarycopilot/"

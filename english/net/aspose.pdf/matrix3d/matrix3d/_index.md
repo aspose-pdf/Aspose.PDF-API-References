@@ -2,8 +2,8 @@
 title: "Matrix3D.Matrix3D"
 linktitle: "Matrix3D"
 articleTitle: "Matrix3D"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Matrix3D class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix3D constructor. Initializes a new instance of the Matrix3D class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/matrix3d/matrix3d/"

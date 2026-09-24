@@ -2,8 +2,8 @@
 title: "JpegOptions.JpegOptions"
 linktitle: "JpegOptions"
 articleTitle: "JpegOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the JpegOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JpegOptions constructor. Initializes a new instance of the JpegOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/jpegoptions/jpegoptions/"

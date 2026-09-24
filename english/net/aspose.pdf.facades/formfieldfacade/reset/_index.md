@@ -2,8 +2,8 @@
 title: "FormFieldFacade.Reset"
 linktitle: "Reset"
 articleTitle: "Reset"
-second_title: "Aspose.PDF for .NET"
-description: "Reset all visual attribtues to empty value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade method. Reset all visual attribtues to empty value."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/formfieldfacade/reset/"

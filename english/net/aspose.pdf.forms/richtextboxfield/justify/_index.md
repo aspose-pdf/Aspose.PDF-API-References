@@ -2,8 +2,8 @@
 title: "RichTextBoxField.Justify"
 linktitle: "Justify"
 articleTitle: "Justify"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets justification of the rich text box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichTextBoxField property. Gets or sets justification of the rich text box."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/richtextboxfield/justify/"

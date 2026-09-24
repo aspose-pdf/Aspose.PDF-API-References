@@ -2,8 +2,8 @@
 title: "Metered.IsMeteredLicensed"
 linktitle: "IsMeteredLicensed"
 articleTitle: "IsMeteredLicensed"
-second_title: "Aspose.PDF for .NET"
-description: "Check whether metered is licensed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metered method. Check whether metered is licensed."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/metered/ismeteredlicensed/"

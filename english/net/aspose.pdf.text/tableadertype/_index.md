@@ -2,8 +2,8 @@
 title: "TabLeaderType Enum"
 linktitle: "TabLeaderType"
 articleTitle: "TabLeaderType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the tab leader types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TabLeaderType enum. Enumerates the tab leader types."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.text/tableadertype/"

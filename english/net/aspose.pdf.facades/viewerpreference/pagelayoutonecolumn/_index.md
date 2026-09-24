@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageLayoutOneColumn"
 linktitle: "PageLayoutOneColumn"
 articleTitle: "PageLayoutOneColumn"
-second_title: "Aspose.PDF for .NET"
-description: "Display the pages in one column."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Display the pages in one column."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/viewerpreference/pagelayoutonecolumn/"

@@ -2,8 +2,8 @@
 title: "CrashReportOptions.CrashReportDirectory"
 linktitle: "CrashReportDirectory"
 articleTitle: "CrashReportDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Output directory for crash report. By default is set to current directory."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CrashReportOptions property. Output directory for crash report. By default is set to current directory."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/crashreportoptions/crashreportdirectory/"

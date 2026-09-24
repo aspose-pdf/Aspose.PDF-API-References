@@ -2,8 +2,8 @@
 title: "PdfConverter.SaveAsTIFFClassF"
 linktitle: "SaveAsTIFFClassF"
 articleTitle: "SaveAsTIFFClassF"
-second_title: "Aspose.PDF for .NET"
-description: "Converts each pages of a pdf document to images and save images to a single TIFF ClassF file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Converts each pages of a pdf document to images and save images to a single TIFF ClassF file."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/"

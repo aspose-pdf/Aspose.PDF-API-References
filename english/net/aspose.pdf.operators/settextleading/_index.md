@@ -2,8 +2,8 @@
 title: "SetTextLeading Class"
 linktitle: "SetTextLeading"
 articleTitle: "SetTextLeading"
-second_title: "Aspose.PDF for .NET"
-description: "Class represenging TL operator (set text leading)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetTextLeading class. Class represenging TL operator (set text leading)."
 type: docs
 weight: 740
 url: "/net/aspose.pdf.operators/settextleading/"

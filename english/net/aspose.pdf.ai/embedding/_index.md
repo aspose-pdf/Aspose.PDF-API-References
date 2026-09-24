@@ -2,8 +2,8 @@
 title: "Embedding Class"
 linktitle: "Embedding"
 articleTitle: "Embedding"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an embedding vector returned by embedding endpoint."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Embedding class. Represents an embedding vector returned by embedding endpoint."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.ai/embedding/"

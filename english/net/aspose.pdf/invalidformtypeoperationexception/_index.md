@@ -2,8 +2,8 @@
 title: "InvalidFormTypeOperationException Class"
 linktitle: "InvalidFormTypeOperationException"
 articleTitle: "InvalidFormTypeOperationException"
-second_title: "Aspose.PDF for .NET"
-description: "The exception that is thrown when an operation with form type is not valid."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.InvalidFormTypeOperationException class. The exception that is thrown when an operation with form type is not valid."
 type: docs
 weight: 1630
 url: "/net/aspose.pdf/invalidformtypeoperationexception/"

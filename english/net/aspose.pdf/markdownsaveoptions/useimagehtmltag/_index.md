@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions.UseImageHtmlTag"
 linktitle: "UseImageHtmlTag"
 articleTitle: "UseImageHtmlTag"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets allowance to use of an img tag to insert images to the left and right of the text. In this case, in the markdown viewer, the text will wrap aro..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkdownSaveOptions property. Gets and sets allowance to use of an img tag to insert images to the left and right of the text. In this case, in the markdown ..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/markdownsaveoptions/useimagehtmltag/"

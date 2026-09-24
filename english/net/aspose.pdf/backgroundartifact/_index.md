@@ -2,8 +2,8 @@
 title: "BackgroundArtifact Class"
 linktitle: "BackgroundArtifact"
 articleTitle: "BackgroundArtifact"
-second_title: "Aspose.PDF for .NET"
-description: "Class descibes background artifact. This artifact allows to set background of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BackgroundArtifact class. Class descibes background artifact. This artifact allows to set background of the page."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/backgroundartifact/"

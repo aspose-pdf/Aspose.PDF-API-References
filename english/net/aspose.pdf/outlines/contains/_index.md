@@ -2,8 +2,8 @@
 title: "Outlines.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Always throws NotImplementedException."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Outlines method. Always throws NotImplementedException."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/outlines/contains/"

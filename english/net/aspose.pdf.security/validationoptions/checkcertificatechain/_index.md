@@ -2,8 +2,8 @@
 title: "ValidationOptions.CheckCertificateChain"
 linktitle: "CheckCertificateChain"
 articleTitle: "CheckCertificateChain"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether the certificate chain should be checked during the validation process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ValidationOptions property. Gets or sets a value indicating whether the certificate chain should be checked during the validation process."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.security/validationoptions/checkcertificatechain/"

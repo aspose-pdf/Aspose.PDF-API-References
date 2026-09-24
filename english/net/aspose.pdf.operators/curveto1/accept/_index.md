@@ -2,8 +2,8 @@
 title: "CurveTo1.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts operator selector."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CurveTo1 method. Accepts operator selector."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/curveto1/accept/"

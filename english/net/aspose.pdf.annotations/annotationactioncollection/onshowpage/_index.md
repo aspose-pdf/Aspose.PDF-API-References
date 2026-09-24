@@ -2,8 +2,8 @@
 title: "AnnotationActionCollection.OnShowPage"
 linktitle: "OnShowPage"
 articleTitle: "OnShowPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to be performed when the page containing the annotation becomes visible in the viewer application's user interface."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed when the page containing the annotation becomes visible in the viewer application..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/annotationactioncollection/onshowpage/"

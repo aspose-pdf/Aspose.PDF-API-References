@@ -2,8 +2,8 @@
 title: "DestinationCollection.GetExplicitDestination"
 linktitle: "GetExplicitDestination"
 articleTitle: "GetExplicitDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the explicit destination by the name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Returns the explicit destination by the name."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/destinationcollection/getexplicitdestination/"

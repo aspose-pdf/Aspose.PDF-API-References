@@ -2,8 +2,8 @@
 title: "Metadata.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if collection is synchronized."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Checks if collection is synchronized."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/metadata/issynchronized/"

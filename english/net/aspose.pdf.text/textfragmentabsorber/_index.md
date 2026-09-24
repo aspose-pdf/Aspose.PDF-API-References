@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber Class"
 linktitle: "TextFragmentAbsorber"
 articleTitle: "TextFragmentAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an absorber object of text fragments. Performs text search and provides access to search results via collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextFragmentAbsorber class. Represents an absorber object of text fragments. Performs text search and provides access to search results via c..."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.text/textfragmentabsorber/"

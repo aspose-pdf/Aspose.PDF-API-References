@@ -2,8 +2,8 @@
 title: "TextSearchOptions.IsRegularExpressionUsed"
 linktitle: "IsRegularExpressionUsed"
 articleTitle: "IsRegularExpressionUsed"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets indication that regular expression is used."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSearchOptions property. Gets or sets indication that regular expression is used."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textsearchoptions/isregularexpressionused/"

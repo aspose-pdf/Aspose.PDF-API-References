@@ -2,8 +2,8 @@
 title: "TiffDevice.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Gets image output height."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffDevice property. Gets image output height."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.devices/tiffdevice/height/"

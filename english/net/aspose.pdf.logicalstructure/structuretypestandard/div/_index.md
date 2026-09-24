@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Div"
 linktitle: "Div"
 articleTitle: "Div"
-second_title: "Aspose.PDF for .NET"
-description: "(Division) A generic block-level element or group of elements."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Division) A generic block-level element or group of elements."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/div/"

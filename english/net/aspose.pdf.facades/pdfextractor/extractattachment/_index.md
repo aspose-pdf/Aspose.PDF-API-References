@@ -2,8 +2,8 @@
 title: "PdfExtractor.ExtractAttachment"
 linktitle: "ExtractAttachment"
 articleTitle: "ExtractAttachment"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts attachments from a Pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Extracts attachments from a Pdf document."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdfextractor/extractattachment/"

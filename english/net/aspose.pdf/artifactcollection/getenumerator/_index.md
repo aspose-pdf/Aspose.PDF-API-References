@@ -2,8 +2,8 @@
 title: "ArtifactCollection.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets enumerator for the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection method. Gets enumerator for the collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/artifactcollection/getenumerator/"

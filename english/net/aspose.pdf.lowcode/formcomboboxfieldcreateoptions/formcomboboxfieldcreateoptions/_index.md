@@ -2,8 +2,8 @@
 title: "FormComboBoxFieldCreateOptions.FormComboBoxFieldCreateOptions"
 linktitle: "FormComboBoxFieldCreateOptions"
 articleTitle: "FormComboBoxFieldCreateOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormComboBoxFieldCreateOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormComboBoxFieldCreateOptions constructor. Initializes a new instance of the FormComboBoxFieldCreateOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/formcomboboxfieldcreateoptions/"

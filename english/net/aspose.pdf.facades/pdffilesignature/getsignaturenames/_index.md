@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetSignatureNames"
 linktitle: "GetSignatureNames"
 articleTitle: "GetSignatureNames"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the names of all not empty signatures."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the names of all not empty signatures."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdffilesignature/getsignaturenames/"

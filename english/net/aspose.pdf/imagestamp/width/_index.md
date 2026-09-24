@@ -2,8 +2,8 @@
 title: "ImageStamp.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets image width. Setting this property allos to scal image horizontally."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp property. Gets or sets image width. Setting this property allos to scal image horizontally."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/imagestamp/width/"

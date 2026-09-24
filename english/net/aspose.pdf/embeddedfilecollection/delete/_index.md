@@ -2,8 +2,8 @@
 title: "EmbeddedFileCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Delete embedded file by name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmbeddedFileCollection method. Delete embedded file by name."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/embeddedfilecollection/delete/"

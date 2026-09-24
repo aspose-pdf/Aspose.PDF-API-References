@@ -2,8 +2,8 @@
 title: "GraphicalPdfComparer.Threshold"
 linktitle: "Threshold"
 articleTitle: "Threshold"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the threshold value in percentage. This value allows you to ignore small changes if they are not significant to you. The default value is 0%."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer property. Gets and sets the threshold value in percentage. This value allows you to ignore small changes if they are not significant to ..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/threshold/"

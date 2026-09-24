@@ -2,8 +2,8 @@
 title: "StampAnnotation.Image"
 linktitle: "Image"
 articleTitle: "Image"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets image of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampAnnotation property. Gets or sets image of the annotation."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/stampannotation/image/"

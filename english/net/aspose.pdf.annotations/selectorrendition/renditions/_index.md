@@ -2,8 +2,8 @@
 title: "SelectorRendition.Renditions"
 linktitle: "Renditions"
 articleTitle: "Renditions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets array of renditions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SelectorRendition property. Gets array of renditions."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/selectorrendition/renditions/"

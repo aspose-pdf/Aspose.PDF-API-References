@@ -2,8 +2,8 @@
 title: "OpenAIClient.CreateCompletionAsync"
 linktitle: "CreateCompletionAsync"
 articleTitle: "CreateCompletionAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new completion asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Creates a new completion asynchronously."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.ai/openaiclient/createcompletionasync/"

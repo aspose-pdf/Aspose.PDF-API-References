@@ -2,8 +2,8 @@
 title: "PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation"
 linktitle: "PDF3DCuttingPlaneOrientation"
 articleTitle: "PDF3DCuttingPlaneOrientation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PDF3DCuttingPlaneOrientation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCuttingPlaneOrientation constructor. Initializes a new instance of the PDF3DCuttingPlaneOrientation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingplaneorientation/"

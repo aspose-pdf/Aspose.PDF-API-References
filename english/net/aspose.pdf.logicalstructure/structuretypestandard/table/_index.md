@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Table"
 linktitle: "Table"
 articleTitle: "Table"
-second_title: "Aspose.PDF for .NET"
-description: "(Table) A two-dimensional layout of rectangular data cells, possibly having a complex substructure. It contains either one or more table rows (structure type..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Table) A two-dimensional layout of rectangular data cells, possibly having a complex substructure. It contains either one or mo..."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/table/"

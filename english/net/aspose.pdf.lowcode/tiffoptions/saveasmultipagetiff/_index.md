@@ -2,8 +2,8 @@
 title: "TiffOptions.SaveAsMultiPageTiff"
 linktitle: "SaveAsMultiPageTiff"
 articleTitle: "SaveAsMultiPageTiff"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets flag that allows to save all pages in one multi-page tiff."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffOptions property. Gets and sets flag that allows to save all pages in one multi-page tiff."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/tiffoptions/saveasmultipagetiff/"

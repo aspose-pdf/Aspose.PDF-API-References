@@ -2,8 +2,8 @@
 title: "AttributeKey.Summary"
 linktitle: "Summary"
 articleTitle: "Summary"
-second_title: "Aspose.PDF for .NET"
-description: "Summary attribute (Table attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Summary attribute (Table attribute owner)."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.logicalstructure/attributekey/summary/"

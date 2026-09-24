@@ -2,8 +2,8 @@
 title: "PdfFileStamp.StartingNumber"
 linktitle: "StartingNumber"
 articleTitle: "StartingNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if StartingNumber is set to 100,..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp property. Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if Starti..."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/pdffilestamp/startingnumber/"

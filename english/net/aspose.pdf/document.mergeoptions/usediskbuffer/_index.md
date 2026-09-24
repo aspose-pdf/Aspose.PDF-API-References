@@ -2,8 +2,8 @@
 title: "Document.MergeOptions.UseDiskBuffer"
 linktitle: "UseDiskBuffer"
 articleTitle: "UseDiskBuffer"
-second_title: "Aspose.PDF for .NET"
-description: "If this option used then destination document will be saved on disk periodically and further concatenation will appllied to it as incremental updates. The de..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MergeOptions property. If this option used then destination document will be saved on disk periodically and further concatenation will appllied to it as incr..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/document.mergeoptions/usediskbuffer/"

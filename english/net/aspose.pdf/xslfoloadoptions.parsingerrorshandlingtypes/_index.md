@@ -2,8 +2,8 @@
 title: "XslFoLoadOptions.ParsingErrorsHandlingTypes Enum"
 linktitle: "XslFoLoadOptions.ParsingErrorsHandlingTypes"
 articleTitle: "XslFoLoadOptions.ParsingErrorsHandlingTypes"
-second_title: "Aspose.PDF for .NET"
-description: "Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handling of such formatting errors"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XslFoLoadOptions.ParsingErrorsHandlingTypes enum. Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of..."
 type: docs
 weight: 3390
 url: "/net/aspose.pdf/xslfoloadoptions.parsingerrorshandlingtypes/"

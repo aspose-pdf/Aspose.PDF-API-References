@@ -2,8 +2,8 @@
 title: "TextState.FontStyle"
 linktitle: "FontStyle"
 articleTitle: "FontStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Sets font style of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState property. Sets font style of the text."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.text/textstate/fontstyle/"

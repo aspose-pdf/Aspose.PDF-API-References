@@ -2,8 +2,8 @@
 title: "Cell.BackgroundColor"
 linktitle: "BackgroundColor"
 articleTitle: "BackgroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the background color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cell property. Gets or sets the background color."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/cell/backgroundcolor/"

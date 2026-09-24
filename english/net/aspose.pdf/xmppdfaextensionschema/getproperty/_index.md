@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.GetProperty"
 linktitle: "GetProperty"
 articleTitle: "GetProperty"
-second_title: "Aspose.PDF for .NET"
-description: "Returns PDF/A property by its name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema method. Returns PDF/A property by its name."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/xmppdfaextensionschema/getproperty/"

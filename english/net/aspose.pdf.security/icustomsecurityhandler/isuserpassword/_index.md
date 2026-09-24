@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.IsUserPassword"
 linktitle: "IsUserPassword"
 articleTitle: "IsUserPassword"
-second_title: "Aspose.PDF for .NET"
-description: "Check if the password belongs to the user (password for opening the document). The method is called after Initialize. The method call is used in the PDF API."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Check if the password belongs to the user (password for opening the document). The method is called after Initialize. The meth..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.security/icustomsecurityhandler/isuserpassword/"

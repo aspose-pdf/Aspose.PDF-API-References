@@ -2,8 +2,8 @@
 title: "PaperSizes.LetterPlus"
 linktitle: "LetterPlus"
 articleTitle: "LetterPlus"
-second_title: "Aspose.PDF for .NET"
-description: "Letter plus paper (8.5 in. by 12.69 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Letter plus paper (8.5 in. by 12.69 in.)."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.printing/papersizes/letterplus/"

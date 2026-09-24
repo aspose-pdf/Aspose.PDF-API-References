@@ -2,8 +2,8 @@
 title: "CompositingParameters.CompositingParameters"
 linktitle: "CompositingParameters"
 articleTitle: "CompositingParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CompositingParameters class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompositingParameters constructor. Initializes a new instance of the CompositingParameters class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/compositingparameters/compositingparameters/"

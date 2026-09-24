@@ -2,8 +2,8 @@
 title: "Field.MinFontSize"
 linktitle: "MinFontSize"
 articleTitle: "MinFontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Minimal font size which can be used for field contents. -1 to don't check size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Minimal font size which can be used for field contents. -1 to don't check size."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.forms/field/minfontsize/"

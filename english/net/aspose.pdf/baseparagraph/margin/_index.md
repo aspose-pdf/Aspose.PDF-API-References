@@ -2,8 +2,8 @@
 title: "BaseParagraph.Margin"
 linktitle: "Margin"
 articleTitle: "Margin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a outer margin for paragraph (for pdf generation)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseParagraph property. Gets or sets a outer margin for paragraph (for pdf generation)"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/baseparagraph/margin/"

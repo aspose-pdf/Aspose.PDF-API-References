@@ -2,8 +2,8 @@
 title: "Font.FontOptions"
 linktitle: "FontOptions"
 articleTitle: "FontOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Useful properties to tune Font behaviour"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Font property. Useful properties to tune Font behaviour"
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/font/fontoptions/"

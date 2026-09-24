@@ -2,8 +2,8 @@
 title: "PdfConverter.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Binds a Pdf file for converting."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Binds a Pdf file for converting."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdfconverter/bindpdf/"

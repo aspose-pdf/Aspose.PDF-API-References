@@ -2,8 +2,8 @@
 title: "Page.DeleteGraphics"
 linktitle: "DeleteGraphics"
 articleTitle: "DeleteGraphics"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes graphics from the page. Works faster than deleting elements one by one with method."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Deletes graphics from the page. Works faster than deleting elements one by one with method."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/page/deletegraphics/"

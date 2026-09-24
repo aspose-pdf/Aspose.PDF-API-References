@@ -2,8 +2,8 @@
 title: "Element.InsertChild"
 linktitle: "InsertChild"
 articleTitle: "InsertChild"
-second_title: "Aspose.PDF for .NET"
-description: "Insert to collection of children at specified index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element method. Insert to collection of children at specified index."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/element/insertchild/"

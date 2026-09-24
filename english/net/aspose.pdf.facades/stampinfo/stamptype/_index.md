@@ -2,8 +2,8 @@
 title: "StampInfo.StampType"
 linktitle: "StampType"
 articleTitle: "StampType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets stamp type (image / form)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampInfo property. Gets stamp type (image / form)."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/stampinfo/stamptype/"

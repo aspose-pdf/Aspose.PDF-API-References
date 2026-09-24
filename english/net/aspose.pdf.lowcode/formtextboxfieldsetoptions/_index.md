@@ -2,8 +2,8 @@
 title: "FormTextBoxFieldSetOptions Class"
 linktitle: "FormTextBoxFieldSetOptions"
 articleTitle: "FormTextBoxFieldSetOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for set properties in TextBoxField by plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormTextBoxFieldSetOptions class. Represents options for set properties in TextBoxField by plugin."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.lowcode/formtextboxfieldsetoptions/"

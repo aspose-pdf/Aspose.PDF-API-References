@@ -2,8 +2,8 @@
 title: "PdfFileMend.AddImage"
 linktitle: "AddImage"
 articleTitle: "AddImage"
-second_title: "Aspose.PDF for .NET"
-description: "Adds image to the specified page of PDF document at specified coordinates."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend method. Adds image to the specified page of PDF document at specified coordinates."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdffilemend/addimage/"

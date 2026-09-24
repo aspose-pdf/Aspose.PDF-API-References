@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.TOC"
 linktitle: "TOC"
 articleTitle: "TOC"
-second_title: "Aspose.PDF for .NET"
-description: "(Table of contents) A list made up of table of contents item entries (structure type TOCI) and/or other nested table of contents entries (TOC). A TOC entry t..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Table of contents) A list made up of table of contents item entries (structure type TOCI) and/or other nested table of contents..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/toc/"

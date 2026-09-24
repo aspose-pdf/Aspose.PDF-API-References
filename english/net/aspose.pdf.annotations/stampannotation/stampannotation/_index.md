@@ -2,8 +2,8 @@
 title: "StampAnnotation.StampAnnotation"
 linktitle: "StampAnnotation"
 articleTitle: "StampAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the StampAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampAnnotation constructor. Initializes a new instance of the StampAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/stampannotation/stampannotation/"

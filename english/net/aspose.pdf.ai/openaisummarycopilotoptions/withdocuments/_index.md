@@ -2,8 +2,8 @@
 title: "OpenAISummaryCopilotOptions.WithDocuments"
 linktitle: "WithDocuments"
 articleTitle: "WithDocuments"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the document collection for the summary copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAISummaryCopilotOptions method. Sets the document collection for the summary copilot options."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/"

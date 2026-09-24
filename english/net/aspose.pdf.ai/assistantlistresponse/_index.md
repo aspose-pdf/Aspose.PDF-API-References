@@ -2,8 +2,8 @@
 title: "AssistantListResponse Class"
 linktitle: "AssistantListResponse"
 articleTitle: "AssistantListResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the response containing a list of assistant responses."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.AssistantListResponse class. Represents the response containing a list of assistant responses."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/assistantlistresponse/"

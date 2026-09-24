@@ -2,8 +2,8 @@
 title: "WidgetAnnotation.OnActivated"
 linktitle: "OnActivated"
 articleTitle: "OnActivated"
-second_title: "Aspose.PDF for .NET"
-description: "An action which shall be performed when the annotation is activated."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation property. An action which shall be performed when the annotation is activated."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/widgetannotation/onactivated/"

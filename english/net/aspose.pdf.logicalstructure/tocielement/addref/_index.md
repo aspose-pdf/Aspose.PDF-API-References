@@ -2,8 +2,8 @@
 title: "TOCIElement.AddRef"
 linktitle: "AddRef"
 articleTitle: "AddRef"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a reference to the specified structure element within the Table of Contents Item (TOCI) element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TOCIElement method. Adds a reference to the specified structure element within the Table of Contents Item (TOCI) element."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/tocielement/addref/"

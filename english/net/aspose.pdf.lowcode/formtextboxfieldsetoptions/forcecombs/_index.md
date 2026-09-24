@@ -2,8 +2,8 @@
 title: "FormTextBoxFieldSetOptions.ForceCombs"
 linktitle: "ForceCombs"
 articleTitle: "ForceCombs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine property ForceCombs for modified field (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormTextBoxFieldSetOptions property. Gets/sets the value to determine property ForceCombs for modified field (if will be set)."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formtextboxfieldsetoptions/forcecombs/"

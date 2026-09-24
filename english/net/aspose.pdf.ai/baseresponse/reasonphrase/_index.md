@@ -2,8 +2,8 @@
 title: "BaseResponse.ReasonPhrase"
 linktitle: "ReasonPhrase"
 articleTitle: "ReasonPhrase"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the error reason phrase."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseResponse property. Gets the error reason phrase."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/baseresponse/reasonphrase/"

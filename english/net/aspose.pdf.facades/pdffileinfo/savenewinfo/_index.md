@@ -2,8 +2,8 @@
 title: "PdfFileInfo.SaveNewInfo"
 linktitle: "SaveNewInfo"
 articleTitle: "SaveNewInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Save updated PDF document into specified stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Save updated PDF document into specified stream."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdffileinfo/savenewinfo/"

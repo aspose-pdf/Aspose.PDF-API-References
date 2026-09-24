@@ -2,8 +2,8 @@
 title: "MarkupParagraph.ContinuationPageNumbers"
 linktitle: "ContinuationPageNumbers"
 articleTitle: "ContinuationPageNumbers"
-second_title: "Aspose.PDF for .NET"
-description: "List of page numbers on which the paragraph is continued. It will match with page where the paragraph started if it is continuing in the next column on the s..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupParagraph property. List of page numbers on which the paragraph is continued. It will match with page where the paragraph started if it is continuing i..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/markupparagraph/continuationpagenumbers/"

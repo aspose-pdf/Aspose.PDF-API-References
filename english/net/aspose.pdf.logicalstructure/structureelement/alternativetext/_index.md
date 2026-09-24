@@ -2,8 +2,8 @@
 title: "StructureElement.AlternativeText"
 linktitle: "AlternativeText"
 articleTitle: "AlternativeText"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the alternative text for structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets or sets the alternative text for structure element."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.logicalstructure/structureelement/alternativetext/"

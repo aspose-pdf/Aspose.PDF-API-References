@@ -2,8 +2,8 @@
 title: "PopupAnnotation Class"
 linktitle: "PopupAnnotation"
 articleTitle: "PopupAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the pop-up annotation that displays text in a pop-up window for entry and editing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PopupAnnotation class. Represents the pop-up annotation that displays text in a pop-up window for entry and editing."
 type: docs
 weight: 950
 url: "/net/aspose.pdf.annotations/popupannotation/"

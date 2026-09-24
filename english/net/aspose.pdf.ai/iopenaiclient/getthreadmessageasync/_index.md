@@ -2,8 +2,8 @@
 title: "IOpenAIClient.GetThreadMessageAsync"
 linktitle: "GetThreadMessageAsync"
 articleTitle: "GetThreadMessageAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves details of a specific message within a thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves details of a specific message within a thread asynchronously."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/iopenaiclient/getthreadmessageasync/"

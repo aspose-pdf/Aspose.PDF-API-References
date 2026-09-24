@@ -2,8 +2,8 @@
 title: "FormEditor.RemoveField"
 linktitle: "RemoveField"
 articleTitle: "RemoveField"
-second_title: "Aspose.PDF for .NET"
-description: "Remove field from the form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Remove field from the form."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/formeditor/removefield/"

@@ -2,8 +2,8 @@
 title: "PageDate.Day"
 linktitle: "Day"
 articleTitle: "Day"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the day component of the date. The format of the date will be updated based on this component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageDate property. Gets or sets the day component of the date. The format of the date will be updated based on this component."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagedate/day/"

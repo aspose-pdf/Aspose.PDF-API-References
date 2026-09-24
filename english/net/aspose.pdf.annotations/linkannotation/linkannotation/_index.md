@@ -2,8 +2,8 @@
 title: "LinkAnnotation.LinkAnnotation"
 linktitle: "LinkAnnotation"
 articleTitle: "LinkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the LinkAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LinkAnnotation constructor. Initializes a new instance of the LinkAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/linkannotation/linkannotation/"

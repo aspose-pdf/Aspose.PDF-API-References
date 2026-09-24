@@ -2,8 +2,8 @@
 title: "Signature.OcspSettings"
 linktitle: "OcspSettings"
 articleTitle: "OcspSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets ocsp settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. Gets/sets ocsp settings."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.forms/signature/ocspsettings/"

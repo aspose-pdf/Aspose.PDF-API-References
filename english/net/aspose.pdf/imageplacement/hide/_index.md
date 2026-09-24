@@ -2,8 +2,8 @@
 title: "ImagePlacement.Hide"
 linktitle: "Hide"
 articleTitle: "Hide"
-second_title: "Aspose.PDF for .NET"
-description: "Delete image from the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement method. Delete image from the page."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/imageplacement/hide/"

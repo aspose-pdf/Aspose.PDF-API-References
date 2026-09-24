@@ -2,8 +2,8 @@
 title: "MissingOptionalDependencyException.MissingOptionalDependencyException"
 linktitle: "MissingOptionalDependencyException"
 articleTitle: "MissingOptionalDependencyException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MissingOptionalDependencyException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MissingOptionalDependencyException constructor. Initializes a new instance of the MissingOptionalDependencyException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/missingoptionaldependencyexception/missingoptionaldependencyexception/"

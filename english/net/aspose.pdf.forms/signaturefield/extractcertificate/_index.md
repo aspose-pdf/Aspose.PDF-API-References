@@ -2,8 +2,8 @@
 title: "SignatureField.ExtractCertificate"
 linktitle: "ExtractCertificate"
 articleTitle: "ExtractCertificate"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts the single X.509 certificate in DER format as a stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureField method. Extracts the single X.509 certificate in DER format as a stream."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/signaturefield/extractcertificate/"

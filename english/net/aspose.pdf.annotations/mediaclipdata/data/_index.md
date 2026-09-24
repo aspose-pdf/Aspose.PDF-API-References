@@ -2,8 +2,8 @@
 title: "MediaClipData.Data"
 linktitle: "Data"
 articleTitle: "Data"
-second_title: "Aspose.PDF for .NET"
-description: "Return file specification which contains actual media data ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MediaClipData property. Return file specification which contains actual media data ."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/mediaclipdata/data/"

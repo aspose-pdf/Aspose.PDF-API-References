@@ -2,8 +2,8 @@
 title: "TextParagraph.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets position of the paragraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph property. Gets or sets position of the paragraph."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.text/textparagraph/position/"

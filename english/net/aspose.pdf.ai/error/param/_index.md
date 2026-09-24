@@ -2,8 +2,8 @@
 title: "Error.Param"
 linktitle: "Param"
 articleTitle: "Param"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the parameter name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Error property. Gets or sets the parameter name."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/error/param/"

@@ -2,8 +2,8 @@
 title: "PdfConverterOptions Class"
 linktitle: "PdfConverterOptions"
 articleTitle: "PdfConverterOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for Pdf converter plugins."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfConverterOptions class. Represents options for Pdf converter plugins."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.lowcode/pdfconverteroptions/"

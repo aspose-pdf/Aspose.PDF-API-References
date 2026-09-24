@@ -2,8 +2,8 @@
 title: "PaperSizes.PrcEnvelopeNumber8"
 linktitle: "PrcEnvelopeNumber8"
 articleTitle: "PrcEnvelopeNumber8"
-second_title: "Aspose.PDF for .NET"
-description: "#8 envelope (120 mm by 309 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. #8 envelope (120 mm by 309 mm)."
 type: docs
 weight: 1010
 url: "/net/aspose.pdf.printing/papersizes/prcenvelopenumber8/"

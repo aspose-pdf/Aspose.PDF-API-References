@@ -2,8 +2,8 @@
 title: "Option.Selected"
 linktitle: "Selected"
 articleTitle: "Selected"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets selected status of option. Returns true if option is selected."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Option property. Gets or sets selected status of option. Returns true if option is selected."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/option/selected/"

@@ -2,8 +2,8 @@
 title: "BorderInfo Class"
 linktitle: "BorderInfo"
 articleTitle: "BorderInfo"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents border for graphics elements."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BorderInfo class. This class represents border for graphics elements."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/borderinfo/"

@@ -2,8 +2,8 @@
 title: "RenderingOptions.OptimizeDimensions"
 linktitle: "OptimizeDimensions"
 articleTitle: "OptimizeDimensions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets optimize dimensions mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets optimize dimensions mode."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/renderingoptions/optimizedimensions/"

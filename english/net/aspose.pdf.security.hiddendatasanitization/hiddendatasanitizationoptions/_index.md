@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions Class"
 linktitle: "HiddenDataSanitizationOptions"
 articleTitle: "HiddenDataSanitizationOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the configuration options for sanitizing hidden data within a document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.HiddenDataSanitization.HiddenDataSanitizationOptions class. Represents the configuration options for sanitizing hidden data within a docu..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/"

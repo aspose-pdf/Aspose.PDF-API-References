@@ -2,8 +2,8 @@
 title: "ScreenAnnotation Class"
 linktitle: "ScreenAnnotation"
 articleTitle: "ScreenAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "A screen annotation that specifies a region of a page upon which media clips may be played."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.ScreenAnnotation class. A screen annotation that specifies a region of a page upon which media clips may be played."
 type: docs
 weight: 1140
 url: "/net/aspose.pdf.annotations/screenannotation/"

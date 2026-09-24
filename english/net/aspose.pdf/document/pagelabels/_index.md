@@ -2,8 +2,8 @@
 title: "Document.PageLabels"
 linktitle: "PageLabels"
 articleTitle: "PageLabels"
-second_title: "Aspose.PDF for .NET"
-description: "Gets page labels in the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets page labels in the document."
 type: docs
 weight: 1580
 url: "/net/aspose.pdf/document/pagelabels/"

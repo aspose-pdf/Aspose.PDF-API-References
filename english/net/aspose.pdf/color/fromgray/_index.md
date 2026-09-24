@@ -2,8 +2,8 @@
 title: "Color.FromGray"
 linktitle: "FromGray"
 articleTitle: "FromGray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets valid pdf Color object from Gray color component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Gets valid pdf Color object from Gray color component."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/color/fromgray/"

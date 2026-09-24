@@ -2,8 +2,8 @@
 title: "PageLabel Class"
 linktitle: "PageLabel"
 articleTitle: "PageLabel"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Page Label range."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageLabel class. Class representing Page Label range."
 type: docs
 weight: 2230
 url: "/net/aspose.pdf/pagelabel/"

@@ -2,8 +2,8 @@
 title: "Option.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets name of option."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Option property. Gets or sets name of option."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/option/name/"

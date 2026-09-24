@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream"
 linktitle: "ContentStream"
 articleTitle: "ContentStream"
-second_title: "Aspose.PDF for .NET"
-description: "Set by converter. Represents saved HTML as stream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlPageMarkupSavingInfo field. Set by converter. Represents saved HTML as stream"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/contentstream/"

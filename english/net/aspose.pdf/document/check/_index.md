@@ -2,8 +2,8 @@
 title: "Document.Check"
 linktitle: "Check"
 articleTitle: "Check"
-second_title: "Aspose.PDF for .NET"
-description: "Validates document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Validates document."
 type: docs
 weight: 960
 url: "/net/aspose.pdf/document/check/"

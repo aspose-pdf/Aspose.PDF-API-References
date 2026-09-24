@@ -2,8 +2,8 @@
 title: "LoadOptions Class"
 linktitle: "LoadOptions"
 articleTitle: "LoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "LoadOptions type holds level of abstraction on individual load options"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LoadOptions class. LoadOptions type holds level of abstraction on individual load options"
 type: docs
 weight: 1790
 url: "/net/aspose.pdf/loadoptions/"

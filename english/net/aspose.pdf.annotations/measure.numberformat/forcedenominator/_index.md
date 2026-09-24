@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.ForceDenominator"
 linktitle: "ForceDenominator"
 articleTitle: "ForceDenominator"
-second_title: "Aspose.PDF for .NET"
-description: "If FractionDisplayment is ShowAsFraction, this value determines meay or not the fraction be reduced. If value is true fraction may not be reduced."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. If FractionDisplayment is ShowAsFraction, this value determines meay or not the fraction be reduced. If value is true fraction may not..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/measure.numberformat/forcedenominator/"

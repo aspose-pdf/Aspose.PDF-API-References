@@ -2,8 +2,8 @@
 title: "CosPdfNumber.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfNumber property. Gets the value."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.dataeditor/cospdfnumber/value/"

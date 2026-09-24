@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionValueType Class"
 linktitle: "XmpPdfAExtensionValueType"
 articleTitle: "XmpPdfAExtensionValueType"
-second_title: "Aspose.PDF for .NET"
-description: "The PDF/A ValueType schema is required for all property value types which are not defined in the XMP 2004 specification, i.e. for value types outside of the ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmpPdfAExtensionValueType class. The PDF/A ValueType schema is required for all property value types which are not defined in the XMP 2004 specifi..."
 type: docs
 weight: 3340
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/"

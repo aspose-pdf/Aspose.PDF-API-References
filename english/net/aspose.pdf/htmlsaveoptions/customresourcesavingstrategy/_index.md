@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.CustomResourceSavingStrategy"
 linktitle: "CustomResourceSavingStrategy"
 articleTitle: "CustomResourceSavingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "This field can contain saving strategy that must be used (if present) during conversion for customized handling of created referenced resource files (like im..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. This field can contain saving strategy that must be used (if present) during conversion for customized handling of created referenced ..."
 type: docs
 weight: 370
 url: "/net/aspose.pdf/htmlsaveoptions/customresourcesavingstrategy/"

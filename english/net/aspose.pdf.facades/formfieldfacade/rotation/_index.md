@@ -2,8 +2,8 @@
 title: "FormFieldFacade.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "The rotation of a field text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The rotation of a field text."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/formfieldfacade/rotation/"

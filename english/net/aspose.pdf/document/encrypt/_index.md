@@ -2,8 +2,8 @@
 title: "Document.Encrypt"
 linktitle: "Encrypt"
 articleTitle: "Encrypt"
-second_title: "Aspose.PDF for .NET"
-description: "Encrypts the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Encrypts the document."
 type: docs
 weight: 590
 url: "/net/aspose.pdf/document/encrypt/"

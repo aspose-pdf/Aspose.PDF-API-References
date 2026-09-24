@@ -2,8 +2,8 @@
 title: "ThreadMessageListQueryParameters.RunId"
 linktitle: "RunId"
 articleTitle: "RunId"
-second_title: "Aspose.PDF for .NET"
-description: "Filter messages by the run ID that generated them."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageListQueryParameters property. Filter messages by the run ID that generated them."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/threadmessagelistqueryparameters/runid/"

@@ -2,8 +2,8 @@
 title: "CollectionItem.AllNames"
 linktitle: "AllNames"
 articleTitle: "AllNames"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a collection of all the names of collection item values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionItem property. Gets a collection of all the names of collection item values."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/collectionitem/allnames/"

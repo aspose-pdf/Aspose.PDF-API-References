@@ -2,8 +2,8 @@
 title: "FormComboBoxFieldCreateOptions.Editable"
 linktitle: "Editable"
 articleTitle: "Editable"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine whether created ComboBoxField is editable or not (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormComboBoxFieldCreateOptions property. Gets/sets the value to determine whether created ComboBoxField is editable or not (if will be set)."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/editable/"

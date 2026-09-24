@@ -2,8 +2,8 @@
 title: "ChunkingOptions.OverlapSize"
 linktitle: "OverlapSize"
 articleTitle: "OverlapSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of tokens to overlap between consecutive chunks."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChunkingOptions property. Gets or sets the number of tokens to overlap between consecutive chunks."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/chunkingoptions/overlapsize/"

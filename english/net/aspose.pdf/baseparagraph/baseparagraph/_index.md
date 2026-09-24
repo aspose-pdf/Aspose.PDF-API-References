@@ -2,8 +2,8 @@
 title: "BaseParagraph.BaseParagraph"
 linktitle: "BaseParagraph"
 articleTitle: "BaseParagraph"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BaseParagraph class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseParagraph constructor. Initializes a new instance of the BaseParagraph class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/baseparagraph/baseparagraph/"

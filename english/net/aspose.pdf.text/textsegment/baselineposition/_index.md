@@ -2,8 +2,8 @@
 title: "TextSegment.BaselinePosition"
 linktitle: "BaselinePosition"
 articleTitle: "BaselinePosition"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text position for text, represented with object. The YIndent of the Position structure represents baseline coordinate of the text segment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSegment property. Gets text position for text, represented with object. The YIndent of the Position structure represents baseline coordinate of the text ..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/textsegment/baselineposition/"

@@ -2,8 +2,8 @@
 title: "ImagePlacement.Replace"
 linktitle: "Replace"
 articleTitle: "Replace"
-second_title: "Aspose.PDF for .NET"
-description: "Replace image in collection with another image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement method. Replace image in collection with another image."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/imageplacement/replace/"

@@ -2,8 +2,8 @@
 title: "SetGlyphsPositionShowText.GlyphPositions"
 linktitle: "GlyphPositions"
 articleTitle: "GlyphPositions"
-second_title: "Aspose.PDF for .NET"
-description: "Returns positions of glyphs."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGlyphsPositionShowText property. Returns positions of glyphs."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/"

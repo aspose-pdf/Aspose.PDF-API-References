@@ -2,8 +2,8 @@
 title: "PaperSizes.Executive"
 linktitle: "Executive"
 articleTitle: "Executive"
-second_title: "Aspose.PDF for .NET"
-description: "Executive paper (7.25 in. by 10.5 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Executive paper (7.25 in. by 10.5 in.)."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/papersizes/executive/"

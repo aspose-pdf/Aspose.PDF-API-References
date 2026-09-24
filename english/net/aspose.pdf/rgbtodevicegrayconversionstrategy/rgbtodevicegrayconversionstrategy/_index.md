@@ -2,8 +2,8 @@
 title: "RgbToDeviceGrayConversionStrategy.RgbToDeviceGrayConversionStrategy"
 linktitle: "RgbToDeviceGrayConversionStrategy"
 articleTitle: "RgbToDeviceGrayConversionStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the RgbToDeviceGrayConversionStrategy class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RgbToDeviceGrayConversionStrategy constructor. Initializes a new instance of the RgbToDeviceGrayConversionStrategy class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/rgbtodevicegrayconversionstrategy/rgbtodevicegrayconversionstrategy/"

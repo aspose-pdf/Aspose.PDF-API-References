@@ -2,8 +2,8 @@
 title: "MoveTextPosition.MoveTextPosition"
 linktitle: "MoveTextPosition"
 articleTitle: "MoveTextPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MoveTextPosition class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MoveTextPosition constructor. Initializes a new instance of the MoveTextPosition class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/movetextposition/movetextposition/"

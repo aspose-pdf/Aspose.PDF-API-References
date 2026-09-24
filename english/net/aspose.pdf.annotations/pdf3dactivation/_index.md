@@ -2,8 +2,8 @@
 title: "PDF3DActivation Enum"
 linktitle: "PDF3DActivation"
 articleTitle: "PDF3DActivation"
-second_title: "Aspose.PDF for .NET"
-description: "Enum PDF3DActivation: set of 3D annotation activation mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DActivation enum. Enum PDF3DActivation: set of 3D annotation activation mode."
 type: docs
 weight: 760
 url: "/net/aspose.pdf.annotations/pdf3dactivation/"

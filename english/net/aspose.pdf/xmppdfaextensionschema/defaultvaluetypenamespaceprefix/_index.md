@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.DefaultValueTypeNamespacePrefix"
 linktitle: "DefaultValueTypeNamespacePrefix"
 articleTitle: "DefaultValueTypeNamespacePrefix"
-second_title: "Aspose.PDF for .NET"
-description: "Default valie type namespace prefix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema field. Default valie type namespace prefix."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/"

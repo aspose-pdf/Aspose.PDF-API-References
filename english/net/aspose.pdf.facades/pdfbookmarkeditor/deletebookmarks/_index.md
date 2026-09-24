@@ -2,8 +2,8 @@
 title: "PdfBookmarkEditor.DeleteBookmarks"
 linktitle: "DeleteBookmarks"
 articleTitle: "DeleteBookmarks"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes all bookmarks of the PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Deletes all bookmarks of the PDF document."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/"

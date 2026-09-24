@@ -2,8 +2,8 @@
 title: "PdfConverter.RenderingOptions"
 linktitle: "RenderingOptions"
 articleTitle: "RenderingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rendering options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter property. Gets or sets rendering options."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.facades/pdfconverter/renderingoptions/"

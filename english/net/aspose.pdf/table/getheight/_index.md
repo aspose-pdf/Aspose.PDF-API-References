@@ -2,8 +2,8 @@
 title: "Table.GetHeight"
 linktitle: "GetHeight"
 articleTitle: "GetHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Get height."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table method. Get height."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/table/getheight/"

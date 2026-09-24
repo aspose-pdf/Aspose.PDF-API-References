@@ -2,8 +2,8 @@
 title: "CornerPrinterMarkAnnotation.DefaultMarkSize"
 linktitle: "DefaultMarkSize"
 articleTitle: "DefaultMarkSize"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CornerPrinterMarkAnnotation property."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/cornerprintermarkannotation/defaultmarksize/"

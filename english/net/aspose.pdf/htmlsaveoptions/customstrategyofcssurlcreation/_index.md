@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.CustomStrategyOfCssUrlCreation"
 linktitle: "CustomStrategyOfCssUrlCreation"
 articleTitle: "CustomStrategyOfCssUrlCreation"
-second_title: "Aspose.PDF for .NET"
-description: "This field can contain custom method that returns URL (Or URL template if multipage generation is on - see details below) of subject CSS as it should be put ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. This field can contain custom method that returns URL (Or URL template if multipage generation is on - see details below) of subject C..."
 type: docs
 weight: 400
 url: "/net/aspose.pdf/htmlsaveoptions/customstrategyofcssurlcreation/"

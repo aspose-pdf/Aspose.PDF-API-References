@@ -2,8 +2,8 @@
 title: "BasicSetColorAndPatternOperator Class"
 linktitle: "BasicSetColorAndPatternOperator"
 articleTitle: "BasicSetColorAndPatternOperator"
-second_title: "Aspose.PDF for .NET"
-description: "Base operator for all Set Color operators."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.BasicSetColorAndPatternOperator class. Base operator for all Set Color operators."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.operators/basicsetcolorandpatternoperator/"

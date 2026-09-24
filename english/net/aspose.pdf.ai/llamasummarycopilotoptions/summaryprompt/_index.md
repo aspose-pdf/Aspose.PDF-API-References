@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilotOptions.SummaryPrompt"
 linktitle: "SummaryPrompt"
 articleTitle: "SummaryPrompt"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the prompt to instruct the model to provide a document summary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions property. Gets or sets the prompt to instruct the model to provide a document summary."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt/"

@@ -2,8 +2,8 @@
 title: "TextSegment.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rectangle of the TextSegment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSegment property. Gets rectangle of the TextSegment"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textsegment/rectangle/"

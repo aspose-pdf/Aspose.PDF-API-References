@@ -2,8 +2,8 @@
 title: "FormFieldFacade.CheckBoxStyleCross"
 linktitle: "CheckBoxStyleCross"
 articleTitle: "CheckBoxStyleCross"
-second_title: "Aspose.PDF for .NET"
-description: "Defines a cross check box style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines a cross check box style."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylecross/"

@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.UseRebuildXrefAndTrailer"
 linktitle: "UseRebuildXrefAndTrailer"
 articleTitle: "UseRebuildXrefAndTrailer"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to generate new xref and trailer for document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization property. Allows to generate new xref and trailer for document."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer/"

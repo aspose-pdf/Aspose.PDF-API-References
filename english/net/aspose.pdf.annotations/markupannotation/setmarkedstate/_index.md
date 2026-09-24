@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.SetMarkedState"
 linktitle: "SetMarkedState"
 articleTitle: "SetMarkedState"
-second_title: "Aspose.PDF for .NET"
-description: "Sets Marked and Unmarked state for the annotation. Note, the state stored in other text annotation which has state and statemodel keys."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation method. Sets Marked and Unmarked state for the annotation. Note, the state stored in other text annotation which has state and statemodel keys."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/markupannotation/setmarkedstate/"

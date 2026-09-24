@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.IgnoredTextFontSize"
 linktitle: "IgnoredTextFontSize"
 articleTitle: "IgnoredTextFontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Text with the specified size or less will be ignored during conversion. We do not remove this text, we ignore it and do not transfer it to the output file"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Text with the specified size or less will be ignored during conversion. We do not remove this text, we ignore it and do not transfe..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/htmlsaveoptions/ignoredtextfontsize/"

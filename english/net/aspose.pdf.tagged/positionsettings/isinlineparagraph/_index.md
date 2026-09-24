@@ -2,8 +2,8 @@
 title: "PositionSettings.IsInLineParagraph"
 linktitle: "IsInLineParagraph"
 articleTitle: "IsInLineParagraph"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a paragraph is inline. Default is false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PositionSettings property. Gets or sets a paragraph is inline. Default is false."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.tagged/positionsettings/isinlineparagraph/"

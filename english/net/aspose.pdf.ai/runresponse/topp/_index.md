@@ -2,8 +2,8 @@
 title: "RunResponse.TopP"
 linktitle: "TopP"
 articleTitle: "TopP"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the nucleus sampling value used for this run. If not set, defaults to 1."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the nucleus sampling value used for this run. If not set, defaults to 1."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.ai/runresponse/topp/"

@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.Close"
 linktitle: "Close"
 articleTitle: "Close"
-second_title: "Aspose.PDF for .NET"
-description: "Closes the facade."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization method. Closes the facade."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdffilesanitization/close/"

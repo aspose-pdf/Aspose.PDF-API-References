@@ -2,8 +2,8 @@
 title: "FileParams.FileParams"
 linktitle: "FileParams"
 articleTitle: "FileParams"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FileParams class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileParams constructor. Initializes a new instance of the FileParams class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/fileparams/fileparams/"

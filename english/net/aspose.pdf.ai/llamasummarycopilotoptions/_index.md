@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilotOptions Class"
 linktitle: "LlamaSummaryCopilotOptions"
 articleTitle: "LlamaSummaryCopilotOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the options for configuring the OpenAICopilot."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.LlamaSummaryCopilotOptions class. Represents the options for configuring the OpenAICopilot."
 type: docs
 weight: 800
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/"

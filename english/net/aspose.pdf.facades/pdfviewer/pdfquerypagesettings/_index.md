@@ -2,8 +2,8 @@
 title: "PdfViewer.PdfQueryPageSettings"
 linktitle: "PdfQueryPageSettings"
 articleTitle: "PdfQueryPageSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Adds/removes subscription on the last page printing event."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer event. Adds/removes subscription on the last page printing event."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.facades/pdfviewer/pdfquerypagesettings/"

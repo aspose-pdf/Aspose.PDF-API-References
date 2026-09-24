@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema Class"
 linktitle: "XmpPdfAExtensionSchema"
 articleTitle: "XmpPdfAExtensionSchema"
-second_title: "Aspose.PDF for .NET"
-description: "Describes the XMP extension schema which is provided by PDF/A-1."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmpPdfAExtensionSchema class. Describes the XMP extension schema which is provided by PDF/A-1."
 type: docs
 weight: 3320
 url: "/net/aspose.pdf/xmppdfaextensionschema/"

@@ -2,8 +2,8 @@
 title: "PclLoadOptions.PclLoadOptions"
 linktitle: "PclLoadOptions"
 articleTitle: "PclLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PclLoadOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PclLoadOptions constructor. Initializes a new instance of the PclLoadOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pclloadoptions/pclloadoptions/"

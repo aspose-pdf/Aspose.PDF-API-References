@@ -2,8 +2,8 @@
 title: "SetCMYKColorStroke.getColor"
 linktitle: "getColor"
 articleTitle: "getColor"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the RGB color"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCMYKColorStroke method. Returns the RGB color"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/getcolor/"

@@ -2,8 +2,8 @@
 title: "Heading.CloneWithSegments"
 linktitle: "CloneWithSegments"
 articleTitle: "CloneWithSegments"
-second_title: "Aspose.PDF for .NET"
-description: "Clone the heading with all segments."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading method. Clone the heading with all segments."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/heading/clonewithsegments/"

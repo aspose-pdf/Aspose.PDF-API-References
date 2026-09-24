@@ -2,8 +2,8 @@
 title: "JavascriptAction Class"
 linktitle: "JavascriptAction"
 articleTitle: "JavascriptAction"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing javascript action."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.JavascriptAction class. Class representing javascript action."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.annotations/javascriptaction/"

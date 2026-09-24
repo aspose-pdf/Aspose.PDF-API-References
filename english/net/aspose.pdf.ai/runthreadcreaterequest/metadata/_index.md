@@ -2,8 +2,8 @@
 title: "RunThreadCreateRequest.Metadata"
 linktitle: "Metadata"
 articleTitle: "Metadata"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a structu..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunThreadCreateRequest property. Gets or sets set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional informat..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/metadata/"

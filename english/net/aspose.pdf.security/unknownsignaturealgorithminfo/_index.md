@@ -2,8 +2,8 @@
 title: "UnknownSignatureAlgorithmInfo Class"
 linktitle: "UnknownSignatureAlgorithmInfo"
 articleTitle: "UnknownSignatureAlgorithmInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for the unknown signature algorithm information."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.UnknownSignatureAlgorithmInfo class. Represents a class for the unknown signature algorithm information."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.security/unknownsignaturealgorithminfo/"

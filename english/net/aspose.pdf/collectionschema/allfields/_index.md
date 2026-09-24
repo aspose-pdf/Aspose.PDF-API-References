@@ -2,8 +2,8 @@
 title: "CollectionSchema.AllFields"
 linktitle: "AllFields"
 articleTitle: "AllFields"
-second_title: "Aspose.PDF for .NET"
-description: "Gets all schema's fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionSchema property. Gets all schema's fields."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/collectionschema/allfields/"

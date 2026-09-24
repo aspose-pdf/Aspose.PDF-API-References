@@ -2,8 +2,8 @@
 title: "PdfToHtmlOptions.SaveDataType Enum"
 linktitle: "PdfToHtmlOptions.SaveDataType"
 articleTitle: "PdfToHtmlOptions.SaveDataType"
-second_title: "Aspose.PDF for .NET"
-description: "Defines output type of HTML file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfToHtmlOptions.SaveDataType enum. Defines output type of HTML file."
 type: docs
 weight: 700
 url: "/net/aspose.pdf.lowcode/pdftohtmloptions.savedatatype/"

@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/copyto/"

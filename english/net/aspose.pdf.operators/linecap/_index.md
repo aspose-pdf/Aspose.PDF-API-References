@@ -2,8 +2,8 @@
 title: "LineCap Enum"
 linktitle: "LineCap"
 articleTitle: "LineCap"
-second_title: "Aspose.PDF for .NET"
-description: "The line cap style shall specify the shape that shall be used at the ends of open subpaths (and dashes, if any) when they are stroked."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.LineCap enum. The line cap style shall specify the shape that shall be used at the ends of open subpaths (and dashes, if any) when they ..."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.operators/linecap/"

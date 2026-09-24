@@ -2,8 +2,8 @@
 title: "PageDevice Class"
 linktitle: "PageDevice"
 articleTitle: "PageDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Abstract class for all devices which is used to process certain page the pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.PageDevice class. Abstract class for all devices which is used to process certain page the pdf document."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.devices/pagedevice/"

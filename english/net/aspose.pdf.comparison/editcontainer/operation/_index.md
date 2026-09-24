@@ -2,8 +2,8 @@
 title: "EditContainer.Operation"
 linktitle: "Operation"
 articleTitle: "Operation"
-second_title: "Aspose.PDF for .NET"
-description: "The diff operation type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EditContainer property. The diff operation type."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/editcontainer/operation/"

@@ -2,8 +2,8 @@
 title: "AttributeKey.GlyphOrientationVertical"
 linktitle: "GlyphOrientationVertical"
 articleTitle: "GlyphOrientationVertical"
-second_title: "Aspose.PDF for .NET"
-description: "GlyphOrientationVertical attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. GlyphOrientationVertical attribute (Layout attribute owner)."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.logicalstructure/attributekey/glyphorientationvertical/"

@@ -2,8 +2,8 @@
 title: "GradientRadialShading.Start"
 linktitle: "Start"
 articleTitle: "Start"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets starting circle center point."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GradientRadialShading property. Gets or sets starting circle center point."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/gradientradialshading/start/"

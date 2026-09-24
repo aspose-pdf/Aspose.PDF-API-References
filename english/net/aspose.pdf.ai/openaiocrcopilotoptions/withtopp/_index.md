@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilotOptions.WithTopP"
 linktitle: "WithTopP"
 articleTitle: "WithTopP"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the top P value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Sets the top P value."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withtopp/"

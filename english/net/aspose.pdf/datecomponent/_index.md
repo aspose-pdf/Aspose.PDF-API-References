@@ -2,8 +2,8 @@
 title: "DateComponent Class"
 linktitle: "DateComponent"
 articleTitle: "DateComponent"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class for date components with a format attribute."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DateComponent class. Represents a base class for date components with a format attribute."
 type: docs
 weight: 510
 url: "/net/aspose.pdf/datecomponent/"

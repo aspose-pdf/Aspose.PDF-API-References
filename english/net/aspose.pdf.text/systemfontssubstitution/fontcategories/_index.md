@@ -2,8 +2,8 @@
 title: "SystemFontsSubstitution.FontCategories"
 linktitle: "FontCategories"
 articleTitle: "FontCategories"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets substitution font categories that should be substituted with system fonts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SystemFontsSubstitution property. Gets or sets substitution font categories that should be substituted with system fonts."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/systemfontssubstitution/fontcategories/"

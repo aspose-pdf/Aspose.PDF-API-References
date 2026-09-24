@@ -2,8 +2,8 @@
 title: "PdfPageEditor.LRGLITTER"
 linktitle: "LRGLITTER"
 articleTitle: "LRGLITTER"
-second_title: "Aspose.PDF for .NET"
-description: "Left-Right Glitter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Left-Right Glitter"
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdfpageeditor/lrglitter/"

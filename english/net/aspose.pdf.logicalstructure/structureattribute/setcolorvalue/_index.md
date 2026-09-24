@@ -2,8 +2,8 @@
 title: "StructureAttribute.SetColorValue"
 linktitle: "SetColorValue"
 articleTitle: "SetColorValue"
-second_title: "Aspose.PDF for .NET"
-description: "Sets Value Color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttribute method. Sets Value Color."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/"

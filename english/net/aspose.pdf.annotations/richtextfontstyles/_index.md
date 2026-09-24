@@ -2,8 +2,8 @@
 title: "RichTextFontStyles Enum"
 linktitle: "RichTextFontStyles"
 articleTitle: "RichTextFontStyles"
-second_title: "Aspose.PDF for .NET"
-description: "Options for styling text fragments in RichText."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RichTextFontStyles enum. Options for styling text fragments in RichText."
 type: docs
 weight: 1130
 url: "/net/aspose.pdf.annotations/richtextfontstyles/"

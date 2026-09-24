@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Performs search on the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber method. Performs search on the specified page."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textfragmentabsorber/visit/"

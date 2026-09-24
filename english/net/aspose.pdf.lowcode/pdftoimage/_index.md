@@ -2,8 +2,8 @@
 title: "PdfToImage Class"
 linktitle: "PdfToImage"
 articleTitle: "PdfToImage"
-second_title: "Aspose.PDF for .NET"
-description: "Represents PDF to image plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfToImage class. Represents PDF to image plugin."
 type: docs
 weight: 710
 url: "/net/aspose.pdf.lowcode/pdftoimage/"

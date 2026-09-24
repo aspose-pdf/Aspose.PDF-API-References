@@ -2,8 +2,8 @@
 title: "PDF3DView.CameraOrbit"
 linktitle: "CameraOrbit"
 articleTitle: "CameraOrbit"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the camera orbit of view."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DView property. Gets or sets the camera orbit of view."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/pdf3dview/cameraorbit/"

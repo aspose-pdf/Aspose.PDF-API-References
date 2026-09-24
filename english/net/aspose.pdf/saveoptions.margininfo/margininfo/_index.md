@@ -2,8 +2,8 @@
 title: "SaveOptions.MarginInfo.SaveOptions.MarginInfo"
 linktitle: "SaveOptions.MarginInfo"
 articleTitle: "SaveOptions.MarginInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SaveOptions.MarginInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginInfo constructor. Initializes a new instance of the SaveOptions.MarginInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/saveoptions.margininfo/margininfo/"

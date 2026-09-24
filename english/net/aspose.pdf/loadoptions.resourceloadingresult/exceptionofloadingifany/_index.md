@@ -2,8 +2,8 @@
 title: "LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny"
 linktitle: "ExceptionOfLoadingIfAny"
 articleTitle: "ExceptionOfLoadingIfAny"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes it's impossible to load requested resource for some reason. Unavailability of resource often does not lead to crash of conversiov and result docume..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResourceLoadingResult field. Sometimes it's impossible to load requested resource for some reason. Unavailability of resource often does not lead to crash of..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany/"

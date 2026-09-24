@@ -2,8 +2,8 @@
 title: "PdfFileInfo.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdffileinfo/bindpdf/"

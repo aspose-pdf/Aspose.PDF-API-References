@@ -2,8 +2,8 @@
 title: "Metadata.IsFixedSize"
 linktitle: "IsFixedSize"
 articleTitle: "IsFixedSize"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if colleciton has fixed size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Checks if colleciton has fixed size."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/metadata/isfixedsize/"

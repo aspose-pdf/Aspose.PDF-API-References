@@ -2,8 +2,8 @@
 title: "CosPdfDictionary.CreateEmptyDictionary"
 linktitle: "CreateEmptyDictionary"
 articleTitle: "CreateEmptyDictionary"
-second_title: "Aspose.PDF for .NET"
-description: "Creates an empty dictionary that will be attached to the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary method. Creates an empty dictionary that will be attached to the page."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/"

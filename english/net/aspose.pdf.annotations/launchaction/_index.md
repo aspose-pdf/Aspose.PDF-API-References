@@ -2,8 +2,8 @@
 title: "LaunchAction Class"
 linktitle: "LaunchAction"
 articleTitle: "LaunchAction"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a launch action that launches an application or opens or prints a document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.LaunchAction class. Represents a launch action that launches an application or opens or prints a document."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.annotations/launchaction/"

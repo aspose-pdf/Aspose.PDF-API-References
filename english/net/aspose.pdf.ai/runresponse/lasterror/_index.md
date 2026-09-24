@@ -2,8 +2,8 @@
 title: "RunResponse.LastError"
 linktitle: "LastError"
 articleTitle: "LastError"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the last error associated with this run. Will be null if there are no errors."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the last error associated with this run. Will be null if there are no errors."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/runresponse/lasterror/"

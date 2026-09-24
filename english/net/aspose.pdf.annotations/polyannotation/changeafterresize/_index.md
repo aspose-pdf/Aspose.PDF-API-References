@@ -2,8 +2,8 @@
 title: "PolyAnnotation.ChangeAfterResize"
 linktitle: "ChangeAfterResize"
 articleTitle: "ChangeAfterResize"
-second_title: "Aspose.PDF for .NET"
-description: "Updates the points in Vertices, according to the matrix transform."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolyAnnotation method. Updates the points in Vertices, according to the matrix transform."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/polyannotation/changeafterresize/"

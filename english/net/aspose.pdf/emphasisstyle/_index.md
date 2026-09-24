@@ -2,8 +2,8 @@
 title: "EmphasisStyle Enum"
 linktitle: "EmphasisStyle"
 articleTitle: "EmphasisStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark - Emphasis and strong emphasis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.EmphasisStyle enum. Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark - Emphasis and s..."
 type: docs
 weight: 730
 url: "/net/aspose.pdf/emphasisstyle/"

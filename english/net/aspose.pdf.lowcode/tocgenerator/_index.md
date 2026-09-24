@@ -2,8 +2,8 @@
 title: "TocGenerator Class"
 linktitle: "TocGenerator"
 articleTitle: "TocGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Aspose.PDF TocGenerator plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TocGenerator class. Represents Aspose.PDF TocGenerator plugin."
 type: docs
 weight: 1040
 url: "/net/aspose.pdf.lowcode/tocgenerator/"

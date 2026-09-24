@@ -2,8 +2,8 @@
 title: "ConvertTransparencyAction Enum"
 linktitle: "ConvertTransparencyAction"
 articleTitle: "ConvertTransparencyAction"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents action for conversion of transparency."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ConvertTransparencyAction enum. This class represents action for conversion of transparency."
 type: docs
 weight: 480
 url: "/net/aspose.pdf/converttransparencyaction/"

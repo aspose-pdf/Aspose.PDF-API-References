@@ -2,8 +2,8 @@
 title: "AssistantCreateRequest.ToolResources"
 linktitle: "ToolResources"
 articleTitle: "ToolResources"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets resources that are used by the assistant's tools. The resources are specific to the type of tool. For example, the code_interpreter tool require..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantCreateRequest property. Gets or sets resources that are used by the assistant's tools. The resources are specific to the type of tool. For example, ..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/assistantcreaterequest/toolresources/"

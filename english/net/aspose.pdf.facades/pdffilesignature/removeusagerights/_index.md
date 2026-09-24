@@ -2,8 +2,8 @@
 title: "PdfFileSignature.RemoveUsageRights"
 linktitle: "RemoveUsageRights"
 articleTitle: "RemoveUsageRights"
-second_title: "Aspose.PDF for .NET"
-description: "Removes the usage rights entry."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Removes the usage rights entry."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdffilesignature/removeusagerights/"

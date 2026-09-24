@@ -2,8 +2,8 @@
 title: "PrintRange Enum"
 linktitle: "PrintRange"
 articleTitle: "PrintRange"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the option that designate the part of the document to print."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PrintRange enum. Specifies the option that designate the part of the document to print."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.printing/printrange/"

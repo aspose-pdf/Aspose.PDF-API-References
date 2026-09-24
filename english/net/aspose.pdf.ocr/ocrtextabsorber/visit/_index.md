@@ -2,8 +2,8 @@
 title: "OcrTextAbsorber.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Recognizes text on every page of the document, joined by ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextAbsorber method. Recognizes text on every page of the document, joined by ."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/visit/"

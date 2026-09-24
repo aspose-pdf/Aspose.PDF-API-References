@@ -2,8 +2,8 @@
 title: "PdfFileSecurity.TryChangePassword"
 linktitle: "TryChangePassword"
 articleTitle: "TryChangePassword"
-second_title: "Aspose.PDF for .NET"
-description: "Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the new owner password can be..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the n..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdffilesecurity/trychangepassword/"

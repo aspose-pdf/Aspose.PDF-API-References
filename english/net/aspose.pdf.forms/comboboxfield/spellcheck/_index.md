@@ -2,8 +2,8 @@
 title: "ComboBoxField.SpellCheck"
 linktitle: "SpellCheck"
 articleTitle: "SpellCheck"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets spellchaeck activiity status."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComboBoxField property. Gets or sets spellchaeck activiity status."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/comboboxfield/spellcheck/"

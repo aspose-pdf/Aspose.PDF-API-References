@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase.OptimizeFileSize"
 linktitle: "OptimizeFileSize"
 articleTitle: "OptimizeFileSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether to try to reduce the file size during the PDF/A conversion process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets or sets a value indicating whether to try to reduce the file size during the PDF/A conversion process."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/optimizefilesize/"

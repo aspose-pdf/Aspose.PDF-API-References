@@ -2,8 +2,8 @@
 title: "ImageDevice.Resolution"
 linktitle: "Resolution"
 articleTitle: "Resolution"
-second_title: "Aspose.PDF for .NET"
-description: "Gets image resolution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDevice property. Gets image resolution."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.devices/imagedevice/resolution/"

@@ -2,8 +2,8 @@
 title: "Font.IsAccessible"
 linktitle: "IsAccessible"
 articleTitle: "IsAccessible"
-second_title: "Aspose.PDF for .NET"
-description: "Gets indicating whether the font is present (installed) in the system."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Font property. Gets indicating whether the font is present (installed) in the system."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/font/isaccessible/"

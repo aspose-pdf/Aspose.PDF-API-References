@@ -2,8 +2,8 @@
 title: "PdfPageEditor.PageRotations"
 linktitle: "PageRotations"
 articleTitle: "PageRotations"
-second_title: "Aspose.PDF for .NET"
-description: "A hashtable contains the page number and rotation degree, the key represents the page number, the value of key represents the rotation in degrees."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor property. A hashtable contains the page number and rotation degree, the key represents the page number, the value of key represents the rotatio..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdfpageeditor/pagerotations/"

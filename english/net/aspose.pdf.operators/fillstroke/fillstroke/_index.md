@@ -2,8 +2,8 @@
 title: "FillStroke.FillStroke"
 linktitle: "FillStroke"
 articleTitle: "FillStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FillStroke class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FillStroke constructor. Initializes a new instance of the FillStroke class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/fillstroke/fillstroke/"

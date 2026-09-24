@@ -2,8 +2,8 @@
 title: "RunStepResponse Class"
 linktitle: "RunStepResponse"
 articleTitle: "RunStepResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a step in execution of a run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.RunStepResponse class. Represents a step in execution of a run."
 type: docs
 weight: 1140
 url: "/net/aspose.pdf.ai/runstepresponse/"

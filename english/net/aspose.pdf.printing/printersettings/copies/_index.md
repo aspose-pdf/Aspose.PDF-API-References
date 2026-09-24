@@ -2,8 +2,8 @@
 title: "PrinterSettings.Copies"
 linktitle: "Copies"
 articleTitle: "Copies"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of copies to print."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the number of copies to print."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/printersettings/copies/"

@@ -2,8 +2,8 @@
 title: "CharInfoCollection.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether access to the collection is synchronized (thread safe)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CharInfoCollection property. Gets a value indicating whether access to the collection is synchronized (thread safe)."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/charinfocollection/issynchronized/"

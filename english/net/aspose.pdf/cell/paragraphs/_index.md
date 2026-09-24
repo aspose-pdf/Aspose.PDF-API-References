@@ -2,8 +2,8 @@
 title: "Cell.Paragraphs"
 linktitle: "Paragraphs"
 articleTitle: "Paragraphs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the cell's formatted text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cell property. Gets or sets the cell's formatted text."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/cell/paragraphs/"

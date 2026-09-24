@@ -2,8 +2,8 @@
 title: "OutlineCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes all outline items from the document outline."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineCollection method. Deletes all outline items from the document outline."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/outlinecollection/delete/"

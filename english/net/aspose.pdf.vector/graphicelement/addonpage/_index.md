@@ -2,8 +2,8 @@
 title: "GraphicElement.AddOnPage"
 linktitle: "AddOnPage"
 articleTitle: "AddOnPage"
-second_title: "Aspose.PDF for .NET"
-description: "Adds current element on the page. If there are many elements to add better use ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElement method. Adds current element on the page. If there are many elements to add better use ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/graphicelement/addonpage/"

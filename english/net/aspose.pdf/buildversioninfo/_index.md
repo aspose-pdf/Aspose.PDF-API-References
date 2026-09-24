@@ -2,8 +2,8 @@
 title: "BuildVersionInfo Class"
 linktitle: "BuildVersionInfo"
 articleTitle: "BuildVersionInfo"
-second_title: "Aspose.PDF for .NET"
-description: "This class provides information about current product build."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BuildVersionInfo class. This class provides information about current product build."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/buildversioninfo/"

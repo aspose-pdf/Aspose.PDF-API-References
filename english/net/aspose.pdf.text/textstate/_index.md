@@ -2,8 +2,8 @@
 title: "TextState Class"
 linktitle: "TextState"
 articleTitle: "TextState"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a text state of a text"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextState class. Represents a text state of a text"
 type: docs
 weight: 690
 url: "/net/aspose.pdf.text/textstate/"

@@ -2,8 +2,8 @@
 title: "License.License"
 linktitle: "License"
 articleTitle: "License"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the License class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "License constructor. Initializes a new instance of the License class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/license/license/"

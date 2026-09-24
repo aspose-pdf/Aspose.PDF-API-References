@@ -2,8 +2,8 @@
 title: "PdfFileSignature.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves the result PDF to file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Saves the result PDF to file."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdffilesignature/save/"

@@ -2,8 +2,8 @@
 title: "Form.ExportToJson"
 linktitle: "ExportToJson"
 articleTitle: "ExportToJson"
-second_title: "Aspose.PDF for .NET"
-description: "Exports the PDF form fields to JSON format and writes the result to the provided stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Exports the PDF form fields to JSON format and writes the result to the provided stream."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.forms/form/exporttojson/"

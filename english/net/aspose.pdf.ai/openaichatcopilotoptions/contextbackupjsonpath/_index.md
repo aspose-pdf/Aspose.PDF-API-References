@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilotOptions.ContextBackupJsonPath"
 linktitle: "ContextBackupJsonPath"
 articleTitle: "ContextBackupJsonPath"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the file path for the context backup JSON."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions property. Gets or sets the file path for the context backup JSON."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/contextbackupjsonpath/"

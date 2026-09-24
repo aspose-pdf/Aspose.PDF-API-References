@@ -2,8 +2,8 @@
 title: "DiffOperation.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Get and set operation text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DiffOperation property. Get and set operation text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/diffoperation/text/"

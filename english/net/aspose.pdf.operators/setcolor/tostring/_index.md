@@ -2,8 +2,8 @@
 title: "SetColor.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation of color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColor method. Returns string representation of color."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/setcolor/tostring/"

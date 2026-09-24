@@ -2,8 +2,8 @@
 title: "PdfContentEditor.ExtractLink"
 linktitle: "ExtractLink"
 articleTitle: "ExtractLink"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts the collection of Link instances contained in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Extracts the collection of Link instances contained in PDF document."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdfcontenteditor/extractlink/"

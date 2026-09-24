@@ -2,8 +2,8 @@
 title: "Bookmark.ChildItem"
 linktitle: "ChildItem"
 articleTitle: "ChildItem"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets bookmark's children."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Bookmark property. Gets or sets bookmark's children."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/bookmark/childitem/"

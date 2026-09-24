@@ -2,8 +2,8 @@
 title: "TextExtractorOptions.FormattingMode"
 linktitle: "FormattingMode"
 articleTitle: "FormattingMode"
-second_title: "Aspose.PDF for .NET"
-description: "Gets formatting mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractorOptions property. Gets formatting mode."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/textextractoroptions/formattingmode/"

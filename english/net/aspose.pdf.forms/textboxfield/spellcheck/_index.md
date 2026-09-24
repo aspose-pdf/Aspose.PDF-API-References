@@ -2,8 +2,8 @@
 title: "TextBoxField.SpellCheck"
 linktitle: "SpellCheck"
 articleTitle: "SpellCheck"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets spellcheck flag for field. If true field shall be spell checked."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBoxField property. Gets or sets spellcheck flag for field. If true field shall be spell checked."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/textboxfield/spellcheck/"

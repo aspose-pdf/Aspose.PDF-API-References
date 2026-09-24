@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageModeUseNone"
 linktitle: "PageModeUseNone"
 articleTitle: "PageModeUseNone"
-second_title: "Aspose.PDF for .NET"
-description: "Neither document outline nor thumbnail images visible"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Neither document outline nor thumbnail images visible"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodeusenone/"

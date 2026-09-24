@@ -2,8 +2,8 @@
 title: "Table.GetWidth"
 linktitle: "GetWidth"
 articleTitle: "GetWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Get width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table method. Get width."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/table/getwidth/"

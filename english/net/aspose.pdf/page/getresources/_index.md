@@ -2,8 +2,8 @@
 title: "Page.GetResources"
 linktitle: "GetResources"
 articleTitle: "GetResources"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves the resources associated with the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Retrieves the resources associated with the page."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/page/getresources/"

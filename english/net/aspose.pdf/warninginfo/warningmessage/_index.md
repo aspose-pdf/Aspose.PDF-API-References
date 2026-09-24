@@ -2,8 +2,8 @@
 title: "WarningInfo.WarningMessage"
 linktitle: "WarningMessage"
 articleTitle: "WarningMessage"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation of warning message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WarningInfo property. Returns string representation of warning message."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/warninginfo/warningmessage/"

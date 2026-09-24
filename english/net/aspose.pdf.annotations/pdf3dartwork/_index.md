@@ -2,8 +2,8 @@
 title: "PDF3DArtwork Class"
 linktitle: "PDF3DArtwork"
 articleTitle: "PDF3DArtwork"
-second_title: "Aspose.PDF for .NET"
-description: "Class PDF3DArtwork."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DArtwork class. Class PDF3DArtwork."
 type: docs
 weight: 780
 url: "/net/aspose.pdf.annotations/pdf3dartwork/"

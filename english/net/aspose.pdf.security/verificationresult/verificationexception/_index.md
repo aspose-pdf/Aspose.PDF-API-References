@@ -2,8 +2,8 @@
 title: "VerificationResult.VerificationException"
 linktitle: "VerificationException"
 articleTitle: "VerificationException"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the exception associated with the verification process if presents. This property provides details about errors or issues encountered during the verific..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VerificationResult property. Gets the exception associated with the verification process if presents. This property provides details about errors or issues e..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/verificationresult/verificationexception/"

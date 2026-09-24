@@ -2,8 +2,8 @@
 title: "FormDataConverter.ConvertToStreams"
 linktitle: "ConvertToStreams"
 articleTitle: "ConvertToStreams"
-second_title: "Aspose.PDF for .NET"
-description: "Convert data in table into streams."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter method. Convert data in table into streams."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/formdataconverter/converttostreams/"

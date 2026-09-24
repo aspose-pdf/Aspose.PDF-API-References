@@ -2,8 +2,8 @@
 title: "AttributeKey.TPadding"
 linktitle: "TPadding"
 articleTitle: "TPadding"
-second_title: "Aspose.PDF for .NET"
-description: "TPadding attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TPadding attribute (Layout attribute owner)."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.logicalstructure/attributekey/tpadding/"

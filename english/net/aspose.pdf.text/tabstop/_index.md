@@ -2,8 +2,8 @@
 title: "TabStop Class"
 linktitle: "TabStop"
 articleTitle: "TabStop"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a custom Tab stop position in a paragraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TabStop class. Represents a custom Tab stop position in a paragraph."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.text/tabstop/"

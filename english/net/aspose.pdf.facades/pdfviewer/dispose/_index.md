@@ -2,8 +2,8 @@
 title: "PdfViewer.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Disposes the facade resources."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Disposes the facade resources."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdfviewer/dispose/"

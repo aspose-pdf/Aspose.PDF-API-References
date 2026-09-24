@@ -2,8 +2,8 @@
 title: "BLSElement Class"
 linktitle: "BLSElement"
 articleTitle: "BLSElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class for block-level structure elements in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.BLSElement class. Represents a base class for block-level structure elements in logical structure."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/blselement/"

@@ -2,8 +2,8 @@
 title: "JavaScriptCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes JavaScript by its name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JavaScriptCollection method. Removes JavaScript by its name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/javascriptcollection/remove/"

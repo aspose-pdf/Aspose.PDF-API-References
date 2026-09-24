@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.Messages"
 linktitle: "Messages"
 articleTitle: "Messages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of messages comprising the conversation so far."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets a list of messages comprising the conversation so far."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/completioncreaterequest/messages/"

@@ -2,8 +2,8 @@
 title: "LicenseInfo.EditionType"
 linktitle: "EditionType"
 articleTitle: "EditionType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the edition type of the license."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LicenseInfo property. Gets the edition type of the license."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/licenseinfo/editiontype/"

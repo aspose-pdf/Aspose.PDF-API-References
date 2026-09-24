@@ -2,8 +2,8 @@
 title: "Point3D.Z"
 linktitle: "Z"
 articleTitle: "Z"
-second_title: "Aspose.PDF for .NET"
-description: "Z coordinate value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point3D property. Z coordinate value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/point3d/z/"

@@ -2,8 +2,8 @@
 title: "FontNotFoundException.FontNotFoundException"
 linktitle: "FontNotFoundException"
 articleTitle: "FontNotFoundException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FontNotFoundException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontNotFoundException constructor. Initializes a new instance of the FontNotFoundException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/fontnotfoundexception/fontnotfoundexception/"

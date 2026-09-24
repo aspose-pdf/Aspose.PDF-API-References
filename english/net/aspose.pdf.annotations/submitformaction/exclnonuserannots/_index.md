@@ -2,8 +2,8 @@
 title: "SubmitFormAction.ExclNonUserAnnots"
 linktitle: "ExclNonUserAnnots"
 articleTitle: "ExclNonUserAnnots"
-second_title: "Aspose.PDF for .NET"
-description: "If set, it shall include only those markup annotations whose T entry matches the name of the current user."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If set, it shall include only those markup annotations whose T entry matches the name of the current user."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/submitformaction/exclnonuserannots/"

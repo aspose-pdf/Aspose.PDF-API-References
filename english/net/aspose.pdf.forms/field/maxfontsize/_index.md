@@ -2,8 +2,8 @@
 title: "Field.MaxFontSize"
 linktitle: "MaxFontSize"
 articleTitle: "MaxFontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Maximail font size which can be used for field contents. -1 to don't check size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Maximail font size which can be used for field contents. -1 to don't check size."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.forms/field/maxfontsize/"

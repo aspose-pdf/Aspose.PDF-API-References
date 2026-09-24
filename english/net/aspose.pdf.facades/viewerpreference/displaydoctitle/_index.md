@@ -2,8 +2,8 @@
 title: "ViewerPreference.DisplayDocTitle"
 linktitle: "DisplayDocTitle"
 articleTitle: "DisplayDocTitle"
-second_title: "Aspose.PDF for .NET"
-description: "A flag specifying whether the window's title bar should display the document title"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. A flag specifying whether the window's title bar should display the document title"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/viewerpreference/displaydoctitle/"

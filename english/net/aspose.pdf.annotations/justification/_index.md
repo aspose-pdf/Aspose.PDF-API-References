@@ -2,8 +2,8 @@
 title: "Justification Enum"
 linktitle: "Justification"
 articleTitle: "Justification"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the forms of quadding (justification) to be used in displaying the annotation's text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.Justification enum. Enumerates the forms of quadding (justification) to be used in displaying the annotation's text."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.annotations/justification/"

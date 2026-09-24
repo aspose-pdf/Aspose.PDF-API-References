@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance Class"
 linktitle: "SignatureCustomAppearance"
 articleTitle: "SignatureCustomAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "An abstract class which represents signature custon appearance object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.SignatureCustomAppearance class. An abstract class which represents signature custon appearance object."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.forms/signaturecustomappearance/"

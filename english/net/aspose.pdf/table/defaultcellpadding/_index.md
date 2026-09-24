@@ -2,8 +2,8 @@
 title: "Table.DefaultCellPadding"
 linktitle: "DefaultCellPadding"
 articleTitle: "DefaultCellPadding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the default cell padding."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table property. Gets or sets the default cell padding."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/table/defaultcellpadding/"

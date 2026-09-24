@@ -2,8 +2,8 @@
 title: "HtmlToPdfOptions.HtmlMediaType"
 linktitle: "HtmlMediaType"
 articleTitle: "HtmlMediaType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets possible media types used during rendering."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlToPdfOptions property. Gets or sets possible media types used during rendering."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/htmlmediatype/"

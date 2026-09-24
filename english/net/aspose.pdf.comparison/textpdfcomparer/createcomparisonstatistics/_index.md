@@ -2,8 +2,8 @@
 title: "TextPdfComparer.CreateComparisonStatistics"
 linktitle: "CreateComparisonStatistics"
 articleTitle: "CreateComparisonStatistics"
-second_title: "Aspose.PDF for .NET"
-description: "Gets comparison statistics."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Gets comparison statistics."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/"

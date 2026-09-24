@@ -2,8 +2,8 @@
 title: "TiffOptions.TiffOptions"
 linktitle: "TiffOptions"
 articleTitle: "TiffOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TiffOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffOptions constructor. Initializes a new instance of the TiffOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tiffoptions/tiffoptions/"

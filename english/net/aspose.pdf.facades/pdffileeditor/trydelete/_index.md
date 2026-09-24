@@ -2,8 +2,8 @@
 title: "PdfFileEditor.TryDelete"
 linktitle: "TryDelete"
 articleTitle: "TryDelete"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes pages specified by number array from input file, saves as a new Pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Deletes pages specified by number array from input file, saves as a new Pdf file."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdffileeditor/trydelete/"

@@ -2,8 +2,8 @@
 title: "LineAnnotation.LeaderLineOffset"
 linktitle: "LeaderLineOffset"
 articleTitle: "LeaderLineOffset"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets leader line offset."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets leader line offset."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/lineannotation/leaderlineoffset/"

@@ -2,8 +2,8 @@
 title: "FormFieldOptions.AlternateName"
 linktitle: "AlternateName"
 articleTitle: "AlternateName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine property AlternateName for created/modified field (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldOptions property. Gets/sets the value to determine property AlternateName for created/modified field (if will be set)."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.lowcode/formfieldoptions/alternatename/"

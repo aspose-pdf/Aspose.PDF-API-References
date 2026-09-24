@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions Class"
 linktitle: "MarkdownSaveOptions"
 articleTitle: "MarkdownSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the document save option class in the markdown format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.MarkdownSaveOptions class. Represents the document save option class in the markdown format."
 type: docs
 weight: 1860
 url: "/net/aspose.pdf/markdownsaveoptions/"

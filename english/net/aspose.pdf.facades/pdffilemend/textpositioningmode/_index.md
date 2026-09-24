@@ -2,8 +2,8 @@
 title: "PdfFileMend.TextPositioningMode"
 linktitle: "TextPositioningMode"
 articleTitle: "TextPositioningMode"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets text positioning strategy. Default mode is Legacy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend property. Sets or gets text positioning strategy. Default mode is Legacy."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdffilemend/textpositioningmode/"

@@ -2,8 +2,8 @@
 title: "TiffDevice.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Gets image output width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffDevice property. Gets image output width."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.devices/tiffdevice/width/"

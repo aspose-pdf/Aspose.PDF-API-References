@@ -2,8 +2,8 @@
 title: "LevelFormat.TextState"
 linktitle: "TextState"
 articleTitle: "TextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list level text state"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LevelFormat property. Gets or sets a list level text state"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/levelformat/textstate/"

@@ -2,8 +2,8 @@
 title: "ShowText.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Produces text code of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ShowText method. Produces text code of operator."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/showtext/tostring/"

@@ -2,8 +2,8 @@
 title: "FormEditor.DecorateField"
 linktitle: "DecorateField"
 articleTitle: "DecorateField"
-second_title: "Aspose.PDF for .NET"
-description: "Changes visual attributes of the specified field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Changes visual attributes of the specified field."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/formeditor/decoratefield/"

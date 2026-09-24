@@ -2,8 +2,8 @@
 title: "SvgLoadOptions.ConversionEngine"
 linktitle: "ConversionEngine"
 articleTitle: "ConversionEngine"
-second_title: "Aspose.PDF for .NET"
-description: "Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to Conversion..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgLoadOptions field. Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by def..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/svgloadoptions/conversionengine/"

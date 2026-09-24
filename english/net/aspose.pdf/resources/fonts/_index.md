@@ -2,8 +2,8 @@
 title: "Resources.Fonts"
 linktitle: "Fonts"
 articleTitle: "Fonts"
-second_title: "Aspose.PDF for .NET"
-description: "Gets resources collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resources property. Gets resources collection"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/resources/fonts/"

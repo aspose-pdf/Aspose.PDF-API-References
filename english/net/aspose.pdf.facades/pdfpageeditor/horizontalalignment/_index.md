@@ -2,8 +2,8 @@
 title: "PdfPageEditor.HorizontalAlignment"
 linktitle: "HorizontalAlignment"
 articleTitle: "HorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor property. Gets or sets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfpageeditor/horizontalalignment/"

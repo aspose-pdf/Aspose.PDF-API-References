@@ -2,8 +2,8 @@
 title: "SetWordSpacing.SetWordSpacing"
 linktitle: "SetWordSpacing"
 articleTitle: "SetWordSpacing"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetWordSpacing class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetWordSpacing constructor. Initializes a new instance of the SetWordSpacing class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setwordspacing/setwordspacing/"

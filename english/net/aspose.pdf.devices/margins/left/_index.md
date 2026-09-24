@@ -2,8 +2,8 @@
 title: "Margins.Left"
 linktitle: "Left"
 articleTitle: "Left"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the left."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Margins property. Gets or sets the left."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.devices/margins/left/"

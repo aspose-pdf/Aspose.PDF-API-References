@@ -2,8 +2,8 @@
 title: "Outlines.Outlines"
 linktitle: "Outlines"
 articleTitle: "Outlines"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Outlines class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Outlines constructor. Initializes a new instance of the Outlines class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/outlines/outlines/"

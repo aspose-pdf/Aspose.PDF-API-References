@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies the elements of the dictionary to an Array, starting at a particular Array index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method. Copies the elements of the dictionary to an Array, starting at a particular Array index."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/appearancedictionary/copyto/"

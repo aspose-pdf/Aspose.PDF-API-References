@@ -2,8 +2,8 @@
 title: "TableAbsorber.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts tables on the specified page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber method. Extracts tables on the specified page"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/tableabsorber/visit/"

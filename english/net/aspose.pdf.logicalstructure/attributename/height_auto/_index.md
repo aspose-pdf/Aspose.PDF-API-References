@@ -2,8 +2,8 @@
 title: "AttributeName.Height_Auto"
 linktitle: "Height_Auto"
 articleTitle: "Height_Auto"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Height: Auto - The element's height shall be determined by the intrinsic height of its content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Height: Auto - The element's height shall be determined by the intrinsic height of its content."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.logicalstructure/attributename/height_auto/"

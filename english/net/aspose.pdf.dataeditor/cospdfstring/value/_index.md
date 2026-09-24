@@ -2,8 +2,8 @@
 title: "CosPdfString.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the string (ANSII)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfString property. Gets the string (ANSII)."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.dataeditor/cospdfstring/value/"

@@ -2,8 +2,8 @@
 title: "Artifact.Image"
 linktitle: "Image"
 articleTitle: "Image"
-second_title: "Aspose.PDF for .NET"
-description: "Gets image of the artifact (if presents)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets image of the artifact (if presents)."
 type: docs
 weight: 320
 url: "/net/aspose.pdf/artifact/image/"

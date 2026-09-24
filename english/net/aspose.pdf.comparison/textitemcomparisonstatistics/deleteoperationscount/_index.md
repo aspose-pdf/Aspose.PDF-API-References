@@ -2,8 +2,8 @@
 title: "TextItemComparisonStatistics.DeleteOperationsCount"
 linktitle: "DeleteOperationsCount"
 articleTitle: "DeleteOperationsCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the number of delete operations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextItemComparisonStatistics property. Gets and sets the number of delete operations."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/"

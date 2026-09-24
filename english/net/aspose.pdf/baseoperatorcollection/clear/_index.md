@@ -2,8 +2,8 @@
 title: "BaseOperatorCollection.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Clears collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection method. Clears collection."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/baseoperatorcollection/clear/"

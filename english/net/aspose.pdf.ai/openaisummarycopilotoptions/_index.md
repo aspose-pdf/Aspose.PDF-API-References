@@ -2,8 +2,8 @@
 title: "OpenAISummaryCopilotOptions Class"
 linktitle: "OpenAISummaryCopilotOptions"
 articleTitle: "OpenAISummaryCopilotOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the options for configuring the OpenAICopilot."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAISummaryCopilotOptions class. Represents the options for configuring the OpenAICopilot."
 type: docs
 weight: 1010
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/"

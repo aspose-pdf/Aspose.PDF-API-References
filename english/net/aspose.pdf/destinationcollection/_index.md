@@ -2,8 +2,8 @@
 title: "DestinationCollection Class"
 linktitle: "DestinationCollection"
 articleTitle: "DestinationCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, \"Named Destinations\") and (see 7.7.4, \"N..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DestinationCollection class. Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, ..."
 type: docs
 weight: 540
 url: "/net/aspose.pdf/destinationcollection/"

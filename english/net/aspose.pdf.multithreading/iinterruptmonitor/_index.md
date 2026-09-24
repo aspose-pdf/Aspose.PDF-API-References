@@ -2,8 +2,8 @@
 title: "IInterruptMonitor Interface"
 linktitle: "IInterruptMonitor"
 articleTitle: "IInterruptMonitor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents information about interruption."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Multithreading.IInterruptMonitor interface. Represents information about interruption."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.multithreading/iinterruptmonitor/"

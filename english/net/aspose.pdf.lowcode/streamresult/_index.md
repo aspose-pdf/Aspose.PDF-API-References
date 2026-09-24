@@ -2,8 +2,8 @@
 title: "StreamResult Class"
 linktitle: "StreamResult"
 articleTitle: "StreamResult"
-second_title: "Aspose.PDF for .NET"
-description: "Represents operation result in the form of Stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.StreamResult class. Represents operation result in the form of Stream."
 type: docs
 weight: 890
 url: "/net/aspose.pdf.lowcode/streamresult/"

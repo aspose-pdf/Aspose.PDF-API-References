@@ -2,8 +2,8 @@
 title: "ITextElement.SetText"
 linktitle: "SetText"
 articleTitle: "SetText"
-second_title: "Aspose.PDF for .NET"
-description: "Appends text content to current text element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITextElement method. Appends text content to current text element."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/itextelement/settext/"

@@ -2,8 +2,8 @@
 title: "MoveTo Class"
 linktitle: "MoveTo"
 articleTitle: "MoveTo"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing m operator (move to and begin new subpath)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.MoveTo class. Class representing m operator (move to and begin new subpath)."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.operators/moveto/"

@@ -2,8 +2,8 @@
 title: "TextStamp.createXForm"
 linktitle: "createXForm"
 articleTitle: "createXForm"
-second_title: "Aspose.PDF for .NET"
-description: "Creates XForm which contains operators for text output."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp method. Creates XForm which contains operators for text output."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/textstamp/createxform/"

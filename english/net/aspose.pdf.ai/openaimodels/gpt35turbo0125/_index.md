@@ -2,8 +2,8 @@
 title: "OpenAIModels.Gpt35Turbo0125"
 linktitle: "Gpt35Turbo0125"
 articleTitle: "Gpt35Turbo0125"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the identifier for the GPT-3.5 Turbo 0125 model."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIModels property. Gets the identifier for the GPT-3.5 Turbo 0125 model."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaimodels/gpt35turbo0125/"

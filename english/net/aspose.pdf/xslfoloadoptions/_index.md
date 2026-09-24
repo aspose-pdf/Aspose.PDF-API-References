@@ -2,8 +2,8 @@
 title: "XslFoLoadOptions Class"
 linktitle: "XslFoLoadOptions"
 articleTitle: "XslFoLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for loading/importing XSL-FO file into pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XslFoLoadOptions class. Represents options for loading/importing XSL-FO file into pdf document."
 type: docs
 weight: 3380
 url: "/net/aspose.pdf/xslfoloadoptions/"

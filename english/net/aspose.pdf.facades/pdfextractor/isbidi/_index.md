@@ -2,8 +2,8 @@
 title: "PdfExtractor.IsBidi"
 linktitle: "IsBidi"
 articleTitle: "IsBidi"
-second_title: "Aspose.PDF for .NET"
-description: "Is true when text has hebriew or arabic symbols. This case must be specially considered because string functions change their behaviour and start process tex..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Is true when text has hebriew or arabic symbols. This case must be specially considered because string functions change their behaviou..."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdfextractor/isbidi/"

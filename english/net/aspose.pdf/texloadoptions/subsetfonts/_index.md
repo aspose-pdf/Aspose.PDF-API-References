@@ -2,8 +2,8 @@
 title: "TeXLoadOptions.SubsetFonts"
 linktitle: "SubsetFonts"
 articleTitle: "SubsetFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the flag indicating whether to subset fonts in output file or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXLoadOptions property. Gets/sets the flag indicating whether to subset fonts in output file or not."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/texloadoptions/subsetfonts/"

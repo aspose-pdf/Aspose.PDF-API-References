@@ -2,8 +2,8 @@
 title: "TabStop.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the tab stop position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStop property. Gets or sets a float value that indicates the tab stop position."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/tabstop/position/"

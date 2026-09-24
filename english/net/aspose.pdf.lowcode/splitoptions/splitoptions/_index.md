@@ -2,8 +2,8 @@
 title: "SplitOptions.SplitOptions"
 linktitle: "SplitOptions"
 articleTitle: "SplitOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SplitOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SplitOptions constructor. Initializes a new instance of the SplitOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/splitoptions/splitoptions/"

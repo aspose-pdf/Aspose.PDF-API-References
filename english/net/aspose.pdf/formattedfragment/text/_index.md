@@ -2,8 +2,8 @@
 title: "FormattedFragment.text"
 linktitle: "text"
 articleTitle: "text"
-second_title: "Aspose.PDF for .NET"
-description: "Text value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedFragment field. Text value."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/formattedfragment/text/"

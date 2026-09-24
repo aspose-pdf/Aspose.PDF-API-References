@@ -2,8 +2,8 @@
 title: "TextParagraph.TextParagraph"
 linktitle: "TextParagraph"
 articleTitle: "TextParagraph"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextParagraph class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph constructor. Initializes a new instance of the TextParagraph class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textparagraph/textparagraph/"

@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.UnitLabel"
 linktitle: "UnitLabel"
 articleTitle: "UnitLabel"
-second_title: "Aspose.PDF for .NET"
-description: "A text string specifying a label for displaying the units."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. A text string specifying a label for displaying the units."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/measure.numberformat/unitlabel/"

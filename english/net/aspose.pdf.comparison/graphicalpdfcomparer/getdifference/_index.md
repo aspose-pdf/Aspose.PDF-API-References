@@ -2,8 +2,8 @@
 title: "GraphicalPdfComparer.GetDifference"
 linktitle: "GetDifference"
 articleTitle: "GetDifference"
-second_title: "Aspose.PDF for .NET"
-description: "Gets differences between pages images. The result contains an image of the first page compared and an array of differences."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer method. Gets differences between pages images. The result contains an image of the first page compared and an array of differences."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/"

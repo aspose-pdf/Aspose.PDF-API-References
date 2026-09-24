@@ -2,8 +2,8 @@
 title: "PdfFileEditor.SplitToBulks"
 linktitle: "SplitToBulks"
 articleTitle: "SplitToBulks"
-second_title: "Aspose.PDF for .NET"
-description: "Splits the Pdf file into several documents.The documents can be single-page or multi-pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits the Pdf file into several documents.The documents can be single-page or multi-pages."
 type: docs
 weight: 850
 url: "/net/aspose.pdf.facades/pdffileeditor/splittobulks/"

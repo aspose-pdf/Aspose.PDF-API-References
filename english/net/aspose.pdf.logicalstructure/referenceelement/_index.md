@@ -2,8 +2,8 @@
 title: "ReferenceElement Class"
 linktitle: "ReferenceElement"
 articleTitle: "ReferenceElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Reference structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.ReferenceElement class. Represents Reference structure element in logical structure."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.logicalstructure/referenceelement/"

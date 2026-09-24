@@ -2,8 +2,8 @@
 title: "Stamp.BindLogo"
 linktitle: "BindLogo"
 articleTitle: "BindLogo"
-second_title: "Aspose.PDF for .NET"
-description: "Sets text as stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Sets text as stamp."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/stamp/bindlogo/"

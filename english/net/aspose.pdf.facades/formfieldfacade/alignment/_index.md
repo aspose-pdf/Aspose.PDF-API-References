@@ -2,8 +2,8 @@
 title: "FormFieldFacade.Alignment"
 linktitle: "Alignment"
 articleTitle: "Alignment"
-second_title: "Aspose.PDF for .NET"
-description: "The alignment of a field text, default is left alignment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The alignment of a field text, default is left alignment."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/formfieldfacade/alignment/"

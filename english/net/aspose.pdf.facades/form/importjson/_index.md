@@ -2,8 +2,8 @@
 title: "Form.ImportJson"
 linktitle: "ImportJson"
 articleTitle: "ImportJson"
-second_title: "Aspose.PDF for .NET"
-description: "Imports all field data from a JSON stream into the document fields, matching the fields by their full names."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Imports all field data from a JSON stream into the document fields, matching the fields by their full names."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.facades/form/importjson/"

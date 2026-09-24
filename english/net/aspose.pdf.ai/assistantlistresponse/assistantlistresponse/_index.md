@@ -2,8 +2,8 @@
 title: "AssistantListResponse.AssistantListResponse"
 linktitle: "AssistantListResponse"
 articleTitle: "AssistantListResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the AssistantListResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantListResponse constructor. Initializes a new instance of the AssistantListResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/assistantlistresponse/assistantlistresponse/"

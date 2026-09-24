@@ -2,8 +2,8 @@
 title: "CurveTo.Y2"
 linktitle: "Y2"
 articleTitle: "Y2"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Y2 coordinate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CurveTo field. Gets or sets the Y2 coordinate."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.operators/curveto/y2/"

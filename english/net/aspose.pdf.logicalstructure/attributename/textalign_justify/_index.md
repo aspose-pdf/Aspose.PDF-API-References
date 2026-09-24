@@ -2,8 +2,8 @@
 title: "AttributeName.TextAlign_Justify"
 linktitle: "TextAlign_Justify"
 articleTitle: "TextAlign_Justify"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute TextAlign: Justify - Aligned with both the start and end edges, with internal spacing within each line expanded, if necessary, to achieve such alig..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute TextAlign: Justify - Aligned with both the start and end edges, with internal spacing within each line expanded, if necessary,..."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.logicalstructure/attributename/textalign_justify/"

@@ -2,8 +2,8 @@
 title: "SoundSampleData.DefaultOfSoundChannels"
 linktitle: "DefaultOfSoundChannels"
 articleTitle: "DefaultOfSoundChannels"
-second_title: "Aspose.PDF for .NET"
-description: "Default value for Channels parameter."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundSampleData field. Default value for Channels parameter."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/"

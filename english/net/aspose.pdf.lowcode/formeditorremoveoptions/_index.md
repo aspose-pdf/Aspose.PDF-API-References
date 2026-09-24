@@ -2,8 +2,8 @@
 title: "FormEditorRemoveOptions Class"
 linktitle: "FormEditorRemoveOptions"
 articleTitle: "FormEditorRemoveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Base class for option classes for remove fields in document by plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormEditorRemoveOptions class. Base class for option classes for remove fields in document by plugin."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.lowcode/formeditorremoveoptions/"

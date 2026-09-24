@@ -2,8 +2,8 @@
 title: "IQueryParameters Interface"
 linktitle: "IQueryParameters"
 articleTitle: "IQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Represents query parameters for API requests."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IQueryParameters interface. Represents query parameters for API requests."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.ai/iqueryparameters/"

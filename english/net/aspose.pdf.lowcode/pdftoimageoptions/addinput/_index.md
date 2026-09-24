@@ -2,8 +2,8 @@
 title: "PdfToImageOptions.AddInput"
 linktitle: "AddInput"
 articleTitle: "AddInput"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new data source to the plugin data collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImageOptions method. Adds new data source to the plugin data collection."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/addinput/"

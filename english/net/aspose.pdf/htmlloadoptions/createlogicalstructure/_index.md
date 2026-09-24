@@ -2,8 +2,8 @@
 title: "HtmlLoadOptions.CreateLogicalStructure"
 linktitle: "CreateLogicalStructure"
 articleTitle: "CreateLogicalStructure"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether to create a logical structure in the resulting PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions property. Gets or sets a value indicating whether to create a logical structure in the resulting PDF document."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/htmlloadoptions/createlogicalstructure/"

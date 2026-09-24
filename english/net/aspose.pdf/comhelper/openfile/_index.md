@@ -2,8 +2,8 @@
 title: "ComHelper.OpenFile"
 linktitle: "OpenFile"
 articleTitle: "OpenFile"
-second_title: "Aspose.PDF for .NET"
-description: "Just create and return Document using . The same as ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComHelper method. Just create and return Document using . The same as ."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/comhelper/openfile/"

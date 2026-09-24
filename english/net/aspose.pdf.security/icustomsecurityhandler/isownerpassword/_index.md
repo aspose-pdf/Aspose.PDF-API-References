@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.IsOwnerPassword"
 linktitle: "IsOwnerPassword"
 articleTitle: "IsOwnerPassword"
-second_title: "Aspose.PDF for .NET"
-description: "Check if the password is the document owner's password. The method is called after Initialize. The method call is used in the PDF API."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Check if the password is the document owner's password. The method is called after Initialize. The method call is used in the ..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.security/icustomsecurityhandler/isownerpassword/"

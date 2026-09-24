@@ -2,8 +2,8 @@
 title: "HtmlLoadOptions.PageLayoutOption"
 linktitle: "PageLayoutOption"
 articleTitle: "PageLayoutOption"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets layout option."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions property. Gets or sets layout option."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/htmlloadoptions/pagelayoutoption/"

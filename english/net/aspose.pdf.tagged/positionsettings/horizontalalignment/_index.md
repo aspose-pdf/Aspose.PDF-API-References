@@ -2,8 +2,8 @@
 title: "PositionSettings.HorizontalAlignment"
 linktitle: "HorizontalAlignment"
 articleTitle: "HorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a horizontal alignment of paragraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PositionSettings property. Gets or sets a horizontal alignment of paragraph."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.tagged/positionsettings/horizontalalignment/"

@@ -2,8 +2,8 @@
 title: "BasicSetColorOperator.G"
 linktitle: "G"
 articleTitle: "G"
-second_title: "Aspose.PDF for .NET"
-description: "Gets green component of color"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BasicSetColorOperator property. Gets green component of color"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/g/"

@@ -2,8 +2,8 @@
 title: "Document.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Closes all resources used by this document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Closes all resources used by this document."
 type: docs
 weight: 800
 url: "/net/aspose.pdf/document/dispose/"

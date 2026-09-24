@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.RedactArea"
 linktitle: "RedactArea"
 articleTitle: "RedactArea"
-second_title: "Aspose.PDF for .NET"
-description: "Redacts area on the specified page. All contents is removed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Redacts area on the specified page. All contents is removed."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdfannotationeditor/redactarea/"

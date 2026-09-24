@@ -2,8 +2,8 @@
 title: "Arc Class"
 linktitle: "Arc"
 articleTitle: "Arc"
-second_title: "Aspose.PDF for .NET"
-description: "Represents arc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.Arc class. Represents arc."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.drawing/arc/"

@@ -2,8 +2,8 @@
 title: "Stamp.BindImage"
 linktitle: "BindImage"
 articleTitle: "BindImage"
-second_title: "Aspose.PDF for .NET"
-description: "Sets image as a stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Sets image as a stamp."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/stamp/bindimage/"

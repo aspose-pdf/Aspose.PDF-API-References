@@ -2,8 +2,8 @@
 title: "StructureTextState.Font"
 linktitle: "Font"
 articleTitle: "Font"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the font of text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets the font of text."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/font/"

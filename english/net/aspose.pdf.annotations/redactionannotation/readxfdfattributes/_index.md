@@ -2,8 +2,8 @@
 title: "RedactionAnnotation.ReadXfdfAttributes"
 linktitle: "ReadXfdfAttributes"
 articleTitle: "ReadXfdfAttributes"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RedactionAnnotation method."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/redactionannotation/readxfdfattributes/"

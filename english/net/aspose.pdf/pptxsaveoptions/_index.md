@@ -2,8 +2,8 @@
 title: "PptxSaveOptions Class"
 linktitle: "PptxSaveOptions"
 articleTitle: "PptxSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Save options for export to SVG format"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PptxSaveOptions class. Save options for export to SVG format"
 type: docs
 weight: 2570
 url: "/net/aspose.pdf/pptxsaveoptions/"

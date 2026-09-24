@@ -2,8 +2,8 @@
 title: "GS.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GS method. Returns string representation of operator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/gs/tostring/"

@@ -2,8 +2,8 @@
 title: "MovieAnnotation.Poster"
 linktitle: "Poster"
 articleTitle: "Poster"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retriev..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MovieAnnotation property. Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the pos..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/movieannotation/poster/"

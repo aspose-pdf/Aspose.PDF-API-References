@@ -2,8 +2,8 @@
 title: "PdfConverterOptions.OperationName"
 linktitle: "OperationName"
 articleTitle: "OperationName"
-second_title: "Aspose.PDF for .NET"
-description: "Returns operation name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverterOptions property. Returns operation name."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/pdfconverteroptions/operationname/"

@@ -2,8 +2,8 @@
 title: "Field.AnnotationIndex"
 linktitle: "AnnotationIndex"
 articleTitle: "AnnotationIndex"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets index of this anotation on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Gets or sets index of this anotation on the page."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.forms/field/annotationindex/"

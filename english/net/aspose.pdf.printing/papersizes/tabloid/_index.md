@@ -2,8 +2,8 @@
 title: "PaperSizes.Tabloid"
 linktitle: "Tabloid"
 articleTitle: "Tabloid"
-second_title: "Aspose.PDF for .NET"
-description: "Tabloid paper (11 in. by 17 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Tabloid paper (11 in. by 17 in.)."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/papersizes/tabloid/"

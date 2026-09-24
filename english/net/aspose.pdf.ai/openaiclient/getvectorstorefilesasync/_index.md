@@ -2,8 +2,8 @@
 title: "OpenAIClient.GetVectorStoreFilesAsync"
 linktitle: "GetVectorStoreFilesAsync"
 articleTitle: "GetVectorStoreFilesAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves a list of files within a specific vector store asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves a list of files within a specific vector store asynchronously."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaiclient/getvectorstorefilesasync/"

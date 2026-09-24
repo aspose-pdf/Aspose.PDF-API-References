@@ -2,8 +2,8 @@
 title: "Matrix.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Compares matrix agains other object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Compares matrix agains other object."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/matrix/equals/"

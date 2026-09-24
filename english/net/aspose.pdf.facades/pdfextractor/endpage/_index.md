@@ -2,8 +2,8 @@
 title: "PdfExtractor.EndPage"
 linktitle: "EndPage"
 articleTitle: "EndPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets end page in the page range where extracting operation will be performed. PdfExtractor ext = new PdfExtractor(); ext.BindBdf(\"sample.pdf\"); ext.S..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Gets or sets end page in the page range where extracting operation will be performed. PdfExtractor ext = new PdfExtractor(); ext.BindB..."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdfextractor/endpage/"

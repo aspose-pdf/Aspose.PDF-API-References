@@ -2,8 +2,8 @@
 title: "XmpValue.ToStructure"
 linktitle: "ToStructure"
 articleTitle: "ToStructure"
-second_title: "Aspose.PDF for .NET"
-description: "Returns XMP value as structure (set of fields)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Returns XMP value as structure (set of fields)."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/xmpvalue/tostructure/"

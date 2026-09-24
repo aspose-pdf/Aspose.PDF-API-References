@@ -2,8 +2,8 @@
 title: "RenditionAction Class"
 linktitle: "RenditionAction"
 articleTitle: "RenditionAction"
-second_title: "Aspose.PDF for .NET"
-description: "A rendition action that controls the playing of multimedia content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RenditionAction class. A rendition action that controls the playing of multimedia content."
 type: docs
 weight: 1060
 url: "/net/aspose.pdf.annotations/renditionaction/"

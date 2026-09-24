@@ -2,8 +2,8 @@
 title: "ParagraphAbsorberOptions.SectionUnbreakingVerticalOverride"
 linktitle: "SectionUnbreakingVerticalOverride"
 articleTitle: "SectionUnbreakingVerticalOverride"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the maximum length of zone with 'zero filling level' that will not be treated as actual vertical section break (as a fraction of the width / hei..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ParagraphAbsorberOptions property. Gets or sets the maximum length of zone with 'zero filling level' that will not be treated as actual vertical section brea..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/paragraphabsorberoptions/sectionunbreakingverticaloverride/"

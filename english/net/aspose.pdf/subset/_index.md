@@ -2,8 +2,8 @@
 title: "Subset Enum"
 linktitle: "Subset"
 articleTitle: "Subset"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the subset of pages to which a pagination artifact can apply."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Subset enum. Represents the subset of pages to which a pagination artifact can apply."
 type: docs
 weight: 2860
 url: "/net/aspose.pdf/subset/"

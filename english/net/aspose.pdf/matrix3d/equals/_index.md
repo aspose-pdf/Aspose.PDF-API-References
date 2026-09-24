@@ -2,8 +2,8 @@
 title: "Matrix3D.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Compares matrix against other object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix3D method. Compares matrix against other object."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/matrix3d/equals/"

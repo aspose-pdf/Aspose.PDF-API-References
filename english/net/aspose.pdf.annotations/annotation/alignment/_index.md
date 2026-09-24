@@ -2,8 +2,8 @@
 title: "Annotation.Alignment"
 linktitle: "Alignment"
 articleTitle: "Alignment"
-second_title: "Aspose.PDF for .NET"
-description: "Annotation alignment. This property is obsolete. Use HorizontalAligment instead."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Annotation alignment. This property is obsolete. Use HorizontalAligment instead."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.annotations/annotation/alignment/"

@@ -2,8 +2,8 @@
 title: "DocMDPAccessPermissions Enum"
 linktitle: "DocMDPAccessPermissions"
 articleTitle: "DocMDPAccessPermissions"
-second_title: "Aspose.PDF for .NET"
-description: "The access permissions granted for this document. Valid values are: 1 - No changes to the document are permitted; any change to the document invalidates the ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.DocMDPAccessPermissions enum. The access permissions granted for this document. Valid values are: 1 - No changes to the document are permitt..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/docmdpaccesspermissions/"

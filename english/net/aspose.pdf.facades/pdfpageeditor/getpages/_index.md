@@ -2,8 +2,8 @@
 title: "PdfPageEditor.GetPages"
 linktitle: "GetPages"
 articleTitle: "GetPages"
-second_title: "Aspose.PDF for .NET"
-description: "Returns total number of pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Returns total number of pages."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpages/"

@@ -2,8 +2,8 @@
 title: "PdfViewer.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves the result PDF document to file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Saves the result PDF document to file."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfviewer/save/"

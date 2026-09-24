@@ -2,8 +2,8 @@
 title: "PageExtensions.DuplicateIntersectingGraphics"
 linktitle: "DuplicateIntersectingGraphics"
 articleTitle: "DuplicateIntersectingGraphics"
-second_title: "Aspose.PDF for .NET"
-description: "Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageExtensions method. Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pageextensions/duplicateintersectinggraphics/"

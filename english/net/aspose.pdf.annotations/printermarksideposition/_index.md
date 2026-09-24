@@ -2,8 +2,8 @@
 title: "PrinterMarkSidePosition Enum"
 linktitle: "PrinterMarkSidePosition"
 articleTitle: "PrinterMarkSidePosition"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a position of a registration mark on a page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PrinterMarkSidePosition enum. Represents a position of a registration mark on a page."
 type: docs
 weight: 990
 url: "/net/aspose.pdf.annotations/printermarksideposition/"

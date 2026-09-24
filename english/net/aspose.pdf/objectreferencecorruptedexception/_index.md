@@ -2,8 +2,8 @@
 title: "ObjectReferenceCorruptedException Class"
 linktitle: "ObjectReferenceCorruptedException"
 articleTitle: "ObjectReferenceCorruptedException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an exception that is thrown when an object reference in a PDF document is found to be corrupted. That means there is no object pointed to by the l..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ObjectReferenceCorruptedException class. Represents an exception that is thrown when an object reference in a PDF document is found to be corrupte..."
 type: docs
 weight: 1980
 url: "/net/aspose.pdf/objectreferencecorruptedexception/"

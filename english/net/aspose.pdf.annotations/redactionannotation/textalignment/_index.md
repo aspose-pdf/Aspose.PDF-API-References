@@ -2,8 +2,8 @@
 title: "RedactionAnnotation.TextAlignment"
 linktitle: "TextAlignment"
 articleTitle: "TextAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets. Alignment of Overlay Text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RedactionAnnotation property. Gets or sets. Alignment of Overlay Text."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/redactionannotation/textalignment/"

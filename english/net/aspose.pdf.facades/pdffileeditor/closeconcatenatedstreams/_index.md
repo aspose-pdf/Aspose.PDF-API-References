@@ -2,8 +2,8 @@
 title: "PdfFileEditor.CloseConcatenatedStreams"
 linktitle: "CloseConcatenatedStreams"
 articleTitle: "CloseConcatenatedStreams"
-second_title: "Aspose.PDF for .NET"
-description: "If set to true, streams are closed after operation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. If set to true, streams are closed after operation."
 type: docs
 weight: 1150
 url: "/net/aspose.pdf.facades/pdffileeditor/closeconcatenatedstreams/"

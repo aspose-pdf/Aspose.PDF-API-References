@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.SetCreaseValue"
 linktitle: "SetCreaseValue"
 articleTitle: "SetCreaseValue"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the crease value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode method. Sets the crease value."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/"

@@ -2,8 +2,8 @@
 title: "ParagraphAbsorber.SectionsSearchDepth"
 linktitle: "SectionsSearchDepth"
 articleTitle: "SectionsSearchDepth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value that instructs how many times sequential searches for more fine elements of structure will be performed. Default search depth is 3. It mea..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ParagraphAbsorber property. Gets or sets value that instructs how many times sequential searches for more fine elements of structure will be performed. Defau..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/paragraphabsorber/sectionssearchdepth/"

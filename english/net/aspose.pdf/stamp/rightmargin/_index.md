@@ -2,8 +2,8 @@
 title: "Stamp.RightMargin"
 linktitle: "RightMargin"
 articleTitle: "RightMargin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets right margin of stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets right margin of stamp."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/stamp/rightmargin/"

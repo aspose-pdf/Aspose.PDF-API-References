@@ -2,8 +2,8 @@
 title: "RunStepDetails.RunStepType"
 linktitle: "RunStepType"
 articleTitle: "RunStepType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the type of run step."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepDetails property. Gets or sets the type of run step."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/runstepdetails/runsteptype/"

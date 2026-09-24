@@ -2,8 +2,8 @@
 title: "PdfProducer.Produce"
 linktitle: "Produce"
 articleTitle: "Produce"
-second_title: "Aspose.PDF for .NET"
-description: "Produce the PDF stream using specified import format. This sample shows how to produce Pdf stream from CGM stream. string inputFile = \"myImage.cgm\"; string o..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfProducer method. Produce the PDF stream using specified import format. This sample shows how to produce Pdf stream from CGM stream. string inputFile = \"my..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdfproducer/produce/"

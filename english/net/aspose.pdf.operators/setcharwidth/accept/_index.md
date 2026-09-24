@@ -2,8 +2,8 @@
 title: "SetCharWidth.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor object to process operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidth method. Accepts visitor object to process operator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/setcharwidth/accept/"

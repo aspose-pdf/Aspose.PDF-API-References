@@ -2,8 +2,8 @@
 title: "XImage.GetColorType"
 linktitle: "GetColorType"
 articleTitle: "GetColorType"
-second_title: "Aspose.PDF for .NET"
-description: "Returns color type of image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Returns color type of image."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/ximage/getcolortype/"

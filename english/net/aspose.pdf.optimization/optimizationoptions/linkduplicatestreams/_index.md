@@ -2,8 +2,8 @@
 title: "OptimizationOptions.LinkDuplicateStreams"
 linktitle: "LinkDuplicateStreams"
 articleTitle: "LinkDuplicateStreams"
-second_title: "Aspose.PDF for .NET"
-description: "If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizationOptions property. If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equa..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.optimization/optimizationoptions/linkduplicatestreams/"

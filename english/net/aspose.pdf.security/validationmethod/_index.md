@@ -2,8 +2,8 @@
 title: "ValidationMethod Enum"
 linktitle: "ValidationMethod"
 articleTitle: "ValidationMethod"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an enum defined the method used for certificate validation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.ValidationMethod enum. Represents an enum defined the method used for certificate validation."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.security/validationmethod/"

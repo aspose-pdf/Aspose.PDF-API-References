@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilotOptions.WithSystemInstructions"
 linktitle: "WithSystemInstructions"
 articleTitle: "WithSystemInstructions"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the instructions for the ocr copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Sets the instructions for the ocr copilot options."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withsysteminstructions/"

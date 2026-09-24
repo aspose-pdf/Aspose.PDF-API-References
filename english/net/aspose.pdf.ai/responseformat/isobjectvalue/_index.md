@@ -2,8 +2,8 @@
 title: "ResponseFormat.IsObjectValue"
 linktitle: "IsObjectValue"
 articleTitle: "IsObjectValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the response format is an object value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResponseFormat property. Gets a value indicating whether the response format is an object value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/responseformat/isobjectvalue/"

@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.FillIn"
 linktitle: "FillIn"
 articleTitle: "FillIn"
-second_title: "Aspose.PDF for .NET"
-description: "Allows filling forms in file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Allows filling forms in file."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/documentprivilege/fillin/"

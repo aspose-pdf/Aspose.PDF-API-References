@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled"
 linktitle: "CustomProcessingCancelled"
 articleTitle: "CustomProcessingCancelled"
-second_title: "Aspose.PDF for .NET"
-description: "Should be set by custom code if it cannot or should not define URL that will be used in generated HTML for referencing of that CSS. If it's 'true', then CSS ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CssUrlRequestInfo field. Should be set by custom code if it cannot or should not define URL that will be used in generated HTML for referencing of that CSS. ..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled/"

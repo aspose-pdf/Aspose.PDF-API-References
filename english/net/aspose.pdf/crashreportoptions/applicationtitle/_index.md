@@ -2,8 +2,8 @@
 title: "CrashReportOptions.ApplicationTitle"
 linktitle: "ApplicationTitle"
 articleTitle: "ApplicationTitle"
-second_title: "Aspose.PDF for .NET"
-description: "Name of library where exception occured."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CrashReportOptions property. Name of library where exception occured."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/crashreportoptions/applicationtitle/"

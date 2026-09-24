@@ -2,8 +2,8 @@
 title: "HeaderFooter.Paragraphs"
 linktitle: "Paragraphs"
 articleTitle: "Paragraphs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the end note paragraphs."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooter property. Gets or sets the end note paragraphs."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/headerfooter/paragraphs/"

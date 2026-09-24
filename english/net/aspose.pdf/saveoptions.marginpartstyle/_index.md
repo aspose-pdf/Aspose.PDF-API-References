@@ -2,8 +2,8 @@
 title: "SaveOptions.MarginPartStyle Class"
 linktitle: "SaveOptions.MarginPartStyle"
 articleTitle: "SaveOptions.MarginPartStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Represents information of one part of margin(top, botom, left side or right side)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SaveOptions.MarginPartStyle class. Represents information of one part of margin(top, botom, left side or right side)"
 type: docs
 weight: 2810
 url: "/net/aspose.pdf/saveoptions.marginpartstyle/"

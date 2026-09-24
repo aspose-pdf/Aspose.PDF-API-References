@@ -2,8 +2,8 @@
 title: "CompressionType Enum"
 linktitle: "CompressionType"
 articleTitle: "CompressionType"
-second_title: "Aspose.PDF for .NET"
-description: "Used to specify the parameter value passed to a Tiff image device."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.CompressionType enum. Used to specify the parameter value passed to a Tiff image device."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.devices/compressiontype/"

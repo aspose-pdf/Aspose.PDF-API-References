@@ -2,8 +2,8 @@
 title: "CharInfoCollection.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Collection is read-only. Always throws NotImplementedException."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CharInfoCollection method. Collection is read-only. Always throws NotImplementedException."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/charinfocollection/clear/"

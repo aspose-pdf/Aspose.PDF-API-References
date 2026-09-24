@@ -2,8 +2,8 @@
 title: "Bookmarks Class"
 linktitle: "Bookmarks"
 articleTitle: "Bookmarks"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a collection of objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.Bookmarks class. Represents a collection of objects."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/bookmarks/"

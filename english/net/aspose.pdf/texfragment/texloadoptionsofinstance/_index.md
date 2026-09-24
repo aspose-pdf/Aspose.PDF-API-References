@@ -2,8 +2,8 @@
 title: "TeXFragment.TeXLoadOptionsOfInstance"
 linktitle: "TeXLoadOptionsOfInstance"
 articleTitle: "TeXLoadOptionsOfInstance"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets TeXLoadOptions that will be used for loading (and rendering) of LaTeX into this instance of class. Please use it when it's necessary use specifi..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXFragment property. Gets or sets TeXLoadOptions that will be used for loading (and rendering) of LaTeX into this instance of class. Please use it when it's..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/texfragment/texloadoptionsofinstance/"

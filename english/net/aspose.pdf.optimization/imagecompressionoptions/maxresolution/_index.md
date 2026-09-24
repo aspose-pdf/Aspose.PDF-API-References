@@ -2,8 +2,8 @@
 title: "ImageCompressionOptions.MaxResolution"
 linktitle: "MaxResolution"
 articleTitle: "MaxResolution"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies maximum resolution of images. If image has higher resolution it will be scaled"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageCompressionOptions property. Specifies maximum resolution of images. If image has higher resolution it will be scaled"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/maxresolution/"

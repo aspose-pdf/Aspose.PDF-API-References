@@ -2,8 +2,8 @@
 title: "PageNumberStamp Class"
 linktitle: "PageNumberStamp"
 articleTitle: "PageNumberStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Represents page number stamp and used to number pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageNumberStamp class. Represents page number stamp and used to number pages."
 type: docs
 weight: 2300
 url: "/net/aspose.pdf/pagenumberstamp/"

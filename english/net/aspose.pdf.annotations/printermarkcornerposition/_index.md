@@ -2,8 +2,8 @@
 title: "PrinterMarkCornerPosition Enum"
 linktitle: "PrinterMarkCornerPosition"
 articleTitle: "PrinterMarkCornerPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a position of a mark in a corner of a page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PrinterMarkCornerPosition enum. Represents a position of a mark in a corner of a page."
 type: docs
 weight: 980
 url: "/net/aspose.pdf.annotations/printermarkcornerposition/"

@@ -2,8 +2,8 @@
 title: "Document.IgnoreCorruptedObjects"
 linktitle: "IgnoreCorruptedObjects"
 articleTitle: "IgnoreCorruptedObjects"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets flag of ignoring errors in source files. When pages from source document copied into destination document, copying process is stopped with excep..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets flag of ignoring errors in source files. When pages from source document copied into destination document, copying process is..."
 type: docs
 weight: 1570
 url: "/net/aspose.pdf/document/ignorecorruptedobjects/"

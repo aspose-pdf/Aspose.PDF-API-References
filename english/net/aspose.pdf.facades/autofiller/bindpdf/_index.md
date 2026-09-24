@@ -2,8 +2,8 @@
 title: "AutoFiller.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Binds a Pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller method. Binds a Pdf file."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/autofiller/bindpdf/"

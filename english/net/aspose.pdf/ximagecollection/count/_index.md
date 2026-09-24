@@ -2,8 +2,8 @@
 title: "XImageCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Count of images in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection property. Count of images in collection."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/ximagecollection/count/"

@@ -2,8 +2,8 @@
 title: "Table.DefaultColumnWidth"
 linktitle: "DefaultColumnWidth"
 articleTitle: "DefaultColumnWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets default cell border;"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table property. Gets default cell border;"
 type: docs
 weight: 200
 url: "/net/aspose.pdf/table/defaultcolumnwidth/"

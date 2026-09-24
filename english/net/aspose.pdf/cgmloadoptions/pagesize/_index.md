@@ -2,8 +2,8 @@
 title: "CgmLoadOptions.PageSize"
 linktitle: "PageSize"
 articleTitle: "PageSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets output page size for import."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CgmLoadOptions property. Gets or sets output page size for import."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/cgmloadoptions/pagesize/"

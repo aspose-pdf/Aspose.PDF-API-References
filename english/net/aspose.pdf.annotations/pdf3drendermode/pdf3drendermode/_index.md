@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.PDF3DRenderMode"
 linktitle: "PDF3DRenderMode"
 articleTitle: "PDF3DRenderMode"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PDF3DRenderMode class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode constructor. Initializes a new instance of the PDF3DRenderMode class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/"

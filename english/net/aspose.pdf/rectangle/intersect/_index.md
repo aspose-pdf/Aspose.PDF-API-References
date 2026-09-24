@@ -2,8 +2,8 @@
 title: "Rectangle.Intersect"
 linktitle: "Intersect"
 articleTitle: "Intersect"
-second_title: "Aspose.PDF for .NET"
-description: "Intersects to rectangles."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Intersects to rectangles."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/rectangle/intersect/"

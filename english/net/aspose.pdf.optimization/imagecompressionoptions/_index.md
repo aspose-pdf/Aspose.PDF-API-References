@@ -2,8 +2,8 @@
 title: "ImageCompressionOptions Class"
 linktitle: "ImageCompressionOptions"
 articleTitle: "ImageCompressionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Class contains set options for image compression."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Optimization.ImageCompressionOptions class. Class contains set options for image compression."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/"

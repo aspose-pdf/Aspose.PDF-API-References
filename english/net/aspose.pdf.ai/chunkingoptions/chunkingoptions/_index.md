@@ -2,8 +2,8 @@
 title: "ChunkingOptions.ChunkingOptions"
 linktitle: "ChunkingOptions"
 articleTitle: "ChunkingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ChunkingOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChunkingOptions constructor. Initializes a new instance of the ChunkingOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/chunkingoptions/chunkingoptions/"

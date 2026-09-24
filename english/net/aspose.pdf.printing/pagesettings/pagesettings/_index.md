@@ -2,8 +2,8 @@
 title: "PageSettings.PageSettings"
 linktitle: "PageSettings"
 articleTitle: "PageSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PageSettings class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings constructor. Initializes a new instance of the PageSettings class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/pagesettings/pagesettings/"

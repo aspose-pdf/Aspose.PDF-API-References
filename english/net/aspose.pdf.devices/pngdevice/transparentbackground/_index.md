@@ -2,8 +2,8 @@
 title: "PngDevice.TransparentBackground"
 linktitle: "TransparentBackground"
 articleTitle: "TransparentBackground"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets if image has transparent background."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PngDevice property. Gets or sets if image has transparent background."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.devices/pngdevice/transparentbackground/"

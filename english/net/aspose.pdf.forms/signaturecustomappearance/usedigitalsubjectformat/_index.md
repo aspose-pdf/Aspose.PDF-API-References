@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.UseDigitalSubjectFormat"
 linktitle: "UseDigitalSubjectFormat"
 articleTitle: "UseDigitalSubjectFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the usage state of the ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets the usage state of the ."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/"

@@ -2,8 +2,8 @@
 title: "SetDash Class"
 linktitle: "SetDash"
 articleTitle: "SetDash"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing d operator (set line dash pattern)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetDash class. Class representing d operator (set line dash pattern)."
 type: docs
 weight: 610
 url: "/net/aspose.pdf.operators/setdash/"

@@ -2,8 +2,8 @@
 title: "TableTRElement.CreateTH"
 linktitle: "CreateTH"
 articleTitle: "CreateTH"
-second_title: "Aspose.PDF for .NET"
-description: "Creates and added it to current table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableTRElement method. Creates and added it to current table."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/createth/"

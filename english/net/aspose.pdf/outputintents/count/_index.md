@@ -2,8 +2,8 @@
 title: "OutputIntents.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the number of output intents contained in the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntents property. Gets the number of output intents contained in the collection."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/outputintents/count/"

@@ -2,8 +2,8 @@
 title: "AttributeKey.RubyAlign"
 linktitle: "RubyAlign"
 articleTitle: "RubyAlign"
-second_title: "Aspose.PDF for .NET"
-description: "RubyAlign attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. RubyAlign attribute (Layout attribute owner)."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.logicalstructure/attributekey/rubyalign/"

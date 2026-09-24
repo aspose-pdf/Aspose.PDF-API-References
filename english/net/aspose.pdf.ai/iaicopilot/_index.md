@@ -2,8 +2,8 @@
 title: "IAICopilot Interface"
 linktitle: "IAICopilot"
 articleTitle: "IAICopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a copilot for AI interactions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IAICopilot interface. Represents a copilot for AI interactions."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.ai/iaicopilot/"

@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions.ImageDpi"
 linktitle: "ImageDpi"
 articleTitle: "ImageDpi"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the option to resolve page images during conversion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizationOptions property. Gets or sets the option to resolve page images during conversion."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/imagedpi/"

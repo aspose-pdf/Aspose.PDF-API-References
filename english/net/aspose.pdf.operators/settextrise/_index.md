@@ -2,8 +2,8 @@
 title: "SetTextRise Class"
 linktitle: "SetTextRise"
 articleTitle: "SetTextRise"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Ts operator (set text rise)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetTextRise class. Class representing Ts operator (set text rise)."
 type: docs
 weight: 770
 url: "/net/aspose.pdf.operators/settextrise/"

@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Art"
 linktitle: "Art"
 articleTitle: "Art"
-second_title: "Aspose.PDF for .NET"
-description: "(Article) A relatively self-contained body of text constituting a single narrative or exposition. Articles should be disjoint; that is, they should not conta..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Article) A relatively self-contained body of text constituting a single narrative or exposition. Articles should be disjoint; t..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/art/"

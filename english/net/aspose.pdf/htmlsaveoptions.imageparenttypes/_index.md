@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.ImageParentTypes Enum"
 linktitle: "HtmlSaveOptions.ImageParentTypes"
 articleTitle: "HtmlSaveOptions.ImageParentTypes"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates possible types of image's parents Image can pertain to HTML page or to SVG parent image"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.ImageParentTypes enum. Enumerates possible types of image's parents Image can pertain to HTML page or to SVG parent image"
 type: docs
 weight: 1320
 url: "/net/aspose.pdf/htmlsaveoptions.imageparenttypes/"

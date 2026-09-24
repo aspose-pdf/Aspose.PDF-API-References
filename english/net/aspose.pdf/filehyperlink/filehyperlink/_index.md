@@ -2,8 +2,8 @@
 title: "FileHyperlink.FileHyperlink"
 linktitle: "FileHyperlink"
 articleTitle: "FileHyperlink"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FileHyperlink class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileHyperlink constructor. Initializes a new instance of the FileHyperlink class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/filehyperlink/filehyperlink/"

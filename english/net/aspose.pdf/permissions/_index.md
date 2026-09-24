@@ -2,8 +2,8 @@
 title: "Permissions Enum"
 linktitle: "Permissions"
 articleTitle: "Permissions"
-second_title: "Aspose.PDF for .NET"
-description: "This enum represents user's permissions for a pdf."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Permissions enum. This enum represents user's permissions for a pdf."
 type: docs
 weight: 2540
 url: "/net/aspose.pdf/permissions/"

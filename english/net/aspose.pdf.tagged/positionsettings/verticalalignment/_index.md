@@ -2,8 +2,8 @@
 title: "PositionSettings.VerticalAlignment"
 linktitle: "VerticalAlignment"
 articleTitle: "VerticalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a vertical alignment of paragraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PositionSettings property. Gets or sets a vertical alignment of paragraph."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.tagged/positionsettings/verticalalignment/"

@@ -2,8 +2,8 @@
 title: "OpenAIAssistantCopilotOptionsBase.TopP"
 linktitle: "TopP"
 articleTitle: "TopP"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the top-p value for nucleus sampling."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIAssistantCopilotOptionsBase property. Gets or sets the top-p value for nucleus sampling."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/"

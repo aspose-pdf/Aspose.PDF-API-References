@@ -2,8 +2,8 @@
 title: "FileParams.CheckSum"
 linktitle: "CheckSum"
 articleTitle: "CheckSum"
-second_title: "Aspose.PDF for .NET"
-description: "A 16-byte string that is the checksum of the bytes of the uncompressed embedded file. The checksum is calculated by applying the standard MD5 message-digest ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileParams property. A 16-byte string that is the checksum of the bytes of the uncompressed embedded file. The checksum is calculated by applying the standar..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/fileparams/checksum/"

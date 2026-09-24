@@ -2,8 +2,8 @@
 title: "Field.AlternateName"
 linktitle: "AlternateName"
 articleTitle: "AlternateName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets alternate name of the field (An alternate field name that shall be used in place of the actual field name wherever the field shall be identified..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Gets or sets alternate name of the field (An alternate field name that shall be used in place of the actual field name wherever the field sha..."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.forms/field/alternatename/"

@@ -2,8 +2,8 @@
 title: "Facade Class"
 linktitle: "Facade"
 articleTitle: "Facade"
-second_title: "Aspose.PDF for .NET"
-description: "Base facade class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.Facade class. Base facade class."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/facade/"

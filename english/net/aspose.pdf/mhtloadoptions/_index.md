@@ -2,8 +2,8 @@
 title: "MhtLoadOptions Class"
 linktitle: "MhtLoadOptions"
 articleTitle: "MhtLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for loading/importing of .mht-file into pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.MhtLoadOptions class. Represents options for loading/importing of .mht-file into pdf document."
 type: docs
 weight: 1920
 url: "/net/aspose.pdf/mhtloadoptions/"

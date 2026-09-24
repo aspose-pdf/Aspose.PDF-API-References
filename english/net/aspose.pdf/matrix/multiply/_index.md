@@ -2,8 +2,8 @@
 title: "Matrix.Multiply"
 linktitle: "Multiply"
 articleTitle: "Multiply"
-second_title: "Aspose.PDF for .NET"
-description: "Multiplies the matrix by other matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Multiplies the matrix by other matrix."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/matrix/multiply/"

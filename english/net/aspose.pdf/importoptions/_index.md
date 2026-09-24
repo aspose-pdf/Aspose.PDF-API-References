@@ -2,8 +2,8 @@
 title: "ImportOptions Class"
 linktitle: "ImportOptions"
 articleTitle: "ImportOptions"
-second_title: "Aspose.PDF for .NET"
-description: "ImportOptions type hold level of abstraction on individual import options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImportOptions class. ImportOptions type hold level of abstraction on individual import options."
 type: docs
 weight: 1580
 url: "/net/aspose.pdf/importoptions/"

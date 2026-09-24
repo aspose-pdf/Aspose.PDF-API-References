@@ -2,8 +2,8 @@
 title: "PdfException Class"
 linktitle: "PdfException"
 articleTitle: "PdfException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents errors that occur during PDF application execution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfException class. Represents errors that occur during PDF application execution."
 type: docs
 weight: 2430
 url: "/net/aspose.pdf/pdfexception/"

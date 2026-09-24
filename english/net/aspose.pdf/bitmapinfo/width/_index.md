@@ -2,8 +2,8 @@
 title: "BitmapInfo.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the width of the bitmap."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BitmapInfo property. Gets the width of the bitmap."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/bitmapinfo/width/"

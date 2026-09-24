@@ -2,8 +2,8 @@
 title: "PdfContentEditor.AddDocumentAttachment"
 linktitle: "AddDocumentAttachment"
 articleTitle: "AddDocumentAttachment"
-second_title: "Aspose.PDF for .NET"
-description: "Adds document attachment with no annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Adds document attachment with no annotation."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/"

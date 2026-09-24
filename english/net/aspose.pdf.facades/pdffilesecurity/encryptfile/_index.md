@@ -2,8 +2,8 @@
 title: "PdfFileSecurity.EncryptFile"
 linktitle: "EncryptFile"
 articleTitle: "EncryptFile"
-second_title: "Aspose.PDF for .NET"
-description: "Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or e..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner p..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdffilesecurity/encryptfile/"

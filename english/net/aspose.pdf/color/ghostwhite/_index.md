@@ -2,8 +2,8 @@
 title: "Color.GhostWhite"
 linktitle: "GhostWhite"
 articleTitle: "GhostWhite"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFF8F8FF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFF8F8FF."
 type: docs
 weight: 660
 url: "/net/aspose.pdf/color/ghostwhite/"

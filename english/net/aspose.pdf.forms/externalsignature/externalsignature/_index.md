@@ -2,8 +2,8 @@
 title: "ExternalSignature.ExternalSignature"
 linktitle: "ExternalSignature"
 articleTitle: "ExternalSignature"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ExternalSignature class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExternalSignature constructor. Initializes a new instance of the ExternalSignature class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/externalsignature/externalsignature/"

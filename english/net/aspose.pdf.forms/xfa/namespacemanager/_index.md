@@ -2,8 +2,8 @@
 title: "XFA.NamespaceManager"
 linktitle: "NamespaceManager"
 articleTitle: "NamespaceManager"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the namespace for the XFA form. The following namepsaces are defined: \"data\" for form data and \"tpl\" for form template."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA property. Gets the namespace for the XFA form. The following namepsaces are defined: \"data\" for form data and \"tpl\" for form template."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/xfa/namespacemanager/"

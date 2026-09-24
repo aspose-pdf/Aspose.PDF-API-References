@@ -2,8 +2,8 @@
 title: "ButtonField.AddImage"
 linktitle: "AddImage"
 articleTitle: "AddImage"
-second_title: "Aspose.PDF for .NET"
-description: "Adds image into the field resources and draws it."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ButtonField method. Adds image into the field resources and draws it."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/buttonfield/addimage/"

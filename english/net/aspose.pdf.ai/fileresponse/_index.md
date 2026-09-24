@@ -2,8 +2,8 @@
 title: "FileResponse Class"
 linktitle: "FileResponse"
 articleTitle: "FileResponse"
-second_title: "Aspose.PDF for .NET"
-description: "The FileResponse object represents a document that has been uploaded to OpenAI."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.FileResponse class. The FileResponse object represents a document that has been uploaded to OpenAI."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.ai/fileresponse/"

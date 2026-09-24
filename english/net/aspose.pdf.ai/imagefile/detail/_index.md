@@ -2,8 +2,8 @@
 title: "ImageFile.Detail"
 linktitle: "Detail"
 articleTitle: "Detail"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the detail level of the image if specified by the user. low uses fewer tokens, you can opt in to high resolution using high."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageFile property. Gets or sets the detail level of the image if specified by the user. low uses fewer tokens, you can opt in to high resolution using high."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/imagefile/detail/"

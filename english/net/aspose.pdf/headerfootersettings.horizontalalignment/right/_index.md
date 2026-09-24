@@ -2,8 +2,8 @@
 title: "HeaderFooterSettings.HorizontalAlignment.Right"
 linktitle: "Right"
 articleTitle: "Right"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the right alignment settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HorizontalAlignment property. Gets or sets the right alignment settings."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/headerfootersettings.horizontalalignment/right/"

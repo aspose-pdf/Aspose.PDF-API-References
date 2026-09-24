@@ -2,8 +2,8 @@
 title: "PrintController Class"
 linktitle: "PrintController"
 articleTitle: "PrintController"
-second_title: "Aspose.PDF for .NET"
-description: "Represents print controller."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PrintController class. Represents print controller."
 type: docs
 weight: 2580
 url: "/net/aspose.pdf/printcontroller/"

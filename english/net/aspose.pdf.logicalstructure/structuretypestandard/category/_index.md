@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Category"
 linktitle: "Category"
 articleTitle: "Category"
-second_title: "Aspose.PDF for .NET"
-description: "Gets category of Standard Structure Type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard property. Gets category of Standard Structure Type."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/category/"

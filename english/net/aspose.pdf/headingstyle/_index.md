@@ -2,8 +2,8 @@
 title: "HeadingStyle Enum"
 linktitle: "HeadingStyle"
 articleTitle: "HeadingStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HeadingStyle enum. Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMa..."
 type: docs
 weight: 1120
 url: "/net/aspose.pdf/headingstyle/"

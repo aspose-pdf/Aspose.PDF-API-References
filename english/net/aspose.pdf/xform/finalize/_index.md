@@ -2,8 +2,8 @@
 title: "XForm.Finalize"
 linktitle: "Finalize"
 articleTitle: "Finalize"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm method."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xform/finalize/"

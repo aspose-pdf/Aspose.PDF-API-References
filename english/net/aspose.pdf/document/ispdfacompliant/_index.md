@@ -2,8 +2,8 @@
 title: "Document.IsPdfaCompliant"
 linktitle: "IsPdfaCompliant"
 articleTitle: "IsPdfaCompliant"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the is document pdfa compliant."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets the is document pdfa compliant."
 type: docs
 weight: 1140
 url: "/net/aspose.pdf/document/ispdfacompliant/"

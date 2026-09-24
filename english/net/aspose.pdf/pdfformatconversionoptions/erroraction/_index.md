@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.ErrorAction"
 linktitle: "ErrorAction"
 articleTitle: "ErrorAction"
-second_title: "Aspose.PDF for .NET"
-description: "Action for objects that can not be converted"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Action for objects that can not be converted"
 type: docs
 weight: 120
 url: "/net/aspose.pdf/pdfformatconversionoptions/erroraction/"

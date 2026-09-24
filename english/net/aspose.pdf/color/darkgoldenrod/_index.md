@@ -2,8 +2,8 @@
 title: "Color.DarkGoldenrod"
 linktitle: "DarkGoldenrod"
 articleTitle: "DarkGoldenrod"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFB8860B."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFB8860B."
 type: docs
 weight: 420
 url: "/net/aspose.pdf/color/darkgoldenrod/"

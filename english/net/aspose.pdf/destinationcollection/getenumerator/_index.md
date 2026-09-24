@@ -2,8 +2,8 @@
 title: "DestinationCollection.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the enumerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Returns the enumerator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/destinationcollection/getenumerator/"

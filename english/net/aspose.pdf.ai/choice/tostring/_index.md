@@ -2,8 +2,8 @@
 title: "Choice.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the content of the choice as a string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Choice method. Returns the content of the choice as a string."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/choice/tostring/"

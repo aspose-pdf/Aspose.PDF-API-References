@@ -2,8 +2,8 @@
 title: "FileCitation Class"
 linktitle: "FileCitation"
 articleTitle: "FileCitation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the file citation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.FileCitation class. Represents the file citation."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.ai/filecitation/"

@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets signature rotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets or sets signature rotation."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.forms/signaturecustomappearance/rotation/"

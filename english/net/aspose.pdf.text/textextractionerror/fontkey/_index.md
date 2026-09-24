@@ -2,8 +2,8 @@
 title: "TextExtractionError.FontKey"
 linktitle: "FontKey"
 articleTitle: "FontKey"
-second_title: "Aspose.PDF for .NET"
-description: "Key (PDF name) of the Font object that is used for showing text that causes extraction error."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionError property. Key (PDF name) of the Font object that is used for showing text that causes extraction error."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/textextractionerror/fontkey/"

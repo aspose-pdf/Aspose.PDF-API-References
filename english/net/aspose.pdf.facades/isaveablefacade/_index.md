@@ -2,8 +2,8 @@
 title: "ISaveableFacade Interface"
 linktitle: "ISaveableFacade"
 articleTitle: "ISaveableFacade"
-second_title: "Aspose.PDF for .NET"
-description: "Facade interface that defines methods common for all saveable facades."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.ISaveableFacade interface. Facade interface that defines methods common for all saveable facades."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/isaveablefacade/"

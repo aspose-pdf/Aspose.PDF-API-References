@@ -2,8 +2,8 @@
 title: "XfdfReader.GetElements"
 linktitle: "GetElements"
 articleTitle: "GetElements"
-second_title: "Aspose.PDF for .NET"
-description: "Parses XFDF file and returns information as hashtable."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XfdfReader method. Parses XFDF file and returns information as hashtable."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/xfdfreader/getelements/"

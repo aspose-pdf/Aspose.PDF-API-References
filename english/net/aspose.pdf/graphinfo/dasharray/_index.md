@@ -2,8 +2,8 @@
 title: "GraphInfo.DashArray"
 linktitle: "DashArray"
 articleTitle: "DashArray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a dash array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphInfo property. Gets or sets a dash array."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/graphinfo/dasharray/"

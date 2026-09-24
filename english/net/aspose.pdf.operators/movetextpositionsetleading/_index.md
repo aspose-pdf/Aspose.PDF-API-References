@@ -2,8 +2,8 @@
 title: "MoveTextPositionSetLeading Class"
 linktitle: "MoveTextPositionSetLeading"
 articleTitle: "MoveTextPositionSetLeading"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing TD operator (move position and set leading)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.MoveTextPositionSetLeading class. Class representing TD operator (move position and set leading)."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.operators/movetextpositionsetleading/"

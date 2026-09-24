@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobResponse.ResultFiles"
 linktitle: "ResultFiles"
 articleTitle: "ResultFiles"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the list of result files for the fine-tuning job."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets the list of result files for the fine-tuning job."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/resultfiles/"

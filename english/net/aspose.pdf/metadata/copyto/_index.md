@@ -2,8 +2,8 @@
 title: "Metadata.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/metadata/copyto/"

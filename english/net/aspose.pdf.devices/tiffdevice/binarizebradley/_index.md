@@ -2,8 +2,8 @@
 title: "TiffDevice.BinarizeBradley"
 linktitle: "BinarizeBradley"
 articleTitle: "BinarizeBradley"
-second_title: "Aspose.PDF for .NET"
-description: "Do Bradley binarization for input stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffDevice method. Do Bradley binarization for input stream."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.devices/tiffdevice/binarizebradley/"

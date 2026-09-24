@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.HasNext"
 linktitle: "HasNext"
 articleTitle: "HasNext"
-second_title: "Aspose.PDF for .NET"
-description: "Check if outline item representing next item relatively this item in the outline hierarchy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Check if outline item representing next item relatively this item in the outline hierarchy."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/outlineitemcollection/hasnext/"

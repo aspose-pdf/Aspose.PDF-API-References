@@ -2,8 +2,8 @@
 title: "PdfViewer.PrintPageDialog"
 linktitle: "PrintPageDialog"
 articleTitle: "PrintPageDialog"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a bool value that indicates whether produce the page number dialog when printing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets or sets a bool value that indicates whether produce the page number dialog when printing."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/pdfviewer/printpagedialog/"

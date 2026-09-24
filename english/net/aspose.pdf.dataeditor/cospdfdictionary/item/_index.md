@@ -2,8 +2,8 @@
 title: "CosPdfDictionary.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary property."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/item/"

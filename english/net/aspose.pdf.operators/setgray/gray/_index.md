@@ -2,8 +2,8 @@
 title: "SetGray.Gray"
 linktitle: "Gray"
 articleTitle: "Gray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the level of gray value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGray property. Gets or sets the level of gray value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setgray/gray/"

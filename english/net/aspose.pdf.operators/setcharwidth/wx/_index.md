@@ -2,8 +2,8 @@
 title: "SetCharWidth.Wx"
 linktitle: "Wx"
 articleTitle: "Wx"
-second_title: "Aspose.PDF for .NET"
-description: "Horizontal displacement of glyph coordinate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidth property. Horizontal displacement of glyph coordinate."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setcharwidth/wx/"

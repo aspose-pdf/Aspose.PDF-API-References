@@ -2,8 +2,8 @@
 title: "StringResult.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Tries to convert the result to a string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StringResult method. Tries to convert the result to a string."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/stringresult/tostring/"

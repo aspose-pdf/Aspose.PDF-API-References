@@ -2,8 +2,8 @@
 title: "StructureAttribute.GetStringValue"
 linktitle: "GetStringValue"
 articleTitle: "GetStringValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets Value String."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttribute method. Gets Value String."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/"

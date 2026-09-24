@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilotOptions.WithImageDetail"
 linktitle: "WithImageDetail"
 articleTitle: "WithImageDetail"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the image detail level."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the image detail level."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedetail/"

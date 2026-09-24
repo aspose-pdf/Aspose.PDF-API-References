@@ -2,8 +2,8 @@
 title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
 linktitle: "BoundsOutOfRangeException"
 articleTitle: "BoundsOutOfRangeException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BoundsOutOfRangeException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsOutOfRangeException constructor. Initializes a new instance of the BoundsOutOfRangeException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/boundsoutofrangeexception/boundsoutofrangeexception/"

@@ -2,8 +2,8 @@
 title: "SoundData.Encoding"
 linktitle: "Encoding"
 articleTitle: "Encoding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the encoding format for the sample data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundData property. Gets or sets the encoding format for the sample data."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/sounddata/encoding/"

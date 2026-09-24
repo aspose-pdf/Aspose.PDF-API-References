@@ -2,8 +2,8 @@
 title: "PaperSizes.JapaneseEnvelopeYouNumber4Rotated"
 linktitle: "JapaneseEnvelopeYouNumber4Rotated"
 articleTitle: "JapaneseEnvelopeYouNumber4Rotated"
-second_title: "Aspose.PDF for .NET"
-description: "Japanese You #4 rotated envelope."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Japanese You #4 rotated envelope."
 type: docs
 weight: 900
 url: "/net/aspose.pdf.printing/papersizes/japaneseenvelopeyounumber4rotated/"

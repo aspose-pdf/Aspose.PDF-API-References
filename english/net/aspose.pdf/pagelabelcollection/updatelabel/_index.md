@@ -2,8 +2,8 @@
 title: "PageLabelCollection.UpdateLabel"
 linktitle: "UpdateLabel"
 articleTitle: "UpdateLabel"
-second_title: "Aspose.PDF for .NET"
-description: "Update label for given page index (page index is started from 0)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageLabelCollection method. Update label for given page index (page index is started from 0)."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagelabelcollection/updatelabel/"

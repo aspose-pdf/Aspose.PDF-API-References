@@ -2,8 +2,8 @@
 title: "WarichuWTElement Class"
 linktitle: "WarichuWTElement"
 articleTitle: "WarichuWTElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents WT structure element in logical structure of the Warichu."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.WarichuWTElement class. Represents WT structure element in logical structure of the Warichu."
 type: docs
 weight: 750
 url: "/net/aspose.pdf.logicalstructure/warichuwtelement/"

@@ -2,8 +2,8 @@
 title: "SetCharWidthBoundingBox.Urx"
 linktitle: "Urx"
 articleTitle: "Urx"
-second_title: "Aspose.PDF for .NET"
-description: "Upper-right horizontal coordinate of bounding rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidthBoundingBox property. Upper-right horizontal coordinate of bounding rectangle."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/urx/"

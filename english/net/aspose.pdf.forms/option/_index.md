@@ -2,8 +2,8 @@
 title: "Option Class"
 linktitle: "Option"
 articleTitle: "Option"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents option of choice field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.Option class. Class represents option of choice field."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.forms/option/"

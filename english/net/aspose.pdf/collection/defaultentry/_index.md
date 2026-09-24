@@ -2,8 +2,8 @@
 title: "Collection.DefaultEntry"
 linktitle: "DefaultEntry"
 articleTitle: "DefaultEntry"
-second_title: "Aspose.PDF for .NET"
-description: "Default embedded file name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Collection property. Default embedded file name."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/collection/defaultentry/"

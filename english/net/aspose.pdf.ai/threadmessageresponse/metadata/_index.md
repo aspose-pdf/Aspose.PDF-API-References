@@ -2,8 +2,8 @@
 title: "ThreadMessageResponse.Metadata"
 linktitle: "Metadata"
 articleTitle: "Metadata"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a struc..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageResponse property. Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional informa..."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/threadmessageresponse/metadata/"

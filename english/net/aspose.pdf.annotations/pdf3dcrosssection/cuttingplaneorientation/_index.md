@@ -2,8 +2,8 @@
 title: "PDF3DCrossSection.CuttingPlaneOrientation"
 linktitle: "CuttingPlaneOrientation"
 articleTitle: "CuttingPlaneOrientation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the cutting plane orientation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSection property. Gets or sets the cutting plane orientation."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/"

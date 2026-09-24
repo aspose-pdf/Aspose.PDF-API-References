@@ -2,8 +2,8 @@
 title: "Table.ImportArray"
 linktitle: "ImportArray"
 articleTitle: "ImportArray"
-second_title: "Aspose.PDF for .NET"
-description: "Imports one-dimensional array of data into table. Import goes one cell per each array's item and starts from row and column defined in parameters. During imp..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table method. Imports one-dimensional array of data into table. Import goes one cell per each array's item and starts from row and column defined in paramete..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/table/importarray/"

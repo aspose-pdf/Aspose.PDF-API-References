@@ -2,8 +2,8 @@
 title: "JpegDevice Class"
 linktitle: "JpegDevice"
 articleTitle: "JpegDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents image device that helps to save pdf document pages into jpeg."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.JpegDevice class. Represents image device that helps to save pdf document pages into jpeg."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.devices/jpegdevice/"

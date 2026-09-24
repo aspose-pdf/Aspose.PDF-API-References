@@ -2,8 +2,8 @@
 title: "UnsignedContentAbsorber.TryGetContent"
 linktitle: "TryGetContent"
 articleTitle: "TryGetContent"
-second_title: "Aspose.PDF for .NET"
-description: "Attempt to retrieve the unsigned content from the associated document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnsignedContentAbsorber method. Attempt to retrieve the unsigned content from the associated document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/unsignedcontentabsorber/trygetcontent/"

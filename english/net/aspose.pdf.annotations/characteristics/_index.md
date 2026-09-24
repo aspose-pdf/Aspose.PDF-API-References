@@ -2,8 +2,8 @@
 title: "Characteristics Class"
 linktitle: "Characteristics"
 articleTitle: "Characteristics"
-second_title: "Aspose.PDF for .NET"
-description: "Represents annotation characteristics"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.Characteristics class. Represents annotation characteristics"
 type: docs
 weight: 200
 url: "/net/aspose.pdf.annotations/characteristics/"

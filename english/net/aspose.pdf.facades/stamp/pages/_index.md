@@ -2,8 +2,8 @@
 title: "Stamp.Pages"
 linktitle: "Pages"
 articleTitle: "Pages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets array with numbers of pages which will be affected by stamp. If Pages = null all pages of the document are affected."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets array with numbers of pages which will be affected by stamp. If Pages = null all pages of the document are affected."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/stamp/pages/"

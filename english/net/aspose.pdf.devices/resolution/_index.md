@@ -2,8 +2,8 @@
 title: "Resolution Class"
 linktitle: "Resolution"
 articleTitle: "Resolution"
-second_title: "Aspose.PDF for .NET"
-description: "Represents class for holding image resolution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.Resolution class. Represents class for holding image resolution."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.devices/resolution/"

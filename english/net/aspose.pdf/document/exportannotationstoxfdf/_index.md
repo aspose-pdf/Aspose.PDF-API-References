@@ -2,8 +2,8 @@
 title: "Document.ExportAnnotationsToXfdf"
 linktitle: "ExportAnnotationsToXfdf"
 articleTitle: "ExportAnnotationsToXfdf"
-second_title: "Aspose.PDF for .NET"
-description: "Exports all document annotations to XFDF file"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Exports all document annotations to XFDF file"
 type: docs
 weight: 290
 url: "/net/aspose.pdf/document/exportannotationstoxfdf/"

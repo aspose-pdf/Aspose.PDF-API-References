@@ -2,8 +2,8 @@
 title: "SetGlyphsPositionShowText.SetGlyphsPositionShowText"
 linktitle: "SetGlyphsPositionShowText"
 articleTitle: "SetGlyphsPositionShowText"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetGlyphsPositionShowText class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGlyphsPositionShowText constructor. Initializes a new instance of the SetGlyphsPositionShowText class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setglyphspositionshowtext/setglyphspositionshowtext/"

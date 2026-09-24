@@ -2,8 +2,8 @@
 title: "AnnotationActionCollection.OnFormat"
 linktitle: "OnFormat"
 articleTitle: "OnFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to be performed to format field value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed to format field value."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/annotationactioncollection/onformat/"

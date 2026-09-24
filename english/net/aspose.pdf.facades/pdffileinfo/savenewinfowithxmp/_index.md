@@ -2,8 +2,8 @@
 title: "PdfFileInfo.SaveNewInfoWithXmp"
 linktitle: "SaveNewInfoWithXmp"
 articleTitle: "SaveNewInfoWithXmp"
-second_title: "Aspose.PDF for .NET"
-description: "Changes the properties specified explicitly by setting file information, other properties remain."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Changes the properties specified explicitly by setting file information, other properties remain."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/"

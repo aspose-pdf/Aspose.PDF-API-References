@@ -2,8 +2,8 @@
 title: "XImage.IsTheSameObject"
 linktitle: "IsTheSameObject"
 articleTitle: "IsTheSameObject"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if both images references to the same object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Returns true if both images references to the same object."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/ximage/isthesameobject/"

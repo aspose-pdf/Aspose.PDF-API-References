@@ -2,8 +2,8 @@
 title: "VerticalAlignmentType.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VerticalAlignmentType method. Returns string representation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/verticalalignmenttype/tostring/"

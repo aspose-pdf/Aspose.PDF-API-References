@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.DeleteAnnotation"
 linktitle: "DeleteAnnotation"
 articleTitle: "DeleteAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes the annotation with specified annotation name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Deletes the annotation with specified annotation name."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/pdfannotationeditor/deleteannotation/"

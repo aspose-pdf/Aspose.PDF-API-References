@@ -2,8 +2,8 @@
 title: "PatternColorSpace Class"
 linktitle: "PatternColorSpace"
 articleTitle: "PatternColorSpace"
-second_title: "Aspose.PDF for .NET"
-description: "Represents base pattern class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.PatternColorSpace class. Represents base pattern class."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.drawing/patterncolorspace/"

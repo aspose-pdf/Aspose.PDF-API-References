@@ -2,8 +2,8 @@
 title: "OcrTextRecognitionOptions.PageSeparator"
 linktitle: "PageSeparator"
 articleTitle: "PageSeparator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the string inserted between recognized texts of consecutive pages. Defaults to `\"\\n\\n\"`."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextRecognitionOptions property. Gets or sets the string inserted between recognized texts of consecutive pages. Defaults to `\"\\n\\n\"`."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/pageseparator/"

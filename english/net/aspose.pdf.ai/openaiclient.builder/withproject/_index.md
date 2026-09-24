@@ -2,8 +2,8 @@
 title: "OpenAIClient.Builder.WithProject"
 linktitle: "WithProject"
 articleTitle: "WithProject"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the project ID for the client."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Builder method. Sets the project ID for the client."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaiclient.builder/withproject/"

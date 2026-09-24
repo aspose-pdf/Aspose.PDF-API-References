@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Parent"
 linktitle: "Parent"
 articleTitle: "Parent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the parent object of this outline item in the outline hierarchy."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets the parent object of this outline item in the outline hierarchy."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/outlineitemcollection/parent/"

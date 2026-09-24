@@ -2,8 +2,8 @@
 title: "XYZExplicitDestination.CreateDestination"
 linktitle: "CreateDestination"
 articleTitle: "CreateDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Create destintion to specified location of the page considering page rotation if required."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination method. Create destintion to specified location of the page considering page rotation if required."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/"

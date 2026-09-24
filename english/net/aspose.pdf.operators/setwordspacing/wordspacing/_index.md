@@ -2,8 +2,8 @@
 title: "SetWordSpacing.WordSpacing"
 linktitle: "WordSpacing"
 articleTitle: "WordSpacing"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the word spacing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetWordSpacing property. Gets or sets the word spacing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setwordspacing/wordspacing/"

@@ -2,8 +2,8 @@
 title: "Page.CropBox"
 linktitle: "CropBox"
 articleTitle: "CropBox"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets crop box of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets crop box of the page."
 type: docs
 weight: 560
 url: "/net/aspose.pdf/page/cropbox/"

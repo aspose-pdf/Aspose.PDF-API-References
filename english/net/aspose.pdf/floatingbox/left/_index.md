@@ -2,8 +2,8 @@
 title: "FloatingBox.Left"
 linktitle: "Left"
 articleTitle: "Left"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the table left coordinate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox property. Gets or sets the table left coordinate."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/floatingbox/left/"

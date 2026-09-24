@@ -2,8 +2,8 @@
 title: "SetCharWidth.Wy"
 linktitle: "Wy"
 articleTitle: "Wy"
-second_title: "Aspose.PDF for .NET"
-description: "Vertical displacement of glyph coordinate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidth property. Vertical displacement of glyph coordinate."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setcharwidth/wy/"

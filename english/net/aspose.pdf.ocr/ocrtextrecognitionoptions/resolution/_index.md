@@ -2,8 +2,8 @@
 title: "OcrTextRecognitionOptions.Resolution"
 linktitle: "Resolution"
 articleTitle: "Resolution"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the rendering resolution, in DPI. Defaults to `300`."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextRecognitionOptions property. Gets or sets the rendering resolution, in DPI. Defaults to `300`."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/resolution/"

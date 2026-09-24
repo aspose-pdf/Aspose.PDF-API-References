@@ -2,8 +2,8 @@
 title: "FormFieldFacade.FontSize"
 linktitle: "FontSize"
 articleTitle: "FontSize"
-second_title: "Aspose.PDF for .NET"
-description: "The size of a field text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The size of a field text."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/formfieldfacade/fontsize/"

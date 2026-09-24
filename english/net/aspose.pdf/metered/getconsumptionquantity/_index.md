@@ -2,8 +2,8 @@
 title: "Metered.GetConsumptionQuantity"
 linktitle: "GetConsumptionQuantity"
 articleTitle: "GetConsumptionQuantity"
-second_title: "Aspose.PDF for .NET"
-description: "Gets consumption file size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metered method. Gets consumption file size."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/metered/getconsumptionquantity/"

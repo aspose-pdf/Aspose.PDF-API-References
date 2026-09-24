@@ -2,8 +2,8 @@
 title: "ViewerPreference.Simplex"
 linktitle: "Simplex"
 articleTitle: "Simplex"
-second_title: "Aspose.PDF for .NET"
-description: "Print single-sided."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Print single-sided."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/viewerpreference/simplex/"

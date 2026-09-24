@@ -2,8 +2,8 @@
 title: "PDF3DArtwork.GetViewsArray"
 linktitle: "GetViewsArray"
 articleTitle: "GetViewsArray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the views array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DArtwork method. Gets the views array."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dartwork/getviewsarray/"

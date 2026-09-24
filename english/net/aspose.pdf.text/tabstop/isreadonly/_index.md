@@ -2,8 +2,8 @@
 title: "TabStop.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets value indicating that this instance is already attached to and became readonly"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStop property. Gets value indicating that this instance is already attached to and became readonly"
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/tabstop/isreadonly/"

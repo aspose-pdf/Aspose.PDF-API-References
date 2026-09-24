@@ -2,8 +2,8 @@
 title: "ImageStamp.Put"
 linktitle: "Put"
 articleTitle: "Put"
-second_title: "Aspose.PDF for .NET"
-description: "Adds graphic stamp on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp method. Adds graphic stamp on the page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/imagestamp/put/"

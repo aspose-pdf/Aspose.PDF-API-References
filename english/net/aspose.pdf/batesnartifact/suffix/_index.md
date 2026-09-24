@@ -2,8 +2,8 @@
 title: "BatesNArtifact.Suffix"
 linktitle: "Suffix"
 articleTitle: "Suffix"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the suffix to be added to the Bates number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BatesNArtifact property. Gets or sets the suffix to be added to the Bates number."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/batesnartifact/suffix/"

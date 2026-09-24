@@ -2,8 +2,8 @@
 title: "VectorStoreFileResponse.VectorStoreFileResponse"
 linktitle: "VectorStoreFileResponse"
 articleTitle: "VectorStoreFileResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the VectorStoreFileResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileResponse constructor. Initializes a new instance of the VectorStoreFileResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/vectorstorefileresponse/"

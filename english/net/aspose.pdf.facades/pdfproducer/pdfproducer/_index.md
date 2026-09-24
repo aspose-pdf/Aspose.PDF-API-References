@@ -2,8 +2,8 @@
 title: "PdfProducer.PdfProducer"
 linktitle: "PdfProducer"
 articleTitle: "PdfProducer"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfProducer class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfProducer constructor. Initializes a new instance of the PdfProducer class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfproducer/pdfproducer/"

@@ -2,8 +2,8 @@
 title: "BaseListQueryParameters.Order"
 linktitle: "Order"
 articleTitle: "Order"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets sort order by the created_at timestamp of the objects. asc for ascending order and desc for descending order."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseListQueryParameters property. Gets or sets sort order by the created_at timestamp of the objects. asc for ascending order and desc for descending order."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/baselistqueryparameters/order/"

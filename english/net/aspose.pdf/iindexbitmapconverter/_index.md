@@ -2,8 +2,8 @@
 title: "IIndexBitmapConverter Interface"
 linktitle: "IIndexBitmapConverter"
 articleTitle: "IIndexBitmapConverter"
-second_title: "Aspose.PDF for .NET"
-description: "This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms (for example algorithms ba..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IIndexBitmapConverter interface. This interface declared for customization algorithms of quantization. Users can implement their own realization o..."
 type: docs
 weight: 1400
 url: "/net/aspose.pdf/iindexbitmapconverter/"

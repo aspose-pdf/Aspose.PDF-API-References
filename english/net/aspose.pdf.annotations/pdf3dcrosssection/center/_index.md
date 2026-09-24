@@ -2,8 +2,8 @@
 title: "PDF3DCrossSection.Center"
 linktitle: "Center"
 articleTitle: "Center"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the cross section rotation center."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSection property. Gets or sets the cross section rotation center."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/center/"

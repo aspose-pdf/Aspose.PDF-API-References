@@ -2,8 +2,8 @@
 title: "PdfAction.PdfAction"
 linktitle: "PdfAction"
 articleTitle: "PdfAction"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfAction class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAction constructor. Initializes a new instance of the PdfAction class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdfaction/pdfaction/"

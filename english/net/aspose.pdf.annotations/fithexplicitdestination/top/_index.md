@@ -2,8 +2,8 @@
 title: "FitHExplicitDestination.Top"
 linktitle: "Top"
 articleTitle: "Top"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the vertical coordinate top positioned at the top edge of the window."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitHExplicitDestination property. Gets the vertical coordinate top positioned at the top edge of the window."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/fithexplicitdestination/top/"

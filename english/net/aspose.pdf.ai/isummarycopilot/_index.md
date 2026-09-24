@@ -2,8 +2,8 @@
 title: "ISummaryCopilot Interface"
 linktitle: "ISummaryCopilot"
 articleTitle: "ISummaryCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a summary copilot for generating summaries for documents using AI models."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ISummaryCopilot interface. Represents a summary copilot for generating summaries for documents using AI models."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.ai/isummarycopilot/"

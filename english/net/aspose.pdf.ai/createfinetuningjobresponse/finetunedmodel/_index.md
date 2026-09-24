@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobResponse.FineTunedModel"
 linktitle: "FineTunedModel"
 articleTitle: "FineTunedModel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the name of the fine-tuned model, once complete."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets the name of the fine-tuned model, once complete."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/finetunedmodel/"

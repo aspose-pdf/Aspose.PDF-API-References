@@ -2,8 +2,8 @@
 title: "PdfFileInfo.Close"
 linktitle: "Close"
 articleTitle: "Close"
-second_title: "Aspose.PDF for .NET"
-description: "Deinitializes the instance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Deinitializes the instance."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdffileinfo/close/"

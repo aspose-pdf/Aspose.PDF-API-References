@@ -2,8 +2,8 @@
 title: "Stamp._mcid"
 linktitle: "_mcid"
 articleTitle: "_mcid"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp field."
 type: docs
 weight: 280
 url: "/net/aspose.pdf/stamp/_mcid/"

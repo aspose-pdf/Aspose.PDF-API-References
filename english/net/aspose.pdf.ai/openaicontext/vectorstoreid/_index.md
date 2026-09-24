@@ -2,8 +2,8 @@
 title: "OpenAIContext.VectorStoreId"
 linktitle: "VectorStoreId"
 articleTitle: "VectorStoreId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Vector Store ID."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIContext property. Gets or sets the Vector Store ID."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/openaicontext/vectorstoreid/"

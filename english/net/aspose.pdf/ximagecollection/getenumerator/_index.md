@@ -2,8 +2,8 @@
 title: "XImageCollection.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns collection enumerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Returns collection enumerator."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/ximagecollection/getenumerator/"

@@ -2,8 +2,8 @@
 title: "IOcrCopilot.GetTextRecognitionResultAsync"
 linktitle: "GetTextRecognitionResultAsync"
 articleTitle: "GetTextRecognitionResultAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously retrieves text recognition results for the PDF documents and image files. The supported image types: PNG (.png), JPEG (.jpeg and .jpg), WEBP (..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOcrCopilot method. Asynchronously retrieves text recognition results for the PDF documents and image files. The supported image types: PNG (.png), JPEG (.jp..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iocrcopilot/gettextrecognitionresultasync/"

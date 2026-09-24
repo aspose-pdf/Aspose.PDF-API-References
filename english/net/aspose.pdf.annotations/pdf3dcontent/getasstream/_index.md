@@ -2,8 +2,8 @@
 title: "PDF3DContent.GetAsStream"
 linktitle: "GetAsStream"
 articleTitle: "GetAsStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets 3D content as stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent method. Gets 3D content as stream."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/pdf3dcontent/getasstream/"

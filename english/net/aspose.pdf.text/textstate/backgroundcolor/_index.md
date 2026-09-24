@@ -2,8 +2,8 @@
 title: "TextState.BackgroundColor"
 linktitle: "BackgroundColor"
 articleTitle: "BackgroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Sets background color of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState property. Sets background color of the text."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.text/textstate/backgroundcolor/"

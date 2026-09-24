@@ -2,8 +2,8 @@
 title: "TextRecognitionResult Class"
 linktitle: "TextRecognitionResult"
 articleTitle: "TextRecognitionResult"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the aggregated OCR results for a single source document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.TextRecognitionResult class. Represents the aggregated OCR results for a single source document."
 type: docs
 weight: 1180
 url: "/net/aspose.pdf.ai/textrecognitionresult/"

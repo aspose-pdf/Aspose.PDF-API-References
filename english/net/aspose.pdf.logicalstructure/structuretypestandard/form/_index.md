@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Form"
 linktitle: "Form"
 articleTitle: "Form"
-second_title: "Aspose.PDF for .NET"
-description: "(Form) A widget annotation representing an interactive form field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Form) A widget annotation representing an interactive form field."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/form/"

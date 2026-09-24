@@ -2,8 +2,8 @@
 title: "Characteristics.Rotate"
 linktitle: "Rotate"
 articleTitle: "Rotate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rotation of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Characteristics property. Gets or sets rotation of the annotation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/characteristics/rotate/"

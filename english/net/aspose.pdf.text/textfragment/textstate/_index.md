@@ -2,8 +2,8 @@
 title: "TextFragment.TextState"
 linktitle: "TextState"
 articleTitle: "TextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text state for the text that object represents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets or sets text state for the text that object represents."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/textfragment/textstate/"

@@ -2,8 +2,8 @@
 title: "TableCellElement Class"
 linktitle: "TableCellElement"
 articleTitle: "TableCellElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class for table cell elements (TH and TD) in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.TableCellElement class. Represents a base class for table cell elements (TH and TD) in logical structure."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/"

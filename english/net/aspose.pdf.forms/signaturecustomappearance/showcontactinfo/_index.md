@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.ShowContactInfo"
 linktitle: "ShowContactInfo"
 articleTitle: "ShowContactInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets contact info visibility. Default value: true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets contact info visibility. Default value: true."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/"

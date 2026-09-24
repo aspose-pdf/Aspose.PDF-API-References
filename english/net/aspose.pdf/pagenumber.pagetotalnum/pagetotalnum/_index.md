@@ -2,8 +2,8 @@
 title: "PageNumber.PageTotalNum.PageNumber.PageTotalNum"
 linktitle: "PageNumber.PageTotalNum"
 articleTitle: "PageNumber.PageTotalNum"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PageNumber.PageTotalNum class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageTotalNum constructor. Initializes a new instance of the PageNumber.PageTotalNum class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagenumber.pagetotalnum/pagetotalnum/"

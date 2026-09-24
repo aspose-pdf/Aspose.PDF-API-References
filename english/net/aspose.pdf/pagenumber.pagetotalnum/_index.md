@@ -2,8 +2,8 @@
 title: "PageNumber.PageTotalNum Class"
 linktitle: "PageNumber.PageTotalNum"
 articleTitle: "PageNumber.PageTotalNum"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the total number of pages component in the page number format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageNumber.PageTotalNum class. Represents the total number of pages component in the page number format."
 type: docs
 weight: 2290
 url: "/net/aspose.pdf/pagenumber.pagetotalnum/"

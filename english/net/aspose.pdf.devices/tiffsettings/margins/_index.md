@@ -2,8 +2,8 @@
 title: "TiffSettings.Margins"
 linktitle: "Margins"
 articleTitle: "Margins"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the margins."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffSettings property. Gets the margins."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.devices/tiffsettings/margins/"

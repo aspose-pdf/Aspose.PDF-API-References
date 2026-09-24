@@ -2,8 +2,8 @@
 title: "Metadata.ExtensionFields"
 linktitle: "ExtensionFields"
 articleTitle: "ExtensionFields"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the dictionary of extension fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Gets the dictionary of extension fields."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/metadata/extensionfields/"

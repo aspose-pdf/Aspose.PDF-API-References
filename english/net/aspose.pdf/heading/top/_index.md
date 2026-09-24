@@ -2,8 +2,8 @@
 title: "Heading.Top"
 linktitle: "Top"
 articleTitle: "Top"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the top Y of this headings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the top Y of this headings."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/heading/top/"

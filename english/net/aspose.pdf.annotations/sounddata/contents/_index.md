@@ -2,8 +2,8 @@
 title: "SoundData.Contents"
 linktitle: "Contents"
 articleTitle: "Contents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets stream of the sound to be played when the annotation is activated."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundData property. Gets stream of the sound to be played when the annotation is activated."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/sounddata/contents/"

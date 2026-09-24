@@ -2,8 +2,8 @@
 title: "JavaScriptCollection.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JavaScriptCollection property."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/javascriptcollection/item/"

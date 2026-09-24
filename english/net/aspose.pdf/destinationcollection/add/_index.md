@@ -2,8 +2,8 @@
 title: "DestinationCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds the specified item. Collection is read-only. Always throws NotSupportedException exception."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Adds the specified item. Collection is read-only. Always throws NotSupportedException exception."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/destinationcollection/add/"

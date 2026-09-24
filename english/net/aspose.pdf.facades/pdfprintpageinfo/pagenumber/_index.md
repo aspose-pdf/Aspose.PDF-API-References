@@ -2,8 +2,8 @@
 title: "PdfPrintPageInfo.PageNumber"
 linktitle: "PageNumber"
 articleTitle: "PageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Gets currently printed page number;"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPrintPageInfo property. Gets currently printed page number;"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfprintpageinfo/pagenumber/"

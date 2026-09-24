@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.IsFixedSize"
 linktitle: "IsFixedSize"
 articleTitle: "IsFixedSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether dictionary has a fixed size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary property. Gets a value indicating whether dictionary has a fixed size."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/appearancedictionary/isfixedsize/"

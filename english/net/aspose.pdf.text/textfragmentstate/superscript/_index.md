@@ -2,8 +2,8 @@
 title: "TextFragmentState.Superscript"
 linktitle: "Superscript"
 articleTitle: "Superscript"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets superscript of the text, represented by the object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets superscript of the text, represented by the object."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/textfragmentstate/superscript/"

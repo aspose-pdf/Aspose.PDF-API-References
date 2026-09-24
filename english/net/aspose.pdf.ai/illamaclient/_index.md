@@ -2,8 +2,8 @@
 title: "ILlamaClient Interface"
 linktitle: "ILlamaClient"
 articleTitle: "ILlamaClient"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a client interface for interacting with the Llama API."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ILlamaClient interface. Represents a client interface for interacting with the Llama API."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.ai/illamaclient/"

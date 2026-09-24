@@ -2,8 +2,8 @@
 title: "MediaClipData Class"
 linktitle: "MediaClipData"
 articleTitle: "MediaClipData"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes media clip data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.MediaClipData class. Class describes media clip data."
 type: docs
 weight: 700
 url: "/net/aspose.pdf.annotations/mediaclipdata/"

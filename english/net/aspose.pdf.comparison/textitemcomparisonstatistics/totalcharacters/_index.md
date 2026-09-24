@@ -2,8 +2,8 @@
 title: "TextItemComparisonStatistics.TotalCharacters"
 linktitle: "TotalCharacters"
 articleTitle: "TotalCharacters"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the total number of characters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextItemComparisonStatistics property. Gets and sets the total number of characters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/"

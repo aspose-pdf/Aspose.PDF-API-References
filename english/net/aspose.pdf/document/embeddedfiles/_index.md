@@ -2,8 +2,8 @@
 title: "Document.EmbeddedFiles"
 linktitle: "EmbeddedFiles"
 articleTitle: "EmbeddedFiles"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of files embedded to document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets collection of files embedded to document."
 type: docs
 weight: 1360
 url: "/net/aspose.pdf/document/embeddedfiles/"

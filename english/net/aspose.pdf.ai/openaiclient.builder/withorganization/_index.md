@@ -2,8 +2,8 @@
 title: "OpenAIClient.Builder.WithOrganization"
 linktitle: "WithOrganization"
 articleTitle: "WithOrganization"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the organization ID for the client."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Builder method. Sets the organization ID for the client."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/openaiclient.builder/withorganization/"

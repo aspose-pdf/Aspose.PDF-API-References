@@ -2,8 +2,8 @@
 title: "Merger Class"
 linktitle: "Merger"
 articleTitle: "Merger"
-second_title: "Aspose.PDF for .NET"
-description: "Represents plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Merger class. Represents plugin."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.lowcode/merger/"

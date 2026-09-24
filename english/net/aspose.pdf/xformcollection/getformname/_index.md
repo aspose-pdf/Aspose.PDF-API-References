@@ -2,8 +2,8 @@
 title: "XFormCollection.GetFormName"
 linktitle: "GetFormName"
 articleTitle: "GetFormName"
-second_title: "Aspose.PDF for .NET"
-description: "Returns name of the form in this form collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection method. Returns name of the form in this form collection."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/xformcollection/getformname/"

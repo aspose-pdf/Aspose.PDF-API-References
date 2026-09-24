@@ -2,8 +2,8 @@
 title: "Page.Footer"
 linktitle: "Footer"
 articleTitle: "Footer"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets page footer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets page footer."
 type: docs
 weight: 400
 url: "/net/aspose.pdf/page/footer/"

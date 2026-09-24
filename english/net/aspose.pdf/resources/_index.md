@@ -2,8 +2,8 @@
 title: "Resources Class"
 linktitle: "Resources"
 articleTitle: "Resources"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing page resources."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Resources class. Class representing page resources."
 type: docs
 weight: 2660
 url: "/net/aspose.pdf/resources/"

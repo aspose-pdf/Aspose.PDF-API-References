@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.ImportAnnotations"
 linktitle: "ImportAnnotations"
 articleTitle: "ImportAnnotations"
-second_title: "Aspose.PDF for .NET"
-description: "Imports the specified annotations into document from array of another PDF documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Imports the specified annotations into document from array of another PDF documents."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotations/"

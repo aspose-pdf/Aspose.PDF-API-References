@@ -2,8 +2,8 @@
 title: "AttributeKey.TextIndent"
 linktitle: "TextIndent"
 articleTitle: "TextIndent"
-second_title: "Aspose.PDF for .NET"
-description: "TextIndent attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TextIndent attribute (Layout attribute owner)."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/attributekey/textindent/"

@@ -2,8 +2,8 @@
 title: "FileAttachmentAnnotation.Icon"
 linktitle: "Icon"
 articleTitle: "Icon"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets icon that shall be used in displaying annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileAttachmentAnnotation property. Gets or sets icon that shall be used in displaying annotation."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/fileattachmentannotation/icon/"

@@ -2,8 +2,8 @@
 title: "PageLabelCollection.RemoveLabel"
 linktitle: "RemoveLabel"
 articleTitle: "RemoveLabel"
-second_title: "Aspose.PDF for .NET"
-description: "Remove label by page index (page index is started from 0)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageLabelCollection method. Remove label by page index (page index is started from 0)."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagelabelcollection/removelabel/"

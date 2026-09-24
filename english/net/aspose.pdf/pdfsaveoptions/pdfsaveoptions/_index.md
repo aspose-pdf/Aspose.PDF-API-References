@@ -2,8 +2,8 @@
 title: "PdfSaveOptions.PdfSaveOptions"
 linktitle: "PdfSaveOptions"
 articleTitle: "PdfSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfSaveOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfSaveOptions constructor. Initializes a new instance of the PdfSaveOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfsaveoptions/pdfsaveoptions/"

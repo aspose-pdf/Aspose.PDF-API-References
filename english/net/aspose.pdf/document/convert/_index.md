@@ -2,8 +2,8 @@
 title: "Document.Convert"
 linktitle: "Convert"
 articleTitle: "Convert"
-second_title: "Aspose.PDF for .NET"
-description: "Convert document and save errors into the specified file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Convert document and save errors into the specified file."
 type: docs
 weight: 390
 url: "/net/aspose.pdf/document/convert/"

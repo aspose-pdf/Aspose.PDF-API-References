@@ -2,8 +2,8 @@
 title: "PdfPageEditor.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the rotation of the pages, the rotation must be 0, 90, 180 or 270. Default value is 0."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor property. Gets or sets the rotation of the pages, the rotation must be 0, 90, 180 or 270. Default value is 0."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdfpageeditor/rotation/"

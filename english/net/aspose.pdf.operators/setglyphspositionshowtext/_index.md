@@ -2,8 +2,8 @@
 title: "SetGlyphsPositionShowText Class"
 linktitle: "SetGlyphsPositionShowText"
 articleTitle: "SetGlyphsPositionShowText"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing TJ operator (show text with glyph positioning)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetGlyphsPositionShowText class. Class representing TJ operator (show text with glyph positioning)."
 type: docs
 weight: 630
 url: "/net/aspose.pdf.operators/setglyphspositionshowtext/"

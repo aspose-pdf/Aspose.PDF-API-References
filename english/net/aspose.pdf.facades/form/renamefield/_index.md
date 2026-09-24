@@ -2,8 +2,8 @@
 title: "Form.RenameField"
 linktitle: "RenameField"
 articleTitle: "RenameField"
-second_title: "Aspose.PDF for .NET"
-description: "Renames a field. Either AcroForm field or XFA field is OK."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Renames a field. Either AcroForm field or XFA field is OK."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/form/renamefield/"

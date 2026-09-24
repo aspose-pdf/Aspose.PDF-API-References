@@ -2,8 +2,8 @@
 title: "TextDocument Class"
 linktitle: "TextDocument"
 articleTitle: "TextDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a text document with a name and content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.TextDocument class. Represents a text document with a name and content."
 type: docs
 weight: 1170
 url: "/net/aspose.pdf.ai/textdocument/"

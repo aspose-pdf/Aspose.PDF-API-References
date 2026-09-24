@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.TransparentWareFrame"
 linktitle: "TransparentWareFrame"
 articleTitle: "TransparentWareFrame"
-second_title: "Aspose.PDF for .NET"
-description: "The \"TransparentWareFrame\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"TransparentWareFrame\" render mode."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/pdf3drendermode/transparentwareframe/"

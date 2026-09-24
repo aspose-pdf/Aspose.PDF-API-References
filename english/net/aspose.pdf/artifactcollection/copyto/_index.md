@@ -2,8 +2,8 @@
 title: "ArtifactCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies colection into an array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection method. Copies colection into an array."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/artifactcollection/copyto/"

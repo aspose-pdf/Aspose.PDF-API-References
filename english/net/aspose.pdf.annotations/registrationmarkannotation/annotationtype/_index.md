@@ -2,8 +2,8 @@
 title: "RegistrationMarkAnnotation.AnnotationType"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RegistrationMarkAnnotation property. Gets type of annotation."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/registrationmarkannotation/annotationtype/"

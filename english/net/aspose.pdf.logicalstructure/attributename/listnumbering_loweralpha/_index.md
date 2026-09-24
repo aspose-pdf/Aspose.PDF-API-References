@@ -2,8 +2,8 @@
 title: "AttributeName.ListNumbering_LowerAlpha"
 linktitle: "ListNumbering_LowerAlpha"
 articleTitle: "ListNumbering_LowerAlpha"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute ListNumbering: LowerAlpha - Lowercase letters (a, b, c, ...)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute ListNumbering: LowerAlpha - Lowercase letters (a, b, c, ...)."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_loweralpha/"

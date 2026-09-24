@@ -2,8 +2,8 @@
 title: "SetRGBColorStroke.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text representation of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetRGBColorStroke method. Returns text representation of operator."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setrgbcolorstroke/tostring/"

@@ -2,8 +2,8 @@
 title: "SignatureAlgorithmInfo.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the current information object to its string representation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureAlgorithmInfo method. Converts the current information object to its string representation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/signaturealgorithminfo/tostring/"

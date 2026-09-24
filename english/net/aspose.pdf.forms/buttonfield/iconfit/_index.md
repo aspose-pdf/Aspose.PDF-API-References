@@ -2,8 +2,8 @@
 title: "ButtonField.IconFit"
 linktitle: "IconFit"
 articleTitle: "IconFit"
-second_title: "Aspose.PDF for .NET"
-description: "Gets icon fit object specifying how the widget annotation's icon shall be displayed within its annotation rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ButtonField property. Gets icon fit object specifying how the widget annotation's icon shall be displayed within its annotation rectangle."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/buttonfield/iconfit/"

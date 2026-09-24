@@ -2,8 +2,8 @@
 title: "ChatMessage.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an optional name for the participant. Provides the model information to differentiate between participants of the same role."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChatMessage property. Gets or sets an optional name for the participant. Provides the model information to differentiate between participants of the same role."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/chatmessage/name/"

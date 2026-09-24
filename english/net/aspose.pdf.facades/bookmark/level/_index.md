@@ -2,8 +2,8 @@
 title: "Bookmark.Level"
 linktitle: "Level"
 articleTitle: "Level"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets bookmark's hierarchy level."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Bookmark property. Gets or sets bookmark's hierarchy level."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/bookmark/level/"

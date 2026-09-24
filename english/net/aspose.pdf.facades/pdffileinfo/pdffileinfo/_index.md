@@ -2,8 +2,8 @@
 title: "PdfFileInfo.PdfFileInfo"
 linktitle: "PdfFileInfo"
 articleTitle: "PdfFileInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfFileInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo constructor. Initializes a new instance of the PdfFileInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/"

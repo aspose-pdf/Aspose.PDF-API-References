@@ -2,8 +2,8 @@
 title: "TextStamp.WordWrap"
 linktitle: "WordWrap"
 articleTitle: "WordWrap"
-second_title: "Aspose.PDF for .NET"
-description: "Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified width. Default valu..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp property. Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/textstamp/wordwrap/"

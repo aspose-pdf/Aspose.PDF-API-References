@@ -2,8 +2,8 @@
 title: "CustomPrintEventArgs Class"
 linktitle: "CustomPrintEventArgs"
 articleTitle: "CustomPrintEventArgs"
-second_title: "Aspose.PDF for .NET"
-description: "Provides data for the event."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.CustomPrintEventArgs class. Provides data for the event."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/customprinteventargs/"

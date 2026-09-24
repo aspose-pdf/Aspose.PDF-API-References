@@ -2,8 +2,8 @@
 title: "OpenAIClient.GetFilesAsync"
 linktitle: "GetFilesAsync"
 articleTitle: "GetFilesAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves a list of files asynchronously based on the specified purpose."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves a list of files asynchronously based on the specified purpose."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.ai/openaiclient/getfilesasync/"

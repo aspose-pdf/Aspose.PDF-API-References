@@ -2,8 +2,8 @@
 title: "UnderlineAnnotation.UnderlineAnnotation"
 linktitle: "UnderlineAnnotation"
 articleTitle: "UnderlineAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the UnderlineAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnderlineAnnotation constructor. Initializes a new instance of the UnderlineAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/underlineannotation/underlineannotation/"

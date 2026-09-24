@@ -2,8 +2,8 @@
 title: "GraphInfo.IsDoubled"
 linktitle: "IsDoubled"
 articleTitle: "IsDoubled"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets is border doubled."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphInfo property. Gets or sets is border doubled."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/graphinfo/isdoubled/"

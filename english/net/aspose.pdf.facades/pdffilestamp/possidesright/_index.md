@@ -2,8 +2,8 @@
 title: "PdfFileStamp.PosSidesRight"
 linktitle: "PosSidesRight"
 articleTitle: "PosSidesRight"
-second_title: "Aspose.PDF for .NET"
-description: "Right position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp field. Right position."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.facades/pdffilestamp/possidesright/"

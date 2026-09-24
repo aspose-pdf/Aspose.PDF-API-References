@@ -2,8 +2,8 @@
 title: "PdfViewer.PrintDocumentWithSetup"
 linktitle: "PrintDocumentWithSetup"
 articleTitle: "PrintDocumentWithSetup"
-second_title: "Aspose.PDF for .NET"
-description: "Prints the Pdf document with a setup dialog. Choose a printer using the dialog."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Prints the Pdf document with a setup dialog. Choose a printer using the dialog."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/"

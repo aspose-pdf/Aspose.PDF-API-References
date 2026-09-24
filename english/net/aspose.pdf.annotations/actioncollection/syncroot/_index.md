@@ -2,8 +2,8 @@
 title: "ActionCollection.SyncRoot"
 linktitle: "SyncRoot"
 articleTitle: "SyncRoot"
-second_title: "Aspose.PDF for .NET"
-description: "Gets synchronization object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection property. Gets synchronization object."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/actioncollection/syncroot/"

@@ -2,8 +2,8 @@
 title: "Opi.FileSpecification"
 linktitle: "FileSpecification"
 articleTitle: "FileSpecification"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the external file containing the low- resolution proxy image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Opi property. Gets the external file containing the low- resolution proxy image."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/opi/filespecification/"

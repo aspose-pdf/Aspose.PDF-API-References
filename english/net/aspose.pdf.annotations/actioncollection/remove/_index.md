@@ -2,8 +2,8 @@
 title: "ActionCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes item from collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection method. Removes item from collection."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/actioncollection/remove/"

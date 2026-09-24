@@ -2,8 +2,8 @@
 title: "RenderingOptions.DefaultFontName"
 linktitle: "DefaultFontName"
 articleTitle: "DefaultFontName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the default name of font used to substitute of missing fonts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets/sets the default name of font used to substitute of missing fonts."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/renderingoptions/defaultfontname/"

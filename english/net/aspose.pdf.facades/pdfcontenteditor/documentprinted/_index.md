@@ -2,8 +2,8 @@
 title: "PdfContentEditor.DocumentPrinted"
 linktitle: "DocumentPrinted"
 articleTitle: "DocumentPrinted"
-second_title: "Aspose.PDF for .NET"
-description: "A document event type. Excute a action after printing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor field. A document event type. Excute a action after printing."
 type: docs
 weight: 750
 url: "/net/aspose.pdf.facades/pdfcontenteditor/documentprinted/"

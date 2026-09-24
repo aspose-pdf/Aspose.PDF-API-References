@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilotOptions.WithTopP"
 linktitle: "WithTopP"
 articleTitle: "WithTopP"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the top P value for the image description copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the top P value for the image description copilot options."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtopp/"

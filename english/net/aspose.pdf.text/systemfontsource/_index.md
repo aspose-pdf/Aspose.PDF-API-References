@@ -2,8 +2,8 @@
 title: "SystemFontSource Class"
 linktitle: "SystemFontSource"
 articleTitle: "SystemFontSource"
-second_title: "Aspose.PDF for .NET"
-description: "Represents all fonts installed to the system."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.SystemFontSource class. Represents all fonts installed to the system."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.text/systemfontsource/"

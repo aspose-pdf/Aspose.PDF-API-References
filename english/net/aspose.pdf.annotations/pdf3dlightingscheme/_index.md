@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme Class"
 linktitle: "PDF3DLightingScheme"
 articleTitle: "PDF3DLightingScheme"
-second_title: "Aspose.PDF for .NET"
-description: "Class PDF3DLightingScheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DLightingScheme class. Class PDF3DLightingScheme."
 type: docs
 weight: 830
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/"

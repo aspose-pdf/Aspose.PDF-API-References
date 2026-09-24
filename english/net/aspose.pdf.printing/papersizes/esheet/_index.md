@@ -2,8 +2,8 @@
 title: "PaperSizes.ESheet"
 linktitle: "ESheet"
 articleTitle: "ESheet"
-second_title: "Aspose.PDF for .NET"
-description: "E paper (34 in. by 44 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. E paper (34 in. by 44 in.)."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.printing/papersizes/esheet/"

@@ -2,8 +2,8 @@
 title: "Matrix3D.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds matrix to other matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix3D method. Adds matrix to other matrix."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/matrix3d/add/"

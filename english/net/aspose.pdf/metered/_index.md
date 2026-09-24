@@ -2,8 +2,8 @@
 title: "Metered Class"
 linktitle: "Metered"
 articleTitle: "Metered"
-second_title: "Aspose.PDF for .NET"
-description: "Provides methods to set metered key."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Metered class. Provides methods to set metered key."
 type: docs
 weight: 1910
 url: "/net/aspose.pdf/metered/"

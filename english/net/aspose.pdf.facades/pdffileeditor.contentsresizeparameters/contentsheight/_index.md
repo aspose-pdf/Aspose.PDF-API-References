@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeParameters.ContentsHeight"
 linktitle: "ContentsHeight"
 articleTitle: "ContentsHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets height of the content of the source page on the resultant page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeParameters property. Gets or sets height of the content of the source page on the resultant page."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsheight/"

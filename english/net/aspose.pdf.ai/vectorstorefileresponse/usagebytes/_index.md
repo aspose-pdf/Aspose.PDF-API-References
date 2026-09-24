@@ -2,8 +2,8 @@
 title: "VectorStoreFileResponse.UsageBytes"
 linktitle: "UsageBytes"
 articleTitle: "UsageBytes"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the total vector store usage in bytes. Note that this may be different from the original file size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileResponse property. Gets or sets the total vector store usage in bytes. Note that this may be different from the original file size."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/usagebytes/"

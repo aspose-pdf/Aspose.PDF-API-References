@@ -2,8 +2,8 @@
 title: "TimestampAlgorithmInfo.FillText"
 linktitle: "FillText"
 articleTitle: "FillText"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampAlgorithmInfo method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/timestampalgorithminfo/filltext/"

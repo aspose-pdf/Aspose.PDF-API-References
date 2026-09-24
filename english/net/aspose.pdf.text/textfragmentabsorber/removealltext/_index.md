@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber.RemoveAllText"
 linktitle: "RemoveAllText"
 articleTitle: "RemoveAllText"
-second_title: "Aspose.PDF for .NET"
-description: "Removes all text from the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber method. Removes all text from the specified page."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.text/textfragmentabsorber/removealltext/"

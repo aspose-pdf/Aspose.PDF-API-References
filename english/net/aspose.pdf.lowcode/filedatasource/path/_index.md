@@ -2,8 +2,8 @@
 title: "FileDataSource.Path"
 linktitle: "Path"
 articleTitle: "Path"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the path to the file of the current data source."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileDataSource property. Gets the path to the file of the current data source."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/filedatasource/path/"

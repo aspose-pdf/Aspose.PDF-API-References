@@ -2,8 +2,8 @@
 title: "FontSubstitutionCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new font substitution object to the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSubstitutionCollection method. Adds new font substitution object to the collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/add/"

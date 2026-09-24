@@ -2,8 +2,8 @@
 title: "StampInfo.Image"
 linktitle: "Image"
 articleTitle: "Image"
-second_title: "Aspose.PDF for .NET"
-description: "Gets image of stamp. May be null if stamp does not contain images (for example for text stamp)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampInfo property. Gets image of stamp. May be null if stamp does not contain images (for example for text stamp)."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/stampinfo/image/"

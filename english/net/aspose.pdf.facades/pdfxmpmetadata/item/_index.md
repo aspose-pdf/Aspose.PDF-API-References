@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/item/"

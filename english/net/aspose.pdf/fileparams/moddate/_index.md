@@ -2,8 +2,8 @@
 title: "FileParams.ModDate"
 linktitle: "ModDate"
 articleTitle: "ModDate"
-second_title: "Aspose.PDF for .NET"
-description: "The date and time when the embedded file was last modified."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileParams property. The date and time when the embedded file was last modified."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/fileparams/moddate/"

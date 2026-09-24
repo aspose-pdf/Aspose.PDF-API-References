@@ -2,8 +2,8 @@
 title: "OutlineCollection.VisibleCount"
 linktitle: "VisibleCount"
 articleTitle: "VisibleCount"
-second_title: "Aspose.PDF for .NET"
-description: "Count is the sum of the number of visible descendent outline items at all levels. Note: please don't confuse with Count which is number if items in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineCollection property. Count is the sum of the number of visible descendent outline items at all levels. Note: please don't confuse with Count which is ..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/outlinecollection/visiblecount/"

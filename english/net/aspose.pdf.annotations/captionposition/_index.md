@@ -2,8 +2,8 @@
 title: "CaptionPosition Enum"
 linktitle: "CaptionPosition"
 articleTitle: "CaptionPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of the annotation's caption positioning."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.CaptionPosition enum. Enumeration of the annotation's caption positioning."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/captionposition/"

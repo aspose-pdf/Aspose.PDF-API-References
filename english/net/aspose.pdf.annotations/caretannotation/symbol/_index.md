@@ -2,8 +2,8 @@
 title: "CaretAnnotation.Symbol"
 linktitle: "Symbol"
 articleTitle: "Symbol"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets symbol associated with caret."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CaretAnnotation property. Gets or sets symbol associated with caret."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/caretannotation/symbol/"

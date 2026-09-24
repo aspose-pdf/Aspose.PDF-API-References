@@ -2,8 +2,8 @@
 title: "FileCounts.InProgress"
 linktitle: "InProgress"
 articleTitle: "InProgress"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of files that are currently being processed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileCounts property. Gets or sets the number of files that are currently being processed."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/filecounts/inprogress/"

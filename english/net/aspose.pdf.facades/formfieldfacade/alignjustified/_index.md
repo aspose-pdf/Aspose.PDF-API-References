@@ -2,8 +2,8 @@
 title: "FormFieldFacade.AlignJustified"
 linktitle: "AlignJustified"
 articleTitle: "AlignJustified"
-second_title: "Aspose.PDF for .NET"
-description: "Defines text justification alignment style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines text justification alignment style."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/formfieldfacade/alignjustified/"

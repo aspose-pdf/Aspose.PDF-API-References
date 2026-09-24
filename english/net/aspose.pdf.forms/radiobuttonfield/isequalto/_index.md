@@ -2,8 +2,8 @@
 title: "RadioButtonField.IsEqualTo"
 linktitle: "IsEqualTo"
 articleTitle: "IsEqualTo"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/radiobuttonfield/isequalto/"

@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilot.GetTextRecognitionResultAsync"
 linktitle: "GetTextRecognitionResultAsync"
 articleTitle: "GetTextRecognitionResultAsync"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilot method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaiocrcopilot/gettextrecognitionresultasync/"

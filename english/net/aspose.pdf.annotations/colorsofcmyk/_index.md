@@ -2,8 +2,8 @@
 title: "ColorsOfCMYK Enum"
 linktitle: "ColorsOfCMYK"
 articleTitle: "ColorsOfCMYK"
-second_title: "Aspose.PDF for .NET"
-description: "Colors included in the CMYK color model."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.ColorsOfCMYK enum. Colors included in the CMYK color model."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.annotations/colorsofcmyk/"

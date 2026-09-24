@@ -2,8 +2,8 @@
 title: "TextExtractionError.ExtractedText"
 linktitle: "ExtractedText"
 articleTitle: "ExtractedText"
-second_title: "Aspose.PDF for .NET"
-description: "Text that was actually extracted."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionError property. Text that was actually extracted."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textextractionerror/extractedtext/"

@@ -2,8 +2,8 @@
 title: "PageCollection.EndUpdate"
 linktitle: "EndUpdate"
 articleTitle: "EndUpdate"
-second_title: "Aspose.PDF for .NET"
-description: "Updates when group changes are complete. Restores page cache recalculations on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a tr..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Updates when group changes are complete. Restores page cache recalculations on each operation. We recommend calling the BeginUpdate/En..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/pagecollection/endupdate/"

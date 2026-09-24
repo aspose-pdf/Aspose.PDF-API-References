@@ -2,8 +2,8 @@
 title: "PdfPageEditor.GetPageRotation"
 linktitle: "GetPageRotation"
 articleTitle: "GetPageRotation"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the rotation of specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Returns the rotation of specified page."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpagerotation/"

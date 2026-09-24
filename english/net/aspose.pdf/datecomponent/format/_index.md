@@ -2,8 +2,8 @@
 title: "DateComponent.Format"
 linktitle: "Format"
 articleTitle: "Format"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the format for the date component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DateComponent property. Gets or sets the format for the date component."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/datecomponent/format/"

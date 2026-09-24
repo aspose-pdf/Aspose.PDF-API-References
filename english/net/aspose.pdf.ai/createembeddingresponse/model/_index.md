@@ -2,8 +2,8 @@
 title: "CreateEmbeddingResponse.Model"
 linktitle: "Model"
 articleTitle: "Model"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the model used for the embedding."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateEmbeddingResponse property. Gets or sets the model used for the embedding."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/createembeddingresponse/model/"

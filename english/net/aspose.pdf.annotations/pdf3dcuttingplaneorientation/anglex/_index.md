@@ -2,8 +2,8 @@
 title: "PDF3DCuttingPlaneOrientation.AngleX"
 linktitle: "AngleX"
 articleTitle: "AngleX"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the angle to X axis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCuttingPlaneOrientation property. Gets or sets the angle to X axis."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/"

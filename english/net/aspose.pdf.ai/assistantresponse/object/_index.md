@@ -2,8 +2,8 @@
 title: "AssistantResponse.Object"
 linktitle: "Object"
 articleTitle: "Object"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the object type, which is always assistant."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantResponse property. Gets or sets the object type, which is always assistant."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/assistantresponse/object/"

@@ -2,8 +2,8 @@
 title: "TextExtractionOptions.TextFormattingMode Enum"
 linktitle: "TextExtractionOptions.TextFormattingMode"
 articleTitle: "TextExtractionOptions.TextFormattingMode"
-second_title: "Aspose.PDF for .NET"
-description: "Defines different modes which can be used while converting pdf document into text. See class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextExtractionOptions.TextFormattingMode enum. Defines different modes which can be used while converting pdf document into text. See class."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.text/textextractionoptions.textformattingmode/"

@@ -2,8 +2,8 @@
 title: "OpenAIClient.GetAssistantsAsync"
 linktitle: "GetAssistantsAsync"
 articleTitle: "GetAssistantsAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves a list of assistants asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves a list of assistants asynchronously."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.ai/openaiclient/getassistantsasync/"

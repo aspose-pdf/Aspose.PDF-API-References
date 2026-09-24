@@ -2,8 +2,8 @@
 title: "SignatureName.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a string representation of the instance, primarily using its name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureName method. Returns a string representation of the instance, primarily using its name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/signaturename/tostring/"

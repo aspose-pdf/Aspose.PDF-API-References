@@ -2,8 +2,8 @@
 title: "Color.NavajoWhite"
 linktitle: "NavajoWhite"
 articleTitle: "NavajoWhite"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFFFDEAD."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFFFDEAD."
 type: docs
 weight: 1130
 url: "/net/aspose.pdf/color/navajowhite/"

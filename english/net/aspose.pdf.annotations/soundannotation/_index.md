@@ -2,8 +2,8 @@
 title: "SoundAnnotation Class"
 linktitle: "SoundAnnotation"
 articleTitle: "SoundAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a sound annotation that contains sound recorded from the computer's microphone or imported from a file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SoundAnnotation class. Represents a sound annotation that contains sound recorded from the computer's microphone or imported from a file."
 type: docs
 weight: 1160
 url: "/net/aspose.pdf.annotations/soundannotation/"

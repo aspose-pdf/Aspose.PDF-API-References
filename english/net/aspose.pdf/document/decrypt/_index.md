@@ -2,8 +2,8 @@
 title: "Document.Decrypt"
 linktitle: "Decrypt"
 articleTitle: "Decrypt"
-second_title: "Aspose.PDF for .NET"
-description: "Decrypts the document. Call then Save to obtain decrypted version of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Decrypts the document. Call then Save to obtain decrypted version of the document."
 type: docs
 weight: 660
 url: "/net/aspose.pdf/document/decrypt/"

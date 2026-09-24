@@ -2,8 +2,8 @@
 title: "Metadata.RegisterNamespaceUri"
 linktitle: "RegisterNamespaceUri"
 articleTitle: "RegisterNamespaceUri"
-second_title: "Aspose.PDF for .NET"
-description: "Registers namespace URI."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Registers namespace URI."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/metadata/registernamespaceuri/"

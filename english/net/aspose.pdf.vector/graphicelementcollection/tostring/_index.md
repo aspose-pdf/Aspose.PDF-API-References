@@ -2,8 +2,8 @@
 title: "GraphicElementCollection.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a string representation of this collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElementCollection method. Gets a string representation of this collection."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.vector/graphicelementcollection/tostring/"

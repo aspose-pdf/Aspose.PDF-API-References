@@ -2,8 +2,8 @@
 title: "Collection Class"
 linktitle: "Collection"
 articleTitle: "Collection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents class for Collection(12.3.5 Collections)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Collection class. Represents class for Collection(12.3.5 Collections)."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/collection/"

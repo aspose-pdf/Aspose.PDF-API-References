@@ -2,8 +2,8 @@
 title: "FormFieldFacade.BorderWidthMedium"
 linktitle: "BorderWidthMedium"
 articleTitle: "BorderWidthMedium"
-second_title: "Aspose.PDF for .NET"
-description: "Defines a medium border width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines a medium border width."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/"

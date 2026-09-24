@@ -2,8 +2,8 @@
 title: "AutoTaggingSettings.HeadingLevels"
 linktitle: "HeadingLevels"
 articleTitle: "HeadingLevels"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the heading levels used for determining the structure of headings in a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoTaggingSettings property. Gets or sets the heading levels used for determining the structure of headings in a PDF document."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/autotaggingsettings/headinglevels/"

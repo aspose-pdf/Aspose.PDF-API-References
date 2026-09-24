@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.GetValuesXml"
 linktitle: "GetValuesXml"
 articleTitle: "GetValuesXml"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the values of properties as xml tree representation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema method. Gets the values of properties as xml tree representation."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/"

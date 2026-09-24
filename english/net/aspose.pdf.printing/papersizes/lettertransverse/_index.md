@@ -2,8 +2,8 @@
 title: "PaperSizes.LetterTransverse"
 linktitle: "LetterTransverse"
 articleTitle: "LetterTransverse"
-second_title: "Aspose.PDF for .NET"
-description: "Letter transverse paper (8.275 in. by 11 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Letter transverse paper (8.275 in. by 11 in.)."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.printing/papersizes/lettertransverse/"

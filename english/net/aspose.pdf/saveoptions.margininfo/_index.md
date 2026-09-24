@@ -2,8 +2,8 @@
 title: "SaveOptions.MarginInfo Class"
 linktitle: "SaveOptions.MarginInfo"
 articleTitle: "SaveOptions.MarginInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Instance of this class represents information about page margin That can be drown on some result document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SaveOptions.MarginInfo class. Instance of this class represents information about page margin That can be drown on some result document."
 type: docs
 weight: 2800
 url: "/net/aspose.pdf/saveoptions.margininfo/"

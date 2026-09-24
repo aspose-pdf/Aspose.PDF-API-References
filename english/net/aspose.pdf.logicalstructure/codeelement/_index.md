@@ -2,8 +2,8 @@
 title: "CodeElement Class"
 linktitle: "CodeElement"
 articleTitle: "CodeElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Code structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.CodeElement class. Represents Code structure element in logical structure."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/codeelement/"

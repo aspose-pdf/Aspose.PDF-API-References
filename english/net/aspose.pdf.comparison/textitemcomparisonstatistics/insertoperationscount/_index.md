@@ -2,8 +2,8 @@
 title: "TextItemComparisonStatistics.InsertOperationsCount"
 linktitle: "InsertOperationsCount"
 articleTitle: "InsertOperationsCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the number of insert operations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextItemComparisonStatistics property. Gets and sets the number of insert operations."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/"

@@ -2,8 +2,8 @@
 title: "LinkElement.Hyperlink"
 linktitle: "Hyperlink"
 articleTitle: "Hyperlink"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or Sets Hyperlink for Link Element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LinkElement property. Gets or Sets Hyperlink for Link Element."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/linkelement/hyperlink/"

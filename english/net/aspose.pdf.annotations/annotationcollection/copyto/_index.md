@@ -2,8 +2,8 @@
 title: "AnnotationCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies array of annotations into collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Copies array of annotations into collection."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/annotationcollection/copyto/"

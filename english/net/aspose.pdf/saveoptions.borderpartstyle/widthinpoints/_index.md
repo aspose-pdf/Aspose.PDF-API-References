@@ -2,8 +2,8 @@
 title: "SaveOptions.BorderPartStyle.WidthInPoints"
 linktitle: "WidthInPoints"
 articleTitle: "WidthInPoints"
-second_title: "Aspose.PDF for .NET"
-description: "Represents border line's width in points. Must be number greater then zero."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderPartStyle property. Represents border line's width in points. Must be number greater then zero."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/saveoptions.borderpartstyle/widthinpoints/"

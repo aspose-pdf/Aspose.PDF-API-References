@@ -2,8 +2,8 @@
 title: "Clip.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns text representation of operators."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Clip method. Returns text representation of operators."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/clip/tostring/"

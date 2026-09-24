@@ -2,8 +2,8 @@
 title: "PdfContentEditor.DrawCurve"
 linktitle: "DrawCurve"
 articleTitle: "DrawCurve"
-second_title: "Aspose.PDF for .NET"
-description: "Creates curve annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates curve annotation."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfcontenteditor/drawcurve/"

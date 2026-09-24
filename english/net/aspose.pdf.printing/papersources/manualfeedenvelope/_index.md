@@ -2,8 +2,8 @@
 title: "PaperSources.ManualFeedEnvelope"
 linktitle: "ManualFeedEnvelope"
 articleTitle: "ManualFeedEnvelope"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a manual feed envelope paper source."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents a manual feed envelope paper source."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/papersources/manualfeedenvelope/"

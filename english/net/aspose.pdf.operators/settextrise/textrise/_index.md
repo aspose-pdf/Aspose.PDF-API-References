@@ -2,8 +2,8 @@
 title: "SetTextRise.TextRise"
 linktitle: "TextRise"
 articleTitle: "TextRise"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the text rise."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextRise property. Gets or sets the text rise."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/settextrise/textrise/"

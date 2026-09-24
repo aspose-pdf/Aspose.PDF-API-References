@@ -2,8 +2,8 @@
 title: "TextMarkupAnnotation.QuadPoints"
 linktitle: "QuadPoints"
 articleTitle: "QuadPoints"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the tex..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextMarkupAnnotation property. Gets or sets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/textmarkupannotation/quadpoints/"

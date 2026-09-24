@@ -2,8 +2,8 @@
 title: "ImagePlacement.Page"
 linktitle: "Page"
 articleTitle: "Page"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the page containing the image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement property. Gets the page containing the image."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/imageplacement/page/"

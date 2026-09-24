@@ -2,8 +2,8 @@
 title: "EpubLoadOptions.Margin"
 linktitle: "Margin"
 articleTitle: "Margin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets reference on object that represent marging info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EpubLoadOptions property. Gets reference on object that represent marging info."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/epubloadoptions/margin/"

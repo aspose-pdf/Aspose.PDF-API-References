@@ -2,8 +2,8 @@
 title: "CosPdfDictionary.Keys"
 linktitle: "Keys"
 articleTitle: "Keys"
-second_title: "Aspose.PDF for .NET"
-description: "Collection of editable keys."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary property. Collection of editable keys."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/keys/"

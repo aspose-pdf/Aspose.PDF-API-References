@@ -2,8 +2,8 @@
 title: "RenderingOptions.UseNewImagingEngine"
 linktitle: "UseNewImagingEngine"
 articleTitle: "UseNewImagingEngine"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a flag determines whether new imaging engine is used or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets a flag determines whether new imaging engine is used or not."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/renderingoptions/usenewimagingengine/"

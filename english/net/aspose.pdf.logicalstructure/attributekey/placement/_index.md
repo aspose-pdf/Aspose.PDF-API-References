@@ -2,8 +2,8 @@
 title: "AttributeKey.Placement"
 linktitle: "Placement"
 articleTitle: "Placement"
-second_title: "Aspose.PDF for .NET"
-description: "Placement attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Placement attribute (Layout attribute owner)."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/attributekey/placement/"

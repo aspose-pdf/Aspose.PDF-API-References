@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizer.HiddenDataSanitizer"
 linktitle: "HiddenDataSanitizer"
 articleTitle: "HiddenDataSanitizer"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the HiddenDataSanitizer class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizer constructor. Initializes a new instance of the HiddenDataSanitizer class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/hiddendatasanitizer/"

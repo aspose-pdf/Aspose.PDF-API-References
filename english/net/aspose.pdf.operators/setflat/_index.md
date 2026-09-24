@@ -2,8 +2,8 @@
 title: "SetFlat Class"
 linktitle: "SetFlat"
 articleTitle: "SetFlat"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing i operator (set flatness tolerance)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetFlat class. Class representing i operator (set flatness tolerance)."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.operators/setflat/"

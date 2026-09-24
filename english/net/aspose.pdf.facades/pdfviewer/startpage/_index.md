@@ -2,8 +2,8 @@
 title: "PdfViewer.StartPage"
 linktitle: "StartPage"
 articleTitle: "StartPage"
-second_title: "Aspose.PDF for .NET"
-description: "Occurs before a page starts to print."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer event. Occurs before a page starts to print."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.facades/pdfviewer/startpage/"

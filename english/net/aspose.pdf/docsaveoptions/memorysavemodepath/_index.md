@@ -2,8 +2,8 @@
 title: "DocSaveOptions.MemorySaveModePath"
 linktitle: "MemorySaveModePath"
 articleTitle: "MemorySaveModePath"
-second_title: "Aspose.PDF for .NET"
-description: "Defines the path (file name or directory name) to hold temporary data when converting in memory save mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocSaveOptions property. Defines the path (file name or directory name) to hold temporary data when converting in memory save mode."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/docsaveoptions/memorysavemodepath/"

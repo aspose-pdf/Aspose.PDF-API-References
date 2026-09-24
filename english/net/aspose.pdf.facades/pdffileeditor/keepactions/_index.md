@@ -2,8 +2,8 @@
 title: "PdfFileEditor.KeepActions"
 linktitle: "KeepActions"
 articleTitle: "KeepActions"
-second_title: "Aspose.PDF for .NET"
-description: "If true actions will be copied from source documents. Defaulkt value : true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. If true actions will be copied from source documents. Defaulkt value : true."
 type: docs
 weight: 1170
 url: "/net/aspose.pdf.facades/pdffileeditor/keepactions/"

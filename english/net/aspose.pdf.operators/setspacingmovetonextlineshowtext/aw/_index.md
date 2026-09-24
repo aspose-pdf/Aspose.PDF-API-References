@@ -2,8 +2,8 @@
 title: "SetSpacingMoveToNextLineShowText.Aw"
 linktitle: "Aw"
 articleTitle: "Aw"
-second_title: "Aspose.PDF for .NET"
-description: "Gets word spacing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetSpacingMoveToNextLineShowText property. Gets word spacing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/"

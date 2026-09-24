@@ -2,8 +2,8 @@
 title: "RedactionAnnotation.FillColor"
 linktitle: "FillColor"
 articleTitle: "FillColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets color to fill annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RedactionAnnotation property. Gets or sets color to fill annotation."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/redactionannotation/fillcolor/"

@@ -2,8 +2,8 @@
 title: "TimestampSettings.BasicAuthCredentials"
 linktitle: "BasicAuthCredentials"
 articleTitle: "BasicAuthCredentials"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the basic authentication credentials, Username and password are combined into a string \"username:password\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampSettings property. Gets/sets the basic authentication credentials, Username and password are combined into a string \"username:password\"."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/timestampsettings/basicauthcredentials/"

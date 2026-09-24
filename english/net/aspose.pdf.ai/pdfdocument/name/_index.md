@@ -2,8 +2,8 @@
 title: "PdfDocument.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the name of the PDF document. Generates new GUID if the name is not set."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfDocument property. Gets or sets the name of the PDF document. Generates new GUID if the name is not set."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/pdfdocument/name/"

@@ -2,8 +2,8 @@
 title: "Heading.Style"
 linktitle: "Style"
 articleTitle: "Style"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets or sets style."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/heading/style/"

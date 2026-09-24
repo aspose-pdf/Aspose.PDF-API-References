@@ -2,8 +2,8 @@
 title: "XImage.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets image name. Please note that if you change name of the image which has references in page contents, document may became incorrect. Please use XI..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage property. Gets or sets image name. Please note that if you change name of the image which has references in page contents, document may became incorre..."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/ximage/name/"

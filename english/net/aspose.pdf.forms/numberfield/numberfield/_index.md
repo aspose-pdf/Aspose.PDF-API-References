@@ -2,8 +2,8 @@
 title: "NumberField.NumberField"
 linktitle: "NumberField"
 articleTitle: "NumberField"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the NumberField class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberField constructor. Initializes a new instance of the NumberField class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/numberfield/numberfield/"

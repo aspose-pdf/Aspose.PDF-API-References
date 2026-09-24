@@ -2,8 +2,8 @@
 title: "HtmlToPdfOptions.PageLayoutOption"
 linktitle: "PageLayoutOption"
 articleTitle: "PageLayoutOption"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets layout option."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlToPdfOptions property. Gets or sets layout option."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/pagelayoutoption/"

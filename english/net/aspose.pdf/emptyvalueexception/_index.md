@@ -2,8 +2,8 @@
 title: "EmptyValueException Class"
 linktitle: "EmptyValueException"
 articleTitle: "EmptyValueException"
-second_title: "Aspose.PDF for .NET"
-description: "Exception which thrown when requirested value does not exists."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.EmptyValueException class. Exception which thrown when requirested value does not exists."
 type: docs
 weight: 740
 url: "/net/aspose.pdf/emptyvalueexception/"

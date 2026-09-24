@@ -2,8 +2,8 @@
 title: "EndPath.EndPath"
 linktitle: "EndPath"
 articleTitle: "EndPath"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EndPath class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EndPath constructor. Initializes a new instance of the EndPath class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/endpath/endpath/"

@@ -2,8 +2,8 @@
 title: "Annotation.TextHorizontalAlignment"
 linktitle: "TextHorizontalAlignment"
 articleTitle: "TextHorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets text alignment for annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets text alignment for annotation."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.annotations/annotation/texthorizontalalignment/"

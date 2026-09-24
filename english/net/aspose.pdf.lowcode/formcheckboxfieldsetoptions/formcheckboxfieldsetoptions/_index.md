@@ -2,8 +2,8 @@
 title: "FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions"
 linktitle: "FormCheckBoxFieldSetOptions"
 articleTitle: "FormCheckBoxFieldSetOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormCheckBoxFieldSetOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormCheckBoxFieldSetOptions constructor. Initializes a new instance of the FormCheckBoxFieldSetOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formcheckboxfieldsetoptions/formcheckboxfieldsetoptions/"

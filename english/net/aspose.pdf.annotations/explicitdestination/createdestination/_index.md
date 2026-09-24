@@ -2,8 +2,8 @@
 title: "ExplicitDestination.CreateDestination"
 linktitle: "CreateDestination"
 articleTitle: "CreateDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Creates instances of ExplicitDestination descendant classes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExplicitDestination method. Creates instances of ExplicitDestination descendant classes."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/explicitdestination/createdestination/"

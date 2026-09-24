@@ -2,8 +2,8 @@
 title: "TextFragment.FootNote"
 linktitle: "FootNote"
 articleTitle: "FootNote"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the paragraph foot note.(for pdf generation only)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets or sets the paragraph foot note.(for pdf generation only)"
 type: docs
 weight: 220
 url: "/net/aspose.pdf.text/textfragment/footnote/"

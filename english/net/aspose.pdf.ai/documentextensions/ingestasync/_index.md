@@ -2,8 +2,8 @@
 title: "DocumentExtensions.IngestAsync"
 linktitle: "IngestAsync"
 articleTitle: "IngestAsync"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentExtensions method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/documentextensions/ingestasync/"

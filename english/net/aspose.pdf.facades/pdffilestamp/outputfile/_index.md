@@ -2,8 +2,8 @@
 title: "PdfFileStamp.OutputFile"
 linktitle: "OutputFile"
 articleTitle: "OutputFile"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets name and path of output file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp property. Gets or sets name and path of output file."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdffilestamp/outputfile/"

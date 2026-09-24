@@ -2,8 +2,8 @@
 title: "LineAnnotation.InteriorColor"
 linktitle: "InteriorColor"
 articleTitle: "InteriorColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets interior color of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets interior color of the annotation."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/lineannotation/interiorcolor/"

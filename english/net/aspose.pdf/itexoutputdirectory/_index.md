@@ -2,8 +2,8 @@
 title: "ITeXOutputDirectory Interface"
 linktitle: "ITeXOutputDirectory"
 articleTitle: "ITeXOutputDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "Interface of generalized TeX output directory."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ITeXOutputDirectory interface. Interface of generalized TeX output directory."
 type: docs
 weight: 1460
 url: "/net/aspose.pdf/itexoutputdirectory/"

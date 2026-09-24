@@ -2,8 +2,8 @@
 title: "StructureAttribute.GetNumberValue"
 linktitle: "GetNumberValue"
 articleTitle: "GetNumberValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets Value Number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttribute method. Gets Value Number."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/"

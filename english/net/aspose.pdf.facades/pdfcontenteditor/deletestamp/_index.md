@@ -2,8 +2,8 @@
 title: "PdfContentEditor.DeleteStamp"
 linktitle: "DeleteStamp"
 articleTitle: "DeleteStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes multiple stamps on the specified page by stamp indexes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Deletes multiple stamps on the specified page by stamp indexes."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/"

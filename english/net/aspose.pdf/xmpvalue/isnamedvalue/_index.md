@@ -2,8 +2,8 @@
 title: "XmpValue.IsNamedValue"
 linktitle: "IsNamedValue"
 articleTitle: "IsNamedValue"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if XmpValue is named value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue property. Returns true if XmpValue is named value."
 type: docs
 weight: 340
 url: "/net/aspose.pdf/xmpvalue/isnamedvalue/"

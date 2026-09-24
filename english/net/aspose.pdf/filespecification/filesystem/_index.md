@@ -2,8 +2,8 @@
 title: "FileSpecification.FileSystem"
 linktitle: "FileSystem"
 articleTitle: "FileSystem"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets name of the file system."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets or sets name of the file system."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/filespecification/filesystem/"

@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.SetTextStyle"
 linktitle: "SetTextStyle"
 articleTitle: "SetTextStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the formatting determined by the parameter textStyle for all annotation text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation method. Sets the formatting determined by the parameter textStyle for all annotation text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/freetextannotation/settextstyle/"

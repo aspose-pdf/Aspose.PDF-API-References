@@ -2,8 +2,8 @@
 title: "SetColorStroke.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor object to process operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorStroke method. Accepts visitor object to process operator."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.operators/setcolorstroke/accept/"

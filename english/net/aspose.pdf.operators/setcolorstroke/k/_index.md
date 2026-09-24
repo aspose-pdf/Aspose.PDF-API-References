@@ -2,8 +2,8 @@
 title: "SetColorStroke.K"
 linktitle: "K"
 articleTitle: "K"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the black component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorStroke property. Gets or sets the black component."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.operators/setcolorstroke/k/"

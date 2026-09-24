@@ -2,8 +2,8 @@
 title: "Outlines Class"
 linktitle: "Outlines"
 articleTitle: "Outlines"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes collection of outlines."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Outlines class. Class describes collection of outlines."
 type: docs
 weight: 2080
 url: "/net/aspose.pdf/outlines/"

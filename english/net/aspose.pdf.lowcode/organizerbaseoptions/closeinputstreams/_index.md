@@ -2,8 +2,8 @@
 title: "OrganizerBaseOptions.CloseInputStreams"
 linktitle: "CloseInputStreams"
 articleTitle: "CloseInputStreams"
-second_title: "Aspose.PDF for .NET"
-description: "Close input streams after operation completed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OrganizerBaseOptions property. Close input streams after operation completed."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/"

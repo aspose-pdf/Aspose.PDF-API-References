@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateBookmarksAction"
 linktitle: "CreateBookmarksAction"
 articleTitle: "CreateBookmarksAction"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a bookmark with the specified action."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a bookmark with the specified action."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/"

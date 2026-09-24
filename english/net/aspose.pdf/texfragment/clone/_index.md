@@ -2,8 +2,8 @@
 title: "TeXFragment.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clones fragment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXFragment method. Clones fragment."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texfragment/clone/"

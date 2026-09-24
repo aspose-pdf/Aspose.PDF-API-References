@@ -2,8 +2,8 @@
 title: "RadioButtonOptionField.Caption"
 linktitle: "Caption"
 articleTitle: "Caption"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets caption."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonOptionField property. Gets or sets caption."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/radiobuttonoptionfield/caption/"

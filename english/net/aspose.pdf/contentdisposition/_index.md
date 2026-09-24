@@ -2,8 +2,8 @@
 title: "ContentDisposition Enum"
 linktitle: "ContentDisposition"
 articleTitle: "ContentDisposition"
-second_title: "Aspose.PDF for .NET"
-description: "MIME protocol Content-Disposition header."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ContentDisposition enum. MIME protocol Content-Disposition header."
 type: docs
 weight: 440
 url: "/net/aspose.pdf/contentdisposition/"

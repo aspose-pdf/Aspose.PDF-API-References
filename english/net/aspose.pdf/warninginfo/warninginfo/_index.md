@@ -2,8 +2,8 @@
 title: "WarningInfo.WarningInfo"
 linktitle: "WarningInfo"
 articleTitle: "WarningInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the WarningInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WarningInfo constructor. Initializes a new instance of the WarningInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/warninginfo/warninginfo/"

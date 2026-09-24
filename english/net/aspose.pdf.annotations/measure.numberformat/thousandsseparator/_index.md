@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.ThousandsSeparator"
 linktitle: "ThousandsSeparator"
 articleTitle: "ThousandsSeparator"
-second_title: "Aspose.PDF for .NET"
-description: "Text that shall be used between orders of thousands in display of numerical values. An empty string indicates that no text shall be added. Default is comma."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. Text that shall be used between orders of thousands in display of numerical values. An empty string indicates that no text shall be ad..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/measure.numberformat/thousandsseparator/"

@@ -2,8 +2,8 @@
 title: "AlignmentType.Center"
 linktitle: "Center"
 articleTitle: "Center"
-second_title: "Aspose.PDF for .NET"
-description: "Center alignment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AlignmentType field. Center alignment."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/alignmenttype/center/"

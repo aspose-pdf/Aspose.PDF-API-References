@@ -2,8 +2,8 @@
 title: "NoteElement Class"
 linktitle: "NoteElement"
 articleTitle: "NoteElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Note structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.NoteElement class. Represents Note structure element in logical structure."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.logicalstructure/noteelement/"

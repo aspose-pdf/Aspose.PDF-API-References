@@ -2,8 +2,8 @@
 title: "SetRGBColorStroke Class"
 linktitle: "SetRGBColorStroke"
 articleTitle: "SetRGBColorStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing RG operator (set RGB color for stroking operators)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetRGBColorStroke class. Class representing RG operator (set RGB color for stroking operators)."
 type: docs
 weight: 720
 url: "/net/aspose.pdf.operators/setrgbcolorstroke/"

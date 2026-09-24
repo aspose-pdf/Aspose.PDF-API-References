@@ -2,8 +2,8 @@
 title: "Annotation.InnerRect"
 linktitle: "InnerRect"
 articleTitle: "InnerRect"
-second_title: "Aspose.PDF for .NET"
-description: "Returns internal rectnagle of annotation, i.e. rectangle recalculated according to RD entry of annotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Returns internal rectnagle of annotation, i.e. rectangle recalculated according to RD entry of annotation"
 type: docs
 weight: 200
 url: "/net/aspose.pdf.annotations/annotation/innerrect/"

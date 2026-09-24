@@ -2,8 +2,8 @@
 title: "FormElement Class"
 linktitle: "FormElement"
 articleTitle: "FormElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Form structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.FormElement class. Represents Form structure element in logical structure."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.logicalstructure/formelement/"

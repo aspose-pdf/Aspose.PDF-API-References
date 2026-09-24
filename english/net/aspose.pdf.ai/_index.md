@@ -2,7 +2,7 @@
 title: "Aspose.Pdf.AI"
 linktitle: "Aspose.Pdf.AI"
 articleTitle: "Aspose.Pdf.AI"
-second_title: "Aspose.PDF for .NET"
+second_title: "Aspose.PDF for .NET API Reference"
 description: "The **Aspose.Pdf.AI** namespace provides classes."
 type: docs
 weight: 10

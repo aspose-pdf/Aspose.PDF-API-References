@@ -2,8 +2,8 @@
 title: "BDC.Properties"
 linktitle: "Properties"
 articleTitle: "Properties"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BDC property."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/bdc/properties/"

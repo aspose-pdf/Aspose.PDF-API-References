@@ -2,8 +2,8 @@
 title: "Cells.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection's enumerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cells method. Gets collection's enumerator."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/cells/getenumerator/"

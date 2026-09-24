@@ -2,8 +2,8 @@
 title: "FormattedFragment Class"
 linktitle: "FormattedFragment"
 articleTitle: "FormattedFragment"
-second_title: "Aspose.PDF for .NET"
-description: "Represents abstract formatted fragment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FormattedFragment class. Represents abstract formatted fragment."
 type: docs
 weight: 1000
 url: "/net/aspose.pdf/formattedfragment/"

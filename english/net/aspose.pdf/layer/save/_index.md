@@ -2,8 +2,8 @@
 title: "Layer.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves the current layer to a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer method. Saves the current layer to a PDF document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/layer/save/"

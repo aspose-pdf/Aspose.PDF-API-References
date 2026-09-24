@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation Class"
 linktitle: "FreeTextAnnotation"
 articleTitle: "FreeTextAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a free text annotation that displays text directly on the page. Unlike an ordinary text annotation, a free text annotation has no open or closed s..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FreeTextAnnotation class. Represents a free text annotation that displays text directly on the page. Unlike an ordinary text annotatio..."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.annotations/freetextannotation/"

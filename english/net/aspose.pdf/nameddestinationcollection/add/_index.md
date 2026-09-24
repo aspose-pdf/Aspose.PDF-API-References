@@ -2,8 +2,8 @@
 title: "NamedDestinationCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Add new named destination."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NamedDestinationCollection method. Add new named destination."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/nameddestinationcollection/add/"

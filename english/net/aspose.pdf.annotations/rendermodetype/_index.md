@@ -2,8 +2,8 @@
 title: "RenderModeType Enum"
 linktitle: "RenderModeType"
 articleTitle: "RenderModeType"
-second_title: "Aspose.PDF for .NET"
-description: "Enum RenderModeType: set of render mode types"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RenderModeType enum. Enum RenderModeType: set of render mode types"
 type: docs
 weight: 1040
 url: "/net/aspose.pdf.annotations/rendermodetype/"

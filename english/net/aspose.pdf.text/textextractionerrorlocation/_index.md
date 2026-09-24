@@ -2,8 +2,8 @@
 title: "TextExtractionErrorLocation Class"
 linktitle: "TextExtractionErrorLocation"
 articleTitle: "TextExtractionErrorLocation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the location in the PDF document where text extraction error has appeared."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextExtractionErrorLocation class. Represents the location in the PDF document where text extraction error has appeared."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.text/textextractionerrorlocation/"

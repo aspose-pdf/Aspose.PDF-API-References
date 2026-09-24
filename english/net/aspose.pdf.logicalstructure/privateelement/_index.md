@@ -2,8 +2,8 @@
 title: "PrivateElement Class"
 linktitle: "PrivateElement"
 articleTitle: "PrivateElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Private structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.PrivateElement class. Represents Private structure element in logical structure."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.logicalstructure/privateelement/"

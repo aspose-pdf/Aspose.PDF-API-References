@@ -2,8 +2,8 @@
 title: "TextAlignment Enum"
 linktitle: "TextAlignment"
 articleTitle: "TextAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Alignment of text in annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.TextAlignment enum. Alignment of text in annotation."
 type: docs
 weight: 1280
 url: "/net/aspose.pdf.annotations/textalignment/"

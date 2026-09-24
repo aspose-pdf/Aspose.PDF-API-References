@@ -2,8 +2,8 @@
 title: "PdfFileInfo.GetMetaInfo"
 linktitle: "GetMetaInfo"
 articleTitle: "GetMetaInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets customized information of PDF document with property name. If there is no property match the name it will return a blank string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Gets customized information of PDF document with property name. If there is no property match the name it will return a blank string."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdffileinfo/getmetainfo/"

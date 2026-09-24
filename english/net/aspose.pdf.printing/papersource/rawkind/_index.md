@@ -2,8 +2,8 @@
 title: "PaperSource.RawKind"
 linktitle: "RawKind"
 articleTitle: "RawKind"
-second_title: "Aspose.PDF for .NET"
-description: "Same as , but values larger than DMBIN_USER do not map to ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSource property. Same as , but values larger than DMBIN_USER do not map to ."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/papersource/rawkind/"

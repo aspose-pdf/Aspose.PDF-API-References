@@ -2,8 +2,8 @@
 title: "SaveOptions.BorderPartStyle.Color"
 linktitle: "Color"
 articleTitle: "Color"
-second_title: "Aspose.PDF for .NET"
-description: "Represents border line's line color"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderPartStyle field. Represents border line's line color"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/saveoptions.borderpartstyle/color/"

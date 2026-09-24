@@ -2,8 +2,8 @@
 title: "Page.Resources"
 linktitle: "Resources"
 articleTitle: "Resources"
-second_title: "Aspose.PDF for .NET"
-description: "Gets page resources. Resources object contains collections of images, forms and fonts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets page resources. Resources object contains collections of images, forms and fonts."
 type: docs
 weight: 510
 url: "/net/aspose.pdf/page/resources/"

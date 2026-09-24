@@ -2,8 +2,8 @@
 title: "ImagePlacementCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds the text fragment element at the specified index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacementCollection method. Adds the text fragment element at the specified index."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/imageplacementcollection/add/"

@@ -2,8 +2,8 @@
 title: "FooterArtifact Class"
 linktitle: "FooterArtifact"
 articleTitle: "FooterArtifact"
-second_title: "Aspose.PDF for .NET"
-description: "Describes footer artifact. This may be used to set footer of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FooterArtifact class. Describes footer artifact. This may be used to set footer of the page."
 type: docs
 weight: 990
 url: "/net/aspose.pdf/footerartifact/"

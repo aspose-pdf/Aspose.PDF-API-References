@@ -2,8 +2,8 @@
 title: "OpenAIContext.ThreadId"
 linktitle: "ThreadId"
 articleTitle: "ThreadId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Thread ID."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIContext property. Gets or sets the Thread ID."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/openaicontext/threadid/"

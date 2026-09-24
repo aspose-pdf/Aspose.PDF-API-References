@@ -2,8 +2,8 @@
 title: "CheckboxField.AllowedStates"
 linktitle: "AllowedStates"
 articleTitle: "AllowedStates"
-second_title: "Aspose.PDF for .NET"
-description: "Returns list of allowed states."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CheckboxField property. Returns list of allowed states."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/checkboxfield/allowedstates/"

@@ -2,8 +2,8 @@
 title: "AutoFiller.ImportDataTable"
 linktitle: "ImportDataTable"
 articleTitle: "ImportDataTable"
-second_title: "Aspose.PDF for .NET"
-description: "Imports data of DataTable type. Every column's name of the dataTable must be the same as one field name of the template pdf in case sensitive."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller method. Imports data of DataTable type. Every column's name of the dataTable must be the same as one field name of the template pdf in case sensit..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/autofiller/importdatatable/"

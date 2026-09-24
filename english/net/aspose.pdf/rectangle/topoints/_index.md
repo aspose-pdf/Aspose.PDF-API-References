@@ -2,8 +2,8 @@
 title: "Rectangle.ToPoints"
 linktitle: "ToPoints"
 articleTitle: "ToPoints"
-second_title: "Aspose.PDF for .NET"
-description: "Converts rectangle into array of points (\"QuadPoints\")."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Converts rectangle into array of points (\"QuadPoints\")."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/rectangle/topoints/"

@@ -2,8 +2,8 @@
 title: "PolyAnnotation Class"
 linktitle: "PolyAnnotation"
 articleTitle: "PolyAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Abstract base class for poly- annotations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PolyAnnotation class. Abstract base class for poly- annotations."
 type: docs
 weight: 910
 url: "/net/aspose.pdf.annotations/polyannotation/"

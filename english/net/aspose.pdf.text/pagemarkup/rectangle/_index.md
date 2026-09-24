@@ -2,8 +2,8 @@
 title: "PageMarkup.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets processed page rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageMarkup property. Gets processed page rectangle."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/pagemarkup/rectangle/"

@@ -2,8 +2,8 @@
 title: "TextFragmentCollection.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Clears all items from the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentCollection method. Clears all items from the collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textfragmentcollection/clear/"

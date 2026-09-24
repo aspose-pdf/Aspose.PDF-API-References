@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.RegisterNamespaceURI"
 linktitle: "RegisterNamespaceURI"
 articleTitle: "RegisterNamespaceURI"
-second_title: "Aspose.PDF for .NET"
-description: "Registers the namespace URI."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Registers the namespace URI."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/"

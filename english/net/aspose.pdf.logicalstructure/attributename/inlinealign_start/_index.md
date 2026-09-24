@@ -2,8 +2,8 @@
 title: "AttributeName.InlineAlign_Start"
 linktitle: "InlineAlign_Start"
 articleTitle: "InlineAlign_Start"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute InlineAlign: Start - Start edge of each child's allocation rectangle aligned with that of the table cell's content rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute InlineAlign: Start - Start edge of each child's allocation rectangle aligned with that of the table cell's content rectangle."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.logicalstructure/attributename/inlinealign_start/"

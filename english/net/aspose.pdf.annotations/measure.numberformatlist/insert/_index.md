@@ -2,8 +2,8 @@
 title: "Measure.NumberFormatList.Insert"
 linktitle: "Insert"
 articleTitle: "Insert"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormatList method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/insert/"

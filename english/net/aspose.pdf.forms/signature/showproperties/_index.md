@@ -2,8 +2,8 @@
 title: "Signature.ShowProperties"
 linktitle: "ShowProperties"
 articleTitle: "ShowProperties"
-second_title: "Aspose.PDF for .NET"
-description: "Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ---------..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to r..."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.forms/signature/showproperties/"

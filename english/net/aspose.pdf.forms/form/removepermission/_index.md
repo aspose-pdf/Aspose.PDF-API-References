@@ -2,8 +2,8 @@
 title: "Form.RemovePermission"
 linktitle: "RemovePermission"
 articleTitle: "RemovePermission"
-second_title: "Aspose.PDF for .NET"
-description: "If this property is true the \"Perms\" dictionary will be removed from the pdf document after conversion dynamic documents to standard. The \"Perms\" dictionary ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. If this property is true the \"Perms\" dictionary will be removed from the pdf document after conversion dynamic documents to standard. The \"Per..."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.forms/form/removepermission/"

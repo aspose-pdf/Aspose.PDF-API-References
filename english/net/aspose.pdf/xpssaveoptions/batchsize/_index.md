@@ -2,8 +2,8 @@
 title: "XpsSaveOptions.BatchSize"
 linktitle: "BatchSize"
 articleTitle: "BatchSize"
-second_title: "Aspose.PDF for .NET"
-description: "Defines batch size if batched conversion is applicable to source and destination formats pair."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XpsSaveOptions property. Defines batch size if batched conversion is applicable to source and destination formats pair."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xpssaveoptions/batchsize/"

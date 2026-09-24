@@ -2,8 +2,8 @@
 title: "AICopilotFactory.CreateSummaryCopilot"
 linktitle: "CreateSummaryCopilot"
 articleTitle: "CreateSummaryCopilot"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AICopilotFactory method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/aicopilotfactory/createsummarycopilot/"

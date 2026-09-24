@@ -2,8 +2,8 @@
 title: "Form.ExtractXfaData"
 linktitle: "ExtractXfaData"
 articleTitle: "ExtractXfaData"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts XFA data packet"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Extracts XFA data packet"
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/form/extractxfadata/"

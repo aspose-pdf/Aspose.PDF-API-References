@@ -2,8 +2,8 @@
 title: "RunThreadCreateRequest.Tools"
 linktitle: "Tools"
 articleTitle: "Tools"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the tools that override the tools the assistant can use for this run. This is useful for modifying the behavior on a per-run basis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunThreadCreateRequest property. Gets or sets the tools that override the tools the assistant can use for this run. This is useful for modifying the behavior..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/tools/"

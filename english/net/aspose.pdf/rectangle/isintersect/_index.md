@@ -2,8 +2,8 @@
 title: "Rectangle.IsIntersect"
 linktitle: "IsIntersect"
 articleTitle: "IsIntersect"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether this rectangle intersects with other rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Determines whether this rectangle intersects with other rectangle."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/rectangle/isintersect/"

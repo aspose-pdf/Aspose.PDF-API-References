@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilot Class"
 linktitle: "OpenAIChatCopilot"
 articleTitle: "OpenAIChatCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a chat copilot for interacting with documents via AI models. Example usage of creating an OpenAI client, configuring options, and using the ChatCo..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIChatCopilot class. Represents a chat copilot for interacting with documents via AI models. Example usage of creating an OpenAI client, co..."
 type: docs
 weight: 880
 url: "/net/aspose.pdf.ai/openaichatcopilot/"

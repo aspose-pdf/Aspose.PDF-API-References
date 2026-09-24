@@ -2,8 +2,8 @@
 title: "SectElement Class"
 linktitle: "SectElement"
 articleTitle: "SectElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Sect structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.SectElement class. Represents Sect structure element in logical structure."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.logicalstructure/sectelement/"

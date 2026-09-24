@@ -2,8 +2,8 @@
 title: "PaperSizes.Prc16K"
 linktitle: "Prc16K"
 articleTitle: "Prc16K"
-second_title: "Aspose.PDF for .NET"
-description: "16K paper (146 mm by 215 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. 16K paper (146 mm by 215 mm)."
 type: docs
 weight: 910
 url: "/net/aspose.pdf.printing/papersizes/prc16k/"

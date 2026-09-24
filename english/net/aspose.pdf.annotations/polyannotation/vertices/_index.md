@@ -2,8 +2,8 @@
 title: "PolyAnnotation.Vertices"
 linktitle: "Vertices"
 articleTitle: "Vertices"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an array of points representing the horizontal and vertical coordinates of each vertex."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolyAnnotation property. Gets or sets an array of points representing the horizontal and vertical coordinates of each vertex."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/polyannotation/vertices/"

@@ -2,8 +2,8 @@
 title: "RunStepDetails.MessageCreation"
 linktitle: "MessageCreation"
 articleTitle: "MessageCreation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the details of the message creation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepDetails property. Gets or sets the details of the message creation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/runstepdetails/messagecreation/"

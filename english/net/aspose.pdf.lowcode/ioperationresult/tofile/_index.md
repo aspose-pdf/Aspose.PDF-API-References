@@ -2,8 +2,8 @@
 title: "IOperationResult.ToFile"
 linktitle: "ToFile"
 articleTitle: "ToFile"
-second_title: "Aspose.PDF for .NET"
-description: "Tries to convert the result to the file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOperationResult method. Tries to convert the result to the file."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/ioperationresult/tofile/"

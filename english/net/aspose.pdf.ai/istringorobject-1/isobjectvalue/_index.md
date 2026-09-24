@@ -2,8 +2,8 @@
 title: "IStringOrObject<T>.IsObjectValue"
 linktitle: "IsObjectValue"
 articleTitle: "IsObjectValue"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IStringOrObject property."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/istringorobject-1/isobjectvalue/"

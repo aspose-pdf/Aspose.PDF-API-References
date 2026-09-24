@@ -2,8 +2,8 @@
 title: "StructureElement.ActualText"
 linktitle: "ActualText"
 articleTitle: "ActualText"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the actual text for structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets or sets the actual text for structure element."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.logicalstructure/structureelement/actualtext/"

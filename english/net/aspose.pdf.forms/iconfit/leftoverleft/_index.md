@@ -2,8 +2,8 @@
 title: "IconFit.LeftoverLeft"
 linktitle: "LeftoverLeft"
 articleTitle: "LeftoverLeft"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets space to allocate at the left of the icon."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IconFit property. Gets or sets space to allocate at the left of the icon."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/iconfit/leftoverleft/"

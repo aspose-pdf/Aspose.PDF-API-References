@@ -2,8 +2,8 @@
 title: "XfaParserOptions.EmulateRequierdGroups"
 linktitle: "EmulateRequierdGroups"
 articleTitle: "EmulateRequierdGroups"
-second_title: "Aspose.PDF for .NET"
-description: "If this property is true then additional red rectangles will be drawn for required Xfa \"excluded groups\" This property was introduced because absences of ana..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XfaParserOptions property. If this property is true then additional red rectangles will be drawn for required Xfa \"excluded groups\" This property was introdu..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/"

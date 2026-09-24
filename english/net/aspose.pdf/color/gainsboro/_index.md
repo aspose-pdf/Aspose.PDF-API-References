@@ -2,8 +2,8 @@
 title: "Color.Gainsboro"
 linktitle: "Gainsboro"
 articleTitle: "Gainsboro"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFDCDCDC."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFDCDCDC."
 type: docs
 weight: 650
 url: "/net/aspose.pdf/color/gainsboro/"

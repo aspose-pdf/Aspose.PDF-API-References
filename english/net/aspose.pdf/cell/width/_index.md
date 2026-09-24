@@ -2,8 +2,8 @@
 title: "Cell.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the column width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cell property. Gets or sets the column width."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/cell/width/"

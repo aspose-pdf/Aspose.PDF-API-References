@@ -2,8 +2,8 @@
 title: "Measure.XYFactor"
 linktitle: "XYFactor"
 articleTitle: "XYFactor"
-second_title: "Aspose.PDF for .NET"
-description: "A factor that shall be used to convert the largest units along the y axis to the largest units along the x axis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. A factor that shall be used to convert the largest units along the y axis to the largest units along the x axis."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/measure/xyfactor/"

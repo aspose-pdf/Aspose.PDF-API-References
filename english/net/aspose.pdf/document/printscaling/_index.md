@@ -2,8 +2,8 @@
 title: "Document.PrintScaling"
 linktitle: "PrintScaling"
 articleTitle: "PrintScaling"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the page scaling option that shall be selected when a print dialog is displayed for this document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets the page scaling option that shall be selected when a print dialog is displayed for this document."
 type: docs
 weight: 1420
 url: "/net/aspose.pdf/document/printscaling/"

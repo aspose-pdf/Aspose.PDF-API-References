@@ -2,8 +2,8 @@
 title: "XmpValue.ToArray"
 linktitle: "ToArray"
 articleTitle: "ToArray"
-second_title: "Aspose.PDF for .NET"
-description: "Returns array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Returns array."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xmpvalue/toarray/"

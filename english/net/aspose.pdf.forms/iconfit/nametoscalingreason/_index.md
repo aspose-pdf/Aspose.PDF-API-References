@@ -2,8 +2,8 @@
 title: "IconFit.NameToScalingReason"
 linktitle: "NameToScalingReason"
 articleTitle: "NameToScalingReason"
-second_title: "Aspose.PDF for .NET"
-description: "Converts name of scaling reason into ScalingReason object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IconFit method. Converts name of scaling reason into ScalingReason object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/iconfit/nametoscalingreason/"

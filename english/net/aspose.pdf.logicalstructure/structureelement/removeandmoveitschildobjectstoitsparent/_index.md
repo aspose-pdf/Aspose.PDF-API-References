@@ -2,8 +2,8 @@
 title: "StructureElement.RemoveAndMoveItsChildObjectsToItsParent"
 linktitle: "RemoveAndMoveItsChildObjectsToItsParent"
 articleTitle: "RemoveAndMoveItsChildObjectsToItsParent"
-second_title: "Aspose.PDF for .NET"
-description: "Removes an element from the structure, a reference to it from the parent object, references to it from child objects, and the corresponding object from the d..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement method. Removes an element from the structure, a reference to it from the parent object, references to it from child objects, and the corres..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/"

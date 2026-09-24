@@ -2,8 +2,8 @@
 title: "ITaggedContent.CreateHeaderElement"
 linktitle: "CreateHeaderElement"
 articleTitle: "CreateHeaderElement"
-second_title: "Aspose.PDF for .NET"
-description: "Creates ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.tagged/itaggedcontent/createheaderelement/"

@@ -2,8 +2,8 @@
 title: "Function.Parameters"
 linktitle: "Parameters"
 articleTitle: "Parameters"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the parameters the functions accepts, described as a JSON Schema object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Function property. Gets or sets the parameters the functions accepts, described as a JSON Schema object."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/function/parameters/"

@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobRequest.Hyperparameters"
 linktitle: "Hyperparameters"
 articleTitle: "Hyperparameters"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the hyperparameters used for the fine-tuning job."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobRequest property. Gets or sets the hyperparameters used for the fine-tuning job."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/"

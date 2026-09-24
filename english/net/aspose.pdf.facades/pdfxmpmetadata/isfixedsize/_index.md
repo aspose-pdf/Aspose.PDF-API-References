@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.IsFixedSize"
 linktitle: "IsFixedSize"
 articleTitle: "IsFixedSize"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true is collection has fixed size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property. Returns true is collection has fixed size."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/isfixedsize/"

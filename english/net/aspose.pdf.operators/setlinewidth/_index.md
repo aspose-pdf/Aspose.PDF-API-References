@@ -2,8 +2,8 @@
 title: "SetLineWidth Class"
 linktitle: "SetLineWidth"
 articleTitle: "SetLineWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing w operator (set line width)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetLineWidth class. Class representing w operator (set line width)."
 type: docs
 weight: 690
 url: "/net/aspose.pdf.operators/setlinewidth/"

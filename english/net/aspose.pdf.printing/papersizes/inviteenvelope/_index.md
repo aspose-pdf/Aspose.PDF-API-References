@@ -2,8 +2,8 @@
 title: "PaperSizes.InviteEnvelope"
 linktitle: "InviteEnvelope"
 articleTitle: "InviteEnvelope"
-second_title: "Aspose.PDF for .NET"
-description: "Invitation envelope (220 mm by 220 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Invitation envelope (220 mm by 220 mm)."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.printing/papersizes/inviteenvelope/"

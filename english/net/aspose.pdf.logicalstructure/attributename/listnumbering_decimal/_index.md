@@ -2,8 +2,8 @@
 title: "AttributeName.ListNumbering_Decimal"
 linktitle: "ListNumbering_Decimal"
 articleTitle: "ListNumbering_Decimal"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute ListNumbering: Decimal - Decimal arabic numerals (1-9, 10-99, ...)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute ListNumbering: Decimal - Decimal arabic numerals (1-9, 10-99, ...)."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_decimal/"

@@ -2,8 +2,8 @@
 title: "PdfFileMend.InputFile"
 linktitle: "InputFile"
 articleTitle: "InputFile"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the input file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend property. Sets the input file."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdffilemend/inputfile/"

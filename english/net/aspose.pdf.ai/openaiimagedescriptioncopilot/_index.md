@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilot Class"
 linktitle: "OpenAIImageDescriptionCopilot"
 articleTitle: "OpenAIImageDescriptionCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Provides image processing functionality for OpenAICopilot class. Example usage of creating an OpenAI client, configuration of ImageDescriptionCopilot options..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIImageDescriptionCopilot class. Provides image processing functionality for OpenAICopilot class. Example usage of creating an OpenAI clien..."
 type: docs
 weight: 940
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilot/"

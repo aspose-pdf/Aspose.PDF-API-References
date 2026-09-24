@@ -2,8 +2,8 @@
 title: "PDF3DContent.Load"
 linktitle: "Load"
 articleTitle: "Load"
-second_title: "Aspose.PDF for .NET"
-description: "Loads 3D content with the specified filename."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent method. Loads 3D content with the specified filename."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dcontent/load/"

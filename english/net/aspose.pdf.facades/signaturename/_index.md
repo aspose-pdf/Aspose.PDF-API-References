@@ -2,8 +2,8 @@
 title: "SignatureName Class"
 linktitle: "SignatureName"
 articleTitle: "SignatureName"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for a signature name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.SignatureName class. Represents a class for a signature name."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.facades/signaturename/"

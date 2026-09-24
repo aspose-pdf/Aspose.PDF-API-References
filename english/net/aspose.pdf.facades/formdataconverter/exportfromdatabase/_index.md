@@ -2,8 +2,8 @@
 title: "FormDataConverter.ExportFromDataBase"
 linktitle: "ExportFromDataBase"
 articleTitle: "ExportFromDataBase"
-second_title: "Aspose.PDF for .NET"
-description: "Exports data from database into table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter method. Exports data from database into table."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/formdataconverter/exportfromdatabase/"

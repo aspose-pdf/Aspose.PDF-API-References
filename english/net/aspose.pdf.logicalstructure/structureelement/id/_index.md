@@ -2,8 +2,8 @@
 title: "StructureElement.ID"
 linktitle: "ID"
 articleTitle: "ID"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the ID for structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets the ID for structure element."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/structureelement/id/"

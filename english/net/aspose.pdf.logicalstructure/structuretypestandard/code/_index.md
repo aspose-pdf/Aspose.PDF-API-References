@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Code"
 linktitle: "Code"
 articleTitle: "Code"
-second_title: "Aspose.PDF for .NET"
-description: "(Code) A fragment of computer program text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Code) A fragment of computer program text."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/code/"

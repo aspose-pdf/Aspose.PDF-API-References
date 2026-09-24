@@ -2,8 +2,8 @@
 title: "GraphicalPdfComparer.CompareDocumentsToImages"
 linktitle: "CompareDocumentsToImages"
 articleTitle: "CompareDocumentsToImages"
-second_title: "Aspose.PDF for .NET"
-description: "Compares documents graphically. The comparison result is placed in images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer method. Compares documents graphically. The comparison result is placed in images."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/"

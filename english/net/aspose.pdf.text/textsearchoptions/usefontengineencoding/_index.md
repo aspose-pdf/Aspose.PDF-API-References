@@ -2,8 +2,8 @@
 title: "TextSearchOptions.UseFontEngineEncoding"
 linktitle: "UseFontEngineEncoding"
 articleTitle: "UseFontEngineEncoding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets indication that text will be searched using font engine encoding. true - means that font engine encoding will be used (try this if text search f..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSearchOptions property. Gets or sets indication that text will be searched using font engine encoding. true - means that font engine encoding will be use..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textsearchoptions/usefontengineencoding/"

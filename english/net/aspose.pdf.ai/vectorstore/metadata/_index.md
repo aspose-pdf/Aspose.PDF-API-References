@@ -2,8 +2,8 @@
 title: "VectorStore.Metadata"
 linktitle: "Metadata"
 articleTitle: "Metadata"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a set of 16 key-value pairs that can be attached to a vector store. This can be useful for storing additional information about the vector store..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStore property. Gets or sets a set of 16 key-value pairs that can be attached to a vector store. This can be useful for storing additional information ..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstore/metadata/"

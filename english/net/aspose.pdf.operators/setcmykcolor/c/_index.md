@@ -2,8 +2,8 @@
 title: "SetCMYKColor.C"
 linktitle: "C"
 articleTitle: "C"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the cyan component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCMYKColor property. Gets or sets the cyan component."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setcmykcolor/c/"

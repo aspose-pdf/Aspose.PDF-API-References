@@ -2,8 +2,8 @@
 title: "Signature.CustomAppearance"
 linktitle: "CustomAppearance"
 articleTitle: "CustomAppearance"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the custom appearance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. Gets/sets the custom appearance."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/signature/customappearance/"

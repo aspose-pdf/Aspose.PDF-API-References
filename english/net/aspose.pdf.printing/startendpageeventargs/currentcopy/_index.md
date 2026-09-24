@@ -2,8 +2,8 @@
 title: "StartEndPageEventArgs.CurrentCopy"
 linktitle: "CurrentCopy"
 articleTitle: "CurrentCopy"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the number of the copy currently being printed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StartEndPageEventArgs field. Gets the number of the copy currently being printed."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/startendpageeventargs/currentcopy/"

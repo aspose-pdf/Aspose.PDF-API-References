@@ -2,8 +2,8 @@
 title: "Margins.Margins"
 linktitle: "Margins"
 articleTitle: "Margins"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Margins class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Margins constructor. Initializes a new instance of the Margins class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/margins/margins/"

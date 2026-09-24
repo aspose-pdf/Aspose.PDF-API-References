@@ -2,8 +2,8 @@
 title: "Form.ImportXfdf"
 linktitle: "ImportXfdf"
 articleTitle: "ImportXfdf"
-second_title: "Aspose.PDF for .NET"
-description: "Imports the content of the fields from the xfdf(xml) file and put them into the new pdf."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Imports the content of the fields from the xfdf(xml) file and put them into the new pdf."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/form/importxfdf/"

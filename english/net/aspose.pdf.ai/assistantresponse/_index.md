@@ -2,8 +2,8 @@
 title: "AssistantResponse Class"
 linktitle: "AssistantResponse"
 articleTitle: "AssistantResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an assistant that can call the model and use tools."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.AssistantResponse class. Represents an assistant that can call the model and use tools."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/assistantresponse/"

@@ -2,8 +2,8 @@
 title: "FormExporterValuesToCsvOptions.FormExporterValuesToCsvOptions"
 linktitle: "FormExporterValuesToCsvOptions"
 articleTitle: "FormExporterValuesToCsvOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormExporterValuesToCsvOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormExporterValuesToCsvOptions constructor. Initializes a new instance of the FormExporterValuesToCsvOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formexportervaluestocsvoptions/formexportervaluestocsvoptions/"

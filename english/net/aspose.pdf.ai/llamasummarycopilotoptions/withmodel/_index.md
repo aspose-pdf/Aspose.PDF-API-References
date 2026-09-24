@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilotOptions.WithModel"
 linktitle: "WithModel"
 articleTitle: "WithModel"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the model for the summary copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Sets the model for the summary copilot options."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withmodel/"

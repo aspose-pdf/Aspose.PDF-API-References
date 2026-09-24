@@ -2,8 +2,8 @@
 title: "Jpeg.Jpeg"
 linktitle: "Jpeg"
 articleTitle: "Jpeg"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Jpeg class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Jpeg constructor. Initializes a new instance of the Jpeg class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/jpeg/jpeg/"

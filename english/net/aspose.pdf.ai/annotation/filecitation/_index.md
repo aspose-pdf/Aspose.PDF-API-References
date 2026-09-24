@@ -2,8 +2,8 @@
 title: "Annotation.FileCitation"
 linktitle: "FileCitation"
 articleTitle: "FileCitation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets file citations are created by the file_search tool and define references to a specific file that was uploaded and used by the Assistant to gener..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets file citations are created by the file_search tool and define references to a specific file that was uploaded and used by t..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/annotation/filecitation/"

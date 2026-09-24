@@ -2,8 +2,8 @@
 title: "TimestampSettings.ServerUrl"
 linktitle: "ServerUrl"
 articleTitle: "ServerUrl"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the timestamp server url."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampSettings property. Gets/sets the timestamp server url."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/timestampsettings/serverurl/"

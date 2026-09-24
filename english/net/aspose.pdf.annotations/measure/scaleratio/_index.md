@@ -2,8 +2,8 @@
 title: "Measure.ScaleRatio"
 linktitle: "ScaleRatio"
 articleTitle: "ScaleRatio"
-second_title: "Aspose.PDF for .NET"
-description: "A text string expressing the scale ratio of the drawing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. A text string expressing the scale ratio of the drawing."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/measure/scaleratio/"

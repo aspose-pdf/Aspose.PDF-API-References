@@ -2,8 +2,8 @@
 title: "Stamp.SetOrigin"
 linktitle: "SetOrigin"
 articleTitle: "SetOrigin"
-second_title: "Aspose.PDF for .NET"
-description: "Sets position on page where stamp will be placed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Sets position on page where stamp will be placed."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/stamp/setorigin/"

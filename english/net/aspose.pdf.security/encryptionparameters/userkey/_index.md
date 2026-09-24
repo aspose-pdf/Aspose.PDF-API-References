@@ -2,8 +2,8 @@
 title: "EncryptionParameters.UserKey"
 linktitle: "UserKey"
 articleTitle: "UserKey"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the user key (The \"U\" field of encryption dictionary.)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionParameters property. Gets the user key (The \"U\" field of encryption dictionary.)"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.security/encryptionparameters/userkey/"

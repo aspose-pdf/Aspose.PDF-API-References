@@ -2,8 +2,8 @@
 title: "OperatorCollection Class"
 linktitle: "OperatorCollection"
 articleTitle: "OperatorCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents collection of operators"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.OperatorCollection class. Class represents collection of operators"
 type: docs
 weight: 2020
 url: "/net/aspose.pdf/operatorcollection/"

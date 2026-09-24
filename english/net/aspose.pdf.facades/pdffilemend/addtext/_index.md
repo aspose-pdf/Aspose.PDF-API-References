@@ -2,8 +2,8 @@
 title: "PdfFileMend.AddText"
 linktitle: "AddText"
 articleTitle: "AddText"
-second_title: "Aspose.PDF for .NET"
-description: "Not implemented."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend method. Not implemented."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdffilemend/addtext/"

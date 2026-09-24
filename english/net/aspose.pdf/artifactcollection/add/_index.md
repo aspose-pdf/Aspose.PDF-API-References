@@ -2,8 +2,8 @@
 title: "ArtifactCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds artifacts to the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection method. Adds artifacts to the collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/artifactcollection/add/"

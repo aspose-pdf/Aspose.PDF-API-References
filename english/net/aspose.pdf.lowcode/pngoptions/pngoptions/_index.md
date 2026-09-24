@@ -2,8 +2,8 @@
 title: "PngOptions.PngOptions"
 linktitle: "PngOptions"
 articleTitle: "PngOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PngOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PngOptions constructor. Initializes a new instance of the PngOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pngoptions/pngoptions/"

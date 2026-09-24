@@ -2,8 +2,8 @@
 title: "ExplicitDestination.PageNumber"
 linktitle: "PageNumber"
 articleTitle: "PageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the destination page number"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExplicitDestination property. Gets the destination page number"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/explicitdestination/pagenumber/"

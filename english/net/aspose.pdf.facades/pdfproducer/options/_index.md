@@ -2,8 +2,8 @@
 title: "PdfProducer.options"
 linktitle: "options"
 articleTitle: "options"
-second_title: "Aspose.PDF for .NET"
-description: "ImportOptions holds level of abstraction on individual import options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfProducer field. ImportOptions holds level of abstraction on individual import options."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdfproducer/options/"

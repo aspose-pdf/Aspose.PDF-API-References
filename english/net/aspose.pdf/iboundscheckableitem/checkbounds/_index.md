@@ -2,8 +2,8 @@
 title: "IBoundsCheckableItem.CheckBounds"
 linktitle: "CheckBounds"
 articleTitle: "CheckBounds"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if the item fits within the given container dimensions (inclusive)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IBoundsCheckableItem method. Checks if the item fits within the given container dimensions (inclusive)."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/iboundscheckableitem/checkbounds/"

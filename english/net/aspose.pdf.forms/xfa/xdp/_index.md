@@ -2,8 +2,8 @@
 title: "XFA.XDP"
 linktitle: "XDP"
 articleTitle: "XDP"
-second_title: "Aspose.PDF for .NET"
-description: "XML Data Package (all XFA form components within a surrounding XML container)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA property. XML Data Package (all XFA form components within a surrounding XML container)."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/xfa/xdp/"

@@ -2,8 +2,8 @@
 title: "PdfToDocOptions.OperationName"
 linktitle: "OperationName"
 articleTitle: "OperationName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets name of the operation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToDocOptions property. Gets name of the operation."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/pdftodocoptions/operationname/"

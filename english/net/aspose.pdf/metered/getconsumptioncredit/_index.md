@@ -2,8 +2,8 @@
 title: "Metered.GetConsumptionCredit"
 linktitle: "GetConsumptionCredit"
 articleTitle: "GetConsumptionCredit"
-second_title: "Aspose.PDF for .NET"
-description: "Gets consumption credit."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metered method. Gets consumption credit."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/metered/getconsumptioncredit/"

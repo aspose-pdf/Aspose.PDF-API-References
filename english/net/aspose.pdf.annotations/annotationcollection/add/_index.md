@@ -2,8 +2,8 @@
 title: "AnnotationCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/annotationcollection/add/"

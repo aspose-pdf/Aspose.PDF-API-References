@@ -2,8 +2,8 @@
 title: "FontSubstitutionCollection.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Clears the font substitution collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSubstitutionCollection method. Clears the font substitution collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/clear/"

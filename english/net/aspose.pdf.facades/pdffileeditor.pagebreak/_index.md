@@ -2,8 +2,8 @@
 title: "PdfFileEditor.PageBreak Class"
 linktitle: "PdfFileEditor.PageBreak"
 articleTitle: "PdfFileEditor.PageBreak"
-second_title: "Aspose.PDF for .NET"
-description: "Data of page break position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileEditor.PageBreak class. Data of page break position."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdffileeditor.pagebreak/"

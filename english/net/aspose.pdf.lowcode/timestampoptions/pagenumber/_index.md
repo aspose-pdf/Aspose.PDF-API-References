@@ -2,8 +2,8 @@
 title: "TimestampOptions.PageNumber"
 linktitle: "PageNumber"
 articleTitle: "PageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Page number on which the timestamped signature will be applied."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampOptions property. Page number on which the timestamped signature will be applied."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/timestampoptions/pagenumber/"

@@ -2,8 +2,8 @@
 title: "StampInfo.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rectangle where stamp is placed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampInfo property. Gets rectangle where stamp is placed."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/stampinfo/rectangle/"

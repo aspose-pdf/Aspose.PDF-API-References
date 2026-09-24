@@ -2,8 +2,8 @@
 title: "FormEditor.AddListItem"
 linktitle: "AddListItem"
 articleTitle: "AddListItem"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new item to the list box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Adds new item to the list box."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/formeditor/addlistitem/"

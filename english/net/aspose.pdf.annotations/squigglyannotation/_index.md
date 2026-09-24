@@ -2,8 +2,8 @@
 title: "SquigglyAnnotation Class"
 linktitle: "SquigglyAnnotation"
 articleTitle: "SquigglyAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the squiggly annotation that appears as a jagged underline in the text of a document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SquigglyAnnotation class. Represents the squiggly annotation that appears as a jagged underline in the text of a document."
 type: docs
 weight: 1230
 url: "/net/aspose.pdf.annotations/squigglyannotation/"

@@ -2,8 +2,8 @@
 title: "TextDevice.Encoding"
 linktitle: "Encoding"
 articleTitle: "Encoding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets encoding of extracted text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextDevice property. Gets or sets encoding of extracted text."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.devices/textdevice/encoding/"

@@ -2,8 +2,8 @@
 title: "XmpField.FieldType"
 linktitle: "FieldType"
 articleTitle: "FieldType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the type of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets the type of the field."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/xmpfield/fieldtype/"

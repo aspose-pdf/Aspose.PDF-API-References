@@ -2,8 +2,8 @@
 title: "EpubSaveOptions.ContentRecognitionMode"
 linktitle: "ContentRecognitionMode"
 articleTitle: "ContentRecognitionMode"
-second_title: "Aspose.PDF for .NET"
-description: "When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform grouping and multi-level analysis to restore the ori..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EpubSaveOptions field. When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform grouping and multi-level anal..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/epubsaveoptions/contentrecognitionmode/"

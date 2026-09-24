@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.ChangeAllowLevel"
 linktitle: "ChangeAllowLevel"
 articleTitle: "ChangeAllowLevel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the change level of document's privilege. Just as the Adobe Professional's Changes Allowed settings. 0: None. 1: Inserting, Deleting and Rotati..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Gets and sets the change level of document's privilege. Just as the Adobe Professional's Changes Allowed settings. 0: None. 1: In..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/documentprivilege/changeallowlevel/"

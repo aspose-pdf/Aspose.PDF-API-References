@@ -2,8 +2,8 @@
 title: "FileResponse.Id"
 linktitle: "Id"
 articleTitle: "Id"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the file identifier, which can be referenced in the API endpoints."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResponse property. Gets or sets the file identifier, which can be referenced in the API endpoints."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/fileresponse/id/"

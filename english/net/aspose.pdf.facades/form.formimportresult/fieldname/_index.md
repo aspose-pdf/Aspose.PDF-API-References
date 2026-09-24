@@ -2,8 +2,8 @@
 title: "Form.FormImportResult.FieldName"
 linktitle: "FieldName"
 articleTitle: "FieldName"
-second_title: "Aspose.PDF for .NET"
-description: "Full name of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormImportResult property. Full name of the field."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/form.formimportresult/fieldname/"

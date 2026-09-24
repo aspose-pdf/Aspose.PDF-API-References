@@ -2,8 +2,8 @@
 title: "HtmlFragment.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clones html fragment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlFragment method. Clones html fragment."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlfragment/clone/"

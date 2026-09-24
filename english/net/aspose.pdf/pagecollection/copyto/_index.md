@@ -2,8 +2,8 @@
 title: "PageCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copyies pages into document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Copyies pages into document."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/pagecollection/copyto/"

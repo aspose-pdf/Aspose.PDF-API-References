@@ -2,8 +2,8 @@
 title: "FormComboBoxFieldSetOptions Class"
 linktitle: "FormComboBoxFieldSetOptions"
 articleTitle: "FormComboBoxFieldSetOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for set properties in ComboBoxField by plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormComboBoxFieldSetOptions class. Represents options for set properties in ComboBoxField by plugin."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldsetoptions/"

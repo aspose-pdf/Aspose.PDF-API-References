@@ -2,8 +2,8 @@
 title: "FormOptions Class"
 linktitle: "FormOptions"
 articleTitle: "FormOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for a family Form.... plugins."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormOptions class. Represents options for a family Form.... plugins."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.lowcode/formoptions/"

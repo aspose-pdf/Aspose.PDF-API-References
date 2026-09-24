@@ -2,8 +2,8 @@
 title: "StructureTextState.ForegroundColor"
 linktitle: "ForegroundColor"
 articleTitle: "ForegroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets foreground color of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets foreground color of the text."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/"

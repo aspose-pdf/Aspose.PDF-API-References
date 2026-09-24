@@ -2,8 +2,8 @@
 title: "NumberField Class"
 linktitle: "NumberField"
 articleTitle: "NumberField"
-second_title: "Aspose.PDF for .NET"
-description: "Text Field with specified valid chars"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.NumberField class. Text Field with specified valid chars"
 type: docs
 weight: 210
 url: "/net/aspose.pdf.forms/numberfield/"

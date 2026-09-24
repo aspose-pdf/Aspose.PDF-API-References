@@ -2,8 +2,8 @@
 title: "SetColorRenderingIntent.IntentName"
 linktitle: "IntentName"
 articleTitle: "IntentName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets color rendering intent name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorRenderingIntent property. Gets or sets color rendering intent name."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setcolorrenderingintent/intentname/"

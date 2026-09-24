@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionCategoryType Enum"
 linktitle: "XmpPdfAExtensionCategoryType"
 articleTitle: "XmpPdfAExtensionCategoryType"
-second_title: "Aspose.PDF for .NET"
-description: "Property category: internal or external."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmpPdfAExtensionCategoryType enum. Property category: internal or external."
 type: docs
 weight: 3280
 url: "/net/aspose.pdf/xmppdfaextensioncategorytype/"

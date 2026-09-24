@@ -2,8 +2,8 @@
 title: "PaperSizes.PersonalEnvelope"
 linktitle: "PersonalEnvelope"
 articleTitle: "PersonalEnvelope"
-second_title: "Aspose.PDF for .NET"
-description: "6 3/4 envelope (3.625 in. by 6.5 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. 6 3/4 envelope (3.625 in. by 6.5 in.)."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.printing/papersizes/personalenvelope/"

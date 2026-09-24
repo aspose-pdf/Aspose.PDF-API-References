@@ -2,8 +2,8 @@
 title: "OpenAIClient.GetThreadAsync"
 linktitle: "GetThreadAsync"
 articleTitle: "GetThreadAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves details of a specific thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves details of a specific thread asynchronously."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.ai/openaiclient/getthreadasync/"

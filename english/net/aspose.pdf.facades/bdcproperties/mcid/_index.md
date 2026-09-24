@@ -2,8 +2,8 @@
 title: "BDCProperties.MCID"
 linktitle: "MCID"
 articleTitle: "MCID"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets MCID value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BDCProperties property. Gets/sets MCID value."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/bdcproperties/mcid/"

@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionValueType.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Add new field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionValueType method. Add new field."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/add/"

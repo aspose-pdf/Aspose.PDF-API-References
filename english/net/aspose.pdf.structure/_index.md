@@ -2,7 +2,7 @@
 title: "Aspose.Pdf.Structure"
 linktitle: "Aspose.Pdf.Structure"
 articleTitle: "Aspose.Pdf.Structure"
-second_title: "Aspose.PDF for .NET"
+second_title: "Aspose.PDF for .NET API Reference"
 description: "The **Aspose.Pdf.Structure** namespace provides classes."
 type: docs
 weight: 10

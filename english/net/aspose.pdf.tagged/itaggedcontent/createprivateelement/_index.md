@@ -2,8 +2,8 @@
 title: "ITaggedContent.CreatePrivateElement"
 linktitle: "CreatePrivateElement"
 articleTitle: "CreatePrivateElement"
-second_title: "Aspose.PDF for .NET"
-description: "Creates ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.tagged/itaggedcontent/createprivateelement/"

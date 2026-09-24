@@ -2,8 +2,8 @@
 title: "SanitizationException.SanitizationException"
 linktitle: "SanitizationException"
 articleTitle: "SanitizationException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SanitizationException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SanitizationException constructor. Initializes a new instance of the SanitizationException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/"

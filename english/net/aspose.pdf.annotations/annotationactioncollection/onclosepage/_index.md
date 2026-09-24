@@ -2,8 +2,8 @@
 title: "AnnotationActionCollection.OnClosePage"
 linktitle: "OnClosePage"
 articleTitle: "OnClosePage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to be performed when the page containing the annotation is closed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed when the page containing the annotation is closed."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/annotationactioncollection/onclosepage/"

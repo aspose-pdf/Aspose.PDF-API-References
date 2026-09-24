@@ -2,8 +2,8 @@
 title: "Form.IsRequiredField"
 linktitle: "IsRequiredField"
 articleTitle: "IsRequiredField"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether field is required or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Determines whether field is required or not."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.facades/form/isrequiredfield/"

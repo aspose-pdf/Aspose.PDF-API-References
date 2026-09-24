@@ -2,8 +2,8 @@
 title: "FileSpecification.EncryptedPayload"
 linktitle: "EncryptedPayload"
 articleTitle: "EncryptedPayload"
-second_title: "Aspose.PDF for .NET"
-description: "Gets encrypted payload."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets encrypted payload."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/filespecification/encryptedpayload/"

@@ -2,8 +2,8 @@
 title: "FloatingBox.Padding"
 linktitle: "Padding"
 articleTitle: "Padding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a object that indicates the padding of the floating box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox property. Gets or sets a object that indicates the padding of the floating box."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/floatingbox/padding/"

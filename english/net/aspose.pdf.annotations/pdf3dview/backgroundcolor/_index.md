@@ -2,8 +2,8 @@
 title: "PDF3DView.BackGroundColor"
 linktitle: "BackGroundColor"
 articleTitle: "BackGroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the color of the back ground of view."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DView property. Gets or sets the color of the back ground of view."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/pdf3dview/backgroundcolor/"

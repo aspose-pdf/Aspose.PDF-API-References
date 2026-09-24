@@ -2,8 +2,8 @@
 title: "PageActionCollection Class"
 linktitle: "PageActionCollection"
 articleTitle: "PageActionCollection"
-second_title: "Aspose.PDF for .NET"
-description: "This class describes page actions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageActionCollection class. This class describes page actions"
 type: docs
 weight: 2130
 url: "/net/aspose.pdf/pageactioncollection/"

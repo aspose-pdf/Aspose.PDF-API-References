@@ -2,8 +2,8 @@
 title: "IAppointment Interface"
 linktitle: "IAppointment"
 articleTitle: "IAppointment"
-second_title: "Aspose.PDF for .NET"
-description: "Represents general interface for actions and destinations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.IAppointment interface. Represents general interface for actions and destinations."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.annotations/iappointment/"

@@ -2,8 +2,8 @@
 title: "XmpValue.IsDouble"
 linktitle: "IsDouble"
 articleTitle: "IsDouble"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if value is floating point value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue property. Returns true if value is floating point value."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/xmpvalue/isdouble/"

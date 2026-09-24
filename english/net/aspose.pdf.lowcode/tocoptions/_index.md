@@ -2,8 +2,8 @@
 title: "TocOptions Class"
 linktitle: "TocOptions"
 articleTitle: "TocOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for add table of contents to document by plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TocOptions class. Represents options for add table of contents to document by plugin."
 type: docs
 weight: 1050
 url: "/net/aspose.pdf.lowcode/tocoptions/"

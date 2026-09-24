@@ -2,8 +2,8 @@
 title: "NamedDestinationCollection.Names"
 linktitle: "Names"
 articleTitle: "Names"
-second_title: "Aspose.PDF for .NET"
-description: "List of names of the destinations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NamedDestinationCollection property. List of names of the destinations."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/nameddestinationcollection/names/"

@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilot.SaveSummaryAsync"
 linktitle: "SaveSummaryAsync"
 articleTitle: "SaveSummaryAsync"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilot method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamasummarycopilot/savesummaryasync/"

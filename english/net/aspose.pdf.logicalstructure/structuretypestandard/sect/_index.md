@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Sect"
 linktitle: "Sect"
 articleTitle: "Sect"
-second_title: "Aspose.PDF for .NET"
-description: "(Section) A container for grouping related content elements."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Section) A container for grouping related content elements."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/sect/"

@@ -2,8 +2,8 @@
 title: "XForm.FreeMemory"
 linktitle: "FreeMemory"
 articleTitle: "FreeMemory"
-second_title: "Aspose.PDF for .NET"
-description: "Clears cached data"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm method. Clears cached data"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/xform/freememory/"

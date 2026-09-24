@@ -2,8 +2,8 @@
 title: "Page.MergeLayers"
 linktitle: "MergeLayers"
 articleTitle: "MergeLayers"
-second_title: "Aspose.PDF for .NET"
-description: "Merges all layers on the page into a single layer with the specified new layer name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Merges all layers on the page into a single layer with the specified new layer name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/page/mergelayers/"

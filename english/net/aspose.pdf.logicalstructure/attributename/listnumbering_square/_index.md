@@ -2,8 +2,8 @@
 title: "AttributeName.ListNumbering_Square"
 linktitle: "ListNumbering_Square"
 articleTitle: "ListNumbering_Square"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute ListNumbering: Square - Solid square bullet."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute ListNumbering: Square - Solid square bullet."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_square/"

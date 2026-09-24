@@ -2,8 +2,8 @@
 title: "SetCMYKColor Class"
 linktitle: "SetCMYKColor"
 articleTitle: "SetCMYKColor"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing k operator (set CMYK color for non-stroking operations)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetCMYKColor class. Class representing k operator (set CMYK color for non-stroking operations)."
 type: docs
 weight: 500
 url: "/net/aspose.pdf.operators/setcmykcolor/"

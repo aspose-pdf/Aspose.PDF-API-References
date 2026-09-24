@@ -2,8 +2,8 @@
 title: "OutputIntents.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether the collection contains a specific output intent."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntents method. Determines whether the collection contains a specific output intent."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/outputintents/contains/"

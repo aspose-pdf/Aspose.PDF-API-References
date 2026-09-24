@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateJavaScriptLink"
 linktitle: "CreateJavaScriptLink"
 articleTitle: "CreateJavaScriptLink"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a link to JavaScript in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a link to JavaScript in PDF document."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/"

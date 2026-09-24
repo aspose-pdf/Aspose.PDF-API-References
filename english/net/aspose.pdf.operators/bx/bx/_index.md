@@ -2,8 +2,8 @@
 title: "BX.BX"
 linktitle: "BX"
 articleTitle: "BX"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BX class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BX constructor. Initializes a new instance of the BX class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/bx/bx/"

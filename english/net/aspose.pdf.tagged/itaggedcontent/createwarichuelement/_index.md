@@ -2,8 +2,8 @@
 title: "ITaggedContent.CreateWarichuElement"
 linktitle: "CreateWarichuElement"
 articleTitle: "CreateWarichuElement"
-second_title: "Aspose.PDF for .NET"
-description: "Creates ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/"

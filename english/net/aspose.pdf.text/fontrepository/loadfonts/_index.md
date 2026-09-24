@@ -2,8 +2,8 @@
 title: "FontRepository.LoadFonts"
 linktitle: "LoadFonts"
 articleTitle: "LoadFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Loads system installed fonts and standard Pdf fonts. This method was designed to speed up font loading process. By default fonts are loaded on first request ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontRepository method. Loads system installed fonts and standard Pdf fonts. This method was designed to speed up font loading process. By default fonts are l..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/fontrepository/loadfonts/"

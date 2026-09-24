@@ -2,8 +2,8 @@
 title: "TextStyle.Alignment"
 linktitle: "Alignment"
 articleTitle: "Alignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets horizontal alignment of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle property. Gets or sets horizontal alignment of the text."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/textstyle/alignment/"

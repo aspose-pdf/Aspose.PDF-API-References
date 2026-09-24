@@ -2,8 +2,8 @@
 title: "EpubSaveOptions Class"
 linktitle: "EpubSaveOptions"
 articleTitle: "EpubSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Save options for export to EPUB format"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.EpubSaveOptions class. Save options for export to EPUB format"
 type: docs
 weight: 770
 url: "/net/aspose.pdf/epubsaveoptions/"

@@ -2,8 +2,8 @@
 title: "PolyAnnotation.ReadXfdfElements"
 linktitle: "ReadXfdfElements"
 articleTitle: "ReadXfdfElements"
-second_title: "Aspose.PDF for .NET"
-description: "When overridden in a derived class, import annotation elements from XFDF."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolyAnnotation method. When overridden in a derived class, import annotation elements from XFDF."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/polyannotation/readxfdfelements/"

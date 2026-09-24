@@ -2,8 +2,8 @@
 title: "ImageEncoding Enum"
 linktitle: "ImageEncoding"
 articleTitle: "ImageEncoding"
-second_title: "Aspose.PDF for .NET"
-description: "Image encoding types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Optimization.ImageEncoding enum. Image encoding types."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.optimization/imageencoding/"

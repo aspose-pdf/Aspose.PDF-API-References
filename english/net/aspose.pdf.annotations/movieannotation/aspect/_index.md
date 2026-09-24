@@ -2,8 +2,8 @@
 title: "MovieAnnotation.Aspect"
 linktitle: "Aspect"
 articleTitle: "Aspect"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the width and height of the movie's bounding box, in pixels."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MovieAnnotation property. Gets or sets the width and height of the movie's bounding box, in pixels."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/movieannotation/aspect/"

@@ -2,8 +2,8 @@
 title: "CreateChatCompletionChunkResponse Class"
 linktitle: "CreateChatCompletionChunkResponse"
 articleTitle: "CreateChatCompletionChunkResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a streamed chunk of a chat completion response returned by model, based on the provided input."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.CreateChatCompletionChunkResponse class. Represents a streamed chunk of a chat completion response returned by model, based on the provided input."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/"

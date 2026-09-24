@@ -2,8 +2,8 @@
 title: "AutoTaggingSettings.Default"
 linktitle: "Default"
 articleTitle: "Default"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the default settings for auto-tagging functionality in PDF documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoTaggingSettings property. Gets the default settings for auto-tagging functionality in PDF documents."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/autotaggingsettings/default/"

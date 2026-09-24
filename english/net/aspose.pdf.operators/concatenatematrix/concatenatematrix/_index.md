@@ -2,8 +2,8 @@
 title: "ConcatenateMatrix.ConcatenateMatrix"
 linktitle: "ConcatenateMatrix"
 articleTitle: "ConcatenateMatrix"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ConcatenateMatrix class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ConcatenateMatrix constructor. Initializes a new instance of the ConcatenateMatrix class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/concatenatematrix/concatenatematrix/"

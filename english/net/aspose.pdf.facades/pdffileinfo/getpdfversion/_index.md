@@ -2,8 +2,8 @@
 title: "PdfFileInfo.GetPdfVersion"
 linktitle: "GetPdfVersion"
 articleTitle: "GetPdfVersion"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the version info of PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Gets the version info of PDF document."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdffileinfo/getpdfversion/"

@@ -2,8 +2,8 @@
 title: "PrinterSettings.Duplex"
 linktitle: "Duplex"
 articleTitle: "Duplex"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the printer's duplex setting."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the printer's duplex setting."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/printersettings/duplex/"

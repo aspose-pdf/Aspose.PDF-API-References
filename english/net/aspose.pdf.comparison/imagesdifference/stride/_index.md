@@ -2,8 +2,8 @@
 title: "ImagesDifference.Stride"
 linktitle: "Stride"
 articleTitle: "Stride"
-second_title: "Aspose.PDF for .NET"
-description: "The stride of difference image data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagesDifference property. The stride of difference image data."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/imagesdifference/stride/"

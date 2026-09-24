@@ -2,8 +2,8 @@
 title: "Error.Code"
 linktitle: "Code"
 articleTitle: "Code"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the error code."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Error property. Gets or sets the error code."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/error/code/"

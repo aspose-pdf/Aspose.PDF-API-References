@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber.HasErrors"
 linktitle: "HasErrors"
 articleTitle: "HasErrors"
-second_title: "Aspose.PDF for .NET"
-description: "Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = tru..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOption..."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.text/textfragmentabsorber/haserrors/"

@@ -2,8 +2,8 @@
 title: "OfdLoadOptions Class"
 linktitle: "OfdLoadOptions"
 articleTitle: "OfdLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Load options for OFD format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.OfdLoadOptions class. Load options for OFD format."
 type: docs
 weight: 2000
 url: "/net/aspose.pdf/ofdloadoptions/"

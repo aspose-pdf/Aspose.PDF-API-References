@@ -2,8 +2,8 @@
 title: "ThreadCreateRequest.Messages"
 linktitle: "Messages"
 articleTitle: "Messages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of messages to start the thread with."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadCreateRequest property. Gets or sets a list of messages to start the thread with."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/threadcreaterequest/messages/"

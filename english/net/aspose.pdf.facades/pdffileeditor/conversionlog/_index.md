@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ConversionLog"
 linktitle: "ConversionLog"
 articleTitle: "ConversionLog"
-second_title: "Aspose.PDF for .NET"
-description: "Gets log of conversion process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Gets log of conversion process."
 type: docs
 weight: 1020
 url: "/net/aspose.pdf.facades/pdffileeditor/conversionlog/"

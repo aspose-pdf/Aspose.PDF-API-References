@@ -2,8 +2,8 @@
 title: "PdfPageEditor.TBGLITTER"
 linktitle: "TBGLITTER"
 articleTitle: "TBGLITTER"
-second_title: "Aspose.PDF for .NET"
-description: "Top-Bottom Glitter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Top-Bottom Glitter"
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdfpageeditor/tbglitter/"

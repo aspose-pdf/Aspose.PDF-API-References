@@ -2,8 +2,8 @@
 title: "IChatCopilot.SaveContextAsync"
 linktitle: "SaveContextAsync"
 articleTitle: "SaveContextAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously saves the context to a JSON file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IChatCopilot method. Asynchronously saves the context to a JSON file."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/ichatcopilot/savecontextasync/"

@@ -2,8 +2,8 @@
 title: "SaveOptions.BorderPartStyle.SaveOptions.BorderPartStyle"
 linktitle: "SaveOptions.BorderPartStyle"
 articleTitle: "SaveOptions.BorderPartStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SaveOptions.BorderPartStyle class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderPartStyle constructor. Initializes a new instance of the SaveOptions.BorderPartStyle class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/saveoptions.borderpartstyle/borderpartstyle/"

@@ -2,8 +2,8 @@
 title: "AttributeKey.TextAlign"
 linktitle: "TextAlign"
 articleTitle: "TextAlign"
-second_title: "Aspose.PDF for .NET"
-description: "TextAlign attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TextAlign attribute (Layout attribute owner)."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.logicalstructure/attributekey/textalign/"

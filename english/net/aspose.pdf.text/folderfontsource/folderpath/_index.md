@@ -2,8 +2,8 @@
 title: "FolderFontSource.FolderPath"
 linktitle: "FolderPath"
 articleTitle: "FolderPath"
-second_title: "Aspose.PDF for .NET"
-description: "Path to the folder that contains font files."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FolderFontSource property. Path to the folder that contains font files."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/folderfontsource/folderpath/"

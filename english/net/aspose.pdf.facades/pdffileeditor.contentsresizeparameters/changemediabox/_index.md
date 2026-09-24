@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeParameters.ChangeMediaBox"
 linktitle: "ChangeMediaBox"
 articleTitle: "ChangeMediaBox"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is `false`"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeParameters property. Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is `false`"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/changemediabox/"

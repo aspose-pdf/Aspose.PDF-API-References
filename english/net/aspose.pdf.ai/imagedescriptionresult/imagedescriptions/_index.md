@@ -2,8 +2,8 @@
 title: "ImageDescriptionResult.ImageDescriptions"
 linktitle: "ImageDescriptions"
 articleTitle: "ImageDescriptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the list of image descriptions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDescriptionResult property. Gets or sets the list of image descriptions."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptions/"

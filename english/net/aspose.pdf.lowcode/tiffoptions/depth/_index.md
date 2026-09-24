@@ -2,8 +2,8 @@
 title: "TiffOptions.Depth"
 linktitle: "Depth"
 articleTitle: "Depth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the color depth."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffOptions property. Gets or sets the color depth."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/tiffoptions/depth/"

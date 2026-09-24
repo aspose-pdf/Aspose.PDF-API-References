@@ -2,8 +2,8 @@
 title: "PdfToImageOptions Class"
 linktitle: "PdfToImageOptions"
 articleTitle: "PdfToImageOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfToImageOptions class. Represents options for the plugin."
 type: docs
 weight: 720
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/"

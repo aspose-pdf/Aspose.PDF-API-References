@@ -2,8 +2,8 @@
 title: "ClosePathFillStroke Class"
 linktitle: "ClosePathFillStroke"
 articleTitle: "ClosePathFillStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing b operator (close, fill and stroke path with nonzer winding rule)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.ClosePathFillStroke class. Class representing b operator (close, fill and stroke path with nonzer winding rule)."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.operators/closepathfillstroke/"

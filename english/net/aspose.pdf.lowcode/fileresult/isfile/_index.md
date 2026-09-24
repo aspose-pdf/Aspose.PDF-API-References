@@ -2,8 +2,8 @@
 title: "FileResult.IsFile"
 linktitle: "IsFile"
 articleTitle: "IsFile"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the result is a path to an output file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResult property. Indicates whether the result is a path to an output file."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/fileresult/isfile/"

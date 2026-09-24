@@ -2,8 +2,8 @@
 title: "HeaderFooter.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clones a new object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooter method. Clones a new object."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/headerfooter/clone/"

@@ -2,8 +2,8 @@
 title: "RichTextBoxField.Style"
 linktitle: "Style"
 articleTitle: "Style"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets default style string of the rich text field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichTextBoxField property. Gets or sets default style string of the rich text field."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/richtextboxfield/style/"

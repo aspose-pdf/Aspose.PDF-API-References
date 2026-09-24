@@ -2,8 +2,8 @@
 title: "Annotation.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets annotation name on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets annotation name on the page."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.annotations/annotation/name/"

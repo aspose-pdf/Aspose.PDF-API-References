@@ -2,8 +2,8 @@
 title: "PdfPageEditor.GetPageSize"
 linktitle: "GetPageSize"
 articleTitle: "GetPageSize"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the page size of the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Returns the page size of the specified page."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpagesize/"

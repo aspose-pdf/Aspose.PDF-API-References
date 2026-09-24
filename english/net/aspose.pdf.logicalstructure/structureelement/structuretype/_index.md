@@ -2,8 +2,8 @@
 title: "StructureElement.StructureType"
 linktitle: "StructureType"
 articleTitle: "StructureType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets type of structure element."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/structureelement/structuretype/"

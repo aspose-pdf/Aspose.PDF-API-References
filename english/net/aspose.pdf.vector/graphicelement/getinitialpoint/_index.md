@@ -2,8 +2,8 @@
 title: "GraphicElement.GetInitialPoint"
 linktitle: "GetInitialPoint"
 articleTitle: "GetInitialPoint"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElement method."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.vector/graphicelement/getinitialpoint/"

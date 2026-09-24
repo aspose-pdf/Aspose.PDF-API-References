@@ -2,8 +2,8 @@
 title: "PdfFileStamp.InputStream"
 linktitle: "InputStream"
 articleTitle: "InputStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets input stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp property. Gets or sets input stream."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdffilestamp/inputstream/"

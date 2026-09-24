@@ -2,8 +2,8 @@
 title: "SaveOptions Class"
 linktitle: "SaveOptions"
 articleTitle: "SaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "SaveOptions type hold level of abstraction on individual save options"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SaveOptions class. SaveOptions type hold level of abstraction on individual save options"
 type: docs
 weight: 2760
 url: "/net/aspose.pdf/saveoptions/"

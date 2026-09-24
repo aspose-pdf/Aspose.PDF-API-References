@@ -2,8 +2,8 @@
 title: "SignOptions.Location"
 linktitle: "Location"
 articleTitle: "Location"
-second_title: "Aspose.PDF for .NET"
-description: "The location of signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignOptions property. The location of signature."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/signoptions/location/"

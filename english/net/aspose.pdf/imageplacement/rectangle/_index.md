@@ -2,8 +2,8 @@
 title: "ImagePlacement.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rectangle of the Image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement property. Gets rectangle of the Image."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/imageplacement/rectangle/"

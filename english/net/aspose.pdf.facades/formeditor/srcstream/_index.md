@@ -2,8 +2,8 @@
 title: "FormEditor.SrcStream"
 linktitle: "SrcStream"
 articleTitle: "SrcStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets source stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor property. Gets or sets source stream."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/formeditor/srcstream/"

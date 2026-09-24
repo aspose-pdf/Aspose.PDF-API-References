@@ -2,8 +2,8 @@
 title: "Position Class"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a position object"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.Position class. Represents a position object"
 type: docs
 weight: 300
 url: "/net/aspose.pdf.text/position/"

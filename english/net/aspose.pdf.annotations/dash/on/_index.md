@@ -2,8 +2,8 @@
 title: "Dash.On"
 linktitle: "On"
 articleTitle: "On"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets length of first dash."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Dash property. Gets or sets length of first dash."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/dash/on/"

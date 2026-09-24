@@ -2,8 +2,8 @@
 title: "PdfFileSecurity.TryDecryptFile"
 linktitle: "TryDecryptFile"
 articleTitle: "TryDecryptFile"
-second_title: "Aspose.PDF for .NET"
-description: "Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Does not throw an exception if..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Does n..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/"

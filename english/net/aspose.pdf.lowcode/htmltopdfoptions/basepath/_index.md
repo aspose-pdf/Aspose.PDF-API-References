@@ -2,8 +2,8 @@
 title: "HtmlToPdfOptions.BasePath"
 linktitle: "BasePath"
 articleTitle: "BasePath"
-second_title: "Aspose.PDF for .NET"
-description: "The base path/url for the html file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlToPdfOptions property. The base path/url for the html file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/basepath/"

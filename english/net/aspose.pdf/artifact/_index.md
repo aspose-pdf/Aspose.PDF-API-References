@@ -2,8 +2,8 @@
 title: "Artifact Class"
 linktitle: "Artifact"
 articleTitle: "Artifact"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents PDF Artifact object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Artifact class. Class represents PDF Artifact object."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/artifact/"

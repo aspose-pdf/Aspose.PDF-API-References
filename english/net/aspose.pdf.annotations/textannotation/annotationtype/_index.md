@@ -2,8 +2,8 @@
 title: "TextAnnotation.AnnotationType"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextAnnotation property. Gets type of annotation."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/textannotation/annotationtype/"

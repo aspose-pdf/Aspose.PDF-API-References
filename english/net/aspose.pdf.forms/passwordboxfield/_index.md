@@ -2,8 +2,8 @@
 title: "PasswordBoxField Class"
 linktitle: "PasswordBoxField"
 articleTitle: "PasswordBoxField"
-second_title: "Aspose.PDF for .NET"
-description: "Class descibes text field for entering password."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.PasswordBoxField class. Class descibes text field for entering password."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.forms/passwordboxfield/"

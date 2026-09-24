@@ -2,8 +2,8 @@
 title: "ITaggedContent.SetLanguage"
 linktitle: "SetLanguage"
 articleTitle: "SetLanguage"
-second_title: "Aspose.PDF for .NET"
-description: "Sets natural language for pdf document. A language identifier that shall specify the natural language for all text in the document except where overridden by..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Sets natural language for pdf document. A language identifier that shall specify the natural language for all text in the document exc..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.tagged/itaggedcontent/setlanguage/"

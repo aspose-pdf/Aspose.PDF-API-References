@@ -2,8 +2,8 @@
 title: "HideAction Class"
 linktitle: "HideAction"
 articleTitle: "HideAction"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a hide action that hides or shows one or more annotations on the screen by setting or clearing their Hidden flags."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.HideAction class. Represents a hide action that hides or shows one or more annotations on the screen by setting or clearing their Hidd..."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.annotations/hideaction/"

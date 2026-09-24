@@ -2,8 +2,8 @@
 title: "IPlugin.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Charges a plugin to process with defined options"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IPlugin method. Charges a plugin to process with defined options"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/iplugin/process/"

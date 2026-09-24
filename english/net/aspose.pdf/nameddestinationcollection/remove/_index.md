@@ -2,8 +2,8 @@
 title: "NamedDestinationCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Delete named destination."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NamedDestinationCollection method. Delete named destination."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/nameddestinationcollection/remove/"

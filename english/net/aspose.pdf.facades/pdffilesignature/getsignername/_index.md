@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetSignerName"
 linktitle: "GetSignerName"
 articleTitle: "GetSignerName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the name of person or organization who signing the pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the name of person or organization who signing the pdf document."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.facades/pdffilesignature/getsignername/"

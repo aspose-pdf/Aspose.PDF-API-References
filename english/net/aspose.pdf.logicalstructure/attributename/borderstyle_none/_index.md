@@ -2,8 +2,8 @@
 title: "AttributeName.BorderStyle_None"
 linktitle: "BorderStyle_None"
 articleTitle: "BorderStyle_None"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BorderStyle: None - No border. Forces the computed value of BorderThicknessto be 0."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BorderStyle: None - No border. Forces the computed value of BorderThicknessto be 0."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_none/"

@@ -2,8 +2,8 @@
 title: "FontColor Class"
 linktitle: "FontColor"
 articleTitle: "FontColor"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing color of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.FontColor class. Class representing color of the text."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/fontcolor/"

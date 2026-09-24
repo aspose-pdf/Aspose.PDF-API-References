@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.Illustration"
 linktitle: "Illustration"
 articleTitle: "Illustration"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Illustration\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"Illustration\" render mode."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.annotations/pdf3drendermode/illustration/"

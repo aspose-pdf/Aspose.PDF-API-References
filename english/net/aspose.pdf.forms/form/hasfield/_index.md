@@ -2,8 +2,8 @@
 title: "Form.HasField"
 linktitle: "HasField"
 articleTitle: "HasField"
-second_title: "Aspose.PDF for .NET"
-description: "Check if the form already has specified field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Check if the form already has specified field."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/form/hasfield/"

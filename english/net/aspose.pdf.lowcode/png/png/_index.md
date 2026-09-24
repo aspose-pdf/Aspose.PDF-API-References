@@ -2,8 +2,8 @@
 title: "Png.Png"
 linktitle: "Png"
 articleTitle: "Png"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Png class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Png constructor. Initializes a new instance of the Png class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/png/png/"

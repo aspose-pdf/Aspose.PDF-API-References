@@ -2,8 +2,8 @@
 title: "INamedDestinationCollection Interface"
 linktitle: "INamedDestinationCollection"
 articleTitle: "INamedDestinationCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Collection of Named Destinations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.INamedDestinationCollection interface. Collection of Named Destinations."
 type: docs
 weight: 1410
 url: "/net/aspose.pdf/inameddestinationcollection/"

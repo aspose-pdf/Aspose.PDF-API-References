@@ -2,8 +2,8 @@
 title: "TiffDevice.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Converts certain document pages into tiff and save it in the output stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffDevice method. Converts certain document pages into tiff and save it in the output stream."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.devices/tiffdevice/process/"

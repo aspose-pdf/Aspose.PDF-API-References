@@ -2,8 +2,8 @@
 title: "BasicSetColorAndPatternOperator.PatternName"
 linktitle: "PatternName"
 articleTitle: "PatternName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets Pattern Name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BasicSetColorAndPatternOperator property. Gets Pattern Name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/"

@@ -2,8 +2,8 @@
 title: "IImageDescriptionCopilot Interface"
 linktitle: "IImageDescriptionCopilot"
 articleTitle: "IImageDescriptionCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an image description copilot for extracting image descriptions using AI models."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IImageDescriptionCopilot interface. Represents an image description copilot for extracting image descriptions using AI models."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilot/"

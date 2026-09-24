@@ -2,8 +2,8 @@
 title: "CoordinateOrigin Enum"
 linktitle: "CoordinateOrigin"
 articleTitle: "CoordinateOrigin"
-second_title: "Aspose.PDF for .NET"
-description: "Text CoordinateOrigin enumeration."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.CoordinateOrigin enum. Text CoordinateOrigin enumeration."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/coordinateorigin/"

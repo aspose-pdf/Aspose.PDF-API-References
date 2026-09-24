@@ -2,8 +2,8 @@
 title: "SvgExtractionOptions.ExtractEverySubPathToSvg"
 linktitle: "ExtractEverySubPathToSvg"
 articleTitle: "ExtractEverySubPathToSvg"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets opttion to extracts every subpath from a PDF document to separate SVG images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgExtractionOptions property. Gets and sets opttion to extracts every subpath from a PDF document to separate SVG images."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.vector/svgextractionoptions/extracteverysubpathtosvg/"

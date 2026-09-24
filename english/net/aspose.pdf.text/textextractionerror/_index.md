@@ -2,8 +2,8 @@
 title: "TextExtractionError Class"
 linktitle: "TextExtractionError"
 articleTitle: "TextExtractionError"
-second_title: "Aspose.PDF for .NET"
-description: "Describes the text extraction error has appeared in the PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextExtractionError class. Describes the text extraction error has appeared in the PDF document."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.text/textextractionerror/"

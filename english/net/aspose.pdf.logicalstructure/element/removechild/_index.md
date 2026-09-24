@@ -2,8 +2,8 @@
 title: "Element.RemoveChild"
 linktitle: "RemoveChild"
 articleTitle: "RemoveChild"
-second_title: "Aspose.PDF for .NET"
-description: "Remove child at."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element method. Remove child at."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/element/removechild/"

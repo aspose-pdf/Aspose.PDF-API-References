@@ -2,8 +2,8 @@
 title: "TimestampOptions.SigLocation"
 linktitle: "SigLocation"
 articleTitle: "SigLocation"
-second_title: "Aspose.PDF for .NET"
-description: "Location for the signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampOptions property. Location for the signature."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.lowcode/timestampoptions/siglocation/"

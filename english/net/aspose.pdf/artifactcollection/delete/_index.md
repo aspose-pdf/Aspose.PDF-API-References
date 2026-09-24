@@ -2,8 +2,8 @@
 title: "ArtifactCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes specified artifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection method. Deletes specified artifact."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/artifactcollection/delete/"

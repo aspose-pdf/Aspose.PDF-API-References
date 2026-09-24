@@ -2,8 +2,8 @@
 title: "PDF3DContent.SaveToFile"
 linktitle: "SaveToFile"
 articleTitle: "SaveToFile"
-second_title: "Aspose.PDF for .NET"
-description: "Saves 3D content to file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent method. Saves 3D content to file."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/pdf3dcontent/savetofile/"

@@ -2,8 +2,8 @@
 title: "PrinterSettings.MinimumPage"
 linktitle: "MinimumPage"
 articleTitle: "MinimumPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the lowest or which may be selected in a print dialog box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the lowest or which may be selected in a print dialog box."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.printing/printersettings/minimumpage/"

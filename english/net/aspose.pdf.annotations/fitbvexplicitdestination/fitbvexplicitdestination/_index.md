@@ -2,8 +2,8 @@
 title: "FitBVExplicitDestination.FitBVExplicitDestination"
 linktitle: "FitBVExplicitDestination"
 articleTitle: "FitBVExplicitDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FitBVExplicitDestination class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitBVExplicitDestination constructor. Initializes a new instance of the FitBVExplicitDestination class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/fitbvexplicitdestination/fitbvexplicitdestination/"

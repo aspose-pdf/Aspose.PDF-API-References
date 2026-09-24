@@ -2,8 +2,8 @@
 title: "BasicSetColorOperator.Y"
 linktitle: "Y"
 articleTitle: "Y"
-second_title: "Aspose.PDF for .NET"
-description: "Gets yellow component of CMYK color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BasicSetColorOperator property. Gets yellow component of CMYK color."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/y/"

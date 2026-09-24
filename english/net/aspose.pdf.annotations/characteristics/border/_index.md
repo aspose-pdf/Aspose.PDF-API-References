@@ -2,8 +2,8 @@
 title: "Characteristics.Border"
 linktitle: "Border"
 articleTitle: "Border"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets color of the border."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Characteristics property. Gets or sets color of the border."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/characteristics/border/"

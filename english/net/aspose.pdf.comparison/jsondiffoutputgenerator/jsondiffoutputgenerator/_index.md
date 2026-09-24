@@ -2,8 +2,8 @@
 title: "JsonDiffOutputGenerator.JsonDiffOutputGenerator"
 linktitle: "JsonDiffOutputGenerator"
 articleTitle: "JsonDiffOutputGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the JsonDiffOutputGenerator class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JsonDiffOutputGenerator constructor. Initializes a new instance of the JsonDiffOutputGenerator class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/jsondiffoutputgenerator/jsondiffoutputgenerator/"

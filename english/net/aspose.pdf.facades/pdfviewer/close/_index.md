@@ -2,8 +2,8 @@
 title: "PdfViewer.Close"
 linktitle: "Close"
 articleTitle: "Close"
-second_title: "Aspose.PDF for .NET"
-description: "Closes the facade."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Closes the facade."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdfviewer/close/"

@@ -2,8 +2,8 @@
 title: "TableTRElement.IsInNewPage"
 linktitle: "IsInNewPage"
 articleTitle: "IsInNewPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets fixed row is in new page - page with this property should be printed to next page Default false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableTRElement property. Gets fixed row is in new page - page with this property should be printed to next page Default false."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/isinnewpage/"

@@ -2,8 +2,8 @@
 title: "WatermarkAnnotation.AnnotationType"
 linktitle: "AnnotationType"
 articleTitle: "AnnotationType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets annotation type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WatermarkAnnotation property. Gets annotation type."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/watermarkannotation/annotationtype/"

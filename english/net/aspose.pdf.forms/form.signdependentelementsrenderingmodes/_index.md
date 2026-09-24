@@ -2,8 +2,8 @@
 title: "Form.SignDependentElementsRenderingModes Enum"
 linktitle: "Form.SignDependentElementsRenderingModes"
 articleTitle: "Form.SignDependentElementsRenderingModes"
-second_title: "Aspose.PDF for .NET"
-description: "Forms can contain signing information and can be signed or unsigned. Sometimes view of forms in viewer must depend on whether form is signed or not. This enu..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.Form.SignDependentElementsRenderingModes enum. Forms can contain signing information and can be signed or unsigned. Sometimes view of forms ..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.forms/form.signdependentelementsrenderingmodes/"

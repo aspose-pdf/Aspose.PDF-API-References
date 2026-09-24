@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.SolidWireframe"
 linktitle: "SolidWireframe"
 articleTitle: "SolidWireframe"
-second_title: "Aspose.PDF for .NET"
-description: "The \"SolidWireFrame\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"SolidWireFrame\" render mode."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/pdf3drendermode/solidwireframe/"

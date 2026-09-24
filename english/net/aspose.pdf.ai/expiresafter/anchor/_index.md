@@ -2,8 +2,8 @@
 title: "ExpiresAfter.Anchor"
 linktitle: "Anchor"
 articleTitle: "Anchor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the anchor timestamp after which the expiration policy applies. Supported anchors: last_active_at."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExpiresAfter property. Gets or sets the anchor timestamp after which the expiration policy applies. Supported anchors: last_active_at."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/expiresafter/anchor/"

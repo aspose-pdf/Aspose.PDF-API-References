@@ -2,8 +2,8 @@
 title: "PaperSizes.C6Envelope"
 linktitle: "C6Envelope"
 articleTitle: "C6Envelope"
-second_title: "Aspose.PDF for .NET"
-description: "C6 envelope (114 mm by 162 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. C6 envelope (114 mm by 162 mm)."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.printing/papersizes/c6envelope/"

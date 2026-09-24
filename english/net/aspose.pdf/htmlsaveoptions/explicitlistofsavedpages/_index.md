@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.ExplicitListOfSavedPages"
 linktitle: "ExplicitListOfSavedPages"
 articleTitle: "ExplicitListOfSavedPages"
-second_title: "Aspose.PDF for .NET"
-description: "With this property You can explicitely define what pages of document should be converted. Pages in this list must have 1-based numbers. I.e. valid numbers of..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. With this property You can explicitely define what pages of document should be converted. Pages in this list must have 1-based numb..."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/htmlsaveoptions/explicitlistofsavedpages/"

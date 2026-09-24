@@ -2,8 +2,8 @@
 title: "FloatingBox.ColumnInfo"
 linktitle: "ColumnInfo"
 articleTitle: "ColumnInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a column info"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox property. Gets or sets a column info"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/floatingbox/columninfo/"

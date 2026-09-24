@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionResponse.SystemFingerprint"
 linktitle: "SystemFingerprint"
 articleTitle: "SystemFingerprint"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the fingerprint that represents the backend configuration that the model runs with."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionResponse property. Gets or sets the fingerprint that represents the backend configuration that the model runs with."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/systemfingerprint/"

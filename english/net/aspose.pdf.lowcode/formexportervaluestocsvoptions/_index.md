@@ -2,8 +2,8 @@
 title: "FormExporterValuesToCsvOptions Class"
 linktitle: "FormExporterValuesToCsvOptions"
 articleTitle: "FormExporterValuesToCsvOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for export Value property(s) of specified field(s) (not annotations)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormExporterValuesToCsvOptions class. Represents options for export Value property(s) of specified field(s) (not annotations)."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.lowcode/formexportervaluestocsvoptions/"

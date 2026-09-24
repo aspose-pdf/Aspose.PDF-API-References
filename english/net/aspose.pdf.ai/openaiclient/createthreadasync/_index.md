@@ -2,8 +2,8 @@
 title: "OpenAIClient.CreateThreadAsync"
 linktitle: "CreateThreadAsync"
 articleTitle: "CreateThreadAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Creates a new thread asynchronously."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.ai/openaiclient/createthreadasync/"

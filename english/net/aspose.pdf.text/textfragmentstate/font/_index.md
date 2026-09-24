@@ -2,8 +2,8 @@
 title: "TextFragmentState.Font"
 linktitle: "Font"
 articleTitle: "Font"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets font of the text, represented by the object"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets font of the text, represented by the object"
 type: docs
 weight: 210
 url: "/net/aspose.pdf.text/textfragmentstate/font/"

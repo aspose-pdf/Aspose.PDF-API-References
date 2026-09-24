@@ -2,8 +2,8 @@
 title: "Document.CustomSecurityHandler"
 linktitle: "CustomSecurityHandler"
 articleTitle: "CustomSecurityHandler"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a custom security handler."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets a custom security handler."
 type: docs
 weight: 1080
 url: "/net/aspose.pdf/document/customsecurityhandler/"

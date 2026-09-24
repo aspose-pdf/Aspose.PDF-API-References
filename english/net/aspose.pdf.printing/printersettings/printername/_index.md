@@ -2,8 +2,8 @@
 title: "PrinterSettings.PrinterName"
 linktitle: "PrinterName"
 articleTitle: "PrinterName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the name of the printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the name of the printer."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.printing/printersettings/printername/"

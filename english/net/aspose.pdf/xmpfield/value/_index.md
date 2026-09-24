@@ -2,8 +2,8 @@
 title: "XmpField.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets the value."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/xmpfield/value/"

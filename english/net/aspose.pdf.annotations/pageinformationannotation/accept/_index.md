@@ -2,8 +2,8 @@
 title: "PageInformationAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor for annotation processing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInformationAnnotation method. Accepts visitor for annotation processing."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pageinformationannotation/accept/"

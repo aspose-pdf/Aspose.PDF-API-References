@@ -2,8 +2,8 @@
 title: "FitBVExplicitDestination Class"
 linktitle: "FitBVExplicitDestination"
 articleTitle: "FitBVExplicitDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FitBVExplicitDestination class. Represents explicit destination that displays the page with the horizontal coordinate left positioned ..."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.annotations/fitbvexplicitdestination/"

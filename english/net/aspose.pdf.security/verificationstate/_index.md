@@ -2,8 +2,8 @@
 title: "VerificationState Enum"
 linktitle: "VerificationState"
 articleTitle: "VerificationState"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the state of a digital signature verification process in a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.VerificationState enum. Specifies the state of a digital signature verification process in a PDF document."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.security/verificationstate/"

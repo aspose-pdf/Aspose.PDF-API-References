@@ -2,8 +2,8 @@
 title: "XForm.Contents"
 linktitle: "Contents"
 articleTitle: "Contents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets operators of the form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm property. Gets operators of the form."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/xform/contents/"

@@ -2,8 +2,8 @@
 title: "ConvertErrorAction Enum"
 linktitle: "ConvertErrorAction"
 articleTitle: "ConvertErrorAction"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents action for conversion errors."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ConvertErrorAction enum. This class represents action for conversion errors."
 type: docs
 weight: 450
 url: "/net/aspose.pdf/converterroraction/"

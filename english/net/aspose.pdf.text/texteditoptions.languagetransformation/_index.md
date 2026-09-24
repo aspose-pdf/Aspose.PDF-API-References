@@ -2,8 +2,8 @@
 title: "TextEditOptions.LanguageTransformation Enum"
 linktitle: "TextEditOptions.LanguageTransformation"
 articleTitle: "TextEditOptions.LanguageTransformation"
-second_title: "Aspose.PDF for .NET"
-description: "Language transformation modes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextEditOptions.LanguageTransformation enum. Language transformation modes"
 type: docs
 weight: 460
 url: "/net/aspose.pdf.text/texteditoptions.languagetransformation/"

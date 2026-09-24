@@ -2,8 +2,8 @@
 title: "LineAnnotation.LeaderLineExtension"
 linktitle: "LeaderLineExtension"
 articleTitle: "LeaderLineExtension"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets length of leader line extension."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets length of leader line extension."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/lineannotation/leaderlineextension/"

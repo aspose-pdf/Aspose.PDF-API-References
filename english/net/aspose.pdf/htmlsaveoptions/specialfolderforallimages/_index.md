@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.SpecialFolderForAllImages"
 linktitle: "SpecialFolderForAllImages"
 articleTitle: "SpecialFolderForAllImages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets path to directory to which must be saved any images if they are encountered during saving of document as HTML. If parameter is empty or null the..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. Gets or sets path to directory to which must be saved any images if they are encountered during saving of document as HTML. If paramet..."
 type: docs
 weight: 420
 url: "/net/aspose.pdf/htmlsaveoptions/specialfolderforallimages/"

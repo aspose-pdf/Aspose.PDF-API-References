@@ -2,8 +2,8 @@
 title: "ColorDepth Enum"
 linktitle: "ColorDepth"
 articleTitle: "ColorDepth"
-second_title: "Aspose.PDF for .NET"
-description: "Used to specify the parameter value passed to a Tiff image device."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.ColorDepth enum. Used to specify the parameter value passed to a Tiff image device."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.devices/colordepth/"

@@ -2,8 +2,8 @@
 title: "Tiff Class"
 linktitle: "Tiff"
 articleTitle: "Tiff"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Pdf to Tiff plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Tiff class. Represents Pdf to Tiff plugin."
 type: docs
 weight: 1000
 url: "/net/aspose.pdf.lowcode/tiff/"

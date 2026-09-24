@@ -2,8 +2,8 @@
 title: "FileSpecification.Encoding"
 linktitle: "Encoding"
 articleTitle: "Encoding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets encoding format. Possible values: Zip - file is compressed with ZIP, None - file is not compressed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets or sets encoding format. Possible values: Zip - file is compressed with ZIP, None - file is not compressed."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/filespecification/encoding/"

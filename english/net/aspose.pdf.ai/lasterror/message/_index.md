@@ -2,8 +2,8 @@
 title: "LastError.Message"
 linktitle: "Message"
 articleTitle: "Message"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a human-readable description of the error."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LastError property. Gets or sets a human-readable description of the error."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/lasterror/message/"

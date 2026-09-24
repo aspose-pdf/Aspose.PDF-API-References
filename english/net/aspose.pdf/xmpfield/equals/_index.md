@@ -2,8 +2,8 @@
 title: "XmpField.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether this instance and a specified object are equal."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField method. Indicates whether this instance and a specified object are equal."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmpfield/equals/"

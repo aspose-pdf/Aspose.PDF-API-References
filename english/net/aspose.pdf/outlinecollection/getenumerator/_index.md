@@ -2,8 +2,8 @@
 title: "OutlineCollection.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns an enumerator that iterates through the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineCollection method. Returns an enumerator that iterates through the collection."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/outlinecollection/getenumerator/"

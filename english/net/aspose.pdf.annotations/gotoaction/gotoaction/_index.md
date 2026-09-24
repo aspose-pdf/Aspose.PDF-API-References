@@ -2,8 +2,8 @@
 title: "GoToAction.GoToAction"
 linktitle: "GoToAction"
 articleTitle: "GoToAction"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the GoToAction class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GoToAction constructor. Initializes a new instance of the GoToAction class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/gotoaction/gotoaction/"

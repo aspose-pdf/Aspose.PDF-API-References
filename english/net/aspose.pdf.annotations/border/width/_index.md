@@ -2,8 +2,8 @@
 title: "Border.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets border width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Border property. Gets or sets border width."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/border/width/"

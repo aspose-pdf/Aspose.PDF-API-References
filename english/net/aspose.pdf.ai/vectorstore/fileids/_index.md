@@ -2,8 +2,8 @@
 title: "VectorStore.FileIds"
 linktitle: "FileIds"
 articleTitle: "FileIds"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list of file IDs to add to the vector store. There can be a maximum of 10000 files in a vector store."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStore property. Gets or sets a list of file IDs to add to the vector store. There can be a maximum of 10000 files in a vector store."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstore/fileids/"

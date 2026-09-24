@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase.AddInput"
 linktitle: "AddInput"
 articleTitle: "AddInput"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new data source to the collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase method. Adds new data source to the collection"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/addinput/"

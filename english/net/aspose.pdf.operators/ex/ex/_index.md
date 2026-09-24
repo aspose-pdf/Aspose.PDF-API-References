@@ -2,8 +2,8 @@
 title: "EX.EX"
 linktitle: "EX"
 articleTitle: "EX"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EX class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EX constructor. Initializes a new instance of the EX class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/ex/ex/"

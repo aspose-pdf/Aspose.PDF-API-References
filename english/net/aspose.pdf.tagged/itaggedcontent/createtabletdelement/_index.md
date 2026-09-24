@@ -2,8 +2,8 @@
 title: "ITaggedContent.CreateTableTDElement"
 linktitle: "CreateTableTDElement"
 articleTitle: "CreateTableTDElement"
-second_title: "Aspose.PDF for .NET"
-description: "Creates ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtabletdelement/"

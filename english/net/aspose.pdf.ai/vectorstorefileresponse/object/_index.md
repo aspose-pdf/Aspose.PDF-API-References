@@ -2,8 +2,8 @@
 title: "VectorStoreFileResponse.Object"
 linktitle: "Object"
 articleTitle: "Object"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the object type, which is always vector_store.file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileResponse property. Gets or sets the object type, which is always vector_store.file."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/object/"

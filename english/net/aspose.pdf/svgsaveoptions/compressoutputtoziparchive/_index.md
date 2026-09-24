@@ -2,8 +2,8 @@
 title: "SvgSaveOptions.CompressOutputToZipArchive"
 linktitle: "CompressOutputToZipArchive"
 articleTitle: "CompressOutputToZipArchive"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies whether output will be created as one zip-archive. Please refer comment to 'TreatTargetFileNameAsDirectory' options to see rules of naming of svg-f..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgSaveOptions field. Specifies whether output will be created as one zip-archive. Please refer comment to 'TreatTargetFileNameAsDirectory' options to see ru..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/svgsaveoptions/compressoutputtoziparchive/"

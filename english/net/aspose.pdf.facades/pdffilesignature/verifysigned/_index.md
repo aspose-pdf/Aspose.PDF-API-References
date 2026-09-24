@@ -2,8 +2,8 @@
 title: "PdfFileSignature.VerifySigned"
 linktitle: "VerifySigned"
 articleTitle: "VerifySigned"
-second_title: "Aspose.PDF for .NET"
-description: "Checks the validity of a signature. The method is deprecated and will be deleted in 25.1 version. Use VerifySignature method instead."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Checks the validity of a signature. The method is deprecated and will be deleted in 25.1 version. Use VerifySignature method instead."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.facades/pdffilesignature/verifysigned/"

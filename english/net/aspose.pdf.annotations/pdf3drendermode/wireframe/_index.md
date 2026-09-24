@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.Wireframe"
 linktitle: "Wireframe"
 articleTitle: "Wireframe"
-second_title: "Aspose.PDF for .NET"
-description: "The \"WireFrame\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"WireFrame\" render mode."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/pdf3drendermode/wireframe/"

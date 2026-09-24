@@ -2,8 +2,8 @@
 title: "CosPdfNumber.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Determines that the specified object is equal to the current object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfNumber method. Determines that the specified object is equal to the current object."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/cospdfnumber/equals/"

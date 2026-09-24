@@ -2,8 +2,8 @@
 title: "FileCounts.Total"
 linktitle: "Total"
 articleTitle: "Total"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the total number of files in the vector store."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileCounts property. Gets or sets the total number of files in the vector store."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/filecounts/total/"

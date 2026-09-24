@@ -2,8 +2,8 @@
 title: "Signature.GetSignatureAlgorithmInfo"
 linktitle: "GetSignatureAlgorithmInfo"
 articleTitle: "GetSignatureAlgorithmInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves information about the signature algorithm used in the signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature method. Retrieves information about the signature algorithm used in the signature."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/"

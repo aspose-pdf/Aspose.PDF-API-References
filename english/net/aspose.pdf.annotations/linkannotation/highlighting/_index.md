@@ -2,8 +2,8 @@
 title: "LinkAnnotation.Highlighting"
 linktitle: "Highlighting"
 articleTitle: "Highlighting"
-second_title: "Aspose.PDF for .NET"
-description: "The visual effect to be used when the mouse button is pressed or held down inside its active area."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LinkAnnotation property. The visual effect to be used when the mouse button is pressed or held down inside its active area."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/linkannotation/highlighting/"

@@ -2,8 +2,8 @@
 title: "StructureElement.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the title for structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets or sets the title for structure element."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.logicalstructure/structureelement/title/"

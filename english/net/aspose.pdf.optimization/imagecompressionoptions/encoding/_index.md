@@ -2,8 +2,8 @@
 title: "ImageCompressionOptions.Encoding"
 linktitle: "Encoding"
 articleTitle: "Encoding"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets encoding used to store images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageCompressionOptions property. Gets or sets encoding used to store images."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/encoding/"

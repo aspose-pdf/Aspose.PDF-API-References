@@ -2,8 +2,8 @@
 title: "AttributeName.BorderStyle_Solid"
 linktitle: "BorderStyle_Solid"
 articleTitle: "BorderStyle_Solid"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BorderStyle: Solid - The border is a single line segment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BorderStyle: Solid - The border is a single line segment."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_solid/"

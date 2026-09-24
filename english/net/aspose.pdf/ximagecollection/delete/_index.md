@@ -2,8 +2,8 @@
 title: "XImageCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Removes index from collection by index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Removes index from collection by index."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/ximagecollection/delete/"

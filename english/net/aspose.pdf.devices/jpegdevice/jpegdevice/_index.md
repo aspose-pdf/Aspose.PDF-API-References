@@ -2,8 +2,8 @@
 title: "JpegDevice.JpegDevice"
 linktitle: "JpegDevice"
 articleTitle: "JpegDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the JpegDevice class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JpegDevice constructor. Initializes a new instance of the JpegDevice class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/jpegdevice/jpegdevice/"

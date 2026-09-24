@@ -2,8 +2,8 @@
 title: "RunResponse.ThreadId"
 linktitle: "ThreadId"
 articleTitle: "ThreadId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ID of the thread that was executed on as a part of this run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the ID of the thread that was executed on as a part of this run."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/runresponse/threadid/"

@@ -2,8 +2,8 @@
 title: "Annotation.ToImage"
 linktitle: "ToImage"
 articleTitle: "ToImage"
-second_title: "Aspose.PDF for .NET"
-description: "Converts annotation to image stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation method. Converts annotation to image stream."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/annotation/toimage/"

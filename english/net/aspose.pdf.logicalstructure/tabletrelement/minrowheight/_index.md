@@ -2,8 +2,8 @@
 title: "TableTRElement.MinRowHeight"
 linktitle: "MinRowHeight"
 articleTitle: "MinRowHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets height for row."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableTRElement property. Gets height for row."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/"

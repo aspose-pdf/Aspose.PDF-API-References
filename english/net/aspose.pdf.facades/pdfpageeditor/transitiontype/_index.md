@@ -2,8 +2,8 @@
 title: "PdfPageEditor.TransitionType"
 linktitle: "TransitionType"
 articleTitle: "TransitionType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets transition style to use when moving to this page from another during a presentation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor property. Gets or sets transition style to use when moving to this page from another during a presentation."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdfpageeditor/transitiontype/"

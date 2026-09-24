@@ -2,8 +2,8 @@
 title: "PolyIntent Enum"
 linktitle: "PolyIntent"
 articleTitle: "PolyIntent"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the intents of the polygon or polyline annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PolyIntent enum. Enumerates the intents of the polygon or polyline annotation."
 type: docs
 weight: 920
 url: "/net/aspose.pdf.annotations/polyintent/"

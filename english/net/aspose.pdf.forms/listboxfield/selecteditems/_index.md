@@ -2,8 +2,8 @@
 title: "ListBoxField.SelectedItems"
 linktitle: "SelectedItems"
 articleTitle: "SelectedItems"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets array of the selected items in the multiselect list. For single-select list returns array with single item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ListBoxField property. Gets or sets array of the selected items in the multiselect list. For single-select list returns array with single item."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/listboxfield/selecteditems/"

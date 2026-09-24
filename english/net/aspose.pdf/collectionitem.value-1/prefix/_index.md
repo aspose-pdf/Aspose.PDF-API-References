@@ -2,8 +2,8 @@
 title: "CollectionItem.Value<T>.Prefix"
 linktitle: "Prefix"
 articleTitle: "Prefix"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Value property."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/collectionitem.value-1/prefix/"

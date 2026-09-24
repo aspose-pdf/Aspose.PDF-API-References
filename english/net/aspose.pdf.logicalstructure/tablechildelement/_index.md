@@ -2,8 +2,8 @@
 title: "TableChildElement Class"
 linktitle: "TableChildElement"
 articleTitle: "TableChildElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class for children elements of the Table in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.TableChildElement class. Represents a base class for children elements of the Table in logical structure."
 type: docs
 weight: 630
 url: "/net/aspose.pdf.logicalstructure/tablechildelement/"

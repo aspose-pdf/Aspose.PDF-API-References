@@ -2,8 +2,8 @@
 title: "HeaderFooter.IsClipExtraContent"
 linktitle: "IsClipExtraContent"
 articleTitle: "IsClipExtraContent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets is clip extra content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooter property. Gets or sets is clip extra content."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/headerfooter/isclipextracontent/"

@@ -2,8 +2,8 @@
 title: "PdfToImageOptions.OutputResolution"
 linktitle: "OutputResolution"
 articleTitle: "OutputResolution"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the resolution value of the resulting images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImageOptions property. Gets or sets the resolution value of the resulting images."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/outputresolution/"

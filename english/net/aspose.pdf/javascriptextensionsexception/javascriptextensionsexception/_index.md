@@ -2,8 +2,8 @@
 title: "JavascriptExtensionsException.JavascriptExtensionsException"
 linktitle: "JavascriptExtensionsException"
 articleTitle: "JavascriptExtensionsException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the JavascriptExtensionsException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JavascriptExtensionsException constructor. Initializes a new instance of the JavascriptExtensionsException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/javascriptextensionsexception/javascriptextensionsexception/"

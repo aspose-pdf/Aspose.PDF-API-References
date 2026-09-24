@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlImageSavingInfo.ImageType"
 linktitle: "ImageType"
 articleTitle: "ImageType"
-second_title: "Aspose.PDF for .NET"
-description: "Represents type of saved image referenced in HTML. Set by converter and can be used in custom code to decide what should be done"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlImageSavingInfo field. Represents type of saved image referenced in HTML. Set by converter and can be used in custom code to decide what should be done"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype/"

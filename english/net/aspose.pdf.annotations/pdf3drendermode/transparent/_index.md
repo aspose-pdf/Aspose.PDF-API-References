@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.Transparent"
 linktitle: "Transparent"
 articleTitle: "Transparent"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Transparent\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"Transparent\" render mode."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/pdf3drendermode/transparent/"

@@ -2,8 +2,8 @@
 title: "WidgetAnnotation.ExportToJson"
 linktitle: "ExportToJson"
 articleTitle: "ExportToJson"
-second_title: "Aspose.PDF for .NET"
-description: "Exports the specified PDF form field to JSON format and writes the result to the provided stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation method. Exports the specified PDF form field to JSON format and writes the result to the provided stream."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/widgetannotation/exporttojson/"

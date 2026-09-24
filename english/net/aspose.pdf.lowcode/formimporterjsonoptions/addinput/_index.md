@@ -2,8 +2,8 @@
 title: "FormImporterJsonOptions.AddInput"
 linktitle: "AddInput"
 articleTitle: "AddInput"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a new pair of input sources – the PDF document and the JSON file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormImporterJsonOptions method. Adds a new pair of input sources – the PDF document and the JSON file."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/addinput/"

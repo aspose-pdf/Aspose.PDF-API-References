@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets HTML page title."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Gets or sets HTML page title."
 type: docs
 weight: 270
 url: "/net/aspose.pdf/htmlsaveoptions/title/"

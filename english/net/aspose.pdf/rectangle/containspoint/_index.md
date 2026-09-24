@@ -2,8 +2,8 @@
 title: "Rectangle.ContainsPoint"
 linktitle: "ContainsPoint"
 articleTitle: "ContainsPoint"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether the given point is contained within the rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Determines whether the given point is contained within the rectangle."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/rectangle/containspoint/"

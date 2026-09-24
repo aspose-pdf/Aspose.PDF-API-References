@@ -2,8 +2,8 @@
 title: "TextParagraph.FormattingOptions"
 linktitle: "FormattingOptions"
 articleTitle: "FormattingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets formatting options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph property. Gets or sets formatting options."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.text/textparagraph/formattingoptions/"

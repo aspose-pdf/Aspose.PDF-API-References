@@ -2,8 +2,8 @@
 title: "PdfGeneratorOptions.Inputs"
 linktitle: "Inputs"
 articleTitle: "Inputs"
-second_title: "Aspose.PDF for .NET"
-description: "Returns PdfGenerator plugin data collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfGeneratorOptions property. Returns PdfGenerator plugin data collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdfgeneratoroptions/inputs/"

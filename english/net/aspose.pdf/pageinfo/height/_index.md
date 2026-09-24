@@ -2,8 +2,8 @@
 title: "PageInfo.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets page height."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInfo property. Gets or sets page height."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pageinfo/height/"

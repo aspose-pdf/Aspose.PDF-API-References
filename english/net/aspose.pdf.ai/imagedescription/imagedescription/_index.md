@@ -2,8 +2,8 @@
 title: "ImageDescription.ImageDescription"
 linktitle: "ImageDescription"
 articleTitle: "ImageDescription"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ImageDescription class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDescription constructor. Initializes a new instance of the ImageDescription class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/imagedescription/imagedescription/"

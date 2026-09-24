@@ -2,8 +2,8 @@
 title: "IFileOutputGenerator.GenerateOutput"
 linktitle: "GenerateOutput"
 articleTitle: "GenerateOutput"
-second_title: "Aspose.PDF for .NET"
-description: "Generates the output based on the differences between texts and saves it to a file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IFileOutputGenerator method. Generates the output based on the differences between texts and saves it to a file."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/ifileoutputgenerator/generateoutput/"

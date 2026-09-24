@@ -2,8 +2,8 @@
 title: "Signature.AvoidEstimatingSignatureLength"
 linktitle: "AvoidEstimatingSignatureLength"
 articleTitle: "AvoidEstimatingSignatureLength"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets an option means whether to avoid estimating the length of a signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. Gets and sets an option means whether to avoid estimating the length of a signature."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.forms/signature/avoidestimatingsignaturelength/"

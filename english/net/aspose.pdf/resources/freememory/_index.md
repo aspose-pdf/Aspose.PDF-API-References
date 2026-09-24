@@ -2,8 +2,8 @@
 title: "Resources.FreeMemory"
 linktitle: "FreeMemory"
 articleTitle: "FreeMemory"
-second_title: "Aspose.PDF for .NET"
-description: "Clears cached data, frees memory etc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resources method. Clears cached data, frees memory etc."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/resources/freememory/"

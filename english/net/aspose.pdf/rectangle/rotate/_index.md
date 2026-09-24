@@ -2,8 +2,8 @@
 title: "Rectangle.Rotate"
 linktitle: "Rotate"
 articleTitle: "Rotate"
-second_title: "Aspose.PDF for .NET"
-description: "Rotate rectangle by the specified angle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Rotate rectangle by the specified angle."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/rectangle/rotate/"

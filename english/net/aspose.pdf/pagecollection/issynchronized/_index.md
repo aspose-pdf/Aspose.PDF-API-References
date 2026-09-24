@@ -2,8 +2,8 @@
 title: "PageCollection.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true of object is synchorinzed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection property. Returns true of object is synchorinzed."
 type: docs
 weight: 280
 url: "/net/aspose.pdf/pagecollection/issynchronized/"

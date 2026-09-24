@@ -2,8 +2,8 @@
 title: "GoToRemoteAction.NewWindow"
 linktitle: "NewWindow"
 articleTitle: "NewWindow"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a flag specifying whether to open the destination document in a new window."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GoToRemoteAction property. Gets or sets a flag specifying whether to open the destination document in a new window."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/gotoremoteaction/newwindow/"

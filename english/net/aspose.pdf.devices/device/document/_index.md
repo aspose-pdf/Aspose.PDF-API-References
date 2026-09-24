@@ -2,8 +2,8 @@
 title: "Device.Document"
 linktitle: "Document"
 articleTitle: "Document"
-second_title: "Aspose.PDF for .NET"
-description: "Document which is processed by this device instance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Device property. Document which is processed by this device instance."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.devices/device/document/"

@@ -2,8 +2,8 @@
 title: "RunCreateRequest.ToolChoice"
 linktitle: "ToolChoice"
 articleTitle: "ToolChoice"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets which (if any) tool is called by the model. none means the model will not call any tools and instead generates a message. auto is the default va..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunCreateRequest property. Gets or sets which (if any) tool is called by the model. none means the model will not call any tools and instead generates a mess..."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/runcreaterequest/toolchoice/"

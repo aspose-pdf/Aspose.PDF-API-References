@@ -2,8 +2,8 @@
 title: "MovieAnnotation.File"
 linktitle: "File"
 articleTitle: "File"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a file specification identifying a self-describing movie file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MovieAnnotation property. Gets or sets a file specification identifying a self-describing movie file."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/movieannotation/file/"

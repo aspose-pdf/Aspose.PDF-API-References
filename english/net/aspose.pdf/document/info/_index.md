@@ -2,8 +2,8 @@
 title: "Document.Info"
 linktitle: "Info"
 articleTitle: "Info"
-second_title: "Aspose.PDF for .NET"
-description: "Gets document info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets document info."
 type: docs
 weight: 1450
 url: "/net/aspose.pdf/document/info/"

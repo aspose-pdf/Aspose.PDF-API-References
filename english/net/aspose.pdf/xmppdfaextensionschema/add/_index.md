@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new object into schema."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema method. Adds new object into schema."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xmppdfaextensionschema/add/"

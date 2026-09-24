@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.ResourceSavingStrategy Delegate"
 linktitle: "HtmlSaveOptions.ResourceSavingStrategy"
 articleTitle: "HtmlSaveOptions.ResourceSavingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "To this property You can assign delegate created from custom method that implements processing of external resource(Font or Image) that was extracted from PD..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.ResourceSavingStrategy delegate. To this property You can assign delegate created from custom method that implements processing of..."
 type: docs
 weight: 1360
 url: "/net/aspose.pdf/htmlsaveoptions.resourcesavingstrategy/"

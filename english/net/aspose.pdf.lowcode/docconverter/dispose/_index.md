@@ -2,8 +2,8 @@
 title: "DocConverter.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Implementation of IDisposable."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocConverter method. Implementation of IDisposable."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/docconverter/dispose/"

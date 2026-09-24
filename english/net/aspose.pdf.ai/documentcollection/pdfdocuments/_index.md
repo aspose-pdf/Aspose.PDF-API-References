@@ -2,8 +2,8 @@
 title: "DocumentCollection.PdfDocuments"
 linktitle: "PdfDocuments"
 articleTitle: "PdfDocuments"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the collection of PDF documents to be processed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentCollection property. Gets or sets the collection of PDF documents to be processed."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/documentcollection/pdfdocuments/"

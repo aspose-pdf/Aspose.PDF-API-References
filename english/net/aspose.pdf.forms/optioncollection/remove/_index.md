@@ -2,8 +2,8 @@
 title: "OptionCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes item from collection, throws NotImplementedException."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection method. Removes item from collection, throws NotImplementedException."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/optioncollection/remove/"

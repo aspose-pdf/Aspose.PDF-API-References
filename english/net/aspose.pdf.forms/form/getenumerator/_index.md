@@ -2,8 +2,8 @@
 title: "Form.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets enumeration of form fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Gets enumeration of form fields."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/form/getenumerator/"

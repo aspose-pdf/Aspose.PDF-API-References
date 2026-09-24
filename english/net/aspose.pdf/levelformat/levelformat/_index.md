@@ -2,8 +2,8 @@
 title: "LevelFormat.LevelFormat"
 linktitle: "LevelFormat"
 articleTitle: "LevelFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the LevelFormat class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LevelFormat constructor. Initializes a new instance of the LevelFormat class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/levelformat/levelformat/"

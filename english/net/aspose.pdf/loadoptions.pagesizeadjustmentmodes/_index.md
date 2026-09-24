@@ -2,8 +2,8 @@
 title: "LoadOptions.PageSizeAdjustmentModes Enum"
 linktitle: "LoadOptions.PageSizeAdjustmentModes"
 articleTitle: "LoadOptions.PageSizeAdjustmentModes"
-second_title: "Aspose.PDF for .NET"
-description: "ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of us..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LoadOptions.PageSizeAdjustmentModes enum. ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED laye..."
 type: docs
 weight: 1810
 url: "/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/"

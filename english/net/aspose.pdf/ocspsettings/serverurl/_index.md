@@ -2,8 +2,8 @@
 title: "OcspSettings.ServerUrl"
 linktitle: "ServerUrl"
 articleTitle: "ServerUrl"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the ocsp server url."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcspSettings property. Gets and sets the ocsp server url."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/ocspsettings/serverurl/"

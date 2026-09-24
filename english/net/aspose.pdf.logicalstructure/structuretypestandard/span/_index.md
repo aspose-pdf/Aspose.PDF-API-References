@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Span"
 linktitle: "Span"
 articleTitle: "Span"
-second_title: "Aspose.PDF for .NET"
-description: "(Span) A generic inline portion of text having no particular inherent characteristics. It can be used, for example, to delimit a range of text with a given s..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Span) A generic inline portion of text having no particular inherent characteristics. It can be used, for example, to delimit a..."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/span/"

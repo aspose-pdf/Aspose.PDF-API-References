@@ -2,8 +2,8 @@
 title: "RsaAlgorithmInfo Class"
 linktitle: "RsaAlgorithmInfo"
 articleTitle: "RsaAlgorithmInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for the information about the RSA signature algorithm."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.RsaAlgorithmInfo class. Represents a class for the information about the RSA signature algorithm."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.security/rsaalgorithminfo/"

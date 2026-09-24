@@ -2,8 +2,8 @@
 title: "PdfContentEditor.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Binds a PDF file for editing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Binds a PDF file for editing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/"

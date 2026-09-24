@@ -2,8 +2,8 @@
 title: "PdfExtractor.GetNextPageText"
 linktitle: "GetNextPageText"
 articleTitle: "GetNextPageText"
-second_title: "Aspose.PDF for .NET"
-description: "Saves one page's text to file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Saves one page's text to file."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfextractor/getnextpagetext/"

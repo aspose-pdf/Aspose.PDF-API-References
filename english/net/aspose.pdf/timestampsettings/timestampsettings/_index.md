@@ -2,8 +2,8 @@
 title: "TimestampSettings.TimestampSettings"
 linktitle: "TimestampSettings"
 articleTitle: "TimestampSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TimestampSettings class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampSettings constructor. Initializes a new instance of the TimestampSettings class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/timestampsettings/timestampsettings/"

@@ -2,8 +2,8 @@
 title: "SubmitFormAction.Url"
 linktitle: "Url"
 articleTitle: "Url"
-second_title: "Aspose.PDF for .NET"
-description: "Destination URL."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction property. Destination URL."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/submitformaction/url/"

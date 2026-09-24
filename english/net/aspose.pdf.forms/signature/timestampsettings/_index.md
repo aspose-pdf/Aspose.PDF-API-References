@@ -2,8 +2,8 @@
 title: "Signature.TimestampSettings"
 linktitle: "TimestampSettings"
 articleTitle: "TimestampSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets timestamp settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. Gets/sets timestamp settings."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.forms/signature/timestampsettings/"

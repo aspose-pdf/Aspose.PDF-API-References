@@ -2,8 +2,8 @@
 title: "DocumentChunk.Metadata"
 linktitle: "Metadata"
 articleTitle: "Metadata"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the metadata associated with this chunk."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk property. Gets the metadata associated with this chunk."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/documentchunk/metadata/"

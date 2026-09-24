@@ -2,8 +2,8 @@
 title: "SetColorStroke.getColor"
 linktitle: "getColor"
 articleTitle: "getColor"
-second_title: "Aspose.PDF for .NET"
-description: "Returns color specified by operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorStroke method. Returns color specified by operator."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/setcolorstroke/getcolor/"

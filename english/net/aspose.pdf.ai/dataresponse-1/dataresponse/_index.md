@@ -2,8 +2,8 @@
 title: "DataResponse<T>.DataResponse<T>"
 linktitle: "DataResponse<T>"
 articleTitle: "DataResponse<T>"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DataResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DataResponse constructor. Initializes a new instance of the DataResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/dataresponse-1/dataresponse/"

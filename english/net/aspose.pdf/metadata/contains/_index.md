@@ -2,8 +2,8 @@
 title: "Metadata.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Checks does key is contained in metadata."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Checks does key is contained in metadata."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/metadata/contains/"

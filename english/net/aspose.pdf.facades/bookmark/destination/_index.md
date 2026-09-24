@@ -2,8 +2,8 @@
 title: "Bookmark.Destination"
 linktitle: "Destination"
 articleTitle: "Destination"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets bookmark's destination page. Required if action is set as string.Empty."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Bookmark property. Gets or sets bookmark's destination page. Required if action is set as string.Empty."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/bookmark/destination/"

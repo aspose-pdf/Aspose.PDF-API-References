@@ -2,8 +2,8 @@
 title: "CompositingParameters.IsMasked"
 linktitle: "IsMasked"
 articleTitle: "IsMasked"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the mask flag."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompositingParameters property. Gets the mask flag."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/compositingparameters/ismasked/"

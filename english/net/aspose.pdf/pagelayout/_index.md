@@ -2,8 +2,8 @@
 title: "PageLayout Enum"
 linktitle: "PageLayout"
 articleTitle: "PageLayout"
-second_title: "Aspose.PDF for .NET"
-description: "Descibes page layout."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageLayout enum. Descibes page layout."
 type: docs
 weight: 2250
 url: "/net/aspose.pdf/pagelayout/"

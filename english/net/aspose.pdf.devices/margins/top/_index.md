@@ -2,8 +2,8 @@
 title: "Margins.Top"
 linktitle: "Top"
 articleTitle: "Top"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the top."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Margins property. Gets or sets the top."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.devices/margins/top/"

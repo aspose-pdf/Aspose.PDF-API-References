@@ -2,8 +2,8 @@
 title: "XImage.GetAlternativeText"
 linktitle: "GetAlternativeText"
 articleTitle: "GetAlternativeText"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a list of strings with Alternative Text for an XImage."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Returns a list of strings with Alternative Text for an XImage."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/ximage/getalternativetext/"

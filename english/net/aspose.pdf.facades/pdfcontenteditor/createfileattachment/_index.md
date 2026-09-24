@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateFileAttachment"
 linktitle: "CreateFileAttachment"
 articleTitle: "CreateFileAttachment"
-second_title: "Aspose.PDF for .NET"
-description: "Creates file attachment annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates file attachment annotation."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/"

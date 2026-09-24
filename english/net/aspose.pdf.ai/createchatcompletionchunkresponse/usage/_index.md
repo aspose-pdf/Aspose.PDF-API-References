@@ -2,8 +2,8 @@
 title: "CreateChatCompletionChunkResponse.Usage"
 linktitle: "Usage"
 articleTitle: "Usage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an optional field that will only be present when you set stream_options: {\"include_usage\": true} in your request. When present, it contains a nu..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateChatCompletionChunkResponse property. Gets or sets an optional field that will only be present when you set stream_options: {\"include_usage\": true} in ..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/usage/"

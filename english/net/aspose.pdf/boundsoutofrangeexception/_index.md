@@ -2,8 +2,8 @@
 title: "BoundsOutOfRangeException Class"
 linktitle: "BoundsOutOfRangeException"
 articleTitle: "BoundsOutOfRangeException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an exception which occurs when an item doesn't fit within the given container dimensions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BoundsOutOfRangeException class. Represents an exception which occurs when an item doesn't fit within the given container dimensions."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/boundsoutofrangeexception/"

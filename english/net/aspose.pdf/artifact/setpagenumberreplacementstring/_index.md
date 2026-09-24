@@ -2,8 +2,8 @@
 title: "Artifact.SetPageNumberReplacementString"
 linktitle: "SetPageNumberReplacementString"
 articleTitle: "SetPageNumberReplacementString"
-second_title: "Aspose.PDF for .NET"
-description: "Sets what string will be replaced with the page number. The default value is #."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Sets what string will be replaced with the page number. The default value is #."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/artifact/setpagenumberreplacementstring/"

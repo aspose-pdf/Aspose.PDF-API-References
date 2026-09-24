@@ -2,8 +2,8 @@
 title: "Paragraphs.InsertRange"
 linktitle: "InsertRange"
 articleTitle: "InsertRange"
-second_title: "Aspose.PDF for .NET"
-description: "Inserts the elements of a collection into the list at the specified index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs method. Inserts the elements of a collection into the list at the specified index."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/paragraphs/insertrange/"

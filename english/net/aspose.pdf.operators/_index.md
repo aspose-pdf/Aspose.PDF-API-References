@@ -2,7 +2,7 @@
 title: "Aspose.Pdf.Operators"
 linktitle: "Aspose.Pdf.Operators"
 articleTitle: "Aspose.Pdf.Operators"
-second_title: "Aspose.PDF for .NET"
+second_title: "Aspose.PDF for .NET API Reference"
 description: "The **Aspose.Pdf.Operators** namespace provides classes."
 type: docs
 weight: 10

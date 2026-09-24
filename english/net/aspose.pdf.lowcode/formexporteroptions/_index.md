@@ -2,8 +2,8 @@
 title: "FormExporterOptions Class"
 linktitle: "FormExporterOptions"
 articleTitle: "FormExporterOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for FormExporter plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormExporterOptions class. Represents options for FormExporter plugin."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.lowcode/formexporteroptions/"

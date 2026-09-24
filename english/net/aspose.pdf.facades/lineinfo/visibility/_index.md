@@ -2,8 +2,8 @@
 title: "LineInfo.Visibility"
 linktitle: "Visibility"
 articleTitle: "Visibility"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the visibility of a line."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineInfo property. Gets or sets the visibility of a line."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/lineinfo/visibility/"

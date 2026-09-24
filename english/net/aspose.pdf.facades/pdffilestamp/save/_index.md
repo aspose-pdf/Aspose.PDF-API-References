@@ -2,8 +2,8 @@
 title: "PdfFileStamp.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves result into specified file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Saves result into specified file."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdffilestamp/save/"

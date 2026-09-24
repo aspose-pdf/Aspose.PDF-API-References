@@ -2,8 +2,8 @@
 title: "PdfViewer.AutoResize"
 linktitle: "AutoResize"
 articleTitle: "AutoResize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a bool value that indicates whether the file be printed with optimized size. If false print page without page scaling. If true print page with s..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets or sets a bool value that indicates whether the file be printed with optimized size. If false print page without page scaling. If tr..."
 type: docs
 weight: 500
 url: "/net/aspose.pdf.facades/pdfviewer/autoresize/"

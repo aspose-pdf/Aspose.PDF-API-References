@@ -2,8 +2,8 @@
 title: "IColorSpaceConversionStrategy Interface"
 linktitle: "IColorSpaceConversionStrategy"
 articleTitle: "IColorSpaceConversionStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Interface for color space conversion strategies."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IColorSpaceConversionStrategy interface. Interface for color space conversion strategies."
 type: docs
 weight: 1390
 url: "/net/aspose.pdf/icolorspaceconversionstrategy/"

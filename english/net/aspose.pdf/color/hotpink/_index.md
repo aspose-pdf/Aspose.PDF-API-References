@@ -2,8 +2,8 @@
 title: "Color.HotPink"
 linktitle: "HotPink"
 articleTitle: "HotPink"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFFF69B4."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFFF69B4."
 type: docs
 weight: 730
 url: "/net/aspose.pdf/color/hotpink/"

@@ -2,8 +2,8 @@
 title: "PageLabelCollection.GetLabel"
 linktitle: "GetLabel"
 articleTitle: "GetLabel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets page label by page index (page index is started from 0)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageLabelCollection method. Gets page label by page index (page index is started from 0)."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagelabelcollection/getlabel/"

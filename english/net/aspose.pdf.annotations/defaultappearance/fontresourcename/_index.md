@@ -2,8 +2,8 @@
 title: "DefaultAppearance.FontResourceName"
 linktitle: "FontResourceName"
 articleTitle: "FontResourceName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets font name in the default appearance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DefaultAppearance property. Gets font name in the default appearance."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/defaultappearance/fontresourcename/"

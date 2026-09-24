@@ -2,8 +2,8 @@
 title: "StartEndPageEventArgs.CurrentPage"
 linktitle: "CurrentPage"
 articleTitle: "CurrentPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the number of the page currently being printed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StartEndPageEventArgs field. Gets the number of the page currently being printed."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/startendpageeventargs/currentpage/"

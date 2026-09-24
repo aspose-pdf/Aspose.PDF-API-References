@@ -2,8 +2,8 @@
 title: "VerticalAlignmentType.Top"
 linktitle: "Top"
 articleTitle: "Top"
-second_title: "Aspose.PDF for .NET"
-description: "Top alignment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VerticalAlignmentType field. Top alignment."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/verticalalignmenttype/top/"

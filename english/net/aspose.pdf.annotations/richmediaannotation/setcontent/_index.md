@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.SetContent"
 linktitle: "SetContent"
 articleTitle: "SetContent"
-second_title: "Aspose.PDF for .NET"
-description: "Set content stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation method. Set content stream."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/richmediaannotation/setcontent/"

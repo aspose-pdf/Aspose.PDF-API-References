@@ -2,8 +2,8 @@
 title: "PaperSizeExtensions.ToAsposePaperSize"
 linktitle: "ToAsposePaperSize"
 articleTitle: "ToAsposePaperSize"
-second_title: "Aspose.PDF for .NET"
-description: "Converts Windows-specific System.Drawing.Printing.PaperSize to ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizeExtensions method. Converts Windows-specific System.Drawing.Printing.PaperSize to ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/papersizeextensions/toasposepapersize/"

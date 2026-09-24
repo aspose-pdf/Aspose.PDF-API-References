@@ -2,8 +2,8 @@
 title: "IconFit Class"
 linktitle: "IconFit"
 articleTitle: "IconFit"
-second_title: "Aspose.PDF for .NET"
-description: "Describes how the widget annotation's icon shall be displayed within its annotation rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.IconFit class. Describes how the widget annotation's icon shall be displayed within its annotation rectangle."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.forms/iconfit/"

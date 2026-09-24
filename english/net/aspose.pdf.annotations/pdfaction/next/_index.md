@@ -2,8 +2,8 @@
 title: "PdfAction.Next"
 linktitle: "Next"
 articleTitle: "Next"
-second_title: "Aspose.PDF for .NET"
-description: "Next actions in sequence."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAction property. Next actions in sequence."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdfaction/next/"

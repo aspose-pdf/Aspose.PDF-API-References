@@ -2,8 +2,8 @@
 title: "Watermark Class"
 linktitle: "Watermark"
 articleTitle: "Watermark"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a watermark of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Watermark class. Represents a watermark of the page."
 type: docs
 weight: 3160
 url: "/net/aspose.pdf/watermark/"

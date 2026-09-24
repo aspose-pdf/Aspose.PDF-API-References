@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.SyncRoot"
 linktitle: "SyncRoot"
 articleTitle: "SyncRoot"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an object that can be used to synchronize access to the dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary property. Gets an object that can be used to synchronize access to the dictionary."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.annotations/appearancedictionary/syncroot/"

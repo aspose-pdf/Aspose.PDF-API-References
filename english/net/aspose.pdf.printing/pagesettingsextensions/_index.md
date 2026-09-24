@@ -2,8 +2,8 @@
 title: "PageSettingsExtensions Class"
 linktitle: "PageSettingsExtensions"
 articleTitle: "PageSettingsExtensions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents extensions methods for ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PageSettingsExtensions class. Represents extensions methods for ."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/pagesettingsextensions/"

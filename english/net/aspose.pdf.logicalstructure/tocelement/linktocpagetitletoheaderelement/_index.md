@@ -2,8 +2,8 @@
 title: "TOCElement.LinkTocPageTitleToHeaderElement"
 linktitle: "LinkTocPageTitleToHeaderElement"
 articleTitle: "LinkTocPageTitleToHeaderElement"
-second_title: "Aspose.PDF for .NET"
-description: "Links the Table of Contents (TOC) page title to a header element for document structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TOCElement method. Links the Table of Contents (TOC) page title to a header element for document structure."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/tocelement/linktocpagetitletoheaderelement/"

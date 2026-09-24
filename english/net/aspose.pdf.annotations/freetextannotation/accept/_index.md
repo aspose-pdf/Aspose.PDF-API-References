@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor object to process the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation method. Accepts visitor object to process the annotation."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/freetextannotation/accept/"

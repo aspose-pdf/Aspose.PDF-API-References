@@ -2,8 +2,8 @@
 title: "OpenAISummaryCopilot Class"
 linktitle: "OpenAISummaryCopilot"
 articleTitle: "OpenAISummaryCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Provides functionality for getting document summaries using AI models. Example usage of creating an OpenAI client, configuring options, and using the summary..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAISummaryCopilot class. Provides functionality for getting document summaries using AI models. Example usage of creating an OpenAI client, ..."
 type: docs
 weight: 1000
 url: "/net/aspose.pdf.ai/openaisummarycopilot/"

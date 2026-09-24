@@ -2,8 +2,8 @@
 title: "PaperSources.LargeCapacity"
 linktitle: "LargeCapacity"
 articleTitle: "LargeCapacity"
-second_title: "Aspose.PDF for .NET"
-description: "Represent the large capacity bin of the printer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represent the large capacity bin of the printer."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.printing/papersources/largecapacity/"

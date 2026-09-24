@@ -2,8 +2,8 @@
 title: "RunResponse.Tools"
 linktitle: "Tools"
 articleTitle: "Tools"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the list of tools that the assistant used for this run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunResponse property. Gets or sets the list of tools that the assistant used for this run."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.ai/runresponse/tools/"

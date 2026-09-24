@@ -2,8 +2,8 @@
 title: "Artifact.ArtifactHorizontalAlignment"
 linktitle: "ArtifactHorizontalAlignment"
 articleTitle: "ArtifactHorizontalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Horizontal alignment of artifact. If position is specified explicitly (in Position property) this value is ignored."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Horizontal alignment of artifact. If position is specified explicitly (in Position property) this value is ignored."
 type: docs
 weight: 280
 url: "/net/aspose.pdf/artifact/artifacthorizontalalignment/"

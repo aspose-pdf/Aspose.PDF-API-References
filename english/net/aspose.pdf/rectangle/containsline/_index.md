@@ -2,8 +2,8 @@
 title: "Rectangle.ContainsLine"
 linktitle: "ContainsLine"
 articleTitle: "ContainsLine"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether the rectangle contains a line represented by two points."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Determines whether the rectangle contains a line represented by two points."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/rectangle/containsline/"

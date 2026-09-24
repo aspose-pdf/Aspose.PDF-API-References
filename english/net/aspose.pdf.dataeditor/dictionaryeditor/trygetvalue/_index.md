@@ -2,8 +2,8 @@
 title: "DictionaryEditor.TryGetValue"
 linktitle: "TryGetValue"
 articleTitle: "TryGetValue"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor method."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/trygetvalue/"

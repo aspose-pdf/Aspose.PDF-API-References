@@ -2,8 +2,8 @@
 title: "IWarningCallback.Warning"
 linktitle: "Warning"
 articleTitle: "Warning"
-second_title: "Aspose.PDF for .NET"
-description: "The callback method for some program notifications."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IWarningCallback method. The callback method for some program notifications."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/iwarningcallback/warning/"

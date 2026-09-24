@@ -2,8 +2,8 @@
 title: "HtmlLoadOptions Class"
 linktitle: "HtmlLoadOptions"
 articleTitle: "HtmlLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for loading/importing html file into pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlLoadOptions class. Represents options for loading/importing html file into pdf document."
 type: docs
 weight: 1160
 url: "/net/aspose.pdf/htmlloadoptions/"

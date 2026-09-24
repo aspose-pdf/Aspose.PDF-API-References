@@ -2,8 +2,8 @@
 title: "OptimizeOptions Class"
 linktitle: "OptimizeOptions"
 articleTitle: "OptimizeOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Optimize options for plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.OptimizeOptions class. Represents Optimize options for plugin."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.lowcode/optimizeoptions/"

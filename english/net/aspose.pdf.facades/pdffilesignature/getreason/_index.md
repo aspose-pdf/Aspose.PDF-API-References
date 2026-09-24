@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetReason"
 linktitle: "GetReason"
 articleTitle: "GetReason"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the reason of a signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the reason of a signature."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/pdffilesignature/getreason/"

@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns an IDictionaryEnumerator object for the dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method. Returns an IDictionaryEnumerator object for the dictionary."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/appearancedictionary/getenumerator/"

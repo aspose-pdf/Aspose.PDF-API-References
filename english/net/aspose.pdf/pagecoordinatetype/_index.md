@@ -2,8 +2,8 @@
 title: "PageCoordinateType Enum"
 linktitle: "PageCoordinateType"
 articleTitle: "PageCoordinateType"
-second_title: "Aspose.PDF for .NET"
-description: "Describes page coordinate type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageCoordinateType enum. Describes page coordinate type."
 type: docs
 weight: 2160
 url: "/net/aspose.pdf/pagecoordinatetype/"

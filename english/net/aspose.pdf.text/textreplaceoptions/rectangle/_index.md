@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the rectangle to fit the text after replacement."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextReplaceOptions property. Gets or sets the rectangle to fit the text after replacement."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textreplaceoptions/rectangle/"

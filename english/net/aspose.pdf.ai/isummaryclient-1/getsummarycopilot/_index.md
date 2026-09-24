@@ -2,8 +2,8 @@
 title: "ISummaryClient<TOptions>.GetSummaryCopilot"
 linktitle: "GetSummaryCopilot"
 articleTitle: "GetSummaryCopilot"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ISummaryClient method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/isummaryclient-1/getsummarycopilot/"

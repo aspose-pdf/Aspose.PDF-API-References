@@ -2,8 +2,8 @@
 title: "Rendition Class"
 linktitle: "Rendition"
 articleTitle: "Rendition"
-second_title: "Aspose.PDF for .NET"
-description: "Class which describes rendition object of RendtionAnnotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.Rendition class. Class which describes rendition object of RendtionAnnotation."
 type: docs
 weight: 1050
 url: "/net/aspose.pdf.annotations/rendition/"

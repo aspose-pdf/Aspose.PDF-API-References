@@ -2,8 +2,8 @@
 title: "PdfPageEditor.GetPageBoxSize"
 linktitle: "GetPageBoxSize"
 articleTitle: "GetPageBoxSize"
-second_title: "Aspose.PDF for .NET"
-description: "Returns size of specified box in document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Returns size of specified box in document."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpageboxsize/"

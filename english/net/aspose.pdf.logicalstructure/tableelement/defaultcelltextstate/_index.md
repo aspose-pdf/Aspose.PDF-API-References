@@ -2,8 +2,8 @@
 title: "TableElement.DefaultCellTextState"
 linktitle: "DefaultCellTextState"
 articleTitle: "DefaultCellTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the default cell text state."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets the default cell text state."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/tableelement/defaultcelltextstate/"

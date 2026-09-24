@@ -2,8 +2,8 @@
 title: "LinkAnnotation.Destination"
 linktitle: "Destination"
 articleTitle: "Destination"
-second_title: "Aspose.PDF for .NET"
-description: "A destination to be displayed when the annotation is activated."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LinkAnnotation property. A destination to be displayed when the annotation is activated."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/linkannotation/destination/"

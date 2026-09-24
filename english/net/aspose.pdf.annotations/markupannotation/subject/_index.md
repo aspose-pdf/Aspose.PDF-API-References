@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.Subject"
 linktitle: "Subject"
 articleTitle: "Subject"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text representing desciption of the object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation property. Gets text representing desciption of the object."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/markupannotation/subject/"

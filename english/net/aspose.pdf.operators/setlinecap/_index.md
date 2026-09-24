@@ -2,8 +2,8 @@
 title: "SetLineCap Class"
 linktitle: "SetLineCap"
 articleTitle: "SetLineCap"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing J operator (set line cap style)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetLineCap class. Class representing J operator (set line cap style)."
 type: docs
 weight: 670
 url: "/net/aspose.pdf.operators/setlinecap/"

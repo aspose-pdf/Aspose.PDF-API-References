@@ -2,8 +2,8 @@
 title: "TextFormattingOptions.LineSpacing"
 linktitle: "LineSpacing"
 articleTitle: "LineSpacing"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets line spacing mode. Default value is LineSpacingMode.FontSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFormattingOptions property. Gets or sets line spacing mode. Default value is LineSpacingMode.FontSize"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textformattingoptions/linespacing/"

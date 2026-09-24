@@ -2,8 +2,8 @@
 title: "AttributeKey.BorderThickness"
 linktitle: "BorderThickness"
 articleTitle: "BorderThickness"
-second_title: "Aspose.PDF for .NET"
-description: "BorderThickness attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. BorderThickness attribute (Layout attribute owner)."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/attributekey/borderthickness/"

@@ -2,8 +2,8 @@
 title: "PdfFileStamp.AddPageNumber"
 linktitle: "AddPageNumber"
 articleTitle: "AddPageNumber"
-second_title: "Aspose.PDF for .NET"
-description: "Add page number to file. Page number text may contain # sign which will be replaced with number of the page. Page number is placed in the bottom of the page ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Add page number to file. Page number text may contain # sign which will be replaced with number of the page. Page number is placed in th..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/pdffilestamp/addpagenumber/"

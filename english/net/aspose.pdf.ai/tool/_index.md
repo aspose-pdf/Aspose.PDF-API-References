@@ -2,8 +2,8 @@
 title: "Tool Class"
 linktitle: "Tool"
 articleTitle: "Tool"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a tool that can be called by the model."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Tool class. Represents a tool that can be called by the model."
 type: docs
 weight: 1280
 url: "/net/aspose.pdf.ai/tool/"

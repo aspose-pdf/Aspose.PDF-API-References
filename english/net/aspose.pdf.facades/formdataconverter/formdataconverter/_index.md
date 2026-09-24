@@ -2,8 +2,8 @@
 title: "FormDataConverter.FormDataConverter"
 linktitle: "FormDataConverter"
 articleTitle: "FormDataConverter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormDataConverter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter constructor. Initializes a new instance of the FormDataConverter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/formdataconverter/formdataconverter/"

@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor Class"
 linktitle: "PdfAnnotationEditor"
 articleTitle: "PdfAnnotationEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for work with PDF document annotations (comments)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfAnnotationEditor class. Represents a class for work with PDF document annotations (comments)."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdfannotationeditor/"

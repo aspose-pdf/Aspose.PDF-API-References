@@ -2,8 +2,8 @@
 title: "ColorBarAnnotation.ColorBarAnnotation"
 linktitle: "ColorBarAnnotation"
 articleTitle: "ColorBarAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ColorBarAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColorBarAnnotation constructor. Initializes a new instance of the ColorBarAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/colorbarannotation/colorbarannotation/"

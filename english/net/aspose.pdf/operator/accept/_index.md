@@ -2,8 +2,8 @@
 title: "Operator.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor IOperatorSelector which provides operators processing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Operator method. Accepts visitor IOperatorSelector which provides operators processing."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/operator/accept/"

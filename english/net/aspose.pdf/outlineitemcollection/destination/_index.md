@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Destination"
 linktitle: "Destination"
 articleTitle: "Destination"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the destination for this outline item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets or sets the destination for this outline item."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/outlineitemcollection/destination/"

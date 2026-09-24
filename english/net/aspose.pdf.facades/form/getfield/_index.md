@@ -2,8 +2,8 @@
 title: "Form.GetField"
 linktitle: "GetField"
 articleTitle: "GetField"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the field's value according to its field name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Gets the field's value according to its field name."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/form/getfield/"

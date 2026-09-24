@@ -2,8 +2,8 @@
 title: "Document.Form"
 linktitle: "Form"
 articleTitle: "Form"
-second_title: "Aspose.PDF for .NET"
-description: "Gets Acro Form of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets Acro Form of the document."
 type: docs
 weight: 1350
 url: "/net/aspose.pdf/document/form/"

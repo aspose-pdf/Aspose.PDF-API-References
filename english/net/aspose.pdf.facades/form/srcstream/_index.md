@@ -2,8 +2,8 @@
 title: "Form.SrcStream"
 linktitle: "SrcStream"
 articleTitle: "SrcStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets source stream. Form form = new Aspose.Pdf.Facades.Form(); form.SrcStream = new FileStream(\"source.pdf\", FileMode.Open, FileAccess.Read);"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets or sets source stream. Form form = new Aspose.Pdf.Facades.Form(); form.SrcStream = new FileStream(\"source.pdf\", FileMode.Open, FileAccess..."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.facades/form/srcstream/"

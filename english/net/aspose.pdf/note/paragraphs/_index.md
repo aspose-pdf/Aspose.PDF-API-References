@@ -2,8 +2,8 @@
 title: "Note.Paragraphs"
 linktitle: "Paragraphs"
 articleTitle: "Paragraphs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a collection that indicates all paragraphs in the FootNote."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Note property. Gets or sets a collection that indicates all paragraphs in the FootNote."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/note/paragraphs/"

@@ -2,8 +2,8 @@
 title: "PdfPageEditor.MovePosition"
 linktitle: "MovePosition"
 articleTitle: "MovePosition"
-second_title: "Aspose.PDF for .NET"
-description: "Moves the origin from (0, 0) to the point that appointted. The origin is left-bottom and the unit is point(1 inch = 72 points)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Moves the origin from (0, 0) to the point that appointted. The origin is left-bottom and the unit is point(1 inch = 72 points)."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfpageeditor/moveposition/"

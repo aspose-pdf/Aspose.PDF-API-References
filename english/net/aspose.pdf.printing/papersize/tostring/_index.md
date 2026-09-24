@@ -2,8 +2,8 @@
 title: "PaperSize.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Provides some interesting information about the PaperSize in String form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSize method. Provides some interesting information about the PaperSize in String form."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/papersize/tostring/"

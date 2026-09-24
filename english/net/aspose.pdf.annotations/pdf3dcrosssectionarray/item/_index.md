@@ -2,8 +2,8 @@
 title: "PDF3DCrossSectionArray.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSectionArray property."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/"

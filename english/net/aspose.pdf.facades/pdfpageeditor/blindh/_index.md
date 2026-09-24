@@ -2,8 +2,8 @@
 title: "PdfPageEditor.BLINDH"
 linktitle: "BLINDH"
 articleTitle: "BLINDH"
-second_title: "Aspose.PDF for .NET"
-description: "Vertical Blinds"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Vertical Blinds"
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdfpageeditor/blindh/"

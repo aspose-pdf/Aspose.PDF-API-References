@@ -2,8 +2,8 @@
 title: "Stamp.addExtGState"
 linktitle: "addExtGState"
 articleTitle: "addExtGState"
-second_title: "Aspose.PDF for .NET"
-description: "Add G state on the page for stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Add G state on the page for stamp."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/stamp/addextgstate/"

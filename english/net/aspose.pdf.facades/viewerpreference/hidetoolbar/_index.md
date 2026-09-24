@@ -2,8 +2,8 @@
 title: "ViewerPreference.HideToolbar"
 linktitle: "HideToolbar"
 articleTitle: "HideToolbar"
-second_title: "Aspose.PDF for .NET"
-description: "A flag specifying whether to hide the conforming reader's tool bars when the document is active."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. A flag specifying whether to hide the conforming reader's tool bars when the document is active."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/viewerpreference/hidetoolbar/"

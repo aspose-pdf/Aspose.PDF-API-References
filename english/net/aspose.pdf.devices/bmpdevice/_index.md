@@ -2,8 +2,8 @@
 title: "BmpDevice Class"
 linktitle: "BmpDevice"
 articleTitle: "BmpDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents image device that helps to save pdf document pages into bmp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.BmpDevice class. Represents image device that helps to save pdf document pages into bmp."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.devices/bmpdevice/"

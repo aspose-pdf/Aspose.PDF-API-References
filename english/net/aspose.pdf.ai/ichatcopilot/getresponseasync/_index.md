@@ -2,8 +2,8 @@
 title: "IChatCopilot.GetResponseAsync"
 linktitle: "GetResponseAsync"
 articleTitle: "GetResponseAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously gets a response for the given message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IChatCopilot method. Asynchronously gets a response for the given message."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/ichatcopilot/getresponseasync/"

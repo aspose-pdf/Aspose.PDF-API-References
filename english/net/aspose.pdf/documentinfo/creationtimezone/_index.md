@@ -2,8 +2,8 @@
 title: "DocumentInfo.CreationTimeZone"
 linktitle: "CreationTimeZone"
 articleTitle: "CreationTimeZone"
-second_title: "Aspose.PDF for .NET"
-description: "Time zone of creation date."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo property. Time zone of creation date."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/documentinfo/creationtimezone/"

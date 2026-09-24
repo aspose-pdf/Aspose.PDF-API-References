@@ -2,8 +2,8 @@
 title: "RunStepResponse.Status"
 linktitle: "Status"
 articleTitle: "Status"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the status of the run step, which can be either in_progress, cancelled, failed, completed, or expired."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepResponse property. Gets or sets the status of the run step, which can be either in_progress, cancelled, failed, completed, or expired."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/runstepresponse/status/"

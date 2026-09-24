@@ -2,8 +2,8 @@
 title: "LlamaCopilotOptionsBase.Model"
 linktitle: "Model"
 articleTitle: "Model"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the model to use for the assistant."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaCopilotOptionsBase property. Gets or sets the model to use for the assistant."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/model/"

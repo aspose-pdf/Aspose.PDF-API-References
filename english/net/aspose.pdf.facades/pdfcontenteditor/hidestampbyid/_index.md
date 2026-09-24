@@ -2,8 +2,8 @@
 title: "PdfContentEditor.HideStampById"
 linktitle: "HideStampById"
 articleTitle: "HideStampById"
-second_title: "Aspose.PDF for .NET"
-description: "Hides the stamp. After hiding, stamp visibility may be restored with ShowStampById method."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Hides the stamp. After hiding, stamp visibility may be restored with ShowStampById method."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/"

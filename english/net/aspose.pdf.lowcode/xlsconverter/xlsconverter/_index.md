@@ -2,8 +2,8 @@
 title: "XlsConverter.XlsConverter"
 linktitle: "XlsConverter"
 articleTitle: "XlsConverter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the XlsConverter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XlsConverter constructor. Initializes a new instance of the XlsConverter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/xlsconverter/xlsconverter/"

@@ -2,8 +2,8 @@
 title: "PdfFileSecurity.TrySetPrivilege"
 linktitle: "TrySetPrivilege"
 articleTitle: "TrySetPrivilege"
-second_title: "Aspose.PDF for .NET"
-description: "Sets Pdf file security with original password. Does not throw an exception if process failed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Sets Pdf file security with original password. Does not throw an exception if process failed."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/"

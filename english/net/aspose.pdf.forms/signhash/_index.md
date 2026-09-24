@@ -2,8 +2,8 @@
 title: "SignHash Delegate"
 linktitle: "SignHash"
 articleTitle: "SignHash"
-second_title: "Aspose.PDF for .NET"
-description: "Delegate for custom sign the document hash."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.SignHash delegate. Delegate for custom sign the document hash."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.forms/signhash/"

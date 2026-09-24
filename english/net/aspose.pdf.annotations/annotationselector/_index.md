@@ -2,8 +2,8 @@
 title: "AnnotationSelector Class"
 linktitle: "AnnotationSelector"
 articleTitle: "AnnotationSelector"
-second_title: "Aspose.PDF for .NET"
-description: "This class is used for selecting annotations using Visitor template idea."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.AnnotationSelector class. This class is used for selecting annotations using Visitor template idea."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/annotationselector/"

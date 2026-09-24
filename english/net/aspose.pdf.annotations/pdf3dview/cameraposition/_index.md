@@ -2,8 +2,8 @@
 title: "PDF3DView.CameraPosition"
 linktitle: "CameraPosition"
 articleTitle: "CameraPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the camera position of view."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DView property. Gets or sets the camera position of view."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/pdf3dview/cameraposition/"

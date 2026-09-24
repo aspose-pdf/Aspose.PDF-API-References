@@ -2,8 +2,8 @@
 title: "PageNumberStamp.PageNumberStamp"
 linktitle: "PageNumberStamp"
 articleTitle: "PageNumberStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PageNumberStamp class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageNumberStamp constructor. Initializes a new instance of the PageNumberStamp class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagenumberstamp/pagenumberstamp/"

@@ -2,8 +2,8 @@
 title: "Artifact.Type"
 linktitle: "Type"
 articleTitle: "Type"
-second_title: "Aspose.PDF for .NET"
-description: "Gets artifact type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets artifact type."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/artifact/type/"

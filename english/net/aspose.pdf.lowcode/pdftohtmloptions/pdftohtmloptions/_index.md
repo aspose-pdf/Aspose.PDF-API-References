@@ -2,8 +2,8 @@
 title: "PdfToHtmlOptions.PdfToHtmlOptions"
 linktitle: "PdfToHtmlOptions"
 articleTitle: "PdfToHtmlOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfToHtmlOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToHtmlOptions constructor. Initializes a new instance of the PdfToHtmlOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdftohtmloptions/pdftohtmloptions/"

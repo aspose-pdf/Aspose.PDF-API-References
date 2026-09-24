@@ -2,8 +2,8 @@
 title: "BaseOperatorCollection.CancelUpdate"
 linktitle: "CancelUpdate"
 articleTitle: "CancelUpdate"
-second_title: "Aspose.PDF for .NET"
-description: "Cancels last update. This method may be called when the change should not raise contents update."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection method. Cancels last update. This method may be called when the change should not raise contents update."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/baseoperatorcollection/cancelupdate/"

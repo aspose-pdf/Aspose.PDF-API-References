@@ -2,8 +2,8 @@
 title: "GradientAxialShading Class"
 linktitle: "GradientAxialShading"
 articleTitle: "GradientAxialShading"
-second_title: "Aspose.PDF for .NET"
-description: "Represents gradient axial shading class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.GradientAxialShading class. Represents gradient axial shading class."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.drawing/gradientaxialshading/"

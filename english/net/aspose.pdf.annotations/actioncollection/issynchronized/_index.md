@@ -2,8 +2,8 @@
 title: "ActionCollection.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if object is synchronized."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection property. Returns true if object is synchronized."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/actioncollection/issynchronized/"

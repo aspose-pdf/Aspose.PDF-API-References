@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilotOptions.WithInstructions"
 linktitle: "WithInstructions"
 articleTitle: "WithInstructions"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the instructions for the chat copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Sets the instructions for the chat copilot options."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/"

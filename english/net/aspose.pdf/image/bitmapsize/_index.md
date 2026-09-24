@@ -2,8 +2,8 @@
 title: "Image.BitmapSize"
 linktitle: "BitmapSize"
 articleTitle: "BitmapSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the image bitmap size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets the image bitmap size."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/image/bitmapsize/"

@@ -2,8 +2,8 @@
 title: "ITaggedContent.RootElement"
 linktitle: "RootElement"
 articleTitle: "RootElement"
-second_title: "Aspose.PDF for .NET"
-description: "Gets root of logical structure of PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent property. Gets root of logical structure of PDF document."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.tagged/itaggedcontent/rootelement/"

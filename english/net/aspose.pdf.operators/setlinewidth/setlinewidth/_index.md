@@ -2,8 +2,8 @@
 title: "SetLineWidth.SetLineWidth"
 linktitle: "SetLineWidth"
 articleTitle: "SetLineWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetLineWidth class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetLineWidth constructor. Initializes a new instance of the SetLineWidth class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setlinewidth/setlinewidth/"

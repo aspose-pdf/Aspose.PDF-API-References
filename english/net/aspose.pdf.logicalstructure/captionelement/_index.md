@@ -2,8 +2,8 @@
 title: "CaptionElement Class"
 linktitle: "CaptionElement"
 articleTitle: "CaptionElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Caption structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.CaptionElement class. Represents Caption structure element in logical structure."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/captionelement/"

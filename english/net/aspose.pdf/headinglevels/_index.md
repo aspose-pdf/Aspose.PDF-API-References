@@ -2,8 +2,8 @@
 title: "HeadingLevels Class"
 linktitle: "HeadingLevels"
 articleTitle: "HeadingLevels"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to work with header levels based on font size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HeadingLevels class. Represents a class to work with header levels based on font size."
 type: docs
 weight: 1100
 url: "/net/aspose.pdf/headinglevels/"

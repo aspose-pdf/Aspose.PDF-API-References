@@ -2,8 +2,8 @@
 title: "TextEditOptions Class"
 linktitle: "TextEditOptions"
 articleTitle: "TextEditOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Descubes options of text edit operations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextEditOptions class. Descubes options of text edit operations."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.text/texteditoptions/"

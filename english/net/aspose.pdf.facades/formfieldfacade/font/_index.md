@@ -2,8 +2,8 @@
 title: "FormFieldFacade.Font"
 linktitle: "Font"
 articleTitle: "Font"
-second_title: "Aspose.PDF for .NET"
-description: "The font type of a field text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The font type of a field text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/formfieldfacade/font/"

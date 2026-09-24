@@ -2,8 +2,8 @@
 title: "PdfFileEditor.OwnerPassword"
 linktitle: "OwnerPassword"
 articleTitle: "OwnerPassword"
-second_title: "Aspose.PDF for .NET"
-description: "Sets owner's password if the source input Pdf file is encrypted. This property is not implemented yet."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Sets owner's password if the source input Pdf file is encrypted. This property is not implemented yet."
 type: docs
 weight: 1120
 url: "/net/aspose.pdf.facades/pdffileeditor/ownerpassword/"

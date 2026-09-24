@@ -2,8 +2,8 @@
 title: "OutputIntent Class"
 linktitle: "OutputIntent"
 articleTitle: "OutputIntent"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an output intent that matches the color characteristics of a PDF document with those of a target output device or production environment in which ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.OutputIntent class. Represents an output intent that matches the color characteristics of a PDF document with those of a target output device or p..."
 type: docs
 weight: 2090
 url: "/net/aspose.pdf/outputintent/"

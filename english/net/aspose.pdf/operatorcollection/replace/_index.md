@@ -2,8 +2,8 @@
 title: "OperatorCollection.Replace"
 linktitle: "Replace"
 articleTitle: "Replace"
-second_title: "Aspose.PDF for .NET"
-description: "Replace operators in collection with other operators."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method. Replace operators in collection with other operators."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/operatorcollection/replace/"

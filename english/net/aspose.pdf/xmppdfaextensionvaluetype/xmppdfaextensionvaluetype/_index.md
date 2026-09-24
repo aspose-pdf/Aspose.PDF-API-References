@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionValueType.XmpPdfAExtensionValueType"
 linktitle: "XmpPdfAExtensionValueType"
 articleTitle: "XmpPdfAExtensionValueType"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the XmpPdfAExtensionValueType class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionValueType constructor. Initializes a new instance of the XmpPdfAExtensionValueType class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/"

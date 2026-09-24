@@ -2,8 +2,8 @@
 title: "CollectionItem.TryGetDateTimeValue"
 linktitle: "TryGetDateTimeValue"
 articleTitle: "TryGetDateTimeValue"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionItem method."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/collectionitem/trygetdatetimevalue/"

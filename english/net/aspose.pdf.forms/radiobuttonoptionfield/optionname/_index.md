@@ -2,8 +2,8 @@
 title: "RadioButtonOptionField.OptionName"
 linktitle: "OptionName"
 articleTitle: "OptionName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets name of the option."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonOptionField property. Gets or sets name of the option."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/radiobuttonoptionfield/optionname/"

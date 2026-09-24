@@ -2,8 +2,8 @@
 title: "OrganizerBaseOptions.Inputs"
 linktitle: "Inputs"
 articleTitle: "Inputs"
-second_title: "Aspose.PDF for .NET"
-description: "Returns OrganizerOptions plugin data collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OrganizerBaseOptions property. Returns OrganizerOptions plugin data collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/organizerbaseoptions/inputs/"

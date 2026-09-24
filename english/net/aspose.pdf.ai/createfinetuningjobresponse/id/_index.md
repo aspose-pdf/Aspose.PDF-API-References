@@ -2,8 +2,8 @@
 title: "CreateFineTuningJobResponse.Id"
 linktitle: "Id"
 articleTitle: "Id"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a unique identifier for the fine-tuning job."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets a unique identifier for the fine-tuning job."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/id/"

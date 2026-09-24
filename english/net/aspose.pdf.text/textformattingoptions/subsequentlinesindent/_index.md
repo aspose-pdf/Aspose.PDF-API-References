@@ -2,8 +2,8 @@
 title: "TextFormattingOptions.SubsequentLinesIndent"
 linktitle: "SubsequentLinesIndent"
 articleTitle: "SubsequentLinesIndent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets subsequent lines indent value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFormattingOptions property. Gets or sets subsequent lines indent value."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textformattingoptions/subsequentlinesindent/"

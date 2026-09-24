@@ -2,8 +2,8 @@
 title: "OutputIntent.OutputCondition"
 linktitle: "OutputCondition"
 articleTitle: "OutputCondition"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a text that concisely identifies the intended output device or production condition in human-readable form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntent property. Gets or sets a text that concisely identifies the intended output device or production condition in human-readable form."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/outputintent/outputcondition/"

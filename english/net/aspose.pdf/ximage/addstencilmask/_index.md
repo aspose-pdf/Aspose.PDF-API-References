@@ -2,8 +2,8 @@
 title: "XImage.AddStencilMask"
 linktitle: "AddStencilMask"
 articleTitle: "AddStencilMask"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a stencil mask to the XImage."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Adds a stencil mask to the XImage."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/ximage/addstencilmask/"

@@ -2,8 +2,8 @@
 title: "IOpenAIClient Interface"
 linktitle: "IOpenAIClient"
 articleTitle: "IOpenAIClient"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a client interface for interacting with the OpenAI API, extending basic AI client functionalities."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IOpenAIClient interface. Represents a client interface for interacting with the OpenAI API, extending basic AI client functionalities."
 type: docs
 weight: 590
 url: "/net/aspose.pdf.ai/iopenaiclient/"

@@ -2,8 +2,8 @@
 title: "Document.CallBackGetHocr Delegate"
 linktitle: "Document.CallBackGetHocr"
 articleTitle: "Document.CallBackGetHocr"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Document.CallBackGetHocr delegate."
 type: docs
 weight: 620
 url: "/net/aspose.pdf/document.callbackgethocr/"

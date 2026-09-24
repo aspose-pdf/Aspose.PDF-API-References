@@ -2,8 +2,8 @@
 title: "Shape.GraphInfo"
 linktitle: "GraphInfo"
 articleTitle: "GraphInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a object that indicates the graph info,such as color, line width,etc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Shape property. Gets or sets a object that indicates the graph info,such as color, line width,etc."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/shape/graphinfo/"

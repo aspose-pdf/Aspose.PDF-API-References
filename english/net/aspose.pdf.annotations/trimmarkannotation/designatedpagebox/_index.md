@@ -2,8 +2,8 @@
 title: "TrimMarkAnnotation.DesignatedPageBox"
 linktitle: "DesignatedPageBox"
 articleTitle: "DesignatedPageBox"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TrimMarkAnnotation property."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/trimmarkannotation/designatedpagebox/"

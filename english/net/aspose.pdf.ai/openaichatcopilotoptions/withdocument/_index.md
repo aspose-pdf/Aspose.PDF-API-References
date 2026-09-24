@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilotOptions.WithDocument"
 linktitle: "WithDocument"
 articleTitle: "WithDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a text document to the document collection for the chat copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Adds a text document to the document collection for the chat copilot options."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/"

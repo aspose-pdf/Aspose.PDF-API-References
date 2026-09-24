@@ -2,8 +2,8 @@
 title: "InvalidValueFormatException Class"
 linktitle: "InvalidValueFormatException"
 articleTitle: "InvalidValueFormatException"
-second_title: "Aspose.PDF for .NET"
-description: "Exception which thrown when requested value has incorrect format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.InvalidValueFormatException class. Exception which thrown when requested value has incorrect format."
 type: docs
 weight: 1660
 url: "/net/aspose.pdf/invalidvalueformatexception/"

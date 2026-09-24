@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.Read"
 linktitle: "Read"
 articleTitle: "Read"
-second_title: "Aspose.PDF for .NET"
-description: "When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stre..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/optimizedmemorystream/read/"

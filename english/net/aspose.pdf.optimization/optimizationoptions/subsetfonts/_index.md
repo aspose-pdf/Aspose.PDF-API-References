@@ -2,8 +2,8 @@
 title: "OptimizationOptions.SubsetFonts"
 linktitle: "SubsetFonts"
 articleTitle: "SubsetFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Fonts will be converted into subsets if set to true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizationOptions property. Fonts will be converted into subsets if set to true."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.optimization/optimizationoptions/subsetfonts/"

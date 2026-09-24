@@ -2,8 +2,8 @@
 title: "SetLineCap.SetLineCap"
 linktitle: "SetLineCap"
 articleTitle: "SetLineCap"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetLineCap class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetLineCap constructor. Initializes a new instance of the SetLineCap class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setlinecap/setlinecap/"

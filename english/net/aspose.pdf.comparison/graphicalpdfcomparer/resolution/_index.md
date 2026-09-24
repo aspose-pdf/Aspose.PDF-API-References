@@ -2,8 +2,8 @@
 title: "GraphicalPdfComparer.Resolution"
 linktitle: "Resolution"
 articleTitle: "Resolution"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the resolution of the resulting images. The default value is 150dpi."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer property. Gets and sets the resolution of the resulting images. The default value is 150dpi."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/"

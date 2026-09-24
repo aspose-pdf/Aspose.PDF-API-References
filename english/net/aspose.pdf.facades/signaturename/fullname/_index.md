@@ -2,8 +2,8 @@
 title: "SignatureName.FullName"
 linktitle: "FullName"
 articleTitle: "FullName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the full name of the signature, providing a unique and precise identifier for the signature field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureName field. Gets the full name of the signature, providing a unique and precise identifier for the signature field."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/signaturename/fullname/"

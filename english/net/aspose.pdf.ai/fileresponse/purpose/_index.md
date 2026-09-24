@@ -2,8 +2,8 @@
 title: "FileResponse.Purpose"
 linktitle: "Purpose"
 articleTitle: "Purpose"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the intended purpose of the file. Supported values are assistants, assistants_output, batch, batch_output, fine-tune, fine-tune-results and vision."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResponse property. Gets or sets the intended purpose of the file. Supported values are assistants, assistants_output, batch, batch_output, fine-tune, fin..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/fileresponse/purpose/"

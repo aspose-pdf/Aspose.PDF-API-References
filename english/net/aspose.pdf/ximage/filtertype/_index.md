@@ -2,8 +2,8 @@
 title: "XImage.FilterType"
 linktitle: "FilterType"
 articleTitle: "FilterType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets image filter type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage property. Gets image filter type."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/ximage/filtertype/"

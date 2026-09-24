@@ -2,8 +2,8 @@
 title: "PsLoadOptions Class"
 linktitle: "PsLoadOptions"
 articleTitle: "PsLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for loading/importing of .mht-file into pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PsLoadOptions class. Represents options for loading/importing of .mht-file into pdf document."
 type: docs
 weight: 2620
 url: "/net/aspose.pdf/psloadoptions/"

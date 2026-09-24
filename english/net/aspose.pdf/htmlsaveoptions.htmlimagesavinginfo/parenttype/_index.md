@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlImageSavingInfo.ParentType"
 linktitle: "ParentType"
 articleTitle: "ParentType"
-second_title: "Aspose.PDF for .NET"
-description: "Saved image can pertain to HTML itself or can be extracted. from SVG embedded to HTML. This property can tell to custom code what's that type of parent of pr..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlImageSavingInfo field. Saved image can pertain to HTML itself or can be extracted. from SVG embedded to HTML. This property can tell to custom code what'..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype/"

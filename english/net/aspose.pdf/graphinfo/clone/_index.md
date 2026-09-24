@@ -2,8 +2,8 @@
 title: "GraphInfo.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clone the graphics info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphInfo method. Clone the graphics info."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/graphinfo/clone/"

@@ -2,8 +2,8 @@
 title: "TextState.IsFontSet"
 linktitle: "IsFontSet"
 articleTitle: "IsFontSet"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState property."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.text/textstate/isfontset/"

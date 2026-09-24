@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions.MarkdownSaveOptions"
 linktitle: "MarkdownSaveOptions"
 articleTitle: "MarkdownSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MarkdownSaveOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkdownSaveOptions constructor. Initializes a new instance of the MarkdownSaveOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/markdownsaveoptions/markdownsaveoptions/"

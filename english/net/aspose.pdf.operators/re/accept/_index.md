@@ -2,8 +2,8 @@
 title: "Re.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor object to process operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Re method. Accepts visitor object to process operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/re/accept/"

@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.AntialiasingProcessing"
 linktitle: "AntialiasingProcessing"
 articleTitle: "AntialiasingProcessing"
-second_title: "Aspose.PDF for .NET"
-description: "This parameter defines required antialiasing measures during conversion of compound background images from PDF to HTML"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. This parameter defines required antialiasing measures during conversion of compound background images from PDF to HTML"
 type: docs
 weight: 290
 url: "/net/aspose.pdf/htmlsaveoptions/antialiasingprocessing/"

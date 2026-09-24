@@ -2,8 +2,8 @@
 title: "AFRelationship Enum"
 linktitle: "AFRelationship"
 articleTitle: "AFRelationship"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration describes associated files relationship."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AFRelationship enum. Enumeration describes associated files relationship."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/afrelationship/"

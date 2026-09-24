@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Reference"
 linktitle: "Reference"
 articleTitle: "Reference"
-second_title: "Aspose.PDF for .NET"
-description: "(Reference) A citation to content elsewhere in the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Reference) A citation to content elsewhere in the document."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/reference/"

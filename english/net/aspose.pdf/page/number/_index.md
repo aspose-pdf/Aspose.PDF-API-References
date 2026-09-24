@@ -2,8 +2,8 @@
 title: "Page.Number"
 linktitle: "Number"
 articleTitle: "Number"
-second_title: "Aspose.PDF for .NET"
-description: "Get number of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Get number of the page."
 type: docs
 weight: 580
 url: "/net/aspose.pdf/page/number/"

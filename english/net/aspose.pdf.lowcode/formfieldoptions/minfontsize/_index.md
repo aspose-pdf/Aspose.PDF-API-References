@@ -2,8 +2,8 @@
 title: "FormFieldOptions.MinFontSize"
 linktitle: "MinFontSize"
 articleTitle: "MinFontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the value to determine property MinFontSize for created/modified field (if will be set)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldOptions property. Gets/sets the value to determine property MinFontSize for created/modified field (if will be set)."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.lowcode/formfieldoptions/minfontsize/"

@@ -2,8 +2,8 @@
 title: "Page.AsByteArray"
 linktitle: "AsByteArray"
 articleTitle: "AsByteArray"
-second_title: "Aspose.PDF for .NET"
-description: "Converts current page as bitmap and than returns array of bytes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Converts current page as bitmap and than returns array of bytes."
 type: docs
 weight: 320
 url: "/net/aspose.pdf/page/asbytearray/"

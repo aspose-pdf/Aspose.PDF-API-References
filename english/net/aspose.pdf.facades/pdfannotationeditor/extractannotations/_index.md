@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.ExtractAnnotations"
 linktitle: "ExtractAnnotations"
 articleTitle: "ExtractAnnotations"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the list of annotations of the specified types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Gets the list of annotations of the specified types."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/"

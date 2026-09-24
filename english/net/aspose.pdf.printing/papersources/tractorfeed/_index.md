@@ -2,8 +2,8 @@
 title: "PaperSources.TractorFeed"
 linktitle: "TractorFeed"
 articleTitle: "TractorFeed"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a tractor feed continuous paper source."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents a tractor feed continuous paper source."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.printing/papersources/tractorfeed/"

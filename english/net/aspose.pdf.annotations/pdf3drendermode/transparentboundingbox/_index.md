@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.TransparentBoundingBox"
 linktitle: "TransparentBoundingBox"
 articleTitle: "TransparentBoundingBox"
-second_title: "Aspose.PDF for .NET"
-description: "The \"TransparentBoundingBox\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"TransparentBoundingBox\" render mode."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/"

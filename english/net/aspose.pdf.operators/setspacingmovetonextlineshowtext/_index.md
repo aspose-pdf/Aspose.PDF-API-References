@@ -2,8 +2,8 @@
 title: "SetSpacingMoveToNextLineShowText Class"
 linktitle: "SetSpacingMoveToNextLineShowText"
 articleTitle: "SetSpacingMoveToNextLineShowText"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing \" operator (set word and character spacing, move to the next line and show text)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetSpacingMoveToNextLineShowText class. Class representing \" operator (set word and character spacing, move to the next line and show te..."
 type: docs
 weight: 730
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/"

@@ -2,8 +2,8 @@
 title: "XFormCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies XFormCollection into collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection method. Copies XFormCollection into collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xformcollection/copyto/"

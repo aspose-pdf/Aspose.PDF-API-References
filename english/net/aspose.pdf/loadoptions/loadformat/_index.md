@@ -2,8 +2,8 @@
 title: "LoadOptions.LoadFormat"
 linktitle: "LoadFormat"
 articleTitle: "LoadFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Represents file format which describes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LoadOptions property. Represents file format which describes."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/loadoptions/loadformat/"

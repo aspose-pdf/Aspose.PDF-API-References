@@ -2,8 +2,8 @@
 title: "CosPdfBoolean Class"
 linktitle: "CosPdfBoolean"
 articleTitle: "CosPdfBoolean"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents boolean type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DataEditor.CosPdfBoolean class. This class represents boolean type."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/"

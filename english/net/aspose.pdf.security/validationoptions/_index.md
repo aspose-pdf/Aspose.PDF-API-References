@@ -2,8 +2,8 @@
 title: "ValidationOptions Class"
 linktitle: "ValidationOptions"
 articleTitle: "ValidationOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for validating a digital signature in a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.ValidationOptions class. Represents options for validating a digital signature in a PDF document."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.security/validationoptions/"

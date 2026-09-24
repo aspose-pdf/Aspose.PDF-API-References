@@ -2,8 +2,8 @@
 title: "MarginInfo.Clone"
 linktitle: "Clone"
 articleTitle: "Clone"
-second_title: "Aspose.PDF for .NET"
-description: "Clones a new object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginInfo method. Clones a new object."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/margininfo/clone/"

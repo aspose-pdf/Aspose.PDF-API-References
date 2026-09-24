@@ -2,8 +2,8 @@
 title: "GraphicsAbsorber.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Releases all resources used by the class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicsAbsorber method. Releases all resources used by the class."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.vector/graphicsabsorber/dispose/"

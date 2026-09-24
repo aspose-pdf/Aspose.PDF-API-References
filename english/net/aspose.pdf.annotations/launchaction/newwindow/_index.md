@@ -2,8 +2,8 @@
 title: "LaunchAction.NewWindow"
 linktitle: "NewWindow"
 articleTitle: "NewWindow"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LaunchAction property. Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only)."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/launchaction/newwindow/"

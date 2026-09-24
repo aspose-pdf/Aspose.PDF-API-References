@@ -2,8 +2,8 @@
 title: "ConvertSoftMaskAction Enum"
 linktitle: "ConvertSoftMaskAction"
 articleTitle: "ConvertSoftMaskAction"
-second_title: "Aspose.PDF for .NET"
-description: "This action represents actions for conversion of images with soft mask."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ConvertSoftMaskAction enum. This action represents actions for conversion of images with soft mask."
 type: docs
 weight: 470
 url: "/net/aspose.pdf/convertsoftmaskaction/"

@@ -2,8 +2,8 @@
 title: "Page.Paragraphs"
 linktitle: "Paragraphs"
 articleTitle: "Paragraphs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the paragraphs."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets the paragraphs."
 type: docs
 weight: 410
 url: "/net/aspose.pdf/page/paragraphs/"

@@ -2,8 +2,8 @@
 title: "PDF3DCuttingPlaneOrientation.AngleZ"
 linktitle: "AngleZ"
 articleTitle: "AngleZ"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the angle to Z axis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCuttingPlaneOrientation property. Gets or sets the angle to Z axis."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/"

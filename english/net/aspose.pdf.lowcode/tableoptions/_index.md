@@ -2,8 +2,8 @@
 title: "TableOptions Class"
 linktitle: "TableOptions"
 articleTitle: "TableOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for add table to document by plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TableOptions class. Represents options for add table to document by plugin."
 type: docs
 weight: 950
 url: "/net/aspose.pdf.lowcode/tableoptions/"

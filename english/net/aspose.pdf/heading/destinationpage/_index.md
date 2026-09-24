@@ -2,8 +2,8 @@
 title: "Heading.DestinationPage"
 linktitle: "DestinationPage"
 articleTitle: "DestinationPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the destination page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the destination page."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/heading/destinationpage/"

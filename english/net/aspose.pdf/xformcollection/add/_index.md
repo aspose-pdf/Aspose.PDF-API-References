@@ -2,8 +2,8 @@
 title: "XFormCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new XForm into collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection method. Adds new XForm into collection."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xformcollection/add/"

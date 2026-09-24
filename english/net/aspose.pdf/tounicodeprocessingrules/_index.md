@@ -2,8 +2,8 @@
 title: "ToUnicodeProcessingRules Class"
 linktitle: "ToUnicodeProcessingRules"
 articleTitle: "ToUnicodeProcessingRules"
-second_title: "Aspose.PDF for .NET"
-description: "This class describes rules which can be used to solve Adobe Preflight error \"Text cannot be mapped to Unicode\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ToUnicodeProcessingRules class. This class describes rules which can be used to solve Adobe Preflight error \"Text cannot be mapped to Unicode\"."
 type: docs
 weight: 3060
 url: "/net/aspose.pdf/tounicodeprocessingrules/"

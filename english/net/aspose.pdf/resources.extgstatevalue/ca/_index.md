@@ -2,8 +2,8 @@
 title: "Resources.ExtGStateValue.ca"
 linktitle: "ca"
 articleTitle: "ca"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExtGStateValue property."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/resources.extgstatevalue/ca/"

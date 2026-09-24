@@ -2,8 +2,8 @@
 title: "EncryptionOptions Class"
 linktitle: "EncryptionOptions"
 articleTitle: "EncryptionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Encryption Options for plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.EncryptionOptions class. Represents Encryption Options for plugin."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/encryptionoptions/"

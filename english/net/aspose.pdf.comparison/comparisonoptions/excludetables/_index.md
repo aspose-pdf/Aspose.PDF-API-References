@@ -2,8 +2,8 @@
 title: "ComparisonOptions.ExcludeTables"
 linktitle: "ExcludeTables"
 articleTitle: "ExcludeTables"
-second_title: "Aspose.PDF for .NET"
-description: "Get and set the option that determines whether tables are excluded from comparison. This option cannot be set together with option. The default value is `fal..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComparisonOptions property. Get and set the option that determines whether tables are excluded from comparison. This option cannot be set together with optio..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/comparisonoptions/excludetables/"

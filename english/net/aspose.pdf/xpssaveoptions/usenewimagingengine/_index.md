@@ -2,8 +2,8 @@
 title: "XpsSaveOptions.UseNewImagingEngine"
 linktitle: "UseNewImagingEngine"
 articleTitle: "UseNewImagingEngine"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets UseNewImagingEngine option."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XpsSaveOptions property. Gets or sets UseNewImagingEngine option."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/xpssaveoptions/usenewimagingengine/"

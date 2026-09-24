@@ -2,8 +2,8 @@
 title: "OpenAIClient.ModifyThreadAsync"
 linktitle: "ModifyThreadAsync"
 articleTitle: "ModifyThreadAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Modifies an existing thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Modifies an existing thread asynchronously."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.ai/openaiclient/modifythreadasync/"

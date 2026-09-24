@@ -2,8 +2,8 @@
 title: "Embedding.Object"
 linktitle: "Object"
 articleTitle: "Object"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the object type, which is always \"embedding\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Embedding property. Gets or sets the object type, which is always \"embedding\"."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/embedding/object/"

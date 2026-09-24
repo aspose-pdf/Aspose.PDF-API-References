@@ -2,7 +2,7 @@
 title: "Aspose.Pdf.Multithreading"
 linktitle: "Aspose.Pdf.Multithreading"
 articleTitle: "Aspose.Pdf.Multithreading"
-second_title: "Aspose.PDF for .NET"
+second_title: "Aspose.PDF for .NET API Reference"
 description: "The **Aspose.Pdf.Multithreading** namespace provides classes."
 type: docs
 weight: 10

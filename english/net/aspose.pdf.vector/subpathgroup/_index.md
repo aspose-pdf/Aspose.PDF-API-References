@@ -2,8 +2,8 @@
 title: "SubPathGroup Class"
 linktitle: "SubPathGroup"
 articleTitle: "SubPathGroup"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for a group of graphic element containers. Class objects have a bounding box to account for group size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Vector.SubPathGroup class. Represents a class for a group of graphic element containers. Class objects have a bounding box to account for group size."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.vector/subpathgroup/"

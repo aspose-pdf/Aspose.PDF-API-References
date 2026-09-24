@@ -2,8 +2,8 @@
 title: "SetColorRenderingIntent Class"
 linktitle: "SetColorRenderingIntent"
 articleTitle: "SetColorRenderingIntent"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing ri operator (set color rendering intent)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetColorRenderingIntent class. Class representing ri operator (set color rendering intent)."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.operators/setcolorrenderingintent/"

@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Note"
 linktitle: "Note"
 articleTitle: "Note"
-second_title: "Aspose.PDF for .NET"
-description: "(Note) An item of explanatory text, such as a footnote or an endnote, that is referred to from within the body of the document. It may have a label (structur..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Note) An item of explanatory text, such as a footnote or an endnote, that is referred to from within the body of the document. ..."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/note/"

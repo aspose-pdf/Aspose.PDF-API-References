@@ -2,8 +2,8 @@
 title: "Color.op_Inequality"
 linktitle: "op_Inequality"
 articleTitle: "op_Inequality"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if two Colors are not equal."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Returns true if two Colors are not equal."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/color/op_inequality/"

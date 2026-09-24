@@ -2,8 +2,8 @@
 title: "Border Class"
 linktitle: "Border"
 articleTitle: "Border"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing characteristics of annotation border."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.Border class. Class representing characteristics of annotation border."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/border/"

@@ -2,8 +2,8 @@
 title: "TextRenderingMode Enum"
 linktitle: "TextRenderingMode"
 articleTitle: "TextRenderingMode"
-second_title: "Aspose.PDF for .NET"
-description: "The text rendering mode, Tmode, determines whether showing text shall cause glyph outlines to be stroked, filled, used as a clipping boundary, or some combin..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextRenderingMode enum. The text rendering mode, Tmode, determines whether showing text shall cause glyph outlines to be stroked, filled, use..."
 type: docs
 weight: 610
 url: "/net/aspose.pdf.text/textrenderingmode/"

@@ -2,8 +2,8 @@
 title: "Field.SyncRoot"
 linktitle: "SyncRoot"
 articleTitle: "SyncRoot"
-second_title: "Aspose.PDF for .NET"
-description: "Synchronization object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Synchronization object."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.forms/field/syncroot/"

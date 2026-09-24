@@ -2,8 +2,8 @@
 title: "LicenseInfo Class"
 linktitle: "LicenseInfo"
 articleTitle: "LicenseInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a license information."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LicenseInfo class. Represents a license information."
 type: docs
 weight: 1760
 url: "/net/aspose.pdf/licenseinfo/"

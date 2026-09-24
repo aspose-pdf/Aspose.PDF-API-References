@@ -2,8 +2,8 @@
 title: "AutoFiller.UnFlattenFields"
 linktitle: "UnFlattenFields"
 articleTitle: "UnFlattenFields"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller property. Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/autofiller/unflattenfields/"

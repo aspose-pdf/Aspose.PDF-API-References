@@ -2,8 +2,8 @@
 title: "TextSegmentCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds the text segment element at the specified index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSegmentCollection method. Adds the text segment element at the specified index."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textsegmentcollection/add/"

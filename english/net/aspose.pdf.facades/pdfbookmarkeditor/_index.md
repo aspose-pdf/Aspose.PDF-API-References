@@ -2,8 +2,8 @@
 title: "PdfBookmarkEditor Class"
 linktitle: "PdfBookmarkEditor"
 articleTitle: "PdfBookmarkEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to work with PDF file's bookmarks including create, modify, export, import and delete."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfBookmarkEditor class. Represents a class to work with PDF file's bookmarks including create, modify, export, import and delete."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/"

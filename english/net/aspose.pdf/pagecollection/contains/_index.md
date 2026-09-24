@@ -2,8 +2,8 @@
 title: "PageCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether this instance contains the object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Determines whether this instance contains the object."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/pagecollection/contains/"

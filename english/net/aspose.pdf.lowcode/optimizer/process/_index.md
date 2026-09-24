@@ -2,8 +2,8 @@
 title: "Optimizer.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Starts the processing with the specified parameters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Optimizer method. Starts the processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/optimizer/process/"

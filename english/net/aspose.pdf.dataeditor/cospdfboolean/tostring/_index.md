@@ -2,8 +2,8 @@
 title: "CosPdfBoolean.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a that represents the current ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfBoolean method. Returns a that represents the current ."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/tostring/"

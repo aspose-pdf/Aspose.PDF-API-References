@@ -2,8 +2,8 @@
 title: "Resolution.X"
 linktitle: "X"
 articleTitle: "X"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets horizontal image resolution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resolution property. Gets or sets horizontal image resolution."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.devices/resolution/x/"

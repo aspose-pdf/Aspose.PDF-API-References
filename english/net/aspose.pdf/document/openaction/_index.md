@@ -2,8 +2,8 @@
 title: "Document.OpenAction"
 linktitle: "OpenAction"
 articleTitle: "OpenAction"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets action performed at document opening."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets action performed at document opening."
 type: docs
 weight: 1250
 url: "/net/aspose.pdf/document/openaction/"

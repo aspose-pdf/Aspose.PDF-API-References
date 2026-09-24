@@ -2,8 +2,8 @@
 title: "SubmitToolOutputs Class"
 linktitle: "SubmitToolOutputs"
 articleTitle: "SubmitToolOutputs"
-second_title: "Aspose.PDF for .NET"
-description: "Represents details on the tool outputs needed for the run to continue."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.SubmitToolOutputs class. Represents details on the tool outputs needed for the run to continue."
 type: docs
 weight: 1160
 url: "/net/aspose.pdf.ai/submittooloutputs/"

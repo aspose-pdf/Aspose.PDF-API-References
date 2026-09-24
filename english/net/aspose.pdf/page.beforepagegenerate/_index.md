@@ -2,8 +2,8 @@
 title: "Page.BeforePageGenerate Delegate"
 linktitle: "Page.BeforePageGenerate"
 articleTitle: "Page.BeforePageGenerate"
-second_title: "Aspose.PDF for .NET"
-description: "Procedure for customize header and footer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Page.BeforePageGenerate delegate. Procedure for customize header and footer."
 type: docs
 weight: 2120
 url: "/net/aspose.pdf/page.beforepagegenerate/"

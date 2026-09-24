@@ -2,8 +2,8 @@
 title: "IncompleteDetails.IncompleteDetails"
 linktitle: "IncompleteDetails"
 articleTitle: "IncompleteDetails"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the IncompleteDetails class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IncompleteDetails constructor. Initializes a new instance of the IncompleteDetails class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/incompletedetails/incompletedetails/"

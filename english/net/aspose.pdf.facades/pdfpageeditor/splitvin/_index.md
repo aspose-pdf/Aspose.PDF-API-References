@@ -2,8 +2,8 @@
 title: "PdfPageEditor.SPLITVIN"
 linktitle: "SPLITVIN"
 articleTitle: "SPLITVIN"
-second_title: "Aspose.PDF for .NET"
-description: "In Vertical Split"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. In Vertical Split"
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfpageeditor/splitvin/"

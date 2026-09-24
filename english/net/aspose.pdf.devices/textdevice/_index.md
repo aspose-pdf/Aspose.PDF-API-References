@@ -2,8 +2,8 @@
 title: "TextDevice Class"
 linktitle: "TextDevice"
 articleTitle: "TextDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents class for converting pdf document pages into text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.TextDevice class. Represents class for converting pdf document pages into text."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.devices/textdevice/"

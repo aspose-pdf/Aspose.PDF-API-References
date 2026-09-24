@@ -2,8 +2,8 @@
 title: "Document.MergeOptions.MaximumNodesInLevel"
 linktitle: "MaximumNodesInLevel"
 articleTitle: "MaximumNodesInLevel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the maximum nodes in pages tree level. Default is 10."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MergeOptions property. Gets and sets the maximum nodes in pages tree level. Default is 10."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/document.mergeoptions/maximumnodesinlevel/"

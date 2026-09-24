@@ -2,8 +2,8 @@
 title: "RunListResponse Class"
 linktitle: "RunListResponse"
 articleTitle: "RunListResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a list response containing run data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.RunListResponse class. Represents a list response containing run data."
 type: docs
 weight: 1080
 url: "/net/aspose.pdf.ai/runlistresponse/"

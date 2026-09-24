@@ -2,8 +2,8 @@
 title: "XFA Class"
 linktitle: "XFA"
 articleTitle: "XFA"
-second_title: "Aspose.PDF for .NET"
-description: "Represents XML form regarding XML Forms Architecture (XFA)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.XFA class. Represents XML form regarding XML Forms Architecture (XFA)."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.forms/xfa/"

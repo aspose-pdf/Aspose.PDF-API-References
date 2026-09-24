@@ -2,8 +2,8 @@
 title: "TextEditOptions.AllowLanguageTransformation"
 linktitle: "AllowLanguageTransformation"
 articleTitle: "AllowLanguageTransformation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets value that permits usage of language transformation during adding or editing of text. true - language transformation will be applied if necessar..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextEditOptions property. Gets or sets value that permits usage of language transformation during adding or editing of text. true - language transformation w..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/texteditoptions/allowlanguagetransformation/"

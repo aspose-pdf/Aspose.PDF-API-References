@@ -2,8 +2,8 @@
 title: "LlamaCopilotOptionsBase Class"
 linktitle: "LlamaCopilotOptionsBase"
 articleTitle: "LlamaCopilotOptionsBase"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the base options for configuring the LlamaCopilot."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.LlamaCopilotOptionsBase class. Represents the base options for configuring the LlamaCopilot."
 type: docs
 weight: 770
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/"

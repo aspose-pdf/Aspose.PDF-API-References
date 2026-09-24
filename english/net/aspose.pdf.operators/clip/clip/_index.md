@@ -2,8 +2,8 @@
 title: "Clip.Clip"
 linktitle: "Clip"
 articleTitle: "Clip"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Clip class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Clip constructor. Initializes a new instance of the Clip class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/clip/clip/"

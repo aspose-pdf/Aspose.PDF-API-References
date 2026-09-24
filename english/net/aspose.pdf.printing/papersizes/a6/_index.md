@@ -2,8 +2,8 @@
 title: "PaperSizes.A6"
 linktitle: "A6"
 articleTitle: "A6"
-second_title: "Aspose.PDF for .NET"
-description: "A6 paper (105 mm by 148 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. A6 paper (105 mm by 148 mm)."
 type: docs
 weight: 680
 url: "/net/aspose.pdf.printing/papersizes/a6/"

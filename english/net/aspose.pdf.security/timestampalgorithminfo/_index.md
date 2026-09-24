@@ -2,8 +2,8 @@
 title: "TimestampAlgorithmInfo Class"
 linktitle: "TimestampAlgorithmInfo"
 articleTitle: "TimestampAlgorithmInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for the information about the timestamp signature algorithm."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.TimestampAlgorithmInfo class. Represents a class for the information about the timestamp signature algorithm."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.security/timestampalgorithminfo/"

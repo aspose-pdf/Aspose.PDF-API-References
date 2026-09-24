@@ -2,8 +2,8 @@
 title: "Form.IgnoreNeedsRendering"
 linktitle: "IgnoreNeedsRendering"
 articleTitle: "IgnoreNeedsRendering"
-second_title: "Aspose.PDF for .NET"
-description: "If this property is true the value of NeedsRendering key will be ignored during conversion XFA form to Standard form. It is false by default."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. If this property is true the value of NeedsRendering key will be ignored during conversion XFA form to Standard form. It is false by default."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.forms/form/ignoreneedsrendering/"

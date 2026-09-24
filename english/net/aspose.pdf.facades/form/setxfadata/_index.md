@@ -2,8 +2,8 @@
 title: "Form.SetXfaData"
 linktitle: "SetXfaData"
 articleTitle: "SetXfaData"
-second_title: "Aspose.PDF for .NET"
-description: "Replaces XFA data with specified data packet. Data packet may be extracted using ExtractXfaData."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Replaces XFA data with specified data packet. Data packet may be extracted using ExtractXfaData."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/form/setxfadata/"

@@ -2,8 +2,8 @@
 title: "ColorSpace Enum"
 linktitle: "ColorSpace"
 articleTitle: "ColorSpace"
-second_title: "Aspose.PDF for .NET"
-description: "The color spaces enumeration."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ColorSpace enum. The color spaces enumeration."
 type: docs
 weight: 380
 url: "/net/aspose.pdf/colorspace/"

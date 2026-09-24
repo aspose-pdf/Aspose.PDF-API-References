@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateApplicationLink"
 linktitle: "CreateApplicationLink"
 articleTitle: "CreateApplicationLink"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a link to launch an application in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a link to launch an application in PDF document."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/"

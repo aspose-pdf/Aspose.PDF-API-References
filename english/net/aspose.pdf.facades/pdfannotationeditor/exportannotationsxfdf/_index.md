@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.ExportAnnotationsXfdf"
 linktitle: "ExportAnnotationsXfdf"
 articleTitle: "ExportAnnotationsXfdf"
-second_title: "Aspose.PDF for .NET"
-description: "Exports the content of the specified annotation types into XFDF"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Exports the content of the specified annotation types into XFDF"
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/"

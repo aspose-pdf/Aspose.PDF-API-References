@@ -2,8 +2,8 @@
 title: "FormFieldFacade.CheckBoxStyleStar"
 linktitle: "CheckBoxStyleStar"
 articleTitle: "CheckBoxStyleStar"
-second_title: "Aspose.PDF for .NET"
-description: "Defines a star check box style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines a star check box style."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/"

@@ -2,8 +2,8 @@
 title: "OperatorCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets count of operators in the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection property. Gets count of operators in the collection."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/operatorcollection/count/"

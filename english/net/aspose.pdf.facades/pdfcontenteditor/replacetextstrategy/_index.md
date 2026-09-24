@@ -2,8 +2,8 @@
 title: "PdfContentEditor.ReplaceTextStrategy"
 linktitle: "ReplaceTextStrategy"
 articleTitle: "ReplaceTextStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "A set of parameters for replace text operation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor property. A set of parameters for replace text operation"
 type: docs
 weight: 690
 url: "/net/aspose.pdf.facades/pdfcontenteditor/replacetextstrategy/"

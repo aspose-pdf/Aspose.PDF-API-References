@@ -2,8 +2,8 @@
 title: "WidgetAnnotation Class"
 linktitle: "WidgetAnnotation"
 articleTitle: "WidgetAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing widget annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.WidgetAnnotation class. Class representing widget annotation."
 type: docs
 weight: 1360
 url: "/net/aspose.pdf.annotations/widgetannotation/"

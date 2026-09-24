@@ -2,8 +2,8 @@
 title: "Page.IsBlank"
 linktitle: "IsBlank"
 articleTitle: "IsBlank"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the flag whether page is blank or not."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Gets the flag whether page is blank or not."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/page/isblank/"

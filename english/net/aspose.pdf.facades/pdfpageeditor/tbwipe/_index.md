@@ -2,8 +2,8 @@
 title: "PdfPageEditor.TBWIPE"
 linktitle: "TBWIPE"
 articleTitle: "TBWIPE"
-second_title: "Aspose.PDF for .NET"
-description: "Top-Bottom Wipe"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Top-Bottom Wipe"
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdfpageeditor/tbwipe/"

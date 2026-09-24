@@ -2,8 +2,8 @@
 title: "PaperSizes.PrcEnvelopeNumber6Rotated"
 linktitle: "PrcEnvelopeNumber6Rotated"
 articleTitle: "PrcEnvelopeNumber6Rotated"
-second_title: "Aspose.PDF for .NET"
-description: "#6 rotated envelope (230 mm by 120 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. #6 rotated envelope (230 mm by 120 mm)."
 type: docs
 weight: 1120
 url: "/net/aspose.pdf.printing/papersizes/prcenvelopenumber6rotated/"

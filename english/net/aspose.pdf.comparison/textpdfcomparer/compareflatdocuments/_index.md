@@ -2,8 +2,8 @@
 title: "TextPdfComparer.CompareFlatDocuments"
 linktitle: "CompareFlatDocuments"
 articleTitle: "CompareFlatDocuments"
-second_title: "Aspose.PDF for .NET"
-description: "Compares two documents page by page. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Compares two documents page by page. The documents are compared as a whole. Before comparing text, the texts of document pages are co..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/"

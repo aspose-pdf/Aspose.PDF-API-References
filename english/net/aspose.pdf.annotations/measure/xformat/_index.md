@@ -2,8 +2,8 @@
 title: "Measure.XFormat"
 linktitle: "XFormat"
 articleTitle: "XFormat"
-second_title: "Aspose.PDF for .NET"
-description: "A number format array for measurement of change along the xaxis and, if Y is not present, along the y axis as well"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. A number format array for measurement of change along the xaxis and, if Y is not present, along the y axis as well"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/measure/xformat/"

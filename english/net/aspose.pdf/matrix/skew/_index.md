@@ -2,8 +2,8 @@
 title: "Matrix.Skew"
 linktitle: "Skew"
 articleTitle: "Skew"
-second_title: "Aspose.PDF for .NET"
-description: "Creates matrix for given rotation angle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Creates matrix for given rotation angle."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/matrix/skew/"

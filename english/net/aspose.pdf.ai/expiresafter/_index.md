@@ -2,8 +2,8 @@
 title: "ExpiresAfter Class"
 linktitle: "ExpiresAfter"
 articleTitle: "ExpiresAfter"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the expiration policy for a vector store."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ExpiresAfter class. Represents the expiration policy for a vector store."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.ai/expiresafter/"

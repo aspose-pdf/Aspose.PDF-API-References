@@ -2,8 +2,8 @@
 title: "MCRElement.Tag"
 linktitle: "Tag"
 articleTitle: "Tag"
-second_title: "Aspose.PDF for .NET"
-description: "Bind a structure element to the content stream BDC operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MCRElement method. Bind a structure element to the content stream BDC operator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/mcrelement/tag/"

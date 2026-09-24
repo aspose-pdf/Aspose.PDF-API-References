@@ -2,8 +2,8 @@
 title: "ExternalSignature.Certificate"
 linktitle: "Certificate"
 articleTitle: "Certificate"
-second_title: "Aspose.PDF for .NET"
-description: "The certificate with the private key."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExternalSignature field. The certificate with the private key."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/externalsignature/certificate/"

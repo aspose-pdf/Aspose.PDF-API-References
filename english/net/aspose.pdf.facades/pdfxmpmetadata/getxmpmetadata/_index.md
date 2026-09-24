@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.GetXmpMetadata"
 linktitle: "GetXmpMetadata"
 articleTitle: "GetXmpMetadata"
-second_title: "Aspose.PDF for .NET"
-description: "Get the XmpMetadata of the input pdf in a xml format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Get the XmpMetadata of the input pdf in a xml format."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/"

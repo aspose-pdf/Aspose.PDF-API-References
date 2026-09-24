@@ -2,8 +2,8 @@
 title: "CodeInterpreter.CodeInterpreter"
 linktitle: "CodeInterpreter"
 articleTitle: "CodeInterpreter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CodeInterpreter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CodeInterpreter constructor. Initializes a new instance of the CodeInterpreter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/codeinterpreter/codeinterpreter/"

@@ -2,8 +2,8 @@
 title: "ChunkingOptions Class"
 linktitle: "ChunkingOptions"
 articleTitle: "ChunkingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Configuration options for document chunking operations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ChunkingOptions class. Configuration options for document chunking operations."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/chunkingoptions/"

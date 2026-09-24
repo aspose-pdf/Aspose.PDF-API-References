@@ -2,8 +2,8 @@
 title: "Border.VCornerRadius"
 linktitle: "VCornerRadius"
 articleTitle: "VCornerRadius"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets vertical corner radius."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Border property. Gets or sets vertical corner radius."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/border/vcornerradius/"

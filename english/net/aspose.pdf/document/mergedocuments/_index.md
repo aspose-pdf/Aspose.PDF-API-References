@@ -2,8 +2,8 @@
 title: "Document.MergeDocuments"
 linktitle: "MergeDocuments"
 articleTitle: "MergeDocuments"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method."
 type: docs
 weight: 1020
 url: "/net/aspose.pdf/document/mergedocuments/"

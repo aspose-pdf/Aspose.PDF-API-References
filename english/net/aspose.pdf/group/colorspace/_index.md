@@ -2,8 +2,8 @@
 title: "Group.ColorSpace"
 linktitle: "ColorSpace"
 articleTitle: "ColorSpace"
-second_title: "Aspose.PDF for .NET"
-description: "The group color space."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Group property. The group color space."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/group/colorspace/"

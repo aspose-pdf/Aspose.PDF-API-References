@@ -2,8 +2,8 @@
 title: "DocSaveOptions.ConvertType3Fonts"
 linktitle: "ConvertType3Fonts"
 articleTitle: "ConvertType3Fonts"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets conversion for Type3 fonts. In Type 3 fonts, glyphs shall be defined by streams of graphics operators. This means that in the DOC/DOCX output we..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocSaveOptions property. Gets or sets conversion for Type3 fonts. In Type 3 fonts, glyphs shall be defined by streams of graphics operators. This means that ..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/docsaveoptions/converttype3fonts/"

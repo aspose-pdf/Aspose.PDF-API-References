@@ -2,8 +2,8 @@
 title: "FormFieldFacade.BackgroudColor"
 linktitle: "BackgroudColor"
 articleTitle: "BackgroudColor"
-second_title: "Aspose.PDF for .NET"
-description: "Obsolete property. Use BackgroundColor."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. Obsolete property. Use BackgroundColor."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/formfieldfacade/backgroudcolor/"

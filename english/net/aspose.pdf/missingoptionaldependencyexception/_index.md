@@ -2,8 +2,8 @@
 title: "MissingOptionalDependencyException Class"
 linktitle: "MissingOptionalDependencyException"
 articleTitle: "MissingOptionalDependencyException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an error that occurs when an optional dependency required by a feature is not available in the application."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.MissingOptionalDependencyException class. Represents an error that occurs when an optional dependency required by a feature is not available in th..."
 type: docs
 weight: 1930
 url: "/net/aspose.pdf/missingoptionaldependencyexception/"

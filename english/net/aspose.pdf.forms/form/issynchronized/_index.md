@@ -2,8 +2,8 @@
 title: "Form.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if object is thread-safe."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Returns true if object is thread-safe."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.forms/form/issynchronized/"

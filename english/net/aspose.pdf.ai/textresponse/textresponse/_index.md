@@ -2,8 +2,8 @@
 title: "TextResponse.TextResponse"
 linktitle: "TextResponse"
 articleTitle: "TextResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextResponse constructor. Initializes a new instance of the TextResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/textresponse/textresponse/"

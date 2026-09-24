@@ -2,8 +2,8 @@
 title: "FormattedFragment.CopyFields"
 linktitle: "CopyFields"
 articleTitle: "CopyFields"
-second_title: "Aspose.PDF for .NET"
-description: "Copy fields to fragment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedFragment method. Copy fields to fragment."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/formattedfragment/copyfields/"

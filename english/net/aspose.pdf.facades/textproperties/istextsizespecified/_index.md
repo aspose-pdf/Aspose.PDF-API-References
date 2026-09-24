@@ -2,8 +2,8 @@
 title: "TextProperties.IsTextSizeSpecified"
 linktitle: "IsTextSizeSpecified"
 articleTitle: "IsTextSizeSpecified"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value that indicates whether the property is specified."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextProperties property. Gets or sets a value that indicates whether the property is specified."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/textproperties/istextsizespecified/"

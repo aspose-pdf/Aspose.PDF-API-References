@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.PartsEmbeddingMode"
 linktitle: "PartsEmbeddingMode"
 articleTitle: "PartsEmbeddingMode"
-second_title: "Aspose.PDF for .NET"
-description: "It defines whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart binary entities"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. It defines whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart bin..."
 type: docs
 weight: 440
 url: "/net/aspose.pdf/htmlsaveoptions/partsembeddingmode/"

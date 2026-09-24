@@ -2,8 +2,8 @@
 title: "MoveTextPositionSetLeading.X"
 linktitle: "X"
 articleTitle: "X"
-second_title: "Aspose.PDF for .NET"
-description: "X coordinate of text position."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MoveTextPositionSetLeading property. X coordinate of text position."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/movetextpositionsetleading/x/"

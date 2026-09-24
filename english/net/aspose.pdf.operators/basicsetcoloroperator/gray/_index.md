@@ -2,8 +2,8 @@
 title: "BasicSetColorOperator.Gray"
 linktitle: "Gray"
 articleTitle: "Gray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets black component of gray color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BasicSetColorOperator property. Gets black component of gray color."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/gray/"

@@ -2,8 +2,8 @@
 title: "ElementList.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves a element at the given index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ElementList method. Retrieves a element at the given index."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/elementlist/item/"

@@ -2,8 +2,8 @@
 title: "BmpDevice.BmpDevice"
 linktitle: "BmpDevice"
 articleTitle: "BmpDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BmpDevice class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BmpDevice constructor. Initializes a new instance of the BmpDevice class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/bmpdevice/bmpdevice/"

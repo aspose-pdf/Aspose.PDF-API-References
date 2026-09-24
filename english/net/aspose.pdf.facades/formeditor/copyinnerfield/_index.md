@@ -2,8 +2,8 @@
 title: "FormEditor.CopyInnerField"
 linktitle: "CopyInnerField"
 articleTitle: "CopyInnerField"
-second_title: "Aspose.PDF for .NET"
-description: "Copies an existing field to the same position in specified page number. A new document will be produced, which contains everything the source document has ex..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Copies an existing field to the same position in specified page number. A new document will be produced, which contains everything the sou..."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/formeditor/copyinnerfield/"

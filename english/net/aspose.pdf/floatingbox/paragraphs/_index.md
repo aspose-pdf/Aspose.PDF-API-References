@@ -2,8 +2,8 @@
 title: "FloatingBox.Paragraphs"
 linktitle: "Paragraphs"
 articleTitle: "Paragraphs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a collection that indicates all paragraphs in the cell."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox property. Gets or sets a collection that indicates all paragraphs in the cell."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/floatingbox/paragraphs/"

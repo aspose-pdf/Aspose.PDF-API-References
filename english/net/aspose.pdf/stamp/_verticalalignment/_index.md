@@ -2,8 +2,8 @@
 title: "Stamp._verticalAlignment"
 linktitle: "_verticalAlignment"
 articleTitle: "_verticalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Vertical alignemtn of the stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp field. Vertical alignemtn of the stamp."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/stamp/_verticalalignment/"

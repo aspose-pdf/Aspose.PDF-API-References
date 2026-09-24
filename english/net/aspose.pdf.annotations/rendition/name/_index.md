@@ -2,8 +2,8 @@
 title: "Rendition.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rendition property. Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/rendition/name/"

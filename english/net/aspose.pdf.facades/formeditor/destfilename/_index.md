@@ -2,8 +2,8 @@
 title: "FormEditor.DestFileName"
 linktitle: "DestFileName"
 articleTitle: "DestFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets destination file name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor property. Gets or sets destination file name."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/formeditor/destfilename/"

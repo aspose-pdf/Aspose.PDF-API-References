@@ -2,8 +2,8 @@
 title: "Cell Class"
 linktitle: "Cell"
 articleTitle: "Cell"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a cell of the table's row."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Cell class. Represents a cell of the table's row."
 type: docs
 weight: 260
 url: "/net/aspose.pdf/cell/"

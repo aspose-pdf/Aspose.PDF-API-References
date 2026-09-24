@@ -2,8 +2,8 @@
 title: "StructureTextState.Superscript"
 linktitle: "Superscript"
 articleTitle: "Superscript"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets superscript of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets superscript of the text."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/superscript/"

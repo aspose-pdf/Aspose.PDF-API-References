@@ -2,8 +2,8 @@
 title: "TextFragmentState.IsFitRectangle"
 linktitle: "IsFitRectangle"
 articleTitle: "IsFitRectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if input string could be placed inside defined rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState method. Checks if input string could be placed inside defined rectangle."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/textfragmentstate/isfitrectangle/"

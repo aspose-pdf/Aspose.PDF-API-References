@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the number of elements contained in the dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary property. Gets the number of elements contained in the dictionary."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/appearancedictionary/count/"

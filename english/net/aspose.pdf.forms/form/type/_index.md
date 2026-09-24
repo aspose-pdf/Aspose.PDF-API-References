@@ -2,8 +2,8 @@
 title: "Form.Type"
 linktitle: "Type"
 articleTitle: "Type"
-second_title: "Aspose.PDF for .NET"
-description: "Gets type of the form. Possible values are: Standard, Static, Dynamic."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets type of the form. Possible values are: Standard, Static, Dynamic."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.forms/form/type/"

@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilotOptions.WithDocuments"
 linktitle: "WithDocuments"
 articleTitle: "WithDocuments"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the document collection for the image description copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the document collection for the image description copilot options."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocuments/"

@@ -2,8 +2,8 @@
 title: "FormattedText.AddNewLineText"
 linktitle: "AddNewLineText"
 articleTitle: "AddNewLineText"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a new line to the FormattedText object and sets the newLineText to the next line's text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedText method. Adds a new line to the FormattedText object and sets the newLineText to the next line's text."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/formattedtext/addnewlinetext/"

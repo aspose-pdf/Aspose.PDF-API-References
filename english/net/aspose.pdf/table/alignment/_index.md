@@ -2,8 +2,8 @@
 title: "Table.Alignment"
 linktitle: "Alignment"
 articleTitle: "Alignment"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the table alignment."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table property. Gets or sets the table alignment."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/table/alignment/"

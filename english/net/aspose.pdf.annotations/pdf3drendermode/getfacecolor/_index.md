@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.GetFaceColor"
 linktitle: "GetFaceColor"
 articleTitle: "GetFaceColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the color of the face."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode method. Gets the color of the face."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/"

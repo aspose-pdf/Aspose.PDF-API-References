@@ -2,8 +2,8 @@
 title: "LineAnnotation.EndingStyle"
 linktitle: "EndingStyle"
 articleTitle: "EndingStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets ending style for end point of line."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets ending style for end point of line."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/lineannotation/endingstyle/"

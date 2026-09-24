@@ -2,8 +2,8 @@
 title: "Usage.PromptTokens"
 linktitle: "PromptTokens"
 articleTitle: "PromptTokens"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets number of tokens in the prompt."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Usage property. Gets or sets number of tokens in the prompt."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/usage/prompttokens/"

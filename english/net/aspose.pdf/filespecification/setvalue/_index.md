@@ -2,8 +2,8 @@
 title: "FileSpecification.SetValue"
 linktitle: "SetValue"
 articleTitle: "SetValue"
-second_title: "Aspose.PDF for .NET"
-description: "Sets application-specific parameter."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification method. Sets application-specific parameter."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/filespecification/setvalue/"

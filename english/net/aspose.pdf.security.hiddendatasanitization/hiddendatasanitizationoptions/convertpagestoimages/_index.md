@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions.ConvertPagesToImages"
 linktitle: "ConvertPagesToImages"
 articleTitle: "ConvertPagesToImages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the option to convert pages to images. If this option is enabled, the ImageCompressionOptions option will be ignored. The option must be enabled..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizationOptions property. Gets or sets the option to convert pages to images. If this option is enabled, the ImageCompressionOptions option wil..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/convertpagestoimages/"

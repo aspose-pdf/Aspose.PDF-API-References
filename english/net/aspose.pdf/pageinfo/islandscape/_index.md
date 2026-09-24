@@ -2,8 +2,8 @@
 title: "PageInfo.IsLandscape"
 linktitle: "IsLandscape"
 articleTitle: "IsLandscape"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets is page landscaped."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInfo property. Gets or sets is page landscaped."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/pageinfo/islandscape/"

@@ -2,8 +2,8 @@
 title: "JavascriptAction.JavascriptAction"
 linktitle: "JavascriptAction"
 articleTitle: "JavascriptAction"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the JavascriptAction class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JavascriptAction constructor. Initializes a new instance of the JavascriptAction class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/javascriptaction/javascriptaction/"

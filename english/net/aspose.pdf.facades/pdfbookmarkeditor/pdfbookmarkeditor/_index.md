@@ -2,8 +2,8 @@
 title: "PdfBookmarkEditor.PdfBookmarkEditor"
 linktitle: "PdfBookmarkEditor"
 articleTitle: "PdfBookmarkEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfBookmarkEditor class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor constructor. Initializes a new instance of the PdfBookmarkEditor class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/"

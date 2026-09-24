@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.IccProfileFileName"
 linktitle: "IccProfileFileName"
 articleTitle: "IccProfileFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the filename of icc profile name. In case of null the default icc profile used."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Gets or sets the filename of icc profile name. In case of null the default icc profile used."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/pdfformatconversionoptions/iccprofilefilename/"

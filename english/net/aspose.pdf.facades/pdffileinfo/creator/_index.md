@@ -2,8 +2,8 @@
 title: "PdfFileInfo.Creator"
 linktitle: "Creator"
 articleTitle: "Creator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the Creator information of PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo property. Gets or sets the Creator information of PDF document."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdffileinfo/creator/"

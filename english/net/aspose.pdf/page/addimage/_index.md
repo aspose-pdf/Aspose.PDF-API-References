@@ -2,8 +2,8 @@
 title: "Page.AddImage"
 linktitle: "AddImage"
 articleTitle: "AddImage"
-second_title: "Aspose.PDF for .NET"
-description: "Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/page/addimage/"

@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds an element with the provided key and value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method. Adds an element with the provided key and value."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/appearancedictionary/add/"

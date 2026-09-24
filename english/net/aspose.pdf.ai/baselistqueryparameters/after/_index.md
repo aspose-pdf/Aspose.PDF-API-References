@@ -2,8 +2,8 @@
 title: "BaseListQueryParameters.After"
 linktitle: "After"
 articleTitle: "After"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a cursor for use in pagination. after is an object ID that defines your place in the list. For instance, if you make a list request and receive ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseListQueryParameters property. Gets or sets a cursor for use in pagination. after is an object ID that defines your place in the list. For instance, if yo..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/baselistqueryparameters/after/"

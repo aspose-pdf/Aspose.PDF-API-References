@@ -2,8 +2,8 @@
 title: "StructureRecognitionVisitor.Recognize"
 linktitle: "Recognize"
 articleTitle: "Recognize"
-second_title: "Aspose.PDF for .NET"
-description: "Start recognition of document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureRecognitionVisitor method. Start recognition of document"
 type: docs
 weight: 70
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/recognize/"

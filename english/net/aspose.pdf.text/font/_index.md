@@ -2,8 +2,8 @@
 title: "Font Class"
 linktitle: "Font"
 articleTitle: "Font"
-second_title: "Aspose.PDF for .NET"
-description: "Represents font object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.Font class. Represents font object."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/font/"

@@ -2,8 +2,8 @@
 title: "TextStyle.TextStyle"
 linktitle: "TextStyle"
 articleTitle: "TextStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextStyle class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle constructor. Initializes a new instance of the TextStyle class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/textstyle/textstyle/"

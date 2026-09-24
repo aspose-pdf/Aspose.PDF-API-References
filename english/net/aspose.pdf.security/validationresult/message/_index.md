@@ -2,8 +2,8 @@
 title: "ValidationResult.Message"
 linktitle: "Message"
 articleTitle: "Message"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the message associated with the validation result."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ValidationResult property. Represents the message associated with the validation result."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/validationresult/message/"

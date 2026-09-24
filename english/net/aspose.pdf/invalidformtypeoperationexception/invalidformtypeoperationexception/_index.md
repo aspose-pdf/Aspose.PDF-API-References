@@ -2,8 +2,8 @@
 title: "InvalidFormTypeOperationException.InvalidFormTypeOperationException"
 linktitle: "InvalidFormTypeOperationException"
 articleTitle: "InvalidFormTypeOperationException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the InvalidFormTypeOperationException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InvalidFormTypeOperationException constructor. Initializes a new instance of the InvalidFormTypeOperationException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/"

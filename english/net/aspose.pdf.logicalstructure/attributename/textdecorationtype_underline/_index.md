@@ -2,8 +2,8 @@
 title: "AttributeName.TextDecorationType_Underline"
 linktitle: "TextDecorationType_Underline"
 articleTitle: "TextDecorationType_Underline"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute TextDecorationType: Underline - A line below the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute TextDecorationType: Underline - A line below the text."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/"

@@ -2,8 +2,8 @@
 title: "BitmapInfo.BitmapInfo"
 linktitle: "BitmapInfo"
 articleTitle: "BitmapInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the BitmapInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BitmapInfo constructor. Initializes a new instance of the BitmapInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/bitmapinfo/bitmapinfo/"

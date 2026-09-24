@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.FontSize"
 linktitle: "FontSize"
 articleTitle: "FontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets font size. Default value: 10."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets font size. Default value: 10."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/signaturecustomappearance/fontsize/"

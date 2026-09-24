@@ -2,8 +2,8 @@
 title: "SetColor.SetColor"
 linktitle: "SetColor"
 articleTitle: "SetColor"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetColor class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColor constructor. Initializes a new instance of the SetColor class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcolor/setcolor/"

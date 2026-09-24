@@ -2,8 +2,8 @@
 title: "MoveTo.Y"
 linktitle: "Y"
 articleTitle: "Y"
-second_title: "Aspose.PDF for .NET"
-description: "Y coordinate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MoveTo property. Y coordinate"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/moveto/y/"

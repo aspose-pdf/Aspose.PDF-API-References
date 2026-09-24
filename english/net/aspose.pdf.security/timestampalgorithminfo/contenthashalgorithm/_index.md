@@ -2,8 +2,8 @@
 title: "TimestampAlgorithmInfo.ContentHashAlgorithm"
 linktitle: "ContentHashAlgorithm"
 articleTitle: "ContentHashAlgorithm"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the hash algorithm that hashed the content of the document and then signed it using ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampAlgorithmInfo field. Gets the hash algorithm that hashed the content of the document and then signed it using ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/"

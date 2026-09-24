@@ -2,8 +2,8 @@
 title: "AnnotationCollection.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Returns collection enumerator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Returns collection enumerator."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/annotationcollection/getenumerator/"

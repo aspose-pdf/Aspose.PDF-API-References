@@ -2,8 +2,8 @@
 title: "Font.BaseFont"
 linktitle: "BaseFont"
 articleTitle: "BaseFont"
-second_title: "Aspose.PDF for .NET"
-description: "Gets BaseFont value of PDF font object. Also known as PostScript name of the font."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Font property. Gets BaseFont value of PDF font object. Also known as PostScript name of the font."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/font/basefont/"

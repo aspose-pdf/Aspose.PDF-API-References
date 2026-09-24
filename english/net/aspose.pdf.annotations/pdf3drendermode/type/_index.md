@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.Type"
 linktitle: "Type"
 articleTitle: "Type"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode property. Gets the type."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/pdf3drendermode/type/"

@@ -2,8 +2,8 @@
 title: "Point.Distance"
 linktitle: "Distance"
 articleTitle: "Distance"
-second_title: "Aspose.PDF for .NET"
-description: "Calculates distance between two points."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point method. Calculates distance between two points."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/point/distance/"

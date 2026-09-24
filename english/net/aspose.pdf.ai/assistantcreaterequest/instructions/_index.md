@@ -2,8 +2,8 @@
 title: "AssistantCreateRequest.Instructions"
 linktitle: "Instructions"
 articleTitle: "Instructions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the system instructions that the assistant uses. The maximum length is 256,000 characters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AssistantCreateRequest property. Gets or sets the system instructions that the assistant uses. The maximum length is 256,000 characters."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/assistantcreaterequest/instructions/"

@@ -2,8 +2,8 @@
 title: "HeaderFooter.Margin"
 linktitle: "Margin"
 articleTitle: "Margin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the margin info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooter property. Gets or sets the margin info."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/headerfooter/margin/"

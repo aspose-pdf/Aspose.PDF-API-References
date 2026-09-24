@@ -2,8 +2,8 @@
 title: "ChunkingOptions.DefaultMaxChunkSize"
 linktitle: "DefaultMaxChunkSize"
 articleTitle: "DefaultMaxChunkSize"
-second_title: "Aspose.PDF for .NET"
-description: "The default maximum chunk size in tokens."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChunkingOptions field. The default maximum chunk size in tokens."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/chunkingoptions/defaultmaxchunksize/"

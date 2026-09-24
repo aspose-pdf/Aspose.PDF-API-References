@@ -2,8 +2,8 @@
 title: "PdfFileSecurity Class"
 linktitle: "PdfFileSecurity"
 articleTitle: "PdfFileSecurity"
-second_title: "Aspose.PDF for .NET"
-description: "Represents encrypting or decrypting a Pdf file with owner or user password, changing the security setting and password."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileSecurity class. Represents encrypting or decrypting a Pdf file with owner or user password, changing the security setting and passw..."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.facades/pdffilesecurity/"

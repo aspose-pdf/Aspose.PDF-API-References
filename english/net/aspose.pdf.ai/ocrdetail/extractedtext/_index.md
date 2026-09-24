@@ -2,8 +2,8 @@
 title: "OcrDetail.ExtractedText"
 linktitle: "ExtractedText"
 articleTitle: "ExtractedText"
-second_title: "Aspose.PDF for .NET"
-description: "The extracted text content from the page. Null if Success is false or no text was found."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrDetail property. The extracted text content from the page. Null if Success is false or no text was found."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/ocrdetail/extractedtext/"

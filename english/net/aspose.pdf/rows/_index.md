@@ -2,8 +2,8 @@
 title: "Rows Class"
 linktitle: "Rows"
 articleTitle: "Rows"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a rows collection of table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Rows class. Represents a rows collection of table."
 type: docs
 weight: 2730
 url: "/net/aspose.pdf/rows/"

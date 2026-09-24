@@ -2,8 +2,8 @@
 title: "FileCounts.Cancelled"
 linktitle: "Cancelled"
 articleTitle: "Cancelled"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of files that were cancelled."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileCounts property. Gets or sets the number of files that were cancelled."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/filecounts/cancelled/"

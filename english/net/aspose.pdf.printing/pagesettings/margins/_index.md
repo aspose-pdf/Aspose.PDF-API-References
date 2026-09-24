@@ -2,8 +2,8 @@
 title: "PageSettings.Margins"
 linktitle: "Margins"
 articleTitle: "Margins"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating the margins for this page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings property. Gets or sets a value indicating the margins for this page."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/pagesettings/margins/"

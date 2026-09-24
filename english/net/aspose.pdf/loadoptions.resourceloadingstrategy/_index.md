@@ -2,8 +2,8 @@
 title: "LoadOptions.ResourceLoadingStrategy Delegate"
 linktitle: "LoadOptions.ResourceLoadingStrategy"
 articleTitle: "LoadOptions.ResourceLoadingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method, that will get requested reso..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LoadOptions.ResourceLoadingStrategy delegate. Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSe..."
 type: docs
 weight: 1830
 url: "/net/aspose.pdf/loadoptions.resourceloadingstrategy/"

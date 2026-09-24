@@ -2,8 +2,8 @@
 title: "IconFit.ScalingModeToName"
 linktitle: "ScalingModeToName"
 articleTitle: "ScalingModeToName"
-second_title: "Aspose.PDF for .NET"
-description: "Converts scaling mode object into name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IconFit method. Converts scaling mode object into name."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/iconfit/scalingmodetoname/"

@@ -2,8 +2,8 @@
 title: "PageDate.YearComponent Class"
 linktitle: "PageDate.YearComponent"
 articleTitle: "PageDate.YearComponent"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the year component of a date."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageDate.YearComponent class. Represents the year component of a date."
 type: docs
 weight: 2200
 url: "/net/aspose.pdf/pagedate.yearcomponent/"

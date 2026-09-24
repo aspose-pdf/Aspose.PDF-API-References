@@ -2,8 +2,8 @@
 title: "CertificateEncryptionOptions Class"
 linktitle: "CertificateEncryptionOptions"
 articleTitle: "CertificateEncryptionOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for encrypting options a PDF document using a certificate-based encryption method. Used to open encrypted PDF documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.CertificateEncryptionOptions class. Represents a class for encrypting options a PDF document using a certificate-based encryption method...."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/certificateencryptionoptions/"

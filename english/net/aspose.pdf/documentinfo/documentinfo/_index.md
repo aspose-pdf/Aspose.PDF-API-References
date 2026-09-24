@@ -2,8 +2,8 @@
 title: "DocumentInfo.DocumentInfo"
 linktitle: "DocumentInfo"
 articleTitle: "DocumentInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DocumentInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo constructor. Initializes a new instance of the DocumentInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/documentinfo/documentinfo/"

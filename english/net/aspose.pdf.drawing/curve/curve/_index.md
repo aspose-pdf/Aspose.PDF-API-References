@@ -2,8 +2,8 @@
 title: "Curve.Curve"
 linktitle: "Curve"
 articleTitle: "Curve"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Curve class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Curve constructor. Initializes a new instance of the Curve class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/curve/curve/"

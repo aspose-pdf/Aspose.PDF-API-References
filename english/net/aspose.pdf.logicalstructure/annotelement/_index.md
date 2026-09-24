@@ -2,8 +2,8 @@
 title: "AnnotElement Class"
 linktitle: "AnnotElement"
 articleTitle: "AnnotElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Annot structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.AnnotElement class. Represents Annot structure element in logical structure."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/annotelement/"

@@ -2,8 +2,8 @@
 title: "TextPdfComparer.ComparePages"
 linktitle: "ComparePages"
 articleTitle: "ComparePages"
-second_title: "Aspose.PDF for .NET"
-description: "Compares document pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Compares document pages."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/textpdfcomparer/comparepages/"

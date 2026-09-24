@@ -2,8 +2,8 @@
 title: "AttributeOwnerStandard.Css_100"
 linktitle: "Css_100"
 articleTitle: "Css_100"
-second_title: "Aspose.PDF for .NET"
-description: "CSS-1.00 attribute owner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard field. CSS-1.00 attribute owner."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/css_100/"

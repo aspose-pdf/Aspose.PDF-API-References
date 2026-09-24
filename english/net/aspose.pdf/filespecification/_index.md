@@ -2,8 +2,8 @@
 title: "FileSpecification Class"
 linktitle: "FileSpecification"
 articleTitle: "FileSpecification"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing embedded file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FileSpecification class. Class representing embedded file."
 type: docs
 weight: 910
 url: "/net/aspose.pdf/filespecification/"

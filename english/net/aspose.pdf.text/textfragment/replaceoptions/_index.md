@@ -2,8 +2,8 @@
 title: "TextFragment.ReplaceOptions"
 linktitle: "ReplaceOptions"
 articleTitle: "ReplaceOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets text replace options. The options define behavior when fragment text is replaced to more short/long."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets text replace options. The options define behavior when fragment text is replaced to more short/long."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/textfragment/replaceoptions/"

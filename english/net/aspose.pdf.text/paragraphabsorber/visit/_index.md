@@ -2,8 +2,8 @@
 title: "ParagraphAbsorber.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Performs search for sections and paragraphs on the specified ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ParagraphAbsorber method. Performs search for sections and paragraphs on the specified ."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/paragraphabsorber/visit/"

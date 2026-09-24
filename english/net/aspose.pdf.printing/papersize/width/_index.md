@@ -2,8 +2,8 @@
 title: "PaperSize.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the width of the paper, in hundredths of an inch."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSize property. Gets or sets the width of the paper, in hundredths of an inch."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/papersize/width/"

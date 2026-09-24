@@ -2,8 +2,8 @@
 title: "PaperSizes.CSheet"
 linktitle: "CSheet"
 articleTitle: "CSheet"
-second_title: "Aspose.PDF for .NET"
-description: "C paper (17 in. by 22 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. C paper (17 in. by 22 in.)."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.printing/papersizes/csheet/"

@@ -2,8 +2,8 @@
 title: "TextStyle.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "String representation of TextStyle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle method. String representation of TextStyle."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/textstyle/tostring/"

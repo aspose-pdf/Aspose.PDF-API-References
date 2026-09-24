@@ -2,8 +2,8 @@
 title: "SoundSampleData Class"
 linktitle: "SoundSampleData"
 articleTitle: "SoundSampleData"
-second_title: "Aspose.PDF for .NET"
-description: "Represents additional entries specific to a sound object (Section 9.2 PDF1-7)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SoundSampleData class. Represents additional entries specific to a sound object (Section 9.2 PDF1-7)"
 type: docs
 weight: 1200
 url: "/net/aspose.pdf.annotations/soundsampledata/"

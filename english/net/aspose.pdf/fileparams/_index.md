@@ -2,8 +2,8 @@
 title: "FileParams Class"
 linktitle: "FileParams"
 articleTitle: "FileParams"
-second_title: "Aspose.PDF for .NET"
-description: "Defines an embedded file parameter dictionary that shall contain additional file-specific information."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FileParams class. Defines an embedded file parameter dictionary that shall contain additional file-specific information."
 type: docs
 weight: 900
 url: "/net/aspose.pdf/fileparams/"

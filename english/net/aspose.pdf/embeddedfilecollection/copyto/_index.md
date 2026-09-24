@@ -2,8 +2,8 @@
 title: "EmbeddedFileCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies array of FileSpecification object into colleciton."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmbeddedFileCollection method. Copies array of FileSpecification object into colleciton."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/embeddedfilecollection/copyto/"

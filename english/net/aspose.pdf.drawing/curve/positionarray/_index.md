@@ -2,8 +2,8 @@
 title: "Curve.PositionArray"
 linktitle: "PositionArray"
 articleTitle: "PositionArray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float position array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Curve property. Gets or sets a float position array."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/curve/positionarray/"

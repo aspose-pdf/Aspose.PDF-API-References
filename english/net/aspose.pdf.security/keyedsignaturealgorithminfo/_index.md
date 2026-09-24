@@ -2,8 +2,8 @@
 title: "KeyedSignatureAlgorithmInfo Class"
 linktitle: "KeyedSignatureAlgorithmInfo"
 articleTitle: "KeyedSignatureAlgorithmInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for information about a keyed signature algorithm."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.KeyedSignatureAlgorithmInfo class. Represents a class for information about a keyed signature algorithm."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.security/keyedsignaturealgorithminfo/"

@@ -2,8 +2,8 @@
 title: "AIClientBase.PollForCompletionAsync"
 linktitle: "PollForCompletionAsync"
 articleTitle: "PollForCompletionAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Polls for completion asynchronously with a specified request delegate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientBase method. Polls for completion asynchronously with a specified request delegate."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/aiclientbase/pollforcompletionasync/"

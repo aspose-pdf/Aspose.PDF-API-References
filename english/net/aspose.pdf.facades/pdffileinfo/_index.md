@@ -2,8 +2,8 @@
 title: "PdfFileInfo Class"
 linktitle: "PdfFileInfo"
 articleTitle: "PdfFileInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for accessing meta information of PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileInfo class. Represents a class for accessing meta information of PDF document."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/pdffileinfo/"

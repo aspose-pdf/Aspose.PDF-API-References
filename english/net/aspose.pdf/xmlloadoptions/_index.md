@@ -2,8 +2,8 @@
 title: "XmlLoadOptions Class"
 linktitle: "XmlLoadOptions"
 articleTitle: "XmlLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for loading/importing XML file into pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmlLoadOptions class. Represents options for loading/importing XML file into pdf document."
 type: docs
 weight: 3240
 url: "/net/aspose.pdf/xmlloadoptions/"

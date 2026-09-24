@@ -2,8 +2,8 @@
 title: "XpsSaveOptions.UseEmbeddedTrueTypeFonts"
 linktitle: "UseEmbeddedTrueTypeFonts"
 articleTitle: "UseEmbeddedTrueTypeFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the flag to use embedded TrueType fonts. Avoiding the use of embedded TrueType fonts can reduce conversion time."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XpsSaveOptions property. Gets/sets the flag to use embedded TrueType fonts. Avoiding the use of embedded TrueType fonts can reduce conversion time."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xpssaveoptions/useembeddedtruetypefonts/"

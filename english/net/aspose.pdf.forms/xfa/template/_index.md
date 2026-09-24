@@ -2,8 +2,8 @@
 title: "XFA.Template"
 linktitle: "Template"
 articleTitle: "Template"
-second_title: "Aspose.PDF for .NET"
-description: "XFA Template component of an XFA form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA property. XFA Template component of an XFA form."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/xfa/template/"

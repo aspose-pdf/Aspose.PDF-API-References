@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.Keys"
 linktitle: "Keys"
 articleTitle: "Keys"
-second_title: "Aspose.PDF for .NET"
-description: "Gets keys of the dictionary. If appearance dictionary has subditionaries, then contains (N|R|D).state values, where N - normal appearance, R - rollover appea..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary property. Gets keys of the dictionary. If appearance dictionary has subditionaries, then contains (N|R|D).state values, where N - normal..."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/appearancedictionary/keys/"

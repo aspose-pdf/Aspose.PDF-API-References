@@ -2,8 +2,8 @@
 title: "TextStamp.TextStamp"
 linktitle: "TextStamp"
 articleTitle: "TextStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextStamp class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp constructor. Initializes a new instance of the TextStamp class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/textstamp/textstamp/"

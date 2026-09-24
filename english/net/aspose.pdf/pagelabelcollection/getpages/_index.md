@@ -2,8 +2,8 @@
 title: "PageLabelCollection.GetPages"
 linktitle: "GetPages"
 articleTitle: "GetPages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets page indexes in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageLabelCollection method. Gets page indexes in collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pagelabelcollection/getpages/"

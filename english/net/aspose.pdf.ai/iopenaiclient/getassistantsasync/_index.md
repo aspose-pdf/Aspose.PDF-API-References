@@ -2,8 +2,8 @@
 title: "IOpenAIClient.GetAssistantsAsync"
 linktitle: "GetAssistantsAsync"
 articleTitle: "GetAssistantsAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves a list of assistants asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves a list of assistants asynchronously."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.ai/iopenaiclient/getassistantsasync/"

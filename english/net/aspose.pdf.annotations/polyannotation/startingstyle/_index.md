@@ -2,8 +2,8 @@
 title: "PolyAnnotation.StartingStyle"
 linktitle: "StartingStyle"
 articleTitle: "StartingStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the style of first line ending."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolyAnnotation property. Gets or sets the style of first line ending."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/polyannotation/startingstyle/"

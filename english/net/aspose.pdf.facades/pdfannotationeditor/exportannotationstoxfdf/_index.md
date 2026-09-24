@@ -2,8 +2,8 @@
 title: "PdfAnnotationEditor.ExportAnnotationsToXfdf"
 linktitle: "ExportAnnotationsToXfdf"
 articleTitle: "ExportAnnotationsToXfdf"
-second_title: "Aspose.PDF for .NET"
-description: "Exports annotations to stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Exports annotations to stream."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/"

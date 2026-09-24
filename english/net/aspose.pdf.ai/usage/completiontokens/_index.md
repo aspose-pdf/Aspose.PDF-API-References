@@ -2,8 +2,8 @@
 title: "Usage.CompletionTokens"
 linktitle: "CompletionTokens"
 articleTitle: "CompletionTokens"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets number of tokens in the generated completion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Usage property. Gets or sets number of tokens in the generated completion."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/usage/completiontokens/"

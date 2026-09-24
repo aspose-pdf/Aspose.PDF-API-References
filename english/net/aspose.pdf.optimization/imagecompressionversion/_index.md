@@ -2,8 +2,8 @@
 title: "ImageCompressionVersion Enum"
 linktitle: "ImageCompressionVersion"
 articleTitle: "ImageCompressionVersion"
-second_title: "Aspose.PDF for .NET"
-description: "Describes versions of image compression algorithm."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Optimization.ImageCompressionVersion enum. Describes versions of image compression algorithm."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.optimization/imagecompressionversion/"

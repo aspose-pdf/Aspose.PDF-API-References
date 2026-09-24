@@ -2,8 +2,8 @@
 title: "PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable"
 linktitle: "CMapEncodingTable"
 articleTitle: "CMapEncodingTable"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies encoding subtable via enumeration"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "QueueItem property. Specifies encoding subtable via enumeration"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable/"

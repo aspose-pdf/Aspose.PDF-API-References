@@ -2,8 +2,8 @@
 title: "LineInfo.LineInfo"
 linktitle: "LineInfo"
 articleTitle: "LineInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the LineInfo class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineInfo constructor. Initializes a new instance of the LineInfo class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/lineinfo/lineinfo/"

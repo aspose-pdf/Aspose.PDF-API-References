@@ -2,8 +2,8 @@
 title: "FileSpecification.Contents"
 linktitle: "Contents"
 articleTitle: "Contents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets contents file. This property returns data loaded in memory which may cause Out of memory exception for large data. To decrease memory usage plea..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets or sets contents file. This property returns data loaded in memory which may cause Out of memory exception for large data. T..."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/filespecification/contents/"

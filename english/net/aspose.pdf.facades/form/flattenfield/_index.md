@@ -2,8 +2,8 @@
 title: "Form.FlattenField"
 linktitle: "FlattenField"
 articleTitle: "FlattenField"
-second_title: "Aspose.PDF for .NET"
-description: "Flattens a specified field with the fully qualified field name. Any other field will remain unchangable. If the fieldName is invalid, all the fields will rem..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Flattens a specified field with the fully qualified field name. Any other field will remain unchangable. If the fieldName is invalid, all the fi..."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/form/flattenfield/"

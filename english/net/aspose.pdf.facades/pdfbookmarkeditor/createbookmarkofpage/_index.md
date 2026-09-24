@@ -2,8 +2,8 @@
 title: "PdfBookmarkEditor.CreateBookmarkOfPage"
 linktitle: "CreateBookmarkOfPage"
 articleTitle: "CreateBookmarkOfPage"
-second_title: "Aspose.PDF for .NET"
-description: "Creates bookmark for the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Creates bookmark for the specified page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/"

@@ -2,8 +2,8 @@
 title: "Color.PatternColorSpace"
 linktitle: "PatternColorSpace"
 articleTitle: "PatternColorSpace"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a object that indicates the pattern colorspace."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Represents a object that indicates the pattern colorspace."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/color/patterncolorspace/"

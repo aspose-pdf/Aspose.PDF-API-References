@@ -2,8 +2,8 @@
 title: "Artifact.SetLinesAndState"
 linktitle: "SetLinesAndState"
 articleTitle: "SetLinesAndState"
-second_title: "Aspose.PDF for .NET"
-description: "Set text and text properties of the artifact. Allows to specify multiple lines."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Set text and text properties of the artifact. Allows to specify multiple lines."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/artifact/setlinesandstate/"

@@ -2,8 +2,8 @@
 title: "ICosPdfPrimitive Interface"
 linktitle: "ICosPdfPrimitive"
 articleTitle: "ICosPdfPrimitive"
-second_title: "Aspose.PDF for .NET"
-description: "Interface for work with PDF data entity"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DataEditor.ICosPdfPrimitive interface. Interface for work with PDF data entity"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.dataeditor/icospdfprimitive/"

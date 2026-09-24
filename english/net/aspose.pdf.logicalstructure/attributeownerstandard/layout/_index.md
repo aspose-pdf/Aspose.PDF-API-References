@@ -2,8 +2,8 @@
 title: "AttributeOwnerStandard.Layout"
 linktitle: "Layout"
 articleTitle: "Layout"
-second_title: "Aspose.PDF for .NET"
-description: "Layout attribute owner."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard field. Layout attribute owner."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/layout/"

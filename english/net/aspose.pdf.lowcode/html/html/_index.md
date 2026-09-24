@@ -2,8 +2,8 @@
 title: "Html.Html"
 linktitle: "Html"
 articleTitle: "Html"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Html class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Html constructor. Initializes a new instance of the Html class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/html/html/"

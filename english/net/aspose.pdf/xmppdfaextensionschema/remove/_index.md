@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes the object from schema."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema method. Removes the object from schema."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xmppdfaextensionschema/remove/"

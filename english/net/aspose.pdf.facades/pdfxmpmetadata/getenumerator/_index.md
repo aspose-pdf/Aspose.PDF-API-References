@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.GetEnumerator"
 linktitle: "GetEnumerator"
 articleTitle: "GetEnumerator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets enumerator object of the dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Gets enumerator object of the dictionary."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/getenumerator/"

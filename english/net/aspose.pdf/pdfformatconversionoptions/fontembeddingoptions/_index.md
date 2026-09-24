@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.FontEmbeddingOptions"
 linktitle: "FontEmbeddingOptions"
 articleTitle: "FontEmbeddingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Options for cases when it's not possible to embed some fonts into PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Options for cases when it's not possible to embed some fonts into PDF document."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/"

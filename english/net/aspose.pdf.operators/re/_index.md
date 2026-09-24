@@ -2,8 +2,8 @@
 title: "Re Class"
 linktitle: "Re"
 articleTitle: "Re"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing re operator (add rectangle to the path)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.Re class. Class representing re operator (add rectangle to the path)."
 type: docs
 weight: 460
 url: "/net/aspose.pdf.operators/re/"

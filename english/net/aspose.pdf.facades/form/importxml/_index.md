@@ -2,8 +2,8 @@
 title: "Form.ImportXml"
 linktitle: "ImportXml"
 articleTitle: "ImportXml"
-second_title: "Aspose.PDF for .NET"
-description: "Imports the content of the fields from the xml file and put them into the new pdf."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Imports the content of the fields from the xml file and put them into the new pdf."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/form/importxml/"

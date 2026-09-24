@@ -2,8 +2,8 @@
 title: "AttributeName.ListNumbering_Disc"
 linktitle: "ListNumbering_Disc"
 articleTitle: "ListNumbering_Disc"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute ListNumbering: Disc - Solid circular bullet."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute ListNumbering: Disc - Solid circular bullet."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_disc/"

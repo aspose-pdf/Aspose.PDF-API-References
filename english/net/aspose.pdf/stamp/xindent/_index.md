@@ -2,8 +2,8 @@
 title: "Stamp.XIndent"
 linktitle: "XIndent"
 articleTitle: "XIndent"
-second_title: "Aspose.PDF for .NET"
-description: "Horizontal stamp coordinate, starting from the left."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Horizontal stamp coordinate, starting from the left."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/stamp/xindent/"

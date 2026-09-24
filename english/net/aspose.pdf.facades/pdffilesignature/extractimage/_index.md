@@ -2,8 +2,8 @@
 title: "PdfFileSignature.ExtractImage"
 linktitle: "ExtractImage"
 articleTitle: "ExtractImage"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts signature's image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Extracts signature's image."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.facades/pdffilesignature/extractimage/"

@@ -2,8 +2,8 @@
 title: "Document.Optimize"
 linktitle: "Optimize"
 articleTitle: "Optimize"
-second_title: "Aspose.PDF for .NET"
-description: "Linearize the document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possibl..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Linearize the document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as q..."
 type: docs
 weight: 670
 url: "/net/aspose.pdf/document/optimize/"

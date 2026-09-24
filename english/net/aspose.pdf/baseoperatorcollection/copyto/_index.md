@@ -2,8 +2,8 @@
 title: "BaseOperatorCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies operators into operators list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection method. Copies operators into operators list."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/baseoperatorcollection/copyto/"

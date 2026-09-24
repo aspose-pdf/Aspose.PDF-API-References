@@ -2,8 +2,8 @@
 title: "DocumentChunk.DocumentChunk"
 linktitle: "DocumentChunk"
 articleTitle: "DocumentChunk"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the DocumentChunk class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk constructor. Initializes a new instance of the DocumentChunk class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/documentchunk/documentchunk/"

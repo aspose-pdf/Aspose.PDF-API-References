@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.Solid"
 linktitle: "Solid"
 articleTitle: "Solid"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Solid\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"Solid\" render mode."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/pdf3drendermode/solid/"

@@ -2,8 +2,8 @@
 title: "GoToRemoteAction.File"
 linktitle: "File"
 articleTitle: "File"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the specification of the file in which the destination is located."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GoToRemoteAction property. Gets or sets the specification of the file in which the destination is located."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/gotoremoteaction/file/"

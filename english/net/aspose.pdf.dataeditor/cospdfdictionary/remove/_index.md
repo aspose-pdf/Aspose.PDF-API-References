@@ -2,8 +2,8 @@
 title: "CosPdfDictionary.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes the element with the specified key from the ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary method. Removes the element with the specified key from the ."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/remove/"

@@ -2,8 +2,8 @@
 title: "PdfFileInfo.GetPageWidth"
 linktitle: "GetPageWidth"
 articleTitle: "GetPageWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the width of the specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Gets the width of the specified page."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdffileinfo/getpagewidth/"

@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.EncryptPermissions"
 linktitle: "EncryptPermissions"
 articleTitle: "EncryptPermissions"
-second_title: "Aspose.PDF for .NET"
-description: "Encrypt the document's permissions field. The result will be written to the Perms encryption dictionary field. When opening a document, the value can be obta..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Encrypt the document's permissions field. The result will be written to the Perms encryption dictionary field. When opening a ..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/icustomsecurityhandler/encryptpermissions/"

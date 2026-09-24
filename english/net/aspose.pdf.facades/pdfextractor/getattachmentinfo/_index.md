@@ -2,8 +2,8 @@
 title: "PdfExtractor.GetAttachmentInfo"
 linktitle: "GetAttachmentInfo"
 articleTitle: "GetAttachmentInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the list of attachments."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Gets the list of attachments."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/"

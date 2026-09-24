@@ -2,8 +2,8 @@
 title: "LaTeXSaveOptions Class"
 linktitle: "LaTeXSaveOptions"
 articleTitle: "LaTeXSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Save options for export to TeX format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LaTeXSaveOptions class. Save options for export to TeX format."
 type: docs
 weight: 1690
 url: "/net/aspose.pdf/latexsaveoptions/"

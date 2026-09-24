@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the title for this outline item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets or sets the title for this outline item."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/outlineitemcollection/title/"

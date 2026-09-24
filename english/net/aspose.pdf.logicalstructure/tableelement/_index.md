@@ -2,8 +2,8 @@
 title: "TableElement Class"
 linktitle: "TableElement"
 articleTitle: "TableElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Table structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.TableElement class. Represents Table structure element in logical structure."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.logicalstructure/tableelement/"

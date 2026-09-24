@@ -2,8 +2,8 @@
 title: "OcrTextAbsorber Class"
 linktitle: "OcrTextAbsorber"
 articleTitle: "OcrTextAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts plain text from PDF pages using OCR over the rendered page bitmap."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Ocr.OcrTextAbsorber class. Extracts plain text from PDF pages using OCR over the rendered page bitmap."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/"

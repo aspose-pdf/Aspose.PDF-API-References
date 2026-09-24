@@ -2,8 +2,8 @@
 title: "SubmitFormAction.CanonicalFormat"
 linktitle: "CanonicalFormat"
 articleTitle: "CanonicalFormat"
-second_title: "Aspose.PDF for .NET"
-description: "If set, any submitted field values representing dates shall be converted to the standard format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If set, any submitted field values representing dates shall be converted to the standard format."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/submitformaction/canonicalformat/"

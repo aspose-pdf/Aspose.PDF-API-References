@@ -2,8 +2,8 @@
 title: "PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue"
 linktitle: "CmapEncodingTablesPriorityQueue"
 articleTitle: "CmapEncodingTablesPriorityQueue"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies queue of encoding subtables to process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfASymbolicFontEncodingStrategy property. Specifies queue of encoding subtables to process."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/"

@@ -2,8 +2,8 @@
 title: "RadioButtonField.AddOption"
 linktitle: "AddOption"
 articleTitle: "AddOption"
-second_title: "Aspose.PDF for .NET"
-description: "Add to radio button option with specifed rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField method. Add to radio button option with specifed rectangle."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/radiobuttonfield/addoption/"

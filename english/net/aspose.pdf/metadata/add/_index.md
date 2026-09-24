@@ -2,8 +2,8 @@
 title: "Metadata.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds value to metadata."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Adds value to metadata."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/metadata/add/"

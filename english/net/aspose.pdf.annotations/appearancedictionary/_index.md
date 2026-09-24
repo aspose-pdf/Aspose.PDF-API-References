@@ -2,8 +2,8 @@
 title: "AppearanceDictionary Class"
 linktitle: "AppearanceDictionary"
 articleTitle: "AppearanceDictionary"
-second_title: "Aspose.PDF for .NET"
-description: "Annotation appearance dictionary specifying how the annotation shall be presented visually on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.AppearanceDictionary class. Annotation appearance dictionary specifying how the annotation shall be presented visually on the page."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/appearancedictionary/"

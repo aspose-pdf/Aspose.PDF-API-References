@@ -2,8 +2,8 @@
 title: "PaperSource Class"
 linktitle: "PaperSource"
 articleTitle: "PaperSource"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies the paper tray from which the printer gets paper."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PaperSource class. Specifies the paper tray from which the printer gets paper."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.printing/papersource/"

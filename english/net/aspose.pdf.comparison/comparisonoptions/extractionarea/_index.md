@@ -2,8 +2,8 @@
 title: "ComparisonOptions.ExtractionArea"
 linktitle: "ExtractionArea"
 articleTitle: "ExtractionArea"
-second_title: "Aspose.PDF for .NET"
-description: "Get and set the rectangular area in which the text of pages will be compared. This option can't be setted along with , and options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComparisonOptions property. Get and set the rectangular area in which the text of pages will be compared. This option can't be setted along with , and options."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/comparisonoptions/extractionarea/"

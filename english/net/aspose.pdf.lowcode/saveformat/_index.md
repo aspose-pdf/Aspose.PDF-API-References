@@ -2,8 +2,8 @@
 title: "SaveFormat Enum"
 linktitle: "SaveFormat"
 articleTitle: "SaveFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to specify .doc or .docx file format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.SaveFormat enum. Allows to specify .doc or .docx file format."
 type: docs
 weight: 810
 url: "/net/aspose.pdf.lowcode/saveformat/"

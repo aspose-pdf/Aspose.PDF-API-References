@@ -2,8 +2,8 @@
 title: "HtmlFragment.TextState"
 linktitle: "TextState"
 articleTitle: "TextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets font"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlFragment property. Gets or sets font"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/htmlfragment/textstate/"

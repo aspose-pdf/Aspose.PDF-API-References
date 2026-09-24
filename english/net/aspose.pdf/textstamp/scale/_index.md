@@ -2,8 +2,8 @@
 title: "TextStamp.Scale"
 linktitle: "Scale"
 articleTitle: "Scale"
-second_title: "Aspose.PDF for .NET"
-description: "Defines scaling of the text. If this property is set to true and Width value specified, text will be scaled in order to fit to specified width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp property. Defines scaling of the text. If this property is set to true and Width value specified, text will be scaled in order to fit to specified ..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/textstamp/scale/"

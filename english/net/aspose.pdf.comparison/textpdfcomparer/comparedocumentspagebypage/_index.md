@@ -2,8 +2,8 @@
 title: "TextPdfComparer.CompareDocumentsPageByPage"
 linktitle: "CompareDocumentsPageByPage"
 articleTitle: "CompareDocumentsPageByPage"
-second_title: "Aspose.PDF for .NET"
-description: "Compares two documents page by page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Compares two documents page by page."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/"

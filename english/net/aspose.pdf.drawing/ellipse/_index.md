@@ -2,8 +2,8 @@
 title: "Ellipse Class"
 linktitle: "Ellipse"
 articleTitle: "Ellipse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents ellipse."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.Ellipse class. Represents ellipse."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/ellipse/"

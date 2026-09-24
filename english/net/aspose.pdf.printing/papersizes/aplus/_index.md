@@ -2,8 +2,8 @@
 title: "PaperSizes.APlus"
 linktitle: "APlus"
 articleTitle: "APlus"
-second_title: "Aspose.PDF for .NET"
-description: "SuperA/SuperA/A4 paper (227 mm by 356 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. SuperA/SuperA/A4 paper (227 mm by 356 mm)."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.printing/papersizes/aplus/"

@@ -2,8 +2,8 @@
 title: "PaperSizes.Standard11x17"
 linktitle: "Standard11x17"
 articleTitle: "Standard11x17"
-second_title: "Aspose.PDF for .NET"
-description: "Standard paper (11 in. by 17 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Standard paper (11 in. by 17 in.)."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.printing/papersizes/standard11x17/"

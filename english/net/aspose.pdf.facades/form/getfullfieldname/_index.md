@@ -2,8 +2,8 @@
 title: "Form.GetFullFieldName"
 linktitle: "GetFullFieldName"
 articleTitle: "GetFullFieldName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the full field name according to its short field name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Gets the full field name according to its short field name."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/form/getfullfieldname/"

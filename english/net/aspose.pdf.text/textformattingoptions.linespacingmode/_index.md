@@ -2,8 +2,8 @@
 title: "TextFormattingOptions.LineSpacingMode Enum"
 linktitle: "TextFormattingOptions.LineSpacingMode"
 articleTitle: "TextFormattingOptions.LineSpacingMode"
-second_title: "Aspose.PDF for .NET"
-description: "Defines line spacing specifics"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextFormattingOptions.LineSpacingMode enum. Defines line spacing specifics"
 type: docs
 weight: 530
 url: "/net/aspose.pdf.text/textformattingoptions.linespacingmode/"

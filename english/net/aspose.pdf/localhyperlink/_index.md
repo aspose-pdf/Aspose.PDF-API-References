@@ -2,8 +2,8 @@
 title: "LocalHyperlink Class"
 linktitle: "LocalHyperlink"
 articleTitle: "LocalHyperlink"
-second_title: "Aspose.PDF for .NET"
-description: "Represents local hyperlink object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LocalHyperlink class. Represents local hyperlink object."
 type: docs
 weight: 1840
 url: "/net/aspose.pdf/localhyperlink/"

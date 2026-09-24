@@ -2,8 +2,8 @@
 title: "PptxSaveOptions.PptxSaveOptions"
 linktitle: "PptxSaveOptions"
 articleTitle: "PptxSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PptxSaveOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PptxSaveOptions constructor. Initializes a new instance of the PptxSaveOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pptxsaveoptions/pptxsaveoptions/"

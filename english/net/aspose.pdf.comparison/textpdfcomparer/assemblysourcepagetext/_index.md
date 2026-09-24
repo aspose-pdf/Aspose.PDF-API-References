@@ -2,8 +2,8 @@
 title: "TextPdfComparer.AssemblySourcePageText"
 linktitle: "AssemblySourcePageText"
 articleTitle: "AssemblySourcePageText"
-second_title: "Aspose.PDF for .NET"
-description: "Restores the original text from the list of changes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Restores the original text from the list of changes."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/"

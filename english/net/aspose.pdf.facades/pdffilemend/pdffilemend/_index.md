@@ -2,8 +2,8 @@
 title: "PdfFileMend.PdfFileMend"
 linktitle: "PdfFileMend"
 articleTitle: "PdfFileMend"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfFileMend class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend constructor. Initializes a new instance of the PdfFileMend class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilemend/pdffilemend/"

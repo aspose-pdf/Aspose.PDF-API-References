@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateCustomActionLink"
 linktitle: "CreateCustomActionLink"
 articleTitle: "CreateCustomActionLink"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a link to custom actions in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a link to custom actions in PDF document."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/"

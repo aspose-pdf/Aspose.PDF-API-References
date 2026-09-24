@@ -2,8 +2,8 @@
 title: "OcrDetail.Success"
 linktitle: "Success"
 articleTitle: "Success"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the OCR extraction for this specific page was successful."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrDetail property. Indicates whether the OCR extraction for this specific page was successful."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/ocrdetail/success/"

@@ -2,8 +2,8 @@
 title: "BorderInfo.Bottom"
 linktitle: "Bottom"
 articleTitle: "Bottom"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a object that indicates bottom of the border."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderInfo property. Gets or sets a object that indicates bottom of the border."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/borderinfo/bottom/"

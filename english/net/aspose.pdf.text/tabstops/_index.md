@@ -2,8 +2,8 @@
 title: "TabStops Class"
 linktitle: "TabStops"
 articleTitle: "TabStops"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a collection of objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TabStops class. Represents a collection of objects."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.text/tabstops/"

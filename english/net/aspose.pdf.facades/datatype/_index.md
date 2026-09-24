@@ -2,8 +2,8 @@
 title: "DataType Enum"
 linktitle: "DataType"
 articleTitle: "DataType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates field types definitions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.DataType enum. Enumerates field types definitions."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/datatype/"

@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.Hard"
 linktitle: "Hard"
 articleTitle: "Hard"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Hard\" lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Hard\" lighting scheme."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/hard/"

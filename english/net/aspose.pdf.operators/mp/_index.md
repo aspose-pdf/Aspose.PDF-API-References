@@ -2,8 +2,8 @@
 title: "MP Class"
 linktitle: "MP"
 articleTitle: "MP"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing MP operator (define marked-content point)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.MP class. Class representing MP operator (define marked-content point)."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.operators/mp/"

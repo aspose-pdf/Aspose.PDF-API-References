@@ -2,8 +2,8 @@
 title: "ImageMergeMode Enum"
 linktitle: "ImageMergeMode"
 articleTitle: "ImageMergeMode"
-second_title: "Aspose.PDF for .NET"
-description: "Represents modes for merging images."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.ImageMergeMode enum. Represents modes for merging images."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/imagemergemode/"

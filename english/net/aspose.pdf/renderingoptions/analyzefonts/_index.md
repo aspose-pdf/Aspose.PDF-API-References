@@ -2,8 +2,8 @@
 title: "RenderingOptions.AnalyzeFonts"
 linktitle: "AnalyzeFonts"
 articleTitle: "AnalyzeFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Replaces fonts as necessary to ensure all characters in the text can be displayed. The font substitution algorithm follows these steps: 1. If the user explic..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Replaces fonts as necessary to ensure all characters in the text can be displayed. The font substitution algorithm follows these s..."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/renderingoptions/analyzefonts/"

@@ -2,8 +2,8 @@
 title: "AbsorbedCell.TextFragments"
 linktitle: "TextFragments"
 articleTitle: "TextFragments"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of objects that describes text containing in the cell"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedCell property. Gets collection of objects that describes text containing in the cell"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/absorbedcell/textfragments/"

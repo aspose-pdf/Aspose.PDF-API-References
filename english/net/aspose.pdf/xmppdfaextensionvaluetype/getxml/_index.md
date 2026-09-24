@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionValueType.GetXml"
 linktitle: "GetXml"
 articleTitle: "GetXml"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the list of xml elements that represent value type in xml tree."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionValueType method. Returns the list of xml elements that represent value type in xml tree."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/getxml/"

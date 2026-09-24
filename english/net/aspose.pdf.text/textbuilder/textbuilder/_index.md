@@ -2,8 +2,8 @@
 title: "TextBuilder.TextBuilder"
 linktitle: "TextBuilder"
 articleTitle: "TextBuilder"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextBuilder class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBuilder constructor. Initializes a new instance of the TextBuilder class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textbuilder/textbuilder/"

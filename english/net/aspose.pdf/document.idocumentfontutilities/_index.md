@@ -2,8 +2,8 @@
 title: "Document.IDocumentFontUtilities Interface"
 linktitle: "Document.IDocumentFontUtilities"
 articleTitle: "Document.IDocumentFontUtilities"
-second_title: "Aspose.PDF for .NET"
-description: "Holds functionality to tune fonts"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Document.IDocumentFontUtilities interface. Holds functionality to tune fonts"
 type: docs
 weight: 650
 url: "/net/aspose.pdf/document.idocumentfontutilities/"

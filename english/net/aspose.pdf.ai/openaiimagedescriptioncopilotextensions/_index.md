@@ -2,8 +2,8 @@
 title: "OpenAIImageDescriptionCopilotExtensions Class"
 linktitle: "OpenAIImageDescriptionCopilotExtensions"
 articleTitle: "OpenAIImageDescriptionCopilotExtensions"
-second_title: "Aspose.PDF for .NET"
-description: "Provides extension methods for OpenAIImageDescriptionCopilot class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions class. Provides extension methods for OpenAIImageDescriptionCopilot class."
 type: docs
 weight: 950
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/"

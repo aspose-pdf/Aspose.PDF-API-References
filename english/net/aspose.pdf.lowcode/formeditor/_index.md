@@ -2,8 +2,8 @@
 title: "FormEditor Class"
 linktitle: "FormEditor"
 articleTitle: "FormEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents FormEditor plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormEditor class. Represents FormEditor plugin."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.lowcode/formeditor/"

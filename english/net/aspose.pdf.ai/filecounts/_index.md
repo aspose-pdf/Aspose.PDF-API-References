@@ -2,8 +2,8 @@
 title: "FileCounts Class"
 linktitle: "FileCounts"
 articleTitle: "FileCounts"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.FileCounts class."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.ai/filecounts/"

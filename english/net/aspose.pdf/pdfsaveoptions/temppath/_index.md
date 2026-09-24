@@ -2,8 +2,8 @@
 title: "PdfSaveOptions.TempPath"
 linktitle: "TempPath"
 articleTitle: "TempPath"
-second_title: "Aspose.PDF for .NET"
-description: "Path for temporary files."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfSaveOptions property. Path for temporary files."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pdfsaveoptions/temppath/"

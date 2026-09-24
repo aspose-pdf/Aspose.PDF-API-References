@@ -2,8 +2,8 @@
 title: "Choice Class"
 linktitle: "Choice"
 articleTitle: "Choice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a choice in a chat completion response."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Choice class. Represents a choice in a chat completion response."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.ai/choice/"

@@ -2,8 +2,8 @@
 title: "UnsignedContentAbsorber.Result.Coverage"
 linktitle: "Coverage"
 articleTitle: "Coverage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating the extent to which the document is covered by valid digital signatures."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Result property. Gets a value indicating the extent to which the document is covered by valid digital signatures."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/coverage/"

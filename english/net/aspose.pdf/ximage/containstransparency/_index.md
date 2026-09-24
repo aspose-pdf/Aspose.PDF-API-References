@@ -2,8 +2,8 @@
 title: "XImage.ContainsTransparency"
 linktitle: "ContainsTransparency"
 articleTitle: "ContainsTransparency"
-second_title: "Aspose.PDF for .NET"
-description: "If the image contains transparancy than return true; otherwise, false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage property. If the image contains transparancy than return true; otherwise, false."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/ximage/containstransparency/"

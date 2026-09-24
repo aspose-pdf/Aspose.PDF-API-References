@@ -2,8 +2,8 @@
 title: "AttributeName.TextAlign_End"
 linktitle: "TextAlign_End"
 articleTitle: "TextAlign_End"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute TextAlign: End - Aligned with the end edge."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute TextAlign: End - Aligned with the end edge."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.logicalstructure/attributename/textalign_end/"

@@ -2,8 +2,8 @@
 title: "PrinterSettings.FromPage"
 linktitle: "FromPage"
 articleTitle: "FromPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the first page to print."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the first page to print."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/printersettings/frompage/"

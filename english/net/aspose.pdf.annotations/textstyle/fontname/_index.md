@@ -2,8 +2,8 @@
 title: "TextStyle.FontName"
 linktitle: "FontName"
 articleTitle: "FontName"
-second_title: "Aspose.PDF for .NET"
-description: "Name of the font."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle property. Name of the font."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/textstyle/fontname/"

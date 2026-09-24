@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.Primary"
 linktitle: "Primary"
 articleTitle: "Primary"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Primary\" lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Primary\" lighting scheme."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/primary/"

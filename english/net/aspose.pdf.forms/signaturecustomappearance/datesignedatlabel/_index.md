@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.DateSignedAtLabel"
 linktitle: "DateSignedAtLabel"
 articleTitle: "DateSignedAtLabel"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets date signed label. Default value: \"Date\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets date signed label. Default value: \"Date\"."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/"

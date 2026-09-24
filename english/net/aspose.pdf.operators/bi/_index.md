@@ -2,8 +2,8 @@
 title: "BI Class"
 linktitle: "BI"
 articleTitle: "BI"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing BI operator (Begin inline image obect)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.BI class. Class representing BI operator (Begin inline image obect)."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/bi/"

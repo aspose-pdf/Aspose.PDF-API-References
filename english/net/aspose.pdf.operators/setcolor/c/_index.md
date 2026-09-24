@@ -2,8 +2,8 @@
 title: "SetColor.C"
 linktitle: "C"
 articleTitle: "C"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the cyan component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColor property. Gets or sets the cyan component."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/setcolor/c/"

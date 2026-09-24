@@ -2,8 +2,8 @@
 title: "GraphicElement.SaveToSvg"
 linktitle: "SaveToSvg"
 articleTitle: "SaveToSvg"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the element into a single SVG image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElement method. Converts the element into a single SVG image."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.vector/graphicelement/savetosvg/"

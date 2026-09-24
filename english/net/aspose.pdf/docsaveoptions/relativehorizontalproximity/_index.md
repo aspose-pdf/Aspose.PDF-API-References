@@ -2,8 +2,8 @@
 title: "DocSaveOptions.RelativeHorizontalProximity"
 linktitle: "RelativeHorizontalProximity"
 articleTitle: "RelativeHorizontalProximity"
-second_title: "Aspose.PDF for .NET"
-description: "In Pdf words may be innerly represented with operators that prints words by independently printing their letters or syllables. So, to detect words sometimes ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocSaveOptions property. In Pdf words may be innerly represented with operators that prints words by independently printing their letters or syllables. So, t..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/docsaveoptions/relativehorizontalproximity/"

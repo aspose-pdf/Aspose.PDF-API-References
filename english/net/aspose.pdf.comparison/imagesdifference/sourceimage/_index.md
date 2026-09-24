@@ -2,8 +2,8 @@
 title: "ImagesDifference.SourceImage"
 linktitle: "SourceImage"
 articleTitle: "SourceImage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the image of first compared page. The image has a pixel format is 24bpp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagesDifference property. Gets the image of first compared page. The image has a pixel format is 24bpp."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/imagesdifference/sourceimage/"

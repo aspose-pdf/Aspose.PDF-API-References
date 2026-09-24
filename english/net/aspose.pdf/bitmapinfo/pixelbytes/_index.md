@@ -2,8 +2,8 @@
 title: "BitmapInfo.PixelBytes"
 linktitle: "PixelBytes"
 articleTitle: "PixelBytes"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the array of pixels."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BitmapInfo property. Gets the array of pixels."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/bitmapinfo/pixelbytes/"

@@ -2,8 +2,8 @@
 title: "Field.IsGroup"
 linktitle: "IsGroup"
 articleTitle: "IsGroup"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets boolean value which indicates is this field non-terminal field i.e. group of fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Gets or sets boolean value which indicates is this field non-terminal field i.e. group of fields."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.forms/field/isgroup/"

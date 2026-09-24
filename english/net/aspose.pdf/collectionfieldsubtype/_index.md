@@ -2,8 +2,8 @@
 title: "CollectionFieldSubtype Enum"
 linktitle: "CollectionFieldSubtype"
 articleTitle: "CollectionFieldSubtype"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the subtype parameter of a field in a sceme collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CollectionFieldSubtype enum. Represents the subtype parameter of a field in a sceme collection."
 type: docs
 weight: 330
 url: "/net/aspose.pdf/collectionfieldsubtype/"

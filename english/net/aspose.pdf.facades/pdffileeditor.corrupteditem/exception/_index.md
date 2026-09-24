@@ -2,8 +2,8 @@
 title: "PdfFileEditor.CorruptedItem.Exception"
 linktitle: "Exception"
 articleTitle: "Exception"
-second_title: "Aspose.PDF for .NET"
-description: "Exception thrown for this file which indicates problem with the file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CorruptedItem property. Exception thrown for this file which indicates problem with the file."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdffileeditor.corrupteditem/exception/"

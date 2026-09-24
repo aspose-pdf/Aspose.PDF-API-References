@@ -2,8 +2,8 @@
 title: "ResultContainer Class"
 linktitle: "ResultContainer"
 articleTitle: "ResultContainer"
-second_title: "Aspose.PDF for .NET"
-description: "Represents container that contains the result collection of processing the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.ResultContainer class. Represents container that contains the result collection of processing the plugin."
 type: docs
 weight: 790
 url: "/net/aspose.pdf.lowcode/resultcontainer/"

@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.WriteXfdfAttributes"
 linktitle: "WriteXfdfAttributes"
 articleTitle: "WriteXfdfAttributes"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/freetextannotation/writexfdfattributes/"

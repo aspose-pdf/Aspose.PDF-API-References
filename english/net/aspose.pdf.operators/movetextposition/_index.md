@@ -2,8 +2,8 @@
 title: "MoveTextPosition Class"
 linktitle: "MoveTextPosition"
 articleTitle: "MoveTextPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing Td operator (move text position)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.MoveTextPosition class. Class representing Td operator (move text position)."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.operators/movetextposition/"

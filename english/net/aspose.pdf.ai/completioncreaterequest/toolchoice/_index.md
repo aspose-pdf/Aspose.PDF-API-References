@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.ToolChoice"
 linktitle: "ToolChoice"
 articleTitle: "ToolChoice"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an object that controls which (if any) tool is called by the model. none means the model will not call any tool and instead generates a message...."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets an object that controls which (if any) tool is called by the model. none means the model will not call any too..."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/completioncreaterequest/toolchoice/"

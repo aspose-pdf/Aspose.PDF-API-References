@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions.RemoveSearchIndexAndPrivateInfo"
 linktitle: "RemoveSearchIndexAndPrivateInfo"
 articleTitle: "RemoveSearchIndexAndPrivateInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether the search index and private information should be removed from the document. Enables the removal of embedded search ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizationOptions property. Gets or sets a value indicating whether the search index and private information should be removed from the document...."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/removesearchindexandprivateinfo/"

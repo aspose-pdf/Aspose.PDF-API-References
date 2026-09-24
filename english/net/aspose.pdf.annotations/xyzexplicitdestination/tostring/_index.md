@@ -2,8 +2,8 @@
 title: "XYZExplicitDestination.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the object state into string value. Example: \"1 XYZ 100 200 3\"."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination method. Converts the object state into string value. Example: \"1 XYZ 100 200 3\"."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/tostring/"

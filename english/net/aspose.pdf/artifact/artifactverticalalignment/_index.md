@@ -2,8 +2,8 @@
 title: "Artifact.ArtifactVerticalAlignment"
 linktitle: "ArtifactVerticalAlignment"
 articleTitle: "ArtifactVerticalAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored."
 type: docs
 weight: 290
 url: "/net/aspose.pdf/artifact/artifactverticalalignment/"

@@ -2,8 +2,8 @@
 title: "PdfProducer Class"
 linktitle: "PdfProducer"
 articleTitle: "PdfProducer"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to produce PDF from other formats. This sample shows how to produce Pdf file from CGM file. string inputFile = \"myImage.cgm\"; string outpu..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfProducer class. Represents a class to produce PDF from other formats. This sample shows how to produce Pdf file from CGM file. string i..."
 type: docs
 weight: 500
 url: "/net/aspose.pdf.facades/pdfproducer/"

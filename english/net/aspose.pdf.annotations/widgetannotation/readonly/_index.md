@@ -2,8 +2,8 @@
 title: "WidgetAnnotation.ReadOnly"
 linktitle: "ReadOnly"
 articleTitle: "ReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets read only status of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation property. Gets or sets read only status of the field."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/widgetannotation/readonly/"

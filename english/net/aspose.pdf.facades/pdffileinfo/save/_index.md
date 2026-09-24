@@ -2,8 +2,8 @@
 title: "PdfFileInfo.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves the PDF document to the specified file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Saves the PDF document to the specified file."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdffileinfo/save/"

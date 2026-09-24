@@ -2,8 +2,8 @@
 title: "FontSubstitutionCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSubstitutionCollection method. Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/copyto/"

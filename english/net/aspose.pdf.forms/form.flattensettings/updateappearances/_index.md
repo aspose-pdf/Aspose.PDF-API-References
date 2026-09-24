@@ -2,8 +2,8 @@
 title: "Form.FlattenSettings.UpdateAppearances"
 linktitle: "UpdateAppearances"
 articleTitle: "UpdateAppearances"
-second_title: "Aspose.PDF for .NET"
-description: "If set, all field appearances will be regenerated before flattening. This option may help if field is incorrectly flattened. This option may decrease perform..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FlattenSettings property. If set, all field appearances will be regenerated before flattening. This option may help if field is incorrectly flattened. This o..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/form.flattensettings/updateappearances/"

@@ -2,8 +2,8 @@
 title: "Optimizer Class"
 linktitle: "Optimizer"
 articleTitle: "Optimizer"
-second_title: "Aspose.PDF for .NET"
-description: "Represents plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Optimizer class. Represents plugin."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.lowcode/optimizer/"

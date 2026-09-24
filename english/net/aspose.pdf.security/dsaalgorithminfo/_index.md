@@ -2,8 +2,8 @@
 title: "DsaAlgorithmInfo Class"
 linktitle: "DsaAlgorithmInfo"
 articleTitle: "DsaAlgorithmInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for the information about the DSA signature algorithm."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.DsaAlgorithmInfo class. Represents a class for the information about the DSA signature algorithm."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/dsaalgorithminfo/"

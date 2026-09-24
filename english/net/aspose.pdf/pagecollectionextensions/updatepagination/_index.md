@@ -2,8 +2,8 @@
 title: "PageCollectionExtensions.UpdatePagination"
 linktitle: "UpdatePagination"
 articleTitle: "UpdatePagination"
-second_title: "Aspose.PDF for .NET"
-description: "Updates the header and footer page numbers and dates for all pages. This will work if the document has at least one pagination artifact with special settings..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollectionExtensions method. Updates the header and footer page numbers and dates for all pages. This will work if the document has at least one paginati..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagecollectionextensions/updatepagination/"

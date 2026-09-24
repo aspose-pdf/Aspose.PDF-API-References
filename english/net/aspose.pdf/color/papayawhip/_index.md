@@ -2,8 +2,8 @@
 title: "Color.PapayaWhip"
 linktitle: "PapayaWhip"
 articleTitle: "PapayaWhip"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFFFEFD5."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFFFEFD5."
 type: docs
 weight: 1250
 url: "/net/aspose.pdf/color/papayawhip/"

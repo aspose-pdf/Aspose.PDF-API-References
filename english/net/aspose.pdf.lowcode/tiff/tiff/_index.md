@@ -2,8 +2,8 @@
 title: "Tiff.Tiff"
 linktitle: "Tiff"
 articleTitle: "Tiff"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Tiff class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Tiff constructor. Initializes a new instance of the Tiff class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tiff/tiff/"

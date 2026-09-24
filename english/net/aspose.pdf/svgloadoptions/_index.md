@@ -2,8 +2,8 @@
 title: "SvgLoadOptions Class"
 linktitle: "SvgLoadOptions"
 articleTitle: "SvgLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for loading/importing SVG file into pdf document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SvgLoadOptions class. Represents options for loading/importing SVG file into pdf document."
 type: docs
 weight: 2870
 url: "/net/aspose.pdf/svgloadoptions/"

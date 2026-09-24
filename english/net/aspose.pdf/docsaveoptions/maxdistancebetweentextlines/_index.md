@@ -2,8 +2,8 @@
 title: "DocSaveOptions.MaxDistanceBetweenTextLines"
 linktitle: "MaxDistanceBetweenTextLines"
 articleTitle: "MaxDistanceBetweenTextLines"
-second_title: "Aspose.PDF for .NET"
-description: "This parameter is used for grouping text lines into paragraphs. Determines how far apart can be two relative text lines. Specified in hundreds of percent of ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocSaveOptions property. This parameter is used for grouping text lines into paragraphs. Determines how far apart can be two relative text lines. Specified i..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/docsaveoptions/maxdistancebetweentextlines/"

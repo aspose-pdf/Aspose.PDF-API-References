@@ -2,8 +2,8 @@
 title: "FormDataConverter.ConvertToDataTable"
 linktitle: "ConvertToDataTable"
 articleTitle: "ConvertToDataTable"
-second_title: "Aspose.PDF for .NET"
-description: "Convert files of strems into table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter method. Convert files of strems into table."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/formdataconverter/converttodatatable/"

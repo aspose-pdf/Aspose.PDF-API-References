@@ -2,8 +2,8 @@
 title: "LineAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
-second_title: "Aspose.PDF for .NET"
-description: "Accepts visitor to annotation processing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation method. Accepts visitor to annotation processing."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/lineannotation/accept/"

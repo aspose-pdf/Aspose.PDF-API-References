@@ -2,8 +2,8 @@
 title: "ApsLoadOptions.ApsLoadOptions"
 linktitle: "ApsLoadOptions"
 articleTitle: "ApsLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ApsLoadOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ApsLoadOptions constructor. Initializes a new instance of the ApsLoadOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/apsloadoptions/apsloadoptions/"

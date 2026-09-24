@@ -2,8 +2,8 @@
 title: "TextParagraph.AppendLine"
 linktitle: "AppendLine"
 articleTitle: "AppendLine"
-second_title: "Aspose.PDF for .NET"
-description: "Appends text line"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph method. Appends text line"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textparagraph/appendline/"

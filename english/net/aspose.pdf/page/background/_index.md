@@ -2,8 +2,8 @@
 title: "Page.Background"
 linktitle: "Background"
 articleTitle: "Background"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the background color of the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets the background color of the page."
 type: docs
 weight: 600
 url: "/net/aspose.pdf/page/background/"

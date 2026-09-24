@@ -2,8 +2,8 @@
 title: "TableTRElement.DefaultCellTextState"
 linktitle: "DefaultCellTextState"
 articleTitle: "DefaultCellTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets default text state for row cells"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableTRElement property. Gets or sets default text state for row cells"
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/defaultcelltextstate/"

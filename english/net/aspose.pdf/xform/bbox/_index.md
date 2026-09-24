@@ -2,8 +2,8 @@
 title: "XForm.BBox"
 linktitle: "BBox"
 articleTitle: "BBox"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets form bounding box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm property. Gets or sets form bounding box."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/xform/bbox/"

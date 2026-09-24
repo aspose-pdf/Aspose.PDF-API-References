@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.Headlamp"
 linktitle: "Headlamp"
 articleTitle: "Headlamp"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Headlamp\" lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Headlamp\" lighting scheme."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/headlamp/"

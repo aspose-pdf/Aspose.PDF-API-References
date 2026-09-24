@@ -2,8 +2,8 @@
 title: "RequiredAction Class"
 linktitle: "RequiredAction"
 articleTitle: "RequiredAction"
-second_title: "Aspose.PDF for .NET"
-description: "Details on the action required to continue the run. Will be null if no action is required."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.RequiredAction class. Details on the action required to continue the run. Will be null if no action is required."
 type: docs
 weight: 1030
 url: "/net/aspose.pdf.ai/requiredaction/"

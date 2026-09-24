@@ -2,8 +2,8 @@
 title: "SetDash.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Gets operator string representation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetDash method. Gets operator string representation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setdash/tostring/"

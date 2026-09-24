@@ -2,8 +2,8 @@
 title: "PrinterSettings Class"
 linktitle: "PrinterSettings"
 articleTitle: "PrinterSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies information about how a document is printed, including the printer that prints it."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PrinterSettings class. Specifies information about how a document is printed, including the printer that prints it."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.printing/printersettings/"

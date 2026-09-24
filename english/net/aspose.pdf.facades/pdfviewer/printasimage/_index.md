@@ -2,8 +2,8 @@
 title: "PdfViewer.PrintAsImage"
 linktitle: "PrintAsImage"
 articleTitle: "PrintAsImage"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets a mode for PdfViewer to print as image."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Sets or gets a mode for PdfViewer to print as image."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdfviewer/printasimage/"

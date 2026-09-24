@@ -2,8 +2,8 @@
 title: "WidgetAnnotation.GetCheckedStateName"
 linktitle: "GetCheckedStateName"
 articleTitle: "GetCheckedStateName"
-second_title: "Aspose.PDF for .NET"
-description: "Returns name of \"checked\" state according to existing state names."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation method. Returns name of \"checked\" state according to existing state names."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/widgetannotation/getcheckedstatename/"

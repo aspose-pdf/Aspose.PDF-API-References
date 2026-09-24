@@ -2,8 +2,8 @@
 title: "PdfFileEditor Class"
 linktitle: "PdfFileEditor"
 articleTitle: "PdfFileEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileEditor class. Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdffileeditor/"

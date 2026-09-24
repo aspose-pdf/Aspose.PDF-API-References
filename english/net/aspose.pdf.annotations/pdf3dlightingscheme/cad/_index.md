@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.CAD"
 linktitle: "CAD"
 articleTitle: "CAD"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Cad\" lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Cad\" lighting scheme."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/cad/"

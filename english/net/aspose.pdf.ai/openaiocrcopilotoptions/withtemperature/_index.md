@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilotOptions.WithTemperature"
 linktitle: "WithTemperature"
 articleTitle: "WithTemperature"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the temperature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Sets the temperature."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withtemperature/"

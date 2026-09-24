@@ -2,8 +2,8 @@
 title: "RegistrationMarkAnnotation Class"
 linktitle: "RegistrationMarkAnnotation"
 articleTitle: "RegistrationMarkAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a Registration Mark annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RegistrationMarkAnnotation class. Represents a Registration Mark annotation."
 type: docs
 weight: 1030
 url: "/net/aspose.pdf.annotations/registrationmarkannotation/"

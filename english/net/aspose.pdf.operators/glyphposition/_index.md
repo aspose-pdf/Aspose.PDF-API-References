@@ -2,8 +2,8 @@
 title: "GlyphPosition Class"
 linktitle: "GlyphPosition"
 articleTitle: "GlyphPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes text and position to use with operator TJ (set glyph with position)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.GlyphPosition class. Class describes text and position to use with operator TJ (set glyph with position)"
 type: docs
 weight: 340
 url: "/net/aspose.pdf.operators/glyphposition/"

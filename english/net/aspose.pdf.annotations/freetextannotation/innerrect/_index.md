@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.InnerRect"
 linktitle: "InnerRect"
 articleTitle: "InnerRect"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation property."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/freetextannotation/innerrect/"

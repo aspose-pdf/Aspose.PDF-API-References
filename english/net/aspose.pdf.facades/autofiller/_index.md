@@ -2,8 +2,8 @@
 title: "AutoFiller Class"
 linktitle: "AutoFiller"
 articleTitle: "AutoFiller"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to receive data from database or other datasource, fills them into the designed fields of the template pdf and at last generates new pdf f..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.AutoFiller class. Represents a class to receive data from database or other datasource, fills them into the designed fields of the templat..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/autofiller/"

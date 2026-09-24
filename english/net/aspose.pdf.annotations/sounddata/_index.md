@@ -2,8 +2,8 @@
 title: "SoundData Class"
 linktitle: "SoundData"
 articleTitle: "SoundData"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a sound data defining the sound to be played when the annotation is activated."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SoundData class. Represents a sound data defining the sound to be played when the annotation is activated."
 type: docs
 weight: 1170
 url: "/net/aspose.pdf.annotations/sounddata/"

@@ -2,8 +2,8 @@
 title: "AttributeName.ListNumbering_Circle"
 linktitle: "ListNumbering_Circle"
 articleTitle: "ListNumbering_Circle"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute ListNumbering: Circle - Open circular bullet."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute ListNumbering: Circle - Open circular bullet."
 type: docs
 weight: 540
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_circle/"

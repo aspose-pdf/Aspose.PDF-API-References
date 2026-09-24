@@ -2,8 +2,8 @@
 title: "CosPdfString.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a that represents the current ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfString method. Returns a that represents the current ."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.dataeditor/cospdfstring/tostring/"

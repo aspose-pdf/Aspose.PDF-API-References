@@ -2,8 +2,8 @@
 title: "StructureAttribute.GetArrayNumberValue"
 linktitle: "GetArrayNumberValue"
 articleTitle: "GetArrayNumberValue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets Value Number Array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttribute method. Gets Value Number Array."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/"

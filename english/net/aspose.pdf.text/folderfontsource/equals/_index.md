@@ -2,8 +2,8 @@
 title: "FolderFontSource.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Check if folder font source objects are equal."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FolderFontSource method. Check if folder font source objects are equal."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/folderfontsource/equals/"

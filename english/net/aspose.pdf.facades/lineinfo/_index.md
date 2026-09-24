@@ -2,8 +2,8 @@
 title: "LineInfo Class"
 linktitle: "LineInfo"
 articleTitle: "LineInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the information of line."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.LineInfo class. Represents the information of line."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/lineinfo/"

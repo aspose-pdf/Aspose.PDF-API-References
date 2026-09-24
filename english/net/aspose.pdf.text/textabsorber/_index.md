@@ -2,8 +2,8 @@
 title: "TextAbsorber Class"
 linktitle: "TextAbsorber"
 articleTitle: "TextAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an absorber object of a text. Performs text extraction and provides access to the result via object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextAbsorber class. Represents an absorber object of a text. Performs text extraction and provides access to the result via object."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.text/textabsorber/"

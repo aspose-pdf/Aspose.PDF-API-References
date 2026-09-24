@@ -2,8 +2,8 @@
 title: "MarkdownSaveOptions.AreaToExtract"
 linktitle: "AreaToExtract"
 articleTitle: "AreaToExtract"
-second_title: "Aspose.PDF for .NET"
-description: "Get or set an rectangle area to extract content to markdown."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkdownSaveOptions property. Get or set an rectangle area to extract content to markdown."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/markdownsaveoptions/areatoextract/"

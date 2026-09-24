@@ -2,8 +2,8 @@
 title: "Graph.Left"
 linktitle: "Left"
 articleTitle: "Left"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the table left coordinate."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Graph property. Gets or sets the table left coordinate."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.drawing/graph/left/"

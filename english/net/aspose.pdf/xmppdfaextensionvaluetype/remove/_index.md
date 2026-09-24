@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionValueType.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes the field from the list of fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionValueType method. Removes the field from the list of fields."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/remove/"

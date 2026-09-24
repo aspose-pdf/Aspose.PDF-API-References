@@ -2,8 +2,8 @@
 title: "TableElement.ColumnWidths"
 linktitle: "ColumnWidths"
 articleTitle: "ColumnWidths"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the column widths of the table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets the column widths of the table."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/tableelement/columnwidths/"

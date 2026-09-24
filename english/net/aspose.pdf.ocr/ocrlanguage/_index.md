@@ -2,8 +2,8 @@
 title: "OcrLanguage Enum"
 linktitle: "OcrLanguage"
 articleTitle: "OcrLanguage"
-second_title: "Aspose.PDF for .NET"
-description: "Language used by for recognition."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Ocr.OcrLanguage enum. Language used by for recognition."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ocr/ocrlanguage/"

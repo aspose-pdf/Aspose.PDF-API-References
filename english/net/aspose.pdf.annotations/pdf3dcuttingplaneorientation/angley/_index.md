@@ -2,8 +2,8 @@
 title: "PDF3DCuttingPlaneOrientation.AngleY"
 linktitle: "AngleY"
 articleTitle: "AngleY"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the angle to Y axis."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCuttingPlaneOrientation property. Gets or sets the angle to Y axis."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/"

@@ -2,8 +2,8 @@
 title: "Embedding.Index"
 linktitle: "Index"
 articleTitle: "Index"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the index of the embedding in the list of embeddings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Embedding property. Gets or sets the index of the embedding in the list of embeddings."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/embedding/index/"

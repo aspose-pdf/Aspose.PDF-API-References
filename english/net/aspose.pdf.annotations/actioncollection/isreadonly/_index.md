@@ -2,8 +2,8 @@
 title: "ActionCollection.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if collection is readonly."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection property. Returns true if collection is readonly."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/actioncollection/isreadonly/"

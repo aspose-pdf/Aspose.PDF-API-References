@@ -2,8 +2,8 @@
 title: "TextPlaceOperator Class"
 linktitle: "TextPlaceOperator"
 articleTitle: "TextPlaceOperator"
-second_title: "Aspose.PDF for .NET"
-description: "Abstract base class for operators which changes text position (Tm, Td, etc)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.TextPlaceOperator class. Abstract base class for operators which changes text position (Tm, Td, etc)."
 type: docs
 weight: 830
 url: "/net/aspose.pdf.operators/textplaceoperator/"

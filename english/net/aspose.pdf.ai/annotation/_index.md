@@ -2,8 +2,8 @@
 title: "Annotation Class"
 linktitle: "Annotation"
 articleTitle: "Annotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the text content that is part of a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Annotation class. Represents the text content that is part of a message."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/annotation/"

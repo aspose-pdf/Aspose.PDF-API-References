@@ -2,8 +2,8 @@
 title: "RegexManager.MatchTimeout"
 linktitle: "MatchTimeout"
 articleTitle: "MatchTimeout"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the timeout for Regex operations across the library. The default value is 1000 ms."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RegexManager property. Gets or sets the timeout for Regex operations across the library. The default value is 1000 ms."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/regexmanager/matchtimeout/"

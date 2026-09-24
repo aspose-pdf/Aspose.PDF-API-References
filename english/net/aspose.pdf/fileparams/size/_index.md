@@ -2,8 +2,8 @@
 title: "FileParams.Size"
 linktitle: "Size"
 articleTitle: "Size"
-second_title: "Aspose.PDF for .NET"
-description: "The size of the uncompressed embedded file, in bytes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileParams property. The size of the uncompressed embedded file, in bytes."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/fileparams/size/"

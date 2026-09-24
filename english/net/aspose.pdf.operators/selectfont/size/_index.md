@@ -2,8 +2,8 @@
 title: "SelectFont.Size"
 linktitle: "Size"
 articleTitle: "Size"
-second_title: "Aspose.PDF for .NET"
-description: "Size of text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SelectFont property. Size of text."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/selectfont/size/"

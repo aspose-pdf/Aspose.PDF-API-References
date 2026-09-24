@@ -2,8 +2,8 @@
 title: "PdfExtractor.GetAttachment"
 linktitle: "GetAttachment"
 articleTitle: "GetAttachment"
-second_title: "Aspose.PDF for .NET"
-description: "Stores attachment into file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Stores attachment into file."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfextractor/getattachment/"

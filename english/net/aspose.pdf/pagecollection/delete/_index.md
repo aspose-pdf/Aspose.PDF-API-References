@@ -2,8 +2,8 @@
 title: "PageCollection.Delete"
 linktitle: "Delete"
 articleTitle: "Delete"
-second_title: "Aspose.PDF for .NET"
-description: "Delete specified page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Delete specified page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagecollection/delete/"

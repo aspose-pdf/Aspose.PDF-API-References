@@ -2,8 +2,8 @@
 title: "XFormCollection.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes specified item from collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection method. Deletes specified item from collection."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xformcollection/remove/"

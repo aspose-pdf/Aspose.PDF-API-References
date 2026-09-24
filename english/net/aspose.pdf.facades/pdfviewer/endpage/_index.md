@@ -2,8 +2,8 @@
 title: "PdfViewer.EndPage"
 linktitle: "EndPage"
 articleTitle: "EndPage"
-second_title: "Aspose.PDF for .NET"
-description: "Occurs when the printing of a page ends in the PdfViewer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer event. Occurs when the printing of a page ends in the PdfViewer."
 type: docs
 weight: 580
 url: "/net/aspose.pdf.facades/pdfviewer/endpage/"

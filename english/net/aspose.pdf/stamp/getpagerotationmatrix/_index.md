@@ -2,8 +2,8 @@
 title: "Stamp.getPageRotationMatrix"
 linktitle: "getPageRotationMatrix"
 articleTitle: "getPageRotationMatrix"
-second_title: "Aspose.PDF for .NET"
-description: "Returns transformation matrix for page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Returns transformation matrix for page."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/stamp/getpagerotationmatrix/"

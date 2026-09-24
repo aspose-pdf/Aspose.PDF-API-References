@@ -2,8 +2,8 @@
 title: "PageDate.DayComponent.GetFormat"
 linktitle: "GetFormat"
 articleTitle: "GetFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the format string for the day component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DayComponent method. Gets the format string for the day component."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagedate.daycomponent/getformat/"

@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.CreationDate"
 linktitle: "CreationDate"
 articleTitle: "CreationDate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets date and time when annotation was created."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation property. Gets date and time when annotation was created."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/markupannotation/creationdate/"

@@ -2,8 +2,8 @@
 title: "ViewerPreference.PrintScalingNone"
 linktitle: "PrintScalingNone"
 articleTitle: "PrintScalingNone"
-second_title: "Aspose.PDF for .NET"
-description: "No page scaling."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. No page scaling."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/viewerpreference/printscalingnone/"

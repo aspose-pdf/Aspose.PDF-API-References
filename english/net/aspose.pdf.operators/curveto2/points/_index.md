@@ -2,8 +2,8 @@
 title: "CurveTo2.Points"
 linktitle: "Points"
 articleTitle: "Points"
-second_title: "Aspose.PDF for .NET"
-description: "Points of the curve."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CurveTo2 property. Points of the curve."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/curveto2/points/"

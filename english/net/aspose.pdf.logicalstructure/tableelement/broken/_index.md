@@ -2,8 +2,8 @@
 title: "TableElement.Broken"
 linktitle: "Broken"
 articleTitle: "Broken"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets table vertial broken;"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets table vertial broken;"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/tableelement/broken/"

@@ -2,8 +2,8 @@
 title: "ObjectResult.Text"
 linktitle: "Text"
 articleTitle: "Text"
-second_title: "Aspose.PDF for .NET"
-description: "Returns string representation of the result."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ObjectResult property. Returns string representation of the result."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.lowcode/objectresult/text/"

@@ -2,8 +2,8 @@
 title: "PngDevice Class"
 linktitle: "PngDevice"
 articleTitle: "PngDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Represents image device that helps to save pdf document pages into png."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.PngDevice class. Represents image device that helps to save pdf document pages into png."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.devices/pngdevice/"

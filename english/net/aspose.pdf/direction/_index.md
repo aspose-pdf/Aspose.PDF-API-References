@@ -2,8 +2,8 @@
 title: "Direction Enum"
 linktitle: "Direction"
 articleTitle: "Direction"
-second_title: "Aspose.PDF for .NET"
-description: "Text direction."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Direction enum. Text direction."
 type: docs
 weight: 560
 url: "/net/aspose.pdf/direction/"

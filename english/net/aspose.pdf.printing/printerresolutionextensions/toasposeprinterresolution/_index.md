@@ -2,8 +2,8 @@
 title: "PrinterResolutionExtensions.ToAsposePrinterResolution"
 linktitle: "ToAsposePrinterResolution"
 articleTitle: "ToAsposePrinterResolution"
-second_title: "Aspose.PDF for .NET"
-description: "Converts Windows-specific System.Drawing.Printing.PrinterResolution ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolutionExtensions method. Converts Windows-specific System.Drawing.Printing.PrinterResolution ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/printerresolutionextensions/toasposeprinterresolution/"

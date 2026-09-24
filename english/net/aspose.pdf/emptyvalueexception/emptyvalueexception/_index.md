@@ -2,8 +2,8 @@
 title: "EmptyValueException.EmptyValueException"
 linktitle: "EmptyValueException"
 articleTitle: "EmptyValueException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the EmptyValueException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmptyValueException constructor. Initializes a new instance of the EmptyValueException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/emptyvalueexception/emptyvalueexception/"

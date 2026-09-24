@@ -2,8 +2,8 @@
 title: "UnifiedSaveOptions.ProgressEventHandlerInfo Class"
 linktitle: "UnifiedSaveOptions.ProgressEventHandlerInfo"
 articleTitle: "UnifiedSaveOptions.ProgressEventHandlerInfo"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents information about conversion progress that can be used in external applicatuion to show conversion progress to end user"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.UnifiedSaveOptions.ProgressEventHandlerInfo class. This class represents information about conversion progress that can be used in external applic..."
 type: docs
 weight: 3110
 url: "/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/"

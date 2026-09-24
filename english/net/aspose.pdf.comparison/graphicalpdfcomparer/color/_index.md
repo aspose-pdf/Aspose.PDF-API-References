@@ -2,8 +2,8 @@
 title: "GraphicalPdfComparer.Color"
 linktitle: "Color"
 articleTitle: "Color"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the change flag color. The default color is red."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer property. Gets and sets the change flag color. The default color is red."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/color/"

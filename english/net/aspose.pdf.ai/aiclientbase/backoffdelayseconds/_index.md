@@ -2,8 +2,8 @@
 title: "AIClientBase.BackoffDelaySeconds"
 linktitle: "BackoffDelaySeconds"
 articleTitle: "BackoffDelaySeconds"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the backoff delay in seconds."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientBase property. Gets or sets the backoff delay in seconds."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/aiclientbase/backoffdelayseconds/"

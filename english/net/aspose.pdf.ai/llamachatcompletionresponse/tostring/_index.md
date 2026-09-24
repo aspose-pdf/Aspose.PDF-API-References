@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionResponse.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a string representation of the first choice."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionResponse method. Returns a string representation of the first choice."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/tostring/"

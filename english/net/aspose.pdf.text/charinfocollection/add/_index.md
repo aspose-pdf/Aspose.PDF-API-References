@@ -2,8 +2,8 @@
 title: "CharInfoCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Collection is read-only, throws NotImplementedException."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CharInfoCollection method. Collection is read-only, throws NotImplementedException."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/charinfocollection/add/"

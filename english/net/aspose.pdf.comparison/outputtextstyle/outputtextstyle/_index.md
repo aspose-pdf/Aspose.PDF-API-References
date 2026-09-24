@@ -2,8 +2,8 @@
 title: "OutputTextStyle.OutputTextStyle"
 linktitle: "OutputTextStyle"
 articleTitle: "OutputTextStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OutputTextStyle class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputTextStyle constructor. Initializes a new instance of the OutputTextStyle class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/outputtextstyle/outputtextstyle/"

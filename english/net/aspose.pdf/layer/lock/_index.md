@@ -2,8 +2,8 @@
 title: "Layer.Lock"
 linktitle: "Lock"
 articleTitle: "Lock"
-second_title: "Aspose.PDF for .NET"
-description: "Locks the layer."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer method. Locks the layer."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/layer/lock/"

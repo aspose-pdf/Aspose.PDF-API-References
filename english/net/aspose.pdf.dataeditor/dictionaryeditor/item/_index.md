@@ -2,8 +2,8 @@
 title: "DictionaryEditor.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor property."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/item/"

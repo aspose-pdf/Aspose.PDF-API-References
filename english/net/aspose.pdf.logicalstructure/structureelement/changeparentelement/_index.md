@@ -2,8 +2,8 @@
 title: "StructureElement.ChangeParentElement"
 linktitle: "ChangeParentElement"
 articleTitle: "ChangeParentElement"
-second_title: "Aspose.PDF for .NET"
-description: "Change parent element for current structure element"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement method. Change parent element for current structure element"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/"

@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.Culture"
 linktitle: "Culture"
 articleTitle: "Culture"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets culture info value. Default value: InvariantCulture."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets culture info value. Default value: InvariantCulture."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.forms/signaturecustomappearance/culture/"

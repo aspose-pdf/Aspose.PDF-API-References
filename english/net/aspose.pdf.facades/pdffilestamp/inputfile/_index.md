@@ -2,8 +2,8 @@
 title: "PdfFileStamp.InputFile"
 linktitle: "InputFile"
 articleTitle: "InputFile"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets name and path of input file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp property. Gets or sets name and path of input file."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdffilestamp/inputfile/"

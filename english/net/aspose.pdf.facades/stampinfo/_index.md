@@ -2,8 +2,8 @@
 title: "StampInfo Class"
 linktitle: "StampInfo"
 articleTitle: "StampInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing stamp information."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.StampInfo class. Class representing stamp information."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.facades/stampinfo/"

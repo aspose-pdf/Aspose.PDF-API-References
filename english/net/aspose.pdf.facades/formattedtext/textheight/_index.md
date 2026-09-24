@@ -2,8 +2,8 @@
 title: "FormattedText.TextHeight"
 linktitle: "TextHeight"
 articleTitle: "TextHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets height of text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedText property. Gets height of text."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/formattedtext/textheight/"

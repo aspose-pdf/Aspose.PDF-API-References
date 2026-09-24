@@ -2,8 +2,8 @@
 title: "Artifact.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets artifact rotation angle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets or sets artifact rotation angle."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/artifact/rotation/"

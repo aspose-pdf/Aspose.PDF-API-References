@@ -2,8 +2,8 @@
 title: "PdfContentEditor.DeleteAttachments"
 linktitle: "DeleteAttachments"
 articleTitle: "DeleteAttachments"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes all attachments in PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Deletes all attachments in PDF document."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/"

@@ -2,8 +2,8 @@
 title: "FormOptions.Inputs"
 linktitle: "Inputs"
 articleTitle: "Inputs"
-second_title: "Aspose.PDF for .NET"
-description: "Returns Form.... plugins data collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormOptions property. Returns Form.... plugins data collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formoptions/inputs/"

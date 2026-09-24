@@ -2,8 +2,8 @@
 title: "XForm.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rectangel of the form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm property. Gets or sets rectangel of the form."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/xform/rectangle/"

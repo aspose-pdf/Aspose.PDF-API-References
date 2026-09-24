@@ -2,8 +2,8 @@
 title: "ResizeOptions.PageSize"
 linktitle: "PageSize"
 articleTitle: "PageSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets new page size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResizeOptions property. Gets or sets new page size."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/resizeoptions/pagesize/"

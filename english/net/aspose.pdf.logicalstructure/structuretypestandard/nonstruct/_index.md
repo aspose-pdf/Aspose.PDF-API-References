@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.NonStruct"
 linktitle: "NonStruct"
 articleTitle: "NonStruct"
-second_title: "Aspose.PDF for .NET"
-description: "(Nonstructural element) A grouping element having no inherent structural significance; it serves solely for grouping purposes. This type of element differs f..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Nonstructural element) A grouping element having no inherent structural significance; it serves solely for grouping purposes. T..."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/nonstruct/"

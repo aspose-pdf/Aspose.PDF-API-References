@@ -2,8 +2,8 @@
 title: "HeaderFooterSettings.HorizontalAlignment.Center"
 linktitle: "Center"
 articleTitle: "Center"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the center alignment settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HorizontalAlignment property. Gets or sets the center alignment settings."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/headerfootersettings.horizontalalignment/center/"

@@ -2,8 +2,8 @@
 title: "Facade.Facade"
 linktitle: "Facade"
 articleTitle: "Facade"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Facade class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Facade constructor. Initializes a new instance of the Facade class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/facade/facade/"

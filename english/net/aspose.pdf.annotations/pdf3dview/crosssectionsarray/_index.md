@@ -2,8 +2,8 @@
 title: "PDF3DView.CrossSectionsArray"
 linktitle: "CrossSectionsArray"
 articleTitle: "CrossSectionsArray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the cross sections array of view."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DView property. Gets the cross sections array of view."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dview/crosssectionsarray/"

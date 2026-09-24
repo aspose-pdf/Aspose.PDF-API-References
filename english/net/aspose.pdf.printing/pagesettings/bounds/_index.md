@@ -2,8 +2,8 @@
 title: "PageSettings.Bounds"
 linktitle: "Bounds"
 articleTitle: "Bounds"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the bounds of the page, taking into account the Landscape property."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings property. Gets the bounds of the page, taking into account the Landscape property."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/pagesettings/bounds/"

@@ -2,8 +2,8 @@
 title: "Stamp.BlendingSpace"
 linktitle: "BlendingSpace"
 articleTitle: "BlendingSpace"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a BlendingColorSpace value that defines a color space that is used to perform transparency and blending operations on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets a BlendingColorSpace value that defines a color space that is used to perform transparency and blending operations on the page."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/stamp/blendingspace/"

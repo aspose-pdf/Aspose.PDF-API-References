@@ -2,8 +2,8 @@
 title: "TextFragment.CloneWithSegments"
 linktitle: "CloneWithSegments"
 articleTitle: "CloneWithSegments"
-second_title: "Aspose.PDF for .NET"
-description: "Clone the fragment with all segments."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment method. Clone the fragment with all segments."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textfragment/clonewithsegments/"

@@ -2,8 +2,8 @@
 title: "FormFieldFacade.BorderColor"
 linktitle: "BorderColor"
 articleTitle: "BorderColor"
-second_title: "Aspose.PDF for .NET"
-description: "The color of a field border."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The color of a field border."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/formfieldfacade/bordercolor/"

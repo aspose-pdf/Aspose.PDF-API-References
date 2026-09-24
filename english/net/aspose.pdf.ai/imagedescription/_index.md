@@ -2,8 +2,8 @@
 title: "ImageDescription Class"
 linktitle: "ImageDescription"
 articleTitle: "ImageDescription"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an image description."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ImageDescription class. Represents an image description."
 type: docs
 weight: 660
 url: "/net/aspose.pdf.ai/imagedescription/"

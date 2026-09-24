@@ -2,8 +2,8 @@
 title: "FloatingBox.PositioningMode"
 linktitle: "PositioningMode"
 articleTitle: "PositioningMode"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies variant for determining the location of the FloatingBox on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox property. Specifies variant for determining the location of the FloatingBox on the page."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/floatingbox/positioningmode/"

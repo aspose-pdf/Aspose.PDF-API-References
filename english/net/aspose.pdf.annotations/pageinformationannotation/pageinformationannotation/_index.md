@@ -2,8 +2,8 @@
 title: "PageInformationAnnotation.PageInformationAnnotation"
 linktitle: "PageInformationAnnotation"
 articleTitle: "PageInformationAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PageInformationAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInformationAnnotation constructor. Initializes a new instance of the PageInformationAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pageinformationannotation/pageinformationannotation/"

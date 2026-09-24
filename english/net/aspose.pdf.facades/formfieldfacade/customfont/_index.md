@@ -2,8 +2,8 @@
 title: "FormFieldFacade.CustomFont"
 linktitle: "CustomFont"
 articleTitle: "CustomFont"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets name of the font when this is non-standart (other then 14 standard fonts)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. Gets or sets name of the font when this is non-standart (other then 14 standard fonts)."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/formfieldfacade/customfont/"

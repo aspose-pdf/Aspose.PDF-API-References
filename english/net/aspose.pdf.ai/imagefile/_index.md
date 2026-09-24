@@ -2,8 +2,8 @@
 title: "ImageFile Class"
 linktitle: "ImageFile"
 articleTitle: "ImageFile"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an image File in the content of a message."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ImageFile class. Represents an image File in the content of a message."
 type: docs
 weight: 680
 url: "/net/aspose.pdf.ai/imagefile/"

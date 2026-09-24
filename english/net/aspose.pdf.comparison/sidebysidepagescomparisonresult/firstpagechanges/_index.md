@@ -2,8 +2,8 @@
 title: "SideBySidePagesComparisonResult.FirstPageChanges"
 linktitle: "FirstPageChanges"
 articleTitle: "FirstPageChanges"
-second_title: "Aspose.PDF for .NET"
-description: "Get a list of changes to the pages of the first page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySidePagesComparisonResult property. Get a list of changes to the pages of the first page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/firstpagechanges/"

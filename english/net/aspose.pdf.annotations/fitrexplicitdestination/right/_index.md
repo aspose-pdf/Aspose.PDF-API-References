@@ -2,8 +2,8 @@
 title: "FitRExplicitDestination.Right"
 linktitle: "Right"
 articleTitle: "Right"
-second_title: "Aspose.PDF for .NET"
-description: "Gets right horizontal coordinate of visible rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitRExplicitDestination property. Gets right horizontal coordinate of visible rectangle."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/fitrexplicitdestination/right/"

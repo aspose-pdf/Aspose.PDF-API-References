@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.UseTrimBottom"
 linktitle: "UseTrimBottom"
 articleTitle: "UseTrimBottom"
-second_title: "Aspose.PDF for .NET"
-description: "Allows to remove data after pdf data"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization property. Allows to remove data after pdf data"
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdffilesanitization/usetrimbottom/"

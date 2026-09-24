@@ -2,8 +2,8 @@
 title: "DjvuLoadOptions Class"
 linktitle: "DjvuLoadOptions"
 articleTitle: "DjvuLoadOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes DJVU load options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DjvuLoadOptions class. Class describes DJVU load options."
 type: docs
 weight: 570
 url: "/net/aspose.pdf/djvuloadoptions/"

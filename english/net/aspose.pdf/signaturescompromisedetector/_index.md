@@ -2,8 +2,8 @@
 title: "SignaturesCompromiseDetector Class"
 linktitle: "SignaturesCompromiseDetector"
 articleTitle: "SignaturesCompromiseDetector"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class for checking compromising signatures of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SignaturesCompromiseDetector class. Represents a class for checking compromising signatures of the document."
 type: docs
 weight: 2840
 url: "/net/aspose.pdf/signaturescompromisedetector/"

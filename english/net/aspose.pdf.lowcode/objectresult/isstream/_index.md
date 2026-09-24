@@ -2,8 +2,8 @@
 title: "ObjectResult.IsStream"
 linktitle: "IsStream"
 articleTitle: "IsStream"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the result is a path to an output file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ObjectResult property. Indicates whether the result is a path to an output file."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/objectresult/isstream/"

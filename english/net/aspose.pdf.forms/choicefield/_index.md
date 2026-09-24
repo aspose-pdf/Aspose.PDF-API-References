@@ -2,8 +2,8 @@
 title: "ChoiceField Class"
 linktitle: "ChoiceField"
 articleTitle: "ChoiceField"
-second_title: "Aspose.PDF for .NET"
-description: "Represents base class for choice fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.ChoiceField class. Represents base class for choice fields."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/choicefield/"

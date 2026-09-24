@@ -2,8 +2,8 @@
 title: "BT.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Produces text code of operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BT method. Produces text code of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/bt/tostring/"

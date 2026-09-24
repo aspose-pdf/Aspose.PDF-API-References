@@ -2,8 +2,8 @@
 title: "IOcrCopilot Interface"
 linktitle: "IOcrCopilot"
 articleTitle: "IOcrCopilot"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an OCR copilot for processing scanned PDFs and images via AI models."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IOcrCopilot interface. Represents an OCR copilot for processing scanned PDFs and images via AI models."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.ai/iocrcopilot/"

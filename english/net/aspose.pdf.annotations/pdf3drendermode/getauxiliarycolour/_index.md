@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.GetAuxiliaryColour"
 linktitle: "GetAuxiliaryColour"
 articleTitle: "GetAuxiliaryColour"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the auxiliary colour."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode method. Gets the auxiliary colour."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/"

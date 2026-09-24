@@ -2,8 +2,8 @@
 title: "LlamaCopilotOptionsBase.DocumentCollection"
 linktitle: "DocumentCollection"
 articleTitle: "DocumentCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the collection of documents to be processed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaCopilotOptionsBase property. Gets or sets the collection of documents to be processed."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/"

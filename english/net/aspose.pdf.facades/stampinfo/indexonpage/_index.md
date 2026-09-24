@@ -2,8 +2,8 @@
 title: "StampInfo.IndexOnPage"
 linktitle: "IndexOnPage"
 articleTitle: "IndexOnPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets stamp index on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampInfo property. Gets stamp index on the page."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/stampinfo/indexonpage/"

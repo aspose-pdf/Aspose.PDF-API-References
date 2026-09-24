@@ -2,8 +2,8 @@
 title: "GraphicState.ColorsAndStyles"
 linktitle: "ColorsAndStyles"
 articleTitle: "ColorsAndStyles"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the operators representing colorspaces, colors and line styles."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicState property. Gets the operators representing colorspaces, colors and line styles."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicstate/colorsandstyles/"

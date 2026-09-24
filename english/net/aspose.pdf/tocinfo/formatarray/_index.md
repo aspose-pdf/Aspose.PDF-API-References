@@ -2,8 +2,8 @@
 title: "TocInfo.FormatArray"
 linktitle: "FormatArray"
 articleTitle: "FormatArray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets format array for table of contents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocInfo property. Gets or sets format array for table of contents."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/tocinfo/formatarray/"

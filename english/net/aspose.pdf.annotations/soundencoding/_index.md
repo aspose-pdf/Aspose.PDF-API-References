@@ -2,8 +2,8 @@
 title: "SoundEncoding Enum"
 linktitle: "SoundEncoding"
 articleTitle: "SoundEncoding"
-second_title: "Aspose.PDF for .NET"
-description: "The encoding format for the sample data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SoundEncoding enum. The encoding format for the sample data."
 type: docs
 weight: 1180
 url: "/net/aspose.pdf.annotations/soundencoding/"

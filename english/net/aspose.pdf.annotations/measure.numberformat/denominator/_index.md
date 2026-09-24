@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.Denominator"
 linktitle: "Denominator"
 articleTitle: "Denominator"
-second_title: "Aspose.PDF for .NET"
-description: "If FractionDisplayment is ShowAsFraction, this value is denominator of the fraction. Default value is 16."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. If FractionDisplayment is ShowAsFraction, this value is denominator of the fraction. Default value is 16."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/measure.numberformat/denominator/"

@@ -2,8 +2,8 @@
 title: "Note.Note"
 linktitle: "Note"
 articleTitle: "Note"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Note class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Note constructor. Initializes a new instance of the Note class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/note/note/"

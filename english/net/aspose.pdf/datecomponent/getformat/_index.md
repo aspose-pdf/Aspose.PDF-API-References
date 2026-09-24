@@ -2,8 +2,8 @@
 title: "DateComponent.GetFormat"
 linktitle: "GetFormat"
 articleTitle: "GetFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a string composed of a specified character repeated based on the format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DateComponent method. Returns a string composed of a specified character repeated based on the format."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/datecomponent/getformat/"

@@ -2,8 +2,8 @@
 title: "XImageCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size)"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ximagecollection/add/"

@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
-second_title: "Aspose.PDF for .NET"
-description: "Returns true if collection is read-only."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property. Returns true if collection is read-only."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/isreadonly/"

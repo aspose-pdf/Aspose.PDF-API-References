@@ -2,8 +2,8 @@
 title: "ValidationStatus Enum"
 linktitle: "ValidationStatus"
 articleTitle: "ValidationStatus"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the validation status of a certificate validation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.ValidationStatus enum. Represents the validation status of a certificate validation."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.security/validationstatus/"

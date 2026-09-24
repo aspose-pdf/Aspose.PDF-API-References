@@ -2,8 +2,8 @@
 title: "FileSpecification.Params"
 linktitle: "Params"
 articleTitle: "Params"
-second_title: "Aspose.PDF for .NET"
-description: "Gets file paramteres."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. Gets file paramteres."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/filespecification/params/"

@@ -2,8 +2,8 @@
 title: "PdfViewer.PageCount"
 linktitle: "PageCount"
 articleTitle: "PageCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets page count of the current Pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets page count of the current Pdf file."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/pdfviewer/pagecount/"

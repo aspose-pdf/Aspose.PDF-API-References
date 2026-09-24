@@ -2,8 +2,8 @@
 title: "FigureElement Class"
 linktitle: "FigureElement"
 articleTitle: "FigureElement"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing logical structure figure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Structure.FigureElement class. Class representing logical structure figure."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.structure/figureelement/"

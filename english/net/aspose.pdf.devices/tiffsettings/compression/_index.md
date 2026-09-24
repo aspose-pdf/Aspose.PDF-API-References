@@ -2,8 +2,8 @@
 title: "TiffSettings.Compression"
 linktitle: "Compression"
 articleTitle: "Compression"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the type of the compression."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffSettings property. Gets or sets the type of the compression."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.devices/tiffsettings/compression/"

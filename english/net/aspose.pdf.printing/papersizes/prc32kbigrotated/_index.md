@@ -2,8 +2,8 @@
 title: "PaperSizes.Prc32KBigRotated"
 linktitle: "Prc32KBigRotated"
 articleTitle: "Prc32KBigRotated"
-second_title: "Aspose.PDF for .NET"
-description: "32K big rotated paper (97 mm by 151 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. 32K big rotated paper (97 mm by 151 mm)."
 type: docs
 weight: 1060
 url: "/net/aspose.pdf.printing/papersizes/prc32kbigrotated/"

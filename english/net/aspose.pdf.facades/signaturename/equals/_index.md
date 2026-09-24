@@ -2,8 +2,8 @@
 title: "SignatureName.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether this instance and a specified object are equal."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureName method. Determines whether this instance and a specified object are equal."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/signaturename/equals/"

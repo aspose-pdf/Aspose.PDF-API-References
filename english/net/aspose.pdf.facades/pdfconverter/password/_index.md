@@ -2,8 +2,8 @@
 title: "PdfConverter.Password"
 linktitle: "Password"
 articleTitle: "Password"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets document OwnerPassword."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter property. Gets or sets document OwnerPassword."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.facades/pdfconverter/password/"

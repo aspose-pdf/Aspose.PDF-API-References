@@ -2,8 +2,8 @@
 title: "XForm.GetResources"
 linktitle: "GetResources"
 articleTitle: "GetResources"
-second_title: "Aspose.PDF for .NET"
-description: "Returns resources of Form X-Object"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm method. Returns resources of Form X-Object"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xform/getresources/"

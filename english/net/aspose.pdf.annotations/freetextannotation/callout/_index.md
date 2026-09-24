@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.Callout"
 linktitle: "Callout"
 articleTitle: "Callout"
-second_title: "Aspose.PDF for .NET"
-description: "Array of point specifying callout line."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation property. Array of point specifying callout line."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/freetextannotation/callout/"

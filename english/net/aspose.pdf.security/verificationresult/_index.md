@@ -2,8 +2,8 @@
 title: "VerificationResult Class"
 linktitle: "VerificationResult"
 articleTitle: "VerificationResult"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the result of verifying a digital signature in a PDF file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.VerificationResult class. Represents the result of verifying a digital signature in a PDF file."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.security/verificationresult/"

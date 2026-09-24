@@ -2,8 +2,8 @@
 title: "DocumentFactory Class"
 linktitle: "DocumentFactory"
 articleTitle: "DocumentFactory"
-second_title: "Aspose.PDF for .NET"
-description: "Class which allows to create/load documents of different types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DocumentFactory class. Class which allows to create/load documents of different types."
 type: docs
 weight: 700
 url: "/net/aspose.pdf/documentfactory/"

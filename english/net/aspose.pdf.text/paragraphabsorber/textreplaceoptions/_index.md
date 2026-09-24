@@ -2,8 +2,8 @@
 title: "ParagraphAbsorber.TextReplaceOptions"
 linktitle: "TextReplaceOptions"
 articleTitle: "TextReplaceOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the TextReplaceOptions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ParagraphAbsorber property. Gets or sets the TextReplaceOptions."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/paragraphabsorber/textreplaceoptions/"

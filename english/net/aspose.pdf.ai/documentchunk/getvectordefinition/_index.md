@@ -2,8 +2,8 @@
 title: "DocumentChunk.GetVectorDefinition"
 linktitle: "GetVectorDefinition"
 articleTitle: "GetVectorDefinition"
-second_title: "Aspose.PDF for .NET"
-description: "Returns a describing the schema of for use with a vector store collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk method. Returns a describing the schema of for use with a vector store collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/documentchunk/getvectordefinition/"

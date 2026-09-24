@@ -2,8 +2,8 @@
 title: "StructureElement.Language"
 linktitle: "Language"
 articleTitle: "Language"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the language for structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets or sets the language for structure element."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.logicalstructure/structureelement/language/"

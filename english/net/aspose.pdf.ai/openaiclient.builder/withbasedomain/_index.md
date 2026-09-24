@@ -2,8 +2,8 @@
 title: "OpenAIClient.Builder.WithBaseDomain"
 linktitle: "WithBaseDomain"
 articleTitle: "WithBaseDomain"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the base domain for the client."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Builder method. Sets the base domain for the client."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/openaiclient.builder/withbasedomain/"

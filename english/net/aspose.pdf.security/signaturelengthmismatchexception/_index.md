@@ -2,8 +2,8 @@
 title: "SignatureLengthMismatchException Class"
 linktitle: "SignatureLengthMismatchException"
 articleTitle: "SignatureLengthMismatchException"
-second_title: "Aspose.PDF for .NET"
-description: "Represents errors that occur during PDF signing. Occurs if is used to sign a document and the actual length of the signature is greater than that specified i..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.SignatureLengthMismatchException class. Represents errors that occur during PDF signing. Occurs if is used to sign a document and the act..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.security/signaturelengthmismatchexception/"

@@ -2,8 +2,8 @@
 title: "TruncationStrategy.StrategyType"
 linktitle: "StrategyType"
 articleTitle: "StrategyType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the truncation strategy to use for the thread. The default is auto. If set to last_messages, the thread will be truncated to the n most recent m..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TruncationStrategy property. Gets or sets the truncation strategy to use for the thread. The default is auto. If set to last_messages, the thread will be tru..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/truncationstrategy/strategytype/"

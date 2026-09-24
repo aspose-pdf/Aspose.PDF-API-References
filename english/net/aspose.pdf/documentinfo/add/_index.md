@@ -2,8 +2,8 @@
 title: "DocumentInfo.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds an element with the specified key and value into the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo method. Adds an element with the specified key and value into the collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/documentinfo/add/"

@@ -2,8 +2,8 @@
 title: "RadioButtonField.Style"
 linktitle: "Style"
 articleTitle: "Style"
-second_title: "Aspose.PDF for .NET"
-description: "Style of field box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField property. Style of field box."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/radiobuttonfield/style/"

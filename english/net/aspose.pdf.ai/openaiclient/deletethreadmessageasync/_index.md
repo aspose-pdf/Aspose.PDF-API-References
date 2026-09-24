@@ -2,8 +2,8 @@
 title: "OpenAIClient.DeleteThreadMessageAsync"
 linktitle: "DeleteThreadMessageAsync"
 articleTitle: "DeleteThreadMessageAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes a message within a thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Deletes a message within a thread asynchronously."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.ai/openaiclient/deletethreadmessageasync/"

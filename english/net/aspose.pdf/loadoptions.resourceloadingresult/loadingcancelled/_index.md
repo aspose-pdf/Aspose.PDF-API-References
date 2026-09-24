@@ -2,8 +2,8 @@
 title: "LoadOptions.ResourceLoadingResult.LoadingCancelled"
 linktitle: "LoadingCancelled"
 articleTitle: "LoadingCancelled"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes for some reasons loading should not occure custom code. In such case please set this flag as True. In such case converter will try use internal def..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResourceLoadingResult field. Sometimes for some reasons loading should not occure custom code. In such case please set this flag as True. In such case conver..."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/loadingcancelled/"

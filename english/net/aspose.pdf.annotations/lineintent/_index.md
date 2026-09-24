@@ -2,8 +2,8 @@
 title: "LineIntent Enum"
 linktitle: "LineIntent"
 articleTitle: "LineIntent"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the intents of the line annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.LineIntent enum. Enumerates the intents of the line annotation."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.annotations/lineintent/"

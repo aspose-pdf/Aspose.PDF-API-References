@@ -2,8 +2,8 @@
 title: "Graph.IsChangePosition"
 linktitle: "IsChangePosition"
 articleTitle: "IsChangePosition"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets change curret position after process paragraph.(default true)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Graph property. Gets or sets change curret position after process paragraph.(default true)"
 type: docs
 weight: 60
 url: "/net/aspose.pdf.drawing/graph/ischangeposition/"

@@ -2,8 +2,8 @@
 title: "PdfContentEditor.AddDocumentAdditionalAction"
 linktitle: "AddDocumentAdditionalAction"
 articleTitle: "AddDocumentAdditionalAction"
-second_title: "Aspose.PDF for .NET"
-description: "Adds additional action for document event."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Adds additional action for document event."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdfcontenteditor/adddocumentadditionalaction/"

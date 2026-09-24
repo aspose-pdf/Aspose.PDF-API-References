@@ -2,8 +2,8 @@
 title: "FontAbsorber.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Performs search in the specified range of pages of the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontAbsorber method. Performs search in the specified range of pages of the document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/fontabsorber/visit/"

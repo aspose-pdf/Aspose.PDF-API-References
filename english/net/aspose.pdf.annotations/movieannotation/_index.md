@@ -2,8 +2,8 @@
 title: "MovieAnnotation Class"
 linktitle: "MovieAnnotation"
 articleTitle: "MovieAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a movie annotation that contains animated graphics and sound to be presented on the computer screen and through the speakers. When the annotation ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.MovieAnnotation class. Represents a movie annotation that contains animated graphics and sound to be presented on the computer screen ..."
 type: docs
 weight: 730
 url: "/net/aspose.pdf.annotations/movieannotation/"

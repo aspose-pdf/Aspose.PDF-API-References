@@ -2,8 +2,8 @@
 title: "Metered.SetMeteredKey"
 linktitle: "SetMeteredKey"
 articleTitle: "SetMeteredKey"
-second_title: "Aspose.PDF for .NET"
-description: "Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, i..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metered method. Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is en..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/metered/setmeteredkey/"

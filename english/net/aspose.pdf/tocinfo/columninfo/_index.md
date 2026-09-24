@@ -2,8 +2,8 @@
 title: "TocInfo.ColumnInfo"
 linktitle: "ColumnInfo"
 articleTitle: "ColumnInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets column info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocInfo property. Gets or sets column info."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/tocinfo/columninfo/"

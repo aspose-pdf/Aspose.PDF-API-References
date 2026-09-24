@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.TBody"
 linktitle: "TBody"
 articleTitle: "TBody"
-second_title: "Aspose.PDF for .NET"
-description: "(Table body row group; PDF 1.5) A group of rows that constitute the main body portion of a table. If the table is split across multiple pages, the body area ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Table body row group; PDF 1.5) A group of rows that constitute the main body portion of a table. If the table is split across m..."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/tbody/"

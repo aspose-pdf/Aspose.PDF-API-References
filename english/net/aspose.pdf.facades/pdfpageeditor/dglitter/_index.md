@@ -2,8 +2,8 @@
 title: "PdfPageEditor.DGLITTER"
 linktitle: "DGLITTER"
 articleTitle: "DGLITTER"
-second_title: "Aspose.PDF for .NET"
-description: "Diagonal Glitter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Diagonal Glitter"
 type: docs
 weight: 380
 url: "/net/aspose.pdf.facades/pdfpageeditor/dglitter/"

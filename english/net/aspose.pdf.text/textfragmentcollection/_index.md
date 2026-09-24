@@ -2,8 +2,8 @@
 title: "TextFragmentCollection Class"
 linktitle: "TextFragmentCollection"
 articleTitle: "TextFragmentCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a text fragments collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextFragmentCollection class. Represents a text fragments collection"
 type: docs
 weight: 570
 url: "/net/aspose.pdf.text/textfragmentcollection/"

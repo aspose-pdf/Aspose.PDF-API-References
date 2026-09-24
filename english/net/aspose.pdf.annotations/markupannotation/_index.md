@@ -2,8 +2,8 @@
 title: "MarkupAnnotation Class"
 linktitle: "MarkupAnnotation"
 articleTitle: "MarkupAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Abstract class representing markup annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.MarkupAnnotation class. Abstract class representing markup annotation."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.annotations/markupannotation/"

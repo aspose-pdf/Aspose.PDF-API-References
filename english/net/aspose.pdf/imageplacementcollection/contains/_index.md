@@ -2,8 +2,8 @@
 title: "ImagePlacementCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether the collection contains a specific value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacementCollection method. Determines whether the collection contains a specific value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/imageplacementcollection/contains/"

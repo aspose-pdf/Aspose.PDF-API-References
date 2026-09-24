@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.BatchSize"
 linktitle: "BatchSize"
 articleTitle: "BatchSize"
-second_title: "Aspose.PDF for .NET"
-description: "Defines batch size if batched conversion is applicable to source and destination formats pair."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Defines batch size if batched conversion is applicable to source and destination formats pair."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/htmlsaveoptions/batchsize/"

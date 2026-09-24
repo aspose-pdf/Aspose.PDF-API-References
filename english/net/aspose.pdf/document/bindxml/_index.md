@@ -2,8 +2,8 @@
 title: "Document.BindXml"
 linktitle: "BindXml"
 articleTitle: "BindXml"
-second_title: "Aspose.PDF for .NET"
-description: "Bind xml to document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Bind xml to document"
 type: docs
 weight: 870
 url: "/net/aspose.pdf/document/bindxml/"

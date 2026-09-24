@@ -2,8 +2,8 @@
 title: "FillStroke Class"
 linktitle: "FillStroke"
 articleTitle: "FillStroke"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing B operator (fill and stroke path using nonzero winding rule)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.FillStroke class. Class representing B operator (fill and stroke path using nonzero winding rule)"
 type: docs
 weight: 300
 url: "/net/aspose.pdf.operators/fillstroke/"

@@ -2,8 +2,8 @@
 title: "Matrix3D Class"
 linktitle: "Matrix3D"
 articleTitle: "Matrix3D"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents transformation matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Matrix3D class. Class represents transformation matrix."
 type: docs
 weight: 1880
 url: "/net/aspose.pdf/matrix3d/"

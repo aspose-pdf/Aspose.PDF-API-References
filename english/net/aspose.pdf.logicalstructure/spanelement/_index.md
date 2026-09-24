@@ -2,8 +2,8 @@
 title: "SpanElement Class"
 linktitle: "SpanElement"
 articleTitle: "SpanElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Span structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.SpanElement class. Represents Span structure element in logical structure."
 type: docs
 weight: 500
 url: "/net/aspose.pdf.logicalstructure/spanelement/"

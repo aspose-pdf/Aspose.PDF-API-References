@@ -2,8 +2,8 @@
 title: "PdfPageEditor.RLWIPE"
 linktitle: "RLWIPE"
 articleTitle: "RLWIPE"
-second_title: "Aspose.PDF for .NET"
-description: "Right-Left Wipe"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Right-Left Wipe"
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfpageeditor/rlwipe/"

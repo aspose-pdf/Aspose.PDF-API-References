@@ -2,8 +2,8 @@
 title: "AIClientBase.AIClientBase"
 linktitle: "AIClientBase"
 articleTitle: "AIClientBase"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the AIClientBase class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientBase constructor. Initializes a new instance of the AIClientBase class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/aiclientbase/aiclientbase/"

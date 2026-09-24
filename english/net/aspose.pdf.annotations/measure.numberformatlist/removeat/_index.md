@@ -2,8 +2,8 @@
 title: "Measure.NumberFormatList.RemoveAt"
 linktitle: "RemoveAt"
 articleTitle: "RemoveAt"
-second_title: "Aspose.PDF for .NET"
-description: "Removes number format from list."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormatList method. Removes number format from list."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/removeat/"

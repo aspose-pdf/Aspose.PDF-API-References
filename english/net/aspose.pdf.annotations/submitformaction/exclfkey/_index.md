@@ -2,8 +2,8 @@
 title: "SubmitFormAction.ExclFKey"
 linktitle: "ExclFKey"
 articleTitle: "ExclFKey"
-second_title: "Aspose.PDF for .NET"
-description: "If set, the submitted FDF shall exclude the F entry."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If set, the submitted FDF shall exclude the F entry."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/submitformaction/exclfkey/"

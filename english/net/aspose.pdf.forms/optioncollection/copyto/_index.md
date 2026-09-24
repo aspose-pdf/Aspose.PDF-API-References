@@ -2,8 +2,8 @@
 title: "OptionCollection.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies options into array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection method. Copies options into array."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/optioncollection/copyto/"

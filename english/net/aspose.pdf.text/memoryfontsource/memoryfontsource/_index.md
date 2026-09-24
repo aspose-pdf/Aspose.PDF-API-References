@@ -2,8 +2,8 @@
 title: "MemoryFontSource.MemoryFontSource"
 linktitle: "MemoryFontSource"
 articleTitle: "MemoryFontSource"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MemoryFontSource class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MemoryFontSource constructor. Initializes a new instance of the MemoryFontSource class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/memoryfontsource/memoryfontsource/"

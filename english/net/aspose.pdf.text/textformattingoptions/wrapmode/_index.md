@@ -2,8 +2,8 @@
 title: "TextFormattingOptions.WrapMode"
 linktitle: "WrapMode"
 articleTitle: "WrapMode"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets word wrap mode. Default value is WordWrapMode.NoWrap"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFormattingOptions property. Gets or sets word wrap mode. Default value is WordWrapMode.NoWrap"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textformattingoptions/wrapmode/"

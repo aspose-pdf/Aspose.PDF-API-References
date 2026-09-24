@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions.RemoveAttachments"
 linktitle: "RemoveAttachments"
 articleTitle: "RemoveAttachments"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the option to remove all attached files from the document. When enabled, it ensures that any attachments within the PDF are eliminated during th..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizationOptions property. Gets or sets the option to remove all attached files from the document. When enabled, it ensures that any attachments..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/removeattachments/"

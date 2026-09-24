@@ -2,8 +2,8 @@
 title: "Document.FontSubstitution"
 linktitle: "FontSubstitution"
 articleTitle: "FontSubstitution"
-second_title: "Aspose.PDF for .NET"
-description: "Occurs when font replaces another font in document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document event. Occurs when font replaces another font in document."
 type: docs
 weight: 1630
 url: "/net/aspose.pdf/document/fontsubstitution/"

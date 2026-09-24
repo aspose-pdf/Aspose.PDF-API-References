@@ -2,8 +2,8 @@
 title: "DiffOperation.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DiffOperation method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/diffoperation/equals/"

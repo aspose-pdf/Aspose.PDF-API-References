@@ -2,8 +2,8 @@
 title: "FormulaElement Class"
 linktitle: "FormulaElement"
 articleTitle: "FormulaElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Formula structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.FormulaElement class. Represents Formula structure element in logical structure."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.logicalstructure/formulaelement/"

@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.IsForegroundImage"
 linktitle: "IsForegroundImage"
 articleTitle: "IsForegroundImage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether the image in the signature appearance is drawn as a foreground image. Default value: false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets or sets a value indicating whether the image in the signature appearance is drawn as a foreground image. Default val..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/signaturecustomappearance/isforegroundimage/"

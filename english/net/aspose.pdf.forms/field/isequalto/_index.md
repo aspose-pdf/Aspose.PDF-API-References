@@ -2,8 +2,8 @@
 title: "Field.IsEqualTo"
 linktitle: "IsEqualTo"
 articleTitle: "IsEqualTo"
-second_title: "Aspose.PDF for .NET"
-description: "Operator for comparision field value with given value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Operator for comparision field value with given value."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/field/isequalto/"

@@ -2,8 +2,8 @@
 title: "OptionCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds item in collection, throws NotImplementedException."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection method. Adds item in collection, throws NotImplementedException."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/optioncollection/add/"

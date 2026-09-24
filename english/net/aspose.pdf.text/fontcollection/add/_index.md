@@ -2,8 +2,8 @@
 title: "FontCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontCollection method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/fontcollection/add/"

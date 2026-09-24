@@ -2,8 +2,8 @@
 title: "PdfPageEditor.ApplyChanges"
 linktitle: "ApplyChanges"
 articleTitle: "ApplyChanges"
-second_title: "Aspose.PDF for .NET"
-description: "Apply changes made to the document pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Apply changes made to the document pages."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdfpageeditor/applychanges/"

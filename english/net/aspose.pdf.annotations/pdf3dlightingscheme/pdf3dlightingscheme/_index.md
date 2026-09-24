@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.PDF3DLightingScheme"
 linktitle: "PDF3DLightingScheme"
 articleTitle: "PDF3DLightingScheme"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PDF3DLightingScheme class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme constructor. Initializes a new instance of the PDF3DLightingScheme class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/"

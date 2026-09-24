@@ -2,8 +2,8 @@
 title: "SubjectNameElements Enum"
 linktitle: "SubjectNameElements"
 articleTitle: "SubjectNameElements"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration describes elements in signature subject string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.SubjectNameElements enum. Enumeration describes elements in signature subject string."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.forms/subjectnameelements/"

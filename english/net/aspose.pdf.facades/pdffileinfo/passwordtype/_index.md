@@ -2,8 +2,8 @@
 title: "PdfFileInfo.PasswordType"
 linktitle: "PasswordType"
 articleTitle: "PasswordType"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the type of password which was passed for creating PdfFileInfo instance. See possible values in . Pay attention that pdf document can be opened using..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo property. Returns the type of password which was passed for creating PdfFileInfo instance. See possible values in . Pay attention that pdf docume..."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.facades/pdffileinfo/passwordtype/"

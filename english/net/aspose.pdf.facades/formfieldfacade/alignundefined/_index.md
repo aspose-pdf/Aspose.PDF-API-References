@@ -2,8 +2,8 @@
 title: "FormFieldFacade.AlignUndefined"
 linktitle: "AlignUndefined"
 articleTitle: "AlignUndefined"
-second_title: "Aspose.PDF for .NET"
-description: "Undefined aglignment style."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Undefined aglignment style."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/formfieldfacade/alignundefined/"

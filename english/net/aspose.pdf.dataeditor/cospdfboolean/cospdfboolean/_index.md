@@ -2,8 +2,8 @@
 title: "CosPdfBoolean.CosPdfBoolean"
 linktitle: "CosPdfBoolean"
 articleTitle: "CosPdfBoolean"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CosPdfBoolean class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfBoolean constructor. Initializes a new instance of the CosPdfBoolean class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/"

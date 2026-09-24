@@ -2,8 +2,8 @@
 title: "XFA.GetFieldTemplate"
 linktitle: "GetFieldTemplate"
 articleTitle: "GetFieldTemplate"
-second_title: "Aspose.PDF for .NET"
-description: "Returns XML node of XFA field tempalte."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA method. Returns XML node of XFA field tempalte."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/xfa/getfieldtemplate/"

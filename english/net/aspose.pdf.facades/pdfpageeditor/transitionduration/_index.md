@@ -2,8 +2,8 @@
 title: "PdfPageEditor.TransitionDuration"
 linktitle: "TransitionDuration"
 articleTitle: "TransitionDuration"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets duration of the transition effect."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor property. Gets or sets duration of the transition effect."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdfpageeditor/transitionduration/"

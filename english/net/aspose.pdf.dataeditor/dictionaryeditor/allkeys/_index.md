@@ -2,8 +2,8 @@
 title: "DictionaryEditor.AllKeys"
 linktitle: "AllKeys"
 articleTitle: "AllKeys"
-second_title: "Aspose.PDF for .NET"
-description: "Full collection of keys. Contains editable and not editable keys."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor property. Full collection of keys. Contains editable and not editable keys."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/allkeys/"

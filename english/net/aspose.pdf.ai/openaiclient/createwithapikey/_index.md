@@ -2,8 +2,8 @@
 title: "OpenAIClient.CreateWithApiKey"
 linktitle: "CreateWithApiKey"
 articleTitle: "CreateWithApiKey"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new instance of with the provided API key."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Creates a new instance of with the provided API key."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.ai/openaiclient/createwithapikey/"

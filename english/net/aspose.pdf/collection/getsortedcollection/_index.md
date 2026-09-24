@@ -2,8 +2,8 @@
 title: "Collection.GetSortedCollection"
 linktitle: "GetSortedCollection"
 articleTitle: "GetSortedCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a collection of files sorted according to the specification."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Collection method. Gets a collection of files sorted according to the specification."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/collection/getsortedcollection/"

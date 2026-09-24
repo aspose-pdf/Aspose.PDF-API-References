@@ -2,8 +2,8 @@
 title: "ExternalSignature Class"
 linktitle: "ExternalSignature"
 articleTitle: "ExternalSignature"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.ExternalSignature class. Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable..."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/externalsignature/"

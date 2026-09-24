@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.TryGetValue"
 linktitle: "TryGetValue"
 articleTitle: "TryGetValue"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/appearancedictionary/trygetvalue/"

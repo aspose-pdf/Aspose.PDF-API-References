@@ -2,8 +2,8 @@
 title: "Circle.Radius"
 linktitle: "Radius"
 articleTitle: "Radius"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the radius of the circle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Circle property. Gets or sets a float value that indicates the radius of the circle."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/circle/radius/"

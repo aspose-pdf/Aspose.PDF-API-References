@@ -2,8 +2,8 @@
 title: "Rectangle.NearEquals"
 linktitle: "NearEquals"
 articleTitle: "NearEquals"
-second_title: "Aspose.PDF for .NET"
-description: "Check if rectangles are near equal i.e. have near same (up to delta) position and sizes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Check if rectangles are near equal i.e. have near same (up to delta) position and sizes."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/rectangle/nearequals/"

@@ -2,8 +2,8 @@
 title: "PdfFileInfo.AssertDocument"
 linktitle: "AssertDocument"
 articleTitle: "AssertDocument"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdffileinfo/assertdocument/"

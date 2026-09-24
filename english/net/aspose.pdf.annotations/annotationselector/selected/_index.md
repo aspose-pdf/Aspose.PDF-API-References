@@ -2,8 +2,8 @@
 title: "AnnotationSelector.Selected"
 linktitle: "Selected"
 articleTitle: "Selected"
-second_title: "Aspose.PDF for .NET"
-description: "The list of selected objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationSelector property. The list of selected objects."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.annotations/annotationselector/selected/"

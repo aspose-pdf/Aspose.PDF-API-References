@@ -2,8 +2,8 @@
 title: "PaperSizes.Note"
 linktitle: "Note"
 articleTitle: "Note"
-second_title: "Aspose.PDF for .NET"
-description: "Note paper (8.5 in. by 11 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Note paper (8.5 in. by 11 in.)."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.printing/papersizes/note/"

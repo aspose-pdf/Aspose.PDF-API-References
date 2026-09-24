@@ -2,8 +2,8 @@
 title: "CompromiseCheckResult.HasCompromisedSignatures"
 linktitle: "HasCompromisedSignatures"
 articleTitle: "HasCompromisedSignatures"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether there are any compromised digital signatures in the document. Returns true if at least one signature is compromised; otherwise, false."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompromiseCheckResult property. Indicates whether there are any compromised digital signatures in the document. Returns true if at least one signature is com..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/"

@@ -2,8 +2,8 @@
 title: "FileAttachmentAnnotation.File"
 linktitle: "File"
 articleTitle: "File"
-second_title: "Aspose.PDF for .NET"
-description: "The specification of the file associated with this annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileAttachmentAnnotation property. The specification of the file associated with this annotation."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/fileattachmentannotation/file/"

@@ -2,8 +2,8 @@
 title: "LlamaSummaryCopilotOptions.Create"
 linktitle: "Create"
 articleTitle: "Create"
-second_title: "Aspose.PDF for .NET"
-description: "Creates a new instance of ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Creates a new instance of ."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/create/"

@@ -2,8 +2,8 @@
 title: "PdfAction.IsInitialized"
 linktitle: "IsInitialized"
 articleTitle: "IsInitialized"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether the action has been initialized."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAction property. Indicates whether the action has been initialized."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdfaction/isinitialized/"

@@ -2,8 +2,8 @@
 title: "Rectangle.Height"
 linktitle: "Height"
 articleTitle: "Height"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a float value that indicates the height of the rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. Gets or sets a float value that indicates the height of the rectangle."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.drawing/rectangle/height/"

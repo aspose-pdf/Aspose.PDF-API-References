@@ -2,8 +2,8 @@
 title: "PKCS1 Class"
 linktitle: "PKCS1"
 articleTitle: "PKCS1"
-second_title: "Aspose.PDF for .NET"
-description: "Represents signature object regarding PKCS#1 standard. RSA encryption algorithm and SHA-1 digest method are used for signing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.PKCS1 class. Represents signature object regarding PKCS#1 standard. RSA encryption algorithm and SHA-1 digest method are used for signing."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.forms/pkcs1/"

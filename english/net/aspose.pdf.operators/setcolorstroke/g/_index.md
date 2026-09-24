@@ -2,8 +2,8 @@
 title: "SetColorStroke.G"
 linktitle: "G"
 articleTitle: "G"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the green component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorStroke property. Gets or sets the green component."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.operators/setcolorstroke/g/"

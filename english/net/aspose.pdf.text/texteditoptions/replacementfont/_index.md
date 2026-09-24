@@ -2,8 +2,8 @@
 title: "TextEditOptions.ReplacementFont"
 linktitle: "ReplacementFont"
 articleTitle: "ReplacementFont"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets font used for replacing if user font does not contain required character"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextEditOptions property. Gets or sets font used for replacing if user font does not contain required character"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/texteditoptions/replacementfont/"

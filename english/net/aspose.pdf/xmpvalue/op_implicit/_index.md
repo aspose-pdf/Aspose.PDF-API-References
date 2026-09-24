@@ -2,8 +2,8 @@
 title: "XmpValue.op_Implicit"
 linktitle: "op_Implicit"
 articleTitle: "op_Implicit"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/xmpvalue/op_implicit/"

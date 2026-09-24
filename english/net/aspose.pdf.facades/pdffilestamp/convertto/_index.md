@@ -2,8 +2,8 @@
 title: "PdfFileStamp.ConvertTo"
 linktitle: "ConvertTo"
 articleTitle: "ConvertTo"
-second_title: "Aspose.PDF for .NET"
-description: "Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format with..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp property. Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in ..."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdffilestamp/convertto/"

@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetRevision"
 linktitle: "GetRevision"
 articleTitle: "GetRevision"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the revision of a signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the revision of a signature."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdffilesignature/getrevision/"

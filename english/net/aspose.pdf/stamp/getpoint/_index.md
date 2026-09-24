@@ -2,8 +2,8 @@
 title: "Stamp.getPoint"
 linktitle: "getPoint"
 articleTitle: "getPoint"
-second_title: "Aspose.PDF for .NET"
-description: "Returns point if the stamp on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Returns point if the stamp on the page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/stamp/getpoint/"

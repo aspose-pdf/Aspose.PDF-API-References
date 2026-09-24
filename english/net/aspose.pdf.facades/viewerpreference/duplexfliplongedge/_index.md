@@ -2,8 +2,8 @@
 title: "ViewerPreference.DuplexFlipLongEdge"
 linktitle: "DuplexFlipLongEdge"
 articleTitle: "DuplexFlipLongEdge"
-second_title: "Aspose.PDF for .NET"
-description: "Duplex and flip on the short edge of the sheet."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Duplex and flip on the short edge of the sheet."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/viewerpreference/duplexfliplongedge/"

@@ -2,8 +2,8 @@
 title: "TableAbsorber Class"
 linktitle: "TableAbsorber"
 articleTitle: "TableAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an absorber object of table elements. Performs search and provides access to search results via collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TableAbsorber class. Represents an absorber object of table elements. Performs search and provides access to search results via collection."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.text/tableabsorber/"

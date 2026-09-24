@@ -2,8 +2,8 @@
 title: "CollectionSchema.HasName"
 linktitle: "HasName"
 articleTitle: "HasName"
-second_title: "Aspose.PDF for .NET"
-description: "Determines whether the specified name exists in the schema."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionSchema method. Determines whether the specified name exists in the schema."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/collectionschema/hasname/"

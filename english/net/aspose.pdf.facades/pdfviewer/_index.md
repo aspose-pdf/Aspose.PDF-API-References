@@ -2,8 +2,8 @@
 title: "PdfViewer Class"
 linktitle: "PdfViewer"
 articleTitle: "PdfViewer"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to view or print a pdf."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfViewer class. Represents a class to view or print a pdf."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.facades/pdfviewer/"

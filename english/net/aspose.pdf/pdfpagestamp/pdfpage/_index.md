@@ -2,8 +2,8 @@
 title: "PdfPageStamp.PdfPage"
 linktitle: "PdfPage"
 articleTitle: "PdfPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets page which will be used as stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageStamp property. Gets or sets page which will be used as stamp."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pdfpagestamp/pdfpage/"

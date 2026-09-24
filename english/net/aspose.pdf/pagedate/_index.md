@@ -2,8 +2,8 @@
 title: "PageDate Class"
 linktitle: "PageDate"
 articleTitle: "PageDate"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a date format composed of day, month, and year components."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageDate class. Represents a date format composed of day, month, and year components."
 type: docs
 weight: 2170
 url: "/net/aspose.pdf/pagedate/"

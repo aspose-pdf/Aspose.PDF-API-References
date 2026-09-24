@@ -2,8 +2,8 @@
 title: "Color.PowderBlue"
 linktitle: "PowderBlue"
 articleTitle: "PowderBlue"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFB0E0E6."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFB0E0E6."
 type: docs
 weight: 1300
 url: "/net/aspose.pdf/color/powderblue/"

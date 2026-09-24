@@ -2,8 +2,8 @@
 title: "Resources.GetExtGStates"
 linktitle: "GetExtGStates"
 articleTitle: "GetExtGStates"
-second_title: "Aspose.PDF for .NET"
-description: "Gets all ExGStates from resources."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resources method. Gets all ExGStates from resources."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/resources/getextgstates/"

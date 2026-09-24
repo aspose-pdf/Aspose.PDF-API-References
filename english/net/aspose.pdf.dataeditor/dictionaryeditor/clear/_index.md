@@ -2,8 +2,8 @@
 title: "DictionaryEditor.Clear"
 linktitle: "Clear"
 articleTitle: "Clear"
-second_title: "Aspose.PDF for .NET"
-description: "Removes all items from the ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor method. Removes all items from the ."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/clear/"

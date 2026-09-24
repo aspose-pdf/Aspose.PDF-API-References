@@ -2,8 +2,8 @@
 title: "SetColor.B"
 linktitle: "B"
 articleTitle: "B"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the blue component."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColor property. Gets or sets the blue component."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.operators/setcolor/b/"

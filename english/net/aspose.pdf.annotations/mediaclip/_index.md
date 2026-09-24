@@ -2,8 +2,8 @@
 title: "MediaClip Class"
 linktitle: "MediaClip"
 articleTitle: "MediaClip"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes media clip object of rendition."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.MediaClip class. Class describes media clip object of rendition."
 type: docs
 weight: 690
 url: "/net/aspose.pdf.annotations/mediaclip/"

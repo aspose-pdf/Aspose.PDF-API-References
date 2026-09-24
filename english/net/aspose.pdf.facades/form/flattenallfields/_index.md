@@ -2,8 +2,8 @@
 title: "Form.FlattenAllFields"
 linktitle: "FlattenAllFields"
 articleTitle: "FlattenAllFields"
-second_title: "Aspose.PDF for .NET"
-description: "Flattens all the fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Flattens all the fields."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/form/flattenallfields/"

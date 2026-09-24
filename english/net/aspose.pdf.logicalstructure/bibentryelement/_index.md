@@ -2,8 +2,8 @@
 title: "BibEntryElement Class"
 linktitle: "BibEntryElement"
 articleTitle: "BibEntryElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents BibEntry structure element in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.BibEntryElement class. Represents BibEntry structure element in logical structure."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/bibentryelement/"

@@ -2,8 +2,8 @@
 title: "UnifiedSaveOptions.IsMultiThreading"
 linktitle: "IsMultiThreading"
 articleTitle: "IsMultiThreading"
-second_title: "Aspose.PDF for .NET"
-description: "Process pages in few threads."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnifiedSaveOptions field. Process pages in few threads."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/unifiedsaveoptions/ismultithreading/"

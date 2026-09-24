@@ -2,8 +2,8 @@
 title: "ViewerPreference.NonFullScreenPageModeUseThumbs"
 linktitle: "NonFullScreenPageModeUseThumbs"
 articleTitle: "NonFullScreenPageModeUseThumbs"
-second_title: "Aspose.PDF for .NET"
-description: "Thumbnail images visible"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Thumbnail images visible"
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/"

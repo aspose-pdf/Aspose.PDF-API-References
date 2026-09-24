@@ -2,8 +2,8 @@
 title: "DocumentActionCollection.AfterPrinting"
 linktitle: "AfterPrinting"
 articleTitle: "AfterPrinting"
-second_title: "Aspose.PDF for .NET"
-description: "Action that will be performed after document printing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentActionCollection property. Action that will be performed after document printing."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/documentactioncollection/afterprinting/"

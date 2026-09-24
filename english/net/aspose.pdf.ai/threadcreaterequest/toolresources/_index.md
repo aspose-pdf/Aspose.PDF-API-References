@@ -2,8 +2,8 @@
 title: "ThreadCreateRequest.ToolResources"
 linktitle: "ToolResources"
 articleTitle: "ToolResources"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a set of resources that are made available to the assistant's tools in this thread."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadCreateRequest property. Gets or sets a set of resources that are made available to the assistant's tools in this thread."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/threadcreaterequest/toolresources/"

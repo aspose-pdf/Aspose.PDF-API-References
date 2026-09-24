@@ -2,8 +2,8 @@
 title: "XFA.SetFieldImage"
 linktitle: "SetFieldImage"
 articleTitle: "SetFieldImage"
-second_title: "Aspose.PDF for .NET"
-description: "Sets image for XFA field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA method. Sets image for XFA field."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/xfa/setfieldimage/"

@@ -2,8 +2,8 @@
 title: "UnsignedContentAbsorber.Result.UnsignedContent"
 linktitle: "UnsignedContent"
 articleTitle: "UnsignedContent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets an unsigned content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Result property. Gets an unsigned content."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/unsignedcontent/"

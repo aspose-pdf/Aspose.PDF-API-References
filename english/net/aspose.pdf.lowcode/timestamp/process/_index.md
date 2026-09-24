@@ -2,8 +2,8 @@
 title: "Timestamp.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Processes the timestamp plugin with the supplied options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Timestamp method. Processes the timestamp plugin with the supplied options."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/timestamp/process/"

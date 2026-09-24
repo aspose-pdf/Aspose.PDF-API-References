@@ -2,8 +2,8 @@
 title: "VectorStoreFileResponse.Status"
 linktitle: "Status"
 articleTitle: "Status"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the status of the vector store file, which can be either in_progress, completed, cancelled, or failed. The status completed indicates that the v..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileResponse property. Gets or sets the status of the vector store file, which can be either in_progress, completed, cancelled, or failed. The sta..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/status/"

@@ -2,8 +2,8 @@
 title: "CompletionCreateRequest.Stream"
 linktitle: "Stream"
 articleTitle: "Stream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets if to use streaming. If set, partial message deltas will be sent, like in ChatGPT. Tokens will be sent as data-only server-sent events as they b..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompletionCreateRequest property. Gets or sets if to use streaming. If set, partial message deltas will be sent, like in ChatGPT. Tokens will be sent as data..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.ai/completioncreaterequest/stream/"

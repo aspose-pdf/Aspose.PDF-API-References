@@ -2,8 +2,8 @@
 title: "HtmlLoadOptions.IsRenderToSinglePage"
 linktitle: "IsRenderToSinglePage"
 articleTitle: "IsRenderToSinglePage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rendering all document to single page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions property. Gets or sets rendering all document to single page"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/htmlloadoptions/isrendertosinglepage/"

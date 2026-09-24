@@ -2,8 +2,8 @@
 title: "PdfFileSignature.GetBlankSignatureNames"
 linktitle: "GetBlankSignatureNames"
 articleTitle: "GetBlankSignatureNames"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the names of all empty signature fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the names of all empty signature fields."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/pdffilesignature/getblanksignaturenames/"

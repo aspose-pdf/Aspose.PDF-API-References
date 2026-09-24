@@ -2,8 +2,8 @@
 title: "Paragraphs.RemoveRange"
 linktitle: "RemoveRange"
 articleTitle: "RemoveRange"
-second_title: "Aspose.PDF for .NET"
-description: "Remove paragraphs range."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs method. Remove paragraphs range."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/paragraphs/removerange/"

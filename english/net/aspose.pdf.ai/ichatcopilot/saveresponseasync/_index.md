@@ -2,8 +2,8 @@
 title: "IChatCopilot.SaveResponseAsync"
 linktitle: "SaveResponseAsync"
 articleTitle: "SaveResponseAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Asynchronously saves the response for the given message to a PDF file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IChatCopilot method. Asynchronously saves the response for the given message to a PDF file."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/ichatcopilot/saveresponseasync/"

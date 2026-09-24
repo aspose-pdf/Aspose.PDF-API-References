@@ -2,8 +2,8 @@
 title: "PdfConverter.MergeImages"
 linktitle: "MergeImages"
 articleTitle: "MergeImages"
-second_title: "Aspose.PDF for .NET"
-description: "Merges list of image streams as one image stream. Png/jpg/tiff outputs formats are supported, in case of using non supported format output stream encoded as ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Merges list of image streams as one image stream. Png/jpg/tiff outputs formats are supported, in case of using non supported format outp..."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.facades/pdfconverter/mergeimages/"

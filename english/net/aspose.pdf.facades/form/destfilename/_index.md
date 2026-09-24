@@ -2,8 +2,8 @@
 title: "Form.DestFileName"
 linktitle: "DestFileName"
 articleTitle: "DestFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets destiination file name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets or sets destiination file name."
 type: docs
 weight: 540
 url: "/net/aspose.pdf.facades/form/destfilename/"

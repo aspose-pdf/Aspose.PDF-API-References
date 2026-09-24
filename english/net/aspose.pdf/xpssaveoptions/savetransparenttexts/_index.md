@@ -2,8 +2,8 @@
 title: "XpsSaveOptions.SaveTransparentTexts"
 linktitle: "SaveTransparentTexts"
 articleTitle: "SaveTransparentTexts"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates whether to preserve transparent (OCR'ed) text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XpsSaveOptions property. Indicates whether to preserve transparent (OCR'ed) text."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xpssaveoptions/savetransparenttexts/"

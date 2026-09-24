@@ -2,8 +2,8 @@
 title: "ButtonField.ButtonField"
 linktitle: "ButtonField"
 articleTitle: "ButtonField"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ButtonField class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ButtonField constructor. Initializes a new instance of the ButtonField class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/buttonfield/buttonfield/"

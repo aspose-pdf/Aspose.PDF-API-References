@@ -2,8 +2,8 @@
 title: "FormFieldFacade.BackgroundColor"
 linktitle: "BackgroundColor"
 articleTitle: "BackgroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "The color of a field background, default is white."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The color of a field background, default is white."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/formfieldfacade/backgroundcolor/"

@@ -2,8 +2,8 @@
 title: "PdfFileMend.OutputStream"
 linktitle: "OutputStream"
 articleTitle: "OutputStream"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the output stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend property. Sets the output stream."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/pdffilemend/outputstream/"

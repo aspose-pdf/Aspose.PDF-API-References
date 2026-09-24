@@ -2,8 +2,8 @@
 title: "HeaderFooter Class"
 linktitle: "HeaderFooter"
 articleTitle: "HeaderFooter"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents header or footer pdf page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HeaderFooter class. Class represents header or footer pdf page."
 type: docs
 weight: 1050
 url: "/net/aspose.pdf/headerfooter/"

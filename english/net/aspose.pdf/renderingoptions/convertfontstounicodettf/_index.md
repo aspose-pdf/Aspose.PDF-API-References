@@ -2,8 +2,8 @@
 title: "RenderingOptions.ConvertFontsToUnicodeTTF"
 linktitle: "ConvertFontsToUnicodeTTF"
 articleTitle: "ConvertFontsToUnicodeTTF"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage, cause every new TTF ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font ..."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/renderingoptions/convertfontstounicodettf/"

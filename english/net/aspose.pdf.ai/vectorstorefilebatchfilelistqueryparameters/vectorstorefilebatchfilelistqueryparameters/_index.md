@@ -2,8 +2,8 @@
 title: "VectorStoreFileBatchFileListQueryParameters.VectorStoreFileBatchFileListQueryParameters"
 linktitle: "VectorStoreFileBatchFileListQueryParameters"
 articleTitle: "VectorStoreFileBatchFileListQueryParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the VectorStoreFileBatchFileListQueryParameters class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileBatchFileListQueryParameters constructor. Initializes a new instance of the VectorStoreFileBatchFileListQueryParameters class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/vectorstorefilebatchfilelistqueryparameters/"

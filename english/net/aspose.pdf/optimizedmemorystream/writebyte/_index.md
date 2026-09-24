@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.WriteByte"
 linktitle: "WriteByte"
 articleTitle: "WriteByte"
-second_title: "Aspose.PDF for .NET"
-description: "Writes a byte to the current position in the stream and advances the position within the stream by one byte."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. Writes a byte to the current position in the stream and advances the position within the stream by one byte."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/optimizedmemorystream/writebyte/"

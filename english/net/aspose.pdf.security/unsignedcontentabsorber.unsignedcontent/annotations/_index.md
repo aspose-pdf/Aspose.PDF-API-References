@@ -2,8 +2,8 @@
 title: "UnsignedContentAbsorber.UnsignedContent.Annotations"
 linktitle: "Annotations"
 articleTitle: "Annotations"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a dictionary of modified annotations that may have changed or added."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnsignedContent property. Gets a dictionary of modified annotations that may have changed or added."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/annotations/"

@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.ExcludeFontNameList"
 linktitle: "ExcludeFontNameList"
 articleTitle: "ExcludeFontNameList"
-second_title: "Aspose.PDF for .NET"
-description: "List of PDF embedded font names that not be embedded in HTML."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. List of PDF embedded font names that not be embedded in HTML."
 type: docs
 weight: 360
 url: "/net/aspose.pdf/htmlsaveoptions/excludefontnamelist/"

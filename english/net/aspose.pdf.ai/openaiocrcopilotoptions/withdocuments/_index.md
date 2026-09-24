@@ -2,8 +2,8 @@
 title: "OpenAIOcrCopilotOptions.WithDocuments"
 linktitle: "WithDocuments"
 articleTitle: "WithDocuments"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the document collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Sets the document collection."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withdocuments/"

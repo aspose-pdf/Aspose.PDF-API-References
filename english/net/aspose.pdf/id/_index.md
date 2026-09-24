@@ -2,8 +2,8 @@
 title: "Id Class"
 linktitle: "Id"
 articleTitle: "Id"
-second_title: "Aspose.PDF for .NET"
-description: "Represents file identifier structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Id class. Represents file identifier structure."
 type: docs
 weight: 1480
 url: "/net/aspose.pdf/id/"

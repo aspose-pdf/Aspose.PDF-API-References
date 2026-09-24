@@ -2,8 +2,8 @@
 title: "ImagePlacementCollection Class"
 linktitle: "ImagePlacementCollection"
 articleTitle: "ImagePlacementCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an image placements collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImagePlacementCollection class. Represents an image placements collection"
 type: docs
 weight: 1550
 url: "/net/aspose.pdf/imageplacementcollection/"

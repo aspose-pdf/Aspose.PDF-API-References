@@ -2,8 +2,8 @@
 title: "MarkupAnnotation.MarkupAnnotation"
 linktitle: "MarkupAnnotation"
 articleTitle: "MarkupAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the MarkupAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation constructor. Initializes a new instance of the MarkupAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/markupannotation/markupannotation/"

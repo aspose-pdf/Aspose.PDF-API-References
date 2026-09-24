@@ -2,8 +2,8 @@
 title: "ViewerPreference.PageLayoutTwoColumnRight"
 linktitle: "PageLayoutTwoColumnRight"
 articleTitle: "PageLayoutTwoColumnRight"
-second_title: "Aspose.PDF for .NET"
-description: "Display the pages in two columns, with odd-numbered pages on the right."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Display the pages in two columns, with odd-numbered pages on the right."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnright/"

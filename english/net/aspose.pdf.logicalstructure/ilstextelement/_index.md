@@ -2,8 +2,8 @@
 title: "ILSTextElement Class"
 linktitle: "ILSTextElement"
 articleTitle: "ILSTextElement"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a base class for inline-level text structure elements in logical structure."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.ILSTextElement class. Represents a base class for inline-level text structure elements in logical structure."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.logicalstructure/ilstextelement/"

@@ -2,8 +2,8 @@
 title: "XfdfReader.ReadFields"
 linktitle: "ReadFields"
 articleTitle: "ReadFields"
-second_title: "Aspose.PDF for .NET"
-description: "Import field values from XFDF file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XfdfReader method. Import field values from XFDF file."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/xfdfreader/readfields/"

@@ -2,8 +2,8 @@
 title: "AttributeName.BorderStyle_Ridge"
 linktitle: "BorderStyle_Ridge"
 articleTitle: "BorderStyle_Ridge"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BorderStyle: Ridge - The border looks as though it were coming out of the canvas (the opposite of Groove)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BorderStyle: Ridge - The border looks as though it were coming out of the canvas (the opposite of Groove)."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_ridge/"

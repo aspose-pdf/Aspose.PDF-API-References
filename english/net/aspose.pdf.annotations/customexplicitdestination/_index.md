@@ -2,8 +2,8 @@
 title: "CustomExplicitDestination Class"
 linktitle: "CustomExplicitDestination"
 articleTitle: "CustomExplicitDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Represents custom explicit destination."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.CustomExplicitDestination class. Represents custom explicit destination."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.annotations/customexplicitdestination/"

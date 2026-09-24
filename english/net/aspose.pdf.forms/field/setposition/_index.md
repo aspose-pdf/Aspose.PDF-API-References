@@ -2,8 +2,8 @@
 title: "Field.SetPosition"
 linktitle: "SetPosition"
 articleTitle: "SetPosition"
-second_title: "Aspose.PDF for .NET"
-description: "Set position of the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Set position of the field."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/field/setposition/"

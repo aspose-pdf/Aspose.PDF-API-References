@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.IsLowMemoryMode"
 linktitle: "IsLowMemoryMode"
 articleTitle: "IsLowMemoryMode"
-second_title: "Aspose.PDF for .NET"
-description: "Is low memory conversion mode enabled"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Is low memory conversion mode enabled"
 type: docs
 weight: 80
 url: "/net/aspose.pdf/pdfformatconversionoptions/islowmemorymode/"

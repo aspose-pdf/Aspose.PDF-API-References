@@ -2,8 +2,8 @@
 title: "AppearanceDictionary.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes key from the dictionary."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method. Removes key from the dictionary."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/appearancedictionary/remove/"

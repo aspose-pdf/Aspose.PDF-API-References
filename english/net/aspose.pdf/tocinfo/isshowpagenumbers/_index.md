@@ -2,8 +2,8 @@
 title: "TocInfo.IsShowPageNumbers"
 linktitle: "IsShowPageNumbers"
 articleTitle: "IsShowPageNumbers"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets is show page numbers at Toc."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocInfo property. Gets or sets is show page numbers at Toc."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/tocinfo/isshowpagenumbers/"

@@ -2,8 +2,8 @@
 title: "TextDevice.TextDevice"
 linktitle: "TextDevice"
 articleTitle: "TextDevice"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextDevice class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextDevice constructor. Initializes a new instance of the TextDevice class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/textdevice/textdevice/"

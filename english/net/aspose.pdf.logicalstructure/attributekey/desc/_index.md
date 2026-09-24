@@ -2,8 +2,8 @@
 title: "AttributeKey.Desc"
 linktitle: "Desc"
 articleTitle: "Desc"
-second_title: "Aspose.PDF for .NET"
-description: "Desc attribute (PrintField attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Desc attribute (PrintField attribute owner)."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.logicalstructure/attributekey/desc/"

@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionResponse.Usage"
 linktitle: "Usage"
 articleTitle: "Usage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets usage statistics for the completion request."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionResponse property. Gets or sets usage statistics for the completion request."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/usage/"

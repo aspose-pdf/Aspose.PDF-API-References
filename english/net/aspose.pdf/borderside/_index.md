@@ -2,8 +2,8 @@
 title: "BorderSide Enum"
 linktitle: "BorderSide"
 articleTitle: "BorderSide"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the border sides."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BorderSide enum. Enumerates the border sides."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/borderside/"

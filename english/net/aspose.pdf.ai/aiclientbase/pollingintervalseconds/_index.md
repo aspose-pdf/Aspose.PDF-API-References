@@ -2,8 +2,8 @@
 title: "AIClientBase.PollingIntervalSeconds"
 linktitle: "PollingIntervalSeconds"
 articleTitle: "PollingIntervalSeconds"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the polling interval in seconds."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientBase property. Gets or sets the polling interval in seconds."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/aiclientbase/pollingintervalseconds/"

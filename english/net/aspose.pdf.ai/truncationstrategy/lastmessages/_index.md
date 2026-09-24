@@ -2,8 +2,8 @@
 title: "TruncationStrategy.LastMessages"
 linktitle: "LastMessages"
 articleTitle: "LastMessages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the number of most recent messages from the thread when constructing the context for the run."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TruncationStrategy property. Gets or sets the number of most recent messages from the thread when constructing the context for the run."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/truncationstrategy/lastmessages/"

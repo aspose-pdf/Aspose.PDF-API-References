@@ -2,8 +2,8 @@
 title: "Position.XIndent"
 linktitle: "XIndent"
 articleTitle: "XIndent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the X coordinate of the object"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Position property. Gets the X coordinate of the object"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/position/xindent/"

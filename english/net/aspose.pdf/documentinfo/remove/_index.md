@@ -2,8 +2,8 @@
 title: "DocumentInfo.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
-second_title: "Aspose.PDF for .NET"
-description: "Removes the element with the specified key from the collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo method. Removes the element with the specified key from the collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/documentinfo/remove/"

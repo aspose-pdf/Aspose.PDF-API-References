@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.Figure"
 linktitle: "Figure"
 articleTitle: "Figure"
-second_title: "Aspose.PDF for .NET"
-description: "(Figure) An item of graphical content. Its placement may be specified with the Placement layout attribute."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Figure) An item of graphical content. Its placement may be specified with the Placement layout attribute."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/figure/"

@@ -2,8 +2,8 @@
 title: "FormImporterJsonOptions.Inputs"
 linktitle: "Inputs"
 articleTitle: "Inputs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the collection of input source pairs (PDF source and corresponding JSON source)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormImporterJsonOptions property. Gets the collection of input source pairs (PDF source and corresponding JSON source)."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/inputs/"

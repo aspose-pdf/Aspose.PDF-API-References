@@ -2,8 +2,8 @@
 title: "Form.DestStream"
 linktitle: "DestStream"
 articleTitle: "DestStream"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets destination stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets or sets destination stream."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.facades/form/deststream/"

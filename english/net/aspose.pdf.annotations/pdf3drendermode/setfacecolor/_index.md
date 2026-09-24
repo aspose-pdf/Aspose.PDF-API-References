@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.SetFaceColor"
 linktitle: "SetFaceColor"
 articleTitle: "SetFaceColor"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the color of the face."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode method. Sets the color of the face."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3drendermode/setfacecolor/"

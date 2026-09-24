@@ -2,8 +2,8 @@
 title: "PDF3DRenderMode.ShadedWireframe"
 linktitle: "ShadedWireframe"
 articleTitle: "ShadedWireframe"
-second_title: "Aspose.PDF for .NET"
-description: "The \"ShadedWireFrame\" render mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"ShadedWireFrame\" render mode."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.annotations/pdf3drendermode/shadedwireframe/"

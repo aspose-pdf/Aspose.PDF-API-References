@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase Class"
 linktitle: "PdfAOptionsBase"
 articleTitle: "PdfAOptionsBase"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the base class for the plugin options. This class provides properties and methods for configuring the PDF/A conversion and validation process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfAOptionsBase class. Represents the base class for the plugin options. This class provides properties and methods for configuring the PD..."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/"

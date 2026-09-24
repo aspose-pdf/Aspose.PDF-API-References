@@ -2,8 +2,8 @@
 title: "FormEditor.SetFieldAlignment"
 linktitle: "SetFieldAlignment"
 articleTitle: "SetFieldAlignment"
-second_title: "Aspose.PDF for .NET"
-description: "Set the alignment style of a text field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set the alignment style of a text field."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.facades/formeditor/setfieldalignment/"

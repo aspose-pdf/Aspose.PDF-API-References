@@ -2,8 +2,8 @@
 title: "TextParagraph.FirstLineIndent"
 linktitle: "FirstLineIndent"
 articleTitle: "FirstLineIndent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph property. Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLine..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/textparagraph/firstlineindent/"

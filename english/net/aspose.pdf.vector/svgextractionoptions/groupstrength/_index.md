@@ -2,8 +2,8 @@
 title: "SvgExtractionOptions.GroupStrength"
 linktitle: "GroupStrength"
 articleTitle: "GroupStrength"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets an option The strength of grouping subpaths into images. Allows you to configure the degree of grouping of subpaths. The value ranges is from 0..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgExtractionOptions property. Gets and sets an option The strength of grouping subpaths into images. Allows you to configure the degree of grouping of subpa..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.vector/svgextractionoptions/groupstrength/"

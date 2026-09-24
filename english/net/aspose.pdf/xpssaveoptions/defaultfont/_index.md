@@ -2,8 +2,8 @@
 title: "XpsSaveOptions.DefaultFont"
 linktitle: "DefaultFont"
 articleTitle: "DefaultFont"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the default font name. Used if the embedded font name is not found in the system."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XpsSaveOptions property. Gets/sets the default font name. Used if the embedded font name is not found in the system."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xpssaveoptions/defaultfont/"

@@ -2,8 +2,8 @@
 title: "BaseParagraph.IsKeptWithNext"
 linktitle: "IsKeptWithNext"
 articleTitle: "IsKeptWithNext"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseParagraph property. Gets or sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is fal..."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/baseparagraph/iskeptwithnext/"

@@ -2,8 +2,8 @@
 title: "IAnnotationVisitor Interface"
 linktitle: "IAnnotationVisitor"
 articleTitle: "IAnnotationVisitor"
-second_title: "Aspose.PDF for .NET"
-description: "Defines Visitor for visiting different document annotations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.IAnnotationVisitor interface. Defines Visitor for visiting different document annotations."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.annotations/iannotationvisitor/"

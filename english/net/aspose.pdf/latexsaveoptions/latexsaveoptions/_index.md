@@ -2,8 +2,8 @@
 title: "LaTeXSaveOptions.LaTeXSaveOptions"
 linktitle: "LaTeXSaveOptions"
 articleTitle: "LaTeXSaveOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the LaTeXSaveOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LaTeXSaveOptions constructor. Initializes a new instance of the LaTeXSaveOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/latexsaveoptions/latexsaveoptions/"

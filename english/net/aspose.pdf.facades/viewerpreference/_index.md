@@ -2,8 +2,8 @@
 title: "ViewerPreference Class"
 linktitle: "ViewerPreference"
 articleTitle: "ViewerPreference"
-second_title: "Aspose.PDF for .NET"
-description: "Describes viewer prefereces (page mode, non full screen page mode, page layout)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.ViewerPreference class. Describes viewer prefereces (page mode, non full screen page mode, page layout)."
 type: docs
 weight: 670
 url: "/net/aspose.pdf.facades/viewerpreference/"

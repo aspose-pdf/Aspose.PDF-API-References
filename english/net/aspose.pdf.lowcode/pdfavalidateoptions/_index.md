@@ -2,8 +2,8 @@
 title: "PdfAValidateOptions Class"
 linktitle: "PdfAValidateOptions"
 articleTitle: "PdfAValidateOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for validating PDF/A compliance of PDF documents with the plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfAValidateOptions class. Represents options for validating PDF/A compliance of PDF documents with the plugin."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.lowcode/pdfavalidateoptions/"

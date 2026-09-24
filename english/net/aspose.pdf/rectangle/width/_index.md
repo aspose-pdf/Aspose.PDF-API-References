@@ -2,8 +2,8 @@
 title: "Rectangle.Width"
 linktitle: "Width"
 articleTitle: "Width"
-second_title: "Aspose.PDF for .NET"
-description: "Width of rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. Width of rectangle."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/rectangle/width/"

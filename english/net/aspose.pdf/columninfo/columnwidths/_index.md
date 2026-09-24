@@ -2,8 +2,8 @@
 title: "ColumnInfo.ColumnWidths"
 linktitle: "ColumnWidths"
 articleTitle: "ColumnWidths"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and p..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColumnInfo property. Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is poin..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/columninfo/columnwidths/"

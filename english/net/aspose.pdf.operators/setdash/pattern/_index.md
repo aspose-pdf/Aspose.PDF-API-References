@@ -2,8 +2,8 @@
 title: "SetDash.Pattern"
 linktitle: "Pattern"
 articleTitle: "Pattern"
-second_title: "Aspose.PDF for .NET"
-description: "Dash pattern. Array's elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths ar..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetDash property. Dash pattern. Array's elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash ..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setdash/pattern/"

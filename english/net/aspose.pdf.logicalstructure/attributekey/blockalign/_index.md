@@ -2,8 +2,8 @@
 title: "AttributeKey.BlockAlign"
 linktitle: "BlockAlign"
 articleTitle: "BlockAlign"
-second_title: "Aspose.PDF for .NET"
-description: "BlockAlign attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. BlockAlign attribute (Layout attribute owner)."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.logicalstructure/attributekey/blockalign/"

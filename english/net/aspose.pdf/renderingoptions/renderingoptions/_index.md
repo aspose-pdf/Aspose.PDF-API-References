@@ -2,8 +2,8 @@
 title: "RenderingOptions.RenderingOptions"
 linktitle: "RenderingOptions"
 articleTitle: "RenderingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the RenderingOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions constructor. Initializes a new instance of the RenderingOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/renderingoptions/renderingoptions/"

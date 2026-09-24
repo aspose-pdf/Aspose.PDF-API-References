@@ -2,8 +2,8 @@
 title: "AnnotationCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Gets count of annotations in collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection property. Gets count of annotations in collection."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/annotationcollection/count/"

@@ -2,8 +2,8 @@
 title: "ComparisonOptions Class"
 linktitle: "ComparisonOptions"
 articleTitle: "ComparisonOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a PDF document comparison options class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.ComparisonOptions class. Represents a PDF document comparison options class."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/comparisonoptions/"

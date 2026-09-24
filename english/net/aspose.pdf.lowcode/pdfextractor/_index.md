@@ -2,8 +2,8 @@
 title: "PdfExtractor Class"
 linktitle: "PdfExtractor"
 articleTitle: "PdfExtractor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents base functionality to extract text, images, and other types of content that may occur on the pages of PDF documents."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfExtractor class. Represents base functionality to extract text, images, and other types of content that may occur on the pages of PDF d..."
 type: docs
 weight: 650
 url: "/net/aspose.pdf.lowcode/pdfextractor/"

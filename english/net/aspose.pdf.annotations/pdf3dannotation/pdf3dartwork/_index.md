@@ -2,8 +2,8 @@
 title: "PDF3DAnnotation.Pdf3DArtwork"
 linktitle: "Pdf3DArtwork"
 articleTitle: "Pdf3DArtwork"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the 3D Artwork."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DAnnotation property. Gets the 3D Artwork."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/"

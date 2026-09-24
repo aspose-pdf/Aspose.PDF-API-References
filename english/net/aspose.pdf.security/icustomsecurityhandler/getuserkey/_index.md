@@ -2,8 +2,8 @@
 title: "ICustomSecurityHandler.GetUserKey"
 linktitle: "GetUserKey"
 articleTitle: "GetUserKey"
-second_title: "Aspose.PDF for .NET"
-description: "Creates an encoded array based on the user's password. This value is typically used to check if the password belongs to the user or owner, and to get the enc..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Creates an encoded array based on the user's password. This value is typically used to check if the password belongs to the us..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/icustomsecurityhandler/getuserkey/"

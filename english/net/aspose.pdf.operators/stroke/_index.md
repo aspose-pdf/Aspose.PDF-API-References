@@ -2,8 +2,8 @@
 title: "Stroke Class"
 linktitle: "Stroke"
 articleTitle: "Stroke"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing S operator (stroke path)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.Stroke class. Class representing S operator (stroke path)."
 type: docs
 weight: 810
 url: "/net/aspose.pdf.operators/stroke/"

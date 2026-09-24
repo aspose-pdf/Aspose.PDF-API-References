@@ -2,8 +2,8 @@
 title: "Do.Name"
 linktitle: "Name"
 articleTitle: "Name"
-second_title: "Aspose.PDF for .NET"
-description: "Name of XObject argument of the operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Do property. Name of XObject argument of the operator."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/do/name/"

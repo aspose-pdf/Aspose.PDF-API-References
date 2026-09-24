@@ -2,8 +2,8 @@
 title: "Element.ActualText"
 linktitle: "ActualText"
 articleTitle: "ActualText"
-second_title: "Aspose.PDF for .NET"
-description: "(Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. This replacement text (which should apply to as small a pie..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element property. (Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. This replacement text (which should apply..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.structure/element/actualtext/"

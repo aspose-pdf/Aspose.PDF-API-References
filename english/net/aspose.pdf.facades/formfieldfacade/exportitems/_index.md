@@ -2,8 +2,8 @@
 title: "FormFieldFacade.ExportItems"
 linktitle: "ExportItems"
 articleTitle: "ExportItems"
-second_title: "Aspose.PDF for .NET"
-description: "The options for adding a list/combo/radio box"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The options for adding a list/combo/radio box"
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/formfieldfacade/exportitems/"

@@ -2,8 +2,8 @@
 title: "Field.ExecuteFieldJavaScript"
 linktitle: "ExecuteFieldJavaScript"
 articleTitle: "ExecuteFieldJavaScript"
-second_title: "Aspose.PDF for .NET"
-description: "Executes a specified JavaScript action for the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Executes a specified JavaScript action for the field."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/field/executefieldjavascript/"

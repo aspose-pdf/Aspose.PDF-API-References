@@ -2,8 +2,8 @@
 title: "EncryptionParameters Class"
 linktitle: "EncryptionParameters"
 articleTitle: "EncryptionParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an encryption parameters class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.EncryptionParameters class. Represents an encryption parameters class."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.security/encryptionparameters/"

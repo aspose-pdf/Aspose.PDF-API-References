@@ -2,8 +2,8 @@
 title: "XmpValue Class"
 linktitle: "XmpValue"
 articleTitle: "XmpValue"
-second_title: "Aspose.PDF for .NET"
-description: "Represents XMP value"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmpValue class. Represents XMP value"
 type: docs
 weight: 3350
 url: "/net/aspose.pdf/xmpvalue/"

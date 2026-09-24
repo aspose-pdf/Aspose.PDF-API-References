@@ -2,8 +2,8 @@
 title: "HeaderFooter.HeaderFooter"
 linktitle: "HeaderFooter"
 articleTitle: "HeaderFooter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the HeaderFooter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooter constructor. Initializes a new instance of the HeaderFooter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/headerfooter/headerfooter/"

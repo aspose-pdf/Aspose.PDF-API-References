@@ -2,8 +2,8 @@
 title: "ResizeOptions.ResizeOptions"
 linktitle: "ResizeOptions"
 articleTitle: "ResizeOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ResizeOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResizeOptions constructor. Initializes a new instance of the ResizeOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/resizeoptions/resizeoptions/"

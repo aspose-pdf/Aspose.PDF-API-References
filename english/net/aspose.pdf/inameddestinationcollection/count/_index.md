@@ -2,8 +2,8 @@
 title: "INamedDestinationCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
-second_title: "Aspose.PDF for .NET"
-description: "Returns count of the destinations."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "INamedDestinationCollection property. Returns count of the destinations."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/inameddestinationcollection/count/"

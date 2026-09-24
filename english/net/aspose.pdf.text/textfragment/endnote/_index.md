@@ -2,8 +2,8 @@
 title: "TextFragment.EndNote"
 linktitle: "EndNote"
 articleTitle: "EndNote"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the paragraph end note.(for pdf generation only)"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets or sets the paragraph end note.(for pdf generation only)"
 type: docs
 weight: 210
 url: "/net/aspose.pdf.text/textfragment/endnote/"

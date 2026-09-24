@@ -2,8 +2,8 @@
 title: "Document.FlattenTransparency"
 linktitle: "FlattenTransparency"
 articleTitle: "FlattenTransparency"
-second_title: "Aspose.PDF for .NET"
-description: "Replaces transparent content with non-transparent raster and vector graphics."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Replaces transparent content with non-transparent raster and vector graphics."
 type: docs
 weight: 580
 url: "/net/aspose.pdf/document/flattentransparency/"

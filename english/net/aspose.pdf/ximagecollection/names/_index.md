@@ -2,8 +2,8 @@
 title: "XImageCollection.Names"
 linktitle: "Names"
 articleTitle: "Names"
-second_title: "Aspose.PDF for .NET"
-description: "Gets array of image names."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection property. Gets array of image names."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/ximagecollection/names/"

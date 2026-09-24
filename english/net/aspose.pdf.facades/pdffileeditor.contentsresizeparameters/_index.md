@@ -2,8 +2,8 @@
 title: "PdfFileEditor.ContentsResizeParameters Class"
 linktitle: "PdfFileEditor.ContentsResizeParameters"
 articleTitle: "PdfFileEditor.ContentsResizeParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Class for specifing page resize parameters. Allow to set the following parameters: Size of result page (width, height) in default space units or in percents ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileEditor.ContentsResizeParameters class. Class for specifing page resize parameters. Allow to set the following parameters: Size of r..."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/"

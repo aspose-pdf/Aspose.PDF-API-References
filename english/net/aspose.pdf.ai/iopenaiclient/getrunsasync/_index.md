@@ -2,8 +2,8 @@
 title: "IOpenAIClient.GetRunsAsync"
 linktitle: "GetRunsAsync"
 articleTitle: "GetRunsAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Retrieves a list of runs for a specified thread asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves a list of runs for a specified thread asynchronously."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/iopenaiclient/getrunsasync/"

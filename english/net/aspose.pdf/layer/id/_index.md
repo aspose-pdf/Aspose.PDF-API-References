@@ -2,8 +2,8 @@
 title: "Layer.Id"
 linktitle: "Id"
 articleTitle: "Id"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the layer id."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer property. Gets the layer id."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/layer/id/"

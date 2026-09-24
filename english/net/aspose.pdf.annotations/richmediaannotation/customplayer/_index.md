@@ -2,8 +2,8 @@
 title: "RichMediaAnnotation.CustomPlayer"
 linktitle: "CustomPlayer"
 articleTitle: "CustomPlayer"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets custom flash player to play video/audio data."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation property. Sets or gets custom flash player to play video/audio data."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/richmediaannotation/customplayer/"

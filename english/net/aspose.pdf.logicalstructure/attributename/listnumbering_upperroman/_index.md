@@ -2,8 +2,8 @@
 title: "AttributeName.ListNumbering_UpperRoman"
 linktitle: "ListNumbering_UpperRoman"
 articleTitle: "ListNumbering_UpperRoman"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute ListNumbering: UpperRoman - Uppercase roman numerals (I, II, III, IV, ...)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute ListNumbering: UpperRoman - Uppercase roman numerals (I, II, III, IV, ...)."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/"

@@ -2,8 +2,8 @@
 title: "Function Class"
 linktitle: "Function"
 articleTitle: "Function"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a function that can be called by the model."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Function class. Represents a function that can be called by the model."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.ai/function/"

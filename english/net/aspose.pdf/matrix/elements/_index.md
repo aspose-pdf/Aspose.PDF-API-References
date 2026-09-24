@@ -2,8 +2,8 @@
 title: "Matrix.Elements"
 linktitle: "Elements"
 articleTitle: "Elements"
-second_title: "Aspose.PDF for .NET"
-description: "Elements of the matrix."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix property. Elements of the matrix."
 type: docs
 weight: 320
 url: "/net/aspose.pdf/matrix/elements/"

@@ -2,8 +2,8 @@
 title: "SaveOptions.BorderInfo.TopStyleIfAny"
 linktitle: "TopStyleIfAny"
 articleTitle: "TopStyleIfAny"
-second_title: "Aspose.PDF for .NET"
-description: "Represents top part(if any) of border"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderInfo field. Represents top part(if any) of border"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/"

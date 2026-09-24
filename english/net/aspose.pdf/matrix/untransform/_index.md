@@ -2,8 +2,8 @@
 title: "Matrix.UnTransform"
 linktitle: "UnTransform"
 articleTitle: "UnTransform"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/matrix/untransform/"

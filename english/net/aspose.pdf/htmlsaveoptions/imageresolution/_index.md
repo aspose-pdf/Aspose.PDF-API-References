@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.ImageResolution"
 linktitle: "ImageResolution"
 articleTitle: "ImageResolution"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets resolution for image rendering."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Gets or sets resolution for image rendering."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/htmlsaveoptions/imageresolution/"

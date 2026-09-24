@@ -2,8 +2,8 @@
 title: "PdfToImage.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Starts processing with the specified parameters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImage method. Starts processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdftoimage/process/"

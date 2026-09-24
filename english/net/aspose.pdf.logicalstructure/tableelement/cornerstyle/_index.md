@@ -2,8 +2,8 @@
 title: "TableElement.CornerStyle"
 linktitle: "CornerStyle"
 articleTitle: "CornerStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the styles of the border corners"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets the styles of the border corners"
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/tableelement/cornerstyle/"

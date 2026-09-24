@@ -2,8 +2,8 @@
 title: "GraphicsAbsorber.GraphicsAbsorber"
 linktitle: "GraphicsAbsorber"
 articleTitle: "GraphicsAbsorber"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the GraphicsAbsorber class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicsAbsorber constructor. Initializes a new instance of the GraphicsAbsorber class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/"

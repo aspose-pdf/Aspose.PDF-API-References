@@ -2,8 +2,8 @@
 title: "XmpField.ToArray"
 linktitle: "ToArray"
 articleTitle: "ToArray"
-second_title: "Aspose.PDF for .NET"
-description: "Gets value as an array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField method. Gets value as an array."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/xmpfield/toarray/"

@@ -2,8 +2,8 @@
 title: "Color.Parse"
 linktitle: "Parse"
 articleTitle: "Parse"
-second_title: "Aspose.PDF for .NET"
-description: "Extracts color components from the string."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Extracts color components from the string."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/color/parse/"

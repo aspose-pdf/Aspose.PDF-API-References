@@ -2,8 +2,8 @@
 title: "Measure.NumberFormat.Precision"
 linktitle: "Precision"
 articleTitle: "Precision"
-second_title: "Aspose.PDF for .NET"
-description: "If FractionDisplayment is ShowAsDecimal, this value is precision of fractional value; It shall me multiple of 10. Default is 100."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormat property. If FractionDisplayment is ShowAsDecimal, this value is precision of fractional value; It shall me multiple of 10. Default is 100."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/measure.numberformat/precision/"

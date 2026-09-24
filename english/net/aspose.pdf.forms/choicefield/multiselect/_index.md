@@ -2,8 +2,8 @@
 title: "ChoiceField.MultiSelect"
 linktitle: "MultiSelect"
 articleTitle: "MultiSelect"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets multiselection flag."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChoiceField property. Gets or sets multiselection flag."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/choicefield/multiselect/"

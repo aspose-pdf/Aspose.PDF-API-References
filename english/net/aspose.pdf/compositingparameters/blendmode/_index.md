@@ -2,8 +2,8 @@
 title: "CompositingParameters.BlendMode"
 linktitle: "BlendMode"
 articleTitle: "BlendMode"
-second_title: "Aspose.PDF for .NET"
-description: "Gets blend mode of current graphics state."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompositingParameters property. Gets blend mode of current graphics state."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/compositingparameters/blendmode/"

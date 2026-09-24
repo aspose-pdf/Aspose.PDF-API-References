@@ -2,8 +2,8 @@
 title: "MemoryFontSource Class"
 linktitle: "MemoryFontSource"
 articleTitle: "MemoryFontSource"
-second_title: "Aspose.PDF for .NET"
-description: "Represents single font file source."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.MemoryFontSource class. Represents single font file source."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.text/memoryfontsource/"

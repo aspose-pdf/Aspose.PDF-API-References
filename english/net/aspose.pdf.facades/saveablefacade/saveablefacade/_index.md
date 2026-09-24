@@ -2,8 +2,8 @@
 title: "SaveableFacade.SaveableFacade"
 linktitle: "SaveableFacade"
 articleTitle: "SaveableFacade"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SaveableFacade class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SaveableFacade constructor. Initializes a new instance of the SaveableFacade class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/saveablefacade/saveablefacade/"

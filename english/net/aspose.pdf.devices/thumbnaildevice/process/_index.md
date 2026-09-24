@@ -2,8 +2,8 @@
 title: "ThumbnailDevice.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the page into thumbnail image png and saves it in the output stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThumbnailDevice method. Converts the page into thumbnail image png and saves it in the output stream."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.devices/thumbnaildevice/process/"

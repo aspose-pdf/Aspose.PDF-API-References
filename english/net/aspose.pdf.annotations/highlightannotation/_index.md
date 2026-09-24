@@ -2,8 +2,8 @@
 title: "HighlightAnnotation Class"
 linktitle: "HighlightAnnotation"
 articleTitle: "HighlightAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a highlight annotation that highlights a range of text in the document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.HighlightAnnotation class. Represents a highlight annotation that highlights a range of text in the document."
 type: docs
 weight: 490
 url: "/net/aspose.pdf.annotations/highlightannotation/"

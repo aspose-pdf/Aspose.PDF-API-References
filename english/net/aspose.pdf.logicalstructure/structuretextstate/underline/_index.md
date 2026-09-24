@@ -2,8 +2,8 @@
 title: "StructureTextState.Underline"
 linktitle: "Underline"
 articleTitle: "Underline"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets underline for the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets underline for the text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/underline/"

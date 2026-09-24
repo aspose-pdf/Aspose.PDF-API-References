@@ -2,8 +2,8 @@
 title: "PdfFileInfo.SetMetaInfo"
 linktitle: "SetMetaInfo"
 articleTitle: "SetMetaInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Sets customized information of PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Sets customized information of PDF document."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdffileinfo/setmetainfo/"

@@ -2,8 +2,8 @@
 title: "LicenseInfo.EmailTo"
 linktitle: "EmailTo"
 articleTitle: "EmailTo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the email address used to license."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LicenseInfo property. Gets the email address used to license."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/licenseinfo/emailto/"

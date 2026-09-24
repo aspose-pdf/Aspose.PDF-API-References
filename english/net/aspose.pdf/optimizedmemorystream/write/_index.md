@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.Write"
 linktitle: "Write"
 articleTitle: "Write"
-second_title: "Aspose.PDF for .NET"
-description: "When overridden in a derived class, writes a sequence of bytes to the current stream and advances the current position within this stream by the number of by..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. When overridden in a derived class, writes a sequence of bytes to the current stream and advances the current position within t..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/optimizedmemorystream/write/"

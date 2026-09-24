@@ -2,8 +2,8 @@
 title: "PDF3DLightingScheme.Cube"
 linktitle: "Cube"
 articleTitle: "Cube"
-second_title: "Aspose.PDF for .NET"
-description: "The \"Cube\" lighting scheme."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Cube\" lighting scheme."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/cube/"

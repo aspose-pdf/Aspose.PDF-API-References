@@ -2,8 +2,8 @@
 title: "Error.ErrorType"
 linktitle: "ErrorType"
 articleTitle: "ErrorType"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the error type."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Error property. Gets or sets the error type."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/error/errortype/"

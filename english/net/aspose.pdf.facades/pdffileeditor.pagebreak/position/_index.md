@@ -2,8 +2,8 @@
 title: "PdfFileEditor.PageBreak.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Vertical position of page break."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageBreak property. Vertical position of page break."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdffileeditor.pagebreak/position/"

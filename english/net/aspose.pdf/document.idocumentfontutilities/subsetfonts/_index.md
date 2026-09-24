@@ -2,8 +2,8 @@
 title: "Document.IDocumentFontUtilities.SubsetFonts"
 linktitle: "SubsetFonts"
 articleTitle: "SubsetFonts"
-second_title: "Aspose.PDF for .NET"
-description: "Subsets all fonts in document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IDocumentFontUtilities method. Subsets all fonts in document"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/document.idocumentfontutilities/subsetfonts/"

@@ -2,8 +2,8 @@
 title: "TextReplaceOptions.Scope Enum"
 linktitle: "TextReplaceOptions.Scope"
 articleTitle: "TextReplaceOptions.Scope"
-second_title: "Aspose.PDF for .NET"
-description: "Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and ha..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextReplaceOptions.Scope enum. Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compa..."
 type: docs
 weight: 650
 url: "/net/aspose.pdf.text/textreplaceoptions.scope/"

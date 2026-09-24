@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchemaDescription.Description"
 linktitle: "Description"
 articleTitle: "Description"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the optional description."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchemaDescription property. Gets the optional description."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/description/"

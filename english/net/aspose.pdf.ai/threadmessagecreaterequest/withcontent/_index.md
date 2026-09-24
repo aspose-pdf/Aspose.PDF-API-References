@@ -2,8 +2,8 @@
 title: "ThreadMessageCreateRequest.WithContent"
 linktitle: "WithContent"
 articleTitle: "WithContent"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a message content to the thread message request."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageCreateRequest method. Adds a message content to the thread message request."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/withcontent/"

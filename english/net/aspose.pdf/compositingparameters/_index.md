@@ -2,8 +2,8 @@
 title: "CompositingParameters Class"
 linktitle: "CompositingParameters"
 articleTitle: "CompositingParameters"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an object containing graphics compositing parameters of current graphics state."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CompositingParameters class. Represents an object containing graphics compositing parameters of current graphics state."
 type: docs
 weight: 430
 url: "/net/aspose.pdf/compositingparameters/"

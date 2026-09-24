@@ -2,8 +2,8 @@
 title: "GraphicsAbsorber.ResumeUpdate"
 linktitle: "ResumeUpdate"
 articleTitle: "ResumeUpdate"
-second_title: "Aspose.PDF for .NET"
-description: "Resume update for and all Was made for performance increase, see also ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicsAbsorber method. Resume update for and all Was made for performance increase, see also ."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.vector/graphicsabsorber/resumeupdate/"

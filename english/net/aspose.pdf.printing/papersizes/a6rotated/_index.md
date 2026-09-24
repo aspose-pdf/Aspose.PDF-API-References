@@ -2,8 +2,8 @@
 title: "PaperSizes.A6Rotated"
 linktitle: "A6Rotated"
 articleTitle: "A6Rotated"
-second_title: "Aspose.PDF for .NET"
-description: "A6 rotated paper (148 mm by 105 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. A6 rotated paper (148 mm by 105 mm)."
 type: docs
 weight: 810
 url: "/net/aspose.pdf.printing/papersizes/a6rotated/"

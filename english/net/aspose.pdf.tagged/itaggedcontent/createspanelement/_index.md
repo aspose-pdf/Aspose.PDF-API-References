@@ -2,8 +2,8 @@
 title: "ITaggedContent.CreateSpanElement"
 linktitle: "CreateSpanElement"
 articleTitle: "CreateSpanElement"
-second_title: "Aspose.PDF for .NET"
-description: "Creates ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.tagged/itaggedcontent/createspanelement/"

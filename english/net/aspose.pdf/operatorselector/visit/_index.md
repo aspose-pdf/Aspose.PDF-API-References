@@ -2,8 +2,8 @@
 title: "OperatorSelector.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
-second_title: "Aspose.PDF for .NET"
-description: "Visit/select j operator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorSelector method. Visit/select j operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/operatorselector/visit/"

@@ -2,8 +2,8 @@
 title: "AttributeKey.Scope"
 linktitle: "Scope"
 articleTitle: "Scope"
-second_title: "Aspose.PDF for .NET"
-description: "Scope attribute (Table attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Scope attribute (Table attribute owner)."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.logicalstructure/attributekey/scope/"

@@ -2,8 +2,8 @@
 title: "OutlineItemCollection.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if collection contains given item."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection method. Checks if collection contains given item."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/outlineitemcollection/contains/"

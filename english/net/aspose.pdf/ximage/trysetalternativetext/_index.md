@@ -2,8 +2,8 @@
 title: "XImage.TrySetAlternativeText"
 linktitle: "TrySetAlternativeText"
 articleTitle: "TrySetAlternativeText"
-second_title: "Aspose.PDF for .NET"
-description: "Sets alternative text for an XImage on the page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Sets alternative text for an XImage on the page."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/ximage/trysetalternativetext/"

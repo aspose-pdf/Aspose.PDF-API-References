@@ -2,8 +2,8 @@
 title: "VectorStoreFileBatchResponse.VectorStoreId"
 linktitle: "VectorStoreId"
 articleTitle: "VectorStoreId"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the ID of the vector store that the File is attached to."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileBatchResponse property. Gets or sets the ID of the vector store that the File is attached to."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstoreid/"

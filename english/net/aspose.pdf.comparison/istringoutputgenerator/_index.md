@@ -2,8 +2,8 @@
 title: "IStringOutputGenerator Interface"
 linktitle: "IStringOutputGenerator"
 articleTitle: "IStringOutputGenerator"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an interface for generating output to a string of differences between texts."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.IStringOutputGenerator interface. Represents an interface for generating output to a string of differences between texts."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.comparison/istringoutputgenerator/"

@@ -2,8 +2,8 @@
 title: "AbsorbedRow.CellList"
 linktitle: "CellList"
 articleTitle: "CellList"
-second_title: "Aspose.PDF for .NET"
-description: "Gets readonly IList containing cells of the row"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedRow property. Gets readonly IList containing cells of the row"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/absorbedrow/celllist/"

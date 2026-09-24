@@ -2,8 +2,8 @@
 title: "ComparisonOptions.EditOperationsOrder"
 linktitle: "EditOperationsOrder"
 articleTitle: "EditOperationsOrder"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the edit operations order."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComparisonOptions property. Gets and sets the edit operations order."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/comparisonoptions/editoperationsorder/"

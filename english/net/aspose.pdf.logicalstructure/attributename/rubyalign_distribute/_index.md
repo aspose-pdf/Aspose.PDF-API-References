@@ -2,8 +2,8 @@
 title: "AttributeName.RubyAlign_Distribute"
 linktitle: "RubyAlign_Distribute"
 articleTitle: "RubyAlign_Distribute"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute RubyAlign: Distribute - The content shall be expanded to fill the available width in the inline-progression direction. However, space shall also be..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute RubyAlign: Distribute - The content shall be expanded to fill the available width in the inline-progression direction. However..."
 type: docs
 weight: 460
 url: "/net/aspose.pdf.logicalstructure/attributename/rubyalign_distribute/"

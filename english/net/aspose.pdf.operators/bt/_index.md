@@ -2,8 +2,8 @@
 title: "BT Class"
 linktitle: "BT"
 articleTitle: "BT"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing BT operator (Begin of text block)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.BT class. Class representing BT operator (Begin of text block)."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/bt/"

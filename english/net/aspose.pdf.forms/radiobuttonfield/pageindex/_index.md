@@ -2,8 +2,8 @@
 title: "RadioButtonField.PageIndex"
 linktitle: "PageIndex"
 articleTitle: "PageIndex"
-second_title: "Aspose.PDF for .NET"
-description: "Gets index of page which contains this RadioButton field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField property. Gets index of page which contains this RadioButton field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/radiobuttonfield/pageindex/"

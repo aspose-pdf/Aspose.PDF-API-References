@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.OptimizedMemoryStream"
 linktitle: "OptimizedMemoryStream"
 articleTitle: "OptimizedMemoryStream"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the OptimizedMemoryStream class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream constructor. Initializes a new instance of the OptimizedMemoryStream class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/"

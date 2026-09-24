@@ -2,8 +2,8 @@
 title: "Stamp.Rotation"
 linktitle: "Rotation"
 articleTitle: "Rotation"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets rotation of the stamp in degrees."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets rotation of the stamp in degrees."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/stamp/rotation/"

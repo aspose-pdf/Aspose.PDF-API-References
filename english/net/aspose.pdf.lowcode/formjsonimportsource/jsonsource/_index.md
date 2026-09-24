@@ -2,8 +2,8 @@
 title: "FormJsonImportSource.JsonSource"
 linktitle: "JsonSource"
 articleTitle: "JsonSource"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the data source that contains the JSON with field values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormJsonImportSource property. Gets the data source that contains the JSON with field values."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/formjsonimportsource/jsonsource/"

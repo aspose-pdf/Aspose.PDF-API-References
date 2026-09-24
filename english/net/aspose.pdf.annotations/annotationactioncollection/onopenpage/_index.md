@@ -2,8 +2,8 @@
 title: "AnnotationActionCollection.OnOpenPage"
 linktitle: "OnOpenPage"
 articleTitle: "OnOpenPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to be performed when the page containing the annotation is opened."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed when the page containing the annotation is opened."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/annotationactioncollection/onopenpage/"

@@ -2,8 +2,8 @@
 title: "PageDate.PageDate"
 linktitle: "PageDate"
 articleTitle: "PageDate"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PageDate class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageDate constructor. Initializes a new instance of the PageDate class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagedate/pagedate/"

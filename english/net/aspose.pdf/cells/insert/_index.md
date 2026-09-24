@@ -2,8 +2,8 @@
 title: "Cells.Insert"
 linktitle: "Insert"
 articleTitle: "Insert"
-second_title: "Aspose.PDF for .NET"
-description: "Insert cell to collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cells method. Insert cell to collection."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/cells/insert/"

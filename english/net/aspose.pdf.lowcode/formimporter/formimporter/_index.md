@@ -2,8 +2,8 @@
 title: "FormImporter.FormImporter"
 linktitle: "FormImporter"
 articleTitle: "FormImporter"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the FormImporter class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormImporter constructor. Initializes a new instance of the FormImporter class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formimporter/formimporter/"

@@ -2,8 +2,8 @@
 title: "AttributeKey.EndIndent"
 linktitle: "EndIndent"
 articleTitle: "EndIndent"
-second_title: "Aspose.PDF for .NET"
-description: "EndIndent attribute (Layout attribute owner)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. EndIndent attribute (Layout attribute owner)."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/attributekey/endindent/"

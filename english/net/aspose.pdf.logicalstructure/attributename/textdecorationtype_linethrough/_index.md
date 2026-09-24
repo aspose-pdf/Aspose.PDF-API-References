@@ -2,8 +2,8 @@
 title: "AttributeName.TextDecorationType_LineThrough"
 linktitle: "TextDecorationType_LineThrough"
 articleTitle: "TextDecorationType_LineThrough"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute TextDecorationType: LineThrough - A line through the middle of the text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute TextDecorationType: LineThrough - A line through the middle of the text."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_linethrough/"

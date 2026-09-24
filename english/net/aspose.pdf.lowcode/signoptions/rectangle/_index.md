@@ -2,8 +2,8 @@
 title: "SignOptions.Rectangle"
 linktitle: "Rectangle"
 articleTitle: "Rectangle"
-second_title: "Aspose.PDF for .NET"
-description: "The rect of signature."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignOptions property. The rect of signature."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/signoptions/rectangle/"

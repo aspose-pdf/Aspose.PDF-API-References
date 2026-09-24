@@ -2,8 +2,8 @@
 title: "Form.FlattenSettings.Form.FlattenSettings"
 linktitle: "Form.FlattenSettings"
 articleTitle: "Form.FlattenSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Form.FlattenSettings class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FlattenSettings constructor. Initializes a new instance of the Form.FlattenSettings class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/form.flattensettings/flattensettings/"

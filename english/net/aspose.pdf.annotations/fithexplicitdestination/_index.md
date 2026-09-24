@@ -2,8 +2,8 @@
 title: "FitHExplicitDestination Class"
 linktitle: "FitHExplicitDestination"
 articleTitle: "FitHExplicitDestination"
-second_title: "Aspose.PDF for .NET"
-description: "Represents explicit destination that displays the page with the vertical coordinate top positioned at the top edge of the window and the contents of the page..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FitHExplicitDestination class. Represents explicit destination that displays the page with the vertical coordinate top positioned at t..."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.annotations/fithexplicitdestination/"

@@ -2,8 +2,8 @@
 title: "Arc.CheckBounds"
 linktitle: "CheckBounds"
 articleTitle: "CheckBounds"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Arc method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.drawing/arc/checkbounds/"

@@ -2,8 +2,8 @@
 title: "IOpenAIClient.ModifyAssistantAsync"
 linktitle: "ModifyAssistantAsync"
 articleTitle: "ModifyAssistantAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Modifies an existing assistant asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Modifies an existing assistant asynchronously."
 type: docs
 weight: 450
 url: "/net/aspose.pdf.ai/iopenaiclient/modifyassistantasync/"

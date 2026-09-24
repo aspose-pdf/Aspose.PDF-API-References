@@ -2,8 +2,8 @@
 title: "PrinterMarkAnnotation.AddPrinterMarks"
 linktitle: "AddPrinterMarks"
 articleTitle: "AddPrinterMarks"
-second_title: "Aspose.PDF for .NET"
-description: "Adds printer's marks to all pages in the specified document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterMarkAnnotation method. Adds printer's marks to all pages in the specified document."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/"

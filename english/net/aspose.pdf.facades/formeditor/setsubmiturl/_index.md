@@ -2,8 +2,8 @@
 title: "FormEditor.SetSubmitUrl"
 linktitle: "SetSubmitUrl"
 articleTitle: "SetSubmitUrl"
-second_title: "Aspose.PDF for .NET"
-description: "Sets URL of the button."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Sets URL of the button."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/formeditor/setsubmiturl/"

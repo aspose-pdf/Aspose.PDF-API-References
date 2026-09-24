@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.AllowModifyAnnotations"
 linktitle: "AllowModifyAnnotations"
 articleTitle: "AllowModifyAnnotations"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the permission which allow modify annotations or not. true is allow and false is forbidden."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Sets the permission which allow modify annotations or not. true is allow and false is forbidden."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/documentprivilege/allowmodifyannotations/"

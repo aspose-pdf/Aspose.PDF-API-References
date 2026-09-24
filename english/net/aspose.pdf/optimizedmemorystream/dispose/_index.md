@@ -2,8 +2,8 @@
 title: "OptimizedMemoryStream.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Releases the unmanaged resources used by the and optionally releases the managed resources."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. Releases the unmanaged resources used by the and optionally releases the managed resources."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/optimizedmemorystream/dispose/"

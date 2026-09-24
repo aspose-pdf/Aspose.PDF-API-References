@@ -2,8 +2,8 @@
 title: "FormFieldFacade.TextColor"
 linktitle: "TextColor"
 articleTitle: "TextColor"
-second_title: "Aspose.PDF for .NET"
-description: "The color of the field text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The color of the field text."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/formfieldfacade/textcolor/"

@@ -2,8 +2,8 @@
 title: "PrinterMarkAnnotation.MoveOutsideOfPageBox"
 linktitle: "MoveOutsideOfPageBox"
 articleTitle: "MoveOutsideOfPageBox"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the annotation values such that the annotation is outside the designated page box."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterMarkAnnotation method. Sets the annotation values such that the annotation is outside the designated page box."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/printermarkannotation/moveoutsideofpagebox/"

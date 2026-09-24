@@ -2,8 +2,8 @@
 title: "StructureRecognitionVisitor.EndDocument"
 linktitle: "EndDocument"
 articleTitle: "EndDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Signals the end of document processing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureRecognitionVisitor method. Signals the end of document processing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/enddocument/"

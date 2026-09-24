@@ -2,8 +2,8 @@
 title: "IncompleteDetails.Reason"
 linktitle: "Reason"
 articleTitle: "Reason"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the reason why the message is incomplete."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IncompleteDetails property. Gets or sets the reason why the message is incomplete."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/incompletedetails/reason/"

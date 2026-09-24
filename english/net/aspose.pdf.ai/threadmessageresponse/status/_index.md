@@ -2,8 +2,8 @@
 title: "ThreadMessageResponse.Status"
 linktitle: "Status"
 articleTitle: "Status"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the status of the message. One of queued , in_progress , requires_action , or completed ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageResponse property. Gets or sets the status of the message. One of queued , in_progress , requires_action , or completed ."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/threadmessageresponse/status/"

@@ -2,8 +2,8 @@
 title: "InkAnnotation.ChangeAfterResize"
 linktitle: "ChangeAfterResize"
 articleTitle: "ChangeAfterResize"
-second_title: "Aspose.PDF for .NET"
-description: "Updates the points in InkList, according to the matrix transform."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InkAnnotation method. Updates the points in InkList, according to the matrix transform."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/inkannotation/changeafterresize/"

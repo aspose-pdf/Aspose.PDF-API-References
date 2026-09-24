@@ -2,8 +2,8 @@
 title: "LoadOptions.ResourceLoadingResult Class"
 linktitle: "LoadOptions.ResourceLoadingResult"
 articleTitle: "LoadOptions.ResourceLoadingResult"
-second_title: "Aspose.PDF for .NET"
-description: "Result of custom loading of resource"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LoadOptions.ResourceLoadingResult class. Result of custom loading of resource"
 type: docs
 weight: 1820
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/"

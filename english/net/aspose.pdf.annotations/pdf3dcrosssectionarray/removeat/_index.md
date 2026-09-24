@@ -2,8 +2,8 @@
 title: "PDF3DCrossSectionArray.RemoveAt"
 linktitle: "RemoveAt"
 articleTitle: "RemoveAt"
-second_title: "Aspose.PDF for .NET"
-description: "Removes cross section from array at specified index."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSectionArray method. Removes cross section from array at specified index."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/"

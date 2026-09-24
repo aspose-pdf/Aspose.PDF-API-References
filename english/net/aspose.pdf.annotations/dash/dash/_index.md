@@ -2,8 +2,8 @@
 title: "Dash.Dash"
 linktitle: "Dash"
 articleTitle: "Dash"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Dash class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Dash constructor. Initializes a new instance of the Dash class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/dash/dash/"

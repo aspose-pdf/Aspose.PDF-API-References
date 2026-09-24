@@ -2,8 +2,8 @@
 title: "ChunkingOptions.MinimumChunkSize"
 linktitle: "MinimumChunkSize"
 articleTitle: "MinimumChunkSize"
-second_title: "Aspose.PDF for .NET"
-description: "The minimum allowed chunk size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChunkingOptions field. The minimum allowed chunk size."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/chunkingoptions/minimumchunksize/"

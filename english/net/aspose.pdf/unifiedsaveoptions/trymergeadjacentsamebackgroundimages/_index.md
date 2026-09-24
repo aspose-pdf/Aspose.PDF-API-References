@@ -2,8 +2,8 @@
 title: "UnifiedSaveOptions.TryMergeAdjacentSameBackgroundImages"
 linktitle: "TryMergeAdjacentSameBackgroundImages"
 articleTitle: "TryMergeAdjacentSameBackgroundImages"
-second_title: "Aspose.PDF for .NET"
-description: "Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case re..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnifiedSaveOptions field. Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one n..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/"

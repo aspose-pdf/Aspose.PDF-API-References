@@ -2,8 +2,8 @@
 title: "XForm.Dispose"
 linktitle: "Dispose"
 articleTitle: "Dispose"
-second_title: "Aspose.PDF for .NET"
-description: "Frees up memory"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm method. Frees up memory"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xform/dispose/"

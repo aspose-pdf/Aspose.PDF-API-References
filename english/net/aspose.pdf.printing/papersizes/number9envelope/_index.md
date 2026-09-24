@@ -2,8 +2,8 @@
 title: "PaperSizes.Number9Envelope"
 linktitle: "Number9Envelope"
 articleTitle: "Number9Envelope"
-second_title: "Aspose.PDF for .NET"
-description: "#9 envelope (3.875 in. by 8.875 in.)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. #9 envelope (3.875 in. by 8.875 in.)."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.printing/papersizes/number9envelope/"

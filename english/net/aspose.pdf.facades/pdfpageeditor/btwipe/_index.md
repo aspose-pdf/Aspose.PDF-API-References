@@ -2,8 +2,8 @@
 title: "PdfPageEditor.BTWIPE"
 linktitle: "BTWIPE"
 articleTitle: "BTWIPE"
-second_title: "Aspose.PDF for .NET"
-description: "Bottom-Top Wipe"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Bottom-Top Wipe"
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdfpageeditor/btwipe/"

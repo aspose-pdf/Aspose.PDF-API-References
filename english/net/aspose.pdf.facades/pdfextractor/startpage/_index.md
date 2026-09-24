@@ -2,8 +2,8 @@
 title: "PdfExtractor.StartPage"
 linktitle: "StartPage"
 articleTitle: "StartPage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets start page in the page range where extracting operation will be performed. PdfExtractor ext = new PdfExtractor(); ext.BindBdf(\"sample.pdf\"); ext..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Gets or sets start page in the page range where extracting operation will be performed. PdfExtractor ext = new PdfExtractor(); ext.Bin..."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfextractor/startpage/"

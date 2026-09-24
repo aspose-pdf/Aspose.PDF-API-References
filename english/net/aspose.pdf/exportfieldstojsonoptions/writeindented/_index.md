@@ -2,8 +2,8 @@
 title: "ExportFieldsToJsonOptions.WriteIndented"
 linktitle: "WriteIndented"
 articleTitle: "WriteIndented"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a value indicating whether the Json output should be indented."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExportFieldsToJsonOptions property. Gets or sets a value indicating whether the Json output should be indented."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/exportfieldstojsonoptions/writeindented/"

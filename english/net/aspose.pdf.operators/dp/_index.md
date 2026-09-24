@@ -2,8 +2,8 @@
 title: "DP Class"
 linktitle: "DP"
 articleTitle: "DP"
-second_title: "Aspose.PDF for .NET"
-description: "Class represeting DP operator (designamte marked content point)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.DP class. Class represeting DP operator (designamte marked content point)."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.operators/dp/"

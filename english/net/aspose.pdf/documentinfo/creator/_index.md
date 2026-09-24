@@ -2,8 +2,8 @@
 title: "DocumentInfo.Creator"
 linktitle: "Creator"
 articleTitle: "Creator"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets document creator."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo property. Gets or sets document creator."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/documentinfo/creator/"

@@ -2,8 +2,8 @@
 title: "MarkupParagraph.Fragments"
 linktitle: "Fragments"
 articleTitle: "Fragments"
-second_title: "Aspose.PDF for .NET"
-description: "Collection of not empty objects of the paragraph."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupParagraph property. Collection of not empty objects of the paragraph."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/markupparagraph/fragments/"

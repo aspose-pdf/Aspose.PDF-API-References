@@ -2,8 +2,8 @@
 title: "RenditionAction.RenditionOperation"
 linktitle: "RenditionOperation"
 articleTitle: "RenditionOperation"
-second_title: "Aspose.PDF for .NET"
-description: "The operation to perform when the action is triggered."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenditionAction property. The operation to perform when the action is triggered."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/renditionaction/renditionoperation/"

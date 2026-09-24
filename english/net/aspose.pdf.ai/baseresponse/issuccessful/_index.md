@@ -2,8 +2,8 @@
 title: "BaseResponse.IsSuccessful"
 linktitle: "IsSuccessful"
 articleTitle: "IsSuccessful"
-second_title: "Aspose.PDF for .NET"
-description: "Indicates if the response was successful."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseResponse property. Indicates if the response was successful."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/baseresponse/issuccessful/"

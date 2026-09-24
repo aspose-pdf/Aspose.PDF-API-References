@@ -2,8 +2,8 @@
 title: "AttributeName.BorderStyle_Dashed"
 linktitle: "BorderStyle_Dashed"
 articleTitle: "BorderStyle_Dashed"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute BorderStyle: Dashed - The border is a series of short line segments."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute BorderStyle: Dashed - The border is a series of short line segments."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_dashed/"

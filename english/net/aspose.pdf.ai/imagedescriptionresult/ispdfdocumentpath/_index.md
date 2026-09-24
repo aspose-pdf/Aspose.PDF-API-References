@@ -2,8 +2,8 @@
 title: "ImageDescriptionResult.IsPdfDocumentPath"
 linktitle: "IsPdfDocumentPath"
 articleTitle: "IsPdfDocumentPath"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether the ImageDescriptionResult contains a PDF document path."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDescriptionResult property. Gets a value indicating whether the ImageDescriptionResult contains a PDF document path."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/"

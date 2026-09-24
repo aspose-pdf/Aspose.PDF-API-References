@@ -2,8 +2,8 @@
 title: "Rectangle.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
-second_title: "Aspose.PDF for .NET"
-description: "Check if rectangles are equal i.e. have same position and sizes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Check if rectangles are equal i.e. have same position and sizes."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/rectangle/equals/"

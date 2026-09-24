@@ -2,8 +2,8 @@
 title: "ReplaceTextStrategy Class"
 linktitle: "ReplaceTextStrategy"
 articleTitle: "ReplaceTextStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategy class. This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.facades/replacetextstrategy/"

@@ -2,8 +2,8 @@
 title: "AlignmentType Class"
 linktitle: "AlignmentType"
 articleTitle: "AlignmentType"
-second_title: "Aspose.PDF for .NET"
-description: "Class contains possibly alignment types."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.AlignmentType class. Class contains possibly alignment types."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/alignmenttype/"

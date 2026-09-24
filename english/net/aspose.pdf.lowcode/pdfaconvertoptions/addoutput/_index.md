@@ -2,8 +2,8 @@
 title: "PdfAConvertOptions.AddOutput"
 linktitle: "AddOutput"
 articleTitle: "AddOutput"
-second_title: "Aspose.PDF for .NET"
-description: "Adds new result save target."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAConvertOptions method. Adds new result save target."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfaconvertoptions/addoutput/"

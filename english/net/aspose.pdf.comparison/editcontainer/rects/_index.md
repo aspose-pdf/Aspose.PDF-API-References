@@ -2,8 +2,8 @@
 title: "EditContainer.Rects"
 linktitle: "Rects"
 articleTitle: "Rects"
-second_title: "Aspose.PDF for .NET"
-description: "The rectangle areas of the change."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EditContainer property. The rectangle areas of the change."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/editcontainer/rects/"

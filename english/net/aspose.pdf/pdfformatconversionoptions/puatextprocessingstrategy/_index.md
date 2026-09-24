@@ -2,8 +2,8 @@
 title: "PdfFormatConversionOptions.PuaTextProcessingStrategy"
 linktitle: "PuaTextProcessingStrategy"
 articleTitle: "PuaTextProcessingStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Strategy to process symbols from unicode Private Use Area (PUA)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Strategy to process symbols from unicode Private Use Area (PUA)."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/"

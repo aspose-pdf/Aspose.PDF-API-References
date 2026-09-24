@@ -2,8 +2,8 @@
 title: "AIClientBase.AssertDisposed"
 linktitle: "AssertDisposed"
 articleTitle: "AssertDisposed"
-second_title: "Aspose.PDF for .NET"
-description: "Asserts whether the object has been disposed. Throws an if the object has been disposed."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientBase method. Asserts whether the object has been disposed. Throws an if the object has been disposed."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/aiclientbase/assertdisposed/"

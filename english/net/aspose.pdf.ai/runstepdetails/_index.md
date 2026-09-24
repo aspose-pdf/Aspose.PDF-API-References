@@ -2,8 +2,8 @@
 title: "RunStepDetails Class"
 linktitle: "RunStepDetails"
 articleTitle: "RunStepDetails"
-second_title: "Aspose.PDF for .NET"
-description: "The details of the run step."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.RunStepDetails class. The details of the run step."
 type: docs
 weight: 1110
 url: "/net/aspose.pdf.ai/runstepdetails/"

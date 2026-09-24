@@ -2,8 +2,8 @@
 title: "ImageStamp.XIndent"
 linktitle: "XIndent"
 articleTitle: "XIndent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets horizontal stamp coordinate, starting from the left."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp property. Gets and sets horizontal stamp coordinate, starting from the left."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/imagestamp/xindent/"

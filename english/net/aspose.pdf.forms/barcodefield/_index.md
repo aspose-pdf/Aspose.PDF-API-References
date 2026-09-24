@@ -2,8 +2,8 @@
 title: "BarcodeField Class"
 linktitle: "BarcodeField"
 articleTitle: "BarcodeField"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents barcode field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.BarcodeField class. Class represents barcode field."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/barcodefield/"

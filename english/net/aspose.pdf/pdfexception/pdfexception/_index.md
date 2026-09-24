@@ -2,8 +2,8 @@
 title: "PdfException.PdfException"
 linktitle: "PdfException"
 articleTitle: "PdfException"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the PdfException class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfException constructor. Initializes a new instance of the PdfException class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfexception/pdfexception/"

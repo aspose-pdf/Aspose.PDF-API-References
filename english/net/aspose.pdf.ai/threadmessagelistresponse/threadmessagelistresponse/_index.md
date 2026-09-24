@@ -2,8 +2,8 @@
 title: "ThreadMessageListResponse.ThreadMessageListResponse"
 linktitle: "ThreadMessageListResponse"
 articleTitle: "ThreadMessageListResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ThreadMessageListResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageListResponse constructor. Initializes a new instance of the ThreadMessageListResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/threadmessagelistresponse/threadmessagelistresponse/"

@@ -2,8 +2,8 @@
 title: "FileResponse.Filename"
 linktitle: "Filename"
 articleTitle: "Filename"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the name of the file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResponse property. Gets or sets the name of the file."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/fileresponse/filename/"

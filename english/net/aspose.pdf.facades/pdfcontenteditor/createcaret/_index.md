@@ -2,8 +2,8 @@
 title: "PdfContentEditor.CreateCaret"
 linktitle: "CreateCaret"
 articleTitle: "CreateCaret"
-second_title: "Aspose.PDF for .NET"
-description: "Creates caret annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates caret annotation."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createcaret/"

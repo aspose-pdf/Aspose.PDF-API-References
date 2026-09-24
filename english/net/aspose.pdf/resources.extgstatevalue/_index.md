@@ -2,8 +2,8 @@
 title: "Resources.ExtGStateValue Class"
 linktitle: "Resources.ExtGStateValue"
 articleTitle: "Resources.ExtGStateValue"
-second_title: "Aspose.PDF for .NET"
-description: "Represents ExtGStates with some values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Resources.ExtGStateValue class. Represents ExtGStates with some values."
 type: docs
 weight: 2670
 url: "/net/aspose.pdf/resources.extgstatevalue/"

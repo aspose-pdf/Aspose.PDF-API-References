@@ -2,8 +2,8 @@
 title: "OpenAIClient.DeleteVectorStoreAsync"
 linktitle: "DeleteVectorStoreAsync"
 articleTitle: "DeleteVectorStoreAsync"
-second_title: "Aspose.PDF for .NET"
-description: "Deletes a vector store asynchronously."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Deletes a vector store asynchronously."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.ai/openaiclient/deletevectorstoreasync/"

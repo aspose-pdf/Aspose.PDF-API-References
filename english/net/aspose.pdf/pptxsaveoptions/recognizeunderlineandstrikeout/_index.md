@@ -2,8 +2,8 @@
 title: "PptxSaveOptions.RecognizeUnderlineAndStrikeout"
 linktitle: "RecognizeUnderlineAndStrikeout"
 articleTitle: "RecognizeUnderlineAndStrikeout"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets whether underline and strikeout lines are recognized as text formatting. The default value is true."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PptxSaveOptions property. Gets or sets whether underline and strikeout lines are recognized as text formatting. The default value is true."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pptxsaveoptions/recognizeunderlineandstrikeout/"

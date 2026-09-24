@@ -2,8 +2,8 @@
 title: "FileSpecification.IncludeContents"
 linktitle: "IncludeContents"
 articleTitle: "IncludeContents"
-second_title: "Aspose.PDF for .NET"
-description: "If true, contents of the file will be included in the file specification."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification property. If true, contents of the file will be included in the file specification."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/filespecification/includecontents/"

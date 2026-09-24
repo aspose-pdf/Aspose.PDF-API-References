@@ -2,8 +2,8 @@
 title: "TableElement.RepeatingRowsStyle"
 linktitle: "RepeatingRowsStyle"
 articleTitle: "RepeatingRowsStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the style for repeating rows."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets the style for repeating rows."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle/"

@@ -2,8 +2,8 @@
 title: "Layer.Contents"
 linktitle: "Contents"
 articleTitle: "Contents"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the layer content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer property. Gets the layer content."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/layer/contents/"

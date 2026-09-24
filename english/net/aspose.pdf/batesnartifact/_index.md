@@ -2,8 +2,8 @@
 title: "BatesNArtifact Class"
 linktitle: "BatesNArtifact"
 articleTitle: "BatesNArtifact"
-second_title: "Aspose.PDF for .NET"
-description: "Class describes Bates Numbering artifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BatesNArtifact class. Class describes Bates Numbering artifact."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/batesnartifact/"

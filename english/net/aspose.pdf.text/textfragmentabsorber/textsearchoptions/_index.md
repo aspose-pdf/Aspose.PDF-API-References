@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber.TextSearchOptions"
 linktitle: "TextSearchOptions"
 articleTitle: "TextSearchOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets search options. The options enable search using regular expressions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets or sets search options. The options enable search using regular expressions."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/"

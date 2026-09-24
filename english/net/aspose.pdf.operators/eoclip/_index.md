@@ -2,8 +2,8 @@
 title: "EOClip Class"
 linktitle: "EOClip"
 articleTitle: "EOClip"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing W* operator (set clipping path using even-odd rule)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.EOClip class. Class representing W* operator (set clipping path using even-odd rule)."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.operators/eoclip/"

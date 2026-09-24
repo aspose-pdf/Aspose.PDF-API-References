@@ -2,8 +2,8 @@
 title: "Choice.Index"
 linktitle: "Index"
 articleTitle: "Index"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the index of the choice in the list of choices."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Choice property. Gets or sets the index of the choice in the list of choices."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/choice/index/"

@@ -2,8 +2,8 @@
 title: "Form.FillFields"
 linktitle: "FillFields"
 articleTitle: "FillFields"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/form/fillfields/"

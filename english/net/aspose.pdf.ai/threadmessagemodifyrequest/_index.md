@@ -2,8 +2,8 @@
 title: "ThreadMessageModifyRequest Class"
 linktitle: "ThreadMessageModifyRequest"
 articleTitle: "ThreadMessageModifyRequest"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a request to modify a message within a thread."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ThreadMessageModifyRequest class. Represents a request to modify a message within a thread."
 type: docs
 weight: 1240
 url: "/net/aspose.pdf.ai/threadmessagemodifyrequest/"

@@ -2,8 +2,8 @@
 title: "Png Class"
 linktitle: "Png"
 articleTitle: "Png"
-second_title: "Aspose.PDF for .NET"
-description: "Represents Pdf to Png plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Png class. Represents Pdf to Png plugin."
 type: docs
 weight: 760
 url: "/net/aspose.pdf.lowcode/png/"

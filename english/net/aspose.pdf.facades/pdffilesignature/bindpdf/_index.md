@@ -2,8 +2,8 @@
 title: "PdfFileSignature.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Binds a Pdf file for editing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Binds a Pdf file for editing."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdffilesignature/bindpdf/"

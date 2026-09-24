@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionSchema.Objects"
 linktitle: "Objects"
 articleTitle: "Objects"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the list of objects (properties, value types)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema property. Gets the list of objects (properties, value types)."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/xmppdfaextensionschema/objects/"

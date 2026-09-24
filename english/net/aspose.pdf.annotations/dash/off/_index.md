@@ -2,8 +2,8 @@
 title: "Dash.Off"
 linktitle: "Off"
 articleTitle: "Off"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets length of first gap between dashes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Dash property. Gets or sets length of first gap between dashes."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/dash/off/"

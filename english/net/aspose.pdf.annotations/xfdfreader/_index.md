@@ -2,8 +2,8 @@
 title: "XfdfReader Class"
 linktitle: "XfdfReader"
 articleTitle: "XfdfReader"
-second_title: "Aspose.PDF for .NET"
-description: "Class which peroformes reading of XFDF format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.XfdfReader class. Class which peroformes reading of XFDF format."
 type: docs
 weight: 1380
 url: "/net/aspose.pdf.annotations/xfdfreader/"

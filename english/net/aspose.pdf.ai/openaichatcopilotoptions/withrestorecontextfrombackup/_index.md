@@ -2,8 +2,8 @@
 title: "OpenAIChatCopilotOptions.WithRestoreContextFromBackup"
 linktitle: "WithRestoreContextFromBackup"
 articleTitle: "WithRestoreContextFromBackup"
-second_title: "Aspose.PDF for .NET"
-description: "Sets whether to restore the context from backup in the chat copilot options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Sets whether to restore the context from backup in the chat copilot options."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withrestorecontextfrombackup/"

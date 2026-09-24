@@ -2,8 +2,8 @@
 title: "PaperSource.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Provides some interesting information about the PaperSource in String form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSource method. Provides some interesting information about the PaperSource in String form."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/papersource/tostring/"

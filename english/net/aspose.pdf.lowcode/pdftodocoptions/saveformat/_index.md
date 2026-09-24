@@ -2,8 +2,8 @@
 title: "PdfToDocOptions.SaveFormat"
 linktitle: "SaveFormat"
 articleTitle: "SaveFormat"
-second_title: "Aspose.PDF for .NET"
-description: "Save format of the output document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToDocOptions property. Save format of the output document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdftodocoptions/saveformat/"

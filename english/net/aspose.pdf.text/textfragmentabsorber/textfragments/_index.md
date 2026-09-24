@@ -2,8 +2,8 @@
 title: "TextFragmentAbsorber.TextFragments"
 linktitle: "TextFragments"
 articleTitle: "TextFragments"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of search occurrences that are presented with objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets collection of search occurrences that are presented with objects."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.text/textfragmentabsorber/textfragments/"

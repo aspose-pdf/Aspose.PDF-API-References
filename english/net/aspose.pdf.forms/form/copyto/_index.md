@@ -2,8 +2,8 @@
 title: "Form.CopyTo"
 linktitle: "CopyTo"
 articleTitle: "CopyTo"
-second_title: "Aspose.PDF for .NET"
-description: "Copies fields placed on the form into array."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Copies fields placed on the form into array."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/form/copyto/"

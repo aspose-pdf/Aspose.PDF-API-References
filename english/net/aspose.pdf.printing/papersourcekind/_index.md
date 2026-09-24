@@ -2,8 +2,8 @@
 title: "PaperSourceKind Enum"
 linktitle: "PaperSourceKind"
 articleTitle: "PaperSourceKind"
-second_title: "Aspose.PDF for .NET"
-description: "Standard paper sources."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PaperSourceKind enum. Standard paper sources."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.printing/papersourcekind/"

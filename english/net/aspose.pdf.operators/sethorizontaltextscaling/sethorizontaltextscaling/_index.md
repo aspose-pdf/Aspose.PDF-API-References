@@ -2,8 +2,8 @@
 title: "SetHorizontalTextScaling.SetHorizontalTextScaling"
 linktitle: "SetHorizontalTextScaling"
 articleTitle: "SetHorizontalTextScaling"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the SetHorizontalTextScaling class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetHorizontalTextScaling constructor. Initializes a new instance of the SetHorizontalTextScaling class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/sethorizontaltextscaling/sethorizontaltextscaling/"

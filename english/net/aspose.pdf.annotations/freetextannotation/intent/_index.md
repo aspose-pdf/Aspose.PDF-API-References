@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.Intent"
 linktitle: "Intent"
 articleTitle: "Intent"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the intent of the free text annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation property. Gets or sets the intent of the free text annotation."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/freetextannotation/intent/"

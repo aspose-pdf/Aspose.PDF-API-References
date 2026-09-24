@@ -2,8 +2,8 @@
 title: "ReplyType Enum"
 linktitle: "ReplyType"
 articleTitle: "ReplyType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates the kinds of the relationships (the \"reply type\") between the annotation and one specified by InReplyTo."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.ReplyType enum. Enumerates the kinds of the relationships (the \"reply type\") between the annotation and one specified by InReplyTo."
 type: docs
 weight: 1090
 url: "/net/aspose.pdf.annotations/replytype/"

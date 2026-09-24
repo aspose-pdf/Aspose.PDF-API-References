@@ -2,8 +2,8 @@
 title: "PdfFileMend.WrapMode"
 linktitle: "WrapMode"
 articleTitle: "WrapMode"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets word wrapping algorithm. See WordWrapMode and IsWordWrap."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend property. Sets or gets word wrapping algorithm. See WordWrapMode and IsWordWrap."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdffilemend/wrapmode/"

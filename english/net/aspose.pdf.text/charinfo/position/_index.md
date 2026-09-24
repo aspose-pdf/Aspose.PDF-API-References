@@ -2,8 +2,8 @@
 title: "CharInfo.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Gets position of the character."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CharInfo property. Gets position of the character."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/charinfo/position/"

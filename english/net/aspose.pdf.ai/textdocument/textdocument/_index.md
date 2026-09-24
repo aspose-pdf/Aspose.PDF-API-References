@@ -2,8 +2,8 @@
 title: "TextDocument.TextDocument"
 linktitle: "TextDocument"
 articleTitle: "TextDocument"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the TextDocument class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextDocument constructor. Initializes a new instance of the TextDocument class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/textdocument/textdocument/"

@@ -2,8 +2,8 @@
 title: "FormFieldFacade.TextEncoding"
 linktitle: "TextEncoding"
 articleTitle: "TextEncoding"
-second_title: "Aspose.PDF for .NET"
-description: "The text encoding type of the field text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The text encoding type of the field text."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/formfieldfacade/textencoding/"

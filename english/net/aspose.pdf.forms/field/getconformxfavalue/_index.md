@@ -2,8 +2,8 @@
 title: "Field.GetConformXFAValue"
 linktitle: "GetConformXFAValue"
 articleTitle: "GetConformXFAValue"
-second_title: "Aspose.PDF for .NET"
-description: "Returns value correctly encoded for placing into XFA dataset."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Returns value correctly encoded for placing into XFA dataset."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/field/getconformxfavalue/"

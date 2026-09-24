@@ -2,8 +2,8 @@
 title: "StructureRecognitionVisitor Class"
 linktitle: "StructureRecognitionVisitor"
 articleTitle: "StructureRecognitionVisitor"
-second_title: "Aspose.PDF for .NET"
-description: "Base class for a custom document structure recognition visitor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Flow.StructureRecognitionVisitor class. Base class for a custom document structure recognition visitor"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/"

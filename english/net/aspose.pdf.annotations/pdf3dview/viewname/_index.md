@@ -2,8 +2,8 @@
 title: "PDF3DView.ViewName"
 linktitle: "ViewName"
 articleTitle: "ViewName"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the name of the view."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DView property. Gets or sets the name of the view."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dview/viewname/"

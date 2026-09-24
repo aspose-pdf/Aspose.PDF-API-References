@@ -2,8 +2,8 @@
 title: "VectorStoreFileBatchFileListQueryParameters.Filter"
 linktitle: "Filter"
 articleTitle: "Filter"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a filter by file status. One of in_progress, completed, failed, cancelled."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreFileBatchFileListQueryParameters property. Gets or sets a filter by file status. One of in_progress, completed, failed, cancelled."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/filter/"

@@ -2,8 +2,8 @@
 title: "ChunkingOptions.Validate"
 linktitle: "Validate"
 articleTitle: "Validate"
-second_title: "Aspose.PDF for .NET"
-description: "Validates the current options configuration."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChunkingOptions method. Validates the current options configuration."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/chunkingoptions/validate/"

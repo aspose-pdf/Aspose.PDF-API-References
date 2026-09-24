@@ -2,8 +2,8 @@
 title: "SvgSaveOptions.TreatTargetFileNameAsDirectory"
 linktitle: "TreatTargetFileNameAsDirectory"
 articleTitle: "TreatTargetFileNameAsDirectory"
-second_title: "Aspose.PDF for .NET"
-description: "This options defines whether will be created target directory (if absent yet) with same name as requested output file instead of requested output file itself..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgSaveOptions field. This options defines whether will be created target directory (if absent yet) with same name as requested output file instead of reques..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/"

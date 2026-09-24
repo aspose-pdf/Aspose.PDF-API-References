@@ -2,8 +2,8 @@
 title: "WebHyperlink.Url"
 linktitle: "Url"
 articleTitle: "Url"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the web url."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WebHyperlink property. Gets or sets the web url."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/webhyperlink/url/"

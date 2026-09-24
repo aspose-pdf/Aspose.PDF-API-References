@@ -2,8 +2,8 @@
 title: "FontStyle Enum"
 linktitle: "FontStyle"
 articleTitle: "FontStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates 14 types of font."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.FontStyle enum. Enumerates 14 types of font."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/fontstyle/"

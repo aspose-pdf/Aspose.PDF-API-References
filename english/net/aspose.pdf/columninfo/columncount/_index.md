@@ -2,8 +2,8 @@
 title: "ColumnInfo.ColumnCount"
 linktitle: "ColumnCount"
 articleTitle: "ColumnCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a int value that indicates the number of columns."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColumnInfo property. Gets or sets a int value that indicates the number of columns."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/columninfo/columncount/"

@@ -2,8 +2,8 @@
 title: "FormDataConverter.ConvertXmlToFdf"
 linktitle: "ConvertXmlToFdf"
 articleTitle: "ConvertXmlToFdf"
-second_title: "Aspose.PDF for .NET"
-description: "Convert XML import/export form data file into FDF format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter method. Convert XML import/export form data file into FDF format."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/formdataconverter/convertxmltofdf/"

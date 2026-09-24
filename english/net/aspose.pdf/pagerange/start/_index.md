@@ -2,8 +2,8 @@
 title: "PageRange.Start"
 linktitle: "Start"
 articleTitle: "Start"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the starting page number."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageRange property. Gets or sets the starting page number."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagerange/start/"

@@ -2,8 +2,8 @@
 title: "CancellationTokenExtensions.NoneIfNull"
 linktitle: "NoneIfNull"
 articleTitle: "NoneIfNull"
-second_title: "Aspose.PDF for .NET"
-description: "Returns CancellationToken.None if the input CancellationToken is null; otherwise, returns the input CancellationToken."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CancellationTokenExtensions method. Returns CancellationToken.None if the input CancellationToken is null; otherwise, returns the input CancellationToken."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/"

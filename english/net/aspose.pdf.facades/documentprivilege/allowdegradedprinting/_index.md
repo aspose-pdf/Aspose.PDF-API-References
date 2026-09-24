@@ -2,8 +2,8 @@
 title: "DocumentPrivilege.AllowDegradedPrinting"
 linktitle: "AllowDegradedPrinting"
 articleTitle: "AllowDegradedPrinting"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the permission which allow degraded printing or not. true is allow and false is forbidden."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Sets the permission which allow degraded printing or not. true is allow and false is forbidden."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/documentprivilege/allowdegradedprinting/"

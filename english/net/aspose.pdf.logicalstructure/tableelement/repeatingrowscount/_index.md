@@ -2,8 +2,8 @@
 title: "TableElement.RepeatingRowsCount"
 linktitle: "RepeatingRowsCount"
 articleTitle: "RepeatingRowsCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the first rows count repeated for several pages."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets the first rows count repeated for several pages."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.logicalstructure/tableelement/repeatingrowscount/"

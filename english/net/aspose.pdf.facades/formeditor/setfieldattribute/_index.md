@@ -2,8 +2,8 @@
 title: "FormEditor.SetFieldAttribute"
 linktitle: "SetFieldAttribute"
 articleTitle: "SetFieldAttribute"
-second_title: "Aspose.PDF for .NET"
-description: "Set attributes of field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set attributes of field."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/formeditor/setfieldattribute/"

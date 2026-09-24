@@ -2,8 +2,8 @@
 title: "TextStyle.FontSize"
 linktitle: "FontSize"
 articleTitle: "FontSize"
-second_title: "Aspose.PDF for .NET"
-description: "Fonst size."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle property. Fonst size."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/textstyle/fontsize/"

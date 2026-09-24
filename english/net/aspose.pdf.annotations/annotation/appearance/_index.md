@@ -2,8 +2,8 @@
 title: "Annotation.Appearance"
 linktitle: "Appearance"
 articleTitle: "Appearance"
-second_title: "Aspose.PDF for .NET"
-description: "Gets appearance dictionary of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets appearance dictionary of the annotation."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.annotations/annotation/appearance/"

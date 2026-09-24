@@ -2,8 +2,8 @@
 title: "DicomDevice.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Converts the page into Dicom and saves it in the output stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DicomDevice method. Converts the page into Dicom and saves it in the output stream."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.devices/dicomdevice/process/"

@@ -2,8 +2,8 @@
 title: "FormImporter Class"
 linktitle: "FormImporter"
 articleTitle: "FormImporter"
-second_title: "Aspose.PDF for .NET"
-description: "Plugin that imports form field values from a JSON source into a PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormImporter class. Plugin that imports form field values from a JSON source into a PDF document."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.lowcode/formimporter/"

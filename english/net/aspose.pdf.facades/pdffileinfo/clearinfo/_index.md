@@ -2,8 +2,8 @@
 title: "PdfFileInfo.ClearInfo"
 linktitle: "ClearInfo"
 articleTitle: "ClearInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Clears all meta information of PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Clears all meta information of PDF document."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdffileinfo/clearinfo/"

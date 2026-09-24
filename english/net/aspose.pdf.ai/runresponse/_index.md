@@ -2,8 +2,8 @@
 title: "RunResponse Class"
 linktitle: "RunResponse"
 articleTitle: "RunResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Represents an execution run on a thread."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.RunResponse class. Represents an execution run on a thread."
 type: docs
 weight: 1100
 url: "/net/aspose.pdf.ai/runresponse/"

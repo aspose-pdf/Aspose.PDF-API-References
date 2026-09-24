@@ -2,8 +2,8 @@
 title: "EmbeddedFileCollection.FindByName"
 linktitle: "FindByName"
 articleTitle: "FindByName"
-second_title: "Aspose.PDF for .NET"
-description: "Returns embedded file by its name."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmbeddedFileCollection method. Returns embedded file by its name."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/embeddedfilecollection/findbyname/"

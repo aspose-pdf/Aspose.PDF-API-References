@@ -2,8 +2,8 @@
 title: "StructureElement.ClearId"
 linktitle: "ClearId"
 articleTitle: "ClearId"
-second_title: "Aspose.PDF for .NET"
-description: "Clear ID for structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement method. Clear ID for structure element."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/structureelement/clearid/"

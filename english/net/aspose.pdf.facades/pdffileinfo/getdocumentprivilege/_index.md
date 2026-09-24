@@ -2,8 +2,8 @@
 title: "PdfFileInfo.GetDocumentPrivilege"
 linktitle: "GetDocumentPrivilege"
 articleTitle: "GetDocumentPrivilege"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the PDF document privilege settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Gets the PDF document privilege settings."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/"

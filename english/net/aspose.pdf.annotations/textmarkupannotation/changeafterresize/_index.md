@@ -2,8 +2,8 @@
 title: "TextMarkupAnnotation.ChangeAfterResize"
 linktitle: "ChangeAfterResize"
 articleTitle: "ChangeAfterResize"
-second_title: "Aspose.PDF for .NET"
-description: "Updates the QuadPoints, according to the matrix transform."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextMarkupAnnotation method. Updates the QuadPoints, according to the matrix transform."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/textmarkupannotation/changeafterresize/"

@@ -2,8 +2,8 @@
 title: "PdfViewer.PrintDocuments"
 linktitle: "PrintDocuments"
 articleTitle: "PrintDocuments"
-second_title: "Aspose.PDF for .NET"
-description: "Prints multiple PDF documents using default printer and page settings."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Prints multiple PDF documents using default printer and page settings."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdfviewer/printdocuments/"

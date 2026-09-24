@@ -2,8 +2,8 @@
 title: "CustomPrintEventArgs.PrinterSettings"
 linktitle: "PrinterSettings"
 articleTitle: "PrinterSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Gets information about the printer the document should be printed on."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CustomPrintEventArgs field. Gets information about the printer the document should be printed on."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/customprinteventargs/printersettings/"

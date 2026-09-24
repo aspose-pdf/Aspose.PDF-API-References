@@ -2,8 +2,8 @@
 title: "PdfViewer.DecodePage"
 linktitle: "DecodePage"
 articleTitle: "DecodePage"
-second_title: "Aspose.PDF for .NET"
-description: "Decodes a page of one Pdf file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Decodes a page of one Pdf file."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdfviewer/decodepage/"

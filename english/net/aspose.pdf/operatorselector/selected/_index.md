@@ -2,8 +2,8 @@
 title: "OperatorSelector.Selected"
 linktitle: "Selected"
 articleTitle: "Selected"
-second_title: "Aspose.PDF for .NET"
-description: "The list of selected objects."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorSelector property. The list of selected objects."
 type: docs
 weight: 770
 url: "/net/aspose.pdf/operatorselector/selected/"

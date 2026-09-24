@@ -2,8 +2,8 @@
 title: "CreateChatCompletionChunkResponse.CreateChatCompletionChunkResponse"
 linktitle: "CreateChatCompletionChunkResponse"
 articleTitle: "CreateChatCompletionChunkResponse"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the CreateChatCompletionChunkResponse class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateChatCompletionChunkResponse constructor. Initializes a new instance of the CreateChatCompletionChunkResponse class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/createchatcompletionchunkresponse/"

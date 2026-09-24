@@ -2,8 +2,8 @@
 title: "StructureAttributes.SetAttribute"
 linktitle: "SetAttribute"
 articleTitle: "SetAttribute"
-second_title: "Aspose.PDF for .NET"
-description: "Sets StructureAttribute into StructureAttributes."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttributes method. Sets StructureAttribute into StructureAttributes."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/structureattributes/setattribute/"

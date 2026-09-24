@@ -2,8 +2,8 @@
 title: "PdfFileEditor.CorruptedFileAction"
 linktitle: "CorruptedFileAction"
 articleTitle: "CorruptedFileAction"
-second_title: "Aspose.PDF for .NET"
-description: "This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnoringCorrupted."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnor..."
 type: docs
 weight: 1110
 url: "/net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/"

@@ -2,8 +2,8 @@
 title: "IWarningCallback Interface"
 linktitle: "IWarningCallback"
 articleTitle: "IWarningCallback"
-second_title: "Aspose.PDF for .NET"
-description: "Interface for user's callback mechanism support."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IWarningCallback interface. Interface for user's callback mechanism support."
 type: docs
 weight: 1470
 url: "/net/aspose.pdf/iwarningcallback/"

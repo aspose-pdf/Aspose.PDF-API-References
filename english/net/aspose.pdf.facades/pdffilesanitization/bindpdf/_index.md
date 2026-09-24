@@ -2,8 +2,8 @@
 title: "PdfFileSanitization.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Binds a Pdf file for Sanitize."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization method. Binds a Pdf file for Sanitize."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdffilesanitization/bindpdf/"

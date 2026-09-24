@@ -2,8 +2,8 @@
 title: "PageInfo.DefaultTextState"
 linktitle: "DefaultTextState"
 articleTitle: "DefaultTextState"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets default font."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInfo property. Gets or sets default font."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pageinfo/defaulttextstate/"

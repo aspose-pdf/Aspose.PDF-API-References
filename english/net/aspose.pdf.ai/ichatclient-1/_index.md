@@ -2,8 +2,8 @@
 title: "IChatClient<TOptions> Interface"
 linktitle: "IChatClient<TOptions>"
 articleTitle: "IChatClient<TOptions>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IChatClient interface."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.ai/ichatclient-1/"

@@ -2,8 +2,8 @@
 title: "PdfAConverter Class"
 linktitle: "PdfAConverter"
 articleTitle: "PdfAConverter"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a plugin for handling the conversion of PDF documents in a PDF/A format and for validation of the PDF/A conformance."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfAConverter class. Represents a plugin for handling the conversion of PDF documents in a PDF/A format and for validation of the PDF/A co..."
 type: docs
 weight: 590
 url: "/net/aspose.pdf.lowcode/pdfaconverter/"

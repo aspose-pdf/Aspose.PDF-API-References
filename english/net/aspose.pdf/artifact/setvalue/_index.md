@@ -2,8 +2,8 @@
 title: "Artifact.SetValue"
 linktitle: "SetValue"
 articleTitle: "SetValue"
-second_title: "Aspose.PDF for .NET"
-description: "Sets custom value of artifact."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Sets custom value of artifact."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/artifact/setvalue/"

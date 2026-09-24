@@ -2,8 +2,8 @@
 title: "ScreenAnnotation.ScreenAnnotation"
 linktitle: "ScreenAnnotation"
 articleTitle: "ScreenAnnotation"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the ScreenAnnotation class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ScreenAnnotation constructor. Initializes a new instance of the ScreenAnnotation class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/screenannotation/screenannotation/"

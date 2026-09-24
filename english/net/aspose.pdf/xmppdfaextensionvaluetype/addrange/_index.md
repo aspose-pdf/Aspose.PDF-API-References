@@ -2,8 +2,8 @@
 title: "XmpPdfAExtensionValueType.AddRange"
 linktitle: "AddRange"
 articleTitle: "AddRange"
-second_title: "Aspose.PDF for .NET"
-description: "Adds the range of fields."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionValueType method. Adds the range of fields."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/addrange/"

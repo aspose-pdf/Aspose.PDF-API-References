@@ -2,8 +2,8 @@
 title: "ThreadMessageCreateRequest.WithAttachments"
 linktitle: "WithAttachments"
 articleTitle: "WithAttachments"
-second_title: "Aspose.PDF for .NET"
-description: "Sets the attachments for the thread message request."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageCreateRequest method. Sets the attachments for the thread message request."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/"

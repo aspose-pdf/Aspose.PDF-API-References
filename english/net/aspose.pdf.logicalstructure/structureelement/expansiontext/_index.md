@@ -2,8 +2,8 @@
 title: "StructureElement.ExpansionText"
 linktitle: "ExpansionText"
 articleTitle: "ExpansionText"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the expansion text for structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement property. Gets or sets the expansion text for structure element."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.logicalstructure/structureelement/expansiontext/"

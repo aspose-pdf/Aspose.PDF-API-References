@@ -2,8 +2,8 @@
 title: "MarkupSection Class"
 linktitle: "MarkupSection"
 articleTitle: "MarkupSection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a markup section - the rectangular region of a page that contains text and can be visually divided from another text blocks."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.MarkupSection class. Represents a markup section - the rectangular region of a page that contains text and can be visually divided from anoth..."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.text/markupsection/"

@@ -2,8 +2,8 @@
 title: "PageSize.A1"
 linktitle: "A1"
 articleTitle: "A1"
-second_title: "Aspose.PDF for .NET"
-description: "A1 size (840x594 mm)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSize property. A1 size (840x594 mm)."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/pagesize/a1/"

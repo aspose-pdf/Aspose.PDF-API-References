@@ -2,8 +2,8 @@
 title: "Annotation.RotatedRect"
 linktitle: "RotatedRect"
 articleTitle: "RotatedRect"
-second_title: "Aspose.PDF for .NET"
-description: "Gets rotated rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets rotated rectangle."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/annotation/rotatedrect/"

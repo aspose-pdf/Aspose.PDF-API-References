@@ -2,8 +2,8 @@
 title: "SetDash.Phase"
 linktitle: "Phase"
 articleTitle: "Phase"
-second_title: "Aspose.PDF for .NET"
-description: "Dash phase. Before beginning to stroke a path, the dash array shall be cycled through, adding up the lengths of dashes and gaps. When the accumulated length ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetDash property. Dash phase. Before beginning to stroke a path, the dash array shall be cycled through, adding up the lengths of dashes and gaps. When the a..."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setdash/phase/"

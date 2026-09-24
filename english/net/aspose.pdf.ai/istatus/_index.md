@@ -2,8 +2,8 @@
 title: "IStatus Interface"
 linktitle: "IStatus"
 articleTitle: "IStatus"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the status of an operation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IStatus interface. Represents the status of an operation."
 type: docs
 weight: 610
 url: "/net/aspose.pdf.ai/istatus/"

@@ -2,8 +2,8 @@
 title: "HtmlDiffOutputGenerator.InsertStyle"
 linktitle: "InsertStyle"
 articleTitle: "InsertStyle"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the CSS-style string for Insert operation. Example: color: #003300; background-color: #ccff66;"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlDiffOutputGenerator property. Gets and sets the CSS-style string for Insert operation. Example: color: #003300; background-color: #ccff66;"
 type: docs
 weight: 80
 url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/insertstyle/"

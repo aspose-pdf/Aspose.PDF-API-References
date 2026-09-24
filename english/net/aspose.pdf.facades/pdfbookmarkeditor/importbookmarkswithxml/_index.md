@@ -2,8 +2,8 @@
 title: "PdfBookmarkEditor.ImportBookmarksWithXML"
 linktitle: "ImportBookmarksWithXML"
 articleTitle: "ImportBookmarksWithXML"
-second_title: "Aspose.PDF for .NET"
-description: "Imports bookmarks to the document from XML file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Imports bookmarks to the document from XML file."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/"

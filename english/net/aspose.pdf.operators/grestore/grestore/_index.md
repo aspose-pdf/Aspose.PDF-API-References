@@ -2,8 +2,8 @@
 title: "GRestore.GRestore"
 linktitle: "GRestore"
 articleTitle: "GRestore"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the GRestore class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GRestore constructor. Initializes a new instance of the GRestore class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/grestore/grestore/"

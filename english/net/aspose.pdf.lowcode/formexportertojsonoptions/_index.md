@@ -2,8 +2,8 @@
 title: "FormExporterToJsonOptions Class"
 linktitle: "FormExporterToJsonOptions"
 articleTitle: "FormExporterToJsonOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents options for export Value property(s) of specified field(s) (not annotations)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormExporterToJsonOptions class. Represents options for export Value property(s) of specified field(s) (not annotations)."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.lowcode/formexportertojsonoptions/"

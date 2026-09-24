@@ -2,8 +2,8 @@
 title: "PageCollectionExtensions.AddPagination"
 linktitle: "AddPagination"
 articleTitle: "AddPagination"
-second_title: "Aspose.PDF for .NET"
-description: "Adds the specified pagination artifacts to each page in the given page collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollectionExtensions method. Adds the specified pagination artifacts to each page in the given page collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagecollectionextensions/addpagination/"

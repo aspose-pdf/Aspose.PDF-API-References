@@ -2,8 +2,8 @@
 title: "Signature.Date"
 linktitle: "Date"
 articleTitle: "Date"
-second_title: "Aspose.PDF for .NET"
-description: "The time of signing."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. The time of signing."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.forms/signature/date/"

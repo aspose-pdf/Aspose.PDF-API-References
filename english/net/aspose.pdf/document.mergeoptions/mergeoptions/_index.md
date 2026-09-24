@@ -2,8 +2,8 @@
 title: "Document.MergeOptions.Document.MergeOptions"
 linktitle: "Document.MergeOptions"
 articleTitle: "Document.MergeOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Document.MergeOptions class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MergeOptions constructor. Initializes a new instance of the Document.MergeOptions class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/document.mergeoptions/mergeoptions/"

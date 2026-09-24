@@ -2,8 +2,8 @@
 title: "SubmitFormAction Class"
 linktitle: "SubmitFormAction"
 articleTitle: "SubmitFormAction"
-second_title: "Aspose.PDF for .NET"
-description: "Class which describes submit-form action."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SubmitFormAction class. Class which describes submit-form action."
 type: docs
 weight: 1270
 url: "/net/aspose.pdf.annotations/submitformaction/"

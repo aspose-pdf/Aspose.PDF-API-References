@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.TH"
 linktitle: "TH"
 articleTitle: "TH"
-second_title: "Aspose.PDF for .NET"
-description: "(Table header cell) A table cell containing header text describing one or more rows or columns of the table."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Table header cell) A table cell containing header text describing one or more rows or columns of the table."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/th/"

@@ -2,8 +2,8 @@
 title: "GSave Class"
 linktitle: "GSave"
 articleTitle: "GSave"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing q operator (save graphics state)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.GSave class. Class representing q operator (save graphics state)."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.operators/gsave/"

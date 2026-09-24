@@ -2,8 +2,8 @@
 title: "Point3D.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the string representation of the object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point3D method. Returns the string representation of the object."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/point3d/tostring/"

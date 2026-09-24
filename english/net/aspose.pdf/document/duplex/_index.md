@@ -2,8 +2,8 @@
 title: "Document.Duplex"
 linktitle: "Duplex"
 articleTitle: "Duplex"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets print duplex mode handling option to use when printing the file from the print dialog."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets print duplex mode handling option to use when printing the file from the print dialog."
 type: docs
 weight: 1410
 url: "/net/aspose.pdf/document/duplex/"

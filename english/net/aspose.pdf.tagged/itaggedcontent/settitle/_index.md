@@ -2,8 +2,8 @@
 title: "ITaggedContent.SetTitle"
 linktitle: "SetTitle"
 articleTitle: "SetTitle"
-second_title: "Aspose.PDF for .NET"
-description: "Sets title for PDF document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Sets title for PDF document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.tagged/itaggedcontent/settitle/"

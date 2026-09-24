@@ -2,8 +2,8 @@
 title: "SvgExtractionOptions.UnpackPageContentXForm"
 linktitle: "UnpackPageContentXForm"
 articleTitle: "UnpackPageContentXForm"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets a flag that determines whether XFrom found on pages should be unpacked or not. XFrom elements can end up in different SVG files. Only XForms th..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgExtractionOptions property. Gets and sets a flag that determines whether XFrom found on pages should be unpacked or not. XFrom elements can end up in diff..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/svgextractionoptions/unpackpagecontentxform/"

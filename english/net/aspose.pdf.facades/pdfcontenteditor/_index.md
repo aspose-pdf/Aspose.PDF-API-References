@@ -2,8 +2,8 @@
 title: "PdfContentEditor Class"
 linktitle: "PdfContentEditor"
 articleTitle: "PdfContentEditor"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a class to edit PDF file's content."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfContentEditor class. Represents a class to edit PDF file's content."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfcontenteditor/"

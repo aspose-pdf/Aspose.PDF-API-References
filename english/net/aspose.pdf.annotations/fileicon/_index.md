@@ -2,8 +2,8 @@
 title: "FileIcon Enum"
 linktitle: "FileIcon"
 articleTitle: "FileIcon"
-second_title: "Aspose.PDF for .NET"
-description: "An icon to be used in displaying the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.FileIcon enum. An icon to be used in displaying the annotation."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.annotations/fileicon/"

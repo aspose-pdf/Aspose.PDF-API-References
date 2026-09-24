@@ -2,8 +2,8 @@
 title: "StructureTypeStandard.RP"
 linktitle: "RP"
 articleTitle: "RP"
-second_title: "Aspose.PDF for .NET"
-description: "(Ruby punctuation) Punctuation surrounding the ruby annotation text. It is used only when a ruby annotation cannot be properly formatted in a ruby style and ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Ruby punctuation) Punctuation surrounding the ruby annotation text. It is used only when a ruby annotation cannot be properly f..."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/rp/"

@@ -2,8 +2,8 @@
 title: "FontSourceCollection.IsSynchronized"
 linktitle: "IsSynchronized"
 articleTitle: "IsSynchronized"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a value indicating whether access to the collection is synchronized (thread safe)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSourceCollection property. Gets a value indicating whether access to the collection is synchronized (thread safe)."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/fontsourcecollection/issynchronized/"

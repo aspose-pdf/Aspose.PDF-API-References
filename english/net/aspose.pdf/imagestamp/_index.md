@@ -2,8 +2,8 @@
 title: "ImageStamp Class"
 linktitle: "ImageStamp"
 articleTitle: "ImageStamp"
-second_title: "Aspose.PDF for .NET"
-description: "Represents a graphic stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImageStamp class. Represents a graphic stamp."
 type: docs
 weight: 1560
 url: "/net/aspose.pdf/imagestamp/"

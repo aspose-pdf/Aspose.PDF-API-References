@@ -2,8 +2,8 @@
 title: "Color.OldLace"
 linktitle: "OldLace"
 articleTitle: "OldLace"
-second_title: "Aspose.PDF for .NET"
-description: "Gets a system-defined color that has an ARGB value of \\c \\#FFFDF5E6."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFFDF5E6."
 type: docs
 weight: 1150
 url: "/net/aspose.pdf/color/oldlace/"

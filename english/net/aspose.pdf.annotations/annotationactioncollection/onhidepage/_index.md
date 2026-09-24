@@ -2,8 +2,8 @@
 title: "AnnotationActionCollection.OnHidePage"
 linktitle: "OnHidePage"
 articleTitle: "OnHidePage"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an action to be performed when the page containing the annotation is no longer visible in the viewer application's user interface."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed when the page containing the annotation is no longer visible in the viewer applic..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/annotationactioncollection/onhidepage/"

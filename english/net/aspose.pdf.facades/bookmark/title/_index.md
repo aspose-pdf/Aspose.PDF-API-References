@@ -2,8 +2,8 @@
 title: "Bookmark.Title"
 linktitle: "Title"
 articleTitle: "Title"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets bookmark's title."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Bookmark property. Gets or sets bookmark's title."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/bookmark/title/"

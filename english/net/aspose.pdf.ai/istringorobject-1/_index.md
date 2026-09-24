@@ -2,8 +2,8 @@
 title: "IStringOrObject<T> Interface"
 linktitle: "IStringOrObject<T>"
 articleTitle: "IStringOrObject<T>"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IStringOrObject interface."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.ai/istringorobject-1/"

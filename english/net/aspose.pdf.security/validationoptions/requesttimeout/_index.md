@@ -2,8 +2,8 @@
 title: "ValidationOptions.RequestTimeout"
 linktitle: "RequestTimeout"
 articleTitle: "RequestTimeout"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the timeout duration, in milliseconds, for network-related operations during the validation process. The RequestTimeout property defines the max..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ValidationOptions property. Gets or sets the timeout duration, in milliseconds, for network-related operations during the validation process. The RequestTime..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/validationoptions/requesttimeout/"

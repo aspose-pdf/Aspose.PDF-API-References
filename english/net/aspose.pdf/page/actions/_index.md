@@ -2,8 +2,8 @@
 title: "Page.Actions"
 linktitle: "Actions"
 articleTitle: "Actions"
-second_title: "Aspose.PDF for .NET"
-description: "Gets collection of page properties."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets collection of page properties."
 type: docs
 weight: 630
 url: "/net/aspose.pdf/page/actions/"

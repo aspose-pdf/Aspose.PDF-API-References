@@ -2,8 +2,8 @@
 title: "FormattedText.IsCjk"
 linktitle: "IsCjk"
 articleTitle: "IsCjk"
-second_title: "Aspose.PDF for .NET"
-description: "Checks if text is CJK (Chinese, Japanese, or Korean)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedText method. Checks if text is CJK (Chinese, Japanese, or Korean)."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/formattedtext/iscjk/"

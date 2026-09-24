@@ -2,8 +2,8 @@
 title: "PdfExtractor.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Bind input PDF file."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Bind input PDF file."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdfextractor/bindpdf/"

@@ -2,8 +2,8 @@
 title: "AbsorbedCell Class"
 linktitle: "AbsorbedCell"
 articleTitle: "AbsorbedCell"
-second_title: "Aspose.PDF for .NET"
-description: "Represents cell of table that exist on the page"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.AbsorbedCell class. Represents cell of table that exist on the page"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/absorbedcell/"

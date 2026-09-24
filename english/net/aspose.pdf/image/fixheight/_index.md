@@ -2,8 +2,8 @@
 title: "Image.FixHeight"
 linktitle: "FixHeight"
 articleTitle: "FixHeight"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the image height."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets the image height."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/image/fixheight/"

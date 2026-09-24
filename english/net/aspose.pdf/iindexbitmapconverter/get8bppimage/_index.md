@@ -2,8 +2,8 @@
 title: "IIndexBitmapConverter.Get8BppImage"
 linktitle: "Get8BppImage"
 articleTitle: "Get8BppImage"
-second_title: "Aspose.PDF for .NET"
-description: "Returns 8Bpp bitmap representation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IIndexBitmapConverter method. Returns 8Bpp bitmap representation"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/iindexbitmapconverter/get8bppimage/"

@@ -2,8 +2,8 @@
 title: "LicenseInfo.SubscriptionExpiry"
 linktitle: "SubscriptionExpiry"
 articleTitle: "SubscriptionExpiry"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the assembly release date to which updates are possible."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LicenseInfo property. Gets the assembly release date to which updates are possible."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/licenseinfo/subscriptionexpiry/"

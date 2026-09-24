@@ -2,8 +2,8 @@
 title: "HeadingLevels.AllLevels"
 linktitle: "AllLevels"
 articleTitle: "AllLevels"
-second_title: "Aspose.PDF for .NET"
-description: "Gets all heading levels."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeadingLevels property. Gets all heading levels."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/headinglevels/alllevels/"

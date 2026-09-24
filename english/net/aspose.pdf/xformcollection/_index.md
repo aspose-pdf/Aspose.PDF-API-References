@@ -2,8 +2,8 @@
 title: "XFormCollection Class"
 linktitle: "XFormCollection"
 articleTitle: "XFormCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Class represents collection of XFormCollection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XFormCollection class. Class represents collection of XFormCollection."
 type: docs
 weight: 3200
 url: "/net/aspose.pdf/xformcollection/"

@@ -2,8 +2,8 @@
 title: "HiddenDataSanitizationOptions.FlattenLayers"
 linktitle: "FlattenLayers"
 articleTitle: "FlattenLayers"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the option to flatten the layers in the PDF document. When enabled, all layers in the document are merged into a single layer, removing their se..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizationOptions property. Gets or sets the option to flatten the layers in the PDF document. When enabled, all layers in the document are merge..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/flattenlayers/"

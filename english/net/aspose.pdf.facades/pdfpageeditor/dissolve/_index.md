@@ -2,8 +2,8 @@
 title: "PdfPageEditor.DISSOLVE"
 linktitle: "DISSOLVE"
 articleTitle: "DISSOLVE"
-second_title: "Aspose.PDF for .NET"
-description: "The old page dissolves"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. The old page dissolves"
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdfpageeditor/dissolve/"

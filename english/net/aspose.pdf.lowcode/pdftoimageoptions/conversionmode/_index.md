@@ -2,8 +2,8 @@
 title: "PdfToImageOptions.ConversionMode"
 linktitle: "ConversionMode"
 articleTitle: "ConversionMode"
-second_title: "Aspose.PDF for .NET"
-description: "Gets image conversion mode."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImageOptions property. Gets image conversion mode."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/conversionmode/"

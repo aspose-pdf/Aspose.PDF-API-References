@@ -2,8 +2,8 @@
 title: "FormType Enum"
 linktitle: "FormType"
 articleTitle: "FormType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumeration of posible types of Acro Form."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.FormType enum. Enumeration of posible types of Acro Form."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.forms/formtype/"

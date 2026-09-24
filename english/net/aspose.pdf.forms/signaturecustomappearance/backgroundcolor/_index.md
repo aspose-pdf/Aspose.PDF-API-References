@@ -2,8 +2,8 @@
 title: "SignatureCustomAppearance.BackgroundColor"
 linktitle: "BackgroundColor"
 articleTitle: "BackgroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets background color. Default value: Transparent."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureCustomAppearance property. Gets/sets background color. Default value: Transparent."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/"

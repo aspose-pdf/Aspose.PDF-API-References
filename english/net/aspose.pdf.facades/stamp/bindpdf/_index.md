@@ -2,8 +2,8 @@
 title: "Stamp.BindPdf"
 linktitle: "BindPdf"
 articleTitle: "BindPdf"
-second_title: "Aspose.PDF for .NET"
-description: "Sets PDF file and number of page which will be used as stamp."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Sets PDF file and number of page which will be used as stamp."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/stamp/bindpdf/"

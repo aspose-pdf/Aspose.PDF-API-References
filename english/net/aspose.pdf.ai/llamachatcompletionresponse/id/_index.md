@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionResponse.Id"
 linktitle: "Id"
 articleTitle: "Id"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a unique identifier for the chat completion."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionResponse property. Gets or sets a unique identifier for the chat completion."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/id/"

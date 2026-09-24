@@ -2,8 +2,8 @@
 title: "FieldSerializationResult.FieldSerializationStatus"
 linktitle: "FieldSerializationStatus"
 articleTitle: "FieldSerializationStatus"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the status of the form field serialization."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FieldSerializationResult property. Gets the status of the form field serialization."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/"

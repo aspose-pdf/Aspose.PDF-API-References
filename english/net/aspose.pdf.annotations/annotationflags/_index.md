@@ -2,8 +2,8 @@
 title: "AnnotationFlags Enum"
 linktitle: "AnnotationFlags"
 articleTitle: "AnnotationFlags"
-second_title: "Aspose.PDF for .NET"
-description: "A set of flags specifying various characteristics of the annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.AnnotationFlags enum. A set of flags specifying various characteristics of the annotation."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/annotationflags/"

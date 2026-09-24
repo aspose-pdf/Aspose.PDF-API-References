@@ -2,8 +2,8 @@
 title: "FormattedText.TextWidth"
 linktitle: "TextWidth"
 articleTitle: "TextWidth"
-second_title: "Aspose.PDF for .NET"
-description: "Gets width of text."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedText property. Gets width of text."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/formattedtext/textwidth/"

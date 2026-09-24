@@ -2,8 +2,8 @@
 title: "TextFragment.Page"
 linktitle: "Page"
 articleTitle: "Page"
-second_title: "Aspose.PDF for .NET"
-description: "Gets page that contains the TextFragment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets page that contains the TextFragment"
 type: docs
 weight: 180
 url: "/net/aspose.pdf.text/textfragment/page/"

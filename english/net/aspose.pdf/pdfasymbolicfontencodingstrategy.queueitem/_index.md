@@ -2,8 +2,8 @@
 title: "PdfASymbolicFontEncodingStrategy.QueueItem Class"
 linktitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
 articleTitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
-second_title: "Aspose.PDF for .NET"
-description: "Specifies encoding subtable. Each encoding subtable has unique combination of parameters (PlatformID, PlatformSpecificId). Enumeration and property were impl..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfASymbolicFontEncodingStrategy.QueueItem class. Specifies encoding subtable. Each encoding subtable has unique combination of parameters (Platfo..."
 type: docs
 weight: 2410
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/"

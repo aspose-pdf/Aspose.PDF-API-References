@@ -2,8 +2,8 @@
 title: "Page.TocInfo"
 linktitle: "TocInfo"
 articleTitle: "TocInfo"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets table of contents info."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets table of contents info."
 type: docs
 weight: 370
 url: "/net/aspose.pdf/page/tocinfo/"

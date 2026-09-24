@@ -2,8 +2,8 @@
 title: "PdfViewer.PrintStatus"
 linktitle: "PrintStatus"
 articleTitle: "PrintStatus"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the result of printing job. If success than null; otherwise, exception object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer property. Gets the result of printing job. If success than null; otherwise, exception object."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdfviewer/printstatus/"

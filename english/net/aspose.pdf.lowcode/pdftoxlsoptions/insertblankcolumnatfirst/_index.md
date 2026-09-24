@@ -2,8 +2,8 @@
 title: "PdfToXlsOptions.InsertBlankColumnAtFirst"
 linktitle: "InsertBlankColumnAtFirst"
 articleTitle: "InsertBlankColumnAtFirst"
-second_title: "Aspose.PDF for .NET"
-description: "Set true if you need inserting of blank column as the first column of worksheet. Default value is false; it means that blank column will not be inserted."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToXlsOptions property. Set true if you need inserting of blank column as the first column of worksheet. Default value is false; it means that blank column..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/pdftoxlsoptions/insertblankcolumnatfirst/"

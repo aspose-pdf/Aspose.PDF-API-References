@@ -2,8 +2,8 @@
 title: "LineInfo.VerticeCoordinate"
 linktitle: "VerticeCoordinate"
 articleTitle: "VerticeCoordinate"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets an array of numbers representing the alternating horizontal and vertical,coordinates, respectively, of each vertex."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineInfo property. Gets or sets an array of numbers representing the alternating horizontal and vertical,coordinates, respectively, of each vertex."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/lineinfo/verticecoordinate/"

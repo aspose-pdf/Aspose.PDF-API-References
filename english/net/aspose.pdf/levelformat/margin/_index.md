@@ -2,8 +2,8 @@
 title: "LevelFormat.Margin"
 linktitle: "Margin"
 articleTitle: "Margin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets a list level margin"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LevelFormat property. Gets or sets a list level margin"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/levelformat/margin/"

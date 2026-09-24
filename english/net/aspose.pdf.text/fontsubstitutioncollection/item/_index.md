@@ -2,8 +2,8 @@
 title: "FontSubstitutionCollection.Item"
 linktitle: "Item"
 articleTitle: "Item"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSubstitutionCollection property."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/item/"

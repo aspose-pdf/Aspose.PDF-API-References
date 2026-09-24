@@ -2,8 +2,8 @@
 title: "ChunkingOptions.MaxChunkSize"
 linktitle: "MaxChunkSize"
 articleTitle: "MaxChunkSize"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the maximum size of each chunk in tokens."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChunkingOptions property. Gets or sets the maximum size of each chunk in tokens."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/chunkingoptions/maxchunksize/"

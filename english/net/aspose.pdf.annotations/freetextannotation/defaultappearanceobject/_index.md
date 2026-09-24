@@ -2,8 +2,8 @@
 title: "FreeTextAnnotation.DefaultAppearanceObject"
 linktitle: "DefaultAppearanceObject"
 articleTitle: "DefaultAppearanceObject"
-second_title: "Aspose.PDF for .NET"
-description: "Object which represents default appearance of FreeText annotation."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation property. Object which represents default appearance of FreeText annotation."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/freetextannotation/defaultappearanceobject/"

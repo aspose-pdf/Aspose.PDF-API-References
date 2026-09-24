@@ -2,8 +2,8 @@
 title: "Form.SignDependentElementsRenderingModeWhenConverted"
 linktitle: "SignDependentElementsRenderingModeWhenConverted"
 articleTitle: "SignDependentElementsRenderingModeWhenConverted"
-second_title: "Aspose.PDF for .NET"
-description: "Forms can contain signing information, i.e. can be signed or unsigned. And form's view sometimes must depend on whether form is signed or not. This property ..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form field. Forms can contain signing information, i.e. can be signed or unsigned. And form's view sometimes must depend on whether form is signed or not. Th..."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted/"

@@ -2,8 +2,8 @@
 title: "SideBySidePagesComparisonResult.SecondPageChanges"
 linktitle: "SecondPageChanges"
 articleTitle: "SecondPageChanges"
-second_title: "Aspose.PDF for .NET"
-description: "Get a list of changes to the pages of the second page."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySidePagesComparisonResult property. Get a list of changes to the pages of the second page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/secondpagechanges/"

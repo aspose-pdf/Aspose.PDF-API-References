@@ -2,8 +2,8 @@
 title: "FormDataConverter.CreateMissingTable"
 linktitle: "CreateMissingTable"
 articleTitle: "CreateMissingTable"
-second_title: "Aspose.PDF for .NET"
-description: "ImportIntoDatabase will create table if it does not exists."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter property. ImportIntoDatabase will create table if it does not exists."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/formdataconverter/createmissingtable/"

@@ -2,8 +2,8 @@
 title: "OptionCollection Class"
 linktitle: "OptionCollection"
 articleTitle: "OptionCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Class representing collection of options of the choice field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.OptionCollection class. Class representing collection of options of the choice field."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.forms/optioncollection/"

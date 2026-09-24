@@ -2,8 +2,8 @@
 title: "OperatorCollection.Finalize"
 linktitle: "Finalize"
 articleTitle: "Finalize"
-second_title: "Aspose.PDF for .NET"
-description: ""
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/operatorcollection/finalize/"

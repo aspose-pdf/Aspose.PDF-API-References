@@ -2,8 +2,8 @@
 title: "OpenAIContext Class"
 linktitle: "OpenAIContext"
 articleTitle: "OpenAIContext"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the entity IDs related to an assistant."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIContext class. Represents the entity IDs related to an assistant."
 type: docs
 weight: 920
 url: "/net/aspose.pdf.ai/openaicontext/"

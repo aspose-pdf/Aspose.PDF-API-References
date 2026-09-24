@@ -2,8 +2,8 @@
 title: "RenderingOptions Class"
 linktitle: "RenderingOptions"
 articleTitle: "RenderingOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Represents rendering options."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.RenderingOptions class. Represents rendering options."
 type: docs
 weight: 2650
 url: "/net/aspose.pdf/renderingoptions/"

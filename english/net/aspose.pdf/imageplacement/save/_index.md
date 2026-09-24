@@ -2,8 +2,8 @@
 title: "ImagePlacement.Save"
 linktitle: "Save"
 articleTitle: "Save"
-second_title: "Aspose.PDF for .NET"
-description: "Saves image with corresponding transformations: scaling, rotation and resolution."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement method. Saves image with corresponding transformations: scaling, rotation and resolution."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/imageplacement/save/"

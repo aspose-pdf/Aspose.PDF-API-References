@@ -2,8 +2,8 @@
 title: "ComparisonMode Enum"
 linktitle: "ComparisonMode"
 articleTitle: "ComparisonMode"
-second_title: "Aspose.PDF for .NET"
-description: "The comparison mode enumeration."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.ComparisonMode enum. The comparison mode enumeration."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/comparisonmode/"

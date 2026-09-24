@@ -2,8 +2,8 @@
 title: "ImageFormat Enum"
 linktitle: "ImageFormat"
 articleTitle: "ImageFormat"
-second_title: "Aspose.PDF for .NET"
-description: "This enum represents image formats."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.ImageFormat enum. This enum represents image formats."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.drawing/imageformat/"

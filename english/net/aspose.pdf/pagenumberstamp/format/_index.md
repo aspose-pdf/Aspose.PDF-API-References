@@ -2,8 +2,8 @@
 title: "PageNumberStamp.Format"
 linktitle: "Format"
 articleTitle: "Format"
-second_title: "Aspose.PDF for .NET"
-description: "String value for stamping page numbers. Value must include char '#' which is replaced with the page number in the process of stamping."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageNumberStamp property. String value for stamping page numbers. Value must include char '#' which is replaced with the page number in the process of stamping."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagenumberstamp/format/"

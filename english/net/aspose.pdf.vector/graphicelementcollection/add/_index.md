@@ -2,8 +2,8 @@
 title: "GraphicElementCollection.Add"
 linktitle: "Add"
 articleTitle: "Add"
-second_title: "Aspose.PDF for .NET"
-description: "Adds a new to the collection. All items in the collection must have the same ."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElementCollection method. Adds a new to the collection. All items in the collection must have the same ."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicelementcollection/add/"

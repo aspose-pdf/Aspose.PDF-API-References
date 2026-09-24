@@ -2,8 +2,8 @@
 title: "EncodingType Enum"
 linktitle: "EncodingType"
 articleTitle: "EncodingType"
-second_title: "Aspose.PDF for .NET"
-description: "Enumerates encoding types of the text using."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.EncodingType enum. Enumerates encoding types of the text using."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/encodingtype/"

@@ -2,8 +2,8 @@
 title: "StreamSaveTarget.Data"
 linktitle: "Data"
 articleTitle: "Data"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the stream of current save target."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StreamSaveTarget property. Gets the stream of current save target."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/streamsavetarget/data/"

@@ -2,8 +2,8 @@
 title: "CreateChatCompletionChunkResponse.Object"
 linktitle: "Object"
 articleTitle: "Object"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the object type, which is always chat.completion.chunk."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateChatCompletionChunkResponse property. Gets or sets the object type, which is always chat.completion.chunk."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/object/"

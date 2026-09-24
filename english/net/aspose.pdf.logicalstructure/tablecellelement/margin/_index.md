@@ -2,8 +2,8 @@
 title: "TableCellElement.Margin"
 linktitle: "Margin"
 articleTitle: "Margin"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the padding."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellElement property. Gets or sets the padding."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/margin/"

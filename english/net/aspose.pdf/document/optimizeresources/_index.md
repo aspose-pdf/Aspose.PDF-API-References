@@ -2,8 +2,8 @@
 title: "Document.OptimizeResources"
 linktitle: "OptimizeResources"
 articleTitle: "OptimizeResources"
-second_title: "Aspose.PDF for .NET"
-description: "Optimize resources in the document: 1. Resources which are not used on the document pages are removed; 2. Equal resources are joined into one object; 3. Unus..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Optimize resources in the document: 1. Resources which are not used on the document pages are removed; 2. Equal resources are joined into on..."
 type: docs
 weight: 810
 url: "/net/aspose.pdf/document/optimizeresources/"

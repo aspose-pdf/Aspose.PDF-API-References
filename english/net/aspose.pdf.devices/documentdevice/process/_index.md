@@ -2,8 +2,8 @@
 title: "DocumentDevice.Process"
 linktitle: "Process"
 articleTitle: "Process"
-second_title: "Aspose.PDF for .NET"
-description: "Each device represents some operation on the document, e.g. we can convert pdf document into another format."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentDevice method. Each device represents some operation on the document, e.g. we can convert pdf document into another format."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.devices/documentdevice/process/"

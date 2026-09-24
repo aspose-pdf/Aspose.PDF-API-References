@@ -2,8 +2,8 @@
 title: "AttributeName.Placement_Inline"
 linktitle: "Placement_Inline"
 articleTitle: "Placement_Inline"
-second_title: "Aspose.PDF for .NET"
-description: "Attribute Placement: Inline - Packed in the inline-progression direction within an enclosing BLSE."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Placement: Inline - Packed in the inline-progression direction within an enclosing BLSE."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/attributename/placement_inline/"

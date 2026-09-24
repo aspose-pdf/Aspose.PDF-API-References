@@ -2,8 +2,8 @@
 title: "Point3D.Y"
 linktitle: "Y"
 articleTitle: "Y"
-second_title: "Aspose.PDF for .NET"
-description: "Y coordinate value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point3D property. Y coordinate value."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/point3d/y/"

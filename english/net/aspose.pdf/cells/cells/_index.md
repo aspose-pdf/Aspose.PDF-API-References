@@ -2,8 +2,8 @@
 title: "Cells.Cells"
 linktitle: "Cells"
 articleTitle: "Cells"
-second_title: "Aspose.PDF for .NET"
-description: "Initializes a new instance of the Cells class."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cells constructor. Initializes a new instance of the Cells class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/cells/cells/"

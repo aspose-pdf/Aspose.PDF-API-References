@@ -2,8 +2,8 @@
 title: "PdfAOptionsBase.ExcludeFontsStrategy"
 linktitle: "ExcludeFontsStrategy"
 articleTitle: "ExcludeFontsStrategy"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the strategy for removing fonts to minimize the output file size during the PDF/A conversion process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets or sets the strategy for removing fonts to minimize the output file size during the PDF/A conversion process."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/excludefontsstrategy/"

@@ -2,8 +2,8 @@
 title: "FigureElement.Image"
 linktitle: "Image"
 articleTitle: "Image"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the value of figure structure element."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FigureElement property. Gets the value of figure structure element."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.structure/figureelement/image/"

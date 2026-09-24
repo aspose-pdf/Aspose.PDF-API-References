@@ -2,8 +2,8 @@
 title: "CosPdfBoolean.Value"
 linktitle: "Value"
 articleTitle: "Value"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the value."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfBoolean property. Gets the value."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/value/"

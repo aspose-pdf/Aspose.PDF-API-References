@@ -2,8 +2,8 @@
 title: "LlamaChatCompletionRequest.MaxTokens"
 linktitle: "MaxTokens"
 articleTitle: "MaxTokens"
-second_title: "Aspose.PDF for .NET"
-description: "Sets or gets the maximum number of tokens to generate in the chat completion. Default value is null, means infinity."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionRequest property. Sets or gets the maximum number of tokens to generate in the chat completion. Default value is null, means infinity."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/maxtokens/"

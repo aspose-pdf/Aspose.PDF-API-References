@@ -2,8 +2,8 @@
 title: "TextBoxField.MaxLen"
 linktitle: "MaxLen"
 articleTitle: "MaxLen"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets maximum length of text in the field."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBoxField property. Gets or sets maximum length of text in the field."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/textboxfield/maxlen/"

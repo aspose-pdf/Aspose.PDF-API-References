@@ -2,8 +2,8 @@
 title: "PdfXmpMetadata.GetPrefixByNamespaceURI"
 linktitle: "GetPrefixByNamespaceURI"
 articleTitle: "GetPrefixByNamespaceURI"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the prefix by namespace URI."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Gets the prefix by namespace URI."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/getprefixbynamespaceuri/"

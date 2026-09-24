@@ -2,8 +2,8 @@
 title: "TimestampOptions.Visible"
 linktitle: "Visible"
 articleTitle: "Visible"
-second_title: "Aspose.PDF for .NET"
-description: "Visibility flag – false for a pure timestamp (no visible annotation)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampOptions property. Visibility flag – false for a pure timestamp (no visible annotation)."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.lowcode/timestampoptions/visible/"

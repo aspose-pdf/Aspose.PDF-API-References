@@ -2,8 +2,8 @@
 title: "FileDataSource.DataType"
 linktitle: "DataType"
 articleTitle: "DataType"
-second_title: "Aspose.PDF for .NET"
-description: "Type of data source (file)."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileDataSource property. Type of data source (file)."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/filedatasource/datatype/"

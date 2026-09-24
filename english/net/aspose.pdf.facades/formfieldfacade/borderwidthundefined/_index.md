@@ -2,8 +2,8 @@
 title: "FormFieldFacade.BorderWidthUndefined"
 linktitle: "BorderWidthUndefined"
 articleTitle: "BorderWidthUndefined"
-second_title: "Aspose.PDF for .NET"
-description: "Undefined border width."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Undefined border width."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/formfieldfacade/borderwidthundefined/"

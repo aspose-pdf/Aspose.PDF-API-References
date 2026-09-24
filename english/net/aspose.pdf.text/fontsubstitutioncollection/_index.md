@@ -2,8 +2,8 @@
 title: "FontSubstitutionCollection Class"
 linktitle: "FontSubstitutionCollection"
 articleTitle: "FontSubstitutionCollection"
-second_title: "Aspose.PDF for .NET"
-description: "Represents font substitution strategies collection."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.FontSubstitutionCollection class. Represents font substitution strategies collection."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/"

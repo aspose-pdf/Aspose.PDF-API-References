@@ -2,8 +2,8 @@
 title: "InkAnnotation.InkList"
 linktitle: "InkList"
 articleTitle: "InkList"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets list of gestures that are independent lines which are represented by Point[] arrays."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InkAnnotation property. Gets or sets list of gestures that are independent lines which are represented by Point[] arrays."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/inkannotation/inklist/"

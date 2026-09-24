@@ -2,8 +2,8 @@
 title: "PrintScaling Enum"
 linktitle: "PrintScaling"
 articleTitle: "PrintScaling"
-second_title: "Aspose.PDF for .NET"
-description: "The page scaling option that shall be selected when a print dialog is displayed for this document."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PrintScaling enum. The page scaling option that shall be selected when a print dialog is displayed for this document."
 type: docs
 weight: 2600
 url: "/net/aspose.pdf/printscaling/"

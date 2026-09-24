@@ -2,8 +2,8 @@
 title: "BasicSetColorOperator.M"
 linktitle: "M"
 articleTitle: "M"
-second_title: "Aspose.PDF for .NET"
-description: "Gets magenta component of CMYK color."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BasicSetColorOperator property. Gets magenta component of CMYK color."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/m/"

@@ -2,8 +2,8 @@
 title: "TiffSettings Class"
 linktitle: "TiffSettings"
 articleTitle: "TiffSettings"
-second_title: "Aspose.PDF for .NET"
-description: "This class represents settings for importing pdf to Tiff."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.TiffSettings class. This class represents settings for importing pdf to Tiff."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.devices/tiffsettings/"

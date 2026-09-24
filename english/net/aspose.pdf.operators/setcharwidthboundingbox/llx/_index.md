@@ -2,8 +2,8 @@
 title: "SetCharWidthBoundingBox.Llx"
 linktitle: "Llx"
 articleTitle: "Llx"
-second_title: "Aspose.PDF for .NET"
-description: "Lower-left horizontal coordinate of bounding rectangle."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidthBoundingBox property. Lower-left horizontal coordinate of bounding rectangle."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/llx/"

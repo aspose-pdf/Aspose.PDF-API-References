@@ -2,8 +2,8 @@
 title: "Document.FontUtilities"
 linktitle: "FontUtilities"
 articleTitle: "FontUtilities"
-second_title: "Aspose.PDF for .NET"
-description: "IDocumentFontUtilities instance"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. IDocumentFontUtilities instance"
 type: docs
 weight: 1220
 url: "/net/aspose.pdf/document/fontutilities/"

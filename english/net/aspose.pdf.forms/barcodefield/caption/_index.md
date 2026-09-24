@@ -2,8 +2,8 @@
 title: "BarcodeField.Caption"
 linktitle: "Caption"
 articleTitle: "Caption"
-second_title: "Aspose.PDF for .NET"
-description: "Gets the caption of the barcode object."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BarcodeField property. Gets the caption of the barcode object."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/barcodefield/caption/"

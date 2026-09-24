@@ -2,8 +2,8 @@
 title: "TimestampOptions Class"
 linktitle: "TimestampOptions"
 articleTitle: "TimestampOptions"
-second_title: "Aspose.PDF for .NET"
-description: "Options for the Timestamp Low‑Code plugin."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TimestampOptions class. Options for the Timestamp Low‑Code plugin."
 type: docs
 weight: 1030
 url: "/net/aspose.pdf.lowcode/timestampoptions/"

@@ -2,8 +2,8 @@
 title: "Artifact.Position"
 linktitle: "Position"
 articleTitle: "Position"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets artifact position. If this property is specified, then margins and alignments are ignored."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets or sets artifact position. If this property is specified, then margins and alignments are ignored."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/artifact/position/"

@@ -2,8 +2,8 @@
 title: "RequiredAction.SubmitToolOutputs"
 linktitle: "SubmitToolOutputs"
 articleTitle: "SubmitToolOutputs"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets details on the tool outputs needed for this run to continue."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RequiredAction property. Gets or sets details on the tool outputs needed for this run to continue."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/requiredaction/submittooloutputs/"

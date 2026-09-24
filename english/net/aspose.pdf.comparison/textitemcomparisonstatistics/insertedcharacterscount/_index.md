@@ -2,8 +2,8 @@
 title: "TextItemComparisonStatistics.InsertedCharactersCount"
 linktitle: "InsertedCharactersCount"
 articleTitle: "InsertedCharactersCount"
-second_title: "Aspose.PDF for .NET"
-description: "Gets and sets the number of inseted characters."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextItemComparisonStatistics property. Gets and sets the number of inseted characters."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/"

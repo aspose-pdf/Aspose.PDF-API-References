@@ -2,8 +2,8 @@
 title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.SupposedFileName"
 linktitle: "SupposedFileName"
 articleTitle: "SupposedFileName"
-second_title: "Aspose.PDF for .NET"
-description: "Set by converter. Supposed file name that goes from converter to code of custom method Can be used in custom code to decide how to process or where to save c..."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlPageMarkupSavingInfo field. Set by converter. Supposed file name that goes from converter to code of custom method Can be used in custom code to decide h..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/supposedfilename/"

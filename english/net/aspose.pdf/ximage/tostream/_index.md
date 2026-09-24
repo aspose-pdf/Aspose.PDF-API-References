@@ -2,8 +2,8 @@
 title: "XImage.ToStream"
 linktitle: "ToStream"
 articleTitle: "ToStream"
-second_title: "Aspose.PDF for .NET"
-description: "Returns the original image stream."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Returns the original image stream."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/ximage/tostream/"

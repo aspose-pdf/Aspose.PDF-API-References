@@ -2,8 +2,8 @@
 title: "PdfPageEditor.ProcessPages"
 linktitle: "ProcessPages"
 articleTitle: "ProcessPages"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the page numbers to be edited. By default, each page would be edited."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor property. Gets or sets the page numbers to be edited. By default, each page would be edited."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdfpageeditor/processpages/"

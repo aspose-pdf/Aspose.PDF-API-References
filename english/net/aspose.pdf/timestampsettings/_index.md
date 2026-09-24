@@ -2,8 +2,8 @@
 title: "TimestampSettings Class"
 linktitle: "TimestampSettings"
 articleTitle: "TimestampSettings"
-second_title: "Aspose.PDF for .NET"
-description: "Represents the ocsp settings using during signing process."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TimestampSettings class. Represents the ocsp settings using during signing process."
 type: docs
 weight: 3050
 url: "/net/aspose.pdf/timestampsettings/"

@@ -2,8 +2,8 @@
 title: "Image.ImageScale"
 linktitle: "ImageScale"
 articleTitle: "ImageScale"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets the image scale."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets the image scale."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/image/imagescale/"

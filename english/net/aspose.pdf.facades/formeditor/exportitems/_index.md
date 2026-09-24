@@ -2,8 +2,8 @@
 title: "FormEditor.ExportItems"
 linktitle: "ExportItems"
 articleTitle: "ExportItems"
-second_title: "Aspose.PDF for .NET"
-description: "Sets options for combo box with export values."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor property. Sets options for combo box with export values."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.facades/formeditor/exportitems/"

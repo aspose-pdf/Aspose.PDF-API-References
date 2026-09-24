@@ -2,8 +2,8 @@
 title: "TimestampSettings.DigestHashAlgorithm"
 linktitle: "DigestHashAlgorithm"
 articleTitle: "DigestHashAlgorithm"
-second_title: "Aspose.PDF for .NET"
-description: "Gets/sets the digest algorithm for internal hash functions."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampSettings property. Gets/sets the digest algorithm for internal hash functions."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/timestampsettings/digesthashalgorithm/"

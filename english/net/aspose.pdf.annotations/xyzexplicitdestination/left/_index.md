@@ -2,8 +2,8 @@
 title: "XYZExplicitDestination.Left"
 linktitle: "Left"
 articleTitle: "Left"
-second_title: "Aspose.PDF for .NET"
-description: "Gets left horizontal coordinate of the upper-left corner of the window."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination property. Gets left horizontal coordinate of the upper-left corner of the window."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/left/"

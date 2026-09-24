@@ -2,8 +2,8 @@
 title: "Stamp Class"
 linktitle: "Stamp"
 articleTitle: "Stamp"
-second_title: "Aspose.PDF for .NET"
-description: "An abstract class for various kinds of stamps which come as descendants."
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Stamp class. An abstract class for various kinds of stamps which come as descendants."
 type: docs
 weight: 2850
 url: "/net/aspose.pdf/stamp/"

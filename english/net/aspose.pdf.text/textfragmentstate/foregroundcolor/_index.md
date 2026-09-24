@@ -2,8 +2,8 @@
 title: "TextFragmentState.ForegroundColor"
 linktitle: "ForegroundColor"
 articleTitle: "ForegroundColor"
-second_title: "Aspose.PDF for .NET"
-description: "Gets or sets foreground color of the text, represented by the object"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets foreground color of the text, represented by the object"
 type: docs
 weight: 150
 url: "/net/aspose.pdf.text/textfragmentstate/foregroundcolor/"
